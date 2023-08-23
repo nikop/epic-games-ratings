@@ -1,8 +1,8 @@
 {
   "ID": "poodle",
   "Name": "Twinmotion",
-  "Ranking_EOS_Progress": 554,
-  "Ranking_EOS_Completed": 261,
+  "Ranking_EOS_Progress": 555,
+  "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
@@ -25,6 +25,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:32:31.0007665+00:00",
-  "LastUpdate_Ratings": "2023-08-23T02:57:36.3807775+00:00",
-  "LastUpdate_Achievements": "2023-08-23T03:04:40.875795+00:00"
+  "LastUpdate_Ratings": "2023-08-23T03:57:19.6282164+00:00",
+  "LastUpdate_Achievements": "2023-08-23T04:04:16.6716556+00:00"
 }

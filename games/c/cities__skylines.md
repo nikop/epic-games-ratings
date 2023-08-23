@@ -6,36 +6,36 @@ Number of Ratings: 25,248  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~710,160 |
-| Green Energy | 60.00% | ~600,136 |
-| Foggy Weather | 59.00% | ~590,133 |
-| Singing In The- | 59.00% | ~590,133 |
-| Unpopular Mayor | 40.00% | ~400,090 |
-| Power at Your Fingertips | 33.00% | ~330,075 |
-| City Planner | 23.00% | ~230,052 |
-| Rolling in Dough | 20.00% | ~200,045 |
-| Does My Bum Look Big In This? | 17.00% | ~170,038 |
-| Climbing the Social Ladder | 16.00% | ~160,036 |
-| Safe City | 14.00% | ~140,032 |
-| Quay-King | 11.00% | ~110,025 |
-| Lawmaker | 10.00% | ~100,023 |
-| With Canals You Can! | 10.00% | ~100,023 |
-| Nomen Est Omen | 7.00% | ~70,016 |
-| Well Informed | 6.00% | ~60,014 |
-| Fire Watch | 5.00% | ~50,011 |
-| Greenest City | 4.00% | ~40,009 |
-| Heavenly City | 3.00% | ~30,007 |
-| Reporting! | 3.00% | ~30,007 |
-| SIMulated City | 3.00% | ~30,007 |
-| The Safest Town | 3.00% | ~30,007 |
-| Professional Dumper | 2.00% | ~20,005 |
-| City in Motion | 1.00% | ~10,002 |
-| Earthloving City | 1.00% | ~10,002 |
-| Metropolis | 1.00% | ~10,002 |
+| Pioneer | 71.00% | ~710,196 |
+| Green Energy | 60.00% | ~600,166 |
+| Foggy Weather | 59.00% | ~590,163 |
+| Singing In The- | 59.00% | ~590,163 |
+| Unpopular Mayor | 40.00% | ~400,110 |
+| Power at Your Fingertips | 33.00% | ~330,091 |
+| City Planner | 23.00% | ~230,063 |
+| Rolling in Dough | 20.00% | ~200,055 |
+| Does My Bum Look Big In This? | 17.00% | ~170,047 |
+| Climbing the Social Ladder | 16.00% | ~160,044 |
+| Safe City | 14.00% | ~140,039 |
+| Quay-King | 11.00% | ~110,030 |
+| Lawmaker | 10.00% | ~100,028 |
+| With Canals You Can! | 10.00% | ~100,028 |
+| Nomen Est Omen | 7.00% | ~70,019 |
+| Well Informed | 6.00% | ~60,017 |
+| Fire Watch | 5.00% | ~50,014 |
+| Greenest City | 4.00% | ~40,011 |
+| Heavenly City | 3.00% | ~30,008 |
+| Reporting! | 3.00% | ~30,008 |
+| SIMulated City | 3.00% | ~30,008 |
+| The Safest Town | 3.00% | ~30,008 |
+| Professional Dumper | 2.00% | ~20,006 |
+| City in Motion | 1.00% | ~10,003 |
+| Earthloving City | 1.00% | ~10,003 |
+| Metropolis | 1.00% | ~10,003 |
 | Higher Education | 0.80% | ~8,002 |
 | Beam Me Up | 0.70% | ~7,002 |
-| Full Capacity | 0.60% | ~6,001 |
-| Terraformer | 0.60% | ~6,001 |
+| Full Capacity | 0.60% | ~6,002 |
+| Terraformer | 0.60% | ~6,002 |
 | Decorator | 0.50% | ~5,001 |
 | Drop the Base | 0.50% | ~5,001 |
 | It's heading right for us! | 0.50% | ~5,001 |
@@ -59,14 +59,14 @@ Number of Ratings: 25,248  (23.09.2022)
 | Run, Bambi! | 0.30% | ~3,001 |
 | Short Fuse | 0.30% | ~3,001 |
 | We need snorkels! | 0.30% | ~3,001 |
-| City in Motion 2 | 0.20% | ~2,000 |
-| Eternal City | 0.20% | ~2,000 |
-| It's Wintertime! | 0.20% | ~2,000 |
-| Make Them Pay | 0.20% | ~2,000 |
-| Medic! | 0.20% | ~2,000 |
-| New Eden | 0.20% | ~2,000 |
-| Power to the People | 0.20% | ~2,000 |
-| The Park To Rule All Parks | 0.20% | ~2,000 |
+| City in Motion 2 | 0.20% | ~2,001 |
+| Eternal City | 0.20% | ~2,001 |
+| It's Wintertime! | 0.20% | ~2,001 |
+| Make Them Pay | 0.20% | ~2,001 |
+| Medic! | 0.20% | ~2,001 |
+| New Eden | 0.20% | ~2,001 |
+| Power to the People | 0.20% | ~2,001 |
+| The Park To Rule All Parks | 0.20% | ~2,001 |
 | 1001 Nights | 0.10% | ~1,000 |
 | Academic Scholar | 0.10% | ~1,000 |
 | Airline Tycoon | 0.10% | ~1,000 |
@@ -126,8 +126,8 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~1,000 |
 | Z00 | 0.10% | ~1,000 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,000,226 (Ranked 13)  
-Completed: 10 (0.00%) (Ranked 261)  
+Progressed: 1,000,276 (Ranked 13)  
+Completed: 10 (0.00%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -251,7 +251,7 @@ Completed: 10 (0.00%) (Ranked 261)
 | 2023-08-20 | 996,341 | 10 |
 | 2023-08-21 | 998,176 | 10 |
 | 2023-08-22 | 1,000,015 | 10 |
-| 2023-08-23 | 1,000,226 | 10 |
+| 2023-08-23 | 1,000,276 | 10 |
 ## Awards
 Max (Relaxing): 5,195  (Ranked 67)  
 Sum: 39,356 (Ranked 32)  

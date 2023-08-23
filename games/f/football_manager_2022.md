@@ -13,18 +13,18 @@ Number of Ratings: 19,160  (23.09.2022)
 | I'm The Boss! | 42.00% | ~197,867 |
 | Hat-trick | 41.00% | ~193,156 |
 | Scoring Streak | 38.00% | ~179,023 |
-| Unbeatable! | 37.00% | ~174,311 |
-| Thumping | 37.00% | ~174,311 |
-| Superb Dressing Room Atmosphere | 35.00% | ~164,889 |
+| Unbeatable! | 37.00% | ~174,312 |
+| Thumping | 37.00% | ~174,312 |
+| Superb Dressing Room Atmosphere | 35.00% | ~164,890 |
 | Total Support | 32.00% | ~150,756 |
 | Record Signing | 32.00% | ~150,756 |
 | He's a Natural | 31.00% | ~146,045 |
 | Millionaire's Club | 31.00% | ~146,045 |
 | Team Performance | 30.00% | ~141,334 |
-| Parked The Bus | 29.00% | ~136,622 |
-| Shrewd Spender | 29.00% | ~136,622 |
-| Star Man | 29.00% | ~136,622 |
-| Attack! | 28.00% | ~131,911 |
+| Parked The Bus | 29.00% | ~136,623 |
+| Shrewd Spender | 29.00% | ~136,623 |
+| Star Man | 29.00% | ~136,623 |
+| Attack! | 28.00% | ~131,912 |
 | You're On Fire | 26.00% | ~122,489 |
 | On A Roll | 26.00% | ~122,489 |
 | Tremendous Trio | 26.00% | ~122,489 |
@@ -41,8 +41,8 @@ Number of Ratings: 19,160  (23.09.2022)
 | Cup Glory! | 22.00% | ~103,645 |
 | Splashing The Cash | 21.00% | ~98,934 |
 | Clean Bill of Health | 21.00% | ~98,934 |
-| Irresistible Force | 20.00% | ~94,222 |
-| Excellent Match Cohesion | 20.00% | ~94,222 |
+| Irresistible Force | 20.00% | ~94,223 |
+| Excellent Match Cohesion | 20.00% | ~94,223 |
 | Do The Double | 19.00% | ~89,511 |
 | Top Form | 17.00% | ~80,089 |
 | Cash To Burn | 17.00% | ~80,089 |
@@ -53,7 +53,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Eyes and Ears | 14.00% | ~65,956 |
 | Comeback King! | 13.00% | ~61,245 |
 | You're Up! | 13.00% | ~61,245 |
-| Money, Money, Money | 12.00% | ~56,533 |
+| Money, Money, Money | 12.00% | ~56,534 |
 | Superb Strike | 10.00% | ~47,111 |
 | International Superstar | 10.00% | ~47,111 |
 | Invincible! | 10.00% | ~47,111 |
@@ -105,8 +105,8 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~471 |
 | Shoestring Budget | 0.10% | ~471 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 471,112 (Ranked 36)  
-Completed: 20 (0.00%) (Ranked 261)  
+Progressed: 471,113 (Ranked 36)  
+Completed: 20 (0.00%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -230,10 +230,10 @@ Completed: 20 (0.00%) (Ranked 261)
 | 2023-08-20 | 470,909 | 20 |
 | 2023-08-21 | 471,015 | 20 |
 | 2023-08-22 | 471,109 | 20 |
-| 2023-08-23 | 471,112 | 20 |
+| 2023-08-23 | 471,113 | 20 |
 ## Awards
 Max (Relaxing): 6,410  (Ranked 54)  
-Sum: 50,440 (Ranked 24)  
+Sum: 50,441 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -246,7 +246,7 @@ Diff (max vs sum): 30
 | This game has Diverse Characters | 5,465 |
 | This game has Amazing Storytelling | 4,886 |
 | This game has Obsessive Gameplay | 4,416 |
-| This game has Amazing Characters | 4,354 |
+| This game has Amazing Characters | 4,355 |
 | This game has a Creative Community | 1,495 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -460,3 +460,4 @@ Diff (max vs sum): 30
 | 2023-08-20 | 4.80 | - | 6,406 | 50,421 |
 | 2023-08-21 | 4.80 | - | 6,408 | 50,430 |
 | 2023-08-22 | 4.80 | - | 6,410 | 50,440 |
+| 2023-08-23 | 4.80 | - | 6,410 | 50,441 |

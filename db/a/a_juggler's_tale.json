@@ -2,8 +2,8 @@
   "ID": "2cb0f22cc9db4ecba89d0774512294ff",
   "Name": "A Juggler\u0027s Tale",
   "ProductSlug": "a-jugglers-tale",
-  "Ranking_EOS_Progress": 554,
-  "Ranking_EOS_Completed": 261,
+  "Ranking_EOS_Progress": 555,
+  "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:47.1585707+00:00",
   "LastChanged": "2023-03-31T05:58:47.1585708+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:59.5624452+00:00",
-  "LastUpdate_Ratings": "2023-08-23T03:01:11.9890764+00:00",
-  "LastUpdate_Achievements": "2023-08-23T03:04:12.1864359+00:00"
+  "LastUpdate_Ratings": "2023-08-23T04:00:50.2644846+00:00",
+  "LastUpdate_Achievements": "2023-08-23T04:03:48.4094214+00:00"
 }

@@ -2,8 +2,8 @@
   "ID": "0e0f32d81c1b4ce98a0db2bc03f2312c",
   "Name": "Prince of Persia: Warrior Within Standard Edition",
   "ProductSlug": "prince-of-persia-warrior-within",
-  "Ranking_EOS_Progress": 554,
-  "Ranking_EOS_Completed": 261,
+  "Ranking_EOS_Progress": 555,
+  "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-17T20:57:08.9327312+00:00",
-  "LastUpdate_Ratings": "2023-08-23T02:59:15.7246115+00:00",
-  "LastUpdate_Achievements": "2023-08-23T03:04:58.4168406+00:00"
+  "LastUpdate_Ratings": "2023-08-23T03:58:57.6422656+00:00",
+  "LastUpdate_Achievements": "2023-08-23T04:04:33.9829233+00:00"
 }

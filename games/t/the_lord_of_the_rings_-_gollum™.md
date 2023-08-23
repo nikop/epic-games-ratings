@@ -9,7 +9,7 @@
 | Collectibles Part 1 | 52.00% | ~264 |
 | Wait! Wait! Not yet! | 38.00% | ~193 |
 | Like Flying... | 33.00% | ~168 |
-| The Maggot | 27.00% | ~137 |
+| The Maggot | 28.00% | ~142 |
 | Memories | 27.00% | ~137 |
 | The Breeder | 23.00% | ~117 |
 | The Veteran | 19.00% | ~97 |
@@ -42,7 +42,7 @@
 | River Hobbit | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 508 (Ranked 226)  
-Completed: 1 (0.20%) (Ranked 188)  
+Completed: 1 (0.20%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

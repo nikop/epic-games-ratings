@@ -35,6 +35,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lighthouse | 2.00% | ~271 |
 | Oracle | 2.00% | ~271 |
 | Pyramids | 2.00% | ~271 |
+| Christianity | 2.00% | ~271 |
 | Judaism | 2.00% | ~271 |
 | Babylonian Paganism | 2.00% | ~271 |
 | Carthaginian Paganism | 2.00% | ~271 |
@@ -66,7 +67,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Necropolis | 1.00% | ~135 |
 | Learn to Play 1 | 1.00% | ~135 |
 | Learn to Play 2 | 1.00% | ~135 |
-| Christianity | 1.00% | ~135 |
 | Manichaeism | 1.00% | ~135 |
 | Egyptian Paganism | 1.00% | ~135 |
 | Zoroastrianism | 1.00% | ~135 |
@@ -80,14 +80,15 @@ Number of Ratings: 1,307  (23.09.2022)
 | Beloved | 0.80% | ~108 |
 | Conqueror | 0.80% | ~108 |
 | Lion | 0.80% | ~108 |
+| Patrons | 0.80% | ~108 |
 | Temple of Solomon | 0.80% | ~108 |
 | Persian Paganism | 0.80% | ~108 |
 | Building Wonders | 0.80% | ~108 |
 | Legalism | 0.80% | ~108 |
 | Phalangite | 0.80% | ~108 |
 | Invincible | 0.70% | ~95 |
+| Subjugator | 0.70% | ~95 |
 | Good Difficulty | 0.70% | ~95 |
-| Patrons | 0.70% | ~95 |
 | Statesmen | 0.70% | ~95 |
 | Traders | 0.70% | ~95 |
 | Hittite Iron | 0.70% | ~95 |
@@ -104,7 +105,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Single Player Game | 0.70% | ~95 |
 | Capable | 0.60% | ~81 |
 | Ready | 0.60% | ~81 |
-| Subjugator | 0.60% | ~81 |
 | Landowners | 0.60% | ~81 |
 | Riders | 0.60% | ~81 |
 | Church of the Holy Sepulchre | 0.60% | ~81 |
@@ -303,8 +303,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,532 (Ranked 118)  
-Completed: 5 (0.04%) (Ranked 231)  
+Progressed: 13,533 (Ranked 118)  
+Completed: 5 (0.04%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -428,6 +428,7 @@ Completed: 5 (0.04%) (Ranked 231)
 | 2023-08-20 | 13,503 | 5 |
 | 2023-08-21 | 13,520 | 5 |
 | 2023-08-22 | 13,532 | 5 |
+| 2023-08-23 | 13,533 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,798 (Ranked 207)  

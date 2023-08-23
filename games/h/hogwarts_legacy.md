@@ -12,13 +12,13 @@ Rating: 4.77 (Ranked 109)
 | A Keen Sense of Spell | 10.00% | ~29,064 |
 | A Talent for Spending | 10.00% | ~29,064 |
 | That's a Keeper | 10.00% | ~29,064 |
-| Grappling with a Graphorn | 9.00% | ~26,157 |
-| The One Who Mastered Memories | 9.00% | ~26,157 |
-| The Hallowed Hero | 9.00% | ~26,157 |
-| The Hero of Hogwarts | 9.00% | ~26,157 |
-| Challenge Accepted | 9.00% | ~26,157 |
-| Loom for Improvement | 9.00% | ~26,157 |
-| Coasting Along | 9.00% | ~26,157 |
+| Grappling with a Graphorn | 9.00% | ~26,158 |
+| The One Who Mastered Memories | 9.00% | ~26,158 |
+| The Hallowed Hero | 9.00% | ~26,158 |
+| The Hero of Hogwarts | 9.00% | ~26,158 |
+| Challenge Accepted | 9.00% | ~26,158 |
+| Loom for Improvement | 9.00% | ~26,158 |
+| Coasting Along | 9.00% | ~26,158 |
 | Followed the Butterflies | 8.00% | ~23,251 |
 | The Spell Master | 8.00% | ~23,251 |
 | Rising From the Ashes | 8.00% | ~23,251 |
@@ -30,11 +30,11 @@ Rating: 4.77 (Ranked 109)
 | The Root of the Problem | 5.00% | ~14,532 |
 | Third Time's a Charm | 5.00% | ~14,532 |
 | Raising Expectations | 5.00% | ~14,532 |
-| The Toast of the Town | 4.00% | ~11,625 |
-| Room with a View | 4.00% | ~11,625 |
-| The Intrepid Explorer | 4.00% | ~11,625 |
-| The Gryffindor in the Graveyard | 4.00% | ~11,625 |
-| The Ends Petrify the Means | 4.00% | ~11,625 |
+| The Toast of the Town | 4.00% | ~11,626 |
+| Room with a View | 4.00% | ~11,626 |
+| The Intrepid Explorer | 4.00% | ~11,626 |
+| The Gryffindor in the Graveyard | 4.00% | ~11,626 |
+| The Ends Petrify the Means | 4.00% | ~11,626 |
 | Going Through the Potions | 3.00% | ~8,719 |
 | Floo Around the World | 3.00% | ~8,719 |
 | The Wise Owl | 3.00% | ~8,719 |
@@ -51,8 +51,8 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,744 |
 | Collector's Edition | 0.30% | ~872 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,637 (Ranked 43)  
-Completed: 454 (0.16%) (Ranked 193)  
+Progressed: 290,639 (Ranked 43)  
+Completed: 454 (0.16%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -176,7 +176,7 @@ Completed: 454 (0.16%) (Ranked 193)
 | 2023-08-20 | 290,517 | 453 |
 | 2023-08-21 | 290,578 | 453 |
 | 2023-08-22 | 290,631 | 454 |
-| 2023-08-23 | 290,637 | 454 |
+| 2023-08-23 | 290,639 | 454 |
 ## Awards
 Max (Character Customization): 21,884  (Ranked 17)  
 Sum: 41,412 (Ranked 30)  

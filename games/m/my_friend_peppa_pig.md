@@ -16,8 +16,8 @@
 | Helping Tiddles the Tortoise. | 24.00% | ~19 |
 | Always Remember To Eat Your Five! | 12.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 78 (Ranked 346)  
-Completed: 4 (5.13%) (Ranked 50)  
+Progressed: 78 (Ranked 347)  
+Completed: 4 (5.13%) (Ranked 51)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -31,7 +31,7 @@ Number of Ratings: 285  (23.09.2022)
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 912 (Ranked 204)  
-Completed: 0 (0.00%) (Ranked 261)  
+Completed: 0 (0.00%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

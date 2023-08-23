@@ -39,11 +39,11 @@
 | Now you are worthy | 50.00% | ~132 |
 | Guiding on the right path | 47.00% | ~124 |
 | Fight is life | 46.00% | ~121 |
-| Mysterious voice | 45.00% | ~118 |
+| Mysterious voice | 46.00% | ~121 |
 | No blades in the gym | 45.00% | ~118 |
 | Champion – no way back | 41.00% | ~108 |
+| Responsible approach | 41.00% | ~108 |
 | Your own way | 41.00% | ~108 |
-| Responsible approach | 40.00% | ~105 |
 | Poisoned fighter | 39.00% | ~103 |
 | Underground dwellers | 39.00% | ~103 |
 | Deal with life | 38.00% | ~100 |
@@ -72,7 +72,7 @@
 | The only right decision | 29.00% | ~76 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 263 (Ranked 273)  
-Completed: 8 (3.04%) (Ranked 74)  
+Completed: 8 (3.04%) (Ranked 75)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,9 +6,9 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 1.00% | ~2,242 |
-| Beast Intentions | 0.60% | ~1,345 |
-| The Cursed Farmer | 0.60% | ~1,345 |
+| A Brief Tour of the Realms | 1.00% | ~2,243 |
+| Beast Intentions | 0.60% | ~1,346 |
+| The Cursed Farmer | 0.60% | ~1,346 |
 | The Hunt for The Last Breath | 0.50% | ~953 |
 | The Mad Wizard | 0.40% | ~897 |
 | To Infinity's and Beyond | 0.40% | ~762 |
@@ -16,42 +16,43 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Ring of Regeneration | 0.30% | ~673 |
 | Seeking Allies | 0.30% | ~673 |
 | Are Ya Chicken? | 0.30% | ~673 |
-| Maddening | 0.20% | ~448 |
+| Maddening | 0.20% | ~449 |
 | Tall Tales | 0.20% | ~381 |
-| The Silken Swamp | 0.20% | ~448 |
-| Supply Run | 0.20% | ~448 |
+| The Silken Swamp | 0.20% | ~449 |
+| Supply Run | 0.20% | ~449 |
 | Seeds of Destruction | 0.20% | ~381 |
 | Vecna Lives! | 0.20% | ~381 |
 | Vecna Loots! | 0.20% | ~381 |
 | Return to the Tomb | 0.20% | ~381 |
-| A Persistent Buzzing | 0.20% | ~448 |
-| Beast Mode | 0.20% | ~448 |
-| Terror in the Dark | 0.20% | ~448 |
-| Low Initiative | 0.20% | ~448 |
-| A Mysterious Summons | 0.20% | ~448 |
-| Street War | 0.20% | ~448 |
-| Building Trust | 0.20% | ~448 |
-| Wisdom Check | 0.20% | ~448 |
-| Unearthed Evil | 0.20% | ~448 |
-| The Mists of Ravenloft | 0.20% | ~448 |
-| Family Entanglements | 0.20% | ~448 |
-| The Dinner Party | 0.20% | ~448 |
-| The Botched Kidnapping | 0.20% | ~448 |
-| Tower on the Lake | 0.20% | ~448 |
-| Trollskull Manor | 0.20% | ~448 |
-| The Crumbling Temple | 0.20% | ~448 |
-| Useless Allies | 0.20% | ~448 |
-| Mad Cow Disease | 0.20% | ~448 |
-| Exploring Port Nyanzaru | 0.20% | ~448 |
-| A Tale of Two Cities | 0.20% | ~448 |
-| The Darkness Runs Deeper | 0.20% | ~448 |
-| Running of the Saurs | 0.20% | ~448 |
-| The Contagious Curse | 0.20% | ~448 |
-| Escort to Waterdeep | 0.20% | ~448 |
-| Waterdeep Detours | 0.20% | ~448 |
-| Underdeep Cartography | 0.20% | ~448 |
-| Friendly Imps | 0.20% | ~448 |
-| Pure Energy | 0.20% | ~448 |
+| A Persistent Buzzing | 0.20% | ~449 |
+| Beast Mode | 0.20% | ~449 |
+| Terror in the Dark | 0.20% | ~449 |
+| Low Initiative | 0.20% | ~449 |
+| A Mysterious Summons | 0.20% | ~449 |
+| Street War | 0.20% | ~449 |
+| Building Trust | 0.20% | ~449 |
+| Wisdom Check | 0.20% | ~449 |
+| Unearthed Evil | 0.20% | ~449 |
+| The Mists of Ravenloft | 0.20% | ~449 |
+| Family Entanglements | 0.20% | ~449 |
+| The Dinner Party | 0.20% | ~449 |
+| The Botched Kidnapping | 0.20% | ~449 |
+| Tower on the Lake | 0.20% | ~449 |
+| Trollskull Manor | 0.20% | ~449 |
+| The Crumbling Temple | 0.20% | ~449 |
+| Useless Allies | 0.20% | ~449 |
+| Mad Cow Disease | 0.20% | ~449 |
+| Exploring Port Nyanzaru | 0.20% | ~449 |
+| A Tale of Two Cities | 0.20% | ~449 |
+| The Darkness Runs Deeper | 0.20% | ~449 |
+| Running of the Saurs | 0.20% | ~449 |
+| The Contagious Curse | 0.20% | ~449 |
+| Escort to Waterdeep | 0.20% | ~449 |
+| Waterdeep Detours | 0.20% | ~449 |
+| Underdeep Cartography | 0.20% | ~449 |
+| Friendly Imps | 0.20% | ~449 |
+| Overdue Rendezvous | 0.20% | ~449 |
+| Pure Energy | 0.20% | ~449 |
 | The Chaotic Hunt for The Last Breath | 0.20% | ~381 |
 | There's a Flying Snake in my Boot! | 0.20% | ~381 |
 | Pros and CONs | 0.10% | ~224 |
@@ -414,7 +415,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lost in the Deep | 0.10% | ~224 |
 | Easily Distracted | 0.10% | ~224 |
 | Rude Welcome | 0.10% | ~224 |
-| Overdue Rendezvous | 0.10% | ~224 |
 | Moose Tracks | 0.10% | ~191 |
 | An Awakened Axe | 0.10% | ~191 |
 | CONtagious Cold | 0.10% | ~191 |
@@ -523,8 +523,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~191 |
 | Animated Giff | 0.10% | ~191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,244 (Ranked 53)  
-Completed: 2,207 (0.98%) (Ranked 120)  
+Progressed: 224,253 (Ranked 53)  
+Completed: 2,207 (0.98%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -648,7 +648,7 @@ Completed: 2,207 (0.98%) (Ranked 120)
 | 2023-08-20 | 223,729 | 2,196 |
 | 2023-08-21 | 223,996 | 2,203 |
 | 2023-08-22 | 224,213 | 2,207 |
-| 2023-08-23 | 224,244 | 2,207 |
+| 2023-08-23 | 224,253 | 2,207 |
 ## Awards
 Max (Diverse Characters): 5,176  (Ranked 68)  
 Sum: 31,169 (Ranked 39)  

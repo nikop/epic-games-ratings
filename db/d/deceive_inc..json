@@ -6,7 +6,7 @@
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 110,
-  "Ranking_EOS_Completed": 248,
+  "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17564,
+  "EOS_Progressed": 17566,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8846,6 +8846,11 @@
       "Time": "2023-08-23T03:06:32.0529344+00:00",
       "NumProgressed": 17564,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-23T04:06:07.3444205+00:00",
+      "NumProgressed": 17566,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -8945,7 +8950,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2810
+      "UsersEstimate": 2811
     },
     {
       "ID": "0013",
@@ -8953,7 +8958,7 @@
       "Name": "Keycards Royale",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1756
+      "UsersEstimate": 1757
     },
     {
       "ID": "0014",
@@ -8985,7 +8990,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3337
+      "UsersEstimate": 3338
     },
     {
       "ID": "0018",
@@ -8993,7 +8998,7 @@
       "Name": "In It to Win It",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1756
+      "UsersEstimate": 1757
     },
     {
       "ID": "0019",
@@ -9041,7 +9046,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3864
+      "UsersEstimate": 3865
     },
     {
       "ID": "0025",
@@ -9081,7 +9086,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2283
+      "UsersEstimate": 2284
     },
     {
       "ID": "0030",
@@ -9144,7 +9149,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17564,
+      "Progressed": 17566,
       "Completed": 1
     }
   ],
@@ -9152,8 +9157,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-12T19:04:41.1874293+00:00",
-  "LastChanged_Achievements": "2023-08-23T03:06:32.0529339+00:00",
+  "LastChanged_Achievements": "2023-08-23T04:06:07.3444198+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:28.6624095+00:00",
-  "LastUpdate_Ratings": "2023-08-23T02:57:52.8385763+00:00",
-  "LastUpdate_Achievements": "2023-08-23T03:06:32.0530136+00:00"
+  "LastUpdate_Ratings": "2023-08-23T03:57:36.2449+00:00",
+  "LastUpdate_Achievements": "2023-08-23T04:06:07.3445755+00:00"
 }

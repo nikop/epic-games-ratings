@@ -14,7 +14,7 @@ Rating: 4.57 (Ranked 451)
 | What happens in Las Venturas... | 15.00% | ~1,804 |
 | Today Was a Good Day | 15.00% | ~1,804 |
 | Horror of the Santa Maria | 11.00% | ~1,323 |
-| Liberty City State of Mind | 9.00% | ~1,083 |
+| Liberty City State of Mind | 10.00% | ~1,203 |
 | The End of the Line | 8.00% | ~962 |
 | Original Gangster | 8.00% | ~962 |
 | With Extra Dip | 7.00% | ~842 |
@@ -42,7 +42,7 @@ Rating: 4.57 (Ranked 451)
 | I Ain't No Buster | 0.30% | ~36 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 12,028 (Ranked 120)  
-Completed: 40 (0.33%) (Ranked 168)  
+Completed: 40 (0.33%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

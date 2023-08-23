@@ -20,7 +20,7 @@
 | 500K$. | 1.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 948 (Ranked 202)  
-Completed: 0 (0.00%) (Ranked 261)  
+Completed: 0 (0.00%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

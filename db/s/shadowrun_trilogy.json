@@ -1,8 +1,8 @@
 {
   "ID": "2ae3b43880cd447ea4b439a8a32dcae3",
   "Name": "Shadowrun Trilogy",
-  "Ranking_EOS_Progress": 554,
-  "Ranking_EOS_Completed": 261,
+  "Ranking_EOS_Progress": 555,
+  "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
@@ -25,6 +25,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:31:37.8308346+00:00",
-  "LastUpdate_Ratings": "2023-08-23T03:00:56.4588294+00:00",
-  "LastUpdate_Achievements": "2023-08-23T03:06:49.6963927+00:00"
+  "LastUpdate_Ratings": "2023-08-23T04:00:35.447412+00:00",
+  "LastUpdate_Achievements": "2023-08-23T04:06:25.1828269+00:00"
 }

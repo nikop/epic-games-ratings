@@ -2,8 +2,8 @@
   "ID": "76b539ca06b74af6b79820d4a2198b96",
   "Name": "MythBusters - The Game Crazy Experiments Simulator",
   "ProductSlug": "mythbusters-the-game-crazy-experiments-simulator-6ef193",
-  "Ranking_EOS_Progress": 554,
-  "Ranking_EOS_Completed": 261,
+  "Ranking_EOS_Progress": 555,
+  "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-19T08:57:34.3448995+00:00",
-  "LastUpdate_Ratings": "2023-08-23T02:57:59.702414+00:00",
-  "LastUpdate_Achievements": "2023-08-23T03:05:16.5347882+00:00"
+  "LastUpdate_Ratings": "2023-08-23T03:57:42.371709+00:00",
+  "LastUpdate_Achievements": "2023-08-23T04:04:52.027745+00:00"
 }
