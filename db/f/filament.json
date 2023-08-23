@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 281,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -243,10 +243,10 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 199750,
+  "EOS_Progressed": 199751,
   "EOS_Completed": 486,
-  "EOS_NewPlayers": 551,
-  "EOS_NewCompleters": 7,
+  "EOS_NewPlayers": 549,
+  "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
     {
@@ -13623,6 +13623,11 @@
       "Time": "2023-08-23T05:04:49.2068993+00:00",
       "NumProgressed": 199750,
       "NumCompleted": 486
+    },
+    {
+      "Time": "2023-08-23T06:04:32.1910947+00:00",
+      "NumProgressed": 199751,
+      "NumCompleted": 486
     }
   ],
   "TotalAchievements": 29,
@@ -13658,7 +13663,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 187765
+      "UsersEstimate": 187766
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -13682,7 +13687,7 @@
       "Name": "A full deck.",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 1198
+      "UsersEstimate": 1199
     },
     {
       "ID": "ACHIEVEMENT_COCKPIT",
@@ -13706,7 +13711,7 @@
       "Name": "Answers can be found amongst the stars",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5992
+      "UsersEstimate": 5993
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTED",
@@ -13802,7 +13807,7 @@
       "Name": "Bend to the will of the arrows.",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5992
+      "UsersEstimate": 5993
     },
     {
       "ID": "ACHIEVEMENT_SECRET",
@@ -13810,7 +13815,7 @@
       "Name": "14237b6509eafd8c",
       "Percentage": 0.6,
       "XP": 80,
-      "UsersEstimate": 1198
+      "UsersEstimate": 1199
     },
     {
       "ID": "ACHIEVEMENT_SNOOPER",
@@ -13865,7 +13870,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 199750,
+      "Progressed": 199751,
       "Completed": 486
     }
   ],
@@ -13873,8 +13878,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-08-19T20:00:31.8399303+00:00",
-  "LastChanged_Achievements": "2023-08-23T05:04:49.2068988+00:00",
+  "LastChanged_Achievements": "2023-08-23T06:04:32.1910943+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:20.1074044+00:00",
-  "LastUpdate_Ratings": "2023-08-23T05:01:04.549784+00:00",
-  "LastUpdate_Achievements": "2023-08-23T05:04:49.2070062+00:00"
+  "LastUpdate_Ratings": "2023-08-23T06:00:22.6065684+00:00",
+  "LastUpdate_Achievements": "2023-08-23T06:04:32.1911711+00:00"
 }

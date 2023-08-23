@@ -6,21 +6,21 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~38,415 |
-| First Steps | 80.00% | ~33,045 |
-| Control the Shadows | 67.00% | ~27,675 |
+| Awakening | 93.00% | ~38,416 |
+| First Steps | 80.00% | ~33,046 |
+| Control the Shadows | 67.00% | ~27,676 |
 | Tools of the Trade | 63.00% | ~26,023 |
 | Apprentice | 60.00% | ~24,784 |
-| Secret Seeker | 57.00% | ~23,544 |
-| Forge of Assassins | 55.00% | ~22,718 |
-| Revenant | 52.00% | ~21,479 |
+| Secret Seeker | 57.00% | ~23,545 |
+| Forge of Assassins | 55.00% | ~22,719 |
+| Revenant | 52.00% | ~21,480 |
 | I don’t Care! | 45.00% | ~18,588 |
-| Bird of Prey | 37.00% | ~15,283 |
+| Bird of Prey | 37.00% | ~15,284 |
 | Engraved with Power | 32.00% | ~13,218 |
 | Lady | 31.00% | ~12,805 |
 | Fashionable Assassin | 27.00% | ~11,153 |
-| Apex Predator | 24.00% | ~9,913 |
-| Soul Reaver | 22.00% | ~9,087 |
+| Apex Predator | 24.00% | ~9,914 |
+| Soul Reaver | 22.00% | ~9,088 |
 | Embers | 21.00% | ~8,674 |
 | Wall Lizard | 20.00% | ~8,261 |
 | Clinging to Life | 18.00% | ~7,435 |
@@ -36,8 +36,8 @@ Number of Ratings: 88  (23.09.2022)
 | Bonds | 9.00% | ~3,718 |
 | Get Over Here | 9.00% | ~3,718 |
 | The Hidden Village | 9.00% | ~3,718 |
-| Denouement | 8.00% | ~3,304 |
-| A Pleasant Stay | 8.00% | ~3,304 |
+| Denouement | 8.00% | ~3,305 |
+| A Pleasant Stay | 8.00% | ~3,305 |
 | Pilgrimage | 7.00% | ~2,891 |
 | The Lookout | 5.00% | ~2,065 |
 | The Spirit of Vengeance | 5.00% | ~2,065 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Hot Potato | 1.00% | ~413 |
 | Anger Management | 1.00% | ~413 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,306 (Ranked 93)  
+Progressed: 41,307 (Ranked 93)  
 Completed: 210 (0.51%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 210 (0.51%) (Ranked 146)
 | 2023-08-20 | 41,146 | 208 |
 | 2023-08-21 | 41,212 | 209 |
 | 2023-08-22 | 41,284 | 209 |
-| 2023-08-23 | 41,306 | 210 |
+| 2023-08-23 | 41,307 | 210 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

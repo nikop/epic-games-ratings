@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 278,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1191,9 +1191,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 8468,
+  "EOS_Progressed": 8469,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11181,6 +11181,11 @@
       "Time": "2023-08-23T03:03:46.9824859+00:00",
       "NumProgressed": 8468,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-23T06:03:28.8531345+00:00",
+      "NumProgressed": 8469,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -11224,7 +11229,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 4488
+      "UsersEstimate": 4489
     },
     {
       "ID": "14",
@@ -11272,7 +11277,7 @@
       "Name": "Healer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 4403
+      "UsersEstimate": 4404
     },
     {
       "ID": "2",
@@ -11304,7 +11309,7 @@
       "Name": "First Step",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 6097
+      "UsersEstimate": 6098
     },
     {
       "ID": "23",
@@ -11344,7 +11349,7 @@
       "Name": "Energized",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2794
+      "UsersEstimate": 2795
     },
     {
       "ID": "28",
@@ -11464,7 +11469,7 @@
       "Name": "Bread and Circuses",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "41",
@@ -11520,7 +11525,7 @@
       "Name": "The Long Haul",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2794
+      "UsersEstimate": 2795
     },
     {
       "ID": "48",
@@ -11663,15 +11668,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 8468,
+      "Progressed": 8469,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-08-22T16:57:58.1853673+00:00",
-  "LastChanged_Achievements": "2023-08-23T05:03:32.9699842+00:00",
+  "LastChanged_Achievements": "2023-08-23T06:03:28.8531341+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:48.2219404+00:00",
-  "LastUpdate_Ratings": "2023-08-23T04:57:49.7053273+00:00",
-  "LastUpdate_Achievements": "2023-08-23T05:03:32.9701053+00:00"
+  "LastUpdate_Ratings": "2023-08-23T05:57:49.7474252+00:00",
+  "LastUpdate_Achievements": "2023-08-23T06:03:28.8532335+00:00"
 }

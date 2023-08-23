@@ -24,6 +24,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vecna Lives! | 0.20% | ~381 |
 | Vecna Loots! | 0.20% | ~381 |
 | Return to the Tomb | 0.20% | ~381 |
+| Heatwave | 0.20% | ~381 |
 | A Persistent Buzzing | 0.20% | ~449 |
 | Beast Mode | 0.20% | ~449 |
 | Terror in the Dark | 0.20% | ~449 |
@@ -40,6 +41,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tower on the Lake | 0.20% | ~449 |
 | Seeds of Deceit | 0.20% | ~449 |
 | Trollskull Manor | 0.20% | ~449 |
+| Attack on the Manor | 0.20% | ~449 |
 | The Crumbling Temple | 0.20% | ~449 |
 | Useless Allies | 0.20% | ~449 |
 | Mad Cow Disease | 0.20% | ~449 |
@@ -141,7 +143,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | More Than Well Equipped | 0.10% | ~191 |
 | Arcane Efforts | 0.10% | ~191 |
 | Keep Your Distance | 0.10% | ~191 |
-| Heatwave | 0.10% | ~191 |
 | To Avernus in a Handbasket | 0.10% | ~191 |
 | Hands Off! | 0.10% | ~191 |
 | The Dread Domain of Tovag | 0.10% | ~191 |
@@ -234,7 +235,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Gargoyle's Apprentice | 0.10% | ~224 |
 | House of Darkness | 0.10% | ~224 |
 | Home Not So Alone | 0.10% | ~191 |
-| Attack on the Manor | 0.10% | ~224 |
 | The Trepidatious Trio | 0.10% | ~224 |
 | Our Time To Shine | 0.10% | ~224 |
 | Review by the Blackstaff | 0.10% | ~191 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~191 |
 | Animated Giff | 0.10% | ~191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,263 (Ranked 53)  
+Progressed: 224,268 (Ranked 53)  
 Completed: 2,208 (0.98%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -648,7 +648,7 @@ Completed: 2,208 (0.98%) (Ranked 121)
 | 2023-08-20 | 223,729 | 2,196 |
 | 2023-08-21 | 223,996 | 2,203 |
 | 2023-08-22 | 224,213 | 2,207 |
-| 2023-08-23 | 224,263 | 2,208 |
+| 2023-08-23 | 224,268 | 2,208 |
 ## Awards
 Max (Diverse Characters): 5,176  (Ranked 68)  
 Sum: 31,169 (Ranked 39)  

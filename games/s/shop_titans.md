@@ -8,15 +8,15 @@ Number of Ratings: 12,664  (23.09.2022)
 | ---- | ---------- | ----- |
 | Sponsored by Argon | 1.00% | ~1,350 |
 | Basic in Bulk | 1.00% | ~1,350 |
+| Disintermediation | 1.00% | ~1,350 |
 | Tinkle of Coins | 1.00% | ~1,350 |
 | Titan's First Steps | 1.00% | ~1,350 |
-| Disintermediation | 0.90% | ~1,215 |
 | It's Free Real Estate | 0.90% | ~1,215 |
 | Capitalism Ho! | 0.90% | ~1,215 |
+| Another Satisfied Customer | 0.80% | ~1,080 |
 | Budding Merchant | 0.80% | ~1,080 |
 | One Easy Payment | 0.70% | ~945 |
 | Some Assembly Required | 0.70% | ~945 |
-| Another Satisfied Customer | 0.70% | ~945 |
 | Pretty Penny | 0.70% | ~945 |
 | Own the Means of Production | 0.70% | ~945 |
 | One-Armed Bandit | 0.60% | ~810 |
@@ -64,6 +64,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Mammonite | 0.30% | ~405 |
 | Wealth Beyond Measure | 0.30% | ~405 |
 | Fat Cat Tag Team | 0.30% | ~405 |
+| Miracle Alchemist | 0.30% | ~405 |
 | Laden with Loot | 0.30% | ~405 |
 | Seasoned Journeyman | 0.30% | ~405 |
 | Attrition Mission | 0.30% | ~405 |
@@ -92,7 +93,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Jackpot! | 0.20% | ~270 |
 | Item of Renown | 0.20% | ~270 |
 | Master Merchant | 0.20% | ~270 |
-| Miracle Alchemist | 0.20% | ~270 |
 | Bountiful Harvest | 0.20% | ~270 |
 | Precision Engineering | 0.20% | ~270 |
 | Scourge of the Seas | 0.20% | ~270 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~135 |
 | Cash Only Please | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,967 (Ranked 66)  
+Progressed: 134,972 (Ranked 66)  
 Completed: 138 (0.10%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 138 (0.10%) (Ranked 210)
 | 2023-08-20 | 134,856 | 133 |
 | 2023-08-21 | 134,907 | 134 |
 | 2023-08-22 | 134,956 | 136 |
-| 2023-08-23 | 134,967 | 138 |
+| 2023-08-23 | 134,972 | 138 |
 ## Awards
 Max (Great for Beginners): 4,709  (Ranked 71)  
 Sum: 27,128 (Ranked 47)  

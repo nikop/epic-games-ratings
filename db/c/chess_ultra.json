@@ -386,9 +386,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 202206,
+  "EOS_Progressed": 202207,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1576,
+  "EOS_NewPlayers": 1573,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14146,6 +14146,11 @@
       "Time": "2023-08-23T05:05:40.7527067+00:00",
       "NumProgressed": 202206,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-23T06:05:15.8270032+00:00",
+      "NumProgressed": 202207,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 38,
@@ -14205,7 +14210,7 @@
       "Name": "Check",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 109191
+      "UsersEstimate": 109192
     },
     {
       "ID": "Checkmate",
@@ -14229,7 +14234,7 @@
       "Name": "Chop Wood",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 139522
+      "UsersEstimate": 139523
     },
     {
       "ID": "DoubleCheck",
@@ -14245,7 +14250,7 @@
       "Name": "Doubled Pawn",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 113235
+      "UsersEstimate": 113236
     },
     {
       "ID": "Elo",
@@ -14325,7 +14330,7 @@
       "Name": "O-O",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 46507
+      "UsersEstimate": 46508
     },
     {
       "ID": "O-O-O",
@@ -14460,7 +14465,7 @@
     {
       "ID": "b4je51k",
       "IsBase": true,
-      "Progressed": 202206,
+      "Progressed": 202207,
       "Completed": 2
     }
   ],
@@ -14468,8 +14473,8 @@
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
   "LastChanged": "2023-08-18T16:59:14.0774112+00:00",
-  "LastChanged_Achievements": "2023-08-23T05:05:40.7527062+00:00",
+  "LastChanged_Achievements": "2023-08-23T06:05:15.8270026+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:40.810464+00:00",
-  "LastUpdate_Ratings": "2023-08-23T04:59:09.9889043+00:00",
-  "LastUpdate_Achievements": "2023-08-23T05:05:40.7528209+00:00"
+  "LastUpdate_Ratings": "2023-08-23T05:58:55.0863869+00:00",
+  "LastUpdate_Achievements": "2023-08-23T06:05:15.8270899+00:00"
 }

@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 448,
+  "EOS_Progressed": 449,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 416,
+  "EOS_NewPlayers": 417,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -791,6 +791,11 @@
       "Time": "2023-08-23T04:04:22.0173191+00:00",
       "NumProgressed": 448,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-23T06:04:09.8589138+00:00",
+      "NumProgressed": 449,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -811,7 +816,7 @@
       "Name": "A New Journey",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "_03_FinishAct1",
@@ -833,9 +838,9 @@
       "ID": "_05_FinishAct2",
       "SetID": "8a1io5d",
       "Name": "The Gambit Has Begun",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 76
+      "UsersEstimate": 81
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -931,7 +936,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -1010,14 +1015,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 448,
+      "Progressed": 449,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-23T05:04:22.0039032+00:00",
+  "LastChanged_Achievements": "2023-08-23T06:04:09.8589131+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:01.7621403+00:00",
-  "LastUpdate_Ratings": "2023-08-23T05:00:12.6580464+00:00",
-  "LastUpdate_Achievements": "2023-08-23T05:04:22.0039257+00:00"
+  "LastUpdate_Ratings": "2023-08-23T05:59:39.1353022+00:00",
+  "LastUpdate_Achievements": "2023-08-23T06:04:09.8589313+00:00"
 }

@@ -3109,7 +3109,7 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 435536,
+  "EOS_Progressed": 435549,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 2468,
   "EOS_NewCompleters": 0,
@@ -16894,6 +16894,11 @@
       "Time": "2023-08-23T05:03:19.0145892+00:00",
       "NumProgressed": 435536,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-23T06:03:17.1688252+00:00",
+      "NumProgressed": 435549,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -16961,7 +16966,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 17421
+      "UsersEstimate": 17422
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -17009,7 +17014,7 @@
       "Name": "High Speed Low Drag",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 17421
+      "UsersEstimate": 17422
     },
     {
       "ID": "ACH_JR_50",
@@ -17073,7 +17078,7 @@
       "Name": "Point Shooting",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 17421
+      "UsersEstimate": 17422
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -17177,22 +17182,22 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 17421
+      "UsersEstimate": 17422
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 435536,
+      "Progressed": 435549,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-08-22T20:00:13.1334125+00:00",
-  "LastChanged_Achievements": "2023-08-23T05:03:19.0145887+00:00",
+  "LastChanged_Achievements": "2023-08-23T06:03:17.1688247+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:00.8075845+00:00",
-  "LastUpdate_Ratings": "2023-08-23T05:00:11.7369738+00:00",
-  "LastUpdate_Achievements": "2023-08-23T05:03:19.0147+00:00"
+  "LastUpdate_Ratings": "2023-08-23T05:59:38.6300597+00:00",
+  "LastUpdate_Achievements": "2023-08-23T06:03:17.16891+00:00"
 }

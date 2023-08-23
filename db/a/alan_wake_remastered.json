@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 61358,
+  "EOS_Progressed": 61360,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 437,
+  "EOS_NewPlayers": 439,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -12102,6 +12102,11 @@
       "Time": "2023-08-23T05:06:50.2573166+00:00",
       "NumProgressed": 61358,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-08-23T06:06:14.3026096+00:00",
+      "NumProgressed": 61360,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -12113,7 +12118,7 @@
       "Name": "Follow the Light",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 23316
+      "UsersEstimate": 23317
     },
     {
       "ID": "02",
@@ -12121,7 +12126,7 @@
       "Name": "Nordic Walking",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 14112
+      "UsersEstimate": 14113
     },
     {
       "ID": "03",
@@ -12129,7 +12134,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 14112
+      "UsersEstimate": 14113
     },
     {
       "ID": "04",
@@ -12249,7 +12254,7 @@
       "Name": "Hardboiled Writer",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3681
+      "UsersEstimate": 3682
     },
     {
       "ID": "19",
@@ -12297,7 +12302,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6749
+      "UsersEstimate": 6750
     },
     {
       "ID": "25",
@@ -12313,7 +12318,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6749
+      "UsersEstimate": 6750
     },
     {
       "ID": "27",
@@ -12353,7 +12358,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 9817
+      "UsersEstimate": 9818
     },
     {
       "ID": "32",
@@ -12385,7 +12390,7 @@
       "Name": "Let There Be Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 18407
+      "UsersEstimate": 18408
     },
     {
       "ID": "36",
@@ -12433,7 +12438,7 @@
       "Name": "Finders Keepers",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 9817
+      "UsersEstimate": 9818
     },
     {
       "ID": "42",
@@ -12648,21 +12653,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 61358,
+      "Progressed": 61360,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24826,
+      "Progressed": 24828,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-23T05:06:50.2573161+00:00",
+  "LastChanged_Achievements": "2023-08-23T06:06:14.3026093+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:35.5614422+00:00",
-  "LastUpdate_Ratings": "2023-08-23T04:59:49.6303298+00:00",
-  "LastUpdate_Achievements": "2023-08-23T05:06:50.2574578+00:00"
+  "LastUpdate_Ratings": "2023-08-23T05:59:22.1533423+00:00",
+  "LastUpdate_Achievements": "2023-08-23T06:06:14.3027164+00:00"
 }
