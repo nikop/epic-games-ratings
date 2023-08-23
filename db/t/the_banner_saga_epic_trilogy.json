@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 556,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-07-21T16:00:00+00:00",
@@ -116,6 +116,6 @@
   "FirstSeenRating": "2022-09-23T09:02:16.9087013+00:00",
   "LastChanged": "2023-04-01T16:58:08.8260182+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:20.2451643+00:00",
-  "LastUpdate_Ratings": "2023-08-23T14:01:56.7645908+00:00",
-  "LastUpdate_Achievements": "2023-08-23T14:03:48.8003514+00:00"
+  "LastUpdate_Ratings": "2023-08-23T15:00:23.3051437+00:00",
+  "LastUpdate_Achievements": "2023-08-23T15:03:46.3194055+00:00"
 }

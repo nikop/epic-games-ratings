@@ -6,49 +6,49 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~225,400 |
-| Uncharted Territory | 89.00% | ~208,965 |
-| Getting A Glimpse | 73.00% | ~171,398 |
-| A Quick Escape | 65.00% | ~152,615 |
-| Explorer | 62.00% | ~145,571 |
-| Defeat The Dark | 61.00% | ~143,223 |
-| An Offering | 61.00% | ~143,223 |
-| Colorful Corpse | 58.00% | ~136,179 |
-| That Was Quick | 57.00% | ~133,831 |
-| A Donation | 56.00% | ~131,484 |
-| Goodbye, Frog Friend | 54.00% | ~126,788 |
-| Heavy Hitter | 53.00% | ~124,440 |
-| Heartless | 46.00% | ~108,004 |
-| Spine Breaker | 46.00% | ~108,004 |
-| Deflection | 45.00% | ~105,656 |
-| Sneaky | 43.00% | ~100,961 |
-| Delving Deeper | 42.00% | ~98,613 |
-| C-C-Combo | 42.00% | ~98,613 |
-| Ambitious Intent | 41.00% | ~96,265 |
-| Nothing To Lose | 40.00% | ~93,917 |
-| The Bestiary | 40.00% | ~93,917 |
-| What's Yours Is Mine | 38.00% | ~89,221 |
-| R.I.P | 36.00% | ~84,525 |
-| Shootout | 36.00% | ~84,525 |
-| I Am Overburdened | 35.00% | ~82,177 |
-| Cold Hearted | 34.00% | ~79,829 |
-| Dig Your Own Grave | 33.00% | ~77,481 |
-| Toxic | 33.00% | ~77,481 |
-| Who To Trust? | 32.00% | ~75,133 |
-| Flesh Wound | 29.00% | ~68,090 |
-| Stone Touch | 28.00% | ~65,742 |
-| Shadow Walker | 28.00% | ~65,742 |
-| Consecutive Curses | 27.00% | ~63,394 |
-| Walk It Off | 27.00% | ~63,394 |
-| Acid Bath | 27.00% | ~63,394 |
-| New Perspectives | 27.00% | ~63,394 |
-| Shapeshifting | 27.00% | ~63,394 |
-| Destroy Your Fears | 26.00% | ~61,046 |
-| Save Our Souls | 25.00% | ~58,698 |
-| To The Death! | 20.00% | ~46,958 |
-| Well Prepared | 20.00% | ~46,958 |
-| Just Chilling | 20.00% | ~46,958 |
-| Stop Hitting Yourself | 19.00% | ~44,610 |
+| First Steps | 96.00% | ~225,403 |
+| Uncharted Territory | 89.00% | ~208,968 |
+| Getting A Glimpse | 73.00% | ~171,400 |
+| A Quick Escape | 65.00% | ~152,617 |
+| Explorer | 62.00% | ~145,573 |
+| Defeat The Dark | 61.00% | ~143,225 |
+| An Offering | 61.00% | ~143,225 |
+| Colorful Corpse | 58.00% | ~136,181 |
+| That Was Quick | 57.00% | ~133,833 |
+| A Donation | 56.00% | ~131,485 |
+| Goodbye, Frog Friend | 54.00% | ~126,789 |
+| Heavy Hitter | 53.00% | ~124,441 |
+| Heartless | 46.00% | ~108,006 |
+| Spine Breaker | 46.00% | ~108,006 |
+| Deflection | 45.00% | ~105,658 |
+| Sneaky | 43.00% | ~100,962 |
+| Delving Deeper | 42.00% | ~98,614 |
+| C-C-Combo | 42.00% | ~98,614 |
+| Ambitious Intent | 41.00% | ~96,266 |
+| Nothing To Lose | 40.00% | ~93,918 |
+| The Bestiary | 40.00% | ~93,918 |
+| What's Yours Is Mine | 38.00% | ~89,222 |
+| R.I.P | 36.00% | ~84,526 |
+| Shootout | 36.00% | ~84,526 |
+| I Am Overburdened | 35.00% | ~82,178 |
+| Cold Hearted | 34.00% | ~79,830 |
+| Dig Your Own Grave | 33.00% | ~77,482 |
+| Toxic | 33.00% | ~77,482 |
+| Who To Trust? | 32.00% | ~75,134 |
+| Flesh Wound | 29.00% | ~68,091 |
+| Stone Touch | 28.00% | ~65,743 |
+| Shadow Walker | 28.00% | ~65,743 |
+| Consecutive Curses | 27.00% | ~63,395 |
+| Walk It Off | 27.00% | ~63,395 |
+| Acid Bath | 27.00% | ~63,395 |
+| New Perspectives | 27.00% | ~63,395 |
+| Shapeshifting | 27.00% | ~63,395 |
+| Destroy Your Fears | 26.00% | ~61,047 |
+| Save Our Souls | 25.00% | ~58,699 |
+| To The Death! | 20.00% | ~46,959 |
+| Well Prepared | 20.00% | ~46,959 |
+| Just Chilling | 20.00% | ~46,959 |
+| Stop Hitting Yourself | 19.00% | ~44,611 |
 | All Consuming | 18.00% | ~42,263 |
 | Shadow Spreads | 17.00% | ~39,915 |
 | Don't Ignore Me! | 17.00% | ~39,915 |
@@ -62,22 +62,22 @@ Number of Ratings: 15,086  (23.09.2022)
 | Berzerker | 12.00% | ~28,175 |
 | Antivenom | 12.00% | ~28,175 |
 | Thank You, Friend | 11.00% | ~25,827 |
-| Barbecue | 10.00% | ~23,479 |
-| Snake Sneak | 9.00% | ~21,131 |
-| Challenge Increases | 8.00% | ~18,783 |
-| New Game+ | 8.00% | ~18,783 |
-| Clearing The Room | 8.00% | ~18,783 |
-| Decisions, Decisions | 8.00% | ~18,783 |
-| Fragile Mortality | 8.00% | ~18,783 |
-| Defuser | 8.00% | ~18,783 |
-| Precious | 8.00% | ~18,783 |
-| Friend of Vermin | 7.00% | ~16,435 |
-| Juggernaut | 7.00% | ~16,435 |
-| Gigantic | 7.00% | ~16,435 |
-| Path To Enlightenment | 7.00% | ~16,435 |
-| Fire Away! | 7.00% | ~16,435 |
-| Obsessed | 7.00% | ~16,435 |
-| Sentimental Value | 7.00% | ~16,435 |
+| Barbecue | 10.00% | ~23,480 |
+| Snake Sneak | 9.00% | ~21,132 |
+| Challenge Increases | 8.00% | ~18,784 |
+| New Game+ | 8.00% | ~18,784 |
+| Clearing The Room | 8.00% | ~18,784 |
+| Decisions, Decisions | 8.00% | ~18,784 |
+| Fragile Mortality | 8.00% | ~18,784 |
+| Defuser | 8.00% | ~18,784 |
+| Precious | 8.00% | ~18,784 |
+| Friend of Vermin | 7.00% | ~16,436 |
+| Juggernaut | 7.00% | ~16,436 |
+| Gigantic | 7.00% | ~16,436 |
+| Path To Enlightenment | 7.00% | ~16,436 |
+| Fire Away! | 7.00% | ~16,436 |
+| Obsessed | 7.00% | ~16,436 |
+| Sentimental Value | 7.00% | ~16,436 |
 | A Long Climb | 6.00% | ~14,088 |
 | Grave Digger | 6.00% | ~14,088 |
 | Soul Stash | 6.00% | ~14,088 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Down Under | 0.50% | ~1,174 |
 | Near Death Experience | 0.30% | ~704 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 234,792 (Ranked 50)  
+Progressed: 234,795 (Ranked 50)  
 Completed: 261 (0.11%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,10 +254,10 @@ Completed: 261 (0.11%) (Ranked 207)
 | 2023-08-20 | 234,669 | 260 |
 | 2023-08-21 | 234,717 | 260 |
 | 2023-08-22 | 234,766 | 260 |
-| 2023-08-23 | 234,792 | 261 |
+| 2023-08-23 | 234,795 | 261 |
 ## Awards
 Max (Quickly Understood Controls): 1,488  (Ranked 122)  
-Sum: 11,532 (Ranked 79)  
+Sum: 11,534 (Ranked 79)  
 Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
@@ -266,7 +266,7 @@ Diff (max vs sum): 43
 | This game is Relaxing | 1,420 |
 | This game has Challenging Combat | 1,410 |
 | This game is Extremely Fun | 1,399 |
-| This game is Highly Recommended | 1,358 |
+| This game is Highly Recommended | 1,360 |
 | This game has Amazing Storytelling | 1,307 |
 | This game has Amazing Characters | 1,213 |
 | This game has Unique Visuals | 1,204 |
@@ -416,4 +416,4 @@ Diff (max vs sum): 43
 | 2023-08-17 | 4.58 | - | 1,488 | 11,526 |
 | 2023-08-18 | 4.58 | - | 1,488 | 11,530 |
 | 2023-08-19 | 4.58 | - | 1,488 | 11,531 |
-| 2023-08-23 | 4.58 | - | 1,488 | 11,532 |
+| 2023-08-23 | 4.58 | - | 1,488 | 11,534 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 404,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 58,
+  "Ranking_EOS_NewPlayers": 59,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -217,9 +217,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 34897,
+  "EOS_Progressed": 34903,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 809,
+  "EOS_NewPlayers": 806,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -13972,6 +13972,11 @@
       "Time": "2023-08-23T14:07:12.7325803+00:00",
       "NumProgressed": 34897,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-08-23T15:06:13.5405846+00:00",
+      "NumProgressed": 34903,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 29,
@@ -13991,7 +13996,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6979
+      "UsersEstimate": 6981
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -14079,7 +14084,7 @@
       "Name": "Oh God, Mother! Blood! Blood!",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ACH_15_MOTHER_BEHOLDER_QUICK_KILL",
@@ -14214,7 +14219,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 34897,
+      "Progressed": 34903,
       "Completed": 21
     }
   ],
@@ -14222,8 +14227,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-12T21:03:39.1122054+00:00",
-  "LastChanged_Achievements": "2023-08-23T14:07:12.7325797+00:00",
+  "LastChanged_Achievements": "2023-08-23T15:06:13.5405842+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:52.0390033+00:00",
-  "LastUpdate_Ratings": "2023-08-23T13:58:08.7440245+00:00",
-  "LastUpdate_Achievements": "2023-08-23T14:07:12.732688+00:00"
+  "LastUpdate_Ratings": "2023-08-23T14:57:51.2500198+00:00",
+  "LastUpdate_Achievements": "2023-08-23T15:06:13.540662+00:00"
 }

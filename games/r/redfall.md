@@ -7,6 +7,8 @@ Rating: 3.50 (Ranked 975)
 | ---- | ---------- | ----- |
 | Blood Will Have Blood | 0.20% | ~3 |
 | Ne Plus Ultra | 0.20% | ~3 |
+| Sic Transit Umbra | 0.20% | ~3 |
+| Good Morning | 0.20% | ~3 |
 | Harvest’s End | 0.20% | ~3 |
 | Neighborhood Revitalization | 0.10% | ~2 |
 | Revelations | 0.10% | ~2 |
@@ -15,11 +17,9 @@ Rating: 3.50 (Ranked 975)
 | Welcome to the Neighborhood | 0.10% | ~2 |
 | Neighborhood Watch | 0.10% | ~2 |
 | I Like My Stakes Rare! | 0.10% | ~2 |
-| Sic Transit Umbra | 0.10% | ~2 |
 | Radio Silence | 0.10% | ~2 |
 | Bell-ringer | 0.10% | ~2 |
 | Silence Is Golden | 0.10% | ~2 |
-| Good Morning | 0.10% | ~2 |
 | Grounded | 0.10% | ~2 |
 | Fly Fisher | 0.10% | ~2 |
 | Sucks To Be You | 0.10% | ~2 |

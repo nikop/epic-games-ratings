@@ -6,30 +6,30 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 75.00% | ~35,702 |
-| I read Shakespeare and stuff | 64.00% | ~30,465 |
-| Just a sprinkle | 63.00% | ~29,989 |
-| I'm stumped | 61.00% | ~29,037 |
-| Plant get enough | 60.00% | ~28,561 |
-| It's just the beginning | 59.00% | ~28,085 |
-| This is just my weekend vehicle | 58.00% | ~27,609 |
-| Hard work pays off | 53.00% | ~25,229 |
-| It's never too late to farm | 49.00% | ~23,325 |
-| All out of Land | 44.00% | ~20,945 |
-| Field Trip | 43.00% | ~20,469 |
-| I like to switch it up | 40.00% | ~19,041 |
-| Help me to help you | 38.00% | ~18,089 |
+| Own use | 75.00% | ~35,703 |
+| I read Shakespeare and stuff | 64.00% | ~30,467 |
+| Just a sprinkle | 63.00% | ~29,991 |
+| I'm stumped | 61.00% | ~29,038 |
+| Plant get enough | 60.00% | ~28,562 |
+| It's just the beginning | 59.00% | ~28,086 |
+| This is just my weekend vehicle | 58.00% | ~27,610 |
+| Hard work pays off | 53.00% | ~25,230 |
+| It's never too late to farm | 49.00% | ~23,326 |
+| All out of Land | 44.00% | ~20,946 |
+| Field Trip | 43.00% | ~20,470 |
+| I like to switch it up | 40.00% | ~19,042 |
+| Help me to help you | 38.00% | ~18,090 |
 | Ultimutt Pawesomeness | 28.00% | ~13,329 |
 | Van Gogh | 26.00% | ~12,377 |
-| You wood not believe it | 22.00% | ~10,472 |
-| Vehicle fleet | 22.00% | ~10,472 |
-| The plot thickens | 16.00% | ~7,616 |
-| Well-Oiled Machine | 16.00% | ~7,616 |
-| Long haul | 16.00% | ~7,616 |
-| Clucky Streak | 15.00% | ~7,140 |
-| Large-scale supplier | 15.00% | ~7,140 |
-| That's a wrap | 14.00% | ~6,664 |
-| Fix me up | 13.00% | ~6,188 |
+| You wood not believe it | 22.00% | ~10,473 |
+| Vehicle fleet | 22.00% | ~10,473 |
+| The plot thickens | 16.00% | ~7,617 |
+| Well-Oiled Machine | 16.00% | ~7,617 |
+| Long haul | 16.00% | ~7,617 |
+| Clucky Streak | 15.00% | ~7,141 |
+| Large-scale supplier | 15.00% | ~7,141 |
+| That's a wrap | 14.00% | ~6,665 |
+| Fix me up | 13.00% | ~6,189 |
 | Rock on | 12.00% | ~5,712 |
 | Highly cultivated | 11.00% | ~5,236 |
 | It's sow easy | 11.00% | ~5,236 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~190 |
 | Raisin the stakes | 0.30% | ~143 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,602 (Ranked 91)  
+Progressed: 47,604 (Ranked 91)  
 Completed: 6 (0.01%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 6 (0.01%) (Ranked 249)
 | 2023-08-20 | 47,492 | 6 |
 | 2023-08-21 | 47,537 | 6 |
 | 2023-08-22 | 47,586 | 6 |
-| 2023-08-23 | 47,602 | 6 |
+| 2023-08-23 | 47,604 | 6 |
 ## Awards
 Max (Great for Beginners): 4,782  (Ranked 69)  
 Sum: 39,396 (Ranked 31)  

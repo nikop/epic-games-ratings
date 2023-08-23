@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 16,
   "Ranking_EOS_Progress": 556,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2020-01-16T08:00:00+00:00",
@@ -9683,10 +9683,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 89927,
       "NumberOfAwardsMax": 11185
+    },
+    {
+      "Time": "2023-08-23T14:59:52.6456166+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 89947,
+      "NumberOfAwardsMax": 11185
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 89927,
+  "NumberOfAwards": 89947,
   "NumberOfAwardsMax": 11185,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -9700,7 +9706,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 9512
+      "Count": 9516
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -9724,7 +9730,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 8840
+      "Count": 8849
     },
     {
       "Text": "This game is Highly Recommended",
@@ -9748,7 +9754,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 5997
+      "Count": 6004
     },
     {
       "Text": "This game has a Competitive Community",
@@ -9768,8 +9774,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2023-08-22T18:00:14.4507952+00:00",
+  "LastChanged": "2023-08-23T14:59:52.6456165+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:20.8309947+00:00",
-  "LastUpdate_Ratings": "2023-08-23T14:01:07.2068567+00:00",
-  "LastUpdate_Achievements": "2023-08-23T14:04:34.1109279+00:00"
+  "LastUpdate_Ratings": "2023-08-23T14:59:52.6456171+00:00",
+  "LastUpdate_Achievements": "2023-08-23T15:04:19.3582311+00:00"
 }

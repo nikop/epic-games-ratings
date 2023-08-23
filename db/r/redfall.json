@@ -2341,9 +2341,9 @@
       "ID": "Achievement_020",
       "SetID": "6b34g18",
       "Name": "Sic Transit Umbra",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Achievement_021",
@@ -2373,9 +2373,9 @@
       "ID": "Achievement_024",
       "SetID": "6b34g18",
       "Name": "Good Morning",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Achievement_025",
@@ -2734,8 +2734,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-08-08T16:59:16.4444629+00:00",
-  "LastChanged_Achievements": "2023-08-23T14:04:40.0842936+00:00",
+  "LastChanged_Achievements": "2023-08-23T15:04:23.572764+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:46.9760776+00:00",
-  "LastUpdate_Ratings": "2023-08-23T14:00:33.3817101+00:00",
-  "LastUpdate_Achievements": "2023-08-23T14:04:40.0844276+00:00"
+  "LastUpdate_Ratings": "2023-08-23T14:59:31.4165629+00:00",
+  "LastUpdate_Achievements": "2023-08-23T15:04:23.5728292+00:00"
 }

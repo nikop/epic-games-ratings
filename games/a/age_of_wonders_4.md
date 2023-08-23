@@ -19,6 +19,7 @@ Rating: 4.61 (Ranked 366)
 | Intimidation Tactics | 5.00% | ~256 |
 | Blood of the Dragon | 5.00% | ~256 |
 | Mighty Hoard | 5.00% | ~256 |
+| Valley of Wonders | 4.00% | ~205 |
 | There Can Only Be One! | 4.00% | ~205 |
 | Full Ascension | 4.00% | ~205 |
 | In a Liege of Your Own | 4.00% | ~205 |
@@ -26,7 +27,6 @@ Rating: 4.61 (Ranked 366)
 | Against the Odds | 4.00% | ~205 |
 | Impenetrable Fortress | 4.00% | ~205 |
 | Here be Dragons | 4.00% | ~205 |
-| Valley of Wonders | 3.00% | ~154 |
 | Return of the Wizard King | 3.00% | ~154 |
 | Arch Mage | 3.00% | ~154 |
 | The Creator | 3.00% | ~154 |

@@ -7,11 +7,11 @@ Number of Ratings: 285  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Death Becomes You | 3.00% | ~27 |
+| Flawless Victory | 3.00% | ~27 |
 | That'll Leave a Mark | 3.00% | ~27 |
 | Debuff Dogpile | 2.00% | ~18 |
 | Faceroll the Bones | 2.00% | ~18 |
 | First Strike | 2.00% | ~18 |
-| Flawless Victory | 2.00% | ~18 |
 | Hit 'Em Where It Hurts | 2.00% | ~18 |
 | Mushroom Madness! | 2.00% | ~18 |
 | Perk Shard Punch Card | 2.00% | ~18 |

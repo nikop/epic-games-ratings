@@ -227,9 +227,9 @@
       "ID": "airtime_short",
       "SetID": "3448go",
       "Name": "Glider",
-      "Percentage": 18,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "beat_c1_bronze",
@@ -323,9 +323,9 @@
       "ID": "beat_c2_silver",
       "SetID": "3448go",
       "Name": "Gone for a Whirl",
-      "Percentage": 23,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "beat_c2a_bronze",
@@ -826,8 +826,8 @@
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2023-08-23T14:04:59.2130676+00:00",
+  "LastChanged_Achievements": "2023-08-23T15:04:37.1005673+00:00",
   "LastUpdate_AppInfo": "2023-08-16T18:57:08.5743948+00:00",
-  "LastUpdate_Ratings": "2023-08-23T13:58:27.6523724+00:00",
-  "LastUpdate_Achievements": "2023-08-23T14:04:59.2131712+00:00"
+  "LastUpdate_Ratings": "2023-08-23T14:58:05.6397422+00:00",
+  "LastUpdate_Achievements": "2023-08-23T15:04:37.1006472+00:00"
 }

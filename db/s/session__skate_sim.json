@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 310,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -880,9 +880,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2745,
+  "EOS_Progressed": 2746,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4100,6 +4100,11 @@
       "Time": "2023-08-23T06:04:44.6532727+00:00",
       "NumProgressed": 2745,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-23T15:04:53.3538022+00:00",
+      "NumProgressed": 2746,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4327,7 +4332,7 @@
       "Name": "Plastic Surgeon",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "ACH_PRINCE-OF-PHILLY",
@@ -4423,7 +4428,7 @@
       "Name": "The flip trick crown jewel",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "ACH_THE-HARD-WAY",
@@ -4479,7 +4484,7 @@
       "Name": "Welcome to the family",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -4494,15 +4499,15 @@
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2745,
+      "Progressed": 2746,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-08-12T21:02:33.3554881+00:00",
-  "LastChanged_Achievements": "2023-08-23T14:05:21.9235609+00:00",
+  "LastChanged_Achievements": "2023-08-23T15:04:53.3538015+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:39.161743+00:00",
-  "LastUpdate_Ratings": "2023-08-23T14:02:14.4064706+00:00",
-  "LastUpdate_Achievements": "2023-08-23T14:05:21.9236214+00:00"
+  "LastUpdate_Ratings": "2023-08-23T15:00:36.1464273+00:00",
+  "LastUpdate_Achievements": "2023-08-23T15:04:53.3538778+00:00"
 }

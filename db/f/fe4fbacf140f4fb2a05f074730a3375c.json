@@ -2,9 +2,9 @@
   "ID": "fe4fbacf140f4fb2a05f074730a3375c",
   "Name": "Angelo and Deemon: One Hell of a Quest",
   "ProductSlug": "angelo-and-deemon-one-hell-of-a-quest-94d7e2",
-  "Ranking_EOS_Progress": 438,
-  "Ranking_EOS_Completed": 38,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_Progress": 433,
+  "Ranking_EOS_Completed": 42,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-08-15T14:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14,
+  "EOS_Progressed": 15,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 7.14,
+  "EOS_Completed_Percentage": 6.67,
   "EosHistory": [
     {
       "Time": "2023-08-11T11:05:27.7047685+00:00",
@@ -96,6 +96,11 @@
       "Time": "2023-08-20T22:05:38.3899608+00:00",
       "NumProgressed": 14,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-23T15:06:09.0609671+00:00",
+      "NumProgressed": 15,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-10T08:05:05.3419647+00:00",
@@ -106,7 +111,7 @@
       "ID": "BackFuture",
       "SetID": "bl5ebnd",
       "Name": "Back of the Future",
-      "Percentage": 36,
+      "Percentage": 33,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -114,7 +119,7 @@
       "ID": "BigBrother",
       "SetID": "bl5ebnd",
       "Name": "Big Brother is Watching You",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -122,7 +127,7 @@
       "ID": "CustomerService",
       "SetID": "bl5ebnd",
       "Name": "Customer Service",
-      "Percentage": 36,
+      "Percentage": 33,
       "XP": 80,
       "UsersEstimate": 5
     },
@@ -130,7 +135,7 @@
       "ID": "EnterMatrix",
       "SetID": "bl5ebnd",
       "Name": "Enter the Matrix",
-      "Percentage": 29,
+      "Percentage": 27,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -138,7 +143,7 @@
       "ID": "GoldenYouth",
       "SetID": "bl5ebnd",
       "Name": "Golden Youth",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -146,7 +151,7 @@
       "ID": "Highway2Hell",
       "SetID": "bl5ebnd",
       "Name": "Highway to Hell",
-      "Percentage": 50,
+      "Percentage": 47,
       "XP": 50,
       "UsersEstimate": 7
     },
@@ -154,7 +159,7 @@
       "ID": "LikeDislike",
       "SetID": "bl5ebnd",
       "Name": "To Like, Or Not To Like?",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -162,7 +167,7 @@
       "ID": "MilitaryContract",
       "SetID": "bl5ebnd",
       "Name": "Military Contract",
-      "Percentage": 36,
+      "Percentage": 33,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -170,7 +175,7 @@
       "ID": "NewLife",
       "SetID": "bl5ebnd",
       "Name": "New Life for a Blogger",
-      "Percentage": 50,
+      "Percentage": 47,
       "XP": 50,
       "UsersEstimate": 7
     },
@@ -186,7 +191,7 @@
       "ID": "PetLover",
       "SetID": "bl5ebnd",
       "Name": "Pet Lover",
-      "Percentage": 43,
+      "Percentage": 40,
       "XP": 50,
       "UsersEstimate": 6
     },
@@ -194,7 +199,7 @@
       "ID": "PortraitMadness",
       "SetID": "bl5ebnd",
       "Name": "Portrait of Madness",
-      "Percentage": 29,
+      "Percentage": 27,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -202,7 +207,7 @@
       "ID": "PrivateVisit",
       "SetID": "bl5ebnd",
       "Name": "Private Visit",
-      "Percentage": 29,
+      "Percentage": 27,
       "XP": 70,
       "UsersEstimate": 4
     },
@@ -210,7 +215,7 @@
       "ID": "Reincarnation",
       "SetID": "bl5ebnd",
       "Name": "Reincarnation",
-      "Percentage": 29,
+      "Percentage": 27,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -218,7 +223,7 @@
       "ID": "SelfieKing",
       "SetID": "bl5ebnd",
       "Name": "Selfie King",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 85,
       "UsersEstimate": 3
     },
@@ -234,7 +239,7 @@
       "ID": "WatchLearn",
       "SetID": "bl5ebnd",
       "Name": "Watch and Learn",
-      "Percentage": 36,
+      "Percentage": 33,
       "XP": 50,
       "UsersEstimate": 5
     }
@@ -243,14 +248,14 @@
     {
       "ID": "bl5ebnd",
       "IsBase": true,
-      "Progressed": 14,
+      "Progressed": 15,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-17T18:58:24.9645981+00:00",
   "FirstSeenAchievements": "2023-08-07T14:05:00.198888+00:00",
-  "LastChanged_Achievements": "2023-08-23T14:07:06.7901821+00:00",
+  "LastChanged_Achievements": "2023-08-23T15:06:09.0609666+00:00",
   "LastUpdate_AppInfo": "2023-08-17T11:57:07.9760361+00:00",
-  "LastUpdate_Ratings": "2023-08-23T13:59:28.1476399+00:00",
-  "LastUpdate_Achievements": "2023-08-23T14:07:06.7901965+00:00"
+  "LastUpdate_Ratings": "2023-08-23T14:58:47.0919905+00:00",
+  "LastUpdate_Achievements": "2023-08-23T15:06:09.0609787+00:00"
 }

@@ -6,21 +6,21 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~107,539 |
-| Don't Make Me Turn This Coach Around | 70.00% | ~80,943 |
+| A Place to Lay Your Head | 93.00% | ~107,540 |
+| Don't Make Me Turn This Coach Around | 70.00% | ~80,944 |
 | A Clear Conscience | 69.00% | ~79,787 |
-| Unleash Hell | 68.00% | ~78,630 |
-| Unfulfilled Desires | 68.00% | ~78,630 |
-| Funny Guy | 67.00% | ~77,474 |
-| Unshackled | 67.00% | ~77,474 |
+| Unleash Hell | 68.00% | ~78,631 |
+| Unfulfilled Desires | 68.00% | ~78,631 |
+| Funny Guy | 67.00% | ~77,475 |
+| Unshackled | 67.00% | ~77,475 |
 | Long Live the King | 66.00% | ~76,318 |
-| Resurrection | 62.00% | ~71,692 |
-| Wyrdly Reconstructed | 62.00% | ~71,692 |
+| Resurrection | 62.00% | ~71,693 |
+| Wyrdly Reconstructed | 62.00% | ~71,693 |
 | Boxcar Kid | 60.00% | ~69,380 |
 | Rush Hour | 60.00% | ~69,380 |
 | To Grandmother's House | 60.00% | ~69,380 |
-| Serenity Now! | 52.00% | ~60,129 |
-| Hope Rekindled | 50.00% | ~57,816 |
+| Serenity Now! | 52.00% | ~60,130 |
+| Hope Rekindled | 50.00% | ~57,817 |
 | Ramble On | 48.00% | ~55,504 |
 | Nope | 48.00% | ~55,504 |
 | This Looks Familiar | 38.00% | ~43,941 |
@@ -29,8 +29,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hot Air | 36.00% | ~41,628 |
 | Merry Time | 35.00% | ~40,472 |
 | Creep and Sleep | 33.00% | ~38,159 |
-| Overdue Notice | 31.00% | ~35,846 |
-| Whale | 31.00% | ~35,846 |
+| Overdue Notice | 31.00% | ~35,847 |
+| Whale | 31.00% | ~35,847 |
 | Banishment | 30.00% | ~34,690 |
 | FNG | 29.00% | ~33,534 |
 | Predator | 24.00% | ~27,752 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Gravestone Left Unturned | 0.10% | ~116 |
 | 20,000 Leagues Above the Sea | 0.10% | ~116 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 115,633 (Ranked 69)  
+Progressed: 115,634 (Ranked 69)  
 Completed: 1 (0.00%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,10 +187,10 @@ Completed: 1 (0.00%) (Ranked 262)
 | 2023-08-20 | 115,343 | 1 |
 | 2023-08-21 | 115,473 | 1 |
 | 2023-08-22 | 115,566 | 1 |
-| 2023-08-23 | 115,633 | 1 |
+| 2023-08-23 | 115,634 | 1 |
 ## Awards
 Max (Character Customization): 7,340  (Ranked 48)  
-Sum: 19,074 (Ranked 57)  
+Sum: 19,076 (Ranked 57)  
 Diff (max vs sum): -9  
 | Award | Count |
 | ----- | ----- |
@@ -199,7 +199,7 @@ Diff (max vs sum): -9
 | This game has Challenging Combat | 1,450 |
 | This game is Highly Recommended | 1,403 |
 | This game is Extremely Fun | 1,355 |
-| This game has Amazing Characters | 1,349 |
+| This game has Amazing Characters | 1,351 |
 | This game has Amazing Storytelling | 1,273 |
 | This game has Quickly Understood Controls | 1,260 |
 | This game has Unique Visuals | 1,220 |
@@ -417,4 +417,4 @@ Diff (max vs sum): -9
 | 2023-08-20 | 4.68 | - | 7,337 | 19,059 |
 | 2023-08-21 | 4.68 | - | 7,338 | 19,069 |
 | 2023-08-22 | 4.68 | - | 7,340 | 19,072 |
-| 2023-08-23 | 4.68 | - | 7,340 | 19,074 |
+| 2023-08-23 | 4.68 | - | 7,340 | 19,076 |

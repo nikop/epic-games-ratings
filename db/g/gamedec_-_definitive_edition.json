@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 428,
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewPlayers": 54,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
@@ -396,9 +396,9 @@
       "Count": 79
     }
   ],
-  "EOS_Progressed": 243186,
+  "EOS_Progressed": 243187,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 924,
+  "EOS_NewPlayers": 919,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14181,6 +14181,11 @@
       "Time": "2023-08-23T14:05:30.0592075+00:00",
       "NumProgressed": 243186,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-23T15:04:59.0888858+00:00",
+      "NumProgressed": 243187,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -14232,7 +14237,7 @@
       "Name": "Collector",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 26750
+      "UsersEstimate": 26751
     },
     {
       "ID": "ACH_ENJOY",
@@ -14512,7 +14517,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 60796
+      "UsersEstimate": 60797
     },
     {
       "ID": "ACH_SOREAD",
@@ -14607,7 +14612,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 243186,
+      "Progressed": 243187,
       "Completed": 7
     }
   ],
@@ -14615,8 +14620,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-08-15T07:59:00.2810594+00:00",
-  "LastChanged_Achievements": "2023-08-23T14:05:30.0592068+00:00",
+  "LastChanged_Achievements": "2023-08-23T15:04:59.0888852+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:56.7497354+00:00",
-  "LastUpdate_Ratings": "2023-08-23T14:00:44.6282114+00:00",
-  "LastUpdate_Achievements": "2023-08-23T14:05:30.0593433+00:00"
+  "LastUpdate_Ratings": "2023-08-23T14:59:37.9806332+00:00",
+  "LastUpdate_Achievements": "2023-08-23T15:04:59.0889859+00:00"
 }

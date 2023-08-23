@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 353,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -2880,9 +2880,9 @@
       "ID": "MF_Ach_FlawlessVictory",
       "SetID": "9b9n573",
       "Name": "Flawless Victory",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 18
+      "UsersEstimate": 27
     },
     {
       "ID": "MF_Ach_FourthGate",
@@ -3008,8 +3008,8 @@
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-08-19T00:01:25.4224345+00:00",
-  "LastChanged_Achievements": "2023-08-23T14:06:49.1538935+00:00",
+  "LastChanged_Achievements": "2023-08-23T15:05:56.09832+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:47.6883143+00:00",
-  "LastUpdate_Ratings": "2023-08-23T14:01:22.7916324+00:00",
-  "LastUpdate_Achievements": "2023-08-23T14:06:49.1539279+00:00"
+  "LastUpdate_Ratings": "2023-08-23T15:00:02.240377+00:00",
+  "LastUpdate_Achievements": "2023-08-23T15:05:56.0983486+00:00"
 }
