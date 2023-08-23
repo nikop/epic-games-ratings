@@ -31,7 +31,7 @@ Rating: 4.18 (Ranked 874)
 | Come Out to Play-y-y-y | 1.00% | ~76 |
 | Man Toyz | 1.00% | ~76 |
 | Going Rogue | 1.00% | ~76 |
-| Furious First Responder | 0.90% | ~68 |
+| Furious First Responder | 1.00% | ~76 |
 | Is That All You've Got? | 0.90% | ~68 |
 | King of Liberty City | 0.60% | ~45 |
 ## Popularity (Based on EOS Achievements)

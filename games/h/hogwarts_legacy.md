@@ -5,7 +5,7 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 13.00% | ~37,785 |
+| The Sort Who Makes an Entrance | 13.00% | ~37,786 |
 | First Class Student | 11.00% | ~31,972 |
 | Troll with the Punches | 11.00% | ~31,972 |
 | The Defender of Dragons | 10.00% | ~29,066 |
@@ -19,9 +19,9 @@ Rating: 4.77 (Ranked 109)
 | Challenge Accepted | 9.00% | ~26,159 |
 | Loom for Improvement | 9.00% | ~26,159 |
 | Coasting Along | 9.00% | ~26,159 |
-| Followed the Butterflies | 8.00% | ~23,252 |
-| The Spell Master | 8.00% | ~23,252 |
-| Rising From the Ashes | 8.00% | ~23,252 |
+| Followed the Butterflies | 8.00% | ~23,253 |
+| The Spell Master | 8.00% | ~23,253 |
+| Rising From the Ashes | 8.00% | ~23,253 |
 | The Avenging Gazelle | 7.00% | ~20,346 |
 | Beast Friends | 7.00% | ~20,346 |
 | A Sallow Grave | 7.00% | ~20,346 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,744 |
 | Collector's Edition | 0.30% | ~872 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,655 (Ranked 43)  
+Progressed: 290,659 (Ranked 43)  
 Completed: 454 (0.16%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,10 +176,10 @@ Completed: 454 (0.16%) (Ranked 194)
 | 2023-08-20 | 290,517 | 453 |
 | 2023-08-21 | 290,578 | 453 |
 | 2023-08-22 | 290,631 | 454 |
-| 2023-08-23 | 290,655 | 454 |
+| 2023-08-23 | 290,659 | 454 |
 ## Awards
 Max (Character Customization): 21,894  (Ranked 17)  
-Sum: 41,428 (Ranked 30)  
+Sum: 41,431 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -189,7 +189,7 @@ Diff (max vs sum): -13
 | This game is Extremely Fun | 965 |
 | This game is Relaxing | 963 |
 | This game has Amazing Storytelling | 955 |
-| This game has Diverse Characters | 945 |
+| This game has Diverse Characters | 948 |
 | This game has Amazing Characters | 929 |
 | This game is Highly Recommended | 904 |
 | This game has Quickly Understood Controls | 856 |
@@ -350,4 +350,4 @@ Diff (max vs sum): -13
 | 2023-08-20 | 4.77 | 21,849 | 41,309 |
 | 2023-08-21 | 4.77 | 21,871 | 41,371 |
 | 2023-08-22 | 4.77 | 21,884 | 41,412 |
-| 2023-08-23 | 4.77 | 21,894 | 41,428 |
+| 2023-08-23 | 4.77 | 21,894 | 41,431 |

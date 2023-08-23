@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1054,
+  "EOS_Progressed": 1055,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3681,6 +3681,11 @@
       "Time": "2023-08-23T15:04:00.6507396+00:00",
       "NumProgressed": 1054,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-23T16:04:21.6801786+00:00",
+      "NumProgressed": 1055,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -3796,7 +3801,7 @@
       "Name": "Facility Online",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -3884,7 +3889,7 @@
       "Name": "Getting Deployment",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -3900,7 +3905,7 @@
       "Name": "Stocking Up",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -3916,7 +3921,7 @@
       "Name": "On Target",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -3995,14 +4000,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1054,
+      "Progressed": 1055,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-23T15:04:00.6507391+00:00",
+  "LastChanged_Achievements": "2023-08-23T16:04:21.6801781+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:20.8459338+00:00",
-  "LastUpdate_Ratings": "2023-08-23T14:58:21.6545455+00:00",
-  "LastUpdate_Achievements": "2023-08-23T15:04:00.6507816+00:00"
+  "LastUpdate_Ratings": "2023-08-23T15:58:47.4319129+00:00",
+  "LastUpdate_Achievements": "2023-08-23T16:04:21.6802299+00:00"
 }

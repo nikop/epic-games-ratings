@@ -11,50 +11,50 @@
 | Campaign Launch | 41.00% | ~135 |
 | Dinner Dash | 41.00% | ~135 |
 | Need a Consult | 38.00% | ~125 |
+| Upgrade Unlock | 37.00% | ~122 |
 | It's Technical | 37.00% | ~122 |
-| Upgrade Unlock | 36.00% | ~118 |
-| Delegate Maintenance | 34.00% | ~112 |
+| Delegate Maintenance | 35.00% | ~115 |
 | Proper Walls | 33.00% | ~109 |
 | Destination Destiny | 31.00% | ~102 |
 | Happy Tenants | 26.00% | ~86 |
-| Potent Potables | 25.00% | ~82 |
-| Smooth Service | 25.00% | ~82 |
+| Potent Potables | 26.00% | ~86 |
+| Smooth Service | 26.00% | ~86 |
+| Your Prestige is Rising | 24.00% | ~79 |
 | Retail Revenue | 24.00% | ~79 |
-| Your Prestige is Rising | 23.00% | ~76 |
 | Don't Feel a Loan | 22.00% | ~72 |
 | Lux Living | 21.00% | ~69 |
+| People Mover | 21.00% | ~69 |
+| Emporium Empire | 21.00% | ~69 |
 | Artfully Done | 20.00% | ~66 |
-| People Mover | 20.00% | ~66 |
-| Emporium Empire | 20.00% | ~66 |
 | Leveled Up Shops | 20.00% | ~66 |
 | We Don't Need No Education | 20.00% | ~66 |
 | Rehab Expert | 19.00% | ~63 |
 | Get Electrified | 19.00% | ~63 |
 | Tasty Profits | 18.00% | ~59 |
 | Established Fame | 16.00% | ~53 |
+| Starred Dining | 16.00% | ~53 |
 | Cashflow Chief | 16.00% | ~53 |
 | Under One Roof | 15.00% | ~49 |
-| Starred Dining | 15.00% | ~49 |
 | Smooth Operator | 14.00% | ~46 |
 | Boutique Benefits | 14.00% | ~46 |
 | Terrifically Trashed | 13.00% | ~43 |
 | Thrilled Tenants | 13.00% | ~43 |
 | 28 Days Later | 11.00% | ~36 |
 | Swimming in Surplus | 11.00% | ~36 |
-| Aestheticly Pleased | 9.00% | ~30 |
+| Aestheticly Pleased | 10.00% | ~33 |
 | Plaza Plan | 9.00% | ~30 |
 | Master of Puppets | 9.00% | ~30 |
 | Refined Palates | 9.00% | ~30 |
+| Phoning It In | 9.00% | ~30 |
 | First 100 Days | 8.00% | ~26 |
 | Water Features | 8.00% | ~26 |
-| Phoning It In | 8.00% | ~26 |
+| Careful Constructor | 7.00% | ~23 |
 | Meet Me at HQ | 7.00% | ~23 |
 | Maximum Reuse | 7.00% | ~23 |
 | Revenue Royalty | 7.00% | ~23 |
 | Golden Opportunity | 7.00% | ~23 |
 | Pipe Up | 7.00% | ~23 |
 | I'm Busy Ruling | 6.00% | ~20 |
-| Careful Constructor | 6.00% | ~20 |
 | Sky High Stature | 6.00% | ~20 |
 | Profound Proceeds | 6.00% | ~20 |
 | It's a Gas | 6.00% | ~20 |

@@ -4,7 +4,7 @@
   "ProductSlug": "angelo-and-deemon-one-hell-of-a-quest-94d7e2",
   "Ranking_EOS_Progress": 433,
   "Ranking_EOS_Completed": 42,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-08-15T14:00:00+00:00",
@@ -127,9 +127,9 @@
       "ID": "CustomerService",
       "SetID": "bl5ebnd",
       "Name": "Customer Service",
-      "Percentage": 33,
+      "Percentage": 40,
       "XP": 80,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "EnterMatrix",
@@ -175,9 +175,9 @@
       "ID": "NewLife",
       "SetID": "bl5ebnd",
       "Name": "New Life for a Blogger",
-      "Percentage": 47,
+      "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "PersonalHell",
@@ -239,9 +239,9 @@
       "ID": "WatchLearn",
       "SetID": "bl5ebnd",
       "Name": "Watch and Learn",
-      "Percentage": 33,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
@@ -254,8 +254,8 @@
   ],
   "FirstSeen": "2023-08-17T18:58:24.9645981+00:00",
   "FirstSeenAchievements": "2023-08-07T14:05:00.198888+00:00",
-  "LastChanged_Achievements": "2023-08-23T15:06:09.0609666+00:00",
+  "LastChanged_Achievements": "2023-08-23T16:06:57.2667367+00:00",
   "LastUpdate_AppInfo": "2023-08-17T11:57:07.9760361+00:00",
-  "LastUpdate_Ratings": "2023-08-23T14:58:47.0919905+00:00",
-  "LastUpdate_Achievements": "2023-08-23T15:06:09.0609787+00:00"
+  "LastUpdate_Ratings": "2023-08-23T15:59:20.6765167+00:00",
+  "LastUpdate_Achievements": "2023-08-23T16:06:57.2667493+00:00"
 }

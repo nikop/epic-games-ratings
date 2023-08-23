@@ -15,8 +15,8 @@
 | Save Dad | 21.00% | ~45 |
 | A Little Extra | 16.00% | ~34 |
 | Unhelpful | 13.00% | ~28 |
+| Pearce | 12.00% | ~26 |
 | Use Your Connections | 12.00% | ~26 |
-| Pearce | 11.00% | ~23 |
 | The Marriage Is Off | 10.00% | ~21 |
 | Horrific | 7.00% | ~15 |
 | Hopeful | 6.00% | ~13 |

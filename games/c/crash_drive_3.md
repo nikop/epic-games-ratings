@@ -7,8 +7,8 @@
 | Brace for impact! | 32.00% | ~118 |
 | Baby's First Car | 30.00% | ~111 |
 | Pushover | 30.00% | ~111 |
-| A Forest Walk | 30.00% | ~111 |
 | Amateur Mechanic | 29.00% | ~107 |
+| A Forest Walk | 29.00% | ~107 |
 | C-C-C-Combo! | 27.00% | ~100 |
 | Multiply that! | 27.00% | ~100 |
 | Snow Fun! | 25.00% | ~92 |
@@ -25,13 +25,13 @@
 | Take that Frosty! | 22.00% | ~81 |
 | Goodbye cruel world | 22.00% | ~81 |
 | Beach Party! | 22.00% | ~81 |
-| Car-Tapult | 21.00% | ~77 |
-| Disoriented | 21.00% | ~77 |
-| Anger Issues | 21.00% | ~77 |
-| Your Highness | 21.00% | ~77 |
+| Car-Tapult | 21.00% | ~78 |
+| Disoriented | 21.00% | ~78 |
+| Anger Issues | 21.00% | ~78 |
+| Your Highness | 21.00% | ~78 |
 | Event Amateur | 20.00% | ~74 |
-| Feeling Hot Hot Hot! | 18.00% | ~66 |
-| Feeling Dizzy? | 18.00% | ~66 |
+| Feeling Hot Hot Hot! | 18.00% | ~67 |
+| Feeling Dizzy? | 18.00% | ~67 |
 | Drift King! | 17.00% | ~63 |
 | Ferry Good! | 17.00% | ~63 |
 | Assert Dominance | 17.00% | ~63 |
@@ -60,7 +60,7 @@
 | Master Mechanic | 1.00% | ~4 |
 | Crashed and Driven | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 369 (Ranked 251)  
+Progressed: 370 (Ranked 251)  
 Completed: 2 (0.54%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,6 +119,7 @@ Completed: 2 (0.54%) (Ranked 143)
 | 2023-08-18 | 365 | 2 |
 | 2023-08-21 | 367 | 2 |
 | 2023-08-22 | 369 | 2 |
+| 2023-08-23 | 370 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

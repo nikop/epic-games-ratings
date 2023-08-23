@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2370,
+  "EOS_Progressed": 2371,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -5141,6 +5141,11 @@
       "Time": "2023-08-23T15:04:57.5024637+00:00",
       "NumProgressed": 2370,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-23T16:05:30.7692165+00:00",
+      "NumProgressed": 2371,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -5200,7 +5205,7 @@
       "Name": "Face-To-Face",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "FACE_SCREEN_FACE",
@@ -5208,7 +5213,7 @@
       "Name": "Face-To-Screen-To-Face",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "FEUD_APPRENTICE",
@@ -5232,7 +5237,7 @@
       "Name": "Novice",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "GLOVE_SLAP",
@@ -5256,7 +5261,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1422
+      "UsersEstimate": 1423
     },
     {
       "ID": "GUARD_MAKER",
@@ -5327,14 +5332,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2370,
+      "Progressed": 2371,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-08-23T15:04:57.5024631+00:00",
+  "LastChanged_Achievements": "2023-08-23T16:05:30.7692156+00:00",
   "LastUpdate_AppInfo": "2023-08-22T22:57:06.3443756+00:00",
-  "LastUpdate_Ratings": "2023-08-23T14:58:59.9093123+00:00",
-  "LastUpdate_Achievements": "2023-08-23T15:04:57.5025005+00:00"
+  "LastUpdate_Ratings": "2023-08-23T15:59:37.0437435+00:00",
+  "LastUpdate_Achievements": "2023-08-23T16:05:30.7692633+00:00"
 }

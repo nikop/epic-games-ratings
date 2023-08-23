@@ -2,7 +2,7 @@
   "ID": "0baeb519c8894d96bf89324a121e2437",
   "Name": "The Tale of Bistun",
   "ProductSlug": "the-tale-of-bistun-9d6c5f",
-  "Ranking_EOS_Progress": 414,
+  "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 17,
   "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 99,
@@ -429,8 +429,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.7723222+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1212078+00:00",
   "LastChanged": "2023-03-31T05:58:10.7723223+00:00",
-  "LastChanged_Achievements": "2023-08-23T15:04:27.0028468+00:00",
+  "LastChanged_Achievements": "2023-08-23T16:04:53.4844723+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:54.7808063+00:00",
-  "LastUpdate_Ratings": "2023-08-23T14:57:51.7394562+00:00",
-  "LastUpdate_Achievements": "2023-08-23T15:04:27.0028727+00:00"
+  "LastUpdate_Ratings": "2023-08-23T15:58:10.0597517+00:00",
+  "LastUpdate_Achievements": "2023-08-23T16:04:53.4845043+00:00"
 }

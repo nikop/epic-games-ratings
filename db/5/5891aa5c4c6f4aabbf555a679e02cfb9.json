@@ -501,9 +501,9 @@
       "ID": "ACHIEVEMENT_29",
       "SetID": "b36c5kb",
       "Name": "Doing Some Detecting",
-      "Percentage": 26,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -692,8 +692,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-08-23T15:05:12.2628374+00:00",
+  "LastChanged_Achievements": "2023-08-23T16:05:48.9632428+00:00",
   "LastUpdate_AppInfo": "2023-08-16T16:57:24.779676+00:00",
-  "LastUpdate_Ratings": "2023-08-23T14:58:20.3084395+00:00",
-  "LastUpdate_Achievements": "2023-08-23T15:05:12.2628861+00:00"
+  "LastUpdate_Ratings": "2023-08-23T15:58:45.7878632+00:00",
+  "LastUpdate_Achievements": "2023-08-23T16:05:48.9632968+00:00"
 }

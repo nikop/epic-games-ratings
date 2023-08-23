@@ -6028,9 +6028,9 @@
       "Count": 3366
     }
   ],
-  "EOS_Progressed": 224349,
+  "EOS_Progressed": 224363,
   "EOS_Completed": 2208,
-  "EOS_NewPlayers": 1930,
+  "EOS_NewPlayers": 1933,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -19693,6 +19693,11 @@
       "Time": "2023-08-23T15:06:08.7232583+00:00",
       "NumProgressed": 224349,
       "NumCompleted": 2208
+    },
+    {
+      "Time": "2023-08-23T16:06:57.6492346+00:00",
+      "NumProgressed": 224363,
+      "NumCompleted": 2208
     }
   ],
   "TotalAchievements": 516,
@@ -19704,7 +19709,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2243
+      "UsersEstimate": 2244
     },
     {
       "ID": "objective_completed_10",
@@ -23816,7 +23821,7 @@
       "Name": "To Infinity\u0027s and Beyond",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "objective_completed_1401",
@@ -23831,21 +23836,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 190623,
+      "Progressed": 190637,
       "Completed": 3294
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 224349,
+      "Progressed": 224363,
       "Completed": 2208
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-23T13:03:49.5578872+00:00",
-  "LastChanged_Achievements": "2023-08-23T15:06:08.7232579+00:00",
+  "LastChanged_Achievements": "2023-08-23T16:06:57.649234+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:12.3267162+00:00",
-  "LastUpdate_Ratings": "2023-08-23T14:59:47.1086104+00:00",
-  "LastUpdate_Achievements": "2023-08-23T15:06:08.7256464+00:00"
+  "LastUpdate_Ratings": "2023-08-23T16:00:38.0793853+00:00",
+  "LastUpdate_Achievements": "2023-08-23T16:06:57.6520409+00:00"
 }

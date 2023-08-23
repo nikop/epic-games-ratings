@@ -6,16 +6,16 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~43,112 |
-| Worth it | 63.00% | ~35,273 |
-| Eagle Eye | 55.00% | ~30,794 |
+| Setting an example | 77.00% | ~43,113 |
+| Worth it | 63.00% | ~35,274 |
+| Eagle Eye | 55.00% | ~30,795 |
 | Corpseman I | 40.00% | ~22,396 |
-| Blast fishing | 37.00% | ~20,716 |
-| Not alone | 32.00% | ~17,916 |
-| Headhunter I | 26.00% | ~14,557 |
-| Manual Labour I | 25.00% | ~13,997 |
-| Developers, Developers, Developers | 24.00% | ~13,437 |
-| Basic Training | 24.00% | ~13,437 |
+| Blast fishing | 37.00% | ~20,717 |
+| Not alone | 32.00% | ~17,917 |
+| Headhunter I | 26.00% | ~14,558 |
+| Manual Labour I | 25.00% | ~13,998 |
+| Developers, Developers, Developers | 24.00% | ~13,438 |
+| Basic Training | 24.00% | ~13,438 |
 | Furchtlos und Treu | 13.00% | ~7,279 |
 | Gott Mit Uns | 12.00% | ~6,719 |
 | This We'll Defend! | 9.00% | ~5,039 |
@@ -25,9 +25,9 @@ Number of Ratings: 1,999  (23.09.2022)
 | Battle hardened | 8.00% | ~4,479 |
 | Semper Fidelis! | 7.00% | ~3,919 |
 | Honneur et Patrie | 7.00% | ~3,919 |
-| In Treue Fest | 5.00% | ~2,799 |
-| Voor De Koning | 5.00% | ~2,799 |
-| Extreme Headhunter | 5.00% | ~2,799 |
+| In Treue Fest | 5.00% | ~2,800 |
+| Voor De Koning | 5.00% | ~2,800 |
+| Extreme Headhunter | 5.00% | ~2,800 |
 | Advance Australia | 4.00% | ~2,240 |
 | We Stand on Guard | 4.00% | ~2,240 |
 | Sidi Brahim | 4.00% | ~2,240 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~56 |
 | Blood Brother | 0.10% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,989 (Ranked 88)  
+Progressed: 55,991 (Ranked 88)  
 Completed: 4 (0.01%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 4 (0.01%) (Ranked 249)
 | 2023-08-20 | 55,733 | 4 |
 | 2023-08-21 | 55,842 | 4 |
 | 2023-08-22 | 55,935 | 4 |
-| 2023-08-23 | 55,989 | 4 |
+| 2023-08-23 | 55,991 | 4 |
 ## Awards
 Max (Highly Recommended): 96  (Ranked 344)  
 Sum: 766 (Ranked 268)  

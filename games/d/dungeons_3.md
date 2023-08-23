@@ -6,27 +6,27 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 69.00% | ~19,466 |
-| The Evilest Evil | 58.00% | ~16,362 |
-| Twistram is devastated | 57.00% | ~16,080 |
-| The Gehenna Stones | 49.00% | ~13,823 |
-| No one has to die today! | 46.00% | ~12,977 |
-| Death and destruction! | 45.00% | ~12,695 |
-| The Swamplanders from the swamplands | 43.00% | ~12,131 |
+| The Shadow strikes | 69.00% | ~19,467 |
+| The Evilest Evil | 58.00% | ~16,364 |
+| Twistram is devastated | 57.00% | ~16,081 |
+| The Gehenna Stones | 49.00% | ~13,824 |
+| No one has to die today! | 46.00% | ~12,978 |
+| Death and destruction! | 45.00% | ~12,696 |
+| The Swamplanders from the swamplands | 43.00% | ~12,132 |
 | Rusty Steel | 41.00% | ~11,567 |
-| The One-Huge-Army-Building Evil | 40.00% | ~11,284 |
-| The last burger | 37.00% | ~10,438 |
-| Braiiiiins! | 37.00% | ~10,438 |
-| Hands off the Dungeonheart! | 36.00% | ~10,156 |
+| The One-Huge-Army-Building Evil | 40.00% | ~11,285 |
+| The last burger | 37.00% | ~10,439 |
+| Braiiiiins! | 37.00% | ~10,439 |
+| Hands off the Dungeonheart! | 36.00% | ~10,157 |
 | A trip on sea, what fun it can be | 34.00% | ~9,592 |
 | Damned good | 33.00% | ~9,310 |
-| Stock Market Crash | 31.00% | ~8,745 |
-| Factory farming | 31.00% | ~8,745 |
-| Not-So-Overproud | 30.00% | ~8,463 |
-| For a handfull of Catapults | 29.00% | ~8,181 |
-| Shadow hunter | 29.00% | ~8,181 |
-| Thirst quencher | 28.00% | ~7,899 |
-| Ogre Solo! | 28.00% | ~7,899 |
+| Stock Market Crash | 31.00% | ~8,746 |
+| Factory farming | 31.00% | ~8,746 |
+| Not-So-Overproud | 30.00% | ~8,464 |
+| For a handfull of Catapults | 29.00% | ~8,182 |
+| Shadow hunter | 29.00% | ~8,182 |
+| Thirst quencher | 28.00% | ~7,900 |
+| Ogre Solo! | 28.00% | ~7,900 |
 | Destroy the thing | 26.00% | ~7,335 |
 | Tide Master | 26.00% | ~7,335 |
 | Difficult family relationships | 25.00% | ~7,053 |
@@ -34,17 +34,17 @@ Number of Ratings: 1,635  (23.09.2022)
 | Prepare the grave | 24.00% | ~6,771 |
 | Angel of Fire | 24.00% | ~6,771 |
 | Where there is Light, there is Shadow | 23.00% | ~6,489 |
-| At the foot of Mount Destiny | 22.00% | ~6,206 |
-| The Force disturbed | 21.00% | ~5,924 |
-| The Victorious Evil | 20.00% | ~5,642 |
+| At the foot of Mount Destiny | 22.00% | ~6,207 |
+| The Force disturbed | 21.00% | ~5,925 |
+| The Victorious Evil | 20.00% | ~5,643 |
 | Chorus of damnation | 19.00% | ~5,360 |
 | We don’t have time! | 19.00% | ~5,360 |
 | The Stones’ Power | 18.00% | ~5,078 |
 | Flat as a pancake | 17.00% | ~4,796 |
 | Lifeguard | 17.00% | ~4,796 |
 | Can’t stand the sight of Dark Elf blood | 15.00% | ~4,232 |
-| This is fun, I’m going to keep doing this! | 12.00% | ~3,385 |
-| Then let them eat cake! | 12.00% | ~3,385 |
+| This is fun, I’m going to keep doing this! | 12.00% | ~3,386 |
+| Then let them eat cake! | 12.00% | ~3,386 |
 | The White Knight | 10.00% | ~2,821 |
 | Please, no interruptions! | 10.00% | ~2,821 |
 | Use the terrain | 9.00% | ~2,539 |
@@ -59,15 +59,15 @@ Number of Ratings: 1,635  (23.09.2022)
 | A little something extra | 6.00% | ~1,693 |
 | The Benevolent Evil | 6.00% | ~1,693 |
 | Band of Brothers | 5.00% | ~1,411 |
-| Night of the Living Dead (on Speed) | 4.00% | ~1,128 |
-| I need a hero! | 4.00% | ~1,128 |
+| Night of the Living Dead (on Speed) | 4.00% | ~1,129 |
+| I need a hero! | 4.00% | ~1,129 |
 | Storm And Stress | 3.00% | ~846 |
 | I love the smell of Catapult fire! | 3.00% | ~846 |
 | Discoverer | 2.00% | ~564 |
 | Not a scratch | 2.00% | ~564 |
 | Sacrifices! | 2.00% | ~564 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,211 (Ranked 100)  
+Progressed: 28,213 (Ranked 100)  
 Completed: 233 (0.83%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 233 (0.83%) (Ranked 126)
 | 2023-08-20 | 27,956 | 231 |
 | 2023-08-21 | 28,052 | 232 |
 | 2023-08-22 | 28,134 | 232 |
-| 2023-08-23 | 28,211 | 233 |
+| 2023-08-23 | 28,213 | 233 |
 ## Awards
 Max (Great for Beginners): 339  (Ranked 228)  
 Sum: 2,617 (Ranked 173)  

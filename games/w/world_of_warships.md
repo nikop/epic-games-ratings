@@ -6,52 +6,52 @@ Number of Ratings: 4,733  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 91.00% | ~8,115 |
-| Initial Capital | 86.00% | ~7,669 |
-| Moneybags | 71.00% | ~6,332 |
-| Junior Supply Officer | 70.00% | ~6,243 |
-| Naval Constructor | 56.00% | ~4,994 |
-| Naval Warfare. Arson | 55.00% | ~4,905 |
-| Amateur | 53.00% | ~4,727 |
-| Naval Warfare. Tactics | 52.00% | ~4,637 |
-| Naval Warfare. Ramming | 51.00% | ~4,548 |
-| Naval Warfare. Weaponry Basics | 44.00% | ~3,924 |
-| Business Magnate | 41.00% | ~3,656 |
-| Naval Warfare. Flooding | 37.00% | ~3,300 |
-| Naval Warfare. Lucky Shot | 37.00% | ~3,300 |
-| Supply Officer | 35.00% | ~3,121 |
-| Smooth Supply | 34.00% | ~3,032 |
-| Battle Hero | 33.00% | ~2,943 |
-| Warrior | 31.00% | ~2,765 |
-| Veteran | 22.00% | ~1,962 |
-| Chief Naval Architect | 12.00% | ~1,070 |
-| Legend of the Seas | 11.00% | ~981 |
-| Shield | 11.00% | ~981 |
-| Important Missions | 9.00% | ~803 |
-| Senior Supply Officer | 8.00% | ~713 |
-| Weather Beaten | 7.00% | ~624 |
-| Guardian | 7.00% | ~624 |
-| "Science of Victory" | 6.00% | ~535 |
-| Exterminator | 6.00% | ~535 |
-| Bane of the Oceans | 5.00% | ~446 |
-| Special Orders | 5.00% | ~446 |
-| Protector | 5.00% | ~446 |
-| American Cruisers | 5.00% | ~446 |
-| Old-Timer | 4.00% | ~357 |
-| Raider | 3.00% | ~268 |
-| Experienced One | 2.00% | ~178 |
-| Secret Instructions | 2.00% | ~178 |
-| "Yamamoto Isoroku" | 2.00% | ~178 |
-| Ravager | 1.00% | ~89 |
-| "Yamamoto Isoroku" | 1.00% | ~89 |
-| Hit Hard! Hit Fast! Hit Often! | 1.00% | ~89 |
-| "Honorable Service" | 0.90% | ~80 |
+| Junior Naval Designer | 91.00% | ~8,156 |
+| Initial Capital | 86.00% | ~7,708 |
+| Moneybags | 70.00% | ~6,274 |
+| Junior Supply Officer | 70.00% | ~6,274 |
+| Naval Warfare. Arson | 55.00% | ~4,930 |
+| Naval Constructor | 55.00% | ~4,930 |
+| Amateur | 53.00% | ~4,750 |
+| Naval Warfare. Tactics | 52.00% | ~4,661 |
+| Naval Warfare. Ramming | 51.00% | ~4,571 |
+| Naval Warfare. Weaponry Basics | 44.00% | ~3,944 |
+| Business Magnate | 41.00% | ~3,675 |
+| Naval Warfare. Flooding | 37.00% | ~3,316 |
+| Naval Warfare. Lucky Shot | 37.00% | ~3,316 |
+| Supply Officer | 35.00% | ~3,137 |
+| Smooth Supply | 34.00% | ~3,047 |
+| Battle Hero | 33.00% | ~2,958 |
+| Warrior | 31.00% | ~2,779 |
+| Veteran | 22.00% | ~1,972 |
+| Chief Naval Architect | 12.00% | ~1,076 |
+| Legend of the Seas | 11.00% | ~986 |
+| Shield | 11.00% | ~986 |
+| Important Missions | 9.00% | ~807 |
+| Senior Supply Officer | 8.00% | ~717 |
+| Weather Beaten | 7.00% | ~627 |
+| Guardian | 7.00% | ~627 |
+| "Science of Victory" | 6.00% | ~538 |
+| Exterminator | 6.00% | ~538 |
+| Bane of the Oceans | 5.00% | ~448 |
+| Special Orders | 5.00% | ~448 |
+| Protector | 5.00% | ~448 |
+| American Cruisers | 5.00% | ~448 |
+| Old-Timer | 4.00% | ~359 |
+| Raider | 3.00% | ~269 |
+| Experienced One | 2.00% | ~179 |
+| Secret Instructions | 2.00% | ~179 |
+| "Yamamoto Isoroku" | 2.00% | ~179 |
+| Ravager | 1.00% | ~90 |
+| "Yamamoto Isoroku" | 1.00% | ~90 |
+| Hit Hard! Hit Fast! Hit Often! | 1.00% | ~90 |
+| "Honorable Service" | 0.90% | ~81 |
 | "Science of Victory" with Honors | 0.40% | ~36 |
 | "Honorable Service" with Honors | 0.10% | ~9 |
 | "Yamamoto Isoroku" with Honors | 0.00% | ~0 |
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,918 (Ranked 127)  
+Progressed: 8,963 (Ranked 126)  
 Completed: 0 (0.00%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,23 +61,23 @@ Completed: 0 (0.00%) (Ranked 262)
 | 2023-08-20 | 6,681 | 0 |
 | 2023-08-21 | 7,637 | 0 |
 | 2023-08-22 | 8,446 | 0 |
-| 2023-08-23 | 8,918 | 0 |
+| 2023-08-23 | 8,963 | 0 |
 ## Awards
 Max (Relaxing): 1,279  (Ranked 133)  
-Sum: 11,433 (Ranked 80)  
+Sum: 11,439 (Ranked 80)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 1,279 |
 | This game has Quickly Understood Controls | 1,273 |
 | This game has Competitive Players | 1,231 |
-| This game has Challenging Combat | 1,226 |
+| This game has Challenging Combat | 1,228 |
 | This game is Extremely Fun | 1,201 |
 | This game is Highly Recommended | 1,199 |
 | This game has Realistic Visuals | 1,096 |
 | This game has Amazing Storytelling | 1,033 |
 | This game has a Competitive Community | 967 |
-| This game has Amazing Characters | 928 |
+| This game has Amazing Characters | 932 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -304,4 +304,4 @@ Diff (max vs sum): 53
 | 2023-08-20 | 4.41 | - | 1,275 | 11,392 |
 | 2023-08-21 | 4.41 | - | 1,278 | 11,414 |
 | 2023-08-22 | 4.41 | - | 1,278 | 11,423 |
-| 2023-08-23 | 4.41 | - | 1,279 | 11,433 |
+| 2023-08-23 | 4.41 | - | 1,279 | 11,439 |

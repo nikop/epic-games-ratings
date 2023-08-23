@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | D-Club Certified | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,088 (Ranked 138)  
+Progressed: 6,090 (Ranked 138)  
 Completed: 3 (0.05%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 3 (0.05%) (Ranked 229)
 | 2023-08-20 | 6,083 | 3 |
 | 2023-08-21 | 6,085 | 3 |
 | 2023-08-22 | 6,087 | 3 |
-| 2023-08-23 | 6,088 | 3 |
+| 2023-08-23 | 6,090 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

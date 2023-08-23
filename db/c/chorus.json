@@ -1760,9 +1760,9 @@
       "ID": "AllTrophies",
       "SetID": "a6c395p",
       "Name": "Demigod",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 150,
-      "UsersEstimate": 856
+      "UsersEstimate": 867
     },
     {
       "ID": "DieInPermadeath",
@@ -2112,8 +2112,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-08-19T10:57:32.3642226+00:00",
-  "LastChanged_Achievements": "2023-08-23T15:06:27.1504834+00:00",
+  "LastChanged_Achievements": "2023-08-23T16:07:19.0891404+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:41.1503098+00:00",
-  "LastUpdate_Ratings": "2023-08-23T14:57:45.3244888+00:00",
-  "LastUpdate_Achievements": "2023-08-23T15:06:27.1505179+00:00"
+  "LastUpdate_Ratings": "2023-08-23T15:58:01.2986641+00:00",
+  "LastUpdate_Achievements": "2023-08-23T16:07:19.0891862+00:00"
 }

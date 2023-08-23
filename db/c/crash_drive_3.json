@@ -4,7 +4,7 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 369,
+  "EOS_Progressed": 370,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -406,6 +406,11 @@
       "Time": "2023-08-22T04:06:49.6470618+00:00",
       "NumProgressed": 369,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-23T16:07:14.555598+00:00",
+      "NumProgressed": 370,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -441,7 +446,7 @@
       "Name": "Car-Tapult",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "COIN_COLLECT",
@@ -545,7 +550,7 @@
       "Name": "Disoriented",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "FULLY_LEVEL_20_CARS",
@@ -593,7 +598,7 @@
       "Name": "Anger Issues",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "HIT_50_PUSHABLES",
@@ -657,7 +662,7 @@
       "Name": "Your Highness",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "LEFT_LEVEL",
@@ -679,9 +684,9 @@
       "ID": "LOADED_LVL_FOREST",
       "SetID": "20koof9",
       "Name": "A Forest Walk",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 111
+      "UsersEstimate": 107
     },
     {
       "ID": "LOADED_LVL_SNOW",
@@ -697,7 +702,7 @@
       "Name": "Feeling Hot Hot Hot!",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "MAX_MULTIPLIER",
@@ -729,7 +734,7 @@
       "Name": "Feeling Dizzy?",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "STUNT_EVENT",
@@ -856,7 +861,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 369,
+      "Progressed": 370,
       "Completed": 2
     }
   ],
@@ -864,8 +869,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-08-23T15:06:23.457102+00:00",
+  "LastChanged_Achievements": "2023-08-23T16:07:14.5555973+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:13.8795061+00:00",
-  "LastUpdate_Ratings": "2023-08-23T15:00:19.390587+00:00",
-  "LastUpdate_Achievements": "2023-08-23T15:06:23.4571421+00:00"
+  "LastUpdate_Ratings": "2023-08-23T16:01:19.0233764+00:00",
+  "LastUpdate_Achievements": "2023-08-23T16:07:14.5556555+00:00"
 }

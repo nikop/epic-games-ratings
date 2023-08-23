@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17579,
+  "EOS_Progressed": 17581,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8876,6 +8876,11 @@
       "Time": "2023-08-23T15:05:45.8133868+00:00",
       "NumProgressed": 17579,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-23T16:06:29.2106506+00:00",
+      "NumProgressed": 17581,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -8903,7 +8908,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2988
+      "UsersEstimate": 2989
     },
     {
       "ID": "0004",
@@ -8943,7 +8948,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3164
+      "UsersEstimate": 3165
     },
     {
       "ID": "0009",
@@ -8951,7 +8956,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4043
+      "UsersEstimate": 4044
     },
     {
       "ID": "0010",
@@ -8991,7 +8996,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2988
+      "UsersEstimate": 2989
     },
     {
       "ID": "0015",
@@ -9071,7 +9076,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3867
+      "UsersEstimate": 3868
     },
     {
       "ID": "0025",
@@ -9079,7 +9084,7 @@
       "Name": "Tailor-Made",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3164
+      "UsersEstimate": 3165
     },
     {
       "ID": "0026",
@@ -9087,7 +9092,7 @@
       "Name": "The Living Portrait",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2109
+      "UsersEstimate": 2110
     },
     {
       "ID": "0027",
@@ -9103,7 +9108,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4043
+      "UsersEstimate": 4044
     },
     {
       "ID": "0029",
@@ -9111,7 +9116,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2285
+      "UsersEstimate": 2286
     },
     {
       "ID": "0030",
@@ -9119,7 +9124,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3164
+      "UsersEstimate": 3165
     },
     {
       "ID": "0031",
@@ -9127,7 +9132,7 @@
       "Name": "Private Collection",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2109
+      "UsersEstimate": 2110
     },
     {
       "ID": "0032",
@@ -9135,7 +9140,7 @@
       "Name": "Killer Looks",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2109
+      "UsersEstimate": 2110
     },
     {
       "ID": "0033",
@@ -9143,7 +9148,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2109
+      "UsersEstimate": 2110
     },
     {
       "ID": "0034",
@@ -9151,7 +9156,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2109
+      "UsersEstimate": 2110
     },
     {
       "ID": "0035",
@@ -9174,7 +9179,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17579,
+      "Progressed": 17581,
       "Completed": 1
     }
   ],
@@ -9182,8 +9187,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-12T19:04:41.1874293+00:00",
-  "LastChanged_Achievements": "2023-08-23T15:05:45.8133863+00:00",
+  "LastChanged_Achievements": "2023-08-23T16:06:29.2106494+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:28.6624095+00:00",
-  "LastUpdate_Ratings": "2023-08-23T14:57:35.1843268+00:00",
-  "LastUpdate_Achievements": "2023-08-23T15:05:45.8134472+00:00"
+  "LastUpdate_Ratings": "2023-08-23T15:57:47.19203+00:00",
+  "LastUpdate_Achievements": "2023-08-23T16:06:29.2107329+00:00"
 }
