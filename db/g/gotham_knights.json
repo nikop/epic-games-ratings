@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2504,9 +2504,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 67980,
+  "EOS_Progressed": 67982,
   "EOS_Completed": 109,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -12984,6 +12984,11 @@
       "Time": "2023-08-23T00:06:34.4070694+00:00",
       "NumProgressed": 67980,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2023-08-23T01:46:11.5016066+00:00",
+      "NumProgressed": 67982,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 61,
@@ -13107,7 +13112,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 12236
+      "UsersEstimate": 12237
     },
     {
       "ID": "CLAYFACE_3",
@@ -13155,7 +13160,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 8837
+      "UsersEstimate": 8838
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -13203,7 +13208,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 8837
+      "UsersEstimate": 8838
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -13219,7 +13224,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 19034
+      "UsersEstimate": 19035
     },
     {
       "ID": "FREEZE_1_5",
@@ -13235,7 +13240,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 12916
+      "UsersEstimate": 12917
     },
     {
       "ID": "FREEZE_3",
@@ -13299,7 +13304,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 23793
+      "UsersEstimate": 23794
     },
     {
       "ID": "HARLEY_2",
@@ -13307,7 +13312,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 16995
+      "UsersEstimate": 16996
     },
     {
       "ID": "HARLEY_3",
@@ -13339,7 +13344,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 33990
+      "UsersEstimate": 33991
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -13387,7 +13392,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 23113
+      "UsersEstimate": 23114
     },
     {
       "ID": "MYSTERY_02",
@@ -13395,7 +13400,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 16995
+      "UsersEstimate": 16996
     },
     {
       "ID": "MYSTERY_03",
@@ -13419,7 +13424,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 12236
+      "UsersEstimate": 12237
     },
     {
       "ID": "MYSTERY_06",
@@ -13482,13 +13487,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 67980,
+      "Progressed": 67982,
       "Completed": 109
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38260,
+      "Progressed": 38262,
       "Completed": 2658
     }
   ],
@@ -13496,8 +13501,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-08-22T13:02:06.8098458+00:00",
-  "LastChanged_Achievements": "2023-08-23T00:06:34.4070684+00:00",
+  "LastChanged_Achievements": "2023-08-23T01:46:11.5016058+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:36.1459925+00:00",
-  "LastUpdate_Ratings": "2023-08-22T23:57:24.9449034+00:00",
-  "LastUpdate_Achievements": "2023-08-23T00:06:34.4071756+00:00"
+  "LastUpdate_Ratings": "2023-08-23T01:36:32.2439789+00:00",
+  "LastUpdate_Achievements": "2023-08-23T01:46:11.5018214+00:00"
 }

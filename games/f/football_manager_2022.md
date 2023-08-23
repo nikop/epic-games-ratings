@@ -6,15 +6,15 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~235,554 |
-| He's Signed! | 50.00% | ~235,554 |
-| First Victory | 50.00% | ~235,554 |
-| He's Sold! | 48.00% | ~226,132 |
+| Clean Sheet | 50.00% | ~235,555 |
+| He's Signed! | 50.00% | ~235,555 |
+| First Victory | 50.00% | ~235,555 |
+| He's Sold! | 48.00% | ~226,133 |
 | I'm The Boss! | 42.00% | ~197,866 |
 | Hat-trick | 41.00% | ~193,155 |
-| Scoring Streak | 38.00% | ~179,021 |
-| Unbeatable! | 37.00% | ~174,310 |
-| Thumping | 37.00% | ~174,310 |
+| Scoring Streak | 38.00% | ~179,022 |
+| Unbeatable! | 37.00% | ~174,311 |
+| Thumping | 37.00% | ~174,311 |
 | Superb Dressing Room Atmosphere | 35.00% | ~164,888 |
 | Total Support | 32.00% | ~150,755 |
 | Record Signing | 32.00% | ~150,755 |
@@ -25,11 +25,11 @@ Number of Ratings: 19,160  (23.09.2022)
 | Shrewd Spender | 29.00% | ~136,622 |
 | Star Man | 29.00% | ~136,622 |
 | Attack! | 28.00% | ~131,911 |
-| You're On Fire | 26.00% | ~122,488 |
-| On A Roll | 26.00% | ~122,488 |
-| Tremendous Trio | 26.00% | ~122,488 |
-| Unstoppable Force | 26.00% | ~122,488 |
-| Record Sale | 26.00% | ~122,488 |
+| You're On Fire | 26.00% | ~122,489 |
+| On A Roll | 26.00% | ~122,489 |
+| Tremendous Trio | 26.00% | ~122,489 |
+| Unstoppable Force | 26.00% | ~122,489 |
+| Record Sale | 26.00% | ~122,489 |
 | Fantastic Five | 24.00% | ~113,066 |
 | Full Faith | 24.00% | ~113,066 |
 | The Boss | 24.00% | ~113,066 |
@@ -68,8 +68,8 @@ Number of Ratings: 19,160  (23.09.2022)
 | Parked The Tank | 6.00% | ~28,267 |
 | World Renowned | 6.00% | ~28,267 |
 | Head-to-Head | 6.00% | ~28,267 |
-| Going Places | 5.00% | ~23,555 |
-| We Trust You | 5.00% | ~23,555 |
+| Going Places | 5.00% | ~23,556 |
+| We Trust You | 5.00% | ~23,556 |
 | National Hero | 3.00% | ~14,133 |
 | Golden Boot | 3.00% | ~14,133 |
 | Trophy Hoarder | 3.00% | ~14,133 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~471 |
 | Shoestring Budget | 0.10% | ~471 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 471,109 (Ranked 36)  
+Progressed: 471,110 (Ranked 36)  
 Completed: 20 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,6 +230,7 @@ Completed: 20 (0.00%) (Ranked 261)
 | 2023-08-20 | 470,909 | 20 |
 | 2023-08-21 | 471,015 | 20 |
 | 2023-08-22 | 471,109 | 20 |
+| 2023-08-23 | 471,110 | 20 |
 ## Awards
 Max (Relaxing): 6,410  (Ranked 54)  
 Sum: 50,440 (Ranked 24)  

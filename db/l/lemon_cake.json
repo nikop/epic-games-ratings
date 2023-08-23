@@ -2,9 +2,9 @@
   "ID": "3eae9135a71f43a288f3b683fe83bc11",
   "Name": "Lemon Cake",
   "ProductSlug": "lemon-cake-c683d8",
-  "Ranking_EOS_Progress": 310,
+  "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-09-29T23:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 142,
+  "EOS_Progressed": 143,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -172,6 +172,11 @@
       "Time": "2023-08-22T21:07:36.4726527+00:00",
       "NumProgressed": 142,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-23T01:45:14.0729215+00:00",
+      "NumProgressed": 143,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 17,
@@ -183,15 +188,15 @@
       "Name": "Proving Your Skills",
       "Percentage": 91,
       "XP": 25,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "LC-02",
       "SetID": "ap2ljl4",
       "Name": "Bakery Startup",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 60
+      "UsersEstimate": 59
     },
     {
       "ID": "LC-03",
@@ -215,15 +220,15 @@
       "Name": "Apprentice Baker",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "LC-06",
       "SetID": "ap2ljl4",
       "Name": "Adept Baker",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "LC-07",
@@ -279,7 +284,7 @@
       "Name": "The Kitchen Is On Fire",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "LC-14",
@@ -318,7 +323,7 @@
     {
       "ID": "ap2ljl4",
       "IsBase": true,
-      "Progressed": 142,
+      "Progressed": 143,
       "Completed": 1
     }
   ],
@@ -326,8 +331,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.6780256+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.6062065+00:00",
   "LastChanged": "2023-03-31T05:58:18.6780257+00:00",
-  "LastChanged_Achievements": "2023-08-23T00:05:46.689065+00:00",
+  "LastChanged_Achievements": "2023-08-23T01:45:14.0729209+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:53.5153937+00:00",
-  "LastUpdate_Ratings": "2023-08-22T23:57:41.9485668+00:00",
-  "LastUpdate_Achievements": "2023-08-23T00:05:46.6890798+00:00"
+  "LastUpdate_Ratings": "2023-08-23T01:36:47.8941717+00:00",
+  "LastUpdate_Achievements": "2023-08-23T01:45:14.0729361+00:00"
 }

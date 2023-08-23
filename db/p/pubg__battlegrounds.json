@@ -3826,9 +3826,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 547789,
+  "EOS_Progressed": 547792,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 15906,
+  "EOS_NewPlayers": 15813,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17621,6 +17621,11 @@
       "Time": "2023-08-23T00:03:49.5807425+00:00",
       "NumProgressed": 547789,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-08-23T01:42:52.4774901+00:00",
+      "NumProgressed": 547792,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 37,
@@ -17656,7 +17661,7 @@
       "Name": "Marksman Novice",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 98602
+      "UsersEstimate": 98603
     },
     {
       "ID": "13",
@@ -17696,7 +17701,7 @@
       "Name": "Collateral Damage",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 32867
+      "UsersEstimate": 32868
     },
     {
       "ID": "18",
@@ -17704,7 +17709,7 @@
       "Name": "Devil Inside Me",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 153381
+      "UsersEstimate": 153382
     },
     {
       "ID": "19",
@@ -17712,7 +17717,7 @@
       "Name": "Blood on My Hands",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 410842
+      "UsersEstimate": 410844
     },
     {
       "ID": "2",
@@ -17800,7 +17805,7 @@
       "Name": "Airborne",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 32867
+      "UsersEstimate": 32868
     },
     {
       "ID": "3",
@@ -17824,7 +17829,7 @@
       "Name": "Guardian Angel",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 197204
+      "UsersEstimate": 197205
     },
     {
       "ID": "32",
@@ -17856,7 +17861,7 @@
       "Name": "You Complete Me",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 219116
+      "UsersEstimate": 219117
     },
     {
       "ID": "36",
@@ -17872,7 +17877,7 @@
       "Name": "Health Junkie",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 230071
+      "UsersEstimate": 230073
     },
     {
       "ID": "4",
@@ -17896,7 +17901,7 @@
       "Name": "Pacifist",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 27389
+      "UsersEstimate": 27390
     },
     {
       "ID": "7",
@@ -17927,7 +17932,7 @@
     {
       "ID": "7ko8h8f",
       "IsBase": true,
-      "Progressed": 547789,
+      "Progressed": 547792,
       "Completed": 10
     }
   ],
@@ -17935,8 +17940,8 @@
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.6020282+00:00",
   "LastChanged": "2023-08-22T16:01:08.973319+00:00",
-  "LastChanged_Achievements": "2023-08-23T00:03:49.5807418+00:00",
+  "LastChanged_Achievements": "2023-08-23T01:42:52.477489+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:01.4156921+00:00",
-  "LastUpdate_Ratings": "2023-08-23T00:00:18.927396+00:00",
-  "LastUpdate_Achievements": "2023-08-23T00:03:49.5808523+00:00"
+  "LastUpdate_Ratings": "2023-08-23T01:39:34.7027496+00:00",
+  "LastUpdate_Achievements": "2023-08-23T01:42:52.4777093+00:00"
 }

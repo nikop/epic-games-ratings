@@ -180,9 +180,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 197896,
+  "EOS_Progressed": 197944,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7958,
+  "EOS_NewPlayers": 7945,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3335,6 +3335,11 @@
       "Time": "2023-08-23T00:05:30.1198764+00:00",
       "NumProgressed": 197896,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-23T01:44:54.3216239+00:00",
+      "NumProgressed": 197944,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -3355,7 +3360,7 @@
       "Name": "Tenhauser Gate Completed",
       "Percentage": 0.8,
       "XP": 35,
-      "UsersEstimate": 1583
+      "UsersEstimate": 1584
     },
     {
       "ID": "HW1_MISSION12_COMPLETE",
@@ -3379,7 +3384,7 @@
       "Name": "Bridge of Sighs Completed",
       "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 1187
+      "UsersEstimate": 1188
     },
     {
       "ID": "HW1_MISSION15_COMPLETE",
@@ -3395,7 +3400,7 @@
       "Name": "Hiigara Completed",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     },
     {
       "ID": "HW1_MISSION1_COMPLETE",
@@ -3403,7 +3408,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 39579
+      "UsersEstimate": 39589
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -3411,7 +3416,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 17811
+      "UsersEstimate": 17815
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -3419,7 +3424,7 @@
       "Name": "Return to Kharak",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 9895
+      "UsersEstimate": 9897
     },
     {
       "ID": "HW1_MISSION4_COMPLETE",
@@ -3427,7 +3432,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 5937
+      "UsersEstimate": 5938
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -3435,7 +3440,7 @@
       "Name": "Great Wastelands (part 2) Completed",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 3958
+      "UsersEstimate": 3959
     },
     {
       "ID": "HW1_MISSION6_COMPLETE",
@@ -3443,7 +3448,7 @@
       "Name": "Diamond Shoals Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 3958
+      "UsersEstimate": 3959
     },
     {
       "ID": "HW1_MISSION7_COMPLETE",
@@ -3451,7 +3456,7 @@
       "Name": "The Gardens of Kadesh Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 3958
+      "UsersEstimate": 3959
     },
     {
       "ID": "HW1_MISSION8_COMPLETE",
@@ -3459,7 +3464,7 @@
       "Name": "The Cathedral of Kadesh Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 3958
+      "UsersEstimate": 3959
     },
     {
       "ID": "HW1_MISSION9_COMPLETE",
@@ -3483,7 +3488,7 @@
       "Name": "Keepers of Sajuuk Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     },
     {
       "ID": "HW2_MISSION11_COMPLETE",
@@ -3491,7 +3496,7 @@
       "Name": "Sacrifice Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     },
     {
       "ID": "HW2_MISSION12_COMPLETE",
@@ -3531,7 +3536,7 @@
       "Name": "Tanis Completed",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 25726
+      "UsersEstimate": 25733
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -3539,7 +3544,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 13853
+      "UsersEstimate": 13856
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -3547,7 +3552,7 @@
       "Name": "Sarum Completed",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 3958
+      "UsersEstimate": 3959
     },
     {
       "ID": "HW2_MISSION4_COMPLETE",
@@ -3555,7 +3560,7 @@
       "Name": "Gehenna Outskirts Completed",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 1583
+      "UsersEstimate": 1584
     },
     {
       "ID": "HW2_MISSION5_COMPLETE",
@@ -3563,7 +3568,7 @@
       "Name": "Gehenna Completed",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 1583
+      "UsersEstimate": 1584
     },
     {
       "ID": "HW2_MISSION6_COMPLETE",
@@ -3571,7 +3576,7 @@
       "Name": "The Karos Graveyard Complete",
       "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 1187
+      "UsersEstimate": 1188
     },
     {
       "ID": "HW2_MISSION7_COMPLETE",
@@ -3579,7 +3584,7 @@
       "Name": "Derelicts Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     },
     {
       "ID": "HW2_MISSION8_COMPLETE",
@@ -3587,7 +3592,7 @@
       "Name": "Dreadnaught Berth Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     },
     {
       "ID": "HW2_MISSION9_COMPLETE",
@@ -3603,7 +3608,7 @@
       "Name": "Graduated Command School",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 47495
+      "UsersEstimate": 47507
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -3618,7 +3623,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 197896,
+      "Progressed": 197944,
       "Completed": 0
     }
   ],
@@ -3626,8 +3631,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-08-18T23:59:02.4933133+00:00",
-  "LastChanged_Achievements": "2023-08-23T00:05:30.1198754+00:00",
+  "LastChanged_Achievements": "2023-08-23T01:44:54.3216233+00:00",
   "LastUpdate_AppInfo": "2023-08-17T17:57:07.573017+00:00",
-  "LastUpdate_Ratings": "2023-08-22T23:58:26.6648935+00:00",
-  "LastUpdate_Achievements": "2023-08-23T00:05:30.1199211+00:00"
+  "LastUpdate_Ratings": "2023-08-23T01:37:37.3702272+00:00",
+  "LastUpdate_Achievements": "2023-08-23T01:44:54.3217075+00:00"
 }

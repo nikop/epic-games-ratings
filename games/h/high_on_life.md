@@ -5,18 +5,18 @@ Rating: 4.65 (Ranked 299)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~19,885 |
+| Eye Scream, You Scream | 83.00% | ~19,886 |
 | Mods Please Ban | 77.00% | ~18,448 |
-| Bring A Knife to a Gun Fight | 76.00% | ~18,208 |
-| Fallout Doesn't Let You Do This | 73.00% | ~17,489 |
-| First Bounty Down | 59.00% | ~14,135 |
-| We're All Very Impressed, Trust Me | 57.00% | ~13,656 |
+| Bring A Knife to a Gun Fight | 76.00% | ~18,209 |
+| Fallout Doesn't Let You Do This | 73.00% | ~17,490 |
+| First Bounty Down | 59.00% | ~14,136 |
+| We're All Very Impressed, Trust Me | 57.00% | ~13,657 |
 | Luglox Genocide | 43.00% | ~10,302 |
 | Don't Knife The Hand That Feeds | 34.00% | ~8,146 |
 | Playing Card To Get | 33.00% | ~7,906 |
 | Creature Feature | 29.00% | ~6,948 |
-| Satisfied Gus-tomer | 28.00% | ~6,708 |
-| Cold-Blooded Driller | 28.00% | ~6,708 |
+| Satisfied Gus-tomer | 28.00% | ~6,709 |
+| Cold-Blooded Driller | 28.00% | ~6,709 |
 | Are You Packin'? | 25.00% | ~5,990 |
 | Sweezy Like Sunday Morning | 25.00% | ~5,990 |
 | G3 Graduation | 25.00% | ~5,990 |
@@ -27,18 +27,18 @@ Rating: 4.65 (Ranked 299)
 | Who's The Boss? | 20.00% | ~4,792 |
 | Self-Actualization | 19.00% | ~4,552 |
 | Spent 15 Hours At The Alien Strip Club | 19.00% | ~4,552 |
-| Legendary Bounty Hunter | 18.00% | ~4,312 |
+| Legendary Bounty Hunter | 18.00% | ~4,313 |
 | Seeing All The Sights | 16.00% | ~3,833 |
 | Carried Stan's Load To Completion | 13.00% | ~3,115 |
 | We Paid For The Rights To Put A Whole Movie In Here | 12.00% | ~2,875 |
 | Eatin' Good in the Neighborhood | 9.00% | ~2,156 |
 | Sequel-Bait | 8.00% | ~1,917 |
 | Gunning For Your Job | 7.00% | ~1,677 |
-| Playing Favorites | 6.00% | ~1,437 |
+| Playing Favorites | 6.00% | ~1,438 |
 | Epic Legendary Prize | 1.00% | ~240 |
 | A Starfish Is Born | 1.00% | ~240 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,958 (Ranked 103)  
+Progressed: 23,959 (Ranked 103)  
 Completed: 12 (0.05%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,6 +162,7 @@ Completed: 12 (0.05%) (Ranked 228)
 | 2023-08-20 | 23,952 | 12 |
 | 2023-08-21 | 23,953 | 12 |
 | 2023-08-22 | 23,958 | 12 |
+| 2023-08-23 | 23,959 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

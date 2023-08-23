@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 135,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -436,9 +436,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7579,
+  "EOS_Progressed": 7580,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -7581,6 +7581,11 @@
       "Time": "2023-08-22T22:06:37.8712843+00:00",
       "NumProgressed": 7579,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-08-23T01:46:14.1131268+00:00",
+      "NumProgressed": 7580,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 29,
@@ -7696,7 +7701,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1288
+      "UsersEstimate": 1289
     },
     {
       "ID": "ACH15",
@@ -7776,7 +7781,7 @@
       "Name": "Dirty Money",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 909
+      "UsersEstimate": 910
     },
     {
       "ID": "ACH25",
@@ -7823,7 +7828,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7579,
+      "Progressed": 7580,
       "Completed": 46
     }
   ],
@@ -7831,8 +7836,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-08-22T21:59:28.6031781+00:00",
-  "LastChanged_Achievements": "2023-08-23T00:06:36.755945+00:00",
+  "LastChanged_Achievements": "2023-08-23T01:46:14.1131262+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:48.3209377+00:00",
-  "LastUpdate_Ratings": "2023-08-22T23:59:33.2224311+00:00",
-  "LastUpdate_Achievements": "2023-08-23T00:06:36.7560094+00:00"
+  "LastUpdate_Ratings": "2023-08-23T01:38:46.2142341+00:00",
+  "LastUpdate_Achievements": "2023-08-23T01:46:14.1132516+00:00"
 }

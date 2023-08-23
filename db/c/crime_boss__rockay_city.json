@@ -3,8 +3,8 @@
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 947,
-  "Ranking_Popularity": 216,
-  "Ranking_PopularitySum": 204,
+  "Ranking_Popularity": 215,
+  "Ranking_PopularitySum": 203,
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 94,
@@ -3058,11 +3058,17 @@
       "Rating": 3.94,
       "NumberOfAwards": 1925,
       "NumberOfAwardsMax": 403
+    },
+    {
+      "Time": "2023-08-23T01:36:42.1232105+00:00",
+      "Rating": 3.94,
+      "NumberOfAwards": 1926,
+      "NumberOfAwardsMax": 404
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 1925,
-  "NumberOfAwardsMax": 403,
+  "NumberOfAwards": 1926,
+  "NumberOfAwardsMax": 404,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -3075,7 +3081,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 403
+      "Count": 404
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3114,7 +3120,7 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 72198,
+  "EOS_Progressed": 72199,
   "EOS_Completed": 41,
   "EOS_NewPlayers": 312,
   "EOS_NewCompleters": 2,
@@ -16099,6 +16105,11 @@
       "Time": "2023-08-23T00:06:40.6483811+00:00",
       "NumProgressed": 72198,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-08-23T01:46:19.0350896+00:00",
+      "NumProgressed": 72199,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 37,
@@ -16110,7 +16121,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 36099
+      "UsersEstimate": 36100
     },
     {
       "ID": "ACH_0011",
@@ -16118,7 +16129,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 20937
+      "UsersEstimate": 20938
     },
     {
       "ID": "ACH_0012",
@@ -16276,9 +16287,9 @@
       "ID": "ACH_0220",
       "SetID": "3kam13l",
       "Name": "Too Old for This",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 33933
+      "UsersEstimate": 34656
     },
     {
       "ID": "ACH_0300",
@@ -16326,7 +16337,7 @@
       "Name": "Case Closed",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 25269
+      "UsersEstimate": 25270
     },
     {
       "ID": "ACH_0420",
@@ -16334,7 +16345,7 @@
       "Name": "King of the Hill",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 24547
+      "UsersEstimate": 24548
     },
     {
       "ID": "ACH_0430",
@@ -16342,7 +16353,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 25269
+      "UsersEstimate": 25270
     },
     {
       "ID": "ACH_0431",
@@ -16405,22 +16416,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 72198,
+      "Progressed": 72199,
       "Completed": 41
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 545,
-      "Completed": 545
+      "Progressed": 546,
+      "Completed": 546
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-08-22T22:57:58.4188555+00:00",
-  "LastChanged_Achievements": "2023-08-23T00:06:40.6483805+00:00",
+  "LastChanged": "2023-08-23T01:36:42.1232102+00:00",
+  "LastChanged_Achievements": "2023-08-23T01:46:19.0350889+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:48.5211502+00:00",
-  "LastUpdate_Ratings": "2023-08-22T23:57:37.1366523+00:00",
-  "LastUpdate_Achievements": "2023-08-23T00:06:40.6484739+00:00"
+  "LastUpdate_Ratings": "2023-08-23T01:36:42.123211+00:00",
+  "LastUpdate_Achievements": "2023-08-23T01:46:19.0352198+00:00"
 }

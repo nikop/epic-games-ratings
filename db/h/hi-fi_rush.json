@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -118,9 +118,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3964,
+  "EOS_Progressed": 3965,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -6148,6 +6148,11 @@
       "Time": "2023-08-23T00:06:04.7962206+00:00",
       "NumProgressed": 3964,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-23T01:45:35.124134+00:00",
+      "NumProgressed": 3965,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 71,
@@ -6175,7 +6180,7 @@
       "Name": "This will cost you big time",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "Ach004",
@@ -6287,7 +6292,7 @@
       "Name": "I play my own way!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "Ach018",
@@ -6415,7 +6420,7 @@
       "Name": "Uh, they were broken when I got here",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "Ach034",
@@ -6487,7 +6492,7 @@
       "Name": "I look cool. But I can look COOLER.",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "Ach043",
@@ -6726,13 +6731,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3964,
+      "Progressed": 3965,
       "Completed": 7
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2485,
+      "Progressed": 2486,
       "Completed": 1929
     }
   ],
@@ -6740,8 +6745,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-08-10T23:00:09.4128826+00:00",
-  "LastChanged_Achievements": "2023-08-23T00:06:04.79622+00:00",
+  "LastChanged_Achievements": "2023-08-23T01:45:35.1241335+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:54.770039+00:00",
-  "LastUpdate_Ratings": "2023-08-23T00:00:17.3220265+00:00",
-  "LastUpdate_Achievements": "2023-08-23T00:06:04.796332+00:00"
+  "LastUpdate_Ratings": "2023-08-23T01:39:32.6315336+00:00",
+  "LastUpdate_Achievements": "2023-08-23T01:45:35.12427+00:00"
 }
