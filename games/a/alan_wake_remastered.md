@@ -13,15 +13,15 @@ Number of Ratings: 524  (23.09.2022)
 | Bright Falls' Finest | 23.00% | ~14,107 |
 | Under a Thin Layer of Skin | 20.00% | ~12,267 |
 | Paging Mr. Wake | 17.00% | ~10,427 |
-| Park Ranger | 16.00% | ~9,813 |
-| Back! Back, I Say! | 16.00% | ~9,813 |
-| Finders Keepers | 16.00% | ~9,813 |
+| Park Ranger | 16.00% | ~9,814 |
+| Back! Back, I Say! | 16.00% | ~9,814 |
+| Finders Keepers | 16.00% | ~9,814 |
 | They're Heeeeeere! | 14.00% | ~8,587 |
 | Sound and Fury | 14.00% | ~8,587 |
 | Missed by a Mile | 14.00% | ~8,587 |
 | Damn Good Cup of Coffee | 14.00% | ~8,587 |
-| Wheels Within Wheels | 13.00% | ~7,973 |
-| The Six-Gun Scribe | 13.00% | ~7,973 |
+| Wheels Within Wheels | 13.00% | ~7,974 |
+| The Six-Gun Scribe | 13.00% | ~7,974 |
 | Heavy Metal | 12.00% | ~7,360 |
 | Iron Horse | 12.00% | ~7,360 |
 | Perchance to Dream | 12.00% | ~7,360 |
@@ -29,10 +29,10 @@ Number of Ratings: 524  (23.09.2022)
 | Come One, Come All | 12.00% | ~7,360 |
 | It's Not Just a Typewriter Brand | 11.00% | ~6,747 |
 | Thunder and Lightning | 11.00% | ~6,747 |
-| Gatekeeper | 10.00% | ~6,133 |
-| The Lady of the Light | 10.00% | ~6,133 |
-| Two For the Price of One | 10.00% | ~6,133 |
-| Energized! | 10.00% | ~6,133 |
+| Gatekeeper | 10.00% | ~6,134 |
+| The Lady of the Light | 10.00% | ~6,134 |
+| Two For the Price of One | 10.00% | ~6,134 |
+| Energized! | 10.00% | ~6,134 |
 | Right of Way | 9.00% | ~5,520 |
 | What Light Through Yonder Window | 8.00% | ~4,907 |
 | A Friend in Need | 8.00% | ~1,984 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~61 |
 | No Punctuation | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,333 (Ranked 85)  
+Progressed: 61,335 (Ranked 85)  
 Completed: 64 (0.10%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,6 +199,7 @@ Completed: 64 (0.10%) (Ranked 208)
 | 2023-08-20 | 61,207 | 64 |
 | 2023-08-21 | 61,273 | 64 |
 | 2023-08-22 | 61,333 | 64 |
+| 2023-08-23 | 61,335 | 64 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

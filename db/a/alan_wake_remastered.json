@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewPlayers": 84,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 61333,
+  "EOS_Progressed": 61335,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 426,
+  "EOS_NewPlayers": 427,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -12072,6 +12072,11 @@
       "Time": "2023-08-22T23:06:44.7158179+00:00",
       "NumProgressed": 61333,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-23T00:06:06.7921204+00:00",
+      "NumProgressed": 61335,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -12123,7 +12128,7 @@
       "Name": "Park Ranger",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 9813
+      "UsersEstimate": 9814
     },
     {
       "ID": "07",
@@ -12147,7 +12152,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7973
+      "UsersEstimate": 7974
     },
     {
       "ID": "10",
@@ -12187,7 +12192,7 @@
       "Name": "Gatekeeper",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6133
+      "UsersEstimate": 6134
     },
     {
       "ID": "15",
@@ -12195,7 +12200,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6133
+      "UsersEstimate": 6134
     },
     {
       "ID": "16",
@@ -12251,7 +12256,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7973
+      "UsersEstimate": 7974
     },
     {
       "ID": "23",
@@ -12315,7 +12320,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6133
+      "UsersEstimate": 6134
     },
     {
       "ID": "31",
@@ -12323,7 +12328,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 9813
+      "UsersEstimate": 9814
     },
     {
       "ID": "32",
@@ -12347,7 +12352,7 @@
       "Name": "Energized!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6133
+      "UsersEstimate": 6134
     },
     {
       "ID": "35",
@@ -12403,7 +12408,7 @@
       "Name": "Finders Keepers",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 9813
+      "UsersEstimate": 9814
     },
     {
       "ID": "42",
@@ -12618,21 +12623,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 61333,
+      "Progressed": 61335,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24801,
+      "Progressed": 24803,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-22T23:06:44.7158173+00:00",
+  "LastChanged_Achievements": "2023-08-23T00:06:06.7921199+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:35.5614422+00:00",
-  "LastUpdate_Ratings": "2023-08-22T23:00:02.4249922+00:00",
-  "LastUpdate_Achievements": "2023-08-22T23:06:44.7159467+00:00"
+  "LastUpdate_Ratings": "2023-08-22T23:59:22.786543+00:00",
+  "LastUpdate_Achievements": "2023-08-23T00:06:06.7922566+00:00"
 }

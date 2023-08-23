@@ -6,27 +6,27 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~593,027 |
-| Right Back At Ya | 39.00% | ~340,119 |
-| The Lovers | 35.00% | ~305,235 |
-| Stanislavski's Method | 29.00% | ~252,909 |
-| The Wheel of Fortune | 27.00% | ~235,467 |
-| The Hermit | 25.00% | ~218,025 |
-| Christmas Tree Attack | 23.00% | ~200,583 |
-| True Soldier | 23.00% | ~200,583 |
-| The High Priestess | 22.00% | ~191,862 |
-| Legend of The Afterlife | 22.00% | ~191,862 |
-| Life of the Road | 21.00% | ~183,141 |
-| Full Body Conversion | 18.00% | ~156,978 |
-| The World | 18.00% | ~156,978 |
-| Bushido and Chill | 17.00% | ~148,257 |
-| Gun Fu | 15.00% | ~130,815 |
-| True Warrior | 15.00% | ~130,815 |
-| To Protect and Serve | 14.00% | ~122,094 |
-| I Am The Law | 14.00% | ~122,094 |
-| Judy vs Night City | 14.00% | ~122,094 |
-| Master Crafter | 13.00% | ~113,373 |
-| Two Heads, One Bullet | 12.00% | ~104,652 |
+| The Fool | 68.00% | ~593,031 |
+| Right Back At Ya | 39.00% | ~340,121 |
+| The Lovers | 35.00% | ~305,237 |
+| Stanislavski's Method | 29.00% | ~252,910 |
+| The Wheel of Fortune | 27.00% | ~235,468 |
+| The Hermit | 25.00% | ~218,026 |
+| Christmas Tree Attack | 23.00% | ~200,584 |
+| True Soldier | 23.00% | ~200,584 |
+| The High Priestess | 22.00% | ~191,863 |
+| Legend of The Afterlife | 22.00% | ~191,863 |
+| Life of the Road | 21.00% | ~183,142 |
+| Full Body Conversion | 18.00% | ~156,979 |
+| The World | 18.00% | ~156,979 |
+| Bushido and Chill | 17.00% | ~148,258 |
+| Gun Fu | 15.00% | ~130,816 |
+| True Warrior | 15.00% | ~130,816 |
+| To Protect and Serve | 14.00% | ~122,095 |
+| I Am The Law | 14.00% | ~122,095 |
+| Judy vs Night City | 14.00% | ~122,095 |
+| Master Crafter | 13.00% | ~113,374 |
+| Two Heads, One Bullet | 12.00% | ~104,653 |
 | The Quick and the Dead | 10.00% | ~87,210 |
 | The Wandering Fool | 9.00% | ~78,489 |
 | Ten out of Ten | 9.00% | ~78,489 |
@@ -49,9 +49,9 @@ Number of Ratings: 32,700  (23.09.2022)
 | Daemon In The Shell | 2.00% | ~17,442 |
 | The Devil | 2.00% | ~17,442 |
 | Gunslinger | 1.00% | ~8,721 |
-| Rough Landing | 0.50% | ~4,360 |
+| Rough Landing | 0.50% | ~4,361 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 872,099 (Ranked 14)  
+Progressed: 872,105 (Ranked 14)  
 Completed: 2,002 (0.23%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,16 +176,17 @@ Completed: 2,002 (0.23%) (Ranked 182)
 | 2023-08-20 | 871,813 | 1,995 |
 | 2023-08-21 | 871,958 | 2,000 |
 | 2023-08-22 | 872,099 | 2,002 |
+| 2023-08-23 | 872,105 | 2,002 |
 ## Awards
 Max (Character Customization): 76,027  (Ranked 9)  
-Sum: 201,282 (Ranked 13)  
+Sum: 201,294 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 76,027 |
 | This game has Great Boss Battles | 49,225 |
 | This game is Great for Beginners | 8,964 |
-| This game has Diverse Characters | 8,946 |
+| This game has Diverse Characters | 8,958 |
 | This game has Amazing Storytelling | 8,942 |
 | This game is Extremely Fun | 8,801 |
 | This game is Highly Recommended | 8,791 |
@@ -411,4 +412,4 @@ Diff (max vs sum): -4
 | 2023-08-19 | 4.62 | - | 75,809 | 200,559 |
 | 2023-08-20 | 4.62 | - | 75,896 | 200,851 |
 | 2023-08-21 | 4.62 | - | 75,970 | 201,087 |
-| 2023-08-22 | 4.62 | - | 76,027 | 201,282 |
+| 2023-08-22 | 4.62 | - | 76,027 | 201,294 |

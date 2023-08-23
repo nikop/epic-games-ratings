@@ -6,8 +6,8 @@ Rating: 4.77 (Ranked 109)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 13.00% | ~37,782 |
-| First Class Student | 11.00% | ~31,969 |
-| Troll with the Punches | 11.00% | ~31,969 |
+| First Class Student | 11.00% | ~31,970 |
+| Troll with the Punches | 11.00% | ~31,970 |
 | The Defender of Dragons | 10.00% | ~29,063 |
 | A Keen Sense of Spell | 10.00% | ~29,063 |
 | A Talent for Spending | 10.00% | ~29,063 |
@@ -19,9 +19,9 @@ Rating: 4.77 (Ranked 109)
 | Challenge Accepted | 9.00% | ~26,157 |
 | Loom for Improvement | 9.00% | ~26,157 |
 | Coasting Along | 9.00% | ~26,157 |
-| Followed the Butterflies | 8.00% | ~23,250 |
-| The Spell Master | 8.00% | ~23,250 |
-| Rising From the Ashes | 8.00% | ~23,250 |
+| Followed the Butterflies | 8.00% | ~23,251 |
+| The Spell Master | 8.00% | ~23,251 |
+| Rising From the Ashes | 8.00% | ~23,251 |
 | The Avenging Gazelle | 7.00% | ~20,344 |
 | Beast Friends | 7.00% | ~20,344 |
 | A Sallow Grave | 7.00% | ~20,344 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,744 |
 | Collector's Edition | 0.30% | ~872 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,631 (Ranked 43)  
+Progressed: 290,633 (Ranked 43)  
 Completed: 454 (0.16%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,17 +176,18 @@ Completed: 454 (0.16%) (Ranked 193)
 | 2023-08-20 | 290,517 | 453 |
 | 2023-08-21 | 290,578 | 453 |
 | 2023-08-22 | 290,631 | 454 |
+| 2023-08-23 | 290,633 | 454 |
 ## Awards
 Max (Character Customization): 21,884  (Ranked 17)  
-Sum: 41,407 (Ranked 30)  
+Sum: 41,412 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 21,884 |
 | This game has Great Boss Battles | 10,632 |
-| This game is Great for Beginners | 984 |
+| This game is Great for Beginners | 986 |
+| This game is Extremely Fun | 965 |
 | This game is Relaxing | 963 |
-| This game is Extremely Fun | 962 |
 | This game has Amazing Storytelling | 953 |
 | This game has Diverse Characters | 945 |
 | This game has Amazing Characters | 929 |
@@ -348,4 +349,4 @@ Diff (max vs sum): -13
 | 2023-08-19 | 4.77 | 21,818 | 41,239 |
 | 2023-08-20 | 4.77 | 21,849 | 41,309 |
 | 2023-08-21 | 4.77 | 21,871 | 41,371 |
-| 2023-08-22 | 4.77 | 21,884 | 41,407 |
+| 2023-08-22 | 4.77 | 21,884 | 41,412 |

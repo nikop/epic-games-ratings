@@ -27,6 +27,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | For Pride | 0.30% | ~69 |
 | Jack of all Trades | 0.30% | ~69 |
 | For Wrath | 0.20% | ~46 |
+| For Greed | 0.20% | ~46 |
 | For Penance | 0.20% | ~46 |
 | K.O. | 0.20% | ~46 |
 | Good Practice | 0.20% | ~46 |
@@ -37,7 +38,6 @@ Number of Ratings: 1,331  (23.09.2022)
 | Black-shoppe | 0.10% | ~23 |
 | Full House | 0.10% | ~23 |
 | Erebus Purified | 0.10% | ~23 |
-| For Greed | 0.10% | ~23 |
 | It Was Just an Estimate | 0.10% | ~23 |
 | Maybe Wax Doesn't Melt | 0.10% | ~23 |
 | Had to Do It | 0.10% | ~23 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2504,7 +2504,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 67979,
+  "EOS_Progressed": 67980,
   "EOS_Completed": 109,
   "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 2,
@@ -12979,6 +12979,11 @@
       "Time": "2023-08-22T22:06:35.5144309+00:00",
       "NumProgressed": 67979,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2023-08-23T00:06:34.4070694+00:00",
+      "NumProgressed": 67980,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 61,
@@ -13038,7 +13043,7 @@
       "Name": "The Batman Family",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 14955
+      "UsersEstimate": 14956
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -13070,7 +13075,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8157
+      "UsersEstimate": 8158
     },
     {
       "ID": "APPLY_STATUS",
@@ -13086,7 +13091,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 11556
+      "UsersEstimate": 11557
     },
     {
       "ID": "CLAYFACE_1",
@@ -13166,7 +13171,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8157
+      "UsersEstimate": 8158
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -13366,7 +13371,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 18354
+      "UsersEstimate": 18355
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -13398,7 +13403,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 14955
+      "UsersEstimate": 14956
     },
     {
       "ID": "MYSTERY_04",
@@ -13438,7 +13443,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8157
+      "UsersEstimate": 8158
     },
     {
       "ID": "SECRET_CACHE",
@@ -13477,13 +13482,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 67979,
+      "Progressed": 67980,
       "Completed": 109
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38259,
+      "Progressed": 38260,
       "Completed": 2658
     }
   ],
@@ -13491,8 +13496,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-08-22T13:02:06.8098458+00:00",
-  "LastChanged_Achievements": "2023-08-22T23:07:28.4985227+00:00",
+  "LastChanged_Achievements": "2023-08-23T00:06:34.4070684+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:36.1459925+00:00",
-  "LastUpdate_Ratings": "2023-08-22T22:57:47.742953+00:00",
-  "LastUpdate_Achievements": "2023-08-22T23:07:28.498665+00:00"
+  "LastUpdate_Ratings": "2023-08-22T23:57:24.9449034+00:00",
+  "LastUpdate_Achievements": "2023-08-23T00:06:34.4071756+00:00"
 }

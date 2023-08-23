@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1047,
+  "EOS_Progressed": 1048,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3646,6 +3646,11 @@
       "Time": "2023-08-22T23:03:59.5920017+00:00",
       "NumProgressed": 1047,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-23T00:03:46.8052039+00:00",
+      "NumProgressed": 1048,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -3671,9 +3676,9 @@
       "ID": "ach_defeat_players_10",
       "SetID": "bm61c2p",
       "Name": "Fighting for Survival",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 84
     },
     {
       "ID": "ach_defeat_players_100",
@@ -3879,9 +3884,9 @@
       "ID": "objective_key_objectives_completed_2",
       "SetID": "bm61c2p",
       "Name": "On Target",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 105
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -3911,9 +3916,9 @@
       "ID": "objective_multiple_turrets_2",
       "SetID": "bm61c2p",
       "Name": "Defenses Online",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 293
+      "UsersEstimate": 283
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -3960,14 +3965,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1047,
+      "Progressed": 1048,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-22T23:03:59.592001+00:00",
+  "LastChanged_Achievements": "2023-08-23T00:03:46.8052034+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:20.8459338+00:00",
-  "LastUpdate_Ratings": "2023-08-22T22:58:38.258155+00:00",
-  "LastUpdate_Achievements": "2023-08-22T23:03:59.5920712+00:00"
+  "LastUpdate_Ratings": "2023-08-22T23:58:13.9978074+00:00",
+  "LastUpdate_Achievements": "2023-08-23T00:03:46.8052548+00:00"
 }

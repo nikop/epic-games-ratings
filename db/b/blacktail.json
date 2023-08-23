@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -60,9 +60,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 634,
+  "EOS_Progressed": 635,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1610,6 +1610,11 @@
       "Time": "2023-08-22T22:04:27.4475813+00:00",
       "NumProgressed": 634,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-23T00:04:45.0512155+00:00",
+      "NumProgressed": 635,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -1669,7 +1674,7 @@
       "Name": "Devoted",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "EyeSpy",
@@ -1813,7 +1818,7 @@
       "Name": "Uprooting",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "TheGuardian",
@@ -1876,7 +1881,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 634,
+      "Progressed": 635,
       "Completed": 1
     }
   ],
@@ -1884,8 +1889,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-08-22T23:05:08.7673538+00:00",
+  "LastChanged_Achievements": "2023-08-23T00:04:45.0512149+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:51.366929+00:00",
-  "LastUpdate_Ratings": "2023-08-22T23:00:16.1945493+00:00",
-  "LastUpdate_Achievements": "2023-08-22T23:05:08.7673977+00:00"
+  "LastUpdate_Ratings": "2023-08-22T23:59:36.6235959+00:00",
+  "LastUpdate_Achievements": "2023-08-23T00:04:45.0512507+00:00"
 }

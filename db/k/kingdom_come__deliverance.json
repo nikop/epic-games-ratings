@@ -4,7 +4,7 @@
   "ProductSlug": "kingdom-come-deliverance",
   "Ranking_Rating": 188,
   "Ranking_Popularity": 47,
-  "Ranking_PopularitySum": 45,
+  "Ranking_PopularitySum": 46,
   "Ranking_EOS_Progress": 16,
   "Ranking_EOS_Completed": 248,
   "Ranking_EOS_NewPlayers": 56,
@@ -6690,9 +6690,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 798080,
+  "EOS_Progressed": 798082,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 890,
+  "EOS_NewPlayers": 888,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -20355,6 +20355,11 @@
       "Time": "2023-08-22T23:06:35.9807062+00:00",
       "NumProgressed": 798080,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-08-23T00:05:59.0238523+00:00",
+      "NumProgressed": 798082,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 82,
@@ -20566,7 +20571,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 183558
+      "UsersEstimate": 183559
     },
     {
       "ID": "Fighter",
@@ -20686,7 +20691,7 @@
       "Name": "Insomniac",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 103750
+      "UsersEstimate": 103751
     },
     {
       "ID": "Judas",
@@ -21021,15 +21026,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 798080,
+      "Progressed": 798082,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-08-21T17:01:07.7444137+00:00",
-  "LastChanged_Achievements": "2023-08-22T23:06:35.9807049+00:00",
+  "LastChanged_Achievements": "2023-08-23T00:05:59.0238518+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:50.3701677+00:00",
-  "LastUpdate_Ratings": "2023-08-22T23:00:55.864765+00:00",
-  "LastUpdate_Achievements": "2023-08-22T23:06:35.9808724+00:00"
+  "LastUpdate_Ratings": "2023-08-23T00:00:13.4254819+00:00",
+  "LastUpdate_Achievements": "2023-08-23T00:05:59.0240245+00:00"
 }

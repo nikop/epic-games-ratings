@@ -15,8 +15,8 @@ Rating: 3.83 (Ranked 959)
 | The Capitalist | 45.00% | ~696 |
 | K.O.! | 44.00% | ~681 |
 | Intermediate Chemist | 40.00% | ~619 |
+| Lumber Specialist | 32.00% | ~495 |
 | Decorative Mind | 31.00% | ~480 |
-| Lumber Specialist | 31.00% | ~480 |
 | Kind-hearted | 25.00% | ~387 |
 | Catch of the Day | 25.00% | ~387 |
 | Amateur Chef | 22.00% | ~340 |
