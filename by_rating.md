@@ -44,21 +44,21 @@
 | 42 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.85 | 21 | 501 |
 | 42 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,781 | 44 |
 | 42 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,547 | 65 |
-| 42 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 381 | 220 |
 | 42 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 221 | 263 |
 | 42 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.85 | 141 | 305 |
 | 42 | [Subnautica](games/s/subnautica.md) | 4.85 | 686 | 169 |
-| 49 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 51 | 401 |
-| 49 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 47 | 409 |
-| 49 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 217 | 268 |
-| 49 | [Grindstone](games/g/grindstone.md) | 4.84 | 0 | 514 |
-| 49 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 417 | 210 |
-| 49 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 263 | 249 |
-| 49 | [Rayman Origins](games/r/rayman_origins.md) | 4.84 | 25 | 482 |
-| 49 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.84 | 240 | 257 |
-| 49 | [Star Atlas](games/s/star_atlas.md) | 4.84 | 24 | 483 |
-| 49 | [The Last Campfire](games/t/the_last_campfire.md) | 4.84 | 0 | 514 |
-| 49 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.84 | 0 | 514 |
+| 48 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 51 | 401 |
+| 48 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 47 | 409 |
+| 48 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 217 | 268 |
+| 48 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.84 | 381 | 220 |
+| 48 | [Grindstone](games/g/grindstone.md) | 4.84 | 0 | 514 |
+| 48 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 417 | 210 |
+| 48 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 263 | 249 |
+| 48 | [Rayman Origins](games/r/rayman_origins.md) | 4.84 | 25 | 482 |
+| 48 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.84 | 240 | 257 |
+| 48 | [Star Atlas](games/s/star_atlas.md) | 4.84 | 24 | 483 |
+| 48 | [The Last Campfire](games/t/the_last_campfire.md) | 4.84 | 0 | 514 |
+| 48 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.84 | 0 | 514 |
 | 60 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | 0 | 514 |
 | 60 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.83 | 0 | 514 |
 | 60 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.83 | 0 | 514 |
@@ -110,7 +110,7 @@
 | 101 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 514 |
 | 109 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 4,210 | 78 |
 | 109 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 6,755 | 52 |
-| 109 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 21,884 | 17 |
+| 109 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 21,894 | 17 |
 | 109 | [Remnant 2](games/r/remnant_2.md) | 4.77 | 1,093 | 138 |
 | 109 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 38 | 428 |
 | 109 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 0 | 514 |
@@ -245,9 +245,9 @@
 | 238 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,340 | 48 |
 | 238 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,916 | 81 |
 | 238 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,750 | 60 |
-| 238 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 3,565 | 84 |
+| 238 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 3,587 | 84 |
 | 238 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 303,438 | 3 |
-| 238 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 214,875 | 4 |
+| 238 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 215,199 | 4 |
 | 238 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 514 |
 | 238 | [King of Retail](games/k/king_of_retail.md) | 4.68 | 0 | 514 |
 | 238 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 562 | 188 |
@@ -463,7 +463,7 @@
 | 451 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.57 | 0 | 514 |
 | 451 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,700 | 45 |
 | 451 | [Observation](games/o/observation.md) | 4.57 | 0 | 514 |
-| 451 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,214 | 92 |
+| 451 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,216 | 92 |
 | 451 | [Risen](games/r/risen.md) | 4.57 | 0 | 514 |
 | 451 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.57 | 0 | 514 |
 | 451 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 3,762 | 82 |

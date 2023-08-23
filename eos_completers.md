@@ -43,7 +43,7 @@
 | 41 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.90% |
 | 42 | [Time Loader](games/t/time_loader.md) | 6.78% |
 | 43 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.63% |
-| 44 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.45% |
+| 44 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.42% |
 | 45 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 46 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 47 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.88% |
@@ -64,12 +64,12 @@
 | 62 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
 | 63 | [ZZT!](games/z/zzt!.md) | 3.87% |
 | 64 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
-| 65 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 3.80% |
+| 65 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 3.77% |
 | 66 | [Without Escape](games/w/without_escape.md) | 3.57% |
 | 67 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 68 | [Doodle God](games/d/doodle_god.md) | 3.43% |
-| 69 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.40% |
-| 70 | [Bunny Park](games/b/bunny_park.md) | 3.37% |
+| 69 | [Bunny Park](games/b/bunny_park.md) | 3.37% |
+| 70 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.36% |
 | 71 | [The Complex](games/t/the_complex.md) | 3.35% |
 | 72 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
 | 73 | [HordeCore](games/h/hordecore.md) | 3.15% |
