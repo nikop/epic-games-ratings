@@ -10,7 +10,7 @@
 | 8 | [Overloop](games/o/overloop.md) | 25.00% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 24.51% |
 | 10 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 11 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 23.64% |
+| 11 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 23.21% |
 | 12 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.63% |
 | 13 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 13 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
@@ -25,7 +25,7 @@
 | 23 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.17% |
 | 24 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 24 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
-| 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.06% |
+| 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.05% |
 | 27 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.71% |
 | 28 | [Remains](games/r/remains.md) | 10.64% |
 | 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.32% |
@@ -60,8 +60,8 @@
 | 58 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.44% |
 | 59 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
 | 60 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.12% |
-| 61 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.11% |
-| 62 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
+| 61 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.10% |
+| 62 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.99% |
 | 63 | [ZZT!](games/z/zzt!.md) | 3.87% |
 | 64 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 65 | [Without Escape](games/w/without_escape.md) | 3.57% |
@@ -71,7 +71,7 @@
 | 69 | [Bunny Park](games/b/bunny_park.md) | 3.37% |
 | 70 | [The Complex](games/t/the_complex.md) | 3.35% |
 | 71 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
-| 72 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.27% |
+| 72 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.24% |
 | 73 | [HordeCore](games/h/hordecore.md) | 3.15% |
 | 74 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.14% |
 | 75 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.04% |
@@ -135,8 +135,8 @@
 | 133 | [Haven](games/h/haven.md) | 0.64% |
 | 134 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.62% |
 | 134 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.62% |
-| 136 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
-| 136 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.61% |
+| 134 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.62% |
+| 137 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
 | 138 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.60% |
 | 138 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.60% |
 | 140 | [Potion Permit](games/p/potion_permit.md) | 0.58% |
@@ -554,4 +554,4 @@
 | 262 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 262 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 262 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,101 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,103 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |

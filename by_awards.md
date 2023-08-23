@@ -21,9 +21,9 @@
 | 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 19,296 | 4.57 | 451 |
 | 20 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 18,184 | 4.26 | 822 |
 | 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 17,764 | 4.89 | 13 |
-| 22 | [Warframe](games/w/warframe.md) | 16,569 | 4.61 | 366 |
-| 23 | [League of Legends](games/l/league_of_legends.md) | 15,477 | 4.21 | 853 |
-| 24 | [Borderlands 2](games/b/borderlands_2.md) | 15,112 | 4.76 | 119 |
+| 22 | [Warframe](games/w/warframe.md) | 16,585 | 4.61 | 366 |
+| 23 | [League of Legends](games/l/league_of_legends.md) | 15,491 | 4.21 | 853 |
+| 24 | [Borderlands 2](games/b/borderlands_2.md) | 15,123 | 4.76 | 119 |
 | 25 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,454 | 4.58 | 426 |
 | 26 | [Maneater](games/m/maneater.md) | 13,632 | 4.49 | 577 |
 | 27 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,601 | 4.60 | 392 |
@@ -35,7 +35,7 @@
 | 33 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,369 | 4.69 | 216 |
 | 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 11,185 | 4.45 | 637 |
 | 35 | [Satisfactory](games/s/satisfactory.md) | 11,160 | 4.88 | 19 |
-| 36 | [SnowRunner](games/s/snowrunner.md) | 10,070 | 4.76 | 119 |
+| 36 | [SnowRunner](games/s/snowrunner.md) | 10,091 | 4.76 | 119 |
 | 37 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,871 | 4.61 | 366 |
 | 38 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,790 | 4.78 | 101 |
 | 39 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 8,863 | 4.58 | 426 |
@@ -67,7 +67,7 @@
 | 65 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,547 | 4.85 | 42 |
 | 66 | [Rogue Company](games/r/rogue_company.md) | 5,282 | 4.33 | 770 |
 | 67 | [Cities: Skylines](games/c/cities__skylines.md) | 5,199 | 4.65 | 299 |
-| 68 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,176 | 4.06 | 925 |
+| 68 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,179 | 4.06 | 925 |
 | 69 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,782 | 4.69 | 216 |
 | 70 | [MultiVersus](games/m/multiversus.md) | 4,746 | 4.56 | 473 |
 | 71 | [Shop Titans](games/s/shop_titans.md) | 4,709 | 3.99 | 936 |
@@ -102,7 +102,7 @@
 | 100 | [Gotham Knights](games/g/gotham_knights.md) | 2,515 | 4.18 | 874 |
 | 101 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,499 | 4.10 | 909 |
 | 102 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,453 | 4.79 | 87 |
-| 103 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2,386 | 4.48 | 594 |
+| 103 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2,393 | 4.48 | 594 |
 | 104 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,382 | 4.78 | 101 |
 | 105 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,244 | 4.67 | 256 |
 | 106 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,208 | 4.63 | 329 |
@@ -123,7 +123,7 @@
 | 121 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,491 | 4.79 | 87 |
 | 122 | [Ring of Pain](games/r/ring_of_pain.md) | 1,488 | 4.58 | 426 |
 | 123 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,441 | 4.62 | 348 |
-| 124 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 1,433 | 4.78 | 101 |
+| 124 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 1,435 | 4.78 | 101 |
 | 125 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,432 | 4.87 | 26 |
 | 126 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,408 | 4.53 | 514 |
 | 127 | [Conan Exiles](games/c/conan_exiles.md) | 1,398 | 4.55 | 486 |

@@ -105,7 +105,7 @@
 | 101 | [Journey](games/j/journey.md) | 4.78 | 0 | 514 |
 | 101 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.78 | 0 | 514 |
 | 101 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,382 | 104 |
-| 101 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,433 | 124 |
+| 101 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,435 | 124 |
 | 101 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 932 | 150 |
 | 101 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 514 |
 | 109 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 4,229 | 77 |
@@ -118,7 +118,7 @@
 | 109 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 100 | 338 |
 | 109 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 514 |
 | 109 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 28 | 467 |
-| 119 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 15,112 | 24 |
+| 119 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 15,123 | 24 |
 | 119 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 86 | 358 |
 | 119 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.76 | 0 | 514 |
 | 119 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,309 | 90 |
@@ -129,7 +129,7 @@
 | 119 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,701 | 118 |
 | 119 | [Quake](games/q/quake.md) | 4.76 | 49 | 406 |
 | 119 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.76 | 0 | 514 |
-| 119 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 10,070 | 36 |
+| 119 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 10,091 | 36 |
 | 119 | [SpiderHeck](games/s/spiderheck.md) | 4.76 | 0 | 514 |
 | 119 | [Tchia](games/t/tchia.md) | 4.76 | 0 | 514 |
 | 119 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.76 | 45 | 413 |
@@ -390,7 +390,7 @@
 | 366 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 279 | 243 |
 | 366 | [Supraland](games/s/supraland.md) | 4.61 | 7,672 | 46 |
 | 366 | [The Colonists](games/t/the_colonists.md) | 4.61 | 0 | 514 |
-| 366 | [Warframe](games/w/warframe.md) | 4.61 | 16,569 | 22 |
+| 366 | [Warframe](games/w/warframe.md) | 4.61 | 16,585 | 22 |
 | 392 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.60 | 715 | 167 |
 | 392 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 13,335 | 28 |
 | 392 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.60 | 0 | 514 |
@@ -607,7 +607,7 @@
 | 594 | [Railway Empire 2](games/r/railway_empire_2.md) | 4.48 | 0 | 514 |
 | 594 | [Redout 2](games/r/redout_2.md) | 4.48 | 0 | 514 |
 | 594 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 0 | 514 |
-| 594 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.48 | 2,386 | 103 |
+| 594 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.48 | 2,393 | 103 |
 | 594 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.48 | 0 | 514 |
 | 594 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.48 | 101 | 336 |
 | 594 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.48 | 7,842 | 43 |
@@ -856,7 +856,7 @@
 | 853 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 32 | 456 |
 | 853 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.21 | 0 | 514 |
 | 853 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.21 | 0 | 514 |
-| 853 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 15,477 | 23 |
+| 853 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 15,491 | 23 |
 | 853 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.21 | 0 | 514 |
 | 859 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 123 | 316 |
 | 859 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 121 | 318 |
@@ -924,7 +924,7 @@
 | 917 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 0 | 514 |
 | 923 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.07 | 539 | 194 |
 | 923 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 181 | 281 |
-| 925 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 5,176 | 68 |
+| 925 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 5,179 | 68 |
 | 926 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.05 | 0 | 514 |
 | 926 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 4.05 | 0 | 514 |
 | 926 | [Gravewood High](games/g/gravewood_high.md) | 4.05 | 0 | 514 |
