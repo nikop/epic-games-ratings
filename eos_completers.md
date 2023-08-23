@@ -32,7 +32,7 @@
 | 30 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
 | 31 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.52% |
 | 32 | [Sonic Origins](games/s/sonic_origins.md) | 9.47% |
-| 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.04% |
+| 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.03% |
 | 34 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.48% |
 | 35 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 7.89% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.51% |
@@ -61,8 +61,8 @@
 | 59 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
 | 60 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.13% |
 | 61 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.11% |
-| 62 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 3.95% |
 | 62 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
+| 63 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 3.92% |
 | 64 | [ZZT!](games/z/zzt!.md) | 3.87% |
 | 65 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 66 | [Without Escape](games/w/without_escape.md) | 3.57% |
@@ -71,9 +71,9 @@
 | 69 | [Bunny Park](games/b/bunny_park.md) | 3.37% |
 | 70 | [The Complex](games/t/the_complex.md) | 3.35% |
 | 71 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
-| 72 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.26% |
-| 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.15% |
+| 72 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.23% |
 | 73 | [HordeCore](games/h/hordecore.md) | 3.15% |
+| 74 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.14% |
 | 75 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.04% |
 | 75 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.04% |
 | 77 | [Monster Harvest](games/m/monster_harvest.md) | 2.94% |
@@ -206,13 +206,13 @@
 | 202 | [Isonzo](games/i/isonzo.md) | 0.12% |
 | 202 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
 | 202 | [Port Royale 4](games/p/port_royale_4.md) | 0.12% |
+| 207 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.11% |
 | 207 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.11% |
 | 207 | [Ring of Pain](games/r/ring_of_pain.md) | 0.11% |
-| 209 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.10% |
-| 209 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
-| 209 | [House Flipper](games/h/house_flipper.md) | 0.10% |
-| 209 | [Shop Titans](games/s/shop_titans.md) | 0.10% |
-| 209 | [Supraland](games/s/supraland.md) | 0.10% |
+| 210 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.10% |
+| 210 | [House Flipper](games/h/house_flipper.md) | 0.10% |
+| 210 | [Shop Titans](games/s/shop_titans.md) | 0.10% |
+| 210 | [Supraland](games/s/supraland.md) | 0.10% |
 | 214 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.09% |
 | 214 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
 | 214 | [Outward Definitive Edition](games/o/outward.md) | 0.09% |
