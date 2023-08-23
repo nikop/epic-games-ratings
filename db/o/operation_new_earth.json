@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1049,
+  "EOS_Progressed": 1050,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3656,6 +3656,11 @@
       "Time": "2023-08-23T04:04:01.2017212+00:00",
       "NumProgressed": 1049,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-23T08:04:06.2533551+00:00",
+      "NumProgressed": 1050,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -3675,7 +3680,7 @@
       "Name": "Exterminator",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ach_defeat_players_10",
@@ -3739,7 +3744,7 @@
       "Name": "Silver Achiever",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "objective_headquarters_10",
@@ -3771,7 +3776,7 @@
       "Name": "Facility Online",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -3795,7 +3800,7 @@
       "Name": "Lieutenant",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -3803,7 +3808,7 @@
       "Name": "Captain",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -3811,7 +3816,7 @@
       "Name": "Major",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "objective_hero_level_up_6",
@@ -3843,7 +3848,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -3915,7 +3920,7 @@
       "Name": "Factory Expansion",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -3923,7 +3928,7 @@
       "Name": "Defenses Online",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -3970,14 +3975,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1049,
+      "Progressed": 1050,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-23T07:04:26.7686782+00:00",
+  "LastChanged_Achievements": "2023-08-23T08:04:06.2533545+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:20.8459338+00:00",
-  "LastUpdate_Ratings": "2023-08-23T06:59:02.3869214+00:00",
-  "LastUpdate_Achievements": "2023-08-23T07:04:26.7687324+00:00"
+  "LastUpdate_Ratings": "2023-08-23T07:58:18.0806672+00:00",
+  "LastUpdate_Achievements": "2023-08-23T08:04:06.25348+00:00"
 }

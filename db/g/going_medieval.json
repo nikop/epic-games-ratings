@@ -8208,9 +8208,9 @@
       "ID": "SURVIVE_SEVEN_DAY",
       "SetID": "5349c2e",
       "Name": "The First Week",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 2879
+      "UsersEstimate": 2934
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -8264,8 +8264,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-08-22T15:57:36.9179436+00:00",
-  "LastChanged_Achievements": "2023-08-23T07:06:40.5616073+00:00",
+  "LastChanged_Achievements": "2023-08-23T08:05:40.4649288+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:24.7738983+00:00",
-  "LastUpdate_Ratings": "2023-08-23T06:57:46.9960299+00:00",
-  "LastUpdate_Achievements": "2023-08-23T07:06:40.5616771+00:00"
+  "LastUpdate_Ratings": "2023-08-23T07:57:23.3130408+00:00",
+  "LastUpdate_Achievements": "2023-08-23T08:05:40.4649959+00:00"
 }

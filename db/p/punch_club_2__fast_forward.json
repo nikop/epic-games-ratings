@@ -1046,9 +1046,9 @@
       "ID": "buy_trainer",
       "SetID": "69co12a",
       "Name": "Your own amateur gym",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 198
     },
     {
       "ID": "carla_journey",
@@ -1158,9 +1158,9 @@
       "ID": "get_tape",
       "SetID": "69co12a",
       "Name": "Old movies enjoyer",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 209
+      "UsersEstimate": 211
     },
     {
       "ID": "gpp_chip",
@@ -1294,9 +1294,9 @@
       "ID": "nero_basic",
       "SetID": "69co12a",
       "Name": "Neurotrainer \u2013 power gainer!",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 201
     },
     {
       "ID": "nero_extrime",
@@ -1501,8 +1501,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-08-23T07:06:44.3302036+00:00",
+  "LastChanged_Achievements": "2023-08-23T08:05:43.3558482+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:55.5083268+00:00",
-  "LastUpdate_Ratings": "2023-08-23T07:00:20.7264519+00:00",
-  "LastUpdate_Achievements": "2023-08-23T07:06:44.3302745+00:00"
+  "LastUpdate_Ratings": "2023-08-23T07:59:16.9281592+00:00",
+  "LastUpdate_Achievements": "2023-08-23T08:05:43.3559072+00:00"
 }

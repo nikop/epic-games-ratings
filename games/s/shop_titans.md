@@ -67,6 +67,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Miracle Alchemist | 0.30% | ~405 |
 | Laden with Loot | 0.30% | ~405 |
 | Seasoned Journeyman | 0.30% | ~405 |
+| Scourge of the Seas | 0.30% | ~405 |
 | Attrition Mission | 0.30% | ~405 |
 | Glittering Collection | 0.30% | ~405 |
 | Black Friday Special | 0.30% | ~405 |
@@ -95,7 +96,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Master Merchant | 0.20% | ~270 |
 | Bountiful Harvest | 0.20% | ~270 |
 | Precision Engineering | 0.20% | ~270 |
-| Scourge of the Seas | 0.20% | ~270 |
 | Treasure Trove | 0.20% | ~270 |
 | Moment of Respite | 0.20% | ~270 |
 | King's Shadow | 0.20% | ~270 |

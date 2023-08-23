@@ -67,21 +67,23 @@ Number of Ratings: 1,307  (23.09.2022)
 | Necropolis | 1.00% | ~135 |
 | Learn to Play 1 | 1.00% | ~135 |
 | Learn to Play 2 | 1.00% | ~135 |
+| Greece | 1.00% | ~135 |
 | Manichaeism | 1.00% | ~135 |
 | Egyptian Paganism | 1.00% | ~135 |
 | Zoroastrianism | 1.00% | ~135 |
 | Mythology | 1.00% | ~135 |
 | Points Victory | 1.00% | ~135 |
+| Beloved | 0.90% | ~122 |
 | Mighty | 0.90% | ~122 |
 | Victorious | 0.90% | ~122 |
 | Champions | 0.90% | ~122 |
-| Greece | 0.90% | ~122 |
 | Hanging Gardens in Babylon | 0.80% | ~108 |
-| Beloved | 0.80% | ~108 |
 | Conqueror | 0.80% | ~108 |
 | Lion | 0.80% | ~108 |
 | Patrons | 0.80% | ~108 |
+| Statesmen | 0.80% | ~108 |
 | Temple of Solomon | 0.80% | ~108 |
+| Via Recta Souk | 0.80% | ~108 |
 | Persian Paganism | 0.80% | ~108 |
 | Building Wonders | 0.80% | ~108 |
 | Legalism | 0.80% | ~108 |
@@ -89,13 +91,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Invincible | 0.70% | ~95 |
 | Subjugator | 0.70% | ~95 |
 | Good Difficulty | 0.70% | ~95 |
-| Statesmen | 0.70% | ~95 |
 | Traders | 0.70% | ~95 |
 | Hittite Iron | 0.70% | ~95 |
 | Circus Maximus | 0.70% | ~95 |
 | Hagia Sophia | 0.70% | ~95 |
 | Pantheon | 0.70% | ~95 |
-| Via Recta Souk | 0.70% | ~95 |
 | Learn to Play 3 | 0.70% | ~95 |
 | Power to the People | 0.70% | ~95 |
 | Economic Reform | 0.70% | ~95 |
@@ -114,6 +114,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Military Prestige | 0.60% | ~81 |
 | Dualism | 0.60% | ~81 |
 | Revelation | 0.60% | ~81 |
+| Veneration | 0.60% | ~81 |
 | Cimmerian Archer | 0.60% | ~81 |
 | Ambition Victory | 0.60% | ~81 |
 | Bad Heir Day | 0.50% | ~68 |
@@ -125,7 +126,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | One True Faith | 0.50% | ~68 |
 | Enlightenment | 0.50% | ~68 |
 | Gnosticism | 0.50% | ~68 |
-| Veneration | 0.50% | ~68 |
 | Kushite Cavalry | 0.50% | ~68 |
 | Turreted Elephant | 0.50% | ~68 |
 | No Undo | 0.50% | ~68 |
@@ -133,6 +133,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage - Ox Hide | 0.40% | ~54 |
 | Old | 0.40% | ~54 |
 | Peacemaker | 0.40% | ~54 |
+| Noble Difficulty | 0.40% | ~54 |
 | Clerics | 0.40% | ~54 |
 | Cao'an | 0.40% | ~54 |
 | Learn to Play 4 | 0.40% | ~54 |
@@ -144,7 +145,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pilgrimage | 0.40% | ~54 |
 | Ancient | 0.30% | ~41 |
 | Glorious Difficulty | 0.30% | ~41 |
-| Noble Difficulty | 0.30% | ~41 |
 | Persia | 0.30% | ~41 |
 | Old World Order | 0.30% | ~41 |
 | Play a Network Game | 0.30% | ~41 |
@@ -173,6 +173,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a MP Teams Game | 0.20% | ~27 |
 | Play a Play-By-Cloud Game | 0.20% | ~27 |
 | Circus Maximus in Roma | 0.20% | ~27 |
+| Pantheon in Roma | 0.20% | ~27 |
 | Siege Tower | 0.20% | ~27 |
 | Necropolis in Waset | 0.20% | ~27 |
 | Centenarian | 0.10% | ~14 |
@@ -260,7 +261,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a LAN Game | 0.10% | ~14 |
 | Punic Wars | 0.10% | ~14 |
 | Roman Papacy | 0.10% | ~14 |
-| Pantheon in Roma | 0.10% | ~14 |
 | Word of God | 0.10% | ~14 |
 | Great Ziggurat in Ur | 0.10% | ~14 |
 | No Characters | 0.10% | ~14 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,533 (Ranked 118)  
+Progressed: 13,535 (Ranked 118)  
 Completed: 5 (0.04%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -428,7 +428,7 @@ Completed: 5 (0.04%) (Ranked 232)
 | 2023-08-20 | 13,503 | 5 |
 | 2023-08-21 | 13,520 | 5 |
 | 2023-08-22 | 13,532 | 5 |
-| 2023-08-23 | 13,533 | 5 |
+| 2023-08-23 | 13,535 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,798 (Ranked 207)  

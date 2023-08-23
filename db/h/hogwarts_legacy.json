@@ -6556,18 +6556,24 @@
       "Rating": 4.77,
       "NumberOfAwards": 41412,
       "NumberOfAwardsMax": 21884
+    },
+    {
+      "Time": "2023-08-23T07:59:16.240616+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 41422,
+      "NumberOfAwardsMax": 21894
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 41412,
-  "NumberOfAwardsMax": 21884,
+  "NumberOfAwards": 41422,
+  "NumberOfAwardsMax": 21894,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 21884
+      "Count": 21894
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -6636,9 +6642,9 @@
       "Count": 599
     }
   ],
-  "EOS_Progressed": 290643,
+  "EOS_Progressed": 290645,
   "EOS_Completed": 454,
-  "EOS_NewPlayers": 457,
+  "EOS_NewPlayers": 458,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -20081,6 +20087,11 @@
       "Time": "2023-08-23T07:08:12.9862067+00:00",
       "NumProgressed": 290643,
       "NumCompleted": 454
+    },
+    {
+      "Time": "2023-08-23T08:06:46.0423716+00:00",
+      "NumProgressed": 290645,
+      "NumCompleted": 454
     }
   ],
   "TotalAchievements": 45,
@@ -20316,7 +20327,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23251
+      "UsersEstimate": 23252
     },
     {
       "ID": "PFA_36",
@@ -20396,7 +20407,7 @@
       "Name": "The Spell Master",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23251
+      "UsersEstimate": 23252
     },
     {
       "ID": "PFA_45",
@@ -20444,23 +20455,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23251
+      "UsersEstimate": 23252
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 290643,
+      "Progressed": 290645,
       "Completed": 454
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-08-22T23:59:03.7832444+00:00",
-  "LastChanged_Achievements": "2023-08-23T07:08:12.9862058+00:00",
+  "LastChanged": "2023-08-23T07:59:16.2406158+00:00",
+  "LastChanged_Achievements": "2023-08-23T08:06:46.0423707+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:55.8476503+00:00",
-  "LastUpdate_Ratings": "2023-08-23T07:00:19.7350201+00:00",
-  "LastUpdate_Achievements": "2023-08-23T07:08:12.9865092+00:00"
+  "LastUpdate_Ratings": "2023-08-23T07:59:16.2406167+00:00",
+  "LastUpdate_Achievements": "2023-08-23T08:06:46.0425092+00:00"
 }

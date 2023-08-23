@@ -1641,9 +1641,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13533,
+  "EOS_Progressed": 13535,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10121,6 +10121,11 @@
       "Time": "2023-08-23T04:06:32.3577773+00:00",
       "NumProgressed": 13533,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-23T08:06:12.0526852+00:00",
+      "NumProgressed": 13535,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -10498,9 +10503,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_BELOVED",
       "SetID": "9201eeb",
       "Name": "Beloved",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 122
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_BRAVE",
@@ -10914,9 +10919,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_NOBLE",
       "SetID": "7l38kb8",
       "Name": "Noble Difficulty",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 41
+      "UsersEstimate": 54
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_STRONG",
@@ -11026,9 +11031,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_STATESMEN",
       "SetID": "7l38kb8",
       "Name": "Statesmen",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 108
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_TRADERS",
@@ -11602,9 +11607,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_VIA_RECTA_SOUK",
       "SetID": "9201eeb",
       "Name": "Via Recta Souk",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 108
     },
     {
       "ID": "ACHIEVEMENT_KNOWLEDGE_ANCIENTS",
@@ -11762,9 +11767,9 @@
       "ID": "ACHIEVEMENT_NATION_GREECE",
       "SetID": "7l38kb8",
       "Name": "Greece",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 135
     },
     {
       "ID": "ACHIEVEMENT_NATION_HITTITE",
@@ -12026,9 +12031,9 @@
       "ID": "ACHIEVEMENT_ROMA_PANTHEON",
       "SetID": "9201eeb",
       "Name": "Pantheon in Roma",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 27
     },
     {
       "ID": "ACHIEVEMENT_STAT_SEVEN_WONDERS",
@@ -12146,9 +12151,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_VENERATION",
       "SetID": "7l38kb8",
       "Name": "Veneration",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 81
     },
     {
       "ID": "ACHIEVEMENT_THE_WORD_OF_GOD",
@@ -12499,21 +12504,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13533,
+      "Progressed": 13535,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13533,
+      "Progressed": 13535,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-22T16:00:25.4576697+00:00",
-  "LastChanged_Achievements": "2023-08-23T07:07:24.2562426+00:00",
+  "LastChanged_Achievements": "2023-08-23T08:06:12.0526847+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:59.678182+00:00",
-  "LastUpdate_Ratings": "2023-08-23T07:01:02.9719133+00:00",
-  "LastUpdate_Achievements": "2023-08-23T07:07:24.2571109+00:00"
+  "LastUpdate_Ratings": "2023-08-23T07:59:46.5128694+00:00",
+  "LastUpdate_Achievements": "2023-08-23T08:06:12.0535412+00:00"
 }

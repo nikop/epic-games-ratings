@@ -490,9 +490,9 @@
       "Count": 134
     }
   ],
-  "EOS_Progressed": 601339,
+  "EOS_Progressed": 601340,
   "EOS_Completed": 517,
-  "EOS_NewPlayers": 806,
+  "EOS_NewPlayers": 804,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -14165,6 +14165,11 @@
       "Time": "2023-08-23T07:07:46.0433949+00:00",
       "NumProgressed": 601339,
       "NumCompleted": 517
+    },
+    {
+      "Time": "2023-08-23T08:06:27.3288933+00:00",
+      "NumProgressed": 601340,
+      "NumCompleted": 517
     }
   ],
   "TotalAchievements": 28,
@@ -14240,7 +14245,7 @@
       "Name": "We need more gold",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 360803
+      "UsersEstimate": 360804
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -14256,7 +14261,7 @@
       "Name": "One more!",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 264589
+      "UsersEstimate": 264590
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -14296,7 +14301,7 @@
       "Name": "More FPS for the FPS god!",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 294656
+      "UsersEstimate": 294657
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -14304,7 +14309,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 559245
+      "UsersEstimate": 559246
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -14312,7 +14317,7 @@
       "Name": "Overmind",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 144321
+      "UsersEstimate": 144322
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -14399,15 +14404,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 601339,
+      "Progressed": 601340,
       "Completed": 517
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-07-16T08:00:08.7749167+00:00",
-  "LastChanged_Achievements": "2023-08-23T07:07:46.0433944+00:00",
+  "LastChanged_Achievements": "2023-08-23T08:06:27.3288928+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:29.5468832+00:00",
-  "LastUpdate_Ratings": "2023-08-23T07:02:22.2342298+00:00",
-  "LastUpdate_Achievements": "2023-08-23T07:07:46.0435179+00:00"
+  "LastUpdate_Ratings": "2023-08-23T08:00:41.6117833+00:00",
+  "LastUpdate_Achievements": "2023-08-23T08:06:27.3289939+00:00"
 }

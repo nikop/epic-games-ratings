@@ -8,22 +8,22 @@ Number of Ratings: 9,492  (23.09.2022)
 | ---- | ---------- | ----- |
 | Diligence as a goal | 5.00% | ~1,096 |
 | Project Arena | 4.00% | ~877 |
-| The Old Grandmaster | 2.00% | ~14,252 |
-| The Assault | 2.00% | ~14,252 |
-| The Hateful Pole Fighter | 2.00% | ~14,252 |
-| A Lady's Blood in the Snow | 2.00% | ~14,252 |
-| Lady Wing Chun | 2.00% | ~14,252 |
-| Furious Fists | 2.00% | ~14,252 |
-| Kill Nil | 2.00% | ~14,252 |
-| Stuntmaster | 2.00% | ~14,252 |
-| Street Fighting | 2.00% | ~14,252 |
-| Life is your teacher | 2.00% | ~14,252 |
-| State of constant learning | 2.00% | ~14,252 |
-| Qi Gong: Breath | 2.00% | ~14,252 |
-| Qi Gong: Essence | 2.00% | ~14,252 |
-| Lightning Hands | 2.00% | ~14,252 |
-| Path of the Prospect | 2.00% | ~14,252 |
-| Rumble in the Hangar | 2.00% | ~14,252 |
+| The Old Grandmaster | 2.00% | ~14,253 |
+| The Assault | 2.00% | ~14,253 |
+| The Hateful Pole Fighter | 2.00% | ~14,253 |
+| A Lady's Blood in the Snow | 2.00% | ~14,253 |
+| Lady Wing Chun | 2.00% | ~14,253 |
+| Furious Fists | 2.00% | ~14,253 |
+| Kill Nil | 2.00% | ~14,253 |
+| Stuntmaster | 2.00% | ~14,253 |
+| Street Fighting | 2.00% | ~14,253 |
+| Life is your teacher | 2.00% | ~14,253 |
+| State of constant learning | 2.00% | ~14,253 |
+| Qi Gong: Breath | 2.00% | ~14,253 |
+| Qi Gong: Essence | 2.00% | ~14,253 |
+| Lightning Hands | 2.00% | ~14,253 |
+| Path of the Prospect | 2.00% | ~14,253 |
+| Rumble in the Hangar | 2.00% | ~14,253 |
 | Bloody Sport | 2.00% | ~439 |
 | Scareless | 1.00% | ~7,126 |
 | Dance of the Praying Mantis | 1.00% | ~7,126 |
@@ -45,11 +45,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | The 36th Chamber of Kung-Fu | 0.60% | ~4,276 |
 | Sword Stained With Blood | 0.60% | ~4,276 |
 | Martial Hub | 0.50% | ~110 |
-| Drunken Fighter | 0.40% | ~2,850 |
-| Martial Artist | 0.40% | ~2,850 |
-| Knowledge Greed | 0.40% | ~2,850 |
-| The Pit Protector | 0.40% | ~2,850 |
-| Come Snap With Me | 0.40% | ~2,850 |
+| Drunken Fighter | 0.40% | ~2,851 |
+| Martial Artist | 0.40% | ~2,851 |
+| Knowledge Greed | 0.40% | ~2,851 |
+| The Pit Protector | 0.40% | ~2,851 |
+| Come Snap With Me | 0.40% | ~2,851 |
 | Secure, Protect, Leave | 0.40% | ~88 |
 | Healing Memory | 0.30% | ~2,138 |
 | Master of the Phoenix Eye Fist | 0.30% | ~2,138 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,425 |
 | Warriors from the Mountain | 0.10% | ~713 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,625 (Ranked 20)  
+Progressed: 712,626 (Ranked 20)  
 Completed: 12,873 (1.81%) (Ranked 98)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,7 +182,7 @@ Completed: 12,873 (1.81%) (Ranked 98)
 | 2023-08-20 | 712,574 | 12,870 |
 | 2023-08-21 | 712,603 | 12,871 |
 | 2023-08-22 | 712,620 | 12,873 |
-| 2023-08-23 | 712,625 | 12,873 |
+| 2023-08-23 | 712,626 | 12,873 |
 ## Awards
 Max (Great Boss Battles): 6,389  (Ranked 55)  
 Sum: 10,973 (Ranked 82)  

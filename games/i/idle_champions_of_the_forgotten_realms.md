@@ -56,6 +56,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Friendly Imps | 0.20% | ~449 |
 | Overdue Rendezvous | 0.20% | ~449 |
 | Pure Energy | 0.20% | ~449 |
+| The Templar's Camp | 0.20% | ~449 |
 | The Chaotic Hunt for The Last Breath | 0.20% | ~381 |
 | There's a Flying Snake in my Boot! | 0.20% | ~381 |
 | Pros and CONs | 0.10% | ~224 |
@@ -494,7 +495,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Netherese Necropolis | 0.10% | ~191 |
 | Ineffectual Intellectuals | 0.10% | ~191 |
 | The Archaeologist and the Sailor | 0.10% | ~191 |
-| The Templar's Camp | 0.10% | ~224 |
 | The Haunted Jungle | 0.10% | ~224 |
 | Poor Guidance | 0.10% | ~224 |
 | Overwhelming Force | 0.10% | ~224 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~191 |
 | Animated Giff | 0.10% | ~191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,273 (Ranked 53)  
+Progressed: 224,279 (Ranked 53)  
 Completed: 2,208 (0.98%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -648,7 +648,7 @@ Completed: 2,208 (0.98%) (Ranked 121)
 | 2023-08-20 | 223,729 | 2,196 |
 | 2023-08-21 | 223,996 | 2,203 |
 | 2023-08-22 | 224,213 | 2,207 |
-| 2023-08-23 | 224,273 | 2,208 |
+| 2023-08-23 | 224,279 | 2,208 |
 ## Awards
 Max (Diverse Characters): 5,176  (Ranked 68)  
 Sum: 31,172 (Ranked 39)  
