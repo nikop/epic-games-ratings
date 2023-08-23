@@ -1566,9 +1566,9 @@
       "ID": "achievement_maimedHero",
       "SetID": "95dc8p",
       "Name": "The Cost of Heroism",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 535
+      "UsersEstimate": 548
     },
     {
       "ID": "achievement_mythwalker",
@@ -1662,9 +1662,9 @@
       "ID": "completedStory_ulstryx",
       "SetID": "95dc8p",
       "Name": "Daybreak",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 370
+      "UsersEstimate": 384
     },
     {
       "ID": "completedStory_vultureLord",
@@ -1846,8 +1846,8 @@
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-07-08T20:01:41.3411794+00:00",
-  "LastChanged_Achievements": "2023-08-23T13:12:04.7292788+00:00",
+  "LastChanged_Achievements": "2023-08-23T14:08:17.989665+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:21.1386789+00:00",
-  "LastUpdate_Ratings": "2023-08-23T13:02:17.3581798+00:00",
-  "LastUpdate_Achievements": "2023-08-23T13:12:04.7293234+00:00"
+  "LastUpdate_Ratings": "2023-08-23T13:58:51.9855635+00:00",
+  "LastUpdate_Achievements": "2023-08-23T14:08:17.9897212+00:00"
 }

@@ -1191,9 +1191,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 8474,
+  "EOS_Progressed": 8475,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11206,6 +11206,11 @@
       "Time": "2023-08-23T13:07:09.3596772+00:00",
       "NumProgressed": 8474,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-23T14:03:35.2823692+00:00",
+      "NumProgressed": 8475,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -11217,7 +11222,7 @@
       "Name": "Leader",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 5084
+      "UsersEstimate": 5085
     },
     {
       "ID": "10",
@@ -11249,7 +11254,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 4491
+      "UsersEstimate": 4492
     },
     {
       "ID": "14",
@@ -11257,7 +11262,7 @@
       "Name": "Famous Explorer",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2881
+      "UsersEstimate": 2882
     },
     {
       "ID": "15",
@@ -11273,7 +11278,7 @@
       "Name": "Adventurer",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 3474
+      "UsersEstimate": 3475
     },
     {
       "ID": "17",
@@ -11297,7 +11302,7 @@
       "Name": "Healer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 4406
+      "UsersEstimate": 4407
     },
     {
       "ID": "2",
@@ -11329,7 +11334,7 @@
       "Name": "First Step",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 6101
+      "UsersEstimate": 6102
     },
     {
       "ID": "23",
@@ -11337,7 +11342,7 @@
       "Name": "New Opportunities",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2881
+      "UsersEstimate": 2882
     },
     {
       "ID": "24",
@@ -11345,7 +11350,7 @@
       "Name": "It\u0027s a Finnish Thing",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 847
+      "UsersEstimate": 848
     },
     {
       "ID": "25",
@@ -11369,7 +11374,7 @@
       "Name": "Energized",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2796
+      "UsersEstimate": 2797
     },
     {
       "ID": "28",
@@ -11505,7 +11510,7 @@
       "Name": "Diplomat",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "43",
@@ -11537,7 +11542,7 @@
       "Name": "Finders, Keepers",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2203
+      "UsersEstimate": 2204
     },
     {
       "ID": "47",
@@ -11545,7 +11550,7 @@
       "Name": "The Long Haul",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2796
+      "UsersEstimate": 2797
     },
     {
       "ID": "48",
@@ -11609,7 +11614,7 @@
       "Name": "Top Notch",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2118
+      "UsersEstimate": 2119
     },
     {
       "ID": "55",
@@ -11617,7 +11622,7 @@
       "Name": "Doomsday is canceled",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "56",
@@ -11657,15 +11662,15 @@
       "Name": "Biggest Catastrofan",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "7",
       "SetID": "8idi9ml",
       "Name": "Survivor",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2627
+      "UsersEstimate": 2712
     },
     {
       "ID": "8",
@@ -11688,15 +11693,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 8474,
+      "Progressed": 8475,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-08-22T16:57:58.1853673+00:00",
-  "LastChanged_Achievements": "2023-08-23T13:07:09.3596765+00:00",
+  "LastChanged_Achievements": "2023-08-23T14:03:35.2823678+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:48.2219404+00:00",
-  "LastUpdate_Ratings": "2023-08-23T13:01:44.7536021+00:00",
-  "LastUpdate_Achievements": "2023-08-23T13:07:09.3597673+00:00"
+  "LastUpdate_Ratings": "2023-08-23T13:58:06.4665788+00:00",
+  "LastUpdate_Achievements": "2023-08-23T14:03:35.2824878+00:00"
 }

@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 73.00% | ~331 |
+| A New Journey | 74.00% | ~336 |
 | The Adventure Begins | 52.00% | ~236 |
-| Swabbie | 34.00% | ~154 |
+| Swabbie | 35.00% | ~159 |
 | With Great Power… | 29.00% | ~132 |
 | This Belongs in a Museum | 24.00% | ~109 |
 | The Gambit Has Begun | 18.00% | ~82 |
@@ -14,7 +14,7 @@
 | Somewhere Deep in the Lost Caribbean | 12.00% | ~54 |
 | Mirror Mirror on the Wall | 12.00% | ~54 |
 | Fishy Fish | 12.00% | ~54 |
-| Persistent Parasite | 9.00% | ~41 |
+| Persistent Parasite | 10.00% | ~45 |
 | Buccaneer | 8.00% | ~36 |
 | Pirates Assemble! | 7.00% | ~32 |
 | All Good Things | 4.00% | ~18 |
@@ -22,10 +22,10 @@
 | Jaded Judge | 4.00% | ~18 |
 | Rustic Recipe | 4.00% | ~18 |
 | Privateer | 3.00% | ~14 |
+| Tobacco Travesty | 3.00% | ~14 |
 | Accursed Artifacts | 3.00% | ~14 |
 | Lyrical Longing | 3.00% | ~14 |
 | Corsair | 2.00% | ~9 |
-| Tobacco Travesty | 2.00% | ~9 |
 | Freebooter | 1.00% | ~5 |
 | Fully Decked | 0.90% | ~4 |
 | Marauder | 0.40% | ~2 |

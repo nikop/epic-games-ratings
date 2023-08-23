@@ -152,9 +152,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17441,
+  "EOS_Progressed": 17443,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 199,
+  "EOS_NewPlayers": 201,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -10477,6 +10477,11 @@
       "Time": "2023-08-23T13:07:10.3683648+00:00",
       "NumProgressed": 17441,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-08-23T14:03:36.8696474+00:00",
+      "NumProgressed": 17443,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 14,
@@ -10488,7 +10493,7 @@
       "Name": "Across The Border",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 13778
+      "UsersEstimate": 13780
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -10512,7 +10517,7 @@
       "Name": "Danger Ahead",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 4709
+      "UsersEstimate": 4710
     },
     {
       "ID": "ACH_DONT_BRING_ME_DOWN",
@@ -10536,7 +10541,7 @@
       "Name": "Hello My Old Friend",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1046
+      "UsersEstimate": 1047
     },
     {
       "ID": "ACH_IM_ALIVE",
@@ -10544,7 +10549,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 9244
+      "UsersEstimate": 9245
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -10560,7 +10565,7 @@
       "Name": "In My Own Time",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 2267
+      "UsersEstimate": 2268
     },
     {
       "ID": "ACH_LOOK_AT_ME_NOW",
@@ -10568,7 +10573,7 @@
       "Name": "Look at Me Now",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 4883
+      "UsersEstimate": 4884
     },
     {
       "ID": "ACH_THE_FALL",
@@ -10576,7 +10581,7 @@
       "Name": "The Fall",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 3139
+      "UsersEstimate": 3140
     },
     {
       "ID": "ACH_TIME_OF_OUR_LIFE",
@@ -10599,15 +10604,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 17441,
+      "Progressed": 17443,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-08-16T03:57:34.8125865+00:00",
-  "LastChanged_Achievements": "2023-08-23T13:07:10.3683643+00:00",
+  "LastChanged_Achievements": "2023-08-23T14:03:36.8696464+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:14.8695583+00:00",
-  "LastUpdate_Ratings": "2023-08-23T13:02:10.7618644+00:00",
-  "LastUpdate_Achievements": "2023-08-23T13:07:10.3684224+00:00"
+  "LastUpdate_Ratings": "2023-08-23T13:58:41.9782326+00:00",
+  "LastUpdate_Achievements": "2023-08-23T14:03:36.8697235+00:00"
 }

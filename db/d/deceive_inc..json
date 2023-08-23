@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17572,
+  "EOS_Progressed": 17576,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8866,6 +8866,11 @@
       "Time": "2023-08-23T13:09:19.6594981+00:00",
       "NumProgressed": 17572,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-23T14:06:34.8584744+00:00",
+      "NumProgressed": 17576,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -8877,7 +8882,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5096
+      "UsersEstimate": 5097
     },
     {
       "ID": "0002",
@@ -8893,7 +8898,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2987
+      "UsersEstimate": 2988
     },
     {
       "ID": "0004",
@@ -8901,7 +8906,7 @@
       "Name": "Security Supervisor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1054
+      "UsersEstimate": 1055
     },
     {
       "ID": "0005",
@@ -8909,7 +8914,7 @@
       "Name": "Branch Manager",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "0006",
@@ -8933,7 +8938,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3163
+      "UsersEstimate": 3164
     },
     {
       "ID": "0009",
@@ -8973,7 +8978,7 @@
       "Name": "Keycards Royale",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1757
+      "UsersEstimate": 1758
     },
     {
       "ID": "0014",
@@ -8981,7 +8986,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2987
+      "UsersEstimate": 2988
     },
     {
       "ID": "0015",
@@ -9013,7 +9018,7 @@
       "Name": "In It to Win It",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1757
+      "UsersEstimate": 1758
     },
     {
       "ID": "0019",
@@ -9037,7 +9042,7 @@
       "Name": "Call Me Maybe",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "0022",
@@ -9045,7 +9050,7 @@
       "Name": "PHD in VIP",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "0023",
@@ -9061,7 +9066,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3866
+      "UsersEstimate": 3867
     },
     {
       "ID": "0025",
@@ -9069,7 +9074,7 @@
       "Name": "Tailor-Made",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3163
+      "UsersEstimate": 3164
     },
     {
       "ID": "0026",
@@ -9101,7 +9106,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2284
+      "UsersEstimate": 2285
     },
     {
       "ID": "0030",
@@ -9109,7 +9114,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3163
+      "UsersEstimate": 3164
     },
     {
       "ID": "0031",
@@ -9164,7 +9169,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17572,
+      "Progressed": 17576,
       "Completed": 1
     }
   ],
@@ -9172,8 +9177,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-12T19:04:41.1874293+00:00",
-  "LastChanged_Achievements": "2023-08-23T13:09:19.6594975+00:00",
+  "LastChanged_Achievements": "2023-08-23T14:06:34.8584733+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:28.6624095+00:00",
-  "LastUpdate_Ratings": "2023-08-23T13:01:29.2520672+00:00",
-  "LastUpdate_Achievements": "2023-08-23T13:09:19.6595591+00:00"
+  "LastUpdate_Ratings": "2023-08-23T13:57:44.4988551+00:00",
+  "LastUpdate_Achievements": "2023-08-23T14:06:34.8585583+00:00"
 }

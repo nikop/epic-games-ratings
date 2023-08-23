@@ -696,9 +696,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 216191,
+  "EOS_Progressed": 216216,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3084,
+  "EOS_NewPlayers": 3097,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7996,6 +7996,11 @@
       "Time": "2023-08-23T13:06:29.7342451+00:00",
       "NumProgressed": 216191,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-23T14:03:22.6805722+00:00",
+      "NumProgressed": 216216,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -8079,7 +8084,7 @@
       "Name": "The demons\u0027 feast",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1513
+      "UsersEstimate": 1514
     },
     {
       "ID": "Chapter5",
@@ -8159,7 +8164,7 @@
       "Name": "The Woman in the High Castle",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1513
+      "UsersEstimate": 1514
     },
     {
       "ID": "DLC1ChooseNecro",
@@ -8455,7 +8460,7 @@
       "Name": "Sowwy!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 47562
+      "UsersEstimate": 47568
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -8629,9 +8634,9 @@
       "ID": "RangerEpic",
       "SetID": "50chcgj",
       "Name": "The Ranger of Chaos",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1297
     },
     {
       "ID": "Rogue30Backstab",
@@ -8663,7 +8668,7 @@
       "Name": "Team Building Exercise",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1513
+      "UsersEstimate": 1514
     },
     {
       "ID": "SystematicallyStupid",
@@ -8687,7 +8692,7 @@
       "Name": "Oh, when I\u0027ll be level 10...",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1513
+      "UsersEstimate": 1514
     },
     {
       "ID": "WizardEpic",
@@ -8710,21 +8715,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 216191,
+      "Progressed": 216216,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 216191,
+      "Progressed": 216216,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-22T20:01:13.7007257+00:00",
-  "LastChanged_Achievements": "2023-08-23T13:06:29.7342445+00:00",
+  "LastChanged_Achievements": "2023-08-23T14:03:22.6805713+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:36.4163589+00:00",
-  "LastUpdate_Ratings": "2023-08-23T13:04:36.774729+00:00",
-  "LastUpdate_Achievements": "2023-08-23T13:06:29.7343571+00:00"
+  "LastUpdate_Ratings": "2023-08-23T14:02:11.1990098+00:00",
+  "LastUpdate_Achievements": "2023-08-23T14:03:22.6807534+00:00"
 }

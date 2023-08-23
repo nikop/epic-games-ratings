@@ -6,34 +6,34 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~14,480 |
-| That's a Grand Army | 3.00% | ~10,860 |
-| That is mine! | 3.00% | ~10,860 |
-| Victorious! | 3.00% | ~10,860 |
-| Brothers in Arms | 2.00% | ~7,240 |
-| That's a Grand Navy | 2.00% | ~7,240 |
-| Seriously?! | 2.00% | ~7,240 |
-| Cold War | 1.00% | ~3,620 |
-| For the Glory | 1.00% | ~3,620 |
-| It's all about the money | 1.00% | ~3,620 |
-| True Catholic | 1.00% | ~3,620 |
-| Defender of the Faith | 0.90% | ~3,258 |
-| The Princess is in this Castle | 0.90% | ~3,258 |
-| It's all about luck | 0.80% | ~2,896 |
-| Respected | 0.80% | ~2,896 |
-| Truly Divine Ruler | 0.80% | ~2,896 |
-| Blockader | 0.70% | ~2,534 |
-| Double the Love | 0.60% | ~2,172 |
-| Royal Authority | 0.60% | ~2,172 |
-| Total Control | 0.60% | ~2,172 |
-| Combined Arms | 0.50% | ~1,810 |
-| My armies are invincible! | 0.50% | ~1,810 |
-| Agressive Expander | 0.40% | ~1,448 |
-| Azur semé de lis or | 0.40% | ~1,448 |
-| City of Cities | 0.40% | ~1,448 |
-| Gentle Persuasion | 0.40% | ~1,448 |
-| Queen of Conquest | 0.40% | ~1,448 |
-| This navy can take it all | 0.40% | ~1,448 |
+| Until death do us apart | 4.00% | ~14,486 |
+| That's a Grand Army | 3.00% | ~10,865 |
+| That is mine! | 3.00% | ~10,865 |
+| Victorious! | 3.00% | ~10,865 |
+| Brothers in Arms | 2.00% | ~7,243 |
+| That's a Grand Navy | 2.00% | ~7,243 |
+| Seriously?! | 2.00% | ~7,243 |
+| Cold War | 1.00% | ~3,622 |
+| For the Glory | 1.00% | ~3,622 |
+| It's all about the money | 1.00% | ~3,622 |
+| True Catholic | 1.00% | ~3,622 |
+| Defender of the Faith | 0.90% | ~3,259 |
+| The Princess is in this Castle | 0.90% | ~3,259 |
+| It's all about luck | 0.80% | ~2,897 |
+| Respected | 0.80% | ~2,897 |
+| Truly Divine Ruler | 0.80% | ~2,897 |
+| Blockader | 0.70% | ~2,535 |
+| Double the Love | 0.60% | ~2,173 |
+| Royal Authority | 0.60% | ~2,173 |
+| Total Control | 0.60% | ~2,173 |
+| Combined Arms | 0.50% | ~1,811 |
+| My armies are invincible! | 0.50% | ~1,811 |
+| Agressive Expander | 0.40% | ~1,449 |
+| Azur semé de lis or | 0.40% | ~1,449 |
+| City of Cities | 0.40% | ~1,449 |
+| Gentle Persuasion | 0.40% | ~1,449 |
+| Queen of Conquest | 0.40% | ~1,449 |
+| This navy can take it all | 0.40% | ~1,449 |
 | All That's Thine Shall Be Mine | 0.30% | ~1,086 |
 | Bright Spark | 0.30% | ~1,086 |
 | The Emperors new clothes | 0.30% | ~1,086 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 361,999 (Ranked 41)  
+Progressed: 362,159 (Ranked 41)  
 Completed: 0 (0.00%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -486,7 +486,7 @@ Completed: 0 (0.00%) (Ranked 262)
 | 2023-08-20 | 353,078 | 0 |
 | 2023-08-21 | 357,003 | 0 |
 | 2023-08-22 | 360,463 | 0 |
-| 2023-08-23 | 361,999 | 0 |
+| 2023-08-23 | 362,159 | 0 |
 ## Awards
 Max (Educational): 5,750  (Ranked 60)  
 Sum: 47,482 (Ranked 26)  

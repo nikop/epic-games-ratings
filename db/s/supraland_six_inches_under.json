@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 416,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 21,
-  "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
     "PcReleaseDate": "2022-01-14T10:00:00+00:00",
@@ -1893,9 +1893,9 @@
       "ID": "NoMatch",
       "SetID": "5lok9mm",
       "Name": "No Match for you",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 1436
+      "UsersEstimate": 1458
     },
     {
       "ID": "PickaxeDiamond",
@@ -2061,8 +2061,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-08-21T16:57:49.4049479+00:00",
-  "LastChanged_Achievements": "2023-08-23T13:08:42.52626+00:00",
+  "LastChanged_Achievements": "2023-08-23T14:05:45.0015853+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:51.4184193+00:00",
-  "LastUpdate_Ratings": "2023-08-23T13:01:45.8099351+00:00",
-  "LastUpdate_Achievements": "2023-08-23T13:08:42.526303+00:00"
+  "LastUpdate_Ratings": "2023-08-23T13:58:07.7867599+00:00",
+  "LastUpdate_Achievements": "2023-08-23T14:05:45.0016447+00:00"
 }

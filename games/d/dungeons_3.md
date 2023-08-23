@@ -9,26 +9,26 @@ Number of Ratings: 1,635  (23.09.2022)
 | The Shadow strikes | 69.00% | ~19,459 |
 | The Evilest Evil | 58.00% | ~16,357 |
 | Twistram is devastated | 57.00% | ~16,075 |
-| The Gehenna Stones | 49.00% | ~13,818 |
-| No one has to die today! | 46.00% | ~12,972 |
-| Death and destruction! | 45.00% | ~12,690 |
-| The Swamplanders from the swamplands | 43.00% | ~12,126 |
-| Rusty Steel | 41.00% | ~11,562 |
-| The One-Huge-Army-Building Evil | 40.00% | ~11,280 |
-| The last burger | 37.00% | ~10,434 |
-| Braiiiiins! | 37.00% | ~10,434 |
-| Hands off the Dungeonheart! | 36.00% | ~10,152 |
-| A trip on sea, what fun it can be | 34.00% | ~9,588 |
-| Damned good | 33.00% | ~9,306 |
-| Stock Market Crash | 31.00% | ~8,742 |
-| Factory farming | 31.00% | ~8,742 |
-| Not-So-Overproud | 30.00% | ~8,460 |
-| For a handfull of Catapults | 29.00% | ~8,178 |
-| Shadow hunter | 29.00% | ~8,178 |
-| Thirst quencher | 28.00% | ~7,896 |
-| Ogre Solo! | 28.00% | ~7,896 |
-| Destroy the thing | 26.00% | ~7,332 |
-| Tide Master | 26.00% | ~7,332 |
+| The Gehenna Stones | 49.00% | ~13,819 |
+| No one has to die today! | 46.00% | ~12,973 |
+| Death and destruction! | 45.00% | ~12,691 |
+| The Swamplanders from the swamplands | 43.00% | ~12,127 |
+| Rusty Steel | 41.00% | ~11,563 |
+| The One-Huge-Army-Building Evil | 40.00% | ~11,281 |
+| The last burger | 37.00% | ~10,435 |
+| Braiiiiins! | 37.00% | ~10,435 |
+| Hands off the Dungeonheart! | 36.00% | ~10,153 |
+| A trip on sea, what fun it can be | 34.00% | ~9,589 |
+| Damned good | 33.00% | ~9,307 |
+| Stock Market Crash | 31.00% | ~8,743 |
+| Factory farming | 31.00% | ~8,743 |
+| Not-So-Overproud | 30.00% | ~8,461 |
+| For a handfull of Catapults | 29.00% | ~8,179 |
+| Shadow hunter | 29.00% | ~8,179 |
+| Thirst quencher | 28.00% | ~7,897 |
+| Ogre Solo! | 28.00% | ~7,897 |
+| Destroy the thing | 26.00% | ~7,333 |
+| Tide Master | 26.00% | ~7,333 |
 | Difficult family relationships | 25.00% | ~7,050 |
 | MASS-O-BOT | 25.00% | ~7,050 |
 | Prepare the grave | 24.00% | ~6,768 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~564 |
 | Sacrifices! | 2.00% | ~564 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,201 (Ranked 100)  
+Progressed: 28,202 (Ranked 100)  
 Completed: 233 (0.83%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,15 +192,15 @@ Completed: 233 (0.83%) (Ranked 126)
 | 2023-08-20 | 27,956 | 231 |
 | 2023-08-21 | 28,052 | 232 |
 | 2023-08-22 | 28,134 | 232 |
-| 2023-08-23 | 28,201 | 233 |
+| 2023-08-23 | 28,202 | 233 |
 ## Awards
 Max (Great for Beginners): 339  (Ranked 228)  
-Sum: 2,616 (Ranked 173)  
+Sum: 2,617 (Ranked 173)  
 Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 339 |
-| This game is Extremely Fun | 314 |
+| This game is Extremely Fun | 315 |
 | This game has Quickly Understood Controls | 302 |
 | This game has Amazing Storytelling | 292 |
 | This game is Highly Recommended | 290 |
@@ -371,3 +371,4 @@ Diff (max vs sum): 55
 | 2023-08-13 | 4.66 | - | 338 | 2,614 |
 | 2023-08-20 | 4.66 | - | 339 | 2,615 |
 | 2023-08-21 | 4.66 | - | 339 | 2,616 |
+| 2023-08-23 | 4.66 | - | 339 | 2,617 |

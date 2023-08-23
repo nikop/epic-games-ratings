@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2550,
+  "EOS_Progressed": 2551,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -2733,6 +2733,11 @@
       "Time": "2023-08-23T08:05:28.9100388+00:00",
       "NumProgressed": 2550,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-08-23T14:06:04.0690892+00:00",
+      "NumProgressed": 2551,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -2752,7 +2757,7 @@
       "Name": "A big leap for wolfkind",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "FALLEN_TREE",
@@ -2792,7 +2797,7 @@
       "Name": "Sliders",
       "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "SNOW_RUINS",
@@ -2840,14 +2845,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2550,
+      "Progressed": 2551,
       "Completed": 6
     }
   ],
@@ -2855,8 +2860,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-08-23T13:08:56.5170481+00:00",
+  "LastChanged_Achievements": "2023-08-23T14:06:04.0690882+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:53.8347436+00:00",
-  "LastUpdate_Ratings": "2023-08-23T13:01:05.9975612+00:00",
-  "LastUpdate_Achievements": "2023-08-23T13:08:56.5170691+00:00"
+  "LastUpdate_Ratings": "2023-08-23T13:57:10.9591801+00:00",
+  "LastUpdate_Achievements": "2023-08-23T14:06:04.0691309+00:00"
 }

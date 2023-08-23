@@ -226,9 +226,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 228555,
+  "EOS_Progressed": 228557,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 382,
+  "EOS_NewPlayers": 383,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13296,6 +13296,11 @@
       "Time": "2023-08-23T13:10:12.7338865+00:00",
       "NumProgressed": 228555,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-23T14:07:48.9698007+00:00",
+      "NumProgressed": 228557,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -13371,7 +13376,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 82280
+      "UsersEstimate": 82281
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -13467,7 +13472,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 50282
+      "UsersEstimate": 50283
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -13515,7 +13520,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 38854
+      "UsersEstimate": 38855
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -13530,7 +13535,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 228555,
+      "Progressed": 228557,
       "Completed": 3
     }
   ],
@@ -13538,8 +13543,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-08-11T01:38:33.2125072+00:00",
-  "LastChanged_Achievements": "2023-08-23T13:10:12.733886+00:00",
+  "LastChanged_Achievements": "2023-08-23T14:07:48.9698001+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:40.7595484+00:00",
-  "LastUpdate_Ratings": "2023-08-23T13:01:37.5030446+00:00",
-  "LastUpdate_Achievements": "2023-08-23T13:10:12.7339655+00:00"
+  "LastUpdate_Ratings": "2023-08-23T13:57:56.1680282+00:00",
+  "LastUpdate_Achievements": "2023-08-23T14:07:48.9699013+00:00"
 }
