@@ -15,7 +15,7 @@
 | 13 | [Destiny 2](games/d/destiny_2.md) | 36,510 | 4.49 | 577 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 36,309 | 4.74 | 146 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 31,390 | 4.52 | 527 |
-| 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,795 | 4.64 | 314 |
+| 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,797 | 4.64 | 314 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 21,884 | 4.77 | 109 |
 | 18 | [Dauntless](games/d/dauntless.md) | 21,435 | 4.53 | 514 |
 | 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 19,296 | 4.57 | 451 |
@@ -107,7 +107,7 @@
 | 105 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,244 | 4.67 | 256 |
 | 106 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,208 | 4.63 | 329 |
 | 107 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,199 | 4.41 | 685 |
-| 108 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,149 | 4.37 | 733 |
+| 108 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,149 | 4.37 | 734 |
 | 109 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 1,987 | 4.49 | 577 |
 | 110 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 1,910 | 4.66 | 275 |
 | 111 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 1,879 | 4.90 | 8 |
@@ -162,8 +162,8 @@
 | 160 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 764 | 4.51 | 543 |
 | 161 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 763 | 4.50 | 558 |
 | 161 | [The Sims™ 4](games/t/the_sims™_4.md) | 763 | 4.62 | 348 |
-| 163 | [Core](games/c/core.md) | 747 | 4.36 | 741 |
-| 163 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 747 | 4.79 | 86 |
+| 163 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 749 | 4.79 | 86 |
+| 164 | [Core](games/c/core.md) | 747 | 4.36 | 741 |
 | 165 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 721 | 4.87 | 26 |
 | 166 | [Neverwinter](games/n/neverwinter.md) | 719 | 4.29 | 797 |
 | 167 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 714 | 4.60 | 391 |
@@ -176,7 +176,7 @@
 | 173 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 665 | 4.74 | 146 |
 | 175 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 645 | 4.74 | 146 |
 | 176 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 640 | 4.60 | 391 |
-| 177 | [FAR CRY 4](games/f/far_cry_4.md) | 632 | 4.67 | 256 |
+| 177 | [FAR CRY 4](games/f/far_cry_4.md) | 633 | 4.67 | 256 |
 | 178 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 628 | 4.50 | 558 |
 | 179 | [Football Manager 2023](games/f/football_manager_2023.md) | 625 | 4.75 | 136 |
 | 180 | [Dark Deity](games/d/dark_deity.md) | 611 | 4.16 | 885 |
@@ -398,7 +398,7 @@
 | 396 | [Obduction](games/o/obduction.md) | 53 | 4.09 | 910 |
 | 396 | [Ranch Simulator](games/r/ranch_simulator.md) | 53 | 4.45 | 638 |
 | 396 | [The Escapists 2](games/t/the_escapists_2.md) | 53 | 4.58 | 426 |
-| 399 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 52 | 4.37 | 733 |
+| 399 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 52 | 4.37 | 734 |
 | 399 | [Session: Skate Sim](games/s/session__skate_sim.md) | 52 | 4.68 | 238 |
 | 401 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 51 | 4.84 | 49 |
 | 401 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 51 | 4.70 | 198 |
@@ -418,7 +418,7 @@
 | 413 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 45 | 4.24 | 835 |
 | 413 | [The Riftbreaker](games/t/the_riftbreaker.md) | 45 | 4.76 | 119 |
 | 418 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 44 | 4.29 | 797 |
-| 418 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 44 | 4.37 | 733 |
+| 418 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 44 | 4.37 | 734 |
 | 420 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 43 | 4.86 | 30 |
 | 421 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 42 | 4.82 | 65 |
 | 421 | [STG Football](games/s/stg_football.md) | 42 | 4.44 | 651 |
@@ -459,7 +459,7 @@
 | 456 | [Chorus](games/c/chorus.md) | 32 | 4.46 | 625 |
 | 456 | [MythForce](games/m/mythforce.md) | 32 | 4.49 | 577 |
 | 456 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 32 | 4.67 | 256 |
-| 456 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 32 | 4.37 | 733 |
+| 456 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 32 | 4.37 | 734 |
 | 461 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 31 | 4.24 | 835 |
 | 462 | [Northgard](games/n/northgard.md) | 30 | 4.70 | 198 |
 | 462 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 30 | 4.57 | 451 |

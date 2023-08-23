@@ -3,7 +3,7 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 51.35% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.23% |
-| 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.57% |
+| 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.16% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 31.71% |
 | 6 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
 | 7 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -127,7 +127,7 @@
 | 125 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
 | 126 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.80% |
 | 127 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.75% |
-| 128 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.74% |
+| 127 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 129 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.72% |
 | 130 | [Lemon Cake](games/l/lemon_cake.md) | 0.70% |
 | 130 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.70% |

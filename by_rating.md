@@ -92,7 +92,7 @@
 | 86 | [Huntdown](games/h/huntdown.md) | 4.79 | 0 | 514 |
 | 86 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.79 | 0 | 514 |
 | 86 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 838 | 153 |
-| 86 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 747 | 163 |
+| 86 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 749 | 163 |
 | 86 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,974 | 57 |
 | 86 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.79 | 158 | 295 |
 | 86 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.79 | 2,453 | 102 |
@@ -258,7 +258,7 @@
 | 256 | [APE OUT](games/a/ape_out.md) | 4.67 | 0 | 514 |
 | 256 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 665 | 173 |
 | 256 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 514 |
-| 256 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 632 | 177 |
+| 256 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 633 | 177 |
 | 256 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 0 | 514 |
 | 256 | [Loop Hero](games/l/loop_hero.md) | 4.67 | 440 | 206 |
 | 256 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,244 | 105 |
@@ -324,7 +324,7 @@
 | 314 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 183 | 280 |
 | 314 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.64 | 0 | 514 |
 | 314 | [Rogue Lords](games/r/rogue_lords.md) | 4.64 | 0 | 514 |
-| 314 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.64 | 28,795 | 16 |
+| 314 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.64 | 28,797 | 16 |
 | 314 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 67 | 384 |
 | 314 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.64 | 0 | 514 |
 | 314 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 192 | 276 |
@@ -728,19 +728,19 @@
 | 725 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 574 | 185 |
 | 725 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 164 | 290 |
 | 725 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 170 | 288 |
+| 725 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.38 | 0 | 514 |
 | 725 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.38 | 73 | 374 |
 | 725 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.38 | 135 | 308 |
 | 725 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 514 |
 | 725 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.38 | 0 | 514 |
-| 733 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 0 | 514 |
-| 733 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,149 | 108 |
-| 733 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 514 |
-| 733 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.37 | 52 | 399 |
-| 733 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.37 | 0 | 514 |
-| 733 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.37 | 0 | 514 |
-| 733 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.37 | 44 | 418 |
-| 733 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 32 | 456 |
-| 741 | [Core](games/c/core.md) | 4.36 | 747 | 163 |
+| 734 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 0 | 514 |
+| 734 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,149 | 108 |
+| 734 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 514 |
+| 734 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.37 | 52 | 399 |
+| 734 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.37 | 0 | 514 |
+| 734 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.37 | 44 | 418 |
+| 734 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 32 | 456 |
+| 741 | [Core](games/c/core.md) | 4.36 | 747 | 164 |
 | 741 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 173 | 285 |
 | 741 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,640 | 30 |
 | 741 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.36 | 0 | 514 |
