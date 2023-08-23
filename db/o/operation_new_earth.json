@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 1057,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3721,9 +3721,9 @@
       "ID": "ach_defeat_players_10",
       "SetID": "bm61c2p",
       "Name": "Fighting for Survival",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 95
     },
     {
       "ID": "ach_defeat_players_100",
@@ -3777,9 +3777,9 @@
       "ID": "ach_silver_rewards_50",
       "SetID": "bm61c2p",
       "Name": "Silver Achiever",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 42
     },
     {
       "ID": "objective_headquarters_10",
@@ -3825,9 +3825,9 @@
       "ID": "objective_hero_level_up_2",
       "SetID": "bm61c2p",
       "Name": "Sergeant",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 137
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -3929,9 +3929,9 @@
       "ID": "objective_key_objectives_completed_2",
       "SetID": "bm61c2p",
       "Name": "On Target",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 116
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -3961,9 +3961,9 @@
       "ID": "objective_multiple_turrets_2",
       "SetID": "bm61c2p",
       "Name": "Defenses Online",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 285
+      "UsersEstimate": 296
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -4016,8 +4016,8 @@
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-23T19:04:06.2572699+00:00",
+  "LastChanged_Achievements": "2023-08-23T20:03:34.361844+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:20.8459338+00:00",
-  "LastUpdate_Ratings": "2023-08-23T18:58:45.7183365+00:00",
-  "LastUpdate_Achievements": "2023-08-23T19:04:06.2573297+00:00"
+  "LastUpdate_Ratings": "2023-08-23T19:58:18.3660283+00:00",
+  "LastUpdate_Achievements": "2023-08-23T20:03:34.3619039+00:00"
 }

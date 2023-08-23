@@ -6,28 +6,28 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~225,410 |
-| Uncharted Territory | 89.00% | ~208,974 |
-| Getting A Glimpse | 73.00% | ~171,405 |
-| A Quick Escape | 65.00% | ~152,621 |
-| Explorer | 62.00% | ~145,577 |
-| Defeat The Dark | 61.00% | ~143,229 |
-| An Offering | 61.00% | ~143,229 |
-| Colorful Corpse | 58.00% | ~136,185 |
-| That Was Quick | 57.00% | ~133,837 |
-| A Donation | 56.00% | ~131,489 |
-| Goodbye, Frog Friend | 54.00% | ~126,793 |
-| Heavy Hitter | 53.00% | ~124,445 |
-| Heartless | 46.00% | ~108,009 |
-| Spine Breaker | 46.00% | ~108,009 |
-| Deflection | 45.00% | ~105,661 |
-| Sneaky | 43.00% | ~100,965 |
-| Delving Deeper | 42.00% | ~98,617 |
-| C-C-Combo | 42.00% | ~98,617 |
-| Ambitious Intent | 41.00% | ~96,269 |
-| Nothing To Lose | 40.00% | ~93,921 |
-| The Bestiary | 40.00% | ~93,921 |
-| What's Yours Is Mine | 38.00% | ~89,225 |
+| First Steps | 96.00% | ~225,412 |
+| Uncharted Territory | 89.00% | ~208,976 |
+| Getting A Glimpse | 73.00% | ~171,407 |
+| A Quick Escape | 65.00% | ~152,623 |
+| Explorer | 62.00% | ~145,578 |
+| Defeat The Dark | 61.00% | ~143,230 |
+| An Offering | 61.00% | ~143,230 |
+| Colorful Corpse | 58.00% | ~136,186 |
+| That Was Quick | 57.00% | ~133,838 |
+| A Donation | 56.00% | ~131,490 |
+| Goodbye, Frog Friend | 54.00% | ~126,794 |
+| Heavy Hitter | 53.00% | ~124,446 |
+| Heartless | 46.00% | ~108,010 |
+| Spine Breaker | 46.00% | ~108,010 |
+| Deflection | 45.00% | ~105,662 |
+| Sneaky | 43.00% | ~100,966 |
+| Delving Deeper | 42.00% | ~98,618 |
+| C-C-Combo | 42.00% | ~98,618 |
+| Ambitious Intent | 41.00% | ~96,270 |
+| Nothing To Lose | 40.00% | ~93,922 |
+| The Bestiary | 40.00% | ~93,922 |
+| What's Yours Is Mine | 38.00% | ~89,226 |
 | R.I.P | 36.00% | ~84,529 |
 | Shootout | 36.00% | ~84,529 |
 | I Am Overburdened | 35.00% | ~82,181 |
@@ -44,21 +44,21 @@ Number of Ratings: 15,086  (23.09.2022)
 | New Perspectives | 27.00% | ~63,397 |
 | Shapeshifting | 27.00% | ~63,397 |
 | Destroy Your Fears | 26.00% | ~61,049 |
-| Save Our Souls | 25.00% | ~58,700 |
-| To The Death! | 20.00% | ~46,960 |
-| Well Prepared | 20.00% | ~46,960 |
-| Just Chilling | 20.00% | ~46,960 |
-| Stop Hitting Yourself | 19.00% | ~44,612 |
-| All Consuming | 18.00% | ~42,264 |
-| Shadow Spreads | 17.00% | ~39,916 |
-| Don't Ignore Me! | 17.00% | ~39,916 |
-| Illuminate, Eliminate | 17.00% | ~39,916 |
-| Max Damage! | 16.00% | ~37,568 |
-| Doing Time | 16.00% | ~37,568 |
-| Spreading Plague | 15.00% | ~35,220 |
-| The Long Run | 14.00% | ~32,872 |
-| A Rough Road | 13.00% | ~30,524 |
-| Chain Reaction | 13.00% | ~30,524 |
+| Save Our Souls | 25.00% | ~58,701 |
+| To The Death! | 20.00% | ~46,961 |
+| Well Prepared | 20.00% | ~46,961 |
+| Just Chilling | 20.00% | ~46,961 |
+| Stop Hitting Yourself | 19.00% | ~44,613 |
+| All Consuming | 18.00% | ~42,265 |
+| Shadow Spreads | 17.00% | ~39,917 |
+| Don't Ignore Me! | 17.00% | ~39,917 |
+| Illuminate, Eliminate | 17.00% | ~39,917 |
+| Max Damage! | 16.00% | ~37,569 |
+| Doing Time | 16.00% | ~37,569 |
+| Spreading Plague | 15.00% | ~35,221 |
+| The Long Run | 14.00% | ~32,873 |
+| A Rough Road | 13.00% | ~30,525 |
+| Chain Reaction | 13.00% | ~30,525 |
 | Berzerker | 12.00% | ~28,176 |
 | Antivenom | 12.00% | ~28,176 |
 | Thank You, Friend | 11.00% | ~25,828 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Down Under | 0.50% | ~1,174 |
 | Near Death Experience | 0.30% | ~704 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 234,802 (Ranked 50)  
+Progressed: 234,804 (Ranked 50)  
 Completed: 261 (0.11%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 261 (0.11%) (Ranked 207)
 | 2023-08-20 | 234,669 | 260 |
 | 2023-08-21 | 234,717 | 260 |
 | 2023-08-22 | 234,766 | 260 |
-| 2023-08-23 | 234,802 | 261 |
+| 2023-08-23 | 234,804 | 261 |
 ## Awards
 Max (Quickly Understood Controls): 1,488  (Ranked 122)  
 Sum: 11,534 (Ranked 79)  

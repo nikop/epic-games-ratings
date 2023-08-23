@@ -4,7 +4,7 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 329,
+  "EOS_Progressed": 331,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -852,6 +852,11 @@
       "Time": "2023-08-23T01:44:42.8378442+00:00",
       "NumProgressed": 329,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-23T20:05:10.9566674+00:00",
+      "NumProgressed": 331,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -871,7 +876,7 @@
       "Name": "Meet ADA/360",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ach_apartments_1",
@@ -879,7 +884,7 @@
       "Name": "Lux Living",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ach_apartments_2",
@@ -887,7 +892,7 @@
       "Name": "Penthouse in the Sky",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ach_area",
@@ -895,7 +900,7 @@
       "Name": "Floor Galore",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ach_area_1",
@@ -903,7 +908,7 @@
       "Name": "Under One Roof",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ach_art",
@@ -951,7 +956,7 @@
       "Name": "Campaign Launch",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ach_campaigns_1",
@@ -991,15 +996,15 @@
       "Name": "Baron of Business",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ach_consultant",
       "SetID": "b8gh1fi",
       "Name": "Need a Consult",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 122
     },
     {
       "ID": "ach_consultant_1",
@@ -1167,7 +1172,7 @@
       "Name": "Starting Skyward",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ach_floors_1",
@@ -1199,15 +1204,15 @@
       "Name": "Grime is Not Good",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ach_grime_1",
       "SetID": "b8gh1fi",
       "Name": "Delegate Maintenance",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 113
     },
     {
       "ID": "ach_grime_2",
@@ -1231,7 +1236,7 @@
       "Name": "Don\u0027t Feel a Loan",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ach_mod_1",
@@ -1287,7 +1292,7 @@
       "Name": "People Mover",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ach_pop_2",
@@ -1325,9 +1330,9 @@
       "ID": "ach_profit_0",
       "SetID": "b8gh1fi",
       "Name": "In the Black",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 201
+      "UsersEstimate": 199
     },
     {
       "ID": "ach_profit_1",
@@ -1375,7 +1380,7 @@
       "Name": "Tasty Profits",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ach_restaurants_3",
@@ -1383,7 +1388,7 @@
       "Name": "Dinner Dash",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ach_restaurants_4",
@@ -1397,9 +1402,9 @@
       "ID": "ach_restaurants_5",
       "SetID": "b8gh1fi",
       "Name": "Starred Dining",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 50
     },
     {
       "ID": "ach_retail_1",
@@ -1415,7 +1420,7 @@
       "Name": "Emporium Empire",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ach_retail_3",
@@ -1485,9 +1490,9 @@
       "ID": "ach_support_1",
       "SetID": "b8gh1fi",
       "Name": "Smooth Service",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 83
     },
     {
       "ID": "ach_trash_1",
@@ -1511,7 +1516,7 @@
       "Name": "Tuned In",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ach_util_gas",
@@ -1525,9 +1530,9 @@
       "ID": "ach_util_phone",
       "SetID": "b8gh1fi",
       "Name": "Phoning It In",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 26
     },
     {
       "ID": "ach_util_power",
@@ -1559,14 +1564,14 @@
       "Name": "Destination Destiny",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 329,
+      "Progressed": 331,
       "Completed": 0
     }
   ],
@@ -1574,8 +1579,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-08-23T19:06:01.9537226+00:00",
+  "LastChanged_Achievements": "2023-08-23T20:05:10.956667+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:02.7017252+00:00",
-  "LastUpdate_Ratings": "2023-08-23T19:00:26.2600011+00:00",
-  "LastUpdate_Achievements": "2023-08-23T19:06:01.9538446+00:00"
+  "LastUpdate_Ratings": "2023-08-23T19:59:44.8313384+00:00",
+  "LastUpdate_Achievements": "2023-08-23T20:05:10.9567648+00:00"
 }

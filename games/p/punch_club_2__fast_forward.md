@@ -63,10 +63,10 @@
 | Family comes first | 32.00% | ~84 |
 | Key memories | 32.00% | ~84 |
 | Careerist | 32.00% | ~84 |
+| Anyone can resist | 32.00% | ~84 |
 | The heart of the Resistance | 32.00% | ~84 |
 | Trap disarmed | 31.00% | ~82 |
 | The last bell ring | 31.00% | ~82 |
-| Anyone can resist | 31.00% | ~82 |
 | Silver’s past | 29.00% | ~77 |
 | Better cooking at home | 29.00% | ~77 |
 | The only right decision | 28.00% | ~74 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3536,9 +3536,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 11040,
+  "EOS_Progressed": 11041,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11196,6 +11196,11 @@
       "Time": "2023-08-23T17:06:33.9418949+00:00",
       "NumProgressed": 11040,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-23T20:05:04.0984771+00:00",
+      "NumProgressed": 11041,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -11215,7 +11220,7 @@
       "Name": "Burning City",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1766
+      "UsersEstimate": 1767
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -11407,7 +11412,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1215
     },
     {
       "ID": "28_GreatUpstart",
@@ -11575,7 +11580,7 @@
       "Name": "A Spark",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1766
+      "UsersEstimate": 1767
     },
     {
       "ID": "49_Flame",
@@ -12134,21 +12139,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9822,
+      "Progressed": 9823,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11040,
+      "Progressed": 11041,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-23T13:04:06.393487+00:00",
-  "LastChanged_Achievements": "2023-08-23T19:05:53.2363149+00:00",
+  "LastChanged_Achievements": "2023-08-23T20:05:04.0984764+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:48.9326646+00:00",
-  "LastUpdate_Ratings": "2023-08-23T19:00:55.0742721+00:00",
-  "LastUpdate_Achievements": "2023-08-23T19:05:53.2365346+00:00"
+  "LastUpdate_Ratings": "2023-08-23T20:00:06.8042402+00:00",
+  "LastUpdate_Achievements": "2023-08-23T20:05:04.0986965+00:00"
 }

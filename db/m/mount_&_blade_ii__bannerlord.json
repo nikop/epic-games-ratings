@@ -6535,10 +6535,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 14167,
       "NumberOfAwardsMax": 6973
+    },
+    {
+      "Time": "2023-08-23T19:57:38.812668+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 14169,
+      "NumberOfAwardsMax": 6973
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14167,
+  "NumberOfAwards": 14169,
   "NumberOfAwardsMax": 6973,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6582,7 +6588,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 779
+      "Count": 781
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6615,9 +6621,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 59508,
+  "EOS_Progressed": 59510,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 510,
+  "EOS_NewPlayers": 508,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19875,6 +19881,11 @@
       "Time": "2023-08-23T19:05:54.834919+00:00",
       "NumProgressed": 59508,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-23T20:05:05.3489313+00:00",
+      "NumProgressed": 59510,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -20078,7 +20089,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10116
+      "UsersEstimate": 10117
     },
     {
       "ID": "Kingslayer",
@@ -20094,7 +20105,7 @@
       "Name": "Know your enemy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3570
+      "UsersEstimate": 3571
     },
     {
       "ID": "Lance-a-lot",
@@ -20118,7 +20129,7 @@
       "Name": "Lawbringer",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 22613
+      "UsersEstimate": 22614
     },
     {
       "ID": "Lawmaker",
@@ -20166,7 +20177,7 @@
       "Name": "My way",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 2975
+      "UsersEstimate": 2976
     },
     {
       "ID": "Real Estate",
@@ -20238,7 +20249,7 @@
       "Name": "The king is pleased",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 10711
+      "UsersEstimate": 10712
     },
     {
       "ID": "This Is Our Land",
@@ -20293,15 +20304,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 59508,
+      "Progressed": 59510,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-08-23T18:57:52.2396859+00:00",
-  "LastChanged_Achievements": "2023-08-23T19:05:54.8349185+00:00",
+  "LastChanged": "2023-08-23T19:57:38.8126679+00:00",
+  "LastChanged_Achievements": "2023-08-23T20:05:05.3489307+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:38.4249815+00:00",
-  "LastUpdate_Ratings": "2023-08-23T18:57:52.2396874+00:00",
-  "LastUpdate_Achievements": "2023-08-23T19:05:54.8350455+00:00"
+  "LastUpdate_Ratings": "2023-08-23T19:57:38.8126685+00:00",
+  "LastUpdate_Achievements": "2023-08-23T20:05:05.3490652+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 253,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -980,9 +980,9 @@
       "Count": 124
     }
   ],
-  "EOS_Progressed": 8131,
+  "EOS_Progressed": 8132,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -4420,6 +4420,11 @@
       "Time": "2023-08-22T18:06:48.4233843+00:00",
       "NumProgressed": 8131,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-08-23T20:06:22.3436143+00:00",
+      "NumProgressed": 8132,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 24,
@@ -4479,7 +4484,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 3252
+      "UsersEstimate": 3253
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -4495,7 +4500,7 @@
       "Name": "The Final Battle of the First Hero",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2195
+      "UsersEstimate": 2196
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -4591,7 +4596,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7562
+      "UsersEstimate": 7563
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -4615,22 +4620,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6830
+      "UsersEstimate": 6831
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8131,
+      "Progressed": 8132,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-08-23T17:02:24.1541742+00:00",
-  "LastChanged_Achievements": "2023-08-23T19:07:25.5304398+00:00",
+  "LastChanged_Achievements": "2023-08-23T20:06:22.343614+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:36.3255081+00:00",
-  "LastUpdate_Ratings": "2023-08-23T19:02:08.1686416+00:00",
-  "LastUpdate_Achievements": "2023-08-23T19:07:25.5304767+00:00"
+  "LastUpdate_Ratings": "2023-08-23T20:00:40.4678571+00:00",
+  "LastUpdate_Achievements": "2023-08-23T20:06:22.3436533+00:00"
 }

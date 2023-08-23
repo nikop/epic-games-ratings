@@ -5,7 +5,7 @@ Rating: 4.43 (Ranked 663)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~57,440 |
+| No aid from the Omnissiah | 26.00% | ~57,441 |
 | This is only the beginning | 19.00% | ~41,976 |
 | Knowledge is power | 12.00% | ~26,511 |
 | Power Ranger | 9.00% | ~19,883 |
@@ -19,11 +19,11 @@ Rating: 4.43 (Ranked 663)
 | One with the Machine | 4.00% | ~8,837 |
 | Legio Cybernetica | 3.00% | ~6,628 |
 | Fleshy Disposal | 3.00% | ~6,628 |
-| Battle Servitor | 2.00% | ~4,418 |
-| Ding Dong Szaregon's Gone | 2.00% | ~4,418 |
-| Impatient destruction | 2.00% | ~4,418 |
-| Vivisected Vizier | 2.00% | ~4,418 |
-| Architect Abortion | 2.00% | ~4,418 |
+| Battle Servitor | 2.00% | ~4,419 |
+| Ding Dong Szaregon's Gone | 2.00% | ~4,419 |
+| Impatient destruction | 2.00% | ~4,419 |
+| Vivisected Vizier | 2.00% | ~4,419 |
+| Architect Abortion | 2.00% | ~4,419 |
 | Cohortus Maximus | 0.80% | ~1,767 |
 | Mother of Xenarites | 0.40% | ~884 |
 | False God | 0.30% | ~663 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 663)
 | Perma-live | 0.10% | ~221 |
 | Purge the Heretek | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,925 (Ranked 54)  
+Progressed: 220,926 (Ranked 54)  
 Completed: 5 (0.00%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 5 (0.00%) (Ranked 262)
 | 2023-08-20 | 220,737 | 5 |
 | 2023-08-21 | 220,802 | 5 |
 | 2023-08-22 | 220,873 | 5 |
-| 2023-08-23 | 220,925 | 5 |
+| 2023-08-23 | 220,926 | 5 |
 ## Awards
 Max (Highly Recommended): 281  (Ranked 241)  
 Sum: 2,127 (Ranked 194)  

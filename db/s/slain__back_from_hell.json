@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 404,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 59,
+  "Ranking_EOS_NewPlayers": 58,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -217,9 +217,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 34926,
+  "EOS_Progressed": 34935,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 809,
+  "EOS_NewPlayers": 815,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -13997,6 +13997,11 @@
       "Time": "2023-08-23T19:06:45.3613878+00:00",
       "NumProgressed": 34926,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-08-23T20:05:48.9267795+00:00",
+      "NumProgressed": 34935,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 29,
@@ -14008,7 +14013,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 5239
+      "UsersEstimate": 5240
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -14016,7 +14021,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6985
+      "UsersEstimate": 6987
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -14080,7 +14085,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1746
+      "UsersEstimate": 1747
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -14096,7 +14101,7 @@
       "Name": "Red In Tooth And Claw",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ACH_14_DEFEATED_MOTHER_BEHOLDER",
@@ -14112,7 +14117,7 @@
       "Name": "Death Becomes Her",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ACH_16_RETURNED_ICE_METEORS",
@@ -14144,7 +14149,7 @@
       "Name": "The Sky Is Falling",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ACH_20_MULTI_KILL",
@@ -14160,7 +14165,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1746
+      "UsersEstimate": 1747
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -14192,7 +14197,7 @@
       "Name": "That\u0027ll Come In Handy...",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ACH_26_VROLL_NO_DAMAGE",
@@ -14239,7 +14244,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 34926,
+      "Progressed": 34935,
       "Completed": 21
     }
   ],
@@ -14247,8 +14252,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-12T21:03:39.1122054+00:00",
-  "LastChanged_Achievements": "2023-08-23T19:06:45.3613871+00:00",
+  "LastChanged_Achievements": "2023-08-23T20:05:48.9267792+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:52.0390033+00:00",
-  "LastUpdate_Ratings": "2023-08-23T18:58:03.6523469+00:00",
-  "LastUpdate_Achievements": "2023-08-23T19:06:45.3614997+00:00"
+  "LastUpdate_Ratings": "2023-08-23T19:57:48.4545012+00:00",
+  "LastUpdate_Achievements": "2023-08-23T20:05:48.9268969+00:00"
 }

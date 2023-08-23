@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -152,9 +152,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17445,
+  "EOS_Progressed": 17446,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 198,
+  "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -10492,6 +10492,11 @@
       "Time": "2023-08-23T19:03:40.7329311+00:00",
       "NumProgressed": 17445,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-08-23T20:03:13.1730579+00:00",
+      "NumProgressed": 17446,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 14,
@@ -10519,7 +10524,7 @@
       "Name": "Caught in a Trap",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 2093
+      "UsersEstimate": 2094
     },
     {
       "ID": "ACH_DANGER_AHEAD",
@@ -10567,7 +10572,7 @@
       "Name": "In For The Kill",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 2093
+      "UsersEstimate": 2094
     },
     {
       "ID": "ACH_IN_MY_OWN_TIME",
@@ -10614,15 +10619,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 17445,
+      "Progressed": 17446,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-08-16T03:57:34.8125865+00:00",
-  "LastChanged_Achievements": "2023-08-23T19:03:40.73293+00:00",
+  "LastChanged_Achievements": "2023-08-23T20:03:13.1730573+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:14.8695583+00:00",
-  "LastUpdate_Ratings": "2023-08-23T18:58:35.3492268+00:00",
-  "LastUpdate_Achievements": "2023-08-23T19:03:40.7330056+00:00"
+  "LastUpdate_Ratings": "2023-08-23T19:58:11.1134224+00:00",
+  "LastUpdate_Achievements": "2023-08-23T20:03:13.1731409+00:00"
 }

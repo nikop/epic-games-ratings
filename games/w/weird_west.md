@@ -55,7 +55,7 @@ Number of Ratings: 125  (23.09.2022)
 | I Kicked a Bird and I Liked it | 0.90% | ~16 |
 | Explorer | 0.60% | ~11 |
 | End the world | 0.60% | ~11 |
-| Moon Hunter | 0.50% | ~9 |
+| Moon Hunter | 0.60% | ~11 |
 | Revenant | 0.50% | ~9 |
 | Dirt and Blame | 0.40% | ~7 |
 | Winter Has Come | 0.30% | ~5 |

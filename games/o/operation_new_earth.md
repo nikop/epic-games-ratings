@@ -5,18 +5,18 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | It's Good to have Allies | 31.00% | ~328 |
-| Defenses Online | 27.00% | ~285 |
+| Defenses Online | 28.00% | ~296 |
 | Facility Online | 23.00% | ~243 |
 | Corporal | 16.00% | ~169 |
+| Sergeant | 13.00% | ~137 |
 | Covert Operative | 13.00% | ~137 |
-| Sergeant | 12.00% | ~127 |
 | Lieutenant | 11.00% | ~116 |
+| On Target | 11.00% | ~116 |
 | Getting Deployment | 10.00% | ~106 |
 | Stocking Up | 10.00% | ~106 |
-| On Target | 10.00% | ~106 |
+| Fighting for Survival | 9.00% | ~95 |
 | Keeping Busy | 9.00% | ~95 |
 | Infantry Reporting | 9.00% | ~95 |
-| Fighting for Survival | 8.00% | ~85 |
 | Silver Competitor | 8.00% | ~85 |
 | Exterminator | 7.00% | ~74 |
 | Captain | 7.00% | ~74 |
@@ -24,8 +24,8 @@
 | Brothers in Arms | 5.00% | ~53 |
 | Know The Enemy | 4.00% | ~42 |
 | Player Betrayer | 4.00% | ~42 |
+| Silver Achiever | 4.00% | ~42 |
 | Moving On Up | 4.00% | ~42 |
-| Silver Achiever | 3.00% | ~32 |
 | Major | 3.00% | ~32 |
 | Gold Achiever | 2.00% | ~21 |
 | Advanced Warfare | 2.00% | ~21 |

@@ -3115,9 +3115,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 435689,
+  "EOS_Progressed": 435710,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2473,
+  "EOS_NewPlayers": 2479,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16970,6 +16970,11 @@
       "Time": "2023-08-23T19:03:26.9447586+00:00",
       "NumProgressed": 435689,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-23T20:02:21.858895+00:00",
+      "NumProgressed": 435710,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -17013,7 +17018,7 @@
       "Name": "Cinematic",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 2178
+      "UsersEstimate": 2179
     },
     {
       "ID": "ACH_DESIGNATED_DRIVER",
@@ -17245,7 +17250,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 21784
+      "UsersEstimate": 21786
     },
     {
       "ID": "ACH_WET_FEET",
@@ -17260,15 +17265,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 435689,
+      "Progressed": 435710,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-08-23T18:01:07.9879747+00:00",
-  "LastChanged_Achievements": "2023-08-23T19:03:26.9447577+00:00",
+  "LastChanged_Achievements": "2023-08-23T20:02:21.8588944+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:00.8075845+00:00",
-  "LastUpdate_Ratings": "2023-08-23T19:00:26.2004251+00:00",
-  "LastUpdate_Achievements": "2023-08-23T19:03:26.9448693+00:00"
+  "LastUpdate_Ratings": "2023-08-23T19:59:44.7605015+00:00",
+  "LastUpdate_Achievements": "2023-08-23T20:02:21.8590132+00:00"
 }

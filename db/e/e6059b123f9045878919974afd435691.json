@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 752,
+  "EOS_Progressed": 753,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1691,6 +1691,11 @@
       "Time": "2023-08-23T13:07:04.9521859+00:00",
       "NumProgressed": 752,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-23T20:03:07.970765+00:00",
+      "NumProgressed": 753,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1702,7 +1707,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -1774,7 +1779,7 @@
       "Name": "Capraphobia",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -1822,7 +1827,7 @@
       "Name": "Burnt Smell",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "BURN_ACHIEVEMENT_2",
@@ -1982,15 +1987,15 @@
       "Name": "Breaking Twigs",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Who You Gonna Call?",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 226
+      "UsersEstimate": 233
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -1998,15 +2003,15 @@
       "Name": "Decakill!",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
       "SetID": "9lcahn0",
       "Name": "Call The Winchester",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 75
     },
     {
       "ID": "KILLR_ACHIEVEMENT_5",
@@ -2078,7 +2083,7 @@
       "Name": "Hostage of the Elderly",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -2094,7 +2099,7 @@
       "Name": "Night Snack",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -2150,7 +2155,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -2229,14 +2234,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 752,
+      "Progressed": 753,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-08-23T19:03:34.4525184+00:00",
+  "LastChanged_Achievements": "2023-08-23T20:03:07.9707646+00:00",
   "LastUpdate_AppInfo": "2023-08-17T16:57:04.6677463+00:00",
-  "LastUpdate_Ratings": "2023-08-23T18:59:06.9849214+00:00",
-  "LastUpdate_Achievements": "2023-08-23T19:03:34.4525994+00:00"
+  "LastUpdate_Ratings": "2023-08-23T19:58:34.489279+00:00",
+  "LastUpdate_Achievements": "2023-08-23T20:03:07.9708461+00:00"
 }

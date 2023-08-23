@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 61.00% | ~201 |
-| Starting Skyward | 54.00% | ~178 |
-| Grime is Not Good | 49.00% | ~161 |
-| Floor Galore | 41.00% | ~135 |
-| Campaign Launch | 41.00% | ~135 |
-| Dinner Dash | 41.00% | ~135 |
-| Need a Consult | 38.00% | ~125 |
+| In the Black | 60.00% | ~199 |
+| Starting Skyward | 54.00% | ~179 |
+| Grime is Not Good | 49.00% | ~162 |
+| Floor Galore | 41.00% | ~136 |
+| Campaign Launch | 41.00% | ~136 |
+| Dinner Dash | 41.00% | ~136 |
+| Need a Consult | 37.00% | ~122 |
 | Upgrade Unlock | 37.00% | ~122 |
 | It's Technical | 37.00% | ~122 |
-| Delegate Maintenance | 35.00% | ~115 |
+| Delegate Maintenance | 34.00% | ~113 |
 | Proper Walls | 33.00% | ~109 |
-| Destination Destiny | 31.00% | ~102 |
+| Destination Destiny | 31.00% | ~103 |
 | Happy Tenants | 26.00% | ~86 |
 | Potent Potables | 26.00% | ~86 |
-| Smooth Service | 26.00% | ~86 |
+| Smooth Service | 25.00% | ~83 |
 | Your Prestige is Rising | 24.00% | ~79 |
 | Retail Revenue | 24.00% | ~79 |
-| Don't Feel a Loan | 22.00% | ~72 |
-| Lux Living | 21.00% | ~69 |
-| People Mover | 21.00% | ~69 |
-| Emporium Empire | 21.00% | ~69 |
+| Don't Feel a Loan | 22.00% | ~73 |
+| Lux Living | 21.00% | ~70 |
+| People Mover | 21.00% | ~70 |
+| Emporium Empire | 21.00% | ~70 |
 | Artfully Done | 20.00% | ~66 |
 | Leveled Up Shops | 20.00% | ~66 |
 | We Don't Need No Education | 20.00% | ~66 |
 | Rehab Expert | 19.00% | ~63 |
 | Get Electrified | 19.00% | ~63 |
-| Tasty Profits | 18.00% | ~59 |
+| Tasty Profits | 18.00% | ~60 |
 | Established Fame | 16.00% | ~53 |
-| Starred Dining | 16.00% | ~53 |
 | Cashflow Chief | 16.00% | ~53 |
-| Under One Roof | 15.00% | ~49 |
+| Under One Roof | 15.00% | ~50 |
+| Starred Dining | 15.00% | ~50 |
 | Smooth Operator | 14.00% | ~46 |
 | Boutique Benefits | 14.00% | ~46 |
 | Terrifically Trashed | 13.00% | ~43 |
@@ -45,9 +45,9 @@
 | Plaza Plan | 9.00% | ~30 |
 | Master of Puppets | 9.00% | ~30 |
 | Refined Palates | 9.00% | ~30 |
-| Phoning It In | 9.00% | ~30 |
 | First 100 Days | 8.00% | ~26 |
 | Water Features | 8.00% | ~26 |
+| Phoning It In | 8.00% | ~26 |
 | Careful Constructor | 7.00% | ~23 |
 | Meet Me at HQ | 7.00% | ~23 |
 | Maximum Reuse | 7.00% | ~23 |
@@ -58,10 +58,10 @@
 | Sky High Stature | 6.00% | ~20 |
 | Profound Proceeds | 6.00% | ~20 |
 | It's a Gas | 6.00% | ~20 |
-| Meet ADA/360 | 5.00% | ~16 |
-| Penthouse in the Sky | 5.00% | ~16 |
-| Baron of Business | 5.00% | ~16 |
-| Tuned In | 5.00% | ~16 |
+| Meet ADA/360 | 5.00% | ~17 |
+| Penthouse in the Sky | 5.00% | ~17 |
+| Baron of Business | 5.00% | ~17 |
+| Tuned In | 5.00% | ~17 |
 | Office Bigwigs | 4.00% | ~13 |
 | Decorator's Touch | 3.00% | ~10 |
 | Apartment Awareness | 3.00% | ~10 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 329 (Ranked 257)  
+Progressed: 331 (Ranked 257)  
 Completed: 0 (0.00%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 0 (0.00%) (Ranked 262)
 | 2023-08-17 | 326 | 0 |
 | 2023-08-20 | 327 | 0 |
 | 2023-08-21 | 328 | 0 |
-| 2023-08-23 | 329 | 0 |
+| 2023-08-23 | 331 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
