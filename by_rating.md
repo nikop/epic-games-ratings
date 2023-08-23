@@ -654,7 +654,7 @@
 | 650 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 0 | 514 |
 | 650 | [Good Company](games/g/good_company.md) | 4.44 | 0 | 514 |
 | 650 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.44 | 33 | 448 |
-| 650 | [SMITE](games/s/smite.md) | 4.44 | 4,179 | 79 |
+| 650 | [SMITE](games/s/smite.md) | 4.44 | 4,185 | 79 |
 | 650 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 577 | 184 |
 | 650 | [STG Football](games/s/stg_football.md) | 4.44 | 42 | 421 |
 | 650 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 0 | 514 |
@@ -708,7 +708,7 @@
 | 705 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.40 | 0 | 514 |
 | 705 | [Iron Harvest](games/i/iron_harvest.md) | 4.40 | 0 | 514 |
 | 705 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 0 | 514 |
-| 705 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 441 | 205 |
+| 705 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 442 | 205 |
 | 705 | [The Lion's Song](games/t/the_lion's_song.md) | 4.40 | 0 | 514 |
 | 711 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 0 | 514 |
 | 711 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.39 | 0 | 514 |
@@ -908,7 +908,7 @@
 | 905 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.12 | 0 | 514 |
 | 907 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.11 | 0 | 514 |
 | 908 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 88 | 353 |
-| 908 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,497 | 101 |
+| 908 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,499 | 101 |
 | 910 | [Fangs](games/f/fangs.md) | 4.09 | 0 | 514 |
 | 910 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 4.09 | 0 | 514 |
 | 910 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 0 | 514 |
