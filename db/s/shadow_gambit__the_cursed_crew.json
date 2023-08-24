@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 473,
+  "EOS_Progressed": 474,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 431,
   "EOS_NewCompleters": 0,
@@ -876,6 +876,11 @@
       "Time": "2023-08-24T11:04:25.8723856+00:00",
       "NumProgressed": 473,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-24T12:04:06.6369117+00:00",
+      "NumProgressed": 474,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -896,7 +901,7 @@
       "Name": "A New Journey",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "_03_FinishAct1",
@@ -918,9 +923,9 @@
       "ID": "_05_FinishAct2",
       "SetID": "8a1io5d",
       "Name": "The Gambit Has Begun",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 95
+      "UsersEstimate": 100
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -944,7 +949,7 @@
       "Name": "Swabbie",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "_09_Completion_20",
@@ -958,9 +963,9 @@
       "ID": "_10_Completion_30",
       "SetID": "8a1io5d",
       "Name": "Buccaneer",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 43
     },
     {
       "ID": "_11_Completion_40",
@@ -1040,7 +1045,7 @@
       "Name": "Fishy Fish",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -1054,9 +1059,9 @@
       "ID": "_22_CrewTale_FSH",
       "SetID": "8a1io5d",
       "Name": "Accursed Artifacts",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 19
     },
     {
       "ID": "_23_CrewTale_CNN",
@@ -1095,14 +1100,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 473,
+      "Progressed": 474,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-24T11:04:25.8723844+00:00",
+  "LastChanged_Achievements": "2023-08-24T12:04:06.6369111+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:01.7621403+00:00",
-  "LastUpdate_Ratings": "2023-08-24T11:00:12.4538192+00:00",
-  "LastUpdate_Achievements": "2023-08-24T11:04:25.8724115+00:00"
+  "LastUpdate_Ratings": "2023-08-24T12:00:06.2146778+00:00",
+  "LastUpdate_Achievements": "2023-08-24T12:04:06.6369362+00:00"
 }

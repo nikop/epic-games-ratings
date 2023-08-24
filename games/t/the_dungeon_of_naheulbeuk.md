@@ -6,19 +6,19 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 22.00% | ~47,632 |
-| Déjà vu | 2.00% | ~4,330 |
-| Where's that freaking Dwarf? | 2.00% | ~4,330 |
-| Sock! SOCK! | 2.00% | ~4,330 |
-| Alt+F4 | 2.00% | ~4,330 |
+| Sowwy! | 22.00% | ~47,636 |
+| Déjà vu | 2.00% | ~4,331 |
+| Where's that freaking Dwarf? | 2.00% | ~4,331 |
+| Sock! SOCK! | 2.00% | ~4,331 |
+| Alt+F4 | 2.00% | ~4,331 |
 | A beer, two curses, three companions | 1.00% | ~2,165 |
 | GG EZ | 1.00% | ~2,165 |
 | DM intervention | 1.00% | ~2,165 |
 | Speedrun | 1.00% | ~2,165 |
 | Fireproof Wizardess | 1.00% | ~2,165 |
 | Way of the Wimp | 0.90% | ~1,949 |
+| The plot thickens... At the tavern | 0.90% | ~1,949 |
 | Livin' in a dwarven paradise | 0.80% | ~1,732 |
-| The plot thickens... At the tavern | 0.80% | ~1,732 |
 | The demons' feast | 0.70% | ~1,516 |
 | The Great Library | 0.70% | ~1,516 |
 | Torture and Sensibility | 0.70% | ~1,516 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~217 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,511 (Ranked 56)  
+Progressed: 216,527 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,16 +180,16 @@ Completed: 2 (0.00%) (Ranked 262)
 | 2023-08-21 | 215,690 | 2 |
 | 2023-08-22 | 216,036 | 2 |
 | 2023-08-23 | 216,367 | 2 |
-| 2023-08-24 | 216,511 | 2 |
+| 2023-08-24 | 216,527 | 2 |
 ## Awards
 Max (Character Customization): 174  (Ranked 285)  
-Sum: 216 (Ranked 364)  
+Sum: 217 (Ranked 364)  
 Diff (max vs sum): -79  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 174 |
+| This game is Great for Beginners | 22 |
 | This game is Relaxing | 21 |
-| This game is Great for Beginners | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -305,3 +305,4 @@ Diff (max vs sum): -79
 | 2023-08-21 | 4.58 | - | 172 | 213 |
 | 2023-08-22 | 4.58 | - | 173 | 215 |
 | 2023-08-23 | 4.58 | - | 174 | 216 |
+| 2023-08-24 | 4.58 | - | 174 | 217 |

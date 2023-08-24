@@ -3278,10 +3278,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 13722,
       "NumberOfAwardsMax": 7046
+    },
+    {
+      "Time": "2023-08-24T11:59:20.6436932+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 13740,
+      "NumberOfAwardsMax": 7046
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13722,
+  "NumberOfAwards": 13740,
   "NumberOfAwardsMax": 7046,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3295,7 +3301,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 841
+      "Count": 852
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3319,7 +3325,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 756
+      "Count": 763
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3352,7 +3358,7 @@
       "Count": 752
     }
   ],
-  "EOS_Progressed": 1603892,
+  "EOS_Progressed": 1604021,
   "EOS_Completed": 523,
   "EOS_NewPlayers": 25795,
   "EOS_NewCompleters": 17,
@@ -12212,6 +12218,11 @@
       "Time": "2023-08-24T11:06:03.5319672+00:00",
       "NumProgressed": 1603892,
       "NumCompleted": 523
+    },
+    {
+      "Time": "2023-08-24T12:05:52.9258301+00:00",
+      "NumProgressed": 1604021,
+      "NumCompleted": 523
     }
   ],
   "TotalAchievements": 1328,
@@ -12279,7 +12290,7 @@
       "Name": "The Collector",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 12831
+      "UsersEstimate": 12832
     },
     {
       "ID": "armed_and_dangerous",
@@ -12295,7 +12306,7 @@
       "Name": "Would You Like Your Receipt?",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 12831
+      "UsersEstimate": 12832
     },
     {
       "ID": "armored_1",
@@ -13341,9 +13352,9 @@
       "ID": "brb_1",
       "SetID": "bkjdbk8",
       "Name": "Sweet Talk the Teller",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 1604
+      "UsersEstimate": 3208
     },
     {
       "ID": "brb_10",
@@ -13423,7 +13434,7 @@
       "Name": "I Want to Get Away",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 32078
+      "UsersEstimate": 32080
     },
     {
       "ID": "brooklyn_2",
@@ -13647,7 +13658,7 @@
       "Name": "Virus",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 16039
+      "UsersEstimate": 16040
     },
     {
       "ID": "cac_29",
@@ -16695,7 +16706,7 @@
       "Name": "Smooth Criminal",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 9623
+      "UsersEstimate": 9624
     },
     {
       "ID": "gorilla_1",
@@ -16839,7 +16850,7 @@
       "Name": "Guilty of Crime",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 16039
+      "UsersEstimate": 16040
     },
     {
       "ID": "halloween_1",
@@ -16975,7 +16986,7 @@
       "Name": "How Do You Like Me Now?",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 16039
+      "UsersEstimate": 16040
     },
     {
       "ID": "i_knew_what_i_was_doing_was_wrong",
@@ -17935,7 +17946,7 @@
       "Name": "No One Cared Who I Was...",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 16039
+      "UsersEstimate": 16040
     },
     {
       "ID": "no_turning_back",
@@ -17943,7 +17954,7 @@
       "Name": "No Turning Back",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 16039
+      "UsersEstimate": 16040
     },
     {
       "ID": "orange_1",
@@ -21575,7 +21586,7 @@
       "Name": "There is Always a First Time",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 8019
+      "UsersEstimate": 8020
     },
     {
       "ID": "trk_js_1",
@@ -22727,7 +22738,7 @@
       "Name": "Armed to the Teeth",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 12831
+      "UsersEstimate": 12832
     },
     {
       "ID": "wwh_1",
@@ -22831,7 +22842,7 @@
       "Name": "You Gotta Start Somewhere",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 16039
+      "UsersEstimate": 16040
     },
     {
       "ID": "you_shall_not_pass",
@@ -22846,22 +22857,22 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1603892,
+      "Progressed": 1604021,
       "Completed": 523
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1603892,
+      "Progressed": 1604021,
       "Completed": 31
     }
   ],
   "FirstSeen": "2023-06-08T18:57:07.8003815+00:00",
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
-  "LastChanged": "2023-08-24T06:59:30.5244503+00:00",
-  "LastChanged_Achievements": "2023-08-24T11:06:03.5319667+00:00",
+  "LastChanged": "2023-08-24T11:59:20.643693+00:00",
+  "LastChanged_Achievements": "2023-08-24T12:05:52.9258294+00:00",
   "LastUpdate_AppInfo": "2023-08-17T20:57:10.4408604+00:00",
-  "LastUpdate_Ratings": "2023-08-24T10:59:26.6207238+00:00",
-  "LastUpdate_Achievements": "2023-08-24T11:06:03.5477588+00:00"
+  "LastUpdate_Ratings": "2023-08-24T11:59:20.6436937+00:00",
+  "LastUpdate_Achievements": "2023-08-24T12:05:52.9415391+00:00"
 }

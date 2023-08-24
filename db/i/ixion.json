@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -266,9 +266,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3096,
+  "EOS_Progressed": 3097,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4656,6 +4656,11 @@
       "Time": "2023-08-23T21:07:20.4858464+00:00",
       "NumProgressed": 3096,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-24T12:07:05.7869061+00:00",
+      "NumProgressed": 3097,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -4771,7 +4776,7 @@
       "Name": "Space Society",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "ACH_BASE_24",
@@ -4819,7 +4824,7 @@
       "Name": "A Thousand Strong",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "ACH_BASE_3",
@@ -4867,7 +4872,7 @@
       "Name": "Ready for a New World",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "ACH_BASE_35",
@@ -4963,7 +4968,7 @@
       "Name": "Permanent Redesigns",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "ACH_BASE_49",
@@ -5122,13 +5127,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1278,
+      "Progressed": 1279,
       "Completed": 6
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3096,
+      "Progressed": 3097,
       "Completed": 0
     }
   ],
@@ -5136,8 +5141,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-08-19T11:00:48.8517492+00:00",
-  "LastChanged_Achievements": "2023-08-24T11:08:19.0450934+00:00",
+  "LastChanged_Achievements": "2023-08-24T12:07:05.7869055+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:49.8768726+00:00",
-  "LastUpdate_Ratings": "2023-08-24T11:00:39.9744685+00:00",
-  "LastUpdate_Achievements": "2023-08-24T11:08:19.0451845+00:00"
+  "LastUpdate_Ratings": "2023-08-24T12:00:32.2883695+00:00",
+  "LastUpdate_Achievements": "2023-08-24T12:07:05.7869916+00:00"
 }

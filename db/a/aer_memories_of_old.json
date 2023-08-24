@@ -380,9 +380,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18531,
+  "EOS_Progressed": 18532,
   "EOS_Completed": 374,
-  "EOS_NewPlayers": 520,
+  "EOS_NewPlayers": 516,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 2.02,
   "EosHistory": [
@@ -13780,6 +13780,11 @@
       "Time": "2023-08-24T10:07:03.4870247+00:00",
       "NumProgressed": 18531,
       "NumCompleted": 374
+    },
+    {
+      "Time": "2023-08-24T12:06:14.0266137+00:00",
+      "NumProgressed": 18532,
+      "NumCompleted": 374
     }
   ],
   "TotalAchievements": 20,
@@ -13839,7 +13844,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1482
+      "UsersEstimate": 1483
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -13950,15 +13955,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 18531,
+      "Progressed": 18532,
       "Completed": 374
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-08-12T01:39:46.4098224+00:00",
-  "LastChanged_Achievements": "2023-08-24T11:06:25.4217852+00:00",
+  "LastChanged_Achievements": "2023-08-24T12:06:14.026613+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:54.5287855+00:00",
-  "LastUpdate_Ratings": "2023-08-24T10:58:19.5262182+00:00",
-  "LastUpdate_Achievements": "2023-08-24T11:06:25.4218812+00:00"
+  "LastUpdate_Ratings": "2023-08-24T11:58:08.3376039+00:00",
+  "LastUpdate_Achievements": "2023-08-24T12:06:14.0267009+00:00"
 }

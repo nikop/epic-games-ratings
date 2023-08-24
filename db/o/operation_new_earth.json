@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1066,
+  "EOS_Progressed": 1068,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3731,6 +3731,11 @@
       "Time": "2023-08-24T10:04:13.7309081+00:00",
       "NumProgressed": 1066,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-24T12:03:49.7720174+00:00",
+      "NumProgressed": 1068,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -3846,7 +3851,7 @@
       "Name": "Facility Online",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -3918,7 +3923,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -4045,14 +4050,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1066,
+      "Progressed": 1068,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-24T11:04:08.630833+00:00",
+  "LastChanged_Achievements": "2023-08-24T12:03:49.7720165+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:20.8459338+00:00",
-  "LastUpdate_Ratings": "2023-08-24T10:58:48.0800116+00:00",
-  "LastUpdate_Achievements": "2023-08-24T11:04:08.6309131+00:00"
+  "LastUpdate_Ratings": "2023-08-24T11:58:41.4042962+00:00",
+  "LastUpdate_Achievements": "2023-08-24T12:03:49.7720698+00:00"
 }

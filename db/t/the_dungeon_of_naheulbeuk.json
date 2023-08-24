@@ -676,10 +676,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 216,
       "NumberOfAwardsMax": 174
+    },
+    {
+      "Time": "2023-08-24T12:02:06.2470991+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 217,
+      "NumberOfAwardsMax": 174
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 216,
+  "NumberOfAwards": 217,
   "NumberOfAwardsMax": 174,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -699,12 +705,12 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 21
+      "Count": 22
     }
   ],
-  "EOS_Progressed": 216511,
+  "EOS_Progressed": 216527,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3017,
+  "EOS_NewPlayers": 3009,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8107,6 +8113,11 @@
       "Time": "2023-08-24T11:03:10.9124497+00:00",
       "NumProgressed": 216511,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-24T12:02:23.6417874+00:00",
+      "NumProgressed": 216527,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -8166,7 +8177,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4330
+      "UsersEstimate": 4331
     },
     {
       "ID": "Chapter2",
@@ -8180,9 +8191,9 @@
       "ID": "Chapter3",
       "SetID": "50chcgj",
       "Name": "The plot thickens... At the tavern",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1732
+      "UsersEstimate": 1949
     },
     {
       "ID": "Chapter4",
@@ -8518,7 +8529,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4330
+      "UsersEstimate": 4331
     },
     {
       "ID": "DwarfElf15Support",
@@ -8550,7 +8561,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4330
+      "UsersEstimate": 4331
     },
     {
       "ID": "ElfEpic",
@@ -8566,7 +8577,7 @@
       "Name": "Sowwy!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 47632
+      "UsersEstimate": 47636
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -8614,7 +8625,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4330
+      "UsersEstimate": 4331
     },
     {
       "ID": "FollowBraztok",
@@ -8821,21 +8832,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 216511,
+      "Progressed": 216527,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 216511,
+      "Progressed": 216527,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2023-08-23T23:03:04.5779214+00:00",
-  "LastChanged_Achievements": "2023-08-24T11:03:10.9124492+00:00",
+  "LastChanged": "2023-08-24T12:02:06.2470989+00:00",
+  "LastChanged_Achievements": "2023-08-24T12:02:23.6417862+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:36.4163589+00:00",
-  "LastUpdate_Ratings": "2023-08-24T11:01:05.112404+00:00",
-  "LastUpdate_Achievements": "2023-08-24T11:03:10.9126224+00:00"
+  "LastUpdate_Ratings": "2023-08-24T12:02:06.2470995+00:00",
+  "LastUpdate_Achievements": "2023-08-24T12:02:23.6419349+00:00"
 }

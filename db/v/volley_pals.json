@@ -2,9 +2,9 @@
   "ID": "18ba5ade23ee4b49a65d84712ef4c895",
   "Name": "Volley Pals",
   "ProductSlug": "volley-pals-0120b4",
-  "Ranking_EOS_Progress": 329,
+  "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 10,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-05-19T01:00:00+00:00",
@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 103,
+  "EOS_Progressed": 104,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 24.27,
+  "EOS_Completed_Percentage": 24.04,
   "EosHistory": [
     {
       "Time": "2023-05-19T19:23:39.9762126+00:00",
@@ -534,6 +534,11 @@
       "Time": "2023-08-24T02:19:40.0737243+00:00",
       "NumProgressed": 103,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-08-24T12:06:22.0306306+00:00",
+      "NumProgressed": 104,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 10,
@@ -545,13 +550,13 @@
       "Name": "Beach",
       "Percentage": 93,
       "XP": 100,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "LEVEL_1",
       "SetID": "1fnbp5h",
       "Name": "Library",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 100,
       "UsersEstimate": 71
     },
@@ -575,7 +580,7 @@
       "ID": "LEVEL_4",
       "SetID": "1fnbp5h",
       "Name": "Science Laboratory",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 100,
       "UsersEstimate": 44
     },
@@ -624,13 +629,13 @@
     {
       "ID": "1fnbp5h",
       "IsBase": true,
-      "Progressed": 103,
+      "Progressed": 104,
       "Completed": 25
     }
   ],
   "FirstSeenAchievements": "2023-05-02T15:59:43.451096+00:00",
-  "LastChanged_Achievements": "2023-08-24T11:06:33.666639+00:00",
+  "LastChanged_Achievements": "2023-08-24T12:06:22.0306299+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:45.9970315+00:00",
-  "LastUpdate_Ratings": "2023-08-24T10:59:35.4119249+00:00",
-  "LastUpdate_Achievements": "2023-08-24T11:06:33.6666507+00:00"
+  "LastUpdate_Ratings": "2023-08-24T11:59:28.46281+00:00",
+  "LastUpdate_Achievements": "2023-08-24T12:06:22.0306421+00:00"
 }

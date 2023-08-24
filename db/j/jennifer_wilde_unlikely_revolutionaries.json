@@ -2,9 +2,9 @@
   "ID": "e58f8f670f3243f690ed3c89cba89c9e",
   "Name": "Jennifer Wilde Unlikely Revolutionaries",
   "ProductSlug": "jennifer-wilde-unlikely-revolutionaries-7eda5e",
-  "Ranking_EOS_Progress": 366,
-  "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 349,
+  "Ranking_EOS_Progress": 365,
+  "Ranking_EOS_Completed": 50,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-06-09T11:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 56,
+  "EOS_Progressed": 57,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.36,
+  "EOS_Completed_Percentage": 5.26,
   "EosHistory": [
     {
       "Time": "2023-05-23T11:00:16.5750246+00:00",
@@ -296,6 +296,11 @@
       "Time": "2023-08-17T15:02:15.3163221+00:00",
       "NumProgressed": 56,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-24T12:03:56.2238916+00:00",
+      "NumProgressed": 57,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 10,
@@ -321,7 +326,7 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "1ejicho",
       "Name": "I See Dead People",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 100,
       "UsersEstimate": 15
     },
@@ -329,7 +334,7 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "1ejicho",
       "Name": "Bedtime Storyteller",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 100,
       "UsersEstimate": 11
     },
@@ -361,7 +366,7 @@
       "ID": "NEW_ACHIEVEMENT_1_7",
       "SetID": "1ejicho",
       "Name": "Card Sharp",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 100,
       "UsersEstimate": 7
     },
@@ -386,14 +391,14 @@
     {
       "ID": "1ejicho",
       "IsBase": true,
-      "Progressed": 56,
+      "Progressed": 57,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-06-11T16:59:26.254378+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:12.1227021+00:00",
-  "LastChanged_Achievements": "2023-08-24T11:04:15.2502582+00:00",
+  "LastChanged_Achievements": "2023-08-24T12:03:56.2238907+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:39.8055213+00:00",
-  "LastUpdate_Ratings": "2023-08-24T10:57:31.7625786+00:00",
-  "LastUpdate_Achievements": "2023-08-24T11:04:15.2502729+00:00"
+  "LastUpdate_Ratings": "2023-08-24T11:57:23.9034905+00:00",
+  "LastUpdate_Achievements": "2023-08-24T12:03:56.2239032+00:00"
 }

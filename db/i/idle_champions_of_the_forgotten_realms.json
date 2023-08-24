@@ -2,7 +2,7 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 925,
+  "Ranking_Rating": 924,
   "Ranking_Popularity": 68,
   "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 53,
@@ -6046,9 +6046,9 @@
       "Count": 3366
     }
   ],
-  "EOS_Progressed": 224518,
+  "EOS_Progressed": 224534,
   "EOS_Completed": 2210,
-  "EOS_NewPlayers": 1851,
+  "EOS_NewPlayers": 1853,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -19811,6 +19811,11 @@
       "Time": "2023-08-24T11:06:26.8051895+00:00",
       "NumProgressed": 224518,
       "NumCompleted": 2210
+    },
+    {
+      "Time": "2023-08-24T12:06:15.9533256+00:00",
+      "NumProgressed": 224534,
+      "NumCompleted": 2210
     }
   ],
   "TotalAchievements": 516,
@@ -19822,7 +19827,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4490
+      "UsersEstimate": 4491
     },
     {
       "ID": "objective_completed_10",
@@ -23949,21 +23954,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 190792,
+      "Progressed": 190808,
       "Completed": 3300
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 224518,
+      "Progressed": 224534,
       "Completed": 2210
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-24T08:00:27.9495742+00:00",
-  "LastChanged_Achievements": "2023-08-24T11:06:26.805189+00:00",
+  "LastChanged_Achievements": "2023-08-24T12:06:15.953325+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:12.3267162+00:00",
-  "LastUpdate_Ratings": "2023-08-24T11:00:19.1996005+00:00",
-  "LastUpdate_Achievements": "2023-08-24T11:06:26.8079307+00:00"
+  "LastUpdate_Ratings": "2023-08-24T12:00:14.7764058+00:00",
+  "LastUpdate_Achievements": "2023-08-24T12:06:15.9560461+00:00"
 }

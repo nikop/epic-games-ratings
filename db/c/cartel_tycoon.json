@@ -6,8 +6,8 @@
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 224,
-  "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_Completed": 161,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -280,11 +280,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 533,
+  "EOS_Progressed": 534,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.38,
+  "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.4589703+00:00",
@@ -1525,6 +1525,11 @@
       "Time": "2023-08-20T21:05:50.7907153+00:00",
       "NumProgressed": 533,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-24T12:04:53.0045151+00:00",
+      "NumProgressed": 534,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 19,
@@ -1536,7 +1541,7 @@
       "Name": "Safe Pair of Hands",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "cool-shirts",
@@ -1558,15 +1563,15 @@
       "ID": "dont-miss-calls",
       "SetID": "bed33dd",
       "Name": "Didn\u0027t Miss A Single One",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 240
+      "UsersEstimate": 246
     },
     {
       "ID": "female-conqueror",
       "SetID": "bed33dd",
       "Name": "Iron Lady",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 100,
       "UsersEstimate": 4
     },
@@ -1576,7 +1581,7 @@
       "Name": "That was base",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "hire-lieutenant",
@@ -1584,7 +1589,7 @@
       "Name": "Our Man",
       "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "kill-lieutenants",
@@ -1624,7 +1629,7 @@
       "Name": "Bad Trip",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "rename-lieutenant",
@@ -1672,7 +1677,7 @@
       "Name": "Take-Off",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "use-submarine",
@@ -1687,15 +1692,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 533,
+      "Progressed": 534,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-08-24T11:05:13.3400464+00:00",
+  "LastChanged_Achievements": "2023-08-24T12:04:53.0045143+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:20.196846+00:00",
-  "LastUpdate_Ratings": "2023-08-24T10:58:25.7846937+00:00",
-  "LastUpdate_Achievements": "2023-08-24T11:05:13.3400693+00:00"
+  "LastUpdate_Ratings": "2023-08-24T11:58:16.6502665+00:00",
+  "LastUpdate_Achievements": "2023-08-24T12:04:53.0045383+00:00"
 }
