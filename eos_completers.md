@@ -52,7 +52,7 @@
 | 50 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.26% |
 | 51 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.13% |
 | 52 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.09% |
-| 53 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.78% |
+| 53 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.77% |
 | 54 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 4.76% |
 | 55 | [Bugsnax](games/b/bugsnax.md) | 4.73% |
 | 56 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
@@ -78,10 +78,10 @@
 | 76 | [Monster Harvest](games/m/monster_harvest.md) | 2.94% |
 | 77 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 78 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.80% |
-| 79 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.78% |
 | 79 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.78% |
-| 81 | [Destiny 2](games/d/destiny_2.md) | 2.74% |
-| 82 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
+| 80 | [Destiny 2](games/d/destiny_2.md) | 2.74% |
+| 81 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
+| 82 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.70% |
 | 83 | [The Bunker](games/t/the_bunker.md) | 2.61% |
 | 84 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.59% |
 | 84 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.59% |
