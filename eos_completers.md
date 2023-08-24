@@ -9,7 +9,7 @@
 | 7 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
 | 8 | [Overloop](games/o/overloop.md) | 25.00% |
 | 9 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 10 | [Volley Pals](games/v/volley_pals.md) | 24.27% |
+| 10 | [Volley Pals](games/v/volley_pals.md) | 24.04% |
 | 11 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 22.81% |
 | 12 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.46% |
 | 13 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
@@ -47,9 +47,9 @@
 | 45 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 46 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 47 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.88% |
-| 48 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.36% |
 | 48 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.36% |
-| 50 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.33% |
+| 49 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.33% |
+| 50 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.26% |
 | 51 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.13% |
 | 52 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.06% |
 | 53 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.78% |
@@ -73,9 +73,9 @@
 | 71 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.17% |
 | 72 | [HordeCore](games/h/hordecore.md) | 3.15% |
 | 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.13% |
-| 74 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 3.05% |
-| 75 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.04% |
-| 76 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.03% |
+| 74 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.04% |
+| 75 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.03% |
+| 76 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 3.00% |
 | 77 | [Monster Harvest](games/m/monster_harvest.md) | 2.94% |
 | 78 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 79 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.80% |
@@ -159,10 +159,10 @@
 | 157 | [Tails of Iron](games/t/tails_of_iron.md) | 0.43% |
 | 158 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.41% |
 | 159 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.39% |
-| 160 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.38% |
 | 160 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
-| 162 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.37% |
-| 162 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
+| 161 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.37% |
+| 161 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.37% |
+| 161 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 164 | [Wildermyth](games/w/wildermyth.md) | 0.36% |
 | 165 | [The Surge](games/t/the_surge.md) | 0.35% |
 | 165 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.35% |
@@ -191,8 +191,8 @@
 | 189 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.20% |
 | 190 | [RAILGRADE](games/r/railgrade.md) | 0.19% |
 | 191 | [Going Medieval](games/g/going_medieval.md) | 0.18% |
+| 191 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.18% |
 | 191 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.18% |
-| 193 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.17% |
 | 194 | [BLACKTAIL](games/b/blacktail.md) | 0.16% |
 | 194 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
 | 194 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
@@ -556,4 +556,4 @@
 | 262 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 262 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 262 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,108 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,109 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
