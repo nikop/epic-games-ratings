@@ -5,10 +5,10 @@
   "Ranking_Rating": 238,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
-  "Ranking_EOS_Progress": 220,
+  "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -2248,9 +2248,9 @@
       "ID": "MQ03_5",
       "SetID": "bbing49",
       "Name": "A Method To His Madness",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 40,
-      "UsersEstimate": 328
+      "UsersEstimate": 334
     },
     {
       "ID": "MQ04_1",
@@ -2352,9 +2352,9 @@
       "ID": "MQ07_2",
       "SetID": "bbing49",
       "Name": "At Wits\u0027 End",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 280
+      "UsersEstimate": 286
     },
     {
       "ID": "MQ08_1",
@@ -2401,8 +2401,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-08-14T02:12:32.7608826+00:00",
-  "LastChanged_Achievements": "2023-08-24T15:04:21.2344569+00:00",
+  "LastChanged_Achievements": "2023-08-24T16:04:48.0540718+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:48.2303793+00:00",
-  "LastUpdate_Ratings": "2023-08-24T14:59:25.6382375+00:00",
-  "LastUpdate_Achievements": "2023-08-24T15:04:21.2344871+00:00"
+  "LastUpdate_Ratings": "2023-08-24T16:00:09.3809937+00:00",
+  "LastUpdate_Achievements": "2023-08-24T16:04:48.0541286+00:00"
 }

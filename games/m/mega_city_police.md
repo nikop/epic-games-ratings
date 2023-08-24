@@ -32,7 +32,7 @@
 | Knife Juggler | 0.00% | ~0 |
 | Overthrow The Crown | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31 (Ranked 402)  
+Progressed: 31 (Ranked 403)  
 Completed: 0 (0.00%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |

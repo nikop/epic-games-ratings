@@ -4,8 +4,8 @@
   "ProductSlug": "they-always-run-965bb3",
   "Ranking_EOS_Progress": 558,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 352,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 351,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-10-20T17:00:00+00:00",
     "PcReleaseDate": "2021-10-20T17:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:03.4841752+00:00",
   "LastChanged": "2023-03-31T05:58:03.4841753+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:19.6091795+00:00",
-  "LastUpdate_Ratings": "2023-08-24T14:58:38.8091428+00:00",
-  "LastUpdate_Achievements": "2023-08-24T15:07:04.9953198+00:00"
+  "LastUpdate_Ratings": "2023-08-24T15:59:12.1776392+00:00",
+  "LastUpdate_Achievements": "2023-08-24T16:07:25.1550687+00:00"
 }

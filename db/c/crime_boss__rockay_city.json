@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 202,
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -3132,7 +3132,7 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 72275,
+  "EOS_Progressed": 72277,
   "EOS_Completed": 41,
   "EOS_NewPlayers": 328,
   "EOS_NewCompleters": 1,
@@ -16282,6 +16282,11 @@
       "Time": "2023-08-24T15:07:06.4864229+00:00",
       "NumProgressed": 72275,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-08-24T16:07:26.6472114+00:00",
+      "NumProgressed": 72277,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 37,
@@ -16365,7 +16370,7 @@
       "Name": "Savvy Seeker",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 4336
+      "UsersEstimate": 4337
     },
     {
       "ID": "ACH_0040",
@@ -16437,7 +16442,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 46979
+      "UsersEstimate": 46980
     },
     {
       "ID": "ACH_0210",
@@ -16445,7 +16450,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 53484
+      "UsersEstimate": 53485
     },
     {
       "ID": "ACH_0211",
@@ -16461,7 +16466,7 @@
       "Name": "Too Old for This",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 34692
+      "UsersEstimate": 34693
     },
     {
       "ID": "ACH_0300",
@@ -16509,7 +16514,7 @@
       "Name": "Case Closed",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 25296
+      "UsersEstimate": 25297
     },
     {
       "ID": "ACH_0420",
@@ -16525,7 +16530,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 25296
+      "UsersEstimate": 25297
     },
     {
       "ID": "ACH_0431",
@@ -16541,7 +16546,7 @@
       "Name": "True Player",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 13732
+      "UsersEstimate": 13733
     },
     {
       "ID": "ACH_0450",
@@ -16588,22 +16593,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 72275,
+      "Progressed": 72277,
       "Completed": 41
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 622,
-      "Completed": 622
+      "Progressed": 624,
+      "Completed": 624
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-08-24T14:58:02.4279265+00:00",
-  "LastChanged_Achievements": "2023-08-24T15:07:06.4864221+00:00",
+  "LastChanged_Achievements": "2023-08-24T16:07:26.6472106+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:48.5211502+00:00",
-  "LastUpdate_Ratings": "2023-08-24T14:58:02.4279271+00:00",
-  "LastUpdate_Achievements": "2023-08-24T15:07:06.4865295+00:00"
+  "LastUpdate_Ratings": "2023-08-24T15:58:28.4617514+00:00",
+  "LastUpdate_Achievements": "2023-08-24T16:07:26.6473218+00:00"
 }

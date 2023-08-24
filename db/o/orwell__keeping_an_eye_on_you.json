@@ -2,20 +2,20 @@
   "ID": "750dfadbde8445f980601e84434359c5",
   "Name": "Orwell: Keeping an Eye on You",
   "ProductSlug": "orwell-keeping-an-eye-on-you",
-  "Ranking_Rating": 615,
+  "Ranking_Rating": 624,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 558,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 352,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 351,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-03-18T15:00:00+00:00",
     "PcReleaseDate": "2016-10-27T15:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.47,
+  "Rating": 4.46,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:33.0220476+00:00",
@@ -88,6 +88,12 @@
       "Rating": 4.47,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-08-24T15:58:49.0577387+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -106,8 +112,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:24.201573+00:00",
   "FirstSeenRating": "2023-03-31T05:57:33.0220472+00:00",
-  "LastChanged": "2023-08-22T02:59:13.752453+00:00",
+  "LastChanged": "2023-08-24T15:58:49.0577384+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:05.9369618+00:00",
-  "LastUpdate_Ratings": "2023-08-24T14:58:23.7839695+00:00",
-  "LastUpdate_Achievements": "2023-08-24T15:06:08.6817581+00:00"
+  "LastUpdate_Ratings": "2023-08-24T15:58:49.0577394+00:00",
+  "LastUpdate_Achievements": "2023-08-24T16:06:48.1880191+00:00"
 }

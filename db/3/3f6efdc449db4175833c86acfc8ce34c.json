@@ -3,8 +3,8 @@
   "Name": "Aya \u0026 Naya",
   "ProductSlug": "aya-and-naya-b7791e",
   "Ranking_EOS_Progress": 228,
-  "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 76,
+  "Ranking_EOS_Completed": 72,
+  "Ranking_EOS_NewPlayers": 77,
   "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2023-08-17T20:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 507,
+  "EOS_Progressed": 510,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 503,
+  "EOS_NewPlayers": 506,
   "EOS_NewCompleters": 16,
-  "EOS_Completed_Percentage": 3.16,
+  "EOS_Completed_Percentage": 3.14,
   "EosHistory": [
     {
       "Time": "2023-08-08T23:02:04.1783243+00:00",
@@ -751,6 +751,11 @@
       "Time": "2023-08-24T15:04:31.5328942+00:00",
       "NumProgressed": 507,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-08-24T16:04:58.2419101+00:00",
+      "NumProgressed": 510,
+      "NumCompleted": 16
     }
   ],
   "AchievementsAdded": "2023-08-08T22:02:18.1743145+00:00",
@@ -763,7 +768,7 @@
       "Name": "Played!",
       "Percentage": 84,
       "XP": 200,
-      "UsersEstimate": 426
+      "UsersEstimate": 428
     },
     {
       "ID": "Mission2",
@@ -771,7 +776,7 @@
       "Name": "Mission 1 clear",
       "Percentage": 39,
       "XP": 200,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "Mission3",
@@ -779,7 +784,7 @@
       "Name": "Mission 2 clear",
       "Percentage": 28,
       "XP": 200,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "Mission4",
@@ -787,7 +792,7 @@
       "Name": "Mission 3 clear",
       "Percentage": 7,
       "XP": 200,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "Mission5",
@@ -795,21 +800,21 @@
       "Name": "Finished!",
       "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     }
   ],
   "AchievementSets": [
     {
       "ID": "6igjng7",
       "IsBase": true,
-      "Progressed": 507,
+      "Progressed": 510,
       "Completed": 16
     }
   ],
   "FirstSeen": "2023-08-19T18:58:05.6794692+00:00",
   "FirstSeenAchievements": "2023-08-08T21:02:12.6548497+00:00",
-  "LastChanged_Achievements": "2023-08-24T15:04:31.5328937+00:00",
+  "LastChanged_Achievements": "2023-08-24T16:04:58.2419092+00:00",
   "LastUpdate_AppInfo": "2023-08-21T08:57:22.6470058+00:00",
-  "LastUpdate_Ratings": "2023-08-24T14:58:32.9091154+00:00",
-  "LastUpdate_Achievements": "2023-08-24T15:04:31.5329086+00:00"
+  "LastUpdate_Ratings": "2023-08-24T15:59:05.8821245+00:00",
+  "LastUpdate_Achievements": "2023-08-24T16:04:58.241929+00:00"
 }

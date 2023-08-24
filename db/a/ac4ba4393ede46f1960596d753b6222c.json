@@ -4,8 +4,8 @@
   "ProductSlug": "venatur-dca635",
   "Ranking_EOS_Progress": 558,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 352,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 351,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-21T05:57:18.7011626+00:00",
-  "LastUpdate_Ratings": "2023-08-24T14:59:06.0325361+00:00",
-  "LastUpdate_Achievements": "2023-08-24T15:03:56.9381859+00:00"
+  "LastUpdate_Ratings": "2023-08-24T15:59:48.306684+00:00",
+  "LastUpdate_Achievements": "2023-08-24T16:04:22.2906029+00:00"
 }

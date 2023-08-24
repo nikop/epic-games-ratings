@@ -51,7 +51,7 @@ Rating: 4.49 (Ranked 580)
 | Chalk It Up To Experience | 0.80% | ~25 |
 | This Ain't No Picnic | 0.70% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,182 (Ranked 155)  
+Progressed: 3,182 (Ranked 156)  
 Completed: 3 (0.09%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |

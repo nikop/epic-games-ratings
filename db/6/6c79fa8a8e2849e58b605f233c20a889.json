@@ -2,10 +2,10 @@
   "ID": "6c79fa8a8e2849e58b605f233c20a889",
   "Name": "Feud",
   "ProductSlug": "feud-19b141",
-  "Ranking_EOS_Progress": 166,
+  "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2374,
+  "EOS_Progressed": 2375,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -5161,6 +5161,11 @@
       "Time": "2023-08-24T14:06:01.2097191+00:00",
       "NumProgressed": 2374,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-24T16:05:17.1989732+00:00",
+      "NumProgressed": 2375,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -5196,7 +5201,7 @@
       "Name": "Whoops",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "CONQUEROR",
@@ -5236,7 +5241,7 @@
       "Name": "Apprentice",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "FEUD_GRANDMASTER",
@@ -5260,7 +5265,7 @@
       "Name": "Glove Slap!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "GONNA_FLY_NOW",
@@ -5276,7 +5281,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1424
+      "UsersEstimate": 1425
     },
     {
       "ID": "GUARD_MAKER",
@@ -5316,7 +5321,7 @@
       "Name": "Chief Physician",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "REGICIDE_MASTER",
@@ -5347,14 +5352,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2374,
+      "Progressed": 2375,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-08-24T15:04:50.1038011+00:00",
+  "LastChanged_Achievements": "2023-08-24T16:05:17.1989727+00:00",
   "LastUpdate_AppInfo": "2023-08-22T22:57:06.3443756+00:00",
-  "LastUpdate_Ratings": "2023-08-24T14:59:18.4758005+00:00",
-  "LastUpdate_Achievements": "2023-08-24T15:04:50.1038476+00:00"
+  "LastUpdate_Ratings": "2023-08-24T16:00:01.7349934+00:00",
+  "LastUpdate_Achievements": "2023-08-24T16:05:17.1990257+00:00"
 }

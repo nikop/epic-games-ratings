@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 375,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -495,7 +495,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14762,
+  "EOS_Progressed": 14763,
   "EOS_Completed": 110,
   "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 1,
@@ -8745,6 +8745,11 @@
       "Time": "2023-08-24T15:05:17.1836903+00:00",
       "NumProgressed": 14762,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2023-08-24T16:05:44.190982+00:00",
+      "NumProgressed": 14763,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 41,
@@ -8796,7 +8801,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4871
+      "UsersEstimate": 4872
     },
     {
       "ID": "tpote_achievement_15",
@@ -8868,7 +8873,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2952
+      "UsersEstimate": 2953
     },
     {
       "ID": "tpote_achievement_23",
@@ -8892,7 +8897,7 @@
       "Name": "Revenge",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "tpote_achievement_26",
@@ -8980,7 +8985,7 @@
       "Name": "Self-defense",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "tpote_achievement_36",
@@ -9004,7 +9009,7 @@
       "Name": "Countess Aliena",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "tpote_achievement_39",
@@ -9020,7 +9025,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 6052
+      "UsersEstimate": 6053
     },
     {
       "ID": "tpote_achievement_40",
@@ -9083,15 +9088,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14762,
+      "Progressed": 14763,
       "Completed": 110
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-08-03T13:08:30.3350415+00:00",
-  "LastChanged_Achievements": "2023-08-24T15:05:17.1836898+00:00",
+  "LastChanged_Achievements": "2023-08-24T16:05:44.1909812+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:51.0435439+00:00",
-  "LastUpdate_Ratings": "2023-08-24T14:58:05.6118187+00:00",
-  "LastUpdate_Achievements": "2023-08-24T15:05:17.1837724+00:00"
+  "LastUpdate_Ratings": "2023-08-24T15:58:31.9561967+00:00",
+  "LastUpdate_Achievements": "2023-08-24T16:05:44.1910887+00:00"
 }

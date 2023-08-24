@@ -11,16 +11,16 @@ Rating: 4.88 (Ranked 19)
 | Cream of the Crop | 10.00% | ~397 |
 | Who put gears in there? | 10.00% | ~397 |
 | Thanks for the free chip, Peppermint! | 9.00% | ~357 |
-| You got this, Peppermint? | 8.00% | ~318 |
+| You got this, Peppermint? | 9.00% | ~357 |
 | Perfect Parry | 8.00% | ~318 |
 | Alright, that felt AWESOME! | 8.00% | ~318 |
 | This will cost you big time | 7.00% | ~278 |
 | I play my own way! | 7.00% | ~278 |
+| Z-shielding's got nothing on us! | 7.00% | ~278 |
 | Uh, they were broken when I got here | 7.00% | ~278 |
 | I look cool. But I can look COOLER. | 7.00% | ~278 |
 | The Negotiator | 6.00% | ~238 |
 | Whoa! There's ANOTHER health bar!? | 6.00% | ~238 |
-| Z-shielding's got nothing on us! | 6.00% | ~238 |
 | Kissing the sky! | 6.00% | ~238 |
 | Does that say weakpoint? | 6.00% | ~238 |
 | Headliner | 5.00% | ~199 |
@@ -77,7 +77,7 @@ Rating: 4.88 (Ranked 19)
 | Voices from within | 0.10% | ~2 |
 | Low budget finish | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,971 (Ranked 149)  
+Progressed: 3,972 (Ranked 149)  
 Completed: 7 (0.18%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 7 (0.18%) (Ranked 191)
 | 2023-08-21 | 3,959 | 7 |
 | 2023-08-22 | 3,963 | 7 |
 | 2023-08-23 | 3,967 | 7 |
-| 2023-08-24 | 3,971 | 7 |
+| 2023-08-24 | 3,972 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

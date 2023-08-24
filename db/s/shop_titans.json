@@ -5722,9 +5722,9 @@
       "Count": 3737
     }
   ],
-  "EOS_Progressed": 135009,
+  "EOS_Progressed": 135012,
   "EOS_Completed": 138,
-  "EOS_NewPlayers": 358,
+  "EOS_NewPlayers": 359,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -18612,6 +18612,11 @@
       "Time": "2023-08-24T13:10:51.402568+00:00",
       "NumProgressed": 135009,
       "NumCompleted": 138
+    },
+    {
+      "Time": "2023-08-24T16:06:55.9658613+00:00",
+      "NumProgressed": 135012,
+      "NumCompleted": 138
     }
   ],
   "TotalAchievements": 112,
@@ -19373,9 +19378,9 @@
       "ID": "rareres02",
       "SetID": "anfd17p",
       "Name": "Treasure Trove",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 405
     },
     {
       "ID": "rareres03",
@@ -19518,15 +19523,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135009,
+      "Progressed": 135012,
       "Completed": 138
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-24T04:01:08.7153208+00:00",
-  "LastChanged_Achievements": "2023-08-24T15:06:16.1550848+00:00",
+  "LastChanged_Achievements": "2023-08-24T16:06:55.9658606+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:50.7489496+00:00",
-  "LastUpdate_Ratings": "2023-08-24T15:00:36.9322289+00:00",
-  "LastUpdate_Achievements": "2023-08-24T15:06:16.1553156+00:00"
+  "LastUpdate_Ratings": "2023-08-24T16:01:21.640099+00:00",
+  "LastUpdate_Achievements": "2023-08-24T16:06:55.9663075+00:00"
 }

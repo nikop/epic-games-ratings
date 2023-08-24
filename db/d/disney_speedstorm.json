@@ -2,9 +2,9 @@
   "ID": "47bf168a2214456fb7bd4c217e2a4fd6",
   "Name": "Disney Speedstorm",
   "ProductSlug": "disney-speedstorm",
-  "Ranking_EOS_Progress": 158,
+  "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 52,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3122,
+  "EOS_Progressed": 3123,
   "EOS_Completed": 159,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 5.09,
   "EosHistory": [
@@ -4370,6 +4370,11 @@
       "Time": "2023-08-24T15:03:23.2834845+00:00",
       "NumProgressed": 3122,
       "NumCompleted": 159
+    },
+    {
+      "Time": "2023-08-24T16:03:47.4358588+00:00",
+      "NumProgressed": 3123,
+      "NumCompleted": 159
     }
   ],
   "TotalAchievements": 24,
@@ -4389,7 +4394,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 1342
+      "UsersEstimate": 1343
     },
     {
       "ID": "11",
@@ -4421,7 +4426,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 1342
+      "UsersEstimate": 1343
     },
     {
       "ID": "15",
@@ -4469,7 +4474,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "20",
@@ -4477,7 +4482,7 @@
       "Name": "PROTECTED",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 1030
+      "UsersEstimate": 1031
     },
     {
       "ID": "21",
@@ -4541,7 +4546,7 @@
       "Name": "PRO",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 1061
+      "UsersEstimate": 1062
     },
     {
       "ID": "7",
@@ -4572,13 +4577,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3122,
+      "Progressed": 3123,
       "Completed": 159
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-08-24T15:03:23.2834838+00:00",
+  "LastChanged_Achievements": "2023-08-24T16:03:47.435858+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:27.4246453+00:00",
-  "LastUpdate_Ratings": "2023-08-24T14:57:04.0279069+00:00",
-  "LastUpdate_Achievements": "2023-08-24T15:03:23.2835262+00:00"
+  "LastUpdate_Ratings": "2023-08-24T15:57:23.6945914+00:00",
+  "LastUpdate_Achievements": "2023-08-24T16:03:47.4359187+00:00"
 }

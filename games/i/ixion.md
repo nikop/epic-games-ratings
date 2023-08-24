@@ -47,11 +47,11 @@ Rating: 4.55 (Ranked 485)
 | Pulsar Disciple | 2.00% | ~62 |
 | Better Him Than Me | 1.00% | ~31 |
 | Tiqqun Contender | 1.00% | ~31 |
+| Remember the Dead | 1.00% | ~31 |
 | You Had One Job... | 1.00% | ~31 |
 | Gregor Spinoza | 1.00% | ~31 |
 | Tiqqun Unchained | 1.00% | ~31 |
 | Scientifically Accurate | 1.00% | ~31 |
-| Remember the Dead | 0.90% | ~28 |
 | Work Harder | 0.50% | ~15 |
 | Crunch Culture | 0.30% | ~9 |
 | Soylent Green | 0.30% | ~9 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 485)
 | Beyond Time and Space | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,097 (Ranked 160)  
+Progressed: 3,097 (Ranked 161)  
 Completed: 0 (0.00%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -10,8 +10,8 @@ Rating: 4.68 (Ranked 238)
 | High Profile | 59.00% | ~359 |
 | Whispers In The Dark | 58.00% | ~353 |
 | Fond Memories | 56.00% | ~340 |
+| A Method To His Madness | 55.00% | ~334 |
 | History Check | 54.00% | ~328 |
-| A Method To His Madness | 54.00% | ~328 |
 | The New World | 50.00% | ~304 |
 | Open Sesame | 50.00% | ~304 |
 | Sticky Fingers | 50.00% | ~304 |
@@ -21,7 +21,7 @@ Rating: 4.68 (Ranked 238)
 | Lock, Stock, And Barrel | 48.00% | ~292 |
 | Back In The Saddle | 48.00% | ~292 |
 | No Man Is An Island | 48.00% | ~292 |
-| At Wits' End | 46.00% | ~280 |
+| At Wits' End | 47.00% | ~286 |
 | Fhtagn! | 45.00% | ~274 |
 | Bookworm | 44.00% | ~268 |
 | Up In Flames | 44.00% | ~268 |
@@ -34,7 +34,7 @@ Rating: 4.68 (Ranked 238)
 | Big Breakthrough | 14.00% | ~85 |
 | Reawakened | 5.00% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 608 (Ranked 220)  
+Progressed: 608 (Ranked 221)  
 Completed: 25 (4.11%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |

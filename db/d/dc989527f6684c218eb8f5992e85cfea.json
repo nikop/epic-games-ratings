@@ -4,8 +4,8 @@
   "ProductSlug": "scribble-it-c61a6f",
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10208,
+  "EOS_Progressed": 10210,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 435,
+  "EOS_NewPlayers": 436,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7411,6 +7411,11 @@
       "Time": "2023-08-24T15:04:21.4126634+00:00",
       "NumProgressed": 10208,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-24T16:04:48.0624613+00:00",
+      "NumProgressed": 10210,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -7510,7 +7515,7 @@
       "Name": "Facepalm",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1837
+      "UsersEstimate": 1838
     },
     {
       "ID": "ACH_TEN_WORD_PACKAGES",
@@ -7614,21 +7619,21 @@
       "Name": "First Sketch",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1837
+      "UsersEstimate": 1838
     }
   ],
   "AchievementSets": [
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 10208,
+      "Progressed": 10210,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-08-24T15:04:21.4126626+00:00",
+  "LastChanged_Achievements": "2023-08-24T16:04:48.0624607+00:00",
   "LastUpdate_AppInfo": "2023-08-18T21:57:04.2027015+00:00",
-  "LastUpdate_Ratings": "2023-08-24T14:58:54.8950321+00:00",
-  "LastUpdate_Achievements": "2023-08-24T15:04:21.4127221+00:00"
+  "LastUpdate_Ratings": "2023-08-24T15:59:32.8167286+00:00",
+  "LastUpdate_Achievements": "2023-08-24T16:04:48.0625667+00:00"
 }

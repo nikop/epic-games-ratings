@@ -1,35 +1,35 @@
 # Runbow
 [Store](https://store.epicgames.com/en-US/p/runbow-fc9fa4)  
 [View Rawdata](../../db/r/runbow.json)  
-Rating: 4.46 (Ranked 625)  
+Rating: 4.46 (Ranked 624)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~131,677 |
-| My First Runbow | 50.00% | ~124,224 |
-| It's The Fall | 26.00% | ~64,596 |
+| In The Zone | 53.00% | ~131,679 |
+| My First Runbow | 50.00% | ~124,226 |
+| It's The Fall | 26.00% | ~64,597 |
 | The Stunner | 22.00% | ~54,659 |
-| Be Aggressive | 21.00% | ~52,174 |
+| Be Aggressive | 21.00% | ~52,175 |
 | Curator | 20.00% | ~49,690 |
 | Crowning Around | 18.00% | ~44,721 |
-| Can You Dig It? | 17.00% | ~42,236 |
+| Can You Dig It? | 17.00% | ~42,237 |
 | You Juan-A-Go? | 16.00% | ~39,752 |
-| Chan-tastic | 15.00% | ~37,267 |
-| Muddy Waters | 15.00% | ~37,267 |
-| Toasty! | 13.00% | ~32,298 |
+| Chan-tastic | 15.00% | ~37,268 |
+| Muddy Waters | 15.00% | ~37,268 |
+| Toasty! | 13.00% | ~32,299 |
 | Lazy Laser | 8.00% | ~19,876 |
-| Just A Phaze | 7.00% | ~17,391 |
-| Into The Drift | 7.00% | ~17,391 |
-| Ready? Fight! | 7.00% | ~17,391 |
+| Just A Phaze | 7.00% | ~17,392 |
+| Into The Drift | 7.00% | ~17,392 |
+| Ready? Fight! | 7.00% | ~17,392 |
 | Butt Butt | 6.00% | ~14,907 |
-| He Who Laughs Last | 3.00% | ~7,453 |
-| Shoo, Cat! | 3.00% | ~7,453 |
+| He Who Laughs Last | 3.00% | ~7,454 |
+| Shoo, Cat! | 3.00% | ~7,454 |
 | And You're Okay | 2.00% | ~4,969 |
 | Blotbuster | 2.00% | ~4,969 |
 | Thunderstruck | 2.00% | ~4,969 |
-| Just A Bit | 1.00% | ~2,484 |
-| Tubular, Dude | 1.00% | ~2,484 |
-| What A Trip | 1.00% | ~2,484 |
+| Just A Bit | 1.00% | ~2,485 |
+| Tubular, Dude | 1.00% | ~2,485 |
+| What A Trip | 1.00% | ~2,485 |
 | Here We Go! | 0.80% | ~1,988 |
 | Please The King | 0.80% | ~1,988 |
 | Clear-Cut | 0.50% | ~1,242 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 625)
 | Talent Scout | 0.10% | ~248 |
 | True Completionist | 0.10% | ~248 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248,448 (Ranked 47)  
+Progressed: 248,451 (Ranked 47)  
 Completed: 4 (0.00%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 4 (0.00%) (Ranked 262)
 | 2023-08-21 | 248,362 | 4 |
 | 2023-08-22 | 248,392 | 4 |
 | 2023-08-23 | 248,425 | 4 |
-| 2023-08-24 | 248,448 | 4 |
+| 2023-08-24 | 248,451 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

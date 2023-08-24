@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 93,
-  "Ranking_EOS_NewPlayers": 74,
+  "Ranking_EOS_NewPlayers": 75,
   "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -380,9 +380,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18542,
+  "EOS_Progressed": 18543,
   "EOS_Completed": 374,
-  "EOS_NewPlayers": 514,
+  "EOS_NewPlayers": 511,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 2.02,
   "EosHistory": [
@@ -13800,6 +13800,11 @@
       "Time": "2023-08-24T15:06:08.2242868+00:00",
       "NumProgressed": 18542,
       "NumCompleted": 374
+    },
+    {
+      "Time": "2023-08-24T16:06:47.7365927+00:00",
+      "NumProgressed": 18543,
+      "NumCompleted": 374
     }
   ],
   "TotalAchievements": 20,
@@ -13907,7 +13912,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2410
+      "UsersEstimate": 2411
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -13931,7 +13936,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 14092
+      "UsersEstimate": 14093
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -13970,15 +13975,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 18542,
+      "Progressed": 18543,
       "Completed": 374
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-08-12T01:39:46.4098224+00:00",
-  "LastChanged_Achievements": "2023-08-24T15:06:08.2242863+00:00",
+  "LastChanged_Achievements": "2023-08-24T16:06:47.7365921+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:54.5287855+00:00",
-  "LastUpdate_Ratings": "2023-08-24T14:58:08.1599006+00:00",
-  "LastUpdate_Achievements": "2023-08-24T15:06:08.2243762+00:00"
+  "LastUpdate_Ratings": "2023-08-24T15:58:35.844728+00:00",
+  "LastUpdate_Achievements": "2023-08-24T16:06:47.7367677+00:00"
 }

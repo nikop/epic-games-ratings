@@ -2,9 +2,9 @@
   "ID": "18ba5ade23ee4b49a65d84712ef4c895",
   "Name": "Volley Pals",
   "ProductSlug": "volley-pals-0120b4",
-  "Ranking_EOS_Progress": 327,
+  "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 10,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-05-19T01:00:00+00:00",
@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 104,
+  "EOS_Progressed": 105,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 24.04,
+  "EOS_Completed_Percentage": 23.81,
   "EosHistory": [
     {
       "Time": "2023-05-19T19:23:39.9762126+00:00",
@@ -539,6 +539,11 @@
       "Time": "2023-08-24T12:06:22.0306306+00:00",
       "NumProgressed": 104,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-08-24T16:06:55.8907473+00:00",
+      "NumProgressed": 105,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 10,
@@ -550,7 +555,7 @@
       "Name": "Beach",
       "Percentage": 93,
       "XP": 100,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "LEVEL_1",
@@ -564,7 +569,7 @@
       "ID": "LEVEL_2",
       "SetID": "1fnbp5h",
       "Name": "Space",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 100,
       "UsersEstimate": 56
     },
@@ -588,7 +593,7 @@
       "ID": "LEVEL_5",
       "SetID": "1fnbp5h",
       "Name": "Ball Disposal Facility",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 100,
       "UsersEstimate": 38
     },
@@ -596,7 +601,7 @@
       "ID": "LEVEL_6",
       "SetID": "1fnbp5h",
       "Name": "Mecha Wars",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 100,
       "UsersEstimate": 36
     },
@@ -604,7 +609,7 @@
       "ID": "LEVEL_7",
       "SetID": "1fnbp5h",
       "Name": "Sewer",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 100,
       "UsersEstimate": 33
     },
@@ -614,7 +619,7 @@
       "Name": "Arcade",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "LEVEL_9",
@@ -629,13 +634,13 @@
     {
       "ID": "1fnbp5h",
       "IsBase": true,
-      "Progressed": 104,
+      "Progressed": 105,
       "Completed": 25
     }
   ],
   "FirstSeenAchievements": "2023-05-02T15:59:43.451096+00:00",
-  "LastChanged_Achievements": "2023-08-24T15:06:16.3101977+00:00",
+  "LastChanged_Achievements": "2023-08-24T16:06:55.8907467+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:45.9970315+00:00",
-  "LastUpdate_Ratings": "2023-08-24T14:59:22.9691708+00:00",
-  "LastUpdate_Achievements": "2023-08-24T15:06:16.3102087+00:00"
+  "LastUpdate_Ratings": "2023-08-24T16:00:07.772652+00:00",
+  "LastUpdate_Achievements": "2023-08-24T16:06:55.8907618+00:00"
 }
