@@ -2,7 +2,7 @@
   "ID": "25d726130e6c4fe68f88e71933bda955",
   "Name": "Terraforming Mars",
   "ProductSlug": "terraforming-mars-18c3ad",
-  "Ranking_Rating": 502,
+  "Ranking_Rating": 501,
   "Ranking_Popularity": 197,
   "Ranking_PopularitySum": 158,
   "Ranking_EOS_Progress": 77,
@@ -2662,9 +2662,9 @@
       "Count": 239
     }
   ],
-  "EOS_Progressed": 72981,
+  "EOS_Progressed": 72982,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 924,
+  "EOS_NewPlayers": 925,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -16367,6 +16367,11 @@
       "Time": "2023-08-24T03:06:11.2684013+00:00",
       "NumProgressed": 72981,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-08-24T04:07:37.824524+00:00",
+      "NumProgressed": 72982,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 30,
@@ -16402,7 +16407,7 @@
       "Name": "New Home",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 17515
+      "UsersEstimate": 17516
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -16498,7 +16503,7 @@
       "Name": "Curiosity",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 13866
+      "UsersEstimate": 13867
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -16506,7 +16511,7 @@
       "Name": "Beagle 2",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 17515
+      "UsersEstimate": 17516
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -16522,7 +16527,7 @@
       "Name": "Collector",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 13866
+      "UsersEstimate": 13867
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -16562,7 +16567,7 @@
       "Name": "Self-sufficient",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 13866
+      "UsersEstimate": 13867
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -16570,7 +16575,7 @@
       "Name": "Frequent tester",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 5838
+      "UsersEstimate": 5839
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -16602,7 +16607,7 @@
       "Name": "Master",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 13866
+      "UsersEstimate": 13867
     },
     {
       "ID": "ACHIEVEMENT_29",
@@ -16610,22 +16615,22 @@
       "Name": "Determined",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 5838
+      "UsersEstimate": 5839
     }
   ],
   "AchievementSets": [
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 72981,
+      "Progressed": 72982,
       "Completed": 93
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-08-23T21:59:53.4712134+00:00",
-  "LastChanged_Achievements": "2023-08-24T03:06:11.2684009+00:00",
+  "LastChanged_Achievements": "2023-08-24T04:07:37.8245233+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:24.9562583+00:00",
-  "LastUpdate_Ratings": "2023-08-24T02:59:54.9198369+00:00",
-  "LastUpdate_Achievements": "2023-08-24T03:06:11.2685519+00:00"
+  "LastUpdate_Ratings": "2023-08-24T04:00:56.1313683+00:00",
+  "LastUpdate_Achievements": "2023-08-24T04:07:37.8247281+00:00"
 }

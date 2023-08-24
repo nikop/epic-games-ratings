@@ -6,20 +6,20 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~928,465 |
-| I Need a Bigger Garage | 63.00% | ~649,926 |
-| Pump my Ride | 47.00% | ~484,865 |
-| Ghostbuster | 33.00% | ~340,437 |
-| That Was Close | 18.00% | ~185,693 |
-| Call Roadside Assistance | 17.00% | ~175,377 |
-| Quickie | 11.00% | ~113,479 |
-| California Dreamer | 7.00% | ~72,214 |
-| Can't Touch This | 5.00% | ~51,581 |
-| Carménère Taster | 3.00% | ~30,949 |
-| Supersonic | 3.00% | ~30,949 |
-| Comeback | 3.00% | ~30,949 |
-| Marathonist | 3.00% | ~30,949 |
-| Living Legend | 3.00% | ~30,949 |
+| The First of Many | 90.00% | ~928,485 |
+| I Need a Bigger Garage | 63.00% | ~649,940 |
+| Pump my Ride | 47.00% | ~484,876 |
+| Ghostbuster | 33.00% | ~340,444 |
+| That Was Close | 18.00% | ~185,697 |
+| Call Roadside Assistance | 17.00% | ~175,380 |
+| Quickie | 11.00% | ~113,482 |
+| California Dreamer | 7.00% | ~72,216 |
+| Can't Touch This | 5.00% | ~51,582 |
+| Carménère Taster | 3.00% | ~30,950 |
+| Supersonic | 3.00% | ~30,950 |
+| Comeback | 3.00% | ~30,950 |
+| Marathonist | 3.00% | ~30,950 |
+| Living Legend | 3.00% | ~30,950 |
 | Driver from Ipanema | 2.00% | ~20,633 |
 | God of Roads | 2.00% | ~20,633 |
 | Pathfinder | 2.00% | ~20,633 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,032 |
 | Look Mom, No Hands! | 0.10% | ~1,032 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,031,628 (Ranked 12)  
+Progressed: 1,031,650 (Ranked 12)  
 Completed: 403 (0.04%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,10 +170,10 @@ Completed: 403 (0.04%) (Ranked 232)
 | 2023-08-21 | 1,030,539 | 402 |
 | 2023-08-22 | 1,031,042 | 402 |
 | 2023-08-23 | 1,031,562 | 403 |
-| 2023-08-24 | 1,031,628 | 403 |
+| 2023-08-24 | 1,031,650 | 403 |
 ## Awards
 Max (Great for Beginners): 153  (Ranked 296)  
-Sum: 1,258 (Ranked 229)  
+Sum: 1,259 (Ranked 229)  
 Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
@@ -186,7 +186,7 @@ Diff (max vs sum): 67
 | This game has Playful Visuals | 115 |
 | This game is Extremely Fun | 107 |
 | This game has Amazing Storytelling | 93 |
-| This game has Amazing Characters | 91 |
+| This game has Amazing Characters | 92 |
 | This game has a Competitive Community | 79 |
 | This game has Diverse Characters | 75 |
 ## Ratings History
@@ -385,3 +385,4 @@ Diff (max vs sum): 67
 | 2023-08-18 | 4.55 | - | 153 | 1,252 |
 | 2023-08-19 | 4.55 | - | 153 | 1,255 |
 | 2023-08-23 | 4.55 | - | 153 | 1,258 |
+| 2023-08-24 | 4.55 | - | 153 | 1,259 |

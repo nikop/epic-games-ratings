@@ -4,7 +4,7 @@
   "ProductSlug": "fantasy-wars-ec9601",
   "Ranking_EOS_Progress": 558,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewPlayers": 351,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-09-09T08:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:00.3567077+00:00",
   "LastChanged": "2023-03-31T05:57:00.3567078+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:51.7958785+00:00",
-  "LastUpdate_Ratings": "2023-08-24T02:57:14.2526662+00:00",
-  "LastUpdate_Achievements": "2023-08-24T02:16:24.5323784+00:00"
+  "LastUpdate_Ratings": "2023-08-24T03:57:21.3023051+00:00",
+  "LastUpdate_Achievements": "2023-08-24T04:02:16.3702643+00:00"
 }

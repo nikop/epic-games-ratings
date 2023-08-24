@@ -8,11 +8,11 @@ Number of Ratings: 98  (23.09.2022)
 | ---- | ---------- | ----- |
 | Peak Performance | 55.00% | ~3,676 |
 | Tutti Eroi! | 55.00% | ~3,676 |
-| You Shall Not Pass | 53.00% | ~3,542 |
+| You Shall Not Pass | 53.00% | ~3,543 |
 | Avanti Savoia! | 47.00% | ~3,141 |
 | Mamma Mia! | 38.00% | ~2,540 |
 | Conrad von Hotzensocks | 36.00% | ~2,406 |
-| Gabriele D'Annunzio | 33.00% | ~2,205 |
+| Gabriele D'Annunzio | 33.00% | ~2,206 |
 | Silver Lining | 30.00% | ~2,005 |
 | Aurelio Baruzzi | 23.00% | ~1,537 |
 | Decimation | 22.00% | ~1,470 |
@@ -22,7 +22,7 @@ Number of Ratings: 98  (23.09.2022)
 | The Italian Job | 20.00% | ~1,337 |
 | Ragazzi del '99 | 18.00% | ~1,203 |
 | The Lion of the Isonzo | 18.00% | ~1,203 |
-| Luigi Cadorna | 15.00% | ~1,002 |
+| Luigi Cadorna | 15.00% | ~1,003 |
 | Dirty Dozen | 14.00% | ~936 |
 | Uomo Universale | 14.00% | ~936 |
 | Die Bosniaken Kommen! | 13.00% | ~869 |
@@ -33,16 +33,16 @@ Number of Ratings: 98  (23.09.2022)
 | Dante's Inferno | 11.00% | ~735 |
 | I Have the High Ground | 10.00% | ~668 |
 | Millenial | 10.00% | ~668 |
-| The Show Must Go On | 9.00% | ~601 |
-| Tosca | 9.00% | ~601 |
+| The Show Must Go On | 9.00% | ~602 |
+| Tosca | 9.00% | ~602 |
 | 12th Bottle of the Isonzo | 7.00% | ~468 |
 | Cercatore d'Oro | 6.00% | ~401 |
 | The Enlightment | 6.00% | ~401 |
 | Generalissimo | 5.00% | ~334 |
 | "O La Vittoria, O Tutti Accoppati" | 4.00% | ~267 |
-| Ponte of No Return | 3.00% | ~200 |
-| Seeing Red | 3.00% | ~200 |
-| Soča Drag | 3.00% | ~200 |
+| Ponte of No Return | 3.00% | ~201 |
+| Seeing Red | 3.00% | ~201 |
+| Soča Drag | 3.00% | ~201 |
 | Farewell to Arms | 2.00% | ~134 |
 | Saboteur | 2.00% | ~134 |
 | Compagnia della Morte | 1.00% | ~67 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~27 |
 | Can I Go Home Now? | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,683 (Ranked 136)  
+Progressed: 6,684 (Ranked 136)  
 Completed: 8 (0.12%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,6 +173,7 @@ Completed: 8 (0.12%) (Ranked 202)
 | 2023-08-21 | 6,675 | 8 |
 | 2023-08-22 | 6,678 | 8 |
 | 2023-08-23 | 6,683 | 8 |
+| 2023-08-24 | 6,684 | 8 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 437)  
 Sum: 266 (Ranked 351)  

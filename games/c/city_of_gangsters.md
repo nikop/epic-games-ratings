@@ -5,24 +5,24 @@ Rating: 4.27 (Ranked 814)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~156,068 |
-| Copacetic Coordination | 16.00% | ~54,284 |
+| Corner Clout | 46.00% | ~156,070 |
+| Copacetic Coordination | 16.00% | ~54,285 |
 | Fronting the Money | 15.00% | ~50,892 |
-| The Dawn of Automation | 14.00% | ~47,499 |
-| Extraordinary Logistics | 14.00% | ~47,499 |
-| Dirty Money | 13.00% | ~44,106 |
-| Family First | 13.00% | ~44,106 |
-| Cleaning House | 12.00% | ~40,713 |
-| Room in the Back | 12.00% | ~40,713 |
+| The Dawn of Automation | 14.00% | ~47,500 |
+| Extraordinary Logistics | 14.00% | ~47,500 |
+| Dirty Money | 13.00% | ~44,107 |
+| Family First | 13.00% | ~44,107 |
+| Cleaning House | 12.00% | ~40,714 |
+| Room in the Back | 12.00% | ~40,714 |
 | Beating the Heat | 11.00% | ~37,321 |
 | Booze Baron | 11.00% | ~37,321 |
 | Friends on the Force | 10.00% | ~33,928 |
 | Neighborhood Watch | 10.00% | ~33,928 |
-| Core Corps | 8.00% | ~27,142 |
-| Sizeable Stash | 8.00% | ~27,142 |
-| Street Fighter | 7.00% | ~23,749 |
-| Friendly Gestures | 7.00% | ~23,749 |
-| People Person | 7.00% | ~23,749 |
+| Core Corps | 8.00% | ~27,143 |
+| Sizeable Stash | 8.00% | ~27,143 |
+| Street Fighter | 7.00% | ~23,750 |
+| Friendly Gestures | 7.00% | ~23,750 |
+| People Person | 7.00% | ~23,750 |
 | Liquor Lord | 6.00% | ~20,357 |
 | Safety in Numbers | 6.00% | ~20,357 |
 | Moving Experiences | 6.00% | ~20,357 |
@@ -86,7 +86,7 @@ Rating: 4.27 (Ranked 814)
 | High Pillow | 0.10% | ~339 |
 | Station Master | 0.10% | ~339 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 339,278 (Ranked 42)  
+Progressed: 339,283 (Ranked 42)  
 Completed: 7 (0.00%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 7 (0.00%) (Ranked 262)
 | 2023-08-21 | 338,883 | 7 |
 | 2023-08-22 | 339,063 | 7 |
 | 2023-08-23 | 339,257 | 7 |
-| 2023-08-24 | 339,278 | 7 |
+| 2023-08-24 | 339,283 | 7 |
 ## Awards
 Max (Great for Beginners): 33  (Ranked 448)  
 Sum: 162 (Ranked 391)  

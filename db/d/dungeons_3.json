@@ -2518,7 +2518,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 28263,
+  "EOS_Progressed": 28264,
   "EOS_Completed": 234,
   "EOS_NewPlayers": 735,
   "EOS_NewCompleters": 8,
@@ -16078,6 +16078,11 @@
       "Time": "2023-08-24T03:04:25.9706144+00:00",
       "NumProgressed": 28263,
       "NumCompleted": 234
+    },
+    {
+      "Time": "2023-08-24T04:05:28.6149313+00:00",
+      "NumProgressed": 28264,
+      "NumCompleted": 234
     }
   ],
   "TotalAchievements": 60,
@@ -16177,7 +16182,7 @@
       "Name": "A trip on sea, what fun it can be",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 9609
+      "UsersEstimate": 9610
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_1",
@@ -16185,7 +16190,7 @@
       "Name": "The Stones\u2019 Power",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 5087
+      "UsersEstimate": 5088
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_2",
@@ -16249,7 +16254,7 @@
       "Name": "The last burger",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 10457
+      "UsersEstimate": 10458
     },
     {
       "ID": "ACH_D3_Campaign_Fire_1",
@@ -16281,7 +16286,7 @@
       "Name": "Braiiiiins!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 10457
+      "UsersEstimate": 10458
     },
     {
       "ID": "ACH_D3_Campaign_Graves_2",
@@ -16297,7 +16302,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 12153
+      "UsersEstimate": 12154
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -16305,7 +16310,7 @@
       "Name": "The One-Huge-Army-Building Evil",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 11305
+      "UsersEstimate": 11306
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_2",
@@ -16369,7 +16374,7 @@
       "Name": "Destroy the thing",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 7348
+      "UsersEstimate": 7349
     },
     {
       "ID": "ACH_D3_Campaign_Pain_1",
@@ -16393,7 +16398,7 @@
       "Name": "Where there is Light, there is Shadow",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 6500
+      "UsersEstimate": 6501
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_1",
@@ -16417,7 +16422,7 @@
       "Name": "For a handfull of Catapults",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 8196
+      "UsersEstimate": 8197
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_1",
@@ -16425,7 +16430,7 @@
       "Name": "Can\u2019t stand the sight of Dark Elf blood",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 4239
+      "UsersEstimate": 4240
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_2",
@@ -16473,7 +16478,7 @@
       "Name": "Death and destruction!",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 12718
+      "UsersEstimate": 12719
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_2",
@@ -16481,7 +16486,7 @@
       "Name": "Shadow hunter",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 8196
+      "UsersEstimate": 8197
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_Completed",
@@ -16489,7 +16494,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 19501
+      "UsersEstimate": 19502
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -16561,22 +16566,22 @@
       "Name": "Tide Master",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 7348
+      "UsersEstimate": 7349
     }
   ],
   "AchievementSets": [
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 28263,
+      "Progressed": 28264,
       "Completed": 234
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-08-24T02:57:15.1356298+00:00",
-  "LastChanged_Achievements": "2023-08-24T03:04:25.9706139+00:00",
+  "LastChanged_Achievements": "2023-08-24T04:05:28.6149306+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:53.4330932+00:00",
-  "LastUpdate_Ratings": "2023-08-24T02:57:15.1356303+00:00",
-  "LastUpdate_Achievements": "2023-08-24T03:04:25.9707847+00:00"
+  "LastUpdate_Ratings": "2023-08-24T03:57:22.4413398+00:00",
+  "LastUpdate_Achievements": "2023-08-24T04:05:28.615203+00:00"
 }

@@ -33,8 +33,8 @@ Number of Ratings: 58  (23.09.2022)
 | The Crimson Void | 35.00% | ~399 |
 | The Nameless Dread | 34.00% | ~388 |
 | Time to Spear | 31.00% | ~354 |
+| Mastery of Weapons | 30.00% | ~342 |
 | Disciple | 30.00% | ~342 |
-| Mastery of Weapons | 29.00% | ~331 |
 | Two Birds | 26.00% | ~297 |
 | Ghosts | 25.00% | ~285 |
 | Uneasy Alliance | 24.00% | ~274 |

@@ -96,10 +96,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 70994,
+  "EOS_Progressed": 70995,
   "EOS_Completed": 717,
-  "EOS_NewPlayers": 742,
-  "EOS_NewCompleters": 10,
+  "EOS_NewPlayers": 741,
+  "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
     {
@@ -13966,6 +13966,11 @@
       "Time": "2023-08-24T03:03:54.251555+00:00",
       "NumProgressed": 70994,
       "NumCompleted": 717
+    },
+    {
+      "Time": "2023-08-24T04:04:48.6430322+00:00",
+      "NumProgressed": 70995,
+      "NumCompleted": 717
     }
   ],
   "TotalAchievements": 25,
@@ -14065,7 +14070,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 6389
+      "UsersEstimate": 6390
     },
     {
       "ID": "Magnetic Miracles",
@@ -14121,7 +14126,7 @@
       "Name": "Piano Man",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 7099
+      "UsersEstimate": 7100
     },
     {
       "ID": "Right On Target",
@@ -14176,7 +14181,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 70994,
+      "Progressed": 70995,
       "Completed": 717
     }
   ],
@@ -14184,8 +14189,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-08-07T22:57:38.0235808+00:00",
-  "LastChanged_Achievements": "2023-08-24T03:03:54.2515544+00:00",
+  "LastChanged_Achievements": "2023-08-24T04:04:48.6430314+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:25.6740625+00:00",
-  "LastUpdate_Ratings": "2023-08-24T02:58:23.999375+00:00",
-  "LastUpdate_Achievements": "2023-08-24T03:03:54.2517127+00:00"
+  "LastUpdate_Ratings": "2023-08-24T03:58:52.1330186+00:00",
+  "LastUpdate_Achievements": "2023-08-24T04:04:48.6432355+00:00"
 }

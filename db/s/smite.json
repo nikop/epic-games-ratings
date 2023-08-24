@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 42,
   "Ranking_EOS_Progress": 558,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewPlayers": 351,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2020-04-28T15:00:00+00:00",
@@ -7261,10 +7261,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 28082,
       "NumberOfAwardsMax": 4185
+    },
+    {
+      "Time": "2023-08-24T03:58:30.2415964+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 28095,
+      "NumberOfAwardsMax": 4185
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28082,
+  "NumberOfAwards": 28095,
   "NumberOfAwardsMax": 4185,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -7284,25 +7290,25 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 3207
+      "Count": 3210
     },
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 3502
+      "Count": 3505
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3096
+      "Count": 3099
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 3002
+      "Count": 3006
     },
     {
       "Text": "This game has Amazing Characters",
@@ -7340,8 +7346,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:32.4644513+00:00",
-  "LastChanged": "2023-08-24T02:58:06.1652617+00:00",
+  "LastChanged": "2023-08-24T03:58:30.2415962+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:03.973668+00:00",
-  "LastUpdate_Ratings": "2023-08-24T02:58:06.1652624+00:00",
-  "LastUpdate_Achievements": "2023-08-24T03:04:17.2008166+00:00"
+  "LastUpdate_Ratings": "2023-08-24T03:58:30.241597+00:00",
+  "LastUpdate_Achievements": "2023-08-24T04:05:17.9591052+00:00"
 }

@@ -6,12 +6,12 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~21,660 |
-| Thorough | 10.00% | ~19,691 |
-| A thief's beginning | 9.00% | ~17,722 |
-| Disguised | 8.00% | ~15,753 |
-| Rollin' | 8.00% | ~15,753 |
-| Tanuki Time | 8.00% | ~15,753 |
+| Genin | 11.00% | ~21,661 |
+| Thorough | 10.00% | ~19,692 |
+| A thief's beginning | 9.00% | ~17,723 |
+| Disguised | 8.00% | ~15,754 |
+| Rollin' | 8.00% | ~15,754 |
+| Tanuki Time | 8.00% | ~15,754 |
 | Jonin | 7.00% | ~13,784 |
 | Rescue Takuma | 7.00% | ~13,784 |
 | Stoned Ox | 7.00% | ~13,784 |
@@ -23,14 +23,14 @@ Number of Ratings: 495  (23.09.2022)
 | Flying Rocks | 5.00% | ~9,846 |
 | Okkoto | 5.00% | ~9,846 |
 | Warzone | 5.00% | ~9,846 |
-| Gear up | 4.00% | ~7,876 |
-| Happy little accidents | 4.00% | ~7,876 |
-| Prisoners | 4.00% | ~7,876 |
-| Still Rollin' | 4.00% | ~7,876 |
-| Too Early | 4.00% | ~7,876 |
-| Noboru | 3.00% | ~5,907 |
-| Stoned | 3.00% | ~5,907 |
-| The Old Way | 3.00% | ~5,907 |
+| Gear up | 4.00% | ~7,877 |
+| Happy little accidents | 4.00% | ~7,877 |
+| Prisoners | 4.00% | ~7,877 |
+| Still Rollin' | 4.00% | ~7,877 |
+| Too Early | 4.00% | ~7,877 |
+| Noboru | 3.00% | ~5,908 |
+| Stoned | 3.00% | ~5,908 |
+| The Old Way | 3.00% | ~5,908 |
 | Atheist Ox | 2.00% | ~3,938 |
 | It's raining men | 2.00% | ~3,938 |
 | Old Man | 2.00% | ~3,938 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~197 |
 | Release the Kraken | 0.10% | ~197 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 196,910 (Ranked 60)  
+Progressed: 196,921 (Ranked 60)  
 Completed: 72 (0.04%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 72 (0.04%) (Ranked 232)
 | 2023-08-21 | 196,336 | 71 |
 | 2023-08-22 | 196,624 | 71 |
 | 2023-08-23 | 196,882 | 71 |
-| 2023-08-24 | 196,910 | 72 |
+| 2023-08-24 | 196,921 | 72 |
 ## Awards
 Max (Great for Beginners): 561  (Ranked 189)  
 Sum: 4,734 (Ranked 134)  

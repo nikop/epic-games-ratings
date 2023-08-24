@@ -14,12 +14,12 @@ Number of Ratings: 1,316  (23.09.2022)
 | Lucky | 3.00% | ~13,075 |
 | Stylin' | 3.00% | ~13,075 |
 | Turf War | 3.00% | ~13,075 |
-| Banged | 2.00% | ~8,716 |
-| Checkpoint Victory | 2.00% | ~8,716 |
-| First Blood | 2.00% | ~8,716 |
-| Flaccid Paralysis | 2.00% | ~8,716 |
-| Push Victory | 2.00% | ~8,716 |
-| Self-destructive | 2.00% | ~8,716 |
+| Banged | 2.00% | ~8,717 |
+| Checkpoint Victory | 2.00% | ~8,717 |
+| First Blood | 2.00% | ~8,717 |
+| Flaccid Paralysis | 2.00% | ~8,717 |
+| Push Victory | 2.00% | ~8,717 |
+| Self-destructive | 2.00% | ~8,717 |
 | Blindfire | 1.00% | ~4,358 |
 | Ruthless | 1.00% | ~4,358 |
 | Semper Paratus | 1.00% | ~4,358 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~436 |
 | Road Hazard | 0.10% | ~436 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 435,820 (Ranked 38)  
+Progressed: 435,829 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,10 +168,10 @@ Completed: 2 (0.00%) (Ranked 262)
 | 2023-08-21 | 435,171 | 2 |
 | 2023-08-22 | 435,458 | 2 |
 | 2023-08-23 | 435,771 | 2 |
-| 2023-08-24 | 435,820 | 2 |
+| 2023-08-24 | 435,829 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 376  (Ranked 223)  
-Sum: 2,917 (Ranked 166)  
+Sum: 2,919 (Ranked 166)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
@@ -179,11 +179,11 @@ Diff (max vs sum): 57
 | This game has Challenging Combat | 352 |
 | This game is Extremely Fun | 343 |
 | This game has Competitive Players | 340 |
+| This game is Highly Recommended | 313 |
 | This game has Realistic Visuals | 313 |
-| This game is Highly Recommended | 312 |
 | This game has Amazing Storytelling | 306 |
 | This game has Amazing Characters | 305 |
-| This game has a Competitive Community | 270 |
+| This game has a Competitive Community | 271 |
 | This game has Obsessive Gameplay | 156 |
 | This game has Diverse Characters | 103 |
 ## Ratings History
@@ -402,3 +402,4 @@ Diff (max vs sum): 57
 | 2023-08-21 | 4.62 | - | 376 | 2,911 |
 | 2023-08-22 | 4.62 | - | 376 | 2,916 |
 | 2023-08-23 | 4.62 | - | 376 | 2,917 |
+| 2023-08-24 | 4.62 | - | 376 | 2,919 |
