@@ -36,7 +36,7 @@
 | 30 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.86 | 12,357 | 31 |
 | 30 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 97 | 340 |
 | 30 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 44 | 418 |
-| 30 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,395 | 128 |
+| 30 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,395 | 129 |
 | 30 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.86 | 0 | 514 |
 | 30 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 492 | 198 |
 | 30 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.86 | 0 | 514 |
@@ -488,7 +488,7 @@
 | 486 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.55 | 0 | 514 |
 | 486 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.55 | 0 | 514 |
 | 486 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 514 |
-| 486 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 1,398 | 127 |
+| 486 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 1,398 | 128 |
 | 486 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.55 | 68 | 381 |
 | 486 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 238 | 258 |
 | 486 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.55 | 153 | 296 |
@@ -519,7 +519,7 @@
 | 514 | [Dauntless](games/d/dauntless.md) | 4.53 | 21,450 | 18 |
 | 514 | [Everything](games/e/everything.md) | 4.53 | 0 | 514 |
 | 514 | [Far Cry](games/f/far_cry.md) | 4.53 | 0 | 514 |
-| 514 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 1,411 | 126 |
+| 514 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 1,411 | 127 |
 | 514 | [MotoGP™21](games/m/motogp™21.md) | 4.53 | 22 | 493 |
 | 514 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 0 | 514 |
 | 514 | [RUINER](games/r/ruiner.md) | 4.53 | 24 | 483 |
@@ -781,7 +781,7 @@
 | 778 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.32 | 60 | 391 |
 | 778 | [Filament](games/f/filament.md) | 4.32 | 561 | 189 |
 | 778 | [Parkitect](games/p/parkitect.md) | 4.32 | 0 | 514 |
-| 778 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.32 | 1,395 | 128 |
+| 778 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.32 | 1,429 | 126 |
 | 778 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 0 | 514 |
 | 778 | [Vampyr](games/v/vampyr.md) | 4.32 | 555 | 193 |
 | 785 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 514 |
@@ -804,7 +804,7 @@
 | 799 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,600,636 | 1 |
 | 799 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 719 | 166 |
 | 799 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 44 | 418 |
-| 799 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 142 | 303 |
+| 799 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 142 | 304 |
 | 799 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 126 | 312 |
 | 799 | [Steelrising](games/s/steelrising.md) | 4.29 | 36 | 433 |
 | 808 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.28 | 0 | 514 |
@@ -880,7 +880,7 @@
 | 874 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.18 | 0 | 514 |
 | 874 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 344 |
 | 874 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 0 | 514 |
-| 874 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.18 | 142 | 303 |
+| 874 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.18 | 143 | 302 |
 | 882 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 4.17 | 0 | 514 |
 | 882 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.17 | 0 | 514 |
 | 882 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 0 | 514 |

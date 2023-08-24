@@ -125,10 +125,10 @@
 | 123 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,441 | 4.62 | 348 |
 | 124 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 1,435 | 4.78 | 101 |
 | 125 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,432 | 4.87 | 26 |
-| 126 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,411 | 4.53 | 514 |
-| 127 | [Conan Exiles](games/c/conan_exiles.md) | 1,398 | 4.55 | 486 |
-| 128 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 1,395 | 4.32 | 778 |
-| 128 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,395 | 4.86 | 30 |
+| 126 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 1,429 | 4.32 | 778 |
+| 127 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,411 | 4.53 | 514 |
+| 128 | [Conan Exiles](games/c/conan_exiles.md) | 1,398 | 4.55 | 486 |
+| 129 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,395 | 4.86 | 30 |
 | 130 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,316 | 4.70 | 198 |
 | 131 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,296 | 4.54 | 502 |
 | 132 | [DOOM 64](games/d/doom_64.md) | 1,292 | 4.66 | 275 |
@@ -302,8 +302,8 @@
 | 300 | [Blasphemous](games/b/blasphemous.md) | 147 | 4.86 | 30 |
 | 300 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 147 | 4.77 | 109 |
 | 302 | [Night in the Woods](games/n/night_in_the_woods.md) | 143 | 4.72 | 170 |
-| 303 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 142 | 4.29 | 799 |
-| 303 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 142 | 4.18 | 874 |
+| 302 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 143 | 4.18 | 874 |
+| 304 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 142 | 4.29 | 799 |
 | 305 | [Encased](games/e/encased.md) | 141 | 4.34 | 760 |
 | 305 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 141 | 4.85 | 42 |
 | 307 | [Atomicrops](games/a/atomicrops.md) | 137 | 4.88 | 19 |

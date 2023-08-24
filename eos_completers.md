@@ -51,7 +51,7 @@
 | 48 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.36% |
 | 50 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.33% |
 | 51 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.13% |
-| 52 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.03% |
+| 52 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.06% |
 | 53 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.78% |
 | 54 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 4.76% |
 | 55 | [Bugsnax](games/b/bugsnax.md) | 4.73% |
@@ -70,7 +70,7 @@
 | 68 | [Bunny Park](games/b/bunny_park.md) | 3.37% |
 | 69 | [The Complex](games/t/the_complex.md) | 3.35% |
 | 70 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
-| 71 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 3.24% |
+| 71 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 3.23% |
 | 72 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.21% |
 | 73 | [HordeCore](games/h/hordecore.md) | 3.15% |
 | 74 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.14% |
