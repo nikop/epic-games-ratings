@@ -5,9 +5,9 @@
   "Ranking_Rating": 275,
   "Ranking_Popularity": 340,
   "Ranking_PopularitySum": 280,
-  "Ranking_EOS_Progress": 146,
+  "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1056,9 +1056,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 4842,
+  "EOS_Progressed": 4843,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8486,6 +8486,11 @@
       "Time": "2023-08-24T14:03:31.1002445+00:00",
       "NumProgressed": 4842,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-24T17:03:33.5868006+00:00",
+      "NumProgressed": 4843,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -8593,7 +8598,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 2227
+      "UsersEstimate": 2228
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -8657,7 +8662,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 3680
+      "UsersEstimate": 3681
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -8816,15 +8821,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 4842,
+      "Progressed": 4843,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-08-19T05:59:02.5104499+00:00",
-  "LastChanged_Achievements": "2023-08-24T16:03:41.4981517+00:00",
+  "LastChanged_Achievements": "2023-08-24T17:03:33.5868001+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:05.8526024+00:00",
-  "LastUpdate_Ratings": "2023-08-24T15:58:51.6237524+00:00",
-  "LastUpdate_Achievements": "2023-08-24T16:03:41.4983109+00:00"
+  "LastUpdate_Ratings": "2023-08-24T16:59:05.5722109+00:00",
+  "LastUpdate_Achievements": "2023-08-24T17:03:33.5868877+00:00"
 }

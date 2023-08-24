@@ -2,9 +2,9 @@
   "ID": "e209b2d1d5384f639335f64e3e6c4bb8",
   "Name": "Homeworld: Deserts of Kharak",
   "ProductSlug": "homeworld-deserts-of-kharak",
-  "Ranking_EOS_Progress": 150,
+  "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 23,
+  "Ranking_EOS_NewPlayers": 13,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-08-24T15:00:00+00:00",
@@ -17,9 +17,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3592,
+  "EOS_Progressed": 8607,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3572,
+  "EOS_NewPlayers": 8587,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -87,6 +87,11 @@
       "Time": "2023-08-24T16:03:30.5246161+00:00",
       "NumProgressed": 3592,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-24T17:03:20.000297+00:00",
+      "NumProgressed": 8607,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-03T18:03:11.7010747+00:00",
@@ -121,33 +126,33 @@
       "ID": "ACHV_M01_COMPLETE",
       "SetID": "2l5j4fd",
       "Name": "Epsilon Base",
-      "Percentage": 20,
+      "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 718
+      "UsersEstimate": 2324
     },
     {
       "ID": "ACHV_M02_COMPLETE",
       "SetID": "2l5j4fd",
       "Name": "The Boneyard",
-      "Percentage": 4,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 144
+      "UsersEstimate": 1119
     },
     {
       "ID": "ACHV_M03_COMPLETE",
       "SetID": "2l5j4fd",
       "Name": "Cape Wrath",
-      "Percentage": 0.1,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 258
     },
     {
       "ID": "ACHV_M04_COMPLETE",
       "SetID": "2l5j4fd",
       "Name": "Kalash Site",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHV_M05_COMPLETE",
@@ -211,7 +216,7 @@
       "Name": "Torin Crater",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHV_M13_COMPLETE",
@@ -225,9 +230,9 @@
       "ID": "ACHV_MP_1V1_TIER_LV_1",
       "SetID": "2l5j4fd",
       "Name": "Multiplayer: 1v1 - Bronze",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHV_MP_2V2_TIER_LV_1",
@@ -243,7 +248,7 @@
       "Name": "Multiplayer: 3v3 - Bronze",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHV_MP_ANNIHILATION_COALITION_10",
@@ -283,7 +288,7 @@
       "Name": "Multiplayer: Carrier Annihilation Coalition",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHV_MP_C_ANNIHILATION_COALITION_100",
@@ -299,7 +304,7 @@
       "Name": "Multiplayer: Carrier Annihilation Gaalsien",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHV_MP_C_ANNIHILATION_GAALSI_100",
@@ -315,7 +320,7 @@
       "Name": "Multiplayer: Carrier Annihilation Khaaneph",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHV_MP_C_ANNIHILATION_KHAANEPH_100",
@@ -363,7 +368,7 @@
       "Name": "Multiplayer: Artifact Hunter 50 Coalition",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHV_MP_RETRIEVAL_COUNT_COALITION_500",
@@ -473,28 +478,28 @@
       "ID": "ACHV_TUT_COMPLETE",
       "SetID": "2l5j4fd",
       "Name": "Campaign Tutorial",
-      "Percentage": 33,
+      "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 1185
+      "UsersEstimate": 3443
     }
   ],
   "AchievementSets": [
     {
       "ID": "2l5j4fd",
       "IsBase": true,
-      "Progressed": 3592,
+      "Progressed": 8607,
       "Completed": 0
     },
     {
       "ID": "a9dj9gi",
       "IsBase": false,
-      "Progressed": 3581,
+      "Progressed": 8596,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-01T13:08:41.5079141+00:00",
-  "LastChanged_Achievements": "2023-08-24T16:03:30.5246152+00:00",
+  "LastChanged_Achievements": "2023-08-24T17:03:20.0002964+00:00",
   "LastUpdate_AppInfo": "2023-08-24T15:57:21.5906946+00:00",
-  "LastUpdate_Ratings": "2023-08-24T15:59:12.0544883+00:00",
-  "LastUpdate_Achievements": "2023-08-24T16:03:30.5246587+00:00"
+  "LastUpdate_Ratings": "2023-08-24T16:59:25.5581631+00:00",
+  "LastUpdate_Achievements": "2023-08-24T17:03:20.0003587+00:00"
 }

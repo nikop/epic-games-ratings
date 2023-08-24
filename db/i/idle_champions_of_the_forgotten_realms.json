@@ -6002,10 +6002,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 31191,
       "NumberOfAwardsMax": 5179
+    },
+    {
+      "Time": "2023-08-24T17:01:43.0139156+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 31193,
+      "NumberOfAwardsMax": 5179
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31191,
+  "NumberOfAwards": 31193,
   "NumberOfAwardsMax": 5179,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6037,7 +6043,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 4066
+      "Count": 4068
     },
     {
       "Text": "This game has Amazing Characters",
@@ -6052,9 +6058,9 @@
       "Count": 3366
     }
   ],
-  "EOS_Progressed": 224580,
+  "EOS_Progressed": 224599,
   "EOS_Completed": 2210,
-  "EOS_NewPlayers": 1837,
+  "EOS_NewPlayers": 1834,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -19842,6 +19848,11 @@
       "Time": "2023-08-24T16:06:51.3263971+00:00",
       "NumProgressed": 224580,
       "NumCompleted": 2210
+    },
+    {
+      "Time": "2023-08-24T17:07:35.5270215+00:00",
+      "NumProgressed": 224599,
+      "NumCompleted": 2210
     }
   ],
   "TotalAchievements": 516,
@@ -20221,7 +20232,7 @@
       "Name": "Beast Intentions",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1348
     },
     {
       "ID": "objective_completed_110",
@@ -21525,15 +21536,15 @@
       "Name": "The Cursed Farmer",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1348
     },
     {
       "ID": "objective_completed_34",
       "SetID": "cc37lbc",
       "Name": "The Ring of Regeneration",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 674
+      "UsersEstimate": 898
     },
     {
       "ID": "objective_completed_35",
@@ -21667,9 +21678,9 @@
       "ID": "objective_completed_393",
       "SetID": "cc37lbc",
       "Name": "Backtracking Through Barovia",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 449
     },
     {
       "ID": "objective_completed_394",
@@ -23980,21 +23991,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 190854,
+      "Progressed": 190873,
       "Completed": 3302
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 224580,
+      "Progressed": 224599,
       "Completed": 2210
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-08-24T15:00:10.1425387+00:00",
-  "LastChanged_Achievements": "2023-08-24T16:06:51.3263963+00:00",
+  "LastChanged": "2023-08-24T17:01:43.0139153+00:00",
+  "LastChanged_Achievements": "2023-08-24T17:07:35.5270211+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:12.3267162+00:00",
-  "LastUpdate_Ratings": "2023-08-24T16:01:02.2844982+00:00",
-  "LastUpdate_Achievements": "2023-08-24T16:06:51.3296866+00:00"
+  "LastUpdate_Ratings": "2023-08-24T17:01:43.0139162+00:00",
+  "LastUpdate_Achievements": "2023-08-24T17:07:35.5295679+00:00"
 }

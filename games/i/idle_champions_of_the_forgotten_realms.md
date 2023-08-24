@@ -7,13 +7,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 2.00% | ~4,492 |
-| Beast Intentions | 0.60% | ~1,347 |
-| The Cursed Farmer | 0.60% | ~1,347 |
+| Beast Intentions | 0.60% | ~1,348 |
+| The Cursed Farmer | 0.60% | ~1,348 |
 | The Hunt for The Last Breath | 0.50% | ~954 |
+| The Ring of Regeneration | 0.40% | ~898 |
 | The Mad Wizard | 0.40% | ~898 |
 | To Infinity's and Beyond | 0.40% | ~763 |
 | Were-verpowered | 0.30% | ~674 |
-| The Ring of Regeneration | 0.30% | ~674 |
 | Seeking Allies | 0.30% | ~674 |
 | Are Ya Chicken? | 0.30% | ~674 |
 | The Chaotic Hunt for The Last Breath | 0.30% | ~573 |
@@ -50,6 +50,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Crumbling Temple | 0.20% | ~449 |
 | The Death Curse | 0.20% | ~449 |
 | Flies on the Wall | 0.20% | ~449 |
+| Backtracking Through Barovia | 0.20% | ~449 |
 | Nimble Escape | 0.20% | ~449 |
 | Useless Allies | 0.20% | ~449 |
 | Premature Betrayal | 0.20% | ~449 |
@@ -260,7 +261,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Killer Mists | 0.10% | ~225 |
 | Class Vacation | 0.10% | ~225 |
 | A Nod from Strahd | 0.10% | ~191 |
-| Backtracking Through Barovia | 0.10% | ~225 |
 | Diversity Day-Trip | 0.10% | ~225 |
 | Late Game | 0.10% | ~225 |
 | Shadowfell Stalwarts | 0.10% | ~191 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~191 |
 | Animated Giff | 0.10% | ~191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,580 (Ranked 53)  
+Progressed: 224,599 (Ranked 53)  
 Completed: 2,210 (0.98%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -649,10 +649,10 @@ Completed: 2,210 (0.98%) (Ranked 121)
 | 2023-08-21 | 223,996 | 2,203 |
 | 2023-08-22 | 224,213 | 2,207 |
 | 2023-08-23 | 224,434 | 2,210 |
-| 2023-08-24 | 224,580 | 2,210 |
+| 2023-08-24 | 224,599 | 2,210 |
 ## Awards
 Max (Diverse Characters): 5,179  (Ranked 68)  
-Sum: 31,191 (Ranked 39)  
+Sum: 31,193 (Ranked 39)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -661,7 +661,7 @@ Diff (max vs sum): 29
 | This game has Quickly Understood Controls | 4,733 |
 | This game is Relaxing | 4,621 |
 | This game has Amazing Characters | 4,082 |
-| This game is Highly Recommended | 4,066 |
+| This game is Highly Recommended | 4,068 |
 | This game has Playful Visuals | 3,366 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -876,4 +876,4 @@ Diff (max vs sum): 29
 | 2023-08-21 | 4.06 | - | 5,176 | 31,155 |
 | 2023-08-22 | 4.06 | - | 5,176 | 31,169 |
 | 2023-08-23 | 4.06 | - | 5,179 | 31,183 |
-| 2023-08-24 | 4.06 | - | 5,179 | 31,191 |
+| 2023-08-24 | 4.06 | - | 5,179 | 31,193 |

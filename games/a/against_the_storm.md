@@ -14,23 +14,23 @@ Number of Ratings: 1,845  (23.09.2022)
 | Fertile Meadows | 4.00% | ~655 |
 | Coral Forest | 4.00% | ~655 |
 | The Scarlet Orchard | 4.00% | ~655 |
-| Homesick | 3.00% | ~491 |
-| Bandit Camp | 3.00% | ~491 |
-| Barren Lands | 3.00% | ~491 |
-| Ancient Battleground | 3.00% | ~491 |
-| Sparkdew Crystals | 3.00% | ~491 |
-| Haunted Forest | 3.00% | ~491 |
-| Levitating Monument | 3.00% | ~491 |
-| Flooded Mines | 3.00% | ~491 |
-| Monastery of the Holy Flame | 3.00% | ~491 |
-| Royal Outpost | 3.00% | ~491 |
-| Lost Colonies | 3.00% | ~491 |
-| Statue of the Forefathers | 3.00% | ~491 |
-| Corrosive Torrent | 3.00% | ~491 |
-| Watchtower | 3.00% | ~491 |
-| Cursed Lands | 3.00% | ~491 |
-| A Real Challenge | 3.00% | ~491 |
-| Trade Baron | 3.00% | ~491 |
+| Homesick | 3.00% | ~492 |
+| Bandit Camp | 3.00% | ~492 |
+| Barren Lands | 3.00% | ~492 |
+| Ancient Battleground | 3.00% | ~492 |
+| Sparkdew Crystals | 3.00% | ~492 |
+| Haunted Forest | 3.00% | ~492 |
+| Levitating Monument | 3.00% | ~492 |
+| Flooded Mines | 3.00% | ~492 |
+| Monastery of the Holy Flame | 3.00% | ~492 |
+| Royal Outpost | 3.00% | ~492 |
+| Lost Colonies | 3.00% | ~492 |
+| Statue of the Forefathers | 3.00% | ~492 |
+| Corrosive Torrent | 3.00% | ~492 |
+| Watchtower | 3.00% | ~492 |
+| Cursed Lands | 3.00% | ~492 |
+| A Real Challenge | 3.00% | ~492 |
+| Trade Baron | 3.00% | ~492 |
 | Serving Ale | 2.00% | ~328 |
 | Refinery | 2.00% | ~328 |
 | Against All Odds | 2.00% | ~328 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.20% | ~33 |
 | Paradise | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,383 (Ranked 113)  
+Progressed: 16,385 (Ranked 113)  
 Completed: 47 (0.29%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 47 (0.29%) (Ranked 174)
 | 2023-08-21 | 16,360 | 46 |
 | 2023-08-22 | 16,365 | 47 |
 | 2023-08-23 | 16,376 | 47 |
-| 2023-08-24 | 16,383 | 47 |
+| 2023-08-24 | 16,385 | 47 |
 ## Awards
 Max (Quickly Understood Controls): 424  (Ranked 209)  
 Sum: 3,114 (Ranked 161)  

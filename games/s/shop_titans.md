@@ -29,6 +29,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Gild-Gotten Goods | 0.50% | ~675 |
 | Accomplished Merchant | 0.50% | ~675 |
 | Dungeon Imports | 0.50% | ~675 |
+| Did we pack lunch? | 0.50% | ~675 |
 | On the Path to Greatness | 0.40% | ~540 |
 | Ascended | 0.40% | ~540 |
 | Research & Development | 0.40% | ~540 |
@@ -41,7 +42,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Gem Expert | 0.40% | ~540 |
 | Helping Hand | 0.40% | ~540 |
 | Natural 20 | 0.40% | ~540 |
-| Did we pack lunch? | 0.40% | ~540 |
 | Arcane Industries | 0.40% | ~540 |
 | A Notch Above the Rest | 0.30% | ~405 |
 | Cream of the Crop | 0.30% | ~405 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~135 |
 | Cash Only Please | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,012 (Ranked 66)  
+Progressed: 135,018 (Ranked 66)  
 Completed: 138 (0.10%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,7 +245,7 @@ Completed: 138 (0.10%) (Ranked 210)
 | 2023-08-21 | 134,907 | 134 |
 | 2023-08-22 | 134,956 | 136 |
 | 2023-08-23 | 134,997 | 138 |
-| 2023-08-24 | 135,012 | 138 |
+| 2023-08-24 | 135,018 | 138 |
 ## Awards
 Max (Great for Beginners): 4,709  (Ranked 71)  
 Sum: 27,131 (Ranked 47)  

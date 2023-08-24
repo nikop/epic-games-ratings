@@ -5,9 +5,9 @@
   "Ranking_Rating": 171,
   "Ranking_Popularity": 314,
   "Ranking_PopularitySum": 253,
-  "Ranking_EOS_Progress": 131,
+  "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -980,9 +980,9 @@
       "Count": 124
     }
   ],
-  "EOS_Progressed": 8134,
+  "EOS_Progressed": 8135,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -4435,6 +4435,11 @@
       "Time": "2023-08-24T08:07:07.7181102+00:00",
       "NumProgressed": 8134,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-08-24T17:08:17.0702144+00:00",
+      "NumProgressed": 8135,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 24,
@@ -4470,7 +4475,7 @@
       "Name": "Focus!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5124
+      "UsersEstimate": 5125
     },
     {
       "ID": "DemonCastleRestoration",
@@ -4502,7 +4507,7 @@
       "Name": "Deadly Power",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 1301
+      "UsersEstimate": 1302
     },
     {
       "ID": "FirstHeroLastBattle",
@@ -4574,7 +4579,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5124
+      "UsersEstimate": 5125
     },
     {
       "ID": "SavedElderEnt_2",
@@ -4606,7 +4611,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7565
+      "UsersEstimate": 7566
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -4614,7 +4619,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 3904
+      "UsersEstimate": 3905
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -4622,7 +4627,7 @@
       "Name": "Master of Speed",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 813
+      "UsersEstimate": 814
     },
     {
       "ID": "WhattoBuy",
@@ -4637,15 +4642,15 @@
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8134,
+      "Progressed": 8135,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-08-23T17:02:24.1541742+00:00",
-  "LastChanged_Achievements": "2023-08-24T16:07:16.902322+00:00",
+  "LastChanged_Achievements": "2023-08-24T17:08:17.0702137+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:36.3255081+00:00",
-  "LastUpdate_Ratings": "2023-08-24T16:01:41.262493+00:00",
-  "LastUpdate_Achievements": "2023-08-24T16:07:16.902374+00:00"
+  "LastUpdate_Ratings": "2023-08-24T17:02:42.0666486+00:00",
+  "LastUpdate_Achievements": "2023-08-24T17:08:17.0702588+00:00"
 }

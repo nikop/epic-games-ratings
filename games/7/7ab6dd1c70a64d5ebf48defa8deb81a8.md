@@ -40,7 +40,7 @@
 | A Queen's Tale | 0.00% | ~0 |
 | Summiter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24 (Ranked 411)  
+Progressed: 24 (Ranked 412)  
 Completed: 1 (4.17%) (Ranked 59)  
 ## EOS Players History
 | Date | Progressed | Completed |

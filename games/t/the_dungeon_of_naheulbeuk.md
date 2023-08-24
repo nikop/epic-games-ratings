@@ -1,31 +1,31 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.58 (Ranked 426)  
+Rating: 4.58 (Ranked 427)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 23.00% | ~49,821 |
-| Déjà vu | 2.00% | ~4,332 |
-| Where's that freaking Dwarf? | 2.00% | ~4,332 |
-| Sock! SOCK! | 2.00% | ~4,332 |
-| Alt+F4 | 2.00% | ~4,332 |
+| Sowwy! | 23.00% | ~49,829 |
+| Déjà vu | 2.00% | ~4,333 |
+| Where's that freaking Dwarf? | 2.00% | ~4,333 |
+| Sock! SOCK! | 2.00% | ~4,333 |
+| Alt+F4 | 2.00% | ~4,333 |
 | A beer, two curses, three companions | 1.00% | ~2,166 |
 | GG EZ | 1.00% | ~2,166 |
 | DM intervention | 1.00% | ~2,166 |
 | Speedrun | 1.00% | ~2,166 |
 | Fireproof Wizardess | 1.00% | ~2,166 |
-| Way of the Wimp | 0.90% | ~1,949 |
-| The plot thickens... At the tavern | 0.90% | ~1,949 |
+| Way of the Wimp | 0.90% | ~1,950 |
+| The plot thickens... At the tavern | 0.90% | ~1,950 |
 | Livin' in a dwarven paradise | 0.80% | ~1,733 |
-| The demons' feast | 0.70% | ~1,516 |
-| The Great Library | 0.70% | ~1,516 |
-| Torture and Sensibility | 0.70% | ~1,516 |
-| Urik's Depths | 0.70% | ~1,516 |
-| The Woman in the High Castle | 0.70% | ~1,516 |
-| Team Building Exercise | 0.70% | ~1,516 |
-| Oh, when I'll be level 10... | 0.70% | ~1,516 |
+| The demons' feast | 0.70% | ~1,517 |
+| The Great Library | 0.70% | ~1,517 |
+| Torture and Sensibility | 0.70% | ~1,517 |
+| Urik's Depths | 0.70% | ~1,517 |
+| The Woman in the High Castle | 0.70% | ~1,517 |
+| Team Building Exercise | 0.70% | ~1,517 |
+| Oh, when I'll be level 10... | 0.70% | ~1,517 |
 | Shiny and Crôm | 0.60% | ~1,300 |
 | The Dungeon Master | 0.60% | ~1,300 |
 | The Statuette of Gladeulfeurah | 0.60% | ~1,300 |
@@ -39,8 +39,8 @@ Number of Ratings: 118  (23.09.2022)
 | Look but don't touch | 0.50% | ~1,083 |
 | The beards of change | 0.50% | ~1,083 |
 | Thieves' Guild Accreditation | 0.50% | ~1,083 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.40% | ~866 |
-| Lust and Debauchery | 0.40% | ~866 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.40% | ~867 |
+| Lust and Debauchery | 0.40% | ~867 |
 | Dead for good | 0.30% | ~650 |
 | Gargantua | 0.30% | ~650 |
 | In Navalu's footsteps | 0.30% | ~650 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~217 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,611 (Ranked 56)  
+Progressed: 216,646 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 2 (0.00%) (Ranked 262)
 | 2023-08-21 | 215,690 | 2 |
 | 2023-08-22 | 216,036 | 2 |
 | 2023-08-23 | 216,367 | 2 |
-| 2023-08-24 | 216,611 | 2 |
+| 2023-08-24 | 216,646 | 2 |
 ## Awards
 Max (Character Customization): 174  (Ranked 285)  
 Sum: 217 (Ranked 364)  

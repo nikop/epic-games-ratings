@@ -26,6 +26,7 @@ Rating: 4.54 (Ranked 501)
 | Hazardous Materials | 0.10% | ~664 |
 | Friends Like These | 0.10% | ~664 |
 | Hotel California | 0.10% | ~664 |
+| Donk! | 0.10% | ~664 |
 | Internet Famous | 0.10% | ~664 |
 | Sole Survivor | 0.10% | ~664 |
 | Jumbo Keyring | 0.10% | ~664 |
@@ -49,10 +50,9 @@ Rating: 4.54 (Ranked 501)
 | Welcome To Hell-A | 0.10% | ~664 |
 | Rising Star | 0.10% | ~664 |
 | Bucket List | 0.10% | ~664 |
-| Donk! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 664,173 (Ranked 22)  
-Completed: 2,056 (0.31%) (Ranked 170)  
+Progressed: 664,239 (Ranked 22)  
+Completed: 2,057 (0.31%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -177,7 +177,7 @@ Completed: 2,056 (0.31%) (Ranked 170)
 | 2023-08-21 | 662,252 | 2,050 |
 | 2023-08-22 | 662,956 | 2,053 |
 | 2023-08-23 | 663,691 | 2,054 |
-| 2023-08-24 | 664,173 | 2,056 |
+| 2023-08-24 | 664,239 | 2,057 |
 ## Awards
 Max (Great Boss Battles): 5,743  (Ranked 62)  
 Sum: 8,455 (Ranked 97)  

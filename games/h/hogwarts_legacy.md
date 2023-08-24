@@ -8,24 +8,24 @@ Rating: 4.77 (Ranked 109)
 | The Sort Who Makes an Entrance | 13.00% | ~37,792 |
 | First Class Student | 11.00% | ~31,978 |
 | Troll with the Punches | 11.00% | ~31,978 |
-| The Hallowed Hero | 10.00% | ~29,070 |
-| The Defender of Dragons | 10.00% | ~29,070 |
-| A Keen Sense of Spell | 10.00% | ~29,070 |
-| A Talent for Spending | 10.00% | ~29,070 |
-| That's a Keeper | 10.00% | ~29,070 |
-| Grappling with a Graphorn | 9.00% | ~26,163 |
-| The One Who Mastered Memories | 9.00% | ~26,163 |
-| The Hero of Hogwarts | 9.00% | ~26,163 |
-| Challenge Accepted | 9.00% | ~26,163 |
-| Loom for Improvement | 9.00% | ~26,163 |
-| Coasting Along | 9.00% | ~26,163 |
-| Followed the Butterflies | 8.00% | ~23,256 |
-| The Spell Master | 8.00% | ~23,256 |
-| Rising From the Ashes | 8.00% | ~23,256 |
-| The Avenging Gazelle | 7.00% | ~20,349 |
-| Beast Friends | 7.00% | ~20,349 |
-| A Sallow Grave | 7.00% | ~20,349 |
-| Flight the Good Flight | 7.00% | ~20,349 |
+| The Hallowed Hero | 10.00% | ~29,071 |
+| The Defender of Dragons | 10.00% | ~29,071 |
+| A Keen Sense of Spell | 10.00% | ~29,071 |
+| A Talent for Spending | 10.00% | ~29,071 |
+| That's a Keeper | 10.00% | ~29,071 |
+| Grappling with a Graphorn | 9.00% | ~26,164 |
+| The One Who Mastered Memories | 9.00% | ~26,164 |
+| The Hero of Hogwarts | 9.00% | ~26,164 |
+| Challenge Accepted | 9.00% | ~26,164 |
+| Loom for Improvement | 9.00% | ~26,164 |
+| Coasting Along | 9.00% | ~26,164 |
+| Followed the Butterflies | 8.00% | ~23,257 |
+| The Spell Master | 8.00% | ~23,257 |
+| Rising From the Ashes | 8.00% | ~23,257 |
+| The Avenging Gazelle | 7.00% | ~20,350 |
+| Beast Friends | 7.00% | ~20,350 |
+| A Sallow Grave | 7.00% | ~20,350 |
+| Flight the Good Flight | 7.00% | ~20,350 |
 | The Seeker of Knowledge | 5.00% | ~14,535 |
 | The Root of the Problem | 5.00% | ~14,535 |
 | Third Time's a Charm | 5.00% | ~14,535 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,744 |
 | Collector's Edition | 0.30% | ~872 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,705 (Ranked 43)  
+Progressed: 290,709 (Ranked 43)  
 Completed: 454 (0.16%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,10 +177,10 @@ Completed: 454 (0.16%) (Ranked 194)
 | 2023-08-21 | 290,578 | 453 |
 | 2023-08-22 | 290,631 | 454 |
 | 2023-08-23 | 290,678 | 454 |
-| 2023-08-24 | 290,705 | 454 |
+| 2023-08-24 | 290,709 | 454 |
 ## Awards
 Max (Character Customization): 21,908  (Ranked 17)  
-Sum: 41,473 (Ranked 30)  
+Sum: 41,474 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -190,7 +190,7 @@ Diff (max vs sum): -13
 | This game is Relaxing | 966 |
 | This game is Extremely Fun | 965 |
 | This game has Amazing Storytelling | 958 |
-| This game has Diverse Characters | 948 |
+| This game has Diverse Characters | 949 |
 | This game has Amazing Characters | 931 |
 | This game is Highly Recommended | 904 |
 | This game has Quickly Understood Controls | 856 |
@@ -352,4 +352,4 @@ Diff (max vs sum): -13
 | 2023-08-21 | 4.77 | 21,871 | 41,371 |
 | 2023-08-22 | 4.77 | 21,884 | 41,412 |
 | 2023-08-23 | 4.77 | 21,894 | 41,450 |
-| 2023-08-24 | 4.77 | 21,908 | 41,473 |
+| 2023-08-24 | 4.77 | 21,908 | 41,474 |

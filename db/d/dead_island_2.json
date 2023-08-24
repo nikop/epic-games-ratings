@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 97,
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 17,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -3948,9 +3948,9 @@
       "Count": 324
     }
   ],
-  "EOS_Progressed": 664173,
-  "EOS_Completed": 2056,
-  "EOS_NewPlayers": 5759,
+  "EOS_Progressed": 664239,
+  "EOS_Completed": 2057,
+  "EOS_NewPlayers": 5761,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -17923,6 +17923,11 @@
       "Time": "2023-08-24T16:03:32.61099+00:00",
       "NumProgressed": 664173,
       "NumCompleted": 2056
+    },
+    {
+      "Time": "2023-08-24T17:03:22.7570423+00:00",
+      "NumProgressed": 664239,
+      "NumCompleted": 2057
     }
   ],
   "TotalAchievements": 45,
@@ -18100,9 +18105,9 @@
       "ID": "ach_impressive_aim",
       "SetID": "7km39fm",
       "Name": "Donk!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 664
     },
     {
       "ID": "ach_internet_famous",
@@ -18293,16 +18298,16 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 664173,
-      "Completed": 2056
+      "Progressed": 664239,
+      "Completed": 2057
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-08-24T16:01:13.5521507+00:00",
-  "LastChanged_Achievements": "2023-08-24T16:03:32.610989+00:00",
+  "LastChanged_Achievements": "2023-08-24T17:03:22.7570418+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:28.9594263+00:00",
-  "LastUpdate_Ratings": "2023-08-24T16:01:13.5521513+00:00",
-  "LastUpdate_Achievements": "2023-08-24T16:03:32.6111984+00:00"
+  "LastUpdate_Ratings": "2023-08-24T17:02:02.7710709+00:00",
+  "LastUpdate_Achievements": "2023-08-24T17:03:22.7571907+00:00"
 }

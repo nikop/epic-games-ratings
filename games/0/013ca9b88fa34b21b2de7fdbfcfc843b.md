@@ -40,7 +40,7 @@
 | Botanical Breakthrough | 0.00% | ~0 |
 | Very Skilled | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18 (Ranked 426)  
+Progressed: 18 (Ranked 427)  
 Completed: 0 (0.00%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -4,10 +4,10 @@
   "ProductSlug": "humankind",
   "Ranking_Rating": 543,
   "Ranking_Popularity": 328,
-  "Ranking_PopularitySum": 250,
+  "Ranking_PopularitySum": 249,
   "Ranking_EOS_Progress": 558,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 351,
+  "Ranking_EOS_NewPlayers": 352,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-08-17T14:00:00+00:00",
@@ -1206,10 +1206,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 920,
       "NumberOfAwardsMax": 108
+    },
+    {
+      "Time": "2023-08-24T17:01:52.8689496+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 922,
+      "NumberOfAwardsMax": 108
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 920,
+  "NumberOfAwards": 922,
   "NumberOfAwardsMax": 108,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -1217,7 +1223,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 104
+      "Count": 106
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1297,8 +1303,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:22.8287391+00:00",
-  "LastChanged": "2023-08-23T21:59:52.2346102+00:00",
+  "LastChanged": "2023-08-24T17:01:52.8689495+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:21.8981288+00:00",
-  "LastUpdate_Ratings": "2023-08-24T16:01:08.8284084+00:00",
-  "LastUpdate_Achievements": "2023-08-24T16:06:53.601156+00:00"
+  "LastUpdate_Ratings": "2023-08-24T17:01:52.86895+00:00",
+  "LastUpdate_Achievements": "2023-08-24T17:07:37.9765198+00:00"
 }

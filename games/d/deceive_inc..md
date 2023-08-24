@@ -1,14 +1,14 @@
 # Deceive Inc.
 [Store](https://store.epicgames.com/en-US/p/deceive-inc)  
 [View Rawdata](../../db/d/deceive_inc..json)  
-Rating: 4.58 (Ranked 426)  
+Rating: 4.58 (Ranked 427)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | On Deceive Inc.'s Secret Service | 29.00% | ~5,107 |
 | Mainframe Hacker | 23.00% | ~4,051 |
 | The Spy who eliminated me | 23.00% | ~4,051 |
-| Tomorrow Never Dyes | 22.00% | ~3,874 |
+| Tomorrow Never Dyes | 22.00% | ~3,875 |
 | Never Say Loser Again | 19.00% | ~3,346 |
 | From the Vault with Love | 18.00% | ~3,170 |
 | Tailor-Made | 18.00% | ~3,170 |
@@ -16,7 +16,7 @@ Rating: 4.58 (Ranked 426)
 | Assistant Accountant | 17.00% | ~2,994 |
 | Fully Decked Out | 17.00% | ~2,994 |
 | You Only Live Twice | 16.00% | ~2,818 |
-| A view to Win | 13.00% | ~2,289 |
+| A view to Win | 13.00% | ~2,290 |
 | The Living Portrait | 12.00% | ~2,113 |
 | Private Collection | 12.00% | ~2,113 |
 | Hostile Takeover | 12.00% | ~2,113 |
@@ -36,13 +36,13 @@ Rating: 4.58 (Ranked 426)
 | PHD in VIP | 2.00% | ~352 |
 | The terminals are not enough | 1.00% | ~176 |
 | Lose Another Day | 1.00% | ~176 |
-| Chairman of Deceive Inc. | 0.90% | ~158 |
+| Chairman of Deceive Inc. | 0.90% | ~159 |
 | Chief Information Officer | 0.70% | ~123 |
 | Masteries Are Forever | 0.40% | ~70 |
 | Extraction Confusion | 0.20% | ~35 |
 | Spyfall | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,611 (Ranked 110)  
+Progressed: 17,612 (Ranked 110)  
 Completed: 1 (0.01%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 1 (0.01%) (Ranked 249)
 | 2023-08-21 | 17,540 | 1 |
 | 2023-08-22 | 17,562 | 1 |
 | 2023-08-23 | 17,592 | 1 |
-| 2023-08-24 | 17,611 | 1 |
+| 2023-08-24 | 17,612 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

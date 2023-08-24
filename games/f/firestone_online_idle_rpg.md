@@ -5,23 +5,23 @@ Rating: 4.05 (Ranked 925)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,714 |
-| World Map | 79.00% | ~1,456 |
-| Temple of Eternals | 56.00% | ~1,032 |
+| Victor | 93.00% | ~1,715 |
+| World Map | 79.00% | ~1,457 |
+| Temple of Eternals | 56.00% | ~1,033 |
 | Prestigious | 53.00% | ~977 |
 | Fellowship Power | 41.00% | ~756 |
 | Guild Power | 25.00% | ~461 |
-| Prestigious x10 | 22.00% | ~405 |
+| Prestigious x10 | 22.00% | ~406 |
 | The game is on | 20.00% | ~369 |
 | Exotic Merchant | 19.00% | ~350 |
 | Dragon Clicker | 17.00% | ~313 |
 | Miner Clicker | 17.00% | ~313 |
 | Full Party | 16.00% | ~295 |
 | Inspection | 16.00% | ~295 |
-| Dragon Master | 15.00% | ~276 |
-| Enlightenment | 15.00% | ~276 |
-| Hero inspection | 15.00% | ~276 |
-| Lieutenant | 14.00% | ~258 |
+| Dragon Master | 15.00% | ~277 |
+| Enlightenment | 15.00% | ~277 |
+| Hero inspection | 15.00% | ~277 |
+| Lieutenant | 15.00% | ~277 |
 | Mysterious Rock | 14.00% | ~258 |
 | Milestone collector | 13.00% | ~240 |
 | Natural Talent | 13.00% | ~240 |
@@ -42,8 +42,8 @@ Rating: 4.05 (Ranked 925)
 | Here We Go Again | 9.00% | ~166 |
 | Master Enchanter | 9.00% | ~166 |
 | The father of Dragons | 9.00% | ~166 |
-| Crystal Mining | 8.00% | ~147 |
-| Trader | 8.00% | ~147 |
+| Crystal Mining | 8.00% | ~148 |
+| Trader | 8.00% | ~148 |
 | Blueprint Upgrades | 7.00% | ~129 |
 | Dragon Slayer | 7.00% | ~129 |
 | Enchanting skill | 7.00% | ~129 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 925)
 | Silverwood liberator | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,843 (Ranked 174)  
+Progressed: 1,844 (Ranked 174)  
 Completed: 2 (0.11%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 2 (0.11%) (Ranked 207)
 | 2023-08-21 | 1,837 | 2 |
 | 2023-08-22 | 1,838 | 2 |
 | 2023-08-23 | 1,841 | 2 |
-| 2023-08-24 | 1,843 | 2 |
+| 2023-08-24 | 1,844 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
