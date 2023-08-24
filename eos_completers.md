@@ -10,8 +10,8 @@
 | 8 | [Overloop](games/o/overloop.md) | 25.00% |
 | 9 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 10 | [Volley Pals](games/v/volley_pals.md) | 23.58% |
-| 11 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 22.81% |
-| 12 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.46% |
+| 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.19% |
+| 12 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 22.81% |
 | 13 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 13 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 15 | [Island Cities](games/i/island_cities.md) | 18.57% |
@@ -72,7 +72,7 @@
 | 70 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
 | 71 | [HordeCore](games/h/hordecore.md) | 3.15% |
 | 72 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.13% |
-| 73 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.12% |
+| 73 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.11% |
 | 74 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.04% |
 | 75 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.02% |
 | 76 | [Monster Harvest](games/m/monster_harvest.md) | 2.93% |
@@ -85,9 +85,9 @@
 | 83 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.59% |
 | 83 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.59% |
 | 85 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.56% |
-| 86 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.55% |
-| 87 | [Lamentum](games/l/lamentum.md) | 2.53% |
-| 88 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 86 | [Lamentum](games/l/lamentum.md) | 2.53% |
+| 87 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 88 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.49% |
 | 89 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.42% |
 | 90 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.28% |
 | 91 | [Bloodshore](games/b/bloodshore.md) | 2.21% |
@@ -234,14 +234,14 @@
 | 230 | [House Party](games/h/house_party.md) | 0.05% |
 | 233 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
 | 233 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.04% |
+| 233 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 0.04% |
 | 233 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.04% |
 | 233 | [Old World](games/o/old_world.md) | 0.04% |
 | 233 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.04% |
 | 233 | [Tropico 6](games/t/tropico_6.md) | 0.04% |
-| 239 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.03% |
-| 239 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 0.03% |
-| 239 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
-| 239 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.03% |
+| 240 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.03% |
+| 240 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
+| 240 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.03% |
 | 243 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.02% |
 | 243 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
 | 243 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 0.02% |
