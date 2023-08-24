@@ -30,7 +30,7 @@
 | 28 | [Remains](games/r/remains.md) | 10.64% |
 | 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.32% |
 | 30 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
-| 31 | [Sonic Origins](games/s/sonic_origins.md) | 9.38% |
+| 31 | [Sonic Origins](games/s/sonic_origins.md) | 9.35% |
 | 32 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
 | 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.99% |
 | 34 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.47% |
@@ -51,7 +51,7 @@
 | 49 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.33% |
 | 50 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.26% |
 | 51 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.13% |
-| 52 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.06% |
+| 52 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.09% |
 | 53 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.78% |
 | 54 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 4.76% |
 | 55 | [Bugsnax](games/b/bugsnax.md) | 4.73% |
@@ -62,7 +62,7 @@
 | 60 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.11% |
 | 61 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.10% |
 | 62 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.99% |
-| 63 | [ZZT!](games/z/zzt!.md) | 3.87% |
+| 63 | [ZZT!](games/z/zzt!.md) | 3.86% |
 | 64 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 65 | [Without Escape](games/w/without_escape.md) | 3.57% |
 | 66 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
@@ -76,8 +76,8 @@
 | 74 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.04% |
 | 75 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.03% |
 | 76 | [Monster Harvest](games/m/monster_harvest.md) | 2.94% |
-| 77 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.93% |
 | 77 | [MultiVersus](games/m/multiversus.md) | 2.93% |
+| 78 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.83% |
 | 79 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.80% |
 | 80 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.78% |
 | 81 | [Destiny 2](games/d/destiny_2.md) | 2.74% |
@@ -171,9 +171,9 @@
 | 168 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.33% |
 | 170 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 170 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
+| 172 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
 | 172 | [The First Tree](games/t/the_first_tree.md) | 0.30% |
-| 173 | [Against the Storm](games/a/against_the_storm.md) | 0.29% |
-| 173 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
+| 174 | [Against the Storm](games/a/against_the_storm.md) | 0.29% |
 | 175 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
 | 175 | [Scrapnaut](games/s/scrapnaut.md) | 0.28% |
 | 175 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.28% |
