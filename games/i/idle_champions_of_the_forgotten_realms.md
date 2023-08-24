@@ -50,6 +50,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Death Curse | 0.20% | ~449 |
 | Flies on the Wall | 0.20% | ~449 |
 | Useless Allies | 0.20% | ~449 |
+| Premature Betrayal | 0.20% | ~449 |
 | Mad Cow Disease | 0.20% | ~449 |
 | Exploring Port Nyanzaru | 0.20% | ~449 |
 | A Tale of Two Cities | 0.20% | ~449 |
@@ -270,7 +271,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Twilight Twist | 0.10% | ~191 |
 | Excavating History | 0.10% | ~224 |
 | Screams of the Dead | 0.10% | ~224 |
-| Premature Betrayal | 0.10% | ~224 |
 | Frantic Excavation | 0.10% | ~224 |
 | Birds of a Feather | 0.10% | ~191 |
 | Towering Expectations | 0.10% | ~224 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~191 |
 | Animated Giff | 0.10% | ~191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,494 (Ranked 53)  
+Progressed: 224,499 (Ranked 53)  
 Completed: 2,210 (0.98%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -649,10 +649,10 @@ Completed: 2,210 (0.98%) (Ranked 121)
 | 2023-08-21 | 223,996 | 2,203 |
 | 2023-08-22 | 224,213 | 2,207 |
 | 2023-08-23 | 224,434 | 2,210 |
-| 2023-08-24 | 224,494 | 2,210 |
+| 2023-08-24 | 224,499 | 2,210 |
 ## Awards
 Max (Diverse Characters): 5,179  (Ranked 68)  
-Sum: 31,183 (Ranked 39)  
+Sum: 31,186 (Ranked 39)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -660,7 +660,7 @@ Diff (max vs sum): 29
 | This game is Great for Beginners | 5,139 |
 | This game has Quickly Understood Controls | 4,733 |
 | This game is Relaxing | 4,621 |
-| This game has Amazing Characters | 4,079 |
+| This game has Amazing Characters | 4,082 |
 | This game is Highly Recommended | 4,066 |
 | This game has Playful Visuals | 3,366 |
 ## Ratings History
@@ -876,3 +876,4 @@ Diff (max vs sum): 29
 | 2023-08-21 | 4.06 | - | 5,176 | 31,155 |
 | 2023-08-22 | 4.06 | - | 5,176 | 31,169 |
 | 2023-08-23 | 4.06 | - | 5,179 | 31,183 |
+| 2023-08-24 | 4.06 | - | 5,179 | 31,186 |

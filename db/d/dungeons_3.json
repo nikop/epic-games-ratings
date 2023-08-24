@@ -2518,9 +2518,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 28269,
+  "EOS_Progressed": 28270,
   "EOS_Completed": 234,
-  "EOS_NewPlayers": 736,
+  "EOS_NewPlayers": 737,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.83,
   "EosHistory": [
@@ -16093,6 +16093,11 @@
       "Time": "2023-08-24T06:05:04.7916755+00:00",
       "NumProgressed": 28269,
       "NumCompleted": 234
+    },
+    {
+      "Time": "2023-08-24T08:05:13.6922476+00:00",
+      "NumProgressed": 28270,
+      "NumCompleted": 234
     }
   ],
   "TotalAchievements": 60,
@@ -16104,7 +16109,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 16396
+      "UsersEstimate": 16397
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -16120,7 +16125,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 16113
+      "UsersEstimate": 16114
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -16168,7 +16173,7 @@
       "Name": "Difficult family relationships",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 7067
+      "UsersEstimate": 7068
     },
     {
       "ID": "ACH_D3_Campaign_DayNight_1",
@@ -16192,7 +16197,7 @@
       "Name": "A trip on sea, what fun it can be",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 9611
+      "UsersEstimate": 9612
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_1",
@@ -16200,7 +16205,7 @@
       "Name": "The Stones\u2019 Power",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 5088
+      "UsersEstimate": 5089
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_2",
@@ -16240,7 +16245,7 @@
       "Name": "Stock Market Crash",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 8763
+      "UsersEstimate": 8764
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_1",
@@ -16248,7 +16253,7 @@
       "Name": "MASS-O-BOT",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 7067
+      "UsersEstimate": 7068
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_2",
@@ -16336,7 +16341,7 @@
       "Name": "Rusty Steel",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 11590
+      "UsersEstimate": 11591
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -16344,7 +16349,7 @@
       "Name": "Thirst quencher",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 7915
+      "UsersEstimate": 7916
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_2",
@@ -16360,7 +16365,7 @@
       "Name": "Ogre Solo!",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 7915
+      "UsersEstimate": 7916
     },
     {
       "ID": "ACH_D3_Campaign_Infested_1",
@@ -16456,7 +16461,7 @@
       "Name": "The Force disturbed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 5936
+      "UsersEstimate": 5937
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_1",
@@ -16464,7 +16469,7 @@
       "Name": "Factory farming",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 8763
+      "UsersEstimate": 8764
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_2",
@@ -16488,7 +16493,7 @@
       "Name": "Death and destruction!",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 12721
+      "UsersEstimate": 12722
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_2",
@@ -16520,7 +16525,7 @@
       "Name": "Band of Brothers",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1413
+      "UsersEstimate": 1414
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_Completed",
@@ -16583,15 +16588,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 28269,
+      "Progressed": 28270,
       "Completed": 234
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-08-24T02:57:15.1356298+00:00",
-  "LastChanged_Achievements": "2023-08-24T07:05:16.4513121+00:00",
+  "LastChanged_Achievements": "2023-08-24T08:05:13.6922472+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:53.4330932+00:00",
-  "LastUpdate_Ratings": "2023-08-24T06:57:46.2175081+00:00",
-  "LastUpdate_Achievements": "2023-08-24T07:05:16.4514232+00:00"
+  "LastUpdate_Ratings": "2023-08-24T07:57:39.6285609+00:00",
+  "LastUpdate_Achievements": "2023-08-24T08:05:13.6923809+00:00"
 }

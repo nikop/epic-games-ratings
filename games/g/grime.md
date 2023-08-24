@@ -6,24 +6,24 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Imprint | 88.00% | ~124,690 |
-| Taste | 84.00% | ~119,022 |
-| The Hunt | 66.00% | ~93,517 |
-| Ravenous | 63.00% | ~89,267 |
-| Weeper | 43.00% | ~60,928 |
-| Devourer | 23.00% | ~32,589 |
-| Harmless | 19.00% | ~26,922 |
-| Silenced Whispers | 19.00% | ~26,922 |
-| Sharpened Vessel | 16.00% | ~22,671 |
-| Yank | 15.00% | ~21,254 |
-| Scion | 12.00% | ~16,953 |
-| Jawcrab | 12.00% | ~17,003 |
-| Feast | 12.00% | ~17,003 |
-| Jawstag | 11.00% | ~15,586 |
-| Watcher | 10.00% | ~14,169 |
-| Shapely | 8.00% | ~11,335 |
+| Imprint | 88.00% | ~124,694 |
+| Taste | 84.00% | ~119,026 |
+| The Hunt | 66.00% | ~93,521 |
+| Ravenous | 63.00% | ~89,270 |
+| Weeper | 43.00% | ~60,930 |
+| Devourer | 23.00% | ~32,591 |
+| Harmless | 19.00% | ~26,923 |
+| Silenced Whispers | 19.00% | ~26,923 |
+| Sharpened Vessel | 16.00% | ~22,672 |
+| Yank | 15.00% | ~21,255 |
+| Scion | 12.00% | ~16,954 |
+| Jawcrab | 12.00% | ~17,004 |
+| Feast | 12.00% | ~17,004 |
+| Jawstag | 11.00% | ~15,587 |
+| Watcher | 10.00% | ~14,170 |
+| Shapely | 8.00% | ~11,336 |
 | Glare | 8.00% | ~11,302 |
-| Predator | 8.00% | ~11,335 |
+| Predator | 8.00% | ~11,336 |
 | Assimilation | 6.00% | ~8,502 |
 | Host | 6.00% | ~8,477 |
 | Celebration | 6.00% | ~8,502 |
@@ -49,7 +49,7 @@ Number of Ratings: 46  (23.09.2022)
 | Instruments | 0.70% | ~992 |
 | Spiral Heart | 0.10% | ~142 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141,693 (Ranked 64)  
+Progressed: 141,698 (Ranked 64)  
 Completed: 1 (0.00%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,10 +156,10 @@ Completed: 1 (0.00%) (Ranked 262)
 | 2023-08-21 | 140,918 | 1 |
 | 2023-08-22 | 141,230 | 1 |
 | 2023-08-23 | 141,600 | 1 |
-| 2023-08-24 | 141,693 | 1 |
+| 2023-08-24 | 141,698 | 1 |
 ## Awards
 Max (Highly Recommended): 28  (Ranked 467)  
-Sum: 115 (Ranked 409)  
+Sum: 116 (Ranked 409)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
@@ -167,8 +167,8 @@ Diff (max vs sum): 58
 | This game has Challenging Combat | 25 |
 | This game has a Creative Community | 21 |
 | This game is Extremely Fun | 21 |
+| This game has Quickly Understood Controls | 21 |
 | This game has Diverse Characters | 20 |
-| This game has Quickly Understood Controls | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -240,3 +240,4 @@ Diff (max vs sum): 58
 | 2023-08-18 | 4.59 | - | 26 | 112 |
 | 2023-08-21 | 4.59 | - | 27 | 114 |
 | 2023-08-23 | 4.59 | - | 28 | 115 |
+| 2023-08-24 | 4.59 | - | 28 | 116 |

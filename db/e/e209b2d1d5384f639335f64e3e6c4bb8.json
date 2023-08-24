@@ -2,9 +2,9 @@
   "ID": "e209b2d1d5384f639335f64e3e6c4bb8",
   "Name": "Homeworld: Deserts of Kharak",
   "ProductSlug": "homeworld-deserts-of-kharak",
-  "Ranking_EOS_Progress": 409,
+  "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-08-24T15:00:00+00:00",
@@ -483,8 +483,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-01T13:08:41.5079141+00:00",
-  "LastChanged_Achievements": "2023-08-24T07:03:20.2116599+00:00",
+  "LastChanged_Achievements": "2023-08-24T08:03:17.622103+00:00",
   "LastUpdate_AppInfo": "2023-08-17T14:57:09.1245406+00:00",
-  "LastUpdate_Ratings": "2023-08-24T06:58:53.7480796+00:00",
-  "LastUpdate_Achievements": "2023-08-24T07:03:20.211692+00:00"
+  "LastUpdate_Ratings": "2023-08-24T07:58:49.2436026+00:00",
+  "LastUpdate_Achievements": "2023-08-24T08:03:17.62215+00:00"
 }

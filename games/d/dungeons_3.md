@@ -7,39 +7,39 @@ Number of Ratings: 1,635  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Shadow strikes | 69.00% | ~19,506 |
-| The Evilest Evil | 58.00% | ~16,396 |
-| Twistram is devastated | 57.00% | ~16,113 |
+| The Evilest Evil | 58.00% | ~16,397 |
+| Twistram is devastated | 57.00% | ~16,114 |
 | The Gehenna Stones | 49.00% | ~13,852 |
 | No one has to die today! | 46.00% | ~13,004 |
-| Death and destruction! | 45.00% | ~12,721 |
+| Death and destruction! | 45.00% | ~12,722 |
 | The Swamplanders from the swamplands | 43.00% | ~12,156 |
-| Rusty Steel | 41.00% | ~11,590 |
+| Rusty Steel | 41.00% | ~11,591 |
 | The One-Huge-Army-Building Evil | 40.00% | ~11,308 |
 | The last burger | 37.00% | ~10,460 |
 | Braiiiiins! | 37.00% | ~10,460 |
 | Hands off the Dungeonheart! | 36.00% | ~10,177 |
-| A trip on sea, what fun it can be | 34.00% | ~9,611 |
+| A trip on sea, what fun it can be | 34.00% | ~9,612 |
 | Damned good | 33.00% | ~9,329 |
-| Stock Market Crash | 31.00% | ~8,763 |
-| Factory farming | 31.00% | ~8,763 |
+| Stock Market Crash | 31.00% | ~8,764 |
+| Factory farming | 31.00% | ~8,764 |
 | Not-So-Overproud | 30.00% | ~8,481 |
 | For a handfull of Catapults | 29.00% | ~8,198 |
 | Shadow hunter | 29.00% | ~8,198 |
-| Thirst quencher | 28.00% | ~7,915 |
-| Ogre Solo! | 28.00% | ~7,915 |
+| Thirst quencher | 28.00% | ~7,916 |
+| Ogre Solo! | 28.00% | ~7,916 |
 | Destroy the thing | 26.00% | ~7,350 |
 | Tide Master | 26.00% | ~7,350 |
-| Difficult family relationships | 25.00% | ~7,067 |
-| MASS-O-BOT | 25.00% | ~7,067 |
+| Difficult family relationships | 25.00% | ~7,068 |
+| MASS-O-BOT | 25.00% | ~7,068 |
 | Prepare the grave | 24.00% | ~6,785 |
 | Angel of Fire | 24.00% | ~6,785 |
 | Where there is Light, there is Shadow | 23.00% | ~6,502 |
 | At the foot of Mount Destiny | 22.00% | ~6,219 |
-| The Force disturbed | 21.00% | ~5,936 |
+| The Force disturbed | 21.00% | ~5,937 |
 | The Victorious Evil | 20.00% | ~5,654 |
 | Chorus of damnation | 19.00% | ~5,371 |
 | We don’t have time! | 19.00% | ~5,371 |
-| The Stones’ Power | 18.00% | ~5,088 |
+| The Stones’ Power | 18.00% | ~5,089 |
 | Flat as a pancake | 17.00% | ~4,806 |
 | Lifeguard | 17.00% | ~4,806 |
 | Can’t stand the sight of Dark Elf blood | 15.00% | ~4,240 |
@@ -58,7 +58,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Spawner Killer | 6.00% | ~1,696 |
 | A little something extra | 6.00% | ~1,696 |
 | The Benevolent Evil | 6.00% | ~1,696 |
-| Band of Brothers | 5.00% | ~1,413 |
+| Band of Brothers | 5.00% | ~1,414 |
 | Night of the Living Dead (on Speed) | 4.00% | ~1,131 |
 | I need a hero! | 4.00% | ~1,131 |
 | Storm And Stress | 3.00% | ~848 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~565 |
 | Sacrifices! | 2.00% | ~565 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,269 (Ranked 100)  
+Progressed: 28,270 (Ranked 100)  
 Completed: 234 (0.83%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 234 (0.83%) (Ranked 126)
 | 2023-08-21 | 28,052 | 232 |
 | 2023-08-22 | 28,134 | 232 |
 | 2023-08-23 | 28,253 | 234 |
-| 2023-08-24 | 28,269 | 234 |
+| 2023-08-24 | 28,270 | 234 |
 ## Awards
 Max (Great for Beginners): 339  (Ranked 228)  
 Sum: 2,618 (Ranked 173)  

@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewPlayers": 279,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 429,
+  "EOS_Progressed": 430,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -741,6 +741,11 @@
       "Time": "2023-08-22T02:20:55.6642133+00:00",
       "NumProgressed": 429,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-24T08:03:14.7103482+00:00",
+      "NumProgressed": 430,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -792,7 +797,7 @@
       "Name": "Bug Hunter",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "Cryomancer",
@@ -824,7 +829,7 @@
       "Name": "Gladiator",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "GoblinTales",
@@ -1016,7 +1021,7 @@
       "Name": "The Fallen",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "TheTrio",
@@ -1024,7 +1029,7 @@
       "Name": "Trio",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "TrapMaster",
@@ -1071,7 +1076,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 429,
+      "Progressed": 430,
       "Completed": 0
     }
   ],
@@ -1079,8 +1084,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-08-24T07:03:16.0529583+00:00",
+  "LastChanged_Achievements": "2023-08-24T08:03:14.7103477+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:25.9931783+00:00",
-  "LastUpdate_Ratings": "2023-08-24T06:58:05.6683858+00:00",
-  "LastUpdate_Achievements": "2023-08-24T07:03:16.0529881+00:00"
+  "LastUpdate_Ratings": "2023-08-24T07:58:00.770848+00:00",
+  "LastUpdate_Achievements": "2023-08-24T08:03:14.710414+00:00"
 }

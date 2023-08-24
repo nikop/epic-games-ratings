@@ -4,7 +4,7 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 76,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 264,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.03,
   "EosHistory": [
@@ -1286,9 +1286,9 @@
       "ID": "mysterious_voice",
       "SetID": "69co12a",
       "Name": "Mysterious voice",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 121
     },
     {
       "ID": "nero_basic",
@@ -1501,8 +1501,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-08-24T07:05:53.5655838+00:00",
+  "LastChanged_Achievements": "2023-08-24T08:05:51.6222864+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:55.5083268+00:00",
-  "LastUpdate_Ratings": "2023-08-24T06:59:44.7386913+00:00",
-  "LastUpdate_Achievements": "2023-08-24T07:05:53.5656565+00:00"
+  "LastUpdate_Ratings": "2023-08-24T07:59:48.5035141+00:00",
+  "LastUpdate_Achievements": "2023-08-24T08:05:51.6223578+00:00"
 }

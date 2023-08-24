@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 470,
+  "EOS_Progressed": 471,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 430,
+  "EOS_NewPlayers": 431,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -861,6 +861,11 @@
       "Time": "2023-08-24T07:04:34.3097343+00:00",
       "NumProgressed": 470,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-24T08:04:21.5352524+00:00",
+      "NumProgressed": 471,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -881,7 +886,7 @@
       "Name": "A New Journey",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "_03_FinishAct1",
@@ -889,7 +894,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -911,9 +916,9 @@
       "ID": "_06_FinishFirstMirrorQuest",
       "SetID": "8a1io5d",
       "Name": "Mirror Mirror on the Wall",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 66
     },
     {
       "ID": "_07_FinishAct3",
@@ -927,9 +932,9 @@
       "ID": "_08_Completion_10",
       "SetID": "8a1io5d",
       "Name": "Swabbie",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 165
     },
     {
       "ID": "_09_Completion_20",
@@ -1080,14 +1085,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 470,
+      "Progressed": 471,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-24T07:04:34.3097331+00:00",
+  "LastChanged_Achievements": "2023-08-24T08:04:21.5352518+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:01.7621403+00:00",
-  "LastUpdate_Ratings": "2023-08-24T07:00:17.5698863+00:00",
-  "LastUpdate_Achievements": "2023-08-24T07:04:34.3097533+00:00"
+  "LastUpdate_Ratings": "2023-08-24T08:00:21.843887+00:00",
+  "LastUpdate_Achievements": "2023-08-24T08:04:21.5352757+00:00"
 }

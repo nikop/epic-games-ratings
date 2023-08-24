@@ -439,9 +439,9 @@
       "ID": "ACHIEVEMENT_20",
       "SetID": "b36c5kb",
       "Name": "You Got Red in You",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -455,17 +455,17 @@
       "ID": "ACHIEVEMENT_22",
       "SetID": "b36c5kb",
       "Name": "Making Things a Little Easier",
-      "Percentage": 39,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACHIEVEMENT_23",
       "SetID": "b36c5kb",
       "Name": "Now You\u0027re Playing with Power",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -615,9 +615,9 @@
       "ID": "ACHIEVEMENT_42",
       "SetID": "b36c5kb",
       "Name": "Wait For It...",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_43",
@@ -702,8 +702,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-08-24T07:05:28.6420103+00:00",
+  "LastChanged_Achievements": "2023-08-24T08:05:26.3106169+00:00",
   "LastUpdate_AppInfo": "2023-08-23T17:57:10.5850624+00:00",
-  "LastUpdate_Ratings": "2023-08-24T06:58:52.1382297+00:00",
-  "LastUpdate_Achievements": "2023-08-24T07:05:28.642047+00:00"
+  "LastUpdate_Ratings": "2023-08-24T07:58:47.6691089+00:00",
+  "LastUpdate_Achievements": "2023-08-24T08:05:26.3106688+00:00"
 }

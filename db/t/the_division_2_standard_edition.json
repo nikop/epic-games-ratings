@@ -2,7 +2,7 @@
   "ID": "impala",
   "Name": "The Division 2 Standard Edition",
   "ProductSlug": "the-division-2",
-  "Ranking_Rating": 594,
+  "Ranking_Rating": 595,
   "Ranking_Popularity": 43,
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 558,
@@ -9138,10 +9138,16 @@
       "Rating": 4.48,
       "NumberOfAwards": 25766,
       "NumberOfAwardsMax": 7842
+    },
+    {
+      "Time": "2023-08-24T07:58:48.6138842+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 25770,
+      "NumberOfAwardsMax": 7842
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 25766,
+  "NumberOfAwards": 25770,
   "NumberOfAwardsMax": 7842,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9191,7 +9197,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1340
+      "Count": 1344
     },
     {
       "Text": "This game has Diverse Characters",
@@ -9229,8 +9235,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2023-08-24T06:58:53.1283872+00:00",
+  "LastChanged": "2023-08-24T07:58:48.6138841+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:19.4181122+00:00",
-  "LastUpdate_Ratings": "2023-08-24T06:58:53.1283877+00:00",
-  "LastUpdate_Achievements": "2023-08-24T07:06:50.3863503+00:00"
+  "LastUpdate_Ratings": "2023-08-24T07:58:48.6138846+00:00",
+  "LastUpdate_Achievements": "2023-08-24T08:06:46.4838569+00:00"
 }
