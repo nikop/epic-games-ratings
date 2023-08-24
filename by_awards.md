@@ -14,11 +14,11 @@
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 43,418 | 4.61 | 366 |
 | 13 | [Destiny 2](games/d/destiny_2.md) | 36,544 | 4.49 | 578 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 36,348 | 4.74 | 146 |
-| 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 31,390 | 4.52 | 527 |
+| 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 31,415 | 4.52 | 527 |
 | 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,797 | 4.64 | 314 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 21,894 | 4.77 | 109 |
 | 18 | [Dauntless](games/d/dauntless.md) | 21,450 | 4.53 | 514 |
-| 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 19,296 | 4.57 | 451 |
+| 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 19,306 | 4.57 | 451 |
 | 20 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 18,184 | 4.26 | 822 |
 | 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 17,764 | 4.89 | 13 |
 | 22 | [Warframe](games/w/warframe.md) | 16,585 | 4.61 | 366 |
@@ -77,7 +77,7 @@
 | 75 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4,420 | 4.76 | 119 |
 | 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,337 | 4.55 | 486 |
 | 77 | [Bloons TD 6](games/b/bloons_td_6.md) | 4,229 | 4.77 | 109 |
-| 78 | [God of War](games/g/god_of_war.md) | 4,215 | 4.88 | 19 |
+| 78 | [God of War](games/g/god_of_war.md) | 4,216 | 4.88 | 19 |
 | 79 | [SMITE](games/s/smite.md) | 4,185 | 4.44 | 650 |
 | 80 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,114 | 4.51 | 543 |
 | 81 | [Days Gone](games/d/days_gone.md) | 3,916 | 4.68 | 238 |
@@ -211,8 +211,8 @@
 | 209 | [Against the Storm](games/a/against_the_storm.md) | 424 | 4.81 | 76 |
 | 210 | [Into the Breach](games/i/into_the_breach.md) | 417 | 4.84 | 48 |
 | 210 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 417 | 4.60 | 392 |
-| 212 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 411 | 4.73 | 163 |
-| 212 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 411 | 4.50 | 558 |
+| 212 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 412 | 4.73 | 163 |
+| 213 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 411 | 4.50 | 558 |
 | 214 | [Warface](games/w/warface.md) | 407 | 3.91 | 954 |
 | 215 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 404 | 3.94 | 948 |
 | 215 | [Slime Rancher](games/s/slime_rancher.md) | 404 | 4.82 | 65 |
@@ -224,7 +224,7 @@
 | 222 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 379 | 4.70 | 198 |
 | 223 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 376 | 4.62 | 348 |
 | 224 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 373 | 3.99 | 936 |
-| 225 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 359 | 4.76 | 119 |
+| 225 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 361 | 4.76 | 119 |
 | 226 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 357 | 4.32 | 778 |
 | 227 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 340 | 4.55 | 486 |
 | 228 | [Dungeons 3](games/d/dungeons_3.md) | 339 | 4.66 | 275 |
