@@ -22,13 +22,13 @@ Number of Ratings: 37  (23.09.2022)
 | Completionist I | 6.00% | ~255 |
 | Full-time job I | 6.00% | ~255 |
 | Knee deep in snow | 6.00% | ~255 |
-| Not a small trader anymore | 5.00% | ~212 |
-| The King's new clothes I | 5.00% | ~212 |
-| Builder II | 5.00% | ~212 |
-| Full-time job II | 5.00% | ~212 |
-| Tax-man III | 5.00% | ~212 |
-| A time consuming game II | 5.00% | ~212 |
-| Tools of the trade I | 5.00% | ~212 |
+| Not a small trader anymore | 5.00% | ~213 |
+| The King's new clothes I | 5.00% | ~213 |
+| Builder II | 5.00% | ~213 |
+| Full-time job II | 5.00% | ~213 |
+| Tax-man III | 5.00% | ~213 |
+| A time consuming game II | 5.00% | ~213 |
+| Tools of the trade I | 5.00% | ~213 |
 | Bread for the people II | 4.00% | ~170 |
 | I like to build stuff... III | 4.00% | ~170 |
 | An honorable Governor II | 4.00% | ~170 |
@@ -57,19 +57,19 @@ Number of Ratings: 37  (23.09.2022)
 | A time consuming game IV | 2.00% | ~85 |
 | Tools of the trade III | 2.00% | ~85 |
 | Out of the frying pan | 2.00% | ~85 |
-| Survivalist | 1.00% | ~42 |
-| My precious... III | 1.00% | ~42 |
-| Lord of War | 1.00% | ~42 |
-| Plague strikes! | 1.00% | ~42 |
-| Builder IV | 1.00% | ~42 |
-| An honorable Governor III | 1.00% | ~42 |
-| Completionist III | 1.00% | ~42 |
-| Only the sausage has two ends. | 1.00% | ~42 |
-| Reunification | 1.00% | ~42 |
-| Treat her well… | 1.00% | ~42 |
-| I've been everywhere I | 1.00% | ~42 |
-| Tax-man V | 1.00% | ~42 |
-| A time consuming game V | 1.00% | ~42 |
+| Survivalist | 1.00% | ~43 |
+| My precious... III | 1.00% | ~43 |
+| Lord of War | 1.00% | ~43 |
+| Plague strikes! | 1.00% | ~43 |
+| Builder IV | 1.00% | ~43 |
+| An honorable Governor III | 1.00% | ~43 |
+| Completionist III | 1.00% | ~43 |
+| Only the sausage has two ends. | 1.00% | ~43 |
+| Reunification | 1.00% | ~43 |
+| Treat her well… | 1.00% | ~43 |
+| I've been everywhere I | 1.00% | ~43 |
+| Tax-man V | 1.00% | ~43 |
+| A time consuming game V | 1.00% | ~43 |
 | I've been everywhere II | 0.90% | ~38 |
 | When there's fire... | 0.80% | ~34 |
 | I've been everywhere VI | 0.80% | ~34 |
@@ -101,14 +101,14 @@ Number of Ratings: 37  (23.09.2022)
 | LEGEN… wait for it… DARY | 0.30% | ~13 |
 | War-zone | 0.30% | ~13 |
 | Waterways | 0.30% | ~13 |
-| Malediction | 0.20% | ~8 |
-| Tired by festival | 0.20% | ~8 |
+| Malediction | 0.20% | ~9 |
+| Tired by festival | 0.20% | ~9 |
 | Good luck miner! | 0.10% | ~4 |
 | Just let it burn! | 0.10% | ~4 |
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,250 (Ranked 148)  
+Progressed: 4,251 (Ranked 148)  
 Completed: 3 (0.07%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,6 +180,7 @@ Completed: 3 (0.07%) (Ranked 222)
 | 2023-08-13 | 4,247 | 3 |
 | 2023-08-16 | 4,248 | 3 |
 | 2023-08-22 | 4,250 | 3 |
+| 2023-08-24 | 4,251 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

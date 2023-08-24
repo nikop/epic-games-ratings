@@ -6,23 +6,23 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~11,892 |
+| Longrunner | 76.00% | ~11,893 |
 | Sword Runner | 62.00% | ~9,702 |
 | Running out of breath | 54.00% | ~8,450 |
 | Wallrunner | 54.00% | ~8,450 |
 | Homerunner | 45.00% | ~7,042 |
 | Out of order | 45.00% | ~7,042 |
-| I call it luck | 44.00% | ~6,885 |
+| I call it luck | 44.00% | ~6,886 |
 | Where are my Keys? | 41.00% | ~6,416 |
 | Back to hell | 37.00% | ~5,790 |
-| Perfection | 32.00% | ~5,007 |
-| Why not both | 30.00% | ~4,694 |
+| Perfection | 32.00% | ~5,008 |
+| Why not both | 30.00% | ~4,695 |
 | Sword to a gunfight | 29.00% | ~4,538 |
 | Upgrades not mandatory | 29.00% | ~4,538 |
-| Artificial selection | 28.00% | ~4,381 |
-| Control freak | 28.00% | ~4,381 |
+| Artificial selection | 28.00% | ~4,382 |
+| Control freak | 28.00% | ~4,382 |
 | Running Wild | 27.00% | ~4,225 |
-| Finish line | 26.00% | ~4,068 |
+| Finish line | 26.00% | ~4,069 |
 | Unstoppable force | 23.00% | ~3,599 |
 | Wave of mutilation | 22.00% | ~3,443 |
 | Can't Run Can't Hide | 17.00% | ~2,660 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~63 |
 | Up Close And Personal | 0.40% | ~63 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,648 (Ranked 116)  
+Progressed: 15,649 (Ranked 116)  
 Completed: 59 (0.38%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 59 (0.38%) (Ranked 160)
 | 2023-08-21 | 15,446 | 58 |
 | 2023-08-22 | 15,534 | 58 |
 | 2023-08-23 | 15,629 | 59 |
-| 2023-08-24 | 15,648 | 59 |
+| 2023-08-24 | 15,649 | 59 |
 ## Awards
 Max (Great Boss Battles): 482  (Ranked 200)  
 Sum: 671 (Ranked 283)  

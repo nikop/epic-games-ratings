@@ -6,22 +6,22 @@ Rating: 4.45 (Ranked 637)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 46.00% | ~1,620 |
-| Confirming Suspicions | 40.00% | ~1,408 |
-| The Kraken Wakes | 36.00% | ~1,268 |
+| Confirming Suspicions | 40.00% | ~1,409 |
+| The Kraken Wakes | 35.00% | ~1,233 |
 | It's Starting to Crack | 32.00% | ~1,127 |
-| Change the Channel | 30.00% | ~1,056 |
+| Change the Channel | 30.00% | ~1,057 |
 | Lord of War | 29.00% | ~1,021 |
 | Taking it back | 27.00% | ~951 |
-| Resourceful | 26.00% | ~915 |
+| Resourceful | 26.00% | ~916 |
 | Target America | 25.00% | ~880 |
 | The Kraken Sleeps | 23.00% | ~810 |
 | Organ Grinder | 22.00% | ~775 |
 | As Quiet as a Mouse | 22.00% | ~775 |
-| Liberté | 21.00% | ~739 |
-| Sharpshooter | 21.00% | ~739 |
+| Liberté | 21.00% | ~740 |
+| Sharpshooter | 21.00% | ~740 |
 | Explosive Efficiency | 18.00% | ~634 |
 | Gunslinger | 17.00% | ~599 |
-| Just a Flesh Wound | 16.00% | ~563 |
+| Just a Flesh Wound | 16.00% | ~564 |
 | Climbing the Ladder | 15.00% | ~528 |
 | Der Geist | 15.00% | ~528 |
 | Close Quarters | 15.00% | ~528 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 637)
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,521 (Ranked 152)  
+Progressed: 3,522 (Ranked 152)  
 Completed: 9 (0.26%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,6 +202,7 @@ Completed: 9 (0.26%) (Ranked 178)
 | 2023-08-21 | 3,510 | 9 |
 | 2023-08-22 | 3,515 | 9 |
 | 2023-08-23 | 3,521 | 9 |
+| 2023-08-24 | 3,522 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

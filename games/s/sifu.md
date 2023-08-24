@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 5.00% | ~1,097 |
+| Diligence as a goal | 5.00% | ~1,098 |
 | Project Arena | 4.00% | ~878 |
 | The Old Grandmaster | 2.00% | ~14,253 |
 | The Assault | 2.00% | ~14,253 |
@@ -32,7 +32,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Old Child | 1.00% | ~7,126 |
 | Kung-Fu Tussle | 1.00% | ~7,126 |
 | Take damage to save time | 1.00% | ~7,126 |
-| The best strikes are the ones we avoid | 1.00% | ~219 |
+| The best strikes are the ones we avoid | 1.00% | ~220 |
 | Muk Yan Master | 0.80% | ~5,701 |
 | Tiger on Fire | 0.80% | ~5,701 |
 | Detective Story | 0.80% | ~5,701 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,425 |
 | Warriors from the Mountain | 0.10% | ~713 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,648 (Ranked 20)  
+Progressed: 712,649 (Ranked 20)  
 Completed: 12,873 (1.81%) (Ranked 98)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 12,873 (1.81%) (Ranked 98)
 | 2023-08-21 | 712,603 | 12,871 |
 | 2023-08-22 | 712,620 | 12,873 |
 | 2023-08-23 | 712,643 | 12,873 |
-| 2023-08-24 | 712,648 | 12,873 |
+| 2023-08-24 | 712,649 | 12,873 |
 ## Awards
 Max (Great Boss Battles): 6,389  (Ranked 55)  
 Sum: 10,975 (Ranked 82)  

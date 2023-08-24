@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7073,
+  "EOS_Progressed": 7074,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -3813,6 +3813,11 @@
       "Time": "2023-08-23T21:05:10.0903388+00:00",
       "NumProgressed": 7073,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-08-24T06:04:57.3553262+00:00",
+      "NumProgressed": 7074,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 27,
@@ -3912,7 +3917,7 @@
       "Name": "A Learned Scholar",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "AK_ON_TOWN",
@@ -3920,7 +3925,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 1980
+      "UsersEstimate": 1981
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -3936,7 +3941,7 @@
       "Name": "Prophecy Fulfilled",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "AK_PYRE_IGNITED",
@@ -4024,7 +4029,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2829
+      "UsersEstimate": 2830
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -4039,15 +4044,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7073,
+      "Progressed": 7074,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-08-24T05:05:49.9833508+00:00",
+  "LastChanged_Achievements": "2023-08-24T06:04:57.3553257+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:58.4215598+00:00",
-  "LastUpdate_Ratings": "2023-08-24T05:00:35.0305859+00:00",
-  "LastUpdate_Achievements": "2023-08-24T05:05:49.983394+00:00"
+  "LastUpdate_Ratings": "2023-08-24T05:59:21.7786438+00:00",
+  "LastUpdate_Achievements": "2023-08-24T06:04:57.3553675+00:00"
 }

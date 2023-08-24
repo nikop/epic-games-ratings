@@ -5,8 +5,8 @@ Rating: 3.50 (Ranked 975)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Ne Plus Ultra | 0.30% | ~5 |
 | Blood Will Have Blood | 0.20% | ~3 |
-| Ne Plus Ultra | 0.20% | ~3 |
 | Sic Transit Umbra | 0.20% | ~3 |
 | Good Morning | 0.20% | ~3 |
 | Harvest’s End | 0.20% | ~3 |

@@ -2,7 +2,7 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 486,
+  "Ranking_Rating": 485,
   "Ranking_Popularity": 381,
   "Ranking_PopularitySum": 439,
   "Ranking_EOS_Progress": 124,
@@ -592,9 +592,9 @@
       "Count": 68
     }
   ],
-  "EOS_Progressed": 9758,
+  "EOS_Progressed": 9759,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -8717,6 +8717,11 @@
       "Time": "2023-08-23T22:05:51.4105152+00:00",
       "NumProgressed": 9758,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-08-24T06:06:23.7080696+00:00",
+      "NumProgressed": 9759,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -8816,7 +8821,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "ACH13",
@@ -8888,7 +8893,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4391
+      "UsersEstimate": 4392
     },
     {
       "ID": "ACH22",
@@ -8944,7 +8949,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "ACH29",
@@ -8999,7 +9004,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9758,
+      "Progressed": 9759,
       "Completed": 49
     }
   ],
@@ -9007,8 +9012,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-08-19T22:00:52.464405+00:00",
-  "LastChanged_Achievements": "2023-08-24T05:07:51.5425924+00:00",
+  "LastChanged_Achievements": "2023-08-24T06:06:23.7080692+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:19.3350346+00:00",
-  "LastUpdate_Ratings": "2023-08-24T05:01:29.2763863+00:00",
-  "LastUpdate_Achievements": "2023-08-24T05:07:51.5426681+00:00"
+  "LastUpdate_Ratings": "2023-08-24T05:59:56.995433+00:00",
+  "LastUpdate_Achievements": "2023-08-24T06:06:23.7081492+00:00"
 }

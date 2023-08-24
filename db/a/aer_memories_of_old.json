@@ -380,7 +380,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18526,
+  "EOS_Progressed": 18527,
   "EOS_Completed": 374,
   "EOS_NewPlayers": 527,
   "EOS_NewCompleters": 11,
@@ -13760,6 +13760,11 @@
       "Time": "2023-08-24T05:07:46.2617892+00:00",
       "NumProgressed": 18526,
       "NumCompleted": 374
+    },
+    {
+      "Time": "2023-08-24T06:06:19.9660363+00:00",
+      "NumProgressed": 18527,
+      "NumCompleted": 374
     }
   ],
   "TotalAchievements": 20,
@@ -13771,7 +13776,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 3149
+      "UsersEstimate": 3150
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -13867,7 +13872,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2408
+      "UsersEstimate": 2409
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -13891,7 +13896,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 14080
+      "UsersEstimate": 14081
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -13899,7 +13904,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 5187
+      "UsersEstimate": 5188
     },
     {
       "ID": "NORTH_FINISHED",
@@ -13930,15 +13935,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 18526,
+      "Progressed": 18527,
       "Completed": 374
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-08-12T01:39:46.4098224+00:00",
-  "LastChanged_Achievements": "2023-08-24T05:07:46.2617888+00:00",
+  "LastChanged_Achievements": "2023-08-24T06:06:19.9660359+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:54.5287855+00:00",
-  "LastUpdate_Ratings": "2023-08-24T04:58:38.519947+00:00",
-  "LastUpdate_Achievements": "2023-08-24T05:07:46.2619777+00:00"
+  "LastUpdate_Ratings": "2023-08-24T05:57:57.096045+00:00",
+  "LastUpdate_Achievements": "2023-08-24T06:06:19.9661289+00:00"
 }
