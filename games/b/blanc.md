@@ -10,7 +10,7 @@
 | Helping the little ones | 12.00% | ~307 |
 | A big leap for wolfkind | 11.00% | ~281 |
 | Transmission | 10.00% | ~256 |
-| The will to move on | 8.00% | ~204 |
+| The will to move on | 9.00% | ~230 |
 | Reunion | 8.00% | ~204 |
 | The end | 7.00% | ~179 |
 | Sliders | 3.00% | ~77 |

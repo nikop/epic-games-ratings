@@ -3,8 +3,8 @@
   "Name": "Without Escape",
   "ProductSlug": "without-escape-c00993",
   "Ranking_EOS_Progress": 407,
-  "Ranking_EOS_Completed": 65,
-  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_Completed": 66,
+  "Ranking_EOS_NewPlayers": 305,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-18T22:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 28,
+  "EOS_Progressed": 29,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.57,
+  "EOS_Completed_Percentage": 3.45,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:51:18.5107292+00:00",
@@ -171,6 +171,11 @@
       "Time": "2023-08-17T04:03:18.1089054+00:00",
       "NumProgressed": 28,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-24T22:05:05.2965646+00:00",
+      "NumProgressed": 29,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 9,
@@ -180,7 +185,7 @@
       "ID": "ACH_ALL_ENDINGS",
       "SetID": "2a8fdfo",
       "Name": "You got all endings!",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 150,
       "UsersEstimate": 1
     },
@@ -188,7 +193,7 @@
       "ID": "ACH_CALLED_POLICE",
       "SetID": "2a8fdfo",
       "Name": "Never around when you need them",
-      "Percentage": 50,
+      "Percentage": 48,
       "XP": 50,
       "UsersEstimate": 14
     },
@@ -196,7 +201,7 @@
       "ID": "ACH_ENDING_1",
       "SetID": "2a8fdfo",
       "Name": "Became the new Maker",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 100,
       "UsersEstimate": 7
     },
@@ -212,7 +217,7 @@
       "ID": "ACH_ENDING_3",
       "SetID": "2a8fdfo",
       "Name": "Did you think you would make it?",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -228,7 +233,7 @@
       "ID": "ACH_ENDING_5",
       "SetID": "2a8fdfo",
       "Name": "Stubbornness unleashed!",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -236,7 +241,7 @@
       "ID": "ACH_ENDING_6",
       "SetID": "2a8fdfo",
       "Name": "So nineties it hurts...",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -244,7 +249,7 @@
       "ID": "ACH_FINISHED_GAME_10_TIMES",
       "SetID": "2a8fdfo",
       "Name": "Still trying to escape?",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 200,
       "UsersEstimate": 1
     }
@@ -253,14 +258,14 @@
     {
       "ID": "2a8fdfo",
       "IsBase": true,
-      "Progressed": 28,
+      "Progressed": 29,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-10T10:59:21.1089045+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:18.51073+00:00",
-  "LastChanged_Achievements": "2023-08-24T21:04:34.7089797+00:00",
+  "LastChanged_Achievements": "2023-08-24T22:05:05.2965636+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:15.7179908+00:00",
-  "LastUpdate_Ratings": "2023-08-24T20:57:43.8930314+00:00",
-  "LastUpdate_Achievements": "2023-08-24T21:04:34.7089886+00:00"
+  "LastUpdate_Ratings": "2023-08-24T21:58:11.6447793+00:00",
+  "LastUpdate_Achievements": "2023-08-24T22:05:05.2965774+00:00"
 }

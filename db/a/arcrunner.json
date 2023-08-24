@@ -4,7 +4,7 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewPlayers": 353,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -1879,8 +1879,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-08-24T21:06:26.9897118+00:00",
+  "LastChanged_Achievements": "2023-08-24T22:07:32.4500139+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:18.7510737+00:00",
-  "LastUpdate_Ratings": "2023-08-24T20:57:46.849935+00:00",
-  "LastUpdate_Achievements": "2023-08-24T21:06:26.9897443+00:00"
+  "LastUpdate_Ratings": "2023-08-24T21:58:15.5185875+00:00",
+  "LastUpdate_Achievements": "2023-08-24T22:07:32.4500622+00:00"
 }

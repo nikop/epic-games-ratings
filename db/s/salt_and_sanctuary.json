@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 202,
   "Ranking_EOS_Progress": 30,
   "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_NewPlayers": 68,
   "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
@@ -2481,9 +2481,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 531323,
+  "EOS_Progressed": 531324,
   "EOS_Completed": 1514,
-  "EOS_NewPlayers": 591,
+  "EOS_NewPlayers": 590,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -16091,6 +16091,11 @@
       "Time": "2023-08-24T21:05:45.6644498+00:00",
       "NumProgressed": 531323,
       "NumCompleted": 1514
+    },
+    {
+      "Time": "2023-08-24T22:06:39.6983006+00:00",
+      "NumProgressed": 531324,
+      "NumCompleted": 1514
     }
   ],
   "TotalAchievements": 37,
@@ -16158,7 +16163,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 440998
+      "UsersEstimate": 440999
     },
     {
       "ID": "HONED",
@@ -16214,7 +16219,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 212529
+      "UsersEstimate": 212530
     },
     {
       "ID": "THE_CASTLE",
@@ -16397,15 +16402,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 531323,
+      "Progressed": 531324,
       "Completed": 1514
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-08-21T21:01:52.1872239+00:00",
-  "LastChanged_Achievements": "2023-08-24T21:05:45.6644491+00:00",
+  "LastChanged_Achievements": "2023-08-24T22:06:39.6983+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:57.952106+00:00",
-  "LastUpdate_Ratings": "2023-08-24T20:57:19.0718689+00:00",
-  "LastUpdate_Achievements": "2023-08-24T21:05:45.6645654+00:00"
+  "LastUpdate_Ratings": "2023-08-24T21:57:37.0186916+00:00",
+  "LastUpdate_Achievements": "2023-08-24T22:06:39.6984229+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 239,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1146,10 +1146,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 976,
       "NumberOfAwardsMax": 121
+    },
+    {
+      "Time": "2023-08-24T21:58:22.1721216+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 977,
+      "NumberOfAwardsMax": 121
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 976,
+  "NumberOfAwards": 977,
   "NumberOfAwardsMax": 121,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -1193,7 +1199,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 84
+      "Count": 85
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1226,7 +1232,7 @@
       "Count": 67
     }
   ],
-  "EOS_Progressed": 5459,
+  "EOS_Progressed": 5460,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
@@ -8106,6 +8112,11 @@
       "Time": "2023-08-24T20:06:22.9472101+00:00",
       "NumProgressed": 5459,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-08-24T22:06:54.1288777+00:00",
+      "NumProgressed": 5460,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 31,
@@ -8149,7 +8160,7 @@
       "Name": "Green Thumb",
       "Percentage": 66,
       "XP": 50,
-      "UsersEstimate": 3603
+      "UsersEstimate": 3604
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -8165,7 +8176,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 3876
+      "UsersEstimate": 3877
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -8245,7 +8256,7 @@
       "Name": "Feast or Famine",
       "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 2620
+      "UsersEstimate": 2621
     },
     {
       "ID": "STORE_NUTRITION_20000",
@@ -8261,7 +8272,7 @@
       "Name": "Putting Food on the Table",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 3166
+      "UsersEstimate": 3167
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -8269,7 +8280,7 @@
       "Name": "Winter Is Coming",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1419
+      "UsersEstimate": 1420
     },
     {
       "ID": "SURVIVE_FIRST_DAY",
@@ -8277,7 +8288,7 @@
       "Name": "The First Day",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 3712
+      "UsersEstimate": 3713
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -8317,7 +8328,7 @@
       "Name": "The First Week",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 2893
+      "UsersEstimate": 2894
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -8325,7 +8336,7 @@
       "Name": "Novice Researcher",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 3548
+      "UsersEstimate": 3549
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -8349,7 +8360,7 @@
       "Name": "Onward",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3057
+      "UsersEstimate": 3058
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -8357,22 +8368,22 @@
       "Name": "Studious Researcher",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 2784
+      "UsersEstimate": 2785
     }
   ],
   "AchievementSets": [
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 5459,
+      "Progressed": 5460,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
-  "LastChanged": "2023-08-23T18:57:42.1083387+00:00",
-  "LastChanged_Achievements": "2023-08-24T21:05:54.7550456+00:00",
+  "LastChanged": "2023-08-24T21:58:22.1721214+00:00",
+  "LastChanged_Achievements": "2023-08-24T22:06:54.1288771+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:24.7738983+00:00",
-  "LastUpdate_Ratings": "2023-08-24T20:57:51.4579244+00:00",
-  "LastUpdate_Achievements": "2023-08-24T21:05:54.7551126+00:00"
+  "LastUpdate_Ratings": "2023-08-24T21:58:22.172122+00:00",
+  "LastUpdate_Achievements": "2023-08-24T22:06:54.1289452+00:00"
 }

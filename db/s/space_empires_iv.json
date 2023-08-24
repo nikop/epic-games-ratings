@@ -4,7 +4,7 @@
   "ProductSlug": "space-empires-iv-74dacf",
   "Ranking_EOS_Progress": 559,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewPlayers": 353,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-07-08T04:00:00+00:00",
@@ -17,6 +17,8 @@
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 0,
   "EOS_Completed": 0,
@@ -28,7 +30,8 @@
   "TotalAchievementsXP": 0,
   "Achievements": [],
   "AchievementSets": [],
+  "FirstSeen": "2023-08-24T21:59:00.9338636+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:00.3385927+00:00",
-  "LastUpdate_Ratings": "2023-08-24T20:58:24.633842+00:00",
-  "LastUpdate_Achievements": "2023-08-24T21:05:41.4018557+00:00"
+  "LastUpdate_Ratings": "2023-08-24T21:59:00.9338682+00:00",
+  "LastUpdate_Achievements": "2023-08-24T22:06:34.8302865+00:00"
 }

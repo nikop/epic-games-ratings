@@ -41,6 +41,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Efficient Floor Space | 0.40% | ~540 |
 | Flawless Fusion | 0.40% | ~540 |
 | Gem Expert | 0.40% | ~540 |
+| Royal Ransom | 0.40% | ~540 |
 | Helping Hand | 0.40% | ~540 |
 | Natural 20 | 0.40% | ~540 |
 | A Notch Above the Rest | 0.30% | ~405 |
@@ -64,7 +65,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cranked up to 11 | 0.30% | ~405 |
 | Fit for a King | 0.30% | ~405 |
 | Trash to Treasure | 0.30% | ~405 |
-| Royal Ransom | 0.30% | ~405 |
 | Mammonite | 0.30% | ~405 |
 | Wealth Beyond Measure | 0.30% | ~405 |
 | Fat Cat Tag Team | 0.30% | ~405 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~135 |
 | Cash Only Please | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,038 (Ranked 66)  
+Progressed: 135,040 (Ranked 66)  
 Completed: 138 (0.10%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,7 +245,7 @@ Completed: 138 (0.10%) (Ranked 210)
 | 2023-08-21 | 134,907 | 134 |
 | 2023-08-22 | 134,956 | 136 |
 | 2023-08-23 | 134,997 | 138 |
-| 2023-08-24 | 135,038 | 138 |
+| 2023-08-24 | 135,040 | 138 |
 ## Awards
 Max (Great for Beginners): 4,712  (Ranked 71)  
 Sum: 27,134 (Ranked 47)  

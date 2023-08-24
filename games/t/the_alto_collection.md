@@ -6,22 +6,22 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 26.00% | ~9,518 |
-| Finding Your Footing | 26.00% | ~9,518 |
-| Nomad | 18.00% | ~6,589 |
-| Picking Up Speed | 16.00% | ~5,857 |
-| Welcome Maya | 15.00% | ~5,491 |
-| Scout | 11.00% | ~4,027 |
-| Sightseer | 11.00% | ~4,027 |
+| Rookie | 26.00% | ~9,520 |
+| Finding Your Footing | 26.00% | ~9,520 |
+| Nomad | 18.00% | ~6,591 |
+| Picking Up Speed | 16.00% | ~5,859 |
+| Welcome Maya | 15.00% | ~5,492 |
+| Scout | 11.00% | ~4,028 |
+| Sightseer | 11.00% | ~4,028 |
 | Amateur | 9.00% | ~3,295 |
 | Unlock Maya | 8.00% | ~2,929 |
 | Enter Paz | 8.00% | ~2,929 |
 | Wanderer | 8.00% | ~2,929 |
-| Aviator | 6.00% | ~2,196 |
-| My Little Friend | 5.00% | ~1,830 |
-| One With The Board | 5.00% | ~1,830 |
-| Voyager | 5.00% | ~1,830 |
-| Izel Has Arrived | 4.00% | ~1,464 |
+| Aviator | 6.00% | ~2,197 |
+| My Little Friend | 5.00% | ~1,831 |
+| One With The Board | 5.00% | ~1,831 |
+| Voyager | 5.00% | ~1,831 |
+| Izel Has Arrived | 4.00% | ~1,465 |
 | Junkie | 3.00% | ~1,098 |
 | Traveler | 3.00% | ~1,098 |
 | Journeyer | 3.00% | ~1,098 |
@@ -35,7 +35,7 @@ Number of Ratings: 332  (23.09.2022)
 | Hoist the Mainsail | 1.00% | ~366 |
 | Introducing Sumara | 1.00% | ~366 |
 | Vandal | 1.00% | ~366 |
-| Daredevil | 0.90% | ~329 |
+| Daredevil | 0.90% | ~330 |
 | Unlock Felipe | 0.80% | ~293 |
 | Adventurer | 0.70% | ~256 |
 | Unlock Tupa | 0.50% | ~183 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~37 |
 | Windswept | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36,608 (Ranked 96)  
+Progressed: 36,616 (Ranked 96)  
 Completed: 5 (0.01%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 5 (0.01%) (Ranked 250)
 | 2023-08-21 | 36,272 | 5 |
 | 2023-08-22 | 36,389 | 5 |
 | 2023-08-23 | 36,503 | 5 |
-| 2023-08-24 | 36,608 | 5 |
+| 2023-08-24 | 36,616 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 46  (Ranked 410)  
 Sum: 359 (Ranked 329)  

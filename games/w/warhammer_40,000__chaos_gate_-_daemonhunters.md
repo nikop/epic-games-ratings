@@ -33,17 +33,18 @@ Number of Ratings: 371  (23.09.2022)
 | Only in Death | 0.50% | ~16 |
 | A Gift Spurned | 0.50% | ~16 |
 | Long Distance Call | 0.50% | ~16 |
+| Tactical Flexibility | 0.50% | ~16 |
 | Tactical Sabotage | 0.50% | ~16 |
 | Patron of Deimos | 0.40% | ~13 |
 | Exterminator | 0.40% | ~13 |
 | Mind Like a Fortress | 0.40% | ~13 |
 | Preservationist | 0.40% | ~13 |
-| Tactical Flexibility | 0.40% | ~13 |
 | For the Machine God | 0.30% | ~9 |
 | Strike Force | 0.30% | ~9 |
 | Engine Kill | 0.30% | ~9 |
 | Harvest No More | 0.30% | ~9 |
 | Death Comes For All | 0.30% | ~9 |
+| Hands-On Research | 0.20% | ~6 |
 | Exercise in Restraint | 0.20% | ~6 |
 | True Mastery | 0.20% | ~6 |
 | Reign of Confusion | 0.20% | ~6 |
@@ -56,7 +57,6 @@ Number of Ratings: 371  (23.09.2022)
 | Dominus | 0.10% | ~3 |
 | Unstable Immaterium | 0.10% | ~3 |
 | Opportunist | 0.10% | ~3 |
-| Hands-On Research | 0.10% | ~3 |
 | Master of the Forge | 0.10% | ~3 |
 | Field Apothecarion | 0.10% | ~3 |
 | Warp Flickers | 0.10% | ~3 |

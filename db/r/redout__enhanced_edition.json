@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 230352,
+  "EOS_Progressed": 230354,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 485,
+  "EOS_NewPlayers": 487,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -13558,6 +13558,11 @@
       "Time": "2023-08-24T21:04:47.8569835+00:00",
       "NumProgressed": 230352,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-08-24T22:05:20.9849657+00:00",
+      "NumProgressed": 230354,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 34,
@@ -13657,7 +13662,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 46070
+      "UsersEstimate": 46071
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -13705,7 +13710,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 76016
+      "UsersEstimate": 76017
     },
     {
       "ID": "NOBUNAGA",
@@ -13793,7 +13798,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 50677
+      "UsersEstimate": 50678
     },
     {
       "ID": "TACTICIAN",
@@ -13817,7 +13822,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 50677
+      "UsersEstimate": 50678
     },
     {
       "ID": "TUNINGMANIAC",
@@ -13833,22 +13838,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 94444
+      "UsersEstimate": 94445
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 230352,
+      "Progressed": 230354,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-08-24T21:04:47.8569824+00:00",
+  "LastChanged_Achievements": "2023-08-24T22:05:20.9849651+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:21.6376878+00:00",
-  "LastUpdate_Ratings": "2023-08-24T21:00:39.960947+00:00",
-  "LastUpdate_Achievements": "2023-08-24T21:04:47.857094+00:00"
+  "LastUpdate_Ratings": "2023-08-24T22:01:44.4577463+00:00",
+  "LastUpdate_Achievements": "2023-08-24T22:05:20.9850741+00:00"
 }

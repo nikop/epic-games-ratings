@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8898,
+  "EOS_Progressed": 8903,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 774,
+  "EOS_NewPlayers": 775,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3007,6 +3007,11 @@
       "Time": "2023-08-24T21:07:06.4588173+00:00",
       "NumProgressed": 8898,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-24T22:08:20.3123222+00:00",
+      "NumProgressed": 8903,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -3057,9 +3062,9 @@
       "ID": "14",
       "SetID": "458bbdk",
       "Name": "Doctor Approved",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 1424
+      "UsersEstimate": 1514
     },
     {
       "ID": "15",
@@ -3067,7 +3072,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1602
+      "UsersEstimate": 1603
     },
     {
       "ID": "16",
@@ -3233,17 +3238,17 @@
       "ID": "7",
       "SetID": "458bbdk",
       "Name": "Grave Robber",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 18
+      "UsersEstimate": 27
     },
     {
       "ID": "8",
       "SetID": "458bbdk",
       "Name": "Data Recoverer",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 53
+      "UsersEstimate": 62
     },
     {
       "ID": "9",
@@ -3258,14 +3263,14 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 8898,
+      "Progressed": 8903,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged_Achievements": "2023-08-24T21:07:06.4588162+00:00",
+  "LastChanged_Achievements": "2023-08-24T22:08:20.3123216+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:40.3624587+00:00",
-  "LastUpdate_Ratings": "2023-08-24T20:57:25.4304576+00:00",
-  "LastUpdate_Achievements": "2023-08-24T21:07:06.4588589+00:00"
+  "LastUpdate_Ratings": "2023-08-24T21:57:45.0066068+00:00",
+  "LastUpdate_Achievements": "2023-08-24T22:08:20.3123641+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 121,
   "Ranking_EOS_NewPlayers": 47,
-  "Ranking_EOS_NewCompleters": 16,
+  "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2021-09-23T13:00:00+00:00",
     "PcReleaseDate": "2021-09-23T13:00:00+00:00",
@@ -410,11 +410,11 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 85402,
-  "EOS_Completed": 840,
-  "EOS_NewPlayers": 1248,
-  "EOS_NewCompleters": 14,
-  "EOS_Completed_Percentage": 0.98,
+  "EOS_Progressed": 85403,
+  "EOS_Completed": 842,
+  "EOS_NewPlayers": 1244,
+  "EOS_NewCompleters": 16,
+  "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:25.309734+00:00",
@@ -14435,6 +14435,11 @@
       "Time": "2023-08-24T21:06:13.7280617+00:00",
       "NumProgressed": 85402,
       "NumCompleted": 840
+    },
+    {
+      "Time": "2023-08-24T22:07:16.9800771+00:00",
+      "NumProgressed": 85403,
+      "NumCompleted": 842
     }
   ],
   "TotalAchievements": 56,
@@ -14574,7 +14579,7 @@
       "Name": "The Dunboyne",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 14518
+      "UsersEstimate": 14519
     },
     {
       "ID": "ach_017_door_trellicks_pillar",
@@ -14654,7 +14659,7 @@
       "Name": "Up On High",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 21350
+      "UsersEstimate": 21351
     },
     {
       "ID": "ach_027_fix_atomic_heart",
@@ -14702,7 +14707,7 @@
       "Name": "Got Your Nose",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 20496
+      "UsersEstimate": 20497
     },
     {
       "ID": "ach_033_collect_slicer_beetle_poo",
@@ -14742,7 +14747,7 @@
       "Name": "Badge Hobbyist",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 14518
+      "UsersEstimate": 14519
     },
     {
       "ID": "ach_038_collect_badges_2",
@@ -14766,7 +14771,7 @@
       "Name": "Under The Hood",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 21350
+      "UsersEstimate": 21351
     },
     {
       "ID": "ach_041_talk_to_npcs_1",
@@ -14774,7 +14779,7 @@
       "Name": "The Gift of Gab",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 20496
+      "UsersEstimate": 20497
     },
     {
       "ID": "ach_042_talk_to_npcs_2",
@@ -14798,7 +14803,7 @@
       "Name": "More Than A Box Of Sand",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 15372
+      "UsersEstimate": 15373
     },
     {
       "ID": "ach_045_open_chests_2",
@@ -14846,7 +14851,7 @@
       "Name": "Wrapping Up",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 18788
+      "UsersEstimate": 18789
     },
     {
       "ID": "ach_051_collect_clothing_items_2",
@@ -14893,15 +14898,15 @@
     {
       "ID": "585ckk9",
       "IsBase": true,
-      "Progressed": 85402,
-      "Completed": 840
+      "Progressed": 85403,
+      "Completed": 842
     }
   ],
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:25.3097347+00:00",
   "LastChanged": "2023-08-20T16:01:40.1861945+00:00",
-  "LastChanged_Achievements": "2023-08-24T21:06:13.7280609+00:00",
+  "LastChanged_Achievements": "2023-08-24T22:07:16.9800762+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:00:00.697515+00:00",
-  "LastUpdate_Ratings": "2023-08-24T20:57:37.1655648+00:00",
-  "LastUpdate_Achievements": "2023-08-24T21:06:13.7281993+00:00"
+  "LastUpdate_Ratings": "2023-08-24T21:57:59.9845664+00:00",
+  "LastUpdate_Achievements": "2023-08-24T22:07:16.9802164+00:00"
 }
