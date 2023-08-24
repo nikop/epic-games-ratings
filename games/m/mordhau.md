@@ -5,22 +5,22 @@ Rating: 4.39 (Ranked 711)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~738,310 |
-| The ABCs | 43.00% | ~647,905 |
-| Home Run | 41.00% | ~617,770 |
-| Keeps Coming Off | 41.00% | ~617,770 |
-| Guts | 20.00% | ~301,351 |
-| Meat Grinder | 19.00% | ~286,284 |
-| Burning Man | 16.00% | ~241,081 |
-| Lived to Tell the Tale | 12.00% | ~180,811 |
-| Highlander | 10.00% | ~150,676 |
-| Unstoppable | 10.00% | ~150,676 |
-| Just a Scratch | 9.00% | ~135,608 |
-| Tough Nut to Crack | 6.00% | ~90,405 |
-| Yoink | 6.00% | ~90,405 |
-| Long List of Names | 4.00% | ~60,270 |
-| Pyromaniac | 4.00% | ~60,270 |
-| The Queen of Weapons | 4.00% | ~60,270 |
+| Justice from the Grave | 49.00% | ~738,319 |
+| The ABCs | 43.00% | ~647,912 |
+| Home Run | 41.00% | ~617,777 |
+| Keeps Coming Off | 41.00% | ~617,777 |
+| Guts | 20.00% | ~301,355 |
+| Meat Grinder | 19.00% | ~286,287 |
+| Burning Man | 16.00% | ~241,084 |
+| Lived to Tell the Tale | 12.00% | ~180,813 |
+| Highlander | 10.00% | ~150,677 |
+| Unstoppable | 10.00% | ~150,677 |
+| Just a Scratch | 9.00% | ~135,610 |
+| Tough Nut to Crack | 6.00% | ~90,406 |
+| Yoink | 6.00% | ~90,406 |
+| Long List of Names | 4.00% | ~60,271 |
+| Pyromaniac | 4.00% | ~60,271 |
+| The Queen of Weapons | 4.00% | ~60,271 |
 | This isn’t Sparta | 3.00% | ~45,203 |
 | Crybaby | 2.00% | ~30,135 |
 | Eagle Eye | 2.00% | ~30,135 |
@@ -44,7 +44,7 @@ Rating: 4.39 (Ranked 711)
 | That’s No Ordinary Cold | 0.10% | ~1,507 |
 | Stairway to Hell | 0.10% | ~1,507 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,506,756 (Ranked 8)  
+Progressed: 1,506,773 (Ranked 8)  
 Completed: 53 (0.00%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,6 +170,7 @@ Completed: 53 (0.00%) (Ranked 262)
 | 2023-08-21 | 1,505,298 | 53 |
 | 2023-08-22 | 1,506,029 | 53 |
 | 2023-08-23 | 1,506,756 | 53 |
+| 2023-08-24 | 1,506,773 | 53 |
 ## Awards
 Max (Diverse Characters): 541  (Ranked 194)  
 Sum: 2,690 (Ranked 171)  

@@ -6,46 +6,46 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 72.00% | ~273,778 |
-| Full garage | 60.00% | ~228,148 |
-| To the eyeballs! | 50.00% | ~190,124 |
-| Individual delivery | 46.00% | ~174,914 |
-| Non-Stop | 44.00% | ~167,309 |
-| Juggler | 35.00% | ~133,086 |
-| Forgot something | 34.00% | ~129,284 |
-| Close call! | 30.00% | ~114,074 |
-| Get out my way | 27.00% | ~102,667 |
-| Common cause | 25.00% | ~95,062 |
-| Critical care | 25.00% | ~95,062 |
-| Upgrade complete | 23.00% | ~87,457 |
-| Mega-railroad | 22.00% | ~83,654 |
-| Just in time! | 17.00% | ~64,642 |
-| Builder | 16.00% | ~60,840 |
-| Steam Age | 16.00% | ~60,840 |
-| Long Haul | 16.00% | ~60,734 |
-| Bridgemania | 14.00% | ~53,235 |
-| Multilevel road | 14.00% | ~53,235 |
-| Need to think | 14.00% | ~53,235 |
-| The Tortoise | 12.00% | ~45,630 |
-| Without a lunch break | 11.00% | ~41,827 |
-| Beginner | 10.00% | ~38,025 |
-| One way | 9.00% | ~34,222 |
-| Relocation | 9.00% | ~34,222 |
+| Dealmaker | 72.00% | ~273,784 |
+| Full garage | 60.00% | ~228,153 |
+| To the eyeballs! | 50.00% | ~190,128 |
+| Individual delivery | 46.00% | ~174,917 |
+| Non-Stop | 44.00% | ~167,312 |
+| Juggler | 35.00% | ~133,089 |
+| Forgot something | 34.00% | ~129,287 |
+| Close call! | 30.00% | ~114,076 |
+| Get out my way | 27.00% | ~102,669 |
+| Common cause | 25.00% | ~95,064 |
+| Critical care | 25.00% | ~95,064 |
+| Upgrade complete | 23.00% | ~87,459 |
+| Mega-railroad | 22.00% | ~83,656 |
+| Just in time! | 17.00% | ~64,643 |
+| Builder | 16.00% | ~60,841 |
+| Steam Age | 16.00% | ~60,841 |
+| Long Haul | 16.00% | ~60,735 |
+| Bridgemania | 14.00% | ~53,236 |
+| Multilevel road | 14.00% | ~53,236 |
+| Need to think | 14.00% | ~53,236 |
+| The Tortoise | 12.00% | ~45,631 |
+| Without a lunch break | 11.00% | ~41,828 |
+| Beginner | 10.00% | ~38,026 |
+| One way | 9.00% | ~34,223 |
+| Relocation | 9.00% | ~34,223 |
 | Industrial Age | 8.00% | ~30,420 |
 | Prick of conscience | 8.00% | ~30,420 |
-| Just One More Valley | 8.00% | ~30,367 |
+| Just One More Valley | 8.00% | ~30,368 |
 | At the last moment! | 6.00% | ~22,815 |
 | Missed it! | 6.00% | ~22,815 |
-| Overseer | 5.00% | ~19,012 |
+| Overseer | 5.00% | ~19,013 |
 | Electrical Age | 4.00% | ~15,210 |
 | Highlander | 4.00% | ~15,210 |
 | Jewelry accuracy | 4.00% | ~15,210 |
 | Stargazer | 4.00% | ~15,210 |
-| Bridge builder | 3.00% | ~11,407 |
-| Engineer | 3.00% | ~11,407 |
-| Large construction | 3.00% | ~11,407 |
-| Sabotage | 3.00% | ~11,407 |
-| Squander | 3.00% | ~11,407 |
+| Bridge builder | 3.00% | ~11,408 |
+| Engineer | 3.00% | ~11,408 |
+| Large construction | 3.00% | ~11,408 |
+| Sabotage | 3.00% | ~11,408 |
+| Squander | 3.00% | ~11,408 |
 | Test Batch | 3.00% | ~11,388 |
 | Astronomer | 2.00% | ~7,605 |
 | Globalisation Age | 2.00% | ~7,605 |
@@ -54,20 +54,20 @@ Number of Ratings: 87  (23.09.2022)
 | The Hare | 2.00% | ~7,605 |
 | Vandal | 2.00% | ~7,605 |
 | Woodcutter | 2.00% | ~7,605 |
-| Innovator | 1.00% | ~3,802 |
-| Ouroboros | 1.00% | ~3,802 |
-| Will work | 1.00% | ~3,802 |
+| Innovator | 1.00% | ~3,803 |
+| Ouroboros | 1.00% | ~3,803 |
+| Will work | 1.00% | ~3,803 |
 | Occupied! | 1.00% | ~3,796 |
 | Metro builder | 0.90% | ~3,422 |
 | Achiever | 0.70% | ~2,662 |
 | Space Age | 0.70% | ~2,662 |
-| Environmental activist | 0.60% | ~2,281 |
+| Environmental activist | 0.60% | ~2,282 |
 | BBQ | 0.50% | ~1,901 |
 | Miscalculation | 0.50% | ~1,901 |
 | It's no coincidence | 0.30% | ~1,141 |
 | Railroad tycoon | 0.30% | ~1,141 |
 | The Hare with an espresso | 0.30% | ~1,141 |
-| Voyager | 0.20% | ~760 |
+| Voyager | 0.20% | ~761 |
 | Alchemist | 0.10% | ~380 |
 | Arcturus | 0.10% | ~380 |
 | Astrochemist | 0.10% | ~380 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~380 |
 | World Zapper | 0.10% | ~380 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 380,247 (Ranked 40)  
+Progressed: 380,255 (Ranked 40)  
 Completed: 9 (0.00%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,6 +184,7 @@ Completed: 9 (0.00%) (Ranked 262)
 | 2023-08-21 | 378,851 | 9 |
 | 2023-08-22 | 379,565 | 9 |
 | 2023-08-23 | 380,247 | 9 |
+| 2023-08-24 | 380,255 | 9 |
 ## Awards
 Max (Challenging Puzzles): 443  (Ranked 205)  
 Sum: 817 (Ranked 259)  

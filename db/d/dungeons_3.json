@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 173,
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 62,
+  "Ranking_EOS_NewPlayers": 63,
   "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2020-11-05T16:00:00+00:00",
@@ -2512,9 +2512,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 28253,
+  "EOS_Progressed": 28254,
   "EOS_Completed": 234,
-  "EOS_NewPlayers": 742,
+  "EOS_NewPlayers": 739,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.83,
   "EosHistory": [
@@ -16052,6 +16052,11 @@
       "Time": "2023-08-23T23:05:12.9506291+00:00",
       "NumProgressed": 28253,
       "NumCompleted": 234
+    },
+    {
+      "Time": "2023-08-24T00:05:41.7922198+00:00",
+      "NumProgressed": 28254,
+      "NumCompleted": 234
     }
   ],
   "TotalAchievements": 60,
@@ -16071,7 +16076,7 @@
       "Name": "No one has to die today!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 12996
+      "UsersEstimate": 12997
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -16079,7 +16084,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 16104
+      "UsersEstimate": 16105
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -16127,7 +16132,7 @@
       "Name": "Difficult family relationships",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 7063
+      "UsersEstimate": 7064
     },
     {
       "ID": "ACH_D3_Campaign_DayNight_1",
@@ -16199,7 +16204,7 @@
       "Name": "Stock Market Crash",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 8758
+      "UsersEstimate": 8759
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_1",
@@ -16207,7 +16212,7 @@
       "Name": "MASS-O-BOT",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 7063
+      "UsersEstimate": 7064
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_2",
@@ -16279,7 +16284,7 @@
       "Name": "The One-Huge-Army-Building Evil",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 11301
+      "UsersEstimate": 11302
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_2",
@@ -16391,7 +16396,7 @@
       "Name": "For a handfull of Catapults",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 8193
+      "UsersEstimate": 8194
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_1",
@@ -16423,7 +16428,7 @@
       "Name": "Factory farming",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 8758
+      "UsersEstimate": 8759
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_2",
@@ -16439,7 +16444,7 @@
       "Name": "Damned good",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 9323
+      "UsersEstimate": 9324
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_1",
@@ -16455,7 +16460,7 @@
       "Name": "Shadow hunter",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 8193
+      "UsersEstimate": 8194
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_Completed",
@@ -16542,15 +16547,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 28253,
+      "Progressed": 28254,
       "Completed": 234
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-08-23T13:57:14.6452541+00:00",
-  "LastChanged_Achievements": "2023-08-23T23:05:12.9506286+00:00",
+  "LastChanged_Achievements": "2023-08-24T00:05:41.7922193+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:53.4330932+00:00",
-  "LastUpdate_Ratings": "2023-08-23T22:57:30.43237+00:00",
-  "LastUpdate_Achievements": "2023-08-23T23:05:12.9507424+00:00"
+  "LastUpdate_Ratings": "2023-08-23T23:57:27.0807703+00:00",
+  "LastUpdate_Achievements": "2023-08-24T00:05:41.7923231+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 558,
   "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 350,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2020-03-24T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -6948,11 +6948,17 @@
       "Rating": 4.34,
       "NumberOfAwards": 23768,
       "NumberOfAwardsMax": 3544
+    },
+    {
+      "Time": "2023-08-23T23:58:54.4220856+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 23769,
+      "NumberOfAwardsMax": 3545
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 23768,
-  "NumberOfAwardsMax": 3544,
+  "NumberOfAwards": 23769,
+  "NumberOfAwardsMax": 3545,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -6965,7 +6971,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 3544
+      "Count": 3545
     },
     {
       "Text": "This game is Extremely Fun",
@@ -7027,8 +7033,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:05.5508389+00:00",
-  "LastChanged": "2023-08-23T20:58:33.9504882+00:00",
+  "LastChanged": "2023-08-23T23:58:54.4220855+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:17.4474612+00:00",
-  "LastUpdate_Ratings": "2023-08-23T22:58:38.7468235+00:00",
-  "LastUpdate_Achievements": "2023-08-23T23:04:49.0426512+00:00"
+  "LastUpdate_Ratings": "2023-08-23T23:58:54.422086+00:00",
+  "LastUpdate_Achievements": "2023-08-24T00:05:07.8222127+00:00"
 }

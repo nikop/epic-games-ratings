@@ -6,9 +6,9 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~21,657 |
-| Thorough | 10.00% | ~19,688 |
-| A thief's beginning | 9.00% | ~17,719 |
+| Genin | 11.00% | ~21,658 |
+| Thorough | 10.00% | ~19,689 |
+| A thief's beginning | 9.00% | ~17,720 |
 | Disguised | 8.00% | ~15,751 |
 | Rollin' | 8.00% | ~15,751 |
 | Tanuki Time | 8.00% | ~15,751 |
@@ -28,9 +28,9 @@ Number of Ratings: 495  (23.09.2022)
 | Prisoners | 4.00% | ~7,875 |
 | Still Rollin' | 4.00% | ~7,875 |
 | Too Early | 4.00% | ~7,875 |
-| Noboru | 3.00% | ~5,906 |
-| Stoned | 3.00% | ~5,906 |
-| The Old Way | 3.00% | ~5,906 |
+| Noboru | 3.00% | ~5,907 |
+| Stoned | 3.00% | ~5,907 |
+| The Old Way | 3.00% | ~5,907 |
 | Atheist Ox | 2.00% | ~3,938 |
 | It's raining men | 2.00% | ~3,938 |
 | Old Man | 2.00% | ~3,938 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~197 |
 | Release the Kraken | 0.10% | ~197 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 196,882 (Ranked 60)  
+Progressed: 196,887 (Ranked 60)  
 Completed: 71 (0.04%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,6 +177,7 @@ Completed: 71 (0.04%) (Ranked 232)
 | 2023-08-21 | 196,336 | 71 |
 | 2023-08-22 | 196,624 | 71 |
 | 2023-08-23 | 196,882 | 71 |
+| 2023-08-24 | 196,887 | 71 |
 ## Awards
 Max (Great for Beginners): 561  (Ranked 189)  
 Sum: 4,734 (Ranked 134)  

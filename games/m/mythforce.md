@@ -8,14 +8,14 @@ Number of Ratings: 285  (23.09.2022)
 | ---- | ---------- | ----- |
 | Death Becomes You | 3.00% | ~28 |
 | That'll Leave a Mark | 3.00% | ~28 |
-| Debuff Dogpile | 2.00% | ~18 |
-| Faceroll the Bones | 2.00% | ~18 |
-| First Strike | 2.00% | ~18 |
-| Flawless Victory | 2.00% | ~18 |
-| Hit 'Em Where It Hurts | 2.00% | ~18 |
-| Mushroom Madness! | 2.00% | ~18 |
-| Perk Shard Punch Card | 2.00% | ~18 |
-| Ten Steps from the Grave | 2.00% | ~18 |
+| Debuff Dogpile | 2.00% | ~19 |
+| Faceroll the Bones | 2.00% | ~19 |
+| First Strike | 2.00% | ~19 |
+| Flawless Victory | 2.00% | ~19 |
+| Hit 'Em Where It Hurts | 2.00% | ~19 |
+| Mushroom Madness! | 2.00% | ~19 |
+| Perk Shard Punch Card | 2.00% | ~19 |
+| Ten Steps from the Grave | 2.00% | ~19 |
 | Cold-Blooded Critters | 1.00% | ~9 |
 | Deadication | 1.00% | ~9 |
 | Everything Must Go! | 1.00% | ~9 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Deadalus and Loving It | 0.00% | ~0 |
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 925 (Ranked 205)  
+Progressed: 926 (Ranked 205)  
 Completed: 0 (0.00%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,6 +70,7 @@ Completed: 0 (0.00%) (Ranked 262)
 | 2023-08-21 | 887 | 0 |
 | 2023-08-22 | 909 | 0 |
 | 2023-08-23 | 925 | 0 |
+| 2023-08-24 | 926 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 456)  
 Sum: 254 (Ranked 353)  

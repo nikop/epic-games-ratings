@@ -2713,9 +2713,9 @@
       "Count": 733
     }
   ],
-  "EOS_Progressed": 234810,
+  "EOS_Progressed": 234811,
   "EOS_Completed": 261,
-  "EOS_NewPlayers": 361,
+  "EOS_NewPlayers": 360,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -15468,6 +15468,11 @@
       "Time": "2023-08-23T23:03:29.8356775+00:00",
       "NumProgressed": 234810,
       "NumCompleted": 261
+    },
+    {
+      "Time": "2023-08-24T00:03:14.4204658+00:00",
+      "NumProgressed": 234811,
+      "NumCompleted": 261
     }
   ],
   "TotalAchievements": 122,
@@ -15495,7 +15500,7 @@
       "Name": "Ambitious Intent",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 96272
+      "UsersEstimate": 96273
     },
     {
       "ID": "BOSSPIT",
@@ -15511,7 +15516,7 @@
       "Name": "First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 225418
+      "UsersEstimate": 225419
     },
     {
       "ID": "CURSE1HP",
@@ -15559,7 +15564,7 @@
       "Name": "Heavy Hitter",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 124449
+      "UsersEstimate": 124450
     },
     {
       "ID": "DEAL99DAMAGE",
@@ -15575,7 +15580,7 @@
       "Name": "Delving Deeper",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 98620
+      "UsersEstimate": 98621
     },
     {
       "ID": "DEPTH12HARD",
@@ -15599,7 +15604,7 @@
       "Name": "Getting A Glimpse",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 171411
+      "UsersEstimate": 171412
     },
     {
       "ID": "DEPTH6NOPOTIONS",
@@ -15671,7 +15676,7 @@
       "Name": "Dig Your Own Grave",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 77487
+      "UsersEstimate": 77488
     },
     {
       "ID": "DONTATTACKRATSDEPTH10",
@@ -15695,7 +15700,7 @@
       "Name": "Who To Trust?",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 75139
+      "UsersEstimate": 75140
     },
     {
       "ID": "ENDWOUNDED",
@@ -15743,7 +15748,7 @@
       "Name": "Cold Hearted",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 79835
+      "UsersEstimate": 79836
     },
     {
       "ID": "FULLINVENTORY",
@@ -15855,7 +15860,7 @@
       "Name": "Save Our Souls",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 58702
+      "UsersEstimate": 58703
     },
     {
       "ID": "HUGESOULSPILL",
@@ -15879,7 +15884,7 @@
       "Name": "Defeat The Dark",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 143234
+      "UsersEstimate": 143235
     },
     {
       "ID": "KILL1000",
@@ -15967,7 +15972,7 @@
       "Name": "Goodbye, Frog Friend",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 126797
+      "UsersEstimate": 126798
     },
     {
       "ID": "KILLNICEDOG",
@@ -16079,7 +16084,7 @@
       "Name": "C-C-Combo",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 98620
+      "UsersEstimate": 98621
     },
     {
       "ID": "NOEPIC",
@@ -16111,7 +16116,7 @@
       "Name": "Deflection",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 105664
+      "UsersEstimate": 105665
     },
     {
       "ID": "PASSIVEDEPTH6",
@@ -16127,7 +16132,7 @@
       "Name": "A Quick Escape",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 152626
+      "UsersEstimate": 152627
     },
     {
       "ID": "PETRIFY50",
@@ -16159,7 +16164,7 @@
       "Name": "Toxic",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 77487
+      "UsersEstimate": 77488
     },
     {
       "ID": "POISONEDTWICEIN1TURN",
@@ -16223,7 +16228,7 @@
       "Name": "Uncharted Territory",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 208981
+      "UsersEstimate": 208982
     },
     {
       "ID": "SPECIALROOMS10",
@@ -16231,7 +16236,7 @@
       "Name": "Explorer",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 145582
+      "UsersEstimate": 145583
     },
     {
       "ID": "SPEEDRUN10",
@@ -16247,7 +16252,7 @@
       "Name": "Sneaky",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 100968
+      "UsersEstimate": 100969
     },
     {
       "ID": "STEALTH100",
@@ -16295,7 +16300,7 @@
       "Name": "An Offering",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 143234
+      "UsersEstimate": 143235
     },
     {
       "ID": "VISIT35DUNGEONS",
@@ -16303,7 +16308,7 @@
       "Name": "The Long Run",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 32873
+      "UsersEstimate": 32874
     },
     {
       "ID": "WIN0ATTACK",
@@ -16454,7 +16459,7 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 234810,
+      "Progressed": 234811,
       "Completed": 261
     }
   ],
@@ -16462,8 +16467,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-08-23T14:57:25.3942077+00:00",
-  "LastChanged_Achievements": "2023-08-23T23:03:29.8356768+00:00",
+  "LastChanged_Achievements": "2023-08-24T00:03:14.4204654+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:27.8083281+00:00",
-  "LastUpdate_Ratings": "2023-08-23T22:57:40.0288436+00:00",
-  "LastUpdate_Achievements": "2023-08-23T23:03:29.8358779+00:00"
+  "LastUpdate_Ratings": "2023-08-23T23:57:38.9163845+00:00",
+  "LastUpdate_Achievements": "2023-08-24T00:03:14.4206629+00:00"
 }

@@ -21,6 +21,7 @@ Rating: 4.20 (Ranked 859)
 | Without A Paddle | 3.00% | ~477 |
 | In the Pipe, Five by Five | 3.00% | ~477 |
 | What Lies Beneath | 3.00% | ~477 |
+| Desperate Times | 3.00% | ~477 |
 | Crash Site | 3.00% | ~477 |
 | Full Circle | 3.00% | ~477 |
 | Power Up | 3.00% | ~477 |
@@ -28,7 +29,6 @@ Rating: 4.20 (Ranked 859)
 | Giving Back | 2.00% | ~318 |
 | Terminated | 2.00% | ~318 |
 | The Commonality | 2.00% | ~318 |
-| Desperate Times | 2.00% | ~318 |
 | One Last Job | 2.00% | ~76 |
 | In Striking Distance | 1.00% | ~159 |
 | This Isn't About Escape | 0.90% | ~34 |

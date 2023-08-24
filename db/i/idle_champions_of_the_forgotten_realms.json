@@ -6040,9 +6040,9 @@
       "Count": 3366
     }
   ],
-  "EOS_Progressed": 224434,
+  "EOS_Progressed": 224440,
   "EOS_Completed": 2210,
-  "EOS_NewPlayers": 1900,
+  "EOS_NewPlayers": 1898,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -19745,6 +19745,11 @@
       "Time": "2023-08-23T23:06:25.9272669+00:00",
       "NumProgressed": 224434,
       "NumCompleted": 2210
+    },
+    {
+      "Time": "2023-08-24T00:07:15.405932+00:00",
+      "NumProgressed": 224440,
+      "NumCompleted": 2210
     }
   ],
   "TotalAchievements": 516,
@@ -21090,9 +21095,9 @@
       "ID": "objective_completed_20",
       "SetID": "cc37lbc",
       "Name": "No Time To Rest",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 224
+      "UsersEstimate": 449
     },
     {
       "ID": "objective_completed_208",
@@ -23883,21 +23888,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 190708,
-      "Completed": 3296
+      "Progressed": 190714,
+      "Completed": 3297
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 224434,
+      "Progressed": 224440,
       "Completed": 2210
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-23T19:00:34.1383299+00:00",
-  "LastChanged_Achievements": "2023-08-23T23:06:25.927266+00:00",
+  "LastChanged_Achievements": "2023-08-24T00:07:15.4059313+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:12.3267162+00:00",
-  "LastUpdate_Ratings": "2023-08-23T23:00:08.5171173+00:00",
-  "LastUpdate_Achievements": "2023-08-23T23:06:25.9296866+00:00"
+  "LastUpdate_Ratings": "2023-08-24T00:00:59.6020758+00:00",
+  "LastUpdate_Achievements": "2023-08-24T00:07:15.4083202+00:00"
 }

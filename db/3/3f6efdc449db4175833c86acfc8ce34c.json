@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 496,
+  "EOS_Progressed": 498,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 492,
+  "EOS_NewPlayers": 494,
   "EOS_NewCompleters": 16,
-  "EOS_Completed_Percentage": 3.23,
+  "EOS_Completed_Percentage": 3.21,
   "EosHistory": [
     {
       "Time": "2023-08-08T23:02:04.1783243+00:00",
@@ -711,6 +711,11 @@
       "Time": "2023-08-23T20:04:12.5346536+00:00",
       "NumProgressed": 496,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-08-24T00:05:12.6549691+00:00",
+      "NumProgressed": 498,
+      "NumCompleted": 16
     }
   ],
   "AchievementsAdded": "2023-08-08T22:02:18.1743145+00:00",
@@ -723,7 +728,7 @@
       "Name": "Played!",
       "Percentage": 84,
       "XP": 200,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "Mission2",
@@ -731,7 +736,7 @@
       "Name": "Mission 1 clear",
       "Percentage": 39,
       "XP": 200,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "Mission3",
@@ -762,14 +767,14 @@
     {
       "ID": "6igjng7",
       "IsBase": true,
-      "Progressed": 496,
+      "Progressed": 498,
       "Completed": 16
     }
   ],
   "FirstSeen": "2023-08-19T18:58:05.6794692+00:00",
   "FirstSeenAchievements": "2023-08-08T21:02:12.6548497+00:00",
-  "LastChanged_Achievements": "2023-08-23T23:04:52.6463652+00:00",
+  "LastChanged_Achievements": "2023-08-24T00:05:12.6549687+00:00",
   "LastUpdate_AppInfo": "2023-08-21T08:57:22.6470058+00:00",
-  "LastUpdate_Ratings": "2023-08-23T22:58:37.2985609+00:00",
-  "LastUpdate_Achievements": "2023-08-23T23:04:52.6463745+00:00"
+  "LastUpdate_Ratings": "2023-08-23T23:58:52.4382611+00:00",
+  "LastUpdate_Achievements": "2023-08-24T00:05:12.6549788+00:00"
 }
