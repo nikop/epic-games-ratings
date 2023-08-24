@@ -6,11 +6,11 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~715,687 |
+| Out of bed | 99.00% | ~715,688 |
 | The Blues | 85.00% | ~614,479 |
 | Fast | 66.00% | ~477,125 |
 | Healthbar | 55.00% | ~397,604 |
-| Force Cube | 53.00% | ~383,145 |
+| Force Cube | 53.00% | ~383,146 |
 | Double Jump | 48.00% | ~347,000 |
 | Regeneration | 47.00% | ~339,771 |
 | Triple Jump | 43.00% | ~310,854 |
@@ -19,17 +19,17 @@ Number of Ratings: 25,175  (23.09.2022)
 | MacGuffin | 38.00% | ~274,708 |
 | Just once | 37.00% | ~267,479 |
 | Armor | 30.00% | ~216,875 |
-| True holy spirit | 28.00% | ~202,416 |
+| True holy spirit | 28.00% | ~202,417 |
 | That's how electronics work obviously | 26.00% | ~187,958 |
 | Force Cube Catapult | 25.00% | ~180,729 |
 | Holy Sword | 23.00% | ~166,271 |
 | Telefrag | 22.00% | ~159,042 |
-| Freed from prison | 21.00% | ~151,812 |
-| Stomp | 21.00% | ~151,812 |
+| Freed from prison | 21.00% | ~151,813 |
+| Stomp | 21.00% | ~151,813 |
 | Double Health | 18.00% | ~130,125 |
 | Buckle | 17.00% | ~122,896 |
 | Green Keycard | 17.00% | ~122,896 |
-| Rattle Hag | 15.00% | ~108,437 |
+| Rattle Hag | 15.00% | ~108,438 |
 | All Shells | 14.00% | ~101,208 |
 | Beam | 14.00% | ~101,208 |
 | Health Drink | 13.00% | ~93,979 |
@@ -51,14 +51,14 @@ Number of Ratings: 25,175  (23.09.2022)
 | Panic Lights | 10.00% | ~72,292 |
 | Translocator | 10.00% | ~72,292 |
 | Yellow Shot Button | 10.00% | ~72,292 |
-| Moon Door | 9.00% | ~65,062 |
-| Momentum | 9.00% | ~65,062 |
-| Through the tiny pipe | 9.00% | ~65,062 |
-| Win! | 9.00% | ~65,062 |
+| Moon Door | 9.00% | ~65,063 |
+| Momentum | 9.00% | ~65,063 |
+| Through the tiny pipe | 9.00% | ~65,063 |
+| Win! | 9.00% | ~65,063 |
 | The real real teleported man | 7.00% | ~50,604 |
 | Well deserved | 6.00% | ~43,375 |
-| Happiness | 3.00% | ~21,687 |
-| Super Sword | 3.00% | ~21,687 |
+| Happiness | 3.00% | ~21,688 |
+| Super Sword | 3.00% | ~21,688 |
 | All Chests | 2.00% | ~14,458 |
 | Poor ancestors | 2.00% | ~14,458 |
 | Shelf filled | 2.00% | ~14,458 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~723 |
 | DLC: Top of the world | 0.10% | ~723 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 722,916 (Ranked 19)  
+Progressed: 722,917 (Ranked 19)  
 Completed: 728 (0.10%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,11 +231,11 @@ Completed: 728 (0.10%) (Ranked 210)
 | 2023-08-21 | 722,619 | 725 |
 | 2023-08-22 | 722,743 | 726 |
 | 2023-08-23 | 722,879 | 728 |
-| 2023-08-24 | 722,916 | 728 |
+| 2023-08-24 | 722,917 | 728 |
 ## Awards
 Max (Challenging Puzzles): 7,672  (Ranked 46)  
-Sum: 9,996 (Ranked 84)  
-Diff (max vs sum): -38  
+Sum: 9,996 (Ranked 85)  
+Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 7,672 |

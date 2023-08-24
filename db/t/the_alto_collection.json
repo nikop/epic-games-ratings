@@ -745,9 +745,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 36544,
+  "EOS_Progressed": 36547,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 847,
+  "EOS_NewPlayers": 846,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -14605,6 +14605,11 @@
       "Time": "2023-08-24T10:06:33.5484375+00:00",
       "NumProgressed": 36544,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-24T11:06:00.4821121+00:00",
+      "NumProgressed": 36547,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -14656,7 +14661,7 @@
       "Name": "Rookie",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 9501
+      "UsersEstimate": 9502
     },
     {
       "ID": "goals180",
@@ -14744,7 +14749,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 5847
+      "UsersEstimate": 5848
     },
     {
       "ID": "playerFelipe",
@@ -14824,7 +14829,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 9501
+      "UsersEstimate": 9502
     },
     {
       "ID": "sandboarder",
@@ -14927,15 +14932,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 36544,
+      "Progressed": 36547,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-07-28T06:00:25.7046366+00:00",
-  "LastChanged_Achievements": "2023-08-24T10:06:33.5484365+00:00",
+  "LastChanged_Achievements": "2023-08-24T11:06:00.4821114+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:54.4473189+00:00",
-  "LastUpdate_Ratings": "2023-08-24T09:57:31.5268458+00:00",
-  "LastUpdate_Achievements": "2023-08-24T10:06:33.5485961+00:00"
+  "LastUpdate_Ratings": "2023-08-24T10:57:36.4953539+00:00",
+  "LastUpdate_Achievements": "2023-08-24T11:06:00.4822385+00:00"
 }

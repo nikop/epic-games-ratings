@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1841,
+  "EOS_Progressed": 1842,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5104,6 +5104,11 @@
       "Time": "2023-08-23T17:07:18.3915071+00:00",
       "NumProgressed": 1841,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-24T11:06:11.273353+00:00",
+      "NumProgressed": 1842,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -5123,7 +5128,7 @@
       "Name": "Ancient Knowledge",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "angelpower",
@@ -5371,7 +5376,7 @@
       "Name": "How Do You Turn This On?",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "hunter",
@@ -5409,9 +5414,9 @@
       "ID": "lieutenant",
       "SetID": "3nl4bcg",
       "Name": "Lieutenant",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 276
+      "UsersEstimate": 258
     },
     {
       "ID": "lockandload",
@@ -5419,7 +5424,7 @@
       "Name": "Lock And Load",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "masterenchanter",
@@ -5459,7 +5464,7 @@
       "Name": "Missions Dedication",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "movinguptheladder",
@@ -5531,7 +5536,7 @@
       "Name": "Sailor",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "scientist",
@@ -5569,9 +5574,9 @@
       "ID": "templeofeternals",
       "SetID": "3nl4bcg",
       "Name": "Temple of Eternals",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1031
+      "UsersEstimate": 1050
     },
     {
       "ID": "thealchemist",
@@ -5675,7 +5680,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1712
+      "UsersEstimate": 1713
     },
     {
       "ID": "warmachinesarmy",
@@ -5707,14 +5712,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1454
+      "UsersEstimate": 1455
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1841,
+      "Progressed": 1842,
       "Completed": 2
     }
   ],
@@ -5722,8 +5727,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-08-10T20:59:32.9674394+00:00",
-  "LastChanged_Achievements": "2023-08-24T10:06:45.4607042+00:00",
+  "LastChanged_Achievements": "2023-08-24T11:06:11.2733522+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:03.2567748+00:00",
-  "LastUpdate_Ratings": "2023-08-24T10:00:47.8702846+00:00",
-  "LastUpdate_Achievements": "2023-08-24T10:06:45.4608379+00:00"
+  "LastUpdate_Ratings": "2023-08-24T11:00:12.9848666+00:00",
+  "LastUpdate_Achievements": "2023-08-24T11:06:11.2734619+00:00"
 }

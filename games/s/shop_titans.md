@@ -10,9 +10,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Basic in Bulk | 1.00% | ~1,350 |
 | Disintermediation | 1.00% | ~1,350 |
 | Tinkle of Coins | 1.00% | ~1,350 |
+| Capitalism Ho! | 1.00% | ~1,350 |
 | Titan's First Steps | 1.00% | ~1,350 |
 | It's Free Real Estate | 0.90% | ~1,215 |
-| Capitalism Ho! | 0.90% | ~1,215 |
 | Another Satisfied Customer | 0.80% | ~1,080 |
 | Budding Merchant | 0.80% | ~1,080 |
 | One Easy Payment | 0.70% | ~945 |
@@ -27,6 +27,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Flooding the Market | 0.50% | ~675 |
 | Where it Hurts | 0.50% | ~675 |
 | Gild-Gotten Goods | 0.50% | ~675 |
+| Accomplished Merchant | 0.50% | ~675 |
 | Dungeon Imports | 0.50% | ~675 |
 | On the Path to Greatness | 0.40% | ~540 |
 | Ascended | 0.40% | ~540 |
@@ -39,7 +40,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Flawless Fusion | 0.40% | ~540 |
 | Gem Expert | 0.40% | ~540 |
 | Helping Hand | 0.40% | ~540 |
-| Accomplished Merchant | 0.40% | ~540 |
 | Natural 20 | 0.40% | ~540 |
 | Did we pack lunch? | 0.40% | ~540 |
 | Arcane Industries | 0.40% | ~540 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~135 |
 | Cash Only Please | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,005 (Ranked 66)  
+Progressed: 135,006 (Ranked 66)  
 Completed: 138 (0.10%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,7 +245,7 @@ Completed: 138 (0.10%) (Ranked 210)
 | 2023-08-21 | 134,907 | 134 |
 | 2023-08-22 | 134,956 | 136 |
 | 2023-08-23 | 134,997 | 138 |
-| 2023-08-24 | 135,005 | 138 |
+| 2023-08-24 | 135,006 | 138 |
 ## Awards
 Max (Great for Beginners): 4,709  (Ranked 71)  
 Sum: 27,131 (Ranked 47)  

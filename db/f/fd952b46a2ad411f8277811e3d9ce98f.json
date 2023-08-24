@@ -4,7 +4,7 @@
   "ProductSlug": "mini-royale-ad1dca",
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1647,
+  "EOS_Progressed": 1648,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -108,6 +108,11 @@
     {
       "Time": "2023-08-24T08:03:04.8042056+00:00",
       "NumProgressed": 1647,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-24T11:03:07.5332416+00:00",
+      "NumProgressed": 1648,
       "NumCompleted": 0
     }
   ],
@@ -217,7 +222,7 @@
       "Name": "Rookie Rumble",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "kills_100",
@@ -319,9 +324,9 @@
       "ID": "top10_10",
       "SetID": "413a09o",
       "Name": "Experienced Soldier",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "winsNoDmgTaken_1",
@@ -368,13 +373,13 @@
     {
       "ID": "413a09o",
       "IsBase": true,
-      "Progressed": 1647,
+      "Progressed": 1648,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-23T09:03:04.2005407+00:00",
-  "LastChanged_Achievements": "2023-08-24T10:02:17.8268794+00:00",
+  "LastChanged_Achievements": "2023-08-24T11:03:07.5332409+00:00",
   "LastUpdate_AppInfo": "2023-08-23T08:57:14.8495683+00:00",
-  "LastUpdate_Ratings": "2023-08-24T09:57:20.9735659+00:00",
-  "LastUpdate_Achievements": "2023-08-24T10:02:17.8269097+00:00"
+  "LastUpdate_Ratings": "2023-08-24T10:57:27.8528014+00:00",
+  "LastUpdate_Achievements": "2023-08-24T11:03:07.5332705+00:00"
 }

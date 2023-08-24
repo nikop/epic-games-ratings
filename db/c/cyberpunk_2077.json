@@ -10815,18 +10815,24 @@
       "Rating": 4.62,
       "NumberOfAwards": 201585,
       "NumberOfAwardsMax": 76110
+    },
+    {
+      "Time": "2023-08-24T11:00:11.2660723+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 201670,
+      "NumberOfAwardsMax": 76195
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 201585,
-  "NumberOfAwardsMax": 76110,
+  "NumberOfAwards": 201670,
+  "NumberOfAwardsMax": 76195,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 76110
+      "Count": 76195
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -10895,9 +10901,9 @@
       "Count": 5649
     }
   ],
-  "EOS_Progressed": 872347,
+  "EOS_Progressed": 872350,
   "EOS_Completed": 2006,
-  "EOS_NewPlayers": 1106,
+  "EOS_NewPlayers": 1096,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -24825,6 +24831,11 @@
       "Time": "2023-08-24T10:06:43.4912321+00:00",
       "NumProgressed": 872347,
       "NumCompleted": 2006
+    },
+    {
+      "Time": "2023-08-24T11:06:09.487854+00:00",
+      "NumProgressed": 872350,
+      "NumCompleted": 2006
     }
   ],
   "TotalAchievements": 44,
@@ -24852,7 +24863,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 148299
+      "UsersEstimate": 148300
     },
     {
       "ID": "Cyberjunkie",
@@ -24860,7 +24871,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 157022
+      "UsersEstimate": 157023
     },
     {
       "ID": "Denied",
@@ -24868,7 +24879,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 340215
+      "UsersEstimate": 340216
     },
     {
       "ID": "FollowingTheRiver",
@@ -24884,7 +24895,7 @@
       "Name": "The Wandering Fool",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 78511
+      "UsersEstimate": 78512
     },
     {
       "ID": "Gearhead",
@@ -24916,7 +24927,7 @@
       "Name": "Gunslinger",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8723
+      "UsersEstimate": 8724
     },
     {
       "ID": "HandyMan",
@@ -24924,7 +24935,7 @@
       "Name": "Master Crafter",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 113405
+      "UsersEstimate": 113406
     },
     {
       "ID": "IAmMaxTac",
@@ -25004,7 +25015,7 @@
       "Name": "Life of the Road",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 183193
+      "UsersEstimate": 183194
     },
     {
       "ID": "Roleplayer",
@@ -25020,7 +25031,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 78511
+      "UsersEstimate": 78512
     },
     {
       "ID": "Temperance",
@@ -25052,7 +25063,7 @@
       "Name": "The Fool",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 601919
+      "UsersEstimate": 601922
     },
     {
       "ID": "TheHermit",
@@ -25060,7 +25071,7 @@
       "Name": "The Hermit",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 218087
+      "UsersEstimate": 218088
     },
     {
       "ID": "TheHightPriestess",
@@ -25068,7 +25079,7 @@
       "Name": "The High Priestess",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 191916
+      "UsersEstimate": 191917
     },
     {
       "ID": "TheLovers",
@@ -25076,7 +25087,7 @@
       "Name": "The Lovers",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 305321
+      "UsersEstimate": 305322
     },
     {
       "ID": "TheStar",
@@ -25084,7 +25095,7 @@
       "Name": "The Star",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 61064
+      "UsersEstimate": 61065
     },
     {
       "ID": "TheSun",
@@ -25092,7 +25103,7 @@
       "Name": "The Sun",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 61064
+      "UsersEstimate": 61065
     },
     {
       "ID": "TheWheelOfFortune",
@@ -25100,7 +25111,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 235534
+      "UsersEstimate": 235535
     },
     {
       "ID": "TheWorld",
@@ -25108,7 +25119,7 @@
       "Name": "The World",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 157022
+      "UsersEstimate": 157023
     },
     {
       "ID": "ThisIsPacifica",
@@ -25180,28 +25191,28 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 191916
+      "UsersEstimate": 191917
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 872347,
+      "Progressed": 872350,
       "Completed": 2006
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 970,
-      "Completed": 970
+      "Progressed": 973,
+      "Completed": 973
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-08-24T09:00:06.1422512+00:00",
-  "LastChanged_Achievements": "2023-08-24T10:06:43.4912313+00:00",
+  "LastChanged": "2023-08-24T11:00:11.2660718+00:00",
+  "LastChanged_Achievements": "2023-08-24T11:06:09.4878529+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:56.8976844+00:00",
-  "LastUpdate_Ratings": "2023-08-24T10:00:45.8765581+00:00",
-  "LastUpdate_Achievements": "2023-08-24T10:06:43.4913642+00:00"
+  "LastUpdate_Ratings": "2023-08-24T11:00:11.2660728+00:00",
+  "LastUpdate_Achievements": "2023-08-24T11:06:09.4879771+00:00"
 }

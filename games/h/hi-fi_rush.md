@@ -8,8 +8,8 @@ Rating: 4.88 (Ranked 19)
 | Start with a bang! | 12.00% | ~476 |
 | Feeling the beat! | 12.00% | ~476 |
 | You can pet the cat! | 11.00% | ~437 |
+| Cream of the Crop | 10.00% | ~397 |
 | Who put gears in there? | 10.00% | ~397 |
-| Cream of the Crop | 9.00% | ~357 |
 | Thanks for the free chip, Peppermint! | 9.00% | ~357 |
 | You got this, Peppermint? | 8.00% | ~318 |
 | Perfect Parry | 8.00% | ~318 |

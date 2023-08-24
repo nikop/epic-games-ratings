@@ -2,12 +2,12 @@
   "ID": "4ac85017adaf4d228518d64325c4ec65",
   "Name": "Obduction",
   "ProductSlug": "obduction",
-  "Ranking_Rating": 911,
+  "Ranking_Rating": 909,
   "Ranking_Popularity": 396,
   "Ranking_PopularitySum": 448,
   "Ranking_EOS_Progress": 558,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewPlayers": 349,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-07-15T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.09,
+  "Rating": 4.1,
   "NumberOfRatings": 231,
   "RatingHistory": [
     {
@@ -443,6 +443,12 @@
       "Rating": 4.09,
       "NumberOfAwards": 53,
       "NumberOfAwardsMax": 53
+    },
+    {
+      "Time": "2023-08-24T10:58:51.3376322+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 53,
+      "NumberOfAwardsMax": 53
     }
   ],
   "ReviewsDisabled": false,
@@ -468,8 +474,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:36.0781179+00:00",
-  "LastChanged": "2023-08-16T10:58:06.9672591+00:00",
+  "LastChanged": "2023-08-24T10:58:51.337632+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:26.2633666+00:00",
-  "LastUpdate_Ratings": "2023-08-24T09:59:02.16377+00:00",
-  "LastUpdate_Achievements": "2023-08-24T10:03:58.9123743+00:00"
+  "LastUpdate_Ratings": "2023-08-24T10:58:51.3376326+00:00",
+  "LastUpdate_Achievements": "2023-08-24T11:03:56.5915705+00:00"
 }

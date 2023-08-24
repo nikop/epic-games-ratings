@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 753,
+  "EOS_Progressed": 754,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1696,6 +1696,11 @@
       "Time": "2023-08-23T20:03:07.970765+00:00",
       "NumProgressed": 753,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-24T11:03:42.3737258+00:00",
+      "NumProgressed": 754,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1713,9 +1718,9 @@
       "ID": "AMMO_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "How Many Do You Need?",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 316
+      "UsersEstimate": 324
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -1761,9 +1766,9 @@
       "ID": "ATK_ACHIEVEMENT_3",
       "SetID": "9lcahn0",
       "Name": "I Can Do This All Day",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 38
     },
     {
       "ID": "ATK_ACHIEVEMENT_4",
@@ -1979,7 +1984,7 @@
       "Name": "Pest Control or Taxonomist?",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "KILLR_ACHIEVEMENT_1",
@@ -1995,7 +2000,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -2027,7 +2032,7 @@
       "Name": "And There We Go",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -2161,9 +2166,9 @@
       "ID": "RAPTOR_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Haunted Prison",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 30
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_3",
@@ -2234,14 +2239,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 753,
+      "Progressed": 754,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-08-24T10:03:41.140391+00:00",
+  "LastChanged_Achievements": "2023-08-24T11:03:42.3737253+00:00",
   "LastUpdate_AppInfo": "2023-08-17T16:57:04.6677463+00:00",
-  "LastUpdate_Ratings": "2023-08-24T09:59:18.5082566+00:00",
-  "LastUpdate_Achievements": "2023-08-24T10:03:41.1404642+00:00"
+  "LastUpdate_Ratings": "2023-08-24T10:59:06.2591408+00:00",
+  "LastUpdate_Achievements": "2023-08-24T11:03:42.3738107+00:00"
 }

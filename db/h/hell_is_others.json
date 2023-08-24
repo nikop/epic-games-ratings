@@ -856,9 +856,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 255330,
+  "EOS_Progressed": 255331,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 365,
+  "EOS_NewPlayers": 363,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13696,6 +13696,11 @@
       "Time": "2023-08-24T10:04:03.7628722+00:00",
       "NumProgressed": 255330,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-24T11:04:00.3296228+00:00",
+      "NumProgressed": 255331,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -13755,7 +13760,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 79152
+      "UsersEstimate": 79153
     },
     {
       "ID": "BackHomeNTimes",
@@ -13763,7 +13768,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12766
+      "UsersEstimate": 12767
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -13835,7 +13840,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12766
+      "UsersEstimate": 12767
     },
     {
       "ID": "CreedsInBank2",
@@ -14154,7 +14159,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 255330,
+      "Progressed": 255331,
       "Completed": 3
     }
   ],
@@ -14162,8 +14167,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-08-23T02:58:34.0640483+00:00",
-  "LastChanged_Achievements": "2023-08-24T10:04:03.7628717+00:00",
+  "LastChanged_Achievements": "2023-08-24T11:04:00.3296222+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:02.1454533+00:00",
-  "LastUpdate_Ratings": "2023-08-24T09:58:39.0826955+00:00",
-  "LastUpdate_Achievements": "2023-08-24T10:04:03.763053+00:00"
+  "LastUpdate_Ratings": "2023-08-24T10:58:33.5170422+00:00",
+  "LastUpdate_Achievements": "2023-08-24T11:04:00.32974+00:00"
 }

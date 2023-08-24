@@ -5722,9 +5722,9 @@
       "Count": 3737
     }
   ],
-  "EOS_Progressed": 135005,
+  "EOS_Progressed": 135006,
   "EOS_Completed": 138,
-  "EOS_NewPlayers": 367,
+  "EOS_NewPlayers": 365,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -18597,6 +18597,11 @@
       "Time": "2023-08-24T10:07:12.4845445+00:00",
       "NumProgressed": 135005,
       "NumCompleted": 138
+    },
+    {
+      "Time": "2023-08-24T11:06:32.9842718+00:00",
+      "NumProgressed": 135006,
+      "NumCompleted": 138
     }
   ],
   "TotalAchievements": 112,
@@ -19198,9 +19203,9 @@
       "ID": "level02",
       "SetID": "anfd17p",
       "Name": "Accomplished Merchant",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 540
+      "UsersEstimate": 675
     },
     {
       "ID": "level03",
@@ -19382,9 +19387,9 @@
       "ID": "sell01",
       "SetID": "anfd17p",
       "Name": "Capitalism Ho!",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1215
+      "UsersEstimate": 1350
     },
     {
       "ID": "sell02",
@@ -19503,15 +19508,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135005,
+      "Progressed": 135006,
       "Completed": 138
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-24T04:01:08.7153208+00:00",
-  "LastChanged_Achievements": "2023-08-24T10:07:12.4845437+00:00",
+  "LastChanged_Achievements": "2023-08-24T11:06:32.9842713+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:50.7489496+00:00",
-  "LastUpdate_Ratings": "2023-08-24T10:01:21.9938192+00:00",
-  "LastUpdate_Achievements": "2023-08-24T10:07:12.4848283+00:00"
+  "LastUpdate_Ratings": "2023-08-24T11:00:41.1670134+00:00",
+  "LastUpdate_Achievements": "2023-08-24T11:06:32.9845143+00:00"
 }
