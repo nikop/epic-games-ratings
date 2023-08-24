@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 416,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 21,
-  "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
     "PcReleaseDate": "2022-01-14T10:00:00+00:00",
@@ -357,7 +357,7 @@
   ],
   "EOS_Progressed": 2210,
   "EOS_Completed": 268,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 12.13,
   "EosHistory": [
@@ -1938,9 +1938,9 @@
       "ID": "PickaxeWood",
       "SetID": "5lok9mm",
       "Name": "Pickaxe",
-      "Percentage": 94,
+      "Percentage": 95,
       "XP": 10,
-      "UsersEstimate": 2077
+      "UsersEstimate": 2100
     },
     {
       "ID": "Plumbster",
@@ -2066,8 +2066,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-08-21T16:57:49.4049479+00:00",
-  "LastChanged_Achievements": "2023-08-24T12:05:09.3917459+00:00",
+  "LastChanged_Achievements": "2023-08-24T13:09:38.9814891+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:51.4184193+00:00",
-  "LastUpdate_Ratings": "2023-08-24T11:58:05.2821072+00:00",
-  "LastUpdate_Achievements": "2023-08-24T12:05:09.3918024+00:00"
+  "LastUpdate_Ratings": "2023-08-24T13:02:32.6375461+00:00",
+  "LastUpdate_Achievements": "2023-08-24T13:09:38.9815825+00:00"
 }

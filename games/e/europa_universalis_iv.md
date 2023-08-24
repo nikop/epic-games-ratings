@@ -6,42 +6,42 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~14,592 |
-| That's a Grand Army | 3.00% | ~10,944 |
-| That is mine! | 3.00% | ~10,944 |
-| Victorious! | 3.00% | ~10,944 |
-| Brothers in Arms | 2.00% | ~7,296 |
-| That's a Grand Navy | 2.00% | ~7,296 |
-| Seriously?! | 2.00% | ~7,296 |
-| Cold War | 1.00% | ~3,648 |
-| Defender of the Faith | 1.00% | ~3,648 |
-| For the Glory | 1.00% | ~3,648 |
-| It's all about the money | 1.00% | ~3,648 |
-| True Catholic | 1.00% | ~3,648 |
-| The Princess is in this Castle | 0.90% | ~3,283 |
-| It's all about luck | 0.80% | ~2,918 |
-| Respected | 0.80% | ~2,918 |
-| Truly Divine Ruler | 0.80% | ~2,918 |
-| Blockader | 0.70% | ~2,554 |
-| Double the Love | 0.60% | ~2,189 |
-| Royal Authority | 0.60% | ~2,189 |
-| Total Control | 0.60% | ~2,189 |
-| Combined Arms | 0.50% | ~1,824 |
-| My armies are invincible! | 0.50% | ~1,824 |
-| Agressive Expander | 0.40% | ~1,459 |
-| Azur semé de lis or | 0.40% | ~1,459 |
-| City of Cities | 0.40% | ~1,459 |
-| Gentle Persuasion | 0.40% | ~1,459 |
-| Queen of Conquest | 0.40% | ~1,459 |
-| This navy can take it all | 0.40% | ~1,459 |
-| All That's Thine Shall Be Mine | 0.30% | ~1,094 |
-| Bright Spark | 0.30% | ~1,094 |
-| The Emperors new clothes | 0.30% | ~1,094 |
-| Factionalism | 0.30% | ~1,094 |
-| A Golden Empire | 0.30% | ~1,094 |
-| Isn't this the way to India? | 0.30% | ~1,094 |
-| Market Control | 0.30% | ~1,094 |
-| The Five Colonies | 0.30% | ~1,094 |
+| Until death do us apart | 4.00% | ~14,600 |
+| That's a Grand Army | 3.00% | ~10,950 |
+| That is mine! | 3.00% | ~10,950 |
+| Victorious! | 3.00% | ~10,950 |
+| Brothers in Arms | 2.00% | ~7,300 |
+| That's a Grand Navy | 2.00% | ~7,300 |
+| Seriously?! | 2.00% | ~7,300 |
+| Cold War | 1.00% | ~3,650 |
+| Defender of the Faith | 1.00% | ~3,650 |
+| For the Glory | 1.00% | ~3,650 |
+| It's all about the money | 1.00% | ~3,650 |
+| True Catholic | 1.00% | ~3,650 |
+| The Princess is in this Castle | 0.90% | ~3,285 |
+| It's all about luck | 0.80% | ~2,920 |
+| Respected | 0.80% | ~2,920 |
+| Truly Divine Ruler | 0.80% | ~2,920 |
+| Blockader | 0.70% | ~2,555 |
+| Double the Love | 0.60% | ~2,190 |
+| Royal Authority | 0.60% | ~2,190 |
+| Total Control | 0.60% | ~2,190 |
+| Combined Arms | 0.50% | ~1,825 |
+| My armies are invincible! | 0.50% | ~1,825 |
+| Agressive Expander | 0.40% | ~1,460 |
+| Azur semé de lis or | 0.40% | ~1,460 |
+| City of Cities | 0.40% | ~1,460 |
+| Gentle Persuasion | 0.40% | ~1,460 |
+| Queen of Conquest | 0.40% | ~1,460 |
+| This navy can take it all | 0.40% | ~1,460 |
+| All That's Thine Shall Be Mine | 0.30% | ~1,095 |
+| Bright Spark | 0.30% | ~1,095 |
+| The Emperors new clothes | 0.30% | ~1,095 |
+| Factionalism | 0.30% | ~1,095 |
+| A Golden Empire | 0.30% | ~1,095 |
+| Isn't this the way to India? | 0.30% | ~1,095 |
+| Market Control | 0.30% | ~1,095 |
+| The Five Colonies | 0.30% | ~1,095 |
 | All belongs to Mother Russia | 0.20% | ~730 |
 | At every continent | 0.20% | ~730 |
 | Down Under | 0.20% | ~730 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 364,801 (Ranked 41)  
+Progressed: 364,989 (Ranked 41)  
 Completed: 0 (0.00%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -487,10 +487,10 @@ Completed: 0 (0.00%) (Ranked 262)
 | 2023-08-21 | 357,003 | 0 |
 | 2023-08-22 | 360,463 | 0 |
 | 2023-08-23 | 363,609 | 0 |
-| 2023-08-24 | 364,801 | 0 |
+| 2023-08-24 | 364,989 | 0 |
 ## Awards
 Max (Educational): 5,760  (Ranked 60)  
-Sum: 47,558 (Ranked 26)  
+Sum: 47,564 (Ranked 26)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
@@ -502,7 +502,7 @@ Diff (max vs sum): 34
 | This game is Relaxing | 5,332 |
 | This game has Competitive Players | 5,197 |
 | This game has Amazing Storytelling | 4,867 |
-| This game has Amazing Characters | 4,502 |
+| This game has Amazing Characters | 4,508 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -726,4 +726,4 @@ Diff (max vs sum): 34
 | 2023-08-21 | 4.68 | - | 5,732 | 47,350 |
 | 2023-08-22 | 4.68 | - | 5,750 | 47,449 |
 | 2023-08-23 | 4.68 | - | 5,760 | 47,537 |
-| 2023-08-24 | 4.68 | - | 5,760 | 47,558 |
+| 2023-08-24 | 4.68 | - | 5,760 | 47,564 |

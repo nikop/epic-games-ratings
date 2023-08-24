@@ -5,15 +5,15 @@ Rating: 3.94 (Ranked 948)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~53,479 |
-| First One’s Free | 65.00% | ~46,975 |
-| Neophyte Ninja | 50.00% | ~36,134 |
-| Too Old for This | 47.00% | ~33,966 |
+| Downed but Not Outed | 74.00% | ~53,480 |
+| First One’s Free | 65.00% | ~46,976 |
+| Neophyte Ninja | 50.00% | ~36,135 |
+| Too Old for This | 47.00% | ~33,967 |
 | Case Closed | 35.00% | ~25,294 |
 | Fancy Pants | 35.00% | ~25,294 |
-| King of the Hill | 34.00% | ~24,571 |
+| King of the Hill | 34.00% | ~24,572 |
 | Underworld Initiate | 29.00% | ~20,958 |
-| Roid Ranger | 21.00% | ~15,176 |
+| Roid Ranger | 21.00% | ~15,177 |
 | Off the Rocks | 20.00% | ~14,454 |
 | True Player | 19.00% | ~13,731 |
 | Raider’s Ruin | 17.00% | ~12,286 |
@@ -28,7 +28,7 @@ Rating: 3.94 (Ranked 948)
 | I Like Trains | 8.00% | ~5,782 |
 | Foo Finder | 7.00% | ~5,059 |
 | Savvy Seeker | 6.00% | ~4,336 |
-| Legend Looter | 5.00% | ~3,613 |
+| Legend Looter | 5.00% | ~3,614 |
 | Imports and Exports | 4.00% | ~2,891 |
 | Olympus Ascended | 4.00% | ~2,891 |
 | Cracked the Jack | 4.00% | ~2,891 |
@@ -43,7 +43,7 @@ Rating: 3.94 (Ranked 948)
 | Geek Out | 0.60% | ~434 |
 | Full House | 0.20% | ~145 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,269 (Ranked 78)  
+Progressed: 72,270 (Ranked 78)  
 Completed: 41 (0.06%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 41 (0.06%) (Ranked 224)
 | 2023-08-21 | 72,159 | 41 |
 | 2023-08-22 | 72,196 | 41 |
 | 2023-08-23 | 72,253 | 41 |
-| 2023-08-24 | 72,269 | 41 |
+| 2023-08-24 | 72,270 | 41 |
 ## Awards
 Max (Diverse Characters): 404  (Ranked 215)  
 Sum: 1,928 (Ranked 203)  

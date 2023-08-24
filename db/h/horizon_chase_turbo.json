@@ -2392,9 +2392,9 @@
       "Count": 79
     }
   ],
-  "EOS_Progressed": 1031800,
+  "EOS_Progressed": 1031825,
   "EOS_Completed": 403,
-  "EOS_NewPlayers": 3979,
+  "EOS_NewPlayers": 3970,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -16307,6 +16307,11 @@
       "Time": "2023-08-24T12:05:42.4991132+00:00",
       "NumProgressed": 1031800,
       "NumCompleted": 403
+    },
+    {
+      "Time": "2023-08-24T13:10:12.4857982+00:00",
+      "NumProgressed": 1031825,
+      "NumCompleted": 403
     }
   ],
   "TotalAchievements": 37,
@@ -16318,7 +16323,7 @@
       "Name": "Ghostbuster",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 340494
+      "UsersEstimate": 340502
     },
     {
       "ID": "CompleteAustralia",
@@ -16342,7 +16347,7 @@
       "Name": "California Dreamer",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 72226
+      "UsersEstimate": 72228
     },
     {
       "ID": "CompleteChile",
@@ -16350,7 +16355,7 @@
       "Name": "Carm\u00E9n\u00E8re Taster",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 30954
+      "UsersEstimate": 30955
     },
     {
       "ID": "CompleteChina",
@@ -16374,7 +16379,7 @@
       "Name": "Volcano Surfer",
       "Percentage": 0.8,
       "XP": 75,
-      "UsersEstimate": 8254
+      "UsersEstimate": 8255
     },
     {
       "ID": "CompleteIceland",
@@ -16398,7 +16403,7 @@
       "Name": "Otaku",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 8254
+      "UsersEstimate": 8255
     },
     {
       "ID": "CompleteSouthAfrica",
@@ -16510,7 +16515,7 @@
       "Name": "Quickie",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 113498
+      "UsersEstimate": 113501
     },
     {
       "ID": "FirstRaceWorldTour",
@@ -16518,7 +16523,7 @@
       "Name": "The First of Many",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 928620
+      "UsersEstimate": 928642
     },
     {
       "ID": "GetLotsOfScore",
@@ -16534,7 +16539,7 @@
       "Name": "Supersonic",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 30954
+      "UsersEstimate": 30955
     },
     {
       "ID": "InstallAllUpgrades",
@@ -16550,7 +16555,7 @@
       "Name": "Pump my Ride",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 484946
+      "UsersEstimate": 484958
     },
     {
       "ID": "OutOfFuelLoseRace",
@@ -16558,7 +16563,7 @@
       "Name": "Call Roadside Assistance",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 175406
+      "UsersEstimate": 175410
     },
     {
       "ID": "OutOfFuelWinRace",
@@ -16566,7 +16571,7 @@
       "Name": "Comeback",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 30954
+      "UsersEstimate": 30955
     },
     {
       "ID": "RunLotsOfMiles",
@@ -16574,7 +16579,7 @@
       "Name": "Marathonist",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 30954
+      "UsersEstimate": 30955
     },
     {
       "ID": "UnlockCar",
@@ -16582,7 +16587,7 @@
       "Name": "I Need a Bigger Garage",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 650034
+      "UsersEstimate": 650050
     },
     {
       "ID": "WinBySmallDifference",
@@ -16590,7 +16595,7 @@
       "Name": "That Was Close",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 185724
+      "UsersEstimate": 185728
     },
     {
       "ID": "WinLotsOfConsecutiveRaces",
@@ -16598,7 +16603,7 @@
       "Name": "Living Legend",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 30954
+      "UsersEstimate": 30955
     },
     {
       "ID": "WinRaceWithoutColliding",
@@ -16606,22 +16611,22 @@
       "Name": "Can\u0027t Touch This",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 51590
+      "UsersEstimate": 51591
     }
   ],
   "AchievementSets": [
     {
       "ID": "77fdf3o",
       "IsBase": true,
-      "Progressed": 1031800,
+      "Progressed": 1031825,
       "Completed": 403
     }
   ],
   "FirstSeen": "2022-07-22T20:19:20.5347351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.6843682+00:00",
   "LastChanged": "2023-08-24T04:00:10.6302477+00:00",
-  "LastChanged_Achievements": "2023-08-24T12:05:42.4991125+00:00",
+  "LastChanged_Achievements": "2023-08-24T13:10:12.4857975+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:34.2692316+00:00",
-  "LastUpdate_Ratings": "2023-08-24T11:59:46.9839347+00:00",
-  "LastUpdate_Achievements": "2023-08-24T12:05:42.4992146+00:00"
+  "LastUpdate_Ratings": "2023-08-24T13:04:06.5923025+00:00",
+  "LastUpdate_Achievements": "2023-08-24T13:10:12.485923+00:00"
 }

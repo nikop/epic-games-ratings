@@ -608,9 +608,9 @@
       "ID": "SomervilleWorldsBestDad",
       "SetID": "3mk3nll",
       "Name": "Worlds best dad",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     }
   ],
   "AchievementSets": [
@@ -625,8 +625,8 @@
   "FirstSeenRating": "2022-11-25T17:58:18.0029626+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.8533708+00:00",
   "LastChanged": "2023-03-31T05:58:16.104552+00:00",
-  "LastChanged_Achievements": "2023-08-24T12:06:33.30173+00:00",
+  "LastChanged_Achievements": "2023-08-24T13:11:02.7496659+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:45.419792+00:00",
-  "LastUpdate_Ratings": "2023-08-24T11:59:52.4111038+00:00",
-  "LastUpdate_Achievements": "2023-08-24T12:06:33.3017422+00:00"
+  "LastUpdate_Ratings": "2023-08-24T13:04:13.498958+00:00",
+  "LastUpdate_Achievements": "2023-08-24T13:11:02.7496776+00:00"
 }

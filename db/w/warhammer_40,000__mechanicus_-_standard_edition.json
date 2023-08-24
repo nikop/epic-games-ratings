@@ -561,9 +561,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 220984,
+  "EOS_Progressed": 220990,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 568,
+  "EOS_NewPlayers": 572,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14186,6 +14186,11 @@
       "Time": "2023-08-24T12:03:31.9440302+00:00",
       "NumProgressed": 220984,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-24T13:08:11.6596547+00:00",
+      "NumProgressed": 220990,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -14197,7 +14202,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 41987
+      "UsersEstimate": 41988
     },
     {
       "ID": "ACH_BASE_10",
@@ -14205,7 +14210,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 57456
+      "UsersEstimate": 57457
     },
     {
       "ID": "ACH_BASE_11",
@@ -14221,7 +14226,7 @@
       "Name": "Competent Cohort",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 8839
+      "UsersEstimate": 8840
     },
     {
       "ID": "ACH_BASE_13",
@@ -14365,7 +14370,7 @@
       "Name": "Celestial Cartography Catastrophe",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8839
+      "UsersEstimate": 8840
     },
     {
       "ID": "ACH_BASE_30",
@@ -14445,7 +14450,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 26518
+      "UsersEstimate": 26519
     },
     {
       "ID": "ACH_BASE_8",
@@ -14453,7 +14458,7 @@
       "Name": "One with the Machine",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8839
+      "UsersEstimate": 8840
     },
     {
       "ID": "ACH_BASE_9",
@@ -14468,7 +14473,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 220984,
+      "Progressed": 220990,
       "Completed": 5
     }
   ],
@@ -14476,8 +14481,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-08-17T07:59:55.1961024+00:00",
-  "LastChanged_Achievements": "2023-08-24T12:03:31.9440292+00:00",
+  "LastChanged_Achievements": "2023-08-24T13:08:11.659654+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:54.6382051+00:00",
-  "LastUpdate_Ratings": "2023-08-24T12:00:38.2300359+00:00",
-  "LastUpdate_Achievements": "2023-08-24T12:03:31.9441421+00:00"
+  "LastUpdate_Ratings": "2023-08-24T13:04:57.6918322+00:00",
+  "LastUpdate_Achievements": "2023-08-24T13:08:11.6597559+00:00"
 }

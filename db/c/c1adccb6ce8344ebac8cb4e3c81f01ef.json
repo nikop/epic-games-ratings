@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 200,
+  "EOS_Progressed": 203,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3,
+  "EOS_Completed_Percentage": 2.96,
   "EosHistory": [
     {
       "Time": "2023-06-26T21:03:11.1861868+00:00",
@@ -766,6 +766,11 @@
       "Time": "2023-08-24T12:02:25.9187826+00:00",
       "NumProgressed": 200,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-08-24T13:07:25.5072607+00:00",
+      "NumProgressed": 203,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-06-26T21:03:11.1861911+00:00",
@@ -792,9 +797,9 @@
       "ID": "GreenSkeleton",
       "SetID": "a76l54k",
       "Name": "Green Skeleton",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 200,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "OrangeSkeleton",
@@ -802,37 +807,37 @@
       "Name": "Orange Skeleton",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "RedSkeleton",
       "SetID": "a76l54k",
       "Name": "Red Skeleton",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 100,
-      "UsersEstimate": 112
+      "UsersEstimate": 116
     },
     {
       "ID": "YellowSkeleton",
       "SetID": "a76l54k",
       "Name": "Yellow Skeleton",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 200,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     }
   ],
   "AchievementSets": [
     {
       "ID": "a76l54k",
       "IsBase": true,
-      "Progressed": 200,
+      "Progressed": 203,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-06-27T08:56:55.4742028+00:00",
   "FirstSeenAchievements": "2023-06-15T10:01:05.3060571+00:00",
-  "LastChanged_Achievements": "2023-08-24T12:02:25.9187819+00:00",
+  "LastChanged_Achievements": "2023-08-24T13:07:25.5072599+00:00",
   "LastUpdate_AppInfo": "2023-08-17T16:57:04.8692302+00:00",
-  "LastUpdate_Ratings": "2023-08-24T11:58:57.0621273+00:00",
-  "LastUpdate_Achievements": "2023-08-24T12:02:25.9187947+00:00"
+  "LastUpdate_Ratings": "2023-08-24T13:03:20.9102376+00:00",
+  "LastUpdate_Achievements": "2023-08-24T13:07:25.5072797+00:00"
 }

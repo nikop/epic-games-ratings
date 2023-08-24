@@ -44,7 +44,7 @@
 | Champion – no way back | 41.00% | ~108 |
 | Responsible approach | 41.00% | ~108 |
 | Your own way | 41.00% | ~108 |
-| Poisoned fighter | 39.00% | ~103 |
+| Poisoned fighter | 40.00% | ~106 |
 | Underground dwellers | 39.00% | ~103 |
 | Mom got better | 38.00% | ~100 |
 | Deal with life | 38.00% | ~100 |
@@ -57,12 +57,12 @@
 | Undercover robot | 34.00% | ~90 |
 | Not little hacker | 33.00% | ~87 |
 | Absolute Champion! | 33.00% | ~87 |
+| Careerist | 33.00% | ~87 |
 | Another world | 32.00% | ~84 |
 | The lonesome road | 32.00% | ~84 |
 | Keep nature safe | 32.00% | ~84 |
 | Family comes first | 32.00% | ~84 |
 | Key memories | 32.00% | ~84 |
-| Careerist | 32.00% | ~84 |
 | Anyone can resist | 32.00% | ~84 |
 | The heart of the Resistance | 32.00% | ~84 |
 | Trap disarmed | 31.00% | ~82 |

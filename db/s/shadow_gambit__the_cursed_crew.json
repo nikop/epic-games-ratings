@@ -4,7 +4,7 @@
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewPlayers": 85,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 474,
+  "EOS_Progressed": 476,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 431,
+  "EOS_NewPlayers": 432,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -881,6 +881,11 @@
       "Time": "2023-08-24T12:04:06.6369117+00:00",
       "NumProgressed": 474,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-24T13:08:47.6704771+00:00",
+      "NumProgressed": 476,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -893,7 +898,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -901,7 +906,7 @@
       "Name": "A New Journey",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "_03_FinishAct1",
@@ -909,7 +914,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -917,7 +922,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "_05_FinishAct2",
@@ -933,7 +938,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "_07_FinishAct3",
@@ -957,7 +962,7 @@
       "Name": "Powder Monkey",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "_10_Completion_30",
@@ -1003,17 +1008,17 @@
       "ID": "_15_Completion_80",
       "SetID": "8a1io5d",
       "Name": "Marauder",
-      "Percentage": 0.6,
+      "Percentage": 0.8,
       "XP": 125,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "_16_UnlockCore8Characters",
       "SetID": "8a1io5d",
       "Name": "Pirates Assemble!",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 43
+      "UsersEstimate": 48
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -1021,7 +1026,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -1037,7 +1042,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -1100,14 +1105,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 474,
+      "Progressed": 476,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-24T12:04:06.6369111+00:00",
+  "LastChanged_Achievements": "2023-08-24T13:08:47.6704762+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:01.7621403+00:00",
-  "LastUpdate_Ratings": "2023-08-24T12:00:06.2146778+00:00",
-  "LastUpdate_Achievements": "2023-08-24T12:04:06.6369362+00:00"
+  "LastUpdate_Ratings": "2023-08-24T13:04:25.2326279+00:00",
+  "LastUpdate_Achievements": "2023-08-24T13:08:47.6705166+00:00"
 }

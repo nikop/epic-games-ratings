@@ -4,7 +4,7 @@
   "ProductSlug": "12-orbits-c48266",
   "Ranking_EOS_Progress": 434,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-03-18T09:00:00+00:00",
@@ -327,8 +327,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.7236131+00:00",
   "FirstSeenAchievements": "2023-06-14T13:12:06.2445404+00:00",
   "LastChanged": "2023-03-31T05:58:07.7236132+00:00",
-  "LastChanged_Achievements": "2023-08-24T12:05:32.9224153+00:00",
+  "LastChanged_Achievements": "2023-08-24T13:10:03.1310974+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:27.2078762+00:00",
-  "LastUpdate_Ratings": "2023-08-24T11:57:38.1963937+00:00",
-  "LastUpdate_Achievements": "2023-08-24T12:05:32.9224335+00:00"
+  "LastUpdate_Ratings": "2023-08-24T13:02:02.2824411+00:00",
+  "LastUpdate_Achievements": "2023-08-24T13:10:03.1311164+00:00"
 }

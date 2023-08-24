@@ -71,9 +71,9 @@ Rating: 4.05 (Ranked 925)
 | Training makes a Pro player | 0.90% | ~17 |
 | Enhanced War Machines | 0.70% | ~13 |
 | Tree of Life | 0.70% | ~13 |
+| Enchanting skill x5 | 0.60% | ~11 |
 | Angel Power | 0.50% | ~9 |
 | Beast War Machines | 0.50% | ~9 |
-| Enchanting skill x5 | 0.50% | ~9 |
 | Conqueror | 0.40% | ~7 |
 | Pokerface | 0.40% | ~7 |
 | Ultimate War Machines | 0.40% | ~7 |

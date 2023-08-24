@@ -8891,9 +8891,9 @@
       "ID": "ACH21",
       "SetID": "9llo822",
       "Name": "Legal Counsel",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4392
+      "UsersEstimate": 4489
     },
     {
       "ID": "ACH22",
@@ -9012,8 +9012,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-08-19T22:00:52.464405+00:00",
-  "LastChanged_Achievements": "2023-08-24T12:06:18.7363866+00:00",
+  "LastChanged_Achievements": "2023-08-24T13:10:48.5377175+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:19.3350346+00:00",
-  "LastUpdate_Ratings": "2023-08-24T12:00:18.6467578+00:00",
-  "LastUpdate_Achievements": "2023-08-24T12:06:18.7364541+00:00"
+  "LastUpdate_Ratings": "2023-08-24T13:04:37.4909696+00:00",
+  "LastUpdate_Achievements": "2023-08-24T13:10:48.5378464+00:00"
 }

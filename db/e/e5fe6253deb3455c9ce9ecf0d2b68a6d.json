@@ -621,17 +621,17 @@
       "ID": "Speed",
       "SetID": "cjfnji1",
       "Name": "Speed",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Tangentially",
       "SetID": "cjfnji1",
       "Name": "Tangentially",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "USSR",
@@ -660,8 +660,8 @@
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2023-08-24T12:04:04.8853596+00:00",
+  "LastChanged_Achievements": "2023-08-24T13:08:45.8884556+00:00",
   "LastUpdate_AppInfo": "2023-08-21T18:57:03.4336554+00:00",
-  "LastUpdate_Ratings": "2023-08-24T11:58:30.7215217+00:00",
-  "LastUpdate_Achievements": "2023-08-24T12:04:04.8853734+00:00"
+  "LastUpdate_Ratings": "2023-08-24T13:02:55.2656629+00:00",
+  "LastUpdate_Achievements": "2023-08-24T13:08:45.888471+00:00"
 }

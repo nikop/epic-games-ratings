@@ -708,9 +708,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 216527,
+  "EOS_Progressed": 216545,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3009,
+  "EOS_NewPlayers": 3004,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8118,6 +8118,11 @@
       "Time": "2023-08-24T12:02:23.6417874+00:00",
       "NumProgressed": 216527,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-24T13:07:23.5309879+00:00",
+      "NumProgressed": 216545,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -8223,9 +8228,9 @@
       "ID": "Chapter7",
       "SetID": "50chcgj",
       "Name": "Urik\u0027s Depths",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1516
     },
     {
       "ID": "Chapter8",
@@ -8577,7 +8582,7 @@
       "Name": "Sowwy!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 47636
+      "UsersEstimate": 47640
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -8832,21 +8837,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 216527,
+      "Progressed": 216545,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 216527,
+      "Progressed": 216545,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-24T12:02:06.2470989+00:00",
-  "LastChanged_Achievements": "2023-08-24T12:02:23.6417862+00:00",
+  "LastChanged_Achievements": "2023-08-24T13:07:23.5309871+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:36.4163589+00:00",
-  "LastUpdate_Ratings": "2023-08-24T12:02:06.2470995+00:00",
-  "LastUpdate_Achievements": "2023-08-24T12:02:23.6419349+00:00"
+  "LastUpdate_Ratings": "2023-08-24T13:07:04.8914084+00:00",
+  "LastUpdate_Achievements": "2023-08-24T13:07:23.5312045+00:00"
 }

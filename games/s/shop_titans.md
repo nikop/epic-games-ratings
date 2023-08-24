@@ -85,6 +85,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Constellated | 0.20% | ~270 |
 | Thirst for Knowledge | 0.20% | ~270 |
 | Booty by the Boatload | 0.20% | ~270 |
+| The Free Encyclopedia | 0.20% | ~270 |
 | Fillin' the Bin | 0.20% | ~270 |
 | Industrial Evolution | 0.20% | ~270 |
 | Omae wa Mou Shindeiru | 0.20% | ~270 |
@@ -104,7 +105,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Economy of Scarce | 0.20% | ~270 |
 | King's Blade | 0.20% | ~270 |
 | Bane of Legends | 0.10% | ~135 |
-| The Free Encyclopedia | 0.10% | ~135 |
 | Ultimate Collector | 0.10% | ~135 |
 | Oligarch Monarch | 0.10% | ~135 |
 | Unleashed Potential | 0.10% | ~135 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~135 |
 | Cash Only Please | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,007 (Ranked 66)  
+Progressed: 135,009 (Ranked 66)  
 Completed: 138 (0.10%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,7 +245,7 @@ Completed: 138 (0.10%) (Ranked 210)
 | 2023-08-21 | 134,907 | 134 |
 | 2023-08-22 | 134,956 | 136 |
 | 2023-08-23 | 134,997 | 138 |
-| 2023-08-24 | 135,007 | 138 |
+| 2023-08-24 | 135,009 | 138 |
 ## Awards
 Max (Great for Beginners): 4,709  (Ranked 71)  
 Sum: 27,131 (Ranked 47)  

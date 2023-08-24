@@ -1,7 +1,7 @@
 # Call of the Wild: The Angler™
 [Store](https://store.epicgames.com/en-US/p/call-of-the-wild-the-angler)  
 [View Rawdata](../../db/c/call_of_the_wild__the_angler™.json)  
-Rating: 4.16 (Ranked 885)  
+Rating: 4.16 (Ranked 884)  
 Number of Ratings: 281  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -30,7 +30,7 @@ Number of Ratings: 281  (23.09.2022)
 | Gonna Need a Bigger Boat | 3.00% | ~149 |
 | Rod and Troll | 2.00% | ~87 |
 | Taylor Made | 1.00% | ~50 |
-| No Fin left to give | 0.70% | ~35 |
+| No Fin left to give | 0.80% | ~40 |
 | Head for Heights | 0.60% | ~30 |
 | Lake Me up Before You Go Go | 0.50% | ~25 |
 | Fish upon a Star | 0.50% | ~22 |

@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7850,
+  "EOS_Progressed": 7851,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4413,6 +4413,11 @@
       "Time": "2023-08-24T10:04:52.2931583+00:00",
       "NumProgressed": 7850,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-24T13:09:00.9693588+00:00",
+      "NumProgressed": 7851,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 28,
@@ -4632,7 +4637,7 @@
       "Name": "Sewer Objectives Complete",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "tutorialSuccess",
@@ -4647,7 +4652,7 @@
     {
       "ID": "10d14j0",
       "IsBase": true,
-      "Progressed": 7850,
+      "Progressed": 7851,
       "Completed": 0
     }
   ],
@@ -4655,8 +4660,8 @@
   "FirstSeenRating": "2023-04-05T14:58:37.7953176+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.1467348+00:00",
   "LastChanged": "2023-04-05T14:58:37.7953178+00:00",
-  "LastChanged_Achievements": "2023-08-24T12:04:20.4305553+00:00",
+  "LastChanged_Achievements": "2023-08-24T13:09:00.9693579+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:58.8026931+00:00",
-  "LastUpdate_Ratings": "2023-08-24T12:00:02.7224534+00:00",
-  "LastUpdate_Achievements": "2023-08-24T12:04:20.430628+00:00"
+  "LastUpdate_Ratings": "2023-08-24T13:04:22.0916672+00:00",
+  "LastUpdate_Achievements": "2023-08-24T13:09:00.9694067+00:00"
 }
