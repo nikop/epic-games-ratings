@@ -42,8 +42,8 @@
 | Soul Slayer | 35.00% | ~378 |
 | All Heart | 35.00% | ~378 |
 | Trick Question! | 35.00% | ~378 |
+| Final Showdown | 35.00% | ~378 |
 | The Downfall | 34.00% | ~367 |
-| Final Showdown | 34.00% | ~367 |
 | Spot of Tea? | 34.00% | ~367 |
 | Going Home | 34.00% | ~367 |
 | Extraordinary! | 33.00% | ~356 |
@@ -56,7 +56,7 @@
 | Bombs Away! | 9.00% | ~97 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,080 (Ranked 198)  
-Completed: 81 (7.50%) (Ranked 36)  
+Completed: 82 (7.59%) (Ranked 36)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -155,7 +155,7 @@ Completed: 81 (7.50%) (Ranked 36)
 | 2023-08-19 | 1,077 | 81 |
 | 2023-08-20 | 1,078 | 81 |
 | 2023-08-23 | 1,079 | 81 |
-| 2023-08-24 | 1,080 | 81 |
+| 2023-08-24 | 1,080 | 82 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

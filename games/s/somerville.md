@@ -5,20 +5,20 @@ Rating: 4.20 (Ranked 859)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| “Occupied!“ | 16.00% | ~259 |
-| Worlds best dad. | 15.00% | ~243 |
-| Resignation Reprise. | 9.00% | ~146 |
-| War of the worlds. | 7.00% | ~113 |
-| Resignation. | 6.00% | ~97 |
-| Admiring the view. | 6.00% | ~97 |
-| Blues Jam. | 4.00% | ~65 |
-| Family First. | 3.00% | ~49 |
-| Understanding. | 3.00% | ~49 |
-| “Here boy…" | 2.00% | ~32 |
-| First contact. | 0.60% | ~10 |
+| “Occupied!“ | 0.20% | ~3 |
+| Worlds best dad | 0.20% | ~3 |
+| Blues Jam | 0.10% | ~2 |
+| “Here boy…“ | 0.10% | ~2 |
+| Admiring the view | 0.10% | ~2 |
+| Family First | 0.00% | ~0 |
+| First contact | 0.00% | ~0 |
+| Resignation | 0.00% | ~0 |
+| Resignation Reprise | 0.00% | ~0 |
+| Understanding | 0.00% | ~0 |
+| War of the worlds | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,621 (Ranked 179)  
-Completed: 27 (1.67%) (Ranked 100)  
+Progressed: 1,622 (Ranked 179)  
+Completed: 27 (1.66%) (Ranked 100)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -81,6 +81,7 @@ Completed: 27 (1.67%) (Ranked 100)
 | 2023-08-19 | 1,619 | 27 |
 | 2023-08-21 | 1,620 | 27 |
 | 2023-08-23 | 1,621 | 27 |
+| 2023-08-24 | 1,622 | 27 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

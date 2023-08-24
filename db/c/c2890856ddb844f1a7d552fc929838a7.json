@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 461,
   "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -253,9 +253,9 @@
       "ID": "AC23",
       "SetID": "l4abp0",
       "Name": "Hide and Seek",
-      "Percentage": 29,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "AC24",
@@ -285,9 +285,9 @@
       "ID": "AC27",
       "SetID": "l4abp0",
       "Name": "Twisted is the Path of the Miracle",
-      "Percentage": 29,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "AC28",
@@ -405,17 +405,17 @@
       "ID": "AC42",
       "SetID": "l4abp0",
       "Name": "Two Old Ones Eating Soup",
-      "Percentage": 14,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "AC43",
       "SetID": "l4abp0",
       "Name": "The Finest Craftmanship",
-      "Percentage": 14,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "AC44",
@@ -444,8 +444,8 @@
   ],
   "FirstSeen": "2023-07-26T07:57:19.1818171+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
-  "LastChanged_Achievements": "2023-08-24T08:04:50.8484883+00:00",
+  "LastChanged_Achievements": "2023-08-24T09:04:54.797065+00:00",
   "LastUpdate_AppInfo": "2023-08-22T18:57:00.5189311+00:00",
-  "LastUpdate_Ratings": "2023-08-24T07:58:53.055018+00:00",
-  "LastUpdate_Achievements": "2023-08-24T08:04:50.8485287+00:00"
+  "LastUpdate_Ratings": "2023-08-24T08:58:38.1172633+00:00",
+  "LastUpdate_Achievements": "2023-08-24T09:04:54.7971024+00:00"
 }

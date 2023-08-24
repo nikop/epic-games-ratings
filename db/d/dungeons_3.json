@@ -2518,9 +2518,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 28270,
+  "EOS_Progressed": 28271,
   "EOS_Completed": 234,
-  "EOS_NewPlayers": 737,
+  "EOS_NewPlayers": 735,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.83,
   "EosHistory": [
@@ -16098,6 +16098,11 @@
       "Time": "2023-08-24T08:05:13.6922476+00:00",
       "NumProgressed": 28270,
       "NumCompleted": 234
+    },
+    {
+      "Time": "2023-08-24T09:05:07.9522031+00:00",
+      "NumProgressed": 28271,
+      "NumCompleted": 234
     }
   ],
   "TotalAchievements": 60,
@@ -16117,7 +16122,7 @@
       "Name": "No one has to die today!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 13004
+      "UsersEstimate": 13005
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -16149,7 +16154,7 @@
       "Name": "At the foot of Mount Destiny",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 6219
+      "UsersEstimate": 6220
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_1",
@@ -16157,7 +16162,7 @@
       "Name": "This is fun, I\u2019m going to keep doing this!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 3392
+      "UsersEstimate": 3393
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_2",
@@ -16221,7 +16226,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 13852
+      "UsersEstimate": 13853
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -16261,7 +16266,7 @@
       "Name": "Then let them eat cake!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 3392
+      "UsersEstimate": 3393
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_Completed",
@@ -16317,7 +16322,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 12156
+      "UsersEstimate": 12157
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -16333,7 +16338,7 @@
       "Name": "Hands off the Dungeonheart!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 10177
+      "UsersEstimate": 10178
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_Completed",
@@ -16437,7 +16442,7 @@
       "Name": "For a handfull of Catapults",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 8198
+      "UsersEstimate": 8199
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_1",
@@ -16445,7 +16450,7 @@
       "Name": "Can\u2019t stand the sight of Dark Elf blood",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 4240
+      "UsersEstimate": 4241
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_2",
@@ -16501,7 +16506,7 @@
       "Name": "Shadow hunter",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 8198
+      "UsersEstimate": 8199
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_Completed",
@@ -16509,7 +16514,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 19506
+      "UsersEstimate": 19507
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -16588,15 +16593,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 28270,
+      "Progressed": 28271,
       "Completed": 234
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-08-24T02:57:15.1356298+00:00",
-  "LastChanged_Achievements": "2023-08-24T08:05:13.6922472+00:00",
+  "LastChanged_Achievements": "2023-08-24T09:05:07.9522026+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:53.4330932+00:00",
-  "LastUpdate_Ratings": "2023-08-24T07:57:39.6285609+00:00",
-  "LastUpdate_Achievements": "2023-08-24T08:05:13.6923809+00:00"
+  "LastUpdate_Ratings": "2023-08-24T08:57:18.0608508+00:00",
+  "LastUpdate_Achievements": "2023-08-24T09:05:07.9523406+00:00"
 }

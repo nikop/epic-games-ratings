@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 100,
-  "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-11-15T00:00:00+00:00",
     "PcReleaseDate": "2022-11-15T00:00:00+00:00",
@@ -84,11 +84,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1621,
+  "EOS_Progressed": 1622,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.67,
+  "EOS_Completed_Percentage": 1.66,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:11.8533699+00:00",
@@ -514,6 +514,11 @@
       "Time": "2023-08-23T16:07:30.0666726+00:00",
       "NumProgressed": 1621,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-08-24T09:06:47.6960774+00:00",
+      "NumProgressed": 1622,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 11,
@@ -522,97 +527,97 @@
     {
       "ID": "SomervilleBluesJam",
       "SetID": "3mk3nll",
-      "Name": "Blues Jam.",
-      "Percentage": 4,
+      "Name": "Blues Jam",
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 65
+      "UsersEstimate": 2
     },
     {
       "ID": "SomervilleFamilyFirst",
       "SetID": "3mk3nll",
-      "Name": "Family First.",
-      "Percentage": 3,
+      "Name": "Family First",
+      "Percentage": 0,
       "XP": 100,
-      "UsersEstimate": 49
+      "UsersEstimate": 0
     },
     {
       "ID": "SomervilleFraternizingWithEnemy",
       "SetID": "3mk3nll",
-      "Name": "First contact.",
-      "Percentage": 0.6,
+      "Name": "First contact",
+      "Percentage": 0,
       "XP": 200,
-      "UsersEstimate": 10
+      "UsersEstimate": 0
     },
     {
       "ID": "SomervilleHereBoy",
       "SetID": "3mk3nll",
-      "Name": "\u201CHere boy\u2026\u0022",
-      "Percentage": 2,
+      "Name": "\u201CHere boy\u2026\u201C",
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 2
     },
     {
       "ID": "SomervilleResignation",
       "SetID": "3mk3nll",
-      "Name": "Resignation.",
-      "Percentage": 6,
+      "Name": "Resignation",
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": 97
+      "UsersEstimate": 0
     },
     {
       "ID": "SomervilleResignationReprise",
       "SetID": "3mk3nll",
-      "Name": "Resignation Reprise.",
-      "Percentage": 9,
+      "Name": "Resignation Reprise",
+      "Percentage": 0,
       "XP": 100,
-      "UsersEstimate": 146
+      "UsersEstimate": 0
     },
     {
       "ID": "SomervilleStuckOnTheJohn",
       "SetID": "3mk3nll",
       "Name": "\u201COccupied!\u201C",
-      "Percentage": 16,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 259
+      "UsersEstimate": 3
     },
     {
       "ID": "SomervilleUnderstanding",
       "SetID": "3mk3nll",
-      "Name": "Understanding.",
-      "Percentage": 3,
+      "Name": "Understanding",
+      "Percentage": 0,
       "XP": 200,
-      "UsersEstimate": 49
+      "UsersEstimate": 0
     },
     {
       "ID": "SomervilleWarOfTheWorlds",
       "SetID": "3mk3nll",
-      "Name": "War of the worlds.",
-      "Percentage": 7,
+      "Name": "War of the worlds",
+      "Percentage": 0,
       "XP": 100,
-      "UsersEstimate": 113
+      "UsersEstimate": 0
     },
     {
       "ID": "SomervilleWearyTraveller",
       "SetID": "3mk3nll",
-      "Name": "Admiring the view.",
-      "Percentage": 6,
+      "Name": "Admiring the view",
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 97
+      "UsersEstimate": 2
     },
     {
       "ID": "SomervilleWorldsBestDad",
       "SetID": "3mk3nll",
-      "Name": "Worlds best dad.",
-      "Percentage": 15,
+      "Name": "Worlds best dad",
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 243
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
     {
       "ID": "3mk3nll",
       "IsBase": true,
-      "Progressed": 1621,
+      "Progressed": 1622,
       "Completed": 27
     }
   ],
@@ -620,8 +625,8 @@
   "FirstSeenRating": "2022-11-25T17:58:18.0029626+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.8533708+00:00",
   "LastChanged": "2023-03-31T05:58:16.104552+00:00",
-  "LastChanged_Achievements": "2023-08-24T08:06:47.9350456+00:00",
+  "LastChanged_Achievements": "2023-08-24T09:06:47.6960768+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:45.419792+00:00",
-  "LastUpdate_Ratings": "2023-08-24T08:00:08.8699992+00:00",
-  "LastUpdate_Achievements": "2023-08-24T08:06:47.9350569+00:00"
+  "LastUpdate_Ratings": "2023-08-24T08:59:54.0159601+00:00",
+  "LastUpdate_Achievements": "2023-08-24T09:06:47.6960904+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 36,
-  "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
     "PcReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -28,10 +28,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 1080,
-  "EOS_Completed": 81,
+  "EOS_Completed": 82,
   "EOS_NewPlayers": 4,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.5,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 7.59,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -2827,6 +2827,11 @@
       "Time": "2023-08-24T01:42:59.3317017+00:00",
       "NumProgressed": 1080,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2023-08-24T09:04:02.6025738+00:00",
+      "NumProgressed": 1080,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 50,
@@ -3180,9 +3185,9 @@
       "ID": "49",
       "SetID": "d0g98p",
       "Name": "Final Showdown",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 367
+      "UsersEstimate": 378
     },
     {
       "ID": "5",
@@ -3238,15 +3243,15 @@
       "ID": "d0g98p",
       "IsBase": true,
       "Progressed": 1080,
-      "Completed": 81
+      "Completed": 82
     }
   ],
   "FirstSeen": "2023-05-04T05:57:24.2490249+00:00",
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-08-24T08:03:59.4331925+00:00",
+  "LastChanged_Achievements": "2023-08-24T09:04:02.602573+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:54.1849843+00:00",
-  "LastUpdate_Ratings": "2023-08-24T07:59:45.1290446+00:00",
-  "LastUpdate_Achievements": "2023-08-24T08:03:59.4332514+00:00"
+  "LastUpdate_Ratings": "2023-08-24T08:59:28.1041359+00:00",
+  "LastUpdate_Achievements": "2023-08-24T09:04:02.602633+00:00"
 }

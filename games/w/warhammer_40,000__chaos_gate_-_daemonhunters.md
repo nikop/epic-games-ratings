@@ -47,6 +47,7 @@ Number of Ratings: 371  (23.09.2022)
 | Exercise in Restraint | 0.20% | ~6 |
 | True Mastery | 0.20% | ~6 |
 | Reign of Confusion | 0.20% | ~6 |
+| Abomination | 0.20% | ~6 |
 | Suffer Not the Mutant | 0.20% | ~6 |
 | Arsenal of Destruction | 0.10% | ~3 |
 | The Flesh is Weak | 0.10% | ~3 |
@@ -62,7 +63,6 @@ Number of Ratings: 371  (23.09.2022)
 | Phalanx | 0.10% | ~3 |
 | Firing Squad | 0.10% | ~3 |
 | Strategic Command | 0.10% | ~3 |
-| Abomination | 0.10% | ~3 |
 | Killing Rampage | 0.10% | ~3 |
 | Deadshot | 0.10% | ~3 |
 | Terminal Meltdown | 0.10% | ~3 |

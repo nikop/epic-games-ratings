@@ -4,8 +4,8 @@
   "ProductSlug": "montamer-3d4dfc",
   "Ranking_EOS_Progress": 558,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 351,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 349,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-19T08:58:11.6286613+00:00",
-  "LastUpdate_Ratings": "2023-08-24T07:58:39.3589411+00:00",
-  "LastUpdate_Achievements": "2023-08-24T08:05:26.9112362+00:00"
+  "LastUpdate_Ratings": "2023-08-24T08:58:24.7049496+00:00",
+  "LastUpdate_Achievements": "2023-08-24T09:05:21.161669+00:00"
 }

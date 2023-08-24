@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 441,
   "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 279,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-07-20T15:00:00+00:00",
     "PcReleaseDate": "2022-05-06T16:00:00+00:00",
@@ -219,9 +219,9 @@
       "ID": "22",
       "SetID": "7095412",
       "Name": "Bronze Rank",
-      "Percentage": 15,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "23",
@@ -371,9 +371,9 @@
       "ID": "4",
       "SetID": "7095412",
       "Name": "Hunter",
-      "Percentage": 23,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "40",
@@ -411,9 +411,9 @@
       "ID": "7",
       "SetID": "7095412",
       "Name": "Quest completed",
-      "Percentage": 23,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "8",
@@ -441,8 +441,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-30T11:02:07.8457996+00:00",
-  "LastChanged_Achievements": "2023-08-24T08:06:36.2936492+00:00",
+  "LastChanged_Achievements": "2023-08-24T09:06:31.3060247+00:00",
   "LastUpdate_AppInfo": "2023-08-18T14:57:11.5210562+00:00",
-  "LastUpdate_Ratings": "2023-08-24T07:59:12.3931074+00:00",
-  "LastUpdate_Achievements": "2023-08-24T08:06:36.2936826+00:00"
+  "LastUpdate_Ratings": "2023-08-24T08:58:54.8059117+00:00",
+  "LastUpdate_Achievements": "2023-08-24T09:06:31.3060587+00:00"
 }
