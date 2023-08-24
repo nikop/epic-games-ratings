@@ -39,8 +39,8 @@
 | 37 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,876 | 4.61 | 366 |
 | 38 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,797 | 4.78 | 100 |
 | 39 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 8,876 | 4.58 | 427 |
-| 40 | [Control](games/c/control.md) | 8,459 | 4.60 | 392 |
-| 41 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 8,370 | 4.74 | 146 |
+| 40 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 8,479 | 4.74 | 146 |
+| 41 | [Control](games/c/control.md) | 8,459 | 4.60 | 392 |
 | 42 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 8,004 | 4.89 | 13 |
 | 43 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 7,847 | 4.48 | 595 |
 | 44 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,786 | 4.85 | 42 |
@@ -59,7 +59,7 @@
 | 57 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 5,975 | 4.79 | 86 |
 | 58 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,962 | 4.64 | 313 |
 | 59 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,843 | 4.66 | 275 |
-| 60 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 5,760 | 4.68 | 238 |
+| 60 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 5,772 | 4.68 | 238 |
 | 61 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 5,749 | 4.75 | 136 |
 | 62 | [Dead Island 2](games/d/dead_island_2.md) | 5,743 | 4.54 | 501 |
 | 63 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,734 | 4.82 | 65 |
@@ -92,7 +92,7 @@
 | 90 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,310 | 4.76 | 119 |
 | 91 | [Hades](games/h/hades.md) | 3,231 | 4.92 | 3 |
 | 92 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3,223 | 3.98 | 941 |
-| 93 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,216 | 4.57 | 451 |
+| 93 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,220 | 4.57 | 451 |
 | 94 | [Trackmania](games/t/trackmania.md) | 3,172 | 4.67 | 256 |
 | 95 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 2,770 | 4.82 | 65 |
 | 96 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,678 | 4.51 | 543 |
@@ -102,7 +102,7 @@
 | 100 | [Gotham Knights](games/g/gotham_knights.md) | 2,515 | 4.18 | 874 |
 | 101 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,501 | 4.10 | 909 |
 | 102 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,453 | 4.79 | 86 |
-| 103 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2,393 | 4.48 | 595 |
+| 103 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2,400 | 4.48 | 595 |
 | 104 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,382 | 4.78 | 100 |
 | 105 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,244 | 4.67 | 256 |
 | 106 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,208 | 4.63 | 329 |
@@ -309,7 +309,7 @@
 | 307 | [Atomicrops](games/a/atomicrops.md) | 137 | 4.88 | 19 |
 | 308 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 135 | 4.39 | 712 |
 | 309 | [while True: learn()](games/w/while_true__learn().md) | 134 | 4.51 | 543 |
-| 310 | [Timberborn](games/t/timberborn.md) | 132 | 4.72 | 171 |
+| 310 | [Timberborn](games/t/timberborn.md) | 133 | 4.72 | 171 |
 | 311 | [Alien: Isolation](games/a/alien__isolation.md) | 130 | 4.61 | 366 |
 | 312 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 126 | 4.29 | 799 |
 | 313 | [Sonic Origins](games/s/sonic_origins.md) | 125 | 4.58 | 427 |
@@ -478,18 +478,18 @@
 | 474 | [Chimeraland](games/c/chimeraland.md) | 26 | 3.93 | 951 |
 | 474 | [DOOM II](games/d/doom_ii.md) | 26 | 4.69 | 216 |
 | 474 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 26 | 4.59 | 413 |
+| 474 | [Forspoken](games/f/forspoken.md) | 26 | 4.14 | 900 |
 | 474 | [God's Trigger](games/g/god's_trigger.md) | 26 | 4.14 | 900 |
 | 474 | [Spirit of the North](games/s/spirit_of_the_north.md) | 26 | 4.36 | 742 |
 | 474 | [Warpips](games/w/warpips.md) | 26 | 4.41 | 686 |
-| 482 | [Rayman Origins](games/r/rayman_origins.md) | 25 | 4.84 | 49 |
-| 483 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 24 | 4.53 | 514 |
-| 483 | [ELEX](games/e/elex.md) | 24 | 4.44 | 649 |
-| 483 | [Forspoken](games/f/forspoken.md) | 24 | 4.14 | 900 |
-| 483 | [RUINER](games/r/ruiner.md) | 24 | 4.53 | 514 |
-| 483 | [Solar Ash](games/s/solar_ash.md) | 24 | 4.65 | 299 |
-| 483 | [Star Atlas](games/s/star_atlas.md) | 24 | 4.84 | 49 |
-| 483 | [Weird West: Definitive Edition](games/w/weird_west.md) | 24 | 4.44 | 649 |
-| 483 | [Yooka-Laylee](games/y/yooka-laylee.md) | 24 | 4.24 | 836 |
+| 483 | [Rayman Origins](games/r/rayman_origins.md) | 25 | 4.84 | 49 |
+| 484 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 24 | 4.53 | 514 |
+| 484 | [ELEX](games/e/elex.md) | 24 | 4.44 | 649 |
+| 484 | [RUINER](games/r/ruiner.md) | 24 | 4.53 | 514 |
+| 484 | [Solar Ash](games/s/solar_ash.md) | 24 | 4.65 | 299 |
+| 484 | [Star Atlas](games/s/star_atlas.md) | 24 | 4.84 | 49 |
+| 484 | [Weird West: Definitive Edition](games/w/weird_west.md) | 24 | 4.44 | 649 |
+| 484 | [Yooka-Laylee](games/y/yooka-laylee.md) | 24 | 4.24 | 836 |
 | 491 | [Fez](games/f/fez.md) | 23 | 4.72 | 171 |
 | 491 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 23 | 4.50 | 559 |
 | 493 | [Black Book](games/b/black_book.md) | 22 | 4.78 | 100 |
