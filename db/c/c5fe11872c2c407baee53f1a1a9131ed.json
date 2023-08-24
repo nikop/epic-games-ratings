@@ -4,7 +4,7 @@
   "ProductSlug": "spingun-843f78",
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-06-02T04:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 133,
+  "EOS_Progressed": 134,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -614,6 +614,11 @@
       "Time": "2023-08-23T17:08:09.4735722+00:00",
       "NumProgressed": 133,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-24T01:46:16.8013095+00:00",
+      "NumProgressed": 134,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -623,7 +628,7 @@
       "ID": "ach_beamer_zone",
       "SetID": "5a4225j",
       "Name": "Won Beamer Zone",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -631,9 +636,9 @@
       "ID": "ach_boss2_zone",
       "SetID": "5a4225j",
       "Name": "Won Super Boss",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_boss3_zone",
@@ -663,9 +668,9 @@
       "ID": "ach_bp_30",
       "SetID": "5a4225j",
       "Name": "Ballpit 30 Seconds",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_chainer_zone",
@@ -679,17 +684,17 @@
       "ID": "ach_customized",
       "SetID": "5a4225j",
       "Name": "Customize Ship",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "ach_endless_120",
       "SetID": "5a4225j",
       "Name": "Endless 2 Minutes",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_endless_30",
@@ -697,7 +702,7 @@
       "Name": "Endless 30 Seconds",
       "Percentage": 71,
       "XP": 35,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ach_endless_60",
@@ -705,7 +710,7 @@
       "Name": "Endless 60 Seconds",
       "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ach_endless_c_60",
@@ -727,7 +732,7 @@
       "ID": "ach_endless_winter",
       "SetID": "5a4225j",
       "Name": "Endless Winter",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -759,7 +764,7 @@
       "ID": "ach_lotsokills",
       "SetID": "5a4225j",
       "Name": "Lots o\u0027 Kills",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -783,9 +788,9 @@
       "ID": "ach_practiceperfect",
       "SetID": "5a4225j",
       "Name": "Practice Makes Perfect",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ach_pulser_zone",
@@ -799,9 +804,9 @@
       "ID": "ach_sploder_zone",
       "SetID": "5a4225j",
       "Name": "Won Sploder Zone",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_spreader_zone",
@@ -832,13 +837,13 @@
     {
       "ID": "5a4225j",
       "IsBase": true,
-      "Progressed": 133,
+      "Progressed": 134,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-06-02T21:05:45.273905+00:00",
-  "LastChanged_Achievements": "2023-08-24T00:07:48.7404286+00:00",
+  "LastChanged_Achievements": "2023-08-24T01:46:16.801309+00:00",
   "LastUpdate_AppInfo": "2023-08-19T03:57:03.501559+00:00",
-  "LastUpdate_Ratings": "2023-08-23T23:59:40.381633+00:00",
-  "LastUpdate_Achievements": "2023-08-24T00:07:48.7404483+00:00"
+  "LastUpdate_Ratings": "2023-08-24T01:38:13.5966925+00:00",
+  "LastUpdate_Achievements": "2023-08-24T01:46:16.8013356+00:00"
 }

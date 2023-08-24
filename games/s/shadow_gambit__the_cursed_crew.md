@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 73.00% | ~339 |
-| The Adventure Begins | 53.00% | ~246 |
-| Swabbie | 36.00% | ~167 |
-| With Great Power… | 31.00% | ~144 |
-| This Belongs in a Museum | 25.00% | ~116 |
-| The Gambit Has Begun | 20.00% | ~93 |
-| Powder Monkey | 17.00% | ~79 |
-| Somewhere Deep in the Lost Caribbean | 14.00% | ~65 |
-| Mirror Mirror on the Wall | 13.00% | ~60 |
-| Fishy Fish | 12.00% | ~56 |
-| Persistent Parasite | 10.00% | ~46 |
+| A New Journey | 73.00% | ~342 |
+| The Adventure Begins | 52.00% | ~243 |
+| Swabbie | 35.00% | ~164 |
+| With Great Power… | 31.00% | ~145 |
+| This Belongs in a Museum | 25.00% | ~117 |
+| The Gambit Has Begun | 20.00% | ~94 |
+| Powder Monkey | 18.00% | ~84 |
+| Somewhere Deep in the Lost Caribbean | 14.00% | ~66 |
+| Mirror Mirror on the Wall | 13.00% | ~61 |
+| Fishy Fish | 13.00% | ~61 |
+| Persistent Parasite | 10.00% | ~47 |
 | Buccaneer | 9.00% | ~42 |
 | Pirates Assemble! | 9.00% | ~42 |
 | Seadog | 5.00% | ~23 |
 | Jaded Judge | 5.00% | ~23 |
 | Rustic Recipe | 5.00% | ~23 |
-| All Good Things | 3.00% | ~14 |
+| All Good Things | 4.00% | ~19 |
 | Privateer | 3.00% | ~14 |
 | Corsair | 3.00% | ~14 |
 | Tobacco Travesty | 3.00% | ~14 |
@@ -31,7 +31,7 @@
 | Marauder | 0.60% | ~3 |
 | Welcome Back Jester | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 465 (Ranked 234)  
+Progressed: 468 (Ranked 234)  
 Completed: 0 (0.00%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -50,3 +50,4 @@ Completed: 0 (0.00%) (Ranked 262)
 | 2023-08-21 | 415 | 0 |
 | 2023-08-22 | 442 | 0 |
 | 2023-08-23 | 465 | 0 |
+| 2023-08-24 | 468 | 0 |

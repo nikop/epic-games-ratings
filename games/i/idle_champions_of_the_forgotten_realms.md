@@ -16,6 +16,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Ring of Regeneration | 0.30% | ~673 |
 | Seeking Allies | 0.30% | ~673 |
 | Are Ya Chicken? | 0.30% | ~673 |
+| The Chaotic Hunt for The Last Breath | 0.30% | ~572 |
 | Maddening | 0.20% | ~449 |
 | Tall Tales | 0.20% | ~381 |
 | The Witchlight Carnival | 0.20% | ~381 |
@@ -46,6 +47,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Trollskull Manor | 0.20% | ~449 |
 | Attack on the Manor | 0.20% | ~449 |
 | The Crumbling Temple | 0.20% | ~449 |
+| The Death Curse | 0.20% | ~449 |
 | Flies on the Wall | 0.20% | ~449 |
 | Useless Allies | 0.20% | ~449 |
 | Mad Cow Disease | 0.20% | ~449 |
@@ -63,7 +65,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pure Energy | 0.20% | ~449 |
 | The Templar's Camp | 0.20% | ~449 |
 | Rocky Reception | 0.20% | ~381 |
-| The Chaotic Hunt for The Last Breath | 0.20% | ~381 |
+| Rock and Roll | 0.20% | ~381 |
 | There's a Flying Snake in my Boot! | 0.20% | ~381 |
 | Pros and CONs | 0.10% | ~224 |
 | Upholding the Law | 0.10% | ~224 |
@@ -242,7 +244,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Trepidatious Trio | 0.10% | ~224 |
 | Our Time To Shine | 0.10% | ~224 |
 | Review by the Blackstaff | 0.10% | ~191 |
-| The Death Curse | 0.10% | ~224 |
 | Treasure Hunters | 0.10% | ~224 |
 | The Guardian of Orolunga | 0.10% | ~224 |
 | Think Your Way Out Of It | 0.10% | ~224 |
@@ -515,7 +516,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.10% | ~191 |
 | Bahamut's Army | 0.10% | ~191 |
 | Luigi After Hours | 0.10% | ~191 |
-| Rock and Roll | 0.10% | ~191 |
 | Electric Mayhem | 0.10% | ~191 |
 | Flight of the Kindori Pod | 0.10% | ~191 |
 | 3,720 to 1 | 0.10% | ~191 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~191 |
 | Animated Giff | 0.10% | ~191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,440 (Ranked 53)  
+Progressed: 224,455 (Ranked 53)  
 Completed: 2,210 (0.98%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -649,7 +649,7 @@ Completed: 2,210 (0.98%) (Ranked 121)
 | 2023-08-21 | 223,996 | 2,203 |
 | 2023-08-22 | 224,213 | 2,207 |
 | 2023-08-23 | 224,434 | 2,210 |
-| 2023-08-24 | 224,440 | 2,210 |
+| 2023-08-24 | 224,455 | 2,210 |
 ## Awards
 Max (Diverse Characters): 5,179  (Ranked 68)  
 Sum: 31,183 (Ranked 39)  

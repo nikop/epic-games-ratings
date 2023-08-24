@@ -20,9 +20,9 @@
 | First Kiss | 35.00% | ~33 |
 | Symbiosis | 33.00% | ~31 |
 | A Bigger Band | 31.00% | ~29 |
-| Fuel | 27.00% | ~25 |
-| Alone Together | 25.00% | ~23 |
-| Threatening Nature | 23.00% | ~21 |
+| Fuel | 28.00% | ~26 |
+| Alone Together | 26.00% | ~24 |
+| Threatening Nature | 24.00% | ~22 |
 | TV Dreams | 23.00% | ~21 |
 | Flat Tire | 20.00% | ~19 |
 | Dreamers | 18.00% | ~17 |
@@ -39,14 +39,14 @@
 | Flight of the Bumblebee | 9.00% | ~8 |
 | Chase the Crow | 8.00% | ~7 |
 | Milk and Alcohol | 6.00% | ~6 |
+| Gasoline | 5.00% | ~5 |
+| On the Road Again | 5.00% | ~5 |
+| Under the Bridge | 5.00% | ~5 |
 | As the Crow Flies | 5.00% | ~5 |
-| Gasoline | 4.00% | ~4 |
-| On the Road Again | 4.00% | ~4 |
-| Under the Bridge | 4.00% | ~4 |
-| Unintended | 4.00% | ~4 |
+| Unintended | 5.00% | ~5 |
+| Riders on the Storm | 3.00% | ~3 |
 | Hospital Flowers | 3.00% | ~3 |
 | Voodoo Child | 2.00% | ~2 |
-| Riders on the Storm | 2.00% | ~2 |
 | Under my Wheels | 2.00% | ~2 |
 | The Fight Song | 2.00% | ~2 |
 | All Apologies | 2.00% | ~2 |

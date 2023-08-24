@@ -5,23 +5,23 @@ Rating: 3.94 (Ranked 948)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~53,468 |
-| First One’s Free | 65.00% | ~46,965 |
-| Neophyte Ninja | 50.00% | ~36,127 |
-| Too Old for This | 47.00% | ~33,959 |
-| Case Closed | 35.00% | ~25,289 |
-| Fancy Pants | 35.00% | ~25,289 |
-| King of the Hill | 34.00% | ~24,566 |
+| Downed but Not Outed | 74.00% | ~53,469 |
+| First One’s Free | 65.00% | ~46,966 |
+| Neophyte Ninja | 50.00% | ~36,128 |
+| Too Old for This | 47.00% | ~33,960 |
+| Case Closed | 35.00% | ~25,290 |
+| Fancy Pants | 35.00% | ~25,290 |
+| King of the Hill | 34.00% | ~24,567 |
 | Underworld Initiate | 29.00% | ~20,954 |
-| Roid Ranger | 21.00% | ~15,173 |
+| Roid Ranger | 21.00% | ~15,174 |
 | Off the Rocks | 20.00% | ~14,451 |
-| True Player | 19.00% | ~13,728 |
-| Raider’s Ruin | 17.00% | ~12,283 |
-| Dragonslayer | 17.00% | ~12,283 |
+| True Player | 19.00% | ~13,729 |
+| Raider’s Ruin | 17.00% | ~12,284 |
+| Dragonslayer | 17.00% | ~12,284 |
 | Hidden Sonata | 13.00% | ~9,393 |
 | Rockay Rex | 11.00% | ~7,948 |
-| Track Star | 10.00% | ~7,225 |
-| Freebooter | 10.00% | ~7,225 |
+| Track Star | 10.00% | ~7,226 |
+| Freebooter | 10.00% | ~7,226 |
 | Headhunter | 9.00% | ~6,503 |
 | Ding Dong | 9.00% | ~6,503 |
 | Classy Joint | 9.00% | ~6,503 |
@@ -43,7 +43,7 @@ Rating: 3.94 (Ranked 948)
 | Geek Out | 0.60% | ~434 |
 | Full House | 0.20% | ~145 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,254 (Ranked 78)  
+Progressed: 72,256 (Ranked 78)  
 Completed: 41 (0.06%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,11 +169,11 @@ Completed: 41 (0.06%) (Ranked 224)
 | 2023-08-21 | 72,159 | 41 |
 | 2023-08-22 | 72,196 | 41 |
 | 2023-08-23 | 72,253 | 41 |
-| 2023-08-24 | 72,254 | 41 |
+| 2023-08-24 | 72,256 | 41 |
 ## Awards
 Max (Diverse Characters): 404  (Ranked 215)  
-Sum: 1,926 (Ranked 203)  
-Diff (max vs sum): 12  
+Sum: 1,926 (Ranked 204)  
+Diff (max vs sum): 11  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 404 |

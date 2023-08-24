@@ -4,7 +4,7 @@
   "ProductSlug": "dungeon-drafters-82c40a",
   "Ranking_EOS_Progress": 341,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -496,9 +496,9 @@
       "ID": "MasterOracleQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Riddlesolver",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "MasterOracleQuestlineLast",
@@ -761,8 +761,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-08-24T00:06:49.2428725+00:00",
+  "LastChanged_Achievements": "2023-08-24T01:45:22.0504198+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:45.3405091+00:00",
-  "LastUpdate_Ratings": "2023-08-23T23:59:59.2917912+00:00",
-  "LastUpdate_Achievements": "2023-08-24T00:06:49.2428992+00:00"
+  "LastUpdate_Ratings": "2023-08-24T01:38:29.7107638+00:00",
+  "LastUpdate_Achievements": "2023-08-24T01:45:22.0504537+00:00"
 }

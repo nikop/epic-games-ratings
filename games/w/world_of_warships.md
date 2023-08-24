@@ -1,57 +1,57 @@
 # World of Warships
 [Store](https://store.epicgames.com/en-US/p/world-of-warships)  
 [View Rawdata](../../db/w/world_of_warships.json)  
-Rating: 4.41 (Ranked 685)  
+Rating: 4.41 (Ranked 686)  
 Number of Ratings: 4,733  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 91.00% | ~8,399 |
-| Initial Capital | 85.00% | ~7,846 |
-| Moneybags | 70.00% | ~6,461 |
-| Junior Supply Officer | 70.00% | ~6,461 |
-| Naval Constructor | 55.00% | ~5,076 |
-| Naval Warfare. Arson | 54.00% | ~4,984 |
-| Amateur | 53.00% | ~4,892 |
-| Naval Warfare. Tactics | 52.00% | ~4,800 |
-| Naval Warfare. Ramming | 51.00% | ~4,707 |
-| Naval Warfare. Weaponry Basics | 44.00% | ~4,061 |
-| Business Magnate | 40.00% | ~3,692 |
-| Naval Warfare. Lucky Shot | 37.00% | ~3,415 |
-| Naval Warfare. Flooding | 36.00% | ~3,323 |
-| Supply Officer | 34.00% | ~3,138 |
-| Battle Hero | 33.00% | ~3,046 |
-| Smooth Supply | 33.00% | ~3,046 |
-| Warrior | 30.00% | ~2,769 |
-| Veteran | 21.00% | ~1,938 |
-| Chief Naval Architect | 12.00% | ~1,108 |
-| Legend of the Seas | 11.00% | ~1,015 |
-| Shield | 11.00% | ~1,015 |
-| Important Missions | 9.00% | ~831 |
-| Senior Supply Officer | 7.00% | ~646 |
-| Weather Beaten | 7.00% | ~646 |
-| Guardian | 7.00% | ~646 |
-| "Science of Victory" | 6.00% | ~554 |
-| Bane of the Oceans | 5.00% | ~462 |
-| Special Orders | 5.00% | ~462 |
-| Protector | 5.00% | ~462 |
-| Exterminator | 5.00% | ~462 |
-| American Cruisers | 5.00% | ~462 |
-| Old-Timer | 4.00% | ~369 |
-| Experienced One | 2.00% | ~185 |
-| Secret Instructions | 2.00% | ~185 |
-| Raider | 2.00% | ~185 |
-| "Yamamoto Isoroku" | 2.00% | ~185 |
-| Ravager | 1.00% | ~92 |
-| "Yamamoto Isoroku" | 1.00% | ~92 |
-| "Honorable Service" | 0.90% | ~83 |
-| Hit Hard! Hit Fast! Hit Often! | 0.90% | ~83 |
+| Junior Naval Designer | 91.00% | ~8,449 |
+| Initial Capital | 85.00% | ~7,892 |
+| Moneybags | 70.00% | ~6,500 |
+| Junior Supply Officer | 69.00% | ~6,407 |
+| Naval Constructor | 55.00% | ~5,107 |
+| Naval Warfare. Arson | 54.00% | ~5,014 |
+| Amateur | 53.00% | ~4,921 |
+| Naval Warfare. Tactics | 52.00% | ~4,828 |
+| Naval Warfare. Ramming | 51.00% | ~4,735 |
+| Naval Warfare. Weaponry Basics | 43.00% | ~3,993 |
+| Business Magnate | 40.00% | ~3,714 |
+| Naval Warfare. Lucky Shot | 37.00% | ~3,435 |
+| Naval Warfare. Flooding | 36.00% | ~3,343 |
+| Supply Officer | 34.00% | ~3,157 |
+| Battle Hero | 33.00% | ~3,064 |
+| Smooth Supply | 33.00% | ~3,064 |
+| Warrior | 30.00% | ~2,786 |
+| Veteran | 21.00% | ~1,950 |
+| Chief Naval Architect | 12.00% | ~1,114 |
+| Legend of the Seas | 11.00% | ~1,021 |
+| Shield | 11.00% | ~1,021 |
+| Important Missions | 9.00% | ~836 |
+| Senior Supply Officer | 7.00% | ~650 |
+| Weather Beaten | 7.00% | ~650 |
+| Guardian | 7.00% | ~650 |
+| "Science of Victory" | 6.00% | ~557 |
+| Bane of the Oceans | 5.00% | ~464 |
+| Special Orders | 5.00% | ~464 |
+| Protector | 5.00% | ~464 |
+| Exterminator | 5.00% | ~464 |
+| American Cruisers | 5.00% | ~464 |
+| Old-Timer | 4.00% | ~371 |
+| Experienced One | 2.00% | ~186 |
+| Secret Instructions | 2.00% | ~186 |
+| Raider | 2.00% | ~186 |
+| "Yamamoto Isoroku" | 2.00% | ~186 |
+| Ravager | 1.00% | ~93 |
+| "Yamamoto Isoroku" | 1.00% | ~93 |
+| "Honorable Service" | 0.90% | ~84 |
+| Hit Hard! Hit Fast! Hit Often! | 0.90% | ~84 |
 | "Science of Victory" with Honors | 0.40% | ~37 |
 | "Honorable Service" with Honors | 0.10% | ~9 |
 | "Yamamoto Isoroku" with Honors | 0.00% | ~0 |
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,230 (Ranked 126)  
+Progressed: 9,285 (Ranked 126)  
 Completed: 0 (0.00%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,7 +62,7 @@ Completed: 0 (0.00%) (Ranked 262)
 | 2023-08-21 | 7,637 | 0 |
 | 2023-08-22 | 8,446 | 0 |
 | 2023-08-23 | 9,202 | 0 |
-| 2023-08-24 | 9,230 | 0 |
+| 2023-08-24 | 9,285 | 0 |
 ## Awards
 Max (Relaxing): 1,279  (Ranked 133)  
 Sum: 11,442 (Ranked 80)  

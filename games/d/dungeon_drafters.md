@@ -12,7 +12,7 @@
 | Clear as Water | 29.00% | ~25 |
 | Setting Off | 28.00% | ~24 |
 | Card Collector | 28.00% | ~24 |
-| Riddlesolver | 23.00% | ~20 |
+| Riddlesolver | 24.00% | ~21 |
 | Dungeon Mastery | 21.00% | ~18 |
 | The Steed | 11.00% | ~10 |
 | A Strange Proposition | 11.00% | ~10 |

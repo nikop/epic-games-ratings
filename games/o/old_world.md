@@ -83,6 +83,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Patrons | 0.80% | ~108 |
 | Statesmen | 0.80% | ~108 |
 | Temple of Solomon | 0.80% | ~108 |
+| Pantheon | 0.80% | ~108 |
 | Via Recta Souk | 0.80% | ~108 |
 | Persian Paganism | 0.80% | ~108 |
 | Building Wonders | 0.80% | ~108 |
@@ -95,7 +96,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Iron | 0.70% | ~95 |
 | Circus Maximus | 0.70% | ~95 |
 | Hagia Sophia | 0.70% | ~95 |
-| Pantheon | 0.70% | ~95 |
 | Learn to Play 3 | 0.70% | ~95 |
 | Power to the People | 0.70% | ~95 |
 | Economic Reform | 0.70% | ~95 |
