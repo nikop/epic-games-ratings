@@ -2,16 +2,16 @@
 | - | ---- | ------ | ------ | ------------------ |
 | 1 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 0 | 514 |
 | 1 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 0 | 514 |
-| 3 | [Rain World](games/r/rain_world.md) | 4.95 | 0 | 514 |
-| 4 | [Celeste](games/c/celeste.md) | 4.92 | 1,568 | 119 |
-| 4 | [Hades](games/h/hades.md) | 4.92 | 3,231 | 91 |
-| 6 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.91 | 0 | 514 |
-| 6 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 4.91 | 0 | 514 |
-| 8 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 0 | 514 |
-| 8 | [Mago](games/m/mago.md) | 4.90 | 0 | 514 |
-| 8 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 0 | 514 |
-| 8 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,879 | 111 |
-| 8 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 0 | 514 |
+| 3 | [Celeste](games/c/celeste.md) | 4.92 | 1,568 | 119 |
+| 3 | [Hades](games/h/hades.md) | 4.92 | 3,231 | 91 |
+| 5 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.91 | 0 | 514 |
+| 5 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 4.91 | 0 | 514 |
+| 7 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 0 | 514 |
+| 7 | [Mago](games/m/mago.md) | 4.90 | 0 | 514 |
+| 7 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 0 | 514 |
+| 7 | [Rain World](games/r/rain_world.md) | 4.90 | 0 | 514 |
+| 7 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,879 | 111 |
+| 7 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 0 | 514 |
 | 13 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 7,997 | 42 |
 | 13 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.89 | 0 | 514 |
 | 13 | [Firework](games/f/firework.md) | 4.89 | 0 | 514 |
@@ -55,15 +55,15 @@
 | 48 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 417 | 211 |
 | 48 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 263 | 249 |
 | 48 | [Rayman Origins](games/r/rayman_origins.md) | 4.84 | 25 | 482 |
-| 48 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.84 | 240 | 257 |
 | 48 | [Star Atlas](games/s/star_atlas.md) | 4.84 | 24 | 483 |
 | 48 | [The Last Campfire](games/t/the_last_campfire.md) | 4.84 | 0 | 514 |
 | 48 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.84 | 0 | 514 |
-| 60 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | 0 | 514 |
-| 60 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.83 | 0 | 514 |
-| 60 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.83 | 0 | 514 |
-| 60 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 87 | 356 |
-| 60 | [TUNIC](games/t/tunic.md) | 4.83 | 34 | 441 |
+| 59 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | 0 | 514 |
+| 59 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.83 | 0 | 514 |
+| 59 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.83 | 0 | 514 |
+| 59 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.83 | 240 | 257 |
+| 59 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 87 | 356 |
+| 59 | [TUNIC](games/t/tunic.md) | 4.83 | 34 | 441 |
 | 65 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 0 | 514 |
 | 65 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,547 | 120 |
 | 65 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,734 | 63 |
@@ -155,7 +155,7 @@
 | 146 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 120 | 320 |
 | 146 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,973 | 51 |
 | 146 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.74 | 0 | 514 |
-| 146 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 36,348 | 14 |
+| 146 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 36,370 | 14 |
 | 146 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 0 | 514 |
 | 146 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 794 | 158 |
 | 146 | [The Machines Arena](games/t/the_machines_arena.md) | 4.74 | 0 | 514 |
@@ -189,13 +189,13 @@
 | 170 | [Townscaper](games/t/townscaper.md) | 4.72 | 0 | 514 |
 | 188 | [Barony](games/b/barony.md) | 4.71 | 78 | 365 |
 | 188 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.71 | 88 | 353 |
-| 188 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,996 | 50 |
+| 188 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 7,007 | 50 |
 | 188 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 437 |
 | 188 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,399 | 47 |
 | 188 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.71 | 0 | 514 |
 | 188 | [shapez](games/s/shapez.md) | 4.71 | 0 | 514 |
 | 188 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 81 | 361 |
-| 188 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.71 | 1,796 | 113 |
+| 188 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.71 | 1,801 | 113 |
 | 188 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.71 | 0 | 514 |
 | 198 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,559 | 72 |
 | 198 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 379 | 222 |
@@ -430,7 +430,7 @@
 | 426 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 162 | 292 |
 | 426 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 0 | 514 |
 | 426 | [Deceive Inc.](games/d/deceive_inc..md) | 4.58 | 0 | 514 |
-| 426 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 8,863 | 39 |
+| 426 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 8,876 | 39 |
 | 426 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 258 | 251 |
 | 426 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.58 | 0 | 514 |
 | 426 | [GRIT](games/g/grit.md) | 4.58 | 0 | 514 |
@@ -481,7 +481,7 @@
 | 473 | [Little Inferno](games/l/little_inferno.md) | 4.56 | 0 | 514 |
 | 473 | [Minit](games/m/minit.md) | 4.56 | 0 | 514 |
 | 473 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,746 | 70 |
-| 473 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,796 | 113 |
+| 473 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,796 | 114 |
 | 473 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.56 | 0 | 514 |
 | 473 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.56 | 0 | 514 |
 | 485 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.55 | 0 | 514 |
