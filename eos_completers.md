@@ -32,9 +32,9 @@
 | 30 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
 | 31 | [Sonic Origins](games/s/sonic_origins.md) | 9.38% |
 | 32 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
-| 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.01% |
+| 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.00% |
 | 34 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.47% |
-| 35 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 7.89% |
+| 35 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 7.69% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.50% |
 | 36 | [Smelter](games/s/smelter.md) | 7.50% |
 | 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.05% |
@@ -70,8 +70,8 @@
 | 68 | [Bunny Park](games/b/bunny_park.md) | 3.37% |
 | 69 | [The Complex](games/t/the_complex.md) | 3.35% |
 | 70 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
-| 71 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 3.23% |
-| 72 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.21% |
+| 71 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 3.21% |
+| 72 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.20% |
 | 73 | [HordeCore](games/h/hordecore.md) | 3.15% |
 | 74 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.14% |
 | 75 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.04% |
@@ -133,12 +133,12 @@
 | 131 | [Lemon Cake](games/l/lemon_cake.md) | 0.70% |
 | 132 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.69% |
 | 133 | [Haven](games/h/haven.md) | 0.64% |
-| 134 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.62% |
-| 134 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.62% |
-| 134 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.62% |
-| 137 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
-| 138 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.60% |
-| 139 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.59% |
+| 134 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.63% |
+| 135 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.62% |
+| 135 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.62% |
+| 135 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.62% |
+| 138 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
+| 139 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.60% |
 | 140 | [Potion Permit](games/p/potion_permit.md) | 0.58% |
 | 141 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.57% |
 | 142 | [Grindstone](games/g/grindstone.md) | 0.56% |
