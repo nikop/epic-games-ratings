@@ -337,7 +337,7 @@
 | 329 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 0 | 514 |
 | 329 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 604 | 181 |
 | 329 | [Mutazione](games/m/mutazione.md) | 4.63 | 0 | 514 |
-| 329 | [Returnal™](games/r/returnal™.md) | 4.63 | 64 | 387 |
+| 329 | [Returnal™](games/r/returnal™.md) | 4.63 | 65 | 387 |
 | 329 | [Road 96](games/r/road_96.md) | 4.63 | 0 | 514 |
 | 329 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 184 | 279 |
 | 329 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 304 | 236 |
@@ -437,7 +437,7 @@
 | 426 | [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 4.58 | 0 | 514 |
 | 426 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.58 | 0 | 514 |
 | 426 | [Moving Out](games/m/moving_out.md) | 4.58 | 21 | 502 |
-| 426 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.58 | 7,012 | 49 |
+| 426 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.58 | 7,046 | 49 |
 | 426 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 1,488 | 122 |
 | 426 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.58 | 0 | 514 |
 | 426 | [Sonic Origins](games/s/sonic_origins.md) | 4.58 | 125 | 313 |
@@ -552,7 +552,7 @@
 | 543 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 189 | 277 |
 | 543 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.51 | 0 | 514 |
 | 543 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.51 | 764 | 162 |
-| 543 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 64 | 387 |
+| 543 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 64 | 388 |
 | 543 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.51 | 164 | 290 |
 | 543 | [UnMetal](games/u/unmetal.md) | 4.51 | 0 | 514 |
 | 543 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 134 | 309 |
@@ -578,7 +578,7 @@
 | 558 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 0 | 514 |
 | 558 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 36 | 433 |
 | 578 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 4.49 | 26 | 474 |
-| 578 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 64 | 387 |
+| 578 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 64 | 388 |
 | 578 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.49 | 0 | 514 |
 | 578 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,987 | 109 |
 | 578 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 36,544 | 13 |

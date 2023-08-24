@@ -40,9 +40,9 @@
 | 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.05% |
 | 39 | [Scorn](games/s/scorn.md) | 7.00% |
 | 40 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.90% |
-| 41 | [Time Loader](games/t/time_loader.md) | 6.78% |
-| 42 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 6.67% |
-| 43 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.63% |
+| 41 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.88% |
+| 42 | [Time Loader](games/t/time_loader.md) | 6.78% |
+| 43 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 6.67% |
 | 44 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.36% |
 | 45 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 46 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -57,7 +57,7 @@
 | 55 | [Bugsnax](games/b/bugsnax.md) | 4.73% |
 | 56 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 57 | [JARS](games/j/jars.md) | 4.55% |
-| 58 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.42% |
+| 58 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.40% |
 | 59 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
 | 60 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.11% |
 | 61 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.10% |
@@ -71,9 +71,9 @@
 | 69 | [The Complex](games/t/the_complex.md) | 3.35% |
 | 70 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
 | 71 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 3.21% |
-| 72 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.20% |
+| 72 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.18% |
 | 73 | [HordeCore](games/h/hordecore.md) | 3.15% |
-| 74 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.14% |
+| 74 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.13% |
 | 75 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.04% |
 | 76 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.03% |
 | 77 | [Monster Harvest](games/m/monster_harvest.md) | 2.94% |
@@ -166,9 +166,9 @@
 | 164 | [Wildermyth](games/w/wildermyth.md) | 0.36% |
 | 165 | [The Surge](games/t/the_surge.md) | 0.35% |
 | 165 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.35% |
-| 167 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.34% |
 | 167 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.34% |
-| 169 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.33% |
+| 168 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.33% |
+| 168 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.33% |
 | 170 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 170 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
 | 172 | [The First Tree](games/t/the_first_tree.md) | 0.30% |

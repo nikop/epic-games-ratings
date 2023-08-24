@@ -48,7 +48,7 @@
 | 46 | [Supraland](games/s/supraland.md) | 7,672 | 4.61 | 366 |
 | 47 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,399 | 4.71 | 188 |
 | 48 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 7,340 | 4.68 | 238 |
-| 49 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 7,012 | 4.58 | 426 |
+| 49 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 7,046 | 4.58 | 426 |
 | 50 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 6,996 | 4.71 | 188 |
 | 51 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,973 | 4.74 | 146 |
 | 52 | [DEATH STRANDING](games/d/death_stranding.md) | 6,766 | 4.77 | 109 |
@@ -386,9 +386,9 @@
 | 384 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 67 | 4.42 | 672 |
 | 384 | [Symphony of War](games/s/symphony_of_war.md) | 67 | 4.64 | 314 |
 | 386 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 66 | 4.41 | 686 |
-| 387 | [Arcadegeddon](games/a/arcadegeddon.md) | 64 | 4.49 | 578 |
-| 387 | [Returnal™](games/r/returnal™.md) | 64 | 4.63 | 329 |
-| 387 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 64 | 4.51 | 543 |
+| 387 | [Returnal™](games/r/returnal™.md) | 65 | 4.63 | 329 |
+| 388 | [Arcadegeddon](games/a/arcadegeddon.md) | 64 | 4.49 | 578 |
+| 388 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 64 | 4.51 | 543 |
 | 390 | [In Sound Mind](games/i/in_sound_mind.md) | 63 | 4.60 | 392 |
 | 391 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 60 | 4.32 | 778 |
 | 392 | [Heavy Rain](games/h/heavy_rain.md) | 59 | 4.59 | 413 |
