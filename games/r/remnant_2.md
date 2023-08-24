@@ -5,33 +5,33 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~14,705 |
-| The Killing Jar | 8.00% | ~13,071 |
-| Not Your Average Trait | 8.00% | ~13,071 |
-| Expanding Horizons | 7.00% | ~11,437 |
-| Quest for Survival | 7.00% | ~11,437 |
-| Boss'n Up | 7.00% | ~11,437 |
-| Trait Chaser | 7.00% | ~11,437 |
-| Gleaming the Cube | 6.00% | ~9,803 |
-| Not a Janitor | 6.00% | ~9,803 |
-| Familiar Face | 6.00% | ~9,803 |
-| Duality | 6.00% | ~9,803 |
-| Not So Special Now | 5.00% | ~8,169 |
-| Equal Measures | 5.00% | ~8,169 |
-| Blue Goddess | 5.00% | ~8,169 |
-| Top Performer | 5.00% | ~8,169 |
-| Shhh...It's a Secret | 5.00% | ~8,169 |
-| Almost There | 5.00% | ~8,169 |
-| Make Some Room | 5.00% | ~8,169 |
-| Good, But Could Be Better! | 5.00% | ~8,169 |
-| Chaos | 4.00% | ~6,535 |
-| Traitor | 4.00% | ~6,535 |
-| Power Surge | 4.00% | ~6,535 |
-| The God Gambit | 4.00% | ~6,535 |
-| Dark Designs | 4.00% | ~6,535 |
-| Madman's Paradise | 4.00% | ~6,535 |
-| Was This Supposed To Happen? | 4.00% | ~6,535 |
-| The Web | 4.00% | ~6,535 |
+| First of Many | 9.00% | ~14,706 |
+| The Killing Jar | 8.00% | ~13,072 |
+| Not Your Average Trait | 8.00% | ~13,072 |
+| Expanding Horizons | 7.00% | ~11,438 |
+| Quest for Survival | 7.00% | ~11,438 |
+| Boss'n Up | 7.00% | ~11,438 |
+| Trait Chaser | 7.00% | ~11,438 |
+| Gleaming the Cube | 6.00% | ~9,804 |
+| Not a Janitor | 6.00% | ~9,804 |
+| Familiar Face | 6.00% | ~9,804 |
+| Duality | 6.00% | ~9,804 |
+| Not So Special Now | 5.00% | ~8,170 |
+| Equal Measures | 5.00% | ~8,170 |
+| Blue Goddess | 5.00% | ~8,170 |
+| Top Performer | 5.00% | ~8,170 |
+| Shhh...It's a Secret | 5.00% | ~8,170 |
+| Almost There | 5.00% | ~8,170 |
+| Make Some Room | 5.00% | ~8,170 |
+| Good, But Could Be Better! | 5.00% | ~8,170 |
+| Chaos | 4.00% | ~6,536 |
+| Traitor | 4.00% | ~6,536 |
+| Power Surge | 4.00% | ~6,536 |
+| The God Gambit | 4.00% | ~6,536 |
+| Dark Designs | 4.00% | ~6,536 |
+| Madman's Paradise | 4.00% | ~6,536 |
+| Was This Supposed To Happen? | 4.00% | ~6,536 |
+| The Web | 4.00% | ~6,536 |
 | Forever is a Long Time Coming | 3.00% | ~4,902 |
 | The Agenda | 3.00% | ~4,902 |
 | Bad Moon Rising | 3.00% | ~4,902 |
@@ -51,12 +51,12 @@ Rating: 4.77 (Ranked 109)
 | Transmutate | 2.00% | ~3,268 |
 | Crafty | 1.00% | ~1,634 |
 | The Collector | 1.00% | ~1,634 |
-| The Trigger | 0.90% | ~1,470 |
-| Cutting Edge | 0.90% | ~1,470 |
+| The Trigger | 0.90% | ~1,471 |
+| Cutting Edge | 0.90% | ~1,471 |
 | Ghost in the Machine | 0.70% | ~1,144 |
 | Proving Grounds | 0.70% | ~1,144 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 163,385 (Ranked 63)  
+Progressed: 163,401 (Ranked 63)  
 Completed: 128 (0.08%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 128 (0.08%) (Ranked 220)
 | 2023-08-21 | 161,023 | 112 |
 | 2023-08-22 | 162,242 | 116 |
 | 2023-08-23 | 163,315 | 126 |
-| 2023-08-24 | 163,385 | 128 |
+| 2023-08-24 | 163,401 | 128 |
 ## Awards
 Max (Great Boss Battles): 1,119  (Ranked 138)  
 Sum: 1,820 (Ranked 207)  

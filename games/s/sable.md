@@ -10,8 +10,8 @@ Number of Ratings: 43  (23.09.2022)
 | Just The Two of Us | 32.00% | ~27,286 |
 | Up On High | 25.00% | ~21,317 |
 | Under The Hood | 25.00% | ~21,317 |
-| Got Your Nose | 24.00% | ~20,464 |
-| The Gift of Gab | 24.00% | ~20,464 |
+| Got Your Nose | 24.00% | ~20,465 |
+| The Gift of Gab | 24.00% | ~20,465 |
 | Wrapping Up | 22.00% | ~18,759 |
 | More Than A Box Of Sand | 18.00% | ~15,348 |
 | The Dunboyne | 17.00% | ~14,496 |
@@ -28,7 +28,7 @@ Number of Ratings: 43  (23.09.2022)
 | Big Spender | 13.00% | ~11,085 |
 | Badge Collector | 12.00% | ~10,232 |
 | Quite The Catch | 12.00% | ~10,232 |
-| Rowleys Way | 11.00% | ~9,379 |
+| Rowleys Way | 11.00% | ~9,380 |
 | The Machinist Mask | 10.00% | ~8,527 |
 | The Cartographer Mask | 10.00% | ~8,527 |
 | Balfron Connection | 10.00% | ~8,527 |
@@ -39,12 +39,12 @@ Number of Ratings: 43  (23.09.2022)
 | Centre Of Brunswick | 9.00% | ~7,674 |
 | Bike Collector | 9.00% | ~7,674 |
 | Not That Kind Of Gliding | 9.00% | ~7,674 |
-| The Scrapper Mask | 8.00% | ~6,821 |
-| Shadow Of Neave | 8.00% | ~6,821 |
-| Fragile Goods | 8.00% | ~6,821 |
-| Glider on the Storm | 8.00% | ~6,821 |
-| Squeeze One Out | 8.00% | ~6,821 |
-| Dune Rider | 8.00% | ~6,821 |
+| The Scrapper Mask | 8.00% | ~6,822 |
+| Shadow Of Neave | 8.00% | ~6,822 |
+| Fragile Goods | 8.00% | ~6,822 |
+| Glider on the Storm | 8.00% | ~6,822 |
+| Squeeze One Out | 8.00% | ~6,822 |
+| Dune Rider | 8.00% | ~6,822 |
 | Amateur Historian | 7.00% | ~5,969 |
 | The Beetle Mask | 7.00% | ~5,969 |
 | The Guard Mask | 7.00% | ~5,969 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~2,558 |
 | Vivacious Vivarium | 2.00% | ~1,705 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 85,268 (Ranked 73)  
+Progressed: 85,269 (Ranked 73)  
 Completed: 837 (0.98%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 837 (0.98%) (Ranked 121)
 | 2023-08-21 | 84,933 | 834 |
 | 2023-08-22 | 85,102 | 834 |
 | 2023-08-23 | 85,254 | 837 |
-| 2023-08-24 | 85,268 | 837 |
+| 2023-08-24 | 85,269 | 837 |
 ## Awards
 Max (Quickly Understood Controls): 22  (Ranked 493)  
 Sum: 22 (Ranked 496)  

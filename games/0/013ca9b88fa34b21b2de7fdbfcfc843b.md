@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 71.00% | ~12 |
-| A Thorny Situation | 59.00% | ~10 |
-| Calm Sailing | 47.00% | ~8 |
-| Break-Net Speed | 47.00% | ~8 |
-| Open the Gate! | 41.00% | ~7 |
-| Captain of Cozy | 35.00% | ~6 |
-| Bramble Breaker | 29.00% | ~5 |
-| Right Tool For the Job | 29.00% | ~5 |
-| Clear the Air | 24.00% | ~4 |
-| Search for the Hairy Grell | 24.00% | ~4 |
-| Flaming Hot Completos | 24.00% | ~4 |
-| Mist Walker | 24.00% | ~4 |
-| Fae Farmer | 18.00% | ~3 |
-| Chatty Neighbor | 18.00% | ~3 |
-| House Proud | 12.00% | ~2 |
-| Skilled | 12.00% | ~2 |
+| Azoria Beckons | 67.00% | ~12 |
+| A Thorny Situation | 56.00% | ~10 |
+| Calm Sailing | 44.00% | ~8 |
+| Break-Net Speed | 44.00% | ~8 |
+| Open the Gate! | 39.00% | ~7 |
+| Captain of Cozy | 33.00% | ~6 |
+| Bramble Breaker | 28.00% | ~5 |
+| Right Tool For the Job | 28.00% | ~5 |
+| Clear the Air | 22.00% | ~4 |
+| Search for the Hairy Grell | 22.00% | ~4 |
+| Flaming Hot Completos | 22.00% | ~4 |
+| Mist Walker | 22.00% | ~4 |
+| Fae Farmer | 17.00% | ~3 |
+| Chatty Neighbor | 17.00% | ~3 |
+| House Proud | 11.00% | ~2 |
+| Skilled | 11.00% | ~2 |
 | Lumberjack | 6.00% | ~1 |
 | Miner 49er | 6.00% | ~1 |
 | Humble Collector | 6.00% | ~1 |
@@ -40,7 +40,7 @@
 | Botanical Breakthrough | 0.00% | ~0 |
 | Very Skilled | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17 (Ranked 430)  
+Progressed: 18 (Ranked 426)  
 Completed: 0 (0.00%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -51,4 +51,4 @@ Completed: 0 (0.00%) (Ranked 262)
 | 2023-08-18 | 11 | 0 |
 | 2023-08-21 | 13 | 0 |
 | 2023-08-23 | 15 | 0 |
-| 2023-08-24 | 17 | 0 |
+| 2023-08-24 | 18 | 0 |

@@ -278,9 +278,9 @@
       "ID": "SG_ENDOFTHEROAD",
       "SetID": "bj5g0n4",
       "Name": "End Of The Road",
-      "Percentage": 62,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -509,8 +509,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-08-24T01:43:46.6080269+00:00",
+  "LastChanged_Achievements": "2023-08-24T02:17:52.0930322+00:00",
   "LastUpdate_AppInfo": "2023-08-17T07:57:27.6849691+00:00",
-  "LastUpdate_Ratings": "2023-08-24T01:37:11.9830703+00:00",
-  "LastUpdate_Achievements": "2023-08-24T01:43:46.6080574+00:00"
+  "LastUpdate_Ratings": "2023-08-24T02:11:33.6587946+00:00",
+  "LastUpdate_Achievements": "2023-08-24T02:17:52.0930554+00:00"
 }

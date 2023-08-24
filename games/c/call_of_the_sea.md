@@ -5,10 +5,10 @@ Rating: 4.39 (Ranked 712)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 79.00% | ~90,452 |
+| A Family Heirloom | 79.00% | ~90,453 |
 | 74 miles East of Otaheité | 55.00% | ~62,973 |
-| Interesting... | 42.00% | ~48,088 |
-| The Everhart Expedition | 39.00% | ~44,653 |
+| Interesting... | 42.00% | ~48,089 |
+| The Everhart Expedition | 39.00% | ~44,654 |
 | The Vanishing of the Lady Shannon | 30.00% | ~34,349 |
 | Seaside Serenade | 30.00% | ~34,349 |
 | Halfway there | 29.00% | ~33,204 |
@@ -22,9 +22,9 @@ Rating: 4.39 (Ranked 712)
 | FHALGOF'N' | 22.00% | ~25,189 |
 | Marsh Cannery | 20.00% | ~22,899 |
 | Greetings from Y'ha-nthlei! | 17.00% | ~19,464 |
-| The only thing I have now | 16.00% | ~18,319 |
-| Not Another Boring Slideshow! | 15.00% | ~17,174 |
-| Naacalvision | 15.00% | ~17,174 |
+| The only thing I have now | 16.00% | ~18,320 |
+| Not Another Boring Slideshow! | 15.00% | ~17,175 |
+| Naacalvision | 15.00% | ~17,175 |
 | I'll make a note of that... | 9.00% | ~10,305 |
 | The Norahnomicon | 9.00% | ~10,305 |
 | Play it again, Norah | 7.00% | ~8,015 |
@@ -40,7 +40,7 @@ Rating: 4.39 (Ranked 712)
 | Gently down the stream... | 1.00% | ~1,145 |
 | Meta-reference | 1.00% | ~1,145 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 114,496 (Ranked 70)  
+Progressed: 114,497 (Ranked 70)  
 Completed: 919 (0.80%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 919 (0.80%) (Ranked 127)
 | 2023-08-21 | 114,033 | 913 |
 | 2023-08-22 | 114,268 | 919 |
 | 2023-08-23 | 114,479 | 919 |
-| 2023-08-24 | 114,496 | 919 |
+| 2023-08-24 | 114,497 | 919 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

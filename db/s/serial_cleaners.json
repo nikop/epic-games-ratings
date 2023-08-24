@@ -4,7 +4,7 @@
   "ProductSlug": "serial-cleaners",
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 84,
-  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewPlayers": 312,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 231,
+  "EOS_Progressed": 232,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.6,
+  "EOS_Completed_Percentage": 2.59,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:28.6580163+00:00",
@@ -416,6 +416,11 @@
       "Time": "2023-08-17T01:43:01.6042194+00:00",
       "NumProgressed": 231,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-08-24T02:19:41.1007153+00:00",
+      "NumProgressed": 232,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 24,
@@ -459,7 +464,7 @@
       "Name": "Pride and Joy",
       "Percentage": 8,
       "XP": 75,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "CHAPTER3_COMPLETE",
@@ -507,7 +512,7 @@
       "Name": "Business as usual",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "DLC01_ACHIEVEMENT01",
@@ -601,9 +606,9 @@
       "ID": "TUTORIAL_COMPLETE",
       "SetID": "2lk004m",
       "Name": "Clean Conscience",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 67
+      "UsersEstimate": 65
     },
     {
       "ID": "VIPER_HACKING",
@@ -618,13 +623,13 @@
     {
       "ID": "5jieak",
       "IsBase": false,
-      "Progressed": 94,
+      "Progressed": 95,
       "Completed": 16
     },
     {
       "ID": "2lk004m",
       "IsBase": true,
-      "Progressed": 231,
+      "Progressed": 232,
       "Completed": 6
     }
   ],
@@ -632,8 +637,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-08-24T01:46:01.3639648+00:00",
+  "LastChanged_Achievements": "2023-08-24T02:19:41.100715+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:50.3704727+00:00",
-  "LastUpdate_Ratings": "2023-08-24T01:36:06.3113808+00:00",
-  "LastUpdate_Achievements": "2023-08-24T01:46:01.3639872+00:00"
+  "LastUpdate_Ratings": "2023-08-24T02:10:38.3415758+00:00",
+  "LastUpdate_Achievements": "2023-08-24T02:19:41.1007365+00:00"
 }

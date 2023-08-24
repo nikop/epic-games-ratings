@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 114496,
+  "EOS_Progressed": 114497,
   "EOS_Completed": 919,
-  "EOS_NewPlayers": 1797,
+  "EOS_NewPlayers": 1792,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
@@ -14111,6 +14111,11 @@
       "Time": "2023-08-24T01:43:32.4845808+00:00",
       "NumProgressed": 114496,
       "NumCompleted": 919
+    },
+    {
+      "Time": "2023-08-24T02:17:40.6844678+00:00",
+      "NumProgressed": 114497,
+      "NumCompleted": 919
     }
   ],
   "TotalAchievements": 34,
@@ -14130,7 +14135,7 @@
       "Name": "The only thing I have now",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 18319
+      "UsersEstimate": 18320
     },
     {
       "ID": "ACH_GAME_JOURNAL1",
@@ -14138,7 +14143,7 @@
       "Name": "Interesting...",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 48088
+      "UsersEstimate": 48089
     },
     {
       "ID": "ACH_GAME_JOURNAL2",
@@ -14178,7 +14183,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 90452
+      "UsersEstimate": 90453
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -14210,7 +14215,7 @@
       "Name": "The Everhart Expedition",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 44653
+      "UsersEstimate": 44654
     },
     {
       "ID": "ACH_L02_BASECAMP_OBJ",
@@ -14274,7 +14279,7 @@
       "Name": "Not Another Boring Slideshow!",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 17174
+      "UsersEstimate": 17175
     },
     {
       "ID": "ACH_L04A_MIC",
@@ -14322,7 +14327,7 @@
       "Name": "Naacalvision",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 17174
+      "UsersEstimate": 17175
     },
     {
       "ID": "ACH_L05_STREAMS",
@@ -14393,7 +14398,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 114496,
+      "Progressed": 114497,
       "Completed": 919
     }
   ],
@@ -14401,8 +14406,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-07-28T22:59:47.9530801+00:00",
-  "LastChanged_Achievements": "2023-08-24T01:43:32.4845802+00:00",
+  "LastChanged_Achievements": "2023-08-24T02:17:40.6844675+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:57.0199491+00:00",
-  "LastUpdate_Ratings": "2023-08-24T01:35:59.2758831+00:00",
-  "LastUpdate_Achievements": "2023-08-24T01:43:32.4847119+00:00"
+  "LastUpdate_Ratings": "2023-08-24T02:10:32.9069119+00:00",
+  "LastUpdate_Achievements": "2023-08-24T02:17:40.6845545+00:00"
 }

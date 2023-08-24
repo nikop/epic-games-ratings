@@ -8,19 +8,19 @@ Number of Ratings: 33  (23.09.2022)
 | ---- | ---------- | ----- |
 | I will finish what you started | 28.00% | ~68,110 |
 | Powergamer | 27.00% | ~65,678 |
-| Barely scratched the surface | 25.00% | ~60,812 |
+| Barely scratched the surface | 25.00% | ~60,813 |
 | Write that down | 24.00% | ~58,380 |
 | Guns, lots of guns | 12.00% | ~29,190 |
 | Collector | 11.00% | ~26,758 |
-| Elementary! | 9.00% | ~21,892 |
+| Elementary! | 9.00% | ~21,893 |
 | Pumpkin Jack | 8.00% | ~19,460 |
 | Wake up! | 8.00% | ~19,460 |
 | It's honest work | 7.00% | ~17,028 |
 | Griever | 7.00% | ~17,028 |
 | Me smart | 6.00% | ~14,595 |
 | Trash compactor | 6.00% | ~14,595 |
-| Good listener | 5.00% | ~12,162 |
-| Valedictorian | 5.00% | ~12,162 |
+| Good listener | 5.00% | ~12,163 |
+| Valedictorian | 5.00% | ~12,163 |
 | BOY! | 4.00% | ~9,730 |
 | Ka-ching! | 4.00% | ~9,730 |
 | So you like to read? | 4.00% | ~9,730 |
@@ -34,14 +34,14 @@ Number of Ratings: 33  (23.09.2022)
 | Rinse and repeat | 2.00% | ~4,865 |
 | Mama, I'm a criminal | 2.00% | ~4,865 |
 | Never gonna give you up | 2.00% | ~4,865 |
-| A muscle to rely on | 1.00% | ~2,432 |
-| Catnip | 1.00% | ~2,432 |
-| I am in great pain, please help me | 1.00% | ~2,432 |
-| High noon | 1.00% | ~2,432 |
-| Random encounter | 1.00% | ~2,432 |
-| SysOp on duty | 1.00% | ~2,432 |
-| Take the blue pill | 1.00% | ~2,432 |
-| The power of three | 1.00% | ~2,432 |
+| A muscle to rely on | 1.00% | ~2,433 |
+| Catnip | 1.00% | ~2,433 |
+| I am in great pain, please help me | 1.00% | ~2,433 |
+| High noon | 1.00% | ~2,433 |
+| Random encounter | 1.00% | ~2,433 |
+| SysOp on duty | 1.00% | ~2,433 |
+| Take the blue pill | 1.00% | ~2,433 |
+| The power of three | 1.00% | ~2,433 |
 | A true blacksmith | 0.90% | ~2,189 |
 | Let's try another | 0.80% | ~1,946 |
 | Home run | 0.80% | ~1,946 |
@@ -53,13 +53,13 @@ Number of Ratings: 33  (23.09.2022)
 | Un-bear-able | 0.40% | ~973 |
 | LET ME OUT! | 0.30% | ~730 |
 | Well-deserved reunion | 0.30% | ~730 |
-| Breaking the chains | 0.20% | ~486 |
-| Aren't you overthinking? | 0.20% | ~486 |
-| Take the red pill | 0.20% | ~486 |
-| This is the way | 0.20% | ~486 |
+| Breaking the chains | 0.20% | ~487 |
+| Aren't you overthinking? | 0.20% | ~487 |
+| Take the red pill | 0.20% | ~487 |
+| This is the way | 0.20% | ~487 |
 | Memory 5 | 0.10% | ~243 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,250 (Ranked 48)  
+Progressed: 243,251 (Ranked 48)  
 Completed: 7 (0.00%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 7 (0.00%) (Ranked 262)
 | 2023-08-21 | 243,002 | 7 |
 | 2023-08-22 | 243,129 | 7 |
 | 2023-08-23 | 243,240 | 7 |
-| 2023-08-24 | 243,250 | 7 |
+| 2023-08-24 | 243,251 | 7 |
 ## Awards
 Max (Character Customization): 79  (Ranked 363)  
 Sum: 79 (Ranked 428)  

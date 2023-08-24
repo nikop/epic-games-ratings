@@ -3334,9 +3334,9 @@
       "Count": 752
     }
   ],
-  "EOS_Progressed": 1602865,
+  "EOS_Progressed": 1602934,
   "EOS_Completed": 523,
-  "EOS_NewPlayers": 25821,
+  "EOS_NewPlayers": 25822,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -12144,6 +12144,11 @@
       "Time": "2023-08-24T01:45:09.5043943+00:00",
       "NumProgressed": 1602865,
       "NumCompleted": 523
+    },
+    {
+      "Time": "2023-08-24T02:18:59.8658916+00:00",
+      "NumProgressed": 1602934,
+      "NumCompleted": 523
     }
   ],
   "TotalAchievements": 1328,
@@ -12209,9 +12214,9 @@
       "ID": "ameno_8",
       "SetID": "bkjdbk8",
       "Name": "The Collector",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 11220
+      "UsersEstimate": 12823
     },
     {
       "ID": "armed_and_dangerous",
@@ -13355,7 +13360,7 @@
       "Name": "I Want to Get Away",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 32057
+      "UsersEstimate": 32059
     },
     {
       "ID": "brooklyn_2",
@@ -13371,7 +13376,7 @@
       "Name": "I Never Asked for This",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6411
+      "UsersEstimate": 6412
     },
     {
       "ID": "brooklyn_4",
@@ -15259,7 +15264,7 @@
       "Name": "Pink Slip",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6411
+      "UsersEstimate": 6412
     },
     {
       "ID": "fort_3",
@@ -15419,7 +15424,7 @@
       "Name": "HOLY SHI-",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6411
+      "UsersEstimate": 6412
     },
     {
       "ID": "gage2_9",
@@ -16627,7 +16632,7 @@
       "Name": "Smooth Criminal",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 9617
+      "UsersEstimate": 9618
     },
     {
       "ID": "gorilla_1",
@@ -20235,7 +20240,7 @@
       "Name": "No Thermal Drill was Harmed During the Heist",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6411
+      "UsersEstimate": 6412
     },
     {
       "ID": "trk_bc_1",
@@ -21507,7 +21512,7 @@
       "Name": "There is Always a First Time",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 8014
+      "UsersEstimate": 8015
     },
     {
       "ID": "trk_js_1",
@@ -22778,22 +22783,22 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1602865,
+      "Progressed": 1602934,
       "Completed": 523
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1602865,
-      "Completed": 30
+      "Progressed": 1602934,
+      "Completed": 31
     }
   ],
   "FirstSeen": "2023-06-08T18:57:07.8003815+00:00",
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
   "LastChanged": "2023-08-23T21:58:52.7579937+00:00",
-  "LastChanged_Achievements": "2023-08-24T01:45:09.5043937+00:00",
+  "LastChanged_Achievements": "2023-08-24T02:18:59.8658913+00:00",
   "LastUpdate_AppInfo": "2023-08-17T20:57:10.4408604+00:00",
-  "LastUpdate_Ratings": "2023-08-24T01:38:20.2993713+00:00",
-  "LastUpdate_Achievements": "2023-08-24T01:45:09.5226261+00:00"
+  "LastUpdate_Ratings": "2023-08-24T02:12:31.8517123+00:00",
+  "LastUpdate_Achievements": "2023-08-24T02:18:59.8801039+00:00"
 }

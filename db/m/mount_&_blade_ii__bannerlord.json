@@ -6541,10 +6541,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 14169,
       "NumberOfAwardsMax": 6973
+    },
+    {
+      "Time": "2023-08-24T02:11:08.346465+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 14171,
+      "NumberOfAwardsMax": 6973
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14169,
+  "NumberOfAwards": 14171,
   "NumberOfAwardsMax": 6973,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6594,7 +6600,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 780
+      "Count": 782
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6621,9 +6627,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 59524,
+  "EOS_Progressed": 59526,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 511,
+  "EOS_NewPlayers": 512,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19911,6 +19917,11 @@
       "Time": "2023-08-24T01:44:57.0285841+00:00",
       "NumProgressed": 59524,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-24T02:18:48.6604118+00:00",
+      "NumProgressed": 59526,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -19938,7 +19949,7 @@
       "Name": "Bannerlord",
       "Percentage": 22,
       "XP": 65,
-      "UsersEstimate": 13095
+      "UsersEstimate": 13096
     },
     {
       "ID": "Best served cold",
@@ -20082,7 +20093,7 @@
       "Name": "Horde breaker",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 13095
+      "UsersEstimate": 13096
     },
     {
       "ID": "I can do it",
@@ -20130,7 +20141,7 @@
       "Name": "Know your enemy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3571
+      "UsersEstimate": 3572
     },
     {
       "ID": "Lance-a-lot",
@@ -20154,7 +20165,7 @@
       "Name": "Lawbringer",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 22619
+      "UsersEstimate": 22620
     },
     {
       "ID": "Lawmaker",
@@ -20170,7 +20181,7 @@
       "Name": "Long live the Empire!",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1190
+      "UsersEstimate": 1191
     },
     {
       "ID": "Mastery",
@@ -20266,7 +20277,7 @@
       "Name": "Swordbearer",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 5952
+      "UsersEstimate": 5953
     },
     {
       "ID": "The king is pleased",
@@ -20274,7 +20285,7 @@
       "Name": "The king is pleased",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 10714
+      "UsersEstimate": 10715
     },
     {
       "ID": "This Is Our Land",
@@ -20298,7 +20309,7 @@
       "Name": "Trained",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 13095
+      "UsersEstimate": 13096
     },
     {
       "ID": "Undercover",
@@ -20329,15 +20340,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 59524,
+      "Progressed": 59526,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-08-23T19:57:38.8126679+00:00",
-  "LastChanged_Achievements": "2023-08-24T01:44:57.0285835+00:00",
+  "LastChanged": "2023-08-24T02:11:08.3464648+00:00",
+  "LastChanged_Achievements": "2023-08-24T02:18:48.6604112+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:38.4249815+00:00",
-  "LastUpdate_Ratings": "2023-08-24T01:36:41.2610969+00:00",
-  "LastUpdate_Achievements": "2023-08-24T01:44:57.0287298+00:00"
+  "LastUpdate_Ratings": "2023-08-24T02:11:08.3464654+00:00",
+  "LastUpdate_Achievements": "2023-08-24T02:18:48.6605071+00:00"
 }
