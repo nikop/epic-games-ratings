@@ -592,9 +592,9 @@
       "Count": 68
     }
   ],
-  "EOS_Progressed": 9759,
+  "EOS_Progressed": 9760,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -8722,6 +8722,11 @@
       "Time": "2023-08-24T06:06:23.7080696+00:00",
       "NumProgressed": 9759,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-08-24T14:07:55.9379029+00:00",
+      "NumProgressed": 9760,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -8813,7 +8818,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1073
+      "UsersEstimate": 1074
     },
     {
       "ID": "ACH12",
@@ -8837,7 +8842,7 @@
       "Name": "Greasy Palms",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 4001
+      "UsersEstimate": 4002
     },
     {
       "ID": "ACH15",
@@ -8893,7 +8898,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4489
+      "UsersEstimate": 4490
     },
     {
       "ID": "ACH22",
@@ -9004,7 +9009,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9759,
+      "Progressed": 9760,
       "Completed": 49
     }
   ],
@@ -9012,8 +9017,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-08-19T22:00:52.464405+00:00",
-  "LastChanged_Achievements": "2023-08-24T13:10:48.5377175+00:00",
+  "LastChanged_Achievements": "2023-08-24T14:07:55.937902+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:19.3350346+00:00",
-  "LastUpdate_Ratings": "2023-08-24T13:04:37.4909696+00:00",
-  "LastUpdate_Achievements": "2023-08-24T13:10:48.5378464+00:00"
+  "LastUpdate_Ratings": "2023-08-24T14:01:44.6387083+00:00",
+  "LastUpdate_Achievements": "2023-08-24T14:07:55.9379977+00:00"
 }

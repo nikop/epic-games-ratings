@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10209,
+  "EOS_Progressed": 10211,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1341,6 +1341,11 @@
       "Time": "2023-08-21T06:07:11.6375779+00:00",
       "NumProgressed": 10209,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-24T14:08:04.1232247+00:00",
+      "NumProgressed": 10211,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -1392,7 +1397,7 @@
       "Name": "bicycle race",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 1531
+      "UsersEstimate": 1532
     },
     {
       "ID": "ACH_CAR_WASH",
@@ -1400,7 +1405,7 @@
       "Name": "car wash",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1429
+      "UsersEstimate": 1430
     },
     {
       "ID": "ACH_COLLECTIBLES_FINLAND",
@@ -1464,7 +1469,7 @@
       "Name": "rwd only",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 2654
+      "UsersEstimate": 2655
     },
     {
       "ID": "ACH_COMPLETE_GROUP4",
@@ -1488,7 +1493,7 @@
       "Name": "monster",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 1429
+      "UsersEstimate": 1430
     },
     {
       "ID": "ACH_COMPLETE_GROUPS",
@@ -1512,7 +1517,7 @@
       "Name": "keep it tidy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7861
+      "UsersEstimate": 7862
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -1520,7 +1525,7 @@
       "Name": "group b",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "ACH_DAILY",
@@ -1560,7 +1565,7 @@
       "Name": "brail",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 5819
+      "UsersEstimate": 5820
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -1568,7 +1573,7 @@
       "Name": "if in doubt, flat out!",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "ACH_MAX_SPEED_LIGHT",
@@ -1576,7 +1581,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9801
+      "UsersEstimate": 9803
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -1592,7 +1597,7 @@
       "Name": "medium attack",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 6125
+      "UsersEstimate": 6127
     },
     {
       "ID": "ACH_NIGHT",
@@ -1640,7 +1645,7 @@
       "Name": "good drivers have dead flies on the side windows",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 4288
+      "UsersEstimate": 4289
     },
     {
       "ID": "ACH_SNOW",
@@ -1672,7 +1677,7 @@
       "Name": "food tour: pasta",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 2654
+      "UsersEstimate": 2655
     },
     {
       "ID": "ACH_WEEKLY",
@@ -1688,22 +1693,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7350
+      "UsersEstimate": 7352
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10209,
+      "Progressed": 10211,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-08-24T13:10:54.4322484+00:00",
+  "LastChanged_Achievements": "2023-08-24T14:08:04.1232241+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:49.2854864+00:00",
-  "LastUpdate_Ratings": "2023-08-24T13:03:48.7389898+00:00",
-  "LastUpdate_Achievements": "2023-08-24T13:10:54.4323195+00:00"
+  "LastUpdate_Ratings": "2023-08-24T14:00:31.7022767+00:00",
+  "LastUpdate_Achievements": "2023-08-24T14:08:04.123273+00:00"
 }

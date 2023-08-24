@@ -694,9 +694,9 @@
       "ID": "Batteries",
       "SetID": "7jbi7el",
       "Name": "Batteries",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 70,
-      "UsersEstimate": 81
+      "UsersEstimate": 83
     },
     {
       "ID": "Compiling",
@@ -726,9 +726,9 @@
       "ID": "Floppy",
       "SetID": "7jbi7el",
       "Name": "Additional Data",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 70,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "Fusses",
@@ -805,8 +805,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-08-24T13:10:29.2903902+00:00",
+  "LastChanged_Achievements": "2023-08-24T14:07:27.8873798+00:00",
   "LastUpdate_AppInfo": "2023-08-22T18:57:00.7116692+00:00",
-  "LastUpdate_Ratings": "2023-08-24T13:03:12.8650918+00:00",
-  "LastUpdate_Achievements": "2023-08-24T13:10:29.29042+00:00"
+  "LastUpdate_Ratings": "2023-08-24T13:59:35.6988542+00:00",
+  "LastUpdate_Achievements": "2023-08-24T14:07:27.8874129+00:00"
 }

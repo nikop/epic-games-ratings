@@ -1056,9 +1056,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 4841,
+  "EOS_Progressed": 4842,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8481,6 +8481,11 @@
       "Time": "2023-08-24T13:07:42.6339552+00:00",
       "NumProgressed": 4841,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-24T14:03:31.1002445+00:00",
+      "NumProgressed": 4842,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -8500,7 +8505,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "ACH_DOUBLEESCALATION",
@@ -8556,7 +8561,7 @@
       "Name": "Computer Says \u0022No\u0022",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "ACH_EP_CHOCOLATEFACTORY",
@@ -8580,7 +8585,7 @@
       "Name": "Beware The Betman",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "ACH_EP_PENULTIMOOFTHECARIBBEAN",
@@ -8644,7 +8649,7 @@
       "Name": "The Governator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 871
+      "UsersEstimate": 872
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -8652,7 +8657,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 3679
+      "UsersEstimate": 3680
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -8748,7 +8753,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2275
+      "UsersEstimate": 2276
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -8764,7 +8769,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1791
+      "UsersEstimate": 1792
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -8811,15 +8816,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 4841,
+      "Progressed": 4842,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-08-19T05:59:02.5104499+00:00",
-  "LastChanged_Achievements": "2023-08-24T13:07:42.6339544+00:00",
+  "LastChanged_Achievements": "2023-08-24T14:03:31.100244+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:05.8526024+00:00",
-  "LastUpdate_Ratings": "2023-08-24T13:02:50.5029414+00:00",
-  "LastUpdate_Achievements": "2023-08-24T13:07:42.6340873+00:00"
+  "LastUpdate_Ratings": "2023-08-24T13:59:01.2683033+00:00",
+  "LastUpdate_Achievements": "2023-08-24T14:03:31.100351+00:00"
 }

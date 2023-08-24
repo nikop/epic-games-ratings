@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 476,
+  "EOS_Progressed": 478,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 432,
+  "EOS_NewPlayers": 434,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -886,6 +886,11 @@
       "Time": "2023-08-24T13:08:47.6704771+00:00",
       "NumProgressed": 476,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-24T14:05:05.1272346+00:00",
+      "NumProgressed": 478,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -904,9 +909,9 @@
       "ID": "_02_FinishFirstMission",
       "SetID": "8a1io5d",
       "Name": "A New Journey",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 352
+      "UsersEstimate": 349
     },
     {
       "ID": "_03_FinishAct1",
@@ -914,7 +919,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -954,7 +959,7 @@
       "Name": "Swabbie",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "_09_Completion_20",
@@ -968,9 +973,9 @@
       "ID": "_10_Completion_30",
       "SetID": "8a1io5d",
       "Name": "Buccaneer",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 48
     },
     {
       "ID": "_11_Completion_40",
@@ -1072,9 +1077,9 @@
       "ID": "_23_CrewTale_CNN",
       "SetID": "8a1io5d",
       "Name": "Lyrical Longing",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 19
     },
     {
       "ID": "_24_CrewTale_SNP",
@@ -1105,14 +1110,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 476,
+      "Progressed": 478,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-24T13:08:47.6704762+00:00",
+  "LastChanged_Achievements": "2023-08-24T14:05:05.1272337+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:01.7621403+00:00",
-  "LastUpdate_Ratings": "2023-08-24T13:04:25.2326279+00:00",
-  "LastUpdate_Achievements": "2023-08-24T13:08:47.6705166+00:00"
+  "LastUpdate_Ratings": "2023-08-24T14:01:27.1257377+00:00",
+  "LastUpdate_Achievements": "2023-08-24T14:05:05.1272612+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1878,7 +1878,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25309,
+  "EOS_Progressed": 25310,
   "EOS_Completed": 52,
   "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
@@ -11178,6 +11178,11 @@
       "Time": "2023-08-24T11:03:30.090513+00:00",
       "NumProgressed": 25309,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-08-24T14:03:29.2660326+00:00",
+      "NumProgressed": 25310,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 51,
@@ -11189,7 +11194,7 @@
       "Name": "Advancement",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 18222
+      "UsersEstimate": 18223
     },
     {
       "ID": "Animated",
@@ -11213,7 +11218,7 @@
       "Name": "We have the best insurance",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 6580
+      "UsersEstimate": 6581
     },
     {
       "ID": "Catostrophic_Destroyer",
@@ -11269,7 +11274,7 @@
       "Name": "Diabolical",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 4049
+      "UsersEstimate": 4050
     },
     {
       "ID": "Discovery",
@@ -11277,7 +11282,7 @@
       "Name": "Discovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 15438
+      "UsersEstimate": 15439
     },
     {
       "ID": "Dont_Need_These",
@@ -11357,7 +11362,7 @@
       "Name": "Legions",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 6580
+      "UsersEstimate": 6581
     },
     {
       "ID": "Liability",
@@ -11405,7 +11410,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6327
+      "UsersEstimate": 6328
     },
     {
       "ID": "Reckless",
@@ -11437,7 +11442,7 @@
       "Name": "Right back at ya",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 6580
+      "UsersEstimate": 6581
     },
     {
       "ID": "Rivalry",
@@ -11453,7 +11458,7 @@
       "Name": "Seasoned",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 4049
+      "UsersEstimate": 4050
     },
     {
       "ID": "Side_Hustle",
@@ -11461,7 +11466,7 @@
       "Name": "Side Hustle",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 6833
+      "UsersEstimate": 6834
     },
     {
       "ID": "Skilled",
@@ -11485,7 +11490,7 @@
       "Name": "Stunner",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6327
+      "UsersEstimate": 6328
     },
     {
       "ID": "Stylish",
@@ -11493,7 +11498,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 21766
+      "UsersEstimate": 21767
     },
     {
       "ID": "Summoner",
@@ -11501,7 +11506,7 @@
       "Name": "Summoner",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 6580
+      "UsersEstimate": 6581
     },
     {
       "ID": "Surprise",
@@ -11573,7 +11578,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 12148
+      "UsersEstimate": 12149
     },
     {
       "ID": "Welcome_Crew",
@@ -11596,7 +11601,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25309,
+      "Progressed": 25310,
       "Completed": 52
     }
   ],
@@ -11604,8 +11609,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-08-20T20:00:34.3047121+00:00",
-  "LastChanged_Achievements": "2023-08-24T13:07:41.2673073+00:00",
+  "LastChanged_Achievements": "2023-08-24T14:03:29.2660319+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:37.9111082+00:00",
-  "LastUpdate_Ratings": "2023-08-24T13:07:05.993231+00:00",
-  "LastUpdate_Achievements": "2023-08-24T13:07:41.2674827+00:00"
+  "LastUpdate_Ratings": "2023-08-24T14:02:37.0852735+00:00",
+  "LastUpdate_Achievements": "2023-08-24T14:03:29.2661487+00:00"
 }

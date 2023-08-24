@@ -1647,9 +1647,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13542,
+  "EOS_Progressed": 13543,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10167,6 +10167,11 @@
       "Time": "2023-08-24T06:06:13.4761376+00:00",
       "NumProgressed": 13542,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-24T14:07:42.9352775+00:00",
+      "NumProgressed": 13543,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -12040,9 +12045,9 @@
       "ID": "ACHIEVEMENT_RELIGION_ZOROASTRIANISM",
       "SetID": "7l38kb8",
       "Name": "Zoroastrianism",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 271
     },
     {
       "ID": "ACHIEVEMENT_RHODES_COLOSSUS",
@@ -12545,21 +12550,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13542,
+      "Progressed": 13543,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13542,
+      "Progressed": 13543,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-24T04:00:31.5764786+00:00",
-  "LastChanged_Achievements": "2023-08-24T13:10:39.649485+00:00",
+  "LastChanged_Achievements": "2023-08-24T14:07:42.935277+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:59.678182+00:00",
-  "LastUpdate_Ratings": "2023-08-24T13:04:22.8276459+00:00",
-  "LastUpdate_Achievements": "2023-08-24T13:10:39.6511295+00:00"
+  "LastUpdate_Ratings": "2023-08-24T14:01:23.3030911+00:00",
+  "LastUpdate_Achievements": "2023-08-24T14:07:42.9362012+00:00"
 }

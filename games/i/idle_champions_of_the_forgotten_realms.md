@@ -16,7 +16,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Ring of Regeneration | 0.30% | ~674 |
 | Seeking Allies | 0.30% | ~674 |
 | Are Ya Chicken? | 0.30% | ~674 |
-| The Chaotic Hunt for The Last Breath | 0.30% | ~572 |
+| The Chaotic Hunt for The Last Breath | 0.30% | ~573 |
 | Maddening | 0.20% | ~449 |
 | Tall Tales | 0.20% | ~382 |
 | The Witchlight Carnival | 0.20% | ~382 |
@@ -56,6 +56,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mad Cow Disease | 0.20% | ~449 |
 | Exploring Port Nyanzaru | 0.20% | ~449 |
 | A Tale of Two Cities | 0.20% | ~449 |
+| The Dead Three | 0.20% | ~449 |
 | The Darkness Runs Deeper | 0.20% | ~449 |
 | Running of the Saurs | 0.20% | ~449 |
 | The Contagious Curse | 0.20% | ~449 |
@@ -298,7 +299,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Tale of Two Fiends | 0.10% | ~225 |
 | A Tale of Two Champions | 0.10% | ~225 |
 | A Tale of Two Years | 0.10% | ~191 |
-| The Dead Three | 0.10% | ~225 |
 | Slow and Steady | 0.10% | ~225 |
 | A Hero's Entourage | 0.10% | ~225 |
 | Sneak Attack | 0.10% | ~191 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~191 |
 | Animated Giff | 0.10% | ~191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,549 (Ranked 53)  
+Progressed: 224,561 (Ranked 53)  
 Completed: 2,210 (0.98%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -649,7 +649,7 @@ Completed: 2,210 (0.98%) (Ranked 121)
 | 2023-08-21 | 223,996 | 2,203 |
 | 2023-08-22 | 224,213 | 2,207 |
 | 2023-08-23 | 224,434 | 2,210 |
-| 2023-08-24 | 224,549 | 2,210 |
+| 2023-08-24 | 224,561 | 2,210 |
 ## Awards
 Max (Diverse Characters): 5,179  (Ranked 68)  
 Sum: 31,186 (Ranked 39)  

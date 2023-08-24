@@ -6,48 +6,48 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,739,418 |
-| Easy to forget | 46.00% | ~1,632,923 |
-| Back in the black | 39.00% | ~1,384,435 |
-| That's what I'm talking about | 28.00% | ~993,953 |
-| The Best of Both Worlds | 25.00% | ~887,458 |
-| Get your wings | 20.00% | ~709,967 |
-| Double trouble | 16.00% | ~567,973 |
-| Smashing it | 10.00% | ~354,983 |
-| But can it run Crysis? | 9.00% | ~319,485 |
-| My favourite feature... | 9.00% | ~319,485 |
-| From humble beginnings... | 7.00% | ~248,488 |
-| Customer satisfaction | 7.00% | ~248,488 |
-| Keeping things neat | 4.00% | ~141,993 |
-| Seems you're pretty good at this | 4.00% | ~141,993 |
-| Bending over backwards | 4.00% | ~141,993 |
-| Triple threat | 3.00% | ~106,495 |
-| You rock at this! | 3.00% | ~106,495 |
-| Your music sucks | 3.00% | ~106,495 |
+| You need to plug it in... | 49.00% | ~1,739,428 |
+| Easy to forget | 46.00% | ~1,632,933 |
+| Back in the black | 39.00% | ~1,384,443 |
+| That's what I'm talking about | 28.00% | ~993,959 |
+| The Best of Both Worlds | 25.00% | ~887,464 |
+| Get your wings | 20.00% | ~709,971 |
+| Double trouble | 16.00% | ~567,977 |
+| Smashing it | 10.00% | ~354,985 |
+| But can it run Crysis? | 9.00% | ~319,487 |
+| My favourite feature... | 9.00% | ~319,487 |
+| From humble beginnings... | 7.00% | ~248,490 |
+| Customer satisfaction | 7.00% | ~248,490 |
+| Keeping things neat | 4.00% | ~141,994 |
+| Seems you're pretty good at this | 4.00% | ~141,994 |
+| Bending over backwards | 4.00% | ~141,994 |
+| Triple threat | 3.00% | ~106,496 |
+| You rock at this! | 3.00% | ~106,496 |
+| Your music sucks | 3.00% | ~106,496 |
 | I'm broke, Uncle! | 2.00% | ~70,997 |
 | Maybe you should try something else? | 2.00% | ~70,997 |
 | Taking care of business | 2.00% | ~70,997 |
 | Perfection | 2.00% | ~70,997 |
 | Calling in Sick | 2.00% | ~70,997 |
-| Overvolted | 1.00% | ~35,498 |
-| If you fail the first time... | 1.00% | ~35,498 |
-| Amazonian | 1.00% | ~35,498 |
-| Things are under control | 1.00% | ~35,498 |
-| The Stuart Morton Award for Purpleness | 1.00% | ~35,498 |
-| Building isn't cheap! | 1.00% | ~35,498 |
-| Majority Shareholder | 1.00% | ~35,498 |
-| Owner | 1.00% | ~35,498 |
-| Show off | 0.90% | ~31,948 |
+| Overvolted | 1.00% | ~35,499 |
+| If you fail the first time... | 1.00% | ~35,499 |
+| Amazonian | 1.00% | ~35,499 |
+| Things are under control | 1.00% | ~35,499 |
+| The Stuart Morton Award for Purpleness | 1.00% | ~35,499 |
+| Building isn't cheap! | 1.00% | ~35,499 |
+| Majority Shareholder | 1.00% | ~35,499 |
+| Owner | 1.00% | ~35,499 |
+| Show off | 0.90% | ~31,949 |
 | Work ethic 101 | 0.70% | ~24,849 |
 | Building momentum | 0.60% | ~21,299 |
 | Lead by example | 0.60% | ~21,299 |
 | Treat yourself - RAM | 0.50% | ~17,749 |
-| So you're the reason why the prices are so high? | 0.30% | ~10,649 |
-| Mr big business | 0.30% | ~10,649 |
-| Mister Big | 0.30% | ~10,649 |
-| Getting your feet wet | 0.30% | ~10,649 |
-| Customer's ALWAYS right. | 0.30% | ~10,649 |
-| Treat yourself - CPU | 0.30% | ~10,649 |
+| So you're the reason why the prices are so high? | 0.30% | ~10,650 |
+| Mr big business | 0.30% | ~10,650 |
+| Mister Big | 0.30% | ~10,650 |
+| Getting your feet wet | 0.30% | ~10,650 |
+| Customer's ALWAYS right. | 0.30% | ~10,650 |
+| Treat yourself - CPU | 0.30% | ~10,650 |
 | 1920x1080 | 0.20% | ~7,100 |
 | Blow 'em away | 0.20% | ~7,100 |
 | Hasta La Vista, Baby. | 0.10% | ~3,550 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,550 |
 | Treat yourself - GPU | 0.10% | ~3,550 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,549,833 (Ranked 5)  
+Progressed: 3,549,854 (Ranked 5)  
 Completed: 33 (0.00%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 33 (0.00%) (Ranked 262)
 | 2023-08-21 | 3,548,885 | 32 |
 | 2023-08-22 | 3,549,263 | 32 |
 | 2023-08-23 | 3,549,631 | 33 |
-| 2023-08-24 | 3,549,833 | 33 |
+| 2023-08-24 | 3,549,854 | 33 |
 ## Awards
 Max (Great for Beginners): 1,061  (Ranked 141)  
 Sum: 7,949 (Ranked 100)  

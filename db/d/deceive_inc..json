@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17608,
+  "EOS_Progressed": 17610,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8946,6 +8946,11 @@
       "Time": "2023-08-24T13:10:13.7294342+00:00",
       "NumProgressed": 17608,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-24T14:07:06.3166539+00:00",
+      "NumProgressed": 17610,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -8957,7 +8962,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5106
+      "UsersEstimate": 5107
     },
     {
       "ID": "0002",
@@ -8973,7 +8978,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2993
+      "UsersEstimate": 2994
     },
     {
       "ID": "0004",
@@ -8981,7 +8986,7 @@
       "Name": "Security Supervisor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1056
+      "UsersEstimate": 1057
     },
     {
       "ID": "0005",
@@ -9013,7 +9018,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3169
+      "UsersEstimate": 3170
     },
     {
       "ID": "0009",
@@ -9045,7 +9050,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2817
+      "UsersEstimate": 2818
     },
     {
       "ID": "0013",
@@ -9061,7 +9066,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2993
+      "UsersEstimate": 2994
     },
     {
       "ID": "0015",
@@ -9149,7 +9154,7 @@
       "Name": "Tailor-Made",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3169
+      "UsersEstimate": 3170
     },
     {
       "ID": "0026",
@@ -9189,7 +9194,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3169
+      "UsersEstimate": 3170
     },
     {
       "ID": "0031",
@@ -9203,9 +9208,9 @@
       "ID": "0032",
       "SetID": "2n2feee",
       "Name": "Killer Looks",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2113
+      "UsersEstimate": 1937
     },
     {
       "ID": "0033",
@@ -9244,7 +9249,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17608,
+      "Progressed": 17610,
       "Completed": 1
     }
   ],
@@ -9252,8 +9257,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-12T19:04:41.1874293+00:00",
-  "LastChanged_Achievements": "2023-08-24T13:10:13.7294336+00:00",
+  "LastChanged_Achievements": "2023-08-24T14:07:06.3166533+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:28.6624095+00:00",
-  "LastUpdate_Ratings": "2023-08-24T13:02:13.6323147+00:00",
-  "LastUpdate_Achievements": "2023-08-24T13:10:13.7295203+00:00"
+  "LastUpdate_Ratings": "2023-08-24T13:58:09.1746683+00:00",
+  "LastUpdate_Achievements": "2023-08-24T14:07:06.3168639+00:00"
 }

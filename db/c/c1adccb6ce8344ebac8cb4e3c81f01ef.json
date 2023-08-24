@@ -3,8 +3,8 @@
   "Name": "Evalina The Sorceress",
   "ProductSlug": "evalinathe-sorceress-a9a60a",
   "Ranking_EOS_Progress": 295,
-  "Ranking_EOS_Completed": 76,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_Completed": 77,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-06-20T08:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 203,
+  "EOS_Progressed": 205,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.96,
+  "EOS_Completed_Percentage": 2.93,
   "EosHistory": [
     {
       "Time": "2023-06-26T21:03:11.1861868+00:00",
@@ -771,6 +771,11 @@
       "Time": "2023-08-24T13:07:25.5072607+00:00",
       "NumProgressed": 203,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-08-24T14:03:07.0632662+00:00",
+      "NumProgressed": 205,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-06-26T21:03:11.1861911+00:00",
@@ -791,7 +796,7 @@
       "Name": "Blue Skeleton",
       "Percentage": 11,
       "XP": 200,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "GreenSkeleton",
@@ -805,39 +810,39 @@
       "ID": "OrangeSkeleton",
       "SetID": "a76l54k",
       "Name": "Orange Skeleton",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 79
+      "UsersEstimate": 82
     },
     {
       "ID": "RedSkeleton",
       "SetID": "a76l54k",
       "Name": "Red Skeleton",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 100,
-      "UsersEstimate": 116
+      "UsersEstimate": 119
     },
     {
       "ID": "YellowSkeleton",
       "SetID": "a76l54k",
       "Name": "Yellow Skeleton",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 200,
-      "UsersEstimate": 30
+      "UsersEstimate": 33
     }
   ],
   "AchievementSets": [
     {
       "ID": "a76l54k",
       "IsBase": true,
-      "Progressed": 203,
+      "Progressed": 205,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-06-27T08:56:55.4742028+00:00",
   "FirstSeenAchievements": "2023-06-15T10:01:05.3060571+00:00",
-  "LastChanged_Achievements": "2023-08-24T13:07:25.5072599+00:00",
+  "LastChanged_Achievements": "2023-08-24T14:03:07.0632656+00:00",
   "LastUpdate_AppInfo": "2023-08-17T16:57:04.8692302+00:00",
-  "LastUpdate_Ratings": "2023-08-24T13:03:20.9102376+00:00",
-  "LastUpdate_Achievements": "2023-08-24T13:07:25.5072797+00:00"
+  "LastUpdate_Ratings": "2023-08-24T13:59:44.7978629+00:00",
+  "LastUpdate_Achievements": "2023-08-24T14:03:07.0632783+00:00"
 }

@@ -6046,10 +6046,10 @@
       "Count": 3366
     }
   ],
-  "EOS_Progressed": 224549,
+  "EOS_Progressed": 224561,
   "EOS_Completed": 2210,
-  "EOS_NewPlayers": 1857,
-  "EOS_NewCompleters": 22,
+  "EOS_NewPlayers": 1853,
+  "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -19821,6 +19821,11 @@
       "Time": "2023-08-24T13:10:46.0212133+00:00",
       "NumProgressed": 224549,
       "NumCompleted": 2210
+    },
+    {
+      "Time": "2023-08-24T14:07:52.5781511+00:00",
+      "NumProgressed": 224561,
+      "NumCompleted": 2210
     }
   ],
   "TotalAchievements": 516,
@@ -22014,9 +22019,9 @@
       "ID": "objective_completed_545",
       "SetID": "cc37lbc",
       "Name": "The Dead Three",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 449
     },
     {
       "ID": "objective_completed_546",
@@ -23936,7 +23941,7 @@
       "Name": "The Chaotic Hunt for The Last Breath",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "objective_completed_1400",
@@ -23959,21 +23964,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 190823,
+      "Progressed": 190835,
       "Completed": 3301
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 224549,
+      "Progressed": 224561,
       "Completed": 2210
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-24T08:00:27.9495742+00:00",
-  "LastChanged_Achievements": "2023-08-24T13:10:46.0212129+00:00",
+  "LastChanged_Achievements": "2023-08-24T14:07:52.5781505+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:12.3267162+00:00",
-  "LastUpdate_Ratings": "2023-08-24T13:04:33.1060736+00:00",
-  "LastUpdate_Achievements": "2023-08-24T13:10:46.0240875+00:00"
+  "LastUpdate_Ratings": "2023-08-24T14:01:38.9492388+00:00",
+  "LastUpdate_Achievements": "2023-08-24T14:07:52.5814031+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 331,
+  "EOS_Progressed": 332,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -857,6 +857,11 @@
       "Time": "2023-08-23T20:05:10.9566674+00:00",
       "NumProgressed": 331,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-24T14:06:56.1866977+00:00",
+      "NumProgressed": 332,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -868,7 +873,7 @@
       "Name": "First 100 Days",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ach_ada",
@@ -1012,7 +1017,7 @@
       "Name": "Upgrade Unlock",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ach_consultants_a",
@@ -1076,7 +1081,7 @@
       "Name": "Proper Walls",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ach_drones",
@@ -1196,15 +1201,15 @@
       "Name": "Water Features",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ach_grime",
       "SetID": "b8gh1fi",
       "Name": "Grime is Not Good",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 162
+      "UsersEstimate": 159
     },
     {
       "ID": "ach_grime_1",
@@ -1260,7 +1265,7 @@
       "Name": "28 Days Later",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ach_office_1",
@@ -1268,7 +1273,7 @@
       "Name": "It\u0027s Technical",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ach_office_2",
@@ -1306,9 +1311,9 @@
       "ID": "ach_prestige_1",
       "SetID": "b8gh1fi",
       "Name": "Your Prestige is Rising",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 76
     },
     {
       "ID": "ach_prestige_2",
@@ -1332,7 +1337,7 @@
       "Name": "In the Black",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ach_profit_1",
@@ -1340,7 +1345,7 @@
       "Name": "Swimming in Surplus",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ach_profit_2",
@@ -1412,15 +1417,15 @@
       "Name": "Retail Revenue",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ach_retail_2",
       "SetID": "b8gh1fi",
       "Name": "Emporium Empire",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 66
     },
     {
       "ID": "ach_retail_3",
@@ -1532,7 +1537,7 @@
       "Name": "Phoning It In",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ach_util_power",
@@ -1571,7 +1576,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 331,
+      "Progressed": 332,
       "Completed": 0
     }
   ],
@@ -1579,8 +1584,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-08-24T13:10:06.349453+00:00",
+  "LastChanged_Achievements": "2023-08-24T14:06:56.1866969+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:02.7017252+00:00",
-  "LastUpdate_Ratings": "2023-08-24T13:04:24.7604155+00:00",
-  "LastUpdate_Achievements": "2023-08-24T13:10:06.3496469+00:00"
+  "LastUpdate_Ratings": "2023-08-24T14:01:26.4013108+00:00",
+  "LastUpdate_Achievements": "2023-08-24T14:06:56.1868172+00:00"
 }

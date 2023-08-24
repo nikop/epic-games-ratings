@@ -6,23 +6,23 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,801 |
-| keep it tidy | 77.00% | ~7,861 |
-| podium | 72.00% | ~7,350 |
-| medium attack | 60.00% | ~6,125 |
-| brail | 57.00% | ~5,819 |
-| good drivers have dead flies on the side windows | 42.00% | ~4,288 |
+| light attack | 96.00% | ~9,803 |
+| keep it tidy | 77.00% | ~7,862 |
+| podium | 72.00% | ~7,352 |
+| medium attack | 60.00% | ~6,127 |
+| brail | 57.00% | ~5,820 |
+| good drivers have dead flies on the side windows | 42.00% | ~4,289 |
 | grocery-getter | 39.00% | ~3,982 |
-| rwd only | 26.00% | ~2,654 |
-| food tour: pasta | 26.00% | ~2,654 |
+| rwd only | 26.00% | ~2,655 |
+| food tour: pasta | 26.00% | ~2,655 |
 | to finish first, first you must finish | 21.00% | ~2,144 |
 | autopilot | 21.00% | ~2,144 |
 | you can't treat a car like a human being. a car requires love | 21.00% | ~2,144 |
 | turbo | 20.00% | ~2,042 |
 | food tour: pretzel | 19.00% | ~1,940 |
-| bicycle race | 15.00% | ~1,531 |
-| car wash | 14.00% | ~1,429 |
-| monster | 14.00% | ~1,429 |
+| bicycle race | 15.00% | ~1,532 |
+| car wash | 14.00% | ~1,430 |
+| monster | 14.00% | ~1,430 |
 | perkele | 13.00% | ~1,327 |
 | night ride | 13.00% | ~1,327 |
 | the artist | 13.00% | ~1,327 |
@@ -40,8 +40,8 @@ Number of Ratings: 56  (23.09.2022)
 | parking lot | 6.00% | ~613 |
 | oktoberfest | 6.00% | ~613 |
 | in like a lamb, out like a lion | 6.00% | ~613 |
-| group b | 5.00% | ~510 |
-| if in doubt, flat out! | 5.00% | ~510 |
+| group b | 5.00% | ~511 |
+| if in doubt, flat out! | 5.00% | ~511 |
 | comfy seats | 4.00% | ~408 |
 | simulator | 3.00% | ~306 |
 | real roads, real fast | 2.00% | ~204 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~41 |
 | barely keeping it together | 0.30% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,209 (Ranked 122)  
+Progressed: 10,211 (Ranked 122)  
 Completed: 9 (0.09%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,6 +144,7 @@ Completed: 9 (0.09%) (Ranked 214)
 | 2023-08-19 | 10,206 | 9 |
 | 2023-08-20 | 10,207 | 9 |
 | 2023-08-21 | 10,209 | 9 |
+| 2023-08-24 | 10,211 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

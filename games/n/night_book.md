@@ -8,8 +8,8 @@
 | No One Is Safe | 65.00% | ~139 |
 | Career Woman | 64.00% | ~137 |
 | He's Off His Meds | 56.00% | ~120 |
+| Personal Life | 50.00% | ~107 |
 | Deal Or No Deal | 49.00% | ~105 |
-| Personal Life | 49.00% | ~105 |
 | Impress Theron | 45.00% | ~96 |
 | On Your Bike | 31.00% | ~66 |
 | Save Dad | 21.00% | ~45 |
