@@ -5,17 +5,17 @@ Rating: 4.58 (Ranked 427)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 29.00% | ~5,108 |
-| Mainframe Hacker | 23.00% | ~4,051 |
-| The Spy who eliminated me | 23.00% | ~4,051 |
-| Tomorrow Never Dyes | 22.00% | ~3,875 |
+| On Deceive Inc.'s Secret Service | 29.00% | ~5,109 |
+| Mainframe Hacker | 23.00% | ~4,052 |
+| The Spy who eliminated me | 23.00% | ~4,052 |
+| Tomorrow Never Dyes | 22.00% | ~3,876 |
 | Never Say Loser Again | 19.00% | ~3,347 |
 | From the Vault with Love | 18.00% | ~3,171 |
 | Tailor-Made | 18.00% | ~3,171 |
 | For your Eyes only | 18.00% | ~3,171 |
 | Assistant Accountant | 17.00% | ~2,995 |
 | Fully Decked Out | 17.00% | ~2,995 |
-| You Only Live Twice | 16.00% | ~2,818 |
+| You Only Live Twice | 16.00% | ~2,819 |
 | A view to Win | 13.00% | ~2,290 |
 | The Living Portrait | 12.00% | ~2,114 |
 | Private Collection | 12.00% | ~2,114 |
@@ -28,9 +28,9 @@ Rating: 4.58 (Ranked 427)
 | In It to Win It | 10.00% | ~1,762 |
 | Security Supervisor | 6.00% | ~1,057 |
 | License to Thrill | 5.00% | ~881 |
-| Social of Solace | 3.00% | ~528 |
-| Live and let lie | 3.00% | ~528 |
-| Safe Withdrawal | 3.00% | ~528 |
+| Social of Solace | 3.00% | ~529 |
+| Live and let lie | 3.00% | ~529 |
+| Safe Withdrawal | 3.00% | ~529 |
 | Branch Manager | 2.00% | ~352 |
 | Call Me Maybe | 2.00% | ~352 |
 | PHD in VIP | 2.00% | ~352 |
@@ -42,8 +42,8 @@ Rating: 4.58 (Ranked 427)
 | Extraction Confusion | 0.20% | ~35 |
 | Spyfall | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,615 (Ranked 110)  
-Completed: 1 (0.01%) (Ranked 249)  
+Progressed: 17,617 (Ranked 111)  
+Completed: 1 (0.01%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -168,7 +168,7 @@ Completed: 1 (0.01%) (Ranked 249)
 | 2023-08-21 | 17,540 | 1 |
 | 2023-08-22 | 17,562 | 1 |
 | 2023-08-23 | 17,592 | 1 |
-| 2023-08-24 | 17,615 | 1 |
+| 2023-08-24 | 17,617 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

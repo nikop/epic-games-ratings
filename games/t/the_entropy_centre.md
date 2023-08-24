@@ -33,7 +33,7 @@
 | So, this is the End? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 247 (Ranked 281)  
-Completed: 0 (0.00%) (Ranked 262)  
+Completed: 0 (0.00%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6008,11 +6008,17 @@
       "Rating": 4.06,
       "NumberOfAwards": 31193,
       "NumberOfAwardsMax": 5179
+    },
+    {
+      "Time": "2023-08-24T19:01:40.5386962+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 31196,
+      "NumberOfAwardsMax": 5182
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31193,
-  "NumberOfAwardsMax": 5179,
+  "NumberOfAwards": 31196,
+  "NumberOfAwardsMax": 5182,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -6025,7 +6031,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5179
+      "Count": 5182
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6058,9 +6064,9 @@
       "Count": 3366
     }
   ],
-  "EOS_Progressed": 224617,
+  "EOS_Progressed": 224636,
   "EOS_Completed": 2210,
-  "EOS_NewPlayers": 1843,
+  "EOS_NewPlayers": 1849,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -19858,6 +19864,11 @@
       "Time": "2023-08-24T18:07:01.6772915+00:00",
       "NumProgressed": 224617,
       "NumCompleted": 2210
+    },
+    {
+      "Time": "2023-08-24T19:08:04.905817+00:00",
+      "NumProgressed": 224636,
+      "NumCompleted": 2210
     }
   ],
   "TotalAchievements": 516,
@@ -19869,7 +19880,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4492
+      "UsersEstimate": 4493
     },
     {
       "ID": "objective_completed_10",
@@ -21549,7 +21560,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 898
+      "UsersEstimate": 899
     },
     {
       "ID": "objective_completed_35",
@@ -23013,7 +23024,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 898
+      "UsersEstimate": 899
     },
     {
       "ID": "objective_completed_70",
@@ -23965,7 +23976,7 @@
       "Name": "The Hunt for The Last Breath",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 954
+      "UsersEstimate": 955
     },
     {
       "ID": "objective_completed_1396",
@@ -23996,21 +24007,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 190891,
+      "Progressed": 190910,
       "Completed": 3302
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 224617,
+      "Progressed": 224636,
       "Completed": 2210
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-08-24T17:01:43.0139153+00:00",
-  "LastChanged_Achievements": "2023-08-24T18:07:01.6772909+00:00",
+  "LastChanged": "2023-08-24T19:01:40.538696+00:00",
+  "LastChanged_Achievements": "2023-08-24T19:08:04.9058165+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:12.3267162+00:00",
-  "LastUpdate_Ratings": "2023-08-24T18:01:01.3739202+00:00",
-  "LastUpdate_Achievements": "2023-08-24T18:07:01.6797176+00:00"
+  "LastUpdate_Ratings": "2023-08-24T19:01:40.5386968+00:00",
+  "LastUpdate_Achievements": "2023-08-24T19:08:04.9091197+00:00"
 }

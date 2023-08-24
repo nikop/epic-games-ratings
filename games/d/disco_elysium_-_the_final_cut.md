@@ -6,32 +6,32 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~35,482 |
-| Biggest Communism Builder | 24.00% | ~30,413 |
-| The World's Most Laughable Centrist | 20.00% | ~25,344 |
-| Il Coppo Del'Arte! | 18.00% | ~22,810 |
+| Goodest Of The Good Cops | 28.00% | ~35,483 |
+| Biggest Communism Builder | 24.00% | ~30,414 |
+| The World's Most Laughable Centrist | 20.00% | ~25,345 |
+| Il Coppo Del'Arte! | 18.00% | ~22,811 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,276 |
 | Hyperstellar Law Official | 16.00% | ~20,276 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~17,741 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~17,742 |
+| Gurdi-Ball Is Lit | 14.00% | ~17,742 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~16,474 |
-| Gurdi-Ball Is Lit | 13.00% | ~16,474 |
-| Truly Rabid *Traditionalist* | 11.00% | ~13,939 |
+| Truly Rabid *Traditionalist* | 11.00% | ~13,940 |
 | Unbelievably Boring **** | 9.00% | ~11,405 |
 | The Figurines Won't Win Her Back | 9.00% | ~11,405 |
 | Enemy Of The Physical Realm | 8.00% | ~10,138 |
-| Hardie's Heroes | 6.00% | ~7,603 |
+| Hardie's Heroes | 6.00% | ~7,604 |
 | The Lawbringer | 4.00% | ~5,069 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,069 |
 | The Opener Of The Eighth Seal | 3.00% | ~3,802 |
 | Bother Kim After Hours | 3.00% | ~3,802 |
-| Baddest Of the Bad Cops | 2.00% | ~2,534 |
-| Expert Advanced Remote Viewer | 2.00% | ~2,534 |
-| Recruit Detective Kuuno de Ruyter | 2.00% | ~2,534 |
-| Wheel of Pleasure and Light | 2.00% | ~2,534 |
+| Baddest Of the Bad Cops | 2.00% | ~2,535 |
+| Expert Advanced Remote Viewer | 2.00% | ~2,535 |
+| Recruit Detective Kuuno de Ruyter | 2.00% | ~2,535 |
+| Wheel of Pleasure and Light | 2.00% | ~2,535 |
 | Massive Torque Dork | 1.00% | ~1,267 |
 | Avowed Inframaterialist | 1.00% | ~1,267 |
-| Committee of la Responsabilité | 0.90% | ~1,140 |
-| Real Musor | 0.90% | ~1,140 |
+| Committee of la Responsabilité | 0.90% | ~1,141 |
+| Real Musor | 0.90% | ~1,141 |
 | Baddest Brow in Town | 0.80% | ~1,014 |
 | Venture into the HARDCORE | 0.80% | ~1,014 |
 | Networthy Individual | 0.70% | ~887 |
@@ -47,8 +47,8 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~127 |
 | What body? | 0.10% | ~127 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,722 (Ranked 68)  
-Completed: 27 (0.02%) (Ranked 242)  
+Progressed: 126,726 (Ranked 68)  
+Completed: 27 (0.02%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -173,7 +173,7 @@ Completed: 27 (0.02%) (Ranked 242)
 | 2023-08-21 | 126,609 | 27 |
 | 2023-08-22 | 126,647 | 27 |
 | 2023-08-23 | 126,693 | 27 |
-| 2023-08-24 | 126,722 | 27 |
+| 2023-08-24 | 126,726 | 27 |
 ## Awards
 Max (Character Customization): 721  (Ranked 165)  
 Sum: 1,085 (Ranked 236)  

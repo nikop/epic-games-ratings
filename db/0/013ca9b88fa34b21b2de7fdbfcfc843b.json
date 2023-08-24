@@ -3,9 +3,9 @@
   "Name": "Fae Farm Pre-Purchase",
   "ProductSlug": "fae-farm",
   "Ranking_EOS_Progress": 427,
-  "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_Completed": 263,
+  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -112,9 +112,9 @@
       "ID": "CHAPTER_1_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Azoria Beckons",
-      "Percentage": 67,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -398,8 +398,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
-  "LastChanged_Achievements": "2023-08-24T18:06:44.1621631+00:00",
+  "LastChanged_Achievements": "2023-08-24T19:07:45.585676+00:00",
   "LastUpdate_AppInfo": "2023-08-18T02:10:12.1625637+00:00",
-  "LastUpdate_Ratings": "2023-08-24T17:59:48.2568787+00:00",
-  "LastUpdate_Achievements": "2023-08-24T18:06:44.1621851+00:00"
+  "LastUpdate_Ratings": "2023-08-24T19:00:16.2976751+00:00",
+  "LastUpdate_Achievements": "2023-08-24T19:07:45.585718+00:00"
 }

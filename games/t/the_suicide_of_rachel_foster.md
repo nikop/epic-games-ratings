@@ -6,12 +6,12 @@ Number of Ratings: 71  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| "Nice" to meet you | 76.00% | ~1,067 |
+| "Nice" to meet you | 77.00% | ~1,081 |
 | Freeze to death | 57.00% | ~800 |
 | Is she really dead? | 47.00% | ~660 |
 | Screwdriver | 45.00% | ~632 |
 | Cutepie | 42.00% | ~590 |
-| Someone was here | 41.00% | ~576 |
+| Someone was here | 42.00% | ~590 |
 | Ghost Hunters | 41.00% | ~576 |
 | Alone | 40.00% | ~562 |
 | Pack Rat | 40.00% | ~562 |

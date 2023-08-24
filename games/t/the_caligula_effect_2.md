@@ -42,7 +42,7 @@ Number of Ratings: 32  (23.09.2022)
 | The Part-Time Tyrant | 8.00% | ~19 |
 | Prince of Lettuce | 8.00% | ~19 |
 | Love, Loss, and the Omega Nebula | 8.00% | ~19 |
-| Songstress Unleashed | 6.00% | ~14 |
+| Songstress Unleashed | 7.00% | ~16 |
 | Executive Privilege | 6.00% | ~14 |
 | For the Love of Regret | 4.00% | ~9 |
 | Building Bridges | 3.00% | ~7 |

@@ -6,12 +6,12 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~4,492 |
+| A Brief Tour of the Realms | 2.00% | ~4,493 |
 | Beast Intentions | 0.60% | ~1,348 |
 | The Cursed Farmer | 0.60% | ~1,348 |
-| The Hunt for The Last Breath | 0.50% | ~954 |
-| The Ring of Regeneration | 0.40% | ~898 |
-| The Mad Wizard | 0.40% | ~898 |
+| The Hunt for The Last Breath | 0.50% | ~955 |
+| The Ring of Regeneration | 0.40% | ~899 |
+| The Mad Wizard | 0.40% | ~899 |
 | To Infinity's and Beyond | 0.40% | ~764 |
 | Were-verpowered | 0.30% | ~674 |
 | Seeking Allies | 0.30% | ~674 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~191 |
 | Animated Giff | 0.10% | ~191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,617 (Ranked 53)  
+Progressed: 224,636 (Ranked 53)  
 Completed: 2,210 (0.98%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -649,14 +649,14 @@ Completed: 2,210 (0.98%) (Ranked 121)
 | 2023-08-21 | 223,996 | 2,203 |
 | 2023-08-22 | 224,213 | 2,207 |
 | 2023-08-23 | 224,434 | 2,210 |
-| 2023-08-24 | 224,617 | 2,210 |
+| 2023-08-24 | 224,636 | 2,210 |
 ## Awards
-Max (Diverse Characters): 5,179  (Ranked 68)  
-Sum: 31,193 (Ranked 39)  
+Max (Diverse Characters): 5,182  (Ranked 68)  
+Sum: 31,196 (Ranked 39)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 5,179 |
+| This game has Diverse Characters | 5,182 |
 | This game is Great for Beginners | 5,144 |
 | This game has Quickly Understood Controls | 4,733 |
 | This game is Relaxing | 4,621 |
@@ -876,4 +876,4 @@ Diff (max vs sum): 29
 | 2023-08-21 | 4.06 | - | 5,176 | 31,155 |
 | 2023-08-22 | 4.06 | - | 5,176 | 31,169 |
 | 2023-08-23 | 4.06 | - | 5,179 | 31,183 |
-| 2023-08-24 | 4.06 | - | 5,179 | 31,193 |
+| 2023-08-24 | 4.06 | - | 5,182 | 31,196 |

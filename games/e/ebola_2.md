@@ -24,7 +24,7 @@
 | Saved the planet ✔ | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 248 (Ranked 280)  
-Completed: 0 (0.00%) (Ranked 262)  
+Completed: 0 (0.00%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

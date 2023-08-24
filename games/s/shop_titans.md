@@ -15,14 +15,14 @@ Number of Ratings: 12,664  (23.09.2022)
 | It's Free Real Estate | 0.90% | ~1,215 |
 | Another Satisfied Customer | 0.80% | ~1,080 |
 | Budding Merchant | 0.80% | ~1,080 |
+| Own the Means of Production | 0.80% | ~1,080 |
 | One Easy Payment | 0.70% | ~945 |
 | Some Assembly Required | 0.70% | ~945 |
 | Pretty Penny | 0.70% | ~945 |
-| Own the Means of Production | 0.70% | ~945 |
 | The Daily Grind | 0.60% | ~810 |
+| Bounty Hunters | 0.60% | ~810 |
 | One-Armed Bandit | 0.60% | ~810 |
 | Through Repetition, Perfection | 0.60% | ~810 |
-| Bounty Hunters | 0.50% | ~675 |
 | Demand for Supplies | 0.50% | ~675 |
 | Flooding the Market | 0.50% | ~675 |
 | Where it Hurts | 0.50% | ~675 |
@@ -30,6 +30,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Accomplished Merchant | 0.50% | ~675 |
 | Dungeon Imports | 0.50% | ~675 |
 | Did we pack lunch? | 0.50% | ~675 |
+| Arcane Industries | 0.50% | ~675 |
 | On the Path to Greatness | 0.40% | ~540 |
 | Ascended | 0.40% | ~540 |
 | Research & Development | 0.40% | ~540 |
@@ -42,7 +43,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Gem Expert | 0.40% | ~540 |
 | Helping Hand | 0.40% | ~540 |
 | Natural 20 | 0.40% | ~540 |
-| Arcane Industries | 0.40% | ~540 |
 | A Notch Above the Rest | 0.30% | ~405 |
 | Cream of the Crop | 0.30% | ~405 |
 | Above the Norm | 0.30% | ~405 |
@@ -51,6 +51,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | The King's Caprice | 0.30% | ~405 |
 | Big Game Hunting | 0.30% | ~405 |
 | For the Hoard! | 0.30% | ~405 |
+| Booty by the Boatload | 0.30% | ~405 |
 | Scrapbooker | 0.30% | ~405 |
 | Archivist | 0.30% | ~405 |
 | Locally Sourced | 0.30% | ~405 |
@@ -85,7 +86,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Proud Paladin | 0.20% | ~270 |
 | Constellated | 0.20% | ~270 |
 | Thirst for Knowledge | 0.20% | ~270 |
-| Booty by the Boatload | 0.20% | ~270 |
 | The Free Encyclopedia | 0.20% | ~270 |
 | Fillin' the Bin | 0.20% | ~270 |
 | Industrial Evolution | 0.20% | ~270 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~135 |
 | Cash Only Please | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,026 (Ranked 66)  
+Progressed: 135,029 (Ranked 66)  
 Completed: 138 (0.10%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,7 +245,7 @@ Completed: 138 (0.10%) (Ranked 210)
 | 2023-08-21 | 134,907 | 134 |
 | 2023-08-22 | 134,956 | 136 |
 | 2023-08-23 | 134,997 | 138 |
-| 2023-08-24 | 135,026 | 138 |
+| 2023-08-24 | 135,029 | 138 |
 ## Awards
 Max (Great for Beginners): 4,709  (Ranked 71)  
 Sum: 27,131 (Ranked 47)  

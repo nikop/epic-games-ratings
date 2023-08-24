@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 53,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
     "PcReleaseDate": "2020-02-19T00:00:00+00:00",
@@ -2326,17 +2326,17 @@
       "ID": "ACH_PrimoContattoIrving",
       "SetID": "7a9m7mj",
       "Name": "\u0022Nice\u0022 to meet you",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 100,
-      "UsersEstimate": 1067
+      "UsersEstimate": 1081
     },
     {
       "ID": "ACH_StanzaSegreta",
       "SetID": "7a9m7mj",
       "Name": "Someone was here",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 576
+      "UsersEstimate": 590
     },
     {
       "ID": "ACH_SussurriHotel",
@@ -2358,8 +2358,8 @@
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-08-04T14:01:27.152223+00:00",
-  "LastChanged_Achievements": "2023-08-24T18:04:27.8207054+00:00",
+  "LastChanged_Achievements": "2023-08-24T19:05:08.2089214+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:43.5353424+00:00",
-  "LastUpdate_Ratings": "2023-08-24T17:58:20.8097118+00:00",
-  "LastUpdate_Achievements": "2023-08-24T18:04:27.8207227+00:00"
+  "LastUpdate_Ratings": "2023-08-24T18:58:39.0420239+00:00",
+  "LastUpdate_Achievements": "2023-08-24T19:05:08.2089454+00:00"
 }

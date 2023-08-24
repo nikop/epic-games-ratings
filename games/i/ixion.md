@@ -59,12 +59,12 @@ Rating: 4.55 (Ranked 485)
 | This is Fine | 0.10% | ~3 |
 | Suburban Perfection | 0.10% | ~3 |
 | Scenic View | 0.10% | ~3 |
+| Drill-dozer | 0.10% | ~3 |
 | I Give You the Stars | 0.10% | ~1 |
 | Beyond Time and Space | 0.00% | ~0 |
-| Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,097 (Ranked 161)  
-Completed: 0 (0.00%) (Ranked 262)  
+Completed: 0 (0.00%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

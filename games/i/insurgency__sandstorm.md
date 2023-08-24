@@ -6,14 +6,14 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~21,800 |
-| Exploitative | 4.00% | ~17,440 |
-| Point Shooting | 4.00% | ~17,440 |
-| Wet Feet | 4.00% | ~17,440 |
-| High Speed Low Drag | 3.00% | ~13,080 |
-| Lucky | 3.00% | ~13,080 |
-| Stylin' | 3.00% | ~13,080 |
-| Turf War | 3.00% | ~13,080 |
+| Wallbanger | 5.00% | ~21,801 |
+| Exploitative | 4.00% | ~17,441 |
+| Point Shooting | 4.00% | ~17,441 |
+| Wet Feet | 4.00% | ~17,441 |
+| High Speed Low Drag | 3.00% | ~13,081 |
+| Lucky | 3.00% | ~13,081 |
+| Stylin' | 3.00% | ~13,081 |
+| Turf War | 3.00% | ~13,081 |
 | Banged | 2.00% | ~8,720 |
 | Checkpoint Victory | 2.00% | ~8,720 |
 | First Blood | 2.00% | ~8,720 |
@@ -42,8 +42,8 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~436 |
 | Road Hazard | 0.10% | ~436 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 436,001 (Ranked 38)  
-Completed: 2 (0.00%) (Ranked 262)  
+Progressed: 436,020 (Ranked 38)  
+Completed: 2 (0.00%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -168,10 +168,10 @@ Completed: 2 (0.00%) (Ranked 262)
 | 2023-08-21 | 435,171 | 2 |
 | 2023-08-22 | 435,458 | 2 |
 | 2023-08-23 | 435,771 | 2 |
-| 2023-08-24 | 436,001 | 2 |
+| 2023-08-24 | 436,020 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 376  (Ranked 223)  
-Sum: 2,921 (Ranked 166)  
+Sum: 2,922 (Ranked 166)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
@@ -179,8 +179,8 @@ Diff (max vs sum): 57
 | This game has Challenging Combat | 352 |
 | This game is Extremely Fun | 344 |
 | This game has Competitive Players | 340 |
+| This game has Realistic Visuals | 314 |
 | This game is Highly Recommended | 313 |
-| This game has Realistic Visuals | 313 |
 | This game has Amazing Storytelling | 307 |
 | This game has Amazing Characters | 305 |
 | This game has a Competitive Community | 271 |
@@ -402,4 +402,4 @@ Diff (max vs sum): 57
 | 2023-08-21 | 4.62 | - | 376 | 2,911 |
 | 2023-08-22 | 4.62 | - | 376 | 2,916 |
 | 2023-08-23 | 4.62 | - | 376 | 2,917 |
-| 2023-08-24 | 4.62 | - | 376 | 2,921 |
+| 2023-08-24 | 4.62 | - | 376 | 2,922 |

@@ -10,7 +10,7 @@ Rating: 4.43 (Ranked 663)
 | Aspiring Editor | 75.00% | ~1,030 |
 | Gun for Hire | 70.00% | ~961 |
 | I am the law! | 64.00% | ~879 |
-| Lumberjack | 53.00% | ~728 |
+| Lumberjack | 54.00% | ~741 |
 | Croaked | 49.00% | ~673 |
 | Limp Richard | 48.00% | ~659 |
 | Exorcist | 48.00% | ~659 |
@@ -29,7 +29,7 @@ Rating: 4.43 (Ranked 663)
 | Pushing Daisy | 32.00% | ~439 |
 | Experienced | 31.00% | ~426 |
 | Hold The Line | 30.00% | ~412 |
-| Endgame | 26.00% | ~357 |
+| Endgame | 27.00% | ~371 |
 | Savior | 26.00% | ~357 |
 | There Can Be Only One! | 26.00% | ~357 |
 | Chain Killer | 23.00% | ~316 |
@@ -58,7 +58,7 @@ Rating: 4.43 (Ranked 663)
 | Goaaaaal! | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,373 (Ranked 188)  
-Completed: 0 (0.00%) (Ranked 262)  
+Completed: 0 (0.00%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 67.00% | ~12 |
+| Azoria Beckons | 72.00% | ~13 |
 | A Thorny Situation | 56.00% | ~10 |
 | Calm Sailing | 44.00% | ~8 |
 | Break-Net Speed | 44.00% | ~8 |
@@ -41,7 +41,7 @@
 | Very Skilled | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 18 (Ranked 427)  
-Completed: 0 (0.00%) (Ranked 262)  
+Completed: 0 (0.00%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

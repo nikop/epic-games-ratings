@@ -4,7 +4,7 @@
   "ProductSlug": "100-doors-escape-from-prison-1e0ba3",
   "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 17,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-07-28T07:00:00+00:00",
@@ -597,9 +597,9 @@
       "ID": "ach_complete_tutorial",
       "SetID": "5e260i9",
       "Name": "Welcome aboard!",
-      "Percentage": 94,
+      "Percentage": 95,
       "XP": 80,
-      "UsersEstimate": 122
+      "UsersEstimate": 124
     },
     {
       "ID": "ach_hint_3",
@@ -676,8 +676,8 @@
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-08-24T18:04:01.6606239+00:00",
+  "LastChanged_Achievements": "2023-08-24T19:04:40.7968155+00:00",
   "LastUpdate_AppInfo": "2023-08-17T21:57:11.6878492+00:00",
-  "LastUpdate_Ratings": "2023-08-24T17:59:15.1509292+00:00",
-  "LastUpdate_Achievements": "2023-08-24T18:04:01.6606351+00:00"
+  "LastUpdate_Ratings": "2023-08-24T18:59:43.1155316+00:00",
+  "LastUpdate_Achievements": "2023-08-24T19:04:40.7968338+00:00"
 }

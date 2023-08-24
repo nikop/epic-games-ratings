@@ -6,9 +6,9 @@
   "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 67,
   "Ranking_EOS_Progress": 86,
-  "Ranking_EOS_Completed": 262,
+  "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -6639,9 +6639,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 59576,
+  "EOS_Progressed": 59580,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 519,
+  "EOS_NewPlayers": 518,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20009,6 +20009,11 @@
       "Time": "2023-08-24T18:06:02.9917214+00:00",
       "NumProgressed": 59576,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-24T19:07:02.8979099+00:00",
+      "NumProgressed": 59580,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -20020,7 +20025,7 @@
       "Name": "Against all odds",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 6553
+      "UsersEstimate": 6554
     },
     {
       "ID": "Apple of my eye",
@@ -20028,7 +20033,7 @@
       "Name": "Apple of my eye",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 8936
+      "UsersEstimate": 8937
     },
     {
       "ID": "Bannerlord",
@@ -20036,7 +20041,7 @@
       "Name": "Bannerlord",
       "Percentage": 22,
       "XP": 65,
-      "UsersEstimate": 13107
+      "UsersEstimate": 13108
     },
     {
       "ID": "Best served cold",
@@ -20180,7 +20185,7 @@
       "Name": "Horde breaker",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 13107
+      "UsersEstimate": 13108
     },
     {
       "ID": "I can do it",
@@ -20188,7 +20193,7 @@
       "Name": "I can do it",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8936
+      "UsersEstimate": 8937
     },
     {
       "ID": "I spit on your grave",
@@ -20212,7 +20217,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10128
+      "UsersEstimate": 10129
     },
     {
       "ID": "Kingslayer",
@@ -20244,7 +20249,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 19064
+      "UsersEstimate": 19066
     },
     {
       "ID": "Lawbringer",
@@ -20252,7 +20257,7 @@
       "Name": "Lawbringer",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 22639
+      "UsersEstimate": 22640
     },
     {
       "ID": "Lawmaker",
@@ -20260,7 +20265,7 @@
       "Name": "Lawmaker",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 13702
+      "UsersEstimate": 13703
     },
     {
       "ID": "Long live the Empire",
@@ -20276,7 +20281,7 @@
       "Name": "Mastery",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 4170
+      "UsersEstimate": 4171
     },
     {
       "ID": "Minor Clan",
@@ -20380,7 +20385,7 @@
       "Name": "This Is Our Land",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 6553
+      "UsersEstimate": 6554
     },
     {
       "ID": "This is Sparta",
@@ -20396,7 +20401,7 @@
       "Name": "Trained",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 13107
+      "UsersEstimate": 13108
     },
     {
       "ID": "Undercover",
@@ -20427,15 +20432,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 59576,
+      "Progressed": 59580,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-08-24T08:57:48.9091798+00:00",
-  "LastChanged_Achievements": "2023-08-24T18:06:02.9917206+00:00",
+  "LastChanged_Achievements": "2023-08-24T19:07:02.8979088+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:38.4249815+00:00",
-  "LastUpdate_Ratings": "2023-08-24T17:58:13.4482614+00:00",
-  "LastUpdate_Achievements": "2023-08-24T18:06:02.9918208+00:00"
+  "LastUpdate_Ratings": "2023-08-24T18:58:33.2151598+00:00",
+  "LastUpdate_Achievements": "2023-08-24T19:07:02.8981438+00:00"
 }

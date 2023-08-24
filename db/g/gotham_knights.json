@@ -2510,9 +2510,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 68013,
+  "EOS_Progressed": 68015,
   "EOS_Completed": 109,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -13110,6 +13110,11 @@
       "Time": "2023-08-24T18:07:36.6517224+00:00",
       "NumProgressed": 68013,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2023-08-24T19:08:46.8908781+00:00",
+      "NumProgressed": 68015,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 61,
@@ -13217,7 +13222,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 11562
+      "UsersEstimate": 11563
     },
     {
       "ID": "CLAYFACE_1",
@@ -13233,7 +13238,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 12242
+      "UsersEstimate": 12243
     },
     {
       "ID": "CLAYFACE_3",
@@ -13337,7 +13342,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 6801
+      "UsersEstimate": 6802
     },
     {
       "ID": "FREEZE_1",
@@ -13361,7 +13366,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 12922
+      "UsersEstimate": 12923
     },
     {
       "ID": "FREEZE_3",
@@ -13433,7 +13438,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 17003
+      "UsersEstimate": 17004
     },
     {
       "ID": "HARLEY_3",
@@ -13465,7 +13470,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 34006
+      "UsersEstimate": 34008
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -13513,7 +13518,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 23124
+      "UsersEstimate": 23125
     },
     {
       "ID": "MYSTERY_02",
@@ -13521,7 +13526,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 17003
+      "UsersEstimate": 17004
     },
     {
       "ID": "MYSTERY_03",
@@ -13545,7 +13550,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 12242
+      "UsersEstimate": 12243
     },
     {
       "ID": "MYSTERY_06",
@@ -13577,7 +13582,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 7481
+      "UsersEstimate": 7482
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -13608,13 +13613,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 68013,
+      "Progressed": 68015,
       "Completed": 109
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38293,
+      "Progressed": 38295,
       "Completed": 2658
     }
   ],
@@ -13622,8 +13627,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-08-23T10:57:48.162312+00:00",
-  "LastChanged_Achievements": "2023-08-24T18:07:36.6517219+00:00",
+  "LastChanged_Achievements": "2023-08-24T19:08:46.8908773+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:36.1459925+00:00",
-  "LastUpdate_Ratings": "2023-08-24T17:58:11.8888758+00:00",
-  "LastUpdate_Achievements": "2023-08-24T18:07:36.6518182+00:00"
+  "LastUpdate_Ratings": "2023-08-24T18:58:31.5035863+00:00",
+  "LastUpdate_Achievements": "2023-08-24T19:08:46.8911019+00:00"
 }

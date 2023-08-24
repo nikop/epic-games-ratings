@@ -6,9 +6,9 @@
   "Ranking_Popularity": 336,
   "Ranking_PopularitySum": 278,
   "Ranking_EOS_Progress": 131,
-  "Ranking_EOS_Completed": 262,
+  "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1197,7 +1197,7 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 8505,
+  "EOS_Progressed": 8506,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
@@ -11307,6 +11307,11 @@
       "Time": "2023-08-24T17:03:50.127607+00:00",
       "NumProgressed": 8505,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-24T19:04:23.6111618+00:00",
+      "NumProgressed": 8506,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -11318,7 +11323,7 @@
       "Name": "Leader",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 5103
+      "UsersEstimate": 5104
     },
     {
       "ID": "10",
@@ -11366,7 +11371,7 @@
       "Name": "Legendary Explorer",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2381
+      "UsersEstimate": 2382
     },
     {
       "ID": "16",
@@ -11446,7 +11451,7 @@
       "Name": "It\u0027s a Finnish Thing",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "25",
@@ -11454,7 +11459,7 @@
       "Name": "Cleaner",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2381
+      "UsersEstimate": 2382
     },
     {
       "ID": "26",
@@ -11486,7 +11491,7 @@
       "Name": "Trader",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "3",
@@ -11566,7 +11571,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 3742
+      "UsersEstimate": 3743
     },
     {
       "ID": "39",
@@ -11582,7 +11587,7 @@
       "Name": "Catastrofan",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2381
+      "UsersEstimate": 2382
     },
     {
       "ID": "40",
@@ -11638,7 +11643,7 @@
       "Name": "Finders, Keepers",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2211
+      "UsersEstimate": 2212
     },
     {
       "ID": "47",
@@ -11686,7 +11691,7 @@
       "Name": "Sky Burial",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "52",
@@ -11789,15 +11794,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 8505,
+      "Progressed": 8506,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-08-23T20:58:04.6929999+00:00",
-  "LastChanged_Achievements": "2023-08-24T18:03:45.5827163+00:00",
+  "LastChanged_Achievements": "2023-08-24T19:04:23.6111611+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:48.2219404+00:00",
-  "LastUpdate_Ratings": "2023-08-24T17:58:25.0828046+00:00",
-  "LastUpdate_Achievements": "2023-08-24T18:03:45.5828077+00:00"
+  "LastUpdate_Ratings": "2023-08-24T18:58:44.9776165+00:00",
+  "LastUpdate_Achievements": "2023-08-24T19:04:23.6113007+00:00"
 }
