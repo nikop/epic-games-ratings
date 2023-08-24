@@ -87,7 +87,7 @@
 | 81 | [The Messenger](games/t/the_messenger.md) | 4.80 | 326 | 231 |
 | 81 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.80 | 0 | 514 |
 | 87 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,491 | 121 |
-| 87 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 464 | 202 |
+| 87 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 467 | 202 |
 | 87 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 160 | 293 |
 | 87 | [Huntdown](games/h/huntdown.md) | 4.79 | 0 | 514 |
 | 87 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.79 | 0 | 514 |
@@ -101,7 +101,7 @@
 | 87 | [Sailing Era](games/s/sailing_era.md) | 4.79 | 0 | 514 |
 | 87 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.79 | 101 | 336 |
 | 101 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.78 | 0 | 514 |
-| 101 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,790 | 38 |
+| 101 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,797 | 38 |
 | 101 | [Journey](games/j/journey.md) | 4.78 | 0 | 514 |
 | 101 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.78 | 0 | 514 |
 | 101 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,382 | 104 |
@@ -373,7 +373,7 @@
 | 366 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 384 | 219 |
 | 366 | [Darkwood](games/d/darkwood.md) | 4.61 | 322 | 232 |
 | 366 | [Dead Space](games/d/dead_space.md) | 4.61 | 87 | 356 |
-| 366 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 43,418 | 12 |
+| 366 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 43,466 | 12 |
 | 366 | [GigaBash](games/g/gigabash.md) | 4.61 | 0 | 514 |
 | 366 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.61 | 38 | 428 |
 | 366 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,170 | 137 |
@@ -574,25 +574,25 @@
 | 558 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 628 | 178 |
 | 558 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.50 | 23 | 491 |
 | 558 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.50 | 0 | 514 |
+| 558 | [Ratchet & Clank: Rift Apart](games/0/046aeb7098b94ac3961dad6c5dbe68c0.md) | 4.50 | 0 | 514 |
 | 558 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 765 | 161 |
 | 558 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 0 | 514 |
 | 558 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 36 | 433 |
-| 578 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 4.49 | 26 | 474 |
-| 578 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 64 | 388 |
-| 578 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.49 | 0 | 514 |
-| 578 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,987 | 109 |
-| 578 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 36,544 | 13 |
-| 578 | [Duskers](games/d/duskers.md) | 4.49 | 0 | 514 |
-| 578 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 273 | 245 |
-| 578 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 248 | 254 |
-| 578 | [Maneater](games/m/maneater.md) | 4.49 | 13,635 | 26 |
-| 578 | [Mars Horizon](games/m/mars_horizon.md) | 4.49 | 0 | 514 |
-| 578 | [MythForce](games/m/mythforce.md) | 4.49 | 32 | 456 |
-| 578 | [Ratchet & Clank: Rift Apart](games/0/046aeb7098b94ac3961dad6c5dbe68c0.md) | 4.49 | 0 | 514 |
-| 578 | [Rocket League®](games/r/rocket_league®.md) | 4.49 | 509,292 | 2 |
-| 578 | [Solitairica](games/s/solitairica.md) | 4.49 | 84 | 360 |
-| 578 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 0 | 514 |
-| 578 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.49 | 0 | 514 |
+| 579 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 4.49 | 26 | 474 |
+| 579 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 64 | 388 |
+| 579 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.49 | 0 | 514 |
+| 579 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,987 | 109 |
+| 579 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 36,544 | 13 |
+| 579 | [Duskers](games/d/duskers.md) | 4.49 | 0 | 514 |
+| 579 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 273 | 245 |
+| 579 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 248 | 254 |
+| 579 | [Maneater](games/m/maneater.md) | 4.49 | 13,635 | 26 |
+| 579 | [Mars Horizon](games/m/mars_horizon.md) | 4.49 | 0 | 514 |
+| 579 | [MythForce](games/m/mythforce.md) | 4.49 | 32 | 456 |
+| 579 | [Rocket League®](games/r/rocket_league®.md) | 4.49 | 509,292 | 2 |
+| 579 | [Solitairica](games/s/solitairica.md) | 4.49 | 84 | 360 |
+| 579 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 0 | 514 |
+| 579 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.49 | 0 | 514 |
 | 594 | [Anno 2070](games/a/anno_2070.md) | 4.48 | 0 | 514 |
 | 594 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 0 | 514 |
 | 594 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.48 | 0 | 514 |
