@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 93,
-  "Ranking_EOS_NewPlayers": 72,
+  "Ranking_EOS_NewPlayers": 73,
   "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -380,9 +380,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18530,
+  "EOS_Progressed": 18531,
   "EOS_Completed": 374,
-  "EOS_NewPlayers": 523,
+  "EOS_NewPlayers": 520,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 2.02,
   "EosHistory": [
@@ -13775,6 +13775,11 @@
       "Time": "2023-08-24T09:06:23.7832866+00:00",
       "NumProgressed": 18530,
       "NumCompleted": 374
+    },
+    {
+      "Time": "2023-08-24T10:07:03.4870247+00:00",
+      "NumProgressed": 18531,
+      "NumCompleted": 374
     }
   ],
   "TotalAchievements": 20,
@@ -13858,7 +13863,7 @@
       "Name": "Hide and Seek",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "FOUND_FOX_STATUE",
@@ -13906,7 +13911,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 14083
+      "UsersEstimate": 14084
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -13914,7 +13919,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 5188
+      "UsersEstimate": 5189
     },
     {
       "ID": "NORTH_FINISHED",
@@ -13945,15 +13950,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 18530,
+      "Progressed": 18531,
       "Completed": 374
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-08-12T01:39:46.4098224+00:00",
-  "LastChanged_Achievements": "2023-08-24T09:06:23.7832861+00:00",
+  "LastChanged_Achievements": "2023-08-24T10:07:03.4870241+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:54.5287855+00:00",
-  "LastUpdate_Ratings": "2023-08-24T08:58:01.0079335+00:00",
-  "LastUpdate_Achievements": "2023-08-24T09:06:23.7833803+00:00"
+  "LastUpdate_Ratings": "2023-08-24T09:58:22.2502255+00:00",
+  "LastUpdate_Achievements": "2023-08-24T10:07:03.4871307+00:00"
 }

@@ -23,6 +23,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Silken Swamp | 0.20% | ~449 |
 | Supply Run | 0.20% | ~449 |
 | Seeds of Destruction | 0.20% | ~382 |
+| The Evacuation of Waterdeep | 0.20% | ~382 |
 | Vecna Lives! | 0.20% | ~382 |
 | Vecna Loots! | 0.20% | ~382 |
 | Return to the Tomb | 0.20% | ~382 |
@@ -49,6 +50,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Crumbling Temple | 0.20% | ~449 |
 | The Death Curse | 0.20% | ~449 |
 | Flies on the Wall | 0.20% | ~449 |
+| Nimble Escape | 0.20% | ~449 |
 | Useless Allies | 0.20% | ~449 |
 | Premature Betrayal | 0.20% | ~449 |
 | Mad Cow Disease | 0.20% | ~449 |
@@ -142,7 +144,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Heavy Burden | 0.10% | ~225 |
 | Speeds of Destruction | 0.10% | ~191 |
 | Owlbear Necessities | 0.10% | ~191 |
-| The Evacuation of Waterdeep | 0.10% | ~191 |
 | Flapjacks and Waffles | 0.10% | ~191 |
 | On the Hunt | 0.10% | ~225 |
 | Best Thay Ever | 0.10% | ~191 |
@@ -262,7 +263,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Diversity Day-Trip | 0.10% | ~225 |
 | Late Game | 0.10% | ~225 |
 | Shadowfell Stalwarts | 0.10% | ~191 |
-| Nimble Escape | 0.10% | ~225 |
 | Nimblest Escape | 0.10% | ~225 |
 | Stumbling Escape | 0.10% | ~225 |
 | Distracted Escape | 0.10% | ~191 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~191 |
 | Animated Giff | 0.10% | ~191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,503 (Ranked 53)  
+Progressed: 224,509 (Ranked 53)  
 Completed: 2,210 (0.98%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -649,7 +649,7 @@ Completed: 2,210 (0.98%) (Ranked 121)
 | 2023-08-21 | 223,996 | 2,203 |
 | 2023-08-22 | 224,213 | 2,207 |
 | 2023-08-23 | 224,434 | 2,210 |
-| 2023-08-24 | 224,503 | 2,210 |
+| 2023-08-24 | 224,509 | 2,210 |
 ## Awards
 Max (Diverse Characters): 5,179  (Ranked 68)  
 Sum: 31,186 (Ranked 39)  

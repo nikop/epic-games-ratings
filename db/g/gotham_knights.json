@@ -2510,9 +2510,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 68006,
+  "EOS_Progressed": 68007,
   "EOS_Completed": 109,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -13085,6 +13085,11 @@
       "Time": "2023-08-24T07:07:06.116946+00:00",
       "NumProgressed": 68006,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2023-08-24T10:07:45.6997941+00:00",
+      "NumProgressed": 68007,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 61,
@@ -13144,7 +13149,7 @@
       "Name": "The Batman Family",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 14961
+      "UsersEstimate": 14962
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -13440,7 +13445,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 34003
+      "UsersEstimate": 34004
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -13504,7 +13509,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 14961
+      "UsersEstimate": 14962
     },
     {
       "ID": "MYSTERY_04",
@@ -13583,13 +13588,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 68006,
+      "Progressed": 68007,
       "Completed": 109
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38286,
+      "Progressed": 38287,
       "Completed": 2658
     }
   ],
@@ -13597,8 +13602,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-08-23T10:57:48.162312+00:00",
-  "LastChanged_Achievements": "2023-08-24T09:07:02.1166433+00:00",
+  "LastChanged_Achievements": "2023-08-24T10:07:45.6997934+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:36.1459925+00:00",
-  "LastUpdate_Ratings": "2023-08-24T08:57:46.1244325+00:00",
-  "LastUpdate_Achievements": "2023-08-24T09:07:02.1167636+00:00"
+  "LastUpdate_Ratings": "2023-08-24T09:58:05.7318376+00:00",
+  "LastUpdate_Achievements": "2023-08-24T10:07:45.6999489+00:00"
 }

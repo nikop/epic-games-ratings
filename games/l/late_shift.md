@@ -10,13 +10,13 @@
 | Star-Crossed Lovers | 47.00% | ~221 |
 | The Delivery | 45.00% | ~212 |
 | Shill Bidder | 43.00% | ~202 |
-| The Frenzy | 32.00% | ~150 |
+| The Frenzy | 33.00% | ~155 |
 | Good Karma | 32.00% | ~150 |
 | Office Clerk | 30.00% | ~141 |
 | Protector | 29.00% | ~136 |
 | The Bribe | 26.00% | ~122 |
 | The Ploy | 16.00% | ~75 |
-| Interrogation | 14.00% | ~66 |
+| Interrogation | 15.00% | ~70 |
 | Sabotage | 12.00% | ~56 |
 | Choices Matter | 8.00% | ~38 |
 | The Fool | 6.00% | ~28 |

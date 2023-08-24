@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -118,9 +118,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3969,
+  "EOS_Progressed": 3970,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -6173,6 +6173,11 @@
       "Time": "2023-08-24T08:06:34.482767+00:00",
       "NumProgressed": 3969,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-24T10:07:11.0885482+00:00",
+      "NumProgressed": 3970,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 71,
@@ -6390,9 +6395,9 @@
       "ID": "Ach027",
       "SetID": "12n4k20",
       "Name": "Z-shielding\u0027s got nothing on us!",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 278
+      "UsersEstimate": 238
     },
     {
       "ID": "Ach028",
@@ -6672,7 +6677,7 @@
       "Name": "NOW we got a kickass hideout!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "Ach063",
@@ -6751,13 +6756,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3969,
+      "Progressed": 3970,
       "Completed": 7
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2490,
+      "Progressed": 2491,
       "Completed": 1929
     }
   ],
@@ -6765,8 +6770,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-08-10T23:00:09.4128826+00:00",
-  "LastChanged_Achievements": "2023-08-24T09:06:29.5656831+00:00",
+  "LastChanged_Achievements": "2023-08-24T10:07:11.0885474+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:54.770039+00:00",
-  "LastUpdate_Ratings": "2023-08-24T09:00:44.0619134+00:00",
-  "LastUpdate_Achievements": "2023-08-24T09:06:29.5657927+00:00"
+  "LastUpdate_Ratings": "2023-08-24T10:01:25.9616608+00:00",
+  "LastUpdate_Achievements": "2023-08-24T10:07:11.0886762+00:00"
 }

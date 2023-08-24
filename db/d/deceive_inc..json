@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -226,7 +226,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17603,
+  "EOS_Progressed": 17604,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 0,
@@ -8931,6 +8931,11 @@
       "Time": "2023-08-24T09:05:52.1291771+00:00",
       "NumProgressed": 17603,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-24T10:06:24.1487266+00:00",
+      "NumProgressed": 17604,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -9030,7 +9035,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2816
+      "UsersEstimate": 2817
     },
     {
       "ID": "0013",
@@ -9166,7 +9171,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2288
+      "UsersEstimate": 2289
     },
     {
       "ID": "0030",
@@ -9229,7 +9234,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17603,
+      "Progressed": 17604,
       "Completed": 1
     }
   ],
@@ -9237,8 +9242,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-12T19:04:41.1874293+00:00",
-  "LastChanged_Achievements": "2023-08-24T09:05:52.1291765+00:00",
+  "LastChanged_Achievements": "2023-08-24T10:06:24.1487141+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:28.6624095+00:00",
-  "LastUpdate_Ratings": "2023-08-24T08:57:39.8538548+00:00",
-  "LastUpdate_Achievements": "2023-08-24T09:05:52.129257+00:00"
+  "LastUpdate_Ratings": "2023-08-24T09:57:58.9569388+00:00",
+  "LastUpdate_Achievements": "2023-08-24T10:06:24.1488187+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1064,
+  "EOS_Progressed": 1066,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
@@ -3726,6 +3726,11 @@
       "Time": "2023-08-24T09:04:08.3517863+00:00",
       "NumProgressed": 1064,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-24T10:04:13.7309081+00:00",
+      "NumProgressed": 1066,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -3745,7 +3750,7 @@
       "Name": "Exterminator",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ach_defeat_players_10",
@@ -3849,7 +3854,7 @@
       "Name": "Corporal",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -3857,7 +3862,7 @@
       "Name": "Sergeant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -3873,7 +3878,7 @@
       "Name": "Captain",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -3921,7 +3926,7 @@
       "Name": "Covert Operative",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -3929,7 +3934,7 @@
       "Name": "Getting Deployment",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -3945,7 +3950,7 @@
       "Name": "Stocking Up",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -3961,7 +3966,7 @@
       "Name": "On Target",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -3985,7 +3990,7 @@
       "Name": "Factory Expansion",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -3993,7 +3998,7 @@
       "Name": "Defenses Online",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -4040,14 +4045,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1064,
+      "Progressed": 1066,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-24T09:04:08.3517858+00:00",
+  "LastChanged_Achievements": "2023-08-24T10:04:13.7309073+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:20.8459338+00:00",
-  "LastUpdate_Ratings": "2023-08-24T08:58:33.0538999+00:00",
-  "LastUpdate_Achievements": "2023-08-24T09:04:08.3518361+00:00"
+  "LastUpdate_Ratings": "2023-08-24T09:58:57.1546059+00:00",
+  "LastUpdate_Achievements": "2023-08-24T10:04:13.7309696+00:00"
 }

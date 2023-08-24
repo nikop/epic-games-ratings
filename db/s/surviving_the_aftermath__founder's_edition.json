@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1197,9 +1197,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 8500,
+  "EOS_Progressed": 8501,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11287,6 +11287,11 @@
       "Time": "2023-08-24T09:03:45.7101631+00:00",
       "NumProgressed": 8500,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-24T10:03:44.7057278+00:00",
+      "NumProgressed": 8501,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -11298,7 +11303,7 @@
       "Name": "Leader",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 5100
+      "UsersEstimate": 5101
     },
     {
       "ID": "10",
@@ -11330,7 +11335,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 4505
+      "UsersEstimate": 4506
     },
     {
       "ID": "14",
@@ -11378,7 +11383,7 @@
       "Name": "Healer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 4420
+      "UsersEstimate": 4421
     },
     {
       "ID": "2",
@@ -11410,7 +11415,7 @@
       "Name": "First Step",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 6120
+      "UsersEstimate": 6121
     },
     {
       "ID": "23",
@@ -11730,7 +11735,7 @@
       "Name": "Customized calamities",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "6",
@@ -11769,15 +11774,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 8500,
+      "Progressed": 8501,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-08-23T20:58:04.6929999+00:00",
-  "LastChanged_Achievements": "2023-08-24T09:03:45.7101625+00:00",
+  "LastChanged_Achievements": "2023-08-24T10:03:44.7057268+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:48.2219404+00:00",
-  "LastUpdate_Ratings": "2023-08-24T08:57:57.2293954+00:00",
-  "LastUpdate_Achievements": "2023-08-24T09:03:45.7102758+00:00"
+  "LastUpdate_Ratings": "2023-08-24T09:58:17.3521308+00:00",
+  "LastUpdate_Achievements": "2023-08-24T10:03:44.7058592+00:00"
 }

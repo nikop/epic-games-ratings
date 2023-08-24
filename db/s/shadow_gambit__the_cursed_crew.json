@@ -4,8 +4,8 @@
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -953,9 +953,9 @@
       "ID": "_10_Completion_30",
       "SetID": "8a1io5d",
       "Name": "Buccaneer",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 47
     },
     {
       "ID": "_11_Completion_40",
@@ -1096,8 +1096,8 @@
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-24T09:04:25.3023671+00:00",
+  "LastChanged_Achievements": "2023-08-24T10:04:35.2065469+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:01.7621403+00:00",
-  "LastUpdate_Ratings": "2023-08-24T09:00:09.7547182+00:00",
-  "LastUpdate_Achievements": "2023-08-24T09:04:25.3023916+00:00"
+  "LastUpdate_Ratings": "2023-08-24T10:00:47.4422958+00:00",
+  "LastUpdate_Achievements": "2023-08-24T10:04:35.2065746+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 30,
   "Ranking_EOS_Completed": 175,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
     "PcReleaseDate": "2016-05-17T16:00:00+00:00",
@@ -2481,9 +2481,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 531272,
+  "EOS_Progressed": 531273,
   "EOS_Completed": 1513,
-  "EOS_NewPlayers": 583,
+  "EOS_NewPlayers": 582,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -16031,6 +16031,11 @@
       "Time": "2023-08-24T09:05:33.3359706+00:00",
       "NumProgressed": 531272,
       "NumCompleted": 1513
+    },
+    {
+      "Time": "2023-08-24T10:06:00.5398996+00:00",
+      "NumProgressed": 531273,
+      "NumCompleted": 1513
     }
   ],
   "TotalAchievements": 37,
@@ -16098,7 +16103,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 440956
+      "UsersEstimate": 440957
     },
     {
       "ID": "HONED",
@@ -16194,7 +16199,7 @@
       "Name": "The Dome",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 47814
+      "UsersEstimate": 47815
     },
     {
       "ID": "THE_FOREST",
@@ -16266,7 +16271,7 @@
       "Name": "The Red Hall",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 47814
+      "UsersEstimate": 47815
     },
     {
       "ID": "THE_RUINS",
@@ -16298,7 +16303,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 340014
+      "UsersEstimate": 340015
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -16337,15 +16342,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 531272,
+      "Progressed": 531273,
       "Completed": 1513
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-08-21T21:01:52.1872239+00:00",
-  "LastChanged_Achievements": "2023-08-24T09:05:33.33597+00:00",
+  "LastChanged_Achievements": "2023-08-24T10:06:00.5398991+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:57.952106+00:00",
-  "LastUpdate_Ratings": "2023-08-24T08:57:06.8322852+00:00",
-  "LastUpdate_Achievements": "2023-08-24T09:05:33.3360775+00:00"
+  "LastUpdate_Ratings": "2023-08-24T09:57:18.2903433+00:00",
+  "LastUpdate_Achievements": "2023-08-24T10:06:00.5400145+00:00"
 }

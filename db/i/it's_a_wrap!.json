@@ -2,10 +2,10 @@
   "ID": "810797d6d1c640068ce75d45b85d2423",
   "Name": "It\u0027s a Wrap!",
   "ProductSlug": "its-a-wrap-f392ae",
-  "Ranking_EOS_Progress": 484,
+  "Ranking_EOS_Progress": 465,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 279,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-08-23T17:30:00+00:00",
     "PcReleaseDate": "2023-08-23T17:30:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3,
+  "EOS_Progressed": 6,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39,6 +39,11 @@
       "Time": "2023-08-24T01:45:53.4679957+00:00",
       "NumProgressed": 3,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-24T10:07:06.091703+00:00",
+      "NumProgressed": 6,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-23T18:07:41.5840272+00:00",
@@ -49,15 +54,15 @@
       "ID": "1_10_SECRET",
       "SetID": "2l1dk5b",
       "Name": "Under the Bridge",
-      "Percentage": 167,
+      "Percentage": 100,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "1_50_SECRET",
       "SetID": "2l1dk5b",
       "Name": "What\u0027s my line again?",
-      "Percentage": 33,
+      "Percentage": 17,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -121,7 +126,7 @@
       "ID": "ALL_FINISH",
       "SetID": "2l1dk5b",
       "Name": "In the Can",
-      "Percentage": 33,
+      "Percentage": 17,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -137,7 +142,7 @@
       "ID": "MOV1_FINISH",
       "SetID": "2l1dk5b",
       "Name": "Treasure Hunter",
-      "Percentage": 33,
+      "Percentage": 17,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -145,7 +150,7 @@
       "ID": "MOV2_FINISH",
       "SetID": "2l1dk5b",
       "Name": "Space Invader",
-      "Percentage": 67,
+      "Percentage": 33,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -153,7 +158,7 @@
       "ID": "MOV3_FINISH",
       "SetID": "2l1dk5b",
       "Name": "One Man Army",
-      "Percentage": 33,
+      "Percentage": 17,
       "XP": 100,
       "UsersEstimate": 1
     }
@@ -162,13 +167,13 @@
     {
       "ID": "2l1dk5b",
       "IsBase": true,
-      "Progressed": 3,
+      "Progressed": 6,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-01T21:04:35.2343064+00:00",
-  "LastChanged_Achievements": "2023-08-24T09:06:25.7129914+00:00",
+  "LastChanged_Achievements": "2023-08-24T10:07:06.0917024+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:24.5748355+00:00",
-  "LastUpdate_Ratings": "2023-08-24T08:57:22.791492+00:00",
-  "LastUpdate_Achievements": "2023-08-24T09:06:25.7130043+00:00"
+  "LastUpdate_Ratings": "2023-08-24T09:57:39.4608304+00:00",
+  "LastUpdate_Achievements": "2023-08-24T10:07:06.0917123+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1878,7 +1878,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25307,
+  "EOS_Progressed": 25308,
   "EOS_Completed": 52,
   "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
@@ -11168,6 +11168,11 @@
       "Time": "2023-08-24T04:03:29.4914829+00:00",
       "NumProgressed": 25307,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-08-24T10:03:25.91623+00:00",
+      "NumProgressed": 25308,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 51,
@@ -11179,7 +11184,7 @@
       "Name": "Advancement",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 18221
+      "UsersEstimate": 18222
     },
     {
       "ID": "Animated",
@@ -11195,7 +11200,7 @@
       "Name": "Back Off",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 8857
+      "UsersEstimate": 8858
     },
     {
       "ID": "Best_Insurance",
@@ -11251,7 +11256,7 @@
       "Name": "Daily Dose",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 8604
+      "UsersEstimate": 8605
     },
     {
       "ID": "Diabolical",
@@ -11267,7 +11272,7 @@
       "Name": "Discovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 15437
+      "UsersEstimate": 15438
     },
     {
       "ID": "Dont_Need_These",
@@ -11291,7 +11296,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 63,
       "XP": 100,
-      "UsersEstimate": 15943
+      "UsersEstimate": 15944
     },
     {
       "ID": "Escape_Artist",
@@ -11411,7 +11416,7 @@
       "Name": "Rift Destroyer",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4808
+      "UsersEstimate": 4809
     },
     {
       "ID": "Rift_Seeker",
@@ -11419,7 +11424,7 @@
       "Name": "Rift Seeker",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1771
+      "UsersEstimate": 1772
     },
     {
       "ID": "Right_Back",
@@ -11467,7 +11472,7 @@
       "Name": "Solo Capture",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 8351
+      "UsersEstimate": 8352
     },
     {
       "ID": "Stunner",
@@ -11483,7 +11488,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 21764
+      "UsersEstimate": 21765
     },
     {
       "ID": "Summoner",
@@ -11531,7 +11536,7 @@
       "Name": "Therapeutic",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1771
+      "UsersEstimate": 1772
     },
     {
       "ID": "There_You_Are",
@@ -11563,7 +11568,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 12147
+      "UsersEstimate": 12148
     },
     {
       "ID": "Welcome_Crew",
@@ -11586,7 +11591,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25307,
+      "Progressed": 25308,
       "Completed": 52
     }
   ],
@@ -11594,8 +11599,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-08-20T20:00:34.3047121+00:00",
-  "LastChanged_Achievements": "2023-08-24T09:03:30.8496202+00:00",
+  "LastChanged_Achievements": "2023-08-24T10:03:25.9162291+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:37.9111082+00:00",
-  "LastUpdate_Ratings": "2023-08-24T09:01:06.6371935+00:00",
-  "LastUpdate_Achievements": "2023-08-24T09:03:30.8497213+00:00"
+  "LastUpdate_Ratings": "2023-08-24T10:01:52.1991348+00:00",
+  "LastUpdate_Achievements": "2023-08-24T10:03:25.9163475+00:00"
 }

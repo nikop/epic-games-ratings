@@ -46,11 +46,11 @@
 | Your own way | 41.00% | ~108 |
 | Poisoned fighter | 39.00% | ~103 |
 | Underground dwellers | 39.00% | ~103 |
+| Mom got better | 38.00% | ~100 |
 | Deal with life | 38.00% | ~100 |
 | GYM professional | 38.00% | ~100 |
 | Get out of my apartment! | 38.00% | ~100 |
-| Mom got better | 37.00% | ~98 |
-| The die is cast | 37.00% | ~98 |
+| The die is cast | 38.00% | ~100 |
 | Seashell hunter | 36.00% | ~95 |
 | Gang wrangler | 34.00% | ~90 |
 | Problems of cyborgs | 34.00% | ~90 |
