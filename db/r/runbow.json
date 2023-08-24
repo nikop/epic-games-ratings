@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,7 +179,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 248447,
+  "EOS_Progressed": 248448,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 302,
   "EOS_NewCompleters": 1,
@@ -12114,6 +12114,11 @@
       "Time": "2023-08-24T12:05:07.8370159+00:00",
       "NumProgressed": 248447,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-24T15:05:01.514383+00:00",
+      "NumProgressed": 248448,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 46,
@@ -12221,7 +12226,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 44720
+      "UsersEstimate": 44721
     },
     {
       "ID": "curator",
@@ -12229,7 +12234,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 49689
+      "UsersEstimate": 49690
     },
     {
       "ID": "didYourTime",
@@ -12429,7 +12434,7 @@
       "Name": "The Stunner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 54658
+      "UsersEstimate": 54659
     },
     {
       "ID": "thunderstruck",
@@ -12492,7 +12497,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 248447,
+      "Progressed": 248448,
       "Completed": 4
     }
   ],
@@ -12500,8 +12505,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-08-24T14:06:16.5809981+00:00",
+  "LastChanged_Achievements": "2023-08-24T15:05:01.5143825+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:44.1764965+00:00",
-  "LastUpdate_Ratings": "2023-08-24T13:57:33.9299426+00:00",
-  "LastUpdate_Achievements": "2023-08-24T14:06:16.5811123+00:00"
+  "LastUpdate_Ratings": "2023-08-24T14:57:26.4793982+00:00",
+  "LastUpdate_Achievements": "2023-08-24T15:05:01.5144941+00:00"
 }

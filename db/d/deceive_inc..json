@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17610,
+  "EOS_Progressed": 17611,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8951,6 +8951,11 @@
       "Time": "2023-08-24T14:07:06.3166539+00:00",
       "NumProgressed": 17610,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-24T15:05:38.1268336+00:00",
+      "NumProgressed": 17611,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -8970,7 +8975,7 @@
       "Name": "License to Thrill",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 880
+      "UsersEstimate": 881
     },
     {
       "ID": "0003",
@@ -9026,7 +9031,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4050
+      "UsersEstimate": 4051
     },
     {
       "ID": "0010",
@@ -9178,7 +9183,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4050
+      "UsersEstimate": 4051
     },
     {
       "ID": "0029",
@@ -9249,7 +9254,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17610,
+      "Progressed": 17611,
       "Completed": 1
     }
   ],
@@ -9257,8 +9262,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-12T19:04:41.1874293+00:00",
-  "LastChanged_Achievements": "2023-08-24T14:07:06.3166533+00:00",
+  "LastChanged_Achievements": "2023-08-24T15:05:38.1268331+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:28.6624095+00:00",
-  "LastUpdate_Ratings": "2023-08-24T13:58:09.1746683+00:00",
-  "LastUpdate_Achievements": "2023-08-24T14:07:06.3168639+00:00"
+  "LastUpdate_Ratings": "2023-08-24T14:57:49.5564687+00:00",
+  "LastUpdate_Achievements": "2023-08-24T15:05:38.1269022+00:00"
 }

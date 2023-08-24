@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 24,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -708,9 +708,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 216563,
+  "EOS_Progressed": 216585,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3008,
+  "EOS_NewPlayers": 3003,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8128,6 +8128,11 @@
       "Time": "2023-08-24T14:03:04.4716698+00:00",
       "NumProgressed": 216563,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-24T15:02:28.6723155+00:00",
+      "NumProgressed": 216585,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -8163,7 +8168,7 @@
       "Name": "Shiny and Cr\u00F4m",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1300
     },
     {
       "ID": "BarbarianKillUsingBow",
@@ -8187,7 +8192,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4331
+      "UsersEstimate": 4332
     },
     {
       "ID": "Chapter2",
@@ -8243,7 +8248,7 @@
       "Name": "The Dungeon Master",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1300
     },
     {
       "ID": "Chapter9",
@@ -8251,7 +8256,7 @@
       "Name": "The Statuette of Gladeulfeurah",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1300
     },
     {
       "ID": "CollateralVictim",
@@ -8523,7 +8528,7 @@
       "Name": "A tale of adventurers not quite like the others...",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1300
     },
     {
       "ID": "Dwarf30Insult",
@@ -8539,7 +8544,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4331
+      "UsersEstimate": 4332
     },
     {
       "ID": "DwarfElf15Support",
@@ -8563,7 +8568,7 @@
       "Name": "%#*!$*!",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1300
     },
     {
       "ID": "DwarfLevel2",
@@ -8571,7 +8576,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4331
+      "UsersEstimate": 4332
     },
     {
       "ID": "ElfEpic",
@@ -8587,7 +8592,7 @@
       "Name": "Sowwy!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 47644
+      "UsersEstimate": 47649
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -8635,7 +8640,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4331
+      "UsersEstimate": 4332
     },
     {
       "ID": "FollowBraztok",
@@ -8763,7 +8768,7 @@
       "Name": "The Ranger of Chaos",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1300
     },
     {
       "ID": "Rogue30Backstab",
@@ -8771,7 +8776,7 @@
       "Name": "I am the night",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1300
     },
     {
       "ID": "RogueEpic",
@@ -8842,21 +8847,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 216563,
+      "Progressed": 216585,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 216563,
+      "Progressed": 216585,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-24T12:02:06.2470989+00:00",
-  "LastChanged_Achievements": "2023-08-24T14:03:04.4716693+00:00",
+  "LastChanged_Achievements": "2023-08-24T15:02:28.672315+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:36.4163589+00:00",
-  "LastUpdate_Ratings": "2023-08-24T14:02:35.205758+00:00",
-  "LastUpdate_Achievements": "2023-08-24T14:03:04.4718156+00:00"
+  "LastUpdate_Ratings": "2023-08-24T15:02:07.4435329+00:00",
+  "LastUpdate_Achievements": "2023-08-24T15:02:28.6724665+00:00"
 }

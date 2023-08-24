@@ -42,10 +42,10 @@ Rating: 4.60 (Ranked 392)
 | Sump Explorer | 9.00% | ~75 |
 | Syron for Hope | 9.00% | ~75 |
 | Cultivair Explorer | 8.00% | ~67 |
+| Entresol Explorer | 8.00% | ~67 |
 | Factorywood Explorer | 8.00% | ~67 |
 | Corin Goes Home | 7.00% | ~59 |
 | Sartorialist | 7.00% | ~59 |
-| Entresol Explorer | 7.00% | ~59 |
 | Clovemary for Remembering | 5.00% | ~42 |
 | Golem Hunter | 5.00% | ~42 |
 | Rungs Was Right | 5.00% | ~42 |

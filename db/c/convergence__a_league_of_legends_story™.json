@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 139,
   "Ranking_EOS_NewPlayers": 277,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -2107,9 +2107,9 @@
       "ID": "EntresolChests1",
       "SetID": "a9e499d",
       "Name": "Entresol Explorer",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 67
     },
     {
       "ID": "ExamineFamilyPortrait",
@@ -2452,8 +2452,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-08-24T14:07:48.9413802+00:00",
+  "LastChanged_Achievements": "2023-08-24T15:06:07.9477522+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:11.9722245+00:00",
-  "LastUpdate_Ratings": "2023-08-24T13:58:02.7245848+00:00",
-  "LastUpdate_Achievements": "2023-08-24T14:07:48.9414404+00:00"
+  "LastUpdate_Ratings": "2023-08-24T14:57:45.7909313+00:00",
+  "LastUpdate_Achievements": "2023-08-24T15:06:07.9478099+00:00"
 }

@@ -7,15 +7,15 @@ Number of Ratings: 7,683  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Own use | 75.00% | ~35,732 |
-| I read Shakespeare and stuff | 64.00% | ~30,491 |
-| Just a sprinkle | 63.00% | ~30,014 |
+| I read Shakespeare and stuff | 64.00% | ~30,492 |
+| Just a sprinkle | 63.00% | ~30,015 |
 | I'm stumped | 61.00% | ~29,062 |
-| Plant get enough | 60.00% | ~28,585 |
+| Plant get enough | 60.00% | ~28,586 |
 | It's just the beginning | 59.00% | ~28,109 |
-| This is just my weekend vehicle | 58.00% | ~27,632 |
-| Hard work pays off | 53.00% | ~25,250 |
+| This is just my weekend vehicle | 58.00% | ~27,633 |
+| Hard work pays off | 53.00% | ~25,251 |
 | It's never too late to farm | 49.00% | ~23,345 |
-| All out of Land | 44.00% | ~20,962 |
+| All out of Land | 44.00% | ~20,963 |
 | Field Trip | 43.00% | ~20,486 |
 | I like to switch it up | 40.00% | ~19,057 |
 | Help me to help you | 38.00% | ~18,104 |
@@ -29,7 +29,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | Clucky Streak | 15.00% | ~7,146 |
 | Large-scale supplier | 15.00% | ~7,146 |
 | That's a wrap | 14.00% | ~6,670 |
-| Fix me up | 13.00% | ~6,193 |
+| Fix me up | 13.00% | ~6,194 |
 | Rock on | 12.00% | ~5,717 |
 | Highly cultivated | 11.00% | ~5,241 |
 | It's sow easy | 11.00% | ~5,241 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~191 |
 | Raisin the stakes | 0.30% | ~143 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,642 (Ranked 91)  
+Progressed: 47,643 (Ranked 91)  
 Completed: 6 (0.01%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 6 (0.01%) (Ranked 249)
 | 2023-08-21 | 47,537 | 6 |
 | 2023-08-22 | 47,586 | 6 |
 | 2023-08-23 | 47,621 | 6 |
-| 2023-08-24 | 47,642 | 6 |
+| 2023-08-24 | 47,643 | 6 |
 ## Awards
 Max (Great for Beginners): 4,789  (Ranked 69)  
 Sum: 39,422 (Ranked 31)  

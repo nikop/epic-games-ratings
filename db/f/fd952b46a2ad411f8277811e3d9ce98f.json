@@ -4,8 +4,8 @@
   "ProductSlug": "mini-royale-ad1dca",
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
     "PcReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1649,
+  "EOS_Progressed": 1650,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -118,6 +118,11 @@
     {
       "Time": "2023-08-24T13:07:19.5566688+00:00",
       "NumProgressed": 1649,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-24T15:02:24.8218902+00:00",
+      "NumProgressed": 1650,
       "NumCompleted": 0
     }
   ],
@@ -283,7 +288,7 @@
       "Name": "Toy Surgeon",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "revives_25",
@@ -378,13 +383,13 @@
     {
       "ID": "413a09o",
       "IsBase": true,
-      "Progressed": 1649,
+      "Progressed": 1650,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-23T09:03:04.2005407+00:00",
-  "LastChanged_Achievements": "2023-08-24T14:02:59.2686834+00:00",
+  "LastChanged_Achievements": "2023-08-24T15:02:24.8218897+00:00",
   "LastUpdate_AppInfo": "2023-08-23T08:57:14.8495683+00:00",
-  "LastUpdate_Ratings": "2023-08-24T13:57:25.3613081+00:00",
-  "LastUpdate_Achievements": "2023-08-24T14:02:59.2687465+00:00"
+  "LastUpdate_Ratings": "2023-08-24T14:57:19.7384271+00:00",
+  "LastUpdate_Achievements": "2023-08-24T15:02:24.8219179+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "b1a0fc6a469347c8834c90f39c1f071c",
   "Name": "Terminal Velocity\u2122: Boosted Edition",
   "ProductSlug": "terminal-velocity-boosted-edition-1f204f",
-  "Ranking_EOS_Progress": 513,
+  "Ranking_EOS_Progress": 515,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 349,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-03-14T13:00:00+00:00",
     "PcReleaseDate": "2023-03-14T13:00:00+00:00",
@@ -312,8 +312,8 @@
   "FirstSeenRating": "2023-04-24T13:57:47.5499376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:22.0883379+00:00",
   "LastChanged": "2023-04-24T13:57:47.5499377+00:00",
-  "LastChanged_Achievements": "2023-08-24T14:06:37.5894863+00:00",
+  "LastChanged_Achievements": "2023-08-24T15:05:17.2223085+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:49.8850418+00:00",
-  "LastUpdate_Ratings": "2023-08-24T14:01:17.7040676+00:00",
-  "LastUpdate_Achievements": "2023-08-24T14:06:37.5895255+00:00"
+  "LastUpdate_Ratings": "2023-08-24T14:59:57.2722477+00:00",
+  "LastUpdate_Achievements": "2023-08-24T15:05:17.2223315+00:00"
 }

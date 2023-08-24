@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's covered up for a reason | 33.00% | ~1 |
-| Something important | 33.00% | ~1 |
+| It's covered up for a reason | 25.00% | ~1 |
+| Something important | 25.00% | ~1 |
 | A new way | 0.00% | ~0 |
 | Another perspective | 0.00% | ~0 |
 | The Big Picture | 0.00% | ~0 |
@@ -57,7 +57,7 @@
 | Wanderer | 0.00% | ~0 |
 | Whispers long forgotten | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3 (Ranked 485)  
+Progressed: 4 (Ranked 480)  
 Completed: 0 (0.00%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,3 +65,4 @@ Completed: 0 (0.00%) (Ranked 262)
 | 2023-08-02 | 1 | 0 |
 | 2023-08-03 | 2 | 0 |
 | 2023-08-11 | 3 | 0 |
+| 2023-08-24 | 4 | 0 |

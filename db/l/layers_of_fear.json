@@ -2,10 +2,10 @@
   "ID": "9df61912ce644d8096412ba0f516759a",
   "Name": "Layers of Fear",
   "ProductSlug": "layers-of-fears-85a02b",
-  "Ranking_EOS_Progress": 485,
+  "Ranking_EOS_Progress": 480,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 349,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3,
+  "EOS_Progressed": 4,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40,6 +40,11 @@
     {
       "Time": "2023-08-11T09:07:23.4356083+00:00",
       "NumProgressed": 3,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-24T15:07:08.585324+00:00",
+      "NumProgressed": 4,
       "NumCompleted": 0
     }
   ],
@@ -131,7 +136,7 @@
       "ID": "covered_up_for_a_reason",
       "SetID": "f2im8d",
       "Name": "It\u0027s covered up for a reason",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -387,7 +392,7 @@
       "ID": "something_important",
       "SetID": "f2im8d",
       "Name": "Something important",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -468,14 +473,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 3,
+      "Progressed": 4,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-08-24T14:08:45.378289+00:00",
+  "LastChanged_Achievements": "2023-08-24T15:07:08.5853231+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:20.7811787+00:00",
-  "LastUpdate_Ratings": "2023-08-24T14:02:32.2804277+00:00",
-  "LastUpdate_Achievements": "2023-08-24T14:08:45.378333+00:00"
+  "LastUpdate_Ratings": "2023-08-24T15:02:05.6990178+00:00",
+  "LastUpdate_Achievements": "2023-08-24T15:07:08.585368+00:00"
 }

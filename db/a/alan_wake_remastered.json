@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 61480,
+  "EOS_Progressed": 61482,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 482,
+  "EOS_NewPlayers": 480,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -12247,6 +12247,11 @@
       "Time": "2023-08-24T14:07:59.4849257+00:00",
       "NumProgressed": 61480,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-08-24T15:06:15.7300216+00:00",
+      "NumProgressed": 61482,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -12258,7 +12263,7 @@
       "Name": "Follow the Light",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 23362
+      "UsersEstimate": 23363
     },
     {
       "ID": "02",
@@ -12266,7 +12271,7 @@
       "Name": "Nordic Walking",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 14755
+      "UsersEstimate": 14756
     },
     {
       "ID": "03",
@@ -12274,7 +12279,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 14140
+      "UsersEstimate": 14141
     },
     {
       "ID": "04",
@@ -12322,7 +12327,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7992
+      "UsersEstimate": 7993
     },
     {
       "ID": "10",
@@ -12426,7 +12431,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7992
+      "UsersEstimate": 7993
     },
     {
       "ID": "23",
@@ -12450,7 +12455,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4918
+      "UsersEstimate": 4919
     },
     {
       "ID": "26",
@@ -12506,7 +12511,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17829
+      "UsersEstimate": 17830
     },
     {
       "ID": "33",
@@ -12722,7 +12727,7 @@
       "Name": "Ding!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "60",
@@ -12738,7 +12743,7 @@
       "Name": "Go Gentle Into That Good Light",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "62",
@@ -12793,21 +12798,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 61480,
+      "Progressed": 61482,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24948,
+      "Progressed": 24950,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-24T14:07:59.4849251+00:00",
+  "LastChanged_Achievements": "2023-08-24T15:06:15.730021+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:35.5614422+00:00",
-  "LastUpdate_Ratings": "2023-08-24T14:01:01.2279146+00:00",
-  "LastUpdate_Achievements": "2023-08-24T14:07:59.485065+00:00"
+  "LastUpdate_Ratings": "2023-08-24T14:59:47.2721169+00:00",
+  "LastUpdate_Achievements": "2023-08-24T15:06:15.7301577+00:00"
 }
