@@ -2,10 +2,10 @@
   "ID": "97c2829c7b9047a7bf8657d7c5f87765",
   "Name": "Elemental War 2",
   "ProductSlug": "elemental-war-2-d7db6e",
-  "Ranking_EOS_Progress": 444,
+  "Ranking_EOS_Progress": 441,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 311,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-07-20T15:00:00+00:00",
     "PcReleaseDate": "2022-05-06T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 12,
+  "EOS_Progressed": 13,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -84,6 +84,11 @@
       "Time": "2023-08-20T08:06:37.1246417+00:00",
       "NumProgressed": 12,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-24T05:07:56.2522294+00:00",
+      "NumProgressed": 13,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-06-30T11:02:07.8457997+00:00",
@@ -110,7 +115,7 @@
       "ID": "10",
       "SetID": "7095412",
       "Name": "Combiner",
-      "Percentage": 92,
+      "Percentage": 85,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -118,7 +123,7 @@
       "ID": "11",
       "SetID": "7095412",
       "Name": "3 in 1",
-      "Percentage": 75,
+      "Percentage": 69,
       "XP": 20,
       "UsersEstimate": 9
     },
@@ -126,7 +131,7 @@
       "ID": "12",
       "SetID": "7095412",
       "Name": "Bronze",
-      "Percentage": 67,
+      "Percentage": 62,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -142,7 +147,7 @@
       "ID": "14",
       "SetID": "7095412",
       "Name": "Silver",
-      "Percentage": 67,
+      "Percentage": 62,
       "XP": 15,
       "UsersEstimate": 8
     },
@@ -158,7 +163,7 @@
       "ID": "16",
       "SetID": "7095412",
       "Name": "Gold",
-      "Percentage": 25,
+      "Percentage": 23,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -190,7 +195,7 @@
       "ID": "2",
       "SetID": "7095412",
       "Name": "Equipper",
-      "Percentage": 92,
+      "Percentage": 85,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -214,7 +219,7 @@
       "ID": "22",
       "SetID": "7095412",
       "Name": "Bronze Rank",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -222,7 +227,7 @@
       "ID": "23",
       "SetID": "7095412",
       "Name": "Silver Rank",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -246,7 +251,7 @@
       "ID": "26",
       "SetID": "7095412",
       "Name": "Last Second",
-      "Percentage": 75,
+      "Percentage": 69,
       "XP": 20,
       "UsersEstimate": 9
     },
@@ -254,7 +259,7 @@
       "ID": "27",
       "SetID": "7095412",
       "Name": "Master of Defense",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -278,7 +283,7 @@
       "ID": "3",
       "SetID": "7095412",
       "Name": "First Time User",
-      "Percentage": 58,
+      "Percentage": 54,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -366,7 +371,7 @@
       "ID": "4",
       "SetID": "7095412",
       "Name": "Hunter",
-      "Percentage": 25,
+      "Percentage": 23,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -406,7 +411,7 @@
       "ID": "7",
       "SetID": "7095412",
       "Name": "Quest completed",
-      "Percentage": 25,
+      "Percentage": 23,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -424,20 +429,20 @@
       "Name": "Elemental Defeater",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     }
   ],
   "AchievementSets": [
     {
       "ID": "7095412",
       "IsBase": true,
-      "Progressed": 12,
+      "Progressed": 13,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-06-30T11:02:07.8457996+00:00",
-  "LastChanged_Achievements": "2023-08-24T04:07:09.9312984+00:00",
+  "LastChanged_Achievements": "2023-08-24T05:07:56.2522289+00:00",
   "LastUpdate_AppInfo": "2023-08-18T14:57:11.5210562+00:00",
-  "LastUpdate_Ratings": "2023-08-24T03:59:16.8695263+00:00",
-  "LastUpdate_Achievements": "2023-08-24T04:07:09.9313454+00:00"
+  "LastUpdate_Ratings": "2023-08-24T04:59:46.5559422+00:00",
+  "LastUpdate_Achievements": "2023-08-24T05:07:56.2522622+00:00"
 }

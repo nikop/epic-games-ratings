@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 24,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -702,9 +702,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 216435,
+  "EOS_Progressed": 216446,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3028,
+  "EOS_NewPlayers": 3032,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8072,6 +8072,11 @@
       "Time": "2023-08-24T04:03:05.7708033+00:00",
       "NumProgressed": 216435,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-24T05:03:06.1675419+00:00",
+      "NumProgressed": 216446,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -8083,7 +8088,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1731
+      "UsersEstimate": 1732
     },
     {
       "ID": "100Fail",
@@ -8147,7 +8152,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1731
+      "UsersEstimate": 1732
     },
     {
       "ID": "Chapter4",
@@ -8531,7 +8536,7 @@
       "Name": "Sowwy!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 47616
+      "UsersEstimate": 47618
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -8786,21 +8791,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 216435,
+      "Progressed": 216446,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 216435,
+      "Progressed": 216446,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-23T23:03:04.5779214+00:00",
-  "LastChanged_Achievements": "2023-08-24T04:03:05.7708025+00:00",
+  "LastChanged_Achievements": "2023-08-24T05:03:06.1675415+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:36.4163589+00:00",
-  "LastUpdate_Ratings": "2023-08-24T04:02:10.4416732+00:00",
-  "LastUpdate_Achievements": "2023-08-24T04:03:05.7710933+00:00"
+  "LastUpdate_Ratings": "2023-08-24T05:02:26.6010218+00:00",
+  "LastUpdate_Achievements": "2023-08-24T05:03:06.1677448+00:00"
 }

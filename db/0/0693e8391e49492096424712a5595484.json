@@ -3,9 +3,9 @@
   "Name": "Pilgrims",
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 244,
-  "Ranking_EOS_Completed": 43,
+  "Ranking_EOS_Completed": 41,
   "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 407,
-  "EOS_Completed": 27,
+  "EOS_Completed": 28,
   "EOS_NewPlayers": 11,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 6.63,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 6.88,
   "EosHistory": [
     {
       "Time": "2023-06-13T12:01:22.5999936+00:00",
@@ -1496,6 +1496,11 @@
       "Time": "2023-08-22T20:03:45.6577648+00:00",
       "NumProgressed": 407,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-08-24T05:04:57.7183346+00:00",
+      "NumProgressed": 407,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 45,
@@ -1553,9 +1558,9 @@
       "ID": "BearRum",
       "SetID": "db30heh",
       "Name": "Ready for Bed",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 81
     },
     {
       "ID": "BearSword",
@@ -1593,9 +1598,9 @@
       "ID": "BroomAmanita",
       "SetID": "db30heh",
       "Name": "Gone Cooking",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 199
+      "UsersEstimate": 204
     },
     {
       "ID": "BroomPistol",
@@ -1867,13 +1872,13 @@
       "ID": "db30heh",
       "IsBase": true,
       "Progressed": 407,
-      "Completed": 27
+      "Completed": 28
     }
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-08-24T04:04:33.1720937+00:00",
+  "LastChanged_Achievements": "2023-08-24T05:04:57.7183341+00:00",
   "LastUpdate_AppInfo": "2023-08-22T17:57:09.5805493+00:00",
-  "LastUpdate_Ratings": "2023-08-24T03:59:14.2886764+00:00",
-  "LastUpdate_Achievements": "2023-08-24T04:04:33.1721814+00:00"
+  "LastUpdate_Ratings": "2023-08-24T04:59:44.9735748+00:00",
+  "LastUpdate_Achievements": "2023-08-24T05:04:57.7183844+00:00"
 }

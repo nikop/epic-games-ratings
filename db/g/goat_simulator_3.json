@@ -3286,9 +3286,9 @@
       "Count": 272
     }
   ],
-  "EOS_Progressed": 241204,
+  "EOS_Progressed": 241205,
   "EOS_Completed": 810,
-  "EOS_NewPlayers": 1016,
+  "EOS_NewPlayers": 1014,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -16916,6 +16916,11 @@
       "Time": "2023-08-24T04:06:56.6220814+00:00",
       "NumProgressed": 241204,
       "NumCompleted": 810
+    },
+    {
+      "Time": "2023-08-24T05:07:40.8552738+00:00",
+      "NumProgressed": 241205,
+      "NumCompleted": 810
     }
   ],
   "TotalAchievements": 39,
@@ -16943,7 +16948,7 @@
       "Name": "Car Cave",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 28944
+      "UsersEstimate": 28945
     },
     {
       "ID": "AchievementBaywatchID",
@@ -16975,7 +16980,7 @@
       "Name": "New Goat Order",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 72361
+      "UsersEstimate": 72362
     },
     {
       "ID": "AchievementBoulderID",
@@ -16991,7 +16996,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 219496
+      "UsersEstimate": 219497
     },
     {
       "ID": "AchievementClownID",
@@ -17039,7 +17044,7 @@
       "Name": "What a Waste of Money",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 79597
+      "UsersEstimate": 79598
     },
     {
       "ID": "AchievementGoatID",
@@ -17055,7 +17060,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 127838
+      "UsersEstimate": 127839
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -17095,7 +17100,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 137486
+      "UsersEstimate": 137487
     },
     {
       "ID": "AchievementLootBoxID",
@@ -17159,7 +17164,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 178491
+      "UsersEstimate": 178492
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -17199,7 +17204,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 132662
+      "UsersEstimate": 132663
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -17238,7 +17243,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 241204,
+      "Progressed": 241205,
       "Completed": 810
     }
   ],
@@ -17246,8 +17251,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-08-23T18:58:28.298513+00:00",
-  "LastChanged_Achievements": "2023-08-24T04:06:56.6220803+00:00",
+  "LastChanged_Achievements": "2023-08-24T05:07:40.8552734+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:06.889898+00:00",
-  "LastUpdate_Ratings": "2023-08-24T03:58:33.8174262+00:00",
-  "LastUpdate_Achievements": "2023-08-24T04:06:56.6222536+00:00"
+  "LastUpdate_Ratings": "2023-08-24T04:59:00.9265511+00:00",
+  "LastUpdate_Achievements": "2023-08-24T05:07:40.8554385+00:00"
 }

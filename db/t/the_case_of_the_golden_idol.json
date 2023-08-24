@@ -4,8 +4,8 @@
   "ProductSlug": "the-case-of-the-golden-idol-ce58f7",
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 58,
-  "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-03-23T16:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 181,
+  "EOS_Progressed": 182,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.42,
+  "EOS_Completed_Percentage": 4.4,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:11.7250837+00:00",
@@ -713,6 +713,11 @@
       "Time": "2023-08-23T23:03:42.7522478+00:00",
       "NumProgressed": 181,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-08-24T05:03:43.6039432+00:00",
+      "NumProgressed": 182,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 14,
@@ -738,7 +743,7 @@
       "ID": "10",
       "SetID": "acl54ke",
       "Name": "Solved eleventh case",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -746,7 +751,7 @@
       "ID": "2",
       "SetID": "acl54ke",
       "Name": "Solved third case",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -754,7 +759,7 @@
       "ID": "3",
       "SetID": "acl54ke",
       "Name": "Solved fourth case",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -762,7 +767,7 @@
       "ID": "4",
       "SetID": "acl54ke",
       "Name": "Solved fifth case",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -770,7 +775,7 @@
       "ID": "5",
       "SetID": "acl54ke",
       "Name": "Solved sixth case",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -778,7 +783,7 @@
       "ID": "6",
       "SetID": "acl54ke",
       "Name": "Solved seventh case",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -786,7 +791,7 @@
       "ID": "7",
       "SetID": "acl54ke",
       "Name": "Solved eighth case",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -794,7 +799,7 @@
       "ID": "8",
       "SetID": "acl54ke",
       "Name": "Solved ninth case",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -802,7 +807,7 @@
       "ID": "9",
       "SetID": "acl54ke",
       "Name": "Solved tenth case",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -818,7 +823,7 @@
       "ID": "12",
       "SetID": "a3epimb",
       "Name": "Solved The Spider of Lanka 2nd Case",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 80,
       "UsersEstimate": 1
     },
@@ -826,7 +831,7 @@
       "ID": "13",
       "SetID": "a3epimb",
       "Name": "Solved The Spider of Lanka 3rd Case",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 100,
       "UsersEstimate": 1
     }
@@ -835,13 +840,13 @@
     {
       "ID": "acl54ke",
       "IsBase": true,
-      "Progressed": 181,
+      "Progressed": 182,
       "Completed": 8
     },
     {
       "ID": "a3epimb",
       "IsBase": false,
-      "Progressed": 128,
+      "Progressed": 129,
       "Completed": 108
     }
   ],
@@ -849,8 +854,8 @@
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2023-08-24T04:03:38.1856743+00:00",
+  "LastChanged_Achievements": "2023-08-24T05:03:43.6039429+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:04.7187425+00:00",
-  "LastUpdate_Ratings": "2023-08-24T04:01:19.8147101+00:00",
-  "LastUpdate_Achievements": "2023-08-24T04:03:38.185689+00:00"
+  "LastUpdate_Ratings": "2023-08-24T05:02:02.0766712+00:00",
+  "LastUpdate_Achievements": "2023-08-24T05:03:43.6039622+00:00"
 }

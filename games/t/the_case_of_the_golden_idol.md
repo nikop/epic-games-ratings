@@ -7,20 +7,20 @@
 | Solved first case | 2.00% | ~4 |
 | Solved The Spider of Lanka 1st Case | 2.00% | ~3 |
 | Solved second case | 1.00% | ~2 |
-| Solved eleventh case | 0.60% | ~1 |
-| Solved third case | 0.60% | ~1 |
-| Solved fourth case | 0.60% | ~1 |
-| Solved fifth case | 0.60% | ~1 |
-| Solved sixth case | 0.60% | ~1 |
-| Solved seventh case | 0.60% | ~1 |
-| Solved eighth case | 0.60% | ~1 |
-| Solved ninth case | 0.60% | ~1 |
-| Solved tenth case | 0.60% | ~1 |
-| Solved The Spider of Lanka 2nd Case | 0.60% | ~1 |
-| Solved The Spider of Lanka 3rd Case | 0.60% | ~1 |
+| Solved eleventh case | 0.50% | ~1 |
+| Solved third case | 0.50% | ~1 |
+| Solved fourth case | 0.50% | ~1 |
+| Solved fifth case | 0.50% | ~1 |
+| Solved sixth case | 0.50% | ~1 |
+| Solved seventh case | 0.50% | ~1 |
+| Solved eighth case | 0.50% | ~1 |
+| Solved ninth case | 0.50% | ~1 |
+| Solved tenth case | 0.50% | ~1 |
+| Solved The Spider of Lanka 2nd Case | 0.50% | ~1 |
+| Solved The Spider of Lanka 3rd Case | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 181 (Ranked 299)  
-Completed: 8 (4.42%) (Ranked 58)  
+Progressed: 182 (Ranked 299)  
+Completed: 8 (4.40%) (Ranked 58)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -90,6 +90,7 @@ Completed: 8 (4.42%) (Ranked 58)
 | 2023-08-19 | 179 | 8 |
 | 2023-08-20 | 180 | 8 |
 | 2023-08-23 | 181 | 8 |
+| 2023-08-24 | 182 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

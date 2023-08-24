@@ -6,15 +6,15 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~928,485 |
-| I Need a Bigger Garage | 63.00% | ~649,940 |
-| Pump my Ride | 47.00% | ~484,876 |
-| Ghostbuster | 33.00% | ~340,444 |
-| That Was Close | 18.00% | ~185,697 |
-| Call Roadside Assistance | 17.00% | ~175,380 |
-| Quickie | 11.00% | ~113,482 |
+| The First of Many | 90.00% | ~928,494 |
+| I Need a Bigger Garage | 63.00% | ~649,946 |
+| Pump my Ride | 47.00% | ~484,880 |
+| Ghostbuster | 33.00% | ~340,448 |
+| That Was Close | 18.00% | ~185,699 |
+| Call Roadside Assistance | 17.00% | ~175,382 |
+| Quickie | 11.00% | ~113,483 |
 | California Dreamer | 7.00% | ~72,216 |
-| Can't Touch This | 5.00% | ~51,582 |
+| Can't Touch This | 5.00% | ~51,583 |
 | Carménère Taster | 3.00% | ~30,950 |
 | Supersonic | 3.00% | ~30,950 |
 | Comeback | 3.00% | ~30,950 |
@@ -26,12 +26,12 @@ Number of Ratings: 1,343  (23.09.2022)
 | Go-Kart Champion | 2.00% | ~20,633 |
 | Completionist | 2.00% | ~20,633 |
 | Harder, Better, Faster, Stronger | 2.00% | ~20,633 |
-| The Iceman | 1.00% | ~10,316 |
-| Bollywood Star | 1.00% | ~10,316 |
-| Oil Tycoon | 1.00% | ~10,316 |
-| Round the Globe | 1.00% | ~10,316 |
-| Golden Passport | 1.00% | ~10,316 |
-| Brave and Bold | 1.00% | ~10,316 |
+| The Iceman | 1.00% | ~10,317 |
+| Bollywood Star | 1.00% | ~10,317 |
+| Oil Tycoon | 1.00% | ~10,317 |
+| Round the Globe | 1.00% | ~10,317 |
+| Golden Passport | 1.00% | ~10,317 |
+| Brave and Bold | 1.00% | ~10,317 |
 | Crocodile Hunter | 0.90% | ~9,285 |
 | Old Master | 0.90% | ~9,285 |
 | Volcano Surfer | 0.80% | ~8,253 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,032 |
 | Look Mom, No Hands! | 0.10% | ~1,032 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,031,650 (Ranked 12)  
+Progressed: 1,031,660 (Ranked 12)  
 Completed: 403 (0.04%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 403 (0.04%) (Ranked 232)
 | 2023-08-21 | 1,030,539 | 402 |
 | 2023-08-22 | 1,031,042 | 402 |
 | 2023-08-23 | 1,031,562 | 403 |
-| 2023-08-24 | 1,031,650 | 403 |
+| 2023-08-24 | 1,031,660 | 403 |
 ## Awards
 Max (Great for Beginners): 153  (Ranked 296)  
 Sum: 1,259 (Ranked 229)  

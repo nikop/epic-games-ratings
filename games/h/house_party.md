@@ -71,10 +71,10 @@ Number of Ratings: 177  (23.09.2022)
 | Sucker Punch | 0.10% | ~6 |
 | That's a Nice Bush! | 0.10% | ~3 |
 | The Crush(es) | 0.10% | ~6 |
+| The Most Wonderful Time of the Year | 0.10% | ~3 |
 | La Coochadora | 0.10% | ~6 |
 | Simple Geometry | 0.10% | ~6 |
 | D-Club Certified | 0.00% | ~0 |
-| The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 6,090 (Ranked 138)  
 Completed: 3 (0.05%) (Ranked 229)  

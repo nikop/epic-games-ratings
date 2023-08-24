@@ -6040,9 +6040,9 @@
       "Count": 3366
     }
   ],
-  "EOS_Progressed": 224474,
+  "EOS_Progressed": 224483,
   "EOS_Completed": 2210,
-  "EOS_NewPlayers": 1876,
+  "EOS_NewPlayers": 1878,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -19770,6 +19770,11 @@
       "Time": "2023-08-24T04:06:58.4055792+00:00",
       "NumProgressed": 224474,
       "NumCompleted": 2210
+    },
+    {
+      "Time": "2023-08-24T05:07:43.5644393+00:00",
+      "NumProgressed": 224483,
+      "NumCompleted": 2210
     }
   ],
   "TotalAchievements": 516,
@@ -19781,7 +19786,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4489
+      "UsersEstimate": 4490
     },
     {
       "ID": "objective_completed_10",
@@ -19853,7 +19858,7 @@
       "Name": "Tall Tales",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "objective_completed_1051",
@@ -19885,7 +19890,7 @@
       "Name": "The Witchlight Carnival",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "objective_completed_1056",
@@ -20405,7 +20410,7 @@
       "Name": "Seeds of Destruction",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "objective_completed_1153",
@@ -20461,7 +20466,7 @@
       "Name": "Vecna Lives!",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "objective_completed_1164",
@@ -20485,7 +20490,7 @@
       "Name": "Vecna Loots!",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "objective_completed_1169",
@@ -20517,7 +20522,7 @@
       "Name": "Return to the Tomb",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "objective_completed_1174",
@@ -20541,7 +20546,7 @@
       "Name": "Heatwave",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "objective_completed_1179",
@@ -20565,7 +20570,7 @@
       "Name": "The Dread Domain of Tovag",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "objective_completed_1184",
@@ -22893,7 +22898,7 @@
       "Name": "The Everlasting Rime",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "objective_completed_696",
@@ -23805,7 +23810,7 @@
       "Name": "Rocky Reception",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "objective_completed_1376",
@@ -23821,7 +23826,7 @@
       "Name": "Rock and Roll",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "objective_completed_1381",
@@ -23901,28 +23906,28 @@
       "Name": "There\u0027s a Flying Snake in my Boot!",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 190748,
+      "Progressed": 190757,
       "Completed": 3298
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 224474,
+      "Progressed": 224483,
       "Completed": 2210
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-23T19:00:34.1383299+00:00",
-  "LastChanged_Achievements": "2023-08-24T04:06:58.4055787+00:00",
+  "LastChanged_Achievements": "2023-08-24T05:07:43.5644388+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:12.3267162+00:00",
-  "LastUpdate_Ratings": "2023-08-24T04:00:43.264327+00:00",
-  "LastUpdate_Achievements": "2023-08-24T04:06:58.4088075+00:00"
+  "LastUpdate_Ratings": "2023-08-24T05:01:23.7300962+00:00",
+  "LastUpdate_Achievements": "2023-08-24T05:07:43.5677755+00:00"
 }

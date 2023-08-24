@@ -4177,7 +4177,7 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 701915,
+  "EOS_Progressed": 701916,
   "EOS_Completed": 6315,
   "EOS_NewPlayers": 492,
   "EOS_NewCompleters": 13,
@@ -17582,6 +17582,11 @@
       "Time": "2023-08-24T04:06:32.9170367+00:00",
       "NumProgressed": 701915,
       "NumCompleted": 6315
+    },
+    {
+      "Time": "2023-08-24T05:07:14.9578393+00:00",
+      "NumProgressed": 701916,
+      "NumCompleted": 6315
     }
   ],
   "TotalAchievements": 49,
@@ -17609,7 +17614,7 @@
       "Name": "To Charon\u0027s Credit",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 154421
+      "UsersEstimate": 154422
     },
     {
       "ID": "AchBronzeSkellyTrophy",
@@ -17657,7 +17662,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 561532
+      "UsersEstimate": 561533
     },
     {
       "ID": "AchClearElysium",
@@ -17665,7 +17670,7 @@
       "Name": "Escaped Elysium",
       "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 463264
+      "UsersEstimate": 463265
     },
     {
       "ID": "AchClearElysiumEM",
@@ -17697,7 +17702,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 624704
+      "UsersEstimate": 624705
     },
     {
       "ID": "AchCrushedThanatos",
@@ -17753,7 +17758,7 @@
       "Name": "Rare Collectible",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 154421
+      "UsersEstimate": 154422
     },
     {
       "ID": "AchGreaterCall",
@@ -17761,7 +17766,7 @@
       "Name": "Friends in High Places",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 477302
+      "UsersEstimate": 477303
     },
     {
       "ID": "AchGreaterCallSpurned",
@@ -17809,7 +17814,7 @@
       "Name": "Blood Bound",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 245670
+      "UsersEstimate": 245671
     },
     {
       "ID": "AchMeetChthonicGods",
@@ -17817,7 +17822,7 @@
       "Name": "Chthonic Colleagues",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 442206
+      "UsersEstimate": 442207
     },
     {
       "ID": "AchMirrorAllUnlocked",
@@ -17865,7 +17870,7 @@
       "Name": "Urge to Sing",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 252689
+      "UsersEstimate": 252690
     },
     {
       "ID": "AchPactUpgradesClears",
@@ -17889,7 +17894,7 @@
       "Name": "Tools of the Architect",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 161440
+      "UsersEstimate": 161441
     },
     {
       "ID": "AchPurgedLegendBoon",
@@ -17945,7 +17950,7 @@
       "Name": "Skelly Slayer",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 294804
+      "UsersEstimate": 294805
     },
     {
       "ID": "AchUnlockedAllWeapons",
@@ -17961,7 +17966,7 @@
       "Name": "Master of Arms",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 161440
+      "UsersEstimate": 161441
     },
     {
       "ID": "AchWellShopItems",
@@ -17984,15 +17989,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 701915,
+      "Progressed": 701916,
       "Completed": 6315
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
   "LastChanged": "2023-08-23T20:59:53.7207195+00:00",
-  "LastChanged_Achievements": "2023-08-24T04:06:32.9170359+00:00",
+  "LastChanged_Achievements": "2023-08-24T05:07:14.9578389+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:54.0652189+00:00",
-  "LastUpdate_Ratings": "2023-08-24T04:00:29.1394176+00:00",
-  "LastUpdate_Achievements": "2023-08-24T04:06:32.9172712+00:00"
+  "LastUpdate_Ratings": "2023-08-24T05:01:08.4073331+00:00",
+  "LastUpdate_Achievements": "2023-08-24T05:07:14.9580073+00:00"
 }

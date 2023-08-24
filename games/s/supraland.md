@@ -6,22 +6,22 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~715,669 |
-| The Blues | 85.00% | ~614,463 |
-| Fast | 66.00% | ~477,113 |
-| Healthbar | 55.00% | ~397,594 |
-| Force Cube | 53.00% | ~383,136 |
-| Double Jump | 48.00% | ~346,991 |
-| Regeneration | 47.00% | ~339,762 |
-| Triple Jump | 43.00% | ~310,846 |
-| Climb the hill | 42.00% | ~303,617 |
-| Through the fire pipe | 38.00% | ~274,701 |
-| MacGuffin | 38.00% | ~274,701 |
-| Just once | 37.00% | ~267,472 |
-| Armor | 30.00% | ~216,869 |
-| True holy spirit | 28.00% | ~202,411 |
-| That's how electronics work obviously | 26.00% | ~187,953 |
-| Force Cube Catapult | 25.00% | ~180,724 |
+| Out of bed | 99.00% | ~715,671 |
+| The Blues | 85.00% | ~614,465 |
+| Fast | 66.00% | ~477,114 |
+| Healthbar | 55.00% | ~397,595 |
+| Force Cube | 53.00% | ~383,137 |
+| Double Jump | 48.00% | ~346,992 |
+| Regeneration | 47.00% | ~339,763 |
+| Triple Jump | 43.00% | ~310,847 |
+| Climb the hill | 42.00% | ~303,618 |
+| Through the fire pipe | 38.00% | ~274,702 |
+| MacGuffin | 38.00% | ~274,702 |
+| Just once | 37.00% | ~267,473 |
+| Armor | 30.00% | ~216,870 |
+| True holy spirit | 28.00% | ~202,412 |
+| That's how electronics work obviously | 26.00% | ~187,954 |
+| Force Cube Catapult | 25.00% | ~180,725 |
 | Holy Sword | 23.00% | ~166,267 |
 | Telefrag | 22.00% | ~159,038 |
 | Freed from prison | 21.00% | ~151,809 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~723 |
 | DLC: Top of the world | 0.10% | ~723 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 722,898 (Ranked 19)  
+Progressed: 722,900 (Ranked 19)  
 Completed: 728 (0.10%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 728 (0.10%) (Ranked 210)
 | 2023-08-21 | 722,619 | 725 |
 | 2023-08-22 | 722,743 | 726 |
 | 2023-08-23 | 722,879 | 728 |
-| 2023-08-24 | 722,898 | 728 |
+| 2023-08-24 | 722,900 | 728 |
 ## Awards
 Max (Challenging Puzzles): 7,672  (Ranked 46)  
 Sum: 9,996 (Ranked 84)  

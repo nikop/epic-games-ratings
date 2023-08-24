@@ -8,7 +8,7 @@
 | Treasure hunter | 91.00% | ~202 |
 | Survivalist | 83.00% | ~184 |
 | Challenge seeker | 79.00% | ~175 |
-| Coin collector | 73.00% | ~162 |
+| Coin collector | 74.00% | ~164 |
 | Floater | 59.00% | ~131 |
 | Speedrunner | 45.00% | ~100 |
 | On foot racer | 41.00% | ~91 |

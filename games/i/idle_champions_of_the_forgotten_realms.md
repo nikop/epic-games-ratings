@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~4,489 |
+| A Brief Tour of the Realms | 2.00% | ~4,490 |
 | Beast Intentions | 0.60% | ~1,347 |
 | The Cursed Farmer | 0.60% | ~1,347 |
 | The Hunt for The Last Breath | 0.50% | ~954 |
@@ -18,16 +18,16 @@ Number of Ratings: 9,041  (23.09.2022)
 | Are Ya Chicken? | 0.30% | ~673 |
 | The Chaotic Hunt for The Last Breath | 0.30% | ~572 |
 | Maddening | 0.20% | ~449 |
-| Tall Tales | 0.20% | ~381 |
-| The Witchlight Carnival | 0.20% | ~381 |
+| Tall Tales | 0.20% | ~382 |
+| The Witchlight Carnival | 0.20% | ~382 |
 | The Silken Swamp | 0.20% | ~449 |
 | Supply Run | 0.20% | ~449 |
-| Seeds of Destruction | 0.20% | ~381 |
-| Vecna Lives! | 0.20% | ~381 |
-| Vecna Loots! | 0.20% | ~381 |
-| Return to the Tomb | 0.20% | ~381 |
-| Heatwave | 0.20% | ~381 |
-| The Dread Domain of Tovag | 0.20% | ~381 |
+| Seeds of Destruction | 0.20% | ~382 |
+| Vecna Lives! | 0.20% | ~382 |
+| Vecna Loots! | 0.20% | ~382 |
+| Return to the Tomb | 0.20% | ~382 |
+| Heatwave | 0.20% | ~382 |
+| The Dread Domain of Tovag | 0.20% | ~382 |
 | A Persistent Buzzing | 0.20% | ~449 |
 | Beast Mode | 0.20% | ~449 |
 | Terror in the Dark | 0.20% | ~449 |
@@ -57,16 +57,16 @@ Number of Ratings: 9,041  (23.09.2022)
 | Running of the Saurs | 0.20% | ~449 |
 | The Contagious Curse | 0.20% | ~449 |
 | Escort to Waterdeep | 0.20% | ~449 |
-| The Everlasting Rime | 0.20% | ~381 |
+| The Everlasting Rime | 0.20% | ~382 |
 | Waterdeep Detours | 0.20% | ~449 |
 | Underdeep Cartography | 0.20% | ~449 |
 | Friendly Imps | 0.20% | ~449 |
 | Overdue Rendezvous | 0.20% | ~449 |
 | Pure Energy | 0.20% | ~449 |
 | The Templar's Camp | 0.20% | ~449 |
-| Rocky Reception | 0.20% | ~381 |
-| Rock and Roll | 0.20% | ~381 |
-| There's a Flying Snake in my Boot! | 0.20% | ~381 |
+| Rocky Reception | 0.20% | ~382 |
+| Rock and Roll | 0.20% | ~382 |
+| There's a Flying Snake in my Boot! | 0.20% | ~382 |
 | Pros and CONs | 0.10% | ~224 |
 | Upholding the Law | 0.10% | ~224 |
 | Starving in the Jungle | 0.10% | ~224 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~191 |
 | Animated Giff | 0.10% | ~191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,474 (Ranked 53)  
+Progressed: 224,483 (Ranked 53)  
 Completed: 2,210 (0.98%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -649,7 +649,7 @@ Completed: 2,210 (0.98%) (Ranked 121)
 | 2023-08-21 | 223,996 | 2,203 |
 | 2023-08-22 | 224,213 | 2,207 |
 | 2023-08-23 | 224,434 | 2,210 |
-| 2023-08-24 | 224,474 | 2,210 |
+| 2023-08-24 | 224,483 | 2,210 |
 ## Awards
 Max (Diverse Characters): 5,179  (Ranked 68)  
 Sum: 31,183 (Ranked 39)  

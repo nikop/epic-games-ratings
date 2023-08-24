@@ -5,30 +5,30 @@ Rating: 4.69 (Ranked 216)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 28.00% | ~180,832 |
-| 50 HEADSHOTS | 26.00% | ~167,915 |
-| SCIENCE AND INDUSTRY | 25.00% | ~161,457 |
-| FINISHED CHAPTER 1 | 24.00% | ~154,999 |
-| FINISHED CHAPTER 2 | 18.00% | ~116,249 |
-| 200 HEADSHOTS | 16.00% | ~103,332 |
-| FINISHED CHAPTER 3 | 15.00% | ~96,874 |
-| FINISHED CHAPTER 4 | 13.00% | ~83,958 |
-| FINISH CHAPTER 5 | 11.00% | ~71,041 |
-| FINISH CHAPTER 6 | 9.00% | ~58,125 |
-| CATHARTIC ESCAPISM | 9.00% | ~58,125 |
-| 1000 KILLS | 8.00% | ~51,666 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~25,833 |
+| 100 KILLS | 28.00% | ~180,837 |
+| 50 HEADSHOTS | 26.00% | ~167,920 |
+| SCIENCE AND INDUSTRY | 25.00% | ~161,462 |
+| FINISHED CHAPTER 1 | 24.00% | ~155,004 |
+| FINISHED CHAPTER 2 | 18.00% | ~116,253 |
+| 200 HEADSHOTS | 16.00% | ~103,336 |
+| FINISHED CHAPTER 3 | 15.00% | ~96,877 |
+| FINISHED CHAPTER 4 | 13.00% | ~83,960 |
+| FINISH CHAPTER 5 | 11.00% | ~71,043 |
+| FINISH CHAPTER 6 | 9.00% | ~58,126 |
+| CATHARTIC ESCAPISM | 9.00% | ~58,126 |
+| 1000 KILLS | 8.00% | ~51,668 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~25,834 |
 | FIRST BLOOD | 2.00% | ~12,917 |
 | FIREFIGHT LEVEL 20 | 1.00% | ~6,458 |
 | PACEMAKER | 1.00% | ~6,458 |
-| TIME PARADOX | 0.90% | ~5,812 |
+| TIME PARADOX | 0.90% | ~5,813 |
 | OUT OF ORDER | 0.80% | ~5,167 |
 | FIREFIGHT LEVEL 30 | 0.70% | ~4,521 |
 | PARTYHARD | 0.60% | ~3,875 |
 | NEW GAME PLUS | 0.50% | ~3,229 |
 | FIREFIGHT LEVEL 40 | 0.40% | ~2,583 |
-| CHURCH | 0.30% | ~1,937 |
-| FIREFIGHT LEVEL 50 | 0.30% | ~1,937 |
+| CHURCH | 0.30% | ~1,938 |
+| FIREFIGHT LEVEL 50 | 0.30% | ~1,938 |
 | FIREFIGHT LEVEL 60 | 0.20% | ~1,292 |
 | REMEMBER THE ARMORY | 0.20% | ~1,292 |
 | 5 RUNS | 0.20% | ~1,292 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 216)
 | THE GAMBLER | 0.10% | ~646 |
 | WARRIOR IN A GARDEN | 0.10% | ~646 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 645,828 (Ranked 25)  
+Progressed: 645,848 (Ranked 25)  
 Completed: 52 (0.01%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 52 (0.01%) (Ranked 249)
 | 2023-08-21 | 644,037 | 52 |
 | 2023-08-22 | 644,883 | 52 |
 | 2023-08-23 | 645,682 | 52 |
-| 2023-08-24 | 645,828 | 52 |
+| 2023-08-24 | 645,848 | 52 |
 ## Awards
 Max (Great Boss Battles): 262  (Ranked 250)  
 Sum: 262 (Ranked 352)  

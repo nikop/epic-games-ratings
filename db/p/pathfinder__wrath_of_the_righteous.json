@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3536,7 +3536,7 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 11043,
+  "EOS_Progressed": 11044,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
@@ -11211,6 +11211,11 @@
       "Time": "2023-08-24T04:06:04.7420335+00:00",
       "NumProgressed": 11043,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-24T05:06:42.4696686+00:00",
+      "NumProgressed": 11044,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -12094,7 +12099,7 @@
       "Name": "Stay Underground",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "DLC4_24_Hanged Man\u0027s Notes",
@@ -12102,7 +12107,7 @@
       "Name": "Hanged Man\u0027s Notes",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "DLC4_25_Sarkoris Will Be Green",
@@ -12110,7 +12115,7 @@
       "Name": "Sarkoris Will Be Green",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "DLC4_26_This Wall Won\u0027t Fall",
@@ -12149,21 +12154,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9825,
+      "Progressed": 9826,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11043,
+      "Progressed": 11044,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-23T13:04:06.393487+00:00",
-  "LastChanged_Achievements": "2023-08-24T04:06:04.7420326+00:00",
+  "LastChanged_Achievements": "2023-08-24T05:06:42.4696682+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:48.9326646+00:00",
-  "LastUpdate_Ratings": "2023-08-24T04:01:06.4255388+00:00",
-  "LastUpdate_Achievements": "2023-08-24T04:06:04.7424015+00:00"
+  "LastUpdate_Ratings": "2023-08-24T05:01:48.6093295+00:00",
+  "LastUpdate_Achievements": "2023-08-24T05:06:42.4698713+00:00"
 }
