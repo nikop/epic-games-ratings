@@ -272,7 +272,7 @@
 | 256 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 0 | 514 |
 | 256 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 89 | 352 |
 | 256 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 0 | 514 |
-| 256 | [Trackmania](games/t/trackmania.md) | 4.67 | 3,166 | 94 |
+| 256 | [Trackmania](games/t/trackmania.md) | 4.67 | 3,171 | 94 |
 | 256 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 0 | 514 |
 | 275 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 76 | 367 |
 | 275 | [Coromon](games/c/coromon.md) | 4.66 | 41 | 423 |
@@ -463,7 +463,7 @@
 | 451 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.57 | 0 | 514 |
 | 451 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,704 | 45 |
 | 451 | [Observation](games/o/observation.md) | 4.57 | 0 | 514 |
-| 451 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,216 | 92 |
+| 451 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,216 | 93 |
 | 451 | [Risen](games/r/risen.md) | 4.57 | 0 | 514 |
 | 451 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.57 | 0 | 514 |
 | 451 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 3,767 | 82 |
@@ -488,7 +488,7 @@
 | 485 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.55 | 0 | 514 |
 | 485 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 1,398 | 128 |
 | 485 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.55 | 68 | 381 |
-| 485 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 238 | 258 |
+| 485 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 239 | 258 |
 | 485 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.55 | 153 | 296 |
 | 485 | [Isonzo](games/i/isonzo.md) | 4.55 | 35 | 437 |
 | 485 | [IXION](games/i/ixion.md) | 4.55 | 0 | 514 |
@@ -503,7 +503,7 @@
 | 501 | [Aragami 2](games/a/aragami_2.md) | 4.54 | 0 | 514 |
 | 501 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 5,743 | 62 |
 | 501 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 34 | 441 |
-| 501 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,296 | 131 |
+| 501 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,297 | 131 |
 | 501 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.54 | 0 | 514 |
 | 501 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.54 | 72 | 377 |
 | 501 | [Oxenfree](games/o/oxenfree.md) | 4.54 | 0 | 514 |
@@ -616,7 +616,7 @@
 | 595 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.48 | 36 | 433 |
 | 615 | [ATOM RPG](games/a/atom_rpg.md) | 4.47 | 49 | 406 |
 | 615 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.47 | 0 | 514 |
-| 615 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,502 | 86 |
+| 615 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,502 | 87 |
 | 615 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.47 | 0 | 514 |
 | 615 | [Orwell: Keeping an Eye on You](games/o/orwell__keeping_an_eye_on_you.md) | 4.47 | 0 | 514 |
 | 615 | [Riverbond](games/r/riverbond.md) | 4.47 | 0 | 514 |
@@ -626,7 +626,7 @@
 | 615 | [The Escapists](games/t/the_escapists.md) | 4.47 | 0 | 514 |
 | 625 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.46 | 0 | 514 |
 | 625 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 0 | 514 |
-| 625 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,502 | 86 |
+| 625 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,504 | 86 |
 | 625 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.46 | 0 | 514 |
 | 625 | [Chorus](games/c/chorus.md) | 4.46 | 32 | 456 |
 | 625 | [Figment](games/f/figment.md) | 4.46 | 20 | 509 |
@@ -941,7 +941,7 @@
 | 936 | [Shop Titans](games/s/shop_titans.md) | 3.99 | 4,709 | 71 |
 | 936 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.99 | 0 | 514 |
 | 941 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 514 |
-| 941 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 3,207 | 93 |
+| 941 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 3,223 | 92 |
 | 941 | [The First Tree](games/t/the_first_tree.md) | 3.98 | 0 | 514 |
 | 944 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 0 | 514 |
 | 945 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 3.96 | 0 | 514 |
