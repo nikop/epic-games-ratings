@@ -396,7 +396,7 @@
       "Count": 79
     }
   ],
-  "EOS_Progressed": 243251,
+  "EOS_Progressed": 243253,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 933,
   "EOS_NewCompleters": 0,
@@ -14241,6 +14241,11 @@
       "Time": "2023-08-24T02:18:16.9508136+00:00",
       "NumProgressed": 243251,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-24T03:04:25.0085741+00:00",
+      "NumProgressed": 243253,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -14396,7 +14401,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 68110
+      "UsersEstimate": 68111
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -14468,7 +14473,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 58380
+      "UsersEstimate": 58381
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -14667,7 +14672,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 243251,
+      "Progressed": 243253,
       "Completed": 7
     }
   ],
@@ -14675,8 +14680,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-08-15T07:59:00.2810594+00:00",
-  "LastChanged_Achievements": "2023-08-24T02:18:16.9508132+00:00",
+  "LastChanged_Achievements": "2023-08-24T03:04:25.0085735+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:56.7497354+00:00",
-  "LastUpdate_Ratings": "2023-08-24T02:13:12.8941373+00:00",
-  "LastUpdate_Achievements": "2023-08-24T02:18:16.9509167+00:00"
+  "LastUpdate_Ratings": "2023-08-24T02:59:35.5139108+00:00",
+  "LastUpdate_Achievements": "2023-08-24T03:04:25.0087374+00:00"
 }

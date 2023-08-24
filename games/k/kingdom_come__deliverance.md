@@ -7,7 +7,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Blacksmith's Son | 32.00% | ~255,426 |
-| Cavalier | 25.00% | ~199,551 |
+| Cavalier | 25.00% | ~199,552 |
 | Fatso | 23.00% | ~183,587 |
 | Awakening | 21.00% | ~167,623 |
 | Ranger | 20.00% | ~159,641 |
@@ -19,9 +19,9 @@ Number of Ratings: 9,133  (23.09.2022)
 | Buddy | 12.00% | ~95,785 |
 | Thief | 12.00% | ~95,785 |
 | Sinner | 11.00% | ~87,803 |
-| Convict | 10.00% | ~79,820 |
-| Traveller | 10.00% | ~79,820 |
-| Haggler | 9.00% | ~71,838 |
+| Convict | 10.00% | ~79,821 |
+| Traveller | 10.00% | ~79,821 |
+| Haggler | 9.00% | ~71,839 |
 | McLovin | 7.00% | ~55,874 |
 | Runt | 7.00% | ~55,874 |
 | Casanova | 6.00% | ~47,892 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~798 |
 | Wingman | 0.10% | ~798 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 798,205 (Ranked 16)  
+Progressed: 798,206 (Ranked 16)  
 Completed: 44 (0.01%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,7 +215,7 @@ Completed: 44 (0.01%) (Ranked 249)
 | 2023-08-21 | 797,957 | 44 |
 | 2023-08-22 | 798,080 | 44 |
 | 2023-08-23 | 798,189 | 44 |
-| 2023-08-24 | 798,205 | 44 |
+| 2023-08-24 | 798,206 | 44 |
 ## Awards
 Max (Character Customization): 7,399  (Ranked 47)  
 Sum: 27,556 (Ranked 46)  

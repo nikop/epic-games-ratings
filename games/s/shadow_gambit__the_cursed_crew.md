@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 73.00% | ~342 |
+| A New Journey | 74.00% | ~346 |
 | The Adventure Begins | 52.00% | ~243 |
 | Swabbie | 36.00% | ~168 |
 | With Great Power… | 31.00% | ~145 |

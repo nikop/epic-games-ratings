@@ -1936,9 +1936,9 @@
       "ID": "MissionHelios",
       "SetID": "a6c395p",
       "Name": "Cult Slayer",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 456
+      "UsersEstimate": 468
     },
     {
       "ID": "MissionLiberateEnclave",
@@ -2112,8 +2112,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-08-19T10:57:32.3642226+00:00",
-  "LastChanged_Achievements": "2023-08-24T02:19:43.3497488+00:00",
+  "LastChanged_Achievements": "2023-08-24T03:05:52.0557991+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:41.1503098+00:00",
-  "LastUpdate_Ratings": "2023-08-24T02:11:11.3301812+00:00",
-  "LastUpdate_Achievements": "2023-08-24T02:19:43.3497868+00:00"
+  "LastUpdate_Ratings": "2023-08-24T02:57:44.4643708+00:00",
+  "LastUpdate_Achievements": "2023-08-24T03:05:52.0558462+00:00"
 }
