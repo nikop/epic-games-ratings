@@ -32,7 +32,7 @@
 | 30 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
 | 31 | [Sonic Origins](games/s/sonic_origins.md) | 9.38% |
 | 32 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
-| 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.00% |
+| 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.99% |
 | 34 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.47% |
 | 35 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 7.69% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.59% |
@@ -40,7 +40,7 @@
 | 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.05% |
 | 39 | [Scorn](games/s/scorn.md) | 7.00% |
 | 40 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.90% |
-| 41 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.88% |
+| 41 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.86% |
 | 42 | [Time Loader](games/t/time_loader.md) | 6.78% |
 | 43 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 6.67% |
 | 44 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.36% |
@@ -75,7 +75,7 @@
 | 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.13% |
 | 74 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.04% |
 | 75 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.03% |
-| 76 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 3.00% |
+| 76 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.96% |
 | 77 | [Monster Harvest](games/m/monster_harvest.md) | 2.94% |
 | 78 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 79 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.80% |
