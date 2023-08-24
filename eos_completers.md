@@ -64,8 +64,8 @@
 | 62 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.98% |
 | 63 | [ZZT!](games/z/zzt!.md) | 3.86% |
 | 64 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
-| 65 | [Without Escape](games/w/without_escape.md) | 3.57% |
-| 66 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
+| 65 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
+| 66 | [Without Escape](games/w/without_escape.md) | 3.45% |
 | 67 | [Doodle God](games/d/doodle_god.md) | 3.43% |
 | 68 | [Bunny Park](games/b/bunny_park.md) | 3.37% |
 | 69 | [The Complex](games/t/the_complex.md) | 3.35% |
@@ -87,14 +87,14 @@
 | 85 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.56% |
 | 86 | [Lamentum](games/l/lamentum.md) | 2.53% |
 | 87 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 88 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.49% |
+| 88 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.48% |
 | 89 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.42% |
 | 90 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.28% |
 | 91 | [Bloodshore](games/b/bloodshore.md) | 2.21% |
 | 92 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
 | 93 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.01% |
 | 94 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
-| 94 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
+| 95 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.89% |
 | 96 | [Night Book](games/n/night_book.md) | 1.87% |
 | 97 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 98 | [Sifu](games/s/sifu.md) | 1.81% |
@@ -120,8 +120,8 @@
 | 118 | [Adios](games/a/adios.md) | 1.01% |
 | 118 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.01% |
 | 120 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.00% |
-| 121 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
-| 121 | [Sable](games/s/sable.md) | 0.98% |
+| 121 | [Sable](games/s/sable.md) | 0.99% |
+| 122 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
 | 123 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.96% |
 | 124 | [Hades](games/h/hades.md) | 0.90% |
 | 125 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
@@ -159,10 +159,10 @@
 | 157 | [Tails of Iron](games/t/tails_of_iron.md) | 0.43% |
 | 158 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.41% |
 | 159 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.39% |
-| 160 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
-| 161 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.37% |
-| 161 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.37% |
-| 161 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
+| 160 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.37% |
+| 160 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.37% |
+| 160 | [Ghostrunner](games/g/ghostrunner.md) | 0.37% |
+| 160 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 164 | [Wildermyth](games/w/wildermyth.md) | 0.36% |
 | 165 | [The Surge](games/t/the_surge.md) | 0.35% |
 | 165 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.35% |
