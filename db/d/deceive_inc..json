@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17600,
+  "EOS_Progressed": 17601,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8916,6 +8916,11 @@
       "Time": "2023-08-24T03:05:10.8273054+00:00",
       "NumProgressed": 17600,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-24T07:05:59.8075277+00:00",
+      "NumProgressed": 17601,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -8997,9 +9002,9 @@
       "ID": "0010",
       "SetID": "2n2feee",
       "Name": "Social of Solace",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 704
+      "UsersEstimate": 528
     },
     {
       "ID": "0011",
@@ -9214,7 +9219,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17600,
+      "Progressed": 17601,
       "Completed": 1
     }
   ],
@@ -9222,8 +9227,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-12T19:04:41.1874293+00:00",
-  "LastChanged_Achievements": "2023-08-24T06:05:48.3961877+00:00",
+  "LastChanged_Achievements": "2023-08-24T07:05:59.8075273+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:28.6624095+00:00",
-  "LastUpdate_Ratings": "2023-08-24T05:57:38.9778164+00:00",
-  "LastUpdate_Achievements": "2023-08-24T06:05:48.3962831+00:00"
+  "LastUpdate_Ratings": "2023-08-24T06:58:05.0095131+00:00",
+  "LastUpdate_Achievements": "2023-08-24T07:05:59.8075875+00:00"
 }

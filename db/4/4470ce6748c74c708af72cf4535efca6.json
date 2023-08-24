@@ -198,9 +198,9 @@
       "ID": "18",
       "SetID": "5e3maia",
       "Name": "Patriot",
-      "Percentage": 11,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "19",
@@ -677,8 +677,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-08-24T06:05:06.9281939+00:00",
+  "LastChanged_Achievements": "2023-08-24T07:05:18.6310532+00:00",
   "LastUpdate_AppInfo": "2023-08-18T21:57:04.0506989+00:00",
-  "LastUpdate_Ratings": "2023-08-24T05:58:22.6702414+00:00",
-  "LastUpdate_Achievements": "2023-08-24T06:05:06.9282862+00:00"
+  "LastUpdate_Ratings": "2023-08-24T06:58:49.9322061+00:00",
+  "LastUpdate_Achievements": "2023-08-24T07:05:18.6311183+00:00"
 }

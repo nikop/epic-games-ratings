@@ -5,29 +5,29 @@ Rating: 4.40 (Ranked 706)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zero Saints Thirty | 64.00% | ~160,318 |
-| Destroyer-In-Chief | 58.00% | ~145,288 |
-| There Is No Pancakes | 55.00% | ~137,773 |
-| First of Many | 43.00% | ~107,714 |
-| Woah. | 37.00% | ~92,684 |
-| Don't Look Down | 30.00% | ~75,149 |
-| Don't Panic | 28.00% | ~70,139 |
-| Ooo A Piece of Candy! | 23.00% | ~57,614 |
-| Ghost in the Machine | 18.00% | ~45,089 |
-| All Too Easy | 16.00% | ~40,080 |
-| Didn't Need to See Him Naked | 14.00% | ~35,070 |
-| Indomitable | 10.00% | ~25,050 |
-| Blast from the Past | 9.00% | ~22,545 |
-| Bow to the Boss! | 9.00% | ~22,545 |
-| Friend of the Raptors | 9.00% | ~22,545 |
-| About Time! | 8.00% | ~20,040 |
-| Actor-Turned-Politician | 7.00% | ~17,535 |
-| Betrayed | 7.00% | ~17,535 |
-| Maximum Stopping Power | 7.00% | ~17,535 |
-| Poodle Skirt | 7.00% | ~17,535 |
-| You Chose... Poorly | 7.00% | ~17,535 |
-| Double Team | 6.00% | ~15,030 |
-| Keymaster | 6.00% | ~15,030 |
+| Zero Saints Thirty | 64.00% | ~160,326 |
+| Destroyer-In-Chief | 58.00% | ~145,295 |
+| There Is No Pancakes | 55.00% | ~137,780 |
+| First of Many | 43.00% | ~107,719 |
+| Woah. | 37.00% | ~92,688 |
+| Don't Look Down | 30.00% | ~75,153 |
+| Don't Panic | 28.00% | ~70,143 |
+| Ooo A Piece of Candy! | 23.00% | ~57,617 |
+| Ghost in the Machine | 18.00% | ~45,092 |
+| All Too Easy | 16.00% | ~40,081 |
+| Didn't Need to See Him Naked | 14.00% | ~35,071 |
+| Indomitable | 10.00% | ~25,051 |
+| Blast from the Past | 9.00% | ~22,546 |
+| Bow to the Boss! | 9.00% | ~22,546 |
+| Friend of the Raptors | 9.00% | ~22,546 |
+| About Time! | 8.00% | ~20,041 |
+| Actor-Turned-Politician | 7.00% | ~17,536 |
+| Betrayed | 7.00% | ~17,536 |
+| Maximum Stopping Power | 7.00% | ~17,536 |
+| Poodle Skirt | 7.00% | ~17,536 |
+| You Chose... Poorly | 7.00% | ~17,536 |
+| Double Team | 6.00% | ~15,031 |
+| Keymaster | 6.00% | ~15,031 |
 | *BEEP* YOU, CLAWZ! | 5.00% | ~12,525 |
 | Imperator | 5.00% | ~12,525 |
 | ...A Saint Gets a Gun | 4.00% | ~10,020 |
@@ -56,29 +56,29 @@ Rating: 4.40 (Ranked 706)
 | Switch Hitter | 1.00% | ~2,505 |
 | The Whole Story | 1.00% | ~2,505 |
 | Zoo Keeper | 1.00% | ~2,505 |
-| Make a List, Check it Twice | 0.90% | ~2,254 |
-| Back in the Day | 0.70% | ~1,753 |
-| Dear Santa | 0.70% | ~1,753 |
-| Rigging the Race | 0.70% | ~1,753 |
-| Health Inspector | 0.50% | ~1,252 |
+| Make a List, Check it Twice | 0.90% | ~2,255 |
+| Back in the Day | 0.70% | ~1,754 |
+| Dear Santa | 0.70% | ~1,754 |
+| Rigging the Race | 0.70% | ~1,754 |
+| Health Inspector | 0.50% | ~1,253 |
 | Bringin' the Heat | 0.40% | ~1,002 |
 | Walking the Dinosaur | 0.40% | ~1,002 |
-| Experimental Tech | 0.30% | ~751 |
-| Fist Meet Ground | 0.30% | ~751 |
-| Fourth and Forty | 0.30% | ~751 |
-| The Challenge King | 0.30% | ~751 |
-| A World Without Christmas | 0.10% | ~250 |
-| Epic Jump Quest | 0.10% | ~250 |
-| Get that Kid to a Psychologist | 0.10% | ~250 |
-| He's Still on the Naughty List | 0.10% | ~250 |
-| Hello Little Friend | 0.10% | ~250 |
-| I Am Become Death | 0.10% | ~250 |
-| OMGWTFBBQ | 0.10% | ~250 |
-| Pounding the Pavement | 0.10% | ~250 |
-| Super Power Team Up! | 0.10% | ~250 |
-| Ultimate Hot Potato | 0.10% | ~250 |
+| Experimental Tech | 0.30% | ~752 |
+| Fist Meet Ground | 0.30% | ~752 |
+| Fourth and Forty | 0.30% | ~752 |
+| The Challenge King | 0.30% | ~752 |
+| A World Without Christmas | 0.10% | ~251 |
+| Epic Jump Quest | 0.10% | ~251 |
+| Get that Kid to a Psychologist | 0.10% | ~251 |
+| He's Still on the Naughty List | 0.10% | ~251 |
+| Hello Little Friend | 0.10% | ~251 |
+| I Am Become Death | 0.10% | ~251 |
+| OMGWTFBBQ | 0.10% | ~251 |
+| Pounding the Pavement | 0.10% | ~251 |
+| Super Power Team Up! | 0.10% | ~251 |
+| Ultimate Hot Potato | 0.10% | ~251 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,497 (Ranked 46)  
+Progressed: 250,509 (Ranked 46)  
 Completed: 15 (0.01%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 15 (0.01%) (Ranked 249)
 | 2023-08-21 | 249,144 | 15 |
 | 2023-08-22 | 249,754 | 15 |
 | 2023-08-23 | 250,348 | 15 |
-| 2023-08-24 | 250,497 | 15 |
+| 2023-08-24 | 250,509 | 15 |
 ## Awards
 Max (Great Boss Battles): 442  (Ranked 206)  
 Sum: 442 (Ranked 312)  

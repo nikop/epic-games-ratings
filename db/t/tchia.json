@@ -212,9 +212,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7345,
+  "EOS_Progressed": 7346,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 294,
+  "EOS_NewPlayers": 295,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -6367,6 +6367,11 @@
       "Time": "2023-08-24T04:06:48.563047+00:00",
       "NumProgressed": 7345,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-08-24T07:06:22.0281142+00:00",
+      "NumProgressed": 7346,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 21,
@@ -6402,7 +6407,7 @@
       "Name": "Body and Soul",
       "Percentage": 10,
       "XP": 80,
-      "UsersEstimate": 734
+      "UsersEstimate": 735
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -6482,7 +6487,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1542
+      "UsersEstimate": 1543
     },
     {
       "ID": "LIBERATOR",
@@ -6545,7 +6550,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7345,
+      "Progressed": 7346,
       "Completed": 32
     }
   ],
@@ -6553,8 +6558,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-08-07T01:56:04.2387619+00:00",
-  "LastChanged_Achievements": "2023-08-24T06:06:09.9196142+00:00",
+  "LastChanged_Achievements": "2023-08-24T07:06:22.0281137+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:55.8261903+00:00",
-  "LastUpdate_Ratings": "2023-08-24T05:59:44.1381531+00:00",
-  "LastUpdate_Achievements": "2023-08-24T06:06:09.9196699+00:00"
+  "LastUpdate_Ratings": "2023-08-24T07:00:13.2998395+00:00",
+  "LastUpdate_Achievements": "2023-08-24T07:06:22.0281529+00:00"
 }

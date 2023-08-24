@@ -4,7 +4,7 @@
   "ProductSlug": "the-evil-within-2",
   "Ranking_EOS_Progress": 366,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -583,9 +583,9 @@
       "ID": "ACHIEVEMENT_38",
       "SetID": "b36c5kb",
       "Name": "Thinning Them Out",
-      "Percentage": 43,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -639,9 +639,9 @@
       "ID": "ACHIEVEMENT_45",
       "SetID": "b36c5kb",
       "Name": "I Am The Night",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_46",
@@ -702,8 +702,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-08-24T06:05:17.147263+00:00",
+  "LastChanged_Achievements": "2023-08-24T07:05:28.6420103+00:00",
   "LastUpdate_AppInfo": "2023-08-23T17:57:10.5850624+00:00",
-  "LastUpdate_Ratings": "2023-08-24T05:58:24.9269656+00:00",
-  "LastUpdate_Achievements": "2023-08-24T06:05:17.1473114+00:00"
+  "LastUpdate_Ratings": "2023-08-24T06:58:52.1382297+00:00",
+  "LastUpdate_Achievements": "2023-08-24T07:05:28.642047+00:00"
 }

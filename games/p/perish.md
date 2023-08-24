@@ -16,12 +16,12 @@
 | Go For the Head | 4.00% | ~136 |
 | Spartan Sandal | 4.00% | ~136 |
 | Modest Earnings | 4.00% | ~136 |
-| War Chest | 4.00% | ~136 |
 | Symbols of Heresy | 4.00% | ~136 |
 | The Sons of Minos | 4.00% | ~136 |
 | Eidola | 4.00% | ~136 |
 | Comedy and Tragedy | 3.00% | ~102 |
 | Pillars of Eternity | 3.00% | ~102 |
+| War Chest | 3.00% | ~102 |
 | Chthonic Investor | 3.00% | ~102 |
 | First Fragment | 3.00% | ~102 |
 | Sisters of the Pantheon | 3.00% | ~102 |
@@ -31,11 +31,9 @@
 | Ophiolatreia | 3.00% | ~102 |
 | Halls of Marble | 3.00% | ~102 |
 | Serpentine | 3.00% | ~102 |
-| The Nameless One | 2.00% | ~68 |
 | Wayward Son of Hephaestus | 2.00% | ~68 |
 | Lament of the Constellations | 2.00% | ~68 |
 | Forged in Fire | 2.00% | ~68 |
-| Rule of Thirds | 2.00% | ~68 |
 | Rock and a Hard Place | 2.00% | ~68 |
 | The Midas Touch | 2.00% | ~68 |
 | Hapax Legomenon | 2.00% | ~68 |
@@ -44,14 +42,16 @@
 | Vandili | 2.00% | ~68 |
 | No Scylla in Sight | 2.00% | ~68 |
 | Cloaca Maxima | 2.00% | ~68 |
-| Close Shut the Doors | 2.00% | ~68 |
 | Baby Crabs They Ain't | 2.00% | ~68 |
 | Mors Omnibus | 2.00% | ~68 |
 | Blot Out the Sky | 2.00% | ~68 |
+| The Nameless One | 1.00% | ~34 |
+| Rule of Thirds | 1.00% | ~34 |
 | Pyr Demon | 1.00% | ~34 |
 | Biotechnology | 1.00% | ~34 |
 | The Archimedes Principle | 1.00% | ~34 |
 | Rites at Sea | 1.00% | ~34 |
+| Close Shut the Doors | 1.00% | ~34 |
 | Scrap Metal | 1.00% | ~34 |
 | Athenian Treasury | 0.90% | ~31 |
 | Invicta | 0.80% | ~27 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,400 (Ranked 153)  
+Progressed: 3,401 (Ranked 153)  
 Completed: 0 (0.00%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,6 +187,7 @@ Completed: 0 (0.00%) (Ranked 262)
 | 2023-08-21 | 3,394 | 0 |
 | 2023-08-22 | 3,395 | 0 |
 | 2023-08-23 | 3,400 | 0 |
+| 2023-08-24 | 3,401 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

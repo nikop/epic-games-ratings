@@ -19,9 +19,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Some Assembly Required | 0.70% | ~945 |
 | Pretty Penny | 0.70% | ~945 |
 | Own the Means of Production | 0.70% | ~945 |
+| The Daily Grind | 0.60% | ~810 |
 | One-Armed Bandit | 0.60% | ~810 |
 | Through Repetition, Perfection | 0.60% | ~810 |
-| The Daily Grind | 0.50% | ~675 |
 | Bounty Hunters | 0.50% | ~675 |
 | Demand for Supplies | 0.50% | ~675 |
 | Flooding the Market | 0.50% | ~675 |
@@ -61,6 +61,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Supercharged | 0.30% | ~405 |
 | Expansion in Session | 0.30% | ~405 |
 | Cranked up to 11 | 0.30% | ~405 |
+| Fit for a King | 0.30% | ~405 |
 | Trash to Treasure | 0.30% | ~405 |
 | Royal Ransom | 0.30% | ~405 |
 | Mammonite | 0.30% | ~405 |
@@ -89,7 +90,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Omae wa Mou Shindeiru | 0.20% | ~270 |
 | Thank You Tom Nook | 0.20% | ~270 |
 | Ritualist | 0.20% | ~270 |
-| Fit for a King | 0.20% | ~270 |
 | By Your Powers Combined... | 0.20% | ~270 |
 | A Legend is Born | 0.20% | ~270 |
 | Necromancer Queen | 0.20% | ~270 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~135 |
 | Cash Only Please | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,999 (Ranked 66)  
+Progressed: 135,000 (Ranked 66)  
 Completed: 138 (0.10%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,7 +245,7 @@ Completed: 138 (0.10%) (Ranked 210)
 | 2023-08-21 | 134,907 | 134 |
 | 2023-08-22 | 134,956 | 136 |
 | 2023-08-23 | 134,997 | 138 |
-| 2023-08-24 | 134,999 | 138 |
+| 2023-08-24 | 135,000 | 138 |
 ## Awards
 Max (Great for Beginners): 4,709  (Ranked 71)  
 Sum: 27,131 (Ranked 47)  
