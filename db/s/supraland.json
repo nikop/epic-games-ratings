@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 85,
   "Ranking_EOS_Progress": 19,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewPlayers": 52,
   "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2021-07-02T15:00:00+00:00",
@@ -2824,9 +2824,9 @@
       "Count": 190
     }
   ],
-  "EOS_Progressed": 722998,
+  "EOS_Progressed": 723002,
   "EOS_Completed": 728,
-  "EOS_NewPlayers": 949,
+  "EOS_NewPlayers": 951,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -16729,6 +16729,11 @@
       "Time": "2023-08-24T22:05:08.6846991+00:00",
       "NumProgressed": 722998,
       "NumCompleted": 728
+    },
+    {
+      "Time": "2023-08-24T23:05:16.5989393+00:00",
+      "NumProgressed": 723002,
+      "NumCompleted": 728
     }
   ],
   "TotalAchievements": 98,
@@ -16772,7 +16777,7 @@
       "Name": "Armor",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 216899
+      "UsersEstimate": 216901
     },
     {
       "ID": "BallShooter",
@@ -16956,7 +16961,7 @@
       "Name": "Double Jump",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 347039
+      "UsersEstimate": 347041
     },
     {
       "ID": "FireFlies",
@@ -16972,7 +16977,7 @@
       "Name": "Through the fire pipe",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 274739
+      "UsersEstimate": 274741
     },
     {
       "ID": "FliesBeam",
@@ -16988,7 +16993,7 @@
       "Name": "Force Cube",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 383189
+      "UsersEstimate": 383191
     },
     {
       "ID": "Force_Cube_Catapult",
@@ -17100,7 +17105,7 @@
       "Name": "Healthbar",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 397649
+      "UsersEstimate": 397651
     },
     {
       "ID": "Healthregen",
@@ -17108,7 +17113,7 @@
       "Name": "Regeneration",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 339809
+      "UsersEstimate": 339811
     },
     {
       "ID": "HelpedAStar",
@@ -17124,7 +17129,7 @@
       "Name": "Climb the hill",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 303659
+      "UsersEstimate": 303661
     },
     {
       "ID": "Holy_Sword",
@@ -17180,7 +17185,7 @@
       "Name": "Just once",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 267509
+      "UsersEstimate": 267511
     },
     {
       "ID": "MacGuffin",
@@ -17188,7 +17193,7 @@
       "Name": "MacGuffin",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 274739
+      "UsersEstimate": 274741
     },
     {
       "ID": "Magic",
@@ -17252,7 +17257,7 @@
       "Name": "Out of bed",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 715768
+      "UsersEstimate": 715772
     },
     {
       "ID": "PanicLights",
@@ -17324,7 +17329,7 @@
       "Name": "That\u0027s how electronics work obviously",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 187979
+      "UsersEstimate": 187981
     },
     {
       "ID": "RedstonePickaxe",
@@ -17372,7 +17377,7 @@
       "Name": "Fast",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 477179
+      "UsersEstimate": 477181
     },
     {
       "ID": "Strong",
@@ -17412,7 +17417,7 @@
       "Name": "The Blues",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 614548
+      "UsersEstimate": 614552
     },
     {
       "ID": "ThroughPipe",
@@ -17452,7 +17457,7 @@
       "Name": "Triple Jump",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 310889
+      "UsersEstimate": 310891
     },
     {
       "ID": "True_Holy_Spirit",
@@ -17460,7 +17465,7 @@
       "Name": "True holy spirit",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 202439
+      "UsersEstimate": 202441
     },
     {
       "ID": "Waldoh",
@@ -17523,15 +17528,15 @@
     {
       "ID": "3m49pn8",
       "IsBase": true,
-      "Progressed": 722998,
+      "Progressed": 723002,
       "Completed": 728
     }
   ],
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1459144+00:00",
   "LastChanged": "2023-08-24T17:01:44.476776+00:00",
-  "LastChanged_Achievements": "2023-08-24T22:05:08.6846983+00:00",
+  "LastChanged_Achievements": "2023-08-24T23:05:16.5989378+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:12.7207255+00:00",
-  "LastUpdate_Ratings": "2023-08-24T22:01:35.0228133+00:00",
-  "LastUpdate_Achievements": "2023-08-24T22:05:08.6849123+00:00"
+  "LastUpdate_Ratings": "2023-08-24T23:01:47.0118481+00:00",
+  "LastUpdate_Achievements": "2023-08-24T23:05:16.5991453+00:00"
 }

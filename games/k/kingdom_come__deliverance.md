@@ -6,28 +6,28 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~255,458 |
-| Cavalier | 25.00% | ~199,576 |
-| Fatso | 23.00% | ~183,610 |
-| Awakening | 21.00% | ~167,644 |
-| Ranger | 20.00% | ~159,661 |
-| Scrooge | 20.00% | ~159,661 |
-| Anorectic | 16.00% | ~127,729 |
+| Blacksmith's Son | 32.00% | ~255,459 |
+| Cavalier | 25.00% | ~199,578 |
+| Fatso | 23.00% | ~183,611 |
+| Awakening | 21.00% | ~167,645 |
+| Ranger | 20.00% | ~159,662 |
+| Scrooge | 20.00% | ~159,662 |
+| Anorectic | 16.00% | ~127,730 |
 | Bookworm | 15.00% | ~119,746 |
 | Firestarter | 15.00% | ~119,746 |
 | Insomniac | 13.00% | ~103,780 |
 | Buddy | 12.00% | ~95,797 |
 | Thief | 12.00% | ~95,797 |
 | Sinner | 11.00% | ~87,814 |
-| Convict | 10.00% | ~79,830 |
-| Traveller | 10.00% | ~79,830 |
-| Haggler | 9.00% | ~71,847 |
-| McLovin | 7.00% | ~55,881 |
-| Runt | 7.00% | ~55,881 |
-| Casanova | 6.00% | ~47,898 |
-| Bad Trip | 5.00% | ~39,915 |
-| Monk | 5.00% | ~39,915 |
-| Serial Killer | 5.00% | ~39,915 |
+| Convict | 10.00% | ~79,831 |
+| Traveller | 10.00% | ~79,831 |
+| Haggler | 9.00% | ~71,848 |
+| McLovin | 7.00% | ~55,882 |
+| Runt | 7.00% | ~55,882 |
+| Casanova | 6.00% | ~47,899 |
+| Bad Trip | 5.00% | ~39,916 |
+| Monk | 5.00% | ~39,916 |
+| Serial Killer | 5.00% | ~39,916 |
 | Bastard | 4.00% | ~31,932 |
 | Hunter | 4.00% | ~31,932 |
 | Plague Doctor | 4.00% | ~31,932 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~798 |
 | Wingman | 0.10% | ~798 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 798,305 (Ranked 16)  
+Progressed: 798,310 (Ranked 16)  
 Completed: 44 (0.01%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,7 +215,7 @@ Completed: 44 (0.01%) (Ranked 250)
 | 2023-08-21 | 797,957 | 44 |
 | 2023-08-22 | 798,080 | 44 |
 | 2023-08-23 | 798,189 | 44 |
-| 2023-08-24 | 798,305 | 44 |
+| 2023-08-24 | 798,310 | 44 |
 ## Awards
 Max (Character Customization): 7,402  (Ranked 47)  
 Sum: 27,563 (Ranked 46)  

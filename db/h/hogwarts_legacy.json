@@ -6640,10 +6640,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 41492,
       "NumberOfAwardsMax": 21908
+    },
+    {
+      "Time": "2023-08-24T23:00:52.1792963+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 41494,
+      "NumberOfAwardsMax": 21908
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 41492,
+  "NumberOfAwards": 41494,
   "NumberOfAwardsMax": 21908,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6717,12 +6723,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 599
+      "Count": 601
     }
   ],
-  "EOS_Progressed": 290734,
+  "EOS_Progressed": 290736,
   "EOS_Completed": 454,
-  "EOS_NewPlayers": 453,
+  "EOS_NewPlayers": 450,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -20315,6 +20321,11 @@
       "Time": "2023-08-24T22:03:05.6263848+00:00",
       "NumProgressed": 290734,
       "NumCompleted": 454
+    },
+    {
+      "Time": "2023-08-24T23:02:42.9357876+00:00",
+      "NumProgressed": 290736,
+      "NumCompleted": 454
     }
   ],
   "TotalAchievements": 45,
@@ -20326,7 +20337,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 37795
+      "UsersEstimate": 37796
     },
     {
       "ID": "PFA_10",
@@ -20350,7 +20361,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 29073
+      "UsersEstimate": 29074
     },
     {
       "ID": "PFA_13",
@@ -20374,7 +20385,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20351
+      "UsersEstimate": 20352
     },
     {
       "ID": "PFA_16",
@@ -20382,7 +20393,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29073
+      "UsersEstimate": 29074
     },
     {
       "ID": "PFA_17",
@@ -20390,7 +20401,7 @@
       "Name": "Beast Friends",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20351
+      "UsersEstimate": 20352
     },
     {
       "ID": "PFA_18",
@@ -20398,7 +20409,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20351
+      "UsersEstimate": 20352
     },
     {
       "ID": "PFA_19",
@@ -20406,7 +20417,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20351
+      "UsersEstimate": 20352
     },
     {
       "ID": "PFA_2",
@@ -20446,7 +20457,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29073
+      "UsersEstimate": 29074
     },
     {
       "ID": "PFA_24",
@@ -20510,7 +20521,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29073
+      "UsersEstimate": 29074
     },
     {
       "ID": "PFA_31",
@@ -20670,7 +20681,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29073
+      "UsersEstimate": 29074
     },
     {
       "ID": "PFA_9",
@@ -20685,16 +20696,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 290734,
+      "Progressed": 290736,
       "Completed": 454
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-08-24T22:00:38.7543566+00:00",
-  "LastChanged_Achievements": "2023-08-24T22:03:05.6263841+00:00",
+  "LastChanged": "2023-08-24T23:00:52.1792961+00:00",
+  "LastChanged_Achievements": "2023-08-24T23:02:42.9357867+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:55.8476503+00:00",
-  "LastUpdate_Ratings": "2023-08-24T22:00:38.7543573+00:00",
-  "LastUpdate_Achievements": "2023-08-24T22:03:05.6265609+00:00"
+  "LastUpdate_Ratings": "2023-08-24T23:00:52.1792968+00:00",
+  "LastUpdate_Achievements": "2023-08-24T23:02:42.9359093+00:00"
 }

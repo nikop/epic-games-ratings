@@ -2518,9 +2518,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 28328,
+  "EOS_Progressed": 28329,
   "EOS_Completed": 235,
-  "EOS_NewPlayers": 720,
+  "EOS_NewPlayers": 717,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.83,
   "EosHistory": [
@@ -16168,6 +16168,11 @@
       "Time": "2023-08-24T22:06:09.7511117+00:00",
       "NumProgressed": 28328,
       "NumCompleted": 235
+    },
+    {
+      "Time": "2023-08-24T23:06:17.1876963+00:00",
+      "NumProgressed": 28329,
+      "NumCompleted": 235
     }
   ],
   "TotalAchievements": 60,
@@ -16179,7 +16184,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 16430
+      "UsersEstimate": 16431
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -16195,7 +16200,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 16147
+      "UsersEstimate": 16148
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -16339,7 +16344,7 @@
       "Name": "The last burger",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 10481
+      "UsersEstimate": 10482
     },
     {
       "ID": "ACH_D3_Campaign_Fire_1",
@@ -16371,7 +16376,7 @@
       "Name": "Braiiiiins!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 10481
+      "UsersEstimate": 10482
     },
     {
       "ID": "ACH_D3_Campaign_Graves_2",
@@ -16395,7 +16400,7 @@
       "Name": "The One-Huge-Army-Building Evil",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 11331
+      "UsersEstimate": 11332
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_2",
@@ -16411,7 +16416,7 @@
       "Name": "Rusty Steel",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 11614
+      "UsersEstimate": 11615
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -16451,7 +16456,7 @@
       "Name": "Chorus of damnation",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 5382
+      "UsersEstimate": 5383
     },
     {
       "ID": "ACH_D3_Campaign_Infested_Completed",
@@ -16459,7 +16464,7 @@
       "Name": "Destroy the thing",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 7365
+      "UsersEstimate": 7366
     },
     {
       "ID": "ACH_D3_Campaign_Pain_1",
@@ -16483,7 +16488,7 @@
       "Name": "Where there is Light, there is Shadow",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 6515
+      "UsersEstimate": 6516
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_1",
@@ -16555,7 +16560,7 @@
       "Name": "Damned good",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 9348
+      "UsersEstimate": 9349
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_1",
@@ -16579,7 +16584,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 19546
+      "UsersEstimate": 19547
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -16611,7 +16616,7 @@
       "Name": "We don\u2019t have time!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 5382
+      "UsersEstimate": 5383
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_2",
@@ -16627,7 +16632,7 @@
       "Name": "Not-So-Overproud",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 8498
+      "UsersEstimate": 8499
     },
     {
       "ID": "ACH_D3_Campaign_Water_1",
@@ -16651,22 +16656,22 @@
       "Name": "Tide Master",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 7365
+      "UsersEstimate": 7366
     }
   ],
   "AchievementSets": [
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 28328,
+      "Progressed": 28329,
       "Completed": 235
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-08-24T02:57:15.1356298+00:00",
-  "LastChanged_Achievements": "2023-08-24T22:06:09.7511111+00:00",
+  "LastChanged_Achievements": "2023-08-24T23:06:17.1876952+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:53.4330932+00:00",
-  "LastUpdate_Ratings": "2023-08-24T21:57:55.2505837+00:00",
-  "LastUpdate_Achievements": "2023-08-24T22:06:09.7512543+00:00"
+  "LastUpdate_Ratings": "2023-08-24T22:58:02.1224916+00:00",
+  "LastUpdate_Achievements": "2023-08-24T23:06:17.1878597+00:00"
 }

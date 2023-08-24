@@ -2,9 +2,9 @@
   "ID": "3658d3b2ab274e47baf9da3225ad128e",
   "Name": "The Entropy Centre",
   "ProductSlug": "the-entropy-centre-40bccd",
-  "Ranking_EOS_Progress": 281,
+  "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 247,
+  "EOS_Progressed": 248,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -828,6 +828,11 @@
       "Time": "2023-08-21T18:03:27.1441306+00:00",
       "NumProgressed": 247,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-24T23:04:44.3752136+00:00",
+      "NumProgressed": 248,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -837,9 +842,9 @@
       "ID": "ACH_ACT1",
       "SetID": "2310cb1",
       "Name": "Wake Up",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 198
+      "UsersEstimate": 196
     },
     {
       "ID": "ACH_ACT10",
@@ -935,7 +940,7 @@
       "Name": "48 Attempts",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ACH_ACT7",
@@ -951,7 +956,7 @@
       "Name": "Bad Robots",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_ACT9",
@@ -967,7 +972,7 @@
       "Name": "Archivist",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_BESTFRIEND",
@@ -1031,7 +1036,7 @@
       "Name": "It\u0027s Rewind Time",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "ACH_SUMMERLOVE",
@@ -1054,7 +1059,7 @@
     {
       "ID": "2310cb1",
       "IsBase": true,
-      "Progressed": 247,
+      "Progressed": 248,
       "Completed": 0
     }
   ],
@@ -1062,8 +1067,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-08-24T22:04:36.9666311+00:00",
+  "LastChanged_Achievements": "2023-08-24T23:04:44.3752128+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:59.681078+00:00",
-  "LastUpdate_Ratings": "2023-08-24T22:00:42.5512652+00:00",
-  "LastUpdate_Achievements": "2023-08-24T22:04:36.9666575+00:00"
+  "LastUpdate_Ratings": "2023-08-24T23:00:55.4441772+00:00",
+  "LastUpdate_Achievements": "2023-08-24T23:04:44.3752414+00:00"
 }

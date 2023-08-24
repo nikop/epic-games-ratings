@@ -6,18 +6,18 @@ Rating: 3.50 (Ranked 975)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Ne Plus Ultra | 0.30% | ~5 |
+| Neighborhood Revitalization | 0.20% | ~3 |
 | Blood Will Have Blood | 0.20% | ~3 |
 | Sic Transit Umbra | 0.20% | ~3 |
+| Radio Silence | 0.20% | ~3 |
 | Good Morning | 0.20% | ~3 |
 | Harvest’s End | 0.20% | ~3 |
-| Neighborhood Revitalization | 0.10% | ~2 |
 | Revelations | 0.10% | ~2 |
 | Enter of Your Own Free Will | 0.10% | ~2 |
 | Contingency Plans | 0.10% | ~2 |
 | Welcome to the Neighborhood | 0.10% | ~2 |
 | Neighborhood Watch | 0.10% | ~2 |
 | I Like My Stakes Rare! | 0.10% | ~2 |
-| Radio Silence | 0.10% | ~2 |
 | Bell-ringer | 0.10% | ~2 |
 | Silence Is Golden | 0.10% | ~2 |
 | Grounded | 0.10% | ~2 |
@@ -28,6 +28,7 @@ Rating: 3.50 (Ranked 975)
 | Check, Please! | 0.10% | ~2 |
 | Heart Attack | 0.10% | ~2 |
 | Right This Way | 0.10% | ~2 |
+| Nice Try | 0.10% | ~2 |
 | Dexterity Save | 0.10% | ~2 |
 | Bob’s Final Hour | 0.10% | ~2 |
 | Helping Hand | 0.10% | ~2 |
@@ -58,7 +59,6 @@ Rating: 3.50 (Ranked 975)
 | Bloody Initiate | 0.00% | ~0 |
 | Sepsis | 0.00% | ~0 |
 | So Anyway I Started Blasting | 0.00% | ~0 |
-| Nice Try | 0.00% | ~0 |
 | Blacklight Down | 0.00% | ~0 |
 | Rum Runner | 0.00% | ~0 |
 | Under a Bushel | 0.00% | ~0 |

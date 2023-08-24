@@ -2714,9 +2714,9 @@
       "Count": 316
     }
   ],
-  "EOS_Progressed": 16387,
+  "EOS_Progressed": 16388,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -9509,6 +9509,11 @@
       "Time": "2023-08-24T22:07:47.7548941+00:00",
       "NumProgressed": 16387,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-08-24T23:08:02.0949715+00:00",
+      "NumProgressed": 16388,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 50,
@@ -9616,7 +9621,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "WinImpossible",
@@ -9680,7 +9685,7 @@
       "Name": "Fertile Meadows",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "WinNearFishmen",
@@ -9784,7 +9789,7 @@
       "Name": "Coral Forest",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "WinOnCursed",
@@ -9808,7 +9813,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "WinPrestige10",
@@ -9919,15 +9924,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 16387,
+      "Progressed": 16388,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-08-24T18:59:15.3162042+00:00",
-  "LastChanged_Achievements": "2023-08-24T22:07:47.7548933+00:00",
+  "LastChanged_Achievements": "2023-08-24T23:08:02.0949707+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:07.3508245+00:00",
-  "LastUpdate_Ratings": "2023-08-24T21:59:12.1932897+00:00",
-  "LastUpdate_Achievements": "2023-08-24T22:07:47.7549816+00:00"
+  "LastUpdate_Ratings": "2023-08-24T22:59:23.0355176+00:00",
+  "LastUpdate_Achievements": "2023-08-24T23:08:02.0950541+00:00"
 }

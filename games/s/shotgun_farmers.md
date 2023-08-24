@@ -4,36 +4,36 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 77.00% | ~203 |
-| First Blood | 60.00% | ~158 |
+| Seeds of War | 77.00% | ~204 |
+| First Blood | 60.00% | ~159 |
 | Triple Kill | 59.00% | ~156 |
-| Aspairagus | 58.00% | ~124 |
+| Aspairagus | 58.00% | ~125 |
 | Survivor | 56.00% | ~120 |
 | No Asperascope | 53.00% | ~140 |
-| Cornivore | 53.00% | ~140 |
+| Cornivore | 52.00% | ~138 |
 | I Believe I Can Fly | 48.00% | ~127 |
 | Early Survivor | 42.00% | ~90 |
 | No Diggity | 41.00% | ~88 |
-| Amateur Survivor | 31.00% | ~66 |
-| 10K | 30.00% | ~79 |
+| Amateur Survivor | 31.00% | ~67 |
 | Bouncemato | 30.00% | ~64 |
+| 10K | 29.00% | ~77 |
 | 15K | 28.00% | ~74 |
 | Grave Digger | 23.00% | ~49 |
 | Drinking Problem | 22.00% | ~58 |
 | Quick-Draw Pod | 22.00% | ~47 |
 | Professional Survivor | 22.00% | ~47 |
 | Pork Chop Express | 18.00% | ~48 |
-| This Is My Boomstick | 16.00% | ~34 |
 | Skin Of Your Teeth | 15.00% | ~40 |
 | Eggtraordinary | 15.00% | ~40 |
+| This Is My Boomstick | 15.00% | ~32 |
 | Carrocketeer | 14.00% | ~37 |
 | Oh My Gourd | 14.00% | ~30 |
 | Getting Started | 13.00% | ~34 |
 | Summers Here | 12.00% | ~26 |
 | Quit Horsin' Around | 11.00% | ~29 |
 | Fresh Pancake | 10.00% | ~26 |
-| Perfect | 10.00% | ~21 |
-| Expert Survivor | 10.00% | ~21 |
+| Perfect | 10.00% | ~22 |
+| Expert Survivor | 10.00% | ~22 |
 | Bring Home The Bacon | 8.00% | ~21 |
 | Quadsparagus | 8.00% | ~17 |
 | Early Bird | 6.00% | ~16 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 264 (Ranked 276)  
+Progressed: 265 (Ranked 275)  
 Completed: 0 (0.00%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 0 (0.00%) (Ranked 263)
 | 2023-08-18 | 261 | 0 |
 | 2023-08-20 | 262 | 0 |
 | 2023-08-22 | 263 | 0 |
-| 2023-08-24 | 264 | 0 |
+| 2023-08-24 | 265 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

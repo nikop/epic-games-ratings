@@ -6,57 +6,57 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 89.00% | ~624,757 |
-| Escaped Asphodel | 80.00% | ~561,579 |
-| Arms Collector | 71.00% | ~498,402 |
-| Friends in High Places | 68.00% | ~477,342 |
-| Escaped Elysium | 66.00% | ~463,303 |
-| Chthonic Colleagues | 63.00% | ~442,244 |
-| Is There No Escape? | 52.00% | ~365,026 |
-| Death Dealer | 45.00% | ~315,888 |
-| Skelly Slayer | 42.00% | ~294,829 |
+| Escaped Tartarus | 89.00% | ~624,759 |
+| Escaped Asphodel | 80.00% | ~561,581 |
+| Arms Collector | 71.00% | ~498,403 |
+| Friends in High Places | 68.00% | ~477,344 |
+| Escaped Elysium | 66.00% | ~463,304 |
+| Chthonic Colleagues | 63.00% | ~442,245 |
+| Is There No Escape? | 52.00% | ~365,028 |
+| Death Dealer | 45.00% | ~315,889 |
+| Skelly Slayer | 42.00% | ~294,830 |
 | Well Stocked | 40.00% | ~280,790 |
-| Back to Work | 38.00% | ~266,750 |
-| Day-or-Night Trader | 37.00% | ~259,730 |
-| Blessed by the Gods | 37.00% | ~259,730 |
+| Back to Work | 38.00% | ~266,751 |
+| Day-or-Night Trader | 37.00% | ~259,731 |
+| Blessed by the Gods | 37.00% | ~259,731 |
 | Urge to Sing | 36.00% | ~252,711 |
-| Blood Bound | 35.00% | ~245,691 |
+| Blood Bound | 35.00% | ~245,692 |
 | Three-Headed Boy | 32.00% | ~224,632 |
 | River Denizens | 28.00% | ~196,553 |
 | Grown Close | 28.00% | ~196,553 |
-| Home Makeover | 27.00% | ~189,533 |
+| Home Makeover | 27.00% | ~189,534 |
 | Had to Happen | 25.00% | ~175,494 |
 | The Family Secret | 25.00% | ~175,494 |
 | Tools of the Architect | 23.00% | ~161,454 |
 | Master of Arms | 23.00% | ~161,454 |
-| To Charon's Credit | 22.00% | ~154,434 |
-| Rare Collectible | 22.00% | ~154,434 |
+| To Charon's Credit | 22.00% | ~154,435 |
+| Rare Collectible | 22.00% | ~154,435 |
 | Weapon of Fate | 21.00% | ~147,415 |
 | Something From Everyone | 19.00% | ~133,375 |
-| Hold the Onions | 18.00% | ~126,355 |
+| Hold the Onions | 18.00% | ~126,356 |
 | Well Versed | 17.00% | ~119,336 |
 | War-God's Bloodlust | 15.00% | ~105,296 |
-| Musician and Muse | 14.00% | ~98,276 |
+| Musician and Muse | 14.00% | ~98,277 |
 | The Useless Trinket | 13.00% | ~91,257 |
 | Champion of Elysium | 13.00% | ~91,257 |
 | Slashed Benefits | 12.00% | ~84,237 |
 | Haste of Hermes | 11.00% | ~77,217 |
-| Bad Call | 10.00% | ~70,197 |
-| Nyx's Mirror | 10.00% | ~70,197 |
-| Night and Darkness | 10.00% | ~70,197 |
-| End to Torment | 10.00% | ~70,197 |
+| Bad Call | 10.00% | ~70,198 |
+| Nyx's Mirror | 10.00% | ~70,198 |
+| Night and Darkness | 10.00% | ~70,198 |
+| End to Torment | 10.00% | ~70,198 |
 | Dark Reflections | 9.00% | ~63,178 |
 | Thanks, But No Thanks | 9.00% | ~63,178 |
 | Infernal Arms | 9.00% | ~63,178 |
 | Divided by Death | 8.00% | ~56,158 |
 | Harsh Conditions | 7.00% | ~49,138 |
 | One for the Ages | 7.00% | ~49,138 |
-| Complete Set | 6.00% | ~42,118 |
-| Skelly's Last Lamentations | 6.00% | ~42,118 |
+| Complete Set | 6.00% | ~42,119 |
+| Skelly's Last Lamentations | 6.00% | ~42,119 |
 | Thorn of Thanatos | 4.00% | ~28,079 |
 | Friends Forever | 4.00% | ~28,079 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 701,974 (Ranked 21)  
+Progressed: 701,976 (Ranked 21)  
 Completed: 6,315 (0.90%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,7 +182,7 @@ Completed: 6,315 (0.90%) (Ranked 124)
 | 2023-08-21 | 701,788 | 6,310 |
 | 2023-08-22 | 701,851 | 6,312 |
 | 2023-08-23 | 701,906 | 6,314 |
-| 2023-08-24 | 701,974 | 6,315 |
+| 2023-08-24 | 701,976 | 6,315 |
 ## Awards
 Max (Character Customization): 3,231  (Ranked 91)  
 Sum: 7,820 (Ranked 101)  
