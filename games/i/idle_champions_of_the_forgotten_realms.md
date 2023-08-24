@@ -9,9 +9,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Brief Tour of the Realms | 2.00% | ~4,493 |
 | Beast Intentions | 0.60% | ~1,348 |
 | The Cursed Farmer | 0.60% | ~1,348 |
+| The Mad Wizard | 0.50% | ~1,123 |
 | The Hunt for The Last Breath | 0.50% | ~955 |
 | The Ring of Regeneration | 0.40% | ~899 |
-| The Mad Wizard | 0.40% | ~899 |
 | To Infinity's and Beyond | 0.40% | ~764 |
 | Were-verpowered | 0.30% | ~674 |
 | Seeking Allies | 0.30% | ~674 |
@@ -72,6 +72,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Templar's Camp | 0.20% | ~449 |
 | Rocky Reception | 0.20% | ~382 |
 | Rock and Roll | 0.20% | ~382 |
+| Flight of the Kindori Pod | 0.20% | ~382 |
 | There's a Flying Snake in my Boot! | 0.20% | ~382 |
 | Pros and CONs | 0.10% | ~225 |
 | Upholding the Law | 0.10% | ~225 |
@@ -517,13 +518,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bahamut's Army | 0.10% | ~191 |
 | Luigi After Hours | 0.10% | ~191 |
 | Electric Mayhem | 0.10% | ~191 |
-| Flight of the Kindori Pod | 0.10% | ~191 |
 | 3,720 to 1 | 0.10% | ~191 |
 | Topolah's Tower | 0.10% | ~191 |
 | Krux's Speed Run | 0.10% | ~191 |
 | Animated Giff | 0.10% | ~191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,636 (Ranked 53)  
+Progressed: 224,649 (Ranked 53)  
 Completed: 2,210 (0.98%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -649,7 +649,7 @@ Completed: 2,210 (0.98%) (Ranked 121)
 | 2023-08-21 | 223,996 | 2,203 |
 | 2023-08-22 | 224,213 | 2,207 |
 | 2023-08-23 | 224,434 | 2,210 |
-| 2023-08-24 | 224,636 | 2,210 |
+| 2023-08-24 | 224,649 | 2,210 |
 ## Awards
 Max (Diverse Characters): 5,182  (Ranked 68)  
 Sum: 31,196 (Ranked 39)  

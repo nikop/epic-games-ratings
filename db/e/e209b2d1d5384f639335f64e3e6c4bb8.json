@@ -2,9 +2,9 @@
   "ID": "e209b2d1d5384f639335f64e3e6c4bb8",
   "Name": "Homeworld: Deserts of Kharak",
   "ProductSlug": "homeworld-deserts-of-kharak",
-  "Ranking_EOS_Progress": 106,
+  "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 7,
+  "Ranking_EOS_NewPlayers": 6,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-08-24T15:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 20824,
+  "EOS_Progressed": 25782,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20803,
+  "EOS_NewPlayers": 25761,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -104,6 +104,11 @@
       "Time": "2023-08-24T19:03:33.4200329+00:00",
       "NumProgressed": 20824,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-24T20:03:23.9809127+00:00",
+      "NumProgressed": 25782,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-03T18:03:11.7010747+00:00",
@@ -138,49 +143,49 @@
       "ID": "ACHV_M01_COMPLETE",
       "SetID": "2l5j4fd",
       "Name": "Epsilon Base",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 7288
+      "UsersEstimate": 9539
     },
     {
       "ID": "ACHV_M02_COMPLETE",
       "SetID": "2l5j4fd",
       "Name": "The Boneyard",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 4165
+      "UsersEstimate": 5672
     },
     {
       "ID": "ACHV_M03_COMPLETE",
       "SetID": "2l5j4fd",
       "Name": "Cape Wrath",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1458
+      "UsersEstimate": 2320
     },
     {
       "ID": "ACHV_M04_COMPLETE",
       "SetID": "2l5j4fd",
       "Name": "Kalash Site",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 416
+      "UsersEstimate": 773
     },
     {
       "ID": "ACHV_M05_COMPLETE",
       "SetID": "2l5j4fd",
       "Name": "Kalash Wreck",
-      "Percentage": 0.6,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 125
+      "UsersEstimate": 258
     },
     {
       "ID": "ACHV_M06_COMPLETE",
       "SetID": "2l5j4fd",
       "Name": "Beladin Dune Sea",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 42
+      "UsersEstimate": 103
     },
     {
       "ID": "ACHV_M07_COMPLETE",
@@ -188,7 +193,7 @@
       "Name": "Gaalsien Base",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHV_M08_COMPLETE",
@@ -196,23 +201,23 @@
       "Name": "Tombs of the Ancients",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHV_M09_COMPLETE",
       "SetID": "2l5j4fd",
       "Name": "The Whispering Gallery",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHV_M10_COMPLETE",
       "SetID": "2l5j4fd",
       "Name": "Khashar Approach",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHV_M11_COMPLETE",
@@ -228,7 +233,7 @@
       "Name": "Torin Crater",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHV_M13_COMPLETE",
@@ -236,7 +241,7 @@
       "Name": "Khar-Toba Site",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHV_MP_1V1_TIER_LV_1",
@@ -244,7 +249,7 @@
       "Name": "Multiplayer: 1v1 - Bronze",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHV_MP_2V2_TIER_LV_1",
@@ -260,7 +265,7 @@
       "Name": "Multiplayer: 3v3 - Bronze",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHV_MP_ANNIHILATION_COALITION_10",
@@ -300,7 +305,7 @@
       "Name": "Multiplayer: Carrier Annihilation Coalition",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHV_MP_C_ANNIHILATION_COALITION_100",
@@ -316,7 +321,7 @@
       "Name": "Multiplayer: Carrier Annihilation Gaalsien",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHV_MP_C_ANNIHILATION_GAALSI_100",
@@ -332,7 +337,7 @@
       "Name": "Multiplayer: Carrier Annihilation Khaaneph",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHV_MP_C_ANNIHILATION_KHAANEPH_100",
@@ -380,7 +385,7 @@
       "Name": "Multiplayer: Artifact Hunter 50 Coalition",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHV_MP_RETRIEVAL_COUNT_COALITION_500",
@@ -490,29 +495,29 @@
       "ID": "ACHV_TUT_COMPLETE",
       "SetID": "2l5j4fd",
       "Name": "Campaign Tutorial",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 9787
+      "UsersEstimate": 12375
     }
   ],
   "AchievementSets": [
     {
       "ID": "2l5j4fd",
       "IsBase": true,
-      "Progressed": 20824,
+      "Progressed": 25782,
       "Completed": 0
     },
     {
       "ID": "a9dj9gi",
       "IsBase": false,
-      "Progressed": 20813,
+      "Progressed": 25771,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:59:08.2089952+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5079141+00:00",
-  "LastChanged_Achievements": "2023-08-24T19:03:33.4200322+00:00",
+  "LastChanged_Achievements": "2023-08-24T20:03:23.980912+00:00",
   "LastUpdate_AppInfo": "2023-08-24T15:57:21.5906946+00:00",
-  "LastUpdate_Ratings": "2023-08-24T18:59:35.3188035+00:00",
-  "LastUpdate_Achievements": "2023-08-24T19:03:33.4200887+00:00"
+  "LastUpdate_Ratings": "2023-08-24T19:59:15.0827821+00:00",
+  "LastUpdate_Achievements": "2023-08-24T20:03:23.9809488+00:00"
 }

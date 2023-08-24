@@ -1,16 +1,16 @@
 # Pillars of Eternity - Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/pillars-of-eternity)  
 [View Rawdata](../../db/p/pillars_of_eternity_-_definitive_edition.json)  
-Rating: 4.66 (Ranked 275)  
+Rating: 4.66 (Ranked 276)  
 Number of Ratings: 2,847  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Kickstarter Backer | 82.00% | ~896 |
+| Kickstarter Backer | 82.00% | ~897 |
 | Completed Act I | 30.00% | ~328 |
 | 5 Upgrades in Stronghold | 26.00% | ~284 |
-| First 5 Levels of Od Nua | 24.00% | ~262 |
-| Make an Adventurer | 23.00% | ~251 |
+| First 5 Levels of Od Nua | 24.00% | ~263 |
+| Make an Adventurer | 23.00% | ~252 |
 | Completed Act II | 16.00% | ~175 |
 | Enchanter | 15.00% | ~164 |
 | Disposition | 15.00% | ~164 |
@@ -26,8 +26,8 @@ Number of Ratings: 2,847  (23.09.2022)
 | Trappy | 9.00% | ~98 |
 | Herald of the Old Flame | 9.00% | ~98 |
 | Watcher at the Breach | 9.00% | ~98 |
-| Completed Act III | 8.00% | ~87 |
-| Fish Guts and Murder | 8.00% | ~87 |
+| Completed Act III | 8.00% | ~88 |
+| Fish Guts and Murder | 8.00% | ~88 |
 | Alchemist | 7.00% | ~77 |
 | The Siege of Crägholdt | 7.00% | ~77 |
 | Explorer | 6.00% | ~66 |
@@ -55,7 +55,7 @@ Number of Ratings: 2,847  (23.09.2022)
 | Frozen Crown Solo | 0.50% | ~5 |
 | The Ultimate | 0.50% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,093 (Ranked 196)  
+Progressed: 1,094 (Ranked 196)  
 Completed: 4 (0.37%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,6 +79,7 @@ Completed: 4 (0.37%) (Ranked 161)
 | 2023-08-18 | 1,091 | 4 |
 | 2023-08-19 | 1,092 | 4 |
 | 2023-08-20 | 1,093 | 4 |
+| 2023-08-24 | 1,094 | 4 |
 ## Awards
 Max (Character Customization): 1,910  (Ranked 110)  
 Sum: 4,685 (Ranked 136)  

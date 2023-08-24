@@ -6,16 +6,16 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 41.00% | ~6,056 |
+| Tattletale | 41.00% | ~6,057 |
 | Man of politics | 35.00% | ~5,170 |
 | Yet another secret | 34.00% | ~5,022 |
-| Friends of sorts | 33.00% | ~4,874 |
-| Let there be darkness | 32.00% | ~4,726 |
-| End of Book One | 30.00% | ~4,431 |
+| Friends of sorts | 33.00% | ~4,875 |
+| Let there be darkness | 32.00% | ~4,727 |
+| End of Book One | 30.00% | ~4,432 |
 | Wannabe knight | 24.00% | ~3,545 |
 | Garden of Eden | 24.00% | ~3,545 |
 | Full house | 24.00% | ~3,545 |
-| Help an old friend | 22.00% | ~3,249 |
+| Help an old friend | 22.00% | ~3,250 |
 | Two of us | 20.00% | ~2,954 |
 | Negotiation skills | 18.00% | ~2,659 |
 | Workers' union | 18.00% | ~2,659 |
@@ -25,9 +25,9 @@ Number of Ratings: 368  (23.09.2022)
 | Jack was here! | 14.00% | ~2,068 |
 | Exterminator | 13.00% | ~1,920 |
 | Whodunnit | 13.00% | ~1,920 |
-| Good midwife | 11.00% | ~1,625 |
 | Friar Tuck | 11.00% | ~1,625 |
 | First profit | 11.00% | ~1,625 |
+| Good midwife | 10.00% | ~1,477 |
 | Team player | 10.00% | ~1,477 |
 | Skilled merchant | 9.00% | ~1,329 |
 | Nothing but make-believe | 9.00% | ~1,329 |
@@ -38,9 +38,9 @@ Number of Ratings: 368  (23.09.2022)
 | A cry for help | 8.00% | ~1,182 |
 | Silentium est aureum | 7.00% | ~1,034 |
 | Rebel without a cause | 6.00% | ~886 |
-| Staring contest champion | 5.00% | ~738 |
-| Lone wolf | 5.00% | ~738 |
-| Vox Populi | 5.00% | ~738 |
+| Staring contest champion | 5.00% | ~739 |
+| Lone wolf | 5.00% | ~739 |
+| Vox Populi | 5.00% | ~739 |
 | Revenge | 4.00% | ~591 |
 | Self-defense | 4.00% | ~591 |
 | Countess Aliena | 4.00% | ~591 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~443 |
 | Boy of mystery | 2.00% | ~295 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,770 (Ranked 118)  
+Progressed: 14,772 (Ranked 118)  
 Completed: 110 (0.74%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 110 (0.74%) (Ranked 129)
 | 2023-08-21 | 14,719 | 109 |
 | 2023-08-22 | 14,737 | 109 |
 | 2023-08-23 | 14,749 | 110 |
-| 2023-08-24 | 14,770 | 110 |
+| 2023-08-24 | 14,772 | 110 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 299)  
 Sum: 188 (Ranked 375)  

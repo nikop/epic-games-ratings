@@ -4,20 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stogie for Fogey | 18.00% | ~1,596 |
-| Doctor Approved | 17.00% | ~1,507 |
-| Captain Drummer | 16.00% | ~1,418 |
-| Spore Taste | 12.00% | ~1,064 |
-| Martian Music | 12.00% | ~1,064 |
-| Celebrations are in Order | 9.00% | ~798 |
-| Thorston Mayer | 6.00% | ~532 |
+| Stogie for Fogey | 18.00% | ~1,598 |
+| Doctor Approved | 17.00% | ~1,509 |
+| Captain Drummer | 16.00% | ~1,421 |
+| Spore Taste | 12.00% | ~1,065 |
+| Martian Music | 12.00% | ~1,065 |
+| Celebrations are in Order | 9.00% | ~799 |
+| Thorston Mayer | 6.00% | ~533 |
 | Bottoms up! | 4.00% | ~355 |
 | Data Logger | 3.00% | ~266 |
-| Data Master | 2.00% | ~177 |
-| Impossible Objects | 2.00% | ~177 |
-| Urshanabi Hoarder | 0.90% | ~80 |
+| Data Master | 2.00% | ~178 |
+| Impossible Objects | 2.00% | ~178 |
+| Urshanabi Hoarder | 1.00% | ~89 |
 | Debris Spree | 0.70% | ~62 |
-| Data Recoverer | 0.30% | ~27 |
+| Data Recoverer | 0.40% | ~36 |
+| Grave Robber | 0.20% | ~18 |
 | The Pit and the Pirates | 0.10% | ~9 |
 | Data Archivist | 0.10% | ~9 |
 | Miraculous Maya | 0.10% | ~9 |
@@ -25,7 +26,6 @@
 | Call it Even | 0.10% | ~9 |
 | Bosmang | 0.10% | ~9 |
 | No Belter Left Behind | 0.10% | ~9 |
-| Grave Robber | 0.10% | ~9 |
 | Data Miner | 0.00% | ~0 |
 | Oyedang, Kopengs | 0.00% | ~0 |
 | Drug Gifter | 0.00% | ~0 |
@@ -35,7 +35,7 @@
 | Scavenger Star | 0.00% | ~0 |
 | Data Collector | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,864 (Ranked 129)  
+Progressed: 8,879 (Ranked 129)  
 Completed: 0 (0.00%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,4 +68,4 @@ Completed: 0 (0.00%) (Ranked 263)
 | 2023-08-21 | 8,681 | 0 |
 | 2023-08-22 | 8,787 | 0 |
 | 2023-08-23 | 8,820 | 0 |
-| 2023-08-24 | 8,864 | 0 |
+| 2023-08-24 | 8,879 | 0 |

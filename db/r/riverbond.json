@@ -480,7 +480,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 525778,
+  "EOS_Progressed": 525780,
   "EOS_Completed": 463,
   "EOS_NewPlayers": 546,
   "EOS_NewCompleters": 3,
@@ -13860,6 +13860,11 @@
       "Time": "2023-08-24T19:07:49.0607397+00:00",
       "NumProgressed": 525778,
       "NumCompleted": 463
+    },
+    {
+      "Time": "2023-08-24T20:07:01.28387+00:00",
+      "NumProgressed": 525780,
+      "NumCompleted": 463
     }
   ],
   "TotalAchievements": 57,
@@ -13879,7 +13884,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 236600
+      "UsersEstimate": 236601
     },
     {
       "ID": "11",
@@ -13887,7 +13892,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 368045
+      "UsersEstimate": 368046
     },
     {
       "ID": "12",
@@ -13895,7 +13900,7 @@
       "Name": "Wind At Our Backs",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 115671
+      "UsersEstimate": 115672
     },
     {
       "ID": "13",
@@ -13951,7 +13956,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 325982
+      "UsersEstimate": 325984
     },
     {
       "ID": "2",
@@ -13991,7 +13996,7 @@
       "Name": "Partner in Crime",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 36804
+      "UsersEstimate": 36805
     },
     {
       "ID": "24",
@@ -14071,7 +14076,7 @@
       "Name": "Hard to Hear",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 36804
+      "UsersEstimate": 36805
     },
     {
       "ID": "33",
@@ -14095,7 +14100,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 262889
+      "UsersEstimate": 262890
     },
     {
       "ID": "36",
@@ -14103,7 +14108,7 @@
       "Name": "Sunday Best",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 84124
+      "UsersEstimate": 84125
     },
     {
       "ID": "37",
@@ -14167,7 +14172,7 @@
       "Name": "Sunny Shores",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 89382
+      "UsersEstimate": 89383
     },
     {
       "ID": "44",
@@ -14199,7 +14204,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 325982
+      "UsersEstimate": 325984
     },
     {
       "ID": "48",
@@ -14247,7 +14252,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 241858
+      "UsersEstimate": 241859
     },
     {
       "ID": "53",
@@ -14326,15 +14331,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 525778,
+      "Progressed": 525780,
       "Completed": 463
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-08-24T19:07:49.0607391+00:00",
+  "LastChanged_Achievements": "2023-08-24T20:07:01.2838686+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:51.7319714+00:00",
-  "LastUpdate_Ratings": "2023-08-24T19:00:41.8919314+00:00",
-  "LastUpdate_Achievements": "2023-08-24T19:07:49.0609901+00:00"
+  "LastUpdate_Ratings": "2023-08-24T20:00:20.9903356+00:00",
+  "LastUpdate_Achievements": "2023-08-24T20:07:01.2840044+00:00"
 }

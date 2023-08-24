@@ -5,29 +5,29 @@ Rating: 4.76 (Ranked 119)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In a Pinch | 21.00% | ~1,543 |
-| Energy Saver | 16.00% | ~1,176 |
-| The Journey Onwards | 13.00% | ~955 |
-| Globe Trotter | 11.00% | ~808 |
+| In a Pinch | 21.00% | ~1,544 |
+| Energy Saver | 17.00% | ~1,250 |
+| The Journey Onwards | 13.00% | ~956 |
+| Globe Trotter | 11.00% | ~809 |
 | Body and Soul | 10.00% | ~735 |
-| Ahem Ahem | 9.00% | ~661 |
-| Audiophile | 7.00% | ~514 |
+| Ahem Ahem | 9.00% | ~662 |
+| Audiophile | 7.00% | ~515 |
 | Clay Pigeon | 6.00% | ~441 |
 | Historian | 6.00% | ~441 |
 | Soul-Canon | 6.00% | ~441 |
-| Happy Camper | 5.00% | ~367 |
-| Iconoclast | 5.00% | ~367 |
-| Shredder | 5.00% | ~367 |
+| Happy Camper | 5.00% | ~368 |
+| Iconoclast | 5.00% | ~368 |
+| Shredder | 5.00% | ~368 |
 | Liberator | 4.00% | ~294 |
 | Live Wire | 4.00% | ~294 |
-| Fashion Faux-Pas | 3.00% | ~220 |
-| Fashion Victim | 3.00% | ~220 |
+| Fashion Faux-Pas | 3.00% | ~221 |
+| Fashion Victim | 3.00% | ~221 |
 | Arrr! | 2.00% | ~147 |
 | Snip Snip | 2.00% | ~147 |
-| Ça de Wizz! | 1.00% | ~73 |
-| Thing | 1.00% | ~73 |
+| Ça de Wizz! | 1.00% | ~74 |
+| Thing | 1.00% | ~74 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,349 (Ranked 135)  
+Progressed: 7,351 (Ranked 135)  
 Completed: 32 (0.44%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 32 (0.44%) (Ranked 156)
 | 2023-08-21 | 7,300 | 32 |
 | 2023-08-22 | 7,327 | 32 |
 | 2023-08-23 | 7,343 | 32 |
-| 2023-08-24 | 7,349 | 32 |
+| 2023-08-24 | 7,351 | 32 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

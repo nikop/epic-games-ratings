@@ -1,33 +1,33 @@
 # Shadow Tactics: Blades of the Shogun
 [Store](https://store.epicgames.com/en-US/p/shadow-tactics)  
 [View Rawdata](../../db/s/shadow_tactics__blades_of_the_shogun.json)  
-Rating: 4.66 (Ranked 275)  
+Rating: 4.66 (Ranked 276)  
 Number of Ratings: 495  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~21,685 |
-| Thorough | 10.00% | ~19,714 |
-| A thief's beginning | 9.00% | ~17,742 |
-| Disguised | 8.00% | ~15,771 |
-| Rollin' | 8.00% | ~15,771 |
-| Tanuki Time | 8.00% | ~15,771 |
+| Genin | 11.00% | ~21,686 |
+| Thorough | 10.00% | ~19,715 |
+| A thief's beginning | 9.00% | ~17,743 |
+| Disguised | 8.00% | ~15,772 |
+| Rollin' | 8.00% | ~15,772 |
+| Tanuki Time | 8.00% | ~15,772 |
 | Jonin | 7.00% | ~13,800 |
 | Rescue Takuma | 7.00% | ~13,800 |
 | Stoned Ox | 7.00% | ~13,800 |
-| Chunin | 6.00% | ~11,828 |
-| Happy Planning | 6.00% | ~11,828 |
-| Ice Ice Yuki | 6.00% | ~11,828 |
-| Mugen Unchained | 6.00% | ~11,828 |
-| Yabu | 6.00% | ~11,828 |
+| Chunin | 6.00% | ~11,829 |
+| Happy Planning | 6.00% | ~11,829 |
+| Ice Ice Yuki | 6.00% | ~11,829 |
+| Mugen Unchained | 6.00% | ~11,829 |
+| Yabu | 6.00% | ~11,829 |
 | Flying Rocks | 5.00% | ~9,857 |
 | Okkoto | 5.00% | ~9,857 |
 | Too Early | 5.00% | ~9,857 |
 | Warzone | 5.00% | ~9,857 |
-| Gear up | 4.00% | ~7,885 |
-| Happy little accidents | 4.00% | ~7,885 |
-| Prisoners | 4.00% | ~7,885 |
-| Still Rollin' | 4.00% | ~7,885 |
+| Gear up | 4.00% | ~7,886 |
+| Happy little accidents | 4.00% | ~7,886 |
+| Prisoners | 4.00% | ~7,886 |
+| Still Rollin' | 4.00% | ~7,886 |
 | Noboru | 3.00% | ~5,914 |
 | Stoned | 3.00% | ~5,914 |
 | The Old Way | 3.00% | ~5,914 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~197 |
 | Release the Kraken | 0.10% | ~197 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 197,137 (Ranked 60)  
+Progressed: 197,148 (Ranked 60)  
 Completed: 72 (0.04%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 72 (0.04%) (Ranked 233)
 | 2023-08-21 | 196,336 | 71 |
 | 2023-08-22 | 196,624 | 71 |
 | 2023-08-23 | 196,882 | 71 |
-| 2023-08-24 | 197,137 | 72 |
+| 2023-08-24 | 197,148 | 72 |
 ## Awards
 Max (Great for Beginners): 561  (Ranked 189)  
 Sum: 4,734 (Ranked 134)  

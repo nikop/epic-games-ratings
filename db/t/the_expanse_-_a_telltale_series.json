@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8864,
+  "EOS_Progressed": 8879,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 755,
+  "EOS_NewPlayers": 766,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2997,6 +2997,11 @@
       "Time": "2023-08-24T19:08:43.3345753+00:00",
       "NumProgressed": 8864,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-24T20:07:45.6419661+00:00",
+      "NumProgressed": 8879,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -3007,9 +3012,9 @@
       "ID": "1",
       "SetID": "458bbdk",
       "Name": "Urshanabi Hoarder",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 80
+      "UsersEstimate": 89
     },
     {
       "ID": "10",
@@ -3049,7 +3054,7 @@
       "Name": "Doctor Approved",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 1507
+      "UsersEstimate": 1509
     },
     {
       "ID": "15",
@@ -3057,7 +3062,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1596
+      "UsersEstimate": 1598
     },
     {
       "ID": "16",
@@ -3073,7 +3078,7 @@
       "Name": "Spore Taste",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1064
+      "UsersEstimate": 1065
     },
     {
       "ID": "18",
@@ -3089,7 +3094,7 @@
       "Name": "Martian Music",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1064
+      "UsersEstimate": 1065
     },
     {
       "ID": "2",
@@ -3105,7 +3110,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "21",
@@ -3185,7 +3190,7 @@
       "Name": "Captain Drummer",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1418
+      "UsersEstimate": 1421
     },
     {
       "ID": "30",
@@ -3209,7 +3214,7 @@
       "Name": "Data Master",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "6",
@@ -3217,23 +3222,23 @@
       "Name": "Celebrations are in Order",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 798
+      "UsersEstimate": 799
     },
     {
       "ID": "7",
       "SetID": "458bbdk",
       "Name": "Grave Robber",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 9
+      "UsersEstimate": 18
     },
     {
       "ID": "8",
       "SetID": "458bbdk",
       "Name": "Data Recoverer",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 36
     },
     {
       "ID": "9",
@@ -3241,21 +3246,21 @@
       "Name": "Impossible Objects",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 8864,
+      "Progressed": 8879,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged_Achievements": "2023-08-24T19:08:43.3345746+00:00",
+  "LastChanged_Achievements": "2023-08-24T20:07:45.6419656+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:40.3624587+00:00",
-  "LastUpdate_Ratings": "2023-08-24T18:57:44.3180569+00:00",
-  "LastUpdate_Achievements": "2023-08-24T19:08:43.3346382+00:00"
+  "LastUpdate_Ratings": "2023-08-24T19:57:29.7363321+00:00",
+  "LastUpdate_Achievements": "2023-08-24T20:07:45.6419961+00:00"
 }

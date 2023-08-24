@@ -6064,9 +6064,9 @@
       "Count": 3366
     }
   ],
-  "EOS_Progressed": 224636,
+  "EOS_Progressed": 224649,
   "EOS_Completed": 2210,
-  "EOS_NewPlayers": 1849,
+  "EOS_NewPlayers": 1848,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -19869,6 +19869,11 @@
       "Time": "2023-08-24T19:08:04.905817+00:00",
       "NumProgressed": 224636,
       "NumCompleted": 2210
+    },
+    {
+      "Time": "2023-08-24T20:07:15.9706359+00:00",
+      "NumProgressed": 224649,
+      "NumCompleted": 2210
     }
   ],
   "TotalAchievements": 516,
@@ -23022,9 +23027,9 @@
       "ID": "objective_completed_7",
       "SetID": "cc37lbc",
       "Name": "The Mad Wizard",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 899
+      "UsersEstimate": 1123
     },
     {
       "ID": "objective_completed_70",
@@ -23934,9 +23939,9 @@
       "ID": "objective_completed_1385",
       "SetID": "415jc5c",
       "Name": "Flight of the Kindori Pod",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 191
+      "UsersEstimate": 382
     },
     {
       "ID": "objective_completed_1386",
@@ -24007,21 +24012,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 190910,
+      "Progressed": 190923,
       "Completed": 3302
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 224636,
+      "Progressed": 224649,
       "Completed": 2210
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-24T19:01:40.538696+00:00",
-  "LastChanged_Achievements": "2023-08-24T19:08:04.9058165+00:00",
+  "LastChanged_Achievements": "2023-08-24T20:07:15.9706352+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:12.3267162+00:00",
-  "LastUpdate_Ratings": "2023-08-24T19:01:40.5386968+00:00",
-  "LastUpdate_Achievements": "2023-08-24T19:08:04.9091197+00:00"
+  "LastUpdate_Ratings": "2023-08-24T20:01:16.1636098+00:00",
+  "LastUpdate_Achievements": "2023-08-24T20:07:15.9730761+00:00"
 }

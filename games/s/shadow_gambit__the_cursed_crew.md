@@ -12,15 +12,15 @@
 | The Gambit Has Begun | 21.00% | ~101 |
 | Powder Monkey | 19.00% | ~92 |
 | Somewhere Deep in the Lost Caribbean | 15.00% | ~72 |
-| Mirror Mirror on the Wall | 14.00% | ~67 |
+| Mirror Mirror on the Wall | 15.00% | ~72 |
 | Fishy Fish | 14.00% | ~67 |
 | Pirates Assemble! | 11.00% | ~53 |
 | Buccaneer | 10.00% | ~48 |
 | Persistent Parasite | 10.00% | ~48 |
 | Jaded Judge | 6.00% | ~29 |
+| All Good Things | 5.00% | ~24 |
 | Seadog | 5.00% | ~24 |
 | Rustic Recipe | 5.00% | ~24 |
-| All Good Things | 4.00% | ~19 |
 | Privateer | 4.00% | ~19 |
 | Tobacco Travesty | 4.00% | ~19 |
 | Accursed Artifacts | 4.00% | ~19 |

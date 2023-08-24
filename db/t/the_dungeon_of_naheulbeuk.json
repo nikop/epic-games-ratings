@@ -708,9 +708,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 216691,
+  "EOS_Progressed": 216711,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3009,
+  "EOS_NewPlayers": 2999,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8153,6 +8153,11 @@
       "Time": "2023-08-24T19:03:23.02086+00:00",
       "NumProgressed": 216691,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-24T20:03:14.4277989+00:00",
+      "NumProgressed": 216711,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -8308,7 +8313,7 @@
       "Name": "Res Judicata",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1083
+      "UsersEstimate": 1084
     },
     {
       "ID": "CompanionPriestress",
@@ -8516,7 +8521,7 @@
       "Name": "The Famous Dungeon of Naheulbeuk",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1083
+      "UsersEstimate": 1084
     },
     {
       "ID": "DifficultyIronManNoCompanion",
@@ -8580,7 +8585,7 @@
       "Name": "Dwarf Fortress",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1083
+      "UsersEstimate": 1084
     },
     {
       "ID": "DwarfInsultWin",
@@ -8604,7 +8609,7 @@
       "Name": "Look but don\u0027t touch",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1083
+      "UsersEstimate": 1084
     },
     {
       "ID": "ElfHitTwoFriends",
@@ -8612,7 +8617,7 @@
       "Name": "Sowwy!",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 49839
+      "UsersEstimate": 49844
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -8668,7 +8673,7 @@
       "Name": "The beards of change",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1083
+      "UsersEstimate": 1084
     },
     {
       "ID": "FollowNarzatok",
@@ -8804,7 +8809,7 @@
       "Name": "Thieves\u0027 Guild Accreditation",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1083
+      "UsersEstimate": 1084
     },
     {
       "ID": "Speedrun",
@@ -8867,21 +8872,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 216691,
+      "Progressed": 216711,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 216691,
+      "Progressed": 216711,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-24T12:02:06.2470989+00:00",
-  "LastChanged_Achievements": "2023-08-24T19:03:23.0208576+00:00",
+  "LastChanged_Achievements": "2023-08-24T20:03:14.4277982+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:36.4163589+00:00",
-  "LastUpdate_Ratings": "2023-08-24T19:02:35.4832859+00:00",
-  "LastUpdate_Achievements": "2023-08-24T19:03:23.0211341+00:00"
+  "LastUpdate_Ratings": "2023-08-24T20:02:05.7104957+00:00",
+  "LastUpdate_Achievements": "2023-08-24T20:03:14.4279168+00:00"
 }

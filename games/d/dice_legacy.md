@@ -10,10 +10,10 @@ Rating: 4.27 (Ranked 814)
 | The City | 9.00% | ~91 |
 | Full house | 6.00% | ~61 |
 | Burn and Pillage | 6.00% | ~61 |
+| Hear me out | 6.00% | ~61 |
 | Listening to the crowd | 6.00% | ~61 |
-| Hear me out | 5.00% | ~50 |
-| Hidden Secrets | 5.00% | ~50 |
-| Accepting the Prophecy | 5.00% | ~50 |
+| Hidden Secrets | 5.00% | ~51 |
+| Accepting the Prophecy | 5.00% | ~51 |
 | Ascended | 4.00% | ~40 |
 | The Penitent Ones | 4.00% | ~40 |
 | Greedy | 4.00% | ~40 |
@@ -51,7 +51,7 @@ Rating: 4.27 (Ranked 814)
 | Fate is against us | 0.00% | ~0 |
 | Despite everything | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,010 (Ranked 201)  
+Progressed: 1,011 (Ranked 201)  
 Completed: 0 (0.00%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 0 (0.00%) (Ranked 263)
 | 2023-08-20 | 1,003 | 0 |
 | 2023-08-21 | 1,006 | 0 |
 | 2023-08-22 | 1,007 | 0 |
-| 2023-08-24 | 1,010 | 0 |
+| 2023-08-24 | 1,011 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
