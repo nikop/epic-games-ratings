@@ -22,7 +22,7 @@ Rating: 4.49 (Ranked 580)
 | Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,336 |
 | Where It All Begun | 40.00% | ~1,273 |
 | Recouped Investment | 38.00% | ~1,209 |
-| Omelette Du Fromage | 33.00% | ~1,050 |
+| Omelette Du Fromage | 34.00% | ~1,082 |
 | Living Nightmare | 33.00% | ~1,050 |
 | The More The Merrier | 33.00% | ~1,050 |
 | The Darwin Era Was Here | 29.00% | ~923 |
@@ -32,7 +32,7 @@ Rating: 4.49 (Ranked 580)
 | The Spire | 24.00% | ~764 |
 | Stuff Of Nightmares | 23.00% | ~732 |
 | El Riesgo Siempre Vive | 23.00% | ~732 |
-| Excavating The Truth | 20.00% | ~636 |
+| Excavating The Truth | 21.00% | ~668 |
 | Abysmal Horrors | 20.00% | ~636 |
 | One For Every Occasion | 19.00% | ~605 |
 | Frontliner | 19.00% | ~605 |

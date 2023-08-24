@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 481,
+  "EOS_Progressed": 482,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -1756,6 +1756,11 @@
       "Time": "2023-08-24T13:08:15.5963322+00:00",
       "NumProgressed": 481,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-24T18:03:56.684003+00:00",
+      "NumProgressed": 482,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -1783,7 +1788,7 @@
       "Name": "Basic Controls",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "BigPlane",
@@ -1807,7 +1812,7 @@
       "Name": "Calculated",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "Close",
@@ -1919,15 +1924,15 @@
       "Name": "Legendary transporter",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "LinearNetwork",
       "SetID": "1e89b4i",
       "Name": "Linear Network",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 67
+      "UsersEstimate": 63
     },
     {
       "ID": "LongDistance",
@@ -1991,7 +1996,7 @@
       "Name": "This Wasn\u0027t Part of the Plan...",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "Ownway",
@@ -2102,14 +2107,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 481,
+      "Progressed": 482,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-08-24T17:04:12.2284864+00:00",
+  "LastChanged_Achievements": "2023-08-24T18:03:56.6840021+00:00",
   "LastUpdate_AppInfo": "2023-08-22T10:56:57.2309265+00:00",
-  "LastUpdate_Ratings": "2023-08-24T17:00:01.6057826+00:00",
-  "LastUpdate_Achievements": "2023-08-24T17:04:12.2285273+00:00"
+  "LastUpdate_Ratings": "2023-08-24T17:59:39.8205624+00:00",
+  "LastUpdate_Achievements": "2023-08-24T18:03:56.6840366+00:00"
 }

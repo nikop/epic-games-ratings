@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 6,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 5,
-  "Ranking_EOS_NewCompleters": 12,
+  "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2023-06-08T15:00:00+00:00",
     "PcReleaseDate": "2013-08-12T22:00:00+00:00",
@@ -3370,9 +3370,9 @@
       "Count": 756
     }
   ],
-  "EOS_Progressed": 1604913,
+  "EOS_Progressed": 1605083,
   "EOS_Completed": 523,
-  "EOS_NewPlayers": 25820,
+  "EOS_NewPlayers": 25808,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -12260,6 +12260,11 @@
       "Time": "2023-08-24T17:07:11.0596006+00:00",
       "NumProgressed": 1604913,
       "NumCompleted": 523
+    },
+    {
+      "Time": "2023-08-24T18:06:38.7925276+00:00",
+      "NumProgressed": 1605083,
+      "NumCompleted": 523
     }
   ],
   "TotalAchievements": 1328,
@@ -12327,7 +12332,7 @@
       "Name": "The Collector",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 12839
+      "UsersEstimate": 12841
     },
     {
       "ID": "armed_and_dangerous",
@@ -12343,7 +12348,7 @@
       "Name": "Would You Like Your Receipt?",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 12839
+      "UsersEstimate": 12841
     },
     {
       "ID": "armored_1",
@@ -13471,7 +13476,7 @@
       "Name": "I Want to Get Away",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 32098
+      "UsersEstimate": 32102
     },
     {
       "ID": "brooklyn_2",
@@ -13695,7 +13700,7 @@
       "Name": "Virus",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 16049
+      "UsersEstimate": 16051
     },
     {
       "ID": "cac_29",
@@ -16743,7 +16748,7 @@
       "Name": "Smooth Criminal",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 9629
+      "UsersEstimate": 9630
     },
     {
       "ID": "gorilla_1",
@@ -16887,7 +16892,7 @@
       "Name": "Guilty of Crime",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 16049
+      "UsersEstimate": 16051
     },
     {
       "ID": "halloween_1",
@@ -17023,7 +17028,7 @@
       "Name": "How Do You Like Me Now?",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 16049
+      "UsersEstimate": 16051
     },
     {
       "ID": "i_knew_what_i_was_doing_was_wrong",
@@ -17983,7 +17988,7 @@
       "Name": "No One Cared Who I Was...",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 16049
+      "UsersEstimate": 16051
     },
     {
       "ID": "no_turning_back",
@@ -17991,7 +17996,7 @@
       "Name": "No Turning Back",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 16049
+      "UsersEstimate": 16051
     },
     {
       "ID": "orange_1",
@@ -22775,7 +22780,7 @@
       "Name": "Armed to the Teeth",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 12839
+      "UsersEstimate": 12841
     },
     {
       "ID": "wwh_1",
@@ -22879,7 +22884,7 @@
       "Name": "You Gotta Start Somewhere",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 16049
+      "UsersEstimate": 16051
     },
     {
       "ID": "you_shall_not_pass",
@@ -22894,13 +22899,13 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1604913,
+      "Progressed": 1605083,
       "Completed": 523
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1604913,
+      "Progressed": 1605083,
       "Completed": 31
     }
   ],
@@ -22908,8 +22913,8 @@
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
   "LastChanged": "2023-08-24T17:00:21.4503947+00:00",
-  "LastChanged_Achievements": "2023-08-24T17:07:11.0596001+00:00",
+  "LastChanged_Achievements": "2023-08-24T18:06:38.7925272+00:00",
   "LastUpdate_AppInfo": "2023-08-17T20:57:10.4408604+00:00",
-  "LastUpdate_Ratings": "2023-08-24T17:00:21.4503953+00:00",
-  "LastUpdate_Achievements": "2023-08-24T17:07:11.0771465+00:00"
+  "LastUpdate_Ratings": "2023-08-24T17:59:58.1254936+00:00",
+  "LastUpdate_Achievements": "2023-08-24T18:06:38.8070751+00:00"
 }

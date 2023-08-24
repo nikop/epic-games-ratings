@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 483,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -3945,9 +3945,9 @@
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
       "SetID": "816efe",
       "Name": "Omelette Du Fromage",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 1050
+      "UsersEstimate": 1082
     },
     {
       "ID": "ACH_EMBRAYO_EXTRACTION",
@@ -4169,9 +4169,9 @@
       "ID": "ACH_MISSION_11",
       "SetID": "816efe",
       "Name": "Excavating The Truth",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 636
+      "UsersEstimate": 668
     },
     {
       "ID": "ACH_MISSION_12",
@@ -4266,8 +4266,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-08-18T05:57:00.7172404+00:00",
-  "LastChanged_Achievements": "2023-08-24T17:06:25.9456886+00:00",
+  "LastChanged_Achievements": "2023-08-24T18:05:54.0232529+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:11.1811549+00:00",
-  "LastUpdate_Ratings": "2023-08-24T16:58:11.3381023+00:00",
-  "LastUpdate_Achievements": "2023-08-24T17:06:25.945753+00:00"
+  "LastUpdate_Ratings": "2023-08-24T17:58:03.2930264+00:00",
+  "LastUpdate_Achievements": "2023-08-24T18:05:54.0233002+00:00"
 }

@@ -3132,9 +3132,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 72279,
+  "EOS_Progressed": 72280,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 329,
+  "EOS_NewPlayers": 330,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -16292,6 +16292,11 @@
       "Time": "2023-08-24T17:08:28.9219077+00:00",
       "NumProgressed": 72279,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-08-24T18:07:42.492541+00:00",
+      "NumProgressed": 72280,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 37,
@@ -16447,7 +16452,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 46981
+      "UsersEstimate": 46982
     },
     {
       "ID": "ACH_0210",
@@ -16455,7 +16460,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 53486
+      "UsersEstimate": 53487
     },
     {
       "ID": "ACH_0211",
@@ -16567,7 +16572,7 @@
       "Name": "Raider\u2019s Ruin",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 12287
+      "UsersEstimate": 12288
     },
     {
       "ID": "ACH_0452",
@@ -16575,7 +16580,7 @@
       "Name": "Dragonslayer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 12287
+      "UsersEstimate": 12288
     },
     {
       "ID": "ACH_0460",
@@ -16598,22 +16603,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 72279,
+      "Progressed": 72280,
       "Completed": 41
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 626,
-      "Completed": 626
+      "Progressed": 627,
+      "Completed": 627
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-08-24T14:58:02.4279265+00:00",
-  "LastChanged_Achievements": "2023-08-24T17:08:28.9219073+00:00",
+  "LastChanged_Achievements": "2023-08-24T18:07:42.4925405+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:48.5211502+00:00",
-  "LastUpdate_Ratings": "2023-08-24T16:58:38.4992764+00:00",
-  "LastUpdate_Achievements": "2023-08-24T17:08:28.9220366+00:00"
+  "LastUpdate_Ratings": "2023-08-24T17:58:23.9097998+00:00",
+  "LastUpdate_Achievements": "2023-08-24T18:07:42.4926236+00:00"
 }

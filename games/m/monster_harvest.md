@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Planimal Point | 97.00% | ~264 |
+| Welcome To Planimal Point | 97.00% | ~265 |
 | My first Planimal! | 69.00% | ~188 |
-| Red Slime Time | 67.00% | ~182 |
-| To the Rec Center! | 49.00% | ~133 |
-| Green Sheen | 46.00% | ~125 |
+| Red Slime Time | 67.00% | ~183 |
+| To the Rec Center! | 48.00% | ~131 |
+| Green Sheen | 45.00% | ~123 |
 | Blue Goo | 32.00% | ~87 |
 | Furniture in the Forest! | 21.00% | ~57 |
 | Let's Get Fishy! | 21.00% | ~57 |
 | Save the Slimes! | 11.00% | ~30 |
 | So long, Slime Co! | 3.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 272 (Ranked 274)  
-Completed: 8 (2.94%) (Ranked 76)  
+Progressed: 273 (Ranked 273)  
+Completed: 8 (2.93%) (Ranked 76)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -53,6 +53,7 @@ Completed: 8 (2.94%) (Ranked 76)
 | 2023-08-05 | 270 | 8 |
 | 2023-08-11 | 271 | 8 |
 | 2023-08-13 | 272 | 8 |
+| 2023-08-24 | 273 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -58,7 +58,7 @@ Number of Ratings: 125  (23.09.2022)
 | Moon Hunter | 0.60% | ~11 |
 | Revenant | 0.50% | ~9 |
 | Dirt and Blame | 0.40% | ~7 |
-| Winter Has Come | 0.30% | ~5 |
+| Winter Has Come | 0.40% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,812 (Ranked 176)  
 Completed: 4 (0.22%) (Ranked 184)  
@@ -168,8 +168,8 @@ Completed: 4 (0.22%) (Ranked 184)
 | 2023-08-19 | 1,811 | 4 |
 | 2023-08-21 | 1,812 | 4 |
 ## Awards
-Max (Impact the Story): 24  (Ranked 483)  
-Sum: 24 (Ranked 488)  
+Max (Impact the Story): 24  (Ranked 484)  
+Sum: 24 (Ranked 489)  
 Diff (max vs sum): -5  
 | Award | Count |
 | ----- | ----- |

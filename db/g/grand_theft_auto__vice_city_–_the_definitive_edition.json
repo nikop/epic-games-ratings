@@ -5,9 +5,9 @@
   "Ranking_Rating": 485,
   "Ranking_Popularity": 381,
   "Ranking_PopularitySum": 439,
-  "Ranking_EOS_Progress": 124,
+  "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 147,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -592,9 +592,9 @@
       "Count": 68
     }
   ],
-  "EOS_Progressed": 9760,
+  "EOS_Progressed": 9762,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -8727,6 +8727,11 @@
       "Time": "2023-08-24T14:07:55.9379029+00:00",
       "NumProgressed": 9760,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-08-24T18:07:02.9356671+00:00",
+      "NumProgressed": 9762,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -8866,7 +8871,7 @@
       "Name": "Gun for Hire",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "ACH18",
@@ -8896,9 +8901,9 @@
       "ID": "ACH21",
       "SetID": "9llo822",
       "Name": "Legal Counsel",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4490
+      "UsersEstimate": 4393
     },
     {
       "ID": "ACH22",
@@ -8970,7 +8975,7 @@
       "Name": "Mischief Managed",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "ACH31",
@@ -9009,7 +9014,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9760,
+      "Progressed": 9762,
       "Completed": 49
     }
   ],
@@ -9017,8 +9022,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-08-19T22:00:52.464405+00:00",
-  "LastChanged_Achievements": "2023-08-24T17:07:37.0039679+00:00",
+  "LastChanged_Achievements": "2023-08-24T18:07:02.9356664+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:19.3350346+00:00",
-  "LastUpdate_Ratings": "2023-08-24T17:01:47.9712763+00:00",
-  "LastUpdate_Achievements": "2023-08-24T17:07:37.0040517+00:00"
+  "LastUpdate_Ratings": "2023-08-24T18:01:06.4801765+00:00",
+  "LastUpdate_Achievements": "2023-08-24T18:07:02.9357233+00:00"
 }

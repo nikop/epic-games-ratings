@@ -17,8 +17,8 @@
 | Pirates Assemble! | 11.00% | ~53 |
 | Buccaneer | 10.00% | ~48 |
 | Persistent Parasite | 10.00% | ~48 |
+| Jaded Judge | 6.00% | ~29 |
 | Seadog | 5.00% | ~24 |
-| Jaded Judge | 5.00% | ~24 |
 | Rustic Recipe | 5.00% | ~24 |
 | All Good Things | 4.00% | ~19 |
 | Privateer | 4.00% | ~19 |
@@ -31,7 +31,7 @@
 | Marauder | 0.80% | ~4 |
 | Welcome Back Jester | 0.60% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 481 (Ranked 232)  
+Progressed: 481 (Ranked 233)  
 Completed: 0 (0.00%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |

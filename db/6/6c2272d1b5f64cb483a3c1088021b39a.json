@@ -3269,9 +3269,9 @@
       "ID": "elemental_stones_3",
       "SetID": "53c1p3k",
       "Name": "Elemental stones 3",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "elite_deck_1",
@@ -3620,8 +3620,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-08-24T17:08:19.3316197+00:00",
+  "LastChanged_Achievements": "2023-08-24T18:07:33.460118+00:00",
   "LastUpdate_AppInfo": "2023-08-22T05:57:11.4589116+00:00",
-  "LastUpdate_Ratings": "2023-08-24T17:00:07.3537217+00:00",
-  "LastUpdate_Achievements": "2023-08-24T17:08:19.3423889+00:00"
+  "LastUpdate_Ratings": "2023-08-24T17:59:46.8296072+00:00",
+  "LastUpdate_Achievements": "2023-08-24T18:07:33.460181+00:00"
 }

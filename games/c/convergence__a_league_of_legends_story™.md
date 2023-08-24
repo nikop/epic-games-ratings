@@ -5,20 +5,20 @@ Rating: 4.60 (Ranked 392)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 25.00% | ~209 |
+| Time Heals All Wounds | 25.00% | ~210 |
 | The Mysterious Stranger | 21.00% | ~176 |
 | Rail Rat | 21.00% | ~176 |
-| Make Up For Lost Time | 19.00% | ~159 |
 | The Prince in Heels | 19.00% | ~159 |
 | Immaculate Aim | 19.00% | ~159 |
-| The Brass Boss | 19.00% | ~159 |
 | The Steel Shadow | 18.00% | ~151 |
+| Make Up For Lost Time | 18.00% | ~151 |
 | Time Flies | 18.00% | ~151 |
 | The Harder They Fall | 18.00% | ~151 |
 | No, Thanks! | 18.00% | ~151 |
 | Breaking Down Barriers | 18.00% | ~151 |
 | Fast Learner | 18.00% | ~151 |
 | Immaculate Aim | 18.00% | ~151 |
+| The Brass Boss | 18.00% | ~151 |
 | The Betrayer | 17.00% | ~142 |
 | The Wicked Twins | 17.00% | ~142 |
 | Honest Mistake | 17.00% | ~142 |
@@ -32,7 +32,7 @@ Rating: 4.60 (Ranked 392)
 | Treasure Trove | 14.00% | ~117 |
 | Street Style | 14.00% | ~117 |
 | Cartographer | 14.00% | ~117 |
-| Whiz Kid | 12.00% | ~100 |
+| Whiz Kid | 12.00% | ~101 |
 | Chaincrawler Explorer | 11.00% | ~92 |
 | Good Neighbor | 11.00% | ~92 |
 | Family Memories | 10.00% | ~84 |
@@ -49,7 +49,7 @@ Rating: 4.60 (Ranked 392)
 | Clovemary for Remembering | 5.00% | ~42 |
 | Golem Hunter | 5.00% | ~42 |
 | Rungs Was Right | 5.00% | ~42 |
-| Hexlock for Protection | 4.00% | ~33 |
+| Hexlock for Protection | 4.00% | ~34 |
 | Wunderkind | 2.00% | ~17 |
 | Fitting In | 2.00% | ~17 |
 | Thinking Two Steps Ahead | 1.00% | ~8 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 392)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 837 (Ranked 209)  
+Progressed: 838 (Ranked 209)  
 Completed: 5 (0.60%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,6 +142,7 @@ Completed: 5 (0.60%) (Ranked 139)
 | 2023-08-16 | 835 | 5 |
 | 2023-08-20 | 836 | 5 |
 | 2023-08-21 | 837 | 5 |
+| 2023-08-24 | 838 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

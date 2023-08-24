@@ -12,7 +12,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Hunt for The Last Breath | 0.50% | ~954 |
 | The Ring of Regeneration | 0.40% | ~898 |
 | The Mad Wizard | 0.40% | ~898 |
-| To Infinity's and Beyond | 0.40% | ~763 |
+| To Infinity's and Beyond | 0.40% | ~764 |
 | Were-verpowered | 0.30% | ~674 |
 | Seeking Allies | 0.30% | ~674 |
 | Are Ya Chicken? | 0.30% | ~674 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~191 |
 | Animated Giff | 0.10% | ~191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,599 (Ranked 53)  
+Progressed: 224,617 (Ranked 53)  
 Completed: 2,210 (0.98%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -649,7 +649,7 @@ Completed: 2,210 (0.98%) (Ranked 121)
 | 2023-08-21 | 223,996 | 2,203 |
 | 2023-08-22 | 224,213 | 2,207 |
 | 2023-08-23 | 224,434 | 2,210 |
-| 2023-08-24 | 224,599 | 2,210 |
+| 2023-08-24 | 224,617 | 2,210 |
 ## Awards
 Max (Diverse Characters): 5,179  (Ranked 68)  
 Sum: 31,193 (Ranked 39)  

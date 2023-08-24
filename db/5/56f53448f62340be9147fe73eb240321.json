@@ -2,9 +2,9 @@
   "ID": "56f53448f62340be9147fe73eb240321",
   "Name": "100 Worlds - Escape the room",
   "ProductSlug": "100-worlds-escape-the-room-c6f972",
-  "Ranking_EOS_Progress": 558,
+  "Ranking_EOS_Progress": 515,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewPlayers": 353,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-07-24T22:00:00+00:00",
@@ -19,12 +19,18 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2023-08-24T18:05:16.4214985+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
   "AchievementsAdded": "2023-08-24T12:04:42.1124287+00:00",
   "TotalAchievements": 12,
   "TotalAchievementsXP": 1000,
@@ -33,89 +39,89 @@
       "ID": "ach_10_levels",
       "SetID": "c0bphk8",
       "Name": "Clever thinking!",
-      "Percentage": 0,
+      "Percentage": 300,
       "XP": 80,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_50_items",
       "SetID": "c0bphk8",
       "Name": "Sharp-sighted!",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 130,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_50_levels",
       "SetID": "c0bphk8",
       "Name": "Brilliant mind!",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 130,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_first_step",
       "SetID": "c0bphk8",
       "Name": "Game Opened",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_hint_3",
       "SetID": "c0bphk8",
       "Name": "A helping hand!",
-      "Percentage": 0,
+      "Percentage": 200,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_hint_6",
       "SetID": "c0bphk8",
       "Name": "Supported success!",
-      "Percentage": 0,
+      "Percentage": 200,
       "XP": 80,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_hint_9",
       "SetID": "c0bphk8",
       "Name": "Together is better!",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 130,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_minigames_10",
       "SetID": "c0bphk8",
       "Name": "Inquiring mind!",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 80,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_skip_1",
       "SetID": "c0bphk8",
       "Name": "Keep moving on!",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_skip_3",
       "SetID": "c0bphk8",
       "Name": "Advance further!",
-      "Percentage": 0,
+      "Percentage": 200,
       "XP": 80,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_skip_5",
       "SetID": "c0bphk8",
       "Name": "Skip and conquer!",
-      "Percentage": 0,
+      "Percentage": 200,
       "XP": 130,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_tutorial_completed",
@@ -130,13 +136,13 @@
     {
       "ID": "c0bphk8",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-19T06:01:22.7935728+00:00",
-  "LastChanged_Achievements": "2023-08-24T17:05:35.7751807+00:00",
+  "LastChanged_Achievements": "2023-08-24T18:05:16.4214975+00:00",
   "LastUpdate_AppInfo": "2023-08-23T08:57:15.0403739+00:00",
-  "LastUpdate_Ratings": "2023-08-24T16:59:47.4634068+00:00",
-  "LastUpdate_Achievements": "2023-08-24T17:05:35.7751913+00:00"
+  "LastUpdate_Ratings": "2023-08-24T17:59:26.270913+00:00",
+  "LastUpdate_Achievements": "2023-08-24T18:05:16.4215057+00:00"
 }

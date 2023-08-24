@@ -2,9 +2,9 @@
   "ID": "0c0ddf9e73d7480cb81033411e840dd1",
   "Name": "Rooted",
   "ProductSlug": "rooted-0d3110",
-  "Ranking_EOS_Progress": 558,
+  "Ranking_EOS_Progress": 559,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewPlayers": 353,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-22T15:57:11.9881146+00:00",
-  "LastUpdate_Ratings": "2023-08-24T16:59:59.0165933+00:00",
-  "LastUpdate_Achievements": "2023-08-24T17:03:19.7951598+00:00"
+  "LastUpdate_Ratings": "2023-08-24T17:59:36.0245396+00:00",
+  "LastUpdate_Achievements": "2023-08-24T18:03:16.5971872+00:00"
 }

@@ -5,8 +5,8 @@ Rating: 3.94 (Ranked 948)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~53,486 |
-| First One’s Free | 65.00% | ~46,981 |
+| Downed but Not Outed | 74.00% | ~53,487 |
+| First One’s Free | 65.00% | ~46,982 |
 | Neophyte Ninja | 50.00% | ~36,140 |
 | Too Old for This | 48.00% | ~34,694 |
 | Case Closed | 35.00% | ~25,298 |
@@ -16,8 +16,8 @@ Rating: 3.94 (Ranked 948)
 | Roid Ranger | 21.00% | ~15,179 |
 | Off the Rocks | 20.00% | ~14,456 |
 | True Player | 19.00% | ~13,733 |
-| Raider’s Ruin | 17.00% | ~12,287 |
-| Dragonslayer | 17.00% | ~12,287 |
+| Raider’s Ruin | 17.00% | ~12,288 |
+| Dragonslayer | 17.00% | ~12,288 |
 | Hidden Sonata | 13.00% | ~9,396 |
 | Rockay Rex | 11.00% | ~7,951 |
 | Track Star | 10.00% | ~7,228 |
@@ -43,7 +43,7 @@ Rating: 3.94 (Ranked 948)
 | Geek Out | 0.60% | ~434 |
 | Full House | 0.20% | ~145 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,279 (Ranked 78)  
+Progressed: 72,280 (Ranked 78)  
 Completed: 41 (0.06%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 41 (0.06%) (Ranked 224)
 | 2023-08-21 | 72,159 | 41 |
 | 2023-08-22 | 72,196 | 41 |
 | 2023-08-23 | 72,253 | 41 |
-| 2023-08-24 | 72,279 | 41 |
+| 2023-08-24 | 72,280 | 41 |
 ## Awards
 Max (Diverse Characters): 406  (Ranked 215)  
 Sum: 1,930 (Ranked 202)  

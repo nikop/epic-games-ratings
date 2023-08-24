@@ -11,29 +11,29 @@
 | Replace Fuse | 65.00% | ~75 |
 | Alarm | 63.00% | ~72 |
 | Air Filtration | 62.00% | ~71 |
-| Broken | 59.00% | ~68 |
-| Radiation | 57.00% | ~66 |
+| Broken | 60.00% | ~69 |
+| Radiation | 58.00% | ~67 |
 | Descent | 57.00% | ~66 |
-| Awakenings | 56.00% | ~64 |
-| Cold Storage | 56.00% | ~64 |
+| Awakenings | 57.00% | ~66 |
+| Cold Storage | 57.00% | ~66 |
 | Sam | 51.00% | ~59 |
 | Churchill | 50.00% | ~58 |
 | Commissioner | 50.00% | ~58 |
 | Engineer | 49.00% | ~56 |
-| Leave | 47.00% | ~54 |
+| Leave | 48.00% | ~55 |
 | Doctor | 47.00% | ~54 |
 | Soldier | 47.00% | ~54 |
 | Press Play | 35.00% | ~40 |
-| General | 24.00% | ~28 |
+| General | 25.00% | ~29 |
 | Bookworm | 23.00% | ~26 |
 | Stay | 14.00% | ~16 |
 | Floppy Disk Finder | 13.00% | ~15 |
 | Nurse | 10.00% | ~12 |
 | No Page Unturned | 4.00% | ~5 |
 | Friends | 4.00% | ~5 |
-| The Missing Piece | 3.00% | ~3 |
+| The Missing Piece | 4.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 115 (Ranked 325)  
+Progressed: 115 (Ranked 326)  
 Completed: 3 (2.61%) (Ranked 83)  
 ## EOS Players History
 | Date | Progressed | Completed |

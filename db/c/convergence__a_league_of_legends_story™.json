@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 837,
+  "EOS_Progressed": 838,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -2010,6 +2010,11 @@
       "Time": "2023-08-21T04:06:47.5536464+00:00",
       "NumProgressed": 837,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-24T18:06:56.6469367+00:00",
+      "NumProgressed": 838,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -2173,7 +2178,7 @@
       "Name": "Whiz Kid",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "GrindingTime1",
@@ -2189,7 +2194,7 @@
       "Name": "Hexlock for Protection",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "InxChromaInTheatre",
@@ -2211,9 +2216,9 @@
       "ID": "LacunaCompleted",
       "SetID": "a9e499d",
       "Name": "Make Up For Lost Time",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 159
+      "UsersEstimate": 151
     },
     {
       "ID": "MapCompletion1",
@@ -2309,7 +2314,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "RewindParry",
@@ -2427,9 +2432,9 @@
       "ID": "Zarkon1Defeated",
       "SetID": "a9e499d",
       "Name": "The Brass Boss",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 159
+      "UsersEstimate": 151
     },
     {
       "ID": "Zarkon2Defeated",
@@ -2444,7 +2449,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 837,
+      "Progressed": 838,
       "Completed": 5
     }
   ],
@@ -2452,8 +2457,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-08-24T17:07:30.4607455+00:00",
+  "LastChanged_Achievements": "2023-08-24T18:06:56.6469362+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:11.9722245+00:00",
-  "LastUpdate_Ratings": "2023-08-24T16:58:08.1132999+00:00",
-  "LastUpdate_Achievements": "2023-08-24T17:07:30.4608047+00:00"
+  "LastUpdate_Ratings": "2023-08-24T17:58:00.2033217+00:00",
+  "LastUpdate_Achievements": "2023-08-24T18:06:56.646994+00:00"
 }

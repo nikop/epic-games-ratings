@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Under the Bridge | 85.00% | ~11 |
+| Treasure Hunter | 15.00% | ~2 |
 | Space Invader | 15.00% | ~2 |
 | What's my line again? | 8.00% | ~1 |
 | In the Can | 8.00% | ~1 |
-| Treasure Hunter | 8.00% | ~1 |
 | One Man Army | 8.00% | ~1 |
 | O' Captain! My Captain! | 0.00% | ~0 |
 | Secret of the Mines | 0.00% | ~0 |

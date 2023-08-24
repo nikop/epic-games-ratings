@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 41,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -1531,9 +1531,9 @@
       "ID": "BasiliskFishingRod",
       "SetID": "db30heh",
       "Name": "Fishing Prop",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 86
     },
     {
       "ID": "BearBroom",
@@ -1643,9 +1643,9 @@
       "ID": "DwarDevil",
       "SetID": "db30heh",
       "Name": "Funny Devil",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 114
+      "UsersEstimate": 118
     },
     {
       "ID": "DwarfBeggarWoman",
@@ -1811,9 +1811,9 @@
       "ID": "RogueNaked",
       "SetID": "db30heh",
       "Name": "The King is Naked",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 82
     },
     {
       "ID": "RogueRum",
@@ -1882,8 +1882,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-08-24T17:04:47.7360126+00:00",
+  "LastChanged_Achievements": "2023-08-24T18:04:30.6126848+00:00",
   "LastUpdate_AppInfo": "2023-08-22T17:57:09.5805493+00:00",
-  "LastUpdate_Ratings": "2023-08-24T16:59:53.5160884+00:00",
-  "LastUpdate_Achievements": "2023-08-24T17:04:47.736074+00:00"
+  "LastUpdate_Ratings": "2023-08-24T17:59:31.9156832+00:00",
+  "LastUpdate_Achievements": "2023-08-24T18:04:30.6127214+00:00"
 }

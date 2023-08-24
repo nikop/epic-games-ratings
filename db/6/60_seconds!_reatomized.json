@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -4766,9 +4766,9 @@
       "ID": "ACH_NOT_MADE_IT",
       "SetID": "5nj1ea3",
       "Name": "Duck and cover!",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 3181
+      "UsersEstimate": 3230
     },
     {
       "ID": "ACH_PANZER",
@@ -4911,8 +4911,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-08-11T11:57:12.7338821+00:00",
-  "LastChanged_Achievements": "2023-08-24T17:08:07.5481533+00:00",
+  "LastChanged_Achievements": "2023-08-24T18:07:22.1646503+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:08.2556499+00:00",
-  "LastUpdate_Ratings": "2023-08-24T16:59:07.0712307+00:00",
-  "LastUpdate_Achievements": "2023-08-24T17:08:07.5482291+00:00"
+  "LastUpdate_Ratings": "2023-08-24T17:58:54.336469+00:00",
+  "LastUpdate_Achievements": "2023-08-24T18:07:22.1647152+00:00"
 }

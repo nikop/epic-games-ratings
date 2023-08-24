@@ -3,8 +3,8 @@
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
   "Ranking_Rating": 900,
-  "Ranking_Popularity": 483,
-  "Ranking_PopularitySum": 488,
+  "Ranking_Popularity": 474,
+  "Ranking_PopularitySum": 483,
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 127,
@@ -332,21 +332,27 @@
       "Rating": 4.14,
       "NumberOfAwards": 24,
       "NumberOfAwardsMax": 24
+    },
+    {
+      "Time": "2023-08-24T18:01:24.6343446+00:00",
+      "Rating": 4.14,
+      "NumberOfAwards": 26,
+      "NumberOfAwardsMax": 26
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 24,
-  "NumberOfAwardsMax": 24,
+  "NumberOfAwards": 26,
+  "NumberOfAwardsMax": 26,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 24
+      "Count": 26
     }
   ],
-  "EOS_Progressed": 39763,
+  "EOS_Progressed": 39764,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
@@ -7701,6 +7707,11 @@
       "Time": "2023-08-24T17:05:50.6765455+00:00",
       "NumProgressed": 39763,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-24T18:05:30.3271681+00:00",
+      "NumProgressed": 39764,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -8135,22 +8146,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 39763,
+      "Progressed": 39764,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 4600,
-      "Completed": 4600
+      "Progressed": 4601,
+      "Completed": 4601
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
-  "LastChanged": "2023-08-20T03:03:04.688758+00:00",
-  "LastChanged_Achievements": "2023-08-24T17:05:50.676545+00:00",
+  "LastChanged": "2023-08-24T18:01:24.6343445+00:00",
+  "LastChanged_Achievements": "2023-08-24T18:05:30.3271676+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:51.1296088+00:00",
-  "LastUpdate_Ratings": "2023-08-24T17:02:08.9915286+00:00",
-  "LastUpdate_Achievements": "2023-08-24T17:05:50.6766379+00:00"
+  "LastUpdate_Ratings": "2023-08-24T18:01:24.634345+00:00",
+  "LastUpdate_Achievements": "2023-08-24T18:05:30.3272378+00:00"
 }
