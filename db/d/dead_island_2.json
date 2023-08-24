@@ -3,7 +3,7 @@
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
   "Ranking_Rating": 501,
-  "Ranking_Popularity": 62,
+  "Ranking_Popularity": 61,
   "Ranking_PopularitySum": 97,
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 170,
@@ -3886,18 +3886,24 @@
       "Rating": 4.54,
       "NumberOfAwards": 8455,
       "NumberOfAwardsMax": 5743
+    },
+    {
+      "Time": "2023-08-24T21:00:45.6687973+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 8465,
+      "NumberOfAwardsMax": 5753
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8455,
-  "NumberOfAwardsMax": 5743,
+  "NumberOfAwards": 8465,
+  "NumberOfAwardsMax": 5753,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 5743
+      "Count": 5753
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3948,9 +3954,9 @@
       "Count": 324
     }
   ],
-  "EOS_Progressed": 664375,
+  "EOS_Progressed": 664418,
   "EOS_Completed": 2059,
-  "EOS_NewPlayers": 5753,
+  "EOS_NewPlayers": 5746,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -17943,6 +17949,11 @@
       "Time": "2023-08-24T20:03:26.533381+00:00",
       "NumProgressed": 664375,
       "NumCompleted": 2059
+    },
+    {
+      "Time": "2023-08-24T21:03:34.6643242+00:00",
+      "NumProgressed": 664418,
+      "NumCompleted": 2059
     }
   ],
   "TotalAchievements": 45,
@@ -18313,16 +18324,16 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 664375,
+      "Progressed": 664418,
       "Completed": 2059
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-08-24T16:01:13.5521507+00:00",
-  "LastChanged_Achievements": "2023-08-24T20:03:26.5333801+00:00",
+  "LastChanged": "2023-08-24T21:00:45.6687971+00:00",
+  "LastChanged_Achievements": "2023-08-24T21:03:34.6643231+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:28.9594263+00:00",
-  "LastUpdate_Ratings": "2023-08-24T20:01:32.712532+00:00",
-  "LastUpdate_Achievements": "2023-08-24T20:03:26.5334754+00:00"
+  "LastUpdate_Ratings": "2023-08-24T21:00:45.6687977+00:00",
+  "LastUpdate_Achievements": "2023-08-24T21:03:34.6644461+00:00"
 }

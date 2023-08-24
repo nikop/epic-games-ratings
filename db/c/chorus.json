@@ -1914,9 +1914,9 @@
       "ID": "MissionEnclaveWarPreparation",
       "SetID": "a6c395p",
       "Name": "Full Arsenal",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 640
+      "UsersEstimate": 652
     },
     {
       "ID": "MissionEosReturn",
@@ -2122,8 +2122,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-08-19T10:57:32.3642226+00:00",
-  "LastChanged_Achievements": "2023-08-24T20:07:24.2553166+00:00",
+  "LastChanged_Achievements": "2023-08-24T21:06:47.6689475+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:41.1503098+00:00",
-  "LastUpdate_Ratings": "2023-08-24T19:58:18.2242858+00:00",
-  "LastUpdate_Achievements": "2023-08-24T20:07:24.255354+00:00"
+  "LastUpdate_Ratings": "2023-08-24T20:58:06.2454002+00:00",
+  "LastUpdate_Achievements": "2023-08-24T21:06:47.6689978+00:00"
 }

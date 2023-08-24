@@ -1,24 +1,24 @@
 # Hogwarts Legacy
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
-Rating: 4.77 (Ranked 109)  
+Rating: 4.77 (Ranked 108)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 13.00% | ~37,794 |
+| The Sort Who Makes an Entrance | 13.00% | ~37,795 |
 | First Class Student | 11.00% | ~31,980 |
 | Troll with the Punches | 11.00% | ~31,980 |
-| The Hallowed Hero | 10.00% | ~29,072 |
-| The Defender of Dragons | 10.00% | ~29,072 |
-| A Keen Sense of Spell | 10.00% | ~29,072 |
-| A Talent for Spending | 10.00% | ~29,072 |
-| That's a Keeper | 10.00% | ~29,072 |
-| Grappling with a Graphorn | 9.00% | ~26,165 |
-| The One Who Mastered Memories | 9.00% | ~26,165 |
-| The Hero of Hogwarts | 9.00% | ~26,165 |
-| Challenge Accepted | 9.00% | ~26,165 |
-| Loom for Improvement | 9.00% | ~26,165 |
-| Coasting Along | 9.00% | ~26,165 |
+| The Hallowed Hero | 10.00% | ~29,073 |
+| The Defender of Dragons | 10.00% | ~29,073 |
+| A Keen Sense of Spell | 10.00% | ~29,073 |
+| A Talent for Spending | 10.00% | ~29,073 |
+| That's a Keeper | 10.00% | ~29,073 |
+| Grappling with a Graphorn | 9.00% | ~26,166 |
+| The One Who Mastered Memories | 9.00% | ~26,166 |
+| The Hero of Hogwarts | 9.00% | ~26,166 |
+| Challenge Accepted | 9.00% | ~26,166 |
+| Loom for Improvement | 9.00% | ~26,166 |
+| Coasting Along | 9.00% | ~26,166 |
 | Followed the Butterflies | 8.00% | ~23,258 |
 | The Spell Master | 8.00% | ~23,258 |
 | Rising From the Ashes | 8.00% | ~23,258 |
@@ -38,11 +38,11 @@ Rating: 4.77 (Ranked 109)
 | The Ends Petrify the Means | 4.00% | ~11,629 |
 | Floo Around the World | 3.00% | ~8,722 |
 | The Wise Owl | 3.00% | ~8,722 |
-| The Good Samaritan | 2.00% | ~5,814 |
-| Put Down Roots | 2.00% | ~5,814 |
-| The Auror's Apprentice | 2.00% | ~5,814 |
-| Rise to the Challenges | 2.00% | ~5,814 |
-| Finishing Touches | 2.00% | ~5,814 |
+| The Good Samaritan | 2.00% | ~5,815 |
+| Put Down Roots | 2.00% | ~5,815 |
+| The Auror's Apprentice | 2.00% | ~5,815 |
+| Rise to the Challenges | 2.00% | ~5,815 |
+| Finishing Touches | 2.00% | ~5,815 |
 | Savvy Spender | 1.00% | ~2,907 |
 | Demiguise Dread | 1.00% | ~2,907 |
 | A Forte for Achievement | 1.00% | ~2,907 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,744 |
 | Collector's Edition | 0.30% | ~872 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,724 (Ranked 43)  
+Progressed: 290,729 (Ranked 43)  
 Completed: 454 (0.16%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,15 +177,15 @@ Completed: 454 (0.16%) (Ranked 194)
 | 2023-08-21 | 290,578 | 453 |
 | 2023-08-22 | 290,631 | 454 |
 | 2023-08-23 | 290,678 | 454 |
-| 2023-08-24 | 290,724 | 454 |
+| 2023-08-24 | 290,729 | 454 |
 ## Awards
 Max (Character Customization): 21,908  (Ranked 17)  
-Sum: 41,480 (Ranked 30)  
+Sum: 41,491 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 21,908 |
-| This game has Great Boss Battles | 10,648 |
+| This game has Great Boss Battles | 10,659 |
 | This game is Great for Beginners | 990 |
 | This game is Extremely Fun | 967 |
 | This game is Relaxing | 966 |
@@ -352,4 +352,4 @@ Diff (max vs sum): -13
 | 2023-08-21 | 4.77 | 21,871 | 41,371 |
 | 2023-08-22 | 4.77 | 21,884 | 41,412 |
 | 2023-08-23 | 4.77 | 21,894 | 41,450 |
-| 2023-08-24 | 4.77 | 21,908 | 41,480 |
+| 2023-08-24 | 4.77 | 21,908 | 41,491 |

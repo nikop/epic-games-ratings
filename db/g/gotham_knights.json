@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2510,9 +2510,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 68015,
+  "EOS_Progressed": 68017,
   "EOS_Completed": 109,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -13115,6 +13115,11 @@
       "Time": "2023-08-24T19:08:46.8908781+00:00",
       "NumProgressed": 68015,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2023-08-24T21:07:09.4091374+00:00",
+      "NumProgressed": 68017,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 61,
@@ -13174,7 +13179,7 @@
       "Name": "The Batman Family",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 14963
+      "UsersEstimate": 14964
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -13214,7 +13219,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10202
+      "UsersEstimate": 10203
     },
     {
       "ID": "CHALLENGES_1",
@@ -13230,7 +13235,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 14283
+      "UsersEstimate": 14284
     },
     {
       "ID": "CLAYFACE_2",
@@ -13310,7 +13315,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6121
+      "UsersEstimate": 6122
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -13350,7 +13355,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 19044
+      "UsersEstimate": 19045
     },
     {
       "ID": "FREEZE_1_5",
@@ -13430,7 +13435,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 23805
+      "UsersEstimate": 23806
     },
     {
       "ID": "HARLEY_2",
@@ -13454,7 +13459,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 10882
+      "UsersEstimate": 10883
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -13486,7 +13491,7 @@
       "Name": "A Momentum Occasion",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2040
+      "UsersEstimate": 2041
     },
     {
       "ID": "HERO_PROGRESSION_4",
@@ -13502,7 +13507,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 18364
+      "UsersEstimate": 18365
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -13518,7 +13523,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 23125
+      "UsersEstimate": 23126
     },
     {
       "ID": "MYSTERY_02",
@@ -13534,7 +13539,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 14963
+      "UsersEstimate": 14964
     },
     {
       "ID": "MYSTERY_04",
@@ -13558,7 +13563,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10202
+      "UsersEstimate": 10203
     },
     {
       "ID": "MYSTERY_07",
@@ -13590,7 +13595,7 @@
       "Name": "Solid Alibi",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6121
+      "UsersEstimate": 6122
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -13606,20 +13611,20 @@
       "Name": "Bat Out of Hell",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2040
+      "UsersEstimate": 2041
     }
   ],
   "AchievementSets": [
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 68015,
+      "Progressed": 68017,
       "Completed": 109
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38295,
+      "Progressed": 38297,
       "Completed": 2658
     }
   ],
@@ -13627,8 +13632,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-08-23T10:57:48.162312+00:00",
-  "LastChanged_Achievements": "2023-08-24T20:07:49.0466543+00:00",
+  "LastChanged_Achievements": "2023-08-24T21:07:09.4091367+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:36.1459925+00:00",
-  "LastUpdate_Ratings": "2023-08-24T19:58:11.7788444+00:00",
-  "LastUpdate_Achievements": "2023-08-24T20:07:49.0467528+00:00"
+  "LastUpdate_Ratings": "2023-08-24T20:58:01.8463861+00:00",
+  "LastUpdate_Achievements": "2023-08-24T21:07:09.4092596+00:00"
 }

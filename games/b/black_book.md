@@ -1,15 +1,15 @@
 # Black Book
 [Store](https://store.epicgames.com/en-US/p/black-book)  
 [View Rawdata](../../db/b/black_book.json)  
-Rating: 4.78 (Ranked 100)  
+Rating: 4.77 (Ranked 108)  
 Number of Ratings: 96  (23.09.2022)  
 ## Awards
-Max (Character Customization): 22  (Ranked 493)  
-Sum: 22 (Ranked 496)  
-Diff (max vs sum): -3  
+Max (Character Customization): 23  (Ranked 491)  
+Sum: 23 (Ranked 495)  
+Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 22 |
+| This game has Inclusive Character Customization | 23 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -60,4 +60,4 @@ Diff (max vs sum): -3
 | 2023-08-21 | 4.82 | - | 21 | 21 |
 | 2023-08-22 | 4.79 | - | 21 | 21 |
 | 2023-08-23 | 4.80 | - | 22 | 22 |
-| 2023-08-24 | 4.78 | - | 22 | 22 |
+| 2023-08-24 | 4.78 | - | 23 | 23 |

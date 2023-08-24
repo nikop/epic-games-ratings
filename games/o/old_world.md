@@ -147,6 +147,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Glorious Difficulty | 0.30% | ~41 |
 | Persia | 0.30% | ~41 |
 | Old World Order | 0.30% | ~41 |
+| Pantheon of Gods | 0.30% | ~41 |
 | Play a Network Game | 0.30% | ~41 |
 | Capturing Cities | 0.30% | ~41 |
 | Ten Crowns | 0.30% | ~41 |
@@ -167,7 +168,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Macedonian Wars | 0.20% | ~27 |
 | Assyria | 0.20% | ~27 |
 | Hatti | 0.20% | ~27 |
-| Pantheon of Gods | 0.20% | ~27 |
 | Apadana in Parsa | 0.20% | ~27 |
 | Play a Free-For-All Game (>2 Players) | 0.20% | ~27 |
 | Play a MP Teams Game | 0.20% | ~27 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,545 (Ranked 119)  
+Progressed: 13,546 (Ranked 119)  
 Completed: 5 (0.04%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -429,7 +429,7 @@ Completed: 5 (0.04%) (Ranked 233)
 | 2023-08-21 | 13,520 | 5 |
 | 2023-08-22 | 13,532 | 5 |
 | 2023-08-23 | 13,540 | 5 |
-| 2023-08-24 | 13,545 | 5 |
+| 2023-08-24 | 13,546 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,799 (Ranked 208)  

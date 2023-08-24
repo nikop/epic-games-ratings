@@ -1,23 +1,23 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.58 (Ranked 427)  
+Rating: 4.58 (Ranked 428)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 23.00% | ~49,844 |
-| Déjà vu | 2.00% | ~4,334 |
-| Where's that freaking Dwarf? | 2.00% | ~4,334 |
-| Sock! SOCK! | 2.00% | ~4,334 |
-| Alt+F4 | 2.00% | ~4,334 |
+| Sowwy! | 23.00% | ~49,849 |
+| Déjà vu | 2.00% | ~4,335 |
+| Where's that freaking Dwarf? | 2.00% | ~4,335 |
+| Sock! SOCK! | 2.00% | ~4,335 |
+| Alt+F4 | 2.00% | ~4,335 |
 | A beer, two curses, three companions | 1.00% | ~2,167 |
 | GG EZ | 1.00% | ~2,167 |
 | DM intervention | 1.00% | ~2,167 |
 | Speedrun | 1.00% | ~2,167 |
 | Fireproof Wizardess | 1.00% | ~2,167 |
-| Way of the Wimp | 0.90% | ~1,950 |
-| The plot thickens... At the tavern | 0.90% | ~1,950 |
+| Way of the Wimp | 0.90% | ~1,951 |
+| The plot thickens... At the tavern | 0.90% | ~1,951 |
 | Livin' in a dwarven paradise | 0.80% | ~1,734 |
 | The demons' feast | 0.70% | ~1,517 |
 | The Great Library | 0.70% | ~1,517 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~217 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,711 (Ranked 56)  
+Progressed: 216,736 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 2 (0.00%) (Ranked 263)
 | 2023-08-21 | 215,690 | 2 |
 | 2023-08-22 | 216,036 | 2 |
 | 2023-08-23 | 216,367 | 2 |
-| 2023-08-24 | 216,711 | 2 |
+| 2023-08-24 | 216,736 | 2 |
 ## Awards
 Max (Character Customization): 174  (Ranked 285)  
 Sum: 217 (Ranked 364)  

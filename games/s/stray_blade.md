@@ -12,7 +12,7 @@
 | Apprentice | 25.00% | ~13 |
 | Don't Cry Wolf | 22.00% | ~11 |
 | Freezing Cold | 12.00% | ~6 |
-| The Golden Flash | 10.00% | ~5 |
+| The Golden Flash | 12.00% | ~6 |
 | The Power of the Mountains | 10.00% | ~5 |
 | Bringing guns to a sword fight | 8.00% | ~4 |
 | Searing Heat | 8.00% | ~4 |

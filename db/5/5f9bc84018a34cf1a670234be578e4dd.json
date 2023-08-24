@@ -3,9 +3,9 @@
   "Name": "Access Denied Escape",
   "ProductSlug": "access-denied-escape-1d486e",
   "Ranking_EOS_Progress": 318,
-  "Ranking_EOS_Completed": 12,
+  "Ranking_EOS_Completed": 11,
   "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
     "PcReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 138,
-  "EOS_Completed": 31,
+  "EOS_Completed": 32,
   "EOS_NewPlayers": 7,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 22.46,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 23.19,
   "EosHistory": [
     {
       "Time": "2023-07-22T13:07:04.2774208+00:00",
@@ -676,6 +676,11 @@
       "Time": "2023-08-23T22:05:31.7576923+00:00",
       "NumProgressed": 138,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-08-24T21:06:18.6280293+00:00",
+      "NumProgressed": 138,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-07-04T15:00:48.8668077+00:00",
@@ -686,9 +691,9 @@
       "ID": "AllSafes",
       "SetID": "7jbi7el",
       "Name": "Safe Cracker",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 55
+      "UsersEstimate": 57
     },
     {
       "ID": "Batteries",
@@ -758,9 +763,9 @@
       "ID": "GasFound",
       "SetID": "7jbi7el",
       "Name": "Something is wrong here",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "Hologram",
@@ -782,9 +787,9 @@
       "ID": "SecretRoom",
       "SetID": "7jbi7el",
       "Name": "Researcher",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 80,
-      "UsersEstimate": 63
+      "UsersEstimate": 65
     },
     {
       "ID": "Synthesis",
@@ -800,13 +805,13 @@
       "ID": "7jbi7el",
       "IsBase": true,
       "Progressed": 138,
-      "Completed": 31
+      "Completed": 32
     }
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-08-24T20:06:51.0103565+00:00",
+  "LastChanged_Achievements": "2023-08-24T21:06:18.6280284+00:00",
   "LastUpdate_AppInfo": "2023-08-22T18:57:00.7116692+00:00",
-  "LastUpdate_Ratings": "2023-08-24T19:59:27.9971166+00:00",
-  "LastUpdate_Achievements": "2023-08-24T20:06:51.0103694+00:00"
+  "LastUpdate_Ratings": "2023-08-24T20:59:00.8702988+00:00",
+  "LastUpdate_Achievements": "2023-08-24T21:06:18.6280455+00:00"
 }

@@ -6,15 +6,15 @@ Rating: 4.45 (Ranked 637)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 46.00% | ~1,621 |
-| Confirming Suspicions | 40.00% | ~1,409 |
-| The Kraken Wakes | 36.00% | ~1,268 |
-| It's Starting to Crack | 32.00% | ~1,127 |
+| Confirming Suspicions | 40.00% | ~1,410 |
+| The Kraken Wakes | 36.00% | ~1,269 |
+| It's Starting to Crack | 32.00% | ~1,128 |
 | Change the Channel | 30.00% | ~1,057 |
 | Lord of War | 29.00% | ~1,022 |
 | Taking it back | 27.00% | ~951 |
 | Resourceful | 26.00% | ~916 |
 | Target America | 25.00% | ~881 |
-| The Kraken Sleeps | 23.00% | ~810 |
+| The Kraken Sleeps | 23.00% | ~811 |
 | Organ Grinder | 22.00% | ~775 |
 | As Quiet as a Mouse | 22.00% | ~775 |
 | Liberté | 21.00% | ~740 |
@@ -22,9 +22,9 @@ Rating: 4.45 (Ranked 637)
 | Explosive Efficiency | 18.00% | ~634 |
 | Gunslinger | 17.00% | ~599 |
 | Just a Flesh Wound | 16.00% | ~564 |
-| Climbing the Ladder | 15.00% | ~528 |
-| Der Geist | 15.00% | ~528 |
-| Close Quarters | 15.00% | ~528 |
+| Climbing the Ladder | 15.00% | ~529 |
+| Der Geist | 15.00% | ~529 |
+| Close Quarters | 15.00% | ~529 |
 | Snake in the Grass | 14.00% | ~493 |
 | Brains of the Operation | 14.00% | ~493 |
 | No Stone Unturned | 13.00% | ~458 |
@@ -58,11 +58,11 @@ Rating: 4.45 (Ranked 637)
 | Eagle Eyed | 2.00% | ~70 |
 | Up close and personal | 2.00% | ~70 |
 | Can't Outrun A Bullet | 2.00% | ~70 |
-| Führerious Repetition | 2.00% | ~69 |
-| Reich To The Point | 2.00% | ~69 |
-| Covert Elimination | 2.00% | ~69 |
-| Shipbreaker | 2.00% | ~69 |
-| Sink or Swim | 2.00% | ~69 |
+| Führerious Repetition | 2.00% | ~70 |
+| Reich To The Point | 2.00% | ~70 |
+| Covert Elimination | 2.00% | ~70 |
+| Shipbreaker | 2.00% | ~70 |
+| Sink or Swim | 2.00% | ~70 |
 | Best of the Best | 1.00% | ~35 |
 | Out of Scope | 1.00% | ~35 |
 | Sight Beyond Sights | 1.00% | ~35 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 637)
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,523 (Ranked 153)  
+Progressed: 3,524 (Ranked 153)  
 Completed: 9 (0.26%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 9 (0.26%) (Ranked 178)
 | 2023-08-21 | 3,510 | 9 |
 | 2023-08-22 | 3,515 | 9 |
 | 2023-08-23 | 3,521 | 9 |
-| 2023-08-24 | 3,523 | 9 |
+| 2023-08-24 | 3,524 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

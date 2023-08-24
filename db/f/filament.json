@@ -5,10 +5,10 @@
   "Ranking_Rating": 778,
   "Ranking_Popularity": 189,
   "Ranking_PopularitySum": 281,
-  "Ranking_EOS_Progress": 58,
+  "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 180,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -243,9 +243,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 199893,
+  "EOS_Progressed": 199900,
   "EOS_Completed": 488,
-  "EOS_NewPlayers": 573,
+  "EOS_NewPlayers": 574,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -13803,6 +13803,11 @@
       "Time": "2023-08-24T20:05:18.4874288+00:00",
       "NumProgressed": 199893,
       "NumCompleted": 488
+    },
+    {
+      "Time": "2023-08-24T21:05:00.0616798+00:00",
+      "NumProgressed": 199900,
+      "NumCompleted": 488
     }
   ],
   "TotalAchievements": 29,
@@ -13814,7 +13819,7 @@
       "Name": "No Anchor too great.",
       "Percentage": 0.5,
       "XP": 80,
-      "UsersEstimate": 999
+      "UsersEstimate": 1000
     },
     {
       "ID": "ACHIEVEMENT_ARCHWAY",
@@ -13838,7 +13843,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 187899
+      "UsersEstimate": 187906
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -13852,9 +13857,9 @@
       "ID": "ACHIEVEMENT_BRIDGE_ENTER",
       "SetID": "1fd5amk",
       "Name": "I hope you\u0027re ready.",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1999
+      "UsersEstimate": 3998
     },
     {
       "ID": "ACHIEVEMENT_CARDS",
@@ -13998,7 +14003,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 19989
+      "UsersEstimate": 19990
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -14045,7 +14050,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 199893,
+      "Progressed": 199900,
       "Completed": 488
     }
   ],
@@ -14053,8 +14058,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-08-19T20:00:31.8399303+00:00",
-  "LastChanged_Achievements": "2023-08-24T20:05:18.4874278+00:00",
+  "LastChanged_Achievements": "2023-08-24T21:05:00.0616792+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:20.1074044+00:00",
-  "LastUpdate_Ratings": "2023-08-24T19:57:09.3716924+00:00",
-  "LastUpdate_Achievements": "2023-08-24T20:05:18.4875084+00:00"
+  "LastUpdate_Ratings": "2023-08-24T20:57:09.1666002+00:00",
+  "LastUpdate_Achievements": "2023-08-24T21:05:00.0617865+00:00"
 }

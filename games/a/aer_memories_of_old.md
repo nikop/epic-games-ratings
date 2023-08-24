@@ -6,28 +6,28 @@ Number of Ratings: 170  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 76.00% | ~14,106 |
-| Mama? | 28.00% | ~5,197 |
-| People's Haven | 19.00% | ~3,527 |
-| Cartographer | 17.00% | ~3,155 |
-| Antlers of Stone | 15.00% | ~2,784 |
-| Knowledge for Power | 14.00% | ~2,599 |
-| Mausoleum of Ice | 14.00% | ~2,599 |
-| Gaze into the abyss | 13.00% | ~2,413 |
-| In the belly of the beast | 12.00% | ~2,227 |
-| Wings of Stone | 12.00% | ~2,227 |
-| Equilibrium | 12.00% | ~2,227 |
-| Condor condo | 10.00% | ~1,856 |
-| Memorial | 9.00% | ~1,670 |
-| An uninvited guest | 8.00% | ~1,485 |
-| Talk to all the spirit animals | 7.00% | ~1,299 |
+| Light at the end of the tunnel | 76.00% | ~14,112 |
+| Mama? | 28.00% | ~5,199 |
+| People's Haven | 19.00% | ~3,528 |
+| Cartographer | 17.00% | ~3,157 |
+| Antlers of Stone | 15.00% | ~2,785 |
+| Knowledge for Power | 14.00% | ~2,600 |
+| Mausoleum of Ice | 14.00% | ~2,600 |
+| Gaze into the abyss | 13.00% | ~2,414 |
+| In the belly of the beast | 12.00% | ~2,228 |
+| Wings of Stone | 12.00% | ~2,228 |
+| Equilibrium | 12.00% | ~2,228 |
+| Condor condo | 10.00% | ~1,857 |
+| Memorial | 9.00% | ~1,671 |
+| An uninvited guest | 8.00% | ~1,486 |
+| Talk to all the spirit animals | 7.00% | ~1,300 |
 | Ripples on the surface | 6.00% | ~1,114 |
 | Tails of Stone | 6.00% | ~1,114 |
 | Baa from the past | 6.00% | ~1,114 |
 | Written in stone | 6.00% | ~1,114 |
 | Hide and Seek | 5.00% | ~928 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,561 (Ranked 110)  
+Progressed: 18,569 (Ranked 110)  
 Completed: 374 (2.01%) (Ranked 93)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 374 (2.01%) (Ranked 93)
 | 2023-08-21 | 18,366 | 373 |
 | 2023-08-22 | 18,439 | 373 |
 | 2023-08-23 | 18,510 | 374 |
-| 2023-08-24 | 18,561 | 374 |
+| 2023-08-24 | 18,569 | 374 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

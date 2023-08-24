@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 129,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -495,9 +495,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14772,
+  "EOS_Progressed": 14773,
   "EOS_Completed": 110,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -8770,6 +8770,11 @@
       "Time": "2023-08-24T20:06:09.7411956+00:00",
       "NumProgressed": 14772,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2023-08-24T21:05:43.7388058+00:00",
+      "NumProgressed": 14773,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 41,
@@ -8797,7 +8802,7 @@
       "Name": "Wannabe knight",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3545
+      "UsersEstimate": 3546
     },
     {
       "ID": "tpote_achievement_12",
@@ -8869,7 +8874,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 5022
+      "UsersEstimate": 5023
     },
     {
       "ID": "tpote_achievement_20",
@@ -8893,7 +8898,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2954
+      "UsersEstimate": 2955
     },
     {
       "ID": "tpote_achievement_23",
@@ -8949,7 +8954,7 @@
       "Name": "Skilled merchant",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1329
+      "UsersEstimate": 1330
     },
     {
       "ID": "tpote_achievement_3",
@@ -8989,7 +8994,7 @@
       "Name": "Nothing but make-believe",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1329
+      "UsersEstimate": 1330
     },
     {
       "ID": "tpote_achievement_34",
@@ -9013,7 +9018,7 @@
       "Name": "Brother Marcus",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1329
+      "UsersEstimate": 1330
     },
     {
       "ID": "tpote_achievement_37",
@@ -9037,7 +9042,7 @@
       "Name": "The oath",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1329
+      "UsersEstimate": 1330
     },
     {
       "ID": "tpote_achievement_4",
@@ -9053,7 +9058,7 @@
       "Name": "The truth revealed",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1329
+      "UsersEstimate": 1330
     },
     {
       "ID": "tpote_achievement_41",
@@ -9061,7 +9066,7 @@
       "Name": "The End.",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 1329
+      "UsersEstimate": 1330
     },
     {
       "ID": "tpote_achievement_5",
@@ -9069,7 +9074,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 3545
+      "UsersEstimate": 3546
     },
     {
       "ID": "tpote_achievement_6",
@@ -9077,7 +9082,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3545
+      "UsersEstimate": 3546
     },
     {
       "ID": "tpote_achievement_7",
@@ -9101,22 +9106,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 5170
+      "UsersEstimate": 5171
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14772,
+      "Progressed": 14773,
       "Completed": 110
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-08-03T13:08:30.3350415+00:00",
-  "LastChanged_Achievements": "2023-08-24T20:06:09.7411951+00:00",
+  "LastChanged_Achievements": "2023-08-24T21:05:43.7388047+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:51.0435439+00:00",
-  "LastUpdate_Ratings": "2023-08-24T19:58:27.6542441+00:00",
-  "LastUpdate_Achievements": "2023-08-24T20:06:09.7412615+00:00"
+  "LastUpdate_Ratings": "2023-08-24T20:58:13.3624014+00:00",
+  "LastUpdate_Achievements": "2023-08-24T21:05:43.7388914+00:00"
 }

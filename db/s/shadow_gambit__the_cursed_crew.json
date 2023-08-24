@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 482,
+  "EOS_Progressed": 483,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 345,
+  "EOS_NewPlayers": 342,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -911,6 +911,11 @@
       "Time": "2023-08-24T19:05:14.4301478+00:00",
       "NumProgressed": 482,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-24T21:04:36.4909012+00:00",
+      "NumProgressed": 483,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -939,15 +944,15 @@
       "Name": "The Adventure Begins",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "_04_CollectAllRelics",
       "SetID": "8a1io5d",
       "Name": "This Belongs in a Museum",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 130
     },
     {
       "ID": "_05_FinishAct2",
@@ -979,7 +984,7 @@
       "Name": "Swabbie",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "_09_Completion_20",
@@ -1033,9 +1038,9 @@
       "ID": "_15_Completion_80",
       "SetID": "8a1io5d",
       "Name": "Marauder",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 125,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "_16_UnlockCore8Characters",
@@ -1051,7 +1056,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -1075,7 +1080,7 @@
       "Name": "Fishy Fish",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -1121,23 +1126,23 @@
       "ID": "_26_ReviveVirgilio",
       "SetID": "8a1io5d",
       "Name": "Welcome Back Jester",
-      "Percentage": 0.6,
+      "Percentage": 0.8,
       "XP": 140,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 482,
+      "Progressed": 483,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-24T20:04:38.7639291+00:00",
+  "LastChanged_Achievements": "2023-08-24T21:04:36.4909005+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:01.7621403+00:00",
-  "LastUpdate_Ratings": "2023-08-24T20:01:08.0011861+00:00",
-  "LastUpdate_Achievements": "2023-08-24T20:04:38.763948+00:00"
+  "LastUpdate_Ratings": "2023-08-24T21:00:26.0990059+00:00",
+  "LastUpdate_Achievements": "2023-08-24T21:04:36.4909267+00:00"
 }

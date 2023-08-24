@@ -4,7 +4,7 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 41,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -1600,17 +1600,17 @@
       "ID": "BeggarWomanHut",
       "SetID": "db30heh",
       "Name": "Home Sweet Home",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 290
+      "UsersEstimate": 294
     },
     {
       "ID": "BroomAmanita",
       "SetID": "db30heh",
       "Name": "Gone Cooking",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 200
+      "UsersEstimate": 204
     },
     {
       "ID": "BroomPistol",
@@ -1728,9 +1728,9 @@
       "ID": "PitSoul",
       "SetID": "db30heh",
       "Name": "Your Soul Is Mine",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 172
+      "UsersEstimate": 176
     },
     {
       "ID": "PriestBroom",
@@ -1800,17 +1800,17 @@
       "ID": "RogueEat",
       "SetID": "db30heh",
       "Name": "Debt Free",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 380
+      "UsersEstimate": 384
     },
     {
       "ID": "RogueKing",
       "SetID": "db30heh",
       "Name": "Long Live The King",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 119
+      "UsersEstimate": 123
     },
     {
       "ID": "RogueNaked",
@@ -1887,8 +1887,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-08-24T20:04:35.9109824+00:00",
+  "LastChanged_Achievements": "2023-08-24T21:04:34.1338595+00:00",
   "LastUpdate_AppInfo": "2023-08-22T17:57:09.5805493+00:00",
-  "LastUpdate_Ratings": "2023-08-24T19:59:41.1136624+00:00",
-  "LastUpdate_Achievements": "2023-08-24T20:04:35.91102+00:00"
+  "LastUpdate_Ratings": "2023-08-24T20:59:16.529659+00:00",
+  "LastUpdate_Achievements": "2023-08-24T21:04:34.1339047+00:00"
 }

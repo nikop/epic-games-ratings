@@ -722,9 +722,9 @@
       "ID": "9",
       "SetID": "39djiaj",
       "Name": "Just how we drew it up",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     }
   ],
   "AchievementSets": [
@@ -737,8 +737,8 @@
   ],
   "FirstSeen": "2023-05-27T21:59:02.7354993+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:07.9162458+00:00",
-  "LastChanged_Achievements": "2023-08-24T20:06:25.9361412+00:00",
+  "LastChanged_Achievements": "2023-08-24T21:05:57.1811045+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:49.91296+00:00",
-  "LastUpdate_Ratings": "2023-08-24T19:57:34.2707882+00:00",
-  "LastUpdate_Achievements": "2023-08-24T20:06:25.9361694+00:00"
+  "LastUpdate_Ratings": "2023-08-24T20:57:30.8088654+00:00",
+  "LastUpdate_Achievements": "2023-08-24T21:05:57.1811379+00:00"
 }
