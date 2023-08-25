@@ -6076,9 +6076,9 @@
       "Count": 3368
     }
   ],
-  "EOS_Progressed": 224818,
+  "EOS_Progressed": 224832,
   "EOS_Completed": 2213,
-  "EOS_NewPlayers": 1818,
+  "EOS_NewPlayers": 1816,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -19971,6 +19971,11 @@
       "Time": "2023-08-25T13:11:37.2240859+00:00",
       "NumProgressed": 224818,
       "NumCompleted": 2213
+    },
+    {
+      "Time": "2023-08-25T14:08:52.073175+00:00",
+      "NumProgressed": 224832,
+      "NumCompleted": 2213
     }
   ],
   "TotalAchievements": 516,
@@ -19982,7 +19987,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4496
+      "UsersEstimate": 4497
     },
     {
       "ID": "objective_completed_10",
@@ -24052,9 +24057,9 @@
       "ID": "objective_completed_1390",
       "SetID": "415jc5c",
       "Name": "Topolah\u0027s Tower",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 191
+      "UsersEstimate": 382
     },
     {
       "ID": "objective_completed_1391",
@@ -24078,7 +24083,7 @@
       "Name": "The Hunt for The Last Breath",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 955
+      "UsersEstimate": 956
     },
     {
       "ID": "objective_completed_1396",
@@ -24109,21 +24114,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 191092,
+      "Progressed": 191106,
       "Completed": 3304
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 224818,
+      "Progressed": 224832,
       "Completed": 2213
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-24T22:01:32.6243571+00:00",
-  "LastChanged_Achievements": "2023-08-25T13:11:37.2240853+00:00",
+  "LastChanged_Achievements": "2023-08-25T14:08:52.0731745+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:12.3267162+00:00",
-  "LastUpdate_Ratings": "2023-08-25T13:05:32.6246781+00:00",
-  "LastUpdate_Achievements": "2023-08-25T13:11:37.2271547+00:00"
+  "LastUpdate_Ratings": "2023-08-25T14:02:24.5217094+00:00",
+  "LastUpdate_Achievements": "2023-08-25T14:08:52.0757257+00:00"
 }

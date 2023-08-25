@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2019-07-25T08:00:00+00:00",
@@ -4437,9 +4437,9 @@
       "ID": "ACH_10_SOUP",
       "SetID": "5nj1ea3",
       "Name": "Souper!",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 3134
+      "UsersEstimate": 3183
     },
     {
       "ID": "ACH_10_WATER",
@@ -4926,8 +4926,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-08-11T11:57:12.7338821+00:00",
-  "LastChanged_Achievements": "2023-08-25T13:11:50.4507558+00:00",
+  "LastChanged_Achievements": "2023-08-25T14:09:06.4047089+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:08.2556499+00:00",
-  "LastUpdate_Ratings": "2023-08-25T13:03:02.1978738+00:00",
-  "LastUpdate_Achievements": "2023-08-25T13:11:50.4508353+00:00"
+  "LastUpdate_Ratings": "2023-08-25T13:59:20.6854964+00:00",
+  "LastUpdate_Achievements": "2023-08-25T14:09:06.4047739+00:00"
 }

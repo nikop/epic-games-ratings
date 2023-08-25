@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -6263,9 +6263,9 @@
       "ID": "Ach008",
       "SetID": "12n4k20",
       "Name": "Easy Listening",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 20
     },
     {
       "ID": "Ach009",
@@ -6790,8 +6790,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-08-10T23:00:09.4128826+00:00",
-  "LastChanged_Achievements": "2023-08-25T13:11:32.723278+00:00",
+  "LastChanged_Achievements": "2023-08-25T14:08:46.4755483+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:54.770039+00:00",
-  "LastUpdate_Ratings": "2023-08-25T13:06:04.2916166+00:00",
-  "LastUpdate_Achievements": "2023-08-25T13:11:32.7233972+00:00"
+  "LastUpdate_Ratings": "2023-08-25T14:03:01.1580907+00:00",
+  "LastUpdate_Achievements": "2023-08-25T14:08:46.4756857+00:00"
 }

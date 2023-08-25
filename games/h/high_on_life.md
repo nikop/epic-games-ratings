@@ -5,18 +5,18 @@ Rating: 4.65 (Ranked 299)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~19,894 |
-| Mods Please Ban | 77.00% | ~18,456 |
-| Bring A Knife to a Gun Fight | 76.00% | ~18,216 |
-| Fallout Doesn't Let You Do This | 73.00% | ~17,497 |
+| Eye Scream, You Scream | 83.00% | ~19,895 |
+| Mods Please Ban | 77.00% | ~18,457 |
+| Bring A Knife to a Gun Fight | 76.00% | ~18,217 |
+| Fallout Doesn't Let You Do This | 73.00% | ~17,498 |
 | First Bounty Down | 59.00% | ~14,142 |
-| We're All Very Impressed, Trust Me | 57.00% | ~13,662 |
+| We're All Very Impressed, Trust Me | 57.00% | ~13,663 |
 | Luglox Genocide | 43.00% | ~10,307 |
-| Don't Knife The Hand That Feeds | 34.00% | ~8,149 |
+| Don't Knife The Hand That Feeds | 34.00% | ~8,150 |
 | Playing Card To Get | 33.00% | ~7,910 |
 | Creature Feature | 30.00% | ~7,191 |
-| Satisfied Gus-tomer | 28.00% | ~6,711 |
-| Cold-Blooded Driller | 28.00% | ~6,711 |
+| Satisfied Gus-tomer | 28.00% | ~6,712 |
+| Cold-Blooded Driller | 28.00% | ~6,712 |
 | Are You Packin'? | 25.00% | ~5,992 |
 | Sweezy Like Sunday Morning | 25.00% | ~5,992 |
 | G3 Graduation | 25.00% | ~5,992 |
@@ -27,7 +27,7 @@ Rating: 4.65 (Ranked 299)
 | Who's The Boss? | 20.00% | ~4,794 |
 | Self-Actualization | 19.00% | ~4,554 |
 | Spent 15 Hours At The Alien Strip Club | 19.00% | ~4,554 |
-| Legendary Bounty Hunter | 18.00% | ~4,314 |
+| Legendary Bounty Hunter | 18.00% | ~4,315 |
 | Seeing All The Sights | 16.00% | ~3,835 |
 | Carried Stan's Load To Completion | 13.00% | ~3,116 |
 | We Paid For The Rights To Put A Whole Movie In Here | 12.00% | ~2,876 |
@@ -38,7 +38,7 @@ Rating: 4.65 (Ranked 299)
 | Epic Legendary Prize | 1.00% | ~240 |
 | A Starfish Is Born | 1.00% | ~240 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,969 (Ranked 104)  
+Progressed: 23,970 (Ranked 104)  
 Completed: 12 (0.05%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 12 (0.05%) (Ranked 230)
 | 2023-08-22 | 23,958 | 12 |
 | 2023-08-23 | 23,965 | 12 |
 | 2023-08-24 | 23,968 | 12 |
-| 2023-08-25 | 23,969 | 12 |
+| 2023-08-25 | 23,970 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

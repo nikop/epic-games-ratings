@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 348,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-24T10:00:00+00:00",
     "PcReleaseDate": "2021-09-28T23:00:00+00:00",
@@ -259,9 +259,9 @@
       "ID": "DUNGEON_BOSS",
       "SetID": "63n2m0e",
       "Name": "Master of Dungeon",
-      "Percentage": 43,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "EVADER",
@@ -370,8 +370,8 @@
   ],
   "FirstSeen": "2023-05-26T16:57:16.6095793+00:00",
   "FirstSeenAchievements": "2023-05-16T19:59:50.0064107+00:00",
-  "LastChanged_Achievements": "2023-08-25T13:06:26.4547325+00:00",
+  "LastChanged_Achievements": "2023-08-25T14:03:38.7855412+00:00",
   "LastUpdate_AppInfo": "2023-08-23T05:57:07.4487378+00:00",
-  "LastUpdate_Ratings": "2023-08-25T13:04:14.8968389+00:00",
-  "LastUpdate_Achievements": "2023-08-25T13:06:26.454765+00:00"
+  "LastUpdate_Ratings": "2023-08-25T14:00:47.7571519+00:00",
+  "LastUpdate_Achievements": "2023-08-25T14:03:38.7855647+00:00"
 }

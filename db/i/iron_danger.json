@@ -4,8 +4,8 @@
   "ProductSlug": "iron-danger-b4320c",
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 102,
-  "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
     "PcReleaseDate": "2020-03-25T00:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253,
+  "EOS_Progressed": 254,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.58,
+  "EOS_Completed_Percentage": 1.57,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:49.5378411+00:00",
@@ -486,6 +486,11 @@
       "Time": "2023-08-24T19:07:49.4705406+00:00",
       "NumProgressed": 253,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-25T14:08:26.7146787+00:00",
+      "NumProgressed": 254,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 23,
@@ -559,9 +564,9 @@
       "ID": "ACH_HEALER_MET",
       "SetID": "ao59f0i",
       "Name": "Found the Healer",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 91
+      "UsersEstimate": 89
     },
     {
       "ID": "ACH_KEYU_EXTERMINATOR",
@@ -617,7 +622,7 @@
       "Name": "First Shard",
       "Percentage": 81,
       "XP": 40,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "ACH_SHARD_2",
@@ -631,9 +636,9 @@
       "ID": "ACH_SHARD_3",
       "SetID": "ao59f0i",
       "Name": "Third Shard",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_SHARD_4",
@@ -680,7 +685,7 @@
     {
       "ID": "ao59f0i",
       "IsBase": true,
-      "Progressed": 253,
+      "Progressed": 254,
       "Completed": 4
     }
   ],
@@ -688,8 +693,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2023-08-25T13:11:13.776052+00:00",
+  "LastChanged_Achievements": "2023-08-25T14:08:26.7146782+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:48.0329275+00:00",
-  "LastUpdate_Ratings": "2023-08-25T13:02:31.856274+00:00",
-  "LastUpdate_Achievements": "2023-08-25T13:11:13.7760744+00:00"
+  "LastUpdate_Ratings": "2023-08-25T13:58:43.1849587+00:00",
+  "LastUpdate_Achievements": "2023-08-25T14:08:26.7146941+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "93ea0d593cb04e62afb0741bbf894173",
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
-  "Ranking_Rating": 542,
+  "Ranking_Rating": 543,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 243,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 230389,
+  "EOS_Progressed": 230392,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 485,
+  "EOS_NewPlayers": 486,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -13638,6 +13638,11 @@
       "Time": "2023-08-25T13:09:15.6466094+00:00",
       "NumProgressed": 230389,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-08-25T14:06:10.2533481+00:00",
+      "NumProgressed": 230392,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 34,
@@ -13665,7 +13670,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 64509
+      "UsersEstimate": 64510
     },
     {
       "ID": "CENTAUR",
@@ -13785,7 +13790,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 76028
+      "UsersEstimate": 76029
     },
     {
       "ID": "NOBUNAGA",
@@ -13841,7 +13846,7 @@
       "Name": "QAREEN",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 11519
+      "UsersEstimate": 11520
     },
     {
       "ID": "RESPWND",
@@ -13913,22 +13918,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 94459
+      "UsersEstimate": 94461
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 230389,
+      "Progressed": 230392,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-08-25T13:09:15.6466087+00:00",
+  "LastChanged_Achievements": "2023-08-25T14:06:10.2533477+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:21.6376878+00:00",
-  "LastUpdate_Ratings": "2023-08-25T13:05:42.3513692+00:00",
-  "LastUpdate_Achievements": "2023-08-25T13:09:15.6467631+00:00"
+  "LastUpdate_Ratings": "2023-08-25T14:02:37.6497294+00:00",
+  "LastUpdate_Achievements": "2023-08-25T14:06:10.2534338+00:00"
 }

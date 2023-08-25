@@ -12,7 +12,7 @@ Number of Ratings: 25  (23.09.2022)
 | Economical | 92.00% | ~558 |
 | Devout | 89.00% | ~540 |
 | The Love Martyr | 87.00% | ~528 |
-| Frugal | 85.00% | ~516 |
+| Frugal | 86.00% | ~522 |
 | Dilligent | 83.00% | ~504 |
 | I... I did it? | 81.00% | ~492 |
 | Adored | 76.00% | ~461 |
