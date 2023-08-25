@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8961,
+  "EOS_Progressed": 8963,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 788,
+  "EOS_NewPlayers": 789,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3047,6 +3047,11 @@
       "Time": "2023-08-25T05:07:45.461401+00:00",
       "NumProgressed": 8961,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-25T06:08:31.2652079+00:00",
+      "NumProgressed": 8963,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -3099,7 +3104,7 @@
       "Name": "Doctor Approved",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 1523
+      "UsersEstimate": 1524
     },
     {
       "ID": "15",
@@ -3273,9 +3278,9 @@
       "ID": "7",
       "SetID": "458bbdk",
       "Name": "Grave Robber",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 36
     },
     {
       "ID": "8",
@@ -3298,14 +3303,14 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 8961,
+      "Progressed": 8963,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged_Achievements": "2023-08-25T05:07:45.4614001+00:00",
+  "LastChanged_Achievements": "2023-08-25T06:08:31.2652072+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:40.3624587+00:00",
-  "LastUpdate_Ratings": "2023-08-25T04:57:47.1396572+00:00",
-  "LastUpdate_Achievements": "2023-08-25T05:07:45.4614422+00:00"
+  "LastUpdate_Ratings": "2023-08-25T05:57:35.5420501+00:00",
+  "LastUpdate_Achievements": "2023-08-25T06:08:31.2652505+00:00"
 }

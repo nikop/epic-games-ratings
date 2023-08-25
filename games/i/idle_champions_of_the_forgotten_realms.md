@@ -7,8 +7,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 2.00% | ~4,495 |
-| Beast Intentions | 0.60% | ~1,348 |
-| The Cursed Farmer | 0.60% | ~1,348 |
+| Beast Intentions | 0.60% | ~1,349 |
+| The Cursed Farmer | 0.60% | ~1,349 |
 | The Mad Wizard | 0.50% | ~1,124 |
 | The Hunt for The Last Breath | 0.50% | ~955 |
 | The Ring of Regeneration | 0.40% | ~899 |
@@ -16,12 +16,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Were-verpowered | 0.30% | ~674 |
 | Seeking Allies | 0.30% | ~674 |
 | Are Ya Chicken? | 0.30% | ~674 |
+| Friendly Imps | 0.30% | ~674 |
 | The Chaotic Hunt for The Last Breath | 0.30% | ~573 |
-| Maddening | 0.20% | ~449 |
+| Maddening | 0.20% | ~450 |
 | Tall Tales | 0.20% | ~382 |
 | The Witchlight Carnival | 0.20% | ~382 |
-| The Silken Swamp | 0.20% | ~449 |
-| Supply Run | 0.20% | ~449 |
+| Thieves of the Coven | 0.20% | ~382 |
+| The Silken Swamp | 0.20% | ~450 |
+| Supply Run | 0.20% | ~450 |
 | Seeds of Destruction | 0.20% | ~382 |
 | The Evacuation of Waterdeep | 0.20% | ~382 |
 | Vecna Lives! | 0.20% | ~382 |
@@ -29,50 +31,52 @@ Number of Ratings: 9,041  (23.09.2022)
 | Return to the Tomb | 0.20% | ~382 |
 | Heatwave | 0.20% | ~382 |
 | The Dread Domain of Tovag | 0.20% | ~382 |
-| A Persistent Buzzing | 0.20% | ~449 |
-| Beast Mode | 0.20% | ~449 |
-| Terror in the Dark | 0.20% | ~449 |
-| Low Initiative | 0.20% | ~449 |
-| A Mysterious Summons | 0.20% | ~449 |
-| Street War | 0.20% | ~449 |
-| Building Trust | 0.20% | ~449 |
-| Wisdom Check | 0.20% | ~449 |
-| Unearthed Evil | 0.20% | ~449 |
-| No Time To Rest | 0.20% | ~449 |
-| The Mists of Ravenloft | 0.20% | ~449 |
-| Family Entanglements | 0.20% | ~449 |
-| The Dinner Party | 0.20% | ~449 |
-| The Botched Kidnapping | 0.20% | ~449 |
-| Tower on the Lake | 0.20% | ~449 |
-| Seeds of Deceit | 0.20% | ~449 |
-| Trollskull Manor | 0.20% | ~449 |
-| Attack on the Manor | 0.20% | ~449 |
-| The Crumbling Temple | 0.20% | ~449 |
-| The Death Curse | 0.20% | ~449 |
-| Flies on the Wall | 0.20% | ~449 |
-| Backtracking Through Barovia | 0.20% | ~449 |
-| Nimble Escape | 0.20% | ~449 |
-| Useless Allies | 0.20% | ~449 |
-| Premature Betrayal | 0.20% | ~449 |
-| Hopelessly Lost | 0.20% | ~449 |
-| Mad Cow Disease | 0.20% | ~449 |
-| Exploring Port Nyanzaru | 0.20% | ~449 |
-| A Tale of Two Cities | 0.20% | ~449 |
-| The Dead Three | 0.20% | ~449 |
-| Flying Monkey Skulls of Doom | 0.20% | ~449 |
-| The Darkness Runs Deeper | 0.20% | ~449 |
-| Running of the Saurs | 0.20% | ~449 |
-| The Contagious Curse | 0.20% | ~449 |
-| Resolve Amongst Chaos | 0.20% | ~449 |
-| Escort to Waterdeep | 0.20% | ~449 |
+| A Persistent Buzzing | 0.20% | ~450 |
+| Beast Mode | 0.20% | ~450 |
+| Terror in the Dark | 0.20% | ~450 |
+| Low Initiative | 0.20% | ~450 |
+| A Mysterious Summons | 0.20% | ~450 |
+| Street War | 0.20% | ~450 |
+| Building Trust | 0.20% | ~450 |
+| Wisdom Check | 0.20% | ~450 |
+| Unearthed Evil | 0.20% | ~450 |
+| No Time To Rest | 0.20% | ~450 |
+| The Mists of Ravenloft | 0.20% | ~450 |
+| Family Entanglements | 0.20% | ~450 |
+| The Dinner Party | 0.20% | ~450 |
+| The Botched Kidnapping | 0.20% | ~450 |
+| Tower on the Lake | 0.20% | ~450 |
+| Seeds of Deceit | 0.20% | ~450 |
+| Trollskull Manor | 0.20% | ~450 |
+| Attack on the Manor | 0.20% | ~450 |
+| The Crumbling Temple | 0.20% | ~450 |
+| The Death Curse | 0.20% | ~450 |
+| Flies on the Wall | 0.20% | ~450 |
+| Backtracking Through Barovia | 0.20% | ~450 |
+| Nimble Escape | 0.20% | ~450 |
+| Useless Allies | 0.20% | ~450 |
+| Fugitives | 0.20% | ~450 |
+| Excavating History | 0.20% | ~450 |
+| Premature Betrayal | 0.20% | ~450 |
+| Hopelessly Lost | 0.20% | ~450 |
+| Mad Cow Disease | 0.20% | ~450 |
+| Exploring Port Nyanzaru | 0.20% | ~450 |
+| A Tale of Two Cities | 0.20% | ~450 |
+| The Dead Three | 0.20% | ~450 |
+| Flying Monkey Skulls of Doom | 0.20% | ~450 |
+| The Darkness Runs Deeper | 0.20% | ~450 |
+| Running of the Saurs | 0.20% | ~450 |
+| The Contagious Curse | 0.20% | ~450 |
+| Resolve Amongst Chaos | 0.20% | ~450 |
+| Escort to Waterdeep | 0.20% | ~450 |
 | The Giant's Bane Tavern | 0.20% | ~382 |
 | The Everlasting Rime | 0.20% | ~382 |
-| Waterdeep Detours | 0.20% | ~449 |
-| Underdeep Cartography | 0.20% | ~449 |
-| Friendly Imps | 0.20% | ~449 |
-| Overdue Rendezvous | 0.20% | ~449 |
-| Pure Energy | 0.20% | ~449 |
-| The Templar's Camp | 0.20% | ~449 |
+| Waterdeep Detours | 0.20% | ~450 |
+| Underdeep Cartography | 0.20% | ~450 |
+| Overdue Rendezvous | 0.20% | ~450 |
+| Moose Tracks | 0.20% | ~382 |
+| Pure Energy | 0.20% | ~450 |
+| The Templar's Camp | 0.20% | ~450 |
 | Rocky Reception | 0.20% | ~382 |
 | Rock and Roll | 0.20% | ~382 |
 | Flight of the Kindori Pod | 0.20% | ~382 |
@@ -90,7 +94,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Monarch Among Us | 0.10% | ~191 |
 | A Dragon Against Us | 0.10% | ~191 |
 | A Familiar Behind Us | 0.10% | ~191 |
-| Thieves of the Coven | 0.10% | ~191 |
 | Sticky Fingers | 0.10% | ~191 |
 | Patron Party | 0.10% | ~191 |
 | Go Fourth | 0.10% | ~191 |
@@ -271,11 +274,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Nimblest Escape | 0.10% | ~225 |
 | Stumbling Escape | 0.10% | ~225 |
 | Distracted Escape | 0.10% | ~191 |
-| Fugitives | 0.10% | ~225 |
 | From The Shadows | 0.10% | ~225 |
 | Spined Nuisances | 0.10% | ~225 |
 | Twilight Twist | 0.10% | ~191 |
-| Excavating History | 0.10% | ~225 |
 | Screams of the Dead | 0.10% | ~225 |
 | Frantic Excavation | 0.10% | ~225 |
 | Birds of a Feather | 0.10% | ~191 |
@@ -419,7 +420,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lost in the Deep | 0.10% | ~225 |
 | Easily Distracted | 0.10% | ~225 |
 | Rude Welcome | 0.10% | ~225 |
-| Moose Tracks | 0.10% | ~191 |
 | An Awakened Axe | 0.10% | ~191 |
 | CONtagious Cold | 0.10% | ~191 |
 | Ten in Ten-Towns | 0.10% | ~191 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~191 |
 | Animated Giff | 0.10% | ~191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,744 (Ranked 53)  
+Progressed: 224,753 (Ranked 53)  
 Completed: 2,212 (0.98%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -650,7 +650,7 @@ Completed: 2,212 (0.98%) (Ranked 122)
 | 2023-08-22 | 224,213 | 2,207 |
 | 2023-08-23 | 224,434 | 2,210 |
 | 2023-08-24 | 224,686 | 2,211 |
-| 2023-08-25 | 224,744 | 2,212 |
+| 2023-08-25 | 224,753 | 2,212 |
 ## Awards
 Max (Diverse Characters): 5,182  (Ranked 68)  
 Sum: 31,201 (Ranked 39)  

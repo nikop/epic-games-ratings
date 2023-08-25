@@ -598,9 +598,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 465941,
+  "EOS_Progressed": 465942,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 458,
+  "EOS_NewPlayers": 452,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13838,6 +13838,11 @@
       "Time": "2023-08-25T05:07:08.7885163+00:00",
       "NumProgressed": 465941,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-08-25T06:07:46.0025064+00:00",
+      "NumProgressed": 465942,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 79,
@@ -13905,7 +13910,7 @@
       "Name": "Chapter V: Memories of None",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 27956
+      "UsersEstimate": 27957
     },
     {
       "ID": "achievement_story_ending_earth",
@@ -13937,7 +13942,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 307521
+      "UsersEstimate": 307522
     },
     {
       "ID": "achievement_story_landa",
@@ -13969,7 +13974,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 116485
+      "UsersEstimate": 116486
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -13977,7 +13982,7 @@
       "Name": "Meet your maker",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 27956
+      "UsersEstimate": 27957
     },
     {
       "ID": "achievement_story_meet_okonkwo",
@@ -14057,7 +14062,7 @@
       "Name": "The Impersonator",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 27956
+      "UsersEstimate": 27957
     },
     {
       "ID": "achievement_unlock_officer_as_2",
@@ -14065,7 +14070,7 @@
       "Name": "The Kid",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 27956
+      "UsersEstimate": 27957
     },
     {
       "ID": "achievement_unlock_officer_church_1",
@@ -14073,7 +14078,7 @@
       "Name": "The Evangelist",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 27956
+      "UsersEstimate": 27957
     },
     {
       "ID": "achievement_unlock_officer_church_2",
@@ -14081,7 +14086,7 @@
       "Name": "The Inquisitor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 27956
+      "UsersEstimate": 27957
     },
     {
       "ID": "achievement_unlock_officer_empire_1",
@@ -14097,7 +14102,7 @@
       "Name": "The Ace Pilot",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 27956
+      "UsersEstimate": 27957
     },
     {
       "ID": "achievement_unlock_officer_kb_1",
@@ -14105,7 +14110,7 @@
       "Name": "The Tech Med",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 27956
+      "UsersEstimate": 27957
     },
     {
       "ID": "achievement_unlock_officer_kb_2",
@@ -14113,7 +14118,7 @@
       "Name": "The Mech Soldier",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 27956
+      "UsersEstimate": 27957
     },
     {
       "ID": "achievement_unlock_officer_kickstarter_1",
@@ -14121,7 +14126,7 @@
       "Name": "The lucky charm",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 27956
+      "UsersEstimate": 27957
     },
     {
       "ID": "achievement_unlock_officer_pirate_1",
@@ -14129,7 +14134,7 @@
       "Name": "The Anonymous",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 27956
+      "UsersEstimate": 27957
     },
     {
       "ID": "achievement_unlock_officer_pirate_2",
@@ -14137,7 +14142,7 @@
       "Name": "The Smuggler",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 27956
+      "UsersEstimate": 27957
     },
     {
       "ID": "achievement_unlock_officer_scrapper_1",
@@ -14145,7 +14150,7 @@
       "Name": "The Crazy Repairman",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 27956
+      "UsersEstimate": 27957
     },
     {
       "ID": "achievement_unlock_officer_scrapper_2",
@@ -14153,7 +14158,7 @@
       "Name": "The Weasel",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 27956
+      "UsersEstimate": 27957
     },
     {
       "ID": "achievement_win_all_chapers_with_all_bs_easy_normal",
@@ -14281,7 +14286,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 139782
+      "UsersEstimate": 139783
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -14480,21 +14485,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 9875,
+      "Progressed": 9876,
       "Completed": 2355
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 465941,
+      "Progressed": 465942,
       "Completed": 17
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-08-24T02:57:03.8465673+00:00",
-  "LastChanged_Achievements": "2023-08-25T05:07:08.7885155+00:00",
+  "LastChanged_Achievements": "2023-08-25T06:07:46.0025057+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:50.0833763+00:00",
-  "LastUpdate_Ratings": "2023-08-25T04:57:38.4731825+00:00",
-  "LastUpdate_Achievements": "2023-08-25T05:07:08.7886928+00:00"
+  "LastUpdate_Ratings": "2023-08-25T05:57:29.3906866+00:00",
+  "LastUpdate_Achievements": "2023-08-25T06:07:46.0026794+00:00"
 }

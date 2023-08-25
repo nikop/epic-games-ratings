@@ -467,9 +467,9 @@
       "ID": "ACHIEVEMENT_07",
       "SetID": "ap8553i",
       "Name": "Slither into Oblivion",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -515,9 +515,9 @@
       "ID": "ACHIEVEMENT_13",
       "SetID": "ap8553i",
       "Name": "Master of Unlocking",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -531,9 +531,9 @@
       "ID": "ACHIEVEMENT_15",
       "SetID": "ap8553i",
       "Name": "My Best Friend",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -739,9 +739,9 @@
       "ID": "ACHIEVEMENT_41",
       "SetID": "ap8553i",
       "Name": "Entry Level Electrician",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -1000,8 +1000,8 @@
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-08-25T05:06:08.2875254+00:00",
+  "LastChanged_Achievements": "2023-08-25T06:06:36.1880141+00:00",
   "LastUpdate_AppInfo": "2023-08-23T17:57:10.3780808+00:00",
-  "LastUpdate_Ratings": "2023-08-25T04:59:20.0405554+00:00",
-  "LastUpdate_Achievements": "2023-08-25T05:06:08.2876243+00:00"
+  "LastUpdate_Ratings": "2023-08-25T05:59:16.6237778+00:00",
+  "LastUpdate_Achievements": "2023-08-25T06:06:36.1881153+00:00"
 }

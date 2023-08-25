@@ -324,9 +324,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 66771,
+  "EOS_Progressed": 66773,
   "EOS_Completed": 348,
-  "EOS_NewPlayers": 855,
+  "EOS_NewPlayers": 856,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -14039,6 +14039,11 @@
       "Time": "2023-08-25T04:06:27.433745+00:00",
       "NumProgressed": 66771,
       "NumCompleted": 348
+    },
+    {
+      "Time": "2023-08-25T06:06:35.8749157+00:00",
+      "NumProgressed": 66773,
+      "NumCompleted": 348
     }
   ],
   "TotalAchievements": 24,
@@ -14066,7 +14071,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 45404
+      "UsersEstimate": 45406
     },
     {
       "ID": "BEST_FRIENDS",
@@ -14082,7 +14087,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 17360
+      "UsersEstimate": 17361
     },
     {
       "ID": "ERADICATE",
@@ -14098,7 +14103,7 @@
       "Name": "FETCH",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 18028
+      "UsersEstimate": 18029
     },
     {
       "ID": "FOXIN_AROUND",
@@ -14130,7 +14135,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 35389
+      "UsersEstimate": 35390
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -14170,7 +14175,7 @@
       "Name": "OLD COMPANION",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6009
+      "UsersEstimate": 6010
     },
     {
       "ID": "PLAGUE_DOCTOR",
@@ -14210,7 +14215,7 @@
       "Name": "SPIRIT FORM",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 10683
+      "UsersEstimate": 10684
     },
     {
       "ID": "UPROOTING_DARKNESS",
@@ -14241,7 +14246,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 66771,
+      "Progressed": 66773,
       "Completed": 348
     }
   ],
@@ -14249,8 +14254,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-08-25T05:06:07.9379333+00:00",
+  "LastChanged_Achievements": "2023-08-25T06:06:35.8749147+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:00:00.2454686+00:00",
-  "LastUpdate_Ratings": "2023-08-25T04:57:58.3586221+00:00",
-  "LastUpdate_Achievements": "2023-08-25T05:06:07.9380269+00:00"
+  "LastUpdate_Ratings": "2023-08-25T05:57:46.9364798+00:00",
+  "LastUpdate_Achievements": "2023-08-25T06:06:35.8750241+00:00"
 }

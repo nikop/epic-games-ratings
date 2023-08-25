@@ -2522,9 +2522,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 68018,
+  "EOS_Progressed": 68019,
   "EOS_Completed": 109,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -13137,6 +13137,11 @@
       "Time": "2023-08-25T01:49:52.6354107+00:00",
       "NumProgressed": 68018,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2023-08-25T06:08:35.3378774+00:00",
+      "NumProgressed": 68019,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 61,
@@ -13388,7 +13393,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 12923
+      "UsersEstimate": 12924
     },
     {
       "ID": "FREEZE_3",
@@ -13452,7 +13457,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 23806
+      "UsersEstimate": 23807
     },
     {
       "ID": "HARLEY_2",
@@ -13460,7 +13465,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 17004
+      "UsersEstimate": 17005
     },
     {
       "ID": "HARLEY_3",
@@ -13492,7 +13497,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 34009
+      "UsersEstimate": 34010
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -13548,7 +13553,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 17004
+      "UsersEstimate": 17005
     },
     {
       "ID": "MYSTERY_03",
@@ -13635,13 +13640,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 68018,
+      "Progressed": 68019,
       "Completed": 109
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38298,
+      "Progressed": 38299,
       "Completed": 2659
     }
   ],
@@ -13649,8 +13654,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-08-25T03:58:20.3909572+00:00",
-  "LastChanged_Achievements": "2023-08-25T05:07:49.0938406+00:00",
+  "LastChanged_Achievements": "2023-08-25T06:08:35.3378767+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:36.1459925+00:00",
-  "LastUpdate_Ratings": "2023-08-25T04:58:27.6339544+00:00",
-  "LastUpdate_Achievements": "2023-08-25T05:07:49.0939629+00:00"
+  "LastUpdate_Ratings": "2023-08-25T05:58:21.6785199+00:00",
+  "LastUpdate_Achievements": "2023-08-25T06:08:35.3380111+00:00"
 }

@@ -5,21 +5,21 @@ Rating: 4.27 (Ranked 814)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~156,167 |
-| Copacetic Coordination | 16.00% | ~54,319 |
-| Fronting the Money | 15.00% | ~50,924 |
-| The Dawn of Automation | 14.00% | ~47,529 |
-| Extraordinary Logistics | 14.00% | ~47,529 |
-| Dirty Money | 13.00% | ~44,134 |
-| Family First | 13.00% | ~44,134 |
-| Cleaning House | 12.00% | ~40,739 |
-| Room in the Back | 12.00% | ~40,739 |
-| Beating the Heat | 11.00% | ~37,344 |
-| Booze Baron | 11.00% | ~37,344 |
-| Friends on the Force | 10.00% | ~33,949 |
-| Neighborhood Watch | 10.00% | ~33,949 |
-| Core Corps | 8.00% | ~27,159 |
-| Sizeable Stash | 8.00% | ~27,159 |
+| Corner Clout | 46.00% | ~156,170 |
+| Copacetic Coordination | 16.00% | ~54,320 |
+| Fronting the Money | 15.00% | ~50,925 |
+| The Dawn of Automation | 14.00% | ~47,530 |
+| Extraordinary Logistics | 14.00% | ~47,530 |
+| Dirty Money | 13.00% | ~44,135 |
+| Family First | 13.00% | ~44,135 |
+| Cleaning House | 12.00% | ~40,740 |
+| Room in the Back | 12.00% | ~40,740 |
+| Beating the Heat | 11.00% | ~37,345 |
+| Booze Baron | 11.00% | ~37,345 |
+| Friends on the Force | 10.00% | ~33,950 |
+| Neighborhood Watch | 10.00% | ~33,950 |
+| Core Corps | 8.00% | ~27,160 |
+| Sizeable Stash | 8.00% | ~27,160 |
 | Street Fighter | 7.00% | ~23,765 |
 | Friendly Gestures | 7.00% | ~23,765 |
 | People Person | 7.00% | ~23,765 |
@@ -59,12 +59,12 @@ Rating: 4.27 (Ranked 814)
 | Full House | 1.00% | ~3,395 |
 | The Rubber Meets the Road | 1.00% | ~3,395 |
 | Cat’s Meow Clubs | 1.00% | ~3,395 |
-| Determined Deliveries | 0.90% | ~3,055 |
-| Stepping It Up | 0.90% | ~3,055 |
+| Determined Deliveries | 0.90% | ~3,056 |
+| Stepping It Up | 0.90% | ~3,056 |
 | Boots in the Ground | 0.80% | ~2,716 |
 | Crossing Over | 0.80% | ~2,716 |
 | Getting Fancy | 0.70% | ~2,376 |
-| Social Butterfly | 0.50% | ~1,697 |
+| Social Butterfly | 0.50% | ~1,698 |
 | Homemade Hooch | 0.40% | ~1,358 |
 | Still Dreaming | 0.40% | ~1,358 |
 | High End Booze | 0.40% | ~1,358 |
@@ -74,19 +74,19 @@ Rating: 4.27 (Ranked 814)
 | Streetwise | 0.30% | ~1,018 |
 | Dirty Work | 0.20% | ~679 |
 | Balkan Firewater | 0.20% | ~679 |
-| Windy City Win | 0.10% | ~339 |
-| Steeling Victory | 0.10% | ~339 |
-| Queen of the City | 0.10% | ~339 |
-| Vehicles to Victory | 0.10% | ~339 |
-| Putting on the Ritz | 0.10% | ~339 |
-| Bourbon Barrels | 0.10% | ~339 |
-| Tied Houses | 0.10% | ~339 |
-| Laying Low | 0.10% | ~339 |
-| No Applesauce | 0.10% | ~339 |
-| High Pillow | 0.10% | ~339 |
-| Station Master | 0.10% | ~339 |
+| Windy City Win | 0.10% | ~340 |
+| Steeling Victory | 0.10% | ~340 |
+| Queen of the City | 0.10% | ~340 |
+| Vehicles to Victory | 0.10% | ~340 |
+| Putting on the Ritz | 0.10% | ~340 |
+| Bourbon Barrels | 0.10% | ~340 |
+| Tied Houses | 0.10% | ~340 |
+| Laying Low | 0.10% | ~340 |
+| No Applesauce | 0.10% | ~340 |
+| High Pillow | 0.10% | ~340 |
+| Station Master | 0.10% | ~340 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 339,493 (Ranked 42)  
+Progressed: 339,500 (Ranked 42)  
 Completed: 7 (0.00%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 7 (0.00%) (Ranked 263)
 | 2023-08-22 | 339,063 | 7 |
 | 2023-08-23 | 339,257 | 7 |
 | 2023-08-24 | 339,443 | 7 |
-| 2023-08-25 | 339,493 | 7 |
+| 2023-08-25 | 339,500 | 7 |
 ## Awards
 Max (Great for Beginners): 33  (Ranked 449)  
 Sum: 162 (Ranked 391)  

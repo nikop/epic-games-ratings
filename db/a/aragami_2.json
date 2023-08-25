@@ -230,9 +230,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 41428,
+  "EOS_Progressed": 41429,
   "EOS_Completed": 210,
-  "EOS_NewPlayers": 503,
+  "EOS_NewPlayers": 497,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -12975,6 +12975,11 @@
       "Time": "2023-08-25T05:07:16.0952154+00:00",
       "NumProgressed": 41428,
       "NumCompleted": 210
+    },
+    {
+      "Time": "2023-08-25T06:07:54.1620886+00:00",
+      "NumProgressed": 41429,
+      "NumCompleted": 210
     }
   ],
   "TotalAchievements": 44,
@@ -12986,7 +12991,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 23614
+      "UsersEstimate": 23615
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -13106,7 +13111,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 33142
+      "UsersEstimate": 33143
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -13146,7 +13151,7 @@
       "Name": "Look Behind You",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 6628
+      "UsersEstimate": 6629
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -13170,7 +13175,7 @@
       "Name": "Sleeping on the Job",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 6628
+      "UsersEstimate": 6629
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -13178,7 +13183,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 15328
+      "UsersEstimate": 15329
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -13210,7 +13215,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 22785
+      "UsersEstimate": 22786
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -13322,7 +13327,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 38528
+      "UsersEstimate": 38529
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -13337,7 +13342,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 41428,
+      "Progressed": 41429,
       "Completed": 210
     }
   ],
@@ -13345,8 +13350,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-08-24T04:01:03.0221648+00:00",
-  "LastChanged_Achievements": "2023-08-25T05:07:16.0952142+00:00",
+  "LastChanged_Achievements": "2023-08-25T06:07:54.1620879+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:33.5311215+00:00",
-  "LastUpdate_Ratings": "2023-08-25T05:01:37.7811237+00:00",
-  "LastUpdate_Achievements": "2023-08-25T05:07:16.0953191+00:00"
+  "LastUpdate_Ratings": "2023-08-25T06:01:54.7005806+00:00",
+  "LastUpdate_Achievements": "2023-08-25T06:07:54.162197+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "46c8eccba1224195bdd112048075cc37",
   "Name": "One More Dungeon 2",
   "ProductSlug": "one-more-dungeon-2-532228",
-  "Ranking_EOS_Progress": 317,
+  "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 130,
   "Ranking_EOS_NewPlayers": 302,
   "Ranking_EOS_NewCompleters": 103,
@@ -655,17 +655,17 @@
       "ID": "AllSkills",
       "SetID": "7g1kpc8",
       "Name": "Ready for Battle",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "AllTogether",
       "SetID": "7g1kpc8",
       "Name": "All Together",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 70,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "ChangeClass",
@@ -703,9 +703,9 @@
       "ID": "FinalBoss",
       "SetID": "7g1kpc8",
       "Name": "Creature",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "FirstBlood",
@@ -735,9 +735,9 @@
       "ID": "FourthBoss",
       "SetID": "7g1kpc8",
       "Name": "Ifrit",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "KingBeatleHunter",
@@ -807,9 +807,9 @@
       "ID": "ThirdBoss",
       "SetID": "7g1kpc8",
       "Name": "Flower",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 70,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     }
   ],
   "AchievementSets": [
@@ -822,8 +822,8 @@
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-08-25T05:07:41.9913733+00:00",
+  "LastChanged_Achievements": "2023-08-25T06:08:24.0269084+00:00",
   "LastUpdate_AppInfo": "2023-08-21T10:58:06.4891422+00:00",
-  "LastUpdate_Ratings": "2023-08-25T05:00:08.8331629+00:00",
-  "LastUpdate_Achievements": "2023-08-25T05:07:41.9913934+00:00"
+  "LastUpdate_Ratings": "2023-08-25T06:00:11.70355+00:00",
+  "LastUpdate_Achievements": "2023-08-25T06:08:24.0269311+00:00"
 }

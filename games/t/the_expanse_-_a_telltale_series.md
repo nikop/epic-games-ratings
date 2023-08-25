@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stogie for Fogey | 18.00% | ~1,613 |
-| Doctor Approved | 17.00% | ~1,523 |
+| Doctor Approved | 17.00% | ~1,524 |
 | Captain Drummer | 16.00% | ~1,434 |
 | Spore Taste | 13.00% | ~1,165 |
 | Martian Music | 13.00% | ~1,165 |
@@ -18,7 +18,7 @@
 | Urshanabi Hoarder | 1.00% | ~90 |
 | Data Recoverer | 1.00% | ~90 |
 | Debris Spree | 0.80% | ~72 |
-| Grave Robber | 0.30% | ~27 |
+| Grave Robber | 0.40% | ~36 |
 | The Pit and the Pirates | 0.10% | ~9 |
 | Data Archivist | 0.10% | ~9 |
 | Miraculous Maya | 0.10% | ~9 |
@@ -35,7 +35,7 @@
 | Scavenger Star | 0.00% | ~0 |
 | Data Collector | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,961 (Ranked 129)  
+Progressed: 8,963 (Ranked 129)  
 Completed: 0 (0.00%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,4 +69,4 @@ Completed: 0 (0.00%) (Ranked 263)
 | 2023-08-22 | 8,787 | 0 |
 | 2023-08-23 | 8,820 | 0 |
 | 2023-08-24 | 8,909 | 0 |
-| 2023-08-25 | 8,961 | 0 |
+| 2023-08-25 | 8,963 | 0 |

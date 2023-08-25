@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 134,
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 36,
+  "Ranking_EOS_NewPlayers": 35,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
@@ -1459,9 +1459,9 @@
       "Count": 247
     }
   ],
-  "EOS_Progressed": 197232,
+  "EOS_Progressed": 197241,
   "EOS_Completed": 72,
-  "EOS_NewPlayers": 2334,
+  "EOS_NewPlayers": 2329,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -15534,6 +15534,11 @@
       "Time": "2023-08-25T05:05:03.5770531+00:00",
       "NumProgressed": 197232,
       "NumCompleted": 72
+    },
+    {
+      "Time": "2023-08-25T06:05:21.6792059+00:00",
+      "NumProgressed": 197241,
+      "NumCompleted": 72
     }
   ],
   "TotalAchievements": 44,
@@ -15545,7 +15550,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 17751
+      "UsersEstimate": 17752
     },
     {
       "ID": "AtheistOx",
@@ -15609,7 +15614,7 @@
       "Name": "Gear up",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7889
+      "UsersEstimate": 7890
     },
     {
       "ID": "Genin",
@@ -15617,7 +15622,7 @@
       "Name": "Genin",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 21696
+      "UsersEstimate": 21697
     },
     {
       "ID": "HappyLittleAccidents",
@@ -15625,7 +15630,7 @@
       "Name": "Happy little accidents",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7889
+      "UsersEstimate": 7890
     },
     {
       "ID": "HappyPlanning",
@@ -15665,7 +15670,7 @@
       "Name": "Jonin",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 13806
+      "UsersEstimate": 13807
     },
     {
       "ID": "Mercyful",
@@ -15745,7 +15750,7 @@
       "Name": "Prisoners",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7889
+      "UsersEstimate": 7890
     },
     {
       "ID": "ReleaseTheKraken",
@@ -15761,7 +15766,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 13806
+      "UsersEstimate": 13807
     },
     {
       "ID": "Rollin",
@@ -15777,7 +15782,7 @@
       "Name": "Still Rollin\u0027",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7889
+      "UsersEstimate": 7890
     },
     {
       "ID": "Stoned",
@@ -15793,7 +15798,7 @@
       "Name": "Stoned Ox",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 13806
+      "UsersEstimate": 13807
     },
     {
       "ID": "TanukiTime",
@@ -15833,7 +15838,7 @@
       "Name": "Thorough",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 19723
+      "UsersEstimate": 19724
     },
     {
       "ID": "TimeParadox",
@@ -15896,15 +15901,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 197232,
+      "Progressed": 197241,
       "Completed": 72
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-08-23T18:57:11.3929181+00:00",
-  "LastChanged_Achievements": "2023-08-25T05:05:03.5770524+00:00",
+  "LastChanged_Achievements": "2023-08-25T06:05:21.6792052+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:40.2855763+00:00",
-  "LastUpdate_Ratings": "2023-08-25T04:57:45.8955209+00:00",
-  "LastUpdate_Achievements": "2023-08-25T05:05:03.5771758+00:00"
+  "LastUpdate_Ratings": "2023-08-25T05:57:34.4114563+00:00",
+  "LastUpdate_Achievements": "2023-08-25T06:05:21.6793337+00:00"
 }

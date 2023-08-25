@@ -6,26 +6,26 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 69.00% | ~602,031 |
-| Right Back At Ya | 39.00% | ~340,279 |
-| The Lovers | 35.00% | ~305,378 |
+| The Fool | 69.00% | ~602,033 |
+| Right Back At Ya | 39.00% | ~340,280 |
+| The Lovers | 35.00% | ~305,379 |
 | Stanislavski's Method | 29.00% | ~253,028 |
-| The Wheel of Fortune | 27.00% | ~235,577 |
-| The Hermit | 25.00% | ~218,127 |
-| Christmas Tree Attack | 23.00% | ~200,677 |
-| True Soldier | 23.00% | ~200,677 |
-| The High Priestess | 22.00% | ~191,952 |
-| Legend of The Afterlife | 22.00% | ~191,952 |
-| Life of the Road | 21.00% | ~183,227 |
+| The Wheel of Fortune | 27.00% | ~235,578 |
+| The Hermit | 25.00% | ~218,128 |
+| Christmas Tree Attack | 23.00% | ~200,678 |
+| True Soldier | 23.00% | ~200,678 |
+| The High Priestess | 22.00% | ~191,953 |
+| Legend of The Afterlife | 22.00% | ~191,953 |
+| Life of the Road | 21.00% | ~183,228 |
 | Full Body Conversion | 18.00% | ~157,052 |
 | The World | 18.00% | ~157,052 |
 | Bushido and Chill | 17.00% | ~148,327 |
-| Gun Fu | 15.00% | ~130,876 |
-| True Warrior | 15.00% | ~130,876 |
-| To Protect and Serve | 14.00% | ~122,151 |
-| I Am The Law | 14.00% | ~122,151 |
-| Judy vs Night City | 14.00% | ~122,151 |
-| Master Crafter | 13.00% | ~113,426 |
+| Gun Fu | 15.00% | ~130,877 |
+| True Warrior | 15.00% | ~130,877 |
+| To Protect and Serve | 14.00% | ~122,152 |
+| I Am The Law | 14.00% | ~122,152 |
+| Judy vs Night City | 14.00% | ~122,152 |
+| Master Crafter | 13.00% | ~113,427 |
 | Two Heads, One Bullet | 12.00% | ~104,701 |
 | The Quick and the Dead | 10.00% | ~87,251 |
 | The Wandering Fool | 9.00% | ~78,526 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,725 |
 | Rough Landing | 0.50% | ~4,363 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 872,509 (Ranked 14)  
+Progressed: 872,512 (Ranked 14)  
 Completed: 2,017 (0.23%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,10 +178,10 @@ Completed: 2,017 (0.23%) (Ranked 182)
 | 2023-08-22 | 872,099 | 2,002 |
 | 2023-08-23 | 872,280 | 2,005 |
 | 2023-08-24 | 872,479 | 2,017 |
-| 2023-08-25 | 872,509 | 2,017 |
+| 2023-08-25 | 872,512 | 2,017 |
 ## Awards
 Max (Character Customization): 76,195  (Ranked 9)  
-Sum: 201,839 (Ranked 13)  
+Sum: 201,857 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -190,8 +190,8 @@ Diff (max vs sum): -4
 | This game is Great for Beginners | 8,993 |
 | This game has Diverse Characters | 8,992 |
 | This game has Amazing Storytelling | 8,973 |
+| This game is Extremely Fun | 8,832 |
 | This game is Highly Recommended | 8,821 |
-| This game is Extremely Fun | 8,814 |
 | This game is Relaxing | 8,742 |
 | This game has Amazing Characters | 8,655 |
 | This game has Quickly Understood Controls | 8,644 |
@@ -417,4 +417,4 @@ Diff (max vs sum): -4
 | 2023-08-22 | 4.62 | - | 76,027 | 201,294 |
 | 2023-08-23 | 4.62 | - | 76,110 | 201,530 |
 | 2023-08-24 | 4.62 | - | 76,195 | 201,808 |
-| 2023-08-25 | 4.62 | - | 76,195 | 201,839 |
+| 2023-08-25 | 4.62 | - | 76,195 | 201,857 |

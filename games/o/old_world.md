@@ -139,6 +139,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 4 | 0.40% | ~54 |
 | Egypt | 0.40% | ~54 |
 | Rome | 0.40% | ~54 |
+| Old World Order | 0.40% | ~54 |
 | Hittite Paganism | 0.40% | ~54 |
 | Cataphract Archer | 0.40% | ~54 |
 | All Nations | 0.40% | ~54 |
@@ -146,7 +147,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ancient | 0.30% | ~41 |
 | Glorious Difficulty | 0.30% | ~41 |
 | Persia | 0.30% | ~41 |
-| Old World Order | 0.30% | ~41 |
 | Pantheon of Gods | 0.30% | ~41 |
 | Play a Network Game | 0.30% | ~41 |
 | Capturing Cities | 0.30% | ~41 |
