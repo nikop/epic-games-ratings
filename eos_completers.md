@@ -15,7 +15,7 @@
 | 13 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 13 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 15 | [Island Cities](games/i/island_cities.md) | 18.53% |
-| 16 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 18.46% |
+| 16 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 18.32% |
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
 | 18 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.55% |
 | 19 | [Anna's Quest](games/a/anna's_quest.md) | 13.51% |
@@ -89,7 +89,7 @@
 | 87 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 88 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.42% |
 | 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.27% |
-| 89 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.27% |
+| 90 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.26% |
 | 91 | [Bloodshore](games/b/bloodshore.md) | 2.21% |
 | 92 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
 | 93 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.01% |
@@ -133,11 +133,11 @@
 | 131 | [Lemon Cake](games/l/lemon_cake.md) | 0.70% |
 | 132 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.69% |
 | 133 | [Haven](games/h/haven.md) | 0.64% |
-| 134 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
 | 134 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.62% |
 | 134 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.62% |
 | 134 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.62% |
 | 134 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.62% |
+| 138 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
 | 139 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.60% |
 | 140 | [Potion Permit](games/p/potion_permit.md) | 0.58% |
 | 141 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.57% |
@@ -169,15 +169,15 @@
 | 167 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.34% |
 | 168 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.33% |
 | 168 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.33% |
-| 170 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
-| 170 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
-| 172 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
-| 172 | [The First Tree](games/t/the_first_tree.md) | 0.30% |
-| 174 | [Against the Storm](games/a/against_the_storm.md) | 0.29% |
-| 175 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
-| 175 | [Scrapnaut](games/s/scrapnaut.md) | 0.28% |
-| 175 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.28% |
-| 175 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.28% |
+| 168 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.33% |
+| 171 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
+| 171 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
+| 173 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
+| 173 | [The First Tree](games/t/the_first_tree.md) | 0.30% |
+| 175 | [Against the Storm](games/a/against_the_storm.md) | 0.29% |
+| 176 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
+| 176 | [Scrapnaut](games/s/scrapnaut.md) | 0.28% |
+| 176 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.28% |
 | 179 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.26% |
 | 180 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
 | 181 | [Despot's Game](games/d/despot's_game.md) | 0.24% |
