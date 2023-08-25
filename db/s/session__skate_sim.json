@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 311,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -880,9 +880,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2750,
+  "EOS_Progressed": 2751,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4120,6 +4120,11 @@
       "Time": "2023-08-25T00:06:28.5544186+00:00",
       "NumProgressed": 2750,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-25T02:20:44.9027895+00:00",
+      "NumProgressed": 2751,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4267,7 +4272,7 @@
       "Name": "Hoarder",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_KEEP-THE-DREAM-ALIVE",
@@ -4283,7 +4288,7 @@
       "Name": "Keeping it classy",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -4339,7 +4344,7 @@
       "Name": "Pew-Pew",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_PLASTIC-SURGEON",
@@ -4507,22 +4512,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 1622
+      "UsersEstimate": 1623
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2750,
+      "Progressed": 2751,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-08-12T21:02:33.3554881+00:00",
-  "LastChanged_Achievements": "2023-08-25T01:47:05.0705136+00:00",
+  "LastChanged_Achievements": "2023-08-25T02:20:44.9027886+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:39.161743+00:00",
-  "LastUpdate_Ratings": "2023-08-25T01:38:02.366487+00:00",
-  "LastUpdate_Achievements": "2023-08-25T01:47:05.0705765+00:00"
+  "LastUpdate_Ratings": "2023-08-25T02:12:16.8901398+00:00",
+  "LastUpdate_Achievements": "2023-08-25T02:20:44.902854+00:00"
 }

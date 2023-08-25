@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1078,
+  "EOS_Progressed": 1079,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3771,6 +3771,11 @@
       "Time": "2023-08-25T01:45:51.4436022+00:00",
       "NumProgressed": 1078,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-25T02:19:41.7488292+00:00",
+      "NumProgressed": 1079,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -3790,7 +3795,7 @@
       "Name": "Exterminator",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ach_defeat_players_10",
@@ -3894,7 +3899,7 @@
       "Name": "Corporal",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -3918,7 +3923,7 @@
       "Name": "Captain",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -4030,7 +4035,7 @@
       "Name": "Factory Expansion",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -4085,14 +4090,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1078,
+      "Progressed": 1079,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-25T01:45:51.4435762+00:00",
+  "LastChanged_Achievements": "2023-08-25T02:19:41.7488285+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:20.8459338+00:00",
-  "LastUpdate_Ratings": "2023-08-25T01:40:36.617444+00:00",
-  "LastUpdate_Achievements": "2023-08-25T01:45:51.4436862+00:00"
+  "LastUpdate_Ratings": "2023-08-25T02:14:21.9073612+00:00",
+  "LastUpdate_Achievements": "2023-08-25T02:19:41.7488779+00:00"
 }

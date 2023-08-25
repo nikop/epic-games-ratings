@@ -3376,10 +3376,10 @@
       "Count": 756
     }
   ],
-  "EOS_Progressed": 1606159,
+  "EOS_Progressed": 1606215,
   "EOS_Completed": 525,
-  "EOS_NewPlayers": 25740,
-  "EOS_NewCompleters": 17,
+  "EOS_NewPlayers": 25704,
+  "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
     {
@@ -12306,6 +12306,11 @@
       "Time": "2023-08-25T01:48:46.7319542+00:00",
       "NumProgressed": 1606159,
       "NumCompleted": 525
+    },
+    {
+      "Time": "2023-08-25T02:22:12.200767+00:00",
+      "NumProgressed": 1606215,
+      "NumCompleted": 525
     }
   ],
   "TotalAchievements": 1328,
@@ -12373,7 +12378,7 @@
       "Name": "The Collector",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 12849
+      "UsersEstimate": 12850
     },
     {
       "ID": "armed_and_dangerous",
@@ -12389,7 +12394,7 @@
       "Name": "Would You Like Your Receipt?",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 14455
+      "UsersEstimate": 14456
     },
     {
       "ID": "armored_1",
@@ -13517,7 +13522,7 @@
       "Name": "I Want to Get Away",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 32123
+      "UsersEstimate": 32124
     },
     {
       "ID": "brooklyn_2",
@@ -16861,7 +16866,7 @@
       "Name": "Disco Inferno",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 4818
+      "UsersEstimate": 4819
     },
     {
       "ID": "grill_2",
@@ -17901,7 +17906,7 @@
       "Name": "I Got It, I Got It!",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 4818
+      "UsersEstimate": 4819
     },
     {
       "ID": "nbm_1",
@@ -20461,7 +20466,7 @@
       "Name": "Taking the Bars",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 4818
+      "UsersEstimate": 4819
     },
     {
       "ID": "trk_bg_1",
@@ -22445,7 +22450,7 @@
       "Name": "Precious Delicious",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 4818
+      "UsersEstimate": 4819
     },
     {
       "ID": "trk_uj_1",
@@ -22605,7 +22610,7 @@
       "Name": "A Good Haul",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 4818
+      "UsersEstimate": 4819
     },
     {
       "ID": "uno_2",
@@ -22821,7 +22826,7 @@
       "Name": "Armed to the Teeth",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 14455
+      "UsersEstimate": 14456
     },
     {
       "ID": "wwh_1",
@@ -22940,13 +22945,13 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1606159,
+      "Progressed": 1606215,
       "Completed": 525
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1606159,
+      "Progressed": 1606215,
       "Completed": 31
     }
   ],
@@ -22954,8 +22959,8 @@
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
   "LastChanged": "2023-08-24T23:00:35.4119837+00:00",
-  "LastChanged_Achievements": "2023-08-25T01:48:46.7319534+00:00",
+  "LastChanged_Achievements": "2023-08-25T02:22:12.2007662+00:00",
   "LastUpdate_AppInfo": "2023-08-24T21:57:13.1571019+00:00",
-  "LastUpdate_Ratings": "2023-08-25T01:41:33.5892945+00:00",
-  "LastUpdate_Achievements": "2023-08-25T01:48:46.7483846+00:00"
+  "LastUpdate_Ratings": "2023-08-25T02:15:09.8178377+00:00",
+  "LastUpdate_Achievements": "2023-08-25T02:22:12.2169213+00:00"
 }

@@ -317,9 +317,9 @@
       "ID": "BoxingClever",
       "SetID": "3ai6ml8",
       "Name": "Boxing Clever",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 104
+      "UsersEstimate": 102
     },
     {
       "ID": "Cartographer",
@@ -357,9 +357,9 @@
       "ID": "DrinkingOnTheJob",
       "SetID": "3ai6ml8",
       "Name": "Drinking on the Job",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 104
+      "UsersEstimate": 102
     },
     {
       "ID": "DustDancing",
@@ -381,9 +381,9 @@
       "ID": "LightsOut",
       "SetID": "3ai6ml8",
       "Name": "Lights Out",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 86
+      "UsersEstimate": 84
     },
     {
       "ID": "MiCasaSuCasa",
@@ -405,9 +405,9 @@
       "ID": "Outpatient",
       "SetID": "3ai6ml8",
       "Name": "Outpatient",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 107
+      "UsersEstimate": 109
     },
     {
       "ID": "Relic",
@@ -468,8 +468,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-08-25T01:45:03.5556321+00:00",
+  "LastChanged_Achievements": "2023-08-25T02:18:41.2493654+00:00",
   "LastUpdate_AppInfo": "2023-08-23T13:00:58.5941376+00:00",
-  "LastUpdate_Ratings": "2023-08-25T01:39:33.8305866+00:00",
-  "LastUpdate_Achievements": "2023-08-25T01:45:03.5556503+00:00"
+  "LastUpdate_Ratings": "2023-08-25T02:13:29.2250485+00:00",
+  "LastUpdate_Achievements": "2023-08-25T02:18:41.2493841+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 23.00% | ~49,867 |
+| Sowwy! | 23.00% | ~49,868 |
 | Déjà vu | 2.00% | ~4,336 |
 | Where's that freaking Dwarf? | 2.00% | ~4,336 |
 | Sock! SOCK! | 2.00% | ~4,336 |
@@ -18,7 +18,7 @@ Number of Ratings: 118  (23.09.2022)
 | Fireproof Wizardess | 1.00% | ~2,168 |
 | Way of the Wimp | 0.90% | ~1,951 |
 | The plot thickens... At the tavern | 0.90% | ~1,951 |
-| Livin' in a dwarven paradise | 0.80% | ~1,734 |
+| Livin' in a dwarven paradise | 0.80% | ~1,735 |
 | The demons' feast | 0.70% | ~1,518 |
 | The Great Library | 0.70% | ~1,518 |
 | Torture and Sensibility | 0.70% | ~1,518 |
@@ -31,13 +31,13 @@ Number of Ratings: 118  (23.09.2022)
 | The Statuette of Gladeulfeurah | 0.60% | ~1,301 |
 | A tale of adventurers not quite like the others... | 0.60% | ~1,301 |
 | %#*!$*! | 0.60% | ~1,301 |
+| The beards of change | 0.60% | ~1,301 |
 | The Ranger of Chaos | 0.60% | ~1,301 |
 | I am the night | 0.60% | ~1,301 |
 | Res Judicata | 0.50% | ~1,084 |
 | The Famous Dungeon of Naheulbeuk | 0.50% | ~1,084 |
 | Dwarf Fortress | 0.50% | ~1,084 |
 | Look but don't touch | 0.50% | ~1,084 |
-| The beards of change | 0.50% | ~1,084 |
 | Thieves' Guild Accreditation | 0.50% | ~1,084 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.40% | ~867 |
 | Lust and Debauchery | 0.40% | ~867 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~217 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,812 (Ranked 56)  
+Progressed: 216,819 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 2 (0.00%) (Ranked 263)
 | 2023-08-22 | 216,036 | 2 |
 | 2023-08-23 | 216,367 | 2 |
 | 2023-08-24 | 216,781 | 2 |
-| 2023-08-25 | 216,812 | 2 |
+| 2023-08-25 | 216,819 | 2 |
 ## Awards
 Max (Character Customization): 174  (Ranked 285)  
 Sum: 218 (Ranked 364)  

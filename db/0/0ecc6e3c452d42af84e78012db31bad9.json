@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2555,
+  "EOS_Progressed": 2556,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 182,
+  "EOS_NewPlayers": 181,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -4946,6 +4946,11 @@
       "Time": "2023-08-25T00:08:55.3492953+00:00",
       "NumProgressed": 2555,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-08-25T02:22:48.9988745+00:00",
+      "NumProgressed": 2556,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 16,
@@ -4989,7 +4994,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 1942
+      "UsersEstimate": 1943
     },
     {
       "ID": "ach_architecture_completed",
@@ -5045,7 +5050,7 @@
       "Name": "Food - unlocked",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 894
+      "UsersEstimate": 895
     },
     {
       "ID": "ach_game_opened",
@@ -5077,21 +5082,21 @@
       "Name": "Aeolus",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     }
   ],
   "AchievementSets": [
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 2555,
+      "Progressed": 2556,
       "Completed": 16
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-08-25T01:49:41.4509842+00:00",
+  "LastChanged_Achievements": "2023-08-25T02:22:48.9988739+00:00",
   "LastUpdate_AppInfo": "2023-08-18T13:00:08.552411+00:00",
-  "LastUpdate_Ratings": "2023-08-25T01:41:17.766077+00:00",
-  "LastUpdate_Achievements": "2023-08-25T01:49:41.4510341+00:00"
+  "LastUpdate_Ratings": "2023-08-25T02:14:55.4784288+00:00",
+  "LastUpdate_Achievements": "2023-08-25T02:22:48.998924+00:00"
 }

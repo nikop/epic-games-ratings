@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 238,
+  "EOS_Progressed": 239,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 237,
+  "EOS_NewPlayers": 238,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -107,6 +107,11 @@
       "Time": "2023-08-25T01:46:55.8728863+00:00",
       "NumProgressed": 238,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-25T02:20:37.3001176+00:00",
+      "NumProgressed": 239,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -125,9 +130,9 @@
       "ID": "AC01",
       "SetID": "l4abp0",
       "Name": "A Thousand Years Later",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 30,
-      "UsersEstimate": 198
+      "UsersEstimate": 201
     },
     {
       "ID": "AC02",
@@ -149,9 +154,9 @@
       "ID": "AC04",
       "SetID": "l4abp0",
       "Name": "Blood and Iron",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "AC05",
@@ -269,7 +274,7 @@
       "ID": "AC19",
       "SetID": "l4abp0",
       "Name": "Soledad",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -343,7 +348,7 @@
       "Name": "The Punished One",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "AC29",
@@ -437,9 +442,9 @@
       "ID": "AC40",
       "SetID": "l4abp0",
       "Name": "Welcome Back!",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 112
     },
     {
       "ID": "AC41",
@@ -486,14 +491,14 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 238,
+      "Progressed": 239,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-26T07:57:19.1818171+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
-  "LastChanged_Achievements": "2023-08-25T01:46:55.8728854+00:00",
+  "LastChanged_Achievements": "2023-08-25T02:20:37.300117+00:00",
   "LastUpdate_AppInfo": "2023-08-22T18:57:00.5189311+00:00",
-  "LastUpdate_Ratings": "2023-08-25T01:40:43.9369528+00:00",
-  "LastUpdate_Achievements": "2023-08-25T01:46:55.872922+00:00"
+  "LastUpdate_Ratings": "2023-08-25T02:14:27.2231319+00:00",
+  "LastUpdate_Achievements": "2023-08-25T02:20:37.3001583+00:00"
 }

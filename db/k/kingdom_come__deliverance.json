@@ -6738,7 +6738,7 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 798317,
+  "EOS_Progressed": 798319,
   "EOS_Completed": 44,
   "EOS_NewPlayers": 867,
   "EOS_NewCompleters": 0,
@@ -20648,6 +20648,11 @@
       "Time": "2023-08-25T01:49:07.2300357+00:00",
       "NumProgressed": 798317,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-08-25T02:22:19.3375619+00:00",
+      "NumProgressed": 798319,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 82,
@@ -20739,7 +20744,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 255461
+      "UsersEstimate": 255462
     },
     {
       "ID": "Bookworm",
@@ -20771,7 +20776,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 199579
+      "UsersEstimate": 199580
     },
     {
       "ID": "Chivalrous",
@@ -21139,7 +21144,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 159663
+      "UsersEstimate": 159664
     },
     {
       "ID": "RevenantOfLedechko",
@@ -21179,7 +21184,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 159663
+      "UsersEstimate": 159664
     },
     {
       "ID": "SerialKiller",
@@ -21314,15 +21319,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 798317,
+      "Progressed": 798319,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-08-24T22:01:56.6383792+00:00",
-  "LastChanged_Achievements": "2023-08-25T01:49:07.230035+00:00",
+  "LastChanged_Achievements": "2023-08-25T02:22:19.3375607+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:50.3701677+00:00",
-  "LastUpdate_Ratings": "2023-08-25T01:43:24.5895921+00:00",
-  "LastUpdate_Achievements": "2023-08-25T01:49:07.2302575+00:00"
+  "LastUpdate_Ratings": "2023-08-25T02:16:48.8751038+00:00",
+  "LastUpdate_Achievements": "2023-08-25T02:22:19.3377166+00:00"
 }

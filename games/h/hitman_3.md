@@ -6,20 +6,20 @@ Number of Ratings: 21,082  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~609,484 |
-| Death From Above | 46.00% | ~609,484 |
-| Master of the Household | 38.00% | ~503,487 |
+| Unseen Assassin | 46.00% | ~609,485 |
+| Death From Above | 46.00% | ~609,485 |
+| Master of the Household | 38.00% | ~503,488 |
 | Death of the Party | 36.00% | ~476,988 |
 | NEXUS-47 | 33.00% | ~437,239 |
-| The Last Tango | 32.00% | ~423,989 |
-| Nightmare Fuel | 31.00% | ~410,739 |
-| The Result of Previous Training | 28.00% | ~370,990 |
-| Tools of the Trade | 28.00% | ~370,990 |
+| The Last Tango | 32.00% | ~423,990 |
+| Nightmare Fuel | 31.00% | ~410,740 |
+| The Result of Previous Training | 28.00% | ~370,991 |
+| Tools of the Trade | 28.00% | ~370,991 |
 | Cleared for Field Duty | 27.00% | ~357,741 |
-| Seizing the Opportunity | 26.00% | ~344,491 |
+| Seizing the Opportunity | 26.00% | ~344,492 |
 | Bullet Train | 21.00% | ~278,243 |
-| Stylish Assassin | 20.00% | ~264,993 |
-| Silent Assassin | 14.00% | ~185,495 |
+| Stylish Assassin | 20.00% | ~264,994 |
+| Silent Assassin | 14.00% | ~185,496 |
 | Rise Up | 13.00% | ~172,246 |
 | Evil Wine Club | 11.00% | ~145,746 |
 | Console Cowboy | 10.00% | ~132,497 |
@@ -54,7 +54,7 @@ Number of Ratings: 21,082  (23.09.2022)
 | Ripe for the Picking | 1.00% | ~13,250 |
 | The Creative Assassin | 0.70% | ~9,275 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,324,966 (Ranked 9)  
+Progressed: 1,324,968 (Ranked 9)  
 Completed: 2,128 (0.16%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 2,128 (0.16%) (Ranked 194)
 | 2023-08-22 | 1,324,224 | 2,128 |
 | 2023-08-23 | 1,324,573 | 2,128 |
 | 2023-08-24 | 1,324,941 | 2,128 |
-| 2023-08-25 | 1,324,966 | 2,128 |
+| 2023-08-25 | 1,324,968 | 2,128 |
 ## Awards
 Max (Diverse Characters): 9,797  (Ranked 38)  
 Sum: 69,951 (Ranked 20)  

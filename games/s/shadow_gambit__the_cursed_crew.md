@@ -20,18 +20,18 @@
 | Jaded Judge | 6.00% | ~29 |
 | All Good Things | 5.00% | ~24 |
 | Seadog | 5.00% | ~24 |
+| Lyrical Longing | 5.00% | ~24 |
 | Rustic Recipe | 5.00% | ~24 |
 | Privateer | 4.00% | ~19 |
 | Tobacco Travesty | 4.00% | ~19 |
 | Accursed Artifacts | 4.00% | ~19 |
-| Lyrical Longing | 4.00% | ~19 |
 | Corsair | 2.00% | ~10 |
 | Freebooter | 2.00% | ~10 |
 | Marauder | 1.00% | ~5 |
 | Fully Decked | 1.00% | ~5 |
 | Welcome Back Jester | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 486 (Ranked 231)  
+Progressed: 486 (Ranked 232)  
 Completed: 0 (0.00%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |

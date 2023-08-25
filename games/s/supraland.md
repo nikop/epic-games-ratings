@@ -6,20 +6,20 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~715,782 |
-| The Blues | 85.00% | ~614,560 |
-| Fast | 66.00% | ~477,188 |
+| Out of bed | 99.00% | ~715,783 |
+| The Blues | 85.00% | ~614,561 |
+| Fast | 66.00% | ~477,189 |
 | Healthbar | 55.00% | ~397,657 |
-| Force Cube | 53.00% | ~383,196 |
+| Force Cube | 53.00% | ~383,197 |
 | Double Jump | 48.00% | ~347,046 |
 | Regeneration | 47.00% | ~339,816 |
-| Triple Jump | 43.00% | ~310,895 |
+| Triple Jump | 43.00% | ~310,896 |
 | Climb the hill | 42.00% | ~303,665 |
 | Through the fire pipe | 38.00% | ~274,745 |
 | MacGuffin | 38.00% | ~274,745 |
-| Just once | 37.00% | ~267,514 |
+| Just once | 37.00% | ~267,515 |
 | Armor | 30.00% | ~216,904 |
-| True holy spirit | 28.00% | ~202,443 |
+| True holy spirit | 28.00% | ~202,444 |
 | That's how electronics work obviously | 26.00% | ~187,983 |
 | Force Cube Catapult | 25.00% | ~180,753 |
 | Holy Sword | 23.00% | ~166,293 |
@@ -36,8 +36,8 @@ Number of Ratings: 25,175  (23.09.2022)
 | 9 | 13.00% | ~93,992 |
 | Purple Cube | 13.00% | ~93,992 |
 | Supraball Noob | 13.00% | ~93,992 |
-| Helped a star | 12.00% | ~86,761 |
-| Strong | 12.00% | ~86,761 |
+| Helped a star | 12.00% | ~86,762 |
+| Strong | 12.00% | ~86,762 |
 | Blue King's lair | 11.00% | ~79,531 |
 | Payback | 11.00% | ~79,531 |
 | Got the coins back | 11.00% | ~79,531 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~723 |
 | DLC: Top of the world | 0.10% | ~723 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 723,012 (Ranked 19)  
+Progressed: 723,013 (Ranked 19)  
 Completed: 728 (0.10%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 728 (0.10%) (Ranked 210)
 | 2023-08-22 | 722,743 | 726 |
 | 2023-08-23 | 722,879 | 728 |
 | 2023-08-24 | 723,002 | 728 |
-| 2023-08-25 | 723,012 | 728 |
+| 2023-08-25 | 723,013 | 728 |
 ## Awards
 Max (Challenging Puzzles): 7,674  (Ranked 46)  
 Sum: 9,998 (Ranked 85)  
