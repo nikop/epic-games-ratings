@@ -17,7 +17,7 @@
 | For Science! | 35.00% | ~252 |
 | Meet the Petersons | 32.00% | ~231 |
 | Stay Cool | 29.00% | ~209 |
-| KIA | 26.00% | ~187 |
+| KIA | 27.00% | ~195 |
 | Mutiny in making | 24.00% | ~173 |
 | Et tu, Astrocitizen? | 20.00% | ~144 |
 | Eco-Shuttle | 19.00% | ~137 |

@@ -2,7 +2,7 @@
   "ID": "456d95ca54814c8d98db2f52346ff5de",
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
-  "Ranking_Rating": 427,
+  "Ranking_Rating": 426,
   "Ranking_Popularity": 284,
   "Ranking_PopularitySum": 363,
   "Ranking_EOS_Progress": 56,
@@ -720,7 +720,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 217162,
+  "EOS_Progressed": 217188,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 2997,
   "EOS_NewCompleters": 0,
@@ -8290,6 +8290,11 @@
       "Time": "2023-08-25T20:03:22.828476+00:00",
       "NumProgressed": 217162,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-25T21:04:27.0739129+00:00",
+      "NumProgressed": 217188,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -8301,7 +8306,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1954
+      "UsersEstimate": 1955
     },
     {
       "ID": "100Fail",
@@ -8333,7 +8338,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1954
+      "UsersEstimate": 1955
     },
     {
       "ID": "BookCollection",
@@ -8349,7 +8354,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4343
+      "UsersEstimate": 4344
     },
     {
       "ID": "Chapter2",
@@ -8365,7 +8370,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1954
+      "UsersEstimate": 1955
     },
     {
       "ID": "Chapter4",
@@ -8701,7 +8706,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4343
+      "UsersEstimate": 4344
     },
     {
       "ID": "DwarfElf15Support",
@@ -8733,7 +8738,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4343
+      "UsersEstimate": 4344
     },
     {
       "ID": "ElfEpic",
@@ -8749,7 +8754,7 @@
       "Name": "Sowwy!",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 52119
+      "UsersEstimate": 52125
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -8797,7 +8802,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6515
+      "UsersEstimate": 6516
     },
     {
       "ID": "FollowBraztok",
@@ -8853,7 +8858,7 @@
       "Name": "Gargantua",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "Orktobearfest",
@@ -8885,7 +8890,7 @@
       "Name": "In Navalu\u0027s footsteps",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "QuestEmile",
@@ -8909,7 +8914,7 @@
       "Name": "L\u00EBgal Legend",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "QuestPriestess",
@@ -8979,9 +8984,9 @@
       "ID": "TeamLevel10",
       "SetID": "50chcgj",
       "Name": "Oh, when I\u0027ll be level 10...",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1520
+      "UsersEstimate": 1738
     },
     {
       "ID": "WizardEpic",
@@ -9004,21 +9009,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 217162,
+      "Progressed": 217188,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 217162,
+      "Progressed": 217188,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-25T15:02:30.1432618+00:00",
-  "LastChanged_Achievements": "2023-08-25T20:03:22.8284755+00:00",
+  "LastChanged_Achievements": "2023-08-25T21:04:27.0739122+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:36.4163589+00:00",
-  "LastUpdate_Ratings": "2023-08-25T20:01:51.9601117+00:00",
-  "LastUpdate_Achievements": "2023-08-25T20:03:22.8286318+00:00"
+  "LastUpdate_Ratings": "2023-08-25T21:03:41.0794143+00:00",
+  "LastUpdate_Achievements": "2023-08-25T21:04:27.0740719+00:00"
 }

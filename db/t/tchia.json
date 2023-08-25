@@ -2,7 +2,7 @@
   "ID": "2e09c1d223094f3798f63873548c9454",
   "Name": "Tchia",
   "ProductSlug": "tchia",
-  "Ranking_Rating": 119,
+  "Ranking_Rating": 118,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 135,
@@ -212,9 +212,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7362,
+  "EOS_Progressed": 7364,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 239,
+  "EOS_NewPlayers": 237,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -6447,6 +6447,11 @@
       "Time": "2023-08-25T19:07:18.3867412+00:00",
       "NumProgressed": 7362,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-08-25T21:08:25.5283296+00:00",
+      "NumProgressed": 7364,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 21,
@@ -6570,7 +6575,7 @@
       "Name": "Liberator",
       "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "LIVE_WIRE",
@@ -6578,7 +6583,7 @@
       "Name": "Live Wire",
       "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "SHREDDER",
@@ -6625,7 +6630,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7362,
+      "Progressed": 7364,
       "Completed": 32
     }
   ],
@@ -6633,8 +6638,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-08-07T01:56:04.2387619+00:00",
-  "LastChanged_Achievements": "2023-08-25T20:06:38.5692089+00:00",
+  "LastChanged_Achievements": "2023-08-25T21:08:25.5283289+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:55.8261903+00:00",
-  "LastUpdate_Ratings": "2023-08-25T20:00:38.6289758+00:00",
-  "LastUpdate_Achievements": "2023-08-25T20:06:38.5692655+00:00"
+  "LastUpdate_Ratings": "2023-08-25T21:02:12.487572+00:00",
+  "LastUpdate_Achievements": "2023-08-25T21:08:25.528393+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "the-metronomicon-766679",
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-05-06T13:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:09.9842158+00:00",
   "LastChanged": "2023-03-31T05:57:09.9842159+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:49.108359+00:00",
-  "LastUpdate_Ratings": "2023-08-25T19:58:13.4926542+00:00",
-  "LastUpdate_Achievements": "2023-08-25T20:07:04.6026635+00:00"
+  "LastUpdate_Ratings": "2023-08-25T20:58:54.7136096+00:00",
+  "LastUpdate_Achievements": "2023-08-25T21:08:47.8054768+00:00"
 }

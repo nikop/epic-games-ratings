@@ -1,7 +1,7 @@
 # Warhammer 40,000: Chaos Gate - Daemonhunters
 [Store](https://store.epicgames.com/en-US/p/warhammer-40000-chaos-gate-daemonhunters)  
 [View Rawdata](../../db/w/warhammer_40,000__chaos_gate_-_daemonhunters.json)  
-Rating: 4.58 (Ranked 427)  
+Rating: 4.58 (Ranked 426)  
 Number of Ratings: 371  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -27,12 +27,12 @@ Number of Ratings: 371  (23.09.2022)
 | Just a Scratch | 0.90% | ~28 |
 | Execution Force | 0.90% | ~28 |
 | Junk Banishment | 0.60% | ~19 |
+| A Gift Spurned | 0.60% | ~19 |
 | Fleetmaster | 0.50% | ~16 |
 | Daemonkeeper | 0.50% | ~16 |
 | Mind Like a Fortress | 0.50% | ~16 |
 | Efficient Killer | 0.50% | ~16 |
 | Only in Death | 0.50% | ~16 |
-| A Gift Spurned | 0.50% | ~16 |
 | Long Distance Call | 0.50% | ~16 |
 | Tactical Flexibility | 0.50% | ~16 |
 | Tactical Sabotage | 0.50% | ~16 |

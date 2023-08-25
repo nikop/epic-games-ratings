@@ -6,30 +6,30 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~8,936 |
-| Battering Crew | 20.00% | ~4,468 |
-| The Kingsroad | 18.00% | ~4,021 |
-| Well Stocked | 14.00% | ~3,128 |
-| Royal Fleet | 13.00% | ~2,904 |
-| The Kraken’s Grasp | 9.00% | ~2,011 |
-| Daggers in the Dark | 8.00% | ~1,787 |
-| Oathkeeper | 8.00% | ~1,787 |
-| Alliance | 8.00% | ~1,787 |
-| A Long Journey | 8.00% | ~1,787 |
-| Ours is the Fury | 7.00% | ~1,564 |
-| Winter is Coming | 7.00% | ~1,564 |
-| Influential | 7.00% | ~1,564 |
-| We Do Not Sow | 6.00% | ~1,340 |
-| Unbowed, Unbent, Unbroken | 6.00% | ~1,340 |
-| Hear me Roar! | 6.00% | ~1,340 |
-| Defender of the Wall | 6.00% | ~1,340 |
-| Growing Strong | 5.00% | ~1,117 |
+| Conqueror | 40.00% | ~8,940 |
+| Battering Crew | 20.00% | ~4,470 |
+| The Kingsroad | 18.00% | ~4,023 |
+| Well Stocked | 14.00% | ~3,129 |
+| Royal Fleet | 13.00% | ~2,906 |
+| The Kraken’s Grasp | 9.00% | ~2,012 |
+| Daggers in the Dark | 8.00% | ~1,788 |
+| Oathkeeper | 8.00% | ~1,788 |
+| Alliance | 8.00% | ~1,788 |
+| A Long Journey | 8.00% | ~1,788 |
+| Ours is the Fury | 7.00% | ~1,565 |
+| Winter is Coming | 7.00% | ~1,565 |
+| Influential | 7.00% | ~1,565 |
+| We Do Not Sow | 6.00% | ~1,341 |
+| Unbowed, Unbent, Unbroken | 6.00% | ~1,341 |
+| Hear me Roar! | 6.00% | ~1,341 |
+| Defender of the Wall | 6.00% | ~1,341 |
+| Growing Strong | 5.00% | ~1,118 |
 | What is Dead may Never Die | 3.00% | ~670 |
 | The Swift | 3.00% | ~670 |
 | King in the North | 2.00% | ~447 |
-| War of the Five Kings | 1.00% | ~223 |
+| War of the Five Kings | 1.00% | ~224 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,341 (Ranked 106)  
+Progressed: 22,350 (Ranked 106)  
 Completed: 47 (0.21%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 47 (0.21%) (Ranked 186)
 | 2023-08-22 | 22,094 | 46 |
 | 2023-08-23 | 22,171 | 46 |
 | 2023-08-24 | 22,258 | 46 |
-| 2023-08-25 | 22,341 | 47 |
+| 2023-08-25 | 22,350 | 47 |
 ## Awards
 Max (Quickly Understood Controls): 123  (Ranked 316)  
 Sum: 786 (Ranked 264)  

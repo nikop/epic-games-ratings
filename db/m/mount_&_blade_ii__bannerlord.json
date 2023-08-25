@@ -2,7 +2,7 @@
   "ID": "aeac94c7a11048758064b82f8f8d20ed",
   "Name": "Mount \u0026 Blade II: Bannerlord",
   "ProductSlug": "mount-and-blade-2",
-  "Ranking_Rating": 146,
+  "Ranking_Rating": 145,
   "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 67,
   "Ranking_EOS_Progress": 88,
@@ -6669,9 +6669,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 59639,
+  "EOS_Progressed": 59642,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 525,
+  "EOS_NewPlayers": 524,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20159,6 +20159,11 @@
       "Time": "2023-08-25T20:06:05.9273607+00:00",
       "NumProgressed": 59639,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-25T21:07:41.4236863+00:00",
+      "NumProgressed": 59642,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -20170,7 +20175,7 @@
       "Name": "Against all odds",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 6560
+      "UsersEstimate": 6561
     },
     {
       "ID": "Apple of my eye",
@@ -20378,7 +20383,7 @@
       "Name": "Know your enemy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3578
+      "UsersEstimate": 3579
     },
     {
       "ID": "Lance-a-lot",
@@ -20394,7 +20399,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 19084
+      "UsersEstimate": 19085
     },
     {
       "ID": "Lawbringer",
@@ -20402,7 +20407,7 @@
       "Name": "Lawbringer",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 22663
+      "UsersEstimate": 22664
     },
     {
       "ID": "Lawmaker",
@@ -20410,7 +20415,7 @@
       "Name": "Lawmaker",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 13717
+      "UsersEstimate": 13718
     },
     {
       "ID": "Long live the Empire",
@@ -20522,7 +20527,7 @@
       "Name": "The king is pleased",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 10735
+      "UsersEstimate": 10736
     },
     {
       "ID": "This Is Our Land",
@@ -20530,7 +20535,7 @@
       "Name": "This Is Our Land",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 6560
+      "UsersEstimate": 6561
     },
     {
       "ID": "This is Sparta",
@@ -20577,15 +20582,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 59639,
+      "Progressed": 59642,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-08-25T18:58:33.0959219+00:00",
-  "LastChanged_Achievements": "2023-08-25T20:06:05.9273601+00:00",
+  "LastChanged_Achievements": "2023-08-25T21:07:41.4236857+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:38.4249815+00:00",
-  "LastUpdate_Ratings": "2023-08-25T19:58:07.2797773+00:00",
-  "LastUpdate_Achievements": "2023-08-25T20:06:05.9274892+00:00"
+  "LastUpdate_Ratings": "2023-08-25T20:58:43.4705021+00:00",
+  "LastUpdate_Achievements": "2023-08-25T21:07:41.4238259+00:00"
 }

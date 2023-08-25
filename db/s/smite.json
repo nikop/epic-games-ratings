@@ -2,12 +2,12 @@
   "ID": "076207fa2b5c4803a636af606c3c28b7",
   "Name": "SMITE",
   "ProductSlug": "smite",
-  "Ranking_Rating": 650,
+  "Ranking_Rating": 649,
   "Ranking_Popularity": 79,
   "Ranking_PopularitySum": 42,
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2020-04-28T15:00:00+00:00",
@@ -7309,11 +7309,17 @@
       "Rating": 4.44,
       "NumberOfAwards": 28118,
       "NumberOfAwardsMax": 4190
+    },
+    {
+      "Time": "2023-08-25T20:59:27.0862997+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 28130,
+      "NumberOfAwardsMax": 4193
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28118,
-  "NumberOfAwardsMax": 4190,
+  "NumberOfAwards": 28130,
+  "NumberOfAwardsMax": 4193,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -7326,7 +7332,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 4190
+      "Count": 4193
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -7350,7 +7356,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 3006
+      "Count": 3010
     },
     {
       "Text": "This game has Amazing Characters",
@@ -7368,7 +7374,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 2453
+      "Count": 2458
     },
     {
       "Text": "This game has Challenging Combat",
@@ -7388,8 +7394,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:32.4644513+00:00",
-  "LastChanged": "2023-08-25T18:59:08.0313972+00:00",
+  "LastChanged": "2023-08-25T20:59:27.0862996+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:03.973668+00:00",
-  "LastUpdate_Ratings": "2023-08-25T19:58:40.5067679+00:00",
-  "LastUpdate_Achievements": "2023-08-25T20:05:13.9365152+00:00"
+  "LastUpdate_Ratings": "2023-08-25T20:59:27.0863003+00:00",
+  "LastUpdate_Achievements": "2023-08-25T21:06:44.9266412+00:00"
 }

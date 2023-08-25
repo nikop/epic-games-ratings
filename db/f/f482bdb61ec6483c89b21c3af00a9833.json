@@ -4,7 +4,7 @@
   "ProductSlug": "ascendant-16465d",
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-20T22:57:05.5592846+00:00",
-  "LastUpdate_Ratings": "2023-08-25T19:57:40.3952847+00:00",
-  "LastUpdate_Achievements": "2023-08-25T20:03:48.4505062+00:00"
+  "LastUpdate_Ratings": "2023-08-25T20:58:06.5366927+00:00",
+  "LastUpdate_Achievements": "2023-08-25T21:05:01.4585139+00:00"
 }

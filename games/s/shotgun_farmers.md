@@ -10,7 +10,7 @@
 | Aspairagus | 58.00% | ~125 |
 | Survivor | 56.00% | ~120 |
 | No Asperascope | 54.00% | ~143 |
-| Cornivore | 52.00% | ~138 |
+| Cornivore | 53.00% | ~140 |
 | I Believe I Can Fly | 48.00% | ~127 |
 | Early Survivor | 42.00% | ~90 |
 | No Diggity | 42.00% | ~90 |

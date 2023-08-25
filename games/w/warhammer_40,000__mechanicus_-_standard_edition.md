@@ -1,24 +1,24 @@
 # Warhammer 40,000: Mechanicus - Standard Edition
 [Store](https://store.epicgames.com/en-US/p/warhammer-mechanicus-0e4b71)  
 [View Rawdata](../../db/w/warhammer_40,000__mechanicus_-_standard_edition.json)  
-Rating: 4.43 (Ranked 664)  
+Rating: 4.43 (Ranked 663)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~57,490 |
-| This is only the beginning | 19.00% | ~42,012 |
-| Knowledge is power | 12.00% | ~26,534 |
-| Power Ranger | 9.00% | ~19,900 |
-| Galvanic Rifle | 9.00% | ~19,900 |
-| Taser Goad | 9.00% | ~19,900 |
-| Radium Ready | 9.00% | ~19,900 |
-| Half a cog | 9.00% | ~19,900 |
+| No aid from the Omnissiah | 26.00% | ~57,492 |
+| This is only the beginning | 19.00% | ~42,013 |
+| Knowledge is power | 12.00% | ~26,535 |
+| Power Ranger | 9.00% | ~19,901 |
+| Galvanic Rifle | 9.00% | ~19,901 |
+| Taser Goad | 9.00% | ~19,901 |
+| Radium Ready | 9.00% | ~19,901 |
+| Half a cog | 9.00% | ~19,901 |
 | Watch them crumble | 6.00% | ~13,267 |
 | Competent Cohort | 4.00% | ~8,845 |
 | Celestial Cartography Catastrophe | 4.00% | ~8,845 |
 | One with the Machine | 4.00% | ~8,845 |
-| Legio Cybernetica | 3.00% | ~6,633 |
-| Fleshy Disposal | 3.00% | ~6,633 |
+| Legio Cybernetica | 3.00% | ~6,634 |
+| Fleshy Disposal | 3.00% | ~6,634 |
 | Battle Servitor | 2.00% | ~4,422 |
 | Ding Dong Szaregon's Gone | 2.00% | ~4,422 |
 | Impatient destruction | 2.00% | ~4,422 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 664)
 | Perma-live | 0.10% | ~221 |
 | Purge the Heretek | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221,116 (Ranked 54)  
+Progressed: 221,123 (Ranked 54)  
 Completed: 5 (0.00%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 5 (0.00%) (Ranked 263)
 | 2023-08-22 | 220,873 | 5 |
 | 2023-08-23 | 220,945 | 5 |
 | 2023-08-24 | 221,039 | 5 |
-| 2023-08-25 | 221,116 | 5 |
+| 2023-08-25 | 221,123 | 5 |
 ## Awards
 Max (Highly Recommended): 281  (Ranked 241)  
 Sum: 2,127 (Ranked 194)  

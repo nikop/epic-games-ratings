@@ -1,13 +1,13 @@
 # Runbow
 [Store](https://store.epicgames.com/en-US/p/runbow-fc9fa4)  
 [View Rawdata](../../db/r/runbow.json)  
-Rating: 4.46 (Ranked 625)  
+Rating: 4.46 (Ranked 624)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~131,704 |
-| My First Runbow | 50.00% | ~124,249 |
-| It's The Fall | 26.00% | ~64,609 |
+| In The Zone | 53.00% | ~131,706 |
+| My First Runbow | 50.00% | ~124,250 |
+| It's The Fall | 26.00% | ~64,610 |
 | The Stunner | 22.00% | ~54,670 |
 | Be Aggressive | 21.00% | ~52,185 |
 | Curator | 20.00% | ~49,700 |
@@ -32,7 +32,7 @@ Rating: 4.46 (Ranked 625)
 | What A Trip | 1.00% | ~2,485 |
 | Here We Go! | 0.80% | ~1,988 |
 | Please The King | 0.80% | ~1,988 |
-| Clear-Cut | 0.50% | ~1,242 |
+| Clear-Cut | 0.50% | ~1,243 |
 | Breaking Out | 0.40% | ~994 |
 | Disposable | 0.40% | ~994 |
 | A Winner Is You | 0.20% | ~497 |
@@ -40,19 +40,19 @@ Rating: 4.46 (Ranked 625)
 | I'm Here All Night | 0.20% | ~497 |
 | Ride The Wave | 0.20% | ~497 |
 | Tree Medalist | 0.20% | ~497 |
-| Can't Be Kept Down | 0.10% | ~248 |
-| Completionist | 0.10% | ~248 |
-| Did Your Time | 0.10% | ~248 |
-| Hanging 10 | 0.10% | ~248 |
-| Hard To Stomach | 0.10% | ~248 |
-| Indegestible | 0.10% | ~248 |
-| Lockup Lockdown | 0.10% | ~248 |
-| Not Scared | 0.10% | ~248 |
-| Perfect Darkness | 0.10% | ~248 |
-| Talent Scout | 0.10% | ~248 |
-| True Completionist | 0.10% | ~248 |
+| Can't Be Kept Down | 0.10% | ~249 |
+| Completionist | 0.10% | ~249 |
+| Did Your Time | 0.10% | ~249 |
+| Hanging 10 | 0.10% | ~249 |
+| Hard To Stomach | 0.10% | ~249 |
+| Indegestible | 0.10% | ~249 |
+| Lockup Lockdown | 0.10% | ~249 |
+| Not Scared | 0.10% | ~249 |
+| Perfect Darkness | 0.10% | ~249 |
+| Talent Scout | 0.10% | ~249 |
+| True Completionist | 0.10% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248,498 (Ranked 47)  
+Progressed: 248,501 (Ranked 47)  
 Completed: 4 (0.00%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 4 (0.00%) (Ranked 263)
 | 2023-08-22 | 248,392 | 4 |
 | 2023-08-23 | 248,425 | 4 |
 | 2023-08-24 | 248,467 | 4 |
-| 2023-08-25 | 248,498 | 4 |
+| 2023-08-25 | 248,501 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

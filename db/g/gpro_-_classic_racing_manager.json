@@ -4,7 +4,7 @@
   "ProductSlug": "classic-racing-manager-679706",
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-10T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 314,
+  "EOS_Progressed": 315,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -696,6 +696,11 @@
       "Time": "2023-08-25T20:03:59.2606073+00:00",
       "NumProgressed": 314,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-25T21:05:16.4739496+00:00",
+      "NumProgressed": 315,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 162,
@@ -705,9 +710,9 @@
       "ID": "ACHIEVEMENT_1",
       "SetID": "76k7b7p",
       "Name": "First taste",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -769,9 +774,9 @@
       "ID": "ACHIEVEMENT_13",
       "SetID": "76k7b7p",
       "Name": "Newbie",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 236
+      "UsersEstimate": 239
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -859,7 +864,7 @@
       "Name": "Wannabe",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_190",
@@ -1945,9 +1950,9 @@
       "ID": "ACHIEVEMENT_91",
       "SetID": "76k7b7p",
       "Name": "On the top",
-      "Percentage": 0.6,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_93",
@@ -2002,14 +2007,14 @@
     {
       "ID": "76k7b7p",
       "IsBase": true,
-      "Progressed": 314,
+      "Progressed": 315,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-11T01:55:52.8280898+00:00",
   "FirstSeenAchievements": "2023-05-05T09:00:44.9178133+00:00",
-  "LastChanged_Achievements": "2023-08-25T20:03:59.2606062+00:00",
+  "LastChanged_Achievements": "2023-08-25T21:05:16.473949+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:40.6425793+00:00",
-  "LastUpdate_Ratings": "2023-08-25T19:59:49.9610996+00:00",
-  "LastUpdate_Achievements": "2023-08-25T20:03:59.2609406+00:00"
+  "LastUpdate_Ratings": "2023-08-25T21:01:00.2521032+00:00",
+  "LastUpdate_Achievements": "2023-08-25T21:05:16.4742734+00:00"
 }

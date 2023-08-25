@@ -4,7 +4,7 @@
   "ProductSlug": "zzt",
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2023-03-31T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3108,
+  "EOS_Progressed": 3110,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 3.86,
   "EosHistory": [
@@ -4176,6 +4176,11 @@
       "Time": "2023-08-25T16:05:40.5187547+00:00",
       "NumProgressed": 3108,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-08-25T21:06:45.9343567+00:00",
+      "NumProgressed": 3110,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 5,
@@ -4187,7 +4192,7 @@
       "Name": "Potomac Computer Systems",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 3108
+      "UsersEstimate": 3110
     },
     {
       "ID": "2",
@@ -4195,7 +4200,7 @@
       "Name": "Traveler",
       "Percentage": 6,
       "XP": 200,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "3",
@@ -4203,7 +4208,7 @@
       "Name": "Explorer",
       "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "4",
@@ -4226,7 +4231,7 @@
     {
       "ID": "dm385hd",
       "IsBase": true,
-      "Progressed": 3108,
+      "Progressed": 3110,
       "Completed": 120
     }
   ],
@@ -4234,8 +4239,8 @@
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
-  "LastChanged_Achievements": "2023-08-25T20:05:14.628465+00:00",
+  "LastChanged_Achievements": "2023-08-25T21:06:45.934356+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:23.1655196+00:00",
-  "LastUpdate_Ratings": "2023-08-25T20:01:09.1490792+00:00",
-  "LastUpdate_Achievements": "2023-08-25T20:05:14.6285033+00:00"
+  "LastUpdate_Ratings": "2023-08-25T21:02:49.0624192+00:00",
+  "LastUpdate_Achievements": "2023-08-25T21:06:45.9343934+00:00"
 }

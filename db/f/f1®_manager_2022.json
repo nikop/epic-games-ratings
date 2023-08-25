@@ -2,12 +2,12 @@
   "ID": "d14dcbe6b15b4fe191ff00880b9927f2",
   "Name": "F1\u00AE Manager 2022",
   "ProductSlug": "f1-manager-2022",
-  "Ranking_Rating": 427,
+  "Ranking_Rating": 426,
   "Ranking_Popularity": 251,
   "Ranking_PopularitySum": 196,
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-08-30T14:00:00+00:00",
@@ -1808,10 +1808,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 2044,
       "NumberOfAwardsMax": 258
+    },
+    {
+      "Time": "2023-08-25T21:02:59.3339207+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 2045,
+      "NumberOfAwardsMax": 258
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2044,
+  "NumberOfAwards": 2045,
   "NumberOfAwardsMax": 258,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1861,7 +1867,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 222
+      "Count": 223
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1902,9 +1908,9 @@
   "FirstSeen": "2022-08-30T14:01:37.4479981+00:00",
   "FirstSeenRating": "2022-08-30T21:30:24.1805179+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.9629777+00:00",
-  "LastChanged": "2023-08-22T15:00:49.6967084+00:00",
-  "LastChanged_Achievements": "2023-08-25T20:03:41.4944976+00:00",
+  "LastChanged": "2023-08-25T21:02:59.3339205+00:00",
+  "LastChanged_Achievements": "2023-08-25T21:04:51.9797925+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:27.7214287+00:00",
-  "LastUpdate_Ratings": "2023-08-25T20:01:15.3108964+00:00",
-  "LastUpdate_Achievements": "2023-08-25T20:03:41.494503+00:00"
+  "LastUpdate_Ratings": "2023-08-25T21:02:59.333921+00:00",
+  "LastUpdate_Achievements": "2023-08-25T21:04:51.9797958+00:00"
 }
