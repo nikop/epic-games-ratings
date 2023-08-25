@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 93,
-  "Ranking_EOS_NewPlayers": 77,
+  "Ranking_EOS_NewPlayers": 75,
   "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -380,9 +380,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18598,
+  "EOS_Progressed": 18602,
   "EOS_Completed": 374,
-  "EOS_NewPlayers": 515,
+  "EOS_NewPlayers": 517,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 2.01,
   "EosHistory": [
@@ -13885,6 +13885,11 @@
       "Time": "2023-08-25T09:06:40.7148543+00:00",
       "NumProgressed": 18598,
       "NumCompleted": 374
+    },
+    {
+      "Time": "2023-08-25T10:08:23.8127935+00:00",
+      "NumProgressed": 18602,
+      "NumCompleted": 374
     }
   ],
   "TotalAchievements": 20,
@@ -14016,7 +14021,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 14134
+      "UsersEstimate": 14138
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -14024,7 +14029,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 5207
+      "UsersEstimate": 5209
     },
     {
       "ID": "NORTH_FINISHED",
@@ -14055,15 +14060,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 18598,
+      "Progressed": 18602,
       "Completed": 374
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-08-12T01:39:46.4098224+00:00",
-  "LastChanged_Achievements": "2023-08-25T09:06:40.7148535+00:00",
+  "LastChanged_Achievements": "2023-08-25T10:08:23.8127927+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:54.5287855+00:00",
-  "LastUpdate_Ratings": "2023-08-25T08:58:19.3830098+00:00",
-  "LastUpdate_Achievements": "2023-08-25T09:06:40.7149595+00:00"
+  "LastUpdate_Ratings": "2023-08-25T09:58:53.2641968+00:00",
+  "LastUpdate_Achievements": "2023-08-25T10:08:23.8128955+00:00"
 }

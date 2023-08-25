@@ -6076,9 +6076,9 @@
       "Count": 3368
     }
   ],
-  "EOS_Progressed": 224771,
+  "EOS_Progressed": 224781,
   "EOS_Completed": 2213,
-  "EOS_NewPlayers": 1824,
+  "EOS_NewPlayers": 1820,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -19951,6 +19951,11 @@
       "Time": "2023-08-25T09:06:52.1680832+00:00",
       "NumProgressed": 224771,
       "NumCompleted": 2213
+    },
+    {
+      "Time": "2023-08-25T10:08:39.3018322+00:00",
+      "NumProgressed": 224781,
+      "NumCompleted": 2213
     }
   ],
   "TotalAchievements": 516,
@@ -19962,7 +19967,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4495
+      "UsersEstimate": 4496
     },
     {
       "ID": "objective_completed_10",
@@ -22152,9 +22157,9 @@
       "ID": "objective_completed_546",
       "SetID": "cc37lbc",
       "Name": "Slow and Steady",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 450
     },
     {
       "ID": "objective_completed_547",
@@ -24089,21 +24094,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 191045,
+      "Progressed": 191055,
       "Completed": 3304
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 224771,
+      "Progressed": 224781,
       "Completed": 2213
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-24T22:01:32.6243571+00:00",
-  "LastChanged_Achievements": "2023-08-25T09:06:52.1680823+00:00",
+  "LastChanged_Achievements": "2023-08-25T10:08:39.3018319+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:12.3267162+00:00",
-  "LastUpdate_Ratings": "2023-08-25T09:00:30.9015919+00:00",
-  "LastUpdate_Achievements": "2023-08-25T09:06:52.170649+00:00"
+  "LastUpdate_Ratings": "2023-08-25T10:02:10.2852245+00:00",
+  "LastUpdate_Achievements": "2023-08-25T10:08:39.3045739+00:00"
 }

@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 488,
+  "EOS_Progressed": 489,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 313,
+  "EOS_NewPlayers": 306,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -936,6 +936,11 @@
       "Time": "2023-08-25T08:04:23.4785607+00:00",
       "NumProgressed": 488,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-25T10:05:29.1047842+00:00",
+      "NumProgressed": 489,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -956,7 +961,7 @@
       "Name": "A New Journey",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "_03_FinishAct1",
@@ -980,7 +985,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -1002,9 +1007,9 @@
       "ID": "_08_Completion_10",
       "SetID": "8a1io5d",
       "Name": "Swabbie",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 181
     },
     {
       "ID": "_09_Completion_20",
@@ -1026,9 +1031,9 @@
       "ID": "_11_Completion_40",
       "SetID": "8a1io5d",
       "Name": "Seadog",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 34
     },
     {
       "ID": "_12_Completion_50",
@@ -1090,9 +1095,9 @@
       "ID": "_19_CrewTale_BSP",
       "SetID": "8a1io5d",
       "Name": "Persistent Parasite",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 54
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -1122,9 +1127,9 @@
       "ID": "_23_CrewTale_CNN",
       "SetID": "8a1io5d",
       "Name": "Lyrical Longing",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 20
     },
     {
       "ID": "_24_CrewTale_SNP",
@@ -1155,14 +1160,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 488,
+      "Progressed": 489,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-25T09:04:40.2228574+00:00",
+  "LastChanged_Achievements": "2023-08-25T10:05:29.1047836+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:01.7621403+00:00",
-  "LastUpdate_Ratings": "2023-08-25T09:00:23.5068743+00:00",
-  "LastUpdate_Achievements": "2023-08-25T09:04:40.2228822+00:00"
+  "LastUpdate_Ratings": "2023-08-25T10:01:59.2043716+00:00",
+  "LastUpdate_Achievements": "2023-08-25T10:05:29.1048124+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "fa9a00f7f82846b4b820e6152b69aa55",
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
-  "Ranking_EOS_Progress": 200,
+  "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 66,
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1080,
+  "EOS_Progressed": 1081,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3781,6 +3781,11 @@
       "Time": "2023-08-25T07:05:48.4766358+00:00",
       "NumProgressed": 1080,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-25T10:05:05.0212377+00:00",
+      "NumProgressed": 1081,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -3822,9 +3827,9 @@
       "ID": "ach_gold_rewards_100",
       "SetID": "bm61c2p",
       "Name": "Gold Achiever",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 32
+      "UsersEstimate": 22
     },
     {
       "ID": "ach_gold_rewards_25",
@@ -3896,7 +3901,7 @@
       "Name": "Facility Online",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -3912,7 +3917,7 @@
       "Name": "Sergeant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -3976,7 +3981,7 @@
       "Name": "Covert Operative",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -4095,14 +4100,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1080,
+      "Progressed": 1081,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-25T09:04:22.8146065+00:00",
+  "LastChanged_Achievements": "2023-08-25T10:05:05.0212365+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:20.8459338+00:00",
-  "LastUpdate_Ratings": "2023-08-25T08:58:51.250054+00:00",
-  "LastUpdate_Achievements": "2023-08-25T09:04:22.8146609+00:00"
+  "LastUpdate_Ratings": "2023-08-25T09:59:37.1005065+00:00",
+  "LastUpdate_Achievements": "2023-08-25T10:05:05.0212914+00:00"
 }

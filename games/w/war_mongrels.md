@@ -14,13 +14,13 @@ Number of Ratings: 34  (23.09.2022)
 | Prospector | 43.00% | ~203 |
 | Here Comes the Boom | 43.00% | ~203 |
 | Treasure Hunter | 40.00% | ~189 |
+| The Motivation | 38.00% | ~180 |
 | Sniper Wolf | 38.00% | ~180 |
-| The Motivation | 37.00% | ~175 |
 | Heroism | 36.00% | ~170 |
 | Missing in Action | 35.00% | ~166 |
 | Collectibles of Chapter I | 33.00% | ~156 |
+| Consequences | 32.00% | ~151 |
 | King of Knives | 32.00% | ~151 |
-| Consequences | 31.00% | ~147 |
 | Opportunities | 30.00% | ~142 |
 | The Horror | 28.00% | ~132 |
 | The Difference | 25.00% | ~118 |

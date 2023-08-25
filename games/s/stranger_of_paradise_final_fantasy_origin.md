@@ -42,8 +42,8 @@ Number of Ratings: 1,919  (23.09.2022)
 | Path of the Assassin | 32.00% | ~25,433 |
 | Seeker of Ultimate Power | 23.00% | ~18,280 |
 | Artifact Collector | 22.00% | ~17,485 |
+| True Potential | 22.00% | ~17,485 |
 | Polymath | 22.00% | ~17,485 |
-| True Potential | 21.00% | ~16,690 |
 | Origin of True Chaos | 20.00% | ~15,895 |
 | Master's Awakening | 19.00% | ~15,101 |
 | Jack-of-All-Trades | 19.00% | ~15,101 |

@@ -5,30 +5,30 @@ Rating: 4.27 (Ranked 814)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~156,177 |
-| Copacetic Coordination | 16.00% | ~54,323 |
-| Fronting the Money | 15.00% | ~50,927 |
-| The Dawn of Automation | 14.00% | ~47,532 |
-| Extraordinary Logistics | 14.00% | ~47,532 |
-| Dirty Money | 13.00% | ~44,137 |
-| Family First | 13.00% | ~44,137 |
-| Cleaning House | 12.00% | ~40,742 |
-| Room in the Back | 12.00% | ~40,742 |
-| Beating the Heat | 11.00% | ~37,347 |
-| Booze Baron | 11.00% | ~37,347 |
-| Friends on the Force | 10.00% | ~33,952 |
-| Neighborhood Watch | 10.00% | ~33,952 |
-| Core Corps | 8.00% | ~27,161 |
-| Sizeable Stash | 8.00% | ~27,161 |
-| Street Fighter | 7.00% | ~23,766 |
-| Friendly Gestures | 7.00% | ~23,766 |
-| People Person | 7.00% | ~23,766 |
-| Liquor Lord | 6.00% | ~20,371 |
-| Safety in Numbers | 6.00% | ~20,371 |
-| Moving Experiences | 6.00% | ~20,371 |
-| Wise Head | 6.00% | ~20,371 |
-| Show ‘em the Sugar | 6.00% | ~20,371 |
-| Killing Them Softly | 6.00% | ~20,371 |
+| Corner Clout | 46.00% | ~156,183 |
+| Copacetic Coordination | 16.00% | ~54,325 |
+| Fronting the Money | 15.00% | ~50,929 |
+| The Dawn of Automation | 14.00% | ~47,534 |
+| Extraordinary Logistics | 14.00% | ~47,534 |
+| Dirty Money | 13.00% | ~44,139 |
+| Family First | 13.00% | ~44,139 |
+| Cleaning House | 12.00% | ~40,743 |
+| Room in the Back | 12.00% | ~40,743 |
+| Beating the Heat | 11.00% | ~37,348 |
+| Booze Baron | 11.00% | ~37,348 |
+| Friends on the Force | 10.00% | ~33,953 |
+| Neighborhood Watch | 10.00% | ~33,953 |
+| Core Corps | 8.00% | ~27,162 |
+| Sizeable Stash | 8.00% | ~27,162 |
+| Street Fighter | 7.00% | ~23,767 |
+| Friendly Gestures | 7.00% | ~23,767 |
+| People Person | 7.00% | ~23,767 |
+| Liquor Lord | 6.00% | ~20,372 |
+| Safety in Numbers | 6.00% | ~20,372 |
+| Moving Experiences | 6.00% | ~20,372 |
+| Wise Head | 6.00% | ~20,372 |
+| Show ‘em the Sugar | 6.00% | ~20,372 |
+| Killing Them Softly | 6.00% | ~20,372 |
 | Street Knowledge | 5.00% | ~16,976 |
 | Oh Captain | 5.00% | ~16,976 |
 | Branching Out | 5.00% | ~16,976 |
@@ -41,18 +41,18 @@ Rating: 4.27 (Ranked 814)
 | An Affront to the Enemy | 4.00% | ~13,581 |
 | Friends from Back Home | 4.00% | ~13,581 |
 | Half Century Mark | 4.00% | ~13,581 |
-| Corner Opportunities | 3.00% | ~10,185 |
-| 2122 North Clark Street | 3.00% | ~10,185 |
-| Copious Cabbage | 3.00% | ~10,185 |
-| Sockdolager | 3.00% | ~10,185 |
-| Still Stalwart | 3.00% | ~10,185 |
-| Bees Knees Bootlegger | 3.00% | ~10,185 |
-| Tighten the Screws | 3.00% | ~10,185 |
-| One of Us | 2.00% | ~6,790 |
-| Baker’s Dozen | 2.00% | ~6,790 |
-| Dropping the Dime | 2.00% | ~6,790 |
-| Spiffy Speakeasies | 2.00% | ~6,790 |
-| Keeping Your Word | 2.00% | ~6,790 |
+| Corner Opportunities | 3.00% | ~10,186 |
+| 2122 North Clark Street | 3.00% | ~10,186 |
+| Copious Cabbage | 3.00% | ~10,186 |
+| Sockdolager | 3.00% | ~10,186 |
+| Still Stalwart | 3.00% | ~10,186 |
+| Bees Knees Bootlegger | 3.00% | ~10,186 |
+| Tighten the Screws | 3.00% | ~10,186 |
+| One of Us | 2.00% | ~6,791 |
+| Baker’s Dozen | 2.00% | ~6,791 |
+| Dropping the Dime | 2.00% | ~6,791 |
+| Spiffy Speakeasies | 2.00% | ~6,791 |
+| Keeping Your Word | 2.00% | ~6,791 |
 | Boxing Them In | 1.00% | ~3,395 |
 | Backroom Empire | 1.00% | ~3,395 |
 | Corner Control | 1.00% | ~3,395 |
@@ -86,7 +86,7 @@ Rating: 4.27 (Ranked 814)
 | High Pillow | 0.10% | ~340 |
 | Station Master | 0.10% | ~340 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 339,516 (Ranked 42)  
+Progressed: 339,529 (Ranked 42)  
 Completed: 7 (0.00%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,16 +213,16 @@ Completed: 7 (0.00%) (Ranked 263)
 | 2023-08-22 | 339,063 | 7 |
 | 2023-08-23 | 339,257 | 7 |
 | 2023-08-24 | 339,443 | 7 |
-| 2023-08-25 | 339,516 | 7 |
+| 2023-08-25 | 339,529 | 7 |
 ## Awards
 Max (Great for Beginners): 33  (Ranked 449)  
-Sum: 162 (Ranked 391)  
-Diff (max vs sum): 58  
+Sum: 163 (Ranked 390)  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 33 |
 | This game is Highly Recommended | 29 |
-| This game is Relaxing | 28 |
+| This game is Relaxing | 29 |
 | This game is Extremely Fun | 26 |
 | This game has Quickly Understood Controls | 24 |
 | This game has Easy Combat | 22 |
@@ -297,3 +297,4 @@ Diff (max vs sum): 58
 | 2023-08-14 | 4.26 | 33 | 161 |
 | 2023-08-19 | 4.26 | 33 | 162 |
 | 2023-08-22 | 4.27 | 33 | 162 |
+| 2023-08-25 | 4.27 | 33 | 163 |

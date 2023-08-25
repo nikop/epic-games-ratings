@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~4,495 |
+| A Brief Tour of the Realms | 2.00% | ~4,496 |
 | Beast Intentions | 0.60% | ~1,349 |
 | The Cursed Farmer | 0.60% | ~1,349 |
 | The Mad Wizard | 0.50% | ~1,124 |
@@ -64,6 +64,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Exploring Port Nyanzaru | 0.20% | ~450 |
 | A Tale of Two Cities | 0.20% | ~450 |
 | The Dead Three | 0.20% | ~450 |
+| Slow and Steady | 0.20% | ~450 |
 | Flying Monkey Skulls of Doom | 0.20% | ~450 |
 | The Darkness Runs Deeper | 0.20% | ~450 |
 | Running of the Saurs | 0.20% | ~450 |
@@ -304,7 +305,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Tale of Two Fiends | 0.10% | ~225 |
 | A Tale of Two Champions | 0.10% | ~225 |
 | A Tale of Two Years | 0.10% | ~191 |
-| Slow and Steady | 0.10% | ~225 |
 | A Hero's Entourage | 0.10% | ~225 |
 | Sneak Attack | 0.10% | ~191 |
 | Lair of the Xanathar | 0.10% | ~225 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~191 |
 | Animated Giff | 0.10% | ~191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,771 (Ranked 53)  
+Progressed: 224,781 (Ranked 53)  
 Completed: 2,213 (0.98%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -650,7 +650,7 @@ Completed: 2,213 (0.98%) (Ranked 122)
 | 2023-08-22 | 224,213 | 2,207 |
 | 2023-08-23 | 224,434 | 2,210 |
 | 2023-08-24 | 224,686 | 2,211 |
-| 2023-08-25 | 224,771 | 2,213 |
+| 2023-08-25 | 224,781 | 2,213 |
 ## Awards
 Max (Diverse Characters): 5,182  (Ranked 68)  
 Sum: 31,201 (Ranked 39)  

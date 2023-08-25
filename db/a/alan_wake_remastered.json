@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 61557,
+  "EOS_Progressed": 61559,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 516,
+  "EOS_NewPlayers": 517,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -12337,6 +12337,11 @@
       "Time": "2023-08-25T09:06:50.4807705+00:00",
       "NumProgressed": 61557,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-08-25T10:08:36.8103333+00:00",
+      "NumProgressed": 61559,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -12364,7 +12369,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 14158
+      "UsersEstimate": 14159
     },
     {
       "ID": "04",
@@ -12380,7 +12385,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 12311
+      "UsersEstimate": 12312
     },
     {
       "ID": "06",
@@ -12412,7 +12417,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8002
+      "UsersEstimate": 8003
     },
     {
       "ID": "10",
@@ -12484,7 +12489,7 @@
       "Name": "Hardboiled Writer",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3693
+      "UsersEstimate": 3694
     },
     {
       "ID": "19",
@@ -12516,7 +12521,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8002
+      "UsersEstimate": 8003
     },
     {
       "ID": "23",
@@ -12844,7 +12849,7 @@
       "Name": "Iron Will",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "64",
@@ -12883,21 +12888,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 61557,
+      "Progressed": 61559,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 25025,
+      "Progressed": 25027,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-25T09:06:50.4807696+00:00",
+  "LastChanged_Achievements": "2023-08-25T10:08:36.8103325+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:35.5614422+00:00",
-  "LastUpdate_Ratings": "2023-08-25T09:00:04.9943304+00:00",
-  "LastUpdate_Achievements": "2023-08-25T09:06:50.4809161+00:00"
+  "LastUpdate_Ratings": "2023-08-25T10:01:29.1243593+00:00",
+  "LastUpdate_Achievements": "2023-08-25T10:08:36.8104771+00:00"
 }

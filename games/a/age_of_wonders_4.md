@@ -46,7 +46,7 @@ Rating: 4.61 (Ranked 366)
 | Duality | 2.00% | ~103 |
 | I've Got Everything I Need Right Here | 1.00% | ~51 |
 | Pruning for Progress | 1.00% | ~51 |
-| Manufactured War | 0.80% | ~41 |
+| Manufactured War | 0.90% | ~46 |
 | Snap Out of It! | 0.70% | ~36 |
 | Betrayal Most Foul | 0.40% | ~21 |
 | I Want to Break Free | 0.30% | ~15 |

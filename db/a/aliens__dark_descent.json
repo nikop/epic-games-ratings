@@ -288,7 +288,7 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 3184,
+  "EOS_Progressed": 3185,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 1,
@@ -3898,6 +3898,11 @@
       "Time": "2023-08-25T02:21:18.6620968+00:00",
       "NumProgressed": 3184,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-25T10:07:03.8670715+00:00",
+      "NumProgressed": 3185,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -3965,7 +3970,7 @@
       "Name": "Stuff Of Nightmares",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 700
+      "UsersEstimate": 701
     },
     {
       "ID": "ACH_FINISH_HARD",
@@ -4005,7 +4010,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 2356
+      "UsersEstimate": 2357
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -4021,7 +4026,7 @@
       "Name": "Call Me Snake",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 2006
+      "UsersEstimate": 2007
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -4029,7 +4034,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 2133
+      "UsersEstimate": 2134
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -4061,7 +4066,7 @@
       "Name": "El Riesgo Siempre Vive",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "ACH_MAX_MEDIC",
@@ -4101,15 +4106,15 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 1942
+      "UsersEstimate": 1943
     },
     {
       "ID": "ACH_MISSION_02",
       "SetID": "816efe",
       "Name": "First Steps Into Madness",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1688
+      "UsersEstimate": 1656
     },
     {
       "ID": "ACH_MISSION_03",
@@ -4149,7 +4154,7 @@
       "Name": "The Darwin Era Was Here",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "ACH_MISSION_08",
@@ -4205,7 +4210,7 @@
       "Name": "Snatched Out",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 2388
+      "UsersEstimate": 2389
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -4213,7 +4218,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 2611
+      "UsersEstimate": 2612
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -4229,7 +4234,7 @@
       "Name": "People Person",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 1783
+      "UsersEstimate": 1784
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -4237,7 +4242,7 @@
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1337
+      "UsersEstimate": 1338
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -4268,7 +4273,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3184,
+      "Progressed": 3185,
       "Completed": 3
     }
   ],
@@ -4276,8 +4281,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-08-18T05:57:00.7172404+00:00",
-  "LastChanged_Achievements": "2023-08-25T09:05:49.5046312+00:00",
+  "LastChanged_Achievements": "2023-08-25T10:07:03.8670706+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:11.1811549+00:00",
-  "LastUpdate_Ratings": "2023-08-25T08:57:55.0690912+00:00",
-  "LastUpdate_Achievements": "2023-08-25T09:05:49.5046969+00:00"
+  "LastUpdate_Ratings": "2023-08-25T09:58:14.0783507+00:00",
+  "LastUpdate_Achievements": "2023-08-25T10:07:03.8671334+00:00"
 }

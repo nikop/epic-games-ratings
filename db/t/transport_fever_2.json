@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -3531,9 +3531,9 @@
       "ID": "achFirstIndustryUpgrade",
       "SetID": "dgl390n",
       "Name": "First industry upgraded",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 889
+      "UsersEstimate": 905
     },
     {
       "ID": "achFirstPassengerTransported",
@@ -3547,9 +3547,9 @@
       "ID": "achFirstPassengerWaiting",
       "SetID": "dgl390n",
       "Name": "First passenger waiting",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 1064
+      "UsersEstimate": 1080
     },
     {
       "ID": "achFirstShipArrived",
@@ -3787,8 +3787,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-08-17T14:57:18.7494823+00:00",
-  "LastChanged_Achievements": "2023-08-25T09:07:03.4981278+00:00",
+  "LastChanged_Achievements": "2023-08-25T10:08:54.6502426+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:42.2047578+00:00",
-  "LastUpdate_Ratings": "2023-08-25T08:58:08.7671979+00:00",
-  "LastUpdate_Achievements": "2023-08-25T09:07:03.4982024+00:00"
+  "LastUpdate_Ratings": "2023-08-25T09:58:35.6856752+00:00",
+  "LastUpdate_Achievements": "2023-08-25T10:08:54.6503212+00:00"
 }
