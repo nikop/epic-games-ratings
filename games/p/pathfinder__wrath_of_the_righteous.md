@@ -11,16 +11,16 @@ Number of Ratings: 1,354  (23.09.2022)
 | Burning City | 16.00% | ~1,771 |
 | Mythic Choices | 13.00% | ~1,439 |
 | Defender's Heart | 13.00% | ~1,439 |
-| Banner over the Citadel | 12.00% | ~1,328 |
-| Queen's Gratitude | 11.00% | ~1,217 |
+| Banner over the Citadel | 12.00% | ~1,329 |
+| Queen's Gratitude | 11.00% | ~1,218 |
 | Fifth Crusade | 7.00% | ~775 |
 | Embrace of the Abyss | 6.00% | ~664 |
 | Path of the Angel | 6.00% | ~664 |
 | Demonic and Divine | 6.00% | ~664 |
-| Transformation | 5.00% | ~553 |
-| Great Upstart | 5.00% | ~553 |
-| Voice from Your Dreams | 5.00% | ~553 |
-| All Paths Open | 5.00% | ~553 |
+| Transformation | 5.00% | ~554 |
+| Great Upstart | 5.00% | ~554 |
+| Voice from Your Dreams | 5.00% | ~554 |
+| All Paths Open | 5.00% | ~554 |
 | Path of the Azata | 4.00% | ~443 |
 | The Legacy | 4.00% | ~443 |
 | Divide and Rule | 4.00% | ~443 |
@@ -47,8 +47,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | The Final Threshold | 1.00% | ~111 |
 | Strategic Victory | 1.00% | ~111 |
 | Abyssal Conspiracy | 1.00% | ~111 |
-| This Wall Won't Fall | 1.00% | ~98 |
-| Not the Last Sarkorian | 1.00% | ~98 |
+| This Wall Won't Fall | 1.00% | ~99 |
+| Not the Last Sarkorian | 1.00% | ~99 |
 | Path of the Legend | 0.90% | ~100 |
 | Truly Profane Gift | 0.90% | ~100 |
 | Path of the Dragon | 0.80% | ~89 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,068 (Ranked 122)  
+Progressed: 11,071 (Ranked 122)  
 Completed: 0 (0.00%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,7 +250,7 @@ Completed: 0 (0.00%) (Ranked 263)
 | 2023-08-22 | 11,031 | 0 |
 | 2023-08-23 | 11,042 | 0 |
 | 2023-08-24 | 11,054 | 0 |
-| 2023-08-25 | 11,068 | 0 |
+| 2023-08-25 | 11,071 | 0 |
 ## Awards
 Max (Character Customization): 1,701  (Ranked 118)  
 Sum: 6,903 (Ranked 114)  

@@ -581,9 +581,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 950,
+  "EOS_Progressed": 954,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2921,6 +2921,11 @@
       "Time": "2023-08-25T21:08:11.7688447+00:00",
       "NumProgressed": 950,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-25T22:06:18.7525984+00:00",
+      "NumProgressed": 954,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -2957,7 +2962,7 @@
       "Name": "Death Becomes You",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "MF_Ach_DebuffDogpile",
@@ -2997,7 +3002,7 @@
       "Name": "Flawless Victory",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "MF_Ach_FourthGate",
@@ -3101,7 +3106,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -3116,15 +3121,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 950,
+      "Progressed": 954,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-08-19T00:01:25.4224345+00:00",
-  "LastChanged_Achievements": "2023-08-25T21:08:11.7688441+00:00",
+  "LastChanged_Achievements": "2023-08-25T22:06:18.7525977+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:47.6883143+00:00",
-  "LastUpdate_Ratings": "2023-08-25T21:03:01.5471253+00:00",
-  "LastUpdate_Achievements": "2023-08-25T21:08:11.7688795+00:00"
+  "LastUpdate_Ratings": "2023-08-25T22:01:09.8138567+00:00",
+  "LastUpdate_Achievements": "2023-08-25T22:06:18.7526303+00:00"
 }

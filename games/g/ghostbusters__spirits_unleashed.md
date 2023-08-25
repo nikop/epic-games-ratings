@@ -6,7 +6,7 @@ Rating: 4.49 (Ranked 581)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 86.00% | ~21,790 |
-| Advancement | 72.00% | ~18,243 |
+| Advancement | 73.00% | ~18,496 |
 | Meticulously Efficient | 63.00% | ~15,962 |
 | Discovery | 61.00% | ~15,456 |
 | Fully Upgraded | 54.00% | ~13,682 |

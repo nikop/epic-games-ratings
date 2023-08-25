@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 114,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3536,9 +3536,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 11068,
+  "EOS_Progressed": 11071,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11291,6 +11291,11 @@
       "Time": "2023-08-25T19:06:30.3482136+00:00",
       "NumProgressed": 11068,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-25T22:05:47.4959789+00:00",
+      "NumProgressed": 11071,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -11318,7 +11323,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1328
+      "UsersEstimate": 1329
     },
     {
       "ID": "04_FithCrusade",
@@ -11430,7 +11435,7 @@
       "Name": "Transformation",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "18_MythicChoices",
@@ -11502,7 +11507,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1217
+      "UsersEstimate": 1218
     },
     {
       "ID": "28_GreatUpstart",
@@ -11510,7 +11515,7 @@
       "Name": "Great Upstart",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "29_StrategicVictory",
@@ -11646,7 +11651,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "46_AllPathsOpen",
@@ -11654,7 +11659,7 @@
       "Name": "All Paths Open",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -12198,7 +12203,7 @@
       "Name": "This Wall Won\u0027t Fall",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "DLC4_27_Not the Last Sarkorian",
@@ -12206,7 +12211,7 @@
       "Name": "Not the Last Sarkorian",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "DLC4_29_The Lady of the Forest",
@@ -12229,21 +12234,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9850,
+      "Progressed": 9853,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11068,
+      "Progressed": 11071,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-23T13:04:06.393487+00:00",
-  "LastChanged_Achievements": "2023-08-25T21:07:42.306578+00:00",
+  "LastChanged_Achievements": "2023-08-25T22:05:47.4959786+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:48.9326646+00:00",
-  "LastUpdate_Ratings": "2023-08-25T21:03:05.9812487+00:00",
-  "LastUpdate_Achievements": "2023-08-25T21:07:42.3068018+00:00"
+  "LastUpdate_Ratings": "2023-08-25T22:01:15.0788681+00:00",
+  "LastUpdate_Achievements": "2023-08-25T22:05:47.4961948+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "9a3407ecc4744962bc0571e024d6c6ea",
   "Name": "Fort Solis",
   "ProductSlug": "fort-solis-9164ca",
-  "Ranking_EOS_Progress": 271,
+  "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 282,
+  "EOS_Progressed": 285,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 271,
+  "EOS_NewPlayers": 274,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -376,6 +376,11 @@
       "Time": "2023-08-25T21:04:51.5009952+00:00",
       "NumProgressed": 282,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-25T22:03:23.775624+00:00",
+      "NumProgressed": 285,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -386,9 +391,9 @@
       "ID": "ABetterTomorrow",
       "SetID": "3ai6ml8",
       "Name": "A Better Tomorrow",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 76
+      "UsersEstimate": 80
     },
     {
       "ID": "BostonHayDay",
@@ -396,7 +401,7 @@
       "Name": "Boston Hay Day",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 158
+      "UsersEstimate": 160
     },
     {
       "ID": "BoxingClever",
@@ -404,7 +409,7 @@
       "Name": "Boxing Clever",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "Cartographer",
@@ -412,7 +417,7 @@
       "Name": "Cartographer",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "Causality",
@@ -428,15 +433,15 @@
       "Name": "Congratulations, you\u0027re an engineer",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "DarkestBeforeTheDawn",
       "SetID": "3ai6ml8",
       "Name": "Darkest Before the Dawn",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 68
+      "UsersEstimate": 71
     },
     {
       "ID": "DrinkingOnTheJob",
@@ -444,7 +449,7 @@
       "Name": "Drinking on the Job",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "DustDancing",
@@ -460,7 +465,7 @@
       "Name": "Everything is Dust",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "LightsOut",
@@ -468,7 +473,7 @@
       "Name": "Lights Out",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "MiCasaSuCasa",
@@ -482,17 +487,17 @@
       "ID": "OnceMoreIntoTheBreach",
       "SetID": "3ai6ml8",
       "Name": "Once more into the Breach",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 107
+      "UsersEstimate": 105
     },
     {
       "ID": "Outpatient",
       "SetID": "3ai6ml8",
       "Name": "Outpatient",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 135
+      "UsersEstimate": 140
     },
     {
       "ID": "Relic",
@@ -500,7 +505,7 @@
       "Name": "Relic",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 203
+      "UsersEstimate": 205
     },
     {
       "ID": "SkeletonCrew",
@@ -508,7 +513,7 @@
       "Name": "Skeleton Crew",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "TerraTourGuide",
@@ -524,7 +529,7 @@
       "Name": "The Safety of Disbelief",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "TragedyDocumented",
@@ -538,23 +543,23 @@
       "ID": "WelcomeToFortSolis",
       "SetID": "3ai6ml8",
       "Name": "Welcome to Fort Solis",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 234
+      "UsersEstimate": 239
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 282,
+      "Progressed": 285,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-08-25T21:04:51.5009942+00:00",
+  "LastChanged_Achievements": "2023-08-25T22:03:23.7756229+00:00",
   "LastUpdate_AppInfo": "2023-08-23T13:00:58.5941376+00:00",
-  "LastUpdate_Ratings": "2023-08-25T20:58:46.094622+00:00",
-  "LastUpdate_Achievements": "2023-08-25T21:04:51.5010116+00:00"
+  "LastUpdate_Ratings": "2023-08-25T21:58:00.6522204+00:00",
+  "LastUpdate_Achievements": "2023-08-25T22:03:23.7756423+00:00"
 }

@@ -19,7 +19,7 @@
 | Windmill | 40.00% | ~78 |
 | Doll | 38.00% | ~74 |
 | Mysterious paintings | 35.00% | ~68 |
-| Cat | 33.00% | ~64 |
+| Cat | 34.00% | ~66 |
 | Depths of the well | 26.00% | ~50 |
 | Children | 23.00% | ~45 |
 | Huge Snail | 16.00% | ~31 |

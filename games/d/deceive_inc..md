@@ -5,44 +5,44 @@ Rating: 4.58 (Ranked 426)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 29.00% | ~5,118 |
-| Mainframe Hacker | 23.00% | ~4,059 |
-| The Spy who eliminated me | 23.00% | ~4,059 |
+| On Deceive Inc.'s Secret Service | 29.00% | ~5,119 |
+| Mainframe Hacker | 23.00% | ~4,060 |
+| The Spy who eliminated me | 23.00% | ~4,060 |
 | Tomorrow Never Dyes | 22.00% | ~3,883 |
-| Never Say Loser Again | 19.00% | ~3,353 |
+| Never Say Loser Again | 19.00% | ~3,354 |
 | From the Vault with Love | 18.00% | ~3,177 |
 | Tailor-Made | 18.00% | ~3,177 |
 | For your Eyes only | 18.00% | ~3,177 |
-| Assistant Accountant | 17.00% | ~3,000 |
-| Fully Decked Out | 17.00% | ~3,000 |
+| Assistant Accountant | 17.00% | ~3,001 |
 | You Only Live Twice | 16.00% | ~2,824 |
-| A view to Win | 13.00% | ~2,294 |
+| Fully Decked Out | 16.00% | ~2,824 |
+| A view to Win | 13.00% | ~2,295 |
 | The Living Portrait | 12.00% | ~2,118 |
 | Private Collection | 12.00% | ~2,118 |
 | Hostile Takeover | 12.00% | ~2,118 |
 | Smells Like Trouble | 12.00% | ~2,118 |
-| Dr. No Kill | 11.00% | ~1,941 |
-| My Motto, My Creed | 11.00% | ~1,941 |
-| Killer Looks | 11.00% | ~1,941 |
+| Dr. No Kill | 11.00% | ~1,942 |
+| My Motto, My Creed | 11.00% | ~1,942 |
+| Killer Looks | 11.00% | ~1,942 |
 | Keycards Royale | 10.00% | ~1,765 |
 | In It to Win It | 10.00% | ~1,765 |
 | Security Supervisor | 6.00% | ~1,059 |
-| License to Thrill | 5.00% | ~882 |
-| Social of Solace | 3.00% | ~529 |
-| Live and let lie | 3.00% | ~529 |
-| Safe Withdrawal | 3.00% | ~529 |
+| License to Thrill | 5.00% | ~883 |
+| Social of Solace | 3.00% | ~530 |
+| Live and let lie | 3.00% | ~530 |
+| Safe Withdrawal | 3.00% | ~530 |
 | Branch Manager | 2.00% | ~353 |
 | Call Me Maybe | 2.00% | ~353 |
 | PHD in VIP | 2.00% | ~353 |
-| The terminals are not enough | 1.00% | ~176 |
-| Lose Another Day | 1.00% | ~176 |
+| The terminals are not enough | 1.00% | ~177 |
+| Lose Another Day | 1.00% | ~177 |
 | Chairman of Deceive Inc. | 0.80% | ~141 |
 | Chief Information Officer | 0.70% | ~124 |
 | Masteries Are Forever | 0.40% | ~71 |
 | Extraction Confusion | 0.20% | ~35 |
 | Spyfall | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,648 (Ranked 111)  
+Progressed: 17,651 (Ranked 111)  
 Completed: 1 (0.01%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 1 (0.01%) (Ranked 250)
 | 2023-08-22 | 17,562 | 1 |
 | 2023-08-23 | 17,592 | 1 |
 | 2023-08-24 | 17,618 | 1 |
-| 2023-08-25 | 17,648 | 1 |
+| 2023-08-25 | 17,651 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

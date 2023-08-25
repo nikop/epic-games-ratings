@@ -880,9 +880,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 661291,
+  "EOS_Progressed": 661292,
   "EOS_Completed": 168,
-  "EOS_NewPlayers": 312,
+  "EOS_NewPlayers": 311,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -12930,6 +12930,11 @@
       "Time": "2023-08-25T21:07:56.5634617+00:00",
       "NumProgressed": 661291,
       "NumCompleted": 168
+    },
+    {
+      "Time": "2023-08-25T22:06:07.7582123+00:00",
+      "NumProgressed": 661292,
+      "NumCompleted": 168
     }
   ],
   "TotalAchievements": 48,
@@ -12965,7 +12970,7 @@
       "Name": "Adventurer",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 39677
+      "UsersEstimate": 39678
     },
     {
       "ID": "Achievement_05_Protector_of_the_Realm",
@@ -13093,7 +13098,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 112419
+      "UsersEstimate": 112420
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -13101,7 +13106,7 @@
       "Name": "Empire\u0027s Bane",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 39677
+      "UsersEstimate": 39678
     },
     {
       "ID": "Achievement_22_Cure_for_Corruption",
@@ -13324,15 +13329,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 661291,
+      "Progressed": 661292,
       "Completed": 168
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-08-25T17:00:16.792448+00:00",
-  "LastChanged_Achievements": "2023-08-25T21:07:56.563461+00:00",
+  "LastChanged_Achievements": "2023-08-25T22:06:07.7582117+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:36.6517701+00:00",
-  "LastUpdate_Ratings": "2023-08-25T21:01:49.3455439+00:00",
-  "LastUpdate_Achievements": "2023-08-25T21:07:56.5635882+00:00"
+  "LastUpdate_Ratings": "2023-08-25T22:00:18.0102049+00:00",
+  "LastUpdate_Achievements": "2023-08-25T22:06:07.7583245+00:00"
 }

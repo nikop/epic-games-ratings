@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 480,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -151,9 +151,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1371,
+  "EOS_Progressed": 1373,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -1381,6 +1381,11 @@
       "Time": "2023-08-21T23:07:34.1526701+00:00",
       "NumProgressed": 1371,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-25T22:02:25.3593101+00:00",
+      "NumProgressed": 1373,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 56,
@@ -1408,7 +1413,7 @@
       "Name": "Me and My Familiar",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -1456,7 +1461,7 @@
       "Name": "Gotta Ca... Must Collect All of Them",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "achievement_endTurnInGrayplane5Times",
@@ -1464,7 +1469,7 @@
       "Name": "Passing Shadow",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "achievement_friendsBlock20Times",
@@ -1552,7 +1557,7 @@
       "Name": "This Too Shall Pass",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "achievement_loversVengeance10Kills",
@@ -1568,7 +1573,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "achievement_mythwalker",
@@ -1584,7 +1589,7 @@
       "Name": "Cutthroat Competitors",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -1592,7 +1597,7 @@
       "Name": "Thematic Divergence",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "achievement_use3ReactionStrikesInOneTurn",
@@ -1630,9 +1635,9 @@
       "ID": "completedStory_enduringWar",
       "SetID": "95dc8p",
       "Name": "War Endured",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 206
+      "UsersEstimate": 192
     },
     {
       "ID": "completedStory_legacy",
@@ -1839,15 +1844,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1371,
+      "Progressed": 1373,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-07-08T20:01:41.3411794+00:00",
-  "LastChanged_Achievements": "2023-08-25T21:03:54.977771+00:00",
+  "LastChanged_Achievements": "2023-08-25T22:02:25.3593095+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:21.1386789+00:00",
-  "LastUpdate_Ratings": "2023-08-25T20:59:55.9094065+00:00",
-  "LastUpdate_Achievements": "2023-08-25T21:03:54.9778332+00:00"
+  "LastUpdate_Ratings": "2023-08-25T21:58:49.6570684+00:00",
+  "LastUpdate_Achievements": "2023-08-25T22:02:25.3594211+00:00"
 }

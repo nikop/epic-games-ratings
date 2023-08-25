@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A path of no return | 100.00% | ~87 |
-| A bottomless pit | 86.00% | ~75 |
-| Pigeon | 83.00% | ~72 |
-| Baited | 70.00% | ~61 |
-| "Swoosh" | 62.00% | ~54 |
-| The light at the end of the tunnel | 61.00% | ~53 |
+| A path of no return | 100.00% | ~88 |
+| A bottomless pit | 85.00% | ~75 |
+| Pigeon | 82.00% | ~72 |
+| Baited | 69.00% | ~61 |
+| "Swoosh" | 61.00% | ~54 |
+| The light at the end of the tunnel | 60.00% | ~53 |
 | Splash! | 55.00% | ~48 |
-| Masochistic | 54.00% | ~47 |
+| Masochistic | 53.00% | ~47 |
 | Soft skin | 48.00% | ~42 |
 | Squid game | 41.00% | ~36 |
 | Sensitive soul | 34.00% | ~30 |
@@ -19,16 +19,16 @@
 | It's getting dark | 32.00% | ~28 |
 | Hard Rock | 32.00% | ~28 |
 | The beast within | 31.00% | ~27 |
-| Rooftop | 29.00% | ~25 |
-| Homeless | 28.00% | ~24 |
+| Rooftop | 28.00% | ~25 |
+| Homeless | 27.00% | ~24 |
 | Big badaboom! | 26.00% | ~23 |
 | Bookworm | 24.00% | ~21 |
 | Payback | 23.00% | ~20 |
 | Nokron tower | 22.00% | ~19 |
 | Magnitude 5 | 22.00% | ~19 |
-| Full power | 21.00% | ~18 |
-| "Ah sh*t... Here we go again!" | 21.00% | ~18 |
-| Compulsive hoarder | 20.00% | ~17 |
+| Full power | 20.00% | ~18 |
+| "Ah sh*t... Here we go again!" | 20.00% | ~18 |
+| Compulsive hoarder | 19.00% | ~17 |
 | GG EZ | 15.00% | ~13 |
 | Comeback | 15.00% | ~13 |
 | MayDay! MayDay! | 11.00% | ~10 |
@@ -39,7 +39,7 @@
 | Gold digger | 0.00% | ~0 |
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87 (Ranked 343)  
+Progressed: 88 (Ranked 342)  
 Completed: 0 (0.00%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,3 +84,4 @@ Completed: 0 (0.00%) (Ranked 263)
 | 2023-08-08 | 85 | 0 |
 | 2023-08-15 | 86 | 0 |
 | 2023-08-24 | 87 | 0 |
+| 2023-08-25 | 88 | 0 |

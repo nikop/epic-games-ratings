@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 499,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 257,
+  "EOS_NewPlayers": 254,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1015,9 +1015,9 @@
       "ID": "_04_CollectAllRelics",
       "SetID": "8a1io5d",
       "Name": "This Belongs in a Museum",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 145
     },
     {
       "ID": "_05_FinishAct2",
@@ -1031,9 +1031,9 @@
       "ID": "_06_FinishFirstMirrorQuest",
       "SetID": "8a1io5d",
       "Name": "Mirror Mirror on the Wall",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 85
     },
     {
       "ID": "_07_FinishAct3",
@@ -1047,9 +1047,9 @@
       "ID": "_08_Completion_10",
       "SetID": "8a1io5d",
       "Name": "Swabbie",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 190
     },
     {
       "ID": "_09_Completion_20",
@@ -1063,9 +1063,9 @@
       "ID": "_10_Completion_30",
       "SetID": "8a1io5d",
       "Name": "Buccaneer",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 60
+      "UsersEstimate": 65
     },
     {
       "ID": "_11_Completion_40",
@@ -1119,9 +1119,9 @@
       "ID": "_17_UpgradeFirstCharacter",
       "SetID": "8a1io5d",
       "Name": "With Great Power\u2026",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 175
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -1206,8 +1206,8 @@
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-25T21:06:00.4830752+00:00",
+  "LastChanged_Achievements": "2023-08-25T22:04:22.9573731+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:01.7621403+00:00",
-  "LastUpdate_Ratings": "2023-08-25T21:02:24.4493865+00:00",
-  "LastUpdate_Achievements": "2023-08-25T21:06:00.4831028+00:00"
+  "LastUpdate_Ratings": "2023-08-25T22:00:42.7198712+00:00",
+  "LastUpdate_Achievements": "2023-08-25T22:04:22.9573969+00:00"
 }
