@@ -11,7 +11,7 @@
 | 9 | [Overloop](games/o/overloop.md) | 25.00% |
 | 10 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.57% |
-| 12 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 22.81% |
+| 12 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 22.41% |
 | 13 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 13 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 15 | [Island Cities](games/i/island_cities.md) | 18.53% |
@@ -19,18 +19,18 @@
 | 16 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
 | 18 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.55% |
 | 19 | [Anna's Quest](games/a/anna's_quest.md) | 13.51% |
-| 20 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 12.50% |
-| 21 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.11% |
-| 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 11.36% |
-| 23 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.17% |
-| 24 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
-| 24 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
+| 20 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.11% |
+| 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 11.36% |
+| 22 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.17% |
+| 23 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
+| 23 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
+| 23 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 11.11% |
 | 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.03% |
 | 27 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.71% |
 | 28 | [Remains](games/r/remains.md) | 10.42% |
 | 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.32% |
 | 30 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
-| 31 | [Sonic Origins](games/s/sonic_origins.md) | 9.48% |
+| 31 | [Sonic Origins](games/s/sonic_origins.md) | 9.46% |
 | 32 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
 | 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.95% |
 | 34 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.47% |
@@ -90,7 +90,7 @@
 | 88 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.42% |
 | 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.27% |
 | 90 | [Bloodshore](games/b/bloodshore.md) | 2.21% |
-| 91 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.17% |
+| 91 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.16% |
 | 92 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
 | 93 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.01% |
 | 94 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
@@ -110,8 +110,8 @@
 | 108 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.45% |
 | 109 | [Ten Dates](games/t/ten_dates.md) | 1.44% |
 | 110 | [Poosh XL](games/p/poosh_xl.md) | 1.40% |
-| 111 | [Infindustry](games/i/infindustry.md) | 1.27% |
 | 111 | [Late Shift](games/l/late_shift.md) | 1.27% |
+| 112 | [Infindustry](games/i/infindustry.md) | 1.25% |
 | 113 | [Chorus](games/c/chorus.md) | 1.14% |
 | 114 | [Trifox](games/t/trifox.md) | 1.10% |
 | 115 | [A Musical Story](games/a/a_musical_story.md) | 1.08% |
