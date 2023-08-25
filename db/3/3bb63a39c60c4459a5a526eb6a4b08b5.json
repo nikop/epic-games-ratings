@@ -3,7 +3,7 @@
   "Name": "Fly Corp",
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 231,
-  "Ranking_EOS_Completed": 186,
+  "Ranking_EOS_Completed": 188,
   "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 487,
+  "EOS_Progressed": 488,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.21,
+  "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
     {
       "Time": "2023-06-13T17:01:33.4797695+00:00",
@@ -1776,6 +1776,11 @@
       "Time": "2023-08-25T02:19:25.7360103+00:00",
       "NumProgressed": 487,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-25T07:05:29.4971279+00:00",
+      "NumProgressed": 488,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -1801,9 +1806,9 @@
       "ID": "BasicControls",
       "SetID": "1e89b4i",
       "Name": "Basic Controls",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 278
+      "UsersEstimate": 283
     },
     {
       "ID": "BigPlane",
@@ -1811,7 +1816,7 @@
       "Name": "Expensive Plane",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "BudgetFlight",
@@ -1955,7 +1960,7 @@
       "Name": "Long Distances",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ManagementMaster",
@@ -1979,7 +1984,7 @@
       "Name": "Millionaire",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "NewRecord",
@@ -1995,7 +2000,7 @@
       "Name": "No Time for Modernization",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "NoWayBack",
@@ -2122,14 +2127,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 487,
+      "Progressed": 488,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-08-25T06:04:26.5908281+00:00",
+  "LastChanged_Achievements": "2023-08-25T07:05:29.4971272+00:00",
   "LastUpdate_AppInfo": "2023-08-22T10:56:57.2309265+00:00",
-  "LastUpdate_Ratings": "2023-08-25T05:59:54.6870151+00:00",
-  "LastUpdate_Achievements": "2023-08-25T06:04:26.5908735+00:00"
+  "LastUpdate_Ratings": "2023-08-25T07:00:44.2572587+00:00",
+  "LastUpdate_Achievements": "2023-08-25T07:05:29.4972031+00:00"
 }

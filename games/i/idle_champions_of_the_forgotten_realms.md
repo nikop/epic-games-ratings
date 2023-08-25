@@ -77,6 +77,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Moose Tracks | 0.20% | ~382 |
 | Pure Energy | 0.20% | ~450 |
 | The Templar's Camp | 0.20% | ~450 |
+| Rescue in the Jungle | 0.20% | ~450 |
 | Rocky Reception | 0.20% | ~382 |
 | Rock and Roll | 0.20% | ~382 |
 | Flight of the Kindori Pod | 0.20% | ~382 |
@@ -501,7 +502,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Haunted Jungle | 0.10% | ~225 |
 | Poor Guidance | 0.10% | ~225 |
 | Overwhelming Force | 0.10% | ~225 |
-| Rescue in the Jungle | 0.10% | ~225 |
 | The Court of Storms | 0.10% | ~191 |
 | Coasting to the Finish | 0.10% | ~191 |
 | Beware the Jabberwock | 0.10% | ~191 |
@@ -523,8 +523,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~191 |
 | Animated Giff | 0.10% | ~191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,753 (Ranked 53)  
-Completed: 2,212 (0.98%) (Ranked 122)  
+Progressed: 224,757 (Ranked 53)  
+Completed: 2,213 (0.98%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -650,7 +650,7 @@ Completed: 2,212 (0.98%) (Ranked 122)
 | 2023-08-22 | 224,213 | 2,207 |
 | 2023-08-23 | 224,434 | 2,210 |
 | 2023-08-24 | 224,686 | 2,211 |
-| 2023-08-25 | 224,753 | 2,212 |
+| 2023-08-25 | 224,757 | 2,213 |
 ## Awards
 Max (Diverse Characters): 5,182  (Ranked 68)  
 Sum: 31,201 (Ranked 39)  

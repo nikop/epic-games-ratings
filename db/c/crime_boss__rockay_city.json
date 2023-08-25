@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 225,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -3132,7 +3132,7 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 72291,
+  "EOS_Progressed": 72292,
   "EOS_Completed": 41,
   "EOS_NewPlayers": 327,
   "EOS_NewCompleters": 1,
@@ -16332,6 +16332,11 @@
       "Time": "2023-08-25T06:08:40.8730442+00:00",
       "NumProgressed": 72291,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-08-25T07:09:48.2360172+00:00",
+      "NumProgressed": 72292,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 37,
@@ -16351,7 +16356,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 20964
+      "UsersEstimate": 20965
     },
     {
       "ID": "ACH_0012",
@@ -16415,7 +16420,7 @@
       "Name": "Savvy Seeker",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 4337
+      "UsersEstimate": 4338
     },
     {
       "ID": "ACH_0040",
@@ -16487,7 +16492,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 46989
+      "UsersEstimate": 46990
     },
     {
       "ID": "ACH_0210",
@@ -16495,7 +16500,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 53495
+      "UsersEstimate": 53496
     },
     {
       "ID": "ACH_0211",
@@ -16607,7 +16612,7 @@
       "Name": "Raider\u2019s Ruin",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 12289
+      "UsersEstimate": 12290
     },
     {
       "ID": "ACH_0452",
@@ -16615,7 +16620,7 @@
       "Name": "Dragonslayer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 12289
+      "UsersEstimate": 12290
     },
     {
       "ID": "ACH_0460",
@@ -16638,22 +16643,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 72291,
+      "Progressed": 72292,
       "Completed": 41
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 638,
-      "Completed": 638
+      "Progressed": 639,
+      "Completed": 639
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-08-24T14:58:02.4279265+00:00",
-  "LastChanged_Achievements": "2023-08-25T06:08:40.8730438+00:00",
+  "LastChanged_Achievements": "2023-08-25T07:09:48.2360162+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:48.5211502+00:00",
-  "LastUpdate_Ratings": "2023-08-25T05:58:33.5611226+00:00",
-  "LastUpdate_Achievements": "2023-08-25T06:08:40.87316+00:00"
+  "LastUpdate_Ratings": "2023-08-25T06:58:56.0349948+00:00",
+  "LastUpdate_Achievements": "2023-08-25T07:09:48.2362201+00:00"
 }

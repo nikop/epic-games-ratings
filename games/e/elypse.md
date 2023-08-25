@@ -13,7 +13,7 @@
 | Splash! | 55.00% | ~48 |
 | Masochistic | 54.00% | ~47 |
 | Soft skin | 48.00% | ~42 |
-| Squid game | 40.00% | ~35 |
+| Squid game | 41.00% | ~36 |
 | Sensitive soul | 34.00% | ~30 |
 | Hard Rock | 32.00% | ~28 |
 | Rock Solid | 31.00% | ~27 |
@@ -25,9 +25,9 @@
 | Bookworm | 24.00% | ~21 |
 | Payback | 23.00% | ~20 |
 | Nokron tower | 22.00% | ~19 |
+| Magnitude 5 | 22.00% | ~19 |
 | Full power | 21.00% | ~18 |
 | "Ah sh*t... Here we go again!" | 21.00% | ~18 |
-| Magnitude 5 | 21.00% | ~18 |
 | Compulsive hoarder | 20.00% | ~17 |
 | GG EZ | 15.00% | ~13 |
 | Comeback | 15.00% | ~13 |

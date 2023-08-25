@@ -22,15 +22,15 @@ Number of Ratings: 285  (23.09.2022)
 | Horder Better Faster Stronger | 1.00% | ~9 |
 | Season Finale | 1.00% | ~9 |
 | Spending Spree | 1.00% | ~9 |
-| The Harder They Fall | 0.90% | ~8 |
-| Next Time on MythForce... | 0.90% | ~8 |
-| On this Episode! | 0.90% | ~8 |
+| The Harder They Fall | 0.80% | ~8 |
+| Next Time on MythForce... | 0.80% | ~8 |
+| On this Episode! | 0.80% | ~8 |
 | The Fourth Gate | 0.70% | ~7 |
 | We've Got a Kaiju on the Field | 0.20% | ~2 |
 | Deadalus and Loving It | 0.00% | ~0 |
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 941 (Ranked 205)  
+Progressed: 942 (Ranked 205)  
 Completed: 0 (0.00%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 0 (0.00%) (Ranked 263)
 | 2023-08-22 | 909 | 0 |
 | 2023-08-23 | 925 | 0 |
 | 2023-08-24 | 937 | 0 |
-| 2023-08-25 | 941 | 0 |
+| 2023-08-25 | 942 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 456)  
 Sum: 254 (Ranked 353)  

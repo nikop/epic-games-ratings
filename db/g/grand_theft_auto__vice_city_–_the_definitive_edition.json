@@ -3,12 +3,12 @@
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
   "Ranking_Rating": 500,
-  "Ranking_Popularity": 381,
-  "Ranking_PopularitySum": 439,
+  "Ranking_Popularity": 379,
+  "Ranking_PopularitySum": 436,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 147,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -584,21 +584,27 @@
       "Rating": 4.54,
       "NumberOfAwards": 68,
       "NumberOfAwardsMax": 68
+    },
+    {
+      "Time": "2023-08-25T07:03:02.1151119+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 70,
+      "NumberOfAwardsMax": 70
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 68,
-  "NumberOfAwardsMax": 68,
+  "NumberOfAwards": 70,
+  "NumberOfAwardsMax": 70,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 68
+      "Count": 70
     }
   ],
-  "EOS_Progressed": 9766,
+  "EOS_Progressed": 9767,
   "EOS_Completed": 49,
   "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 1,
@@ -8753,6 +8759,11 @@
       "Time": "2023-08-25T04:07:45.4217348+00:00",
       "NumProgressed": 9766,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-08-25T07:09:01.8511952+00:00",
+      "NumProgressed": 9767,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -9035,16 +9046,16 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9766,
+      "Progressed": 9767,
       "Completed": 49
     }
   ],
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
-  "LastChanged": "2023-08-24T22:01:36.6120247+00:00",
-  "LastChanged_Achievements": "2023-08-25T06:07:52.5302509+00:00",
+  "LastChanged": "2023-08-25T07:03:02.1151116+00:00",
+  "LastChanged_Achievements": "2023-08-25T07:09:01.8511946+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:19.3350346+00:00",
-  "LastUpdate_Ratings": "2023-08-25T06:01:38.6287625+00:00",
-  "LastUpdate_Achievements": "2023-08-25T06:07:52.530334+00:00"
+  "LastUpdate_Ratings": "2023-08-25T07:03:02.1151127+00:00",
+  "LastUpdate_Achievements": "2023-08-25T07:09:01.8513333+00:00"
 }

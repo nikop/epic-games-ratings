@@ -6,28 +6,28 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~368,069 |
-| Now You're Talking | 62.00% | ~326,004 |
-| Steel Yourself | 62.00% | ~326,004 |
-| Window Dressing | 50.00% | ~262,906 |
-| Trigger Happy | 46.00% | ~241,874 |
-| Riverborn | 45.00% | ~236,616 |
-| Starry Eyed | 34.00% | ~178,776 |
-| Poking Around | 34.00% | ~178,776 |
-| Talk of the Town | 24.00% | ~126,195 |
+| First Step | 70.00% | ~368,070 |
+| Now You're Talking | 62.00% | ~326,005 |
+| Steel Yourself | 62.00% | ~326,005 |
+| Window Dressing | 50.00% | ~262,908 |
+| Trigger Happy | 46.00% | ~241,875 |
+| Riverborn | 45.00% | ~236,617 |
+| Starry Eyed | 34.00% | ~178,777 |
+| Poking Around | 34.00% | ~178,777 |
+| Talk of the Town | 24.00% | ~126,196 |
 | AAARR! | 23.00% | ~120,937 |
 | Hello Darkness | 23.00% | ~120,937 |
 | Wind At Our Backs | 22.00% | ~115,679 |
 | To the Beat | 20.00% | ~105,163 |
-| Sunny Shores | 17.00% | ~89,388 |
+| Sunny Shores | 17.00% | ~89,389 |
 | Sunday Best | 16.00% | ~84,130 |
 | To Victory! | 15.00% | ~78,872 |
 | Two of a Kind | 14.00% | ~73,614 |
 | Keep On Trucking | 13.00% | ~68,356 |
-| Going on an Adventure | 11.00% | ~57,839 |
-| Make Peace, Not War | 11.00% | ~57,839 |
-| Walking The Line | 10.00% | ~52,581 |
-| Not So Cute Anymore | 10.00% | ~52,581 |
+| Going on an Adventure | 11.00% | ~57,840 |
+| Make Peace, Not War | 11.00% | ~57,840 |
+| Walking The Line | 10.00% | ~52,582 |
+| Not So Cute Anymore | 10.00% | ~52,582 |
 | Road Less Travelled | 9.00% | ~47,323 |
 | Lost and Found | 9.00% | ~47,323 |
 | Under the Radar | 8.00% | ~42,065 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,577 |
 | Point Taken | 0.10% | ~526 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 525,813 (Ranked 31)  
+Progressed: 525,815 (Ranked 31)  
 Completed: 463 (0.09%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 463 (0.09%) (Ranked 214)
 | 2023-08-22 | 525,651 | 463 |
 | 2023-08-23 | 525,721 | 463 |
 | 2023-08-24 | 525,790 | 463 |
-| 2023-08-25 | 525,813 | 463 |
+| 2023-08-25 | 525,815 | 463 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -6416,9 +6416,9 @@
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
       "SetID": "bm6el81",
       "Name": "Die Nussknacker Sweet!",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 458
+      "UsersEstimate": 494
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -6783,8 +6783,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-08-19T13:59:32.9786794+00:00",
-  "LastChanged_Achievements": "2023-08-25T06:05:56.7999589+00:00",
+  "LastChanged_Achievements": "2023-08-25T07:07:02.5081493+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:38.9761253+00:00",
-  "LastUpdate_Ratings": "2023-08-25T05:59:43.5610074+00:00",
-  "LastUpdate_Achievements": "2023-08-25T06:05:56.8000924+00:00"
+  "LastUpdate_Ratings": "2023-08-25T07:00:21.2385012+00:00",
+  "LastUpdate_Achievements": "2023-08-25T07:07:02.5082585+00:00"
 }

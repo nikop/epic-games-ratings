@@ -1,49 +1,49 @@
 # Dying Light 2 Stay Human
 [Store](https://store.epicgames.com/en-US/p/dying-light-2-stay-human)  
 [View Rawdata](../../db/d/dying_light_2_stay_human.json)  
-Rating: 4.58 (Ranked 428)  
+Rating: 4.57 (Ranked 450)  
 Number of Ratings: 7,305  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 39.00% | ~240,078 |
-| Into the Unknown | 36.00% | ~221,610 |
-| First Shot | 36.00% | ~221,610 |
-| Herzlich Wilkommen! | 34.00% | ~209,299 |
-| Good Night & Good Luck | 33.00% | ~203,143 |
-| Sancho Panza | 32.00% | ~196,987 |
-| Oh, So This Is How It Works! | 29.00% | ~178,519 |
-| Flag Burning | 27.00% | ~166,208 |
-| Under Pressure | 25.00% | ~153,896 |
-| It Wasn't That Hard, Was It? | 25.00% | ~153,896 |
-| Can't Touch This! | 25.00% | ~153,896 |
-| On the Trail of the Enemy | 24.00% | ~147,740 |
-| Light in the Darkness | 24.00% | ~147,740 |
-| Get Outta My House! | 23.00% | ~141,584 |
-| Night Hunter | 22.00% | ~135,428 |
-| Being All Social | 22.00% | ~135,428 |
-| After the Fall | 20.00% | ~123,117 |
-| We Will Be Heard! | 18.00% | ~110,805 |
-| Tunnel Entrance | 18.00% | ~110,805 |
-| Known Associate | 17.00% | ~104,649 |
-| Brush with Death | 16.00% | ~98,493 |
+| You Never Forget Your First... | 39.00% | ~240,080 |
+| Into the Unknown | 36.00% | ~221,612 |
+| First Shot | 36.00% | ~221,612 |
+| Herzlich Wilkommen! | 34.00% | ~209,301 |
+| Good Night & Good Luck | 33.00% | ~203,145 |
+| Sancho Panza | 32.00% | ~196,989 |
+| Oh, So This Is How It Works! | 29.00% | ~178,521 |
+| Flag Burning | 27.00% | ~166,209 |
+| Under Pressure | 25.00% | ~153,898 |
+| It Wasn't That Hard, Was It? | 25.00% | ~153,898 |
+| Can't Touch This! | 25.00% | ~153,898 |
+| On the Trail of the Enemy | 24.00% | ~147,742 |
+| Light in the Darkness | 24.00% | ~147,742 |
+| Get Outta My House! | 23.00% | ~141,586 |
+| Night Hunter | 22.00% | ~135,430 |
+| Being All Social | 22.00% | ~135,430 |
+| After the Fall | 20.00% | ~123,118 |
+| We Will Be Heard! | 18.00% | ~110,806 |
+| Tunnel Entrance | 18.00% | ~110,806 |
+| Known Associate | 17.00% | ~104,650 |
+| Brush with Death | 16.00% | ~98,494 |
 | Debris and Ashes | 15.00% | ~92,338 |
 | Going Down | 15.00% | ~92,338 |
 | Family First | 15.00% | ~92,338 |
 | Your World, Your Rules | 15.00% | ~92,338 |
-| Death From Afar | 14.00% | ~86,182 |
-| Terminal Headache | 14.00% | ~86,182 |
-| Slowpoke! | 12.00% | ~73,870 |
+| Death From Afar | 14.00% | ~86,183 |
+| Terminal Headache | 14.00% | ~86,183 |
+| Slowpoke! | 12.00% | ~73,871 |
 | Tickets, Please! | 7.00% | ~43,091 |
 | Parkour Master | 6.00% | ~36,935 |
 | Combat Master | 6.00% | ~36,935 |
-| Municipal Services | 5.00% | ~30,779 |
-| Ban Hammer | 5.00% | ~30,779 |
-| Modder | 5.00% | ~30,779 |
-| Tube Map | 4.00% | ~24,623 |
-| Don Quixote | 4.00% | ~24,623 |
-| Can't You Read the Signs? | 4.00% | ~24,623 |
-| Boot Licker | 4.00% | ~24,623 |
+| Municipal Services | 5.00% | ~30,780 |
+| Ban Hammer | 5.00% | ~30,780 |
+| Modder | 5.00% | ~30,780 |
+| Tube Map | 4.00% | ~24,624 |
+| Don Quixote | 4.00% | ~24,624 |
+| Can't You Read the Signs? | 4.00% | ~24,624 |
+| Boot Licker | 4.00% | ~24,624 |
 | Tanning Salon | 3.00% | ~18,468 |
 | That's Teamwork! | 3.00% | ~18,468 |
 | Ironheart | 3.00% | ~18,468 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~261 |
 | Connoisseur | 0.10% | ~261 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 615,584 (Ranked 27)  
+Progressed: 615,590 (Ranked 27)  
 Completed: 62 (0.01%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 62 (0.01%) (Ranked 250)
 | 2023-08-22 | 614,803 | 62 |
 | 2023-08-23 | 615,159 | 62 |
 | 2023-08-24 | 615,509 | 62 |
-| 2023-08-25 | 615,584 | 62 |
+| 2023-08-25 | 615,590 | 62 |
 ## Awards
 Max (Character Customization): 8,876  (Ranked 39)  
 Sum: 21,319 (Ranked 54)  
@@ -446,3 +446,4 @@ Diff (max vs sum): -15
 | 2023-08-22 | 4.58 | - | 8,856 | 21,268 |
 | 2023-08-23 | 4.58 | - | 8,863 | 21,286 |
 | 2023-08-24 | 4.58 | - | 8,876 | 21,319 |
+| 2023-08-25 | 4.57 | - | 8,876 | 21,319 |

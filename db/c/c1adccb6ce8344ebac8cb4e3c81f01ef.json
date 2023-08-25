@@ -2,10 +2,10 @@
   "ID": "c1adccb6ce8344ebac8cb4e3c81f01ef",
   "Name": "Evalina The Sorceress",
   "ProductSlug": "evalinathe-sorceress-a9a60a",
-  "Ranking_EOS_Progress": 280,
+  "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 89,
-  "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-06-20T08:00:00+00:00",
     "PcReleaseDate": "2023-06-20T08:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253,
+  "EOS_Progressed": 255,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.37,
+  "EOS_Completed_Percentage": 2.35,
   "EosHistory": [
     {
       "Time": "2023-06-26T21:03:11.1861868+00:00",
@@ -841,6 +841,11 @@
       "Time": "2023-08-25T06:03:24.8839607+00:00",
       "NumProgressed": 253,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-08-25T07:04:36.4735927+00:00",
+      "NumProgressed": 255,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-06-26T21:03:11.1861911+00:00",
@@ -875,9 +880,9 @@
       "ID": "OrangeSkeleton",
       "SetID": "a76l54k",
       "Name": "Orange Skeleton",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 104
+      "UsersEstimate": 107
     },
     {
       "ID": "RedSkeleton",
@@ -885,7 +890,7 @@
       "Name": "Red Skeleton",
       "Percentage": 59,
       "XP": 100,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "YellowSkeleton",
@@ -893,21 +898,21 @@
       "Name": "Yellow Skeleton",
       "Percentage": 16,
       "XP": 200,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     }
   ],
   "AchievementSets": [
     {
       "ID": "a76l54k",
       "IsBase": true,
-      "Progressed": 253,
+      "Progressed": 255,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-06-27T08:56:55.4742028+00:00",
   "FirstSeenAchievements": "2023-06-15T10:01:05.3060571+00:00",
-  "LastChanged_Achievements": "2023-08-25T06:03:24.8839599+00:00",
+  "LastChanged_Achievements": "2023-08-25T07:04:36.4735917+00:00",
   "LastUpdate_AppInfo": "2023-08-24T17:57:03.5736235+00:00",
-  "LastUpdate_Ratings": "2023-08-25T05:59:44.819779+00:00",
-  "LastUpdate_Achievements": "2023-08-25T06:03:24.8839757+00:00"
+  "LastUpdate_Ratings": "2023-08-25T07:00:27.3072744+00:00",
+  "LastUpdate_Achievements": "2023-08-25T07:04:36.4736242+00:00"
 }

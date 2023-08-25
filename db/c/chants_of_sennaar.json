@@ -3,8 +3,8 @@
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 365,
-  "Ranking_EOS_Completed": 40,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_Completed": 42,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -17,11 +17,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 58,
+  "EOS_Progressed": 59,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.9,
+  "EOS_Completed_Percentage": 6.78,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -322,6 +322,11 @@
       "Time": "2023-08-22T13:12:25.9458395+00:00",
       "NumProgressed": 58,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-25T07:09:18.7676405+00:00",
+      "NumProgressed": 59,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 25,
@@ -347,7 +352,7 @@
       "ID": "META_ALL_LINK",
       "SetID": "2gma9an",
       "Name": "Peace walker",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 100,
       "UsersEstimate": 5
     },
@@ -355,7 +360,7 @@
       "ID": "META_ALL_TERMINAL",
       "SetID": "2gma9an",
       "Name": "Cable guy",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 50,
       "UsersEstimate": 9
     },
@@ -363,7 +368,7 @@
       "ID": "META_FIRST_LINK",
       "SetID": "2gma9an",
       "Name": "A good beginning",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
       "UsersEstimate": 9
     },
@@ -371,7 +376,7 @@
       "ID": "META_HALF_LINK",
       "SetID": "2gma9an",
       "Name": "Half the way",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -379,7 +384,7 @@
       "ID": "META_RESULT_1-2",
       "SetID": "2gma9an",
       "Name": "Open door",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -443,7 +448,7 @@
       "ID": "OPTIONNAL_GAMES",
       "SetID": "2gma9an",
       "Name": "True G4M3R",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -532,13 +537,13 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 58,
+      "Progressed": 59,
       "Completed": 4
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-08-25T06:08:08.5967805+00:00",
+  "LastChanged_Achievements": "2023-08-25T07:09:18.7676398+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:34.6386277+00:00",
-  "LastUpdate_Ratings": "2023-08-25T05:57:26.6146314+00:00",
-  "LastUpdate_Achievements": "2023-08-25T06:08:08.5968025+00:00"
+  "LastUpdate_Ratings": "2023-08-25T06:57:42.2965312+00:00",
+  "LastUpdate_Achievements": "2023-08-25T07:09:18.7676738+00:00"
 }

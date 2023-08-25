@@ -6,11 +6,11 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 38.00% | ~23,389 |
-| Let There Be Light | 31.00% | ~19,080 |
+| Follow the Light | 38.00% | ~23,390 |
+| Let There Be Light | 31.00% | ~19,081 |
 | Float Like a Butterfly | 29.00% | ~17,850 |
 | Nordic Walking | 24.00% | ~14,772 |
-| Bright Falls' Finest | 23.00% | ~14,156 |
+| Bright Falls' Finest | 23.00% | ~14,157 |
 | Under a Thin Layer of Skin | 20.00% | ~12,310 |
 | Park Ranger | 17.00% | ~10,464 |
 | Paging Mr. Wake | 17.00% | ~10,464 |
@@ -27,17 +27,17 @@ Number of Ratings: 524  (23.09.2022)
 | Perchance to Dream | 12.00% | ~7,386 |
 | Collateral Carnage | 12.00% | ~7,386 |
 | Come One, Come All | 12.00% | ~7,386 |
-| It's Not Just a Typewriter Brand | 11.00% | ~6,770 |
-| Thunder and Lightning | 11.00% | ~6,770 |
+| It's Not Just a Typewriter Brand | 11.00% | ~6,771 |
+| Thunder and Lightning | 11.00% | ~6,771 |
 | Gatekeeper | 10.00% | ~6,155 |
 | The Lady of the Light | 10.00% | ~6,155 |
 | Two For the Price of One | 10.00% | ~6,155 |
 | Energized! | 10.00% | ~6,155 |
 | Right of Way | 9.00% | ~5,540 |
 | What Light Through Yonder Window | 8.00% | ~4,924 |
-| A Friend in Need | 8.00% | ~2,001 |
-| Tornado Wrangler | 7.00% | ~4,308 |
-| Departure | 7.00% | ~4,308 |
+| A Friend in Need | 8.00% | ~2,002 |
+| Tornado Wrangler | 7.00% | ~4,309 |
+| Departure | 7.00% | ~4,309 |
 | Hardboiled Writer | 6.00% | ~3,693 |
 | A Friend Indeed | 6.00% | ~1,501 |
 | Children of the Elder God | 5.00% | ~3,078 |
@@ -46,7 +46,7 @@ Number of Ratings: 524  (23.09.2022)
 | Boob Tube | 4.00% | ~2,462 |
 | If It Flies, It Burns | 4.00% | ~2,462 |
 | KBF-FM | 4.00% | ~2,462 |
-| Carny | 3.00% | ~1,846 |
+| Carny | 3.00% | ~1,847 |
 | Kill Your Darlings | 3.00% | ~751 |
 | Heartbreaker | 3.00% | ~751 |
 | Medical Opinions | 2.00% | ~1,231 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~62 |
 | No Punctuation | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,550 (Ranked 85)  
+Progressed: 61,552 (Ranked 85)  
 Completed: 65 (0.11%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 65 (0.11%) (Ranked 207)
 | 2023-08-22 | 61,333 | 64 |
 | 2023-08-23 | 61,436 | 65 |
 | 2023-08-24 | 61,526 | 65 |
-| 2023-08-25 | 61,550 | 65 |
+| 2023-08-25 | 61,552 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
