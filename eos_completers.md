@@ -37,7 +37,7 @@
 | 35 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 7.69% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.59% |
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
-| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.02% |
+| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.01% |
 | 39 | [Scorn](games/s/scorn.md) | 7.00% |
 | 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.85% |
 | 41 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.79% |
@@ -88,7 +88,7 @@
 | 86 | [Lamentum](games/l/lamentum.md) | 2.53% |
 | 87 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 88 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.42% |
-| 89 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.32% |
+| 89 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.30% |
 | 90 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.27% |
 | 91 | [Bloodshore](games/b/bloodshore.md) | 2.21% |
 | 92 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
@@ -109,9 +109,9 @@
 | 107 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.46% |
 | 108 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.45% |
 | 109 | [Ten Dates](games/t/ten_dates.md) | 1.44% |
-| 110 | [Poosh XL](games/p/poosh_xl.md) | 1.41% |
-| 111 | [Late Shift](games/l/late_shift.md) | 1.28% |
-| 112 | [Infindustry](games/i/infindustry.md) | 1.27% |
+| 110 | [Poosh XL](games/p/poosh_xl.md) | 1.40% |
+| 111 | [Infindustry](games/i/infindustry.md) | 1.27% |
+| 111 | [Late Shift](games/l/late_shift.md) | 1.27% |
 | 113 | [Chorus](games/c/chorus.md) | 1.14% |
 | 114 | [Trifox](games/t/trifox.md) | 1.10% |
 | 115 | [A Musical Story](games/a/a_musical_story.md) | 1.08% |
