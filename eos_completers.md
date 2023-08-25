@@ -59,7 +59,7 @@
 | 57 | [JARS](games/j/jars.md) | 4.55% |
 | 58 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.40% |
 | 59 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
-| 60 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.11% |
+| 60 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.10% |
 | 61 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.09% |
 | 62 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.98% |
 | 63 | [ZZT!](games/z/zzt!.md) | 3.86% |
@@ -101,7 +101,7 @@
 | 99 | [Frogun](games/f/frogun.md) | 1.80% |
 | 100 | [Somerville](games/s/somerville.md) | 1.66% |
 | 101 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.65% |
-| 102 | [Iron Danger](games/i/iron_danger.md) | 1.58% |
+| 102 | [Iron Danger](games/i/iron_danger.md) | 1.57% |
 | 103 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.56% |
 | 103 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.56% |
 | 105 | [Five Dates](games/f/five_dates.md) | 1.55% |
@@ -126,7 +126,7 @@
 | 124 | [Hades](games/h/hades.md) | 0.90% |
 | 125 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 126 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
-| 127 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.80% |
+| 127 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.81% |
 | 128 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.75% |
 | 129 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.74% |
 | 130 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.72% |
@@ -200,12 +200,12 @@
 | 194 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.16% |
 | 199 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
 | 200 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.14% |
+| 201 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.13% |
 | 201 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.13% |
-| 202 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.12% |
-| 202 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
-| 202 | [Isonzo](games/i/isonzo.md) | 0.12% |
-| 202 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
-| 202 | [Port Royale 4](games/p/port_royale_4.md) | 0.12% |
+| 203 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
+| 203 | [Isonzo](games/i/isonzo.md) | 0.12% |
+| 203 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
+| 203 | [Port Royale 4](games/p/port_royale_4.md) | 0.12% |
 | 207 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.11% |
 | 207 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.11% |
 | 207 | [Ring of Pain](games/r/ring_of_pain.md) | 0.11% |
