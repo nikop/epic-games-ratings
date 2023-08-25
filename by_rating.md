@@ -228,7 +228,7 @@
 | 216 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 0 | 514 |
 | 216 | [Revita](games/r/revita.md) | 4.69 | 0 | 514 |
 | 216 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,370 | 33 |
-| 216 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 264 | 248 |
+| 216 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 264 | 249 |
 | 216 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 27 | 471 |
 | 216 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.69 | 0 | 514 |
 | 216 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 0 | 514 |
@@ -438,7 +438,7 @@
 | 428 | [GRIT](games/g/grit.md) | 4.58 | 0 | 514 |
 | 428 | [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 4.58 | 0 | 514 |
 | 428 | [Moving Out](games/m/moving_out.md) | 4.58 | 21 | 502 |
-| 428 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.58 | 7,046 | 49 |
+| 428 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.58 | 7,080 | 49 |
 | 428 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 1,488 | 122 |
 | 428 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.58 | 0 | 514 |
 | 428 | [Sonic Origins](games/s/sonic_origins.md) | 4.58 | 125 | 313 |
@@ -456,7 +456,7 @@
 | 451 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.57 | 46 | 410 |
 | 451 | [Aztez](games/a/aztez.md) | 4.57 | 0 | 514 |
 | 451 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.57 | 27 | 471 |
-| 451 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.57 | 264 | 248 |
+| 451 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.57 | 268 | 248 |
 | 451 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.57 | 0 | 514 |
 | 451 | [Hob](games/h/hob.md) | 4.57 | 0 | 514 |
 | 451 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 38 | 428 |
@@ -495,7 +495,7 @@
 | 485 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 924 | 151 |
 | 485 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 90 | 351 |
 | 485 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 0 | 514 |
-| 485 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 340 | 227 |
+| 485 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 341 | 227 |
 | 485 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.55 | 79 | 363 |
 | 485 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.55 | 4,345 | 76 |
 | 485 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,244 | 134 |
@@ -616,7 +616,7 @@
 | 595 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.48 | 36 | 433 |
 | 615 | [ATOM RPG](games/a/atom_rpg.md) | 4.47 | 49 | 406 |
 | 615 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.47 | 0 | 514 |
-| 615 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,502 | 87 |
+| 615 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,504 | 86 |
 | 615 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.47 | 0 | 514 |
 | 615 | [Riverbond](games/r/riverbond.md) | 4.47 | 0 | 514 |
 | 615 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 0 | 514 |

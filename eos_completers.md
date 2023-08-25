@@ -9,8 +9,8 @@
 | 7 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
 | 8 | [Overloop](games/o/overloop.md) | 25.00% |
 | 9 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 10 | [Volley Pals](games/v/volley_pals.md) | 23.58% |
-| 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.02% |
+| 10 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.74% |
+| 11 | [Volley Pals](games/v/volley_pals.md) | 23.58% |
 | 12 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 22.81% |
 | 13 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 13 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
@@ -32,12 +32,12 @@
 | 30 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
 | 31 | [Sonic Origins](games/s/sonic_origins.md) | 9.26% |
 | 32 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
-| 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.97% |
+| 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.96% |
 | 34 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.47% |
 | 35 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 7.69% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.59% |
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
-| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.03% |
+| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.02% |
 | 39 | [Scorn](games/s/scorn.md) | 7.00% |
 | 40 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.90% |
 | 41 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.85% |
@@ -557,4 +557,4 @@
 | 263 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 263 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 263 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,109 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,110 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
