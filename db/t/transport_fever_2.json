@@ -3709,9 +3709,9 @@
       "ID": "achShipEarnings",
       "SetID": "dgl390n",
       "Name": "The king of the sea",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 461
+      "UsersEstimate": 477
     },
     {
       "ID": "achSmellOfSuccess",
@@ -3797,8 +3797,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-08-17T14:57:18.7494823+00:00",
-  "LastChanged_Achievements": "2023-08-25T22:07:20.1129323+00:00",
+  "LastChanged_Achievements": "2023-08-25T23:08:30.4432747+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:42.2047578+00:00",
-  "LastUpdate_Ratings": "2023-08-25T21:58:02.6920727+00:00",
-  "LastUpdate_Achievements": "2023-08-25T22:07:20.1130096+00:00"
+  "LastUpdate_Ratings": "2023-08-25T22:58:41.7961376+00:00",
+  "LastUpdate_Achievements": "2023-08-25T23:08:30.4433396+00:00"
 }

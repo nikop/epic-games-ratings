@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 264,
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_NewPlayers": 70,
   "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
@@ -1269,9 +1269,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 22350,
+  "EOS_Progressed": 22352,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 595,
+  "EOS_NewPlayers": 591,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -14874,6 +14874,11 @@
       "Time": "2023-08-25T21:06:09.042154+00:00",
       "NumProgressed": 22350,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-08-25T23:05:27.9436203+00:00",
+      "NumProgressed": 22352,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 22,
@@ -14949,7 +14954,7 @@
       "Name": "What is Dead may Never Die",
       "Percentage": 3,
       "XP": 65,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "1024",
@@ -15021,7 +15026,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 8940
+      "UsersEstimate": 8941
     },
     {
       "ID": "1033",
@@ -15029,7 +15034,7 @@
       "Name": "The Swift",
       "Percentage": 3,
       "XP": 120,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "1034",
@@ -15060,15 +15065,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 22350,
+      "Progressed": 22352,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-08-02T00:02:09.7226533+00:00",
-  "LastChanged_Achievements": "2023-08-25T22:04:29.1422155+00:00",
+  "LastChanged_Achievements": "2023-08-25T23:05:27.9436196+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:15.4307048+00:00",
-  "LastUpdate_Ratings": "2023-08-25T21:58:42.8627739+00:00",
-  "LastUpdate_Achievements": "2023-08-25T22:04:29.1423148+00:00"
+  "LastUpdate_Ratings": "2023-08-25T22:59:34.2826589+00:00",
+  "LastUpdate_Achievements": "2023-08-25T23:05:27.9437039+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -174,9 +174,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1404,
+  "EOS_Progressed": 1405,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -1564,6 +1564,11 @@
       "Time": "2023-08-25T18:05:21.7998629+00:00",
       "NumProgressed": 1404,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-25T23:06:25.766149+00:00",
+      "NumProgressed": 1405,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -1623,7 +1628,7 @@
       "Name": "Back to rust",
       "Percentage": 12,
       "XP": 70,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "16",
@@ -1639,7 +1644,7 @@
       "Name": "Balding bloot!",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "18",
@@ -1663,7 +1668,7 @@
       "Name": "Flower Powered",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "20",
@@ -1814,15 +1819,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1404,
+      "Progressed": 1405,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-08-10T12:01:06.704766+00:00",
-  "LastChanged_Achievements": "2023-08-25T22:05:20.1638075+00:00",
+  "LastChanged_Achievements": "2023-08-25T23:06:25.7661484+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:59.8230708+00:00",
-  "LastUpdate_Ratings": "2023-08-25T21:57:31.6463907+00:00",
-  "LastUpdate_Achievements": "2023-08-25T22:05:20.1638358+00:00"
+  "LastUpdate_Ratings": "2023-08-25T22:58:01.5382396+00:00",
+  "LastUpdate_Achievements": "2023-08-25T23:06:25.7661778+00:00"
 }

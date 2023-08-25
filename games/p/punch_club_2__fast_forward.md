@@ -47,10 +47,10 @@
 | GYM professional | 39.00% | ~104 |
 | Poisoned fighter | 39.00% | ~104 |
 | Underground dwellers | 39.00% | ~104 |
+| Mom got better | 38.00% | ~101 |
 | Deal with life | 38.00% | ~101 |
 | Get out of my apartment! | 38.00% | ~101 |
-| Mom got better | 37.00% | ~98 |
-| The die is cast | 37.00% | ~98 |
+| The die is cast | 38.00% | ~101 |
 | Seashell hunter | 36.00% | ~96 |
 | Gang wrangler | 35.00% | ~93 |
 | Problems of cyborgs | 35.00% | ~93 |

@@ -6,11 +6,11 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 24.00% | ~52,129 |
-| Alt+F4 | 3.00% | ~6,516 |
-| Déjà vu | 2.00% | ~4,344 |
-| Where's that freaking Dwarf? | 2.00% | ~4,344 |
-| Sock! SOCK! | 2.00% | ~4,344 |
+| Sowwy! | 24.00% | ~52,134 |
+| Alt+F4 | 3.00% | ~6,517 |
+| Déjà vu | 2.00% | ~4,345 |
+| Where's that freaking Dwarf? | 2.00% | ~4,345 |
+| Sock! SOCK! | 2.00% | ~4,345 |
 | A beer, two curses, three companions | 1.00% | ~2,172 |
 | GG EZ | 1.00% | ~2,172 |
 | DM intervention | 1.00% | ~2,172 |
@@ -20,16 +20,16 @@ Number of Ratings: 118  (23.09.2022)
 | Way of the Wimp | 0.90% | ~1,955 |
 | The plot thickens... At the tavern | 0.90% | ~1,955 |
 | Oh, when I'll be level 10... | 0.80% | ~1,738 |
-| The demons' feast | 0.70% | ~1,520 |
-| The Great Library | 0.70% | ~1,520 |
-| Torture and Sensibility | 0.70% | ~1,520 |
-| Urik's Depths | 0.70% | ~1,520 |
-| The Dungeon Master | 0.70% | ~1,520 |
-| The Statuette of Gladeulfeurah | 0.70% | ~1,520 |
-| The Woman in the High Castle | 0.70% | ~1,520 |
-| A tale of adventurers not quite like the others... | 0.70% | ~1,520 |
-| %#*!$*! | 0.70% | ~1,520 |
-| Team Building Exercise | 0.70% | ~1,520 |
+| The demons' feast | 0.70% | ~1,521 |
+| The Great Library | 0.70% | ~1,521 |
+| Torture and Sensibility | 0.70% | ~1,521 |
+| Urik's Depths | 0.70% | ~1,521 |
+| The Dungeon Master | 0.70% | ~1,521 |
+| The Statuette of Gladeulfeurah | 0.70% | ~1,521 |
+| The Woman in the High Castle | 0.70% | ~1,521 |
+| A tale of adventurers not quite like the others... | 0.70% | ~1,521 |
+| %#*!$*! | 0.70% | ~1,521 |
+| Team Building Exercise | 0.70% | ~1,521 |
 | Shiny and Crôm | 0.60% | ~1,303 |
 | The beards of change | 0.60% | ~1,303 |
 | The Ranger of Chaos | 0.60% | ~1,303 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~217 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,203 (Ranked 56)  
+Progressed: 217,227 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 2 (0.00%) (Ranked 263)
 | 2023-08-22 | 216,036 | 2 |
 | 2023-08-23 | 216,367 | 2 |
 | 2023-08-24 | 216,781 | 2 |
-| 2023-08-25 | 217,203 | 2 |
+| 2023-08-25 | 217,227 | 2 |
 ## Awards
 Max (Character Customization): 176  (Ranked 284)  
 Sum: 220 (Ranked 363)  

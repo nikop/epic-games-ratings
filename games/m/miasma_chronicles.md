@@ -5,35 +5,35 @@ Rating: 4.43 (Ranked 663)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,265 |
-| Ranidaphobia | 78.00% | ~1,072 |
-| Aspiring Editor | 75.00% | ~1,031 |
-| Gun for Hire | 70.00% | ~962 |
-| I am the law! | 64.00% | ~880 |
+| First Blood | 92.00% | ~1,266 |
+| Ranidaphobia | 78.00% | ~1,073 |
+| Aspiring Editor | 75.00% | ~1,032 |
+| Gun for Hire | 70.00% | ~963 |
+| I am the law! | 64.00% | ~881 |
 | Lumberjack | 53.00% | ~729 |
 | Croaked | 49.00% | ~674 |
 | Limp Richard | 48.00% | ~660 |
 | Exorcist | 48.00% | ~660 |
 | From Darkness to Light | 48.00% | ~660 |
-| Editor Adept | 47.00% | ~646 |
+| Editor Adept | 47.00% | ~647 |
 | Giant Killer | 45.00% | ~619 |
 | Sensei | 44.00% | ~605 |
 | Firestarter | 42.00% | ~578 |
 | The meaning of Kain | 41.00% | ~564 |
 | Technophobe | 40.00% | ~550 |
-| Recycler | 39.00% | ~536 |
-| Are you not entertained? | 35.00% | ~481 |
-| Jarhead | 35.00% | ~481 |
+| Recycler | 39.00% | ~537 |
+| Are you not entertained? | 35.00% | ~482 |
+| Jarhead | 35.00% | ~482 |
 | Ganglord | 34.00% | ~468 |
 | Infiltrator | 34.00% | ~468 |
 | Pushing Daisy | 32.00% | ~440 |
-| Experienced | 31.00% | ~426 |
-| Hold The Line | 30.00% | ~412 |
-| Endgame | 27.00% | ~371 |
+| Experienced | 31.00% | ~427 |
+| Hold The Line | 30.00% | ~413 |
+| Endgame | 27.00% | ~372 |
 | Savior | 26.00% | ~358 |
 | There Can Be Only One! | 26.00% | ~358 |
 | Chain Killer | 23.00% | ~316 |
-| The Watchers | 22.00% | ~302 |
+| The Watchers | 22.00% | ~303 |
 | Silent but Violent | 19.00% | ~261 |
 | Commando | 17.00% | ~234 |
 | Chaos Theory | 16.00% | ~220 |
@@ -57,7 +57,7 @@ Rating: 4.43 (Ranked 663)
 | QA Has Suffered! (Redux) | 0.80% | ~11 |
 | Goaaaaal! | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,375 (Ranked 188)  
+Progressed: 1,376 (Ranked 188)  
 Completed: 0 (0.00%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 0 (0.00%) (Ranked 263)
 | 2023-08-20 | 1,371 | 0 |
 | 2023-08-22 | 1,372 | 0 |
 | 2023-08-24 | 1,373 | 0 |
-| 2023-08-25 | 1,375 | 0 |
+| 2023-08-25 | 1,376 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

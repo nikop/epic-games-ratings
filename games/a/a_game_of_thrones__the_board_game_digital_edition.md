@@ -6,7 +6,7 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~8,940 |
+| Conqueror | 40.00% | ~8,941 |
 | Battering Crew | 20.00% | ~4,470 |
 | The Kingsroad | 18.00% | ~4,023 |
 | Well Stocked | 14.00% | ~3,129 |
@@ -24,12 +24,12 @@ Number of Ratings: 2,500  (23.09.2022)
 | Hear me Roar! | 6.00% | ~1,341 |
 | Defender of the Wall | 6.00% | ~1,341 |
 | Growing Strong | 5.00% | ~1,118 |
-| What is Dead may Never Die | 3.00% | ~670 |
-| The Swift | 3.00% | ~670 |
+| What is Dead may Never Die | 3.00% | ~671 |
+| The Swift | 3.00% | ~671 |
 | King in the North | 2.00% | ~447 |
 | War of the Five Kings | 1.00% | ~224 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,350 (Ranked 106)  
+Progressed: 22,352 (Ranked 106)  
 Completed: 47 (0.21%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 47 (0.21%) (Ranked 186)
 | 2023-08-22 | 22,094 | 46 |
 | 2023-08-23 | 22,171 | 46 |
 | 2023-08-24 | 22,258 | 46 |
-| 2023-08-25 | 22,350 | 47 |
+| 2023-08-25 | 22,352 | 47 |
 ## Awards
 Max (Quickly Understood Controls): 123  (Ranked 316)  
 Sum: 786 (Ranked 264)  

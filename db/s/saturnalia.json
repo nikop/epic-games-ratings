@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -248,7 +248,7 @@
   "Tags": [],
   "EOS_Progressed": 65838,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -8621,9 +8621,9 @@
       "ID": "ACH_CHURCHCANDLES",
       "SetID": "6ccjg6f",
       "Name": "Bless me Father...",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 527
+      "UsersEstimate": 593
     },
     {
       "ID": "ACH_CLAUDIAMISSION",
@@ -8774,8 +8774,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-08-21T22:59:54.6231731+00:00",
-  "LastChanged_Achievements": "2023-08-25T22:07:28.5765544+00:00",
+  "LastChanged_Achievements": "2023-08-25T23:08:40.320251+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:58:01.6614907+00:00",
-  "LastUpdate_Ratings": "2023-08-25T22:00:05.4998268+00:00",
-  "LastUpdate_Achievements": "2023-08-25T22:07:28.5766199+00:00"
+  "LastUpdate_Ratings": "2023-08-25T23:01:14.0470399+00:00",
+  "LastUpdate_Achievements": "2023-08-25T23:08:40.3203075+00:00"
 }

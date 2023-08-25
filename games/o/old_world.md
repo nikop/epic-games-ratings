@@ -6,7 +6,7 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Clergy | 4.00% | ~542 |
+| The Clergy | 4.00% | ~543 |
 | Explorer | 3.00% | ~407 |
 | Intrepid | 3.00% | ~407 |
 | Settler | 3.00% | ~407 |
@@ -78,19 +78,19 @@ Number of Ratings: 1,307  (23.09.2022)
 | Beloved | 0.90% | ~122 |
 | Mighty | 0.90% | ~122 |
 | Victorious | 0.90% | ~122 |
-| Conqueror | 0.80% | ~108 |
-| Lion | 0.80% | ~108 |
-| Patrons | 0.80% | ~108 |
-| Statesmen | 0.80% | ~108 |
-| Traders | 0.80% | ~108 |
-| Temple of Solomon | 0.80% | ~108 |
-| Pantheon | 0.80% | ~108 |
-| Via Recta Souk | 0.80% | ~108 |
-| Persian Paganism | 0.80% | ~108 |
-| Building Wonders | 0.80% | ~108 |
-| Economic Reform | 0.80% | ~108 |
-| Legalism | 0.80% | ~108 |
-| Phalangite | 0.80% | ~108 |
+| Conqueror | 0.80% | ~109 |
+| Lion | 0.80% | ~109 |
+| Patrons | 0.80% | ~109 |
+| Statesmen | 0.80% | ~109 |
+| Traders | 0.80% | ~109 |
+| Temple of Solomon | 0.80% | ~109 |
+| Pantheon | 0.80% | ~109 |
+| Via Recta Souk | 0.80% | ~109 |
+| Persian Paganism | 0.80% | ~109 |
+| Building Wonders | 0.80% | ~109 |
+| Economic Reform | 0.80% | ~109 |
+| Legalism | 0.80% | ~109 |
+| Phalangite | 0.80% | ~109 |
 | Invincible | 0.70% | ~95 |
 | Subjugator | 0.70% | ~95 |
 | Good Difficulty | 0.70% | ~95 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,562 (Ranked 119)  
+Progressed: 13,563 (Ranked 119)  
 Completed: 5 (0.04%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -430,7 +430,7 @@ Completed: 5 (0.04%) (Ranked 233)
 | 2023-08-22 | 13,532 | 5 |
 | 2023-08-23 | 13,540 | 5 |
 | 2023-08-24 | 13,546 | 5 |
-| 2023-08-25 | 13,562 | 5 |
+| 2023-08-25 | 13,563 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,799 (Ranked 208)  

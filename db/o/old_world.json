@@ -1647,9 +1647,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13562,
+  "EOS_Progressed": 13563,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10232,6 +10232,11 @@
       "Time": "2023-08-25T21:08:38.4927674+00:00",
       "NumProgressed": 13562,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-25T23:08:06.0412201+00:00",
+      "NumProgressed": 13563,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -10643,7 +10648,7 @@
       "Name": "Conqueror",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_DESTROYER",
@@ -10779,7 +10784,7 @@
       "Name": "Lion",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MAGNIFICENT",
@@ -11115,7 +11120,7 @@
       "Name": "Patrons",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_RIDERS",
@@ -11139,7 +11144,7 @@
       "Name": "Statesmen",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_TRADERS",
@@ -11147,7 +11152,7 @@
       "Name": "Traders",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FRIENDLY",
@@ -11627,7 +11632,7 @@
       "Name": "Temple of Solomon",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_MANICHAEISM",
@@ -11699,7 +11704,7 @@
       "Name": "Pantheon",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_PYRAMIDS",
@@ -11715,7 +11720,7 @@
       "Name": "Via Recta Souk",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACHIEVEMENT_KNOWLEDGE_ANCIENTS",
@@ -12091,7 +12096,7 @@
       "Name": "Persian Paganism",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_ROME",
@@ -12147,7 +12152,7 @@
       "Name": "Building Wonders",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_CITIES_CAPTURED",
@@ -12179,7 +12184,7 @@
       "Name": "Economic Reform",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACHIEVEMENT_TECH_INDUSTRIAL_PROGRESS",
@@ -12227,7 +12232,7 @@
       "Name": "Legalism",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_MYTHOLOGY",
@@ -12323,7 +12328,7 @@
       "Name": "Phalangite",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACHIEVEMENT_UNIT_SIEGE_TOWER",
@@ -12523,7 +12528,7 @@
       "Name": "The Clergy",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_DEPOSE_TRIBE",
@@ -12610,21 +12615,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13562,
+      "Progressed": 13563,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13562,
+      "Progressed": 13563,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-24T04:00:31.5764786+00:00",
-  "LastChanged_Achievements": "2023-08-25T22:06:38.6293795+00:00",
+  "LastChanged_Achievements": "2023-08-25T23:08:06.0412196+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:59.678182+00:00",
-  "LastUpdate_Ratings": "2023-08-25T22:00:39.2364933+00:00",
-  "LastUpdate_Achievements": "2023-08-25T22:06:38.6303802+00:00"
+  "LastUpdate_Ratings": "2023-08-25T23:01:50.1562511+00:00",
+  "LastUpdate_Achievements": "2023-08-25T23:08:06.042016+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10211,
+  "EOS_Progressed": 10212,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1346,6 +1346,11 @@
       "Time": "2023-08-24T14:08:04.1232247+00:00",
       "NumProgressed": 10211,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-25T23:08:17.0072143+00:00",
+      "NumProgressed": 10212,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -1365,7 +1370,7 @@
       "Name": "to finish first, first you must finish",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 2144
+      "UsersEstimate": 2145
     },
     {
       "ID": "ACH_ABSOLUTE_DRIFT",
@@ -1381,7 +1386,7 @@
       "Name": "autopilot",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 2144
+      "UsersEstimate": 2145
     },
     {
       "ID": "ACH_ALL_BONUSES",
@@ -1413,7 +1418,7 @@
       "Name": "perkele",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1328
     },
     {
       "ID": "ACH_COLLECTIBLES_GERMANY",
@@ -1461,7 +1466,7 @@
       "Name": "grocery-getter",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 4084
+      "UsersEstimate": 4085
     },
     {
       "ID": "ACH_COMPLETE_GROUP3",
@@ -1517,7 +1522,7 @@
       "Name": "keep it tidy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7862
+      "UsersEstimate": 7863
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -1565,7 +1570,7 @@
       "Name": "brail",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 5820
+      "UsersEstimate": 5821
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -1581,7 +1586,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9803
+      "UsersEstimate": 9804
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -1605,7 +1610,7 @@
       "Name": "night ride",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1328
     },
     {
       "ID": "ACH_PAINT_BOOTH",
@@ -1613,7 +1618,7 @@
       "Name": "the artist",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1328
     },
     {
       "ID": "ACH_RAIN",
@@ -1621,7 +1626,7 @@
       "Name": "snorkel",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1328
     },
     {
       "ID": "ACH_ROLL",
@@ -1629,7 +1634,7 @@
       "Name": "you can\u0027t treat a car like a human being. a car requires love",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 2144
+      "UsersEstimate": 2145
     },
     {
       "ID": "ACH_SIMULATOR",
@@ -1693,22 +1698,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7352
+      "UsersEstimate": 7353
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10211,
+      "Progressed": 10212,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-08-25T22:07:08.119855+00:00",
+  "LastChanged_Achievements": "2023-08-25T23:08:17.0072137+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:49.2854864+00:00",
-  "LastUpdate_Ratings": "2023-08-25T21:59:50.4600517+00:00",
-  "LastUpdate_Achievements": "2023-08-25T22:07:08.1198982+00:00"
+  "LastUpdate_Ratings": "2023-08-25T23:00:56.572529+00:00",
+  "LastUpdate_Achievements": "2023-08-25T23:08:17.0072503+00:00"
 }

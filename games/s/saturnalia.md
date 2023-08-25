@@ -15,7 +15,7 @@ Rating: 4.26 (Ranked 824)
 | Fear Of The Dark | 1.00% | ~658 |
 | Detective of the occult | 1.00% | ~658 |
 | Depression | 1.00% | ~658 |
-| Bless me Father... | 0.80% | ~527 |
+| Bless me Father... | 0.90% | ~593 |
 | Power of Friendship | 0.70% | ~461 |
 | Phone Bill | 0.70% | ~461 |
 | Chain Breaker | 0.60% | ~395 |

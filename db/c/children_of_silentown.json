@@ -347,9 +347,9 @@
       "ID": "Ending1",
       "SetID": "9kk0gal",
       "Name": "Children",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 60,
-      "UsersEstimate": 45
+      "UsersEstimate": 47
     },
     {
       "ID": "Ending2",
@@ -411,9 +411,9 @@
       "ID": "Genesis",
       "SetID": "9kk0gal",
       "Name": "Mysterious paintings",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 68
+      "UsersEstimate": 70
     },
     {
       "ID": "HugeSnail",
@@ -524,8 +524,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-08-25T22:05:37.0527133+00:00",
+  "LastChanged_Achievements": "2023-08-25T23:06:44.9001039+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:22.3293449+00:00",
-  "LastUpdate_Ratings": "2023-08-25T21:58:23.0269556+00:00",
-  "LastUpdate_Achievements": "2023-08-25T22:05:37.0527358+00:00"
+  "LastUpdate_Ratings": "2023-08-25T22:59:06.155728+00:00",
+  "LastUpdate_Achievements": "2023-08-25T23:06:44.9001247+00:00"
 }
