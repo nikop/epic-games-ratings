@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 405,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 31,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2022-06-23T04:00:00+00:00",
@@ -1864,9 +1864,9 @@
       "ID": "ID_14_DEFEAT_ENEMY_BY_SPIN_DASH",
       "SetID": "7o8nc5m",
       "Name": "Gallant Spin Dash",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 257
+      "UsersEstimate": 262
     },
     {
       "ID": "ID_15_NOVICE_HERO",
@@ -1952,9 +1952,9 @@
       "ID": "ID_25_PLAY_MIRRORING",
       "SetID": "7o8nc5m",
       "Name": "To the Mirror World",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 127
+      "UsersEstimate": 131
     },
     {
       "ID": "ID_26_MOVIE_MANIA",
@@ -2048,8 +2048,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-08-03T04:58:59.3110812+00:00",
-  "LastChanged_Achievements": "2023-08-25T17:05:42.9327372+00:00",
+  "LastChanged_Achievements": "2023-08-25T18:05:44.6537996+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:44.100094+00:00",
-  "LastUpdate_Ratings": "2023-08-25T17:00:20.385224+00:00",
-  "LastUpdate_Achievements": "2023-08-25T17:05:42.932768+00:00"
+  "LastUpdate_Ratings": "2023-08-25T18:00:15.8698462+00:00",
+  "LastUpdate_Achievements": "2023-08-25T18:05:44.6538335+00:00"
 }

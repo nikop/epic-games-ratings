@@ -2,13 +2,13 @@
   "ID": "c749cd78da34408d8434a46271f4bb79",
   "Name": "Saturnalia",
   "ProductSlug": "saturnalia",
-  "Ranking_Rating": 822,
+  "Ranking_Rating": 824,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 243,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -246,7 +246,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 65833,
+  "EOS_Progressed": 65835,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 0,
@@ -8581,6 +8581,11 @@
       "Time": "2023-08-25T17:07:09.1828009+00:00",
       "NumProgressed": 65833,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-08-25T18:07:24.2089475+00:00",
+      "NumProgressed": 65835,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 20,
@@ -8640,7 +8645,7 @@
       "Name": "Paparazzi",
       "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "ACH_FRIENDSHIPPOWER",
@@ -8751,7 +8756,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 65833,
+      "Progressed": 65835,
       "Completed": 13
     }
   ],
@@ -8759,8 +8764,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-08-21T22:59:54.6231731+00:00",
-  "LastChanged_Achievements": "2023-08-25T17:07:09.1828001+00:00",
+  "LastChanged_Achievements": "2023-08-25T18:07:24.2089469+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:58:01.6614907+00:00",
-  "LastUpdate_Ratings": "2023-08-25T17:00:06.6476045+00:00",
-  "LastUpdate_Achievements": "2023-08-25T17:07:09.1828711+00:00"
+  "LastUpdate_Ratings": "2023-08-25T17:59:58.2620903+00:00",
+  "LastUpdate_Achievements": "2023-08-25T18:07:24.2090132+00:00"
 }

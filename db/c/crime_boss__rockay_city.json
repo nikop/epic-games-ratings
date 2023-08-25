@@ -2,12 +2,12 @@
   "ID": "af0ea01162704696bebf8633a52a7a6d",
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
-  "Ranking_Rating": 948,
+  "Ranking_Rating": 949,
   "Ranking_Popularity": 215,
   "Ranking_PopularitySum": 202,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewPlayers": 94,
   "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -3144,9 +3144,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 72303,
+  "EOS_Progressed": 72304,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 322,
+  "EOS_NewPlayers": 321,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -16389,6 +16389,11 @@
       "Time": "2023-08-25T16:08:20.2127174+00:00",
       "NumProgressed": 72303,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-08-25T18:07:32.8987914+00:00",
+      "NumProgressed": 72304,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 37,
@@ -16424,7 +16429,7 @@
       "Name": "Hidden Sonata",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 9399
+      "UsersEstimate": 9400
     },
     {
       "ID": "ACH_0014",
@@ -16544,7 +16549,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 46997
+      "UsersEstimate": 46998
     },
     {
       "ID": "ACH_0210",
@@ -16552,7 +16557,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 53504
+      "UsersEstimate": 53505
     },
     {
       "ID": "ACH_0211",
@@ -16568,7 +16573,7 @@
       "Name": "Too Old for This",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 34705
+      "UsersEstimate": 34706
     },
     {
       "ID": "ACH_0300",
@@ -16695,22 +16700,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 72303,
+      "Progressed": 72304,
       "Completed": 42
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 650,
-      "Completed": 650
+      "Progressed": 651,
+      "Completed": 651
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-08-25T13:02:32.3153816+00:00",
-  "LastChanged_Achievements": "2023-08-25T17:07:17.7412601+00:00",
+  "LastChanged_Achievements": "2023-08-25T18:07:32.8987906+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:48.5211502+00:00",
-  "LastUpdate_Ratings": "2023-08-25T16:58:13.0277665+00:00",
-  "LastUpdate_Achievements": "2023-08-25T17:07:17.7413788+00:00"
+  "LastUpdate_Ratings": "2023-08-25T17:58:12.1066341+00:00",
+  "LastUpdate_Achievements": "2023-08-25T18:07:32.8988905+00:00"
 }

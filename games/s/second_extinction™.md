@@ -1,7 +1,7 @@
 # Second Extinction™
 [Store](https://store.epicgames.com/en-US/p/second-extinction)  
 [View Rawdata](../../db/s/second_extinction™.json)  
-Rating: 4.05 (Ranked 925)  
+Rating: 4.05 (Ranked 926)  
 Number of Ratings: 617  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 462  (Ranked 204)  

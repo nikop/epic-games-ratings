@@ -2,13 +2,13 @@
   "ID": "impala",
   "Name": "The Division 2 Standard Edition",
   "ProductSlug": "the-division-2",
-  "Ranking_Rating": 596,
+  "Ranking_Rating": 597,
   "Ranking_Popularity": 43,
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2019-03-15T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -9210,18 +9210,24 @@
       "Rating": 4.48,
       "NumberOfAwards": 25803,
       "NumberOfAwardsMax": 7847
+    },
+    {
+      "Time": "2023-08-25T17:58:52.0137508+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 25814,
+      "NumberOfAwardsMax": 7856
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 25803,
-  "NumberOfAwardsMax": 7847,
+  "NumberOfAwards": 25814,
+  "NumberOfAwardsMax": 7856,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7847
+      "Count": 7856
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -9257,7 +9263,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1358
+      "Count": 1360
     },
     {
       "Text": "This game is Extremely Fun",
@@ -9301,8 +9307,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2023-08-25T16:58:53.9284284+00:00",
+  "LastChanged": "2023-08-25T17:58:52.0137506+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:19.4181122+00:00",
-  "LastUpdate_Ratings": "2023-08-25T16:58:53.9284291+00:00",
-  "LastUpdate_Achievements": "2023-08-25T17:03:09.0718285+00:00"
+  "LastUpdate_Ratings": "2023-08-25T17:58:52.013752+00:00",
+  "LastUpdate_Achievements": "2023-08-25T18:02:16.5157934+00:00"
 }

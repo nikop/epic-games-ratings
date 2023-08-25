@@ -2,13 +2,13 @@
   "ID": "e1809e1742cb498080d8849b11a99c5a",
   "Name": "Airborne Kingdom",
   "ProductSlug": "airborne-kingdom",
-  "Ranking_Rating": 299,
+  "Ranking_Rating": 300,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 128,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7082,
+  "EOS_Progressed": 7083,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -3843,6 +3843,11 @@
       "Time": "2023-08-25T17:05:08.5746802+00:00",
       "NumProgressed": 7082,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-08-25T18:05:08.7148999+00:00",
+      "NumProgressed": 7083,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 27,
@@ -3862,7 +3867,7 @@
       "Name": "Daylight Found",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1841
+      "UsersEstimate": 1842
     },
     {
       "ID": "AK_FIELDS_WATERED",
@@ -3886,7 +3891,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3753
+      "UsersEstimate": 3754
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -3910,7 +3915,7 @@
       "Name": "Irons Scorched",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1770
+      "UsersEstimate": 1771
     },
     {
       "ID": "AK_ISLANDS_RECONNECTED",
@@ -3918,7 +3923,7 @@
       "Name": "Islands Connected",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1770
+      "UsersEstimate": 1771
     },
     {
       "ID": "AK_KNOWLEDGE_SEEKER",
@@ -3934,7 +3939,7 @@
       "Name": "Knowledge Shared",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 1416
+      "UsersEstimate": 1417
     },
     {
       "ID": "AK_LEARNED_SCHOLAR",
@@ -3958,7 +3963,7 @@
       "Name": "A Peaceful Respite",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "AK_PROPHECY_FULFILLED",
@@ -3982,7 +3987,7 @@
       "Name": "Relic Finder",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1416
+      "UsersEstimate": 1417
     },
     {
       "ID": "AK_SEEKERS_FOUND",
@@ -4069,15 +4074,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7082,
+      "Progressed": 7083,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-08-25T17:05:08.5746795+00:00",
+  "LastChanged_Achievements": "2023-08-25T18:05:08.7148992+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:58.4215598+00:00",
-  "LastUpdate_Ratings": "2023-08-25T17:00:04.8060033+00:00",
-  "LastUpdate_Achievements": "2023-08-25T17:05:08.574723+00:00"
+  "LastUpdate_Ratings": "2023-08-25T17:59:57.0808456+00:00",
+  "LastUpdate_Achievements": "2023-08-25T18:05:08.7149431+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "07d364bde45c48d3bbced941b474c8a6",
   "Name": "My Lovely Wife",
   "ProductSlug": "my-lovely-wife-bef07f",
-  "Ranking_Rating": 742,
+  "Ranking_Rating": 743,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 300,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-06-07T16:00:00+00:00",
     "PcReleaseDate": "2022-06-07T16:00:00+00:00",
@@ -580,9 +580,9 @@
       "ID": "ACH_UNLOCK_CHAPTER_2",
       "SetID": "ajki3eh",
       "Name": "Between Two Fires",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 316
     },
     {
       "ID": "ACH_UNLOCK_CHAPTER_3",
@@ -628,9 +628,9 @@
       "ID": "ACH_UNLOCK_SUCC_KIND_1",
       "SetID": "ajki3eh",
       "Name": "The Hobbyist",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 395
+      "UsersEstimate": 401
     },
     {
       "ID": "ACH_UNLOCK_SUCC_KIND_2",
@@ -660,8 +660,8 @@
   "FirstSeen": "2022-07-22T20:30:06.1147591+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.1712211+00:00",
   "LastChanged": "2023-03-31T05:57:36.3389853+00:00",
-  "LastChanged_Achievements": "2023-08-25T17:07:04.3208675+00:00",
+  "LastChanged_Achievements": "2023-08-25T18:07:19.6875742+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:16.3013913+00:00",
-  "LastUpdate_Ratings": "2023-08-25T17:00:41.2490021+00:00",
-  "LastUpdate_Achievements": "2023-08-25T17:07:04.3208996+00:00"
+  "LastUpdate_Ratings": "2023-08-25T18:00:42.151822+00:00",
+  "LastUpdate_Achievements": "2023-08-25T18:07:19.6876+00:00"
 }

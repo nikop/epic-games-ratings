@@ -4,8 +4,8 @@
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 495,
+  "EOS_Progressed": 496,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 274,
+  "EOS_NewPlayers": 271,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -961,6 +961,11 @@
       "Time": "2023-08-25T15:05:10.2705622+00:00",
       "NumProgressed": 495,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-25T18:04:23.6632784+00:00",
+      "NumProgressed": 496,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -981,7 +986,7 @@
       "Name": "A New Journey",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "_03_FinishAct1",
@@ -989,7 +994,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1045,7 +1050,7 @@
       "Name": "Buccaneer",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "_11_Completion_40",
@@ -1093,7 +1098,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -1101,7 +1106,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -1117,7 +1122,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -1180,14 +1185,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 495,
+      "Progressed": 496,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-25T17:04:34.8206233+00:00",
+  "LastChanged_Achievements": "2023-08-25T18:04:23.6632777+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:01.7621403+00:00",
-  "LastUpdate_Ratings": "2023-08-25T17:00:34.7664029+00:00",
-  "LastUpdate_Achievements": "2023-08-25T17:04:34.8206496+00:00"
+  "LastUpdate_Ratings": "2023-08-25T18:00:34.4854573+00:00",
+  "LastUpdate_Achievements": "2023-08-25T18:04:23.6633027+00:00"
 }

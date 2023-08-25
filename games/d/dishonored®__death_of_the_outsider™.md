@@ -1,7 +1,7 @@
 # Dishonored®: Death of the Outsider™
 [Store](https://store.epicgames.com/en-US/p/dishonored-death-of-the-outsider)  
 [View Rawdata](../../db/d/dishonored®__death_of_the_outsider™.json)  
-Rating: 4.43 (Ranked 663)  
+Rating: 4.43 (Ranked 664)  
 ## Awards
 Max (Diverse Characters): 34  (Ranked 442)  
 Sum: 238 (Ranked 357)  

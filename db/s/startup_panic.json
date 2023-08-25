@@ -2,13 +2,13 @@
   "ID": "92546d82a1d043ad8cff2c6c2cd78bb9",
   "Name": "Startup Panic",
   "ProductSlug": "startup-panic",
-  "Ranking_Rating": 713,
+  "Ranking_Rating": 714,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2020-12-03T13:00:00+00:00",
     "PcReleaseDate": "2020-12-03T13:00:00+00:00",
@@ -154,6 +154,6 @@
   "FirstSeenRating": "2022-07-31T11:01:04.2055558+00:00",
   "LastChanged": "2023-05-28T22:58:35.8405553+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:33.0235632+00:00",
-  "LastUpdate_Ratings": "2023-08-25T17:00:53.9466659+00:00",
-  "LastUpdate_Achievements": "2023-08-25T17:04:23.9151542+00:00"
+  "LastUpdate_Ratings": "2023-08-25T18:01:00.6542487+00:00",
+  "LastUpdate_Achievements": "2023-08-25T18:04:12.2066071+00:00"
 }

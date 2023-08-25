@@ -2,12 +2,12 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 924,
+  "Ranking_Rating": 925,
   "Ranking_Popularity": 68,
   "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 38,
+  "Ranking_EOS_NewPlayers": 39,
   "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -6082,9 +6082,9 @@
       "Count": 3368
     }
   ],
-  "EOS_Progressed": 224866,
+  "EOS_Progressed": 224877,
   "EOS_Completed": 2213,
-  "EOS_NewPlayers": 1806,
+  "EOS_NewPlayers": 1801,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -19997,6 +19997,11 @@
       "Time": "2023-08-25T17:06:42.4669555+00:00",
       "NumProgressed": 224866,
       "NumCompleted": 2213
+    },
+    {
+      "Time": "2023-08-25T18:07:06.9542385+00:00",
+      "NumProgressed": 224877,
+      "NumCompleted": 2213
     }
   ],
   "TotalAchievements": 516,
@@ -20008,7 +20013,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4497
+      "UsersEstimate": 4498
     },
     {
       "ID": "objective_completed_10",
@@ -21688,7 +21693,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 899
+      "UsersEstimate": 900
     },
     {
       "ID": "objective_completed_35",
@@ -24135,21 +24140,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 191140,
+      "Progressed": 191151,
       "Completed": 3304
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 224866,
+      "Progressed": 224877,
       "Completed": 2213
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-25T15:01:37.430481+00:00",
-  "LastChanged_Achievements": "2023-08-25T17:06:42.4669549+00:00",
+  "LastChanged_Achievements": "2023-08-25T18:07:06.954238+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:12.3267162+00:00",
-  "LastUpdate_Ratings": "2023-08-25T17:00:40.4970721+00:00",
-  "LastUpdate_Achievements": "2023-08-25T17:06:42.4700944+00:00"
+  "LastUpdate_Ratings": "2023-08-25T18:00:41.4032025+00:00",
+  "LastUpdate_Achievements": "2023-08-25T18:07:06.956962+00:00"
 }

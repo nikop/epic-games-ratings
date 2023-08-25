@@ -2,13 +2,13 @@
   "ID": "5a85738bd9e74940ad8409ed8a2c680a",
   "Name": "Slain: Back From Hell",
   "ProductSlug": "slain-aea303",
-  "Ranking_Rating": 799,
+  "Ranking_Rating": 800,
   "Ranking_Popularity": 312,
   "Ranking_PopularitySum": 404,
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 225,
   "Ranking_EOS_NewPlayers": 60,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -217,9 +217,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 35111,
+  "EOS_Progressed": 35116,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 791,
+  "EOS_NewPlayers": 792,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -14217,6 +14217,11 @@
       "Time": "2023-08-25T17:01:22.928182+00:00",
       "NumProgressed": 35111,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-08-25T18:02:11.2059039+00:00",
+      "NumProgressed": 35116,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 29,
@@ -14236,7 +14241,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 7022
+      "UsersEstimate": 7023
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -14372,7 +14377,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1404
+      "UsersEstimate": 1405
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -14402,9 +14407,9 @@
       "ID": "ACH_24_HEAD_BANGED_TO_ALL_BOSSES",
       "SetID": "443p4o4",
       "Name": "Hail the Great Horned Metal God!",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 211
+      "UsersEstimate": 246
     },
     {
       "ID": "ACH_25_TALISMAN_COMPLETE",
@@ -14459,7 +14464,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 35111,
+      "Progressed": 35116,
       "Completed": 21
     }
   ],
@@ -14467,8 +14472,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-12T21:03:39.1122054+00:00",
-  "LastChanged_Achievements": "2023-08-25T17:01:22.9281815+00:00",
+  "LastChanged_Achievements": "2023-08-25T18:02:11.2059035+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:52.0390033+00:00",
-  "LastUpdate_Ratings": "2023-08-25T16:58:14.9718585+00:00",
-  "LastUpdate_Achievements": "2023-08-25T17:01:22.928302+00:00"
+  "LastUpdate_Ratings": "2023-08-25T17:58:14.0881787+00:00",
+  "LastUpdate_Achievements": "2023-08-25T18:02:11.2060202+00:00"
 }

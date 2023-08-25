@@ -38,8 +38,8 @@
 | Quadsparagus | 8.00% | ~17 |
 | Early Bird | 6.00% | ~16 |
 | Pyromaniac | 6.00% | ~13 |
+| Chick Magnet | 5.00% | ~13 |
 | I Have The High Ground | 5.00% | ~13 |
-| Chick Magnet | 4.00% | ~11 |
 | Master Survivor | 3.00% | ~6 |
 | Heart Breaker | 3.00% | ~6 |
 | 15 Days | 2.00% | ~5 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 265 (Ranked 276)  
+Progressed: 265 (Ranked 277)  
 Completed: 0 (0.00%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |

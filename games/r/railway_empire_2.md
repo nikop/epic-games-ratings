@@ -1,7 +1,7 @@
 # Railway Empire 2
 [Store](https://store.epicgames.com/en-US/p/railway-empire-2-46840c)  
 [View Rawdata](../../db/r/railway_empire_2.json)  
-Rating: 4.48 (Ranked 596)  
+Rating: 4.48 (Ranked 597)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -51,8 +51,8 @@ Rating: 4.48 (Ranked 596)
 | Tycoon | 10.00% | ~184 |
 | Unstoppable | 8.00% | ~147 |
 | Track to the Future | 8.00% | ~147 |
+| Call of Duty | 7.00% | ~128 |
 | Conductor | 6.00% | ~110 |
-| Call of Duty | 6.00% | ~110 |
 | Engineer | 4.00% | ~73 |
 | Let off some steam | 4.00% | ~73 |
 | Accurate | 3.00% | ~55 |

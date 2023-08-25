@@ -6,30 +6,30 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 69.00% | ~602,091 |
-| Right Back At Ya | 39.00% | ~340,312 |
-| The Lovers | 35.00% | ~305,409 |
-| Stanislavski's Method | 29.00% | ~253,053 |
-| The Wheel of Fortune | 27.00% | ~235,601 |
-| The Hermit | 25.00% | ~218,149 |
-| Christmas Tree Attack | 23.00% | ~200,697 |
-| True Soldier | 23.00% | ~200,697 |
-| The High Priestess | 22.00% | ~191,971 |
-| Legend of The Afterlife | 22.00% | ~191,971 |
-| Life of the Road | 21.00% | ~183,245 |
-| Full Body Conversion | 18.00% | ~157,067 |
-| The World | 18.00% | ~157,067 |
-| Bushido and Chill | 17.00% | ~148,341 |
-| Gun Fu | 15.00% | ~130,889 |
-| True Warrior | 15.00% | ~130,889 |
-| To Protect and Serve | 14.00% | ~122,163 |
-| I Am The Law | 14.00% | ~122,163 |
-| Judy vs Night City | 14.00% | ~122,163 |
-| Master Crafter | 13.00% | ~113,437 |
-| Two Heads, One Bullet | 12.00% | ~104,712 |
-| The Quick and the Dead | 10.00% | ~87,260 |
-| The Wandering Fool | 9.00% | ~78,534 |
-| Ten out of Ten | 9.00% | ~78,534 |
+| The Fool | 69.00% | ~602,098 |
+| Right Back At Ya | 39.00% | ~340,316 |
+| The Lovers | 35.00% | ~305,412 |
+| Stanislavski's Method | 29.00% | ~253,056 |
+| The Wheel of Fortune | 27.00% | ~235,604 |
+| The Hermit | 25.00% | ~218,152 |
+| Christmas Tree Attack | 23.00% | ~200,699 |
+| True Soldier | 23.00% | ~200,699 |
+| The High Priestess | 22.00% | ~191,973 |
+| Legend of The Afterlife | 22.00% | ~191,973 |
+| Life of the Road | 21.00% | ~183,247 |
+| Full Body Conversion | 18.00% | ~157,069 |
+| The World | 18.00% | ~157,069 |
+| Bushido and Chill | 17.00% | ~148,343 |
+| Gun Fu | 15.00% | ~130,891 |
+| True Warrior | 15.00% | ~130,891 |
+| To Protect and Serve | 14.00% | ~122,165 |
+| I Am The Law | 14.00% | ~122,165 |
+| Judy vs Night City | 14.00% | ~122,165 |
+| Master Crafter | 13.00% | ~113,439 |
+| Two Heads, One Bullet | 12.00% | ~104,713 |
+| The Quick and the Dead | 10.00% | ~87,261 |
+| The Wandering Fool | 9.00% | ~78,535 |
+| Ten out of Ten | 9.00% | ~78,535 |
 | Breathtaking | 8.00% | ~69,808 |
 | The Star | 7.00% | ~61,082 |
 | The Sun | 7.00% | ~61,082 |
@@ -51,8 +51,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,726 |
 | Rough Landing | 0.50% | ~4,363 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 872,596 (Ranked 14)  
-Completed: 2,020 (0.23%) (Ranked 183)  
+Progressed: 872,606 (Ranked 14)  
+Completed: 2,021 (0.23%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -178,20 +178,20 @@ Completed: 2,020 (0.23%) (Ranked 183)
 | 2023-08-22 | 872,099 | 2,002 |
 | 2023-08-23 | 872,280 | 2,005 |
 | 2023-08-24 | 872,479 | 2,017 |
-| 2023-08-25 | 872,596 | 2,020 |
+| 2023-08-25 | 872,606 | 2,021 |
 ## Awards
 Max (Character Customization): 76,290  (Ranked 9)  
-Sum: 201,979 (Ranked 13)  
+Sum: 202,049 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 76,290 |
-| This game has Great Boss Battles | 49,352 |
+| This game has Great Boss Battles | 49,405 |
 | This game is Great for Beginners | 9,011 |
 | This game has Diverse Characters | 8,992 |
 | This game has Amazing Storytelling | 8,973 |
+| This game is Highly Recommended | 8,838 |
 | This game is Extremely Fun | 8,832 |
-| This game is Highly Recommended | 8,821 |
 | This game is Relaxing | 8,742 |
 | This game has Amazing Characters | 8,655 |
 | This game has Quickly Understood Controls | 8,653 |
@@ -417,4 +417,4 @@ Diff (max vs sum): -4
 | 2023-08-22 | 4.62 | - | 76,027 | 201,294 |
 | 2023-08-23 | 4.62 | - | 76,110 | 201,530 |
 | 2023-08-24 | 4.62 | - | 76,195 | 201,808 |
-| 2023-08-25 | 4.62 | - | 76,290 | 201,979 |
+| 2023-08-25 | 4.62 | - | 76,290 | 202,049 |

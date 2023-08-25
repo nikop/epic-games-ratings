@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 970,
+  "EOS_Progressed": 971,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
@@ -3081,6 +3081,11 @@
       "Time": "2023-08-25T17:07:11.3368164+00:00",
       "NumProgressed": 970,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-25T18:07:26.2724398+00:00",
+      "NumProgressed": 971,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3140,7 +3145,7 @@
       "Name": "Call of Mana 1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "call_of_mana_2",
@@ -3188,7 +3193,7 @@
       "Name": "Collector 1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "collector_2",
@@ -3332,7 +3337,7 @@
       "Name": "Glitter of Gold 1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "glitter_of_gold_2",
@@ -3524,7 +3529,7 @@
       "Name": "Soul Shards 1",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "soul_shards_2",
@@ -3619,14 +3624,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 970,
+      "Progressed": 971,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-08-25T17:07:11.3368155+00:00",
+  "LastChanged_Achievements": "2023-08-25T18:07:26.272439+00:00",
   "LastUpdate_AppInfo": "2023-08-22T05:57:11.4589116+00:00",
-  "LastUpdate_Ratings": "2023-08-25T16:59:31.6541515+00:00",
-  "LastUpdate_Achievements": "2023-08-25T17:07:11.3369018+00:00"
+  "LastUpdate_Ratings": "2023-08-25T17:59:26.2600555+00:00",
+  "LastUpdate_Achievements": "2023-08-25T18:07:26.2725273+00:00"
 }

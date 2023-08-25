@@ -2,13 +2,13 @@
   "ID": "anise",
   "Name": "Assassin\u0027s Creed\u00AE III: Remastered",
   "ProductSlug": "assassins-creed-3",
-  "Ranking_Rating": 580,
+  "Ranking_Rating": 581,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2019-03-29T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -555,6 +555,6 @@
   "FirstSeen": "2022-07-22T20:26:27.0025149+00:00",
   "LastChanged": "2023-07-11T14:02:24.4624744+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:20.7435879+00:00",
-  "LastUpdate_Ratings": "2023-08-25T16:58:33.2058458+00:00",
-  "LastUpdate_Achievements": "2023-08-25T17:03:58.6752453+00:00"
+  "LastUpdate_Ratings": "2023-08-25T17:58:29.4637619+00:00",
+  "LastUpdate_Achievements": "2023-08-25T18:03:36.6451595+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "a25444fc25e9498781983b58ceba30c5",
   "Name": "Black Widow: Recharged",
   "ProductSlug": "black-widow-recharged",
-  "Ranking_Rating": 853,
+  "Ranking_Rating": 854,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 112,
@@ -152,9 +152,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17500,
+  "EOS_Progressed": 17503,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 201,
+  "EOS_NewPlayers": 203,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -10652,6 +10652,11 @@
       "Time": "2023-08-25T17:03:56.0924486+00:00",
       "NumProgressed": 17500,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-08-25T18:03:34.003759+00:00",
+      "NumProgressed": 17503,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 14,
@@ -10663,7 +10668,7 @@
       "Name": "Across The Border",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 13825
+      "UsersEstimate": 13827
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -10687,7 +10692,7 @@
       "Name": "Danger Ahead",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 4725
+      "UsersEstimate": 4726
     },
     {
       "ID": "ACH_DONT_BRING_ME_DOWN",
@@ -10695,7 +10700,7 @@
       "Name": "Don\u0027t Bring Me Down",
       "Percentage": 19,
       "XP": 90,
-      "UsersEstimate": 3325
+      "UsersEstimate": 3326
     },
     {
       "ID": "ACH_EVEYONE_IS_BORN_TO_DIE",
@@ -10719,7 +10724,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 9275
+      "UsersEstimate": 9277
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -10743,7 +10748,7 @@
       "Name": "Look at Me Now",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 4900
+      "UsersEstimate": 4901
     },
     {
       "ID": "ACH_THE_FALL",
@@ -10751,7 +10756,7 @@
       "Name": "The Fall",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 3150
+      "UsersEstimate": 3151
     },
     {
       "ID": "ACH_TIME_OF_OUR_LIFE",
@@ -10759,7 +10764,7 @@
       "Name": "Time of Our Life",
       "Percentage": 0.3,
       "XP": 90,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_WILD_WEST_HERO",
@@ -10774,15 +10779,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 17500,
+      "Progressed": 17503,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-08-16T03:57:34.8125865+00:00",
-  "LastChanged_Achievements": "2023-08-25T17:03:56.092448+00:00",
+  "LastChanged_Achievements": "2023-08-25T18:03:34.0037585+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:14.8695583+00:00",
-  "LastUpdate_Ratings": "2023-08-25T16:58:44.649246+00:00",
-  "LastUpdate_Achievements": "2023-08-25T17:03:56.0925264+00:00"
+  "LastUpdate_Ratings": "2023-08-25T17:58:44.1690239+00:00",
+  "LastUpdate_Achievements": "2023-08-25T18:03:34.0038346+00:00"
 }

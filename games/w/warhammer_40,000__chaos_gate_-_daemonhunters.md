@@ -6,11 +6,11 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Look Over There! | 4.00% | ~126 |
-| Not So Fast... | 4.00% | ~126 |
-| Executioner | 4.00% | ~126 |
-| Watch Where You Step... | 4.00% | ~126 |
-| An Ill Omen | 4.00% | ~126 |
+| Look Over There! | 4.00% | ~127 |
+| Not So Fast... | 4.00% | ~127 |
+| Executioner | 4.00% | ~127 |
+| Watch Where You Step... | 4.00% | ~127 |
+| An Ill Omen | 4.00% | ~127 |
 | Blood for the Blood God! | 3.00% | ~95 |
 | Purging Spree | 3.00% | ~95 |
 | Bloodless | 3.00% | ~95 |
@@ -37,9 +37,9 @@ Number of Ratings: 371  (23.09.2022)
 | Tactical Flexibility | 0.50% | ~16 |
 | Tactical Sabotage | 0.50% | ~16 |
 | Patron of Deimos | 0.40% | ~13 |
+| For the Machine God | 0.40% | ~13 |
 | Exterminator | 0.40% | ~13 |
 | Preservationist | 0.40% | ~13 |
-| For the Machine God | 0.30% | ~9 |
 | Strike Force | 0.30% | ~9 |
 | Engine Kill | 0.30% | ~9 |
 | Harvest No More | 0.30% | ~9 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Mass Extinction | 0.00% | ~0 |
 | Not a Mote of Corruption | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,162 (Ranked 157)  
+Progressed: 3,163 (Ranked 157)  
 Completed: 0 (0.00%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,6 +195,7 @@ Completed: 0 (0.00%) (Ranked 263)
 | 2023-08-22 | 3,160 | 0 |
 | 2023-08-23 | 3,161 | 0 |
 | 2023-08-24 | 3,162 | 0 |
+| 2023-08-25 | 3,163 | 0 |
 ## Awards
 Max (Character Customization): 220  (Ranked 264)  
 Sum: 473 (Ranked 305)  

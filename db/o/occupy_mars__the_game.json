@@ -2,13 +2,13 @@
   "ID": "5424c96246c54737aad95daa7fe724f8",
   "Name": "Occupy Mars: The Game",
   "ProductSlug": "occupy-mars",
-  "Ranking_Rating": 945,
+  "Ranking_Rating": 946,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -220,9 +220,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1527,
+  "EOS_Progressed": 1528,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3285,6 +3285,11 @@
       "Time": "2023-08-25T05:03:09.3664943+00:00",
       "NumProgressed": 1527,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-25T18:02:24.9140344+00:00",
+      "NumProgressed": 1528,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3496,7 +3501,7 @@
       "Name": "Get your hands dirty",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "NEW_ACHIEVEMENT_GOOD_MARTIAN",
@@ -3679,7 +3684,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1527,
+      "Progressed": 1528,
       "Completed": 0
     }
   ],
@@ -3687,8 +3692,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-08-17T16:59:18.1470659+00:00",
-  "LastChanged_Achievements": "2023-08-25T17:03:17.2259221+00:00",
+  "LastChanged_Achievements": "2023-08-25T18:02:24.9140338+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:58.538966+00:00",
-  "LastUpdate_Ratings": "2023-08-25T17:00:04.7194735+00:00",
-  "LastUpdate_Achievements": "2023-08-25T17:03:17.2259918+00:00"
+  "LastUpdate_Ratings": "2023-08-25T17:59:57.0010396+00:00",
+  "LastUpdate_Achievements": "2023-08-25T18:02:24.9140934+00:00"
 }

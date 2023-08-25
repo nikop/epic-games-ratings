@@ -16,8 +16,8 @@ Number of Ratings: 154  (23.09.2022)
 | Everyone's Hero | 65.00% | ~274 |
 | Knuckles the Echidna | 63.00% | ~266 |
 | Easy Peasy with Shields | 62.00% | ~262 |
+| Gallant Spin Dash | 62.00% | ~262 |
 | Miles "Tails" Prower | 62.00% | ~262 |
-| Gallant Spin Dash | 61.00% | ~257 |
 | Bubbly Breath | 59.00% | ~249 |
 | Boss Rush Attempt | 54.00% | ~228 |
 | Cleared Sonic the Hedgehog | 51.00% | ~215 |
@@ -32,7 +32,7 @@ Number of Ratings: 154  (23.09.2022)
 | Cleared Sonic the Hedgehog 3 & Knuckles | 39.00% | ~165 |
 | Lucky Hedgehog | 32.00% | ~135 |
 | All Clear! | 32.00% | ~135 |
-| To the Mirror World | 30.00% | ~127 |
+| To the Mirror World | 31.00% | ~131 |
 | Sound Savant | 23.00% | ~97 |
 | Movie Maniac | 22.00% | ~93 |
 | Sonic the Hedgehog Mission Master | 20.00% | ~84 |

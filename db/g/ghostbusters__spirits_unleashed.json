@@ -2,7 +2,7 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 580,
+  "Ranking_Rating": 581,
   "Ranking_Popularity": 254,
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 103,
@@ -1816,10 +1816,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 2256,
       "NumberOfAwardsMax": 249
+    },
+    {
+      "Time": "2023-08-25T17:57:01.9365682+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 2257,
+      "NumberOfAwardsMax": 249
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2256,
+  "NumberOfAwards": 2257,
   "NumberOfAwardsMax": 249,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1863,7 +1869,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 222
+      "Count": 223
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1896,7 +1902,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25331,
+  "EOS_Progressed": 25332,
   "EOS_Completed": 53,
   "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 1,
@@ -11261,6 +11267,11 @@
       "Time": "2023-08-25T17:03:42.7403805+00:00",
       "NumProgressed": 25331,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-08-25T18:03:20.344189+00:00",
+      "NumProgressed": 25332,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 51,
@@ -11272,7 +11283,7 @@
       "Name": "Advancement",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 18238
+      "UsersEstimate": 18239
     },
     {
       "ID": "Animated",
@@ -11280,7 +11291,7 @@
       "Name": "Animated",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 6079
+      "UsersEstimate": 6080
     },
     {
       "ID": "Back_Off",
@@ -11312,7 +11323,7 @@
       "Name": "Clutch Capture",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 10132
+      "UsersEstimate": 10133
     },
     {
       "ID": "Collect_Spores",
@@ -11360,7 +11371,7 @@
       "Name": "Discovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 15452
+      "UsersEstimate": 15453
     },
     {
       "ID": "Dont_Need_These",
@@ -11416,7 +11427,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 7599
+      "UsersEstimate": 7600
     },
     {
       "ID": "Ghost_Expert",
@@ -11432,7 +11443,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 7599
+      "UsersEstimate": 7600
     },
     {
       "ID": "Legions",
@@ -11544,7 +11555,7 @@
       "Name": "Side Hustle",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 6839
+      "UsersEstimate": 6840
     },
     {
       "ID": "Skilled",
@@ -11552,7 +11563,7 @@
       "Name": "Skilled",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 6079
+      "UsersEstimate": 6080
     },
     {
       "ID": "Solo_Capture",
@@ -11560,7 +11571,7 @@
       "Name": "Solo Capture",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 8359
+      "UsersEstimate": 8360
     },
     {
       "ID": "Stunner",
@@ -11576,15 +11587,15 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 21785
+      "UsersEstimate": 21786
     },
     {
       "ID": "Summoner",
       "SetID": "819popo",
       "Name": "Summoner",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 6586
+      "UsersEstimate": 6840
     },
     {
       "ID": "Surprise",
@@ -11608,7 +11619,7 @@
       "Name": "Teamwork",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 10892
+      "UsersEstimate": 10893
     },
     {
       "ID": "Terrifying",
@@ -11679,16 +11690,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25331,
+      "Progressed": 25332,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-08-25T16:57:04.7799505+00:00",
-  "LastChanged_Achievements": "2023-08-25T17:03:42.7403799+00:00",
+  "LastChanged": "2023-08-25T17:57:01.9365681+00:00",
+  "LastChanged_Achievements": "2023-08-25T18:03:20.3441885+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:37.9111082+00:00",
-  "LastUpdate_Ratings": "2023-08-25T16:57:04.7799512+00:00",
-  "LastUpdate_Achievements": "2023-08-25T17:03:42.7404875+00:00"
+  "LastUpdate_Ratings": "2023-08-25T17:57:01.9365688+00:00",
+  "LastUpdate_Achievements": "2023-08-25T18:03:20.3442852+00:00"
 }

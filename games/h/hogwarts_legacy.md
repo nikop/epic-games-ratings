@@ -6,8 +6,8 @@ Rating: 4.77 (Ranked 108)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 13.00% | ~37,801 |
-| First Class Student | 11.00% | ~31,985 |
-| Troll with the Punches | 11.00% | ~31,985 |
+| First Class Student | 11.00% | ~31,986 |
+| Troll with the Punches | 11.00% | ~31,986 |
 | The Hallowed Hero | 10.00% | ~29,078 |
 | The Defender of Dragons | 10.00% | ~29,078 |
 | A Keen Sense of Spell | 10.00% | ~29,078 |
@@ -22,10 +22,10 @@ Rating: 4.77 (Ranked 108)
 | Followed the Butterflies | 8.00% | ~23,262 |
 | The Spell Master | 8.00% | ~23,262 |
 | Rising From the Ashes | 8.00% | ~23,262 |
-| The Avenging Gazelle | 7.00% | ~20,354 |
-| Beast Friends | 7.00% | ~20,354 |
-| A Sallow Grave | 7.00% | ~20,354 |
-| Flight the Good Flight | 7.00% | ~20,354 |
+| The Avenging Gazelle | 7.00% | ~20,355 |
+| Beast Friends | 7.00% | ~20,355 |
+| A Sallow Grave | 7.00% | ~20,355 |
+| Flight the Good Flight | 7.00% | ~20,355 |
 | The Seeker of Knowledge | 5.00% | ~14,539 |
 | The Root of the Problem | 5.00% | ~14,539 |
 | Third Time's a Charm | 5.00% | ~14,539 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 108)
 | The Nature of the Beast | 0.60% | ~1,745 |
 | Collector's Edition | 0.30% | ~872 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,775 (Ranked 43)  
+Progressed: 290,779 (Ranked 43)  
 Completed: 454 (0.16%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,10 +178,10 @@ Completed: 454 (0.16%) (Ranked 194)
 | 2023-08-22 | 290,631 | 454 |
 | 2023-08-23 | 290,678 | 454 |
 | 2023-08-24 | 290,736 | 454 |
-| 2023-08-25 | 290,775 | 454 |
+| 2023-08-25 | 290,779 | 454 |
 ## Awards
 Max (Character Customization): 21,923  (Ranked 17)  
-Sum: 41,513 (Ranked 30)  
+Sum: 41,518 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -191,7 +191,7 @@ Diff (max vs sum): -13
 | This game is Extremely Fun | 967 |
 | This game is Relaxing | 967 |
 | This game has Amazing Storytelling | 958 |
-| This game has Diverse Characters | 949 |
+| This game has Diverse Characters | 954 |
 | This game has Amazing Characters | 933 |
 | This game is Highly Recommended | 904 |
 | This game has Quickly Understood Controls | 856 |
@@ -354,4 +354,4 @@ Diff (max vs sum): -13
 | 2023-08-22 | 4.77 | 21,884 | 41,412 |
 | 2023-08-23 | 4.77 | 21,894 | 41,450 |
 | 2023-08-24 | 4.77 | 21,908 | 41,494 |
-| 2023-08-25 | 4.77 | 21,923 | 41,513 |
+| 2023-08-25 | 4.77 | 21,923 | 41,518 |

@@ -52,7 +52,7 @@ Rating: 4.56 (Ranked 473)
 | Gregor Spinoza | 1.00% | ~31 |
 | Tiqqun Unchained | 1.00% | ~31 |
 | Scientifically Accurate | 1.00% | ~31 |
-| Work Harder | 0.50% | ~15 |
+| Work Harder | 0.50% | ~16 |
 | Crunch Culture | 0.30% | ~9 |
 | Soylent Green | 0.30% | ~9 |
 | A Junker's Dream | 0.20% | ~6 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 473)
 | I Give You the Stars | 0.10% | ~1 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,099 (Ranked 161)  
+Progressed: 3,100 (Ranked 161)  
 Completed: 0 (0.00%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 0 (0.00%) (Ranked 263)
 | 2023-08-22 | 3,092 | 0 |
 | 2023-08-23 | 3,096 | 0 |
 | 2023-08-24 | 3,097 | 0 |
-| 2023-08-25 | 3,099 | 0 |
+| 2023-08-25 | 3,100 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
