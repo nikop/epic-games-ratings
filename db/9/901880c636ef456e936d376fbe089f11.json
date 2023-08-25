@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 363,
   "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 278,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
     "PcReleaseDate": "2023-04-20T13:00:00+00:00",
@@ -466,9 +466,9 @@
       "ID": "ACH_FINISH_ONCE",
       "SetID": "8h8m55b",
       "Name": "One Way to Find Out",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_FIRSTLOVE",
@@ -761,8 +761,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-08-25T14:05:34.0242131+00:00",
+  "LastChanged_Achievements": "2023-08-25T15:04:42.405006+00:00",
   "LastUpdate_AppInfo": "2023-08-22T10:56:57.174427+00:00",
-  "LastUpdate_Ratings": "2023-08-25T14:00:25.8496452+00:00",
-  "LastUpdate_Achievements": "2023-08-25T14:05:34.0242575+00:00"
+  "LastUpdate_Ratings": "2023-08-25T15:00:02.5186079+00:00",
+  "LastUpdate_Achievements": "2023-08-25T15:04:42.4050467+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
     "PcReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 370,
+  "EOS_Progressed": 371,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -411,6 +411,11 @@
       "Time": "2023-08-23T16:07:14.555598+00:00",
       "NumProgressed": 370,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-25T15:07:50.3075915+00:00",
+      "NumProgressed": 371,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -422,7 +427,7 @@
       "Name": "Brace for impact!",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ALL_ACHIEVEMENTS",
@@ -534,7 +539,7 @@
       "Name": "First Come, First Serve",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "FRONT_AND_BACKFLIP",
@@ -574,7 +579,7 @@
       "Name": "Amateur Mechanic",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "HIGHEST_ASTEROID",
@@ -596,9 +601,9 @@
       "ID": "HIT_10_PLAYERS",
       "SetID": "20koof9",
       "Name": "Anger Issues",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 74
     },
     {
       "ID": "HIT_50_PUSHABLES",
@@ -614,7 +619,7 @@
       "Name": "Earth Defense Force",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "HIT_BIG_SNOWMAN",
@@ -622,7 +627,7 @@
       "Name": "Take that Frosty!",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "HIT_EXPLOSIVE_BARREL",
@@ -670,7 +675,7 @@
       "Name": "Goodbye cruel world",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "LOADED_LVL_DESERT",
@@ -686,7 +691,7 @@
       "Name": "A Forest Walk",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "LOADED_LVL_SNOW",
@@ -694,7 +699,7 @@
       "Name": "Snow Fun!",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "LOADED_LVL_TANK",
@@ -774,7 +779,7 @@
       "Name": "Rocketman",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "USE_TUNNEL",
@@ -790,7 +795,7 @@
       "Name": "Event Master",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "WIN_10_EVENTS",
@@ -814,7 +819,7 @@
       "Name": "Beach Party!",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "WIN_KING_HILL",
@@ -854,14 +859,14 @@
       "Name": "Blasting away!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     }
   ],
   "AchievementSets": [
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 370,
+      "Progressed": 371,
       "Completed": 2
     }
   ],
@@ -869,8 +874,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-08-25T14:08:47.1979016+00:00",
+  "LastChanged_Achievements": "2023-08-25T15:07:50.307591+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:13.8795061+00:00",
-  "LastUpdate_Ratings": "2023-08-25T14:03:18.7847965+00:00",
-  "LastUpdate_Achievements": "2023-08-25T14:08:47.1979561+00:00"
+  "LastUpdate_Ratings": "2023-08-25T15:02:22.5363761+00:00",
+  "LastUpdate_Achievements": "2023-08-25T15:07:50.3076323+00:00"
 }

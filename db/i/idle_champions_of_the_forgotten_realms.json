@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 38,
+  "Ranking_EOS_NewPlayers": 39,
   "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -6026,10 +6026,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 31201,
       "NumberOfAwardsMax": 5182
+    },
+    {
+      "Time": "2023-08-25T15:01:37.4304811+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 31208,
+      "NumberOfAwardsMax": 5182
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31201,
+  "NumberOfAwards": 31208,
   "NumberOfAwardsMax": 5182,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6037,7 +6043,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 5144
+      "Count": 5151
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6076,9 +6082,9 @@
       "Count": 3368
     }
   ],
-  "EOS_Progressed": 224832,
+  "EOS_Progressed": 224842,
   "EOS_Completed": 2213,
-  "EOS_NewPlayers": 1816,
+  "EOS_NewPlayers": 1808,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -19976,6 +19982,11 @@
       "Time": "2023-08-25T14:08:52.073175+00:00",
       "NumProgressed": 224832,
       "NumCompleted": 2213
+    },
+    {
+      "Time": "2023-08-25T15:07:54.9777879+00:00",
+      "NumProgressed": 224842,
+      "NumCompleted": 2213
     }
   ],
   "TotalAchievements": 516,
@@ -20851,7 +20862,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "objective_completed_1203",
@@ -21779,7 +21790,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "objective_completed_390",
@@ -21851,7 +21862,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "objective_completed_40",
@@ -23203,7 +23214,7 @@
       "Name": "Friendly Imps",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "objective_completed_80",
@@ -24105,30 +24116,30 @@
       "ID": "objective_completed_1401",
       "SetID": "415jc5c",
       "Name": "There\u0027s a Flying Snake in my Boot!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 382
+      "UsersEstimate": 573
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 191106,
+      "Progressed": 191116,
       "Completed": 3304
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 224832,
+      "Progressed": 224842,
       "Completed": 2213
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-08-24T22:01:32.6243571+00:00",
-  "LastChanged_Achievements": "2023-08-25T14:08:52.0731745+00:00",
+  "LastChanged": "2023-08-25T15:01:37.430481+00:00",
+  "LastChanged_Achievements": "2023-08-25T15:07:54.9777871+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:12.3267162+00:00",
-  "LastUpdate_Ratings": "2023-08-25T14:02:24.5217094+00:00",
-  "LastUpdate_Achievements": "2023-08-25T14:08:52.0757257+00:00"
+  "LastUpdate_Ratings": "2023-08-25T15:01:37.4304814+00:00",
+  "LastUpdate_Achievements": "2023-08-25T15:07:54.9804703+00:00"
 }

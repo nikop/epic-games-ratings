@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9004,
+  "EOS_Progressed": 9008,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 793,
+  "EOS_NewPlayers": 786,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3092,6 +3092,11 @@
       "Time": "2023-08-25T14:09:18.4130619+00:00",
       "NumProgressed": 9004,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-25T15:08:17.8310514+00:00",
+      "NumProgressed": 9008,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -3200,7 +3205,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "21",
@@ -3312,7 +3317,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 900
+      "UsersEstimate": 901
     },
     {
       "ID": "7",
@@ -3343,14 +3348,14 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 9004,
+      "Progressed": 9008,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged_Achievements": "2023-08-25T14:09:18.4130613+00:00",
+  "LastChanged_Achievements": "2023-08-25T15:08:17.8310508+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:40.3624587+00:00",
-  "LastUpdate_Ratings": "2023-08-25T13:57:36.2861385+00:00",
-  "LastUpdate_Achievements": "2023-08-25T14:09:18.4130951+00:00"
+  "LastUpdate_Ratings": "2023-08-25T14:57:47.3059505+00:00",
+  "LastUpdate_Achievements": "2023-08-25T15:08:17.8310861+00:00"
 }

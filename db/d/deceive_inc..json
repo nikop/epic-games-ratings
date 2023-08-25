@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17638,
+  "EOS_Progressed": 17639,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 178,
+  "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9026,6 +9026,11 @@
       "Time": "2023-08-25T13:10:47.4324704+00:00",
       "NumProgressed": 17638,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-25T15:07:06.351871+00:00",
+      "NumProgressed": 17639,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -9053,7 +9058,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2998
+      "UsersEstimate": 2999
     },
     {
       "ID": "0004",
@@ -9141,7 +9146,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2998
+      "UsersEstimate": 2999
     },
     {
       "ID": "0015",
@@ -9221,7 +9226,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3880
+      "UsersEstimate": 3881
     },
     {
       "ID": "0025",
@@ -9324,7 +9329,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17638,
+      "Progressed": 17639,
       "Completed": 1
     }
   ],
@@ -9332,8 +9337,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-12T19:04:41.1874293+00:00",
-  "LastChanged_Achievements": "2023-08-25T14:07:57.0264083+00:00",
+  "LastChanged_Achievements": "2023-08-25T15:07:06.3518704+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:28.6624095+00:00",
-  "LastUpdate_Ratings": "2023-08-25T13:58:19.6073498+00:00",
-  "LastUpdate_Achievements": "2023-08-25T14:07:57.0264747+00:00"
+  "LastUpdate_Ratings": "2023-08-25T14:58:26.5790473+00:00",
+  "LastUpdate_Achievements": "2023-08-25T15:07:06.3519365+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 23.00% | ~49,908 |
+| Sowwy! | 23.00% | ~49,914 |
 | Déjà vu | 2.00% | ~4,340 |
 | Where's that freaking Dwarf? | 2.00% | ~4,340 |
 | Sock! SOCK! | 2.00% | ~4,340 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~217 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,992 (Ranked 56)  
+Progressed: 217,016 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,14 +181,14 @@ Completed: 2 (0.00%) (Ranked 263)
 | 2023-08-22 | 216,036 | 2 |
 | 2023-08-23 | 216,367 | 2 |
 | 2023-08-24 | 216,781 | 2 |
-| 2023-08-25 | 216,992 | 2 |
+| 2023-08-25 | 217,016 | 2 |
 ## Awards
-Max (Character Customization): 174  (Ranked 285)  
-Sum: 218 (Ranked 364)  
+Max (Character Customization): 176  (Ranked 284)  
+Sum: 220 (Ranked 363)  
 Diff (max vs sum): -79  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 174 |
+| This game has Inclusive Character Customization | 176 |
 | This game is Relaxing | 22 |
 | This game is Great for Beginners | 22 |
 ## Ratings History
@@ -307,4 +307,4 @@ Diff (max vs sum): -79
 | 2023-08-22 | 4.58 | - | 173 | 215 |
 | 2023-08-23 | 4.58 | - | 174 | 216 |
 | 2023-08-24 | 4.58 | - | 174 | 217 |
-| 2023-08-25 | 4.58 | - | 174 | 218 |
+| 2023-08-25 | 4.58 | - | 176 | 220 |

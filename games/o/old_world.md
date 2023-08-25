@@ -7,11 +7,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Clergy | 4.00% | ~542 |
-| Explorer | 3.00% | ~406 |
-| Intrepid | 3.00% | ~406 |
-| Settler | 3.00% | ~406 |
-| Friendly Family | 3.00% | ~406 |
-| Play a Single Player Game | 3.00% | ~406 |
+| Explorer | 3.00% | ~407 |
+| Intrepid | 3.00% | ~407 |
+| Settler | 3.00% | ~407 |
+| Friendly Family | 3.00% | ~407 |
+| Play a Single Player Game | 3.00% | ~407 |
 | Able | 2.00% | ~271 |
 | Ambitious | 2.00% | ~271 |
 | Architect | 2.00% | ~271 |
@@ -46,33 +46,33 @@ Number of Ratings: 1,307  (23.09.2022)
 | Trade Caravan | 2.00% | ~271 |
 | The Great Mage | 2.00% | ~271 |
 | Poetic Leader | 2.00% | ~271 |
-| Regicide | 1.00% | ~135 |
-| Drillmaster | 1.00% | ~135 |
-| Brilliant | 1.00% | ~135 |
-| Fountainhead | 1.00% | ~135 |
-| Great | 1.00% | ~135 |
-| Intercessor | 1.00% | ~135 |
-| Valiant | 1.00% | ~135 |
-| Wise | 1.00% | ~135 |
-| Legendary Cities | 1.00% | ~135 |
-| Just Difficulty | 1.00% | ~135 |
-| Artisans | 1.00% | ~135 |
-| Sages | 1.00% | ~135 |
-| Furious Family | 1.00% | ~135 |
-| Acropolis | 1.00% | ~135 |
-| Apadana | 1.00% | ~135 |
-| Colossus | 1.00% | ~135 |
-| Great Ziggurat | 1.00% | ~135 |
-| Mausoleum | 1.00% | ~135 |
-| Musaeum | 1.00% | ~135 |
-| Necropolis | 1.00% | ~135 |
-| Learn to Play 1 | 1.00% | ~135 |
-| Learn to Play 2 | 1.00% | ~135 |
-| Greece | 1.00% | ~135 |
-| Manichaeism | 1.00% | ~135 |
-| Egyptian Paganism | 1.00% | ~135 |
-| Mythology | 1.00% | ~135 |
-| Points Victory | 1.00% | ~135 |
+| Regicide | 1.00% | ~136 |
+| Drillmaster | 1.00% | ~136 |
+| Brilliant | 1.00% | ~136 |
+| Fountainhead | 1.00% | ~136 |
+| Great | 1.00% | ~136 |
+| Intercessor | 1.00% | ~136 |
+| Valiant | 1.00% | ~136 |
+| Wise | 1.00% | ~136 |
+| Legendary Cities | 1.00% | ~136 |
+| Just Difficulty | 1.00% | ~136 |
+| Artisans | 1.00% | ~136 |
+| Sages | 1.00% | ~136 |
+| Furious Family | 1.00% | ~136 |
+| Acropolis | 1.00% | ~136 |
+| Apadana | 1.00% | ~136 |
+| Colossus | 1.00% | ~136 |
+| Great Ziggurat | 1.00% | ~136 |
+| Mausoleum | 1.00% | ~136 |
+| Musaeum | 1.00% | ~136 |
+| Necropolis | 1.00% | ~136 |
+| Learn to Play 1 | 1.00% | ~136 |
+| Learn to Play 2 | 1.00% | ~136 |
+| Greece | 1.00% | ~136 |
+| Manichaeism | 1.00% | ~136 |
+| Egyptian Paganism | 1.00% | ~136 |
+| Mythology | 1.00% | ~136 |
+| Points Victory | 1.00% | ~136 |
 | Hanging Gardens in Babylon | 0.90% | ~122 |
 | Beloved | 0.90% | ~122 |
 | Mighty | 0.90% | ~122 |
@@ -82,6 +82,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lion | 0.80% | ~108 |
 | Patrons | 0.80% | ~108 |
 | Statesmen | 0.80% | ~108 |
+| Traders | 0.80% | ~108 |
 | Temple of Solomon | 0.80% | ~108 |
 | Pantheon | 0.80% | ~108 |
 | Via Recta Souk | 0.80% | ~108 |
@@ -93,7 +94,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Invincible | 0.70% | ~95 |
 | Subjugator | 0.70% | ~95 |
 | Good Difficulty | 0.70% | ~95 |
-| Traders | 0.70% | ~95 |
 | Hittite Iron | 0.70% | ~95 |
 | Circus Maximus | 0.70% | ~95 |
 | Hagia Sophia | 0.70% | ~95 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,549 (Ranked 119)  
+Progressed: 13,551 (Ranked 119)  
 Completed: 5 (0.04%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -430,7 +430,7 @@ Completed: 5 (0.04%) (Ranked 233)
 | 2023-08-22 | 13,532 | 5 |
 | 2023-08-23 | 13,540 | 5 |
 | 2023-08-24 | 13,546 | 5 |
-| 2023-08-25 | 13,549 | 5 |
+| 2023-08-25 | 13,551 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,799 (Ranked 208)  
