@@ -4,8 +4,8 @@
   "ProductSlug": "payday-3",
   "Ranking_EOS_Progress": 559,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-09-21T16:08:00+00:00",
     "PcReleaseDate": "2023-09-21T16:08:00+00:00",
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-24T21:57:12.6725949+00:00",
-  "LastUpdate_Ratings": "2023-08-24T23:00:22.4606908+00:00",
-  "LastUpdate_Achievements": "2023-08-24T23:06:46.3597364+00:00"
+  "LastUpdate_Ratings": "2023-08-25T00:00:45.2661103+00:00",
+  "LastUpdate_Achievements": "2023-08-25T00:07:10.6246042+00:00"
 }

@@ -16,7 +16,7 @@ Rating: 4.64 (Ranked 313)
 | Out of the Bag | 74.00% | ~3,678 |
 | The Dark Side | 69.00% | ~3,429 |
 | Duck and cover! | 65.00% | ~3,230 |
-| Souper! | 63.00% | ~3,131 |
+| Souper! | 64.00% | ~3,181 |
 | Pacifist | 58.00% | ~2,883 |
 | 2-1-6 | 57.00% | ~2,833 |
 | A gift | 52.00% | ~2,584 |

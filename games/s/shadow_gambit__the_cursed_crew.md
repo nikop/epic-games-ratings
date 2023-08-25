@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 74.00% | ~359 |
+| A New Journey | 75.00% | ~364 |
 | The Adventure Begins | 53.00% | ~257 |
-| Swabbie | 36.00% | ~175 |
+| Swabbie | 37.00% | ~179 |
 | With Great Power… | 32.00% | ~155 |
 | This Belongs in a Museum | 27.00% | ~131 |
 | The Gambit Has Begun | 21.00% | ~102 |

@@ -9,11 +9,11 @@
 | Triple Kill | 59.00% | ~156 |
 | Aspairagus | 58.00% | ~125 |
 | Survivor | 56.00% | ~120 |
-| No Asperascope | 53.00% | ~140 |
+| No Asperascope | 54.00% | ~143 |
 | Cornivore | 52.00% | ~138 |
 | I Believe I Can Fly | 48.00% | ~127 |
 | Early Survivor | 42.00% | ~90 |
-| No Diggity | 41.00% | ~88 |
+| No Diggity | 42.00% | ~90 |
 | Amateur Survivor | 31.00% | ~67 |
 | Bouncemato | 30.00% | ~64 |
 | 10K | 29.00% | ~77 |
@@ -25,9 +25,9 @@
 | Pork Chop Express | 18.00% | ~48 |
 | Skin Of Your Teeth | 15.00% | ~40 |
 | Eggtraordinary | 15.00% | ~40 |
+| Oh My Gourd | 15.00% | ~32 |
 | This Is My Boomstick | 15.00% | ~32 |
 | Carrocketeer | 14.00% | ~37 |
-| Oh My Gourd | 14.00% | ~30 |
 | Getting Started | 13.00% | ~34 |
 | Summers Here | 12.00% | ~26 |
 | Quit Horsin' Around | 11.00% | ~29 |

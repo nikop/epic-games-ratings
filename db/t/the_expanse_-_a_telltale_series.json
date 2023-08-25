@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8909,
+  "EOS_Progressed": 8913,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 777,
+  "EOS_NewPlayers": 770,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3017,6 +3017,11 @@
       "Time": "2023-08-24T23:08:34.838649+00:00",
       "NumProgressed": 8909,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-25T00:09:02.490525+00:00",
+      "NumProgressed": 8913,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -3093,7 +3098,7 @@
       "Name": "Spore Taste",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 1158
+      "UsersEstimate": 1159
     },
     {
       "ID": "18",
@@ -3101,7 +3106,7 @@
       "Name": "Bottoms up!",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "19",
@@ -3109,7 +3114,7 @@
       "Name": "Martian Music",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1069
+      "UsersEstimate": 1070
     },
     {
       "ID": "2",
@@ -3123,9 +3128,9 @@
       "ID": "20",
       "SetID": "458bbdk",
       "Name": "Thorston Mayer",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 535
+      "UsersEstimate": 624
     },
     {
       "ID": "21",
@@ -3205,7 +3210,7 @@
       "Name": "Captain Drummer",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1425
+      "UsersEstimate": 1426
     },
     {
       "ID": "30",
@@ -3251,31 +3256,31 @@
       "ID": "8",
       "SetID": "458bbdk",
       "Name": "Data Recoverer",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 62
+      "UsersEstimate": 71
     },
     {
       "ID": "9",
       "SetID": "458bbdk",
       "Name": "Impossible Objects",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 267
+      "UsersEstimate": 357
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 8909,
+      "Progressed": 8913,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged_Achievements": "2023-08-24T23:08:34.8386483+00:00",
+  "LastChanged_Achievements": "2023-08-25T00:09:02.4905242+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:40.3624587+00:00",
-  "LastUpdate_Ratings": "2023-08-24T22:57:52.6367435+00:00",
-  "LastUpdate_Achievements": "2023-08-24T23:08:34.8386948+00:00"
+  "LastUpdate_Ratings": "2023-08-24T23:57:54.3667334+00:00",
+  "LastUpdate_Achievements": "2023-08-25T00:09:02.4905648+00:00"
 }

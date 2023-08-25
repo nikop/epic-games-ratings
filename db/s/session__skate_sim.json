@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 311,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2019-09-17T12:00:00+00:00",
@@ -880,9 +880,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2748,
+  "EOS_Progressed": 2750,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4115,6 +4115,11 @@
       "Time": "2023-08-24T19:06:12.3585318+00:00",
       "NumProgressed": 2748,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-25T00:06:28.5544186+00:00",
+      "NumProgressed": 2750,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4150,7 +4155,7 @@
       "Name": "Commence the Hijinx!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACH_COPS-CALLED",
@@ -4174,7 +4179,7 @@
       "Name": "Dipped!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_DIY-BOSS",
@@ -4182,7 +4187,7 @@
       "Name": "DIY Boss",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACH_FASHIONISTA",
@@ -4190,7 +4195,7 @@
       "Name": "Fashionista",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ACH_FINALLY-HE-SHUTS-UP",
@@ -4198,7 +4203,7 @@
       "Name": "Finally he zips it",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ACH_FULFILLED-THE-DREAM",
@@ -4222,7 +4227,7 @@
       "Name": "Globetrotter",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACH_GO-WITH-THE-FLOW",
@@ -4230,7 +4235,7 @@
       "Name": "Go with the Flow",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "ACH_GOAT-STATUS",
@@ -4254,7 +4259,7 @@
       "Name": "Good vibes",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "ACH_HOARDER",
@@ -4270,7 +4275,7 @@
       "Name": "Keep the dream alive",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "ACH_KEEPING-IT-CLASSY",
@@ -4286,7 +4291,7 @@
       "Name": "Laid back",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACH_LINES-FOR-DAYS",
@@ -4294,7 +4299,7 @@
       "Name": "Lines for days",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACH_LOVES-YOU-BACK",
@@ -4326,7 +4331,7 @@
       "Name": "NAHELL!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACH_PEW-PEW",
@@ -4406,7 +4411,7 @@
       "Name": "That pinch!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ACH_THAT-WAS-WHEELIE-FUN",
@@ -4414,7 +4419,7 @@
       "Name": "That was wheelie fun",
       "Percentage": 1,
       "XP": 45,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_THATS-HOW-ITS-DONE",
@@ -4446,7 +4451,7 @@
       "Name": "The hard way",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "ACH_TIGHT-LIPSLIDES",
@@ -4462,7 +4467,7 @@
       "Name": "Trick shot marksman",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACH_ULTIMATE-SKATE-NERD",
@@ -4478,7 +4483,7 @@
       "Name": "Upfront shredder",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "ACH_WE-GET-IT-YOURE-GOOD",
@@ -4494,7 +4499,7 @@
       "Name": "Welcome to the family",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -4502,22 +4507,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 1621
+      "UsersEstimate": 1622
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2748,
+      "Progressed": 2750,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-08-12T21:02:33.3554881+00:00",
-  "LastChanged_Achievements": "2023-08-24T23:06:10.0324917+00:00",
+  "LastChanged_Achievements": "2023-08-25T00:06:28.5544176+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:39.161743+00:00",
-  "LastUpdate_Ratings": "2023-08-24T22:57:23.7307159+00:00",
-  "LastUpdate_Achievements": "2023-08-24T23:06:10.0325812+00:00"
+  "LastUpdate_Ratings": "2023-08-24T23:57:21.2232277+00:00",
+  "LastUpdate_Achievements": "2023-08-25T00:06:28.5545266+00:00"
 }

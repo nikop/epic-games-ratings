@@ -5,53 +5,53 @@ Rating: 4.54 (Ranked 500)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dr. Reed, I Presume? | 0.10% | ~664 |
-| Making Your Mark | 0.10% | ~664 |
-| Git Gutte! | 0.10% | ~664 |
-| Anger Management | 0.10% | ~664 |
-| Make it So | 0.10% | ~664 |
-| LA Influential | 0.10% | ~664 |
-| Perks of the Job | 0.10% | ~664 |
-| Bookworm | 0.10% | ~664 |
-| Break A Leg | 0.10% | ~664 |
-| On Safari | 0.10% | ~664 |
-| I Got a Zombie Army and You Can't Harm Me | 0.10% | ~664 |
-| But Doctor, I am Butcho | 0.10% | ~664 |
-| Slayer Squad | 0.10% | ~664 |
-| Smorgasbord | 0.10% | ~664 |
-| Can't Handle the Truth | 0.10% | ~664 |
-| Coup de Grâce | 0.10% | ~664 |
-| Like Riding a Bike | 0.10% | ~664 |
-| Not Even My Final Form | 0.10% | ~664 |
-| Hazardous Materials | 0.10% | ~664 |
-| Friends Like These | 0.10% | ~664 |
-| Hotel California | 0.10% | ~664 |
-| Donk! | 0.10% | ~664 |
-| Internet Famous | 0.10% | ~664 |
-| Sole Survivor | 0.10% | ~664 |
-| Jumbo Keyring | 0.10% | ~664 |
-| Apex Predator | 0.10% | ~664 |
-| Zombologist | 0.10% | ~664 |
-| Ooh, Shiny! | 0.10% | ~664 |
-| Gore Horse | 0.10% | ~664 |
-| A Patton Emerges | 0.10% | ~664 |
-| Humanity Distilled | 0.10% | ~664 |
-| I Am the Resurrection | 0.10% | ~664 |
-| Down with the Sickness | 0.10% | ~664 |
-| Sharpest Tool in the Box | 0.10% | ~664 |
-| Stacking the Deck | 0.10% | ~664 |
-| Personal Assistant Personally Assisted | 0.10% | ~664 |
-| Survival Skills | 0.10% | ~664 |
-| Max Headroom | 0.10% | ~664 |
-| Go, Bobcats! | 0.10% | ~664 |
-| Our True Nature | 0.10% | ~664 |
-| This is My Weapon | 0.10% | ~664 |
-| Variety is the Spice of Death | 0.10% | ~664 |
-| Welcome To Hell-A | 0.10% | ~664 |
-| Rising Star | 0.10% | ~664 |
-| Bucket List | 0.10% | ~664 |
+| Dr. Reed, I Presume? | 0.10% | ~665 |
+| Making Your Mark | 0.10% | ~665 |
+| Git Gutte! | 0.10% | ~665 |
+| Anger Management | 0.10% | ~665 |
+| Make it So | 0.10% | ~665 |
+| LA Influential | 0.10% | ~665 |
+| Perks of the Job | 0.10% | ~665 |
+| Bookworm | 0.10% | ~665 |
+| Break A Leg | 0.10% | ~665 |
+| On Safari | 0.10% | ~665 |
+| I Got a Zombie Army and You Can't Harm Me | 0.10% | ~665 |
+| But Doctor, I am Butcho | 0.10% | ~665 |
+| Slayer Squad | 0.10% | ~665 |
+| Smorgasbord | 0.10% | ~665 |
+| Can't Handle the Truth | 0.10% | ~665 |
+| Coup de Grâce | 0.10% | ~665 |
+| Like Riding a Bike | 0.10% | ~665 |
+| Not Even My Final Form | 0.10% | ~665 |
+| Hazardous Materials | 0.10% | ~665 |
+| Friends Like These | 0.10% | ~665 |
+| Hotel California | 0.10% | ~665 |
+| Donk! | 0.10% | ~665 |
+| Internet Famous | 0.10% | ~665 |
+| Sole Survivor | 0.10% | ~665 |
+| Jumbo Keyring | 0.10% | ~665 |
+| Apex Predator | 0.10% | ~665 |
+| Zombologist | 0.10% | ~665 |
+| Ooh, Shiny! | 0.10% | ~665 |
+| Gore Horse | 0.10% | ~665 |
+| A Patton Emerges | 0.10% | ~665 |
+| Humanity Distilled | 0.10% | ~665 |
+| I Am the Resurrection | 0.10% | ~665 |
+| Down with the Sickness | 0.10% | ~665 |
+| Sharpest Tool in the Box | 0.10% | ~665 |
+| Stacking the Deck | 0.10% | ~665 |
+| Personal Assistant Personally Assisted | 0.10% | ~665 |
+| Survival Skills | 0.10% | ~665 |
+| Max Headroom | 0.10% | ~665 |
+| Go, Bobcats! | 0.10% | ~665 |
+| Our True Nature | 0.10% | ~665 |
+| This is My Weapon | 0.10% | ~665 |
+| Variety is the Spice of Death | 0.10% | ~665 |
+| Welcome To Hell-A | 0.10% | ~665 |
+| Rising Star | 0.10% | ~665 |
+| Bucket List | 0.10% | ~665 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 664,478 (Ranked 22)  
+Progressed: 664,507 (Ranked 22)  
 Completed: 2,059 (0.31%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,6 +178,7 @@ Completed: 2,059 (0.31%) (Ranked 170)
 | 2023-08-22 | 662,956 | 2,053 |
 | 2023-08-23 | 663,691 | 2,054 |
 | 2023-08-24 | 664,478 | 2,059 |
+| 2023-08-25 | 664,507 | 2,059 |
 ## Awards
 Max (Great Boss Battles): 5,753  (Ranked 61)  
 Sum: 8,465 (Ranked 97)  

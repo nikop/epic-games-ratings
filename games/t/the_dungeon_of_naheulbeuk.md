@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 23.00% | ~49,860 |
+| Sowwy! | 23.00% | ~49,862 |
 | Déjà vu | 2.00% | ~4,336 |
 | Where's that freaking Dwarf? | 2.00% | ~4,336 |
 | Sock! SOCK! | 2.00% | ~4,336 |
@@ -19,14 +19,14 @@ Number of Ratings: 118  (23.09.2022)
 | Way of the Wimp | 0.90% | ~1,951 |
 | The plot thickens... At the tavern | 0.90% | ~1,951 |
 | Livin' in a dwarven paradise | 0.80% | ~1,734 |
-| The demons' feast | 0.70% | ~1,517 |
-| The Great Library | 0.70% | ~1,517 |
-| Torture and Sensibility | 0.70% | ~1,517 |
-| Urik's Depths | 0.70% | ~1,517 |
-| The Dungeon Master | 0.70% | ~1,517 |
-| The Woman in the High Castle | 0.70% | ~1,517 |
-| Team Building Exercise | 0.70% | ~1,517 |
-| Oh, when I'll be level 10... | 0.70% | ~1,517 |
+| The demons' feast | 0.70% | ~1,518 |
+| The Great Library | 0.70% | ~1,518 |
+| Torture and Sensibility | 0.70% | ~1,518 |
+| Urik's Depths | 0.70% | ~1,518 |
+| The Dungeon Master | 0.70% | ~1,518 |
+| The Woman in the High Castle | 0.70% | ~1,518 |
+| Team Building Exercise | 0.70% | ~1,518 |
+| Oh, when I'll be level 10... | 0.70% | ~1,518 |
 | Shiny and Crôm | 0.60% | ~1,301 |
 | The Statuette of Gladeulfeurah | 0.60% | ~1,301 |
 | A tale of adventurers not quite like the others... | 0.60% | ~1,301 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~217 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,781 (Ranked 56)  
+Progressed: 216,793 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,15 +181,16 @@ Completed: 2 (0.00%) (Ranked 263)
 | 2023-08-22 | 216,036 | 2 |
 | 2023-08-23 | 216,367 | 2 |
 | 2023-08-24 | 216,781 | 2 |
+| 2023-08-25 | 216,793 | 2 |
 ## Awards
 Max (Character Customization): 174  (Ranked 285)  
-Sum: 217 (Ranked 364)  
+Sum: 218 (Ranked 364)  
 Diff (max vs sum): -79  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 174 |
+| This game is Relaxing | 22 |
 | This game is Great for Beginners | 22 |
-| This game is Relaxing | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -306,3 +307,4 @@ Diff (max vs sum): -79
 | 2023-08-22 | 4.58 | - | 173 | 215 |
 | 2023-08-23 | 4.58 | - | 174 | 216 |
 | 2023-08-24 | 4.58 | - | 174 | 217 |
+| 2023-08-25 | 4.58 | - | 174 | 218 |

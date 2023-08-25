@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 485,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 339,
+  "EOS_NewPlayers": 337,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -939,9 +939,9 @@
       "ID": "_02_FinishFirstMission",
       "SetID": "8a1io5d",
       "Name": "A New Journey",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 359
+      "UsersEstimate": 364
     },
     {
       "ID": "_03_FinishAct1",
@@ -987,9 +987,9 @@
       "ID": "_08_Completion_10",
       "SetID": "8a1io5d",
       "Name": "Swabbie",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 179
     },
     {
       "ID": "_09_Completion_20",
@@ -1146,8 +1146,8 @@
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-24T23:05:15.4163568+00:00",
+  "LastChanged_Achievements": "2023-08-25T00:05:36.5639061+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:01.7621403+00:00",
-  "LastUpdate_Ratings": "2023-08-24T23:01:36.9540229+00:00",
-  "LastUpdate_Achievements": "2023-08-24T23:05:15.4163854+00:00"
+  "LastUpdate_Ratings": "2023-08-25T00:02:15.1433658+00:00",
+  "LastUpdate_Achievements": "2023-08-25T00:05:36.5639473+00:00"
 }

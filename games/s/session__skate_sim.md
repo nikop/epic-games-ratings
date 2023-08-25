@@ -6,21 +6,21 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 59.00% | ~1,621 |
+| You're free now! | 59.00% | ~1,622 |
 | Keeping it classy | 27.00% | ~742 |
-| Welcome to the family | 21.00% | ~577 |
+| Welcome to the family | 21.00% | ~578 |
 | The finer things in life | 18.00% | ~495 |
 | Backpacker | 14.00% | ~385 |
-| Go with the Flow | 13.00% | ~357 |
+| Go with the Flow | 13.00% | ~358 |
 | Plastic Surgeon | 10.00% | ~275 |
 | The flip trick crown jewel | 10.00% | ~275 |
-| Good vibes | 9.00% | ~247 |
-| Keep the dream alive | 9.00% | ~247 |
-| The hard way | 9.00% | ~247 |
-| Upfront shredder | 9.00% | ~247 |
-| Fashionista | 7.00% | ~192 |
-| Finally he zips it | 7.00% | ~192 |
-| That pinch! | 7.00% | ~192 |
+| Good vibes | 9.00% | ~248 |
+| Keep the dream alive | 9.00% | ~248 |
+| The hard way | 9.00% | ~248 |
+| Upfront shredder | 9.00% | ~248 |
+| Fashionista | 7.00% | ~193 |
+| Finally he zips it | 7.00% | ~193 |
+| That pinch! | 7.00% | ~193 |
 | Bottom ply killer | 6.00% | ~165 |
 | Fulfilled the dream | 6.00% | ~165 |
 | G'Day Mate! | 6.00% | ~165 |
@@ -28,13 +28,13 @@ Number of Ratings: 111  (23.09.2022)
 | Squad goals | 6.00% | ~165 |
 | Sup widdit big dog! | 6.00% | ~165 |
 | Tight lipslides | 6.00% | ~165 |
-| Commence the Hijinx! | 5.00% | ~137 |
-| DIY Boss | 5.00% | ~137 |
-| Globetrotter | 5.00% | ~137 |
-| Laid back | 5.00% | ~137 |
-| Lines for days | 5.00% | ~137 |
-| NAHELL! | 5.00% | ~137 |
-| Trick shot marksman | 5.00% | ~137 |
+| Commence the Hijinx! | 5.00% | ~138 |
+| DIY Boss | 5.00% | ~138 |
+| Globetrotter | 5.00% | ~138 |
+| Laid back | 5.00% | ~138 |
+| Lines for days | 5.00% | ~138 |
+| NAHELL! | 5.00% | ~138 |
+| Trick shot marksman | 5.00% | ~138 |
 | Cops called! | 4.00% | ~110 |
 | G.O.A.T. status | 4.00% | ~110 |
 | Manny Destroys All | 4.00% | ~110 |
@@ -46,8 +46,8 @@ Number of Ratings: 111  (23.09.2022)
 | Pew-Pew | 3.00% | ~82 |
 | Cross lock country | 2.00% | ~55 |
 | Many plys later... | 2.00% | ~55 |
-| Dipped! | 1.00% | ~27 |
-| That was wheelie fun | 1.00% | ~27 |
+| Dipped! | 1.00% | ~28 |
+| That was wheelie fun | 1.00% | ~28 |
 | Skatepark hero | 0.90% | ~25 |
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,748 (Ranked 163)  
+Progressed: 2,750 (Ranked 163)  
 Completed: 0 (0.00%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,6 +173,7 @@ Completed: 0 (0.00%) (Ranked 263)
 | 2023-08-22 | 2,744 | 0 |
 | 2023-08-23 | 2,747 | 0 |
 | 2023-08-24 | 2,748 | 0 |
+| 2023-08-25 | 2,750 | 0 |
 ## Awards
 Max (Highly Recommended): 52  (Ranked 400)  
 Sum: 451 (Ranked 311)  

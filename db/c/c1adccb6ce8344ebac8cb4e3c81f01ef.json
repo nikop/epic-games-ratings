@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 244,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.46,
   "EosHistory": [
@@ -839,9 +839,9 @@
       "ID": "BlueSkeleton",
       "SetID": "a76l54k",
       "Name": "Blue Skeleton",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 200,
-      "UsersEstimate": 24
+      "UsersEstimate": 27
     },
     {
       "ID": "GreenSkeleton",
@@ -871,9 +871,9 @@
       "ID": "YellowSkeleton",
       "SetID": "a76l54k",
       "Name": "Yellow Skeleton",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 200,
-      "UsersEstimate": 37
+      "UsersEstimate": 39
     }
   ],
   "AchievementSets": [
@@ -886,8 +886,8 @@
   ],
   "FirstSeen": "2023-06-27T08:56:55.4742028+00:00",
   "FirstSeenAchievements": "2023-06-15T10:01:05.3060571+00:00",
-  "LastChanged_Achievements": "2023-08-24T23:03:20.057148+00:00",
+  "LastChanged_Achievements": "2023-08-25T00:03:59.6247783+00:00",
   "LastUpdate_AppInfo": "2023-08-24T17:57:03.5736235+00:00",
-  "LastUpdate_Ratings": "2023-08-24T23:00:03.4829456+00:00",
-  "LastUpdate_Achievements": "2023-08-24T23:03:20.057164+00:00"
+  "LastUpdate_Ratings": "2023-08-25T00:00:29.4174133+00:00",
+  "LastUpdate_Achievements": "2023-08-25T00:03:59.6248185+00:00"
 }

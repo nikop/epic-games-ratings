@@ -6,20 +6,20 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 72.00% | ~6,128 |
+| First Step | 72.00% | ~6,129 |
 | Leader | 60.00% | ~5,107 |
 | Explorer | 53.00% | ~4,511 |
 | Healer | 52.00% | ~4,426 |
 | Aspiring Inventor | 44.00% | ~3,745 |
 | Adventurer | 41.00% | ~3,490 |
-| Famous Healer | 38.00% | ~3,234 |
+| Famous Healer | 38.00% | ~3,235 |
 | Local Leader | 35.00% | ~2,979 |
 | Famous Explorer | 34.00% | ~2,894 |
 | New Opportunities | 34.00% | ~2,894 |
 | Energized | 33.00% | ~2,809 |
 | The Long Haul | 33.00% | ~2,809 |
-| The Great Healer | 31.00% | ~2,638 |
-| Survivor | 31.00% | ~2,638 |
+| The Great Healer | 31.00% | ~2,639 |
+| Survivor | 31.00% | ~2,639 |
 | Legendary Explorer | 28.00% | ~2,383 |
 | Cleaner | 28.00% | ~2,383 |
 | Catastrofan | 28.00% | ~2,383 |
@@ -28,8 +28,8 @@ Number of Ratings: 836  (23.09.2022)
 | Great Leader | 23.00% | ~1,958 |
 | Ice Lakes | 23.00% | ~1,958 |
 | Mentor | 23.00% | ~1,958 |
-| Merchant | 22.00% | ~1,872 |
-| Real Survivor | 22.00% | ~1,872 |
+| Merchant | 22.00% | ~1,873 |
+| Real Survivor | 22.00% | ~1,873 |
 | Rocket Surgeon | 20.00% | ~1,702 |
 | War Never Changes | 19.00% | ~1,617 |
 | Big Game Hunter | 17.00% | ~1,447 |
@@ -38,8 +38,8 @@ Number of Ratings: 836  (23.09.2022)
 | Around the World | 16.00% | ~1,362 |
 | Bookworm | 15.00% | ~1,277 |
 | Famous Adventurer | 14.00% | ~1,192 |
-| Prepared for Anything | 13.00% | ~1,106 |
-| Big Catastrofan | 13.00% | ~1,106 |
+| Prepared for Anything | 13.00% | ~1,107 |
+| Big Catastrofan | 13.00% | ~1,107 |
 | It's a Finnish Thing | 10.00% | ~851 |
 | Trader | 9.00% | ~766 |
 | Sky Burial | 9.00% | ~766 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~17 |
 | Customized calamities | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,511 (Ranked 131)  
+Progressed: 8,512 (Ranked 131)  
 Completed: 0 (0.00%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,6 +193,7 @@ Completed: 0 (0.00%) (Ranked 263)
 | 2023-08-22 | 8,464 | 0 |
 | 2023-08-23 | 8,491 | 0 |
 | 2023-08-24 | 8,511 | 0 |
+| 2023-08-25 | 8,512 | 0 |
 ## Awards
 Max (Extremely Fun): 101  (Ranked 336)  
 Sum: 693 (Ranked 278)  
