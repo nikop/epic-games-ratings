@@ -15,6 +15,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able | 2.00% | ~271 |
 | Ambitious | 2.00% | ~271 |
 | Architect | 2.00% | ~271 |
+| Brilliant | 2.00% | ~271 |
 | Enlightened | 2.00% | ~271 |
 | Glorious | 2.00% | ~271 |
 | Good | 2.00% | ~271 |
@@ -48,7 +49,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Poetic Leader | 2.00% | ~271 |
 | Regicide | 1.00% | ~136 |
 | Drillmaster | 1.00% | ~136 |
-| Brilliant | 1.00% | ~136 |
 | Fountainhead | 1.00% | ~136 |
 | Great | 1.00% | ~136 |
 | Intercessor | 1.00% | ~136 |
@@ -57,6 +57,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legendary Cities | 1.00% | ~136 |
 | Just Difficulty | 1.00% | ~136 |
 | Artisans | 1.00% | ~136 |
+| Champions | 1.00% | ~136 |
 | Sages | 1.00% | ~136 |
 | Furious Family | 1.00% | ~136 |
 | Acropolis | 1.00% | ~136 |
@@ -77,7 +78,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Beloved | 0.90% | ~122 |
 | Mighty | 0.90% | ~122 |
 | Victorious | 0.90% | ~122 |
-| Champions | 0.90% | ~122 |
 | Conqueror | 0.80% | ~108 |
 | Lion | 0.80% | ~108 |
 | Patrons | 0.80% | ~108 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,556 (Ranked 119)  
+Progressed: 13,559 (Ranked 119)  
 Completed: 5 (0.04%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -430,7 +430,7 @@ Completed: 5 (0.04%) (Ranked 233)
 | 2023-08-22 | 13,532 | 5 |
 | 2023-08-23 | 13,540 | 5 |
 | 2023-08-24 | 13,546 | 5 |
-| 2023-08-25 | 13,556 | 5 |
+| 2023-08-25 | 13,559 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,799 (Ranked 208)  

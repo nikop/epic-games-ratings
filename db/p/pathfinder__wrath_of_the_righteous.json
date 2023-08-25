@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 114,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3536,9 +3536,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 11066,
+  "EOS_Progressed": 11068,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11286,6 +11286,11 @@
       "Time": "2023-08-25T17:05:47.5369529+00:00",
       "NumProgressed": 11066,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-25T19:06:30.3482136+00:00",
+      "NumProgressed": 11068,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -11297,7 +11302,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 2545
+      "UsersEstimate": 2546
     },
     {
       "ID": "02_BurningCity",
@@ -11543,9 +11548,9 @@
       "ID": "33_DefendersHeart",
       "SetID": "989of5o",
       "Name": "Defender\u0027s Heart",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1549
+      "UsersEstimate": 1439
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -11665,7 +11670,7 @@
       "Name": "A Spark",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1881
+      "UsersEstimate": 1882
     },
     {
       "ID": "49_Flame",
@@ -12209,7 +12214,7 @@
       "Name": "The Lady of the Forest",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "DLC4_34_Beware of Still Water",
@@ -12217,28 +12222,28 @@
       "Name": "Beware Still Water",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     }
   ],
   "AchievementSets": [
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9848,
+      "Progressed": 9850,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11066,
+      "Progressed": 11068,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-23T13:04:06.393487+00:00",
-  "LastChanged_Achievements": "2023-08-25T18:05:48.8652537+00:00",
+  "LastChanged_Achievements": "2023-08-25T19:06:30.3482131+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:48.9326646+00:00",
-  "LastUpdate_Ratings": "2023-08-25T18:01:06.6762706+00:00",
-  "LastUpdate_Achievements": "2023-08-25T18:05:48.8654627+00:00"
+  "LastUpdate_Ratings": "2023-08-25T19:02:06.3018824+00:00",
+  "LastUpdate_Achievements": "2023-08-25T19:06:30.3483847+00:00"
 }

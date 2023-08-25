@@ -4,10 +4,10 @@
   "ProductSlug": "session-skate-sim",
   "Ranking_Rating": 238,
   "Ranking_Popularity": 400,
-  "Ranking_PopularitySum": 311,
+  "Ranking_PopularitySum": 310,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -800,10 +800,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 451,
       "NumberOfAwardsMax": 52
+    },
+    {
+      "Time": "2023-08-25T18:57:15.94259+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 454,
+      "NumberOfAwardsMax": 52
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 451,
+  "NumberOfAwards": 454,
   "NumberOfAwardsMax": 52,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -817,13 +823,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 39
+      "Count": 40
     },
     {
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 42
+      "Count": 44
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4535,9 +4541,9 @@
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
-  "LastChanged": "2023-08-12T21:02:33.3554881+00:00",
-  "LastChanged_Achievements": "2023-08-25T18:05:11.9787184+00:00",
+  "LastChanged": "2023-08-25T18:57:15.9425898+00:00",
+  "LastChanged_Achievements": "2023-08-25T19:05:46.9691699+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:39.161743+00:00",
-  "LastUpdate_Ratings": "2023-08-25T17:57:01.8121682+00:00",
-  "LastUpdate_Achievements": "2023-08-25T18:05:11.9787814+00:00"
+  "LastUpdate_Ratings": "2023-08-25T18:57:15.9425902+00:00",
+  "LastUpdate_Achievements": "2023-08-25T19:05:46.9692152+00:00"
 }

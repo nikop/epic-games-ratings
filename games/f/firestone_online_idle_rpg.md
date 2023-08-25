@@ -66,9 +66,9 @@ Rating: 4.05 (Ranked 926)
 | Mythic Power | 2.00% | ~37 |
 | Cauldron Liberator | 1.00% | ~18 |
 | Guardian Master | 1.00% | ~18 |
+| Training makes a Pro player | 1.00% | ~18 |
 | Transmute | 1.00% | ~18 |
 | Titan Power | 0.90% | ~17 |
-| Training makes a Pro player | 0.90% | ~17 |
 | Enhanced War Machines | 0.70% | ~13 |
 | Tree of Life | 0.70% | ~13 |
 | Enchanting skill x5 | 0.60% | ~11 |

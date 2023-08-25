@@ -7,8 +7,8 @@
 | Escape artist | 78.00% | ~29 |
 | Book Worm | 65.00% | ~24 |
 | Ooh, it's shiny! | 65.00% | ~24 |
+| Through the woods | 62.00% | ~23 |
 | My lost nightingale | 62.00% | ~23 |
-| Through the woods | 59.00% | ~22 |
 | Back to the anvil | 51.00% | ~19 |
 | So soothing... | 49.00% | ~18 |
 | Kekekeke... | 49.00% | ~18 |

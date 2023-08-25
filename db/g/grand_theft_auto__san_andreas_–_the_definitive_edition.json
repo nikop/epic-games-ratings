@@ -2,13 +2,13 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 451,
+  "Ranking_Rating": 450,
   "Ranking_Popularity": 248,
   "Ranking_PopularitySum": 337,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -754,7 +754,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12040,
+  "EOS_Progressed": 12041,
   "EOS_Completed": 40,
   "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 1,
@@ -9334,6 +9334,11 @@
       "Time": "2023-08-25T18:04:11.3407136+00:00",
       "NumProgressed": 12040,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-08-25T19:04:47.9629278+00:00",
+      "NumProgressed": 12041,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 35,
@@ -9345,7 +9350,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9752
+      "UsersEstimate": 9753
     },
     {
       "ID": "ACH02",
@@ -9401,7 +9406,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6140
+      "UsersEstimate": 6141
     },
     {
       "ID": "ACH09",
@@ -9449,7 +9454,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1324
+      "UsersEstimate": 1325
     },
     {
       "ID": "ACH15",
@@ -9521,7 +9526,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3130
+      "UsersEstimate": 3131
     },
     {
       "ID": "ACH24",
@@ -9624,7 +9629,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12040,
+      "Progressed": 12041,
       "Completed": 40
     }
   ],
@@ -9632,8 +9637,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-08-25T04:59:03.7380012+00:00",
-  "LastChanged_Achievements": "2023-08-25T18:04:11.3407129+00:00",
+  "LastChanged_Achievements": "2023-08-25T19:04:47.9629274+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:04.3712405+00:00",
-  "LastUpdate_Ratings": "2023-08-25T17:58:35.5513736+00:00",
-  "LastUpdate_Achievements": "2023-08-25T18:04:11.3407874+00:00"
+  "LastUpdate_Ratings": "2023-08-25T18:59:08.623676+00:00",
+  "LastUpdate_Achievements": "2023-08-25T19:04:47.962991+00:00"
 }

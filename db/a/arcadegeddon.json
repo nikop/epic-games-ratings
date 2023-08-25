@@ -8528,9 +8528,9 @@
       "ID": "ACH_YOURE_FIRED",
       "SetID": "97mcd7i",
       "Name": "You\u0027re Fired",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 4946
+      "UsersEstimate": 5033
     }
   ],
   "AchievementSets": [
@@ -8544,8 +8544,8 @@
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-08-19T04:00:18.5664254+00:00",
-  "LastChanged_Achievements": "2023-08-25T18:02:32.3957197+00:00",
+  "LastChanged_Achievements": "2023-08-25T19:03:28.6091275+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:48.1551117+00:00",
-  "LastUpdate_Ratings": "2023-08-25T18:01:07.8332653+00:00",
-  "LastUpdate_Achievements": "2023-08-25T18:02:32.3958117+00:00"
+  "LastUpdate_Ratings": "2023-08-25T19:02:07.6224119+00:00",
+  "LastUpdate_Achievements": "2023-08-25T19:03:28.6091965+00:00"
 }

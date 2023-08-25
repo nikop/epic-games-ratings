@@ -4,38 +4,38 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stogie for Fogey | 18.00% | ~1,626 |
-| Doctor Approved | 17.00% | ~1,536 |
-| Captain Drummer | 16.00% | ~1,445 |
-| Spore Taste | 13.00% | ~1,174 |
-| Martian Music | 13.00% | ~1,174 |
-| Celebrations are in Order | 10.00% | ~903 |
-| Thorston Mayer | 7.00% | ~632 |
-| Impossible Objects | 7.00% | ~632 |
+| Stogie for Fogey | 18.00% | ~1,628 |
+| Doctor Approved | 17.00% | ~1,537 |
+| Captain Drummer | 16.00% | ~1,447 |
+| Spore Taste | 13.00% | ~1,176 |
+| Martian Music | 13.00% | ~1,176 |
+| Celebrations are in Order | 10.00% | ~904 |
+| Thorston Mayer | 7.00% | ~633 |
+| Impossible Objects | 7.00% | ~633 |
 | Bottoms up! | 5.00% | ~452 |
 | Data Logger | 3.00% | ~271 |
 | Data Master | 2.00% | ~181 |
 | Urshanabi Hoarder | 1.00% | ~90 |
 | Data Recoverer | 1.00% | ~90 |
 | Debris Spree | 0.90% | ~81 |
-| Grave Robber | 0.40% | ~36 |
+| Grave Robber | 0.50% | ~45 |
+| Data Miner | 0.10% | ~9 |
 | The Pit and the Pirates | 0.10% | ~9 |
 | Data Archivist | 0.10% | ~9 |
+| Drone Dodger | 0.10% | ~9 |
 | Miraculous Maya | 0.10% | ~9 |
 | Khan's Revenge | 0.10% | ~9 |
 | Call it Even | 0.10% | ~9 |
 | Bosmang | 0.10% | ~9 |
 | No Belter Left Behind | 0.10% | ~9 |
-| Data Miner | 0.00% | ~0 |
 | Oyedang, Kopengs | 0.00% | ~0 |
 | Drug Gifter | 0.00% | ~0 |
-| Drone Dodger | 0.00% | ~0 |
 | Brother's Reaper | 0.00% | ~0 |
 | Heal Thy Medic | 0.00% | ~0 |
 | Scavenger Star | 0.00% | ~0 |
 | Data Collector | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,034 (Ranked 128)  
+Progressed: 9,044 (Ranked 128)  
 Completed: 0 (0.00%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,4 +69,4 @@ Completed: 0 (0.00%) (Ranked 263)
 | 2023-08-22 | 8,787 | 0 |
 | 2023-08-23 | 8,820 | 0 |
 | 2023-08-24 | 8,909 | 0 |
-| 2023-08-25 | 9,034 | 0 |
+| 2023-08-25 | 9,044 | 0 |

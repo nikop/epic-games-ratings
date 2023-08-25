@@ -1,12 +1,12 @@
 # Redout 2
 [Store](https://store.epicgames.com/en-US/p/redout-2)  
 [View Rawdata](../../db/r/redout_2.json)  
-Rating: 4.48 (Ranked 597)  
+Rating: 4.48 (Ranked 596)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie No More | 27.00% | ~300 |
-| Increasing your Power Level | 27.00% | ~300 |
+| Rookie No More | 27.00% | ~301 |
+| Increasing your Power Level | 27.00% | ~301 |
 | Enter the Speed Gauntlet | 24.00% | ~267 |
 | I just can't choose | 24.00% | ~267 |
 | A Cheese Grater to the Face | 19.00% | ~211 |
@@ -16,7 +16,7 @@ Rating: 4.48 (Ranked 597)
 | Walked like an Egyptian | 15.00% | ~167 |
 | Ride in the rising sun | 15.00% | ~167 |
 | Running at the speed of sound | 13.00% | ~145 |
-| Rookie No-No More | 12.00% | ~133 |
+| Rookie No-No More | 12.00% | ~134 |
 | Martian explorer | 11.00% | ~122 |
 | To the core | 9.00% | ~100 |
 | Blurred photofinish | 8.00% | ~89 |
@@ -27,12 +27,12 @@ Rating: 4.48 (Ranked 597)
 | EZ game EZ life | 6.00% | ~67 |
 | Longshot | 6.00% | ~67 |
 | B-asic! | 5.00% | ~56 |
-| Under the neon lights | 4.00% | ~44 |
-| All Power to Engines! | 4.00% | ~44 |
-| Almost broke the game | 4.00% | ~44 |
-| Better luck next time | 4.00% | ~44 |
-| Dev, this! | 4.00% | ~44 |
-| He who laughs last... | 4.00% | ~44 |
+| Under the neon lights | 4.00% | ~45 |
+| All Power to Engines! | 4.00% | ~45 |
+| Almost broke the game | 4.00% | ~45 |
+| Better luck next time | 4.00% | ~45 |
+| Dev, this! | 4.00% | ~45 |
+| He who laughs last... | 4.00% | ~45 |
 | Try them all | 3.00% | ~33 |
 | A-mazing! | 3.00% | ~33 |
 | To infinity and gravity! | 3.00% | ~33 |
@@ -58,7 +58,7 @@ Rating: 4.48 (Ranked 597)
 | I, need, more, shelves! | 0.40% | ~4 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,112 (Ranked 195)  
+Progressed: 1,113 (Ranked 195)  
 Completed: 0 (0.00%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,6 +143,7 @@ Completed: 0 (0.00%) (Ranked 263)
 | 2023-08-20 | 1,109 | 0 |
 | 2023-08-21 | 1,110 | 0 |
 | 2023-08-22 | 1,112 | 0 |
+| 2023-08-25 | 1,113 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

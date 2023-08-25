@@ -18,9 +18,9 @@
 | Destination Destiny | 31.00% | ~103 |
 | Happy Tenants | 26.00% | ~87 |
 | Potent Potables | 26.00% | ~87 |
-| Smooth Service | 25.00% | ~83 |
+| Smooth Service | 26.00% | ~87 |
+| Your Prestige is Rising | 24.00% | ~80 |
 | Retail Revenue | 24.00% | ~80 |
-| Your Prestige is Rising | 23.00% | ~77 |
 | Don't Feel a Loan | 22.00% | ~73 |
 | Lux Living | 21.00% | ~70 |
 | People Mover | 21.00% | ~70 |
@@ -28,8 +28,8 @@
 | Emporium Empire | 20.00% | ~67 |
 | Leveled Up Shops | 20.00% | ~67 |
 | We Don't Need No Education | 20.00% | ~67 |
+| Get Electrified | 20.00% | ~67 |
 | Rehab Expert | 19.00% | ~63 |
-| Get Electrified | 19.00% | ~63 |
 | Tasty Profits | 18.00% | ~60 |
 | Established Fame | 16.00% | ~53 |
 | Cashflow Chief | 16.00% | ~53 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 333 (Ranked 258)  
+Progressed: 333 (Ranked 259)  
 Completed: 0 (0.00%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |

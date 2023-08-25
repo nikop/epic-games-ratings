@@ -7,27 +7,27 @@ Number of Ratings: 53  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Cabin boy | 80.00% | ~674 |
-| My little farm | 65.00% | ~547 |
-| Every beginning is difficult | 62.00% | ~522 |
-| Gofer | 57.00% | ~480 |
+| My little farm | 65.00% | ~548 |
+| Every beginning is difficult | 63.00% | ~531 |
+| Gofer | 57.00% | ~481 |
 | 3, 2, 1, mine | 56.00% | ~472 |
 | O Captain! My Captain! | 54.00% | ~455 |
-| Seafarer | 53.00% | ~446 |
+| Seafarer | 53.00% | ~447 |
 | Greed for gold | 43.00% | ~362 |
 | Intangible | 42.00% | ~354 |
 | I'm out of here for a while | 42.00% | ~354 |
 | In a mint condition | 37.00% | ~312 |
 | Licence to Kill | 36.00% | ~303 |
-| Pirates! | 34.00% | ~286 |
+| Pirates! | 34.00% | ~287 |
 | Megalomania | 29.00% | ~244 |
+| Christening | 28.00% | ~236 |
 | Collectionitis | 28.00% | ~236 |
-| Christening | 27.00% | ~227 |
 | Groundskeeper | 26.00% | ~219 |
 | Wholesale | 22.00% | ~185 |
-| Walk the plank | 20.00% | ~168 |
+| Walk the plank | 20.00% | ~169 |
 | Pearly gates | 17.00% | ~143 |
 | My precious! | 17.00% | ~143 |
-| Conquistador | 13.00% | ~109 |
+| Conquistador | 13.00% | ~110 |
 | Panic buying | 11.00% | ~93 |
 | Just a scratch | 9.00% | ~76 |
 | Your vessel, my vessel | 9.00% | ~76 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Fleet Admiral | 0.60% | ~5 |
 | Davy Jones' locker | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 842 (Ranked 208)  
+Progressed: 843 (Ranked 208)  
 Completed: 1 (0.12%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 1 (0.12%) (Ranked 203)
 | 2023-08-21 | 837 | 1 |
 | 2023-08-22 | 839 | 1 |
 | 2023-08-24 | 841 | 1 |
-| 2023-08-25 | 842 | 1 |
+| 2023-08-25 | 843 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

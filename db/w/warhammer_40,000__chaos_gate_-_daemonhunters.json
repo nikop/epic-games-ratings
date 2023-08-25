@@ -3357,9 +3357,9 @@
       "ID": "Kills_Bloomspawn",
       "SetID": "3jha1np",
       "Name": "Corruption Cleanser",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 28
     },
     {
       "ID": "Kills_Executioner",
@@ -3731,8 +3731,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-08-23T16:01:12.805504+00:00",
-  "LastChanged_Achievements": "2023-08-25T18:03:17.3034335+00:00",
+  "LastChanged_Achievements": "2023-08-25T19:03:45.4594339+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:07.2457107+00:00",
-  "LastUpdate_Ratings": "2023-08-25T18:01:23.1396435+00:00",
-  "LastUpdate_Achievements": "2023-08-25T18:03:17.3035197+00:00"
+  "LastUpdate_Ratings": "2023-08-25T19:02:23.7168575+00:00",
+  "LastUpdate_Achievements": "2023-08-25T19:03:45.4595029+00:00"
 }

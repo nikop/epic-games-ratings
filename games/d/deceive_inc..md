@@ -16,7 +16,7 @@ Rating: 4.58 (Ranked 427)
 | Assistant Accountant | 17.00% | ~2,999 |
 | Fully Decked Out | 17.00% | ~2,999 |
 | You Only Live Twice | 16.00% | ~2,823 |
-| A view to Win | 13.00% | ~2,293 |
+| A view to Win | 13.00% | ~2,294 |
 | The Living Portrait | 12.00% | ~2,117 |
 | Private Collection | 12.00% | ~2,117 |
 | Hostile Takeover | 12.00% | ~2,117 |
@@ -37,12 +37,12 @@ Rating: 4.58 (Ranked 427)
 | The terminals are not enough | 1.00% | ~176 |
 | Lose Another Day | 1.00% | ~176 |
 | Chairman of Deceive Inc. | 0.90% | ~159 |
-| Chief Information Officer | 0.70% | ~123 |
+| Chief Information Officer | 0.70% | ~124 |
 | Masteries Are Forever | 0.40% | ~71 |
 | Extraction Confusion | 0.20% | ~35 |
 | Spyfall | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,642 (Ranked 111)  
+Progressed: 17,643 (Ranked 111)  
 Completed: 1 (0.01%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 1 (0.01%) (Ranked 250)
 | 2023-08-22 | 17,562 | 1 |
 | 2023-08-23 | 17,592 | 1 |
 | 2023-08-24 | 17,618 | 1 |
-| 2023-08-25 | 17,642 | 1 |
+| 2023-08-25 | 17,643 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

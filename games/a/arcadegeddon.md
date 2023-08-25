@@ -13,7 +13,7 @@ Number of Ratings: 801  (23.09.2022)
 | Adventure Time | 80.00% | ~6,942 |
 | Playing With Power | 77.00% | ~6,682 |
 | Coup d'Etat | 59.00% | ~5,120 |
-| You're Fired | 57.00% | ~4,946 |
+| You're Fired | 58.00% | ~5,033 |
 | Get Furious | 56.00% | ~4,860 |
 | Gunplay And Cosplay | 55.00% | ~4,773 |
 | Hacks In Stacks | 55.00% | ~4,773 |

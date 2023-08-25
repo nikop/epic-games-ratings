@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2385,
+  "EOS_Progressed": 2386,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
@@ -5206,6 +5206,11 @@
       "Time": "2023-08-25T15:06:00.2543364+00:00",
       "NumProgressed": 2385,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-25T19:05:49.8721713+00:00",
+      "NumProgressed": 2386,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -5241,15 +5246,15 @@
       "Name": "Whoops",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "CONQUEROR",
       "SetID": "8lhbnh7",
       "Name": "Harold Rex Interfectus Est",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 668
+      "UsersEstimate": 644
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -5297,7 +5302,7 @@
       "Name": "Novice",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "GLOVE_SLAP",
@@ -5321,7 +5326,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1431
+      "UsersEstimate": 1432
     },
     {
       "ID": "GUARD_MAKER",
@@ -5392,14 +5397,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2385,
+      "Progressed": 2386,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-08-25T18:05:14.4360697+00:00",
+  "LastChanged_Achievements": "2023-08-25T19:05:49.8721708+00:00",
   "LastUpdate_AppInfo": "2023-08-22T22:57:06.3443756+00:00",
-  "LastUpdate_Ratings": "2023-08-25T17:59:41.2382589+00:00",
-  "LastUpdate_Achievements": "2023-08-25T18:05:14.4361131+00:00"
+  "LastUpdate_Ratings": "2023-08-25T19:00:28.8450527+00:00",
+  "LastUpdate_Achievements": "2023-08-25T19:05:49.8722104+00:00"
 }

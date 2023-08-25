@@ -6,31 +6,31 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 74.00% | ~4,053 |
-| Having A Field Day | 74.00% | ~4,053 |
+| Get A Room | 74.00% | ~4,054 |
+| Having A Field Day | 74.00% | ~4,054 |
 | Reap What You Sow | 71.00% | ~3,889 |
-| The First Day | 68.00% | ~3,724 |
+| The First Day | 68.00% | ~3,725 |
 | Green Thumb | 66.00% | ~3,615 |
-| Novice Researcher | 65.00% | ~3,560 |
+| Novice Researcher | 65.00% | ~3,561 |
 | Putting Food on the Table | 58.00% | ~3,177 |
 | Home Cooked Meal | 57.00% | ~3,122 |
-| Onward | 56.00% | ~3,067 |
+| Onward | 56.00% | ~3,068 |
 | The First Week | 53.00% | ~2,903 |
-| Studious Researcher | 51.00% | ~2,793 |
-| Beam Me Up | 50.00% | ~2,738 |
+| Studious Researcher | 51.00% | ~2,794 |
+| Beam Me Up | 50.00% | ~2,739 |
 | Feast or Famine | 48.00% | ~2,629 |
 | Adept Researcher | 44.00% | ~2,410 |
 | Retribution | 40.00% | ~2,191 |
 | ...And Don’t Come Back! | 40.00% | ~2,191 |
-| Fit For A King | 37.00% | ~2,026 |
+| Fit For A King | 37.00% | ~2,027 |
 | Luminary Researcher | 32.00% | ~1,753 |
-| Heating Up | 29.00% | ~1,588 |
+| Heating Up | 29.00% | ~1,589 |
 | Winter Is Coming | 26.00% | ~1,424 |
 | Winter Is Here | 23.00% | ~1,260 |
-| Disassembled | 20.00% | ~1,095 |
-| A Party Now | 20.00% | ~1,095 |
-| Oh Deer! | 20.00% | ~1,095 |
-| All Year Round | 20.00% | ~1,095 |
+| Disassembled | 20.00% | ~1,096 |
+| A Party Now | 20.00% | ~1,096 |
+| Oh Deer! | 20.00% | ~1,096 |
+| All Year Round | 20.00% | ~1,096 |
 | Nothing Wasted | 12.00% | ~657 |
 | Don't Cry Wolf | 12.00% | ~657 |
 | Deerly Departed | 8.00% | ~438 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~110 |
 | Wabbit Season | 0.50% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,477 (Ranked 140)  
+Progressed: 5,478 (Ranked 140)  
 Completed: 11 (0.20%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 11 (0.20%) (Ranked 188)
 | 2023-08-22 | 5,429 | 10 |
 | 2023-08-23 | 5,445 | 10 |
 | 2023-08-24 | 5,463 | 10 |
-| 2023-08-25 | 5,477 | 11 |
+| 2023-08-25 | 5,478 | 11 |
 ## Awards
 Max (Relaxing): 121  (Ranked 318)  
 Sum: 977 (Ranked 239)  

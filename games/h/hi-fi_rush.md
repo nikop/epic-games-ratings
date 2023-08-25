@@ -18,12 +18,12 @@ Rating: 4.88 (Ranked 19)
 | I play my own way! | 7.00% | ~278 |
 | Z-shielding's got nothing on us! | 7.00% | ~278 |
 | Uh, they were broken when I got here | 7.00% | ~278 |
+| Kissing the sky! | 7.00% | ~278 |
 | I look cool. But I can look COOLER. | 7.00% | ~278 |
-| The Negotiator | 6.00% | ~238 |
-| Whoa! There's ANOTHER health bar!? | 6.00% | ~238 |
-| Out in a puff of smoke | 6.00% | ~238 |
-| Kissing the sky! | 6.00% | ~238 |
-| Does that say weakpoint? | 6.00% | ~238 |
+| The Negotiator | 6.00% | ~239 |
+| Whoa! There's ANOTHER health bar!? | 6.00% | ~239 |
+| Out in a puff of smoke | 6.00% | ~239 |
+| Does that say weakpoint? | 6.00% | ~239 |
 | Headliner | 5.00% | ~199 |
 | Time to pay up! | 5.00% | ~199 |
 | Who's the boss now? | 5.00% | ~199 |
@@ -37,13 +37,13 @@ Rating: 4.88 (Ranked 19)
 | There's such a thing as TOO helpful | 3.00% | ~119 |
 | Chip-tuned | 2.00% | ~80 |
 | Wanna hear my playlist? | 2.00% | ~80 |
+| I told you I'd be fine, Peppermint! | 2.00% | ~80 |
 | Check out my moves! | 2.00% | ~80 |
 | I think I deserve some praise, here! | 1.00% | ~40 |
 | I think I found your calling, Macaron | 1.00% | ~40 |
 | We're Jammin' | 1.00% | ~40 |
 | First we parry, then we counter | 1.00% | ~40 |
 | I hit things with a guitar really well. | 1.00% | ~40 |
-| I told you I'd be fine, Peppermint! | 1.00% | ~40 |
 | Call me Turbo Chai | 1.00% | ~25 |
 | I'm not done with you yet | 0.80% | ~32 |
 | This is a breeze! | 0.70% | ~28 |
@@ -77,7 +77,7 @@ Rating: 4.88 (Ranked 19)
 | Voices from within | 0.10% | ~2 |
 | Low budget finish | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,975 (Ranked 150)  
+Progressed: 3,977 (Ranked 150)  
 Completed: 7 (0.18%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 7 (0.18%) (Ranked 192)
 | 2023-08-22 | 3,963 | 7 |
 | 2023-08-23 | 3,967 | 7 |
 | 2023-08-24 | 3,973 | 7 |
-| 2023-08-25 | 3,975 | 7 |
+| 2023-08-25 | 3,977 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

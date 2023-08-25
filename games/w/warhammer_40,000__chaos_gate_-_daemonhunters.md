@@ -23,9 +23,9 @@ Number of Ratings: 371  (23.09.2022)
 | Nemesis Master | 1.00% | ~32 |
 | Gunmaster | 1.00% | ~32 |
 | Hive Exterminator | 1.00% | ~32 |
+| Corruption Cleanser | 0.90% | ~28 |
 | Just a Scratch | 0.90% | ~28 |
 | Execution Force | 0.90% | ~28 |
-| Corruption Cleanser | 0.80% | ~25 |
 | Junk Banishment | 0.60% | ~19 |
 | Fleetmaster | 0.50% | ~16 |
 | Daemonkeeper | 0.50% | ~16 |
