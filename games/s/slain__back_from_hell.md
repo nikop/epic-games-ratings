@@ -5,29 +5,29 @@ Rating: 4.29 (Ranked 800)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Man 'O War | 20.00% | ~7,023 |
-| A Good Day To Die | 15.00% | ~5,267 |
-| Right Back Atcha | 6.00% | ~2,107 |
+| Man 'O War | 20.00% | ~7,026 |
+| A Good Day To Die | 15.00% | ~5,269 |
+| Right Back Atcha | 6.00% | ~2,108 |
 | Killed by Death | 5.00% | ~1,756 |
 | Guard! Turn! Parry! Dodge! Spin! Ha! | 5.00% | ~1,756 |
 | Kill 'Em All | 4.00% | ~1,405 |
-| Down Boy! | 2.00% | ~702 |
-| A Snowball's Chance in Hell | 2.00% | ~702 |
+| Down Boy! | 2.00% | ~703 |
+| A Snowball's Chance in Hell | 2.00% | ~703 |
 | Enjoy The Silence | 1.00% | ~351 |
 | Backdoor Man | 0.90% | ~316 |
 | Thorn in My Herbicide | 0.80% | ~281 |
 | Sure Footed As A Goat | 0.80% | ~281 |
+| Schadenfreude | 0.80% | ~281 |
 | Red In Tooth And Claw | 0.70% | ~246 |
 | Death Becomes Her | 0.70% | ~246 |
 | The Sky Is Falling | 0.70% | ~246 |
-| Schadenfreude | 0.70% | ~246 |
 | Hail the Great Horned Metal God! | 0.70% | ~246 |
 | That'll Come In Handy... | 0.70% | ~246 |
 | Start As You Mean To Go On | 0.60% | ~211 |
 | Oh God, Mother! Blood! Blood! | 0.50% | ~176 |
-| Four Legged Friend | 0.40% | ~140 |
-| Ice To See You | 0.40% | ~140 |
-| Smack My Imp Up | 0.40% | ~140 |
+| Four Legged Friend | 0.40% | ~141 |
+| Ice To See You | 0.40% | ~141 |
+| Smack My Imp Up | 0.40% | ~141 |
 | Vroll With It | 0.30% | ~105 |
 | Swift of Foot, Keen of Blade | 0.30% | ~105 |
 | Flame Retardant | 0.20% | ~70 |
@@ -35,7 +35,7 @@ Rating: 4.29 (Ranked 800)
 | Heart Of Steel | 0.10% | ~35 |
 | Death or Glory | 0.10% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35,116 (Ranked 100)  
+Progressed: 35,128 (Ranked 100)  
 Completed: 21 (0.06%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 21 (0.06%) (Ranked 225)
 | 2023-08-22 | 34,845 | 21 |
 | 2023-08-23 | 34,945 | 21 |
 | 2023-08-24 | 35,053 | 21 |
-| 2023-08-25 | 35,116 | 21 |
+| 2023-08-25 | 35,128 | 21 |
 ## Awards
 Max (Great Boss Battles): 126  (Ranked 312)  
 Sum: 126 (Ranked 404)  

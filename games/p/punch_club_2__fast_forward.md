@@ -5,59 +5,59 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Such a strange dream… | 87.00% | ~231 |
-| Good Person Chip | 85.00% | ~225 |
-| Your first fight | 85.00% | ~225 |
-| First winning | 83.00% | ~220 |
-| Your first job | 83.00% | ~220 |
-| Old movies enjoyer | 79.00% | ~209 |
-| Fitness professional | 78.00% | ~207 |
-| Depressed visitor | 77.00% | ~204 |
-| Employee of the week | 76.00% | ~201 |
-| First defeat | 75.00% | ~199 |
-| Neurotrainer – power gainer! | 75.00% | ~199 |
-| Your own amateur gym | 74.00% | ~196 |
-| Run K, run! | 74.00% | ~196 |
-| Fighting is cool | 69.00% | ~183 |
-| Hello, world! | 69.00% | ~183 |
-| No bullying more | 68.00% | ~180 |
-| Pal of your father? | 66.00% | ~175 |
-| Employee of the month | 66.00% | ~175 |
+| Your first fight | 85.00% | ~226 |
+| Good Person Chip | 84.00% | ~223 |
+| First winning | 83.00% | ~221 |
+| Your first job | 82.00% | ~218 |
+| Old movies enjoyer | 79.00% | ~210 |
+| Fitness professional | 77.00% | ~205 |
+| Depressed visitor | 77.00% | ~205 |
+| Employee of the week | 76.00% | ~202 |
+| First defeat | 75.00% | ~200 |
+| Neurotrainer – power gainer! | 75.00% | ~200 |
+| Your own amateur gym | 74.00% | ~197 |
+| Run K, run! | 74.00% | ~197 |
+| Fighting is cool | 69.00% | ~184 |
+| Hello, world! | 69.00% | ~184 |
+| No bullying more | 68.00% | ~181 |
+| Pal of your father? | 66.00% | ~176 |
+| Employee of the month | 65.00% | ~173 |
 | Spirit of the past | 64.00% | ~170 |
-| Law student | 63.00% | ~167 |
+| Law student | 62.00% | ~165 |
 | Workout professional | 61.00% | ~162 |
 | Champion – starter pack | 61.00% | ~162 |
 | It's good to be alive | 61.00% | ~162 |
 | Own four walls | 61.00% | ~162 |
-| Handyman | 60.00% | ~159 |
-| Fight for life | 59.00% | ~156 |
-| Little hacker | 59.00% | ~156 |
-| Employee of the year | 59.00% | ~156 |
+| Handyman | 60.00% | ~160 |
+| Fight for life | 59.00% | ~157 |
+| Little hacker | 59.00% | ~157 |
+| Employee of the year | 59.00% | ~157 |
 | Intriguing candies | 58.00% | ~154 |
-| Legal courier | 56.00% | ~148 |
-| Extreme neuropower! | 54.00% | ~143 |
-| Escaped from a big trouble | 53.00% | ~140 |
-| Now you are worthy | 50.00% | ~132 |
-| Guiding on the right path | 48.00% | ~127 |
+| Legal courier | 56.00% | ~149 |
+| Extreme neuropower! | 54.00% | ~144 |
+| Escaped from a big trouble | 53.00% | ~141 |
+| Now you are worthy | 50.00% | ~133 |
+| Guiding on the right path | 48.00% | ~128 |
 | Fight is life | 46.00% | ~122 |
-| Mysterious voice | 46.00% | ~122 |
-| No blades in the gym | 45.00% | ~119 |
+| Mysterious voice | 45.00% | ~120 |
+| No blades in the gym | 45.00% | ~120 |
 | Champion – no way back | 41.00% | ~109 |
 | Responsible approach | 41.00% | ~109 |
-| Poisoned fighter | 40.00% | ~106 |
 | Your own way | 40.00% | ~106 |
-| GYM professional | 39.00% | ~103 |
-| Underground dwellers | 39.00% | ~103 |
+| GYM professional | 39.00% | ~104 |
+| Poisoned fighter | 39.00% | ~104 |
+| Underground dwellers | 39.00% | ~104 |
 | Deal with life | 38.00% | ~101 |
 | Get out of my apartment! | 38.00% | ~101 |
 | Mom got better | 37.00% | ~98 |
 | The die is cast | 37.00% | ~98 |
-| Seashell hunter | 37.00% | ~98 |
+| Seashell hunter | 36.00% | ~96 |
 | Gang wrangler | 35.00% | ~93 |
 | Problems of cyborgs | 35.00% | ~93 |
 | Undercover robot | 35.00% | ~93 |
-| Not little hacker | 34.00% | ~90 |
-| Absolute Champion! | 34.00% | ~90 |
-| Careerist | 33.00% | ~87 |
+| Not little hacker | 33.00% | ~88 |
+| Absolute Champion! | 33.00% | ~88 |
+| Careerist | 33.00% | ~88 |
 | Trap disarmed | 32.00% | ~85 |
 | Another world | 32.00% | ~85 |
 | The lonesome road | 32.00% | ~85 |
@@ -71,8 +71,8 @@
 | Better cooking at home | 29.00% | ~77 |
 | The only right decision | 29.00% | ~77 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 265 (Ranked 278)  
-Completed: 8 (3.02%) (Ranked 75)  
+Progressed: 266 (Ranked 278)  
+Completed: 8 (3.01%) (Ranked 75)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -112,3 +112,4 @@ Completed: 8 (3.02%) (Ranked 75)
 | 2023-08-21 | 263 | 8 |
 | 2023-08-23 | 264 | 8 |
 | 2023-08-24 | 265 | 8 |
+| 2023-08-25 | 266 | 8 |

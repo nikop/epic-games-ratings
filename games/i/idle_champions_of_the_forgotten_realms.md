@@ -18,8 +18,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Are Ya Chicken? | 0.30% | ~675 |
 | Mad Cow Disease | 0.30% | ~675 |
 | Friendly Imps | 0.30% | ~675 |
-| The Chaotic Hunt for The Last Breath | 0.30% | ~573 |
-| There's a Flying Snake in my Boot! | 0.30% | ~573 |
+| The Chaotic Hunt for The Last Breath | 0.30% | ~574 |
+| There's a Flying Snake in my Boot! | 0.30% | ~574 |
 | Maddening | 0.20% | ~450 |
 | Tall Tales | 0.20% | ~382 |
 | The Witchlight Carnival | 0.20% | ~382 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~191 |
 | Animated Giff | 0.10% | ~191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,888 (Ranked 53)  
+Progressed: 224,893 (Ranked 53)  
 Completed: 2,213 (0.98%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -650,10 +650,10 @@ Completed: 2,213 (0.98%) (Ranked 122)
 | 2023-08-22 | 224,213 | 2,207 |
 | 2023-08-23 | 224,434 | 2,210 |
 | 2023-08-24 | 224,686 | 2,211 |
-| 2023-08-25 | 224,888 | 2,213 |
+| 2023-08-25 | 224,893 | 2,213 |
 ## Awards
 Max (Diverse Characters): 5,182  (Ranked 68)  
-Sum: 31,208 (Ranked 39)  
+Sum: 31,210 (Ranked 39)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -661,7 +661,7 @@ Diff (max vs sum): 29
 | This game is Great for Beginners | 5,151 |
 | This game has Quickly Understood Controls | 4,733 |
 | This game is Relaxing | 4,624 |
-| This game has Amazing Characters | 4,082 |
+| This game has Amazing Characters | 4,084 |
 | This game is Highly Recommended | 4,068 |
 | This game has Playful Visuals | 3,368 |
 ## Ratings History
@@ -878,4 +878,4 @@ Diff (max vs sum): 29
 | 2023-08-22 | 4.06 | - | 5,176 | 31,169 |
 | 2023-08-23 | 4.06 | - | 5,179 | 31,183 |
 | 2023-08-24 | 4.06 | - | 5,182 | 31,201 |
-| 2023-08-25 | 4.06 | - | 5,182 | 31,208 |
+| 2023-08-25 | 4.06 | - | 5,182 | 31,210 |

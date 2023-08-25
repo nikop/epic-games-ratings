@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 24.00% | ~52,112 |
-| Alt+F4 | 3.00% | ~6,514 |
+| Sowwy! | 24.00% | ~52,119 |
+| Alt+F4 | 3.00% | ~6,515 |
 | Déjà vu | 2.00% | ~4,343 |
 | Where's that freaking Dwarf? | 2.00% | ~4,343 |
 | Sock! SOCK! | 2.00% | ~4,343 |
-| A beer, two curses, three companions | 1.00% | ~2,171 |
-| GG EZ | 1.00% | ~2,171 |
-| DM intervention | 1.00% | ~2,171 |
-| Speedrun | 1.00% | ~2,171 |
-| Fireproof Wizardess | 1.00% | ~2,171 |
+| A beer, two curses, three companions | 1.00% | ~2,172 |
+| GG EZ | 1.00% | ~2,172 |
+| DM intervention | 1.00% | ~2,172 |
+| Speedrun | 1.00% | ~2,172 |
+| Fireproof Wizardess | 1.00% | ~2,172 |
 | Livin' in a dwarven paradise | 0.90% | ~1,954 |
 | Way of the Wimp | 0.90% | ~1,954 |
 | The plot thickens... At the tavern | 0.90% | ~1,954 |
@@ -24,13 +24,13 @@ Number of Ratings: 118  (23.09.2022)
 | Torture and Sensibility | 0.70% | ~1,520 |
 | Urik's Depths | 0.70% | ~1,520 |
 | The Dungeon Master | 0.70% | ~1,520 |
+| The Statuette of Gladeulfeurah | 0.70% | ~1,520 |
 | The Woman in the High Castle | 0.70% | ~1,520 |
+| A tale of adventurers not quite like the others... | 0.70% | ~1,520 |
 | %#*!$*! | 0.70% | ~1,520 |
 | Team Building Exercise | 0.70% | ~1,520 |
 | Oh, when I'll be level 10... | 0.70% | ~1,520 |
 | Shiny and Crôm | 0.60% | ~1,303 |
-| The Statuette of Gladeulfeurah | 0.60% | ~1,303 |
-| A tale of adventurers not quite like the others... | 0.60% | ~1,303 |
 | The beards of change | 0.60% | ~1,303 |
 | The Ranger of Chaos | 0.60% | ~1,303 |
 | I am the night | 0.60% | ~1,303 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~217 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,133 (Ranked 56)  
+Progressed: 217,162 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 2 (0.00%) (Ranked 263)
 | 2023-08-22 | 216,036 | 2 |
 | 2023-08-23 | 216,367 | 2 |
 | 2023-08-24 | 216,781 | 2 |
-| 2023-08-25 | 217,133 | 2 |
+| 2023-08-25 | 217,162 | 2 |
 ## Awards
 Max (Character Customization): 176  (Ranked 284)  
 Sum: 220 (Ranked 363)  

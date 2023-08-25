@@ -27,9 +27,11 @@ Rating: 3.50 (Ranked 977)
 | Sisterhood | 0.10% | ~2 |
 | Check, Please! | 0.10% | ~2 |
 | Heart Attack | 0.10% | ~2 |
+| Bloody Initiate | 0.10% | ~2 |
 | Right This Way | 0.10% | ~2 |
 | Nice Try | 0.10% | ~2 |
 | Blacklight Down | 0.10% | ~2 |
+| Enemy of My Enemy | 0.10% | ~2 |
 | Dexterity Save | 0.10% | ~2 |
 | Bob’s Final Hour | 0.10% | ~2 |
 | Helping Hand | 0.10% | ~2 |
@@ -57,12 +59,10 @@ Rating: 3.50 (Ranked 977)
 | Someplace to Be | 0.00% | ~0 |
 | Skin of Their Teeth | 0.00% | ~0 |
 | Ask Not For Whom The Horns Blow | 0.00% | ~0 |
-| Bloody Initiate | 0.00% | ~0 |
 | Sepsis | 0.00% | ~0 |
 | So Anyway I Started Blasting | 0.00% | ~0 |
 | Rum Runner | 0.00% | ~0 |
 | Under a Bushel | 0.00% | ~0 |
-| Enemy of My Enemy | 0.00% | ~0 |
 | Saw That Coming | 0.00% | ~0 |
 | Lights Out | 0.00% | ~0 |
 | Good Samaritan | 0.00% | ~0 |

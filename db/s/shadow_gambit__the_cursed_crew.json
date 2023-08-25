@@ -4,7 +4,7 @@
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 497,
+  "EOS_Progressed": 498,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 270,
+  "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -971,6 +971,11 @@
       "Time": "2023-08-25T19:05:01.8675773+00:00",
       "NumProgressed": 497,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-25T20:04:31.4587488+00:00",
+      "NumProgressed": 498,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -983,7 +988,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -991,15 +996,15 @@
       "Name": "A New Journey",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "_03_FinishAct1",
       "SetID": "8a1io5d",
       "Name": "The Adventure Begins",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 268
+      "UsersEstimate": 264
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1015,7 +1020,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -1047,7 +1052,7 @@
       "Name": "Powder Monkey",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "_10_Completion_30",
@@ -1190,14 +1195,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 497,
+      "Progressed": 498,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-25T19:05:01.8675768+00:00",
+  "LastChanged_Achievements": "2023-08-25T20:04:31.4587478+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:01.7621403+00:00",
-  "LastUpdate_Ratings": "2023-08-25T19:01:34.6692267+00:00",
-  "LastUpdate_Achievements": "2023-08-25T19:05:01.8675961+00:00"
+  "LastUpdate_Ratings": "2023-08-25T20:00:48.0552806+00:00",
+  "LastUpdate_Achievements": "2023-08-25T20:04:31.4587757+00:00"
 }

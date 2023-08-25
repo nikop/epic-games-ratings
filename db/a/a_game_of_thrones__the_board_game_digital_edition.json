@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1269,9 +1269,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 22331,
+  "EOS_Progressed": 22341,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 596,
+  "EOS_NewPlayers": 604,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -14864,6 +14864,11 @@
       "Time": "2023-08-25T19:05:09.3904522+00:00",
       "NumProgressed": 22331,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-08-25T20:04:38.1991726+00:00",
+      "NumProgressed": 22341,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 22,
@@ -14883,7 +14888,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 1563
+      "UsersEstimate": 1564
     },
     {
       "ID": "1017",
@@ -14907,7 +14912,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1563
+      "UsersEstimate": 1564
     },
     {
       "ID": "1020",
@@ -14947,7 +14952,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1786
+      "UsersEstimate": 1787
     },
     {
       "ID": "1025",
@@ -14963,7 +14968,7 @@
       "Name": "Oathkeeper",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1786
+      "UsersEstimate": 1787
     },
     {
       "ID": "1027",
@@ -14971,7 +14976,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2010
+      "UsersEstimate": 2011
     },
     {
       "ID": "1028",
@@ -14979,7 +14984,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4020
+      "UsersEstimate": 4021
     },
     {
       "ID": "1029",
@@ -14987,7 +14992,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1786
+      "UsersEstimate": 1787
     },
     {
       "ID": "1030",
@@ -14995,7 +15000,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4466
+      "UsersEstimate": 4468
     },
     {
       "ID": "1031",
@@ -15003,7 +15008,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3126
+      "UsersEstimate": 3128
     },
     {
       "ID": "1032",
@@ -15011,7 +15016,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 8932
+      "UsersEstimate": 8936
     },
     {
       "ID": "1033",
@@ -15027,7 +15032,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1563
+      "UsersEstimate": 1564
     },
     {
       "ID": "1035",
@@ -15035,7 +15040,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2903
+      "UsersEstimate": 2904
     },
     {
       "ID": "1036",
@@ -15043,22 +15048,22 @@
       "Name": "A Long Journey",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1786
+      "UsersEstimate": 1787
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 22331,
+      "Progressed": 22341,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-08-02T00:02:09.7226533+00:00",
-  "LastChanged_Achievements": "2023-08-25T19:05:09.3904518+00:00",
+  "LastChanged_Achievements": "2023-08-25T20:04:38.1991719+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:15.4307048+00:00",
-  "LastUpdate_Ratings": "2023-08-25T18:59:26.0141838+00:00",
-  "LastUpdate_Achievements": "2023-08-25T19:05:09.3905305+00:00"
+  "LastUpdate_Ratings": "2023-08-25T19:58:57.5692152+00:00",
+  "LastUpdate_Achievements": "2023-08-25T20:04:38.1992752+00:00"
 }

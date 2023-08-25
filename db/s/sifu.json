@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 82,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 98,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -5820,9 +5820,9 @@
       "Count": 372
     }
   ],
-  "EOS_Progressed": 712686,
+  "EOS_Progressed": 712689,
   "EOS_Completed": 12873,
-  "EOS_NewPlayers": 177,
+  "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -17600,6 +17600,11 @@
       "Time": "2023-08-25T18:05:21.2731718+00:00",
       "NumProgressed": 712686,
       "NumCompleted": 12873
+    },
+    {
+      "Time": "2023-08-25T20:05:29.1863349+00:00",
+      "NumProgressed": 712689,
+      "NumCompleted": 12873
     }
   ],
   "TotalAchievements": 50,
@@ -17659,7 +17664,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 5701
+      "UsersEstimate": 5702
     },
     {
       "ID": "08_Wude_H2",
@@ -17667,7 +17672,7 @@
       "Name": "Tiger on Fire",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 5701
+      "UsersEstimate": 5702
     },
     {
       "ID": "09_Wude_H3",
@@ -17675,7 +17680,7 @@
       "Name": "Source of Flying Daggers",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 5701
+      "UsersEstimate": 5702
     },
     {
       "ID": "10_Wude_H4",
@@ -17723,7 +17728,7 @@
       "Name": "Detective Story",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 5701
+      "UsersEstimate": 5702
     },
     {
       "ID": "16_Detective_H2",
@@ -17947,7 +17952,7 @@
       "Name": "Project Arena",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 879
+      "UsersEstimate": 880
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -17955,7 +17960,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1099
+      "UsersEstimate": 1100
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -18010,21 +18015,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 21987,
+      "Progressed": 21990,
       "Completed": 10556
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 712686,
+      "Progressed": 712689,
       "Completed": 12873
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-08-25T18:57:36.3337438+00:00",
-  "LastChanged_Achievements": "2023-08-25T19:05:57.9823104+00:00",
+  "LastChanged_Achievements": "2023-08-25T20:05:29.1863344+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:30.1863986+00:00",
-  "LastUpdate_Ratings": "2023-08-25T18:57:36.3337441+00:00",
-  "LastUpdate_Achievements": "2023-08-25T19:05:57.9824029+00:00"
+  "LastUpdate_Ratings": "2023-08-25T19:57:14.6902024+00:00",
+  "LastUpdate_Achievements": "2023-08-25T20:05:29.1864519+00:00"
 }

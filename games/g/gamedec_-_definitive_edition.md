@@ -6,21 +6,21 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~68,177 |
-| Powergamer | 27.00% | ~65,742 |
-| Barely scratched the surface | 25.00% | ~60,872 |
-| Write that down | 24.00% | ~58,438 |
-| Guns, lots of guns | 12.00% | ~29,219 |
-| Collector | 11.00% | ~26,784 |
-| Elementary! | 9.00% | ~21,914 |
-| Pumpkin Jack | 8.00% | ~19,479 |
-| Wake up! | 8.00% | ~19,479 |
-| It's honest work | 7.00% | ~17,044 |
-| Griever | 7.00% | ~17,044 |
-| Me smart | 6.00% | ~14,609 |
-| Trash compactor | 6.00% | ~14,609 |
-| Good listener | 5.00% | ~12,174 |
-| Valedictorian | 5.00% | ~12,174 |
+| I will finish what you started | 28.00% | ~68,182 |
+| Powergamer | 27.00% | ~65,747 |
+| Barely scratched the surface | 25.00% | ~60,876 |
+| Write that down | 24.00% | ~58,441 |
+| Guns, lots of guns | 12.00% | ~29,221 |
+| Collector | 11.00% | ~26,786 |
+| Elementary! | 9.00% | ~21,916 |
+| Pumpkin Jack | 8.00% | ~19,480 |
+| Wake up! | 8.00% | ~19,480 |
+| It's honest work | 7.00% | ~17,045 |
+| Griever | 7.00% | ~17,045 |
+| Me smart | 6.00% | ~14,610 |
+| Trash compactor | 6.00% | ~14,610 |
+| Good listener | 5.00% | ~12,175 |
+| Valedictorian | 5.00% | ~12,175 |
 | BOY! | 4.00% | ~9,740 |
 | Ka-ching! | 4.00% | ~9,740 |
 | So you like to read? | 4.00% | ~9,740 |
@@ -42,24 +42,24 @@ Number of Ratings: 33  (23.09.2022)
 | SysOp on duty | 1.00% | ~2,435 |
 | Take the blue pill | 1.00% | ~2,435 |
 | The power of three | 1.00% | ~2,435 |
-| A true blacksmith | 0.90% | ~2,191 |
+| A true blacksmith | 0.90% | ~2,192 |
 | Let's try another | 0.80% | ~1,948 |
 | Home run | 0.80% | ~1,948 |
-| I have the high ground | 0.70% | ~1,704 |
-| It's blue, always blue | 0.70% | ~1,704 |
-| Enjoy these little moments | 0.50% | ~1,217 |
-| Who wouldn't love a troll? | 0.50% | ~1,217 |
+| I have the high ground | 0.70% | ~1,705 |
+| It's blue, always blue | 0.70% | ~1,705 |
+| Enjoy these little moments | 0.50% | ~1,218 |
+| Who wouldn't love a troll? | 0.50% | ~1,218 |
 | Irondec | 0.40% | ~974 |
 | Un-bear-able | 0.40% | ~974 |
-| LET ME OUT! | 0.30% | ~730 |
-| Well-deserved reunion | 0.30% | ~730 |
+| LET ME OUT! | 0.30% | ~731 |
+| Well-deserved reunion | 0.30% | ~731 |
 | Breaking the chains | 0.20% | ~487 |
 | Aren't you overthinking? | 0.20% | ~487 |
 | Take the red pill | 0.20% | ~487 |
 | This is the way | 0.20% | ~487 |
-| Memory 5 | 0.10% | ~243 |
+| Memory 5 | 0.10% | ~244 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,490 (Ranked 48)  
+Progressed: 243,506 (Ranked 48)  
 Completed: 7 (0.00%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,7 +186,7 @@ Completed: 7 (0.00%) (Ranked 263)
 | 2023-08-22 | 243,129 | 7 |
 | 2023-08-23 | 243,240 | 7 |
 | 2023-08-24 | 243,379 | 7 |
-| 2023-08-25 | 243,490 | 7 |
+| 2023-08-25 | 243,506 | 7 |
 ## Awards
 Max (Character Customization): 79  (Ranked 363)  
 Sum: 79 (Ranked 428)  

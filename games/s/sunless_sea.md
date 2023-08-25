@@ -6,23 +6,23 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~13,024 |
-| Sweet Sorrow | 18.00% | ~6,512 |
-| Rules the Waves | 17.00% | ~6,150 |
+| Sink Beneath the Waves | 36.00% | ~13,025 |
+| Sweet Sorrow | 18.00% | ~6,513 |
+| Rules the Waves | 17.00% | ~6,151 |
 | Thou, All-Shaking Thunder | 15.00% | ~5,427 |
 | Rival | 14.00% | ~5,065 |
-| Correspondent | 12.00% | ~4,341 |
-| Lose Your Mind | 12.00% | ~4,341 |
-| Sound Mind? | 12.00% | ~4,341 |
-| Salt's Curse | 11.00% | ~3,979 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~3,979 |
-| The Fall of the House | 11.00% | ~3,979 |
-| Shipmate | 11.00% | ~3,979 |
+| Correspondent | 12.00% | ~4,342 |
+| Lose Your Mind | 12.00% | ~4,342 |
+| Sound Mind? | 12.00% | ~4,342 |
+| Salt's Curse | 11.00% | ~3,980 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~3,980 |
+| The Fall of the House | 11.00% | ~3,980 |
+| Shipmate | 11.00% | ~3,980 |
 | One Year at Zee | 8.00% | ~2,894 |
-| Pupil | 7.00% | ~2,532 |
-| Salvager | 7.00% | ~2,532 |
-| Open Your Ears | 7.00% | ~2,532 |
-| The Ascent of Man | 7.00% | ~2,532 |
+| Pupil | 7.00% | ~2,533 |
+| Salvager | 7.00% | ~2,533 |
+| Open Your Ears | 7.00% | ~2,533 |
+| The Ascent of Man | 7.00% | ~2,533 |
 | Zee Fever | 5.00% | ~1,809 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,447 |
 | Sink Beneath the Waves. Again. | 4.00% | ~1,447 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~36 |
 | Ten Years at Zee | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36,177 (Ranked 98)  
+Progressed: 36,181 (Ranked 98)  
 Completed: 3 (0.01%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 3 (0.01%) (Ranked 250)
 | 2023-08-22 | 36,014 | 3 |
 | 2023-08-23 | 36,072 | 3 |
 | 2023-08-24 | 36,131 | 3 |
-| 2023-08-25 | 36,177 | 3 |
+| 2023-08-25 | 36,181 | 3 |
 ## Awards
 Max (Character Customization): 213  (Ranked 270)  
 Sum: 283 (Ranked 343)  
