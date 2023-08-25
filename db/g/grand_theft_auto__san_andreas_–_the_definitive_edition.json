@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 337,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -754,9 +754,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12037,
+  "EOS_Progressed": 12038,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -9319,6 +9319,11 @@
       "Time": "2023-08-25T04:04:44.3529483+00:00",
       "NumProgressed": 12037,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-08-25T09:04:27.6806902+00:00",
+      "NumProgressed": 12038,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 35,
@@ -9330,7 +9335,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9750
+      "UsersEstimate": 9751
     },
     {
       "ID": "ACH02",
@@ -9522,7 +9527,7 @@
       "Name": "What are the Odds",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "ACH26",
@@ -9609,7 +9614,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12037,
+      "Progressed": 12038,
       "Completed": 40
     }
   ],
@@ -9617,8 +9622,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-08-25T04:59:03.7380012+00:00",
-  "LastChanged_Achievements": "2023-08-25T08:04:08.2809207+00:00",
+  "LastChanged_Achievements": "2023-08-25T09:04:27.6806892+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:04.3712405+00:00",
-  "LastUpdate_Ratings": "2023-08-25T07:58:36.5202491+00:00",
-  "LastUpdate_Achievements": "2023-08-25T08:04:08.2809845+00:00"
+  "LastUpdate_Ratings": "2023-08-25T08:58:35.9601359+00:00",
+  "LastUpdate_Achievements": "2023-08-25T09:04:27.6807733+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "the-expanse-a-telltale-series",
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 60,
+  "Ranking_EOS_NewPlayers": 61,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8972,
+  "EOS_Progressed": 8973,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 790,
+  "EOS_NewPlayers": 787,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3062,6 +3062,11 @@
       "Time": "2023-08-25T08:07:18.84181+00:00",
       "NumProgressed": 8972,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-25T09:07:14.4198105+00:00",
+      "NumProgressed": 8973,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -3264,9 +3269,9 @@
       "ID": "4",
       "SetID": "458bbdk",
       "Name": "Debris Spree",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 72
+      "UsersEstimate": 81
     },
     {
       "ID": "5",
@@ -3313,14 +3318,14 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 8972,
+      "Progressed": 8973,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged_Achievements": "2023-08-25T08:07:18.8418093+00:00",
+  "LastChanged_Achievements": "2023-08-25T09:07:14.4198097+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:40.3624587+00:00",
-  "LastUpdate_Ratings": "2023-08-25T07:57:19.5986128+00:00",
-  "LastUpdate_Achievements": "2023-08-25T08:07:18.8418428+00:00"
+  "LastUpdate_Ratings": "2023-08-25T08:57:25.6823072+00:00",
+  "LastUpdate_Achievements": "2023-08-25T09:07:14.4198547+00:00"
 }

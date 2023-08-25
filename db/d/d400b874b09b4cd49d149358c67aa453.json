@@ -867,9 +867,9 @@
       "ID": "ACH_END_FIRST_TUTORIAL",
       "SetID": "al4k4nh",
       "Name": "Ready to go",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 227
     },
     {
       "ID": "ACH_END_FIRST_WORKBENCH_MISSION",
@@ -891,9 +891,9 @@
       "ID": "ACH_FIRST_SHOCK",
       "SetID": "al4k4nh",
       "Name": "First shock",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 164
     },
     {
       "ID": "ACH_FIX_LIGHT_SWITCHES",
@@ -1026,8 +1026,8 @@
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-08-25T08:07:23.392561+00:00",
+  "LastChanged_Achievements": "2023-08-25T09:07:18.2297597+00:00",
   "LastUpdate_AppInfo": "2023-08-23T17:57:12.6622936+00:00",
-  "LastUpdate_Ratings": "2023-08-25T07:59:48.4599853+00:00",
-  "LastUpdate_Achievements": "2023-08-25T08:07:23.3925787+00:00"
+  "LastUpdate_Ratings": "2023-08-25T08:59:33.9754273+00:00",
+  "LastUpdate_Achievements": "2023-08-25T09:07:18.2297846+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 52,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3123,
+  "EOS_Progressed": 3124,
   "EOS_Completed": 159,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 5.09,
   "EosHistory": [
@@ -4375,6 +4375,11 @@
       "Time": "2023-08-24T16:03:47.4358588+00:00",
       "NumProgressed": 3123,
       "NumCompleted": 159
+    },
+    {
+      "Time": "2023-08-25T09:03:06.0486249+00:00",
+      "NumProgressed": 3124,
+      "NumCompleted": 159
     }
   ],
   "TotalAchievements": 24,
@@ -4410,7 +4415,7 @@
       "Name": "TRAINING HARD",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "13",
@@ -4490,7 +4495,7 @@
       "Name": "ACE DEFENDER",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "22",
@@ -4506,7 +4511,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 999
+      "UsersEstimate": 1000
     },
     {
       "ID": "24",
@@ -4514,7 +4519,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 999
+      "UsersEstimate": 1000
     },
     {
       "ID": "3",
@@ -4522,7 +4527,7 @@
       "Name": "FRIENDLY",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "4",
@@ -4530,7 +4535,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 32,
       "XP": 80,
-      "UsersEstimate": 999
+      "UsersEstimate": 1000
     },
     {
       "ID": "5",
@@ -4538,7 +4543,7 @@
       "Name": "ROOKIE",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1686
+      "UsersEstimate": 1687
     },
     {
       "ID": "6",
@@ -4570,20 +4575,20 @@
       "Name": "LEGENDARY HERO",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     }
   ],
   "AchievementSets": [
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3123,
+      "Progressed": 3124,
       "Completed": 159
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-08-25T08:01:46.797042+00:00",
+  "LastChanged_Achievements": "2023-08-25T09:03:06.0486234+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:27.4246453+00:00",
-  "LastUpdate_Ratings": "2023-08-25T07:56:58.936578+00:00",
-  "LastUpdate_Achievements": "2023-08-25T08:01:46.797082+00:00"
+  "LastUpdate_Ratings": "2023-08-25T08:57:09.2041984+00:00",
+  "LastUpdate_Achievements": "2023-08-25T09:03:06.0487024+00:00"
 }

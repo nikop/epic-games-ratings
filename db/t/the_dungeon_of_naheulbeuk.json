@@ -714,9 +714,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 216878,
+  "EOS_Progressed": 216896,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2969,
+  "EOS_NewPlayers": 2977,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8224,6 +8224,11 @@
       "Time": "2023-08-25T08:02:22.2251199+00:00",
       "NumProgressed": 216878,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-25T09:03:28.3960371+00:00",
+      "NumProgressed": 216896,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -8233,9 +8238,9 @@
       "ID": "10000Gold",
       "SetID": "50chcgj",
       "Name": "Livin\u0027 in a dwarven paradise",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1735
+      "UsersEstimate": 1952
     },
     {
       "ID": "100Fail",
@@ -8683,7 +8688,7 @@
       "Name": "Sowwy!",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 49882
+      "UsersEstimate": 49886
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -8938,21 +8943,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 216878,
+      "Progressed": 216896,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 216878,
+      "Progressed": 216896,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-25T00:03:24.8493823+00:00",
-  "LastChanged_Achievements": "2023-08-25T08:02:22.2251195+00:00",
+  "LastChanged_Achievements": "2023-08-25T09:03:28.3960364+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:36.4163589+00:00",
-  "LastUpdate_Ratings": "2023-08-25T08:01:41.0222834+00:00",
-  "LastUpdate_Achievements": "2023-08-25T08:02:22.2252413+00:00"
+  "LastUpdate_Ratings": "2023-08-25T09:01:08.5446603+00:00",
+  "LastUpdate_Achievements": "2023-08-25T09:03:28.3961861+00:00"
 }

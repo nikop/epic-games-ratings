@@ -260,9 +260,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 104647,
+  "EOS_Progressed": 104652,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 1254,
+  "EOS_NewPlayers": 1248,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8405,6 +8405,11 @@
       "Time": "2023-08-25T08:07:27.0717066+00:00",
       "NumProgressed": 104647,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-08-25T09:07:21.3404229+00:00",
+      "NumProgressed": 104652,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 49,
@@ -8424,7 +8429,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 79532
+      "UsersEstimate": 79536
     },
     {
       "ID": "EAwards_10",
@@ -8440,7 +8445,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 26162
+      "UsersEstimate": 26163
     },
     {
       "ID": "EAwards_12",
@@ -8464,7 +8469,7 @@
       "Name": "6-Piece Combo",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1046
+      "UsersEstimate": 1047
     },
     {
       "ID": "EAwards_15",
@@ -8472,7 +8477,7 @@
       "Name": "He Looks Portable",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 9418
+      "UsersEstimate": 9419
     },
     {
       "ID": "EAwards_16",
@@ -8488,7 +8493,7 @@
       "Name": "Talented Player",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 37673
+      "UsersEstimate": 37675
     },
     {
       "ID": "EAwards_18",
@@ -8504,7 +8509,7 @@
       "Name": "One Born Every Minute",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 5232
+      "UsersEstimate": 5233
     },
     {
       "ID": "EAwards_2",
@@ -8512,7 +8517,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 49184
+      "UsersEstimate": 49186
     },
     {
       "ID": "EAwards_20",
@@ -8536,7 +8541,7 @@
       "Name": "Combo Machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 5232
+      "UsersEstimate": 5233
     },
     {
       "ID": "EAwards_23",
@@ -8544,7 +8549,7 @@
       "Name": "These are not fertilized",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 7325
+      "UsersEstimate": 7326
     },
     {
       "ID": "EAwards_24",
@@ -8552,7 +8557,7 @@
       "Name": "Temple Raider",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 7325
+      "UsersEstimate": 7326
     },
     {
       "ID": "EAwards_25",
@@ -8560,7 +8565,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 18836
+      "UsersEstimate": 18837
     },
     {
       "ID": "EAwards_26",
@@ -8576,7 +8581,7 @@
       "Name": "One down...",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 9418
+      "UsersEstimate": 9419
     },
     {
       "ID": "EAwards_28",
@@ -8584,7 +8589,7 @@
       "Name": "Very Special",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3139
+      "UsersEstimate": 3140
     },
     {
       "ID": "EAwards_29",
@@ -8600,7 +8605,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 18836
+      "UsersEstimate": 18837
     },
     {
       "ID": "EAwards_30",
@@ -8608,7 +8613,7 @@
       "Name": "Moves Like Jaguar",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3139
+      "UsersEstimate": 3140
     },
     {
       "ID": "EAwards_31",
@@ -8616,7 +8621,7 @@
       "Name": "Luchonarrative Resonance",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 9418
+      "UsersEstimate": 9419
     },
     {
       "ID": "EAwards_32",
@@ -8768,7 +8773,7 @@
       "Name": "Prickly Pair",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 9418
+      "UsersEstimate": 9419
     },
     {
       "ID": "EAwards_6",
@@ -8784,7 +8789,7 @@
       "Name": "Questionable Plumbing",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 11511
+      "UsersEstimate": 11512
     },
     {
       "ID": "EAwards_8",
@@ -8792,7 +8797,7 @@
       "Name": "Santa Golpiza!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 11511
+      "UsersEstimate": 11512
     },
     {
       "ID": "EAwards_9",
@@ -8807,7 +8812,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 104647,
+      "Progressed": 104652,
       "Completed": 37
     }
   ],
@@ -8815,8 +8820,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-08-24T14:59:03.42445+00:00",
-  "LastChanged_Achievements": "2023-08-25T08:07:27.0717062+00:00",
+  "LastChanged_Achievements": "2023-08-25T09:07:21.3404222+00:00",
   "LastUpdate_AppInfo": "2023-08-24T21:57:12.510251+00:00",
-  "LastUpdate_Ratings": "2023-08-25T07:59:28.8912826+00:00",
-  "LastUpdate_Achievements": "2023-08-25T08:07:27.0717793+00:00"
+  "LastUpdate_Ratings": "2023-08-25T08:59:20.5707389+00:00",
+  "LastUpdate_Achievements": "2023-08-25T09:07:21.3405079+00:00"
 }

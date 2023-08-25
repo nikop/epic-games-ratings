@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 281,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewPlayers": 69,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -243,9 +243,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 199933,
+  "EOS_Progressed": 199939,
   "EOS_Completed": 488,
-  "EOS_NewPlayers": 574,
+  "EOS_NewPlayers": 580,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -13863,6 +13863,11 @@
       "Time": "2023-08-25T08:04:50.5294289+00:00",
       "NumProgressed": 199933,
       "NumCompleted": 488
+    },
+    {
+      "Time": "2023-08-25T09:05:03.9822389+00:00",
+      "NumProgressed": 199939,
+      "NumCompleted": 488
     }
   ],
   "TotalAchievements": 29,
@@ -13898,7 +13903,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 187937
+      "UsersEstimate": 187943
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -13912,9 +13917,9 @@
       "ID": "ACHIEVEMENT_BRIDGE_ENTER",
       "SetID": "1fd5amk",
       "Name": "I hope you\u0027re ready.",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3999
+      "UsersEstimate": 1999
     },
     {
       "ID": "ACHIEVEMENT_CARDS",
@@ -13930,7 +13935,7 @@
       "Name": "Cockpit",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1599
+      "UsersEstimate": 1600
     },
     {
       "ID": "ACHIEVEMENT_COLMIX",
@@ -14058,7 +14063,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 19993
+      "UsersEstimate": 19994
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -14074,7 +14079,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 13995
+      "UsersEstimate": 13996
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -14082,7 +14087,7 @@
       "Name": "Witness it.",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1599
+      "UsersEstimate": 1600
     },
     {
       "ID": "ACHIEVEMENT_WRAP",
@@ -14105,7 +14110,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 199933,
+      "Progressed": 199939,
       "Completed": 488
     }
   ],
@@ -14113,8 +14118,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-08-19T20:00:31.8399303+00:00",
-  "LastChanged_Achievements": "2023-08-25T08:04:50.5294285+00:00",
+  "LastChanged_Achievements": "2023-08-25T09:05:03.9822381+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:20.1074044+00:00",
-  "LastUpdate_Ratings": "2023-08-25T07:57:02.9837998+00:00",
-  "LastUpdate_Achievements": "2023-08-25T08:04:50.5295119+00:00"
+  "LastUpdate_Ratings": "2023-08-25T08:57:12.0153425+00:00",
+  "LastUpdate_Achievements": "2023-08-25T09:05:03.9823459+00:00"
 }

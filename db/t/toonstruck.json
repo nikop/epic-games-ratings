@@ -4,7 +4,7 @@
   "ProductSlug": "toonstruck-8c8f1e",
   "Ranking_EOS_Progress": 559,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 349,
+  "Ranking_EOS_NewPlayers": 348,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-08-05T16:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:37.2066962+00:00",
   "LastChanged": "2023-03-31T05:58:37.2066963+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:05.1958318+00:00",
-  "LastUpdate_Ratings": "2023-08-25T08:01:30.9866839+00:00",
-  "LastUpdate_Achievements": "2023-08-25T08:07:13.752749+00:00"
+  "LastUpdate_Ratings": "2023-08-25T09:00:59.9284706+00:00",
+  "LastUpdate_Achievements": "2023-08-25T09:07:09.6329842+00:00"
 }

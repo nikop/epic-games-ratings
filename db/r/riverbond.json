@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 31,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 72,
+  "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
@@ -480,9 +480,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 525815,
+  "EOS_Progressed": 525816,
   "EOS_Completed": 463,
-  "EOS_NewPlayers": 556,
+  "EOS_NewPlayers": 557,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -13920,6 +13920,11 @@
       "Time": "2023-08-25T07:08:43.0100373+00:00",
       "NumProgressed": 525815,
       "NumCompleted": 463
+    },
+    {
+      "Time": "2023-08-25T09:06:33.2733882+00:00",
+      "NumProgressed": 525816,
+      "NumCompleted": 463
     }
   ],
   "TotalAchievements": 57,
@@ -13931,7 +13936,7 @@
       "Name": "AAARR!",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 120937
+      "UsersEstimate": 120938
     },
     {
       "ID": "10",
@@ -13947,7 +13952,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 368070
+      "UsersEstimate": 368071
     },
     {
       "ID": "12",
@@ -13955,7 +13960,7 @@
       "Name": "Wind At Our Backs",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 115679
+      "UsersEstimate": 115680
     },
     {
       "ID": "13",
@@ -14011,7 +14016,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 326005
+      "UsersEstimate": 326006
     },
     {
       "ID": "2",
@@ -14163,7 +14168,7 @@
       "Name": "Sunday Best",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 84130
+      "UsersEstimate": 84131
     },
     {
       "ID": "37",
@@ -14259,7 +14264,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 326005
+      "UsersEstimate": 326006
     },
     {
       "ID": "48",
@@ -14315,7 +14320,7 @@
       "Name": "Hello Darkness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 120937
+      "UsersEstimate": 120938
     },
     {
       "ID": "54",
@@ -14386,15 +14391,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 525815,
+      "Progressed": 525816,
       "Completed": 463
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-08-25T08:06:32.4564107+00:00",
+  "LastChanged_Achievements": "2023-08-25T09:06:33.2733873+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:51.7319714+00:00",
-  "LastUpdate_Ratings": "2023-08-25T07:59:59.2688799+00:00",
-  "LastUpdate_Achievements": "2023-08-25T08:06:32.4565129+00:00"
+  "LastUpdate_Ratings": "2023-08-25T08:59:46.6588603+00:00",
+  "LastUpdate_Achievements": "2023-08-25T09:06:33.2735272+00:00"
 }

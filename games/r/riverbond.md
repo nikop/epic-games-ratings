@@ -6,21 +6,21 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~368,070 |
-| Now You're Talking | 62.00% | ~326,005 |
-| Steel Yourself | 62.00% | ~326,005 |
+| First Step | 70.00% | ~368,071 |
+| Now You're Talking | 62.00% | ~326,006 |
+| Steel Yourself | 62.00% | ~326,006 |
 | Window Dressing | 50.00% | ~262,908 |
 | Trigger Happy | 46.00% | ~241,875 |
 | Riverborn | 45.00% | ~236,617 |
 | Starry Eyed | 34.00% | ~178,777 |
 | Poking Around | 34.00% | ~178,777 |
 | Talk of the Town | 24.00% | ~126,196 |
-| AAARR! | 23.00% | ~120,937 |
-| Hello Darkness | 23.00% | ~120,937 |
-| Wind At Our Backs | 22.00% | ~115,679 |
+| AAARR! | 23.00% | ~120,938 |
+| Hello Darkness | 23.00% | ~120,938 |
+| Wind At Our Backs | 22.00% | ~115,680 |
 | To the Beat | 20.00% | ~105,163 |
 | Sunny Shores | 17.00% | ~89,389 |
-| Sunday Best | 16.00% | ~84,130 |
+| Sunday Best | 16.00% | ~84,131 |
 | To Victory! | 15.00% | ~78,872 |
 | Two of a Kind | 14.00% | ~73,614 |
 | Keep On Trucking | 13.00% | ~68,356 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,577 |
 | Point Taken | 0.10% | ~526 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 525,815 (Ranked 31)  
+Progressed: 525,816 (Ranked 31)  
 Completed: 463 (0.09%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 463 (0.09%) (Ranked 214)
 | 2023-08-22 | 525,651 | 463 |
 | 2023-08-23 | 525,721 | 463 |
 | 2023-08-24 | 525,790 | 463 |
-| 2023-08-25 | 525,815 | 463 |
+| 2023-08-25 | 525,816 | 463 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

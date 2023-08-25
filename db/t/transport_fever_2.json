@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -3291,9 +3291,9 @@
       "ID": "achAccumulate100M",
       "SetID": "dgl390n",
       "Name": "Transport shark",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 635
+      "UsersEstimate": 651
     },
     {
       "ID": "achAccumulate100MHard",
@@ -3787,8 +3787,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-08-17T14:57:18.7494823+00:00",
-  "LastChanged_Achievements": "2023-08-25T08:07:06.4325584+00:00",
+  "LastChanged_Achievements": "2023-08-25T09:07:03.4981278+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:42.2047578+00:00",
-  "LastUpdate_Ratings": "2023-08-25T07:58:07.377657+00:00",
-  "LastUpdate_Achievements": "2023-08-25T08:07:06.4326185+00:00"
+  "LastUpdate_Ratings": "2023-08-25T08:58:08.7671979+00:00",
+  "LastUpdate_Achievements": "2023-08-25T09:07:03.4982024+00:00"
 }

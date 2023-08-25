@@ -4,7 +4,7 @@
   "ProductSlug": "beacon-of-neyda-22dd2e",
   "Ranking_EOS_Progress": 559,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 349,
+  "Ranking_EOS_NewPlayers": 348,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-19T16:57:32.2877342+00:00",
-  "LastUpdate_Ratings": "2023-08-25T07:59:15.5557065+00:00",
-  "LastUpdate_Achievements": "2023-08-25T08:05:52.6171583+00:00"
+  "LastUpdate_Ratings": "2023-08-25T08:59:09.0293136+00:00",
+  "LastUpdate_Achievements": "2023-08-25T09:05:57.941566+00:00"
 }

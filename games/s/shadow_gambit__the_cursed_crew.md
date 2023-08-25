@@ -6,11 +6,11 @@
 | ---- | ---------- | ----- |
 | A New Journey | 75.00% | ~366 |
 | The Adventure Begins | 53.00% | ~259 |
-| Swabbie | 37.00% | ~181 |
+| Swabbie | 38.00% | ~185 |
 | With Great Power… | 33.00% | ~161 |
-| This Belongs in a Museum | 27.00% | ~132 |
+| This Belongs in a Museum | 28.00% | ~137 |
 | The Gambit Has Begun | 21.00% | ~102 |
-| Powder Monkey | 19.00% | ~93 |
+| Powder Monkey | 20.00% | ~98 |
 | Somewhere Deep in the Lost Caribbean | 16.00% | ~78 |
 | Mirror Mirror on the Wall | 15.00% | ~73 |
 | Fishy Fish | 15.00% | ~73 |
