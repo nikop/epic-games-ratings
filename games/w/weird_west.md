@@ -56,12 +56,12 @@ Number of Ratings: 125  (23.09.2022)
 | End the world | 0.70% | ~13 |
 | Explorer | 0.60% | ~11 |
 | Moon Hunter | 0.60% | ~11 |
+| Dirt and Blame | 0.50% | ~9 |
 | Revenant | 0.50% | ~9 |
-| Dirt and Blame | 0.40% | ~7 |
 | Winter Has Come | 0.40% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,814 (Ranked 176)  
-Completed: 5 (0.28%) (Ranked 175)  
+Completed: 6 (0.33%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -168,7 +168,7 @@ Completed: 5 (0.28%) (Ranked 175)
 | 2023-08-19 | 1,811 | 4 |
 | 2023-08-21 | 1,812 | 4 |
 | 2023-08-24 | 1,814 | 4 |
-| 2023-08-25 | 1,814 | 5 |
+| 2023-08-25 | 1,814 | 6 |
 ## Awards
 Max (Impact the Story): 25  (Ranked 483)  
 Sum: 25 (Ranked 488)  

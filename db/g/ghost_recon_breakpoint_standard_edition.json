@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2019-10-04T15:00:00+00:00",
@@ -7195,11 +7195,17 @@
       "Rating": 4.54,
       "NumberOfAwards": 10010,
       "NumberOfAwardsMax": 1297
+    },
+    {
+      "Time": "2023-08-25T16:00:53.0928379+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 10018,
+      "NumberOfAwardsMax": 1301
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10010,
-  "NumberOfAwardsMax": 1297,
+  "NumberOfAwards": 10018,
+  "NumberOfAwardsMax": 1301,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -7212,7 +7218,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1297
+      "Count": 1301
     },
     {
       "Text": "This game has Amazing Characters",
@@ -7230,7 +7236,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1197
+      "Count": 1199
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -7254,7 +7260,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1159
+      "Count": 1161
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -7274,8 +7280,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:01.6049154+00:00",
-  "LastChanged": "2023-08-25T08:00:18.0952541+00:00",
+  "LastChanged": "2023-08-25T16:00:53.0928378+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:30.8255944+00:00",
-  "LastUpdate_Ratings": "2023-08-25T15:00:53.6812619+00:00",
-  "LastUpdate_Achievements": "2023-08-25T15:05:29.6182063+00:00"
+  "LastUpdate_Ratings": "2023-08-25T16:00:53.0928384+00:00",
+  "LastUpdate_Achievements": "2023-08-25T16:05:19.8501834+00:00"
 }

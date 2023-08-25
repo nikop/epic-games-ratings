@@ -57,6 +57,7 @@
 | Undercover robot | 35.00% | ~93 |
 | Not little hacker | 34.00% | ~90 |
 | Absolute Champion! | 34.00% | ~90 |
+| Trap disarmed | 32.00% | ~85 |
 | Another world | 32.00% | ~85 |
 | The lonesome road | 32.00% | ~85 |
 | Keep nature safe | 32.00% | ~85 |
@@ -65,7 +66,6 @@
 | Careerist | 32.00% | ~85 |
 | Anyone can resist | 32.00% | ~85 |
 | The heart of the Resistance | 32.00% | ~85 |
-| Trap disarmed | 31.00% | ~82 |
 | The last bell ring | 31.00% | ~82 |
 | Silver’s past | 29.00% | ~77 |
 | Better cooking at home | 29.00% | ~77 |

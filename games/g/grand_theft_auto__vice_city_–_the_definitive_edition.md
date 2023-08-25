@@ -5,7 +5,7 @@ Rating: 4.54 (Ranked 500)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 45.00% | ~4,396 |
+| Legal Counsel | 46.00% | ~4,493 |
 | Greasy Palms | 41.00% | ~4,005 |
 | South American Connection | 25.00% | ~2,442 |
 | Life of the Party | 20.00% | ~1,954 |

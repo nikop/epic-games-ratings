@@ -1011,9 +1011,9 @@
       "ID": "all_promotion_6",
       "SetID": "69co12a",
       "Name": "Trap disarmed",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 85
     },
     {
       "ID": "another_world",
@@ -1506,8 +1506,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-08-25T15:06:48.9588369+00:00",
+  "LastChanged_Achievements": "2023-08-25T16:06:39.5332433+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:55.5083268+00:00",
-  "LastUpdate_Ratings": "2023-08-25T15:00:41.1823294+00:00",
-  "LastUpdate_Achievements": "2023-08-25T15:06:48.9588912+00:00"
+  "LastUpdate_Ratings": "2023-08-25T16:00:40.667271+00:00",
+  "LastUpdate_Achievements": "2023-08-25T16:06:39.5333146+00:00"
 }

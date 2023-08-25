@@ -1664,18 +1664,24 @@
       "Rating": 4.05,
       "NumberOfAwards": 1539,
       "NumberOfAwardsMax": 187
+    },
+    {
+      "Time": "2023-08-25T15:57:24.0531095+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 1540,
+      "NumberOfAwardsMax": 188
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1539,
-  "NumberOfAwardsMax": 187,
+  "NumberOfAwards": 1540,
+  "NumberOfAwardsMax": 188,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 187
+      "Count": 188
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1750,9 +1756,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 256327,
+  "EOS_Progressed": 256354,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3173,
+  "EOS_NewPlayers": 3175,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15885,6 +15891,11 @@
       "Time": "2023-08-25T15:08:07.0506249+00:00",
       "NumProgressed": 256327,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-25T16:07:59.6713706+00:00",
+      "NumProgressed": 256354,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -15944,7 +15955,7 @@
       "Name": "Contender",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 25633
+      "UsersEstimate": 25635
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -15960,7 +15971,7 @@
       "Name": "My Table, my Rules",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 2563
+      "UsersEstimate": 2564
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -15984,7 +15995,7 @@
       "Name": "First but not Last",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 10253
+      "UsersEstimate": 10254
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -16016,7 +16027,7 @@
       "Name": "Ready Steady Score",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7690
+      "UsersEstimate": 7691
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -16056,7 +16067,7 @@
       "Name": "I Found it!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 23069
+      "UsersEstimate": 23072
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -16104,7 +16115,7 @@
       "Name": "Dress Code",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7690
+      "UsersEstimate": 7691
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -16120,7 +16131,7 @@
       "Name": "Ball Launched",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 210188
+      "UsersEstimate": 210210
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -16128,22 +16139,22 @@
       "Name": "I know the Rules",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 94841
+      "UsersEstimate": 94851
     }
   ],
   "AchievementSets": [
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 256327,
+      "Progressed": 256354,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
-  "LastChanged": "2023-08-25T14:57:32.7685651+00:00",
-  "LastChanged_Achievements": "2023-08-25T15:08:07.0506242+00:00",
+  "LastChanged": "2023-08-25T15:57:24.0531093+00:00",
+  "LastChanged_Achievements": "2023-08-25T16:07:59.6713701+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:32.484157+00:00",
-  "LastUpdate_Ratings": "2023-08-25T14:57:32.7685658+00:00",
-  "LastUpdate_Achievements": "2023-08-25T15:08:07.0507116+00:00"
+  "LastUpdate_Ratings": "2023-08-25T15:57:24.05311+00:00",
+  "LastUpdate_Achievements": "2023-08-25T16:07:59.6714922+00:00"
 }

@@ -12,7 +12,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mad Wizard | 0.50% | ~1,124 |
 | The Hunt for The Last Breath | 0.50% | ~956 |
 | The Ring of Regeneration | 0.40% | ~899 |
-| To Infinity's and Beyond | 0.40% | ~764 |
+| To Infinity's and Beyond | 0.40% | ~765 |
 | Were-verpowered | 0.30% | ~675 |
 | Seeking Allies | 0.30% | ~675 |
 | Are Ya Chicken? | 0.30% | ~675 |
@@ -33,6 +33,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Heatwave | 0.20% | ~382 |
 | The Dread Domain of Tovag | 0.20% | ~382 |
 | The Castle of a Thousand Vecnas | 0.20% | ~382 |
+| Who Lurks Below? | 0.20% | ~382 |
 | A Persistent Buzzing | 0.20% | ~450 |
 | Beast Mode | 0.20% | ~450 |
 | Terror in the Dark | 0.20% | ~450 |
@@ -184,7 +185,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pin and Skewer | 0.10% | ~191 |
 | Vecna Out! | 0.10% | ~191 |
 | Bully for Vecna | 0.10% | ~191 |
-| Who Lurks Below? | 0.10% | ~191 |
 | Clowning Around | 0.10% | ~191 |
 | Xanathaaaaaaar! | 0.10% | ~191 |
 | A Whale of a Time | 0.10% | ~191 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~191 |
 | Animated Giff | 0.10% | ~191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,842 (Ranked 53)  
+Progressed: 224,856 (Ranked 53)  
 Completed: 2,213 (0.98%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -650,7 +650,7 @@ Completed: 2,213 (0.98%) (Ranked 122)
 | 2023-08-22 | 224,213 | 2,207 |
 | 2023-08-23 | 224,434 | 2,210 |
 | 2023-08-24 | 224,686 | 2,211 |
-| 2023-08-25 | 224,842 | 2,213 |
+| 2023-08-25 | 224,856 | 2,213 |
 ## Awards
 Max (Diverse Characters): 5,182  (Ranked 68)  
 Sum: 31,208 (Ranked 39)  

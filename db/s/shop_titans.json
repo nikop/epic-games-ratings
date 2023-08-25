@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -5734,7 +5734,7 @@
       "Count": 3737
     }
   ],
-  "EOS_Progressed": 135083,
+  "EOS_Progressed": 135085,
   "EOS_Completed": 138,
   "EOS_NewPlayers": 369,
   "EOS_NewCompleters": 5,
@@ -18734,6 +18734,11 @@
       "Time": "2023-08-25T15:07:52.5470223+00:00",
       "NumProgressed": 135083,
       "NumCompleted": 138
+    },
+    {
+      "Time": "2023-08-25T16:07:44.9251887+00:00",
+      "NumProgressed": 135085,
+      "NumCompleted": 138
     }
   ],
   "TotalAchievements": 112,
@@ -18745,7 +18750,7 @@
       "Name": "The Daily Grind",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "advlevel02",
@@ -18863,9 +18868,9 @@
       "ID": "blueprint03",
       "SetID": "anfd17p",
       "Name": "Thirst for Knowledge",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 405
     },
     {
       "ID": "bookentry",
@@ -18881,7 +18886,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "boss02",
@@ -19297,7 +19302,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "jackslot02",
@@ -19369,7 +19374,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "loot02",
@@ -19401,7 +19406,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "master02",
@@ -19511,9 +19516,9 @@
       "ID": "rudo_a",
       "SetID": "anfd17p",
       "Name": "Moment of Respite",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 405
     },
     {
       "ID": "sell01",
@@ -19640,15 +19645,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135083,
+      "Progressed": 135085,
       "Completed": 138
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-24T23:02:08.8227726+00:00",
-  "LastChanged_Achievements": "2023-08-25T15:07:52.5470218+00:00",
+  "LastChanged_Achievements": "2023-08-25T16:07:44.9251881+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:50.7489496+00:00",
-  "LastUpdate_Ratings": "2023-08-25T15:02:02.2786195+00:00",
-  "LastUpdate_Achievements": "2023-08-25T15:07:52.5472455+00:00"
+  "LastUpdate_Ratings": "2023-08-25T16:02:05.6414232+00:00",
+  "LastUpdate_Achievements": "2023-08-25T16:07:44.9254945+00:00"
 }

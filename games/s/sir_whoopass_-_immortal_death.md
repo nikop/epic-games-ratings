@@ -25,15 +25,15 @@
 | Spare Ribs | 52.00% | ~49 |
 | Honk honk! | 51.00% | ~48 |
 | Cockadoodledoo! | 50.00% | ~47 |
+| My pants squeak when I walk | 47.00% | ~44 |
 | Thats disgusting! | 47.00% | ~44 |
-| My pants squeak when I walk | 46.00% | ~43 |
 | Surprise!! | 44.00% | ~41 |
 | Haemochromatosis | 43.00% | ~40 |
 | Self assessed tax return | 41.00% | ~39 |
 | Make America Grate Again | 37.00% | ~35 |
+| You can't stop me, bro! | 36.00% | ~34 |
 | Pasta Bolognese | 36.00% | ~34 |
-| You can't stop me, bro! | 35.00% | ~33 |
-| You are no match for me, Billy! | 34.00% | ~32 |
+| You are no match for me, Billy! | 35.00% | ~33 |
 | Catch the bus with me! | 34.00% | ~32 |
 | Karaoke king | 34.00% | ~32 |
 | I'm going to get a concussion | 33.00% | ~31 |

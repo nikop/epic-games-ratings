@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 134,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
     "PcReleaseDate": "2021-04-01T07:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2576,
+  "EOS_Progressed": 2577,
   "EOS_Completed": 16,
   "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 1,
@@ -4986,6 +4986,11 @@
       "Time": "2023-08-25T15:08:10.8497602+00:00",
       "NumProgressed": 2576,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-08-25T16:08:03.6364189+00:00",
+      "NumProgressed": 2577,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 16,
@@ -5029,7 +5034,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 1958
+      "UsersEstimate": 1959
     },
     {
       "ID": "ach_architecture_completed",
@@ -5093,7 +5098,7 @@
       "Name": "Game opened",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 1906
+      "UsersEstimate": 1907
     },
     {
       "ID": "ach_magic_wand",
@@ -5117,21 +5122,21 @@
       "Name": "Aeolus",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     }
   ],
   "AchievementSets": [
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 2576,
+      "Progressed": 2577,
       "Completed": 16
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-08-25T15:08:10.8497596+00:00",
+  "LastChanged_Achievements": "2023-08-25T16:08:03.6364183+00:00",
   "LastUpdate_AppInfo": "2023-08-25T13:01:03.6114977+00:00",
-  "LastUpdate_Ratings": "2023-08-25T15:00:07.3059657+00:00",
-  "LastUpdate_Achievements": "2023-08-25T15:08:10.849793+00:00"
+  "LastUpdate_Ratings": "2023-08-25T16:00:05.693973+00:00",
+  "LastUpdate_Achievements": "2023-08-25T16:08:03.6364602+00:00"
 }

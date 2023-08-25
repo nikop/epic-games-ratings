@@ -4,10 +4,10 @@
   "ProductSlug": "enter-the-gungeon",
   "Ranking_Rating": 42,
   "Ranking_Popularity": 44,
-  "Ranking_PopularitySum": 70,
+  "Ranking_PopularitySum": 71,
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2016-04-05T15:00:00+00:00",
@@ -4961,6 +4961,6 @@
   "FirstSeen": "2022-07-22T20:25:04.490879+00:00",
   "LastChanged": "2023-08-24T19:02:23.5564656+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:07.6902155+00:00",
-  "LastUpdate_Ratings": "2023-08-25T15:02:19.3977165+00:00",
-  "LastUpdate_Achievements": "2023-08-25T15:06:00.740766+00:00"
+  "LastUpdate_Ratings": "2023-08-25T16:02:20.0293543+00:00",
+  "LastUpdate_Achievements": "2023-08-25T16:05:49.5662355+00:00"
 }

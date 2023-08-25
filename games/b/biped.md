@@ -9,18 +9,18 @@
 | Cactus Vally | 23.00% | ~1,238 |
 | Rainy Ruins | 13.00% | ~700 |
 | Telepathic | 10.00% | ~538 |
-| Snowy Peak | 9.00% | ~484 |
+| Snowy Peak | 9.00% | ~485 |
 | High Treetops | 8.00% | ~431 |
 | Speed walkers | 7.00% | ~377 |
 | Blue Rapids | 6.00% | ~323 |
-| Sunset Ridge | 3.00% | ~161 |
+| Sunset Ridge | 3.00% | ~162 |
 | Robot lives matter too | 0.10% | ~5 |
 | Trend hunters | 0.10% | ~5 |
 | I can do this alone | 0.10% | ~5 |
 | Reaching for the stars | 0.10% | ~5 |
 | Master biped | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,383 (Ranked 141)  
+Progressed: 5,384 (Ranked 141)  
 Completed: 0 (0.00%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 0 (0.00%) (Ranked 263)
 | 2023-08-22 | 5,365 | 0 |
 | 2023-08-23 | 5,374 | 0 |
 | 2023-08-24 | 5,379 | 0 |
-| 2023-08-25 | 5,383 | 0 |
+| 2023-08-25 | 5,384 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5383,
+  "EOS_Progressed": 5384,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8796,6 +8796,11 @@
       "Time": "2023-08-25T13:09:36.0177854+00:00",
       "NumProgressed": 5383,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-25T16:05:34.4185863+00:00",
+      "NumProgressed": 5384,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -8887,7 +8892,7 @@
       "Name": "Snowy Peak",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "6",
@@ -8911,7 +8916,7 @@
       "Name": "Sunset Ridge",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "9",
@@ -8926,7 +8931,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 5383,
+      "Progressed": 5384,
       "Completed": 0
     }
   ],
@@ -8934,8 +8939,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-08-25T15:05:45.8968844+00:00",
+  "LastChanged_Achievements": "2023-08-25T16:05:34.418586+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:57.4704491+00:00",
-  "LastUpdate_Ratings": "2023-08-25T15:01:22.6935895+00:00",
-  "LastUpdate_Achievements": "2023-08-25T15:05:45.8969623+00:00"
+  "LastUpdate_Ratings": "2023-08-25T16:01:23.9353224+00:00",
+  "LastUpdate_Achievements": "2023-08-25T16:05:34.4187409+00:00"
 }

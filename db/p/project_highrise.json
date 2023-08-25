@@ -4,7 +4,7 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -1212,17 +1212,17 @@
       "ID": "ach_grime",
       "SetID": "b8gh1fi",
       "Name": "Grime is Not Good",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 160
+      "UsersEstimate": 163
     },
     {
       "ID": "ach_grime_1",
       "SetID": "b8gh1fi",
       "Name": "Delegate Maintenance",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 117
     },
     {
       "ID": "ach_grime_2",
@@ -1340,9 +1340,9 @@
       "ID": "ach_profit_0",
       "SetID": "b8gh1fi",
       "Name": "In the Black",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 203
     },
     {
       "ID": "ach_profit_1",
@@ -1589,8 +1589,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-08-25T15:06:48.232201+00:00",
+  "LastChanged_Achievements": "2023-08-25T16:06:38.8067706+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:02.7017252+00:00",
-  "LastUpdate_Ratings": "2023-08-25T15:01:23.4522769+00:00",
-  "LastUpdate_Achievements": "2023-08-25T15:06:48.2322854+00:00"
+  "LastUpdate_Ratings": "2023-08-25T16:01:26.8543016+00:00",
+  "LastUpdate_Achievements": "2023-08-25T16:06:38.8068956+00:00"
 }

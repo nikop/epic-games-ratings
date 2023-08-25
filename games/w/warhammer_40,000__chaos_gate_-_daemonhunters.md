@@ -60,6 +60,7 @@ Number of Ratings: 371  (23.09.2022)
 | Opportunist | 0.10% | ~3 |
 | Master of the Forge | 0.10% | ~3 |
 | Field Apothecarion | 0.10% | ~3 |
+| Brothers in Arms | 0.10% | ~3 |
 | Warp Flickers | 0.10% | ~3 |
 | Phalanx | 0.10% | ~3 |
 | Firing Squad | 0.10% | ~3 |
@@ -72,7 +73,6 @@ Number of Ratings: 371  (23.09.2022)
 | Drone Army | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
-| Brothers in Arms | 0.00% | ~0 |
 | Not a Mote of Corruption | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,162 (Ranked 157)  

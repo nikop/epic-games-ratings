@@ -1,33 +1,33 @@
 # AER Memories of Old
 [Store](https://store.epicgames.com/en-US/p/aer-memories-of-old)  
 [View Rawdata](../../db/a/aer_memories_of_old.json)  
-Rating: 4.45 (Ranked 637)  
+Rating: 4.45 (Ranked 636)  
 Number of Ratings: 170  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 76.00% | ~14,152 |
-| Mama? | 28.00% | ~5,214 |
-| People's Haven | 19.00% | ~3,538 |
-| Cartographer | 17.00% | ~3,166 |
-| Antlers of Stone | 15.00% | ~2,793 |
-| Knowledge for Power | 14.00% | ~2,607 |
-| Mausoleum of Ice | 14.00% | ~2,607 |
-| Gaze into the abyss | 13.00% | ~2,421 |
+| Light at the end of the tunnel | 76.00% | ~14,158 |
+| Mama? | 28.00% | ~5,216 |
+| People's Haven | 19.00% | ~3,540 |
+| Cartographer | 17.00% | ~3,167 |
+| Antlers of Stone | 15.00% | ~2,794 |
+| Knowledge for Power | 14.00% | ~2,608 |
+| Mausoleum of Ice | 14.00% | ~2,608 |
+| Gaze into the abyss | 13.00% | ~2,422 |
 | In the belly of the beast | 12.00% | ~2,235 |
 | Wings of Stone | 12.00% | ~2,235 |
 | Equilibrium | 12.00% | ~2,235 |
-| Condor condo | 10.00% | ~1,862 |
-| Memorial | 9.00% | ~1,676 |
+| Condor condo | 10.00% | ~1,863 |
+| Memorial | 9.00% | ~1,677 |
 | An uninvited guest | 8.00% | ~1,490 |
-| Talk to all the spirit animals | 7.00% | ~1,303 |
-| Ripples on the surface | 6.00% | ~1,117 |
-| Tails of Stone | 6.00% | ~1,117 |
-| Baa from the past | 6.00% | ~1,117 |
-| Written in stone | 6.00% | ~1,117 |
+| Talk to all the spirit animals | 7.00% | ~1,304 |
+| Ripples on the surface | 6.00% | ~1,118 |
+| Tails of Stone | 6.00% | ~1,118 |
+| Baa from the past | 6.00% | ~1,118 |
+| Written in stone | 6.00% | ~1,118 |
 | Hide and Seek | 5.00% | ~931 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,621 (Ranked 110)  
+Progressed: 18,629 (Ranked 110)  
 Completed: 374 (2.01%) (Ranked 93)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 374 (2.01%) (Ranked 93)
 | 2023-08-22 | 18,439 | 373 |
 | 2023-08-23 | 18,510 | 374 |
 | 2023-08-24 | 18,574 | 374 |
-| 2023-08-25 | 18,621 | 374 |
+| 2023-08-25 | 18,629 | 374 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

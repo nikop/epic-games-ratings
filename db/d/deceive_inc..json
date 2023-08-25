@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17639,
+  "EOS_Progressed": 17642,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 177,
+  "EOS_NewPlayers": 180,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9031,6 +9031,11 @@
       "Time": "2023-08-25T15:07:06.351871+00:00",
       "NumProgressed": 17639,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-25T16:06:46.7695205+00:00",
+      "NumProgressed": 17642,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -9042,7 +9047,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5115
+      "UsersEstimate": 5116
     },
     {
       "ID": "0002",
@@ -9066,7 +9071,7 @@
       "Name": "Security Supervisor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1059
     },
     {
       "ID": "0005",
@@ -9098,7 +9103,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3175
+      "UsersEstimate": 3176
     },
     {
       "ID": "0009",
@@ -9106,7 +9111,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4057
+      "UsersEstimate": 4058
     },
     {
       "ID": "0010",
@@ -9130,7 +9135,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2822
+      "UsersEstimate": 2823
     },
     {
       "ID": "0013",
@@ -9170,7 +9175,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3351
+      "UsersEstimate": 3352
     },
     {
       "ID": "0018",
@@ -9194,7 +9199,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 11,
       "XP": 115,
-      "UsersEstimate": 1940
+      "UsersEstimate": 1941
     },
     {
       "ID": "0021",
@@ -9234,7 +9239,7 @@
       "Name": "Tailor-Made",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3175
+      "UsersEstimate": 3176
     },
     {
       "ID": "0026",
@@ -9250,7 +9255,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1940
+      "UsersEstimate": 1941
     },
     {
       "ID": "0028",
@@ -9258,7 +9263,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4057
+      "UsersEstimate": 4058
     },
     {
       "ID": "0029",
@@ -9274,7 +9279,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3175
+      "UsersEstimate": 3176
     },
     {
       "ID": "0031",
@@ -9290,7 +9295,7 @@
       "Name": "Killer Looks",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1940
+      "UsersEstimate": 1941
     },
     {
       "ID": "0033",
@@ -9329,7 +9334,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17639,
+      "Progressed": 17642,
       "Completed": 1
     }
   ],
@@ -9337,8 +9342,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-12T19:04:41.1874293+00:00",
-  "LastChanged_Achievements": "2023-08-25T15:07:06.3518704+00:00",
+  "LastChanged_Achievements": "2023-08-25T16:06:46.76952+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:28.6624095+00:00",
-  "LastUpdate_Ratings": "2023-08-25T14:58:26.5790473+00:00",
-  "LastUpdate_Achievements": "2023-08-25T15:07:06.3519365+00:00"
+  "LastUpdate_Ratings": "2023-08-25T15:58:14.822054+00:00",
+  "LastUpdate_Achievements": "2023-08-25T16:06:46.7696219+00:00"
 }

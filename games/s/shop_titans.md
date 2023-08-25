@@ -19,11 +19,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | Budding Merchant | 0.80% | ~1,081 |
 | Own the Means of Production | 0.80% | ~1,081 |
 | Pretty Penny | 0.70% | ~946 |
-| The Daily Grind | 0.60% | ~810 |
-| Bounty Hunters | 0.60% | ~810 |
-| One-Armed Bandit | 0.60% | ~810 |
-| Dungeon Imports | 0.60% | ~810 |
-| Through Repetition, Perfection | 0.60% | ~810 |
+| The Daily Grind | 0.60% | ~811 |
+| Bounty Hunters | 0.60% | ~811 |
+| One-Armed Bandit | 0.60% | ~811 |
+| Dungeon Imports | 0.60% | ~811 |
+| Through Repetition, Perfection | 0.60% | ~811 |
 | Demand for Supplies | 0.50% | ~675 |
 | Flooding the Market | 0.50% | ~675 |
 | Where it Hurts | 0.50% | ~675 |
@@ -52,6 +52,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | A Ronin Reborn | 0.30% | ~405 |
 | Tax not Included | 0.30% | ~405 |
 | The King's Caprice | 0.30% | ~405 |
+| Thirst for Knowledge | 0.30% | ~405 |
 | Big Game Hunting | 0.30% | ~405 |
 | For the Hoard! | 0.30% | ~405 |
 | Booty by the Boatload | 0.30% | ~405 |
@@ -81,6 +82,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Attrition Mission | 0.30% | ~405 |
 | Glittering Collection | 0.30% | ~405 |
 | Treasure Trove | 0.30% | ~405 |
+| Moment of Respite | 0.30% | ~405 |
 | Black Friday Special | 0.30% | ~405 |
 | King's Shadow | 0.30% | ~405 |
 | Special Ingredient | 0.30% | ~405 |
@@ -88,7 +90,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.30% | ~405 |
 | Top of the World | 0.20% | ~270 |
 | Constellated | 0.20% | ~270 |
-| Thirst for Knowledge | 0.20% | ~270 |
 | The Free Encyclopedia | 0.20% | ~270 |
 | Fillin' the Bin | 0.20% | ~270 |
 | Industrial Evolution | 0.20% | ~270 |
@@ -99,7 +100,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Necromancer Queen | 0.20% | ~270 |
 | Jackpot! | 0.20% | ~270 |
 | Bountiful Harvest | 0.20% | ~270 |
-| Moment of Respite | 0.20% | ~270 |
 | Master Recycler | 0.20% | ~270 |
 | All Accounted For | 0.20% | ~270 |
 | Economy of Scarce | 0.20% | ~270 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~135 |
 | Cash Only Please | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,083 (Ranked 66)  
+Progressed: 135,085 (Ranked 66)  
 Completed: 138 (0.10%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 138 (0.10%) (Ranked 210)
 | 2023-08-22 | 134,956 | 136 |
 | 2023-08-23 | 134,997 | 138 |
 | 2023-08-24 | 135,040 | 138 |
-| 2023-08-25 | 135,083 | 138 |
+| 2023-08-25 | 135,085 | 138 |
 ## Awards
 Max (Great for Beginners): 4,712  (Ranked 71)  
 Sum: 27,135 (Ranked 47)  

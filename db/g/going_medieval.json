@@ -1232,9 +1232,9 @@
       "Count": 67
     }
   ],
-  "EOS_Progressed": 5475,
+  "EOS_Progressed": 5476,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -8157,6 +8157,11 @@
       "Time": "2023-08-25T15:06:43.8717727+00:00",
       "NumProgressed": 5475,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-08-25T16:06:34.2735482+00:00",
+      "NumProgressed": 5476,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 31,
@@ -8216,7 +8221,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 3887
+      "UsersEstimate": 3888
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -8328,7 +8333,7 @@
       "Name": "The First Day",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 3723
+      "UsersEstimate": 3724
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -8374,9 +8379,9 @@
       "ID": "UNLOCK_RESEARCH",
       "SetID": "5349c2e",
       "Name": "Novice Researcher",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 3559
+      "UsersEstimate": 3614
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -8400,7 +8405,7 @@
       "Name": "Onward",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3066
+      "UsersEstimate": 3067
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -8408,22 +8413,22 @@
       "Name": "Studious Researcher",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 2792
+      "UsersEstimate": 2793
     }
   ],
   "AchievementSets": [
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 5475,
+      "Progressed": 5476,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-08-24T21:58:22.1721214+00:00",
-  "LastChanged_Achievements": "2023-08-25T15:06:43.8717722+00:00",
+  "LastChanged_Achievements": "2023-08-25T16:06:34.2735477+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:24.7738983+00:00",
-  "LastUpdate_Ratings": "2023-08-25T14:58:24.0738372+00:00",
-  "LastUpdate_Achievements": "2023-08-25T15:06:43.8718257+00:00"
+  "LastUpdate_Ratings": "2023-08-25T15:58:12.1936311+00:00",
+  "LastUpdate_Achievements": "2023-08-25T16:06:34.2736189+00:00"
 }

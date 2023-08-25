@@ -4,7 +4,7 @@
   "ProductSlug": "electrician-simulator-164e9f",
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-08-04T16:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 261,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -811,9 +811,9 @@
       "ID": "ACH_CABLES_LENGTH",
       "SetID": "al4k4nh",
       "Name": "Cables in Paris",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_CONNECT_19_LAMPS_TO_SWITCH",
@@ -1026,8 +1026,8 @@
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-08-25T15:08:22.3659846+00:00",
+  "LastChanged_Achievements": "2023-08-25T16:08:16.511393+00:00",
   "LastUpdate_AppInfo": "2023-08-23T17:57:12.6622936+00:00",
-  "LastUpdate_Ratings": "2023-08-25T15:00:22.6349153+00:00",
-  "LastUpdate_Achievements": "2023-08-25T15:08:22.3660049+00:00"
+  "LastUpdate_Ratings": "2023-08-25T16:00:21.3528385+00:00",
+  "LastUpdate_Achievements": "2023-08-25T16:08:16.5114207+00:00"
 }

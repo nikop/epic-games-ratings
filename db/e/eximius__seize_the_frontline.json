@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 76,
+  "Ranking_EOS_NewPlayers": 75,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-10-22T11:18:36+00:00",
@@ -306,9 +306,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 195410,
+  "EOS_Progressed": 195419,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 521,
+  "EOS_NewPlayers": 529,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14016,6 +14016,11 @@
       "Time": "2023-08-25T15:05:32.1503826+00:00",
       "NumProgressed": 195410,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-25T16:05:22.7763719+00:00",
+      "NumProgressed": 195419,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -14027,7 +14032,7 @@
       "Name": "Battlesuit Victory",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 15633
+      "UsersEstimate": 15634
     },
     {
       "ID": "ACH_COMPLETE_TUTORIAL",
@@ -14035,7 +14040,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 138741
+      "UsersEstimate": 138747
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -14043,7 +14048,7 @@
       "Name": "Flawless Victory",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 9770
+      "UsersEstimate": 9771
     },
     {
       "ID": "ACH_GATED_COMMUNITY",
@@ -14051,7 +14056,7 @@
       "Name": "Gated Community",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 5862
+      "UsersEstimate": 5863
     },
     {
       "ID": "ACH_INITIATION",
@@ -14059,7 +14064,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 35174
+      "UsersEstimate": 35175
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -14107,7 +14112,7 @@
       "Name": "Baby Steps",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 9770
+      "UsersEstimate": 9771
     },
     {
       "ID": "ACH_WIN_50_ONLINE_GAME",
@@ -14147,14 +14152,14 @@
       "Name": "First Co-Op Win",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 9770
+      "UsersEstimate": 9771
     }
   ],
   "AchievementSets": [
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 195410,
+      "Progressed": 195419,
       "Completed": 4
     }
   ],
@@ -14162,8 +14167,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-08-23T04:57:31.1558679+00:00",
-  "LastChanged_Achievements": "2023-08-25T15:05:32.1503819+00:00",
+  "LastChanged_Achievements": "2023-08-25T16:05:22.7763713+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:27.2686844+00:00",
-  "LastUpdate_Ratings": "2023-08-25T14:58:26.4158604+00:00",
-  "LastUpdate_Achievements": "2023-08-25T15:05:32.15046+00:00"
+  "LastUpdate_Ratings": "2023-08-25T15:58:14.6506088+00:00",
+  "LastUpdate_Achievements": "2023-08-25T16:05:22.7765141+00:00"
 }

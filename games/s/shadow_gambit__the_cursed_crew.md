@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 74.00% | ~366 |
+| A New Journey | 75.00% | ~371 |
 | The Adventure Begins | 53.00% | ~262 |
 | Swabbie | 37.00% | ~183 |
 | With Great Power… | 33.00% | ~163 |
@@ -25,7 +25,7 @@
 | Tobacco Travesty | 4.00% | ~20 |
 | Accursed Artifacts | 4.00% | ~20 |
 | Lyrical Longing | 4.00% | ~20 |
-| Corsair | 2.00% | ~10 |
+| Corsair | 3.00% | ~15 |
 | Freebooter | 2.00% | ~10 |
 | Fully Decked | 2.00% | ~10 |
 | Marauder | 1.00% | ~5 |

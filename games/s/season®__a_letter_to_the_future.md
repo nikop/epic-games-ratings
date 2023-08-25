@@ -18,7 +18,7 @@
 | Shrine Arriver | 14.00% | ~168 |
 | Goodbye Tieng Valley | 13.00% | ~156 |
 | The End | 13.00% | ~156 |
-| Love Uncoverer | 10.00% | ~120 |
+| Love Uncoverer | 11.00% | ~132 |
 | Graffiti Artist | 9.00% | ~108 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,197 (Ranked 191)  

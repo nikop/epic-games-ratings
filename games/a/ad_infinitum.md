@@ -34,7 +34,7 @@
 | Their names | 0.00% | ~0 |
 | The shining | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5 (Ranked 472)  
+Progressed: 6 (Ranked 466)  
 Completed: 0 (0.00%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -43,3 +43,4 @@ Completed: 0 (0.00%) (Ranked 263)
 | 2023-08-07 | 2 | 0 |
 | 2023-08-08 | 3 | 0 |
 | 2023-08-10 | 5 | 0 |
+| 2023-08-25 | 6 | 0 |
