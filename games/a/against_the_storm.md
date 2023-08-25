@@ -48,8 +48,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Blood Flower Farmer | 0.90% | ~148 |
 | Victory through Prosperity | 0.90% | ~148 |
 | Lizard Utopia | 0.70% | ~115 |
+| Beaver Utopia | 0.60% | ~98 |
 | Human Utopia | 0.60% | ~98 |
-| Beaver Utopia | 0.50% | ~82 |
 | The Queen's Chosen | 0.50% | ~82 |
 | Harpy Utopia | 0.30% | ~49 |
 | Treasure | 0.30% | ~49 |

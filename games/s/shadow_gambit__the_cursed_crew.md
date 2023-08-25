@@ -14,8 +14,8 @@
 | Somewhere Deep in the Lost Caribbean | 16.00% | ~78 |
 | Mirror Mirror on the Wall | 15.00% | ~73 |
 | Fishy Fish | 15.00% | ~73 |
+| Buccaneer | 11.00% | ~54 |
 | Pirates Assemble! | 11.00% | ~54 |
-| Buccaneer | 10.00% | ~49 |
 | Persistent Parasite | 10.00% | ~49 |
 | Seadog | 6.00% | ~29 |
 | Jaded Judge | 6.00% | ~29 |

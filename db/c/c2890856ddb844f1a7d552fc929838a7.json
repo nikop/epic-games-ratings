@@ -2,7 +2,7 @@
   "ID": "c2890856ddb844f1a7d552fc929838a7",
   "Name": "Blasphemous 2",
   "ProductSlug": "blasphemous-2",
-  "Ranking_EOS_Progress": 278,
+  "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 103,
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 256,
+  "EOS_Progressed": 260,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 255,
+  "EOS_NewPlayers": 259,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -122,6 +122,11 @@
       "Time": "2023-08-25T04:05:45.9687877+00:00",
       "NumProgressed": 256,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-25T05:05:26.9889334+00:00",
+      "NumProgressed": 260,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -142,7 +147,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 83,
       "XP": 30,
-      "UsersEstimate": 212
+      "UsersEstimate": 216
     },
     {
       "ID": "AC02",
@@ -150,7 +155,7 @@
       "Name": "Blood and Dust",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "AC03",
@@ -158,15 +163,15 @@
       "Name": "Blood and Gold",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "AC04",
       "SetID": "l4abp0",
       "Name": "Blood and Iron",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "AC05",
@@ -452,9 +457,9 @@
       "ID": "AC40",
       "SetID": "l4abp0",
       "Name": "Welcome Back!",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 122
     },
     {
       "ID": "AC41",
@@ -501,14 +506,14 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 256,
+      "Progressed": 260,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-26T07:57:19.1818171+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
-  "LastChanged_Achievements": "2023-08-25T04:05:45.9687869+00:00",
+  "LastChanged_Achievements": "2023-08-25T05:05:26.9889325+00:00",
   "LastUpdate_AppInfo": "2023-08-22T18:57:00.5189311+00:00",
-  "LastUpdate_Ratings": "2023-08-25T03:59:35.2572661+00:00",
-  "LastUpdate_Achievements": "2023-08-25T04:05:45.9688577+00:00"
+  "LastUpdate_Ratings": "2023-08-25T04:59:29.3784046+00:00",
+  "LastUpdate_Achievements": "2023-08-25T05:05:26.9889721+00:00"
 }

@@ -14,8 +14,8 @@ Number of Ratings: 45  (23.09.2022)
 | How Romantic! | 28.00% | ~384 |
 | Daybreak | 28.00% | ~384 |
 | Gotta Ca... Must Collect All of Them | 26.00% | ~356 |
+| War Endured | 15.00% | ~206 |
 | Completing the Look | 14.00% | ~192 |
-| War Endured | 14.00% | ~192 |
 | Core Failure | 14.00% | ~192 |
 | A Mythic Menagerie | 13.00% | ~178 |
 | Who's Counting? | 13.00% | ~178 |

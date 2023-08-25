@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 480,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -1630,9 +1630,9 @@
       "ID": "completedStory_enduringWar",
       "SetID": "95dc8p",
       "Name": "War Endured",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 192
+      "UsersEstimate": 206
     },
     {
       "ID": "completedStory_legacy",
@@ -1846,8 +1846,8 @@
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-07-08T20:01:41.3411794+00:00",
-  "LastChanged_Achievements": "2023-08-25T04:08:26.8300252+00:00",
+  "LastChanged_Achievements": "2023-08-25T05:08:05.7861432+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:21.1386789+00:00",
-  "LastUpdate_Ratings": "2023-08-25T03:59:30.6591885+00:00",
-  "LastUpdate_Achievements": "2023-08-25T04:08:26.8301063+00:00"
+  "LastUpdate_Ratings": "2023-08-25T04:59:25.2799871+00:00",
+  "LastUpdate_Achievements": "2023-08-25T05:08:05.7862002+00:00"
 }

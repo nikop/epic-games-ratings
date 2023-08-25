@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~191 |
 | Raisin the stakes | 0.30% | ~143 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,676 (Ranked 91)  
+Progressed: 47,676 (Ranked 92)  
 Completed: 6 (0.01%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -5,39 +5,39 @@ Rating: 4.77 (Ranked 108)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~14,799 |
-| The Killing Jar | 8.00% | ~13,155 |
-| Not Your Average Trait | 8.00% | ~13,155 |
-| Expanding Horizons | 7.00% | ~11,510 |
-| Quest for Survival | 7.00% | ~11,510 |
-| Boss'n Up | 7.00% | ~11,510 |
-| Trait Chaser | 7.00% | ~11,510 |
-| Gleaming the Cube | 6.00% | ~9,866 |
-| Not a Janitor | 6.00% | ~9,866 |
-| Familiar Face | 6.00% | ~9,866 |
-| Duality | 6.00% | ~9,866 |
-| Good, But Could Be Better! | 6.00% | ~9,866 |
-| Not So Special Now | 5.00% | ~8,222 |
-| Equal Measures | 5.00% | ~8,222 |
-| Blue Goddess | 5.00% | ~8,222 |
-| Top Performer | 5.00% | ~8,222 |
-| Shhh...It's a Secret | 5.00% | ~8,222 |
-| Almost There | 5.00% | ~8,222 |
-| Make Some Room | 5.00% | ~8,222 |
-| Chaos | 4.00% | ~6,577 |
-| Traitor | 4.00% | ~6,577 |
-| Power Surge | 4.00% | ~6,577 |
-| The God Gambit | 4.00% | ~6,577 |
-| Dark Designs | 4.00% | ~6,577 |
-| Madman's Paradise | 4.00% | ~6,577 |
-| Was This Supposed To Happen? | 4.00% | ~6,577 |
-| The Web | 4.00% | ~6,577 |
-| Forever is a Long Time Coming | 3.00% | ~4,933 |
-| The Agenda | 3.00% | ~4,933 |
-| Bad Moon Rising | 3.00% | ~4,933 |
-| Strapped | 3.00% | ~4,933 |
-| Scrap Collector | 3.00% | ~4,933 |
-| All These Traits� | 3.00% | ~4,933 |
+| First of Many | 9.00% | ~14,801 |
+| The Killing Jar | 8.00% | ~13,157 |
+| Not Your Average Trait | 8.00% | ~13,157 |
+| Expanding Horizons | 7.00% | ~11,512 |
+| Quest for Survival | 7.00% | ~11,512 |
+| Boss'n Up | 7.00% | ~11,512 |
+| Trait Chaser | 7.00% | ~11,512 |
+| Gleaming the Cube | 6.00% | ~9,867 |
+| Not a Janitor | 6.00% | ~9,867 |
+| Familiar Face | 6.00% | ~9,867 |
+| Duality | 6.00% | ~9,867 |
+| Good, But Could Be Better! | 6.00% | ~9,867 |
+| Not So Special Now | 5.00% | ~8,223 |
+| Equal Measures | 5.00% | ~8,223 |
+| Blue Goddess | 5.00% | ~8,223 |
+| Top Performer | 5.00% | ~8,223 |
+| Shhh...It's a Secret | 5.00% | ~8,223 |
+| Almost There | 5.00% | ~8,223 |
+| Make Some Room | 5.00% | ~8,223 |
+| Chaos | 4.00% | ~6,578 |
+| Traitor | 4.00% | ~6,578 |
+| Power Surge | 4.00% | ~6,578 |
+| The God Gambit | 4.00% | ~6,578 |
+| Dark Designs | 4.00% | ~6,578 |
+| Madman's Paradise | 4.00% | ~6,578 |
+| Was This Supposed To Happen? | 4.00% | ~6,578 |
+| The Web | 4.00% | ~6,578 |
+| Forever is a Long Time Coming | 3.00% | ~4,934 |
+| The Agenda | 3.00% | ~4,934 |
+| Bad Moon Rising | 3.00% | ~4,934 |
+| Strapped | 3.00% | ~4,934 |
+| Scrap Collector | 3.00% | ~4,934 |
+| All These Traits� | 3.00% | ~4,934 |
 | Am I Seeing This? | 2.00% | ~3,289 |
 | Only Human | 2.00% | ~3,289 |
 | Red Room | 2.00% | ~3,289 |
@@ -49,14 +49,14 @@ Rating: 4.77 (Ranked 108)
 | No One Should Have All That Power | 2.00% | ~3,289 |
 | Maxed Out! | 2.00% | ~3,289 |
 | Transmutate | 2.00% | ~3,289 |
-| Crafty | 1.00% | ~1,644 |
-| The Collector | 1.00% | ~1,644 |
+| Crafty | 1.00% | ~1,645 |
+| The Collector | 1.00% | ~1,645 |
 | The Trigger | 0.90% | ~1,480 |
 | Cutting Edge | 0.90% | ~1,480 |
 | Ghost in the Machine | 0.70% | ~1,151 |
 | Proving Grounds | 0.70% | ~1,151 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 164,432 (Ranked 63)  
+Progressed: 164,457 (Ranked 63)  
 Completed: 134 (0.08%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,18 +96,18 @@ Completed: 134 (0.08%) (Ranked 221)
 | 2023-08-22 | 162,242 | 116 |
 | 2023-08-23 | 163,315 | 126 |
 | 2023-08-24 | 164,289 | 132 |
-| 2023-08-25 | 164,432 | 134 |
+| 2023-08-25 | 164,457 | 134 |
 ## Awards
 Max (Great Boss Battles): 1,137  (Ranked 138)  
-Sum: 1,861 (Ranked 206)  
+Sum: 1,865 (Ranked 206)  
 Diff (max vs sum): -68  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 1,137 |
 | This game is Highly Recommended | 91 |
+| This game is Extremely Fun | 89 |
 | This game has Diverse Characters | 88 |
 | This game has Challenging Combat | 86 |
-| This game is Extremely Fun | 85 |
 | This game has Amazing Characters | 78 |
 | This game has Quickly Understood Controls | 77 |
 | This game has Unique Visuals | 75 |
@@ -146,4 +146,4 @@ Diff (max vs sum): -68
 | 2023-08-22 | 4.77 | 1,093 | 1,762 |
 | 2023-08-23 | 4.77 | 1,119 | 1,820 |
 | 2023-08-24 | 4.77 | 1,137 | 1,860 |
-| 2023-08-25 | 4.77 | 1,137 | 1,861 |
+| 2023-08-25 | 4.77 | 1,137 | 1,865 |

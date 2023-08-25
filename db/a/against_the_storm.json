@@ -9570,9 +9570,9 @@
       "ID": "BeaverUtopia",
       "SetID": "cfbk359",
       "Name": "Beaver Utopia",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 98
     },
     {
       "ID": "HarpyUtopia",
@@ -9946,8 +9946,8 @@
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-08-24T18:59:15.3162042+00:00",
-  "LastChanged_Achievements": "2023-08-25T04:07:44.3013924+00:00",
+  "LastChanged_Achievements": "2023-08-25T05:07:13.2502472+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:07.3508245+00:00",
-  "LastUpdate_Ratings": "2023-08-25T03:59:05.5328282+00:00",
-  "LastUpdate_Achievements": "2023-08-25T04:07:44.3015425+00:00"
+  "LastUpdate_Ratings": "2023-08-25T04:59:05.7741616+00:00",
+  "LastUpdate_Achievements": "2023-08-25T05:07:13.2503347+00:00"
 }

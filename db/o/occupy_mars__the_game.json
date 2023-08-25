@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -220,9 +220,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1526,
+  "EOS_Progressed": 1527,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3280,6 +3280,11 @@
       "Time": "2023-08-23T19:07:04.9567329+00:00",
       "NumProgressed": 1526,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-25T05:03:09.3664943+00:00",
+      "NumProgressed": 1527,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3411,7 +3416,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -3507,7 +3512,7 @@
       "Name": "I am the greatest botanist on this planet.",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
@@ -3515,7 +3520,7 @@
       "Name": "Houston we have a problem",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -3674,7 +3679,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1526,
+      "Progressed": 1527,
       "Completed": 0
     }
   ],
@@ -3682,8 +3687,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-08-17T16:59:18.1470659+00:00",
-  "LastChanged_Achievements": "2023-08-25T04:03:14.4801014+00:00",
+  "LastChanged_Achievements": "2023-08-25T05:03:09.3664936+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:58.538966+00:00",
-  "LastUpdate_Ratings": "2023-08-25T04:00:50.7784565+00:00",
-  "LastUpdate_Achievements": "2023-08-25T04:03:14.480471+00:00"
+  "LastUpdate_Ratings": "2023-08-25T05:00:33.8278205+00:00",
+  "LastUpdate_Achievements": "2023-08-25T05:03:09.3665883+00:00"
 }

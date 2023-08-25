@@ -4,7 +4,7 @@
   "ProductSlug": "ticket-to-ride",
   "Ranking_Rating": 329,
   "Ranking_Popularity": 381,
-  "Ranking_PopularitySum": 322,
+  "Ranking_PopularitySum": 321,
   "Ranking_EOS_Progress": 559,
   "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 350,
@@ -575,10 +575,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 389,
       "NumberOfAwardsMax": 68
+    },
+    {
+      "Time": "2023-08-25T04:57:49.7076809+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 391,
+      "NumberOfAwardsMax": 68
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 389,
+  "NumberOfAwards": 391,
   "NumberOfAwardsMax": 68,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -634,7 +640,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 32
+      "Count": 33
     },
     {
       "Text": "This game has Amazing Characters",
@@ -652,7 +658,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 21
+      "Count": 22
     }
   ],
   "EOS_Progressed": 0,
@@ -674,9 +680,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:53.9949813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.6058604+00:00",
-  "LastChanged": "2023-08-18T15:03:04.3079419+00:00",
-  "LastChanged_Achievements": "2023-08-25T04:07:45.3712898+00:00",
+  "LastChanged": "2023-08-25T04:57:49.7076807+00:00",
+  "LastChanged_Achievements": "2023-08-25T05:07:14.3379512+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:29.3152742+00:00",
-  "LastUpdate_Ratings": "2023-08-25T03:57:34.3456973+00:00",
-  "LastUpdate_Achievements": "2023-08-25T04:07:45.3712945+00:00"
+  "LastUpdate_Ratings": "2023-08-25T04:57:49.7076813+00:00",
+  "LastUpdate_Achievements": "2023-08-25T05:07:14.3379552+00:00"
 }

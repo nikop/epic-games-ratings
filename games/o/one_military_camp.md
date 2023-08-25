@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 52.00% | ~80 |
-| The 4 Pillars | 50.00% | ~76 |
+| First Step | 51.00% | ~79 |
+| The 4 Pillars | 50.00% | ~77 |
 | Capitalism | 18.00% | ~28 |
 | Indebted | 11.00% | ~17 |
 | There's something in those trees | 10.00% | ~15 |
@@ -13,11 +13,11 @@
 | Desert Rat | 9.00% | ~14 |
 | Green Energy | 9.00% | ~14 |
 | Desert Power | 8.00% | ~12 |
-| Health Care | 7.00% | ~11 |
-| Good payer | 7.00% | ~11 |
-| Ammo Tycoon | 7.00% | ~11 |
 | Perfect Soldier | 6.00% | ~9 |
+| Health Care | 6.00% | ~9 |
+| Good payer | 6.00% | ~9 |
 | Fuel Tycoon | 6.00% | ~9 |
+| Ammo Tycoon | 6.00% | ~9 |
 | Jantine: the Misfortunes of Evil | 5.00% | ~8 |
 | Supersoldier | 5.00% | ~8 |
 | Healing | 5.00% | ~8 |
@@ -39,7 +39,7 @@
 | Vive le Résistance | 1.00% | ~2 |
 | Snowman | 1.00% | ~2 |
 | Reconquest | 1.00% | ~2 |
-| Conveyor Belt Madness | 0.70% | ~1 |
+| Conveyor Belt Madness | 0.60% | ~1 |
 | Attack of the Drones | 0.00% | ~0 |
 | Counter-espionage | 0.00% | ~0 |
 | Self-management | 0.00% | ~0 |
@@ -49,7 +49,7 @@
 | Against Adversity | 0.00% | ~0 |
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 153 (Ranked 312)  
+Progressed: 154 (Ranked 312)  
 Completed: 0 (0.00%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,3 +85,4 @@ Completed: 0 (0.00%) (Ranked 263)
 | 2023-08-20 | 149 | 0 |
 | 2023-08-21 | 150 | 0 |
 | 2023-08-22 | 153 | 0 |
+| 2023-08-25 | 154 | 0 |
