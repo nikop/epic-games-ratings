@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -64,9 +64,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 608,
+  "EOS_Progressed": 609,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.11,
   "EosHistory": [
@@ -2159,6 +2159,11 @@
       "Time": "2023-08-23T20:04:02.3318055+00:00",
       "NumProgressed": 608,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-08-25T01:46:30.2423862+00:00",
+      "NumProgressed": 609,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 28,
@@ -2170,7 +2175,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "MQ01_2",
@@ -2178,7 +2183,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 66,
       "XP": 40,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "MQ02_1",
@@ -2218,7 +2223,7 @@
       "Name": "Fond Memories",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "MQ03_2",
@@ -2234,7 +2239,7 @@
       "Name": "History Check",
       "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "MQ03_4",
@@ -2250,7 +2255,7 @@
       "Name": "A Method To His Madness",
       "Percentage": 55,
       "XP": 40,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "MQ04_1",
@@ -2258,7 +2263,7 @@
       "Name": "Going Once...",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "MQ04_2",
@@ -2266,7 +2271,7 @@
       "Name": "Let Me Be Frank",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "MQ04_3",
@@ -2296,17 +2301,17 @@
       "ID": "MQ05_3",
       "SetID": "bbing49",
       "Name": "Sticky Fingers",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 304
+      "UsersEstimate": 298
     },
     {
       "ID": "MQ05_4",
       "SetID": "bbing49",
       "Name": "Knives Out",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 304
+      "UsersEstimate": 298
     },
     {
       "ID": "MQ06_1",
@@ -2352,9 +2357,9 @@
       "ID": "MQ07_2",
       "SetID": "bbing49",
       "Name": "At Wits\u0027 End",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 40,
-      "UsersEstimate": 286
+      "UsersEstimate": 280
     },
     {
       "ID": "MQ08_1",
@@ -2368,9 +2373,9 @@
       "ID": "MQ08_2",
       "SetID": "bbing49",
       "Name": "Up In Flames",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 274
+      "UsersEstimate": 268
     },
     {
       "ID": "MQ08_3",
@@ -2393,7 +2398,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 608,
+      "Progressed": 609,
       "Completed": 25
     }
   ],
@@ -2401,8 +2406,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-08-14T02:12:32.7608826+00:00",
-  "LastChanged_Achievements": "2023-08-25T00:05:52.9130997+00:00",
+  "LastChanged_Achievements": "2023-08-25T01:46:30.2423854+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:48.2303793+00:00",
-  "LastUpdate_Ratings": "2023-08-25T00:01:13.3759425+00:00",
-  "LastUpdate_Achievements": "2023-08-25T00:05:52.9131482+00:00"
+  "LastUpdate_Ratings": "2023-08-25T01:41:48.6293814+00:00",
+  "LastUpdate_Achievements": "2023-08-25T01:46:30.2424185+00:00"
 }

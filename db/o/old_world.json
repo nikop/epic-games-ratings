@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1649,7 +1649,7 @@
   ],
   "EOS_Progressed": 13546,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -12132,9 +12132,9 @@
       "ID": "ACHIEVEMENT_TECH_ECONOMIC_REFORM",
       "SetID": "9201eeb",
       "Name": "Economic Reform",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 95
+      "UsersEstimate": 108
     },
     {
       "ID": "ACHIEVEMENT_TECH_INDUSTRIAL_PROGRESS",
@@ -12164,9 +12164,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_ENLIGHTENMENT",
       "SetID": "7l38kb8",
       "Name": "Enlightenment",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 81
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_GNOSTICISM",
@@ -12578,8 +12578,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-24T04:00:31.5764786+00:00",
-  "LastChanged_Achievements": "2023-08-25T00:08:16.07027+00:00",
+  "LastChanged_Achievements": "2023-08-25T01:48:52.4364784+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:59.678182+00:00",
-  "LastUpdate_Ratings": "2023-08-25T00:02:05.9321945+00:00",
-  "LastUpdate_Achievements": "2023-08-25T00:08:16.0720668+00:00"
+  "LastUpdate_Ratings": "2023-08-25T01:42:42.3358555+00:00",
+  "LastUpdate_Achievements": "2023-08-25T01:48:52.437408+00:00"
 }

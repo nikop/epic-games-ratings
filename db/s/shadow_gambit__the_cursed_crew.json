@@ -2,10 +2,10 @@
   "ID": "42b8b899a3f349bd8376264ccee3cd2a",
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
-  "Ranking_EOS_Progress": 232,
+  "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 485,
+  "EOS_Progressed": 486,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 337,
+  "EOS_NewPlayers": 332,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -921,6 +921,11 @@
       "Time": "2023-08-24T22:05:07.4874828+00:00",
       "NumProgressed": 485,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-25T01:46:14.3653449+00:00",
+      "NumProgressed": 486,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -931,9 +936,9 @@
       "ID": "_01_AllIslands",
       "SetID": "8a1io5d",
       "Name": "Somewhere Deep in the Lost Caribbean",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 73
+      "UsersEstimate": 78
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -949,7 +954,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -989,7 +994,7 @@
       "Name": "Swabbie",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "_09_Completion_20",
@@ -1005,7 +1010,7 @@
       "Name": "Buccaneer",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "_11_Completion_40",
@@ -1061,7 +1066,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -1077,7 +1082,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -1140,14 +1145,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 485,
+      "Progressed": 486,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-25T00:05:36.5639061+00:00",
+  "LastChanged_Achievements": "2023-08-25T01:46:14.3653442+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:01.7621403+00:00",
-  "LastUpdate_Ratings": "2023-08-25T00:02:15.1433658+00:00",
-  "LastUpdate_Achievements": "2023-08-25T00:05:36.5639473+00:00"
+  "LastUpdate_Ratings": "2023-08-25T01:42:49.038399+00:00",
+  "LastUpdate_Achievements": "2023-08-25T01:46:14.3653756+00:00"
 }

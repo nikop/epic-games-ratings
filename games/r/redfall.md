@@ -29,6 +29,7 @@ Rating: 3.50 (Ranked 975)
 | Heart Attack | 0.10% | ~2 |
 | Right This Way | 0.10% | ~2 |
 | Nice Try | 0.10% | ~2 |
+| Blacklight Down | 0.10% | ~2 |
 | Dexterity Save | 0.10% | ~2 |
 | Bob’s Final Hour | 0.10% | ~2 |
 | Helping Hand | 0.10% | ~2 |
@@ -59,7 +60,6 @@ Rating: 3.50 (Ranked 975)
 | Bloody Initiate | 0.00% | ~0 |
 | Sepsis | 0.00% | ~0 |
 | So Anyway I Started Blasting | 0.00% | ~0 |
-| Blacklight Down | 0.00% | ~0 |
 | Rum Runner | 0.00% | ~0 |
 | Under a Bushel | 0.00% | ~0 |
 | Enemy of My Enemy | 0.00% | ~0 |

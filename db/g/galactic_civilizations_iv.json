@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -864,7 +864,7 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 6455,
+  "EOS_Progressed": 6456,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
@@ -5379,6 +5379,11 @@
       "Time": "2023-08-24T23:06:19.8238584+00:00",
       "NumProgressed": 6455,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-25T01:47:16.1166253+00:00",
+      "NumProgressed": 6456,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -5494,7 +5499,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 5099
+      "UsersEstimate": 5100
     },
     {
       "ID": "First_Race_Met",
@@ -5502,7 +5507,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4712
+      "UsersEstimate": 4713
     },
     {
       "ID": "First_Ship_Designed",
@@ -5510,7 +5515,7 @@
       "Name": "Design a Ship",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1807
+      "UsersEstimate": 1808
     },
     {
       "ID": "First_Stream_Travel",
@@ -5526,7 +5531,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5035
+      "UsersEstimate": 5036
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -5710,7 +5715,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 4002
+      "UsersEstimate": 4003
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -5878,7 +5883,7 @@
       "Name": "Win a Battle",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 4325
+      "UsersEstimate": 4326
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -5965,15 +5970,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6455,
+      "Progressed": 6456,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-08-16T06:59:13.2863126+00:00",
-  "LastChanged_Achievements": "2023-08-25T00:06:39.6970996+00:00",
+  "LastChanged_Achievements": "2023-08-25T01:47:16.1166246+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:58:05.9741454+00:00",
-  "LastUpdate_Ratings": "2023-08-25T00:01:32.9336532+00:00",
-  "LastUpdate_Achievements": "2023-08-25T00:06:39.6973102+00:00"
+  "LastUpdate_Ratings": "2023-08-25T01:42:10.0044292+00:00",
+  "LastUpdate_Achievements": "2023-08-25T01:47:16.1167539+00:00"
 }

@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 500)
 | Rising Star | 0.10% | ~665 |
 | Bucket List | 0.10% | ~665 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 664,507 (Ranked 22)  
-Completed: 2,059 (0.31%) (Ranked 170)  
+Progressed: 664,548 (Ranked 22)  
+Completed: 2,060 (0.31%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -178,10 +178,10 @@ Completed: 2,059 (0.31%) (Ranked 170)
 | 2023-08-22 | 662,956 | 2,053 |
 | 2023-08-23 | 663,691 | 2,054 |
 | 2023-08-24 | 664,478 | 2,059 |
-| 2023-08-25 | 664,507 | 2,059 |
+| 2023-08-25 | 664,548 | 2,060 |
 ## Awards
 Max (Great Boss Battles): 5,753  (Ranked 61)  
-Sum: 8,465 (Ranked 97)  
+Sum: 8,466 (Ranked 97)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
@@ -192,7 +192,7 @@ Diff (max vs sum): -36
 | This game is Relaxing | 353 |
 | This game has Amazing Storytelling | 324 |
 | This game is Extremely Fun | 308 |
-| This game has Amazing Characters | 303 |
+| This game has Amazing Characters | 304 |
 | This game is Highly Recommended | 296 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -323,3 +323,4 @@ Diff (max vs sum): -36
 | 2023-08-22 | 4.54 | 5,735 | 8,436 |
 | 2023-08-23 | 4.54 | 5,743 | 8,448 |
 | 2023-08-24 | 4.54 | 5,753 | 8,465 |
+| 2023-08-25 | 4.54 | 5,753 | 8,466 |

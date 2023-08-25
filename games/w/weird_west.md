@@ -51,10 +51,10 @@ Number of Ratings: 125  (23.09.2022)
 | Lord Inut Sends His Regards | 3.00% | ~54 |
 | Moondrunk | 3.00% | ~54 |
 | 'Ma Barker | 2.00% | ~36 |
+| I Kicked a Bird and I Liked it | 1.00% | ~18 |
 | Hog Wild | 1.00% | ~18 |
-| I Kicked a Bird and I Liked it | 0.90% | ~16 |
+| End the world | 0.70% | ~13 |
 | Explorer | 0.60% | ~11 |
-| End the world | 0.60% | ~11 |
 | Moon Hunter | 0.60% | ~11 |
 | Revenant | 0.50% | ~9 |
 | Dirt and Blame | 0.40% | ~7 |

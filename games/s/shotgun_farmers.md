@@ -31,8 +31,8 @@
 | Getting Started | 13.00% | ~34 |
 | Summers Here | 12.00% | ~26 |
 | Quit Horsin' Around | 11.00% | ~29 |
+| Perfect | 11.00% | ~24 |
 | Fresh Pancake | 10.00% | ~26 |
-| Perfect | 10.00% | ~22 |
 | Expert Survivor | 10.00% | ~22 |
 | Bring Home The Bacon | 8.00% | ~21 |
 | Quadsparagus | 8.00% | ~17 |

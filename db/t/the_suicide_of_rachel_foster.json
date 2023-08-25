@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
     "PcReleaseDate": "2020-02-19T00:00:00+00:00",
@@ -249,10 +249,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 1404,
-  "EOS_Completed": 67,
-  "EOS_NewPlayers": 18,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.77,
+  "EOS_Completed": 68,
+  "EOS_NewPlayers": 17,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 4.84,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:57.7032048+00:00",
@@ -2253,6 +2253,11 @@
       "Time": "2023-08-24T17:04:44.6635517+00:00",
       "NumProgressed": 1404,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2023-08-25T01:46:07.8515212+00:00",
+      "NumProgressed": 1404,
+      "NumCompleted": 68
     }
   ],
   "TotalAchievements": 11,
@@ -2286,9 +2291,9 @@
       "ID": "ACH_DialogoAspettoFisico",
       "SetID": "7a9m7mj",
       "Name": "Spicy",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 70
+      "UsersEstimate": 84
     },
     {
       "ID": "ACH_FineEV5",
@@ -2352,14 +2357,14 @@
       "ID": "7a9m7mj",
       "IsBase": true,
       "Progressed": 1404,
-      "Completed": 67
+      "Completed": 68
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-08-04T14:01:27.152223+00:00",
-  "LastChanged_Achievements": "2023-08-25T00:05:29.788526+00:00",
+  "LastChanged_Achievements": "2023-08-25T01:46:07.8515205+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:43.5353424+00:00",
-  "LastUpdate_Ratings": "2023-08-24T23:59:02.9836241+00:00",
-  "LastUpdate_Achievements": "2023-08-25T00:05:29.7885624+00:00"
+  "LastUpdate_Ratings": "2023-08-25T01:39:36.6528359+00:00",
+  "LastUpdate_Achievements": "2023-08-25T01:46:07.851544+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8913,
+  "EOS_Progressed": 8937,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 770,
+  "EOS_NewPlayers": 783,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3022,6 +3022,11 @@
       "Time": "2023-08-25T00:09:02.490525+00:00",
       "NumProgressed": 8913,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-25T01:49:48.599095+00:00",
+      "NumProgressed": 8937,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -3074,7 +3079,7 @@
       "Name": "Doctor Approved",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 1515
+      "UsersEstimate": 1519
     },
     {
       "ID": "15",
@@ -3082,7 +3087,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1604
+      "UsersEstimate": 1609
     },
     {
       "ID": "16",
@@ -3098,7 +3103,7 @@
       "Name": "Spore Taste",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 1159
+      "UsersEstimate": 1162
     },
     {
       "ID": "18",
@@ -3106,7 +3111,7 @@
       "Name": "Bottoms up!",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "19",
@@ -3114,7 +3119,7 @@
       "Name": "Martian Music",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1070
+      "UsersEstimate": 1072
     },
     {
       "ID": "2",
@@ -3122,7 +3127,7 @@
       "Name": "Data Logger",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "20",
@@ -3130,7 +3135,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 624
+      "UsersEstimate": 626
     },
     {
       "ID": "21",
@@ -3210,7 +3215,7 @@
       "Name": "Captain Drummer",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1426
+      "UsersEstimate": 1430
     },
     {
       "ID": "30",
@@ -3224,9 +3229,9 @@
       "ID": "4",
       "SetID": "458bbdk",
       "Name": "Debris Spree",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 62
+      "UsersEstimate": 71
     },
     {
       "ID": "5",
@@ -3234,15 +3239,15 @@
       "Name": "Data Master",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "6",
       "SetID": "458bbdk",
       "Name": "Celebrations are in Order",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 802
+      "UsersEstimate": 894
     },
     {
       "ID": "7",
@@ -3273,14 +3278,14 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 8913,
+      "Progressed": 8937,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged_Achievements": "2023-08-25T00:09:02.4905242+00:00",
+  "LastChanged_Achievements": "2023-08-25T01:49:48.5990943+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:40.3624587+00:00",
-  "LastUpdate_Ratings": "2023-08-24T23:57:54.3667334+00:00",
-  "LastUpdate_Achievements": "2023-08-25T00:09:02.4905648+00:00"
+  "LastUpdate_Ratings": "2023-08-25T01:38:34.213469+00:00",
+  "LastUpdate_Achievements": "2023-08-25T01:49:48.5991377+00:00"
 }

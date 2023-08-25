@@ -54,6 +54,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Nimble Escape | 0.20% | ~449 |
 | Useless Allies | 0.20% | ~449 |
 | Premature Betrayal | 0.20% | ~449 |
+| Hopelessly Lost | 0.20% | ~449 |
 | Mad Cow Disease | 0.20% | ~449 |
 | Exploring Port Nyanzaru | 0.20% | ~449 |
 | A Tale of Two Cities | 0.20% | ~449 |
@@ -280,7 +281,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Guests of the Groom | 0.10% | ~225 |
 | Careful Consideration | 0.10% | ~225 |
 | Tanking Expectations | 0.10% | ~191 |
-| Hopelessly Lost | 0.10% | ~225 |
 | Bazaar Exploits | 0.10% | ~225 |
 | Cramped Quarters | 0.10% | ~225 |
 | Flame(skull) War | 0.10% | ~225 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~191 |
 | Animated Giff | 0.10% | ~191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,700 (Ranked 53)  
+Progressed: 224,716 (Ranked 53)  
 Completed: 2,211 (0.98%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -650,7 +650,7 @@ Completed: 2,211 (0.98%) (Ranked 122)
 | 2023-08-22 | 224,213 | 2,207 |
 | 2023-08-23 | 224,434 | 2,210 |
 | 2023-08-24 | 224,686 | 2,211 |
-| 2023-08-25 | 224,700 | 2,211 |
+| 2023-08-25 | 224,716 | 2,211 |
 ## Awards
 Max (Diverse Characters): 5,182  (Ranked 68)  
 Sum: 31,201 (Ranked 39)  

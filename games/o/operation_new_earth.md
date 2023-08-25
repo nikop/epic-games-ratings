@@ -10,7 +10,7 @@
 | Corporal | 16.00% | ~172 |
 | Sergeant | 13.00% | ~140 |
 | Covert Operative | 13.00% | ~140 |
-| Lieutenant | 11.00% | ~118 |
+| Lieutenant | 11.00% | ~119 |
 | Getting Deployment | 10.00% | ~108 |
 | Stocking Up | 10.00% | ~108 |
 | On Target | 10.00% | ~108 |
@@ -43,7 +43,7 @@
 | Platinum Achiever | 0.10% | ~1 |
 | Platinum Competitor | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,077 (Ranked 200)  
+Progressed: 1,078 (Ranked 200)  
 Completed: 1 (0.09%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,3 +121,4 @@ Completed: 1 (0.09%) (Ranked 214)
 | 2023-08-22 | 1,047 | 0 |
 | 2023-08-23 | 1,059 | 0 |
 | 2023-08-24 | 1,077 | 1 |
+| 2023-08-25 | 1,078 | 1 |

@@ -87,6 +87,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Via Recta Souk | 0.80% | ~108 |
 | Persian Paganism | 0.80% | ~108 |
 | Building Wonders | 0.80% | ~108 |
+| Economic Reform | 0.80% | ~108 |
 | Legalism | 0.80% | ~108 |
 | Phalangite | 0.80% | ~108 |
 | Invincible | 0.70% | ~95 |
@@ -98,7 +99,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hagia Sophia | 0.70% | ~95 |
 | Learn to Play 3 | 0.70% | ~95 |
 | Power to the People | 0.70% | ~95 |
-| Economic Reform | 0.70% | ~95 |
 | Redemption | 0.70% | ~95 |
 | Legionary | 0.70% | ~95 |
 | Double Victory | 0.70% | ~95 |
@@ -114,6 +114,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Industrial Progress | 0.60% | ~81 |
 | Military Prestige | 0.60% | ~81 |
 | Dualism | 0.60% | ~81 |
+| Enlightenment | 0.60% | ~81 |
 | Gnosticism | 0.60% | ~81 |
 | Revelation | 0.60% | ~81 |
 | Veneration | 0.60% | ~81 |
@@ -125,7 +126,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hunters | 0.50% | ~68 |
 | Babylonia | 0.50% | ~68 |
 | One True Faith | 0.50% | ~68 |
-| Enlightenment | 0.50% | ~68 |
 | Kushite Cavalry | 0.50% | ~68 |
 | Turreted Elephant | 0.50% | ~68 |
 | No Undo | 0.50% | ~68 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 838,
+  "EOS_Progressed": 839,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -2015,6 +2015,11 @@
       "Time": "2023-08-24T18:06:56.6469367+00:00",
       "NumProgressed": 838,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-25T01:49:07.0126765+00:00",
+      "NumProgressed": 839,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -2138,7 +2143,7 @@
       "Name": "Fairgrounds Explorer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "FutureEkko1Defeated",
@@ -2154,7 +2159,7 @@
       "Name": "The Betrayer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -2298,7 +2303,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "PidgeDefeated",
@@ -2322,7 +2327,7 @@
       "Name": "Honest Mistake",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ScrambotCompletion1",
@@ -2338,7 +2343,7 @@
       "Name": "Golem Chaser",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "SkillCompletion1",
@@ -2370,7 +2375,7 @@
       "Name": "Sump Explorer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "SyronGift",
@@ -2378,7 +2383,7 @@
       "Name": "Syron for Hope",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "TemporalPulseKills1",
@@ -2449,7 +2454,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 838,
+      "Progressed": 839,
       "Completed": 5
     }
   ],
@@ -2457,8 +2462,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-08-25T00:08:20.737688+00:00",
+  "LastChanged_Achievements": "2023-08-25T01:49:07.0126755+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:11.9722245+00:00",
-  "LastUpdate_Ratings": "2023-08-24T23:58:33.3791654+00:00",
-  "LastUpdate_Achievements": "2023-08-25T00:08:20.7377953+00:00"
+  "LastUpdate_Ratings": "2023-08-25T01:39:08.9757337+00:00",
+  "LastUpdate_Achievements": "2023-08-25T01:49:07.0127748+00:00"
 }

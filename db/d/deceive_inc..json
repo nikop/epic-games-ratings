@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17622,
+  "EOS_Progressed": 17625,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8981,6 +8981,11 @@
       "Time": "2023-08-25T00:07:38.2178864+00:00",
       "NumProgressed": 17622,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-25T01:48:14.1697987+00:00",
+      "NumProgressed": 17625,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -8992,7 +8997,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5110
+      "UsersEstimate": 5111
     },
     {
       "ID": "0002",
@@ -9016,7 +9021,7 @@
       "Name": "Security Supervisor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1057
+      "UsersEstimate": 1058
     },
     {
       "ID": "0005",
@@ -9056,7 +9061,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4053
+      "UsersEstimate": 4054
     },
     {
       "ID": "0010",
@@ -9120,7 +9125,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3348
+      "UsersEstimate": 3349
     },
     {
       "ID": "0018",
@@ -9144,7 +9149,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 11,
       "XP": 115,
-      "UsersEstimate": 1938
+      "UsersEstimate": 1939
     },
     {
       "ID": "0021",
@@ -9176,7 +9181,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3877
+      "UsersEstimate": 3878
     },
     {
       "ID": "0025",
@@ -9200,7 +9205,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1938
+      "UsersEstimate": 1939
     },
     {
       "ID": "0028",
@@ -9208,7 +9213,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4053
+      "UsersEstimate": 4054
     },
     {
       "ID": "0029",
@@ -9238,9 +9243,9 @@
       "ID": "0032",
       "SetID": "2n2feee",
       "Name": "Killer Looks",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1938
+      "UsersEstimate": 2115
     },
     {
       "ID": "0033",
@@ -9279,7 +9284,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17622,
+      "Progressed": 17625,
       "Completed": 1
     }
   ],
@@ -9287,8 +9292,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-12T19:04:41.1874293+00:00",
-  "LastChanged_Achievements": "2023-08-25T00:07:38.217885+00:00",
+  "LastChanged_Achievements": "2023-08-25T01:48:14.1697976+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:28.6624095+00:00",
-  "LastUpdate_Ratings": "2023-08-24T23:58:40.7323433+00:00",
-  "LastUpdate_Achievements": "2023-08-25T00:07:38.2180453+00:00"
+  "LastUpdate_Ratings": "2023-08-25T01:39:17.1861865+00:00",
+  "LastUpdate_Achievements": "2023-08-25T01:48:14.1698856+00:00"
 }

@@ -5734,9 +5734,9 @@
       "Count": 3737
     }
   ],
-  "EOS_Progressed": 135042,
+  "EOS_Progressed": 135043,
   "EOS_Completed": 138,
-  "EOS_NewPlayers": 353,
+  "EOS_NewPlayers": 351,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -18664,6 +18664,11 @@
       "Time": "2023-08-25T00:08:32.3859139+00:00",
       "NumProgressed": 135042,
       "NumCompleted": 138
+    },
+    {
+      "Time": "2023-08-25T01:49:18.7645294+00:00",
+      "NumProgressed": 135043,
+      "NumCompleted": 138
     }
   ],
   "TotalAchievements": 112,
@@ -18777,9 +18782,9 @@
       "ID": "blueprint01",
       "SetID": "anfd17p",
       "Name": "Some Assembly Required",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 945
+      "UsersEstimate": 1080
     },
     {
       "ID": "blueprint02",
@@ -18993,9 +18998,9 @@
       "ID": "damage03",
       "SetID": "anfd17p",
       "Name": "Omae wa Mou Shindeiru",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 405
     },
     {
       "ID": "donovan_a",
@@ -19497,9 +19502,9 @@
       "ID": "twinenchant01",
       "SetID": "anfd17p",
       "Name": "Magical Harmony",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 405
+      "UsersEstimate": 540
     },
     {
       "ID": "typeunlock01",
@@ -19570,15 +19575,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135042,
+      "Progressed": 135043,
       "Completed": 138
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-24T23:02:08.8227726+00:00",
-  "LastChanged_Achievements": "2023-08-25T00:08:32.3859134+00:00",
+  "LastChanged_Achievements": "2023-08-25T01:49:18.7645288+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:50.7489496+00:00",
-  "LastUpdate_Ratings": "2023-08-25T00:02:51.1081204+00:00",
-  "LastUpdate_Achievements": "2023-08-25T00:08:32.3861548+00:00"
+  "LastUpdate_Ratings": "2023-08-25T01:43:25.350126+00:00",
+  "LastUpdate_Achievements": "2023-08-25T01:49:18.7647358+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3536,9 +3536,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 11055,
+  "EOS_Progressed": 11057,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11251,6 +11251,11 @@
       "Time": "2023-08-25T00:07:19.0650229+00:00",
       "NumProgressed": 11055,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-25T01:47:55.9569792+00:00",
+      "NumProgressed": 11057,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -11382,7 +11387,7 @@
       "Name": "Path of the Legend",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "17_Transformation",
@@ -11566,7 +11571,7 @@
       "Name": "End of Eternal Guard",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "41_PlayfulMood",
@@ -11630,7 +11635,7 @@
       "Name": "A Spark",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1879
+      "UsersEstimate": 1880
     },
     {
       "ID": "49_Flame",
@@ -11670,7 +11675,7 @@
       "Name": "Truly Profane Gift",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "54_DeathByColumn",
@@ -12189,21 +12194,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9837,
+      "Progressed": 9839,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11055,
+      "Progressed": 11057,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-23T13:04:06.393487+00:00",
-  "LastChanged_Achievements": "2023-08-25T00:07:19.0650224+00:00",
+  "LastChanged_Achievements": "2023-08-25T01:47:55.9569786+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:48.9326646+00:00",
-  "LastUpdate_Ratings": "2023-08-25T00:02:48.4226447+00:00",
-  "LastUpdate_Achievements": "2023-08-25T00:07:19.0652775+00:00"
+  "LastUpdate_Ratings": "2023-08-25T01:43:22.5402718+00:00",
+  "LastUpdate_Achievements": "2023-08-25T01:47:55.9571659+00:00"
 }
