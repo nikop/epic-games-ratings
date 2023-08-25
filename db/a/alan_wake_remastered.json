@@ -5,9 +5,9 @@
   "Ranking_Rating": 485,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
-  "Ranking_EOS_Progress": 85,
+  "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewPlayers": 76,
   "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 61559,
+  "EOS_Progressed": 61560,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 517,
+  "EOS_NewPlayers": 515,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -12342,6 +12342,11 @@
       "Time": "2023-08-25T10:08:36.8103333+00:00",
       "NumProgressed": 61559,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-08-25T11:07:54.1297829+00:00",
+      "NumProgressed": 61560,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -12353,7 +12358,7 @@
       "Name": "Follow the Light",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 23392
+      "UsersEstimate": 23393
     },
     {
       "ID": "02",
@@ -12537,7 +12542,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6771
+      "UsersEstimate": 6772
     },
     {
       "ID": "25",
@@ -12553,7 +12558,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6771
+      "UsersEstimate": 6772
     },
     {
       "ID": "27",
@@ -12593,7 +12598,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 9849
+      "UsersEstimate": 9850
     },
     {
       "ID": "32",
@@ -12625,7 +12630,7 @@
       "Name": "Let There Be Light",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 19083
+      "UsersEstimate": 19084
     },
     {
       "ID": "36",
@@ -12673,7 +12678,7 @@
       "Name": "Finders Keepers",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 9849
+      "UsersEstimate": 9850
     },
     {
       "ID": "42",
@@ -12888,21 +12893,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 61559,
+      "Progressed": 61560,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 25027,
+      "Progressed": 25028,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-25T10:08:36.8103325+00:00",
+  "LastChanged_Achievements": "2023-08-25T11:07:54.1297824+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:35.5614422+00:00",
-  "LastUpdate_Ratings": "2023-08-25T10:01:29.1243593+00:00",
-  "LastUpdate_Achievements": "2023-08-25T10:08:36.8104771+00:00"
+  "LastUpdate_Ratings": "2023-08-25T11:00:59.2691888+00:00",
+  "LastUpdate_Achievements": "2023-08-25T11:07:54.1299312+00:00"
 }

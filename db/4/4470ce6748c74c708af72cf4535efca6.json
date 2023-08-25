@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 404,
   "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2018-05-23T19:00:00+00:00",
@@ -237,9 +237,9 @@
       "ID": "20",
       "SetID": "5e3maia",
       "Name": "Tester",
-      "Percentage": 16,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "21",
@@ -692,8 +692,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-08-25T10:06:33.8383226+00:00",
+  "LastChanged_Achievements": "2023-08-25T11:06:11.2724138+00:00",
   "LastUpdate_AppInfo": "2023-08-18T21:57:04.0506989+00:00",
-  "LastUpdate_Ratings": "2023-08-25T09:59:30.8915258+00:00",
-  "LastUpdate_Achievements": "2023-08-25T10:06:33.8383995+00:00"
+  "LastUpdate_Ratings": "2023-08-25T10:59:17.9779981+00:00",
+  "LastUpdate_Achievements": "2023-08-25T11:06:11.2724884+00:00"
 }

@@ -17,11 +17,11 @@ Rating: 4.60 (Ranked 392)
 | The Harder They Fall | 18.00% | ~151 |
 | No, Thanks! | 18.00% | ~151 |
 | Breaking Down Barriers | 18.00% | ~151 |
+| Honest Mistake | 18.00% | ~151 |
 | Fast Learner | 18.00% | ~151 |
 | Immaculate Aim | 18.00% | ~151 |
 | The Betrayer | 17.00% | ~143 |
 | The Wicked Twins | 17.00% | ~143 |
-| Honest Mistake | 17.00% | ~143 |
 | Golem Chaser | 17.00% | ~143 |
 | Like Clockwork | 16.00% | ~134 |
 | The Man Who Shattered Time | 16.00% | ~134 |

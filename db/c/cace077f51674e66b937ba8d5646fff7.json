@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 358,
   "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 348,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-26T18:00:00+00:00",
     "PcReleaseDate": "2022-04-06T13:00:00+00:00",
@@ -408,9 +408,9 @@
       "ID": "CONQUEROR",
       "SetID": "50pdlpn",
       "Name": "Conqueror",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 40,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ENEMY_0",
@@ -472,33 +472,33 @@
       "ID": "ENEMY_15",
       "SetID": "50pdlpn",
       "Name": "Captain Joseph, Ali Baba \u0026 Pillows",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ENEMY_16",
       "SetID": "50pdlpn",
       "Name": "Neil the Curious Fruit Fly",
-      "Percentage": 28,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ENEMY_17",
       "SetID": "50pdlpn",
       "Name": "Fizz-Bizz the Loud Bug",
-      "Percentage": 28,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ENEMY_18",
       "SetID": "50pdlpn",
       "Name": "Toru the Cursed Human",
-      "Percentage": 28,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ENEMY_19",
@@ -951,8 +951,8 @@
   ],
   "FirstSeen": "2023-07-03T16:57:31.1356684+00:00",
   "FirstSeenAchievements": "2023-05-08T09:03:21.3999065+00:00",
-  "LastChanged_Achievements": "2023-08-25T10:05:59.1869011+00:00",
+  "LastChanged_Achievements": "2023-08-25T11:05:40.3171965+00:00",
   "LastUpdate_AppInfo": "2023-08-21T16:57:02.532998+00:00",
-  "LastUpdate_Ratings": "2023-08-25T10:00:41.8503915+00:00",
-  "LastUpdate_Achievements": "2023-08-25T10:05:59.1869841+00:00"
+  "LastUpdate_Ratings": "2023-08-25T11:00:20.5799864+00:00",
+  "LastUpdate_Achievements": "2023-08-25T11:05:40.3173333+00:00"
 }

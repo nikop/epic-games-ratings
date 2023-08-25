@@ -5,10 +5,10 @@
   "Ranking_Rating": 146,
   "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 67,
-  "Ranking_EOS_Progress": 87,
+  "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -6663,9 +6663,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 59609,
+  "EOS_Progressed": 59611,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 529,
+  "EOS_NewPlayers": 523,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20103,6 +20103,11 @@
       "Time": "2023-08-25T10:07:14.26939+00:00",
       "NumProgressed": 59609,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-25T11:06:48.0420186+00:00",
+      "NumProgressed": 59611,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -20122,7 +20127,7 @@
       "Name": "Apple of my eye",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 8941
+      "UsersEstimate": 8942
     },
     {
       "ID": "Bannerlord",
@@ -20282,7 +20287,7 @@
       "Name": "I can do it",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8941
+      "UsersEstimate": 8942
     },
     {
       "ID": "I spit on your grave",
@@ -20338,7 +20343,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 19075
+      "UsersEstimate": 19076
     },
     {
       "ID": "Lawbringer",
@@ -20346,7 +20351,7 @@
       "Name": "Lawbringer",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 22651
+      "UsersEstimate": 22652
     },
     {
       "ID": "Lawmaker",
@@ -20354,7 +20359,7 @@
       "Name": "Lawmaker",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 13710
+      "UsersEstimate": 13711
     },
     {
       "ID": "Long live the Empire",
@@ -20394,7 +20399,7 @@
       "Name": "My way",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 2980
+      "UsersEstimate": 2981
     },
     {
       "ID": "Real Estate",
@@ -20521,15 +20526,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 59609,
+      "Progressed": 59611,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-08-25T08:58:04.3154477+00:00",
-  "LastChanged_Achievements": "2023-08-25T10:07:14.2693888+00:00",
+  "LastChanged_Achievements": "2023-08-25T11:06:48.0420181+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:38.4249815+00:00",
-  "LastUpdate_Ratings": "2023-08-25T09:58:29.6621049+00:00",
-  "LastUpdate_Achievements": "2023-08-25T10:07:14.2695974+00:00"
+  "LastUpdate_Ratings": "2023-08-25T10:58:27.7734223+00:00",
+  "LastUpdate_Achievements": "2023-08-25T11:06:48.0422456+00:00"
 }

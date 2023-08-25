@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -226,7 +226,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17632,
+  "EOS_Progressed": 17634,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 0,
@@ -9011,6 +9011,11 @@
       "Time": "2023-08-25T08:06:07.3841907+00:00",
       "NumProgressed": 17632,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-25T11:07:05.9501347+00:00",
+      "NumProgressed": 17634,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -9022,7 +9027,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5113
+      "UsersEstimate": 5114
     },
     {
       "ID": "0002",
@@ -9038,7 +9043,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2997
+      "UsersEstimate": 2998
     },
     {
       "ID": "0004",
@@ -9086,7 +9091,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4055
+      "UsersEstimate": 4056
     },
     {
       "ID": "0010",
@@ -9126,7 +9131,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2997
+      "UsersEstimate": 2998
     },
     {
       "ID": "0015",
@@ -9238,7 +9243,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4055
+      "UsersEstimate": 4056
     },
     {
       "ID": "0029",
@@ -9309,7 +9314,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17632,
+      "Progressed": 17634,
       "Completed": 1
     }
   ],
@@ -9317,8 +9322,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-12T19:04:41.1874293+00:00",
-  "LastChanged_Achievements": "2023-08-25T10:07:32.8738587+00:00",
+  "LastChanged_Achievements": "2023-08-25T11:07:05.950134+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:28.6624095+00:00",
-  "LastUpdate_Ratings": "2023-08-25T09:58:16.7306658+00:00",
-  "LastUpdate_Achievements": "2023-08-25T10:07:32.8739426+00:00"
+  "LastUpdate_Ratings": "2023-08-25T10:58:18.1562705+00:00",
+  "LastUpdate_Achievements": "2023-08-25T11:07:05.9502373+00:00"
 }

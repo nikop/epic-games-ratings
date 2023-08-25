@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -1549,9 +1549,9 @@
       "ID": "complete-deals",
       "SetID": "bed33dd",
       "Name": "Safe Pair of Hands",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 193
+      "UsersEstimate": 198
     },
     {
       "ID": "cool-shirts",
@@ -1565,9 +1565,9 @@
       "ID": "custom-sandbox",
       "SetID": "bed33dd",
       "Name": "Architect of Fortunes",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 139
+      "UsersEstimate": 145
     },
     {
       "ID": "dont-miss-calls",
@@ -1709,8 +1709,8 @@
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-08-25T10:06:34.9192535+00:00",
+  "LastChanged_Achievements": "2023-08-25T11:06:12.2339996+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:20.196846+00:00",
-  "LastUpdate_Ratings": "2023-08-25T09:59:01.0124387+00:00",
-  "LastUpdate_Achievements": "2023-08-25T10:06:34.9192799+00:00"
+  "LastUpdate_Ratings": "2023-08-25T10:58:53.3085522+00:00",
+  "LastUpdate_Achievements": "2023-08-25T11:06:12.2340343+00:00"
 }

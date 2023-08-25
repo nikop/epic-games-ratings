@@ -6,23 +6,23 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~43,230 |
-| Worth it | 63.00% | ~35,370 |
-| Eagle Eye | 55.00% | ~30,879 |
-| Corpseman I | 40.00% | ~22,457 |
-| Blast fishing | 37.00% | ~20,773 |
-| Not alone | 32.00% | ~17,966 |
-| Headhunter I | 26.00% | ~14,597 |
-| Manual Labour I | 25.00% | ~14,036 |
-| Developers, Developers, Developers | 24.00% | ~13,474 |
-| Basic Training | 24.00% | ~13,474 |
+| Setting an example | 77.00% | ~43,234 |
+| Worth it | 63.00% | ~35,373 |
+| Eagle Eye | 55.00% | ~30,881 |
+| Corpseman I | 40.00% | ~22,459 |
+| Blast fishing | 37.00% | ~20,775 |
+| Not alone | 32.00% | ~17,967 |
+| Headhunter I | 26.00% | ~14,598 |
+| Manual Labour I | 25.00% | ~14,037 |
+| Developers, Developers, Developers | 24.00% | ~13,476 |
+| Basic Training | 24.00% | ~13,476 |
 | Furchtlos und Treu | 13.00% | ~7,299 |
-| Gott Mit Uns | 12.00% | ~6,737 |
+| Gott Mit Uns | 12.00% | ~6,738 |
 | This We'll Defend! | 9.00% | ~5,053 |
 | Anker wirf! | 9.00% | ~5,053 |
 | Providentiea Memor | 9.00% | ~5,053 |
 | For King and Country | 9.00% | ~5,053 |
-| Battle hardened | 8.00% | ~4,491 |
+| Battle hardened | 8.00% | ~4,492 |
 | Semper Fidelis! | 7.00% | ~3,930 |
 | Honneur et Patrie | 7.00% | ~3,930 |
 | In Treue Fest | 5.00% | ~2,807 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~56 |
 | Blood Brother | 0.10% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,143 (Ranked 90)  
+Progressed: 56,148 (Ranked 90)  
 Completed: 4 (0.01%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,10 +193,10 @@ Completed: 4 (0.01%) (Ranked 250)
 | 2023-08-22 | 55,935 | 4 |
 | 2023-08-23 | 56,031 | 4 |
 | 2023-08-24 | 56,125 | 4 |
-| 2023-08-25 | 56,143 | 4 |
+| 2023-08-25 | 56,148 | 4 |
 ## Awards
 Max (Highly Recommended): 96  (Ranked 344)  
-Sum: 766 (Ranked 268)  
+Sum: 767 (Ranked 268)  
 Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
@@ -208,7 +208,7 @@ Diff (max vs sum): 76
 | This game is Educational | 76 |
 | This game is Relaxing | 75 |
 | This game has Competitive Players | 72 |
-| This game has Amazing Characters | 69 |
+| This game has Amazing Characters | 70 |
 | This game has Realistic Visuals | 69 |
 | This game has a Competitive Community | 65 |
 | This game has Amazing Storytelling | 59 |
@@ -343,3 +343,4 @@ Diff (max vs sum): 76
 | 2023-08-08 | 4.53 | - | 96 | 765 |
 | 2023-08-12 | 4.52 | - | 96 | 765 |
 | 2023-08-21 | 4.52 | - | 96 | 766 |
+| 2023-08-25 | 4.52 | - | 96 | 767 |

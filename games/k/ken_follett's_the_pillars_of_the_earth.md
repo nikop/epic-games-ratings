@@ -8,8 +8,8 @@ Number of Ratings: 368  (23.09.2022)
 | ---- | ---------- | ----- |
 | Tattletale | 41.00% | ~6,060 |
 | Man of politics | 35.00% | ~5,173 |
-| Yet another secret | 34.00% | ~5,025 |
-| Friends of sorts | 33.00% | ~4,877 |
+| Yet another secret | 34.00% | ~5,026 |
+| Friends of sorts | 33.00% | ~4,878 |
 | Let there be darkness | 32.00% | ~4,730 |
 | End of Book One | 30.00% | ~4,434 |
 | Wannabe knight | 24.00% | ~3,547 |
@@ -17,14 +17,14 @@ Number of Ratings: 368  (23.09.2022)
 | Full house | 24.00% | ~3,547 |
 | Help an old friend | 22.00% | ~3,252 |
 | Two of us | 20.00% | ~2,956 |
-| Negotiation skills | 18.00% | ~2,660 |
-| Workers' union | 18.00% | ~2,660 |
-| End of Book Two | 18.00% | ~2,660 |
+| Negotiation skills | 18.00% | ~2,661 |
+| Workers' union | 18.00% | ~2,661 |
+| End of Book Two | 18.00% | ~2,661 |
 | Everything's in order | 17.00% | ~2,513 |
 | Twist of Fate | 14.00% | ~2,069 |
 | Jack was here! | 14.00% | ~2,069 |
-| Exterminator | 13.00% | ~1,921 |
-| Whodunnit | 13.00% | ~1,921 |
+| Exterminator | 13.00% | ~1,922 |
+| Whodunnit | 13.00% | ~1,922 |
 | Good midwife | 11.00% | ~1,626 |
 | Friar Tuck | 11.00% | ~1,626 |
 | First profit | 11.00% | ~1,626 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~443 |
 | Boy of mystery | 2.00% | ~296 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,780 (Ranked 118)  
+Progressed: 14,781 (Ranked 118)  
 Completed: 110 (0.74%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 110 (0.74%) (Ranked 129)
 | 2023-08-22 | 14,737 | 109 |
 | 2023-08-23 | 14,749 | 110 |
 | 2023-08-24 | 14,774 | 110 |
-| 2023-08-25 | 14,780 | 110 |
+| 2023-08-25 | 14,781 | 110 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 299)  
 Sum: 188 (Ranked 375)  

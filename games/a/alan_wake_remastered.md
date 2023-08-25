@@ -6,16 +6,16 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 38.00% | ~23,392 |
-| Let There Be Light | 31.00% | ~19,083 |
+| Follow the Light | 38.00% | ~23,393 |
+| Let There Be Light | 31.00% | ~19,084 |
 | Float Like a Butterfly | 29.00% | ~17,852 |
 | Nordic Walking | 24.00% | ~14,774 |
 | Bright Falls' Finest | 23.00% | ~14,159 |
 | Under a Thin Layer of Skin | 20.00% | ~12,312 |
 | Park Ranger | 17.00% | ~10,465 |
 | Paging Mr. Wake | 17.00% | ~10,465 |
-| Back! Back, I Say! | 16.00% | ~9,849 |
-| Finders Keepers | 16.00% | ~9,849 |
+| Back! Back, I Say! | 16.00% | ~9,850 |
+| Finders Keepers | 16.00% | ~9,850 |
 | They're Heeeeeere! | 14.00% | ~8,618 |
 | Sound and Fury | 14.00% | ~8,618 |
 | Missed by a Mile | 14.00% | ~8,618 |
@@ -27,8 +27,8 @@ Number of Ratings: 524  (23.09.2022)
 | Perchance to Dream | 12.00% | ~7,387 |
 | Collateral Carnage | 12.00% | ~7,387 |
 | Come One, Come All | 12.00% | ~7,387 |
-| It's Not Just a Typewriter Brand | 11.00% | ~6,771 |
-| Thunder and Lightning | 11.00% | ~6,771 |
+| It's Not Just a Typewriter Brand | 11.00% | ~6,772 |
+| Thunder and Lightning | 11.00% | ~6,772 |
 | Gatekeeper | 10.00% | ~6,156 |
 | The Lady of the Light | 10.00% | ~6,156 |
 | Two For the Price of One | 10.00% | ~6,156 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~62 |
 | No Punctuation | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,559 (Ranked 85)  
+Progressed: 61,560 (Ranked 86)  
 Completed: 65 (0.11%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 65 (0.11%) (Ranked 207)
 | 2023-08-22 | 61,333 | 64 |
 | 2023-08-23 | 61,436 | 65 |
 | 2023-08-24 | 61,526 | 65 |
-| 2023-08-25 | 61,559 | 65 |
+| 2023-08-25 | 61,560 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
