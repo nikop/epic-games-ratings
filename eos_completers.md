@@ -177,14 +177,14 @@
 | 175 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
 | 175 | [Scrapnaut](games/s/scrapnaut.md) | 0.28% |
 | 175 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.28% |
-| 178 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.26% |
-| 179 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
-| 180 | [Despot's Game](games/d/despot's_game.md) | 0.24% |
-| 180 | [Filament](games/f/filament.md) | 0.24% |
-| 182 | [Blanc](games/b/blanc.md) | 0.23% |
-| 182 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.23% |
-| 184 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
-| 184 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.22% |
+| 175 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.28% |
+| 179 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.26% |
+| 180 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
+| 181 | [Despot's Game](games/d/despot's_game.md) | 0.24% |
+| 181 | [Filament](games/f/filament.md) | 0.24% |
+| 183 | [Blanc](games/b/blanc.md) | 0.23% |
+| 183 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.23% |
+| 185 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
 | 186 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.21% |
 | 186 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
 | 188 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.20% |
