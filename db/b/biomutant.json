@@ -4,7 +4,7 @@
   "ProductSlug": "biomutant",
   "Ranking_Rating": 760,
   "Ranking_Popularity": 321,
-  "Ranking_PopularitySum": 389,
+  "Ranking_PopularitySum": 388,
   "Ranking_EOS_Progress": 559,
   "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 350,
@@ -440,18 +440,24 @@
       "Rating": 4.34,
       "NumberOfAwards": 163,
       "NumberOfAwardsMax": 119
+    },
+    {
+      "Time": "2023-08-25T03:58:05.8599299+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 164,
+      "NumberOfAwardsMax": 120
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 163,
-  "NumberOfAwardsMax": 119,
+  "NumberOfAwards": 164,
+  "NumberOfAwardsMax": 120,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 119
+      "Count": 120
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -471,8 +477,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:34.6090065+00:00",
-  "LastChanged": "2023-08-13T10:02:19.1630637+00:00",
+  "LastChanged": "2023-08-25T03:58:05.8599297+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:12.7095408+00:00",
-  "LastUpdate_Ratings": "2023-08-25T02:58:06.1004035+00:00",
-  "LastUpdate_Achievements": "2023-08-25T03:04:30.1755988+00:00"
+  "LastUpdate_Ratings": "2023-08-25T03:58:05.8599303+00:00",
+  "LastUpdate_Achievements": "2023-08-25T04:04:33.4969918+00:00"
 }

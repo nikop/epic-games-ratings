@@ -714,9 +714,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 216832,
+  "EOS_Progressed": 216836,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2987,
+  "EOS_NewPlayers": 2975,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8199,6 +8199,11 @@
       "Time": "2023-08-25T03:03:18.4443605+00:00",
       "NumProgressed": 216832,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-25T04:03:25.9604272+00:00",
+      "NumProgressed": 216836,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -8242,7 +8247,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1951
+      "UsersEstimate": 1952
     },
     {
       "ID": "BookCollection",
@@ -8274,7 +8279,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1951
+      "UsersEstimate": 1952
     },
     {
       "ID": "Chapter4",
@@ -8658,7 +8663,7 @@
       "Name": "Sowwy!",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 49871
+      "UsersEstimate": 49872
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -8738,7 +8743,7 @@
       "Name": "Dead for good",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "KillGolbargh",
@@ -8762,7 +8767,7 @@
       "Name": "Gargantua",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "Orktobearfest",
@@ -8794,7 +8799,7 @@
       "Name": "In Navalu\u0027s footsteps",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "QuestEmile",
@@ -8898,7 +8903,7 @@
       "Name": "Material Girl",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "WizardResistBurn",
@@ -8913,21 +8918,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 216832,
+      "Progressed": 216836,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 216832,
+      "Progressed": 216836,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-25T00:03:24.8493823+00:00",
-  "LastChanged_Achievements": "2023-08-25T03:03:18.44436+00:00",
+  "LastChanged_Achievements": "2023-08-25T04:03:25.9604264+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:36.4163589+00:00",
-  "LastUpdate_Ratings": "2023-08-25T03:02:33.42619+00:00",
-  "LastUpdate_Achievements": "2023-08-25T03:03:18.4444794+00:00"
+  "LastUpdate_Ratings": "2023-08-25T04:02:34.7091607+00:00",
+  "LastUpdate_Achievements": "2023-08-25T04:03:25.9607196+00:00"
 }

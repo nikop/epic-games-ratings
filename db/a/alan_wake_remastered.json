@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,7 +512,7 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 61544,
+  "EOS_Progressed": 61546,
   "EOS_Completed": 65,
   "EOS_NewPlayers": 511,
   "EOS_NewCompleters": 1,
@@ -12312,6 +12312,11 @@
       "Time": "2023-08-25T03:07:50.4245868+00:00",
       "NumProgressed": 61544,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-08-25T04:07:49.5997407+00:00",
+      "NumProgressed": 61546,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -12339,7 +12344,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 14155
+      "UsersEstimate": 14156
     },
     {
       "ID": "04",
@@ -12363,7 +12368,7 @@
       "Name": "Park Ranger",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 10462
+      "UsersEstimate": 10463
     },
     {
       "ID": "07",
@@ -12371,7 +12376,7 @@
       "Name": "Heavy Metal",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7385
+      "UsersEstimate": 7386
     },
     {
       "ID": "08",
@@ -12379,7 +12384,7 @@
       "Name": "Iron Horse",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7385
+      "UsersEstimate": 7386
     },
     {
       "ID": "09",
@@ -12411,7 +12416,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7385
+      "UsersEstimate": 7386
     },
     {
       "ID": "13",
@@ -12427,7 +12432,7 @@
       "Name": "Gatekeeper",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6154
+      "UsersEstimate": 6155
     },
     {
       "ID": "15",
@@ -12435,7 +12440,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6154
+      "UsersEstimate": 6155
     },
     {
       "ID": "16",
@@ -12531,7 +12536,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7385
+      "UsersEstimate": 7386
     },
     {
       "ID": "28",
@@ -12539,7 +12544,7 @@
       "Name": "Come One, Come All",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7385
+      "UsersEstimate": 7386
     },
     {
       "ID": "29",
@@ -12555,7 +12560,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6154
+      "UsersEstimate": 6155
     },
     {
       "ID": "31",
@@ -12587,7 +12592,7 @@
       "Name": "Energized!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6154
+      "UsersEstimate": 6155
     },
     {
       "ID": "35",
@@ -12659,7 +12664,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 10462
+      "UsersEstimate": 10463
     },
     {
       "ID": "44",
@@ -12858,21 +12863,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 61544,
+      "Progressed": 61546,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 25012,
+      "Progressed": 25014,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-25T03:07:50.4245864+00:00",
+  "LastChanged_Achievements": "2023-08-25T04:07:49.5997398+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:35.5614422+00:00",
-  "LastUpdate_Ratings": "2023-08-25T03:01:00.8703444+00:00",
-  "LastUpdate_Achievements": "2023-08-25T03:07:50.4246944+00:00"
+  "LastUpdate_Ratings": "2023-08-25T04:01:06.2087341+00:00",
+  "LastUpdate_Achievements": "2023-08-25T04:07:49.5999855+00:00"
 }

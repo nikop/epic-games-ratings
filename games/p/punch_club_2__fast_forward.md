@@ -51,10 +51,10 @@
 | Get out of my apartment! | 38.00% | ~101 |
 | Mom got better | 37.00% | ~98 |
 | The die is cast | 37.00% | ~98 |
-| Seashell hunter | 36.00% | ~95 |
+| Seashell hunter | 37.00% | ~98 |
+| Gang wrangler | 35.00% | ~93 |
+| Problems of cyborgs | 35.00% | ~93 |
 | Undercover robot | 35.00% | ~93 |
-| Gang wrangler | 34.00% | ~90 |
-| Problems of cyborgs | 34.00% | ~90 |
 | Not little hacker | 33.00% | ~87 |
 | Absolute Champion! | 33.00% | ~87 |
 | Another world | 32.00% | ~85 |

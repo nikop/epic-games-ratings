@@ -5734,9 +5734,9 @@
       "Count": 3737
     }
   ],
-  "EOS_Progressed": 135045,
+  "EOS_Progressed": 135048,
   "EOS_Completed": 138,
-  "EOS_NewPlayers": 351,
+  "EOS_NewPlayers": 354,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -18674,6 +18674,11 @@
       "Time": "2023-08-25T03:07:51.1937541+00:00",
       "NumProgressed": 135045,
       "NumCompleted": 138
+    },
+    {
+      "Time": "2023-08-25T04:07:50.3676756+00:00",
+      "NumProgressed": 135048,
+      "NumCompleted": 138
     }
   ],
   "TotalAchievements": 112,
@@ -19307,9 +19312,9 @@
       "ID": "loot01",
       "SetID": "anfd17p",
       "Name": "Dungeon Imports",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 675
+      "UsersEstimate": 810
     },
     {
       "ID": "loot02",
@@ -19363,9 +19368,9 @@
       "ID": "master04",
       "SetID": "anfd17p",
       "Name": "Precision Engineering",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 405
     },
     {
       "ID": "master05",
@@ -19580,15 +19585,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135045,
+      "Progressed": 135048,
       "Completed": 138
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-24T23:02:08.8227726+00:00",
-  "LastChanged_Achievements": "2023-08-25T03:07:51.1937536+00:00",
+  "LastChanged_Achievements": "2023-08-25T04:07:50.3676749+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:50.7489496+00:00",
-  "LastUpdate_Ratings": "2023-08-25T03:02:04.508579+00:00",
-  "LastUpdate_Achievements": "2023-08-25T03:07:51.1939388+00:00"
+  "LastUpdate_Ratings": "2023-08-25T04:02:09.7884669+00:00",
+  "LastUpdate_Achievements": "2023-08-25T04:07:50.3680338+00:00"
 }

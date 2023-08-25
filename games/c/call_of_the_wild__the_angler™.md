@@ -6,17 +6,17 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 77.00% | ~3,849 |
-| Hey Good Hookin | 67.00% | ~3,349 |
-| I'm on a Boat! | 57.00% | ~2,849 |
-| Can you smell what the Rod is Hooking | 51.00% | ~2,549 |
-| Scaling up | 51.00% | ~2,549 |
-| Ready to Rod and Roll | 43.00% | ~2,150 |
-| More Fish in the Sea | 43.00% | ~2,150 |
-| Fish Out of Water | 33.00% | ~1,650 |
-| License to Gill | 33.00% | ~1,650 |
-| Things that go Splash in the Night | 28.00% | ~1,400 |
-| Goldfish? | 27.00% | ~1,350 |
+| Fish Just Got Reel | 77.00% | ~3,852 |
+| Hey Good Hookin | 67.00% | ~3,351 |
+| I'm on a Boat! | 57.00% | ~2,851 |
+| Can you smell what the Rod is Hooking | 51.00% | ~2,551 |
+| Scaling up | 51.00% | ~2,551 |
+| Ready to Rod and Roll | 43.00% | ~2,151 |
+| More Fish in the Sea | 43.00% | ~2,151 |
+| Fish Out of Water | 33.00% | ~1,651 |
+| License to Gill | 33.00% | ~1,651 |
+| Things that go Splash in the Night | 28.00% | ~1,401 |
+| Goldfish? | 27.00% | ~1,351 |
 | Going for Gold | 25.00% | ~1,250 |
 | I'm Hooked! | 19.00% | ~950 |
 | Diamond in the Rough | 13.00% | ~650 |
@@ -34,15 +34,15 @@ Number of Ratings: 281  (23.09.2022)
 | Head for Heights | 0.60% | ~30 |
 | Lake Me up Before You Go Go | 0.50% | ~25 |
 | Fish upon a Star | 0.50% | ~22 |
+| Cache and Carry | 0.40% | ~17 |
 | Trollsporet Tale Teller | 0.30% | ~13 |
-| Cache and Carry | 0.30% | ~13 |
 | Golden Ridge Ranger | 0.20% | ~10 |
 | Buckaroo | 0.20% | ~10 |
 | Lost and Flounder | 0.10% | ~5 |
 | Norway Jose | 0.10% | ~4 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,999 (Ranked 145)  
+Progressed: 5,002 (Ranked 145)  
 Completed: 0 (0.00%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,11 +169,11 @@ Completed: 0 (0.00%) (Ranked 263)
 | 2023-08-22 | 4,955 | 0 |
 | 2023-08-23 | 4,959 | 0 |
 | 2023-08-24 | 4,986 | 0 |
-| 2023-08-25 | 4,999 | 0 |
+| 2023-08-25 | 5,002 | 0 |
 ## Awards
 Max (Relaxing): 33  (Ranked 449)  
-Sum: 163 (Ranked 389)  
-Diff (max vs sum): 60  
+Sum: 163 (Ranked 390)  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 33 |

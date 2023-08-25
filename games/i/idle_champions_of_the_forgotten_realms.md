@@ -59,9 +59,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Exploring Port Nyanzaru | 0.20% | ~449 |
 | A Tale of Two Cities | 0.20% | ~449 |
 | The Dead Three | 0.20% | ~449 |
+| Flying Monkey Skulls of Doom | 0.20% | ~449 |
 | The Darkness Runs Deeper | 0.20% | ~449 |
 | Running of the Saurs | 0.20% | ~449 |
 | The Contagious Curse | 0.20% | ~449 |
+| Resolve Amongst Chaos | 0.20% | ~449 |
 | Escort to Waterdeep | 0.20% | ~449 |
 | The Giant's Bane Tavern | 0.20% | ~382 |
 | The Everlasting Rime | 0.20% | ~382 |
@@ -303,7 +305,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Slow and Steady | 0.10% | ~225 |
 | A Hero's Entourage | 0.10% | ~225 |
 | Sneak Attack | 0.10% | ~191 |
-| Flying Monkey Skulls of Doom | 0.10% | ~225 |
 | Lair of the Xanathar | 0.10% | ~225 |
 | Dreams of Beholders | 0.10% | ~225 |
 | Feigned Weakness | 0.10% | ~225 |
@@ -347,7 +348,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Everything is Awful | 0.10% | ~225 |
 | Earthquake! | 0.10% | ~191 |
 | Hailstorm! | 0.10% | ~191 |
-| Resolve Amongst Chaos | 0.10% | ~225 |
 | All You Know Is Wrong | 0.10% | ~225 |
 | Shadow Stalkers | 0.10% | ~191 |
 | Avernus Frozen Over | 0.10% | ~191 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~191 |
 | Animated Giff | 0.10% | ~191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,730 (Ranked 53)  
+Progressed: 224,736 (Ranked 53)  
 Completed: 2,212 (0.98%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -650,7 +650,7 @@ Completed: 2,212 (0.98%) (Ranked 122)
 | 2023-08-22 | 224,213 | 2,207 |
 | 2023-08-23 | 224,434 | 2,210 |
 | 2023-08-24 | 224,686 | 2,211 |
-| 2023-08-25 | 224,730 | 2,212 |
+| 2023-08-25 | 224,736 | 2,212 |
 ## Awards
 Max (Diverse Characters): 5,182  (Ranked 68)  
 Sum: 31,201 (Ranked 39)  

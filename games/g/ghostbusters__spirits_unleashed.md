@@ -5,18 +5,18 @@ Rating: 4.49 (Ranked 580)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~21,780 |
+| Stylish | 86.00% | ~21,781 |
 | Advancement | 72.00% | ~18,235 |
-| Meticulously Efficient | 63.00% | ~15,955 |
+| Meticulously Efficient | 63.00% | ~15,956 |
 | Discovery | 61.00% | ~15,449 |
-| Swift Rift Removers | 54.00% | ~13,676 |
+| Swift Rift Removers | 54.00% | ~13,677 |
 | Fully Upgraded | 53.00% | ~13,423 |
-| I collect Spores, Molds, and Fungi | 51.00% | ~12,916 |
-| Cultured | 51.00% | ~12,916 |
-| Vaporous Expansion | 48.00% | ~12,156 |
-| Teamwork | 43.00% | ~10,890 |
+| I collect Spores, Molds, and Fungi | 51.00% | ~12,917 |
+| Cultured | 51.00% | ~12,917 |
+| Vaporous Expansion | 48.00% | ~12,157 |
+| Teamwork | 43.00% | ~10,891 |
 | There you are! | 42.00% | ~10,637 |
-| Clutch Capture | 40.00% | ~10,130 |
+| Clutch Capture | 40.00% | ~10,131 |
 | Back Off | 35.00% | ~8,864 |
 | Daily Dose | 34.00% | ~8,611 |
 | Solo Capture | 33.00% | ~8,358 |
@@ -37,11 +37,11 @@ Rating: 4.49 (Ranked 580)
 | Rift Destroyer | 19.00% | ~4,812 |
 | Terrifying | 18.00% | ~4,559 |
 | Tobin's Prodigy | 18.00% | ~4,559 |
-| Reckless | 17.00% | ~4,305 |
+| Reckless | 17.00% | ~4,306 |
 | Diabolical | 16.00% | ~4,052 |
 | Seasoned | 16.00% | ~4,052 |
 | Escape Artist | 15.00% | ~3,799 |
-| Whoopsie | 13.00% | ~3,292 |
+| Whoopsie | 13.00% | ~3,293 |
 | Liability | 10.00% | ~2,533 |
 | Rivalry | 10.00% | ~2,533 |
 | Fragile Panes | 9.00% | ~2,279 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 580)
 | I don't need these | 1.00% | ~253 |
 | Mycophile | 1.00% | ~253 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,326 (Ranked 103)  
+Progressed: 25,327 (Ranked 103)  
 Completed: 53 (0.21%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,23 +184,23 @@ Completed: 53 (0.21%) (Ranked 186)
 | 2023-08-22 | 25,276 | 52 |
 | 2023-08-23 | 25,303 | 52 |
 | 2023-08-24 | 25,321 | 52 |
-| 2023-08-25 | 25,326 | 53 |
+| 2023-08-25 | 25,327 | 53 |
 ## Awards
 Max (Great for Quick Sessions): 249  (Ranked 254)  
-Sum: 2,249 (Ranked 188)  
+Sum: 2,254 (Ranked 188)  
 Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 249 |
 | This game is Great for Beginners | 245 |
-| This game has Competitive Players | 232 |
+| This game has Competitive Players | 233 |
 | This game has Amazing Storytelling | 227 |
+| This game is Extremely Fun | 222 |
 | This game has Diverse Characters | 222 |
-| This game is Extremely Fun | 221 |
 | This game is Highly Recommended | 219 |
-| This game is Relaxing | 218 |
+| This game is Relaxing | 219 |
+| This game has Amazing Characters | 209 |
 | This game has Quickly Understood Controls | 209 |
-| This game has Amazing Characters | 207 |
 | This game has Playful Visuals | 94 |
 | This game has Obsessive Gameplay | 32 |
 ## Ratings History
@@ -349,3 +349,4 @@ Diff (max vs sum): 66
 | 2023-08-19 | 4.49 | 248 | 2,244 |
 | 2023-08-20 | 4.49 | 248 | 2,248 |
 | 2023-08-24 | 4.49 | 249 | 2,249 |
+| 2023-08-25 | 4.49 | 249 | 2,254 |

@@ -2,7 +2,7 @@
   "ID": "42b8b899a3f349bd8376264ccee3cd2a",
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
-  "Ranking_EOS_Progress": 232,
+  "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 94,
   "Ranking_EOS_NewCompleters": 103,
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 486,
+  "EOS_Progressed": 487,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 325,
+  "EOS_NewPlayers": 324,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -926,6 +926,11 @@
       "Time": "2023-08-25T01:46:14.3653449+00:00",
       "NumProgressed": 486,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-25T04:05:09.6961252+00:00",
+      "NumProgressed": 487,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -946,7 +951,7 @@
       "Name": "A New Journey",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "_03_FinishAct1",
@@ -1016,9 +1021,9 @@
       "ID": "_11_Completion_40",
       "SetID": "8a1io5d",
       "Name": "Seadog",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 29
     },
     {
       "ID": "_12_Completion_50",
@@ -1058,7 +1063,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -1088,9 +1093,9 @@
       "ID": "_20_CrewTale_TPB",
       "SetID": "8a1io5d",
       "Name": "Fishy Fish",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 73
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -1145,14 +1150,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 486,
+      "Progressed": 487,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-25T03:04:57.6435602+00:00",
+  "LastChanged_Achievements": "2023-08-25T04:05:09.6961244+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:01.7621403+00:00",
-  "LastUpdate_Ratings": "2023-08-25T03:01:27.2350508+00:00",
-  "LastUpdate_Achievements": "2023-08-25T03:04:57.64358+00:00"
+  "LastUpdate_Ratings": "2023-08-25T04:01:31.6702125+00:00",
+  "LastUpdate_Achievements": "2023-08-25T04:05:09.6961736+00:00"
 }

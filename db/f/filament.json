@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 281,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewPlayers": 70,
   "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -243,7 +243,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 199924,
+  "EOS_Progressed": 199925,
   "EOS_Completed": 488,
   "EOS_NewPlayers": 577,
   "EOS_NewCompleters": 5,
@@ -13838,6 +13838,11 @@
       "Time": "2023-08-25T03:05:28.5522914+00:00",
       "NumProgressed": 199924,
       "NumCompleted": 488
+    },
+    {
+      "Time": "2023-08-25T04:05:37.0568568+00:00",
+      "NumProgressed": 199925,
+      "NumCompleted": 488
     }
   ],
   "TotalAchievements": 29,
@@ -13873,7 +13878,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 187929
+      "UsersEstimate": 187930
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -13985,7 +13990,7 @@
       "Name": "So you\u0027re saying I don\u0027t touch these ones?",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 11995
+      "UsersEstimate": 11996
     },
     {
       "ID": "ACHIEVEMENT_OPUS",
@@ -14080,7 +14085,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 199924,
+      "Progressed": 199925,
       "Completed": 488
     }
   ],
@@ -14088,8 +14093,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-08-19T20:00:31.8399303+00:00",
-  "LastChanged_Achievements": "2023-08-25T03:05:28.5522909+00:00",
+  "LastChanged_Achievements": "2023-08-25T04:05:37.0568554+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:20.1074044+00:00",
-  "LastUpdate_Ratings": "2023-08-25T02:57:06.3995951+00:00",
-  "LastUpdate_Achievements": "2023-08-25T03:05:28.5523753+00:00"
+  "LastUpdate_Ratings": "2023-08-25T03:57:13.4277253+00:00",
+  "LastUpdate_Achievements": "2023-08-25T04:05:37.0570411+00:00"
 }

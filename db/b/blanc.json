@@ -2,7 +2,7 @@
   "ID": "e18be81f77f346dfbc4467f4ed715e27",
   "Name": "Blanc",
   "ProductSlug": "blanc-703b40",
-  "Ranking_EOS_Progress": 165,
+  "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 182,
   "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 103,
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2555,
+  "EOS_Progressed": 2556,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -2758,6 +2758,11 @@
       "Time": "2023-08-24T21:05:42.3536318+00:00",
       "NumProgressed": 2555,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-08-25T04:06:27.0492448+00:00",
+      "NumProgressed": 2556,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -2833,7 +2838,7 @@
       "Name": "Starting as a duo",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -2865,14 +2870,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2555,
+      "Progressed": 2556,
       "Completed": 6
     }
   ],
@@ -2880,8 +2885,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-08-25T03:06:22.0373629+00:00",
+  "LastChanged_Achievements": "2023-08-25T04:06:27.0492439+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:53.8347436+00:00",
-  "LastUpdate_Ratings": "2023-08-25T02:57:34.8406989+00:00",
-  "LastUpdate_Achievements": "2023-08-25T03:06:22.0373911+00:00"
+  "LastUpdate_Ratings": "2023-08-25T03:57:36.7262653+00:00",
+  "LastUpdate_Achievements": "2023-08-25T04:06:27.0492805+00:00"
 }

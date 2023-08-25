@@ -36,9 +36,9 @@ Rating: 4.56 (Ranked 473)
 | Sadist | 8.00% | ~31 |
 | The customer is always right | 7.00% | ~27 |
 | Apoca...huh? | 7.00% | ~27 |
+| Distraction | 6.00% | ~23 |
 | Pacifist | 6.00% | ~23 |
 | Against better judgement | 6.00% | ~23 |
-| Distraction | 5.00% | ~19 |
 | Every man for himself! | 5.00% | ~19 |
 | 1001 Jackalopes | 2.00% | ~8 |
 ## Popularity (Based on EOS Achievements)

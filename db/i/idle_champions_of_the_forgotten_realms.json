@@ -6076,9 +6076,9 @@
       "Count": 3368
     }
   ],
-  "EOS_Progressed": 224730,
+  "EOS_Progressed": 224736,
   "EOS_Completed": 2212,
-  "EOS_NewPlayers": 1841,
+  "EOS_NewPlayers": 1836,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -19921,6 +19921,11 @@
       "Time": "2023-08-25T03:07:48.7705752+00:00",
       "NumProgressed": 224730,
       "NumCompleted": 2212
+    },
+    {
+      "Time": "2023-08-25T04:07:48.4083549+00:00",
+      "NumProgressed": 224736,
+      "NumCompleted": 2212
     }
   ],
   "TotalAchievements": 516,
@@ -22146,9 +22151,9 @@
       "ID": "objective_completed_55",
       "SetID": "cc37lbc",
       "Name": "Flying Monkey Skulls of Doom",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 449
     },
     {
       "ID": "objective_completed_550",
@@ -22522,9 +22527,9 @@
       "ID": "objective_completed_605",
       "SetID": "cc37lbc",
       "Name": "Resolve Amongst Chaos",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 449
     },
     {
       "ID": "objective_completed_606",
@@ -24059,21 +24064,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 191004,
+      "Progressed": 191010,
       "Completed": 3304
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 224730,
+      "Progressed": 224736,
       "Completed": 2212
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-24T22:01:32.6243571+00:00",
-  "LastChanged_Achievements": "2023-08-25T03:07:48.7705749+00:00",
+  "LastChanged_Achievements": "2023-08-25T04:07:48.4083542+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:12.3267162+00:00",
-  "LastUpdate_Ratings": "2023-08-25T03:01:36.9051368+00:00",
-  "LastUpdate_Achievements": "2023-08-25T03:07:48.7730477+00:00"
+  "LastUpdate_Ratings": "2023-08-25T04:01:40.6937341+00:00",
+  "LastUpdate_Achievements": "2023-08-25T04:07:48.4124416+00:00"
 }
