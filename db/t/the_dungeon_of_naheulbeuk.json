@@ -2,7 +2,7 @@
   "ID": "456d95ca54814c8d98db2f52346ff5de",
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
-  "Ranking_Rating": 428,
+  "Ranking_Rating": 427,
   "Ranking_Popularity": 285,
   "Ranking_PopularitySum": 364,
   "Ranking_EOS_Progress": 56,
@@ -714,9 +714,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 216861,
+  "EOS_Progressed": 216878,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2970,
+  "EOS_NewPlayers": 2969,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8219,6 +8219,11 @@
       "Time": "2023-08-25T07:04:34.7538408+00:00",
       "NumProgressed": 216861,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-25T08:02:22.2251199+00:00",
+      "NumProgressed": 216878,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -8278,7 +8283,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4337
+      "UsersEstimate": 4338
     },
     {
       "ID": "Chapter2",
@@ -8630,7 +8635,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4337
+      "UsersEstimate": 4338
     },
     {
       "ID": "DwarfElf15Support",
@@ -8662,7 +8667,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4337
+      "UsersEstimate": 4338
     },
     {
       "ID": "ElfEpic",
@@ -8678,7 +8683,7 @@
       "Name": "Sowwy!",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 49878
+      "UsersEstimate": 49882
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -8726,7 +8731,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4337
+      "UsersEstimate": 4338
     },
     {
       "ID": "FollowBraztok",
@@ -8750,7 +8755,7 @@
       "Name": "I\u0027ve seen that beard before! It was on sale, and came with a broomstick and a bucket!",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "KillDungeonLich",
@@ -8846,7 +8851,7 @@
       "Name": "Lust and Debauchery",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "RangerEpic",
@@ -8933,21 +8938,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 216861,
+      "Progressed": 216878,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 216861,
+      "Progressed": 216878,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-25T00:03:24.8493823+00:00",
-  "LastChanged_Achievements": "2023-08-25T07:04:34.7538397+00:00",
+  "LastChanged_Achievements": "2023-08-25T08:02:22.2251195+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:36.4163589+00:00",
-  "LastUpdate_Ratings": "2023-08-25T07:03:56.0119301+00:00",
-  "LastUpdate_Achievements": "2023-08-25T07:04:34.7541348+00:00"
+  "LastUpdate_Ratings": "2023-08-25T08:01:41.0222834+00:00",
+  "LastUpdate_Achievements": "2023-08-25T08:02:22.2252413+00:00"
 }

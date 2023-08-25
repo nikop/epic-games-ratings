@@ -5,18 +5,18 @@ Rating: 4.43 (Ranked 663)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~57,476 |
+| No aid from the Omnissiah | 26.00% | ~57,477 |
 | This is only the beginning | 19.00% | ~42,002 |
-| Knowledge is power | 12.00% | ~26,527 |
-| Power Ranger | 9.00% | ~19,895 |
-| Galvanic Rifle | 9.00% | ~19,895 |
-| Taser Goad | 9.00% | ~19,895 |
-| Radium Ready | 9.00% | ~19,895 |
-| Half a cog | 9.00% | ~19,895 |
+| Knowledge is power | 12.00% | ~26,528 |
+| Power Ranger | 9.00% | ~19,896 |
+| Galvanic Rifle | 9.00% | ~19,896 |
+| Taser Goad | 9.00% | ~19,896 |
+| Radium Ready | 9.00% | ~19,896 |
+| Half a cog | 9.00% | ~19,896 |
 | Watch them crumble | 6.00% | ~13,264 |
-| Competent Cohort | 4.00% | ~8,842 |
-| Celestial Cartography Catastrophe | 4.00% | ~8,842 |
-| One with the Machine | 4.00% | ~8,842 |
+| Competent Cohort | 4.00% | ~8,843 |
+| Celestial Cartography Catastrophe | 4.00% | ~8,843 |
+| One with the Machine | 4.00% | ~8,843 |
 | Legio Cybernetica | 3.00% | ~6,632 |
 | Fleshy Disposal | 3.00% | ~6,632 |
 | Battle Servitor | 2.00% | ~4,421 |
@@ -24,7 +24,7 @@ Rating: 4.43 (Ranked 663)
 | Impatient destruction | 2.00% | ~4,421 |
 | Vivisected Vizier | 2.00% | ~4,421 |
 | Architect Abortion | 2.00% | ~4,421 |
-| Cohortus Maximus | 0.80% | ~1,768 |
+| Cohortus Maximus | 0.80% | ~1,769 |
 | Mother of Xenarites | 0.40% | ~884 |
 | False God | 0.30% | ~663 |
 | Hard | 0.20% | ~442 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 663)
 | Perma-live | 0.10% | ~221 |
 | Purge the Heretek | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221,061 (Ranked 54)  
+Progressed: 221,065 (Ranked 54)  
 Completed: 5 (0.00%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 5 (0.00%) (Ranked 263)
 | 2023-08-22 | 220,873 | 5 |
 | 2023-08-23 | 220,945 | 5 |
 | 2023-08-24 | 221,039 | 5 |
-| 2023-08-25 | 221,061 | 5 |
+| 2023-08-25 | 221,065 | 5 |
 ## Awards
 Max (Highly Recommended): 281  (Ranked 241)  
 Sum: 2,127 (Ranked 195)  

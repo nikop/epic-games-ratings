@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -476,9 +476,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3525,
+  "EOS_Progressed": 3526,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -6191,6 +6191,11 @@
       "Time": "2023-08-24T23:06:08.6605388+00:00",
       "NumProgressed": 3525,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-25T08:05:06.49214+00:00",
+      "NumProgressed": 3526,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -6248,9 +6253,9 @@
       "ID": "REWARD_16_FIELDS_OF_GLORY",
       "SetID": "bm6el81",
       "Name": "Fields of Glory",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 494
+      "UsersEstimate": 458
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -6402,7 +6407,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -6410,15 +6415,15 @@
       "Name": "Lord of War",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1022
+      "UsersEstimate": 1023
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
       "SetID": "bm6el81",
       "Name": "Die Nussknacker Sweet!",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 494
+      "UsersEstimate": 458
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -6426,7 +6431,7 @@
       "Name": "Resourceful",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -6474,7 +6479,7 @@
       "Name": "From Paris with Love",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "REWARD_43_X_FILES",
@@ -6498,7 +6503,7 @@
       "Name": "Eagle Eyed",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "REWARD_48_WORKBENCH_USER",
@@ -6536,9 +6541,9 @@
       "ID": "REWARD_5_BUNKER_BUSTER",
       "SetID": "bm6el81",
       "Name": "Change the Channel",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1023
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -6546,7 +6551,7 @@
       "Name": "Up close and personal",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "REWARD_66_VEHICULAR_OMNICIDE",
@@ -6594,7 +6599,7 @@
       "Name": "Target America",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 881
+      "UsersEstimate": 882
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -6618,7 +6623,7 @@
       "Name": "Can\u0027t Outrun A Bullet",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "REWARD_DLC01_01_FUHRERIOUS_REPETITION",
@@ -6769,13 +6774,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3476,
+      "Progressed": 3477,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3525,
+      "Progressed": 3526,
       "Completed": 9
     }
   ],
@@ -6783,8 +6788,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-08-19T13:59:32.9786794+00:00",
-  "LastChanged_Achievements": "2023-08-25T07:07:02.5081493+00:00",
+  "LastChanged_Achievements": "2023-08-25T08:05:06.4921395+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:38.9761253+00:00",
-  "LastUpdate_Ratings": "2023-08-25T07:00:21.2385012+00:00",
-  "LastUpdate_Achievements": "2023-08-25T07:07:02.5082585+00:00"
+  "LastUpdate_Ratings": "2023-08-25T07:59:16.3852809+00:00",
+  "LastUpdate_Achievements": "2023-08-25T08:05:06.4922261+00:00"
 }

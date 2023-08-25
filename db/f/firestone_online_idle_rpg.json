@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1847,
+  "EOS_Progressed": 1848,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5129,6 +5129,11 @@
       "Time": "2023-08-25T05:06:51.3105614+00:00",
       "NumProgressed": 1847,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-25T08:06:25.8082047+00:00",
+      "NumProgressed": 1848,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -5324,7 +5329,7 @@
       "Name": "Fellowship Power",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "fourleafclover",
@@ -5540,7 +5545,7 @@
       "Name": "Prestigious x10",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "relicofthepast",
@@ -5628,7 +5633,7 @@
       "Name": "The game is on",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "thepowerofawakening",
@@ -5700,7 +5705,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1718
+      "UsersEstimate": 1719
     },
     {
       "ID": "warmachinesarmy",
@@ -5732,14 +5737,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1459
+      "UsersEstimate": 1460
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1847,
+      "Progressed": 1848,
       "Completed": 2
     }
   ],
@@ -5747,8 +5752,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-08-10T20:59:32.9674394+00:00",
-  "LastChanged_Achievements": "2023-08-25T07:08:35.0177298+00:00",
+  "LastChanged_Achievements": "2023-08-25T08:06:25.8082043+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:03.2567748+00:00",
-  "LastUpdate_Ratings": "2023-08-25T07:02:38.0179844+00:00",
-  "LastUpdate_Achievements": "2023-08-25T07:08:35.0178433+00:00"
+  "LastUpdate_Ratings": "2023-08-25T08:00:48.4537824+00:00",
+  "LastUpdate_Achievements": "2023-08-25T08:06:25.808291+00:00"
 }

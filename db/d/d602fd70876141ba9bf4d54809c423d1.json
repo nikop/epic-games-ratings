@@ -459,33 +459,33 @@
       "ID": "ACHIEVEMENT_06",
       "SetID": "ap8553i",
       "Name": "Arachnophobia",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_07",
       "SetID": "ap8553i",
       "Name": "Slither into Oblivion",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_08",
       "SetID": "ap8553i",
       "Name": "One of the Many",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 45,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_09",
       "SetID": "ap8553i",
       "Name": "First Step into Darkness",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -739,9 +739,9 @@
       "ID": "ACHIEVEMENT_41",
       "SetID": "ap8553i",
       "Name": "Entry Level Electrician",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -1000,8 +1000,8 @@
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-08-25T07:07:43.1206834+00:00",
+  "LastChanged_Achievements": "2023-08-25T08:05:42.078206+00:00",
   "LastUpdate_AppInfo": "2023-08-23T17:57:10.3780808+00:00",
-  "LastUpdate_Ratings": "2023-08-25T06:59:47.0640613+00:00",
-  "LastUpdate_Achievements": "2023-08-25T07:07:43.1208322+00:00"
+  "LastUpdate_Ratings": "2023-08-25T07:58:52.6201781+00:00",
+  "LastUpdate_Achievements": "2023-08-25T08:05:42.0782827+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "390584f0f63a4e69978eafa4d4fce9e7",
   "Name": "Smalland: Survive the Wilds",
   "ProductSlug": "smalland",
-  "Ranking_Rating": 428,
+  "Ranking_Rating": 427,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-03-29T13:00:00+00:00",
@@ -258,9 +258,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19837,
+  "EOS_Progressed": 19839,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -5793,6 +5793,11 @@
       "Time": "2023-08-24T15:05:49.0991704+00:00",
       "NumProgressed": 19837,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-08-25T08:06:19.2921813+00:00",
+      "NumProgressed": 19839,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 13,
@@ -5836,7 +5841,7 @@
       "Name": "One VERY small step",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 793
+      "UsersEstimate": 794
     },
     {
       "ID": "MeetNok",
@@ -5907,7 +5912,7 @@
     {
       "ID": "3c9im16",
       "IsBase": true,
-      "Progressed": 19837,
+      "Progressed": 19839,
       "Completed": 18
     }
   ],
@@ -5915,8 +5920,8 @@
   "FirstSeenRating": "2023-03-31T05:57:29.8298127+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.2502922+00:00",
   "LastChanged": "2023-08-14T21:59:18.1102072+00:00",
-  "LastChanged_Achievements": "2023-08-25T07:08:27.4691054+00:00",
+  "LastChanged_Achievements": "2023-08-25T08:06:19.2921805+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:57.555785+00:00",
-  "LastUpdate_Ratings": "2023-08-25T07:01:40.3813298+00:00",
-  "LastUpdate_Achievements": "2023-08-25T07:08:27.4691862+00:00"
+  "LastUpdate_Ratings": "2023-08-25T08:00:09.5530135+00:00",
+  "LastUpdate_Achievements": "2023-08-25T08:06:19.2922171+00:00"
 }

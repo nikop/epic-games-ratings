@@ -6,16 +6,16 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~29,054 |
-| Just The Two of Us | 32.00% | ~27,345 |
+| Simoon | 34.00% | ~29,055 |
+| Just The Two of Us | 32.00% | ~27,346 |
 | Up On High | 25.00% | ~21,364 |
 | Under The Hood | 25.00% | ~21,364 |
 | Got Your Nose | 24.00% | ~20,509 |
 | The Gift of Gab | 24.00% | ~20,509 |
 | Wrapping Up | 22.00% | ~18,800 |
 | More Than A Box Of Sand | 18.00% | ~15,382 |
-| The Dunboyne | 17.00% | ~14,527 |
-| Badge Hobbyist | 17.00% | ~14,527 |
+| The Dunboyne | 17.00% | ~14,528 |
+| Badge Hobbyist | 17.00% | ~14,528 |
 | Chum Novice | 16.00% | ~13,673 |
 | Silver-Tongued Sable | 16.00% | ~13,673 |
 | Sticky Paws | 16.00% | ~13,673 |
@@ -26,14 +26,14 @@ Number of Ratings: 43  (23.09.2022)
 | Nesting Giant | 13.00% | ~11,109 |
 | Treasure Tracker | 13.00% | ~11,109 |
 | Big Spender | 13.00% | ~11,109 |
-| Badge Collector | 12.00% | ~10,254 |
-| Quite The Catch | 12.00% | ~10,254 |
+| Badge Collector | 12.00% | ~10,255 |
+| Quite The Catch | 12.00% | ~10,255 |
 | Rowleys Way | 11.00% | ~9,400 |
-| The Machinist Mask | 10.00% | ~8,545 |
-| The Cartographer Mask | 10.00% | ~8,545 |
-| Balfron Connection | 10.00% | ~8,545 |
-| Ceiling Of Stars | 10.00% | ~8,545 |
-| Playing Dress Up | 10.00% | ~8,545 |
+| The Machinist Mask | 10.00% | ~8,546 |
+| The Cartographer Mask | 10.00% | ~8,546 |
+| Balfron Connection | 10.00% | ~8,546 |
+| Ceiling Of Stars | 10.00% | ~8,546 |
+| Playing Dress Up | 10.00% | ~8,546 |
 | Many Different Faces | 9.00% | ~7,691 |
 | Trellick's Pillar | 9.00% | ~7,691 |
 | Centre Of Brunswick | 9.00% | ~7,691 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~2,564 |
 | Vivacious Vivarium | 2.00% | ~1,709 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 85,454 (Ranked 73)  
+Progressed: 85,456 (Ranked 73)  
 Completed: 842 (0.99%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 842 (0.99%) (Ranked 121)
 | 2023-08-22 | 85,102 | 834 |
 | 2023-08-23 | 85,254 | 837 |
 | 2023-08-24 | 85,411 | 842 |
-| 2023-08-25 | 85,454 | 842 |
+| 2023-08-25 | 85,456 | 842 |
 ## Awards
 Max (Quickly Understood Controls): 22  (Ranked 494)  
 Sum: 22 (Ranked 497)  

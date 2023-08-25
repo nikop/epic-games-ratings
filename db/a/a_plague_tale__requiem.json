@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 292,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -380,9 +380,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12840,
+  "EOS_Progressed": 12841,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -7575,6 +7575,11 @@
       "Time": "2023-08-25T05:06:13.6394319+00:00",
       "NumProgressed": 12840,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-08-25T08:05:47.2297581+00:00",
+      "NumProgressed": 12841,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 35,
@@ -7586,7 +7591,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 11813
+      "UsersEstimate": 11814
     },
     {
       "ID": "ACH_02",
@@ -7610,7 +7615,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 8988
+      "UsersEstimate": 8989
     },
     {
       "ID": "ACH_05",
@@ -7618,7 +7623,7 @@
       "Name": "In our Wake",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 8731
+      "UsersEstimate": 8732
     },
     {
       "ID": "ACH_06",
@@ -7626,7 +7631,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 8346
+      "UsersEstimate": 8347
     },
     {
       "ID": "ACH_07",
@@ -7642,7 +7647,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 7832
+      "UsersEstimate": 7833
     },
     {
       "ID": "ACH_09",
@@ -7666,7 +7671,7 @@
       "Name": "The Cradle of Centuries",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 6163
+      "UsersEstimate": 6164
     },
     {
       "ID": "ACH_12",
@@ -7674,7 +7679,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 5906
+      "UsersEstimate": 5907
     },
     {
       "ID": "ACH_13",
@@ -7698,7 +7703,7 @@
       "Name": "Dying Sun",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 4237
+      "UsersEstimate": 4238
     },
     {
       "ID": "ACH_16",
@@ -7754,7 +7759,7 @@
       "Name": "Not a toy anymore",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 1412
+      "UsersEstimate": 1413
     },
     {
       "ID": "ACH_23",
@@ -7786,7 +7791,7 @@
       "Name": "Pocket laboratory",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 1412
+      "UsersEstimate": 1413
     },
     {
       "ID": "ACH_27",
@@ -7794,7 +7799,7 @@
       "Name": "Night guard",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 5521
+      "UsersEstimate": 5522
     },
     {
       "ID": "ACH_28",
@@ -7865,7 +7870,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 12840,
+      "Progressed": 12841,
       "Completed": 43
     }
   ],
@@ -7873,8 +7878,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-08-24T02:10:43.6579276+00:00",
-  "LastChanged_Achievements": "2023-08-25T07:07:49.6802751+00:00",
+  "LastChanged_Achievements": "2023-08-25T08:05:47.2297577+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:59.2474343+00:00",
-  "LastUpdate_Ratings": "2023-08-25T06:58:12.1321344+00:00",
-  "LastUpdate_Achievements": "2023-08-25T07:07:49.6804369+00:00"
+  "LastUpdate_Ratings": "2023-08-25T07:57:31.8678827+00:00",
+  "LastUpdate_Achievements": "2023-08-25T08:05:47.2298114+00:00"
 }

@@ -6,12 +6,12 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~307,523 |
-| Jeef Skeejj | 44.00% | ~205,015 |
-| Careful planning | 39.00% | ~181,718 |
-| Second Coming | 33.00% | ~153,762 |
-| Jeef Skagg | 30.00% | ~139,783 |
-| Mother | 25.00% | ~116,486 |
+| The Shutdown | 66.00% | ~307,525 |
+| Jeef Skeejj | 44.00% | ~205,017 |
+| Careful planning | 39.00% | ~181,719 |
+| Second Coming | 33.00% | ~153,763 |
+| Jeef Skagg | 30.00% | ~139,784 |
+| Mother | 25.00% | ~116,487 |
 | In space, no one can hear you scream | 24.00% | ~111,827 |
 | Chapter I: Echoes | 22.00% | ~102,508 |
 | Excelsior Rule | 22.00% | ~102,508 |
@@ -22,7 +22,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Pope Zenon | 15.00% | ~69,892 |
 | Tetsuo | 11.00% | ~51,254 |
 | Plan for the worst | 11.00% | ~51,254 |
-| Chapter III: The Man Who Sold the World | 10.00% | ~46,594 |
+| Chapter III: The Man Who Sold the World | 10.00% | ~46,595 |
 | Chapter IV: Through the Looking Glass | 8.00% | ~37,276 |
 | Through the mirror | 8.00% | ~37,276 |
 | General Vivar | 8.00% | ~37,276 |
@@ -56,7 +56,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Emperor of Misery | 1.00% | ~4,659 |
 | A Frozen Lady | 1.00% | ~4,659 |
 | Void Rule | 1.00% | ~4,659 |
-| Excelsior Mastery | 0.90% | ~4,193 |
+| Excelsior Mastery | 0.90% | ~4,194 |
 | The greatest admiral of all time | 0.50% | ~2,330 |
 | Hand of the Emperor | 0.30% | ~30 |
 | Soldiers of Fortune | 0.20% | ~20 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~10 |
 | Kronos Rule | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 465,944 (Ranked 37)  
+Progressed: 465,947 (Ranked 37)  
 Completed: 17 (0.00%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 17 (0.00%) (Ranked 263)
 | 2023-08-22 | 465,797 | 17 |
 | 2023-08-23 | 465,851 | 17 |
 | 2023-08-24 | 465,923 | 17 |
-| 2023-08-25 | 465,944 | 17 |
+| 2023-08-25 | 465,947 | 17 |
 ## Awards
 Max (Character Customization): 218  (Ranked 267)  
 Sum: 238 (Ranked 357)  

@@ -25,9 +25,9 @@ Number of Ratings: 368  (23.09.2022)
 | Jack was here! | 14.00% | ~2,069 |
 | Exterminator | 13.00% | ~1,921 |
 | Whodunnit | 13.00% | ~1,921 |
+| Good midwife | 11.00% | ~1,625 |
 | Friar Tuck | 11.00% | ~1,625 |
 | First profit | 11.00% | ~1,625 |
-| Good midwife | 10.00% | ~1,478 |
 | Team player | 10.00% | ~1,478 |
 | Skilled merchant | 9.00% | ~1,330 |
 | Nothing but make-believe | 9.00% | ~1,330 |

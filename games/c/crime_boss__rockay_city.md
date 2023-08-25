@@ -44,7 +44,7 @@ Rating: 3.94 (Ranked 948)
 | Full House | 0.20% | ~145 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 72,292 (Ranked 78)  
-Completed: 41 (0.06%) (Ranked 225)  
+Completed: 42 (0.06%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -170,16 +170,16 @@ Completed: 41 (0.06%) (Ranked 225)
 | 2023-08-22 | 72,196 | 41 |
 | 2023-08-23 | 72,253 | 41 |
 | 2023-08-24 | 72,287 | 41 |
-| 2023-08-25 | 72,292 | 41 |
+| 2023-08-25 | 72,292 | 42 |
 ## Awards
 Max (Diverse Characters): 406  (Ranked 215)  
-Sum: 1,930 (Ranked 203)  
+Sum: 1,931 (Ranked 203)  
 Diff (max vs sum): 12  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 406 |
 | This game has Quickly Understood Controls | 396 |
-| This game is Highly Recommended | 388 |
+| This game is Highly Recommended | 389 |
 | This game has Challenging Combat | 374 |
 | This game has Amazing Characters | 366 |
 | This game is Great for Quick Sessions | 70 |
@@ -335,3 +335,4 @@ Diff (max vs sum): 12
 | 2023-08-22 | 3.94 | 403 | 1,925 |
 | 2023-08-23 | 3.94 | 404 | 1,926 |
 | 2023-08-24 | 3.94 | 406 | 1,930 |
+| 2023-08-25 | 3.94 | 406 | 1,931 |

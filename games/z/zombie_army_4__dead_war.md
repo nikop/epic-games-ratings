@@ -38,7 +38,7 @@ Number of Ratings: 743  (23.09.2022)
 | Gore soaked | 24.00% | ~10,395 |
 | Shock therapy | 23.00% | ~9,962 |
 | Leave the limbs you've lost | 23.00% | ~9,962 |
-| Everyone's a mad scientist, life is the lab | 18.00% | ~7,796 |
+| Everyone's a mad scientist, life is the lab | 19.00% | ~8,229 |
 | Take them down screaming | 18.00% | ~7,796 |
 | Bad Blood | 17.00% | ~7,363 |
 | Weapons expert | 17.00% | ~7,363 |

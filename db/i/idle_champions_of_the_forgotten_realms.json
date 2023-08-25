@@ -6076,9 +6076,9 @@
       "Count": 3368
     }
   ],
-  "EOS_Progressed": 224757,
+  "EOS_Progressed": 224765,
   "EOS_Completed": 2213,
-  "EOS_NewPlayers": 1828,
+  "EOS_NewPlayers": 1826,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -19941,6 +19941,11 @@
       "Time": "2023-08-25T07:09:07.3052595+00:00",
       "NumProgressed": 224757,
       "NumCompleted": 2213
+    },
+    {
+      "Time": "2023-08-25T08:06:53.4943799+00:00",
+      "NumProgressed": 224765,
+      "NumCompleted": 2213
     }
   ],
   "TotalAchievements": 516,
@@ -21990,9 +21995,9 @@
       "ID": "objective_completed_423",
       "SetID": "cc37lbc",
       "Name": "Enter the Sargauth",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 450
     },
     {
       "ID": "objective_completed_424",
@@ -24079,21 +24084,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 191031,
+      "Progressed": 191039,
       "Completed": 3304
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 224757,
+      "Progressed": 224765,
       "Completed": 2213
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-24T22:01:32.6243571+00:00",
-  "LastChanged_Achievements": "2023-08-25T07:09:07.3052585+00:00",
+  "LastChanged_Achievements": "2023-08-25T08:06:53.4943793+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:12.3267162+00:00",
-  "LastUpdate_Ratings": "2023-08-25T07:02:54.1033534+00:00",
-  "LastUpdate_Achievements": "2023-08-25T07:09:07.3085943+00:00"
+  "LastUpdate_Ratings": "2023-08-25T08:00:57.1632779+00:00",
+  "LastUpdate_Achievements": "2023-08-25T08:06:53.496848+00:00"
 }

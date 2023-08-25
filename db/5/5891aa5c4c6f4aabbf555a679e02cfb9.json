@@ -4,7 +4,7 @@
   "ProductSlug": "the-evil-within-2",
   "Ranking_EOS_Progress": 369,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -335,9 +335,9 @@
       "ID": "ACHIEVEMENT_07",
       "SetID": "b36c5kb",
       "Name": "Not Running This Time",
-      "Percentage": 32,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -702,8 +702,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-08-25T07:07:29.2676874+00:00",
+  "LastChanged_Achievements": "2023-08-25T08:05:28.922624+00:00",
   "LastUpdate_AppInfo": "2023-08-23T17:57:10.5850624+00:00",
-  "LastUpdate_Ratings": "2023-08-25T06:59:47.9180339+00:00",
-  "LastUpdate_Achievements": "2023-08-25T07:07:29.2677437+00:00"
+  "LastUpdate_Ratings": "2023-08-25T07:58:54.1374975+00:00",
+  "LastUpdate_Achievements": "2023-08-25T08:05:28.9226709+00:00"
 }

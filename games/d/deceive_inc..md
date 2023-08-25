@@ -1,7 +1,7 @@
 # Deceive Inc.
 [Store](https://store.epicgames.com/en-US/p/deceive-inc)  
 [View Rawdata](../../db/d/deceive_inc..json)  
-Rating: 4.58 (Ranked 428)  
+Rating: 4.58 (Ranked 427)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,9 +10,9 @@ Rating: 4.58 (Ranked 428)
 | The Spy who eliminated me | 23.00% | ~4,055 |
 | Tomorrow Never Dyes | 22.00% | ~3,879 |
 | Never Say Loser Again | 19.00% | ~3,350 |
-| From the Vault with Love | 18.00% | ~3,173 |
-| Tailor-Made | 18.00% | ~3,173 |
-| For your Eyes only | 18.00% | ~3,173 |
+| From the Vault with Love | 18.00% | ~3,174 |
+| Tailor-Made | 18.00% | ~3,174 |
+| For your Eyes only | 18.00% | ~3,174 |
 | Assistant Accountant | 17.00% | ~2,997 |
 | Fully Decked Out | 17.00% | ~2,997 |
 | You Only Live Twice | 16.00% | ~2,821 |
@@ -22,8 +22,8 @@ Rating: 4.58 (Ranked 428)
 | Killer Looks | 12.00% | ~2,116 |
 | Hostile Takeover | 12.00% | ~2,116 |
 | Smells Like Trouble | 12.00% | ~2,116 |
-| Dr. No Kill | 11.00% | ~1,939 |
-| My Motto, My Creed | 11.00% | ~1,939 |
+| Dr. No Kill | 11.00% | ~1,940 |
+| My Motto, My Creed | 11.00% | ~1,940 |
 | Keycards Royale | 10.00% | ~1,763 |
 | In It to Win It | 10.00% | ~1,763 |
 | Security Supervisor | 6.00% | ~1,058 |
@@ -42,7 +42,7 @@ Rating: 4.58 (Ranked 428)
 | Extraction Confusion | 0.20% | ~35 |
 | Spyfall | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,630 (Ranked 111)  
+Progressed: 17,632 (Ranked 111)  
 Completed: 1 (0.01%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 1 (0.01%) (Ranked 250)
 | 2023-08-22 | 17,562 | 1 |
 | 2023-08-23 | 17,592 | 1 |
 | 2023-08-24 | 17,618 | 1 |
-| 2023-08-25 | 17,630 | 1 |
+| 2023-08-25 | 17,632 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
