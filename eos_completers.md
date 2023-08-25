@@ -15,8 +15,8 @@
 | 13 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 13 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 15 | [Island Cities](games/i/island_cities.md) | 18.53% |
-| 16 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
-| 17 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 17.69% |
+| 16 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 18.46% |
+| 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
 | 18 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.55% |
 | 19 | [Anna's Quest](games/a/anna's_quest.md) | 13.51% |
 | 20 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 12.50% |
@@ -60,7 +60,7 @@
 | 58 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.40% |
 | 59 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
 | 60 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.11% |
-| 61 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.10% |
+| 61 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.09% |
 | 62 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.98% |
 | 63 | [ZZT!](games/z/zzt!.md) | 3.86% |
 | 64 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
@@ -133,11 +133,11 @@
 | 131 | [Lemon Cake](games/l/lemon_cake.md) | 0.70% |
 | 132 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.69% |
 | 133 | [Haven](games/h/haven.md) | 0.64% |
-| 134 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.63% |
-| 135 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
-| 135 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.62% |
-| 135 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.62% |
-| 135 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.62% |
+| 134 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
+| 134 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.62% |
+| 134 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.62% |
+| 134 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.62% |
+| 134 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.62% |
 | 139 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.60% |
 | 140 | [Potion Permit](games/p/potion_permit.md) | 0.58% |
 | 141 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.57% |
@@ -158,7 +158,7 @@
 | 156 | [Tchia](games/t/tchia.md) | 0.44% |
 | 157 | [Tails of Iron](games/t/tails_of_iron.md) | 0.43% |
 | 158 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.41% |
-| 159 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.39% |
+| 159 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.38% |
 | 160 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.37% |
 | 160 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.37% |
 | 160 | [Ghostrunner](games/g/ghostrunner.md) | 0.37% |
