@@ -3065,10 +3065,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 2922,
       "NumberOfAwardsMax": 376
+    },
+    {
+      "Time": "2023-08-25T13:05:17.9368809+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 2923,
+      "NumberOfAwardsMax": 376
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2922,
+  "NumberOfAwards": 2923,
   "NumberOfAwardsMax": 376,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3106,7 +3112,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 313
+      "Count": 314
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -3139,9 +3145,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 436220,
+  "EOS_Progressed": 436229,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2477,
+  "EOS_NewPlayers": 2472,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17189,6 +17195,11 @@
       "Time": "2023-08-25T12:03:09.3802323+00:00",
       "NumProgressed": 436220,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-25T13:06:27.83535+00:00",
+      "NumProgressed": 436229,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -17200,7 +17211,7 @@
       "Name": "Banged",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 8724
+      "UsersEstimate": 8725
     },
     {
       "ID": "ACH_BLINDFIRE",
@@ -17224,7 +17235,7 @@
       "Name": "Checkpoint Victory",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 8724
+      "UsersEstimate": 8725
     },
     {
       "ID": "ACH_CINEMATIC",
@@ -17272,7 +17283,7 @@
       "Name": "First Blood",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 8724
+      "UsersEstimate": 8725
     },
     {
       "ID": "ACH_FLACCID_PARALYSIS",
@@ -17280,7 +17291,7 @@
       "Name": "Flaccid Paralysis",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 8724
+      "UsersEstimate": 8725
     },
     {
       "ID": "ACH_GROUNDED",
@@ -17376,7 +17387,7 @@
       "Name": "Push Victory",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 8724
+      "UsersEstimate": 8725
     },
     {
       "ID": "ACH_REFLEXES",
@@ -17408,7 +17419,7 @@
       "Name": "Self-destructive",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 8724
+      "UsersEstimate": 8725
     },
     {
       "ID": "ACH_SEMPER_PARATUS",
@@ -17479,15 +17490,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 436220,
+      "Progressed": 436229,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
-  "LastChanged": "2023-08-24T19:01:31.2928803+00:00",
-  "LastChanged_Achievements": "2023-08-25T12:03:09.3802316+00:00",
+  "LastChanged": "2023-08-25T13:05:17.9368807+00:00",
+  "LastChanged_Achievements": "2023-08-25T13:06:27.8353492+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:00.8075845+00:00",
-  "LastUpdate_Ratings": "2023-08-25T12:01:33.3900047+00:00",
-  "LastUpdate_Achievements": "2023-08-25T12:03:09.3803699+00:00"
+  "LastUpdate_Ratings": "2023-08-25T13:05:17.9368814+00:00",
+  "LastUpdate_Achievements": "2023-08-25T13:06:27.8354839+00:00"
 }

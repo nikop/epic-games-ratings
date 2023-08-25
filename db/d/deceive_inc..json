@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17637,
+  "EOS_Progressed": 17638,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 177,
+  "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9021,6 +9021,11 @@
       "Time": "2023-08-25T12:07:32.5977827+00:00",
       "NumProgressed": 17637,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-25T13:10:47.4324704+00:00",
+      "NumProgressed": 17638,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -9232,7 +9237,7 @@
       "Name": "The Living Portrait",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2116
+      "UsersEstimate": 2117
     },
     {
       "ID": "0027",
@@ -9272,7 +9277,7 @@
       "Name": "Private Collection",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2116
+      "UsersEstimate": 2117
     },
     {
       "ID": "0032",
@@ -9288,7 +9293,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2116
+      "UsersEstimate": 2117
     },
     {
       "ID": "0034",
@@ -9296,7 +9301,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2116
+      "UsersEstimate": 2117
     },
     {
       "ID": "0035",
@@ -9319,7 +9324,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17637,
+      "Progressed": 17638,
       "Completed": 1
     }
   ],
@@ -9327,8 +9332,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-12T19:04:41.1874293+00:00",
-  "LastChanged_Achievements": "2023-08-25T12:07:32.5977823+00:00",
+  "LastChanged_Achievements": "2023-08-25T13:10:47.4324694+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:28.6624095+00:00",
-  "LastUpdate_Ratings": "2023-08-25T11:58:12.9863412+00:00",
-  "LastUpdate_Achievements": "2023-08-25T12:07:32.5978616+00:00"
+  "LastUpdate_Ratings": "2023-08-25T13:02:11.4841426+00:00",
+  "LastUpdate_Achievements": "2023-08-25T13:10:47.4325634+00:00"
 }

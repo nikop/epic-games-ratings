@@ -2,9 +2,9 @@
   "ID": "5bd984a0d32040daa6ef47d2909a038e",
   "Name": "Fata Deum",
   "ProductSlug": "fata-deum-157c7d",
-  "Ranking_EOS_Progress": 559,
+  "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 348,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-19T07:57:51.2659655+00:00",
-  "LastUpdate_Ratings": "2023-08-25T12:01:21.9591008+00:00",
-  "LastUpdate_Achievements": "2023-08-25T12:03:47.4372276+00:00"
+  "LastUpdate_Ratings": "2023-08-25T13:05:08.8897024+00:00",
+  "LastUpdate_Achievements": "2023-08-25T13:07:27.9784568+00:00"
 }

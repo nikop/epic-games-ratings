@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 61.00% | ~203 |
-| Starting Skyward | 54.00% | ~179 |
-| Grime is Not Good | 48.00% | ~159 |
-| Floor Galore | 41.00% | ~136 |
-| Campaign Launch | 41.00% | ~136 |
-| Dinner Dash | 41.00% | ~136 |
-| Need a Consult | 38.00% | ~126 |
+| In the Black | 60.00% | ~200 |
+| Starting Skyward | 54.00% | ~180 |
+| Grime is Not Good | 48.00% | ~160 |
+| Floor Galore | 41.00% | ~137 |
+| Campaign Launch | 41.00% | ~137 |
+| Dinner Dash | 41.00% | ~137 |
+| Need a Consult | 38.00% | ~127 |
 | Upgrade Unlock | 37.00% | ~123 |
 | It's Technical | 37.00% | ~123 |
 | Delegate Maintenance | 34.00% | ~113 |
 | Proper Walls | 33.00% | ~110 |
 | Destination Destiny | 31.00% | ~103 |
-| Happy Tenants | 26.00% | ~86 |
-| Potent Potables | 26.00% | ~86 |
+| Happy Tenants | 26.00% | ~87 |
+| Potent Potables | 26.00% | ~87 |
 | Smooth Service | 25.00% | ~83 |
 | Retail Revenue | 24.00% | ~80 |
-| Your Prestige is Rising | 23.00% | ~76 |
+| Your Prestige is Rising | 23.00% | ~77 |
 | Don't Feel a Loan | 22.00% | ~73 |
 | Lux Living | 21.00% | ~70 |
 | People Mover | 21.00% | ~70 |
-| Artfully Done | 20.00% | ~66 |
-| Emporium Empire | 20.00% | ~66 |
-| Leveled Up Shops | 20.00% | ~66 |
-| We Don't Need No Education | 20.00% | ~66 |
+| Artfully Done | 20.00% | ~67 |
+| Emporium Empire | 20.00% | ~67 |
+| Leveled Up Shops | 20.00% | ~67 |
+| We Don't Need No Education | 20.00% | ~67 |
 | Rehab Expert | 19.00% | ~63 |
 | Get Electrified | 19.00% | ~63 |
 | Tasty Profits | 18.00% | ~60 |
@@ -35,8 +35,8 @@
 | Cashflow Chief | 16.00% | ~53 |
 | Under One Roof | 15.00% | ~50 |
 | Starred Dining | 15.00% | ~50 |
-| Smooth Operator | 14.00% | ~46 |
-| Boutique Benefits | 14.00% | ~46 |
+| Smooth Operator | 14.00% | ~47 |
+| Boutique Benefits | 14.00% | ~47 |
 | Terrifically Trashed | 13.00% | ~43 |
 | Thrilled Tenants | 13.00% | ~43 |
 | 28 Days Later | 11.00% | ~37 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 332 (Ranked 258)  
+Progressed: 333 (Ranked 258)  
 Completed: 0 (0.00%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,6 +169,7 @@ Completed: 0 (0.00%) (Ranked 263)
 | 2023-08-21 | 328 | 0 |
 | 2023-08-23 | 331 | 0 |
 | 2023-08-24 | 332 | 0 |
+| 2023-08-25 | 333 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

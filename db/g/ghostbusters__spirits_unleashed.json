@@ -1892,7 +1892,7 @@
   ],
   "EOS_Progressed": 25328,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -11254,9 +11254,9 @@
       "ID": "Advancement",
       "SetID": "819popo",
       "Name": "Advancement",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 18236
+      "UsersEstimate": 18489
     },
     {
       "ID": "Animated",
@@ -11390,9 +11390,9 @@
       "ID": "Fully_Upgraded",
       "SetID": "819popo",
       "Name": "Fully Upgraded",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 13424
+      "UsersEstimate": 13677
     },
     {
       "ID": "GB_In_Training",
@@ -11671,8 +11671,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-08-25T03:57:01.7883879+00:00",
-  "LastChanged_Achievements": "2023-08-25T12:04:07.9742247+00:00",
+  "LastChanged_Achievements": "2023-08-25T13:07:45.2470655+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:37.9111082+00:00",
-  "LastUpdate_Ratings": "2023-08-25T11:57:02.5397665+00:00",
-  "LastUpdate_Achievements": "2023-08-25T12:04:07.9743151+00:00"
+  "LastUpdate_Ratings": "2023-08-25T13:01:05.4398993+00:00",
+  "LastUpdate_Achievements": "2023-08-25T13:07:45.2472702+00:00"
 }

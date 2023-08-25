@@ -4,7 +4,7 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -774,9 +774,9 @@
       "ID": "ENDING_5",
       "SetID": "8eejhlh",
       "Name": "The Delivery",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 208
+      "UsersEstimate": 212
     },
     {
       "ID": "ENDING_6",
@@ -895,8 +895,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-08-25T12:08:37.223764+00:00",
+  "LastChanged_Achievements": "2023-08-25T13:11:43.646364+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:45.3527231+00:00",
-  "LastUpdate_Ratings": "2023-08-25T11:57:24.8290378+00:00",
-  "LastUpdate_Achievements": "2023-08-25T12:08:37.2237811+00:00"
+  "LastUpdate_Ratings": "2023-08-25T13:01:28.5041296+00:00",
+  "LastUpdate_Achievements": "2023-08-25T13:11:43.6463824+00:00"
 }

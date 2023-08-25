@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7080,
+  "EOS_Progressed": 7081,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -3833,6 +3833,11 @@
       "Time": "2023-08-25T06:05:54.7918129+00:00",
       "NumProgressed": 7080,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-08-25T13:09:43.821739+00:00",
+      "NumProgressed": 7081,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 27,
@@ -3876,7 +3881,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3752
+      "UsersEstimate": 3753
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -3884,7 +3889,7 @@
       "Name": "Harp Tuned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1628
+      "UsersEstimate": 1629
     },
     {
       "ID": "AK_HOPES_HOISTED",
@@ -3932,7 +3937,7 @@
       "Name": "A Learned Scholar",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "AK_ON_TOWN",
@@ -3940,7 +3945,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 1982
+      "UsersEstimate": 1983
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -3956,7 +3961,7 @@
       "Name": "Prophecy Fulfilled",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "AK_PYRE_IGNITED",
@@ -3964,7 +3969,7 @@
       "Name": "Pyre Ignited",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1628
+      "UsersEstimate": 1629
     },
     {
       "ID": "AK_RELIC_FINDER",
@@ -4012,7 +4017,7 @@
       "Name": "It Takes a Village",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 2407
+      "UsersEstimate": 2408
     },
     {
       "ID": "AK_TRAVELERS_RETURNED",
@@ -4020,7 +4025,7 @@
       "Name": "Travelers Returned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1628
+      "UsersEstimate": 1629
     },
     {
       "ID": "AK_TRUE_CHALLENGE",
@@ -4059,15 +4064,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7080,
+      "Progressed": 7081,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-08-25T12:06:18.8301055+00:00",
+  "LastChanged_Achievements": "2023-08-25T13:09:43.8217382+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:58.4215598+00:00",
-  "LastUpdate_Ratings": "2023-08-25T12:00:51.5426174+00:00",
-  "LastUpdate_Achievements": "2023-08-25T12:06:18.8301471+00:00"
+  "LastUpdate_Ratings": "2023-08-25T13:04:38.2825169+00:00",
+  "LastUpdate_Achievements": "2023-08-25T13:09:43.8217794+00:00"
 }

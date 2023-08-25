@@ -5,20 +5,20 @@ Rating: 3.94 (Ranked 948)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~53,499 |
-| First One’s Free | 65.00% | ~46,992 |
-| Neophyte Ninja | 50.00% | ~36,148 |
-| Too Old for This | 48.00% | ~34,702 |
+| Downed but Not Outed | 74.00% | ~53,501 |
+| First One’s Free | 65.00% | ~46,994 |
+| Neophyte Ninja | 50.00% | ~36,149 |
+| Too Old for This | 48.00% | ~34,703 |
 | Case Closed | 35.00% | ~25,304 |
 | Fancy Pants | 35.00% | ~25,304 |
 | King of the Hill | 34.00% | ~24,581 |
 | Underworld Initiate | 29.00% | ~20,966 |
-| Roid Ranger | 21.00% | ~15,182 |
-| Off the Rocks | 20.00% | ~14,459 |
-| True Player | 19.00% | ~13,736 |
-| Raider’s Ruin | 17.00% | ~12,290 |
-| Dragonslayer | 17.00% | ~12,290 |
-| Hidden Sonata | 13.00% | ~9,398 |
+| Roid Ranger | 21.00% | ~15,183 |
+| Off the Rocks | 20.00% | ~14,460 |
+| True Player | 19.00% | ~13,737 |
+| Raider’s Ruin | 17.00% | ~12,291 |
+| Dragonslayer | 17.00% | ~12,291 |
+| Hidden Sonata | 13.00% | ~9,399 |
 | Rockay Rex | 11.00% | ~7,953 |
 | Track Star | 10.00% | ~7,230 |
 | Freebooter | 10.00% | ~7,230 |
@@ -43,7 +43,7 @@ Rating: 3.94 (Ranked 948)
 | Geek Out | 0.60% | ~434 |
 | Full House | 0.20% | ~145 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,296 (Ranked 78)  
+Progressed: 72,298 (Ranked 78)  
 Completed: 42 (0.06%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,18 +170,18 @@ Completed: 42 (0.06%) (Ranked 225)
 | 2023-08-22 | 72,196 | 41 |
 | 2023-08-23 | 72,253 | 41 |
 | 2023-08-24 | 72,287 | 41 |
-| 2023-08-25 | 72,296 | 42 |
+| 2023-08-25 | 72,298 | 42 |
 ## Awards
 Max (Diverse Characters): 406  (Ranked 215)  
-Sum: 1,931 (Ranked 203)  
-Diff (max vs sum): 12  
+Sum: 1,932 (Ranked 202)  
+Diff (max vs sum): 13  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 406 |
 | This game has Quickly Understood Controls | 396 |
 | This game is Highly Recommended | 389 |
 | This game has Challenging Combat | 374 |
-| This game has Amazing Characters | 366 |
+| This game has Amazing Characters | 367 |
 | This game is Great for Quick Sessions | 70 |
 | This game has Amazing Storytelling | 52 |
 | This game has a Silly Community | 33 |
@@ -335,4 +335,4 @@ Diff (max vs sum): 12
 | 2023-08-22 | 3.94 | 403 | 1,925 |
 | 2023-08-23 | 3.94 | 404 | 1,926 |
 | 2023-08-24 | 3.94 | 406 | 1,930 |
-| 2023-08-25 | 3.94 | 406 | 1,931 |
+| 2023-08-25 | 3.94 | 406 | 1,932 |

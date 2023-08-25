@@ -12,7 +12,7 @@ Number of Ratings: 209  (23.09.2022)
 | Rocket Launched | 97.00% | ~2,145 |
 | Speed | 97.00% | ~2,145 |
 | High Jump | 96.00% | ~2,123 |
-| Pickaxe | 94.00% | ~2,078 |
+| Pickaxe | 95.00% | ~2,100 |
 | Revenge | 94.00% | ~2,078 |
 | Cage Town | 94.00% | ~2,078 |
 | Force Beam | 93.00% | ~2,056 |

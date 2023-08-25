@@ -6,10 +6,10 @@ Rating: 4.56 (Ranked 473)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Huzza, he's back. | 88.00% | ~338 |
-| And again, and again, and... | 63.00% | ~242 |
+| And again, and again, and... | 64.00% | ~246 |
 | Burn, Elysium, burn! | 62.00% | ~238 |
-| Kuvaq Minigame-Master | 60.00% | ~230 |
-| FunScore | 54.00% | ~207 |
+| Kuvaq Minigame-Master | 61.00% | ~234 |
+| FunScore | 55.00% | ~211 |
 | Funtime's over | 53.00% | ~204 |
 | Chunky | 50.00% | ~192 |
 | Shall we play a game? | 49.00% | ~188 |
@@ -36,9 +36,9 @@ Rating: 4.56 (Ranked 473)
 | Sadist | 8.00% | ~31 |
 | The customer is always right | 7.00% | ~27 |
 | Apoca...huh? | 7.00% | ~27 |
+| Against better judgement | 7.00% | ~27 |
 | Distraction | 6.00% | ~23 |
 | Pacifist | 6.00% | ~23 |
-| Against better judgement | 6.00% | ~23 |
 | Every man for himself! | 5.00% | ~19 |
 | 1001 Jackalopes | 2.00% | ~8 |
 ## Popularity (Based on EOS Achievements)

@@ -17,7 +17,7 @@ Rating: 4.43 (Ranked 663)
 | From Darkness to Light | 48.00% | ~660 |
 | Editor Adept | 47.00% | ~646 |
 | Giant Killer | 45.00% | ~618 |
-| Sensei | 43.00% | ~591 |
+| Sensei | 44.00% | ~605 |
 | Firestarter | 42.00% | ~577 |
 | The meaning of Kain | 41.00% | ~563 |
 | Technophobe | 40.00% | ~550 |

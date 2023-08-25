@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 859)
 | Hoard Mode | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,889 (Ranked 116)  
+Progressed: 15,890 (Ranked 116)  
 Completed: 73 (0.46%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 73 (0.46%) (Ranked 152)
 | 2023-08-22 | 15,881 | 73 |
 | 2023-08-23 | 15,884 | 73 |
 | 2023-08-24 | 15,886 | 73 |
-| 2023-08-25 | 15,889 | 73 |
+| 2023-08-25 | 15,890 | 73 |
 ## Awards
 Max (Amazing Storytelling): 73  (Ranked 375)  
 Sum: 413 (Ranked 316)  

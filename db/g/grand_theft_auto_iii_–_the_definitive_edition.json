@@ -442,9 +442,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7587,
+  "EOS_Progressed": 7588,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -7627,6 +7627,11 @@
       "Time": "2023-08-25T07:09:44.0172693+00:00",
       "NumProgressed": 7587,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-08-25T13:12:16.7118389+00:00",
+      "NumProgressed": 7588,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 29,
@@ -7638,7 +7643,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6297
+      "UsersEstimate": 6298
     },
     {
       "ID": "ACH02",
@@ -7710,7 +7715,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2124
+      "UsersEstimate": 2125
     },
     {
       "ID": "ACH11",
@@ -7750,7 +7755,7 @@
       "Name": "Full Artillery",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "ACH16",
@@ -7822,7 +7827,7 @@
       "Name": "Dirty Money",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 910
+      "UsersEstimate": 911
     },
     {
       "ID": "ACH25",
@@ -7869,7 +7874,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7587,
+      "Progressed": 7588,
       "Completed": 47
     }
   ],
@@ -7877,8 +7882,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-08-24T22:01:07.1400968+00:00",
-  "LastChanged_Achievements": "2023-08-25T12:09:04.1233811+00:00",
+  "LastChanged_Achievements": "2023-08-25T13:12:16.7118383+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:48.3209377+00:00",
-  "LastUpdate_Ratings": "2023-08-25T12:01:17.8198891+00:00",
-  "LastUpdate_Achievements": "2023-08-25T12:09:04.1234462+00:00"
+  "LastUpdate_Ratings": "2023-08-25T13:05:05.290248+00:00",
+  "LastUpdate_Achievements": "2023-08-25T13:12:16.7119122+00:00"
 }

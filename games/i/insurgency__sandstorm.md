@@ -14,12 +14,12 @@ Number of Ratings: 1,316  (23.09.2022)
 | Lucky | 3.00% | ~13,087 |
 | Stylin' | 3.00% | ~13,087 |
 | Turf War | 3.00% | ~13,087 |
-| Banged | 2.00% | ~8,724 |
-| Checkpoint Victory | 2.00% | ~8,724 |
-| First Blood | 2.00% | ~8,724 |
-| Flaccid Paralysis | 2.00% | ~8,724 |
-| Push Victory | 2.00% | ~8,724 |
-| Self-destructive | 2.00% | ~8,724 |
+| Banged | 2.00% | ~8,725 |
+| Checkpoint Victory | 2.00% | ~8,725 |
+| First Blood | 2.00% | ~8,725 |
+| Flaccid Paralysis | 2.00% | ~8,725 |
+| Push Victory | 2.00% | ~8,725 |
+| Self-destructive | 2.00% | ~8,725 |
 | Blindfire | 1.00% | ~4,362 |
 | Ruthless | 1.00% | ~4,362 |
 | Semper Paratus | 1.00% | ~4,362 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~436 |
 | Road Hazard | 0.10% | ~436 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 436,220 (Ranked 38)  
+Progressed: 436,229 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,10 +169,10 @@ Completed: 2 (0.00%) (Ranked 263)
 | 2023-08-22 | 435,458 | 2 |
 | 2023-08-23 | 435,771 | 2 |
 | 2023-08-24 | 436,089 | 2 |
-| 2023-08-25 | 436,220 | 2 |
+| 2023-08-25 | 436,229 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 376  (Ranked 223)  
-Sum: 2,922 (Ranked 166)  
+Sum: 2,923 (Ranked 166)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
@@ -180,8 +180,8 @@ Diff (max vs sum): 57
 | This game has Challenging Combat | 352 |
 | This game is Extremely Fun | 344 |
 | This game has Competitive Players | 340 |
+| This game is Highly Recommended | 314 |
 | This game has Realistic Visuals | 314 |
-| This game is Highly Recommended | 313 |
 | This game has Amazing Storytelling | 307 |
 | This game has Amazing Characters | 305 |
 | This game has a Competitive Community | 271 |
@@ -404,3 +404,4 @@ Diff (max vs sum): 57
 | 2023-08-22 | 4.62 | - | 376 | 2,916 |
 | 2023-08-23 | 4.62 | - | 376 | 2,917 |
 | 2023-08-24 | 4.62 | - | 376 | 2,922 |
+| 2023-08-25 | 4.62 | - | 376 | 2,923 |

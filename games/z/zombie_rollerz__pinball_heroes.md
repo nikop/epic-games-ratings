@@ -8,7 +8,7 @@ Rating: 4.30 (Ranked 792)
 | Level Up! | 90.00% | ~130 |
 | Bullseye! | 86.00% | ~125 |
 | Graduation! | 81.00% | ~117 |
-| Villfir Forest | 77.00% | ~112 |
+| Villfir Forest | 78.00% | ~113 |
 | Right in the kisser! | 61.00% | ~88 |
 | The Thrower | 50.00% | ~72 |
 | Duscot Steamcity | 50.00% | ~72 |
@@ -18,7 +18,7 @@ Rating: 4.30 (Ranked 792)
 | Level Up!! | 39.00% | ~57 |
 | The Shield | 39.00% | ~57 |
 | The Tunneler | 39.00% | ~57 |
-| Kill-streak | 31.00% | ~45 |
+| Kill-streak | 32.00% | ~46 |
 | Topped up | 28.00% | ~41 |
 | The Idol | 28.00% | ~41 |
 | The Bird | 28.00% | ~41 |

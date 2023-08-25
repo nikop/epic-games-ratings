@@ -11,7 +11,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Burning City | 16.00% | ~1,770 |
 | Mythic Choices | 13.00% | ~1,438 |
 | Defender's Heart | 13.00% | ~1,438 |
-| Banner over the Citadel | 12.00% | ~1,327 |
+| Banner over the Citadel | 12.00% | ~1,328 |
 | Queen's Gratitude | 11.00% | ~1,217 |
 | Fifth Crusade | 7.00% | ~774 |
 | Embrace of the Abyss | 6.00% | ~664 |
@@ -21,12 +21,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Great Upstart | 5.00% | ~553 |
 | Voice from Your Dreams | 5.00% | ~553 |
 | All Paths Open | 5.00% | ~553 |
-| Path of the Azata | 4.00% | ~442 |
-| The Legacy | 4.00% | ~442 |
-| Divide and Rule | 4.00% | ~442 |
-| A Flame | 4.00% | ~442 |
-| Next-Door Play | 4.00% | ~442 |
-| Get the Toad | 4.00% | ~442 |
+| Path of the Azata | 4.00% | ~443 |
+| The Legacy | 4.00% | ~443 |
+| Divide and Rule | 4.00% | ~443 |
+| A Flame | 4.00% | ~443 |
+| Next-Door Play | 4.00% | ~443 |
+| Get the Toad | 4.00% | ~443 |
 | Heart of the Fallen Land | 3.00% | ~332 |
 | Path of the Trickster | 3.00% | ~332 |
 | Mythic Reinforcements | 3.00% | ~332 |
@@ -51,8 +51,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Not the Last Sarkorian | 1.00% | ~98 |
 | Path of the Legend | 0.90% | ~100 |
 | Truly Profane Gift | 0.90% | ~100 |
-| Path of the Dragon | 0.80% | ~88 |
-| End of Eternal Guard | 0.80% | ~88 |
+| Path of the Dragon | 0.80% | ~89 |
+| End of Eternal Guard | 0.80% | ~89 |
 | Playful Mood | 0.70% | ~77 |
 | Dreadful Dragon | 0.70% | ~77 |
 | Masterful Charge | 0.60% | ~66 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,062 (Ranked 122)  
+Progressed: 11,063 (Ranked 122)  
 Completed: 0 (0.00%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,7 +250,7 @@ Completed: 0 (0.00%) (Ranked 263)
 | 2023-08-22 | 11,031 | 0 |
 | 2023-08-23 | 11,042 | 0 |
 | 2023-08-24 | 11,054 | 0 |
-| 2023-08-25 | 11,062 | 0 |
+| 2023-08-25 | 11,063 | 0 |
 ## Awards
 Max (Character Customization): 1,701  (Ranked 118)  
 Sum: 6,903 (Ranked 114)  

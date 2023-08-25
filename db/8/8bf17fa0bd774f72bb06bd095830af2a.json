@@ -151,9 +151,9 @@
       "ID": "SteamAchievement_CompleteAllMapChallengeAtOnce",
       "SetID": "b8gj0ip",
       "Name": "One Fell Swoop",
-      "Percentage": 9,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SteamAchievement_KillDesertMonsters",
@@ -303,9 +303,9 @@
       "ID": "SteamAchievment_CompleteQuest03",
       "SetID": "b8gj0ip",
       "Name": "Cleansing of the Cursed Fountain",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SteamAchievment_CompleteQuest04",
@@ -454,8 +454,8 @@
   ],
   "FirstSeen": "2023-08-10T10:57:59.2838137+00:00",
   "FirstSeenAchievements": "2023-05-30T14:00:09.5243374+00:00",
-  "LastChanged_Achievements": "2023-08-25T12:06:50.8544771+00:00",
+  "LastChanged_Achievements": "2023-08-25T13:10:12.0984459+00:00",
   "LastUpdate_AppInfo": "2023-08-22T18:57:01.7235597+00:00",
-  "LastUpdate_Ratings": "2023-08-25T12:00:04.0797498+00:00",
-  "LastUpdate_Achievements": "2023-08-25T12:06:50.854505+00:00"
+  "LastUpdate_Ratings": "2023-08-25T13:03:57.2712291+00:00",
+  "LastUpdate_Achievements": "2023-08-25T13:10:12.0984764+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -314,17 +314,17 @@
       "ID": "dep4_achievement_19",
       "SetID": "5d32b60",
       "Name": "FunScore",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 211
     },
     {
       "ID": "dep4_achievement_2",
       "SetID": "5d32b60",
       "Name": "And again, and again, and...",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 246
     },
     {
       "ID": "dep4_achievement_20",
@@ -394,9 +394,9 @@
       "ID": "dep4_achievement_28",
       "SetID": "5d32b60",
       "Name": "Kuvaq Minigame-Master",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 230
+      "UsersEstimate": 234
     },
     {
       "ID": "dep4_achievement_29",
@@ -514,9 +514,9 @@
       "ID": "dep4_achievement_9",
       "SetID": "5d32b60",
       "Name": "Against better judgement",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 27
     }
   ],
   "AchievementSets": [
@@ -531,8 +531,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-04-17T16:58:11.036869+00:00",
-  "LastChanged_Achievements": "2023-08-25T12:06:15.8394797+00:00",
+  "LastChanged_Achievements": "2023-08-25T13:09:41.1983756+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:10.9773783+00:00",
-  "LastUpdate_Ratings": "2023-08-25T11:59:08.0493715+00:00",
-  "LastUpdate_Achievements": "2023-08-25T12:06:15.8395087+00:00"
+  "LastUpdate_Ratings": "2023-08-25T13:03:03.4191035+00:00",
+  "LastUpdate_Achievements": "2023-08-25T13:09:41.1984217+00:00"
 }
