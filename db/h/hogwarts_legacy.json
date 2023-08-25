@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewPlayers": 84,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -6652,18 +6652,24 @@
       "Rating": 4.77,
       "NumberOfAwards": 41496,
       "NumberOfAwardsMax": 21908
+    },
+    {
+      "Time": "2023-08-25T12:00:45.3685585+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 41511,
+      "NumberOfAwardsMax": 21923
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 41496,
-  "NumberOfAwardsMax": 21908,
+  "NumberOfAwards": 41511,
+  "NumberOfAwardsMax": 21923,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 21908
+      "Count": 21923
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -6732,9 +6738,9 @@
       "Count": 601
     }
   ],
-  "EOS_Progressed": 290764,
+  "EOS_Progressed": 290767,
   "EOS_Completed": 454,
-  "EOS_NewPlayers": 450,
+  "EOS_NewPlayers": 451,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -20387,6 +20393,11 @@
       "Time": "2023-08-25T11:03:24.5015826+00:00",
       "NumProgressed": 290764,
       "NumCompleted": 454
+    },
+    {
+      "Time": "2023-08-25T12:03:26.9288201+00:00",
+      "NumProgressed": 290767,
+      "NumCompleted": 454
     }
   ],
   "TotalAchievements": 45,
@@ -20398,7 +20409,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 37799
+      "UsersEstimate": 37800
     },
     {
       "ID": "PFA_10",
@@ -20422,7 +20433,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 29076
+      "UsersEstimate": 29077
     },
     {
       "ID": "PFA_13",
@@ -20446,7 +20457,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20353
+      "UsersEstimate": 20354
     },
     {
       "ID": "PFA_16",
@@ -20454,7 +20465,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29076
+      "UsersEstimate": 29077
     },
     {
       "ID": "PFA_17",
@@ -20462,7 +20473,7 @@
       "Name": "Beast Friends",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20353
+      "UsersEstimate": 20354
     },
     {
       "ID": "PFA_18",
@@ -20470,7 +20481,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20353
+      "UsersEstimate": 20354
     },
     {
       "ID": "PFA_19",
@@ -20478,7 +20489,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20353
+      "UsersEstimate": 20354
     },
     {
       "ID": "PFA_2",
@@ -20518,7 +20529,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29076
+      "UsersEstimate": 29077
     },
     {
       "ID": "PFA_24",
@@ -20582,7 +20593,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29076
+      "UsersEstimate": 29077
     },
     {
       "ID": "PFA_31",
@@ -20742,7 +20753,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29076
+      "UsersEstimate": 29077
     },
     {
       "ID": "PFA_9",
@@ -20757,16 +20768,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 290764,
+      "Progressed": 290767,
       "Completed": 454
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-08-25T11:00:37.6942826+00:00",
-  "LastChanged_Achievements": "2023-08-25T11:03:24.5015822+00:00",
+  "LastChanged": "2023-08-25T12:00:45.3685584+00:00",
+  "LastChanged_Achievements": "2023-08-25T12:03:26.9288196+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:55.8476503+00:00",
-  "LastUpdate_Ratings": "2023-08-25T11:00:37.6942833+00:00",
-  "LastUpdate_Achievements": "2023-08-25T11:03:24.5017747+00:00"
+  "LastUpdate_Ratings": "2023-08-25T12:00:45.3685594+00:00",
+  "LastUpdate_Achievements": "2023-08-25T12:03:26.9289493+00:00"
 }

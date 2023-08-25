@@ -167,9 +167,9 @@
       "ID": "MilitaryContract",
       "SetID": "bl5ebnd",
       "Name": "Military Contract",
-      "Percentage": 40,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "NewLife",
@@ -254,8 +254,8 @@
   ],
   "FirstSeen": "2023-08-17T18:58:24.9645981+00:00",
   "FirstSeenAchievements": "2023-08-07T14:05:00.198888+00:00",
-  "LastChanged_Achievements": "2023-08-25T11:07:32.7920925+00:00",
+  "LastChanged_Achievements": "2023-08-25T12:08:02.1540197+00:00",
   "LastUpdate_AppInfo": "2023-08-24T13:01:28.6254437+00:00",
-  "LastUpdate_Ratings": "2023-08-25T11:00:01.0109287+00:00",
-  "LastUpdate_Achievements": "2023-08-25T11:07:32.7921053+00:00"
+  "LastUpdate_Ratings": "2023-08-25T12:00:05.9652954+00:00",
+  "LastUpdate_Achievements": "2023-08-25T12:08:02.1540335+00:00"
 }

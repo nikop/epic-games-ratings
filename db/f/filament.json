@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 281,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewPlayers": 70,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -243,9 +243,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 199946,
+  "EOS_Progressed": 199951,
   "EOS_Completed": 489,
-  "EOS_NewPlayers": 584,
+  "EOS_NewPlayers": 585,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -13878,6 +13878,11 @@
       "Time": "2023-08-25T11:05:42.6643654+00:00",
       "NumProgressed": 199946,
       "NumCompleted": 489
+    },
+    {
+      "Time": "2023-08-25T12:05:59.5694469+00:00",
+      "NumProgressed": 199951,
+      "NumCompleted": 489
     }
   ],
   "TotalAchievements": 29,
@@ -13913,7 +13918,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 187949
+      "UsersEstimate": 187954
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -13927,9 +13932,9 @@
       "ID": "ACHIEVEMENT_BRIDGE_ENTER",
       "SetID": "1fd5amk",
       "Name": "I hope you\u0027re ready.",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1999
+      "UsersEstimate": 3999
     },
     {
       "ID": "ACHIEVEMENT_CARDS",
@@ -13961,7 +13966,7 @@
       "Name": "Answers can be found amongst the stars",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5998
+      "UsersEstimate": 5999
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTED",
@@ -13969,7 +13974,7 @@
       "Name": "Corrupted.",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 9997
+      "UsersEstimate": 9998
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTEDCOMPLETE",
@@ -14049,7 +14054,7 @@
       "Name": "Good things come in pairs... Coloured Pairs.",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 9997
+      "UsersEstimate": 9998
     },
     {
       "ID": "ACHIEVEMENT_REQUISITE",
@@ -14057,7 +14062,7 @@
       "Name": "Bend to the will of the arrows.",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5998
+      "UsersEstimate": 5999
     },
     {
       "ID": "ACHIEVEMENT_SECRET",
@@ -14089,7 +14094,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 13996
+      "UsersEstimate": 13997
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -14120,7 +14125,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 199946,
+      "Progressed": 199951,
       "Completed": 489
     }
   ],
@@ -14128,8 +14133,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-08-19T20:00:31.8399303+00:00",
-  "LastChanged_Achievements": "2023-08-25T11:05:42.664365+00:00",
+  "LastChanged_Achievements": "2023-08-25T12:05:59.5694464+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:20.1074044+00:00",
-  "LastUpdate_Ratings": "2023-08-25T10:57:24.3910854+00:00",
-  "LastUpdate_Achievements": "2023-08-25T11:05:42.664476+00:00"
+  "LastUpdate_Ratings": "2023-08-25T11:57:11.2719559+00:00",
+  "LastUpdate_Achievements": "2023-08-25T12:05:59.5695464+00:00"
 }

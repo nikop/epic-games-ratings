@@ -4,10 +4,10 @@
   "ProductSlug": "just-die-already",
   "Ranking_Rating": 527,
   "Ranking_Popularity": 335,
-  "Ranking_PopularitySum": 261,
+  "Ranking_PopularitySum": 269,
   "Ranking_EOS_Progress": 559,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewPlayers": 347,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-05-20T17:00:00+00:00",
@@ -1419,10 +1419,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 814,
       "NumberOfAwardsMax": 102
+    },
+    {
+      "Time": "2023-08-25T12:02:07.4970342+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 734,
+      "NumberOfAwardsMax": 102
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 814,
+  "NumberOfAwards": 734,
   "NumberOfAwardsMax": 102,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1510,8 +1516,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:50.679277+00:00",
-  "LastChanged": "2023-08-18T11:01:01.453831+00:00",
+  "LastChanged": "2023-08-25T12:02:07.4970341+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:28.5353688+00:00",
-  "LastUpdate_Ratings": "2023-08-25T11:01:44.5043952+00:00",
-  "LastUpdate_Achievements": "2023-08-25T11:03:56.4597478+00:00"
+  "LastUpdate_Ratings": "2023-08-25T12:02:07.4970346+00:00",
+  "LastUpdate_Achievements": "2023-08-25T12:03:59.2287432+00:00"
 }

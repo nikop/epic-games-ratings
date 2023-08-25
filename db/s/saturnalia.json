@@ -246,9 +246,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 65825,
+  "EOS_Progressed": 65826,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 196,
+  "EOS_NewPlayers": 197,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -8551,6 +8551,11 @@
       "Time": "2023-08-25T11:08:21.6276502+00:00",
       "NumProgressed": 65825,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-08-25T12:08:56.2660636+00:00",
+      "NumProgressed": 65826,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 20,
@@ -8562,7 +8567,7 @@
       "Name": "Denial",
       "Percentage": 2,
       "XP": 105,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1317
     },
     {
       "ID": "ACH_BONFIRES",
@@ -8650,7 +8655,7 @@
       "Name": "Acceptance",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1317
     },
     {
       "ID": "ACH_PHONECAPTURE",
@@ -8706,7 +8711,7 @@
       "Name": "Bargaining",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1317
     },
     {
       "ID": "ACH_TOOLS",
@@ -8721,7 +8726,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 65825,
+      "Progressed": 65826,
       "Completed": 13
     }
   ],
@@ -8729,8 +8734,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-08-21T22:59:54.6231731+00:00",
-  "LastChanged_Achievements": "2023-08-25T11:08:21.6276496+00:00",
+  "LastChanged_Achievements": "2023-08-25T12:08:56.2660629+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:58:01.6614907+00:00",
-  "LastUpdate_Ratings": "2023-08-25T11:00:46.1880249+00:00",
-  "LastUpdate_Achievements": "2023-08-25T11:08:21.6277652+00:00"
+  "LastUpdate_Ratings": "2023-08-25T12:00:54.0773158+00:00",
+  "LastUpdate_Achievements": "2023-08-25T12:08:56.2661285+00:00"
 }

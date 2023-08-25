@@ -59,6 +59,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fugitives | 0.20% | ~450 |
 | Excavating History | 0.20% | ~450 |
 | Premature Betrayal | 0.20% | ~450 |
+| Towering Expectations | 0.20% | ~450 |
 | Hopelessly Lost | 0.20% | ~450 |
 | Enter the Sargauth | 0.20% | ~450 |
 | Mad Cow Disease | 0.20% | ~450 |
@@ -284,7 +285,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Screams of the Dead | 0.10% | ~225 |
 | Frantic Excavation | 0.10% | ~225 |
 | Birds of a Feather | 0.10% | ~191 |
-| Towering Expectations | 0.10% | ~225 |
 | Guests of the Groom | 0.10% | ~225 |
 | Careful Consideration | 0.10% | ~225 |
 | Tanking Expectations | 0.10% | ~191 |
@@ -523,8 +523,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~191 |
 | Animated Giff | 0.10% | ~191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,792 (Ranked 53)  
-Completed: 2,213 (0.98%) (Ranked 122)  
+Progressed: 224,807 (Ranked 53)  
+Completed: 2,213 (0.98%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -650,7 +650,7 @@ Completed: 2,213 (0.98%) (Ranked 122)
 | 2023-08-22 | 224,213 | 2,207 |
 | 2023-08-23 | 224,434 | 2,210 |
 | 2023-08-24 | 224,686 | 2,211 |
-| 2023-08-25 | 224,792 | 2,213 |
+| 2023-08-25 | 224,807 | 2,213 |
 ## Awards
 Max (Diverse Characters): 5,182  (Ranked 68)  
 Sum: 31,201 (Ranked 39)  

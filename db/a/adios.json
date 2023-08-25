@@ -96,7 +96,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 71143,
+  "EOS_Progressed": 71147,
   "EOS_Completed": 721,
   "EOS_NewPlayers": 746,
   "EOS_NewCompleters": 9,
@@ -14121,6 +14121,11 @@
       "Time": "2023-08-25T11:05:26.3602409+00:00",
       "NumProgressed": 71143,
       "NumCompleted": 721
+    },
+    {
+      "Time": "2023-08-25T12:05:41.341257+00:00",
+      "NumProgressed": 71147,
+      "NumCompleted": 721
     }
   ],
   "TotalAchievements": 25,
@@ -14164,7 +14169,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 15651
+      "UsersEstimate": 15652
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -14252,7 +14257,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 13517
+      "UsersEstimate": 13518
     },
     {
       "ID": "Nice Try",
@@ -14260,7 +14265,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 11383
+      "UsersEstimate": 11384
     },
     {
       "ID": "Nothing Left to Say",
@@ -14276,7 +14281,7 @@
       "Name": "Piano Man",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 7114
+      "UsersEstimate": 7115
     },
     {
       "ID": "Right On Target",
@@ -14324,14 +14329,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 5691
+      "UsersEstimate": 5692
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 71143,
+      "Progressed": 71147,
       "Completed": 721
     }
   ],
@@ -14339,8 +14344,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-08-07T22:57:38.0235808+00:00",
-  "LastChanged_Achievements": "2023-08-25T11:05:26.3602401+00:00",
+  "LastChanged_Achievements": "2023-08-25T12:05:41.3412563+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:25.6740625+00:00",
-  "LastUpdate_Ratings": "2023-08-25T10:59:28.5497562+00:00",
-  "LastUpdate_Achievements": "2023-08-25T11:05:26.3603464+00:00"
+  "LastUpdate_Ratings": "2023-08-25T11:59:28.979729+00:00",
+  "LastUpdate_Achievements": "2023-08-25T12:05:41.3413645+00:00"
 }

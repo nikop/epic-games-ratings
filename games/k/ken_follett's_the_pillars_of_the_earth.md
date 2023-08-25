@@ -1,20 +1,20 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.51 (Ranked 543)  
+Rating: 4.51 (Ranked 542)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 41.00% | ~6,060 |
-| Man of politics | 35.00% | ~5,173 |
+| Tattletale | 41.00% | ~6,061 |
+| Man of politics | 35.00% | ~5,174 |
 | Yet another secret | 34.00% | ~5,026 |
 | Friends of sorts | 33.00% | ~4,878 |
 | Let there be darkness | 32.00% | ~4,730 |
-| End of Book One | 30.00% | ~4,434 |
-| Wannabe knight | 24.00% | ~3,547 |
-| Garden of Eden | 24.00% | ~3,547 |
-| Full house | 24.00% | ~3,547 |
+| End of Book One | 30.00% | ~4,435 |
+| Wannabe knight | 24.00% | ~3,548 |
+| Garden of Eden | 24.00% | ~3,548 |
+| Full house | 24.00% | ~3,548 |
 | Help an old friend | 22.00% | ~3,252 |
 | Two of us | 20.00% | ~2,956 |
 | Negotiation skills | 18.00% | ~2,661 |
@@ -35,7 +35,7 @@ Number of Ratings: 368  (23.09.2022)
 | The oath | 9.00% | ~1,330 |
 | The truth revealed | 9.00% | ~1,330 |
 | The End. | 9.00% | ~1,330 |
-| A cry for help | 8.00% | ~1,182 |
+| A cry for help | 8.00% | ~1,183 |
 | Silentium est aureum | 7.00% | ~1,035 |
 | Rebel without a cause | 6.00% | ~887 |
 | Staring contest champion | 5.00% | ~739 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~443 |
 | Boy of mystery | 2.00% | ~296 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,781 (Ranked 118)  
+Progressed: 14,782 (Ranked 118)  
 Completed: 110 (0.74%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 110 (0.74%) (Ranked 129)
 | 2023-08-22 | 14,737 | 109 |
 | 2023-08-23 | 14,749 | 110 |
 | 2023-08-24 | 14,774 | 110 |
-| 2023-08-25 | 14,781 | 110 |
+| 2023-08-25 | 14,782 | 110 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 299)  
 Sum: 188 (Ranked 375)  

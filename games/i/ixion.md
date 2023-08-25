@@ -1,14 +1,14 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.55 (Ranked 485)  
+Rating: 4.55 (Ranked 486)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 26.00% | ~805 |
 | Sputnik 2049 | 23.00% | ~713 |
+| Infinite Growth... | 22.00% | ~682 |
 | Without Breaking Some Eggs... | 21.00% | ~651 |
-| Infinite Growth... | 21.00% | ~651 |
 | Space Society | 15.00% | ~465 |
 | A Thousand Strong | 15.00% | ~465 |
 | Ready for a New World | 15.00% | ~465 |

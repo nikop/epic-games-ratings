@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 47,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_NewPlayers": 89,
   "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -5734,9 +5734,9 @@
       "Count": 3737
     }
   ],
-  "EOS_Progressed": 135062,
+  "EOS_Progressed": 135068,
   "EOS_Completed": 138,
-  "EOS_NewPlayers": 358,
+  "EOS_NewPlayers": 362,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -18714,6 +18714,11 @@
       "Time": "2023-08-25T11:07:55.7627009+00:00",
       "NumProgressed": 135062,
       "NumCompleted": 138
+    },
+    {
+      "Time": "2023-08-25T12:08:27.5144199+00:00",
+      "NumProgressed": 135068,
+      "NumCompleted": 138
     }
   ],
   "TotalAchievements": 112,
@@ -18763,9 +18768,9 @@
       "ID": "argon_a",
       "SetID": "anfd17p",
       "Name": "Proud Paladin",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 405
     },
     {
       "ID": "ascend01",
@@ -18805,7 +18810,7 @@
       "Name": "One Easy Payment",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1080
+      "UsersEstimate": 1081
     },
     {
       "ID": "bigsale02",
@@ -18829,7 +18834,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1080
+      "UsersEstimate": 1081
     },
     {
       "ID": "blueprint02",
@@ -19077,7 +19082,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1080
+      "UsersEstimate": 1081
     },
     {
       "ID": "energy02",
@@ -19309,7 +19314,7 @@
       "Name": "Budding Merchant",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1080
+      "UsersEstimate": 1081
     },
     {
       "ID": "level02",
@@ -19589,7 +19594,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1080
+      "UsersEstimate": 1081
     },
     {
       "ID": "workers02",
@@ -19620,15 +19625,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135062,
+      "Progressed": 135068,
       "Completed": 138
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-24T23:02:08.8227726+00:00",
-  "LastChanged_Achievements": "2023-08-25T11:07:55.7627001+00:00",
+  "LastChanged_Achievements": "2023-08-25T12:08:27.5144196+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:50.7489496+00:00",
-  "LastUpdate_Ratings": "2023-08-25T11:01:56.63641+00:00",
-  "LastUpdate_Achievements": "2023-08-25T11:07:55.7631215+00:00"
+  "LastUpdate_Ratings": "2023-08-25T12:02:24.0243108+00:00",
+  "LastUpdate_Achievements": "2023-08-25T12:08:27.5146415+00:00"
 }
