@@ -3,13 +3,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Highly Sprung | 100.00% | ~5 |
-| The Prison | 40.00% | ~2 |
-| Fun and Games Ahead | 20.00% | ~1 |
-| Six's Song | 20.00% | ~1 |
-| The Guest Area | 20.00% | ~1 |
-| The Lair | 20.00% | ~1 |
-| We'll Meet Again | 20.00% | ~1 |
+| Highly Sprung | 83.00% | ~5 |
+| The Prison | 33.00% | ~2 |
+| Fun and Games Ahead | 17.00% | ~1 |
+| Six's Song | 17.00% | ~1 |
+| The Guest Area | 17.00% | ~1 |
+| The Lair | 17.00% | ~1 |
+| We'll Meet Again | 17.00% | ~1 |
 | Ashes in The Maw | 0.00% | ~0 |
 | Ashes to Ashes | 0.00% | ~0 |
 | Elusive | 0.00% | ~0 |
@@ -26,7 +26,7 @@
 | The Kitchen | 0.00% | ~0 |
 | The Lady's Quarters | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5 (Ranked 473)  
+Progressed: 6 (Ranked 466)  
 Completed: 0 (0.00%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -34,3 +34,4 @@ Completed: 0 (0.00%) (Ranked 263)
 | 2023-08-02 | 2 | 0 |
 | 2023-08-03 | 3 | 0 |
 | 2023-08-07 | 5 | 0 |
+| 2023-08-25 | 6 | 0 |

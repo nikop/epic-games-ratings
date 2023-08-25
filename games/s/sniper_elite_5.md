@@ -26,13 +26,13 @@ Rating: 4.45 (Ranked 636)
 | Der Geist | 15.00% | ~529 |
 | Close Quarters | 15.00% | ~529 |
 | Skirmisher | 14.00% | ~494 |
+| Die Nussknacker Sweet! | 14.00% | ~494 |
 | Snake in the Grass | 14.00% | ~494 |
 | Brains of the Operation | 14.00% | ~494 |
 | No Stone Unturned | 13.00% | ~458 |
 | Opposing Force | 13.00% | ~458 |
 | Enemy at the Gates | 13.00% | ~458 |
 | Fields of Glory | 13.00% | ~458 |
-| Die Nussknacker Sweet! | 13.00% | ~458 |
 | Set Europe Ablaze | 12.00% | ~423 |
 | Precision Is Key | 9.00% | ~317 |
 | My Little Friend | 9.00% | ~317 |
@@ -70,7 +70,7 @@ Rating: 4.45 (Ranked 636)
 | Alpha | 1.00% | ~35 |
 | Das Familienjuwel | 1.00% | ~35 |
 | Master of Secondaries | 0.90% | ~32 |
-| Master of Rifles | 0.80% | ~28 |
+| Master of Rifles | 0.90% | ~32 |
 | Master of Pistols | 0.70% | ~25 |
 | Master-at-arms | 0.70% | ~25 |
 | Operation Overlord | 0.70% | ~24 |

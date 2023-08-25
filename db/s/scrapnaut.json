@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 176,
   "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -1089,17 +1089,17 @@
       "ID": "ACH_COLLECT_10_HERBS",
       "SetID": "7c4cldc",
       "Name": "Herbalist",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 107
     },
     {
       "ID": "ACH_COLLECT_10_MUSHROOMS",
       "SetID": "7c4cldc",
       "Name": "Mushroom Picker",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 200
+      "UsersEstimate": 203
     },
     {
       "ID": "ACH_COLLECT_20_RED_BOOKS",
@@ -1145,9 +1145,9 @@
       "ID": "ACH_COOK",
       "SetID": "7c4cldc",
       "Name": "Cook",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 154
     },
     {
       "ID": "ACH_CUT_100_TREES",
@@ -1306,8 +1306,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-08-25T16:06:12.8694009+00:00",
+  "LastChanged_Achievements": "2023-08-25T17:05:32.8829079+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:50.1715597+00:00",
-  "LastUpdate_Ratings": "2023-08-25T16:02:04.9733387+00:00",
-  "LastUpdate_Achievements": "2023-08-25T16:06:12.869431+00:00"
+  "LastUpdate_Ratings": "2023-08-25T17:00:59.3891325+00:00",
+  "LastUpdate_Achievements": "2023-08-25T17:05:32.8829321+00:00"
 }

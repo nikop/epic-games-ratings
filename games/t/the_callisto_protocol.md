@@ -6,7 +6,7 @@ Rating: 4.20 (Ranked 859)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Get a Grip | 6.00% | ~953 |
-| Paper Jams | 5.00% | ~794 |
+| Paper Jams | 5.00% | ~795 |
 | Flesh Wound | 4.00% | ~636 |
 | Float Like A Butterfly | 4.00% | ~636 |
 | Keep Fighting | 4.00% | ~153 |
@@ -25,7 +25,7 @@ Rating: 4.20 (Ranked 859)
 | Crash Site | 3.00% | ~477 |
 | Full Circle | 3.00% | ~477 |
 | Power Up | 3.00% | ~477 |
-| It's Time | 3.00% | ~114 |
+| It's Time | 3.00% | ~115 |
 | Giving Back | 2.00% | ~318 |
 | Terminated | 2.00% | ~318 |
 | The Commonality | 2.00% | ~318 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 859)
 | Hoard Mode | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,890 (Ranked 116)  
+Progressed: 15,891 (Ranked 116)  
 Completed: 73 (0.46%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 73 (0.46%) (Ranked 152)
 | 2023-08-22 | 15,881 | 73 |
 | 2023-08-23 | 15,884 | 73 |
 | 2023-08-24 | 15,886 | 73 |
-| 2023-08-25 | 15,890 | 73 |
+| 2023-08-25 | 15,891 | 73 |
 ## Awards
 Max (Amazing Storytelling): 73  (Ranked 375)  
 Sum: 413 (Ranked 316)  

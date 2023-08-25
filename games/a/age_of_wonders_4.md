@@ -10,16 +10,16 @@ Rating: 4.61 (Ranked 366)
 | A Wonderful Discovery | 6.00% | ~308 |
 | Walls Cannot Stop Us | 6.00% | ~308 |
 | Tipping the Scales | 6.00% | ~308 |
-| Full Ascension | 5.00% | ~256 |
-| Bone Peddler | 5.00% | ~256 |
-| From Friends to Family | 5.00% | ~256 |
-| Stronger Together | 5.00% | ~256 |
-| Magical Synergy | 5.00% | ~256 |
-| My Final Form | 5.00% | ~256 |
-| Seat of Power | 5.00% | ~256 |
-| Intimidation Tactics | 5.00% | ~256 |
-| Blood of the Dragon | 5.00% | ~256 |
-| Mighty Hoard | 5.00% | ~256 |
+| Full Ascension | 5.00% | ~257 |
+| Bone Peddler | 5.00% | ~257 |
+| From Friends to Family | 5.00% | ~257 |
+| Stronger Together | 5.00% | ~257 |
+| Magical Synergy | 5.00% | ~257 |
+| My Final Form | 5.00% | ~257 |
+| Seat of Power | 5.00% | ~257 |
+| Intimidation Tactics | 5.00% | ~257 |
+| Blood of the Dragon | 5.00% | ~257 |
+| Mighty Hoard | 5.00% | ~257 |
 | Valley of Wonders | 4.00% | ~205 |
 | There Can Only Be One! | 4.00% | ~205 |
 | In a Liege of Your Own | 4.00% | ~205 |
@@ -56,7 +56,7 @@ Rating: 4.61 (Ranked 366)
 | The Grey Wizard | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,130 (Ranked 144)  
+Progressed: 5,131 (Ranked 144)  
 Completed: 5 (0.10%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,6 +166,7 @@ Completed: 5 (0.10%) (Ranked 210)
 | 2023-08-22 | 5,127 | 5 |
 | 2023-08-23 | 5,129 | 5 |
 | 2023-08-24 | 5,130 | 5 |
+| 2023-08-25 | 5,131 | 5 |
 ## Awards
 Max (Great for Beginners): 21  (Ranked 503)  
 Sum: 21 (Ranked 503)  

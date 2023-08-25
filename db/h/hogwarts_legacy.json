@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 84,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -6744,9 +6744,9 @@
       "Count": 601
     }
   ],
-  "EOS_Progressed": 290774,
+  "EOS_Progressed": 290775,
   "EOS_Completed": 454,
-  "EOS_NewPlayers": 443,
+  "EOS_NewPlayers": 441,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -20419,6 +20419,11 @@
       "Time": "2023-08-25T16:03:08.8371035+00:00",
       "NumProgressed": 290774,
       "NumCompleted": 454
+    },
+    {
+      "Time": "2023-08-25T17:03:14.4019194+00:00",
+      "NumProgressed": 290775,
+      "NumCompleted": 454
     }
   ],
   "TotalAchievements": 45,
@@ -20454,7 +20459,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 29077
+      "UsersEstimate": 29078
     },
     {
       "ID": "PFA_13",
@@ -20486,7 +20491,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29077
+      "UsersEstimate": 29078
     },
     {
       "ID": "PFA_17",
@@ -20526,7 +20531,7 @@
       "Name": "The Good Samaritan",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 5815
+      "UsersEstimate": 5816
     },
     {
       "ID": "PFA_21",
@@ -20550,7 +20555,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29077
+      "UsersEstimate": 29078
     },
     {
       "ID": "PFA_24",
@@ -20590,7 +20595,7 @@
       "Name": "Put Down Roots",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5815
+      "UsersEstimate": 5816
     },
     {
       "ID": "PFA_29",
@@ -20606,7 +20611,7 @@
       "Name": "The Auror\u0027s Apprentice",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5815
+      "UsersEstimate": 5816
     },
     {
       "ID": "PFA_30",
@@ -20614,7 +20619,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29077
+      "UsersEstimate": 29078
     },
     {
       "ID": "PFA_31",
@@ -20662,7 +20667,7 @@
       "Name": "Rise to the Challenges",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 5815
+      "UsersEstimate": 5816
     },
     {
       "ID": "PFA_37",
@@ -20726,7 +20731,7 @@
       "Name": "Finishing Touches",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5815
+      "UsersEstimate": 5816
     },
     {
       "ID": "PFA_44",
@@ -20774,7 +20779,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29077
+      "UsersEstimate": 29078
     },
     {
       "ID": "PFA_9",
@@ -20789,7 +20794,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 290774,
+      "Progressed": 290775,
       "Completed": 454
     }
   ],
@@ -20797,8 +20802,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-08-25T15:00:39.6250301+00:00",
-  "LastChanged_Achievements": "2023-08-25T16:03:08.837103+00:00",
+  "LastChanged_Achievements": "2023-08-25T17:03:14.4019184+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:55.8476503+00:00",
-  "LastUpdate_Ratings": "2023-08-25T16:00:38.9782705+00:00",
-  "LastUpdate_Achievements": "2023-08-25T16:03:08.8372743+00:00"
+  "LastUpdate_Ratings": "2023-08-25T17:00:00.8839206+00:00",
+  "LastUpdate_Achievements": "2023-08-25T17:03:14.4020544+00:00"
 }

@@ -4,11 +4,11 @@
   "ProductSlug": "hand-of-fate-2",
   "Ranking_Rating": 473,
   "Ranking_Popularity": 437,
-  "Ranking_PopularitySum": 377,
+  "Ranking_PopularitySum": 376,
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -818,10 +818,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 183,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-08-25T17:00:16.7924482+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 184,
+      "NumberOfAwardsMax": 35
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 183,
+  "NumberOfAwards": 184,
   "NumberOfAwardsMax": 35,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -841,7 +847,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game is Highly Recommended",
@@ -874,7 +880,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 661278,
+  "EOS_Progressed": 661281,
   "EOS_Completed": 168,
   "EOS_NewPlayers": 314,
   "EOS_NewCompleters": 0,
@@ -12899,6 +12905,11 @@
       "Time": "2023-08-25T16:06:43.6920913+00:00",
       "NumProgressed": 661278,
       "NumCompleted": 168
+    },
+    {
+      "Time": "2023-08-25T17:05:57.8575854+00:00",
+      "NumProgressed": 661281,
+      "NumCompleted": 168
     }
   ],
   "TotalAchievements": 48,
@@ -12910,7 +12921,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 476120
+      "UsersEstimate": 476122
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -12918,7 +12929,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 383541
+      "UsersEstimate": 383543
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -12926,7 +12937,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 152094
+      "UsersEstimate": 152095
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -12982,7 +12993,7 @@
       "Name": "Long Shot",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46289
+      "UsersEstimate": 46290
     },
     {
       "ID": "Achievement_11_Grifter",
@@ -13046,7 +13057,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 152094
+      "UsersEstimate": 152095
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -13062,7 +13073,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 112417
+      "UsersEstimate": 112418
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -13142,7 +13153,7 @@
       "Name": "Devil Dice",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46289
+      "UsersEstimate": 46290
     },
     {
       "ID": "Achievement_31_Master_of_Arms",
@@ -13150,7 +13161,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 79353
+      "UsersEstimate": 79354
     },
     {
       "ID": "Achievement_32_Karma",
@@ -13222,7 +13233,7 @@
       "Name": "Broken Heart",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46289
+      "UsersEstimate": 46290
     },
     {
       "ID": "Achievement_41_Draknars_Bane",
@@ -13293,15 +13304,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 661278,
+      "Progressed": 661281,
       "Completed": 168
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
-  "LastChanged": "2023-08-21T04:59:27.6995602+00:00",
-  "LastChanged_Achievements": "2023-08-25T16:06:43.6920903+00:00",
+  "LastChanged": "2023-08-25T17:00:16.792448+00:00",
+  "LastChanged_Achievements": "2023-08-25T17:05:57.8575849+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:36.6517701+00:00",
-  "LastUpdate_Ratings": "2023-08-25T16:01:00.2168253+00:00",
-  "LastUpdate_Achievements": "2023-08-25T16:06:43.6922287+00:00"
+  "LastUpdate_Ratings": "2023-08-25T17:00:16.7924486+00:00",
+  "LastUpdate_Achievements": "2023-08-25T17:05:57.8577051+00:00"
 }

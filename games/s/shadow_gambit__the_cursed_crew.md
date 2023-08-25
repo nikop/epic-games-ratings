@@ -6,21 +6,21 @@
 | ---- | ---------- | ----- |
 | A New Journey | 75.00% | ~371 |
 | The Adventure Begins | 53.00% | ~262 |
-| Swabbie | 37.00% | ~183 |
-| With Great Power… | 33.00% | ~163 |
+| Swabbie | 38.00% | ~188 |
+| With Great Power… | 34.00% | ~168 |
 | This Belongs in a Museum | 28.00% | ~139 |
 | The Gambit Has Begun | 21.00% | ~104 |
-| Powder Monkey | 20.00% | ~99 |
+| Powder Monkey | 21.00% | ~104 |
 | Somewhere Deep in the Lost Caribbean | 17.00% | ~84 |
 | Mirror Mirror on the Wall | 16.00% | ~79 |
-| Fishy Fish | 15.00% | ~74 |
+| Fishy Fish | 16.00% | ~79 |
 | Buccaneer | 12.00% | ~59 |
 | Pirates Assemble! | 12.00% | ~59 |
 | Persistent Parasite | 11.00% | ~54 |
 | Seadog | 7.00% | ~35 |
+| All Good Things | 6.00% | ~30 |
 | Jaded Judge | 6.00% | ~30 |
 | Rustic Recipe | 6.00% | ~30 |
-| All Good Things | 5.00% | ~25 |
 | Privateer | 4.00% | ~20 |
 | Tobacco Travesty | 4.00% | ~20 |
 | Accursed Artifacts | 4.00% | ~20 |

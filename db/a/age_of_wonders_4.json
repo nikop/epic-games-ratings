@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -312,9 +312,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5130,
+  "EOS_Progressed": 5131,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5877,6 +5877,11 @@
       "Time": "2023-08-24T13:10:54.6484798+00:00",
       "NumProgressed": 5130,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-25T17:06:41.5729473+00:00",
+      "NumProgressed": 5131,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 50,
@@ -5928,7 +5933,7 @@
       "Name": "Full Ascension",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "15",
@@ -6032,7 +6037,7 @@
       "Name": "Bone Peddler",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "27",
@@ -6048,7 +6053,7 @@
       "Name": "From Friends to Family",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "29",
@@ -6056,7 +6061,7 @@
       "Name": "Stronger Together",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "3",
@@ -6080,7 +6085,7 @@
       "Name": "Magical Synergy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "32",
@@ -6088,7 +6093,7 @@
       "Name": "My Final Form",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "33",
@@ -6096,7 +6101,7 @@
       "Name": "Seat of Power",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "34",
@@ -6160,7 +6165,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "41",
@@ -6264,7 +6269,7 @@
       "Name": "Blood of the Dragon",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "49",
@@ -6272,7 +6277,7 @@
       "Name": "Mighty Hoard",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "50",
@@ -6287,13 +6292,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5130,
+      "Progressed": 5131,
       "Completed": 4761
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5130,
+      "Progressed": 5131,
       "Completed": 5
     }
   ],
@@ -6301,8 +6306,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-08-21T00:00:31.9123322+00:00",
-  "LastChanged_Achievements": "2023-08-25T16:07:47.8322279+00:00",
+  "LastChanged_Achievements": "2023-08-25T17:06:41.5729467+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:57.2565325+00:00",
-  "LastUpdate_Ratings": "2023-08-25T15:57:32.4251666+00:00",
-  "LastUpdate_Achievements": "2023-08-25T16:07:47.8322984+00:00"
+  "LastUpdate_Ratings": "2023-08-25T16:57:22.5561251+00:00",
+  "LastUpdate_Achievements": "2023-08-25T17:06:41.5730351+00:00"
 }

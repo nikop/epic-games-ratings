@@ -45,9 +45,9 @@
 | Responsible approach | 41.00% | ~109 |
 | Poisoned fighter | 40.00% | ~106 |
 | Your own way | 40.00% | ~106 |
+| GYM professional | 39.00% | ~103 |
 | Underground dwellers | 39.00% | ~103 |
 | Deal with life | 38.00% | ~101 |
-| GYM professional | 38.00% | ~101 |
 | Get out of my apartment! | 38.00% | ~101 |
 | Mom got better | 37.00% | ~98 |
 | The die is cast | 37.00% | ~98 |
@@ -57,13 +57,13 @@
 | Undercover robot | 35.00% | ~93 |
 | Not little hacker | 34.00% | ~90 |
 | Absolute Champion! | 34.00% | ~90 |
+| Careerist | 33.00% | ~87 |
 | Trap disarmed | 32.00% | ~85 |
 | Another world | 32.00% | ~85 |
 | The lonesome road | 32.00% | ~85 |
 | Keep nature safe | 32.00% | ~85 |
 | Family comes first | 32.00% | ~85 |
 | Key memories | 32.00% | ~85 |
-| Careerist | 32.00% | ~85 |
 | Anyone can resist | 32.00% | ~85 |
 | The heart of the Resistance | 32.00% | ~85 |
 | The last bell ring | 31.00% | ~82 |

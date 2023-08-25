@@ -2,13 +2,13 @@
   "ID": "6daaf10529e94fccaa8ee43b66adbe4a",
   "Name": "Pathfinder: Kingmaker - Enhanced Plus Edition",
   "ProductSlug": "pathfinder-kingmaker",
-  "Ranking_Rating": 450,
+  "Ranking_Rating": 427,
   "Ranking_Popularity": 93,
   "Ranking_PopularitySum": 96,
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-05-13T19:30:00+00:00",
     "PcReleaseDate": "2021-05-13T19:30:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.57,
+  "Rating": 4.58,
   "NumberOfRatings": 3868,
   "RatingHistory": [
     {
@@ -4551,10 +4551,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 8583,
       "NumberOfAwardsMax": 3220
+    },
+    {
+      "Time": "2023-08-25T16:57:58.4314724+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 8584,
+      "NumberOfAwardsMax": 3220
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8583,
+  "NumberOfAwards": 8584,
   "NumberOfAwardsMax": 3220,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4622,7 +4628,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 204
+      "Count": 205
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4648,8 +4654,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:35.6101884+00:00",
-  "LastChanged": "2023-08-25T03:58:15.9894243+00:00",
+  "LastChanged": "2023-08-25T16:57:58.4314723+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:33.222897+00:00",
-  "LastUpdate_Ratings": "2023-08-25T15:58:19.4799281+00:00",
-  "LastUpdate_Achievements": "2023-08-25T16:05:35.6788753+00:00"
+  "LastUpdate_Ratings": "2023-08-25T16:57:58.4314731+00:00",
+  "LastUpdate_Achievements": "2023-08-25T17:05:03.3301574+00:00"
 }

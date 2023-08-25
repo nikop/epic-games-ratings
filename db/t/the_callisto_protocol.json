@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 316,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 152,
-  "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1112,9 +1112,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 15890,
+  "EOS_Progressed": 15891,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -6662,6 +6662,11 @@
       "Time": "2023-08-25T13:09:16.1000775+00:00",
       "NumProgressed": 15890,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-08-25T17:04:45.8422236+00:00",
+      "NumProgressed": 15891,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 47,
@@ -6849,7 +6854,7 @@
       "Name": "Paper Jams",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 794
+      "UsersEstimate": 795
     },
     {
       "ID": "SHARE_PHOTO",
@@ -7033,7 +7038,7 @@
       "Name": "It\u0027s Time",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "LOCK_UNDER_7SEC",
@@ -7048,13 +7053,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15890,
+      "Progressed": 15891,
       "Completed": 73
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3816,
+      "Progressed": 3817,
       "Completed": 29
     }
   ],
@@ -7062,8 +7067,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-08-23T23:00:05.4454057+00:00",
-  "LastChanged_Achievements": "2023-08-25T16:05:13.8056525+00:00",
+  "LastChanged_Achievements": "2023-08-25T17:04:45.842223+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:05.6628472+00:00",
-  "LastUpdate_Ratings": "2023-08-25T16:01:30.663476+00:00",
-  "LastUpdate_Achievements": "2023-08-25T16:05:13.8057682+00:00"
+  "LastUpdate_Ratings": "2023-08-25T17:00:36.4613909+00:00",
+  "LastUpdate_Achievements": "2023-08-25T17:04:45.8423051+00:00"
 }

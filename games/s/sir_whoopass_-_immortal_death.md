@@ -24,9 +24,9 @@
 | Butcher | 52.00% | ~49 |
 | Spare Ribs | 52.00% | ~49 |
 | Honk honk! | 51.00% | ~48 |
-| Cockadoodledoo! | 50.00% | ~47 |
+| Cockadoodledoo! | 51.00% | ~48 |
+| Thats disgusting! | 48.00% | ~45 |
 | My pants squeak when I walk | 47.00% | ~44 |
-| Thats disgusting! | 47.00% | ~44 |
 | Surprise!! | 44.00% | ~41 |
 | Haemochromatosis | 43.00% | ~40 |
 | Self assessed tax return | 41.00% | ~39 |

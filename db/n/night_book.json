@@ -4,8 +4,8 @@
   "ProductSlug": "night-book-77f2c7",
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 96,
-  "Ranking_EOS_NewPlayers": 278,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
     "PcReleaseDate": "2021-07-27T17:00:00+00:00",
@@ -282,9 +282,9 @@
       "ID": "impress_theron",
       "SetID": "a3kkelb",
       "Name": "Impress Theron",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 97
+      "UsersEstimate": 99
     },
     {
       "ID": "marriage_is_off",
@@ -387,8 +387,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2023-08-25T16:04:41.9428362+00:00",
+  "LastChanged_Achievements": "2023-08-25T17:04:28.7497698+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:57.9237011+00:00",
-  "LastUpdate_Ratings": "2023-08-25T16:00:45.3219453+00:00",
-  "LastUpdate_Achievements": "2023-08-25T16:04:41.9428514+00:00"
+  "LastUpdate_Ratings": "2023-08-25T17:00:05.312662+00:00",
+  "LastUpdate_Achievements": "2023-08-25T17:04:28.7497835+00:00"
 }
