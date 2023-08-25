@@ -336,6 +336,7 @@
 | [De-Exit - Eternal Matters](../games/d/de-exit_-_eternal_matters.md) | 29 | 1,000 |
 | [Filament](../games/f/filament.md) | 29 | 1,000 |
 | [Grand Theft Auto III – The Definitive Edition](../games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 29 | 1,000 |
+| [Q.U.B.E. 2](../games/q/q.u.b.e._2.md) | 29 | 1,000 |
 | [Slain: Back From Hell](../games/s/slain__back_from_hell.md) | 29 | 1,000 |
 | [The Uncertain: Light at the End](../games/t/the_uncertain__light_at_the_end.md) | 29 | 1,000 |
 | [Time Loader](../games/t/time_loader.md) | 29 | 1,000 |
