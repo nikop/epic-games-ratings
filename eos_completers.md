@@ -20,7 +20,7 @@
 | 18 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.55% |
 | 19 | [Anna's Quest](games/a/anna's_quest.md) | 13.51% |
 | 20 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 12.50% |
-| 21 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.12% |
+| 21 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.11% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 11.36% |
 | 23 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.17% |
 | 24 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
@@ -43,7 +43,7 @@
 | 41 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.79% |
 | 42 | [Time Loader](games/t/time_loader.md) | 6.78% |
 | 43 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 6.67% |
-| 43 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.67% |
+| 44 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.56% |
 | 45 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 46 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 47 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.88% |
@@ -89,7 +89,7 @@
 | 87 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 88 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.42% |
 | 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.27% |
-| 90 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.26% |
+| 90 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.24% |
 | 91 | [Bloodshore](games/b/bloodshore.md) | 2.21% |
 | 92 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
 | 93 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.01% |
@@ -175,9 +175,9 @@
 | 173 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
 | 173 | [The First Tree](games/t/the_first_tree.md) | 0.30% |
 | 175 | [Against the Storm](games/a/against_the_storm.md) | 0.29% |
-| 176 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
-| 176 | [Scrapnaut](games/s/scrapnaut.md) | 0.28% |
-| 176 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.28% |
+| 175 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
+| 177 | [Scrapnaut](games/s/scrapnaut.md) | 0.28% |
+| 177 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.28% |
 | 179 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.26% |
 | 180 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
 | 181 | [Despot's Game](games/d/despot's_game.md) | 0.24% |
@@ -558,4 +558,4 @@
 | 263 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 263 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 263 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,110 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,111 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
