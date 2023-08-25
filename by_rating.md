@@ -3,7 +3,7 @@
 | 1 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 0 | 514 |
 | 1 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 0 | 514 |
 | 3 | [Celeste](games/c/celeste.md) | 4.92 | 1,568 | 119 |
-| 3 | [Hades](games/h/hades.md) | 4.92 | 3,231 | 91 |
+| 3 | [Hades](games/h/hades.md) | 4.92 | 3,233 | 91 |
 | 3 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 4.92 | 0 | 514 |
 | 6 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.91 | 0 | 514 |
 | 7 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 0 | 514 |
@@ -516,7 +516,7 @@
 | 514 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 514 |
 | 514 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.53 | 24 | 484 |
 | 514 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 514 |
-| 514 | [Dauntless](games/d/dauntless.md) | 4.53 | 21,450 | 18 |
+| 514 | [Dauntless](games/d/dauntless.md) | 4.53 | 21,467 | 18 |
 | 514 | [Everything](games/e/everything.md) | 4.53 | 0 | 514 |
 | 514 | [Far Cry](games/f/far_cry.md) | 4.53 | 0 | 514 |
 | 514 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 1,411 | 127 |
@@ -546,7 +546,7 @@
 | 543 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,114 | 80 |
 | 543 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 514 |
 | 543 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 41 | 423 |
-| 543 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.51 | 2,678 | 96 |
+| 543 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.51 | 2,683 | 96 |
 | 543 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 108 | 328 |
 | 543 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 148 | 299 |
 | 543 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 189 | 277 |
@@ -583,7 +583,7 @@
 | 580 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 64 | 388 |
 | 580 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.49 | 0 | 514 |
 | 580 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,987 | 109 |
-| 580 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 36,544 | 13 |
+| 580 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 36,583 | 13 |
 | 580 | [Duskers](games/d/duskers.md) | 4.49 | 0 | 514 |
 | 580 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 273 | 245 |
 | 580 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 249 | 254 |
@@ -825,16 +825,16 @@
 | 822 | [Flatout](games/f/flatout.md) | 4.26 | 0 | 514 |
 | 822 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 0 | 514 |
 | 822 | [The Fall](games/t/the_fall.md) | 4.26 | 0 | 514 |
-| 822 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 0 | 514 |
 | 822 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 297 | 237 |
-| 828 | [Against All Odds](games/a/against_all_odds.md) | 4.25 | 0 | 514 |
-| 828 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.25 | 22 | 494 |
-| 828 | [EVE Online](games/e/eve_online.md) | 4.25 | 1,062 | 140 |
-| 828 | [Men of War](games/m/men_of_war.md) | 4.25 | 0 | 514 |
-| 828 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.25 | 0 | 514 |
-| 828 | [Starsand](games/s/starsand.md) | 4.25 | 0 | 514 |
-| 828 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.25 | 0 | 514 |
-| 828 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 0 | 514 |
+| 827 | [Against All Odds](games/a/against_all_odds.md) | 4.25 | 0 | 514 |
+| 827 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.25 | 22 | 494 |
+| 827 | [EVE Online](games/e/eve_online.md) | 4.25 | 1,062 | 140 |
+| 827 | [Men of War](games/m/men_of_war.md) | 4.25 | 0 | 514 |
+| 827 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.25 | 0 | 514 |
+| 827 | [Starsand](games/s/starsand.md) | 4.25 | 0 | 514 |
+| 827 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 0 | 514 |
+| 827 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.25 | 0 | 514 |
+| 827 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 0 | 514 |
 | 836 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 514 |
 | 836 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 461 |
 | 836 | [OVERPASS™](games/o/overpass™.md) | 4.24 | 0 | 514 |

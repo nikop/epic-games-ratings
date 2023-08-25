@@ -12,12 +12,12 @@
 | 10 | [VALORANT](games/v/valorant.md) | 66,001 | 4.53 | 514 |
 | 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 60,341 | 4.58 | 428 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 43,466 | 4.61 | 366 |
-| 13 | [Destiny 2](games/d/destiny_2.md) | 36,544 | 4.49 | 580 |
+| 13 | [Destiny 2](games/d/destiny_2.md) | 36,583 | 4.49 | 580 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 36,370 | 4.74 | 146 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 31,415 | 4.52 | 527 |
 | 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,800 | 4.64 | 313 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 21,908 | 4.77 | 108 |
-| 18 | [Dauntless](games/d/dauntless.md) | 21,450 | 4.53 | 514 |
+| 18 | [Dauntless](games/d/dauntless.md) | 21,467 | 4.53 | 514 |
 | 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 19,306 | 4.57 | 451 |
 | 20 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 18,222 | 4.26 | 822 |
 | 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 17,782 | 4.89 | 13 |
@@ -90,12 +90,12 @@
 | 88 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,411 | 4.68 | 238 |
 | 89 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,341 | 4.68 | 238 |
 | 90 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,310 | 4.76 | 119 |
-| 91 | [Hades](games/h/hades.md) | 3,231 | 4.92 | 3 |
+| 91 | [Hades](games/h/hades.md) | 3,233 | 4.92 | 3 |
 | 92 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3,223 | 3.98 | 941 |
 | 93 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,220 | 4.57 | 451 |
 | 94 | [Trackmania](games/t/trackmania.md) | 3,172 | 4.67 | 256 |
 | 95 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 2,770 | 4.82 | 65 |
-| 96 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,678 | 4.51 | 543 |
+| 96 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,683 | 4.51 | 543 |
 | 97 | [Among Us](games/a/among_us.md) | 2,627 | 4.57 | 451 |
 | 98 | [Path of Exile](games/p/path_of_exile.md) | 2,576 | 4.61 | 366 |
 | 99 | [RAGE 2](games/r/rage_2.md) | 2,526 | 4.27 | 814 |
@@ -139,7 +139,7 @@
 | 137 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,170 | 4.61 | 366 |
 | 138 | [Remnant 2](games/r/remnant_2.md) | 1,137 | 4.77 | 108 |
 | 139 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,074 | 4.61 | 366 |
-| 140 | [EVE Online](games/e/eve_online.md) | 1,062 | 4.25 | 828 |
+| 140 | [EVE Online](games/e/eve_online.md) | 1,062 | 4.25 | 827 |
 | 141 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,061 | 4.66 | 276 |
 | 142 | [Saints Row](games/s/saints_row.md) | 1,058 | 3.78 | 966 |
 | 143 | [Ooblets](games/o/ooblets.md) | 1,021 | 4.88 | 19 |
@@ -493,7 +493,7 @@
 | 491 | [Black Book](games/b/black_book.md) | 23 | 4.77 | 108 |
 | 491 | [Fez](games/f/fez.md) | 23 | 4.72 | 171 |
 | 491 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 23 | 4.50 | 559 |
-| 494 | [Creature in the Well](games/c/creature_in_the_well.md) | 22 | 4.25 | 828 |
+| 494 | [Creature in the Well](games/c/creature_in_the_well.md) | 22 | 4.25 | 827 |
 | 494 | [Insurmountable](games/i/insurmountable.md) | 22 | 4.20 | 859 |
 | 494 | [MotoGP™21](games/m/motogp™21.md) | 22 | 4.53 | 514 |
 | 494 | [Sable](games/s/sable.md) | 22 | 4.52 | 527 |
