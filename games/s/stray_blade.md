@@ -13,7 +13,7 @@
 | Don't Cry Wolf | 22.00% | ~11 |
 | Freezing Cold | 12.00% | ~6 |
 | The Golden Flash | 12.00% | ~6 |
-| The Power of the Mountains | 10.00% | ~5 |
+| The Power of the Mountains | 12.00% | ~6 |
 | Bringing guns to a sword fight | 8.00% | ~4 |
 | Searing Heat | 8.00% | ~4 |
 | Through Dangers Untold | 8.00% | ~4 |
@@ -22,6 +22,7 @@
 | Changing the World | 8.00% | ~4 |
 | Craftsmen | 6.00% | ~3 |
 | Defeat Tezuth | 6.00% | ~3 |
+| Expert | 6.00% | ~3 |
 | Mirror, Mirror on the Wall | 4.00% | ~2 |
 | Sponsor | 4.00% | ~2 |
 | Defeat Ingla | 4.00% | ~2 |
@@ -30,7 +31,6 @@
 | The End | 4.00% | ~2 |
 | The A-Team | 4.00% | ~2 |
 | But what of the Acreans? | 4.00% | ~2 |
-| Expert | 4.00% | ~2 |
 | Mountain Lover | 2.00% | ~1 |
 | Wasteland Connoisseur | 2.00% | ~1 |
 | Forest Expert | 2.00% | ~1 |

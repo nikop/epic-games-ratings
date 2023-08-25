@@ -4848,9 +4848,9 @@
       "Count": 381
     }
   ],
-  "EOS_Progressed": 167710,
+  "EOS_Progressed": 167715,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 2479,
+  "EOS_NewPlayers": 2476,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18803,6 +18803,11 @@
       "Time": "2023-08-25T02:20:41.2356557+00:00",
       "NumProgressed": 167710,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-25T03:05:42.7246457+00:00",
+      "NumProgressed": 167715,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 16,
@@ -18894,7 +18899,7 @@
       "Name": "Stone Walls",
       "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 43605
+      "UsersEstimate": 43606
     },
     {
       "ID": "Achievement_5",
@@ -18941,15 +18946,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 167710,
+      "Progressed": 167715,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-08-24T23:02:19.2856354+00:00",
-  "LastChanged_Achievements": "2023-08-25T02:20:41.2356548+00:00",
+  "LastChanged_Achievements": "2023-08-25T03:05:42.7246453+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:05.8280665+00:00",
-  "LastUpdate_Ratings": "2023-08-25T02:17:06.9869868+00:00",
-  "LastUpdate_Achievements": "2023-08-25T02:20:41.2357559+00:00"
+  "LastUpdate_Ratings": "2023-08-25T03:02:17.7073531+00:00",
+  "LastUpdate_Achievements": "2023-08-25T03:05:42.7247194+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "are-you-smarter-than-a-5th-grader-bc328a",
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-08-23T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 326,
+  "EOS_Progressed": 328,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -322,6 +322,11 @@
       "Time": "2023-08-25T01:48:29.810131+00:00",
       "NumProgressed": 326,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-25T03:07:14.4987124+00:00",
+      "NumProgressed": 328,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 19,
@@ -357,7 +362,7 @@
       "Name": "Exam Practice",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ExamTime",
@@ -365,7 +370,7 @@
       "Name": "Exam Time",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 274
+      "UsersEstimate": 276
     },
     {
       "ID": "FifthGrade",
@@ -413,7 +418,7 @@
       "Name": "In The Honor Roll",
       "Percentage": 9,
       "XP": 75,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Librarian",
@@ -453,7 +458,7 @@
       "Name": "Smarter than a 5th Grader",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "StudySession",
@@ -461,7 +466,7 @@
       "Name": "Study Session",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ThirdGrade",
@@ -477,14 +482,14 @@
       "Name": "Unlucky",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     }
   ],
   "AchievementSets": [
     {
       "ID": "6l18k14",
       "IsBase": true,
-      "Progressed": 326,
+      "Progressed": 328,
       "Completed": 0
     }
   ],
@@ -492,8 +497,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.561977+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.3990521+00:00",
   "LastChanged": "2023-03-31T05:58:18.5619771+00:00",
-  "LastChanged_Achievements": "2023-08-25T02:21:56.362882+00:00",
+  "LastChanged_Achievements": "2023-08-25T03:07:14.498712+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:12.6479475+00:00",
-  "LastUpdate_Ratings": "2023-08-25T02:14:10.8136455+00:00",
-  "LastUpdate_Achievements": "2023-08-25T02:21:56.3628987+00:00"
+  "LastUpdate_Ratings": "2023-08-25T02:59:08.8793097+00:00",
+  "LastUpdate_Achievements": "2023-08-25T03:07:14.4987247+00:00"
 }

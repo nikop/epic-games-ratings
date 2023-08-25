@@ -1222,9 +1222,9 @@
       "ID": "ach_hit_tree_with_shovel",
       "SetID": "cmg602e",
       "Name": "Getting Started",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 37
     },
     {
       "ID": "ach_honk_horn",
@@ -1749,8 +1749,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-08-25T02:19:16.1576047+00:00",
+  "LastChanged_Achievements": "2023-08-25T03:04:08.7020881+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:21.1390535+00:00",
-  "LastUpdate_Ratings": "2023-08-25T02:16:35.1014592+00:00",
-  "LastUpdate_Achievements": "2023-08-25T02:19:16.1576931+00:00"
+  "LastUpdate_Ratings": "2023-08-25T03:01:45.0017894+00:00",
+  "LastUpdate_Achievements": "2023-08-25T03:04:08.7021541+00:00"
 }

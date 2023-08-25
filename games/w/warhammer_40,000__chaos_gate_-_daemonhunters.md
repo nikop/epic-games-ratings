@@ -13,9 +13,9 @@ Number of Ratings: 371  (23.09.2022)
 | An Ill Omen | 4.00% | ~126 |
 | Blood for the Blood God! | 3.00% | ~95 |
 | Purging Spree | 3.00% | ~95 |
+| Bloodless | 3.00% | ~95 |
 | Surgical Excision | 2.00% | ~63 |
 | Friendly Fire | 2.00% | ~63 |
-| Bloodless | 2.00% | ~63 |
 | A Foul Creche | 2.00% | ~63 |
 | Honoured Battle-Brother | 1.00% | ~32 |
 | Hold Your Ground | 1.00% | ~32 |
@@ -53,6 +53,7 @@ Number of Ratings: 371  (23.09.2022)
 | Arsenal of Destruction | 0.10% | ~3 |
 | The Flesh is Weak | 0.10% | ~3 |
 | Blood and Iron | 0.10% | ~3 |
+| Grand Master | 0.10% | ~3 |
 | Clean Slate | 0.10% | ~3 |
 | Dominus | 0.10% | ~3 |
 | Unstable Immaterium | 0.10% | ~3 |
@@ -67,7 +68,6 @@ Number of Ratings: 371  (23.09.2022)
 | Deadshot | 0.10% | ~3 |
 | Terminal Meltdown | 0.10% | ~3 |
 | Crisis Management | 0.00% | ~0 |
-| Grand Master | 0.00% | ~0 |
 | Legend of Titan | 0.00% | ~0 |
 | Drone Army | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |

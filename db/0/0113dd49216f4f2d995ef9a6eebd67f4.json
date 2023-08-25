@@ -368,9 +368,9 @@
       "ID": "SG_NOTALOSTGIRL",
       "SetID": "bj5g0n4",
       "Name": "Not A Lost Girl",
-      "Percentage": 32,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "SG_NOTTAKINGANYCHANCES",
@@ -519,8 +519,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-08-25T02:20:20.7752557+00:00",
+  "LastChanged_Achievements": "2023-08-25T03:05:18.6362711+00:00",
   "LastUpdate_AppInfo": "2023-08-24T08:56:52.7420093+00:00",
-  "LastUpdate_Ratings": "2023-08-25T02:13:57.6827093+00:00",
-  "LastUpdate_Achievements": "2023-08-25T02:20:20.7752865+00:00"
+  "LastUpdate_Ratings": "2023-08-25T02:58:58.1914953+00:00",
+  "LastUpdate_Achievements": "2023-08-25T03:05:18.636295+00:00"
 }

@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under the Bridge | 82.00% | ~14 |
+| Under the Bridge | 88.00% | ~15 |
 | Treasure Hunter | 12.00% | ~2 |
 | Space Invader | 12.00% | ~2 |
 | What's my line again? | 6.00% | ~1 |

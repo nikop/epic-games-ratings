@@ -5,23 +5,23 @@ Rating: 4.69 (Ranked 216)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 28.00% | ~181,079 |
-| 50 HEADSHOTS | 26.00% | ~168,145 |
-| SCIENCE AND INDUSTRY | 25.00% | ~161,678 |
-| FINISHED CHAPTER 1 | 24.00% | ~155,211 |
-| FINISHED CHAPTER 2 | 18.00% | ~116,408 |
-| 200 HEADSHOTS | 16.00% | ~103,474 |
-| FINISHED CHAPTER 3 | 15.00% | ~97,007 |
-| FINISHED CHAPTER 4 | 13.00% | ~84,073 |
-| FINISH CHAPTER 5 | 11.00% | ~71,138 |
-| FINISH CHAPTER 6 | 9.00% | ~58,204 |
-| CATHARTIC ESCAPISM | 9.00% | ~58,204 |
-| 1000 KILLS | 8.00% | ~51,737 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~25,868 |
-| FIRST BLOOD | 2.00% | ~12,934 |
+| 100 KILLS | 28.00% | ~181,087 |
+| 50 HEADSHOTS | 26.00% | ~168,152 |
+| SCIENCE AND INDUSTRY | 25.00% | ~161,685 |
+| FINISHED CHAPTER 1 | 24.00% | ~155,218 |
+| FINISHED CHAPTER 2 | 18.00% | ~116,413 |
+| 200 HEADSHOTS | 16.00% | ~103,478 |
+| FINISHED CHAPTER 3 | 15.00% | ~97,011 |
+| FINISHED CHAPTER 4 | 13.00% | ~84,076 |
+| FINISH CHAPTER 5 | 11.00% | ~71,141 |
+| FINISH CHAPTER 6 | 9.00% | ~58,207 |
+| CATHARTIC ESCAPISM | 9.00% | ~58,207 |
+| 1000 KILLS | 8.00% | ~51,739 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~25,870 |
+| FIRST BLOOD | 2.00% | ~12,935 |
 | FIREFIGHT LEVEL 20 | 1.00% | ~6,467 |
 | PACEMAKER | 1.00% | ~6,467 |
-| TIME PARADOX | 0.90% | ~5,820 |
+| TIME PARADOX | 0.90% | ~5,821 |
 | OUT OF ORDER | 0.80% | ~5,174 |
 | FIREFIGHT LEVEL 30 | 0.70% | ~4,527 |
 | PARTYHARD | 0.60% | ~3,880 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 216)
 | THE GAMBLER | 0.10% | ~647 |
 | WARRIOR IN A GARDEN | 0.10% | ~647 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 646,712 (Ranked 25)  
+Progressed: 646,740 (Ranked 25)  
 Completed: 52 (0.01%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 52 (0.01%) (Ranked 250)
 | 2023-08-22 | 644,883 | 52 |
 | 2023-08-23 | 645,682 | 52 |
 | 2023-08-24 | 646,614 | 52 |
-| 2023-08-25 | 646,712 | 52 |
+| 2023-08-25 | 646,740 | 52 |
 ## Awards
 Max (Great Boss Battles): 264  (Ranked 248)  
 Sum: 264 (Ranked 352)  

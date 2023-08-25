@@ -2,7 +2,7 @@
   "ID": "c2890856ddb844f1a7d552fc929838a7",
   "Name": "Blasphemous 2",
   "ProductSlug": "blasphemous-2",
-  "Ranking_EOS_Progress": 283,
+  "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 103,
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 239,
+  "EOS_Progressed": 249,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 238,
+  "EOS_NewPlayers": 248,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -112,6 +112,11 @@
       "Time": "2023-08-25T02:20:37.3001176+00:00",
       "NumProgressed": 239,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-25T03:05:38.3792216+00:00",
+      "NumProgressed": 249,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -132,31 +137,31 @@
       "Name": "A Thousand Years Later",
       "Percentage": 84,
       "XP": 30,
-      "UsersEstimate": 201
+      "UsersEstimate": 209
     },
     {
       "ID": "AC02",
       "SetID": "l4abp0",
       "Name": "Blood and Dust",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 55
+      "UsersEstimate": 60
     },
     {
       "ID": "AC03",
       "SetID": "l4abp0",
       "Name": "Blood and Gold",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 32
     },
     {
       "ID": "AC04",
       "SetID": "l4abp0",
       "Name": "Blood and Iron",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "AC05",
@@ -170,7 +175,7 @@
       "ID": "AC06",
       "SetID": "l4abp0",
       "Name": "The Last Ascension",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -338,17 +343,17 @@
       "ID": "AC27",
       "SetID": "l4abp0",
       "Name": "Twisted is the Path of the Miracle",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "AC28",
       "SetID": "l4abp0",
       "Name": "The Punished One",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 25
     },
     {
       "ID": "AC29",
@@ -364,13 +369,13 @@
       "Name": "The Anointed One",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "AC31",
       "SetID": "l4abp0",
       "Name": "The Merciless One",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -442,9 +447,9 @@
       "ID": "AC40",
       "SetID": "l4abp0",
       "Name": "Welcome Back!",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 115
     },
     {
       "ID": "AC41",
@@ -491,14 +496,14 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 239,
+      "Progressed": 249,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-26T07:57:19.1818171+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
-  "LastChanged_Achievements": "2023-08-25T02:20:37.300117+00:00",
+  "LastChanged_Achievements": "2023-08-25T03:05:38.3792211+00:00",
   "LastUpdate_AppInfo": "2023-08-22T18:57:00.5189311+00:00",
-  "LastUpdate_Ratings": "2023-08-25T02:14:27.2231319+00:00",
-  "LastUpdate_Achievements": "2023-08-25T02:20:37.3001583+00:00"
+  "LastUpdate_Ratings": "2023-08-25T02:59:27.6795303+00:00",
+  "LastUpdate_Achievements": "2023-08-25T03:05:38.3792605+00:00"
 }

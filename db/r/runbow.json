@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 248471,
+  "EOS_Progressed": 248473,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 299,
+  "EOS_NewPlayers": 301,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12169,6 +12169,11 @@
       "Time": "2023-08-25T02:21:01.5820172+00:00",
       "NumProgressed": 248471,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-25T03:06:04.8343812+00:00",
+      "NumProgressed": 248473,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 46,
@@ -12284,7 +12289,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 49694
+      "UsersEstimate": 49695
     },
     {
       "ID": "didYourTime",
@@ -12356,7 +12361,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 131690
+      "UsersEstimate": 131691
     },
     {
       "ID": "indegestible",
@@ -12380,7 +12385,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 64602
+      "UsersEstimate": 64603
     },
     {
       "ID": "justABit",
@@ -12540,14 +12545,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 39755
+      "UsersEstimate": 39756
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 248471,
+      "Progressed": 248473,
       "Completed": 4
     }
   ],
@@ -12555,8 +12560,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-08-25T02:21:01.5820165+00:00",
+  "LastChanged_Achievements": "2023-08-25T03:06:04.8343809+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:44.1764965+00:00",
-  "LastUpdate_Ratings": "2023-08-25T02:12:46.277468+00:00",
-  "LastUpdate_Achievements": "2023-08-25T02:21:01.582131+00:00"
+  "LastUpdate_Ratings": "2023-08-25T02:57:34.400562+00:00",
+  "LastUpdate_Achievements": "2023-08-25T03:06:04.8344711+00:00"
 }

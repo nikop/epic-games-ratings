@@ -80,6 +80,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Glittering Collection | 0.30% | ~405 |
 | Treasure Trove | 0.30% | ~405 |
 | Black Friday Special | 0.30% | ~405 |
+| King's Shadow | 0.30% | ~405 |
 | Special Ingredient | 0.30% | ~405 |
 | Exotic Commodities | 0.30% | ~405 |
 | Complete Monopoly | 0.30% | ~405 |
@@ -99,7 +100,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Bountiful Harvest | 0.20% | ~270 |
 | Precision Engineering | 0.20% | ~270 |
 | Moment of Respite | 0.20% | ~270 |
-| King's Shadow | 0.20% | ~270 |
 | Master Recycler | 0.20% | ~270 |
 | All Accounted For | 0.20% | ~270 |
 | Economy of Scarce | 0.20% | ~270 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~135 |
 | Cash Only Please | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,043 (Ranked 66)  
+Progressed: 135,045 (Ranked 66)  
 Completed: 138 (0.10%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 138 (0.10%) (Ranked 210)
 | 2023-08-22 | 134,956 | 136 |
 | 2023-08-23 | 134,997 | 138 |
 | 2023-08-24 | 135,040 | 138 |
-| 2023-08-25 | 135,043 | 138 |
+| 2023-08-25 | 135,045 | 138 |
 ## Awards
 Max (Great for Beginners): 4,712  (Ranked 71)  
 Sum: 27,135 (Ranked 47)  

@@ -6,16 +6,16 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 69.00% | ~602,020 |
-| Right Back At Ya | 39.00% | ~340,272 |
-| The Lovers | 35.00% | ~305,373 |
-| Stanislavski's Method | 29.00% | ~253,023 |
-| The Wheel of Fortune | 27.00% | ~235,573 |
-| The Hermit | 25.00% | ~218,123 |
-| Christmas Tree Attack | 23.00% | ~200,673 |
-| True Soldier | 23.00% | ~200,673 |
-| The High Priestess | 22.00% | ~191,948 |
-| Legend of The Afterlife | 22.00% | ~191,948 |
+| The Fool | 69.00% | ~602,022 |
+| Right Back At Ya | 39.00% | ~340,273 |
+| The Lovers | 35.00% | ~305,374 |
+| Stanislavski's Method | 29.00% | ~253,024 |
+| The Wheel of Fortune | 27.00% | ~235,574 |
+| The Hermit | 25.00% | ~218,124 |
+| Christmas Tree Attack | 23.00% | ~200,674 |
+| True Soldier | 23.00% | ~200,674 |
+| The High Priestess | 22.00% | ~191,949 |
+| Legend of The Afterlife | 22.00% | ~191,949 |
 | Life of the Road | 21.00% | ~183,224 |
 | Full Body Conversion | 18.00% | ~157,049 |
 | The World | 18.00% | ~157,049 |
@@ -26,11 +26,11 @@ Number of Ratings: 32,700  (23.09.2022)
 | I Am The Law | 14.00% | ~122,149 |
 | Judy vs Night City | 14.00% | ~122,149 |
 | Master Crafter | 13.00% | ~113,424 |
-| Two Heads, One Bullet | 12.00% | ~104,699 |
-| The Quick and the Dead | 10.00% | ~87,249 |
-| The Wandering Fool | 9.00% | ~78,524 |
-| Ten out of Ten | 9.00% | ~78,524 |
-| Breathtaking | 8.00% | ~69,799 |
+| Two Heads, One Bullet | 12.00% | ~104,700 |
+| The Quick and the Dead | 10.00% | ~87,250 |
+| The Wandering Fool | 9.00% | ~78,525 |
+| Ten out of Ten | 9.00% | ~78,525 |
+| Breathtaking | 8.00% | ~69,800 |
 | The Star | 7.00% | ~61,075 |
 | The Sun | 7.00% | ~61,075 |
 | To Bad Decisions! | 6.00% | ~52,350 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,725 |
 | Rough Landing | 0.50% | ~4,362 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 872,493 (Ranked 14)  
+Progressed: 872,496 (Ranked 14)  
 Completed: 2,017 (0.23%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 2,017 (0.23%) (Ranked 182)
 | 2023-08-22 | 872,099 | 2,002 |
 | 2023-08-23 | 872,280 | 2,005 |
 | 2023-08-24 | 872,479 | 2,017 |
-| 2023-08-25 | 872,493 | 2,017 |
+| 2023-08-25 | 872,496 | 2,017 |
 ## Awards
 Max (Character Customization): 76,195  (Ranked 9)  
 Sum: 201,839 (Ranked 13)  

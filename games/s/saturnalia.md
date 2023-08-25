@@ -5,7 +5,7 @@ Rating: 4.26 (Ranked 822)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of Shape | 4.00% | ~2,632 |
+| Out of Shape | 4.00% | ~2,633 |
 | Bonfire Lit | 3.00% | ~1,974 |
 | Survival Expert | 3.00% | ~1,974 |
 | Denial | 2.00% | ~1,316 |
@@ -15,7 +15,7 @@ Rating: 4.26 (Ranked 822)
 | Fear Of The Dark | 1.00% | ~658 |
 | Detective of the occult | 1.00% | ~658 |
 | Depression | 1.00% | ~658 |
-| Bless me Father... | 0.80% | ~526 |
+| Bless me Father... | 0.80% | ~527 |
 | Power of Friendship | 0.70% | ~461 |
 | Phone Bill | 0.70% | ~461 |
 | Chain Breaker | 0.60% | ~395 |
@@ -26,7 +26,7 @@ Rating: 4.26 (Ranked 822)
 | Paparazzi | 0.30% | ~197 |
 | Ear Ringing | 0.10% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,812 (Ranked 83)  
+Progressed: 65,815 (Ranked 83)  
 Completed: 13 (0.02%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 13 (0.02%) (Ranked 243)
 | 2023-08-22 | 65,758 | 13 |
 | 2023-08-23 | 65,777 | 13 |
 | 2023-08-24 | 65,805 | 13 |
-| 2023-08-25 | 65,812 | 13 |
+| 2023-08-25 | 65,815 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
