@@ -87,8 +87,8 @@
 | 85 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.56% |
 | 86 | [Lamentum](games/l/lamentum.md) | 2.53% |
 | 87 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 88 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.43% |
-| 89 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.42% |
+| 88 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.42% |
+| 88 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.42% |
 | 90 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.27% |
 | 91 | [Bloodshore](games/b/bloodshore.md) | 2.21% |
 | 92 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
