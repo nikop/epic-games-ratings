@@ -3,7 +3,7 @@
 | 1 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 0 | 514 |
 | 1 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 0 | 514 |
 | 3 | [Celeste](games/c/celeste.md) | 4.92 | 1,569 | 119 |
-| 3 | [Hades](games/h/hades.md) | 4.92 | 3,233 | 92 |
+| 3 | [Hades](games/h/hades.md) | 4.92 | 3,236 | 91 |
 | 3 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 4.92 | 0 | 514 |
 | 6 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.91 | 0 | 514 |
 | 6 | [Rain World](games/r/rain_world.md) | 4.91 | 0 | 514 |
@@ -22,7 +22,7 @@
 | 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,220 | 78 |
 | 19 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.88 | 0 | 514 |
 | 19 | [Ooblets](games/o/ooblets.md) | 4.88 | 1,021 | 143 |
-| 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 169,792 | 6 |
+| 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 170,033 | 6 |
 | 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 11,197 | 35 |
 | 19 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 494 |
 | 26 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 279 | 244 |
@@ -152,7 +152,7 @@
 | 144 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 668 | 173 |
 | 144 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.74 | 0 | 514 |
 | 144 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 121 | 318 |
-| 144 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,979 | 51 |
+| 144 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,985 | 51 |
 | 144 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.74 | 0 | 514 |
 | 144 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 36,472 | 14 |
 | 144 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 0 | 514 |
@@ -198,7 +198,7 @@
 | 188 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.71 | 1,804 | 113 |
 | 188 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.71 | 0 | 514 |
 | 198 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,560 | 72 |
-| 198 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 379 | 222 |
+| 198 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 380 | 222 |
 | 198 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 401 | 217 |
 | 198 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.70 | 0 | 514 |
 | 198 | [For The King](games/f/for_the_king.md) | 4.70 | 381 | 221 |
@@ -244,7 +244,7 @@
 | 238 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,344 | 48 |
 | 238 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,918 | 81 |
 | 238 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,784 | 60 |
-| 238 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 3,635 | 84 |
+| 238 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 3,653 | 84 |
 | 238 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 303,862 | 3 |
 | 238 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 216,379 | 4 |
 | 238 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 514 |
@@ -314,6 +314,7 @@
 | 300 | [Tennis Manager 2022](games/t/tennis_manager_2022.md) | 4.65 | 0 | 514 |
 | 300 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.65 | 103 | 333 |
 | 314 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.64 | 0 | 514 |
+| 314 | [Aimlabs](games/a/aimlabs.md) | 4.64 | 0 | 514 |
 | 314 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 0 | 514 |
 | 314 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 5,962 | 58 |
 | 314 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 115 | 324 |
@@ -328,26 +329,25 @@
 | 314 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 67 | 384 |
 | 314 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.64 | 0 | 514 |
 | 314 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 192 | 276 |
-| 329 | [ABZU](games/a/abzu.md) | 4.63 | 0 | 514 |
-| 329 | [Aimlabs](games/a/aimlabs.md) | 4.63 | 0 | 514 |
-| 329 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 21 | 503 |
-| 329 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.63 | 0 | 514 |
-| 329 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.63 | 0 | 514 |
-| 329 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.63 | 2,211 | 106 |
-| 329 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.63 | 0 | 514 |
-| 329 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 0 | 514 |
-| 329 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 604 | 181 |
-| 329 | [Mutazione](games/m/mutazione.md) | 4.63 | 0 | 514 |
-| 329 | [Returnal™](games/r/returnal™.md) | 4.63 | 66 | 386 |
-| 329 | [Road 96](games/r/road_96.md) | 4.63 | 0 | 514 |
-| 329 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 184 | 279 |
-| 329 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 304 | 236 |
-| 329 | [System Shock](games/s/system_shock.md) | 4.63 | 0 | 514 |
-| 329 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.63 | 73 | 375 |
-| 329 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,771 | 115 |
-| 329 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.63 | 68 | 382 |
-| 329 | [Transistor](games/t/transistor.md) | 4.63 | 0 | 514 |
-| 329 | [Warhammer 40,000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.63 | 0 | 514 |
+| 330 | [ABZU](games/a/abzu.md) | 4.63 | 0 | 514 |
+| 330 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 21 | 503 |
+| 330 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.63 | 0 | 514 |
+| 330 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.63 | 0 | 514 |
+| 330 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.63 | 2,211 | 106 |
+| 330 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.63 | 0 | 514 |
+| 330 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 0 | 514 |
+| 330 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 604 | 181 |
+| 330 | [Mutazione](games/m/mutazione.md) | 4.63 | 0 | 514 |
+| 330 | [Returnal™](games/r/returnal™.md) | 4.63 | 66 | 386 |
+| 330 | [Road 96](games/r/road_96.md) | 4.63 | 0 | 514 |
+| 330 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 184 | 279 |
+| 330 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 304 | 236 |
+| 330 | [System Shock](games/s/system_shock.md) | 4.63 | 0 | 514 |
+| 330 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.63 | 73 | 375 |
+| 330 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,771 | 115 |
+| 330 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.63 | 68 | 382 |
+| 330 | [Transistor](games/t/transistor.md) | 4.63 | 0 | 514 |
+| 330 | [Warhammer 40,000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.63 | 0 | 514 |
 | 349 | [Assassin's Creed Chronicles: Russia](games/a/assassin's_creed_chronicles__russia.md) | 4.62 | 0 | 514 |
 | 349 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 76,380 | 9 |
 | 349 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 281 | 241 |
@@ -392,7 +392,7 @@
 | 366 | [The Colonists](games/t/the_colonists.md) | 4.61 | 0 | 514 |
 | 366 | [Warframe](games/w/warframe.md) | 4.61 | 16,618 | 22 |
 | 392 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.60 | 717 | 167 |
-| 392 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 13,372 | 28 |
+| 392 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 13,385 | 28 |
 | 392 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.60 | 0 | 514 |
 | 392 | [Brawlhalla](games/b/brawlhalla.md) | 4.60 | 286 | 240 |
 | 392 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,537 | 73 |
