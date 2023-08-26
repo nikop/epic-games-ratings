@@ -117,8 +117,8 @@
 | 115 | [A Musical Story](games/a/a_musical_story.md) | 1.08% |
 | 116 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.06% |
 | 117 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.03% |
-| 118 | [Adios](games/a/adios.md) | 1.02% |
-| 119 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.01% |
+| 118 | [Adios](games/a/adios.md) | 1.01% |
+| 118 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.01% |
 | 120 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.99% |
 | 120 | [Sable](games/s/sable.md) | 0.99% |
 | 120 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.99% |
@@ -177,9 +177,9 @@
 | 175 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
 | 176 | [Against the Storm](games/a/against_the_storm.md) | 0.29% |
 | 176 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
-| 178 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.28% |
 | 178 | [Scrapnaut](games/s/scrapnaut.md) | 0.28% |
 | 178 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.28% |
+| 180 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.27% |
 | 181 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
 | 181 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.25% |
 | 183 | [Despot's Game](games/d/despot's_game.md) | 0.24% |
