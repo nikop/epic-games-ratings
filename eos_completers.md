@@ -25,7 +25,7 @@
 | 23 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 23 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
 | 23 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 11.11% |
-| 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.03% |
+| 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.01% |
 | 27 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.71% |
 | 28 | [Remains](games/r/remains.md) | 10.42% |
 | 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.29% |
@@ -70,7 +70,7 @@
 | 68 | [Bunny Park](games/b/bunny_park.md) | 3.37% |
 | 69 | [The Complex](games/t/the_complex.md) | 3.33% |
 | 70 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
-| 71 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.25% |
+| 71 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.24% |
 | 72 | [HordeCore](games/h/hordecore.md) | 3.15% |
 | 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.12% |
 | 74 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.04% |
@@ -82,8 +82,8 @@
 | 80 | [Destiny 2](games/d/destiny_2.md) | 2.74% |
 | 81 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 82 | [The Bunker](games/t/the_bunker.md) | 2.61% |
-| 83 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.59% |
-| 84 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.58% |
+| 83 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.58% |
+| 83 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.58% |
 | 85 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.56% |
 | 86 | [Lamentum](games/l/lamentum.md) | 2.53% |
 | 87 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
@@ -92,7 +92,7 @@
 | 90 | [Bloodshore](games/b/bloodshore.md) | 2.20% |
 | 91 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
 | 92 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.01% |
-| 93 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 1.99% |
+| 93 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 1.98% |
 | 94 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
 | 95 | [Night Book](games/n/night_book.md) | 1.86% |
 | 96 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
@@ -106,8 +106,8 @@
 | 103 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.56% |
 | 105 | [Five Dates](games/f/five_dates.md) | 1.55% |
 | 106 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.49% |
-| 107 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.46% |
-| 108 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.45% |
+| 107 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.45% |
+| 107 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.45% |
 | 109 | [Ten Dates](games/t/ten_dates.md) | 1.44% |
 | 110 | [Poosh XL](games/p/poosh_xl.md) | 1.40% |
 | 111 | [Late Shift](games/l/late_shift.md) | 1.27% |
@@ -218,11 +218,11 @@
 | 215 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
 | 215 | [Operation New Earth](games/o/operation_new_earth.md) | 0.09% |
 | 215 | [Outward Definitive Edition](games/o/outward.md) | 0.09% |
-| 215 | [Remnant 2](games/r/remnant_2.md) | 0.09% |
 | 215 | [Riverbond](games/r/riverbond.md) | 0.09% |
 | 215 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
 | 215 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
-| 223 | [Partisans 1941](games/p/partisans_1941.md) | 0.08% |
+| 222 | [Partisans 1941](games/p/partisans_1941.md) | 0.08% |
+| 222 | [Remnant 2](games/r/remnant_2.md) | 0.08% |
 | 224 | [Saints Row](games/s/saints_row.md) | 0.07% |
 | 224 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
 | 226 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.06% |
