@@ -3536,9 +3536,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 11078,
+  "EOS_Progressed": 11079,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11326,6 +11326,11 @@
       "Time": "2023-08-26T07:07:02.6643535+00:00",
       "NumProgressed": 11078,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-26T08:05:23.1997916+00:00",
+      "NumProgressed": 11079,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -11345,7 +11350,7 @@
       "Name": "Burning City",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1772
+      "UsersEstimate": 1773
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -11361,7 +11366,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 775
+      "UsersEstimate": 776
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -12264,21 +12269,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9860,
+      "Progressed": 9861,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11078,
+      "Progressed": 11079,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-23T13:04:06.393487+00:00",
-  "LastChanged_Achievements": "2023-08-26T07:07:02.6643532+00:00",
+  "LastChanged_Achievements": "2023-08-26T08:05:23.1997911+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:48.9326646+00:00",
-  "LastUpdate_Ratings": "2023-08-26T07:02:02.6301642+00:00",
-  "LastUpdate_Achievements": "2023-08-26T07:07:02.6645747+00:00"
+  "LastUpdate_Ratings": "2023-08-26T08:00:27.0905344+00:00",
+  "LastUpdate_Achievements": "2023-08-26T08:05:23.2000093+00:00"
 }

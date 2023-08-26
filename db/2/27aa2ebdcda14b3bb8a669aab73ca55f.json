@@ -3,8 +3,8 @@
   "Name": "The Elder Scrolls Online",
   "ProductSlug": "the-elder-scrolls-online",
   "Ranking_Rating": 771,
-  "Ranking_Popularity": 123,
-  "Ranking_PopularitySum": 195,
+  "Ranking_Popularity": 121,
+  "Ranking_PopularitySum": 194,
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 342,
@@ -1050,18 +1050,24 @@
       "Rating": 4.33,
       "NumberOfAwards": 2091,
       "NumberOfAwardsMax": 1462
+    },
+    {
+      "Time": "2023-08-26T07:57:45.402228+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 2130,
+      "NumberOfAwardsMax": 1496
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2091,
-  "NumberOfAwardsMax": 1462,
+  "NumberOfAwards": 2130,
+  "NumberOfAwardsMax": 1496,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1462
+      "Count": 1496
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1079,7 +1085,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 95
+      "Count": 100
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -1130,8 +1136,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-20T19:00:34.5855853+00:00",
   "FirstSeenRating": "2023-07-21T13:07:17.4893089+00:00",
-  "LastChanged": "2023-08-26T06:58:38.0169515+00:00",
+  "LastChanged": "2023-08-26T07:57:45.4022278+00:00",
   "LastUpdate_AppInfo": "2023-08-24T18:57:13.7617865+00:00",
-  "LastUpdate_Ratings": "2023-08-26T06:58:38.0169524+00:00",
-  "LastUpdate_Achievements": "2023-08-26T07:05:20.53792+00:00"
+  "LastUpdate_Ratings": "2023-08-26T07:57:45.4022284+00:00",
+  "LastUpdate_Achievements": "2023-08-26T08:04:00.0518616+00:00"
 }

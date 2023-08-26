@@ -5,18 +5,18 @@ Rating: 4.43 (Ranked 663)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~57,502 |
-| This is only the beginning | 19.00% | ~42,021 |
-| Knowledge is power | 12.00% | ~26,539 |
+| No aid from the Omnissiah | 26.00% | ~57,503 |
+| This is only the beginning | 19.00% | ~42,022 |
+| Knowledge is power | 12.00% | ~26,540 |
 | Power Ranger | 9.00% | ~19,905 |
 | Galvanic Rifle | 9.00% | ~19,905 |
 | Taser Goad | 9.00% | ~19,905 |
 | Radium Ready | 9.00% | ~19,905 |
 | Half a cog | 9.00% | ~19,905 |
 | Watch them crumble | 6.00% | ~13,270 |
-| Competent Cohort | 4.00% | ~8,846 |
-| Celestial Cartography Catastrophe | 4.00% | ~8,846 |
-| One with the Machine | 4.00% | ~8,846 |
+| Competent Cohort | 4.00% | ~8,847 |
+| Celestial Cartography Catastrophe | 4.00% | ~8,847 |
+| One with the Machine | 4.00% | ~8,847 |
 | Legio Cybernetica | 3.00% | ~6,635 |
 | Fleshy Disposal | 3.00% | ~6,635 |
 | Battle Servitor | 2.00% | ~4,423 |
@@ -26,7 +26,7 @@ Rating: 4.43 (Ranked 663)
 | Architect Abortion | 2.00% | ~4,423 |
 | Cohortus Maximus | 0.80% | ~1,769 |
 | Mother of Xenarites | 0.40% | ~885 |
-| False God | 0.30% | ~663 |
+| False God | 0.30% | ~664 |
 | Hard | 0.20% | ~442 |
 | Sensory overload | 0.20% | ~442 |
 | Transonic Blur | 0.20% | ~442 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 663)
 | Perma-live | 0.10% | ~221 |
 | Purge the Heretek | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221,162 (Ranked 54)  
+Progressed: 221,167 (Ranked 54)  
 Completed: 5 (0.00%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,11 +168,11 @@ Completed: 5 (0.00%) (Ranked 264)
 | 2023-08-23 | 220,945 | 5 |
 | 2023-08-24 | 221,039 | 5 |
 | 2023-08-25 | 221,135 | 5 |
-| 2023-08-26 | 221,162 | 5 |
+| 2023-08-26 | 221,167 | 5 |
 ## Awards
 Max (Highly Recommended): 281  (Ranked 241)  
-Sum: 2,127 (Ranked 194)  
-Diff (max vs sum): 47  
+Sum: 2,127 (Ranked 195)  
+Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 281 |

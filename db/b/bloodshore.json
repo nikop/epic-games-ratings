@@ -4,7 +4,7 @@
   "ProductSlug": "bloodshore-939cb0",
   "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewPlayers": 301,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 181,
+  "EOS_Progressed": 182,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.21,
+  "EOS_Completed_Percentage": 2.2,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:37.2601776+00:00",
@@ -262,6 +262,11 @@
       "Time": "2023-08-15T11:04:55.5238599+00:00",
       "NumProgressed": 181,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-26T08:05:36.6487385+00:00",
+      "NumProgressed": 182,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 17,
@@ -289,7 +294,7 @@
       "Name": "Congratulations, you are a sadist",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "deathlooper",
@@ -321,7 +326,7 @@
       "Name": "Lootaphilia",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "maybe_you_should_give_it_another_go",
@@ -353,7 +358,7 @@
       "Name": "Super Seducer",
       "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "superstar_crossed_lovers",
@@ -361,7 +366,7 @@
       "Name": "Superstar-crossed lovers",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "thats_my_boy",
@@ -391,9 +396,9 @@
       "ID": "um_ok",
       "SetID": "84ad177",
       "Name": "Um, ok...",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 89
     },
     {
       "ID": "used_to_think_i_was_indecisive",
@@ -401,14 +406,14 @@
       "Name": "I used to think I was indecisive...",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     }
   ],
   "AchievementSets": [
     {
       "ID": "84ad177",
       "IsBase": true,
-      "Progressed": 181,
+      "Progressed": 182,
       "Completed": 4
     }
   ],
@@ -416,8 +421,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-08-26T07:07:19.5275152+00:00",
+  "LastChanged_Achievements": "2023-08-26T08:05:36.6487379+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:51.8340585+00:00",
-  "LastUpdate_Ratings": "2023-08-26T06:59:09.9778936+00:00",
-  "LastUpdate_Achievements": "2023-08-26T07:07:19.5275306+00:00"
+  "LastUpdate_Ratings": "2023-08-26T07:58:05.7321606+00:00",
+  "LastUpdate_Achievements": "2023-08-26T08:05:36.6487519+00:00"
 }

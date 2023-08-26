@@ -1,57 +1,57 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 501)  
+Rating: 4.54 (Ranked 500)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Hotel California | 0.20% | ~1,331 |
 | Welcome To Hell-A | 0.20% | ~1,331 |
-| Dr. Reed, I Presume? | 0.10% | ~665 |
-| Making Your Mark | 0.10% | ~665 |
-| Git Gutte! | 0.10% | ~665 |
-| Anger Management | 0.10% | ~665 |
-| Make it So | 0.10% | ~665 |
-| LA Influential | 0.10% | ~665 |
-| Perks of the Job | 0.10% | ~665 |
-| Bookworm | 0.10% | ~665 |
-| Break A Leg | 0.10% | ~665 |
-| On Safari | 0.10% | ~665 |
-| I Got a Zombie Army and You Can't Harm Me | 0.10% | ~665 |
-| But Doctor, I am Butcho | 0.10% | ~665 |
-| Slayer Squad | 0.10% | ~665 |
-| Smorgasbord | 0.10% | ~665 |
-| Can't Handle the Truth | 0.10% | ~665 |
-| Coup de Grâce | 0.10% | ~665 |
-| Like Riding a Bike | 0.10% | ~665 |
-| Not Even My Final Form | 0.10% | ~665 |
-| Hazardous Materials | 0.10% | ~665 |
-| Friends Like These | 0.10% | ~665 |
-| Donk! | 0.10% | ~665 |
-| Internet Famous | 0.10% | ~665 |
-| Sole Survivor | 0.10% | ~665 |
-| Jumbo Keyring | 0.10% | ~665 |
-| Apex Predator | 0.10% | ~665 |
-| Zombologist | 0.10% | ~665 |
-| Ooh, Shiny! | 0.10% | ~665 |
-| Gore Horse | 0.10% | ~665 |
-| A Patton Emerges | 0.10% | ~665 |
-| Humanity Distilled | 0.10% | ~665 |
-| I Am the Resurrection | 0.10% | ~665 |
-| Down with the Sickness | 0.10% | ~665 |
-| Sharpest Tool in the Box | 0.10% | ~665 |
-| Stacking the Deck | 0.10% | ~665 |
-| Personal Assistant Personally Assisted | 0.10% | ~665 |
-| Survival Skills | 0.10% | ~665 |
-| Max Headroom | 0.10% | ~665 |
-| Go, Bobcats! | 0.10% | ~665 |
-| Our True Nature | 0.10% | ~665 |
-| This is My Weapon | 0.10% | ~665 |
-| Variety is the Spice of Death | 0.10% | ~665 |
-| Rising Star | 0.10% | ~665 |
-| Bucket List | 0.10% | ~665 |
+| Dr. Reed, I Presume? | 0.10% | ~666 |
+| Making Your Mark | 0.10% | ~666 |
+| Git Gutte! | 0.10% | ~666 |
+| Anger Management | 0.10% | ~666 |
+| Make it So | 0.10% | ~666 |
+| LA Influential | 0.10% | ~666 |
+| Perks of the Job | 0.10% | ~666 |
+| Bookworm | 0.10% | ~666 |
+| Break A Leg | 0.10% | ~666 |
+| On Safari | 0.10% | ~666 |
+| I Got a Zombie Army and You Can't Harm Me | 0.10% | ~666 |
+| But Doctor, I am Butcho | 0.10% | ~666 |
+| Slayer Squad | 0.10% | ~666 |
+| Smorgasbord | 0.10% | ~666 |
+| Can't Handle the Truth | 0.10% | ~666 |
+| Coup de Grâce | 0.10% | ~666 |
+| Like Riding a Bike | 0.10% | ~666 |
+| Not Even My Final Form | 0.10% | ~666 |
+| Hazardous Materials | 0.10% | ~666 |
+| Friends Like These | 0.10% | ~666 |
+| Donk! | 0.10% | ~666 |
+| Internet Famous | 0.10% | ~666 |
+| Sole Survivor | 0.10% | ~666 |
+| Jumbo Keyring | 0.10% | ~666 |
+| Apex Predator | 0.10% | ~666 |
+| Zombologist | 0.10% | ~666 |
+| Ooh, Shiny! | 0.10% | ~666 |
+| Gore Horse | 0.10% | ~666 |
+| A Patton Emerges | 0.10% | ~666 |
+| Humanity Distilled | 0.10% | ~666 |
+| I Am the Resurrection | 0.10% | ~666 |
+| Down with the Sickness | 0.10% | ~666 |
+| Sharpest Tool in the Box | 0.10% | ~666 |
+| Stacking the Deck | 0.10% | ~666 |
+| Personal Assistant Personally Assisted | 0.10% | ~666 |
+| Survival Skills | 0.10% | ~666 |
+| Max Headroom | 0.10% | ~666 |
+| Go, Bobcats! | 0.10% | ~666 |
+| Our True Nature | 0.10% | ~666 |
+| This is My Weapon | 0.10% | ~666 |
+| Variety is the Spice of Death | 0.10% | ~666 |
+| Rising Star | 0.10% | ~666 |
+| Bucket List | 0.10% | ~666 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 665,496 (Ranked 22)  
+Progressed: 665,524 (Ranked 22)  
 Completed: 2,073 (0.31%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 2,073 (0.31%) (Ranked 171)
 | 2023-08-23 | 663,691 | 2,054 |
 | 2023-08-24 | 664,478 | 2,059 |
 | 2023-08-25 | 665,272 | 2,068 |
-| 2023-08-26 | 665,496 | 2,073 |
+| 2023-08-26 | 665,524 | 2,073 |
 ## Awards
 Max (Great Boss Battles): 5,770  (Ranked 61)  
 Sum: 8,490 (Ranked 97)  

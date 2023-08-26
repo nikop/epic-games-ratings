@@ -5,18 +5,18 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Such a strange dream… | 87.00% | ~232 |
+| Good Person Chip | 85.00% | ~227 |
 | Your first fight | 85.00% | ~227 |
-| Good Person Chip | 84.00% | ~224 |
-| First winning | 83.00% | ~222 |
+| First winning | 84.00% | ~224 |
 | Your first job | 82.00% | ~219 |
 | Old movies enjoyer | 79.00% | ~211 |
 | Fitness professional | 77.00% | ~206 |
-| Depressed visitor | 76.00% | ~203 |
+| Depressed visitor | 77.00% | ~206 |
 | First defeat | 75.00% | ~200 |
 | Neurotrainer – power gainer! | 75.00% | ~200 |
 | Employee of the week | 75.00% | ~200 |
 | Your own amateur gym | 74.00% | ~198 |
-| Run K, run! | 73.00% | ~195 |
+| Run K, run! | 74.00% | ~198 |
 | Fighting is cool | 69.00% | ~184 |
 | Hello, world! | 69.00% | ~184 |
 | No bullying more | 68.00% | ~182 |

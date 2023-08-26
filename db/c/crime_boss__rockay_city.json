@@ -3088,10 +3088,16 @@
       "Rating": 3.94,
       "NumberOfAwards": 1932,
       "NumberOfAwardsMax": 406
+    },
+    {
+      "Time": "2023-08-26T07:58:03.5118588+00:00",
+      "Rating": 3.94,
+      "NumberOfAwards": 1933,
+      "NumberOfAwardsMax": 406
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 1932,
+  "NumberOfAwards": 1933,
   "NumberOfAwardsMax": 406,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3123,7 +3129,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 374
+      "Count": 375
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3144,9 +3150,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 72315,
+  "EOS_Progressed": 72316,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 301,
+  "EOS_NewPlayers": 297,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -16439,6 +16445,11 @@
       "Time": "2023-08-26T07:08:36.3810967+00:00",
       "NumProgressed": 72315,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-08-26T08:06:38.108903+00:00",
+      "NumProgressed": 72316,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 37,
@@ -16458,7 +16469,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 20971
+      "UsersEstimate": 20972
     },
     {
       "ID": "ACH_0012",
@@ -16602,7 +16613,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 53513
+      "UsersEstimate": 53514
     },
     {
       "ID": "ACH_0211",
@@ -16618,7 +16629,7 @@
       "Name": "Too Old for This",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 34711
+      "UsersEstimate": 34712
     },
     {
       "ID": "ACH_0300",
@@ -16666,7 +16677,7 @@
       "Name": "Case Closed",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 25310
+      "UsersEstimate": 25311
     },
     {
       "ID": "ACH_0420",
@@ -16682,7 +16693,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 25310
+      "UsersEstimate": 25311
     },
     {
       "ID": "ACH_0431",
@@ -16745,22 +16756,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 72315,
+      "Progressed": 72316,
       "Completed": 42
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 662,
-      "Completed": 662
+      "Progressed": 663,
+      "Completed": 663
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-08-25T13:02:32.3153816+00:00",
-  "LastChanged_Achievements": "2023-08-26T07:08:36.3810963+00:00",
+  "LastChanged": "2023-08-26T07:58:03.5118586+00:00",
+  "LastChanged_Achievements": "2023-08-26T08:06:38.1089023+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:48.5211502+00:00",
-  "LastUpdate_Ratings": "2023-08-26T06:59:04.5536425+00:00",
-  "LastUpdate_Achievements": "2023-08-26T07:08:36.381215+00:00"
+  "LastUpdate_Ratings": "2023-08-26T07:58:03.5118596+00:00",
+  "LastUpdate_Achievements": "2023-08-26T08:06:38.1090233+00:00"
 }

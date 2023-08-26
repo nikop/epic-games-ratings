@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 75.00% | ~374 |
-| The Adventure Begins | 54.00% | ~269 |
+| A New Journey | 74.00% | ~370 |
+| The Adventure Begins | 54.00% | ~270 |
 | Swabbie | 39.00% | ~195 |
 | With Great Power… | 36.00% | ~180 |
 | This Belongs in a Museum | 30.00% | ~150 |
@@ -21,9 +21,9 @@
 | All Good Things | 6.00% | ~30 |
 | Jaded Judge | 6.00% | ~30 |
 | Rustic Recipe | 6.00% | ~30 |
+| Tobacco Travesty | 5.00% | ~25 |
 | Lyrical Longing | 5.00% | ~25 |
 | Privateer | 4.00% | ~20 |
-| Tobacco Travesty | 4.00% | ~20 |
 | Accursed Artifacts | 4.00% | ~20 |
 | Corsair | 3.00% | ~15 |
 | Freebooter | 2.00% | ~10 |
@@ -31,7 +31,7 @@
 | Marauder | 1.00% | ~5 |
 | Welcome Back Jester | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 499 (Ranked 231)  
+Progressed: 500 (Ranked 231)  
 Completed: 1 (0.20%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -52,4 +52,4 @@ Completed: 1 (0.20%) (Ranked 188)
 | 2023-08-23 | 465 | 0 |
 | 2023-08-24 | 485 | 0 |
 | 2023-08-25 | 499 | 0 |
-| 2023-08-26 | 499 | 1 |
+| 2023-08-26 | 500 | 1 |

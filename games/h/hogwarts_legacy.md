@@ -5,14 +5,14 @@ Rating: 4.77 (Ranked 108)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 13.00% | ~37,805 |
-| First Class Student | 11.00% | ~31,989 |
-| Troll with the Punches | 11.00% | ~31,989 |
-| The Hallowed Hero | 10.00% | ~29,081 |
-| The Defender of Dragons | 10.00% | ~29,081 |
-| A Keen Sense of Spell | 10.00% | ~29,081 |
-| A Talent for Spending | 10.00% | ~29,081 |
-| That's a Keeper | 10.00% | ~29,081 |
+| The Sort Who Makes an Entrance | 13.00% | ~37,806 |
+| First Class Student | 11.00% | ~31,990 |
+| Troll with the Punches | 11.00% | ~31,990 |
+| The Hallowed Hero | 10.00% | ~29,082 |
+| The Defender of Dragons | 10.00% | ~29,082 |
+| A Keen Sense of Spell | 10.00% | ~29,082 |
+| A Talent for Spending | 10.00% | ~29,082 |
+| That's a Keeper | 10.00% | ~29,082 |
 | Grappling with a Graphorn | 9.00% | ~26,173 |
 | The One Who Mastered Memories | 9.00% | ~26,173 |
 | The Hero of Hogwarts | 9.00% | ~26,173 |
@@ -30,12 +30,12 @@ Rating: 4.77 (Ranked 108)
 | The Root of the Problem | 5.00% | ~14,541 |
 | Third Time's a Charm | 5.00% | ~14,541 |
 | Raising Expectations | 5.00% | ~14,541 |
-| The Toast of the Town | 4.00% | ~11,632 |
-| Going Through the Potions | 4.00% | ~11,632 |
-| Room with a View | 4.00% | ~11,632 |
-| The Intrepid Explorer | 4.00% | ~11,632 |
-| The Gryffindor in the Graveyard | 4.00% | ~11,632 |
-| The Ends Petrify the Means | 4.00% | ~11,632 |
+| The Toast of the Town | 4.00% | ~11,633 |
+| Going Through the Potions | 4.00% | ~11,633 |
+| Room with a View | 4.00% | ~11,633 |
+| The Intrepid Explorer | 4.00% | ~11,633 |
+| The Gryffindor in the Graveyard | 4.00% | ~11,633 |
+| The Ends Petrify the Means | 4.00% | ~11,633 |
 | Floo Around the World | 3.00% | ~8,724 |
 | The Wise Owl | 3.00% | ~8,724 |
 | The Good Samaritan | 2.00% | ~5,816 |
@@ -47,11 +47,11 @@ Rating: 4.77 (Ranked 108)
 | Demiguise Dread | 1.00% | ~2,908 |
 | A Forte for Achievement | 1.00% | ~2,908 |
 | Merlin's Beard! | 0.90% | ~2,617 |
-| Spilled Milk | 0.80% | ~2,326 |
+| Spilled Milk | 0.80% | ~2,327 |
 | The Nature of the Beast | 0.60% | ~1,745 |
 | Collector's Edition | 0.30% | ~872 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,811 (Ranked 43)  
+Progressed: 290,816 (Ranked 43)  
 Completed: 455 (0.16%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 455 (0.16%) (Ranked 195)
 | 2023-08-23 | 290,678 | 454 |
 | 2023-08-24 | 290,736 | 454 |
 | 2023-08-25 | 290,790 | 455 |
-| 2023-08-26 | 290,811 | 455 |
+| 2023-08-26 | 290,816 | 455 |
 ## Awards
 Max (Character Customization): 21,923  (Ranked 17)  
 Sum: 41,542 (Ranked 30)  

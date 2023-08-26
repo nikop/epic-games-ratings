@@ -9,10 +9,10 @@ Number of Ratings: 19,160  (23.09.2022)
 | Clean Sheet | 50.00% | ~235,702 |
 | He's Signed! | 50.00% | ~235,702 |
 | First Victory | 50.00% | ~235,702 |
-| He's Sold! | 48.00% | ~226,273 |
-| I'm The Boss! | 42.00% | ~197,989 |
-| Hat-trick | 41.00% | ~193,275 |
-| Scoring Streak | 38.00% | ~179,133 |
+| He's Sold! | 48.00% | ~226,274 |
+| I'm The Boss! | 42.00% | ~197,990 |
+| Hat-trick | 41.00% | ~193,276 |
+| Scoring Streak | 38.00% | ~179,134 |
 | Unbeatable! | 37.00% | ~174,419 |
 | Thumping | 37.00% | ~174,419 |
 | Superb Dressing Room Atmosphere | 35.00% | ~164,991 |
@@ -46,13 +46,13 @@ Number of Ratings: 19,160  (23.09.2022)
 | Do The Double | 19.00% | ~89,567 |
 | Top Form | 17.00% | ~80,139 |
 | Cash To Burn | 17.00% | ~80,139 |
-| Beating Expectations | 15.00% | ~70,710 |
-| Overachiever! | 15.00% | ~70,710 |
-| Rushed signing | 15.00% | ~70,710 |
-| Window Shopping | 15.00% | ~70,710 |
-| Eyes and Ears | 14.00% | ~65,996 |
-| Comeback King! | 13.00% | ~61,282 |
-| You're Up! | 13.00% | ~61,282 |
+| Beating Expectations | 15.00% | ~70,711 |
+| Overachiever! | 15.00% | ~70,711 |
+| Rushed signing | 15.00% | ~70,711 |
+| Window Shopping | 15.00% | ~70,711 |
+| Eyes and Ears | 14.00% | ~65,997 |
+| Comeback King! | 13.00% | ~61,283 |
+| You're Up! | 13.00% | ~61,283 |
 | Money, Money, Money | 12.00% | ~56,568 |
 | Superb Strike | 10.00% | ~47,140 |
 | International Superstar | 10.00% | ~47,140 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~471 |
 | Shoestring Budget | 0.10% | ~471 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 471,403 (Ranked 36)  
+Progressed: 471,404 (Ranked 36)  
 Completed: 20 (0.00%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,10 +233,10 @@ Completed: 20 (0.00%) (Ranked 264)
 | 2023-08-23 | 471,204 | 20 |
 | 2023-08-24 | 471,294 | 20 |
 | 2023-08-25 | 471,381 | 20 |
-| 2023-08-26 | 471,403 | 20 |
+| 2023-08-26 | 471,404 | 20 |
 ## Awards
 Max (Relaxing): 6,416  (Ranked 54)  
-Sum: 50,477 (Ranked 24)  
+Sum: 50,479 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -246,7 +246,7 @@ Diff (max vs sum): 30
 | This game has Quickly Understood Controls | 5,845 |
 | This game is Highly Recommended | 5,818 |
 | This game is Educational | 5,816 |
-| This game has Diverse Characters | 5,468 |
+| This game has Diverse Characters | 5,470 |
 | This game has Amazing Storytelling | 4,889 |
 | This game has Obsessive Gameplay | 4,416 |
 | This game has Amazing Characters | 4,357 |
@@ -466,4 +466,4 @@ Diff (max vs sum): 30
 | 2023-08-23 | 4.80 | - | 6,410 | 50,451 |
 | 2023-08-24 | 4.80 | - | 6,413 | 50,468 |
 | 2023-08-25 | 4.80 | - | 6,416 | 50,475 |
-| 2023-08-26 | 4.80 | - | 6,416 | 50,477 |
+| 2023-08-26 | 4.80 | - | 6,416 | 50,479 |

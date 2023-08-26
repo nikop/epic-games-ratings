@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -118,9 +118,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3977,
+  "EOS_Progressed": 3978,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -6208,6 +6208,11 @@
       "Time": "2023-08-25T19:07:38.6847389+00:00",
       "NumProgressed": 3977,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-26T08:06:08.2367345+00:00",
+      "NumProgressed": 3978,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 71,
@@ -6619,7 +6624,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "Ach052",
@@ -6786,13 +6791,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3977,
+      "Progressed": 3978,
       "Completed": 7
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2498,
+      "Progressed": 2499,
       "Completed": 1929
     }
   ],
@@ -6800,8 +6805,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-08-10T23:00:09.4128826+00:00",
-  "LastChanged_Achievements": "2023-08-26T07:08:00.3299825+00:00",
+  "LastChanged_Achievements": "2023-08-26T08:06:08.2367338+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:54.770039+00:00",
-  "LastUpdate_Ratings": "2023-08-26T07:02:08.6026595+00:00",
-  "LastUpdate_Achievements": "2023-08-26T07:08:00.3301049+00:00"
+  "LastUpdate_Ratings": "2023-08-26T08:00:31.498152+00:00",
+  "LastUpdate_Achievements": "2023-08-26T08:06:08.2368582+00:00"
 }

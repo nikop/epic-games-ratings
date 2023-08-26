@@ -3725,9 +3725,9 @@
       "ID": "achSmellOfSuccessCargo",
       "SetID": "dgl390n",
       "Name": "Cargo hub",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 843
+      "UsersEstimate": 859
     },
     {
       "ID": "achTopSpeed120",
@@ -3797,8 +3797,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-08-17T14:57:18.7494823+00:00",
-  "LastChanged_Achievements": "2023-08-26T07:08:15.7280273+00:00",
+  "LastChanged_Achievements": "2023-08-26T08:06:20.9362755+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:42.2047578+00:00",
-  "LastUpdate_Ratings": "2023-08-26T06:58:59.80375+00:00",
-  "LastUpdate_Achievements": "2023-08-26T07:08:15.7281029+00:00"
+  "LastUpdate_Ratings": "2023-08-26T07:58:00.6271376+00:00",
+  "LastUpdate_Achievements": "2023-08-26T08:06:20.9363549+00:00"
 }

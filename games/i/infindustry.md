@@ -17,7 +17,7 @@
 | Rep3 | 1.00% | ~1 |
 | Researcher | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 80 (Ranked 348)  
+Progressed: 80 (Ranked 349)  
 Completed: 1 (1.25%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |

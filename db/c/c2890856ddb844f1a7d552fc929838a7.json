@@ -4,7 +4,7 @@
   "ProductSlug": "blasphemous-2",
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 373,
+  "EOS_Progressed": 375,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 372,
+  "EOS_NewPlayers": 374,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -252,6 +252,11 @@
       "Time": "2023-08-26T07:06:10.0834928+00:00",
       "NumProgressed": 373,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-26T08:04:39.6662844+00:00",
+      "NumProgressed": 375,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -272,7 +277,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 86,
       "XP": 30,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "AC02",
@@ -280,7 +285,7 @@
       "Name": "Blood and Dust",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "AC03",
@@ -288,7 +293,7 @@
       "Name": "Blood and Gold",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "AC04",
@@ -302,9 +307,9 @@
       "ID": "AC05",
       "SetID": "l4abp0",
       "Name": "The Sharpest Tool in the Shed",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 71
+      "UsersEstimate": 75
     },
     {
       "ID": "AC06",
@@ -406,9 +411,9 @@
       "ID": "AC18",
       "SetID": "l4abp0",
       "Name": "Acquired Taste",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 19
     },
     {
       "ID": "AC19",
@@ -440,7 +445,7 @@
       "Name": "Empty Handed",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "AC23",
@@ -464,7 +469,7 @@
       "Name": "House of Grief and Hatred",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "AC26",
@@ -472,7 +477,7 @@
       "Name": "A Leap of Faith",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "AC27",
@@ -488,31 +493,31 @@
       "Name": "The Punished One",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "AC29",
       "SetID": "l4abp0",
       "Name": "The Veteran One",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 56
     },
     {
       "ID": "AC30",
       "SetID": "l4abp0",
       "Name": "The Anointed One",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 98
     },
     {
       "ID": "AC31",
       "SetID": "l4abp0",
       "Name": "The Merciless One",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 38
     },
     {
       "ID": "AC32",
@@ -552,7 +557,7 @@
       "Name": "Blessed Incense",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "AC37",
@@ -566,9 +571,9 @@
       "ID": "AC38",
       "SetID": "l4abp0",
       "Name": "Edge of Orison",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 15
     },
     {
       "ID": "AC39",
@@ -582,9 +587,9 @@
       "ID": "AC40",
       "SetID": "l4abp0",
       "Name": "Welcome Back!",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 255
     },
     {
       "ID": "AC41",
@@ -592,7 +597,7 @@
       "Name": "Happy New Year!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "AC42",
@@ -631,14 +636,14 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 373,
+      "Progressed": 375,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-26T07:57:19.1818171+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
-  "LastChanged_Achievements": "2023-08-26T07:06:10.0834924+00:00",
+  "LastChanged_Achievements": "2023-08-26T08:04:39.6662839+00:00",
   "LastUpdate_AppInfo": "2023-08-22T18:57:00.5189311+00:00",
-  "LastUpdate_Ratings": "2023-08-26T06:59:54.8756079+00:00",
-  "LastUpdate_Achievements": "2023-08-26T07:06:10.0835341+00:00"
+  "LastUpdate_Ratings": "2023-08-26T07:58:43.6613492+00:00",
+  "LastUpdate_Achievements": "2023-08-26T08:04:39.6663245+00:00"
 }

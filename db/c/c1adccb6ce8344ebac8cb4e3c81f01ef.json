@@ -960,9 +960,9 @@
       "ID": "OrangeSkeleton",
       "SetID": "a76l54k",
       "Name": "Orange Skeleton",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 121
+      "UsersEstimate": 123
     },
     {
       "ID": "RedSkeleton",
@@ -991,8 +991,8 @@
   ],
   "FirstSeen": "2023-06-27T08:56:55.4742028+00:00",
   "FirstSeenAchievements": "2023-06-15T10:01:05.3060571+00:00",
-  "LastChanged_Achievements": "2023-08-26T07:03:18.546103+00:00",
+  "LastChanged_Achievements": "2023-08-26T08:02:16.83301+00:00",
   "LastUpdate_AppInfo": "2023-08-24T17:57:03.5736235+00:00",
-  "LastUpdate_Ratings": "2023-08-26T07:00:08.3593604+00:00",
-  "LastUpdate_Achievements": "2023-08-26T07:03:18.5461898+00:00"
+  "LastUpdate_Ratings": "2023-08-26T07:58:55.5143634+00:00",
+  "LastUpdate_Achievements": "2023-08-26T08:02:16.8330384+00:00"
 }
