@@ -11,7 +11,7 @@
 | 9 | [Overloop](games/o/overloop.md) | 25.00% |
 | 10 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 11 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 23.73% |
-| 12 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.40% |
+| 12 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.24% |
 | 13 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 13 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 18.66% |
@@ -30,7 +30,7 @@
 | 28 | [Remains](games/r/remains.md) | 10.42% |
 | 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.29% |
 | 30 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
-| 31 | [Sonic Origins](games/s/sonic_origins.md) | 9.41% |
+| 31 | [Sonic Origins](games/s/sonic_origins.md) | 9.39% |
 | 32 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
 | 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.98% |
 | 34 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.47% |
@@ -126,20 +126,20 @@
 | 124 | [Hades](games/h/hades.md) | 0.90% |
 | 125 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 126 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
-| 127 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.81% |
-| 128 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.75% |
-| 129 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.74% |
-| 130 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.72% |
-| 131 | [Lemon Cake](games/l/lemon_cake.md) | 0.70% |
-| 132 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.69% |
-| 133 | [Haven](games/h/haven.md) | 0.64% |
-| 134 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.62% |
-| 134 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.62% |
-| 134 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.62% |
-| 137 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
-| 137 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.61% |
-| 139 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.59% |
-| 139 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 0.59% |
+| 127 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.80% |
+| 128 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 0.79% |
+| 129 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.75% |
+| 130 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.74% |
+| 131 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.72% |
+| 132 | [Lemon Cake](games/l/lemon_cake.md) | 0.70% |
+| 133 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.69% |
+| 134 | [Haven](games/h/haven.md) | 0.64% |
+| 135 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.62% |
+| 135 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.62% |
+| 135 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.62% |
+| 138 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
+| 138 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.61% |
+| 140 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.59% |
 | 141 | [Potion Permit](games/p/potion_permit.md) | 0.58% |
 | 142 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.57% |
 | 143 | [Grindstone](games/g/grindstone.md) | 0.56% |
