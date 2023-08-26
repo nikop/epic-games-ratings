@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1310,
+  "EOS_Progressed": 1311,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2290,6 +2290,11 @@
       "Time": "2023-08-26T10:08:28.9786794+00:00",
       "NumProgressed": 1310,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-26T11:07:42.9362258+00:00",
+      "NumProgressed": 1311,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2301,7 +2306,7 @@
       "Name": "Agent 47",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "Auditor",
@@ -2333,7 +2338,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "Commandos",
@@ -2389,7 +2394,7 @@
       "Name": "The Gang\u0027s All Here",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "Experienced_strategist",
@@ -2429,7 +2434,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "High_noon",
@@ -2485,7 +2490,7 @@
       "Name": "Bomberman",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "MoskitoBite",
@@ -2493,7 +2498,7 @@
       "Name": "Mosquito bite",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "Scout",
@@ -2540,15 +2545,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1310,
+      "Progressed": 1311,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-08-26T10:08:28.9786788+00:00",
+  "LastChanged_Achievements": "2023-08-26T11:07:42.9362251+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:40.0859007+00:00",
-  "LastUpdate_Ratings": "2023-08-26T09:58:37.7433128+00:00",
-  "LastUpdate_Achievements": "2023-08-26T10:08:28.9787061+00:00"
+  "LastUpdate_Ratings": "2023-08-26T10:57:29.5187231+00:00",
+  "LastUpdate_Achievements": "2023-08-26T11:07:42.9362874+00:00"
 }

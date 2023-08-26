@@ -6,18 +6,18 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,739,790 |
-| Easy to forget | 46.00% | ~1,633,272 |
-| Back in the black | 39.00% | ~1,384,730 |
-| That's what I'm talking about | 29.00% | ~1,029,671 |
-| The Best of Both Worlds | 25.00% | ~887,648 |
-| Get your wings | 20.00% | ~710,118 |
-| Double trouble | 16.00% | ~568,095 |
-| Smashing it | 10.00% | ~355,059 |
-| But can it run Crysis? | 9.00% | ~319,553 |
-| My favourite feature... | 9.00% | ~319,553 |
-| From humble beginnings... | 7.00% | ~248,541 |
-| Customer satisfaction | 7.00% | ~248,541 |
+| You need to plug it in... | 49.00% | ~1,739,797 |
+| Easy to forget | 46.00% | ~1,633,279 |
+| Back in the black | 39.00% | ~1,384,737 |
+| That's what I'm talking about | 29.00% | ~1,029,676 |
+| The Best of Both Worlds | 25.00% | ~887,652 |
+| Get your wings | 20.00% | ~710,121 |
+| Double trouble | 16.00% | ~568,097 |
+| Smashing it | 10.00% | ~355,061 |
+| But can it run Crysis? | 9.00% | ~319,555 |
+| My favourite feature... | 9.00% | ~319,555 |
+| From humble beginnings... | 7.00% | ~248,542 |
+| Customer satisfaction | 7.00% | ~248,542 |
 | Keeping things neat | 4.00% | ~142,024 |
 | Seems you're pretty good at this | 4.00% | ~142,024 |
 | Bending over backwards | 4.00% | ~142,024 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,551 |
 | Treat yourself - GPU | 0.10% | ~3,551 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,550,591 (Ranked 5)  
+Progressed: 3,550,607 (Ranked 5)  
 Completed: 33 (0.00%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,10 +187,10 @@ Completed: 33 (0.00%) (Ranked 264)
 | 2023-08-23 | 3,549,631 | 33 |
 | 2023-08-24 | 3,550,034 | 33 |
 | 2023-08-25 | 3,550,430 | 33 |
-| 2023-08-26 | 3,550,591 | 33 |
+| 2023-08-26 | 3,550,607 | 33 |
 ## Awards
 Max (Great for Beginners): 1,061  (Ranked 141)  
-Sum: 7,949 (Ranked 100)  
+Sum: 7,951 (Ranked 100)  
 Diff (max vs sum): 41  
 | Award | Count |
 | ----- | ----- |
@@ -199,8 +199,8 @@ Diff (max vs sum): 41
 | This game is Relaxing | 981 |
 | This game is Extremely Fun | 980 |
 | This game has Quickly Understood Controls | 939 |
-| This game is Highly Recommended | 890 |
-| This game has Amazing Storytelling | 813 |
+| This game is Highly Recommended | 891 |
+| This game has Amazing Storytelling | 814 |
 | This game has Obsessive Gameplay | 664 |
 | This game has Amazing Characters | 653 |
 | This game has a Creative Community | 642 |
@@ -394,3 +394,4 @@ Diff (max vs sum): 41
 | 2023-08-22 | 4.66 | - | 1,061 | 7,946 |
 | 2023-08-23 | 4.66 | - | 1,061 | 7,947 |
 | 2023-08-24 | 4.66 | - | 1,061 | 7,949 |
+| 2023-08-26 | 4.66 | - | 1,061 | 7,951 |

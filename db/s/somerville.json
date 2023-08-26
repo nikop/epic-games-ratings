@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 100,
-  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-11-15T00:00:00+00:00",
@@ -610,9 +610,9 @@
       "ID": "SomervilleWearyTraveller",
       "SetID": "3mk3nll",
       "Name": "Admiring the view",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SomervilleWorldsBestDad",
@@ -635,8 +635,8 @@
   "FirstSeenRating": "2022-11-25T17:58:18.0029626+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.8533708+00:00",
   "LastChanged": "2023-03-31T05:58:16.104552+00:00",
-  "LastChanged_Achievements": "2023-08-26T10:09:18.9224292+00:00",
+  "LastChanged_Achievements": "2023-08-26T11:08:35.4387425+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:27.3136141+00:00",
-  "LastUpdate_Ratings": "2023-08-26T10:02:12.1864236+00:00",
-  "LastUpdate_Achievements": "2023-08-26T10:09:18.922439+00:00"
+  "LastUpdate_Ratings": "2023-08-26T11:01:29.2864808+00:00",
+  "LastUpdate_Achievements": "2023-08-26T11:08:35.438755+00:00"
 }

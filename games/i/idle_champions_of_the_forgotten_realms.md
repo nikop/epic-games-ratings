@@ -42,6 +42,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Mysterious Summons | 0.20% | ~450 |
 | Street War | 0.20% | ~450 |
 | Building Trust | 0.20% | ~450 |
+| March of the Undead | 0.20% | ~450 |
 | Wisdom Check | 0.20% | ~450 |
 | Unearthed Evil | 0.20% | ~450 |
 | No Time To Rest | 0.20% | ~450 |
@@ -222,7 +223,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Underground Railroad | 0.10% | ~225 |
 | Force Grey Unleashed | 0.10% | ~225 |
 | Vajra's Guards | 0.10% | ~225 |
-| March of the Undead | 0.10% | ~225 |
 | Sleuth It Out | 0.10% | ~225 |
 | The Newcomers of Notoriety | 0.10% | ~191 |
 | A Grand Puzzle | 0.10% | ~225 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~191 |
 | Animated Giff | 0.10% | ~191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,032 (Ranked 53)  
+Progressed: 225,045 (Ranked 53)  
 Completed: 2,217 (0.99%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -651,7 +651,7 @@ Completed: 2,217 (0.99%) (Ranked 120)
 | 2023-08-23 | 224,434 | 2,210 |
 | 2023-08-24 | 224,686 | 2,211 |
 | 2023-08-25 | 224,925 | 2,214 |
-| 2023-08-26 | 225,032 | 2,217 |
+| 2023-08-26 | 225,045 | 2,217 |
 ## Awards
 Max (Diverse Characters): 5,189  (Ranked 68)  
 Sum: 31,223 (Ranked 39)  

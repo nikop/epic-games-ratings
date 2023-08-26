@@ -5,18 +5,18 @@ Rating: 3.77 (Ranked 971)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eeligally Ambitious | 95.00% | ~15,322 |
-| No Half Measures | 88.00% | ~14,193 |
-| Personal Matter | 87.00% | ~14,031 |
-| But You Have Heard of Me | 72.00% | ~11,612 |
-| Double the Barrels, double the Fun | 55.00% | ~8,870 |
-| Pimp My Glide | 48.00% | ~7,741 |
-| ... And Where Do the Stories Come From? | 41.00% | ~6,612 |
+| Eeligally Ambitious | 95.00% | ~15,324 |
+| No Half Measures | 88.00% | ~14,194 |
+| Personal Matter | 86.00% | ~13,872 |
+| But You Have Heard of Me | 72.00% | ~11,614 |
+| Double the Barrels, double the Fun | 55.00% | ~8,872 |
+| Pimp My Glide | 48.00% | ~7,742 |
+| ... And Where Do the Stories Come From? | 41.00% | ~6,613 |
 | House Party! | 34.00% | ~5,484 |
 | Make It Rain | 24.00% | ~3,871 |
-| Curse of the Seven Seas | 22.00% | ~3,548 |
-| Head First | 16.00% | ~2,580 |
-| To the World's End | 12.00% | ~1,935 |
+| Curse of the Seven Seas | 22.00% | ~3,549 |
+| Head First | 16.00% | ~2,581 |
+| To the World's End | 12.00% | ~1,936 |
 | Table for Six | 11.00% | ~1,774 |
 | Sharing Is Caring | 10.00% | ~1,613 |
 | I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,290 |
@@ -32,7 +32,7 @@ Rating: 3.77 (Ranked 971)
 | Pufferfish | 0.10% | ~16 |
 | O Captain! My Captain! | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,128 (Ranked 115)  
+Progressed: 16,130 (Ranked 115)  
 Completed: 0 (0.00%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 0 (0.00%) (Ranked 264)
 | 2023-08-23 | 16,119 | 0 |
 | 2023-08-24 | 16,121 | 0 |
 | 2023-08-25 | 16,126 | 0 |
-| 2023-08-26 | 16,128 | 0 |
+| 2023-08-26 | 16,130 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

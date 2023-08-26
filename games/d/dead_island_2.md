@@ -5,6 +5,7 @@ Rating: 4.54 (Ranked 500)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Break A Leg | 0.20% | ~1,331 |
 | Hotel California | 0.20% | ~1,331 |
 | Welcome To Hell-A | 0.20% | ~1,331 |
 | Dr. Reed, I Presume? | 0.10% | ~666 |
@@ -15,7 +16,6 @@ Rating: 4.54 (Ranked 500)
 | LA Influential | 0.10% | ~666 |
 | Perks of the Job | 0.10% | ~666 |
 | Bookworm | 0.10% | ~666 |
-| Break A Leg | 0.10% | ~666 |
 | On Safari | 0.10% | ~666 |
 | I Got a Zombie Army and You Can't Harm Me | 0.10% | ~666 |
 | But Doctor, I am Butcho | 0.10% | ~666 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 500)
 | Rising Star | 0.10% | ~666 |
 | Bucket List | 0.10% | ~666 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 665,586 (Ranked 22)  
+Progressed: 665,620 (Ranked 22)  
 Completed: 2,073 (0.31%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 2,073 (0.31%) (Ranked 172)
 | 2023-08-23 | 663,691 | 2,054 |
 | 2023-08-24 | 664,478 | 2,059 |
 | 2023-08-25 | 665,272 | 2,068 |
-| 2023-08-26 | 665,586 | 2,073 |
+| 2023-08-26 | 665,620 | 2,073 |
 ## Awards
 Max (Great Boss Battles): 5,770  (Ranked 61)  
 Sum: 8,490 (Ranked 97)  

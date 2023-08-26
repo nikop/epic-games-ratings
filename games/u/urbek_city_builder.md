@@ -25,26 +25,27 @@
 | Rebel city | 3.00% | ~10 |
 | Sport is the best thing | 3.00% | ~10 |
 | Banking city | 2.00% | ~6 |
+| Food provider master | 2.00% | ~6 |
 | City crisis | 2.00% | ~6 |
 | Read! Everyone should read! | 2.00% | ~6 |
 | Oh, I love parks, listening to birds! | 2.00% | ~6 |
 | Little Mayor | 2.00% | ~6 |
 | Temperate builder | 2.00% | ~6 |
 | Archipelago builder | 1.00% | ~3 |
-| Food provider master | 1.00% | ~3 |
 | What is there after death? | 1.00% | ~3 |
 | Town planner | 1.00% | ~3 |
 | Temperate urban planner | 1.00% | ~3 |
 | Anarchist Utopia | 0.90% | ~3 |
+| I can't see the sky | 0.90% | ~3 |
 | Oh, I am sad | 0.90% | ~3 |
 | Freedom to go to the mall! | 0.90% | ~3 |
+| Metropolurbek Plus | 0.90% | ~3 |
 | Archipelago urban planner | 0.60% | ~2 |
-| I can't see the sky | 0.60% | ~2 |
 | Desert builder | 0.60% | ~2 |
 | Perfect city | 0.60% | ~2 |
 | Oh, life is too awesome! Thank you! | 0.60% | ~2 |
 | Farming Frenzy | 0.60% | ~2 |
-| Metropolurbek Plus | 0.60% | ~2 |
+| City in flames | 0.60% | ~2 |
 | Restorer | 0.60% | ~2 |
 | Rainforest builder | 0.60% | ~2 |
 | Rainforest urban planner | 0.60% | ~2 |
@@ -57,7 +58,6 @@
 | Desert urban planner | 0.30% | ~1 |
 | ¡Muy feliz! | 0.30% | ~1 |
 | I don't feel well, I have to drink a coffe | 0.30% | ~1 |
-| City in flames | 0.30% | ~1 |
 | Restorer Plus | 0.30% | ~1 |
 | Full temperate | 0.30% | ~1 |
 | Temperate master | 0.30% | ~1 |

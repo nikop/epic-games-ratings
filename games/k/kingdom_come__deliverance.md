@@ -6,12 +6,12 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~255,520 |
-| Cavalier | 25.00% | ~199,625 |
-| Fatso | 23.00% | ~183,655 |
-| Awakening | 21.00% | ~167,685 |
-| Ranger | 20.00% | ~159,700 |
-| Scrooge | 20.00% | ~159,700 |
+| Blacksmith's Son | 32.00% | ~255,521 |
+| Cavalier | 25.00% | ~199,626 |
+| Fatso | 23.00% | ~183,656 |
+| Awakening | 21.00% | ~167,686 |
+| Ranger | 20.00% | ~159,701 |
+| Scrooge | 20.00% | ~159,701 |
 | Anorectic | 16.00% | ~127,760 |
 | Bookworm | 15.00% | ~119,775 |
 | Firestarter | 15.00% | ~119,775 |
@@ -51,45 +51,45 @@ Number of Ratings: 9,133  (23.09.2022)
 | Gambler | 1.00% | ~7,985 |
 | Master Huntsman | 1.00% | ~7,985 |
 | Stealth Killer | 1.00% | ~7,985 |
-| Bailiff | 0.90% | ~7,186 |
-| Tracker | 0.90% | ~7,186 |
-| David Horak | 0.70% | ~5,589 |
-| Fighter | 0.70% | ~5,589 |
-| Mercenary's Honour | 0.70% | ~5,589 |
-| Saviour | 0.70% | ~5,589 |
+| Bailiff | 0.90% | ~7,187 |
+| Tracker | 0.90% | ~7,187 |
+| David Horak | 0.70% | ~5,590 |
+| Fighter | 0.70% | ~5,590 |
+| Mercenary's Honour | 0.70% | ~5,590 |
+| Saviour | 0.70% | ~5,590 |
 | Edward Kelly | 0.60% | ~4,791 |
-| I Can Quit Anytime | 0.50% | ~3,992 |
-| Perfectionist | 0.50% | ~3,992 |
-| Alcoholic | 0.30% | ~2,395 |
-| Sniper | 0.30% | ~2,395 |
+| I Can Quit Anytime | 0.50% | ~3,993 |
+| Perfectionist | 0.50% | ~3,993 |
+| Alcoholic | 0.30% | ~2,396 |
+| Sniper | 0.30% | ~2,396 |
 | Angel of Mercy | 0.20% | ~1,597 |
 | Christian Burial | 0.20% | ~1,597 |
 | Friends without benefits | 0.20% | ~1,597 |
 | Game Over | 0.20% | ~1,597 |
 | Not-so-Christian Burial | 0.20% | ~1,597 |
 | True Friend | 0.20% | ~1,597 |
-| Bad Girl | 0.10% | ~798 |
-| Cleric's pet | 0.10% | ~798 |
-| Full House Sinner | 0.10% | ~798 |
-| Lord Capon's Ghost | 0.10% | ~798 |
-| Hardcore Henry | 0.10% | ~798 |
-| Infernal Justice | 0.10% | ~798 |
-| Judas | 0.10% | ~798 |
-| Like a Ghost | 0.10% | ~798 |
-| Lost Trinket | 0.10% | ~798 |
-| Merciful | 0.10% | ~798 |
-| You had one job! | 0.10% | ~798 |
-| Pilgrim | 0.10% | ~798 |
-| Pinky Promis | 0.10% | ~798 |
-| Ledetchko Revenant | 0.10% | ~798 |
-| 'Tis but a scratch | 0.10% | ~798 |
-| Torturer | 0.10% | ~798 |
-| Trial-And-Error | 0.10% | ~798 |
-| Virgin | 0.10% | ~798 |
-| Voyeur | 0.10% | ~798 |
-| Wingman | 0.10% | ~798 |
+| Bad Girl | 0.10% | ~799 |
+| Cleric's pet | 0.10% | ~799 |
+| Full House Sinner | 0.10% | ~799 |
+| Lord Capon's Ghost | 0.10% | ~799 |
+| Hardcore Henry | 0.10% | ~799 |
+| Infernal Justice | 0.10% | ~799 |
+| Judas | 0.10% | ~799 |
+| Like a Ghost | 0.10% | ~799 |
+| Lost Trinket | 0.10% | ~799 |
+| Merciful | 0.10% | ~799 |
+| You had one job! | 0.10% | ~799 |
+| Pilgrim | 0.10% | ~799 |
+| Pinky Promis | 0.10% | ~799 |
+| Ledetchko Revenant | 0.10% | ~799 |
+| 'Tis but a scratch | 0.10% | ~799 |
+| Torturer | 0.10% | ~799 |
+| Trial-And-Error | 0.10% | ~799 |
+| Virgin | 0.10% | ~799 |
+| Voyeur | 0.10% | ~799 |
+| Wingman | 0.10% | ~799 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 798,499 (Ranked 16)  
+Progressed: 798,503 (Ranked 16)  
 Completed: 44 (0.01%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 44 (0.01%) (Ranked 251)
 | 2023-08-23 | 798,189 | 44 |
 | 2023-08-24 | 798,310 | 44 |
 | 2023-08-25 | 798,447 | 44 |
-| 2023-08-26 | 798,499 | 44 |
+| 2023-08-26 | 798,503 | 44 |
 ## Awards
 Max (Character Customization): 7,403  (Ranked 47)  
 Sum: 27,568 (Ranked 46)  

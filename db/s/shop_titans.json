@@ -2,7 +2,7 @@
   "ID": "9696e0c7c26841789a152588c744d506",
   "Name": "Shop Titans",
   "ProductSlug": "shop-titans-d95c1c",
-  "Ranking_Rating": 937,
+  "Ranking_Rating": 938,
   "Ranking_Popularity": 71,
   "Ranking_PopularitySum": 47,
   "Ranking_EOS_Progress": 66,
@@ -5690,10 +5690,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27140,
       "NumberOfAwardsMax": 4716
+    },
+    {
+      "Time": "2023-08-26T11:02:29.753054+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27141,
+      "NumberOfAwardsMax": 4716
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27140,
+  "NumberOfAwards": 27141,
   "NumberOfAwardsMax": 4716,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5725,7 +5731,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 3988
+      "Count": 3989
     },
     {
       "Text": "This game is Relaxing",
@@ -5746,9 +5752,9 @@
       "Count": 3737
     }
   ],
-  "EOS_Progressed": 135145,
+  "EOS_Progressed": 135149,
   "EOS_Completed": 138,
-  "EOS_NewPlayers": 388,
+  "EOS_NewPlayers": 392,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -18841,6 +18847,11 @@
       "Time": "2023-08-26T10:09:07.4087128+00:00",
       "NumProgressed": 135145,
       "NumCompleted": 138
+    },
+    {
+      "Time": "2023-08-26T11:08:23.7125309+00:00",
+      "NumProgressed": 135149,
+      "NumCompleted": 138
     }
   ],
   "TotalAchievements": 112,
@@ -19747,15 +19758,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135145,
+      "Progressed": 135149,
       "Completed": 138
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-08-26T09:04:48.3933228+00:00",
-  "LastChanged_Achievements": "2023-08-26T10:09:07.4087124+00:00",
+  "LastChanged": "2023-08-26T11:02:29.7530537+00:00",
+  "LastChanged_Achievements": "2023-08-26T11:08:23.7125302+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:19.0477827+00:00",
-  "LastUpdate_Ratings": "2023-08-26T10:03:08.5967423+00:00",
-  "LastUpdate_Achievements": "2023-08-26T10:09:07.4088922+00:00"
+  "LastUpdate_Ratings": "2023-08-26T11:02:29.7530547+00:00",
+  "LastUpdate_Achievements": "2023-08-26T11:08:23.7129621+00:00"
 }

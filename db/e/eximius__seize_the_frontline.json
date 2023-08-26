@@ -306,9 +306,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 195474,
+  "EOS_Progressed": 195480,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 547,
+  "EOS_NewPlayers": 550,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14106,6 +14106,11 @@
       "Time": "2023-08-26T10:06:46.9818855+00:00",
       "NumProgressed": 195474,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-26T11:05:48.1922493+00:00",
+      "NumProgressed": 195480,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -14125,7 +14130,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 138787
+      "UsersEstimate": 138791
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -14149,7 +14154,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 35185
+      "UsersEstimate": 35186
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -14221,7 +14226,7 @@
       "Name": "Tag Team Champions",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 3909
+      "UsersEstimate": 3910
     },
     {
       "ID": "ACH_WIN_COOP_NODAMAGE_SIEGE",
@@ -14244,7 +14249,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 195474,
+      "Progressed": 195480,
       "Completed": 4
     }
   ],
@@ -14252,8 +14257,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-08-23T04:57:31.1558679+00:00",
-  "LastChanged_Achievements": "2023-08-26T10:06:46.981885+00:00",
+  "LastChanged_Achievements": "2023-08-26T11:05:48.1922485+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:14.4475248+00:00",
-  "LastUpdate_Ratings": "2023-08-26T09:59:20.5035733+00:00",
-  "LastUpdate_Achievements": "2023-08-26T10:06:46.9819558+00:00"
+  "LastUpdate_Ratings": "2023-08-26T10:58:15.1284921+00:00",
+  "LastUpdate_Achievements": "2023-08-26T11:05:48.1923762+00:00"
 }

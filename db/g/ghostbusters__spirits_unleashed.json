@@ -11462,9 +11462,9 @@
       "ID": "Fully_Upgraded",
       "SetID": "819popo",
       "Name": "Fully Upgraded",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 13434
+      "UsersEstimate": 13687
     },
     {
       "ID": "GB_In_Training",
@@ -11743,8 +11743,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-08-25T17:57:01.9365681+00:00",
-  "LastChanged_Achievements": "2023-08-26T10:05:14.8050441+00:00",
+  "LastChanged_Achievements": "2023-08-26T11:04:10.6274434+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:16.4521861+00:00",
-  "LastUpdate_Ratings": "2023-08-26T09:58:14.8774257+00:00",
-  "LastUpdate_Achievements": "2023-08-26T10:05:14.8051269+00:00"
+  "LastUpdate_Ratings": "2023-08-26T10:57:04.1750344+00:00",
+  "LastUpdate_Achievements": "2023-08-26T11:04:10.6276256+00:00"
 }

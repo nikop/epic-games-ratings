@@ -6106,9 +6106,9 @@
       "Count": 3373
     }
   ],
-  "EOS_Progressed": 225032,
+  "EOS_Progressed": 225045,
   "EOS_Completed": 2217,
-  "EOS_NewPlayers": 1763,
+  "EOS_NewPlayers": 1767,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -20106,6 +20106,11 @@
       "Time": "2023-08-26T10:09:17.8576548+00:00",
       "NumProgressed": 225032,
       "NumCompleted": 2217
+    },
+    {
+      "Time": "2023-08-26T11:08:34.8114389+00:00",
+      "NumProgressed": 225045,
+      "NumCompleted": 2217
     }
   ],
   "TotalAchievements": 516,
@@ -21347,9 +21352,9 @@
       "ID": "objective_completed_17",
       "SetID": "cc37lbc",
       "Name": "March of the Undead",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 450
     },
     {
       "ID": "objective_completed_170",
@@ -24244,21 +24249,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 191306,
+      "Progressed": 191319,
       "Completed": 3308
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 225032,
+      "Progressed": 225045,
       "Completed": 2217
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-26T05:01:06.4008424+00:00",
-  "LastChanged_Achievements": "2023-08-26T10:09:17.8576543+00:00",
+  "LastChanged_Achievements": "2023-08-26T11:08:34.811438+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:53.3345914+00:00",
-  "LastUpdate_Ratings": "2023-08-26T10:02:42.6186365+00:00",
-  "LastUpdate_Achievements": "2023-08-26T10:09:17.8600608+00:00"
+  "LastUpdate_Ratings": "2023-08-26T11:02:01.3876435+00:00",
+  "LastUpdate_Achievements": "2023-08-26T11:08:34.8151194+00:00"
 }

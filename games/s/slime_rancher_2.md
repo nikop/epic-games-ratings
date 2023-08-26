@@ -1,7 +1,7 @@
 # Slime Rancher 2
 [Store](https://store.epicgames.com/en-US/p/slime-rancher-2)  
 [View Rawdata](../../db/s/slime_rancher_2.json)  
-Rating: 4.79 (Ranked 86)  
+Rating: 4.80 (Ranked 81)  
 Number of Ratings: 36  (23.09.2022)  
 ## Awards
 Max (Amazing Storytelling): 101  (Ranked 336)  
@@ -75,3 +75,4 @@ Diff (max vs sum): 79
 | 2023-08-18 | 4.79 | - | 101 | 839 |
 | 2023-08-20 | 4.79 | - | 101 | 840 |
 | 2023-08-25 | 4.79 | - | 101 | 842 |
+| 2023-08-26 | 4.80 | - | 101 | 842 |

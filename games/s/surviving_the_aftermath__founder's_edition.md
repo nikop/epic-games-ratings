@@ -6,49 +6,49 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 72.00% | ~6,153 |
-| Leader | 60.00% | ~5,128 |
-| Explorer | 53.00% | ~4,529 |
-| Healer | 52.00% | ~4,444 |
-| Aspiring Inventor | 44.00% | ~3,760 |
-| Adventurer | 41.00% | ~3,504 |
-| Famous Healer | 38.00% | ~3,247 |
-| Local Leader | 35.00% | ~2,991 |
-| Famous Explorer | 34.00% | ~2,906 |
-| New Opportunities | 34.00% | ~2,906 |
-| Energized | 33.00% | ~2,820 |
-| The Long Haul | 33.00% | ~2,820 |
-| The Great Healer | 31.00% | ~2,649 |
-| Survivor | 31.00% | ~2,649 |
-| Legendary Explorer | 28.00% | ~2,393 |
-| Cleaner | 28.00% | ~2,393 |
-| Catastrofan | 28.00% | ~2,393 |
-| Finders, Keepers | 26.00% | ~2,222 |
-| Top Notch | 25.00% | ~2,136 |
+| First Step | 72.00% | ~6,156 |
+| Leader | 60.00% | ~5,130 |
+| Explorer | 53.00% | ~4,532 |
+| Healer | 52.00% | ~4,446 |
+| Aspiring Inventor | 44.00% | ~3,762 |
+| Adventurer | 41.00% | ~3,506 |
+| Famous Healer | 38.00% | ~3,249 |
+| Local Leader | 35.00% | ~2,992 |
+| Famous Explorer | 34.00% | ~2,907 |
+| New Opportunities | 34.00% | ~2,907 |
+| Energized | 33.00% | ~2,822 |
+| The Long Haul | 33.00% | ~2,822 |
+| The Great Healer | 31.00% | ~2,650 |
+| Survivor | 31.00% | ~2,650 |
+| Legendary Explorer | 28.00% | ~2,394 |
+| Cleaner | 28.00% | ~2,394 |
+| Catastrofan | 28.00% | ~2,394 |
+| Finders, Keepers | 26.00% | ~2,223 |
+| Top Notch | 25.00% | ~2,138 |
 | Great Leader | 23.00% | ~1,966 |
 | Mentor | 23.00% | ~1,966 |
-| Merchant | 22.00% | ~1,880 |
-| Ice Lakes | 22.00% | ~1,880 |
-| Real Survivor | 22.00% | ~1,880 |
-| Rocket Surgeon | 20.00% | ~1,709 |
+| Merchant | 22.00% | ~1,881 |
+| Ice Lakes | 22.00% | ~1,881 |
+| Real Survivor | 22.00% | ~1,881 |
+| Rocket Surgeon | 20.00% | ~1,710 |
 | War Never Changes | 19.00% | ~1,624 |
-| Big Game Hunter | 17.00% | ~1,453 |
-| Spreading Influence | 17.00% | ~1,453 |
-| Friendly | 16.00% | ~1,367 |
-| Around the World | 16.00% | ~1,367 |
+| Big Game Hunter | 17.00% | ~1,454 |
+| Spreading Influence | 17.00% | ~1,454 |
+| Friendly | 16.00% | ~1,368 |
+| Around the World | 16.00% | ~1,368 |
 | Bookworm | 15.00% | ~1,282 |
-| Famous Adventurer | 14.00% | ~1,196 |
-| Prepared for Anything | 13.00% | ~1,111 |
-| Big Catastrofan | 13.00% | ~1,111 |
+| Famous Adventurer | 14.00% | ~1,197 |
+| Prepared for Anything | 13.00% | ~1,112 |
+| Big Catastrofan | 13.00% | ~1,112 |
 | It's a Finnish Thing | 10.00% | ~855 |
-| Trader | 9.00% | ~769 |
-| Sky Burial | 9.00% | ~769 |
+| Trader | 9.00% | ~770 |
+| Sky Burial | 9.00% | ~770 |
 | Bread and Circuses | 8.00% | ~684 |
-| New Eden | 7.00% | ~598 |
-| Tailored to fit | 7.00% | ~598 |
+| New Eden | 7.00% | ~599 |
+| Tailored to fit | 7.00% | ~599 |
 | Really Friendly | 6.00% | ~513 |
 | Amped Up | 6.00% | ~513 |
-| Look, no Hands! | 5.00% | ~427 |
+| Look, no Hands! | 5.00% | ~428 |
 | Luxurious Living | 4.00% | ~342 |
 | Mogul | 3.00% | ~256 |
 | Ranch Hand | 3.00% | ~256 |
@@ -56,17 +56,17 @@ Number of Ratings: 836  (23.09.2022)
 | Doomsday is canceled | 2.00% | ~171 |
 | Biggest Catastrofan | 2.00% | ~171 |
 | True Survivor | 2.00% | ~171 |
-| The Friendliest | 1.00% | ~85 |
-| Legendary Adventurer | 1.00% | ~85 |
-| Slimy yet Satisfying | 1.00% | ~85 |
-| A Closer Look | 1.00% | ~85 |
+| The Friendliest | 1.00% | ~86 |
+| Legendary Adventurer | 1.00% | ~86 |
+| Slimy yet Satisfying | 1.00% | ~86 |
+| A Closer Look | 1.00% | ~86 |
 | Feng Shui | 0.90% | ~77 |
 | Finnished | 0.40% | ~34 |
 | Fun and Games | 0.20% | ~17 |
 | Choo-choo! | 0.20% | ~17 |
 | Customized calamities | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,546 (Ranked 131)  
+Progressed: 8,550 (Ranked 131)  
 Completed: 0 (0.00%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 0 (0.00%) (Ranked 264)
 | 2023-08-23 | 8,491 | 0 |
 | 2023-08-24 | 8,511 | 0 |
 | 2023-08-25 | 8,534 | 0 |
-| 2023-08-26 | 8,546 | 0 |
+| 2023-08-26 | 8,550 | 0 |
 ## Awards
 Max (Extremely Fun): 101  (Ranked 336)  
 Sum: 694 (Ranked 278)  

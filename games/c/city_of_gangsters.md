@@ -5,60 +5,60 @@ Rating: 4.27 (Ranked 816)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~156,282 |
-| Copacetic Coordination | 16.00% | ~54,359 |
-| Fronting the Money | 15.00% | ~50,961 |
-| The Dawn of Automation | 14.00% | ~47,564 |
-| Extraordinary Logistics | 14.00% | ~47,564 |
-| Dirty Money | 13.00% | ~44,167 |
-| Family First | 13.00% | ~44,167 |
-| Cleaning House | 12.00% | ~40,769 |
-| Room in the Back | 12.00% | ~40,769 |
-| Beating the Heat | 11.00% | ~37,372 |
-| Booze Baron | 11.00% | ~37,372 |
-| Friends on the Force | 10.00% | ~33,974 |
-| Neighborhood Watch | 10.00% | ~33,974 |
-| Core Corps | 8.00% | ~27,179 |
-| Sizeable Stash | 8.00% | ~27,179 |
-| Street Fighter | 7.00% | ~23,782 |
-| Friendly Gestures | 7.00% | ~23,782 |
-| People Person | 7.00% | ~23,782 |
+| Corner Clout | 46.00% | ~156,287 |
+| Copacetic Coordination | 16.00% | ~54,361 |
+| Fronting the Money | 15.00% | ~50,963 |
+| The Dawn of Automation | 14.00% | ~47,566 |
+| Extraordinary Logistics | 14.00% | ~47,566 |
+| Dirty Money | 13.00% | ~44,168 |
+| Family First | 13.00% | ~44,168 |
+| Cleaning House | 12.00% | ~40,770 |
+| Room in the Back | 12.00% | ~40,770 |
+| Beating the Heat | 11.00% | ~37,373 |
+| Booze Baron | 11.00% | ~37,373 |
+| Friends on the Force | 10.00% | ~33,975 |
+| Neighborhood Watch | 10.00% | ~33,975 |
+| Core Corps | 8.00% | ~27,180 |
+| Sizeable Stash | 8.00% | ~27,180 |
+| Street Fighter | 7.00% | ~23,783 |
+| Friendly Gestures | 7.00% | ~23,783 |
+| People Person | 7.00% | ~23,783 |
 | Liquor Lord | 6.00% | ~20,385 |
 | Safety in Numbers | 6.00% | ~20,385 |
 | Moving Experiences | 6.00% | ~20,385 |
 | Wise Head | 6.00% | ~20,385 |
 | Show ‘em the Sugar | 6.00% | ~20,385 |
 | Killing Them Softly | 6.00% | ~20,385 |
-| Street Knowledge | 5.00% | ~16,987 |
-| Oh Captain | 5.00% | ~16,987 |
-| Branching Out | 5.00% | ~16,987 |
-| Improvement Missions | 5.00% | ~16,987 |
-| Opportunity Knocked | 5.00% | ~16,987 |
-| City of Big Shoulders | 5.00% | ~16,987 |
-| Mission Mastery | 5.00% | ~16,987 |
+| Street Knowledge | 5.00% | ~16,988 |
+| Oh Captain | 5.00% | ~16,988 |
+| Branching Out | 5.00% | ~16,988 |
+| Improvement Missions | 5.00% | ~16,988 |
+| Opportunity Knocked | 5.00% | ~16,988 |
+| City of Big Shoulders | 5.00% | ~16,988 |
+| Mission Mastery | 5.00% | ~16,988 |
 | Considerable Clams | 4.00% | ~13,590 |
 | Gin Joint | 4.00% | ~13,590 |
 | An Affront to the Enemy | 4.00% | ~13,590 |
 | Friends from Back Home | 4.00% | ~13,590 |
 | Half Century Mark | 4.00% | ~13,590 |
-| Corner Opportunities | 3.00% | ~10,192 |
-| 2122 North Clark Street | 3.00% | ~10,192 |
-| Copious Cabbage | 3.00% | ~10,192 |
-| Sockdolager | 3.00% | ~10,192 |
-| Still Stalwart | 3.00% | ~10,192 |
-| Bees Knees Bootlegger | 3.00% | ~10,192 |
-| Tighten the Screws | 3.00% | ~10,192 |
+| Corner Opportunities | 3.00% | ~10,193 |
+| 2122 North Clark Street | 3.00% | ~10,193 |
+| Copious Cabbage | 3.00% | ~10,193 |
+| Sockdolager | 3.00% | ~10,193 |
+| Still Stalwart | 3.00% | ~10,193 |
+| Bees Knees Bootlegger | 3.00% | ~10,193 |
+| Tighten the Screws | 3.00% | ~10,193 |
 | One of Us | 2.00% | ~6,795 |
 | Baker’s Dozen | 2.00% | ~6,795 |
 | Dropping the Dime | 2.00% | ~6,795 |
 | Spiffy Speakeasies | 2.00% | ~6,795 |
 | Keeping Your Word | 2.00% | ~6,795 |
-| Boxing Them In | 1.00% | ~3,397 |
-| Backroom Empire | 1.00% | ~3,397 |
-| Corner Control | 1.00% | ~3,397 |
-| Full House | 1.00% | ~3,397 |
-| The Rubber Meets the Road | 1.00% | ~3,397 |
-| Cat’s Meow Clubs | 1.00% | ~3,397 |
+| Boxing Them In | 1.00% | ~3,398 |
+| Backroom Empire | 1.00% | ~3,398 |
+| Corner Control | 1.00% | ~3,398 |
+| Full House | 1.00% | ~3,398 |
+| The Rubber Meets the Road | 1.00% | ~3,398 |
+| Cat’s Meow Clubs | 1.00% | ~3,398 |
 | Determined Deliveries | 0.90% | ~3,058 |
 | Stepping It Up | 0.90% | ~3,058 |
 | Boots in the Ground | 0.80% | ~2,718 |
@@ -72,8 +72,8 @@ Rating: 4.27 (Ranked 816)
 | In-House Maintenance | 0.40% | ~1,359 |
 | Bottled Up | 0.30% | ~1,019 |
 | Streetwise | 0.30% | ~1,019 |
-| Dirty Work | 0.20% | ~679 |
-| Balkan Firewater | 0.20% | ~679 |
+| Dirty Work | 0.20% | ~680 |
+| Balkan Firewater | 0.20% | ~680 |
 | Windy City Win | 0.10% | ~340 |
 | Steeling Victory | 0.10% | ~340 |
 | Queen of the City | 0.10% | ~340 |
@@ -86,7 +86,7 @@ Rating: 4.27 (Ranked 816)
 | High Pillow | 0.10% | ~340 |
 | Station Master | 0.10% | ~340 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 339,743 (Ranked 42)  
+Progressed: 339,754 (Ranked 42)  
 Completed: 7 (0.00%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 7 (0.00%) (Ranked 264)
 | 2023-08-23 | 339,257 | 7 |
 | 2023-08-24 | 339,443 | 7 |
 | 2023-08-25 | 339,657 | 7 |
-| 2023-08-26 | 339,743 | 7 |
+| 2023-08-26 | 339,754 | 7 |
 ## Awards
 Max (Great for Beginners): 33  (Ranked 449)  
 Sum: 163 (Ranked 390)  

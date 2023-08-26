@@ -7,9 +7,9 @@ Rating: 4.20 (Ranked 860)
 | ---- | ---------- | ----- |
 | Worlds best dad | 0.40% | ~6 |
 | “Occupied!“ | 0.30% | ~5 |
+| Admiring the view | 0.20% | ~3 |
 | Blues Jam | 0.10% | ~2 |
 | “Here boy…“ | 0.10% | ~2 |
-| Admiring the view | 0.10% | ~2 |
 | Family First | 0.00% | ~0 |
 | First contact | 0.00% | ~0 |
 | Resignation | 0.00% | ~0 |

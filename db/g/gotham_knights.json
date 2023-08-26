@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2528,7 +2528,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 68039,
+  "EOS_Progressed": 68040,
   "EOS_Completed": 109,
   "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 2,
@@ -13223,6 +13223,11 @@
       "Time": "2023-08-26T10:09:39.1431904+00:00",
       "NumProgressed": 68039,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2023-08-26T11:08:56.9309716+00:00",
+      "NumProgressed": 68040,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 61,
@@ -13354,7 +13359,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 9525
+      "UsersEstimate": 9526
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -13474,7 +13479,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 12927
+      "UsersEstimate": 12928
     },
     {
       "ID": "FREEZE_3",
@@ -13482,7 +13487,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 9525
+      "UsersEstimate": 9526
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -13626,7 +13631,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 23133
+      "UsersEstimate": 23134
     },
     {
       "ID": "MYSTERY_02",
@@ -13674,7 +13679,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 9525
+      "UsersEstimate": 9526
     },
     {
       "ID": "MYSTERY_08",
@@ -13721,13 +13726,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 68039,
+      "Progressed": 68040,
       "Completed": 109
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38319,
+      "Progressed": 38320,
       "Completed": 2659
     }
   ],
@@ -13735,8 +13740,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-08-26T06:58:53.6982433+00:00",
-  "LastChanged_Achievements": "2023-08-26T10:09:39.1431901+00:00",
+  "LastChanged_Achievements": "2023-08-26T11:08:56.9309709+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:22.0819335+00:00",
-  "LastUpdate_Ratings": "2023-08-26T09:59:30.6561476+00:00",
-  "LastUpdate_Achievements": "2023-08-26T10:09:39.143287+00:00"
+  "LastUpdate_Ratings": "2023-08-26T10:58:25.9045794+00:00",
+  "LastUpdate_Achievements": "2023-08-26T11:08:56.9311556+00:00"
 }

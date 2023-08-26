@@ -4,7 +4,7 @@
   "ProductSlug": "century-age-of-ashes",
   "Ranking_Rating": 686,
   "Ranking_Popularity": 386,
-  "Ranking_PopularitySum": 293,
+  "Ranking_PopularitySum": 295,
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 341,
@@ -1453,10 +1453,16 @@
       "Rating": 4.41,
       "NumberOfAwards": 627,
       "NumberOfAwardsMax": 66
+    },
+    {
+      "Time": "2023-08-26T11:01:28.4424866+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 575,
+      "NumberOfAwardsMax": 66
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 627,
+  "NumberOfAwards": 575,
   "NumberOfAwardsMax": 66,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -1538,8 +1544,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:28.564577+00:00",
-  "LastChanged": "2023-08-26T10:02:11.5857385+00:00",
+  "LastChanged": "2023-08-26T11:01:28.4424864+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:26.7547978+00:00",
-  "LastUpdate_Ratings": "2023-08-26T10:02:11.5857389+00:00",
-  "LastUpdate_Achievements": "2023-08-26T10:09:05.6525336+00:00"
+  "LastUpdate_Ratings": "2023-08-26T11:01:28.4424873+00:00",
+  "LastUpdate_Achievements": "2023-08-26T11:08:21.6623079+00:00"
 }
