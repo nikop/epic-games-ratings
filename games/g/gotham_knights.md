@@ -6,22 +6,22 @@ Rating: 4.18 (Ranked 876)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 50.00% | ~34,024 |
-| Har, Har, Har, Very Funny | 35.00% | ~23,816 |
-| Loose Ends | 34.00% | ~23,136 |
-| To the Victor Go the Spoils | 28.00% | ~19,053 |
+| Har, Har, Har, Very Funny | 35.00% | ~23,817 |
+| Loose Ends | 34.00% | ~23,137 |
+| To the Victor Go the Spoils | 28.00% | ~19,054 |
 | Knighthood | 27.00% | ~18,373 |
 | Get ReQ'd | 25.00% | ~17,012 |
 | Whispered Words | 25.00% | ~17,012 |
-| The Batman Family | 22.00% | ~14,970 |
-| Lock and Key | 22.00% | ~14,970 |
+| The Batman Family | 22.00% | ~14,971 |
+| Lock and Key | 22.00% | ~14,971 |
 | Something in the Clay | 21.00% | ~14,290 |
-| Quartzer Life Crisis | 20.00% | ~13,609 |
-| Working Hard or Harley Working? | 20.00% | ~13,609 |
-| Unstoppable Force | 20.00% | ~13,609 |
-| Bad Apples in Every Orchard | 20.00% | ~13,609 |
+| Quartzer Life Crisis | 20.00% | ~13,610 |
+| Working Hard or Harley Working? | 20.00% | ~13,610 |
+| Unstoppable Force | 20.00% | ~13,610 |
+| Bad Apples in Every Orchard | 20.00% | ~13,610 |
 | Snow Problem | 19.00% | ~12,929 |
-| The Show Mud Go On | 18.00% | ~12,248 |
-| From Inside Gotham's Walls | 18.00% | ~12,248 |
+| The Show Mud Go On | 18.00% | ~12,249 |
+| From Inside Gotham's Walls | 18.00% | ~12,249 |
 | Protector of Gotham | 17.00% | ~11,568 |
 | Universal Health Scare | 16.00% | ~10,888 |
 | In Your Element | 15.00% | ~10,207 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 876)
 | Element of Surprise | 0.20% | ~77 |
 | It's Nice to Be Wanted | 0.20% | ~77 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,047 (Ranked 81)  
+Progressed: 68,049 (Ranked 81)  
 Completed: 109 (0.16%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 109 (0.16%) (Ranked 195)
 | 2023-08-23 | 68,002 | 109 |
 | 2023-08-24 | 68,017 | 109 |
 | 2023-08-25 | 68,028 | 109 |
-| 2023-08-26 | 68,047 | 109 |
+| 2023-08-26 | 68,049 | 109 |
 ## Awards
 Max (Great Boss Battles): 2,522  (Ranked 100)  
 Sum: 4,198 (Ranked 139)  

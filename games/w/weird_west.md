@@ -1,22 +1,22 @@
 # Weird West: Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/weird-west-906661)  
 [View Rawdata](../../db/w/weird_west.json)  
-Rating: 4.44 (Ranked 648)  
+Rating: 4.44 (Ranked 649)  
 Number of Ratings: 125  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,599 |
-| Self-Improvement | 72.00% | ~1,308 |
-| Perky | 66.00% | ~1,199 |
-| Let’s Ride | 60.00% | ~1,090 |
+| Unforgiven | 88.00% | ~1,600 |
+| Self-Improvement | 72.00% | ~1,309 |
+| Perky | 66.00% | ~1,200 |
+| Let’s Ride | 60.00% | ~1,091 |
 | Welcome to the Weird West | 57.00% | ~1,036 |
 | Dead or Alive | 56.00% | ~1,018 |
-| Full House | 37.00% | ~672 |
+| Full House | 37.00% | ~673 |
 | Off the Trail | 34.00% | ~618 |
 | Justice Served | 29.00% | ~527 |
 | Chain Reaction | 27.00% | ~491 |
-| Through Their Eyes | 26.00% | ~472 |
+| Through Their Eyes | 26.00% | ~473 |
 | Dishonored | 25.00% | ~454 |
 | Rain of Death | 25.00% | ~454 |
 | Scholar | 25.00% | ~454 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Revenant | 0.50% | ~9 |
 | Winter Has Come | 0.40% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,817 (Ranked 176)  
+Progressed: 1,818 (Ranked 176)  
 Completed: 6 (0.33%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 6 (0.33%) (Ranked 169)
 | 2023-08-21 | 1,812 | 4 |
 | 2023-08-24 | 1,814 | 4 |
 | 2023-08-25 | 1,814 | 6 |
-| 2023-08-26 | 1,817 | 6 |
+| 2023-08-26 | 1,818 | 6 |
 ## Awards
 Max (Impact the Story): 25  (Ranked 483)  
 Sum: 25 (Ranked 488)  

@@ -187,8 +187,8 @@ Completed: 0 (0.00%) (Ranked 264)
 | 2023-08-25 | 8,680 | 0 |
 | 2023-08-26 | 8,703 | 0 |
 ## Awards
-Max (Great for Beginners): 64  (Ranked 388)  
-Sum: 460 (Ranked 309)  
+Max (Relaxing): 64  (Ranked 388)  
+Sum: 461 (Ranked 309)  
 Diff (max vs sum): 79  
 | Award | Count |
 | ----- | ----- |
@@ -196,8 +196,8 @@ Diff (max vs sum): 79
 | This game is Relaxing | 64 |
 | This game has Quickly Understood Controls | 61 |
 | This game is Extremely Fun | 59 |
+| This game has Diverse Characters | 59 |
 | This game has Amazing Characters | 58 |
-| This game has Diverse Characters | 58 |
 | This game has Obsessive Gameplay | 51 |
 | This game has Amazing Storytelling | 50 |
 | This game has Playful Visuals | 50 |
@@ -288,4 +288,4 @@ Diff (max vs sum): 79
 | 2023-08-11 | 4.49 | - | 63 | 456 |
 | 2023-08-15 | 4.49 | - | 64 | 457 |
 | 2023-08-19 | 4.49 | - | 64 | 458 |
-| 2023-08-26 | 4.49 | - | 64 | 460 |
+| 2023-08-26 | 4.49 | - | 64 | 461 |

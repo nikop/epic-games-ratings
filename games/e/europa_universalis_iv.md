@@ -6,28 +6,28 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~14,888 |
-| That's a Grand Army | 3.00% | ~11,166 |
-| That is mine! | 3.00% | ~11,166 |
-| Victorious! | 3.00% | ~11,166 |
-| Brothers in Arms | 2.00% | ~7,444 |
-| That's a Grand Navy | 2.00% | ~7,444 |
-| Seriously?! | 2.00% | ~7,444 |
-| Cold War | 1.00% | ~3,722 |
-| Defender of the Faith | 1.00% | ~3,722 |
-| For the Glory | 1.00% | ~3,722 |
-| It's all about the money | 1.00% | ~3,722 |
-| True Catholic | 1.00% | ~3,722 |
-| The Princess is in this Castle | 0.90% | ~3,350 |
-| It's all about luck | 0.80% | ~2,978 |
-| Respected | 0.80% | ~2,978 |
-| Truly Divine Ruler | 0.80% | ~2,978 |
-| Blockader | 0.70% | ~2,605 |
-| Double the Love | 0.70% | ~2,605 |
-| Royal Authority | 0.60% | ~2,233 |
-| Total Control | 0.60% | ~2,233 |
-| Combined Arms | 0.50% | ~1,861 |
-| My armies are invincible! | 0.50% | ~1,861 |
+| Until death do us apart | 4.00% | ~14,894 |
+| That's a Grand Army | 3.00% | ~11,170 |
+| That is mine! | 3.00% | ~11,170 |
+| Victorious! | 3.00% | ~11,170 |
+| Brothers in Arms | 2.00% | ~7,447 |
+| That's a Grand Navy | 2.00% | ~7,447 |
+| Seriously?! | 2.00% | ~7,447 |
+| Cold War | 1.00% | ~3,723 |
+| Defender of the Faith | 1.00% | ~3,723 |
+| For the Glory | 1.00% | ~3,723 |
+| It's all about the money | 1.00% | ~3,723 |
+| True Catholic | 1.00% | ~3,723 |
+| The Princess is in this Castle | 0.90% | ~3,351 |
+| It's all about luck | 0.80% | ~2,979 |
+| Respected | 0.80% | ~2,979 |
+| Truly Divine Ruler | 0.80% | ~2,979 |
+| Blockader | 0.70% | ~2,606 |
+| Double the Love | 0.70% | ~2,606 |
+| Royal Authority | 0.60% | ~2,234 |
+| Total Control | 0.60% | ~2,234 |
+| Combined Arms | 0.50% | ~1,862 |
+| My armies are invincible! | 0.50% | ~1,862 |
 | Agressive Expander | 0.40% | ~1,489 |
 | Azur semé de lis or | 0.40% | ~1,489 |
 | City of Cities | 0.40% | ~1,489 |
@@ -43,16 +43,16 @@ Number of Ratings: 8,414  (23.09.2022)
 | Market Control | 0.30% | ~1,117 |
 | The Five Colonies | 0.30% | ~1,117 |
 | Trustworthy | 0.30% | ~1,117 |
-| All belongs to Mother Russia | 0.20% | ~744 |
-| At every continent | 0.20% | ~744 |
-| Down Under | 0.20% | ~744 |
-| Electable! | 0.20% | ~744 |
-| Grand Coalition | 0.20% | ~744 |
-| One Family to Rule them All | 0.20% | ~744 |
-| Populists in Government | 0.20% | ~744 |
-| The pen is mightier than the sword | 0.20% | ~744 |
-| Time Bandit | 0.20% | ~744 |
-| Traditional Player | 0.20% | ~744 |
+| All belongs to Mother Russia | 0.20% | ~745 |
+| At every continent | 0.20% | ~745 |
+| Down Under | 0.20% | ~745 |
+| Electable! | 0.20% | ~745 |
+| Grand Coalition | 0.20% | ~745 |
+| One Family to Rule them All | 0.20% | ~745 |
+| Populists in Government | 0.20% | ~745 |
+| The pen is mightier than the sword | 0.20% | ~745 |
+| Time Bandit | 0.20% | ~745 |
+| Traditional Player | 0.20% | ~745 |
 | The 52 Garhs | 0.10% | ~372 |
 | I don't like sand | 0.10% | ~372 |
 | A Blessed Nation | 0.10% | ~372 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 372,197 (Ranked 41)  
+Progressed: 372,348 (Ranked 41)  
 Completed: 0 (0.00%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -489,7 +489,7 @@ Completed: 0 (0.00%) (Ranked 264)
 | 2023-08-23 | 363,609 | 0 |
 | 2023-08-24 | 366,536 | 0 |
 | 2023-08-25 | 369,495 | 0 |
-| 2023-08-26 | 372,197 | 0 |
+| 2023-08-26 | 372,348 | 0 |
 ## Awards
 Max (Educational): 5,793  (Ranked 60)  
 Sum: 47,793 (Ranked 26)  

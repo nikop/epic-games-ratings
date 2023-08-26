@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 480,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -151,9 +151,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1373,
+  "EOS_Progressed": 1375,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -1386,6 +1386,11 @@
       "Time": "2023-08-25T22:02:25.3593101+00:00",
       "NumProgressed": 1373,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-26T20:03:19.834194+00:00",
+      "NumProgressed": 1375,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 56,
@@ -1413,7 +1418,7 @@
       "Name": "Me and My Familiar",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -1429,7 +1434,7 @@
       "Name": "A Mythic Menagerie",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "achievement_beatAllStoryCampaigns",
@@ -1461,7 +1466,7 @@
       "Name": "Gotta Ca... Must Collect All of Them",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "achievement_endTurnInGrayplane5Times",
@@ -1477,7 +1482,7 @@
       "Name": "The Power of Friendship",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "achievement_fullTransformation",
@@ -1485,7 +1490,7 @@
       "Name": "Completing the Look",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "achievement_kill1000Cultists",
@@ -1501,7 +1506,7 @@
       "Name": "Drauvenslayers",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "achievement_kill1000Gorgons",
@@ -1509,7 +1514,7 @@
       "Name": "Back into the Sea",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "achievement_kill1000Monsters",
@@ -1541,7 +1546,7 @@
       "Name": "Who\u0027s Counting?",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "achievement_kill3EnemiesWithPoisonInOneTurn",
@@ -1565,7 +1570,7 @@
       "Name": "How Romantic!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "achievement_maimedHero",
@@ -1573,7 +1578,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "achievement_mythwalker",
@@ -1637,7 +1642,7 @@
       "Name": "War Endured",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "completedStory_legacy",
@@ -1653,7 +1658,7 @@
       "Name": "Echoes Die",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "completedStory_procedural",
@@ -1669,7 +1674,7 @@
       "Name": "Daybreak",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "completedStory_vultureLord",
@@ -1701,7 +1706,7 @@
       "Name": "Core Failure",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "enduringWar_destroyEnduring",
@@ -1709,7 +1714,7 @@
       "Name": "War-Ender",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "monarchs_acceptDeepkingsOffer",
@@ -1733,7 +1738,7 @@
       "Name": "Fight Like a Bird",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "theme_fire_hit5EnemiesAtOnce",
@@ -1749,7 +1754,7 @@
       "Name": "Solid as the Hills",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "theme_gem_stunt100Times",
@@ -1781,7 +1786,7 @@
       "Name": "Symbiosis",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "theme_skeleton_terrify10Enemies",
@@ -1789,7 +1794,7 @@
       "Name": "I\u0027m Not Smiling",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "theme_star_kill20EnemiesWithFallingStars",
@@ -1813,7 +1818,7 @@
       "Name": "Thwack!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "theme_vine_poison50Enemies",
@@ -1821,7 +1826,7 @@
       "Name": "A Temperamental Shrub",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "theme_wolf_killEveryEnemyType",
@@ -1844,15 +1849,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1373,
+      "Progressed": 1375,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-07-08T20:01:41.3411794+00:00",
-  "LastChanged_Achievements": "2023-08-26T19:03:18.0492575+00:00",
+  "LastChanged_Achievements": "2023-08-26T20:03:19.8341933+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:58:06.5781237+00:00",
-  "LastUpdate_Ratings": "2023-08-26T18:59:17.6024474+00:00",
-  "LastUpdate_Achievements": "2023-08-26T19:03:18.0493596+00:00"
+  "LastUpdate_Ratings": "2023-08-26T19:58:53.2486806+00:00",
+  "LastUpdate_Achievements": "2023-08-26T20:03:19.8343177+00:00"
 }

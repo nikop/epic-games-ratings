@@ -76,12 +76,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Points Victory | 1.00% | ~136 |
 | Hanging Gardens in Babylon | 0.90% | ~122 |
 | Beloved | 0.90% | ~122 |
+| Conqueror | 0.90% | ~122 |
 | Mighty | 0.90% | ~122 |
 | Victorious | 0.90% | ~122 |
+| Patrons | 0.90% | ~122 |
 | Building Wonders | 0.90% | ~122 |
-| Conqueror | 0.80% | ~109 |
 | Lion | 0.80% | ~109 |
-| Patrons | 0.80% | ~109 |
+| Good Difficulty | 0.80% | ~109 |
 | Statesmen | 0.80% | ~109 |
 | Traders | 0.80% | ~109 |
 | Temple of Solomon | 0.80% | ~109 |
@@ -93,9 +94,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legalism | 0.80% | ~109 |
 | Legionary | 0.80% | ~109 |
 | Phalangite | 0.80% | ~109 |
+| Capable | 0.70% | ~95 |
 | Invincible | 0.70% | ~95 |
 | Subjugator | 0.70% | ~95 |
-| Good Difficulty | 0.70% | ~95 |
 | Hittite Iron | 0.70% | ~95 |
 | Circus Maximus | 0.70% | ~95 |
 | Hagia Sophia | 0.70% | ~95 |
@@ -104,7 +105,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambition Victory | 0.70% | ~95 |
 | Double Victory | 0.70% | ~95 |
 | Win a Single Player Game | 0.70% | ~95 |
-| Capable | 0.60% | ~82 |
 | Devout | 0.60% | ~82 |
 | Ready | 0.60% | ~82 |
 | Landowners | 0.60% | ~82 |
@@ -127,6 +127,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hunters | 0.50% | ~68 |
 | Learn to Play 4 | 0.50% | ~68 |
 | Babylonia | 0.50% | ~68 |
+| Rome | 0.50% | ~68 |
 | One True Faith | 0.50% | ~68 |
 | Kushite Cavalry | 0.50% | ~68 |
 | Turreted Elephant | 0.50% | ~68 |
@@ -138,7 +139,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Clerics | 0.40% | ~54 |
 | Cao'an | 0.40% | ~54 |
 | Egypt | 0.40% | ~54 |
-| Rome | 0.40% | ~54 |
 | Old World Order | 0.40% | ~54 |
 | Hittite Paganism | 0.40% | ~54 |
 | Cataphract Archer | 0.40% | ~54 |
@@ -147,6 +147,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ancient | 0.30% | ~41 |
 | Glorious Difficulty | 0.30% | ~41 |
 | The Eternal Treaty | 0.30% | ~41 |
+| Learn to Play 5 | 0.30% | ~41 |
 | Hatti | 0.30% | ~41 |
 | Persia | 0.30% | ~41 |
 | Pantheon of Gods | 0.30% | ~41 |
@@ -165,7 +166,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Event Level High | 0.20% | ~27 |
 | Run, Pheidippides, Run! | 0.20% | ~27 |
 | Nenikekamen | 0.20% | ~27 |
-| Learn to Play 5 | 0.20% | ~27 |
 | Macedonian Wars | 0.20% | ~27 |
 | Assyria | 0.20% | ~27 |
 | Apadana in Parsa | 0.20% | ~27 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,585 (Ranked 119)  
+Progressed: 13,587 (Ranked 119)  
 Completed: 5 (0.04%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -431,7 +431,7 @@ Completed: 5 (0.04%) (Ranked 234)
 | 2023-08-23 | 13,540 | 5 |
 | 2023-08-24 | 13,546 | 5 |
 | 2023-08-25 | 13,563 | 5 |
-| 2023-08-26 | 13,585 | 5 |
+| 2023-08-26 | 13,587 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,799 (Ranked 208)  

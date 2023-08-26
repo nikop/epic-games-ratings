@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 292,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -7696,9 +7696,9 @@
       "ID": "ACH_10",
       "SetID": "9d4cf4c",
       "Name": "Bloodline",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 6681
+      "UsersEstimate": 6809
     },
     {
       "ID": "ACH_11",
@@ -7913,8 +7913,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-08-24T02:10:43.6579276+00:00",
-  "LastChanged_Achievements": "2023-08-26T19:06:28.0665874+00:00",
+  "LastChanged_Achievements": "2023-08-26T20:05:43.9685678+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:58.0363669+00:00",
-  "LastUpdate_Ratings": "2023-08-26T18:57:55.1552701+00:00",
-  "LastUpdate_Achievements": "2023-08-26T19:06:28.0666868+00:00"
+  "LastUpdate_Ratings": "2023-08-26T19:57:47.7828813+00:00",
+  "LastUpdate_Achievements": "2023-08-26T20:05:43.9686549+00:00"
 }

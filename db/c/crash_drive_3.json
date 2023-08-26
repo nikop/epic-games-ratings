@@ -4,7 +4,7 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 371,
+  "EOS_Progressed": 372,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -416,6 +416,11 @@
       "Time": "2023-08-25T15:07:50.3075915+00:00",
       "NumProgressed": 371,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-26T20:06:35.2549417+00:00",
+      "NumProgressed": 372,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -425,9 +430,9 @@
       "ID": "AIRTIME_6_SEC",
       "SetID": "20koof9",
       "Name": "Brace for impact!",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 115
     },
     {
       "ID": "ALL_ACHIEVEMENTS",
@@ -467,7 +472,7 @@
       "Name": "Baby\u0027s First Car",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "COLLECT_20_CARS",
@@ -547,7 +552,7 @@
       "Name": "To and Fro",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "FRONT_OR_BACKFLIP",
@@ -561,9 +566,9 @@
       "ID": "FULLY_LEVEL_20_CARS",
       "SetID": "20koof9",
       "Name": "Apprentice Mechanic",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 11
     },
     {
       "ID": "FULLY_LEVEL_ALL_CARS",
@@ -611,7 +616,7 @@
       "Name": "Pushover",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "HIT_ALIEN",
@@ -697,17 +702,17 @@
       "ID": "LOADED_LVL_SNOW",
       "SetID": "20koof9",
       "Name": "Snow Fun!",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 93
+      "UsersEstimate": 89
     },
     {
       "ID": "LOADED_LVL_TANK",
       "SetID": "20koof9",
       "Name": "Feeling Hot Hot Hot!",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 63
     },
     {
       "ID": "MAX_MULTIPLIER",
@@ -747,7 +752,7 @@
       "Name": "Bag of Tricks",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "STUNT_SCORE_DOUBLE",
@@ -787,7 +792,7 @@
       "Name": "I see the light!",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "WIN_100_EVENTS",
@@ -843,7 +848,7 @@
       "Name": "In the Bag!",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "WIN_TAG_EVENT",
@@ -866,7 +871,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 371,
+      "Progressed": 372,
       "Completed": 2
     }
   ],
@@ -874,8 +879,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-08-26T19:07:28.7336773+00:00",
+  "LastChanged_Achievements": "2023-08-26T20:06:35.254941+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:40.319165+00:00",
-  "LastUpdate_Ratings": "2023-08-26T18:57:10.0281247+00:00",
-  "LastUpdate_Achievements": "2023-08-26T19:07:28.7337373+00:00"
+  "LastUpdate_Ratings": "2023-08-26T19:57:05.7268067+00:00",
+  "LastUpdate_Achievements": "2023-08-26T20:06:35.2549883+00:00"
 }

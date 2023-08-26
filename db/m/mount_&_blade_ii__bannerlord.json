@@ -6711,9 +6711,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 59712,
+  "EOS_Progressed": 59713,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 513,
+  "EOS_NewPlayers": 511,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20301,6 +20301,11 @@
       "Time": "2023-08-26T19:06:31.7235517+00:00",
       "NumProgressed": 59712,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-26T20:05:46.9874769+00:00",
+      "NumProgressed": 59713,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -20368,7 +20373,7 @@
       "Name": "Crowdfunded",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2388
+      "UsersEstimate": 2389
     },
     {
       "ID": "Crackshot",
@@ -20384,7 +20389,7 @@
       "Name": "Crush your enemies",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2388
+      "UsersEstimate": 2389
     },
     {
       "ID": "Duelist",
@@ -20704,7 +20709,7 @@
       "Name": "Veni vidi vici",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2388
+      "UsersEstimate": 2389
     },
     {
       "ID": "What have the Romans ever done for us",
@@ -20719,15 +20724,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 59712,
+      "Progressed": 59713,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-08-26T16:58:09.7565484+00:00",
-  "LastChanged_Achievements": "2023-08-26T19:06:31.7235512+00:00",
+  "LastChanged_Achievements": "2023-08-26T20:05:46.9874763+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:26.1294952+00:00",
-  "LastUpdate_Ratings": "2023-08-26T18:58:27.4797579+00:00",
-  "LastUpdate_Achievements": "2023-08-26T19:06:31.7236871+00:00"
+  "LastUpdate_Ratings": "2023-08-26T19:58:13.5173207+00:00",
+  "LastUpdate_Achievements": "2023-08-26T20:05:46.9876356+00:00"
 }

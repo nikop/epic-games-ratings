@@ -12,14 +12,14 @@ Rating: 4.60 (Ranked 392)
 | The Prince in Heels | 19.00% | ~160 |
 | Immaculate Aim | 19.00% | ~160 |
 | The Brass Boss | 19.00% | ~160 |
-| The Steel Shadow | 18.00% | ~151 |
-| Time Flies | 18.00% | ~151 |
-| The Harder They Fall | 18.00% | ~151 |
-| No, Thanks! | 18.00% | ~151 |
-| Breaking Down Barriers | 18.00% | ~151 |
-| Honest Mistake | 18.00% | ~151 |
-| Fast Learner | 18.00% | ~151 |
-| Immaculate Aim | 18.00% | ~151 |
+| The Steel Shadow | 18.00% | ~152 |
+| Time Flies | 18.00% | ~152 |
+| The Harder They Fall | 18.00% | ~152 |
+| No, Thanks! | 18.00% | ~152 |
+| Breaking Down Barriers | 18.00% | ~152 |
+| Honest Mistake | 18.00% | ~152 |
+| Fast Learner | 18.00% | ~152 |
+| Immaculate Aim | 18.00% | ~152 |
 | The Betrayer | 17.00% | ~143 |
 | The Wicked Twins | 17.00% | ~143 |
 | Golem Chaser | 17.00% | ~143 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 392)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 841 (Ranked 209)  
+Progressed: 842 (Ranked 209)  
 Completed: 5 (0.59%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 5 (0.59%) (Ranked 140)
 | 2023-08-21 | 837 | 5 |
 | 2023-08-24 | 838 | 5 |
 | 2023-08-25 | 839 | 5 |
-| 2023-08-26 | 841 | 5 |
+| 2023-08-26 | 842 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

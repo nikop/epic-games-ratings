@@ -6,21 +6,21 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cost of Heroism | 40.00% | ~549 |
-| Me and My Familiar | 37.00% | ~508 |
+| The Cost of Heroism | 40.00% | ~550 |
+| Me and My Familiar | 37.00% | ~509 |
 | This Too Shall Pass | 31.00% | ~426 |
 | Passing Shadow | 30.00% | ~412 |
 | Cutthroat Competitors | 30.00% | ~412 |
-| How Romantic! | 28.00% | ~384 |
-| Daybreak | 28.00% | ~384 |
-| Gotta Ca... Must Collect All of Them | 26.00% | ~357 |
-| Completing the Look | 14.00% | ~192 |
-| War Endured | 14.00% | ~192 |
-| Core Failure | 14.00% | ~192 |
-| A Mythic Menagerie | 13.00% | ~178 |
-| Who's Counting? | 13.00% | ~178 |
+| How Romantic! | 28.00% | ~385 |
+| Daybreak | 28.00% | ~385 |
+| Gotta Ca... Must Collect All of Them | 26.00% | ~358 |
+| Completing the Look | 14.00% | ~193 |
+| War Endured | 14.00% | ~193 |
+| Core Failure | 14.00% | ~193 |
+| A Mythic Menagerie | 13.00% | ~179 |
+| Who's Counting? | 13.00% | ~179 |
 | Pyrrhic Victory | 11.00% | ~151 |
-| Echoes Die | 10.00% | ~137 |
+| Echoes Die | 10.00% | ~138 |
 | Thematic Divergence | 9.00% | ~124 |
 | Plague Doctor | 8.00% | ~110 |
 | Chain Reaction | 8.00% | ~110 |
@@ -48,22 +48,22 @@ Number of Ratings: 45  (23.09.2022)
 | Astrology | 3.00% | ~41 |
 | Tempest | 3.00% | ~41 |
 | Lochias's Hunger | 3.00% | ~41 |
-| The Power of Friendship | 2.00% | ~27 |
-| Drauvenslayers | 2.00% | ~27 |
-| Back into the Sea | 2.00% | ~27 |
-| War-Ender | 2.00% | ~27 |
-| Fight Like a Bird | 2.00% | ~27 |
-| Solid as the Hills | 2.00% | ~27 |
-| Symbiosis | 2.00% | ~27 |
-| I'm Not Smiling | 2.00% | ~27 |
-| Thwack! | 2.00% | ~27 |
-| A Temperamental Shrub | 2.00% | ~27 |
+| The Power of Friendship | 2.00% | ~28 |
+| Drauvenslayers | 2.00% | ~28 |
+| Back into the Sea | 2.00% | ~28 |
+| War-Ender | 2.00% | ~28 |
+| Fight Like a Bird | 2.00% | ~28 |
+| Solid as the Hills | 2.00% | ~28 |
+| Symbiosis | 2.00% | ~28 |
+| I'm Not Smiling | 2.00% | ~28 |
+| Thwack! | 2.00% | ~28 |
+| A Temperamental Shrub | 2.00% | ~28 |
 | A Lowly Crust of Beef | 1.00% | ~14 |
 | Overwhelming Monstrosity | 0.90% | ~12 |
 | We Call That Mortificient! | 0.90% | ~12 |
 | Peacemaker | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,373 (Ranked 189)  
+Progressed: 1,375 (Ranked 189)  
 Completed: 5 (0.36%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,6 +168,7 @@ Completed: 5 (0.36%) (Ranked 165)
 | 2023-08-18 | 1,369 | 5 |
 | 2023-08-21 | 1,371 | 5 |
 | 2023-08-25 | 1,373 | 5 |
+| 2023-08-26 | 1,375 | 5 |
 ## Awards
 Max (Character Customization): 28  (Ranked 467)  
 Sum: 28 (Ranked 480)  

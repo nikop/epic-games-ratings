@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1313,
+  "EOS_Progressed": 1314,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2305,6 +2305,11 @@
       "Time": "2023-08-26T16:05:55.7095078+00:00",
       "NumProgressed": 1313,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-26T20:06:08.8474098+00:00",
+      "NumProgressed": 1314,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2340,7 +2345,7 @@
       "Name": "The Big Bertha",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "Boy",
@@ -2444,7 +2449,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "High_noon",
@@ -2555,15 +2560,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1313,
+      "Progressed": 1314,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-08-26T19:06:56.6339209+00:00",
+  "LastChanged_Achievements": "2023-08-26T20:06:08.8474092+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:40.0859007+00:00",
-  "LastUpdate_Ratings": "2023-08-26T18:57:36.9801442+00:00",
-  "LastUpdate_Achievements": "2023-08-26T19:06:56.6339669+00:00"
+  "LastUpdate_Ratings": "2023-08-26T19:57:29.6594137+00:00",
+  "LastUpdate_Achievements": "2023-08-26T20:06:08.8474646+00:00"
 }

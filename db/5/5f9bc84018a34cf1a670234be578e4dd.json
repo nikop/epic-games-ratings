@@ -716,9 +716,9 @@
       "ID": "AllSafes",
       "SetID": "7jbi7el",
       "Name": "Safe Cracker",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 58
+      "UsersEstimate": 60
     },
     {
       "ID": "Batteries",
@@ -732,17 +732,17 @@
       "ID": "Compiling",
       "SetID": "7jbi7el",
       "Name": "Job completed!",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "FallDeath",
       "SetID": "7jbi7el",
       "Name": "Accident",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "FirstBox",
@@ -780,9 +780,9 @@
       "ID": "GasDeath",
       "SetID": "7jbi7el",
       "Name": "Contract Termination",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "GasFound",
@@ -796,9 +796,9 @@
       "ID": "Hologram",
       "SetID": "7jbi7el",
       "Name": "Holographic Scanner",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 70,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "Screwdriver",
@@ -812,9 +812,9 @@
       "ID": "SecretRoom",
       "SetID": "7jbi7el",
       "Name": "Researcher",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 80,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Synthesis",
@@ -835,8 +835,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-08-26T19:07:01.9602398+00:00",
+  "LastChanged_Achievements": "2023-08-26T20:06:13.6065154+00:00",
   "LastUpdate_AppInfo": "2023-08-22T18:57:00.7116692+00:00",
-  "LastUpdate_Ratings": "2023-08-26T18:59:30.7234821+00:00",
-  "LastUpdate_Achievements": "2023-08-26T19:07:01.9602645+00:00"
+  "LastUpdate_Ratings": "2023-08-26T19:59:03.4202548+00:00",
+  "LastUpdate_Achievements": "2023-08-26T20:06:13.6065329+00:00"
 }

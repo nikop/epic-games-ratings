@@ -6,7 +6,7 @@
   "Ranking_Popularity": 68,
   "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 53,
-  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Completed": 122,
   "Ranking_EOS_NewPlayers": 40,
   "Ranking_EOS_NewCompleters": 9,
   "Store": {
@@ -6112,11 +6112,11 @@
       "Count": 3373
     }
   ],
-  "EOS_Progressed": 225167,
+  "EOS_Progressed": 225182,
   "EOS_Completed": 2218,
-  "EOS_NewPlayers": 1775,
+  "EOS_NewPlayers": 1778,
   "EOS_NewCompleters": 25,
-  "EOS_Completed_Percentage": 0.99,
+  "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:41.9871817+00:00",
@@ -20157,6 +20157,11 @@
       "Time": "2023-08-26T19:07:45.2617655+00:00",
       "NumProgressed": 225167,
       "NumCompleted": 2218
+    },
+    {
+      "Time": "2023-08-26T20:06:48.5691869+00:00",
+      "NumProgressed": 225182,
+      "NumCompleted": 2218
     }
   ],
   "TotalAchievements": 516,
@@ -20168,7 +20173,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4503
+      "UsersEstimate": 4504
     },
     {
       "ID": "objective_completed_10",
@@ -24295,21 +24300,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 191441,
+      "Progressed": 191456,
       "Completed": 3308
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 225167,
+      "Progressed": 225182,
       "Completed": 2218
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-26T13:02:55.9721236+00:00",
-  "LastChanged_Achievements": "2023-08-26T19:07:45.261765+00:00",
+  "LastChanged_Achievements": "2023-08-26T20:06:48.5691863+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:53.3345914+00:00",
-  "LastUpdate_Ratings": "2023-08-26T19:01:11.1637772+00:00",
-  "LastUpdate_Achievements": "2023-08-26T19:07:45.2653463+00:00"
+  "LastUpdate_Ratings": "2023-08-26T20:00:19.5598944+00:00",
+  "LastUpdate_Achievements": "2023-08-26T20:06:48.5722439+00:00"
 }
