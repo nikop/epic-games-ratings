@@ -6,49 +6,49 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 89.00% | ~624,883 |
-| Escaped Asphodel | 80.00% | ~561,693 |
-| Arms Collector | 71.00% | ~498,502 |
-| Friends in High Places | 68.00% | ~477,439 |
-| Escaped Elysium | 66.00% | ~463,397 |
-| Chthonic Colleagues | 63.00% | ~442,333 |
-| Is There No Escape? | 52.00% | ~365,100 |
-| Death Dealer | 45.00% | ~315,952 |
-| Skelly Slayer | 42.00% | ~294,889 |
-| Well Stocked | 40.00% | ~280,846 |
-| Back to Work | 38.00% | ~266,804 |
-| Day-or-Night Trader | 37.00% | ~259,783 |
-| Blessed by the Gods | 37.00% | ~259,783 |
-| Urge to Sing | 36.00% | ~252,762 |
-| Blood Bound | 35.00% | ~245,741 |
-| Three-Headed Boy | 32.00% | ~224,677 |
-| River Denizens | 28.00% | ~196,592 |
-| Grown Close | 28.00% | ~196,592 |
-| Home Makeover | 27.00% | ~189,571 |
-| Had to Happen | 25.00% | ~175,529 |
-| The Family Secret | 25.00% | ~175,529 |
-| Tools of the Architect | 23.00% | ~161,487 |
-| Master of Arms | 23.00% | ~161,487 |
+| Escaped Tartarus | 89.00% | ~624,887 |
+| Escaped Asphodel | 80.00% | ~561,696 |
+| Arms Collector | 71.00% | ~498,505 |
+| Friends in High Places | 68.00% | ~477,442 |
+| Escaped Elysium | 66.00% | ~463,399 |
+| Chthonic Colleagues | 63.00% | ~442,336 |
+| Is There No Escape? | 52.00% | ~365,102 |
+| Death Dealer | 45.00% | ~315,954 |
+| Skelly Slayer | 42.00% | ~294,890 |
+| Well Stocked | 40.00% | ~280,848 |
+| Back to Work | 38.00% | ~266,806 |
+| Day-or-Night Trader | 37.00% | ~259,784 |
+| Blessed by the Gods | 37.00% | ~259,784 |
+| Urge to Sing | 36.00% | ~252,763 |
+| Blood Bound | 35.00% | ~245,742 |
+| Three-Headed Boy | 32.00% | ~224,678 |
+| River Denizens | 28.00% | ~196,594 |
+| Grown Close | 28.00% | ~196,594 |
+| Home Makeover | 27.00% | ~189,572 |
+| Had to Happen | 25.00% | ~175,530 |
+| The Family Secret | 25.00% | ~175,530 |
+| Tools of the Architect | 23.00% | ~161,488 |
+| Master of Arms | 23.00% | ~161,488 |
 | To Charon's Credit | 22.00% | ~154,466 |
 | Rare Collectible | 22.00% | ~154,466 |
-| Weapon of Fate | 21.00% | ~147,444 |
-| Something From Everyone | 19.00% | ~133,402 |
-| Hold the Onions | 18.00% | ~126,381 |
+| Weapon of Fate | 21.00% | ~147,445 |
+| Something From Everyone | 19.00% | ~133,403 |
+| Hold the Onions | 18.00% | ~126,382 |
 | Well Versed | 17.00% | ~119,360 |
-| War-God's Bloodlust | 15.00% | ~105,317 |
-| Musician and Muse | 14.00% | ~98,296 |
-| The Useless Trinket | 13.00% | ~91,275 |
-| Champion of Elysium | 13.00% | ~91,275 |
+| War-God's Bloodlust | 15.00% | ~105,318 |
+| Musician and Muse | 14.00% | ~98,297 |
+| The Useless Trinket | 13.00% | ~91,276 |
+| Champion of Elysium | 13.00% | ~91,276 |
 | Slashed Benefits | 12.00% | ~84,254 |
 | Haste of Hermes | 11.00% | ~77,233 |
 | Bad Call | 10.00% | ~70,212 |
 | Nyx's Mirror | 10.00% | ~70,212 |
 | Night and Darkness | 10.00% | ~70,212 |
 | End to Torment | 10.00% | ~70,212 |
-| Dark Reflections | 9.00% | ~63,190 |
-| Thanks, But No Thanks | 9.00% | ~63,190 |
-| Infernal Arms | 9.00% | ~63,190 |
-| Divided by Death | 8.00% | ~56,169 |
+| Dark Reflections | 9.00% | ~63,191 |
+| Thanks, But No Thanks | 9.00% | ~63,191 |
+| Infernal Arms | 9.00% | ~63,191 |
+| Divided by Death | 8.00% | ~56,170 |
 | Harsh Conditions | 7.00% | ~49,148 |
 | One for the Ages | 7.00% | ~49,148 |
 | Complete Set | 6.00% | ~42,127 |
@@ -56,7 +56,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Thorn of Thanatos | 4.00% | ~28,085 |
 | Friends Forever | 4.00% | ~28,085 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 702,116 (Ranked 21)  
+Progressed: 702,120 (Ranked 21)  
 Completed: 6,322 (0.90%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 6,322 (0.90%) (Ranked 124)
 | 2023-08-23 | 701,906 | 6,314 |
 | 2023-08-24 | 701,976 | 6,315 |
 | 2023-08-25 | 702,026 | 6,319 |
-| 2023-08-26 | 702,116 | 6,322 |
+| 2023-08-26 | 702,120 | 6,322 |
 ## Awards
 Max (Character Customization): 3,236  (Ranked 92)  
 Sum: 7,831 (Ranked 101)  

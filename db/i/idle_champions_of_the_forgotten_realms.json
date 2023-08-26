@@ -6062,10 +6062,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 31225,
       "NumberOfAwardsMax": 5189
+    },
+    {
+      "Time": "2023-08-26T23:02:06.0798403+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 31229,
+      "NumberOfAwardsMax": 5189
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31225,
+  "NumberOfAwards": 31229,
   "NumberOfAwardsMax": 5189,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6103,7 +6109,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4084
+      "Count": 4088
     },
     {
       "Text": "This game has Playful Visuals",
@@ -6112,9 +6118,9 @@
       "Count": 3373
     }
   ],
-  "EOS_Progressed": 225207,
+  "EOS_Progressed": 225221,
   "EOS_Completed": 2219,
-  "EOS_NewPlayers": 1777,
+  "EOS_NewPlayers": 1778,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -20172,6 +20178,11 @@
       "Time": "2023-08-26T22:08:08.1251164+00:00",
       "NumProgressed": 225207,
       "NumCompleted": 2219
+    },
+    {
+      "Time": "2023-08-26T23:09:01.1614732+00:00",
+      "NumProgressed": 225221,
+      "NumCompleted": 2219
     }
   ],
   "TotalAchievements": 516,
@@ -20551,7 +20562,7 @@
       "Name": "Beast Intentions",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1576
+      "UsersEstimate": 1577
     },
     {
       "ID": "objective_completed_110",
@@ -21157,9 +21168,9 @@
       "ID": "objective_completed_13",
       "SetID": "cc37lbc",
       "Name": "A Persistent Buzzing",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 450
+      "UsersEstimate": 676
     },
     {
       "ID": "objective_completed_130",
@@ -21429,9 +21440,9 @@
       "ID": "objective_completed_171",
       "SetID": "cc37lbc",
       "Name": "Sleuth It Out",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 450
     },
     {
       "ID": "objective_completed_172",
@@ -21855,7 +21866,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1576
+      "UsersEstimate": 1577
     },
     {
       "ID": "objective_completed_34",
@@ -24310,21 +24321,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 191481,
+      "Progressed": 191495,
       "Completed": 3309
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 225207,
+      "Progressed": 225221,
       "Completed": 2219
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-08-26T13:02:55.9721236+00:00",
-  "LastChanged_Achievements": "2023-08-26T22:08:08.1251156+00:00",
+  "LastChanged": "2023-08-26T23:02:06.0798401+00:00",
+  "LastChanged_Achievements": "2023-08-26T23:09:01.1614726+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:53.3345914+00:00",
-  "LastUpdate_Ratings": "2023-08-26T22:01:29.0569351+00:00",
-  "LastUpdate_Achievements": "2023-08-26T22:08:08.1282511+00:00"
+  "LastUpdate_Ratings": "2023-08-26T23:02:06.0798412+00:00",
+  "LastUpdate_Achievements": "2023-08-26T23:09:01.164712+00:00"
 }

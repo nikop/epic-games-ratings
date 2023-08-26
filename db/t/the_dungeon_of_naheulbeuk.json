@@ -3,8 +3,8 @@
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
   "Ranking_Rating": 428,
-  "Ranking_Popularity": 284,
-  "Ranking_PopularitySum": 363,
+  "Ranking_Popularity": 282,
+  "Ranking_PopularitySum": 361,
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 24,
@@ -694,18 +694,24 @@
       "Rating": 4.58,
       "NumberOfAwards": 220,
       "NumberOfAwardsMax": 176
+    },
+    {
+      "Time": "2023-08-26T23:02:52.6825547+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 224,
+      "NumberOfAwardsMax": 180
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 220,
-  "NumberOfAwardsMax": 176,
+  "NumberOfAwards": 224,
+  "NumberOfAwardsMax": 180,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 176
+      "Count": 180
     },
     {
       "Text": "This game is Relaxing",
@@ -720,9 +726,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 217741,
+  "EOS_Progressed": 217758,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2956,
+  "EOS_NewPlayers": 2954,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8415,6 +8421,11 @@
       "Time": "2023-08-26T22:03:06.2407898+00:00",
       "NumProgressed": 217741,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-26T23:03:08.8774604+00:00",
+      "NumProgressed": 217758,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -8442,7 +8453,7 @@
       "Name": "Holistic Adventuring Party",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "BarbarianEpic",
@@ -8458,7 +8469,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2177
+      "UsersEstimate": 2178
     },
     {
       "ID": "BookCollection",
@@ -8466,7 +8477,7 @@
       "Name": "Scholar of the Lands of Fangh",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "Chapter1",
@@ -8482,7 +8493,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2177
+      "UsersEstimate": 2178
     },
     {
       "ID": "Chapter3",
@@ -8490,7 +8501,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2177
+      "UsersEstimate": 2178
     },
     {
       "ID": "Chapter4",
@@ -8874,7 +8885,7 @@
       "Name": "Sowwy!",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 52258
+      "UsersEstimate": 52262
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -8890,7 +8901,7 @@
       "Name": "GG EZ",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2177
+      "UsersEstimate": 2178
     },
     {
       "ID": "EndCombatOneHp",
@@ -8898,7 +8909,7 @@
       "Name": "DM intervention",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2177
+      "UsersEstimate": 2178
     },
     {
       "ID": "EndGameCursed",
@@ -8922,7 +8933,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6532
+      "UsersEstimate": 6533
     },
     {
       "ID": "FollowBraztok",
@@ -8930,7 +8941,7 @@
       "Name": "The beards of change",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1306
+      "UsersEstimate": 1307
     },
     {
       "ID": "FollowNarzatok",
@@ -8938,7 +8949,7 @@
       "Name": "An old poacher makes the best gamekeeper",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "InsultLoose",
@@ -8962,7 +8973,7 @@
       "Name": "We come in peace",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "MinistrelEpic",
@@ -8994,7 +9005,7 @@
       "Name": "Law and Order",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "Poster",
@@ -9048,9 +9059,9 @@
       "ID": "RangerEpic",
       "SetID": "50chcgj",
       "Name": "The Ranger of Chaos",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1306
+      "UsersEstimate": 1524
     },
     {
       "ID": "Rogue30Backstab",
@@ -9066,7 +9077,7 @@
       "Name": "Thieves\u0027 Guild Accreditation",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1306
+      "UsersEstimate": 1307
     },
     {
       "ID": "Speedrun",
@@ -9074,7 +9085,7 @@
       "Name": "Speedrun",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2177
+      "UsersEstimate": 2178
     },
     {
       "ID": "SupportCount4",
@@ -9122,28 +9133,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2177
+      "UsersEstimate": 2178
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 217741,
+      "Progressed": 217758,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 217741,
+      "Progressed": 217758,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2023-08-25T15:02:30.1432618+00:00",
-  "LastChanged_Achievements": "2023-08-26T22:03:06.2407893+00:00",
+  "LastChanged": "2023-08-26T23:02:52.6825545+00:00",
+  "LastChanged_Achievements": "2023-08-26T23:03:08.8774598+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:41.9661267+00:00",
-  "LastUpdate_Ratings": "2023-08-26T22:02:11.3603559+00:00",
-  "LastUpdate_Achievements": "2023-08-26T22:03:06.2411739+00:00"
+  "LastUpdate_Ratings": "2023-08-26T23:02:52.6825558+00:00",
+  "LastUpdate_Achievements": "2023-08-26T23:03:08.8776166+00:00"
 }

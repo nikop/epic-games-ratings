@@ -2,7 +2,7 @@
   "ID": "100f8957d16d4d2d89716775b5767779",
   "Name": "Riverbond",
   "ProductSlug": "riverbond-782aa4",
-  "Ranking_Rating": 614,
+  "Ranking_Rating": 613,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 31,
@@ -480,9 +480,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 525971,
+  "EOS_Progressed": 525972,
   "EOS_Completed": 464,
-  "EOS_NewPlayers": 572,
+  "EOS_NewPlayers": 567,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -14110,6 +14110,11 @@
       "Time": "2023-08-26T22:07:30.8863912+00:00",
       "NumProgressed": 525971,
       "NumCompleted": 464
+    },
+    {
+      "Time": "2023-08-26T23:08:20.0813817+00:00",
+      "NumProgressed": 525972,
+      "NumCompleted": 464
     }
   ],
   "TotalAchievements": 57,
@@ -14121,7 +14126,7 @@
       "Name": "AAARR!",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 120973
+      "UsersEstimate": 120974
     },
     {
       "ID": "10",
@@ -14201,7 +14206,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 326102
+      "UsersEstimate": 326103
     },
     {
       "ID": "2",
@@ -14353,7 +14358,7 @@
       "Name": "Sunday Best",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 84155
+      "UsersEstimate": 84156
     },
     {
       "ID": "37",
@@ -14449,7 +14454,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 326102
+      "UsersEstimate": 326103
     },
     {
       "ID": "48",
@@ -14505,7 +14510,7 @@
       "Name": "Hello Darkness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 120973
+      "UsersEstimate": 120974
     },
     {
       "ID": "54",
@@ -14576,15 +14581,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 525971,
+      "Progressed": 525972,
       "Completed": 464
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-08-26T22:07:30.8863906+00:00",
+  "LastChanged_Achievements": "2023-08-26T23:08:20.0813809+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:23.9652086+00:00",
-  "LastUpdate_Ratings": "2023-08-26T22:00:29.8221663+00:00",
-  "LastUpdate_Achievements": "2023-08-26T22:07:30.8865351+00:00"
+  "LastUpdate_Ratings": "2023-08-26T23:00:57.3701303+00:00",
+  "LastUpdate_Achievements": "2023-08-26T23:08:20.0815725+00:00"
 }

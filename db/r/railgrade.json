@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 288,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-09-29T14:00:00+00:00",
@@ -504,9 +504,9 @@
       "Count": 46
     }
   ],
-  "EOS_Progressed": 19548,
+  "EOS_Progressed": 19549,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -5334,6 +5334,11 @@
       "Time": "2023-08-26T18:04:57.3062169+00:00",
       "NumProgressed": 19548,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-08-26T23:06:37.1837189+00:00",
+      "NumProgressed": 19549,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 37,
@@ -5377,7 +5382,7 @@
       "Name": "Builder",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 16225
+      "UsersEstimate": 16226
     },
     {
       "ID": "ach.060.goingdistance",
@@ -5433,7 +5438,7 @@
       "Name": "Simplification",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 6646
+      "UsersEstimate": 6647
     },
     {
       "ID": "ach.130.minimalist",
@@ -5441,7 +5446,7 @@
       "Name": "Minimalist",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 17593
+      "UsersEstimate": 17594
     },
     {
       "ID": "ach.140.legacy",
@@ -5449,7 +5454,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 98,
       "XP": 60,
-      "UsersEstimate": 19157
+      "UsersEstimate": 19158
     },
     {
       "ID": "ach.150.pocket",
@@ -5457,7 +5462,7 @@
       "Name": "Pocket of Trains",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 12706
+      "UsersEstimate": 12707
     },
     {
       "ID": "ach.160.box",
@@ -5481,7 +5486,7 @@
       "Name": "Inspector",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 11533
+      "UsersEstimate": 11534
     },
     {
       "ID": "ach.190.scenic",
@@ -5497,7 +5502,7 @@
       "Name": "Let There be Light",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 6255
+      "UsersEstimate": 6256
     },
     {
       "ID": "ach.210.baron",
@@ -5505,7 +5510,7 @@
       "Name": "Oil Baron",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 8210
+      "UsersEstimate": 8211
     },
     {
       "ID": "ach.220.hot",
@@ -5529,7 +5534,7 @@
       "Name": "Loads-a-Money",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 8210
+      "UsersEstimate": 8211
     },
     {
       "ID": "ach.250.downfall",
@@ -5537,7 +5542,7 @@
       "Name": "Before the Downfall",
       "Percentage": 93,
       "XP": 60,
-      "UsersEstimate": 18180
+      "UsersEstimate": 18181
     },
     {
       "ID": "ach.260.investor",
@@ -5601,7 +5606,7 @@
       "Name": "Money like Water",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 17789
+      "UsersEstimate": 17790
     },
     {
       "ID": "ach.340.steel",
@@ -5640,7 +5645,7 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 19548,
+      "Progressed": 19549,
       "Completed": 37
     }
   ],
@@ -5648,8 +5653,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-08-13T13:03:32.8412912+00:00",
-  "LastChanged_Achievements": "2023-08-26T22:06:03.9024883+00:00",
+  "LastChanged_Achievements": "2023-08-26T23:06:37.1837182+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:59.038417+00:00",
-  "LastUpdate_Ratings": "2023-08-26T21:57:55.3007248+00:00",
-  "LastUpdate_Achievements": "2023-08-26T22:06:03.9025489+00:00"
+  "LastUpdate_Ratings": "2023-08-26T22:58:04.7075614+00:00",
+  "LastUpdate_Achievements": "2023-08-26T23:06:37.1837829+00:00"
 }

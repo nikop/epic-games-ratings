@@ -1391,10 +1391,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 4735,
       "NumberOfAwardsMax": 562
+    },
+    {
+      "Time": "2023-08-26T22:57:45.8116594+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4736,
+      "NumberOfAwardsMax": 562
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4735,
+  "NumberOfAwards": 4736,
   "NumberOfAwardsMax": 562,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1414,7 +1420,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 479
+      "Count": 480
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1465,9 +1471,9 @@
       "Count": 247
     }
   ],
-  "EOS_Progressed": 197766,
+  "EOS_Progressed": 197773,
   "EOS_Completed": 72,
-  "EOS_NewPlayers": 2154,
+  "EOS_NewPlayers": 2147,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -15745,6 +15751,11 @@
       "Time": "2023-08-26T22:05:29.5985277+00:00",
       "NumProgressed": 197766,
       "NumCompleted": 72
+    },
+    {
+      "Time": "2023-08-26T23:05:53.0338095+00:00",
+      "NumProgressed": 197773,
+      "NumCompleted": 72
     }
   ],
   "TotalAchievements": 44,
@@ -15756,7 +15767,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 17799
+      "UsersEstimate": 17800
     },
     {
       "ID": "AtheistOx",
@@ -15796,7 +15807,7 @@
       "Name": "Disguised",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 15821
+      "UsersEstimate": 15822
     },
     {
       "ID": "FiveShadows",
@@ -15812,7 +15823,7 @@
       "Name": "Flying Rocks",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 9888
+      "UsersEstimate": 9889
     },
     {
       "ID": "GearUp",
@@ -15828,7 +15839,7 @@
       "Name": "Genin",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 21754
+      "UsersEstimate": 21755
     },
     {
       "ID": "HappyLittleAccidents",
@@ -15932,7 +15943,7 @@
       "Name": "Okkoto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 9888
+      "UsersEstimate": 9889
     },
     {
       "ID": "OldMan",
@@ -15980,7 +15991,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 15821
+      "UsersEstimate": 15822
     },
     {
       "ID": "StillRollin",
@@ -16012,7 +16023,7 @@
       "Name": "Tanuki Time",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 15821
+      "UsersEstimate": 15822
     },
     {
       "ID": "TheCave",
@@ -16068,7 +16079,7 @@
       "Name": "Too Early",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 9888
+      "UsersEstimate": 9889
     },
     {
       "ID": "Warzone",
@@ -16076,7 +16087,7 @@
       "Name": "Warzone",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 9888
+      "UsersEstimate": 9889
     },
     {
       "ID": "WhenCutAcrossTheNeck",
@@ -16107,15 +16118,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 197766,
+      "Progressed": 197773,
       "Completed": 72
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
-  "LastChanged": "2023-08-25T06:57:52.476742+00:00",
-  "LastChanged_Achievements": "2023-08-26T22:05:29.5985272+00:00",
+  "LastChanged": "2023-08-26T22:57:45.8116593+00:00",
+  "LastChanged_Achievements": "2023-08-26T23:05:53.0338072+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:44.6562489+00:00",
-  "LastUpdate_Ratings": "2023-08-26T21:57:37.8739991+00:00",
-  "LastUpdate_Achievements": "2023-08-26T22:05:29.5986535+00:00"
+  "LastUpdate_Ratings": "2023-08-26T22:57:45.8116598+00:00",
+  "LastUpdate_Achievements": "2023-08-26T23:05:53.0339655+00:00"
 }

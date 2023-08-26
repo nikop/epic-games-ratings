@@ -6,20 +6,20 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 77.00% | ~3,976 |
-| Hey Good Hookin | 67.00% | ~3,459 |
-| I'm on a Boat! | 58.00% | ~2,995 |
-| Can you smell what the Rod is Hooking | 52.00% | ~2,685 |
-| Scaling up | 52.00% | ~2,685 |
-| More Fish in the Sea | 44.00% | ~2,272 |
-| Ready to Rod and Roll | 43.00% | ~2,220 |
-| Fish Out of Water | 33.00% | ~1,704 |
-| License to Gill | 33.00% | ~1,704 |
-| Things that go Splash in the Night | 28.00% | ~1,446 |
-| Goldfish? | 27.00% | ~1,394 |
-| Going for Gold | 24.00% | ~1,239 |
-| I'm Hooked! | 18.00% | ~929 |
-| Diamond in the Rough | 13.00% | ~671 |
+| Fish Just Got Reel | 77.00% | ~3,979 |
+| Hey Good Hookin | 67.00% | ~3,462 |
+| I'm on a Boat! | 58.00% | ~2,997 |
+| Can you smell what the Rod is Hooking | 52.00% | ~2,687 |
+| Scaling up | 52.00% | ~2,687 |
+| More Fish in the Sea | 44.00% | ~2,273 |
+| Ready to Rod and Roll | 43.00% | ~2,222 |
+| Fish Out of Water | 33.00% | ~1,705 |
+| License to Gill | 32.00% | ~1,653 |
+| Things that go Splash in the Night | 28.00% | ~1,447 |
+| Goldfish? | 27.00% | ~1,395 |
+| Going for Gold | 24.00% | ~1,240 |
+| I'm Hooked! | 18.00% | ~930 |
+| Diamond in the Rough | 13.00% | ~672 |
 | More than a Tourist | 12.00% | ~620 |
 | Hook, Line and Sinker | 8.00% | ~413 |
 | Marathon | 8.00% | ~413 |
@@ -30,7 +30,7 @@ Number of Ratings: 281  (23.09.2022)
 | The Beetles | 2.00% | ~103 |
 | Rod and Troll | 2.00% | ~91 |
 | Taylor Made | 1.00% | ~52 |
-| No Fin left to give | 0.90% | ~46 |
+| No Fin left to give | 0.90% | ~47 |
 | Head for Heights | 0.60% | ~31 |
 | Lake Me up Before You Go Go | 0.50% | ~26 |
 | Fish upon a Star | 0.50% | ~23 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.10% | ~5 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,163 (Ranked 143)  
+Progressed: 5,167 (Ranked 143)  
 Completed: 0 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 0 (0.00%) (Ranked 265)
 | 2023-08-23 | 4,959 | 0 |
 | 2023-08-24 | 4,986 | 0 |
 | 2023-08-25 | 5,062 | 0 |
-| 2023-08-26 | 5,163 | 0 |
+| 2023-08-26 | 5,167 | 0 |
 ## Awards
 Max (Relaxing): 33  (Ranked 449)  
 Sum: 163 (Ranked 392)  

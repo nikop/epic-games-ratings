@@ -21,6 +21,7 @@ Rating: 4.54 (Ranked 502)
 | Apex Predator | 0.20% | ~1,332 |
 | Zombologist | 0.20% | ~1,332 |
 | A Patton Emerges | 0.20% | ~1,332 |
+| I Am the Resurrection | 0.20% | ~1,332 |
 | Stacking the Deck | 0.20% | ~1,332 |
 | Personal Assistant Personally Assisted | 0.20% | ~1,332 |
 | This is My Weapon | 0.20% | ~1,332 |
@@ -40,7 +41,6 @@ Rating: 4.54 (Ranked 502)
 | Ooh, Shiny! | 0.10% | ~666 |
 | Gore Horse | 0.10% | ~666 |
 | Humanity Distilled | 0.10% | ~666 |
-| I Am the Resurrection | 0.10% | ~666 |
 | Down with the Sickness | 0.10% | ~666 |
 | Sharpest Tool in the Box | 0.10% | ~666 |
 | Survival Skills | 0.10% | ~666 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 502)
 | Rising Star | 0.10% | ~666 |
 | Bucket List | 0.10% | ~666 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 666,210 (Ranked 22)  
+Progressed: 666,250 (Ranked 22)  
 Completed: 2,078 (0.31%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 2,078 (0.31%) (Ranked 172)
 | 2023-08-23 | 663,691 | 2,054 |
 | 2023-08-24 | 664,478 | 2,059 |
 | 2023-08-25 | 665,272 | 2,068 |
-| 2023-08-26 | 666,210 | 2,078 |
+| 2023-08-26 | 666,250 | 2,078 |
 ## Awards
 Max (Great Boss Battles): 5,770  (Ranked 61)  
 Sum: 8,490 (Ranked 97)  

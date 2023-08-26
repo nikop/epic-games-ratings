@@ -2128,9 +2128,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 38526,
+  "EOS_Progressed": 38527,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 545,
+  "EOS_NewPlayers": 543,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -15903,6 +15903,11 @@
       "Time": "2023-08-26T22:04:46.6633629+00:00",
       "NumProgressed": 38526,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-08-26T23:04:56.8017134+00:00",
+      "NumProgressed": 38527,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 75,
@@ -15930,7 +15935,7 @@
       "Name": "Blood Madness",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 5008
+      "UsersEstimate": 5009
     },
     {
       "ID": "achievements_12",
@@ -15962,7 +15967,7 @@
       "Name": "Keeper of Keys",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 18107
+      "UsersEstimate": 18108
     },
     {
       "ID": "achievements_17",
@@ -15978,7 +15983,7 @@
       "Name": "Bane of Monsters",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 10787
+      "UsersEstimate": 10788
     },
     {
       "ID": "achievements_2",
@@ -16010,7 +16015,7 @@
       "Name": "First Sacrifice",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 5008
+      "UsersEstimate": 5009
     },
     {
       "ID": "achievements_23",
@@ -16026,7 +16031,7 @@
       "Name": "Chainbreaker - II",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 21189
+      "UsersEstimate": 21190
     },
     {
       "ID": "achievements_25",
@@ -16034,7 +16039,7 @@
       "Name": "Chainbreaker - III",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 10787
+      "UsersEstimate": 10788
     },
     {
       "ID": "achievements_26",
@@ -16050,7 +16055,7 @@
       "Name": "Mountain King - II",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 15025
+      "UsersEstimate": 15026
     },
     {
       "ID": "achievements_28",
@@ -16162,7 +16167,7 @@
       "Name": "Path of the Necromancer",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 25427
+      "UsersEstimate": 25428
     },
     {
       "ID": "achievements_40",
@@ -16218,7 +16223,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 32747
+      "UsersEstimate": 32748
     },
     {
       "ID": "achievements_47",
@@ -16226,7 +16231,7 @@
       "Name": "Master of Alchemy",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 5008
+      "UsersEstimate": 5009
     },
     {
       "ID": "achievements_48",
@@ -16250,7 +16255,7 @@
       "Name": "Necromancer\u0027s Apprentice",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 19648
+      "UsersEstimate": 19649
     },
     {
       "ID": "achievements_50",
@@ -16290,7 +16295,7 @@
       "Name": "Distillation",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 16566
+      "UsersEstimate": 16567
     },
     {
       "ID": "achievements_55",
@@ -16490,7 +16495,7 @@
       "Name": "Blood Moon",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 28124
+      "UsersEstimate": 28125
     },
     {
       "ID": "achievements_8",
@@ -16506,22 +16511,22 @@
       "Name": "Blood Mage",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 6549
+      "UsersEstimate": 6550
     }
   ],
   "AchievementSets": [
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 38526,
+      "Progressed": 38527,
       "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-08-17T22:59:47.8869334+00:00",
-  "LastChanged_Achievements": "2023-08-26T22:04:46.6633622+00:00",
+  "LastChanged_Achievements": "2023-08-26T23:04:56.8017127+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:36.0417548+00:00",
-  "LastUpdate_Ratings": "2023-08-26T22:02:05.9761408+00:00",
-  "LastUpdate_Achievements": "2023-08-26T22:04:46.6635429+00:00"
+  "LastUpdate_Ratings": "2023-08-26T23:02:48.5520036+00:00",
+  "LastUpdate_Achievements": "2023-08-26T23:04:56.8019121+00:00"
 }

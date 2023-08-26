@@ -6,12 +6,12 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~21,754 |
+| Genin | 11.00% | ~21,755 |
 | Thorough | 10.00% | ~19,777 |
-| A thief's beginning | 9.00% | ~17,799 |
-| Disguised | 8.00% | ~15,821 |
-| Rollin' | 8.00% | ~15,821 |
-| Tanuki Time | 8.00% | ~15,821 |
+| A thief's beginning | 9.00% | ~17,800 |
+| Disguised | 8.00% | ~15,822 |
+| Rollin' | 8.00% | ~15,822 |
+| Tanuki Time | 8.00% | ~15,822 |
 | Jonin | 7.00% | ~13,844 |
 | Rescue Takuma | 7.00% | ~13,844 |
 | Stoned Ox | 7.00% | ~13,844 |
@@ -20,10 +20,10 @@ Number of Ratings: 495  (23.09.2022)
 | Happy Planning | 6.00% | ~11,866 |
 | Ice Ice Yuki | 6.00% | ~11,866 |
 | Mugen Unchained | 6.00% | ~11,866 |
-| Flying Rocks | 5.00% | ~9,888 |
-| Okkoto | 5.00% | ~9,888 |
-| Too Early | 5.00% | ~9,888 |
-| Warzone | 5.00% | ~9,888 |
+| Flying Rocks | 5.00% | ~9,889 |
+| Okkoto | 5.00% | ~9,889 |
+| Too Early | 5.00% | ~9,889 |
+| Warzone | 5.00% | ~9,889 |
 | Gear up | 4.00% | ~7,911 |
 | Happy little accidents | 4.00% | ~7,911 |
 | Prisoners | 4.00% | ~7,911 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~198 |
 | Release the Kraken | 0.10% | ~198 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 197,766 (Ranked 60)  
+Progressed: 197,773 (Ranked 60)  
 Completed: 72 (0.04%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,10 +179,10 @@ Completed: 72 (0.04%) (Ranked 235)
 | 2023-08-23 | 196,882 | 71 |
 | 2023-08-24 | 197,183 | 72 |
 | 2023-08-25 | 197,462 | 72 |
-| 2023-08-26 | 197,766 | 72 |
+| 2023-08-26 | 197,773 | 72 |
 ## Awards
 Max (Great for Beginners): 562  (Ranked 188)  
-Sum: 4,735 (Ranked 135)  
+Sum: 4,736 (Ranked 135)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
@@ -192,7 +192,7 @@ Diff (max vs sum): 53
 | This game has Amazing Storytelling | 505 |
 | This game has Amazing Characters | 487 |
 | This game is Highly Recommended | 483 |
-| This game is Relaxing | 479 |
+| This game is Relaxing | 480 |
 | This game has Challenging Combat | 478 |
 | This game has Quickly Understood Controls | 445 |
 | This game has a Creative Community | 247 |
@@ -357,3 +357,4 @@ Diff (max vs sum): 53
 | 2023-08-22 | 4.66 | - | 561 | 4,732 |
 | 2023-08-23 | 4.66 | - | 561 | 4,734 |
 | 2023-08-25 | 4.66 | - | 562 | 4,735 |
+| 2023-08-26 | 4.66 | - | 562 | 4,736 |

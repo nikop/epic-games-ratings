@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 842,
+  "EOS_Progressed": 843,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -2035,6 +2035,11 @@
       "Time": "2023-08-26T20:06:29.2248979+00:00",
       "NumProgressed": 842,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-26T23:08:31.4218289+00:00",
+      "NumProgressed": 843,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -2172,9 +2177,9 @@
       "ID": "FutureEkko2Defeated",
       "SetID": "a9e499d",
       "Name": "The Betrayer",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 135
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -2276,7 +2281,7 @@
       "ID": "NoRewindCamille",
       "SetID": "a9e499d",
       "Name": "A Lesson in Precision",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 60,
       "UsersEstimate": 8
     },
@@ -2469,7 +2474,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 842,
+      "Progressed": 843,
       "Completed": 5
     }
   ],
@@ -2477,8 +2482,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-08-26T22:07:41.3561195+00:00",
+  "LastChanged_Achievements": "2023-08-26T23:08:31.4218282+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:03.8052712+00:00",
-  "LastUpdate_Ratings": "2023-08-26T21:58:10.1298143+00:00",
-  "LastUpdate_Achievements": "2023-08-26T22:07:41.3561759+00:00"
+  "LastUpdate_Ratings": "2023-08-26T22:58:20.975849+00:00",
+  "LastUpdate_Achievements": "2023-08-26T23:08:31.4218826+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewPlayers": 241,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -104,9 +104,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 962,
+  "EOS_Progressed": 963,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.56,
   "EosHistory": [
@@ -1409,6 +1409,11 @@
       "Time": "2023-08-25T03:08:10.8485619+00:00",
       "NumProgressed": 962,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-08-26T23:09:02.3351883+00:00",
+      "NumProgressed": 963,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 27,
@@ -1420,7 +1425,7 @@
       "Name": "Humble beginnings",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "ACH_BOOK_ALL",
@@ -1434,9 +1439,9 @@
       "ID": "ACH_CHICKEN_ENCOUNTERED",
       "SetID": "7k95e4n",
       "Name": "Soulmate?",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 519
+      "UsersEstimate": 510
     },
     {
       "ID": "ACH_DICE_WIN",
@@ -1450,17 +1455,17 @@
       "ID": "ACH_DYNAMITE_USED",
       "SetID": "7k95e4n",
       "Name": "Kaboom",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 260
+      "UsersEstimate": 250
     },
     {
       "ID": "ACH_ELEVATOR_FIXED",
       "SetID": "7k95e4n",
       "Name": "Fine, I\u0027ll do it myself",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 414
+      "UsersEstimate": 404
     },
     {
       "ID": "ACH_ELIZA_PHOTO",
@@ -1468,7 +1473,7 @@
       "Name": "Love is in the air",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "ACH_ENGAGEMENT_RING",
@@ -1484,7 +1489,7 @@
       "Name": "No need to call anyone",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "ACH_GLORY_AND_SPLENDOR_FINISHED",
@@ -1508,7 +1513,7 @@
       "Name": "Memento",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -1516,7 +1521,7 @@
       "Name": "No pressure",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -1524,7 +1529,7 @@
       "Name": "And so it begins",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -1556,7 +1561,7 @@
       "Name": "Let there be light",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "ACH_SKILLS_ALL",
@@ -1572,7 +1577,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 731
+      "UsersEstimate": 732
     },
     {
       "ID": "ACH_STAR_2",
@@ -1596,7 +1601,7 @@
       "Name": "Nearly there",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "ACH_STAR_5",
@@ -1604,7 +1609,7 @@
       "Name": "You\u0027re a star",
       "Percentage": 20,
       "XP": 80,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ACH_STORY_MODE_FINISHED",
@@ -1620,7 +1625,7 @@
       "Name": "Excellent service",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "ACH_WALLET_RETURNED",
@@ -1628,14 +1633,14 @@
       "Name": "I think you dropped this",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     }
   ],
   "AchievementSets": [
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 962,
+      "Progressed": 963,
       "Completed": 15
     }
   ],
@@ -1643,8 +1648,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-08-10T10:58:10.9295179+00:00",
-  "LastChanged_Achievements": "2023-08-26T22:08:09.8707285+00:00",
+  "LastChanged_Achievements": "2023-08-26T23:09:02.3351876+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:15.9599009+00:00",
-  "LastUpdate_Ratings": "2023-08-26T22:00:14.7995111+00:00",
-  "LastUpdate_Achievements": "2023-08-26T22:08:09.8707564+00:00"
+  "LastUpdate_Ratings": "2023-08-26T23:00:41.2539549+00:00",
+  "LastUpdate_Achievements": "2023-08-26T23:09:02.3352323+00:00"
 }

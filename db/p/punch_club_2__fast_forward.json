@@ -4,7 +4,7 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 75,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 269,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.97,
   "EosHistory": [
@@ -1135,9 +1135,9 @@
       "ID": "first_job",
       "SetID": "69co12a",
       "Name": "Your first job",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 223
     },
     {
       "ID": "flash_bobo",
@@ -1526,8 +1526,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-08-26T22:06:58.6373135+00:00",
+  "LastChanged_Achievements": "2023-08-26T23:07:44.5094162+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:28.4384167+00:00",
-  "LastUpdate_Ratings": "2023-08-26T22:00:33.2381876+00:00",
-  "LastUpdate_Achievements": "2023-08-26T22:06:58.6373865+00:00"
+  "LastUpdate_Ratings": "2023-08-26T23:01:00.3398222+00:00",
+  "LastUpdate_Achievements": "2023-08-26T23:07:44.509512+00:00"
 }

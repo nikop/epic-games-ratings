@@ -4,7 +4,7 @@
   "ProductSlug": "one-more-dungeon-2-532228",
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewPlayers": 295,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-06-09T14:30:00+00:00",
@@ -687,9 +687,9 @@
       "ID": "CollectGold",
       "SetID": "7g1kpc8",
       "Name": "Merchant",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "DemonHunter",
@@ -767,9 +767,9 @@
       "ID": "MonsterSlayer",
       "SetID": "7g1kpc8",
       "Name": "Monster Slayer",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 60,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Persistence",
@@ -783,17 +783,17 @@
       "ID": "ReturnShell",
       "SetID": "7g1kpc8",
       "Name": "Detective",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "SecondBoss",
       "SetID": "7g1kpc8",
       "Name": "Spider",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "TenLevel",
@@ -822,8 +822,8 @@
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-08-26T22:08:13.3660207+00:00",
+  "LastChanged_Achievements": "2023-08-26T23:09:06.1792691+00:00",
   "LastUpdate_AppInfo": "2023-08-21T10:58:06.4891422+00:00",
-  "LastUpdate_Ratings": "2023-08-26T22:00:12.0630771+00:00",
-  "LastUpdate_Achievements": "2023-08-26T22:08:13.3660405+00:00"
+  "LastUpdate_Ratings": "2023-08-26T23:00:38.2481607+00:00",
+  "LastUpdate_Achievements": "2023-08-26T23:09:06.1792896+00:00"
 }

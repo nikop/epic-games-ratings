@@ -5752,9 +5752,9 @@
       "Count": 3737
     }
   ],
-  "EOS_Progressed": 135185,
+  "EOS_Progressed": 135191,
   "EOS_Completed": 138,
-  "EOS_NewPlayers": 396,
+  "EOS_NewPlayers": 400,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -18902,6 +18902,11 @@
       "Time": "2023-08-26T22:07:53.9725962+00:00",
       "NumProgressed": 135185,
       "NumCompleted": 138
+    },
+    {
+      "Time": "2023-08-26T23:08:45.2105543+00:00",
+      "NumProgressed": 135191,
+      "NumCompleted": 138
     }
   ],
   "TotalAchievements": 112,
@@ -18993,7 +18998,7 @@
       "Name": "One Easy Payment",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1082
     },
     {
       "ID": "bigsale02",
@@ -19017,7 +19022,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1082
     },
     {
       "ID": "blueprint02",
@@ -19079,9 +19084,9 @@
       "ID": "chest01",
       "SetID": "anfd17p",
       "Name": "Sponsored by Argon",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1352
+      "UsersEstimate": 2704
     },
     {
       "ID": "chest02",
@@ -19265,7 +19270,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1082
     },
     {
       "ID": "energy02",
@@ -19393,7 +19398,7 @@
       "Name": "Pretty Penny",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1082
     },
     {
       "ID": "gold03",
@@ -19777,7 +19782,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1082
     },
     {
       "ID": "workers02",
@@ -19808,15 +19813,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135185,
+      "Progressed": 135191,
       "Completed": 138
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-26T11:02:29.7530537+00:00",
-  "LastChanged_Achievements": "2023-08-26T22:07:53.9725958+00:00",
+  "LastChanged_Achievements": "2023-08-26T23:08:45.2105534+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:19.0477827+00:00",
-  "LastUpdate_Ratings": "2023-08-26T22:01:52.5541961+00:00",
-  "LastUpdate_Achievements": "2023-08-26T22:07:53.972815+00:00"
+  "LastUpdate_Ratings": "2023-08-26T23:02:33.4651067+00:00",
+  "LastUpdate_Achievements": "2023-08-26T23:08:45.2108835+00:00"
 }

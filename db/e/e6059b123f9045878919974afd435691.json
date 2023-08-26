@@ -1849,9 +1849,9 @@
       "ID": "BRO_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Main Course",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 38
     },
     {
       "ID": "BRO_ACHIEVEMENT_2",
@@ -1889,9 +1889,9 @@
       "ID": "BURN_ACHIEVEMENT_4",
       "SetID": "9lcahn0",
       "Name": "Completing The Duty",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 23
     },
     {
       "ID": "BURN_ACHIEVEMENT_5",
@@ -1985,9 +1985,9 @@
       "ID": "FREEM_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Where Is Houdini?",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 108
     },
     {
       "ID": "FREE_ACHIEVEMENT_1",
@@ -2280,8 +2280,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-08-26T22:04:27.4986185+00:00",
+  "LastChanged_Achievements": "2023-08-26T23:04:32.5337884+00:00",
   "LastUpdate_AppInfo": "2023-08-24T17:57:03.8268695+00:00",
-  "LastUpdate_Ratings": "2023-08-26T21:59:46.9925977+00:00",
-  "LastUpdate_Achievements": "2023-08-26T22:04:27.4986897+00:00"
+  "LastUpdate_Ratings": "2023-08-26T23:00:08.4491149+00:00",
+  "LastUpdate_Achievements": "2023-08-26T23:04:32.5338688+00:00"
 }

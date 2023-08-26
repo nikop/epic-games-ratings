@@ -40,8 +40,8 @@ Number of Ratings: 371  (23.09.2022)
 | Tactical Sabotage | 0.50% | ~16 |
 | Patron of Deimos | 0.40% | ~13 |
 | For the Machine God | 0.40% | ~13 |
+| Engine Kill | 0.40% | ~13 |
 | Strike Force | 0.30% | ~9 |
-| Engine Kill | 0.30% | ~9 |
 | Harvest No More | 0.30% | ~9 |
 | Death Comes For All | 0.30% | ~9 |
 | Blood and Iron | 0.20% | ~6 |

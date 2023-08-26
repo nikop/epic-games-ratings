@@ -20,10 +20,10 @@ Rating: 4.60 (Ranked 392)
 | Honest Mistake | 18.00% | ~152 |
 | Fast Learner | 18.00% | ~152 |
 | Immaculate Aim | 18.00% | ~152 |
-| The Betrayer | 17.00% | ~143 |
 | The Wicked Twins | 17.00% | ~143 |
 | Golem Chaser | 17.00% | ~143 |
 | Like Clockwork | 16.00% | ~135 |
+| The Betrayer | 16.00% | ~135 |
 | The Man Who Shattered Time | 16.00% | ~135 |
 | The Loose Cannon | 16.00% | ~135 |
 | Check Your Pulse | 16.00% | ~135 |
@@ -53,13 +53,13 @@ Rating: 4.60 (Ranked 392)
 | Wunderkind | 2.00% | ~17 |
 | Fitting In | 2.00% | ~17 |
 | Thinking Two Steps Ahead | 1.00% | ~8 |
-| A Lesson in Precision | 1.00% | ~8 |
 | No Time to Waste | 1.00% | ~8 |
+| A Lesson in Precision | 0.90% | ~8 |
 | Wildlife Protection | 0.80% | ~7 |
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 842 (Ranked 209)  
+Progressed: 843 (Ranked 209)  
 Completed: 5 (0.59%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 5 (0.59%) (Ranked 140)
 | 2023-08-21 | 837 | 5 |
 | 2023-08-24 | 838 | 5 |
 | 2023-08-25 | 839 | 5 |
-| 2023-08-26 | 842 | 5 |
+| 2023-08-26 | 843 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
