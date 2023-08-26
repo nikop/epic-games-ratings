@@ -954,9 +954,9 @@
       "ID": "ACH_ACT8",
       "SetID": "2310cb1",
       "Name": "Bad Robots",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_ACT9",
@@ -1067,8 +1067,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-08-25T23:04:41.2348367+00:00",
+  "LastChanged_Achievements": "2023-08-26T00:04:09.1038804+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:59.681078+00:00",
-  "LastUpdate_Ratings": "2023-08-25T23:01:06.911748+00:00",
-  "LastUpdate_Achievements": "2023-08-25T23:04:41.2348599+00:00"
+  "LastUpdate_Ratings": "2023-08-26T00:00:07.8016512+00:00",
+  "LastUpdate_Achievements": "2023-08-26T00:04:09.1039082+00:00"
 }

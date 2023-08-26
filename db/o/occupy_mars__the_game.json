@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -220,9 +220,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1530,
+  "EOS_Progressed": 1532,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3300,6 +3300,11 @@
       "Time": "2023-08-25T22:02:37.320391+00:00",
       "NumProgressed": 1530,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-26T00:03:10.2874594+00:00",
+      "NumProgressed": 1532,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3463,7 +3468,7 @@
       "Name": "Detective",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
@@ -3471,7 +3476,7 @@
       "Name": "DeDust",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "NEW_ACHIEVEMENT_DUMB_WAYS",
@@ -3487,7 +3492,7 @@
       "Name": "Electrician",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -3503,7 +3508,7 @@
       "Name": "Gardener",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -3527,7 +3532,7 @@
       "Name": "I am the greatest botanist on this planet.",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
@@ -3535,7 +3540,7 @@
       "Name": "Houston we have a problem",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -3543,7 +3548,7 @@
       "Name": "ITS crash site",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "NEW_ACHIEVEMENT_KOROLEV",
@@ -3559,7 +3564,7 @@
       "Name": "Miner",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -3567,7 +3572,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -3583,7 +3588,7 @@
       "Name": "Occupy Mars!",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -3694,7 +3699,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1530,
+      "Progressed": 1532,
       "Completed": 0
     }
   ],
@@ -3702,8 +3707,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-08-17T16:59:18.1470659+00:00",
-  "LastChanged_Achievements": "2023-08-25T23:03:30.6510774+00:00",
+  "LastChanged_Achievements": "2023-08-26T00:03:10.2874589+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:58.538966+00:00",
-  "LastUpdate_Ratings": "2023-08-25T23:01:09.045986+00:00",
-  "LastUpdate_Achievements": "2023-08-25T23:03:30.6511302+00:00"
+  "LastUpdate_Ratings": "2023-08-26T00:00:09.1360772+00:00",
+  "LastUpdate_Achievements": "2023-08-26T00:03:10.2875203+00:00"
 }

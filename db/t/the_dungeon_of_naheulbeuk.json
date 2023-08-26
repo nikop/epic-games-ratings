@@ -720,9 +720,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 217227,
+  "EOS_Progressed": 217250,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2997,
+  "EOS_NewPlayers": 3005,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8305,6 +8305,11 @@
       "Time": "2023-08-25T23:03:41.3541541+00:00",
       "NumProgressed": 217227,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-26T00:03:18.7695427+00:00",
+      "NumProgressed": 217250,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -8340,7 +8345,7 @@
       "Name": "Shiny and Cr\u00F4m",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1303
+      "UsersEstimate": 1304
     },
     {
       "ID": "BarbarianKillUsingBow",
@@ -8764,7 +8769,7 @@
       "Name": "Sowwy!",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 52134
+      "UsersEstimate": 52140
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -8812,7 +8817,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6517
+      "UsersEstimate": 6518
     },
     {
       "ID": "FollowBraztok",
@@ -8820,7 +8825,7 @@
       "Name": "The beards of change",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1303
+      "UsersEstimate": 1304
     },
     {
       "ID": "FollowNarzatok",
@@ -8940,7 +8945,7 @@
       "Name": "The Ranger of Chaos",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1303
+      "UsersEstimate": 1304
     },
     {
       "ID": "Rogue30Backstab",
@@ -8948,7 +8953,7 @@
       "Name": "I am the night",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1303
+      "UsersEstimate": 1304
     },
     {
       "ID": "RogueEpic",
@@ -8956,7 +8961,7 @@
       "Name": "Thieves\u0027 Guild Accreditation",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1303
+      "UsersEstimate": 1304
     },
     {
       "ID": "Speedrun",
@@ -9019,21 +9024,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 217227,
+      "Progressed": 217250,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 217227,
+      "Progressed": 217250,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-25T15:02:30.1432618+00:00",
-  "LastChanged_Achievements": "2023-08-25T23:03:41.3541536+00:00",
+  "LastChanged_Achievements": "2023-08-26T00:03:18.7695419+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:36.4163589+00:00",
-  "LastUpdate_Ratings": "2023-08-25T23:03:02.9717304+00:00",
-  "LastUpdate_Achievements": "2023-08-25T23:03:41.3543257+00:00"
+  "LastUpdate_Ratings": "2023-08-26T00:02:05.1298001+00:00",
+  "LastUpdate_Achievements": "2023-08-26T00:03:18.7696918+00:00"
 }

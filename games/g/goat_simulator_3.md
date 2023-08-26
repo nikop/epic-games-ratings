@@ -1,30 +1,30 @@
 # Goat Simulator 3
 [Store](https://store.epicgames.com/en-US/p/goat-simulator-3)  
 [View Rawdata](../../db/g/goat_simulator_3.json)  
-Rating: 4.84 (Ranked 48)  
+Rating: 4.85 (Ranked 42)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Forgotten Sorority | 91.00% | ~219,709 |
-| Private Club | 74.00% | ~178,664 |
+| Private Club | 74.00% | ~178,665 |
 | Rogue Guild | 65.00% | ~156,935 |
 | I Watched the Intro | 57.00% | ~137,620 |
 | Covert Consortium | 55.00% | ~132,791 |
-| Goat Queen | 53.00% | ~127,962 |
-| Reach the Stratosphere | 50.00% | ~120,719 |
+| Goat Queen | 53.00% | ~127,963 |
+| Reach the Stratosphere | 50.00% | ~120,720 |
 | Synchronization Complete | 47.00% | ~113,476 |
-| Secret Society | 45.00% | ~108,647 |
-| Shadow Syndicate | 38.00% | ~91,746 |
+| Secret Society | 45.00% | ~108,648 |
+| Shadow Syndicate | 38.00% | ~91,747 |
 | What a Waste of Money | 33.00% | ~79,675 |
-| New Goat Order | 30.00% | ~72,431 |
+| New Goat Order | 30.00% | ~72,432 |
 | Don't touch the servers | 28.00% | ~67,603 |
 | San Angora: Become Human | 26.00% | ~62,774 |
 | Raider of the Lost Parking Garage | 26.00% | ~62,774 |
 | Real Buoy | 26.00% | ~62,774 |
 | Welcome to Earth | 25.00% | ~60,360 |
 | Into the Matrix | 19.00% | ~45,873 |
-| Where is It? | 17.00% | ~41,044 |
-| Egg Simulator | 17.00% | ~41,044 |
+| Where is It? | 17.00% | ~41,045 |
+| Egg Simulator | 17.00% | ~41,045 |
 | Beauty, Mindfulness and Meditation | 15.00% | ~36,216 |
 | Black Market | 14.00% | ~33,801 |
 | 401(K.O.) | 14.00% | ~33,801 |
@@ -45,7 +45,7 @@ Rating: 4.84 (Ranked 48)
 | Move! That! Bus! | 0.60% | ~1,449 |
 | G.O.A.T | 0.30% | ~724 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,438 (Ranked 49)  
+Progressed: 241,439 (Ranked 49)  
 Completed: 810 (0.34%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,6 +173,7 @@ Completed: 810 (0.34%) (Ranked 167)
 | 2023-08-23 | 241,181 | 810 |
 | 2023-08-24 | 241,312 | 810 |
 | 2023-08-25 | 241,438 | 810 |
+| 2023-08-26 | 241,439 | 810 |
 ## Awards
 Max (Great for Beginners): 384  (Ranked 220)  
 Sum: 3,257 (Ranked 154)  

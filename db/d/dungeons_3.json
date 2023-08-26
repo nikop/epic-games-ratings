@@ -2524,9 +2524,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 28426,
+  "EOS_Progressed": 28427,
   "EOS_Completed": 236,
-  "EOS_NewPlayers": 716,
+  "EOS_NewPlayers": 714,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.83,
   "EosHistory": [
@@ -16299,6 +16299,11 @@
       "Time": "2023-08-25T23:06:21.6353519+00:00",
       "NumProgressed": 28426,
       "NumCompleted": 236
+    },
+    {
+      "Time": "2023-08-26T00:05:23.7100113+00:00",
+      "NumProgressed": 28427,
+      "NumCompleted": 236
     }
   ],
   "TotalAchievements": 60,
@@ -16310,7 +16315,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 16487
+      "UsersEstimate": 16488
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -16374,7 +16379,7 @@
       "Name": "Difficult family relationships",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 7106
+      "UsersEstimate": 7107
     },
     {
       "ID": "ACH_D3_Campaign_DayNight_1",
@@ -16454,7 +16459,7 @@
       "Name": "MASS-O-BOT",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 7106
+      "UsersEstimate": 7107
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_2",
@@ -16518,7 +16523,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 12223
+      "UsersEstimate": 12224
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -16526,7 +16531,7 @@
       "Name": "The One-Huge-Army-Building Evil",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 11370
+      "UsersEstimate": 11371
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_2",
@@ -16534,7 +16539,7 @@
       "Name": "Hands off the Dungeonheart!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 10233
+      "UsersEstimate": 10234
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_Completed",
@@ -16550,7 +16555,7 @@
       "Name": "Thirst quencher",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 7959
+      "UsersEstimate": 7960
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_2",
@@ -16566,7 +16571,7 @@
       "Name": "Ogre Solo!",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 7959
+      "UsersEstimate": 7960
     },
     {
       "ID": "ACH_D3_Campaign_Infested_1",
@@ -16622,7 +16627,7 @@
       "Name": "Flat as a pancake",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 4832
+      "UsersEstimate": 4833
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_2",
@@ -16662,7 +16667,7 @@
       "Name": "The Force disturbed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 5969
+      "UsersEstimate": 5970
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_1",
@@ -16710,7 +16715,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 19614
+      "UsersEstimate": 19615
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -16766,7 +16771,7 @@
       "Name": "Lifeguard",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 4832
+      "UsersEstimate": 4833
     },
     {
       "ID": "ACH_D3_Campaign_Water_2",
@@ -16789,15 +16794,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 28426,
+      "Progressed": 28427,
       "Completed": 236
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-08-25T16:57:34.3815173+00:00",
-  "LastChanged_Achievements": "2023-08-25T23:06:21.6353514+00:00",
+  "LastChanged_Achievements": "2023-08-26T00:05:23.7100107+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:53.4330932+00:00",
-  "LastUpdate_Ratings": "2023-08-25T22:57:56.6681092+00:00",
-  "LastUpdate_Achievements": "2023-08-25T23:06:21.6354685+00:00"
+  "LastUpdate_Ratings": "2023-08-25T23:57:35.7517502+00:00",
+  "LastUpdate_Achievements": "2023-08-26T00:05:23.7101479+00:00"
 }

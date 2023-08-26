@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 15,
   "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -2347,9 +2347,9 @@
       "ID": "LEVEL_011",
       "SetID": "3khpmem",
       "Name": "At the heart of the city",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 121
+      "UsersEstimate": 125
     },
     {
       "ID": "LEVEL_012",
@@ -2452,8 +2452,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-08-25T23:07:16.1923735+00:00",
+  "LastChanged_Achievements": "2023-08-26T00:06:09.8476481+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:04.6544271+00:00",
-  "LastUpdate_Ratings": "2023-08-25T23:01:54.8444852+00:00",
-  "LastUpdate_Achievements": "2023-08-25T23:07:16.192401+00:00"
+  "LastUpdate_Ratings": "2023-08-26T00:00:48.3763185+00:00",
+  "LastUpdate_Achievements": "2023-08-26T00:06:09.8476807+00:00"
 }

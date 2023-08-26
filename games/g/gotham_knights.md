@@ -19,11 +19,11 @@ Rating: 4.18 (Ranked 875)
 | Working Hard or Harley Working? | 20.00% | ~13,606 |
 | Unstoppable Force | 20.00% | ~13,606 |
 | Bad Apples in Every Orchard | 20.00% | ~13,606 |
-| Snow Problem | 19.00% | ~12,925 |
+| Snow Problem | 19.00% | ~12,926 |
 | The Show Mud Go On | 18.00% | ~12,245 |
 | From Inside Gotham's Walls | 18.00% | ~12,245 |
 | Protector of Gotham | 17.00% | ~11,565 |
-| Universal Health Scare | 16.00% | ~10,884 |
+| Universal Health Scare | 16.00% | ~10,885 |
 | In Your Element | 15.00% | ~10,204 |
 | Voiceless | 15.00% | ~10,204 |
 | Rock and a Hard Place | 14.00% | ~9,524 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 875)
 | Element of Surprise | 0.20% | ~77 |
 | It's Nice to Be Wanted | 0.20% | ~77 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,028 (Ranked 81)  
+Progressed: 68,029 (Ranked 81)  
 Completed: 109 (0.16%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,6 +195,7 @@ Completed: 109 (0.16%) (Ranked 194)
 | 2023-08-23 | 68,002 | 109 |
 | 2023-08-24 | 68,017 | 109 |
 | 2023-08-25 | 68,028 | 109 |
+| 2023-08-26 | 68,029 | 109 |
 ## Awards
 Max (Great Boss Battles): 2,518  (Ranked 100)  
 Sum: 4,192 (Ranked 139)  

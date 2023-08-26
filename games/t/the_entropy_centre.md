@@ -15,7 +15,7 @@
 | 48 Attempts | 37.00% | ~92 |
 | Handyman | 25.00% | ~62 |
 | No Time To Relax | 21.00% | ~52 |
-| Bad Robots | 18.00% | ~45 |
+| Bad Robots | 19.00% | ~47 |
 | Archivist | 18.00% | ~45 |
 | Running Boots | 17.00% | ~42 |
 | Fashionista | 17.00% | ~42 |

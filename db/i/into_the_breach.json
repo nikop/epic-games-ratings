@@ -2,12 +2,12 @@
   "ID": "5c0d568c71174cff8026db2606771d96",
   "Name": "Into the Breach",
   "ProductSlug": "into-the-breach",
-  "Ranking_Rating": 48,
+  "Ranking_Rating": 49,
   "Ranking_Popularity": 211,
   "Ranking_PopularitySum": 143,
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewPlayers": 343,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2019-12-19T16:00:00+00:00",
@@ -3292,6 +3292,6 @@
   "FirstSeen": "2022-07-22T20:26:50.8479509+00:00",
   "LastChanged": "2023-08-25T14:57:48.424801+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:28.8369832+00:00",
-  "LastUpdate_Ratings": "2023-08-25T22:57:45.8427917+00:00",
-  "LastUpdate_Achievements": "2023-08-25T23:07:43.6518214+00:00"
+  "LastUpdate_Ratings": "2023-08-25T23:57:22.0606023+00:00",
+  "LastUpdate_Achievements": "2023-08-26T00:06:32.2824997+00:00"
 }

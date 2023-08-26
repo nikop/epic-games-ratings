@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -476,7 +476,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3527,
+  "EOS_Progressed": 3528,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
@@ -6201,6 +6201,11 @@
       "Time": "2023-08-25T22:05:09.6753424+00:00",
       "NumProgressed": 3527,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-26T00:05:16.9311716+00:00",
+      "NumProgressed": 3528,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -6292,7 +6297,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1622
+      "UsersEstimate": 1623
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -6372,7 +6377,7 @@
       "Name": "Precision Is Key",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -6404,7 +6409,7 @@
       "Name": "My Little Friend",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -6580,7 +6585,7 @@
       "Name": "Taking it back",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -6779,13 +6784,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3478,
+      "Progressed": 3479,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3527,
+      "Progressed": 3528,
       "Completed": 9
     }
   ],
@@ -6793,8 +6798,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-08-19T13:59:32.9786794+00:00",
-  "LastChanged_Achievements": "2023-08-25T23:06:13.3368696+00:00",
+  "LastChanged_Achievements": "2023-08-26T00:05:16.9311711+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:38.9761253+00:00",
-  "LastUpdate_Ratings": "2023-08-25T23:00:06.5638516+00:00",
-  "LastUpdate_Achievements": "2023-08-25T23:06:13.3369614+00:00"
+  "LastUpdate_Ratings": "2023-08-25T23:59:23.3165238+00:00",
+  "LastUpdate_Achievements": "2023-08-26T00:05:16.9312836+00:00"
 }

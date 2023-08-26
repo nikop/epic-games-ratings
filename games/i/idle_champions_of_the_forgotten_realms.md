@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~4,498 |
+| A Brief Tour of the Realms | 2.00% | ~4,499 |
 | Beast Intentions | 0.60% | ~1,350 |
 | The Cursed Farmer | 0.60% | ~1,350 |
 | The Mad Wizard | 0.50% | ~1,125 |
@@ -78,6 +78,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Giant's Bane Tavern | 0.20% | ~382 |
 | The Everlasting Rime | 0.20% | ~382 |
 | Waterdeep Detours | 0.20% | ~450 |
+| Easily Distracted | 0.20% | ~450 |
 | Underdeep Cartography | 0.20% | ~450 |
 | Overdue Rendezvous | 0.20% | ~450 |
 | Moose Tracks | 0.20% | ~382 |
@@ -421,7 +422,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Constant Banditry | 0.10% | ~225 |
 | The Long Haul | 0.10% | ~225 |
 | Lost in the Deep | 0.10% | ~225 |
-| Easily Distracted | 0.10% | ~225 |
 | Rude Welcome | 0.10% | ~225 |
 | An Awakened Axe | 0.10% | ~191 |
 | CONtagious Cold | 0.10% | ~191 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~191 |
 | Animated Giff | 0.10% | ~191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,925 (Ranked 53)  
+Progressed: 224,935 (Ranked 53)  
 Completed: 2,214 (0.98%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -651,9 +651,10 @@ Completed: 2,214 (0.98%) (Ranked 121)
 | 2023-08-23 | 224,434 | 2,210 |
 | 2023-08-24 | 224,686 | 2,211 |
 | 2023-08-25 | 224,925 | 2,214 |
+| 2023-08-26 | 224,935 | 2,214 |
 ## Awards
 Max (Diverse Characters): 5,182  (Ranked 68)  
-Sum: 31,210 (Ranked 39)  
+Sum: 31,215 (Ranked 39)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -663,7 +664,7 @@ Diff (max vs sum): 29
 | This game is Relaxing | 4,624 |
 | This game has Amazing Characters | 4,084 |
 | This game is Highly Recommended | 4,068 |
-| This game has Playful Visuals | 3,368 |
+| This game has Playful Visuals | 3,373 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -879,3 +880,4 @@ Diff (max vs sum): 29
 | 2023-08-23 | 4.06 | - | 5,179 | 31,183 |
 | 2023-08-24 | 4.06 | - | 5,182 | 31,201 |
 | 2023-08-25 | 4.06 | - | 5,182 | 31,210 |
+| 2023-08-26 | 4.06 | - | 5,182 | 31,215 |

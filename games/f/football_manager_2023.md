@@ -5,22 +5,22 @@ Rating: 4.75 (Ranked 136)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Motivational Speaker | 77.00% | ~65,757 |
-| The Player Whisperer | 76.00% | ~64,903 |
-| One of Us, One of Us! | 73.00% | ~62,341 |
-| First Victory | 68.00% | ~58,071 |
-| Clean Sheet | 67.00% | ~57,217 |
-| #DoneDeal | 67.00% | ~57,217 |
-| Off the Books | 66.00% | ~56,363 |
-| Super-Sub | 65.00% | ~55,509 |
-| Hat-trick | 60.00% | ~51,239 |
-| "I Would Love It If We Beat Them" | 58.00% | ~49,531 |
-| Planned Signing | 58.00% | ~49,531 |
-| Thumping | 53.00% | ~45,261 |
-| Scoring Streak | 53.00% | ~45,261 |
-| People Pleaser | 52.00% | ~44,407 |
-| Wheeler Dealer | 52.00% | ~44,407 |
-| Unbeatable! | 51.00% | ~43,553 |
+| Motivational Speaker | 77.00% | ~65,759 |
+| The Player Whisperer | 76.00% | ~64,905 |
+| One of Us, One of Us! | 73.00% | ~62,343 |
+| First Victory | 68.00% | ~58,073 |
+| Clean Sheet | 67.00% | ~57,219 |
+| #DoneDeal | 67.00% | ~57,219 |
+| Off the Books | 66.00% | ~56,365 |
+| Super-Sub | 65.00% | ~55,511 |
+| Hat-trick | 60.00% | ~51,241 |
+| "I Would Love It If We Beat Them" | 58.00% | ~49,533 |
+| Planned Signing | 58.00% | ~49,533 |
+| Thumping | 53.00% | ~45,263 |
+| Scoring Streak | 53.00% | ~45,263 |
+| People Pleaser | 52.00% | ~44,409 |
+| Wheeler Dealer | 52.00% | ~44,409 |
+| Unbeatable! | 51.00% | ~43,555 |
 | One Of Our Own | 49.00% | ~41,846 |
 | They're a Natural | 45.00% | ~38,430 |
 | Record Signing | 45.00% | ~38,430 |
@@ -106,7 +106,7 @@ Rating: 4.75 (Ranked 136)
 | Versus Anyone | 0.10% | ~85 |
 | 200 Club | 0.10% | ~85 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 85,399 (Ranked 75)  
+Progressed: 85,401 (Ranked 75)  
 Completed: 23 (0.03%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,6 +234,7 @@ Completed: 23 (0.03%) (Ranked 240)
 | 2023-08-23 | 85,124 | 23 |
 | 2023-08-24 | 85,254 | 23 |
 | 2023-08-25 | 85,399 | 23 |
+| 2023-08-26 | 85,401 | 23 |
 ## Awards
 Max (Diverse Characters): 630  (Ranked 178)  
 Sum: 4,492 (Ranked 137)  
