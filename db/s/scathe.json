@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-06-06T15:00:00+00:00",
     "PcReleaseDate": "2022-08-29T23:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 285,
+  "EOS_Progressed": 286,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1263,6 +1263,11 @@
       "Time": "2023-08-26T10:04:17.8765504+00:00",
       "NumProgressed": 285,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-26T14:03:35.2035013+00:00",
+      "NumProgressed": 286,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -1312,7 +1317,7 @@
       "ID": "ACHIEVEMENT_DOOMED",
       "SetID": "2ff85j2",
       "Name": "Doomed",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -1376,7 +1381,7 @@
       "ID": "ACHIEVEMENT_PACIFANTASTIC",
       "SetID": "2ff85j2",
       "Name": "Pacifantastic",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -1384,7 +1389,7 @@
       "ID": "ACHIEVEMENT_POSTAL_SERVICE",
       "SetID": "2ff85j2",
       "Name": "Postal Service",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1424,7 +1429,7 @@
       "ID": "ACHIEVEMENT_SCATHE_TOO",
       "SetID": "2ff85j2",
       "Name": "SCATHE Too",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -1440,7 +1445,7 @@
       "ID": "ACHIEVEMENT_SHOCKING_BIO",
       "SetID": "2ff85j2",
       "Name": "Shocking Bio",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -1448,9 +1453,9 @@
       "ID": "ACHIEVEMENT_SHOCK_TO_THE_SYSTEM",
       "SetID": "2ff85j2",
       "Name": "Shock to the System",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_SLAVING_GRACE",
@@ -1464,7 +1469,7 @@
       "ID": "ACHIEVEMENT_SUCH_SIN",
       "SetID": "2ff85j2",
       "Name": "Such Sin",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -1513,7 +1518,7 @@
     {
       "ID": "2ff85j2",
       "IsBase": true,
-      "Progressed": 285,
+      "Progressed": 286,
       "Completed": 0
     }
   ],
@@ -1521,8 +1526,8 @@
   "FirstSeenRating": "2023-04-24T10:58:16.802842+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.6712735+00:00",
   "LastChanged": "2023-04-24T10:58:16.8028421+00:00",
-  "LastChanged_Achievements": "2023-08-26T13:05:25.0750751+00:00",
+  "LastChanged_Achievements": "2023-08-26T14:03:35.2035007+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:36.7084326+00:00",
-  "LastUpdate_Ratings": "2023-08-26T13:02:22.9075394+00:00",
-  "LastUpdate_Achievements": "2023-08-26T13:05:25.0751105+00:00"
+  "LastUpdate_Ratings": "2023-08-26T14:01:24.6644923+00:00",
+  "LastUpdate_Achievements": "2023-08-26T14:03:35.2035367+00:00"
 }

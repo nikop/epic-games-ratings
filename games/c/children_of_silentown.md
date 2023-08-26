@@ -14,13 +14,13 @@
 | Blue's drawing | 55.00% | ~107 |
 | Mysterious footprints | 48.00% | ~93 |
 | Glass shards | 47.00% | ~91 |
-| Complicated padlock | 42.00% | ~81 |
+| Complicated padlock | 43.00% | ~83 |
 | Big metal ruler | 41.00% | ~80 |
 | Windmill | 40.00% | ~78 |
 | Doll | 38.00% | ~74 |
 | Mysterious paintings | 36.00% | ~70 |
 | Cat | 34.00% | ~66 |
-| Depths of the well | 26.00% | ~50 |
+| Depths of the well | 27.00% | ~52 |
 | Children | 24.00% | ~47 |
 | Huge Snail | 16.00% | ~31 |
 | Flower of hope | 15.00% | ~29 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-01-21T16:00:00+00:00",
     "PcReleaseDate": "2015-05-14T16:00:00+00:00",
@@ -1661,10 +1661,16 @@
       "Rating": 4.22,
       "NumberOfAwards": 1163,
       "NumberOfAwardsMax": 179
+    },
+    {
+      "Time": "2023-08-26T13:59:22.4417712+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 1164,
+      "NumberOfAwardsMax": 179
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1163,
+  "NumberOfAwards": 1164,
   "NumberOfAwardsMax": 179,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1720,7 +1726,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 66
+      "Count": 67
     }
   ],
   "EOS_Progressed": 0,
@@ -1734,8 +1740,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:25.7061184+00:00",
-  "LastChanged": "2023-08-26T05:58:53.6514202+00:00",
+  "LastChanged": "2023-08-26T13:59:22.4417711+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:12.4477454+00:00",
-  "LastUpdate_Ratings": "2023-08-26T13:00:50.5642665+00:00",
-  "LastUpdate_Achievements": "2023-08-26T13:08:07.759342+00:00"
+  "LastUpdate_Ratings": "2023-08-26T13:59:22.4417724+00:00",
+  "LastUpdate_Achievements": "2023-08-26T14:07:10.1852874+00:00"
 }

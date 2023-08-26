@@ -17,8 +17,8 @@ Rating: 4.56 (Ranked 472)
 | Guy de Borderlands | 11.00% | ~341 |
 | Fully Recycled | 11.00% | ~341 |
 | Ain't Nobody Got Time for That | 11.00% | ~341 |
+| Hope Seeker | 11.00% | ~341 |
 | Exceeding Capacity | 10.00% | ~310 |
-| Hope Seeker | 10.00% | ~310 |
 | A Hunk of Junk | 9.00% | ~279 |
 | Breaking Protocol | 9.00% | ~279 |
 | Man's Best Friend | 7.00% | ~217 |

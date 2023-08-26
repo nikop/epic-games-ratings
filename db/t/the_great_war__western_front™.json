@@ -4,8 +4,8 @@
   "ProductSlug": "the-great-war-western-front",
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 395,
+  "EOS_Progressed": 396,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1744,6 +1744,11 @@
       "Time": "2023-08-25T12:05:29.7172059+00:00",
       "NumProgressed": 395,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-26T14:05:31.0491359+00:00",
+      "NumProgressed": 396,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -1850,7 +1855,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 395,
+      "Progressed": 396,
       "Completed": 0
     }
   ],
@@ -1858,8 +1863,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
-  "LastChanged_Achievements": "2023-08-26T13:06:44.0040566+00:00",
+  "LastChanged_Achievements": "2023-08-26T14:05:31.0491352+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:18.7692809+00:00",
-  "LastUpdate_Ratings": "2023-08-26T13:03:18.5842726+00:00",
-  "LastUpdate_Achievements": "2023-08-26T13:06:44.0040788+00:00"
+  "LastUpdate_Ratings": "2023-08-26T14:02:44.7094887+00:00",
+  "LastUpdate_Achievements": "2023-08-26T14:05:31.0491631+00:00"
 }

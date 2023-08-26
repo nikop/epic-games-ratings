@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 405,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-07-28T14:00:00+00:00",
     "PcReleaseDate": "2023-07-28T14:00:00+00:00",
@@ -179,9 +179,9 @@
       "ID": "ACH_BOSSES_100",
       "SetID": "a2aifpa",
       "Name": "Head of the Snake",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_BURN_50",
@@ -400,8 +400,8 @@
   ],
   "FirstSeen": "2023-07-30T18:59:40.5539908+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:08.7767583+00:00",
-  "LastChanged_Achievements": "2023-08-26T13:09:27.0241992+00:00",
+  "LastChanged_Achievements": "2023-08-26T14:08:34.939457+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:39.9543878+00:00",
-  "LastUpdate_Ratings": "2023-08-26T12:02:41.2912493+00:00",
-  "LastUpdate_Achievements": "2023-08-26T13:09:27.0242212+00:00"
+  "LastUpdate_Ratings": "2023-08-26T13:57:09.4180836+00:00",
+  "LastUpdate_Achievements": "2023-08-26T14:08:34.9394828+00:00"
 }

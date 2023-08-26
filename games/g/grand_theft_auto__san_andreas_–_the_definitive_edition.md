@@ -5,12 +5,12 @@ Rating: 4.57 (Ranked 450)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~9,760 |
+| Getting Started | 81.00% | ~9,761 |
 | Pay 'n' Spray | 51.00% | ~6,146 |
 | All Dressed Up for San Fierro | 26.00% | ~3,133 |
 | The American Dream | 19.00% | ~2,290 |
 | School's Out | 18.00% | ~2,169 |
-| Smooth Moves | 17.00% | ~2,048 |
+| Smooth Moves | 17.00% | ~2,049 |
 | What happens in Las Venturas... | 15.00% | ~1,808 |
 | Today Was a Good Day | 15.00% | ~1,808 |
 | Horror of the Santa Maria | 11.00% | ~1,326 |
@@ -19,8 +19,8 @@ Rating: 4.57 (Ranked 450)
 | Original Gangster | 8.00% | ~964 |
 | With Extra Dip | 7.00% | ~844 |
 | Saviour | 6.00% | ~723 |
-| They Can’t Stop All of Us | 5.00% | ~602 |
-| Rescue a Kitten Too? | 5.00% | ~602 |
+| They Can’t Stop All of Us | 5.00% | ~603 |
+| Rescue a Kitten Too? | 5.00% | ~603 |
 | What are the Odds | 4.00% | ~482 |
 | Bike or Biker | 3.00% | ~362 |
 | What the City Needs | 3.00% | ~362 |
@@ -33,15 +33,15 @@ Rating: 4.57 (Ranked 450)
 | Assassin | 2.00% | ~241 |
 | Public Enemy No. 1 | 2.00% | ~241 |
 | Ain’t Nothing But a G Thing | 2.00% | ~241 |
-| Hoopin' it Up | 1.00% | ~120 |
-| Lucky Spinner | 1.00% | ~120 |
-| Chick Magnet | 1.00% | ~120 |
+| Hoopin' it Up | 1.00% | ~121 |
+| Lucky Spinner | 1.00% | ~121 |
+| Chick Magnet | 1.00% | ~121 |
 | Not a Player | 0.90% | ~108 |
 | Remastered | 0.70% | ~84 |
 | ...Here we go again | 0.40% | ~48 |
 | I Ain't No Buster | 0.30% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,050 (Ranked 121)  
+Progressed: 12,051 (Ranked 121)  
 Completed: 40 (0.33%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 40 (0.33%) (Ranked 169)
 | 2023-08-23 | 12,033 | 40 |
 | 2023-08-24 | 12,036 | 40 |
 | 2023-08-25 | 12,043 | 40 |
-| 2023-08-26 | 12,050 | 40 |
+| 2023-08-26 | 12,051 | 40 |
 ## Awards
 Max (Great Boss Battles): 269  (Ranked 247)  
 Sum: 311 (Ranked 337)  

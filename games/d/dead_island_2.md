@@ -5,9 +5,12 @@ Rating: 4.54 (Ranked 501)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break A Leg | 0.20% | ~1,331 |
-| Hotel California | 0.20% | ~1,331 |
-| Welcome To Hell-A | 0.20% | ~1,331 |
+| Break A Leg | 0.20% | ~1,332 |
+| Coup de Grâce | 0.20% | ~1,332 |
+| Hazardous Materials | 0.20% | ~1,332 |
+| Hotel California | 0.20% | ~1,332 |
+| Personal Assistant Personally Assisted | 0.20% | ~1,332 |
+| Welcome To Hell-A | 0.20% | ~1,332 |
 | Dr. Reed, I Presume? | 0.10% | ~666 |
 | Making Your Mark | 0.10% | ~666 |
 | Git Gutte! | 0.10% | ~666 |
@@ -22,10 +25,8 @@ Rating: 4.54 (Ranked 501)
 | Slayer Squad | 0.10% | ~666 |
 | Smorgasbord | 0.10% | ~666 |
 | Can't Handle the Truth | 0.10% | ~666 |
-| Coup de Grâce | 0.10% | ~666 |
 | Like Riding a Bike | 0.10% | ~666 |
 | Not Even My Final Form | 0.10% | ~666 |
-| Hazardous Materials | 0.10% | ~666 |
 | Friends Like These | 0.10% | ~666 |
 | Donk! | 0.10% | ~666 |
 | Internet Famous | 0.10% | ~666 |
@@ -41,7 +42,6 @@ Rating: 4.54 (Ranked 501)
 | Down with the Sickness | 0.10% | ~666 |
 | Sharpest Tool in the Box | 0.10% | ~666 |
 | Stacking the Deck | 0.10% | ~666 |
-| Personal Assistant Personally Assisted | 0.10% | ~666 |
 | Survival Skills | 0.10% | ~666 |
 | Max Headroom | 0.10% | ~666 |
 | Go, Bobcats! | 0.10% | ~666 |
@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 501)
 | Rising Star | 0.10% | ~666 |
 | Bucket List | 0.10% | ~666 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 665,700 (Ranked 22)  
-Completed: 2,073 (0.31%) (Ranked 172)  
+Progressed: 665,762 (Ranked 22)  
+Completed: 2,075 (0.31%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -179,7 +179,7 @@ Completed: 2,073 (0.31%) (Ranked 172)
 | 2023-08-23 | 663,691 | 2,054 |
 | 2023-08-24 | 664,478 | 2,059 |
 | 2023-08-25 | 665,272 | 2,068 |
-| 2023-08-26 | 665,700 | 2,073 |
+| 2023-08-26 | 665,762 | 2,075 |
 ## Awards
 Max (Great Boss Battles): 5,770  (Ranked 61)  
 Sum: 8,490 (Ranked 97)  

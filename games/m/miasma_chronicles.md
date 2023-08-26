@@ -41,8 +41,8 @@ Rating: 4.43 (Ranked 663)
 | Newtonian Knockout | 16.00% | ~220 |
 | Ruthless | 14.00% | ~193 |
 | Side Order | 11.00% | ~151 |
+| Bot Whisperer | 9.00% | ~124 |
 | Chain Reaction | 9.00% | ~124 |
-| Bot Whisperer | 8.00% | ~110 |
 | Curveball | 8.00% | ~110 |
 | Dressed To Kill | 7.00% | ~96 |
 | Wipe Out | 7.00% | ~96 |

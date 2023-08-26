@@ -9,7 +9,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Devoured by Darkness | 23.00% | ~2,549 |
 | A Spark | 17.00% | ~1,884 |
 | Burning City | 16.00% | ~1,773 |
-| Defender's Heart | 14.00% | ~1,551 |
+| Defender's Heart | 14.00% | ~1,552 |
 | Mythic Choices | 13.00% | ~1,441 |
 | Banner over the Citadel | 12.00% | ~1,330 |
 | Queen's Gratitude | 11.00% | ~1,219 |
@@ -27,11 +27,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | A Flame | 4.00% | ~443 |
 | Next-Door Play | 4.00% | ~443 |
 | Get the Toad | 4.00% | ~443 |
-| Heart of the Fallen Land | 3.00% | ~332 |
-| Path of the Trickster | 3.00% | ~332 |
-| Mythic Reinforcements | 3.00% | ~332 |
-| Core of the Riddle | 3.00% | ~332 |
-| Hey, I Know You! | 3.00% | ~332 |
+| Heart of the Fallen Land | 3.00% | ~333 |
+| Path of the Trickster | 3.00% | ~333 |
+| Mythic Reinforcements | 3.00% | ~333 |
+| Core of the Riddle | 3.00% | ~333 |
+| Hey, I Know You! | 3.00% | ~333 |
 | The Lady of the Forest | 3.00% | ~296 |
 | Beware Still Water | 3.00% | ~296 |
 | Path of the Demon | 2.00% | ~222 |
@@ -55,7 +55,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Dragon | 0.80% | ~89 |
 | Playful Mood | 0.70% | ~78 |
 | Dreadful Dragon | 0.70% | ~78 |
-| Masterful Charge | 0.60% | ~66 |
+| Masterful Charge | 0.60% | ~67 |
 | Prelate's Nemesis | 0.40% | ~44 |
 | Masterful Dispel | 0.30% | ~33 |
 | Just Pathetic | 0.30% | ~33 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,082 (Ranked 123)  
+Progressed: 11,084 (Ranked 123)  
 Completed: 0 (0.00%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,7 +251,7 @@ Completed: 0 (0.00%) (Ranked 264)
 | 2023-08-23 | 11,042 | 0 |
 | 2023-08-24 | 11,054 | 0 |
 | 2023-08-25 | 11,071 | 0 |
-| 2023-08-26 | 11,082 | 0 |
+| 2023-08-26 | 11,084 | 0 |
 ## Awards
 Max (Character Customization): 1,701  (Ranked 118)  
 Sum: 6,903 (Ranked 114)  

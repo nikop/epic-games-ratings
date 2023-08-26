@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1647,9 +1647,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13575,
+  "EOS_Progressed": 13576,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10287,6 +10287,11 @@
       "Time": "2023-08-26T13:08:45.0798851+00:00",
       "NumProgressed": 13575,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-26T14:07:55.6063433+00:00",
+      "NumProgressed": 13576,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -11232,9 +11237,9 @@
       "ID": "ACHIEVEMENT_FIRST_PEACE_TREATY",
       "SetID": "9201eeb",
       "Name": "The Eternal Treaty",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 41
     },
     {
       "ID": "ACHIEVEMENT_FIVE_ROUTS",
@@ -12665,21 +12670,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13575,
+      "Progressed": 13576,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13575,
+      "Progressed": 13576,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-24T04:00:31.5764786+00:00",
-  "LastChanged_Achievements": "2023-08-26T13:08:45.0798845+00:00",
+  "LastChanged_Achievements": "2023-08-26T14:07:55.6063427+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:39.7773306+00:00",
-  "LastUpdate_Ratings": "2023-08-26T13:02:46.5156604+00:00",
-  "LastUpdate_Achievements": "2023-08-26T13:08:45.0807527+00:00"
+  "LastUpdate_Ratings": "2023-08-26T14:02:01.3790289+00:00",
+  "LastUpdate_Achievements": "2023-08-26T14:07:55.6075784+00:00"
 }

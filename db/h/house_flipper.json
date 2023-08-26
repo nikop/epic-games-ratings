@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -1848,7 +1848,7 @@
       "Count": 213
     }
   ],
-  "EOS_Progressed": 20687,
+  "EOS_Progressed": 20688,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
@@ -7943,6 +7943,11 @@
       "Time": "2023-08-26T13:06:23.8890268+00:00",
       "NumProgressed": 20687,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-08-26T14:05:06.4775865+00:00",
+      "NumProgressed": 20688,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 23,
@@ -8002,7 +8007,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 19446
+      "UsersEstimate": 19447
     },
     {
       "ID": "GameOver",
@@ -8010,7 +8015,7 @@
       "Name": "Game Over",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "GorgioShanua",
@@ -8074,7 +8079,7 @@
       "Name": "Negotiator",
       "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "Perfectionist",
@@ -8137,15 +8142,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 20687,
+      "Progressed": 20688,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-08-23T21:57:18.2266259+00:00",
-  "LastChanged_Achievements": "2023-08-26T13:06:23.889026+00:00",
+  "LastChanged_Achievements": "2023-08-26T14:05:06.4775858+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:07.6921675+00:00",
-  "LastUpdate_Ratings": "2023-08-26T13:00:05.3674568+00:00",
-  "LastUpdate_Achievements": "2023-08-26T13:06:23.8891008+00:00"
+  "LastUpdate_Ratings": "2023-08-26T13:58:19.0964695+00:00",
+  "LastUpdate_Achievements": "2023-08-26T14:05:06.4776527+00:00"
 }

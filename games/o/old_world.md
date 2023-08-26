@@ -146,6 +146,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pilgrimage | 0.40% | ~54 |
 | Ancient | 0.30% | ~41 |
 | Glorious Difficulty | 0.30% | ~41 |
+| The Eternal Treaty | 0.30% | ~41 |
 | Hatti | 0.30% | ~41 |
 | Persia | 0.30% | ~41 |
 | Pantheon of Gods | 0.30% | ~41 |
@@ -162,7 +163,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Difficulty | 0.20% | ~27 |
 | Magnificent Difficulty | 0.20% | ~27 |
 | Event Level High | 0.20% | ~27 |
-| The Eternal Treaty | 0.20% | ~27 |
 | Run, Pheidippides, Run! | 0.20% | ~27 |
 | Nenikekamen | 0.20% | ~27 |
 | Learn to Play 5 | 0.20% | ~27 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,575 (Ranked 119)  
+Progressed: 13,576 (Ranked 119)  
 Completed: 5 (0.04%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -431,7 +431,7 @@ Completed: 5 (0.04%) (Ranked 234)
 | 2023-08-23 | 13,540 | 5 |
 | 2023-08-24 | 13,546 | 5 |
 | 2023-08-25 | 13,563 | 5 |
-| 2023-08-26 | 13,575 | 5 |
+| 2023-08-26 | 13,576 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,799 (Ranked 208)  

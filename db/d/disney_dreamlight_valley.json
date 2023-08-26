@@ -3276,7 +3276,7 @@
       "Count": 495
     }
   ],
-  "EOS_Progressed": 9017,
+  "EOS_Progressed": 9018,
   "EOS_Completed": 204,
   "EOS_NewPlayers": 244,
   "EOS_NewCompleters": 5,
@@ -10701,6 +10701,11 @@
       "Time": "2023-08-26T13:07:30.4935002+00:00",
       "NumProgressed": 9017,
       "NumCompleted": 204
+    },
+    {
+      "Time": "2023-08-26T14:06:15.44829+00:00",
+      "NumProgressed": 9018,
+      "NumCompleted": 204
     }
   ],
   "TotalAchievements": 15,
@@ -10728,7 +10733,7 @@
       "Name": "Bestest Friend",
       "Percentage": 48,
       "XP": 75,
-      "UsersEstimate": 4328
+      "UsersEstimate": 4329
     },
     {
       "ID": "Chef_Cook",
@@ -10768,7 +10773,7 @@
       "Name": "Gardener",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 2795
+      "UsersEstimate": 2796
     },
     {
       "ID": "Generous",
@@ -10784,7 +10789,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 71,
       "XP": 75,
-      "UsersEstimate": 6402
+      "UsersEstimate": 6403
     },
     {
       "ID": "Miner",
@@ -10824,14 +10829,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 5771
+      "UsersEstimate": 5772
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 9017,
+      "Progressed": 9018,
       "Completed": 204
     }
   ],
@@ -10839,8 +10844,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-08-26T04:01:20.2610114+00:00",
-  "LastChanged_Achievements": "2023-08-26T13:07:30.4934994+00:00",
+  "LastChanged_Achievements": "2023-08-26T14:06:15.4482894+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:53.8658984+00:00",
-  "LastUpdate_Ratings": "2023-08-26T13:02:56.2141483+00:00",
-  "LastUpdate_Achievements": "2023-08-26T13:07:30.4935637+00:00"
+  "LastUpdate_Ratings": "2023-08-26T14:02:17.4659406+00:00",
+  "LastUpdate_Achievements": "2023-08-26T14:06:15.4483492+00:00"
 }

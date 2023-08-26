@@ -3984,10 +3984,10 @@
       "Count": 325
     }
   ],
-  "EOS_Progressed": 665700,
-  "EOS_Completed": 2073,
-  "EOS_NewPlayers": 5800,
-  "EOS_NewCompleters": 33,
+  "EOS_Progressed": 665762,
+  "EOS_Completed": 2075,
+  "EOS_NewPlayers": 5798,
+  "EOS_NewCompleters": 35,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -18184,6 +18184,11 @@
       "Time": "2023-08-26T13:05:48.0063658+00:00",
       "NumProgressed": 665700,
       "NumCompleted": 2073
+    },
+    {
+      "Time": "2023-08-26T14:04:12.6132573+00:00",
+      "NumProgressed": 665762,
+      "NumCompleted": 2075
     }
   ],
   "TotalAchievements": 45,
@@ -18259,7 +18264,7 @@
       "Name": "Break A Leg",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1331
+      "UsersEstimate": 1332
     },
     {
       "ID": "ach_contender",
@@ -18313,9 +18318,9 @@
       "ID": "ach_finisher",
       "SetID": "7km39fm",
       "Name": "Coup de Gr\u00E2ce",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 666
+      "UsersEstimate": 1332
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -18337,9 +18342,9 @@
       "ID": "ach_hazardous_materials",
       "SetID": "7km39fm",
       "Name": "Hazardous Materials",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 666
+      "UsersEstimate": 1332
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -18355,7 +18360,7 @@
       "Name": "Hotel California",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1331
+      "UsersEstimate": 1332
     },
     {
       "ID": "ach_impressive_aim",
@@ -18473,9 +18478,9 @@
       "ID": "ach_star_performance",
       "SetID": "7km39fm",
       "Name": "Personal Assistant Personally Assisted",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 666
+      "UsersEstimate": 1332
     },
     {
       "ID": "ach_survival_expert",
@@ -18531,7 +18536,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1331
+      "UsersEstimate": 1332
     },
     {
       "ID": "ach_well_known_survivor",
@@ -18554,16 +18559,16 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 665700,
-      "Completed": 2073
+      "Progressed": 665762,
+      "Completed": 2075
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-08-26T07:01:58.2614915+00:00",
-  "LastChanged_Achievements": "2023-08-26T13:05:48.0063648+00:00",
+  "LastChanged_Achievements": "2023-08-26T14:04:12.6132565+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:11.0440218+00:00",
-  "LastUpdate_Ratings": "2023-08-26T13:03:11.7478298+00:00",
-  "LastUpdate_Achievements": "2023-08-26T13:05:48.0064971+00:00"
+  "LastUpdate_Ratings": "2023-08-26T14:02:36.6540965+00:00",
+  "LastUpdate_Achievements": "2023-08-26T14:04:12.6134127+00:00"
 }

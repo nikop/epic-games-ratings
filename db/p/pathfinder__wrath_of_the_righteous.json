@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3536,9 +3536,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 11082,
+  "EOS_Progressed": 11084,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11341,6 +11341,11 @@
       "Time": "2023-08-26T12:06:58.6503603+00:00",
       "NumProgressed": 11082,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-26T14:07:05.7250585+00:00",
+      "NumProgressed": 11084,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -11392,7 +11397,7 @@
       "Name": "Heart of the Fallen Land",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "07_FinalThreshold",
@@ -11440,7 +11445,7 @@
       "Name": "Path of the Trickster",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "13_PathOfLich",
@@ -11528,7 +11533,7 @@
       "Name": "Masterful Charge",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "24_Legacy",
@@ -11592,7 +11597,7 @@
       "Name": "Mythic Reinforcements",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "33_DefendersHeart",
@@ -11600,7 +11605,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1551
+      "UsersEstimate": 1552
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -11624,7 +11629,7 @@
       "Name": "Core of the Riddle",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "37_FirstBigEnemy",
@@ -11736,7 +11741,7 @@
       "Name": "Hey, I Know You!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "51_DemonicAndDivine",
@@ -12279,21 +12284,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9864,
+      "Progressed": 9866,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11082,
+      "Progressed": 11084,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-23T13:04:06.393487+00:00",
-  "LastChanged_Achievements": "2023-08-26T13:08:04.2698533+00:00",
+  "LastChanged_Achievements": "2023-08-26T14:07:05.7250578+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:16.3191421+00:00",
-  "LastUpdate_Ratings": "2023-08-26T13:03:16.9769752+00:00",
-  "LastUpdate_Achievements": "2023-08-26T13:08:04.2700485+00:00"
+  "LastUpdate_Ratings": "2023-08-26T14:02:42.0151823+00:00",
+  "LastUpdate_Achievements": "2023-08-26T14:07:05.725324+00:00"
 }

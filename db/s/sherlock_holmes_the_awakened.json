@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -2295,9 +2295,9 @@
       "ID": "MQ05_1",
       "SetID": "bbing49",
       "Name": "Open Sesame",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 299
+      "UsersEstimate": 306
     },
     {
       "ID": "MQ05_2",
@@ -2416,8 +2416,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-08-14T02:12:32.7608826+00:00",
-  "LastChanged_Achievements": "2023-08-26T13:07:03.7535926+00:00",
+  "LastChanged_Achievements": "2023-08-26T14:05:42.5170852+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:22.9836387+00:00",
-  "LastUpdate_Ratings": "2023-08-26T13:02:10.7364264+00:00",
-  "LastUpdate_Achievements": "2023-08-26T13:07:03.7536282+00:00"
+  "LastUpdate_Ratings": "2023-08-26T14:01:04.7047446+00:00",
+  "LastUpdate_Achievements": "2023-08-26T14:05:42.5171241+00:00"
 }

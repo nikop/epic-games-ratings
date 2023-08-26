@@ -2,13 +2,13 @@
   "ID": "2e92a78949e2474aa89271b8b893f3b0",
   "Name": "Alan Wake Remastered",
   "ProductSlug": "alan-wake-remastered",
-  "Ranking_Rating": 487,
+  "Ranking_Rating": 486,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,7 +512,7 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 61672,
+  "EOS_Progressed": 61675,
   "EOS_Completed": 65,
   "EOS_NewPlayers": 560,
   "EOS_NewCompleters": 1,
@@ -12477,6 +12477,11 @@
       "Time": "2023-08-26T13:08:50.7917485+00:00",
       "NumProgressed": 61672,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-08-26T14:08:02.4853614+00:00",
+      "NumProgressed": 61675,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -12488,7 +12493,7 @@
       "Name": "Follow the Light",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 23435
+      "UsersEstimate": 23436
     },
     {
       "ID": "02",
@@ -12496,7 +12501,7 @@
       "Name": "Nordic Walking",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 14801
+      "UsersEstimate": 14802
     },
     {
       "ID": "03",
@@ -12520,7 +12525,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 12334
+      "UsersEstimate": 12335
     },
     {
       "ID": "06",
@@ -12528,7 +12533,7 @@
       "Name": "Park Ranger",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 10484
+      "UsersEstimate": 10485
     },
     {
       "ID": "07",
@@ -12552,7 +12557,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8017
+      "UsersEstimate": 8018
     },
     {
       "ID": "10",
@@ -12560,7 +12565,7 @@
       "Name": "Medical Opinions",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1233
+      "UsersEstimate": 1234
     },
     {
       "ID": "11",
@@ -12592,7 +12597,7 @@
       "Name": "Gatekeeper",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6167
+      "UsersEstimate": 6168
     },
     {
       "ID": "15",
@@ -12600,7 +12605,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6167
+      "UsersEstimate": 6168
     },
     {
       "ID": "16",
@@ -12656,7 +12661,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8017
+      "UsersEstimate": 8018
     },
     {
       "ID": "23",
@@ -12664,7 +12669,7 @@
       "Name": "Taken Season",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1233
+      "UsersEstimate": 1234
     },
     {
       "ID": "24",
@@ -12720,7 +12725,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6167
+      "UsersEstimate": 6168
     },
     {
       "ID": "31",
@@ -12736,7 +12741,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17885
+      "UsersEstimate": 17886
     },
     {
       "ID": "33",
@@ -12752,7 +12757,7 @@
       "Name": "Energized!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6167
+      "UsersEstimate": 6168
     },
     {
       "ID": "35",
@@ -12760,7 +12765,7 @@
       "Name": "Let There Be Light",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 19118
+      "UsersEstimate": 19119
     },
     {
       "ID": "36",
@@ -12784,7 +12789,7 @@
       "Name": "An Idyllic Small Town",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1233
+      "UsersEstimate": 1234
     },
     {
       "ID": "39",
@@ -12800,7 +12805,7 @@
       "Name": "Right of Way",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5550
+      "UsersEstimate": 5551
     },
     {
       "ID": "41",
@@ -12824,7 +12829,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 10484
+      "UsersEstimate": 10485
     },
     {
       "ID": "44",
@@ -12872,7 +12877,7 @@
       "Name": "Couch Potato",
       "Percentage": 2,
       "XP": 110,
-      "UsersEstimate": 1233
+      "UsersEstimate": 1234
     },
     {
       "ID": "50",
@@ -12896,7 +12901,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1508
+      "UsersEstimate": 1509
     },
     {
       "ID": "53",
@@ -13023,21 +13028,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 61672,
+      "Progressed": 61675,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 25140,
+      "Progressed": 25143,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-26T13:08:50.7917476+00:00",
+  "LastChanged_Achievements": "2023-08-26T14:08:02.4853608+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:21.2068954+00:00",
-  "LastUpdate_Ratings": "2023-08-26T13:02:32.250763+00:00",
-  "LastUpdate_Achievements": "2023-08-26T13:08:50.7918997+00:00"
+  "LastUpdate_Ratings": "2023-08-26T14:01:35.756644+00:00",
+  "LastUpdate_Achievements": "2023-08-26T14:08:02.4855341+00:00"
 }

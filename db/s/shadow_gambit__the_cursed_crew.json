@@ -2,7 +2,7 @@
   "ID": "42b8b899a3f349bd8376264ccee3cd2a",
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
-  "Ranking_EOS_Progress": 231,
+  "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 159,
   "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_NewCompleters": 49,
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 503,
+  "EOS_Progressed": 504,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 227,
+  "EOS_NewPlayers": 226,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -1001,6 +1001,11 @@
       "Time": "2023-08-26T12:05:10.7462154+00:00",
       "NumProgressed": 503,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-26T14:05:29.2871074+00:00",
+      "NumProgressed": 504,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1011,9 +1016,9 @@
       "ID": "_01_AllIslands",
       "SetID": "8a1io5d",
       "Name": "Somewhere Deep in the Lost Caribbean",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 91
+      "UsersEstimate": 96
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -1021,7 +1026,7 @@
       "Name": "A New Journey",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "_03_FinishAct1",
@@ -1043,9 +1048,9 @@
       "ID": "_05_FinishAct2",
       "SetID": "8a1io5d",
       "Name": "The Gambit Has Begun",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 116
+      "UsersEstimate": 121
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -1067,17 +1072,17 @@
       "ID": "_08_Completion_10",
       "SetID": "8a1io5d",
       "Name": "Swabbie",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 202
     },
     {
       "ID": "_09_Completion_20",
       "SetID": "8a1io5d",
       "Name": "Powder Monkey",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 116
     },
     {
       "ID": "_10_Completion_30",
@@ -1085,7 +1090,7 @@
       "Name": "Buccaneer",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "_11_Completion_40",
@@ -1133,7 +1138,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -1220,14 +1225,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 503,
+      "Progressed": 504,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-26T13:06:42.6166731+00:00",
+  "LastChanged_Achievements": "2023-08-26T14:05:29.2871067+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:45.1302228+00:00",
-  "LastUpdate_Ratings": "2023-08-26T13:02:50.4959888+00:00",
-  "LastUpdate_Achievements": "2023-08-26T13:06:42.616699+00:00"
+  "LastUpdate_Ratings": "2023-08-26T14:02:06.1548845+00:00",
+  "LastUpdate_Achievements": "2023-08-26T14:05:29.2871331+00:00"
 }

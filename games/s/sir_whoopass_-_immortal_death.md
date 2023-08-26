@@ -37,8 +37,8 @@
 | Catch the bus with me! | 34.00% | ~32 |
 | Karaoke king | 34.00% | ~32 |
 | I'm going to get a concussion | 33.00% | ~31 |
+| Another one bites the iron | 30.00% | ~28 |
 | Meatballs, coming up! | 29.00% | ~27 |
-| Another one bites the iron | 29.00% | ~27 |
 | A Megapint...? | 28.00% | ~26 |
 | Ripe Meat Off The Bone! | 26.00% | ~24 |
 | Hovering around | 24.00% | ~23 |
@@ -57,9 +57,9 @@
 | Free Of Chains | 12.00% | ~11 |
 | Grumpy Immortal | 11.00% | ~10 |
 | Ancient Ruins of Moist Overhangs | 10.00% | ~9 |
+| Scrambled Eggs | 10.00% | ~9 |
 | Spoiler alert! | 9.00% | ~8 |
 | I drink, but I'm not a drunk! | 9.00% | ~8 |
-| Scrambled Eggs | 9.00% | ~8 |
 | My name is Whoopass, SIR Whoopass! | 7.00% | ~7 |
 | I want to throw up! | 6.00% | ~6 |
 | Ancient Ruins of Misplaced Belongings | 5.00% | ~5 |

@@ -8,6 +8,7 @@
 | The Hunt | 6.00% | ~2 |
 | Licence To Kill | 6.00% | ~2 |
 | Gibbing Love | 3.00% | ~1 |
+| Head of the Snake | 3.00% | ~1 |
 | Vintage Collector | 3.00% | ~1 |
 | Losing your Head | 3.00% | ~1 |
 | Feel the Spark | 3.00% | ~1 |
@@ -18,7 +19,6 @@
 | Escape From M.C. | 3.00% | ~1 |
 | Restore Honor | 3.00% | ~1 |
 | Bring Down the Corp | 3.00% | ~1 |
-| Head of the Snake | 0.00% | ~0 |
 | Barbecue Time | 0.00% | ~0 |
 | Vehicular Mayhem | 0.00% | ~0 |
 | Lieutenant | 0.00% | ~0 |

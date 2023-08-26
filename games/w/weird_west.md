@@ -6,16 +6,16 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,598 |
+| Unforgiven | 88.00% | ~1,599 |
 | Self-Improvement | 72.00% | ~1,308 |
-| Perky | 66.00% | ~1,199 |
+| Perky | 65.00% | ~1,181 |
 | Let’s Ride | 60.00% | ~1,090 |
-| Welcome to the Weird West | 57.00% | ~1,035 |
-| Dead or Alive | 56.00% | ~1,017 |
+| Welcome to the Weird West | 57.00% | ~1,036 |
+| Dead or Alive | 56.00% | ~1,018 |
 | Full House | 37.00% | ~672 |
-| Off the Trail | 34.00% | ~617 |
-| Justice Served | 30.00% | ~545 |
-| Chain Reaction | 27.00% | ~490 |
+| Off the Trail | 34.00% | ~618 |
+| Justice Served | 29.00% | ~527 |
+| Chain Reaction | 27.00% | ~491 |
 | Through Their Eyes | 26.00% | ~472 |
 | Dishonored | 25.00% | ~454 |
 | Rain of Death | 25.00% | ~454 |
@@ -35,9 +35,9 @@ Number of Ratings: 125  (23.09.2022)
 | Something Wicked This Way Comes… | 12.00% | ~218 |
 | There is Hope | 12.00% | ~218 |
 | The Philosopher’s Stone | 10.00% | ~182 |
-| Loyalty to the Pack | 9.00% | ~163 |
-| Eternity Can Wait | 9.00% | ~163 |
-| Mystery Machine | 9.00% | ~163 |
+| Loyalty to the Pack | 9.00% | ~164 |
+| Eternity Can Wait | 9.00% | ~164 |
+| Mystery Machine | 9.00% | ~164 |
 | Do Not Pass Go… | 8.00% | ~145 |
 | Gold Digger | 8.00% | ~145 |
 | Monster Hunter | 8.00% | ~145 |
@@ -47,9 +47,9 @@ Number of Ratings: 125  (23.09.2022)
 | Who You Gonna Call? | 6.00% | ~109 |
 | This Is Sparta | 5.00% | ~91 |
 | What’s in the Box? | 5.00% | ~91 |
-| Ghost Town | 3.00% | ~54 |
-| Lord Inut Sends His Regards | 3.00% | ~54 |
-| Moondrunk | 3.00% | ~54 |
+| Ghost Town | 3.00% | ~55 |
+| Lord Inut Sends His Regards | 3.00% | ~55 |
+| Moondrunk | 3.00% | ~55 |
 | 'Ma Barker | 2.00% | ~36 |
 | I Kicked a Bird and I Liked it | 1.00% | ~18 |
 | Hog Wild | 1.00% | ~18 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Revenant | 0.50% | ~9 |
 | Winter Has Come | 0.40% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,816 (Ranked 176)  
+Progressed: 1,817 (Ranked 176)  
 Completed: 6 (0.33%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 6 (0.33%) (Ranked 169)
 | 2023-08-21 | 1,812 | 4 |
 | 2023-08-24 | 1,814 | 4 |
 | 2023-08-25 | 1,814 | 6 |
-| 2023-08-26 | 1,816 | 6 |
+| 2023-08-26 | 1,817 | 6 |
 ## Awards
 Max (Impact the Story): 25  (Ranked 483)  
 Sum: 25 (Ranked 488)  
