@@ -31,7 +31,7 @@ Number of Ratings: 1,023  (23.09.2022)
 | Nerd | 0.50% | ~103 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 20,683 (Ranked 107)  
-Completed: 20 (0.10%) (Ranked 210)  
+Completed: 20 (0.10%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

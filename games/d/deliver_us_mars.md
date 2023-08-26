@@ -40,7 +40,7 @@ Rating: 4.16 (Ranked 885)
 | Who waits five minutes, seriously? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5 (Ranked 474)  
-Completed: 0 (0.00%) (Ranked 263)  
+Completed: 0 (0.00%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,8 +6,8 @@
   "Ranking_Popularity": 264,
   "Ranking_PopularitySum": 208,
   "Ranking_EOS_Progress": 119,
-  "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_Completed": 234,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -1647,7 +1647,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13566,
+  "EOS_Progressed": 13567,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
@@ -10247,6 +10247,11 @@
       "Time": "2023-08-26T03:07:49.2192672+00:00",
       "NumProgressed": 13566,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-26T04:07:15.5403775+00:00",
+      "NumProgressed": 13567,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -10696,9 +10701,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
       "SetID": "9201eeb",
       "Name": "Fountainhead",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 271
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_GLORIOUS",
@@ -10880,9 +10885,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_SETTLER",
       "SetID": "9201eeb",
       "Name": "Settler",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 407
+      "UsersEstimate": 543
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -11896,9 +11901,9 @@
       "ID": "ACHIEVEMENT_NATION_HITTITE",
       "SetID": "9201eeb",
       "Name": "Hatti",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 41
     },
     {
       "ID": "ACHIEVEMENT_NATION_PERSIA",
@@ -12160,9 +12165,9 @@
       "ID": "ACHIEVEMENT_STAT_SEVEN_WONDERS",
       "SetID": "9201eeb",
       "Name": "Building Wonders",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 109
+      "UsersEstimate": 122
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_CITIES_CAPTURED",
@@ -12625,21 +12630,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13566,
+      "Progressed": 13567,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13566,
+      "Progressed": 13567,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-24T04:00:31.5764786+00:00",
-  "LastChanged_Achievements": "2023-08-26T03:07:49.2192667+00:00",
+  "LastChanged_Achievements": "2023-08-26T04:07:15.5403771+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:59.678182+00:00",
-  "LastUpdate_Ratings": "2023-08-26T03:01:29.6136435+00:00",
-  "LastUpdate_Achievements": "2023-08-26T03:07:49.2202247+00:00"
+  "LastUpdate_Ratings": "2023-08-26T04:01:06.0888715+00:00",
+  "LastUpdate_Achievements": "2023-08-26T04:07:15.5414579+00:00"
 }

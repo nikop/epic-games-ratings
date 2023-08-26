@@ -6,10 +6,10 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Settler | 4.00% | ~543 |
 | The Clergy | 4.00% | ~543 |
 | Explorer | 3.00% | ~407 |
 | Intrepid | 3.00% | ~407 |
-| Settler | 3.00% | ~407 |
 | Friendly Family | 3.00% | ~407 |
 | Play a Single Player Game | 3.00% | ~407 |
 | Able | 2.00% | ~271 |
@@ -17,6 +17,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Architect | 2.00% | ~271 |
 | Brilliant | 2.00% | ~271 |
 | Enlightened | 2.00% | ~271 |
+| Fountainhead | 2.00% | ~271 |
 | Glorious | 2.00% | ~271 |
 | Good | 2.00% | ~271 |
 | Just | 2.00% | ~271 |
@@ -50,7 +51,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Poetic Leader | 2.00% | ~271 |
 | Regicide | 1.00% | ~136 |
 | Drillmaster | 1.00% | ~136 |
-| Fountainhead | 1.00% | ~136 |
 | Great | 1.00% | ~136 |
 | Intercessor | 1.00% | ~136 |
 | Valiant | 1.00% | ~136 |
@@ -78,6 +78,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Beloved | 0.90% | ~122 |
 | Mighty | 0.90% | ~122 |
 | Victorious | 0.90% | ~122 |
+| Building Wonders | 0.90% | ~122 |
 | Conqueror | 0.80% | ~109 |
 | Lion | 0.80% | ~109 |
 | Patrons | 0.80% | ~109 |
@@ -87,7 +88,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon | 0.80% | ~109 |
 | Via Recta Souk | 0.80% | ~109 |
 | Persian Paganism | 0.80% | ~109 |
-| Building Wonders | 0.80% | ~109 |
 | Economic Reform | 0.80% | ~109 |
 | Legalism | 0.80% | ~109 |
 | Legionary | 0.80% | ~109 |
@@ -146,6 +146,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pilgrimage | 0.40% | ~54 |
 | Ancient | 0.30% | ~41 |
 | Glorious Difficulty | 0.30% | ~41 |
+| Hatti | 0.30% | ~41 |
 | Persia | 0.30% | ~41 |
 | Pantheon of Gods | 0.30% | ~41 |
 | Play a Network Game | 0.30% | ~41 |
@@ -167,7 +168,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 5 | 0.20% | ~27 |
 | Macedonian Wars | 0.20% | ~27 |
 | Assyria | 0.20% | ~27 |
-| Hatti | 0.20% | ~27 |
 | Apadana in Parsa | 0.20% | ~27 |
 | Play a Free-For-All Game (>2 Players) | 0.20% | ~27 |
 | Play a MP Teams Game | 0.20% | ~27 |
@@ -303,8 +303,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,566 (Ranked 119)  
-Completed: 5 (0.04%) (Ranked 233)  
+Progressed: 13,567 (Ranked 119)  
+Completed: 5 (0.04%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -431,7 +431,7 @@ Completed: 5 (0.04%) (Ranked 233)
 | 2023-08-23 | 13,540 | 5 |
 | 2023-08-24 | 13,546 | 5 |
 | 2023-08-25 | 13,563 | 5 |
-| 2023-08-26 | 13,566 | 5 |
+| 2023-08-26 | 13,567 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,799 (Ranked 208)  

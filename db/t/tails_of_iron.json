@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -229,7 +229,7 @@
   "Tags": [],
   "EOS_Progressed": 1874,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -2618,9 +2618,9 @@
       "ID": "DefeatMoziQueen",
       "SetID": "9lj35g4",
       "Name": "End of the Mozis",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 100,
-      "UsersEstimate": 693
+      "UsersEstimate": 712
     },
     {
       "ID": "DefeatRatnorRodentson",
@@ -2761,8 +2761,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-07-30T07:58:33.6633976+00:00",
-  "LastChanged_Achievements": "2023-08-26T03:07:05.2752187+00:00",
+  "LastChanged_Achievements": "2023-08-26T04:06:32.6115773+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:30.3659565+00:00",
-  "LastUpdate_Ratings": "2023-08-26T03:02:00.7404173+00:00",
-  "LastUpdate_Achievements": "2023-08-26T03:07:05.2752663+00:00"
+  "LastUpdate_Ratings": "2023-08-26T04:01:37.2696337+00:00",
+  "LastUpdate_Achievements": "2023-08-26T04:06:32.6116143+00:00"
 }

@@ -24,7 +24,7 @@
 | Diaper Time! | 41.00% | ~72 |
 | Meat Larder | 39.00% | ~68 |
 | Mutant And Proud | 38.00% | ~66 |
-| The Emperor's New Clothes | 32.00% | ~56 |
+| The Emperor's New Clothes | 33.00% | ~58 |
 | You Shall Not Pass | 30.00% | ~52 |
 | Godlike Power | 30.00% | ~52 |
 | Undying Skin | 30.00% | ~52 |
@@ -37,8 +37,8 @@
 | Loyal Companion | 25.00% | ~44 |
 | Immortal Skin | 24.00% | ~42 |
 | Back To The Future | 23.00% | ~40 |
+| Lunch Before The Lunch | 22.00% | ~38 |
 | Fire Beacon | 22.00% | ~38 |
-| Lunch Before The Lunch | 21.00% | ~37 |
 | Building Blocks | 19.00% | ~33 |
 | From Here To Eternity | 18.00% | ~32 |
 | Octopostructure | 17.00% | ~30 |

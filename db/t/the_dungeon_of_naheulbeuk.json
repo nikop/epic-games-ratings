@@ -6,7 +6,7 @@
   "Ranking_Popularity": 284,
   "Ranking_PopularitySum": 363,
   "Ranking_EOS_Progress": 56,
-  "Ranking_EOS_Completed": 263,
+  "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 25,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
@@ -720,9 +720,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 217291,
+  "EOS_Progressed": 217303,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2992,
+  "EOS_NewPlayers": 2987,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8325,6 +8325,11 @@
       "Time": "2023-08-26T03:03:40.9221971+00:00",
       "NumProgressed": 217291,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-26T04:03:17.0432402+00:00",
+      "NumProgressed": 217303,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -8480,7 +8485,7 @@
       "Name": "Res Judicata",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1086
+      "UsersEstimate": 1087
     },
     {
       "ID": "CompanionPriestress",
@@ -8688,7 +8693,7 @@
       "Name": "The Famous Dungeon of Naheulbeuk",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1086
+      "UsersEstimate": 1087
     },
     {
       "ID": "DifficultyIronManNoCompanion",
@@ -8752,7 +8757,7 @@
       "Name": "Dwarf Fortress",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1086
+      "UsersEstimate": 1087
     },
     {
       "ID": "DwarfInsultWin",
@@ -8776,7 +8781,7 @@
       "Name": "Look but don\u0027t touch",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1086
+      "UsersEstimate": 1087
     },
     {
       "ID": "ElfHitTwoFriends",
@@ -8784,7 +8789,7 @@
       "Name": "Sowwy!",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 52150
+      "UsersEstimate": 52153
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -9039,21 +9044,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 217291,
+      "Progressed": 217303,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 217291,
+      "Progressed": 217303,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-25T15:02:30.1432618+00:00",
-  "LastChanged_Achievements": "2023-08-26T03:03:40.9221967+00:00",
+  "LastChanged_Achievements": "2023-08-26T04:03:17.0432397+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:36.4163589+00:00",
-  "LastUpdate_Ratings": "2023-08-26T03:02:40.6358393+00:00",
-  "LastUpdate_Achievements": "2023-08-26T03:03:40.9223717+00:00"
+  "LastUpdate_Ratings": "2023-08-26T04:02:08.1990675+00:00",
+  "LastUpdate_Achievements": "2023-08-26T04:03:17.043384+00:00"
 }

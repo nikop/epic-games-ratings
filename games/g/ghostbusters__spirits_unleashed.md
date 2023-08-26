@@ -5,26 +5,26 @@ Rating: 4.49 (Ranked 581)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~21,794 |
-| Advancement | 72.00% | ~18,246 |
-| Meticulously Efficient | 63.00% | ~15,965 |
+| Stylish | 86.00% | ~21,795 |
+| Advancement | 72.00% | ~18,247 |
+| Meticulously Efficient | 63.00% | ~15,966 |
 | Discovery | 61.00% | ~15,459 |
-| Fully Upgraded | 54.00% | ~13,685 |
-| Swift Rift Removers | 54.00% | ~13,685 |
-| I collect Spores, Molds, and Fungi | 51.00% | ~12,924 |
-| Cultured | 51.00% | ~12,924 |
-| Vaporous Expansion | 48.00% | ~12,164 |
+| Fully Upgraded | 53.00% | ~13,432 |
+| Swift Rift Removers | 53.00% | ~13,432 |
+| I collect Spores, Molds, and Fungi | 51.00% | ~12,925 |
+| Cultured | 51.00% | ~12,925 |
+| Vaporous Expansion | 48.00% | ~12,165 |
 | Teamwork | 43.00% | ~10,897 |
 | There you are! | 42.00% | ~10,644 |
 | Clutch Capture | 40.00% | ~10,137 |
 | Back Off | 35.00% | ~8,870 |
-| Daily Dose | 34.00% | ~8,616 |
+| Daily Dose | 34.00% | ~8,617 |
 | Solo Capture | 33.00% | ~8,363 |
 | Welcome to the Crew | 31.00% | ~7,856 |
 | Ghostbuster In Training | 30.00% | ~7,603 |
 | Icing on the Cake | 30.00% | ~7,603 |
-| Side Hustle | 27.00% | ~6,842 |
-| Summoner | 27.00% | ~6,842 |
+| Side Hustle | 27.00% | ~6,843 |
+| Summoner | 27.00% | ~6,843 |
 | We have the best insurance | 26.00% | ~6,589 |
 | Legions | 26.00% | ~6,589 |
 | Right back at ya | 26.00% | ~6,589 |
@@ -41,7 +41,7 @@ Rating: 4.49 (Ranked 581)
 | Diabolical | 16.00% | ~4,055 |
 | Seasoned | 16.00% | ~4,055 |
 | Escape Artist | 15.00% | ~3,801 |
-| Whoopsie | 13.00% | ~3,294 |
+| Whoopsie | 13.00% | ~3,295 |
 | Liability | 10.00% | ~2,534 |
 | Rivalry | 10.00% | ~2,534 |
 | Fragile Panes | 9.00% | ~2,281 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 581)
 | I don't need these | 1.00% | ~253 |
 | Mycophile | 1.00% | ~253 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,342 (Ranked 103)  
+Progressed: 25,343 (Ranked 103)  
 Completed: 53 (0.21%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 53 (0.21%) (Ranked 186)
 | 2023-08-23 | 25,303 | 52 |
 | 2023-08-24 | 25,321 | 52 |
 | 2023-08-25 | 25,339 | 53 |
-| 2023-08-26 | 25,342 | 53 |
+| 2023-08-26 | 25,343 | 53 |
 ## Awards
 Max (Great for Quick Sessions): 249  (Ranked 254)  
 Sum: 2,257 (Ranked 188)  

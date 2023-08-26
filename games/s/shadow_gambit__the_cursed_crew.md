@@ -15,7 +15,7 @@
 | Mirror Mirror on the Wall | 17.00% | ~85 |
 | Fishy Fish | 17.00% | ~85 |
 | Buccaneer | 13.00% | ~65 |
-| Pirates Assemble! | 12.00% | ~60 |
+| Pirates Assemble! | 13.00% | ~65 |
 | Persistent Parasite | 11.00% | ~55 |
 | Seadog | 8.00% | ~40 |
 | All Good Things | 6.00% | ~30 |
@@ -32,7 +32,7 @@
 | Welcome Back Jester | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 499 (Ranked 231)  
-Completed: 0 (0.00%) (Ranked 263)  
+Completed: 1 (0.20%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -52,3 +52,4 @@ Completed: 0 (0.00%) (Ranked 263)
 | 2023-08-23 | 465 | 0 |
 | 2023-08-24 | 485 | 0 |
 | 2023-08-25 | 499 | 0 |
+| 2023-08-26 | 499 | 1 |

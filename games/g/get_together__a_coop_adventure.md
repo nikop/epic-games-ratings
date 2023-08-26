@@ -16,7 +16,7 @@
 | The best of both worlds | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 68 (Ranked 359)  
-Completed: 0 (0.00%) (Ranked 263)  
+Completed: 0 (0.00%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -1,7 +1,7 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 500)  
+Rating: 4.54 (Ranked 501)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 500)
 | Rising Star | 0.10% | ~665 |
 | Bucket List | 0.10% | ~665 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 665,386 (Ranked 22)  
-Completed: 2,069 (0.31%) (Ranked 171)  
+Progressed: 665,421 (Ranked 22)  
+Completed: 2,071 (0.31%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -179,10 +179,10 @@ Completed: 2,069 (0.31%) (Ranked 171)
 | 2023-08-23 | 663,691 | 2,054 |
 | 2023-08-24 | 664,478 | 2,059 |
 | 2023-08-25 | 665,272 | 2,068 |
-| 2023-08-26 | 665,386 | 2,069 |
+| 2023-08-26 | 665,421 | 2,071 |
 ## Awards
 Max (Great Boss Battles): 5,753  (Ranked 62)  
-Sum: 8,469 (Ranked 97)  
+Sum: 8,470 (Ranked 97)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
@@ -191,7 +191,7 @@ Diff (max vs sum): -35
 | This game has Quickly Understood Controls | 376 |
 | This game has Diverse Characters | 369 |
 | This game is Relaxing | 355 |
-| This game has Amazing Storytelling | 324 |
+| This game has Amazing Storytelling | 325 |
 | This game is Extremely Fun | 308 |
 | This game has Amazing Characters | 304 |
 | This game is Highly Recommended | 296 |
@@ -325,3 +325,4 @@ Diff (max vs sum): -35
 | 2023-08-23 | 4.54 | 5,743 | 8,448 |
 | 2023-08-24 | 4.54 | 5,753 | 8,465 |
 | 2023-08-25 | 4.54 | 5,753 | 8,469 |
+| 2023-08-26 | 4.54 | 5,753 | 8,470 |

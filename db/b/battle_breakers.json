@@ -3,8 +3,8 @@
   "Name": "BATTLE BREAKERS",
   "ProductSlug": "battle-breakers/home",
   "Ranking_EOS_Progress": 560,
-  "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_Completed": 264,
+  "Ranking_EOS_NewPlayers": 343,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": null,
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-19T07:58:16.9833778+00:00",
-  "LastUpdate_Ratings": "2023-08-26T03:01:46.3377672+00:00",
-  "LastUpdate_Achievements": "2023-08-26T03:04:33.0088386+00:00"
+  "LastUpdate_Ratings": "2023-08-26T04:01:24.6112036+00:00",
+  "LastUpdate_Achievements": "2023-08-26T04:04:17.6153593+00:00"
 }

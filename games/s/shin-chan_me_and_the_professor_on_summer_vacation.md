@@ -52,7 +52,7 @@
 | Dinosaur Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 33 (Ranked 402)  
-Completed: 0 (0.00%) (Ranked 263)  
+Completed: 0 (0.00%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -16,7 +16,7 @@
 | All Ovens Blazing | 14.00% | ~439 |
 | Boulder Clash | 14.00% | ~439 |
 | Held Back by the Roots | 13.00% | ~408 |
-| Well Supplied | 11.00% | ~345 |
+| Well Supplied | 12.00% | ~376 |
 | Sniped | 8.00% | ~251 |
 | Damage Control | 8.00% | ~251 |
 | Master of the Brawl | 8.00% | ~251 |

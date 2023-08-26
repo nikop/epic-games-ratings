@@ -3,11 +3,11 @@
   "Name": "Darksiders Genesis",
   "ProductSlug": "darksiders-genesis",
   "Ranking_Rating": 528,
-  "Ranking_Popularity": 423,
-  "Ranking_PopularitySum": 460,
+  "Ranking_Popularity": 422,
+  "Ranking_PopularitySum": 459,
   "Ranking_EOS_Progress": 560,
-  "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_Completed": 264,
+  "Ranking_EOS_NewPlayers": 343,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-07-16T16:00:00+00:00",
@@ -344,18 +344,24 @@
       "Rating": 4.52,
       "NumberOfAwards": 41,
       "NumberOfAwardsMax": 41
+    },
+    {
+      "Time": "2023-08-26T04:01:13.5833439+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 42,
+      "NumberOfAwardsMax": 42
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 41,
-  "NumberOfAwardsMax": 41,
+  "NumberOfAwards": 42,
+  "NumberOfAwardsMax": 42,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 41
+      "Count": 42
     }
   ],
   "EOS_Progressed": 0,
@@ -369,8 +375,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
-  "LastChanged": "2023-08-25T14:02:14.8682459+00:00",
+  "LastChanged": "2023-08-26T04:01:13.5833438+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:59.4040297+00:00",
-  "LastUpdate_Ratings": "2023-08-26T03:01:36.6522831+00:00",
-  "LastUpdate_Achievements": "2023-08-26T03:08:32.6873208+00:00"
+  "LastUpdate_Ratings": "2023-08-26T04:01:13.5833445+00:00",
+  "LastUpdate_Achievements": "2023-08-26T04:08:17.0819044+00:00"
 }

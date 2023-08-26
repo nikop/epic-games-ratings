@@ -26,7 +26,7 @@ Rating: 4.48 (Ranked 596)
 | Living Nightmare | 33.00% | ~1,051 |
 | The More The Merrier | 33.00% | ~1,051 |
 | The Darwin Era Was Here | 29.00% | ~924 |
-| Deep Into Insanity | 27.00% | ~860 |
+| Deep Into Insanity | 28.00% | ~892 |
 | The Passenger | 27.00% | ~860 |
 | Come on, You Wanna Live Forever? | 26.00% | ~828 |
 | The Spire | 24.00% | ~765 |
@@ -52,7 +52,7 @@ Rating: 4.48 (Ranked 596)
 | This Ain't No Picnic | 0.70% | ~22 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,186 (Ranked 156)  
-Completed: 3 (0.09%) (Ranked 214)  
+Completed: 3 (0.09%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

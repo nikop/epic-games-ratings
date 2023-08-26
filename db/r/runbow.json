@@ -6,7 +6,7 @@
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 47,
-  "Ranking_EOS_Completed": 263,
+  "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 66,
   "Store": {
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 248511,
+  "EOS_Progressed": 248512,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 286,
+  "EOS_NewPlayers": 285,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12249,6 +12249,11 @@
       "Time": "2023-08-26T02:17:21.4897409+00:00",
       "NumProgressed": 248511,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-26T04:06:01.6916364+00:00",
+      "NumProgressed": 248512,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 46,
@@ -12284,7 +12289,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52187
+      "UsersEstimate": 52188
     },
     {
       "ID": "blotbuster",
@@ -12564,7 +12569,7 @@
       "Name": "The Stunner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 54672
+      "UsersEstimate": 54673
     },
     {
       "ID": "thunderstruck",
@@ -12580,7 +12585,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32306
+      "UsersEstimate": 32307
     },
     {
       "ID": "treeMedalist",
@@ -12627,7 +12632,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 248511,
+      "Progressed": 248512,
       "Completed": 4
     }
   ],
@@ -12635,8 +12640,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-08-26T03:06:33.1232074+00:00",
+  "LastChanged_Achievements": "2023-08-26T04:06:01.691636+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:44.1764965+00:00",
-  "LastUpdate_Ratings": "2023-08-26T02:57:49.9401329+00:00",
-  "LastUpdate_Achievements": "2023-08-26T03:06:33.1233387+00:00"
+  "LastUpdate_Ratings": "2023-08-26T03:57:59.3576783+00:00",
+  "LastUpdate_Achievements": "2023-08-26T04:06:01.6917302+00:00"
 }
