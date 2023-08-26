@@ -32,7 +32,7 @@
 | 30 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
 | 31 | [Sonic Origins](games/s/sonic_origins.md) | 9.43% |
 | 32 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
-| 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.94% |
+| 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.99% |
 | 34 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.47% |
 | 35 | [Ravenlok](games/r/ravenlok.md) | 7.57% |
 | 36 | [Smelter](games/s/smelter.md) | 7.50% |
@@ -88,7 +88,7 @@
 | 86 | [Lamentum](games/l/lamentum.md) | 2.53% |
 | 87 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 88 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.42% |
-| 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.27% |
+| 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.26% |
 | 90 | [Bloodshore](games/b/bloodshore.md) | 2.21% |
 | 91 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
 | 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.06% |

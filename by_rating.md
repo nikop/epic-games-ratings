@@ -324,7 +324,7 @@
 | 314 | [HITMAN](games/h/hitman.md) | 4.64 | 206 | 272 |
 | 314 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 183 | 280 |
 | 314 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.64 | 0 | 514 |
-| 314 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.64 | 28,800 | 16 |
+| 314 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.64 | 28,805 | 16 |
 | 314 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 67 | 384 |
 | 314 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.64 | 0 | 514 |
 | 314 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 192 | 276 |
@@ -434,7 +434,7 @@
 | 426 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.58 | 0 | 514 |
 | 426 | [GRIT](games/g/grit.md) | 4.58 | 0 | 514 |
 | 426 | [Moving Out](games/m/moving_out.md) | 4.58 | 21 | 503 |
-| 426 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.58 | 7,080 | 49 |
+| 426 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.58 | 7,122 | 49 |
 | 426 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 1,488 | 122 |
 | 426 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.58 | 0 | 514 |
 | 426 | [Sonic Origins](games/s/sonic_origins.md) | 4.58 | 125 | 313 |
@@ -547,7 +547,7 @@
 | 544 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 776 | 159 |
 | 544 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,115 | 80 |
 | 544 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 514 |
-| 544 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.51 | 2,683 | 96 |
+| 544 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.51 | 2,691 | 96 |
 | 544 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 108 | 328 |
 | 544 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 148 | 300 |
 | 544 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 189 | 277 |
@@ -801,20 +801,20 @@
 | 793 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 4.30 | 0 | 514 |
 | 800 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.29 | 0 | 514 |
 | 800 | [Dark Light](games/d/dark_light.md) | 4.29 | 0 | 514 |
-| 800 | [ELEX II](games/e/elex_ii.md) | 4.29 | 0 | 514 |
 | 800 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,609,156 | 1 |
 | 800 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 720 | 166 |
 | 800 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 44 | 418 |
 | 800 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 142 | 304 |
 | 800 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 126 | 312 |
 | 800 | [Steelrising](games/s/steelrising.md) | 4.29 | 36 | 433 |
-| 809 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.28 | 0 | 514 |
-| 809 | [Chess Ultra](games/c/chess_ultra.md) | 4.28 | 0 | 514 |
-| 809 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.28 | 0 | 514 |
-| 809 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.28 | 3,739 | 83 |
-| 809 | [Men of War](games/m/men_of_war.md) | 4.28 | 0 | 514 |
-| 809 | [Mortal Shell](games/m/mortal_shell.md) | 4.28 | 0 | 514 |
-| 809 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 286 |
+| 808 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.28 | 0 | 514 |
+| 808 | [Chess Ultra](games/c/chess_ultra.md) | 4.28 | 0 | 514 |
+| 808 | [ELEX II](games/e/elex_ii.md) | 4.28 | 0 | 514 |
+| 808 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.28 | 0 | 514 |
+| 808 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.28 | 3,739 | 83 |
+| 808 | [Men of War](games/m/men_of_war.md) | 4.28 | 0 | 514 |
+| 808 | [Mortal Shell](games/m/mortal_shell.md) | 4.28 | 0 | 514 |
+| 808 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 286 |
 | 816 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.27 | 33 | 449 |
 | 816 | [Dice Legacy](games/d/dice_legacy.md) | 4.27 | 0 | 514 |
 | 816 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.27 | 0 | 514 |
@@ -823,7 +823,7 @@
 | 816 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,527 | 99 |
 | 816 | [RiMS Racing](games/r/rims_racing.md) | 4.27 | 0 | 514 |
 | 816 | [ZOMBI](games/z/zombi.md) | 4.27 | 0 | 514 |
-| 824 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 18,277 | 20 |
+| 824 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 18,387 | 20 |
 | 824 | [Flatout](games/f/flatout.md) | 4.26 | 0 | 514 |
 | 824 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 0 | 514 |
 | 824 | [The Fall](games/t/the_fall.md) | 4.26 | 0 | 514 |
