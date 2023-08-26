@@ -4,7 +4,7 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewPlayers": 300,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 133,
+  "EOS_Progressed": 134,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -438,6 +438,11 @@
       "Time": "2023-08-24T10:07:33.6374218+00:00",
       "NumProgressed": 133,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-26T12:08:25.0532896+00:00",
+      "NumProgressed": 134,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 99,
@@ -447,9 +452,9 @@
       "ID": "Vanilla_100OnACCRoll",
       "SetID": "27kik8p",
       "Name": "Randomized",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 21
     },
     {
       "ID": "Vanilla_Abolitionists",
@@ -463,9 +468,9 @@
       "ID": "Vanilla_AbolitionistsMet",
       "SetID": "27kik8p",
       "Name": "Making Contact",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "Vanilla_AbolitionistsSpread",
@@ -487,9 +492,9 @@
       "ID": "Vanilla_AllBounties",
       "SetID": "27kik8p",
       "Name": "Bounty Hunter",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "Vanilla_AndtheSkyFullofStars",
@@ -503,9 +508,9 @@
       "ID": "Vanilla_AppeaseInAFight",
       "SetID": "27kik8p",
       "Name": "Conciliator",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "Vanilla_AutoSavesOnly",
@@ -551,7 +556,7 @@
       "ID": "Vanilla_ChurchOfAhskul",
       "SetID": "27kik8p",
       "Name": "Watcher",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -559,7 +564,7 @@
       "ID": "Vanilla_ChurchOfSergorod",
       "SetID": "27kik8p",
       "Name": "Executor",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -583,7 +588,7 @@
       "ID": "Vanilla_CodexTier3",
       "SetID": "27kik8p",
       "Name": "Loremaster",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -591,9 +596,9 @@
       "ID": "Vanilla_CombatStrenghtTier1",
       "SetID": "27kik8p",
       "Name": "Tactician",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "Vanilla_CombatStrenghtTier2",
@@ -623,15 +628,15 @@
       "ID": "Vanilla_CompanionSkillsMaxedOut",
       "SetID": "27kik8p",
       "Name": "Adept",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "Vanilla_CompanionsProwessTier1",
       "SetID": "27kik8p",
       "Name": "Talent Nurtured",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -647,15 +652,15 @@
       "ID": "Vanilla_CompanionsTier1",
       "SetID": "27kik8p",
       "Name": "The More the Merrier",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "Vanilla_CompleteAllSideQuests",
       "SetID": "27kik8p",
       "Name": "Embellished",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -663,9 +668,9 @@
       "ID": "Vanilla_Criftaa",
       "SetID": "27kik8p",
       "Name": "Huntress Unbound",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "Vanilla_DaneramsGambit",
@@ -727,9 +732,9 @@
       "ID": "Vanilla_ExchangeNews",
       "SetID": "27kik8p",
       "Name": "Courier",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "Vanilla_ExtendedHireling",
@@ -799,7 +804,7 @@
       "ID": "Vanilla_FirstWin",
       "SetID": "27kik8p",
       "Name": "Conqueror",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -839,9 +844,9 @@
       "ID": "Vanilla_Garrik",
       "SetID": "27kik8p",
       "Name": "Business As Usual",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "Vanilla_GearCollection",
@@ -863,7 +868,7 @@
       "ID": "Vanilla_Harvek",
       "SetID": "27kik8p",
       "Name": "Legacy of a Mercenary",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -879,15 +884,15 @@
       "ID": "Vanilla_HouseOquo",
       "SetID": "27kik8p",
       "Name": "Trailblazer",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "Vanilla_HouseVenari",
       "SetID": "27kik8p",
       "Name": "Manticore",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -951,7 +956,7 @@
       "ID": "Vanilla_MovementTier2",
       "SetID": "27kik8p",
       "Name": "Moving At Odd Angles",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -991,9 +996,9 @@
       "ID": "Vanilla_PassengerKeptForLong",
       "SetID": "27kik8p",
       "Name": "Delayed",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "Vanilla_PressGanged",
@@ -1007,7 +1012,7 @@
       "ID": "Vanilla_Ratharnak",
       "SetID": "27kik8p",
       "Name": "Despoiler",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -1015,23 +1020,23 @@
       "ID": "Vanilla_RealBattle",
       "SetID": "27kik8p",
       "Name": "A Real Battle",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "Vanilla_Renkailon",
       "SetID": "27kik8p",
       "Name": "The Darkness Within",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "Vanilla_Renown",
       "SetID": "27kik8p",
       "Name": "Celebrity",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1039,9 +1044,9 @@
       "ID": "Vanilla_Ruiner",
       "SetID": "27kik8p",
       "Name": "Ruiner",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "Vanilla_SadirarBlessing",
@@ -1055,7 +1060,7 @@
       "ID": "Vanilla_Scythichnis",
       "SetID": "27kik8p",
       "Name": "Arcanite",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -1063,9 +1068,9 @@
       "ID": "Vanilla_SecondChance",
       "SetID": "27kik8p",
       "Name": "A Second Chance",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 72
     },
     {
       "ID": "Vanilla_SecretsBelow",
@@ -1143,9 +1148,9 @@
       "ID": "Vanilla_TheReturnOfTheWyrms",
       "SetID": "27kik8p",
       "Name": "Wyrmslayer",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "Vanilla_TheSourceOfDiscord",
@@ -1183,7 +1188,7 @@
       "ID": "Vanilla_TradeTasksTier2",
       "SetID": "27kik8p",
       "Name": "Merchant Lord",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -1207,7 +1212,7 @@
       "ID": "Vanilla_VagrusMaxedOut",
       "SetID": "27kik8p",
       "Name": "Glorious leader",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1215,9 +1220,9 @@
       "ID": "Vanilla_Vorax",
       "SetID": "27kik8p",
       "Name": "Voracity Confronted",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "Vanilla_Wealth",
@@ -1231,16 +1236,16 @@
       "ID": "Vanilla_YrgPropagation",
       "SetID": "27kik8p",
       "Name": "Insectoid Propagator",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 133,
+      "Progressed": 134,
       "Completed": 0
     }
   ],
@@ -1248,8 +1253,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-08-26T11:08:44.4263383+00:00",
+  "LastChanged_Achievements": "2023-08-26T12:08:25.0532886+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:25.2500253+00:00",
-  "LastUpdate_Ratings": "2023-08-26T10:57:15.1103177+00:00",
-  "LastUpdate_Achievements": "2023-08-26T11:08:44.4265746+00:00"
+  "LastUpdate_Ratings": "2023-08-26T11:57:18.894134+00:00",
+  "LastUpdate_Achievements": "2023-08-26T12:08:25.0533919+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "outer-terror-9f2593",
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-04-20T05:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-04-20T16:57:55.6391049+00:00",
   "LastChanged": "2023-04-20T16:57:55.6391049+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:44.5685865+00:00",
-  "LastUpdate_Ratings": "2023-08-26T11:01:51.9236019+00:00",
-  "LastUpdate_Achievements": "2023-08-26T11:04:59.2129159+00:00"
+  "LastUpdate_Ratings": "2023-08-26T12:01:38.7326885+00:00",
+  "LastUpdate_Achievements": "2023-08-26T12:04:47.2501948+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "deverse-world-3ccb84",
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-07-12T02:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 283,
+  "EOS_Progressed": 284,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1161,6 +1161,11 @@
       "Time": "2023-08-26T09:10:38.2756617+00:00",
       "NumProgressed": 283,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-26T12:08:02.6828943+00:00",
+      "NumProgressed": 284,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-19T08:04:21.5092334+00:00",
@@ -1189,7 +1194,7 @@
       "Name": "Construct your world",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "goblin_slayed",
@@ -1269,7 +1274,7 @@
       "Name": "NFT Gallery",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "super_creator",
@@ -1277,7 +1282,7 @@
       "Name": "Super Creator",
       "Percentage": 3,
       "XP": 160,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "tireless_explorer",
@@ -1324,14 +1329,14 @@
     {
       "ID": "5fi1i42",
       "IsBase": true,
-      "Progressed": 283,
+      "Progressed": 284,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-12T15:57:01.7070767+00:00",
   "FirstSeenAchievements": "2023-07-18T16:05:27.8243884+00:00",
-  "LastChanged_Achievements": "2023-08-26T11:08:21.484335+00:00",
+  "LastChanged_Achievements": "2023-08-26T12:08:02.6828938+00:00",
   "LastUpdate_AppInfo": "2023-08-24T08:56:53.3187957+00:00",
-  "LastUpdate_Ratings": "2023-08-26T11:00:10.0509019+00:00",
-  "LastUpdate_Achievements": "2023-08-26T11:08:21.4843558+00:00"
+  "LastUpdate_Ratings": "2023-08-26T12:00:06.7349555+00:00",
+  "LastUpdate_Achievements": "2023-08-26T12:08:02.6829105+00:00"
 }

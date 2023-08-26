@@ -371,9 +371,9 @@
       "ID": "ACH_ENTER_REGION_LIZARD",
       "SetID": "7i20me3",
       "Name": "Searing Heat",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_ENTER_REGION_SPIRE",
@@ -451,9 +451,9 @@
       "ID": "ACH_FIND_ALL_PLANT_TYPES",
       "SetID": "7i20me3",
       "Name": "Witch",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_FIND_ALL_RUNES",
@@ -635,9 +635,9 @@
       "ID": "ACH_UNLOCK_ABILITY_XHINNON",
       "SetID": "7i20me3",
       "Name": "Changing the World",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     }
   ],
   "AchievementSets": [
@@ -658,8 +658,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-08-26T11:08:59.6691956+00:00",
+  "LastChanged_Achievements": "2023-08-26T12:08:39.5408273+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:33.3784837+00:00",
-  "LastUpdate_Ratings": "2023-08-26T11:01:37.7043397+00:00",
-  "LastUpdate_Achievements": "2023-08-26T11:08:59.6692629+00:00"
+  "LastUpdate_Ratings": "2023-08-26T12:01:26.0074829+00:00",
+  "LastUpdate_Achievements": "2023-08-26T12:08:39.540858+00:00"
 }

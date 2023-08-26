@@ -29,9 +29,9 @@
 | Handyman | 60.00% | ~160 |
 | Champion – starter pack | 60.00% | ~160 |
 | It's good to be alive | 60.00% | ~160 |
+| Little hacker | 59.00% | ~158 |
 | Employee of the year | 59.00% | ~158 |
 | Fight for life | 58.00% | ~155 |
-| Little hacker | 58.00% | ~155 |
 | Intriguing candies | 57.00% | ~152 |
 | Legal courier | 55.00% | ~147 |
 | Extreme neuropower! | 54.00% | ~144 |

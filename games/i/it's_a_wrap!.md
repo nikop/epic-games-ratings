@@ -7,10 +7,10 @@
 | Under the Bridge | 73.00% | ~16 |
 | Treasure Hunter | 9.00% | ~2 |
 | Space Invader | 9.00% | ~2 |
+| One Man Army | 9.00% | ~2 |
 | What's my line again? | 5.00% | ~1 |
 | Meet Your Makers | 5.00% | ~1 |
 | In the Can | 5.00% | ~1 |
-| One Man Army | 5.00% | ~1 |
 | O' Captain! My Captain! | 0.00% | ~0 |
 | Secret of the Mines | 0.00% | ~0 |
 | Extra Life | 0.00% | ~0 |

@@ -4,7 +4,7 @@
   "ProductSlug": "the-dragoness-command-of-the-flame-b3b544",
   "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewPlayers": 300,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-08-09T23:00:00+00:00",
@@ -159,9 +159,9 @@
       "ID": "SteamAchievement_KillDesertMonsters",
       "SetID": "b8gj0ip",
       "Name": "Crushing the rebelion: Watan",
-      "Percentage": 4,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SteamAchievement_KillFireMonsters",
@@ -191,9 +191,9 @@
       "ID": "SteamAchievement_UpgradeDemonDogToMaxLevel",
       "SetID": "b8gj0ip",
       "Name": "Man\u0027s Best Friend",
-      "Percentage": 4,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SteamAchievement_UpgradeEggDragonToMaxLevel",
@@ -359,9 +359,9 @@
       "ID": "SteamAchievment_CompleteQuest10",
       "SetID": "b8gj0ip",
       "Name": "Trade Lover",
-      "Percentage": 4,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SteamAchievment_CompleteQuest11",
@@ -454,8 +454,8 @@
   ],
   "FirstSeen": "2023-08-10T10:57:59.2838137+00:00",
   "FirstSeenAchievements": "2023-05-30T14:00:09.5243374+00:00",
-  "LastChanged_Achievements": "2023-08-26T11:06:41.5649293+00:00",
+  "LastChanged_Achievements": "2023-08-26T12:06:35.884305+00:00",
   "LastUpdate_AppInfo": "2023-08-22T18:57:01.7235597+00:00",
-  "LastUpdate_Ratings": "2023-08-26T11:00:19.2847518+00:00",
-  "LastUpdate_Achievements": "2023-08-26T11:06:41.5649787+00:00"
+  "LastUpdate_Ratings": "2023-08-26T12:00:15.2025884+00:00",
+  "LastUpdate_Achievements": "2023-08-26T12:06:35.8843288+00:00"
 }

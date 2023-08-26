@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 844,
+  "EOS_Progressed": 845,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1830,6 +1830,11 @@
       "Time": "2023-08-26T03:05:08.7181616+00:00",
       "NumProgressed": 844,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-26T12:04:56.2979175+00:00",
+      "NumProgressed": 845,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -1841,7 +1846,7 @@
       "Name": "Cabin boy",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "ACH001",
@@ -1849,7 +1854,7 @@
       "Name": "Seafarer",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "ACH002",
@@ -1863,17 +1868,17 @@
       "ID": "ACH003",
       "SetID": "69nfp41",
       "Name": "Buccaneer",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH004",
       "SetID": "69nfp41",
       "Name": "Flying Dutchman",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH005",
@@ -1929,7 +1934,7 @@
       "Name": "Intangible",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "ACH012",
@@ -1945,7 +1950,7 @@
       "Name": "In a mint condition",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "ACH014",
@@ -1961,7 +1966,7 @@
       "Name": "Groundskeeper",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "ACH016",
@@ -1977,7 +1982,7 @@
       "Name": "Pearly gates",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ACH018",
@@ -2009,7 +2014,7 @@
       "Name": "Collectionitis",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "ACH022",
@@ -2025,7 +2030,7 @@
       "Name": "Gofer",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "ACH024",
@@ -2041,7 +2046,7 @@
       "Name": "My precious!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ACH026",
@@ -2057,7 +2062,7 @@
       "Name": "I\u0027m out of here for a while",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "ACH028",
@@ -2240,15 +2245,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 844,
+      "Progressed": 845,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-07-02T02:29:11.8786643+00:00",
-  "LastChanged_Achievements": "2023-08-26T11:05:08.2185873+00:00",
+  "LastChanged_Achievements": "2023-08-26T12:04:56.297917+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:12.1663686+00:00",
-  "LastUpdate_Ratings": "2023-08-26T11:02:20.8921477+00:00",
-  "LastUpdate_Achievements": "2023-08-26T11:05:08.2186825+00:00"
+  "LastUpdate_Ratings": "2023-08-26T12:02:12.3922563+00:00",
+  "LastUpdate_Achievements": "2023-08-26T12:04:56.2979585+00:00"
 }

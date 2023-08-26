@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Second Chance | 55.00% | ~73 |
+| A Second Chance | 54.00% | ~72 |
 | Press-ganged | 38.00% | ~51 |
 | The Package | 23.00% | ~31 |
-| Randomized | 17.00% | ~23 |
 | Conquered | 17.00% | ~23 |
+| Randomized | 16.00% | ~21 |
 | Scribe | 8.00% | ~11 |
-| Tactician | 8.00% | ~11 |
 | Breached | 8.00% | ~11 |
+| Tactician | 7.00% | ~9 |
 | Fight Another Day | 7.00% | ~9 |
 | Scholar | 6.00% | ~8 |
 | Taskmaster | 6.00% | ~8 |
-| Conciliator | 5.00% | ~7 |
-| The More the Merrier | 5.00% | ~7 |
-| Courier | 5.00% | ~7 |
 | Acquaintance | 5.00% | ~7 |
 | Tail-wind | 5.00% | ~7 |
+| Conciliator | 4.00% | ~5 |
+| The More the Merrier | 4.00% | ~5 |
+| Courier | 4.00% | ~5 |
 | Been There | 4.00% | ~5 |
 | Spiritual Journey | 4.00% | ~5 |
 | Inquisitions of Discord | 4.00% | ~5 |
@@ -35,36 +35,36 @@
 | Pilgrimage's End | 3.00% | ~4 |
 | Merchant | 3.00% | ~4 |
 | Trouble at Fort Larius | 3.00% | ~4 |
-| Making Contact | 2.00% | ~3 |
-| Bounty Hunter | 2.00% | ~3 |
-| Adept | 2.00% | ~3 |
-| Huntress Unbound | 2.00% | ~3 |
 | Despised | 2.00% | ~3 |
-| Business As Usual | 2.00% | ~3 |
-| Trailblazer | 2.00% | ~3 |
-| Delayed | 2.00% | ~3 |
-| A Real Battle | 2.00% | ~3 |
-| The Darkness Within | 2.00% | ~3 |
-| Ruiner | 2.00% | ~3 |
 | Life... Finds a Way | 2.00% | ~3 |
-| Wyrmslayer | 2.00% | ~3 |
 | Unseen Patterns | 2.00% | ~3 |
-| Voracity Confronted | 2.00% | ~3 |
-| Insectoid Propagator | 2.00% | ~3 |
-| Watcher | 0.80% | ~1 |
-| Executor | 0.80% | ~1 |
-| Loremaster | 0.80% | ~1 |
-| Talent Nurtured | 0.80% | ~1 |
-| Embellished | 0.80% | ~1 |
-| Conqueror | 0.80% | ~1 |
-| Legacy of a Mercenary | 0.80% | ~1 |
-| Manticore | 0.80% | ~1 |
-| Moving At Odd Angles | 0.80% | ~1 |
-| Despoiler | 0.80% | ~1 |
-| Celebrity | 0.80% | ~1 |
-| Arcanite | 0.80% | ~1 |
-| Merchant Lord | 0.80% | ~1 |
-| Glorious leader | 0.80% | ~1 |
+| Making Contact | 1.00% | ~1 |
+| Bounty Hunter | 1.00% | ~1 |
+| Adept | 1.00% | ~1 |
+| Huntress Unbound | 1.00% | ~1 |
+| Business As Usual | 1.00% | ~1 |
+| Trailblazer | 1.00% | ~1 |
+| Delayed | 1.00% | ~1 |
+| A Real Battle | 1.00% | ~1 |
+| The Darkness Within | 1.00% | ~1 |
+| Ruiner | 1.00% | ~1 |
+| Wyrmslayer | 1.00% | ~1 |
+| Voracity Confronted | 1.00% | ~1 |
+| Insectoid Propagator | 1.00% | ~1 |
+| Watcher | 0.70% | ~1 |
+| Executor | 0.70% | ~1 |
+| Loremaster | 0.70% | ~1 |
+| Talent Nurtured | 0.70% | ~1 |
+| Embellished | 0.70% | ~1 |
+| Conqueror | 0.70% | ~1 |
+| Legacy of a Mercenary | 0.70% | ~1 |
+| Manticore | 0.70% | ~1 |
+| Moving At Odd Angles | 0.70% | ~1 |
+| Despoiler | 0.70% | ~1 |
+| Celebrity | 0.70% | ~1 |
+| Arcanite | 0.70% | ~1 |
+| Merchant Lord | 0.70% | ~1 |
+| Glorious leader | 0.70% | ~1 |
 | Liberator | 0.00% | ~0 |
 | For the Cause! | 0.00% | ~0 |
 | Death Denied | 0.00% | ~0 |
@@ -104,7 +104,7 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133 (Ranked 320)  
+Progressed: 134 (Ranked 320)  
 Completed: 0 (0.00%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,6 +156,7 @@ Completed: 0 (0.00%) (Ranked 264)
 | 2023-08-02 | 131 | 0 |
 | 2023-08-03 | 132 | 0 |
 | 2023-08-24 | 133 | 0 |
+| 2023-08-26 | 134 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

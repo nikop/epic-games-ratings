@@ -9,6 +9,8 @@
 | Licence To Kill | 6.00% | ~2 |
 | Gibbing Love | 3.00% | ~1 |
 | Vintage Collector | 3.00% | ~1 |
+| Losing your Head | 3.00% | ~1 |
+| Feel the Spark | 3.00% | ~1 |
 | Overkill | 3.00% | ~1 |
 | Flawless Victory | 3.00% | ~1 |
 | Hammer Time | 3.00% | ~1 |
@@ -18,12 +20,10 @@
 | Head of the Snake | 0.00% | ~0 |
 | Barbecue Time | 0.00% | ~0 |
 | Vehicular Mayhem | 0.00% | ~0 |
-| Losing your Head | 0.00% | ~0 |
 | Lieutenant | 0.00% | ~0 |
 | Captain | 0.00% | ~0 |
 | Chief | 0.00% | ~0 |
 | Dust to Dust | 0.00% | ~0 |
-| Feel the Spark | 0.00% | ~0 |
 | For Science | 0.00% | ~0 |
 | Law and Order | 0.00% | ~0 |
 | Millionaire | 0.00% | ~0 |

@@ -14,19 +14,20 @@
 | Freezing Cold | 14.00% | ~7 |
 | The Power of the Mountains | 14.00% | ~7 |
 | The Golden Flash | 12.00% | ~6 |
+| Searing Heat | 10.00% | ~5 |
+| Changing the World | 10.00% | ~5 |
 | Bringing guns to a sword fight | 8.00% | ~4 |
-| Searing Heat | 8.00% | ~4 |
 | Through Dangers Untold | 8.00% | ~4 |
 | Locked and Loaded | 8.00% | ~4 |
 | Nothing but the Truth | 8.00% | ~4 |
 | Expert | 8.00% | ~4 |
-| Changing the World | 8.00% | ~4 |
 | Craftsmen | 6.00% | ~3 |
 | Defeat Tezuth | 6.00% | ~3 |
 | Mirror, Mirror on the Wall | 4.00% | ~2 |
 | Sponsor | 4.00% | ~2 |
 | Defeat Ingla | 4.00% | ~2 |
 | Defeat Uskol | 4.00% | ~2 |
+| Witch | 4.00% | ~2 |
 | Finally! | 4.00% | ~2 |
 | The End | 4.00% | ~2 |
 | The A-Team | 4.00% | ~2 |
@@ -36,7 +37,6 @@
 | Forest Expert | 2.00% | ~1 |
 | Ancient Powers | 2.00% | ~1 |
 | Knowledge is King | 2.00% | ~1 |
-| Witch | 2.00% | ~1 |
 | Wizard | 2.00% | ~1 |
 | Bookworm | 2.00% | ~1 |
 | Globetrotter | 2.00% | ~1 |

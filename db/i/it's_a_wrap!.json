@@ -4,7 +4,7 @@
   "ProductSlug": "its-a-wrap-f392ae",
   "Ranking_EOS_Progress": 416,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-08-23T17:30:00+00:00",
@@ -225,9 +225,9 @@
       "ID": "MOV3_FINISH",
       "SetID": "2l1dk5b",
       "Name": "One Man Army",
-      "Percentage": 5,
+      "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
@@ -240,8 +240,8 @@
   ],
   "FirstSeen": "2023-08-25T08:57:40.9970991+00:00",
   "FirstSeenAchievements": "2023-08-01T21:04:35.2343064+00:00",
-  "LastChanged_Achievements": "2023-08-26T11:08:11.4414256+00:00",
+  "LastChanged_Achievements": "2023-08-26T12:07:52.8341314+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:00.6888694+00:00",
-  "LastUpdate_Ratings": "2023-08-26T10:57:52.9440625+00:00",
-  "LastUpdate_Achievements": "2023-08-26T11:08:11.4414791+00:00"
+  "LastUpdate_Ratings": "2023-08-26T11:58:00.6586264+00:00",
+  "LastUpdate_Achievements": "2023-08-26T12:07:52.8341419+00:00"
 }

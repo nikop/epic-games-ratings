@@ -217,9 +217,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 35175,
+  "EOS_Progressed": 35178,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 775,
+  "EOS_NewPlayers": 774,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -14302,6 +14302,11 @@
       "Time": "2023-08-26T11:03:07.5509579+00:00",
       "NumProgressed": 35175,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-08-26T12:02:59.8163283+00:00",
+      "NumProgressed": 35178,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 29,
@@ -14313,7 +14318,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 5276
+      "UsersEstimate": 5277
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -14321,7 +14326,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 7035
+      "UsersEstimate": 7036
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -14473,7 +14478,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2110
+      "UsersEstimate": 2111
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -14544,7 +14549,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 35175,
+      "Progressed": 35178,
       "Completed": 21
     }
   ],
@@ -14552,8 +14557,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-12T21:03:39.1122054+00:00",
-  "LastChanged_Achievements": "2023-08-26T11:03:07.5509571+00:00",
+  "LastChanged_Achievements": "2023-08-26T12:02:59.8163278+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:35.8741643+00:00",
-  "LastUpdate_Ratings": "2023-08-26T10:58:44.0599524+00:00",
-  "LastUpdate_Achievements": "2023-08-26T11:03:07.5515026+00:00"
+  "LastUpdate_Ratings": "2023-08-26T11:58:48.3159898+00:00",
+  "LastUpdate_Achievements": "2023-08-26T12:02:59.8164176+00:00"
 }

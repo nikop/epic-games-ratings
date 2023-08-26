@@ -5,15 +5,15 @@ Rating: 4.41 (Ranked 686)
 Number of Ratings: 1,747  (23.09.2022)  
 ## Awards
 Max (Amazing Characters): 66  (Ranked 386)  
-Sum: 575 (Ranked 295)  
+Sum: 576 (Ranked 295)  
 Diff (max vs sum): 91  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Characters | 66 |
 | This game has Competitive Players | 65 |
+| This game has Amazing Storytelling | 61 |
 | This game has Diverse Characters | 61 |
 | This game is Great for Quick Sessions | 60 |
-| This game has Amazing Storytelling | 60 |
 | This game is Extremely Fun | 57 |
 | This game has Quickly Understood Controls | 54 |
 | This game has Challenging Combat | 54 |

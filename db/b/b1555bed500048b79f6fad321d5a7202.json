@@ -2,9 +2,9 @@
   "ID": "b1555bed500048b79f6fad321d5a7202",
   "Name": "Nova Strike",
   "ProductSlug": "nova-strike",
-  "Ranking_EOS_Progress": 463,
+  "Ranking_EOS_Progress": 462,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewPlayers": 300,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-07-27T08:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7,
+  "EOS_Progressed": 8,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -57,6 +57,11 @@
       "Time": "2023-08-18T22:03:29.8091329+00:00",
       "NumProgressed": 7,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-26T12:03:46.2336652+00:00",
+      "NumProgressed": 8,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-27T09:00:47.837898+00:00",
@@ -77,7 +82,7 @@
       "Name": "Take-off",
       "Percentage": 100,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "10",
@@ -99,7 +104,7 @@
       "ID": "12",
       "SetID": "5lmgb5n",
       "Name": "\u00AB Not that one ! \u00BB",
-      "Percentage": 86,
+      "Percentage": 75,
       "XP": 50,
       "UsersEstimate": 6
     },
@@ -115,15 +120,15 @@
       "ID": "14",
       "SetID": "5lmgb5n",
       "Name": "Space warrior",
-      "Percentage": 71,
+      "Percentage": 75,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "15",
       "SetID": "5lmgb5n",
       "Name": "Space terror",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 75,
       "UsersEstimate": 1
     },
@@ -131,7 +136,7 @@
       "ID": "16",
       "SetID": "5lmgb5n",
       "Name": "Make them pay",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -139,7 +144,7 @@
       "ID": "17",
       "SetID": "5lmgb5n",
       "Name": "Jackpot",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 75,
       "UsersEstimate": 1
     },
@@ -147,7 +152,7 @@
       "ID": "2",
       "SetID": "5lmgb5n",
       "Name": "\u00AB Missed your train ? \u00BB",
-      "Percentage": 29,
+      "Percentage": 25,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -155,7 +160,7 @@
       "ID": "3",
       "SetID": "5lmgb5n",
       "Name": "Under siege",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -179,9 +184,9 @@
       "ID": "6",
       "SetID": "5lmgb5n",
       "Name": "I\u0027ll be back",
-      "Percentage": 86,
+      "Percentage": 88,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "7",
@@ -195,7 +200,7 @@
       "ID": "8",
       "SetID": "5lmgb5n",
       "Name": "Fine-tuned",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -212,14 +217,14 @@
     {
       "ID": "5lmgb5n",
       "IsBase": true,
-      "Progressed": 7,
+      "Progressed": 8,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-01T17:57:15.417179+00:00",
   "FirstSeenAchievements": "2023-07-27T09:00:47.8378979+00:00",
-  "LastChanged_Achievements": "2023-08-26T11:04:06.4740199+00:00",
+  "LastChanged_Achievements": "2023-08-26T12:03:46.2336646+00:00",
   "LastUpdate_AppInfo": "2023-08-24T10:57:11.4074056+00:00",
-  "LastUpdate_Ratings": "2023-08-26T10:59:41.7519595+00:00",
-  "LastUpdate_Achievements": "2023-08-26T11:04:06.474034+00:00"
+  "LastUpdate_Ratings": "2023-08-26T11:59:44.4081674+00:00",
+  "LastUpdate_Achievements": "2023-08-26T12:03:46.2336752+00:00"
 }

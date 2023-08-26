@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 288,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-09-29T14:00:00+00:00",
@@ -506,7 +506,7 @@
   ],
   "EOS_Progressed": 19547,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -5402,9 +5402,9 @@
       "ID": "ach.090.perfectionist",
       "SetID": "384aaja",
       "Name": "Perfectionist",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 4496
+      "UsersEstimate": 4691
     },
     {
       "ID": "ach.100.indecisive",
@@ -5643,8 +5643,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-08-13T13:03:32.8412912+00:00",
-  "LastChanged_Achievements": "2023-08-26T11:06:14.3264317+00:00",
+  "LastChanged_Achievements": "2023-08-26T12:06:10.1083626+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:59.038417+00:00",
-  "LastUpdate_Ratings": "2023-08-26T10:57:53.4195536+00:00",
-  "LastUpdate_Achievements": "2023-08-26T11:06:14.3265368+00:00"
+  "LastUpdate_Ratings": "2023-08-26T11:58:01.21821+00:00",
+  "LastUpdate_Achievements": "2023-08-26T12:06:10.1084083+00:00"
 }

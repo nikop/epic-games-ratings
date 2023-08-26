@@ -6,12 +6,12 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 1.00% | ~1,351 |
-| Basic in Bulk | 1.00% | ~1,351 |
-| Disintermediation | 1.00% | ~1,351 |
-| Tinkle of Coins | 1.00% | ~1,351 |
-| Capitalism Ho! | 1.00% | ~1,351 |
-| Titan's First Steps | 1.00% | ~1,351 |
+| Sponsored by Argon | 1.00% | ~1,352 |
+| Basic in Bulk | 1.00% | ~1,352 |
+| Disintermediation | 1.00% | ~1,352 |
+| Tinkle of Coins | 1.00% | ~1,352 |
+| Capitalism Ho! | 1.00% | ~1,352 |
+| Titan's First Steps | 1.00% | ~1,352 |
 | It's Free Real Estate | 0.90% | ~1,216 |
 | Budding Merchant | 0.90% | ~1,216 |
 | One Easy Payment | 0.80% | ~1,081 |
@@ -21,11 +21,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Own the Means of Production | 0.80% | ~1,081 |
 | The Daily Grind | 0.60% | ~811 |
 | Bounty Hunters | 0.60% | ~811 |
+| Flooding the Market | 0.60% | ~811 |
 | One-Armed Bandit | 0.60% | ~811 |
 | Dungeon Imports | 0.60% | ~811 |
 | Through Repetition, Perfection | 0.60% | ~811 |
+| Blank Page Syndrome | 0.50% | ~676 |
 | Demand for Supplies | 0.50% | ~676 |
-| Flooding the Market | 0.50% | ~676 |
 | Where it Hurts | 0.50% | ~676 |
 | Gild-Gotten Goods | 0.50% | ~676 |
 | Accomplished Merchant | 0.50% | ~676 |
@@ -36,7 +37,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Research & Development | 0.40% | ~541 |
 | Vanity, Verily | 0.40% | ~541 |
 | Fated Encounters | 0.40% | ~541 |
-| Blank Page Syndrome | 0.40% | ~541 |
 | Power of Love | 0.40% | ~541 |
 | Efficient Floor Space | 0.40% | ~541 |
 | Flawless Fusion | 0.40% | ~541 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~135 |
 | Cash Only Please | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,149 (Ranked 66)  
+Progressed: 135,155 (Ranked 66)  
 Completed: 138 (0.10%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 138 (0.10%) (Ranked 211)
 | 2023-08-23 | 134,997 | 138 |
 | 2023-08-24 | 135,040 | 138 |
 | 2023-08-25 | 135,108 | 138 |
-| 2023-08-26 | 135,149 | 138 |
+| 2023-08-26 | 135,155 | 138 |
 ## Awards
 Max (Great for Beginners): 4,716  (Ranked 71)  
 Sum: 27,141 (Ranked 47)  

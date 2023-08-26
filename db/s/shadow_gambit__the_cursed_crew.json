@@ -2,7 +2,7 @@
   "ID": "42b8b899a3f349bd8376264ccee3cd2a",
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
-  "Ranking_EOS_Progress": 231,
+  "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 159,
   "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_NewCompleters": 49,
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 502,
+  "EOS_Progressed": 503,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 231,
+  "EOS_NewPlayers": 229,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -996,6 +996,11 @@
       "Time": "2023-08-26T10:06:23.4029327+00:00",
       "NumProgressed": 502,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-26T12:05:10.7462154+00:00",
+      "NumProgressed": 503,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1008,7 +1013,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -1016,7 +1021,7 @@
       "Name": "A New Journey",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "_03_FinishAct1",
@@ -1024,7 +1029,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1040,7 +1045,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -1048,7 +1053,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "_07_FinishAct3",
@@ -1072,7 +1077,7 @@
       "Name": "Powder Monkey",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "_10_Completion_30",
@@ -1134,9 +1139,9 @@
       "ID": "_17_UpgradeFirstCharacter",
       "SetID": "8a1io5d",
       "Name": "With Great Power\u2026",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 186
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -1150,9 +1155,9 @@
       "ID": "_19_CrewTale_BSP",
       "SetID": "8a1io5d",
       "Name": "Persistent Parasite",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 60
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -1160,7 +1165,7 @@
       "Name": "Fishy Fish",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -1190,9 +1195,9 @@
       "ID": "_24_CrewTale_SNP",
       "SetID": "8a1io5d",
       "Name": "Jaded Judge",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 35
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -1215,14 +1220,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 502,
+      "Progressed": 503,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-26T11:05:23.3094065+00:00",
+  "LastChanged_Achievements": "2023-08-26T12:05:10.7462149+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:45.1302228+00:00",
-  "LastUpdate_Ratings": "2023-08-26T11:01:52.4797095+00:00",
-  "LastUpdate_Achievements": "2023-08-26T11:05:23.3094378+00:00"
+  "LastUpdate_Ratings": "2023-08-26T12:01:39.8751086+00:00",
+  "LastUpdate_Achievements": "2023-08-26T12:05:10.7462351+00:00"
 }

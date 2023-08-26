@@ -5,28 +5,28 @@ Rating: 4.46 (Ranked 623)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~131,718 |
-| My First Runbow | 50.00% | ~124,262 |
-| It's The Fall | 26.00% | ~64,616 |
-| The Stunner | 22.00% | ~54,675 |
-| Be Aggressive | 21.00% | ~52,190 |
-| Curator | 20.00% | ~49,705 |
-| Crowning Around | 18.00% | ~44,734 |
-| Can You Dig It? | 17.00% | ~42,249 |
+| In The Zone | 53.00% | ~131,720 |
+| My First Runbow | 50.00% | ~124,264 |
+| It's The Fall | 26.00% | ~64,617 |
+| The Stunner | 22.00% | ~54,676 |
+| Be Aggressive | 21.00% | ~52,191 |
+| Curator | 20.00% | ~49,706 |
+| Crowning Around | 18.00% | ~44,735 |
+| Can You Dig It? | 17.00% | ~42,250 |
 | You Juan-A-Go? | 16.00% | ~39,764 |
 | Chan-tastic | 15.00% | ~37,279 |
 | Muddy Waters | 15.00% | ~37,279 |
-| Toasty! | 13.00% | ~32,308 |
+| Toasty! | 13.00% | ~32,309 |
 | Lazy Laser | 8.00% | ~19,882 |
 | Just A Phaze | 7.00% | ~17,397 |
 | Into The Drift | 7.00% | ~17,397 |
 | Ready? Fight! | 7.00% | ~17,397 |
-| Butt Butt | 6.00% | ~14,911 |
+| Butt Butt | 6.00% | ~14,912 |
 | He Who Laughs Last | 3.00% | ~7,456 |
 | Shoo, Cat! | 3.00% | ~7,456 |
-| And You're Okay | 2.00% | ~4,970 |
-| Blotbuster | 2.00% | ~4,970 |
-| Thunderstruck | 2.00% | ~4,970 |
+| And You're Okay | 2.00% | ~4,971 |
+| Blotbuster | 2.00% | ~4,971 |
+| Thunderstruck | 2.00% | ~4,971 |
 | Just A Bit | 1.00% | ~2,485 |
 | Tubular, Dude | 1.00% | ~2,485 |
 | What A Trip | 1.00% | ~2,485 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 623)
 | Talent Scout | 0.10% | ~249 |
 | True Completionist | 0.10% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248,524 (Ranked 47)  
+Progressed: 248,528 (Ranked 47)  
 Completed: 4 (0.00%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 4 (0.00%) (Ranked 264)
 | 2023-08-23 | 248,425 | 4 |
 | 2023-08-24 | 248,467 | 4 |
 | 2023-08-25 | 248,504 | 4 |
-| 2023-08-26 | 248,524 | 4 |
+| 2023-08-26 | 248,528 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
