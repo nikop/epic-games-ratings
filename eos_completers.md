@@ -14,9 +14,9 @@
 | 12 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.40% |
 | 13 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 13 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
-| 15 | [Island Cities](games/i/island_cities.md) | 18.49% |
-| 16 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
-| 17 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 17.91% |
+| 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 18.66% |
+| 16 | [Island Cities](games/i/island_cities.md) | 18.49% |
+| 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
 | 18 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.46% |
 | 19 | [Anna's Quest](games/a/anna's_quest.md) | 13.51% |
 | 20 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.10% |
@@ -92,8 +92,8 @@
 | 90 | [Bloodshore](games/b/bloodshore.md) | 2.20% |
 | 91 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
 | 92 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.01% |
-| 93 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 1.94% |
-| 94 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
+| 93 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
+| 93 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 1.92% |
 | 95 | [Night Book](games/n/night_book.md) | 1.86% |
 | 96 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
 | 97 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
@@ -139,26 +139,26 @@
 | 137 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
 | 137 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.61% |
 | 139 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.59% |
-| 140 | [Potion Permit](games/p/potion_permit.md) | 0.58% |
-| 141 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.57% |
-| 142 | [Grindstone](games/g/grindstone.md) | 0.56% |
-| 143 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.54% |
-| 144 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.52% |
-| 144 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
-| 146 | [Aragami 2](games/a/aragami_2.md) | 0.51% |
-| 147 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.50% |
-| 147 | [The Surge 2](games/t/the_surge_2.md) | 0.50% |
-| 149 | [Godlike Burger](games/g/godlike_burger.md) | 0.49% |
-| 150 | [Them and Us](games/t/them_and_us.md) | 0.48% |
-| 151 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
-| 152 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.46% |
-| 152 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.46% |
-| 154 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.45% |
-| 154 | [Train Valley](games/t/train_valley.md) | 0.45% |
-| 156 | [Tails of Iron](games/t/tails_of_iron.md) | 0.43% |
-| 156 | [Tchia](games/t/tchia.md) | 0.43% |
-| 158 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.41% |
-| 159 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 0.39% |
+| 139 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 0.59% |
+| 141 | [Potion Permit](games/p/potion_permit.md) | 0.58% |
+| 142 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.57% |
+| 143 | [Grindstone](games/g/grindstone.md) | 0.56% |
+| 144 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.54% |
+| 145 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.52% |
+| 145 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
+| 147 | [Aragami 2](games/a/aragami_2.md) | 0.51% |
+| 148 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.50% |
+| 148 | [The Surge 2](games/t/the_surge_2.md) | 0.50% |
+| 150 | [Godlike Burger](games/g/godlike_burger.md) | 0.49% |
+| 151 | [Them and Us](games/t/them_and_us.md) | 0.48% |
+| 152 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
+| 153 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.46% |
+| 153 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.46% |
+| 155 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.45% |
+| 155 | [Train Valley](games/t/train_valley.md) | 0.45% |
+| 157 | [Tails of Iron](games/t/tails_of_iron.md) | 0.43% |
+| 157 | [Tchia](games/t/tchia.md) | 0.43% |
+| 159 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.41% |
 | 160 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.38% |
 | 160 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
 | 162 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.37% |
