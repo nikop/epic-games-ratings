@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2020-07-01T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -9453,18 +9453,24 @@
       "Rating": 4.67,
       "NumberOfAwards": 26769,
       "NumberOfAwardsMax": 3179
+    },
+    {
+      "Time": "2023-08-26T16:00:14.9424143+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 26790,
+      "NumberOfAwardsMax": 3184
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 26769,
-  "NumberOfAwardsMax": 3179,
-  "MaxAwardTitle": "Great for Quick Sessions",
+  "NumberOfAwards": 26790,
+  "NumberOfAwardsMax": 3184,
+  "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 3176
+      "Count": 3184
     },
     {
       "Text": "This game has Competitive Players",
@@ -9488,7 +9494,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 2800
+      "Count": 2810
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -9500,7 +9506,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 2471
+      "Count": 2474
     },
     {
       "Text": "This game is Relaxing",
@@ -9544,8 +9550,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2023-08-26T15:01:16.4652274+00:00",
+  "LastChanged": "2023-08-26T16:00:14.9424142+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:01.2292338+00:00",
-  "LastUpdate_Ratings": "2023-08-26T15:01:16.4652281+00:00",
-  "LastUpdate_Achievements": "2023-08-26T15:03:29.8490583+00:00"
+  "LastUpdate_Ratings": "2023-08-26T16:00:14.9424147+00:00",
+  "LastUpdate_Achievements": "2023-08-26T16:03:41.0298652+00:00"
 }

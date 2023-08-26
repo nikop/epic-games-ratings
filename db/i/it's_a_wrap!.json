@@ -4,8 +4,8 @@
   "ProductSlug": "its-a-wrap-f392ae",
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-08-23T17:30:00+00:00",
     "PcReleaseDate": "2023-08-23T17:30:00+00:00",
@@ -163,9 +163,9 @@
       "ID": "1_90_SECRET",
       "SetID": "2l1dk5b",
       "Name": "Extra Life",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "3_00_CRATE_KILLER",
@@ -219,9 +219,9 @@
       "ID": "MOV1_FINISH",
       "SetID": "2l1dk5b",
       "Name": "Treasure Hunter",
-      "Percentage": 8,
+      "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "MOV2_FINISH",
@@ -250,8 +250,8 @@
   ],
   "FirstSeen": "2023-08-25T08:57:40.9970991+00:00",
   "FirstSeenAchievements": "2023-08-01T21:04:35.2343064+00:00",
-  "LastChanged_Achievements": "2023-08-26T15:07:12.853909+00:00",
+  "LastChanged_Achievements": "2023-08-26T16:06:16.692324+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:00.6888694+00:00",
-  "LastUpdate_Ratings": "2023-08-26T14:58:05.3144107+00:00",
-  "LastUpdate_Achievements": "2023-08-26T15:07:12.8539199+00:00"
+  "LastUpdate_Ratings": "2023-08-26T15:57:36.0161306+00:00",
+  "LastUpdate_Achievements": "2023-08-26T16:06:16.6923343+00:00"
 }

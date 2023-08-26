@@ -23,12 +23,12 @@
 | Pal of your father? | 66.00% | ~176 |
 | Employee of the month | 66.00% | ~176 |
 | Spirit of the past | 64.00% | ~171 |
-| Law student | 62.00% | ~166 |
+| Law student | 63.00% | ~168 |
 | Workout professional | 61.00% | ~163 |
+| It's good to be alive | 61.00% | ~163 |
 | Own four walls | 61.00% | ~163 |
 | Handyman | 60.00% | ~160 |
 | Champion – starter pack | 60.00% | ~160 |
-| It's good to be alive | 60.00% | ~160 |
 | Little hacker | 59.00% | ~158 |
 | Employee of the year | 59.00% | ~158 |
 | Fight for life | 58.00% | ~155 |
@@ -41,17 +41,17 @@
 | Fight is life | 46.00% | ~123 |
 | Mysterious voice | 46.00% | ~123 |
 | No blades in the gym | 45.00% | ~120 |
-| Champion – no way back | 41.00% | ~109 |
+| Champion – no way back | 42.00% | ~112 |
 | Responsible approach | 41.00% | ~109 |
+| Underground dwellers | 40.00% | ~107 |
 | Your own way | 40.00% | ~107 |
 | Deal with life | 39.00% | ~104 |
 | GYM professional | 39.00% | ~104 |
 | Poisoned fighter | 39.00% | ~104 |
-| Underground dwellers | 39.00% | ~104 |
+| Mom got better | 38.00% | ~101 |
 | Get out of my apartment! | 38.00% | ~101 |
-| Mom got better | 37.00% | ~99 |
-| The die is cast | 37.00% | ~99 |
-| Seashell hunter | 36.00% | ~96 |
+| The die is cast | 38.00% | ~101 |
+| Seashell hunter | 37.00% | ~99 |
 | Gang wrangler | 35.00% | ~93 |
 | Problems of cyborgs | 34.00% | ~91 |
 | Undercover robot | 34.00% | ~91 |

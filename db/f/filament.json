@@ -243,9 +243,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 200058,
+  "EOS_Progressed": 200063,
   "EOS_Completed": 489,
-  "EOS_NewPlayers": 599,
+  "EOS_NewPlayers": 596,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -14013,6 +14013,11 @@
       "Time": "2023-08-26T15:05:21.774153+00:00",
       "NumProgressed": 200058,
       "NumCompleted": 489
+    },
+    {
+      "Time": "2023-08-26T16:04:43.730885+00:00",
+      "NumProgressed": 200063,
+      "NumCompleted": 489
     }
   ],
   "TotalAchievements": 29,
@@ -14048,7 +14053,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 188055
+      "UsersEstimate": 188059
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -14080,7 +14085,7 @@
       "Name": "Cockpit",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1600
+      "UsersEstimate": 1601
     },
     {
       "ID": "ACHIEVEMENT_COLMIX",
@@ -14160,7 +14165,7 @@
       "Name": "So you\u0027re saying I don\u0027t touch these ones?",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 12003
+      "UsersEstimate": 12004
     },
     {
       "ID": "ACHIEVEMENT_OPUS",
@@ -14232,7 +14237,7 @@
       "Name": "Witness it.",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1600
+      "UsersEstimate": 1601
     },
     {
       "ID": "ACHIEVEMENT_WRAP",
@@ -14255,7 +14260,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 200058,
+      "Progressed": 200063,
       "Completed": 489
     }
   ],
@@ -14263,8 +14268,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-08-19T20:00:31.8399303+00:00",
-  "LastChanged_Achievements": "2023-08-26T15:05:21.7741522+00:00",
+  "LastChanged_Achievements": "2023-08-26T16:04:43.7308844+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:27.0494486+00:00",
-  "LastUpdate_Ratings": "2023-08-26T14:57:36.5379146+00:00",
-  "LastUpdate_Achievements": "2023-08-26T15:05:21.7742582+00:00"
+  "LastUpdate_Ratings": "2023-08-26T15:57:10.686904+00:00",
+  "LastUpdate_Achievements": "2023-08-26T16:04:43.7309619+00:00"
 }

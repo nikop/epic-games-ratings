@@ -5,16 +5,16 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Under the Bridge | 77.00% | ~20 |
-| Treasure Hunter | 8.00% | ~2 |
+| Treasure Hunter | 12.00% | ~3 |
 | Space Invader | 8.00% | ~2 |
 | One Man Army | 8.00% | ~2 |
 | What's my line again? | 4.00% | ~1 |
+| Extra Life | 4.00% | ~1 |
 | Meet Your Makers | 4.00% | ~1 |
 | Budget Killer | 4.00% | ~1 |
 | In the Can | 4.00% | ~1 |
 | O' Captain! My Captain! | 0.00% | ~0 |
 | Secret of the Mines | 0.00% | ~0 |
-| Extra Life | 0.00% | ~0 |
 | Unboxing Video | 0.00% | ~0 |
 | Who's gonna pay for that? | 0.00% | ~0 |
 | Mise-en-scènester | 0.00% | ~0 |

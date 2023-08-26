@@ -1,33 +1,33 @@
 # Absolute Drift
 [Store](https://store.epicgames.com/en-US/p/absolute-drift)  
 [View Rawdata](../../db/a/absolute_drift.json)  
-Rating: 4.41 (Ranked 687)  
+Rating: 4.41 (Ranked 686)  
 Number of Ratings: 216  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Midnight Drifter | 10.00% | ~153,707 |
-| Good Skills | 9.00% | ~138,336 |
-| Multiplier Master | 9.00% | ~138,336 |
-| Maverick | 7.00% | ~107,595 |
-| The Long Drift | 5.00% | ~76,853 |
+| Midnight Drifter | 10.00% | ~153,708 |
+| Good Skills | 9.00% | ~138,337 |
+| Multiplier Master | 9.00% | ~138,337 |
+| Maverick | 7.00% | ~107,596 |
+| The Long Drift | 5.00% | ~76,854 |
 | Drift Line Apprentice | 3.00% | ~46,112 |
 | Mad Skills | 3.00% | ~46,112 |
-| Bring the Cubic Ruckus | 2.00% | ~30,741 |
-| Jelly Donuts | 2.00% | ~30,741 |
-| Master Drifter | 2.00% | ~30,741 |
-| Spin Doctor | 2.00% | ~30,741 |
+| Bring the Cubic Ruckus | 2.00% | ~30,742 |
+| Jelly Donuts | 2.00% | ~30,742 |
+| Master Drifter | 2.00% | ~30,742 |
+| Spin Doctor | 2.00% | ~30,742 |
 | Hoon Airlines | 1.00% | ~15,371 |
 | Midnight Master | 1.00% | ~15,371 |
 | Sake Bombs | 0.90% | ~13,834 |
-| Drift Line Master | 0.70% | ~10,759 |
-| Insane Skills | 0.70% | ~10,759 |
+| Drift Line Master | 0.70% | ~10,760 |
+| Insane Skills | 0.70% | ~10,760 |
 | Bacon Donuts | 0.60% | ~9,222 |
 | Double Rainbow | 0.50% | ~7,685 |
 | Washing Machine | 0.40% | ~6,148 |
 | The Completionist | 0.10% | ~1,537 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,537,068 (Ranked 7)  
+Progressed: 1,537,082 (Ranked 7)  
 Completed: 669 (0.04%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 669 (0.04%) (Ranked 234)
 | 2023-08-23 | 1,536,638 | 668 |
 | 2023-08-24 | 1,536,775 | 668 |
 | 2023-08-25 | 1,536,962 | 668 |
-| 2023-08-26 | 1,537,068 | 669 |
+| 2023-08-26 | 1,537,082 | 669 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

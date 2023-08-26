@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 139,
   "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -2327,9 +2327,9 @@
       "ID": "RewindDamage1",
       "SetID": "a9e499d",
       "Name": "Time Heals All Wounds",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 210
+      "UsersEstimate": 219
     },
     {
       "ID": "RewindParry",
@@ -2472,8 +2472,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-08-26T15:07:12.5558607+00:00",
+  "LastChanged_Achievements": "2023-08-26T16:06:16.3828445+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:03.8052712+00:00",
-  "LastUpdate_Ratings": "2023-08-26T14:58:21.4824946+00:00",
-  "LastUpdate_Achievements": "2023-08-26T15:07:12.5559127+00:00"
+  "LastUpdate_Ratings": "2023-08-26T15:57:45.9526086+00:00",
+  "LastUpdate_Achievements": "2023-08-26T16:06:16.3829078+00:00"
 }

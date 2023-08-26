@@ -6,23 +6,23 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 24.00% | ~52,208 |
-| Alt+F4 | 3.00% | ~6,526 |
+| Sowwy! | 24.00% | ~52,216 |
+| Alt+F4 | 3.00% | ~6,527 |
 | Déjà vu | 2.00% | ~4,351 |
 | Where's that freaking Dwarf? | 2.00% | ~4,351 |
 | Sock! SOCK! | 2.00% | ~4,351 |
-| Way of the Wimp | 1.00% | ~2,175 |
-| A beer, two curses, three companions | 1.00% | ~2,175 |
-| GG EZ | 1.00% | ~2,175 |
-| DM intervention | 1.00% | ~2,175 |
-| Speedrun | 1.00% | ~2,175 |
-| Fireproof Wizardess | 1.00% | ~2,175 |
+| Way of the Wimp | 1.00% | ~2,176 |
+| A beer, two curses, three companions | 1.00% | ~2,176 |
+| GG EZ | 1.00% | ~2,176 |
+| DM intervention | 1.00% | ~2,176 |
+| Speedrun | 1.00% | ~2,176 |
+| Fireproof Wizardess | 1.00% | ~2,176 |
 | Livin' in a dwarven paradise | 0.90% | ~1,958 |
 | The plot thickens... At the tavern | 0.90% | ~1,958 |
-| The demons' feast | 0.80% | ~1,740 |
-| The Woman in the High Castle | 0.80% | ~1,740 |
-| Team Building Exercise | 0.80% | ~1,740 |
-| Oh, when I'll be level 10... | 0.80% | ~1,740 |
+| The demons' feast | 0.80% | ~1,741 |
+| The Woman in the High Castle | 0.80% | ~1,741 |
+| Team Building Exercise | 0.80% | ~1,741 |
+| Oh, when I'll be level 10... | 0.80% | ~1,741 |
 | The Great Library | 0.70% | ~1,523 |
 | Torture and Sensibility | 0.70% | ~1,523 |
 | Urik's Depths | 0.70% | ~1,523 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~218 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,535 (Ranked 56)  
+Progressed: 217,566 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,7 +182,7 @@ Completed: 2 (0.00%) (Ranked 264)
 | 2023-08-23 | 216,367 | 2 |
 | 2023-08-24 | 216,781 | 2 |
 | 2023-08-25 | 217,227 | 2 |
-| 2023-08-26 | 217,535 | 2 |
+| 2023-08-26 | 217,566 | 2 |
 ## Awards
 Max (Character Customization): 176  (Ranked 284)  
 Sum: 220 (Ranked 363)  

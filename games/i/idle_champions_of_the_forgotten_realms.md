@@ -6,12 +6,12 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~4,502 |
+| A Brief Tour of the Realms | 2.00% | ~4,503 |
 | Beast Intentions | 0.70% | ~1,576 |
 | The Cursed Farmer | 0.70% | ~1,576 |
 | The Hunt for The Last Breath | 0.60% | ~1,148 |
 | The Mad Wizard | 0.50% | ~1,126 |
-| The Ring of Regeneration | 0.40% | ~900 |
+| The Ring of Regeneration | 0.40% | ~901 |
 | To Infinity's and Beyond | 0.40% | ~766 |
 | Were-verpowered | 0.30% | ~675 |
 | Seeking Allies | 0.30% | ~675 |
@@ -74,6 +74,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Slow and Steady | 0.20% | ~450 |
 | Flying Monkey Skulls of Doom | 0.20% | ~450 |
 | Lair of the Xanathar | 0.20% | ~450 |
+| Waterdeep Under Siege | 0.20% | ~450 |
 | The Darkness Runs Deeper | 0.20% | ~450 |
 | Difficult Terrain | 0.20% | ~450 |
 | Running of the Saurs | 0.20% | ~450 |
@@ -318,7 +319,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dreams of Beholders | 0.10% | ~225 |
 | Feigned Weakness | 0.10% | ~225 |
 | DPS in the Deeps | 0.10% | ~191 |
-| Waterdeep Under Siege | 0.10% | ~225 |
 | Bregan D'aerthe Comes to Call | 0.10% | ~225 |
 | Sober Up | 0.10% | ~225 |
 | In The Beginning | 0.10% | ~191 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~191 |
 | Animated Giff | 0.10% | ~191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,117 (Ranked 53)  
+Progressed: 225,130 (Ranked 53)  
 Completed: 2,218 (0.99%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -651,7 +651,7 @@ Completed: 2,218 (0.99%) (Ranked 120)
 | 2023-08-23 | 224,434 | 2,210 |
 | 2023-08-24 | 224,686 | 2,211 |
 | 2023-08-25 | 224,925 | 2,214 |
-| 2023-08-26 | 225,117 | 2,218 |
+| 2023-08-26 | 225,130 | 2,218 |
 ## Awards
 Max (Diverse Characters): 5,189  (Ranked 68)  
 Sum: 31,225 (Ranked 39)  

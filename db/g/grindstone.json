@@ -2,13 +2,13 @@
   "ID": "76355dbd22b249d9a6f77790aba9547b",
   "Name": "Grindstone",
   "ProductSlug": "grindstone",
-  "Ranking_Rating": 49,
+  "Ranking_Rating": 48,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 142,
   "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
     "PcReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -210,7 +210,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5149,
+  "EOS_Progressed": 5150,
   "EOS_Completed": 29,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -740,6 +740,11 @@
       "Time": "2023-08-10T16:07:34.8262961+00:00",
       "NumProgressed": 5149,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-08-26T16:04:37.7797666+00:00",
+      "NumProgressed": 5150,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 49,
@@ -751,7 +756,7 @@
       "Name": "Employee of the Month",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 1905
+      "UsersEstimate": 1906
     },
     {
       "ID": "ACHIEVE_3_OFFSHOOTS_COMPLETE",
@@ -767,7 +772,7 @@
       "Name": "I Believe I Can Fly",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1905
+      "UsersEstimate": 1906
     },
     {
       "ID": "ACHIEVE_50_BONES",
@@ -855,7 +860,7 @@
       "Name": "Timber!",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 3089
+      "UsersEstimate": 3090
     },
     {
       "ID": "ACHIEVE_ATE_FOOD_3",
@@ -879,15 +884,15 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5046
+      "UsersEstimate": 5047
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
       "SetID": "b8l3p0g",
       "Name": "Fun, Flirty, and Thirty",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 3192
+      "UsersEstimate": 3244
     },
     {
       "ID": "ACHIEVE_CREATE_45_GRINDSTONE",
@@ -927,7 +932,7 @@
       "Name": "Fortunate Soul",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 2574
+      "UsersEstimate": 2575
     },
     {
       "ID": "ACHIEVE_GREED_GRIND_WIN",
@@ -935,7 +940,7 @@
       "Name": "Don\u0027t Get Too Greedy",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "ACHIEVE_JERK_ATTACK_JERK",
@@ -943,7 +948,7 @@
       "Name": "Stop Hitting Each Other",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "ACHIEVE_JERK_POISON_DEATH",
@@ -959,7 +964,7 @@
       "Name": "Slaughterhouse 5 (200 times)",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 4016
+      "UsersEstimate": 4017
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_10000",
@@ -967,7 +972,7 @@
       "Name": "If It Bleeds, You Can Kill It",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1082
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_20",
@@ -975,7 +980,7 @@
       "Name": "Killed 20 Jerks",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 2780
+      "UsersEstimate": 2781
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_200",
@@ -983,7 +988,7 @@
       "Name": "Ultimate Jerk",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_5",
@@ -991,7 +996,7 @@
       "Name": "Royal Flush",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3192
+      "UsersEstimate": 3193
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_50",
@@ -1015,7 +1020,7 @@
       "Name": "Survived The Slaughter",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "ACHIEVE_LVL_15_COMPLETE",
@@ -1039,7 +1044,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5046
+      "UsersEstimate": 5047
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -1063,7 +1068,7 @@
       "Name": "It\u0027s Been a Blast",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "ACHIEVE_MIDAS",
@@ -1079,7 +1084,7 @@
       "Name": "For Rock and Stone!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "ACHIEVE_OKBOOMER_LAVA",
@@ -1095,7 +1100,7 @@
       "Name": "Death Defied",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 2729
+      "UsersEstimate": 2730
     },
     {
       "ID": "ACHIEVE_PLATINUM",
@@ -1119,7 +1124,7 @@
       "Name": "Are We Good Guys Or Bad Guys?",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACHIEVE_SPARE_SLOB",
@@ -1142,15 +1147,15 @@
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5149,
+      "Progressed": 5150,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-08-26T15:05:15.9427366+00:00",
+  "LastChanged_Achievements": "2023-08-26T16:04:37.7797662+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:39.141756+00:00",
-  "LastUpdate_Ratings": "2023-08-26T14:58:47.8759171+00:00",
-  "LastUpdate_Achievements": "2023-08-26T15:05:15.9427794+00:00"
+  "LastUpdate_Ratings": "2023-08-26T15:58:09.0664428+00:00",
+  "LastUpdate_Achievements": "2023-08-26T16:04:37.7798016+00:00"
 }

@@ -6112,9 +6112,9 @@
       "Count": 3373
     }
   ],
-  "EOS_Progressed": 225117,
+  "EOS_Progressed": 225130,
   "EOS_Completed": 2218,
-  "EOS_NewPlayers": 1785,
+  "EOS_NewPlayers": 1783,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -20137,6 +20137,11 @@
       "Time": "2023-08-26T15:07:30.5513482+00:00",
       "NumProgressed": 225117,
       "NumCompleted": 2218
+    },
+    {
+      "Time": "2023-08-26T16:06:35.0455277+00:00",
+      "NumProgressed": 225130,
+      "NumCompleted": 2218
     }
   ],
   "TotalAchievements": 516,
@@ -20148,7 +20153,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4502
+      "UsersEstimate": 4503
     },
     {
       "ID": "objective_completed_10",
@@ -21828,7 +21833,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 900
+      "UsersEstimate": 901
     },
     {
       "ID": "objective_completed_35",
@@ -22402,9 +22407,9 @@
       "ID": "objective_completed_555",
       "SetID": "cc37lbc",
       "Name": "Waterdeep Under Siege",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 450
     },
     {
       "ID": "objective_completed_556",
@@ -24275,21 +24280,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 191391,
+      "Progressed": 191404,
       "Completed": 3308
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 225117,
+      "Progressed": 225130,
       "Completed": 2218
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-26T13:02:55.9721236+00:00",
-  "LastChanged_Achievements": "2023-08-26T15:07:30.5513478+00:00",
+  "LastChanged_Achievements": "2023-08-26T16:06:35.0455272+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:53.3345914+00:00",
-  "LastUpdate_Ratings": "2023-08-26T15:01:11.1967432+00:00",
-  "LastUpdate_Achievements": "2023-08-26T15:07:30.5540316+00:00"
+  "LastUpdate_Ratings": "2023-08-26T16:00:09.8909721+00:00",
+  "LastUpdate_Achievements": "2023-08-26T16:06:35.04801+00:00"
 }

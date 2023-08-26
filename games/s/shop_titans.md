@@ -12,8 +12,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Tinkle of Coins | 1.00% | ~1,352 |
 | Capitalism Ho! | 1.00% | ~1,352 |
 | Titan's First Steps | 1.00% | ~1,352 |
-| It's Free Real Estate | 0.90% | ~1,216 |
-| Budding Merchant | 0.90% | ~1,216 |
+| It's Free Real Estate | 0.90% | ~1,217 |
+| Budding Merchant | 0.90% | ~1,217 |
 | One Easy Payment | 0.80% | ~1,081 |
 | Some Assembly Required | 0.80% | ~1,081 |
 | Another Satisfied Customer | 0.80% | ~1,081 |
@@ -45,52 +45,52 @@ Number of Ratings: 12,664  (23.09.2022)
 | Helping Hand | 0.40% | ~541 |
 | Natural 20 | 0.40% | ~541 |
 | Magical Harmony | 0.40% | ~541 |
-| A Notch Above the Rest | 0.30% | ~405 |
-| Cream of the Crop | 0.30% | ~405 |
-| Top of the World | 0.30% | ~405 |
-| Proud Paladin | 0.30% | ~405 |
-| Above the Norm | 0.30% | ~405 |
-| A Ronin Reborn | 0.30% | ~405 |
-| Tax not Included | 0.30% | ~405 |
-| The King's Caprice | 0.30% | ~405 |
-| Thirst for Knowledge | 0.30% | ~405 |
-| Big Game Hunting | 0.30% | ~405 |
-| For the Hoard! | 0.30% | ~405 |
-| Booty by the Boatload | 0.30% | ~405 |
-| Scrapbooker | 0.30% | ~405 |
-| Archivist | 0.30% | ~405 |
-| Locally Sourced | 0.30% | ~405 |
-| Flying off the Shelves | 0.30% | ~405 |
-| Industrial Evolution | 0.30% | ~405 |
-| This Power Level...! | 0.30% | ~405 |
-| Omae wa Mou Shindeiru | 0.30% | ~405 |
-| Master of Transmutation | 0.30% | ~405 |
-| Hidden Potential | 0.30% | ~405 |
-| Supercharged | 0.30% | ~405 |
-| Expansion in Session | 0.30% | ~405 |
-| Cranked up to 11 | 0.30% | ~405 |
-| Fit for a King | 0.30% | ~405 |
-| Trash to Treasure | 0.30% | ~405 |
-| Mammonite | 0.30% | ~405 |
-| Wealth Beyond Measure | 0.30% | ~405 |
-| Fat Cat Tag Team | 0.30% | ~405 |
-| Necromancer Queen | 0.30% | ~405 |
-| Item of Renown | 0.30% | ~405 |
-| Master Merchant | 0.30% | ~405 |
-| Miracle Alchemist | 0.30% | ~405 |
-| Laden with Loot | 0.30% | ~405 |
-| Seasoned Journeyman | 0.30% | ~405 |
-| Precision Engineering | 0.30% | ~405 |
-| Scourge of the Seas | 0.30% | ~405 |
-| Attrition Mission | 0.30% | ~405 |
-| Glittering Collection | 0.30% | ~405 |
-| Treasure Trove | 0.30% | ~405 |
-| Moment of Respite | 0.30% | ~405 |
-| Black Friday Special | 0.30% | ~405 |
-| King's Shadow | 0.30% | ~405 |
-| Special Ingredient | 0.30% | ~405 |
-| Exotic Commodities | 0.30% | ~405 |
-| Complete Monopoly | 0.30% | ~405 |
+| A Notch Above the Rest | 0.30% | ~406 |
+| Cream of the Crop | 0.30% | ~406 |
+| Top of the World | 0.30% | ~406 |
+| Proud Paladin | 0.30% | ~406 |
+| Above the Norm | 0.30% | ~406 |
+| A Ronin Reborn | 0.30% | ~406 |
+| Tax not Included | 0.30% | ~406 |
+| The King's Caprice | 0.30% | ~406 |
+| Thirst for Knowledge | 0.30% | ~406 |
+| Big Game Hunting | 0.30% | ~406 |
+| For the Hoard! | 0.30% | ~406 |
+| Booty by the Boatload | 0.30% | ~406 |
+| Scrapbooker | 0.30% | ~406 |
+| Archivist | 0.30% | ~406 |
+| Locally Sourced | 0.30% | ~406 |
+| Flying off the Shelves | 0.30% | ~406 |
+| Industrial Evolution | 0.30% | ~406 |
+| This Power Level...! | 0.30% | ~406 |
+| Omae wa Mou Shindeiru | 0.30% | ~406 |
+| Master of Transmutation | 0.30% | ~406 |
+| Hidden Potential | 0.30% | ~406 |
+| Supercharged | 0.30% | ~406 |
+| Expansion in Session | 0.30% | ~406 |
+| Cranked up to 11 | 0.30% | ~406 |
+| Fit for a King | 0.30% | ~406 |
+| Trash to Treasure | 0.30% | ~406 |
+| Mammonite | 0.30% | ~406 |
+| Wealth Beyond Measure | 0.30% | ~406 |
+| Fat Cat Tag Team | 0.30% | ~406 |
+| Necromancer Queen | 0.30% | ~406 |
+| Item of Renown | 0.30% | ~406 |
+| Master Merchant | 0.30% | ~406 |
+| Miracle Alchemist | 0.30% | ~406 |
+| Laden with Loot | 0.30% | ~406 |
+| Seasoned Journeyman | 0.30% | ~406 |
+| Precision Engineering | 0.30% | ~406 |
+| Scourge of the Seas | 0.30% | ~406 |
+| Attrition Mission | 0.30% | ~406 |
+| Glittering Collection | 0.30% | ~406 |
+| Treasure Trove | 0.30% | ~406 |
+| Moment of Respite | 0.30% | ~406 |
+| Black Friday Special | 0.30% | ~406 |
+| King's Shadow | 0.30% | ~406 |
+| Special Ingredient | 0.30% | ~406 |
+| Exotic Commodities | 0.30% | ~406 |
+| Complete Monopoly | 0.30% | ~406 |
 | Constellated | 0.20% | ~270 |
 | The Free Encyclopedia | 0.20% | ~270 |
 | Fillin' the Bin | 0.20% | ~270 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~135 |
 | Cash Only Please | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,165 (Ranked 66)  
+Progressed: 135,170 (Ranked 66)  
 Completed: 138 (0.10%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 138 (0.10%) (Ranked 211)
 | 2023-08-23 | 134,997 | 138 |
 | 2023-08-24 | 135,040 | 138 |
 | 2023-08-25 | 135,108 | 138 |
-| 2023-08-26 | 135,165 | 138 |
+| 2023-08-26 | 135,170 | 138 |
 ## Awards
 Max (Great for Beginners): 4,716  (Ranked 71)  
 Sum: 27,141 (Ranked 47)  

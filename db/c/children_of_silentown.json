@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-01-11T16:00:00+00:00",
     "PcReleaseDate": "2023-01-11T16:00:00+00:00",
@@ -323,9 +323,9 @@
       "ID": "Cellar",
       "SetID": "9kk0gal",
       "Name": "Glass shards",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 91
+      "UsersEstimate": 93
     },
     {
       "ID": "DogHair",
@@ -339,9 +339,9 @@
       "ID": "Doll",
       "SetID": "9kk0gal",
       "Name": "Doll",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 40,
-      "UsersEstimate": 74
+      "UsersEstimate": 76
     },
     {
       "ID": "Ending1",
@@ -459,9 +459,9 @@
       "ID": "Secret",
       "SetID": "9kk0gal",
       "Name": "Old kettle",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "Spyglass",
@@ -507,9 +507,9 @@
       "ID": "Windmill",
       "SetID": "9kk0gal",
       "Name": "Windmill",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 78
+      "UsersEstimate": 80
     }
   ],
   "AchievementSets": [
@@ -524,8 +524,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-08-26T15:06:12.1658108+00:00",
+  "LastChanged_Achievements": "2023-08-26T16:05:25.0956039+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:09.7603016+00:00",
-  "LastUpdate_Ratings": "2023-08-26T14:58:58.4769678+00:00",
-  "LastUpdate_Achievements": "2023-08-26T15:06:12.1658315+00:00"
+  "LastUpdate_Ratings": "2023-08-26T15:58:16.8778318+00:00",
+  "LastUpdate_Achievements": "2023-08-26T16:05:25.0956216+00:00"
 }

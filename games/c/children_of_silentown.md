@@ -12,12 +12,12 @@
 | Puppy | 64.00% | ~124 |
 | Coal's fur | 58.00% | ~113 |
 | Blue's drawing | 56.00% | ~109 |
+| Glass shards | 48.00% | ~93 |
 | Mysterious footprints | 48.00% | ~93 |
-| Glass shards | 47.00% | ~91 |
 | Complicated padlock | 43.00% | ~83 |
 | Big metal ruler | 42.00% | ~81 |
-| Windmill | 40.00% | ~78 |
-| Doll | 38.00% | ~74 |
+| Windmill | 41.00% | ~80 |
+| Doll | 39.00% | ~76 |
 | Mysterious paintings | 36.00% | ~70 |
 | Cat | 34.00% | ~66 |
 | Depths of the well | 27.00% | ~52 |
@@ -26,7 +26,7 @@
 | Flower of hope | 15.00% | ~29 |
 | Back Home | 13.00% | ~25 |
 | Friend | 12.00% | ~23 |
-| Old kettle | 11.00% | ~21 |
+| Old kettle | 12.00% | ~23 |
 | Forest Howl | 10.00% | ~19 |
 | Hope | 6.00% | ~12 |
 | Hairball | 0.00% | ~0 |

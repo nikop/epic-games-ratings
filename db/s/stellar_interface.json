@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 364,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-03-30T00:00:00+00:00",
     "PcReleaseDate": "2016-11-21T00:00:00+00:00",
@@ -853,9 +853,9 @@
       "ID": "GoldTheHiveBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Golden Pest Control",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "HaveAllAchievementsAchievement",
@@ -1388,8 +1388,8 @@
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-08-26T15:03:22.2943654+00:00",
+  "LastChanged_Achievements": "2023-08-26T16:03:33.5803827+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:41.6007938+00:00",
-  "LastUpdate_Ratings": "2023-08-26T15:01:43.3307665+00:00",
-  "LastUpdate_Achievements": "2023-08-26T15:03:22.2945451+00:00"
+  "LastUpdate_Ratings": "2023-08-26T16:00:41.6738778+00:00",
+  "LastUpdate_Achievements": "2023-08-26T16:03:33.5805333+00:00"
 }

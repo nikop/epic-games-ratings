@@ -4,8 +4,8 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -1428,9 +1428,9 @@
       "ID": "ach_retail_2",
       "SetID": "b8gh1fi",
       "Name": "Emporium Empire",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 70
     },
     {
       "ID": "ach_retail_3",
@@ -1589,8 +1589,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-08-26T15:06:28.0738578+00:00",
+  "LastChanged_Achievements": "2023-08-26T16:05:42.0164577+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:43.0732333+00:00",
-  "LastUpdate_Ratings": "2023-08-26T15:01:03.7891204+00:00",
-  "LastUpdate_Achievements": "2023-08-26T15:06:28.0739684+00:00"
+  "LastUpdate_Ratings": "2023-08-26T16:00:01.1637353+00:00",
+  "LastUpdate_Achievements": "2023-08-26T16:05:42.0165435+00:00"
 }

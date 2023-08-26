@@ -63,6 +63,7 @@
 | Bronze BBQ | 2.00% | ~1 |
 | Golden Foundation | 2.00% | ~1 |
 | Sectoral Admiral | 2.00% | ~1 |
+| Golden Pest Control | 2.00% | ~1 |
 | 80Gb HDD | 2.00% | ~1 |
 | Galactic Captain | 2.00% | ~1 |
 | You've drone good! | 2.00% | ~1 |
@@ -107,7 +108,6 @@
 | Galactic Admiral | 0.00% | ~0 |
 | Universal Admiral | 0.00% | ~0 |
 | Golden BBQ | 0.00% | ~0 |
-| Golden Pest Control | 0.00% | ~0 |
 | Completionist | 0.00% | ~0 |
 | The Healer | 0.00% | ~0 |
 | Godlike | 0.00% | ~0 |

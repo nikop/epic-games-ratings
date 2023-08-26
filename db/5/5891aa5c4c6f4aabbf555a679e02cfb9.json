@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 368,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
     "PcReleaseDate": "2017-10-12T00:00:00+00:00",
@@ -348,9 +348,9 @@
       "ID": "ACHIEVEMENT_08",
       "SetID": "b36c5kb",
       "Name": "The Team Psychologist",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -707,8 +707,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-08-26T15:06:04.8973193+00:00",
+  "LastChanged_Achievements": "2023-08-26T16:05:17.5434017+00:00",
   "LastUpdate_AppInfo": "2023-08-23T17:57:10.5850624+00:00",
-  "LastUpdate_Ratings": "2023-08-26T14:59:24.7363327+00:00",
-  "LastUpdate_Achievements": "2023-08-26T15:06:04.8973694+00:00"
+  "LastUpdate_Ratings": "2023-08-26T15:58:35.6694838+00:00",
+  "LastUpdate_Achievements": "2023-08-26T16:05:17.5434411+00:00"
 }

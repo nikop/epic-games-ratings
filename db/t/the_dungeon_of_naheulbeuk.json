@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -720,9 +720,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 217535,
+  "EOS_Progressed": 217566,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2961,
+  "EOS_NewPlayers": 2960,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8380,6 +8380,11 @@
       "Time": "2023-08-26T15:01:45.3946571+00:00",
       "NumProgressed": 217535,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-26T16:02:05.5116857+00:00",
+      "NumProgressed": 217566,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -8423,7 +8428,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2175
+      "UsersEstimate": 2176
     },
     {
       "ID": "BookCollection",
@@ -8447,7 +8452,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2175
+      "UsersEstimate": 2176
     },
     {
       "ID": "Chapter3",
@@ -8463,7 +8468,7 @@
       "Name": "The demons\u0027 feast",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1740
+      "UsersEstimate": 1741
     },
     {
       "ID": "Chapter5",
@@ -8543,7 +8548,7 @@
       "Name": "The Woman in the High Castle",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1740
+      "UsersEstimate": 1741
     },
     {
       "ID": "DLC1ChooseNecro",
@@ -8839,7 +8844,7 @@
       "Name": "Sowwy!",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 52208
+      "UsersEstimate": 52216
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -8855,7 +8860,7 @@
       "Name": "GG EZ",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2175
+      "UsersEstimate": 2176
     },
     {
       "ID": "EndCombatOneHp",
@@ -8863,7 +8868,7 @@
       "Name": "DM intervention",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2175
+      "UsersEstimate": 2176
     },
     {
       "ID": "EndGameCursed",
@@ -8887,7 +8892,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6526
+      "UsersEstimate": 6527
     },
     {
       "ID": "FollowBraztok",
@@ -9039,7 +9044,7 @@
       "Name": "Speedrun",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2175
+      "UsersEstimate": 2176
     },
     {
       "ID": "SupportCount4",
@@ -9047,7 +9052,7 @@
       "Name": "Team Building Exercise",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1740
+      "UsersEstimate": 1741
     },
     {
       "ID": "SystematicallyStupid",
@@ -9071,7 +9076,7 @@
       "Name": "Oh, when I\u0027ll be level 10...",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1740
+      "UsersEstimate": 1741
     },
     {
       "ID": "WizardEpic",
@@ -9087,28 +9092,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2175
+      "UsersEstimate": 2176
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 217535,
+      "Progressed": 217566,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 217535,
+      "Progressed": 217566,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-25T15:02:30.1432618+00:00",
-  "LastChanged_Achievements": "2023-08-26T15:01:45.3946557+00:00",
+  "LastChanged_Achievements": "2023-08-26T16:02:05.5116853+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:41.9661267+00:00",
-  "LastUpdate_Ratings": "2023-08-26T15:01:43.560139+00:00",
-  "LastUpdate_Achievements": "2023-08-26T15:01:45.3970334+00:00"
+  "LastUpdate_Ratings": "2023-08-26T16:00:41.9233816+00:00",
+  "LastUpdate_Achievements": "2023-08-26T16:02:05.5118159+00:00"
 }

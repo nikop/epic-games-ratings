@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 22,
   "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
     "PcReleaseDate": "2022-03-18T05:00:00+00:00",
@@ -426,9 +426,9 @@
       "ID": "delusions",
       "SetID": "202dmm8",
       "Name": "Delusions",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 58
+      "UsersEstimate": 60
     },
     {
       "ID": "dont_fear_the_baldness",
@@ -474,9 +474,9 @@
       "ID": "prove_it",
       "SetID": "202dmm8",
       "Name": "Prove it",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 54
+      "UsersEstimate": 56
     },
     {
       "ID": "sorry_kiddo",
@@ -490,9 +490,9 @@
       "ID": "the_truth",
       "SetID": "202dmm8",
       "Name": "The truth",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 54
+      "UsersEstimate": 56
     },
     {
       "ID": "the_whole_truth",
@@ -531,8 +531,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-08-26T15:06:51.256649+00:00",
+  "LastChanged_Achievements": "2023-08-26T16:06:05.4684756+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:40.3079268+00:00",
-  "LastUpdate_Ratings": "2023-08-26T14:58:48.7841666+00:00",
-  "LastUpdate_Achievements": "2023-08-26T15:06:51.2566625+00:00"
+  "LastUpdate_Ratings": "2023-08-26T15:58:10.7668637+00:00",
+  "LastUpdate_Achievements": "2023-08-26T16:06:05.4684936+00:00"
 }
