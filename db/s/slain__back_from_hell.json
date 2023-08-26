@@ -217,9 +217,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 35213,
+  "EOS_Progressed": 35219,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 782,
+  "EOS_NewPlayers": 780,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -14332,6 +14332,11 @@
       "Time": "2023-08-26T17:03:08.6699821+00:00",
       "NumProgressed": 35213,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-08-26T18:02:23.4353394+00:00",
+      "NumProgressed": 35219,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 29,
@@ -14343,7 +14348,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 5282
+      "UsersEstimate": 5283
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -14351,7 +14356,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 7043
+      "UsersEstimate": 7044
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -14431,7 +14436,7 @@
       "Name": "Red In Tooth And Claw",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "ACH_14_DEFEATED_MOTHER_BEHOLDER",
@@ -14447,7 +14452,7 @@
       "Name": "Death Becomes Her",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "ACH_16_RETURNED_ICE_METEORS",
@@ -14479,7 +14484,7 @@
       "Name": "The Sky Is Falling",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "ACH_20_MULTI_KILL",
@@ -14519,7 +14524,7 @@
       "Name": "Hail the Great Horned Metal God!",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "ACH_25_TALISMAN_COMPLETE",
@@ -14527,7 +14532,7 @@
       "Name": "That\u0027ll Come In Handy...",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "ACH_26_VROLL_NO_DAMAGE",
@@ -14574,7 +14579,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 35213,
+      "Progressed": 35219,
       "Completed": 21
     }
   ],
@@ -14582,8 +14587,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-12T21:03:39.1122054+00:00",
-  "LastChanged_Achievements": "2023-08-26T17:03:08.6699816+00:00",
+  "LastChanged_Achievements": "2023-08-26T18:02:23.4353389+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:35.8741643+00:00",
-  "LastUpdate_Ratings": "2023-08-26T16:58:17.5685008+00:00",
-  "LastUpdate_Achievements": "2023-08-26T17:03:08.6700892+00:00"
+  "LastUpdate_Ratings": "2023-08-26T17:58:11.2100948+00:00",
+  "LastUpdate_Achievements": "2023-08-26T18:02:23.4354208+00:00"
 }

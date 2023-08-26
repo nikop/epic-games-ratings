@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 175,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
     "PcReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -154,7 +154,7 @@
   "Tags": [],
   "EOS_Progressed": 17532,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 198,
+  "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -10754,9 +10754,9 @@
       "ID": "ACH_AFTER_ALL",
       "SetID": "1blkama",
       "Name": "After All",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 90,
-      "UsersEstimate": 140
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_COUGHT_IN_A_TRAP",
@@ -10866,8 +10866,8 @@
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-08-16T03:57:34.8125865+00:00",
-  "LastChanged_Achievements": "2023-08-26T17:03:57.5641033+00:00",
+  "LastChanged_Achievements": "2023-08-26T18:03:42.1850967+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:59.8893769+00:00",
-  "LastUpdate_Ratings": "2023-08-26T16:58:44.3015418+00:00",
-  "LastUpdate_Achievements": "2023-08-26T17:03:57.5641752+00:00"
+  "LastUpdate_Ratings": "2023-08-26T17:58:38.741064+00:00",
+  "LastUpdate_Achievements": "2023-08-26T18:03:42.1851539+00:00"
 }

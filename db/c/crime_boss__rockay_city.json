@@ -4,11 +4,11 @@
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 951,
   "Ranking_Popularity": 215,
-  "Ranking_PopularitySum": 202,
+  "Ranking_PopularitySum": 203,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -3162,7 +3162,7 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 72341,
+  "EOS_Progressed": 72343,
   "EOS_Completed": 42,
   "EOS_NewPlayers": 292,
   "EOS_NewCompleters": 1,
@@ -16507,6 +16507,11 @@
       "Time": "2023-08-26T17:07:06.4507564+00:00",
       "NumProgressed": 72341,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-08-26T18:07:12.1120728+00:00",
+      "NumProgressed": 72343,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 37,
@@ -16518,7 +16523,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 36170
+      "UsersEstimate": 36172
     },
     {
       "ID": "ACH_0011",
@@ -16542,7 +16547,7 @@
       "Name": "Hidden Sonata",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 9404
+      "UsersEstimate": 9405
     },
     {
       "ID": "ACH_0014",
@@ -16590,7 +16595,7 @@
       "Name": "Savvy Seeker",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 4340
+      "UsersEstimate": 4341
     },
     {
       "ID": "ACH_0040",
@@ -16662,7 +16667,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 47022
+      "UsersEstimate": 47023
     },
     {
       "ID": "ACH_0210",
@@ -16670,7 +16675,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 53532
+      "UsersEstimate": 53534
     },
     {
       "ID": "ACH_0211",
@@ -16686,7 +16691,7 @@
       "Name": "Too Old for This",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 34724
+      "UsersEstimate": 34725
     },
     {
       "ID": "ACH_0300",
@@ -16734,7 +16739,7 @@
       "Name": "Case Closed",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 25319
+      "UsersEstimate": 25320
     },
     {
       "ID": "ACH_0420",
@@ -16742,7 +16747,7 @@
       "Name": "King of the Hill",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 24596
+      "UsersEstimate": 24597
     },
     {
       "ID": "ACH_0430",
@@ -16750,7 +16755,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 25319
+      "UsersEstimate": 25320
     },
     {
       "ID": "ACH_0431",
@@ -16774,7 +16779,7 @@
       "Name": "Off the Rocks",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 14468
+      "UsersEstimate": 14469
     },
     {
       "ID": "ACH_0451",
@@ -16813,22 +16818,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 72341,
+      "Progressed": 72343,
       "Completed": 42
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 688,
-      "Completed": 688
+      "Progressed": 690,
+      "Completed": 690
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-08-26T16:58:15.4424785+00:00",
-  "LastChanged_Achievements": "2023-08-26T17:07:06.450756+00:00",
+  "LastChanged_Achievements": "2023-08-26T18:07:12.1120724+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:33.2477495+00:00",
-  "LastUpdate_Ratings": "2023-08-26T16:58:15.4424793+00:00",
-  "LastUpdate_Achievements": "2023-08-26T17:07:06.4508622+00:00"
+  "LastUpdate_Ratings": "2023-08-26T17:58:08.9973482+00:00",
+  "LastUpdate_Achievements": "2023-08-26T18:07:12.112157+00:00"
 }

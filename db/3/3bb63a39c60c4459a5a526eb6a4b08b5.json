@@ -1966,9 +1966,9 @@
       "ID": "LargeAirport",
       "SetID": "1e89b4i",
       "Name": "Large Airport",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 75
     },
     {
       "ID": "LargeTerritories",
@@ -1998,9 +1998,9 @@
       "ID": "LongDistance",
       "SetID": "1e89b4i",
       "Name": "Long Distances",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 95
+      "UsersEstimate": 100
     },
     {
       "ID": "ManagementMaster",
@@ -2173,8 +2173,8 @@
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-08-26T17:04:07.1332411+00:00",
+  "LastChanged_Achievements": "2023-08-26T18:03:51.6958504+00:00",
   "LastUpdate_AppInfo": "2023-08-22T10:56:57.2309265+00:00",
-  "LastUpdate_Ratings": "2023-08-26T16:59:15.4539263+00:00",
-  "LastUpdate_Achievements": "2023-08-26T17:04:07.1332868+00:00"
+  "LastUpdate_Ratings": "2023-08-26T17:59:08.46979+00:00",
+  "LastUpdate_Achievements": "2023-08-26T18:03:51.695907+00:00"
 }

@@ -663,9 +663,9 @@
       "ID": "7",
       "SetID": "5e3maia",
       "Name": "Shamanslayer",
-      "Percentage": 76,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "70",
@@ -702,8 +702,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-08-26T17:05:19.7991117+00:00",
+  "LastChanged_Achievements": "2023-08-26T18:05:03.4814359+00:00",
   "LastUpdate_AppInfo": "2023-08-25T22:57:10.6988807+00:00",
-  "LastUpdate_Ratings": "2023-08-26T16:58:45.8235698+00:00",
-  "LastUpdate_Achievements": "2023-08-26T17:05:19.7991819+00:00"
+  "LastUpdate_Ratings": "2023-08-26T17:58:40.2404118+00:00",
+  "LastUpdate_Achievements": "2023-08-26T18:05:03.4815+00:00"
 }

@@ -18,7 +18,7 @@ Number of Ratings: 34  (23.09.2022)
 | Caught in a Trap | 12.00% | ~2,104 |
 | In For The Kill | 12.00% | ~2,104 |
 | Hello My Old Friend | 6.00% | ~1,052 |
-| After All | 0.80% | ~140 |
+| After All | 0.90% | ~158 |
 | Time of Our Life | 0.30% | ~53 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 17,532 (Ranked 112)  

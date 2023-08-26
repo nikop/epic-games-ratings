@@ -5,9 +5,9 @@
   "Ranking_Rating": 172,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
-  "Ranking_EOS_Progress": 264,
+  "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 296,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -61,9 +61,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 321,
+  "EOS_Progressed": 322,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -231,6 +231,11 @@
       "Time": "2023-08-16T17:06:20.467646+00:00",
       "NumProgressed": 321,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-26T18:07:12.9240144+00:00",
+      "NumProgressed": 322,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -378,7 +383,7 @@
       "Name": "A Strange Artefact",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "ach-campaign-story2",
@@ -386,7 +391,7 @@
       "Name": "Lost \u0026 Found \u0026 Lost Again",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ach-campaign-story3",
@@ -394,7 +399,7 @@
       "Name": "O Captain My Captain",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ach-cartography-complete",
@@ -418,7 +423,7 @@
       "Name": "Cartographer",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "ach-discover-locations-high",
@@ -522,7 +527,7 @@
       "Name": "Shortening of the Way",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ach-learn-traits",
@@ -568,9 +573,9 @@
       "ID": "ach-meetGhost",
       "SetID": "17ih7ma",
       "Name": "Spooky!",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 113
     },
     {
       "ID": "ach-noEquipment",
@@ -586,7 +591,7 @@
       "Name": "Insomnia",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ach-pacifist-goals",
@@ -650,7 +655,7 @@
       "Name": "Practical Palaeontology",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ach-rob-shrines",
@@ -721,7 +726,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 321,
+      "Progressed": 322,
       "Completed": 1
     }
   ],
@@ -729,8 +734,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-07-27T21:58:49.8030167+00:00",
-  "LastChanged_Achievements": "2023-08-26T17:07:07.2895226+00:00",
+  "LastChanged_Achievements": "2023-08-26T18:07:12.924014+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:09.8181915+00:00",
-  "LastUpdate_Ratings": "2023-08-26T16:59:01.5755796+00:00",
-  "LastUpdate_Achievements": "2023-08-26T17:07:07.2895821+00:00"
+  "LastUpdate_Ratings": "2023-08-26T17:58:52.907753+00:00",
+  "LastUpdate_Achievements": "2023-08-26T18:07:12.9240569+00:00"
 }

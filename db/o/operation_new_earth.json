@@ -4,8 +4,8 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1104,
+  "EOS_Progressed": 1105,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3866,6 +3866,11 @@
       "Time": "2023-08-26T16:04:06.9881912+00:00",
       "NumProgressed": 1104,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-26T18:04:03.6663736+00:00",
+      "NumProgressed": 1105,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -3995,17 +4000,17 @@
       "ID": "objective_hero_level_up_2",
       "SetID": "bm61c2p",
       "Name": "Sergeant",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 133
     },
     {
       "ID": "objective_hero_level_up_3",
       "SetID": "bm61c2p",
       "Name": "Lieutenant",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 110
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -4053,7 +4058,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -4180,14 +4185,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1104,
+      "Progressed": 1105,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-26T17:04:19.7485198+00:00",
+  "LastChanged_Achievements": "2023-08-26T18:04:03.6663732+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:58:05.1002416+00:00",
-  "LastUpdate_Ratings": "2023-08-26T16:58:49.2126482+00:00",
-  "LastUpdate_Achievements": "2023-08-26T17:04:19.74857+00:00"
+  "LastUpdate_Ratings": "2023-08-26T17:58:43.6790472+00:00",
+  "LastUpdate_Achievements": "2023-08-26T18:04:03.666412+00:00"
 }

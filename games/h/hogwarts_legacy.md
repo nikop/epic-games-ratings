@@ -5,23 +5,23 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 13.00% | ~37,809 |
+| The Sort Who Makes an Entrance | 13.00% | ~37,810 |
 | First Class Student | 11.00% | ~31,993 |
 | Troll with the Punches | 11.00% | ~31,993 |
-| The Hallowed Hero | 10.00% | ~29,084 |
-| The Defender of Dragons | 10.00% | ~29,084 |
-| A Keen Sense of Spell | 10.00% | ~29,084 |
-| A Talent for Spending | 10.00% | ~29,084 |
-| That's a Keeper | 10.00% | ~29,084 |
+| The Hallowed Hero | 10.00% | ~29,085 |
+| The Defender of Dragons | 10.00% | ~29,085 |
+| A Keen Sense of Spell | 10.00% | ~29,085 |
+| A Talent for Spending | 10.00% | ~29,085 |
+| That's a Keeper | 10.00% | ~29,085 |
 | Grappling with a Graphorn | 9.00% | ~26,176 |
 | The One Who Mastered Memories | 9.00% | ~26,176 |
 | The Hero of Hogwarts | 9.00% | ~26,176 |
 | Challenge Accepted | 9.00% | ~26,176 |
 | Loom for Improvement | 9.00% | ~26,176 |
 | Coasting Along | 9.00% | ~26,176 |
-| Followed the Butterflies | 8.00% | ~23,267 |
-| The Spell Master | 8.00% | ~23,267 |
-| Rising From the Ashes | 8.00% | ~23,267 |
+| Followed the Butterflies | 8.00% | ~23,268 |
+| The Spell Master | 8.00% | ~23,268 |
+| Rising From the Ashes | 8.00% | ~23,268 |
 | The Avenging Gazelle | 7.00% | ~20,359 |
 | Beast Friends | 7.00% | ~20,359 |
 | A Sallow Grave | 7.00% | ~20,359 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,745 |
 | Collector's Edition | 0.30% | ~873 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,842 (Ranked 43)  
+Progressed: 290,848 (Ranked 43)  
 Completed: 455 (0.16%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 455 (0.16%) (Ranked 195)
 | 2023-08-23 | 290,678 | 454 |
 | 2023-08-24 | 290,736 | 454 |
 | 2023-08-25 | 290,790 | 455 |
-| 2023-08-26 | 290,842 | 455 |
+| 2023-08-26 | 290,848 | 455 |
 ## Awards
 Max (Character Customization): 21,948  (Ranked 17)  
 Sum: 41,574 (Ranked 30)  

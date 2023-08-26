@@ -922,9 +922,9 @@
       "ID": "ach_13",
       "SetID": "392n4e7",
       "Name": "Baran Senior Warrant Officer Grade 5",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "ach_14",
@@ -1073,8 +1073,8 @@
   ],
   "FirstSeen": "2023-06-10T14:58:14.6297429+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:08.6528344+00:00",
-  "LastChanged_Achievements": "2023-08-26T17:05:09.9915169+00:00",
+  "LastChanged_Achievements": "2023-08-26T18:04:54.2400057+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:44.9421072+00:00",
-  "LastUpdate_Ratings": "2023-08-26T17:00:14.2632255+00:00",
-  "LastUpdate_Achievements": "2023-08-26T17:05:09.9915359+00:00"
+  "LastUpdate_Ratings": "2023-08-26T18:00:07.3827799+00:00",
+  "LastUpdate_Achievements": "2023-08-26T18:04:54.240023+00:00"
 }

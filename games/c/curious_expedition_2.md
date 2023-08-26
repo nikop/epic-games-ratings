@@ -7,17 +7,17 @@ Number of Ratings: 20  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Adventure Begins | 61.00% | ~196 |
-| Cartographer | 54.00% | ~173 |
-| A Strange Artefact | 50.00% | ~160 |
-| Insomnia | 45.00% | ~144 |
+| Cartographer | 54.00% | ~174 |
+| A Strange Artefact | 50.00% | ~161 |
+| Insomnia | 45.00% | ~145 |
 | From Whence we Came | 41.00% | ~132 |
-| Lost & Found & Lost Again | 40.00% | ~128 |
+| Lost & Found & Lost Again | 40.00% | ~129 |
 | Fire and Flood | 38.00% | ~122 |
-| Spooky! | 36.00% | ~116 |
+| Spooky! | 35.00% | ~113 |
 | Shennong Herbalist | 33.00% | ~106 |
 | Treasure Hunt | 32.00% | ~103 |
 | Good Mama | 31.00% | ~100 |
-| O Captain My Captain | 30.00% | ~96 |
+| O Captain My Captain | 30.00% | ~97 |
 | Taxonomist | 27.00% | ~87 |
 | Plunderer | 27.00% | ~87 |
 | Uncertain Loyalties | 25.00% | ~80 |
@@ -27,8 +27,8 @@ Number of Ratings: 20  (23.09.2022)
 | Red Flag Pirate | 19.00% | ~61 |
 | Veteran Explorer | 19.00% | ~61 |
 | Iron Man | 17.00% | ~55 |
-| Shortening of the Way | 16.00% | ~51 |
-| Practical Palaeontology | 16.00% | ~51 |
+| Shortening of the Way | 16.00% | ~52 |
+| Practical Palaeontology | 16.00% | ~52 |
 | For the Club! | 15.00% | ~48 |
 | A Gentle Beast | 15.00% | ~48 |
 | The New Director | 14.00% | ~45 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.60% | ~2 |
 | Now I've Seen It All | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 321 (Ranked 264)  
+Progressed: 322 (Ranked 263)  
 Completed: 1 (0.31%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,6 +99,7 @@ Completed: 1 (0.31%) (Ranked 172)
 | 2023-07-08 | 319 | 1 |
 | 2023-07-20 | 320 | 1 |
 | 2023-08-16 | 321 | 1 |
+| 2023-08-26 | 322 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

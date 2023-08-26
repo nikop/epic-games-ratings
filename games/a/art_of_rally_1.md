@@ -44,7 +44,7 @@ Number of Ratings: 56  (23.09.2022)
 | if in doubt, flat out! | 5.00% | ~511 |
 | comfy seats | 4.00% | ~408 |
 | simulator | 3.00% | ~306 |
-| real roads, real fast | 2.00% | ~204 |
+| real roads, real fast | 3.00% | ~306 |
 | absolute drift | 0.90% | ~92 |
 | you're here for a good time, not a long time | 0.80% | ~82 |
 | if everything seems under control, you're not going fast enough | 0.40% | ~41 |

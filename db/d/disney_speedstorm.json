@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 52,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 24,
+  "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -4423,9 +4423,9 @@
       "ID": "12",
       "SetID": "9p3jgda",
       "Name": "TRAINING HARD",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 469
+      "UsersEstimate": 500
     },
     {
       "ID": "13",
@@ -4597,8 +4597,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-08-26T17:03:12.0197005+00:00",
+  "LastChanged_Achievements": "2023-08-26T18:02:26.7187963+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:21.5696846+00:00",
-  "LastUpdate_Ratings": "2023-08-26T16:57:18.3025116+00:00",
-  "LastUpdate_Achievements": "2023-08-26T17:03:12.019742+00:00"
+  "LastUpdate_Ratings": "2023-08-26T17:57:13.276923+00:00",
+  "LastUpdate_Achievements": "2023-08-26T18:02:26.7188302+00:00"
 }

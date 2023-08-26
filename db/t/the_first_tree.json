@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -244,9 +244,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 35333,
+  "EOS_Progressed": 35336,
   "EOS_Completed": 108,
-  "EOS_NewPlayers": 279,
+  "EOS_NewPlayers": 280,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -11974,6 +11974,11 @@
       "Time": "2023-08-26T17:06:38.8813615+00:00",
       "NumProgressed": 35333,
       "NumCompleted": 108
+    },
+    {
+      "Time": "2023-08-26T18:06:24.0213603+00:00",
+      "NumProgressed": 35336,
+      "NumCompleted": 108
     }
   ],
   "TotalAchievements": 14,
@@ -12065,7 +12070,7 @@
       "Name": "Hare Today",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 8833
+      "UsersEstimate": 8834
     },
     {
       "ID": "firstItem",
@@ -12073,7 +12078,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 27206
+      "UsersEstimate": 27209
     },
     {
       "ID": "roots",
@@ -12096,15 +12101,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 35333,
+      "Progressed": 35336,
       "Completed": 108
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-07-24T04:01:31.3679912+00:00",
-  "LastChanged_Achievements": "2023-08-26T17:06:38.8813611+00:00",
+  "LastChanged_Achievements": "2023-08-26T18:06:24.0213598+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:58:04.8556471+00:00",
-  "LastUpdate_Ratings": "2023-08-26T16:58:48.8318711+00:00",
-  "LastUpdate_Achievements": "2023-08-26T17:06:38.8814394+00:00"
+  "LastUpdate_Ratings": "2023-08-26T17:58:43.3152075+00:00",
+  "LastUpdate_Achievements": "2023-08-26T18:06:24.0214231+00:00"
 }

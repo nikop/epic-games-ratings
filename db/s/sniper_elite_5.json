@@ -6273,9 +6273,9 @@
       "ID": "REWARD_16_FIELDS_OF_GLORY",
       "SetID": "bm6el81",
       "Name": "Fields of Glory",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 459
+      "UsersEstimate": 494
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -6737,9 +6737,9 @@
       "ID": "REWARD_DLC02_02_OPERATION_OVERLORD",
       "SetID": "83mdf7p",
       "Name": "Operation Overlord",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 24
+      "UsersEstimate": 28
     },
     {
       "ID": "REWARD_DLC03_01_IF_YOU_GO_DOWN_TO_THE_WOODS_TODAY",
@@ -6808,8 +6808,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-08-19T13:59:32.9786794+00:00",
-  "LastChanged_Achievements": "2023-08-26T17:05:12.03506+00:00",
+  "LastChanged_Achievements": "2023-08-26T18:04:56.253106+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:12.9306959+00:00",
-  "LastUpdate_Ratings": "2023-08-26T16:59:06.6701407+00:00",
-  "LastUpdate_Achievements": "2023-08-26T17:05:12.0351654+00:00"
+  "LastUpdate_Ratings": "2023-08-26T17:58:58.4598889+00:00",
+  "LastUpdate_Achievements": "2023-08-26T18:04:56.2531864+00:00"
 }

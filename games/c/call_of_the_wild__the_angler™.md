@@ -6,21 +6,21 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 77.00% | ~3,952 |
-| Hey Good Hookin | 67.00% | ~3,439 |
-| I'm on a Boat! | 57.00% | ~2,926 |
-| Can you smell what the Rod is Hooking | 52.00% | ~2,669 |
-| Scaling up | 52.00% | ~2,669 |
-| More Fish in the Sea | 44.00% | ~2,259 |
-| Ready to Rod and Roll | 43.00% | ~2,207 |
-| Fish Out of Water | 33.00% | ~1,694 |
-| License to Gill | 33.00% | ~1,694 |
-| Things that go Splash in the Night | 28.00% | ~1,437 |
-| Goldfish? | 27.00% | ~1,386 |
-| Going for Gold | 24.00% | ~1,232 |
-| I'm Hooked! | 19.00% | ~975 |
-| Diamond in the Rough | 13.00% | ~667 |
-| More than a Tourist | 12.00% | ~616 |
+| Fish Just Got Reel | 77.00% | ~3,959 |
+| Hey Good Hookin | 67.00% | ~3,444 |
+| I'm on a Boat! | 57.00% | ~2,930 |
+| Can you smell what the Rod is Hooking | 52.00% | ~2,673 |
+| Scaling up | 52.00% | ~2,673 |
+| More Fish in the Sea | 44.00% | ~2,262 |
+| Ready to Rod and Roll | 43.00% | ~2,211 |
+| Fish Out of Water | 33.00% | ~1,697 |
+| License to Gill | 33.00% | ~1,697 |
+| Things that go Splash in the Night | 28.00% | ~1,439 |
+| Goldfish? | 27.00% | ~1,388 |
+| Going for Gold | 24.00% | ~1,234 |
+| I'm Hooked! | 19.00% | ~977 |
+| Diamond in the Rough | 13.00% | ~668 |
+| More than a Tourist | 12.00% | ~617 |
 | Hook, Line and Sinker | 8.00% | ~411 |
 | Marathon | 8.00% | ~411 |
 | School's Out for Summer | 6.00% | ~308 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.10% | ~5 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,133 (Ranked 145)  
+Progressed: 5,141 (Ranked 144)  
 Completed: 0 (0.00%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,11 +170,11 @@ Completed: 0 (0.00%) (Ranked 264)
 | 2023-08-23 | 4,959 | 0 |
 | 2023-08-24 | 4,986 | 0 |
 | 2023-08-25 | 5,062 | 0 |
-| 2023-08-26 | 5,133 | 0 |
+| 2023-08-26 | 5,141 | 0 |
 ## Awards
 Max (Relaxing): 33  (Ranked 449)  
-Sum: 163 (Ranked 391)  
-Diff (max vs sum): 58  
+Sum: 163 (Ranked 392)  
+Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 33 |

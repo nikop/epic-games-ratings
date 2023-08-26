@@ -25,6 +25,7 @@ Rating: 4.45 (Ranked 634)
 | Climbing the Ladder | 15.00% | ~530 |
 | Der Geist | 15.00% | ~530 |
 | Close Quarters | 15.00% | ~530 |
+| Fields of Glory | 14.00% | ~494 |
 | Skirmisher | 14.00% | ~494 |
 | Die Nussknacker Sweet! | 14.00% | ~494 |
 | Snake in the Grass | 14.00% | ~494 |
@@ -32,7 +33,6 @@ Rating: 4.45 (Ranked 634)
 | No Stone Unturned | 13.00% | ~459 |
 | Opposing Force | 13.00% | ~459 |
 | Enemy at the Gates | 13.00% | ~459 |
-| Fields of Glory | 13.00% | ~459 |
 | Set Europe Ablaze | 12.00% | ~424 |
 | Precision Is Key | 9.00% | ~318 |
 | My Little Friend | 9.00% | ~318 |
@@ -71,9 +71,9 @@ Rating: 4.45 (Ranked 634)
 | Das Familienjuwel | 1.00% | ~35 |
 | Master of Secondaries | 0.90% | ~32 |
 | Master of Rifles | 0.80% | ~28 |
+| Operation Overlord | 0.80% | ~28 |
 | Master of Pistols | 0.70% | ~25 |
 | Master-at-arms | 0.70% | ~25 |
-| Operation Overlord | 0.70% | ~24 |
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)

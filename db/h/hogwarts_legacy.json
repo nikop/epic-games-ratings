@@ -6792,9 +6792,9 @@
       "Count": 603
     }
   ],
-  "EOS_Progressed": 290842,
+  "EOS_Progressed": 290848,
   "EOS_Completed": 455,
-  "EOS_NewPlayers": 430,
+  "EOS_NewPlayers": 431,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -20587,6 +20587,11 @@
       "Time": "2023-08-26T17:03:22.2474278+00:00",
       "NumProgressed": 290842,
       "NumCompleted": 455
+    },
+    {
+      "Time": "2023-08-26T18:03:06.3500382+00:00",
+      "NumProgressed": 290848,
+      "NumCompleted": 455
     }
   ],
   "TotalAchievements": 45,
@@ -20598,7 +20603,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 37809
+      "UsersEstimate": 37810
     },
     {
       "ID": "PFA_10",
@@ -20622,7 +20627,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 29084
+      "UsersEstimate": 29085
     },
     {
       "ID": "PFA_13",
@@ -20654,7 +20659,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29084
+      "UsersEstimate": 29085
     },
     {
       "ID": "PFA_17",
@@ -20718,7 +20723,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29084
+      "UsersEstimate": 29085
     },
     {
       "ID": "PFA_24",
@@ -20782,7 +20787,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29084
+      "UsersEstimate": 29085
     },
     {
       "ID": "PFA_31",
@@ -20822,7 +20827,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23267
+      "UsersEstimate": 23268
     },
     {
       "ID": "PFA_36",
@@ -20902,7 +20907,7 @@
       "Name": "The Spell Master",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23267
+      "UsersEstimate": 23268
     },
     {
       "ID": "PFA_45",
@@ -20942,7 +20947,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29084
+      "UsersEstimate": 29085
     },
     {
       "ID": "PFA_9",
@@ -20950,14 +20955,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23267
+      "UsersEstimate": 23268
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 290842,
+      "Progressed": 290848,
       "Completed": 455
     }
   ],
@@ -20965,8 +20970,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-08-26T16:59:43.2644841+00:00",
-  "LastChanged_Achievements": "2023-08-26T17:03:22.2474272+00:00",
+  "LastChanged_Achievements": "2023-08-26T18:03:06.3500378+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:27.4425386+00:00",
-  "LastUpdate_Ratings": "2023-08-26T16:59:43.2644848+00:00",
-  "LastUpdate_Achievements": "2023-08-26T17:03:22.2475438+00:00"
+  "LastUpdate_Ratings": "2023-08-26T17:59:35.6609811+00:00",
+  "LastUpdate_Achievements": "2023-08-26T18:03:06.3501305+00:00"
 }
