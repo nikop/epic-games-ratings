@@ -2454,18 +2454,24 @@
       "Rating": 4.18,
       "NumberOfAwards": 4192,
       "NumberOfAwardsMax": 2518
+    },
+    {
+      "Time": "2023-08-26T06:58:53.6982436+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4196,
+      "NumberOfAwardsMax": 2522
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4192,
-  "NumberOfAwardsMax": 2518,
+  "NumberOfAwards": 4196,
+  "NumberOfAwardsMax": 2522,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2518
+      "Count": 2522
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2522,9 +2528,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 68035,
+  "EOS_Progressed": 68036,
   "EOS_Completed": 109,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -13202,6 +13208,11 @@
       "Time": "2023-08-26T06:08:22.3999636+00:00",
       "NumProgressed": 68035,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2023-08-26T07:08:32.4828152+00:00",
+      "NumProgressed": 68036,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 61,
@@ -13317,7 +13328,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 14287
+      "UsersEstimate": 14288
     },
     {
       "ID": "CLAYFACE_2",
@@ -13357,7 +13368,7 @@
       "Name": "Fusion Expert",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 4762
+      "UsersEstimate": 4763
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -13517,7 +13528,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 23812
+      "UsersEstimate": 23813
     },
     {
       "ID": "HARLEY_2",
@@ -13589,7 +13600,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 18369
+      "UsersEstimate": 18370
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -13700,22 +13711,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 68035,
+      "Progressed": 68036,
       "Completed": 109
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38315,
+      "Progressed": 38316,
       "Completed": 2659
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-08-25T03:58:20.3909572+00:00",
-  "LastChanged_Achievements": "2023-08-26T06:08:22.3999624+00:00",
+  "LastChanged": "2023-08-26T06:58:53.6982433+00:00",
+  "LastChanged_Achievements": "2023-08-26T07:08:32.4828148+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:36.1459925+00:00",
-  "LastUpdate_Ratings": "2023-08-26T05:58:21.9498087+00:00",
-  "LastUpdate_Achievements": "2023-08-26T06:08:22.4000975+00:00"
+  "LastUpdate_Ratings": "2023-08-26T06:58:53.6982441+00:00",
+  "LastUpdate_Achievements": "2023-08-26T07:08:32.4829426+00:00"
 }

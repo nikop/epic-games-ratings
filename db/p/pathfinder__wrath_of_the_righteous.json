@@ -2,7 +2,7 @@
   "ID": "975d251af0384c88a898a996bda4881d",
   "Name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
-  "Ranking_Rating": 118,
+  "Ranking_Rating": 117,
   "Ranking_Popularity": 118,
   "Ranking_PopularitySum": 114,
   "Ranking_EOS_Progress": 122,
@@ -3536,9 +3536,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 11077,
+  "EOS_Progressed": 11078,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11321,6 +11321,11 @@
       "Time": "2023-08-26T06:06:46.5503064+00:00",
       "NumProgressed": 11077,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-26T07:07:02.6643535+00:00",
+      "NumProgressed": 11078,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -11532,7 +11537,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1218
+      "UsersEstimate": 1219
     },
     {
       "ID": "28_GreatUpstart",
@@ -11578,9 +11583,9 @@
       "ID": "33_DefendersHeart",
       "SetID": "989of5o",
       "Name": "Defender\u0027s Heart",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1440
+      "UsersEstimate": 1551
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -12259,21 +12264,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9859,
+      "Progressed": 9860,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11077,
+      "Progressed": 11078,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-23T13:04:06.393487+00:00",
-  "LastChanged_Achievements": "2023-08-26T06:06:46.5503058+00:00",
+  "LastChanged_Achievements": "2023-08-26T07:07:02.6643532+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:48.9326646+00:00",
-  "LastUpdate_Ratings": "2023-08-26T06:02:00.3381417+00:00",
-  "LastUpdate_Achievements": "2023-08-26T06:06:46.5504989+00:00"
+  "LastUpdate_Ratings": "2023-08-26T07:02:02.6301642+00:00",
+  "LastUpdate_Achievements": "2023-08-26T07:07:02.6645747+00:00"
 }

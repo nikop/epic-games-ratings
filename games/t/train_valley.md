@@ -33,9 +33,9 @@ Number of Ratings: 28  (23.09.2022)
 | Japan | 9.00% | ~40 |
 | Tycoon | 8.00% | ~36 |
 | Germany | 6.00% | ~27 |
+| Peacemaker | 5.00% | ~22 |
 | Chuck Norris | 5.00% | ~22 |
 | Сhancellor | 4.00% | ~18 |
-| Peacemaker | 4.00% | ~18 |
 | Supercrash! | 4.00% | ~18 |
 | Forgotten | 3.00% | ~13 |
 | Lucky vandal | 2.00% | ~9 |

@@ -1694,9 +1694,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 56242,
+  "EOS_Progressed": 56243,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 721,
+  "EOS_NewPlayers": 719,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15549,6 +15549,11 @@
       "Time": "2023-08-26T06:04:48.1171121+00:00",
       "NumProgressed": 56242,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-26T07:05:12.7327873+00:00",
+      "NumProgressed": 56243,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -15560,7 +15565,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 30933
+      "UsersEstimate": 30934
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -15816,7 +15821,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 17997
+      "UsersEstimate": 17998
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -15848,7 +15853,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 35432
+      "UsersEstimate": 35433
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -15904,7 +15909,7 @@
       "Name": "Manual Labour I",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 14060
+      "UsersEstimate": 14061
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS2",
@@ -15928,7 +15933,7 @@
       "Name": "Setting an example",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 43306
+      "UsersEstimate": 43307
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -15976,7 +15981,7 @@
       "Name": "Furchtlos und Treu",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7311
+      "UsersEstimate": 7312
     },
     {
       "ID": "VERDUN_ACH_SCOTTISH",
@@ -16031,15 +16036,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 56242,
+      "Progressed": 56243,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-08-25T11:02:00.0480164+00:00",
-  "LastChanged_Achievements": "2023-08-26T06:04:48.1171115+00:00",
+  "LastChanged_Achievements": "2023-08-26T07:05:12.7327868+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:55.9821286+00:00",
-  "LastUpdate_Ratings": "2023-08-26T06:02:08.0681629+00:00",
-  "LastUpdate_Achievements": "2023-08-26T06:04:48.1172629+00:00"
+  "LastUpdate_Ratings": "2023-08-26T07:02:08.2668572+00:00",
+  "LastUpdate_Achievements": "2023-08-26T07:05:12.7329356+00:00"
 }

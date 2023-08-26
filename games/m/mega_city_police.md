@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Welcome to Mega City | 10.00% | ~3 |
+| The Hunt | 6.00% | ~2 |
 | Licence To Kill | 6.00% | ~2 |
 | Gibbing Love | 3.00% | ~1 |
 | Vintage Collector | 3.00% | ~1 |
 | Overkill | 3.00% | ~1 |
 | Flawless Victory | 3.00% | ~1 |
-| The Hunt | 3.00% | ~1 |
 | Hammer Time | 3.00% | ~1 |
 | Escape From M.C. | 3.00% | ~1 |
 | Restore Honor | 3.00% | ~1 |

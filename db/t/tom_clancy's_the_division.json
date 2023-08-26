@@ -2,12 +2,12 @@
   "ID": "03ecca4e19a9483aa05b3d99948c43ce",
   "Name": "Tom Clancy\u0027s The Division",
   "ProductSlug": "the-division",
-  "Ranking_Rating": 426,
+  "Ranking_Rating": 415,
   "Ranking_Popularity": 234,
   "Ranking_PopularitySum": 263,
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewPlayers": 342,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2016-03-08T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.58,
+  "Rating": 4.59,
   "NumberOfRatings": 247,
   "RatingHistory": [
     {
@@ -1508,10 +1508,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 796,
       "NumberOfAwardsMax": 319
+    },
+    {
+      "Time": "2023-08-26T06:59:14.1611454+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 797,
+      "NumberOfAwardsMax": 319
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 796,
+  "NumberOfAwards": 797,
   "NumberOfAwardsMax": 319,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1567,7 +1573,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game is Relaxing",
@@ -1611,8 +1617,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:11.4605071+00:00",
-  "LastChanged": "2023-08-25T20:59:04.5373574+00:00",
+  "LastChanged": "2023-08-26T06:59:14.1611453+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:57.6729968+00:00",
-  "LastUpdate_Ratings": "2023-08-26T05:58:41.0745017+00:00",
-  "LastUpdate_Achievements": "2023-08-26T06:07:13.2589943+00:00"
+  "LastUpdate_Ratings": "2023-08-26T06:59:14.1611458+00:00",
+  "LastUpdate_Achievements": "2023-08-26T07:07:27.6867148+00:00"
 }

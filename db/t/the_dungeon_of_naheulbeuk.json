@@ -2,7 +2,7 @@
   "ID": "456d95ca54814c8d98db2f52346ff5de",
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
-  "Ranking_Rating": 426,
+  "Ranking_Rating": 427,
   "Ranking_Popularity": 284,
   "Ranking_PopularitySum": 363,
   "Ranking_EOS_Progress": 56,
@@ -720,9 +720,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 217336,
+  "EOS_Progressed": 217348,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2982,
+  "EOS_NewPlayers": 2973,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8340,6 +8340,11 @@
       "Time": "2023-08-26T06:03:46.3637612+00:00",
       "NumProgressed": 217336,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-26T07:04:16.2664466+00:00",
+      "NumProgressed": 217348,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -8799,7 +8804,7 @@
       "Name": "Sowwy!",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 52161
+      "UsersEstimate": 52164
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -9054,21 +9059,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 217336,
+      "Progressed": 217348,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 217336,
+      "Progressed": 217348,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-25T15:02:30.1432618+00:00",
-  "LastChanged_Achievements": "2023-08-26T06:03:46.3637604+00:00",
+  "LastChanged_Achievements": "2023-08-26T07:04:16.2664461+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:36.4163589+00:00",
-  "LastUpdate_Ratings": "2023-08-26T06:02:29.3948991+00:00",
-  "LastUpdate_Achievements": "2023-08-26T06:03:46.3639194+00:00"
+  "LastUpdate_Ratings": "2023-08-26T07:03:04.8430141+00:00",
+  "LastUpdate_Achievements": "2023-08-26T07:04:16.2666013+00:00"
 }

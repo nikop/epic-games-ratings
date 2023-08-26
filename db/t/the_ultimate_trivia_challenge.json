@@ -4,7 +4,7 @@
   "ProductSlug": "the-ultimate-trivia-challenge-c9cd44",
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewPlayers": 342,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-04-14T23:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-04-25T13:04:39.1914861+00:00",
   "LastChanged": "2023-04-25T13:04:39.1914862+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:12.4388026+00:00",
-  "LastUpdate_Ratings": "2023-08-26T06:02:24.435319+00:00",
-  "LastUpdate_Achievements": "2023-08-26T04:02:18.0674556+00:00"
+  "LastUpdate_Ratings": "2023-08-26T07:02:20.3389089+00:00",
+  "LastUpdate_Achievements": "2023-08-26T07:03:07.2741555+00:00"
 }

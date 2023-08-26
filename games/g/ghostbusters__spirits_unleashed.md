@@ -1,7 +1,7 @@
 # Ghostbusters: Spirits Unleashed
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.49 (Ranked 581)  
+Rating: 4.49 (Ranked 580)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -24,10 +24,10 @@ Rating: 4.49 (Ranked 581)
 | Ghostbuster In Training | 30.00% | ~7,603 |
 | Icing on the Cake | 30.00% | ~7,603 |
 | Side Hustle | 27.00% | ~6,843 |
+| Summoner | 27.00% | ~6,843 |
 | We have the best insurance | 26.00% | ~6,589 |
 | Legions | 26.00% | ~6,589 |
 | Right back at ya | 26.00% | ~6,589 |
-| Summoner | 26.00% | ~6,589 |
 | Pesky Jerks | 25.00% | ~6,336 |
 | Stunner | 25.00% | ~6,336 |
 | Animated | 24.00% | ~6,083 |

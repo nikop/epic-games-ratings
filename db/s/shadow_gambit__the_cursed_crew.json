@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 499,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 241,
+  "EOS_NewPlayers": 240,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -1020,9 +1020,9 @@
       "ID": "_04_CollectAllRelics",
       "SetID": "8a1io5d",
       "Name": "This Belongs in a Museum",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 150
     },
     {
       "ID": "_05_FinishAct2",
@@ -1211,8 +1211,8 @@
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-26T06:05:12.1402073+00:00",
+  "LastChanged_Achievements": "2023-08-26T07:05:34.8029192+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:01.7621403+00:00",
-  "LastUpdate_Ratings": "2023-08-26T06:01:25.2385154+00:00",
-  "LastUpdate_Achievements": "2023-08-26T06:05:12.1402348+00:00"
+  "LastUpdate_Ratings": "2023-08-26T07:01:32.898662+00:00",
+  "LastUpdate_Achievements": "2023-08-26T07:05:34.8029443+00:00"
 }

@@ -6,15 +6,15 @@ Rating: 4.18 (Ranked 875)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 50.00% | ~34,018 |
-| Har, Har, Har, Very Funny | 35.00% | ~23,812 |
+| Har, Har, Har, Very Funny | 35.00% | ~23,813 |
 | Loose Ends | 34.00% | ~23,132 |
 | To the Victor Go the Spoils | 28.00% | ~19,050 |
-| Knighthood | 27.00% | ~18,369 |
+| Knighthood | 27.00% | ~18,370 |
 | Get ReQ'd | 25.00% | ~17,009 |
 | Whispered Words | 25.00% | ~17,009 |
 | The Batman Family | 22.00% | ~14,968 |
 | Lock and Key | 22.00% | ~14,968 |
-| Something in the Clay | 21.00% | ~14,287 |
+| Something in the Clay | 21.00% | ~14,288 |
 | Quartzer Life Crisis | 20.00% | ~13,607 |
 | Working Hard or Harley Working? | 20.00% | ~13,607 |
 | Unstoppable Force | 20.00% | ~13,607 |
@@ -38,7 +38,7 @@ Rating: 4.18 (Ranked 875)
 | Drone You Out | 10.00% | ~6,804 |
 | Out of Their League | 9.00% | ~6,123 |
 | Solid Alibi | 9.00% | ~6,123 |
-| Fusion Expert | 7.00% | ~4,762 |
+| Fusion Expert | 7.00% | ~4,763 |
 | Family Meeting | 6.00% | ~4,082 |
 | A Worthy Successor | 6.00% | ~4,082 |
 | Expert Crime Fighter | 5.00% | ~3,402 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 875)
 | Element of Surprise | 0.20% | ~77 |
 | It's Nice to Be Wanted | 0.20% | ~77 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,035 (Ranked 81)  
+Progressed: 68,036 (Ranked 81)  
 Completed: 109 (0.16%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,14 +195,14 @@ Completed: 109 (0.16%) (Ranked 195)
 | 2023-08-23 | 68,002 | 109 |
 | 2023-08-24 | 68,017 | 109 |
 | 2023-08-25 | 68,028 | 109 |
-| 2023-08-26 | 68,035 | 109 |
+| 2023-08-26 | 68,036 | 109 |
 ## Awards
-Max (Great Boss Battles): 2,518  (Ranked 100)  
-Sum: 4,192 (Ranked 139)  
+Max (Great Boss Battles): 2,522  (Ranked 100)  
+Sum: 4,196 (Ranked 139)  
 Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,518 |
+| This game has Great Boss Battles | 2,522 |
 | This game is Relaxing | 216 |
 | This game is Extremely Fun | 216 |
 | This game has Quickly Understood Controls | 213 |
@@ -397,3 +397,4 @@ Diff (max vs sum): -39
 | 2023-08-22 | 4.18 | 2,515 | 4,187 |
 | 2023-08-23 | 4.18 | 2,515 | 4,188 |
 | 2023-08-25 | 4.18 | 2,518 | 4,192 |
+| 2023-08-26 | 4.18 | 2,522 | 4,196 |

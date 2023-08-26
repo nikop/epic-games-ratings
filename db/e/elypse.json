@@ -586,9 +586,9 @@
       "ID": "Ach_DiscoveryTuto",
       "SetID": "4o5gjp0",
       "Name": "A path of no return",
-      "Percentage": 99,
+      "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "Ach_DiveDeath",
@@ -729,8 +729,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-08-26T06:07:35.0386027+00:00",
+  "LastChanged_Achievements": "2023-08-26T07:07:48.502409+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:10.7313568+00:00",
-  "LastUpdate_Ratings": "2023-08-26T06:01:34.8671796+00:00",
-  "LastUpdate_Achievements": "2023-08-26T06:07:35.0386285+00:00"
+  "LastUpdate_Ratings": "2023-08-26T07:01:39.6583867+00:00",
+  "LastUpdate_Achievements": "2023-08-26T07:07:48.5024352+00:00"
 }

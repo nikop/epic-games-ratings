@@ -6,38 +6,38 @@ Number of Ratings: 2,731  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 37.00% | ~27,110 |
-| Final touch | 37.00% | ~27,110 |
-| Prop-M Rover | 32.00% | ~23,446 |
+| It's a steal! | 37.00% | ~27,111 |
+| Final touch | 37.00% | ~27,111 |
+| Prop-M Rover | 32.00% | ~23,447 |
 | Changing the Planet | 28.00% | ~20,516 |
-| Sojourner | 27.00% | ~19,783 |
-| New Home | 24.00% | ~17,585 |
-| Beagle 2 | 24.00% | ~17,585 |
-| Winner Winner Terraformer | 22.00% | ~16,119 |
-| Project Manager | 20.00% | ~14,654 |
-| Curiosity | 19.00% | ~13,921 |
-| Collector | 19.00% | ~13,921 |
-| Self-sufficient | 19.00% | ~13,921 |
-| Master | 19.00% | ~13,921 |
+| Sojourner | 27.00% | ~19,784 |
+| New Home | 24.00% | ~17,586 |
+| Beagle 2 | 24.00% | ~17,586 |
+| Winner Winner Terraformer | 22.00% | ~16,120 |
+| Project Manager | 20.00% | ~14,655 |
+| Curiosity | 19.00% | ~13,922 |
+| Collector | 19.00% | ~13,922 |
+| Self-sufficient | 19.00% | ~13,922 |
+| Master | 19.00% | ~13,922 |
 | No Longer Red | 18.00% | ~13,189 |
-| Money money | 16.00% | ~11,723 |
+| Money money | 16.00% | ~11,724 |
 | Biggest Reward | 14.00% | ~10,258 |
 | Acquired knowledge | 13.00% | ~9,525 |
-| First Journey | 12.00% | ~8,792 |
-| Hellenic Elysium | 12.00% | ~8,792 |
-| Grand champion | 12.00% | ~8,792 |
+| First Journey | 12.00% | ~8,793 |
+| Hellenic Elysium | 12.00% | ~8,793 |
+| Grand champion | 12.00% | ~8,793 |
 | Landlord | 11.00% | ~8,060 |
 | Most Achievements | 11.00% | ~8,060 |
 | Spirit | 10.00% | ~7,327 |
 | Ultimate success | 10.00% | ~7,327 |
-| Variety Expert | 9.00% | ~6,594 |
+| Variety Expert | 9.00% | ~6,595 |
 | Frequent tester | 8.00% | ~5,862 |
 | Determined | 8.00% | ~5,862 |
 | Terraformer | 4.00% | ~2,931 |
 | Team Effort | 3.00% | ~2,198 |
 | Opportunity | 3.00% | ~2,198 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,270 (Ranked 78)  
+Progressed: 73,273 (Ranked 78)  
 Completed: 93 (0.13%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 93 (0.13%) (Ranked 202)
 | 2023-08-23 | 72,972 | 93 |
 | 2023-08-24 | 73,081 | 93 |
 | 2023-08-25 | 73,244 | 93 |
-| 2023-08-26 | 73,270 | 93 |
+| 2023-08-26 | 73,273 | 93 |
 ## Awards
 Max (Relaxing): 511  (Ranked 197)  
 Sum: 3,149 (Ranked 158)  
