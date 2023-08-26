@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9083,
+  "EOS_Progressed": 9088,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 776,
+  "EOS_NewPlayers": 778,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3147,6 +3147,11 @@
       "Time": "2023-08-26T01:46:24.5109885+00:00",
       "NumProgressed": 9083,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-26T02:19:41.8955127+00:00",
+      "NumProgressed": 9088,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -3199,7 +3204,7 @@
       "Name": "Doctor Approved",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 1544
+      "UsersEstimate": 1545
     },
     {
       "ID": "15",
@@ -3207,7 +3212,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1726
+      "UsersEstimate": 1727
     },
     {
       "ID": "16",
@@ -3221,9 +3226,9 @@
       "ID": "17",
       "SetID": "458bbdk",
       "Name": "Spore Taste",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1181
+      "UsersEstimate": 1272
     },
     {
       "ID": "18",
@@ -3247,7 +3252,7 @@
       "Name": "Data Logger",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "20",
@@ -3335,7 +3340,7 @@
       "Name": "Captain Drummer",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1453
+      "UsersEstimate": 1454
     },
     {
       "ID": "30",
@@ -3367,7 +3372,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 999
+      "UsersEstimate": 1000
     },
     {
       "ID": "7",
@@ -3375,7 +3380,7 @@
       "Name": "Grave Robber",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "8",
@@ -3391,21 +3396,21 @@
       "Name": "Impossible Objects",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 9083,
+      "Progressed": 9088,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged_Achievements": "2023-08-26T01:46:24.5109881+00:00",
+  "LastChanged_Achievements": "2023-08-26T02:19:41.8955119+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:40.3624587+00:00",
-  "LastUpdate_Ratings": "2023-08-26T01:34:58.5743116+00:00",
-  "LastUpdate_Achievements": "2023-08-26T01:46:24.5110307+00:00"
+  "LastUpdate_Ratings": "2023-08-26T02:08:39.1430952+00:00",
+  "LastUpdate_Achievements": "2023-08-26T02:19:41.8955838+00:00"
 }

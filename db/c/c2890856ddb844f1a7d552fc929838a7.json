@@ -2,7 +2,7 @@
   "ID": "c2890856ddb844f1a7d552fc929838a7",
   "Name": "Blasphemous 2",
   "ProductSlug": "blasphemous-2",
-  "Ranking_EOS_Progress": 254,
+  "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 102,
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 361,
+  "EOS_Progressed": 362,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 360,
+  "EOS_NewPlayers": 361,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -227,6 +227,11 @@
       "Time": "2023-08-26T01:43:46.3257114+00:00",
       "NumProgressed": 361,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-26T02:16:52.6244083+00:00",
+      "NumProgressed": 362,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -247,7 +252,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 86,
       "XP": 30,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "AC02",
@@ -255,7 +260,7 @@
       "Name": "Blood and Dust",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "AC03",
@@ -279,7 +284,7 @@
       "Name": "The Sharpest Tool in the Shed",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "AC06",
@@ -469,9 +474,9 @@
       "ID": "AC29",
       "SetID": "l4abp0",
       "Name": "The Veteran One",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 47
     },
     {
       "ID": "AC30",
@@ -606,14 +611,14 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 361,
+      "Progressed": 362,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-26T07:57:19.1818171+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
-  "LastChanged_Achievements": "2023-08-26T01:43:46.3257109+00:00",
+  "LastChanged_Achievements": "2023-08-26T02:16:52.6244076+00:00",
   "LastUpdate_AppInfo": "2023-08-22T18:57:00.5189311+00:00",
-  "LastUpdate_Ratings": "2023-08-26T01:37:24.7592224+00:00",
-  "LastUpdate_Achievements": "2023-08-26T01:43:46.3257478+00:00"
+  "LastUpdate_Ratings": "2023-08-26T02:10:43.6357124+00:00",
+  "LastUpdate_Achievements": "2023-08-26T02:16:52.6244757+00:00"
 }

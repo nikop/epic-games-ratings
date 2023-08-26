@@ -6589,10 +6589,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 14185,
       "NumberOfAwardsMax": 6979
+    },
+    {
+      "Time": "2023-08-26T02:09:35.6042798+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 14186,
+      "NumberOfAwardsMax": 6979
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14185,
+  "NumberOfAwards": 14186,
   "NumberOfAwardsMax": 6979,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6636,7 +6642,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 781
+      "Count": 782
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6669,7 +6675,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 59650,
+  "EOS_Progressed": 59651,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 522,
   "EOS_NewCompleters": 0,
@@ -20174,6 +20180,11 @@
       "Time": "2023-08-26T01:44:46.0323095+00:00",
       "NumProgressed": 59650,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-26T02:17:52.0805435+00:00",
+      "NumProgressed": 59651,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -20265,7 +20276,7 @@
       "Name": "Duelist",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5368
+      "UsersEstimate": 5369
     },
     {
       "ID": "Dynasty",
@@ -20273,7 +20284,7 @@
       "Name": "Dynasty",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 5368
+      "UsersEstimate": 5369
     },
     {
       "ID": "Entrepreneur",
@@ -20281,7 +20292,7 @@
       "Name": "Entrepreneur",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "Explorer",
@@ -20313,7 +20324,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 7754
+      "UsersEstimate": 7755
     },
     {
       "ID": "Great Granny",
@@ -20361,7 +20372,7 @@
       "Name": "I spit on your grave",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5368
+      "UsersEstimate": 5369
     },
     {
       "ID": "Jack of All Trades",
@@ -20377,7 +20388,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10140
+      "UsersEstimate": 10141
     },
     {
       "ID": "Kingslayer",
@@ -20465,7 +20476,7 @@
       "Name": "My way",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 2982
+      "UsersEstimate": 2983
     },
     {
       "ID": "Real Estate",
@@ -20521,7 +20532,7 @@
       "Name": "Supreme Emperor",
       "Percentage": 1,
       "XP": 200,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "Swordbearer",
@@ -20585,22 +20596,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5368
+      "UsersEstimate": 5369
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 59650,
+      "Progressed": 59651,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-08-25T18:58:33.0959219+00:00",
-  "LastChanged_Achievements": "2023-08-26T01:44:46.032309+00:00",
+  "LastChanged": "2023-08-26T02:09:35.6042796+00:00",
+  "LastChanged_Achievements": "2023-08-26T02:17:52.080543+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:38.4249815+00:00",
-  "LastUpdate_Ratings": "2023-08-26T01:36:05.4603011+00:00",
-  "LastUpdate_Achievements": "2023-08-26T01:44:46.0324308+00:00"
+  "LastUpdate_Ratings": "2023-08-26T02:09:35.6042802+00:00",
+  "LastUpdate_Achievements": "2023-08-26T02:17:52.0806733+00:00"
 }

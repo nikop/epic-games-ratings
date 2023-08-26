@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -5059,9 +5059,9 @@
       "ID": "ACH_BASE_58",
       "SetID": "92iocjf",
       "Name": "Drill-dozer",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_BASE_59",
@@ -5162,8 +5162,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-08-25T16:02:04.0214843+00:00",
-  "LastChanged_Achievements": "2023-08-26T01:46:36.7313094+00:00",
+  "LastChanged_Achievements": "2023-08-26T02:19:53.8670077+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:49.8768726+00:00",
-  "LastUpdate_Ratings": "2023-08-26T01:40:13.7420916+00:00",
-  "LastUpdate_Achievements": "2023-08-26T01:46:36.7314268+00:00"
+  "LastUpdate_Ratings": "2023-08-26T02:13:20.2077808+00:00",
+  "LastUpdate_Achievements": "2023-08-26T02:19:53.8672695+00:00"
 }

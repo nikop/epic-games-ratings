@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 413,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 58,
+  "Ranking_EOS_NewPlayers": 57,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
@@ -324,9 +324,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 66883,
+  "EOS_Progressed": 66887,
   "EOS_Completed": 349,
-  "EOS_NewPlayers": 880,
+  "EOS_NewPlayers": 883,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -14139,6 +14139,11 @@
       "Time": "2023-08-26T01:44:35.2307026+00:00",
       "NumProgressed": 66883,
       "NumCompleted": 349
+    },
+    {
+      "Time": "2023-08-26T02:17:40.8352368+00:00",
+      "NumProgressed": 66887,
+      "NumCompleted": 349
     }
   ],
   "TotalAchievements": 24,
@@ -14150,7 +14155,7 @@
       "Name": "ANCIENT HISTORY",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 2006
+      "UsersEstimate": 2007
     },
     {
       "ID": "AWAKEN",
@@ -14158,7 +14163,7 @@
       "Name": "AWAKEN",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 14045
+      "UsersEstimate": 14046
     },
     {
       "ID": "A_GUARDIAN_FORGOTTEN",
@@ -14166,7 +14171,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 45480
+      "UsersEstimate": 45483
     },
     {
       "ID": "BEST_FRIENDS",
@@ -14174,7 +14179,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 14714
+      "UsersEstimate": 14715
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -14182,7 +14187,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 17390
+      "UsersEstimate": 17391
     },
     {
       "ID": "ERADICATE",
@@ -14190,7 +14195,7 @@
       "Name": "ERADICATE",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 14045
+      "UsersEstimate": 14046
     },
     {
       "ID": "FETCH",
@@ -14198,7 +14203,7 @@
       "Name": "FETCH",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 18058
+      "UsersEstimate": 18059
     },
     {
       "ID": "FOXIN_AROUND",
@@ -14206,7 +14211,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 19396
+      "UsersEstimate": 19397
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -14222,7 +14227,7 @@
       "Name": "GARDEN OF LIGHT",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 12039
+      "UsersEstimate": 12040
     },
     {
       "ID": "INFUSED_WITH_LIGHT",
@@ -14230,7 +14235,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 35448
+      "UsersEstimate": 35450
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -14270,7 +14275,7 @@
       "Name": "OLD COMPANION",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6019
+      "UsersEstimate": 6020
     },
     {
       "ID": "PLAGUE_DOCTOR",
@@ -14294,7 +14299,7 @@
       "Name": "SPIRIT BARK",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 14045
+      "UsersEstimate": 14046
     },
     {
       "ID": "SPIRIT_DASH",
@@ -14302,7 +14307,7 @@
       "Name": "SPIRIT DASH",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 7357
+      "UsersEstimate": 7358
     },
     {
       "ID": "SPIRIT_FORM",
@@ -14310,7 +14315,7 @@
       "Name": "SPIRIT FORM",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 10701
+      "UsersEstimate": 10702
     },
     {
       "ID": "UPROOTING_DARKNESS",
@@ -14318,7 +14323,7 @@
       "Name": "UPROOTING DARKNESS",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 10032
+      "UsersEstimate": 10033
     },
     {
       "ID": "WEIGHTLESS",
@@ -14334,14 +14339,14 @@
       "Name": "WRITTEN IN STONE",
       "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 10032
+      "UsersEstimate": 10033
     }
   ],
   "AchievementSets": [
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 66883,
+      "Progressed": 66887,
       "Completed": 349
     }
   ],
@@ -14349,8 +14354,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-08-26T01:44:35.2307021+00:00",
+  "LastChanged_Achievements": "2023-08-26T02:17:40.835236+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:00:00.2454686+00:00",
-  "LastUpdate_Ratings": "2023-08-26T01:35:14.9668009+00:00",
-  "LastUpdate_Achievements": "2023-08-26T01:44:35.2308071+00:00"
+  "LastUpdate_Ratings": "2023-08-26T02:08:54.3326613+00:00",
+  "LastUpdate_Achievements": "2023-08-26T02:17:40.8353602+00:00"
 }

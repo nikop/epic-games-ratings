@@ -2,7 +2,7 @@
   "ID": "7f1853beef0a4b40827038d0f47606f3",
   "Name": "DOOM 3",
   "ProductSlug": "doom-3",
-  "Ranking_Rating": 414,
+  "Ranking_Rating": 392,
   "Ranking_Popularity": 382,
   "Ranking_PopularitySum": 440,
   "Ranking_EOS_Progress": 560,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.59,
+  "Rating": 4.6,
   "NumberOfRatings": 105,
   "RatingHistory": [
     {
@@ -372,6 +372,12 @@
       "Rating": 4.59,
       "NumberOfAwards": 68,
       "NumberOfAwardsMax": 68
+    },
+    {
+      "Time": "2023-08-26T02:11:50.3718404+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 68,
+      "NumberOfAwardsMax": 68
     }
   ],
   "ReviewsDisabled": false,
@@ -398,8 +404,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-18T16:02:43.6550747+00:00",
   "FirstSeenRating": "2022-08-25T17:32:08.5034693+00:00",
-  "LastChanged": "2023-08-03T01:51:04.5706612+00:00",
+  "LastChanged": "2023-08-26T02:11:50.3718403+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:53.915987+00:00",
-  "LastUpdate_Ratings": "2023-08-26T01:38:37.8972142+00:00",
-  "LastUpdate_Achievements": "2023-08-26T01:46:34.9946989+00:00"
+  "LastUpdate_Ratings": "2023-08-26T02:11:50.371841+00:00",
+  "LastUpdate_Achievements": "2023-08-26T02:19:52.1750393+00:00"
 }

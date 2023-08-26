@@ -6,18 +6,18 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~715,928 |
-| The Blues | 85.00% | ~614,686 |
+| Out of bed | 99.00% | ~715,929 |
+| The Blues | 85.00% | ~614,687 |
 | Fast | 66.00% | ~477,286 |
-| Healthbar | 55.00% | ~397,738 |
+| Healthbar | 55.00% | ~397,739 |
 | Force Cube | 53.00% | ~383,275 |
 | Double Jump | 48.00% | ~347,117 |
-| Regeneration | 47.00% | ~339,885 |
+| Regeneration | 47.00% | ~339,886 |
 | Triple Jump | 43.00% | ~310,959 |
-| Climb the hill | 42.00% | ~303,727 |
+| Climb the hill | 42.00% | ~303,728 |
 | Through the fire pipe | 38.00% | ~274,801 |
 | MacGuffin | 38.00% | ~274,801 |
-| Just once | 37.00% | ~267,569 |
+| Just once | 37.00% | ~267,570 |
 | Armor | 30.00% | ~216,948 |
 | True holy spirit | 28.00% | ~202,485 |
 | That's how electronics work obviously | 26.00% | ~188,022 |
@@ -30,8 +30,8 @@ Number of Ratings: 25,175  (23.09.2022)
 | Buckle | 17.00% | ~122,937 |
 | Green Keycard | 17.00% | ~122,937 |
 | Rattle Hag | 15.00% | ~108,474 |
-| All Shells | 14.00% | ~101,242 |
-| Beam | 14.00% | ~101,242 |
+| All Shells | 14.00% | ~101,243 |
+| Beam | 14.00% | ~101,243 |
 | Health Drink | 13.00% | ~94,011 |
 | 9 | 13.00% | ~94,011 |
 | Purple Cube | 13.00% | ~94,011 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~723 |
 | DLC: Top of the world | 0.10% | ~723 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 723,160 (Ranked 19)  
+Progressed: 723,161 (Ranked 19)  
 Completed: 728 (0.10%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,7 +233,7 @@ Completed: 728 (0.10%) (Ranked 210)
 | 2023-08-23 | 722,879 | 728 |
 | 2023-08-24 | 723,002 | 728 |
 | 2023-08-25 | 723,150 | 728 |
-| 2023-08-26 | 723,160 | 728 |
+| 2023-08-26 | 723,161 | 728 |
 ## Awards
 Max (Challenging Puzzles): 7,674  (Ranked 46)  
 Sum: 9,998 (Ranked 85)  

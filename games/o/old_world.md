@@ -90,6 +90,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Building Wonders | 0.80% | ~109 |
 | Economic Reform | 0.80% | ~109 |
 | Legalism | 0.80% | ~109 |
+| Legionary | 0.80% | ~109 |
 | Phalangite | 0.80% | ~109 |
 | Invincible | 0.70% | ~95 |
 | Subjugator | 0.70% | ~95 |
@@ -100,7 +101,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 3 | 0.70% | ~95 |
 | Power to the People | 0.70% | ~95 |
 | Redemption | 0.70% | ~95 |
-| Legionary | 0.70% | ~95 |
 | Double Victory | 0.70% | ~95 |
 | Win a Single Player Game | 0.70% | ~95 |
 | Capable | 0.60% | ~81 |

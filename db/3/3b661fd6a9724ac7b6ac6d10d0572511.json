@@ -3350,10 +3350,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 13871,
       "NumberOfAwardsMax": 7080
+    },
+    {
+      "Time": "2023-08-26T02:11:31.1123694+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 13880,
+      "NumberOfAwardsMax": 7080
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13871,
+  "NumberOfAwards": 13880,
   "NumberOfAwardsMax": 7080,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3397,7 +3403,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 728
+      "Count": 737
     },
     {
       "Text": "This game has Unique Visuals",
@@ -3424,7 +3430,7 @@
       "Count": 769
     }
   ],
-  "EOS_Progressed": 1609399,
+  "EOS_Progressed": 1609476,
   "EOS_Completed": 529,
   "EOS_NewPlayers": 25265,
   "EOS_NewCompleters": 16,
@@ -12474,6 +12480,11 @@
       "Time": "2023-08-26T01:46:06.0193641+00:00",
       "NumProgressed": 1609399,
       "NumCompleted": 529
+    },
+    {
+      "Time": "2023-08-26T02:19:24.432189+00:00",
+      "NumProgressed": 1609476,
+      "NumCompleted": 529
     }
   ],
   "TotalAchievements": 1328,
@@ -12557,7 +12568,7 @@
       "Name": "Would You Like Your Receipt?",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 16094
+      "UsersEstimate": 16095
     },
     {
       "ID": "armored_1",
@@ -13685,7 +13696,7 @@
       "Name": "I Want to Get Away",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 32188
+      "UsersEstimate": 32190
     },
     {
       "ID": "brooklyn_2",
@@ -13909,7 +13920,7 @@
       "Name": "Virus",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 16094
+      "UsersEstimate": 16095
     },
     {
       "ID": "cac_29",
@@ -17101,7 +17112,7 @@
       "Name": "Guilty of Crime",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 16094
+      "UsersEstimate": 16095
     },
     {
       "ID": "halloween_1",
@@ -17237,7 +17248,7 @@
       "Name": "How Do You Like Me Now?",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 16094
+      "UsersEstimate": 16095
     },
     {
       "ID": "i_knew_what_i_was_doing_was_wrong",
@@ -18197,7 +18208,7 @@
       "Name": "No One Cared Who I Was...",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 32188
+      "UsersEstimate": 32190
     },
     {
       "ID": "no_turning_back",
@@ -18205,7 +18216,7 @@
       "Name": "No Turning Back",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 32188
+      "UsersEstimate": 32190
     },
     {
       "ID": "orange_1",
@@ -21837,7 +21848,7 @@
       "Name": "There is Always a First Time",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 9656
+      "UsersEstimate": 9657
     },
     {
       "ID": "trk_js_1",
@@ -22989,7 +23000,7 @@
       "Name": "Armed to the Teeth",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 16094
+      "UsersEstimate": 16095
     },
     {
       "ID": "wwh_1",
@@ -23093,7 +23104,7 @@
       "Name": "You Gotta Start Somewhere",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 32188
+      "UsersEstimate": 32190
     },
     {
       "ID": "you_shall_not_pass",
@@ -23108,22 +23119,22 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1609399,
+      "Progressed": 1609476,
       "Completed": 529
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1609399,
+      "Progressed": 1609476,
       "Completed": 35
     }
   ],
   "FirstSeen": "2023-06-08T18:57:07.8003815+00:00",
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
-  "LastChanged": "2023-08-25T21:00:59.3408271+00:00",
-  "LastChanged_Achievements": "2023-08-26T01:46:06.0193635+00:00",
+  "LastChanged": "2023-08-26T02:11:31.1123693+00:00",
+  "LastChanged_Achievements": "2023-08-26T02:19:24.4321885+00:00",
   "LastUpdate_AppInfo": "2023-08-24T21:57:13.1571019+00:00",
-  "LastUpdate_Ratings": "2023-08-26T01:38:16.5553278+00:00",
-  "LastUpdate_Achievements": "2023-08-26T01:46:06.0346375+00:00"
+  "LastUpdate_Ratings": "2023-08-26T02:11:31.1123698+00:00",
+  "LastUpdate_Achievements": "2023-08-26T02:19:24.450689+00:00"
 }

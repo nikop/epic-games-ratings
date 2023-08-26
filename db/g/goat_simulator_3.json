@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 154,
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewPlayers": 54,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -3346,9 +3346,9 @@
       "Count": 273
     }
   ],
-  "EOS_Progressed": 241447,
+  "EOS_Progressed": 241448,
   "EOS_Completed": 810,
-  "EOS_NewPlayers": 941,
+  "EOS_NewPlayers": 940,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -17186,6 +17186,11 @@
       "Time": "2023-08-26T01:45:39.2757578+00:00",
       "NumProgressed": 241447,
       "NumCompleted": 810
+    },
+    {
+      "Time": "2023-08-26T02:18:46.0305009+00:00",
+      "NumProgressed": 241448,
+      "NumCompleted": 810
     }
   ],
   "TotalAchievements": 39,
@@ -17261,7 +17266,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 219717
+      "UsersEstimate": 219718
     },
     {
       "ID": "AchievementClownID",
@@ -17357,7 +17362,7 @@
       "Name": "Secret Society",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 108651
+      "UsersEstimate": 108652
     },
     {
       "ID": "AchievementIntroID",
@@ -17429,7 +17434,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 178671
+      "UsersEstimate": 178672
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -17477,7 +17482,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 113480
+      "UsersEstimate": 113481
     },
     {
       "ID": "AchievementTrinketID",
@@ -17508,7 +17513,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 241447,
+      "Progressed": 241448,
       "Completed": 810
     }
   ],
@@ -17516,8 +17521,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-08-25T23:58:45.3801589+00:00",
-  "LastChanged_Achievements": "2023-08-26T01:45:39.2757573+00:00",
+  "LastChanged_Achievements": "2023-08-26T02:18:46.0305004+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:06.889898+00:00",
-  "LastUpdate_Ratings": "2023-08-26T01:36:55.3420798+00:00",
-  "LastUpdate_Achievements": "2023-08-26T01:45:39.2758806+00:00"
+  "LastUpdate_Ratings": "2023-08-26T02:10:16.5133132+00:00",
+  "LastUpdate_Achievements": "2023-08-26T02:18:46.0306246+00:00"
 }

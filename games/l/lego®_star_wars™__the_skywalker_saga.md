@@ -6,21 +6,21 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 97.00% | ~48,595 |
-| ''I don't like you either!'' | 79.00% | ~39,577 |
+| ''You guys got yourself a ship!'' | 97.00% | ~48,596 |
+| ''I don't like you either!'' | 79.00% | ~39,578 |
 | ''Impressive, most impressive'' | 72.00% | ~36,071 |
 | ''You think you're some kind of Jedi?'' | 72.00% | ~36,071 |
 | The Phantom Menace | 59.00% | ~29,558 |
 | ''Aggressive Negotiations'' | 59.00% | ~29,558 |
 | ''I can fly anything'' | 57.00% | ~28,556 |
 | ''And who gave you permission...?'' | 54.00% | ~27,053 |
-| A New Hope | 48.00% | ~24,047 |
-| Attack of the Clones | 47.00% | ~23,546 |
-| Revenge of the Sith | 41.00% | ~20,540 |
-| The Empire Strikes Back | 38.00% | ~19,037 |
-| ''A fine addition to my collection'' | 37.00% | ~18,536 |
-| Return of the Jedi | 32.00% | ~16,031 |
-| The Force Awakens | 27.00% | ~13,526 |
+| A New Hope | 48.00% | ~24,048 |
+| Attack of the Clones | 47.00% | ~23,547 |
+| Revenge of the Sith | 41.00% | ~20,541 |
+| The Empire Strikes Back | 38.00% | ~19,038 |
+| ''A fine addition to my collection'' | 37.00% | ~18,537 |
+| Return of the Jedi | 32.00% | ~16,032 |
+| The Force Awakens | 27.00% | ~13,527 |
 | The Last Jedi | 23.00% | ~11,523 |
 | The Rise of Skywalker | 20.00% | ~10,020 |
 | ''It's true... all of it'' | 19.00% | ~9,519 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''Jedi Business'' | 1.00% | ~501 |
 | ''I've never seen a real one!'' | 0.90% | ~451 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,098 (Ranked 91)  
+Progressed: 50,099 (Ranked 91)  
 Completed: 224 (0.45%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,6 +180,7 @@ Completed: 224 (0.45%) (Ranked 154)
 | 2023-08-23 | 50,094 | 224 |
 | 2023-08-24 | 50,096 | 224 |
 | 2023-08-25 | 50,098 | 224 |
+| 2023-08-26 | 50,099 | 224 |
 ## Awards
 Max (Great Boss Battles): 2,384  (Ranked 104)  
 Sum: 6,554 (Ranked 118)  
