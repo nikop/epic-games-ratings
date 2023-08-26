@@ -6,9 +6,9 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~4,501 |
-| Beast Intentions | 0.70% | ~1,575 |
-| The Cursed Farmer | 0.70% | ~1,575 |
+| A Brief Tour of the Realms | 2.00% | ~4,502 |
+| Beast Intentions | 0.70% | ~1,576 |
+| The Cursed Farmer | 0.70% | ~1,576 |
 | The Mad Wizard | 0.50% | ~1,125 |
 | The Hunt for The Last Breath | 0.50% | ~957 |
 | The Ring of Regeneration | 0.40% | ~900 |
@@ -523,8 +523,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~191 |
 | Animated Giff | 0.10% | ~191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,061 (Ranked 53)  
-Completed: 2,217 (0.99%) (Ranked 120)  
+Progressed: 225,081 (Ranked 53)  
+Completed: 2,218 (0.99%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -651,10 +651,10 @@ Completed: 2,217 (0.99%) (Ranked 120)
 | 2023-08-23 | 224,434 | 2,210 |
 | 2023-08-24 | 224,686 | 2,211 |
 | 2023-08-25 | 224,925 | 2,214 |
-| 2023-08-26 | 225,061 | 2,217 |
+| 2023-08-26 | 225,081 | 2,218 |
 ## Awards
 Max (Diverse Characters): 5,189  (Ranked 68)  
-Sum: 31,223 (Ranked 39)  
+Sum: 31,225 (Ranked 39)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -663,7 +663,7 @@ Diff (max vs sum): 29
 | This game has Quickly Understood Controls | 4,734 |
 | This game is Relaxing | 4,624 |
 | This game has Amazing Characters | 4,084 |
-| This game is Highly Recommended | 4,068 |
+| This game is Highly Recommended | 4,070 |
 | This game has Playful Visuals | 3,373 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -880,4 +880,4 @@ Diff (max vs sum): 29
 | 2023-08-23 | 4.06 | - | 5,179 | 31,183 |
 | 2023-08-24 | 4.06 | - | 5,182 | 31,201 |
 | 2023-08-25 | 4.06 | - | 5,182 | 31,210 |
-| 2023-08-26 | 4.06 | - | 5,189 | 31,223 |
+| 2023-08-26 | 4.06 | - | 5,189 | 31,225 |

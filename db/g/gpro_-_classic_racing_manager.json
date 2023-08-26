@@ -2,9 +2,9 @@
   "ID": "234c754eae5e42d1b5379daee1c313f1",
   "Name": "GPRO - Classic racing manager",
   "ProductSlug": "classic-racing-manager-679706",
-  "Ranking_EOS_Progress": 266,
+  "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-10T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 315,
+  "EOS_Progressed": 316,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -701,6 +701,11 @@
       "Time": "2023-08-25T21:05:16.4739496+00:00",
       "NumProgressed": 315,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-26T13:06:13.3190353+00:00",
+      "NumProgressed": 316,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 162,
@@ -776,7 +781,7 @@
       "Name": "Newbie",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -918,7 +923,7 @@
       "ID": "ACHIEVEMENT_197",
       "SetID": "76k7b7p",
       "Name": "Loyalty",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -1094,7 +1099,7 @@
       "ID": "ACHIEVEMENT_223",
       "SetID": "76k7b7p",
       "Name": "Mr. Whiting",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -1832,7 +1837,7 @@
       "Name": "Photo shoot",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACHIEVEMENT_76",
@@ -1902,7 +1907,7 @@
       "ID": "ACHIEVEMENT_85",
       "SetID": "76k7b7p",
       "Name": "Untouchable",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -2007,14 +2012,14 @@
     {
       "ID": "76k7b7p",
       "IsBase": true,
-      "Progressed": 315,
+      "Progressed": 316,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-11T01:55:52.8280898+00:00",
   "FirstSeenAchievements": "2023-05-05T09:00:44.9178133+00:00",
-  "LastChanged_Achievements": "2023-08-26T12:04:29.6651687+00:00",
+  "LastChanged_Achievements": "2023-08-26T13:06:13.3190345+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:15.7945898+00:00",
-  "LastUpdate_Ratings": "2023-08-26T12:00:31.7921149+00:00",
-  "LastUpdate_Achievements": "2023-08-26T12:04:29.6654502+00:00"
+  "LastUpdate_Ratings": "2023-08-26T13:01:57.9528079+00:00",
+  "LastUpdate_Achievements": "2023-08-26T13:06:13.3193854+00:00"
 }

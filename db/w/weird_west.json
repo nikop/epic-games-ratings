@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 488,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -2164,9 +2164,9 @@
       "ID": "ACH_PERKY",
       "SetID": "8j30i9k",
       "Name": "Perky",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 1180
+      "UsersEstimate": 1199
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -2212,9 +2212,9 @@
       "ID": "ACH_SELF_IMPROVEMENT",
       "SetID": "8j30i9k",
       "Name": "Self-Improvement",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1289
+      "UsersEstimate": 1308
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -2348,8 +2348,8 @@
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-08-25T13:05:53.0573208+00:00",
-  "LastChanged_Achievements": "2023-08-26T12:05:06.3179402+00:00",
+  "LastChanged_Achievements": "2023-08-26T13:06:39.3844411+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:16.0649868+00:00",
-  "LastUpdate_Ratings": "2023-08-26T12:02:15.7820163+00:00",
-  "LastUpdate_Achievements": "2023-08-26T12:05:06.3179882+00:00"
+  "LastUpdate_Ratings": "2023-08-26T13:03:16.8442009+00:00",
+  "LastUpdate_Achievements": "2023-08-26T13:06:39.3844934+00:00"
 }

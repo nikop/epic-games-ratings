@@ -14,12 +14,12 @@ Rating: 4.88 (Ranked 19)
 | You got this, Peppermint? | 9.00% | ~358 |
 | Perfect Parry | 8.00% | ~318 |
 | Alright, that felt AWESOME! | 8.00% | ~318 |
-| This will cost you big time | 7.00% | ~278 |
-| I play my own way! | 7.00% | ~278 |
-| Z-shielding's got nothing on us! | 7.00% | ~278 |
-| Uh, they were broken when I got here | 7.00% | ~278 |
-| Kissing the sky! | 7.00% | ~278 |
-| I look cool. But I can look COOLER. | 7.00% | ~278 |
+| This will cost you big time | 7.00% | ~279 |
+| I play my own way! | 7.00% | ~279 |
+| Z-shielding's got nothing on us! | 7.00% | ~279 |
+| Uh, they were broken when I got here | 7.00% | ~279 |
+| Kissing the sky! | 7.00% | ~279 |
+| I look cool. But I can look COOLER. | 7.00% | ~279 |
 | The Negotiator | 6.00% | ~239 |
 | Whoa! There's ANOTHER health bar!? | 6.00% | ~239 |
 | Out in a puff of smoke | 6.00% | ~239 |
@@ -54,7 +54,7 @@ Rating: 4.88 (Ranked 19)
 | Choose your own adventure | 0.40% | ~10 |
 | Problem solved... wait, what? | 0.30% | ~12 |
 | Now this is how you fight like a team! | 0.30% | ~12 |
-| It'll do, CNMN | 0.30% | ~7 |
+| It'll do, CNMN | 0.30% | ~8 |
 | And the crowd goes wild! | 0.20% | ~8 |
 | With our powers combined…and to the rhythm… | 0.20% | ~8 |
 | That was just EVIL | 0.20% | ~5 |
@@ -77,7 +77,7 @@ Rating: 4.88 (Ranked 19)
 | Voices from within | 0.10% | ~2 |
 | Low budget finish | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,978 (Ranked 150)  
+Progressed: 3,979 (Ranked 150)  
 Completed: 7 (0.18%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 7 (0.18%) (Ranked 193)
 | 2023-08-23 | 3,967 | 7 |
 | 2023-08-24 | 3,973 | 7 |
 | 2023-08-25 | 3,977 | 7 |
-| 2023-08-26 | 3,978 | 7 |
+| 2023-08-26 | 3,979 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

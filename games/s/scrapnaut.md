@@ -9,7 +9,7 @@ Number of Ratings: 38  (23.09.2022)
 | My New Home | 61.00% | ~218 |
 | Scrap Gatherer | 59.00% | ~211 |
 | Mushroom Picker | 56.00% | ~200 |
-| Scrapper | 47.00% | ~168 |
+| Scrapper | 48.00% | ~172 |
 | Teleport | 44.00% | ~158 |
 | Cook | 43.00% | ~154 |
 | Scrap Master | 39.00% | ~140 |
@@ -25,7 +25,7 @@ Number of Ratings: 38  (23.09.2022)
 | Robot Hunter | 22.00% | ~79 |
 | Advanced Survivalist | 20.00% | ~72 |
 | Master Of Technology | 18.00% | ~64 |
-| Treasure Hunter | 16.00% | ~57 |
+| Treasure Hunter | 17.00% | ~61 |
 | Mythical Smelter | 14.00% | ~50 |
 | Blacksmith | 12.00% | ~43 |
 | Master Of Management | 11.00% | ~39 |

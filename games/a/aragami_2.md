@@ -1,35 +1,35 @@
 # Aragami 2
 [Store](https://store.epicgames.com/en-US/p/aragami-2)  
 [View Rawdata](../../db/a/aragami_2.json)  
-Rating: 4.54 (Ranked 500)  
+Rating: 4.54 (Ranked 501)  
 Number of Ratings: 88  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~38,617 |
-| First Steps | 80.00% | ~33,219 |
-| Control the Shadows | 67.00% | ~27,821 |
-| Tools of the Trade | 63.00% | ~26,160 |
-| Apprentice | 60.00% | ~24,914 |
+| Awakening | 93.00% | ~38,618 |
+| First Steps | 80.00% | ~33,220 |
+| Control the Shadows | 67.00% | ~27,822 |
+| Tools of the Trade | 63.00% | ~26,161 |
+| Apprentice | 60.00% | ~24,915 |
 | Secret Seeker | 57.00% | ~23,669 |
-| Forge of Assassins | 55.00% | ~22,838 |
-| Revenant | 52.00% | ~21,592 |
+| Forge of Assassins | 55.00% | ~22,839 |
+| Revenant | 52.00% | ~21,593 |
 | I don’t Care! | 45.00% | ~18,686 |
 | Bird of Prey | 37.00% | ~15,364 |
 | Engraved with Power | 32.00% | ~13,288 |
-| Lady | 31.00% | ~12,872 |
-| Fashionable Assassin | 27.00% | ~11,211 |
+| Lady | 31.00% | ~12,873 |
+| Fashionable Assassin | 27.00% | ~11,212 |
 | Apex Predator | 24.00% | ~9,966 |
-| Soul Reaver | 22.00% | ~9,135 |
+| Soul Reaver | 22.00% | ~9,136 |
 | Embers | 21.00% | ~8,720 |
 | Wall Lizard | 20.00% | ~8,305 |
 | Clinging to Life | 18.00% | ~7,474 |
 | Burning | 17.00% | ~7,059 |
 | Look Behind You | 16.00% | ~6,644 |
 | Sleeping on the Job | 16.00% | ~6,644 |
-| Family | 14.00% | ~5,813 |
-| War Engines | 14.00% | ~5,813 |
-| Signature Move | 14.00% | ~5,813 |
+| Family | 14.00% | ~5,814 |
+| War Engines | 14.00% | ~5,814 |
+| Signature Move | 14.00% | ~5,814 |
 | Ruse | 11.00% | ~4,568 |
 | Master Ninja | 10.00% | ~4,152 |
 | Hatching | 9.00% | ~3,737 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Hot Potato | 1.00% | ~415 |
 | Anger Management | 1.00% | ~415 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,524 (Ranked 94)  
+Progressed: 41,525 (Ranked 94)  
 Completed: 213 (0.51%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 213 (0.51%) (Ranked 146)
 | 2023-08-23 | 41,346 | 210 |
 | 2023-08-24 | 41,407 | 210 |
 | 2023-08-25 | 41,481 | 211 |
-| 2023-08-26 | 41,524 | 213 |
+| 2023-08-26 | 41,525 | 213 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

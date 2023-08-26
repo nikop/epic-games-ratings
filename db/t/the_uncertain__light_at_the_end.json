@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 503,
+  "EOS_Progressed": 504,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -585,6 +585,11 @@
       "Time": "2023-08-25T17:05:06.9122762+00:00",
       "NumProgressed": 503,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-26T13:07:23.1710068+00:00",
+      "NumProgressed": 504,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 29,
@@ -716,7 +721,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "Leisurely_Strol",
@@ -732,7 +737,7 @@
       "Name": "Does Not Compute",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "Misanthrope",
@@ -772,7 +777,7 @@
       "Name": "A Familiar Face",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "Paparazzi",
@@ -820,14 +825,14 @@
       "Name": "Unexpected Consequences",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     }
   ],
   "AchievementSets": [
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 503,
+      "Progressed": 504,
       "Completed": 5
     }
   ],
@@ -835,8 +840,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-08-26T12:05:53.0218897+00:00",
+  "LastChanged_Achievements": "2023-08-26T13:07:23.1710061+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:11.3170839+00:00",
-  "LastUpdate_Ratings": "2023-08-26T11:59:56.8903917+00:00",
-  "LastUpdate_Achievements": "2023-08-26T12:05:53.0219304+00:00"
+  "LastUpdate_Ratings": "2023-08-26T13:01:32.0310058+00:00",
+  "LastUpdate_Achievements": "2023-08-26T13:07:23.1710309+00:00"
 }

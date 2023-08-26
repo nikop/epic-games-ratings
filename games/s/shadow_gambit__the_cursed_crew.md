@@ -8,7 +8,7 @@
 | The Adventure Begins | 54.00% | ~272 |
 | Swabbie | 39.00% | ~196 |
 | With Great Power… | 37.00% | ~186 |
-| This Belongs in a Museum | 30.00% | ~151 |
+| This Belongs in a Museum | 31.00% | ~156 |
 | The Gambit Has Begun | 23.00% | ~116 |
 | Powder Monkey | 22.00% | ~111 |
 | Somewhere Deep in the Lost Caribbean | 18.00% | ~91 |
@@ -19,8 +19,8 @@
 | Persistent Parasite | 12.00% | ~60 |
 | Seadog | 8.00% | ~40 |
 | Jaded Judge | 7.00% | ~35 |
+| Rustic Recipe | 7.00% | ~35 |
 | All Good Things | 6.00% | ~30 |
-| Rustic Recipe | 6.00% | ~30 |
 | Tobacco Travesty | 5.00% | ~25 |
 | Lyrical Longing | 5.00% | ~25 |
 | Privateer | 4.00% | ~20 |
@@ -31,7 +31,7 @@
 | Marauder | 1.00% | ~5 |
 | Welcome Back Jester | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 503 (Ranked 230)  
+Progressed: 503 (Ranked 231)  
 Completed: 2 (0.40%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -720,9 +720,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 217451,
+  "EOS_Progressed": 217476,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2966,
+  "EOS_NewPlayers": 2964,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8370,6 +8370,11 @@
       "Time": "2023-08-26T12:03:32.4750239+00:00",
       "NumProgressed": 217451,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-26T13:05:40.286281+00:00",
+      "NumProgressed": 217476,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -8419,9 +8424,9 @@
       "ID": "BookCollection",
       "SetID": "50chcgj",
       "Name": "Scholar of the Lands of Fangh",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 217
+      "UsersEstimate": 435
     },
     {
       "ID": "Chapter1",
@@ -8429,7 +8434,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4349
+      "UsersEstimate": 4350
     },
     {
       "ID": "Chapter2",
@@ -8781,7 +8786,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4349
+      "UsersEstimate": 4350
     },
     {
       "ID": "DwarfElf15Support",
@@ -8813,7 +8818,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4349
+      "UsersEstimate": 4350
     },
     {
       "ID": "ElfEpic",
@@ -8829,7 +8834,7 @@
       "Name": "Sowwy!",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 52188
+      "UsersEstimate": 52194
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -9084,21 +9089,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 217451,
+      "Progressed": 217476,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 217451,
+      "Progressed": 217476,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-25T15:02:30.1432618+00:00",
-  "LastChanged_Achievements": "2023-08-26T12:03:32.4750234+00:00",
+  "LastChanged_Achievements": "2023-08-26T13:05:40.2862804+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:41.9661267+00:00",
-  "LastUpdate_Ratings": "2023-08-26T12:02:43.1151465+00:00",
-  "LastUpdate_Achievements": "2023-08-26T12:03:32.475146+00:00"
+  "LastUpdate_Ratings": "2023-08-26T13:05:04.4924289+00:00",
+  "LastUpdate_Achievements": "2023-08-26T13:05:40.2864363+00:00"
 }

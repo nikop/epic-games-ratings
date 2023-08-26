@@ -6,11 +6,11 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 24.00% | ~52,188 |
+| Sowwy! | 24.00% | ~52,194 |
 | Alt+F4 | 3.00% | ~6,524 |
-| Déjà vu | 2.00% | ~4,349 |
-| Where's that freaking Dwarf? | 2.00% | ~4,349 |
-| Sock! SOCK! | 2.00% | ~4,349 |
+| Déjà vu | 2.00% | ~4,350 |
+| Where's that freaking Dwarf? | 2.00% | ~4,350 |
+| Sock! SOCK! | 2.00% | ~4,350 |
 | Way of the Wimp | 1.00% | ~2,175 |
 | A beer, two curses, three companions | 1.00% | ~2,175 |
 | GG EZ | 1.00% | ~2,175 |
@@ -47,11 +47,11 @@ Number of Ratings: 118  (23.09.2022)
 | In Navalu's footsteps | 0.30% | ~652 |
 | Lëgal Legend | 0.30% | ~652 |
 | Holistic Adventuring Party | 0.20% | ~435 |
+| Scholar of the Lands of Fangh | 0.20% | ~435 |
 | An old poacher makes the best gamekeeper | 0.20% | ~435 |
 | We come in peace | 0.20% | ~435 |
 | Law and Order | 0.20% | ~435 |
 | Cursed die | 0.10% | ~217 |
-| Scholar of the Lands of Fangh | 0.10% | ~217 |
 | Friendly fire | 0.10% | ~217 |
 | I'd rather... Just... Sing! | 0.10% | ~217 |
 | The number of the counting shalt be 7 | 0.10% | ~217 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~217 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,451 (Ranked 56)  
+Progressed: 217,476 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,7 +182,7 @@ Completed: 2 (0.00%) (Ranked 264)
 | 2023-08-23 | 216,367 | 2 |
 | 2023-08-24 | 216,781 | 2 |
 | 2023-08-25 | 217,227 | 2 |
-| 2023-08-26 | 217,451 | 2 |
+| 2023-08-26 | 217,476 | 2 |
 ## Awards
 Max (Character Customization): 176  (Ranked 284)  
 Sum: 220 (Ranked 363)  

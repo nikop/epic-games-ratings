@@ -18,12 +18,12 @@
 | Acquaintance | 5.00% | ~7 |
 | Tail-wind | 5.00% | ~7 |
 | Conciliator | 4.00% | ~5 |
+| Quartermaster | 4.00% | ~5 |
 | The More the Merrier | 4.00% | ~5 |
 | Courier | 4.00% | ~5 |
 | Been There | 4.00% | ~5 |
 | Spiritual Journey | 4.00% | ~5 |
 | Inquisitions of Discord | 4.00% | ~5 |
-| Quartermaster | 3.00% | ~4 |
 | Supercargo | 3.00% | ~4 |
 | Strategist | 3.00% | ~4 |
 | Potential Unlocked | 3.00% | ~4 |

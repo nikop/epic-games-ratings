@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -1182,9 +1182,9 @@
       "ID": "ACH_FIND_10_TREASURES",
       "SetID": "7c4cldc",
       "Name": "Treasure Hunter",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH_FIRST_BASE",
@@ -1206,9 +1206,9 @@
       "ID": "ACH_KILL_20",
       "SetID": "7c4cldc",
       "Name": "Scrapper",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 168
+      "UsersEstimate": 172
     },
     {
       "ID": "ACH_KILL_50",
@@ -1311,8 +1311,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-08-26T12:06:37.4554194+00:00",
+  "LastChanged_Achievements": "2023-08-26T13:07:49.0204747+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:20.3604113+00:00",
-  "LastUpdate_Ratings": "2023-08-26T12:02:20.690384+00:00",
-  "LastUpdate_Achievements": "2023-08-26T12:06:37.4554426+00:00"
+  "LastUpdate_Ratings": "2023-08-26T13:03:19.9940285+00:00",
+  "LastUpdate_Achievements": "2023-08-26T13:07:49.0205016+00:00"
 }

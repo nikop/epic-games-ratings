@@ -4,7 +4,7 @@
   "ProductSlug": "112th-seed-6292ea",
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-04-02T09:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:43.5629429+00:00",
   "LastChanged": "2023-03-31T05:58:43.562943+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:33.4547489+00:00",
-  "LastUpdate_Ratings": "2023-08-26T12:02:33.2367952+00:00",
-  "LastUpdate_Achievements": "2023-08-26T12:06:03.5597556+00:00"
+  "LastUpdate_Ratings": "2023-08-26T13:03:29.5626733+00:00",
+  "LastUpdate_Achievements": "2023-08-26T13:07:23.4370972+00:00"
 }

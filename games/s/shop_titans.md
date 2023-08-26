@@ -25,6 +25,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | One-Armed Bandit | 0.60% | ~811 |
 | Dungeon Imports | 0.60% | ~811 |
 | Through Repetition, Perfection | 0.60% | ~811 |
+| Ascended | 0.50% | ~676 |
 | Blank Page Syndrome | 0.50% | ~676 |
 | Demand for Supplies | 0.50% | ~676 |
 | Where it Hurts | 0.50% | ~676 |
@@ -33,7 +34,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Did we pack lunch? | 0.50% | ~676 |
 | Arcane Industries | 0.50% | ~676 |
 | On the Path to Greatness | 0.40% | ~541 |
-| Ascended | 0.40% | ~541 |
 | Research & Development | 0.40% | ~541 |
 | Vanity, Verily | 0.40% | ~541 |
 | Fated Encounters | 0.40% | ~541 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~135 |
 | Cash Only Please | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,155 (Ranked 66)  
+Progressed: 135,158 (Ranked 66)  
 Completed: 138 (0.10%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 138 (0.10%) (Ranked 211)
 | 2023-08-23 | 134,997 | 138 |
 | 2023-08-24 | 135,040 | 138 |
 | 2023-08-25 | 135,108 | 138 |
-| 2023-08-26 | 135,155 | 138 |
+| 2023-08-26 | 135,158 | 138 |
 ## Awards
 Max (Great for Beginners): 4,716  (Ranked 71)  
 Sum: 27,141 (Ranked 47)  

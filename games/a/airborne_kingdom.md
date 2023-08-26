@@ -1,13 +1,13 @@
 # Airborne Kingdom
 [Store](https://store.epicgames.com/en-US/p/airborne-kingdom)  
 [View Rawdata](../../db/a/airborne_kingdom.json)  
-Rating: 4.65 (Ranked 300)  
+Rating: 4.65 (Ranked 299)  
 Number of Ratings: 74  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Small Community | 56.00% | ~3,968 |
-| A Grove Replanted | 53.00% | ~3,755 |
+| A Grove Replanted | 53.00% | ~3,756 |
 | Fields Watered | 41.00% | ~2,905 |
 | Seekers Found | 41.00% | ~2,905 |
 | Settling the Skies | 41.00% | ~2,905 |
@@ -15,8 +15,8 @@ Number of Ratings: 74  (23.09.2022)
 | It Takes a Village | 34.00% | ~2,409 |
 | On the Town | 28.00% | ~1,984 |
 | Daylight Found | 26.00% | ~1,842 |
-| Irons Scorched | 25.00% | ~1,771 |
-| Islands Connected | 25.00% | ~1,771 |
+| Irons Scorched | 25.00% | ~1,772 |
+| Islands Connected | 25.00% | ~1,772 |
 | Harp Tuned | 23.00% | ~1,630 |
 | Pyre Ignited | 23.00% | ~1,630 |
 | Travelers Returned | 23.00% | ~1,630 |
@@ -34,7 +34,7 @@ Number of Ratings: 74  (23.09.2022)
 | Sparkling Alloys | 2.00% | ~142 |
 | A True Challenge | 2.00% | ~142 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,085 (Ranked 136)  
+Progressed: 7,086 (Ranked 136)  
 Completed: 53 (0.75%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 53 (0.75%) (Ranked 128)
 | 2023-08-23 | 7,073 | 53 |
 | 2023-08-24 | 7,075 | 53 |
 | 2023-08-25 | 7,083 | 53 |
-| 2023-08-26 | 7,085 | 53 |
+| 2023-08-26 | 7,086 | 53 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

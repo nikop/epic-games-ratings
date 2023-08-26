@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9132,
+  "EOS_Progressed": 9139,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 778,
+  "EOS_NewPlayers": 781,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3202,6 +3202,11 @@
       "Time": "2023-08-26T12:08:32.3687111+00:00",
       "NumProgressed": 9132,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-26T13:09:21.9972061+00:00",
+      "NumProgressed": 9139,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -3254,7 +3259,7 @@
       "Name": "Doctor Approved",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 1552
+      "UsersEstimate": 1554
     },
     {
       "ID": "15",
@@ -3262,7 +3267,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1735
+      "UsersEstimate": 1736
     },
     {
       "ID": "16",
@@ -3278,7 +3283,7 @@
       "Name": "Spore Taste",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1279
     },
     {
       "ID": "18",
@@ -3294,7 +3299,7 @@
       "Name": "Martian Music",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1279
     },
     {
       "ID": "2",
@@ -3390,7 +3395,7 @@
       "Name": "Captain Drummer",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1461
+      "UsersEstimate": 1462
     },
     {
       "ID": "30",
@@ -3453,14 +3458,14 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 9132,
+      "Progressed": 9139,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged_Achievements": "2023-08-26T12:08:32.3687105+00:00",
+  "LastChanged_Achievements": "2023-08-26T13:09:21.9972055+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:45.4170889+00:00",
-  "LastUpdate_Ratings": "2023-08-26T11:57:39.8734266+00:00",
-  "LastUpdate_Achievements": "2023-08-26T12:08:32.3687431+00:00"
+  "LastUpdate_Ratings": "2023-08-26T12:59:40.613609+00:00",
+  "LastUpdate_Achievements": "2023-08-26T13:09:21.9972496+00:00"
 }

@@ -23,7 +23,7 @@ Number of Ratings: 546  (23.09.2022)
 | Rookies Welcome | 20.00% | ~1,627 |
 | Deadly Power | 16.00% | ~1,302 |
 | Castle Restoration Plans | 14.00% | ~1,139 |
-| The Dwarven Chandelier | 12.00% | ~976 |
+| The Dwarven Chandelier | 13.00% | ~1,058 |
 | Master of Speed | 10.00% | ~814 |
 | The Levitator | 7.00% | ~569 |
 | The God of Battle | 3.00% | ~244 |

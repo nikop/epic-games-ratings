@@ -13,6 +13,7 @@
 | Feel the Spark | 3.00% | ~1 |
 | Overkill | 3.00% | ~1 |
 | Flawless Victory | 3.00% | ~1 |
+| For Science | 3.00% | ~1 |
 | Hammer Time | 3.00% | ~1 |
 | Escape From M.C. | 3.00% | ~1 |
 | Restore Honor | 3.00% | ~1 |
@@ -24,7 +25,6 @@
 | Captain | 0.00% | ~0 |
 | Chief | 0.00% | ~0 |
 | Dust to Dust | 0.00% | ~0 |
-| For Science | 0.00% | ~0 |
 | Law and Order | 0.00% | ~0 |
 | Millionaire | 0.00% | ~0 |
 | Fashionista | 0.00% | ~0 |

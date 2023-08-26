@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 4,
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-06-08T23:00:00+00:00",
@@ -10194,10 +10194,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 1378796,
       "NumberOfAwardsMax": 303862
+    },
+    {
+      "Time": "2023-08-26T12:59:16.5630927+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1378878,
+      "NumberOfAwardsMax": 303862
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1378796,
+  "NumberOfAwards": 1378878,
   "NumberOfAwardsMax": 303862,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10235,7 +10241,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 116274
+      "Count": 116356
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -10279,8 +10285,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:42.3518763+00:00",
-  "LastChanged": "2023-08-26T08:59:45.878173+00:00",
+  "LastChanged": "2023-08-26T12:59:16.5630925+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:10.007596+00:00",
-  "LastUpdate_Ratings": "2023-08-26T11:57:03.9383684+00:00",
-  "LastUpdate_Achievements": "2023-08-26T12:06:25.3156468+00:00"
+  "LastUpdate_Ratings": "2023-08-26T12:59:16.5630932+00:00",
+  "LastUpdate_Achievements": "2023-08-26T13:07:39.9556558+00:00"
 }

@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 300)  
+Rating: 4.65 (Ranked 299)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -12,45 +12,45 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intrepid | 3.00% | ~407 |
 | Friendly Family | 3.00% | ~407 |
 | Play a Single Player Game | 3.00% | ~407 |
-| Able | 2.00% | ~271 |
-| Ambitious | 2.00% | ~271 |
-| Architect | 2.00% | ~271 |
-| Brilliant | 2.00% | ~271 |
-| Enlightened | 2.00% | ~271 |
-| Fountainhead | 2.00% | ~271 |
-| Glorious | 2.00% | ~271 |
-| Good | 2.00% | ~271 |
-| Just | 2.00% | ~271 |
-| Keystone | 2.00% | ~271 |
-| Learned | 2.00% | ~271 |
-| Magnificent | 2.00% | ~271 |
-| Mason | 2.00% | ~271 |
-| Noble | 2.00% | ~271 |
-| Pioneer | 2.00% | ~271 |
-| Strong | 2.00% | ~271 |
-| Warrior | 2.00% | ~271 |
-| Wise | 2.00% | ~271 |
-| Developing Cities | 2.00% | ~271 |
-| Strong Cities | 2.00% | ~271 |
-| Able Difficulty | 2.00% | ~271 |
-| Great Ziggurat | 2.00% | ~271 |
-| Hanging Gardens | 2.00% | ~271 |
-| Ishtar Gate | 2.00% | ~271 |
-| Lighthouse | 2.00% | ~271 |
-| Oracle | 2.00% | ~271 |
-| Pyramids | 2.00% | ~271 |
-| Learn to Play 1 | 2.00% | ~271 |
-| Christianity | 2.00% | ~271 |
-| Judaism | 2.00% | ~271 |
-| Babylonian Paganism | 2.00% | ~271 |
-| Carthaginian Paganism | 2.00% | ~271 |
-| Greek Paganism | 2.00% | ~271 |
-| Roman Paganism | 2.00% | ~271 |
-| Zoroastrianism | 2.00% | ~271 |
-| Naming Landmarks | 2.00% | ~271 |
-| Trade Caravan | 2.00% | ~271 |
-| The Great Mage | 2.00% | ~271 |
-| Poetic Leader | 2.00% | ~271 |
+| Able | 2.00% | ~272 |
+| Ambitious | 2.00% | ~272 |
+| Architect | 2.00% | ~272 |
+| Brilliant | 2.00% | ~272 |
+| Enlightened | 2.00% | ~272 |
+| Fountainhead | 2.00% | ~272 |
+| Glorious | 2.00% | ~272 |
+| Good | 2.00% | ~272 |
+| Just | 2.00% | ~272 |
+| Keystone | 2.00% | ~272 |
+| Learned | 2.00% | ~272 |
+| Magnificent | 2.00% | ~272 |
+| Mason | 2.00% | ~272 |
+| Noble | 2.00% | ~272 |
+| Pioneer | 2.00% | ~272 |
+| Strong | 2.00% | ~272 |
+| Warrior | 2.00% | ~272 |
+| Wise | 2.00% | ~272 |
+| Developing Cities | 2.00% | ~272 |
+| Strong Cities | 2.00% | ~272 |
+| Able Difficulty | 2.00% | ~272 |
+| Great Ziggurat | 2.00% | ~272 |
+| Hanging Gardens | 2.00% | ~272 |
+| Ishtar Gate | 2.00% | ~272 |
+| Lighthouse | 2.00% | ~272 |
+| Oracle | 2.00% | ~272 |
+| Pyramids | 2.00% | ~272 |
+| Learn to Play 1 | 2.00% | ~272 |
+| Christianity | 2.00% | ~272 |
+| Judaism | 2.00% | ~272 |
+| Babylonian Paganism | 2.00% | ~272 |
+| Carthaginian Paganism | 2.00% | ~272 |
+| Greek Paganism | 2.00% | ~272 |
+| Roman Paganism | 2.00% | ~272 |
+| Zoroastrianism | 2.00% | ~272 |
+| Naming Landmarks | 2.00% | ~272 |
+| Trade Caravan | 2.00% | ~272 |
+| The Great Mage | 2.00% | ~272 |
+| Poetic Leader | 2.00% | ~272 |
 | Regicide | 1.00% | ~136 |
 | Drillmaster | 1.00% | ~136 |
 | Great | 1.00% | ~136 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,574 (Ranked 119)  
+Progressed: 13,575 (Ranked 119)  
 Completed: 5 (0.04%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -431,7 +431,7 @@ Completed: 5 (0.04%) (Ranked 234)
 | 2023-08-23 | 13,540 | 5 |
 | 2023-08-24 | 13,546 | 5 |
 | 2023-08-25 | 13,563 | 5 |
-| 2023-08-26 | 13,574 | 5 |
+| 2023-08-26 | 13,575 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,799 (Ranked 208)  
