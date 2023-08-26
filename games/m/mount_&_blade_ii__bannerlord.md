@@ -8,9 +8,9 @@ Number of Ratings: 5,603  (23.09.2022)
 | ---- | ---------- | ----- |
 | Lawbringer | 38.00% | ~22,691 |
 | Landlord | 32.00% | ~19,108 |
+| Horde breaker | 23.00% | ~13,734 |
 | Lawmaker | 23.00% | ~13,734 |
 | Bannerlord | 22.00% | ~13,137 |
-| Horde breaker | 22.00% | ~13,137 |
 | Trained | 22.00% | ~13,137 |
 | The king is pleased | 18.00% | ~10,749 |
 | King Solomon | 17.00% | ~10,151 |

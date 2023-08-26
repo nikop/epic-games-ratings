@@ -4,7 +4,7 @@
   "ProductSlug": "terror-of-hemasaurus-a08800",
   "Ranking_EOS_Progress": 356,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-10-17T17:00:00+00:00",
@@ -241,9 +241,9 @@
       "ID": "ACH_1000_CIVILIANS",
       "SetID": "aio76gp",
       "Name": "Terror Rising",
-      "Percentage": 68,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACH_100_CARS_DESTROYED",
@@ -305,9 +305,9 @@
       "ID": "ACH_20_CARS_DESTROYED",
       "SetID": "aio76gp",
       "Name": "Jalopy Poppy",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_20_MIDAIR_COLLISIONS",
@@ -441,9 +441,9 @@
       "ID": "ACH_KILL_100_ENEMIES",
       "SetID": "aio76gp",
       "Name": "Green-Bodied Monster",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_KILL_300_ENEMIES",
@@ -490,8 +490,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.2122868+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.8436935+00:00",
   "LastChanged": "2023-03-31T05:57:37.2122869+00:00",
-  "LastChanged_Achievements": "2023-08-26T21:04:40.4783939+00:00",
+  "LastChanged_Achievements": "2023-08-26T22:04:06.9883735+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:10.6953998+00:00",
-  "LastUpdate_Ratings": "2023-08-26T21:02:32.4682742+00:00",
-  "LastUpdate_Achievements": "2023-08-26T21:04:40.4784515+00:00"
+  "LastUpdate_Ratings": "2023-08-26T22:01:46.430201+00:00",
+  "LastUpdate_Achievements": "2023-08-26T22:04:06.9883971+00:00"
 }

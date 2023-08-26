@@ -10,10 +10,10 @@ Rating: 4.20 (Ranked 861)
 | Admiring the view | 0.20% | ~3 |
 | Blues Jam | 0.10% | ~2 |
 | “Here boy…“ | 0.10% | ~2 |
+| Resignation | 0.10% | ~2 |
+| Resignation Reprise | 0.10% | ~2 |
 | Family First | 0.00% | ~0 |
 | First contact | 0.00% | ~0 |
-| Resignation | 0.00% | ~0 |
-| Resignation Reprise | 0.00% | ~0 |
 | Understanding | 0.00% | ~0 |
 | War of the worlds | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

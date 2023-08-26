@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -1237,9 +1237,9 @@
       "ID": "Chapter3",
       "SetID": "70l3651",
       "Name": "The Breeder",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 122
     },
     {
       "ID": "Chapter4",
@@ -1484,8 +1484,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-08-26T21:06:48.8670107+00:00",
+  "LastChanged_Achievements": "2023-08-26T22:06:02.1976904+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:28.4021723+00:00",
-  "LastUpdate_Ratings": "2023-08-26T21:01:44.3484942+00:00",
-  "LastUpdate_Achievements": "2023-08-26T21:06:48.8670709+00:00"
+  "LastUpdate_Ratings": "2023-08-26T22:01:02.3468421+00:00",
+  "LastUpdate_Achievements": "2023-08-26T22:06:02.1977234+00:00"
 }

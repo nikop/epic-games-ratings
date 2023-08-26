@@ -5,6 +5,7 @@ Rating: 4.54 (Ranked 502)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Welcome To Hell-A | 0.30% | ~1,999 |
 | Dr. Reed, I Presume? | 0.20% | ~1,332 |
 | Git Gutte! | 0.20% | ~1,332 |
 | Bookworm | 0.20% | ~1,332 |
@@ -23,7 +24,6 @@ Rating: 4.54 (Ranked 502)
 | Stacking the Deck | 0.20% | ~1,332 |
 | Personal Assistant Personally Assisted | 0.20% | ~1,332 |
 | This is My Weapon | 0.20% | ~1,332 |
-| Welcome To Hell-A | 0.20% | ~1,332 |
 | Making Your Mark | 0.10% | ~666 |
 | Anger Management | 0.10% | ~666 |
 | Make it So | 0.10% | ~666 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 502)
 | Rising Star | 0.10% | ~666 |
 | Bucket List | 0.10% | ~666 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 666,166 (Ranked 22)  
+Progressed: 666,210 (Ranked 22)  
 Completed: 2,078 (0.31%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 2,078 (0.31%) (Ranked 172)
 | 2023-08-23 | 663,691 | 2,054 |
 | 2023-08-24 | 664,478 | 2,059 |
 | 2023-08-25 | 665,272 | 2,068 |
-| 2023-08-26 | 666,166 | 2,078 |
+| 2023-08-26 | 666,210 | 2,078 |
 ## Awards
 Max (Great Boss Battles): 5,770  (Ranked 61)  
 Sum: 8,490 (Ranked 97)  

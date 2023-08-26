@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 502,
+  "EOS_Progressed": 503,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -1831,6 +1831,11 @@
       "Time": "2023-08-26T21:05:17.7824184+00:00",
       "NumProgressed": 502,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-26T22:04:40.3943672+00:00",
+      "NumProgressed": 503,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -1858,7 +1863,7 @@
       "Name": "Basic Controls",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "BigPlane",
@@ -1882,7 +1887,7 @@
       "Name": "Calculated",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "Close",
@@ -1890,7 +1895,7 @@
       "Name": "That Was Close!",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "Creator",
@@ -2008,9 +2013,9 @@
       "ID": "LongDistance",
       "SetID": "1e89b4i",
       "Name": "Long Distances",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 96
     },
     {
       "ID": "ManagementMaster",
@@ -2064,9 +2069,9 @@
       "ID": "NotPlanned",
       "SetID": "1e89b4i",
       "Name": "This Wasn\u0027t Part of the Plan...",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 95
+      "UsersEstimate": 91
     },
     {
       "ID": "Ownway",
@@ -2154,7 +2159,7 @@
       "Name": "Ten!",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "TimeForManagement",
@@ -2177,14 +2182,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 502,
+      "Progressed": 503,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-08-26T21:05:17.7824179+00:00",
+  "LastChanged_Achievements": "2023-08-26T22:04:40.3943666+00:00",
   "LastUpdate_AppInfo": "2023-08-22T10:56:57.2309265+00:00",
-  "LastUpdate_Ratings": "2023-08-26T21:00:35.3409608+00:00",
-  "LastUpdate_Achievements": "2023-08-26T21:05:17.7824628+00:00"
+  "LastUpdate_Ratings": "2023-08-26T21:59:56.1424702+00:00",
+  "LastUpdate_Achievements": "2023-08-26T22:04:40.3944157+00:00"
 }

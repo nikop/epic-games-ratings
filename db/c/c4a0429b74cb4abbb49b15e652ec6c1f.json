@@ -1268,9 +1268,9 @@
       "ID": "play_worlds",
       "SetID": "5fi1i42",
       "Name": "Play worlds from foes",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     },
     {
       "ID": "publish_your_first_world",
@@ -1355,8 +1355,8 @@
   ],
   "FirstSeen": "2023-07-12T15:57:01.7070767+00:00",
   "FirstSeenAchievements": "2023-07-18T16:05:27.8243884+00:00",
-  "LastChanged_Achievements": "2023-08-26T21:08:48.9211166+00:00",
+  "LastChanged_Achievements": "2023-08-26T22:07:50.6239322+00:00",
   "LastUpdate_AppInfo": "2023-08-24T08:56:53.3187957+00:00",
-  "LastUpdate_Ratings": "2023-08-26T21:00:27.7260017+00:00",
-  "LastUpdate_Achievements": "2023-08-26T21:08:48.9211496+00:00"
+  "LastUpdate_Ratings": "2023-08-26T21:59:49.2290637+00:00",
+  "LastUpdate_Achievements": "2023-08-26T22:07:50.6239537+00:00"
 }

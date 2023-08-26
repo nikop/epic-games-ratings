@@ -2,10 +2,10 @@
   "ID": "fc3184cec5eb463ea33412294a05fca2",
   "Name": "Placid Plastic Duck Simulator",
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
-  "Ranking_EOS_Progress": 291,
-  "Ranking_EOS_Completed": 41,
+  "Ranking_EOS_Progress": 290,
+  "Ranking_EOS_Completed": 42,
   "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
     "PcReleaseDate": "2022-07-06T08:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 221,
+  "EOS_Progressed": 222,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.79,
+  "EOS_Completed_Percentage": 6.76,
   "EosHistory": [
     {
       "Time": "2023-06-10T10:01:48.8314977+00:00",
@@ -911,6 +911,11 @@
       "Time": "2023-08-25T00:05:44.3334278+00:00",
       "NumProgressed": 221,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-08-26T22:05:22.8315863+00:00",
+      "NumProgressed": 222,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 16,
@@ -922,7 +927,7 @@
       "Name": "Three is company",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -936,9 +941,9 @@
       "ID": "NEW_ACHIEVEMENT_1_10",
       "SetID": "8d3ci0",
       "Name": "Cruise ship",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 82
+      "UsersEstimate": 80
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -962,7 +967,7 @@
       "Name": "High-rise",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -970,7 +975,7 @@
       "Name": "Putting challenge",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_15",
@@ -984,9 +989,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "8d3ci0",
       "Name": "Family pond",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 64
+      "UsersEstimate": 62
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -1018,7 +1023,7 @@
       "Name": "Private pool",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -1042,21 +1047,21 @@
       "Name": "Watery help",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     }
   ],
   "AchievementSets": [
     {
       "ID": "8d3ci0",
       "IsBase": true,
-      "Progressed": 221,
+      "Progressed": 222,
       "Completed": 15
     }
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-08-26T21:06:05.3626267+00:00",
+  "LastChanged_Achievements": "2023-08-26T22:05:22.8315854+00:00",
   "LastUpdate_AppInfo": "2023-08-26T16:57:08.4997824+00:00",
-  "LastUpdate_Ratings": "2023-08-26T21:00:24.4525285+00:00",
-  "LastUpdate_Achievements": "2023-08-26T21:06:05.3626569+00:00"
+  "LastUpdate_Ratings": "2023-08-26T21:59:46.2828202+00:00",
+  "LastUpdate_Achievements": "2023-08-26T22:05:22.8316052+00:00"
 }

@@ -1597,9 +1597,9 @@
       "ID": "defeat_enemies",
       "SetID": "236b9eg",
       "Name": "A Ribbiting Performance",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 1688
+      "UsersEstimate": 1710
     },
     {
       "ID": "defeat_tree_dummy",
@@ -1702,8 +1702,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-06-30T03:59:49.3890269+00:00",
-  "LastChanged_Achievements": "2023-08-26T21:06:06.0470492+00:00",
+  "LastChanged_Achievements": "2023-08-26T22:05:23.2534394+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:49.7275796+00:00",
-  "LastUpdate_Ratings": "2023-08-26T20:59:37.6472998+00:00",
-  "LastUpdate_Achievements": "2023-08-26T21:06:06.0470885+00:00"
+  "LastUpdate_Ratings": "2023-08-26T21:59:02.4242662+00:00",
+  "LastUpdate_Achievements": "2023-08-26T22:05:23.2534628+00:00"
 }

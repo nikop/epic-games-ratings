@@ -13,12 +13,12 @@ Rating: 4.77 (Ranked 109)
 | A Keen Sense of Spell | 10.00% | ~29,086 |
 | A Talent for Spending | 10.00% | ~29,086 |
 | That's a Keeper | 10.00% | ~29,086 |
-| Grappling with a Graphorn | 9.00% | ~26,177 |
-| The One Who Mastered Memories | 9.00% | ~26,177 |
-| The Hero of Hogwarts | 9.00% | ~26,177 |
-| Challenge Accepted | 9.00% | ~26,177 |
-| Loom for Improvement | 9.00% | ~26,177 |
-| Coasting Along | 9.00% | ~26,177 |
+| Grappling with a Graphorn | 9.00% | ~26,178 |
+| The One Who Mastered Memories | 9.00% | ~26,178 |
+| The Hero of Hogwarts | 9.00% | ~26,178 |
+| Challenge Accepted | 9.00% | ~26,178 |
+| Loom for Improvement | 9.00% | ~26,178 |
+| Coasting Along | 9.00% | ~26,178 |
 | Followed the Butterflies | 8.00% | ~23,269 |
 | The Spell Master | 8.00% | ~23,269 |
 | Rising From the Ashes | 8.00% | ~23,269 |
@@ -30,12 +30,12 @@ Rating: 4.77 (Ranked 109)
 | The Root of the Problem | 5.00% | ~14,543 |
 | Third Time's a Charm | 5.00% | ~14,543 |
 | Raising Expectations | 5.00% | ~14,543 |
-| The Toast of the Town | 4.00% | ~11,634 |
-| Going Through the Potions | 4.00% | ~11,634 |
-| Room with a View | 4.00% | ~11,634 |
-| The Intrepid Explorer | 4.00% | ~11,634 |
-| The Gryffindor in the Graveyard | 4.00% | ~11,634 |
-| The Ends Petrify the Means | 4.00% | ~11,634 |
+| The Toast of the Town | 4.00% | ~11,635 |
+| Going Through the Potions | 4.00% | ~11,635 |
+| Room with a View | 4.00% | ~11,635 |
+| The Intrepid Explorer | 4.00% | ~11,635 |
+| The Gryffindor in the Graveyard | 4.00% | ~11,635 |
+| The Ends Petrify the Means | 4.00% | ~11,635 |
 | Floo Around the World | 3.00% | ~8,726 |
 | The Wise Owl | 3.00% | ~8,726 |
 | The Good Samaritan | 2.00% | ~5,817 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,745 |
 | Collector's Edition | 0.30% | ~873 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,860 (Ranked 43)  
+Progressed: 290,864 (Ranked 43)  
 Completed: 455 (0.16%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,15 +179,15 @@ Completed: 455 (0.16%) (Ranked 196)
 | 2023-08-23 | 290,678 | 454 |
 | 2023-08-24 | 290,736 | 454 |
 | 2023-08-25 | 290,790 | 455 |
-| 2023-08-26 | 290,860 | 455 |
+| 2023-08-26 | 290,864 | 455 |
 ## Awards
 Max (Character Customization): 21,948  (Ranked 17)  
-Sum: 41,575 (Ranked 30)  
+Sum: 41,589 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 21,948 |
-| This game has Great Boss Battles | 10,673 |
+| This game has Great Boss Battles | 10,687 |
 | This game is Great for Beginners | 992 |
 | This game is Relaxing | 970 |
 | This game is Extremely Fun | 968 |
@@ -356,4 +356,4 @@ Diff (max vs sum): -13
 | 2023-08-23 | 4.77 | 21,894 | 41,450 |
 | 2023-08-24 | 4.77 | 21,908 | 41,494 |
 | 2023-08-25 | 4.77 | 21,923 | 41,535 |
-| 2023-08-26 | 4.77 | 21,948 | 41,575 |
+| 2023-08-26 | 4.77 | 21,948 | 41,589 |

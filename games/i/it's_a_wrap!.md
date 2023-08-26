@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Under the Bridge | 78.00% | ~21 |
-| Treasure Hunter | 11.00% | ~3 |
+| Treasure Hunter | 15.00% | ~4 |
 | Space Invader | 7.00% | ~2 |
 | One Man Army | 7.00% | ~2 |
 | What's my line again? | 4.00% | ~1 |

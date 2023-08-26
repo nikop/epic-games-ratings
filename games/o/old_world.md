@@ -101,6 +101,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus | 0.70% | ~95 |
 | Hagia Sophia | 0.70% | ~95 |
 | Learn to Play 3 | 0.70% | ~95 |
+| Dualism | 0.70% | ~95 |
 | Redemption | 0.70% | ~95 |
 | Ambition Victory | 0.70% | ~95 |
 | Double Victory | 0.70% | ~95 |
@@ -115,7 +116,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Assyrian Paganism | 0.60% | ~82 |
 | Industrial Progress | 0.60% | ~82 |
 | Military Prestige | 0.60% | ~82 |
-| Dualism | 0.60% | ~82 |
 | Enlightenment | 0.60% | ~82 |
 | Gnosticism | 0.60% | ~82 |
 | Revelation | 0.60% | ~82 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,589 (Ranked 119)  
+Progressed: 13,590 (Ranked 119)  
 Completed: 5 (0.04%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -431,7 +431,7 @@ Completed: 5 (0.04%) (Ranked 235)
 | 2023-08-23 | 13,540 | 5 |
 | 2023-08-24 | 13,546 | 5 |
 | 2023-08-25 | 13,563 | 5 |
-| 2023-08-26 | 13,589 | 5 |
+| 2023-08-26 | 13,590 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,799 (Ranked 208)  

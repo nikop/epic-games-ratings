@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17679,
+  "EOS_Progressed": 17680,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9141,6 +9141,11 @@
       "Time": "2023-08-26T21:07:58.1514595+00:00",
       "NumProgressed": 17679,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-26T22:07:05.3409756+00:00",
+      "NumProgressed": 17680,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -9168,7 +9173,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3005
+      "UsersEstimate": 3006
     },
     {
       "ID": "0004",
@@ -9336,7 +9341,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3889
+      "UsersEstimate": 3890
     },
     {
       "ID": "0025",
@@ -9352,7 +9357,7 @@
       "Name": "The Living Portrait",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2121
+      "UsersEstimate": 2122
     },
     {
       "ID": "0027",
@@ -9392,7 +9397,7 @@
       "Name": "Private Collection",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2121
+      "UsersEstimate": 2122
     },
     {
       "ID": "0032",
@@ -9408,7 +9413,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2121
+      "UsersEstimate": 2122
     },
     {
       "ID": "0034",
@@ -9416,7 +9421,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2121
+      "UsersEstimate": 2122
     },
     {
       "ID": "0035",
@@ -9439,7 +9444,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17679,
+      "Progressed": 17680,
       "Completed": 1
     }
   ],
@@ -9447,8 +9452,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-12T19:04:41.1874293+00:00",
-  "LastChanged_Achievements": "2023-08-26T21:07:58.151459+00:00",
+  "LastChanged_Achievements": "2023-08-26T22:07:05.3409749+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:14.6586711+00:00",
-  "LastUpdate_Ratings": "2023-08-26T20:58:42.2223816+00:00",
-  "LastUpdate_Achievements": "2023-08-26T21:07:58.1515708+00:00"
+  "LastUpdate_Ratings": "2023-08-26T21:58:14.7571771+00:00",
+  "LastUpdate_Achievements": "2023-08-26T22:07:05.3410611+00:00"
 }

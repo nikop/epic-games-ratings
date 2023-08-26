@@ -2,12 +2,12 @@
   "ID": "1fe9a1a33a8b4df8bd8dd3b9269f8153",
   "Name": "Animation Throwdown: The Quest for Cards",
   "ProductSlug": "animation-throwdown-the-quest-for-cards",
-  "Ranking_Rating": 779,
+  "Ranking_Rating": 778,
   "Ranking_Popularity": 226,
   "Ranking_PopularitySum": 171,
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-10-04T17:00:00+00:00",
@@ -1739,10 +1739,16 @@
       "Rating": 4.32,
       "NumberOfAwards": 2717,
       "NumberOfAwardsMax": 357
+    },
+    {
+      "Time": "2023-08-26T22:00:57.3905376+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 2719,
+      "NumberOfAwardsMax": 357
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2717,
+  "NumberOfAwards": 2719,
   "NumberOfAwardsMax": 357,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1792,7 +1798,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 285
+      "Count": 286
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1804,7 +1810,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 228
+      "Count": 229
     }
   ],
   "EOS_Progressed": 0,
@@ -1818,8 +1824,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:50.5721144+00:00",
-  "LastChanged": "2023-08-25T19:01:09.4568597+00:00",
+  "LastChanged": "2023-08-26T22:00:57.3905375+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:24.9947315+00:00",
-  "LastUpdate_Ratings": "2023-08-26T21:01:40.9062936+00:00",
-  "LastUpdate_Achievements": "2023-08-26T21:04:10.3221359+00:00"
+  "LastUpdate_Ratings": "2023-08-26T22:00:57.390538+00:00",
+  "LastUpdate_Achievements": "2023-08-26T22:03:29.4012493+00:00"
 }

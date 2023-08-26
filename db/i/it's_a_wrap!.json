@@ -224,9 +224,9 @@
       "ID": "MOV1_FINISH",
       "SetID": "2l1dk5b",
       "Name": "Treasure Hunter",
-      "Percentage": 11,
+      "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "MOV2_FINISH",
@@ -255,8 +255,8 @@
   ],
   "FirstSeen": "2023-08-25T08:57:40.9970991+00:00",
   "FirstSeenAchievements": "2023-08-01T21:04:35.2343064+00:00",
-  "LastChanged_Achievements": "2023-08-26T21:08:38.5804801+00:00",
+  "LastChanged_Achievements": "2023-08-26T22:07:41.5612874+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:00.6888694+00:00",
-  "LastUpdate_Ratings": "2023-08-26T20:58:21.654528+00:00",
-  "LastUpdate_Achievements": "2023-08-26T21:08:38.580494+00:00"
+  "LastUpdate_Ratings": "2023-08-26T21:57:54.4433563+00:00",
+  "LastUpdate_Achievements": "2023-08-26T22:07:41.5613028+00:00"
 }

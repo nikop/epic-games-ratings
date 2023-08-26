@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 82,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 98,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -5746,18 +5746,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 10988,
       "NumberOfAwardsMax": 6398
+    },
+    {
+      "Time": "2023-08-26T21:57:29.8411439+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10992,
+      "NumberOfAwardsMax": 6402
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10988,
-  "NumberOfAwardsMax": 6398,
+  "NumberOfAwards": 10992,
+  "NumberOfAwardsMax": 6402,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6398
+      "Count": 6402
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5826,9 +5832,9 @@
       "Count": 372
     }
   ],
-  "EOS_Progressed": 712726,
+  "EOS_Progressed": 712728,
   "EOS_Completed": 12874,
-  "EOS_NewPlayers": 182,
+  "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -17691,6 +17697,11 @@
       "Time": "2023-08-26T20:05:22.7166528+00:00",
       "NumProgressed": 712726,
       "NumCompleted": 12874
+    },
+    {
+      "Time": "2023-08-26T22:06:16.0027902+00:00",
+      "NumProgressed": 712728,
+      "NumCompleted": 12874
     }
   ],
   "TotalAchievements": 50,
@@ -17916,9 +17927,9 @@
       "ID": "28_Takedown_Trophy",
       "SetID": "adcm20g",
       "Name": "The 36th Chamber of Kung-Fu",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 4276
+      "UsersEstimate": 4989
     },
     {
       "ID": "29_FocusAttack_Trophy",
@@ -18101,21 +18112,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 22027,
-      "Completed": 10558
+      "Progressed": 22029,
+      "Completed": 10559
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 712726,
+      "Progressed": 712728,
       "Completed": 12874
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-08-25T21:57:11.0349096+00:00",
-  "LastChanged_Achievements": "2023-08-26T21:07:04.087348+00:00",
+  "LastChanged": "2023-08-26T21:57:29.8411438+00:00",
+  "LastChanged_Achievements": "2023-08-26T22:06:16.0027887+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:37.9351908+00:00",
-  "LastUpdate_Ratings": "2023-08-26T20:57:56.1052005+00:00",
-  "LastUpdate_Achievements": "2023-08-26T21:07:04.0875509+00:00"
+  "LastUpdate_Ratings": "2023-08-26T21:57:29.8411445+00:00",
+  "LastUpdate_Achievements": "2023-08-26T22:06:16.0028916+00:00"
 }
