@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 120,
   "Ranking_EOS_NewPlayers": 39,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -6106,9 +6106,9 @@
       "Count": 3373
     }
   ],
-  "EOS_Progressed": 225014,
+  "EOS_Progressed": 225032,
   "EOS_Completed": 2217,
-  "EOS_NewPlayers": 1757,
+  "EOS_NewPlayers": 1763,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -20101,6 +20101,11 @@
       "Time": "2023-08-26T09:10:50.306053+00:00",
       "NumProgressed": 225014,
       "NumCompleted": 2217
+    },
+    {
+      "Time": "2023-08-26T10:09:17.8576548+00:00",
+      "NumProgressed": 225032,
+      "NumCompleted": 2217
     }
   ],
   "TotalAchievements": 516,
@@ -20112,7 +20117,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4500
+      "UsersEstimate": 4501
     },
     {
       "ID": "objective_completed_10",
@@ -23294,9 +23299,9 @@
       "ID": "objective_completed_75",
       "SetID": "cc37lbc",
       "Name": "Lost in the Deep",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 450
     },
     {
       "ID": "objective_completed_76",
@@ -24208,7 +24213,7 @@
       "Name": "The Hunt for The Last Breath",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "objective_completed_1396",
@@ -24239,21 +24244,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 191288,
+      "Progressed": 191306,
       "Completed": 3308
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 225014,
+      "Progressed": 225032,
       "Completed": 2217
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-26T05:01:06.4008424+00:00",
-  "LastChanged_Achievements": "2023-08-26T09:10:50.3060523+00:00",
+  "LastChanged_Achievements": "2023-08-26T10:09:17.8576543+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:53.3345914+00:00",
-  "LastUpdate_Ratings": "2023-08-26T09:04:20.7708028+00:00",
-  "LastUpdate_Achievements": "2023-08-26T09:10:50.3091455+00:00"
+  "LastUpdate_Ratings": "2023-08-26T10:02:42.6186365+00:00",
+  "LastUpdate_Achievements": "2023-08-26T10:09:17.8600608+00:00"
 }

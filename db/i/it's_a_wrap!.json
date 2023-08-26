@@ -2,9 +2,9 @@
   "ID": "810797d6d1c640068ce75d45b85d2423",
   "Name": "It\u0027s a Wrap!",
   "ProductSlug": "its-a-wrap-f392ae",
-  "Ranking_EOS_Progress": 420,
+  "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-08-23T17:30:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 20,
+  "EOS_Progressed": 21,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -101,6 +101,11 @@
       "Time": "2023-08-25T18:06:34.4442416+00:00",
       "NumProgressed": 20,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-26T10:08:55.9036826+00:00",
+      "NumProgressed": 21,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-23T18:07:41.5840272+00:00",
@@ -111,7 +116,7 @@
       "ID": "1_10_SECRET",
       "SetID": "2l1dk5b",
       "Name": "Under the Bridge",
-      "Percentage": 80,
+      "Percentage": 76,
       "XP": 25,
       "UsersEstimate": 16
     },
@@ -167,9 +172,9 @@
       "ID": "3_20_SECRET",
       "SetID": "2l1dk5b",
       "Name": "Meet Your Makers",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ALL_BUDGET_KILLER",
@@ -224,14 +229,14 @@
     {
       "ID": "2l1dk5b",
       "IsBase": true,
-      "Progressed": 20,
+      "Progressed": 21,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-25T08:57:40.9970991+00:00",
   "FirstSeenAchievements": "2023-08-01T21:04:35.2343064+00:00",
-  "LastChanged_Achievements": "2023-08-26T09:10:28.2223487+00:00",
-  "LastUpdate_AppInfo": "2023-08-19T08:58:24.5748355+00:00",
-  "LastUpdate_Ratings": "2023-08-26T09:00:38.7119679+00:00",
-  "LastUpdate_Achievements": "2023-08-26T09:10:28.2223639+00:00"
+  "LastChanged_Achievements": "2023-08-26T10:08:55.9036822+00:00",
+  "LastUpdate_AppInfo": "2023-08-26T09:57:00.6888694+00:00",
+  "LastUpdate_Ratings": "2023-08-26T09:59:00.6449301+00:00",
+  "LastUpdate_Achievements": "2023-08-26T10:08:55.9036934+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
   "Ranking_EOS_Progress": 231,
-  "Ranking_EOS_Completed": 188,
+  "Ranking_EOS_Completed": 159,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 500,
-  "EOS_Completed": 1,
+  "EOS_Progressed": 502,
+  "EOS_Completed": 2,
   "EOS_NewPlayers": 233,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.2,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -991,6 +991,11 @@
       "Time": "2023-08-26T08:04:11.9201435+00:00",
       "NumProgressed": 500,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-26T10:06:23.4029327+00:00",
+      "NumProgressed": 502,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1009,9 +1014,9 @@
       "ID": "_02_FinishFirstMission",
       "SetID": "8a1io5d",
       "Name": "A New Journey",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 375
+      "UsersEstimate": 371
     },
     {
       "ID": "_03_FinishAct1",
@@ -1019,7 +1024,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1027,15 +1032,15 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "_05_FinishAct2",
       "SetID": "8a1io5d",
       "Name": "The Gambit Has Begun",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 110
+      "UsersEstimate": 115
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -1059,7 +1064,7 @@
       "Name": "Swabbie",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "_09_Completion_20",
@@ -1131,7 +1136,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -1210,14 +1215,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 500,
-      "Completed": 1
+      "Progressed": 502,
+      "Completed": 2
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-26T09:07:51.0580626+00:00",
+  "LastChanged_Achievements": "2023-08-26T10:06:23.4029323+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:45.1302228+00:00",
-  "LastUpdate_Ratings": "2023-08-26T09:04:10.538085+00:00",
-  "LastUpdate_Achievements": "2023-08-26T09:07:51.0580883+00:00"
+  "LastUpdate_Ratings": "2023-08-26T10:02:33.7994345+00:00",
+  "LastUpdate_Achievements": "2023-08-26T10:06:23.4029534+00:00"
 }

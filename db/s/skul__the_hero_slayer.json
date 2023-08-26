@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 253,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -4617,9 +4617,9 @@
       "ID": "TheendofGoldManeKnights",
       "SetID": "97dk767",
       "Name": "The End of the Gold Mane Knights",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 3905
+      "UsersEstimate": 3986
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -4649,8 +4649,8 @@
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-08-23T17:02:24.1541742+00:00",
-  "LastChanged_Achievements": "2023-08-26T09:11:06.4910193+00:00",
+  "LastChanged_Achievements": "2023-08-26T10:09:32.5849005+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:42.4579176+00:00",
-  "LastUpdate_Ratings": "2023-08-26T09:05:12.4144102+00:00",
-  "LastUpdate_Achievements": "2023-08-26T09:11:06.4910941+00:00"
+  "LastUpdate_Ratings": "2023-08-26T10:03:30.9188055+00:00",
+  "LastUpdate_Achievements": "2023-08-26T10:09:32.58493+00:00"
 }

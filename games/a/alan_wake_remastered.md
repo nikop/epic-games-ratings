@@ -6,20 +6,20 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 38.00% | ~23,427 |
-| Let There Be Light | 31.00% | ~19,112 |
-| Float Like a Butterfly | 29.00% | ~17,879 |
-| Nordic Walking | 24.00% | ~14,796 |
+| Follow the Light | 38.00% | ~23,429 |
+| Let There Be Light | 31.00% | ~19,113 |
+| Float Like a Butterfly | 29.00% | ~17,880 |
+| Nordic Walking | 24.00% | ~14,797 |
 | Bright Falls' Finest | 23.00% | ~14,180 |
-| Under a Thin Layer of Skin | 20.00% | ~12,330 |
+| Under a Thin Layer of Skin | 20.00% | ~12,331 |
 | Park Ranger | 17.00% | ~10,481 |
 | Paging Mr. Wake | 17.00% | ~10,481 |
-| Back! Back, I Say! | 16.00% | ~9,864 |
-| Finders Keepers | 16.00% | ~9,864 |
-| They're Heeeeeere! | 14.00% | ~8,631 |
-| Sound and Fury | 14.00% | ~8,631 |
-| Missed by a Mile | 14.00% | ~8,631 |
-| Damn Good Cup of Coffee | 14.00% | ~8,631 |
+| Back! Back, I Say! | 16.00% | ~9,865 |
+| Finders Keepers | 16.00% | ~9,865 |
+| They're Heeeeeere! | 14.00% | ~8,632 |
+| Sound and Fury | 14.00% | ~8,632 |
+| Missed by a Mile | 14.00% | ~8,632 |
+| Damn Good Cup of Coffee | 14.00% | ~8,632 |
 | Wheels Within Wheels | 13.00% | ~8,015 |
 | The Six-Gun Scribe | 13.00% | ~8,015 |
 | Heavy Metal | 12.00% | ~7,398 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~62 |
 | No Punctuation | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,651 (Ranked 87)  
+Progressed: 61,654 (Ranked 87)  
 Completed: 65 (0.11%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 65 (0.11%) (Ranked 208)
 | 2023-08-23 | 61,436 | 65 |
 | 2023-08-24 | 61,526 | 65 |
 | 2023-08-25 | 61,617 | 65 |
-| 2023-08-26 | 61,651 | 65 |
+| 2023-08-26 | 61,654 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -5,9 +5,9 @@ Rating: 3.50 (Ranked 977)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Blood Will Have Blood | 0.30% | ~5 |
 | Ne Plus Ultra | 0.30% | ~5 |
 | Neighborhood Revitalization | 0.20% | ~3 |
-| Blood Will Have Blood | 0.20% | ~3 |
 | Sic Transit Umbra | 0.20% | ~3 |
 | Radio Silence | 0.20% | ~3 |
 | Good Morning | 0.20% | ~3 |

@@ -8,7 +8,7 @@
 | Grand Re-Opening | 60.00% | ~12 |
 | Pup Pup Boogie | 60.00% | ~12 |
 | Summer Day | 60.00% | ~12 |
-| Risky Rescue | 55.00% | ~11 |
+| Risky Rescue | 60.00% | ~12 |
 | Mr. Porter | 50.00% | ~10 |
 | Carlos Is Tangled | 45.00% | ~9 |
 | Mandy Family | 45.00% | ~9 |
@@ -35,7 +35,7 @@
 | The Collector | 0.00% | ~0 |
 | Pup Treat Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20 (Ranked 420)  
+Progressed: 20 (Ranked 421)  
 Completed: 0 (0.00%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -1962,9 +1962,9 @@
       "ID": "MissionMasterAndDisciple",
       "SetID": "a6c395p",
       "Name": "Rise as One",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 206
+      "UsersEstimate": 217
     },
     {
       "ID": "MissionOldFriend",
@@ -2122,8 +2122,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-08-19T10:57:32.3642226+00:00",
-  "LastChanged_Achievements": "2023-08-26T09:10:42.1478705+00:00",
-  "LastUpdate_AppInfo": "2023-08-19T08:57:41.1503098+00:00",
-  "LastUpdate_Ratings": "2023-08-26T09:01:13.9945295+00:00",
-  "LastUpdate_Achievements": "2023-08-26T09:10:42.1479136+00:00"
+  "LastChanged_Achievements": "2023-08-26T10:09:09.1727405+00:00",
+  "LastUpdate_AppInfo": "2023-08-26T09:57:27.6298041+00:00",
+  "LastUpdate_Ratings": "2023-08-26T09:59:36.6796519+00:00",
+  "LastUpdate_Achievements": "2023-08-26T10:09:09.172776+00:00"
 }

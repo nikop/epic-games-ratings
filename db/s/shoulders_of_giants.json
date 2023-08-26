@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-01-26T06:00:00+00:00",
@@ -72,9 +72,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2218,
+  "EOS_Progressed": 2219,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -1522,6 +1522,11 @@
       "Time": "2023-08-26T09:07:59.0849664+00:00",
       "NumProgressed": 2218,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-26T10:06:30.8689449+00:00",
+      "NumProgressed": 2219,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 19,
@@ -1541,7 +1546,7 @@
       "Name": "Nothing to Wear",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "complete_act_one",
@@ -1573,7 +1578,7 @@
       "Name": "On the Shoulders of Giants",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 1952
+      "UsersEstimate": 1953
     },
     {
       "ID": "deal_damage",
@@ -1589,7 +1594,7 @@
       "Name": "A Ribbiting Performance",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 1708
+      "UsersEstimate": 1709
     },
     {
       "ID": "defeat_tree_dummy",
@@ -1621,7 +1626,7 @@
       "Name": "Turn Up The HEAT",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 887
+      "UsersEstimate": 888
     },
     {
       "ID": "reach_high_heat",
@@ -1637,7 +1642,7 @@
       "Name": "Frogbot",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1597
+      "UsersEstimate": 1598
     },
     {
       "ID": "save_planet_bestfriend",
@@ -1684,7 +1689,7 @@
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 2218,
+      "Progressed": 2219,
       "Completed": 9
     }
   ],
@@ -1692,8 +1697,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-06-30T03:59:49.3890269+00:00",
-  "LastChanged_Achievements": "2023-08-26T09:07:59.0849657+00:00",
-  "LastUpdate_AppInfo": "2023-08-19T08:58:05.1420899+00:00",
-  "LastUpdate_Ratings": "2023-08-26T09:01:47.4992569+00:00",
-  "LastUpdate_Achievements": "2023-08-26T09:07:59.0849933+00:00"
+  "LastChanged_Achievements": "2023-08-26T10:06:30.8689444+00:00",
+  "LastUpdate_AppInfo": "2023-08-26T09:57:49.7275796+00:00",
+  "LastUpdate_Ratings": "2023-08-26T10:00:10.0957961+00:00",
+  "LastUpdate_Achievements": "2023-08-26T10:06:30.8689619+00:00"
 }

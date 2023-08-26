@@ -9,7 +9,7 @@
 | A Grand Show | 70.00% | ~38 |
 | Freshen Up | 59.00% | ~32 |
 | GG EZ | 59.00% | ~32 |
-| Hydrophobia | 43.00% | ~23 |
+| Hydrophobia | 44.00% | ~24 |
 | Ka-Ching! | 37.00% | ~20 |
 | Stop Right There | 35.00% | ~19 |
 | Get to the Point | 33.00% | ~18 |

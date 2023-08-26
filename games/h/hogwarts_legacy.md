@@ -5,14 +5,14 @@ Rating: 4.77 (Ranked 108)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 13.00% | ~37,807 |
-| First Class Student | 11.00% | ~31,990 |
-| Troll with the Punches | 11.00% | ~31,990 |
-| The Hallowed Hero | 10.00% | ~29,082 |
-| The Defender of Dragons | 10.00% | ~29,082 |
-| A Keen Sense of Spell | 10.00% | ~29,082 |
-| A Talent for Spending | 10.00% | ~29,082 |
-| That's a Keeper | 10.00% | ~29,082 |
+| The Sort Who Makes an Entrance | 13.00% | ~37,808 |
+| First Class Student | 11.00% | ~31,991 |
+| Troll with the Punches | 11.00% | ~31,991 |
+| The Hallowed Hero | 10.00% | ~29,083 |
+| The Defender of Dragons | 10.00% | ~29,083 |
+| A Keen Sense of Spell | 10.00% | ~29,083 |
+| A Talent for Spending | 10.00% | ~29,083 |
+| That's a Keeper | 10.00% | ~29,083 |
 | Grappling with a Graphorn | 9.00% | ~26,174 |
 | The One Who Mastered Memories | 9.00% | ~26,174 |
 | The Hero of Hogwarts | 9.00% | ~26,174 |
@@ -22,10 +22,10 @@ Rating: 4.77 (Ranked 108)
 | Followed the Butterflies | 8.00% | ~23,266 |
 | The Spell Master | 8.00% | ~23,266 |
 | Rising From the Ashes | 8.00% | ~23,266 |
-| The Avenging Gazelle | 7.00% | ~20,357 |
-| Beast Friends | 7.00% | ~20,357 |
-| A Sallow Grave | 7.00% | ~20,357 |
-| Flight the Good Flight | 7.00% | ~20,357 |
+| The Avenging Gazelle | 7.00% | ~20,358 |
+| Beast Friends | 7.00% | ~20,358 |
+| A Sallow Grave | 7.00% | ~20,358 |
+| Flight the Good Flight | 7.00% | ~20,358 |
 | The Seeker of Knowledge | 5.00% | ~14,541 |
 | The Root of the Problem | 5.00% | ~14,541 |
 | Third Time's a Charm | 5.00% | ~14,541 |
@@ -38,11 +38,11 @@ Rating: 4.77 (Ranked 108)
 | The Ends Petrify the Means | 4.00% | ~11,633 |
 | Floo Around the World | 3.00% | ~8,725 |
 | The Wise Owl | 3.00% | ~8,725 |
-| The Good Samaritan | 2.00% | ~5,816 |
-| Put Down Roots | 2.00% | ~5,816 |
-| The Auror's Apprentice | 2.00% | ~5,816 |
-| Rise to the Challenges | 2.00% | ~5,816 |
-| Finishing Touches | 2.00% | ~5,816 |
+| The Good Samaritan | 2.00% | ~5,817 |
+| Put Down Roots | 2.00% | ~5,817 |
+| The Auror's Apprentice | 2.00% | ~5,817 |
+| Rise to the Challenges | 2.00% | ~5,817 |
+| Finishing Touches | 2.00% | ~5,817 |
 | Savvy Spender | 1.00% | ~2,908 |
 | Demiguise Dread | 1.00% | ~2,908 |
 | A Forte for Achievement | 1.00% | ~2,908 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 108)
 | The Nature of the Beast | 0.60% | ~1,745 |
 | Collector's Edition | 0.30% | ~872 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,821 (Ranked 43)  
+Progressed: 290,827 (Ranked 43)  
 Completed: 455 (0.16%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 455 (0.16%) (Ranked 195)
 | 2023-08-23 | 290,678 | 454 |
 | 2023-08-24 | 290,736 | 454 |
 | 2023-08-25 | 290,790 | 455 |
-| 2023-08-26 | 290,821 | 455 |
+| 2023-08-26 | 290,827 | 455 |
 ## Awards
 Max (Character Customization): 21,923  (Ranked 17)  
 Sum: 41,542 (Ranked 30)  

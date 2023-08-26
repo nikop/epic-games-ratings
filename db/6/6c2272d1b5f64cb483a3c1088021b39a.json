@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 973,
+  "EOS_Progressed": 975,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3096,6 +3096,11 @@
       "Time": "2023-08-26T06:08:18.9980988+00:00",
       "NumProgressed": 973,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-26T10:09:36.1297734+00:00",
+      "NumProgressed": 975,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3115,7 +3120,7 @@
       "Name": "Adventurous 2",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "adventurous_3",
@@ -3179,7 +3184,7 @@
       "Name": "Catacombs Raid 1",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "catacombs_raid_2",
@@ -3211,7 +3216,7 @@
       "Name": "Collector 2",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "collector_3",
@@ -3227,7 +3232,7 @@
       "Name": "Conqueror 1",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "conqueror_2",
@@ -3273,9 +3278,9 @@
       "ID": "elemental_stones_1",
       "SetID": "53c1p3k",
       "Name": "Elemental stones 1",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 467
+      "UsersEstimate": 458
     },
     {
       "ID": "elemental_stones_2",
@@ -3395,7 +3400,7 @@
       "Name": "Invincible 1",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "invincible_2",
@@ -3419,7 +3424,7 @@
       "Name": "Lord of the Tower 1",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "lord_of_the_tower_2",
@@ -3467,7 +3472,7 @@
       "Name": "Obsessed Carver 1",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "obsessed_carver_2",
@@ -3523,7 +3528,7 @@
       "Name": "Sophisticated Alchemist 2",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "sophisticated_alchemist_3",
@@ -3563,7 +3568,7 @@
       "Name": "Stronghold 1",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "stronghold_2",
@@ -3619,7 +3624,7 @@
       "Name": "Tomb Raider 2",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "tomb_raider_3",
@@ -3634,14 +3639,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 973,
+      "Progressed": 975,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-08-26T09:11:10.4690187+00:00",
+  "LastChanged_Achievements": "2023-08-26T10:09:36.129773+00:00",
   "LastUpdate_AppInfo": "2023-08-22T05:57:11.4589116+00:00",
-  "LastUpdate_Ratings": "2023-08-26T09:02:48.9795264+00:00",
-  "LastUpdate_Achievements": "2023-08-26T09:11:10.4691033+00:00"
+  "LastUpdate_Ratings": "2023-08-26T10:01:13.6261396+00:00",
+  "LastUpdate_Achievements": "2023-08-26T10:09:36.1298371+00:00"
 }

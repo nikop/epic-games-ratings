@@ -217,9 +217,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 35169,
+  "EOS_Progressed": 35172,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 777,
+  "EOS_NewPlayers": 778,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -14292,6 +14292,11 @@
       "Time": "2023-08-26T09:05:26.9343496+00:00",
       "NumProgressed": 35169,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-08-26T10:04:04.5300207+00:00",
+      "NumProgressed": 35172,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 29,
@@ -14303,7 +14308,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 5275
+      "UsersEstimate": 5276
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -14375,7 +14380,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1758
+      "UsersEstimate": 1759
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -14455,7 +14460,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1758
+      "UsersEstimate": 1759
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -14534,7 +14539,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 35169,
+      "Progressed": 35172,
       "Completed": 21
     }
   ],
@@ -14542,8 +14547,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-12T21:03:39.1122054+00:00",
-  "LastChanged_Achievements": "2023-08-26T09:05:26.9343488+00:00",
-  "LastUpdate_AppInfo": "2023-08-19T08:57:52.0390033+00:00",
-  "LastUpdate_Ratings": "2023-08-26T09:01:22.1867935+00:00",
-  "LastUpdate_Achievements": "2023-08-26T09:05:26.9344822+00:00"
+  "LastChanged_Achievements": "2023-08-26T10:04:04.5300203+00:00",
+  "LastUpdate_AppInfo": "2023-08-26T09:57:35.8741643+00:00",
+  "LastUpdate_Ratings": "2023-08-26T09:59:45.8064897+00:00",
+  "LastUpdate_Achievements": "2023-08-26T10:04:04.5301131+00:00"
 }

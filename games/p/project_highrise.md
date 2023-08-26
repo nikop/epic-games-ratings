@@ -14,14 +14,14 @@
 | Upgrade Unlock | 37.00% | ~123 |
 | It's Technical | 37.00% | ~123 |
 | Delegate Maintenance | 35.00% | ~117 |
-| Proper Walls | 33.00% | ~110 |
-| Destination Destiny | 31.00% | ~103 |
+| Proper Walls | 34.00% | ~113 |
+| Destination Destiny | 32.00% | ~107 |
 | Happy Tenants | 26.00% | ~87 |
 | Potent Potables | 26.00% | ~87 |
 | Smooth Service | 26.00% | ~87 |
 | Your Prestige is Rising | 24.00% | ~80 |
 | Retail Revenue | 24.00% | ~80 |
-| Don't Feel a Loan | 22.00% | ~73 |
+| Don't Feel a Loan | 23.00% | ~77 |
 | Lux Living | 21.00% | ~70 |
 | People Mover | 21.00% | ~70 |
 | Artfully Done | 20.00% | ~67 |

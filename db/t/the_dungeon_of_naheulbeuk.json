@@ -720,9 +720,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 217382,
+  "EOS_Progressed": 217398,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2961,
+  "EOS_NewPlayers": 2955,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8355,6 +8355,11 @@
       "Time": "2023-08-26T09:06:21.2237711+00:00",
       "NumProgressed": 217382,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-26T10:04:37.166298+00:00",
+      "NumProgressed": 217398,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -8366,7 +8371,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1956
+      "UsersEstimate": 1957
     },
     {
       "ID": "100Fail",
@@ -8430,7 +8435,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1956
+      "UsersEstimate": 1957
     },
     {
       "ID": "Chapter4",
@@ -8814,7 +8819,7 @@
       "Name": "Sowwy!",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 52172
+      "UsersEstimate": 52176
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -8862,7 +8867,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6521
+      "UsersEstimate": 6522
     },
     {
       "ID": "FollowBraztok",
@@ -9069,21 +9074,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 217382,
+      "Progressed": 217398,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 217382,
+      "Progressed": 217398,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-25T15:02:30.1432618+00:00",
-  "LastChanged_Achievements": "2023-08-26T09:06:21.2237705+00:00",
+  "LastChanged_Achievements": "2023-08-26T10:04:37.1662977+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:41.9661267+00:00",
-  "LastUpdate_Ratings": "2023-08-26T09:05:11.9586357+00:00",
-  "LastUpdate_Achievements": "2023-08-26T09:06:21.2239341+00:00"
+  "LastUpdate_Ratings": "2023-08-26T10:03:30.3588632+00:00",
+  "LastUpdate_Achievements": "2023-08-26T10:04:37.1664149+00:00"
 }
