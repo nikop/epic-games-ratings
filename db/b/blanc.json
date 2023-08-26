@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2565,
+  "EOS_Progressed": 2566,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -2803,6 +2803,11 @@
       "Time": "2023-08-26T05:06:07.1023992+00:00",
       "NumProgressed": 2565,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-08-26T15:06:12.9037589+00:00",
+      "NumProgressed": 2566,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -2902,7 +2907,7 @@
       "Name": "Transmission",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "UNEXPECTED_ENCOUNTER",
@@ -2910,14 +2915,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2565,
+      "Progressed": 2566,
       "Completed": 6
     }
   ],
@@ -2925,8 +2930,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-08-26T14:06:44.0228597+00:00",
+  "LastChanged_Achievements": "2023-08-26T15:06:12.9037582+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:49.6137294+00:00",
-  "LastUpdate_Ratings": "2023-08-26T13:57:54.6328868+00:00",
-  "LastUpdate_Achievements": "2023-08-26T14:06:44.022896+00:00"
+  "LastUpdate_Ratings": "2023-08-26T14:57:55.3336507+00:00",
+  "LastUpdate_Achievements": "2023-08-26T15:06:12.9037859+00:00"
 }

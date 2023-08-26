@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 52.00% | ~81 |
-| The 4 Pillars | 51.00% | ~79 |
-| Capitalism | 19.00% | ~29 |
+| The 4 Pillars | 51.00% | ~80 |
+| Capitalism | 19.00% | ~30 |
 | Indebted | 12.00% | ~19 |
 | There's something in those trees | 10.00% | ~16 |
 | Great Producer | 10.00% | ~16 |
@@ -19,15 +19,15 @@
 | Fuel Tycoon | 6.00% | ~9 |
 | Ammo Tycoon | 6.00% | ~9 |
 | Jantine: the Misfortunes of Evil | 5.00% | ~8 |
-| Supersoldier | 5.00% | ~8 |
 | Healing | 5.00% | ~8 |
-| Property Bro | 5.00% | ~8 |
 | Pathfinder | 5.00% | ~8 |
-| Self-sufficient | 5.00% | ~8 |
 | Food Tycoon | 5.00% | ~8 |
-| Medicine Tycoon | 5.00% | ~8 |
+| Supersoldier | 4.00% | ~6 |
 | Outdoor Decorator | 4.00% | ~6 |
 | Overpopulation | 4.00% | ~6 |
+| Property Bro | 4.00% | ~6 |
+| Self-sufficient | 4.00% | ~6 |
+| Medicine Tycoon | 4.00% | ~6 |
 | Human Resources | 3.00% | ~5 |
 | Training Camp | 3.00% | ~5 |
 | No News is Good News | 2.00% | ~3 |
@@ -49,7 +49,7 @@
 | Against Adversity | 0.00% | ~0 |
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 155 (Ranked 312)  
+Progressed: 156 (Ranked 312)  
 Completed: 0 (0.00%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,3 +86,4 @@ Completed: 0 (0.00%) (Ranked 264)
 | 2023-08-21 | 150 | 0 |
 | 2023-08-22 | 153 | 0 |
 | 2023-08-25 | 155 | 0 |
+| 2023-08-26 | 156 | 0 |

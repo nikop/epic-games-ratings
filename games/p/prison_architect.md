@@ -6,15 +6,15 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 26.00% | ~43,736 |
-| Get Busy Living | 16.00% | ~26,915 |
-| Samuel Norton | 9.00% | ~15,139 |
-| Spare The Rod | 5.00% | ~8,411 |
-| Don't Put Me In The Dark | 3.00% | ~5,046 |
-| Wait and Hope | 3.00% | ~5,046 |
-| I May Have Found A Way Out Of Here | 3.00% | ~5,046 |
-| Throw The Book At Them | 2.00% | ~3,364 |
-| Iron Bars | 2.00% | ~3,364 |
+| Stone Walls | 26.00% | ~43,743 |
+| Get Busy Living | 16.00% | ~26,919 |
+| Samuel Norton | 9.00% | ~15,142 |
+| Spare The Rod | 5.00% | ~8,412 |
+| Don't Put Me In The Dark | 3.00% | ~5,047 |
+| Wait and Hope | 3.00% | ~5,047 |
+| I May Have Found A Way Out Of Here | 3.00% | ~5,047 |
+| Throw The Book At Them | 2.00% | ~3,365 |
+| Iron Bars | 2.00% | ~3,365 |
 | D.B. Cooper | 1.00% | ~1,682 |
 | Reformation | 0.60% | ~1,009 |
 | Crowd Control | 0.50% | ~841 |
@@ -23,7 +23,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~168 |
 | ... It's What You Can Prove | 0.10% | ~168 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 168,216 (Ranked 62)  
+Progressed: 168,242 (Ranked 62)  
 Completed: 7 (0.00%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,15 +151,15 @@ Completed: 7 (0.00%) (Ranked 264)
 | 2023-08-23 | 167,322 | 7 |
 | 2023-08-24 | 167,675 | 7 |
 | 2023-08-25 | 168,009 | 7 |
-| 2023-08-26 | 168,216 | 7 |
+| 2023-08-26 | 168,242 | 7 |
 ## Awards
 Max (Extremely Fun): 489  (Ranked 199)  
-Sum: 3,774 (Ranked 148)  
+Sum: 3,775 (Ranked 148)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 489 |
-| This game is Great for Beginners | 469 |
+| This game is Great for Beginners | 470 |
 | This game is Highly Recommended | 459 |
 | This game has Quickly Understood Controls | 447 |
 | This game is Relaxing | 433 |
@@ -387,3 +387,4 @@ Diff (max vs sum): 51
 | 2023-08-23 | 4.61 | - | 487 | 3,762 |
 | 2023-08-24 | 4.61 | - | 487 | 3,770 |
 | 2023-08-25 | 4.61 | - | 489 | 3,774 |
+| 2023-08-26 | 4.61 | - | 489 | 3,775 |

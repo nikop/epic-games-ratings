@@ -64,6 +64,7 @@
 | Golden Foundation | 2.00% | ~1 |
 | Sectoral Admiral | 2.00% | ~1 |
 | 80Gb HDD | 2.00% | ~1 |
+| Galactic Captain | 2.00% | ~1 |
 | You've drone good! | 2.00% | ~1 |
 | System Captain | 2.00% | ~1 |
 | Mysterious Skin | 2.00% | ~1 |
@@ -116,7 +117,6 @@
 | Usurper V | 0.00% | ~0 |
 | Usurper III | 0.00% | ~0 |
 | Five-O | 0.00% | ~0 |
-| Galactic Captain | 0.00% | ~0 |
 | Galactic Colonel | 0.00% | ~0 |
 | Galactic Major | 0.00% | ~0 |
 | Surrounded | 0.00% | ~0 |

@@ -6780,9 +6780,9 @@
       "Count": 601
     }
   ],
-  "EOS_Progressed": 290836,
+  "EOS_Progressed": 290838,
   "EOS_Completed": 455,
-  "EOS_NewPlayers": 439,
+  "EOS_NewPlayers": 435,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -20560,6 +20560,11 @@
       "Time": "2023-08-26T14:03:39.6112012+00:00",
       "NumProgressed": 290836,
       "NumCompleted": 455
+    },
+    {
+      "Time": "2023-08-26T15:02:08.6402337+00:00",
+      "NumProgressed": 290838,
+      "NumCompleted": 455
     }
   ],
   "TotalAchievements": 45,
@@ -20659,7 +20664,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11633
+      "UsersEstimate": 11634
     },
     {
       "ID": "PFA_20",
@@ -20723,7 +20728,7 @@
       "Name": "Going Through the Potions",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11633
+      "UsersEstimate": 11634
     },
     {
       "ID": "PFA_28",
@@ -20771,7 +20776,7 @@
       "Name": "Room with a View",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11633
+      "UsersEstimate": 11634
     },
     {
       "ID": "PFA_33",
@@ -20819,7 +20824,7 @@
       "Name": "The Intrepid Explorer",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 11633
+      "UsersEstimate": 11634
     },
     {
       "ID": "PFA_39",
@@ -20835,7 +20840,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11633
+      "UsersEstimate": 11634
     },
     {
       "ID": "PFA_40",
@@ -20851,7 +20856,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11633
+      "UsersEstimate": 11634
     },
     {
       "ID": "PFA_42",
@@ -20930,7 +20935,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 290836,
+      "Progressed": 290838,
       "Completed": 455
     }
   ],
@@ -20938,8 +20943,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-08-26T13:02:15.2195139+00:00",
-  "LastChanged_Achievements": "2023-08-26T14:03:39.6112006+00:00",
+  "LastChanged_Achievements": "2023-08-26T15:02:08.6402331+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:27.4425386+00:00",
-  "LastUpdate_Ratings": "2023-08-26T14:01:12.1932015+00:00",
-  "LastUpdate_Achievements": "2023-08-26T14:03:39.611356+00:00"
+  "LastUpdate_Ratings": "2023-08-26T15:00:33.088446+00:00",
+  "LastUpdate_Achievements": "2023-08-26T15:02:08.6403599+00:00"
 }

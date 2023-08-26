@@ -4,7 +4,7 @@
   "ProductSlug": "children-of-silentown-52cc21",
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-01-11T16:00:00+00:00",
@@ -307,9 +307,9 @@
       "ID": "BlueTrick",
       "SetID": "9kk0gal",
       "Name": "Blue\u0027s drawing",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 107
+      "UsersEstimate": 109
     },
     {
       "ID": "Cat",
@@ -451,9 +451,9 @@
       "ID": "SchoolRuler",
       "SetID": "9kk0gal",
       "Name": "Big metal ruler",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "Secret",
@@ -524,8 +524,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-08-26T14:06:43.1386597+00:00",
+  "LastChanged_Achievements": "2023-08-26T15:06:12.1658108+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:09.7603016+00:00",
-  "LastUpdate_Ratings": "2023-08-26T13:59:18.0566309+00:00",
-  "LastUpdate_Achievements": "2023-08-26T14:06:43.1386848+00:00"
+  "LastUpdate_Ratings": "2023-08-26T14:58:58.4769678+00:00",
+  "LastUpdate_Achievements": "2023-08-26T15:06:12.1658315+00:00"
 }

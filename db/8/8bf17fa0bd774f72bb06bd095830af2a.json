@@ -183,9 +183,9 @@
       "ID": "SteamAchievement_KillFrostMonsters",
       "SetID": "b8gj0ip",
       "Name": "Crushing the rebelion: Frosthyll",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SteamAchievement_UpgradeDemonDogToMaxLevel",
@@ -367,9 +367,9 @@
       "ID": "SteamAchievment_CompleteQuest11",
       "SetID": "b8gj0ip",
       "Name": "Mother of the Dragons",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SteamAchievment_CompleteQuest12",
@@ -454,8 +454,8 @@
   ],
   "FirstSeen": "2023-08-10T10:57:59.2838137+00:00",
   "FirstSeenAchievements": "2023-05-30T14:00:09.5243374+00:00",
-  "LastChanged_Achievements": "2023-08-26T14:06:35.8280916+00:00",
+  "LastChanged_Achievements": "2023-08-26T15:06:06.2125902+00:00",
   "LastUpdate_AppInfo": "2023-08-22T18:57:01.7235597+00:00",
-  "LastUpdate_Ratings": "2023-08-26T14:00:30.6252833+00:00",
-  "LastUpdate_Achievements": "2023-08-26T14:06:35.8281257+00:00"
+  "LastUpdate_Ratings": "2023-08-26T14:59:59.4448243+00:00",
+  "LastUpdate_Achievements": "2023-08-26T15:06:06.2126184+00:00"
 }

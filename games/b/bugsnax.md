@@ -6,23 +6,23 @@ Number of Ratings: 425  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Everybody Gets One | 97.00% | ~27,345 |
-| Gone Home | 93.00% | ~26,218 |
-| Wonderfalls | 87.00% | ~24,526 |
-| Got to Catch a Few | 77.00% | ~21,707 |
-| Double Trapper | 75.00% | ~21,143 |
+| Everybody Gets One | 97.00% | ~27,346 |
+| Gone Home | 93.00% | ~26,219 |
+| Wonderfalls | 87.00% | ~24,527 |
+| Got to Catch a Few | 77.00% | ~21,708 |
+| Double Trapper | 75.00% | ~21,144 |
 | I'm Stuffed | 69.00% | ~19,452 |
-| Got to Catch a Lot | 66.00% | ~18,606 |
+| Got to Catch a Lot | 66.00% | ~18,607 |
 | Talkin' 'Bout Bugsnax | 61.00% | ~17,197 |
 | In the Arms of the Gramble | 59.00% | ~16,633 |
 | Know Thy Neighbor | 59.00% | ~16,633 |
-| Launch Party | 56.00% | ~15,787 |
-| Perf Dirt | 56.00% | ~15,787 |
-| Vacation's End | 52.00% | ~14,659 |
+| Launch Party | 56.00% | ~15,788 |
+| Perf Dirt | 56.00% | ~15,788 |
+| Vacation's End | 52.00% | ~14,660 |
 | Bossy Bugs | 46.00% | ~12,968 |
 | Survivor | 45.00% | ~12,686 |
-| That Reminds Me of a Puzzle | 43.00% | ~12,122 |
-| Sidetracked | 40.00% | ~11,276 |
+| That Reminds Me of a Puzzle | 43.00% | ~12,123 |
+| Sidetracked | 40.00% | ~11,277 |
 | Film Buff | 38.00% | ~10,713 |
 | Combo Meal | 38.00% | ~10,713 |
 | Midnight Snak | 36.00% | ~10,149 |
@@ -30,14 +30,14 @@ Number of Ratings: 425  (23.09.2022)
 | Got to Catch Them All | 32.00% | ~9,021 |
 | Deep Impact | 23.00% | ~6,484 |
 | Grab Bag | 23.00% | ~6,484 |
-| Feeding Frenzy | 18.00% | ~5,074 |
-| Clothesline | 17.00% | ~4,792 |
+| Feeding Frenzy | 18.00% | ~5,075 |
+| Clothesline | 17.00% | ~4,793 |
 | Say Cheese! | 15.00% | ~4,229 |
 | Sundae Best | 14.00% | ~3,947 |
 | Live Laugh Hut | 8.00% | ~2,255 |
 | Dapper Capper | 7.00% | ~1,973 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,191 (Ranked 102)  
+Progressed: 28,192 (Ranked 102)  
 Completed: 1,333 (4.73%) (Ranked 55)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,17 +165,17 @@ Completed: 1,333 (4.73%) (Ranked 55)
 | 2023-08-23 | 28,176 | 1,331 |
 | 2023-08-24 | 28,181 | 1,332 |
 | 2023-08-25 | 28,186 | 1,333 |
-| 2023-08-26 | 28,191 | 1,333 |
+| 2023-08-26 | 28,192 | 1,333 |
 ## Awards
 Max (Amazing Storytelling): 38  (Ranked 428)  
-Sum: 332 (Ranked 335)  
+Sum: 333 (Ranked 335)  
 Diff (max vs sum): 93  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 38 |
 | This game is Great for Beginners | 33 |
+| This game is Highly Recommended | 33 |
 | This game has Quickly Understood Controls | 32 |
-| This game is Highly Recommended | 32 |
 | This game has Diverse Characters | 31 |
 | This game has Amazing Characters | 31 |
 | This game is Great for Quick Sessions | 29 |
@@ -281,3 +281,4 @@ Diff (max vs sum): 93
 | 2023-08-15 | 4.86 | - | 38 | 329 |
 | 2023-08-17 | 4.86 | - | 38 | 331 |
 | 2023-08-22 | 4.86 | - | 38 | 332 |
+| 2023-08-26 | 4.86 | - | 38 | 333 |

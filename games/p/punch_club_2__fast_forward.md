@@ -21,8 +21,8 @@
 | Hello, world! | 69.00% | ~184 |
 | No bullying more | 68.00% | ~182 |
 | Pal of your father? | 66.00% | ~176 |
-| Employee of the month | 65.00% | ~174 |
-| Spirit of the past | 63.00% | ~168 |
+| Employee of the month | 66.00% | ~176 |
+| Spirit of the past | 64.00% | ~171 |
 | Law student | 62.00% | ~166 |
 | Workout professional | 61.00% | ~163 |
 | Own four walls | 61.00% | ~163 |
@@ -44,10 +44,10 @@
 | Champion – no way back | 41.00% | ~109 |
 | Responsible approach | 41.00% | ~109 |
 | Your own way | 40.00% | ~107 |
+| Deal with life | 39.00% | ~104 |
 | GYM professional | 39.00% | ~104 |
 | Poisoned fighter | 39.00% | ~104 |
 | Underground dwellers | 39.00% | ~104 |
-| Deal with life | 38.00% | ~101 |
 | Get out of my apartment! | 38.00% | ~101 |
 | Mom got better | 37.00% | ~99 |
 | The die is cast | 37.00% | ~99 |

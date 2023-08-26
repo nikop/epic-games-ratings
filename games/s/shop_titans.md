@@ -61,6 +61,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Archivist | 0.30% | ~405 |
 | Locally Sourced | 0.30% | ~405 |
 | Flying off the Shelves | 0.30% | ~405 |
+| Industrial Evolution | 0.30% | ~405 |
 | This Power Level...! | 0.30% | ~405 |
 | Omae wa Mou Shindeiru | 0.30% | ~405 |
 | Master of Transmutation | 0.30% | ~405 |
@@ -73,6 +74,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Mammonite | 0.30% | ~405 |
 | Wealth Beyond Measure | 0.30% | ~405 |
 | Fat Cat Tag Team | 0.30% | ~405 |
+| Necromancer Queen | 0.30% | ~405 |
 | Item of Renown | 0.30% | ~405 |
 | Master Merchant | 0.30% | ~405 |
 | Miracle Alchemist | 0.30% | ~405 |
@@ -92,12 +94,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | Constellated | 0.20% | ~270 |
 | The Free Encyclopedia | 0.20% | ~270 |
 | Fillin' the Bin | 0.20% | ~270 |
-| Industrial Evolution | 0.20% | ~270 |
 | Thank You Tom Nook | 0.20% | ~270 |
 | Ritualist | 0.20% | ~270 |
 | By Your Powers Combined... | 0.20% | ~270 |
 | A Legend is Born | 0.20% | ~270 |
-| Necromancer Queen | 0.20% | ~270 |
 | Jackpot! | 0.20% | ~270 |
 | Bountiful Harvest | 0.20% | ~270 |
 | Master Recycler | 0.20% | ~270 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~135 |
 | Cash Only Please | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,163 (Ranked 66)  
+Progressed: 135,165 (Ranked 66)  
 Completed: 138 (0.10%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 138 (0.10%) (Ranked 211)
 | 2023-08-23 | 134,997 | 138 |
 | 2023-08-24 | 135,040 | 138 |
 | 2023-08-25 | 135,108 | 138 |
-| 2023-08-26 | 135,163 | 138 |
+| 2023-08-26 | 135,165 | 138 |
 ## Awards
 Max (Great for Beginners): 4,716  (Ranked 71)  
 Sum: 27,141 (Ranked 47)  

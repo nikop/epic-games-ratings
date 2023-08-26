@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 208,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -1647,7 +1647,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13576,
+  "EOS_Progressed": 13577,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
@@ -10292,6 +10292,11 @@
       "Time": "2023-08-26T14:07:55.6063433+00:00",
       "NumProgressed": 13576,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-26T15:07:14.7068556+00:00",
+      "NumProgressed": 13577,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -10389,9 +10394,9 @@
       "ID": "ACHIEVEMENT_BABYLON_ISHTAR_GATE",
       "SetID": "9201eeb",
       "Name": "Ishtar Gate in Babylon",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 68
     },
     {
       "ID": "ACHIEVEMENT_BARBARIAN_INVASION",
@@ -12670,21 +12675,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13576,
+      "Progressed": 13577,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13576,
+      "Progressed": 13577,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-24T04:00:31.5764786+00:00",
-  "LastChanged_Achievements": "2023-08-26T14:07:55.6063427+00:00",
+  "LastChanged_Achievements": "2023-08-26T15:07:14.7068548+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:39.7773306+00:00",
-  "LastUpdate_Ratings": "2023-08-26T14:02:01.3790289+00:00",
-  "LastUpdate_Achievements": "2023-08-26T14:07:55.6075784+00:00"
+  "LastUpdate_Ratings": "2023-08-26T15:01:01.6957166+00:00",
+  "LastUpdate_Achievements": "2023-08-26T15:07:14.7078244+00:00"
 }

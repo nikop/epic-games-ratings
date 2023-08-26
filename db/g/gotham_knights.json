@@ -2528,9 +2528,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 68040,
+  "EOS_Progressed": 68041,
   "EOS_Completed": 109,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -13228,6 +13228,11 @@
       "Time": "2023-08-26T11:08:56.9309716+00:00",
       "NumProgressed": 68040,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2023-08-26T15:07:45.2813199+00:00",
+      "NumProgressed": 68041,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 61,
@@ -13343,7 +13348,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 14288
+      "UsersEstimate": 14289
     },
     {
       "ID": "CLAYFACE_2",
@@ -13567,7 +13572,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 10886
+      "UsersEstimate": 10887
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -13695,7 +13700,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 7484
+      "UsersEstimate": 7485
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -13726,13 +13731,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 68040,
+      "Progressed": 68041,
       "Completed": 109
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38320,
+      "Progressed": 38321,
       "Completed": 2659
     }
   ],
@@ -13740,8 +13745,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-08-26T06:58:53.6982433+00:00",
-  "LastChanged_Achievements": "2023-08-26T14:08:32.9148407+00:00",
+  "LastChanged_Achievements": "2023-08-26T15:07:45.2813194+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:22.0819335+00:00",
-  "LastUpdate_Ratings": "2023-08-26T13:58:41.6790879+00:00",
-  "LastUpdate_Achievements": "2023-08-26T14:08:32.9149843+00:00"
+  "LastUpdate_Ratings": "2023-08-26T14:58:33.2803474+00:00",
+  "LastUpdate_Achievements": "2023-08-26T15:07:45.2814442+00:00"
 }

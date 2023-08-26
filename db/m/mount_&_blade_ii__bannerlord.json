@@ -6619,10 +6619,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 14195,
       "NumberOfAwardsMax": 6985
+    },
+    {
+      "Time": "2023-08-26T14:58:36.3513434+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 14197,
+      "NumberOfAwardsMax": 6985
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14195,
+  "NumberOfAwards": 14197,
   "NumberOfAwardsMax": 6985,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6642,7 +6648,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 808
+      "Count": 810
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -6699,9 +6705,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 59689,
+  "EOS_Progressed": 59693,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 516,
+  "EOS_NewPlayers": 515,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20264,6 +20270,11 @@
       "Time": "2023-08-26T14:07:03.895052+00:00",
       "NumProgressed": 59689,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-26T15:06:20.9167361+00:00",
+      "NumProgressed": 59693,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -20283,7 +20294,7 @@
       "Name": "Apple of my eye",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 8953
+      "UsersEstimate": 8954
     },
     {
       "ID": "Bannerlord",
@@ -20443,7 +20454,7 @@
       "Name": "I can do it",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8953
+      "UsersEstimate": 8954
     },
     {
       "ID": "I spit on your grave",
@@ -20467,7 +20478,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10147
+      "UsersEstimate": 10148
     },
     {
       "ID": "Kingslayer",
@@ -20483,7 +20494,7 @@
       "Name": "Know your enemy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3581
+      "UsersEstimate": 3582
     },
     {
       "ID": "Lance-a-lot",
@@ -20499,7 +20510,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 19100
+      "UsersEstimate": 19102
     },
     {
       "ID": "Lawbringer",
@@ -20507,7 +20518,7 @@
       "Name": "Lawbringer",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 22682
+      "UsersEstimate": 22683
     },
     {
       "ID": "Lawmaker",
@@ -20515,7 +20526,7 @@
       "Name": "Lawmaker",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 13728
+      "UsersEstimate": 13729
     },
     {
       "ID": "Long live the Empire",
@@ -20531,7 +20542,7 @@
       "Name": "Mastery",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 4178
+      "UsersEstimate": 4179
     },
     {
       "ID": "Minor Clan",
@@ -20555,7 +20566,7 @@
       "Name": "My way",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 2984
+      "UsersEstimate": 2985
     },
     {
       "ID": "Real Estate",
@@ -20627,7 +20638,7 @@
       "Name": "The king is pleased",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 10744
+      "UsersEstimate": 10745
     },
     {
       "ID": "This Is Our Land",
@@ -20682,15 +20693,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 59689,
+      "Progressed": 59693,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-08-26T13:58:45.9147384+00:00",
-  "LastChanged_Achievements": "2023-08-26T14:07:03.8950514+00:00",
+  "LastChanged": "2023-08-26T14:58:36.3513432+00:00",
+  "LastChanged_Achievements": "2023-08-26T15:06:20.9167356+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:26.1294952+00:00",
-  "LastUpdate_Ratings": "2023-08-26T13:58:45.914739+00:00",
-  "LastUpdate_Achievements": "2023-08-26T14:07:03.8952108+00:00"
+  "LastUpdate_Ratings": "2023-08-26T14:58:36.3513442+00:00",
+  "LastUpdate_Achievements": "2023-08-26T15:06:20.916868+00:00"
 }

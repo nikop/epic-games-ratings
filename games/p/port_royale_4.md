@@ -25,7 +25,7 @@ Number of Ratings: 53  (23.09.2022)
 | Groundskeeper | 26.00% | ~220 |
 | Wholesale | 22.00% | ~186 |
 | Walk the plank | 20.00% | ~169 |
-| Pearly gates | 17.00% | ~144 |
+| Pearly gates | 18.00% | ~152 |
 | My precious! | 17.00% | ~144 |
 | Conquistador | 13.00% | ~110 |
 | Panic buying | 11.00% | ~93 |

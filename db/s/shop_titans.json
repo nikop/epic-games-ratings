@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 47,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -5752,9 +5752,9 @@
       "Count": 3737
     }
   ],
-  "EOS_Progressed": 135163,
+  "EOS_Progressed": 135165,
   "EOS_Completed": 138,
-  "EOS_NewPlayers": 401,
+  "EOS_NewPlayers": 397,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -18867,6 +18867,11 @@
       "Time": "2023-08-26T14:08:04.7744943+00:00",
       "NumProgressed": 135163,
       "NumCompleted": 138
+    },
+    {
+      "Time": "2023-08-26T15:07:22.1123147+00:00",
+      "NumProgressed": 135165,
+      "NumCompleted": 138
     }
   ],
   "TotalAchievements": 112,
@@ -19164,9 +19169,9 @@
       "ID": "craft04",
       "SetID": "anfd17p",
       "Name": "Industrial Evolution",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 405
     },
     {
       "ID": "craft05",
@@ -19420,9 +19425,9 @@
       "ID": "hemma_a",
       "SetID": "anfd17p",
       "Name": "Necromancer Queen",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 405
     },
     {
       "ID": "jackslot01",
@@ -19773,15 +19778,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135163,
+      "Progressed": 135165,
       "Completed": 138
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-26T11:02:29.7530537+00:00",
-  "LastChanged_Achievements": "2023-08-26T14:08:04.7744937+00:00",
+  "LastChanged_Achievements": "2023-08-26T15:07:22.1123143+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:19.0477827+00:00",
-  "LastUpdate_Ratings": "2023-08-26T14:02:45.023407+00:00",
-  "LastUpdate_Achievements": "2023-08-26T14:08:04.7747981+00:00"
+  "LastUpdate_Ratings": "2023-08-26T15:01:29.0634592+00:00",
+  "LastUpdate_Achievements": "2023-08-26T15:07:22.1125532+00:00"
 }

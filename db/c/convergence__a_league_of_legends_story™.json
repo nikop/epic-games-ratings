@@ -2,12 +2,12 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_Rating": 392,
+  "Ranking_Rating": 391,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 840,
+  "EOS_Progressed": 841,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.6,
+  "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
     {
       "Time": "2023-05-23T23:05:09.8369672+00:00",
@@ -2025,6 +2025,11 @@
       "Time": "2023-08-26T01:45:43.2132656+00:00",
       "NumProgressed": 840,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-26T15:07:12.5558612+00:00",
+      "NumProgressed": 841,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -2052,7 +2057,7 @@
       "Name": "Chaincrawler Explorer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ChestCompletion1",
@@ -2084,7 +2089,7 @@
       "Name": "Like Clockwork",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ClovemaryGift",
@@ -2122,9 +2127,9 @@
       "ID": "EntresolChests1",
       "SetID": "a9e499d",
       "Name": "Entresol Explorer",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 59
     },
     {
       "ID": "ExamineFamilyPortrait",
@@ -2156,7 +2161,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -2172,7 +2177,7 @@
       "Name": "The Man Who Shattered Time",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "GadgetCompletion1",
@@ -2196,7 +2201,7 @@
       "Name": "Rail Rat",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "HexlockGift",
@@ -2220,7 +2225,7 @@
       "Name": "The Loose Cannon",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "LacunaCompleted",
@@ -2330,9 +2335,9 @@
       "ID": "RewindParry",
       "SetID": "a9e499d",
       "Name": "Honest Mistake",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 143
     },
     {
       "ID": "ScrambotCompletion1",
@@ -2396,7 +2401,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "TheaterChests1",
@@ -2436,7 +2441,7 @@
       "Name": "Good Neighbor",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "Zarkon1Defeated",
@@ -2452,14 +2457,14 @@
       "Name": "The Family Fortune",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 840,
+      "Progressed": 841,
       "Completed": 5
     }
   ],
@@ -2467,8 +2472,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-08-26T14:07:53.2593957+00:00",
+  "LastChanged_Achievements": "2023-08-26T15:07:12.5558607+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:03.8052712+00:00",
-  "LastUpdate_Ratings": "2023-08-26T13:58:23.1126055+00:00",
-  "LastUpdate_Achievements": "2023-08-26T14:07:53.2594584+00:00"
+  "LastUpdate_Ratings": "2023-08-26T14:58:21.4824946+00:00",
+  "LastUpdate_Achievements": "2023-08-26T15:07:12.5559127+00:00"
 }

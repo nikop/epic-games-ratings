@@ -6,21 +6,21 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~68,209 |
-| Powergamer | 27.00% | ~65,773 |
-| Barely scratched the surface | 25.00% | ~60,901 |
-| Write that down | 24.00% | ~58,465 |
-| Guns, lots of guns | 12.00% | ~29,232 |
-| Collector | 11.00% | ~26,796 |
-| Elementary! | 9.00% | ~21,924 |
-| Pumpkin Jack | 8.00% | ~19,488 |
-| Wake up! | 8.00% | ~19,488 |
-| It's honest work | 7.00% | ~17,052 |
-| Griever | 7.00% | ~17,052 |
-| Me smart | 6.00% | ~14,616 |
-| Trash compactor | 6.00% | ~14,616 |
-| Good listener | 5.00% | ~12,180 |
-| Valedictorian | 5.00% | ~12,180 |
+| I will finish what you started | 28.00% | ~68,211 |
+| Powergamer | 27.00% | ~65,775 |
+| Barely scratched the surface | 25.00% | ~60,903 |
+| Write that down | 24.00% | ~58,467 |
+| Guns, lots of guns | 12.00% | ~29,233 |
+| Collector | 11.00% | ~26,797 |
+| Elementary! | 9.00% | ~21,925 |
+| Pumpkin Jack | 8.00% | ~19,489 |
+| Wake up! | 8.00% | ~19,489 |
+| It's honest work | 7.00% | ~17,053 |
+| Griever | 7.00% | ~17,053 |
+| Me smart | 6.00% | ~14,617 |
+| Trash compactor | 6.00% | ~14,617 |
+| Good listener | 5.00% | ~12,181 |
+| Valedictorian | 5.00% | ~12,181 |
 | BOY! | 4.00% | ~9,744 |
 | Ka-ching! | 4.00% | ~9,744 |
 | So you like to read? | 4.00% | ~9,744 |
@@ -42,7 +42,7 @@ Number of Ratings: 33  (23.09.2022)
 | SysOp on duty | 1.00% | ~2,436 |
 | Take the blue pill | 1.00% | ~2,436 |
 | The power of three | 1.00% | ~2,436 |
-| A true blacksmith | 0.90% | ~2,192 |
+| A true blacksmith | 0.90% | ~2,193 |
 | Let's try another | 0.80% | ~1,949 |
 | Home run | 0.80% | ~1,949 |
 | I have the high ground | 0.70% | ~1,705 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~487 |
 | Memory 5 | 0.10% | ~244 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,603 (Ranked 48)  
+Progressed: 243,612 (Ranked 48)  
 Completed: 7 (0.00%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 7 (0.00%) (Ranked 264)
 | 2023-08-23 | 243,240 | 7 |
 | 2023-08-24 | 243,379 | 7 |
 | 2023-08-25 | 243,525 | 7 |
-| 2023-08-26 | 243,603 | 7 |
+| 2023-08-26 | 243,612 | 7 |
 ## Awards
 Max (Character Customization): 79  (Ranked 363)  
 Sum: 79 (Ranked 428)  

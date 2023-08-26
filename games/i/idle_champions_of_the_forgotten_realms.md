@@ -9,10 +9,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Brief Tour of the Realms | 2.00% | ~4,502 |
 | Beast Intentions | 0.70% | ~1,576 |
 | The Cursed Farmer | 0.70% | ~1,576 |
-| The Mad Wizard | 0.50% | ~1,125 |
-| The Hunt for The Last Breath | 0.50% | ~957 |
+| The Hunt for The Last Breath | 0.60% | ~1,148 |
+| The Mad Wizard | 0.50% | ~1,126 |
 | The Ring of Regeneration | 0.40% | ~900 |
-| To Infinity's and Beyond | 0.40% | ~765 |
+| To Infinity's and Beyond | 0.40% | ~766 |
 | Were-verpowered | 0.30% | ~675 |
 | Seeking Allies | 0.30% | ~675 |
 | Are Ya Chicken? | 0.30% | ~675 |
@@ -25,6 +25,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Witchlight Carnival | 0.20% | ~383 |
 | Thieves of the Coven | 0.20% | ~383 |
 | The Silken Swamp | 0.20% | ~450 |
+| Wet Feet | 0.20% | ~450 |
 | Supply Run | 0.20% | ~450 |
 | Seeds of Destruction | 0.20% | ~383 |
 | The Evacuation of Waterdeep | 0.20% | ~383 |
@@ -72,6 +73,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dead Three | 0.20% | ~450 |
 | Slow and Steady | 0.20% | ~450 |
 | Flying Monkey Skulls of Doom | 0.20% | ~450 |
+| Lair of the Xanathar | 0.20% | ~450 |
 | The Darkness Runs Deeper | 0.20% | ~450 |
 | Difficult Terrain | 0.20% | ~450 |
 | Running of the Saurs | 0.20% | ~450 |
@@ -80,6 +82,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Escort to Waterdeep | 0.20% | ~450 |
 | The Giant's Bane Tavern | 0.20% | ~383 |
 | The Everlasting Rime | 0.20% | ~383 |
+| Constant Banditry | 0.20% | ~450 |
 | Waterdeep Detours | 0.20% | ~450 |
 | Lost in the Deep | 0.20% | ~450 |
 | Easily Distracted | 0.20% | ~450 |
@@ -87,6 +90,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overdue Rendezvous | 0.20% | ~450 |
 | Moose Tracks | 0.20% | ~383 |
 | Civilization | 0.20% | ~383 |
+| Dwarven Rumors | 0.20% | ~383 |
 | Pure Energy | 0.20% | ~450 |
 | The Templar's Camp | 0.20% | ~450 |
 | Rescue in the Jungle | 0.20% | ~450 |
@@ -134,7 +138,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Fairy Rings of Thither | 0.10% | ~191 |
 | Zarak's Revenge | 0.10% | ~191 |
 | Bully for You! | 0.10% | ~191 |
-| Wet Feet | 0.10% | ~225 |
 | The Dark Heart | 0.10% | ~191 |
 | Undergeared | 0.10% | ~191 |
 | Underdark Chill | 0.10% | ~191 |
@@ -312,7 +315,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Tale of Two Years | 0.10% | ~191 |
 | A Hero's Entourage | 0.10% | ~225 |
 | Sneak Attack | 0.10% | ~191 |
-| Lair of the Xanathar | 0.10% | ~225 |
 | Dreams of Beholders | 0.10% | ~225 |
 | Feigned Weakness | 0.10% | ~225 |
 | DPS in the Deeps | 0.10% | ~191 |
@@ -420,7 +422,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mirage Arcane | 0.10% | ~191 |
 | Only Human | 0.10% | ~191 |
 | Close Escort | 0.10% | ~225 |
-| Constant Banditry | 0.10% | ~225 |
 | The Long Haul | 0.10% | ~225 |
 | Rude Welcome | 0.10% | ~225 |
 | An Awakened Axe | 0.10% | ~191 |
@@ -437,7 +438,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Relentless Peril | 0.10% | ~191 |
 | Rickety Rubble | 0.10% | ~191 |
 | Expert Opinion | 0.10% | ~225 |
-| Dwarven Rumors | 0.10% | ~191 |
 | Mimic Perception | 0.10% | ~191 |
 | Frozen in Fear | 0.10% | ~191 |
 | It's Cold Out There Today | 0.10% | ~191 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~191 |
 | Animated Giff | 0.10% | ~191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,096 (Ranked 53)  
+Progressed: 225,117 (Ranked 53)  
 Completed: 2,218 (0.99%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -651,7 +651,7 @@ Completed: 2,218 (0.99%) (Ranked 120)
 | 2023-08-23 | 224,434 | 2,210 |
 | 2023-08-24 | 224,686 | 2,211 |
 | 2023-08-25 | 224,925 | 2,214 |
-| 2023-08-26 | 225,096 | 2,218 |
+| 2023-08-26 | 225,117 | 2,218 |
 ## Awards
 Max (Diverse Characters): 5,189  (Ranked 68)  
 Sum: 31,225 (Ranked 39)  

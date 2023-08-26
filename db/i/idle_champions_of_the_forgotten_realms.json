@@ -6112,9 +6112,9 @@
       "Count": 3373
     }
   ],
-  "EOS_Progressed": 225096,
+  "EOS_Progressed": 225117,
   "EOS_Completed": 2218,
-  "EOS_NewPlayers": 1779,
+  "EOS_NewPlayers": 1785,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -20132,6 +20132,11 @@
       "Time": "2023-08-26T14:08:15.343388+00:00",
       "NumProgressed": 225096,
       "NumCompleted": 2218
+    },
+    {
+      "Time": "2023-08-26T15:07:30.5513482+00:00",
+      "NumProgressed": 225117,
+      "NumCompleted": 2218
     }
   ],
   "TotalAchievements": 516,
@@ -20517,9 +20522,9 @@
       "ID": "objective_completed_110",
       "SetID": "cc37lbc",
       "Name": "Wet Feet",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 450
     },
     {
       "ID": "objective_completed_1100",
@@ -22365,9 +22370,9 @@
       "ID": "objective_completed_550",
       "SetID": "cc37lbc",
       "Name": "Lair of the Xanathar",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 450
     },
     {
       "ID": "objective_completed_551",
@@ -23287,7 +23292,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "objective_completed_70",
@@ -23301,9 +23306,9 @@
       "ID": "objective_completed_71",
       "SetID": "cc37lbc",
       "Name": "Constant Banditry",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 450
     },
     {
       "ID": "objective_completed_72",
@@ -23501,9 +23506,9 @@
       "ID": "objective_completed_827",
       "SetID": "415jc5c",
       "Name": "Dwarven Rumors",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 191
+      "UsersEstimate": 383
     },
     {
       "ID": "objective_completed_828",
@@ -24237,9 +24242,9 @@
       "ID": "objective_completed_1395",
       "SetID": "415jc5c",
       "Name": "The Hunt for The Last Breath",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 957
+      "UsersEstimate": 1148
     },
     {
       "ID": "objective_completed_1396",
@@ -24255,7 +24260,7 @@
       "Name": "To Infinity\u0027s and Beyond",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "objective_completed_1401",
@@ -24270,21 +24275,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 191370,
+      "Progressed": 191391,
       "Completed": 3308
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 225096,
+      "Progressed": 225117,
       "Completed": 2218
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-26T13:02:55.9721236+00:00",
-  "LastChanged_Achievements": "2023-08-26T14:08:15.3433874+00:00",
+  "LastChanged_Achievements": "2023-08-26T15:07:30.5513478+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:53.3345914+00:00",
-  "LastUpdate_Ratings": "2023-08-26T14:02:19.3681542+00:00",
-  "LastUpdate_Achievements": "2023-08-26T14:08:15.346698+00:00"
+  "LastUpdate_Ratings": "2023-08-26T15:01:11.1967432+00:00",
+  "LastUpdate_Achievements": "2023-08-26T15:07:30.5540316+00:00"
 }

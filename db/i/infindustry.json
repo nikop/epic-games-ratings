@@ -499,9 +499,9 @@
       "ID": "Rep2",
       "SetID": "82ojhod",
       "Name": "Rep2",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 160,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Rep3",
@@ -538,8 +538,8 @@
   ],
   "FirstSeen": "2023-05-14T11:57:16.2628162+00:00",
   "FirstSeenAchievements": "2023-04-26T07:04:01.8730756+00:00",
-  "LastChanged_Achievements": "2023-08-26T14:06:35.0525771+00:00",
+  "LastChanged_Achievements": "2023-08-26T15:06:05.6339805+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:16.8011879+00:00",
-  "LastUpdate_Ratings": "2023-08-26T14:00:49.5466824+00:00",
-  "LastUpdate_Achievements": "2023-08-26T14:06:35.0525925+00:00"
+  "LastUpdate_Ratings": "2023-08-26T15:00:16.4692321+00:00",
+  "LastUpdate_Achievements": "2023-08-26T15:06:05.6339929+00:00"
 }

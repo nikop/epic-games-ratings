@@ -5,22 +5,22 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | In the Black | 61.00% | ~203 |
-| Starting Skyward | 54.00% | ~180 |
+| Starting Skyward | 55.00% | ~183 |
 | Grime is Not Good | 49.00% | ~163 |
+| Floor Galore | 42.00% | ~140 |
 | Dinner Dash | 42.00% | ~140 |
-| Floor Galore | 41.00% | ~137 |
 | Campaign Launch | 41.00% | ~137 |
 | Need a Consult | 38.00% | ~127 |
+| It's Technical | 38.00% | ~127 |
 | Upgrade Unlock | 37.00% | ~123 |
-| It's Technical | 37.00% | ~123 |
 | Delegate Maintenance | 35.00% | ~117 |
 | Proper Walls | 34.00% | ~113 |
 | Destination Destiny | 32.00% | ~107 |
 | Happy Tenants | 26.00% | ~87 |
 | Potent Potables | 26.00% | ~87 |
 | Smooth Service | 26.00% | ~87 |
+| Retail Revenue | 25.00% | ~83 |
 | Your Prestige is Rising | 24.00% | ~80 |
-| Retail Revenue | 24.00% | ~80 |
 | Don't Feel a Loan | 23.00% | ~77 |
 | Lux Living | 21.00% | ~70 |
 | People Mover | 21.00% | ~70 |
