@@ -1,31 +1,31 @@
 # Call of the Wild: The Angler™
 [Store](https://store.epicgames.com/en-US/p/call-of-the-wild-the-angler)  
 [View Rawdata](../../db/c/call_of_the_wild__the_angler™.json)  
-Rating: 4.16 (Ranked 885)  
+Rating: 4.16 (Ranked 886)  
 Number of Ratings: 281  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 77.00% | ~3,946 |
-| Hey Good Hookin | 67.00% | ~3,434 |
-| I'm on a Boat! | 57.00% | ~2,921 |
-| Can you smell what the Rod is Hooking | 52.00% | ~2,665 |
-| Scaling up | 52.00% | ~2,665 |
-| More Fish in the Sea | 44.00% | ~2,255 |
-| Ready to Rod and Roll | 43.00% | ~2,204 |
-| Fish Out of Water | 33.00% | ~1,691 |
-| License to Gill | 33.00% | ~1,691 |
-| Things that go Splash in the Night | 28.00% | ~1,435 |
-| Goldfish? | 27.00% | ~1,384 |
-| Going for Gold | 24.00% | ~1,230 |
-| I'm Hooked! | 19.00% | ~974 |
-| Diamond in the Rough | 13.00% | ~666 |
-| More than a Tourist | 12.00% | ~615 |
-| Hook, Line and Sinker | 8.00% | ~410 |
-| Marathon | 8.00% | ~410 |
-| I'm the Captain Now | 6.00% | ~308 |
+| Fish Just Got Reel | 77.00% | ~3,952 |
+| Hey Good Hookin | 67.00% | ~3,439 |
+| I'm on a Boat! | 57.00% | ~2,926 |
+| Can you smell what the Rod is Hooking | 52.00% | ~2,669 |
+| Scaling up | 52.00% | ~2,669 |
+| More Fish in the Sea | 44.00% | ~2,259 |
+| Ready to Rod and Roll | 43.00% | ~2,207 |
+| Fish Out of Water | 33.00% | ~1,694 |
+| License to Gill | 33.00% | ~1,694 |
+| Things that go Splash in the Night | 28.00% | ~1,437 |
+| Goldfish? | 27.00% | ~1,386 |
+| Going for Gold | 24.00% | ~1,232 |
+| I'm Hooked! | 19.00% | ~975 |
+| Diamond in the Rough | 13.00% | ~667 |
+| More than a Tourist | 12.00% | ~616 |
+| Hook, Line and Sinker | 8.00% | ~411 |
+| Marathon | 8.00% | ~411 |
 | School's Out for Summer | 6.00% | ~308 |
 | Big Fish Small Pond | 6.00% | ~308 |
+| I'm the Captain Now | 5.00% | ~257 |
 | The Beetles | 3.00% | ~154 |
 | Gonna Need a Bigger Boat | 3.00% | ~154 |
 | Rod and Troll | 2.00% | ~90 |
@@ -33,16 +33,16 @@ Number of Ratings: 281  (23.09.2022)
 | No Fin left to give | 0.90% | ~46 |
 | Head for Heights | 0.60% | ~31 |
 | Lake Me up Before You Go Go | 0.50% | ~26 |
-| Fish upon a Star | 0.50% | ~22 |
+| Fish upon a Star | 0.50% | ~23 |
 | Cache and Carry | 0.40% | ~18 |
-| Trollsporet Tale Teller | 0.30% | ~13 |
+| Trollsporet Tale Teller | 0.30% | ~14 |
 | Golden Ridge Ranger | 0.20% | ~10 |
 | Buckaroo | 0.20% | ~10 |
 | Lost and Flounder | 0.10% | ~5 |
-| Norway Jose | 0.10% | ~4 |
+| Norway Jose | 0.10% | ~5 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,125 (Ranked 145)  
+Progressed: 5,133 (Ranked 145)  
 Completed: 0 (0.00%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 0 (0.00%) (Ranked 264)
 | 2023-08-23 | 4,959 | 0 |
 | 2023-08-24 | 4,986 | 0 |
 | 2023-08-25 | 5,062 | 0 |
-| 2023-08-26 | 5,125 | 0 |
+| 2023-08-26 | 5,133 | 0 |
 ## Awards
 Max (Relaxing): 33  (Ranked 449)  
 Sum: 163 (Ranked 391)  

@@ -2,13 +2,13 @@
   "ID": "e509c16d53714b13ba8e393966507255",
   "Name": "STAR WARS Jedi: Fallen Order Standard Edition",
   "ProductSlug": "star-wars-jedi-fallen-order",
-  "Ranking_Rating": 216,
+  "Ranking_Rating": 217,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 152,
-  "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2019-11-14T05:00:00+00:00",
     "PcReleaseDate": "2019-11-14T05:00:00+00:00",
@@ -843,8 +843,8 @@
   "FirstSeenRating": "2023-01-19T17:57:21.8503862+00:00",
   "FirstSeenAchievements": "2023-07-10T16:05:56.566265+00:00",
   "LastChanged": "2023-07-11T17:57:37.1037412+00:00",
-  "LastChanged_Achievements": "2023-08-26T16:04:37.5314183+00:00",
+  "LastChanged_Achievements": "2023-08-26T17:04:51.5130927+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:08.1826784+00:00",
-  "LastUpdate_Ratings": "2023-08-26T15:58:34.8141865+00:00",
-  "LastUpdate_Achievements": "2023-08-26T16:04:37.5314452+00:00"
+  "LastUpdate_Ratings": "2023-08-26T16:58:47.6330479+00:00",
+  "LastUpdate_Achievements": "2023-08-26T17:04:51.5131265+00:00"
 }

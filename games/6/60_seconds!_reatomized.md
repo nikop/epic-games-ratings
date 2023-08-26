@@ -1,32 +1,32 @@
 # 60 Seconds! Reatomized
 [Store](https://store.epicgames.com/en-US/p/60-seconds-reatomized-91ffa3)  
 [View Rawdata](../../db/6/60_seconds!_reatomized.json)  
-Rating: 4.64 (Ranked 314)  
+Rating: 4.64 (Ranked 315)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 93.00% | ~4,633 |
-| All thumbs | 92.00% | ~4,583 |
-| I will survive! | 92.00% | ~4,583 |
-| Home, sweet home | 90.00% | ~4,484 |
-| Survivalist | 89.00% | ~4,434 |
-| One way ticket | 84.00% | ~4,185 |
-| Last man standing | 79.00% | ~3,936 |
-| Family guy | 77.00% | ~3,836 |
+| Prepper | 93.00% | ~4,634 |
+| All thumbs | 92.00% | ~4,584 |
+| I will survive! | 92.00% | ~4,584 |
+| Home, sweet home | 90.00% | ~4,485 |
+| Survivalist | 89.00% | ~4,435 |
+| One way ticket | 84.00% | ~4,186 |
+| Last man standing | 79.00% | ~3,937 |
+| Family guy | 77.00% | ~3,837 |
 | Out of the Bag | 74.00% | ~3,687 |
 | The Dark Side | 69.00% | ~3,438 |
-| Duck and cover! | 65.00% | ~3,238 |
-| Souper! | 64.00% | ~3,188 |
+| Duck and cover! | 65.00% | ~3,239 |
+| Souper! | 64.00% | ~3,189 |
 | Pacifist | 58.00% | ~2,890 |
 | 2-1-6 | 57.00% | ~2,840 |
 | A gift | 52.00% | ~2,591 |
 | Girl Power | 47.00% | ~2,342 |
-| What goes around... | 43.00% | ~2,142 |
-| Be Prepared | 37.00% | ~1,843 |
+| What goes around... | 43.00% | ~2,143 |
+| Be Prepared | 37.00% | ~1,844 |
 | Unbreakable | 36.00% | ~1,794 |
 | This is the end | 33.00% | ~1,644 |
-| Gotta get 'em all | 32.00% | ~1,594 |
-| Atomic drill | 32.00% | ~1,594 |
+| Gotta get 'em all | 32.00% | ~1,595 |
+| Atomic drill | 32.00% | ~1,595 |
 | Disco Roach | 27.00% | ~1,345 |
 | Dawkins Residence | 21.00% | ~1,046 |
 | Rescue time! | 18.00% | ~897 |
@@ -66,7 +66,7 @@ Rating: 4.64 (Ranked 314)
 | Tora! Tora! Tora! | 0.20% | ~10 |
 | Dead Hand | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,982 (Ranked 146)  
+Progressed: 4,983 (Ranked 146)  
 Completed: 1 (0.02%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 1 (0.02%) (Ranked 244)
 | 2023-08-23 | 4,965 | 1 |
 | 2023-08-24 | 4,970 | 1 |
 | 2023-08-25 | 4,977 | 1 |
-| 2023-08-26 | 4,982 | 1 |
+| 2023-08-26 | 4,983 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

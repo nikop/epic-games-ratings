@@ -2,13 +2,13 @@
   "ID": "a2dcbb9e34204bda9da8415f97b3f4ea",
   "Name": "Honkai: Star Rail",
   "ProductSlug": "honkai-star-rail",
-  "Ranking_Rating": 144,
+  "Ranking_Rating": 145,
   "Ranking_Popularity": 40,
   "Ranking_PopularitySum": 55,
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-04-26T00:30:00+00:00",
     "PcReleaseDate": "2023-04-26T00:30:00+00:00",
@@ -3196,10 +3196,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 21024,
       "NumberOfAwardsMax": 8613
+    },
+    {
+      "Time": "2023-08-26T16:58:48.1298358+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 21092,
+      "NumberOfAwardsMax": 8613
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21024,
+  "NumberOfAwards": 21092,
   "NumberOfAwardsMax": 8613,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3213,7 +3219,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1194
+      "Count": 1232
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3261,7 +3267,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1075
+      "Count": 1105
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3288,8 +3294,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-04-26T04:02:27.1386143+00:00",
   "FirstSeenRating": "2023-04-26T04:02:27.1386204+00:00",
-  "LastChanged": "2023-08-26T09:02:05.7867053+00:00",
+  "LastChanged": "2023-08-26T16:58:48.1298357+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:58:03.9397953+00:00",
-  "LastUpdate_Ratings": "2023-08-26T15:58:35.351747+00:00",
-  "LastUpdate_Achievements": "2023-08-26T16:06:37.3081689+00:00"
+  "LastUpdate_Ratings": "2023-08-26T16:58:48.1298363+00:00",
+  "LastUpdate_Achievements": "2023-08-26T17:06:51.6179388+00:00"
 }

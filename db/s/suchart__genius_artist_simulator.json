@@ -2,13 +2,13 @@
   "ID": "8618da9904ad41ad951fcc470d1873cb",
   "Name": "SuchArt: Genius Artist Simulator",
   "ProductSlug": "suchart-genius-artist-simulator",
-  "Ranking_Rating": 216,
+  "Ranking_Rating": 217,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-10-13T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -424,6 +424,6 @@
   "FirstSeen": "2022-07-22T20:26:12.7959951+00:00",
   "LastChanged": "2023-07-12T03:58:32.2551577+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:36.4338873+00:00",
-  "LastUpdate_Ratings": "2023-08-26T15:59:56.7161779+00:00",
-  "LastUpdate_Achievements": "2023-08-26T16:06:27.6703574+00:00"
+  "LastUpdate_Ratings": "2023-08-26T17:00:08.7862554+00:00",
+  "LastUpdate_Achievements": "2023-08-26T17:06:41.5782794+00:00"
 }

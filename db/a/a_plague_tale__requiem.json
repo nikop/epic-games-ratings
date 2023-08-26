@@ -2,7 +2,7 @@
   "ID": "64ae027afbd145d9b6e62bd96967fe66",
   "Name": "A Plague Tale: Requiem",
   "ProductSlug": "a-plague-tale-requiem",
-  "Ranking_Rating": 162,
+  "Ranking_Rating": 163,
   "Ranking_Popularity": 212,
   "Ranking_PopularitySum": 292,
   "Ranking_EOS_Progress": 120,
@@ -7704,9 +7704,9 @@
       "ID": "ACH_11",
       "SetID": "9d4cf4c",
       "Name": "The Cradle of Centuries",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 6167
+      "UsersEstimate": 6296
     },
     {
       "ID": "ACH_12",
@@ -7913,8 +7913,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-08-24T02:10:43.6579276+00:00",
-  "LastChanged_Achievements": "2023-08-26T16:05:31.274848+00:00",
+  "LastChanged_Achievements": "2023-08-26T17:05:45.5660851+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:58.0363669+00:00",
-  "LastUpdate_Ratings": "2023-08-26T15:57:34.8647936+00:00",
-  "LastUpdate_Achievements": "2023-08-26T16:05:31.2748949+00:00"
+  "LastUpdate_Ratings": "2023-08-26T16:57:46.3511047+00:00",
+  "LastUpdate_Achievements": "2023-08-26T17:05:45.5661521+00:00"
 }

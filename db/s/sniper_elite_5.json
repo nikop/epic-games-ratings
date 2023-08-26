@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -476,11 +476,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3529,
+  "EOS_Progressed": 3530,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.26,
+  "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:23.1376838+00:00",
@@ -6211,6 +6211,11 @@
       "Time": "2023-08-26T05:05:34.0390867+00:00",
       "NumProgressed": 3529,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-26T17:05:12.0350604+00:00",
+      "NumProgressed": 3530,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -6222,7 +6227,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -6286,7 +6291,7 @@
       "Name": "Organ Grinder",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -6302,7 +6307,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1623
+      "UsersEstimate": 1624
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -6324,9 +6329,9 @@
       "ID": "REWARD_22_MASTER_OF_RIFLES",
       "SetID": "bm6el81",
       "Name": "Master of Rifles",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 28
     },
     {
       "ID": "REWARD_23_MASTER_AT_ARMS",
@@ -6374,7 +6379,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -6430,7 +6435,7 @@
       "Name": "Lord of War",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1023
+      "UsersEstimate": 1024
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -6454,7 +6459,7 @@
       "Name": "Der Geist",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -6462,7 +6467,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -6470,7 +6475,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1270
+      "UsersEstimate": 1271
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -6478,7 +6483,7 @@
       "Name": "Close Quarters",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -6534,7 +6539,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -6556,9 +6561,9 @@
       "ID": "REWARD_5_BUNKER_BUSTER",
       "SetID": "bm6el81",
       "Name": "Change the Channel",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1023
+      "UsersEstimate": 1059
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -6789,13 +6794,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3480,
+      "Progressed": 3481,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3529,
+      "Progressed": 3530,
       "Completed": 9
     }
   ],
@@ -6803,8 +6808,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-08-19T13:59:32.9786794+00:00",
-  "LastChanged_Achievements": "2023-08-26T16:04:57.8360621+00:00",
+  "LastChanged_Achievements": "2023-08-26T17:05:12.03506+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:12.9306959+00:00",
-  "LastUpdate_Ratings": "2023-08-26T15:58:52.3631483+00:00",
-  "LastUpdate_Achievements": "2023-08-26T16:04:57.8361526+00:00"
+  "LastUpdate_Ratings": "2023-08-26T16:59:06.6701407+00:00",
+  "LastUpdate_Achievements": "2023-08-26T17:05:12.0351654+00:00"
 }

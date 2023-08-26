@@ -1,24 +1,25 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
+Rating: 4.81 (Ranked 76)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stogie for Fogey | 19.00% | ~1,742 |
-| Doctor Approved | 17.00% | ~1,559 |
-| Captain Drummer | 17.00% | ~1,559 |
-| Spore Taste | 14.00% | ~1,284 |
-| Martian Music | 14.00% | ~1,284 |
-| Celebrations are in Order | 11.00% | ~1,009 |
-| Impossible Objects | 11.00% | ~1,009 |
+| Stogie for Fogey | 19.00% | ~1,744 |
+| Doctor Approved | 17.00% | ~1,561 |
+| Captain Drummer | 17.00% | ~1,561 |
+| Spore Taste | 14.00% | ~1,285 |
+| Martian Music | 14.00% | ~1,285 |
+| Celebrations are in Order | 11.00% | ~1,010 |
+| Impossible Objects | 11.00% | ~1,010 |
 | Thorston Mayer | 8.00% | ~734 |
-| Bottoms up! | 5.00% | ~458 |
+| Bottoms up! | 6.00% | ~551 |
 | Data Logger | 3.00% | ~275 |
-| Data Master | 2.00% | ~183 |
-| Data Recoverer | 2.00% | ~183 |
+| Data Master | 2.00% | ~184 |
+| Data Recoverer | 2.00% | ~184 |
 | Urshanabi Hoarder | 1.00% | ~92 |
 | Debris Spree | 1.00% | ~92 |
-| Grave Robber | 0.70% | ~64 |
+| Grave Robber | 0.80% | ~73 |
 | Data Miner | 0.10% | ~9 |
 | The Pit and the Pirates | 0.10% | ~9 |
 | Data Archivist | 0.10% | ~9 |
@@ -35,7 +36,7 @@
 | Scavenger Star | 0.00% | ~0 |
 | Data Collector | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,170 (Ranked 128)  
+Progressed: 9,181 (Ranked 128)  
 Completed: 0 (0.00%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,4 +71,8 @@ Completed: 0 (0.00%) (Ranked 264)
 | 2023-08-23 | 8,820 | 0 |
 | 2023-08-24 | 8,909 | 0 |
 | 2023-08-25 | 9,074 | 0 |
-| 2023-08-26 | 9,170 | 0 |
+| 2023-08-26 | 9,181 | 0 |
+## Ratings History
+| Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
+| ---- | ------ | ---------------------- | ---------------------- |
+| 2023-08-26 | 4.81 | 0 | 0 |

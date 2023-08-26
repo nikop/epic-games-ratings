@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -117,9 +117,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 444,
+  "EOS_Progressed": 445,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -912,6 +912,11 @@
       "Time": "2023-08-23T21:06:30.9170129+00:00",
       "NumProgressed": 444,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-26T17:06:26.1377553+00:00",
+      "NumProgressed": 445,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -923,15 +928,15 @@
       "Name": "Getting started",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "02_collector",
       "SetID": "chb1m60",
       "Name": "Collector",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 187
     },
     {
       "ID": "03_philatelist",
@@ -939,7 +944,7 @@
       "Name": "Philatelist",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "04_tycoon",
@@ -961,9 +966,9 @@
       "ID": "06_living",
       "SetID": "chb1m60",
       "Name": "Living it large!",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 196
     },
     {
       "ID": "07_europe",
@@ -979,7 +984,7 @@
       "Name": "America",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "09_russia",
@@ -1011,7 +1016,7 @@
       "Name": "Let\u0027s roll!",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "13_bunkrupt",
@@ -1019,7 +1024,7 @@
       "Name": "It\u0027s no coincidence.",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "14_woodcutter",
@@ -1041,7 +1046,7 @@
       "ID": "16_vandal",
       "SetID": "chb1m60",
       "Name": "Vandal",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -1051,7 +1056,7 @@
       "Name": "Builder",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "18_foreman",
@@ -1083,7 +1088,7 @@
       "Name": "Missed it!",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "22_ouroboros",
@@ -1099,13 +1104,13 @@
       "Name": "Close call!",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "24_mega",
       "SetID": "chb1m60",
       "Name": "Mega-railroad",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -1113,7 +1118,7 @@
       "ID": "25_juggler",
       "SetID": "chb1m60",
       "Name": "Juggler",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -1137,9 +1142,9 @@
       "ID": "28_nonstop",
       "SetID": "chb1m60",
       "Name": "Non Stop!",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 107
     },
     {
       "ID": "29_madness",
@@ -1155,7 +1160,7 @@
       "Name": "Completely nuts!",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "31_chancellor",
@@ -1177,9 +1182,9 @@
       "ID": "33_peacemaker",
       "SetID": "chb1m60",
       "Name": "Peacemaker",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 18
     },
     {
       "ID": "34_needtothink",
@@ -1187,7 +1192,7 @@
       "Name": "Need to think",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "35_achtung",
@@ -1209,7 +1214,7 @@
       "ID": "37_maniacvandal",
       "SetID": "chb1m60",
       "Name": "Maniac vandal",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -1217,9 +1222,9 @@
       "ID": "38_chuck",
       "SetID": "chb1m60",
       "Name": "Chuck Norris",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 18
     },
     {
       "ID": "39_salesman",
@@ -1234,15 +1239,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 444,
+      "Progressed": 445,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-08-15T19:59:30.756961+00:00",
-  "LastChanged_Achievements": "2023-08-26T16:06:12.0778681+00:00",
+  "LastChanged_Achievements": "2023-08-26T17:06:26.1377548+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:23.2933239+00:00",
-  "LastUpdate_Ratings": "2023-08-26T15:59:46.1764139+00:00",
-  "LastUpdate_Achievements": "2023-08-26T16:06:12.0778985+00:00"
+  "LastUpdate_Ratings": "2023-08-26T16:59:58.9190665+00:00",
+  "LastUpdate_Achievements": "2023-08-26T17:06:26.1377894+00:00"
 }

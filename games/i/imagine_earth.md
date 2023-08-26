@@ -1,7 +1,7 @@
 # Imagine Earth
 [Store](https://store.epicgames.com/en-US/p/imagine-earth-7498e4)  
 [View Rawdata](../../db/i/imagine_earth.json)  
-Rating: 4.30 (Ranked 794)  
+Rating: 4.30 (Ranked 795)  
 Number of Ratings: 22  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -31,7 +31,7 @@ Number of Ratings: 22  (23.09.2022)
 | Competitor Silver | 0.20% | ~1 |
 | Competitor Gold | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 408 (Ranked 245)  
+Progressed: 408 (Ranked 246)  
 Completed: 0 (0.00%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |

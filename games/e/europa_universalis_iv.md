@@ -1,58 +1,58 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.68 (Ranked 238)  
+Rating: 4.68 (Ranked 239)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~14,867 |
-| That's a Grand Army | 3.00% | ~11,150 |
-| That is mine! | 3.00% | ~11,150 |
-| Victorious! | 3.00% | ~11,150 |
-| Brothers in Arms | 2.00% | ~7,433 |
-| That's a Grand Navy | 2.00% | ~7,433 |
-| Seriously?! | 2.00% | ~7,433 |
-| Cold War | 1.00% | ~3,717 |
-| Defender of the Faith | 1.00% | ~3,717 |
-| For the Glory | 1.00% | ~3,717 |
-| It's all about the money | 1.00% | ~3,717 |
-| True Catholic | 1.00% | ~3,717 |
-| The Princess is in this Castle | 0.90% | ~3,345 |
-| It's all about luck | 0.80% | ~2,973 |
-| Respected | 0.80% | ~2,973 |
-| Truly Divine Ruler | 0.80% | ~2,973 |
-| Blockader | 0.70% | ~2,602 |
-| Double the Love | 0.70% | ~2,602 |
-| Royal Authority | 0.60% | ~2,230 |
-| Total Control | 0.60% | ~2,230 |
-| Combined Arms | 0.50% | ~1,858 |
-| My armies are invincible! | 0.50% | ~1,858 |
+| Until death do us apart | 4.00% | ~14,875 |
+| That's a Grand Army | 3.00% | ~11,156 |
+| That is mine! | 3.00% | ~11,156 |
+| Victorious! | 3.00% | ~11,156 |
+| Brothers in Arms | 2.00% | ~7,437 |
+| That's a Grand Navy | 2.00% | ~7,437 |
+| Seriously?! | 2.00% | ~7,437 |
+| Cold War | 1.00% | ~3,719 |
+| Defender of the Faith | 1.00% | ~3,719 |
+| For the Glory | 1.00% | ~3,719 |
+| It's all about the money | 1.00% | ~3,719 |
+| True Catholic | 1.00% | ~3,719 |
+| The Princess is in this Castle | 0.90% | ~3,347 |
+| It's all about luck | 0.80% | ~2,975 |
+| Respected | 0.80% | ~2,975 |
+| Truly Divine Ruler | 0.80% | ~2,975 |
+| Blockader | 0.70% | ~2,603 |
+| Double the Love | 0.70% | ~2,603 |
+| Royal Authority | 0.60% | ~2,231 |
+| Total Control | 0.60% | ~2,231 |
+| Combined Arms | 0.50% | ~1,859 |
+| My armies are invincible! | 0.50% | ~1,859 |
 | Agressive Expander | 0.40% | ~1,487 |
 | Azur semé de lis or | 0.40% | ~1,487 |
 | City of Cities | 0.40% | ~1,487 |
 | Gentle Persuasion | 0.40% | ~1,487 |
 | Queen of Conquest | 0.40% | ~1,487 |
 | This navy can take it all | 0.40% | ~1,487 |
-| All That's Thine Shall Be Mine | 0.30% | ~1,115 |
-| Bright Spark | 0.30% | ~1,115 |
-| The Emperors new clothes | 0.30% | ~1,115 |
-| Factionalism | 0.30% | ~1,115 |
-| A Golden Empire | 0.30% | ~1,115 |
-| Isn't this the way to India? | 0.30% | ~1,115 |
-| Market Control | 0.30% | ~1,115 |
-| The Five Colonies | 0.30% | ~1,115 |
-| Trustworthy | 0.30% | ~1,115 |
-| All belongs to Mother Russia | 0.20% | ~743 |
-| At every continent | 0.20% | ~743 |
-| Down Under | 0.20% | ~743 |
-| Electable! | 0.20% | ~743 |
-| Grand Coalition | 0.20% | ~743 |
-| One Family to Rule them All | 0.20% | ~743 |
-| Populists in Government | 0.20% | ~743 |
-| The pen is mightier than the sword | 0.20% | ~743 |
-| Time Bandit | 0.20% | ~743 |
-| Traditional Player | 0.20% | ~743 |
+| All That's Thine Shall Be Mine | 0.30% | ~1,116 |
+| Bright Spark | 0.30% | ~1,116 |
+| The Emperors new clothes | 0.30% | ~1,116 |
+| Factionalism | 0.30% | ~1,116 |
+| A Golden Empire | 0.30% | ~1,116 |
+| Isn't this the way to India? | 0.30% | ~1,116 |
+| Market Control | 0.30% | ~1,116 |
+| The Five Colonies | 0.30% | ~1,116 |
+| Trustworthy | 0.30% | ~1,116 |
+| All belongs to Mother Russia | 0.20% | ~744 |
+| At every continent | 0.20% | ~744 |
+| Down Under | 0.20% | ~744 |
+| Electable! | 0.20% | ~744 |
+| Grand Coalition | 0.20% | ~744 |
+| One Family to Rule them All | 0.20% | ~744 |
+| Populists in Government | 0.20% | ~744 |
+| The pen is mightier than the sword | 0.20% | ~744 |
+| Time Bandit | 0.20% | ~744 |
+| Traditional Player | 0.20% | ~744 |
 | The 52 Garhs | 0.10% | ~372 |
 | I don't like sand | 0.10% | ~372 |
 | A Blessed Nation | 0.10% | ~372 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 371,670 (Ranked 41)  
+Progressed: 371,865 (Ranked 41)  
 Completed: 0 (0.00%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -489,7 +489,7 @@ Completed: 0 (0.00%) (Ranked 264)
 | 2023-08-23 | 363,609 | 0 |
 | 2023-08-24 | 366,536 | 0 |
 | 2023-08-25 | 369,495 | 0 |
-| 2023-08-26 | 371,670 | 0 |
+| 2023-08-26 | 371,865 | 0 |
 ## Awards
 Max (Educational): 5,784  (Ranked 60)  
 Sum: 47,774 (Ranked 26)  

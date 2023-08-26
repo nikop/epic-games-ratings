@@ -1,25 +1,25 @@
 # Crime Boss: Rockay City
 [Store](https://store.epicgames.com/en-US/p/crime-boss)  
 [View Rawdata](../../db/c/crime_boss__rockay_city.json)  
-Rating: 3.94 (Ranked 950)  
+Rating: 3.94 (Ranked 951)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~53,531 |
-| First One’s Free | 65.00% | ~47,020 |
+| Downed but Not Outed | 74.00% | ~53,532 |
+| First One’s Free | 65.00% | ~47,022 |
 | Neophyte Ninja | 50.00% | ~36,170 |
-| Too Old for This | 48.00% | ~34,723 |
+| Too Old for This | 48.00% | ~34,724 |
 | Case Closed | 35.00% | ~25,319 |
 | Fancy Pants | 35.00% | ~25,319 |
-| King of the Hill | 34.00% | ~24,595 |
-| Underworld Initiate | 29.00% | ~20,978 |
-| Roid Ranger | 21.00% | ~15,191 |
+| King of the Hill | 34.00% | ~24,596 |
+| Underworld Initiate | 29.00% | ~20,979 |
+| Roid Ranger | 21.00% | ~15,192 |
 | Off the Rocks | 20.00% | ~14,468 |
-| True Player | 19.00% | ~13,744 |
+| True Player | 19.00% | ~13,745 |
 | Raider’s Ruin | 17.00% | ~12,298 |
 | Dragonslayer | 17.00% | ~12,298 |
 | Hidden Sonata | 13.00% | ~9,404 |
-| Rockay Rex | 11.00% | ~7,957 |
+| Rockay Rex | 11.00% | ~7,958 |
 | Track Star | 10.00% | ~7,234 |
 | Freebooter | 10.00% | ~7,234 |
 | Headhunter | 9.00% | ~6,511 |
@@ -43,7 +43,7 @@ Rating: 3.94 (Ranked 950)
 | Geek Out | 0.60% | ~434 |
 | Full House | 0.20% | ~145 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,339 (Ranked 79)  
+Progressed: 72,341 (Ranked 79)  
 Completed: 42 (0.06%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,10 +171,10 @@ Completed: 42 (0.06%) (Ranked 226)
 | 2023-08-23 | 72,253 | 41 |
 | 2023-08-24 | 72,287 | 41 |
 | 2023-08-25 | 72,307 | 42 |
-| 2023-08-26 | 72,339 | 42 |
+| 2023-08-26 | 72,341 | 42 |
 ## Awards
 Max (Diverse Characters): 407  (Ranked 215)  
-Sum: 1,934 (Ranked 202)  
+Sum: 1,936 (Ranked 202)  
 Diff (max vs sum): 13  
 | Award | Count |
 | ----- | ----- |
@@ -182,7 +182,7 @@ Diff (max vs sum): 13
 | This game has Quickly Understood Controls | 396 |
 | This game is Highly Recommended | 389 |
 | This game has Challenging Combat | 375 |
-| This game has Amazing Characters | 367 |
+| This game has Amazing Characters | 369 |
 | This game is Great for Quick Sessions | 70 |
 | This game has Amazing Storytelling | 52 |
 | This game has a Silly Community | 33 |
@@ -337,4 +337,4 @@ Diff (max vs sum): 13
 | 2023-08-23 | 3.94 | 404 | 1,926 |
 | 2023-08-24 | 3.94 | 406 | 1,930 |
 | 2023-08-25 | 3.94 | 406 | 1,932 |
-| 2023-08-26 | 3.94 | 407 | 1,934 |
+| 2023-08-26 | 3.94 | 407 | 1,936 |

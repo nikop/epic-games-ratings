@@ -1,28 +1,28 @@
 # Disney Dreamlight Valley
 [Store](https://store.epicgames.com/en-US/p/disney-dreamlight-valley)  
 [View Rawdata](../../db/d/disney_dreamlight_valley.json)  
-Rating: 4.76 (Ranked 118)  
+Rating: 4.76 (Ranked 119)  
 Number of Ratings: 1,396  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 71.00% | ~6,411 |
-| Photographer | 69.00% | ~6,230 |
-| Valley's Helper | 64.00% | ~5,779 |
-| Constructor | 52.00% | ~4,695 |
-| Renovator | 52.00% | ~4,695 |
-| Bestest Friend | 48.00% | ~4,334 |
-| Banker | 40.00% | ~3,612 |
-| Gardener | 31.00% | ~2,799 |
-| Generous | 23.00% | ~2,077 |
-| Chef Cook | 17.00% | ~1,535 |
-| Miner | 8.00% | ~722 |
+| Goofy's Investor | 71.00% | ~6,414 |
+| Photographer | 69.00% | ~6,233 |
+| Valley's Helper | 64.00% | ~5,782 |
+| Constructor | 52.00% | ~4,698 |
+| Renovator | 52.00% | ~4,698 |
+| Bestest Friend | 48.00% | ~4,336 |
+| Banker | 40.00% | ~3,614 |
+| Gardener | 31.00% | ~2,801 |
+| Generous | 23.00% | ~2,078 |
+| Chef Cook | 17.00% | ~1,536 |
+| Miner | 8.00% | ~723 |
 | Duty Bound | 6.00% | ~542 |
-| Angler | 5.00% | ~451 |
+| Angler | 5.00% | ~452 |
 | Thorn Cleaner | 4.00% | ~361 |
 | Chit Chatter | 3.00% | ~271 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,029 (Ranked 129)  
+Progressed: 9,034 (Ranked 129)  
 Completed: 204 (2.26%) (Ranked 89)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,10 +101,10 @@ Completed: 204 (2.26%) (Ranked 89)
 | 2023-08-23 | 8,931 | 202 |
 | 2023-08-24 | 8,964 | 204 |
 | 2023-08-25 | 9,001 | 204 |
-| 2023-08-26 | 9,029 | 204 |
+| 2023-08-26 | 9,034 | 204 |
 ## Awards
 Max (Great for Beginners): 936  (Ranked 149)  
-Sum: 7,444 (Ranked 107)  
+Sum: 7,446 (Ranked 107)  
 Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
@@ -112,7 +112,7 @@ Diff (max vs sum): 42
 | This game has Diverse Characters | 807 |
 | This game is Relaxing | 794 |
 | This game is Highly Recommended | 788 |
-| This game has Amazing Characters | 786 |
+| This game has Amazing Characters | 788 |
 | This game has Amazing Storytelling | 756 |
 | This game has Quickly Understood Controls | 734 |
 | This game is Extremely Fun | 728 |
@@ -289,4 +289,4 @@ Diff (max vs sum): 42
 | 2023-08-23 | 4.76 | - | 934 | 7,437 |
 | 2023-08-24 | 4.76 | - | 934 | 7,439 |
 | 2023-08-25 | 4.76 | - | 934 | 7,441 |
-| 2023-08-26 | 4.76 | - | 936 | 7,444 |
+| 2023-08-26 | 4.76 | - | 936 | 7,446 |

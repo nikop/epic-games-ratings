@@ -4,8 +4,8 @@
   "ProductSlug": "stellar-interface-d14cc4",
   "Ranking_EOS_Progress": 364,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-03-30T00:00:00+00:00",
     "PcReleaseDate": "2016-11-21T00:00:00+00:00",
@@ -1189,9 +1189,9 @@
       "ID": "SilverMissionsCompleted5Achievement",
       "SetID": "a8djcgh",
       "Name": "Sectoral Captain",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SilverMissionsCompletedAllAchievement",
@@ -1388,8 +1388,8 @@
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-08-26T16:03:33.5803827+00:00",
+  "LastChanged_Achievements": "2023-08-26T17:03:45.9706037+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:41.6007938+00:00",
-  "LastUpdate_Ratings": "2023-08-26T16:00:41.6738778+00:00",
-  "LastUpdate_Achievements": "2023-08-26T16:03:33.5805333+00:00"
+  "LastUpdate_Ratings": "2023-08-26T17:00:52.2081615+00:00",
+  "LastUpdate_Achievements": "2023-08-26T17:03:45.9708114+00:00"
 }

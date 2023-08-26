@@ -2,13 +2,13 @@
   "ID": "azalea",
   "Name": "The Cycle: Frontier",
   "ProductSlug": "thecycle",
-  "Ranking_Rating": 910,
+  "Ranking_Rating": 911,
   "Ranking_Popularity": 101,
   "Ranking_PopularitySum": 69,
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2099-06-08T10:00:00+00:00",
     "PcReleaseDate": "2022-06-08T10:00:00+00:00",
@@ -6590,10 +6590,16 @@
       "Rating": 4.1,
       "NumberOfAwards": 14058,
       "NumberOfAwardsMax": 2501
+    },
+    {
+      "Time": "2023-08-26T17:00:29.419854+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 14060,
+      "NumberOfAwardsMax": 2501
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14058,
+  "NumberOfAwards": 14060,
   "NumberOfAwardsMax": 2501,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
@@ -6625,7 +6631,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 2474
+      "Count": 2476
     },
     {
       "Text": "This game has a Competitive Community",
@@ -6651,8 +6657,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:03.6642346+00:00",
-  "LastChanged": "2023-08-25T15:01:49.9313073+00:00",
+  "LastChanged": "2023-08-26T17:00:29.4198538+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:06.7668745+00:00",
-  "LastUpdate_Ratings": "2023-08-26T16:00:18.5467499+00:00",
-  "LastUpdate_Achievements": "2023-08-26T16:05:39.9929655+00:00"
+  "LastUpdate_Ratings": "2023-08-26T17:00:29.4198545+00:00",
+  "LastUpdate_Achievements": "2023-08-26T17:05:53.790647+00:00"
 }

@@ -1,7 +1,7 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 501)  
+Rating: 4.54 (Ranked 502)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,9 +10,12 @@ Rating: 4.54 (Ranked 501)
 | Break A Leg | 0.20% | ~1,332 |
 | Coup de Grâce | 0.20% | ~1,332 |
 | Hazardous Materials | 0.20% | ~1,332 |
+| Friends Like These | 0.20% | ~1,332 |
 | Hotel California | 0.20% | ~1,332 |
+| Apex Predator | 0.20% | ~1,332 |
 | Stacking the Deck | 0.20% | ~1,332 |
 | Personal Assistant Personally Assisted | 0.20% | ~1,332 |
+| This is My Weapon | 0.20% | ~1,332 |
 | Welcome To Hell-A | 0.20% | ~1,332 |
 | Making Your Mark | 0.10% | ~666 |
 | Anger Management | 0.10% | ~666 |
@@ -28,12 +31,10 @@ Rating: 4.54 (Ranked 501)
 | Can't Handle the Truth | 0.10% | ~666 |
 | Like Riding a Bike | 0.10% | ~666 |
 | Not Even My Final Form | 0.10% | ~666 |
-| Friends Like These | 0.10% | ~666 |
 | Donk! | 0.10% | ~666 |
 | Internet Famous | 0.10% | ~666 |
 | Sole Survivor | 0.10% | ~666 |
 | Jumbo Keyring | 0.10% | ~666 |
-| Apex Predator | 0.10% | ~666 |
 | Zombologist | 0.10% | ~666 |
 | Ooh, Shiny! | 0.10% | ~666 |
 | Gore Horse | 0.10% | ~666 |
@@ -46,12 +47,11 @@ Rating: 4.54 (Ranked 501)
 | Max Headroom | 0.10% | ~666 |
 | Go, Bobcats! | 0.10% | ~666 |
 | Our True Nature | 0.10% | ~666 |
-| This is My Weapon | 0.10% | ~666 |
 | Variety is the Spice of Death | 0.10% | ~666 |
 | Rising Star | 0.10% | ~666 |
 | Bucket List | 0.10% | ~666 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 665,889 (Ranked 22)  
+Progressed: 665,948 (Ranked 22)  
 Completed: 2,075 (0.31%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 2,075 (0.31%) (Ranked 172)
 | 2023-08-23 | 663,691 | 2,054 |
 | 2023-08-24 | 664,478 | 2,059 |
 | 2023-08-25 | 665,272 | 2,068 |
-| 2023-08-26 | 665,889 | 2,075 |
+| 2023-08-26 | 665,948 | 2,075 |
 ## Awards
 Max (Great Boss Battles): 5,770  (Ranked 61)  
 Sum: 8,490 (Ranked 97)  

@@ -1,7 +1,7 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 938)  
+Rating: 3.99 (Ranked 939)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -100,6 +100,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | A Legend is Born | 0.20% | ~270 |
 | Jackpot! | 0.20% | ~270 |
 | Bountiful Harvest | 0.20% | ~270 |
+| Eternal Crusade | 0.20% | ~270 |
 | Master Recycler | 0.20% | ~270 |
 | All Accounted For | 0.20% | ~270 |
 | Economy of Scarce | 0.20% | ~270 |
@@ -114,7 +115,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Anything not Nailed Down | 0.10% | ~135 |
 | The Greatest Grind | 0.10% | ~135 |
 | All or Nothing! | 0.10% | ~135 |
-| Eternal Crusade | 0.10% | ~135 |
 | To Hell and Back | 0.10% | ~135 |
 | Marvels from the World Over | 0.10% | ~135 |
 | Cash Only Please | 0.10% | ~135 |

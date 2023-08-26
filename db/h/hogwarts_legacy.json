@@ -2,7 +2,7 @@
   "ID": "e97659b501af4e3981d5430dad170911",
   "Name": "Hogwarts Legacy",
   "ProductSlug": "hogwarts-legacy",
-  "Ranking_Rating": 108,
+  "Ranking_Rating": 109,
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 43,
@@ -6706,10 +6706,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 41570,
       "NumberOfAwardsMax": 21948
+    },
+    {
+      "Time": "2023-08-26T16:59:43.2644842+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 41574,
+      "NumberOfAwardsMax": 21948
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 41570,
+  "NumberOfAwards": 41574,
   "NumberOfAwardsMax": 21948,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6729,7 +6735,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 806
+      "Count": 808
     },
     {
       "Text": "This game has Amazing Characters",
@@ -6783,12 +6789,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 601
+      "Count": 603
     }
   ],
-  "EOS_Progressed": 290840,
+  "EOS_Progressed": 290842,
   "EOS_Completed": 455,
-  "EOS_NewPlayers": 432,
+  "EOS_NewPlayers": 430,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -20576,6 +20582,11 @@
       "Time": "2023-08-26T16:03:09.4976617+00:00",
       "NumProgressed": 290840,
       "NumCompleted": 455
+    },
+    {
+      "Time": "2023-08-26T17:03:22.2474278+00:00",
+      "NumProgressed": 290842,
+      "NumCompleted": 455
     }
   ],
   "TotalAchievements": 45,
@@ -20915,7 +20926,7 @@
       "Name": "First Class Student",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 31992
+      "UsersEstimate": 31993
     },
     {
       "ID": "PFA_7",
@@ -20923,7 +20934,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 31992
+      "UsersEstimate": 31993
     },
     {
       "ID": "PFA_8",
@@ -20946,16 +20957,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 290840,
+      "Progressed": 290842,
       "Completed": 455
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-08-26T15:59:28.4235653+00:00",
-  "LastChanged_Achievements": "2023-08-26T16:03:09.4976613+00:00",
+  "LastChanged": "2023-08-26T16:59:43.2644841+00:00",
+  "LastChanged_Achievements": "2023-08-26T17:03:22.2474272+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:27.4425386+00:00",
-  "LastUpdate_Ratings": "2023-08-26T15:59:28.4235658+00:00",
-  "LastUpdate_Achievements": "2023-08-26T16:03:09.4977531+00:00"
+  "LastUpdate_Ratings": "2023-08-26T16:59:43.2644848+00:00",
+  "LastUpdate_Achievements": "2023-08-26T17:03:22.2475438+00:00"
 }

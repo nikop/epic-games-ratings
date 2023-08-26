@@ -1,16 +1,16 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.58 (Ranked 427)  
+Rating: 4.58 (Ranked 428)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 24.00% | ~52,216 |
-| Alt+F4 | 3.00% | ~6,527 |
-| Déjà vu | 2.00% | ~4,351 |
-| Where's that freaking Dwarf? | 2.00% | ~4,351 |
-| Sock! SOCK! | 2.00% | ~4,351 |
+| Sowwy! | 24.00% | ~52,223 |
+| Alt+F4 | 3.00% | ~6,528 |
+| Déjà vu | 2.00% | ~4,352 |
+| Where's that freaking Dwarf? | 2.00% | ~4,352 |
+| Sock! SOCK! | 2.00% | ~4,352 |
 | Way of the Wimp | 1.00% | ~2,176 |
 | A beer, two curses, three companions | 1.00% | ~2,176 |
 | GG EZ | 1.00% | ~2,176 |
@@ -31,10 +31,10 @@ Number of Ratings: 118  (23.09.2022)
 | A tale of adventurers not quite like the others... | 0.70% | ~1,523 |
 | %#*!$*! | 0.70% | ~1,523 |
 | I am the night | 0.70% | ~1,523 |
-| Shiny and Crôm | 0.60% | ~1,305 |
-| The beards of change | 0.60% | ~1,305 |
-| The Ranger of Chaos | 0.60% | ~1,305 |
-| Thieves' Guild Accreditation | 0.60% | ~1,305 |
+| Shiny and Crôm | 0.60% | ~1,306 |
+| The beards of change | 0.60% | ~1,306 |
+| The Ranger of Chaos | 0.60% | ~1,306 |
+| Thieves' Guild Accreditation | 0.60% | ~1,306 |
 | Res Judicata | 0.50% | ~1,088 |
 | The Famous Dungeon of Naheulbeuk | 0.50% | ~1,088 |
 | Dwarf Fortress | 0.50% | ~1,088 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~218 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,566 (Ranked 56)  
+Progressed: 217,597 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,7 +182,7 @@ Completed: 2 (0.00%) (Ranked 264)
 | 2023-08-23 | 216,367 | 2 |
 | 2023-08-24 | 216,781 | 2 |
 | 2023-08-25 | 217,227 | 2 |
-| 2023-08-26 | 217,566 | 2 |
+| 2023-08-26 | 217,597 | 2 |
 ## Awards
 Max (Character Customization): 176  (Ranked 284)  
 Sum: 220 (Ranked 363)  

@@ -12,7 +12,7 @@
 | The Gambit Has Begun | 24.00% | ~122 |
 | Powder Monkey | 23.00% | ~117 |
 | Somewhere Deep in the Lost Caribbean | 19.00% | ~97 |
-| Mirror Mirror on the Wall | 17.00% | ~86 |
+| Mirror Mirror on the Wall | 18.00% | ~91 |
 | Fishy Fish | 17.00% | ~86 |
 | Buccaneer | 14.00% | ~71 |
 | Pirates Assemble! | 13.00% | ~66 |
@@ -21,14 +21,14 @@
 | Jaded Judge | 7.00% | ~36 |
 | All Good Things | 6.00% | ~30 |
 | Rustic Recipe | 6.00% | ~30 |
+| Privateer | 5.00% | ~25 |
 | Tobacco Travesty | 5.00% | ~25 |
 | Lyrical Longing | 5.00% | ~25 |
-| Privateer | 4.00% | ~20 |
 | Accursed Artifacts | 4.00% | ~20 |
 | Corsair | 3.00% | ~15 |
 | Freebooter | 2.00% | ~10 |
+| Marauder | 2.00% | ~10 |
 | Fully Decked | 2.00% | ~10 |
-| Marauder | 1.00% | ~5 |
 | Welcome Back Jester | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 508 (Ranked 230)  

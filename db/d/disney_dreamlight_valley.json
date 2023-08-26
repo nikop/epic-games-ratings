@@ -2,13 +2,13 @@
   "ID": "7e2ec8a47b8d41528eb6dd2efd2b1abc",
   "Name": "Disney Dreamlight Valley",
   "ProductSlug": "disney-dreamlight-valley",
-  "Ranking_Rating": 118,
+  "Ranking_Rating": 119,
   "Ranking_Popularity": 149,
   "Ranking_PopularitySum": 107,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 89,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
     "PcReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -3202,10 +3202,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7444,
       "NumberOfAwardsMax": 936
+    },
+    {
+      "Time": "2023-08-26T17:00:21.0330893+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7446,
+      "NumberOfAwardsMax": 936
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7444,
+  "NumberOfAwards": 7446,
   "NumberOfAwardsMax": 936,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3243,7 +3249,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 786
+      "Count": 788
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3276,9 +3282,9 @@
       "Count": 495
     }
   ],
-  "EOS_Progressed": 9029,
+  "EOS_Progressed": 9034,
   "EOS_Completed": 204,
-  "EOS_NewPlayers": 252,
+  "EOS_NewPlayers": 254,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 2.26,
   "EosHistory": [
@@ -10716,6 +10722,11 @@
       "Time": "2023-08-26T16:05:01.1319911+00:00",
       "NumProgressed": 9029,
       "NumCompleted": 204
+    },
+    {
+      "Time": "2023-08-26T17:05:15.3572447+00:00",
+      "NumProgressed": 9034,
+      "NumCompleted": 204
     }
   ],
   "TotalAchievements": 15,
@@ -10727,7 +10738,7 @@
       "Name": "Angler",
       "Percentage": 5,
       "XP": 75,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "Banker",
@@ -10735,7 +10746,7 @@
       "Name": "Banker",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 3612
+      "UsersEstimate": 3614
     },
     {
       "ID": "Bestest_Friend",
@@ -10743,7 +10754,7 @@
       "Name": "Bestest Friend",
       "Percentage": 48,
       "XP": 75,
-      "UsersEstimate": 4334
+      "UsersEstimate": 4336
     },
     {
       "ID": "Chef_Cook",
@@ -10751,7 +10762,7 @@
       "Name": "Chef Cook",
       "Percentage": 17,
       "XP": 75,
-      "UsersEstimate": 1535
+      "UsersEstimate": 1536
     },
     {
       "ID": "Chit_Chatter",
@@ -10767,7 +10778,7 @@
       "Name": "Constructor",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 4695
+      "UsersEstimate": 4698
     },
     {
       "ID": "Duty_Bound",
@@ -10783,7 +10794,7 @@
       "Name": "Gardener",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 2799
+      "UsersEstimate": 2801
     },
     {
       "ID": "Generous",
@@ -10791,7 +10802,7 @@
       "Name": "Generous",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 2077
+      "UsersEstimate": 2078
     },
     {
       "ID": "Goofys_Investor",
@@ -10799,7 +10810,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 71,
       "XP": 75,
-      "UsersEstimate": 6411
+      "UsersEstimate": 6414
     },
     {
       "ID": "Miner",
@@ -10807,7 +10818,7 @@
       "Name": "Miner",
       "Percentage": 8,
       "XP": 75,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "Photographer",
@@ -10815,7 +10826,7 @@
       "Name": "Photographer",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 6230
+      "UsersEstimate": 6233
     },
     {
       "ID": "Renovator",
@@ -10823,7 +10834,7 @@
       "Name": "Renovator",
       "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 4695
+      "UsersEstimate": 4698
     },
     {
       "ID": "Thorn_Cleaner",
@@ -10839,23 +10850,23 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 5779
+      "UsersEstimate": 5782
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 9029,
+      "Progressed": 9034,
       "Completed": 204
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2023-08-26T04:01:20.2610114+00:00",
-  "LastChanged_Achievements": "2023-08-26T16:05:01.1319907+00:00",
+  "LastChanged": "2023-08-26T17:00:21.0330892+00:00",
+  "LastChanged_Achievements": "2023-08-26T17:05:15.3572442+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:53.8658984+00:00",
-  "LastUpdate_Ratings": "2023-08-26T16:00:09.7636633+00:00",
-  "LastUpdate_Achievements": "2023-08-26T16:05:01.1320328+00:00"
+  "LastUpdate_Ratings": "2023-08-26T17:00:21.0330899+00:00",
+  "LastUpdate_Achievements": "2023-08-26T17:05:15.3572996+00:00"
 }

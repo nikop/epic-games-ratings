@@ -28,10 +28,10 @@ Number of Ratings: 177  (23.09.2022)
 | The Crush | 0.60% | ~37 |
 | The Magic Number | 0.60% | ~37 |
 | Vickie | 0.60% | ~37 |
-| Casanova | 0.50% | ~30 |
-| Now It's a Party! | 0.50% | ~30 |
-| Stephanie | 0.50% | ~30 |
-| Te Amo Lety | 0.50% | ~30 |
+| Casanova | 0.50% | ~31 |
+| Now It's a Party! | 0.50% | ~31 |
+| Stephanie | 0.50% | ~31 |
+| Te Amo Lety | 0.50% | ~31 |
 | Benedict Brahrnold | 0.40% | ~24 |
 | I'll Be Back | 0.40% | ~24 |
 | Love Conquers All | 0.40% | ~24 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | Simple Geometry | 0.10% | ~6 |
 | D-Club Certified | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,100 (Ranked 139)  
+Progressed: 6,101 (Ranked 139)  
 Completed: 3 (0.05%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 3 (0.05%) (Ranked 231)
 | 2023-08-23 | 6,090 | 3 |
 | 2023-08-24 | 6,093 | 3 |
 | 2023-08-25 | 6,096 | 3 |
-| 2023-08-26 | 6,100 | 3 |
+| 2023-08-26 | 6,101 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

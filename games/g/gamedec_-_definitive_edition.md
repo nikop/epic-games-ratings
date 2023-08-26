@@ -1,24 +1,24 @@
 # Gamedec - Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/gamedec)  
 [View Rawdata](../../db/g/gamedec_-_definitive_edition.json)  
-Rating: 4.31 (Ranked 786)  
+Rating: 4.31 (Ranked 787)  
 Number of Ratings: 33  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~68,213 |
-| Powergamer | 27.00% | ~65,777 |
-| Barely scratched the surface | 25.00% | ~60,904 |
-| Write that down | 24.00% | ~58,468 |
-| Guns, lots of guns | 12.00% | ~29,234 |
-| Collector | 11.00% | ~26,798 |
+| I will finish what you started | 28.00% | ~68,216 |
+| Powergamer | 27.00% | ~65,779 |
+| Barely scratched the surface | 25.00% | ~60,907 |
+| Write that down | 24.00% | ~58,470 |
+| Guns, lots of guns | 12.00% | ~29,235 |
+| Collector | 11.00% | ~26,799 |
 | Elementary! | 9.00% | ~21,926 |
-| Pumpkin Jack | 8.00% | ~19,489 |
-| Wake up! | 8.00% | ~19,489 |
-| It's honest work | 7.00% | ~17,053 |
-| Griever | 7.00% | ~17,053 |
-| Me smart | 6.00% | ~14,617 |
-| Trash compactor | 6.00% | ~14,617 |
+| Pumpkin Jack | 8.00% | ~19,490 |
+| Wake up! | 8.00% | ~19,490 |
+| It's honest work | 7.00% | ~17,054 |
+| Griever | 7.00% | ~17,054 |
+| Me smart | 6.00% | ~14,618 |
+| Trash compactor | 6.00% | ~14,618 |
 | Good listener | 5.00% | ~12,181 |
 | Valedictorian | 5.00% | ~12,181 |
 | BOY! | 4.00% | ~9,745 |
@@ -26,14 +26,14 @@ Number of Ratings: 33  (23.09.2022)
 | So you like to read? | 4.00% | ~9,745 |
 | I like to sniff around | 3.00% | ~7,309 |
 | Mind reader | 3.00% | ~7,309 |
-| Gentleman's classic | 2.00% | ~4,872 |
-| Hoarder | 2.00% | ~4,872 |
-| Is that a rift? | 2.00% | ~4,872 |
-| It's alive! | 2.00% | ~4,872 |
-| Enjoy the beach | 2.00% | ~4,872 |
-| Rinse and repeat | 2.00% | ~4,872 |
-| Mama, I'm a criminal | 2.00% | ~4,872 |
-| Never gonna give you up | 2.00% | ~4,872 |
+| Gentleman's classic | 2.00% | ~4,873 |
+| Hoarder | 2.00% | ~4,873 |
+| Is that a rift? | 2.00% | ~4,873 |
+| It's alive! | 2.00% | ~4,873 |
+| Enjoy the beach | 2.00% | ~4,873 |
+| Rinse and repeat | 2.00% | ~4,873 |
+| Mama, I'm a criminal | 2.00% | ~4,873 |
+| Never gonna give you up | 2.00% | ~4,873 |
 | A muscle to rely on | 1.00% | ~2,436 |
 | Catnip | 1.00% | ~2,436 |
 | I am in great pain, please help me | 1.00% | ~2,436 |
@@ -49,8 +49,8 @@ Number of Ratings: 33  (23.09.2022)
 | It's blue, always blue | 0.70% | ~1,705 |
 | Enjoy these little moments | 0.50% | ~1,218 |
 | Who wouldn't love a troll? | 0.50% | ~1,218 |
-| Irondec | 0.40% | ~974 |
-| Un-bear-able | 0.40% | ~974 |
+| Irondec | 0.40% | ~975 |
+| Un-bear-able | 0.40% | ~975 |
 | LET ME OUT! | 0.30% | ~731 |
 | Well-deserved reunion | 0.30% | ~731 |
 | Breaking the chains | 0.20% | ~487 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~487 |
 | Memory 5 | 0.10% | ~244 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,617 (Ranked 48)  
+Progressed: 243,627 (Ranked 48)  
 Completed: 7 (0.00%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 7 (0.00%) (Ranked 264)
 | 2023-08-23 | 243,240 | 7 |
 | 2023-08-24 | 243,379 | 7 |
 | 2023-08-25 | 243,525 | 7 |
-| 2023-08-26 | 243,617 | 7 |
+| 2023-08-26 | 243,627 | 7 |
 ## Awards
 Max (Character Customization): 79  (Ranked 363)  
 Sum: 79 (Ranked 428)  

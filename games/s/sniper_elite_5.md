@@ -5,26 +5,26 @@ Rating: 4.45 (Ranked 634)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 46.00% | ~1,623 |
+| Meeting Resistance | 46.00% | ~1,624 |
 | Confirming Suspicions | 40.00% | ~1,412 |
-| The Kraken Wakes | 36.00% | ~1,270 |
-| It's Starting to Crack | 32.00% | ~1,129 |
-| Lord of War | 29.00% | ~1,023 |
-| Change the Channel | 29.00% | ~1,023 |
+| The Kraken Wakes | 36.00% | ~1,271 |
+| It's Starting to Crack | 32.00% | ~1,130 |
+| Change the Channel | 30.00% | ~1,059 |
+| Lord of War | 29.00% | ~1,024 |
 | Taking it back | 27.00% | ~953 |
 | Resourceful | 26.00% | ~918 |
 | Target America | 25.00% | ~882 |
 | The Kraken Sleeps | 23.00% | ~812 |
-| Organ Grinder | 22.00% | ~776 |
-| As Quiet as a Mouse | 22.00% | ~776 |
+| Organ Grinder | 22.00% | ~777 |
+| As Quiet as a Mouse | 22.00% | ~777 |
 | Liberté | 21.00% | ~741 |
 | Sharpshooter | 21.00% | ~741 |
 | Explosive Efficiency | 18.00% | ~635 |
 | Gunslinger | 17.00% | ~600 |
 | Just a Flesh Wound | 16.00% | ~565 |
-| Climbing the Ladder | 15.00% | ~529 |
-| Der Geist | 15.00% | ~529 |
-| Close Quarters | 15.00% | ~529 |
+| Climbing the Ladder | 15.00% | ~530 |
+| Der Geist | 15.00% | ~530 |
+| Close Quarters | 15.00% | ~530 |
 | Skirmisher | 14.00% | ~494 |
 | Die Nussknacker Sweet! | 14.00% | ~494 |
 | Snake in the Grass | 14.00% | ~494 |
@@ -33,7 +33,7 @@ Rating: 4.45 (Ranked 634)
 | Opposing Force | 13.00% | ~459 |
 | Enemy at the Gates | 13.00% | ~459 |
 | Fields of Glory | 13.00% | ~459 |
-| Set Europe Ablaze | 12.00% | ~423 |
+| Set Europe Ablaze | 12.00% | ~424 |
 | Precision Is Key | 9.00% | ~318 |
 | My Little Friend | 9.00% | ~318 |
 | Rigged to Blow | 8.00% | ~282 |
@@ -70,15 +70,15 @@ Rating: 4.45 (Ranked 634)
 | Alpha | 1.00% | ~35 |
 | Das Familienjuwel | 1.00% | ~35 |
 | Master of Secondaries | 0.90% | ~32 |
-| Master of Rifles | 0.90% | ~32 |
+| Master of Rifles | 0.80% | ~28 |
 | Master of Pistols | 0.70% | ~25 |
 | Master-at-arms | 0.70% | ~25 |
 | Operation Overlord | 0.70% | ~24 |
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,529 (Ranked 153)  
-Completed: 9 (0.26%) (Ranked 180)  
+Progressed: 3,530 (Ranked 153)  
+Completed: 9 (0.25%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -204,7 +204,7 @@ Completed: 9 (0.26%) (Ranked 180)
 | 2023-08-23 | 3,521 | 9 |
 | 2023-08-24 | 3,525 | 9 |
 | 2023-08-25 | 3,527 | 9 |
-| 2023-08-26 | 3,529 | 9 |
+| 2023-08-26 | 3,530 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

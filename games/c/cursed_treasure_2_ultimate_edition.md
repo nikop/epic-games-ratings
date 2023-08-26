@@ -4,62 +4,62 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Touch My Gems! | 98.00% | ~162 |
-| On the Crest of a Wave | 96.00% | ~158 |
-| Foreman of Darkness | 95.00% | ~157 |
-| Brilliant Day | 93.00% | ~153 |
-| Evil Genius | 88.00% | ~145 |
-| Air Defense | 85.00% | ~140 |
+| Don't Touch My Gems! | 98.00% | ~163 |
+| On the Crest of a Wave | 96.00% | ~159 |
+| Foreman of Darkness | 95.00% | ~158 |
+| Brilliant Day | 93.00% | ~154 |
+| Evil Genius | 88.00% | ~146 |
+| Air Defense | 86.00% | ~143 |
 | Tinned Corpse | 84.00% | ~139 |
-| Your War is Over | 83.00% | ~137 |
-| The Starry Night | 78.00% | ~129 |
-| Go Home! | 76.00% | ~125 |
-| Brilliant: Meadowshire | 75.00% | ~124 |
-| Look After the Pence... | 74.00% | ~122 |
-| Sergeant of the Evil | 74.00% | ~122 |
-| Drunken Master | 73.00% | ~120 |
-| V.I.P. Cemetery | 72.00% | ~119 |
-| Top of the World | 70.00% | ~115 |
-| Takeover | 70.00% | ~115 |
-| Woodcutter | 70.00% | ~115 |
-| Sharpshooter | 70.00% | ~115 |
-| Architect of Darkness | 70.00% | ~115 |
-| The Apotheosis of War | 68.00% | ~112 |
+| Your War is Over | 83.00% | ~138 |
+| The Starry Night | 77.00% | ~128 |
+| Go Home! | 75.00% | ~124 |
+| Brilliant: Meadowshire | 74.00% | ~123 |
+| Look After the Pence... | 73.00% | ~121 |
+| Drunken Master | 73.00% | ~121 |
+| Sergeant of the Evil | 73.00% | ~121 |
+| V.I.P. Cemetery | 71.00% | ~118 |
+| Takeover | 70.00% | ~116 |
+| Woodcutter | 70.00% | ~116 |
+| Architect of Darkness | 70.00% | ~116 |
+| Top of the World | 69.00% | ~115 |
+| Sharpshooter | 69.00% | ~115 |
+| The Apotheosis of War | 67.00% | ~111 |
 | Stasis Alcatraz | 67.00% | ~111 |
-| Tastes Like Chicken | 64.00% | ~106 |
-| Combo Breaker | 63.00% | ~104 |
-| Thunderstorm | 63.00% | ~104 |
+| Combo Breaker | 63.00% | ~105 |
+| Tastes Like Chicken | 63.00% | ~105 |
+| Thunderstorm | 63.00% | ~105 |
 | Clean Forests | 61.00% | ~101 |
 | Brilliant: Holy Mountain | 61.00% | ~101 |
-| Lieutenant of the Evil | 57.00% | ~94 |
-| Avada Kedavra | 55.00% | ~91 |
+| Lieutenant of the Evil | 57.00% | ~95 |
 | Starry: Meadowshire | 55.00% | ~91 |
-| It's a Trap | 53.00% | ~87 |
+| Avada Kedavra | 54.00% | ~90 |
 | Brilliant: Tanglewood | 52.00% | ~86 |
 | Starry: Holy Mountain | 52.00% | ~86 |
-| Deposition | 48.00% | ~79 |
-| Brilliant: Arcania | 48.00% | ~79 |
-| Starry: Tanglewood | 45.00% | ~74 |
-| Sing, My Angel | 42.00% | ~69 |
-| Starry: Arcania | 42.00% | ~69 |
-| The Coreland | 39.00% | ~64 |
-| Feed the Fishes | 38.00% | ~63 |
-| Starry: The Coreland | 36.00% | ~59 |
-| Brilliant: Wasteland | 33.00% | ~54 |
+| It's a Trap | 52.00% | ~86 |
+| Deposition | 48.00% | ~80 |
+| Brilliant: Arcania | 48.00% | ~80 |
+| Starry: Tanglewood | 45.00% | ~75 |
+| Sing, My Angel | 42.00% | ~70 |
+| Starry: Arcania | 42.00% | ~70 |
+| The Coreland | 39.00% | ~65 |
+| Feed the Fishes | 37.00% | ~61 |
+| Starry: The Coreland | 36.00% | ~60 |
+| Brilliant: Wasteland | 33.00% | ~55 |
 | Father of Nation | 32.00% | ~53 |
 | Dwarven Countdown | 30.00% | ~50 |
 | Starry: Wasteland | 28.00% | ~46 |
 | Deadman's Chest | 27.00% | ~45 |
 | Monument Keeper | 27.00% | ~45 |
-| Brilliant: Free Coast | 25.00% | ~41 |
-| Brilliant: The Deep | 24.00% | ~40 |
+| Brilliant: Free Coast | 25.00% | ~42 |
+| Brilliant: The Deep | 23.00% | ~38 |
 | Starry: Free Coast | 23.00% | ~38 |
 | Starry: The Deep | 21.00% | ~35 |
-| Hostile Waters | 18.00% | ~30 |
-| Loveless | 18.00% | ~30 |
+| Hostile Waters | 17.00% | ~28 |
+| Loveless | 17.00% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 165 (Ranked 307)  
-Completed: 24 (14.55%) (Ranked 18)  
+Progressed: 166 (Ranked 307)  
+Completed: 24 (14.46%) (Ranked 18)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -89,6 +89,7 @@ Completed: 24 (14.55%) (Ranked 18)
 | 2023-08-03 | 164 | 23 |
 | 2023-08-08 | 165 | 23 |
 | 2023-08-17 | 165 | 24 |
+| 2023-08-26 | 166 | 24 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

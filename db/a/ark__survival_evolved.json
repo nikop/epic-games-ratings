@@ -2,13 +2,13 @@
   "ID": "ark",
   "Name": "ARK: Survival Evolved",
   "ProductSlug": "ark",
-  "Ranking_Rating": 427,
+  "Ranking_Rating": 428,
   "Ranking_Popularity": 11,
   "Ranking_PopularitySum": 12,
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2020-06-11T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -10392,6 +10392,6 @@
   "FirstSeen": "2022-07-22T20:19:31.1262321+00:00",
   "LastChanged": "2023-08-26T16:00:29.0511902+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:21.9277387+00:00",
-  "LastUpdate_Ratings": "2023-08-26T16:00:29.0511908+00:00",
-  "LastUpdate_Achievements": "2023-08-26T16:03:42.5825332+00:00"
+  "LastUpdate_Ratings": "2023-08-26T17:00:40.2549879+00:00",
+  "LastUpdate_Achievements": "2023-08-26T17:03:54.7552035+00:00"
 }

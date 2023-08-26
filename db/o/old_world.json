@@ -2,13 +2,13 @@
   "ID": "07f4a7dd3c884e5d87e9a209716962ca",
   "Name": "Old World",
   "ProductSlug": "old-world",
-  "Ranking_Rating": 299,
+  "Ranking_Rating": 300,
   "Ranking_Popularity": 264,
   "Ranking_PopularitySum": 208,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1647,9 +1647,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13581,
+  "EOS_Progressed": 13585,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10302,6 +10302,11 @@
       "Time": "2023-08-26T16:06:18.7132354+00:00",
       "NumProgressed": 13581,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-26T17:06:32.7609858+00:00",
+      "NumProgressed": 13585,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -10705,7 +10710,7 @@
       "Name": "Capable",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_CONQUEROR",
@@ -10729,7 +10734,7 @@
       "Name": "Devout",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_ENLIGHTENED",
@@ -10745,7 +10750,7 @@
       "Name": "Explorer",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
@@ -10801,7 +10806,7 @@
       "Name": "Intrepid",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INVINCIBLE",
@@ -10913,7 +10918,7 @@
       "Name": "Ready",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_REBUILDER",
@@ -11177,7 +11182,7 @@
       "Name": "Landowners",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_PATRONS",
@@ -11193,7 +11198,7 @@
       "Name": "Riders",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_SAGES",
@@ -11225,7 +11230,7 @@
       "Name": "Friendly Family",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
@@ -11689,7 +11694,7 @@
       "Name": "Church of the Holy Sepulchre",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_JUDAISM",
@@ -11713,7 +11718,7 @@
       "Name": "Adur Burzen-Mihr",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_ISHTAR_GATE",
@@ -11929,7 +11934,7 @@
       "Name": "Carthage",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACHIEVEMENT_NATION_EGYPT",
@@ -12113,7 +12118,7 @@
       "Name": "Assyrian Paganism",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_BABYLONIA",
@@ -12257,7 +12262,7 @@
       "Name": "Industrial Progress",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACHIEVEMENT_TECH_MILITARY_PRESTIGE",
@@ -12265,7 +12270,7 @@
       "Name": "Military Prestige",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_DUALISM",
@@ -12273,7 +12278,7 @@
       "Name": "Dualism",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_ENLIGHTENMENT",
@@ -12281,7 +12286,7 @@
       "Name": "Enlightenment",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_GNOSTICISM",
@@ -12289,7 +12294,7 @@
       "Name": "Gnosticism",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_LEGALISM",
@@ -12321,7 +12326,7 @@
       "Name": "Revelation",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_VENERATION",
@@ -12329,7 +12334,7 @@
       "Name": "Veneration",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACHIEVEMENT_THE_WORD_OF_GOD",
@@ -12361,7 +12366,7 @@
       "Name": "Cimmerian Archer",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACHIEVEMENT_UNIT_HITTITE_CHARIOT",
@@ -12680,21 +12685,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13581,
+      "Progressed": 13585,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13581,
+      "Progressed": 13585,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-24T04:00:31.5764786+00:00",
-  "LastChanged_Achievements": "2023-08-26T16:06:18.713235+00:00",
+  "LastChanged_Achievements": "2023-08-26T17:06:32.7609854+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:39.7773306+00:00",
-  "LastUpdate_Ratings": "2023-08-26T15:59:58.8217692+00:00",
-  "LastUpdate_Achievements": "2023-08-26T16:06:18.7139985+00:00"
+  "LastUpdate_Ratings": "2023-08-26T17:00:10.9647339+00:00",
+  "LastUpdate_Achievements": "2023-08-26T17:06:32.7618243+00:00"
 }

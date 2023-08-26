@@ -1,14 +1,14 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.56 (Ranked 472)  
+Rating: 4.56 (Ranked 473)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 26.00% | ~807 |
-| Sputnik 2049 | 23.00% | ~713 |
-| Infinite Growth... | 22.00% | ~682 |
-| Without Breaking Some Eggs... | 21.00% | ~651 |
+| Sputnik 2049 | 23.00% | ~714 |
+| Infinite Growth... | 22.00% | ~683 |
+| Without Breaking Some Eggs... | 21.00% | ~652 |
 | Space Society | 15.00% | ~465 |
 | A Thousand Strong | 15.00% | ~465 |
 | Ready for a New World | 15.00% | ~465 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 472)
 | I Give You the Stars | 0.10% | ~1 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,102 (Ranked 161)  
+Progressed: 3,103 (Ranked 161)  
 Completed: 0 (0.00%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 0 (0.00%) (Ranked 264)
 | 2023-08-23 | 3,096 | 0 |
 | 2023-08-24 | 3,097 | 0 |
 | 2023-08-25 | 3,100 | 0 |
-| 2023-08-26 | 3,102 | 0 |
+| 2023-08-26 | 3,103 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

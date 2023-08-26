@@ -2,7 +2,7 @@
   "ID": "af0ea01162704696bebf8633a52a7a6d",
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
-  "Ranking_Rating": 950,
+  "Ranking_Rating": 951,
   "Ranking_Popularity": 215,
   "Ranking_PopularitySum": 202,
   "Ranking_EOS_Progress": 79,
@@ -3100,10 +3100,16 @@
       "Rating": 3.94,
       "NumberOfAwards": 1934,
       "NumberOfAwardsMax": 407
+    },
+    {
+      "Time": "2023-08-26T16:58:15.4424787+00:00",
+      "Rating": 3.94,
+      "NumberOfAwards": 1936,
+      "NumberOfAwardsMax": 407
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 1934,
+  "NumberOfAwards": 1936,
   "NumberOfAwardsMax": 407,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3123,7 +3129,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 367
+      "Count": 369
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3156,7 +3162,7 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 72339,
+  "EOS_Progressed": 72341,
   "EOS_Completed": 42,
   "EOS_NewPlayers": 292,
   "EOS_NewCompleters": 1,
@@ -16496,6 +16502,11 @@
       "Time": "2023-08-26T16:06:53.0218389+00:00",
       "NumProgressed": 72339,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-08-26T17:07:06.4507564+00:00",
+      "NumProgressed": 72341,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 37,
@@ -16515,7 +16526,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 20978
+      "UsersEstimate": 20979
     },
     {
       "ID": "ACH_0012",
@@ -16523,7 +16534,7 @@
       "Name": "Roid Ranger",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 15191
+      "UsersEstimate": 15192
     },
     {
       "ID": "ACH_0013",
@@ -16651,7 +16662,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 47020
+      "UsersEstimate": 47022
     },
     {
       "ID": "ACH_0210",
@@ -16659,7 +16670,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 53531
+      "UsersEstimate": 53532
     },
     {
       "ID": "ACH_0211",
@@ -16675,7 +16686,7 @@
       "Name": "Too Old for This",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 34723
+      "UsersEstimate": 34724
     },
     {
       "ID": "ACH_0300",
@@ -16731,7 +16742,7 @@
       "Name": "King of the Hill",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 24595
+      "UsersEstimate": 24596
     },
     {
       "ID": "ACH_0430",
@@ -16755,7 +16766,7 @@
       "Name": "True Player",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 13744
+      "UsersEstimate": 13745
     },
     {
       "ID": "ACH_0450",
@@ -16795,29 +16806,29 @@
       "Name": "Rockay Rex",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 7957
+      "UsersEstimate": 7958
     }
   ],
   "AchievementSets": [
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 72339,
+      "Progressed": 72341,
       "Completed": 42
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 686,
-      "Completed": 686
+      "Progressed": 688,
+      "Completed": 688
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-08-26T13:58:58.595615+00:00",
-  "LastChanged_Achievements": "2023-08-26T16:06:53.0218385+00:00",
+  "LastChanged": "2023-08-26T16:58:15.4424785+00:00",
+  "LastChanged_Achievements": "2023-08-26T17:07:06.450756+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:33.2477495+00:00",
-  "LastUpdate_Ratings": "2023-08-26T15:58:04.3445957+00:00",
-  "LastUpdate_Achievements": "2023-08-26T16:06:53.0219225+00:00"
+  "LastUpdate_Ratings": "2023-08-26T16:58:15.4424793+00:00",
+  "LastUpdate_Achievements": "2023-08-26T17:07:06.4508622+00:00"
 }

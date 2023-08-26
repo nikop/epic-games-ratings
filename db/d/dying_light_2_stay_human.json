@@ -2,13 +2,13 @@
   "ID": "87b7846d2eba4bc49eead0854323aba8",
   "Name": "Dying Light 2 Stay Human",
   "ProductSlug": "dying-light-2-stay-human",
-  "Ranking_Rating": 450,
+  "Ranking_Rating": 451,
   "Ranking_Popularity": 39,
   "Ranking_PopularitySum": 54,
   "Ranking_EOS_Progress": 27,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 31,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-02-04T00:00:00+00:00",
     "PcReleaseDate": "2022-02-04T00:00:00+00:00",
@@ -8597,10 +8597,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 21370,
       "NumberOfAwardsMax": 8902
+    },
+    {
+      "Time": "2023-08-26T16:58:16.0813081+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 21372,
+      "NumberOfAwardsMax": 8902
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21370,
+  "NumberOfAwards": 21372,
   "NumberOfAwardsMax": 8902,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8632,7 +8638,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 911
+      "Count": 913
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -23464,9 +23470,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
-  "LastChanged": "2023-08-26T15:58:05.183707+00:00",
+  "LastChanged": "2023-08-26T16:58:16.081308+00:00",
   "LastChanged_Achievements": "2023-08-26T16:02:10.3792533+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:34.029263+00:00",
-  "LastUpdate_Ratings": "2023-08-26T15:58:05.1837076+00:00",
+  "LastUpdate_Ratings": "2023-08-26T16:58:16.0813087+00:00",
   "LastUpdate_Achievements": "2023-08-26T16:02:10.379377+00:00"
 }

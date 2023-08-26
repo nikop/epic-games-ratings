@@ -2,7 +2,7 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 925,
+  "Ranking_Rating": 926,
   "Ranking_Popularity": 68,
   "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 53,
@@ -6112,9 +6112,9 @@
       "Count": 3373
     }
   ],
-  "EOS_Progressed": 225130,
+  "EOS_Progressed": 225144,
   "EOS_Completed": 2218,
-  "EOS_NewPlayers": 1783,
+  "EOS_NewPlayers": 1777,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -20142,6 +20142,11 @@
       "Time": "2023-08-26T16:06:35.0455277+00:00",
       "NumProgressed": 225130,
       "NumCompleted": 2218
+    },
+    {
+      "Time": "2023-08-26T17:06:49.8617087+00:00",
+      "NumProgressed": 225144,
+      "NumCompleted": 2218
     }
   ],
   "TotalAchievements": 516,
@@ -24249,7 +24254,7 @@
       "Name": "The Hunt for The Last Breath",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1148
+      "UsersEstimate": 1149
     },
     {
       "ID": "objective_completed_1396",
@@ -24280,21 +24285,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 191404,
+      "Progressed": 191418,
       "Completed": 3308
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 225130,
+      "Progressed": 225144,
       "Completed": 2218
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-26T13:02:55.9721236+00:00",
-  "LastChanged_Achievements": "2023-08-26T16:06:35.0455272+00:00",
+  "LastChanged_Achievements": "2023-08-26T17:06:49.8617082+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:53.3345914+00:00",
-  "LastUpdate_Ratings": "2023-08-26T16:00:09.8909721+00:00",
-  "LastUpdate_Achievements": "2023-08-26T16:06:35.04801+00:00"
+  "LastUpdate_Ratings": "2023-08-26T17:00:21.1537935+00:00",
+  "LastUpdate_Achievements": "2023-08-26T17:06:49.8647687+00:00"
 }

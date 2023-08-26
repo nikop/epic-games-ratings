@@ -1,7 +1,7 @@
 # Redfall
 [Store](https://store.epicgames.com/en-US/p/redfall)  
 [View Rawdata](../../db/r/redfall.json)  
-Rating: 3.50 (Ranked 977)  
+Rating: 3.50 (Ranked 978)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -13,6 +13,7 @@ Rating: 3.50 (Ranked 977)
 | Sic Transit Umbra | 0.20% | ~3 |
 | Radio Silence | 0.20% | ~3 |
 | Good Morning | 0.20% | ~3 |
+| Sucks To Be You | 0.20% | ~3 |
 | Heart Attack | 0.20% | ~3 |
 | Harvest’s End | 0.20% | ~3 |
 | Revelations | 0.10% | ~2 |
@@ -26,7 +27,7 @@ Rating: 3.50 (Ranked 977)
 | Peek-a-boo | 0.10% | ~2 |
 | You Clean It Up | 0.10% | ~2 |
 | ICU | 0.10% | ~2 |
-| Sucks To Be You | 0.10% | ~2 |
+| Wounded Whispers | 0.10% | ~2 |
 | Catch and Release | 0.10% | ~2 |
 | From the Shadows | 0.10% | ~2 |
 | Sisterhood | 0.10% | ~2 |
@@ -54,7 +55,6 @@ Rating: 3.50 (Ranked 977)
 | Spit Take | 0.00% | ~0 |
 | Throw The First Stone | 0.00% | ~0 |
 | Faith Healer | 0.00% | ~0 |
-| Wounded Whispers | 0.00% | ~0 |
 | A Cry in the Dark | 0.00% | ~0 |
 | What Lies Below | 0.00% | ~0 |
 | Empty Nest Syndrome | 0.00% | ~0 |

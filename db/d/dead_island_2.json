@@ -2,7 +2,7 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 501,
+  "Ranking_Rating": 502,
   "Ranking_Popularity": 61,
   "Ranking_PopularitySum": 97,
   "Ranking_EOS_Progress": 22,
@@ -3984,9 +3984,9 @@
       "Count": 325
     }
   ],
-  "EOS_Progressed": 665889,
+  "EOS_Progressed": 665948,
   "EOS_Completed": 2075,
-  "EOS_NewPlayers": 5808,
+  "EOS_NewPlayers": 5820,
   "EOS_NewCompleters": 33,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -18199,6 +18199,11 @@
       "Time": "2023-08-26T16:03:27.4989522+00:00",
       "NumProgressed": 665889,
       "NumCompleted": 2075
+    },
+    {
+      "Time": "2023-08-26T17:03:40.1173102+00:00",
+      "NumProgressed": 665948,
+      "NumCompleted": 2075
     }
   ],
   "TotalAchievements": 45,
@@ -18360,9 +18365,9 @@
       "ID": "ach_her_name_was_lola",
       "SetID": "7km39fm",
       "Name": "Friends Like These",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 666
+      "UsersEstimate": 1332
     },
     {
       "ID": "ach_hotel_california",
@@ -18408,9 +18413,9 @@
       "ID": "ach_knock_down",
       "SetID": "7km39fm",
       "Name": "Apex Predator",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 666
+      "UsersEstimate": 1332
     },
     {
       "ID": "ach_knowledgeable",
@@ -18528,9 +18533,9 @@
       "ID": "ach_this_is_my_weapon",
       "SetID": "7km39fm",
       "Name": "This is My Weapon",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 666
+      "UsersEstimate": 1332
     },
     {
       "ID": "ach_weapon_wrangler",
@@ -18569,7 +18574,7 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 665889,
+      "Progressed": 665948,
       "Completed": 2075
     }
   ],
@@ -18577,8 +18582,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-08-26T07:01:58.2614915+00:00",
-  "LastChanged_Achievements": "2023-08-26T16:03:27.4989519+00:00",
+  "LastChanged_Achievements": "2023-08-26T17:03:40.1173095+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:11.0440218+00:00",
-  "LastUpdate_Ratings": "2023-08-26T16:00:21.2968685+00:00",
-  "LastUpdate_Achievements": "2023-08-26T16:03:27.4990453+00:00"
+  "LastUpdate_Ratings": "2023-08-26T17:00:33.2180873+00:00",
+  "LastUpdate_Achievements": "2023-08-26T17:03:40.117426+00:00"
 }

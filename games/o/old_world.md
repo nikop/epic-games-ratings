@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 299)  
+Rating: 4.65 (Ranked 300)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,9 +9,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Settler | 4.00% | ~543 |
 | Play a Single Player Game | 4.00% | ~543 |
 | The Clergy | 4.00% | ~543 |
-| Explorer | 3.00% | ~407 |
-| Intrepid | 3.00% | ~407 |
-| Friendly Family | 3.00% | ~407 |
+| Explorer | 3.00% | ~408 |
+| Intrepid | 3.00% | ~408 |
+| Friendly Family | 3.00% | ~408 |
 | Able | 2.00% | ~272 |
 | Ambitious | 2.00% | ~272 |
 | Architect | 2.00% | ~272 |
@@ -104,23 +104,23 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambition Victory | 0.70% | ~95 |
 | Double Victory | 0.70% | ~95 |
 | Win a Single Player Game | 0.70% | ~95 |
-| Capable | 0.60% | ~81 |
-| Devout | 0.60% | ~81 |
-| Ready | 0.60% | ~81 |
-| Landowners | 0.60% | ~81 |
-| Riders | 0.60% | ~81 |
-| Church of the Holy Sepulchre | 0.60% | ~81 |
-| Adur Burzen-Mihr | 0.60% | ~81 |
-| Carthage | 0.60% | ~81 |
-| Assyrian Paganism | 0.60% | ~81 |
-| Industrial Progress | 0.60% | ~81 |
-| Military Prestige | 0.60% | ~81 |
-| Dualism | 0.60% | ~81 |
-| Enlightenment | 0.60% | ~81 |
-| Gnosticism | 0.60% | ~81 |
-| Revelation | 0.60% | ~81 |
-| Veneration | 0.60% | ~81 |
-| Cimmerian Archer | 0.60% | ~81 |
+| Capable | 0.60% | ~82 |
+| Devout | 0.60% | ~82 |
+| Ready | 0.60% | ~82 |
+| Landowners | 0.60% | ~82 |
+| Riders | 0.60% | ~82 |
+| Church of the Holy Sepulchre | 0.60% | ~82 |
+| Adur Burzen-Mihr | 0.60% | ~82 |
+| Carthage | 0.60% | ~82 |
+| Assyrian Paganism | 0.60% | ~82 |
+| Industrial Progress | 0.60% | ~82 |
+| Military Prestige | 0.60% | ~82 |
+| Dualism | 0.60% | ~82 |
+| Enlightenment | 0.60% | ~82 |
+| Gnosticism | 0.60% | ~82 |
+| Revelation | 0.60% | ~82 |
+| Veneration | 0.60% | ~82 |
+| Cimmerian Archer | 0.60% | ~82 |
 | Bad Heir Day | 0.50% | ~68 |
 | Ishtar Gate in Babylon | 0.50% | ~68 |
 | Strong Difficulty | 0.50% | ~68 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,581 (Ranked 119)  
+Progressed: 13,585 (Ranked 119)  
 Completed: 5 (0.04%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -431,7 +431,7 @@ Completed: 5 (0.04%) (Ranked 234)
 | 2023-08-23 | 13,540 | 5 |
 | 2023-08-24 | 13,546 | 5 |
 | 2023-08-25 | 13,563 | 5 |
-| 2023-08-26 | 13,581 | 5 |
+| 2023-08-26 | 13,585 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,799 (Ranked 208)  

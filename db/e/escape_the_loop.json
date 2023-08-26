@@ -4,8 +4,8 @@
   "ProductSlug": "escape-the-loop",
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2099-01-02T03:00:00+00:00",
     "PcReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-26T08:58:43.8275583+00:00",
-  "LastUpdate_Ratings": "2023-08-26T16:00:01.6597505+00:00",
-  "LastUpdate_Achievements": "2023-08-26T16:06:55.2960451+00:00"
+  "LastUpdate_Ratings": "2023-08-26T17:00:13.7379669+00:00",
+  "LastUpdate_Achievements": "2023-08-26T17:07:08.3084345+00:00"
 }

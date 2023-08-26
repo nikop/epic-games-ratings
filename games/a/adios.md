@@ -1,37 +1,37 @@
 # Adios
 [Store](https://store.epicgames.com/en-US/p/adios-b378b4)  
 [View Rawdata](../../db/a/adios.json)  
-Rating: 3.53 (Ranked 976)  
+Rating: 3.53 (Ranked 977)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 22.00% | ~15,682 |
-| Hard Worker | 20.00% | ~14,257 |
-| Master, Commander | 20.00% | ~14,257 |
-| Mechanic | 19.00% | ~13,544 |
-| Adios, Friendo | 18.00% | ~12,831 |
-| Bottom's Up | 18.00% | ~12,831 |
-| Nice Try | 16.00% | ~11,405 |
-| Right On Target | 13.00% | ~9,267 |
-| Piano Man | 10.00% | ~7,128 |
-| Lazy Bones | 9.00% | ~6,415 |
+| Be Seeing You | 22.00% | ~15,684 |
+| Hard Worker | 20.00% | ~14,259 |
+| Master, Commander | 20.00% | ~14,259 |
+| Mechanic | 19.00% | ~13,546 |
+| Adios, Friendo | 18.00% | ~12,833 |
+| Bottom's Up | 18.00% | ~12,833 |
+| Nice Try | 16.00% | ~11,407 |
+| Right On Target | 13.00% | ~9,268 |
+| Piano Man | 10.00% | ~7,129 |
+| Lazy Bones | 9.00% | ~6,416 |
 | Vinyl Vibes | 8.00% | ~5,703 |
-| Nothing Left to Say | 7.00% | ~4,990 |
-| Sniper | 7.00% | ~4,990 |
-| Cut Call | 6.00% | ~4,277 |
-| Butcher | 4.00% | ~2,851 |
-| Magnetic Miracles | 4.00% | ~2,851 |
-| Spicy | 4.00% | ~2,851 |
-| A Man Of Taste | 3.00% | ~2,138 |
-| Ace in the Hole | 3.00% | ~2,138 |
-| Fair's Fair | 3.00% | ~2,138 |
-| Hearty | 3.00% | ~2,138 |
-| Meaty | 3.00% | ~2,138 |
-| Taco Toto | 3.00% | ~2,138 |
+| Nothing Left to Say | 7.00% | ~4,991 |
+| Sniper | 7.00% | ~4,991 |
+| Cut Call | 6.00% | ~4,278 |
+| Butcher | 4.00% | ~2,852 |
+| Magnetic Miracles | 4.00% | ~2,852 |
+| Spicy | 4.00% | ~2,852 |
+| A Man Of Taste | 3.00% | ~2,139 |
+| Ace in the Hole | 3.00% | ~2,139 |
+| Fair's Fair | 3.00% | ~2,139 |
+| Hearty | 3.00% | ~2,139 |
+| Meaty | 3.00% | ~2,139 |
+| Taco Toto | 3.00% | ~2,139 |
 | Audiophile | 2.00% | ~1,426 |
 | Tape Head | 2.00% | ~1,426 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71,283 (Ranked 80)  
+Progressed: 71,293 (Ranked 80)  
 Completed: 724 (1.02%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 724 (1.02%) (Ranked 118)
 | 2023-08-23 | 70,979 | 717 |
 | 2023-08-24 | 71,100 | 720 |
 | 2023-08-25 | 71,208 | 721 |
-| 2023-08-26 | 71,283 | 724 |
+| 2023-08-26 | 71,293 | 724 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
