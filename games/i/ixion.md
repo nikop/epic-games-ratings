@@ -26,10 +26,10 @@ Rating: 4.56 (Ranked 473)
 | Please Make it Stop! | 7.00% | ~217 |
 | Sightseeing | 6.00% | ~186 |
 | Convenient Transport | 6.00% | ~186 |
+| From the Past | 6.00% | ~186 |
 | Access Granted | 5.00% | ~155 |
 | Necessary Enhancement | 5.00% | ~155 |
 | All in Good Health | 5.00% | ~155 |
-| From the Past | 5.00% | ~155 |
 | Oats | 4.00% | ~124 |
 | What They Hide From Us | 4.00% | ~124 |
 | ...  in a finite world | 4.00% | ~124 |
@@ -64,7 +64,7 @@ Rating: 4.56 (Ranked 473)
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,103 (Ranked 161)  
-Completed: 0 (0.00%) (Ranked 264)  
+Completed: 0 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

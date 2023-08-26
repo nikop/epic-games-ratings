@@ -8,8 +8,8 @@
 | Congratulations, you are a sadist | 50.00% | ~91 |
 | Um, ok... | 50.00% | ~91 |
 | Superstar-crossed lovers | 40.00% | ~73 |
+| A leader, you are not | 35.00% | ~64 |
 | This won't end well... | 35.00% | ~64 |
-| A leader, you are not | 34.00% | ~62 |
 | Comedy Killer | 33.00% | ~60 |
 | Bromance | 32.00% | ~58 |
 | Good job, nerd | 31.00% | ~56 |
@@ -23,7 +23,7 @@
 | Deathlooper | 3.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 182 (Ranked 303)  
-Completed: 4 (2.20%) (Ranked 90)  
+Completed: 4 (2.20%) (Ranked 91)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

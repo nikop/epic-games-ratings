@@ -10,7 +10,8 @@
 | Wannabe | 10.00% | ~32 |
 | Better than cake | 8.00% | ~25 |
 | First taste | 7.00% | ~22 |
-| Amateur hitchhiker | 3.00% | ~10 |
+| Amateur hitchhiker | 7.00% | ~22 |
+| Reliability expert | 2.00% | ~6 |
 | On the top | 2.00% | ~6 |
 | Hero | 1.00% | ~3 |
 | Drama queen | 1.00% | ~3 |
@@ -31,7 +32,6 @@
 | No brakes Amateur | 0.30% | ~1 |
 | First Amateur taste | 0.30% | ~1 |
 | Shepherd | 0.30% | ~1 |
-| Reliability expert | 0.30% | ~1 |
 | Amateur hattrick | 0.30% | ~1 |
 | Standing tall | 0.30% | ~1 |
 | Pro photo shoot | 0.00% | ~0 |
@@ -168,7 +168,7 @@
 | Standing tall Amateur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 317 (Ranked 265)  
-Completed: 0 (0.00%) (Ranked 264)  
+Completed: 0 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

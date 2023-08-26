@@ -19,10 +19,10 @@
 | Playing God | 7.00% | ~9 |
 | First and Foremost | 6.00% | ~7 |
 | Tailor-Made | 6.00% | ~7 |
+| Gotta Go Fast! | 5.00% | ~6 |
 | Made Mother Proud | 5.00% | ~6 |
 | Winner Winner Chicken Dinner | 5.00% | ~6 |
 | Seven-League Boots | 4.00% | ~5 |
-| Gotta Go Fast! | 4.00% | ~5 |
 | Say My Name | 4.00% | ~5 |
 | POI Hunter | 3.00% | ~4 |
 | First Things First | 3.00% | ~4 |

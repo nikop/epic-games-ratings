@@ -32,8 +32,8 @@
 | Rehab Expert | 19.00% | ~63 |
 | Tasty Profits | 18.00% | ~60 |
 | Established Fame | 17.00% | ~57 |
+| Under One Roof | 16.00% | ~53 |
 | Cashflow Chief | 16.00% | ~53 |
-| Under One Roof | 15.00% | ~50 |
 | Starred Dining | 15.00% | ~50 |
 | Smooth Operator | 14.00% | ~47 |
 | Boutique Benefits | 14.00% | ~47 |
@@ -94,7 +94,7 @@
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 333 (Ranked 261)  
-Completed: 0 (0.00%) (Ranked 264)  
+Completed: 0 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

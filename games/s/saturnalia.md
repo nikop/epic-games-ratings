@@ -26,8 +26,8 @@ Rating: 4.26 (Ranked 825)
 | Paparazzi | 0.30% | ~198 |
 | Ear Ringing | 0.10% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,864 (Ranked 84)  
-Completed: 13 (0.02%) (Ranked 244)  
+Progressed: 65,865 (Ranked 84)  
+Completed: 13 (0.02%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -154,7 +154,7 @@ Completed: 13 (0.02%) (Ranked 244)
 | 2023-08-23 | 65,777 | 13 |
 | 2023-08-24 | 65,805 | 13 |
 | 2023-08-25 | 65,838 | 13 |
-| 2023-08-26 | 65,864 | 13 |
+| 2023-08-26 | 65,865 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

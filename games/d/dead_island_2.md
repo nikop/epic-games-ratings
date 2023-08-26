@@ -10,12 +10,16 @@ Rating: 4.54 (Ranked 502)
 | Bookworm | 0.20% | ~1,332 |
 | Break A Leg | 0.20% | ~1,332 |
 | But Doctor, I am Butcho | 0.20% | ~1,332 |
+| Slayer Squad | 0.20% | ~1,332 |
+| Can't Handle the Truth | 0.20% | ~1,332 |
 | Coup de Grâce | 0.20% | ~1,332 |
+| Like Riding a Bike | 0.20% | ~1,332 |
 | Hazardous Materials | 0.20% | ~1,332 |
 | Friends Like These | 0.20% | ~1,332 |
 | Hotel California | 0.20% | ~1,332 |
 | Apex Predator | 0.20% | ~1,332 |
 | Zombologist | 0.20% | ~1,332 |
+| A Patton Emerges | 0.20% | ~1,332 |
 | Stacking the Deck | 0.20% | ~1,332 |
 | Personal Assistant Personally Assisted | 0.20% | ~1,332 |
 | This is My Weapon | 0.20% | ~1,332 |
@@ -27,10 +31,7 @@ Rating: 4.54 (Ranked 502)
 | Perks of the Job | 0.10% | ~666 |
 | On Safari | 0.10% | ~666 |
 | I Got a Zombie Army and You Can't Harm Me | 0.10% | ~666 |
-| Slayer Squad | 0.10% | ~666 |
 | Smorgasbord | 0.10% | ~666 |
-| Can't Handle the Truth | 0.10% | ~666 |
-| Like Riding a Bike | 0.10% | ~666 |
 | Not Even My Final Form | 0.10% | ~666 |
 | Donk! | 0.10% | ~666 |
 | Internet Famous | 0.10% | ~666 |
@@ -38,7 +39,6 @@ Rating: 4.54 (Ranked 502)
 | Jumbo Keyring | 0.10% | ~666 |
 | Ooh, Shiny! | 0.10% | ~666 |
 | Gore Horse | 0.10% | ~666 |
-| A Patton Emerges | 0.10% | ~666 |
 | Humanity Distilled | 0.10% | ~666 |
 | I Am the Resurrection | 0.10% | ~666 |
 | Down with the Sickness | 0.10% | ~666 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 502)
 | Rising Star | 0.10% | ~666 |
 | Bucket List | 0.10% | ~666 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 666,099 (Ranked 22)  
+Progressed: 666,166 (Ranked 22)  
 Completed: 2,078 (0.31%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 2,078 (0.31%) (Ranked 172)
 | 2023-08-23 | 663,691 | 2,054 |
 | 2023-08-24 | 664,478 | 2,059 |
 | 2023-08-25 | 665,272 | 2,068 |
-| 2023-08-26 | 666,099 | 2,078 |
+| 2023-08-26 | 666,166 | 2,078 |
 ## Awards
 Max (Great Boss Battles): 5,770  (Ranked 61)  
 Sum: 8,490 (Ranked 97)  

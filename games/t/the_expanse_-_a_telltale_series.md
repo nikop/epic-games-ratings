@@ -5,16 +5,16 @@ Rating: 4.81 (Ranked 76)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stogie for Fogey | 19.00% | ~1,749 |
-| Doctor Approved | 17.00% | ~1,565 |
-| Captain Drummer | 17.00% | ~1,565 |
-| Spore Taste | 14.00% | ~1,289 |
-| Martian Music | 14.00% | ~1,289 |
-| Celebrations are in Order | 12.00% | ~1,104 |
-| Impossible Objects | 12.00% | ~1,104 |
-| Thorston Mayer | 8.00% | ~736 |
-| Bottoms up! | 6.00% | ~552 |
-| Data Logger | 4.00% | ~368 |
+| Stogie for Fogey | 19.00% | ~1,750 |
+| Doctor Approved | 17.00% | ~1,566 |
+| Captain Drummer | 17.00% | ~1,566 |
+| Spore Taste | 14.00% | ~1,290 |
+| Martian Music | 14.00% | ~1,290 |
+| Celebrations are in Order | 12.00% | ~1,106 |
+| Impossible Objects | 12.00% | ~1,106 |
+| Thorston Mayer | 8.00% | ~737 |
+| Bottoms up! | 6.00% | ~553 |
+| Data Logger | 4.00% | ~369 |
 | Data Master | 3.00% | ~276 |
 | Data Recoverer | 2.00% | ~184 |
 | Urshanabi Hoarder | 1.00% | ~92 |
@@ -36,8 +36,8 @@ Rating: 4.81 (Ranked 76)
 | Scavenger Star | 0.00% | ~0 |
 | Data Collector | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,204 (Ranked 128)  
-Completed: 0 (0.00%) (Ranked 264)  
+Progressed: 9,213 (Ranked 128)  
+Completed: 0 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -71,7 +71,7 @@ Completed: 0 (0.00%) (Ranked 264)
 | 2023-08-23 | 8,820 | 0 |
 | 2023-08-24 | 8,909 | 0 |
 | 2023-08-25 | 9,074 | 0 |
-| 2023-08-26 | 9,204 | 0 |
+| 2023-08-26 | 9,213 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

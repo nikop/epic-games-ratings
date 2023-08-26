@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 488,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -337,9 +337,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 1818,
+  "EOS_Progressed": 1819,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -1917,6 +1917,11 @@
       "Time": "2023-08-26T20:04:35.379764+00:00",
       "NumProgressed": 1818,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-08-26T21:05:54.2684747+00:00",
+      "NumProgressed": 1819,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -1936,7 +1941,7 @@
       "Name": "Dead or Alive",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -1952,7 +1957,7 @@
       "Name": "Dishonored",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "ACH_DOG_DAYS",
@@ -1968,7 +1973,7 @@
       "Name": "Do Not Pass Go\u2026",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_ELUSIVE_PREY",
@@ -2032,7 +2037,7 @@
       "Name": "Gold Digger",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_HEALING_OLD_WOUNDS",
@@ -2072,7 +2077,7 @@
       "Name": "Justice Served",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "ACH_LETS_RIDE",
@@ -2128,7 +2133,7 @@
       "Name": "Monster Hunter",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_MOONDRUNK",
@@ -2142,9 +2147,9 @@
       "ID": "ACH_MOON_HUNTER",
       "SetID": "8j30i9k",
       "Name": "Moon Hunter",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_MYSTERY_MACHINE",
@@ -2174,9 +2179,9 @@
       "ID": "ACH_PERKY",
       "SetID": "8j30i9k",
       "Name": "Perky",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1200
+      "UsersEstimate": 1182
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -2200,7 +2205,7 @@
       "Name": "Rain of Death",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "ACH_REVENANT",
@@ -2216,15 +2221,15 @@
       "Name": "Scholar",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "ACH_SELF_IMPROVEMENT",
       "SetID": "8j30i9k",
       "Name": "Self-Improvement",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1309
+      "UsersEstimate": 1291
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -2240,7 +2245,7 @@
       "Name": "That\u2019s All, Folks",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "ACH_THERE_IS_HOPE",
@@ -2264,7 +2269,7 @@
       "Name": "Knuckle Sandwich",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_THE_PHILOSOPHERS_STONE",
@@ -2304,7 +2309,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1600
+      "UsersEstimate": 1601
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -2312,7 +2317,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 1036
+      "UsersEstimate": 1037
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -2351,15 +2356,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1818,
+      "Progressed": 1819,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-08-25T13:05:53.0573208+00:00",
-  "LastChanged_Achievements": "2023-08-26T20:04:35.3797632+00:00",
+  "LastChanged_Achievements": "2023-08-26T21:05:54.2684739+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:16.0649868+00:00",
-  "LastUpdate_Ratings": "2023-08-26T20:00:35.0504027+00:00",
-  "LastUpdate_Achievements": "2023-08-26T20:04:35.3798145+00:00"
+  "LastUpdate_Ratings": "2023-08-26T21:02:37.3061671+00:00",
+  "LastUpdate_Achievements": "2023-08-26T21:05:54.2685503+00:00"
 }

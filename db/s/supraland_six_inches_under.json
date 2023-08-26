@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 417,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 20,
-  "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
     "PcReleaseDate": "2022-01-14T10:00:00+00:00",
@@ -1657,9 +1657,9 @@
       "ID": "AllChests",
       "SetID": "5lok9mm",
       "Name": "All the chests",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 288
+      "UsersEstimate": 310
     },
     {
       "ID": "Area2",
@@ -2081,8 +2081,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-08-21T16:57:49.4049479+00:00",
-  "LastChanged_Achievements": "2023-08-26T20:05:28.7226722+00:00",
+  "LastChanged_Achievements": "2023-08-26T21:07:12.7405041+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:35.5799147+00:00",
-  "LastUpdate_Ratings": "2023-08-26T19:58:20.7033156+00:00",
-  "LastUpdate_Achievements": "2023-08-26T20:05:28.7227226+00:00"
+  "LastUpdate_Ratings": "2023-08-26T20:59:08.692542+00:00",
+  "LastUpdate_Achievements": "2023-08-26T21:07:12.7405594+00:00"
 }

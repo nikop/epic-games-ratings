@@ -44,6 +44,7 @@ Number of Ratings: 371  (23.09.2022)
 | Engine Kill | 0.30% | ~9 |
 | Harvest No More | 0.30% | ~9 |
 | Death Comes For All | 0.30% | ~9 |
+| Blood and Iron | 0.20% | ~6 |
 | Hands-On Research | 0.20% | ~6 |
 | Exercise in Restraint | 0.20% | ~6 |
 | True Mastery | 0.20% | ~6 |
@@ -52,7 +53,6 @@ Number of Ratings: 371  (23.09.2022)
 | Suffer Not the Mutant | 0.20% | ~6 |
 | Arsenal of Destruction | 0.10% | ~3 |
 | The Flesh is Weak | 0.10% | ~3 |
-| Blood and Iron | 0.10% | ~3 |
 | Grand Master | 0.10% | ~3 |
 | Clean Slate | 0.10% | ~3 |
 | Dominus | 0.10% | ~3 |
@@ -75,8 +75,8 @@ Number of Ratings: 371  (23.09.2022)
 | Mass Extinction | 0.00% | ~0 |
 | Not a Mote of Corruption | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,165 (Ranked 157)  
-Completed: 0 (0.00%) (Ranked 264)  
+Progressed: 3,166 (Ranked 157)  
+Completed: 0 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -196,7 +196,7 @@ Completed: 0 (0.00%) (Ranked 264)
 | 2023-08-23 | 3,161 | 0 |
 | 2023-08-24 | 3,162 | 0 |
 | 2023-08-25 | 3,163 | 0 |
-| 2023-08-26 | 3,165 | 0 |
+| 2023-08-26 | 3,166 | 0 |
 ## Awards
 Max (Character Customization): 220  (Ranked 264)  
 Sum: 473 (Ranked 305)  

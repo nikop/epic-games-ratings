@@ -6,9 +6,9 @@
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 111,
-  "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_Completed": 252,
+  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17677,
+  "EOS_Progressed": 17679,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9136,6 +9136,11 @@
       "Time": "2023-08-26T20:06:00.902579+00:00",
       "NumProgressed": 17677,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-26T21:07:58.1514595+00:00",
+      "NumProgressed": 17679,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -9147,7 +9152,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5126
+      "UsersEstimate": 5127
     },
     {
       "ID": "0002",
@@ -9235,7 +9240,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2828
+      "UsersEstimate": 2829
     },
     {
       "ID": "0013",
@@ -9251,7 +9256,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2828
+      "UsersEstimate": 2829
     },
     {
       "ID": "0015",
@@ -9299,7 +9304,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 11,
       "XP": 115,
-      "UsersEstimate": 1944
+      "UsersEstimate": 1945
     },
     {
       "ID": "0021",
@@ -9355,7 +9360,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1944
+      "UsersEstimate": 1945
     },
     {
       "ID": "0028",
@@ -9395,7 +9400,7 @@
       "Name": "Killer Looks",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1944
+      "UsersEstimate": 1945
     },
     {
       "ID": "0033",
@@ -9434,7 +9439,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17677,
+      "Progressed": 17679,
       "Completed": 1
     }
   ],
@@ -9442,8 +9447,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-12T19:04:41.1874293+00:00",
-  "LastChanged_Achievements": "2023-08-26T20:06:00.9025784+00:00",
+  "LastChanged_Achievements": "2023-08-26T21:07:58.151459+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:14.6586711+00:00",
-  "LastUpdate_Ratings": "2023-08-26T19:58:04.9440293+00:00",
-  "LastUpdate_Achievements": "2023-08-26T20:06:00.9026738+00:00"
+  "LastUpdate_Ratings": "2023-08-26T20:58:42.2223816+00:00",
+  "LastUpdate_Achievements": "2023-08-26T21:07:58.1515708+00:00"
 }

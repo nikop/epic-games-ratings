@@ -6,9 +6,9 @@
   "Ranking_Popularity": 284,
   "Ranking_PopularitySum": 363,
   "Ranking_EOS_Progress": 56,
-  "Ranking_EOS_Completed": 264,
+  "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 24,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -720,9 +720,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 217679,
+  "EOS_Progressed": 217718,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2985,
+  "EOS_NewPlayers": 2961,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8405,6 +8405,11 @@
       "Time": "2023-08-26T20:03:06.7343379+00:00",
       "NumProgressed": 217679,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-26T21:03:23.1808311+00:00",
+      "NumProgressed": 217718,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -8488,7 +8493,7 @@
       "Name": "The demons\u0027 feast",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1741
+      "UsersEstimate": 1742
     },
     {
       "ID": "Chapter5",
@@ -8496,7 +8501,7 @@
       "Name": "The Great Library",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1741
+      "UsersEstimate": 1742
     },
     {
       "ID": "Chapter6",
@@ -8560,7 +8565,7 @@
       "Name": "Res Judicata",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1089
     },
     {
       "ID": "CompanionPriestress",
@@ -8568,7 +8573,7 @@
       "Name": "The Woman in the High Castle",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1741
+      "UsersEstimate": 1742
     },
     {
       "ID": "DLC1ChooseNecro",
@@ -8768,7 +8773,7 @@
       "Name": "The Famous Dungeon of Naheulbeuk",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1089
     },
     {
       "ID": "DifficultyIronManNoCompanion",
@@ -8832,7 +8837,7 @@
       "Name": "Dwarf Fortress",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1089
     },
     {
       "ID": "DwarfInsultWin",
@@ -8856,7 +8861,7 @@
       "Name": "Look but don\u0027t touch",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1089
     },
     {
       "ID": "ElfHitTwoFriends",
@@ -8864,7 +8869,7 @@
       "Name": "Sowwy!",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 52243
+      "UsersEstimate": 52252
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -8912,7 +8917,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6530
+      "UsersEstimate": 6532
     },
     {
       "ID": "FollowBraztok",
@@ -9072,7 +9077,7 @@
       "Name": "Team Building Exercise",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1741
+      "UsersEstimate": 1742
     },
     {
       "ID": "SystematicallyStupid",
@@ -9096,7 +9101,7 @@
       "Name": "Oh, when I\u0027ll be level 10...",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1741
+      "UsersEstimate": 1742
     },
     {
       "ID": "WizardEpic",
@@ -9119,21 +9124,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 217679,
+      "Progressed": 217718,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 217679,
+      "Progressed": 217718,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-25T15:02:30.1432618+00:00",
-  "LastChanged_Achievements": "2023-08-26T20:03:06.7343373+00:00",
+  "LastChanged_Achievements": "2023-08-26T21:03:23.1808306+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:41.9661267+00:00",
-  "LastUpdate_Ratings": "2023-08-26T20:00:48.0240958+00:00",
-  "LastUpdate_Achievements": "2023-08-26T20:03:06.7345009+00:00"
+  "LastUpdate_Ratings": "2023-08-26T21:03:08.443847+00:00",
+  "LastUpdate_Achievements": "2023-08-26T21:03:23.1809904+00:00"
 }

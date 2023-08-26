@@ -6,8 +6,8 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 24.00% | ~52,243 |
-| Alt+F4 | 3.00% | ~6,530 |
+| Sowwy! | 24.00% | ~52,252 |
+| Alt+F4 | 3.00% | ~6,532 |
 | Déjà vu | 2.00% | ~4,354 |
 | Where's that freaking Dwarf? | 2.00% | ~4,354 |
 | Sock! SOCK! | 2.00% | ~4,354 |
@@ -19,11 +19,11 @@ Number of Ratings: 118  (23.09.2022)
 | Speedrun | 1.00% | ~2,177 |
 | Fireproof Wizardess | 1.00% | ~2,177 |
 | Livin' in a dwarven paradise | 0.90% | ~1,959 |
-| The demons' feast | 0.80% | ~1,741 |
-| The Great Library | 0.80% | ~1,741 |
-| The Woman in the High Castle | 0.80% | ~1,741 |
-| Team Building Exercise | 0.80% | ~1,741 |
-| Oh, when I'll be level 10... | 0.80% | ~1,741 |
+| The demons' feast | 0.80% | ~1,742 |
+| The Great Library | 0.80% | ~1,742 |
+| The Woman in the High Castle | 0.80% | ~1,742 |
+| Team Building Exercise | 0.80% | ~1,742 |
+| Oh, when I'll be level 10... | 0.80% | ~1,742 |
 | Torture and Sensibility | 0.70% | ~1,524 |
 | Urik's Depths | 0.70% | ~1,524 |
 | The Dungeon Master | 0.70% | ~1,524 |
@@ -35,10 +35,10 @@ Number of Ratings: 118  (23.09.2022)
 | The beards of change | 0.60% | ~1,306 |
 | The Ranger of Chaos | 0.60% | ~1,306 |
 | Thieves' Guild Accreditation | 0.60% | ~1,306 |
-| Res Judicata | 0.50% | ~1,088 |
-| The Famous Dungeon of Naheulbeuk | 0.50% | ~1,088 |
-| Dwarf Fortress | 0.50% | ~1,088 |
-| Look but don't touch | 0.50% | ~1,088 |
+| Res Judicata | 0.50% | ~1,089 |
+| The Famous Dungeon of Naheulbeuk | 0.50% | ~1,089 |
+| Dwarf Fortress | 0.50% | ~1,089 |
+| Look but don't touch | 0.50% | ~1,089 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.40% | ~871 |
 | Dead for good | 0.40% | ~871 |
 | Lust and Debauchery | 0.40% | ~871 |
@@ -95,8 +95,8 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~218 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,679 (Ranked 56)  
-Completed: 2 (0.00%) (Ranked 264)  
+Progressed: 217,718 (Ranked 56)  
+Completed: 2 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -182,7 +182,7 @@ Completed: 2 (0.00%) (Ranked 264)
 | 2023-08-23 | 216,367 | 2 |
 | 2023-08-24 | 216,781 | 2 |
 | 2023-08-25 | 217,227 | 2 |
-| 2023-08-26 | 217,679 | 2 |
+| 2023-08-26 | 217,718 | 2 |
 ## Awards
 Max (Character Customization): 176  (Ranked 284)  
 Sum: 220 (Ranked 363)  

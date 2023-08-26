@@ -3,9 +3,9 @@
   "Name": "M1 Tank Platoon",
   "ProductSlug": "m1-tank-platoon-eef993",
   "Ranking_EOS_Progress": 560,
-  "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 344,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_Completed": 265,
+  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-05-03T23:00:00+00:00",
     "PcReleaseDate": "2022-05-03T23:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:29.3145812+00:00",
   "LastChanged": "2023-03-31T05:57:29.3145813+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:35.4948886+00:00",
-  "LastUpdate_Ratings": "2023-08-26T20:00:05.3927428+00:00",
-  "LastUpdate_Achievements": "2023-08-26T20:00:49.9451734+00:00"
+  "LastUpdate_Ratings": "2023-08-26T21:01:52.9070535+00:00",
+  "LastUpdate_Achievements": "2023-08-26T21:03:15.8777+00:00"
 }

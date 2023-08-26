@@ -6,9 +6,9 @@
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 43,
-  "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_Completed": 196,
+  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -6712,10 +6712,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 41574,
       "NumberOfAwardsMax": 21948
+    },
+    {
+      "Time": "2023-08-26T21:01:13.4708245+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 41575,
+      "NumberOfAwardsMax": 21948
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 41574,
+  "NumberOfAwards": 41575,
   "NumberOfAwardsMax": 21948,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6771,7 +6777,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 904
+      "Count": 905
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -6792,10 +6798,10 @@
       "Count": 603
     }
   ],
-  "EOS_Progressed": 290858,
+  "EOS_Progressed": 290860,
   "EOS_Completed": 455,
-  "EOS_NewPlayers": 430,
-  "EOS_NewCompleters": 3,
+  "EOS_NewPlayers": 425,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
     {
@@ -20602,6 +20608,11 @@
       "Time": "2023-08-26T20:03:26.9491039+00:00",
       "NumProgressed": 290858,
       "NumCompleted": 455
+    },
+    {
+      "Time": "2023-08-26T21:04:13.1826452+00:00",
+      "NumProgressed": 290860,
+      "NumCompleted": 455
     }
   ],
   "TotalAchievements": 45,
@@ -20941,7 +20952,7 @@
       "Name": "First Class Student",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 31994
+      "UsersEstimate": 31995
     },
     {
       "ID": "PFA_7",
@@ -20949,7 +20960,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 31994
+      "UsersEstimate": 31995
     },
     {
       "ID": "PFA_8",
@@ -20972,16 +20983,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 290858,
+      "Progressed": 290860,
       "Completed": 455
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-08-26T16:59:43.2644841+00:00",
-  "LastChanged_Achievements": "2023-08-26T20:03:26.9491031+00:00",
+  "LastChanged": "2023-08-26T21:01:13.4708242+00:00",
+  "LastChanged_Achievements": "2023-08-26T21:04:13.1826447+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:27.4425386+00:00",
-  "LastUpdate_Ratings": "2023-08-26T19:59:39.2135254+00:00",
-  "LastUpdate_Achievements": "2023-08-26T20:03:26.949224+00:00"
+  "LastUpdate_Ratings": "2023-08-26T21:01:13.4708249+00:00",
+  "LastUpdate_Achievements": "2023-08-26T21:04:13.182769+00:00"
 }

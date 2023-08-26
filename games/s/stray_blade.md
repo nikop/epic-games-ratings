@@ -11,16 +11,16 @@
 | Can't touch this | 25.00% | ~13 |
 | Apprentice | 25.00% | ~13 |
 | Don't Cry Wolf | 22.00% | ~11 |
-| Freezing Cold | 14.00% | ~7 |
+| Freezing Cold | 16.00% | ~8 |
 | The Power of the Mountains | 14.00% | ~7 |
 | The Golden Flash | 12.00% | ~6 |
 | Searing Heat | 10.00% | ~5 |
+| Expert | 10.00% | ~5 |
 | Changing the World | 10.00% | ~5 |
 | Bringing guns to a sword fight | 8.00% | ~4 |
 | Through Dangers Untold | 8.00% | ~4 |
 | Locked and Loaded | 8.00% | ~4 |
 | Nothing but the Truth | 8.00% | ~4 |
-| Expert | 8.00% | ~4 |
 | Craftsmen | 6.00% | ~3 |
 | Defeat Tezuth | 6.00% | ~3 |
 | Mirror, Mirror on the Wall | 4.00% | ~2 |
@@ -52,7 +52,7 @@
 | Master of all Domains | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 51 (Ranked 379)  
-Completed: 0 (0.00%) (Ranked 264)  
+Completed: 0 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 67,
   "Ranking_EOS_Progress": 88,
-  "Ranking_EOS_Completed": 264,
+  "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -6711,9 +6711,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 59713,
+  "EOS_Progressed": 59714,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 511,
+  "EOS_NewPlayers": 506,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20306,6 +20306,11 @@
       "Time": "2023-08-26T20:05:46.9874769+00:00",
       "NumProgressed": 59713,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-26T21:07:39.7579071+00:00",
+      "NumProgressed": 59714,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -20317,7 +20322,7 @@
       "Name": "Against all odds",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 6568
+      "UsersEstimate": 6569
     },
     {
       "ID": "Apple of my eye",
@@ -20669,7 +20674,7 @@
       "Name": "The king is pleased",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 10748
+      "UsersEstimate": 10749
     },
     {
       "ID": "This Is Our Land",
@@ -20677,7 +20682,7 @@
       "Name": "This Is Our Land",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 6568
+      "UsersEstimate": 6569
     },
     {
       "ID": "This is Sparta",
@@ -20724,15 +20729,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 59713,
+      "Progressed": 59714,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-08-26T16:58:09.7565484+00:00",
-  "LastChanged_Achievements": "2023-08-26T20:05:46.9874763+00:00",
+  "LastChanged_Achievements": "2023-08-26T21:07:39.7579064+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:26.1294952+00:00",
-  "LastUpdate_Ratings": "2023-08-26T19:58:13.5173207+00:00",
-  "LastUpdate_Achievements": "2023-08-26T20:05:46.9876356+00:00"
+  "LastUpdate_Ratings": "2023-08-26T20:58:56.0490224+00:00",
+  "LastUpdate_Achievements": "2023-08-26T21:07:39.758059+00:00"
 }

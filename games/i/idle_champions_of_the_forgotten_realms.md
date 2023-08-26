@@ -13,6 +13,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mad Wizard | 0.50% | ~1,126 |
 | The Ring of Regeneration | 0.40% | ~901 |
 | To Infinity's and Beyond | 0.40% | ~766 |
+| Maddening | 0.30% | ~676 |
 | Were-verpowered | 0.30% | ~676 |
 | Seeking Allies | 0.30% | ~676 |
 | Are Ya Chicken? | 0.30% | ~676 |
@@ -20,7 +21,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Friendly Imps | 0.30% | ~676 |
 | The Chaotic Hunt for The Last Breath | 0.30% | ~574 |
 | There's a Flying Snake in my Boot! | 0.30% | ~574 |
-| Maddening | 0.20% | ~450 |
 | Tall Tales | 0.20% | ~383 |
 | The Witchlight Carnival | 0.20% | ~383 |
 | Thieves of the Coven | 0.20% | ~383 |
@@ -29,6 +29,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Supply Run | 0.20% | ~450 |
 | Seeds of Destruction | 0.20% | ~383 |
 | The Evacuation of Waterdeep | 0.20% | ~383 |
+| Best Thay Ever | 0.20% | ~383 |
 | Vecna Lives! | 0.20% | ~383 |
 | Vecna Loots! | 0.20% | ~383 |
 | Return to the Tomb | 0.20% | ~383 |
@@ -173,7 +174,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Owlbear Necessities | 0.10% | ~191 |
 | Flapjacks and Waffles | 0.10% | ~191 |
 | On the Hunt | 0.10% | ~225 |
-| Best Thay Ever | 0.10% | ~191 |
 | Overwhelmed with Knowledge | 0.10% | ~191 |
 | A Demi-god's Defender | 0.10% | ~191 |
 | Well Equipped | 0.10% | ~191 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~191 |
 | Animated Giff | 0.10% | ~191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,182 (Ranked 53)  
+Progressed: 225,200 (Ranked 53)  
 Completed: 2,218 (0.98%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -651,7 +651,7 @@ Completed: 2,218 (0.98%) (Ranked 122)
 | 2023-08-23 | 224,434 | 2,210 |
 | 2023-08-24 | 224,686 | 2,211 |
 | 2023-08-25 | 224,925 | 2,214 |
-| 2023-08-26 | 225,182 | 2,218 |
+| 2023-08-26 | 225,200 | 2,218 |
 ## Awards
 Max (Diverse Characters): 5,189  (Ranked 68)  
 Sum: 31,225 (Ranked 39)  

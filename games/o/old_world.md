@@ -6,9 +6,9 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Settler | 4.00% | ~543 |
-| Play a Single Player Game | 4.00% | ~543 |
-| The Clergy | 4.00% | ~543 |
+| Settler | 4.00% | ~544 |
+| Play a Single Player Game | 4.00% | ~544 |
+| The Clergy | 4.00% | ~544 |
 | Explorer | 3.00% | ~408 |
 | Intrepid | 3.00% | ~408 |
 | Friendly Family | 3.00% | ~408 |
@@ -124,6 +124,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bad Heir Day | 0.50% | ~68 |
 | Ishtar Gate in Babylon | 0.50% | ~68 |
 | Strong Difficulty | 0.50% | ~68 |
+| Clerics | 0.50% | ~68 |
 | Hunters | 0.50% | ~68 |
 | Learn to Play 4 | 0.50% | ~68 |
 | Babylonia | 0.50% | ~68 |
@@ -136,7 +137,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Old | 0.40% | ~54 |
 | Peacemaker | 0.40% | ~54 |
 | Noble Difficulty | 0.40% | ~54 |
-| Clerics | 0.40% | ~54 |
 | Cao'an | 0.40% | ~54 |
 | Egypt | 0.40% | ~54 |
 | Old World Order | 0.40% | ~54 |
@@ -303,8 +303,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,587 (Ranked 119)  
-Completed: 5 (0.04%) (Ranked 234)  
+Progressed: 13,589 (Ranked 119)  
+Completed: 5 (0.04%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -431,7 +431,7 @@ Completed: 5 (0.04%) (Ranked 234)
 | 2023-08-23 | 13,540 | 5 |
 | 2023-08-24 | 13,546 | 5 |
 | 2023-08-25 | 13,563 | 5 |
-| 2023-08-26 | 13,587 | 5 |
+| 2023-08-26 | 13,589 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,799 (Ranked 208)  

@@ -2,13 +2,13 @@
   "ID": "64ae027afbd145d9b6e62bd96967fe66",
   "Name": "A Plague Tale: Requiem",
   "ProductSlug": "a-plague-tale-requiem",
-  "Ranking_Rating": 163,
+  "Ranking_Rating": 162,
   "Ranking_Popularity": 212,
   "Ranking_PopularitySum": 292,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -380,9 +380,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12848,
+  "EOS_Progressed": 12850,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -7615,6 +7615,11 @@
       "Time": "2023-08-26T15:06:18.0163677+00:00",
       "NumProgressed": 12848,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-08-26T21:07:35.4267887+00:00",
+      "NumProgressed": 12850,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 35,
@@ -7626,7 +7631,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 11820
+      "UsersEstimate": 11822
     },
     {
       "ID": "ACH_02",
@@ -7634,7 +7639,7 @@
       "Name": "Newcomers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 10150
+      "UsersEstimate": 10152
     },
     {
       "ID": "ACH_03",
@@ -7642,7 +7647,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 9508
+      "UsersEstimate": 9509
     },
     {
       "ID": "ACH_04",
@@ -7650,7 +7655,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 8994
+      "UsersEstimate": 8995
     },
     {
       "ID": "ACH_05",
@@ -7658,7 +7663,7 @@
       "Name": "In our Wake",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 8737
+      "UsersEstimate": 8738
     },
     {
       "ID": "ACH_06",
@@ -7666,7 +7671,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 8351
+      "UsersEstimate": 8352
     },
     {
       "ID": "ACH_07",
@@ -7674,7 +7679,7 @@
       "Name": "Felons",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 7966
+      "UsersEstimate": 7967
     },
     {
       "ID": "ACH_08",
@@ -7682,7 +7687,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 7837
+      "UsersEstimate": 7838
     },
     {
       "ID": "ACH_09",
@@ -7690,15 +7695,15 @@
       "Name": "Tales and Revelations",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 7323
+      "UsersEstimate": 7324
     },
     {
       "ID": "ACH_10",
       "SetID": "9d4cf4c",
       "Name": "Bloodline",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 6809
+      "UsersEstimate": 6682
     },
     {
       "ID": "ACH_11",
@@ -7714,7 +7719,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 5910
+      "UsersEstimate": 5911
     },
     {
       "ID": "ACH_13",
@@ -7722,7 +7727,7 @@
       "Name": "Nothing Left",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 5011
+      "UsersEstimate": 5012
     },
     {
       "ID": "ACH_14",
@@ -7762,7 +7767,7 @@
       "Name": "Herbalist",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 899
+      "UsersEstimate": 900
     },
     {
       "ID": "ACH_19",
@@ -7794,7 +7799,7 @@
       "Name": "Not a toy anymore",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 1413
+      "UsersEstimate": 1414
     },
     {
       "ID": "ACH_23",
@@ -7802,7 +7807,7 @@
       "Name": "Improved crossbow",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 3469
+      "UsersEstimate": 3470
     },
     {
       "ID": "ACH_24",
@@ -7826,7 +7831,7 @@
       "Name": "Pocket laboratory",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 1413
+      "UsersEstimate": 1414
     },
     {
       "ID": "ACH_27",
@@ -7834,7 +7839,7 @@
       "Name": "Night guard",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 5525
+      "UsersEstimate": 5526
     },
     {
       "ID": "ACH_28",
@@ -7842,7 +7847,7 @@
       "Name": "Alchemist",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 8865
+      "UsersEstimate": 8866
     },
     {
       "ID": "ACH_29",
@@ -7905,7 +7910,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 12848,
+      "Progressed": 12850,
       "Completed": 43
     }
   ],
@@ -7913,8 +7918,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-08-24T02:10:43.6579276+00:00",
-  "LastChanged_Achievements": "2023-08-26T20:05:43.9685678+00:00",
+  "LastChanged_Achievements": "2023-08-26T21:07:35.4267879+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:58.0363669+00:00",
-  "LastUpdate_Ratings": "2023-08-26T19:57:47.7828813+00:00",
-  "LastUpdate_Achievements": "2023-08-26T20:05:43.9686549+00:00"
+  "LastUpdate_Ratings": "2023-08-26T20:58:20.2152552+00:00",
+  "LastUpdate_Achievements": "2023-08-26T21:07:35.4269145+00:00"
 }

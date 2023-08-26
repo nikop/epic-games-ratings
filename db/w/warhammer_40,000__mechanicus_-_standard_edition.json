@@ -6,9 +6,9 @@
   "Ranking_Popularity": 241,
   "Ranking_PopularitySum": 195,
   "Ranking_EOS_Progress": 54,
-  "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_Completed": 265,
+  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -567,9 +567,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 221218,
+  "EOS_Progressed": 221221,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 598,
+  "EOS_NewPlayers": 595,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14467,6 +14467,11 @@
       "Time": "2023-08-26T20:04:06.7430656+00:00",
       "NumProgressed": 221218,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-26T21:05:11.9658862+00:00",
+      "NumProgressed": 221221,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -14478,7 +14483,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 42031
+      "UsersEstimate": 42032
     },
     {
       "ID": "ACH_BASE_10",
@@ -14726,7 +14731,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 26546
+      "UsersEstimate": 26547
     },
     {
       "ID": "ACH_BASE_8",
@@ -14749,7 +14754,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 221218,
+      "Progressed": 221221,
       "Completed": 5
     }
   ],
@@ -14757,8 +14762,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-08-26T13:03:24.1292909+00:00",
-  "LastChanged_Achievements": "2023-08-26T20:04:06.7430649+00:00",
+  "LastChanged_Achievements": "2023-08-26T21:05:11.9658857+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:24.7662929+00:00",
-  "LastUpdate_Ratings": "2023-08-26T20:00:39.6164064+00:00",
-  "LastUpdate_Achievements": "2023-08-26T20:04:06.7432877+00:00"
+  "LastUpdate_Ratings": "2023-08-26T21:02:44.7186378+00:00",
+  "LastUpdate_Achievements": "2023-08-26T21:05:11.9660195+00:00"
 }

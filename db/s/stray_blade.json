@@ -3,9 +3,9 @@
   "Name": "Stray Blade",
   "ProductSlug": "stray-blade",
   "Ranking_EOS_Progress": 379,
-  "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 274,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_Completed": 265,
+  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -363,9 +363,9 @@
       "ID": "ACH_ENTER_REGION_BEAR",
       "SetID": "7i20me3",
       "Name": "Freezing Cold",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_ENTER_REGION_LIZARD",
@@ -611,9 +611,9 @@
       "ID": "ACH_SKILLTREE_PROGRESSION_50",
       "SetID": "7i20me3",
       "Name": "Expert",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_UNLOCK_ABILITY_INTIUM",
@@ -658,8 +658,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-08-26T20:07:01.1747047+00:00",
+  "LastChanged_Achievements": "2023-08-26T21:09:26.2785729+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:33.3784837+00:00",
-  "LastUpdate_Ratings": "2023-08-26T20:00:03.381442+00:00",
-  "LastUpdate_Achievements": "2023-08-26T20:07:01.1747407+00:00"
+  "LastUpdate_Ratings": "2023-08-26T21:01:49.738913+00:00",
+  "LastUpdate_Achievements": "2023-08-26T21:09:26.278637+00:00"
 }

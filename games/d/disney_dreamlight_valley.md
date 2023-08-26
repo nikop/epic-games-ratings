@@ -6,23 +6,23 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 71.00% | ~6,418 |
-| Photographer | 69.00% | ~6,238 |
-| Valley's Helper | 63.00% | ~5,695 |
-| Constructor | 52.00% | ~4,701 |
-| Renovator | 52.00% | ~4,701 |
-| Bestest Friend | 48.00% | ~4,339 |
-| Banker | 40.00% | ~3,616 |
-| Gardener | 31.00% | ~2,802 |
-| Generous | 23.00% | ~2,079 |
+| Goofy's Investor | 71.00% | ~6,421 |
+| Photographer | 69.00% | ~6,240 |
+| Valley's Helper | 63.00% | ~5,697 |
+| Constructor | 52.00% | ~4,702 |
+| Renovator | 52.00% | ~4,702 |
+| Bestest Friend | 48.00% | ~4,341 |
+| Banker | 40.00% | ~3,617 |
+| Gardener | 31.00% | ~2,803 |
+| Generous | 23.00% | ~2,080 |
 | Chef Cook | 17.00% | ~1,537 |
 | Miner | 8.00% | ~723 |
-| Duty Bound | 6.00% | ~542 |
+| Duty Bound | 6.00% | ~543 |
 | Angler | 5.00% | ~452 |
 | Thorn Cleaner | 4.00% | ~362 |
 | Chit Chatter | 3.00% | ~271 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,040 (Ranked 129)  
+Progressed: 9,043 (Ranked 129)  
 Completed: 204 (2.26%) (Ranked 89)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,15 +101,15 @@ Completed: 204 (2.26%) (Ranked 89)
 | 2023-08-23 | 8,931 | 202 |
 | 2023-08-24 | 8,964 | 204 |
 | 2023-08-25 | 9,001 | 204 |
-| 2023-08-26 | 9,040 | 204 |
+| 2023-08-26 | 9,043 | 204 |
 ## Awards
 Max (Great for Beginners): 936  (Ranked 149)  
-Sum: 7,446 (Ranked 107)  
+Sum: 7,447 (Ranked 107)  
 Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 936 |
-| This game has Diverse Characters | 807 |
+| This game has Diverse Characters | 808 |
 | This game is Relaxing | 794 |
 | This game is Highly Recommended | 788 |
 | This game has Amazing Characters | 788 |
@@ -289,4 +289,4 @@ Diff (max vs sum): 42
 | 2023-08-23 | 4.76 | - | 934 | 7,437 |
 | 2023-08-24 | 4.76 | - | 934 | 7,439 |
 | 2023-08-25 | 4.76 | - | 934 | 7,441 |
-| 2023-08-26 | 4.76 | - | 936 | 7,446 |
+| 2023-08-26 | 4.76 | - | 936 | 7,447 |

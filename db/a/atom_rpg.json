@@ -6,9 +6,9 @@
   "Ranking_Popularity": 406,
   "Ranking_PopularitySum": 452,
   "Ranking_EOS_Progress": 193,
-  "Ranking_EOS_Completed": 264,
+  "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -364,7 +364,7 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 1154,
+  "EOS_Progressed": 1155,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
@@ -2239,6 +2239,11 @@
       "Time": "2023-08-26T04:06:50.5738537+00:00",
       "NumProgressed": 1154,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-26T21:08:07.7440241+00:00",
+      "NumProgressed": 1155,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -2306,7 +2311,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1142
+      "UsersEstimate": 1143
     },
     {
       "ID": "EXPERT_1",
@@ -2370,7 +2375,7 @@
       "Name": "Kraina Grzybow",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "LOVE_GURU_1",
@@ -2424,9 +2429,9 @@
       "ID": "PARANOIA",
       "SetID": "bf13m8j",
       "Name": "Paranoia",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 185
+      "UsersEstimate": 173
     },
     {
       "ID": "PRIVATE_EYE",
@@ -2537,15 +2542,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1154,
+      "Progressed": 1155,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-08-17T18:57:39.3161327+00:00",
-  "LastChanged_Achievements": "2023-08-26T20:06:07.775183+00:00",
+  "LastChanged_Achievements": "2023-08-26T21:08:07.7440233+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:47.3814229+00:00",
-  "LastUpdate_Ratings": "2023-08-26T19:58:35.6254853+00:00",
-  "LastUpdate_Achievements": "2023-08-26T20:06:07.7752391+00:00"
+  "LastUpdate_Ratings": "2023-08-26T20:59:32.0454613+00:00",
+  "LastUpdate_Achievements": "2023-08-26T21:08:07.7440884+00:00"
 }

@@ -55,10 +55,10 @@ Rating: 4.43 (Ranked 663)
 | Alpha Editor | 0.90% | ~12 |
 | Fratricide | 0.90% | ~12 |
 | QA Has Suffered! (Redux) | 0.80% | ~11 |
-| Goaaaaal! | 0.60% | ~8 |
+| Goaaaaal! | 0.70% | ~10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,376 (Ranked 188)  
-Completed: 0 (0.00%) (Ranked 264)  
+Completed: 0 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

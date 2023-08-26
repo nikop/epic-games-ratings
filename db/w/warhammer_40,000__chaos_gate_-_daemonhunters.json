@@ -6,9 +6,9 @@
   "Ranking_Popularity": 264,
   "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 157,
-  "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_Completed": 265,
+  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -714,7 +714,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3165,
+  "EOS_Progressed": 3166,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
@@ -3174,6 +3174,11 @@
       "Time": "2023-08-26T19:03:50.9607711+00:00",
       "NumProgressed": 3165,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-26T21:04:42.0433862+00:00",
+      "NumProgressed": 3166,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -3207,9 +3212,9 @@
       "ID": "BloodAndIron",
       "SetID": "2im8phi",
       "Name": "Blood and Iron",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "CampaignVictory_Day500",
@@ -3728,21 +3733,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3165,
+      "Progressed": 3166,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3165,
+      "Progressed": 3166,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-08-23T16:01:12.805504+00:00",
-  "LastChanged_Achievements": "2023-08-26T20:03:46.328215+00:00",
+  "LastChanged_Achievements": "2023-08-26T21:04:42.0433857+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:34.0520406+00:00",
-  "LastUpdate_Ratings": "2023-08-26T19:57:04.6159191+00:00",
-  "LastUpdate_Achievements": "2023-08-26T20:03:46.328367+00:00"
+  "LastUpdate_Ratings": "2023-08-26T20:57:24.5913291+00:00",
+  "LastUpdate_Achievements": "2023-08-26T21:04:42.0435238+00:00"
 }

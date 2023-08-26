@@ -3,9 +3,9 @@
   "Name": "GPRO - Classic racing manager",
   "ProductSlug": "classic-racing-manager-679706",
   "Ranking_EOS_Progress": 265,
-  "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_Completed": 265,
+  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-10T08:00:00+00:00",
     "PcReleaseDate": "2023-02-12T11:00:00+00:00",
@@ -856,9 +856,9 @@
       "ID": "ACHIEVEMENT_188",
       "SetID": "76k7b7p",
       "Name": "Amateur hitchhiker",
-      "Percentage": 3,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHIEVEMENT_189",
@@ -1424,9 +1424,9 @@
       "ID": "ACHIEVEMENT_307",
       "SetID": "76k7b7p",
       "Name": "Reliability expert",
-      "Percentage": 0.3,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_308",
@@ -2023,8 +2023,8 @@
   ],
   "FirstSeen": "2023-05-11T01:55:52.8280898+00:00",
   "FirstSeenAchievements": "2023-05-05T09:00:44.9178133+00:00",
-  "LastChanged_Achievements": "2023-08-26T20:04:10.0384213+00:00",
+  "LastChanged_Achievements": "2023-08-26T21:05:17.0786051+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:15.7945898+00:00",
-  "LastUpdate_Ratings": "2023-08-26T19:59:27.2403366+00:00",
-  "LastUpdate_Achievements": "2023-08-26T20:04:10.0387917+00:00"
+  "LastUpdate_Ratings": "2023-08-26T21:00:55.5477591+00:00",
+  "LastUpdate_Achievements": "2023-08-26T21:05:17.0789596+00:00"
 }
