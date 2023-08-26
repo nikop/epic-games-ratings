@@ -4,11 +4,11 @@
   "ProductSlug": "galactic-civilizations-iv",
   "Ranking_Rating": 876,
   "Ranking_Popularity": 349,
-  "Ranking_PopularitySum": 282,
+  "Ranking_PopularitySum": 281,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -796,10 +796,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 674,
       "NumberOfAwardsMax": 93
+    },
+    {
+      "Time": "2023-08-26T19:00:34.0430323+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 675,
+      "NumberOfAwardsMax": 93
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 674,
+  "NumberOfAwards": 675,
   "NumberOfAwardsMax": 93,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -861,10 +867,10 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 28
+      "Count": 29
     }
   ],
-  "EOS_Progressed": 6468,
+  "EOS_Progressed": 6469,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
@@ -5439,6 +5445,11 @@
       "Time": "2023-08-26T15:05:44.0941256+00:00",
       "NumProgressed": 6468,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-26T19:05:58.1422251+00:00",
+      "NumProgressed": 6469,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -5554,7 +5565,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 5110
+      "UsersEstimate": 5111
     },
     {
       "ID": "First_Race_Met",
@@ -5586,7 +5597,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5045
+      "UsersEstimate": 5046
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -5770,7 +5781,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 4010
+      "UsersEstimate": 4011
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -5786,7 +5797,7 @@
       "Name": "Galactic War",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     },
     {
       "ID": "War_Without_Translator",
@@ -5946,7 +5957,7 @@
       "Name": "Fleet Victory",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "Win_Conquest",
@@ -6025,15 +6036,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6468,
+      "Progressed": 6469,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
-  "LastChanged": "2023-08-16T06:59:13.2863126+00:00",
-  "LastChanged_Achievements": "2023-08-26T18:05:04.3879277+00:00",
+  "LastChanged": "2023-08-26T19:00:34.0430321+00:00",
+  "LastChanged_Achievements": "2023-08-26T19:05:58.1422244+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:37.9728429+00:00",
-  "LastUpdate_Ratings": "2023-08-26T17:59:45.4542116+00:00",
-  "LastUpdate_Achievements": "2023-08-26T18:05:04.3880149+00:00"
+  "LastUpdate_Ratings": "2023-08-26T19:00:34.043033+00:00",
+  "LastUpdate_Achievements": "2023-08-26T19:05:58.1423569+00:00"
 }

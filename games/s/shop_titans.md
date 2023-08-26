@@ -1,7 +1,7 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 939)  
+Rating: 3.99 (Ranked 938)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~135 |
 | Cash Only Please | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,175 (Ranked 66)  
+Progressed: 135,180 (Ranked 66)  
 Completed: 138 (0.10%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 138 (0.10%) (Ranked 211)
 | 2023-08-23 | 134,997 | 138 |
 | 2023-08-24 | 135,040 | 138 |
 | 2023-08-25 | 135,108 | 138 |
-| 2023-08-26 | 135,175 | 138 |
+| 2023-08-26 | 135,180 | 138 |
 ## Awards
 Max (Great for Beginners): 4,716  (Ranked 71)  
 Sum: 27,141 (Ranked 47)  

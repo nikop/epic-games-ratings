@@ -31,7 +31,7 @@
 | Get Electrified | 20.00% | ~67 |
 | Rehab Expert | 19.00% | ~63 |
 | Tasty Profits | 18.00% | ~60 |
-| Established Fame | 16.00% | ~53 |
+| Established Fame | 17.00% | ~57 |
 | Cashflow Chief | 16.00% | ~53 |
 | Under One Roof | 15.00% | ~50 |
 | Starred Dining | 15.00% | ~50 |
@@ -45,9 +45,9 @@
 | Plaza Plan | 9.00% | ~30 |
 | Master of Puppets | 9.00% | ~30 |
 | Refined Palates | 9.00% | ~30 |
+| Phoning It In | 9.00% | ~30 |
 | First 100 Days | 8.00% | ~27 |
 | Water Features | 8.00% | ~27 |
-| Phoning It In | 8.00% | ~27 |
 | Careful Constructor | 7.00% | ~23 |
 | Meet Me at HQ | 7.00% | ~23 |
 | Maximum Reuse | 7.00% | ~23 |

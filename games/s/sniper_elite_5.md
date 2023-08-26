@@ -5,21 +5,21 @@ Rating: 4.45 (Ranked 634)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 46.00% | ~1,624 |
-| Confirming Suspicions | 40.00% | ~1,412 |
-| The Kraken Wakes | 36.00% | ~1,271 |
+| Meeting Resistance | 46.00% | ~1,625 |
+| Confirming Suspicions | 40.00% | ~1,413 |
+| The Kraken Wakes | 36.00% | ~1,272 |
 | It's Starting to Crack | 32.00% | ~1,130 |
-| Change the Channel | 30.00% | ~1,059 |
+| Change the Channel | 30.00% | ~1,060 |
 | Lord of War | 29.00% | ~1,024 |
-| Taking it back | 27.00% | ~953 |
+| Taking it back | 27.00% | ~954 |
 | Resourceful | 26.00% | ~918 |
-| Target America | 25.00% | ~882 |
+| Target America | 25.00% | ~883 |
 | The Kraken Sleeps | 23.00% | ~812 |
 | Organ Grinder | 22.00% | ~777 |
 | As Quiet as a Mouse | 22.00% | ~777 |
-| Liberté | 21.00% | ~741 |
-| Sharpshooter | 21.00% | ~741 |
-| Explosive Efficiency | 18.00% | ~635 |
+| Liberté | 21.00% | ~742 |
+| Sharpshooter | 21.00% | ~742 |
+| Explosive Efficiency | 18.00% | ~636 |
 | Gunslinger | 17.00% | ~600 |
 | Just a Flesh Wound | 16.00% | ~565 |
 | Climbing the Ladder | 15.00% | ~530 |
@@ -36,11 +36,11 @@ Rating: 4.45 (Ranked 634)
 | Set Europe Ablaze | 12.00% | ~424 |
 | Precision Is Key | 9.00% | ~318 |
 | My Little Friend | 9.00% | ~318 |
-| Rigged to Blow | 8.00% | ~282 |
+| Rigged to Blow | 8.00% | ~283 |
 | Herr Today, Gone Tomorrow | 6.00% | ~209 |
-| The Long Game | 5.00% | ~176 |
-| It'll Buff Right Out | 5.00% | ~176 |
-| Don't hold your breath | 5.00% | ~176 |
+| The Long Game | 5.00% | ~177 |
+| It'll Buff Right Out | 5.00% | ~177 |
+| Don't hold your breath | 5.00% | ~177 |
 | Operation Foxley | 5.00% | ~174 |
 | Strategist | 4.00% | ~141 |
 | Tinkerer | 4.00% | ~141 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 634)
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,530 (Ranked 153)  
+Progressed: 3,532 (Ranked 153)  
 Completed: 9 (0.25%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 9 (0.25%) (Ranked 180)
 | 2023-08-23 | 3,521 | 9 |
 | 2023-08-24 | 3,525 | 9 |
 | 2023-08-25 | 3,527 | 9 |
-| 2023-08-26 | 3,530 | 9 |
+| 2023-08-26 | 3,532 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

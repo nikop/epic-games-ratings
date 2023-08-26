@@ -2,13 +2,13 @@
   "ID": "489c2ca47aaa4190b694184b979d3b23",
   "Name": "The First Tree",
   "ProductSlug": "the-first-tree",
-  "Ranking_Rating": 944,
+  "Ranking_Rating": 943,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -244,9 +244,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 35336,
+  "EOS_Progressed": 35339,
   "EOS_Completed": 108,
-  "EOS_NewPlayers": 280,
+  "EOS_NewPlayers": 283,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -11979,6 +11979,11 @@
       "Time": "2023-08-26T18:06:24.0213603+00:00",
       "NumProgressed": 35336,
       "NumCompleted": 108
+    },
+    {
+      "Time": "2023-08-26T19:07:31.3359193+00:00",
+      "NumProgressed": 35339,
+      "NumCompleted": 108
     }
   ],
   "TotalAchievements": 14,
@@ -12006,7 +12011,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 9187
+      "UsersEstimate": 9188
     },
     {
       "ID": "allItems",
@@ -12038,7 +12043,7 @@
       "Name": "Joseph",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 3180
+      "UsersEstimate": 3181
     },
     {
       "ID": "completionist",
@@ -12062,7 +12067,7 @@
       "Name": "Hummed of Mystery",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 1413
+      "UsersEstimate": 1414
     },
     {
       "ID": "firstBunny",
@@ -12070,7 +12075,7 @@
       "Name": "Hare Today",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 8834
+      "UsersEstimate": 8835
     },
     {
       "ID": "firstItem",
@@ -12078,7 +12083,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 27209
+      "UsersEstimate": 27211
     },
     {
       "ID": "roots",
@@ -12086,7 +12091,7 @@
       "Name": "The Way Forward",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 6007
+      "UsersEstimate": 6008
     },
     {
       "ID": "secretItem",
@@ -12101,15 +12106,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 35336,
+      "Progressed": 35339,
       "Completed": 108
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-07-24T04:01:31.3679912+00:00",
-  "LastChanged_Achievements": "2023-08-26T18:06:24.0213598+00:00",
+  "LastChanged_Achievements": "2023-08-26T19:07:31.3359186+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:58:04.8556471+00:00",
-  "LastUpdate_Ratings": "2023-08-26T17:58:43.3152075+00:00",
-  "LastUpdate_Achievements": "2023-08-26T18:06:24.0214231+00:00"
+  "LastUpdate_Ratings": "2023-08-26T18:59:15.4786174+00:00",
+  "LastUpdate_Achievements": "2023-08-26T19:07:31.3360718+00:00"
 }

@@ -17,11 +17,11 @@ Rating: 4.60 (Ranked 392)
 | The Harder They Fall | 18.00% | ~151 |
 | No, Thanks! | 18.00% | ~151 |
 | Breaking Down Barriers | 18.00% | ~151 |
+| Honest Mistake | 18.00% | ~151 |
 | Fast Learner | 18.00% | ~151 |
 | Immaculate Aim | 18.00% | ~151 |
 | The Betrayer | 17.00% | ~143 |
 | The Wicked Twins | 17.00% | ~143 |
-| Honest Mistake | 17.00% | ~143 |
 | Golem Chaser | 17.00% | ~143 |
 | Like Clockwork | 16.00% | ~135 |
 | The Man Who Shattered Time | 16.00% | ~135 |
@@ -60,7 +60,7 @@ Rating: 4.60 (Ranked 392)
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 841 (Ranked 209)  
-Completed: 5 (0.59%) (Ranked 139)  
+Completed: 5 (0.59%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

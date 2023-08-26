@@ -4,11 +4,11 @@
   "ProductSlug": "rising-hell-253707",
   "Ranking_Rating": 687,
   "Ranking_Popularity": 372,
-  "Ranking_PopularitySum": 285,
+  "Ranking_PopularitySum": 284,
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-02-11T00:00:00+00:00",
     "PcReleaseDate": "2021-05-19T00:00:00+00:00",
@@ -288,10 +288,16 @@
       "Rating": 4.41,
       "NumberOfAwards": 666,
       "NumberOfAwardsMax": 74
+    },
+    {
+      "Time": "2023-08-26T19:00:43.4734338+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 667,
+      "NumberOfAwardsMax": 74
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 666,
+  "NumberOfAwards": 667,
   "NumberOfAwardsMax": 74,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -353,7 +359,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 57
+      "Count": 58
     },
     {
       "Text": "This game has Unique Visuals",
@@ -386,8 +392,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:41.1401015+00:00",
   "FirstSeenRating": "2022-10-07T17:01:28.5689964+00:00",
-  "LastChanged": "2023-08-04T09:58:26.3770042+00:00",
+  "LastChanged": "2023-08-26T19:00:43.4734337+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:24.981876+00:00",
-  "LastUpdate_Ratings": "2023-08-26T17:59:52.1350409+00:00",
-  "LastUpdate_Achievements": "2023-08-26T18:05:59.5543614+00:00"
+  "LastUpdate_Ratings": "2023-08-26T19:00:43.4734343+00:00",
+  "LastUpdate_Achievements": "2023-08-26T19:07:03.300539+00:00"
 }

@@ -1,7 +1,7 @@
 # Zombie Rollerz: Pinball Heroes
 [Store](https://store.epicgames.com/en-US/p/zombie-rollerz-7aa027)  
 [View Rawdata](../../db/z/zombie_rollerz__pinball_heroes.json)  
-Rating: 4.30 (Ranked 795)  
+Rating: 4.30 (Ranked 793)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -80,7 +80,7 @@ Rating: 4.30 (Ranked 795)
 | Zombie Exterminator | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 145 (Ranked 313)  
-Completed: 1 (0.69%) (Ranked 132)  
+Completed: 1 (0.69%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

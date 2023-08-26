@@ -4,11 +4,11 @@
   "ProductSlug": "alien-isolation",
   "Ranking_Rating": 367,
   "Ranking_Popularity": 311,
-  "Ranking_PopularitySum": 244,
+  "Ranking_PopularitySum": 245,
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2020-12-21T16:00:00+00:00",
     "PcReleaseDate": "2020-12-21T16:00:00+00:00",
@@ -2084,6 +2084,6 @@
   "FirstSeen": "2022-07-22T20:18:09.3145857+00:00",
   "LastChanged": "2023-08-25T22:00:45.0980541+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:48.1751518+00:00",
-  "LastUpdate_Ratings": "2023-08-26T18:00:10.0463118+00:00",
-  "LastUpdate_Achievements": "2023-08-26T18:07:11.2684181+00:00"
+  "LastUpdate_Ratings": "2023-08-26T19:01:06.0547653+00:00",
+  "LastUpdate_Achievements": "2023-08-26T19:08:02.7564388+00:00"
 }

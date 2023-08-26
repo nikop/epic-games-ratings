@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 39,
+  "Ranking_EOS_NewPlayers": 40,
   "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -6112,9 +6112,9 @@
       "Count": 3373
     }
   ],
-  "EOS_Progressed": 225156,
+  "EOS_Progressed": 225167,
   "EOS_Completed": 2218,
-  "EOS_NewPlayers": 1777,
+  "EOS_NewPlayers": 1775,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -20152,6 +20152,11 @@
       "Time": "2023-08-26T18:06:34.968839+00:00",
       "NumProgressed": 225156,
       "NumCompleted": 2218
+    },
+    {
+      "Time": "2023-08-26T19:07:45.2617655+00:00",
+      "NumProgressed": 225167,
+      "NumCompleted": 2218
     }
   ],
   "TotalAchievements": 516,
@@ -21027,7 +21032,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "objective_completed_1203",
@@ -21955,7 +21960,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "objective_completed_390",
@@ -22027,7 +22032,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "objective_completed_40",
@@ -22299,7 +22304,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "objective_completed_54",
@@ -22929,9 +22934,9 @@
       "ID": "objective_completed_630",
       "SetID": "415jc5c",
       "Name": "Into The Fire",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 191
+      "UsersEstimate": 383
     },
     {
       "ID": "objective_completed_631",
@@ -23379,7 +23384,7 @@
       "Name": "Friendly Imps",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "objective_completed_80",
@@ -24290,21 +24295,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 191430,
+      "Progressed": 191441,
       "Completed": 3308
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 225156,
+      "Progressed": 225167,
       "Completed": 2218
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-26T13:02:55.9721236+00:00",
-  "LastChanged_Achievements": "2023-08-26T18:06:34.9688387+00:00",
+  "LastChanged_Achievements": "2023-08-26T19:07:45.261765+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:53.3345914+00:00",
-  "LastUpdate_Ratings": "2023-08-26T18:00:14.7048061+00:00",
-  "LastUpdate_Achievements": "2023-08-26T18:06:34.9713351+00:00"
+  "LastUpdate_Ratings": "2023-08-26T19:01:11.1637772+00:00",
+  "LastUpdate_Achievements": "2023-08-26T19:07:45.2653463+00:00"
 }

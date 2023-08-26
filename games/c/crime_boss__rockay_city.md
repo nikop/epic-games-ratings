@@ -1,23 +1,23 @@
 # Crime Boss: Rockay City
 [Store](https://store.epicgames.com/en-US/p/crime-boss)  
 [View Rawdata](../../db/c/crime_boss__rockay_city.json)  
-Rating: 3.94 (Ranked 951)  
+Rating: 3.94 (Ranked 950)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~53,534 |
-| First One’s Free | 65.00% | ~47,023 |
+| Downed but Not Outed | 74.00% | ~53,535 |
+| First One’s Free | 65.00% | ~47,024 |
 | Neophyte Ninja | 50.00% | ~36,172 |
-| Too Old for This | 48.00% | ~34,725 |
-| Case Closed | 35.00% | ~25,320 |
-| Fancy Pants | 35.00% | ~25,320 |
+| Too Old for This | 48.00% | ~34,726 |
+| Case Closed | 35.00% | ~25,321 |
+| Fancy Pants | 35.00% | ~25,321 |
 | King of the Hill | 34.00% | ~24,597 |
-| Underworld Initiate | 29.00% | ~20,979 |
+| Underworld Initiate | 29.00% | ~20,980 |
 | Roid Ranger | 21.00% | ~15,192 |
 | Off the Rocks | 20.00% | ~14,469 |
-| True Player | 19.00% | ~13,745 |
-| Raider’s Ruin | 17.00% | ~12,298 |
-| Dragonslayer | 17.00% | ~12,298 |
+| True Player | 19.00% | ~13,746 |
+| Raider’s Ruin | 17.00% | ~12,299 |
+| Dragonslayer | 17.00% | ~12,299 |
 | Hidden Sonata | 13.00% | ~9,405 |
 | Rockay Rex | 11.00% | ~7,958 |
 | Track Star | 10.00% | ~7,234 |
@@ -25,7 +25,7 @@ Rating: 3.94 (Ranked 951)
 | Headhunter | 9.00% | ~6,511 |
 | Ding Dong | 9.00% | ~6,511 |
 | Classy Joint | 9.00% | ~6,511 |
-| I Like Trains | 8.00% | ~5,787 |
+| I Like Trains | 8.00% | ~5,788 |
 | Foo Finder | 7.00% | ~5,064 |
 | Savvy Seeker | 6.00% | ~4,341 |
 | Legend Looter | 5.00% | ~3,617 |
@@ -43,7 +43,7 @@ Rating: 3.94 (Ranked 951)
 | Geek Out | 0.60% | ~434 |
 | Full House | 0.20% | ~145 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,343 (Ranked 79)  
+Progressed: 72,345 (Ranked 79)  
 Completed: 42 (0.06%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 42 (0.06%) (Ranked 226)
 | 2023-08-23 | 72,253 | 41 |
 | 2023-08-24 | 72,287 | 41 |
 | 2023-08-25 | 72,307 | 42 |
-| 2023-08-26 | 72,343 | 42 |
+| 2023-08-26 | 72,345 | 42 |
 ## Awards
 Max (Diverse Characters): 407  (Ranked 215)  
 Sum: 1,936 (Ranked 203)  

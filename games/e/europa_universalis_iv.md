@@ -6,43 +6,43 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~14,881 |
-| That's a Grand Army | 3.00% | ~11,161 |
-| That is mine! | 3.00% | ~11,161 |
-| Victorious! | 3.00% | ~11,161 |
-| Brothers in Arms | 2.00% | ~7,441 |
-| That's a Grand Navy | 2.00% | ~7,441 |
-| Seriously?! | 2.00% | ~7,441 |
-| Cold War | 1.00% | ~3,720 |
-| Defender of the Faith | 1.00% | ~3,720 |
-| For the Glory | 1.00% | ~3,720 |
-| It's all about the money | 1.00% | ~3,720 |
-| True Catholic | 1.00% | ~3,720 |
-| The Princess is in this Castle | 0.90% | ~3,348 |
-| It's all about luck | 0.80% | ~2,976 |
-| Respected | 0.80% | ~2,976 |
-| Truly Divine Ruler | 0.80% | ~2,976 |
-| Blockader | 0.70% | ~2,604 |
-| Double the Love | 0.70% | ~2,604 |
-| Royal Authority | 0.60% | ~2,232 |
-| Total Control | 0.60% | ~2,232 |
-| Combined Arms | 0.50% | ~1,860 |
-| My armies are invincible! | 0.50% | ~1,860 |
-| Agressive Expander | 0.40% | ~1,488 |
-| Azur semé de lis or | 0.40% | ~1,488 |
-| City of Cities | 0.40% | ~1,488 |
-| Gentle Persuasion | 0.40% | ~1,488 |
-| Queen of Conquest | 0.40% | ~1,488 |
-| This navy can take it all | 0.40% | ~1,488 |
-| All That's Thine Shall Be Mine | 0.30% | ~1,116 |
-| Bright Spark | 0.30% | ~1,116 |
-| The Emperors new clothes | 0.30% | ~1,116 |
-| Factionalism | 0.30% | ~1,116 |
-| A Golden Empire | 0.30% | ~1,116 |
-| Isn't this the way to India? | 0.30% | ~1,116 |
-| Market Control | 0.30% | ~1,116 |
-| The Five Colonies | 0.30% | ~1,116 |
-| Trustworthy | 0.30% | ~1,116 |
+| Until death do us apart | 4.00% | ~14,888 |
+| That's a Grand Army | 3.00% | ~11,166 |
+| That is mine! | 3.00% | ~11,166 |
+| Victorious! | 3.00% | ~11,166 |
+| Brothers in Arms | 2.00% | ~7,444 |
+| That's a Grand Navy | 2.00% | ~7,444 |
+| Seriously?! | 2.00% | ~7,444 |
+| Cold War | 1.00% | ~3,722 |
+| Defender of the Faith | 1.00% | ~3,722 |
+| For the Glory | 1.00% | ~3,722 |
+| It's all about the money | 1.00% | ~3,722 |
+| True Catholic | 1.00% | ~3,722 |
+| The Princess is in this Castle | 0.90% | ~3,350 |
+| It's all about luck | 0.80% | ~2,978 |
+| Respected | 0.80% | ~2,978 |
+| Truly Divine Ruler | 0.80% | ~2,978 |
+| Blockader | 0.70% | ~2,605 |
+| Double the Love | 0.70% | ~2,605 |
+| Royal Authority | 0.60% | ~2,233 |
+| Total Control | 0.60% | ~2,233 |
+| Combined Arms | 0.50% | ~1,861 |
+| My armies are invincible! | 0.50% | ~1,861 |
+| Agressive Expander | 0.40% | ~1,489 |
+| Azur semé de lis or | 0.40% | ~1,489 |
+| City of Cities | 0.40% | ~1,489 |
+| Gentle Persuasion | 0.40% | ~1,489 |
+| Queen of Conquest | 0.40% | ~1,489 |
+| This navy can take it all | 0.40% | ~1,489 |
+| All That's Thine Shall Be Mine | 0.30% | ~1,117 |
+| Bright Spark | 0.30% | ~1,117 |
+| The Emperors new clothes | 0.30% | ~1,117 |
+| Factionalism | 0.30% | ~1,117 |
+| A Golden Empire | 0.30% | ~1,117 |
+| Isn't this the way to India? | 0.30% | ~1,117 |
+| Market Control | 0.30% | ~1,117 |
+| The Five Colonies | 0.30% | ~1,117 |
+| Trustworthy | 0.30% | ~1,117 |
 | All belongs to Mother Russia | 0.20% | ~744 |
 | At every continent | 0.20% | ~744 |
 | Down Under | 0.20% | ~744 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 372,030 (Ranked 41)  
+Progressed: 372,197 (Ranked 41)  
 Completed: 0 (0.00%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -489,14 +489,14 @@ Completed: 0 (0.00%) (Ranked 264)
 | 2023-08-23 | 363,609 | 0 |
 | 2023-08-24 | 366,536 | 0 |
 | 2023-08-25 | 369,495 | 0 |
-| 2023-08-26 | 372,030 | 0 |
+| 2023-08-26 | 372,197 | 0 |
 ## Awards
-Max (Educational): 5,784  (Ranked 60)  
-Sum: 47,784 (Ranked 26)  
+Max (Educational): 5,793  (Ranked 60)  
+Sum: 47,793 (Ranked 26)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 5,784 |
+| This game is Educational | 5,793 |
 | This game is Highly Recommended | 5,539 |
 | This game has Challenging Combat | 5,506 |
 | This game is Extremely Fun | 5,506 |
@@ -730,4 +730,4 @@ Diff (max vs sum): 34
 | 2023-08-23 | 4.68 | - | 5,760 | 47,537 |
 | 2023-08-24 | 4.68 | - | 5,772 | 47,623 |
 | 2023-08-25 | 4.68 | - | 5,784 | 47,705 |
-| 2023-08-26 | 4.68 | - | 5,784 | 47,784 |
+| 2023-08-26 | 4.68 | - | 5,793 | 47,793 |

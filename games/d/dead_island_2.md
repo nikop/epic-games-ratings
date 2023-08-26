@@ -7,7 +7,9 @@ Rating: 4.54 (Ranked 502)
 | ---- | ---------- | ----- |
 | Dr. Reed, I Presume? | 0.20% | ~1,332 |
 | Git Gutte! | 0.20% | ~1,332 |
+| Bookworm | 0.20% | ~1,332 |
 | Break A Leg | 0.20% | ~1,332 |
+| But Doctor, I am Butcho | 0.20% | ~1,332 |
 | Coup de Grâce | 0.20% | ~1,332 |
 | Hazardous Materials | 0.20% | ~1,332 |
 | Friends Like These | 0.20% | ~1,332 |
@@ -22,10 +24,8 @@ Rating: 4.54 (Ranked 502)
 | Make it So | 0.10% | ~666 |
 | LA Influential | 0.10% | ~666 |
 | Perks of the Job | 0.10% | ~666 |
-| Bookworm | 0.10% | ~666 |
 | On Safari | 0.10% | ~666 |
 | I Got a Zombie Army and You Can't Harm Me | 0.10% | ~666 |
-| But Doctor, I am Butcho | 0.10% | ~666 |
 | Slayer Squad | 0.10% | ~666 |
 | Smorgasbord | 0.10% | ~666 |
 | Can't Handle the Truth | 0.10% | ~666 |
@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 502)
 | Rising Star | 0.10% | ~666 |
 | Bucket List | 0.10% | ~666 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 666,001 (Ranked 22)  
-Completed: 2,075 (0.31%) (Ranked 172)  
+Progressed: 666,049 (Ranked 22)  
+Completed: 2,076 (0.31%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -179,7 +179,7 @@ Completed: 2,075 (0.31%) (Ranked 172)
 | 2023-08-23 | 663,691 | 2,054 |
 | 2023-08-24 | 664,478 | 2,059 |
 | 2023-08-25 | 665,272 | 2,068 |
-| 2023-08-26 | 666,001 | 2,075 |
+| 2023-08-26 | 666,049 | 2,076 |
 ## Awards
 Max (Great Boss Battles): 5,770  (Ranked 61)  
 Sum: 8,490 (Ranked 97)  

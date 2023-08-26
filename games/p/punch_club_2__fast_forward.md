@@ -41,19 +41,19 @@
 | Fight is life | 46.00% | ~123 |
 | Mysterious voice | 46.00% | ~123 |
 | No blades in the gym | 45.00% | ~121 |
-| Champion – no way back | 41.00% | ~110 |
+| Champion – no way back | 42.00% | ~113 |
 | Responsible approach | 41.00% | ~110 |
+| Poisoned fighter | 40.00% | ~107 |
 | Underground dwellers | 40.00% | ~107 |
 | Your own way | 40.00% | ~107 |
 | Deal with life | 39.00% | ~105 |
 | GYM professional | 39.00% | ~105 |
-| Poisoned fighter | 39.00% | ~105 |
 | Mom got better | 38.00% | ~102 |
 | Get out of my apartment! | 38.00% | ~102 |
 | The die is cast | 38.00% | ~102 |
 | Seashell hunter | 37.00% | ~99 |
 | Gang wrangler | 35.00% | ~94 |
-| Problems of cyborgs | 34.00% | ~91 |
+| Problems of cyborgs | 35.00% | ~94 |
 | Undercover robot | 34.00% | ~91 |
 | Not little hacker | 33.00% | ~88 |
 | Absolute Champion! | 33.00% | ~88 |

@@ -6,14 +6,14 @@ Number of Ratings: 274  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| VANGUARD | 41.00% | ~94,504 |
-| NATURAL BORN WINNER | 33.00% | ~76,064 |
-| CALLING HOUSTON | 28.00% | ~64,539 |
-| SNEAKY SNEAKY | 22.00% | ~50,710 |
-| TRICK UP YOUR SLEEVE | 22.00% | ~50,710 |
-| GT9STRADALE | 20.00% | ~46,100 |
-| CHALLENGER | 11.00% | ~25,355 |
-| ON A ROLL | 9.00% | ~20,745 |
+| VANGUARD | 41.00% | ~94,507 |
+| NATURAL BORN WINNER | 33.00% | ~76,067 |
+| CALLING HOUSTON | 28.00% | ~64,542 |
+| SNEAKY SNEAKY | 22.00% | ~50,711 |
+| TRICK UP YOUR SLEEVE | 22.00% | ~50,711 |
+| GT9STRADALE | 20.00% | ~46,101 |
+| CHALLENGER | 11.00% | ~25,356 |
+| ON A ROLL | 9.00% | ~20,746 |
 | CENTAUR | 8.00% | ~18,440 |
 | FASTER THAN EVER | 8.00% | ~18,440 |
 | CHALLENGE THE WORLD | 7.00% | ~16,135 |
@@ -26,11 +26,11 @@ Number of Ratings: 274  (23.09.2022)
 | RESPWND | 2.00% | ~4,610 |
 | SHINY SHINY GOLD | 2.00% | ~4,610 |
 | HARDCORE | 1.00% | ~2,305 |
-| ACE | 0.70% | ~1,613 |
+| ACE | 0.70% | ~1,614 |
 | TACTICIAN | 0.60% | ~1,383 |
-| GTX COMPETIZIONE | 0.50% | ~1,152 |
-| HIDDEN POWER | 0.50% | ~1,152 |
-| TUNING MANIAC | 0.50% | ~1,152 |
+| GTX COMPETIZIONE | 0.50% | ~1,153 |
+| HIDDEN POWER | 0.50% | ~1,153 |
+| TUNING MANIAC | 0.50% | ~1,153 |
 | DRAGOON | 0.40% | ~922 |
 | FLAWLESS | 0.40% | ~922 |
 | BETTER THAN EVER | 0.20% | ~461 |
@@ -39,9 +39,9 @@ Number of Ratings: 274  (23.09.2022)
 | NOBUNAGA | 0.20% | ~461 |
 | ODIN | 0.20% | ~461 |
 | PILE UP TROPHIES | 0.20% | ~461 |
-| ENLIGHTENED | 0.10% | ~230 |
+| ENLIGHTENED | 0.10% | ~231 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,498 (Ranked 51)  
+Progressed: 230,506 (Ranked 51)  
 Completed: 46 (0.02%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 46 (0.02%) (Ranked 244)
 | 2023-08-23 | 230,296 | 46 |
 | 2023-08-24 | 230,356 | 46 |
 | 2023-08-25 | 230,434 | 46 |
-| 2023-08-26 | 230,498 | 46 |
+| 2023-08-26 | 230,506 | 46 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

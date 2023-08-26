@@ -13,11 +13,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mad Wizard | 0.50% | ~1,126 |
 | The Ring of Regeneration | 0.40% | ~901 |
 | To Infinity's and Beyond | 0.40% | ~766 |
-| Were-verpowered | 0.30% | ~675 |
-| Seeking Allies | 0.30% | ~675 |
-| Are Ya Chicken? | 0.30% | ~675 |
-| Mad Cow Disease | 0.30% | ~675 |
-| Friendly Imps | 0.30% | ~675 |
+| Were-verpowered | 0.30% | ~676 |
+| Seeking Allies | 0.30% | ~676 |
+| Are Ya Chicken? | 0.30% | ~676 |
+| Mad Cow Disease | 0.30% | ~676 |
+| Friendly Imps | 0.30% | ~676 |
 | The Chaotic Hunt for The Last Breath | 0.30% | ~574 |
 | There's a Flying Snake in my Boot! | 0.30% | ~574 |
 | Maddening | 0.20% | ~450 |
@@ -80,6 +80,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Running of the Saurs | 0.20% | ~450 |
 | The Contagious Curse | 0.20% | ~450 |
 | Resolve Amongst Chaos | 0.20% | ~450 |
+| Into The Fire | 0.20% | ~383 |
 | Escort to Waterdeep | 0.20% | ~450 |
 | The Giant's Bane Tavern | 0.20% | ~383 |
 | The Everlasting Rime | 0.20% | ~383 |
@@ -377,7 +378,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wait, What? | 0.10% | ~191 |
 | Ireena von Zarovich | 0.10% | ~191 |
 | Déjà Vu All Over Again | 0.10% | ~191 |
-| Into The Fire | 0.10% | ~191 |
 | A Difficult Descent | 0.10% | ~191 |
 | The Devil Arrives | 0.10% | ~191 |
 | Hearts Aflame | 0.10% | ~191 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~191 |
 | Animated Giff | 0.10% | ~191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,156 (Ranked 53)  
+Progressed: 225,167 (Ranked 53)  
 Completed: 2,218 (0.99%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -651,7 +651,7 @@ Completed: 2,218 (0.99%) (Ranked 120)
 | 2023-08-23 | 224,434 | 2,210 |
 | 2023-08-24 | 224,686 | 2,211 |
 | 2023-08-25 | 224,925 | 2,214 |
-| 2023-08-26 | 225,156 | 2,218 |
+| 2023-08-26 | 225,167 | 2,218 |
 ## Awards
 Max (Diverse Characters): 5,189  (Ranked 68)  
 Sum: 31,225 (Ranked 39)  

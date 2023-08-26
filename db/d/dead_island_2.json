@@ -3984,9 +3984,9 @@
       "Count": 325
     }
   ],
-  "EOS_Progressed": 666001,
-  "EOS_Completed": 2075,
-  "EOS_NewPlayers": 5823,
+  "EOS_Progressed": 666049,
+  "EOS_Completed": 2076,
+  "EOS_NewPlayers": 5816,
   "EOS_NewCompleters": 33,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -18209,6 +18209,11 @@
       "Time": "2023-08-26T18:03:24.4610204+00:00",
       "NumProgressed": 666001,
       "NumCompleted": 2075
+    },
+    {
+      "Time": "2023-08-26T19:03:48.2710709+00:00",
+      "NumProgressed": 666049,
+      "NumCompleted": 2076
     }
   ],
   "TotalAchievements": 45,
@@ -18274,9 +18279,9 @@
       "ID": "ach_bookworm",
       "SetID": "7km39fm",
       "Name": "Bookworm",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 666
+      "UsersEstimate": 1332
     },
     {
       "ID": "ach_break_a_leg",
@@ -18306,9 +18311,9 @@
       "ID": "ach_doctor_i_am_butcho",
       "SetID": "7km39fm",
       "Name": "But Doctor, I am Butcho",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 666
+      "UsersEstimate": 1332
     },
     {
       "ID": "ach_doom_buddies",
@@ -18579,16 +18584,16 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 666001,
-      "Completed": 2075
+      "Progressed": 666049,
+      "Completed": 2076
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-08-26T07:01:58.2614915+00:00",
-  "LastChanged_Achievements": "2023-08-26T18:03:24.46102+00:00",
+  "LastChanged_Achievements": "2023-08-26T19:03:48.2710701+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:11.0440218+00:00",
-  "LastUpdate_Ratings": "2023-08-26T18:00:26.1214258+00:00",
-  "LastUpdate_Achievements": "2023-08-26T18:03:24.4611132+00:00"
+  "LastUpdate_Ratings": "2023-08-26T19:01:25.9232084+00:00",
+  "LastUpdate_Achievements": "2023-08-26T19:03:48.2712903+00:00"
 }

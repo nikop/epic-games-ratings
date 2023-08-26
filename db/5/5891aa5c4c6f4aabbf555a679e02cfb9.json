@@ -4,8 +4,8 @@
   "ProductSlug": "the-evil-within-2",
   "Ranking_EOS_Progress": 368,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
     "PcReleaseDate": "2017-10-12T00:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57,
+  "EOS_Progressed": 58,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -282,6 +282,11 @@
       "Time": "2023-08-26T08:05:04.752168+00:00",
       "NumProgressed": 57,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-26T19:06:11.0526541+00:00",
+      "NumProgressed": 58,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T16:01:14.4921824+00:00",
@@ -324,7 +329,7 @@
       "ID": "ACHIEVEMENT_05",
       "SetID": "b36c5kb",
       "Name": "Welcome to Union",
-      "Percentage": 82,
+      "Percentage": 81,
       "XP": 5,
       "UsersEstimate": 47
     },
@@ -332,7 +337,7 @@
       "ID": "ACHIEVEMENT_06",
       "SetID": "b36c5kb",
       "Name": "Taken",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 10,
       "UsersEstimate": 25
     },
@@ -348,7 +353,7 @@
       "ID": "ACHIEVEMENT_08",
       "SetID": "b36c5kb",
       "Name": "The Team Psychologist",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
       "UsersEstimate": 18
     },
@@ -356,7 +361,7 @@
       "ID": "ACHIEVEMENT_09",
       "SetID": "b36c5kb",
       "Name": "Premature Finale",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 30,
       "UsersEstimate": 13
     },
@@ -364,7 +369,7 @@
       "ID": "ACHIEVEMENT_10",
       "SetID": "b36c5kb",
       "Name": "Another Ally",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
       "UsersEstimate": 14
     },
@@ -372,7 +377,7 @@
       "ID": "ACHIEVEMENT_11",
       "SetID": "b36c5kb",
       "Name": "Crossing to the Other Side",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
       "UsersEstimate": 14
     },
@@ -380,7 +385,7 @@
       "ID": "ACHIEVEMENT_12",
       "SetID": "b36c5kb",
       "Name": "Spiritual Awakening",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
       "UsersEstimate": 14
     },
@@ -388,7 +393,7 @@
       "ID": "ACHIEVEMENT_13",
       "SetID": "b36c5kb",
       "Name": "Fire Walk With Me",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
       "UsersEstimate": 10
     },
@@ -404,7 +409,7 @@
       "ID": "ACHIEVEMENT_15",
       "SetID": "b36c5kb",
       "Name": "Everything Comes Crumbling Down",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -420,7 +425,7 @@
       "ID": "ACHIEVEMENT_17",
       "SetID": "b36c5kb",
       "Name": "Backup Ain\u0027t Coming",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 15,
       "UsersEstimate": 21
     },
@@ -428,7 +433,7 @@
       "ID": "ACHIEVEMENT_18",
       "SetID": "b36c5kb",
       "Name": "Sykes Out",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -444,7 +449,7 @@
       "ID": "ACHIEVEMENT_20",
       "SetID": "b36c5kb",
       "Name": "You Got Red in You",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
       "UsersEstimate": 14
     },
@@ -460,7 +465,7 @@
       "ID": "ACHIEVEMENT_22",
       "SetID": "b36c5kb",
       "Name": "Making Things a Little Easier",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
       "UsersEstimate": 24
     },
@@ -468,7 +473,7 @@
       "ID": "ACHIEVEMENT_23",
       "SetID": "b36c5kb",
       "Name": "Now You\u0027re Playing with Power",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 20,
       "UsersEstimate": 14
     },
@@ -492,7 +497,7 @@
       "ID": "ACHIEVEMENT_26",
       "SetID": "b36c5kb",
       "Name": "DIY",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 10,
       "UsersEstimate": 38
     },
@@ -516,7 +521,7 @@
       "ID": "ACHIEVEMENT_29",
       "SetID": "b36c5kb",
       "Name": "Doing Some Detecting",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
       "UsersEstimate": 17
     },
@@ -548,7 +553,7 @@
       "ID": "ACHIEVEMENT_33",
       "SetID": "b36c5kb",
       "Name": "Good to See You Again",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 10,
       "UsersEstimate": 30
     },
@@ -588,7 +593,7 @@
       "ID": "ACHIEVEMENT_38",
       "SetID": "b36c5kb",
       "Name": "Thinning Them Out",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
       "UsersEstimate": 26
     },
@@ -596,7 +601,7 @@
       "ID": "ACHIEVEMENT_39",
       "SetID": "b36c5kb",
       "Name": "Clearing a Path",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 25,
       "UsersEstimate": 18
     },
@@ -628,7 +633,7 @@
       "ID": "ACHIEVEMENT_43",
       "SetID": "b36c5kb",
       "Name": "Kick, Shoot, Burn",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -701,14 +706,14 @@
     {
       "ID": "b36c5kb",
       "IsBase": true,
-      "Progressed": 57,
+      "Progressed": 58,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-08-26T18:05:15.2502136+00:00",
+  "LastChanged_Achievements": "2023-08-26T19:06:11.0526535+00:00",
   "LastUpdate_AppInfo": "2023-08-23T17:57:10.5850624+00:00",
-  "LastUpdate_Ratings": "2023-08-26T17:58:42.768871+00:00",
-  "LastUpdate_Achievements": "2023-08-26T18:05:15.2502489+00:00"
+  "LastUpdate_Ratings": "2023-08-26T18:59:13.9964452+00:00",
+  "LastUpdate_Achievements": "2023-08-26T19:06:11.0527063+00:00"
 }

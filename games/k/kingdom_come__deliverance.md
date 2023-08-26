@@ -6,22 +6,22 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~255,546 |
-| Cavalier | 25.00% | ~199,645 |
-| Fatso | 23.00% | ~183,673 |
-| Awakening | 21.00% | ~167,702 |
-| Ranger | 20.00% | ~159,716 |
-| Scrooge | 20.00% | ~159,716 |
-| Anorectic | 16.00% | ~127,773 |
-| Bookworm | 15.00% | ~119,787 |
-| Firestarter | 15.00% | ~119,787 |
-| Insomniac | 13.00% | ~103,815 |
+| Blacksmith's Son | 32.00% | ~255,548 |
+| Cavalier | 25.00% | ~199,647 |
+| Fatso | 23.00% | ~183,675 |
+| Awakening | 21.00% | ~167,703 |
+| Ranger | 20.00% | ~159,717 |
+| Scrooge | 20.00% | ~159,717 |
+| Anorectic | 16.00% | ~127,774 |
+| Bookworm | 15.00% | ~119,788 |
+| Firestarter | 15.00% | ~119,788 |
+| Insomniac | 13.00% | ~103,816 |
 | Buddy | 12.00% | ~95,830 |
 | Thief | 12.00% | ~95,830 |
-| Sinner | 11.00% | ~87,844 |
-| Traveller | 11.00% | ~87,844 |
-| Convict | 10.00% | ~79,858 |
-| Haggler | 9.00% | ~71,872 |
+| Sinner | 11.00% | ~87,845 |
+| Traveller | 11.00% | ~87,845 |
+| Convict | 10.00% | ~79,859 |
+| Haggler | 9.00% | ~71,873 |
 | McLovin | 7.00% | ~55,901 |
 | Runt | 7.00% | ~55,901 |
 | Casanova | 6.00% | ~47,915 |
@@ -31,10 +31,10 @@ Number of Ratings: 9,133  (23.09.2022)
 | Bastard | 4.00% | ~31,943 |
 | Hunter | 4.00% | ~31,943 |
 | Plague Doctor | 4.00% | ~31,943 |
-| Bard | 3.00% | ~23,957 |
-| Conqueror | 3.00% | ~23,957 |
-| Ginger in a Pickle | 3.00% | ~23,957 |
-| Kingdom did not come | 3.00% | ~23,957 |
+| Bard | 3.00% | ~23,958 |
+| Conqueror | 3.00% | ~23,958 |
+| Ginger in a Pickle | 3.00% | ~23,958 |
+| Kingdom did not come | 3.00% | ~23,958 |
 | Completionist | 2.00% | ~15,972 |
 | Death by splinter | 2.00% | ~15,972 |
 | King Charming | 2.00% | ~15,972 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Fighter | 0.70% | ~5,590 |
 | Mercenary's Honour | 0.70% | ~5,590 |
 | Saviour | 0.70% | ~5,590 |
-| Edward Kelly | 0.60% | ~4,791 |
+| Edward Kelly | 0.60% | ~4,792 |
 | I Can Quit Anytime | 0.50% | ~3,993 |
 | Perfectionist | 0.50% | ~3,993 |
 | Alcoholic | 0.30% | ~2,396 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~799 |
 | Wingman | 0.10% | ~799 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 798,580 (Ranked 16)  
+Progressed: 798,587 (Ranked 16)  
 Completed: 44 (0.01%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 44 (0.01%) (Ranked 251)
 | 2023-08-23 | 798,189 | 44 |
 | 2023-08-24 | 798,310 | 44 |
 | 2023-08-25 | 798,447 | 44 |
-| 2023-08-26 | 798,580 | 44 |
+| 2023-08-26 | 798,587 | 44 |
 ## Awards
 Max (Character Customization): 7,403  (Ranked 47)  
 Sum: 27,568 (Ranked 46)  

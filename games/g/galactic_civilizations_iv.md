@@ -6,12 +6,12 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 79.00% | ~5,110 |
-| Worker Specialization | 78.00% | ~5,045 |
+| Colonize a Planet | 79.00% | ~5,111 |
+| Worker Specialization | 78.00% | ~5,046 |
 | First Contact | 73.00% | ~4,722 |
 | Win a Battle | 67.00% | ~4,334 |
 | Anomaly Researcher | 63.00% | ~4,075 |
-| Unleash My Power | 62.00% | ~4,010 |
+| Unleash My Power | 62.00% | ~4,011 |
 | Own 30 Planets | 34.00% | ~2,199 |
 | Xenocide | 32.00% | ~2,070 |
 | Design a Civilization | 32.00% | ~2,070 |
@@ -19,9 +19,9 @@ Number of Ratings: 429  (23.09.2022)
 | Design a Ship | 28.00% | ~1,811 |
 | Commodity Seller | 25.00% | ~1,617 |
 | Prestige Victory! | 14.00% | ~906 |
-| Galactic War | 11.00% | ~711 |
+| Galactic War | 11.00% | ~712 |
 | Trading Partner | 9.00% | ~582 |
-| Fleet Victory | 8.00% | ~517 |
+| Fleet Victory | 8.00% | ~518 |
 | Win as Terrans | 7.00% | ~453 |
 | Gain an Ally | 6.00% | ~388 |
 | Win with a Custom Faction | 6.00% | ~388 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,468 (Ranked 138)  
+Progressed: 6,469 (Ranked 138)  
 Completed: 0 (0.00%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,11 +207,11 @@ Completed: 0 (0.00%) (Ranked 264)
 | 2023-08-23 | 6,446 | 0 |
 | 2023-08-24 | 6,455 | 0 |
 | 2023-08-25 | 6,462 | 0 |
-| 2023-08-26 | 6,468 | 0 |
+| 2023-08-26 | 6,469 | 0 |
 ## Awards
 Max (Diverse Characters): 93  (Ranked 349)  
-Sum: 674 (Ranked 282)  
-Diff (max vs sum): 67  
+Sum: 675 (Ranked 281)  
+Diff (max vs sum): 68  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 93 |
@@ -223,7 +223,7 @@ Diff (max vs sum): 67
 | This game has Competitive Players | 72 |
 | This game has Amazing Characters | 67 |
 | This game has Obsessive Gameplay | 50 |
-| This game has a Creative Community | 28 |
+| This game has a Creative Community | 29 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -331,3 +331,4 @@ Diff (max vs sum): 67
 | 2023-08-08 | 4.18 | - | 92 | 672 |
 | 2023-08-12 | 4.18 | - | 92 | 673 |
 | 2023-08-16 | 4.18 | - | 93 | 674 |
+| 2023-08-26 | 4.18 | - | 93 | 675 |

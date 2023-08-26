@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 148,
   "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -2404,9 +2404,9 @@
       "ID": "ACHV_21",
       "SetID": "8p5mlmc",
       "Name": "Stimulating The Local Economy",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 198
     },
     {
       "ID": "ACHV_22",
@@ -2709,8 +2709,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-08-11T22:58:17.9643661+00:00",
-  "LastChanged_Achievements": "2023-08-26T18:05:56.3900266+00:00",
+  "LastChanged_Achievements": "2023-08-26T19:06:59.8668987+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:10.7266559+00:00",
-  "LastUpdate_Ratings": "2023-08-26T17:58:54.5336402+00:00",
-  "LastUpdate_Achievements": "2023-08-26T18:05:56.390074+00:00"
+  "LastUpdate_Ratings": "2023-08-26T18:59:31.0481087+00:00",
+  "LastUpdate_Achievements": "2023-08-26T19:06:59.8669674+00:00"
 }

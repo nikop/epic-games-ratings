@@ -14,13 +14,13 @@
 | Somewhere Deep in the Lost Caribbean | 19.00% | ~97 |
 | Mirror Mirror on the Wall | 18.00% | ~91 |
 | Fishy Fish | 17.00% | ~86 |
-| Buccaneer | 14.00% | ~71 |
+| Buccaneer | 15.00% | ~76 |
 | Pirates Assemble! | 14.00% | ~71 |
 | Persistent Parasite | 12.00% | ~61 |
 | Seadog | 8.00% | ~41 |
+| All Good Things | 7.00% | ~36 |
 | Jaded Judge | 7.00% | ~36 |
 | Rustic Recipe | 7.00% | ~36 |
-| All Good Things | 6.00% | ~30 |
 | Lyrical Longing | 6.00% | ~30 |
 | Privateer | 5.00% | ~25 |
 | Tobacco Travesty | 5.00% | ~25 |
@@ -32,7 +32,7 @@
 | Welcome Back Jester | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 508 (Ranked 230)  
-Completed: 3 (0.59%) (Ranked 139)  
+Completed: 4 (0.79%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -52,4 +52,4 @@ Completed: 3 (0.59%) (Ranked 139)
 | 2023-08-23 | 465 | 0 |
 | 2023-08-24 | 485 | 0 |
 | 2023-08-25 | 499 | 0 |
-| 2023-08-26 | 508 | 3 |
+| 2023-08-26 | 508 | 4 |

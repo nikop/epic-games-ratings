@@ -4,8 +4,8 @@
   "ProductSlug": "merchant-of-the-skies",
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 273,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-04-13T15:00:00+00:00",
     "PcReleaseDate": "2019-07-30T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 941,
+  "EOS_Progressed": 942,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.49,
   "EosHistory": [
@@ -119,6 +119,11 @@
       "Time": "2023-08-23T19:06:39.4141783+00:00",
       "NumProgressed": 941,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-08-26T19:07:11.545272+00:00",
+      "NumProgressed": 942,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 12,
@@ -128,9 +133,9 @@
       "ID": "achievement_bank_invested",
       "SetID": "7171fo0",
       "Name": "Thrifty",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 442
+      "UsersEstimate": 433
     },
     {
       "ID": "achievement_botanical",
@@ -154,7 +159,7 @@
       "Name": "Giants",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "achievement_got_rich",
@@ -170,7 +175,7 @@
       "Name": "Supplier",
       "Percentage": 6,
       "XP": 180,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "achievement_island_bought",
@@ -178,7 +183,7 @@
       "Name": "Real Estate",
       "Percentage": 64,
       "XP": 35,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "achievement_lighthouse",
@@ -194,7 +199,7 @@
       "Name": "A man of his word",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 903
+      "UsersEstimate": 904
     },
     {
       "ID": "achievement_ship_bought",
@@ -202,7 +207,7 @@
       "Name": "New Ride",
       "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "achievement_ship_fueled",
@@ -210,7 +215,7 @@
       "Name": "Energizer",
       "Percentage": 99,
       "XP": 10,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "achievement_too_big_to_fail",
@@ -218,14 +223,14 @@
       "Name": "Too big to fail",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     }
   ],
   "AchievementSets": [
     {
       "ID": "7171fo0",
       "IsBase": true,
-      "Progressed": 941,
+      "Progressed": 942,
       "Completed": 14
     }
   ],
@@ -233,8 +238,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.9474468+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.0879809+00:00",
   "LastChanged": "2023-03-31T05:58:14.9474469+00:00",
-  "LastChanged_Achievements": "2023-08-26T18:06:06.4147071+00:00",
+  "LastChanged_Achievements": "2023-08-26T19:07:11.545271+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:19.159316+00:00",
-  "LastUpdate_Ratings": "2023-08-26T17:59:47.9890721+00:00",
-  "LastUpdate_Achievements": "2023-08-26T18:06:06.4147135+00:00"
+  "LastUpdate_Ratings": "2023-08-26T19:00:37.871764+00:00",
+  "LastUpdate_Achievements": "2023-08-26T19:07:11.5452872+00:00"
 }

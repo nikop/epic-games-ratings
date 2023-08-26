@@ -5,16 +5,16 @@ Rating: 4.18 (Ranked 876)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~34,022 |
+| First Step Into the Knight | 50.00% | ~34,024 |
 | Har, Har, Har, Very Funny | 35.00% | ~23,816 |
-| Loose Ends | 34.00% | ~23,135 |
+| Loose Ends | 34.00% | ~23,136 |
 | To the Victor Go the Spoils | 28.00% | ~19,053 |
-| Knighthood | 27.00% | ~18,372 |
-| Get ReQ'd | 25.00% | ~17,011 |
-| Whispered Words | 25.00% | ~17,011 |
+| Knighthood | 27.00% | ~18,373 |
+| Get ReQ'd | 25.00% | ~17,012 |
+| Whispered Words | 25.00% | ~17,012 |
 | The Batman Family | 22.00% | ~14,970 |
 | Lock and Key | 22.00% | ~14,970 |
-| Something in the Clay | 21.00% | ~14,289 |
+| Something in the Clay | 21.00% | ~14,290 |
 | Quartzer Life Crisis | 20.00% | ~13,609 |
 | Working Hard or Harley Working? | 20.00% | ~13,609 |
 | Unstoppable Force | 20.00% | ~13,609 |
@@ -23,19 +23,19 @@ Rating: 4.18 (Ranked 876)
 | The Show Mud Go On | 18.00% | ~12,248 |
 | From Inside Gotham's Walls | 18.00% | ~12,248 |
 | Protector of Gotham | 17.00% | ~11,568 |
-| Universal Health Scare | 16.00% | ~10,887 |
+| Universal Health Scare | 16.00% | ~10,888 |
 | In Your Element | 15.00% | ~10,207 |
 | Voiceless | 15.00% | ~10,207 |
-| Rock and a Hard Place | 14.00% | ~9,526 |
-| Cooldown | 14.00% | ~9,526 |
-| Seeking Asylum | 14.00% | ~9,526 |
+| Rock and a Hard Place | 14.00% | ~9,527 |
+| Cooldown | 14.00% | ~9,527 |
+| Seeking Asylum | 14.00% | ~9,527 |
 | Not On My Watch | 13.00% | ~8,846 |
 | Shock Til They Drop | 13.00% | ~8,846 |
-| End of an Era | 12.00% | ~8,165 |
-| Bulldozed | 12.00% | ~8,165 |
-| Gotham Knight | 12.00% | ~8,165 |
+| End of an Era | 12.00% | ~8,166 |
+| Bulldozed | 12.00% | ~8,166 |
+| Gotham Knight | 12.00% | ~8,166 |
 | Gotham City Confidential | 11.00% | ~7,485 |
-| Drone You Out | 10.00% | ~6,804 |
+| Drone You Out | 10.00% | ~6,805 |
 | Out of Their League | 9.00% | ~6,124 |
 | Solid Alibi | 9.00% | ~6,124 |
 | Fusion Expert | 7.00% | ~4,763 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 876)
 | Element of Surprise | 0.20% | ~77 |
 | It's Nice to Be Wanted | 0.20% | ~77 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,045 (Ranked 81)  
+Progressed: 68,047 (Ranked 81)  
 Completed: 109 (0.16%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,10 +195,10 @@ Completed: 109 (0.16%) (Ranked 195)
 | 2023-08-23 | 68,002 | 109 |
 | 2023-08-24 | 68,017 | 109 |
 | 2023-08-25 | 68,028 | 109 |
-| 2023-08-26 | 68,045 | 109 |
+| 2023-08-26 | 68,047 | 109 |
 ## Awards
 Max (Great Boss Battles): 2,522  (Ranked 100)  
-Sum: 4,196 (Ranked 139)  
+Sum: 4,198 (Ranked 139)  
 Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
@@ -210,7 +210,7 @@ Diff (max vs sum): -39
 | This game has Diverse Characters | 208 |
 | This game has Amazing Storytelling | 206 |
 | This game is Great for Beginners | 205 |
-| This game is Highly Recommended | 202 |
+| This game is Highly Recommended | 204 |
 | This game is Great for Quick Sessions | 60 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -397,4 +397,4 @@ Diff (max vs sum): -39
 | 2023-08-22 | 4.18 | 2,515 | 4,187 |
 | 2023-08-23 | 4.18 | 2,515 | 4,188 |
 | 2023-08-25 | 4.18 | 2,518 | 4,192 |
-| 2023-08-26 | 4.18 | 2,522 | 4,196 |
+| 2023-08-26 | 4.18 | 2,522 | 4,198 |
