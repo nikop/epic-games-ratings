@@ -28,18 +28,18 @@
 | 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.03% |
 | 27 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.71% |
 | 28 | [Remains](games/r/remains.md) | 10.42% |
-| 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.32% |
+| 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.29% |
 | 30 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
 | 31 | [Sonic Origins](games/s/sonic_origins.md) | 9.43% |
 | 32 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
-| 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.99% |
+| 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.98% |
 | 34 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.47% |
 | 35 | [Ravenlok](games/r/ravenlok.md) | 7.57% |
 | 36 | [Smelter](games/s/smelter.md) | 7.50% |
 | 36 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 7.50% |
 | 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.00% |
 | 39 | [Scorn](games/s/scorn.md) | 6.99% |
-| 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.85% |
+| 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.83% |
 | 41 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.79% |
 | 42 | [Time Loader](games/t/time_loader.md) | 6.78% |
 | 43 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 6.67% |
@@ -89,7 +89,7 @@
 | 87 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 88 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.42% |
 | 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.26% |
-| 90 | [Bloodshore](games/b/bloodshore.md) | 2.21% |
+| 90 | [Bloodshore](games/b/bloodshore.md) | 2.20% |
 | 91 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
 | 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.04% |
 | 93 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.00% |
@@ -201,8 +201,8 @@
 | 195 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.16% |
 | 200 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
 | 201 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.14% |
-| 202 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.13% |
-| 202 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.13% |
+| 201 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.14% |
+| 203 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.13% |
 | 204 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
 | 204 | [Isonzo](games/i/isonzo.md) | 0.12% |
 | 204 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
