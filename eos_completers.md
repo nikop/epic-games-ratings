@@ -74,7 +74,7 @@
 | 72 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.12% |
 | 73 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.07% |
 | 74 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.04% |
-| 75 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.01% |
+| 75 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.00% |
 | 76 | [Monster Harvest](games/m/monster_harvest.md) | 2.93% |
 | 76 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 78 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.80% |
@@ -218,11 +218,11 @@
 | 215 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
 | 215 | [Operation New Earth](games/o/operation_new_earth.md) | 0.09% |
 | 215 | [Outward Definitive Edition](games/o/outward.md) | 0.09% |
+| 215 | [Remnant 2](games/r/remnant_2.md) | 0.09% |
 | 215 | [Riverbond](games/r/riverbond.md) | 0.09% |
 | 215 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
 | 215 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
-| 222 | [Partisans 1941](games/p/partisans_1941.md) | 0.08% |
-| 222 | [Remnant 2](games/r/remnant_2.md) | 0.08% |
+| 223 | [Partisans 1941](games/p/partisans_1941.md) | 0.08% |
 | 224 | [Saints Row](games/s/saints_row.md) | 0.07% |
 | 224 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
 | 226 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.06% |
