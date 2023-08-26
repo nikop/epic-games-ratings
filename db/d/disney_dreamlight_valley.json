@@ -3190,11 +3190,17 @@
       "Rating": 4.76,
       "NumberOfAwards": 7441,
       "NumberOfAwardsMax": 934
+    },
+    {
+      "Time": "2023-08-26T03:01:42.736989+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7443,
+      "NumberOfAwardsMax": 936
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7441,
-  "NumberOfAwardsMax": 934,
+  "NumberOfAwards": 7443,
+  "NumberOfAwardsMax": 936,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -3207,7 +3213,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 934
+      "Count": 936
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3264,7 +3270,7 @@
       "Count": 495
     }
   ],
-  "EOS_Progressed": 9003,
+  "EOS_Progressed": 9004,
   "EOS_Completed": 204,
   "EOS_NewPlayers": 241,
   "EOS_NewCompleters": 5,
@@ -10644,6 +10650,11 @@
       "Time": "2023-08-26T00:05:20.5986481+00:00",
       "NumProgressed": 9003,
       "NumCompleted": 204
+    },
+    {
+      "Time": "2023-08-26T03:06:20.0469743+00:00",
+      "NumProgressed": 9004,
+      "NumCompleted": 204
     }
   ],
   "TotalAchievements": 15,
@@ -10663,7 +10674,7 @@
       "Name": "Banker",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 3601
+      "UsersEstimate": 3602
     },
     {
       "ID": "Bestest_Friend",
@@ -10671,7 +10682,7 @@
       "Name": "Bestest Friend",
       "Percentage": 48,
       "XP": 75,
-      "UsersEstimate": 4321
+      "UsersEstimate": 4322
     },
     {
       "ID": "Chef_Cook",
@@ -10727,7 +10738,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 71,
       "XP": 75,
-      "UsersEstimate": 6392
+      "UsersEstimate": 6393
     },
     {
       "ID": "Miner",
@@ -10743,7 +10754,7 @@
       "Name": "Photographer",
       "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 6302
+      "UsersEstimate": 6303
     },
     {
       "ID": "Renovator",
@@ -10767,23 +10778,23 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 5762
+      "UsersEstimate": 5763
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 9003,
+      "Progressed": 9004,
       "Completed": 204
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2023-08-25T18:00:41.6492418+00:00",
-  "LastChanged_Achievements": "2023-08-26T02:17:06.9478904+00:00",
+  "LastChanged": "2023-08-26T03:01:42.7369888+00:00",
+  "LastChanged_Achievements": "2023-08-26T03:06:20.0469736+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:11.7023574+00:00",
-  "LastUpdate_Ratings": "2023-08-26T02:12:54.439875+00:00",
-  "LastUpdate_Achievements": "2023-08-26T02:17:06.9479505+00:00"
+  "LastUpdate_Ratings": "2023-08-26T03:01:42.7369896+00:00",
+  "LastUpdate_Achievements": "2023-08-26T03:06:20.0470469+00:00"
 }

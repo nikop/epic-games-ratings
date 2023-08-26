@@ -6,43 +6,43 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 69.00% | ~19,620 |
-| The Evilest Evil | 58.00% | ~16,492 |
-| Twistram is devastated | 57.00% | ~16,208 |
-| The Gehenna Stones | 49.00% | ~13,933 |
-| No one has to die today! | 46.00% | ~13,080 |
-| Death and destruction! | 45.00% | ~12,796 |
-| The Swamplanders from the swamplands | 43.00% | ~12,227 |
-| Rusty Steel | 41.00% | ~11,658 |
-| The One-Huge-Army-Building Evil | 40.00% | ~11,374 |
-| The last burger | 37.00% | ~10,521 |
-| Braiiiiins! | 37.00% | ~10,521 |
+| The Shadow strikes | 69.00% | ~19,622 |
+| The Evilest Evil | 58.00% | ~16,493 |
+| Twistram is devastated | 57.00% | ~16,209 |
+| The Gehenna Stones | 49.00% | ~13,934 |
+| No one has to die today! | 46.00% | ~13,081 |
+| Death and destruction! | 45.00% | ~12,797 |
+| The Swamplanders from the swamplands | 43.00% | ~12,228 |
+| Rusty Steel | 41.00% | ~11,659 |
+| The One-Huge-Army-Building Evil | 40.00% | ~11,375 |
+| The last burger | 37.00% | ~10,522 |
+| Braiiiiins! | 37.00% | ~10,522 |
 | Hands off the Dungeonheart! | 36.00% | ~10,237 |
-| A trip on sea, what fun it can be | 34.00% | ~9,668 |
+| A trip on sea, what fun it can be | 34.00% | ~9,669 |
 | Damned good | 33.00% | ~9,384 |
 | Stock Market Crash | 31.00% | ~8,815 |
 | Factory farming | 31.00% | ~8,815 |
-| Not-So-Overproud | 30.00% | ~8,530 |
-| For a handfull of Catapults | 29.00% | ~8,246 |
-| Shadow hunter | 29.00% | ~8,246 |
+| Not-So-Overproud | 30.00% | ~8,531 |
+| For a handfull of Catapults | 29.00% | ~8,247 |
+| Shadow hunter | 29.00% | ~8,247 |
 | Thirst quencher | 28.00% | ~7,962 |
 | Ogre Solo! | 28.00% | ~7,962 |
-| Destroy the thing | 26.00% | ~7,393 |
-| Tide Master | 26.00% | ~7,393 |
+| Destroy the thing | 26.00% | ~7,394 |
+| Tide Master | 26.00% | ~7,394 |
 | Difficult family relationships | 25.00% | ~7,109 |
 | MASS-O-BOT | 25.00% | ~7,109 |
-| Prepare the grave | 24.00% | ~6,824 |
-| Angel of Fire | 24.00% | ~6,824 |
-| Where there is Light, there is Shadow | 23.00% | ~6,540 |
+| Prepare the grave | 24.00% | ~6,825 |
+| Angel of Fire | 24.00% | ~6,825 |
+| Where there is Light, there is Shadow | 23.00% | ~6,541 |
 | At the foot of Mount Destiny | 22.00% | ~6,256 |
-| The Force disturbed | 21.00% | ~5,971 |
+| The Force disturbed | 21.00% | ~5,972 |
 | The Victorious Evil | 20.00% | ~5,687 |
 | Chorus of damnation | 19.00% | ~5,403 |
 | We don’t have time! | 19.00% | ~5,403 |
-| The Stones’ Power | 18.00% | ~5,118 |
+| The Stones’ Power | 18.00% | ~5,119 |
 | Flat as a pancake | 17.00% | ~4,834 |
 | Lifeguard | 17.00% | ~4,834 |
-| Can’t stand the sight of Dark Elf blood | 15.00% | ~4,265 |
+| Can’t stand the sight of Dark Elf blood | 15.00% | ~4,266 |
 | This is fun, I’m going to keep doing this! | 12.00% | ~3,412 |
 | Then let them eat cake! | 12.00% | ~3,412 |
 | The White Knight | 10.00% | ~2,844 |
@@ -54,7 +54,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Ignore The Level Designer’s Plan | 8.00% | ~2,275 |
 | Can’t stand to see an Ogre bleed | 8.00% | ~2,275 |
 | Lifesaver | 8.00% | ~2,275 |
-| Hearts are trump | 7.00% | ~1,990 |
+| Hearts are trump | 7.00% | ~1,991 |
 | Spawner Killer | 6.00% | ~1,706 |
 | A little something extra | 6.00% | ~1,706 |
 | The Benevolent Evil | 6.00% | ~1,706 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~569 |
 | Sacrifices! | 2.00% | ~569 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,435 (Ranked 101)  
+Progressed: 28,437 (Ranked 101)  
 Completed: 236 (0.83%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,14 +195,14 @@ Completed: 236 (0.83%) (Ranked 126)
 | 2023-08-23 | 28,253 | 234 |
 | 2023-08-24 | 28,329 | 235 |
 | 2023-08-25 | 28,426 | 236 |
-| 2023-08-26 | 28,435 | 236 |
+| 2023-08-26 | 28,437 | 236 |
 ## Awards
-Max (Great for Beginners): 339  (Ranked 228)  
-Sum: 2,619 (Ranked 173)  
-Diff (max vs sum): 55  
+Max (Great for Beginners): 341  (Ranked 227)  
+Sum: 2,621 (Ranked 173)  
+Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 339 |
+| This game is Great for Beginners | 341 |
 | This game is Extremely Fun | 315 |
 | This game has Quickly Understood Controls | 302 |
 | This game has Amazing Storytelling | 292 |
@@ -377,3 +377,4 @@ Diff (max vs sum): 55
 | 2023-08-23 | 4.66 | - | 339 | 2,617 |
 | 2023-08-24 | 4.66 | - | 339 | 2,618 |
 | 2023-08-25 | 4.66 | - | 339 | 2,619 |
+| 2023-08-26 | 4.66 | - | 341 | 2,621 |

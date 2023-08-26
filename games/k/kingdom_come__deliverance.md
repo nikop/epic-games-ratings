@@ -7,12 +7,12 @@ Number of Ratings: 9,133  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Blacksmith's Son | 32.00% | ~255,505 |
-| Cavalier | 25.00% | ~199,613 |
+| Cavalier | 25.00% | ~199,614 |
 | Fatso | 23.00% | ~183,644 |
 | Awakening | 21.00% | ~167,675 |
 | Ranger | 20.00% | ~159,691 |
 | Scrooge | 20.00% | ~159,691 |
-| Anorectic | 16.00% | ~127,752 |
+| Anorectic | 16.00% | ~127,753 |
 | Bookworm | 15.00% | ~119,768 |
 | Firestarter | 15.00% | ~119,768 |
 | Insomniac | 13.00% | ~103,799 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~798 |
 | Wingman | 0.10% | ~798 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 798,453 (Ranked 16)  
+Progressed: 798,454 (Ranked 16)  
 Completed: 44 (0.01%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 44 (0.01%) (Ranked 250)
 | 2023-08-23 | 798,189 | 44 |
 | 2023-08-24 | 798,310 | 44 |
 | 2023-08-25 | 798,447 | 44 |
-| 2023-08-26 | 798,453 | 44 |
+| 2023-08-26 | 798,454 | 44 |
 ## Awards
 Max (Character Customization): 7,403  (Ranked 47)  
 Sum: 27,568 (Ranked 46)  

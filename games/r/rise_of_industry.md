@@ -1,26 +1,26 @@
 # Rise of Industry
 [Store](https://store.epicgames.com/en-US/p/rise-of-industry-0af838)  
 [View Rawdata](../../db/r/rise_of_industry.json)  
-Rating: 4.23 (Ranked 845)  
+Rating: 4.24 (Ranked 837)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 48.00% | ~348,990 |
-| Well educated | 37.00% | ~269,013 |
-| City Planner | 19.00% | ~138,142 |
-| Deforester | 17.00% | ~123,601 |
-| Big Hauling | 16.00% | ~116,330 |
-| Apprentice Manufacturer | 13.00% | ~94,518 |
-| Exporter | 13.00% | ~94,518 |
-| I would drive 500 tiles... | 12.00% | ~87,247 |
-| Landscaper | 12.00% | ~87,247 |
-| Railwayman | 8.00% | ~58,165 |
+| Entrepreneur | 48.00% | ~348,994 |
+| Well educated | 37.00% | ~269,016 |
+| City Planner | 19.00% | ~138,143 |
+| Deforester | 17.00% | ~123,602 |
+| Big Hauling | 16.00% | ~116,331 |
+| Apprentice Manufacturer | 13.00% | ~94,519 |
+| Exporter | 13.00% | ~94,519 |
+| I would drive 500 tiles... | 12.00% | ~87,249 |
+| Landscaper | 12.00% | ~87,249 |
+| Railwayman | 8.00% | ~58,166 |
 | Penniless | 6.00% | ~43,624 |
 | Massive Gains | 6.00% | ~43,624 |
 | Salesman | 3.00% | ~21,812 |
 | Engineer | 2.00% | ~14,541 |
 | High Flyer | 2.00% | ~14,541 |
-| Captain | 0.80% | ~5,816 |
+| Captain | 0.80% | ~5,817 |
 | Billionaire | 0.60% | ~4,362 |
 | Vroom Vroom | 0.40% | ~2,908 |
 | Excavator | 0.30% | ~2,181 |
@@ -33,7 +33,7 @@ Rating: 4.23 (Ranked 845)
 | Master Builder | 0.10% | ~727 |
 | Hard working | 0.10% | ~727 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 727,062 (Ranked 18)  
+Progressed: 727,071 (Ranked 18)  
 Completed: 3 (0.00%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 3 (0.00%) (Ranked 263)
 | 2023-08-23 | 726,197 | 3 |
 | 2023-08-24 | 726,565 | 3 |
 | 2023-08-25 | 727,017 | 3 |
-| 2023-08-26 | 727,062 | 3 |
+| 2023-08-26 | 727,071 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -202,3 +202,4 @@ Completed: 3 (0.00%) (Ranked 263)
 | 2023-08-11 | 4.23 | 0 | 0 |
 | 2023-08-13 | 4.24 | 0 | 0 |
 | 2023-08-18 | 4.23 | 0 | 0 |
+| 2023-08-26 | 4.24 | 0 | 0 |

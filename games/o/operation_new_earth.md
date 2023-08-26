@@ -12,10 +12,10 @@
 | Covert Operative | 13.00% | ~142 |
 | Lieutenant | 11.00% | ~121 |
 | Getting Deployment | 10.00% | ~110 |
+| Stocking Up | 10.00% | ~110 |
 | On Target | 10.00% | ~110 |
 | Fighting for Survival | 9.00% | ~99 |
 | Keeping Busy | 9.00% | ~99 |
-| Stocking Up | 9.00% | ~99 |
 | Infantry Reporting | 9.00% | ~99 |
 | Silver Competitor | 8.00% | ~88 |
 | Exterminator | 7.00% | ~77 |

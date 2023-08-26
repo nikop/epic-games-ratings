@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-01-26T06:00:00+00:00",
     "PcReleaseDate": "2023-01-26T06:00:00+00:00",
@@ -72,9 +72,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2216,
+  "EOS_Progressed": 2217,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -1512,6 +1512,11 @@
       "Time": "2023-08-25T19:05:09.2045205+00:00",
       "NumProgressed": 2216,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-26T03:05:28.7539733+00:00",
+      "NumProgressed": 2217,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 19,
@@ -1539,7 +1544,7 @@
       "Name": "The First Law of Thermodynamics",
       "Percentage": 27,
       "XP": 150,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "complete_act_three",
@@ -1547,7 +1552,7 @@
       "Name": "The Third Law of Thermodynamics",
       "Percentage": 9,
       "XP": 150,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "complete_act_two",
@@ -1563,15 +1568,15 @@
       "Name": "On the Shoulders of Giants",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 1950
+      "UsersEstimate": 1951
     },
     {
       "ID": "deal_damage",
       "SetID": "236b9eg",
       "Name": "Ouch",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 1219
+      "UsersEstimate": 1197
     },
     {
       "ID": "defeat_enemies",
@@ -1579,7 +1584,7 @@
       "Name": "A Ribbiting Performance",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 1706
+      "UsersEstimate": 1707
     },
     {
       "ID": "defeat_tree_dummy",
@@ -1595,7 +1600,7 @@
       "Name": "At Least We Have Each Other...",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1663
     },
     {
       "ID": "piercing_beam",
@@ -1603,7 +1608,7 @@
       "Name": "Say \u0022Cheese!\u0022",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "reach_heat",
@@ -1611,7 +1616,7 @@
       "Name": "Turn Up The HEAT",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     },
     {
       "ID": "reach_high_heat",
@@ -1635,7 +1640,7 @@
       "Name": "Do you trust me?",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "save_planet_coop",
@@ -1651,7 +1656,7 @@
       "Name": "Stop Hitting Yourself!",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "stun_enemies",
@@ -1659,7 +1664,7 @@
       "Name": "Fun in the Stun",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 1174
+      "UsersEstimate": 1175
     },
     {
       "ID": "trash_truck",
@@ -1667,14 +1672,14 @@
       "Name": "Taking Out the Trash",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     }
   ],
   "AchievementSets": [
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 2216,
+      "Progressed": 2217,
       "Completed": 9
     }
   ],
@@ -1682,8 +1687,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-06-30T03:59:49.3890269+00:00",
-  "LastChanged_Achievements": "2023-08-26T02:16:21.0409403+00:00",
+  "LastChanged_Achievements": "2023-08-26T03:05:28.7539725+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:05.1420899+00:00",
-  "LastUpdate_Ratings": "2023-08-26T02:10:14.788707+00:00",
-  "LastUpdate_Achievements": "2023-08-26T02:16:21.0409794+00:00"
+  "LastUpdate_Ratings": "2023-08-26T02:59:15.4279558+00:00",
+  "LastUpdate_Achievements": "2023-08-26T03:05:28.7540511+00:00"
 }

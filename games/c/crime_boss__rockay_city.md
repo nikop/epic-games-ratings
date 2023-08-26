@@ -5,20 +5,20 @@ Rating: 3.94 (Ranked 949)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~53,509 |
-| First One’s Free | 65.00% | ~47,001 |
-| Neophyte Ninja | 50.00% | ~36,154 |
-| Too Old for This | 48.00% | ~34,708 |
-| Case Closed | 35.00% | ~25,308 |
-| Fancy Pants | 35.00% | ~25,308 |
-| King of the Hill | 34.00% | ~24,585 |
+| Downed but Not Outed | 74.00% | ~53,511 |
+| First One’s Free | 65.00% | ~47,003 |
+| Neophyte Ninja | 50.00% | ~36,156 |
+| Too Old for This | 48.00% | ~34,710 |
+| Case Closed | 35.00% | ~25,309 |
+| Fancy Pants | 35.00% | ~25,309 |
+| King of the Hill | 34.00% | ~24,586 |
 | Underworld Initiate | 29.00% | ~20,970 |
-| Roid Ranger | 21.00% | ~15,185 |
+| Roid Ranger | 21.00% | ~15,186 |
 | Off the Rocks | 20.00% | ~14,462 |
 | True Player | 19.00% | ~13,739 |
 | Raider’s Ruin | 17.00% | ~12,293 |
 | Dragonslayer | 17.00% | ~12,293 |
-| Hidden Sonata | 13.00% | ~9,400 |
+| Hidden Sonata | 13.00% | ~9,401 |
 | Rockay Rex | 11.00% | ~7,954 |
 | Track Star | 10.00% | ~7,231 |
 | Freebooter | 10.00% | ~7,231 |
@@ -28,7 +28,7 @@ Rating: 3.94 (Ranked 949)
 | I Like Trains | 8.00% | ~5,785 |
 | Foo Finder | 7.00% | ~5,062 |
 | Savvy Seeker | 6.00% | ~4,339 |
-| Legend Looter | 5.00% | ~3,615 |
+| Legend Looter | 5.00% | ~3,616 |
 | Imports and Exports | 4.00% | ~2,892 |
 | Olympus Ascended | 4.00% | ~2,892 |
 | Cracked the Jack | 4.00% | ~2,892 |
@@ -43,7 +43,7 @@ Rating: 3.94 (Ranked 949)
 | Geek Out | 0.60% | ~434 |
 | Full House | 0.20% | ~145 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,309 (Ranked 79)  
+Progressed: 72,312 (Ranked 79)  
 Completed: 42 (0.06%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 42 (0.06%) (Ranked 225)
 | 2023-08-23 | 72,253 | 41 |
 | 2023-08-24 | 72,287 | 41 |
 | 2023-08-25 | 72,307 | 42 |
-| 2023-08-26 | 72,309 | 42 |
+| 2023-08-26 | 72,312 | 42 |
 ## Awards
 Max (Diverse Characters): 406  (Ranked 215)  
 Sum: 1,932 (Ranked 202)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -4048,9 +4048,9 @@
       "ID": "objective_key_gather_resources_from_tiles_3",
       "SetID": "bm61c2p",
       "Name": "Stocking Up",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 110
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -4151,8 +4151,8 @@
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-26T02:15:49.3991585+00:00",
+  "LastChanged_Achievements": "2023-08-26T03:05:01.9202589+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:20.8459338+00:00",
-  "LastUpdate_Ratings": "2023-08-26T02:10:34.5625078+00:00",
-  "LastUpdate_Achievements": "2023-08-26T02:15:49.3992504+00:00"
+  "LastUpdate_Ratings": "2023-08-26T02:59:33.2736199+00:00",
+  "LastUpdate_Achievements": "2023-08-26T03:05:01.9203164+00:00"
 }

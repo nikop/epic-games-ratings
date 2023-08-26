@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 16,
   "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -6756,9 +6756,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 798453,
+  "EOS_Progressed": 798454,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 896,
+  "EOS_NewPlayers": 893,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -20786,6 +20786,11 @@
       "Time": "2023-08-26T01:45:42.4949099+00:00",
       "NumProgressed": 798453,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-08-26T03:07:48.5470217+00:00",
+      "NumProgressed": 798454,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 82,
@@ -20821,7 +20826,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 127752
+      "UsersEstimate": 127753
     },
     {
       "ID": "Awakening",
@@ -20909,7 +20914,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 199613
+      "UsersEstimate": 199614
     },
     {
       "ID": "Chivalrous",
@@ -21452,15 +21457,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 798453,
+      "Progressed": 798454,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-08-25T23:02:38.8263833+00:00",
-  "LastChanged_Achievements": "2023-08-26T02:18:49.2914968+00:00",
+  "LastChanged_Achievements": "2023-08-26T03:07:48.547021+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:50.3701677+00:00",
-  "LastUpdate_Ratings": "2023-08-26T02:13:22.2594086+00:00",
-  "LastUpdate_Achievements": "2023-08-26T02:18:49.2916786+00:00"
+  "LastUpdate_Ratings": "2023-08-26T03:02:11.8704723+00:00",
+  "LastUpdate_Achievements": "2023-08-26T03:07:48.5472504+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3536,9 +3536,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 11074,
+  "EOS_Progressed": 11075,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11306,6 +11306,11 @@
       "Time": "2023-08-26T02:17:53.5950528+00:00",
       "NumProgressed": 11074,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-26T03:07:00.4206188+00:00",
+      "NumProgressed": 11075,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -11381,7 +11386,7 @@
       "Name": "Path of the Demon",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "10_PathOfAzata",
@@ -11397,7 +11402,7 @@
       "Name": "Path of the Aeon",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "12_PathOfTrickster",
@@ -11413,7 +11418,7 @@
       "Name": "Path of the Lich",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "14_PathOfSwarm",
@@ -11541,7 +11546,7 @@
       "Name": "Heroic Victory",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "31_DivideAndRule",
@@ -11573,7 +11578,7 @@
       "Name": "Capitulation Is Now Moot",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "35_AbyssalConspiracy",
@@ -11597,7 +11602,7 @@
       "Name": "Your First Big Enemy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "38_PrelatesNemesis",
@@ -11717,7 +11722,7 @@
       "Name": "Truly Important Deed",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "53_TrulyProfaneGift",
@@ -12244,21 +12249,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9856,
+      "Progressed": 9857,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11074,
+      "Progressed": 11075,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-23T13:04:06.393487+00:00",
-  "LastChanged_Achievements": "2023-08-26T02:17:53.5950522+00:00",
+  "LastChanged_Achievements": "2023-08-26T03:07:00.4206184+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:48.9326646+00:00",
-  "LastUpdate_Ratings": "2023-08-26T02:13:19.4035551+00:00",
-  "LastUpdate_Achievements": "2023-08-26T02:17:53.5954254+00:00"
+  "LastUpdate_Ratings": "2023-08-26T03:02:07.646356+00:00",
+  "LastUpdate_Achievements": "2023-08-26T03:07:00.4208889+00:00"
 }

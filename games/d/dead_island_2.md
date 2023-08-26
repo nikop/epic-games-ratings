@@ -5,6 +5,7 @@ Rating: 4.54 (Ranked 500)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Welcome To Hell-A | 0.20% | ~1,331 |
 | Dr. Reed, I Presume? | 0.10% | ~665 |
 | Making Your Mark | 0.10% | ~665 |
 | Git Gutte! | 0.10% | ~665 |
@@ -47,11 +48,10 @@ Rating: 4.54 (Ranked 500)
 | Our True Nature | 0.10% | ~665 |
 | This is My Weapon | 0.10% | ~665 |
 | Variety is the Spice of Death | 0.10% | ~665 |
-| Welcome To Hell-A | 0.10% | ~665 |
 | Rising Star | 0.10% | ~665 |
 | Bucket List | 0.10% | ~665 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 665,365 (Ranked 22)  
+Progressed: 665,386 (Ranked 22)  
 Completed: 2,069 (0.31%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 2,069 (0.31%) (Ranked 171)
 | 2023-08-23 | 663,691 | 2,054 |
 | 2023-08-24 | 664,478 | 2,059 |
 | 2023-08-25 | 665,272 | 2,068 |
-| 2023-08-26 | 665,365 | 2,069 |
+| 2023-08-26 | 665,386 | 2,069 |
 ## Awards
 Max (Great Boss Battles): 5,753  (Ranked 62)  
 Sum: 8,469 (Ranked 97)  
