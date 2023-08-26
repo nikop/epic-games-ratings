@@ -754,9 +754,9 @@
       "ID": "Fusses",
       "SetID": "7jbi7el",
       "Name": "Beginner Electrician",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 70,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "GameComplete",
@@ -825,8 +825,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-08-26T00:06:27.983248+00:00",
+  "LastChanged_Achievements": "2023-08-26T01:45:22.1694638+00:00",
   "LastUpdate_AppInfo": "2023-08-22T18:57:00.7116692+00:00",
-  "LastUpdate_Ratings": "2023-08-25T23:59:19.0240021+00:00",
-  "LastUpdate_Achievements": "2023-08-26T00:06:27.9832633+00:00"
+  "LastUpdate_Ratings": "2023-08-26T01:37:32.9670241+00:00",
+  "LastUpdate_Achievements": "2023-08-26T01:45:22.1695274+00:00"
 }

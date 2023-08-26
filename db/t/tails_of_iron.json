@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -227,9 +227,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1873,
+  "EOS_Progressed": 1874,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -2492,6 +2492,11 @@
       "Time": "2023-08-25T22:05:52.0453806+00:00",
       "NumProgressed": 1873,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-08-26T01:44:52.9420663+00:00",
+      "NumProgressed": 1874,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -2503,7 +2508,7 @@
       "Name": "Become King",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 1367
+      "UsersEstimate": 1368
     },
     {
       "ID": "Collect20Gold",
@@ -2517,9 +2522,9 @@
       "ID": "Collect20Iron",
       "SetID": "9lj35g4",
       "Name": "Collect Iron Ore",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 899
+      "UsersEstimate": 881
     },
     {
       "ID": "Collect50MonsterParts",
@@ -2527,7 +2532,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 1086
+      "UsersEstimate": 1087
     },
     {
       "ID": "CollectAllStatues",
@@ -2583,7 +2588,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 1517
+      "UsersEstimate": 1518
     },
     {
       "ID": "CompleteHunterFaction",
@@ -2591,7 +2596,7 @@
       "Name": "Complete Ranger Faction",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "CompleteStoryDM",
@@ -2639,7 +2644,7 @@
       "Name": "Fix the Travellers Wagon",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "GetRangedWeapon",
@@ -2647,7 +2652,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1161
+      "UsersEstimate": 1162
     },
     {
       "ID": "GetTHWeapon",
@@ -2671,7 +2676,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1161
+      "UsersEstimate": 1162
     },
     {
       "ID": "Kill25Mozi",
@@ -2703,7 +2708,7 @@
       "Name": "Kitchen Ready To Cook",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 880
+      "UsersEstimate": 881
     },
     {
       "ID": "RepairSmith",
@@ -2735,29 +2740,29 @@
       "Name": "Return Power To The Depths",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     }
   ],
   "AchievementSets": [
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1873,
+      "Progressed": 1874,
       "Completed": 8
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 514,
-      "Completed": 514
+      "Progressed": 515,
+      "Completed": 515
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-07-30T07:58:33.6633976+00:00",
-  "LastChanged_Achievements": "2023-08-26T00:06:07.0049078+00:00",
+  "LastChanged_Achievements": "2023-08-26T01:44:52.9420661+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:30.3659565+00:00",
-  "LastUpdate_Ratings": "2023-08-26T00:01:14.9594417+00:00",
-  "LastUpdate_Achievements": "2023-08-26T00:06:07.0049444+00:00"
+  "LastUpdate_Ratings": "2023-08-26T01:40:06.0532228+00:00",
+  "LastUpdate_Achievements": "2023-08-26T01:44:52.9420995+00:00"
 }

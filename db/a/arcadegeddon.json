@@ -787,9 +787,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 8681,
+  "EOS_Progressed": 8682,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8142,6 +8142,11 @@
       "Time": "2023-08-26T00:03:16.941033+00:00",
       "NumProgressed": 8681,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-26T01:41:32.6292633+00:00",
+      "NumProgressed": 8682,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -8153,7 +8158,7 @@
       "Name": "Adventure Time",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 6945
+      "UsersEstimate": 6946
     },
     {
       "ID": "ACH_BOOTY_BASHING",
@@ -8161,7 +8166,7 @@
       "Name": "Booty Bashing",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 3472
+      "UsersEstimate": 3473
     },
     {
       "ID": "ACH_BOSS_OF_BOSSES",
@@ -8217,7 +8222,7 @@
       "Name": "Get Furious",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 4861
+      "UsersEstimate": 4862
     },
     {
       "ID": "ACH_GET_IN_THE_RING",
@@ -8249,7 +8254,7 @@
       "Name": "Guardian Angel",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 2517
+      "UsersEstimate": 2518
     },
     {
       "ID": "ACH_GUNPLAY_AND_COSPLAY",
@@ -8297,7 +8302,7 @@
       "Name": "Let\u0027s Get This Party Started",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 7900
+      "UsersEstimate": 7901
     },
     {
       "ID": "ACH_LIGHT_MY_FIRE",
@@ -8353,7 +8358,7 @@
       "Name": "Photogenic",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 7639
+      "UsersEstimate": 7640
     },
     {
       "ID": "ACH_PLAYING_WITH_POWER",
@@ -8361,7 +8366,7 @@
       "Name": "Playing With Power",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 6684
+      "UsersEstimate": 6685
     },
     {
       "ID": "ACH_PLUG_IT_IN",
@@ -8369,7 +8374,7 @@
       "Name": "Plug It In",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 7292
+      "UsersEstimate": 7293
     },
     {
       "ID": "ACH_POPPIN_NOGGINS",
@@ -8401,7 +8406,7 @@
       "Name": "Rescue Ranger",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "ACH_SEASONED_ADVENTURER",
@@ -8457,7 +8462,7 @@
       "Name": "Surge Gauntlet Jockey",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 7379
+      "UsersEstimate": 7380
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_SCHOLAR",
@@ -8545,22 +8550,22 @@
       "Name": "You\u0027re Fired",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 4948
+      "UsersEstimate": 4949
     }
   ],
   "AchievementSets": [
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 8681,
+      "Progressed": 8682,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-08-19T04:00:18.5664254+00:00",
-  "LastChanged_Achievements": "2023-08-26T00:03:16.9410324+00:00",
+  "LastChanged_Achievements": "2023-08-26T01:41:32.6292628+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:48.1551117+00:00",
-  "LastUpdate_Ratings": "2023-08-26T00:01:21.7972524+00:00",
-  "LastUpdate_Achievements": "2023-08-26T00:03:16.9411235+00:00"
+  "LastUpdate_Ratings": "2023-08-26T01:40:13.9312254+00:00",
+  "LastUpdate_Achievements": "2023-08-26T01:41:32.6293417+00:00"
 }

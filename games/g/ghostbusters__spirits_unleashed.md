@@ -24,10 +24,10 @@ Rating: 4.49 (Ranked 581)
 | Ghostbuster In Training | 30.00% | ~7,602 |
 | Icing on the Cake | 30.00% | ~7,602 |
 | Side Hustle | 27.00% | ~6,842 |
+| Summoner | 27.00% | ~6,842 |
 | We have the best insurance | 26.00% | ~6,588 |
 | Legions | 26.00% | ~6,588 |
 | Right back at ya | 26.00% | ~6,588 |
-| Summoner | 26.00% | ~6,588 |
 | Pesky Jerks | 25.00% | ~6,335 |
 | Stunner | 25.00% | ~6,335 |
 | Animated | 24.00% | ~6,082 |

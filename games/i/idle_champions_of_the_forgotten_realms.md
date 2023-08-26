@@ -7,8 +7,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 2.00% | ~4,499 |
+| The Cursed Farmer | 0.70% | ~1,575 |
 | Beast Intentions | 0.60% | ~1,350 |
-| The Cursed Farmer | 0.60% | ~1,350 |
 | The Mad Wizard | 0.50% | ~1,125 |
 | The Hunt for The Last Breath | 0.50% | ~956 |
 | The Ring of Regeneration | 0.40% | ~900 |
@@ -71,6 +71,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Slow and Steady | 0.20% | ~450 |
 | Flying Monkey Skulls of Doom | 0.20% | ~450 |
 | The Darkness Runs Deeper | 0.20% | ~450 |
+| Difficult Terrain | 0.20% | ~450 |
 | Running of the Saurs | 0.20% | ~450 |
 | The Contagious Curse | 0.20% | ~450 |
 | Resolve Amongst Chaos | 0.20% | ~450 |
@@ -330,7 +331,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Troublesome Prisoner | 0.10% | ~225 |
 | Dark Doppelgangers | 0.10% | ~225 |
 | Faerûn's Most Wanted | 0.10% | ~191 |
-| Difficult Terrain | 0.10% | ~225 |
 | Cold & Wet | 0.10% | ~225 |
 | Madcap Adventures | 0.10% | ~225 |
 | Faerûn's Most Neglected | 0.10% | ~191 |
@@ -523,8 +523,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~191 |
 | Animated Giff | 0.10% | ~191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,935 (Ranked 53)  
-Completed: 2,214 (0.98%) (Ranked 121)  
+Progressed: 224,953 (Ranked 53)  
+Completed: 2,215 (0.98%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -651,7 +651,7 @@ Completed: 2,214 (0.98%) (Ranked 121)
 | 2023-08-23 | 224,434 | 2,210 |
 | 2023-08-24 | 224,686 | 2,211 |
 | 2023-08-25 | 224,925 | 2,214 |
-| 2023-08-26 | 224,935 | 2,214 |
+| 2023-08-26 | 224,953 | 2,215 |
 ## Awards
 Max (Diverse Characters): 5,182  (Ranked 68)  
 Sum: 31,215 (Ranked 39)  

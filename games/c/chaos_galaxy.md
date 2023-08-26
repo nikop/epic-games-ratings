@@ -5,15 +5,16 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Honor Medal | 36.00% | ~10 |
-| Tyrant Rise | 29.00% | ~8 |
+| Tyrant Rise | 32.00% | ~9 |
+| Great Civil War | 25.00% | ~7 |
 | Assassination | 21.00% | ~6 |
-| Great Civil War | 21.00% | ~6 |
 | Princess Crowned | 14.00% | ~4 |
 | Secret War | 14.00% | ~4 |
 | Investment | 11.00% | ~3 |
 | 2nd AI War | 7.00% | ~2 |
 | Punish Eastgalaxy | 7.00% | ~2 |
 | Tech Breakthrough | 7.00% | ~2 |
+| Death of Princess | 4.00% | ~1 |
 | Sendai Shogunate | 4.00% | ~1 |
 | Pirate Raid | 4.00% | ~1 |
 | Heaven Tower | 4.00% | ~1 |
@@ -25,7 +26,6 @@
 | Mercenary March | 0.00% | ~0 |
 | Takeover Planet | 0.00% | ~0 |
 | Punish Southsea | 0.00% | ~0 |
-| Death of Princess | 0.00% | ~0 |
 | North Supremacy | 0.00% | ~0 |
 | East Supremacy | 0.00% | ~0 |
 | South Supremacy | 0.00% | ~0 |

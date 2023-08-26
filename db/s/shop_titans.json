@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 47,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -5678,10 +5678,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27135,
       "NumberOfAwardsMax": 4712
+    },
+    {
+      "Time": "2023-08-26T01:40:15.2723709+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27136,
+      "NumberOfAwardsMax": 4712
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27135,
+  "NumberOfAwards": 27136,
   "NumberOfAwardsMax": 4712,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5725,7 +5731,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3160
+      "Count": 3161
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5734,9 +5740,9 @@
       "Count": 3737
     }
   ],
-  "EOS_Progressed": 135110,
+  "EOS_Progressed": 135116,
   "EOS_Completed": 138,
-  "EOS_NewPlayers": 371,
+  "EOS_NewPlayers": 374,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -18779,6 +18785,11 @@
       "Time": "2023-08-26T00:06:51.6047085+00:00",
       "NumProgressed": 135110,
       "NumCompleted": 138
+    },
+    {
+      "Time": "2023-08-26T01:45:55.6101009+00:00",
+      "NumProgressed": 135116,
+      "NumCompleted": 138
     }
   ],
   "TotalAchievements": 112,
@@ -19268,9 +19279,9 @@
       "ID": "gold02",
       "SetID": "anfd17p",
       "Name": "Pretty Penny",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 946
+      "UsersEstimate": 1081
     },
     {
       "ID": "gold03",
@@ -19685,15 +19696,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135110,
+      "Progressed": 135116,
       "Completed": 138
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-08-24T23:02:08.8227726+00:00",
-  "LastChanged_Achievements": "2023-08-26T00:06:51.6047079+00:00",
+  "LastChanged": "2023-08-26T01:40:15.2723707+00:00",
+  "LastChanged_Achievements": "2023-08-26T01:45:55.6101004+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:50.7489496+00:00",
-  "LastUpdate_Ratings": "2023-08-26T00:01:22.6737307+00:00",
-  "LastUpdate_Achievements": "2023-08-26T00:06:51.6049667+00:00"
+  "LastUpdate_Ratings": "2023-08-26T01:40:15.2723717+00:00",
+  "LastUpdate_Achievements": "2023-08-26T01:45:55.6103331+00:00"
 }

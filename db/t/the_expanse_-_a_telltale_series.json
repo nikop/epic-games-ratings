@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9079,
+  "EOS_Progressed": 9083,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 782,
+  "EOS_NewPlayers": 776,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3142,6 +3142,11 @@
       "Time": "2023-08-26T00:07:23.1065143+00:00",
       "NumProgressed": 9079,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-26T01:46:24.5109885+00:00",
+      "NumProgressed": 9083,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -3194,7 +3199,7 @@
       "Name": "Doctor Approved",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 1543
+      "UsersEstimate": 1544
     },
     {
       "ID": "15",
@@ -3202,7 +3207,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1725
+      "UsersEstimate": 1726
     },
     {
       "ID": "16",
@@ -3218,7 +3223,7 @@
       "Name": "Spore Taste",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 1180
+      "UsersEstimate": 1181
     },
     {
       "ID": "18",
@@ -3234,7 +3239,7 @@
       "Name": "Martian Music",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 1180
+      "UsersEstimate": 1181
     },
     {
       "ID": "2",
@@ -3393,14 +3398,14 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 9079,
+      "Progressed": 9083,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged_Achievements": "2023-08-26T00:07:23.1065138+00:00",
+  "LastChanged_Achievements": "2023-08-26T01:46:24.5109881+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:40.3624587+00:00",
-  "LastUpdate_Ratings": "2023-08-25T23:57:21.3197915+00:00",
-  "LastUpdate_Achievements": "2023-08-26T00:07:23.1065592+00:00"
+  "LastUpdate_Ratings": "2023-08-26T01:34:58.5743116+00:00",
+  "LastUpdate_Achievements": "2023-08-26T01:46:24.5110307+00:00"
 }

@@ -5,9 +5,9 @@
   "Ranking_Rating": 786,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
-  "Ranking_EOS_Progress": 254,
+  "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -135,9 +135,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 357,
+  "EOS_Progressed": 358,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -1040,6 +1040,11 @@
       "Time": "2023-08-25T16:06:12.8694018+00:00",
       "NumProgressed": 357,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-26T01:44:27.0205802+00:00",
+      "NumProgressed": 358,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -1051,7 +1056,7 @@
       "Name": "Digger",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ACH_ALL_TELEPORTS",
@@ -1075,7 +1080,7 @@
       "Name": "Electro-Scrap Master",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ACH_COLLECT_100_SCRAP",
@@ -1083,7 +1088,7 @@
       "Name": "Scrap Master",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "ACH_COLLECT_10_HERBS",
@@ -1097,9 +1102,9 @@
       "ID": "ACH_COLLECT_10_MUSHROOMS",
       "SetID": "7c4cldc",
       "Name": "Mushroom Picker",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 203
+      "UsersEstimate": 200
     },
     {
       "ID": "ACH_COLLECT_20_RED_BOOKS",
@@ -1131,7 +1136,7 @@
       "Name": "Electro-Scrap Gatherer",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ACH_COLLECT_50_SCRAP",
@@ -1177,9 +1182,9 @@
       "ID": "ACH_FIND_10_TREASURES",
       "SetID": "7c4cldc",
       "Name": "Treasure Hunter",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_FIRST_BASE",
@@ -1201,9 +1206,9 @@
       "ID": "ACH_KILL_20",
       "SetID": "7c4cldc",
       "Name": "Scrapper",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 171
+      "UsersEstimate": 168
     },
     {
       "ID": "ACH_KILL_50",
@@ -1219,7 +1224,7 @@
       "Name": "Prepper",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ACH_MAKE_FUEL",
@@ -1275,7 +1280,7 @@
       "Name": "Advanced Survivalist",
       "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ACH_SURVIVE_40_DAYS",
@@ -1291,14 +1296,14 @@
       "Name": "Teleport",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     }
   ],
   "AchievementSets": [
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 357,
+      "Progressed": 358,
       "Completed": 1
     }
   ],
@@ -1306,8 +1311,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-08-26T00:05:38.704002+00:00",
+  "LastChanged_Achievements": "2023-08-26T01:44:27.0205794+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:50.1715597+00:00",
-  "LastUpdate_Ratings": "2023-08-26T00:01:23.7412465+00:00",
-  "LastUpdate_Achievements": "2023-08-26T00:05:38.7040309+00:00"
+  "LastUpdate_Ratings": "2023-08-26T01:40:16.6657436+00:00",
+  "LastUpdate_Achievements": "2023-08-26T01:44:27.0206058+00:00"
 }

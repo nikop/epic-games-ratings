@@ -1,14 +1,14 @@
 # Pathfinder: Wrath of the Righteous - Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/pathfinder-wrath-of-the-righteous)  
 [View Rawdata](../../db/p/pathfinder__wrath_of_the_righteous.json)  
-Rating: 4.76 (Ranked 117)  
+Rating: 4.76 (Ranked 118)  
 Number of Ratings: 1,354  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 23.00% | ~2,546 |
+| Devoured by Darkness | 23.00% | ~2,547 |
 | A Spark | 17.00% | ~1,882 |
-| Burning City | 16.00% | ~1,771 |
+| Burning City | 16.00% | ~1,772 |
 | Mythic Choices | 13.00% | ~1,439 |
 | Defender's Heart | 13.00% | ~1,439 |
 | Banner over the Citadel | 12.00% | ~1,329 |
@@ -53,8 +53,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Truly Profane Gift | 0.90% | ~100 |
 | Path of the Dragon | 0.80% | ~89 |
 | End of Eternal Guard | 0.80% | ~89 |
-| Playful Mood | 0.70% | ~77 |
-| Dreadful Dragon | 0.70% | ~77 |
+| Playful Mood | 0.70% | ~78 |
+| Dreadful Dragon | 0.70% | ~78 |
 | Masterful Charge | 0.60% | ~66 |
 | Prelate's Nemesis | 0.40% | ~44 |
 | Masterful Dispel | 0.30% | ~33 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,071 (Ranked 122)  
+Progressed: 11,073 (Ranked 122)  
 Completed: 0 (0.00%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,6 +251,7 @@ Completed: 0 (0.00%) (Ranked 263)
 | 2023-08-23 | 11,042 | 0 |
 | 2023-08-24 | 11,054 | 0 |
 | 2023-08-25 | 11,071 | 0 |
+| 2023-08-26 | 11,073 | 0 |
 ## Awards
 Max (Character Customization): 1,701  (Ranked 118)  
 Sum: 6,903 (Ranked 114)  

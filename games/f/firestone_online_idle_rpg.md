@@ -5,17 +5,17 @@ Rating: 4.05 (Ranked 926)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,720 |
+| Victor | 93.00% | ~1,721 |
 | World Map | 79.00% | ~1,462 |
-| Temple of Eternals | 57.00% | ~1,054 |
-| Prestigious | 53.00% | ~980 |
-| Fellowship Power | 41.00% | ~758 |
-| Guild Power | 25.00% | ~462 |
+| Temple of Eternals | 57.00% | ~1,055 |
+| Prestigious | 53.00% | ~981 |
+| Fellowship Power | 41.00% | ~759 |
+| Guild Power | 25.00% | ~463 |
 | Prestigious x10 | 22.00% | ~407 |
 | The game is on | 20.00% | ~370 |
 | Exotic Merchant | 19.00% | ~352 |
-| Dragon Clicker | 17.00% | ~314 |
-| Miner Clicker | 17.00% | ~314 |
+| Dragon Clicker | 17.00% | ~315 |
+| Miner Clicker | 17.00% | ~315 |
 | Full Party | 16.00% | ~296 |
 | Inspection | 16.00% | ~296 |
 | Dragon Master | 15.00% | ~278 |
@@ -23,10 +23,10 @@ Rating: 4.05 (Ranked 926)
 | Hero inspection | 15.00% | ~278 |
 | Lieutenant | 14.00% | ~259 |
 | Mysterious Rock | 14.00% | ~259 |
-| Milestone collector | 13.00% | ~240 |
-| Natural Talent | 13.00% | ~240 |
-| Superior | 13.00% | ~240 |
-| The Unstoppable | 13.00% | ~240 |
+| Milestone collector | 13.00% | ~241 |
+| Natural Talent | 13.00% | ~241 |
+| Superior | 13.00% | ~241 |
+| The Unstoppable | 13.00% | ~241 |
 | Scientist | 12.00% | ~222 |
 | Doing My Part | 11.00% | ~204 |
 | Hunter | 11.00% | ~204 |
@@ -39,9 +39,9 @@ Rating: 4.05 (Ranked 926)
 | Frostfire Liberator | 10.00% | ~185 |
 | Moving Up The Ladder | 10.00% | ~185 |
 | Scroll Master | 10.00% | ~185 |
-| Here We Go Again | 9.00% | ~166 |
-| Master Enchanter | 9.00% | ~166 |
-| The father of Dragons | 9.00% | ~166 |
+| Here We Go Again | 9.00% | ~167 |
+| Master Enchanter | 9.00% | ~167 |
+| The father of Dragons | 9.00% | ~167 |
 | Crystal Mining | 8.00% | ~148 |
 | Trader | 8.00% | ~148 |
 | Blueprint Upgrades | 7.00% | ~130 |
@@ -55,19 +55,19 @@ Rating: 4.05 (Ranked 926)
 | Lock And Load | 6.00% | ~111 |
 | Missions Dedication | 6.00% | ~111 |
 | Sailor | 6.00% | ~111 |
-| Active Member | 5.00% | ~92 |
-| Background Story | 5.00% | ~92 |
-| Legendary | 5.00% | ~92 |
-| The Alchemist | 5.00% | ~92 |
+| Active Member | 5.00% | ~93 |
+| Background Story | 5.00% | ~93 |
+| Legendary | 5.00% | ~93 |
+| The Alchemist | 5.00% | ~93 |
 | Arena Challenger | 4.00% | ~74 |
 | Ebony Jungle Liberator | 4.00% | ~74 |
 | What lies behind the bush | 3.00% | ~56 |
 | Gear Enchanting | 2.00% | ~37 |
 | Mythic Power | 2.00% | ~37 |
-| Cauldron Liberator | 1.00% | ~18 |
-| Guardian Master | 1.00% | ~18 |
-| Training makes a Pro player | 1.00% | ~18 |
-| Transmute | 1.00% | ~18 |
+| Cauldron Liberator | 1.00% | ~19 |
+| Guardian Master | 1.00% | ~19 |
+| Training makes a Pro player | 1.00% | ~19 |
+| Transmute | 1.00% | ~19 |
 | Titan Power | 0.90% | ~17 |
 | Enhanced War Machines | 0.70% | ~13 |
 | Tree of Life | 0.70% | ~13 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 926)
 | Silverwood liberator | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,850 (Ranked 174)  
+Progressed: 1,851 (Ranked 174)  
 Completed: 2 (0.11%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,6 +208,7 @@ Completed: 2 (0.11%) (Ranked 207)
 | 2023-08-23 | 1,841 | 2 |
 | 2023-08-24 | 1,845 | 2 |
 | 2023-08-25 | 1,850 | 2 |
+| 2023-08-26 | 1,851 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

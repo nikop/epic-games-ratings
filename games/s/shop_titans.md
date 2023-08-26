@@ -17,8 +17,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | One Easy Payment | 0.80% | ~1,081 |
 | Some Assembly Required | 0.80% | ~1,081 |
 | Another Satisfied Customer | 0.80% | ~1,081 |
+| Pretty Penny | 0.80% | ~1,081 |
 | Own the Means of Production | 0.80% | ~1,081 |
-| Pretty Penny | 0.70% | ~946 |
 | The Daily Grind | 0.60% | ~811 |
 | Bounty Hunters | 0.60% | ~811 |
 | One-Armed Bandit | 0.60% | ~811 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~135 |
 | Cash Only Please | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,110 (Ranked 66)  
+Progressed: 135,116 (Ranked 66)  
 Completed: 138 (0.10%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,10 +247,10 @@ Completed: 138 (0.10%) (Ranked 210)
 | 2023-08-23 | 134,997 | 138 |
 | 2023-08-24 | 135,040 | 138 |
 | 2023-08-25 | 135,108 | 138 |
-| 2023-08-26 | 135,110 | 138 |
+| 2023-08-26 | 135,116 | 138 |
 ## Awards
 Max (Great for Beginners): 4,712  (Ranked 71)  
-Sum: 27,135 (Ranked 47)  
+Sum: 27,136 (Ranked 47)  
 Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
@@ -260,7 +260,7 @@ Diff (max vs sum): 24
 | This game has Diverse Characters | 3,858 |
 | This game is Highly Recommended | 3,737 |
 | This game has Easy Combat | 3,678 |
-| This game has Playful Visuals | 3,160 |
+| This game has Playful Visuals | 3,161 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -477,3 +477,4 @@ Diff (max vs sum): 24
 | 2023-08-21 | 3.99 | - | 4,707 | 27,123 |
 | 2023-08-22 | 3.99 | - | 4,709 | 27,128 |
 | 2023-08-24 | 3.99 | - | 4,712 | 27,135 |
+| 2023-08-26 | 3.99 | - | 4,712 | 27,136 |

@@ -3144,9 +3144,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 72308,
+  "EOS_Progressed": 72309,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 317,
+  "EOS_NewPlayers": 316,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -16414,6 +16414,11 @@
       "Time": "2023-08-26T00:07:29.7579239+00:00",
       "NumProgressed": 72308,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-08-26T01:46:34.1516281+00:00",
+      "NumProgressed": 72309,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 37,
@@ -16433,7 +16438,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 20969
+      "UsersEstimate": 20970
     },
     {
       "ID": "ACH_0012",
@@ -16497,7 +16502,7 @@
       "Name": "Savvy Seeker",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 4338
+      "UsersEstimate": 4339
     },
     {
       "ID": "ACH_0040",
@@ -16569,7 +16574,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 47000
+      "UsersEstimate": 47001
     },
     {
       "ID": "ACH_0210",
@@ -16577,7 +16582,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 53508
+      "UsersEstimate": 53509
     },
     {
       "ID": "ACH_0211",
@@ -16689,7 +16694,7 @@
       "Name": "Raider\u2019s Ruin",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 12292
+      "UsersEstimate": 12293
     },
     {
       "ID": "ACH_0452",
@@ -16697,7 +16702,7 @@
       "Name": "Dragonslayer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 12292
+      "UsersEstimate": 12293
     },
     {
       "ID": "ACH_0460",
@@ -16720,22 +16725,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 72308,
+      "Progressed": 72309,
       "Completed": 42
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 655,
-      "Completed": 655
+      "Progressed": 656,
+      "Completed": 656
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-08-25T13:02:32.3153816+00:00",
-  "LastChanged_Achievements": "2023-08-26T00:07:29.7579232+00:00",
+  "LastChanged_Achievements": "2023-08-26T01:46:34.1516279+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:48.5211502+00:00",
-  "LastUpdate_Ratings": "2023-08-25T23:58:20.8889004+00:00",
-  "LastUpdate_Achievements": "2023-08-26T00:07:29.7580343+00:00"
+  "LastUpdate_Ratings": "2023-08-26T01:36:17.2676954+00:00",
+  "LastUpdate_Achievements": "2023-08-26T01:46:34.1517147+00:00"
 }

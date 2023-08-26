@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 839,
+  "EOS_Progressed": 840,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -2020,6 +2020,11 @@
       "Time": "2023-08-25T01:49:07.0126765+00:00",
       "NumProgressed": 839,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-26T01:45:43.2132656+00:00",
+      "NumProgressed": 840,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -2055,7 +2060,7 @@
       "Name": "Treasure Trove",
       "Percentage": 14,
       "XP": 75,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -2103,7 +2108,7 @@
       "Name": "Street Style",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "CultivairChests1",
@@ -2223,7 +2228,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "MapCompletion1",
@@ -2231,7 +2236,7 @@
       "Name": "Cartographer",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "NoCritterSump",
@@ -2311,7 +2316,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "RewindDamage1",
@@ -2407,7 +2412,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "WarwickDefeated",
@@ -2439,7 +2444,7 @@
       "Name": "The Brass Boss",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "Zarkon2Defeated",
@@ -2454,7 +2459,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 839,
+      "Progressed": 840,
       "Completed": 5
     }
   ],
@@ -2462,8 +2467,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-08-26T00:06:43.1529045+00:00",
+  "LastChanged_Achievements": "2023-08-26T01:45:43.2132646+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:11.9722245+00:00",
-  "LastUpdate_Ratings": "2023-08-25T23:57:54.4027543+00:00",
-  "LastUpdate_Achievements": "2023-08-26T00:06:43.1529625+00:00"
+  "LastUpdate_Ratings": "2023-08-26T01:35:41.0733107+00:00",
+  "LastUpdate_Achievements": "2023-08-26T01:45:43.2133234+00:00"
 }

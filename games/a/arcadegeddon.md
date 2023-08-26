@@ -6,26 +6,26 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 91.00% | ~7,900 |
-| Photogenic | 88.00% | ~7,639 |
-| Surge Gauntlet Jockey | 85.00% | ~7,379 |
-| Plug It In | 84.00% | ~7,292 |
-| Adventure Time | 80.00% | ~6,945 |
-| Playing With Power | 77.00% | ~6,684 |
+| Let's Get This Party Started | 91.00% | ~7,901 |
+| Photogenic | 88.00% | ~7,640 |
+| Surge Gauntlet Jockey | 85.00% | ~7,380 |
+| Plug It In | 84.00% | ~7,293 |
+| Adventure Time | 80.00% | ~6,946 |
+| Playing With Power | 77.00% | ~6,685 |
 | Coup d'Etat | 59.00% | ~5,122 |
-| You're Fired | 57.00% | ~4,948 |
-| Get Furious | 56.00% | ~4,861 |
+| You're Fired | 57.00% | ~4,949 |
+| Get Furious | 56.00% | ~4,862 |
 | Gunplay And Cosplay | 55.00% | ~4,775 |
 | Hacks In Stacks | 55.00% | ~4,775 |
 | Meching Enemies | 49.00% | ~4,254 |
 | Ticket Toddler | 44.00% | ~3,820 |
-| Booty Bashing | 40.00% | ~3,472 |
+| Booty Bashing | 40.00% | ~3,473 |
 | Field Medic | 38.00% | ~3,299 |
 | Here Comes a New Challenger | 38.00% | ~3,299 |
 | Rapid Response | 33.00% | ~2,865 |
 | Surge Ahead | 31.00% | ~2,691 |
 | The Full Monty | 31.00% | ~2,691 |
-| Guardian Angel | 29.00% | ~2,517 |
+| Guardian Angel | 29.00% | ~2,518 |
 | Poppin Noggins | 25.00% | ~2,170 |
 | Clips and Crits | 20.00% | ~1,736 |
 | Grey Goo | 18.00% | ~1,563 |
@@ -37,7 +37,7 @@ Number of Ratings: 801  (23.09.2022)
 | Get In The Ring! | 10.00% | ~868 |
 | 1.21 Gigawatts | 10.00% | ~868 |
 | This Is My Boomstick! | 10.00% | ~868 |
-| Rescue Ranger | 8.00% | ~694 |
+| Rescue Ranger | 8.00% | ~695 |
 | Ticket Titan | 7.00% | ~608 |
 | Surge Gauntlet Scholar | 6.00% | ~521 |
 | Master of Arms | 5.00% | ~434 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~35 |
 | Pyrotechnical | 0.20% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,681 (Ranked 130)  
+Progressed: 8,682 (Ranked 130)  
 Completed: 0 (0.00%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 0 (0.00%) (Ranked 263)
 | 2023-08-23 | 8,652 | 0 |
 | 2023-08-24 | 8,665 | 0 |
 | 2023-08-25 | 8,680 | 0 |
-| 2023-08-26 | 8,681 | 0 |
+| 2023-08-26 | 8,682 | 0 |
 ## Awards
 Max (Relaxing): 64  (Ranked 388)  
 Sum: 458 (Ranked 309)  

@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 357,
+  "EOS_Progressed": 361,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 356,
+  "EOS_NewPlayers": 360,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -222,6 +222,11 @@
       "Time": "2023-08-26T00:05:10.7976296+00:00",
       "NumProgressed": 357,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-26T01:43:46.3257114+00:00",
+      "NumProgressed": 361,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -240,25 +245,25 @@
       "ID": "AC01",
       "SetID": "l4abp0",
       "Name": "A Thousand Years Later",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 30,
-      "UsersEstimate": 303
+      "UsersEstimate": 310
     },
     {
       "ID": "AC02",
       "SetID": "l4abp0",
       "Name": "Blood and Dust",
-      "Percentage": 41,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 146
+      "UsersEstimate": 155
     },
     {
       "ID": "AC03",
       "SetID": "l4abp0",
       "Name": "Blood and Gold",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 111
+      "UsersEstimate": 116
     },
     {
       "ID": "AC04",
@@ -266,7 +271,7 @@
       "Name": "Blood and Iron",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "AC05",
@@ -280,9 +285,9 @@
       "ID": "AC06",
       "SetID": "l4abp0",
       "Name": "The Last Ascension",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 25
     },
     {
       "ID": "AC07",
@@ -290,7 +295,7 @@
       "Name": "The Sea dies on the Shore",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "AC08",
@@ -304,9 +309,9 @@
       "ID": "AC09",
       "SetID": "l4abp0",
       "Name": "Fermosa Fembra",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 14
     },
     {
       "ID": "AC10",
@@ -432,9 +437,9 @@
       "ID": "AC25",
       "SetID": "l4abp0",
       "Name": "House of Grief and Hatred",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "AC26",
@@ -456,9 +461,9 @@
       "ID": "AC28",
       "SetID": "l4abp0",
       "Name": "The Punished One",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 72
     },
     {
       "ID": "AC29",
@@ -472,17 +477,17 @@
       "ID": "AC30",
       "SetID": "l4abp0",
       "Name": "The Anointed One",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 90
     },
     {
       "ID": "AC31",
       "SetID": "l4abp0",
       "Name": "The Merciless One",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 29
     },
     {
       "ID": "AC32",
@@ -552,9 +557,9 @@
       "ID": "AC40",
       "SetID": "l4abp0",
       "Name": "Welcome Back!",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 235
     },
     {
       "ID": "AC41",
@@ -568,9 +573,9 @@
       "ID": "AC42",
       "SetID": "l4abp0",
       "Name": "Two Old Ones Eating Soup",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "AC43",
@@ -601,14 +606,14 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 357,
+      "Progressed": 361,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-26T07:57:19.1818171+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
-  "LastChanged_Achievements": "2023-08-26T00:05:10.7976288+00:00",
+  "LastChanged_Achievements": "2023-08-26T01:43:46.3257109+00:00",
   "LastUpdate_AppInfo": "2023-08-22T18:57:00.5189311+00:00",
-  "LastUpdate_Ratings": "2023-08-25T23:59:13.3230827+00:00",
-  "LastUpdate_Achievements": "2023-08-26T00:05:10.7976739+00:00"
+  "LastUpdate_Ratings": "2023-08-26T01:37:24.7592224+00:00",
+  "LastUpdate_Achievements": "2023-08-26T01:43:46.3257478+00:00"
 }

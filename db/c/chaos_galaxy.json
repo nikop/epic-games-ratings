@@ -4,7 +4,7 @@
   "ProductSlug": "chaos-galaxy-a33dac",
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 343,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-04-10T11:00:00+00:00",
@@ -183,25 +183,25 @@
       "ID": "15",
       "SetID": "4fgie3j",
       "Name": "Tyrant Rise",
-      "Percentage": 29,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "16",
       "SetID": "4fgie3j",
       "Name": "Great Civil War",
-      "Percentage": 21,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "17",
       "SetID": "4fgie3j",
       "Name": "Death of Princess",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "18",
@@ -526,8 +526,8 @@
   ],
   "FirstSeen": "2023-07-23T23:01:17.0693395+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:09.8728342+00:00",
-  "LastChanged_Achievements": "2023-08-26T00:04:29.039399+00:00",
+  "LastChanged_Achievements": "2023-08-26T01:43:00.8740012+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:27.1589939+00:00",
-  "LastUpdate_Ratings": "2023-08-25T23:57:58.9736126+00:00",
-  "LastUpdate_Achievements": "2023-08-26T00:04:29.039475+00:00"
+  "LastUpdate_Ratings": "2023-08-26T01:35:52.0869884+00:00",
+  "LastUpdate_Achievements": "2023-08-26T01:43:00.8740364+00:00"
 }

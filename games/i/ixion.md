@@ -38,13 +38,13 @@ Rating: 4.56 (Ranked 473)
 | Sustainable Energy | 3.00% | ~93 |
 | In Dolos We Trust | 3.00% | ~93 |
 | Pedal to the Metal | 3.00% | ~93 |
+| Pulsar Disciple | 3.00% | ~93 |
 | Mutual Loyalty | 2.00% | ~62 |
 | Catastrophe Avoided | 2.00% | ~62 |
 | Praise the Hull! | 2.00% | ~62 |
 | Space Greenhouse | 2.00% | ~62 |
 | Delivery! | 2.00% | ~62 |
 | Help of the Forgotten Member | 2.00% | ~62 |
-| Pulsar Disciple | 2.00% | ~62 |
 | Better Him Than Me | 1.00% | ~31 |
 | Tiqqun Contender | 1.00% | ~31 |
 | Remember the Dead | 1.00% | ~31 |

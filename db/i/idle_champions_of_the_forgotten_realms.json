@@ -6094,9 +6094,9 @@
       "Count": 3373
     }
   ],
-  "EOS_Progressed": 224935,
-  "EOS_Completed": 2214,
-  "EOS_NewPlayers": 1780,
+  "EOS_Progressed": 224953,
+  "EOS_Completed": 2215,
+  "EOS_NewPlayers": 1772,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -20044,6 +20044,11 @@
       "Time": "2023-08-26T00:07:05.8992694+00:00",
       "NumProgressed": 224935,
       "NumCompleted": 2214
+    },
+    {
+      "Time": "2023-08-26T01:46:01.4991508+00:00",
+      "NumProgressed": 224953,
+      "NumCompleted": 2215
     }
   ],
   "TotalAchievements": 516,
@@ -21725,9 +21730,9 @@
       "ID": "objective_completed_3",
       "SetID": "cc37lbc",
       "Name": "The Cursed Farmer",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1350
+      "UsersEstimate": 1575
     },
     {
       "ID": "objective_completed_34",
@@ -22445,9 +22450,9 @@
       "ID": "objective_completed_575",
       "SetID": "cc37lbc",
       "Name": "Difficult Terrain",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 450
     },
     {
       "ID": "objective_completed_576",
@@ -24182,21 +24187,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 191209,
+      "Progressed": 191227,
       "Completed": 3307
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 224935,
-      "Completed": 2214
+      "Progressed": 224953,
+      "Completed": 2215
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-26T00:00:58.4440232+00:00",
-  "LastChanged_Achievements": "2023-08-26T00:07:05.8992688+00:00",
+  "LastChanged_Achievements": "2023-08-26T01:46:01.4991504+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:12.3267162+00:00",
-  "LastUpdate_Ratings": "2023-08-26T00:00:58.444024+00:00",
-  "LastUpdate_Achievements": "2023-08-26T00:07:05.9023419+00:00"
+  "LastUpdate_Ratings": "2023-08-26T01:39:43.2514622+00:00",
+  "LastUpdate_Achievements": "2023-08-26T01:46:01.502117+00:00"
 }

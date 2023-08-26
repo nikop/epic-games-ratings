@@ -50,6 +50,7 @@ Number of Ratings: 37  (23.09.2022)
 | I like to build stuff... V | 2.00% | ~85 |
 | The King's new clothes III | 2.00% | ~85 |
 | My precious... II | 2.00% | ~85 |
+| My precious... III | 2.00% | ~85 |
 | Builder III | 2.00% | ~85 |
 | Completionist II | 2.00% | ~85 |
 | Genius | 2.00% | ~85 |
@@ -58,7 +59,6 @@ Number of Ratings: 37  (23.09.2022)
 | Tools of the trade III | 2.00% | ~85 |
 | Out of the frying pan | 2.00% | ~85 |
 | Survivalist | 1.00% | ~43 |
-| My precious... III | 1.00% | ~43 |
 | Lord of War | 1.00% | ~43 |
 | Plague strikes! | 1.00% | ~43 |
 | Builder IV | 1.00% | ~43 |

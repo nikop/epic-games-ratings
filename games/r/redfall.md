@@ -39,6 +39,8 @@ Rating: 3.50 (Ranked 977)
 | Dexterity Save | 0.10% | ~2 |
 | Bob’s Final Hour | 0.10% | ~2 |
 | Helping Hand | 0.10% | ~2 |
+| Good Samaritan | 0.10% | ~2 |
+| Curious Finch | 0.10% | ~2 |
 | I Spit On Your Grave | 0.10% | ~2 |
 | Home Is Where the Heart Is | 0.00% | ~0 |
 | Deforestation | 0.00% | ~0 |
@@ -65,8 +67,6 @@ Rating: 3.50 (Ranked 977)
 | Under a Bushel | 0.00% | ~0 |
 | Saw That Coming | 0.00% | ~0 |
 | Lights Out | 0.00% | ~0 |
-| Good Samaritan | 0.00% | ~0 |
-| Curious Finch | 0.00% | ~0 |
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Eagle Eyes | 0.00% | ~0 |
 | Friends 'Til The End | 0.00% | ~0 |
