@@ -30,7 +30,7 @@
 | 28 | [Remains](games/r/remains.md) | 10.42% |
 | 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.29% |
 | 30 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
-| 31 | [Sonic Origins](games/s/sonic_origins.md) | 9.43% |
+| 31 | [Sonic Origins](games/s/sonic_origins.md) | 9.41% |
 | 32 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
 | 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.98% |
 | 34 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.47% |
@@ -61,7 +61,7 @@
 | 59 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
 | 60 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.09% |
 | 60 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.09% |
-| 62 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.98% |
+| 62 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.97% |
 | 63 | [ZZT!](games/z/zzt!.md) | 3.89% |
 | 64 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 65 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
@@ -158,7 +158,7 @@
 | 156 | [Tails of Iron](games/t/tails_of_iron.md) | 0.43% |
 | 156 | [Tchia](games/t/tchia.md) | 0.43% |
 | 158 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.41% |
-| 159 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 0.40% |
+| 159 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 0.39% |
 | 160 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.38% |
 | 160 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
 | 162 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.37% |
@@ -218,11 +218,11 @@
 | 215 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
 | 215 | [Operation New Earth](games/o/operation_new_earth.md) | 0.09% |
 | 215 | [Outward Definitive Edition](games/o/outward.md) | 0.09% |
+| 215 | [Remnant 2](games/r/remnant_2.md) | 0.09% |
 | 215 | [Riverbond](games/r/riverbond.md) | 0.09% |
 | 215 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
 | 215 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
-| 222 | [Partisans 1941](games/p/partisans_1941.md) | 0.08% |
-| 222 | [Remnant 2](games/r/remnant_2.md) | 0.08% |
+| 223 | [Partisans 1941](games/p/partisans_1941.md) | 0.08% |
 | 224 | [Saints Row](games/s/saints_row.md) | 0.07% |
 | 224 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
 | 226 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.06% |
