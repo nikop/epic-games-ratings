@@ -11,13 +11,13 @@
 | 9 | [Overloop](games/o/overloop.md) | 25.00% |
 | 10 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 11 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 23.73% |
-| 12 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.57% |
+| 12 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.40% |
 | 13 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 13 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 15 | [Island Cities](games/i/island_cities.md) | 18.49% |
 | 16 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
 | 17 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 17.91% |
-| 18 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.55% |
+| 18 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.46% |
 | 19 | [Anna's Quest](games/a/anna's_quest.md) | 13.51% |
 | 20 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.10% |
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 11.36% |
@@ -58,9 +58,9 @@
 | 56 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 57 | [JARS](games/j/jars.md) | 4.55% |
 | 58 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.37% |
-| 59 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
-| 60 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.09% |
-| 60 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.09% |
+| 59 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.18% |
+| 60 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
+| 61 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.09% |
 | 62 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.97% |
 | 63 | [ZZT!](games/z/zzt!.md) | 3.89% |
 | 64 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
@@ -70,11 +70,11 @@
 | 68 | [Bunny Park](games/b/bunny_park.md) | 3.37% |
 | 69 | [The Complex](games/t/the_complex.md) | 3.33% |
 | 70 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
-| 71 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.23% |
+| 71 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.22% |
 | 72 | [HordeCore](games/h/hordecore.md) | 3.15% |
 | 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.12% |
 | 74 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.04% |
-| 75 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.00% |
+| 75 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.99% |
 | 76 | [Monster Harvest](games/m/monster_harvest.md) | 2.93% |
 | 76 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 78 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.80% |
@@ -92,7 +92,7 @@
 | 90 | [Bloodshore](games/b/bloodshore.md) | 2.20% |
 | 91 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
 | 92 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.01% |
-| 93 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 1.95% |
+| 93 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 1.94% |
 | 94 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
 | 95 | [Night Book](games/n/night_book.md) | 1.86% |
 | 96 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
@@ -126,7 +126,7 @@
 | 124 | [Hades](games/h/hades.md) | 0.90% |
 | 125 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 126 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
-| 127 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.80% |
+| 127 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.81% |
 | 128 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.75% |
 | 129 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.74% |
 | 130 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.72% |
@@ -179,8 +179,8 @@
 | 176 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
 | 178 | [Scrapnaut](games/s/scrapnaut.md) | 0.28% |
 | 178 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.28% |
-| 180 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.26% |
-| 181 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
+| 180 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
+| 180 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.25% |
 | 182 | [Despot's Game](games/d/despot's_game.md) | 0.24% |
 | 182 | [Filament](games/f/filament.md) | 0.24% |
 | 184 | [Blanc](games/b/blanc.md) | 0.23% |
