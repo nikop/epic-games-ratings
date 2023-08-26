@@ -2522,7 +2522,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 68033,
+  "EOS_Progressed": 68034,
   "EOS_Completed": 109,
   "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 2,
@@ -13192,6 +13192,11 @@
       "Time": "2023-08-26T03:08:29.8405587+00:00",
       "NumProgressed": 68033,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2023-08-26T05:07:44.3677473+00:00",
+      "NumProgressed": 68034,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 61,
@@ -13427,7 +13432,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 19049
+      "UsersEstimate": 19050
     },
     {
       "ID": "FREEZE_1_5",
@@ -13547,7 +13552,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 34016
+      "UsersEstimate": 34017
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -13595,7 +13600,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 23131
+      "UsersEstimate": 23132
     },
     {
       "ID": "MYSTERY_02",
@@ -13690,13 +13695,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 68033,
+      "Progressed": 68034,
       "Completed": 109
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38313,
+      "Progressed": 38314,
       "Completed": 2659
     }
   ],
@@ -13704,8 +13709,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-08-25T03:58:20.3909572+00:00",
-  "LastChanged_Achievements": "2023-08-26T04:08:14.3994239+00:00",
+  "LastChanged_Achievements": "2023-08-26T05:07:44.367747+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:36.1459925+00:00",
-  "LastUpdate_Ratings": "2023-08-26T03:58:35.3414241+00:00",
-  "LastUpdate_Achievements": "2023-08-26T04:08:14.3995456+00:00"
+  "LastUpdate_Ratings": "2023-08-26T04:58:11.1109447+00:00",
+  "LastUpdate_Achievements": "2023-08-26T05:07:44.3678407+00:00"
 }

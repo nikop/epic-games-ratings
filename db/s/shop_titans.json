@@ -5740,7 +5740,7 @@
       "Count": 3737
     }
   ],
-  "EOS_Progressed": 135125,
+  "EOS_Progressed": 135129,
   "EOS_Completed": 138,
   "EOS_NewPlayers": 379,
   "EOS_NewCompleters": 5,
@@ -18805,6 +18805,11 @@
       "Time": "2023-08-26T04:07:25.75785+00:00",
       "NumProgressed": 135125,
       "NumCompleted": 138
+    },
+    {
+      "Time": "2023-08-26T05:07:16.0817113+00:00",
+      "NumProgressed": 135129,
+      "NumCompleted": 138
     }
   ],
   "TotalAchievements": 112,
@@ -18824,7 +18829,7 @@
       "Name": "On the Path to Greatness",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "advlevel03",
@@ -18864,7 +18869,7 @@
       "Name": "Ascended",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "ascend02",
@@ -18928,7 +18933,7 @@
       "Name": "Research \u0026 Development",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "blueprint03",
@@ -18944,7 +18949,7 @@
       "Name": "Vanity, Verily",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "boss01",
@@ -18976,7 +18981,7 @@
       "Name": "Fated Encounters",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "chest01",
@@ -19008,7 +19013,7 @@
       "Name": "Blank Page Syndrome",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "collection02",
@@ -19176,7 +19181,7 @@
       "Name": "Power of Love",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "energy03",
@@ -19224,7 +19229,7 @@
       "Name": "Efficient Floor Space",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "furniture02",
@@ -19256,7 +19261,7 @@
       "Name": "Flawless Fusion",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "fuselegendary",
@@ -19280,7 +19285,7 @@
       "Name": "Gem Expert",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "gold01",
@@ -19312,7 +19317,7 @@
       "Name": "Royal Ransom",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "gold05",
@@ -19336,7 +19341,7 @@
       "Name": "Helping Hand",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "help02",
@@ -19480,7 +19485,7 @@
       "Name": "Natural 20",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "master03",
@@ -19640,7 +19645,7 @@
       "Name": "Magical Harmony",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "typeunlock01",
@@ -19711,15 +19716,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135125,
+      "Progressed": 135129,
       "Completed": 138
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-26T01:40:15.2723707+00:00",
-  "LastChanged_Achievements": "2023-08-26T04:07:25.7578497+00:00",
+  "LastChanged_Achievements": "2023-08-26T05:07:16.081711+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:50.7489496+00:00",
-  "LastUpdate_Ratings": "2023-08-26T04:01:45.8206525+00:00",
-  "LastUpdate_Achievements": "2023-08-26T04:07:25.7581699+00:00"
+  "LastUpdate_Ratings": "2023-08-26T05:01:30.1543272+00:00",
+  "LastUpdate_Achievements": "2023-08-26T05:07:16.0819086+00:00"
 }

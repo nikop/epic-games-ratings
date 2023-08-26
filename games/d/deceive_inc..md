@@ -17,10 +17,10 @@ Rating: 4.58 (Ranked 426)
 | You Only Live Twice | 16.00% | ~2,826 |
 | Fully Decked Out | 16.00% | ~2,826 |
 | A view to Win | 13.00% | ~2,296 |
-| The Living Portrait | 12.00% | ~2,119 |
-| Private Collection | 12.00% | ~2,119 |
-| Hostile Takeover | 12.00% | ~2,119 |
-| Smells Like Trouble | 12.00% | ~2,119 |
+| The Living Portrait | 12.00% | ~2,120 |
+| Private Collection | 12.00% | ~2,120 |
+| Hostile Takeover | 12.00% | ~2,120 |
+| Smells Like Trouble | 12.00% | ~2,120 |
 | Dr. No Kill | 11.00% | ~1,943 |
 | My Motto, My Creed | 11.00% | ~1,943 |
 | Killer Looks | 11.00% | ~1,943 |
@@ -42,7 +42,7 @@ Rating: 4.58 (Ranked 426)
 | Extraction Confusion | 0.20% | ~35 |
 | Spyfall | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,662 (Ranked 111)  
+Progressed: 17,663 (Ranked 111)  
 Completed: 1 (0.01%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 1 (0.01%) (Ranked 251)
 | 2023-08-23 | 17,592 | 1 |
 | 2023-08-24 | 17,618 | 1 |
 | 2023-08-25 | 17,655 | 1 |
-| 2023-08-26 | 17,662 | 1 |
+| 2023-08-26 | 17,663 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

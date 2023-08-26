@@ -589,9 +589,9 @@
       "ID": "CLG_SKILL_LEVEL5_1",
       "SetID": "89cjc9l",
       "Name": "Topped up",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "CLG_SKILL_LEVEL5_2",
@@ -733,9 +733,9 @@
       "ID": "PRG_BOSS_MAGE",
       "SetID": "89cjc9l",
       "Name": "The Shaman",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 70
     },
     {
       "ID": "PRG_BOSS_MAGICIAN",
@@ -757,9 +757,9 @@
       "ID": "PRG_BOSS_OOZE",
       "SetID": "89cjc9l",
       "Name": "The Ooze",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     },
     {
       "ID": "PRG_BOSS_SHIELD",
@@ -1013,9 +1013,9 @@
       "ID": "PRG_NORMAL_10001",
       "SetID": "89cjc9l",
       "Name": "Ember",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "PRG_NORMAL_10002",
@@ -1118,8 +1118,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-08-23T10:59:34.2635846+00:00",
-  "LastChanged_Achievements": "2023-08-26T04:04:21.8218216+00:00",
+  "LastChanged_Achievements": "2023-08-26T05:04:07.8824265+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:56.8894858+00:00",
-  "LastUpdate_Ratings": "2023-08-26T04:00:34.6180858+00:00",
-  "LastUpdate_Achievements": "2023-08-26T04:04:21.8219042+00:00"
+  "LastUpdate_Ratings": "2023-08-26T05:00:16.5029304+00:00",
+  "LastUpdate_Achievements": "2023-08-26T05:04:07.8824884+00:00"
 }

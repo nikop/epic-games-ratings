@@ -4,7 +4,7 @@
   "ProductSlug": "sine-mora-ex-d4fd23",
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 343,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-07-29T13:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:47.8148564+00:00",
   "LastChanged": "2023-03-31T05:57:47.8148565+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:48.6234952+00:00",
-  "LastUpdate_Ratings": "2023-08-26T03:58:04.9498674+00:00",
-  "LastUpdate_Achievements": "2023-08-26T04:04:44.1072493+00:00"
+  "LastUpdate_Ratings": "2023-08-26T04:57:41.1988749+00:00",
+  "LastUpdate_Achievements": "2023-08-26T05:04:30.3616834+00:00"
 }

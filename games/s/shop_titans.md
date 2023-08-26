@@ -31,20 +31,20 @@ Number of Ratings: 12,664  (23.09.2022)
 | Accomplished Merchant | 0.50% | ~676 |
 | Did we pack lunch? | 0.50% | ~676 |
 | Arcane Industries | 0.50% | ~676 |
-| On the Path to Greatness | 0.40% | ~540 |
-| Ascended | 0.40% | ~540 |
-| Research & Development | 0.40% | ~540 |
-| Vanity, Verily | 0.40% | ~540 |
-| Fated Encounters | 0.40% | ~540 |
-| Blank Page Syndrome | 0.40% | ~540 |
-| Power of Love | 0.40% | ~540 |
-| Efficient Floor Space | 0.40% | ~540 |
-| Flawless Fusion | 0.40% | ~540 |
-| Gem Expert | 0.40% | ~540 |
-| Royal Ransom | 0.40% | ~540 |
-| Helping Hand | 0.40% | ~540 |
-| Natural 20 | 0.40% | ~540 |
-| Magical Harmony | 0.40% | ~540 |
+| On the Path to Greatness | 0.40% | ~541 |
+| Ascended | 0.40% | ~541 |
+| Research & Development | 0.40% | ~541 |
+| Vanity, Verily | 0.40% | ~541 |
+| Fated Encounters | 0.40% | ~541 |
+| Blank Page Syndrome | 0.40% | ~541 |
+| Power of Love | 0.40% | ~541 |
+| Efficient Floor Space | 0.40% | ~541 |
+| Flawless Fusion | 0.40% | ~541 |
+| Gem Expert | 0.40% | ~541 |
+| Royal Ransom | 0.40% | ~541 |
+| Helping Hand | 0.40% | ~541 |
+| Natural 20 | 0.40% | ~541 |
+| Magical Harmony | 0.40% | ~541 |
 | A Notch Above the Rest | 0.30% | ~405 |
 | Cream of the Crop | 0.30% | ~405 |
 | Top of the World | 0.30% | ~405 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~135 |
 | Cash Only Please | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,125 (Ranked 66)  
+Progressed: 135,129 (Ranked 66)  
 Completed: 138 (0.10%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 138 (0.10%) (Ranked 211)
 | 2023-08-23 | 134,997 | 138 |
 | 2023-08-24 | 135,040 | 138 |
 | 2023-08-25 | 135,108 | 138 |
-| 2023-08-26 | 135,125 | 138 |
+| 2023-08-26 | 135,129 | 138 |
 ## Awards
 Max (Great for Beginners): 4,712  (Ranked 71)  
 Sum: 27,136 (Ranked 47)  

@@ -6050,10 +6050,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 31222,
       "NumberOfAwardsMax": 5189
+    },
+    {
+      "Time": "2023-08-26T05:01:06.4008424+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 31223,
+      "NumberOfAwardsMax": 5189
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31222,
+  "NumberOfAwards": 31223,
   "NumberOfAwardsMax": 5189,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6073,7 +6079,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4733
+      "Count": 4734
     },
     {
       "Text": "This game is Relaxing",
@@ -6100,10 +6106,10 @@
       "Count": 3373
     }
   ],
-  "EOS_Progressed": 224970,
-  "EOS_Completed": 2215,
-  "EOS_NewPlayers": 1763,
-  "EOS_NewCompleters": 23,
+  "EOS_Progressed": 224983,
+  "EOS_Completed": 2216,
+  "EOS_NewPlayers": 1766,
+  "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -20070,6 +20076,11 @@
       "Time": "2023-08-26T04:07:32.0819003+00:00",
       "NumProgressed": 224970,
       "NumCompleted": 2215
+    },
+    {
+      "Time": "2023-08-26T05:07:22.9558253+00:00",
+      "NumProgressed": 224983,
+      "NumCompleted": 2216
     }
   ],
   "TotalAchievements": 516,
@@ -20081,7 +20092,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4499
+      "UsersEstimate": 4500
     },
     {
       "ID": "objective_completed_10",
@@ -20153,7 +20164,7 @@
       "Name": "Tall Tales",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "objective_completed_1051",
@@ -20185,7 +20196,7 @@
       "Name": "The Witchlight Carnival",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "objective_completed_1056",
@@ -20217,7 +20228,7 @@
       "Name": "Thieves of the Coven",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "objective_completed_1061",
@@ -20705,7 +20716,7 @@
       "Name": "Seeds of Destruction",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "objective_completed_1153",
@@ -20729,7 +20740,7 @@
       "Name": "The Evacuation of Waterdeep",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "objective_completed_1159",
@@ -20761,7 +20772,7 @@
       "Name": "Vecna Lives!",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "objective_completed_1164",
@@ -20785,7 +20796,7 @@
       "Name": "Vecna Loots!",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "objective_completed_1169",
@@ -20817,7 +20828,7 @@
       "Name": "Return to the Tomb",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "objective_completed_1174",
@@ -20841,7 +20852,7 @@
       "Name": "Heatwave",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "objective_completed_1179",
@@ -20865,7 +20876,7 @@
       "Name": "The Dread Domain of Tovag",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "objective_completed_1184",
@@ -20889,7 +20900,7 @@
       "Name": "The Castle of a Thousand Vecnas",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "objective_completed_1189",
@@ -20985,7 +20996,7 @@
       "Name": "Who Lurks Below?",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "objective_completed_1214",
@@ -23161,7 +23172,7 @@
       "Name": "The Giant\u0027s Bane Tavern",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "objective_completed_691",
@@ -23193,7 +23204,7 @@
       "Name": "The Everlasting Rime",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "objective_completed_696",
@@ -23313,7 +23324,7 @@
       "Name": "Moose Tracks",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "objective_completed_803",
@@ -23345,7 +23356,7 @@
       "Name": "Civilization",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "objective_completed_808",
@@ -24105,7 +24116,7 @@
       "Name": "Rocky Reception",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "objective_completed_1376",
@@ -24121,7 +24132,7 @@
       "Name": "Rock and Roll",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "objective_completed_1381",
@@ -24137,7 +24148,7 @@
       "Name": "Flight of the Kindori Pod",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "objective_completed_1386",
@@ -24153,7 +24164,7 @@
       "Name": "Topolah\u0027s Tower",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "objective_completed_1391",
@@ -24208,21 +24219,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 191244,
-      "Completed": 3307
+      "Progressed": 191257,
+      "Completed": 3308
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 224970,
-      "Completed": 2215
+      "Progressed": 224983,
+      "Completed": 2216
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-08-26T03:01:42.0866393+00:00",
-  "LastChanged_Achievements": "2023-08-26T04:07:32.0818999+00:00",
+  "LastChanged": "2023-08-26T05:01:06.4008424+00:00",
+  "LastChanged_Achievements": "2023-08-26T05:07:22.955825+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:12.3267162+00:00",
-  "LastUpdate_Ratings": "2023-08-26T04:01:19.7802474+00:00",
-  "LastUpdate_Achievements": "2023-08-26T04:07:32.0857312+00:00"
+  "LastUpdate_Ratings": "2023-08-26T05:01:06.400843+00:00",
+  "LastUpdate_Achievements": "2023-08-26T05:07:22.9582426+00:00"
 }

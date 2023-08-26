@@ -2487,9 +2487,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 531429,
+  "EOS_Progressed": 531430,
   "EOS_Completed": 1515,
-  "EOS_NewPlayers": 591,
+  "EOS_NewPlayers": 586,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -16247,6 +16247,11 @@
       "Time": "2023-08-26T04:06:21.2797595+00:00",
       "NumProgressed": 531429,
       "NumCompleted": 1515
+    },
+    {
+      "Time": "2023-08-26T05:06:11.0069598+00:00",
+      "NumProgressed": 531430,
+      "NumCompleted": 1515
     }
   ],
   "TotalAchievements": 37,
@@ -16314,7 +16319,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 441086
+      "UsersEstimate": 441087
     },
     {
       "ID": "HONED",
@@ -16362,7 +16367,7 @@
       "Name": "The Alkymancery",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 26571
+      "UsersEstimate": 26572
     },
     {
       "ID": "THE_BANQUET",
@@ -16474,7 +16479,7 @@
       "Name": "The Pitchwoods",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 26571
+      "UsersEstimate": 26572
     },
     {
       "ID": "THE_RED_HALL",
@@ -16553,15 +16558,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 531429,
+      "Progressed": 531430,
       "Completed": 1515
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-08-25T01:38:26.6445869+00:00",
-  "LastChanged_Achievements": "2023-08-26T04:06:21.2797591+00:00",
+  "LastChanged_Achievements": "2023-08-26T05:06:11.0069594+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:57.952106+00:00",
-  "LastUpdate_Ratings": "2023-08-26T03:57:50.0874253+00:00",
-  "LastUpdate_Achievements": "2023-08-26T04:06:21.2799024+00:00"
+  "LastUpdate_Ratings": "2023-08-26T04:57:26.161103+00:00",
+  "LastUpdate_Achievements": "2023-08-26T05:06:11.0070474+00:00"
 }

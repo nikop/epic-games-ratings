@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~4,499 |
+| A Brief Tour of the Realms | 2.00% | ~4,500 |
 | Beast Intentions | 0.70% | ~1,575 |
 | The Cursed Farmer | 0.70% | ~1,575 |
 | The Mad Wizard | 0.50% | ~1,125 |
@@ -21,20 +21,20 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Chaotic Hunt for The Last Breath | 0.30% | ~574 |
 | There's a Flying Snake in my Boot! | 0.30% | ~574 |
 | Maddening | 0.20% | ~450 |
-| Tall Tales | 0.20% | ~382 |
-| The Witchlight Carnival | 0.20% | ~382 |
-| Thieves of the Coven | 0.20% | ~382 |
+| Tall Tales | 0.20% | ~383 |
+| The Witchlight Carnival | 0.20% | ~383 |
+| Thieves of the Coven | 0.20% | ~383 |
 | The Silken Swamp | 0.20% | ~450 |
 | Supply Run | 0.20% | ~450 |
-| Seeds of Destruction | 0.20% | ~382 |
-| The Evacuation of Waterdeep | 0.20% | ~382 |
-| Vecna Lives! | 0.20% | ~382 |
-| Vecna Loots! | 0.20% | ~382 |
-| Return to the Tomb | 0.20% | ~382 |
-| Heatwave | 0.20% | ~382 |
-| The Dread Domain of Tovag | 0.20% | ~382 |
-| The Castle of a Thousand Vecnas | 0.20% | ~382 |
-| Who Lurks Below? | 0.20% | ~382 |
+| Seeds of Destruction | 0.20% | ~383 |
+| The Evacuation of Waterdeep | 0.20% | ~383 |
+| Vecna Lives! | 0.20% | ~383 |
+| Vecna Loots! | 0.20% | ~383 |
+| Return to the Tomb | 0.20% | ~383 |
+| Heatwave | 0.20% | ~383 |
+| The Dread Domain of Tovag | 0.20% | ~383 |
+| The Castle of a Thousand Vecnas | 0.20% | ~383 |
+| Who Lurks Below? | 0.20% | ~383 |
 | A Persistent Buzzing | 0.20% | ~450 |
 | Beast Mode | 0.20% | ~450 |
 | Terror in the Dark | 0.20% | ~450 |
@@ -76,21 +76,21 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Contagious Curse | 0.20% | ~450 |
 | Resolve Amongst Chaos | 0.20% | ~450 |
 | Escort to Waterdeep | 0.20% | ~450 |
-| The Giant's Bane Tavern | 0.20% | ~382 |
-| The Everlasting Rime | 0.20% | ~382 |
+| The Giant's Bane Tavern | 0.20% | ~383 |
+| The Everlasting Rime | 0.20% | ~383 |
 | Waterdeep Detours | 0.20% | ~450 |
 | Easily Distracted | 0.20% | ~450 |
 | Underdeep Cartography | 0.20% | ~450 |
 | Overdue Rendezvous | 0.20% | ~450 |
-| Moose Tracks | 0.20% | ~382 |
-| Civilization | 0.20% | ~382 |
+| Moose Tracks | 0.20% | ~383 |
+| Civilization | 0.20% | ~383 |
 | Pure Energy | 0.20% | ~450 |
 | The Templar's Camp | 0.20% | ~450 |
 | Rescue in the Jungle | 0.20% | ~450 |
-| Rocky Reception | 0.20% | ~382 |
-| Rock and Roll | 0.20% | ~382 |
-| Flight of the Kindori Pod | 0.20% | ~382 |
-| Topolah's Tower | 0.20% | ~382 |
+| Rocky Reception | 0.20% | ~383 |
+| Rock and Roll | 0.20% | ~383 |
+| Flight of the Kindori Pod | 0.20% | ~383 |
+| Topolah's Tower | 0.20% | ~383 |
 | Pros and CONs | 0.10% | ~225 |
 | Upholding the Law | 0.10% | ~225 |
 | Starving in the Jungle | 0.10% | ~225 |
@@ -523,8 +523,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~191 |
 | Animated Giff | 0.10% | ~191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,970 (Ranked 53)  
-Completed: 2,215 (0.98%) (Ranked 121)  
+Progressed: 224,983 (Ranked 53)  
+Completed: 2,216 (0.98%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -651,16 +651,16 @@ Completed: 2,215 (0.98%) (Ranked 121)
 | 2023-08-23 | 224,434 | 2,210 |
 | 2023-08-24 | 224,686 | 2,211 |
 | 2023-08-25 | 224,925 | 2,214 |
-| 2023-08-26 | 224,970 | 2,215 |
+| 2023-08-26 | 224,983 | 2,216 |
 ## Awards
 Max (Diverse Characters): 5,189  (Ranked 68)  
-Sum: 31,222 (Ranked 39)  
+Sum: 31,223 (Ranked 39)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,189 |
 | This game is Great for Beginners | 5,151 |
-| This game has Quickly Understood Controls | 4,733 |
+| This game has Quickly Understood Controls | 4,734 |
 | This game is Relaxing | 4,624 |
 | This game has Amazing Characters | 4,084 |
 | This game is Highly Recommended | 4,068 |
@@ -880,4 +880,4 @@ Diff (max vs sum): 29
 | 2023-08-23 | 4.06 | - | 5,179 | 31,183 |
 | 2023-08-24 | 4.06 | - | 5,182 | 31,201 |
 | 2023-08-25 | 4.06 | - | 5,182 | 31,210 |
-| 2023-08-26 | 4.06 | - | 5,189 | 31,222 |
+| 2023-08-26 | 4.06 | - | 5,189 | 31,223 |

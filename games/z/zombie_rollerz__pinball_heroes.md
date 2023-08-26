@@ -12,14 +12,14 @@ Rating: 4.30 (Ranked 793)
 | Right in the kisser! | 62.00% | ~90 |
 | The Thrower | 50.00% | ~72 |
 | Duscot Steamcity | 50.00% | ~72 |
-| The Shaman | 47.00% | ~68 |
+| The Shaman | 48.00% | ~70 |
 | The Penguin | 46.00% | ~67 |
 | The Magician | 42.00% | ~61 |
 | Level Up!! | 39.00% | ~57 |
 | The Shield | 39.00% | ~57 |
 | The Tunneler | 39.00% | ~57 |
 | Kill-streak | 32.00% | ~46 |
-| Topped up | 28.00% | ~41 |
+| Topped up | 29.00% | ~42 |
 | The Idol | 28.00% | ~41 |
 | The Bird | 28.00% | ~41 |
 | The Ninja | 26.00% | ~38 |
@@ -31,9 +31,9 @@ Rating: 4.30 (Ranked 793)
 | The Giant | 18.00% | ~26 |
 | The Blacksmith | 17.00% | ~25 |
 | The Flower | 17.00% | ~25 |
+| The Ooze | 17.00% | ~25 |
 | Out of the Frying Pan... | 17.00% | ~25 |
-| The Ooze | 16.00% | ~23 |
-| Ember | 15.00% | ~22 |
+| Ember | 16.00% | ~23 |
 | The Assistant | 14.00% | ~20 |
 | The Steampunk | 14.00% | ~20 |
 | Turquoise | 14.00% | ~20 |

@@ -6,24 +6,24 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 74.00% | ~4,059 |
-| Having A Field Day | 74.00% | ~4,059 |
-| Reap What You Sow | 71.00% | ~3,894 |
+| Get A Room | 74.00% | ~4,060 |
+| Having A Field Day | 74.00% | ~4,060 |
+| Reap What You Sow | 71.00% | ~3,895 |
 | The First Day | 68.00% | ~3,730 |
-| Green Thumb | 66.00% | ~3,620 |
-| Novice Researcher | 65.00% | ~3,565 |
-| Home Cooked Meal | 57.00% | ~3,126 |
-| Putting Food on the Table | 57.00% | ~3,126 |
+| Green Thumb | 66.00% | ~3,621 |
+| Novice Researcher | 65.00% | ~3,566 |
+| Home Cooked Meal | 57.00% | ~3,127 |
+| Putting Food on the Table | 57.00% | ~3,127 |
 | Onward | 56.00% | ~3,072 |
-| The First Week | 53.00% | ~2,907 |
-| Studious Researcher | 51.00% | ~2,797 |
-| Beam Me Up | 50.00% | ~2,742 |
+| The First Week | 53.00% | ~2,908 |
+| Studious Researcher | 51.00% | ~2,798 |
+| Beam Me Up | 50.00% | ~2,743 |
 | Feast or Famine | 48.00% | ~2,633 |
-| Adept Researcher | 44.00% | ~2,413 |
+| Adept Researcher | 44.00% | ~2,414 |
 | Retribution | 40.00% | ~2,194 |
 | ...And Don’t Come Back! | 40.00% | ~2,194 |
-| Fit For A King | 37.00% | ~2,029 |
-| Luminary Researcher | 32.00% | ~1,755 |
+| Fit For A King | 37.00% | ~2,030 |
+| Luminary Researcher | 32.00% | ~1,756 |
 | Heating Up | 29.00% | ~1,591 |
 | Winter Is Coming | 26.00% | ~1,426 |
 | Winter Is Here | 23.00% | ~1,262 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~110 |
 | Wabbit Season | 0.50% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,485 (Ranked 140)  
+Progressed: 5,486 (Ranked 140)  
 Completed: 11 (0.20%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 11 (0.20%) (Ranked 188)
 | 2023-08-23 | 5,445 | 10 |
 | 2023-08-24 | 5,463 | 10 |
 | 2023-08-25 | 5,478 | 11 |
-| 2023-08-26 | 5,485 | 11 |
+| 2023-08-26 | 5,486 | 11 |
 ## Awards
 Max (Relaxing): 121  (Ranked 318)  
 Sum: 977 (Ranked 239)  

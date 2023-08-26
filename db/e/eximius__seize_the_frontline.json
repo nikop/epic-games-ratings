@@ -306,9 +306,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 195451,
+  "EOS_Progressed": 195457,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 535,
+  "EOS_NewPlayers": 540,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14076,6 +14076,11 @@
       "Time": "2023-08-26T04:05:25.2428637+00:00",
       "NumProgressed": 195451,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-26T05:05:12.8320941+00:00",
+      "NumProgressed": 195457,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -14087,7 +14092,7 @@
       "Name": "Battlesuit Victory",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 15636
+      "UsersEstimate": 15637
     },
     {
       "ID": "ACH_COMPLETE_TUTORIAL",
@@ -14095,7 +14100,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 138770
+      "UsersEstimate": 138774
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -14119,7 +14124,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 35181
+      "UsersEstimate": 35182
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -14214,7 +14219,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 195451,
+      "Progressed": 195457,
       "Completed": 4
     }
   ],
@@ -14222,8 +14227,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-08-23T04:57:31.1558679+00:00",
-  "LastChanged_Achievements": "2023-08-26T04:05:25.2428634+00:00",
+  "LastChanged_Achievements": "2023-08-26T05:05:12.8320937+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:27.2686844+00:00",
-  "LastUpdate_Ratings": "2023-08-26T03:58:27.7306332+00:00",
-  "LastUpdate_Achievements": "2023-08-26T04:05:25.2430201+00:00"
+  "LastUpdate_Ratings": "2023-08-26T04:58:04.5020272+00:00",
+  "LastUpdate_Achievements": "2023-08-26T05:05:12.8321693+00:00"
 }

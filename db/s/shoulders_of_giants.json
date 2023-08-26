@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-01-26T06:00:00+00:00",
@@ -1574,9 +1574,9 @@
       "ID": "deal_damage",
       "SetID": "236b9eg",
       "Name": "Ouch",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 40,
-      "UsersEstimate": 1197
+      "UsersEstimate": 1219
     },
     {
       "ID": "defeat_enemies",
@@ -1687,8 +1687,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-06-30T03:59:49.3890269+00:00",
-  "LastChanged_Achievements": "2023-08-26T04:05:11.3518543+00:00",
+  "LastChanged_Achievements": "2023-08-26T05:04:58.5260274+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:05.1420899+00:00",
-  "LastUpdate_Ratings": "2023-08-26T03:59:11.2480731+00:00",
-  "LastUpdate_Achievements": "2023-08-26T04:05:11.3518972+00:00"
+  "LastUpdate_Ratings": "2023-08-26T04:58:48.922679+00:00",
+  "LastUpdate_Achievements": "2023-08-26T05:04:58.5260464+00:00"
 }

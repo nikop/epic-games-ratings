@@ -476,7 +476,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3528,
+  "EOS_Progressed": 3529,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
@@ -6206,6 +6206,11 @@
       "Time": "2023-08-26T00:05:16.9311716+00:00",
       "NumProgressed": 3528,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-26T05:05:34.0390867+00:00",
+      "NumProgressed": 3529,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -6273,7 +6278,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -6385,7 +6390,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1411
+      "UsersEstimate": 1412
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -6441,7 +6446,7 @@
       "Name": "Resourceful",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -6551,9 +6556,9 @@
       "ID": "REWARD_5_BUNKER_BUSTER",
       "SetID": "bm6el81",
       "Name": "Change the Channel",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1023
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -6625,7 +6630,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -6784,13 +6789,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3479,
+      "Progressed": 3480,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3528,
+      "Progressed": 3529,
       "Completed": 9
     }
   ],
@@ -6798,8 +6803,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-08-19T13:59:32.9786794+00:00",
-  "LastChanged_Achievements": "2023-08-26T04:05:45.3346193+00:00",
+  "LastChanged_Achievements": "2023-08-26T05:05:34.0390863+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:38.9761253+00:00",
-  "LastUpdate_Ratings": "2023-08-26T03:59:49.2430746+00:00",
-  "LastUpdate_Achievements": "2023-08-26T04:05:45.3347238+00:00"
+  "LastUpdate_Ratings": "2023-08-26T04:59:27.2712345+00:00",
+  "LastUpdate_Achievements": "2023-08-26T05:05:34.0391711+00:00"
 }

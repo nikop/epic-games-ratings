@@ -4,7 +4,7 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 343,
+  "Ranking_EOS_NewPlayers": 301,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 738,
+  "EOS_Progressed": 739,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1623,6 +1623,11 @@
       "Time": "2023-08-14T19:06:11.61528+00:00",
       "NumProgressed": 738,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-26T05:06:55.6682232+00:00",
+      "NumProgressed": 739,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 29,
@@ -1650,7 +1655,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACHV_CHALLENGEMASTERED",
@@ -1754,7 +1759,7 @@
       "Name": "Nanonic II",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ACHV_NANONIC3",
@@ -1802,7 +1807,7 @@
       "Name": "Terminated I",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACHV_TERMINATED2",
@@ -1865,13 +1870,13 @@
     {
       "ID": "cceobco",
       "IsBase": true,
-      "Progressed": 738,
+      "Progressed": 739,
       "Completed": 0
     },
     {
       "ID": "cd9kng8",
       "IsBase": false,
-      "Progressed": 164,
+      "Progressed": 165,
       "Completed": 3
     }
   ],
@@ -1879,8 +1884,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-08-26T04:07:05.3476331+00:00",
+  "LastChanged_Achievements": "2023-08-26T05:06:55.6682228+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:18.7510737+00:00",
-  "LastUpdate_Ratings": "2023-08-26T03:58:19.8360818+00:00",
-  "LastUpdate_Achievements": "2023-08-26T04:07:05.3476818+00:00"
+  "LastUpdate_Ratings": "2023-08-26T04:57:56.9868515+00:00",
+  "LastUpdate_Achievements": "2023-08-26T05:06:55.6682488+00:00"
 }
