@@ -39,6 +39,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lighthouse | 2.00% | ~271 |
 | Oracle | 2.00% | ~271 |
 | Pyramids | 2.00% | ~271 |
+| Learn to Play 1 | 2.00% | ~271 |
 | Christianity | 2.00% | ~271 |
 | Judaism | 2.00% | ~271 |
 | Babylonian Paganism | 2.00% | ~271 |
@@ -67,7 +68,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mausoleum | 1.00% | ~136 |
 | Musaeum | 1.00% | ~136 |
 | Necropolis | 1.00% | ~136 |
-| Learn to Play 1 | 1.00% | ~136 |
 | Learn to Play 2 | 1.00% | ~136 |
 | Greece | 1.00% | ~136 |
 | Manichaeism | 1.00% | ~136 |
@@ -87,6 +87,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Temple of Solomon | 0.80% | ~109 |
 | Pantheon | 0.80% | ~109 |
 | Via Recta Souk | 0.80% | ~109 |
+| Power to the People | 0.80% | ~109 |
 | Persian Paganism | 0.80% | ~109 |
 | Economic Reform | 0.80% | ~109 |
 | Legalism | 0.80% | ~109 |
@@ -99,7 +100,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus | 0.70% | ~95 |
 | Hagia Sophia | 0.70% | ~95 |
 | Learn to Play 3 | 0.70% | ~95 |
-| Power to the People | 0.70% | ~95 |
 | Redemption | 0.70% | ~95 |
 | Ambition Victory | 0.70% | ~95 |
 | Double Victory | 0.70% | ~95 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,570 (Ranked 119)  
+Progressed: 13,572 (Ranked 119)  
 Completed: 5 (0.04%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -431,7 +431,7 @@ Completed: 5 (0.04%) (Ranked 234)
 | 2023-08-23 | 13,540 | 5 |
 | 2023-08-24 | 13,546 | 5 |
 | 2023-08-25 | 13,563 | 5 |
-| 2023-08-26 | 13,570 | 5 |
+| 2023-08-26 | 13,572 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,799 (Ranked 208)  

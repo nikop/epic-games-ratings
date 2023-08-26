@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 500,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 237,
+  "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -1009,9 +1009,9 @@
       "ID": "_02_FinishFirstMission",
       "SetID": "8a1io5d",
       "Name": "A New Journey",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 370
+      "UsersEstimate": 375
     },
     {
       "ID": "_03_FinishAct1",
@@ -1065,9 +1065,9 @@
       "ID": "_09_Completion_20",
       "SetID": "8a1io5d",
       "Name": "Powder Monkey",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 110
     },
     {
       "ID": "_10_Completion_30",
@@ -1216,8 +1216,8 @@
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-26T08:04:11.920143+00:00",
-  "LastUpdate_AppInfo": "2023-08-19T07:58:01.7621403+00:00",
-  "LastUpdate_Ratings": "2023-08-26T08:00:01.9060917+00:00",
-  "LastUpdate_Achievements": "2023-08-26T08:04:11.9201686+00:00"
+  "LastChanged_Achievements": "2023-08-26T09:07:51.0580626+00:00",
+  "LastUpdate_AppInfo": "2023-08-26T08:58:45.1302228+00:00",
+  "LastUpdate_Ratings": "2023-08-26T09:04:10.538085+00:00",
+  "LastUpdate_Achievements": "2023-08-26T09:07:51.0580883+00:00"
 }

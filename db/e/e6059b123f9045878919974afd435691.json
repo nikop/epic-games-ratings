@@ -1807,9 +1807,9 @@
       "ID": "BARK_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Capraphobia",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 360
+      "UsersEstimate": 367
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -2270,8 +2270,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-08-26T08:03:33.5390962+00:00",
+  "LastChanged_Achievements": "2023-08-26T09:06:56.0788883+00:00",
   "LastUpdate_AppInfo": "2023-08-24T17:57:03.8268695+00:00",
-  "LastUpdate_Ratings": "2023-08-26T07:58:56.6499477+00:00",
-  "LastUpdate_Achievements": "2023-08-26T08:03:33.5391766+00:00"
+  "LastUpdate_Ratings": "2023-08-26T09:02:31.9898095+00:00",
+  "LastUpdate_Achievements": "2023-08-26T09:06:56.0790101+00:00"
 }

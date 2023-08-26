@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 74.00% | ~370 |
+| A New Journey | 75.00% | ~375 |
 | The Adventure Begins | 54.00% | ~270 |
 | Swabbie | 39.00% | ~195 |
 | With Great Power… | 36.00% | ~180 |
 | This Belongs in a Museum | 30.00% | ~150 |
 | The Gambit Has Begun | 22.00% | ~110 |
-| Powder Monkey | 21.00% | ~105 |
+| Powder Monkey | 22.00% | ~110 |
 | Somewhere Deep in the Lost Caribbean | 18.00% | ~90 |
 | Mirror Mirror on the Wall | 17.00% | ~85 |
 | Fishy Fish | 17.00% | ~85 |

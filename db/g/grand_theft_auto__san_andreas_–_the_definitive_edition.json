@@ -3,11 +3,11 @@
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 450,
-  "Ranking_Popularity": 248,
+  "Ranking_Popularity": 247,
   "Ranking_PopularitySum": 337,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -728,18 +728,24 @@
       "Rating": 4.57,
       "NumberOfAwards": 310,
       "NumberOfAwardsMax": 268
+    },
+    {
+      "Time": "2023-08-26T09:01:47.1024276+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 311,
+      "NumberOfAwardsMax": 269
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 310,
-  "NumberOfAwardsMax": 268,
+  "NumberOfAwards": 311,
+  "NumberOfAwardsMax": 269,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 268
+      "Count": 269
     },
     {
       "Text": "This game is Relaxing",
@@ -754,7 +760,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12049,
+  "EOS_Progressed": 12050,
   "EOS_Completed": 40,
   "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 1,
@@ -9369,6 +9375,11 @@
       "Time": "2023-08-26T08:04:00.4111044+00:00",
       "NumProgressed": 12049,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-08-26T09:07:35.2324637+00:00",
+      "NumProgressed": 12050,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 35,
@@ -9388,7 +9399,7 @@
       "Name": "With Extra Dip",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "ACH03",
@@ -9428,7 +9439,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2289
+      "UsersEstimate": 2290
     },
     {
       "ID": "ACH08",
@@ -9436,7 +9447,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6145
+      "UsersEstimate": 6146
     },
     {
       "ID": "ACH09",
@@ -9444,7 +9455,7 @@
       "Name": "Bike or Biker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "ACH10",
@@ -9484,7 +9495,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1325
+      "UsersEstimate": 1326
     },
     {
       "ID": "ACH15",
@@ -9508,7 +9519,7 @@
       "Name": "What the City Needs",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "ACH18",
@@ -9548,7 +9559,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 1807
+      "UsersEstimate": 1808
     },
     {
       "ID": "ACH23",
@@ -9604,7 +9615,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 1807
+      "UsersEstimate": 1808
     },
     {
       "ID": "ACH30",
@@ -9659,16 +9670,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12049,
+      "Progressed": 12050,
       "Completed": 40
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-08-25T04:59:03.7380012+00:00",
-  "LastChanged_Achievements": "2023-08-26T08:04:00.4111034+00:00",
+  "LastChanged": "2023-08-26T09:01:47.1024275+00:00",
+  "LastChanged_Achievements": "2023-08-26T09:07:35.2324631+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:04.3712405+00:00",
-  "LastUpdate_Ratings": "2023-08-26T07:58:23.7999396+00:00",
-  "LastUpdate_Achievements": "2023-08-26T08:04:00.4111927+00:00"
+  "LastUpdate_Ratings": "2023-08-26T09:01:47.1024281+00:00",
+  "LastUpdate_Achievements": "2023-08-26T09:07:35.2326033+00:00"
 }

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 68,
   "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 53,
-  "Ranking_EOS_Completed": 121,
+  "Ranking_EOS_Completed": 120,
   "Ranking_EOS_NewPlayers": 39,
   "Ranking_EOS_NewCompleters": 10,
   "Store": {
@@ -6106,11 +6106,11 @@
       "Count": 3373
     }
   ],
-  "EOS_Progressed": 225001,
-  "EOS_Completed": 2216,
-  "EOS_NewPlayers": 1751,
-  "EOS_NewCompleters": 23,
-  "EOS_Completed_Percentage": 0.98,
+  "EOS_Progressed": 225014,
+  "EOS_Completed": 2217,
+  "EOS_NewPlayers": 1757,
+  "EOS_NewCompleters": 24,
+  "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:41.9871817+00:00",
@@ -20096,6 +20096,11 @@
       "Time": "2023-08-26T08:06:17.7381001+00:00",
       "NumProgressed": 225001,
       "NumCompleted": 2216
+    },
+    {
+      "Time": "2023-08-26T09:10:50.306053+00:00",
+      "NumProgressed": 225014,
+      "NumCompleted": 2217
     }
   ],
   "TotalAchievements": 516,
@@ -21465,9 +21470,9 @@
       "ID": "objective_completed_21",
       "SetID": "cc37lbc",
       "Name": "Invisible Shadows",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 450
     },
     {
       "ID": "objective_completed_210",
@@ -24234,21 +24239,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 191275,
+      "Progressed": 191288,
       "Completed": 3308
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 225001,
-      "Completed": 2216
+      "Progressed": 225014,
+      "Completed": 2217
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-26T05:01:06.4008424+00:00",
-  "LastChanged_Achievements": "2023-08-26T08:06:17.7380995+00:00",
-  "LastUpdate_AppInfo": "2023-08-19T07:58:12.3267162+00:00",
-  "LastUpdate_Ratings": "2023-08-26T08:00:08.1463085+00:00",
-  "LastUpdate_Achievements": "2023-08-26T08:06:17.741214+00:00"
+  "LastChanged_Achievements": "2023-08-26T09:10:50.3060523+00:00",
+  "LastUpdate_AppInfo": "2023-08-26T08:58:53.3345914+00:00",
+  "LastUpdate_Ratings": "2023-08-26T09:04:20.7708028+00:00",
+  "LastUpdate_Achievements": "2023-08-26T09:10:50.3091455+00:00"
 }

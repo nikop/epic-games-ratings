@@ -46,6 +46,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Evil | 0.20% | ~450 |
 | No Time To Rest | 0.20% | ~450 |
 | The Mists of Ravenloft | 0.20% | ~450 |
+| Invisible Shadows | 0.20% | ~450 |
 | Family Entanglements | 0.20% | ~450 |
 | The Dinner Party | 0.20% | ~450 |
 | The Botched Kidnapping | 0.20% | ~450 |
@@ -232,7 +233,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Azaka's Procession - Part 2 | 0.10% | ~225 |
 | Acererak's Puzzle | 0.10% | ~191 |
 | The Hunt for Owl-y | 0.10% | ~225 |
-| Invisible Shadows | 0.10% | ~225 |
 | Werewolves in the Mist | 0.10% | ~225 |
 | We're not in Faerûn Anymore | 0.10% | ~225 |
 | Haunted Fortunes | 0.10% | ~225 |
@@ -523,8 +523,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~191 |
 | Animated Giff | 0.10% | ~191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,001 (Ranked 53)  
-Completed: 2,216 (0.98%) (Ranked 121)  
+Progressed: 225,014 (Ranked 53)  
+Completed: 2,217 (0.99%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -651,7 +651,7 @@ Completed: 2,216 (0.98%) (Ranked 121)
 | 2023-08-23 | 224,434 | 2,210 |
 | 2023-08-24 | 224,686 | 2,211 |
 | 2023-08-25 | 224,925 | 2,214 |
-| 2023-08-26 | 225,001 | 2,216 |
+| 2023-08-26 | 225,014 | 2,217 |
 ## Awards
 Max (Diverse Characters): 5,189  (Ranked 68)  
 Sum: 31,223 (Ranked 39)  

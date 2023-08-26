@@ -22,7 +22,7 @@ Rating: 4.48 (Ranked 596)
 | Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,338 |
 | Where It All Begun | 40.00% | ~1,274 |
 | Recouped Investment | 38.00% | ~1,211 |
-| Omelette Du Fromage | 33.00% | ~1,051 |
+| Omelette Du Fromage | 34.00% | ~1,083 |
 | Living Nightmare | 33.00% | ~1,051 |
 | The More The Merrier | 33.00% | ~1,051 |
 | The Darwin Era Was Here | 29.00% | ~924 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 144,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
     "PcReleaseDate": "2021-05-07T00:00:00+00:00",
@@ -324,9 +324,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 66904,
+  "EOS_Progressed": 66905,
   "EOS_Completed": 349,
-  "EOS_NewPlayers": 889,
+  "EOS_NewPlayers": 887,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -14174,6 +14174,11 @@
       "Time": "2023-08-26T08:05:13.6474275+00:00",
       "NumProgressed": 66904,
       "NumCompleted": 349
+    },
+    {
+      "Time": "2023-08-26T09:09:19.1501156+00:00",
+      "NumProgressed": 66905,
+      "NumCompleted": 349
     }
   ],
   "TotalAchievements": 24,
@@ -14265,7 +14270,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 35459
+      "UsersEstimate": 35460
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -14337,7 +14342,7 @@
       "Name": "SPIRIT DASH",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 7359
+      "UsersEstimate": 7360
     },
     {
       "ID": "SPIRIT_FORM",
@@ -14361,7 +14366,7 @@
       "Name": "WEIGHTLESS",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 8028
+      "UsersEstimate": 8029
     },
     {
       "ID": "WRITTEN_IN_STONE",
@@ -14376,7 +14381,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 66904,
+      "Progressed": 66905,
       "Completed": 349
     }
   ],
@@ -14384,8 +14389,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-08-26T08:05:13.6474269+00:00",
-  "LastUpdate_AppInfo": "2023-08-19T08:00:00.2454686+00:00",
-  "LastUpdate_Ratings": "2023-08-26T07:57:34.7555662+00:00",
-  "LastUpdate_Achievements": "2023-08-26T08:05:13.6475416+00:00"
+  "LastChanged_Achievements": "2023-08-26T09:09:19.150115+00:00",
+  "LastUpdate_AppInfo": "2023-08-26T08:57:56.7708219+00:00",
+  "LastUpdate_Ratings": "2023-08-26T09:00:33.1437952+00:00",
+  "LastUpdate_Achievements": "2023-08-26T09:09:19.150236+00:00"
 }

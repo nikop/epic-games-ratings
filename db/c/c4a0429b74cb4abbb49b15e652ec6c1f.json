@@ -4,7 +4,7 @@
   "ProductSlug": "deverse-world-3ccb84",
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-07-12T02:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 282,
+  "EOS_Progressed": 283,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1156,6 +1156,11 @@
       "Time": "2023-08-26T06:07:48.8771592+00:00",
       "NumProgressed": 282,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-26T09:10:38.2756617+00:00",
+      "NumProgressed": 283,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-19T08:04:21.5092334+00:00",
@@ -1278,9 +1283,9 @@
       "ID": "tireless_explorer",
       "SetID": "5fi1i42",
       "Name": "Tireless Explorer",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 73
+      "UsersEstimate": 71
     },
     {
       "ID": "treant_destroyer",
@@ -1319,14 +1324,14 @@
     {
       "ID": "5fi1i42",
       "IsBase": true,
-      "Progressed": 282,
+      "Progressed": 283,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-12T15:57:01.7070767+00:00",
   "FirstSeenAchievements": "2023-07-18T16:05:27.8243884+00:00",
-  "LastChanged_Achievements": "2023-08-26T08:06:09.5430757+00:00",
+  "LastChanged_Achievements": "2023-08-26T09:10:38.2756606+00:00",
   "LastUpdate_AppInfo": "2023-08-24T08:56:53.3187957+00:00",
-  "LastUpdate_Ratings": "2023-08-26T07:58:58.6277011+00:00",
-  "LastUpdate_Achievements": "2023-08-26T08:06:09.5430987+00:00"
+  "LastUpdate_Ratings": "2023-08-26T09:02:34.8129164+00:00",
+  "LastUpdate_Achievements": "2023-08-26T09:10:38.2756991+00:00"
 }

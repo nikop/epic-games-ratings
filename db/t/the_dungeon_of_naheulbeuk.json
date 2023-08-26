@@ -720,9 +720,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 217358,
+  "EOS_Progressed": 217382,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2952,
+  "EOS_NewPlayers": 2961,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8350,6 +8350,11 @@
       "Time": "2023-08-26T08:03:09.147024+00:00",
       "NumProgressed": 217358,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-26T09:06:21.2237711+00:00",
+      "NumProgressed": 217382,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -8409,7 +8414,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4347
+      "UsersEstimate": 4348
     },
     {
       "ID": "Chapter2",
@@ -8511,9 +8516,9 @@
       "ID": "CompanionPriestress",
       "SetID": "50chcgj",
       "Name": "The Woman in the High Castle",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1522
+      "UsersEstimate": 1739
     },
     {
       "ID": "DLC1ChooseNecro",
@@ -8761,7 +8766,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4347
+      "UsersEstimate": 4348
     },
     {
       "ID": "DwarfElf15Support",
@@ -8793,7 +8798,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4347
+      "UsersEstimate": 4348
     },
     {
       "ID": "ElfEpic",
@@ -8809,7 +8814,7 @@
       "Name": "Sowwy!",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 52166
+      "UsersEstimate": 52172
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -8881,7 +8886,7 @@
       "Name": "I\u0027ve seen that beard before! It was on sale, and came with a broomstick and a bucket!",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "KillDungeonLich",
@@ -8889,7 +8894,7 @@
       "Name": "Dead for good",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "KillGolbargh",
@@ -8977,7 +8982,7 @@
       "Name": "Lust and Debauchery",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "RangerEpic",
@@ -9049,7 +9054,7 @@
       "Name": "Material Girl",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "WizardResistBurn",
@@ -9064,21 +9069,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 217358,
+      "Progressed": 217382,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 217358,
+      "Progressed": 217382,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-25T15:02:30.1432618+00:00",
-  "LastChanged_Achievements": "2023-08-26T08:03:09.1470232+00:00",
-  "LastUpdate_AppInfo": "2023-08-19T07:59:36.4163589+00:00",
-  "LastUpdate_Ratings": "2023-08-26T08:02:03.9039387+00:00",
-  "LastUpdate_Achievements": "2023-08-26T08:03:09.1471908+00:00"
+  "LastChanged_Achievements": "2023-08-26T09:06:21.2237705+00:00",
+  "LastUpdate_AppInfo": "2023-08-26T08:59:41.9661267+00:00",
+  "LastUpdate_Ratings": "2023-08-26T09:05:11.9586357+00:00",
+  "LastUpdate_Achievements": "2023-08-26T09:06:21.2239341+00:00"
 }

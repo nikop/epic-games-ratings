@@ -4,7 +4,7 @@
   "ProductSlug": "flat-heroes-fec628",
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewPlayers": 301,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-09-15T22:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 339,
+  "EOS_Progressed": 340,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -311,6 +311,11 @@
       "Time": "2023-08-20T08:07:45.4923957+00:00",
       "NumProgressed": 339,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-26T09:06:24.97716+00:00",
+      "NumProgressed": 340,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -346,7 +351,7 @@
       "Name": "Be water, my friend",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "DashLevitationDashAttack",
@@ -602,7 +607,7 @@
       "Name": "Dash Crash",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "World2Boss",
@@ -618,15 +623,15 @@
       "Name": "The King of Flat",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "World4Boss",
       "SetID": "d9ekhim",
       "Name": "Hit That Ball",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 133
     },
     {
       "ID": "World5Boss",
@@ -673,7 +678,7 @@
     {
       "ID": "d9ekhim",
       "IsBase": true,
-      "Progressed": 339,
+      "Progressed": 340,
       "Completed": 0
     }
   ],
@@ -681,8 +686,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-08-26T08:03:11.7673277+00:00",
+  "LastChanged_Achievements": "2023-08-26T09:06:24.9771593+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:17.0475683+00:00",
-  "LastUpdate_Ratings": "2023-08-26T07:59:18.9382419+00:00",
-  "LastUpdate_Achievements": "2023-08-26T08:03:11.7673618+00:00"
+  "LastUpdate_Ratings": "2023-08-26T09:03:07.0281944+00:00",
+  "LastUpdate_Achievements": "2023-08-26T09:06:24.9772611+00:00"
 }

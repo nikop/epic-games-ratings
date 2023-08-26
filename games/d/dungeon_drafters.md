@@ -13,7 +13,7 @@
 | Setting Off | 28.00% | ~24 |
 | Card Collector | 28.00% | ~24 |
 | Riddlesolver | 24.00% | ~21 |
-| Dungeon Mastery | 21.00% | ~18 |
+| Dungeon Mastery | 22.00% | ~19 |
 | The Steed | 11.00% | ~10 |
 | A Strange Proposition | 11.00% | ~10 |
 | Card Completionist | 10.00% | ~9 |

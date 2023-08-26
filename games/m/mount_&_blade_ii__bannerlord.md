@@ -6,16 +6,16 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 38.00% | ~22,672 |
-| Landlord | 32.00% | ~19,092 |
-| Lawmaker | 23.00% | ~13,722 |
+| Lawbringer | 38.00% | ~22,673 |
+| Landlord | 32.00% | ~19,093 |
+| Lawmaker | 23.00% | ~13,723 |
 | Bannerlord | 22.00% | ~13,126 |
 | Horde breaker | 22.00% | ~13,126 |
 | Trained | 22.00% | ~13,126 |
-| The king is pleased | 18.00% | ~10,739 |
+| The king is pleased | 18.00% | ~10,740 |
 | King Solomon | 17.00% | ~10,143 |
-| Apple of my eye | 15.00% | ~8,949 |
-| I can do it | 15.00% | ~8,949 |
+| Apple of my eye | 15.00% | ~8,950 |
+| I can do it | 15.00% | ~8,950 |
 | God of the Arena | 13.00% | ~7,756 |
 | Against all odds | 11.00% | ~6,563 |
 | This Is Our Land | 11.00% | ~6,563 |
@@ -25,12 +25,12 @@ Number of Ratings: 5,603  (23.09.2022)
 | I spit on your grave | 9.00% | ~5,370 |
 | What have the Romans ever done for us? | 9.00% | ~5,370 |
 | Butterlord | 8.00% | ~4,773 |
-| Mastery | 7.00% | ~4,176 |
+| Mastery | 7.00% | ~4,177 |
 | Know your enemy | 6.00% | ~3,580 |
 | My way | 5.00% | ~2,983 |
-| Crowdfunded | 4.00% | ~2,386 |
-| Crush your enemies | 4.00% | ~2,386 |
-| Veni vidi vici | 4.00% | ~2,386 |
+| Crowdfunded | 4.00% | ~2,387 |
+| Crush your enemies | 4.00% | ~2,387 |
+| Veni vidi vici | 4.00% | ~2,387 |
 | Freedom! | 3.00% | ~1,790 |
 | Real Estate | 3.00% | ~1,790 |
 | Long live the Empire! | 2.00% | ~1,193 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,662 (Ranked 88)  
+Progressed: 59,665 (Ranked 88)  
 Completed: 0 (0.00%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,7 +186,7 @@ Completed: 0 (0.00%) (Ranked 264)
 | 2023-08-23 | 59,515 | 0 |
 | 2023-08-24 | 59,587 | 0 |
 | 2023-08-25 | 59,646 | 0 |
-| 2023-08-26 | 59,662 | 0 |
+| 2023-08-26 | 59,665 | 0 |
 ## Awards
 Max (Character Customization): 6,979  (Ranked 51)  
 Sum: 14,187 (Ranked 67)  

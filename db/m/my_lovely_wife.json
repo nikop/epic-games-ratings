@@ -540,9 +540,9 @@
       "ID": "ACH_SUMMON_SUCC_2",
       "SetID": "ajki3eh",
       "Name": "The Farmer",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 243
     },
     {
       "ID": "ACH_SUMMON_SUCC_3",
@@ -660,8 +660,8 @@
   "FirstSeen": "2022-07-22T20:30:06.1147591+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.1712211+00:00",
   "LastChanged": "2023-03-31T05:57:36.3389853+00:00",
-  "LastChanged_Achievements": "2023-08-26T08:06:25.1635555+00:00",
-  "LastUpdate_AppInfo": "2023-08-19T07:58:16.3013913+00:00",
-  "LastUpdate_Ratings": "2023-08-26T08:00:09.3444102+00:00",
-  "LastUpdate_Achievements": "2023-08-26T08:06:25.1635823+00:00"
+  "LastChanged_Achievements": "2023-08-26T09:10:59.0208757+00:00",
+  "LastUpdate_AppInfo": "2023-08-26T08:58:55.0366164+00:00",
+  "LastUpdate_Ratings": "2023-08-26T09:04:22.4862994+00:00",
+  "LastUpdate_Achievements": "2023-08-26T09:10:59.0209011+00:00"
 }

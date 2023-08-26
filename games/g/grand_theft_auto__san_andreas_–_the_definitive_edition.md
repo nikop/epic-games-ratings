@@ -6,24 +6,24 @@ Rating: 4.57 (Ranked 450)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Getting Started | 81.00% | ~9,760 |
-| Pay 'n' Spray | 51.00% | ~6,145 |
+| Pay 'n' Spray | 51.00% | ~6,146 |
 | All Dressed Up for San Fierro | 26.00% | ~3,133 |
-| The American Dream | 19.00% | ~2,289 |
+| The American Dream | 19.00% | ~2,290 |
 | School's Out | 18.00% | ~2,169 |
 | Smooth Moves | 17.00% | ~2,048 |
-| What happens in Las Venturas... | 15.00% | ~1,807 |
-| Today Was a Good Day | 15.00% | ~1,807 |
-| Horror of the Santa Maria | 11.00% | ~1,325 |
+| What happens in Las Venturas... | 15.00% | ~1,808 |
+| Today Was a Good Day | 15.00% | ~1,808 |
+| Horror of the Santa Maria | 11.00% | ~1,326 |
 | Liberty City State of Mind | 10.00% | ~1,205 |
 | The End of the Line | 8.00% | ~964 |
 | Original Gangster | 8.00% | ~964 |
-| With Extra Dip | 7.00% | ~843 |
+| With Extra Dip | 7.00% | ~844 |
 | Saviour | 6.00% | ~723 |
 | They Can’t Stop All of Us | 5.00% | ~602 |
 | Rescue a Kitten Too? | 5.00% | ~602 |
 | What are the Odds | 4.00% | ~482 |
-| Bike or Biker | 3.00% | ~361 |
-| What the City Needs | 3.00% | ~361 |
+| Bike or Biker | 3.00% | ~362 |
+| What the City Needs | 3.00% | ~362 |
 | A Legitimate Business | 2.00% | ~241 |
 | I’ll Have Two Number 9s | 2.00% | ~241 |
 | Who Needs Directions? | 2.00% | ~241 |
@@ -41,7 +41,7 @@ Rating: 4.57 (Ranked 450)
 | ...Here we go again | 0.40% | ~48 |
 | I Ain't No Buster | 0.30% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,049 (Ranked 121)  
+Progressed: 12,050 (Ranked 121)  
 Completed: 40 (0.33%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,14 +169,14 @@ Completed: 40 (0.33%) (Ranked 168)
 | 2023-08-23 | 12,033 | 40 |
 | 2023-08-24 | 12,036 | 40 |
 | 2023-08-25 | 12,043 | 40 |
-| 2023-08-26 | 12,049 | 40 |
+| 2023-08-26 | 12,050 | 40 |
 ## Awards
-Max (Great Boss Battles): 268  (Ranked 248)  
-Sum: 310 (Ranked 337)  
-Diff (max vs sum): -89  
+Max (Great Boss Battles): 269  (Ranked 247)  
+Sum: 311 (Ranked 337)  
+Diff (max vs sum): -90  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 268 |
+| This game has Great Boss Battles | 269 |
 | This game is Relaxing | 22 |
 | This game has Amazing Storytelling | 20 |
 ## Ratings History
@@ -286,3 +286,4 @@ Diff (max vs sum): -89
 | 2023-08-21 | 4.57 | 264 | 286 |
 | 2023-08-24 | 4.57 | 264 | 306 |
 | 2023-08-25 | 4.57 | 268 | 310 |
+| 2023-08-26 | 4.57 | 269 | 311 |

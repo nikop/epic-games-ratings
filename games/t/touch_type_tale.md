@@ -25,8 +25,8 @@
 | Your Biggest Fans | 6.00% | ~188 |
 | An Ally in Need | 6.00% | ~188 |
 | For the Queen | 6.00% | ~188 |
+| Not a Drop Wasted | 6.00% | ~188 |
 | A Secret Recipe | 6.00% | ~188 |
-| Not a Drop Wasted | 5.00% | ~157 |
 | We Have the Technology | 5.00% | ~157 |
 | Work It | 4.00% | ~125 |
 | Reinforcements | 4.00% | ~125 |
