@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 488,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -337,9 +337,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 1814,
+  "EOS_Progressed": 1815,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -1897,6 +1897,11 @@
       "Time": "2023-08-25T16:04:45.1989958+00:00",
       "NumProgressed": 1814,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-08-26T06:05:07.8488726+00:00",
+      "NumProgressed": 1815,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -1988,7 +1993,7 @@
       "Name": "Full House",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "ACH_GETTING_THE_GANG_BACK_TOGETHER",
@@ -2060,7 +2065,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1089
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -2156,7 +2161,7 @@
       "Name": "Perky",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 1197
+      "UsersEstimate": 1198
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -2204,7 +2209,7 @@
       "Name": "Self-Improvement",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1306
+      "UsersEstimate": 1307
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -2252,7 +2257,7 @@
       "Name": "The Philosopher\u2019s Stone",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "ACH_THIS_IS_SPARTA",
@@ -2284,7 +2289,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1596
+      "UsersEstimate": 1597
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -2292,7 +2297,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 1034
+      "UsersEstimate": 1035
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -2331,15 +2336,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1814,
+      "Progressed": 1815,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-08-25T13:05:53.0573208+00:00",
-  "LastChanged_Achievements": "2023-08-26T05:04:46.7950196+00:00",
+  "LastChanged_Achievements": "2023-08-26T06:05:07.8488715+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:48.6398228+00:00",
-  "LastUpdate_Ratings": "2023-08-26T05:01:27.5175433+00:00",
-  "LastUpdate_Achievements": "2023-08-26T05:04:46.7950632+00:00"
+  "LastUpdate_Ratings": "2023-08-26T06:01:59.8094258+00:00",
+  "LastUpdate_Achievements": "2023-08-26T06:05:07.8489311+00:00"
 }

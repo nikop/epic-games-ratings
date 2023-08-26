@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 405,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 344,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-07-28T14:00:00+00:00",
     "PcReleaseDate": "2023-07-28T14:00:00+00:00",
@@ -171,9 +171,9 @@
       "ID": "ACH_BLAST_APART_100",
       "SetID": "a2aifpa",
       "Name": "Gibbing Love",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_BOSSES_100",
@@ -203,9 +203,9 @@
       "ID": "ACH_COLLECTABLES_10",
       "SetID": "a2aifpa",
       "Name": "Vintage Collector",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_DEATH_1",
@@ -267,17 +267,17 @@
       "ID": "ACH_ENEMIES_1000",
       "SetID": "a2aifpa",
       "Name": "Overkill",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_FLAWLESS_BOSS",
       "SetID": "a2aifpa",
       "Name": "Flawless Victory",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_IMPALE_100",
@@ -307,33 +307,33 @@
       "ID": "ACH_LEVEL_02",
       "SetID": "a2aifpa",
       "Name": "Hammer Time",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_LEVEL_03",
       "SetID": "a2aifpa",
       "Name": "Escape From M.C.",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_LEVEL_04",
       "SetID": "a2aifpa",
       "Name": "Restore Honor",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_LEVEL_05",
       "SetID": "a2aifpa",
       "Name": "Bring Down the Corp",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_MONEY_1000000",
@@ -400,8 +400,8 @@
   ],
   "FirstSeen": "2023-07-30T18:59:40.5539908+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:08.7767583+00:00",
-  "LastChanged_Achievements": "2023-08-26T05:07:46.7072964+00:00",
+  "LastChanged_Achievements": "2023-08-26T06:08:25.028804+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:16.1659862+00:00",
-  "LastUpdate_Ratings": "2023-08-26T05:01:48.315906+00:00",
-  "LastUpdate_Achievements": "2023-08-26T05:07:46.7073125+00:00"
+  "LastUpdate_Ratings": "2023-08-26T06:02:25.3404606+00:00",
+  "LastUpdate_Achievements": "2023-08-26T06:08:25.0288275+00:00"
 }

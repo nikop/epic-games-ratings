@@ -4,8 +4,8 @@
   "ProductSlug": "the-evil-within",
   "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
     "PcReleaseDate": "2014-07-13T00:00:00+00:00",
@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 80,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -611,9 +611,9 @@
       "ID": "ACHIEVEMENT_25",
       "SetID": "ap8553i",
       "Name": "One Man Army",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -1000,8 +1000,8 @@
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-08-26T05:06:08.6160158+00:00",
+  "LastChanged_Achievements": "2023-08-26T06:06:35.9775894+00:00",
   "LastUpdate_AppInfo": "2023-08-23T17:57:10.3780808+00:00",
-  "LastUpdate_Ratings": "2023-08-26T04:59:03.8254756+00:00",
-  "LastUpdate_Achievements": "2023-08-26T05:06:08.6160808+00:00"
+  "LastUpdate_Ratings": "2023-08-26T05:59:15.2588775+00:00",
+  "LastUpdate_Achievements": "2023-08-26T06:06:35.9776792+00:00"
 }

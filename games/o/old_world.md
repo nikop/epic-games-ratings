@@ -33,6 +33,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Developing Cities | 2.00% | ~271 |
 | Strong Cities | 2.00% | ~271 |
 | Able Difficulty | 2.00% | ~271 |
+| Great Ziggurat | 2.00% | ~271 |
 | Hanging Gardens | 2.00% | ~271 |
 | Ishtar Gate | 2.00% | ~271 |
 | Lighthouse | 2.00% | ~271 |
@@ -63,7 +64,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Acropolis | 1.00% | ~136 |
 | Apadana | 1.00% | ~136 |
 | Colossus | 1.00% | ~136 |
-| Great Ziggurat | 1.00% | ~136 |
 | Mausoleum | 1.00% | ~136 |
 | Musaeum | 1.00% | ~136 |
 | Necropolis | 1.00% | ~136 |
@@ -101,6 +101,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 3 | 0.70% | ~95 |
 | Power to the People | 0.70% | ~95 |
 | Redemption | 0.70% | ~95 |
+| Ambition Victory | 0.70% | ~95 |
 | Double Victory | 0.70% | ~95 |
 | Win a Single Player Game | 0.70% | ~95 |
 | Capable | 0.60% | ~81 |
@@ -120,7 +121,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Revelation | 0.60% | ~81 |
 | Veneration | 0.60% | ~81 |
 | Cimmerian Archer | 0.60% | ~81 |
-| Ambition Victory | 0.60% | ~81 |
 | Bad Heir Day | 0.50% | ~68 |
 | Strong Difficulty | 0.50% | ~68 |
 | Hunters | 0.50% | ~68 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,568 (Ranked 119)  
+Progressed: 13,569 (Ranked 119)  
 Completed: 5 (0.04%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -431,7 +431,7 @@ Completed: 5 (0.04%) (Ranked 234)
 | 2023-08-23 | 13,540 | 5 |
 | 2023-08-24 | 13,546 | 5 |
 | 2023-08-25 | 13,563 | 5 |
-| 2023-08-26 | 13,568 | 5 |
+| 2023-08-26 | 13,569 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,799 (Ranked 208)  

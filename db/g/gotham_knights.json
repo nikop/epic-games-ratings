@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2522,7 +2522,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 68034,
+  "EOS_Progressed": 68035,
   "EOS_Completed": 109,
   "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 2,
@@ -13197,6 +13197,11 @@
       "Time": "2023-08-26T05:07:44.3677473+00:00",
       "NumProgressed": 68034,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2023-08-26T06:08:22.3999636+00:00",
+      "NumProgressed": 68035,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 61,
@@ -13256,7 +13261,7 @@
       "Name": "The Batman Family",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 14967
+      "UsersEstimate": 14968
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -13368,7 +13373,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 8844
+      "UsersEstimate": 8845
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -13416,7 +13421,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 8844
+      "UsersEstimate": 8845
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -13424,7 +13429,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 6803
+      "UsersEstimate": 6804
     },
     {
       "ID": "FREEZE_1",
@@ -13448,7 +13453,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 12926
+      "UsersEstimate": 12927
     },
     {
       "ID": "FREEZE_3",
@@ -13520,7 +13525,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 17008
+      "UsersEstimate": 17009
     },
     {
       "ID": "HARLEY_3",
@@ -13536,7 +13541,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 10885
+      "UsersEstimate": 10886
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -13552,7 +13557,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 34017
+      "UsersEstimate": 34018
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -13608,7 +13613,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 17008
+      "UsersEstimate": 17009
     },
     {
       "ID": "MYSTERY_03",
@@ -13616,7 +13621,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 14967
+      "UsersEstimate": 14968
     },
     {
       "ID": "MYSTERY_04",
@@ -13695,13 +13700,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 68034,
+      "Progressed": 68035,
       "Completed": 109
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38314,
+      "Progressed": 38315,
       "Completed": 2659
     }
   ],
@@ -13709,8 +13714,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-08-25T03:58:20.3909572+00:00",
-  "LastChanged_Achievements": "2023-08-26T05:07:44.367747+00:00",
+  "LastChanged_Achievements": "2023-08-26T06:08:22.3999624+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:36.1459925+00:00",
-  "LastUpdate_Ratings": "2023-08-26T04:58:11.1109447+00:00",
-  "LastUpdate_Achievements": "2023-08-26T05:07:44.3678407+00:00"
+  "LastUpdate_Ratings": "2023-08-26T05:58:21.9498087+00:00",
+  "LastUpdate_Achievements": "2023-08-26T06:08:22.4000975+00:00"
 }

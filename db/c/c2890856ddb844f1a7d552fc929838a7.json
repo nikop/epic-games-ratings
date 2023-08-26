@@ -2,10 +2,10 @@
   "ID": "c2890856ddb844f1a7d552fc929838a7",
   "Name": "Blasphemous 2",
   "ProductSlug": "blasphemous-2",
-  "Ranking_EOS_Progress": 253,
+  "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 369,
+  "EOS_Progressed": 371,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 368,
+  "EOS_NewPlayers": 370,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -242,6 +242,11 @@
       "Time": "2023-08-26T05:05:25.7827715+00:00",
       "NumProgressed": 369,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-26T06:05:49.6303341+00:00",
+      "NumProgressed": 371,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -262,7 +267,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 86,
       "XP": 30,
-      "UsersEstimate": 317
+      "UsersEstimate": 319
     },
     {
       "ID": "AC02",
@@ -270,7 +275,7 @@
       "Name": "Blood and Dust",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "AC03",
@@ -284,9 +289,9 @@
       "ID": "AC04",
       "SetID": "l4abp0",
       "Name": "Blood and Iron",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 92
+      "UsersEstimate": 96
     },
     {
       "ID": "AC05",
@@ -404,9 +409,9 @@
       "ID": "AC19",
       "SetID": "l4abp0",
       "Name": "Soledad",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 22
     },
     {
       "ID": "AC20",
@@ -478,7 +483,7 @@
       "Name": "The Punished One",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "AC29",
@@ -556,9 +561,9 @@
       "ID": "AC38",
       "SetID": "l4abp0",
       "Name": "Edge of Orison",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 15
     },
     {
       "ID": "AC39",
@@ -572,9 +577,9 @@
       "ID": "AC40",
       "SetID": "l4abp0",
       "Name": "Welcome Back!",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 244
+      "UsersEstimate": 249
     },
     {
       "ID": "AC41",
@@ -588,9 +593,9 @@
       "ID": "AC42",
       "SetID": "l4abp0",
       "Name": "Two Old Ones Eating Soup",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 11
     },
     {
       "ID": "AC43",
@@ -598,7 +603,7 @@
       "Name": "The Finest Craftmanship",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "AC44",
@@ -621,14 +626,14 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 369,
+      "Progressed": 371,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-26T07:57:19.1818171+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
-  "LastChanged_Achievements": "2023-08-26T05:05:25.7827708+00:00",
+  "LastChanged_Achievements": "2023-08-26T06:05:49.6303336+00:00",
   "LastUpdate_AppInfo": "2023-08-22T18:57:00.5189311+00:00",
-  "LastUpdate_Ratings": "2023-08-26T04:59:14.5380261+00:00",
-  "LastUpdate_Achievements": "2023-08-26T05:05:25.782801+00:00"
+  "LastUpdate_Ratings": "2023-08-26T05:59:27.6860363+00:00",
+  "LastUpdate_Achievements": "2023-08-26T06:05:49.630377+00:00"
 }

@@ -5,6 +5,7 @@ Rating: 4.54 (Ranked 501)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Hotel California | 0.20% | ~1,331 |
 | Welcome To Hell-A | 0.20% | ~1,331 |
 | Dr. Reed, I Presume? | 0.10% | ~665 |
 | Making Your Mark | 0.10% | ~665 |
@@ -26,7 +27,6 @@ Rating: 4.54 (Ranked 501)
 | Not Even My Final Form | 0.10% | ~665 |
 | Hazardous Materials | 0.10% | ~665 |
 | Friends Like These | 0.10% | ~665 |
-| Hotel California | 0.10% | ~665 |
 | Donk! | 0.10% | ~665 |
 | Internet Famous | 0.10% | ~665 |
 | Sole Survivor | 0.10% | ~665 |
@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 501)
 | Rising Star | 0.10% | ~665 |
 | Bucket List | 0.10% | ~665 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 665,447 (Ranked 22)  
-Completed: 2,072 (0.31%) (Ranked 171)  
+Progressed: 665,473 (Ranked 22)  
+Completed: 2,073 (0.31%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -179,7 +179,7 @@ Completed: 2,072 (0.31%) (Ranked 171)
 | 2023-08-23 | 663,691 | 2,054 |
 | 2023-08-24 | 664,478 | 2,059 |
 | 2023-08-25 | 665,272 | 2,068 |
-| 2023-08-26 | 665,447 | 2,072 |
+| 2023-08-26 | 665,473 | 2,073 |
 ## Awards
 Max (Great Boss Battles): 5,753  (Ranked 62)  
 Sum: 8,470 (Ranked 97)  

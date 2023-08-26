@@ -39,7 +39,7 @@ Number of Ratings: 98  (23.09.2022)
 | Cercatore d'Oro | 6.00% | ~401 |
 | The Enlightment | 6.00% | ~401 |
 | Generalissimo | 5.00% | ~334 |
-| "O La Vittoria, O Tutti Accoppati" | 4.00% | ~268 |
+| "O La Vittoria, O Tutti Accoppati" | 5.00% | ~334 |
 | Ponte of No Return | 3.00% | ~201 |
 | Seeing Red | 3.00% | ~201 |
 | Soča Drag | 3.00% | ~201 |

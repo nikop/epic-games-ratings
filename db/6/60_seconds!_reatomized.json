@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2019-07-25T08:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4978,
+  "EOS_Progressed": 4979,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -4443,6 +4443,11 @@
       "Time": "2023-08-26T04:07:41.152222+00:00",
       "NumProgressed": 4978,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-26T06:08:07.3523671+00:00",
+      "NumProgressed": 4979,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -4454,7 +4459,7 @@
       "Name": "Souper!",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 3186
+      "UsersEstimate": 3187
     },
     {
       "ID": "ACH_10_WATER",
@@ -4462,7 +4467,7 @@
       "Name": "2-1-6",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 2837
+      "UsersEstimate": 2838
     },
     {
       "ID": "ACH_ALL_BROKEN",
@@ -4526,7 +4531,7 @@
       "Name": "All thumbs",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 4580
+      "UsersEstimate": 4581
     },
     {
       "ID": "ACH_BUG_KILLER",
@@ -4590,7 +4595,7 @@
       "Name": "Dawkins Residence",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1046
     },
     {
       "ID": "ACH_DEFEND",
@@ -4598,7 +4603,7 @@
       "Name": "Pacifist",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 2887
+      "UsersEstimate": 2888
     },
     {
       "ID": "ACH_DEFEND_THREE",
@@ -4670,7 +4675,7 @@
       "Name": "Family guy",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 3833
+      "UsersEstimate": 3834
     },
     {
       "ID": "ACH_FIRE_POLICE",
@@ -4750,7 +4755,7 @@
       "Name": "Home, sweet home",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 4480
+      "UsersEstimate": 4481
     },
     {
       "ID": "ACH_MADHATTER",
@@ -4758,7 +4763,7 @@
       "Name": "Mad Hatter",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "ACH_MIB",
@@ -4854,7 +4859,7 @@
       "Name": "The Dark Side",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 3435
+      "UsersEstimate": 3436
     },
     {
       "ID": "ACH_ROGUE",
@@ -4870,7 +4875,7 @@
       "Name": "I will survive!",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 4580
+      "UsersEstimate": 4581
     },
     {
       "ID": "ACH_SURVIVE_111_DAYS",
@@ -4886,7 +4891,7 @@
       "Name": "Survivalist",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 4430
+      "UsersEstimate": 4431
     },
     {
       "ID": "ACH_SURVIVE_40_DAYS",
@@ -4933,7 +4938,7 @@
     {
       "ID": "5nj1ea3",
       "IsBase": true,
-      "Progressed": 4978,
+      "Progressed": 4979,
       "Completed": 1
     }
   ],
@@ -4941,8 +4946,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-08-11T11:57:12.7338821+00:00",
-  "LastChanged_Achievements": "2023-08-26T05:07:31.3193654+00:00",
+  "LastChanged_Achievements": "2023-08-26T06:08:07.3523666+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:08.2556499+00:00",
-  "LastUpdate_Ratings": "2023-08-26T04:58:50.5748197+00:00",
-  "LastUpdate_Achievements": "2023-08-26T05:07:31.319427+00:00"
+  "LastUpdate_Ratings": "2023-08-26T05:59:02.7594739+00:00",
+  "LastUpdate_Achievements": "2023-08-26T06:08:07.3524525+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 60,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9107,
+  "EOS_Progressed": 9108,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 786,
+  "EOS_NewPlayers": 782,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3167,6 +3167,11 @@
       "Time": "2023-08-26T05:07:40.5762668+00:00",
       "NumProgressed": 9107,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-26T06:08:17.7974738+00:00",
+      "NumProgressed": 9108,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -3227,7 +3232,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1730
+      "UsersEstimate": 1731
     },
     {
       "ID": "16",
@@ -3275,7 +3280,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "21",
@@ -3393,9 +3398,9 @@
       "ID": "7",
       "SetID": "458bbdk",
       "Name": "Grave Robber",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 55
+      "UsersEstimate": 64
     },
     {
       "ID": "8",
@@ -3418,14 +3423,14 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 9107,
+      "Progressed": 9108,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged_Achievements": "2023-08-26T05:07:40.5762664+00:00",
+  "LastChanged_Achievements": "2023-08-26T06:08:17.7974727+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:40.3624587+00:00",
-  "LastUpdate_Ratings": "2023-08-26T04:57:30.9354735+00:00",
-  "LastUpdate_Achievements": "2023-08-26T05:07:40.5762984+00:00"
+  "LastUpdate_Ratings": "2023-08-26T05:57:33.6780541+00:00",
+  "LastUpdate_Achievements": "2023-08-26T06:08:17.7975191+00:00"
 }

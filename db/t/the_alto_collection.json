@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -745,7 +745,7 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 36800,
+  "EOS_Progressed": 36803,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 886,
   "EOS_NewCompleters": 0,
@@ -14820,6 +14820,11 @@
       "Time": "2023-08-26T05:06:39.1269772+00:00",
       "NumProgressed": 36800,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-26T06:07:09.084569+00:00",
+      "NumProgressed": 36803,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -14871,7 +14876,7 @@
       "Name": "Rookie",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 9568
+      "UsersEstimate": 9569
     },
     {
       "ID": "goals180",
@@ -14951,7 +14956,7 @@
       "Name": "Nomad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 6624
+      "UsersEstimate": 6625
     },
     {
       "ID": "novice",
@@ -15039,7 +15044,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 9568
+      "UsersEstimate": 9569
     },
     {
       "ID": "sandboarder",
@@ -15142,15 +15147,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 36800,
+      "Progressed": 36803,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-07-28T06:00:25.7046366+00:00",
-  "LastChanged_Achievements": "2023-08-26T05:06:39.1269768+00:00",
+  "LastChanged_Achievements": "2023-08-26T06:07:09.0845683+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:54.4473189+00:00",
-  "LastUpdate_Ratings": "2023-08-26T04:57:38.6576716+00:00",
-  "LastUpdate_Achievements": "2023-08-26T05:06:39.127066+00:00"
+  "LastUpdate_Ratings": "2023-08-26T05:57:44.2074966+00:00",
+  "LastUpdate_Achievements": "2023-08-26T06:07:09.0846985+00:00"
 }

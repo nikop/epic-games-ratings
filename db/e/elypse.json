@@ -4,8 +4,8 @@
   "ProductSlug": "elypse-b177a8",
   "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 276,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-17T15:00:00+00:00",
     "PcReleaseDate": "2023-05-17T15:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 88,
+  "EOS_Progressed": 89,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -436,6 +436,11 @@
       "Time": "2023-08-25T22:06:36.383824+00:00",
       "NumProgressed": 88,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-26T06:07:35.0386034+00:00",
+      "NumProgressed": 89,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 34,
@@ -461,7 +466,7 @@
       "ID": "Ach_BossDarkPoulpe",
       "SetID": "4o5gjp0",
       "Name": "Squid game",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 20,
       "UsersEstimate": 36
     },
@@ -477,7 +482,7 @@
       "ID": "Ach_BossGolem",
       "SetID": "4o5gjp0",
       "Name": "Rock Solid",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 20,
       "UsersEstimate": 28
     },
@@ -509,7 +514,7 @@
       "ID": "Ach_BuyHut",
       "SetID": "4o5gjp0",
       "Name": "Pigeon",
-      "Percentage": 82,
+      "Percentage": 81,
       "XP": 10,
       "UsersEstimate": 72
     },
@@ -525,7 +530,7 @@
       "ID": "Ach_DarkPoulpeConstellation",
       "SetID": "4o5gjp0",
       "Name": "The beast within",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
       "UsersEstimate": 27
     },
@@ -541,7 +546,7 @@
       "ID": "Ach_DiscoveryCatacombes",
       "SetID": "4o5gjp0",
       "Name": "A bottomless pit",
-      "Percentage": 85,
+      "Percentage": 84,
       "XP": 10,
       "UsersEstimate": 75
     },
@@ -565,7 +570,7 @@
       "ID": "Ach_DiscoveryFinalTower",
       "SetID": "4o5gjp0",
       "Name": "Nokron tower",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
       "UsersEstimate": 19
     },
@@ -573,7 +578,7 @@
       "ID": "Ach_DiscoveryTemple",
       "SetID": "4o5gjp0",
       "Name": "It\u0027s getting dark",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
       "UsersEstimate": 28
     },
@@ -581,7 +586,7 @@
       "ID": "Ach_DiscoveryTuto",
       "SetID": "4o5gjp0",
       "Name": "A path of no return",
-      "Percentage": 100,
+      "Percentage": 99,
       "XP": 10,
       "UsersEstimate": 88
     },
@@ -597,7 +602,7 @@
       "ID": "Ach_DiveKillEnnemis",
       "SetID": "4o5gjp0",
       "Name": "Magnitude 5",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 30,
       "UsersEstimate": 19
     },
@@ -629,7 +634,7 @@
       "ID": "Ach_FirstGolem",
       "SetID": "4o5gjp0",
       "Name": "Soft skin",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 10,
       "UsersEstimate": 42
     },
@@ -653,7 +658,7 @@
       "ID": "Ach_LavaDeath",
       "SetID": "4o5gjp0",
       "Name": "Splash!",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 30,
       "UsersEstimate": 48
     },
@@ -677,7 +682,7 @@
       "ID": "Ach_SoulPotBeggarHouse",
       "SetID": "4o5gjp0",
       "Name": "Payback",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 30,
       "UsersEstimate": 20
     },
@@ -701,7 +706,7 @@
       "ID": "Ach_StunGolemFly",
       "SetID": "4o5gjp0",
       "Name": "Hard Rock",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 30,
       "UsersEstimate": 28
     },
@@ -718,14 +723,14 @@
     {
       "ID": "4o5gjp0",
       "IsBase": true,
-      "Progressed": 88,
+      "Progressed": 89,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-08-26T05:07:02.5274514+00:00",
+  "LastChanged_Achievements": "2023-08-26T06:07:35.0386027+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:10.7313568+00:00",
-  "LastUpdate_Ratings": "2023-08-26T05:01:04.3901953+00:00",
-  "LastUpdate_Achievements": "2023-08-26T05:07:02.5274736+00:00"
+  "LastUpdate_Ratings": "2023-08-26T06:01:34.8671796+00:00",
+  "LastUpdate_Achievements": "2023-08-26T06:07:35.0386285+00:00"
 }
