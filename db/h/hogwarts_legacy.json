@@ -6822,7 +6822,7 @@
       "Count": 603
     }
   ],
-  "EOS_Progressed": 290892,
+  "EOS_Progressed": 290894,
   "EOS_Completed": 456,
   "EOS_NewPlayers": 429,
   "EOS_NewCompleters": 3,
@@ -20687,6 +20687,11 @@
       "Time": "2023-08-27T07:03:31.8829718+00:00",
       "NumProgressed": 290892,
       "NumCompleted": 456
+    },
+    {
+      "Time": "2023-08-27T08:03:35.6962793+00:00",
+      "NumProgressed": 290894,
+      "NumCompleted": 456
     }
   ],
   "TotalAchievements": 45,
@@ -20746,7 +20751,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20362
+      "UsersEstimate": 20363
     },
     {
       "ID": "PFA_16",
@@ -20762,7 +20767,7 @@
       "Name": "Beast Friends",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20362
+      "UsersEstimate": 20363
     },
     {
       "ID": "PFA_18",
@@ -20770,7 +20775,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20362
+      "UsersEstimate": 20363
     },
     {
       "ID": "PFA_19",
@@ -20778,7 +20783,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20362
+      "UsersEstimate": 20363
     },
     {
       "ID": "PFA_2",
@@ -20922,7 +20927,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23271
+      "UsersEstimate": 23272
     },
     {
       "ID": "PFA_36",
@@ -21002,7 +21007,7 @@
       "Name": "The Spell Master",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23271
+      "UsersEstimate": 23272
     },
     {
       "ID": "PFA_45",
@@ -21050,14 +21055,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23271
+      "UsersEstimate": 23272
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 290892,
+      "Progressed": 290894,
       "Completed": 456
     }
   ],
@@ -21065,8 +21070,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-08-27T06:02:45.9285331+00:00",
-  "LastChanged_Achievements": "2023-08-27T07:03:31.8829709+00:00",
+  "LastChanged_Achievements": "2023-08-27T08:03:35.6962783+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:27.4425386+00:00",
-  "LastUpdate_Ratings": "2023-08-27T07:00:07.7975279+00:00",
-  "LastUpdate_Achievements": "2023-08-27T07:03:31.8830907+00:00"
+  "LastUpdate_Ratings": "2023-08-27T08:00:33.8972702+00:00",
+  "LastUpdate_Achievements": "2023-08-27T08:03:35.6965068+00:00"
 }

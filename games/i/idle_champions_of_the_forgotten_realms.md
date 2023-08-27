@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 926)  
+Rating: 4.06 (Ranked 927)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,7 +9,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Brief Tour of the Realms | 2.00% | ~4,506 |
 | Beast Intentions | 0.70% | ~1,577 |
 | The Cursed Farmer | 0.70% | ~1,577 |
-| The Hunt for The Last Breath | 0.60% | ~1,149 |
+| The Hunt for The Last Breath | 0.60% | ~1,150 |
 | The Mad Wizard | 0.50% | ~1,127 |
 | The Ring of Regeneration | 0.40% | ~901 |
 | To Infinity's and Beyond | 0.40% | ~766 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~192 |
 | Animated Giff | 0.10% | ~192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,303 (Ranked 53)  
+Progressed: 225,310 (Ranked 53)  
 Completed: 2,219 (0.98%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -652,7 +652,7 @@ Completed: 2,219 (0.98%) (Ranked 122)
 | 2023-08-24 | 224,686 | 2,211 |
 | 2023-08-25 | 224,925 | 2,214 |
 | 2023-08-26 | 225,221 | 2,219 |
-| 2023-08-27 | 225,303 | 2,219 |
+| 2023-08-27 | 225,310 | 2,219 |
 ## Awards
 Max (Diverse Characters): 5,189  (Ranked 68)  
 Sum: 31,241 (Ranked 39)  

@@ -8,11 +8,11 @@
 | The Adventure Begins | 54.00% | ~276 |
 | Swabbie | 40.00% | ~205 |
 | With Great Power… | 38.00% | ~195 |
-| This Belongs in a Museum | 32.00% | ~164 |
+| This Belongs in a Museum | 33.00% | ~169 |
 | The Gambit Has Begun | 25.00% | ~128 |
 | Powder Monkey | 24.00% | ~123 |
 | Somewhere Deep in the Lost Caribbean | 19.00% | ~97 |
-| Mirror Mirror on the Wall | 18.00% | ~92 |
+| Mirror Mirror on the Wall | 19.00% | ~97 |
 | Fishy Fish | 17.00% | ~87 |
 | Buccaneer | 15.00% | ~77 |
 | Pirates Assemble! | 14.00% | ~72 |
@@ -31,7 +31,7 @@
 | Fully Decked | 2.00% | ~10 |
 | Welcome Back Jester | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 512 (Ranked 229)  
+Progressed: 512 (Ranked 230)  
 Completed: 4 (0.78%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -880,9 +880,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 661358,
+  "EOS_Progressed": 661361,
   "EOS_Completed": 168,
-  "EOS_NewPlayers": 304,
+  "EOS_NewPlayers": 306,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13070,6 +13070,11 @@
       "Time": "2023-08-27T07:06:32.063879+00:00",
       "NumProgressed": 661358,
       "NumCompleted": 168
+    },
+    {
+      "Time": "2023-08-27T08:07:19.321252+00:00",
+      "NumProgressed": 661361,
+      "NumCompleted": 168
     }
   ],
   "TotalAchievements": 48,
@@ -13081,7 +13086,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 476178
+      "UsersEstimate": 476180
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -13089,7 +13094,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 383588
+      "UsersEstimate": 383589
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -13097,7 +13102,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 152112
+      "UsersEstimate": 152113
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -13105,7 +13110,7 @@
       "Name": "Adventurer",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 39681
+      "UsersEstimate": 39682
     },
     {
       "ID": "Achievement_05_Protector_of_the_Realm",
@@ -13217,7 +13222,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 152112
+      "UsersEstimate": 152113
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -13225,7 +13230,7 @@
       "Name": "Thief Bane",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 92590
+      "UsersEstimate": 92591
     },
     {
       "ID": "Achievement_20_Northern_Scourge",
@@ -13241,7 +13246,7 @@
       "Name": "Empire\u0027s Bane",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 39681
+      "UsersEstimate": 39682
     },
     {
       "ID": "Achievement_22_Cure_for_Corruption",
@@ -13464,15 +13469,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 661358,
+      "Progressed": 661361,
       "Completed": 168
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-08-25T17:00:16.792448+00:00",
-  "LastChanged_Achievements": "2023-08-27T07:06:32.0638781+00:00",
+  "LastChanged_Achievements": "2023-08-27T08:07:19.3212513+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:22.0497359+00:00",
-  "LastUpdate_Ratings": "2023-08-27T07:00:27.0319318+00:00",
-  "LastUpdate_Achievements": "2023-08-27T07:06:32.0640143+00:00"
+  "LastUpdate_Ratings": "2023-08-27T08:00:56.2251239+00:00",
+  "LastUpdate_Achievements": "2023-08-27T08:07:19.3213771+00:00"
 }

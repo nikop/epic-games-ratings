@@ -2,7 +2,7 @@
   "ID": "af0ea01162704696bebf8633a52a7a6d",
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
-  "Ranking_Rating": 950,
+  "Ranking_Rating": 951,
   "Ranking_Popularity": 215,
   "Ranking_PopularitySum": 203,
   "Ranking_EOS_Progress": 79,
@@ -3106,10 +3106,16 @@
       "Rating": 3.94,
       "NumberOfAwards": 1936,
       "NumberOfAwardsMax": 407
+    },
+    {
+      "Time": "2023-08-27T07:58:34.0215138+00:00",
+      "Rating": 3.94,
+      "NumberOfAwards": 1938,
+      "NumberOfAwardsMax": 407
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 1936,
+  "NumberOfAwards": 1938,
   "NumberOfAwardsMax": 407,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3135,7 +3141,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 396
+      "Count": 398
     },
     {
       "Text": "This game has Challenging Combat",
@@ -3162,7 +3168,7 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 72356,
+  "EOS_Progressed": 72357,
   "EOS_Completed": 42,
   "EOS_NewPlayers": 285,
   "EOS_NewCompleters": 1,
@@ -16542,6 +16548,11 @@
       "Time": "2023-08-27T07:03:05.2290798+00:00",
       "NumProgressed": 72356,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-08-27T08:03:03.8893847+00:00",
+      "NumProgressed": 72357,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 37,
@@ -16561,7 +16572,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 20983
+      "UsersEstimate": 20984
     },
     {
       "ID": "ACH_0012",
@@ -16633,7 +16644,7 @@
       "Name": "I Like Trains",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5788
+      "UsersEstimate": 5789
     },
     {
       "ID": "ACH_0050",
@@ -16697,7 +16708,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 47031
+      "UsersEstimate": 47032
     },
     {
       "ID": "ACH_0210",
@@ -16705,7 +16716,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 53543
+      "UsersEstimate": 53544
     },
     {
       "ID": "ACH_0211",
@@ -16848,22 +16859,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 72356,
+      "Progressed": 72357,
       "Completed": 42
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 703,
-      "Completed": 703
+      "Progressed": 704,
+      "Completed": 704
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-08-26T16:58:15.4424785+00:00",
-  "LastChanged_Achievements": "2023-08-27T07:03:05.2290791+00:00",
+  "LastChanged": "2023-08-27T07:58:34.0215135+00:00",
+  "LastChanged_Achievements": "2023-08-27T08:03:03.8893839+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:33.2477495+00:00",
-  "LastUpdate_Ratings": "2023-08-27T06:58:29.1529384+00:00",
-  "LastUpdate_Achievements": "2023-08-27T07:03:05.2292545+00:00"
+  "LastUpdate_Ratings": "2023-08-27T07:58:34.0215144+00:00",
+  "LastUpdate_Achievements": "2023-08-27T08:03:03.8895229+00:00"
 }

@@ -20,28 +20,28 @@
 | First Kiss | 35.00% | ~33 |
 | Symbiosis | 33.00% | ~31 |
 | A Bigger Band | 31.00% | ~29 |
-| Fuel | 28.00% | ~26 |
-| Alone Together | 26.00% | ~24 |
-| Threatening Nature | 24.00% | ~22 |
+| Fuel | 29.00% | ~27 |
+| Alone Together | 27.00% | ~25 |
+| Threatening Nature | 25.00% | ~23 |
 | TV Dreams | 23.00% | ~21 |
-| Flat Tire | 20.00% | ~19 |
+| Flat Tire | 22.00% | ~20 |
+| The Clash | 18.00% | ~17 |
 | Dreamers | 18.00% | ~17 |
-| The Clash | 17.00% | ~16 |
 | The Fix | 16.00% | ~15 |
 | Time | 13.00% | ~12 |
 | The Mountains, The Valleys | 13.00% | ~12 |
 | Regrets | 12.00% | ~11 |
+| Bad Trip | 11.00% | ~10 |
 | The Accident | 11.00% | ~10 |
 | The Awakening | 11.00% | ~10 |
-| Bad Trip | 10.00% | ~9 |
 | Love | 10.00% | ~9 |
 | Here we go again! | 10.00% | ~9 |
+| Chase the Crow | 9.00% | ~8 |
 | Flight of the Bumblebee | 9.00% | ~8 |
-| Chase the Crow | 8.00% | ~7 |
+| Under the Bridge | 6.00% | ~6 |
 | Milk and Alcohol | 6.00% | ~6 |
 | Gasoline | 5.00% | ~5 |
 | On the Road Again | 5.00% | ~5 |
-| Under the Bridge | 5.00% | ~5 |
 | As the Crow Flies | 5.00% | ~5 |
 | Unintended | 5.00% | ~5 |
 | Riders on the Storm | 3.00% | ~3 |

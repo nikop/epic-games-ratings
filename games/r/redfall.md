@@ -1,7 +1,7 @@
 # Redfall
 [Store](https://store.epicgames.com/en-US/p/redfall)  
 [View Rawdata](../../db/r/redfall.json)  
-Rating: 3.50 (Ranked 978)  
+Rating: 3.50 (Ranked 979)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -29,6 +29,7 @@ Rating: 3.50 (Ranked 978)
 | Grounded | 0.10% | ~2 |
 | Peek-a-boo | 0.10% | ~2 |
 | You Clean It Up | 0.10% | ~2 |
+| Throw The First Stone | 0.10% | ~2 |
 | ICU | 0.10% | ~2 |
 | Wounded Whispers | 0.10% | ~2 |
 | Catch and Release | 0.10% | ~2 |
@@ -53,7 +54,6 @@ Rating: 3.50 (Ranked 978)
 | Blood Brother | 0.00% | ~0 |
 | Friendgineering | 0.00% | ~0 |
 | Spit Take | 0.00% | ~0 |
-| Throw The First Stone | 0.00% | ~0 |
 | Faith Healer | 0.00% | ~0 |
 | A Cry in the Dark | 0.00% | ~0 |
 | What Lies Below | 0.00% | ~0 |

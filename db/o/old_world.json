@@ -1647,9 +1647,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13600,
+  "EOS_Progressed": 13601,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10357,6 +10357,11 @@
       "Time": "2023-08-27T07:07:12.8112504+00:00",
       "NumProgressed": 13600,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-27T08:08:08.3447539+00:00",
+      "NumProgressed": 13601,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -10830,9 +10835,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_GREAT",
       "SetID": "7l38kb8",
       "Name": "Great",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 272
+      "UsersEstimate": 136
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_HOLY",
@@ -11918,9 +11923,9 @@
       "ID": "ACHIEVEMENT_LEARNTOPLAY_5",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 5",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 27
     },
     {
       "ID": "ACHIEVEMENT_MACEDONIAN_WARS",
@@ -12454,9 +12459,9 @@
       "ID": "ACHIEVEMENT_UNIT_SIEGE_TOWER",
       "SetID": "9201eeb",
       "Name": "Siege Tower",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 27
     },
     {
       "ID": "ACHIEVEMENT_UNIT_TURRETED_ELEPHANT",
@@ -12574,9 +12579,9 @@
       "ID": "ACHIEVEMENT_WASET_NECROPOLIS",
       "SetID": "9201eeb",
       "Name": "Necropolis in Waset",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 27
     },
     {
       "ID": "ACHIEVEMENT_WIN_1V1",
@@ -12735,21 +12740,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13600,
+      "Progressed": 13601,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13600,
+      "Progressed": 13601,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-24T04:00:31.5764786+00:00",
-  "LastChanged_Achievements": "2023-08-27T07:07:12.8112492+00:00",
+  "LastChanged_Achievements": "2023-08-27T08:08:08.3447532+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:39.7773306+00:00",
-  "LastUpdate_Ratings": "2023-08-27T07:00:43.7082807+00:00",
-  "LastUpdate_Achievements": "2023-08-27T07:07:12.8122602+00:00"
+  "LastUpdate_Ratings": "2023-08-27T08:01:18.4451649+00:00",
+  "LastUpdate_Achievements": "2023-08-27T08:08:08.346948+00:00"
 }

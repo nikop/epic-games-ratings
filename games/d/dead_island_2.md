@@ -1,15 +1,16 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 502)  
+Rating: 4.54 (Ranked 501)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break A Leg | 0.30% | ~1,999 |
-| Hotel California | 0.30% | ~1,999 |
-| Welcome To Hell-A | 0.30% | ~1,999 |
+| Break A Leg | 0.30% | ~2,000 |
+| Hotel California | 0.30% | ~2,000 |
+| Welcome To Hell-A | 0.30% | ~2,000 |
 | Dr. Reed, I Presume? | 0.20% | ~1,333 |
 | Git Gutte! | 0.20% | ~1,333 |
+| Perks of the Job | 0.20% | ~1,333 |
 | Bookworm | 0.20% | ~1,333 |
 | But Doctor, I am Butcho | 0.20% | ~1,333 |
 | Slayer Squad | 0.20% | ~1,333 |
@@ -27,31 +28,30 @@ Rating: 4.54 (Ranked 502)
 | Personal Assistant Personally Assisted | 0.20% | ~1,333 |
 | Our True Nature | 0.20% | ~1,333 |
 | This is My Weapon | 0.20% | ~1,333 |
-| Making Your Mark | 0.10% | ~666 |
-| Anger Management | 0.10% | ~666 |
-| Make it So | 0.10% | ~666 |
-| LA Influential | 0.10% | ~666 |
-| Perks of the Job | 0.10% | ~666 |
-| On Safari | 0.10% | ~666 |
-| I Got a Zombie Army and You Can't Harm Me | 0.10% | ~666 |
-| Smorgasbord | 0.10% | ~666 |
-| Not Even My Final Form | 0.10% | ~666 |
-| Donk! | 0.10% | ~666 |
-| Internet Famous | 0.10% | ~666 |
-| Sole Survivor | 0.10% | ~666 |
-| Jumbo Keyring | 0.10% | ~666 |
-| Gore Horse | 0.10% | ~666 |
-| Humanity Distilled | 0.10% | ~666 |
-| Down with the Sickness | 0.10% | ~666 |
-| Sharpest Tool in the Box | 0.10% | ~666 |
-| Survival Skills | 0.10% | ~666 |
-| Max Headroom | 0.10% | ~666 |
-| Go, Bobcats! | 0.10% | ~666 |
-| Variety is the Spice of Death | 0.10% | ~666 |
-| Rising Star | 0.10% | ~666 |
-| Bucket List | 0.10% | ~666 |
+| Making Your Mark | 0.10% | ~667 |
+| Anger Management | 0.10% | ~667 |
+| Make it So | 0.10% | ~667 |
+| LA Influential | 0.10% | ~667 |
+| On Safari | 0.10% | ~667 |
+| I Got a Zombie Army and You Can't Harm Me | 0.10% | ~667 |
+| Smorgasbord | 0.10% | ~667 |
+| Not Even My Final Form | 0.10% | ~667 |
+| Donk! | 0.10% | ~667 |
+| Internet Famous | 0.10% | ~667 |
+| Sole Survivor | 0.10% | ~667 |
+| Jumbo Keyring | 0.10% | ~667 |
+| Gore Horse | 0.10% | ~667 |
+| Humanity Distilled | 0.10% | ~667 |
+| Down with the Sickness | 0.10% | ~667 |
+| Sharpest Tool in the Box | 0.10% | ~667 |
+| Survival Skills | 0.10% | ~667 |
+| Max Headroom | 0.10% | ~667 |
+| Go, Bobcats! | 0.10% | ~667 |
+| Variety is the Spice of Death | 0.10% | ~667 |
+| Rising Star | 0.10% | ~667 |
+| Bucket List | 0.10% | ~667 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 666,478 (Ranked 22)  
+Progressed: 666,513 (Ranked 22)  
 Completed: 2,079 (0.31%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 2,079 (0.31%) (Ranked 172)
 | 2023-08-24 | 664,478 | 2,059 |
 | 2023-08-25 | 665,272 | 2,068 |
 | 2023-08-26 | 666,250 | 2,078 |
-| 2023-08-27 | 666,478 | 2,079 |
+| 2023-08-27 | 666,513 | 2,079 |
 ## Awards
 Max (Great Boss Battles): 5,770  (Ranked 61)  
 Sum: 8,494 (Ranked 97)  

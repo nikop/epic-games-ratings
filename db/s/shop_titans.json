@@ -2,7 +2,7 @@
   "ID": "9696e0c7c26841789a152588c744d506",
   "Name": "Shop Titans",
   "ProductSlug": "shop-titans-d95c1c",
-  "Ranking_Rating": 938,
+  "Ranking_Rating": 939,
   "Ranking_Popularity": 71,
   "Ranking_PopularitySum": 47,
   "Ranking_EOS_Progress": 67,
@@ -5764,9 +5764,9 @@
       "Count": 3738
     }
   ],
-  "EOS_Progressed": 135210,
+  "EOS_Progressed": 135215,
   "EOS_Completed": 138,
-  "EOS_NewPlayers": 402,
+  "EOS_NewPlayers": 405,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -18959,6 +18959,11 @@
       "Time": "2023-08-27T07:07:19.4295745+00:00",
       "NumProgressed": 135210,
       "NumCompleted": 138
+    },
+    {
+      "Time": "2023-08-27T08:08:16.2776613+00:00",
+      "NumProgressed": 135215,
+      "NumCompleted": 138
     }
   ],
   "TotalAchievements": 112,
@@ -19522,7 +19527,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "jackslot02",
@@ -19626,7 +19631,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "master02",
@@ -19865,15 +19870,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135210,
+      "Progressed": 135215,
       "Completed": 138
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-27T02:17:45.2334817+00:00",
-  "LastChanged_Achievements": "2023-08-27T07:07:19.4295738+00:00",
+  "LastChanged_Achievements": "2023-08-27T08:08:16.2776606+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:19.0477827+00:00",
-  "LastUpdate_Ratings": "2023-08-27T07:01:16.7321918+00:00",
-  "LastUpdate_Achievements": "2023-08-27T07:07:19.4298702+00:00"
+  "LastUpdate_Ratings": "2023-08-27T08:01:58.0306492+00:00",
+  "LastUpdate_Achievements": "2023-08-27T08:08:16.2780106+00:00"
 }

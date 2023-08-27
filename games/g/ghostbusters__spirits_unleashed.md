@@ -5,18 +5,18 @@ Rating: 4.49 (Ranked 580)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~21,821 |
+| Stylish | 86.00% | ~21,822 |
 | Advancement | 72.00% | ~18,269 |
-| Meticulously Efficient | 63.00% | ~15,985 |
+| Meticulously Efficient | 63.00% | ~15,986 |
 | Discovery | 61.00% | ~15,478 |
 | Fully Upgraded | 53.00% | ~13,448 |
 | Swift Rift Removers | 53.00% | ~13,448 |
-| I collect Spores, Molds, and Fungi | 51.00% | ~12,940 |
-| Cultured | 51.00% | ~12,940 |
-| Vaporous Expansion | 48.00% | ~12,179 |
-| Teamwork | 43.00% | ~10,910 |
+| I collect Spores, Molds, and Fungi | 51.00% | ~12,941 |
+| Cultured | 51.00% | ~12,941 |
+| Vaporous Expansion | 48.00% | ~12,180 |
+| Teamwork | 43.00% | ~10,911 |
 | There you are! | 42.00% | ~10,657 |
-| Clutch Capture | 40.00% | ~10,149 |
+| Clutch Capture | 40.00% | ~10,150 |
 | Back Off | 35.00% | ~8,881 |
 | Daily Dose | 34.00% | ~8,627 |
 | Solo Capture | 33.00% | ~8,373 |
@@ -28,8 +28,8 @@ Rating: 4.49 (Ranked 580)
 | Legions | 26.00% | ~6,597 |
 | Right back at ya | 26.00% | ~6,597 |
 | Summoner | 26.00% | ~6,597 |
-| Pesky Jerks | 25.00% | ~6,343 |
-| Stunner | 25.00% | ~6,343 |
+| Pesky Jerks | 25.00% | ~6,344 |
+| Stunner | 25.00% | ~6,344 |
 | Animated | 24.00% | ~6,090 |
 | Skilled | 24.00% | ~6,090 |
 | Collector | 23.00% | ~5,836 |
@@ -37,11 +37,11 @@ Rating: 4.49 (Ranked 580)
 | Rift Destroyer | 19.00% | ~4,821 |
 | Terrifying | 18.00% | ~4,567 |
 | Tobin's Prodigy | 18.00% | ~4,567 |
-| Reckless | 17.00% | ~4,313 |
+| Reckless | 17.00% | ~4,314 |
 | Diabolical | 16.00% | ~4,060 |
 | Seasoned | 16.00% | ~4,060 |
 | Escape Artist | 15.00% | ~3,806 |
-| Whoopsie | 13.00% | ~3,298 |
+| Whoopsie | 13.00% | ~3,299 |
 | Liability | 10.00% | ~2,537 |
 | Rivalry | 10.00% | ~2,537 |
 | Fragile Panes | 9.00% | ~2,284 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 580)
 | I don't need these | 1.00% | ~254 |
 | Mycophile | 1.00% | ~254 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,373 (Ranked 103)  
+Progressed: 25,374 (Ranked 103)  
 Completed: 53 (0.21%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,10 +186,10 @@ Completed: 53 (0.21%) (Ranked 188)
 | 2023-08-24 | 25,321 | 52 |
 | 2023-08-25 | 25,339 | 53 |
 | 2023-08-26 | 25,365 | 53 |
-| 2023-08-27 | 25,373 | 53 |
+| 2023-08-27 | 25,374 | 53 |
 ## Awards
 Max (Great for Quick Sessions): 249  (Ranked 254)  
-Sum: 2,257 (Ranked 188)  
+Sum: 2,258 (Ranked 188)  
 Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
@@ -197,7 +197,7 @@ Diff (max vs sum): 66
 | This game is Great for Beginners | 245 |
 | This game has Competitive Players | 233 |
 | This game has Amazing Storytelling | 227 |
-| This game has Diverse Characters | 223 |
+| This game has Diverse Characters | 224 |
 | This game is Extremely Fun | 222 |
 | This game is Highly Recommended | 221 |
 | This game is Relaxing | 219 |
@@ -352,3 +352,4 @@ Diff (max vs sum): 66
 | 2023-08-20 | 4.49 | 248 | 2,248 |
 | 2023-08-24 | 4.49 | 249 | 2,249 |
 | 2023-08-25 | 4.49 | 249 | 2,257 |
+| 2023-08-27 | 4.49 | 249 | 2,258 |

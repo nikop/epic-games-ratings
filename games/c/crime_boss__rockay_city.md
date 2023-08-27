@@ -1,18 +1,18 @@
 # Crime Boss: Rockay City
 [Store](https://store.epicgames.com/en-US/p/crime-boss)  
 [View Rawdata](../../db/c/crime_boss__rockay_city.json)  
-Rating: 3.94 (Ranked 950)  
+Rating: 3.94 (Ranked 951)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~53,543 |
-| First One’s Free | 65.00% | ~47,031 |
+| Downed but Not Outed | 74.00% | ~53,544 |
+| First One’s Free | 65.00% | ~47,032 |
 | Neophyte Ninja | 50.00% | ~36,178 |
 | Too Old for This | 48.00% | ~34,731 |
 | Case Closed | 35.00% | ~25,325 |
 | Fancy Pants | 35.00% | ~25,325 |
 | King of the Hill | 34.00% | ~24,601 |
-| Underworld Initiate | 29.00% | ~20,983 |
+| Underworld Initiate | 29.00% | ~20,984 |
 | Roid Ranger | 21.00% | ~15,195 |
 | Off the Rocks | 20.00% | ~14,471 |
 | True Player | 19.00% | ~13,748 |
@@ -25,7 +25,7 @@ Rating: 3.94 (Ranked 950)
 | Headhunter | 9.00% | ~6,512 |
 | Ding Dong | 9.00% | ~6,512 |
 | Classy Joint | 9.00% | ~6,512 |
-| I Like Trains | 8.00% | ~5,788 |
+| I Like Trains | 8.00% | ~5,789 |
 | Foo Finder | 7.00% | ~5,065 |
 | Savvy Seeker | 6.00% | ~4,341 |
 | Legend Looter | 5.00% | ~3,618 |
@@ -43,7 +43,7 @@ Rating: 3.94 (Ranked 950)
 | Geek Out | 0.60% | ~434 |
 | Full House | 0.20% | ~145 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,356 (Ranked 79)  
+Progressed: 72,357 (Ranked 79)  
 Completed: 42 (0.06%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,15 +172,15 @@ Completed: 42 (0.06%) (Ranked 227)
 | 2023-08-24 | 72,287 | 41 |
 | 2023-08-25 | 72,307 | 42 |
 | 2023-08-26 | 72,349 | 42 |
-| 2023-08-27 | 72,356 | 42 |
+| 2023-08-27 | 72,357 | 42 |
 ## Awards
 Max (Diverse Characters): 407  (Ranked 215)  
-Sum: 1,936 (Ranked 203)  
+Sum: 1,938 (Ranked 203)  
 Diff (max vs sum): 12  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 407 |
-| This game has Quickly Understood Controls | 396 |
+| This game has Quickly Understood Controls | 398 |
 | This game is Highly Recommended | 389 |
 | This game has Challenging Combat | 375 |
 | This game has Amazing Characters | 369 |
@@ -339,3 +339,4 @@ Diff (max vs sum): 12
 | 2023-08-24 | 3.94 | 406 | 1,930 |
 | 2023-08-25 | 3.94 | 406 | 1,932 |
 | 2023-08-26 | 3.94 | 407 | 1,936 |
+| 2023-08-27 | 3.94 | 407 | 1,938 |

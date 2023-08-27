@@ -20,7 +20,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Fountainhead | 2.00% | ~272 |
 | Glorious | 2.00% | ~272 |
 | Good | 2.00% | ~272 |
-| Great | 2.00% | ~272 |
 | Just | 2.00% | ~272 |
 | Keystone | 2.00% | ~272 |
 | Learned | 2.00% | ~272 |
@@ -54,6 +53,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Poetic Leader | 2.00% | ~272 |
 | Regicide | 1.00% | ~136 |
 | Drillmaster | 1.00% | ~136 |
+| Great | 1.00% | ~136 |
 | Intercessor | 1.00% | ~136 |
 | Mighty | 1.00% | ~136 |
 | Valiant | 1.00% | ~136 |
@@ -147,7 +147,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ancient | 0.30% | ~41 |
 | Glorious Difficulty | 0.30% | ~41 |
 | The Eternal Treaty | 0.30% | ~41 |
-| Learn to Play 5 | 0.30% | ~41 |
 | Hatti | 0.30% | ~41 |
 | Persia | 0.30% | ~41 |
 | Pantheon of Gods | 0.30% | ~41 |
@@ -155,9 +154,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Capturing Cities | 0.30% | ~41 |
 | Ten Crowns | 0.30% | ~41 |
 | Three Man Chariot | 0.30% | ~41 |
-| Siege Tower | 0.30% | ~41 |
 | Conquest Victory | 0.30% | ~41 |
-| Necropolis in Waset | 0.30% | ~41 |
 | Patriarch St Paul | 0.30% | ~41 |
 | Hypatia the Teacher | 0.30% | ~41 |
 | Bronze Victory (Carthage 1) | 0.20% | ~27 |
@@ -168,6 +165,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Event Level High | 0.20% | ~27 |
 | Run, Pheidippides, Run! | 0.20% | ~27 |
 | Nenikekamen | 0.20% | ~27 |
+| Learn to Play 5 | 0.20% | ~27 |
 | Macedonian Wars | 0.20% | ~27 |
 | Assyria | 0.20% | ~27 |
 | Apadana in Parsa | 0.20% | ~27 |
@@ -177,6 +175,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Punic Wars | 0.20% | ~27 |
 | Circus Maximus in Roma | 0.20% | ~27 |
 | Pantheon in Roma | 0.20% | ~27 |
+| Siege Tower | 0.20% | ~27 |
+| Necropolis in Waset | 0.20% | ~27 |
 | Centenarian | 0.10% | ~14 |
 | Lighthouse in Alexandria | 0.10% | ~14 |
 | Musaeum in Alexandria | 0.10% | ~14 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,600 (Ranked 119)  
+Progressed: 13,601 (Ranked 119)  
 Completed: 5 (0.04%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -432,7 +432,7 @@ Completed: 5 (0.04%) (Ranked 235)
 | 2023-08-24 | 13,546 | 5 |
 | 2023-08-25 | 13,563 | 5 |
 | 2023-08-26 | 13,590 | 5 |
-| 2023-08-27 | 13,600 | 5 |
+| 2023-08-27 | 13,601 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,799 (Ranked 208)  

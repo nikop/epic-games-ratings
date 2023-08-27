@@ -28,12 +28,12 @@
 | Take Heart | 40.00% | ~434 |
 | Stronger! | 40.00% | ~434 |
 | Ancient Wisdom | 39.00% | ~423 |
+| Frog Facts! | 39.00% | ~423 |
 | All That Glistens | 39.00% | ~423 |
-| Frog Facts! | 38.00% | ~412 |
+| It's Pointy! | 38.00% | ~412 |
 | Spellbound | 37.00% | ~401 |
 | Extinct Again! | 37.00% | ~401 |
 | All Skilled Up! | 37.00% | ~401 |
-| It's Pointy! | 37.00% | ~401 |
 | Bird of Prey | 36.00% | ~391 |
 | Stardust | 36.00% | ~391 |
 | Heartbreaker | 36.00% | ~391 |

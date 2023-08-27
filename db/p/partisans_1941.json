@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1316,
+  "EOS_Progressed": 1317,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2320,6 +2320,11 @@
       "Time": "2023-08-27T02:23:01.7149988+00:00",
       "NumProgressed": 1316,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-27T08:07:32.9290115+00:00",
+      "NumProgressed": 1317,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2459,7 +2464,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "High_noon",
@@ -2570,15 +2575,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1316,
+      "Progressed": 1317,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-08-27T07:06:43.4390451+00:00",
+  "LastChanged_Achievements": "2023-08-27T08:07:32.9290109+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:40.0859007+00:00",
-  "LastUpdate_Ratings": "2023-08-27T06:57:34.7481797+00:00",
-  "LastUpdate_Achievements": "2023-08-27T07:06:43.4390978+00:00"
+  "LastUpdate_Ratings": "2023-08-27T07:57:28.090312+00:00",
+  "LastUpdate_Achievements": "2023-08-27T08:07:32.9290507+00:00"
 }

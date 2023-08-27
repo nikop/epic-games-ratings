@@ -8,11 +8,10 @@ Rating: 4.60 (Ranked 392)
 | Time Heals All Wounds | 26.00% | ~219 |
 | The Mysterious Stranger | 21.00% | ~177 |
 | Rail Rat | 21.00% | ~177 |
-| Make Up For Lost Time | 19.00% | ~160 |
 | The Prince in Heels | 19.00% | ~160 |
 | Immaculate Aim | 19.00% | ~160 |
-| The Brass Boss | 19.00% | ~160 |
 | The Steel Shadow | 18.00% | ~152 |
+| Make Up For Lost Time | 18.00% | ~152 |
 | Time Flies | 18.00% | ~152 |
 | The Harder They Fall | 18.00% | ~152 |
 | No, Thanks! | 18.00% | ~152 |
@@ -20,6 +19,7 @@ Rating: 4.60 (Ranked 392)
 | Honest Mistake | 18.00% | ~152 |
 | Fast Learner | 18.00% | ~152 |
 | Immaculate Aim | 18.00% | ~152 |
+| The Brass Boss | 18.00% | ~152 |
 | The Wicked Twins | 17.00% | ~143 |
 | Golem Chaser | 17.00% | ~143 |
 | Like Clockwork | 16.00% | ~135 |
@@ -28,7 +28,7 @@ Rating: 4.60 (Ranked 392)
 | The Loose Cannon | 16.00% | ~135 |
 | Check Your Pulse | 16.00% | ~135 |
 | The Family Fortune | 16.00% | ~135 |
-| Right On Time | 15.00% | ~126 |
+| Right On Time | 15.00% | ~127 |
 | Treasure Trove | 14.00% | ~118 |
 | Street Style | 14.00% | ~118 |
 | Cartographer | 14.00% | ~118 |
@@ -41,8 +41,8 @@ Rating: 4.60 (Ranked 392)
 | Fairgrounds Explorer | 9.00% | ~76 |
 | Sump Explorer | 9.00% | ~76 |
 | Syron for Hope | 9.00% | ~76 |
-| Cultivair Explorer | 8.00% | ~67 |
-| Factorywood Explorer | 8.00% | ~67 |
+| Cultivair Explorer | 8.00% | ~68 |
+| Factorywood Explorer | 8.00% | ~68 |
 | Corin Goes Home | 7.00% | ~59 |
 | Sartorialist | 7.00% | ~59 |
 | Entresol Explorer | 7.00% | ~59 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 392)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 843 (Ranked 209)  
+Progressed: 844 (Ranked 209)  
 Completed: 5 (0.59%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,6 +145,7 @@ Completed: 5 (0.59%) (Ranked 140)
 | 2023-08-24 | 838 | 5 |
 | 2023-08-25 | 839 | 5 |
 | 2023-08-26 | 843 | 5 |
+| 2023-08-27 | 844 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
