@@ -70,7 +70,7 @@
 | 68 | [Bunny Park](games/b/bunny_park.md) | 3.37% |
 | 69 | [The Complex](games/t/the_complex.md) | 3.33% |
 | 70 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
-| 71 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.21% |
+| 71 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.20% |
 | 72 | [HordeCore](games/h/hordecore.md) | 3.15% |
 | 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.10% |
 | 74 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.04% |
@@ -200,9 +200,9 @@
 | 196 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 196 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
 | 196 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.16% |
+| 201 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.15% |
 | 201 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
-| 202 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.14% |
-| 202 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.14% |
+| 203 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.14% |
 | 204 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.13% |
 | 205 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
 | 205 | [Isonzo](games/i/isonzo.md) | 0.12% |

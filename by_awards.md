@@ -81,7 +81,7 @@
 | 79 | [SMITE](games/s/smite.md) | 4,197 | 4.44 | 649 |
 | 80 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,115 | 4.51 | 544 |
 | 81 | [Days Gone](games/d/days_gone.md) | 3,918 | 4.68 | 239 |
-| 82 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,781 | 4.57 | 450 |
+| 82 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,786 | 4.57 | 450 |
 | 83 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,739 | 4.28 | 810 |
 | 84 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 3,653 | 4.68 | 239 |
 | 85 | [Paladins](games/p/paladins.md) | 3,552 | 4.34 | 761 |
@@ -89,13 +89,13 @@
 | 87 | [Gloomhaven](games/g/gloomhaven.md) | 3,504 | 4.47 | 613 |
 | 88 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,418 | 4.68 | 239 |
 | 89 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,341 | 4.68 | 239 |
-| 90 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,311 | 4.76 | 118 |
+| 90 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,312 | 4.76 | 118 |
 | 91 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3,251 | 3.98 | 943 |
 | 92 | [Hades](games/h/hades.md) | 3,236 | 4.92 | 4 |
 | 93 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,226 | 4.57 | 450 |
 | 94 | [Trackmania](games/t/trackmania.md) | 3,184 | 4.67 | 256 |
 | 95 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 2,779 | 4.82 | 65 |
-| 96 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,691 | 4.51 | 544 |
+| 96 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,698 | 4.51 | 544 |
 | 97 | [Among Us](games/a/among_us.md) | 2,631 | 4.57 | 450 |
 | 98 | [Path of Exile](games/p/path_of_exile.md) | 2,580 | 4.61 | 367 |
 | 99 | [RAGE 2](games/r/rage_2.md) | 2,527 | 4.27 | 817 |
@@ -113,7 +113,7 @@
 | 111 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 1,881 | 4.90 | 8 |
 | 112 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 1,873 | 4.70 | 199 |
 | 113 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 1,809 | 4.71 | 189 |
-| 114 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 1,796 | 4.56 | 472 |
+| 114 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 1,797 | 4.56 | 472 |
 | 115 | [The Outer Worlds](games/t/the_outer_worlds.md) | 1,772 | 4.63 | 332 |
 | 116 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 1,762 | 4.57 | 450 |
 | 117 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 1,710 | 4.50 | 560 |
@@ -220,7 +220,7 @@
 | 218 | [Nuclear Throne](games/n/nuclear_throne.md) | 386 | 4.79 | 88 |
 | 219 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 385 | 4.61 | 367 |
 | 220 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 384 | 4.84 | 48 |
-| 221 | [For The King](games/f/for_the_king.md) | 381 | 4.70 | 199 |
+| 221 | [For The King](games/f/for_the_king.md) | 383 | 4.70 | 199 |
 | 222 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 380 | 4.70 | 199 |
 | 223 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 377 | 4.62 | 351 |
 | 224 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 373 | 3.99 | 938 |

@@ -586,7 +586,7 @@
 | [Dark Light](games/d/dark_light.md) | 4.29 | 801 | 0 | 514 |
 | [Dark Matter](games/d/dark_matter.md) | - | - | 0 | - |
 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 239 | 7,350 | 48 |
-| [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 118 | 3,311 | 90 |
+| [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 118 | 3,312 | 90 |
 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 528 | 42 | 422 |
 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 367 | 385 | 219 |
 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 560 | 91 | 350 |
@@ -942,7 +942,7 @@
 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 134 | 633 | 178 |
 | [Football Stars Legend 24](games/d/d5761edf0cbb4815a96c65013863cc9a.md) | - | - | - | - |
 | [For Honor Standard Edition](games/f/for_honor_standard_edition.md) | 4.52 | 528 | 0 | 514 |
-| [For The King](games/f/for_the_king.md) | 4.70 | 199 | 381 | 221 |
+| [For The King](games/f/for_the_king.md) | 4.70 | 199 | 383 | 221 |
 | [FORECLOSED](games/f/foreclosed.md) | - | - | 0 | - |
 | [Foregone](games/f/foregone.md) | - | - | 0 | - |
 | [Forest Fire](games/6/6a249c368e9a4ad99bbdfe23997f26ba.md) | - | - | - | - |
@@ -1151,7 +1151,7 @@
 | [Homeworld 3](games/h/homeworld_3.md) | - | - | - | - |
 | [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 4.57 | 450 | 0 | 514 |
 | [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 4.32 | 778 | 0 | 514 |
-| [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.51 | 544 | 2,691 | 96 |
+| [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.51 | 544 | 2,698 | 96 |
 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 145 | 8,725 | 40 |
 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 938 | 373 | 224 |
 | [Horace](games/h/horace.md) | 4.50 | 560 | 0 | 514 |
@@ -1833,7 +1833,7 @@
 | [Phantom Blade Executioners BETA](games/a/a37b93c1350f481681b2c9462d22022a.md) | - | - | 0 | - |
 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 367 | 105 | 331 |
 | [Phobos](games/p/phobos.md) | - | - | - | - |
-| [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 472 | 1,796 | 114 |
+| [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 472 | 1,797 | 114 |
 | [pici BetaTest](games/p/pici_betatest.md) | - | - | - | - |
 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 172 | 0 | 514 |
 | [Pile Up](games/p/pile_up.md) | - | - | 0 | - |
@@ -2705,7 +2705,7 @@
 | [The Wolf Among Us 2](games/t/the_wolf_among_us_2.md) | - | - | - | - |
 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 918 | 0 | 514 |
 | [The Zombie Smasher](games/d/dd115523a4e24061be581586b20645ef.md) | - | - | 0 | - |
-| [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 450 | 3,781 | 82 |
+| [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 450 | 3,786 | 82 |
 | [Them and Us](games/t/them_and_us.md) | - | - | 0 | - |
 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.62 | 351 | 20 | 509 |
 | [There Is No Light](games/t/there_is_no_light.md) | - | - | 0 | - |

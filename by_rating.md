@@ -119,7 +119,7 @@
 | 109 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 28 | 467 |
 | 118 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 15,146 | 24 |
 | 118 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.76 | 0 | 514 |
-| 118 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,311 | 90 |
+| 118 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,312 | 90 |
 | 118 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 936 | 149 |
 | 118 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,428 | 75 |
 | 118 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 514 |
@@ -202,7 +202,7 @@
 | 199 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 380 | 222 |
 | 199 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 401 | 217 |
 | 199 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.70 | 0 | 514 |
-| 199 | [For The King](games/f/for_the_king.md) | 4.70 | 381 | 221 |
+| 199 | [For The King](games/f/for_the_king.md) | 4.70 | 383 | 221 |
 | 199 | [GNOG](games/g/gnog.md) | 4.70 | 0 | 514 |
 | 199 | [GoNNER](games/g/gonner.md) | 4.70 | 0 | 514 |
 | 199 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 51 | 401 |
@@ -465,7 +465,7 @@
 | 450 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,226 | 93 |
 | 450 | [Risen](games/r/risen.md) | 4.57 | 0 | 514 |
 | 450 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.57 | 0 | 514 |
-| 450 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 3,781 | 82 |
+| 450 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 3,786 | 82 |
 | 450 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.57 | 30 | 462 |
 | 450 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 19,320 | 19 |
 | 450 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,762 | 116 |
@@ -484,7 +484,7 @@
 | 472 | [Little Inferno](games/l/little_inferno.md) | 4.56 | 0 | 514 |
 | 472 | [Minit](games/m/minit.md) | 4.56 | 0 | 514 |
 | 472 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,747 | 70 |
-| 472 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,796 | 114 |
+| 472 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,797 | 114 |
 | 472 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.56 | 0 | 514 |
 | 472 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.56 | 0 | 514 |
 | 488 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.55 | 0 | 514 |
@@ -547,7 +547,7 @@
 | 544 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 777 | 160 |
 | 544 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,115 | 80 |
 | 544 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 514 |
-| 544 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.51 | 2,691 | 96 |
+| 544 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.51 | 2,698 | 96 |
 | 544 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 108 | 328 |
 | 544 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 148 | 300 |
 | 544 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 189 | 277 |
