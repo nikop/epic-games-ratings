@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 67,
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 78,
+  "Ranking_EOS_NewPlayers": 79,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -6711,7 +6711,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 59717,
+  "EOS_Progressed": 59719,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 497,
   "EOS_NewCompleters": 0,
@@ -20316,6 +20316,11 @@
       "Time": "2023-08-27T01:48:43.0373948+00:00",
       "NumProgressed": 59717,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-27T02:22:32.517546+00:00",
+      "NumProgressed": 59719,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -20367,7 +20372,7 @@
       "Name": "Butterlord",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 4777
+      "UsersEstimate": 4778
     },
     {
       "ID": "Catch",
@@ -20551,7 +20556,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 19109
+      "UsersEstimate": 19110
     },
     {
       "ID": "Lawbringer",
@@ -20559,7 +20564,7 @@
       "Name": "Lawbringer",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 22692
+      "UsersEstimate": 22693
     },
     {
       "ID": "Lawmaker",
@@ -20734,15 +20739,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 59717,
+      "Progressed": 59719,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-08-26T16:58:09.7565484+00:00",
-  "LastChanged_Achievements": "2023-08-27T01:48:43.0373942+00:00",
+  "LastChanged_Achievements": "2023-08-27T02:22:32.5175454+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:26.1294952+00:00",
-  "LastUpdate_Ratings": "2023-08-27T01:41:07.7094487+00:00",
-  "LastUpdate_Achievements": "2023-08-27T01:48:43.0375215+00:00"
+  "LastUpdate_Ratings": "2023-08-27T02:14:00.8116532+00:00",
+  "LastUpdate_Achievements": "2023-08-27T02:22:32.5177203+00:00"
 }

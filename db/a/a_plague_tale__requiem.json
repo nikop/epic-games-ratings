@@ -380,9 +380,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12851,
+  "EOS_Progressed": 12852,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -7625,6 +7625,11 @@
       "Time": "2023-08-27T00:05:18.8950007+00:00",
       "NumProgressed": 12851,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-08-27T02:22:28.2154704+00:00",
+      "NumProgressed": 12852,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 35,
@@ -7636,7 +7641,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 11823
+      "UsersEstimate": 11824
     },
     {
       "ID": "ACH_02",
@@ -7644,7 +7649,7 @@
       "Name": "Newcomers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 10152
+      "UsersEstimate": 10153
     },
     {
       "ID": "ACH_03",
@@ -7676,7 +7681,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 8353
+      "UsersEstimate": 8354
     },
     {
       "ID": "ACH_07",
@@ -7692,7 +7697,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 7839
+      "UsersEstimate": 7840
     },
     {
       "ID": "ACH_09",
@@ -7700,7 +7705,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 7325
+      "UsersEstimate": 7326
     },
     {
       "ID": "ACH_10",
@@ -7708,7 +7713,7 @@
       "Name": "Bloodline",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 6811
+      "UsersEstimate": 6812
     },
     {
       "ID": "ACH_11",
@@ -7724,7 +7729,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 5911
+      "UsersEstimate": 5912
     },
     {
       "ID": "ACH_13",
@@ -7852,7 +7857,7 @@
       "Name": "Alchemist",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 8867
+      "UsersEstimate": 8868
     },
     {
       "ID": "ACH_29",
@@ -7915,7 +7920,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 12851,
+      "Progressed": 12852,
       "Completed": 43
     }
   ],
@@ -7923,8 +7928,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-08-24T02:10:43.6579276+00:00",
-  "LastChanged_Achievements": "2023-08-27T01:48:39.7519687+00:00",
+  "LastChanged_Achievements": "2023-08-27T02:22:28.2154695+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:58.0363669+00:00",
-  "LastUpdate_Ratings": "2023-08-27T01:40:42.6165282+00:00",
-  "LastUpdate_Achievements": "2023-08-27T01:48:39.7520389+00:00"
+  "LastUpdate_Ratings": "2023-08-27T02:13:23.1366841+00:00",
+  "LastUpdate_Achievements": "2023-08-27T02:22:28.2155929+00:00"
 }

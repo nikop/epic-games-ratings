@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 158,
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 54,
+  "Ranking_EOS_NewPlayers": 55,
   "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
@@ -2662,9 +2662,9 @@
       "Count": 239
     }
   ],
-  "EOS_Progressed": 73409,
+  "EOS_Progressed": 73410,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 929,
+  "EOS_NewPlayers": 928,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -16712,6 +16712,11 @@
       "Time": "2023-08-27T01:50:10.1635288+00:00",
       "NumProgressed": 73409,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-08-27T02:24:06.8465763+00:00",
+      "NumProgressed": 73410,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 30,
@@ -16803,7 +16808,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 27161
+      "UsersEstimate": 27162
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -16859,7 +16864,7 @@
       "Name": "Sojourner",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 19820
+      "UsersEstimate": 19821
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -16891,7 +16896,7 @@
       "Name": "Money money",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 11745
+      "UsersEstimate": 11746
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -16899,7 +16904,7 @@
       "Name": "Final touch",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 27161
+      "UsersEstimate": 27162
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -16962,15 +16967,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 73409,
+      "Progressed": 73410,
       "Completed": 94
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-08-23T21:59:53.4712134+00:00",
-  "LastChanged_Achievements": "2023-08-27T01:50:10.1635282+00:00",
+  "LastChanged_Achievements": "2023-08-27T02:24:06.8465758+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:03.9547788+00:00",
-  "LastUpdate_Ratings": "2023-08-27T01:43:40.7460691+00:00",
-  "LastUpdate_Achievements": "2023-08-27T01:50:10.1636337+00:00"
+  "LastUpdate_Ratings": "2023-08-27T02:17:28.2534199+00:00",
+  "LastUpdate_Achievements": "2023-08-27T02:24:06.8467454+00:00"
 }

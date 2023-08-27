@@ -2,7 +2,7 @@
   "ID": "745fc8d94b6244caa3a97f453ddb92ca",
   "Name": "Project Nightmares Case 36: Henrietta Kedward",
   "ProductSlug": "project-nightmares-dcc54b",
-  "Ranking_EOS_Progress": 452,
+  "Ranking_EOS_Progress": 453,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 296,
   "Ranking_EOS_NewCompleters": 102,
@@ -171,9 +171,9 @@
       "ID": "ACH_SECUNDARIA_MASK",
       "SetID": "9675gi1",
       "Name": "Collector",
-      "Percentage": 9,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_STAIRWAYTOHEAVEN",
@@ -258,8 +258,8 @@
   ],
   "FirstSeen": "2023-08-13T20:57:41.0534986+00:00",
   "FirstSeenAchievements": "2023-07-27T13:10:49.3119111+00:00",
-  "LastChanged_Achievements": "2023-08-27T01:48:59.8708415+00:00",
+  "LastChanged_Achievements": "2023-08-27T02:22:56.2685223+00:00",
   "LastUpdate_AppInfo": "2023-08-24T17:57:03.4410118+00:00",
-  "LastUpdate_Ratings": "2023-08-27T01:42:05.3959275+00:00",
-  "LastUpdate_Achievements": "2023-08-27T01:48:59.8708586+00:00"
+  "LastUpdate_Ratings": "2023-08-27T02:15:25.8610046+00:00",
+  "LastUpdate_Achievements": "2023-08-27T02:22:56.2685396+00:00"
 }

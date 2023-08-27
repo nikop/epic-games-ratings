@@ -880,9 +880,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 661348,
+  "EOS_Progressed": 661350,
   "EOS_Completed": 168,
-  "EOS_NewPlayers": 304,
+  "EOS_NewPlayers": 305,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13045,6 +13045,11 @@
       "Time": "2023-08-27T01:48:53.6811298+00:00",
       "NumProgressed": 661348,
       "NumCompleted": 168
+    },
+    {
+      "Time": "2023-08-27T02:22:47.7488186+00:00",
+      "NumProgressed": 661350,
+      "NumCompleted": 168
     }
   ],
   "TotalAchievements": 48,
@@ -13056,7 +13061,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 476171
+      "UsersEstimate": 476172
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -13064,7 +13069,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 383582
+      "UsersEstimate": 383583
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -13088,7 +13093,7 @@
       "Name": "Protector of the Realm",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 6613
+      "UsersEstimate": 6614
     },
     {
       "ID": "Achievement_06_Knight",
@@ -13128,7 +13133,7 @@
       "Name": "Long Shot",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46294
+      "UsersEstimate": 46295
     },
     {
       "ID": "Achievement_11_Grifter",
@@ -13144,7 +13149,7 @@
       "Name": "Jack of all Trades",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 33067
+      "UsersEstimate": 33068
     },
     {
       "ID": "Achievement_13_Dice_Master",
@@ -13208,7 +13213,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 112429
+      "UsersEstimate": 112430
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -13232,7 +13237,7 @@
       "Name": "Smithy",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 33067
+      "UsersEstimate": 33068
     },
     {
       "ID": "Achievement_24_Leap_of_Faith",
@@ -13248,7 +13253,7 @@
       "Name": "Purgatorium",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 6613
+      "UsersEstimate": 6614
     },
     {
       "ID": "Achievement_26_Gamester",
@@ -13288,7 +13293,7 @@
       "Name": "Devil Dice",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46294
+      "UsersEstimate": 46295
     },
     {
       "ID": "Achievement_31_Master_of_Arms",
@@ -13320,7 +13325,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 165337
+      "UsersEstimate": 165338
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -13328,7 +13333,7 @@
       "Name": "Cursed Soul",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 6613
+      "UsersEstimate": 6614
     },
     {
       "ID": "Achievement_36_Swordsman",
@@ -13336,7 +13341,7 @@
       "Name": "Swordsman",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 59521
+      "UsersEstimate": 59522
     },
     {
       "ID": "Achievement_37_Champion",
@@ -13344,7 +13349,7 @@
       "Name": "Champion",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 6613
+      "UsersEstimate": 6614
     },
     {
       "ID": "Achievement_38_Flurry_of_Fury",
@@ -13368,7 +13373,7 @@
       "Name": "Broken Heart",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46294
+      "UsersEstimate": 46295
     },
     {
       "ID": "Achievement_41_Draknars_Bane",
@@ -13392,7 +13397,7 @@
       "Name": "Final Death",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 6613
+      "UsersEstimate": 6614
     },
     {
       "ID": "Achievement_44_Miracle",
@@ -13439,15 +13444,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 661348,
+      "Progressed": 661350,
       "Completed": 168
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-08-25T17:00:16.792448+00:00",
-  "LastChanged_Achievements": "2023-08-27T01:48:53.6811293+00:00",
+  "LastChanged_Achievements": "2023-08-27T02:22:47.748818+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:22.0497359+00:00",
-  "LastUpdate_Ratings": "2023-08-27T01:43:05.1317347+00:00",
-  "LastUpdate_Achievements": "2023-08-27T01:48:53.6812424+00:00"
+  "LastUpdate_Ratings": "2023-08-27T02:16:42.7405809+00:00",
+  "LastUpdate_Achievements": "2023-08-27T02:22:47.7490201+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 70,
   "Ranking_EOS_Progress": 6,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 5,
+  "Ranking_EOS_NewPlayers": 6,
   "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2023-06-08T15:00:00+00:00",
@@ -3460,10 +3460,10 @@
       "Count": 769
     }
   ],
-  "EOS_Progressed": 1613253,
-  "EOS_Completed": 530,
-  "EOS_NewPlayers": 24856,
-  "EOS_NewCompleters": 13,
+  "EOS_Progressed": 1613325,
+  "EOS_Completed": 531,
+  "EOS_NewPlayers": 24831,
+  "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
     {
@@ -12630,6 +12630,11 @@
       "Time": "2023-08-27T01:50:20.5134384+00:00",
       "NumProgressed": 1613253,
       "NumCompleted": 530
+    },
+    {
+      "Time": "2023-08-27T02:24:20.2183191+00:00",
+      "NumProgressed": 1613325,
+      "NumCompleted": 531
     }
   ],
   "TotalAchievements": 1328,
@@ -13841,7 +13846,7 @@
       "Name": "I Want to Get Away",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 32265
+      "UsersEstimate": 32266
     },
     {
       "ID": "brooklyn_2",
@@ -13857,7 +13862,7 @@
       "Name": "I Never Asked for This",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 8066
+      "UsersEstimate": 8067
     },
     {
       "ID": "brooklyn_4",
@@ -15745,7 +15750,7 @@
       "Name": "Pink Slip",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 8066
+      "UsersEstimate": 8067
     },
     {
       "ID": "fort_3",
@@ -15905,7 +15910,7 @@
       "Name": "HOLY SHI-",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 8066
+      "UsersEstimate": 8067
     },
     {
       "ID": "gage2_9",
@@ -17105,7 +17110,7 @@
       "Name": "Going Places",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 8066
+      "UsersEstimate": 8067
     },
     {
       "ID": "gone_in_30_seconds",
@@ -17113,7 +17118,7 @@
       "Name": "Smooth Criminal",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 12906
+      "UsersEstimate": 12907
     },
     {
       "ID": "gorilla_1",
@@ -18353,7 +18358,7 @@
       "Name": "No One Cared Who I Was...",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 32265
+      "UsersEstimate": 32266
     },
     {
       "ID": "no_turning_back",
@@ -18361,7 +18366,7 @@
       "Name": "No Turning Back",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 32265
+      "UsersEstimate": 32266
     },
     {
       "ID": "orange_1",
@@ -20257,7 +20262,7 @@
       "Name": "Spend Money to Make Money",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 8066
+      "UsersEstimate": 8067
     },
     {
       "ID": "squek",
@@ -22007,9 +22012,9 @@
       "ID": "trk_js_2",
       "SetID": "61cefe3",
       "Name": "All That Glimmer isn\u0027t Gold",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 1613
+      "UsersEstimate": 3227
     },
     {
       "ID": "trk_js_3",
@@ -23249,7 +23254,7 @@
       "Name": "You Gotta Start Somewhere",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 32265
+      "UsersEstimate": 32266
     },
     {
       "ID": "you_shall_not_pass",
@@ -23264,13 +23269,13 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1613253,
-      "Completed": 530
+      "Progressed": 1613325,
+      "Completed": 531
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1613253,
+      "Progressed": 1613325,
       "Completed": 35
     }
   ],
@@ -23278,8 +23283,8 @@
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
   "LastChanged": "2023-08-26T21:00:55.931375+00:00",
-  "LastChanged_Achievements": "2023-08-27T01:50:20.5134375+00:00",
+  "LastChanged_Achievements": "2023-08-27T02:24:20.2183185+00:00",
   "LastUpdate_AppInfo": "2023-08-24T21:57:13.1571019+00:00",
-  "LastUpdate_Ratings": "2023-08-27T01:42:32.5134187+00:00",
-  "LastUpdate_Achievements": "2023-08-27T01:50:20.5289403+00:00"
+  "LastUpdate_Ratings": "2023-08-27T02:15:59.5431693+00:00",
+  "LastUpdate_Achievements": "2023-08-27T02:24:20.2356499+00:00"
 }

@@ -43,9 +43,9 @@ Rating: 4.35 (Ranked 753)
 | Archibald Sterling | 25.00% | ~103 |
 | Well-prepared | 21.00% | ~87 |
 | The Truth | 21.00% | ~87 |
+| I Like an Audience | 19.00% | ~78 |
 | Sunken Secrets | 18.00% | ~74 |
 | What Else Did I Miss? | 18.00% | ~74 |
-| I Like an Audience | 18.00% | ~74 |
 | The Denouement | 17.00% | ~70 |
 | Probably the Greatest Detective in the World | 13.00% | ~54 |
 | Take a Break | 12.00% | ~50 |

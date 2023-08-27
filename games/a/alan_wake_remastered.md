@@ -6,22 +6,22 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 38.00% | ~23,459 |
-| Let There Be Light | 31.00% | ~19,137 |
+| Follow the Light | 38.00% | ~23,460 |
+| Let There Be Light | 31.00% | ~19,138 |
 | Float Like a Butterfly | 29.00% | ~17,903 |
-| Nordic Walking | 24.00% | ~14,816 |
+| Nordic Walking | 24.00% | ~14,817 |
 | Bright Falls' Finest | 23.00% | ~14,199 |
 | Under a Thin Layer of Skin | 20.00% | ~12,347 |
 | Park Ranger | 17.00% | ~10,495 |
 | Paging Mr. Wake | 17.00% | ~10,495 |
-| Back! Back, I Say! | 16.00% | ~9,877 |
-| Finders Keepers | 16.00% | ~9,877 |
+| Back! Back, I Say! | 16.00% | ~9,878 |
+| Finders Keepers | 16.00% | ~9,878 |
+| Damn Good Cup of Coffee | 15.00% | ~9,260 |
 | They're Heeeeeere! | 14.00% | ~8,643 |
 | Sound and Fury | 14.00% | ~8,643 |
 | Missed by a Mile | 14.00% | ~8,643 |
-| Damn Good Cup of Coffee | 14.00% | ~8,643 |
-| Wheels Within Wheels | 13.00% | ~8,025 |
-| The Six-Gun Scribe | 13.00% | ~8,025 |
+| Wheels Within Wheels | 13.00% | ~8,026 |
+| The Six-Gun Scribe | 13.00% | ~8,026 |
 | Heavy Metal | 12.00% | ~7,408 |
 | Iron Horse | 12.00% | ~7,408 |
 | Perchance to Dream | 12.00% | ~7,408 |
@@ -30,14 +30,14 @@ Number of Ratings: 524  (23.09.2022)
 | It's Not Just a Typewriter Brand | 11.00% | ~6,791 |
 | Thunder and Lightning | 11.00% | ~6,791 |
 | Two For the Price of One | 11.00% | ~6,791 |
-| Gatekeeper | 10.00% | ~6,173 |
-| The Lady of the Light | 10.00% | ~6,173 |
-| Energized! | 10.00% | ~6,173 |
+| Gatekeeper | 10.00% | ~6,174 |
+| The Lady of the Light | 10.00% | ~6,174 |
+| Energized! | 10.00% | ~6,174 |
 | Right of Way | 9.00% | ~5,556 |
 | What Light Through Yonder Window | 8.00% | ~4,939 |
 | A Friend in Need | 8.00% | ~2,016 |
-| Tornado Wrangler | 7.00% | ~4,321 |
-| Departure | 7.00% | ~4,321 |
+| Tornado Wrangler | 7.00% | ~4,322 |
+| Departure | 7.00% | ~4,322 |
 | Hardboiled Writer | 6.00% | ~3,704 |
 | A Friend Indeed | 6.00% | ~1,512 |
 | Children of the Elder God | 5.00% | ~3,087 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~62 |
 | No Punctuation | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,733 (Ranked 87)  
+Progressed: 61,736 (Ranked 87)  
 Completed: 65 (0.11%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 65 (0.11%) (Ranked 209)
 | 2023-08-24 | 61,526 | 65 |
 | 2023-08-25 | 61,617 | 65 |
 | 2023-08-26 | 61,726 | 65 |
-| 2023-08-27 | 61,733 | 65 |
+| 2023-08-27 | 61,736 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -345,25 +345,25 @@
       "ID": "ACHIEVEMENT_07",
       "SetID": "b36c5kb",
       "Name": "Not Running This Time",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACHIEVEMENT_08",
       "SetID": "b36c5kb",
       "Name": "The Team Psychologist",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACHIEVEMENT_09",
       "SetID": "b36c5kb",
       "Name": "Premature Finale",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -449,17 +449,17 @@
       "ID": "ACHIEVEMENT_20",
       "SetID": "b36c5kb",
       "Name": "You Got Red in You",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_21",
       "SetID": "b36c5kb",
       "Name": "Stick it in My Veins",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -553,9 +553,9 @@
       "ID": "ACHIEVEMENT_33",
       "SetID": "b36c5kb",
       "Name": "Good to See You Again",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -712,8 +712,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-08-27T01:48:26.4371825+00:00",
+  "LastChanged_Achievements": "2023-08-27T02:22:09.550979+00:00",
   "LastUpdate_AppInfo": "2023-08-23T17:57:10.5850624+00:00",
-  "LastUpdate_Ratings": "2023-08-27T01:41:47.6766323+00:00",
-  "LastUpdate_Achievements": "2023-08-27T01:48:26.4372317+00:00"
+  "LastUpdate_Ratings": "2023-08-27T02:14:59.5072029+00:00",
+  "LastUpdate_Achievements": "2023-08-27T02:22:09.5510519+00:00"
 }

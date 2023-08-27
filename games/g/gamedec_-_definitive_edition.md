@@ -47,8 +47,8 @@ Number of Ratings: 33  (23.09.2022)
 | Home run | 0.80% | ~1,950 |
 | I have the high ground | 0.70% | ~1,706 |
 | It's blue, always blue | 0.70% | ~1,706 |
-| Enjoy these little moments | 0.50% | ~1,218 |
-| Who wouldn't love a troll? | 0.50% | ~1,218 |
+| Enjoy these little moments | 0.50% | ~1,219 |
+| Who wouldn't love a troll? | 0.50% | ~1,219 |
 | Irondec | 0.40% | ~975 |
 | Un-bear-able | 0.40% | ~975 |
 | LET ME OUT! | 0.30% | ~731 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~487 |
 | Memory 5 | 0.10% | ~244 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,700 (Ranked 48)  
+Progressed: 243,701 (Ranked 48)  
 Completed: 7 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 7 (0.00%) (Ranked 265)
 | 2023-08-24 | 243,379 | 7 |
 | 2023-08-25 | 243,525 | 7 |
 | 2023-08-26 | 243,688 | 7 |
-| 2023-08-27 | 243,700 | 7 |
+| 2023-08-27 | 243,701 | 7 |
 ## Awards
 Max (Character Customization): 79  (Ranked 363)  
 Sum: 79 (Ranked 428)  

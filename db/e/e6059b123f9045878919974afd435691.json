@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 768,
+  "EOS_Progressed": 769,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1736,6 +1736,11 @@
       "Time": "2023-08-26T19:04:18.5640498+00:00",
       "NumProgressed": 768,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-27T02:19:46.8216413+00:00",
+      "NumProgressed": 769,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1747,7 +1752,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -1755,7 +1760,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -1787,7 +1792,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -1875,7 +1880,7 @@
       "Name": "Where There\u0027s Smoke There\u0027s Fire",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "BURN_ACHIEVEMENT_3",
@@ -1955,7 +1960,7 @@
       "Name": "Think Bullets Will Affect Her?",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "EXT_ACHIEVEMENT_1",
@@ -1977,9 +1982,9 @@
       "ID": "FREED_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "End of Rest",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 69
     },
     {
       "ID": "FREEM_ACHIEVEMENT_1",
@@ -2003,7 +2008,7 @@
       "Name": "Free Like Birds",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "FREE_ACHIEVEMENT_3",
@@ -2027,7 +2032,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -2051,7 +2056,7 @@
       "Name": "Call The Winchester",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "KILLR_ACHIEVEMENT_5",
@@ -2115,7 +2120,7 @@
       "Name": "1, 2, 3! Grandma!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "MARY_ACHIEVEMENT_1",
@@ -2179,7 +2184,7 @@
       "Name": "The Last of Us",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -2187,7 +2192,7 @@
       "Name": "Beep Beep Boop",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_1",
@@ -2274,14 +2279,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 768,
+      "Progressed": 769,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-08-27T01:46:45.26382+00:00",
+  "LastChanged_Achievements": "2023-08-27T02:19:46.8216408+00:00",
   "LastUpdate_AppInfo": "2023-08-24T17:57:03.8268695+00:00",
-  "LastUpdate_Ratings": "2023-08-27T01:42:08.2304226+00:00",
-  "LastUpdate_Achievements": "2023-08-27T01:46:45.2638979+00:00"
+  "LastUpdate_Ratings": "2023-08-27T02:15:28.7008733+00:00",
+  "LastUpdate_Achievements": "2023-08-27T02:19:46.8217213+00:00"
 }

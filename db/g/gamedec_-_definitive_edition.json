@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 428,
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 52,
+  "Ranking_EOS_NewPlayers": 51,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
@@ -396,9 +396,9 @@
       "Count": 79
     }
   ],
-  "EOS_Progressed": 243700,
+  "EOS_Progressed": 243701,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 973,
+  "EOS_NewPlayers": 971,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14596,6 +14596,11 @@
       "Time": "2023-08-27T01:48:12.6506617+00:00",
       "NumProgressed": 243700,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-27T02:21:49.8551678+00:00",
+      "NumProgressed": 243701,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -14655,7 +14660,7 @@
       "Name": "Enjoy these little moments",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1218
+      "UsersEstimate": 1219
     },
     {
       "ID": "ACH_GENTLEMAN",
@@ -15015,14 +15020,14 @@
       "Name": "Who wouldn\u0027t love a troll?",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 1218
+      "UsersEstimate": 1219
     }
   ],
   "AchievementSets": [
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 243700,
+      "Progressed": 243701,
       "Completed": 7
     }
   ],
@@ -15030,8 +15035,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-08-15T07:59:00.2810594+00:00",
-  "LastChanged_Achievements": "2023-08-27T01:48:12.6506612+00:00",
+  "LastChanged_Achievements": "2023-08-27T02:21:49.8551674+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:40.3558824+00:00",
-  "LastUpdate_Ratings": "2023-08-27T01:43:22.3060605+00:00",
-  "LastUpdate_Achievements": "2023-08-27T01:48:12.6507884+00:00"
+  "LastUpdate_Ratings": "2023-08-27T02:17:03.0776563+00:00",
+  "LastUpdate_Achievements": "2023-08-27T02:21:49.8553023+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "f3720f53cccb4a20841a392a8ea0457f",
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
-  "Ranking_Rating": 634,
+  "Ranking_Rating": 635,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 110,
@@ -380,9 +380,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18758,
+  "EOS_Progressed": 18759,
   "EOS_Completed": 378,
-  "EOS_NewPlayers": 529,
+  "EOS_NewPlayers": 527,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 2.02,
   "EosHistory": [
@@ -14080,6 +14080,11 @@
       "Time": "2023-08-27T01:49:22.478554+00:00",
       "NumProgressed": 18758,
       "NumCompleted": 378
+    },
+    {
+      "Time": "2023-08-27T02:23:28.1719814+00:00",
+      "NumProgressed": 18759,
+      "NumCompleted": 378
     }
   ],
   "TotalAchievements": 20,
@@ -14099,7 +14104,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "EAST_FINISHED",
@@ -14171,7 +14176,7 @@
       "Name": "Tails of Stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "FOUND_MAMBA",
@@ -14179,7 +14184,7 @@
       "Name": "Baa from the past",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -14195,7 +14200,7 @@
       "Name": "Written in stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "GAME_FINISHED",
@@ -14211,7 +14216,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 14256
+      "UsersEstimate": 14257
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -14219,7 +14224,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 5252
+      "UsersEstimate": 5253
     },
     {
       "ID": "NORTH_FINISHED",
@@ -14250,15 +14255,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 18758,
+      "Progressed": 18759,
       "Completed": 378
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-08-12T01:39:46.4098224+00:00",
-  "LastChanged_Achievements": "2023-08-27T01:49:22.4785535+00:00",
+  "LastChanged_Achievements": "2023-08-27T02:23:28.171981+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:40.7243022+00:00",
-  "LastUpdate_Ratings": "2023-08-27T01:41:18.3058077+00:00",
-  "LastUpdate_Achievements": "2023-08-27T01:49:22.4786482+00:00"
+  "LastUpdate_Ratings": "2023-08-27T02:14:17.8701446+00:00",
+  "LastUpdate_Achievements": "2023-08-27T02:23:28.1720816+00:00"
 }

@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 510,
+  "EOS_Progressed": 511,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 202,
   "EOS_NewCompleters": 4,
@@ -1036,6 +1036,11 @@
       "Time": "2023-08-27T01:47:32.7679915+00:00",
       "NumProgressed": 510,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-27T02:20:49.2560821+00:00",
+      "NumProgressed": 511,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1054,9 +1059,9 @@
       "ID": "_02_FinishFirstMission",
       "SetID": "8a1io5d",
       "Name": "A New Journey",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 377
+      "UsersEstimate": 373
     },
     {
       "ID": "_03_FinishAct1",
@@ -1064,7 +1069,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1072,7 +1077,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "_05_FinishAct2",
@@ -1080,7 +1085,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -1112,15 +1117,15 @@
       "Name": "Powder Monkey",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "_10_Completion_30",
       "SetID": "8a1io5d",
       "Name": "Buccaneer",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 76
+      "UsersEstimate": 72
     },
     {
       "ID": "_11_Completion_40",
@@ -1168,7 +1173,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -1255,14 +1260,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 510,
+      "Progressed": 511,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-27T01:47:32.767991+00:00",
+  "LastChanged_Achievements": "2023-08-27T02:20:49.2560813+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:45.1302228+00:00",
-  "LastUpdate_Ratings": "2023-08-27T01:43:25.8148671+00:00",
-  "LastUpdate_Achievements": "2023-08-27T01:47:32.7680145+00:00"
+  "LastUpdate_Ratings": "2023-08-27T02:17:08.2059181+00:00",
+  "LastUpdate_Achievements": "2023-08-27T02:20:49.2561233+00:00"
 }

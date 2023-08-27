@@ -336,9 +336,9 @@
       "ID": "SG_LOSTINASONG",
       "SetID": "bj5g0n4",
       "Name": "Lost In A Song",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "SG_MAESTRO",
@@ -519,8 +519,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-08-27T01:47:47.4946419+00:00",
+  "LastChanged_Achievements": "2023-08-27T02:21:09.3521403+00:00",
   "LastUpdate_AppInfo": "2023-08-24T08:56:52.7420093+00:00",
-  "LastUpdate_Ratings": "2023-08-27T01:41:32.2365015+00:00",
-  "LastUpdate_Achievements": "2023-08-27T01:47:47.494672+00:00"
+  "LastUpdate_Ratings": "2023-08-27T02:14:36.5532247+00:00",
+  "LastUpdate_Achievements": "2023-08-27T02:21:09.3522203+00:00"
 }
