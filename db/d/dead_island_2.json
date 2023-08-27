@@ -3946,10 +3946,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 8512,
       "NumberOfAwardsMax": 5783
+    },
+    {
+      "Time": "2023-08-27T19:01:16.5141724+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 8515,
+      "NumberOfAwardsMax": 5783
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8512,
+  "NumberOfAwards": 8515,
   "NumberOfAwardsMax": 5783,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3999,7 +4005,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 355
+      "Count": 358
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4008,9 +4014,9 @@
       "Count": 327
     }
   ],
-  "EOS_Progressed": 667039,
+  "EOS_Progressed": 667097,
   "EOS_Completed": 2081,
-  "EOS_NewPlayers": 5807,
+  "EOS_NewPlayers": 5808,
   "EOS_NewCompleters": 35,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -18353,6 +18359,11 @@
       "Time": "2023-08-27T18:03:57.0396585+00:00",
       "NumProgressed": 667039,
       "NumCompleted": 2081
+    },
+    {
+      "Time": "2023-08-27T19:04:01.213283+00:00",
+      "NumProgressed": 667097,
+      "NumCompleted": 2081
     }
   ],
   "TotalAchievements": 45,
@@ -18450,9 +18461,9 @@
       "ID": "ach_doctor_i_am_butcho",
       "SetID": "7km39fm",
       "Name": "But Doctor, I am Butcho",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1334
+      "UsersEstimate": 2001
     },
     {
       "ID": "ach_doom_buddies",
@@ -18522,9 +18533,9 @@
       "ID": "ach_hotel_california",
       "SetID": "7km39fm",
       "Name": "Hotel California",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2001
+      "UsersEstimate": 2668
     },
     {
       "ID": "ach_impressive_aim",
@@ -18602,9 +18613,9 @@
       "ID": "ach_mind_over_monster",
       "SetID": "7km39fm",
       "Name": "Humanity Distilled",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 667
+      "UsersEstimate": 1334
     },
     {
       "ID": "ach_revival_tour",
@@ -18723,16 +18734,16 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 667039,
+      "Progressed": 667097,
       "Completed": 2081
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-08-27T17:01:15.272441+00:00",
-  "LastChanged_Achievements": "2023-08-27T18:03:57.0396581+00:00",
+  "LastChanged": "2023-08-27T19:01:16.5141719+00:00",
+  "LastChanged_Achievements": "2023-08-27T19:04:01.2132825+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:11.0440218+00:00",
-  "LastUpdate_Ratings": "2023-08-27T18:00:49.1660644+00:00",
-  "LastUpdate_Achievements": "2023-08-27T18:03:57.0397547+00:00"
+  "LastUpdate_Ratings": "2023-08-27T19:01:16.5141728+00:00",
+  "LastUpdate_Achievements": "2023-08-27T19:04:01.2133815+00:00"
 }

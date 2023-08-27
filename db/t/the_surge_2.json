@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -255,9 +255,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1984,
+  "EOS_Progressed": 1985,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -2235,6 +2235,11 @@
       "Time": "2023-08-26T09:10:03.3551291+00:00",
       "NumProgressed": 1984,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-08-27T19:06:57.3118107+00:00",
+      "NumProgressed": 1985,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -2252,9 +2257,9 @@
       "ID": "ACHV_02",
       "SetID": "8p5mlmc",
       "Name": "Jailbreak",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1309
+      "UsersEstimate": 1290
     },
     {
       "ID": "ACHV_03",
@@ -2270,7 +2275,7 @@
       "Name": "Overheated",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "ACHV_05",
@@ -2286,7 +2291,7 @@
       "Name": "Home Invasion",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "ACHV_07",
@@ -2446,7 +2451,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1587
+      "UsersEstimate": 1588
     },
     {
       "ID": "ACHV_27",
@@ -2454,7 +2459,7 @@
       "Name": "High Performance",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "ACHV_28",
@@ -2518,7 +2523,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "ACHV_36",
@@ -2534,7 +2539,7 @@
       "Name": "Luminary",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "ACHV_38",
@@ -2572,9 +2577,9 @@
       "ID": "ACHV_42",
       "SetID": "8p5mlmc",
       "Name": "Sorry, Didn\u0027t See You There",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 238
     },
     {
       "ID": "ACHV_43",
@@ -2598,15 +2603,15 @@
       "Name": "It\u0027s a Trap",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "ACHV_46",
       "SetID": "8p5mlmc",
       "Name": "Unforeseeable Consequences",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 397
+      "UsersEstimate": 377
     },
     {
       "ID": "ACHV_47",
@@ -2701,7 +2706,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1984,
+      "Progressed": 1985,
       "Completed": 10
     }
   ],
@@ -2709,8 +2714,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-08-11T22:58:17.9643661+00:00",
-  "LastChanged_Achievements": "2023-08-27T18:06:27.6452073+00:00",
+  "LastChanged_Achievements": "2023-08-27T19:06:57.3118102+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:10.7266559+00:00",
-  "LastUpdate_Ratings": "2023-08-27T17:59:13.0558+00:00",
-  "LastUpdate_Achievements": "2023-08-27T18:06:27.6452666+00:00"
+  "LastUpdate_Ratings": "2023-08-27T18:59:24.3510301+00:00",
+  "LastUpdate_Achievements": "2023-08-27T19:06:57.3118598+00:00"
 }

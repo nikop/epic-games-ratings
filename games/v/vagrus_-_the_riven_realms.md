@@ -41,6 +41,7 @@
 | Making Contact | 1.00% | ~1 |
 | Bounty Hunter | 1.00% | ~1 |
 | Adept | 1.00% | ~1 |
+| Embellished | 1.00% | ~1 |
 | Huntress Unbound | 1.00% | ~1 |
 | Business As Usual | 1.00% | ~1 |
 | Trailblazer | 1.00% | ~1 |
@@ -55,7 +56,6 @@
 | Executor | 0.70% | ~1 |
 | Loremaster | 0.70% | ~1 |
 | Talent Nurtured | 0.70% | ~1 |
-| Embellished | 0.70% | ~1 |
 | Conqueror | 0.70% | ~1 |
 | Legacy of a Mercenary | 0.70% | ~1 |
 | Manticore | 0.70% | ~1 |

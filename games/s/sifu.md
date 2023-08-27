@@ -48,11 +48,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Drunken Fighter | 0.40% | ~2,851 |
 | Martial Artist | 0.40% | ~2,851 |
 | Knowledge Greed | 0.40% | ~2,851 |
+| Master of the Phoenix Eye Fist | 0.40% | ~2,851 |
 | The Pit Protector | 0.40% | ~2,851 |
 | Come Snap With Me | 0.40% | ~2,851 |
 | Secure, Protect, Leave | 0.40% | ~88 |
 | Healing Memory | 0.30% | ~2,138 |
-| Master of the Phoenix Eye Fist | 0.30% | ~2,138 |
 | Be like water my friend | 0.30% | ~2,138 |
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,426 |
 | Warriors from the Mountain | 0.10% | ~713 |

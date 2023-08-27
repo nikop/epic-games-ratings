@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 191,
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
@@ -1848,9 +1848,9 @@
       "Count": 213
     }
   ],
-  "EOS_Progressed": 20699,
+  "EOS_Progressed": 20700,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7998,6 +7998,11 @@
       "Time": "2023-08-27T18:04:33.3054976+00:00",
       "NumProgressed": 20699,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-08-27T19:04:43.3077023+00:00",
+      "NumProgressed": 20700,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 23,
@@ -8025,7 +8030,7 @@
       "Name": "Nerd",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "DoItASAP",
@@ -8057,7 +8062,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 19457
+      "UsersEstimate": 19458
     },
     {
       "ID": "GameOver",
@@ -8192,15 +8197,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 20699,
+      "Progressed": 20700,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-08-23T21:57:18.2266259+00:00",
-  "LastChanged_Achievements": "2023-08-27T18:04:33.3054971+00:00",
+  "LastChanged_Achievements": "2023-08-27T19:04:43.307702+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:07.6921675+00:00",
-  "LastUpdate_Ratings": "2023-08-27T17:58:08.1242834+00:00",
-  "LastUpdate_Achievements": "2023-08-27T18:04:33.3055398+00:00"
+  "LastUpdate_Ratings": "2023-08-27T18:58:00.3680079+00:00",
+  "LastUpdate_Achievements": "2023-08-27T19:04:43.3077415+00:00"
 }

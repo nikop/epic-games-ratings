@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 436,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -604,9 +604,9 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 9778,
+  "EOS_Progressed": 9779,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -8819,6 +8819,11 @@
       "Time": "2023-08-27T14:07:34.4449616+00:00",
       "NumProgressed": 9778,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-08-27T19:07:22.1096636+00:00",
+      "NumProgressed": 9779,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 34,
@@ -8902,7 +8907,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "ACH11",
@@ -9006,7 +9011,7 @@
       "Name": "South American Connection",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2444
+      "UsersEstimate": 2445
     },
     {
       "ID": "ACH24",
@@ -9101,7 +9106,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9778,
+      "Progressed": 9779,
       "Completed": 51
     }
   ],
@@ -9109,8 +9114,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-08-25T07:03:02.1151116+00:00",
-  "LastChanged_Achievements": "2023-08-27T18:06:49.0519095+00:00",
+  "LastChanged_Achievements": "2023-08-27T19:07:22.1096632+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:56.8942974+00:00",
-  "LastUpdate_Ratings": "2023-08-27T18:00:38.7501149+00:00",
-  "LastUpdate_Achievements": "2023-08-27T18:06:49.0519689+00:00"
+  "LastUpdate_Ratings": "2023-08-27T19:01:04.6558799+00:00",
+  "LastUpdate_Achievements": "2023-08-27T19:07:22.1097198+00:00"
 }

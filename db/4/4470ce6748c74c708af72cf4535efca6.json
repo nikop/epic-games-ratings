@@ -268,9 +268,9 @@
       "ID": "22",
       "SetID": "5e3maia",
       "Name": "Vegetarian",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "23",
@@ -707,8 +707,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-08-27T18:05:35.064683+00:00",
+  "LastChanged_Achievements": "2023-08-27T19:05:55.2252662+00:00",
   "LastUpdate_AppInfo": "2023-08-25T22:57:10.6988807+00:00",
-  "LastUpdate_Ratings": "2023-08-27T17:58:57.958142+00:00",
-  "LastUpdate_Achievements": "2023-08-27T18:05:35.0647398+00:00"
+  "LastUpdate_Ratings": "2023-08-27T18:59:02.5653187+00:00",
+  "LastUpdate_Achievements": "2023-08-27T19:05:55.2253218+00:00"
 }

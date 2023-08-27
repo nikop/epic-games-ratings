@@ -4,10 +4,10 @@
   "ProductSlug": "honkai-star-rail",
   "Ranking_Rating": 145,
   "Ranking_Popularity": 40,
-  "Ranking_PopularitySum": 54,
+  "Ranking_PopularitySum": 53,
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewPlayers": 339,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-04-26T00:30:00+00:00",
@@ -3250,24 +3250,30 @@
       "Rating": 4.74,
       "NumberOfAwards": 21509,
       "NumberOfAwardsMax": 8725
+    },
+    {
+      "Time": "2023-08-27T18:59:05.5311041+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 21650,
+      "NumberOfAwardsMax": 8832
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21509,
-  "NumberOfAwardsMax": 8725,
+  "NumberOfAwards": 21650,
+  "NumberOfAwardsMax": 8832,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 8725
+      "Count": 8832
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1232
+      "Count": 1266
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3342,8 +3348,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-04-26T04:02:27.1386143+00:00",
   "FirstSeenRating": "2023-04-26T04:02:27.1386204+00:00",
-  "LastChanged": "2023-08-27T16:59:12.9151805+00:00",
+  "LastChanged": "2023-08-27T18:59:05.531104+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:58:03.9397953+00:00",
-  "LastUpdate_Ratings": "2023-08-27T17:59:00.5709643+00:00",
-  "LastUpdate_Achievements": "2023-08-27T18:07:03.2456999+00:00"
+  "LastUpdate_Ratings": "2023-08-27T18:59:05.5311045+00:00",
+  "LastUpdate_Achievements": "2023-08-27T19:07:39.0504518+00:00"
 }

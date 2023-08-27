@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under the Bridge | 75.00% | ~24 |
+| Under the Bridge | 78.00% | ~25 |
 | Treasure Hunter | 13.00% | ~4 |
 | Space Invader | 6.00% | ~2 |
 | One Man Army | 6.00% | ~2 |

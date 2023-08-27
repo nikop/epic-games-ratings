@@ -6,30 +6,30 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~368,242 |
-| Now You're Talking | 62.00% | ~326,157 |
-| Steel Yourself | 62.00% | ~326,157 |
-| Window Dressing | 50.00% | ~263,030 |
-| Trigger Happy | 46.00% | ~241,988 |
-| Riverborn | 45.00% | ~236,727 |
-| Starry Eyed | 34.00% | ~178,860 |
-| Poking Around | 34.00% | ~178,860 |
-| Talk of the Town | 24.00% | ~126,254 |
+| First Step | 70.00% | ~368,244 |
+| Now You're Talking | 62.00% | ~326,159 |
+| Steel Yourself | 62.00% | ~326,159 |
+| Window Dressing | 50.00% | ~263,032 |
+| Trigger Happy | 46.00% | ~241,989 |
+| Riverborn | 45.00% | ~236,728 |
+| Starry Eyed | 34.00% | ~178,861 |
+| Poking Around | 34.00% | ~178,861 |
+| Talk of the Town | 24.00% | ~126,255 |
 | AAARR! | 23.00% | ~120,994 |
 | Hello Darkness | 23.00% | ~120,994 |
-| Wind At Our Backs | 22.00% | ~115,733 |
-| To the Beat | 20.00% | ~105,212 |
-| Sunny Shores | 17.00% | ~89,430 |
+| Wind At Our Backs | 22.00% | ~115,734 |
+| To the Beat | 20.00% | ~105,213 |
+| Sunny Shores | 17.00% | ~89,431 |
 | Sunday Best | 16.00% | ~84,170 |
 | To Victory! | 15.00% | ~78,909 |
-| Two of a Kind | 14.00% | ~73,648 |
+| Two of a Kind | 14.00% | ~73,649 |
 | Keep On Trucking | 13.00% | ~68,388 |
 | Going on an Adventure | 11.00% | ~57,867 |
 | Make Peace, Not War | 11.00% | ~57,867 |
 | Walking The Line | 10.00% | ~52,606 |
 | Not So Cute Anymore | 10.00% | ~52,606 |
-| Road Less Travelled | 9.00% | ~47,345 |
-| Lost and Found | 9.00% | ~47,345 |
+| Road Less Travelled | 9.00% | ~47,346 |
+| Lost and Found | 9.00% | ~47,346 |
 | Under the Radar | 8.00% | ~42,085 |
 | Partner in Crime | 7.00% | ~36,824 |
 | Hard to Hear | 7.00% | ~36,824 |
@@ -42,12 +42,12 @@ Number of Ratings: 617  (23.09.2022)
 | Noble Intentions | 5.00% | ~26,303 |
 | Rising Star | 5.00% | ~26,303 |
 | Slime Slayer | 5.00% | ~26,303 |
-| Privacy, Please! | 4.00% | ~21,042 |
-| Silky Smooth | 4.00% | ~21,042 |
-| Hash It Over | 4.00% | ~21,042 |
-| Biting Tongue | 4.00% | ~21,042 |
-| What a Catch! | 4.00% | ~21,042 |
-| Hit the Spot | 4.00% | ~21,042 |
+| Privacy, Please! | 4.00% | ~21,043 |
+| Silky Smooth | 4.00% | ~21,043 |
+| Hash It Over | 4.00% | ~21,043 |
+| Biting Tongue | 4.00% | ~21,043 |
+| What a Catch! | 4.00% | ~21,043 |
+| Hit the Spot | 4.00% | ~21,043 |
 | Talk the Talk | 3.00% | ~15,782 |
 | Skin in the Game | 3.00% | ~15,782 |
 | Caving In | 3.00% | ~15,782 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,578 |
 | Point Taken | 0.10% | ~526 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 526,060 (Ranked 31)  
+Progressed: 526,063 (Ranked 31)  
 Completed: 466 (0.09%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 466 (0.09%) (Ranked 216)
 | 2023-08-24 | 525,790 | 463 |
 | 2023-08-25 | 525,870 | 463 |
 | 2023-08-26 | 525,972 | 464 |
-| 2023-08-27 | 526,060 | 466 |
+| 2023-08-27 | 526,063 | 466 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

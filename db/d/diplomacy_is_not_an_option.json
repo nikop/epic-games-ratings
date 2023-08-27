@@ -2,12 +2,12 @@
   "ID": "9a66c93dabb74d3aaf910fa7f23c64fd",
   "Name": "Diplomacy is Not an Option",
   "ProductSlug": "diplomacy-is-not-an-option-9c6bea",
-  "Ranking_Rating": 596,
+  "Ranking_Rating": 595,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewPlayers": 339,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-02-09T18:00:00+00:00",
@@ -261,6 +261,6 @@
   "FirstSeen": "2022-07-22T20:30:41.4347718+00:00",
   "LastChanged": "2023-05-19T17:57:57.786763+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:39.9470136+00:00",
-  "LastUpdate_Ratings": "2023-08-27T18:00:25.2999956+00:00",
-  "LastUpdate_Achievements": "2023-08-27T18:03:09.7265421+00:00"
+  "LastUpdate_Ratings": "2023-08-27T19:00:50.0672122+00:00",
+  "LastUpdate_Achievements": "2023-08-27T19:03:05.0197663+00:00"
 }

@@ -1,18 +1,18 @@
 # Surviving the Aftermath
 [Store](https://store.epicgames.com/en-US/p/surviving-the-aftermath)  
 [View Rawdata](../../db/s/surviving_the_aftermath__founder's_edition.json)  
-Rating: 4.48 (Ranked 596)  
+Rating: 4.48 (Ranked 595)  
 Number of Ratings: 836  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 72.00% | ~6,189 |
+| First Step | 72.00% | ~6,190 |
 | Leader | 60.00% | ~5,158 |
 | Explorer | 53.00% | ~4,556 |
 | Healer | 52.00% | ~4,470 |
-| Aspiring Inventor | 44.00% | ~3,782 |
-| Adventurer | 41.00% | ~3,524 |
-| Famous Healer | 38.00% | ~3,266 |
+| Aspiring Inventor | 44.00% | ~3,783 |
+| Adventurer | 41.00% | ~3,525 |
+| Famous Healer | 38.00% | ~3,267 |
 | Local Leader | 35.00% | ~3,009 |
 | Famous Explorer | 34.00% | ~2,923 |
 | New Opportunities | 34.00% | ~2,923 |
@@ -34,12 +34,12 @@ Number of Ratings: 836  (23.09.2022)
 | War Never Changes | 19.00% | ~1,633 |
 | Big Game Hunter | 17.00% | ~1,461 |
 | Spreading Influence | 17.00% | ~1,461 |
-| Friendly | 16.00% | ~1,375 |
-| Around the World | 16.00% | ~1,375 |
-| Bookworm | 15.00% | ~1,289 |
-| Famous Adventurer | 14.00% | ~1,203 |
-| Prepared for Anything | 13.00% | ~1,117 |
-| Big Catastrofan | 13.00% | ~1,117 |
+| Friendly | 16.00% | ~1,376 |
+| Around the World | 16.00% | ~1,376 |
+| Bookworm | 15.00% | ~1,290 |
+| Famous Adventurer | 14.00% | ~1,204 |
+| Prepared for Anything | 13.00% | ~1,118 |
+| Big Catastrofan | 13.00% | ~1,118 |
 | It's a Finnish Thing | 10.00% | ~860 |
 | Trader | 9.00% | ~774 |
 | Sky Burial | 9.00% | ~774 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~17 |
 | Customized calamities | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,596 (Ranked 131)  
+Progressed: 8,597 (Ranked 131)  
 Completed: 0 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 0 (0.00%) (Ranked 265)
 | 2023-08-24 | 8,511 | 0 |
 | 2023-08-25 | 8,534 | 0 |
 | 2023-08-26 | 8,570 | 0 |
-| 2023-08-27 | 8,596 | 0 |
+| 2023-08-27 | 8,597 | 0 |
 ## Awards
 Max (Extremely Fun): 101  (Ranked 336)  
 Sum: 694 (Ranked 278)  

@@ -17,9 +17,9 @@
 | Fangs | 21.00% | ~14 |
 | Mirrors | 12.00% | ~8 |
 | Coat | 8.00% | ~5 |
+| I need a hero | 8.00% | ~5 |
 | At least there is something to read | 6.00% | ~4 |
 | Sarcophagus | 6.00% | ~4 |
-| I need a hero | 6.00% | ~4 |
 | I love you all | 6.00% | ~4 |
 | Skills to pay the bills | 6.00% | ~4 |
 | Missing pages | 5.00% | ~3 |

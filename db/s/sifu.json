@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 98,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -18034,9 +18034,9 @@
       "ID": "29_FocusAttack_Trophy",
       "SetID": "adcm20g",
       "Name": "Master of the Phoenix Eye Fist",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 2138
+      "UsersEstimate": 2851
     },
     {
       "ID": "30_ComboMid",
@@ -18224,8 +18224,8 @@
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-08-27T17:57:41.0413392+00:00",
-  "LastChanged_Achievements": "2023-08-27T18:05:39.1757738+00:00",
+  "LastChanged_Achievements": "2023-08-27T19:06:00.1981289+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:37.9351908+00:00",
-  "LastUpdate_Ratings": "2023-08-27T17:57:41.0413397+00:00",
-  "LastUpdate_Achievements": "2023-08-27T18:05:39.1758644+00:00"
+  "LastUpdate_Ratings": "2023-08-27T18:57:30.8784287+00:00",
+  "LastUpdate_Achievements": "2023-08-27T19:06:00.198216+00:00"
 }

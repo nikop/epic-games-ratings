@@ -2534,9 +2534,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 68072,
+  "EOS_Progressed": 68073,
   "EOS_Completed": 109,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -13329,6 +13329,11 @@
       "Time": "2023-08-27T17:07:52.1117755+00:00",
       "NumProgressed": 68072,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2023-08-27T19:08:10.1105713+00:00",
+      "NumProgressed": 68073,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 61,
@@ -13524,7 +13529,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -13644,7 +13649,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 23825
+      "UsersEstimate": 23826
     },
     {
       "ID": "HARLEY_2",
@@ -13660,7 +13665,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 13614
+      "UsersEstimate": 13615
     },
     {
       "ID": "HARLEY_4",
@@ -13708,7 +13713,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 13614
+      "UsersEstimate": 13615
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -13716,7 +13721,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 18379
+      "UsersEstimate": 18380
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -13732,7 +13737,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 23144
+      "UsersEstimate": 23145
     },
     {
       "ID": "MYSTERY_02",
@@ -13756,7 +13761,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 13614
+      "UsersEstimate": 13615
     },
     {
       "ID": "MYSTERY_05",
@@ -13804,7 +13809,7 @@
       "Name": "Solid Alibi",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -13827,13 +13832,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 68072,
+      "Progressed": 68073,
       "Completed": 109
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38352,
+      "Progressed": 38353,
       "Completed": 2660
     }
   ],
@@ -13841,8 +13846,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-08-26T18:58:23.9625274+00:00",
-  "LastChanged_Achievements": "2023-08-27T18:07:12.7223459+00:00",
+  "LastChanged_Achievements": "2023-08-27T19:08:10.1105709+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:22.0819335+00:00",
-  "LastUpdate_Ratings": "2023-08-27T17:58:18.6395044+00:00",
-  "LastUpdate_Achievements": "2023-08-27T18:07:12.722449+00:00"
+  "LastUpdate_Ratings": "2023-08-27T18:58:17.2532999+00:00",
+  "LastUpdate_Achievements": "2023-08-27T19:08:10.1106667+00:00"
 }

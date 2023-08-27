@@ -5,27 +5,27 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 13.00% | ~37,821 |
-| First Class Student | 11.00% | ~32,002 |
-| Troll with the Punches | 11.00% | ~32,002 |
-| The Hallowed Hero | 10.00% | ~29,093 |
-| The Defender of Dragons | 10.00% | ~29,093 |
-| A Keen Sense of Spell | 10.00% | ~29,093 |
-| A Talent for Spending | 10.00% | ~29,093 |
-| That's a Keeper | 10.00% | ~29,093 |
+| The Sort Who Makes an Entrance | 13.00% | ~37,822 |
+| First Class Student | 11.00% | ~32,003 |
+| Troll with the Punches | 11.00% | ~32,003 |
+| The Hallowed Hero | 10.00% | ~29,094 |
+| The Defender of Dragons | 10.00% | ~29,094 |
+| A Keen Sense of Spell | 10.00% | ~29,094 |
+| A Talent for Spending | 10.00% | ~29,094 |
+| That's a Keeper | 10.00% | ~29,094 |
 | Grappling with a Graphorn | 9.00% | ~26,184 |
 | The One Who Mastered Memories | 9.00% | ~26,184 |
 | The Hero of Hogwarts | 9.00% | ~26,184 |
 | Challenge Accepted | 9.00% | ~26,184 |
 | Loom for Improvement | 9.00% | ~26,184 |
 | Coasting Along | 9.00% | ~26,184 |
-| Followed the Butterflies | 8.00% | ~23,274 |
-| The Spell Master | 8.00% | ~23,274 |
-| Rising From the Ashes | 8.00% | ~23,274 |
-| The Avenging Gazelle | 7.00% | ~20,365 |
-| Beast Friends | 7.00% | ~20,365 |
-| A Sallow Grave | 7.00% | ~20,365 |
-| Flight the Good Flight | 7.00% | ~20,365 |
+| Followed the Butterflies | 8.00% | ~23,275 |
+| The Spell Master | 8.00% | ~23,275 |
+| Rising From the Ashes | 8.00% | ~23,275 |
+| The Avenging Gazelle | 7.00% | ~20,366 |
+| Beast Friends | 7.00% | ~20,366 |
+| A Sallow Grave | 7.00% | ~20,366 |
+| Flight the Good Flight | 7.00% | ~20,366 |
 | The Seeker of Knowledge | 5.00% | ~14,547 |
 | The Root of the Problem | 5.00% | ~14,547 |
 | Third Time's a Charm | 5.00% | ~14,547 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,746 |
 | Collector's Edition | 0.30% | ~873 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,931 (Ranked 43)  
+Progressed: 290,937 (Ranked 43)  
 Completed: 456 (0.16%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 456 (0.16%) (Ranked 196)
 | 2023-08-24 | 290,736 | 454 |
 | 2023-08-25 | 290,790 | 455 |
 | 2023-08-26 | 290,865 | 455 |
-| 2023-08-27 | 290,931 | 456 |
+| 2023-08-27 | 290,937 | 456 |
 ## Awards
 Max (Character Customization): 21,969  (Ranked 17)  
 Sum: 41,630 (Ranked 30)  

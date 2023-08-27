@@ -528,9 +528,9 @@
       "ID": "killLeshy30",
       "SetID": "ci65fo0",
       "Name": "Wood goblins fighter",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "killPlant20",
@@ -824,9 +824,9 @@
       "ID": "questKillSwampMonster",
       "SetID": "ci65fo0",
       "Name": "Threat of the swamps",
-      "Percentage": 16,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "questNorthGraveyard",
@@ -965,8 +965,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-08-27T18:04:27.8484938+00:00",
+  "LastChanged_Achievements": "2023-08-27T19:04:37.3741973+00:00",
   "LastUpdate_AppInfo": "2023-08-23T13:00:58.7449343+00:00",
-  "LastUpdate_Ratings": "2023-08-27T17:59:22.6855291+00:00",
-  "LastUpdate_Achievements": "2023-08-27T18:04:27.8485572+00:00"
+  "LastUpdate_Ratings": "2023-08-27T18:59:34.1079688+00:00",
+  "LastUpdate_Achievements": "2023-08-27T19:04:37.3742595+00:00"
 }

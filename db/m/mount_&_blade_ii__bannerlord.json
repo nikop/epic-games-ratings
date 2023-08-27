@@ -6729,9 +6729,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 59785,
+  "EOS_Progressed": 59789,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 483,
+  "EOS_NewPlayers": 480,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20414,6 +20414,11 @@
       "Time": "2023-08-27T18:06:03.6534377+00:00",
       "NumProgressed": 59785,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-27T19:06:29.0980942+00:00",
+      "NumProgressed": 59789,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -20425,7 +20430,7 @@
       "Name": "Against all odds",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7174
+      "UsersEstimate": 7175
     },
     {
       "ID": "Apple of my eye",
@@ -20481,7 +20486,7 @@
       "Name": "Crowdfunded",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2391
+      "UsersEstimate": 2392
     },
     {
       "ID": "Crackshot",
@@ -20497,7 +20502,7 @@
       "Name": "Crush your enemies",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2391
+      "UsersEstimate": 2392
     },
     {
       "ID": "Duelist",
@@ -20537,7 +20542,7 @@
       "Name": "Fat Cat",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "Freedom",
@@ -20553,7 +20558,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 7772
+      "UsersEstimate": 7773
     },
     {
       "ID": "Great Granny",
@@ -20617,7 +20622,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10163
+      "UsersEstimate": 10164
     },
     {
       "ID": "Kingslayer",
@@ -20649,7 +20654,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 19131
+      "UsersEstimate": 19132
     },
     {
       "ID": "Lawbringer",
@@ -20657,7 +20662,7 @@
       "Name": "Lawbringer",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 22718
+      "UsersEstimate": 22720
     },
     {
       "ID": "Lawmaker",
@@ -20769,7 +20774,7 @@
       "Name": "Swordbearer",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 5978
+      "UsersEstimate": 5979
     },
     {
       "ID": "The king is pleased",
@@ -20777,7 +20782,7 @@
       "Name": "The king is pleased",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 10761
+      "UsersEstimate": 10762
     },
     {
       "ID": "This Is Our Land",
@@ -20785,7 +20790,7 @@
       "Name": "This Is Our Land",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 6576
+      "UsersEstimate": 6577
     },
     {
       "ID": "This is Sparta",
@@ -20801,7 +20806,7 @@
       "Name": "Trained",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 13153
+      "UsersEstimate": 13154
     },
     {
       "ID": "Undercover",
@@ -20817,7 +20822,7 @@
       "Name": "Veni vidi vici",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2391
+      "UsersEstimate": 2392
     },
     {
       "ID": "What have the Romans ever done for us",
@@ -20832,15 +20837,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 59785,
+      "Progressed": 59789,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-08-27T16:58:27.7563863+00:00",
-  "LastChanged_Achievements": "2023-08-27T18:06:03.6534373+00:00",
+  "LastChanged_Achievements": "2023-08-27T19:06:29.0980937+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:26.1294952+00:00",
-  "LastUpdate_Ratings": "2023-08-27T17:58:21.2859406+00:00",
-  "LastUpdate_Achievements": "2023-08-27T18:06:03.6535396+00:00"
+  "LastUpdate_Ratings": "2023-08-27T18:58:20.3715844+00:00",
+  "LastUpdate_Achievements": "2023-08-27T19:06:29.0981928+00:00"
 }

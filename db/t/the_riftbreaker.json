@@ -4,10 +4,10 @@
   "ProductSlug": "the-riftbreaker",
   "Ranking_Rating": 118,
   "Ranking_Popularity": 413,
-  "Ranking_PopularitySum": 363,
+  "Ranking_PopularitySum": 362,
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewPlayers": 339,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-10-14T08:00:00+00:00",
@@ -755,10 +755,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 222,
       "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2023-08-27T19:00:19.1329867+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 223,
+      "NumberOfAwardsMax": 45
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 222,
+  "NumberOfAwards": 223,
   "NumberOfAwardsMax": 45,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -790,7 +796,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 25
+      "Count": 26
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -816,8 +822,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:56.9409047+00:00",
-  "LastChanged": "2023-08-19T20:59:23.2326992+00:00",
+  "LastChanged": "2023-08-27T19:00:19.1329866+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:35.1355319+00:00",
-  "LastUpdate_Ratings": "2023-08-27T18:00:01.4886366+00:00",
-  "LastUpdate_Achievements": "2023-08-27T18:05:51.8781933+00:00"
+  "LastUpdate_Ratings": "2023-08-27T19:00:19.1329871+00:00",
+  "LastUpdate_Achievements": "2023-08-27T19:06:15.1613977+00:00"
 }

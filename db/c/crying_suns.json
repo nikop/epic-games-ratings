@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 357,
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
@@ -598,7 +598,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 466151,
+  "EOS_Progressed": 466152,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 475,
   "EOS_NewCompleters": 1,
@@ -14133,6 +14133,11 @@
       "Time": "2023-08-27T18:06:44.9951893+00:00",
       "NumProgressed": 466151,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-08-27T19:07:17.3719272+00:00",
+      "NumProgressed": 466152,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -14568,7 +14573,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 205106
+      "UsersEstimate": 205107
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -14576,7 +14581,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 139845
+      "UsersEstimate": 139846
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -14775,21 +14780,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 10085,
+      "Progressed": 10086,
       "Completed": 2356
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 466151,
+      "Progressed": 466152,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-08-24T02:57:03.8465673+00:00",
-  "LastChanged_Achievements": "2023-08-27T18:06:44.9951888+00:00",
+  "LastChanged_Achievements": "2023-08-27T19:07:17.3719268+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:38.8544339+00:00",
-  "LastUpdate_Ratings": "2023-08-27T17:57:41.5967745+00:00",
-  "LastUpdate_Achievements": "2023-08-27T18:06:44.9953194+00:00"
+  "LastUpdate_Ratings": "2023-08-27T18:57:31.5116898+00:00",
+  "LastUpdate_Achievements": "2023-08-27T19:07:17.3720579+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 128,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 521,
+  "EOS_Progressed": 522,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -1081,6 +1081,11 @@
       "Time": "2023-08-27T18:04:51.8429637+00:00",
       "NumProgressed": 521,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-27T19:05:04.9819961+00:00",
+      "NumProgressed": 522,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1093,7 +1098,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -1101,15 +1106,15 @@
       "Name": "A New Journey",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "_03_FinishAct1",
       "SetID": "8a1io5d",
       "Name": "The Adventure Begins",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 287
+      "UsersEstimate": 282
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1141,7 +1146,7 @@
       "Name": "All Good Things",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "_08_Completion_10",
@@ -1149,7 +1154,7 @@
       "Name": "Swabbie",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "_09_Completion_20",
@@ -1165,7 +1170,7 @@
       "Name": "Buccaneer",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "_11_Completion_40",
@@ -1213,7 +1218,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -1285,7 +1290,7 @@
       "Name": "Rustic Recipe",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "_26_ReviveVirgilio",
@@ -1300,14 +1305,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 521,
+      "Progressed": 522,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-27T18:04:51.8429629+00:00",
+  "LastChanged_Achievements": "2023-08-27T19:05:04.9819956+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:45.1302228+00:00",
-  "LastUpdate_Ratings": "2023-08-27T18:00:29.853207+00:00",
-  "LastUpdate_Achievements": "2023-08-27T18:04:51.8429984+00:00"
+  "LastUpdate_Ratings": "2023-08-27T19:00:54.6412376+00:00",
+  "LastUpdate_Achievements": "2023-08-27T19:05:04.9820158+00:00"
 }

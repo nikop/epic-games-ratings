@@ -442,9 +442,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7602,
+  "EOS_Progressed": 7603,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -7692,6 +7692,11 @@
       "Time": "2023-08-27T16:08:59.6428247+00:00",
       "NumProgressed": 7602,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-08-27T19:08:10.3345389+00:00",
+      "NumProgressed": 7603,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 29,
@@ -7743,7 +7748,7 @@
       "Name": "Street Sweeper",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1368
+      "UsersEstimate": 1369
     },
     {
       "ID": "ACH07",
@@ -7807,7 +7812,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1292
+      "UsersEstimate": 1293
     },
     {
       "ID": "ACH15",
@@ -7823,7 +7828,7 @@
       "Name": "A Marked Man",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1900
+      "UsersEstimate": 1901
     },
     {
       "ID": "ACH17",
@@ -7934,7 +7939,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7602,
+      "Progressed": 7603,
       "Completed": 47
     }
   ],
@@ -7942,8 +7947,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-08-24T22:01:07.1400968+00:00",
-  "LastChanged_Achievements": "2023-08-27T18:07:12.9218478+00:00",
+  "LastChanged_Achievements": "2023-08-27T19:08:10.3345384+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:30.0456476+00:00",
-  "LastUpdate_Ratings": "2023-08-27T18:00:17.1427778+00:00",
-  "LastUpdate_Achievements": "2023-08-27T18:07:12.9219016+00:00"
+  "LastUpdate_Ratings": "2023-08-27T19:00:41.7176755+00:00",
+  "LastUpdate_Achievements": "2023-08-27T19:08:10.3345876+00:00"
 }

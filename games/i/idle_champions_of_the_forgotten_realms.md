@@ -6,10 +6,10 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~4,509 |
+| A Brief Tour of the Realms | 2.00% | ~4,510 |
 | Beast Intentions | 0.70% | ~1,578 |
 | The Cursed Farmer | 0.70% | ~1,578 |
-| The Hunt for The Last Breath | 0.60% | ~1,150 |
+| The Hunt for The Last Breath | 0.60% | ~1,151 |
 | The Mad Wizard | 0.50% | ~1,127 |
 | To Infinity's and Beyond | 0.50% | ~959 |
 | The Ring of Regeneration | 0.40% | ~902 |
@@ -26,23 +26,24 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pure Energy | 0.30% | ~676 |
 | The Chaotic Hunt for The Last Breath | 0.30% | ~575 |
 | There's a Flying Snake in my Boot! | 0.30% | ~575 |
-| Tall Tales | 0.20% | ~383 |
-| The Witchlight Carnival | 0.20% | ~383 |
-| Thieves of the Coven | 0.20% | ~383 |
+| Pros and CONs | 0.20% | ~451 |
+| Tall Tales | 0.20% | ~384 |
+| The Witchlight Carnival | 0.20% | ~384 |
+| Thieves of the Coven | 0.20% | ~384 |
 | The Silken Swamp | 0.20% | ~451 |
 | Wet Feet | 0.20% | ~451 |
 | Supply Run | 0.20% | ~451 |
-| Seeds of Destruction | 0.20% | ~383 |
-| The Evacuation of Waterdeep | 0.20% | ~383 |
-| Best Thay Ever | 0.20% | ~383 |
-| Vecna Lives! | 0.20% | ~383 |
-| Vecna Loots! | 0.20% | ~383 |
-| Return to the Tomb | 0.20% | ~383 |
-| Heatwave | 0.20% | ~383 |
-| The Dread Domain of Tovag | 0.20% | ~383 |
-| The Castle of a Thousand Vecnas | 0.20% | ~383 |
-| Who Lurks Below? | 0.20% | ~383 |
-| No One Can Hear You Scream | 0.20% | ~383 |
+| Seeds of Destruction | 0.20% | ~384 |
+| The Evacuation of Waterdeep | 0.20% | ~384 |
+| Best Thay Ever | 0.20% | ~384 |
+| Vecna Lives! | 0.20% | ~384 |
+| Vecna Loots! | 0.20% | ~384 |
+| Return to the Tomb | 0.20% | ~384 |
+| Heatwave | 0.20% | ~384 |
+| The Dread Domain of Tovag | 0.20% | ~384 |
+| The Castle of a Thousand Vecnas | 0.20% | ~384 |
+| Who Lurks Below? | 0.20% | ~384 |
+| No One Can Hear You Scream | 0.20% | ~384 |
 | Beast Mode | 0.20% | ~451 |
 | Terror in the Dark | 0.20% | ~451 |
 | Low Initiative | 0.20% | ~451 |
@@ -87,10 +88,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Contagious Curse | 0.20% | ~451 |
 | Elturel Has Fallen | 0.20% | ~451 |
 | Resolve Amongst Chaos | 0.20% | ~451 |
-| Into The Fire | 0.20% | ~383 |
+| Into The Fire | 0.20% | ~384 |
 | Escort to Waterdeep | 0.20% | ~451 |
-| The Giant's Bane Tavern | 0.20% | ~383 |
-| The Everlasting Rime | 0.20% | ~383 |
+| The Giant's Bane Tavern | 0.20% | ~384 |
+| The Everlasting Rime | 0.20% | ~384 |
 | Close Escort | 0.20% | ~451 |
 | Constant Banditry | 0.20% | ~451 |
 | Waterdeep Detours | 0.20% | ~451 |
@@ -99,17 +100,16 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rude Welcome | 0.20% | ~451 |
 | Underdeep Cartography | 0.20% | ~451 |
 | Overdue Rendezvous | 0.20% | ~451 |
-| Moose Tracks | 0.20% | ~383 |
-| Civilization | 0.20% | ~383 |
+| Moose Tracks | 0.20% | ~384 |
+| Civilization | 0.20% | ~384 |
 | Durable Deep | 0.20% | ~451 |
-| Dwarven Rumors | 0.20% | ~383 |
+| Dwarven Rumors | 0.20% | ~384 |
 | The Templar's Camp | 0.20% | ~451 |
 | Rescue in the Jungle | 0.20% | ~451 |
-| Rocky Reception | 0.20% | ~383 |
-| Rock and Roll | 0.20% | ~383 |
-| Flight of the Kindori Pod | 0.20% | ~383 |
-| Topolah's Tower | 0.20% | ~383 |
-| Pros and CONs | 0.10% | ~225 |
+| Rocky Reception | 0.20% | ~384 |
+| Rock and Roll | 0.20% | ~384 |
+| Flight of the Kindori Pod | 0.20% | ~384 |
+| Topolah's Tower | 0.20% | ~384 |
 | Upholding the Law | 0.10% | ~225 |
 | Starving in the Jungle | 0.10% | ~225 |
 | Cold as Ice | 0.10% | ~192 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~192 |
 | Animated Giff | 0.10% | ~192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,458 (Ranked 53)  
+Progressed: 225,480 (Ranked 53)  
 Completed: 2,221 (0.99%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -652,7 +652,7 @@ Completed: 2,221 (0.99%) (Ranked 120)
 | 2023-08-24 | 224,686 | 2,211 |
 | 2023-08-25 | 224,925 | 2,214 |
 | 2023-08-26 | 225,221 | 2,219 |
-| 2023-08-27 | 225,458 | 2,221 |
+| 2023-08-27 | 225,480 | 2,221 |
 ## Awards
 Max (Diverse Characters): 5,196  (Ranked 68)  
 Sum: 31,250 (Ranked 39)  
