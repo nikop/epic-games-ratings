@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 119,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
     "PcReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -10510,9 +10510,9 @@
       "ID": "COMPLETE_FLIGHT_LEVEL_WITHOUT_DYING",
       "SetID": "3fcpmbm",
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 28560
+      "UsersEstimate": 29061
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -10686,8 +10686,8 @@
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-08-26T06:59:52.5858317+00:00",
-  "LastChanged_Achievements": "2023-08-27T09:06:44.3223902+00:00",
+  "LastChanged_Achievements": "2023-08-27T10:05:13.7974556+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:14.1416797+00:00",
-  "LastUpdate_Ratings": "2023-08-27T08:59:42.980581+00:00",
-  "LastUpdate_Achievements": "2023-08-27T09:06:44.322527+00:00"
+  "LastUpdate_Ratings": "2023-08-27T09:58:32.8445803+00:00",
+  "LastUpdate_Achievements": "2023-08-27T10:05:13.7975362+00:00"
 }

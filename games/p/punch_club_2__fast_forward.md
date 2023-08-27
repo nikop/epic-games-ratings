@@ -19,7 +19,7 @@
 | Run K, run! | 74.00% | ~200 |
 | Fighting is cool | 69.00% | ~186 |
 | Hello, world! | 69.00% | ~186 |
-| No bullying more | 67.00% | ~181 |
+| No bullying more | 68.00% | ~184 |
 | Pal of your father? | 66.00% | ~178 |
 | Employee of the month | 65.00% | ~176 |
 | Spirit of the past | 63.00% | ~170 |
@@ -28,10 +28,10 @@
 | Champion – starter pack | 60.00% | ~162 |
 | It's good to be alive | 60.00% | ~162 |
 | Own four walls | 60.00% | ~162 |
+| Little hacker | 59.00% | ~159 |
 | Handyman | 59.00% | ~159 |
 | Employee of the year | 59.00% | ~159 |
 | Fight for life | 58.00% | ~157 |
-| Little hacker | 58.00% | ~157 |
 | Intriguing candies | 57.00% | ~154 |
 | Legal courier | 55.00% | ~148 |
 | Extreme neuropower! | 54.00% | ~146 |
@@ -40,7 +40,7 @@
 | Guiding on the right path | 47.00% | ~127 |
 | Fight is life | 46.00% | ~124 |
 | Mysterious voice | 45.00% | ~122 |
-| No blades in the gym | 44.00% | ~119 |
+| No blades in the gym | 45.00% | ~122 |
 | Champion – no way back | 41.00% | ~111 |
 | Underground dwellers | 40.00% | ~108 |
 | Responsible approach | 40.00% | ~108 |

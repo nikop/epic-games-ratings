@@ -29,6 +29,7 @@ Number of Ratings: 371  (23.09.2022)
 | Only in Death | 0.60% | ~19 |
 | Junk Banishment | 0.60% | ~19 |
 | A Gift Spurned | 0.60% | ~19 |
+| Tactical Flexibility | 0.60% | ~19 |
 | Fleetmaster | 0.50% | ~16 |
 | Daemonkeeper | 0.50% | ~16 |
 | Exterminator | 0.50% | ~16 |
@@ -36,7 +37,6 @@ Number of Ratings: 371  (23.09.2022)
 | Efficient Killer | 0.50% | ~16 |
 | Preservationist | 0.50% | ~16 |
 | Long Distance Call | 0.50% | ~16 |
-| Tactical Flexibility | 0.50% | ~16 |
 | Tactical Sabotage | 0.50% | ~16 |
 | Patron of Deimos | 0.40% | ~13 |
 | For the Machine God | 0.40% | ~13 |

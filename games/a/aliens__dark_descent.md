@@ -5,32 +5,32 @@ Rating: 4.48 (Ranked 596)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 82.00% | ~2,615 |
+| This Is Hayes, Pioneer Station, Signing Off | 82.00% | ~2,616 |
 | Snatched Out | 75.00% | ~2,392 |
-| Keep 'Em Coming | 74.00% | ~2,360 |
+| Keep 'Em Coming | 74.00% | ~2,361 |
 | Cleaning Lethe, One Nest At A Time | 67.00% | ~2,137 |
-| Call Me Snake | 63.00% | ~2,009 |
-| Something Lurks Under The Hills | 61.00% | ~1,945 |
-| This Was No Papercut | 60.00% | ~1,913 |
+| Call Me Snake | 63.00% | ~2,010 |
+| Something Lurks Under The Hills | 61.00% | ~1,946 |
+| This Was No Papercut | 60.00% | ~1,914 |
 | The Shrink Hates Me | 57.00% | ~1,818 |
 | People Person | 56.00% | ~1,786 |
-| Use The Bumper, That's What It's For | 53.00% | ~1,690 |
-| First Steps Into Madness | 53.00% | ~1,690 |
-| Colonial Barrels | 51.00% | ~1,626 |
-| Harper's Hell | 45.00% | ~1,435 |
-| Making a Stand | 44.00% | ~1,403 |
-| Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,339 |
+| Use The Bumper, That's What It's For | 53.00% | ~1,691 |
+| First Steps Into Madness | 53.00% | ~1,691 |
+| Colonial Barrels | 51.00% | ~1,627 |
+| Harper's Hell | 45.00% | ~1,436 |
+| Making a Stand | 44.00% | ~1,404 |
+| Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,340 |
 | Where It All Begun | 40.00% | ~1,276 |
 | Recouped Investment | 39.00% | ~1,244 |
-| Omelette Du Fromage | 34.00% | ~1,084 |
-| Living Nightmare | 33.00% | ~1,052 |
-| The More The Merrier | 33.00% | ~1,052 |
+| Omelette Du Fromage | 34.00% | ~1,085 |
+| Living Nightmare | 33.00% | ~1,053 |
+| The More The Merrier | 33.00% | ~1,053 |
 | The Darwin Era Was Here | 29.00% | ~925 |
 | Deep Into Insanity | 28.00% | ~893 |
 | The Passenger | 27.00% | ~861 |
 | Come on, You Wanna Live Forever? | 26.00% | ~829 |
-| The Spire | 24.00% | ~765 |
-| El Riesgo Siempre Vive | 23.00% | ~733 |
+| The Spire | 24.00% | ~766 |
+| El Riesgo Siempre Vive | 23.00% | ~734 |
 | Stuff Of Nightmares | 22.00% | ~702 |
 | Excavating The Truth | 21.00% | ~670 |
 | One For Every Occasion | 20.00% | ~638 |
@@ -51,7 +51,7 @@ Rating: 4.48 (Ranked 596)
 | Chalk It Up To Experience | 0.80% | ~26 |
 | This Ain't No Picnic | 0.70% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,189 (Ranked 156)  
+Progressed: 3,190 (Ranked 156)  
 Completed: 3 (0.09%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,6 +123,7 @@ Completed: 3 (0.09%) (Ranked 216)
 | 2023-08-24 | 3,183 | 3 |
 | 2023-08-25 | 3,186 | 3 |
 | 2023-08-26 | 3,189 | 3 |
+| 2023-08-27 | 3,190 | 3 |
 ## Awards
 Max (Great Boss Battles): 26  (Ranked 476)  
 Sum: 26 (Ranked 484)  

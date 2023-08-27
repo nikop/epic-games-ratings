@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 175,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
     "PcReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -152,9 +152,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17547,
+  "EOS_Progressed": 17548,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 196,
+  "EOS_NewPlayers": 195,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -10787,6 +10787,11 @@
       "Time": "2023-08-27T09:04:30.2774649+00:00",
       "NumProgressed": 17547,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-08-27T10:03:41.5012095+00:00",
+      "NumProgressed": 17548,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 14,
@@ -10798,7 +10803,7 @@
       "Name": "Across The Border",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 13862
+      "UsersEstimate": 13863
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -10886,7 +10891,7 @@
       "Name": "The Fall",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 3158
+      "UsersEstimate": 3159
     },
     {
       "ID": "ACH_TIME_OF_OUR_LIFE",
@@ -10909,15 +10914,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 17547,
+      "Progressed": 17548,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-08-16T03:57:34.8125865+00:00",
-  "LastChanged_Achievements": "2023-08-27T09:04:30.2774642+00:00",
+  "LastChanged_Achievements": "2023-08-27T10:03:41.5012089+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:59.8893769+00:00",
-  "LastUpdate_Ratings": "2023-08-27T08:59:29.3551811+00:00",
-  "LastUpdate_Achievements": "2023-08-27T09:04:30.2775405+00:00"
+  "LastUpdate_Ratings": "2023-08-27T09:58:24.2911561+00:00",
+  "LastUpdate_Achievements": "2023-08-27T10:03:41.5012855+00:00"
 }

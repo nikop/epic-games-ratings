@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~4,506 |
+| A Brief Tour of the Realms | 2.00% | ~4,507 |
 | Beast Intentions | 0.70% | ~1,577 |
 | The Cursed Farmer | 0.70% | ~1,577 |
 | The Hunt for The Last Breath | 0.60% | ~1,150 |
@@ -91,6 +91,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Waterdeep Detours | 0.20% | ~451 |
 | Lost in the Deep | 0.20% | ~451 |
 | Easily Distracted | 0.20% | ~451 |
+| Rude Welcome | 0.20% | ~451 |
 | Underdeep Cartography | 0.20% | ~451 |
 | Overdue Rendezvous | 0.20% | ~451 |
 | Moose Tracks | 0.20% | ~383 |
@@ -424,7 +425,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Only Human | 0.10% | ~192 |
 | Close Escort | 0.10% | ~225 |
 | The Long Haul | 0.10% | ~225 |
-| Rude Welcome | 0.10% | ~225 |
 | An Awakened Axe | 0.10% | ~192 |
 | CONtagious Cold | 0.10% | ~192 |
 | Ten in Ten-Towns | 0.10% | ~192 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~192 |
 | Animated Giff | 0.10% | ~192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,323 (Ranked 53)  
+Progressed: 225,337 (Ranked 53)  
 Completed: 2,220 (0.99%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -652,7 +652,7 @@ Completed: 2,220 (0.99%) (Ranked 120)
 | 2023-08-24 | 224,686 | 2,211 |
 | 2023-08-25 | 224,925 | 2,214 |
 | 2023-08-26 | 225,221 | 2,219 |
-| 2023-08-27 | 225,323 | 2,220 |
+| 2023-08-27 | 225,337 | 2,220 |
 ## Awards
 Max (Diverse Characters): 5,196  (Ranked 68)  
 Sum: 31,248 (Ranked 39)  

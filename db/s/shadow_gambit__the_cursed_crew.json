@@ -4,7 +4,7 @@
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 514,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.78,
   "EosHistory": [
@@ -1061,9 +1061,9 @@
       "ID": "_01_AllIslands",
       "SetID": "8a1io5d",
       "Name": "Somewhere Deep in the Lost Caribbean",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 98
+      "UsersEstimate": 103
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -1101,9 +1101,9 @@
       "ID": "_06_FinishFirstMirrorQuest",
       "SetID": "8a1io5d",
       "Name": "Mirror Mirror on the Wall",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 98
     },
     {
       "ID": "_07_FinishAct3",
@@ -1276,8 +1276,8 @@
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-27T09:05:23.5694966+00:00",
+  "LastChanged_Achievements": "2023-08-27T10:04:18.4248716+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:45.1302228+00:00",
-  "LastUpdate_Ratings": "2023-08-27T09:01:38.5886989+00:00",
-  "LastUpdate_Achievements": "2023-08-27T09:05:23.5695224+00:00"
+  "LastUpdate_Ratings": "2023-08-27T09:59:49.5260822+00:00",
+  "LastUpdate_Achievements": "2023-08-27T10:04:18.4248962+00:00"
 }

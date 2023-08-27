@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 484,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -294,9 +294,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 3189,
+  "EOS_Progressed": 3190,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3924,6 +3924,11 @@
       "Time": "2023-08-26T14:06:46.8012506+00:00",
       "NumProgressed": 3189,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-27T10:05:21.6480874+00:00",
+      "NumProgressed": 3190,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -3967,7 +3972,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 1690
+      "UsersEstimate": 1691
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -3975,7 +3980,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 1626
+      "UsersEstimate": 1627
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -3983,7 +3988,7 @@
       "Name": "Omelette Du Fromage",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1085
     },
     {
       "ID": "ACH_EMBRAYO_EXTRACTION",
@@ -4031,7 +4036,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 2360
+      "UsersEstimate": 2361
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -4047,7 +4052,7 @@
       "Name": "Call Me Snake",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 2009
+      "UsersEstimate": 2010
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -4087,7 +4092,7 @@
       "Name": "El Riesgo Siempre Vive",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "ACH_MAX_MEDIC",
@@ -4127,7 +4132,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 1945
+      "UsersEstimate": 1946
     },
     {
       "ID": "ACH_MISSION_02",
@@ -4135,7 +4140,7 @@
       "Name": "First Steps Into Madness",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 1690
+      "UsersEstimate": 1691
     },
     {
       "ID": "ACH_MISSION_03",
@@ -4143,7 +4148,7 @@
       "Name": "Harper\u0027s Hell",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1435
+      "UsersEstimate": 1436
     },
     {
       "ID": "ACH_MISSION_04",
@@ -4151,7 +4156,7 @@
       "Name": "Making a Stand",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1403
+      "UsersEstimate": 1404
     },
     {
       "ID": "ACH_MISSION_05",
@@ -4167,7 +4172,7 @@
       "Name": "Living Nightmare",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 1052
+      "UsersEstimate": 1053
     },
     {
       "ID": "ACH_MISSION_07",
@@ -4199,7 +4204,7 @@
       "Name": "The Spire",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "ACH_MISSION_11",
@@ -4239,7 +4244,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 2615
+      "UsersEstimate": 2616
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -4247,7 +4252,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1913
+      "UsersEstimate": 1914
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -4263,7 +4268,7 @@
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1339
+      "UsersEstimate": 1340
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -4279,7 +4284,7 @@
       "Name": "The More The Merrier",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1052
+      "UsersEstimate": 1053
     },
     {
       "ID": "ACH_USE_REDEMPTION",
@@ -4294,7 +4299,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3189,
+      "Progressed": 3190,
       "Completed": 3
     }
   ],
@@ -4302,8 +4307,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-08-25T18:58:20.6868136+00:00",
-  "LastChanged_Achievements": "2023-08-27T09:06:56.2810469+00:00",
+  "LastChanged_Achievements": "2023-08-27T10:05:21.6480868+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:04.9559458+00:00",
-  "LastUpdate_Ratings": "2023-08-27T08:58:25.0857726+00:00",
-  "LastUpdate_Achievements": "2023-08-27T09:06:56.2811299+00:00"
+  "LastUpdate_Ratings": "2023-08-27T09:57:43.1927357+00:00",
+  "LastUpdate_Achievements": "2023-08-27T10:05:21.6481458+00:00"
 }

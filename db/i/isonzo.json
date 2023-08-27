@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 351,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -790,9 +790,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6692,
+  "EOS_Progressed": 6693,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -4725,6 +4725,11 @@
       "Time": "2023-08-27T02:18:48.9670296+00:00",
       "NumProgressed": 6692,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-08-27T10:03:09.4749018+00:00",
+      "NumProgressed": 6693,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -4736,7 +4741,7 @@
       "Name": "12th Bottle of the Isonzo",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "ISONZO_ACH_AURELIO_BARUZZI",
@@ -4750,9 +4755,9 @@
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
       "SetID": "akchbl3",
       "Name": "Avanti Savoia!",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 3212
+      "UsersEstimate": 3146
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -4848,7 +4853,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 2208
+      "UsersEstimate": 2209
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -4864,7 +4869,7 @@
       "Name": "Insubordination",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1339
     },
     {
       "ID": "ISONZO_ACH_I_HAVE_THE_HIGH_GROUND",
@@ -5024,7 +5029,7 @@
       "Name": "The Italian Job",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1339
     },
     {
       "ID": "ISONZO_ACH_THE_LION_OF_THE_ISONZO",
@@ -5095,7 +5100,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6692,
+      "Progressed": 6693,
       "Completed": 8
     }
   ],
@@ -5103,8 +5108,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-08-26T21:01:32.0202507+00:00",
-  "LastChanged_Achievements": "2023-08-27T09:03:32.819807+00:00",
+  "LastChanged_Achievements": "2023-08-27T10:03:09.4749013+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:40.0989938+00:00",
-  "LastUpdate_Ratings": "2023-08-27T09:01:04.991793+00:00",
-  "LastUpdate_Achievements": "2023-08-27T09:03:32.8198946+00:00"
+  "LastUpdate_Ratings": "2023-08-27T09:59:29.3104675+00:00",
+  "LastUpdate_Achievements": "2023-08-27T10:03:09.4749541+00:00"
 }

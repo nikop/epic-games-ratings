@@ -53,6 +53,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Great Mage | 2.00% | ~272 |
 | Poetic Leader | 2.00% | ~272 |
 | Regicide | 1.00% | ~136 |
+| Hanging Gardens in Babylon | 1.00% | ~136 |
 | Drillmaster | 1.00% | ~136 |
 | Intercessor | 1.00% | ~136 |
 | Mighty | 1.00% | ~136 |
@@ -75,12 +76,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egyptian Paganism | 1.00% | ~136 |
 | Mythology | 1.00% | ~136 |
 | Points Victory | 1.00% | ~136 |
-| Hanging Gardens in Babylon | 0.90% | ~122 |
 | Beloved | 0.90% | ~122 |
 | Conqueror | 0.90% | ~122 |
 | Lion | 0.90% | ~122 |
 | Victorious | 0.90% | ~122 |
 | Patrons | 0.90% | ~122 |
+| Persian Paganism | 0.90% | ~122 |
 | Building Wonders | 0.90% | ~122 |
 | Legalism | 0.90% | ~122 |
 | Good Difficulty | 0.80% | ~109 |
@@ -91,7 +92,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Via Recta Souk | 0.80% | ~109 |
 | Learn to Play 3 | 0.80% | ~109 |
 | Power to the People | 0.80% | ~109 |
-| Persian Paganism | 0.80% | ~109 |
 | Economic Reform | 0.80% | ~109 |
 | Legionary | 0.80% | ~109 |
 | Phalangite | 0.80% | ~109 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,603 (Ranked 119)  
+Progressed: 13,604 (Ranked 119)  
 Completed: 5 (0.04%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -432,7 +432,7 @@ Completed: 5 (0.04%) (Ranked 235)
 | 2023-08-24 | 13,546 | 5 |
 | 2023-08-25 | 13,563 | 5 |
 | 2023-08-26 | 13,590 | 5 |
-| 2023-08-27 | 13,603 | 5 |
+| 2023-08-27 | 13,604 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,799 (Ranked 208)  

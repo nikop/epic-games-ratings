@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 515,
+  "EOS_Progressed": 516,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -1891,6 +1891,11 @@
       "Time": "2023-08-27T09:04:44.0276218+00:00",
       "NumProgressed": 515,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-27T10:03:50.8279029+00:00",
+      "NumProgressed": 516,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2084,9 +2089,9 @@
       "ID": "MaximumUpgrade",
       "SetID": "1e89b4i",
       "Name": "Maximum Upgrade",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 77
     },
     {
       "ID": "Millionaire",
@@ -2222,7 +2227,7 @@
       "Name": "Time for Management",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "TransportHub",
@@ -2237,14 +2242,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 515,
+      "Progressed": 516,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-08-27T09:04:44.0276212+00:00",
+  "LastChanged_Achievements": "2023-08-27T10:03:50.8279019+00:00",
   "LastUpdate_AppInfo": "2023-08-22T10:56:57.2309265+00:00",
-  "LastUpdate_Ratings": "2023-08-27T09:00:10.4620409+00:00",
-  "LastUpdate_Achievements": "2023-08-27T09:04:44.0276699+00:00"
+  "LastUpdate_Ratings": "2023-08-27T09:58:53.2991+00:00",
+  "LastUpdate_Achievements": "2023-08-27T10:03:50.8279507+00:00"
 }

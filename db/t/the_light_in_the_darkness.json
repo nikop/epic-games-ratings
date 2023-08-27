@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2255,
+  "EOS_Progressed": 2256,
   "EOS_Completed": 202,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 8.96,
+  "EOS_Completed_Percentage": 8.95,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -5313,6 +5313,11 @@
       "Time": "2023-08-27T09:06:33.5440372+00:00",
       "NumProgressed": 2255,
       "NumCompleted": 202
+    },
+    {
+      "Time": "2023-08-27T10:05:06.0179587+00:00",
+      "NumProgressed": 2256,
+      "NumCompleted": 202
     }
   ],
   "TotalAchievements": 12,
@@ -5348,7 +5353,7 @@
       "Name": "Green Ticket Roundup",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "Jacques a Dit",
@@ -5356,7 +5361,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "Jakob",
@@ -5404,7 +5409,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "Nuremberg Laws",
@@ -5419,7 +5424,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2255,
+      "Progressed": 2256,
       "Completed": 202
     }
   ],
@@ -5427,8 +5432,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-08-27T09:06:33.5440362+00:00",
+  "LastChanged_Achievements": "2023-08-27T10:05:06.0179581+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:56:57.0664875+00:00",
-  "LastUpdate_Ratings": "2023-08-27T08:57:22.3025251+00:00",
-  "LastUpdate_Achievements": "2023-08-27T09:06:33.5441072+00:00"
+  "LastUpdate_Ratings": "2023-08-27T09:57:02.2089627+00:00",
+  "LastUpdate_Achievements": "2023-08-27T10:05:06.0180012+00:00"
 }

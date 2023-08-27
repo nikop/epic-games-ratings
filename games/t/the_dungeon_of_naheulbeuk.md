@@ -6,40 +6,40 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 24.00% | ~52,302 |
-| Alt+F4 | 3.00% | ~6,538 |
+| Sowwy! | 24.00% | ~52,309 |
+| Alt+F4 | 3.00% | ~6,539 |
 | Déjà vu | 2.00% | ~4,359 |
 | Where's that freaking Dwarf? | 2.00% | ~4,359 |
 | Sock! SOCK! | 2.00% | ~4,359 |
-| Way of the Wimp | 1.00% | ~2,179 |
-| A beer, two curses, three companions | 1.00% | ~2,179 |
-| The plot thickens... At the tavern | 1.00% | ~2,179 |
-| GG EZ | 1.00% | ~2,179 |
-| DM intervention | 1.00% | ~2,179 |
-| Speedrun | 1.00% | ~2,179 |
-| Fireproof Wizardess | 1.00% | ~2,179 |
-| Livin' in a dwarven paradise | 0.90% | ~1,961 |
-| The demons' feast | 0.80% | ~1,743 |
-| The Great Library | 0.80% | ~1,743 |
-| Torture and Sensibility | 0.80% | ~1,743 |
-| The Woman in the High Castle | 0.80% | ~1,743 |
-| Team Building Exercise | 0.80% | ~1,743 |
-| Oh, when I'll be level 10... | 0.80% | ~1,743 |
-| Shiny and Crôm | 0.70% | ~1,525 |
-| Urik's Depths | 0.70% | ~1,525 |
-| The Dungeon Master | 0.70% | ~1,525 |
-| The Statuette of Gladeulfeurah | 0.70% | ~1,525 |
-| A tale of adventurers not quite like the others... | 0.70% | ~1,525 |
-| %#*!$*! | 0.70% | ~1,525 |
-| The Ranger of Chaos | 0.70% | ~1,525 |
-| I am the night | 0.70% | ~1,525 |
+| Way of the Wimp | 1.00% | ~2,180 |
+| A beer, two curses, three companions | 1.00% | ~2,180 |
+| The plot thickens... At the tavern | 1.00% | ~2,180 |
+| GG EZ | 1.00% | ~2,180 |
+| DM intervention | 1.00% | ~2,180 |
+| Speedrun | 1.00% | ~2,180 |
+| Fireproof Wizardess | 1.00% | ~2,180 |
+| Livin' in a dwarven paradise | 0.90% | ~1,962 |
+| The demons' feast | 0.80% | ~1,744 |
+| The Great Library | 0.80% | ~1,744 |
+| Torture and Sensibility | 0.80% | ~1,744 |
+| Urik's Depths | 0.80% | ~1,744 |
+| The Woman in the High Castle | 0.80% | ~1,744 |
+| Team Building Exercise | 0.80% | ~1,744 |
+| Oh, when I'll be level 10... | 0.80% | ~1,744 |
+| Shiny and Crôm | 0.70% | ~1,526 |
+| The Dungeon Master | 0.70% | ~1,526 |
+| The Statuette of Gladeulfeurah | 0.70% | ~1,526 |
+| A tale of adventurers not quite like the others... | 0.70% | ~1,526 |
+| %#*!$*! | 0.70% | ~1,526 |
+| The Ranger of Chaos | 0.70% | ~1,526 |
+| I am the night | 0.70% | ~1,526 |
 | The Famous Dungeon of Naheulbeuk | 0.60% | ~1,308 |
 | The beards of change | 0.60% | ~1,308 |
 | Thieves' Guild Accreditation | 0.60% | ~1,308 |
 | Res Judicata | 0.50% | ~1,090 |
 | Dwarf Fortress | 0.50% | ~1,090 |
 | Look but don't touch | 0.50% | ~1,090 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.40% | ~872 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.50% | ~1,090 |
 | Dead for good | 0.40% | ~872 |
 | Gargantua | 0.40% | ~872 |
 | Lust and Debauchery | 0.40% | ~872 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~218 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,927 (Ranked 56)  
+Progressed: 217,953 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 2 (0.00%) (Ranked 265)
 | 2023-08-24 | 216,781 | 2 |
 | 2023-08-25 | 217,227 | 2 |
 | 2023-08-26 | 217,758 | 2 |
-| 2023-08-27 | 217,927 | 2 |
+| 2023-08-27 | 217,953 | 2 |
 ## Awards
 Max (Character Customization): 180  (Ranked 282)  
 Sum: 224 (Ranked 361)  

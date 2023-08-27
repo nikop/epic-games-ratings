@@ -12,7 +12,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''You think you're some kind of Jedi?'' | 72.00% | ~36,076 |
 | The Phantom Menace | 59.00% | ~29,562 |
 | ''Aggressive Negotiations'' | 59.00% | ~29,562 |
-| ''I can fly anything'' | 57.00% | ~28,560 |
+| ''I can fly anything'' | 58.00% | ~29,061 |
 | ''And who gave you permission...?'' | 54.00% | ~27,057 |
 | A New Hope | 48.00% | ~24,050 |
 | Attack of the Clones | 47.00% | ~23,549 |

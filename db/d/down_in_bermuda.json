@@ -4,7 +4,7 @@
   "ProductSlug": "down-in-bermuda",
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewPlayers": 341,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-01-14T05:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:38.5192553+00:00",
   "LastChanged": "2023-03-31T05:58:38.5192554+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:50.9602033+00:00",
-  "LastUpdate_Ratings": "2023-08-27T09:01:43.7043815+00:00",
-  "LastUpdate_Achievements": "2023-08-27T09:03:34.5437355+00:00"
+  "LastUpdate_Ratings": "2023-08-27T09:59:53.0917371+00:00",
+  "LastUpdate_Achievements": "2023-08-27T10:03:10.5012904+00:00"
 }

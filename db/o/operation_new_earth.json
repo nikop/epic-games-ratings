@@ -2,10 +2,10 @@
   "ID": "fa9a00f7f82846b4b820e6152b69aa55",
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
-  "Ranking_EOS_Progress": 196,
+  "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1113,
+  "EOS_Progressed": 1114,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3901,6 +3901,11 @@
       "Time": "2023-08-27T07:04:36.6670819+00:00",
       "NumProgressed": 1113,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-27T10:04:02.9338818+00:00",
+      "NumProgressed": 1114,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4040,7 +4045,7 @@
       "Name": "Lieutenant",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -4215,14 +4220,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1113,
+      "Progressed": 1114,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-27T09:05:01.3026044+00:00",
+  "LastChanged_Achievements": "2023-08-27T10:04:02.9338812+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:58:05.1002416+00:00",
-  "LastUpdate_Ratings": "2023-08-27T08:59:37.1154769+00:00",
-  "LastUpdate_Achievements": "2023-08-27T09:05:01.3026691+00:00"
+  "LastUpdate_Ratings": "2023-08-27T09:58:29.1712135+00:00",
+  "LastUpdate_Achievements": "2023-08-27T10:04:02.9339342+00:00"
 }

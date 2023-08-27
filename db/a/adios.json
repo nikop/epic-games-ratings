@@ -96,9 +96,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 71388,
+  "EOS_Progressed": 71391,
   "EOS_Completed": 724,
-  "EOS_NewPlayers": 791,
+  "EOS_NewPlayers": 788,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
@@ -14351,6 +14351,11 @@
       "Time": "2023-08-27T09:05:36.9809048+00:00",
       "NumProgressed": 71388,
       "NumCompleted": 724
+    },
+    {
+      "Time": "2023-08-27T10:04:27.8633573+00:00",
+      "NumProgressed": 71391,
+      "NumCompleted": 724
     }
   ],
   "TotalAchievements": 25,
@@ -14394,7 +14399,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 15705
+      "UsersEstimate": 15706
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -14490,7 +14495,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 11422
+      "UsersEstimate": 11423
     },
     {
       "ID": "Nothing Left to Say",
@@ -14514,7 +14519,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 9280
+      "UsersEstimate": 9281
     },
     {
       "ID": "Sniper",
@@ -14561,7 +14566,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 71388,
+      "Progressed": 71391,
       "Completed": 724
     }
   ],
@@ -14569,8 +14574,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-08-07T22:57:38.0235808+00:00",
-  "LastChanged_Achievements": "2023-08-27T09:05:36.9809039+00:00",
+  "LastChanged_Achievements": "2023-08-27T10:04:27.8633568+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:13.605884+00:00",
-  "LastUpdate_Ratings": "2023-08-27T08:59:42.0249769+00:00",
-  "LastUpdate_Achievements": "2023-08-27T09:05:36.9810246+00:00"
+  "LastUpdate_Ratings": "2023-08-27T09:58:32.2466039+00:00",
+  "LastUpdate_Achievements": "2023-08-27T10:04:27.8634616+00:00"
 }

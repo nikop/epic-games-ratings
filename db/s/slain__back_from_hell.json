@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -217,9 +217,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 35268,
+  "EOS_Progressed": 35270,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 745,
+  "EOS_NewPlayers": 741,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -14407,6 +14407,11 @@
       "Time": "2023-08-27T09:03:16.1400783+00:00",
       "NumProgressed": 35268,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-08-27T10:02:18.4627416+00:00",
+      "NumProgressed": 35270,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 29,
@@ -14490,7 +14495,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1763
+      "UsersEstimate": 1764
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -14570,7 +14575,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1763
+      "UsersEstimate": 1764
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -14649,7 +14654,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 35268,
+      "Progressed": 35270,
       "Completed": 22
     }
   ],
@@ -14657,8 +14662,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-12T21:03:39.1122054+00:00",
-  "LastChanged_Achievements": "2023-08-27T09:03:16.1400773+00:00",
+  "LastChanged_Achievements": "2023-08-27T10:02:18.4627409+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:35.8741643+00:00",
-  "LastUpdate_Ratings": "2023-08-27T08:58:54.4836338+00:00",
-  "LastUpdate_Achievements": "2023-08-27T09:03:16.1402643+00:00"
+  "LastUpdate_Ratings": "2023-08-27T09:58:00.8183653+00:00",
+  "LastUpdate_Achievements": "2023-08-27T10:02:18.4628495+00:00"
 }

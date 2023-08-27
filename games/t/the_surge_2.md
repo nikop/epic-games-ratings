@@ -32,9 +32,9 @@ Rating: 4.23 (Ranked 846)
 | Where It All Began | 13.00% | ~258 |
 | Risk Tolerant | 13.00% | ~258 |
 | What A Catchy Song | 13.00% | ~258 |
+| Corrupted Beauty | 12.00% | ~238 |
 | Marked For Success | 12.00% | ~238 |
 | Sorry, Didn't See You There | 12.00% | ~238 |
-| Corrupted Beauty | 11.00% | ~218 |
 | Stimulating The Local Economy | 10.00% | ~198 |
 | Triplets | 10.00% | ~198 |
 | Defense in Depth | 9.00% | ~179 |
