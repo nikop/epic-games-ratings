@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 98,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -5862,9 +5862,9 @@
       "Count": 372
     }
   ],
-  "EOS_Progressed": 712759,
+  "EOS_Progressed": 712763,
   "EOS_Completed": 12874,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -17817,6 +17817,11 @@
       "Time": "2023-08-27T22:06:07.9915954+00:00",
       "NumProgressed": 712759,
       "NumCompleted": 12874
+    },
+    {
+      "Time": "2023-08-27T23:06:19.2567578+00:00",
+      "NumProgressed": 712763,
+      "NumCompleted": 12874
     }
   ],
   "TotalAchievements": 50,
@@ -18164,7 +18169,7 @@
       "Name": "Project Arena",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -18196,7 +18201,7 @@
       "Name": "Deadly Venom",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "48_Arena_GoldCapture",
@@ -18227,21 +18232,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 22060,
+      "Progressed": 22064,
       "Completed": 10561
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 712759,
+      "Progressed": 712763,
       "Completed": 12874
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-08-27T21:57:42.2953078+00:00",
-  "LastChanged_Achievements": "2023-08-27T22:06:07.991595+00:00",
+  "LastChanged_Achievements": "2023-08-27T23:06:19.2567573+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:37.9351908+00:00",
-  "LastUpdate_Ratings": "2023-08-27T21:57:42.2953084+00:00",
-  "LastUpdate_Achievements": "2023-08-27T22:06:07.9916848+00:00"
+  "LastUpdate_Ratings": "2023-08-27T22:57:41.2589702+00:00",
+  "LastUpdate_Achievements": "2023-08-27T23:06:19.2568928+00:00"
 }

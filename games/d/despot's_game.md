@@ -33,7 +33,7 @@ Rating: 4.50 (Ranked 560)
 | Experimentalist | 7.00% | ~30 |
 | Wide Selection | 6.00% | ~26 |
 | Soldier | 6.00% | ~26 |
-| Android Power | 5.00% | ~21 |
+| Android Power | 6.00% | ~26 |
 | Shopaholic | 3.00% | ~13 |
 | Zombie Lover | 3.00% | ~13 |
 | Full House | 1.00% | ~4 |

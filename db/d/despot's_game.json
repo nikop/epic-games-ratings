@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewPlayers": 340,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -691,9 +691,9 @@
       "ID": "win-with-mrakus",
       "SetID": "799afm0",
       "Name": "Android Power",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 21
+      "UsersEstimate": 26
     }
   ],
   "AchievementSets": [
@@ -708,8 +708,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-08-27T22:06:18.906495+00:00",
+  "LastChanged_Achievements": "2023-08-27T23:06:29.3663568+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:38.0716653+00:00",
-  "LastUpdate_Ratings": "2023-08-27T22:02:00.9134863+00:00",
-  "LastUpdate_Achievements": "2023-08-27T22:06:18.9065172+00:00"
+  "LastUpdate_Ratings": "2023-08-27T23:03:04.573942+00:00",
+  "LastUpdate_Achievements": "2023-08-27T23:06:29.3664072+00:00"
 }

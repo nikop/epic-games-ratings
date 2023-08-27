@@ -5,53 +5,53 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 13.00% | ~37,823 |
-| First Class Student | 11.00% | ~32,004 |
-| Troll with the Punches | 11.00% | ~32,004 |
+| The Sort Who Makes an Entrance | 13.00% | ~37,824 |
+| First Class Student | 11.00% | ~32,005 |
+| Troll with the Punches | 11.00% | ~32,005 |
 | The Hallowed Hero | 10.00% | ~29,095 |
 | The Defender of Dragons | 10.00% | ~29,095 |
 | A Keen Sense of Spell | 10.00% | ~29,095 |
 | A Talent for Spending | 10.00% | ~29,095 |
 | That's a Keeper | 10.00% | ~29,095 |
-| Grappling with a Graphorn | 9.00% | ~26,185 |
-| The One Who Mastered Memories | 9.00% | ~26,185 |
-| The Hero of Hogwarts | 9.00% | ~26,185 |
-| Challenge Accepted | 9.00% | ~26,185 |
-| Loom for Improvement | 9.00% | ~26,185 |
-| Coasting Along | 9.00% | ~26,185 |
+| Grappling with a Graphorn | 9.00% | ~26,186 |
+| The One Who Mastered Memories | 9.00% | ~26,186 |
+| The Hero of Hogwarts | 9.00% | ~26,186 |
+| Challenge Accepted | 9.00% | ~26,186 |
+| Loom for Improvement | 9.00% | ~26,186 |
+| Coasting Along | 9.00% | ~26,186 |
 | Followed the Butterflies | 8.00% | ~23,276 |
 | The Spell Master | 8.00% | ~23,276 |
 | Rising From the Ashes | 8.00% | ~23,276 |
-| The Avenging Gazelle | 7.00% | ~20,366 |
-| Beast Friends | 7.00% | ~20,366 |
-| A Sallow Grave | 7.00% | ~20,366 |
-| Flight the Good Flight | 7.00% | ~20,366 |
-| The Seeker of Knowledge | 5.00% | ~14,547 |
-| The Root of the Problem | 5.00% | ~14,547 |
-| Third Time's a Charm | 5.00% | ~14,547 |
-| Raising Expectations | 5.00% | ~14,547 |
+| The Avenging Gazelle | 7.00% | ~20,367 |
+| Beast Friends | 7.00% | ~20,367 |
+| A Sallow Grave | 7.00% | ~20,367 |
+| Flight the Good Flight | 7.00% | ~20,367 |
+| The Seeker of Knowledge | 5.00% | ~14,548 |
+| The Root of the Problem | 5.00% | ~14,548 |
+| Third Time's a Charm | 5.00% | ~14,548 |
+| Raising Expectations | 5.00% | ~14,548 |
 | The Toast of the Town | 4.00% | ~11,638 |
 | Going Through the Potions | 4.00% | ~11,638 |
 | Room with a View | 4.00% | ~11,638 |
 | The Intrepid Explorer | 4.00% | ~11,638 |
 | The Gryffindor in the Graveyard | 4.00% | ~11,638 |
 | The Ends Petrify the Means | 4.00% | ~11,638 |
-| Floo Around the World | 3.00% | ~8,728 |
-| The Wise Owl | 3.00% | ~8,728 |
+| Floo Around the World | 3.00% | ~8,729 |
+| The Wise Owl | 3.00% | ~8,729 |
 | The Good Samaritan | 2.00% | ~5,819 |
 | Put Down Roots | 2.00% | ~5,819 |
 | The Auror's Apprentice | 2.00% | ~5,819 |
 | Rise to the Challenges | 2.00% | ~5,819 |
 | Finishing Touches | 2.00% | ~5,819 |
-| Savvy Spender | 1.00% | ~2,909 |
-| Demiguise Dread | 1.00% | ~2,909 |
-| A Forte for Achievement | 1.00% | ~2,909 |
+| Savvy Spender | 1.00% | ~2,910 |
+| Demiguise Dread | 1.00% | ~2,910 |
+| A Forte for Achievement | 1.00% | ~2,910 |
 | Merlin's Beard! | 0.90% | ~2,619 |
 | Spilled Milk | 0.80% | ~2,328 |
 | The Nature of the Beast | 0.60% | ~1,746 |
 | Collector's Edition | 0.30% | ~873 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,947 (Ranked 43)  
+Progressed: 290,954 (Ranked 43)  
 Completed: 456 (0.16%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,15 +180,15 @@ Completed: 456 (0.16%) (Ranked 196)
 | 2023-08-24 | 290,736 | 454 |
 | 2023-08-25 | 290,790 | 455 |
 | 2023-08-26 | 290,865 | 455 |
-| 2023-08-27 | 290,947 | 456 |
+| 2023-08-27 | 290,954 | 456 |
 ## Awards
 Max (Character Customization): 21,969  (Ranked 17)  
-Sum: 41,631 (Ranked 30)  
+Sum: 41,646 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 21,969 |
-| This game has Great Boss Battles | 10,687 |
+| This game has Great Boss Battles | 10,702 |
 | This game is Great for Beginners | 997 |
 | This game is Relaxing | 972 |
 | This game is Extremely Fun | 970 |
@@ -358,4 +358,4 @@ Diff (max vs sum): -13
 | 2023-08-24 | 4.77 | 21,908 | 41,494 |
 | 2023-08-25 | 4.77 | 21,923 | 41,535 |
 | 2023-08-26 | 4.77 | 21,948 | 41,589 |
-| 2023-08-27 | 4.77 | 21,969 | 41,631 |
+| 2023-08-27 | 4.77 | 21,969 | 41,646 |

@@ -6,23 +6,23 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~13,075 |
+| Sink Beneath the Waves | 36.00% | ~13,077 |
 | Sweet Sorrow | 18.00% | ~6,538 |
-| Rules the Waves | 17.00% | ~6,174 |
-| Thou, All-Shaking Thunder | 15.00% | ~5,448 |
-| Rival | 14.00% | ~5,085 |
-| Correspondent | 12.00% | ~4,358 |
-| Lose Your Mind | 12.00% | ~4,358 |
-| Sound Mind? | 12.00% | ~4,358 |
-| Salt's Curse | 11.00% | ~3,995 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~3,995 |
-| The Fall of the House | 11.00% | ~3,995 |
-| Shipmate | 11.00% | ~3,995 |
+| Rules the Waves | 17.00% | ~6,175 |
+| Thou, All-Shaking Thunder | 15.00% | ~5,449 |
+| Rival | 14.00% | ~5,086 |
+| Correspondent | 12.00% | ~4,359 |
+| Lose Your Mind | 12.00% | ~4,359 |
+| Sound Mind? | 12.00% | ~4,359 |
+| Salt's Curse | 11.00% | ~3,996 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~3,996 |
+| The Fall of the House | 11.00% | ~3,996 |
+| Shipmate | 11.00% | ~3,996 |
 | One Year at Zee | 8.00% | ~2,906 |
-| Pupil | 7.00% | ~2,542 |
-| Salvager | 7.00% | ~2,542 |
-| Open Your Ears | 7.00% | ~2,542 |
-| The Ascent of Man | 7.00% | ~2,542 |
+| Pupil | 7.00% | ~2,543 |
+| Salvager | 7.00% | ~2,543 |
+| Open Your Ears | 7.00% | ~2,543 |
+| The Ascent of Man | 7.00% | ~2,543 |
 | Zee Fever | 5.00% | ~1,816 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,453 |
 | Sink Beneath the Waves. Again. | 4.00% | ~1,453 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~36 |
 | Ten Years at Zee | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36,320 (Ranked 98)  
+Progressed: 36,325 (Ranked 98)  
 Completed: 3 (0.01%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 3 (0.01%) (Ranked 252)
 | 2023-08-24 | 36,131 | 3 |
 | 2023-08-25 | 36,192 | 3 |
 | 2023-08-26 | 36,249 | 3 |
-| 2023-08-27 | 36,320 | 3 |
+| 2023-08-27 | 36,325 | 3 |
 ## Awards
 Max (Character Customization): 213  (Ranked 270)  
 Sum: 283 (Ranked 344)  

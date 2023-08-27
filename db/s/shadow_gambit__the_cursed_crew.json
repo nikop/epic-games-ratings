@@ -4,8 +4,8 @@
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 525,
+  "EOS_Progressed": 526,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -1101,6 +1101,11 @@
       "Time": "2023-08-27T22:05:07.7224583+00:00",
       "NumProgressed": 525,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-27T23:05:22.8362961+00:00",
+      "NumProgressed": 526,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1121,7 +1126,7 @@
       "Name": "A New Journey",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "_03_FinishAct1",
@@ -1137,7 +1142,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "_05_FinishAct2",
@@ -1151,9 +1156,9 @@
       "ID": "_06_FinishFirstMirrorQuest",
       "SetID": "8a1io5d",
       "Name": "Mirror Mirror on the Wall",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 105
     },
     {
       "ID": "_07_FinishAct3",
@@ -1183,9 +1188,9 @@
       "ID": "_10_Completion_30",
       "SetID": "8a1io5d",
       "Name": "Buccaneer",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 84
+      "UsersEstimate": 89
     },
     {
       "ID": "_11_Completion_40",
@@ -1193,7 +1198,7 @@
       "Name": "Seadog",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "_12_Completion_50",
@@ -1225,7 +1230,7 @@
       "Name": "Marauder",
       "Percentage": 2,
       "XP": 125,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "_16_UnlockCore8Characters",
@@ -1249,7 +1254,7 @@
       "Name": "Fully Decked",
       "Percentage": 2,
       "XP": 125,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "_19_CrewTale_BSP",
@@ -1265,7 +1270,7 @@
       "Name": "Fishy Fish",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -1320,14 +1325,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 525,
+      "Progressed": 526,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-27T22:05:07.7224579+00:00",
+  "LastChanged_Achievements": "2023-08-27T23:05:22.8362954+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:45.1302228+00:00",
-  "LastUpdate_Ratings": "2023-08-27T22:01:18.1931062+00:00",
-  "LastUpdate_Achievements": "2023-08-27T22:05:07.722477+00:00"
+  "LastUpdate_Ratings": "2023-08-27T23:01:04.6939681+00:00",
+  "LastUpdate_Achievements": "2023-08-27T23:05:22.8363388+00:00"
 }

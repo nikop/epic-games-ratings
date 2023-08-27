@@ -474,9 +474,9 @@
       "ID": "AC04",
       "SetID": "l4abp0",
       "Name": "Blood and Iron",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 225
+      "UsersEstimate": 230
     },
     {
       "ID": "AC05",
@@ -490,17 +490,17 @@
       "ID": "AC06",
       "SetID": "l4abp0",
       "Name": "The Last Ascension",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 127
+      "UsersEstimate": 132
     },
     {
       "ID": "AC07",
       "SetID": "l4abp0",
       "Name": "The Sea dies on the Shore",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 112
+      "UsersEstimate": 117
     },
     {
       "ID": "AC08",
@@ -522,9 +522,9 @@
       "ID": "AC10",
       "SetID": "l4abp0",
       "Name": "The Wait is Over",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 59
     },
     {
       "ID": "AC11",
@@ -674,25 +674,25 @@
       "ID": "AC29",
       "SetID": "l4abp0",
       "Name": "The Veteran One",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 98
     },
     {
       "ID": "AC30",
       "SetID": "l4abp0",
       "Name": "The Anointed One",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 196
     },
     {
       "ID": "AC31",
       "SetID": "l4abp0",
       "Name": "The Merciless One",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 103
     },
     {
       "ID": "AC32",
@@ -738,9 +738,9 @@
       "ID": "AC37",
       "SetID": "l4abp0",
       "Name": "Storm of Death",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 39
     },
     {
       "ID": "AC38",
@@ -817,8 +817,8 @@
   ],
   "FirstSeen": "2023-07-26T07:57:19.1818171+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
-  "LastChanged_Achievements": "2023-08-27T22:05:46.1561933+00:00",
+  "LastChanged_Achievements": "2023-08-27T23:05:58.8242493+00:00",
   "LastUpdate_AppInfo": "2023-08-22T18:57:00.5189311+00:00",
-  "LastUpdate_Ratings": "2023-08-27T21:59:34.8983637+00:00",
-  "LastUpdate_Achievements": "2023-08-27T22:05:46.1562254+00:00"
+  "LastUpdate_Ratings": "2023-08-27T22:59:26.3877844+00:00",
+  "LastUpdate_Achievements": "2023-08-27T23:05:58.8243231+00:00"
 }

@@ -9,7 +9,7 @@
 | Outside World Seer | 65.00% | ~778 |
 | Stranger Encounterer | 40.00% | ~479 |
 | Grey Hands Praxis 101 | 31.00% | ~371 |
-| Deep Listener | 28.00% | ~335 |
+| Deep Listener | 29.00% | ~347 |
 | Music for Cows | 21.00% | ~251 |
 | Emotional Baggage Handler | 19.00% | ~227 |
 | Dream Listener | 17.00% | ~203 |

@@ -6,12 +6,12 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 25.00% | ~54,576 |
-| Where's that freaking Dwarf? | 3.00% | ~6,549 |
-| Alt+F4 | 3.00% | ~6,549 |
-| Déjà vu | 2.00% | ~4,366 |
-| Sock! SOCK! | 2.00% | ~4,366 |
-| Speedrun | 2.00% | ~4,366 |
+| Sowwy! | 25.00% | ~54,583 |
+| Where's that freaking Dwarf? | 3.00% | ~6,550 |
+| Alt+F4 | 3.00% | ~6,550 |
+| Déjà vu | 2.00% | ~4,367 |
+| Sock! SOCK! | 2.00% | ~4,367 |
+| Speedrun | 2.00% | ~4,367 |
 | Livin' in a dwarven paradise | 1.00% | ~2,183 |
 | Way of the Wimp | 1.00% | ~2,183 |
 | A beer, two curses, three companions | 1.00% | ~2,183 |
@@ -19,14 +19,14 @@ Number of Ratings: 118  (23.09.2022)
 | GG EZ | 1.00% | ~2,183 |
 | DM intervention | 1.00% | ~2,183 |
 | Fireproof Wizardess | 1.00% | ~2,183 |
-| The demons' feast | 0.80% | ~1,746 |
-| The Great Library | 0.80% | ~1,746 |
-| Torture and Sensibility | 0.80% | ~1,746 |
-| Urik's Depths | 0.80% | ~1,746 |
-| The Dungeon Master | 0.80% | ~1,746 |
-| The Woman in the High Castle | 0.80% | ~1,746 |
-| Team Building Exercise | 0.80% | ~1,746 |
-| Oh, when I'll be level 10... | 0.80% | ~1,746 |
+| The demons' feast | 0.80% | ~1,747 |
+| The Great Library | 0.80% | ~1,747 |
+| Torture and Sensibility | 0.80% | ~1,747 |
+| Urik's Depths | 0.80% | ~1,747 |
+| The Dungeon Master | 0.80% | ~1,747 |
+| The Woman in the High Castle | 0.80% | ~1,747 |
+| Team Building Exercise | 0.80% | ~1,747 |
+| Oh, when I'll be level 10... | 0.80% | ~1,747 |
 | Shiny and Crôm | 0.70% | ~1,528 |
 | The Statuette of Gladeulfeurah | 0.70% | ~1,528 |
 | A tale of adventurers not quite like the others... | 0.70% | ~1,528 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~218 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,305 (Ranked 56)  
+Progressed: 218,331 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 2 (0.00%) (Ranked 265)
 | 2023-08-24 | 216,781 | 2 |
 | 2023-08-25 | 217,227 | 2 |
 | 2023-08-26 | 217,758 | 2 |
-| 2023-08-27 | 218,305 | 2 |
+| 2023-08-27 | 218,331 | 2 |
 ## Awards
 Max (Character Customization): 180  (Ranked 282)  
 Sum: 226 (Ranked 360)  

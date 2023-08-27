@@ -6,8 +6,8 @@ Rating: 4.56 (Ranked 472)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 26.00% | ~808 |
-| Sputnik 2049 | 23.00% | ~714 |
-| Infinite Growth... | 22.00% | ~683 |
+| Sputnik 2049 | 23.00% | ~715 |
+| Infinite Growth... | 22.00% | ~684 |
 | Without Breaking Some Eggs... | 21.00% | ~652 |
 | Space Society | 15.00% | ~466 |
 | A Thousand Strong | 15.00% | ~466 |
@@ -53,7 +53,7 @@ Rating: 4.56 (Ranked 472)
 | Tiqqun Unchained | 1.00% | ~31 |
 | Scientifically Accurate | 1.00% | ~31 |
 | Work Harder | 0.50% | ~16 |
-| Drill-dozer | 0.30% | ~9 |
+| Drill-dozer | 0.40% | ~12 |
 | Crunch Culture | 0.30% | ~9 |
 | Soylent Green | 0.30% | ~9 |
 | A Junker's Dream | 0.20% | ~6 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 472)
 | I Give You the Stars | 0.10% | ~1 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,106 (Ranked 161)  
+Progressed: 3,107 (Ranked 161)  
 Completed: 0 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 0 (0.00%) (Ranked 265)
 | 2023-08-24 | 3,097 | 0 |
 | 2023-08-25 | 3,100 | 0 |
 | 2023-08-26 | 3,103 | 0 |
-| 2023-08-27 | 3,106 | 0 |
+| 2023-08-27 | 3,107 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
