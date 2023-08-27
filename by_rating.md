@@ -18,7 +18,7 @@
 | 13 | [RimWorld](games/r/rimworld.md) | 4.89 | 431 | 208 |
 | 13 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.89 | 0 | 514 |
 | 13 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 17,831 | 21 |
-| 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 137 | 307 |
+| 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 137 | 308 |
 | 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,220 | 78 |
 | 19 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.88 | 0 | 514 |
 | 19 | [Ooblets](games/o/ooblets.md) | 4.88 | 1,021 | 143 |
@@ -104,7 +104,7 @@
 | 101 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,827 | 38 |
 | 101 | [Journey](games/j/journey.md) | 4.78 | 0 | 514 |
 | 101 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.78 | 0 | 514 |
-| 101 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,384 | 104 |
+| 101 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,386 | 104 |
 | 101 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,443 | 125 |
 | 101 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 932 | 150 |
 | 101 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 514 |
@@ -228,7 +228,7 @@
 | 217 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 514 |
 | 217 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 0 | 514 |
 | 217 | [Revita](games/r/revita.md) | 4.69 | 0 | 514 |
-| 217 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,374 | 33 |
+| 217 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,376 | 33 |
 | 217 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 266 | 249 |
 | 217 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 27 | 471 |
 | 217 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.69 | 0 | 514 |
@@ -269,7 +269,7 @@
 | 256 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.67 | 0 | 514 |
 | 256 | [Suzerain](games/s/suzerain.md) | 4.67 | 0 | 514 |
 | 256 | [Tavern Master](games/t/tavern_master.md) | 4.67 | 0 | 514 |
-| 256 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 584 | 183 |
+| 256 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 585 | 183 |
 | 256 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.67 | 0 | 514 |
 | 256 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 0 | 514 |
 | 256 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 89 | 352 |
@@ -405,7 +405,7 @@
 | 392 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,616 | 27 |
 | 392 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 121 | 318 |
 | 392 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.60 | 0 | 514 |
-| 392 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 640 | 176 |
+| 392 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 641 | 176 |
 | 392 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 63 | 390 |
 | 392 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 478 | 201 |
 | 392 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.60 | 233 | 261 |
@@ -716,14 +716,14 @@
 | 714 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.39 | 0 | 514 |
 | 714 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 1,017 | 144 |
 | 714 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 0 | 514 |
-| 714 | [MORDHAU](games/m/mordhau.md) | 4.39 | 551 | 194 |
+| 714 | [MORDHAU](games/m/mordhau.md) | 4.39 | 554 | 194 |
 | 714 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 170 | 288 |
 | 714 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,748 | 32 |
 | 714 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.39 | 0 | 514 |
 | 714 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 0 | 514 |
 | 714 | [Tacoma](games/t/tacoma.md) | 4.39 | 0 | 514 |
 | 714 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 330 | 230 |
-| 714 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.39 | 136 | 308 |
+| 714 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.39 | 139 | 307 |
 | 714 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.39 | 105 | 331 |
 | 726 | [Assassin's Creed Chronicles: India](games/a/assassin's_creed_chronicles__india.md) | 4.38 | 0 | 514 |
 | 726 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 0 | 514 |
