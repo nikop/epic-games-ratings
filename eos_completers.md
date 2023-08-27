@@ -11,10 +11,10 @@
 | 9 | [Overloop](games/o/overloop.md) | 25.00% |
 | 10 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 24.59% |
 | 11 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 12 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.94% |
+| 12 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.78% |
 | 13 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 13 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
-| 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 19.85% |
+| 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 19.71% |
 | 16 | [Island Cities](games/i/island_cities.md) | 18.45% |
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
 | 18 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.46% |
@@ -34,7 +34,7 @@
 | 32 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
 | 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.94% |
 | 34 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.47% |
-| 35 | [Ravenlok](games/r/ravenlok.md) | 7.56% |
+| 35 | [Ravenlok](games/r/ravenlok.md) | 7.65% |
 | 36 | [Smelter](games/s/smelter.md) | 7.50% |
 | 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.04% |
 | 38 | [Scorn](games/s/scorn.md) | 7.02% |
@@ -49,8 +49,8 @@
 | 47 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.88% |
 | 48 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.33% |
 | 49 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.26% |
+| 50 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.17% |
 | 50 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.17% |
-| 51 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.14% |
 | 52 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.13% |
 | 53 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.83% |
 | 54 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 4.76% |
@@ -91,7 +91,7 @@
 | 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.25% |
 | 90 | [Bloodshore](games/b/bloodshore.md) | 2.20% |
 | 91 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
-| 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.06% |
+| 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.05% |
 | 93 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.01% |
 | 94 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
 | 95 | [Night Book](games/n/night_book.md) | 1.86% |
@@ -191,10 +191,10 @@
 | 188 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
 | 190 | [Going Medieval](games/g/going_medieval.md) | 0.20% |
 | 190 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.20% |
-| 192 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.19% |
 | 192 | [RAILGRADE](games/r/railgrade.md) | 0.19% |
-| 194 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.18% |
-| 194 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.18% |
+| 193 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.18% |
+| 193 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.18% |
+| 193 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.18% |
 | 196 | [BLACKTAIL](games/b/blacktail.md) | 0.16% |
 | 196 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
 | 196 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
@@ -482,6 +482,7 @@
 | 265 | [Session: Skate Sim](games/s/session__skate_sim.md) | 0.00% |
 | 265 | [Seven Doors](games/s/seven_doors.md) | 0.00% |
 | 265 | [Shadow Gangs](games/s/shadow_gangs.md) | 0.00% |
+| 265 | [Shalnor Legends 2: Trials of Thunder](games/d/d26c3a62ed20492f90a07c3a27e8db97.md) | 0.00% |
 | 265 | [Shame Legacy](games/s/shame_legacy.md) | 0.00% |
 | 265 | [Shin-chan Me and the Professor on Summer Vacation](games/s/shin-chan_me_and_the_professor_on_summer_vacation.md) | 0.00% |
 | 265 | [Shinogi Chess Club](games/s/shinogi_chess_club.md) | 0.00% |
