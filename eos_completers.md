@@ -39,7 +39,7 @@
 | 37 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 7.32% |
 | 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.05% |
 | 39 | [Scorn](games/s/scorn.md) | 6.98% |
-| 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.83% |
+| 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.81% |
 | 41 | [Time Loader](games/t/time_loader.md) | 6.78% |
 | 42 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.73% |
 | 43 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 6.67% |
@@ -91,7 +91,7 @@
 | 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.25% |
 | 90 | [Bloodshore](games/b/bloodshore.md) | 2.20% |
 | 91 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
-| 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.13% |
+| 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.12% |
 | 93 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.01% |
 | 94 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
 | 95 | [Night Book](games/n/night_book.md) | 1.86% |
@@ -119,9 +119,9 @@
 | 117 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.03% |
 | 118 | [Adios](games/a/adios.md) | 1.02% |
 | 119 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.01% |
-| 120 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.99% |
 | 120 | [Sable](games/s/sable.md) | 0.99% |
 | 120 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.99% |
+| 122 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
 | 123 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.96% |
 | 124 | [Hades](games/h/hades.md) | 0.90% |
 | 125 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
@@ -204,17 +204,17 @@
 | 201 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
 | 203 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.14% |
 | 204 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.13% |
+| 205 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.12% |
 | 205 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
 | 205 | [Isonzo](games/i/isonzo.md) | 0.12% |
 | 205 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
 | 205 | [Port Royale 4](games/p/port_royale_4.md) | 0.12% |
-| 209 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.11% |
-| 209 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.11% |
-| 209 | [Ring of Pain](games/r/ring_of_pain.md) | 0.11% |
-| 212 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.10% |
-| 212 | [House Flipper](games/h/house_flipper.md) | 0.10% |
-| 212 | [Shop Titans](games/s/shop_titans.md) | 0.10% |
-| 212 | [Supraland](games/s/supraland.md) | 0.10% |
+| 210 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.11% |
+| 210 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.11% |
+| 210 | [Ring of Pain](games/r/ring_of_pain.md) | 0.11% |
+| 213 | [House Flipper](games/h/house_flipper.md) | 0.10% |
+| 213 | [Shop Titans](games/s/shop_titans.md) | 0.10% |
+| 213 | [Supraland](games/s/supraland.md) | 0.10% |
 | 216 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.09% |
 | 216 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
 | 216 | [Operation New Earth](games/o/operation_new_earth.md) | 0.09% |
