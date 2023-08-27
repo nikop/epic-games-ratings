@@ -2,9 +2,9 @@
   "ID": "32f2b74bcbce4acb9ec9a369fb110e5c",
   "Name": "Crimson Dawn",
   "ProductSlug": "crimson-dawn-4d855b",
-  "Ranking_EOS_Progress": 560,
+  "Ranking_EOS_Progress": 561,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewPlayers": 340,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-04-14T12:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-05-02T08:58:52.753257+00:00",
   "LastChanged": "2023-05-02T08:58:52.7532571+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:43.4846598+00:00",
-  "LastUpdate_Ratings": "2023-08-27T19:57:13.2558842+00:00",
-  "LastUpdate_Achievements": "2023-08-27T20:06:27.5262573+00:00"
+  "LastUpdate_Ratings": "2023-08-27T20:57:05.2874866+00:00",
+  "LastUpdate_Achievements": "2023-08-27T21:07:54.2333988+00:00"
 }

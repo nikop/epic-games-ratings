@@ -1,24 +1,24 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 501)  
+Rating: 4.54 (Ranked 502)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Hotel California | 0.40% | ~2,669 |
 | Welcome To Hell-A | 0.40% | ~2,669 |
-| Dr. Reed, I Presume? | 0.30% | ~2,001 |
-| Git Gutte! | 0.30% | ~2,001 |
-| Bookworm | 0.30% | ~2,001 |
-| Break A Leg | 0.30% | ~2,001 |
-| But Doctor, I am Butcho | 0.30% | ~2,001 |
-| Coup de Grâce | 0.30% | ~2,001 |
-| Hazardous Materials | 0.30% | ~2,001 |
-| Friends Like These | 0.30% | ~2,001 |
-| Apex Predator | 0.30% | ~2,001 |
-| Stacking the Deck | 0.30% | ~2,001 |
-| Personal Assistant Personally Assisted | 0.30% | ~2,001 |
-| This is My Weapon | 0.30% | ~2,001 |
+| Dr. Reed, I Presume? | 0.30% | ~2,002 |
+| Git Gutte! | 0.30% | ~2,002 |
+| Bookworm | 0.30% | ~2,002 |
+| Break A Leg | 0.30% | ~2,002 |
+| But Doctor, I am Butcho | 0.30% | ~2,002 |
+| Coup de Grâce | 0.30% | ~2,002 |
+| Hazardous Materials | 0.30% | ~2,002 |
+| Friends Like These | 0.30% | ~2,002 |
+| Apex Predator | 0.30% | ~2,002 |
+| Stacking the Deck | 0.30% | ~2,002 |
+| Personal Assistant Personally Assisted | 0.30% | ~2,002 |
+| This is My Weapon | 0.30% | ~2,002 |
 | Making Your Mark | 0.20% | ~1,334 |
 | Anger Management | 0.20% | ~1,334 |
 | Perks of the Job | 0.20% | ~1,334 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 501)
 | Rising Star | 0.10% | ~667 |
 | Bucket List | 0.10% | ~667 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 667,161 (Ranked 22)  
+Progressed: 667,208 (Ranked 22)  
 Completed: 2,082 (0.31%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 2,082 (0.31%) (Ranked 173)
 | 2023-08-24 | 664,478 | 2,059 |
 | 2023-08-25 | 665,272 | 2,068 |
 | 2023-08-26 | 666,250 | 2,078 |
-| 2023-08-27 | 667,161 | 2,082 |
+| 2023-08-27 | 667,208 | 2,082 |
 ## Awards
 Max (Great Boss Battles): 5,783  (Ranked 61)  
 Sum: 8,515 (Ranked 97)  

@@ -1828,10 +1828,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 2258,
       "NumberOfAwardsMax": 249
+    },
+    {
+      "Time": "2023-08-27T20:57:12.0288442+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 2260,
+      "NumberOfAwardsMax": 249
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2258,
+  "NumberOfAwards": 2260,
   "NumberOfAwardsMax": 249,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1887,7 +1893,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 221
+      "Count": 223
     },
     {
       "Text": "This game is Relaxing",
@@ -1908,7 +1914,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25388,
+  "EOS_Progressed": 25389,
   "EOS_Completed": 53,
   "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 1,
@@ -11448,6 +11454,11 @@
       "Time": "2023-08-27T20:03:50.5368338+00:00",
       "NumProgressed": 25388,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-08-27T21:04:15.9165846+00:00",
+      "NumProgressed": 25389,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 51,
@@ -11459,7 +11470,7 @@
       "Name": "Advancement",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 18279
+      "UsersEstimate": 18280
     },
     {
       "ID": "Animated",
@@ -11499,7 +11510,7 @@
       "Name": "Clutch Capture",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 10155
+      "UsersEstimate": 10156
     },
     {
       "ID": "Collect_Spores",
@@ -11571,7 +11582,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 63,
       "XP": 100,
-      "UsersEstimate": 15994
+      "UsersEstimate": 15995
     },
     {
       "ID": "Escape_Artist",
@@ -11603,7 +11614,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 7616
+      "UsersEstimate": 7617
     },
     {
       "ID": "Ghost_Expert",
@@ -11619,7 +11630,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 7616
+      "UsersEstimate": 7617
     },
     {
       "ID": "Legions",
@@ -11763,15 +11774,15 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 21834
+      "UsersEstimate": 21835
     },
     {
       "ID": "Summoner",
       "SetID": "819popo",
       "Name": "Summoner",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 6855
+      "UsersEstimate": 6601
     },
     {
       "ID": "Surprise",
@@ -11843,7 +11854,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 12186
+      "UsersEstimate": 12187
     },
     {
       "ID": "Welcome_Crew",
@@ -11851,7 +11862,7 @@
       "Name": "Welcome to the Crew",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 7870
+      "UsersEstimate": 7871
     },
     {
       "ID": "Whoopsie",
@@ -11859,23 +11870,23 @@
       "Name": "Whoopsie",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3300
+      "UsersEstimate": 3301
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25388,
+      "Progressed": 25389,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-08-27T07:57:05.5803383+00:00",
-  "LastChanged_Achievements": "2023-08-27T20:03:50.5368335+00:00",
+  "LastChanged": "2023-08-27T20:57:12.0288441+00:00",
+  "LastChanged_Achievements": "2023-08-27T21:04:15.916583+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:16.4521861+00:00",
-  "LastUpdate_Ratings": "2023-08-27T19:57:18.2775422+00:00",
-  "LastUpdate_Achievements": "2023-08-27T20:03:50.5369114+00:00"
+  "LastUpdate_Ratings": "2023-08-27T20:57:12.0288446+00:00",
+  "LastUpdate_Achievements": "2023-08-27T21:04:15.9166813+00:00"
 }

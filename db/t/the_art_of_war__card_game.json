@@ -2,9 +2,9 @@
   "ID": "092af0fb1f464b8eaa75867cbb2d66a1",
   "Name": "The Art of War: Card Game",
   "ProductSlug": "the-art-of-war-card-game-e3700e",
-  "Ranking_EOS_Progress": 560,
+  "Ranking_EOS_Progress": 561,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewPlayers": 340,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:51:37.4540289+00:00",
-  "LastChanged_Achievements": "2023-08-27T20:05:40.8926841+00:00",
+  "LastChanged_Achievements": "2023-08-27T21:06:50.7123649+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:21.4842906+00:00",
-  "LastUpdate_Ratings": "2023-08-27T19:58:09.5735413+00:00",
-  "LastUpdate_Achievements": "2023-08-27T20:05:40.8926865+00:00"
+  "LastUpdate_Ratings": "2023-08-27T20:58:27.8281484+00:00",
+  "LastUpdate_Achievements": "2023-08-27T21:06:50.7123683+00:00"
 }

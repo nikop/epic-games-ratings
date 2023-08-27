@@ -4,7 +4,7 @@
   "ProductSlug": "the-dungeon-of-naheulbeuk",
   "Ranking_Rating": 428,
   "Ranking_Popularity": 282,
-  "Ranking_PopularitySum": 361,
+  "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 24,
@@ -700,10 +700,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 224,
       "NumberOfAwardsMax": 180
+    },
+    {
+      "Time": "2023-08-27T21:02:19.3722904+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 226,
+      "NumberOfAwardsMax": 180
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 224,
+  "NumberOfAwards": 226,
   "NumberOfAwardsMax": 180,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -717,7 +723,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 22
+      "Count": 24
     },
     {
       "Text": "This game is Great for Beginners",
@@ -726,9 +732,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 218264,
+  "EOS_Progressed": 218295,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3022,
+  "EOS_NewPlayers": 3033,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8531,6 +8537,11 @@
       "Time": "2023-08-27T20:03:14.317739+00:00",
       "NumProgressed": 218264,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-27T21:03:25.2088194+00:00",
+      "NumProgressed": 218295,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -8590,7 +8601,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4365
+      "UsersEstimate": 4366
     },
     {
       "ID": "Chapter2",
@@ -8942,7 +8953,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6548
+      "UsersEstimate": 6549
     },
     {
       "ID": "DwarfElf15Support",
@@ -8974,7 +8985,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4365
+      "UsersEstimate": 4366
     },
     {
       "ID": "ElfEpic",
@@ -8990,7 +9001,7 @@
       "Name": "Sowwy!",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 54566
+      "UsersEstimate": 54574
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -9038,7 +9049,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6548
+      "UsersEstimate": 6549
     },
     {
       "ID": "FollowBraztok",
@@ -9076,9 +9087,9 @@
       "ID": "KillGolbargh",
       "SetID": "50chcgj",
       "Name": "We come in peace",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 437
+      "UsersEstimate": 655
     },
     {
       "ID": "MinistrelEpic",
@@ -9190,7 +9201,7 @@
       "Name": "Speedrun",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4365
+      "UsersEstimate": 4366
     },
     {
       "ID": "SupportCount4",
@@ -9245,21 +9256,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 218264,
+      "Progressed": 218295,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 218264,
+      "Progressed": 218295,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2023-08-26T23:02:52.6825545+00:00",
-  "LastChanged_Achievements": "2023-08-27T20:03:14.3177386+00:00",
+  "LastChanged": "2023-08-27T21:02:19.3722902+00:00",
+  "LastChanged_Achievements": "2023-08-27T21:03:25.2088187+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:41.9661267+00:00",
-  "LastUpdate_Ratings": "2023-08-27T20:00:50.574066+00:00",
-  "LastUpdate_Achievements": "2023-08-27T20:03:14.3178542+00:00"
+  "LastUpdate_Ratings": "2023-08-27T21:02:19.3722913+00:00",
+  "LastUpdate_Achievements": "2023-08-27T21:03:25.2089767+00:00"
 }

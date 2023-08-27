@@ -552,9 +552,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 1595,
+  "EOS_Progressed": 1596,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3317,6 +3317,11 @@
       "Time": "2023-08-27T18:07:03.5021932+00:00",
       "NumProgressed": 1595,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-27T21:08:25.0110726+00:00",
+      "NumProgressed": 1596,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 61,
@@ -3344,7 +3349,7 @@
       "Name": "Transport master",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 829
+      "UsersEstimate": 830
     },
     {
       "ID": "achAccumulate1B",
@@ -3368,7 +3373,7 @@
       "Name": "Transport millionaire",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "achAircraftEarnings",
@@ -3376,7 +3381,7 @@
       "Name": "Aircraft entrepreneur",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "achAllClimates",
@@ -3424,7 +3429,7 @@
       "Name": "First bus stop",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 1132
+      "UsersEstimate": 1133
     },
     {
       "ID": "achBuildTrainStation",
@@ -3472,7 +3477,7 @@
       "Name": "Campaign expert",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "achCompleteCampaignC",
@@ -3488,7 +3493,7 @@
       "Name": "Cadet",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "achCreateLine",
@@ -3496,7 +3501,7 @@
       "Name": "First line",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1228
+      "UsersEstimate": 1229
     },
     {
       "ID": "achCrowdInATrain",
@@ -3504,7 +3509,7 @@
       "Name": "Crowd in a train",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "achEmissionLevel",
@@ -3512,7 +3517,7 @@
       "Name": "Not in my backyard",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "achEpec",
@@ -3544,7 +3549,7 @@
       "Name": "First cargo item on board",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 1132
+      "UsersEstimate": 1133
     },
     {
       "ID": "achFirstCargoWaiting",
@@ -3552,7 +3557,7 @@
       "Name": "First cargo item waiting",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 1132
+      "UsersEstimate": 1133
     },
     {
       "ID": "achFirstElectricTrainArrived",
@@ -3568,7 +3573,7 @@
       "Name": "First industry upgraded",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 909
+      "UsersEstimate": 910
     },
     {
       "ID": "achFirstPassengerTransported",
@@ -3600,7 +3605,7 @@
       "Name": "First steam train arrived",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 957
+      "UsersEstimate": 958
     },
     {
       "ID": "achGlacierExpress",
@@ -3672,7 +3677,7 @@
       "Name": "Mass production",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "achMetropolis",
@@ -3728,7 +3733,7 @@
       "Name": "The future is now, old man",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "achShipEarnings",
@@ -3736,7 +3741,7 @@
       "Name": "The king of the sea",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "achSmellOfSuccess",
@@ -3752,7 +3757,7 @@
       "Name": "Cargo hub",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "achTopSpeed120",
@@ -3800,7 +3805,7 @@
       "Name": "Truck Fever",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "achTunnelLength",
@@ -3815,15 +3820,15 @@
     {
       "ID": "dgl390n",
       "IsBase": true,
-      "Progressed": 1595,
+      "Progressed": 1596,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-08-17T14:57:18.7494823+00:00",
-  "LastChanged_Achievements": "2023-08-27T20:06:49.6043777+00:00",
+  "LastChanged_Achievements": "2023-08-27T21:08:25.0110721+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:28.8254481+00:00",
-  "LastUpdate_Ratings": "2023-08-27T19:58:16.0510894+00:00",
-  "LastUpdate_Achievements": "2023-08-27T20:06:49.6044356+00:00"
+  "LastUpdate_Ratings": "2023-08-27T20:58:37.5998119+00:00",
+  "LastUpdate_Achievements": "2023-08-27T21:08:25.0111507+00:00"
 }

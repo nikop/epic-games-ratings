@@ -2,9 +2,9 @@
   "ID": "f76aab05872f4293bb5f46485cb2f16c",
   "Name": "Gangs of Sherwood",
   "ProductSlug": "gangs-of-sherwood",
-  "Ranking_EOS_Progress": 560,
+  "Ranking_EOS_Progress": 561,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewPlayers": 340,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-26T08:58:31.8907356+00:00",
-  "LastUpdate_Ratings": "2023-08-27T20:00:09.768686+00:00",
-  "LastUpdate_Achievements": "2023-08-27T20:04:33.5422765+00:00"
+  "LastUpdate_Ratings": "2023-08-27T21:01:20.582294+00:00",
+  "LastUpdate_Achievements": "2023-08-27T21:05:16.3931669+00:00"
 }

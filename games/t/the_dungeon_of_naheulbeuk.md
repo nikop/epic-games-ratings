@@ -6,12 +6,12 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 25.00% | ~54,566 |
-| Where's that freaking Dwarf? | 3.00% | ~6,548 |
-| Alt+F4 | 3.00% | ~6,548 |
-| Déjà vu | 2.00% | ~4,365 |
-| Sock! SOCK! | 2.00% | ~4,365 |
-| Speedrun | 2.00% | ~4,365 |
+| Sowwy! | 25.00% | ~54,574 |
+| Where's that freaking Dwarf? | 3.00% | ~6,549 |
+| Alt+F4 | 3.00% | ~6,549 |
+| Déjà vu | 2.00% | ~4,366 |
+| Sock! SOCK! | 2.00% | ~4,366 |
+| Speedrun | 2.00% | ~4,366 |
 | Livin' in a dwarven paradise | 1.00% | ~2,183 |
 | Way of the Wimp | 1.00% | ~2,183 |
 | A beer, two curses, three companions | 1.00% | ~2,183 |
@@ -44,12 +44,12 @@ Number of Ratings: 118  (23.09.2022)
 | Gargantua | 0.40% | ~873 |
 | Lust and Debauchery | 0.40% | ~873 |
 | Material Girl | 0.40% | ~873 |
+| We come in peace | 0.30% | ~655 |
 | In Navalu's footsteps | 0.30% | ~655 |
 | Lëgal Legend | 0.30% | ~655 |
 | Holistic Adventuring Party | 0.20% | ~437 |
 | Scholar of the Lands of Fangh | 0.20% | ~437 |
 | An old poacher makes the best gamekeeper | 0.20% | ~437 |
-| We come in peace | 0.20% | ~437 |
 | Law and Order | 0.20% | ~437 |
 | It's been a hard day's night | 0.20% | ~437 |
 | Cursed die | 0.10% | ~218 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~218 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,264 (Ranked 56)  
+Progressed: 218,295 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,15 +183,15 @@ Completed: 2 (0.00%) (Ranked 265)
 | 2023-08-24 | 216,781 | 2 |
 | 2023-08-25 | 217,227 | 2 |
 | 2023-08-26 | 217,758 | 2 |
-| 2023-08-27 | 218,264 | 2 |
+| 2023-08-27 | 218,295 | 2 |
 ## Awards
 Max (Character Customization): 180  (Ranked 282)  
-Sum: 224 (Ranked 361)  
-Diff (max vs sum): -79  
+Sum: 226 (Ranked 360)  
+Diff (max vs sum): -78  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 180 |
-| This game is Relaxing | 22 |
+| This game is Relaxing | 24 |
 | This game is Great for Beginners | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -311,3 +311,4 @@ Diff (max vs sum): -79
 | 2023-08-24 | 4.58 | - | 174 | 217 |
 | 2023-08-25 | 4.58 | - | 176 | 220 |
 | 2023-08-26 | 4.58 | - | 180 | 224 |
+| 2023-08-27 | 4.58 | - | 180 | 226 |

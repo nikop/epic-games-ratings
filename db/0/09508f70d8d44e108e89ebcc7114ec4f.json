@@ -4,7 +4,7 @@
   "ProductSlug": "match-village-5f41dd",
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 83,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-06-01T13:00:00+00:00",
@@ -1107,9 +1107,9 @@
       "ID": "church",
       "SetID": "ap7g2g4",
       "Name": "Church",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 188
+      "UsersEstimate": 192
     },
     {
       "ID": "circus",
@@ -1139,9 +1139,9 @@
       "ID": "fishing_house",
       "SetID": "ap7g2g4",
       "Name": "Big fishing house",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 59
+      "UsersEstimate": 63
     },
     {
       "ID": "fun!",
@@ -1243,17 +1243,17 @@
       "ID": "water_platform",
       "SetID": "ap7g2g4",
       "Name": "Water platform",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 98
     },
     {
       "ID": "wheat_farm",
       "SetID": "ap7g2g4",
       "Name": "Wheat farm",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 150
+      "UsersEstimate": 154
     },
     {
       "ID": "wood",
@@ -1274,8 +1274,8 @@
   ],
   "FirstSeen": "2023-06-02T14:56:55.6252119+00:00",
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2023-08-27T20:06:49.4599685+00:00",
+  "LastChanged_Achievements": "2023-08-27T21:08:24.6640292+00:00",
   "LastUpdate_AppInfo": "2023-08-24T18:57:15.5086956+00:00",
-  "LastUpdate_Ratings": "2023-08-27T19:59:27.6429782+00:00",
-  "LastUpdate_Achievements": "2023-08-27T20:06:49.460018+00:00"
+  "LastUpdate_Ratings": "2023-08-27T21:00:22.5684573+00:00",
+  "LastUpdate_Achievements": "2023-08-27T21:08:24.6640552+00:00"
 }

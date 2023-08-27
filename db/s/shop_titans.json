@@ -5714,10 +5714,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27148,
       "NumberOfAwardsMax": 4717
+    },
+    {
+      "Time": "2023-08-27T21:02:07.4000912+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27150,
+      "NumberOfAwardsMax": 4717
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27148,
+  "NumberOfAwards": 27150,
   "NumberOfAwardsMax": 4717,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5749,7 +5755,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 3989
+      "Count": 3991
     },
     {
       "Text": "This game is Relaxing",
@@ -5770,9 +5776,9 @@
       "Count": 3738
     }
   ],
-  "EOS_Progressed": 135246,
+  "EOS_Progressed": 135249,
   "EOS_Completed": 138,
-  "EOS_NewPlayers": 397,
+  "EOS_NewPlayers": 400,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -19025,6 +19031,11 @@
       "Time": "2023-08-27T20:06:42.6191019+00:00",
       "NumProgressed": 135246,
       "NumCompleted": 138
+    },
+    {
+      "Time": "2023-08-27T21:08:15.0170852+00:00",
+      "NumProgressed": 135249,
+      "NumCompleted": 138
     }
   ],
   "TotalAchievements": 112,
@@ -19442,9 +19453,9 @@
       "ID": "furniture01",
       "SetID": "anfd17p",
       "Name": "Efficient Floor Space",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 541
+      "UsersEstimate": 676
     },
     {
       "ID": "furniture02",
@@ -19931,15 +19942,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135246,
+      "Progressed": 135249,
       "Completed": 138
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-08-27T20:00:40.9918091+00:00",
-  "LastChanged_Achievements": "2023-08-27T20:06:42.6191013+00:00",
+  "LastChanged": "2023-08-27T21:02:07.4000911+00:00",
+  "LastChanged_Achievements": "2023-08-27T21:08:15.0170846+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:19.0477827+00:00",
-  "LastUpdate_Ratings": "2023-08-27T20:00:40.9918096+00:00",
-  "LastUpdate_Achievements": "2023-08-27T20:06:42.6192893+00:00"
+  "LastUpdate_Ratings": "2023-08-27T21:02:07.4000917+00:00",
+  "LastUpdate_Achievements": "2023-08-27T21:08:15.0173495+00:00"
 }

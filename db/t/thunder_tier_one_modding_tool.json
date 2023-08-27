@@ -2,9 +2,9 @@
   "ID": "e6a192f4403748fd9b0dd5af44c513ed",
   "Name": "Thunder Tier One Modding Tool",
   "ProductSlug": "thunder-tier-one-modkit",
-  "Ranking_EOS_Progress": 560,
+  "Ranking_EOS_Progress": 561,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewPlayers": 340,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": null,
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-26T08:58:28.7740001+00:00",
-  "LastUpdate_Ratings": "2023-08-27T20:00:05.3756651+00:00",
-  "LastUpdate_Achievements": "2023-08-27T20:04:16.0100261+00:00"
+  "LastUpdate_Ratings": "2023-08-27T21:01:14.5471406+00:00",
+  "LastUpdate_Achievements": "2023-08-27T21:04:51.2289123+00:00"
 }

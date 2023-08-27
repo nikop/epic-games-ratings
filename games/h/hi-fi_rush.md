@@ -10,8 +10,8 @@ Rating: 4.88 (Ranked 19)
 | You can pet the cat! | 11.00% | ~438 |
 | Cream of the Crop | 10.00% | ~398 |
 | Who put gears in there? | 10.00% | ~398 |
-| Thanks for the free chip, Peppermint! | 9.00% | ~358 |
-| You got this, Peppermint? | 9.00% | ~358 |
+| Thanks for the free chip, Peppermint! | 9.00% | ~359 |
+| You got this, Peppermint? | 9.00% | ~359 |
 | I play my own way! | 8.00% | ~319 |
 | Perfect Parry | 8.00% | ~319 |
 | Alright, that felt AWESOME! | 8.00% | ~319 |
@@ -31,10 +31,10 @@ Rating: 4.88 (Ranked 19)
 | Perfecter Parry-er! | 5.00% | ~199 |
 | NOW we got a kickass hideout! | 5.00% | ~125 |
 | I have to read these things? | 4.00% | ~159 |
-| Well that was a rush! | 3.00% | ~119 |
-| Beat-hit mania | 3.00% | ~119 |
-| That's a lot of junk metal… | 3.00% | ~119 |
-| There's such a thing as TOO helpful | 3.00% | ~119 |
+| Well that was a rush! | 3.00% | ~120 |
+| Beat-hit mania | 3.00% | ~120 |
+| That's a lot of junk metal… | 3.00% | ~120 |
+| There's such a thing as TOO helpful | 3.00% | ~120 |
 | Chip-tuned | 2.00% | ~80 |
 | Wanna hear my playlist? | 2.00% | ~80 |
 | I told you I'd be fine, Peppermint! | 2.00% | ~80 |
@@ -77,8 +77,8 @@ Rating: 4.88 (Ranked 19)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,983 (Ranked 150)  
-Completed: 7 (0.18%) (Ranked 194)  
+Progressed: 3,984 (Ranked 150)  
+Completed: 7 (0.18%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -203,7 +203,7 @@ Completed: 7 (0.18%) (Ranked 194)
 | 2023-08-24 | 3,973 | 7 |
 | 2023-08-25 | 3,977 | 7 |
 | 2023-08-26 | 3,981 | 7 |
-| 2023-08-27 | 3,983 | 7 |
+| 2023-08-27 | 3,984 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

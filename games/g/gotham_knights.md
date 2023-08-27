@@ -5,13 +5,13 @@ Rating: 4.18 (Ranked 877)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~34,037 |
+| First Step Into the Knight | 50.00% | ~34,038 |
 | Har, Har, Har, Very Funny | 35.00% | ~23,826 |
-| Loose Ends | 34.00% | ~23,145 |
+| Loose Ends | 34.00% | ~23,146 |
 | To the Victor Go the Spoils | 28.00% | ~19,061 |
 | Knighthood | 27.00% | ~18,380 |
-| Get ReQ'd | 25.00% | ~17,018 |
-| Whispered Words | 25.00% | ~17,018 |
+| Get ReQ'd | 25.00% | ~17,019 |
+| Whispered Words | 25.00% | ~17,019 |
 | The Batman Family | 22.00% | ~14,976 |
 | Lock and Key | 22.00% | ~14,976 |
 | Something in the Clay | 21.00% | ~14,296 |
@@ -20,8 +20,8 @@ Rating: 4.18 (Ranked 877)
 | Unstoppable Force | 20.00% | ~13,615 |
 | Bad Apples in Every Orchard | 20.00% | ~13,615 |
 | Snow Problem | 19.00% | ~12,934 |
-| The Show Mud Go On | 18.00% | ~12,253 |
-| From Inside Gotham's Walls | 18.00% | ~12,253 |
+| The Show Mud Go On | 18.00% | ~12,254 |
+| From Inside Gotham's Walls | 18.00% | ~12,254 |
 | Protector of Gotham | 17.00% | ~11,573 |
 | Universal Health Scare | 16.00% | ~10,892 |
 | In Your Element | 15.00% | ~10,211 |
@@ -35,7 +35,7 @@ Rating: 4.18 (Ranked 877)
 | Bulldozed | 12.00% | ~8,169 |
 | Gotham Knight | 12.00% | ~8,169 |
 | Gotham City Confidential | 11.00% | ~7,488 |
-| Drone You Out | 10.00% | ~6,807 |
+| Drone You Out | 10.00% | ~6,808 |
 | Out of Their League | 9.00% | ~6,127 |
 | Solid Alibi | 9.00% | ~6,127 |
 | Fusion Expert | 7.00% | ~4,765 |
@@ -45,8 +45,8 @@ Rating: 4.18 (Ranked 877)
 | Dressed to Impress | 4.00% | ~2,723 |
 | A Momentum Occasion | 3.00% | ~2,042 |
 | Bat Out of Hell | 3.00% | ~2,042 |
-| Practice Makes Perfect | 2.00% | ~1,361 |
-| He'd Be So Proud of You | 2.00% | ~1,361 |
+| Practice Makes Perfect | 2.00% | ~1,362 |
+| He'd Be So Proud of You | 2.00% | ~1,362 |
 | Talonted | 1.00% | ~681 |
 | The Man-Bat Family | 1.00% | ~681 |
 | Batarang Collector | 1.00% | ~681 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 877)
 | Element of Surprise | 0.20% | ~77 |
 | It's Nice to Be Wanted | 0.20% | ~77 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,074 (Ranked 81)  
+Progressed: 68,075 (Ranked 81)  
 Completed: 109 (0.16%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 109 (0.16%) (Ranked 196)
 | 2023-08-24 | 68,017 | 109 |
 | 2023-08-25 | 68,028 | 109 |
 | 2023-08-26 | 68,056 | 109 |
-| 2023-08-27 | 68,074 | 109 |
+| 2023-08-27 | 68,075 | 109 |
 ## Awards
 Max (Great Boss Battles): 2,522  (Ranked 100)  
 Sum: 4,198 (Ranked 139)  

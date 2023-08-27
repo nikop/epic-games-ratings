@@ -2,9 +2,9 @@
   "ID": "1faf75ce10534366b99229d1507de1cb",
   "Name": "RENNSPORT",
   "ProductSlug": "rennsport-3776b8",
-  "Ranking_EOS_Progress": 560,
+  "Ranking_EOS_Progress": 561,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewPlayers": 340,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-22T15:57:12.3291082+00:00",
-  "LastUpdate_Ratings": "2023-08-27T19:59:21.1183295+00:00",
-  "LastUpdate_Achievements": "2023-08-27T20:04:34.5743371+00:00"
+  "LastUpdate_Ratings": "2023-08-27T21:00:12.3272126+00:00",
+  "LastUpdate_Achievements": "2023-08-27T21:05:17.8600717+00:00"
 }

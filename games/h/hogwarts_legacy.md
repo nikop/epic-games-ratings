@@ -5,23 +5,23 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 13.00% | ~37,822 |
-| First Class Student | 11.00% | ~32,003 |
-| Troll with the Punches | 11.00% | ~32,003 |
-| The Hallowed Hero | 10.00% | ~29,094 |
-| The Defender of Dragons | 10.00% | ~29,094 |
-| A Keen Sense of Spell | 10.00% | ~29,094 |
-| A Talent for Spending | 10.00% | ~29,094 |
-| That's a Keeper | 10.00% | ~29,094 |
+| The Sort Who Makes an Entrance | 13.00% | ~37,823 |
+| First Class Student | 11.00% | ~32,004 |
+| Troll with the Punches | 11.00% | ~32,004 |
+| The Hallowed Hero | 10.00% | ~29,095 |
+| The Defender of Dragons | 10.00% | ~29,095 |
+| A Keen Sense of Spell | 10.00% | ~29,095 |
+| A Talent for Spending | 10.00% | ~29,095 |
+| That's a Keeper | 10.00% | ~29,095 |
 | Grappling with a Graphorn | 9.00% | ~26,185 |
 | The One Who Mastered Memories | 9.00% | ~26,185 |
 | The Hero of Hogwarts | 9.00% | ~26,185 |
 | Challenge Accepted | 9.00% | ~26,185 |
 | Loom for Improvement | 9.00% | ~26,185 |
 | Coasting Along | 9.00% | ~26,185 |
-| Followed the Butterflies | 8.00% | ~23,275 |
-| The Spell Master | 8.00% | ~23,275 |
-| Rising From the Ashes | 8.00% | ~23,275 |
+| Followed the Butterflies | 8.00% | ~23,276 |
+| The Spell Master | 8.00% | ~23,276 |
+| Rising From the Ashes | 8.00% | ~23,276 |
 | The Avenging Gazelle | 7.00% | ~20,366 |
 | Beast Friends | 7.00% | ~20,366 |
 | A Sallow Grave | 7.00% | ~20,366 |
@@ -46,12 +46,12 @@ Rating: 4.77 (Ranked 109)
 | Savvy Spender | 1.00% | ~2,909 |
 | Demiguise Dread | 1.00% | ~2,909 |
 | A Forte for Achievement | 1.00% | ~2,909 |
-| Merlin's Beard! | 0.90% | ~2,618 |
+| Merlin's Beard! | 0.90% | ~2,619 |
 | Spilled Milk | 0.80% | ~2,328 |
 | The Nature of the Beast | 0.60% | ~1,746 |
 | Collector's Edition | 0.30% | ~873 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,940 (Ranked 43)  
+Progressed: 290,946 (Ranked 43)  
 Completed: 456 (0.16%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 456 (0.16%) (Ranked 196)
 | 2023-08-24 | 290,736 | 454 |
 | 2023-08-25 | 290,790 | 455 |
 | 2023-08-26 | 290,865 | 455 |
-| 2023-08-27 | 290,940 | 456 |
+| 2023-08-27 | 290,946 | 456 |
 ## Awards
 Max (Character Customization): 21,969  (Ranked 17)  
 Sum: 41,630 (Ranked 30)  

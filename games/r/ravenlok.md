@@ -39,11 +39,11 @@
 | Heartbreaker | 36.00% | ~391 |
 | Kidnapped! | 36.00% | ~391 |
 | Pull the Plug | 35.00% | ~380 |
+| Soul Slayer | 35.00% | ~380 |
 | All Heart | 35.00% | ~380 |
 | Trick Question! | 35.00% | ~380 |
-| Soul Slayer | 34.00% | ~369 |
+| Final Showdown | 35.00% | ~380 |
 | The Downfall | 34.00% | ~369 |
-| Final Showdown | 34.00% | ~369 |
 | Spot of Tea? | 34.00% | ~369 |
 | Going Home | 34.00% | ~369 |
 | Extraordinary! | 33.00% | ~358 |
@@ -51,12 +51,12 @@
 | Flower Power | 28.00% | ~304 |
 | Shopping Spree! | 25.00% | ~271 |
 | Crowned | 23.00% | ~250 |
-| Max Level! | 15.00% | ~163 |
+| Max Level! | 16.00% | ~174 |
 | Dance Master | 10.00% | ~108 |
 | Bombs Away! | 9.00% | ~98 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,085 (Ranked 199)  
-Completed: 82 (7.56%) (Ranked 35)  
+Completed: 83 (7.65%) (Ranked 35)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -158,7 +158,7 @@ Completed: 82 (7.56%) (Ranked 35)
 | 2023-08-24 | 1,080 | 82 |
 | 2023-08-25 | 1,083 | 82 |
 | 2023-08-26 | 1,084 | 82 |
-| 2023-08-27 | 1,085 | 82 |
+| 2023-08-27 | 1,085 | 83 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

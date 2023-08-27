@@ -1056,9 +1056,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 4890,
+  "EOS_Progressed": 4891,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8661,6 +8661,11 @@
       "Time": "2023-08-27T19:04:09.2370642+00:00",
       "NumProgressed": 4890,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-27T21:04:18.7367908+00:00",
+      "NumProgressed": 4891,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -8720,7 +8725,7 @@
       "Name": "Viva Tropico!",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ACH_EP_BETTERREDTHANDEAD",
@@ -8728,7 +8733,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 782
+      "UsersEstimate": 783
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -8744,7 +8749,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 782
+      "UsersEstimate": 783
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -8768,7 +8773,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2200
+      "UsersEstimate": 2201
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -8832,7 +8837,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 3716
+      "UsersEstimate": 3717
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -8928,7 +8933,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2298
+      "UsersEstimate": 2299
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -8944,7 +8949,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1809
+      "UsersEstimate": 1810
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -8960,7 +8965,7 @@
       "Name": "Watch The World Burn",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ACH_WONDER_FAIRYTALE",
@@ -8968,7 +8973,7 @@
       "Name": "Fairy Tale Come True",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ACH_WONDER_FRENCHCONNECTION",
@@ -8991,15 +8996,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 4890,
+      "Progressed": 4891,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-08-19T05:59:02.5104499+00:00",
-  "LastChanged_Achievements": "2023-08-27T20:03:52.4930509+00:00",
+  "LastChanged_Achievements": "2023-08-27T21:04:18.7367901+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:51.1953585+00:00",
-  "LastUpdate_Ratings": "2023-08-27T19:58:40.1727877+00:00",
-  "LastUpdate_Achievements": "2023-08-27T20:03:52.4931097+00:00"
+  "LastUpdate_Ratings": "2023-08-27T20:59:11.3641914+00:00",
+  "LastUpdate_Achievements": "2023-08-27T21:04:18.7368712+00:00"
 }

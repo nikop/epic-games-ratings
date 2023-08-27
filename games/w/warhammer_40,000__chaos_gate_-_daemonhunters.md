@@ -19,13 +19,13 @@ Number of Ratings: 371  (23.09.2022)
 | A Foul Creche | 2.00% | ~63 |
 | Honoured Battle-Brother | 1.00% | ~32 |
 | Hold Your Ground | 1.00% | ~32 |
+| Corruption Cleanser | 1.00% | ~32 |
 | The Emperor Protects | 1.00% | ~32 |
 | Nemesis Master | 1.00% | ~32 |
 | Gunmaster | 1.00% | ~32 |
 | Just a Scratch | 1.00% | ~32 |
 | Execution Force | 1.00% | ~32 |
 | Hive Exterminator | 1.00% | ~32 |
-| Corruption Cleanser | 0.90% | ~29 |
 | Efficient Killer | 0.60% | ~19 |
 | Only in Death | 0.60% | ~19 |
 | Junk Banishment | 0.60% | ~19 |
