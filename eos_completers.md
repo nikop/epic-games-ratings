@@ -50,8 +50,8 @@
 | 48 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.33% |
 | 49 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.26% |
 | 50 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.17% |
-| 51 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.13% |
-| 52 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.11% |
+| 51 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.14% |
+| 52 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.13% |
 | 53 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.84% |
 | 54 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 4.76% |
 | 55 | [Bugsnax](games/b/bugsnax.md) | 4.73% |
@@ -61,7 +61,7 @@
 | 59 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.18% |
 | 60 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
 | 61 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.08% |
-| 62 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.97% |
+| 62 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.96% |
 | 63 | [ZZT!](games/z/zzt!.md) | 3.88% |
 | 64 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 65 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
@@ -78,9 +78,9 @@
 | 76 | [Monster Harvest](games/m/monster_harvest.md) | 2.93% |
 | 76 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 78 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.80% |
-| 79 | [Destiny 2](games/d/destiny_2.md) | 2.74% |
 | 79 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.74% |
-| 81 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
+| 80 | [Destiny 2](games/d/destiny_2.md) | 2.73% |
+| 80 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 82 | [The Bunker](games/t/the_bunker.md) | 2.61% |
 | 83 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.58% |
 | 83 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.58% |
@@ -91,7 +91,7 @@
 | 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.25% |
 | 90 | [Bloodshore](games/b/bloodshore.md) | 2.20% |
 | 91 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
-| 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.09% |
+| 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.08% |
 | 93 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.01% |
 | 94 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
 | 95 | [Night Book](games/n/night_book.md) | 1.86% |
@@ -158,7 +158,7 @@
 | 155 | [Train Valley](games/t/train_valley.md) | 0.45% |
 | 157 | [Tails of Iron](games/t/tails_of_iron.md) | 0.43% |
 | 157 | [Tchia](games/t/tchia.md) | 0.43% |
-| 159 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.41% |
+| 159 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 160 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.38% |
 | 160 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
 | 162 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.37% |
@@ -558,4 +558,4 @@
 | 265 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 265 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 265 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,116 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,117 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |

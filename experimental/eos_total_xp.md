@@ -450,6 +450,7 @@
 | [Shadow Gambit: The Cursed Crew](../games/s/shadow_gambit__the_cursed_crew.md) | 26 | 1,000 |
 | [Shadow Gangs](../games/s/shadow_gangs.md) | 42 | 1,000 |
 | [Shadow Tactics: Blades of the Shogun](../games/s/shadow_tactics__blades_of_the_shogun.md) | 44 | 1,000 |
+| [Shalnor Legends 2: Trials of Thunder](../games/d/d26c3a62ed20492f90a07c3a27e8db97.md) | 25 | 1,000 |
 | [Shame Legacy](../games/s/shame_legacy.md) | 15 | 1,000 |
 | [Sherlock Holmes The Awakened](../games/s/sherlock_holmes_the_awakened.md) | 28 | 1,000 |
 | [Shin-chan Me and the Professor on Summer Vacation](../games/s/shin-chan_me_and_the_professor_on_summer_vacation.md) | 46 | 1,000 |
