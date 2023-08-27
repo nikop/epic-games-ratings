@@ -14,17 +14,17 @@
 | Soundtrack | 62.00% | ~104 |
 | First aid | 61.00% | ~102 |
 | Antidote | 52.00% | ~87 |
-| Pick the right door | 24.00% | ~40 |
-| The third floor | 16.00% | ~27 |
-| One-way | 14.00% | ~23 |
-| On the right path | 13.00% | ~22 |
+| Pick the right door | 25.00% | ~42 |
+| The third floor | 17.00% | ~28 |
+| One-way | 15.00% | ~25 |
+| On the right path | 14.00% | ~23 |
 | It can't be true | 13.00% | ~22 |
 | I'm close now | 11.00% | ~18 |
 | Failed attempt | 11.00% | ~18 |
 | The real escape | 11.00% | ~18 |
+| Nightmare in the kitchen | 11.00% | ~18 |
 | Good choice | 11.00% | ~18 |
 | Take the long way round | 11.00% | ~18 |
-| Nightmare in the kitchen | 10.00% | ~17 |
 | He who seeks, finds! | 10.00% | ~17 |
 | Born again | 7.00% | ~12 |
 | 373 | 5.00% | ~8 |

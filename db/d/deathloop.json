@@ -4,11 +4,11 @@
   "ProductSlug": "deathloop",
   "Ranking_Rating": 501,
   "Ranking_Popularity": 442,
-  "Ranking_PopularitySum": 369,
+  "Ranking_PopularitySum": 367,
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 341,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-03-24T15:00:00+00:00",
     "PcReleaseDate": "2021-09-14T15:00:00+00:00",
@@ -736,10 +736,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 202,
       "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2023-08-27T12:59:39.8551397+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 203,
+      "NumberOfAwardsMax": 34
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 202,
+  "NumberOfAwards": 203,
   "NumberOfAwardsMax": 34,
   "MaxAwardTitle": "Unique Visuals",
   "Tags": [
@@ -771,7 +777,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -797,8 +803,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:46.7837121+00:00",
-  "LastChanged": "2023-08-19T12:58:47.7002298+00:00",
+  "LastChanged": "2023-08-27T12:59:39.8551396+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:07.8843008+00:00",
-  "LastUpdate_Ratings": "2023-08-27T11:58:12.858234+00:00",
-  "LastUpdate_Achievements": "2023-08-27T12:07:31.9327169+00:00"
+  "LastUpdate_Ratings": "2023-08-27T12:59:39.8551402+00:00",
+  "LastUpdate_Achievements": "2023-08-27T13:08:57.2628162+00:00"
 }

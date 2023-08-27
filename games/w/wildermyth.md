@@ -8,9 +8,9 @@ Number of Ratings: 45  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Cost of Heroism | 40.00% | ~550 |
 | Me and My Familiar | 37.00% | ~509 |
-| This Too Shall Pass | 31.00% | ~426 |
-| Passing Shadow | 30.00% | ~412 |
-| Cutthroat Competitors | 30.00% | ~412 |
+| This Too Shall Pass | 31.00% | ~427 |
+| Passing Shadow | 30.00% | ~413 |
+| Cutthroat Competitors | 30.00% | ~413 |
 | How Romantic! | 28.00% | ~385 |
 | Daybreak | 28.00% | ~385 |
 | Gotta Ca... Must Collect All of Them | 26.00% | ~358 |
@@ -28,9 +28,9 @@ Number of Ratings: 45  (23.09.2022)
 | Another Tale to Tell | 8.00% | ~110 |
 | Let Me Get My Chisel | 7.00% | ~96 |
 | A Story of Heroes | 7.00% | ~96 |
-| Legends Never Die | 6.00% | ~82 |
-| All My Birds, Safely Home | 6.00% | ~82 |
-| Turncoat | 6.00% | ~82 |
+| Legends Never Die | 6.00% | ~83 |
+| All My Birds, Safely Home | 6.00% | ~83 |
+| Turncoat | 6.00% | ~83 |
 | In Soil, In Smoke | 5.00% | ~69 |
 | A Hunger, Sated | 5.00% | ~69 |
 | Wingknight's Prowess | 5.00% | ~69 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | We Call That Mortificient! | 0.90% | ~12 |
 | Peacemaker | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,375 (Ranked 189)  
+Progressed: 1,376 (Ranked 189)  
 Completed: 5 (0.36%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,6 +169,7 @@ Completed: 5 (0.36%) (Ranked 165)
 | 2023-08-21 | 1,371 | 5 |
 | 2023-08-25 | 1,373 | 5 |
 | 2023-08-26 | 1,375 | 5 |
+| 2023-08-27 | 1,376 | 5 |
 ## Awards
 Max (Character Customization): 28  (Ranked 467)  
 Sum: 28 (Ranked 480)  

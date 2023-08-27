@@ -6,8 +6,8 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 2.00% | ~2,704 |
-| Titan's First Steps | 2.00% | ~2,704 |
+| Sponsored by Argon | 2.00% | ~2,705 |
+| Titan's First Steps | 2.00% | ~2,705 |
 | Basic in Bulk | 1.00% | ~1,352 |
 | Disintermediation | 1.00% | ~1,352 |
 | It's Free Real Estate | 1.00% | ~1,352 |
@@ -38,6 +38,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Research & Development | 0.40% | ~541 |
 | Vanity, Verily | 0.40% | ~541 |
 | Fated Encounters | 0.40% | ~541 |
+| For the Hoard! | 0.40% | ~541 |
 | Hidden Potential | 0.40% | ~541 |
 | Power of Love | 0.40% | ~541 |
 | Efficient Floor Space | 0.40% | ~541 |
@@ -58,7 +59,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | The King's Caprice | 0.30% | ~406 |
 | Thirst for Knowledge | 0.30% | ~406 |
 | Big Game Hunting | 0.30% | ~406 |
-| For the Hoard! | 0.30% | ~406 |
 | Booty by the Boatload | 0.30% | ~406 |
 | Scrapbooker | 0.30% | ~406 |
 | Archivist | 0.30% | ~406 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~135 |
 | Cash Only Please | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,223 (Ranked 67)  
-Completed: 138 (0.10%) (Ranked 212)  
+Progressed: 135,227 (Ranked 67)  
+Completed: 138 (0.10%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -248,7 +248,7 @@ Completed: 138 (0.10%) (Ranked 212)
 | 2023-08-24 | 135,040 | 138 |
 | 2023-08-25 | 135,108 | 138 |
 | 2023-08-26 | 135,191 | 138 |
-| 2023-08-27 | 135,223 | 138 |
+| 2023-08-27 | 135,227 | 138 |
 ## Awards
 Max (Great for Beginners): 4,716  (Ranked 71)  
 Sum: 27,147 (Ranked 47)  

@@ -5,14 +5,14 @@ Rating: 3.94 (Ranked 951)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~53,554 |
-| First One’s Free | 65.00% | ~47,040 |
-| Neophyte Ninja | 50.00% | ~36,185 |
+| Downed but Not Outed | 74.00% | ~53,555 |
+| First One’s Free | 65.00% | ~47,041 |
+| Neophyte Ninja | 50.00% | ~36,186 |
 | Too Old for This | 48.00% | ~34,738 |
+| Fancy Pants | 36.00% | ~26,054 |
 | Case Closed | 35.00% | ~25,330 |
-| Fancy Pants | 35.00% | ~25,330 |
 | King of the Hill | 34.00% | ~24,606 |
-| Underworld Initiate | 29.00% | ~20,987 |
+| Underworld Initiate | 29.00% | ~20,988 |
 | Roid Ranger | 21.00% | ~15,198 |
 | Off the Rocks | 20.00% | ~14,474 |
 | True Player | 19.00% | ~13,750 |
@@ -28,7 +28,7 @@ Rating: 3.94 (Ranked 951)
 | I Like Trains | 8.00% | ~5,790 |
 | Foo Finder | 7.00% | ~5,066 |
 | Savvy Seeker | 6.00% | ~4,342 |
-| Legend Looter | 5.00% | ~3,618 |
+| Legend Looter | 5.00% | ~3,619 |
 | Imports and Exports | 4.00% | ~2,895 |
 | Olympus Ascended | 4.00% | ~2,895 |
 | Cracked the Jack | 4.00% | ~2,895 |
@@ -43,7 +43,7 @@ Rating: 3.94 (Ranked 951)
 | Geek Out | 0.60% | ~434 |
 | Full House | 0.20% | ~145 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,370 (Ranked 79)  
+Progressed: 72,371 (Ranked 79)  
 Completed: 42 (0.06%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,17 +172,17 @@ Completed: 42 (0.06%) (Ranked 227)
 | 2023-08-24 | 72,287 | 41 |
 | 2023-08-25 | 72,307 | 42 |
 | 2023-08-26 | 72,349 | 42 |
-| 2023-08-27 | 72,370 | 42 |
+| 2023-08-27 | 72,371 | 42 |
 ## Awards
 Max (Diverse Characters): 407  (Ranked 215)  
-Sum: 1,938 (Ranked 203)  
+Sum: 1,941 (Ranked 203)  
 Diff (max vs sum): 12  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 407 |
 | This game has Quickly Understood Controls | 398 |
 | This game is Highly Recommended | 389 |
-| This game has Challenging Combat | 375 |
+| This game has Challenging Combat | 378 |
 | This game has Amazing Characters | 369 |
 | This game is Great for Quick Sessions | 70 |
 | This game has Amazing Storytelling | 52 |
@@ -339,4 +339,4 @@ Diff (max vs sum): 12
 | 2023-08-24 | 3.94 | 406 | 1,930 |
 | 2023-08-25 | 3.94 | 406 | 1,932 |
 | 2023-08-26 | 3.94 | 407 | 1,936 |
-| 2023-08-27 | 3.94 | 407 | 1,938 |
+| 2023-08-27 | 3.94 | 407 | 1,941 |

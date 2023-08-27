@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1114,
+  "EOS_Progressed": 1115,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3906,6 +3906,11 @@
       "Time": "2023-08-27T10:04:02.9338818+00:00",
       "NumProgressed": 1114,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-27T13:06:20.1585508+00:00",
+      "NumProgressed": 1115,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4043,9 +4048,9 @@
       "ID": "objective_hero_level_up_3",
       "SetID": "bm61c2p",
       "Name": "Lieutenant",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 112
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -4109,7 +4114,7 @@
       "Name": "Getting Deployment",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -4141,7 +4146,7 @@
       "Name": "On Target",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -4220,14 +4225,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1114,
+      "Progressed": 1115,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-27T12:04:52.3035364+00:00",
+  "LastChanged_Achievements": "2023-08-27T13:06:20.1585504+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:58:05.1002416+00:00",
-  "LastUpdate_Ratings": "2023-08-27T11:59:11.6024464+00:00",
-  "LastUpdate_Achievements": "2023-08-27T12:04:52.3036049+00:00"
+  "LastUpdate_Ratings": "2023-08-27T13:00:41.9762438+00:00",
+  "LastUpdate_Achievements": "2023-08-27T13:06:20.158591+00:00"
 }

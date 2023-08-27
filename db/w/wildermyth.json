@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 480,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -151,9 +151,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1375,
+  "EOS_Progressed": 1376,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -1391,6 +1391,11 @@
       "Time": "2023-08-26T20:03:19.834194+00:00",
       "NumProgressed": 1375,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-27T13:03:11.0207349+00:00",
+      "NumProgressed": 1376,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 56,
@@ -1474,7 +1479,7 @@
       "Name": "Passing Shadow",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "achievement_friendsBlock20Times",
@@ -1562,7 +1567,7 @@
       "Name": "This Too Shall Pass",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "achievement_loversVengeance10Kills",
@@ -1586,7 +1591,7 @@
       "Name": "Legends Never Die",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "achievement_rivalStuntAbility5Times",
@@ -1594,7 +1599,7 @@
       "Name": "Cutthroat Competitors",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -1698,7 +1703,7 @@
       "Name": "All My Birds, Safely Home",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "enduringWar_destroyCores",
@@ -1722,7 +1727,7 @@
       "Name": "Turncoat",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "theme_bear_kill2EnemiesSimultaneously",
@@ -1849,15 +1854,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1375,
+      "Progressed": 1376,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-07-08T20:01:41.3411794+00:00",
-  "LastChanged_Achievements": "2023-08-27T11:01:31.9126838+00:00",
+  "LastChanged_Achievements": "2023-08-27T13:03:11.0207333+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:58:06.5781237+00:00",
-  "LastUpdate_Ratings": "2023-08-27T11:59:14.9968291+00:00",
-  "LastUpdate_Achievements": "2023-08-27T11:01:31.9127465+00:00"
+  "LastUpdate_Ratings": "2023-08-27T13:00:43.9959244+00:00",
+  "LastUpdate_Achievements": "2023-08-27T13:03:11.0226615+00:00"
 }

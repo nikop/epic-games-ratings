@@ -6,25 +6,25 @@ Rating: 4.45 (Ranked 634)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 46.00% | ~1,627 |
-| Confirming Suspicions | 40.00% | ~1,414 |
+| Confirming Suspicions | 40.00% | ~1,415 |
 | The Kraken Wakes | 36.00% | ~1,273 |
 | It's Starting to Crack | 32.00% | ~1,132 |
 | Change the Channel | 30.00% | ~1,061 |
-| Lord of War | 29.00% | ~1,025 |
+| Lord of War | 29.00% | ~1,026 |
 | Taking it back | 27.00% | ~955 |
-| Resourceful | 26.00% | ~919 |
+| Resourceful | 26.00% | ~920 |
 | Target America | 25.00% | ~884 |
-| The Kraken Sleeps | 23.00% | ~813 |
+| The Kraken Sleeps | 23.00% | ~814 |
 | Organ Grinder | 22.00% | ~778 |
 | As Quiet as a Mouse | 22.00% | ~778 |
 | Liberté | 21.00% | ~743 |
 | Sharpshooter | 21.00% | ~743 |
-| Explosive Efficiency | 18.00% | ~636 |
+| Explosive Efficiency | 18.00% | ~637 |
 | Gunslinger | 17.00% | ~601 |
 | Just a Flesh Wound | 16.00% | ~566 |
-| Climbing the Ladder | 15.00% | ~530 |
-| Der Geist | 15.00% | ~530 |
-| Close Quarters | 15.00% | ~530 |
+| Climbing the Ladder | 15.00% | ~531 |
+| Der Geist | 15.00% | ~531 |
+| Close Quarters | 15.00% | ~531 |
 | Fields of Glory | 14.00% | ~495 |
 | Skirmisher | 14.00% | ~495 |
 | Die Nussknacker Sweet! | 14.00% | ~495 |
@@ -46,9 +46,9 @@ Rating: 4.45 (Ranked 634)
 | Tinkerer | 4.00% | ~141 |
 | Locomotion Commotion | 4.00% | ~141 |
 | Road Rage | 4.00% | ~141 |
-| Last Resort | 4.00% | ~139 |
-| Siegebreaker | 4.00% | ~139 |
-| Ghost of Falaise | 4.00% | ~139 |
+| Last Resort | 4.00% | ~140 |
+| Siegebreaker | 4.00% | ~140 |
+| Ghost of Falaise | 4.00% | ~140 |
 | Burn after reading | 3.00% | ~106 |
 | Souvenir hunter | 3.00% | ~106 |
 | Shoot for the Moon | 3.00% | ~106 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 634)
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,536 (Ranked 153)  
+Progressed: 3,537 (Ranked 153)  
 Completed: 9 (0.25%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 9 (0.25%) (Ranked 180)
 | 2023-08-24 | 3,525 | 9 |
 | 2023-08-25 | 3,527 | 9 |
 | 2023-08-26 | 3,532 | 9 |
-| 2023-08-27 | 3,536 | 9 |
+| 2023-08-27 | 3,537 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

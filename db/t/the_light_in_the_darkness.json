@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2257,
+  "EOS_Progressed": 2258,
   "EOS_Completed": 202,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 8.95,
   "EosHistory": [
@@ -5323,6 +5323,11 @@
       "Time": "2023-08-27T12:06:13.6577234+00:00",
       "NumProgressed": 2257,
       "NumCompleted": 202
+    },
+    {
+      "Time": "2023-08-27T13:07:38.9891985+00:00",
+      "NumProgressed": 2258,
+      "NumCompleted": 202
     }
   ],
   "TotalAchievements": 12,
@@ -5382,7 +5387,7 @@
       "Name": "Jude",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "Le Juif et la France",
@@ -5429,7 +5434,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2257,
+      "Progressed": 2258,
       "Completed": 202
     }
   ],
@@ -5437,8 +5442,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-08-27T12:06:13.6577229+00:00",
+  "LastChanged_Achievements": "2023-08-27T13:07:38.9891979+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:56:57.0664875+00:00",
-  "LastUpdate_Ratings": "2023-08-27T11:57:19.7970491+00:00",
-  "LastUpdate_Achievements": "2023-08-27T12:06:13.6577732+00:00"
+  "LastUpdate_Ratings": "2023-08-27T12:58:50.2328806+00:00",
+  "LastUpdate_Achievements": "2023-08-27T13:07:38.9892312+00:00"
 }

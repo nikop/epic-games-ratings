@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 180,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -476,9 +476,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3536,
+  "EOS_Progressed": 3537,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -6236,6 +6236,11 @@
       "Time": "2023-08-27T11:05:22.9762213+00:00",
       "NumProgressed": 3536,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-27T13:07:22.7184941+00:00",
+      "NumProgressed": 3537,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -6247,7 +6252,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -6415,7 +6420,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1414
+      "UsersEstimate": 1415
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -6447,7 +6452,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -6455,7 +6460,7 @@
       "Name": "Lord of War",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1025
+      "UsersEstimate": 1026
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -6471,7 +6476,7 @@
       "Name": "Resourceful",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -6479,7 +6484,7 @@
       "Name": "Der Geist",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -6503,7 +6508,7 @@
       "Name": "Close Quarters",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -6655,7 +6660,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 813
+      "UsersEstimate": 814
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -6735,7 +6740,7 @@
       "Name": "Last Resort",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
@@ -6743,7 +6748,7 @@
       "Name": "Siegebreaker",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "REWARD_DLC02_02_GHOST_OF_FALAISE",
@@ -6751,7 +6756,7 @@
       "Name": "Ghost of Falaise",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "REWARD_DLC02_02_OPERATION_OVERLORD",
@@ -6814,13 +6819,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3487,
+      "Progressed": 3488,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3536,
+      "Progressed": 3537,
       "Completed": 9
     }
   ],
@@ -6828,8 +6833,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-08-19T13:59:32.9786794+00:00",
-  "LastChanged_Achievements": "2023-08-27T12:05:57.1214516+00:00",
+  "LastChanged_Achievements": "2023-08-27T13:07:22.7184936+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:12.9306959+00:00",
-  "LastUpdate_Ratings": "2023-08-27T11:59:32.6041759+00:00",
-  "LastUpdate_Achievements": "2023-08-27T12:05:57.1215633+00:00"
+  "LastUpdate_Ratings": "2023-08-27T13:01:01.1715469+00:00",
+  "LastUpdate_Achievements": "2023-08-27T13:07:22.7185759+00:00"
 }

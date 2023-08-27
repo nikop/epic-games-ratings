@@ -4,7 +4,7 @@
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 515,
+  "EOS_Progressed": 516,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 180,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.78,
   "EosHistory": [
@@ -1056,6 +1056,11 @@
       "Time": "2023-08-27T12:05:11.7326889+00:00",
       "NumProgressed": 515,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-27T13:06:38.8922607+00:00",
+      "NumProgressed": 516,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1076,7 +1081,7 @@
       "Name": "A New Journey",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "_03_FinishAct1",
@@ -1084,7 +1089,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1122,9 +1127,9 @@
       "ID": "_08_Completion_10",
       "SetID": "8a1io5d",
       "Name": "Swabbie",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 212
     },
     {
       "ID": "_09_Completion_20",
@@ -1275,14 +1280,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 515,
+      "Progressed": 516,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-27T12:05:11.7326884+00:00",
+  "LastChanged_Achievements": "2023-08-27T13:06:38.8922603+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:45.1302228+00:00",
-  "LastUpdate_Ratings": "2023-08-27T12:01:01.4190566+00:00",
-  "LastUpdate_Achievements": "2023-08-27T12:05:11.7327317+00:00"
+  "LastUpdate_Ratings": "2023-08-27T13:02:25.2728387+00:00",
+  "LastUpdate_Achievements": "2023-08-27T13:06:38.8922795+00:00"
 }

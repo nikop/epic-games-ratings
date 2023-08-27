@@ -1,7 +1,7 @@
 # Crysis 3 Remastered
 [Store](https://store.epicgames.com/en-US/p/crysis-3-remastered)  
 [View Rawdata](../../db/c/crysis_3_remastered.json)  
-Rating: 4.65 (Ranked 300)  
+Rating: 4.66 (Ranked 277)  
 Number of Ratings: 494  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 169  (Ranked 289)  
@@ -93,3 +93,4 @@ Diff (max vs sum): -98
 | 2023-07-20 | 4.66 | - | 168 | 168 |
 | 2023-08-11 | 4.66 | - | 169 | 169 |
 | 2023-08-26 | 4.65 | - | 169 | 169 |
+| 2023-08-27 | 4.66 | - | 169 | 169 |

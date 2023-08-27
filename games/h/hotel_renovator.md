@@ -11,12 +11,12 @@ Rating: 4.50 (Ranked 560)
 | Memento | 62.00% | ~597 |
 | Let there be light | 60.00% | ~578 |
 | I think you dropped this | 55.00% | ~530 |
-| Soulmate? | 53.00% | ~510 |
+| Soulmate? | 54.00% | ~520 |
 | Excellent service | 49.00% | ~472 |
 | Roll with it | 46.00% | ~443 |
 | Humble beginnings | 44.00% | ~424 |
 | Love is in the air | 44.00% | ~424 |
-| Fine, I'll do it myself | 42.00% | ~404 |
+| Fine, I'll do it myself | 43.00% | ~414 |
 | Moving up | 42.00% | ~404 |
 | No need to call anyone | 39.00% | ~376 |
 | Big fortune | 32.00% | ~308 |

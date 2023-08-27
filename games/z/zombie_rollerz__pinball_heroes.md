@@ -14,7 +14,7 @@ Rating: 4.30 (Ranked 793)
 | Duscot Steamcity | 50.00% | ~73 |
 | The Shaman | 47.00% | ~69 |
 | The Penguin | 46.00% | ~67 |
-| The Magician | 42.00% | ~61 |
+| The Magician | 43.00% | ~63 |
 | Level Up!! | 39.00% | ~57 |
 | The Tunneler | 39.00% | ~57 |
 | The Shield | 38.00% | ~55 |
@@ -22,7 +22,7 @@ Rating: 4.30 (Ranked 793)
 | Topped up | 29.00% | ~42 |
 | The Bird | 28.00% | ~41 |
 | The Idol | 27.00% | ~39 |
-| The Ninja | 26.00% | ~38 |
+| The Ninja | 27.00% | ~39 |
 | Inferno Ruins | 25.00% | ~36 |
 | I'm Rich | 24.00% | ~35 |
 | 1 is all I need | 23.00% | ~34 |

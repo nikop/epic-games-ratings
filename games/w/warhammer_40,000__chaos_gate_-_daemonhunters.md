@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Mass Extinction | 0.00% | ~0 |
 | Not a Mote of Corruption | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,167 (Ranked 157)  
+Progressed: 3,168 (Ranked 157)  
 Completed: 0 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 0 (0.00%) (Ranked 265)
 | 2023-08-24 | 3,162 | 0 |
 | 2023-08-25 | 3,163 | 0 |
 | 2023-08-26 | 3,166 | 0 |
-| 2023-08-27 | 3,167 | 0 |
+| 2023-08-27 | 3,168 | 0 |
 ## Awards
 Max (Character Customization): 220  (Ranked 264)  
 Sum: 473 (Ranked 305)  

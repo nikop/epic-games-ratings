@@ -49,8 +49,8 @@
 | Mom got better | 38.00% | ~103 |
 | Deal with life | 38.00% | ~103 |
 | GYM professional | 38.00% | ~103 |
+| Get out of my apartment! | 38.00% | ~103 |
 | The die is cast | 38.00% | ~103 |
-| Get out of my apartment! | 37.00% | ~100 |
 | Seashell hunter | 36.00% | ~98 |
 | Gang wrangler | 35.00% | ~95 |
 | Problems of cyborgs | 35.00% | ~95 |
