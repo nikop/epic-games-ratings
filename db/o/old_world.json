@@ -1647,9 +1647,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13612,
+  "EOS_Progressed": 13614,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10397,6 +10397,11 @@
       "Time": "2023-08-27T17:07:26.9567367+00:00",
       "NumProgressed": 13612,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-27T22:07:40.2940147+00:00",
+      "NumProgressed": 13614,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -11006,9 +11011,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_READY",
       "SetID": "9201eeb",
       "Name": "Ready",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 95
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_REBUILDER",
@@ -11032,7 +11037,7 @@
       "Name": "Settler",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -11062,9 +11067,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_VICTORIOUS",
       "SetID": "9201eeb",
       "Name": "Victorious",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 136
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_WARRIOR",
@@ -11742,9 +11747,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_CIRCUS_MAXIMUS",
       "SetID": "9201eeb",
       "Name": "Circus Maximus",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 109
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_COLOSSUS",
@@ -12160,7 +12165,7 @@
       "Name": "Play a Single Player Game",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
@@ -12688,7 +12693,7 @@
       "Name": "The Clergy",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_DEPOSE_TRIBE",
@@ -12775,21 +12780,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13612,
+      "Progressed": 13614,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13612,
+      "Progressed": 13614,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-24T04:00:31.5764786+00:00",
-  "LastChanged_Achievements": "2023-08-27T21:08:08.4434572+00:00",
+  "LastChanged_Achievements": "2023-08-27T22:07:40.2940139+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:39.7773306+00:00",
-  "LastUpdate_Ratings": "2023-08-27T21:01:27.3853532+00:00",
-  "LastUpdate_Achievements": "2023-08-27T21:08:08.4443361+00:00"
+  "LastUpdate_Ratings": "2023-08-27T22:01:13.594788+00:00",
+  "LastUpdate_Achievements": "2023-08-27T22:07:40.294776+00:00"
 }

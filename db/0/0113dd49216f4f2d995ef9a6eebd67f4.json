@@ -224,9 +224,9 @@
       "ID": "SG_ACROSSTHESTYX",
       "SetID": "bj5g0n4",
       "Name": "Across The Styx",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SG_AGAINSTALLODDS",
@@ -376,9 +376,9 @@
       "ID": "SG_NOTTAKINGANYCHANCES",
       "SetID": "bj5g0n4",
       "Name": "Not Taking Any Chances",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SG_QUEENWITHOUTATHRONE",
@@ -519,8 +519,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-08-27T21:05:45.4041851+00:00",
+  "LastChanged_Achievements": "2023-08-27T22:05:26.6599092+00:00",
   "LastUpdate_AppInfo": "2023-08-24T08:56:52.7420093+00:00",
-  "LastUpdate_Ratings": "2023-08-27T20:59:06.7649346+00:00",
-  "LastUpdate_Achievements": "2023-08-27T21:05:45.4042222+00:00"
+  "LastUpdate_Ratings": "2023-08-27T21:59:05.2995789+00:00",
+  "LastUpdate_Achievements": "2023-08-27T22:05:26.6599313+00:00"
 }

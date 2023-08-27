@@ -16,9 +16,9 @@ Number of Ratings: 398  (23.09.2022)
 | The Legend of Langostino | 17.00% | ~831 |
 | Caribbean Comrade | 16.00% | ~783 |
 | The Dreamer of Dreams | 16.00% | ~783 |
+| Happy Ending? | 11.00% | ~538 |
 | Go Sovereigns! | 11.00% | ~538 |
 | For Science! | 11.00% | ~538 |
-| Happy Ending? | 10.00% | ~489 |
 | Of Seals And Men | 10.00% | ~489 |
 | Shackadelic | 10.00% | ~489 |
 | Double Trouble | 8.00% | ~391 |

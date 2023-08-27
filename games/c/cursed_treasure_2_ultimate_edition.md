@@ -32,16 +32,16 @@
 | Clean Forests | 61.00% | ~101 |
 | Brilliant: Holy Mountain | 61.00% | ~101 |
 | Lieutenant of the Evil | 57.00% | ~95 |
+| Avada Kedavra | 55.00% | ~91 |
 | Starry: Meadowshire | 55.00% | ~91 |
-| Avada Kedavra | 54.00% | ~90 |
 | Brilliant: Tanglewood | 52.00% | ~86 |
 | Starry: Holy Mountain | 52.00% | ~86 |
 | It's a Trap | 52.00% | ~86 |
+| Brilliant: Arcania | 49.00% | ~81 |
 | Deposition | 48.00% | ~80 |
-| Brilliant: Arcania | 48.00% | ~80 |
 | Starry: Tanglewood | 46.00% | ~76 |
+| Starry: Arcania | 43.00% | ~71 |
 | Sing, My Angel | 42.00% | ~70 |
-| Starry: Arcania | 42.00% | ~70 |
 | The Coreland | 39.00% | ~65 |
 | Feed the Fishes | 37.00% | ~61 |
 | Starry: The Coreland | 36.00% | ~60 |

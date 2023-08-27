@@ -8,11 +8,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | ---- | ---------- | ----- |
 | Sponsored by Argon | 2.00% | ~2,705 |
 | Titan's First Steps | 2.00% | ~2,705 |
-| Basic in Bulk | 1.00% | ~1,352 |
-| Disintermediation | 1.00% | ~1,352 |
-| It's Free Real Estate | 1.00% | ~1,352 |
-| Tinkle of Coins | 1.00% | ~1,352 |
-| Capitalism Ho! | 1.00% | ~1,352 |
+| Basic in Bulk | 1.00% | ~1,353 |
+| Disintermediation | 1.00% | ~1,353 |
+| It's Free Real Estate | 1.00% | ~1,353 |
+| Tinkle of Coins | 1.00% | ~1,353 |
+| Capitalism Ho! | 1.00% | ~1,353 |
 | Budding Merchant | 0.90% | ~1,217 |
 | One Easy Payment | 0.80% | ~1,082 |
 | Some Assembly Required | 0.80% | ~1,082 |
@@ -21,11 +21,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | Own the Means of Production | 0.80% | ~1,082 |
 | One-Armed Bandit | 0.70% | ~947 |
 | Through Repetition, Perfection | 0.70% | ~947 |
-| The Daily Grind | 0.60% | ~811 |
-| Bounty Hunters | 0.60% | ~811 |
-| Flooding the Market | 0.60% | ~811 |
-| Where it Hurts | 0.60% | ~811 |
-| Dungeon Imports | 0.60% | ~811 |
+| The Daily Grind | 0.60% | ~812 |
+| Bounty Hunters | 0.60% | ~812 |
+| Flooding the Market | 0.60% | ~812 |
+| Where it Hurts | 0.60% | ~812 |
+| Dungeon Imports | 0.60% | ~812 |
 | Ascended | 0.50% | ~676 |
 | Blank Page Syndrome | 0.50% | ~676 |
 | Demand for Supplies | 0.50% | ~676 |
@@ -94,17 +94,17 @@ Number of Ratings: 12,664  (23.09.2022)
 | Special Ingredient | 0.30% | ~406 |
 | Exotic Commodities | 0.30% | ~406 |
 | Complete Monopoly | 0.30% | ~406 |
-| The Free Encyclopedia | 0.20% | ~270 |
-| Fillin' the Bin | 0.20% | ~270 |
-| Thank You Tom Nook | 0.20% | ~270 |
-| Ritualist | 0.20% | ~270 |
-| A Legend is Born | 0.20% | ~270 |
-| Jackpot! | 0.20% | ~270 |
-| Eternal Crusade | 0.20% | ~270 |
-| Master Recycler | 0.20% | ~270 |
-| All Accounted For | 0.20% | ~270 |
-| Economy of Scarce | 0.20% | ~270 |
-| King's Blade | 0.20% | ~270 |
+| The Free Encyclopedia | 0.20% | ~271 |
+| Fillin' the Bin | 0.20% | ~271 |
+| Thank You Tom Nook | 0.20% | ~271 |
+| Ritualist | 0.20% | ~271 |
+| A Legend is Born | 0.20% | ~271 |
+| Jackpot! | 0.20% | ~271 |
+| Eternal Crusade | 0.20% | ~271 |
+| Master Recycler | 0.20% | ~271 |
+| All Accounted For | 0.20% | ~271 |
+| Economy of Scarce | 0.20% | ~271 |
+| King's Blade | 0.20% | ~271 |
 | Bane of Legends | 0.10% | ~135 |
 | Ultimate Collector | 0.10% | ~135 |
 | Oligarch Monarch | 0.10% | ~135 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~135 |
 | Cash Only Please | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,249 (Ranked 67)  
+Progressed: 135,253 (Ranked 67)  
 Completed: 138 (0.10%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,7 +248,7 @@ Completed: 138 (0.10%) (Ranked 213)
 | 2023-08-24 | 135,040 | 138 |
 | 2023-08-25 | 135,108 | 138 |
 | 2023-08-26 | 135,191 | 138 |
-| 2023-08-27 | 135,249 | 138 |
+| 2023-08-27 | 135,253 | 138 |
 ## Awards
 Max (Great for Beginners): 4,717  (Ranked 71)  
 Sum: 27,150 (Ranked 47)  

@@ -5776,9 +5776,9 @@
       "Count": 3738
     }
   ],
-  "EOS_Progressed": 135249,
+  "EOS_Progressed": 135253,
   "EOS_Completed": 138,
-  "EOS_NewPlayers": 400,
+  "EOS_NewPlayers": 399,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -19036,6 +19036,11 @@
       "Time": "2023-08-27T21:08:15.0170852+00:00",
       "NumProgressed": 135249,
       "NumCompleted": 138
+    },
+    {
+      "Time": "2023-08-27T22:07:46.4311482+00:00",
+      "NumProgressed": 135253,
+      "NumCompleted": 138
     }
   ],
   "TotalAchievements": 112,
@@ -19047,7 +19052,7 @@
       "Name": "The Daily Grind",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "advlevel02",
@@ -19183,7 +19188,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "boss02",
@@ -19263,7 +19268,7 @@
       "Name": "The Free Encyclopedia",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "collection05",
@@ -19279,7 +19284,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1352
+      "UsersEstimate": 1353
     },
     {
       "ID": "commonres02",
@@ -19303,7 +19308,7 @@
       "Name": "Fillin\u0027 the Bin",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "craft01",
@@ -19311,7 +19316,7 @@
       "Name": "Disintermediation",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1352
+      "UsersEstimate": 1353
     },
     {
       "ID": "craft02",
@@ -19319,7 +19324,7 @@
       "Name": "Flooding the Market",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "craft03",
@@ -19351,7 +19356,7 @@
       "Name": "Where it Hurts",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "damage02",
@@ -19423,7 +19428,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1352
+      "UsersEstimate": 1353
     },
     {
       "ID": "expansion02",
@@ -19439,7 +19444,7 @@
       "Name": "Thank You Tom Nook",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "fullmoon",
@@ -19447,7 +19452,7 @@
       "Name": "Ritualist",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "furniture01",
@@ -19495,7 +19500,7 @@
       "Name": "A Legend is Born",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "fuseuncommon",
@@ -19519,7 +19524,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1352
+      "UsersEstimate": 1353
     },
     {
       "ID": "gold02",
@@ -19607,7 +19612,7 @@
       "Name": "Jackpot!",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "jackslot03",
@@ -19671,7 +19676,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "loot02",
@@ -19775,7 +19780,7 @@
       "Name": "Eternal Crusade",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "quest04",
@@ -19823,7 +19828,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1352
+      "UsersEstimate": 1353
     },
     {
       "ID": "sell02",
@@ -19855,7 +19860,7 @@
       "Name": "Master Recycler",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "tutorial",
@@ -19879,7 +19884,7 @@
       "Name": "All Accounted For",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "uncommonres01",
@@ -19903,7 +19908,7 @@
       "Name": "Economy of Scarce",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "workers01",
@@ -19935,22 +19940,22 @@
       "Name": "King\u0027s Blade",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     }
   ],
   "AchievementSets": [
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135249,
+      "Progressed": 135253,
       "Completed": 138
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-27T21:02:07.4000911+00:00",
-  "LastChanged_Achievements": "2023-08-27T21:08:15.0170846+00:00",
+  "LastChanged_Achievements": "2023-08-27T22:07:46.4311478+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:19.0477827+00:00",
-  "LastUpdate_Ratings": "2023-08-27T21:02:07.4000917+00:00",
-  "LastUpdate_Achievements": "2023-08-27T21:08:15.0173495+00:00"
+  "LastUpdate_Ratings": "2023-08-27T22:01:51.4037072+00:00",
+  "LastUpdate_Achievements": "2023-08-27T22:07:46.4313306+00:00"
 }

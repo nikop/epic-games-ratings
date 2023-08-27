@@ -18,10 +18,10 @@
 | Nothing but the Truth | 10.00% | ~5 |
 | Expert | 10.00% | ~5 |
 | Changing the World | 10.00% | ~5 |
+| Craftsmen | 8.00% | ~4 |
 | Bringing guns to a sword fight | 8.00% | ~4 |
 | Through Dangers Untold | 8.00% | ~4 |
 | Locked and Loaded | 8.00% | ~4 |
-| Craftsmen | 6.00% | ~3 |
 | Defeat Tezuth | 6.00% | ~3 |
 | Defeat Uskol | 6.00% | ~3 |
 | Witch | 6.00% | ~3 |

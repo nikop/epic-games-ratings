@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Statue ✔ | 62.00% | ~156 |
+| Statue ✔ | 63.00% | ~158 |
 | Recluse ✔ | 33.00% | ~83 |
 | Witch ✔ | 20.00% | ~50 |
-| Scent of Meat ✔ | 18.00% | ~45 |
+| Scent of Meat ✔ | 19.00% | ~48 |
 | Survival ✔ | 3.00% | ~8 |
 | Voodoo ✔ | 0.00% | ~0 |
 | Light will show the truth ✔ | 0.00% | ~0 |

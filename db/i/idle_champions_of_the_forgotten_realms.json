@@ -6142,10 +6142,10 @@
       "Count": 3377
     }
   ],
-  "EOS_Progressed": 225507,
+  "EOS_Progressed": 225518,
   "EOS_Completed": 2221,
-  "EOS_NewPlayers": 1809,
-  "EOS_NewCompleters": 26,
+  "EOS_NewPlayers": 1800,
+  "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -20317,6 +20317,11 @@
       "Time": "2023-08-27T21:08:36.5992331+00:00",
       "NumProgressed": 225507,
       "NumCompleted": 2221
+    },
+    {
+      "Time": "2023-08-27T22:08:07.0338303+00:00",
+      "NumProgressed": 225518,
+      "NumCompleted": 2221
     }
   ],
   "TotalAchievements": 516,
@@ -20958,9 +20963,9 @@
       "ID": "objective_completed_1153",
       "SetID": "415jc5c",
       "Name": "Speeds of Destruction",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 384
     },
     {
       "ID": "objective_completed_1154",
@@ -24455,21 +24460,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 191781,
+      "Progressed": 191792,
       "Completed": 3315
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 225507,
+      "Progressed": 225518,
       "Completed": 2221
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-27T14:01:09.3672113+00:00",
-  "LastChanged_Achievements": "2023-08-27T21:08:36.5992316+00:00",
+  "LastChanged_Achievements": "2023-08-27T22:08:07.0338296+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:53.3345914+00:00",
-  "LastUpdate_Ratings": "2023-08-27T21:01:42.965565+00:00",
-  "LastUpdate_Achievements": "2023-08-27T21:08:36.6020415+00:00"
+  "LastUpdate_Ratings": "2023-08-27T22:01:26.0671703+00:00",
+  "LastUpdate_Achievements": "2023-08-27T22:08:07.0361817+00:00"
 }

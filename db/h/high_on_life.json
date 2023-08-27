@@ -244,7 +244,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23984,
+  "EOS_Progressed": 23985,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
@@ -4524,6 +4524,11 @@
       "Time": "2023-08-27T21:05:38.9131817+00:00",
       "NumProgressed": 23984,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-08-27T22:05:20.8494661+00:00",
+      "NumProgressed": 23985,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 32,
@@ -4559,7 +4564,7 @@
       "Name": "Luglox Genocide",
       "Percentage": 43,
       "XP": 60,
-      "UsersEstimate": 10313
+      "UsersEstimate": 10314
     },
     {
       "ID": "ACH_APPLEBEES_BILL",
@@ -4575,7 +4580,7 @@
       "Name": "Creature Feature",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 7195
+      "UsersEstimate": 7196
     },
     {
       "ID": "ACH_GET_GUS",
@@ -4599,7 +4604,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 18228
+      "UsersEstimate": 18229
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -4639,7 +4644,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 19907
+      "UsersEstimate": 19908
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -4687,7 +4692,7 @@
       "Name": "Hardest Battle In The Game",
       "Percentage": 22,
       "XP": 45,
-      "UsersEstimate": 5276
+      "UsersEstimate": 5277
     },
     {
       "ID": "ACH_KILL_KRUBIS",
@@ -4719,7 +4724,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 17508
+      "UsersEstimate": 17509
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -4751,7 +4756,7 @@
       "Name": "Seeing All The Sights",
       "Percentage": 16,
       "XP": 45,
-      "UsersEstimate": 3837
+      "UsersEstimate": 3838
     },
     {
       "ID": "ACH_NIPULON_JOKE",
@@ -4783,29 +4788,29 @@
       "Name": "Series Wrap on Suit-O",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 5276
+      "UsersEstimate": 5277
     }
   ],
   "AchievementSets": [
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 23984,
+      "Progressed": 23985,
       "Completed": 12
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1277,
-      "Completed": 1277
+      "Progressed": 1278,
+      "Completed": 1278
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-08-14T02:13:15.3920394+00:00",
-  "LastChanged_Achievements": "2023-08-27T21:05:38.9131815+00:00",
+  "LastChanged_Achievements": "2023-08-27T22:05:20.8494658+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:40.4978625+00:00",
-  "LastUpdate_Ratings": "2023-08-27T21:01:27.016982+00:00",
-  "LastUpdate_Achievements": "2023-08-27T21:05:38.9132316+00:00"
+  "LastUpdate_Ratings": "2023-08-27T22:01:13.0751693+00:00",
+  "LastUpdate_Achievements": "2023-08-27T22:05:20.8495073+00:00"
 }

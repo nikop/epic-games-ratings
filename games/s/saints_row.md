@@ -6,46 +6,46 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 44.00% | ~28,599 |
-| To The Nines | 40.00% | ~25,999 |
-| Optimized | 35.00% | ~22,749 |
-| Performance Review | 34.00% | ~22,099 |
-| Making a Name | 33.00% | ~21,449 |
-| Tune Up | 32.00% | ~20,799 |
-| Landlord | 31.00% | ~20,149 |
-| Wet Work | 30.00% | ~19,499 |
-| The Side Job | 29.00% | ~18,849 |
-| Wrecking Ball | 26.00% | ~16,899 |
-| Food for Thought | 26.00% | ~16,899 |
-| Finders Keepers | 24.00% | ~15,599 |
-| A Young Empire | 24.00% | ~15,599 |
-| Work Ethic | 22.00% | ~14,299 |
-| Picking Fights | 19.00% | ~12,349 |
-| Power Players | 18.00% | ~11,699 |
-| Quality Time | 17.00% | ~11,049 |
-| Showdown | 16.00% | ~10,400 |
-| Et tu? | 16.00% | ~10,400 |
-| Took It to The Limit | 16.00% | ~10,400 |
-| Kitted Out | 13.00% | ~8,450 |
-| Hijacked | 11.00% | ~7,150 |
-| Masters of Santo Ileso | 11.00% | ~7,150 |
-| The Spins | 9.00% | ~5,850 |
-| The Mechanic | 9.00% | ~5,850 |
-| We could go home, or… | 7.00% | ~4,550 |
-| A Golden Age | 7.00% | ~4,550 |
-| Closet Space | 7.00% | ~4,550 |
-| Producer Credit | 7.00% | ~2,564 |
-| Challenge Accepted | 6.00% | ~3,900 |
-| Face Off | 6.00% | ~2,198 |
-| The Professional | 5.00% | ~3,250 |
-| Chaos Tamer | 5.00% | ~3,250 |
-| Untouchable | 5.00% | ~3,250 |
-| Free Refills | 5.00% | ~3,250 |
-| Smooth Moves | 5.00% | ~3,250 |
-| Hazardous Heist | 5.00% | ~1,832 |
-| Neighborly | 4.00% | ~2,600 |
-| Prankster | 4.00% | ~2,600 |
-| Tourist | 4.00% | ~2,600 |
+| First F#@!ing Day | 44.00% | ~28,606 |
+| To The Nines | 40.00% | ~26,006 |
+| Optimized | 35.00% | ~22,755 |
+| Performance Review | 34.00% | ~22,105 |
+| Making a Name | 33.00% | ~21,455 |
+| Tune Up | 32.00% | ~20,804 |
+| Landlord | 31.00% | ~20,154 |
+| Wet Work | 30.00% | ~19,504 |
+| The Side Job | 29.00% | ~18,854 |
+| Wrecking Ball | 26.00% | ~16,904 |
+| Food for Thought | 26.00% | ~16,904 |
+| Finders Keepers | 24.00% | ~15,603 |
+| A Young Empire | 24.00% | ~15,603 |
+| Work Ethic | 22.00% | ~14,303 |
+| Picking Fights | 19.00% | ~12,353 |
+| Power Players | 18.00% | ~11,703 |
+| Quality Time | 17.00% | ~11,052 |
+| Showdown | 16.00% | ~10,402 |
+| Et tu? | 16.00% | ~10,402 |
+| Took It to The Limit | 16.00% | ~10,402 |
+| Kitted Out | 13.00% | ~8,452 |
+| Hijacked | 11.00% | ~7,152 |
+| Masters of Santo Ileso | 11.00% | ~7,152 |
+| The Spins | 9.00% | ~5,851 |
+| The Mechanic | 9.00% | ~5,851 |
+| We could go home, or… | 7.00% | ~4,551 |
+| A Golden Age | 7.00% | ~4,551 |
+| Closet Space | 7.00% | ~4,551 |
+| Producer Credit | 7.00% | ~2,566 |
+| Challenge Accepted | 6.00% | ~3,901 |
+| Face Off | 6.00% | ~2,199 |
+| The Professional | 5.00% | ~3,251 |
+| Chaos Tamer | 5.00% | ~3,251 |
+| Untouchable | 5.00% | ~3,251 |
+| Free Refills | 5.00% | ~3,251 |
+| Smooth Moves | 5.00% | ~3,251 |
+| Hazardous Heist | 5.00% | ~1,833 |
+| Neighborly | 4.00% | ~2,601 |
+| Prankster | 4.00% | ~2,601 |
+| Tourist | 4.00% | ~2,601 |
 | Shopping Spree | 3.00% | ~1,950 |
 | Always Be Hustling | 3.00% | ~1,950 |
 | Community Outreach | 3.00% | ~1,950 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~130 |
 | Fiesta Time | 0.20% | ~130 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,997 (Ranked 85)  
+Progressed: 65,014 (Ranked 85)  
 Completed: 44 (0.07%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 44 (0.07%) (Ranked 225)
 | 2023-08-24 | 63,544 | 43 |
 | 2023-08-25 | 63,963 | 44 |
 | 2023-08-26 | 64,473 | 44 |
-| 2023-08-27 | 64,997 | 44 |
+| 2023-08-27 | 65,014 | 44 |
 ## Awards
 Max (Extremely Fun): 1,060  (Ranked 142)  
 Sum: 8,590 (Ranked 96)  

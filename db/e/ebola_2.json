@@ -1066,9 +1066,9 @@
       "ID": "achMeat",
       "SetID": "1al1mjg",
       "Name": "Scent of Meat \u2714",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 48
     },
     {
       "ID": "achSaveses",
@@ -1090,9 +1090,9 @@
       "ID": "achStatue",
       "SetID": "1al1mjg",
       "Name": "Statue \u2714",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 158
     },
     {
       "ID": "achVirus",
@@ -1121,8 +1121,8 @@
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2023-08-27T21:05:34.082638+00:00",
+  "LastChanged_Achievements": "2023-08-27T22:05:16.2531239+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:15.2286675+00:00",
-  "LastUpdate_Ratings": "2023-08-27T21:00:22.952946+00:00",
-  "LastUpdate_Achievements": "2023-08-27T21:05:34.0826607+00:00"
+  "LastUpdate_Ratings": "2023-08-27T22:00:13.2087524+00:00",
+  "LastUpdate_Achievements": "2023-08-27T22:05:16.25314+00:00"
 }

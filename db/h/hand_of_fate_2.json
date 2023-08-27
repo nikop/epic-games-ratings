@@ -880,7 +880,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 661411,
+  "EOS_Progressed": 661414,
   "EOS_Completed": 168,
   "EOS_NewPlayers": 324,
   "EOS_NewCompleters": 0,
@@ -13135,6 +13135,11 @@
       "Time": "2023-08-27T21:07:17.7040399+00:00",
       "NumProgressed": 661411,
       "NumCompleted": 168
+    },
+    {
+      "Time": "2023-08-27T22:06:53.0549803+00:00",
+      "NumProgressed": 661414,
+      "NumCompleted": 168
     }
   ],
   "TotalAchievements": 48,
@@ -13146,7 +13151,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 476216
+      "UsersEstimate": 476218
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -13154,7 +13159,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 383618
+      "UsersEstimate": 383620
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -13386,7 +13391,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 79369
+      "UsersEstimate": 79370
     },
     {
       "ID": "Achievement_32_Karma",
@@ -13410,7 +13415,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 165353
+      "UsersEstimate": 165354
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -13529,15 +13534,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 661411,
+      "Progressed": 661414,
       "Completed": 168
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-08-25T17:00:16.792448+00:00",
-  "LastChanged_Achievements": "2023-08-27T21:07:17.7040392+00:00",
+  "LastChanged_Achievements": "2023-08-27T22:06:53.0549798+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:22.0497359+00:00",
-  "LastUpdate_Ratings": "2023-08-27T21:01:07.8701071+00:00",
-  "LastUpdate_Achievements": "2023-08-27T21:07:17.7041593+00:00"
+  "LastUpdate_Ratings": "2023-08-27T22:00:55.4102891+00:00",
+  "LastUpdate_Achievements": "2023-08-27T22:06:53.0550685+00:00"
 }

@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1123,
+  "EOS_Progressed": 1124,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3941,6 +3941,11 @@
       "Time": "2023-08-27T20:04:24.3322519+00:00",
       "NumProgressed": 1123,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-27T22:04:48.066591+00:00",
+      "NumProgressed": 1124,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -3958,9 +3963,9 @@
       "ID": "ach_defeat_aliens_50",
       "SetID": "bm61c2p",
       "Name": "Exterminator",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 67
     },
     {
       "ID": "ach_defeat_players_10",
@@ -4056,7 +4061,7 @@
       "Name": "Facility Online",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -4255,14 +4260,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1123,
+      "Progressed": 1124,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-27T21:05:02.7285644+00:00",
+  "LastChanged_Achievements": "2023-08-27T22:04:48.0665906+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:58:05.1002416+00:00",
-  "LastUpdate_Ratings": "2023-08-27T20:59:30.5468319+00:00",
-  "LastUpdate_Achievements": "2023-08-27T21:05:02.7286201+00:00"
+  "LastUpdate_Ratings": "2023-08-27T21:59:27.1497167+00:00",
+  "LastUpdate_Achievements": "2023-08-27T22:04:48.0666319+00:00"
 }

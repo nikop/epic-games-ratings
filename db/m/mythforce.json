@@ -4,7 +4,7 @@
   "ProductSlug": "mythforce-d2710b",
   "Ranking_Rating": 580,
   "Ranking_Popularity": 456,
-  "Ranking_PopularitySum": 353,
+  "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 113,
@@ -581,9 +581,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 1016,
+  "EOS_Progressed": 1017,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3096,6 +3096,11 @@
       "Time": "2023-08-27T21:07:30.6832571+00:00",
       "NumProgressed": 1016,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-27T22:07:05.2602583+00:00",
+      "NumProgressed": 1017,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -3132,7 +3137,7 @@
       "Name": "Death Becomes You",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "MF_Ach_DebuffDogpile",
@@ -3276,7 +3281,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -3291,15 +3296,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 1016,
+      "Progressed": 1017,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-08-19T00:01:25.4224345+00:00",
-  "LastChanged_Achievements": "2023-08-27T21:07:30.6832564+00:00",
+  "LastChanged_Achievements": "2023-08-27T22:07:05.2602578+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:13.6724499+00:00",
-  "LastUpdate_Ratings": "2023-08-27T21:02:04.0568343+00:00",
-  "LastUpdate_Achievements": "2023-08-27T21:07:30.6832921+00:00"
+  "LastUpdate_Ratings": "2023-08-27T22:01:48.3409268+00:00",
+  "LastUpdate_Achievements": "2023-08-27T22:07:05.2602851+00:00"
 }

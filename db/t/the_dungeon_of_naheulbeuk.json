@@ -2,7 +2,7 @@
   "ID": "456d95ca54814c8d98db2f52346ff5de",
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
-  "Ranking_Rating": 428,
+  "Ranking_Rating": 429,
   "Ranking_Popularity": 282,
   "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 56,
@@ -732,9 +732,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 218295,
+  "EOS_Progressed": 218305,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3033,
+  "EOS_NewPlayers": 3043,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8542,6 +8542,11 @@
       "Time": "2023-08-27T21:03:25.2088194+00:00",
       "NumProgressed": 218295,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-27T22:03:15.729272+00:00",
+      "NumProgressed": 218305,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -8697,7 +8702,7 @@
       "Name": "Res Judicata",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "CompanionPriestress",
@@ -8967,9 +8972,9 @@
       "ID": "DwarfEpic",
       "SetID": "50chcgj",
       "Name": "Dwarf Fortress",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1310
     },
     {
       "ID": "DwarfInsultWin",
@@ -9001,7 +9006,7 @@
       "Name": "Sowwy!",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 54574
+      "UsersEstimate": 54576
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -9073,7 +9078,7 @@
       "Name": "I\u0027ve seen that beard before! It was on sale, and came with a broomstick and a bucket!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "KillDungeonLich",
@@ -9256,21 +9261,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 218295,
+      "Progressed": 218305,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 218295,
+      "Progressed": 218305,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-27T21:02:19.3722902+00:00",
-  "LastChanged_Achievements": "2023-08-27T21:03:25.2088187+00:00",
+  "LastChanged_Achievements": "2023-08-27T22:03:15.7292717+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:41.9661267+00:00",
-  "LastUpdate_Ratings": "2023-08-27T21:02:19.3722913+00:00",
-  "LastUpdate_Achievements": "2023-08-27T21:03:25.2089767+00:00"
+  "LastUpdate_Ratings": "2023-08-27T22:02:03.1810682+00:00",
+  "LastUpdate_Achievements": "2023-08-27T22:03:15.7293909+00:00"
 }

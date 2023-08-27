@@ -4,7 +4,7 @@
   "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
   "Ranking_EOS_Progress": 308,
   "Ranking_EOS_Completed": 18,
-  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewPlayers": 296,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
@@ -218,9 +218,9 @@
       "ID": "BADGE_BOSS_4_KILL",
       "SetID": "ak6pfjk",
       "Name": "Avada Kedavra",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "BADGE_BOSS_5_KILL",
@@ -290,9 +290,9 @@
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_4",
       "SetID": "ak6pfjk",
       "Name": "Brilliant: Arcania",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 25,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_5",
@@ -362,9 +362,9 @@
       "ID": "BADGE_BRILLIANT_NIGHT_CHAPTER_4",
       "SetID": "ak6pfjk",
       "Name": "Starry: Arcania",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "BADGE_BRILLIANT_NIGHT_CHAPTER_5",
@@ -619,8 +619,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-08-27T21:07:38.5708276+00:00",
+  "LastChanged_Achievements": "2023-08-27T22:07:12.4495212+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:26.5328959+00:00",
-  "LastUpdate_Ratings": "2023-08-27T21:02:13.0262614+00:00",
-  "LastUpdate_Achievements": "2023-08-27T21:07:38.5708839+00:00"
+  "LastUpdate_Ratings": "2023-08-27T22:01:56.4979909+00:00",
+  "LastUpdate_Achievements": "2023-08-27T22:07:12.4495591+00:00"
 }

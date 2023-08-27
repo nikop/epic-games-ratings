@@ -24,8 +24,8 @@ Number of Ratings: 209  (23.09.2022)
 | Magnet Repel | 88.00% | ~1,949 |
 | You feel middle classy | 87.00% | ~1,927 |
 | Boomeraxe | 87.00% | ~1,927 |
+| Iron Pickaxe | 87.00% | ~1,927 |
 | Banking District | 86.00% | ~1,905 |
-| Iron Pickaxe | 86.00% | ~1,905 |
 | Arrested | 85.00% | ~1,883 |
 | Zappy Gun | 85.00% | ~1,883 |
 | Got your own one now | 85.00% | ~1,883 |

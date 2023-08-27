@@ -6,37 +6,37 @@ Number of Ratings: 4,733  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 89.00% | ~11,201 |
-| Initial Capital | 82.00% | ~10,320 |
-| Moneybags | 65.00% | ~8,180 |
-| Junior Supply Officer | 65.00% | ~8,180 |
-| Naval Warfare. Arson | 50.00% | ~6,292 |
-| Naval Constructor | 50.00% | ~6,292 |
-| Amateur | 48.00% | ~6,041 |
-| Naval Warfare. Ramming | 47.00% | ~5,915 |
-| Naval Warfare. Tactics | 47.00% | ~5,915 |
-| Naval Warfare. Weaponry Basics | 39.00% | ~4,908 |
-| Business Magnate | 34.00% | ~4,279 |
-| Naval Warfare. Lucky Shot | 33.00% | ~4,153 |
-| Naval Warfare. Flooding | 32.00% | ~4,027 |
-| Supply Officer | 29.00% | ~3,650 |
-| Battle Hero | 28.00% | ~3,524 |
-| Smooth Supply | 28.00% | ~3,524 |
-| Warrior | 26.00% | ~3,272 |
-| Veteran | 18.00% | ~2,265 |
-| Chief Naval Architect | 10.00% | ~1,258 |
-| Legend of the Seas | 9.00% | ~1,133 |
-| Shield | 9.00% | ~1,133 |
-| Important Missions | 7.00% | ~881 |
-| Senior Supply Officer | 6.00% | ~755 |
-| Weather Beaten | 6.00% | ~755 |
-| Guardian | 6.00% | ~755 |
-| "Science of Victory" | 5.00% | ~629 |
-| Bane of the Oceans | 4.00% | ~503 |
-| Special Orders | 4.00% | ~503 |
-| Protector | 4.00% | ~503 |
-| Exterminator | 4.00% | ~503 |
-| American Cruisers | 4.00% | ~503 |
+| Junior Naval Designer | 89.00% | ~11,225 |
+| Initial Capital | 82.00% | ~10,342 |
+| Moneybags | 65.00% | ~8,198 |
+| Junior Supply Officer | 65.00% | ~8,198 |
+| Naval Warfare. Arson | 50.00% | ~6,306 |
+| Naval Constructor | 50.00% | ~6,306 |
+| Amateur | 48.00% | ~6,054 |
+| Naval Warfare. Ramming | 47.00% | ~5,928 |
+| Naval Warfare. Tactics | 47.00% | ~5,928 |
+| Naval Warfare. Weaponry Basics | 39.00% | ~4,919 |
+| Business Magnate | 34.00% | ~4,288 |
+| Naval Warfare. Lucky Shot | 33.00% | ~4,162 |
+| Naval Warfare. Flooding | 32.00% | ~4,036 |
+| Supply Officer | 29.00% | ~3,657 |
+| Battle Hero | 28.00% | ~3,531 |
+| Smooth Supply | 28.00% | ~3,531 |
+| Warrior | 26.00% | ~3,279 |
+| Veteran | 18.00% | ~2,270 |
+| Chief Naval Architect | 10.00% | ~1,261 |
+| Legend of the Seas | 9.00% | ~1,135 |
+| Shield | 9.00% | ~1,135 |
+| Important Missions | 7.00% | ~883 |
+| Senior Supply Officer | 6.00% | ~757 |
+| Weather Beaten | 6.00% | ~757 |
+| Guardian | 6.00% | ~757 |
+| "Science of Victory" | 5.00% | ~631 |
+| Bane of the Oceans | 4.00% | ~504 |
+| Special Orders | 4.00% | ~504 |
+| Protector | 4.00% | ~504 |
+| Exterminator | 4.00% | ~504 |
+| American Cruisers | 4.00% | ~504 |
 | Old-Timer | 3.00% | ~378 |
 | Secret Instructions | 2.00% | ~252 |
 | Raider | 2.00% | ~252 |
@@ -51,7 +51,7 @@ Number of Ratings: 4,733  (23.09.2022)
 | "Yamamoto Isoroku" with Honors | 0.00% | ~0 |
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,585 (Ranked 121)  
+Progressed: 12,612 (Ranked 121)  
 Completed: 0 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,10 +65,10 @@ Completed: 0 (0.00%) (Ranked 265)
 | 2023-08-24 | 9,908 | 0 |
 | 2023-08-25 | 10,827 | 0 |
 | 2023-08-26 | 11,768 | 0 |
-| 2023-08-27 | 12,585 | 0 |
+| 2023-08-27 | 12,612 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 1,284  (Ranked 133)  
-Sum: 11,510 (Ranked 80)  
+Sum: 11,513 (Ranked 80)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
@@ -76,8 +76,8 @@ Diff (max vs sum): 53
 | This game is Relaxing | 1,282 |
 | This game has Challenging Combat | 1,242 |
 | This game has Competitive Players | 1,239 |
+| This game is Extremely Fun | 1,210 |
 | This game is Highly Recommended | 1,209 |
-| This game is Extremely Fun | 1,207 |
 | This game has Realistic Visuals | 1,098 |
 | This game has Amazing Storytelling | 1,036 |
 | This game has a Competitive Community | 973 |
@@ -312,4 +312,4 @@ Diff (max vs sum): 53
 | 2023-08-24 | 4.41 | - | 1,281 | 11,461 |
 | 2023-08-25 | 4.41 | - | 1,281 | 11,476 |
 | 2023-08-26 | 4.41 | - | 1,282 | 11,493 |
-| 2023-08-27 | 4.41 | - | 1,284 | 11,510 |
+| 2023-08-27 | 4.41 | - | 1,284 | 11,513 |

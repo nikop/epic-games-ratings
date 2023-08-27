@@ -4,7 +4,7 @@
   "ProductSlug": "quest-hunter-96b20d",
   "Ranking_EOS_Progress": 356,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewPlayers": 296,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
@@ -544,9 +544,9 @@
       "ID": "killPlant5",
       "SetID": "ci65fo0",
       "Name": "Nature\u0027s enemy",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "killSWBoss",
@@ -608,9 +608,9 @@
       "ID": "killZombie50",
       "SetID": "ci65fo0",
       "Name": "Threat to the undead",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "locBanditBoss",
@@ -784,9 +784,9 @@
       "ID": "questDetective",
       "SetID": "ci65fo0",
       "Name": "True Detective",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "questEnemyTask",
@@ -928,17 +928,17 @@
       "ID": "questTheft",
       "SetID": "ci65fo0",
       "Name": "Dark business",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "questWellCleaner",
       "SetID": "ci65fo0",
       "Name": "Cleaner of the Horrible Well",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "survivalGraveyard",
@@ -965,8 +965,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-08-27T21:04:51.7572085+00:00",
+  "LastChanged_Achievements": "2023-08-27T22:04:37.6479812+00:00",
   "LastUpdate_AppInfo": "2023-08-23T13:00:58.7449343+00:00",
-  "LastUpdate_Ratings": "2023-08-27T21:00:00.9200768+00:00",
-  "LastUpdate_Achievements": "2023-08-27T21:04:51.7573119+00:00"
+  "LastUpdate_Ratings": "2023-08-27T21:59:54.4718385+00:00",
+  "LastUpdate_Achievements": "2023-08-27T22:04:37.6480433+00:00"
 }

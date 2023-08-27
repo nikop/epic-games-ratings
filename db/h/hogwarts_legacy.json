@@ -6754,10 +6754,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 41630,
       "NumberOfAwardsMax": 21969
+    },
+    {
+      "Time": "2023-08-27T22:00:32.3068991+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 41631,
+      "NumberOfAwardsMax": 21969
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 41630,
+  "NumberOfAwards": 41631,
   "NumberOfAwardsMax": 21969,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6825,7 +6831,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 859
+      "Count": 860
     },
     {
       "Text": "This game has a Creative Community",
@@ -6834,9 +6840,9 @@
       "Count": 606
     }
   ],
-  "EOS_Progressed": 290946,
+  "EOS_Progressed": 290947,
   "EOS_Completed": 456,
-  "EOS_NewPlayers": 433,
+  "EOS_NewPlayers": 432,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -20764,6 +20770,11 @@
       "Time": "2023-08-27T21:03:47.9672825+00:00",
       "NumProgressed": 290946,
       "NumCompleted": 456
+    },
+    {
+      "Time": "2023-08-27T22:03:37.1862317+00:00",
+      "NumProgressed": 290947,
+      "NumCompleted": 456
     }
   ],
   "TotalAchievements": 45,
@@ -21134,16 +21145,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 290946,
+      "Progressed": 290947,
       "Completed": 456
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-08-27T17:00:14.3666265+00:00",
-  "LastChanged_Achievements": "2023-08-27T21:03:47.9672819+00:00",
+  "LastChanged": "2023-08-27T22:00:32.306899+00:00",
+  "LastChanged_Achievements": "2023-08-27T22:03:37.1862314+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:27.4425386+00:00",
-  "LastUpdate_Ratings": "2023-08-27T21:00:47.4267251+00:00",
-  "LastUpdate_Achievements": "2023-08-27T21:03:47.9674094+00:00"
+  "LastUpdate_Ratings": "2023-08-27T22:00:32.3068994+00:00",
+  "LastUpdate_Achievements": "2023-08-27T22:03:37.186328+00:00"
 }

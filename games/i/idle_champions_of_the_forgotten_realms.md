@@ -34,6 +34,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wet Feet | 0.20% | ~451 |
 | Supply Run | 0.20% | ~451 |
 | Seeds of Destruction | 0.20% | ~384 |
+| Speeds of Destruction | 0.20% | ~384 |
 | The Evacuation of Waterdeep | 0.20% | ~384 |
 | Best Thay Ever | 0.20% | ~384 |
 | Vecna Lives! | 0.20% | ~384 |
@@ -181,7 +182,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Strength of Character | 0.10% | ~192 |
 | The Invisible Wizards of Thay | 0.10% | ~192 |
 | Heavy Burden | 0.10% | ~226 |
-| Speeds of Destruction | 0.10% | ~192 |
 | Owlbear Necessities | 0.10% | ~192 |
 | Flapjacks and Waffles | 0.10% | ~192 |
 | On the Hunt | 0.10% | ~226 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~192 |
 | Animated Giff | 0.10% | ~192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,507 (Ranked 53)  
+Progressed: 225,518 (Ranked 53)  
 Completed: 2,221 (0.98%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -652,7 +652,7 @@ Completed: 2,221 (0.98%) (Ranked 122)
 | 2023-08-24 | 224,686 | 2,211 |
 | 2023-08-25 | 224,925 | 2,214 |
 | 2023-08-26 | 225,221 | 2,219 |
-| 2023-08-27 | 225,507 | 2,221 |
+| 2023-08-27 | 225,518 | 2,221 |
 ## Awards
 Max (Diverse Characters): 5,196  (Ranked 68)  
 Sum: 31,250 (Ranked 39)  
