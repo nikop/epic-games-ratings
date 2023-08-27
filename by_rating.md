@@ -207,7 +207,7 @@
 | 199 | [GoNNER](games/g/gonner.md) | 4.70 | 0 | 514 |
 | 199 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 51 | 401 |
 | 199 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,316 | 130 |
-| 199 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.70 | 1,872 | 112 |
+| 199 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.70 | 1,873 | 112 |
 | 199 | [Northgard](games/n/northgard.md) | 4.70 | 30 | 462 |
 | 199 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.70 | 0 | 514 |
 | 199 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 46 | 410 |
@@ -403,7 +403,6 @@
 | 392 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 74 | 372 |
 | 392 | [DOOM 3](games/d/doom_3.md) | 4.60 | 68 | 382 |
 | 392 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,616 | 27 |
-| 392 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.60 | 27 | 471 |
 | 392 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 121 | 318 |
 | 392 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.60 | 0 | 514 |
 | 392 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 640 | 176 |
@@ -415,18 +414,19 @@
 | 392 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 420 | 210 |
 | 392 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 85 | 359 |
 | 392 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 0 | 514 |
-| 416 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 45 | 413 |
-| 416 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.59 | 0 | 514 |
-| 416 | [GRIME](games/g/grime.md) | 4.59 | 28 | 467 |
-| 416 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 60 | 391 |
-| 416 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.59 | 223 | 262 |
-| 416 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.59 | 0 | 514 |
-| 416 | [Operation: Tango](games/o/operation__tango.md) | 4.59 | 0 | 514 |
-| 416 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 75 | 371 |
-| 416 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 320 | 234 |
-| 416 | [Torchlight II](games/t/torchlight_ii.md) | 4.59 | 1,013 | 145 |
-| 416 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.59 | 0 | 514 |
-| 416 | [Wall World](games/w/wall_world.md) | 4.59 | 0 | 514 |
+| 415 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 45 | 413 |
+| 415 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.59 | 0 | 514 |
+| 415 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.59 | 27 | 471 |
+| 415 | [GRIME](games/g/grime.md) | 4.59 | 28 | 467 |
+| 415 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 60 | 391 |
+| 415 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.59 | 223 | 262 |
+| 415 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.59 | 0 | 514 |
+| 415 | [Operation: Tango](games/o/operation__tango.md) | 4.59 | 0 | 514 |
+| 415 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 75 | 371 |
+| 415 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 320 | 234 |
+| 415 | [Torchlight II](games/t/torchlight_ii.md) | 4.59 | 1,013 | 145 |
+| 415 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.59 | 0 | 514 |
+| 415 | [Wall World](games/w/wall_world.md) | 4.59 | 0 | 514 |
 | 428 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.58 | 0 | 514 |
 | 428 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 60,412 | 11 |
 | 428 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 162 | 292 |
@@ -740,18 +740,18 @@
 | 736 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 514 |
 | 736 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.37 | 53 | 396 |
 | 736 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.37 | 0 | 514 |
-| 736 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.37 | 44 | 418 |
 | 736 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 32 | 456 |
-| 743 | [Core](games/c/core.md) | 4.36 | 747 | 164 |
-| 743 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 173 | 286 |
-| 743 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,643 | 30 |
-| 743 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.36 | 0 | 514 |
-| 743 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 514 |
-| 743 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 26 | 476 |
-| 743 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 49 | 406 |
-| 743 | [The Silent Age](games/t/the_silent_age.md) | 4.36 | 0 | 514 |
-| 743 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 0 | 514 |
-| 743 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 112 | 326 |
+| 742 | [Core](games/c/core.md) | 4.36 | 747 | 164 |
+| 742 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 173 | 286 |
+| 742 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,643 | 30 |
+| 742 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.36 | 0 | 514 |
+| 742 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 514 |
+| 742 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 26 | 476 |
+| 742 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 49 | 406 |
+| 742 | [The Silent Age](games/t/the_silent_age.md) | 4.36 | 0 | 514 |
+| 742 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 0 | 514 |
+| 742 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 112 | 326 |
+| 742 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.36 | 44 | 418 |
 | 753 | [Among Trees](games/a/among_trees.md) | 4.35 | 0 | 514 |
 | 753 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.35 | 0 | 514 |
 | 753 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 0 | 514 |
