@@ -808,9 +808,9 @@
       "ID": "ACH_DOCDOCUMENTS",
       "SetID": "511e31d",
       "Name": "The experiment",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_ENTRANCE",
@@ -928,9 +928,9 @@
       "ID": "ACH_PICKLOCK",
       "SetID": "511e31d",
       "Name": "Nimble fingers",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 20,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_RESTAURANT",
@@ -952,9 +952,9 @@
       "ID": "ACH_ROOM104",
       "SetID": "511e31d",
       "Name": "Room 104",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_ROOM203",
@@ -1000,9 +1000,9 @@
       "ID": "ACH_WAREHOUSE",
       "SetID": "511e31d",
       "Name": "Now or never",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 124
     }
   ],
   "AchievementSets": [
@@ -1015,8 +1015,8 @@
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2023-08-27T13:05:17.7005034+00:00",
+  "LastChanged_Achievements": "2023-08-27T14:03:56.0203851+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:23.1636916+00:00",
-  "LastUpdate_Ratings": "2023-08-27T13:01:41.6709666+00:00",
-  "LastUpdate_Achievements": "2023-08-27T13:05:17.7005259+00:00"
+  "LastUpdate_Ratings": "2023-08-27T14:00:17.0649864+00:00",
+  "LastUpdate_Achievements": "2023-08-27T14:03:56.0204342+00:00"
 }

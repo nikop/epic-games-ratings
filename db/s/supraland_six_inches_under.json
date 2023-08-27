@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 417,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 21,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
@@ -2033,9 +2033,9 @@
       "ID": "TownArena",
       "SetID": "5lok9mm",
       "Name": "Killed them all",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1683
+      "UsersEstimate": 1705
     },
     {
       "ID": "TransShotForce",
@@ -2057,9 +2057,9 @@
       "ID": "TrickleDown",
       "SetID": "5lok9mm",
       "Name": "Trickle Down Economy",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1683
+      "UsersEstimate": 1705
     },
     {
       "ID": "Win",
@@ -2081,8 +2081,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-08-21T16:57:49.4049479+00:00",
-  "LastChanged_Achievements": "2023-08-27T13:07:42.577078+00:00",
+  "LastChanged_Achievements": "2023-08-27T14:06:18.1223221+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:35.5799147+00:00",
-  "LastUpdate_Ratings": "2023-08-27T13:00:02.0497405+00:00",
-  "LastUpdate_Achievements": "2023-08-27T13:07:42.577127+00:00"
+  "LastUpdate_Ratings": "2023-08-27T13:58:38.9256903+00:00",
+  "LastUpdate_Achievements": "2023-08-27T14:06:18.1223917+00:00"
 }

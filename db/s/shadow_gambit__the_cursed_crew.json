@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 516,
+  "EOS_Progressed": 517,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 0.78,
+  "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -1061,6 +1061,11 @@
       "Time": "2023-08-27T13:06:38.8922607+00:00",
       "NumProgressed": 516,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-27T14:05:16.1240719+00:00",
+      "NumProgressed": 517,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1097,7 +1102,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "_05_FinishAct2",
@@ -1119,17 +1124,17 @@
       "ID": "_07_FinishAct3",
       "SetID": "8a1io5d",
       "Name": "All Good Things",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 36
+      "UsersEstimate": 41
     },
     {
       "ID": "_08_Completion_10",
       "SetID": "8a1io5d",
       "Name": "Swabbie",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 207
     },
     {
       "ID": "_09_Completion_20",
@@ -1145,7 +1150,7 @@
       "Name": "Buccaneer",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "_11_Completion_40",
@@ -1153,7 +1158,7 @@
       "Name": "Seadog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "_12_Completion_50",
@@ -1169,7 +1174,7 @@
       "Name": "Corsair",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "_14_Completion_70",
@@ -1193,7 +1198,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -1280,14 +1285,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 516,
+      "Progressed": 517,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-27T13:06:38.8922603+00:00",
+  "LastChanged_Achievements": "2023-08-27T14:05:16.1240693+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:45.1302228+00:00",
-  "LastUpdate_Ratings": "2023-08-27T13:02:25.2728387+00:00",
-  "LastUpdate_Achievements": "2023-08-27T13:06:38.8922795+00:00"
+  "LastUpdate_Ratings": "2023-08-27T14:01:02.2521346+00:00",
+  "LastUpdate_Achievements": "2023-08-27T14:05:16.1241053+00:00"
 }

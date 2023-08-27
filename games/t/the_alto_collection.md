@@ -6,17 +6,17 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 26.00% | ~9,619 |
-| Finding Your Footing | 26.00% | ~9,619 |
-| Nomad | 18.00% | ~6,659 |
-| Picking Up Speed | 16.00% | ~5,920 |
-| Welcome Maya | 15.00% | ~5,550 |
-| Scout | 11.00% | ~4,070 |
-| Sightseer | 11.00% | ~4,070 |
-| Amateur | 9.00% | ~3,330 |
-| Unlock Maya | 8.00% | ~2,960 |
-| Enter Paz | 8.00% | ~2,960 |
-| Wanderer | 8.00% | ~2,960 |
+| Rookie | 26.00% | ~9,622 |
+| Finding Your Footing | 26.00% | ~9,622 |
+| Nomad | 18.00% | ~6,661 |
+| Picking Up Speed | 16.00% | ~5,921 |
+| Welcome Maya | 15.00% | ~5,551 |
+| Scout | 11.00% | ~4,071 |
+| Sightseer | 11.00% | ~4,071 |
+| Amateur | 9.00% | ~3,331 |
+| Unlock Maya | 8.00% | ~2,961 |
+| Enter Paz | 8.00% | ~2,961 |
+| Wanderer | 8.00% | ~2,961 |
 | Aviator | 6.00% | ~2,220 |
 | My Little Friend | 5.00% | ~1,850 |
 | One With The Board | 5.00% | ~1,850 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~37 |
 | Windswept | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36,997 (Ranked 97)  
+Progressed: 37,008 (Ranked 97)  
 Completed: 5 (0.01%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 5 (0.01%) (Ranked 252)
 | 2023-08-24 | 36,622 | 5 |
 | 2023-08-25 | 36,775 | 5 |
 | 2023-08-26 | 36,914 | 5 |
-| 2023-08-27 | 36,997 | 5 |
+| 2023-08-27 | 37,008 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 46  (Ranked 410)  
 Sum: 359 (Ranked 329)  

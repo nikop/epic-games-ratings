@@ -1211,7 +1211,7 @@
   ],
   "EOS_Progressed": 8590,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 177,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11759,9 +11759,9 @@
       "ID": "34",
       "SetID": "8idi9ml",
       "Name": "Ice Lakes",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1890
+      "UsersEstimate": 1976
     },
     {
       "ID": "35",
@@ -12023,8 +12023,8 @@
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-08-25T02:13:36.2865808+00:00",
-  "LastChanged_Achievements": "2023-08-27T13:05:55.004477+00:00",
+  "LastChanged_Achievements": "2023-08-27T14:04:32.9171292+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:34.935802+00:00",
-  "LastUpdate_Ratings": "2023-08-27T13:00:02.0550182+00:00",
-  "LastUpdate_Achievements": "2023-08-27T13:05:55.0045708+00:00"
+  "LastUpdate_Ratings": "2023-08-27T13:58:39.073533+00:00",
+  "LastUpdate_Achievements": "2023-08-27T14:04:32.9172628+00:00"
 }

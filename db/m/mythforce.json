@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 353,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -581,9 +581,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 1000,
+  "EOS_Progressed": 1001,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3056,6 +3056,11 @@
       "Time": "2023-08-27T13:08:30.3472561+00:00",
       "NumProgressed": 1000,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-27T14:07:05.2442091+00:00",
+      "NumProgressed": 1001,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -3130,9 +3135,9 @@
       "ID": "MF_Ach_FlawlessVictory",
       "SetID": "9b9n573",
       "Name": "Flawless Victory",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 30
+      "UsersEstimate": 20
     },
     {
       "ID": "MF_Ach_FourthGate",
@@ -3251,15 +3256,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 1000,
+      "Progressed": 1001,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-08-19T00:01:25.4224345+00:00",
-  "LastChanged_Achievements": "2023-08-27T13:08:30.3472559+00:00",
+  "LastChanged_Achievements": "2023-08-27T14:07:05.2442082+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:13.6724499+00:00",
-  "LastUpdate_Ratings": "2023-08-27T13:02:50.1351553+00:00",
-  "LastUpdate_Achievements": "2023-08-27T13:08:30.3472796+00:00"
+  "LastUpdate_Ratings": "2023-08-27T14:01:28.3096577+00:00",
+  "LastUpdate_Achievements": "2023-08-27T14:07:05.2442546+00:00"
 }

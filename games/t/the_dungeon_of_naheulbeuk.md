@@ -6,26 +6,26 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 25.00% | ~54,508 |
-| Alt+F4 | 3.00% | ~6,541 |
+| Sowwy! | 25.00% | ~54,517 |
+| Alt+F4 | 3.00% | ~6,542 |
 | Déjà vu | 2.00% | ~4,361 |
 | Where's that freaking Dwarf? | 2.00% | ~4,361 |
 | Sock! SOCK! | 2.00% | ~4,361 |
 | Speedrun | 2.00% | ~4,361 |
-| Way of the Wimp | 1.00% | ~2,180 |
-| A beer, two curses, three companions | 1.00% | ~2,180 |
-| The plot thickens... At the tavern | 1.00% | ~2,180 |
-| GG EZ | 1.00% | ~2,180 |
-| DM intervention | 1.00% | ~2,180 |
-| Fireproof Wizardess | 1.00% | ~2,180 |
-| Livin' in a dwarven paradise | 0.90% | ~1,962 |
-| The demons' feast | 0.80% | ~1,744 |
-| The Great Library | 0.80% | ~1,744 |
-| Torture and Sensibility | 0.80% | ~1,744 |
-| Urik's Depths | 0.80% | ~1,744 |
-| The Woman in the High Castle | 0.80% | ~1,744 |
-| Team Building Exercise | 0.80% | ~1,744 |
-| Oh, when I'll be level 10... | 0.80% | ~1,744 |
+| Way of the Wimp | 1.00% | ~2,181 |
+| A beer, two curses, three companions | 1.00% | ~2,181 |
+| The plot thickens... At the tavern | 1.00% | ~2,181 |
+| GG EZ | 1.00% | ~2,181 |
+| DM intervention | 1.00% | ~2,181 |
+| Fireproof Wizardess | 1.00% | ~2,181 |
+| Livin' in a dwarven paradise | 0.90% | ~1,963 |
+| The demons' feast | 0.80% | ~1,745 |
+| The Great Library | 0.80% | ~1,745 |
+| Torture and Sensibility | 0.80% | ~1,745 |
+| Urik's Depths | 0.80% | ~1,745 |
+| The Woman in the High Castle | 0.80% | ~1,745 |
+| Team Building Exercise | 0.80% | ~1,745 |
+| Oh, when I'll be level 10... | 0.80% | ~1,745 |
 | Shiny and Crôm | 0.70% | ~1,526 |
 | The Dungeon Master | 0.70% | ~1,526 |
 | The Statuette of Gladeulfeurah | 0.70% | ~1,526 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~218 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,033 (Ranked 56)  
+Progressed: 218,067 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 2 (0.00%) (Ranked 265)
 | 2023-08-24 | 216,781 | 2 |
 | 2023-08-25 | 217,227 | 2 |
 | 2023-08-26 | 217,758 | 2 |
-| 2023-08-27 | 218,033 | 2 |
+| 2023-08-27 | 218,067 | 2 |
 ## Awards
 Max (Character Customization): 180  (Ranked 282)  
 Sum: 224 (Ranked 361)  

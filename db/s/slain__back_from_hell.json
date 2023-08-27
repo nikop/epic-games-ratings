@@ -217,9 +217,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 35285,
+  "EOS_Progressed": 35290,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 743,
+  "EOS_NewPlayers": 737,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -14427,6 +14427,11 @@
       "Time": "2023-08-27T13:04:30.4449641+00:00",
       "NumProgressed": 35285,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-08-27T14:03:39.5788011+00:00",
+      "NumProgressed": 35290,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 29,
@@ -14438,7 +14443,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 5293
+      "UsersEstimate": 5294
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -14446,7 +14451,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 7057
+      "UsersEstimate": 7058
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -14582,7 +14587,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1411
+      "UsersEstimate": 1412
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -14669,7 +14674,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 35285,
+      "Progressed": 35290,
       "Completed": 22
     }
   ],
@@ -14677,8 +14682,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-12T21:03:39.1122054+00:00",
-  "LastChanged_Achievements": "2023-08-27T13:04:30.4449637+00:00",
+  "LastChanged_Achievements": "2023-08-27T14:03:39.5788003+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:35.8741643+00:00",
-  "LastUpdate_Ratings": "2023-08-27T13:00:03.4975568+00:00",
-  "LastUpdate_Achievements": "2023-08-27T13:04:30.4450457+00:00"
+  "LastUpdate_Ratings": "2023-08-27T13:58:39.8592945+00:00",
+  "LastUpdate_Achievements": "2023-08-27T14:03:39.5789288+00:00"
 }

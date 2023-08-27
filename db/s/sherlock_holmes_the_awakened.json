@@ -2356,9 +2356,9 @@
       "ID": "MQ06_4",
       "SetID": "bbing49",
       "Name": "No Man Is An Island",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 288
+      "UsersEstimate": 294
     },
     {
       "ID": "MQ07_1",
@@ -2372,9 +2372,9 @@
       "ID": "MQ07_2",
       "SetID": "bbing49",
       "Name": "At Wits\u0027 End",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 282
+      "UsersEstimate": 288
     },
     {
       "ID": "MQ08_1",
@@ -2421,8 +2421,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-08-14T02:12:32.7608826+00:00",
-  "LastChanged_Achievements": "2023-08-27T13:06:52.485333+00:00",
+  "LastChanged_Achievements": "2023-08-27T14:05:29.362397+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:22.9836387+00:00",
-  "LastUpdate_Ratings": "2023-08-27T13:01:42.0624493+00:00",
-  "LastUpdate_Achievements": "2023-08-27T13:06:52.4853587+00:00"
+  "LastUpdate_Ratings": "2023-08-27T14:00:17.378708+00:00",
+  "LastUpdate_Achievements": "2023-08-27T14:05:29.3624565+00:00"
 }

@@ -864,9 +864,9 @@
       "ID": "ACH_END_FIRST_MAIL_MISSION",
       "SetID": "al4k4nh",
       "Name": "I love customers",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 210
     },
     {
       "ID": "ACH_END_FIRST_TUTORIAL",
@@ -1008,9 +1008,9 @@
       "ID": "ACH_UNSCREW",
       "SetID": "al4k4nh",
       "Name": "Unscrew you",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 121
+      "UsersEstimate": 123
     },
     {
       "ID": "ACH_WATCH_ALL_TV_CHANNELS",
@@ -1031,8 +1031,8 @@
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-08-27T13:09:32.1218374+00:00",
+  "LastChanged_Achievements": "2023-08-27T14:08:03.4924724+00:00",
   "LastUpdate_AppInfo": "2023-08-23T17:57:12.6622936+00:00",
-  "LastUpdate_Ratings": "2023-08-27T13:01:30.9495005+00:00",
-  "LastUpdate_Achievements": "2023-08-27T13:09:32.1218564+00:00"
+  "LastUpdate_Ratings": "2023-08-27T14:00:05.5995443+00:00",
+  "LastUpdate_Achievements": "2023-08-27T14:08:03.4924983+00:00"
 }

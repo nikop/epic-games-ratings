@@ -44,10 +44,10 @@
 | Champion – no way back | 41.00% | ~111 |
 | Responsible approach | 41.00% | ~111 |
 | Your own way | 40.00% | ~108 |
+| Deal with life | 39.00% | ~106 |
 | Poisoned fighter | 39.00% | ~106 |
 | Underground dwellers | 39.00% | ~106 |
 | Mom got better | 38.00% | ~103 |
-| Deal with life | 38.00% | ~103 |
 | GYM professional | 38.00% | ~103 |
 | Get out of my apartment! | 38.00% | ~103 |
 | The die is cast | 38.00% | ~103 |

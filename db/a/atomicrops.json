@@ -3,8 +3,8 @@
   "Name": "Atomicrops",
   "ProductSlug": "atomicrops",
   "Ranking_Rating": 19,
-  "Ranking_Popularity": 307,
-  "Ranking_PopularitySum": 383,
+  "Ranking_Popularity": 308,
+  "Ranking_PopularitySum": 384,
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 340,
@@ -423,6 +423,6 @@
   "FirstSeen": "2022-07-22T20:22:16.7457184+00:00",
   "LastChanged": "2023-08-20T22:57:18.1811435+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:04.5672717+00:00",
-  "LastUpdate_Ratings": "2023-08-27T12:59:39.0098006+00:00",
-  "LastUpdate_Achievements": "2023-08-27T13:06:10.2103565+00:00"
+  "LastUpdate_Ratings": "2023-08-27T13:58:15.7489115+00:00",
+  "LastUpdate_Achievements": "2023-08-27T14:04:47.7317076+00:00"
 }

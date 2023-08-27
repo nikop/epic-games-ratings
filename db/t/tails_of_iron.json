@@ -2527,9 +2527,9 @@
       "ID": "Collect20Iron",
       "SetID": "9lj35g4",
       "Name": "Collect Iron Ore",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 881
+      "UsersEstimate": 900
     },
     {
       "ID": "Collect50MonsterParts",
@@ -2623,9 +2623,9 @@
       "ID": "DefeatMoziQueen",
       "SetID": "9lj35g4",
       "Name": "End of the Mozis",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 100,
-      "UsersEstimate": 694
+      "UsersEstimate": 712
     },
     {
       "ID": "DefeatRatnorRodentson",
@@ -2766,8 +2766,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-07-30T07:58:33.6633976+00:00",
-  "LastChanged_Achievements": "2023-08-27T13:08:10.6172458+00:00",
+  "LastChanged_Achievements": "2023-08-27T14:06:46.3936557+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:09.7374628+00:00",
-  "LastUpdate_Ratings": "2023-08-27T13:02:45.861079+00:00",
-  "LastUpdate_Achievements": "2023-08-27T13:08:10.6172733+00:00"
+  "LastUpdate_Ratings": "2023-08-27T14:01:23.8230176+00:00",
+  "LastUpdate_Achievements": "2023-08-27T14:06:46.3937036+00:00"
 }

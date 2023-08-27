@@ -358,7 +358,7 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 39785,
+  "EOS_Progressed": 39786,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
@@ -7818,6 +7818,11 @@
       "Time": "2023-08-27T13:07:34.6754621+00:00",
       "NumProgressed": 39785,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-27T14:06:10.1317133+00:00",
+      "NumProgressed": 39786,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -7877,7 +7882,7 @@
       "Name": "Attachments",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 3978
+      "UsersEstimate": 3979
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -8093,7 +8098,7 @@
       "Name": "Wildfire",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "MAGIC_TANTA",
@@ -8157,7 +8162,7 @@
       "Name": "Realized Potential",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "SKILLTREE_FIRST",
@@ -8252,22 +8257,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 39785,
+      "Progressed": 39786,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 4622,
-      "Completed": 4622
+      "Progressed": 4623,
+      "Completed": 4623
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-08-26T10:03:08.3605269+00:00",
-  "LastChanged_Achievements": "2023-08-27T13:07:34.6754616+00:00",
+  "LastChanged_Achievements": "2023-08-27T14:06:10.1317126+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:18.9582302+00:00",
-  "LastUpdate_Ratings": "2023-08-27T13:02:53.4687925+00:00",
-  "LastUpdate_Achievements": "2023-08-27T13:07:34.6755293+00:00"
+  "LastUpdate_Ratings": "2023-08-27T14:01:32.1074832+00:00",
+  "LastUpdate_Achievements": "2023-08-27T14:06:10.1318797+00:00"
 }

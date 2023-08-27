@@ -6,10 +6,10 @@
 | ---- | ---------- | ----- |
 | What's going on here? | 88.00% | ~147 |
 | Brute force | 84.00% | ~140 |
-| Nimble fingers | 77.00% | ~129 |
-| Room 104 | 77.00% | ~129 |
+| Nimble fingers | 78.00% | ~130 |
+| Room 104 | 78.00% | ~130 |
 | Face to face | 77.00% | ~129 |
-| Now or never | 73.00% | ~122 |
+| Now or never | 74.00% | ~124 |
 | Let's play a game… | 72.00% | ~120 |
 | Soundtrack | 62.00% | ~104 |
 | First aid | 61.00% | ~102 |
@@ -27,8 +27,8 @@
 | Take the long way round | 11.00% | ~18 |
 | He who seeks, finds! | 10.00% | ~17 |
 | Born again | 7.00% | ~12 |
+| The experiment | 6.00% | ~10 |
 | 373 | 5.00% | ~8 |
-| The experiment | 5.00% | ~8 |
 | Matthew's revenge | 5.00% | ~8 |
 | Eva's diary | 2.00% | ~3 |
 | Horror book | 1.00% | ~2 |

@@ -6,30 +6,30 @@ Rating: 4.54 (Ranked 501)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Break A Leg | 0.30% | ~2,000 |
+| Coup de Grâce | 0.30% | ~2,000 |
 | Hazardous Materials | 0.30% | ~2,000 |
 | Hotel California | 0.30% | ~2,000 |
+| Personal Assistant Personally Assisted | 0.30% | ~2,000 |
 | Welcome To Hell-A | 0.30% | ~2,000 |
-| Dr. Reed, I Presume? | 0.20% | ~1,333 |
-| Git Gutte! | 0.20% | ~1,333 |
-| Anger Management | 0.20% | ~1,333 |
-| Perks of the Job | 0.20% | ~1,333 |
-| Bookworm | 0.20% | ~1,333 |
-| I Got a Zombie Army and You Can't Harm Me | 0.20% | ~1,333 |
-| But Doctor, I am Butcho | 0.20% | ~1,333 |
-| Slayer Squad | 0.20% | ~1,333 |
-| Can't Handle the Truth | 0.20% | ~1,333 |
-| Coup de Grâce | 0.20% | ~1,333 |
-| Like Riding a Bike | 0.20% | ~1,333 |
-| Friends Like These | 0.20% | ~1,333 |
-| Apex Predator | 0.20% | ~1,333 |
-| Zombologist | 0.20% | ~1,333 |
-| Ooh, Shiny! | 0.20% | ~1,333 |
-| A Patton Emerges | 0.20% | ~1,333 |
-| I Am the Resurrection | 0.20% | ~1,333 |
-| Stacking the Deck | 0.20% | ~1,333 |
-| Personal Assistant Personally Assisted | 0.20% | ~1,333 |
-| Our True Nature | 0.20% | ~1,333 |
-| This is My Weapon | 0.20% | ~1,333 |
+| Dr. Reed, I Presume? | 0.20% | ~1,334 |
+| Git Gutte! | 0.20% | ~1,334 |
+| Anger Management | 0.20% | ~1,334 |
+| Perks of the Job | 0.20% | ~1,334 |
+| Bookworm | 0.20% | ~1,334 |
+| I Got a Zombie Army and You Can't Harm Me | 0.20% | ~1,334 |
+| But Doctor, I am Butcho | 0.20% | ~1,334 |
+| Slayer Squad | 0.20% | ~1,334 |
+| Can't Handle the Truth | 0.20% | ~1,334 |
+| Like Riding a Bike | 0.20% | ~1,334 |
+| Friends Like These | 0.20% | ~1,334 |
+| Apex Predator | 0.20% | ~1,334 |
+| Zombologist | 0.20% | ~1,334 |
+| Ooh, Shiny! | 0.20% | ~1,334 |
+| A Patton Emerges | 0.20% | ~1,334 |
+| I Am the Resurrection | 0.20% | ~1,334 |
+| Stacking the Deck | 0.20% | ~1,334 |
+| Our True Nature | 0.20% | ~1,334 |
+| This is My Weapon | 0.20% | ~1,334 |
 | Making Your Mark | 0.10% | ~667 |
 | Make it So | 0.10% | ~667 |
 | LA Influential | 0.10% | ~667 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 501)
 | Rising Star | 0.10% | ~667 |
 | Bucket List | 0.10% | ~667 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 666,747 (Ranked 22)  
+Progressed: 666,796 (Ranked 22)  
 Completed: 2,079 (0.31%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 2,079 (0.31%) (Ranked 172)
 | 2023-08-24 | 664,478 | 2,059 |
 | 2023-08-25 | 665,272 | 2,068 |
 | 2023-08-26 | 666,250 | 2,078 |
-| 2023-08-27 | 666,747 | 2,079 |
+| 2023-08-27 | 666,796 | 2,079 |
 ## Awards
 Max (Great Boss Battles): 5,783  (Ranked 61)  
 Sum: 8,507 (Ranked 97)  

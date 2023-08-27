@@ -335,9 +335,9 @@
       "ID": "SteamAchievment_CompleteQuest07",
       "SetID": "b8gj0ip",
       "Name": "Master of Choice",
-      "Percentage": 9,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SteamAchievment_CompleteQuest08",
@@ -454,8 +454,8 @@
   ],
   "FirstSeen": "2023-08-10T10:57:59.2838137+00:00",
   "FirstSeenAchievements": "2023-05-30T14:00:09.5243374+00:00",
-  "LastChanged_Achievements": "2023-08-27T13:07:46.5324916+00:00",
+  "LastChanged_Achievements": "2023-08-27T14:06:22.8339883+00:00",
   "LastUpdate_AppInfo": "2023-08-22T18:57:01.7235597+00:00",
-  "LastUpdate_Ratings": "2023-08-27T13:01:15.1991505+00:00",
-  "LastUpdate_Achievements": "2023-08-27T13:07:46.5325171+00:00"
+  "LastUpdate_Ratings": "2023-08-27T13:59:48.2885573+00:00",
+  "LastUpdate_Achievements": "2023-08-27T14:06:22.8340255+00:00"
 }
