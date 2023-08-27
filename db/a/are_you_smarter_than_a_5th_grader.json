@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-08-23T13:00:00+00:00",
     "PcReleaseDate": "2022-08-23T13:00:00+00:00",
@@ -410,9 +410,9 @@
       "ID": "ExamPractice",
       "SetID": "6l18k14",
       "Name": "Exam Practice",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 41
+      "UsersEstimate": 44
     },
     {
       "ID": "ExamTime",
@@ -434,9 +434,9 @@
       "ID": "FirstGrade",
       "SetID": "6l18k14",
       "Name": "1st Grade",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 136
+      "UsersEstimate": 140
     },
     {
       "ID": "FourthGrade",
@@ -547,8 +547,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.561977+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.3990521+00:00",
   "LastChanged": "2023-03-31T05:58:18.5619771+00:00",
-  "LastChanged_Achievements": "2023-08-27T16:07:53.1166772+00:00",
+  "LastChanged_Achievements": "2023-08-27T17:06:57.9429059+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:57.5078386+00:00",
-  "LastUpdate_Ratings": "2023-08-27T15:59:15.5753816+00:00",
-  "LastUpdate_Achievements": "2023-08-27T16:07:53.1166941+00:00"
+  "LastUpdate_Ratings": "2023-08-27T16:59:05.6924172+00:00",
+  "LastUpdate_Achievements": "2023-08-27T17:06:57.9429382+00:00"
 }

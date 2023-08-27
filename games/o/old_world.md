@@ -76,19 +76,21 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egyptian Paganism | 1.00% | ~136 |
 | Mythology | 1.00% | ~136 |
 | Points Victory | 1.00% | ~136 |
-| Beloved | 0.90% | ~122 |
-| Conqueror | 0.90% | ~122 |
-| Lion | 0.90% | ~122 |
-| Victorious | 0.90% | ~122 |
-| Patrons | 0.90% | ~122 |
-| Persian Paganism | 0.90% | ~122 |
-| Building Wonders | 0.90% | ~122 |
-| Legalism | 0.90% | ~122 |
+| Beloved | 0.90% | ~123 |
+| Conqueror | 0.90% | ~123 |
+| Lion | 0.90% | ~123 |
+| Victorious | 0.90% | ~123 |
+| Patrons | 0.90% | ~123 |
+| Temple of Solomon | 0.90% | ~123 |
+| Persian Paganism | 0.90% | ~123 |
+| Building Wonders | 0.90% | ~123 |
+| Legalism | 0.90% | ~123 |
 | Subjugator | 0.80% | ~109 |
 | Good Difficulty | 0.80% | ~109 |
 | Statesmen | 0.80% | ~109 |
 | Traders | 0.80% | ~109 |
-| Temple of Solomon | 0.80% | ~109 |
+| Hittite Iron | 0.80% | ~109 |
+| Hagia Sophia | 0.80% | ~109 |
 | Pantheon | 0.80% | ~109 |
 | Via Recta Souk | 0.80% | ~109 |
 | Learn to Play 3 | 0.80% | ~109 |
@@ -98,11 +100,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Phalangite | 0.80% | ~109 |
 | Capable | 0.70% | ~95 |
 | Invincible | 0.70% | ~95 |
-| Hittite Iron | 0.70% | ~95 |
 | Circus Maximus | 0.70% | ~95 |
-| Hagia Sophia | 0.70% | ~95 |
 | Church of the Holy Sepulchre | 0.70% | ~95 |
 | Assyrian Paganism | 0.70% | ~95 |
+| Industrial Progress | 0.70% | ~95 |
+| Military Prestige | 0.70% | ~95 |
 | Dualism | 0.70% | ~95 |
 | Redemption | 0.70% | ~95 |
 | Veneration | 0.70% | ~95 |
@@ -119,8 +121,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Adur Burzen-Mihr | 0.60% | ~82 |
 | Babylonia | 0.60% | ~82 |
 | Carthage | 0.60% | ~82 |
-| Industrial Progress | 0.60% | ~82 |
-| Military Prestige | 0.60% | ~82 |
 | Enlightenment | 0.60% | ~82 |
 | Gnosticism | 0.60% | ~82 |
 | Revelation | 0.60% | ~82 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,610 (Ranked 119)  
+Progressed: 13,612 (Ranked 119)  
 Completed: 5 (0.04%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -432,7 +432,7 @@ Completed: 5 (0.04%) (Ranked 235)
 | 2023-08-24 | 13,546 | 5 |
 | 2023-08-25 | 13,563 | 5 |
 | 2023-08-26 | 13,590 | 5 |
-| 2023-08-27 | 13,610 | 5 |
+| 2023-08-27 | 13,612 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,799 (Ranked 208)  

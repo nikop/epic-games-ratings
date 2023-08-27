@@ -5,27 +5,27 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 13.00% | ~37,819 |
-| First Class Student | 11.00% | ~32,001 |
-| Troll with the Punches | 11.00% | ~32,001 |
-| The Hallowed Hero | 10.00% | ~29,092 |
-| The Defender of Dragons | 10.00% | ~29,092 |
-| A Keen Sense of Spell | 10.00% | ~29,092 |
-| A Talent for Spending | 10.00% | ~29,092 |
-| That's a Keeper | 10.00% | ~29,092 |
+| The Sort Who Makes an Entrance | 13.00% | ~37,821 |
+| First Class Student | 11.00% | ~32,002 |
+| Troll with the Punches | 11.00% | ~32,002 |
+| The Hallowed Hero | 10.00% | ~29,093 |
+| The Defender of Dragons | 10.00% | ~29,093 |
+| A Keen Sense of Spell | 10.00% | ~29,093 |
+| A Talent for Spending | 10.00% | ~29,093 |
+| That's a Keeper | 10.00% | ~29,093 |
 | Grappling with a Graphorn | 9.00% | ~26,183 |
 | The One Who Mastered Memories | 9.00% | ~26,183 |
 | The Hero of Hogwarts | 9.00% | ~26,183 |
 | Challenge Accepted | 9.00% | ~26,183 |
 | Loom for Improvement | 9.00% | ~26,183 |
 | Coasting Along | 9.00% | ~26,183 |
-| Followed the Butterflies | 8.00% | ~23,273 |
-| The Spell Master | 8.00% | ~23,273 |
-| Rising From the Ashes | 8.00% | ~23,273 |
-| The Avenging Gazelle | 7.00% | ~20,364 |
-| Beast Friends | 7.00% | ~20,364 |
-| A Sallow Grave | 7.00% | ~20,364 |
-| Flight the Good Flight | 7.00% | ~20,364 |
+| Followed the Butterflies | 8.00% | ~23,274 |
+| The Spell Master | 8.00% | ~23,274 |
+| Rising From the Ashes | 8.00% | ~23,274 |
+| The Avenging Gazelle | 7.00% | ~20,365 |
+| Beast Friends | 7.00% | ~20,365 |
+| A Sallow Grave | 7.00% | ~20,365 |
+| Flight the Good Flight | 7.00% | ~20,365 |
 | The Seeker of Knowledge | 5.00% | ~14,546 |
 | The Root of the Problem | 5.00% | ~14,546 |
 | Third Time's a Charm | 5.00% | ~14,546 |
@@ -38,11 +38,11 @@ Rating: 4.77 (Ranked 109)
 | The Ends Petrify the Means | 4.00% | ~11,637 |
 | Floo Around the World | 3.00% | ~8,728 |
 | The Wise Owl | 3.00% | ~8,728 |
-| The Good Samaritan | 2.00% | ~5,818 |
-| Put Down Roots | 2.00% | ~5,818 |
-| The Auror's Apprentice | 2.00% | ~5,818 |
-| Rise to the Challenges | 2.00% | ~5,818 |
-| Finishing Touches | 2.00% | ~5,818 |
+| The Good Samaritan | 2.00% | ~5,819 |
+| Put Down Roots | 2.00% | ~5,819 |
+| The Auror's Apprentice | 2.00% | ~5,819 |
+| Rise to the Challenges | 2.00% | ~5,819 |
+| Finishing Touches | 2.00% | ~5,819 |
 | Savvy Spender | 1.00% | ~2,909 |
 | Demiguise Dread | 1.00% | ~2,909 |
 | A Forte for Achievement | 1.00% | ~2,909 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,746 |
 | Collector's Edition | 0.30% | ~873 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,918 (Ranked 43)  
+Progressed: 290,927 (Ranked 43)  
 Completed: 456 (0.16%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,25 +180,25 @@ Completed: 456 (0.16%) (Ranked 196)
 | 2023-08-24 | 290,736 | 454 |
 | 2023-08-25 | 290,790 | 455 |
 | 2023-08-26 | 290,865 | 455 |
-| 2023-08-27 | 290,918 | 456 |
+| 2023-08-27 | 290,927 | 456 |
 ## Awards
 Max (Character Customization): 21,969  (Ranked 17)  
-Sum: 41,621 (Ranked 30)  
+Sum: 41,630 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 21,969 |
 | This game has Great Boss Battles | 10,687 |
 | This game is Great for Beginners | 997 |
+| This game is Relaxing | 972 |
 | This game is Extremely Fun | 970 |
-| This game is Relaxing | 970 |
 | This game has Amazing Storytelling | 963 |
-| This game has Diverse Characters | 954 |
+| This game has Diverse Characters | 958 |
 | This game has Amazing Characters | 936 |
 | This game is Highly Recommended | 905 |
 | This game has Quickly Understood Controls | 859 |
 | This game has Beautiful Visuals | 808 |
-| This game has a Creative Community | 603 |
+| This game has a Creative Community | 606 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -358,4 +358,4 @@ Diff (max vs sum): -13
 | 2023-08-24 | 4.77 | 21,908 | 41,494 |
 | 2023-08-25 | 4.77 | 21,923 | 41,535 |
 | 2023-08-26 | 4.77 | 21,948 | 41,589 |
-| 2023-08-27 | 4.77 | 21,969 | 41,621 |
+| 2023-08-27 | 4.77 | 21,969 | 41,630 |

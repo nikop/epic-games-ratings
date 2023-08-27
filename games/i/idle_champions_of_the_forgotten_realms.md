@@ -21,6 +21,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeking Allies | 0.30% | ~676 |
 | Are Ya Chicken? | 0.30% | ~676 |
 | Mad Cow Disease | 0.30% | ~676 |
+| Exploring Port Nyanzaru | 0.30% | ~676 |
 | Friendly Imps | 0.30% | ~676 |
 | Pure Energy | 0.30% | ~676 |
 | The Chaotic Hunt for The Last Breath | 0.30% | ~575 |
@@ -41,6 +42,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dread Domain of Tovag | 0.20% | ~383 |
 | The Castle of a Thousand Vecnas | 0.20% | ~383 |
 | Who Lurks Below? | 0.20% | ~383 |
+| No One Can Hear You Scream | 0.20% | ~383 |
 | Beast Mode | 0.20% | ~451 |
 | Terror in the Dark | 0.20% | ~451 |
 | Low Initiative | 0.20% | ~451 |
@@ -72,7 +74,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Towering Expectations | 0.20% | ~451 |
 | Hopelessly Lost | 0.20% | ~451 |
 | Enter the Sargauth | 0.20% | ~451 |
-| Exploring Port Nyanzaru | 0.20% | ~451 |
 | A Tale of Two Cities | 0.20% | ~451 |
 | The Dead Three | 0.20% | ~451 |
 | Slow and Steady | 0.20% | ~451 |
@@ -221,7 +222,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Nimble Approach | 0.10% | ~192 |
 | The Palace of Heart's Desire | 0.10% | ~192 |
 | The Egg of Nat's Desire | 0.10% | ~192 |
-| No One Can Hear You Scream | 0.10% | ~192 |
 | Anchors Aweigh | 0.10% | ~192 |
 | Welcome to the Rock | 0.10% | ~192 |
 | Welcome to the Band | 0.10% | ~192 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~192 |
 | Animated Giff | 0.10% | ~192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,429 (Ranked 53)  
+Progressed: 225,447 (Ranked 53)  
 Completed: 2,221 (0.99%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -652,7 +652,7 @@ Completed: 2,221 (0.99%) (Ranked 120)
 | 2023-08-24 | 224,686 | 2,211 |
 | 2023-08-25 | 224,925 | 2,214 |
 | 2023-08-26 | 225,221 | 2,219 |
-| 2023-08-27 | 225,429 | 2,221 |
+| 2023-08-27 | 225,447 | 2,221 |
 ## Awards
 Max (Diverse Characters): 5,196  (Ranked 68)  
 Sum: 31,250 (Ranked 39)  

@@ -6,7 +6,7 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~13,070 |
+| Sink Beneath the Waves | 36.00% | ~13,071 |
 | Sweet Sorrow | 18.00% | ~6,535 |
 | Rules the Waves | 17.00% | ~6,172 |
 | Thou, All-Shaking Thunder | 15.00% | ~5,446 |
@@ -18,11 +18,11 @@ Number of Ratings: 401  (23.09.2022)
 | HE SUN THE SUN THE SUN T | 11.00% | ~3,994 |
 | The Fall of the House | 11.00% | ~3,994 |
 | Shipmate | 11.00% | ~3,994 |
-| One Year at Zee | 8.00% | ~2,904 |
-| Pupil | 7.00% | ~2,541 |
-| Salvager | 7.00% | ~2,541 |
-| Open Your Ears | 7.00% | ~2,541 |
-| The Ascent of Man | 7.00% | ~2,541 |
+| One Year at Zee | 8.00% | ~2,905 |
+| Pupil | 7.00% | ~2,542 |
+| Salvager | 7.00% | ~2,542 |
+| Open Your Ears | 7.00% | ~2,542 |
+| The Ascent of Man | 7.00% | ~2,542 |
 | Zee Fever | 5.00% | ~1,815 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,452 |
 | Sink Beneath the Waves. Again. | 4.00% | ~1,452 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~36 |
 | Ten Years at Zee | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36,305 (Ranked 98)  
+Progressed: 36,308 (Ranked 98)  
 Completed: 3 (0.01%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 3 (0.01%) (Ranked 252)
 | 2023-08-24 | 36,131 | 3 |
 | 2023-08-25 | 36,192 | 3 |
 | 2023-08-26 | 36,249 | 3 |
-| 2023-08-27 | 36,305 | 3 |
+| 2023-08-27 | 36,308 | 3 |
 ## Awards
 Max (Character Customization): 213  (Ranked 270)  
 Sum: 283 (Ranked 344)  

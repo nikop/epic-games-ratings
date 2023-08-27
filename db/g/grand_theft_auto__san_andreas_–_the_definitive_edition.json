@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 337,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -766,7 +766,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12060,
+  "EOS_Progressed": 12061,
   "EOS_Completed": 41,
   "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 2,
@@ -9431,6 +9431,11 @@
       "Time": "2023-08-27T14:05:03.0057953+00:00",
       "NumProgressed": 12060,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-08-27T17:04:59.4242385+00:00",
+      "NumProgressed": 12061,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 35,
@@ -9490,7 +9495,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2291
+      "UsersEstimate": 2292
     },
     {
       "ID": "ACH08",
@@ -9721,7 +9726,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12060,
+      "Progressed": 12061,
       "Completed": 41
     }
   ],
@@ -9729,8 +9734,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-08-27T04:58:54.9178969+00:00",
-  "LastChanged_Achievements": "2023-08-27T16:05:26.2916049+00:00",
+  "LastChanged_Achievements": "2023-08-27T17:04:59.424238+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:49.3440273+00:00",
-  "LastUpdate_Ratings": "2023-08-27T15:59:07.2930205+00:00",
-  "LastUpdate_Achievements": "2023-08-27T16:05:26.2916899+00:00"
+  "LastUpdate_Ratings": "2023-08-27T16:58:57.6780565+00:00",
+  "LastUpdate_Achievements": "2023-08-27T17:04:59.4243142+00:00"
 }

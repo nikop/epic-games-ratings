@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 113,
   "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
     "PcReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -2105,9 +2105,9 @@
       "ID": "UseRepairDrones",
       "SetID": "a6c395p",
       "Name": "Phoenix",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 493
+      "UsersEstimate": 504
     },
     {
       "ID": "VisitAllLocations",
@@ -2137,8 +2137,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-08-19T10:57:32.3642226+00:00",
-  "LastChanged_Achievements": "2023-08-27T16:08:35.37112+00:00",
+  "LastChanged_Achievements": "2023-08-27T17:07:31.9547679+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:27.6298041+00:00",
-  "LastUpdate_Ratings": "2023-08-27T15:58:33.6300615+00:00",
-  "LastUpdate_Achievements": "2023-08-27T16:08:35.3711607+00:00"
+  "LastUpdate_Ratings": "2023-08-27T16:58:29.9148651+00:00",
+  "LastUpdate_Achievements": "2023-08-27T17:07:31.9548114+00:00"
 }

@@ -36,33 +36,33 @@ Rating: 4.42 (Ranked 675)
 | Bricklayer | 1.00% | ~2,555 |
 | Run the Economy | 1.00% | ~2,555 |
 | Committed Relationship | 0.80% | ~2,044 |
-| Number 1 | 0.70% | ~1,788 |
+| Number 1 | 0.70% | ~1,789 |
 | Interior designer | 0.60% | ~1,533 |
-| The Gamble | 0.50% | ~1,277 |
-| The Descent | 0.50% | ~1,277 |
-| A major purchase | 0.50% | ~1,277 |
+| The Gamble | 0.50% | ~1,278 |
+| The Descent | 0.50% | ~1,278 |
+| A major purchase | 0.50% | ~1,278 |
 | Expert Hunter | 0.40% | ~1,022 |
 | Fungi hunter | 0.40% | ~1,022 |
 | Predator III | 0.40% | ~1,022 |
-| Arms dealer | 0.30% | ~766 |
-| Fixer III | 0.30% | ~766 |
-| AML questionnaire | 0.30% | ~766 |
-| Heartbreaker | 0.30% | ~766 |
+| Arms dealer | 0.30% | ~767 |
+| Fixer III | 0.30% | ~767 |
+| AML questionnaire | 0.30% | ~767 |
+| Heartbreaker | 0.30% | ~767 |
 | Workhorse | 0.20% | ~511 |
 | Homerun | 0.20% | ~511 |
 | A season in Century City | 0.20% | ~511 |
-| Saver III | 0.10% | ~255 |
-| Collector | 0.10% | ~255 |
-| Mansion | 0.10% | ~255 |
-| Green thumb III | 0.10% | ~255 |
-| Plantation | 0.10% | ~255 |
-| Reminescence | 0.10% | ~255 |
-| Beloved | 0.10% | ~255 |
-| Capitalist II | 0.10% | ~255 |
-| Capitalist III | 0.10% | ~255 |
-| Hell Is You | 0.10% | ~255 |
+| Saver III | 0.10% | ~256 |
+| Collector | 0.10% | ~256 |
+| Mansion | 0.10% | ~256 |
+| Green thumb III | 0.10% | ~256 |
+| Plantation | 0.10% | ~256 |
+| Reminescence | 0.10% | ~256 |
+| Beloved | 0.10% | ~256 |
+| Capitalist II | 0.10% | ~256 |
+| Capitalist III | 0.10% | ~256 |
+| Hell Is You | 0.10% | ~256 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,499 (Ranked 45)  
+Progressed: 255,501 (Ranked 45)  
 Completed: 3 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 3 (0.00%) (Ranked 265)
 | 2023-08-24 | 255,362 | 3 |
 | 2023-08-25 | 255,409 | 3 |
 | 2023-08-26 | 255,459 | 3 |
-| 2023-08-27 | 255,499 | 3 |
+| 2023-08-27 | 255,501 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 35  (Ranked 437)  
 Sum: 243 (Ranked 355)  

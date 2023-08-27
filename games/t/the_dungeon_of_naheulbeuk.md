@@ -6,19 +6,19 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 25.00% | ~54,532 |
-| Alt+F4 | 3.00% | ~6,544 |
+| Sowwy! | 25.00% | ~54,542 |
+| Where's that freaking Dwarf? | 3.00% | ~6,545 |
+| Alt+F4 | 3.00% | ~6,545 |
 | Déjà vu | 2.00% | ~4,363 |
-| Where's that freaking Dwarf? | 2.00% | ~4,363 |
 | Sock! SOCK! | 2.00% | ~4,363 |
 | Speedrun | 2.00% | ~4,363 |
-| Livin' in a dwarven paradise | 1.00% | ~2,181 |
-| Way of the Wimp | 1.00% | ~2,181 |
-| A beer, two curses, three companions | 1.00% | ~2,181 |
-| The plot thickens... At the tavern | 1.00% | ~2,181 |
-| GG EZ | 1.00% | ~2,181 |
-| DM intervention | 1.00% | ~2,181 |
-| Fireproof Wizardess | 1.00% | ~2,181 |
+| Livin' in a dwarven paradise | 1.00% | ~2,182 |
+| Way of the Wimp | 1.00% | ~2,182 |
+| A beer, two curses, three companions | 1.00% | ~2,182 |
+| The plot thickens... At the tavern | 1.00% | ~2,182 |
+| GG EZ | 1.00% | ~2,182 |
+| DM intervention | 1.00% | ~2,182 |
+| Fireproof Wizardess | 1.00% | ~2,182 |
 | The demons' feast | 0.80% | ~1,745 |
 | The Great Library | 0.80% | ~1,745 |
 | Torture and Sensibility | 0.80% | ~1,745 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~218 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,126 (Ranked 56)  
+Progressed: 218,166 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 2 (0.00%) (Ranked 265)
 | 2023-08-24 | 216,781 | 2 |
 | 2023-08-25 | 217,227 | 2 |
 | 2023-08-26 | 217,758 | 2 |
-| 2023-08-27 | 218,126 | 2 |
+| 2023-08-27 | 218,166 | 2 |
 ## Awards
 Max (Character Customization): 180  (Ranked 282)  
 Sum: 224 (Ranked 361)  

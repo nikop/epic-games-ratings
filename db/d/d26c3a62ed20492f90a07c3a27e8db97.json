@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 340,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-09-05T13:00:00+00:00",
     "PcReleaseDate": "2023-09-05T13:00:00+00:00",
@@ -25,9 +25,211 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-08-27T17:04:35.3385584+00:00",
+  "TotalAchievements": 25,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ach_id_001",
+      "SetID": "ahh0nbm",
+      "Name": "Axe of Aegies",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_id_002",
+      "SetID": "ahh0nbm",
+      "Name": "Monster Slayer",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_id_003",
+      "SetID": "ahh0nbm",
+      "Name": "The Great Culling",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_id_004",
+      "SetID": "ahh0nbm",
+      "Name": "First Scroll",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_id_005",
+      "SetID": "ahh0nbm",
+      "Name": "Second Scroll",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_id_006",
+      "SetID": "ahh0nbm",
+      "Name": "Third Scroll",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_id_007",
+      "SetID": "ahh0nbm",
+      "Name": "Fourth Scroll",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_id_008",
+      "SetID": "ahh0nbm",
+      "Name": "Fifth Scroll",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_id_009",
+      "SetID": "ahh0nbm",
+      "Name": "Lore Seeker",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_id_010",
+      "SetID": "ahh0nbm",
+      "Name": "Hatter",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_id_011",
+      "SetID": "ahh0nbm",
+      "Name": "Mad Hatter",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_id_012",
+      "SetID": "ahh0nbm",
+      "Name": "Journeyman Fisher",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_id_013",
+      "SetID": "ahh0nbm",
+      "Name": "Master Fisherman",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_id_014",
+      "SetID": "ahh0nbm",
+      "Name": "Rune Mastery",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_id_015",
+      "SetID": "ahh0nbm",
+      "Name": "A Helpful Hand",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_id_016",
+      "SetID": "ahh0nbm",
+      "Name": "Problem Solver",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_id_017",
+      "SetID": "ahh0nbm",
+      "Name": "Smelling Good",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_id_018",
+      "SetID": "ahh0nbm",
+      "Name": "Master Chef",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_id_019",
+      "SetID": "ahh0nbm",
+      "Name": "The Listening",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_id_020",
+      "SetID": "ahh0nbm",
+      "Name": "Songs of Thunder",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_id_021",
+      "SetID": "ahh0nbm",
+      "Name": "Skillful",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_id_022",
+      "SetID": "ahh0nbm",
+      "Name": "Masterful",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_id_023",
+      "SetID": "ahh0nbm",
+      "Name": "Clamtastic",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_id_024",
+      "SetID": "ahh0nbm",
+      "Name": "Clamenomics",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_id_025",
+      "SetID": "ahh0nbm",
+      "Name": "Champion of Aegies",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "ahh0nbm",
@@ -37,8 +239,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-04T06:04:53.5272508+00:00",
-  "LastChanged_Achievements": "2023-08-27T16:04:56.4202183+00:00",
+  "LastChanged_Achievements": "2023-08-27T17:04:35.3385565+00:00",
   "LastUpdate_AppInfo": "2023-08-26T22:57:03.7652797+00:00",
-  "LastUpdate_Ratings": "2023-08-27T15:59:56.6448419+00:00",
-  "LastUpdate_Achievements": "2023-08-27T16:04:56.4202208+00:00"
+  "LastUpdate_Ratings": "2023-08-27T16:59:40.4378767+00:00",
+  "LastUpdate_Achievements": "2023-08-27T17:04:35.3419928+00:00"
 }

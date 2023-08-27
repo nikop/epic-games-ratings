@@ -4,8 +4,8 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 985,
+  "EOS_Progressed": 986,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3151,6 +3151,11 @@
       "Time": "2023-08-27T12:08:06.693456+00:00",
       "NumProgressed": 985,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-27T17:07:50.3301514+00:00",
+      "NumProgressed": 986,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3282,7 +3287,7 @@
       "Name": "Conqueror 1",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "conqueror_2",
@@ -3689,14 +3694,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 985,
+      "Progressed": 986,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-08-27T16:08:57.7710219+00:00",
+  "LastChanged_Achievements": "2023-08-27T17:07:50.3301508+00:00",
   "LastUpdate_AppInfo": "2023-08-22T05:57:11.4589116+00:00",
-  "LastUpdate_Ratings": "2023-08-27T16:00:06.1166938+00:00",
-  "LastUpdate_Achievements": "2023-08-27T16:08:57.7710917+00:00"
+  "LastUpdate_Ratings": "2023-08-27T16:59:48.8489597+00:00",
+  "LastUpdate_Achievements": "2023-08-27T17:07:50.3302317+00:00"
 }

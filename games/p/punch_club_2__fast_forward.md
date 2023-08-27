@@ -25,9 +25,9 @@
 | Spirit of the past | 63.00% | ~171 |
 | Law student | 62.00% | ~168 |
 | Workout professional | 61.00% | ~165 |
+| Own four walls | 61.00% | ~165 |
 | Champion – starter pack | 60.00% | ~163 |
 | It's good to be alive | 60.00% | ~163 |
-| Own four walls | 60.00% | ~163 |
 | Handyman | 59.00% | ~160 |
 | Employee of the year | 59.00% | ~160 |
 | Fight for life | 58.00% | ~157 |
@@ -39,7 +39,7 @@
 | Now you are worthy | 49.00% | ~133 |
 | Guiding on the right path | 47.00% | ~127 |
 | Fight is life | 46.00% | ~125 |
-| Mysterious voice | 45.00% | ~122 |
+| Mysterious voice | 46.00% | ~125 |
 | No blades in the gym | 45.00% | ~122 |
 | Champion – no way back | 41.00% | ~111 |
 | Responsible approach | 41.00% | ~111 |
@@ -51,22 +51,22 @@
 | Mom got better | 38.00% | ~103 |
 | Get out of my apartment! | 38.00% | ~103 |
 | The die is cast | 38.00% | ~103 |
-| Seashell hunter | 36.00% | ~98 |
+| Seashell hunter | 37.00% | ~100 |
 | Gang wrangler | 35.00% | ~95 |
 | Problems of cyborgs | 35.00% | ~95 |
 | Undercover robot | 34.00% | ~92 |
 | Not little hacker | 33.00% | ~89 |
 | Absolute Champion! | 33.00% | ~89 |
+| Careerist | 33.00% | ~89 |
 | Trap disarmed | 32.00% | ~87 |
 | The lonesome road | 32.00% | ~87 |
 | Keep nature safe | 32.00% | ~87 |
 | Family comes first | 32.00% | ~87 |
 | Key memories | 32.00% | ~87 |
-| Careerist | 32.00% | ~87 |
 | Anyone can resist | 32.00% | ~87 |
 | The heart of the Resistance | 32.00% | ~87 |
 | Another world | 31.00% | ~84 |
-| The last bell ring | 30.00% | ~81 |
+| The last bell ring | 31.00% | ~84 |
 | Better cooking at home | 29.00% | ~79 |
 | Silver’s past | 28.00% | ~76 |
 | The only right decision | 28.00% | ~76 |

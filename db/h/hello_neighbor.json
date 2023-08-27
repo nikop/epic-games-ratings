@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 340,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2018-12-08T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -2893,10 +2893,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 1627,
       "NumberOfAwardsMax": 241
+    },
+    {
+      "Time": "2023-08-27T17:02:04.6273096+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 1628,
+      "NumberOfAwardsMax": 241
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1627,
+  "NumberOfAwards": 1628,
   "NumberOfAwardsMax": 241,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2910,7 +2916,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 197
+      "Count": 198
     },
     {
       "Text": "This game is Relaxing",
@@ -2972,8 +2978,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:23.0108388+00:00",
-  "LastChanged": "2023-08-26T21:02:41.8785512+00:00",
+  "LastChanged": "2023-08-27T17:02:04.6273095+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:21.5917675+00:00",
-  "LastUpdate_Ratings": "2023-08-27T16:02:16.7906344+00:00",
-  "LastUpdate_Achievements": "2023-08-27T16:06:27.785858+00:00"
+  "LastUpdate_Ratings": "2023-08-27T17:02:04.62731+00:00",
+  "LastUpdate_Achievements": "2023-08-27T17:05:47.7926958+00:00"
 }

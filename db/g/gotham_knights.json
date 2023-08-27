@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2534,9 +2534,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 68071,
+  "EOS_Progressed": 68072,
   "EOS_Completed": 109,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -13324,6 +13324,11 @@
       "Time": "2023-08-27T16:08:59.362506+00:00",
       "NumProgressed": 68071,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2023-08-27T17:07:52.1117755+00:00",
+      "NumProgressed": 68072,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 61,
@@ -13575,7 +13580,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 12933
+      "UsersEstimate": 12934
     },
     {
       "ID": "FREEZE_3",
@@ -13615,7 +13620,7 @@
       "Name": "Read Owl About It",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "GOTHAM_HISTORICAL_PLATES",
@@ -13663,7 +13668,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 10891
+      "UsersEstimate": 10892
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -13822,13 +13827,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 68071,
+      "Progressed": 68072,
       "Completed": 109
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38351,
+      "Progressed": 38352,
       "Completed": 2660
     }
   ],
@@ -13836,8 +13841,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-08-26T18:58:23.9625274+00:00",
-  "LastChanged_Achievements": "2023-08-27T16:08:59.3625053+00:00",
+  "LastChanged_Achievements": "2023-08-27T17:07:52.1117747+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:22.0819335+00:00",
-  "LastUpdate_Ratings": "2023-08-27T15:58:26.2501981+00:00",
-  "LastUpdate_Achievements": "2023-08-27T16:08:59.3626334+00:00"
+  "LastUpdate_Ratings": "2023-08-27T16:58:24.61901+00:00",
+  "LastUpdate_Achievements": "2023-08-27T17:07:52.1118957+00:00"
 }

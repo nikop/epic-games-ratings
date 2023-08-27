@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1908,9 +1908,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25382,
+  "EOS_Progressed": 25383,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -11428,6 +11428,11 @@
       "Time": "2023-08-27T16:04:31.1919158+00:00",
       "NumProgressed": 25382,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-08-27T17:04:15.0163363+00:00",
+      "NumProgressed": 25383,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 51,
@@ -11439,7 +11444,7 @@
       "Name": "Advancement",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 18275
+      "UsersEstimate": 18276
     },
     {
       "ID": "Animated",
@@ -11463,7 +11468,7 @@
       "Name": "We have the best insurance",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 6599
+      "UsersEstimate": 6600
     },
     {
       "ID": "Catostrophic_Destroyer",
@@ -11527,7 +11532,7 @@
       "Name": "Discovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 15483
+      "UsersEstimate": 15484
     },
     {
       "ID": "Dont_Need_These",
@@ -11575,7 +11580,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 13452
+      "UsersEstimate": 13453
     },
     {
       "ID": "GB_In_Training",
@@ -11607,7 +11612,7 @@
       "Name": "Legions",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 6599
+      "UsersEstimate": 6600
     },
     {
       "ID": "Liability",
@@ -11687,7 +11692,7 @@
       "Name": "Right back at ya",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 6599
+      "UsersEstimate": 6600
     },
     {
       "ID": "Rivalry",
@@ -11751,7 +11756,7 @@
       "Name": "Summoner",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 6599
+      "UsersEstimate": 6600
     },
     {
       "ID": "Surprise",
@@ -11767,7 +11772,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 13452
+      "UsersEstimate": 13453
     },
     {
       "ID": "Teamwork",
@@ -11775,7 +11780,7 @@
       "Name": "Teamwork",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 10914
+      "UsersEstimate": 10915
     },
     {
       "ID": "Terrifying",
@@ -11799,7 +11804,7 @@
       "Name": "There you are!",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 10660
+      "UsersEstimate": 10661
     },
     {
       "ID": "Tobins_Prodigy",
@@ -11823,7 +11828,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 12183
+      "UsersEstimate": 12184
     },
     {
       "ID": "Welcome_Crew",
@@ -11831,7 +11836,7 @@
       "Name": "Welcome to the Crew",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 7868
+      "UsersEstimate": 7869
     },
     {
       "ID": "Whoopsie",
@@ -11846,7 +11851,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25382,
+      "Progressed": 25383,
       "Completed": 53
     }
   ],
@@ -11854,8 +11859,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-08-27T07:57:05.5803383+00:00",
-  "LastChanged_Achievements": "2023-08-27T16:04:31.191915+00:00",
+  "LastChanged_Achievements": "2023-08-27T17:04:15.0163359+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:16.4521861+00:00",
-  "LastUpdate_Ratings": "2023-08-27T15:57:09.5503264+00:00",
-  "LastUpdate_Achievements": "2023-08-27T16:04:31.1920543+00:00"
+  "LastUpdate_Ratings": "2023-08-27T16:57:23.6913403+00:00",
+  "LastUpdate_Achievements": "2023-08-27T17:04:15.0164365+00:00"
 }

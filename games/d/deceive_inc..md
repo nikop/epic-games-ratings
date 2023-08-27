@@ -5,7 +5,7 @@ Rating: 4.57 (Ranked 450)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 29.00% | ~5,131 |
+| On Deceive Inc.'s Secret Service | 29.00% | ~5,132 |
 | Mainframe Hacker | 23.00% | ~4,070 |
 | The Spy who eliminated me | 23.00% | ~4,070 |
 | Tomorrow Never Dyes | 22.00% | ~3,893 |
@@ -24,8 +24,8 @@ Rating: 4.57 (Ranked 450)
 | Dr. No Kill | 11.00% | ~1,946 |
 | My Motto, My Creed | 11.00% | ~1,946 |
 | Killer Looks | 11.00% | ~1,946 |
-| Keycards Royale | 10.00% | ~1,769 |
-| In It to Win It | 10.00% | ~1,769 |
+| Keycards Royale | 10.00% | ~1,770 |
+| In It to Win It | 10.00% | ~1,770 |
 | Security Supervisor | 6.00% | ~1,062 |
 | License to Thrill | 5.00% | ~885 |
 | Social of Solace | 3.00% | ~531 |
@@ -42,7 +42,7 @@ Rating: 4.57 (Ranked 450)
 | Extraction Confusion | 0.20% | ~35 |
 | Spyfall | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,694 (Ranked 111)  
+Progressed: 17,695 (Ranked 111)  
 Completed: 1 (0.01%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 1 (0.01%) (Ranked 252)
 | 2023-08-24 | 17,618 | 1 |
 | 2023-08-25 | 17,655 | 1 |
 | 2023-08-26 | 17,681 | 1 |
-| 2023-08-27 | 17,694 | 1 |
+| 2023-08-27 | 17,695 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

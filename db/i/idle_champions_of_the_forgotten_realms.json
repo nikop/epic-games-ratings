@@ -6142,9 +6142,9 @@
       "Count": 3377
     }
   ],
-  "EOS_Progressed": 225429,
+  "EOS_Progressed": 225447,
   "EOS_Completed": 2221,
-  "EOS_NewPlayers": 1808,
+  "EOS_NewPlayers": 1801,
   "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -20292,6 +20292,11 @@
       "Time": "2023-08-27T16:08:57.4979237+00:00",
       "NumProgressed": 225429,
       "NumCompleted": 2221
+    },
+    {
+      "Time": "2023-08-27T17:07:51.0448603+00:00",
+      "NumProgressed": 225447,
+      "NumCompleted": 2221
     }
   ],
   "TotalAchievements": 516,
@@ -21373,9 +21378,9 @@
       "ID": "objective_completed_1345",
       "SetID": "415jc5c",
       "Name": "No One Can Hear You Scream",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 383
     },
     {
       "ID": "objective_completed_1346",
@@ -22445,9 +22450,9 @@
       "ID": "objective_completed_54",
       "SetID": "cc37lbc",
       "Name": "Exploring Port Nyanzaru",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 451
+      "UsersEstimate": 676
     },
     {
       "ID": "objective_completed_540",
@@ -24430,21 +24435,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 191703,
+      "Progressed": 191721,
       "Completed": 3314
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 225429,
+      "Progressed": 225447,
       "Completed": 2221
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-27T14:01:09.3672113+00:00",
-  "LastChanged_Achievements": "2023-08-27T16:08:57.4979231+00:00",
+  "LastChanged_Achievements": "2023-08-27T17:07:51.0448595+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:53.3345914+00:00",
-  "LastUpdate_Ratings": "2023-08-27T16:01:36.3753737+00:00",
-  "LastUpdate_Achievements": "2023-08-27T16:08:57.500402+00:00"
+  "LastUpdate_Ratings": "2023-08-27T17:01:00.262238+00:00",
+  "LastUpdate_Achievements": "2023-08-27T17:07:51.0478297+00:00"
 }

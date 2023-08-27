@@ -1,21 +1,21 @@
 # ToeJam & Earl: Back in the Groove!
 [Store](https://store.epicgames.com/en-US/p/toejam-and-earl-back-in-the-groove-cddc16)  
 [View Rawdata](../../db/t/toejam_&_earl__back_in_the_groove!.json)  
-Rating: 4.32 (Ranked 778)  
+Rating: 4.32 (Ranked 779)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Food Taster | 9.00% | ~5,096 |
 | Fall Fest | 7.00% | ~3,964 |
-| HFZ Goober | 6.00% | ~3,397 |
-| Thrill Seeker | 6.00% | ~3,397 |
+| HFZ Goober | 6.00% | ~3,398 |
+| Thrill Seeker | 6.00% | ~3,398 |
 | Flying Present Catcher | 5.00% | ~2,831 |
 | Sunflower Master | 4.00% | ~2,265 |
 | Hi Fiver | 3.00% | ~1,699 |
-| Backer Visitor | 2.00% | ~1,132 |
-| Hate That Randomizer | 2.00% | ~1,132 |
-| Feet on Funkotron | 2.00% | ~1,132 |
-| A Timely Splash | 2.00% | ~1,132 |
+| Backer Visitor | 2.00% | ~1,133 |
+| Hate That Randomizer | 2.00% | ~1,133 |
+| Feet on Funkotron | 2.00% | ~1,133 |
+| A Timely Splash | 2.00% | ~1,133 |
 | Elf Chaser | 1.00% | ~566 |
 | Fool Me Twice | 1.00% | ~566 |
 | Old School Jammin' | 1.00% | ~566 |
@@ -27,12 +27,12 @@ Rating: 4.32 (Ranked 778)
 | Beaten By A Little Girl | 0.60% | ~340 |
 | Totally Bummed Again | 0.60% | ~340 |
 | Piece O' Cake | 0.50% | ~283 |
-| Boom Box Baby | 0.40% | ~226 |
-| I Can't Believe I've Done This | 0.40% | ~226 |
-| Flying Present Ultimate Master | 0.40% | ~226 |
-| Ridiculously Generous | 0.40% | ~226 |
-| Harsh Love | 0.40% | ~226 |
-| Made It Through | 0.40% | ~226 |
+| Boom Box Baby | 0.40% | ~227 |
+| I Can't Believe I've Done This | 0.40% | ~227 |
+| Flying Present Ultimate Master | 0.40% | ~227 |
+| Ridiculously Generous | 0.40% | ~227 |
+| Harsh Love | 0.40% | ~227 |
+| Made It Through | 0.40% | ~227 |
 | Map Explorer | 0.30% | ~170 |
 | Nine Funkotronians | 0.30% | ~170 |
 | I'm A Total Saint | 0.30% | ~170 |
@@ -55,7 +55,7 @@ Rating: 4.32 (Ranked 778)
 | Why Do I Keep Doing That? | 0.10% | ~57 |
 | Hey, You Did It! | 0.10% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,623 (Ranked 89)  
+Progressed: 56,626 (Ranked 89)  
 Completed: 5 (0.01%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 5 (0.01%) (Ranked 252)
 | 2023-08-24 | 56,570 | 5 |
 | 2023-08-25 | 56,585 | 5 |
 | 2023-08-26 | 56,606 | 5 |
-| 2023-08-27 | 56,623 | 5 |
+| 2023-08-27 | 56,626 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

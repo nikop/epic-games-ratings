@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 208,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1647,9 +1647,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13610,
+  "EOS_Progressed": 13612,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10392,6 +10392,11 @@
       "Time": "2023-08-27T16:08:29.3856802+00:00",
       "NumProgressed": 13610,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-27T17:07:26.9567367+00:00",
+      "NumProgressed": 13612,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -10771,7 +10776,7 @@
       "Name": "Beloved",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_BRAVE",
@@ -10803,7 +10808,7 @@
       "Name": "Conqueror",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_DESTROYER",
@@ -10939,7 +10944,7 @@
       "Name": "Lion",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MAGNIFICENT",
@@ -11059,7 +11064,7 @@
       "Name": "Victorious",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_WARRIOR",
@@ -11275,7 +11280,7 @@
       "Name": "Patrons",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_RIDERS",
@@ -11713,9 +11718,9 @@
       "ID": "ACHIEVEMENT_HITTITE_IRON",
       "SetID": "9201eeb",
       "Name": "Hittite Iron",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 109
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_ACROPOLIS",
@@ -11761,9 +11766,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HAGIA_SOPHIA",
       "SetID": "9201eeb",
       "Name": "Hagia Sophia",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 109
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HANGING_GARDENS",
@@ -11785,9 +11790,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_JUDAISM",
       "SetID": "9201eeb",
       "Name": "Temple of Solomon",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 123
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_MANICHAEISM",
@@ -12251,7 +12256,7 @@
       "Name": "Persian Paganism",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_ROME",
@@ -12307,7 +12312,7 @@
       "Name": "Building Wonders",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_CITIES_CAPTURED",
@@ -12345,17 +12350,17 @@
       "ID": "ACHIEVEMENT_TECH_INDUSTRIAL_PROGRESS",
       "SetID": "9201eeb",
       "Name": "Industrial Progress",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 82
+      "UsersEstimate": 95
     },
     {
       "ID": "ACHIEVEMENT_TECH_MILITARY_PRESTIGE",
       "SetID": "9201eeb",
       "Name": "Military Prestige",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 82
+      "UsersEstimate": 95
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_DUALISM",
@@ -12387,7 +12392,7 @@
       "Name": "Legalism",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_MYTHOLOGY",
@@ -12770,21 +12775,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13610,
+      "Progressed": 13612,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13610,
+      "Progressed": 13612,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-24T04:00:31.5764786+00:00",
-  "LastChanged_Achievements": "2023-08-27T16:08:29.3856795+00:00",
+  "LastChanged_Achievements": "2023-08-27T17:07:26.9567362+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:39.7773306+00:00",
-  "LastUpdate_Ratings": "2023-08-27T16:01:21.5814725+00:00",
-  "LastUpdate_Achievements": "2023-08-27T16:08:29.3864089+00:00"
+  "LastUpdate_Ratings": "2023-08-27T17:00:50.0684891+00:00",
+  "LastUpdate_Achievements": "2023-08-27T17:07:26.9576843+00:00"
 }

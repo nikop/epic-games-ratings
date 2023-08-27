@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 368,
   "Ranking_EOS_Completed": 50,
   "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2016-03-24T11:00:00+00:00",
@@ -321,9 +321,9 @@
       "ID": "Cervotoc",
       "SetID": "ag48e8e",
       "Name": "Woodworm",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Cikady",
@@ -369,9 +369,9 @@
       "ID": "Jing",
       "SetID": "ag48e8e",
       "Name": "Jing Jang",
-      "Percentage": 43,
+      "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Kamzik",
@@ -473,9 +473,9 @@
       "ID": "Rybka",
       "SetID": "ag48e8e",
       "Name": "Goldfish",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Sova",
@@ -568,8 +568,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-08-27T16:06:55.9815496+00:00",
+  "LastChanged_Achievements": "2023-08-27T17:06:11.2684913+00:00",
   "LastUpdate_AppInfo": "2023-08-25T17:56:59.648722+00:00",
-  "LastUpdate_Ratings": "2023-08-27T15:59:43.8472681+00:00",
-  "LastUpdate_Achievements": "2023-08-27T16:06:55.9815724+00:00"
+  "LastUpdate_Ratings": "2023-08-27T16:59:28.8767779+00:00",
+  "LastUpdate_Achievements": "2023-08-27T17:06:11.2685119+00:00"
 }

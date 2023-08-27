@@ -5,14 +5,16 @@ Rating: 4.54 (Ranked 501)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Welcome To Hell-A | 0.40% | ~2,668 |
+| Dr. Reed, I Presume? | 0.30% | ~2,001 |
 | Git Gutte! | 0.30% | ~2,001 |
 | Break A Leg | 0.30% | ~2,001 |
 | Coup de Grâce | 0.30% | ~2,001 |
 | Hazardous Materials | 0.30% | ~2,001 |
 | Hotel California | 0.30% | ~2,001 |
+| Apex Predator | 0.30% | ~2,001 |
+| Stacking the Deck | 0.30% | ~2,001 |
 | Personal Assistant Personally Assisted | 0.30% | ~2,001 |
-| Welcome To Hell-A | 0.30% | ~2,001 |
-| Dr. Reed, I Presume? | 0.20% | ~1,334 |
 | Anger Management | 0.20% | ~1,334 |
 | Perks of the Job | 0.20% | ~1,334 |
 | Bookworm | 0.20% | ~1,334 |
@@ -22,12 +24,10 @@ Rating: 4.54 (Ranked 501)
 | Can't Handle the Truth | 0.20% | ~1,334 |
 | Like Riding a Bike | 0.20% | ~1,334 |
 | Friends Like These | 0.20% | ~1,334 |
-| Apex Predator | 0.20% | ~1,334 |
 | Zombologist | 0.20% | ~1,334 |
 | Ooh, Shiny! | 0.20% | ~1,334 |
 | A Patton Emerges | 0.20% | ~1,334 |
 | I Am the Resurrection | 0.20% | ~1,334 |
-| Stacking the Deck | 0.20% | ~1,334 |
 | Max Headroom | 0.20% | ~1,334 |
 | Our True Nature | 0.20% | ~1,334 |
 | This is My Weapon | 0.20% | ~1,334 |
@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 501)
 | Rising Star | 0.10% | ~667 |
 | Bucket List | 0.10% | ~667 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 666,919 (Ranked 22)  
-Completed: 2,079 (0.31%) (Ranked 172)  
+Progressed: 666,964 (Ranked 22)  
+Completed: 2,080 (0.31%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -180,15 +180,15 @@ Completed: 2,079 (0.31%) (Ranked 172)
 | 2023-08-24 | 664,478 | 2,059 |
 | 2023-08-25 | 665,272 | 2,068 |
 | 2023-08-26 | 666,250 | 2,078 |
-| 2023-08-27 | 666,919 | 2,079 |
+| 2023-08-27 | 666,964 | 2,080 |
 ## Awards
 Max (Great Boss Battles): 5,783  (Ranked 61)  
-Sum: 8,509 (Ranked 97)  
+Sum: 8,512 (Ranked 97)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 5,783 |
-| This game is Great for Beginners | 384 |
+| This game is Great for Beginners | 387 |
 | This game has Quickly Understood Controls | 378 |
 | This game has Diverse Characters | 369 |
 | This game is Relaxing | 355 |
@@ -327,4 +327,4 @@ Diff (max vs sum): -36
 | 2023-08-24 | 4.54 | 5,753 | 8,465 |
 | 2023-08-25 | 4.54 | 5,753 | 8,469 |
 | 2023-08-26 | 4.54 | 5,770 | 8,490 |
-| 2023-08-27 | 4.54 | 5,783 | 8,509 |
+| 2023-08-27 | 4.54 | 5,783 | 8,512 |

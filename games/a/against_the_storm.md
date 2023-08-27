@@ -1,7 +1,7 @@
 # Against the Storm
 [Store](https://store.epicgames.com/en-US/p/against-the-storm)  
 [View Rawdata](../../db/a/against_the_storm.json)  
-Rating: 4.81 (Ranked 76)  
+Rating: 4.81 (Ranked 77)  
 Number of Ratings: 1,845  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -31,17 +31,17 @@ Number of Ratings: 1,845  (23.09.2022)
 | Cursed Lands | 3.00% | ~493 |
 | A Real Challenge | 3.00% | ~493 |
 | Trade Baron | 3.00% | ~493 |
-| Serving Ale | 2.00% | ~328 |
-| Refinery | 2.00% | ~328 |
-| Against All Odds | 2.00% | ~328 |
-| Ruined Armory | 2.00% | ~328 |
-| Dangerous Lands | 2.00% | ~328 |
-| Fishmen Ritual Site | 2.00% | ~328 |
-| Forbidden Lands | 2.00% | ~328 |
-| Forsaken Gods Temple | 2.00% | ~328 |
-| Like a Machine | 2.00% | ~328 |
-| Defying the Crown | 2.00% | ~328 |
-| Into the Forest | 2.00% | ~328 |
+| Serving Ale | 2.00% | ~329 |
+| Refinery | 2.00% | ~329 |
+| Against All Odds | 2.00% | ~329 |
+| Ruined Armory | 2.00% | ~329 |
+| Dangerous Lands | 2.00% | ~329 |
+| Fishmen Ritual Site | 2.00% | ~329 |
+| Forbidden Lands | 2.00% | ~329 |
+| Forsaken Gods Temple | 2.00% | ~329 |
+| Like a Machine | 2.00% | ~329 |
+| Defying the Crown | 2.00% | ~329 |
+| Into the Forest | 2.00% | ~329 |
 | Efficient Explorer | 1.00% | ~164 |
 | Feeding The People | 0.90% | ~148 |
 | Prestigious Expedition | 0.90% | ~148 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.20% | ~33 |
 | Paradise | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,425 (Ranked 114)  
+Progressed: 16,426 (Ranked 114)  
 Completed: 47 (0.29%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,7 +186,7 @@ Completed: 47 (0.29%) (Ranked 176)
 | 2023-08-24 | 16,388 | 47 |
 | 2023-08-25 | 16,400 | 47 |
 | 2023-08-26 | 16,412 | 47 |
-| 2023-08-27 | 16,425 | 47 |
+| 2023-08-27 | 16,426 | 47 |
 ## Awards
 Max (Quickly Understood Controls): 425  (Ranked 209)  
 Sum: 3,115 (Ranked 161)  
