@@ -2,20 +2,20 @@
   "ID": "bdbfb29cbd004978acad9ca4eaf9ec82",
   "Name": "Way of the Hunter",
   "ProductSlug": "way-of-the-hunter",
-  "Ranking_Rating": 736,
+  "Ranking_Rating": 742,
   "Ranking_Popularity": 418,
-  "Ranking_PopularitySum": 344,
+  "Ranking_PopularitySum": 342,
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 342,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 343,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-08-22T17:00:00+00:00",
     "PcReleaseDate": "2022-08-16T17:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.37,
+  "Rating": 4.36,
   "NumberOfRatings": 190,
   "RatingHistory": [
     {
@@ -866,10 +866,16 @@
       "Rating": 4.37,
       "NumberOfAwards": 282,
       "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2023-08-26T23:56:55.4220405+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 284,
+      "NumberOfAwardsMax": 44
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 282,
+  "NumberOfAwards": 284,
   "NumberOfAwardsMax": 44,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -877,7 +883,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 40
+      "Count": 41
     },
     {
       "Text": "This game is Great for Beginners",
@@ -913,7 +919,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 29
+      "Count": 30
     },
     {
       "Text": "This game has Amazing Characters",
@@ -964,8 +970,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-22T17:32:55.4881061+00:00",
   "FirstSeenRating": "2022-08-25T19:31:36.42786+00:00",
-  "LastChanged": "2023-08-25T00:03:24.2412732+00:00",
+  "LastChanged": "2023-08-26T23:56:55.4220403+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:10.9004694+00:00",
-  "LastUpdate_Ratings": "2023-08-26T22:57:11.9355027+00:00",
-  "LastUpdate_Achievements": "2023-08-26T23:03:24.0233355+00:00"
+  "LastUpdate_Ratings": "2023-08-26T23:56:55.4220409+00:00",
+  "LastUpdate_Achievements": "2023-08-27T00:02:17.9452378+00:00"
 }

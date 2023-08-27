@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -476,9 +476,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3532,
+  "EOS_Progressed": 3533,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -6221,6 +6221,11 @@
       "Time": "2023-08-26T19:05:48.3638977+00:00",
       "NumProgressed": 3532,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-27T00:04:46.2260431+00:00",
+      "NumProgressed": 3533,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -6280,7 +6285,7 @@
       "Name": "Fields of Glory",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -6352,7 +6357,7 @@
       "Name": "Gunslinger",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -6360,7 +6365,7 @@
       "Name": "Skirmisher",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -6440,7 +6445,7 @@
       "Name": "Lord of War",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1025
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -6448,7 +6453,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -6456,7 +6461,7 @@
       "Name": "Resourceful",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -6496,7 +6501,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -6544,7 +6549,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1131
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -6608,7 +6613,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -6640,7 +6645,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 812
+      "UsersEstimate": 813
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -6752,7 +6757,7 @@
       "Name": "If You Go Down To The Woods Today",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "REWARD_DLC03_02_FIGHT_ANOTHER_DAY",
@@ -6760,7 +6765,7 @@
       "Name": "Fight Another Day",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "REWARD_DLC03_03_STROLL_IN_THE_WOODS",
@@ -6799,13 +6804,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3483,
+      "Progressed": 3484,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3532,
+      "Progressed": 3533,
       "Completed": 9
     }
   ],
@@ -6813,8 +6818,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-08-19T13:59:32.9786794+00:00",
-  "LastChanged_Achievements": "2023-08-26T23:06:35.7446707+00:00",
+  "LastChanged_Achievements": "2023-08-27T00:04:46.2260426+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:12.9306959+00:00",
-  "LastUpdate_Ratings": "2023-08-26T23:00:05.326123+00:00",
-  "LastUpdate_Achievements": "2023-08-26T23:06:35.744793+00:00"
+  "LastUpdate_Ratings": "2023-08-26T23:58:52.4123929+00:00",
+  "LastUpdate_Achievements": "2023-08-27T00:04:46.2261508+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "are-you-smarter-than-a-5th-grader-bc328a",
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-08-23T13:00:00+00:00",
     "PcReleaseDate": "2022-08-23T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 336,
+  "EOS_Progressed": 339,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -362,6 +362,11 @@
       "Time": "2023-08-26T21:08:10.8567564+00:00",
       "NumProgressed": 336,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-27T00:05:43.763515+00:00",
+      "NumProgressed": 339,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 19,
@@ -387,9 +392,9 @@
       "ID": "Byoing",
       "SetID": "6l18k14",
       "Name": "Byoing",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 27
     },
     {
       "ID": "ExamPractice",
@@ -397,7 +402,7 @@
       "Name": "Exam Practice",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ExamTime",
@@ -405,7 +410,7 @@
       "Name": "Exam Time",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 282
+      "UsersEstimate": 285
     },
     {
       "ID": "FifthGrade",
@@ -421,7 +426,7 @@
       "Name": "1st Grade",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 134
+      "UsersEstimate": 136
     },
     {
       "ID": "FourthGrade",
@@ -453,7 +458,7 @@
       "Name": "In The Honor Roll",
       "Percentage": 9,
       "XP": 75,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "Librarian",
@@ -493,7 +498,7 @@
       "Name": "Smarter than a 5th Grader",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "StudySession",
@@ -501,7 +506,7 @@
       "Name": "Study Session",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ThirdGrade",
@@ -524,7 +529,7 @@
     {
       "ID": "6l18k14",
       "IsBase": true,
-      "Progressed": 336,
+      "Progressed": 339,
       "Completed": 0
     }
   ],
@@ -532,8 +537,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.561977+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.3990521+00:00",
   "LastChanged": "2023-03-31T05:58:18.5619771+00:00",
-  "LastChanged_Achievements": "2023-08-26T23:08:04.8036044+00:00",
+  "LastChanged_Achievements": "2023-08-27T00:05:43.7635147+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:57.5078386+00:00",
-  "LastUpdate_Ratings": "2023-08-26T22:59:27.1138313+00:00",
-  "LastUpdate_Achievements": "2023-08-26T23:08:04.8036214+00:00"
+  "LastUpdate_Ratings": "2023-08-26T23:58:27.8379965+00:00",
+  "LastUpdate_Achievements": "2023-08-27T00:05:43.7635307+00:00"
 }

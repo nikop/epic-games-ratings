@@ -4,8 +4,8 @@
   "ProductSlug": "space-war-infinity-024a8f",
   "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 37,
-  "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-08-15T15:00:00+00:00",
     "PcReleaseDate": "2019-05-28T13:00:00+00:00",
@@ -23,8 +23,8 @@
   "Tags": [],
   "EOS_Progressed": 41,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 6,
-  "EOS_NewCompleters": 1,
+  "EOS_NewPlayers": 5,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 7.32,
   "EosHistory": [
     {
@@ -320,17 +320,17 @@
       "ID": "_forcefield",
       "SetID": "2d5739o",
       "Name": "Forcefield",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "_grenade",
       "SetID": "2d5739o",
       "Name": "Grenade",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "_heavy_laser",
@@ -360,9 +360,9 @@
       "ID": "_laser",
       "SetID": "2d5739o",
       "Name": "Laser",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "_laser_enemy",
@@ -400,9 +400,9 @@
       "ID": "_magnet",
       "SetID": "2d5739o",
       "Name": "Magnet",
-      "Percentage": 29,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "_minigun",
@@ -416,9 +416,9 @@
       "ID": "_missile",
       "SetID": "2d5739o",
       "Name": "Missile",
-      "Percentage": 17,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "_mothership",
@@ -480,9 +480,9 @@
       "ID": "_shield",
       "SetID": "2d5739o",
       "Name": "Shield",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "_shotgun",
@@ -567,8 +567,8 @@
   ],
   "FirstSeen": "2023-08-19T02:04:22.1564483+00:00",
   "FirstSeenAchievements": "2023-08-09T13:13:29.9534062+00:00",
-  "LastChanged_Achievements": "2023-08-26T23:04:20.6358293+00:00",
+  "LastChanged_Achievements": "2023-08-27T00:03:24.6713342+00:00",
   "LastUpdate_AppInfo": "2023-08-23T14:57:05.3150433+00:00",
-  "LastUpdate_Ratings": "2023-08-26T22:59:21.0124407+00:00",
-  "LastUpdate_Achievements": "2023-08-26T23:04:20.635864+00:00"
+  "LastUpdate_Ratings": "2023-08-26T23:58:23.6053007+00:00",
+  "LastUpdate_Achievements": "2023-08-27T00:03:24.6713714+00:00"
 }

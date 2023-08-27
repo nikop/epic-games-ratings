@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1113,
+  "EOS_Progressed": 1114,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -840,6 +840,11 @@
       "Time": "2023-08-25T19:07:15.0941622+00:00",
       "NumProgressed": 1113,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-27T00:05:51.2097185+00:00",
+      "NumProgressed": 1114,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -947,7 +952,7 @@
       "Name": "Martian explorer",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ALLTRACKSTARTARUS",
@@ -1187,7 +1192,7 @@
       "Name": "Put it on a shelf",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "OVERTAKE100HUMANS",
@@ -1203,7 +1208,7 @@
       "Name": "A Cheese Grater to the Face",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "TENPLATINUM",
@@ -1266,7 +1271,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1113,
+      "Progressed": 1114,
       "Completed": 0
     }
   ],
@@ -1274,8 +1279,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
-  "LastChanged_Achievements": "2023-08-26T23:08:14.7262894+00:00",
+  "LastChanged_Achievements": "2023-08-27T00:05:51.209718+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:13.2407774+00:00",
-  "LastUpdate_Ratings": "2023-08-26T22:59:15.1247671+00:00",
-  "LastUpdate_Achievements": "2023-08-26T23:08:14.7263518+00:00"
+  "LastUpdate_Ratings": "2023-08-26T23:58:21.2163672+00:00",
+  "LastUpdate_Achievements": "2023-08-27T00:05:51.2097799+00:00"
 }

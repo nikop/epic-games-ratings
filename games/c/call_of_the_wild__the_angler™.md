@@ -6,23 +6,23 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 77.00% | ~3,979 |
-| Hey Good Hookin | 67.00% | ~3,462 |
-| I'm on a Boat! | 58.00% | ~2,997 |
-| Can you smell what the Rod is Hooking | 52.00% | ~2,687 |
-| Scaling up | 52.00% | ~2,687 |
-| More Fish in the Sea | 44.00% | ~2,273 |
-| Ready to Rod and Roll | 43.00% | ~2,222 |
-| Fish Out of Water | 33.00% | ~1,705 |
-| License to Gill | 32.00% | ~1,653 |
+| Fish Just Got Reel | 77.00% | ~3,980 |
+| Hey Good Hookin | 67.00% | ~3,463 |
+| I'm on a Boat! | 58.00% | ~2,998 |
+| Can you smell what the Rod is Hooking | 52.00% | ~2,688 |
+| Scaling up | 52.00% | ~2,688 |
+| More Fish in the Sea | 44.00% | ~2,274 |
+| Ready to Rod and Roll | 43.00% | ~2,223 |
+| Fish Out of Water | 33.00% | ~1,706 |
+| License to Gill | 32.00% | ~1,654 |
 | Things that go Splash in the Night | 28.00% | ~1,447 |
-| Goldfish? | 27.00% | ~1,395 |
-| Going for Gold | 24.00% | ~1,240 |
-| I'm Hooked! | 18.00% | ~930 |
+| Goldfish? | 27.00% | ~1,396 |
+| Going for Gold | 24.00% | ~1,241 |
+| I'm Hooked! | 19.00% | ~982 |
 | Diamond in the Rough | 13.00% | ~672 |
 | More than a Tourist | 12.00% | ~620 |
-| Hook, Line and Sinker | 8.00% | ~413 |
-| Marathon | 8.00% | ~413 |
+| Hook, Line and Sinker | 8.00% | ~414 |
+| Marathon | 8.00% | ~414 |
 | School's Out for Summer | 6.00% | ~310 |
 | Big Fish Small Pond | 6.00% | ~310 |
 | I'm the Captain Now | 5.00% | ~258 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.10% | ~5 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,167 (Ranked 143)  
+Progressed: 5,169 (Ranked 143)  
 Completed: 0 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,6 +171,7 @@ Completed: 0 (0.00%) (Ranked 265)
 | 2023-08-24 | 4,986 | 0 |
 | 2023-08-25 | 5,062 | 0 |
 | 2023-08-26 | 5,167 | 0 |
+| 2023-08-27 | 5,169 | 0 |
 ## Awards
 Max (Relaxing): 33  (Ranked 449)  
 Sum: 163 (Ranked 392)  
