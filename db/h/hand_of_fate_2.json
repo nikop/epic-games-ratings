@@ -2,7 +2,7 @@
   "ID": "eb348461cdaf4bec9d69a1c4bb39ecc4",
   "Name": "Hand of Fate 2",
   "ProductSlug": "hand-of-fate-2",
-  "Ranking_Rating": 473,
+  "Ranking_Rating": 472,
   "Ranking_Popularity": 437,
   "Ranking_PopularitySum": 376,
   "Ranking_EOS_Progress": 23,
@@ -880,7 +880,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 661351,
+  "EOS_Progressed": 661353,
   "EOS_Completed": 168,
   "EOS_NewPlayers": 303,
   "EOS_NewCompleters": 0,
@@ -13055,6 +13055,11 @@
       "Time": "2023-08-27T03:05:51.081061+00:00",
       "NumProgressed": 661351,
       "NumCompleted": 168
+    },
+    {
+      "Time": "2023-08-27T05:06:30.2467899+00:00",
+      "NumProgressed": 661353,
+      "NumCompleted": 168
     }
   ],
   "TotalAchievements": 48,
@@ -13066,7 +13071,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 476173
+      "UsersEstimate": 476174
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -13074,7 +13079,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 383584
+      "UsersEstimate": 383585
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -13449,15 +13454,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 661351,
+      "Progressed": 661353,
       "Completed": 168
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-08-25T17:00:16.792448+00:00",
-  "LastChanged_Achievements": "2023-08-27T04:07:42.4111562+00:00",
+  "LastChanged_Achievements": "2023-08-27T05:06:30.2467894+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:22.0497359+00:00",
-  "LastUpdate_Ratings": "2023-08-27T04:01:22.1311707+00:00",
-  "LastUpdate_Achievements": "2023-08-27T04:07:42.4112842+00:00"
+  "LastUpdate_Ratings": "2023-08-27T05:00:27.5877105+00:00",
+  "LastUpdate_Achievements": "2023-08-27T05:06:30.2469011+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 511,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 199,
+  "EOS_NewPlayers": 195,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.78,
   "EosHistory": [
@@ -1083,9 +1083,9 @@
       "ID": "_05_FinishAct2",
       "SetID": "8a1io5d",
       "Name": "The Gambit Has Begun",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 123
+      "UsersEstimate": 128
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -1115,9 +1115,9 @@
       "ID": "_09_Completion_20",
       "SetID": "8a1io5d",
       "Name": "Powder Monkey",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 123
     },
     {
       "ID": "_10_Completion_30",
@@ -1266,8 +1266,8 @@
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-27T04:05:48.6396578+00:00",
+  "LastChanged_Achievements": "2023-08-27T05:04:53.8110022+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:45.1302228+00:00",
-  "LastUpdate_Ratings": "2023-08-27T04:01:47.5650107+00:00",
-  "LastUpdate_Achievements": "2023-08-27T04:05:48.6396989+00:00"
+  "LastUpdate_Ratings": "2023-08-27T05:00:49.3079856+00:00",
+  "LastUpdate_Achievements": "2023-08-27T05:04:53.811026+00:00"
 }

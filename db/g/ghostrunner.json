@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 160,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1116,9 +1116,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15985,
+  "EOS_Progressed": 15986,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 651,
+  "EOS_NewPlayers": 650,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -14876,6 +14876,11 @@
       "Time": "2023-08-27T04:07:53.7768693+00:00",
       "NumProgressed": 15985,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-08-27T05:06:39.9281244+00:00",
+      "NumProgressed": 15986,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 45,
@@ -14919,7 +14924,7 @@
       "Name": "Can\u0027t Run Can\u0027t Hide",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 2717
+      "UsersEstimate": 2718
     },
     {
       "ID": "DeadInTheAir",
@@ -14975,7 +14980,7 @@
       "Name": "Homerunner",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 7193
+      "UsersEstimate": 7194
     },
     {
       "ID": "ICallItLuck",
@@ -14983,7 +14988,7 @@
       "Name": "I call it luck",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 7033
+      "UsersEstimate": 7034
     },
     {
       "ID": "ImproviseAdaptOverrun",
@@ -15071,7 +15076,7 @@
       "Name": "Out of order",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 7193
+      "UsersEstimate": 7194
     },
     {
       "ID": "Perfection",
@@ -15079,7 +15084,7 @@
       "Name": "Perfection",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 5115
+      "UsersEstimate": 5116
     },
     {
       "ID": "PreempativeStrike",
@@ -15246,21 +15251,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 15985,
+      "Progressed": 15986,
       "Completed": 37
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 15985,
+      "Progressed": 15986,
       "Completed": 61
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-08-26T23:02:05.1789503+00:00",
-  "LastChanged_Achievements": "2023-08-27T04:07:53.7768686+00:00",
+  "LastChanged_Achievements": "2023-08-27T05:06:39.9281237+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:52.7719292+00:00",
-  "LastUpdate_Ratings": "2023-08-27T04:01:56.008093+00:00",
-  "LastUpdate_Achievements": "2023-08-27T04:07:53.7770139+00:00"
+  "LastUpdate_Ratings": "2023-08-27T05:00:55.5247336+00:00",
+  "LastUpdate_Achievements": "2023-08-27T05:06:39.928242+00:00"
 }

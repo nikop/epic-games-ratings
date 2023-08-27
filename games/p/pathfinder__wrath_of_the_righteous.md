@@ -13,7 +13,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Mythic Choices | 13.00% | ~1,442 |
 | Banner over the Citadel | 12.00% | ~1,331 |
 | Queen's Gratitude | 11.00% | ~1,220 |
-| Fifth Crusade | 7.00% | ~776 |
+| Fifth Crusade | 7.00% | ~777 |
 | Embrace of the Abyss | 6.00% | ~666 |
 | Path of the Angel | 6.00% | ~666 |
 | Demonic and Divine | 6.00% | ~666 |
@@ -41,9 +41,9 @@ Number of Ratings: 1,354  (23.09.2022)
 | Capitulation Is Now Moot | 2.00% | ~222 |
 | Your First Big Enemy | 2.00% | ~222 |
 | Truly Important Deed | 2.00% | ~222 |
-| Stay Underground | 2.00% | ~197 |
-| Hanged Man's Notes | 2.00% | ~197 |
-| Sarkoris Will Be Green | 2.00% | ~197 |
+| Stay Underground | 2.00% | ~198 |
+| Hanged Man's Notes | 2.00% | ~198 |
+| Sarkoris Will Be Green | 2.00% | ~198 |
 | The Final Threshold | 1.00% | ~111 |
 | Strategic Victory | 1.00% | ~111 |
 | Abyssal Conspiracy | 1.00% | ~111 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,092 (Ranked 123)  
+Progressed: 11,093 (Ranked 123)  
 Completed: 0 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 0 (0.00%) (Ranked 265)
 | 2023-08-24 | 11,054 | 0 |
 | 2023-08-25 | 11,071 | 0 |
 | 2023-08-26 | 11,088 | 0 |
-| 2023-08-27 | 11,092 | 0 |
+| 2023-08-27 | 11,093 | 0 |
 ## Awards
 Max (Character Customization): 1,701  (Ranked 118)  
 Sum: 6,903 (Ranked 114)  

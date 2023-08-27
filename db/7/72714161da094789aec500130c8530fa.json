@@ -4,7 +4,7 @@
   "ProductSlug": "space-war-infinity-024a8f",
   "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 37,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-08-15T15:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 41,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 7.32,
   "EosHistory": [
@@ -264,17 +264,17 @@
       "ID": "_bomb_m3",
       "SetID": "2d5739o",
       "Name": "Bomb m3",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "_cannon",
       "SetID": "2d5739o",
       "Name": "Cannon",
-      "Percentage": 17,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "_cannon_sentinel",
@@ -408,9 +408,9 @@
       "ID": "_minigun",
       "SetID": "2d5739o",
       "Name": "Minigun",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "_missile",
@@ -440,9 +440,9 @@
       "ID": "_plasma",
       "SetID": "2d5739o",
       "Name": "Plasma",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "_plasma_sentinel",
@@ -464,17 +464,17 @@
       "ID": "_riflegun",
       "SetID": "2d5739o",
       "Name": "Riflegun",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "_sentinel",
       "SetID": "2d5739o",
       "Name": "Sentinel",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "_shield",
@@ -567,8 +567,8 @@
   ],
   "FirstSeen": "2023-08-19T02:04:22.1564483+00:00",
   "FirstSeenAchievements": "2023-08-09T13:13:29.9534062+00:00",
-  "LastChanged_Achievements": "2023-08-27T04:04:45.638925+00:00",
+  "LastChanged_Achievements": "2023-08-27T05:03:51.4475463+00:00",
   "LastUpdate_AppInfo": "2023-08-23T14:57:05.3150433+00:00",
-  "LastUpdate_Ratings": "2023-08-27T03:59:32.1272121+00:00",
-  "LastUpdate_Achievements": "2023-08-27T04:04:45.6389875+00:00"
+  "LastUpdate_Ratings": "2023-08-27T04:58:57.4326032+00:00",
+  "LastUpdate_Achievements": "2023-08-27T05:03:51.4475832+00:00"
 }

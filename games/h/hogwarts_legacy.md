@@ -6,13 +6,13 @@ Rating: 4.77 (Ranked 109)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 13.00% | ~37,815 |
-| First Class Student | 11.00% | ~31,997 |
-| Troll with the Punches | 11.00% | ~31,997 |
-| The Hallowed Hero | 10.00% | ~29,088 |
-| The Defender of Dragons | 10.00% | ~29,088 |
-| A Keen Sense of Spell | 10.00% | ~29,088 |
-| A Talent for Spending | 10.00% | ~29,088 |
-| That's a Keeper | 10.00% | ~29,088 |
+| First Class Student | 11.00% | ~31,998 |
+| Troll with the Punches | 11.00% | ~31,998 |
+| The Hallowed Hero | 10.00% | ~29,089 |
+| The Defender of Dragons | 10.00% | ~29,089 |
+| A Keen Sense of Spell | 10.00% | ~29,089 |
+| A Talent for Spending | 10.00% | ~29,089 |
+| That's a Keeper | 10.00% | ~29,089 |
 | Grappling with a Graphorn | 9.00% | ~26,180 |
 | The One Who Mastered Memories | 9.00% | ~26,180 |
 | The Hero of Hogwarts | 9.00% | ~26,180 |
@@ -30,12 +30,12 @@ Rating: 4.77 (Ranked 109)
 | The Root of the Problem | 5.00% | ~14,544 |
 | Third Time's a Charm | 5.00% | ~14,544 |
 | Raising Expectations | 5.00% | ~14,544 |
-| The Toast of the Town | 4.00% | ~11,635 |
-| Going Through the Potions | 4.00% | ~11,635 |
-| Room with a View | 4.00% | ~11,635 |
-| The Intrepid Explorer | 4.00% | ~11,635 |
-| The Gryffindor in the Graveyard | 4.00% | ~11,635 |
-| The Ends Petrify the Means | 4.00% | ~11,635 |
+| The Toast of the Town | 4.00% | ~11,636 |
+| Going Through the Potions | 4.00% | ~11,636 |
+| Room with a View | 4.00% | ~11,636 |
+| The Intrepid Explorer | 4.00% | ~11,636 |
+| The Gryffindor in the Graveyard | 4.00% | ~11,636 |
+| The Ends Petrify the Means | 4.00% | ~11,636 |
 | Floo Around the World | 3.00% | ~8,727 |
 | The Wise Owl | 3.00% | ~8,727 |
 | The Good Samaritan | 2.00% | ~5,818 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,745 |
 | Collector's Edition | 0.30% | ~873 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,884 (Ranked 43)  
+Progressed: 290,888 (Ranked 43)  
 Completed: 456 (0.16%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,16 +180,16 @@ Completed: 456 (0.16%) (Ranked 196)
 | 2023-08-24 | 290,736 | 454 |
 | 2023-08-25 | 290,790 | 455 |
 | 2023-08-26 | 290,865 | 455 |
-| 2023-08-27 | 290,884 | 456 |
+| 2023-08-27 | 290,888 | 456 |
 ## Awards
 Max (Character Customization): 21,948  (Ranked 17)  
-Sum: 41,591 (Ranked 30)  
+Sum: 41,596 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 21,948 |
 | This game has Great Boss Battles | 10,687 |
-| This game is Great for Beginners | 992 |
+| This game is Great for Beginners | 997 |
 | This game is Extremely Fun | 970 |
 | This game is Relaxing | 970 |
 | This game has Amazing Storytelling | 962 |
@@ -358,4 +358,4 @@ Diff (max vs sum): -13
 | 2023-08-24 | 4.77 | 21,908 | 41,494 |
 | 2023-08-25 | 4.77 | 21,923 | 41,535 |
 | 2023-08-26 | 4.77 | 21,948 | 41,589 |
-| 2023-08-27 | 4.77 | 21,948 | 41,591 |
+| 2023-08-27 | 4.77 | 21,948 | 41,596 |

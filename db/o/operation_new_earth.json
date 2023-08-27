@@ -4,8 +4,8 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1111,
+  "EOS_Progressed": 1112,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3891,6 +3891,11 @@
       "Time": "2023-08-27T03:04:07.4769735+00:00",
       "NumProgressed": 1111,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-27T05:04:35.4654598+00:00",
+      "NumProgressed": 1112,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4078,7 +4083,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -4086,7 +4091,7 @@
       "Name": "Covert Operative",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -4205,14 +4210,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1111,
+      "Progressed": 1112,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-27T04:05:26.5206269+00:00",
+  "LastChanged_Achievements": "2023-08-27T05:04:35.4654592+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:58:05.1002416+00:00",
-  "LastUpdate_Ratings": "2023-08-27T03:59:48.4955441+00:00",
-  "LastUpdate_Achievements": "2023-08-27T04:05:26.5206829+00:00"
+  "LastUpdate_Ratings": "2023-08-27T04:59:10.0912491+00:00",
+  "LastUpdate_Achievements": "2023-08-27T05:04:35.4655116+00:00"
 }

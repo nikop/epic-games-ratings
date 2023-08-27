@@ -4,7 +4,7 @@
   "ProductSlug": "merchant-of-the-skies",
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-04-13T15:00:00+00:00",
@@ -133,9 +133,9 @@
       "ID": "achievement_bank_invested",
       "SetID": "7171fo0",
       "Name": "Thrifty",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 433
+      "UsersEstimate": 443
     },
     {
       "ID": "achievement_botanical",
@@ -238,8 +238,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.9474468+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.0879809+00:00",
   "LastChanged": "2023-03-31T05:58:14.9474469+00:00",
-  "LastChanged_Achievements": "2023-08-27T04:08:13.3325804+00:00",
+  "LastChanged_Achievements": "2023-08-27T05:06:56.0838212+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:19.159316+00:00",
-  "LastUpdate_Ratings": "2023-08-27T04:01:18.7645358+00:00",
-  "LastUpdate_Achievements": "2023-08-27T04:08:13.3325894+00:00"
+  "LastUpdate_Ratings": "2023-08-27T05:00:24.6977044+00:00",
+  "LastUpdate_Achievements": "2023-08-27T05:06:56.0838314+00:00"
 }
