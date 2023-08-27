@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 100,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-11-15T00:00:00+00:00",
@@ -84,9 +84,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1625,
+  "EOS_Progressed": 1626,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.66,
   "EosHistory": [
@@ -534,6 +534,11 @@
       "Time": "2023-08-27T00:06:20.3985164+00:00",
       "NumProgressed": 1625,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-08-27T06:10:15.3712276+00:00",
+      "NumProgressed": 1626,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 11,
@@ -593,7 +598,7 @@
       "Name": "\u201COccupied!\u201C",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "SomervilleUnderstanding",
@@ -623,16 +628,16 @@
       "ID": "SomervilleWorldsBestDad",
       "SetID": "3mk3nll",
       "Name": "Worlds best dad",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     }
   ],
   "AchievementSets": [
     {
       "ID": "3mk3nll",
       "IsBase": true,
-      "Progressed": 1625,
+      "Progressed": 1626,
       "Completed": 27
     }
   ],
@@ -640,8 +645,8 @@
   "FirstSeenRating": "2022-11-25T17:58:18.0029626+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.8533708+00:00",
   "LastChanged": "2023-03-31T05:58:16.104552+00:00",
-  "LastChanged_Achievements": "2023-08-27T05:07:26.1419402+00:00",
+  "LastChanged_Achievements": "2023-08-27T06:10:15.3712268+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:27.3136141+00:00",
-  "LastUpdate_Ratings": "2023-08-27T05:00:32.1967201+00:00",
-  "LastUpdate_Achievements": "2023-08-27T05:07:26.1419542+00:00"
+  "LastUpdate_Ratings": "2023-08-27T06:03:16.6184458+00:00",
+  "LastUpdate_Achievements": "2023-08-27T06:10:15.3712398+00:00"
 }

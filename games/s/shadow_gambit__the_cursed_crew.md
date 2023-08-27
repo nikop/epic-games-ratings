@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 74.00% | ~378 |
+| A New Journey | 73.00% | ~374 |
 | The Adventure Begins | 54.00% | ~276 |
-| Swabbie | 40.00% | ~204 |
-| With Great Power… | 38.00% | ~194 |
+| Swabbie | 40.00% | ~205 |
+| With Great Power… | 38.00% | ~195 |
 | This Belongs in a Museum | 32.00% | ~164 |
 | The Gambit Has Begun | 25.00% | ~128 |
 | Powder Monkey | 24.00% | ~123 |
@@ -31,7 +31,7 @@
 | Fully Decked | 2.00% | ~10 |
 | Welcome Back Jester | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 511 (Ranked 229)  
+Progressed: 512 (Ranked 229)  
 Completed: 4 (0.78%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -53,4 +53,4 @@ Completed: 4 (0.78%) (Ranked 128)
 | 2023-08-24 | 485 | 0 |
 | 2023-08-25 | 499 | 0 |
 | 2023-08-26 | 509 | 4 |
-| 2023-08-27 | 511 | 4 |
+| 2023-08-27 | 512 | 4 |

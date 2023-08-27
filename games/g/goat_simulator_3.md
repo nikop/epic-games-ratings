@@ -5,24 +5,24 @@ Rating: 4.84 (Ranked 48)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~219,881 |
+| Forgotten Sorority | 91.00% | ~219,882 |
 | Private Club | 74.00% | ~178,805 |
-| Rogue Guild | 65.00% | ~157,058 |
-| I Watched the Intro | 57.00% | ~137,728 |
-| Covert Consortium | 55.00% | ~132,895 |
+| Rogue Guild | 65.00% | ~157,059 |
+| I Watched the Intro | 57.00% | ~137,729 |
+| Covert Consortium | 55.00% | ~132,896 |
 | Goat Queen | 53.00% | ~128,063 |
 | Reach the Stratosphere | 50.00% | ~120,814 |
-| Synchronization Complete | 47.00% | ~113,565 |
+| Synchronization Complete | 47.00% | ~113,566 |
 | Secret Society | 45.00% | ~108,733 |
 | Shadow Syndicate | 38.00% | ~91,819 |
-| What a Waste of Money | 33.00% | ~79,737 |
-| New Goat Order | 30.00% | ~72,488 |
+| What a Waste of Money | 33.00% | ~79,738 |
+| New Goat Order | 30.00% | ~72,489 |
 | Don't touch the servers | 28.00% | ~67,656 |
-| San Angora: Become Human | 26.00% | ~62,823 |
-| Raider of the Lost Parking Garage | 26.00% | ~62,823 |
-| Real Buoy | 26.00% | ~62,823 |
+| San Angora: Become Human | 26.00% | ~62,824 |
+| Raider of the Lost Parking Garage | 26.00% | ~62,824 |
+| Real Buoy | 26.00% | ~62,824 |
 | Welcome to Earth | 25.00% | ~60,407 |
-| Into the Matrix | 19.00% | ~45,909 |
+| Into the Matrix | 19.00% | ~45,910 |
 | Where is It? | 17.00% | ~41,077 |
 | Egg Simulator | 17.00% | ~41,077 |
 | Beauty, Mindfulness and Meditation | 15.00% | ~36,244 |
@@ -45,7 +45,7 @@ Rating: 4.84 (Ranked 48)
 | Move! That! Bus! | 0.60% | ~1,450 |
 | G.O.A.T | 0.30% | ~725 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,628 (Ranked 49)  
+Progressed: 241,629 (Ranked 49)  
 Completed: 812 (0.34%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 812 (0.34%) (Ranked 168)
 | 2023-08-24 | 241,312 | 810 |
 | 2023-08-25 | 241,438 | 810 |
 | 2023-08-26 | 241,605 | 812 |
-| 2023-08-27 | 241,628 | 812 |
+| 2023-08-27 | 241,629 | 812 |
 ## Awards
 Max (Great for Beginners): 384  (Ranked 220)  
 Sum: 3,261 (Ranked 154)  

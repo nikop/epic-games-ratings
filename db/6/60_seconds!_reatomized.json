@@ -170,7 +170,7 @@
   "Tags": [],
   "EOS_Progressed": 4987,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -4700,9 +4700,9 @@
       "ID": "ACH_EXPLORE_SHELTER",
       "SetID": "5nj1ea3",
       "Name": "No stone unturned",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 549
+      "UsersEstimate": 598
     },
     {
       "ID": "ACH_FAMILY_GUY",
@@ -4981,8 +4981,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-08-11T11:57:12.7338821+00:00",
-  "LastChanged_Achievements": "2023-08-27T05:07:29.7385385+00:00",
+  "LastChanged_Achievements": "2023-08-27T06:10:19.969368+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:52.1849149+00:00",
-  "LastUpdate_Ratings": "2023-08-27T04:58:56.7928265+00:00",
-  "LastUpdate_Achievements": "2023-08-27T05:07:29.7386204+00:00"
+  "LastUpdate_Ratings": "2023-08-27T06:00:45.8730555+00:00",
+  "LastUpdate_Achievements": "2023-08-27T06:10:19.9694666+00:00"
 }

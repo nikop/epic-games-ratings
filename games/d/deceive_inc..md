@@ -28,9 +28,9 @@ Rating: 4.57 (Ranked 450)
 | In It to Win It | 10.00% | ~1,768 |
 | Security Supervisor | 6.00% | ~1,061 |
 | License to Thrill | 5.00% | ~884 |
-| Social of Solace | 3.00% | ~530 |
-| Live and let lie | 3.00% | ~530 |
-| Safe Withdrawal | 3.00% | ~530 |
+| Social of Solace | 3.00% | ~531 |
+| Live and let lie | 3.00% | ~531 |
+| Safe Withdrawal | 3.00% | ~531 |
 | Branch Manager | 2.00% | ~354 |
 | Call Me Maybe | 2.00% | ~354 |
 | PHD in VIP | 2.00% | ~354 |
@@ -42,7 +42,7 @@ Rating: 4.57 (Ranked 450)
 | Extraction Confusion | 0.20% | ~35 |
 | Spyfall | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,683 (Ranked 111)  
+Progressed: 17,684 (Ranked 111)  
 Completed: 1 (0.01%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 1 (0.01%) (Ranked 252)
 | 2023-08-24 | 17,618 | 1 |
 | 2023-08-25 | 17,655 | 1 |
 | 2023-08-26 | 17,681 | 1 |
-| 2023-08-27 | 17,683 | 1 |
+| 2023-08-27 | 17,684 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

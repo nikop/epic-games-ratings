@@ -634,9 +634,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5178,
+  "EOS_Progressed": 5179,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 243,
+  "EOS_NewPlayers": 244,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6054,6 +6054,11 @@
       "Time": "2023-08-27T05:06:46.0484824+00:00",
       "NumProgressed": 5178,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-27T06:09:28.3079934+00:00",
+      "NumProgressed": 5179,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -6065,7 +6070,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3987
+      "UsersEstimate": 3988
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -6081,7 +6086,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 3469
+      "UsersEstimate": 3470
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -6105,7 +6110,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 3003
+      "UsersEstimate": 3004
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -6113,7 +6118,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 2278
+      "UsersEstimate": 2279
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -6344,13 +6349,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 5178,
+      "Progressed": 5179,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 4550,
+      "Progressed": 4551,
       "Completed": 112
     }
   ],
@@ -6358,8 +6363,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-08-23T22:57:56.9776438+00:00",
-  "LastChanged_Achievements": "2023-08-27T05:06:46.0484817+00:00",
+  "LastChanged_Achievements": "2023-08-27T06:09:28.3079925+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:20.9001676+00:00",
-  "LastUpdate_Ratings": "2023-08-27T04:58:18.2744332+00:00",
-  "LastUpdate_Achievements": "2023-08-27T05:06:46.0485453+00:00"
+  "LastUpdate_Ratings": "2023-08-27T05:59:30.5131143+00:00",
+  "LastUpdate_Achievements": "2023-08-27T06:09:28.3080682+00:00"
 }

@@ -1931,9 +1931,9 @@
       "ID": "ID_16_WATCH_AT_MUSEUM",
       "SetID": "7o8nc5m",
       "Name": "Museum Time",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 198
     },
     {
       "ID": "ID_17_CLEAR_FIRST_MISSION",
@@ -2099,8 +2099,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-08-27T04:01:27.5688672+00:00",
-  "LastChanged_Achievements": "2023-08-27T05:06:13.001814+00:00",
+  "LastChanged_Achievements": "2023-08-27T06:08:49.9615222+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:27.4748037+00:00",
-  "LastUpdate_Ratings": "2023-08-27T05:00:32.3507402+00:00",
-  "LastUpdate_Achievements": "2023-08-27T05:06:13.0018482+00:00"
+  "LastUpdate_Ratings": "2023-08-27T06:03:16.9702365+00:00",
+  "LastUpdate_Achievements": "2023-08-27T06:08:49.9616046+00:00"
 }

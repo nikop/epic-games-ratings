@@ -2,9 +2,9 @@
   "ID": "1293d5a9bfc84e7e8574d02b6ee5a3af",
   "Name": "Are You Smarter Than A 5th Grader",
   "ProductSlug": "are-you-smarter-than-a-5th-grader-bc328a",
-  "Ranking_EOS_Progress": 260,
+  "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-08-23T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 340,
+  "EOS_Progressed": 341,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -372,6 +372,11 @@
       "Time": "2023-08-27T03:06:02.142366+00:00",
       "NumProgressed": 340,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-27T06:09:25.2713678+00:00",
+      "NumProgressed": 341,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 19,
@@ -511,7 +516,7 @@
       "Name": "Study Session",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ThirdGrade",
@@ -534,7 +539,7 @@
     {
       "ID": "6l18k14",
       "IsBase": true,
-      "Progressed": 340,
+      "Progressed": 341,
       "Completed": 0
     }
   ],
@@ -542,8 +547,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.561977+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.3990521+00:00",
   "LastChanged": "2023-03-31T05:58:18.5619771+00:00",
-  "LastChanged_Achievements": "2023-08-27T05:06:43.5467955+00:00",
+  "LastChanged_Achievements": "2023-08-27T06:09:25.2713671+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:57.5078386+00:00",
-  "LastUpdate_Ratings": "2023-08-27T04:59:01.91026+00:00",
-  "LastUpdate_Achievements": "2023-08-27T05:06:43.5468135+00:00"
+  "LastUpdate_Ratings": "2023-08-27T06:00:55.5509869+00:00",
+  "LastUpdate_Achievements": "2023-08-27T06:09:25.2713839+00:00"
 }

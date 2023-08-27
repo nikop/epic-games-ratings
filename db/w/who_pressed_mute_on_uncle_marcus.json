@@ -4,7 +4,7 @@
   "ProductSlug": "who-pressed-mute-on-uncle-marucs-ee90a4",
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 22,
-  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewPlayers": 296,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
@@ -407,9 +407,9 @@
       "ID": "blow",
       "SetID": "202dmm8",
       "Name": "Blow",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 72
+      "UsersEstimate": 75
     },
     {
       "ID": "brown_nosing",
@@ -536,8 +536,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-08-27T05:06:52.7742649+00:00",
+  "LastChanged_Achievements": "2023-08-27T06:09:36.5288912+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:40.3079268+00:00",
-  "LastUpdate_Ratings": "2023-08-27T04:58:37.7695779+00:00",
-  "LastUpdate_Achievements": "2023-08-27T05:06:52.7742789+00:00"
+  "LastUpdate_Ratings": "2023-08-27T06:00:10.4688607+00:00",
+  "LastUpdate_Achievements": "2023-08-27T06:09:36.5289094+00:00"
 }

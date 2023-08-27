@@ -16,6 +16,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Maddening | 0.30% | ~676 |
 | Were-verpowered | 0.30% | ~676 |
 | A Persistent Buzzing | 0.30% | ~676 |
+| A Mysterious Summons | 0.30% | ~676 |
 | The Crumbling Temple | 0.30% | ~676 |
 | Seeking Allies | 0.30% | ~676 |
 | Are Ya Chicken? | 0.30% | ~676 |
@@ -42,7 +43,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Mode | 0.20% | ~451 |
 | Terror in the Dark | 0.20% | ~451 |
 | Low Initiative | 0.20% | ~451 |
-| A Mysterious Summons | 0.20% | ~451 |
 | Street War | 0.20% | ~451 |
 | Building Trust | 0.20% | ~451 |
 | March of the Undead | 0.20% | ~451 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~192 |
 | Animated Giff | 0.10% | ~192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,289 (Ranked 53)  
+Progressed: 225,297 (Ranked 53)  
 Completed: 2,219 (0.98%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -652,7 +652,7 @@ Completed: 2,219 (0.98%) (Ranked 122)
 | 2023-08-24 | 224,686 | 2,211 |
 | 2023-08-25 | 224,925 | 2,214 |
 | 2023-08-26 | 225,221 | 2,219 |
-| 2023-08-27 | 225,289 | 2,219 |
+| 2023-08-27 | 225,297 | 2,219 |
 ## Awards
 Max (Diverse Characters): 5,189  (Ranked 68)  
 Sum: 31,233 (Ranked 39)  

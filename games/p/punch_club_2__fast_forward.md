@@ -29,12 +29,12 @@
 | It's good to be alive | 60.00% | ~162 |
 | Own four walls | 60.00% | ~162 |
 | Handyman | 59.00% | ~159 |
+| Employee of the year | 59.00% | ~159 |
 | Fight for life | 58.00% | ~157 |
 | Little hacker | 58.00% | ~157 |
-| Employee of the year | 58.00% | ~157 |
 | Intriguing candies | 57.00% | ~154 |
 | Legal courier | 55.00% | ~148 |
-| Extreme neuropower! | 53.00% | ~143 |
+| Extreme neuropower! | 54.00% | ~146 |
 | Escaped from a big trouble | 52.00% | ~140 |
 | Now you are worthy | 49.00% | ~132 |
 | Guiding on the right path | 47.00% | ~127 |

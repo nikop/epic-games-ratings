@@ -51,6 +51,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Top of the World | 0.30% | ~406 |
 | Proud Paladin | 0.30% | ~406 |
 | Above the Norm | 0.30% | ~406 |
+| Constellated | 0.30% | ~406 |
 | A Ronin Reborn | 0.30% | ~406 |
 | Tax not Included | 0.30% | ~406 |
 | The King's Caprice | 0.30% | ~406 |
@@ -79,6 +80,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Master Merchant | 0.30% | ~406 |
 | Miracle Alchemist | 0.30% | ~406 |
 | Laden with Loot | 0.30% | ~406 |
+| Bountiful Harvest | 0.30% | ~406 |
 | Seasoned Journeyman | 0.30% | ~406 |
 | Precision Engineering | 0.30% | ~406 |
 | Scourge of the Seas | 0.30% | ~406 |
@@ -91,7 +93,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Special Ingredient | 0.30% | ~406 |
 | Exotic Commodities | 0.30% | ~406 |
 | Complete Monopoly | 0.30% | ~406 |
-| Constellated | 0.20% | ~270 |
 | The Free Encyclopedia | 0.20% | ~270 |
 | Fillin' the Bin | 0.20% | ~270 |
 | Thank You Tom Nook | 0.20% | ~270 |
@@ -99,7 +100,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | By Your Powers Combined... | 0.20% | ~270 |
 | A Legend is Born | 0.20% | ~270 |
 | Jackpot! | 0.20% | ~270 |
-| Bountiful Harvest | 0.20% | ~270 |
 | Eternal Crusade | 0.20% | ~270 |
 | Master Recycler | 0.20% | ~270 |
 | All Accounted For | 0.20% | ~270 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~135 |
 | Cash Only Please | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,204 (Ranked 67)  
+Progressed: 135,207 (Ranked 67)  
 Completed: 138 (0.10%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,7 +248,7 @@ Completed: 138 (0.10%) (Ranked 212)
 | 2023-08-24 | 135,040 | 138 |
 | 2023-08-25 | 135,108 | 138 |
 | 2023-08-26 | 135,191 | 138 |
-| 2023-08-27 | 135,204 | 138 |
+| 2023-08-27 | 135,207 | 138 |
 ## Awards
 Max (Great for Beginners): 4,716  (Ranked 71)  
 Sum: 27,147 (Ranked 47)  
