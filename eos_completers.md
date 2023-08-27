@@ -37,7 +37,7 @@
 | 35 | [Ravenlok](games/r/ravenlok.md) | 7.56% |
 | 36 | [Smelter](games/s/smelter.md) | 7.50% |
 | 37 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 7.32% |
-| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.06% |
+| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.05% |
 | 39 | [Scorn](games/s/scorn.md) | 6.99% |
 | 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.83% |
 | 41 | [Time Loader](games/t/time_loader.md) | 6.78% |
@@ -51,7 +51,7 @@
 | 49 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.26% |
 | 50 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.17% |
 | 51 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.13% |
-| 52 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.12% |
+| 52 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.11% |
 | 53 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.84% |
 | 54 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 4.76% |
 | 55 | [Bugsnax](games/b/bugsnax.md) | 4.73% |
@@ -90,7 +90,7 @@
 | 88 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.42% |
 | 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.25% |
 | 90 | [Bloodshore](games/b/bloodshore.md) | 2.20% |
-| 91 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.17% |
+| 91 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.16% |
 | 92 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
 | 93 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.01% |
 | 94 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
