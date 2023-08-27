@@ -119,9 +119,9 @@
 | 117 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.03% |
 | 118 | [Adios](games/a/adios.md) | 1.01% |
 | 118 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.01% |
+| 120 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.99% |
 | 120 | [Sable](games/s/sable.md) | 0.99% |
 | 120 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.99% |
-| 122 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
 | 123 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.96% |
 | 124 | [Hades](games/h/hades.md) | 0.90% |
 | 125 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
@@ -144,10 +144,10 @@
 | 142 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.57% |
 | 143 | [Grindstone](games/g/grindstone.md) | 0.56% |
 | 144 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.54% |
+| 145 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.52% |
 | 145 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.52% |
 | 145 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
-| 147 | [Aragami 2](games/a/aragami_2.md) | 0.51% |
-| 147 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.51% |
+| 148 | [Aragami 2](games/a/aragami_2.md) | 0.51% |
 | 149 | [The Surge 2](games/t/the_surge_2.md) | 0.50% |
 | 150 | [Godlike Burger](games/g/godlike_burger.md) | 0.49% |
 | 151 | [Them and Us](games/t/them_and_us.md) | 0.48% |
