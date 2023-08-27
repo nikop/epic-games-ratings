@@ -37,8 +37,8 @@
 | 35 | [Ravenlok](games/r/ravenlok.md) | 7.56% |
 | 36 | [Smelter](games/s/smelter.md) | 7.50% |
 | 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.04% |
-| 38 | [Scorn](games/s/scorn.md) | 6.98% |
-| 38 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 6.98% |
+| 38 | [Scorn](games/s/scorn.md) | 7.02% |
+| 39 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 6.98% |
 | 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.81% |
 | 41 | [Time Loader](games/t/time_loader.md) | 6.78% |
 | 42 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.70% |
@@ -70,10 +70,10 @@
 | 68 | [Bunny Park](games/b/bunny_park.md) | 3.37% |
 | 69 | [The Complex](games/t/the_complex.md) | 3.33% |
 | 70 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
-| 71 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.17% |
-| 72 | [HordeCore](games/h/hordecore.md) | 3.15% |
+| 71 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.15% |
+| 71 | [HordeCore](games/h/hordecore.md) | 3.15% |
 | 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.10% |
-| 74 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.03% |
+| 74 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.02% |
 | 75 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.95% |
 | 76 | [Monster Harvest](games/m/monster_harvest.md) | 2.93% |
 | 76 | [MultiVersus](games/m/multiversus.md) | 2.93% |
