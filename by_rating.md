@@ -301,7 +301,7 @@
 | 277 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 0 | 514 |
 | 300 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 514 |
 | 300 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 0 | 514 |
-| 300 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 5,221 | 67 |
+| 300 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 5,222 | 67 |
 | 300 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 169 | 289 |
 | 300 | [High On Life](games/h/high_on_life.md) | 4.65 | 0 | 514 |
 | 300 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 0 | 514 |
@@ -461,7 +461,7 @@
 | 452 | [Hob](games/h/hob.md) | 4.57 | 0 | 514 |
 | 452 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 38 | 428 |
 | 452 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.57 | 0 | 514 |
-| 452 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,709 | 45 |
+| 452 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,714 | 45 |
 | 452 | [Observation](games/o/observation.md) | 4.57 | 0 | 514 |
 | 452 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,223 | 93 |
 | 452 | [Risen](games/r/risen.md) | 4.57 | 0 | 514 |
@@ -517,7 +517,7 @@
 | 515 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 514 |
 | 515 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.53 | 24 | 485 |
 | 515 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 514 |
-| 515 | [Dauntless](games/d/dauntless.md) | 4.53 | 21,483 | 18 |
+| 515 | [Dauntless](games/d/dauntless.md) | 4.53 | 21,510 | 18 |
 | 515 | [Everything](games/e/everything.md) | 4.53 | 0 | 514 |
 | 515 | [Far Cry](games/f/far_cry.md) | 4.53 | 0 | 514 |
 | 515 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 1,417 | 127 |
@@ -566,7 +566,7 @@
 | 560 | [Dark Deception](games/d/dark_deception.md) | 4.50 | 0 | 514 |
 | 560 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 91 | 350 |
 | 560 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 514 |
-| 560 | [First Class Trouble](games/f/first_class_trouble.md) | 4.50 | 123 | 316 |
+| 560 | [First Class Trouble](games/f/first_class_trouble.md) | 4.50 | 124 | 314 |
 | 560 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 4.50 | 0 | 514 |
 | 560 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 4.50 | 0 | 514 |
 | 560 | [Horace](games/h/horace.md) | 4.50 | 0 | 514 |
@@ -582,7 +582,7 @@
 | 580 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 64 | 388 |
 | 580 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.49 | 0 | 514 |
 | 580 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,988 | 109 |
-| 580 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 36,612 | 13 |
+| 580 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 36,636 | 13 |
 | 580 | [Duskers](games/d/duskers.md) | 4.49 | 0 | 514 |
 | 580 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 273 | 245 |
 | 580 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 249 | 254 |
@@ -705,7 +705,7 @@
 | 687 | [Warpips](games/w/warpips.md) | 4.41 | 26 | 476 |
 | 687 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.41 | 0 | 514 |
 | 687 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.41 | 0 | 514 |
-| 687 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 1,282 | 133 |
+| 687 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 1,284 | 133 |
 | 707 | [Breathedge](games/b/breathedge.md) | 4.40 | 0 | 514 |
 | 707 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.40 | 0 | 514 |
 | 707 | [Iron Harvest](games/i/iron_harvest.md) | 4.40 | 0 | 514 |
@@ -743,7 +743,7 @@
 | 736 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 32 | 456 |
 | 742 | [Core](games/c/core.md) | 4.36 | 747 | 164 |
 | 742 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 173 | 286 |
-| 742 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,643 | 30 |
+| 742 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,644 | 30 |
 | 742 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.36 | 0 | 514 |
 | 742 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 514 |
 | 742 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 26 | 476 |
@@ -860,7 +860,7 @@
 | 855 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.21 | 0 | 514 |
 | 855 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 15,551 | 23 |
 | 855 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.21 | 0 | 514 |
-| 861 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 123 | 316 |
+| 861 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 123 | 317 |
 | 861 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 121 | 318 |
 | 861 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 0 | 514 |
 | 861 | [Druidstone: The Secret of the Menhir Forest](games/d/druidstone__the_secret_of_the_menhir_forest.md) | 4.20 | 0 | 514 |

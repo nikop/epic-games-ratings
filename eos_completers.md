@@ -14,7 +14,7 @@
 | 12 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 23.73% |
 | 13 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 13 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
-| 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 18.66% |
+| 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 18.52% |
 | 16 | [Island Cities](games/i/island_cities.md) | 18.45% |
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
 | 18 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.46% |
@@ -30,7 +30,7 @@
 | 28 | [Remains](games/r/remains.md) | 10.42% |
 | 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.29% |
 | 30 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
-| 31 | [Sonic Origins](games/s/sonic_origins.md) | 9.35% |
+| 31 | [Sonic Origins](games/s/sonic_origins.md) | 9.32% |
 | 32 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
 | 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.97% |
 | 34 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.47% |
@@ -88,7 +88,7 @@
 | 86 | [Lamentum](games/l/lamentum.md) | 2.53% |
 | 87 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 88 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.42% |
-| 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.26% |
+| 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.25% |
 | 90 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.21% |
 | 91 | [Bloodshore](games/b/bloodshore.md) | 2.20% |
 | 92 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
@@ -127,7 +127,7 @@
 | 125 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 126 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
 | 127 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.80% |
-| 128 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 0.79% |
+| 128 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 0.78% |
 | 129 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.75% |
 | 130 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.74% |
 | 131 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.72% |
@@ -168,9 +168,9 @@
 | 166 | [The Surge](games/t/the_surge.md) | 0.35% |
 | 166 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.35% |
 | 168 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.34% |
-| 169 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.33% |
-| 169 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.33% |
-| 169 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.33% |
+| 168 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.34% |
+| 170 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.33% |
+| 170 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.33% |
 | 172 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 172 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
 | 172 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
@@ -558,4 +558,4 @@
 | 265 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 265 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 265 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,114 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,115 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
