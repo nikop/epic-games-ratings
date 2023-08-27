@@ -8,10 +8,10 @@
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 31.71% |
 | 7 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 25.23% |
+| 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 25.00% |
 | 9 | [Overloop](games/o/overloop.md) | 25.00% |
-| 10 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.94% |
-| 12 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 23.33% |
+| 11 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
+| 12 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.94% |
 | 13 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 13 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 19.26% |
@@ -19,15 +19,15 @@
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
 | 18 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.46% |
 | 19 | [Anna's Quest](games/a/anna's_quest.md) | 13.51% |
-| 20 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.10% |
-| 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 11.36% |
-| 22 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
-| 22 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
-| 22 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 11.11% |
-| 22 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.11% |
-| 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.01% |
-| 27 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.71% |
-| 28 | [Remains](games/r/remains.md) | 10.42% |
+| 20 | [Remains](games/r/remains.md) | 12.50% |
+| 21 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.10% |
+| 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 11.36% |
+| 23 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
+| 23 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
+| 23 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 11.11% |
+| 23 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.11% |
+| 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.01% |
+| 28 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.71% |
 | 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.29% |
 | 30 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
 | 31 | [Sonic Origins](games/s/sonic_origins.md) | 9.30% |
@@ -38,7 +38,7 @@
 | 36 | [Smelter](games/s/smelter.md) | 7.50% |
 | 37 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 7.32% |
 | 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.05% |
-| 39 | [Scorn](games/s/scorn.md) | 6.99% |
+| 39 | [Scorn](games/s/scorn.md) | 6.98% |
 | 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.83% |
 | 41 | [Time Loader](games/t/time_loader.md) | 6.78% |
 | 42 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.73% |
@@ -70,7 +70,7 @@
 | 68 | [Bunny Park](games/b/bunny_park.md) | 3.37% |
 | 69 | [The Complex](games/t/the_complex.md) | 3.33% |
 | 70 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
-| 71 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.19% |
+| 71 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.18% |
 | 72 | [HordeCore](games/h/hordecore.md) | 3.15% |
 | 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.10% |
 | 74 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.03% |

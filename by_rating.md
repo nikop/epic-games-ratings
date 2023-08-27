@@ -65,7 +65,7 @@
 | 59 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 87 | 357 |
 | 59 | [TUNIC](games/t/tunic.md) | 4.83 | 34 | 442 |
 | 65 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 0 | 514 |
-| 65 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,551 | 120 |
+| 65 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,555 | 120 |
 | 65 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,741 | 63 |
 | 65 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 0 | 514 |
 | 65 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 514 |
@@ -101,11 +101,11 @@
 | 88 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 119 | 322 |
 | 88 | [Sailing Era](games/s/sailing_era.md) | 4.79 | 0 | 514 |
 | 101 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.78 | 0 | 514 |
-| 101 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,820 | 38 |
+| 101 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,827 | 38 |
 | 101 | [Journey](games/j/journey.md) | 4.78 | 0 | 514 |
 | 101 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.78 | 0 | 514 |
 | 101 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,384 | 104 |
-| 101 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,443 | 124 |
+| 101 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,443 | 125 |
 | 101 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 932 | 150 |
 | 101 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 514 |
 | 109 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 4,329 | 77 |
@@ -190,7 +190,7 @@
 | 172 | [Townscaper](games/t/townscaper.md) | 4.72 | 0 | 514 |
 | 189 | [Barony](games/b/barony.md) | 4.71 | 78 | 365 |
 | 189 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.71 | 88 | 353 |
-| 189 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 7,032 | 50 |
+| 189 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 7,038 | 50 |
 | 189 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 437 |
 | 189 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,408 | 47 |
 | 189 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.71 | 0 | 514 |
@@ -350,11 +350,11 @@
 | 332 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.63 | 68 | 382 |
 | 332 | [Transistor](games/t/transistor.md) | 4.63 | 0 | 514 |
 | 332 | [Warhammer 40,000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.63 | 0 | 514 |
-| 351 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 76,380 | 9 |
+| 351 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 76,492 | 9 |
 | 351 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 281 | 241 |
 | 351 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 34 | 442 |
 | 351 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 76 | 368 |
-| 351 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,443 | 124 |
+| 351 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,446 | 124 |
 | 351 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.62 | 377 | 223 |
 | 351 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 561 | 190 |
 | 351 | [Limbo](games/l/limbo.md) | 4.62 | 0 | 514 |
@@ -450,7 +450,7 @@
 | 428 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 220 | 264 |
 | 428 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,457 | 25 |
 | 450 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 0 | 514 |
-| 450 | [Among Us](games/a/among_us.md) | 4.57 | 2,631 | 97 |
+| 450 | [Among Us](games/a/among_us.md) | 4.57 | 2,633 | 97 |
 | 450 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.57 | 0 | 514 |
 | 450 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.57 | 46 | 410 |
 | 450 | [Aztez](games/a/aztez.md) | 4.57 | 0 | 514 |
@@ -544,7 +544,7 @@
 | 528 | [Verdun](games/v/verdun.md) | 4.52 | 96 | 344 |
 | 528 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 0 | 514 |
 | 544 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 97 | 340 |
-| 544 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 777 | 160 |
+| 544 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 779 | 160 |
 | 544 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,115 | 80 |
 | 544 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 514 |
 | 544 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.51 | 2,698 | 96 |
@@ -774,7 +774,7 @@
 | 769 | [House Party](games/h/house_party.md) | 4.33 | 0 | 514 |
 | 769 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.33 | 0 | 514 |
 | 769 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 514 |
-| 769 | [Rogue Company](games/r/rogue_company.md) | 4.33 | 5,308 | 66 |
+| 769 | [Rogue Company](games/r/rogue_company.md) | 4.33 | 5,315 | 66 |
 | 769 | [Speed Brawl](games/s/speed_brawl.md) | 4.33 | 29 | 464 |
 | 769 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.33 | 1,538 | 121 |
 | 778 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 357 | 226 |
