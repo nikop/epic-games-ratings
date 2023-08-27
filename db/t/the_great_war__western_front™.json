@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 396,
+  "EOS_Progressed": 397,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
@@ -1749,6 +1749,11 @@
       "Time": "2023-08-26T14:05:31.0491359+00:00",
       "NumProgressed": 396,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-27T09:05:25.341878+00:00",
+      "NumProgressed": 397,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -1824,7 +1829,7 @@
       "Name": "Earth Shattering",
       "Percentage": 49,
       "XP": 90,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
@@ -1832,7 +1837,7 @@
       "Name": "La Der des Ders",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
@@ -1855,7 +1860,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 396,
+      "Progressed": 397,
       "Completed": 0
     }
   ],
@@ -1863,8 +1868,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
-  "LastChanged_Achievements": "2023-08-27T08:05:26.4742469+00:00",
+  "LastChanged_Achievements": "2023-08-27T09:05:25.3418767+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:18.7692809+00:00",
-  "LastUpdate_Ratings": "2023-08-27T08:01:57.6466711+00:00",
-  "LastUpdate_Achievements": "2023-08-27T08:05:26.4742764+00:00"
+  "LastUpdate_Ratings": "2023-08-27T09:02:13.87991+00:00",
+  "LastUpdate_Achievements": "2023-08-27T09:05:25.3419109+00:00"
 }

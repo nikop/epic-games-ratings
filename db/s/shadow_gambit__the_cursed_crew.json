@@ -4,7 +4,7 @@
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 512,
+  "EOS_Progressed": 514,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 4,
@@ -1046,6 +1046,11 @@
       "Time": "2023-08-27T06:07:06.514575+00:00",
       "NumProgressed": 512,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-27T09:05:23.5694974+00:00",
+      "NumProgressed": 514,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1058,7 +1063,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -1066,7 +1071,7 @@
       "Name": "A New Journey",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "_03_FinishAct1",
@@ -1074,7 +1079,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 276
+      "UsersEstimate": 278
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1082,7 +1087,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "_05_FinishAct2",
@@ -1096,9 +1101,9 @@
       "ID": "_06_FinishFirstMirrorQuest",
       "SetID": "8a1io5d",
       "Name": "Mirror Mirror on the Wall",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 93
     },
     {
       "ID": "_07_FinishAct3",
@@ -1114,7 +1119,7 @@
       "Name": "Swabbie",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "_09_Completion_20",
@@ -1176,9 +1181,9 @@
       "ID": "_16_UnlockCore8Characters",
       "SetID": "8a1io5d",
       "Name": "Pirates Assemble!",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 72
+      "UsersEstimate": 77
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -1202,15 +1207,15 @@
       "Name": "Persistent Parasite",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "_20_CrewTale_TPB",
       "SetID": "8a1io5d",
       "Name": "Fishy Fish",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 93
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -1265,14 +1270,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 512,
+      "Progressed": 514,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-27T08:05:24.7100688+00:00",
+  "LastChanged_Achievements": "2023-08-27T09:05:23.5694966+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:45.1302228+00:00",
-  "LastUpdate_Ratings": "2023-08-27T08:01:23.8107836+00:00",
-  "LastUpdate_Achievements": "2023-08-27T08:05:24.7101036+00:00"
+  "LastUpdate_Ratings": "2023-08-27T09:01:38.5886989+00:00",
+  "LastUpdate_Achievements": "2023-08-27T09:05:23.5695224+00:00"
 }

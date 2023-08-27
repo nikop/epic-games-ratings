@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 175,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
     "PcReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -152,9 +152,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17544,
+  "EOS_Progressed": 17547,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -10782,6 +10782,11 @@
       "Time": "2023-08-27T05:04:10.3708601+00:00",
       "NumProgressed": 17544,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-08-27T09:04:30.2774649+00:00",
+      "NumProgressed": 17547,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 14,
@@ -10793,7 +10798,7 @@
       "Name": "Across The Border",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 13860
+      "UsersEstimate": 13862
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -10809,7 +10814,7 @@
       "Name": "Caught in a Trap",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 2105
+      "UsersEstimate": 2106
     },
     {
       "ID": "ACH_DANGER_AHEAD",
@@ -10817,7 +10822,7 @@
       "Name": "Danger Ahead",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 4737
+      "UsersEstimate": 4738
     },
     {
       "ID": "ACH_DONT_BRING_ME_DOWN",
@@ -10825,7 +10830,7 @@
       "Name": "Don\u0027t Bring Me Down",
       "Percentage": 19,
       "XP": 90,
-      "UsersEstimate": 3333
+      "UsersEstimate": 3334
     },
     {
       "ID": "ACH_EVEYONE_IS_BORN_TO_DIE",
@@ -10833,7 +10838,7 @@
       "Name": "Everyone\u0027s Born to Die",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 2807
+      "UsersEstimate": 2808
     },
     {
       "ID": "ACH_HELLO_MY_OLD_FRIEND",
@@ -10849,7 +10854,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 9298
+      "UsersEstimate": 9300
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -10857,7 +10862,7 @@
       "Name": "In For The Kill",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 2105
+      "UsersEstimate": 2106
     },
     {
       "ID": "ACH_IN_MY_OWN_TIME",
@@ -10873,7 +10878,7 @@
       "Name": "Look at Me Now",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 4912
+      "UsersEstimate": 4913
     },
     {
       "ID": "ACH_THE_FALL",
@@ -10897,22 +10902,22 @@
       "Name": "Wild West Hero",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 2456
+      "UsersEstimate": 2457
     }
   ],
   "AchievementSets": [
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 17544,
+      "Progressed": 17547,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-08-16T03:57:34.8125865+00:00",
-  "LastChanged_Achievements": "2023-08-27T08:04:32.4290855+00:00",
+  "LastChanged_Achievements": "2023-08-27T09:04:30.2774642+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:59.8893769+00:00",
-  "LastUpdate_Ratings": "2023-08-27T07:59:13.4656399+00:00",
-  "LastUpdate_Achievements": "2023-08-27T08:04:32.4292006+00:00"
+  "LastUpdate_Ratings": "2023-08-27T08:59:29.3551811+00:00",
+  "LastUpdate_Achievements": "2023-08-27T09:04:30.2775405+00:00"
 }

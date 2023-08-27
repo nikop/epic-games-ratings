@@ -4,8 +4,8 @@
   "ProductSlug": "space-war-infinity-024a8f",
   "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 37,
-  "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-08-15T15:00:00+00:00",
     "PcReleaseDate": "2019-05-28T13:00:00+00:00",
@@ -240,9 +240,9 @@
       "ID": "_beegun",
       "SetID": "2d5739o",
       "Name": "Beegun",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "_bomb",
@@ -567,8 +567,8 @@
   ],
   "FirstSeen": "2023-08-19T02:04:22.1564483+00:00",
   "FirstSeenAchievements": "2023-08-09T13:13:29.9534062+00:00",
-  "LastChanged_Achievements": "2023-08-27T08:04:22.2080833+00:00",
+  "LastChanged_Achievements": "2023-08-27T09:04:20.0508285+00:00",
   "LastUpdate_AppInfo": "2023-08-23T14:57:05.3150433+00:00",
-  "LastUpdate_Ratings": "2023-08-27T07:59:04.8128106+00:00",
-  "LastUpdate_Achievements": "2023-08-27T08:04:22.2081247+00:00"
+  "LastUpdate_Ratings": "2023-08-27T08:59:20.9902889+00:00",
+  "LastUpdate_Achievements": "2023-08-27T09:04:20.0508706+00:00"
 }

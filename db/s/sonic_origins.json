@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 31,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2022-06-23T04:00:00+00:00",
     "PcReleaseDate": "2022-06-23T04:00:00+00:00",
@@ -1899,9 +1899,9 @@
       "ID": "ID_12_SONIC3K_GET_ALL_BARRIERS",
       "SetID": "7o8nc5m",
       "Name": "Easy Peasy with Shields",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 262
+      "UsersEstimate": 267
     },
     {
       "ID": "ID_13_RING_COLLECTOR",
@@ -2067,9 +2067,9 @@
       "ID": "ID_33_SONIC2_CLEAR_ALL_STAGE",
       "SetID": "7o8nc5m",
       "Name": "Cleared Sonic the Hedgehog 2",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 181
+      "UsersEstimate": 185
     },
     {
       "ID": "ID_34_SONIC3K_CLEAR_ALL_STAGE",
@@ -2099,8 +2099,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-08-27T04:01:27.5688672+00:00",
-  "LastChanged_Achievements": "2023-08-27T08:06:58.360215+00:00",
+  "LastChanged_Achievements": "2023-08-27T09:06:58.7634285+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:27.4748037+00:00",
-  "LastUpdate_Ratings": "2023-08-27T08:01:02.4648872+00:00",
-  "LastUpdate_Achievements": "2023-08-27T08:06:58.3602537+00:00"
+  "LastUpdate_Ratings": "2023-08-27T09:01:16.4381817+00:00",
+  "LastUpdate_Achievements": "2023-08-27T09:06:58.7634647+00:00"
 }

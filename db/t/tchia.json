@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 157,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -218,7 +218,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7378,
+  "EOS_Progressed": 7380,
   "EOS_Completed": 32,
   "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 0,
@@ -6518,6 +6518,11 @@
       "Time": "2023-08-27T08:07:46.7885253+00:00",
       "NumProgressed": 7378,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-08-27T09:07:47.5016813+00:00",
+      "NumProgressed": 7380,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 21,
@@ -6545,7 +6550,7 @@
       "Name": "Audiophile",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "BODY_AND_SOUL",
@@ -6577,7 +6582,7 @@
       "Name": "Energy Saver",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -6633,7 +6638,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1549
+      "UsersEstimate": 1550
     },
     {
       "ID": "LIBERATOR",
@@ -6696,7 +6701,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7378,
+      "Progressed": 7380,
       "Completed": 32
     }
   ],
@@ -6704,8 +6709,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-08-26T01:39:24.8497831+00:00",
-  "LastChanged_Achievements": "2023-08-27T08:07:46.7885244+00:00",
+  "LastChanged_Achievements": "2023-08-27T09:07:47.5016805+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:38.3127322+00:00",
-  "LastUpdate_Ratings": "2023-08-27T08:01:15.3505514+00:00",
-  "LastUpdate_Achievements": "2023-08-27T08:07:46.7885871+00:00"
+  "LastUpdate_Ratings": "2023-08-27T09:01:29.8127761+00:00",
+  "LastUpdate_Achievements": "2023-08-27T09:07:47.5017375+00:00"
 }

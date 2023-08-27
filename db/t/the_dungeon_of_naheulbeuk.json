@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 24,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -726,9 +726,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 217897,
+  "EOS_Progressed": 217927,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2965,
+  "EOS_NewPlayers": 2969,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8471,6 +8471,11 @@
       "Time": "2023-08-27T08:03:10.0570214+00:00",
       "NumProgressed": 217897,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-27T09:03:06.8031158+00:00",
+      "NumProgressed": 217927,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -8530,7 +8535,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4358
+      "UsersEstimate": 4359
     },
     {
       "ID": "Chapter2",
@@ -8626,7 +8631,7 @@
       "Name": "Res Judicata",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1089
+      "UsersEstimate": 1090
     },
     {
       "ID": "CompanionPriestress",
@@ -8834,7 +8839,7 @@
       "Name": "The Famous Dungeon of Naheulbeuk",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1308
     },
     {
       "ID": "DifficultyIronManNoCompanion",
@@ -8882,7 +8887,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4358
+      "UsersEstimate": 4359
     },
     {
       "ID": "DwarfElf15Support",
@@ -8898,7 +8903,7 @@
       "Name": "Dwarf Fortress",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1089
+      "UsersEstimate": 1090
     },
     {
       "ID": "DwarfInsultWin",
@@ -8914,7 +8919,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4358
+      "UsersEstimate": 4359
     },
     {
       "ID": "ElfEpic",
@@ -8922,7 +8927,7 @@
       "Name": "Look but don\u0027t touch",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1089
+      "UsersEstimate": 1090
     },
     {
       "ID": "ElfHitTwoFriends",
@@ -8930,7 +8935,7 @@
       "Name": "Sowwy!",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 52295
+      "UsersEstimate": 52302
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -8978,7 +8983,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6537
+      "UsersEstimate": 6538
     },
     {
       "ID": "FollowBraztok",
@@ -8986,7 +8991,7 @@
       "Name": "The beards of change",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1308
     },
     {
       "ID": "FollowNarzatok",
@@ -9122,7 +9127,7 @@
       "Name": "Thieves\u0027 Guild Accreditation",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1308
     },
     {
       "ID": "Speedrun",
@@ -9185,21 +9190,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 217897,
+      "Progressed": 217927,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 217897,
+      "Progressed": 217927,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-26T23:02:52.6825545+00:00",
-  "LastChanged_Achievements": "2023-08-27T08:03:10.0570207+00:00",
+  "LastChanged_Achievements": "2023-08-27T09:03:06.8031152+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:41.9661267+00:00",
-  "LastUpdate_Ratings": "2023-08-27T08:02:15.6847133+00:00",
-  "LastUpdate_Achievements": "2023-08-27T08:03:10.0572058+00:00"
+  "LastUpdate_Ratings": "2023-08-27T09:02:32.2275309+00:00",
+  "LastUpdate_Achievements": "2023-08-27T09:03:06.8033201+00:00"
 }

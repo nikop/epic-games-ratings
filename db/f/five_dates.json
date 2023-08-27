@@ -4,8 +4,8 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 105,
-  "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
     "PcReleaseDate": "2020-11-17T18:00:00+00:00",
@@ -951,9 +951,9 @@
       "ID": "all_set_up",
       "SetID": "c4ipj3h",
       "Name": "All Set Up",
-      "Percentage": 97,
+      "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 502
+      "UsersEstimate": 508
     },
     {
       "ID": "booty_call",
@@ -975,17 +975,17 @@
       "ID": "digital_casanova",
       "SetID": "c4ipj3h",
       "Name": "Digital Casanova",
-      "Percentage": 95,
+      "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 492
+      "UsersEstimate": 497
     },
     {
       "ID": "hold_my_beer",
       "SetID": "c4ipj3h",
       "Name": "Hold my Beer",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 25,
-      "UsersEstimate": 332
+      "UsersEstimate": 337
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -1080,8 +1080,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-08-27T08:03:50.4399658+00:00",
+  "LastChanged_Achievements": "2023-08-27T09:03:48.0465909+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:48.6556932+00:00",
-  "LastUpdate_Ratings": "2023-08-27T08:01:26.7280549+00:00",
-  "LastUpdate_Achievements": "2023-08-27T08:03:50.439994+00:00"
+  "LastUpdate_Ratings": "2023-08-27T09:01:41.5723578+00:00",
+  "LastUpdate_Achievements": "2023-08-27T09:03:48.0466085+00:00"
 }

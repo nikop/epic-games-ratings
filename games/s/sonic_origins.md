@@ -14,8 +14,8 @@ Number of Ratings: 154  (23.09.2022)
 | Ring Collector | 70.00% | ~301 |
 | Time Traveler | 69.00% | ~297 |
 | Everyone's Hero | 65.00% | ~280 |
+| Easy Peasy with Shields | 62.00% | ~267 |
 | Knuckles the Echidna | 62.00% | ~267 |
-| Easy Peasy with Shields | 61.00% | ~262 |
 | Gallant Spin Dash | 61.00% | ~262 |
 | Miles "Tails" Prower | 61.00% | ~262 |
 | Bubbly Breath | 59.00% | ~254 |
@@ -27,8 +27,8 @@ Number of Ratings: 154  (23.09.2022)
 | Very First Mission Clear! | 45.00% | ~194 |
 | Beware Stingers! | 44.00% | ~189 |
 | Beware Moto Bugs! | 43.00% | ~185 |
+| Cleared Sonic the Hedgehog 2 | 43.00% | ~185 |
 | Cleared Sonic CD | 42.00% | ~181 |
-| Cleared Sonic the Hedgehog 2 | 42.00% | ~181 |
 | Cleared Sonic the Hedgehog 3 & Knuckles | 38.00% | ~163 |
 | All Clear! | 32.00% | ~138 |
 | Lucky Hedgehog | 31.00% | ~133 |

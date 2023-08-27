@@ -7,12 +7,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Sponsored by Argon | 2.00% | ~2,704 |
+| Titan's First Steps | 2.00% | ~2,704 |
 | Basic in Bulk | 1.00% | ~1,352 |
 | Disintermediation | 1.00% | ~1,352 |
 | It's Free Real Estate | 1.00% | ~1,352 |
 | Tinkle of Coins | 1.00% | ~1,352 |
 | Capitalism Ho! | 1.00% | ~1,352 |
-| Titan's First Steps | 1.00% | ~1,352 |
 | Budding Merchant | 0.90% | ~1,217 |
 | One Easy Payment | 0.80% | ~1,082 |
 | Some Assembly Required | 0.80% | ~1,082 |

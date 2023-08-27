@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Set Up | 97.00% | ~502 |
-| Digital Casanova | 95.00% | ~492 |
-| Hold my Beer | 64.00% | ~332 |
+| All Set Up | 98.00% | ~508 |
+| Digital Casanova | 96.00% | ~497 |
+| Hold my Beer | 65.00% | ~337 |
 | Nueva Beginnings | 36.00% | ~186 |
 | Only Thyme Will Tell | 31.00% | ~161 |
 | We Go Again | 31.00% | ~161 |

@@ -10,6 +10,7 @@ Rating: 4.54 (Ranked 501)
 | Welcome To Hell-A | 0.30% | ~2,000 |
 | Dr. Reed, I Presume? | 0.20% | ~1,333 |
 | Git Gutte! | 0.20% | ~1,333 |
+| Anger Management | 0.20% | ~1,333 |
 | Perks of the Job | 0.20% | ~1,333 |
 | Bookworm | 0.20% | ~1,333 |
 | But Doctor, I am Butcho | 0.20% | ~1,333 |
@@ -29,7 +30,6 @@ Rating: 4.54 (Ranked 501)
 | Our True Nature | 0.20% | ~1,333 |
 | This is My Weapon | 0.20% | ~1,333 |
 | Making Your Mark | 0.10% | ~667 |
-| Anger Management | 0.10% | ~667 |
 | Make it So | 0.10% | ~667 |
 | LA Influential | 0.10% | ~667 |
 | On Safari | 0.10% | ~667 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 501)
 | Rising Star | 0.10% | ~667 |
 | Bucket List | 0.10% | ~667 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 666,513 (Ranked 22)  
+Progressed: 666,557 (Ranked 22)  
 Completed: 2,079 (0.31%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,14 +180,14 @@ Completed: 2,079 (0.31%) (Ranked 172)
 | 2023-08-24 | 664,478 | 2,059 |
 | 2023-08-25 | 665,272 | 2,068 |
 | 2023-08-26 | 666,250 | 2,078 |
-| 2023-08-27 | 666,513 | 2,079 |
+| 2023-08-27 | 666,557 | 2,079 |
 ## Awards
-Max (Great Boss Battles): 5,770  (Ranked 61)  
-Sum: 8,494 (Ranked 97)  
+Max (Great Boss Battles): 5,783  (Ranked 61)  
+Sum: 8,507 (Ranked 97)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 5,770 |
+| This game has Great Boss Battles | 5,783 |
 | This game is Great for Beginners | 384 |
 | This game has Quickly Understood Controls | 378 |
 | This game has Diverse Characters | 369 |
@@ -327,4 +327,4 @@ Diff (max vs sum): -36
 | 2023-08-24 | 4.54 | 5,753 | 8,465 |
 | 2023-08-25 | 4.54 | 5,753 | 8,469 |
 | 2023-08-26 | 4.54 | 5,770 | 8,490 |
-| 2023-08-27 | 4.54 | 5,770 | 8,494 |
+| 2023-08-27 | 4.54 | 5,783 | 8,507 |

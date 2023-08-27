@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
     "PcReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -358,9 +358,9 @@
       "Count": 69
     }
   ],
-  "EOS_Progressed": 1549,
+  "EOS_Progressed": 1550,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -1893,6 +1893,11 @@
       "Time": "2023-08-25T07:07:55.7732339+00:00",
       "NumProgressed": 1549,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-27T09:07:03.1344127+00:00",
+      "NumProgressed": 1550,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 38,
@@ -1904,7 +1909,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1518
+      "UsersEstimate": 1519
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -1912,7 +1917,7 @@
       "Name": "Great Doctor",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "ACHIEVEMENTS_03",
@@ -1944,7 +1949,7 @@
       "Name": "Acrobatic Adventurer",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "ACHIEVEMENTS_07",
@@ -1960,7 +1965,7 @@
       "Name": "The First Step",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1379
+      "UsersEstimate": 1380
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -2024,7 +2029,7 @@
       "Name": "Sociable",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ACHIEVEMENTS_17",
@@ -2032,7 +2037,7 @@
       "Name": "Kind-hearted",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "ACHIEVEMENTS_18",
@@ -2040,7 +2045,7 @@
       "Name": "Dog Whisperer",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "ACHIEVEMENTS_19",
@@ -2064,7 +2069,7 @@
       "Name": "Fishing Guru",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "ACHIEVEMENTS_22",
@@ -2072,7 +2077,7 @@
       "Name": "The Capitalist",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "ACHIEVEMENTS_23",
@@ -2096,7 +2101,7 @@
       "Name": "Community Helper",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "ACHIEVEMENTS_26",
@@ -2112,7 +2117,7 @@
       "Name": "Plantation Exterminator",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACHIEVEMENTS_28",
@@ -2144,7 +2149,7 @@
       "Name": "Ablutomaniac",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ACHIEVEMENTS_32",
@@ -2160,7 +2165,7 @@
       "Name": "Catch of the Day",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "ACHIEVEMENTS_34",
@@ -2168,7 +2173,7 @@
       "Name": "Moonbury Traveller",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "ACHIEVEMENTS_35",
@@ -2200,14 +2205,14 @@
       "Name": "Moonbury Navigator",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1549,
+      "Progressed": 1550,
       "Completed": 9
     }
   ],
@@ -2215,8 +2220,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-08-05T21:57:06.4008826+00:00",
-  "LastChanged_Achievements": "2023-08-27T08:07:02.8145824+00:00",
+  "LastChanged_Achievements": "2023-08-27T09:07:03.1344119+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:58:08.0882766+00:00",
-  "LastUpdate_Ratings": "2023-08-27T07:59:28.1503785+00:00",
-  "LastUpdate_Achievements": "2023-08-27T08:07:02.8146552+00:00"
+  "LastUpdate_Ratings": "2023-08-27T08:59:44.7955891+00:00",
+  "LastUpdate_Achievements": "2023-08-27T09:07:03.1344699+00:00"
 }

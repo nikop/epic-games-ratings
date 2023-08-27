@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 38,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 32,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-02-10T17:00:00+00:00",
     "PcReleaseDate": "2018-12-12T12:21:00+00:00",
@@ -3181,9 +3181,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 437071,
+  "EOS_Progressed": 437081,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2582,
+  "EOS_NewPlayers": 2575,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17451,6 +17451,11 @@
       "Time": "2023-08-27T08:03:25.782818+00:00",
       "NumProgressed": 437071,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-27T09:03:23.0350821+00:00",
+      "NumProgressed": 437081,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -17462,7 +17467,7 @@
       "Name": "Banged",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 8741
+      "UsersEstimate": 8742
     },
     {
       "ID": "ACH_BLINDFIRE",
@@ -17486,7 +17491,7 @@
       "Name": "Checkpoint Victory",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 8741
+      "UsersEstimate": 8742
     },
     {
       "ID": "ACH_CINEMATIC",
@@ -17534,7 +17539,7 @@
       "Name": "First Blood",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 8741
+      "UsersEstimate": 8742
     },
     {
       "ID": "ACH_FLACCID_PARALYSIS",
@@ -17542,7 +17547,7 @@
       "Name": "Flaccid Paralysis",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 8741
+      "UsersEstimate": 8742
     },
     {
       "ID": "ACH_GROUNDED",
@@ -17606,7 +17611,7 @@
       "Name": "#1",
       "Percentage": 0.7,
       "XP": 80,
-      "UsersEstimate": 3059
+      "UsersEstimate": 3060
     },
     {
       "ID": "ACH_PERSONAL",
@@ -17638,7 +17643,7 @@
       "Name": "Push Victory",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 8741
+      "UsersEstimate": 8742
     },
     {
       "ID": "ACH_REFLEXES",
@@ -17670,7 +17675,7 @@
       "Name": "Self-destructive",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 8741
+      "UsersEstimate": 8742
     },
     {
       "ID": "ACH_SEMPER_PARATUS",
@@ -17686,7 +17691,7 @@
       "Name": "Special Delivery",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 3059
+      "UsersEstimate": 3060
     },
     {
       "ID": "ACH_STYLING",
@@ -17741,15 +17746,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 437071,
+      "Progressed": 437081,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-08-27T08:01:20.5391165+00:00",
-  "LastChanged_Achievements": "2023-08-27T08:03:25.7828172+00:00",
+  "LastChanged_Achievements": "2023-08-27T09:03:23.0350814+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:42.1535324+00:00",
-  "LastUpdate_Ratings": "2023-08-27T08:01:20.5391173+00:00",
-  "LastUpdate_Achievements": "2023-08-27T08:03:25.7830168+00:00"
+  "LastUpdate_Ratings": "2023-08-27T09:01:34.3794259+00:00",
+  "LastUpdate_Achievements": "2023-08-27T09:03:23.035196+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 844,
+  "EOS_Progressed": 845,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -2045,6 +2045,11 @@
       "Time": "2023-08-27T08:08:01.8069067+00:00",
       "NumProgressed": 844,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-27T09:08:03.1716743+00:00",
+      "NumProgressed": 845,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -2328,7 +2333,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "PidgeDefeated",
@@ -2336,7 +2341,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "RewindDamage1",
@@ -2344,7 +2349,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "RewindParry",
@@ -2368,7 +2373,7 @@
       "Name": "Golem Chaser",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "SkillCompletion1",
@@ -2432,7 +2437,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "WarwickDefeated",
@@ -2479,7 +2484,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 844,
+      "Progressed": 845,
       "Completed": 5
     }
   ],
@@ -2487,8 +2492,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-08-27T08:08:01.8069059+00:00",
+  "LastChanged_Achievements": "2023-08-27T09:08:03.1716733+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:03.8052712+00:00",
-  "LastUpdate_Ratings": "2023-08-27T07:58:07.2406986+00:00",
-  "LastUpdate_Achievements": "2023-08-27T08:08:01.8070136+00:00"
+  "LastUpdate_Ratings": "2023-08-27T08:58:22.3205285+00:00",
+  "LastUpdate_Achievements": "2023-08-27T09:08:03.1717518+00:00"
 }

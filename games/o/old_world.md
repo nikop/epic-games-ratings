@@ -20,6 +20,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Fountainhead | 2.00% | ~272 |
 | Glorious | 2.00% | ~272 |
 | Good | 2.00% | ~272 |
+| Great | 2.00% | ~272 |
 | Just | 2.00% | ~272 |
 | Keystone | 2.00% | ~272 |
 | Learned | 2.00% | ~272 |
@@ -53,7 +54,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Poetic Leader | 2.00% | ~272 |
 | Regicide | 1.00% | ~136 |
 | Drillmaster | 1.00% | ~136 |
-| Great | 1.00% | ~136 |
 | Intercessor | 1.00% | ~136 |
 | Mighty | 1.00% | ~136 |
 | Valiant | 1.00% | ~136 |
@@ -82,6 +82,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Victorious | 0.90% | ~122 |
 | Patrons | 0.90% | ~122 |
 | Building Wonders | 0.90% | ~122 |
+| Legalism | 0.90% | ~122 |
 | Good Difficulty | 0.80% | ~109 |
 | Statesmen | 0.80% | ~109 |
 | Traders | 0.80% | ~109 |
@@ -92,7 +93,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Power to the People | 0.80% | ~109 |
 | Persian Paganism | 0.80% | ~109 |
 | Economic Reform | 0.80% | ~109 |
-| Legalism | 0.80% | ~109 |
 | Legionary | 0.80% | ~109 |
 | Phalangite | 0.80% | ~109 |
 | Capable | 0.70% | ~95 |
@@ -131,6 +131,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonia | 0.50% | ~68 |
 | Rome | 0.50% | ~68 |
 | One True Faith | 0.50% | ~68 |
+| Hittite Paganism | 0.50% | ~68 |
 | Kushite Cavalry | 0.50% | ~68 |
 | Turreted Elephant | 0.50% | ~68 |
 | No Undo | 0.50% | ~68 |
@@ -140,7 +141,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cao'an | 0.40% | ~54 |
 | Egypt | 0.40% | ~54 |
 | Old World Order | 0.40% | ~54 |
-| Hittite Paganism | 0.40% | ~54 |
 | Cataphract Archer | 0.40% | ~54 |
 | All Nations | 0.40% | ~54 |
 | Pilgrimage | 0.40% | ~54 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,601 (Ranked 119)  
+Progressed: 13,603 (Ranked 119)  
 Completed: 5 (0.04%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -432,7 +432,7 @@ Completed: 5 (0.04%) (Ranked 235)
 | 2023-08-24 | 13,546 | 5 |
 | 2023-08-25 | 13,563 | 5 |
 | 2023-08-26 | 13,590 | 5 |
-| 2023-08-27 | 13,601 | 5 |
+| 2023-08-27 | 13,603 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,799 (Ranked 208)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -11739,9 +11739,9 @@
       "ID": "34",
       "SetID": "8idi9ml",
       "Name": "Ice Lakes",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1888
+      "UsersEstimate": 1974
     },
     {
       "ID": "35",
@@ -12003,8 +12003,8 @@
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-08-25T02:13:36.2865808+00:00",
-  "LastChanged_Achievements": "2023-08-27T08:04:33.8854771+00:00",
+  "LastChanged_Achievements": "2023-08-27T09:04:31.9676279+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:34.935802+00:00",
-  "LastUpdate_Ratings": "2023-08-27T07:58:36.3556118+00:00",
-  "LastUpdate_Achievements": "2023-08-27T08:04:33.8856469+00:00"
+  "LastUpdate_Ratings": "2023-08-27T08:58:53.2949025+00:00",
+  "LastUpdate_Achievements": "2023-08-27T09:04:31.9678379+00:00"
 }
