@@ -3,9 +3,9 @@
   "Name": "Remains",
   "ProductSlug": "remains-dcb937",
   "Ranking_EOS_Progress": 384,
-  "Ranking_EOS_Completed": 28,
+  "Ranking_EOS_Completed": 20,
   "Ranking_EOS_NewPlayers": 341,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-05-03T17:00:00+00:00",
     "PcReleaseDate": "2021-06-09T12:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 48,
-  "EOS_Completed": 5,
+  "EOS_Completed": 6,
   "EOS_NewPlayers": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 10.42,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 12.5,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:47:43.8172131+00:00",
@@ -276,6 +276,11 @@
       "Time": "2023-08-25T09:03:13.5082378+00:00",
       "NumProgressed": 48,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-27T11:03:09.6767332+00:00",
+      "NumProgressed": 48,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 7,
@@ -309,9 +314,9 @@
       "ID": "Achievement_NoOneWillHearYou",
       "SetID": "436h0ek",
       "Name": "No one will hear you!",
-      "Percentage": 44,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Achievement_OmNomNom",
@@ -343,13 +348,13 @@
       "ID": "436h0ek",
       "IsBase": true,
       "Progressed": 48,
-      "Completed": 5
+      "Completed": 6
     }
   ],
   "FirstSeen": "2023-05-07T09:59:54.1262097+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:43.8172139+00:00",
-  "LastChanged_Achievements": "2023-08-27T10:03:07.3016567+00:00",
+  "LastChanged_Achievements": "2023-08-27T11:03:09.6767327+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:00.8081439+00:00",
-  "LastUpdate_Ratings": "2023-08-27T10:00:00.7479291+00:00",
-  "LastUpdate_Achievements": "2023-08-27T10:03:07.3016665+00:00"
+  "LastUpdate_Ratings": "2023-08-27T11:00:56.0050565+00:00",
+  "LastUpdate_Achievements": "2023-08-27T11:03:09.6767447+00:00"
 }

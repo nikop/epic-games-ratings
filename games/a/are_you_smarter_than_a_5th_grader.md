@@ -10,7 +10,7 @@
 | Study Session | 31.00% | ~106 |
 | Unlucky | 19.00% | ~65 |
 | Exam Practice | 12.00% | ~41 |
-| In The Honor Roll | 9.00% | ~31 |
+| In The Honor Roll | 10.00% | ~34 |
 | Byoing | 8.00% | ~27 |
 | 2nd Grade | 3.00% | ~10 |
 | Full House | 0.90% | ~3 |

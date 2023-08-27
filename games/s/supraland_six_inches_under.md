@@ -25,12 +25,12 @@ Number of Ratings: 209  (23.09.2022)
 | You feel middle classy | 87.00% | ~1,926 |
 | Boomeraxe | 87.00% | ~1,926 |
 | Banking District | 86.00% | ~1,904 |
+| Mission Unlikely | 86.00% | ~1,904 |
 | Iron Pickaxe | 86.00% | ~1,904 |
 | Arrested | 85.00% | ~1,882 |
 | Zappy Gun | 85.00% | ~1,882 |
 | Got your own one now | 85.00% | ~1,882 |
 | Don't draw dicks pls | 85.00% | ~1,882 |
-| Mission Unlikely | 85.00% | ~1,882 |
 | Ripped | 84.00% | ~1,860 |
 | Beat the big arena | 83.00% | ~1,838 |
 | Force Cube | 82.00% | ~1,815 |
@@ -61,7 +61,7 @@ Number of Ratings: 209  (23.09.2022)
 | All the chests | 14.00% | ~310 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,214 (Ranked 171)  
-Completed: 268 (12.10%) (Ranked 20)  
+Completed: 268 (12.10%) (Ranked 21)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

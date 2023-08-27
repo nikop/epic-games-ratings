@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 341,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2020-05-14T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -7502,10 +7502,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 1692827,
       "NumberOfAwardsMax": 216718
+    },
+    {
+      "Time": "2023-08-27T10:58:47.2860135+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1693776,
+      "NumberOfAwardsMax": 216718
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1692827,
+  "NumberOfAwards": 1693776,
   "NumberOfAwardsMax": 216718,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7537,7 +7543,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 181533
+      "Count": 181837
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -7549,7 +7555,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 186093
+      "Count": 186430
     },
     {
       "Text": "This game has Amazing Characters",
@@ -7561,7 +7567,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 181611
+      "Count": 181919
     },
     {
       "Text": "This game is Great for Beginners",
@@ -7581,8 +7587,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:49.586898+00:00",
-  "LastChanged": "2023-08-27T09:58:21.1326417+00:00",
+  "LastChanged": "2023-08-27T10:58:47.2860134+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:55.5415563+00:00",
-  "LastUpdate_Ratings": "2023-08-27T09:58:21.1326424+00:00",
-  "LastUpdate_Achievements": "2023-08-27T10:03:31.3872521+00:00"
+  "LastUpdate_Ratings": "2023-08-27T10:58:47.2860141+00:00",
+  "LastUpdate_Achievements": "2023-08-27T11:03:40.3591056+00:00"
 }

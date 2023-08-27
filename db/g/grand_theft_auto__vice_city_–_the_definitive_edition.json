@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 436,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -604,10 +604,10 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 9774,
+  "EOS_Progressed": 9775,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 52,
-  "EOS_NewCompleters": 3,
+  "EOS_NewPlayers": 51,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
     {
@@ -8809,6 +8809,11 @@
       "Time": "2023-08-27T09:08:08.5626737+00:00",
       "NumProgressed": 9774,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-08-27T11:07:00.1517347+00:00",
+      "NumProgressed": 9775,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 34,
@@ -8836,7 +8841,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "ACH04",
@@ -8852,7 +8857,7 @@
       "Name": "One is Better Than Two",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ACH06",
@@ -8924,7 +8929,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4105
+      "UsersEstimate": 4106
     },
     {
       "ID": "ACH15",
@@ -9044,7 +9049,7 @@
       "Name": "Take the Cannoli",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ACH30",
@@ -9060,7 +9065,7 @@
       "Name": "Chopper\u2019d Up",
       "Percentage": 2,
       "XP": 55,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ACH32",
@@ -9068,7 +9073,7 @@
       "Name": "City Sleuth",
       "Percentage": 2,
       "XP": 55,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ACH33",
@@ -9091,7 +9096,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9774,
+      "Progressed": 9775,
       "Completed": 51
     }
   ],
@@ -9099,8 +9104,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-08-25T07:03:02.1151116+00:00",
-  "LastChanged_Achievements": "2023-08-27T10:06:10.8748706+00:00",
+  "LastChanged_Achievements": "2023-08-27T11:07:00.1517337+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:56.8942974+00:00",
-  "LastUpdate_Ratings": "2023-08-27T09:59:58.428609+00:00",
-  "LastUpdate_Achievements": "2023-08-27T10:06:10.8749561+00:00"
+  "LastUpdate_Ratings": "2023-08-27T11:00:52.5980687+00:00",
+  "LastUpdate_Achievements": "2023-08-27T11:07:00.1518136+00:00"
 }

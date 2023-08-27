@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -766,9 +766,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12057,
+  "EOS_Progressed": 12058,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -9416,6 +9416,11 @@
       "Time": "2023-08-27T10:04:07.7077864+00:00",
       "NumProgressed": 12057,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-08-27T11:04:26.3425695+00:00",
+      "NumProgressed": 12058,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 35,
@@ -9427,7 +9432,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9766
+      "UsersEstimate": 9767
     },
     {
       "ID": "ACH02",
@@ -9483,7 +9488,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6149
+      "UsersEstimate": 6150
     },
     {
       "ID": "ACH09",
@@ -9706,7 +9711,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12057,
+      "Progressed": 12058,
       "Completed": 41
     }
   ],
@@ -9714,8 +9719,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-08-27T04:58:54.9178969+00:00",
-  "LastChanged_Achievements": "2023-08-27T10:04:07.7077858+00:00",
+  "LastChanged_Achievements": "2023-08-27T11:04:26.3425691+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:49.3440273+00:00",
-  "LastUpdate_Ratings": "2023-08-27T09:58:16.6419991+00:00",
-  "LastUpdate_Achievements": "2023-08-27T10:04:07.7078663+00:00"
+  "LastUpdate_Ratings": "2023-08-27T10:58:42.0997365+00:00",
+  "LastUpdate_Achievements": "2023-08-27T11:04:26.3426427+00:00"
 }

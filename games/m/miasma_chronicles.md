@@ -5,44 +5,44 @@ Rating: 4.43 (Ranked 663)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,266 |
-| Ranidaphobia | 78.00% | ~1,073 |
-| Aspiring Editor | 75.00% | ~1,032 |
-| Gun for Hire | 70.00% | ~963 |
+| First Blood | 92.00% | ~1,267 |
+| Ranidaphobia | 78.00% | ~1,074 |
+| Aspiring Editor | 75.00% | ~1,033 |
+| Gun for Hire | 70.00% | ~964 |
 | I am the law! | 64.00% | ~881 |
-| Lumberjack | 53.00% | ~729 |
-| Croaked | 49.00% | ~674 |
-| Limp Richard | 48.00% | ~660 |
-| Exorcist | 48.00% | ~660 |
-| From Darkness to Light | 48.00% | ~660 |
+| Lumberjack | 53.00% | ~730 |
+| Croaked | 49.00% | ~675 |
+| Limp Richard | 48.00% | ~661 |
+| Exorcist | 48.00% | ~661 |
+| From Darkness to Light | 48.00% | ~661 |
 | Editor Adept | 47.00% | ~647 |
-| Giant Killer | 45.00% | ~619 |
-| Sensei | 44.00% | ~605 |
+| Giant Killer | 45.00% | ~620 |
+| Sensei | 44.00% | ~606 |
 | Firestarter | 42.00% | ~578 |
-| The meaning of Kain | 41.00% | ~564 |
-| Technophobe | 40.00% | ~550 |
+| The meaning of Kain | 41.00% | ~565 |
+| Technophobe | 40.00% | ~551 |
 | Recycler | 39.00% | ~537 |
 | Are you not entertained? | 35.00% | ~482 |
 | Ganglord | 35.00% | ~482 |
 | Jarhead | 35.00% | ~482 |
 | Infiltrator | 34.00% | ~468 |
-| Pushing Daisy | 32.00% | ~440 |
+| Pushing Daisy | 32.00% | ~441 |
 | Experienced | 31.00% | ~427 |
 | Hold The Line | 30.00% | ~413 |
 | Endgame | 27.00% | ~372 |
 | Savior | 27.00% | ~372 |
 | There Can Be Only One! | 26.00% | ~358 |
-| Chain Killer | 23.00% | ~316 |
+| Chain Killer | 23.00% | ~317 |
 | The Watchers | 22.00% | ~303 |
-| Silent but Violent | 19.00% | ~261 |
+| Silent but Violent | 19.00% | ~262 |
 | Commando | 17.00% | ~234 |
 | Chaos Theory | 16.00% | ~220 |
 | Dr Jones | 16.00% | ~220 |
 | Newtonian Knockout | 16.00% | ~220 |
 | Ruthless | 14.00% | ~193 |
 | Side Order | 11.00% | ~151 |
-| Bot Whisperer | 9.00% | ~124 |
 | Chain Reaction | 9.00% | ~124 |
+| Bot Whisperer | 8.00% | ~110 |
 | Curveball | 8.00% | ~110 |
 | Dressed To Kill | 7.00% | ~96 |
 | Wipe Out | 7.00% | ~96 |
@@ -57,7 +57,7 @@ Rating: 4.43 (Ranked 663)
 | QA Has Suffered! (Redux) | 0.80% | ~11 |
 | Goaaaaal! | 0.70% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,376 (Ranked 188)  
+Progressed: 1,377 (Ranked 188)  
 Completed: 0 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,6 +142,7 @@ Completed: 0 (0.00%) (Ranked 265)
 | 2023-08-22 | 1,372 | 0 |
 | 2023-08-24 | 1,373 | 0 |
 | 2023-08-25 | 1,376 | 0 |
+| 2023-08-27 | 1,377 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

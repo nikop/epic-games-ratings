@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 252,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -8257,10 +8257,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 39526,
       "NumberOfAwardsMax": 4803
+    },
+    {
+      "Time": "2023-08-27T10:57:59.4073031+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 39528,
+      "NumberOfAwardsMax": 4803
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 39526,
+  "NumberOfAwards": 39528,
   "NumberOfAwardsMax": 4803,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8298,7 +8304,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 3821
+      "Count": 3823
     },
     {
       "Text": "This game is Extremely Fun",
@@ -8337,9 +8343,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 47774,
+  "EOS_Progressed": 47775,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 323,
+  "EOS_NewPlayers": 322,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19852,6 +19858,11 @@
       "Time": "2023-08-27T10:03:10.9087613+00:00",
       "NumProgressed": 47774,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-08-27T11:03:14.274323+00:00",
+      "NumProgressed": 47775,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -19943,7 +19954,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 30575
+      "UsersEstimate": 30576
     },
     {
       "ID": "CutTree",
@@ -19959,7 +19970,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 29142
+      "UsersEstimate": 29143
     },
     {
       "ID": "DeliveryGrapes",
@@ -19999,7 +20010,7 @@
       "Name": "Plant get enough",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 28664
+      "UsersEstimate": 28665
     },
     {
       "ID": "Harvested",
@@ -20015,7 +20026,7 @@
       "Name": "Own use",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 35830
+      "UsersEstimate": 35831
     },
     {
       "ID": "HorseJumps",
@@ -20039,7 +20050,7 @@
       "Name": "Giddy-up!",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 4777
+      "UsersEstimate": 4778
     },
     {
       "ID": "LoadedOldSavegame",
@@ -20047,7 +20058,7 @@
       "Name": "It\u0027s never too late to farm",
       "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 23409
+      "UsersEstimate": 23410
     },
     {
       "ID": "Mission",
@@ -20071,7 +20082,7 @@
       "Name": "Hard work pays off",
       "Percentage": 53,
       "XP": 55,
-      "UsersEstimate": 25320
+      "UsersEstimate": 25321
     },
     {
       "ID": "NumBeehives",
@@ -20183,7 +20194,7 @@
       "Name": "Van Gogh",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 12421
+      "UsersEstimate": 12422
     },
     {
       "ID": "VehicleRepair",
@@ -20199,22 +20210,22 @@
       "Name": "That\u0027s a wrap",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 6688
+      "UsersEstimate": 6689
     }
   ],
   "AchievementSets": [
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 47774,
+      "Progressed": 47775,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
-  "LastChanged": "2023-08-27T09:57:42.8336064+00:00",
-  "LastChanged_Achievements": "2023-08-27T10:03:10.9087607+00:00",
+  "LastChanged": "2023-08-27T10:57:59.4073029+00:00",
+  "LastChanged_Achievements": "2023-08-27T11:03:14.2743224+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:11.3662748+00:00",
-  "LastUpdate_Ratings": "2023-08-27T09:57:42.8336077+00:00",
-  "LastUpdate_Achievements": "2023-08-27T10:03:10.9088553+00:00"
+  "LastUpdate_Ratings": "2023-08-27T10:57:59.4073036+00:00",
+  "LastUpdate_Achievements": "2023-08-27T11:03:14.274417+00:00"
 }

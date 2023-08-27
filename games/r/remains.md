@@ -9,11 +9,11 @@
 | Om nom nom | 73.00% | ~35 |
 | Repair master | 60.00% | ~29 |
 | I am speed! | 50.00% | ~24 |
-| No one will hear you! | 44.00% | ~21 |
+| No one will hear you! | 46.00% | ~22 |
 | It's safe here! | 27.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 48 (Ranked 384)  
-Completed: 5 (10.42%) (Ranked 28)  
+Completed: 6 (12.50%) (Ranked 20)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -49,3 +49,4 @@ Completed: 5 (10.42%) (Ranked 28)
 | 2023-07-26 | 46 | 5 |
 | 2023-07-31 | 47 | 5 |
 | 2023-08-25 | 48 | 5 |
+| 2023-08-27 | 48 | 6 |

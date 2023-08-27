@@ -111,9 +111,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bad Heir Day | 0.60% | ~82 |
 | Devout | 0.60% | ~82 |
 | Ready | 0.60% | ~82 |
+| Hunters | 0.60% | ~82 |
 | Landowners | 0.60% | ~82 |
 | Riders | 0.60% | ~82 |
 | Adur Burzen-Mihr | 0.60% | ~82 |
+| Babylonia | 0.60% | ~82 |
 | Carthage | 0.60% | ~82 |
 | Industrial Progress | 0.60% | ~82 |
 | Military Prestige | 0.60% | ~82 |
@@ -126,9 +128,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Old | 0.50% | ~68 |
 | Strong Difficulty | 0.50% | ~68 |
 | Clerics | 0.50% | ~68 |
-| Hunters | 0.50% | ~68 |
 | Learn to Play 4 | 0.50% | ~68 |
-| Babylonia | 0.50% | ~68 |
 | Rome | 0.50% | ~68 |
 | One True Faith | 0.50% | ~68 |
 | Hittite Paganism | 0.50% | ~68 |

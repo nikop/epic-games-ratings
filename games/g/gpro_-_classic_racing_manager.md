@@ -15,21 +15,21 @@
 | On the top | 2.00% | ~6 |
 | Hero | 1.00% | ~3 |
 | Drama queen | 1.00% | ~3 |
+| Mr. Whiting | 1.00% | ~3 |
 | Hattrick | 1.00% | ~3 |
+| Amateur newbie | 0.90% | ~3 |
 | Loyalty | 0.90% | ~3 |
-| Mr. Whiting | 0.90% | ~3 |
 | Untouchable | 0.90% | ~3 |
-| Amateur newbie | 0.60% | ~2 |
+| Amateur photo shoot | 0.90% | ~3 |
 | Pro hitchhiker | 0.60% | ~2 |
+| No brakes Amateur | 0.60% | ~2 |
 | Addict | 0.60% | ~2 |
 | Tutorial master | 0.60% | ~2 |
 | Weatherman | 0.60% | ~2 |
-| Amateur photo shoot | 0.60% | ~2 |
 | Pro newbie | 0.30% | ~1 |
 | Monster Amateur car | 0.30% | ~1 |
 | Amateur wannabe | 0.30% | ~1 |
 | Knockout Amateur | 0.30% | ~1 |
-| No brakes Amateur | 0.30% | ~1 |
 | First Amateur taste | 0.30% | ~1 |
 | Shepherd | 0.30% | ~1 |
 | Amateur hattrick | 0.30% | ~1 |
@@ -167,7 +167,7 @@
 | Top Elite | 0.00% | ~0 |
 | Standing tall Amateur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 317 (Ranked 266)  
+Progressed: 318 (Ranked 266)  
 Completed: 0 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,3 +243,4 @@ Completed: 0 (0.00%) (Ranked 265)
 | 2023-08-22 | 313 | 0 |
 | 2023-08-25 | 315 | 0 |
 | 2023-08-26 | 317 | 0 |
+| 2023-08-27 | 318 | 0 |

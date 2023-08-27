@@ -30,11 +30,11 @@
 | We Don't Need No Education | 20.00% | ~67 |
 | Get Electrified | 20.00% | ~67 |
 | Rehab Expert | 19.00% | ~63 |
-| Tasty Profits | 18.00% | ~60 |
+| Tasty Profits | 19.00% | ~63 |
 | Established Fame | 17.00% | ~57 |
 | Under One Roof | 16.00% | ~53 |
+| Starred Dining | 16.00% | ~53 |
 | Cashflow Chief | 16.00% | ~53 |
-| Starred Dining | 15.00% | ~50 |
 | Smooth Operator | 14.00% | ~47 |
 | Boutique Benefits | 14.00% | ~47 |
 | Terrifically Trashed | 13.00% | ~43 |

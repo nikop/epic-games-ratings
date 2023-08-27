@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-08-23T13:00:00+00:00",
     "PcReleaseDate": "2022-08-23T13:00:00+00:00",
@@ -466,9 +466,9 @@
       "ID": "InTheHonorRoll",
       "SetID": "6l18k14",
       "Name": "In The Honor Roll",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 75,
-      "UsersEstimate": 31
+      "UsersEstimate": 34
     },
     {
       "ID": "Librarian",
@@ -547,8 +547,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.561977+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.3990521+00:00",
   "LastChanged": "2023-03-31T05:58:18.5619771+00:00",
-  "LastChanged_Achievements": "2023-08-27T10:05:48.3320816+00:00",
+  "LastChanged_Achievements": "2023-08-27T11:06:31.9270743+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:57.5078386+00:00",
-  "LastUpdate_Ratings": "2023-08-27T09:58:22.1120667+00:00",
-  "LastUpdate_Achievements": "2023-08-27T10:05:48.3321001+00:00"
+  "LastUpdate_Ratings": "2023-08-27T10:58:48.5163937+00:00",
+  "LastUpdate_Achievements": "2023-08-27T11:06:31.9270913+00:00"
 }

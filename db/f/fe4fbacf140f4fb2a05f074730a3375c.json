@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 436,
   "Ranking_EOS_Completed": 43,
   "Ranking_EOS_NewPlayers": 297,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-08-15T14:00:00+00:00",
     "PcReleaseDate": "2019-09-27T12:00:00+00:00",
@@ -223,9 +223,9 @@
       "ID": "SelfieKing",
       "SetID": "bl5ebnd",
       "Name": "Selfie King",
-      "Percentage": 20,
+      "Percentage": 27,
       "XP": 85,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "TrueBlogger",
@@ -254,8 +254,8 @@
   ],
   "FirstSeen": "2023-08-17T18:58:24.9645981+00:00",
   "FirstSeenAchievements": "2023-08-07T14:05:00.198888+00:00",
-  "LastChanged_Achievements": "2023-08-27T10:05:59.0701024+00:00",
+  "LastChanged_Achievements": "2023-08-27T11:06:45.046164+00:00",
   "LastUpdate_AppInfo": "2023-08-24T13:01:28.6254437+00:00",
-  "LastUpdate_Ratings": "2023-08-27T09:58:56.516686+00:00",
-  "LastUpdate_Achievements": "2023-08-27T10:05:59.0701146+00:00"
+  "LastUpdate_Ratings": "2023-08-27T10:59:29.6134578+00:00",
+  "LastUpdate_Achievements": "2023-08-27T11:06:45.0461788+00:00"
 }
