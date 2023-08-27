@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 107,
   "Ranking_EOS_NewPlayers": 295,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
     "PcReleaseDate": "2021-09-27T00:00:00+00:00",
@@ -456,9 +456,9 @@
       "ID": "ACH_01",
       "SetID": "72imik0",
       "Name": "The Bracelet",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 50,
-      "UsersEstimate": 264
+      "UsersEstimate": 268
     },
     {
       "ID": "ACH_010",
@@ -536,9 +536,9 @@
       "ID": "ACH_019",
       "SetID": "72imik0",
       "Name": "Fine-toothed Comb",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 219
+      "UsersEstimate": 223
     },
     {
       "ID": "ACH_02",
@@ -833,8 +833,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2023-07-07T15:57:52.1284059+00:00",
-  "LastChanged_Achievements": "2023-08-27T03:06:22.1031882+00:00",
+  "LastChanged_Achievements": "2023-08-27T04:08:27.026997+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:27.9158124+00:00",
-  "LastUpdate_Ratings": "2023-08-27T03:00:06.3360476+00:00",
-  "LastUpdate_Achievements": "2023-08-27T03:06:22.1032412+00:00"
+  "LastUpdate_Ratings": "2023-08-27T04:01:28.3649037+00:00",
+  "LastUpdate_Achievements": "2023-08-27T04:08:27.0270643+00:00"
 }

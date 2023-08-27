@@ -6,57 +6,57 @@ Rating: 4.75 (Ranked 134)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Motivational Speaker | 77.00% | ~65,867 |
-| The Player Whisperer | 76.00% | ~65,011 |
-| One of Us, One of Us! | 73.00% | ~62,445 |
-| First Victory | 68.00% | ~58,168 |
-| Clean Sheet | 67.00% | ~57,312 |
-| #DoneDeal | 67.00% | ~57,312 |
-| Off the Books | 66.00% | ~56,457 |
+| The Player Whisperer | 76.00% | ~65,012 |
+| One of Us, One of Us! | 73.00% | ~62,446 |
+| First Victory | 68.00% | ~58,169 |
+| Clean Sheet | 67.00% | ~57,313 |
+| #DoneDeal | 67.00% | ~57,313 |
+| Off the Books | 66.00% | ~56,458 |
 | Super-Sub | 65.00% | ~55,602 |
 | Hat-trick | 60.00% | ~51,325 |
 | "I Would Love It If We Beat Them" | 58.00% | ~49,614 |
 | Planned Signing | 58.00% | ~49,614 |
 | Thumping | 53.00% | ~45,337 |
 | Scoring Streak | 53.00% | ~45,337 |
-| People Pleaser | 52.00% | ~44,481 |
-| Wheeler Dealer | 52.00% | ~44,481 |
+| People Pleaser | 52.00% | ~44,482 |
+| Wheeler Dealer | 52.00% | ~44,482 |
 | Unbeatable! | 51.00% | ~43,626 |
-| One Of Our Own | 49.00% | ~41,915 |
-| They're a Natural | 45.00% | ~38,493 |
-| Record Signing | 45.00% | ~38,493 |
+| One Of Our Own | 49.00% | ~41,916 |
+| They're a Natural | 45.00% | ~38,494 |
+| Record Signing | 45.00% | ~38,494 |
 | Team Performance | 44.00% | ~37,638 |
 | The Only Stat That Matters | 44.00% | ~37,638 |
 | Full Faith | 41.00% | ~35,072 |
 | Star Player | 41.00% | ~35,072 |
 | Squad Goals | 41.00% | ~35,072 |
-| Parked The Bus | 40.00% | ~34,216 |
-| The People's Champion | 40.00% | ~34,216 |
+| Parked The Bus | 40.00% | ~34,217 |
+| The People's Champion | 40.00% | ~34,217 |
 | Beating Expectations | 39.00% | ~33,361 |
 | Goal Rush | 39.00% | ~33,361 |
-| What A Goal! | 37.00% | ~31,650 |
-| Flavour Of The Month | 37.00% | ~31,650 |
-| Record Sale | 37.00% | ~31,650 |
+| What A Goal! | 37.00% | ~31,651 |
+| Flavour Of The Month | 37.00% | ~31,651 |
+| Record Sale | 37.00% | ~31,651 |
 | Tremendous Trio | 36.00% | ~30,795 |
 | Unstoppable Force | 36.00% | ~30,795 |
 | Shots For Days | 36.00% | ~30,795 |
-| You're on Fire | 35.00% | ~29,939 |
+| You're on Fire | 35.00% | ~29,940 |
 | Splashing the Cash | 34.00% | ~29,084 |
 | The Special One | 34.00% | ~29,084 |
 | On a Roll | 33.00% | ~28,229 |
 | Goal Machine | 32.00% | ~27,373 |
 | Drilling Down | 31.00% | ~26,518 |
-| Immovable Object | 30.00% | ~25,662 |
-| Cup Glory! | 30.00% | ~25,662 |
-| Cash to Burn | 28.00% | ~23,951 |
+| Immovable Object | 30.00% | ~25,663 |
+| Cup Glory! | 30.00% | ~25,663 |
+| Cash to Burn | 28.00% | ~23,952 |
 | Irresistible Force | 27.00% | ~23,096 |
 | Do The Double | 24.00% | ~20,530 |
 | A Game of Two Halves | 22.00% | ~18,819 |
 | Top Form | 20.00% | ~17,108 |
 | You're Up! | 20.00% | ~17,108 |
 | Money, Money, Money | 19.00% | ~16,253 |
-| First Goal Network | 18.00% | ~15,397 |
-| First Win Network | 18.00% | ~15,397 |
-| Window Shopping | 18.00% | ~15,397 |
+| First Goal Network | 18.00% | ~15,398 |
+| First Win Network | 18.00% | ~15,398 |
+| Window Shopping | 18.00% | ~15,398 |
 | Clean Sheet Network | 17.00% | ~14,542 |
 | Superb Strike | 15.00% | ~12,831 |
 | Tête-à-tête | 15.00% | ~12,831 |
@@ -73,7 +73,7 @@ Rating: 4.75 (Ranked 134)
 | Legend | 7.00% | ~5,988 |
 | World Beaters | 7.00% | ~5,988 |
 | World Renowned | 7.00% | ~5,988 |
-| Parked The Tank | 6.00% | ~5,132 |
+| Parked The Tank | 6.00% | ~5,133 |
 | Mini League Champion | 5.00% | ~4,277 |
 | Cupset Between Friends | 4.00% | ~3,422 |
 | National Hero | 4.00% | ~3,422 |
@@ -106,7 +106,7 @@ Rating: 4.75 (Ranked 134)
 | Versus Anyone | 0.10% | ~86 |
 | 200 Club | 0.10% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 85,541 (Ranked 75)  
+Progressed: 85,542 (Ranked 75)  
 Completed: 23 (0.03%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,7 +235,7 @@ Completed: 23 (0.03%) (Ranked 242)
 | 2023-08-24 | 85,254 | 23 |
 | 2023-08-25 | 85,399 | 23 |
 | 2023-08-26 | 85,527 | 23 |
-| 2023-08-27 | 85,541 | 23 |
+| 2023-08-27 | 85,542 | 23 |
 ## Awards
 Max (Diverse Characters): 633  (Ranked 178)  
 Sum: 4,512 (Ranked 137)  

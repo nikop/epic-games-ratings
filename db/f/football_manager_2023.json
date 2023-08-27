@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 45,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-11-08T00:00:00+00:00",
     "PcReleaseDate": "2022-11-08T00:00:00+00:00",
@@ -4654,9 +4654,9 @@
       "Count": 265
     }
   ],
-  "EOS_Progressed": 85541,
+  "EOS_Progressed": 85542,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 1311,
+  "EOS_NewPlayers": 1306,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18619,6 +18619,11 @@
       "Time": "2023-08-27T03:05:28.0277571+00:00",
       "NumProgressed": 85541,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-08-27T04:07:08.8179852+00:00",
+      "NumProgressed": 85542,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 100,
@@ -18638,7 +18643,7 @@
       "Name": "You\u0027re on Fire",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 29939
+      "UsersEstimate": 29940
     },
     {
       "ID": "achievement_10_matches_without_losing",
@@ -18710,7 +18715,7 @@
       "Name": "Parked The Bus",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 34216
+      "UsersEstimate": 34217
     },
     {
       "ID": "achievement_5_manager_of_the_year_awards",
@@ -18774,7 +18779,7 @@
       "Name": "Clean Sheet",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 57312
+      "UsersEstimate": 57313
     },
     {
       "ID": "achievement_clean_sheet_network",
@@ -18822,7 +18827,7 @@
       "Name": "Parked The Tank",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 5132
+      "UsersEstimate": 5133
     },
     {
       "ID": "achievement_drilling_down",
@@ -18838,7 +18843,7 @@
       "Name": "First Goal Network",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 15397
+      "UsersEstimate": 15398
     },
     {
       "ID": "achievement_first_goal_versus",
@@ -18854,7 +18859,7 @@
       "Name": "First Win Network",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 15397
+      "UsersEstimate": 15398
     },
     {
       "ID": "achievement_first_win_versus",
@@ -18902,7 +18907,7 @@
       "Name": "What A Goal!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 31650
+      "UsersEstimate": 31651
     },
     {
       "ID": "achievement_goal_of_the_season",
@@ -18950,7 +18955,7 @@
       "Name": "They\u0027re a Natural",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 38493
+      "UsersEstimate": 38494
     },
     {
       "ID": "achievement_import_to_victory",
@@ -18974,7 +18979,7 @@
       "Name": "Immovable Object",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 25662
+      "UsersEstimate": 25663
     },
     {
       "ID": "achievement_manager_of_the_month",
@@ -18982,7 +18987,7 @@
       "Name": "Flavour Of The Month",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 31650
+      "UsersEstimate": 31651
     },
     {
       "ID": "achievement_manager_of_the_year",
@@ -19030,7 +19035,7 @@
       "Name": "One Of Our Own",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 41915
+      "UsersEstimate": 41916
     },
     {
       "ID": "achievement_one_of_us",
@@ -19038,7 +19043,7 @@
       "Name": "One of Us, One of Us!",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 62445
+      "UsersEstimate": 62446
     },
     {
       "ID": "achievement_people_pleaser",
@@ -19046,7 +19051,7 @@
       "Name": "People Pleaser",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 44481
+      "UsersEstimate": 44482
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -19094,7 +19099,7 @@
       "Name": "Record Sale",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 31650
+      "UsersEstimate": 31651
     },
     {
       "ID": "achievement_record_signing",
@@ -19102,7 +19107,7 @@
       "Name": "Record Signing",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 38493
+      "UsersEstimate": 38494
     },
     {
       "ID": "achievement_red_hot_newgen",
@@ -19126,7 +19131,7 @@
       "Name": "Cash to Burn",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 23951
+      "UsersEstimate": 23952
     },
     {
       "ID": "achievement_sell_player",
@@ -19134,7 +19139,7 @@
       "Name": "Off the Books",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 56457
+      "UsersEstimate": 56458
     },
     {
       "ID": "achievement_shots_for_days",
@@ -19150,7 +19155,7 @@
       "Name": "#DoneDeal",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 57312
+      "UsersEstimate": 57313
     },
     {
       "ID": "achievement_signed_a_player_from_another_network_user",
@@ -19190,7 +19195,7 @@
       "Name": "The People\u0027s Champion",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 34216
+      "UsersEstimate": 34217
     },
     {
       "ID": "achievement_the_player_whisperer",
@@ -19198,7 +19203,7 @@
       "Name": "The Player Whisperer",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 65011
+      "UsersEstimate": 65012
     },
     {
       "ID": "achievement_the_unstoppables",
@@ -19270,7 +19275,7 @@
       "Name": "Wheeler Dealer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 44481
+      "UsersEstimate": 44482
     },
     {
       "ID": "achievement_win_3_consecutive_league_titles",
@@ -19302,7 +19307,7 @@
       "Name": "Window Shopping",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 15397
+      "UsersEstimate": 15398
     },
     {
       "ID": "achievement_won_20_cup_competitions",
@@ -19318,7 +19323,7 @@
       "Name": "First Victory",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 58168
+      "UsersEstimate": 58169
     },
     {
       "ID": "achievement_won_international_championship",
@@ -19342,7 +19347,7 @@
       "Name": "Cup Glory!",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 25662
+      "UsersEstimate": 25663
     },
     {
       "ID": "achievement_won_world_cup",
@@ -19429,7 +19434,7 @@
     {
       "ID": "26pcimd",
       "IsBase": true,
-      "Progressed": 85541,
+      "Progressed": 85542,
       "Completed": 23
     }
   ],
@@ -19437,8 +19442,8 @@
   "FirstSeenRating": "2022-11-08T17:57:47.9405885+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.5210365+00:00",
   "LastChanged": "2023-08-26T23:57:35.1167171+00:00",
-  "LastChanged_Achievements": "2023-08-27T03:05:28.0277565+00:00",
+  "LastChanged_Achievements": "2023-08-27T04:07:08.8179845+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:01.7792484+00:00",
-  "LastUpdate_Ratings": "2023-08-27T02:57:39.7751844+00:00",
-  "LastUpdate_Achievements": "2023-08-27T03:05:28.028155+00:00"
+  "LastUpdate_Ratings": "2023-08-27T03:58:26.6821814+00:00",
+  "LastUpdate_Achievements": "2023-08-27T04:07:08.8182362+00:00"
 }

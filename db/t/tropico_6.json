@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1056,9 +1056,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 4873,
+  "EOS_Progressed": 4874,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8596,6 +8596,11 @@
       "Time": "2023-08-27T01:46:35.1760275+00:00",
       "NumProgressed": 4873,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-27T04:04:41.512834+00:00",
+      "NumProgressed": 4874,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -8701,9 +8706,9 @@
       "ID": "ACH_EP_PENULTIMOOFTHECARIBBEAN",
       "SetID": "1p8ab95",
       "Name": "The Beginning of a Servantship",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 2193
+      "UsersEstimate": 2242
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -8711,7 +8716,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 828
+      "UsersEstimate": 829
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -8767,7 +8772,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 3703
+      "UsersEstimate": 3704
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -8863,7 +8868,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2290
+      "UsersEstimate": 2291
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -8926,15 +8931,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 4873,
+      "Progressed": 4874,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-08-19T05:59:02.5104499+00:00",
-  "LastChanged_Achievements": "2023-08-27T03:03:25.408805+00:00",
+  "LastChanged_Achievements": "2023-08-27T04:04:41.512833+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:51.1953585+00:00",
-  "LastUpdate_Ratings": "2023-08-27T02:58:29.3522178+00:00",
-  "LastUpdate_Achievements": "2023-08-27T03:03:25.4089394+00:00"
+  "LastUpdate_Ratings": "2023-08-27T03:59:30.5649706+00:00",
+  "LastUpdate_Achievements": "2023-08-27T04:04:41.5129254+00:00"
 }

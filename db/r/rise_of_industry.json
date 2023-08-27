@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 18,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 26,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2019-05-01T23:00:00+00:00",
@@ -249,9 +249,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 727580,
+  "EOS_Progressed": 727595,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2810,
+  "EOS_NewPlayers": 2806,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14544,6 +14544,11 @@
       "Time": "2023-08-27T03:05:09.6605327+00:00",
       "NumProgressed": 727580,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-27T04:06:42.3368086+00:00",
+      "NumProgressed": 727595,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 27,
@@ -14579,7 +14584,7 @@
       "Name": "Penniless",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 43655
+      "UsersEstimate": 43656
     },
     {
       "ID": "ach_build_bridge",
@@ -14619,7 +14624,7 @@
       "Name": "Well educated",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 269205
+      "UsersEstimate": 269210
     },
     {
       "ID": "ach_demolish_trees",
@@ -14627,7 +14632,7 @@
       "Name": "Deforester",
       "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 123689
+      "UsersEstimate": 123691
     },
     {
       "ID": "ach_free_cam_mode",
@@ -14651,7 +14656,7 @@
       "Name": "Massive Gains",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 43655
+      "UsersEstimate": 43656
     },
     {
       "ID": "ach_max_truck_distance",
@@ -14659,7 +14664,7 @@
       "Name": "I would drive 500 tiles...",
       "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 87310
+      "UsersEstimate": 87311
     },
     {
       "ID": "ach_place_all_buildngs",
@@ -14683,7 +14688,7 @@
       "Name": "Entrepreneur",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 349238
+      "UsersEstimate": 349246
     },
     {
       "ID": "ach_produced",
@@ -14691,7 +14696,7 @@
       "Name": "Apprentice Manufacturer",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 94585
+      "UsersEstimate": 94587
     },
     {
       "ID": "ach_products_moved",
@@ -14699,7 +14704,7 @@
       "Name": "Big Hauling",
       "Percentage": 16,
       "XP": 35,
-      "UsersEstimate": 116413
+      "UsersEstimate": 116415
     },
     {
       "ID": "ach_raise_money",
@@ -14707,7 +14712,7 @@
       "Name": "Billionaire",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 4365
+      "UsersEstimate": 4366
     },
     {
       "ID": "ach_sell_tier3_product",
@@ -14715,7 +14720,7 @@
       "Name": "Salesman",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 21827
+      "UsersEstimate": 21828
     },
     {
       "ID": "ach_sell_to_state",
@@ -14723,7 +14728,7 @@
       "Name": "Exporter",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 94585
+      "UsersEstimate": 94587
     },
     {
       "ID": "ach_setup_route_boat",
@@ -14739,7 +14744,7 @@
       "Name": "Railwayman",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 58206
+      "UsersEstimate": 58208
     },
     {
       "ID": "ach_setup_route_zepplin",
@@ -14755,7 +14760,7 @@
       "Name": "Landscaper",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 87310
+      "UsersEstimate": 87311
     },
     {
       "ID": "ach_warehouse_clients",
@@ -14763,14 +14768,14 @@
       "Name": "City Planner",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 138240
+      "UsersEstimate": 138243
     }
   ],
   "AchievementSets": [
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 727580,
+      "Progressed": 727595,
       "Completed": 3
     }
   ],
@@ -14778,8 +14783,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2023-08-27T02:56:53.5552791+00:00",
-  "LastChanged_Achievements": "2023-08-27T03:05:09.6605321+00:00",
+  "LastChanged_Achievements": "2023-08-27T04:06:42.3368078+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:34.1372716+00:00",
-  "LastUpdate_Ratings": "2023-08-27T02:56:53.5552796+00:00",
-  "LastUpdate_Achievements": "2023-08-27T03:05:09.6606998+00:00"
+  "LastUpdate_Ratings": "2023-08-27T03:57:24.2887415+00:00",
+  "LastUpdate_Achievements": "2023-08-27T04:06:42.3369328+00:00"
 }

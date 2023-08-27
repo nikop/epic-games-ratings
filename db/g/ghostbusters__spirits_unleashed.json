@@ -1902,9 +1902,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25370,
+  "EOS_Progressed": 25371,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -11382,6 +11382,11 @@
       "Time": "2023-08-27T03:03:23.1269729+00:00",
       "NumProgressed": 25370,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-08-27T04:04:38.3159538+00:00",
+      "NumProgressed": 25371,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 51,
@@ -11393,7 +11398,7 @@
       "Name": "Advancement",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 18266
+      "UsersEstimate": 18267
     },
     {
       "ID": "Animated",
@@ -11505,7 +11510,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 63,
       "XP": 100,
-      "UsersEstimate": 15983
+      "UsersEstimate": 15984
     },
     {
       "ID": "Escape_Artist",
@@ -11529,7 +11534,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 13446
+      "UsersEstimate": 13447
     },
     {
       "ID": "GB_In_Training",
@@ -11609,7 +11614,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6342
+      "UsersEstimate": 6343
     },
     {
       "ID": "Reckless",
@@ -11689,7 +11694,7 @@
       "Name": "Stunner",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6342
+      "UsersEstimate": 6343
     },
     {
       "ID": "Stylish",
@@ -11697,7 +11702,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 21818
+      "UsersEstimate": 21819
     },
     {
       "ID": "Summoner",
@@ -11721,7 +11726,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 13446
+      "UsersEstimate": 13447
     },
     {
       "ID": "Teamwork",
@@ -11729,7 +11734,7 @@
       "Name": "Teamwork",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 10909
+      "UsersEstimate": 10910
     },
     {
       "ID": "Terrifying",
@@ -11753,7 +11758,7 @@
       "Name": "There you are!",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 10655
+      "UsersEstimate": 10656
     },
     {
       "ID": "Tobins_Prodigy",
@@ -11800,7 +11805,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25370,
+      "Progressed": 25371,
       "Completed": 53
     }
   ],
@@ -11808,8 +11813,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-08-25T17:57:01.9365681+00:00",
-  "LastChanged_Achievements": "2023-08-27T03:03:23.1269723+00:00",
+  "LastChanged_Achievements": "2023-08-27T04:04:38.3159533+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:16.4521861+00:00",
-  "LastUpdate_Ratings": "2023-08-27T02:57:01.8238431+00:00",
-  "LastUpdate_Achievements": "2023-08-27T03:03:23.1271504+00:00"
+  "LastUpdate_Ratings": "2023-08-27T03:57:34.430516+00:00",
+  "LastUpdate_Achievements": "2023-08-27T04:04:38.3160678+00:00"
 }

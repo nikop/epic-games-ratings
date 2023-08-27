@@ -4,7 +4,7 @@
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 511,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 202,
+  "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.78,
   "EosHistory": [
@@ -1059,9 +1059,9 @@
       "ID": "_02_FinishFirstMission",
       "SetID": "8a1io5d",
       "Name": "A New Journey",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 373
+      "UsersEstimate": 378
     },
     {
       "ID": "_03_FinishAct1",
@@ -1123,17 +1123,17 @@
       "ID": "_10_Completion_30",
       "SetID": "8a1io5d",
       "Name": "Buccaneer",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 72
+      "UsersEstimate": 77
     },
     {
       "ID": "_11_Completion_40",
       "SetID": "8a1io5d",
       "Name": "Seadog",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 41
+      "UsersEstimate": 46
     },
     {
       "ID": "_12_Completion_50",
@@ -1266,8 +1266,8 @@
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-27T03:04:22.4411746+00:00",
+  "LastChanged_Achievements": "2023-08-27T04:05:48.6396578+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:45.1302228+00:00",
-  "LastUpdate_Ratings": "2023-08-27T03:00:21.2705293+00:00",
-  "LastUpdate_Achievements": "2023-08-27T03:04:22.4412151+00:00"
+  "LastUpdate_Ratings": "2023-08-27T04:01:47.5650107+00:00",
+  "LastUpdate_Achievements": "2023-08-27T04:05:48.6396989+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 24,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -726,9 +726,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 217814,
+  "EOS_Progressed": 217834,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2949,
+  "EOS_NewPlayers": 2957,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8446,6 +8446,11 @@
       "Time": "2023-08-27T03:02:13.9719651+00:00",
       "NumProgressed": 217814,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-27T04:03:21.7777214+00:00",
+      "NumProgressed": 217834,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -8457,7 +8462,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1960
+      "UsersEstimate": 1961
     },
     {
       "ID": "100Fail",
@@ -8505,7 +8510,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4356
+      "UsersEstimate": 4357
     },
     {
       "ID": "Chapter2",
@@ -8857,7 +8862,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4356
+      "UsersEstimate": 4357
     },
     {
       "ID": "DwarfElf15Support",
@@ -8889,7 +8894,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4356
+      "UsersEstimate": 4357
     },
     {
       "ID": "ElfEpic",
@@ -8905,7 +8910,7 @@
       "Name": "Sowwy!",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 52275
+      "UsersEstimate": 52280
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -8953,7 +8958,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6534
+      "UsersEstimate": 6535
     },
     {
       "ID": "FollowBraztok",
@@ -9041,7 +9046,7 @@
       "Name": "In Navalu\u0027s footsteps",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "QuestEmile",
@@ -9065,7 +9070,7 @@
       "Name": "L\u00EBgal Legend",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "QuestPriestess",
@@ -9160,21 +9165,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 217814,
+      "Progressed": 217834,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 217814,
+      "Progressed": 217834,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-26T23:02:52.6825545+00:00",
-  "LastChanged_Achievements": "2023-08-27T03:02:13.9719645+00:00",
+  "LastChanged_Achievements": "2023-08-27T04:03:21.7777207+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:41.9661267+00:00",
-  "LastUpdate_Ratings": "2023-08-27T03:01:00.7911349+00:00",
-  "LastUpdate_Achievements": "2023-08-27T03:02:13.9721957+00:00"
+  "LastUpdate_Ratings": "2023-08-27T04:02:40.1342936+00:00",
+  "LastUpdate_Achievements": "2023-08-27T04:03:21.7778849+00:00"
 }

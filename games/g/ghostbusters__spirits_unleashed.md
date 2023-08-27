@@ -5,17 +5,17 @@ Rating: 4.49 (Ranked 580)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~21,818 |
-| Advancement | 72.00% | ~18,266 |
-| Meticulously Efficient | 63.00% | ~15,983 |
+| Stylish | 86.00% | ~21,819 |
+| Advancement | 72.00% | ~18,267 |
+| Meticulously Efficient | 63.00% | ~15,984 |
 | Discovery | 61.00% | ~15,476 |
-| Fully Upgraded | 53.00% | ~13,446 |
-| Swift Rift Removers | 53.00% | ~13,446 |
+| Fully Upgraded | 53.00% | ~13,447 |
+| Swift Rift Removers | 53.00% | ~13,447 |
 | I collect Spores, Molds, and Fungi | 51.00% | ~12,939 |
 | Cultured | 51.00% | ~12,939 |
 | Vaporous Expansion | 48.00% | ~12,178 |
-| Teamwork | 43.00% | ~10,909 |
-| There you are! | 42.00% | ~10,655 |
+| Teamwork | 43.00% | ~10,910 |
+| There you are! | 42.00% | ~10,656 |
 | Clutch Capture | 40.00% | ~10,148 |
 | Back Off | 35.00% | ~8,880 |
 | Daily Dose | 34.00% | ~8,626 |
@@ -28,8 +28,8 @@ Rating: 4.49 (Ranked 580)
 | Legions | 26.00% | ~6,596 |
 | Right back at ya | 26.00% | ~6,596 |
 | Summoner | 26.00% | ~6,596 |
-| Pesky Jerks | 25.00% | ~6,342 |
-| Stunner | 25.00% | ~6,342 |
+| Pesky Jerks | 25.00% | ~6,343 |
+| Stunner | 25.00% | ~6,343 |
 | Animated | 24.00% | ~6,089 |
 | Skilled | 24.00% | ~6,089 |
 | Collector | 23.00% | ~5,835 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 580)
 | I don't need these | 1.00% | ~254 |
 | Mycophile | 1.00% | ~254 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,370 (Ranked 103)  
+Progressed: 25,371 (Ranked 103)  
 Completed: 53 (0.21%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,7 +186,7 @@ Completed: 53 (0.21%) (Ranked 188)
 | 2023-08-24 | 25,321 | 52 |
 | 2023-08-25 | 25,339 | 53 |
 | 2023-08-26 | 25,365 | 53 |
-| 2023-08-27 | 25,370 | 53 |
+| 2023-08-27 | 25,371 | 53 |
 ## Awards
 Max (Great for Quick Sessions): 249  (Ranked 254)  
 Sum: 2,257 (Ranked 188)  
