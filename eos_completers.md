@@ -74,7 +74,7 @@
 | 72 | [HordeCore](games/h/hordecore.md) | 3.15% |
 | 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.10% |
 | 74 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.03% |
-| 75 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.96% |
+| 75 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.95% |
 | 76 | [Monster Harvest](games/m/monster_harvest.md) | 2.93% |
 | 76 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 78 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.80% |
@@ -91,7 +91,7 @@
 | 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.25% |
 | 90 | [Bloodshore](games/b/bloodshore.md) | 2.20% |
 | 91 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
-| 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.14% |
+| 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.13% |
 | 93 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.01% |
 | 94 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
 | 95 | [Night Book](games/n/night_book.md) | 1.86% |
@@ -117,8 +117,8 @@
 | 115 | [A Musical Story](games/a/a_musical_story.md) | 1.08% |
 | 116 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.06% |
 | 117 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.03% |
-| 118 | [Adios](games/a/adios.md) | 1.01% |
-| 118 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.01% |
+| 118 | [Adios](games/a/adios.md) | 1.02% |
+| 119 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.01% |
 | 120 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.99% |
 | 120 | [Sable](games/s/sable.md) | 0.99% |
 | 120 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.99% |
@@ -179,9 +179,9 @@
 | 176 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
 | 178 | [Scrapnaut](games/s/scrapnaut.md) | 0.28% |
 | 178 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.28% |
-| 180 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.26% |
-| 181 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
-| 181 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.25% |
+| 180 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
+| 180 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.25% |
+| 180 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.25% |
 | 183 | [Despot's Game](games/d/despot's_game.md) | 0.24% |
 | 183 | [Filament](games/f/filament.md) | 0.24% |
 | 185 | [Blanc](games/b/blanc.md) | 0.23% |

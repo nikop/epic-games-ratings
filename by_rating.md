@@ -22,7 +22,7 @@
 | 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,220 | 78 |
 | 19 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.88 | 0 | 514 |
 | 19 | [Ooblets](games/o/ooblets.md) | 4.88 | 1,021 | 143 |
-| 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 170,033 | 6 |
+| 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 170,277 | 6 |
 | 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 11,209 | 35 |
 | 19 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 495 |
 | 26 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 279 | 244 |
@@ -213,7 +213,7 @@
 | 199 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 46 | 410 |
 | 199 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.70 | 0 | 514 |
 | 199 | [The Witness](games/t/the_witness.md) | 4.70 | 179 | 283 |
-| 199 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,499 | 74 |
+| 199 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,502 | 74 |
 | 199 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 0 | 514 |
 | 199 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.70 | 0 | 514 |
 | 217 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 115,232 | 8 |
@@ -629,25 +629,25 @@
 | 622 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 0 | 514 |
 | 622 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.46 | 0 | 514 |
 | 622 | [Railway Empire 2](games/r/railway_empire_2.md) | 4.46 | 0 | 514 |
-| 622 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 53 | 396 |
 | 622 | [Runbow](games/r/runbow.md) | 4.46 | 0 | 514 |
 | 622 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 287 | 240 |
 | 622 | [Train Valley](games/t/train_valley.md) | 4.46 | 0 | 514 |
 | 622 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.46 | 0 | 514 |
-| 635 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 0 | 514 |
-| 635 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.45 | 0 | 514 |
-| 635 | [Death Coming](games/d/death_coming.md) | 4.45 | 0 | 514 |
-| 635 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 246 | 256 |
-| 635 | [Faeria](games/f/faeria.md) | 4.45 | 110 | 327 |
-| 635 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 810 | 156 |
-| 635 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.45 | 108 | 328 |
-| 635 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 11,229 | 34 |
-| 635 | [Orwell: Keeping an Eye on You](games/o/orwell__keeping_an_eye_on_you.md) | 4.45 | 0 | 514 |
-| 635 | [Pathway](games/p/pathway.md) | 4.45 | 0 | 514 |
-| 635 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 869 | 152 |
-| 635 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.45 | 0 | 514 |
-| 635 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 118 | 323 |
-| 635 | [True Fear: Forsaken Souls Part 2](games/t/true_fear__forsaken_souls_part_2.md) | 4.45 | 0 | 514 |
+| 634 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 0 | 514 |
+| 634 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.45 | 0 | 514 |
+| 634 | [Death Coming](games/d/death_coming.md) | 4.45 | 0 | 514 |
+| 634 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 246 | 256 |
+| 634 | [Faeria](games/f/faeria.md) | 4.45 | 110 | 327 |
+| 634 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 810 | 156 |
+| 634 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.45 | 108 | 328 |
+| 634 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 11,229 | 34 |
+| 634 | [Orwell: Keeping an Eye on You](games/o/orwell__keeping_an_eye_on_you.md) | 4.45 | 0 | 514 |
+| 634 | [Pathway](games/p/pathway.md) | 4.45 | 0 | 514 |
+| 634 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 869 | 152 |
+| 634 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 53 | 396 |
+| 634 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.45 | 0 | 514 |
+| 634 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 118 | 323 |
+| 634 | [True Fear: Forsaken Souls Part 2](games/t/true_fear__forsaken_souls_part_2.md) | 4.45 | 0 | 514 |
 | 649 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 0 | 514 |
 | 649 | [ELEX](games/e/elex.md) | 4.44 | 24 | 485 |
 | 649 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 0 | 514 |
@@ -812,7 +812,7 @@
 | 810 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.28 | 0 | 514 |
 | 810 | [ELEX II](games/e/elex_ii.md) | 4.28 | 0 | 514 |
 | 810 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.28 | 0 | 514 |
-| 810 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.28 | 3,739 | 83 |
+| 810 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.28 | 3,741 | 83 |
 | 810 | [Men of War](games/m/men_of_war.md) | 4.28 | 0 | 514 |
 | 810 | [Mortal Shell](games/m/mortal_shell.md) | 4.28 | 0 | 514 |
 | 810 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 286 |
