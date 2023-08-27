@@ -4008,10 +4008,10 @@
       "Count": 327
     }
   ],
-  "EOS_Progressed": 666964,
-  "EOS_Completed": 2080,
-  "EOS_NewPlayers": 5803,
-  "EOS_NewCompleters": 34,
+  "EOS_Progressed": 667039,
+  "EOS_Completed": 2081,
+  "EOS_NewPlayers": 5807,
+  "EOS_NewCompleters": 35,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -18348,6 +18348,11 @@
       "Time": "2023-08-27T17:04:06.20149+00:00",
       "NumProgressed": 666964,
       "NumCompleted": 2080
+    },
+    {
+      "Time": "2023-08-27T18:03:57.0396585+00:00",
+      "NumProgressed": 667039,
+      "NumCompleted": 2081
     }
   ],
   "TotalAchievements": 45,
@@ -18365,9 +18370,9 @@
       "ID": "ach_a_taste_of_stardom",
       "SetID": "7km39fm",
       "Name": "Making Your Mark",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 667
+      "UsersEstimate": 1334
     },
     {
       "ID": "ach_ammo_ran",
@@ -18509,9 +18514,9 @@
       "ID": "ach_her_name_was_lola",
       "SetID": "7km39fm",
       "Name": "Friends Like These",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1334
+      "UsersEstimate": 2001
     },
     {
       "ID": "ach_hotel_california",
@@ -18613,9 +18618,9 @@
       "ID": "ach_salvation",
       "SetID": "7km39fm",
       "Name": "Down with the Sickness",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 667
+      "UsersEstimate": 1334
     },
     {
       "ID": "ach_secrets_of_la",
@@ -18718,16 +18723,16 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 666964,
-      "Completed": 2080
+      "Progressed": 667039,
+      "Completed": 2081
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-08-27T17:01:15.272441+00:00",
-  "LastChanged_Achievements": "2023-08-27T17:04:06.2014894+00:00",
+  "LastChanged_Achievements": "2023-08-27T18:03:57.0396581+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:11.0440218+00:00",
-  "LastUpdate_Ratings": "2023-08-27T17:01:15.2724416+00:00",
-  "LastUpdate_Achievements": "2023-08-27T17:04:06.2016074+00:00"
+  "LastUpdate_Ratings": "2023-08-27T18:00:49.1660644+00:00",
+  "LastUpdate_Achievements": "2023-08-27T18:03:57.0397547+00:00"
 }

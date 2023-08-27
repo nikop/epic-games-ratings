@@ -6,12 +6,12 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 25.00% | ~54,542 |
-| Where's that freaking Dwarf? | 3.00% | ~6,545 |
-| Alt+F4 | 3.00% | ~6,545 |
-| Déjà vu | 2.00% | ~4,363 |
-| Sock! SOCK! | 2.00% | ~4,363 |
-| Speedrun | 2.00% | ~4,363 |
+| Sowwy! | 25.00% | ~54,549 |
+| Where's that freaking Dwarf? | 3.00% | ~6,546 |
+| Alt+F4 | 3.00% | ~6,546 |
+| Déjà vu | 2.00% | ~4,364 |
+| Sock! SOCK! | 2.00% | ~4,364 |
+| Speedrun | 2.00% | ~4,364 |
 | Livin' in a dwarven paradise | 1.00% | ~2,182 |
 | Way of the Wimp | 1.00% | ~2,182 |
 | A beer, two curses, three companions | 1.00% | ~2,182 |
@@ -19,14 +19,14 @@ Number of Ratings: 118  (23.09.2022)
 | GG EZ | 1.00% | ~2,182 |
 | DM intervention | 1.00% | ~2,182 |
 | Fireproof Wizardess | 1.00% | ~2,182 |
-| The demons' feast | 0.80% | ~1,745 |
-| The Great Library | 0.80% | ~1,745 |
-| Torture and Sensibility | 0.80% | ~1,745 |
-| Urik's Depths | 0.80% | ~1,745 |
-| The Dungeon Master | 0.80% | ~1,745 |
-| The Woman in the High Castle | 0.80% | ~1,745 |
-| Team Building Exercise | 0.80% | ~1,745 |
-| Oh, when I'll be level 10... | 0.80% | ~1,745 |
+| The demons' feast | 0.80% | ~1,746 |
+| The Great Library | 0.80% | ~1,746 |
+| Torture and Sensibility | 0.80% | ~1,746 |
+| Urik's Depths | 0.80% | ~1,746 |
+| The Dungeon Master | 0.80% | ~1,746 |
+| The Woman in the High Castle | 0.80% | ~1,746 |
+| Team Building Exercise | 0.80% | ~1,746 |
+| Oh, when I'll be level 10... | 0.80% | ~1,746 |
 | Shiny and Crôm | 0.70% | ~1,527 |
 | The Statuette of Gladeulfeurah | 0.70% | ~1,527 |
 | A tale of adventurers not quite like the others... | 0.70% | ~1,527 |
@@ -44,8 +44,8 @@ Number of Ratings: 118  (23.09.2022)
 | Gargantua | 0.40% | ~873 |
 | Lust and Debauchery | 0.40% | ~873 |
 | Material Girl | 0.40% | ~873 |
-| In Navalu's footsteps | 0.30% | ~654 |
-| Lëgal Legend | 0.30% | ~654 |
+| In Navalu's footsteps | 0.30% | ~655 |
+| Lëgal Legend | 0.30% | ~655 |
 | Holistic Adventuring Party | 0.20% | ~436 |
 | Scholar of the Lands of Fangh | 0.20% | ~436 |
 | An old poacher makes the best gamekeeper | 0.20% | ~436 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~218 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,166 (Ranked 56)  
+Progressed: 218,197 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 2 (0.00%) (Ranked 265)
 | 2023-08-24 | 216,781 | 2 |
 | 2023-08-25 | 217,227 | 2 |
 | 2023-08-26 | 217,758 | 2 |
-| 2023-08-27 | 218,166 | 2 |
+| 2023-08-27 | 218,197 | 2 |
 ## Awards
 Max (Character Customization): 180  (Ranked 282)  
 Sum: 224 (Ranked 361)  

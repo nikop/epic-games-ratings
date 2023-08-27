@@ -2,13 +2,13 @@
   "ID": "fbab831cc1c94385b4e311f47f6fdc4f",
   "Name": "Galactic Civilizations IV",
   "ProductSlug": "galactic-civilizations-iv",
-  "Ranking_Rating": 876,
+  "Ranking_Rating": 877,
   "Ranking_Popularity": 349,
   "Ranking_PopularitySum": 281,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -870,9 +870,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 6476,
+  "EOS_Progressed": 6477,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5465,6 +5465,11 @@
       "Time": "2023-08-27T14:06:08.3983457+00:00",
       "NumProgressed": 6476,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-27T18:05:36.8578186+00:00",
+      "NumProgressed": 6477,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -5516,7 +5521,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 4080
+      "UsersEstimate": 4081
     },
     {
       "ID": "Control_All_Relics",
@@ -5540,7 +5545,7 @@
       "Name": "Xenocide",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2072
+      "UsersEstimate": 2073
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -5556,7 +5561,7 @@
       "Name": "Design a Civilization",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 2072
+      "UsersEstimate": 2073
     },
     {
       "ID": "First_Major_Ally",
@@ -5580,7 +5585,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 5116
+      "UsersEstimate": 5117
     },
     {
       "ID": "First_Race_Met",
@@ -5588,7 +5593,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4727
+      "UsersEstimate": 4728
     },
     {
       "ID": "First_Ship_Designed",
@@ -5596,7 +5601,7 @@
       "Name": "Design a Ship",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1813
+      "UsersEstimate": 1814
     },
     {
       "ID": "First_Stream_Travel",
@@ -5612,7 +5617,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5051
+      "UsersEstimate": 5052
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -5796,7 +5801,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 4015
+      "UsersEstimate": 4016
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -5964,7 +5969,7 @@
       "Name": "Win a Battle",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 4339
+      "UsersEstimate": 4340
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -6051,15 +6056,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6476,
+      "Progressed": 6477,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-08-26T19:00:34.0430321+00:00",
-  "LastChanged_Achievements": "2023-08-27T17:06:02.5583127+00:00",
+  "LastChanged_Achievements": "2023-08-27T18:05:36.8578181+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:37.9728429+00:00",
-  "LastUpdate_Ratings": "2023-08-27T17:00:26.2840498+00:00",
-  "LastUpdate_Achievements": "2023-08-27T17:06:02.5584095+00:00"
+  "LastUpdate_Ratings": "2023-08-27T18:00:04.278309+00:00",
+  "LastUpdate_Achievements": "2023-08-27T18:05:36.8578986+00:00"
 }

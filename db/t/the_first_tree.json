@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 96,
+  "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -244,9 +244,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 35391,
+  "EOS_Progressed": 35393,
   "EOS_Completed": 108,
-  "EOS_NewPlayers": 289,
+  "EOS_NewPlayers": 285,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -12079,6 +12079,11 @@
       "Time": "2023-08-27T17:07:28.5356866+00:00",
       "NumProgressed": 35391,
       "NumCompleted": 108
+    },
+    {
+      "Time": "2023-08-27T18:06:52.4052129+00:00",
+      "NumProgressed": 35393,
+      "NumCompleted": 108
     }
   ],
   "TotalAchievements": 14,
@@ -12178,7 +12183,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 27251
+      "UsersEstimate": 27253
     },
     {
       "ID": "roots",
@@ -12186,7 +12191,7 @@
       "Name": "The Way Forward",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 6016
+      "UsersEstimate": 6017
     },
     {
       "ID": "secretItem",
@@ -12201,15 +12206,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 35391,
+      "Progressed": 35393,
       "Completed": 108
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-07-24T04:01:31.3679912+00:00",
-  "LastChanged_Achievements": "2023-08-27T17:07:28.535686+00:00",
+  "LastChanged_Achievements": "2023-08-27T18:06:52.4052123+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:58:04.8556471+00:00",
-  "LastUpdate_Ratings": "2023-08-27T16:59:13.7806449+00:00",
-  "LastUpdate_Achievements": "2023-08-27T17:07:28.5357662+00:00"
+  "LastUpdate_Ratings": "2023-08-27T17:59:01.2095697+00:00",
+  "LastUpdate_Achievements": "2023-08-27T18:06:52.4052787+00:00"
 }

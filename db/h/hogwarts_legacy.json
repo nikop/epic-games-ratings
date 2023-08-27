@@ -6834,9 +6834,9 @@
       "Count": 606
     }
   ],
-  "EOS_Progressed": 290927,
+  "EOS_Progressed": 290931,
   "EOS_Completed": 456,
-  "EOS_NewPlayers": 429,
+  "EOS_NewPlayers": 428,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -20744,6 +20744,11 @@
       "Time": "2023-08-27T17:03:36.0770776+00:00",
       "NumProgressed": 290927,
       "NumCompleted": 456
+    },
+    {
+      "Time": "2023-08-27T18:03:40.750193+00:00",
+      "NumProgressed": 290931,
+      "NumCompleted": 456
     }
   ],
   "TotalAchievements": 45,
@@ -20763,7 +20768,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26183
+      "UsersEstimate": 26184
     },
     {
       "ID": "PFA_11",
@@ -20771,7 +20776,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 26183
+      "UsersEstimate": 26184
     },
     {
       "ID": "PFA_12",
@@ -20787,7 +20792,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 26183
+      "UsersEstimate": 26184
     },
     {
       "ID": "PFA_14",
@@ -20795,7 +20800,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 5,
       "XP": 70,
-      "UsersEstimate": 14546
+      "UsersEstimate": 14547
     },
     {
       "ID": "PFA_15",
@@ -20859,7 +20864,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26183
+      "UsersEstimate": 26184
     },
     {
       "ID": "PFA_22",
@@ -20883,7 +20888,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26183
+      "UsersEstimate": 26184
     },
     {
       "ID": "PFA_25",
@@ -20891,7 +20896,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14546
+      "UsersEstimate": 14547
     },
     {
       "ID": "PFA_26",
@@ -20923,7 +20928,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14546
+      "UsersEstimate": 14547
     },
     {
       "ID": "PFA_3",
@@ -21011,7 +21016,7 @@
       "Name": "Coasting Along",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26183
+      "UsersEstimate": 26184
     },
     {
       "ID": "PFA_4",
@@ -21043,7 +21048,7 @@
       "Name": "Raising Expectations",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 14546
+      "UsersEstimate": 14547
     },
     {
       "ID": "PFA_43",
@@ -21114,7 +21119,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 290927,
+      "Progressed": 290931,
       "Completed": 456
     }
   ],
@@ -21122,8 +21127,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-08-27T17:00:14.3666265+00:00",
-  "LastChanged_Achievements": "2023-08-27T17:03:36.0770769+00:00",
+  "LastChanged_Achievements": "2023-08-27T18:03:40.7501926+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:27.4425386+00:00",
-  "LastUpdate_Ratings": "2023-08-27T17:00:14.3666272+00:00",
-  "LastUpdate_Achievements": "2023-08-27T17:03:36.0771956+00:00"
+  "LastUpdate_Ratings": "2023-08-27T17:59:55.1624052+00:00",
+  "LastUpdate_Achievements": "2023-08-27T18:03:40.7502896+00:00"
 }

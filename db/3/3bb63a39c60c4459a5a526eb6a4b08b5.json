@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 533,
+  "EOS_Progressed": 534,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -1926,6 +1926,11 @@
       "Time": "2023-08-27T17:04:40.5337638+00:00",
       "NumProgressed": 533,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-27T18:04:24.1058591+00:00",
+      "NumProgressed": 534,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2111,7 +2116,7 @@
       "ID": "ManagementMaster",
       "SetID": "1e89b4i",
       "Name": "Management Master",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 40,
       "UsersEstimate": 4
     },
@@ -2191,7 +2196,7 @@
       "ID": "Reaction",
       "SetID": "1e89b4i",
       "Name": "Fast Response",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -2272,14 +2277,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 533,
+      "Progressed": 534,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-08-27T17:04:40.5337632+00:00",
+  "LastChanged_Achievements": "2023-08-27T18:04:24.1058587+00:00",
   "LastUpdate_AppInfo": "2023-08-22T10:56:57.2309265+00:00",
-  "LastUpdate_Ratings": "2023-08-27T16:59:44.1643817+00:00",
-  "LastUpdate_Achievements": "2023-08-27T17:04:40.5338063+00:00"
+  "LastUpdate_Ratings": "2023-08-27T17:59:26.2148707+00:00",
+  "LastUpdate_Achievements": "2023-08-27T18:04:24.1058959+00:00"
 }

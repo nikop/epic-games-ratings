@@ -1,27 +1,27 @@
 # Alan Wake Remastered
 [Store](https://store.epicgames.com/en-US/p/alan-wake-remastered)  
 [View Rawdata](../../db/a/alan_wake_remastered.json)  
-Rating: 4.55 (Ranked 489)  
+Rating: 4.55 (Ranked 488)  
 Number of Ratings: 524  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 38.00% | ~23,479 |
-| Let There Be Light | 31.00% | ~19,154 |
-| Float Like a Butterfly | 30.00% | ~18,536 |
-| Nordic Walking | 24.00% | ~14,829 |
-| Bright Falls' Finest | 23.00% | ~14,211 |
+| Follow the Light | 38.00% | ~23,481 |
+| Let There Be Light | 31.00% | ~19,156 |
+| Float Like a Butterfly | 30.00% | ~18,538 |
+| Nordic Walking | 24.00% | ~14,830 |
+| Bright Falls' Finest | 23.00% | ~14,212 |
 | Under a Thin Layer of Skin | 20.00% | ~12,358 |
-| Park Ranger | 17.00% | ~10,504 |
-| Paging Mr. Wake | 17.00% | ~10,504 |
-| Back! Back, I Say! | 16.00% | ~9,886 |
-| Finders Keepers | 16.00% | ~9,886 |
-| Damn Good Cup of Coffee | 15.00% | ~9,268 |
-| They're Heeeeeere! | 14.00% | ~8,650 |
-| Sound and Fury | 14.00% | ~8,650 |
-| Missed by a Mile | 14.00% | ~8,650 |
-| Wheels Within Wheels | 13.00% | ~8,032 |
-| The Six-Gun Scribe | 13.00% | ~8,032 |
+| Park Ranger | 17.00% | ~10,505 |
+| Paging Mr. Wake | 17.00% | ~10,505 |
+| Back! Back, I Say! | 16.00% | ~9,887 |
+| Finders Keepers | 16.00% | ~9,887 |
+| Damn Good Cup of Coffee | 15.00% | ~9,269 |
+| They're Heeeeeere! | 14.00% | ~8,651 |
+| Sound and Fury | 14.00% | ~8,651 |
+| Missed by a Mile | 14.00% | ~8,651 |
+| Wheels Within Wheels | 13.00% | ~8,033 |
+| The Six-Gun Scribe | 13.00% | ~8,033 |
 | Heavy Metal | 12.00% | ~7,415 |
 | Iron Horse | 12.00% | ~7,415 |
 | Perchance to Dream | 12.00% | ~7,415 |
@@ -36,12 +36,12 @@ Number of Ratings: 524  (23.09.2022)
 | Right of Way | 9.00% | ~5,561 |
 | Tornado Wrangler | 8.00% | ~4,943 |
 | What Light Through Yonder Window | 8.00% | ~4,943 |
-| A Friend in Need | 8.00% | ~2,020 |
+| A Friend in Need | 8.00% | ~2,021 |
 | Departure | 7.00% | ~4,325 |
-| Hardboiled Writer | 6.00% | ~3,707 |
-| A Friend Indeed | 6.00% | ~1,515 |
-| Children of the Elder God | 5.00% | ~3,089 |
-| Drink 'Em Both Up | 5.00% | ~3,089 |
+| Hardboiled Writer | 6.00% | ~3,708 |
+| A Friend Indeed | 6.00% | ~1,516 |
+| Children of the Elder God | 5.00% | ~3,090 |
+| Drink 'Em Both Up | 5.00% | ~3,090 |
 | Ding! | 5.00% | ~1,263 |
 | Boob Tube | 4.00% | ~2,472 |
 | If It Flies, It Burns | 4.00% | ~2,472 |
@@ -58,10 +58,10 @@ Number of Ratings: 524  (23.09.2022)
 | Words Will Never Harm You | 0.70% | ~177 |
 | Cardboard Companions | 0.60% | ~152 |
 | Fast and Furious | 0.50% | ~126 |
+| Creative Space | 0.50% | ~126 |
 | Run-On Sentence | 0.40% | ~101 |
 | License Revoked | 0.40% | ~101 |
 | Whirlwind | 0.40% | ~101 |
-| Creative Space | 0.40% | ~101 |
 | Alan, Wake Up | 0.30% | ~185 |
 | Meet the Deadline | 0.30% | ~185 |
 | Picking Up After Yourself | 0.30% | ~185 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~62 |
 | No Punctuation | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,788 (Ranked 87)  
+Progressed: 61,792 (Ranked 87)  
 Completed: 65 (0.11%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 65 (0.11%) (Ranked 210)
 | 2023-08-24 | 61,526 | 65 |
 | 2023-08-25 | 61,617 | 65 |
 | 2023-08-26 | 61,726 | 65 |
-| 2023-08-27 | 61,788 | 65 |
+| 2023-08-27 | 61,792 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

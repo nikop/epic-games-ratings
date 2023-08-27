@@ -24,14 +24,14 @@
 | Peace walker | 8.00% | ~5 |
 | Half the way | 8.00% | ~5 |
 | Open door | 8.00% | ~5 |
-| Free at last | 7.00% | ~4 |
-| A great audience | 7.00% | ~4 |
-| For its own good | 7.00% | ~4 |
-| A Link to the Past | 7.00% | ~4 |
-| Alchemists Express | 7.00% | ~4 |
+| Free at last | 6.00% | ~4 |
+| A great audience | 6.00% | ~4 |
+| For its own good | 6.00% | ~4 |
+| A Link to the Past | 6.00% | ~4 |
+| Alchemists Express | 6.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61 (Ranked 364)  
-Completed: 4 (6.56%) (Ranked 44)  
+Progressed: 62 (Ranked 364)  
+Completed: 4 (6.45%) (Ranked 44)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -71,3 +71,4 @@ Completed: 4 (6.56%) (Ranked 44)
 | 2023-08-21 | 57 | 4 |
 | 2023-08-22 | 58 | 4 |
 | 2023-08-25 | 61 | 4 |
+| 2023-08-27 | 62 | 4 |

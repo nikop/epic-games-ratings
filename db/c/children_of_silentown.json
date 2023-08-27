@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-01-11T16:00:00+00:00",
     "PcReleaseDate": "2023-01-11T16:00:00+00:00",
@@ -387,9 +387,9 @@
       "ID": "Friend",
       "SetID": "9kk0gal",
       "Name": "Friend",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     },
     {
       "ID": "FriendDoor",
@@ -524,8 +524,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-08-27T17:06:22.7472293+00:00",
+  "LastChanged_Achievements": "2023-08-27T18:05:54.4169227+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:09.7603016+00:00",
-  "LastUpdate_Ratings": "2023-08-27T16:58:48.278319+00:00",
-  "LastUpdate_Achievements": "2023-08-27T17:06:22.7472513+00:00"
+  "LastUpdate_Ratings": "2023-08-27T17:58:39.9060947+00:00",
+  "LastUpdate_Achievements": "2023-08-27T18:05:54.4169391+00:00"
 }

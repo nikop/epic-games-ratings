@@ -4,8 +4,8 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
     "PcReleaseDate": "2022-07-13T13:00:00+00:00",
@@ -1346,9 +1346,9 @@
       "ID": "MILLS",
       "SetID": "44dlcg0",
       "Name": "Clean energy",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 58
     },
     {
       "ID": "MURICA_1",
@@ -1602,9 +1602,9 @@
       "ID": "WELFARE_1",
       "SetID": "44dlcg0",
       "Name": "Soviet town",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 62
     },
     {
       "ID": "WELFARE_2",
@@ -1627,8 +1627,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-08-27T17:03:39.307883+00:00",
+  "LastChanged_Achievements": "2023-08-27T18:03:43.9999011+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:10.9380219+00:00",
-  "LastUpdate_Ratings": "2023-08-27T16:57:20.0567056+00:00",
-  "LastUpdate_Achievements": "2023-08-27T17:03:39.3079767+00:00"
+  "LastUpdate_Ratings": "2023-08-27T17:57:22.1682046+00:00",
+  "LastUpdate_Achievements": "2023-08-27T18:03:43.9999745+00:00"
 }

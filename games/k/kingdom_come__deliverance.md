@@ -6,35 +6,35 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~255,599 |
-| Cavalier | 25.00% | ~199,687 |
-| Fatso | 23.00% | ~183,712 |
-| Awakening | 21.00% | ~167,737 |
-| Ranger | 20.00% | ~159,749 |
-| Scrooge | 20.00% | ~159,749 |
-| Anorectic | 16.00% | ~127,800 |
-| Bookworm | 15.00% | ~119,812 |
-| Firestarter | 15.00% | ~119,812 |
-| Insomniac | 13.00% | ~103,837 |
+| Blacksmith's Son | 32.00% | ~255,601 |
+| Cavalier | 25.00% | ~199,688 |
+| Fatso | 23.00% | ~183,713 |
+| Awakening | 21.00% | ~167,738 |
+| Ranger | 20.00% | ~159,751 |
+| Scrooge | 20.00% | ~159,751 |
+| Anorectic | 16.00% | ~127,801 |
+| Bookworm | 15.00% | ~119,813 |
+| Firestarter | 15.00% | ~119,813 |
+| Insomniac | 13.00% | ~103,838 |
 | Buddy | 12.00% | ~95,850 |
 | Thief | 12.00% | ~95,850 |
-| Sinner | 11.00% | ~87,862 |
-| Traveller | 11.00% | ~87,862 |
+| Sinner | 11.00% | ~87,863 |
+| Traveller | 11.00% | ~87,863 |
 | Convict | 10.00% | ~79,875 |
-| Haggler | 9.00% | ~71,887 |
-| McLovin | 7.00% | ~55,912 |
-| Runt | 7.00% | ~55,912 |
+| Haggler | 9.00% | ~71,888 |
+| McLovin | 7.00% | ~55,913 |
+| Runt | 7.00% | ~55,913 |
 | Casanova | 6.00% | ~47,925 |
-| Bad Trip | 5.00% | ~39,937 |
-| Monk | 5.00% | ~39,937 |
-| Serial Killer | 5.00% | ~39,937 |
+| Bad Trip | 5.00% | ~39,938 |
+| Monk | 5.00% | ~39,938 |
+| Serial Killer | 5.00% | ~39,938 |
 | Bastard | 4.00% | ~31,950 |
 | Hunter | 4.00% | ~31,950 |
 | Plague Doctor | 4.00% | ~31,950 |
-| Bard | 3.00% | ~23,962 |
-| Conqueror | 3.00% | ~23,962 |
-| Ginger in a Pickle | 3.00% | ~23,962 |
-| Kingdom did not come | 3.00% | ~23,962 |
+| Bard | 3.00% | ~23,963 |
+| Conqueror | 3.00% | ~23,963 |
+| Ginger in a Pickle | 3.00% | ~23,963 |
+| Kingdom did not come | 3.00% | ~23,963 |
 | Completionist | 2.00% | ~15,975 |
 | Death by splinter | 2.00% | ~15,975 |
 | King Charming | 2.00% | ~15,975 |
@@ -44,30 +44,30 @@ Number of Ratings: 9,133  (23.09.2022)
 | Robber Baron | 2.00% | ~15,975 |
 | Talmberger | 2.00% | ~15,975 |
 | The End | 2.00% | ~15,975 |
-| Woman's Lot | 1.00% | ~7,987 |
-| Chivalrous Soul | 1.00% | ~7,987 |
-| Spoilsport | 1.00% | ~7,987 |
-| Freud | 1.00% | ~7,987 |
-| Gambler | 1.00% | ~7,987 |
-| Master Huntsman | 1.00% | ~7,987 |
-| Stealth Killer | 1.00% | ~7,987 |
+| Woman's Lot | 1.00% | ~7,988 |
+| Chivalrous Soul | 1.00% | ~7,988 |
+| Spoilsport | 1.00% | ~7,988 |
+| Freud | 1.00% | ~7,988 |
+| Gambler | 1.00% | ~7,988 |
+| Master Huntsman | 1.00% | ~7,988 |
+| Stealth Killer | 1.00% | ~7,988 |
 | Bailiff | 0.90% | ~7,189 |
 | Tracker | 0.90% | ~7,189 |
 | David Horak | 0.70% | ~5,591 |
 | Fighter | 0.70% | ~5,591 |
 | Mercenary's Honour | 0.70% | ~5,591 |
 | Saviour | 0.70% | ~5,591 |
-| Edward Kelly | 0.60% | ~4,792 |
+| Edward Kelly | 0.60% | ~4,793 |
 | I Can Quit Anytime | 0.50% | ~3,994 |
 | Perfectionist | 0.50% | ~3,994 |
 | Alcoholic | 0.30% | ~2,396 |
 | Sniper | 0.30% | ~2,396 |
-| Angel of Mercy | 0.20% | ~1,597 |
-| Christian Burial | 0.20% | ~1,597 |
-| Friends without benefits | 0.20% | ~1,597 |
-| Game Over | 0.20% | ~1,597 |
-| Not-so-Christian Burial | 0.20% | ~1,597 |
-| True Friend | 0.20% | ~1,597 |
+| Angel of Mercy | 0.20% | ~1,598 |
+| Christian Burial | 0.20% | ~1,598 |
+| Friends without benefits | 0.20% | ~1,598 |
+| Game Over | 0.20% | ~1,598 |
+| Not-so-Christian Burial | 0.20% | ~1,598 |
+| True Friend | 0.20% | ~1,598 |
 | Bad Girl | 0.10% | ~799 |
 | Cleric's pet | 0.10% | ~799 |
 | Full House Sinner | 0.10% | ~799 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~799 |
 | Wingman | 0.10% | ~799 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 798,747 (Ranked 16)  
+Progressed: 798,754 (Ranked 16)  
 Completed: 44 (0.01%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,10 +218,10 @@ Completed: 44 (0.01%) (Ranked 252)
 | 2023-08-24 | 798,310 | 44 |
 | 2023-08-25 | 798,447 | 44 |
 | 2023-08-26 | 798,622 | 44 |
-| 2023-08-27 | 798,747 | 44 |
+| 2023-08-27 | 798,754 | 44 |
 ## Awards
 Max (Character Customization): 7,408  (Ranked 47)  
-Sum: 27,577 (Ranked 46)  
+Sum: 27,578 (Ranked 46)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
@@ -234,7 +234,7 @@ Diff (max vs sum): 1
 | This game is Highly Recommended | 1,648 |
 | This game has Amazing Characters | 1,630 |
 | This game has Realistic Visuals | 1,625 |
-| This game is Educational | 1,567 |
+| This game is Educational | 1,568 |
 | This game is Relaxing | 1,508 |
 | This game has Obsessive Gameplay | 1,048 |
 | This game has a Creative Community | 664 |
@@ -453,4 +453,4 @@ Diff (max vs sum): 1
 | 2023-08-24 | 4.71 | - | 7,402 | 27,563 |
 | 2023-08-25 | 4.71 | - | 7,403 | 27,568 |
 | 2023-08-26 | 4.71 | - | 7,403 | 27,569 |
-| 2023-08-27 | 4.71 | - | 7,408 | 27,577 |
+| 2023-08-27 | 4.71 | - | 7,408 | 27,578 |

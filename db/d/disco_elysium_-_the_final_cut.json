@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 245,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1283,9 +1283,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 126883,
+  "EOS_Progressed": 126884,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 327,
+  "EOS_NewPlayers": 323,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -14163,6 +14163,11 @@
       "Time": "2023-08-27T17:06:29.9858121+00:00",
       "NumProgressed": 126883,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-08-27T18:06:00.8197986+00:00",
+      "NumProgressed": 126884,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -14198,7 +14203,7 @@
       "Name": "The Opener Of The Eighth Seal",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3806
+      "UsersEstimate": 3807
     },
     {
       "ID": "ACH_COP_ART",
@@ -14222,7 +14227,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 11419
+      "UsersEstimate": 11420
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -14254,7 +14259,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 35527
+      "UsersEstimate": 35528
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -14334,7 +14339,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 11419
+      "UsersEstimate": 11420
     },
     {
       "ID": "ACH_GLUTEN",
@@ -14398,7 +14403,7 @@
       "Name": "Bother Kim After Hours",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3806
+      "UsersEstimate": 3807
     },
     {
       "ID": "ACH_KIM_JACKET",
@@ -14493,15 +14498,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 126883,
+      "Progressed": 126884,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-08-22T19:02:11.687919+00:00",
-  "LastChanged_Achievements": "2023-08-27T17:06:29.9858112+00:00",
+  "LastChanged_Achievements": "2023-08-27T18:06:00.8197982+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:42.7736481+00:00",
-  "LastUpdate_Ratings": "2023-08-27T16:57:44.1125481+00:00",
-  "LastUpdate_Achievements": "2023-08-27T17:06:29.9859216+00:00"
+  "LastUpdate_Ratings": "2023-08-27T17:57:44.3249249+00:00",
+  "LastUpdate_Achievements": "2023-08-27T18:06:00.8198868+00:00"
 }
