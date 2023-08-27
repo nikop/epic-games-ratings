@@ -3,7 +3,7 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.00% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 43.40% |
-| 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.16% |
+| 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.75% |
 | 5 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 33.33% |
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 31.71% |
 | 7 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
@@ -26,7 +26,7 @@
 | 23 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
 | 23 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 11.11% |
 | 23 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.11% |
-| 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.01% |
+| 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.00% |
 | 28 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.71% |
 | 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.29% |
 | 30 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
@@ -37,7 +37,7 @@
 | 35 | [Ravenlok](games/r/ravenlok.md) | 7.56% |
 | 36 | [Smelter](games/s/smelter.md) | 7.50% |
 | 37 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 7.32% |
-| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.05% |
+| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.04% |
 | 39 | [Scorn](games/s/scorn.md) | 6.98% |
 | 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.81% |
 | 41 | [Time Loader](games/t/time_loader.md) | 6.78% |
@@ -91,7 +91,7 @@
 | 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.25% |
 | 90 | [Bloodshore](games/b/bloodshore.md) | 2.20% |
 | 91 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
-| 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.10% |
+| 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.09% |
 | 93 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.01% |
 | 94 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
 | 95 | [Night Book](games/n/night_book.md) | 1.86% |
@@ -112,7 +112,7 @@
 | 110 | [Poosh XL](games/p/poosh_xl.md) | 1.40% |
 | 111 | [Late Shift](games/l/late_shift.md) | 1.27% |
 | 112 | [Infindustry](games/i/infindustry.md) | 1.25% |
-| 113 | [Chorus](games/c/chorus.md) | 1.14% |
+| 113 | [Chorus](games/c/chorus.md) | 1.13% |
 | 114 | [Trifox](games/t/trifox.md) | 1.10% |
 | 115 | [A Musical Story](games/a/a_musical_story.md) | 1.08% |
 | 116 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.06% |
@@ -180,10 +180,10 @@
 | 177 | [Scrapnaut](games/s/scrapnaut.md) | 0.28% |
 | 177 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.28% |
 | 180 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
-| 180 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.25% |
 | 180 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.25% |
-| 183 | [Despot's Game](games/d/despot's_game.md) | 0.24% |
-| 183 | [Filament](games/f/filament.md) | 0.24% |
+| 182 | [Despot's Game](games/d/despot's_game.md) | 0.24% |
+| 182 | [Filament](games/f/filament.md) | 0.24% |
+| 182 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.24% |
 | 185 | [Blanc](games/b/blanc.md) | 0.23% |
 | 185 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.23% |
 | 187 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
