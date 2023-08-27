@@ -2,13 +2,13 @@
   "ID": "975d251af0384c88a898a996bda4881d",
   "Name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
-  "Ranking_Rating": 119,
+  "Ranking_Rating": 118,
   "Ranking_Popularity": 118,
   "Ranking_PopularitySum": 114,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -11719,9 +11719,9 @@
       "ID": "38_PrelatesNemesis",
       "SetID": "989of5o",
       "Name": "Prelate\u0027s Nemesis",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 56
     },
     {
       "ID": "39_Blight of Drezen",
@@ -12373,8 +12373,8 @@
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-27T14:01:30.3491642+00:00",
-  "LastChanged_Achievements": "2023-08-27T14:06:44.5508965+00:00",
+  "LastChanged_Achievements": "2023-08-27T15:06:01.5160794+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:16.3191421+00:00",
-  "LastUpdate_Ratings": "2023-08-27T14:01:30.3491652+00:00",
-  "LastUpdate_Achievements": "2023-08-27T14:06:44.5512297+00:00"
+  "LastUpdate_Ratings": "2023-08-27T15:00:46.2339232+00:00",
+  "LastUpdate_Achievements": "2023-08-27T15:06:01.5162597+00:00"
 }

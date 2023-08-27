@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -2687,9 +2687,9 @@
       "ID": "Kill25Mozi",
       "SetID": "9lj35g4",
       "Name": "Defeat 25 Mozis",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 862
+      "UsersEstimate": 881
     },
     {
       "ID": "MeetTheMoles",
@@ -2766,8 +2766,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-07-30T07:58:33.6633976+00:00",
-  "LastChanged_Achievements": "2023-08-27T14:06:46.3936557+00:00",
+  "LastChanged_Achievements": "2023-08-27T15:06:03.0870312+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:09.7374628+00:00",
-  "LastUpdate_Ratings": "2023-08-27T14:01:23.8230176+00:00",
-  "LastUpdate_Achievements": "2023-08-27T14:06:46.3937036+00:00"
+  "LastUpdate_Ratings": "2023-08-27T15:00:41.3170115+00:00",
+  "LastUpdate_Achievements": "2023-08-27T15:06:03.0870587+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "the-dragoness-command-of-the-flame-b3b544",
   "Ranking_EOS_Progress": 416,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 340,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-08-09T23:00:00+00:00",
     "PcReleaseDate": "2022-09-01T15:00:00+00:00",
@@ -279,9 +279,9 @@
       "ID": "SteamAchievment_CompleteFifteenChallenges",
       "SetID": "b8gj0ip",
       "Name": "Amateur of Challenges",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SteamAchievment_CompleteOneChallenge",
@@ -319,9 +319,9 @@
       "ID": "SteamAchievment_CompleteQuest05",
       "SetID": "b8gj0ip",
       "Name": "Monster Slayer",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SteamAchievment_CompleteQuest06",
@@ -454,8 +454,8 @@
   ],
   "FirstSeen": "2023-08-10T10:57:59.2838137+00:00",
   "FirstSeenAchievements": "2023-05-30T14:00:09.5243374+00:00",
-  "LastChanged_Achievements": "2023-08-27T14:06:22.8339883+00:00",
+  "LastChanged_Achievements": "2023-08-27T15:05:43.1383428+00:00",
   "LastUpdate_AppInfo": "2023-08-22T18:57:01.7235597+00:00",
-  "LastUpdate_Ratings": "2023-08-27T13:59:48.2885573+00:00",
-  "LastUpdate_Achievements": "2023-08-27T14:06:22.8340255+00:00"
+  "LastUpdate_Ratings": "2023-08-27T14:59:21.7028261+00:00",
+  "LastUpdate_Achievements": "2023-08-27T15:05:43.1383661+00:00"
 }

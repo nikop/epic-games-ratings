@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2628,
+  "EOS_Progressed": 2629,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 198,
+  "EOS_NewPlayers": 197,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -5121,6 +5121,11 @@
       "Time": "2023-08-27T13:04:06.5871773+00:00",
       "NumProgressed": 2628,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-08-27T15:02:16.6044822+00:00",
+      "NumProgressed": 2629,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 16,
@@ -5164,7 +5169,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 1997
+      "UsersEstimate": 1998
     },
     {
       "ID": "ach_architecture_completed",
@@ -5180,7 +5185,7 @@
       "Name": "Architecture - unlocked",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "ach_bomb",
@@ -5259,14 +5264,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 2628,
+      "Progressed": 2629,
       "Completed": 16
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-08-27T14:03:15.8755031+00:00",
+  "LastChanged_Achievements": "2023-08-27T15:02:16.6044817+00:00",
   "LastUpdate_AppInfo": "2023-08-25T13:01:03.6114977+00:00",
-  "LastUpdate_Ratings": "2023-08-27T13:59:48.5226932+00:00",
-  "LastUpdate_Achievements": "2023-08-27T14:03:15.875558+00:00"
+  "LastUpdate_Ratings": "2023-08-27T14:59:21.9264785+00:00",
+  "LastUpdate_Achievements": "2023-08-27T15:02:16.6045214+00:00"
 }

@@ -11,8 +11,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Cursed Farmer | 0.70% | ~1,578 |
 | The Hunt for The Last Breath | 0.60% | ~1,150 |
 | The Mad Wizard | 0.50% | ~1,127 |
+| To Infinity's and Beyond | 0.50% | ~958 |
 | The Ring of Regeneration | 0.40% | ~902 |
-| To Infinity's and Beyond | 0.40% | ~767 |
 | Maddening | 0.30% | ~676 |
 | Were-verpowered | 0.30% | ~676 |
 | A Persistent Buzzing | 0.30% | ~676 |
@@ -22,6 +22,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Are Ya Chicken? | 0.30% | ~676 |
 | Mad Cow Disease | 0.30% | ~676 |
 | Friendly Imps | 0.30% | ~676 |
+| Pure Energy | 0.30% | ~676 |
 | The Chaotic Hunt for The Last Breath | 0.30% | ~575 |
 | There's a Flying Snake in my Boot! | 0.30% | ~575 |
 | Tall Tales | 0.20% | ~383 |
@@ -101,7 +102,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Civilization | 0.20% | ~383 |
 | Durable Deep | 0.20% | ~451 |
 | Dwarven Rumors | 0.20% | ~383 |
-| Pure Energy | 0.20% | ~451 |
 | The Templar's Camp | 0.20% | ~451 |
 | Rescue in the Jungle | 0.20% | ~451 |
 | Rocky Reception | 0.20% | ~383 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~192 |
 | Animated Giff | 0.10% | ~192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,404 (Ranked 53)  
+Progressed: 225,416 (Ranked 53)  
 Completed: 2,220 (0.98%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -652,7 +652,7 @@ Completed: 2,220 (0.98%) (Ranked 122)
 | 2023-08-24 | 224,686 | 2,211 |
 | 2023-08-25 | 224,925 | 2,214 |
 | 2023-08-26 | 225,221 | 2,219 |
-| 2023-08-27 | 225,404 | 2,220 |
+| 2023-08-27 | 225,416 | 2,220 |
 ## Awards
 Max (Diverse Characters): 5,196  (Ranked 68)  
 Sum: 31,250 (Ranked 39)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -220,9 +220,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1536,
+  "EOS_Progressed": 1537,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3325,6 +3325,11 @@
       "Time": "2023-08-27T14:03:53.0594158+00:00",
       "NumProgressed": 1536,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-27T15:03:28.0588766+00:00",
+      "NumProgressed": 1537,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3416,7 +3421,7 @@
       "Name": "Zero Waste",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -3488,7 +3493,7 @@
       "Name": "Detective",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
@@ -3696,7 +3701,7 @@
       "Name": "Bob The Builder",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -3719,7 +3724,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1536,
+      "Progressed": 1537,
       "Completed": 0
     }
   ],
@@ -3727,8 +3732,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-08-17T16:59:18.1470659+00:00",
-  "LastChanged_Achievements": "2023-08-27T14:03:53.0594152+00:00",
+  "LastChanged_Achievements": "2023-08-27T15:03:28.058876+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:32.8469898+00:00",
-  "LastUpdate_Ratings": "2023-08-27T14:00:25.4283456+00:00",
-  "LastUpdate_Achievements": "2023-08-27T14:03:53.0597209+00:00"
+  "LastUpdate_Ratings": "2023-08-27T14:59:52.0162992+00:00",
+  "LastUpdate_Achievements": "2023-08-27T15:03:28.0589232+00:00"
 }

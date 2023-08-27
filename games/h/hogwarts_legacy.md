@@ -5,7 +5,7 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 13.00% | ~37,818 |
+| The Sort Who Makes an Entrance | 13.00% | ~37,819 |
 | First Class Student | 11.00% | ~32,000 |
 | Troll with the Punches | 11.00% | ~32,000 |
 | The Hallowed Hero | 10.00% | ~29,091 |
@@ -22,14 +22,14 @@ Rating: 4.77 (Ranked 109)
 | Followed the Butterflies | 8.00% | ~23,273 |
 | The Spell Master | 8.00% | ~23,273 |
 | Rising From the Ashes | 8.00% | ~23,273 |
-| The Avenging Gazelle | 7.00% | ~20,363 |
-| Beast Friends | 7.00% | ~20,363 |
-| A Sallow Grave | 7.00% | ~20,363 |
-| Flight the Good Flight | 7.00% | ~20,363 |
-| The Seeker of Knowledge | 5.00% | ~14,545 |
-| The Root of the Problem | 5.00% | ~14,545 |
-| Third Time's a Charm | 5.00% | ~14,545 |
-| Raising Expectations | 5.00% | ~14,545 |
+| The Avenging Gazelle | 7.00% | ~20,364 |
+| Beast Friends | 7.00% | ~20,364 |
+| A Sallow Grave | 7.00% | ~20,364 |
+| Flight the Good Flight | 7.00% | ~20,364 |
+| The Seeker of Knowledge | 5.00% | ~14,546 |
+| The Root of the Problem | 5.00% | ~14,546 |
+| Third Time's a Charm | 5.00% | ~14,546 |
+| Raising Expectations | 5.00% | ~14,546 |
 | The Toast of the Town | 4.00% | ~11,636 |
 | Going Through the Potions | 4.00% | ~11,636 |
 | Room with a View | 4.00% | ~11,636 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,745 |
 | Collector's Edition | 0.30% | ~873 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,907 (Ranked 43)  
+Progressed: 290,912 (Ranked 43)  
 Completed: 456 (0.16%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 456 (0.16%) (Ranked 196)
 | 2023-08-24 | 290,736 | 454 |
 | 2023-08-25 | 290,790 | 455 |
 | 2023-08-26 | 290,865 | 455 |
-| 2023-08-27 | 290,907 | 456 |
+| 2023-08-27 | 290,912 | 456 |
 ## Awards
 Max (Character Customization): 21,969  (Ranked 17)  
 Sum: 41,621 (Ranked 30)  

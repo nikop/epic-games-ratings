@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 333,
+  "EOS_Progressed": 335,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 233,
+  "EOS_NewPlayers": 235,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 2.1,
+  "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
     {
       "Time": "2023-06-26T21:03:11.1861868+00:00",
@@ -1041,6 +1041,11 @@
       "Time": "2023-08-27T14:03:41.6213703+00:00",
       "NumProgressed": 333,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-27T15:03:18.1905288+00:00",
+      "NumProgressed": 335,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-06-26T21:03:11.1861911+00:00",
@@ -1077,37 +1082,37 @@
       "Name": "Orange Skeleton",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "RedSkeleton",
       "SetID": "a76l54k",
       "Name": "Red Skeleton",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 100,
-      "UsersEstimate": 196
+      "UsersEstimate": 201
     },
     {
       "ID": "YellowSkeleton",
       "SetID": "a76l54k",
       "Name": "Yellow Skeleton",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 200,
-      "UsersEstimate": 50
+      "UsersEstimate": 54
     }
   ],
   "AchievementSets": [
     {
       "ID": "a76l54k",
       "IsBase": true,
-      "Progressed": 333,
+      "Progressed": 335,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-06-27T08:56:55.4742028+00:00",
   "FirstSeenAchievements": "2023-06-15T10:01:05.3060571+00:00",
-  "LastChanged_Achievements": "2023-08-27T14:03:41.6213696+00:00",
+  "LastChanged_Achievements": "2023-08-27T15:03:18.1905284+00:00",
   "LastUpdate_AppInfo": "2023-08-24T17:57:03.5736235+00:00",
-  "LastUpdate_Ratings": "2023-08-27T13:59:37.1115234+00:00",
-  "LastUpdate_Achievements": "2023-08-27T14:03:41.6213905+00:00"
+  "LastUpdate_Ratings": "2023-08-27T14:59:11.7896498+00:00",
+  "LastUpdate_Achievements": "2023-08-27T15:03:18.1905388+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "42b8b899a3f349bd8376264ccee3cd2a",
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
-  "Ranking_EOS_Progress": 230,
+  "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 128,
   "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 30,
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 517,
+  "EOS_Progressed": 518,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -1066,6 +1066,11 @@
       "Time": "2023-08-27T14:05:16.1240719+00:00",
       "NumProgressed": 517,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-27T15:04:47.8329399+00:00",
+      "NumProgressed": 518,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1078,7 +1083,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -1086,7 +1091,7 @@
       "Name": "A New Journey",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "_03_FinishAct1",
@@ -1094,7 +1099,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1110,7 +1115,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -1132,9 +1137,9 @@
       "ID": "_08_Completion_10",
       "SetID": "8a1io5d",
       "Name": "Swabbie",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 212
     },
     {
       "ID": "_09_Completion_20",
@@ -1148,9 +1153,9 @@
       "ID": "_10_Completion_30",
       "SetID": "8a1io5d",
       "Name": "Buccaneer",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 78
+      "UsersEstimate": 83
     },
     {
       "ID": "_11_Completion_40",
@@ -1196,9 +1201,9 @@
       "ID": "_16_UnlockCore8Characters",
       "SetID": "8a1io5d",
       "Name": "Pirates Assemble!",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 78
+      "UsersEstimate": 83
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -1206,7 +1211,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -1220,17 +1225,17 @@
       "ID": "_19_CrewTale_BSP",
       "SetID": "8a1io5d",
       "Name": "Persistent Parasite",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 67
     },
     {
       "ID": "_20_CrewTale_TPB",
       "SetID": "8a1io5d",
       "Name": "Fishy Fish",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 93
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -1285,14 +1290,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 517,
+      "Progressed": 518,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-27T14:05:16.1240693+00:00",
+  "LastChanged_Achievements": "2023-08-27T15:04:47.8329395+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:45.1302228+00:00",
-  "LastUpdate_Ratings": "2023-08-27T14:01:02.2521346+00:00",
-  "LastUpdate_Achievements": "2023-08-27T14:05:16.1241053+00:00"
+  "LastUpdate_Ratings": "2023-08-27T15:00:22.760334+00:00",
+  "LastUpdate_Achievements": "2023-08-27T15:04:47.8329605+00:00"
 }

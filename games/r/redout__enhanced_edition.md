@@ -6,28 +6,28 @@ Number of Ratings: 274  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| VANGUARD | 41.00% | ~94,538 |
-| NATURAL BORN WINNER | 33.00% | ~76,091 |
-| CALLING HOUSTON | 28.00% | ~64,562 |
-| SNEAKY SNEAKY | 22.00% | ~50,728 |
-| TRICK UP YOUR SLEEVE | 22.00% | ~50,728 |
-| GT9STRADALE | 20.00% | ~46,116 |
-| CHALLENGER | 11.00% | ~25,364 |
-| ON A ROLL | 9.00% | ~20,752 |
-| CENTAUR | 8.00% | ~18,446 |
-| FASTER THAN EVER | 8.00% | ~18,446 |
+| VANGUARD | 41.00% | ~94,541 |
+| NATURAL BORN WINNER | 33.00% | ~76,094 |
+| CALLING HOUSTON | 28.00% | ~64,564 |
+| SNEAKY SNEAKY | 22.00% | ~50,729 |
+| TRICK UP YOUR SLEEVE | 22.00% | ~50,729 |
+| GT9STRADALE | 20.00% | ~46,117 |
+| CHALLENGER | 11.00% | ~25,365 |
+| ON A ROLL | 9.00% | ~20,753 |
+| CENTAUR | 8.00% | ~18,447 |
+| FASTER THAN EVER | 8.00% | ~18,447 |
 | CHALLENGE THE WORLD | 7.00% | ~16,141 |
 | PHOTOFINISH | 7.00% | ~16,141 |
 | QAREEN | 5.00% | ~11,529 |
 | SHOWOFF | 4.00% | ~9,223 |
 | TAKATORA | 4.00% | ~9,223 |
-| GILA | 3.00% | ~6,917 |
+| GILA | 3.00% | ~6,918 |
 | PRO | 2.00% | ~4,612 |
 | RESPWND | 2.00% | ~4,612 |
 | SHINY SHINY GOLD | 2.00% | ~4,612 |
 | HARDCORE | 1.00% | ~2,306 |
 | ACE | 0.70% | ~1,614 |
-| TACTICIAN | 0.60% | ~1,383 |
+| TACTICIAN | 0.60% | ~1,384 |
 | GTX COMPETIZIONE | 0.50% | ~1,153 |
 | HIDDEN POWER | 0.50% | ~1,153 |
 | TUNING MANIAC | 0.50% | ~1,153 |
@@ -41,7 +41,7 @@ Number of Ratings: 274  (23.09.2022)
 | PILE UP TROPHIES | 0.20% | ~461 |
 | ENLIGHTENED | 0.10% | ~231 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,580 (Ranked 51)  
+Progressed: 230,587 (Ranked 51)  
 Completed: 46 (0.02%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 46 (0.02%) (Ranked 245)
 | 2023-08-24 | 230,356 | 46 |
 | 2023-08-25 | 230,434 | 46 |
 | 2023-08-26 | 230,527 | 46 |
-| 2023-08-27 | 230,580 | 46 |
+| 2023-08-27 | 230,587 | 46 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

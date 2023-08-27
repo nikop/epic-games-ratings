@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 340,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
     "PcReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 455,
+  "EOS_Progressed": 456,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -399,6 +399,11 @@
       "Time": "2023-08-24T17:07:49.3766992+00:00",
       "NumProgressed": 455,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-27T15:08:03.8637674+00:00",
+      "NumProgressed": 456,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -416,9 +421,9 @@
       "ID": "ACHIEVEMENT_02",
       "SetID": "631ndc2",
       "Name": "Perfect Illusion",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 109
+      "UsersEstimate": 105
     },
     {
       "ID": "ACHIEVEMENT_03",
@@ -560,9 +565,9 @@
       "ID": "ACHIEVEMENT_20",
       "SetID": "631ndc2",
       "Name": "Hundred Percent First",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 109
+      "UsersEstimate": 105
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -809,7 +814,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 455,
+      "Progressed": 456,
       "Completed": 1
     }
   ],
@@ -817,8 +822,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-08-27T14:07:46.0923158+00:00",
+  "LastChanged_Achievements": "2023-08-27T15:08:03.8637668+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:31.2972059+00:00",
-  "LastUpdate_Ratings": "2023-08-27T13:57:36.7732034+00:00",
-  "LastUpdate_Achievements": "2023-08-27T14:07:46.0923911+00:00"
+  "LastUpdate_Ratings": "2023-08-27T14:57:26.4291848+00:00",
+  "LastUpdate_Achievements": "2023-08-27T15:08:03.8638081+00:00"
 }

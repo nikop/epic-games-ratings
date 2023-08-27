@@ -12,8 +12,8 @@ Number of Ratings: 22  (23.09.2022)
 | Path of Learning | 40.00% | ~182 |
 | Built in a Day | 33.00% | ~150 |
 | More Brain Than Brawn | 29.00% | ~132 |
-| Perfect Illusion | 24.00% | ~109 |
-| Hundred Percent First | 24.00% | ~109 |
+| Perfect Illusion | 23.00% | ~105 |
+| Hundred Percent First | 23.00% | ~105 |
 | Dirty Dozen | 20.00% | ~91 |
 | Lion Tamer | 18.00% | ~82 |
 | Fan Service | 18.00% | ~82 |
@@ -57,7 +57,7 @@ Number of Ratings: 22  (23.09.2022)
 | Guest Stars | 0.40% | ~2 |
 | Versatile Tactics | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 455 (Ranked 238)  
+Progressed: 456 (Ranked 238)  
 Completed: 1 (0.22%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,6 +97,7 @@ Completed: 1 (0.22%) (Ranked 187)
 | 2023-07-29 | 453 | 1 |
 | 2023-08-13 | 454 | 1 |
 | 2023-08-24 | 455 | 1 |
+| 2023-08-27 | 456 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

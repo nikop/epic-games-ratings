@@ -22,9 +22,9 @@
 | Retail Revenue | 25.00% | ~83 |
 | Your Prestige is Rising | 24.00% | ~80 |
 | Don't Feel a Loan | 23.00% | ~77 |
+| People Mover | 22.00% | ~73 |
 | Lux Living | 21.00% | ~70 |
 | Artfully Done | 21.00% | ~70 |
-| People Mover | 21.00% | ~70 |
 | Emporium Empire | 21.00% | ~70 |
 | Leveled Up Shops | 20.00% | ~67 |
 | We Don't Need No Education | 20.00% | ~67 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 333 (Ranked 261)  
+Progressed: 333 (Ranked 262)  
 Completed: 0 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |

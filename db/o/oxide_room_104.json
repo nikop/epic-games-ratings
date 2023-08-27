@@ -4,8 +4,8 @@
   "ProductSlug": "oxide-room-104-4c1249",
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 267,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T22:00:00+00:00",
@@ -776,9 +776,9 @@
       "ID": "ACH_ANTIDOTE",
       "SetID": "511e31d",
       "Name": "Antidote",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 89
     },
     {
       "ID": "ACH_BANDAGES",
@@ -1015,8 +1015,8 @@
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2023-08-27T14:03:56.0203851+00:00",
+  "LastChanged_Achievements": "2023-08-27T15:03:30.5929732+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:23.1636916+00:00",
-  "LastUpdate_Ratings": "2023-08-27T14:00:17.0649864+00:00",
-  "LastUpdate_Achievements": "2023-08-27T14:03:56.0204342+00:00"
+  "LastUpdate_Ratings": "2023-08-27T14:59:44.7142398+00:00",
+  "LastUpdate_Achievements": "2023-08-27T15:03:30.5929953+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "stray-blade",
   "Ranking_EOS_Progress": 377,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 267,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -600,9 +600,9 @@
       "ID": "ACH_SKILLTREE_PROGRESSION_10",
       "SetID": "7i20me3",
       "Name": "Apprentice",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_SKILLTREE_PROGRESSION_100",
@@ -663,8 +663,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-08-27T14:08:05.1079809+00:00",
+  "LastChanged_Achievements": "2023-08-27T15:08:19.8803383+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:33.3784837+00:00",
-  "LastUpdate_Ratings": "2023-08-27T14:00:49.9786179+00:00",
-  "LastUpdate_Achievements": "2023-08-27T14:08:05.1080218+00:00"
+  "LastUpdate_Ratings": "2023-08-27T15:00:13.46213+00:00",
+  "LastUpdate_Achievements": "2023-08-27T15:08:19.8803691+00:00"
 }

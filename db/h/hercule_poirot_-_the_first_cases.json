@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 267,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
     "PcReleaseDate": "2021-09-27T00:00:00+00:00",
@@ -461,9 +461,9 @@
       "ID": "ACH_01",
       "SetID": "72imik0",
       "Name": "The Bracelet",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 50,
-      "UsersEstimate": 265
+      "UsersEstimate": 269
     },
     {
       "ID": "ACH_010",
@@ -541,9 +541,9 @@
       "ID": "ACH_019",
       "SetID": "72imik0",
       "Name": "Fine-toothed Comb",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 219
+      "UsersEstimate": 224
     },
     {
       "ID": "ACH_02",
@@ -685,9 +685,9 @@
       "ID": "ACH_035",
       "SetID": "72imik0",
       "Name": "Elizabeth Padget",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 290
     },
     {
       "ID": "ACH_036",
@@ -838,8 +838,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2023-07-07T15:57:52.1284059+00:00",
-  "LastChanged_Achievements": "2023-08-27T14:07:30.8510934+00:00",
+  "LastChanged_Achievements": "2023-08-27T15:06:41.2151528+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:27.9158124+00:00",
-  "LastUpdate_Ratings": "2023-08-27T14:00:45.2003143+00:00",
-  "LastUpdate_Achievements": "2023-08-27T14:07:30.8511592+00:00"
+  "LastUpdate_Ratings": "2023-08-27T15:00:08.7569487+00:00",
+  "LastUpdate_Achievements": "2023-08-27T15:06:41.2151847+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "2e92a78949e2474aa89271b8b893f3b0",
   "Name": "Alan Wake Remastered",
   "ProductSlug": "alan-wake-remastered",
-  "Ranking_Rating": 488,
+  "Ranking_Rating": 489,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 87,
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 61776,
+  "EOS_Progressed": 61778,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 595,
+  "EOS_NewPlayers": 593,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -12597,6 +12597,11 @@
       "Time": "2023-08-27T14:07:39.2668847+00:00",
       "NumProgressed": 61776,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-08-27T15:06:48.3504992+00:00",
+      "NumProgressed": 61778,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -12608,7 +12613,7 @@
       "Name": "Follow the Light",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 23475
+      "UsersEstimate": 23476
     },
     {
       "ID": "02",
@@ -12616,7 +12621,7 @@
       "Name": "Nordic Walking",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 14826
+      "UsersEstimate": 14827
     },
     {
       "ID": "03",
@@ -12624,7 +12629,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 14208
+      "UsersEstimate": 14209
     },
     {
       "ID": "04",
@@ -12640,7 +12645,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 12355
+      "UsersEstimate": 12356
     },
     {
       "ID": "06",
@@ -12792,7 +12797,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6795
+      "UsersEstimate": 6796
     },
     {
       "ID": "25",
@@ -12808,7 +12813,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6795
+      "UsersEstimate": 6796
     },
     {
       "ID": "27",
@@ -12840,7 +12845,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6795
+      "UsersEstimate": 6796
     },
     {
       "ID": "31",
@@ -12968,7 +12973,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 9266
+      "UsersEstimate": 9267
     },
     {
       "ID": "47",
@@ -13126,9 +13131,9 @@
       "ID": "66",
       "SetID": "6apfemg",
       "Name": "Creative Space",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 126
+      "UsersEstimate": 101
     },
     {
       "ID": "67",
@@ -13143,21 +13148,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 61776,
+      "Progressed": 61778,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 25244,
+      "Progressed": 25246,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-27T14:07:39.2668841+00:00",
+  "LastChanged_Achievements": "2023-08-27T15:06:48.3504987+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:21.2068954+00:00",
-  "LastUpdate_Ratings": "2023-08-27T14:00:38.9525596+00:00",
-  "LastUpdate_Achievements": "2023-08-27T14:07:39.2671703+00:00"
+  "LastUpdate_Ratings": "2023-08-27T15:00:03.2060484+00:00",
+  "LastUpdate_Achievements": "2023-08-27T15:06:48.3506066+00:00"
 }

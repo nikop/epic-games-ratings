@@ -12,8 +12,8 @@
 | Old movies enjoyer | 79.00% | ~214 |
 | Fitness professional | 77.00% | ~209 |
 | Depressed visitor | 76.00% | ~206 |
+| Employee of the week | 76.00% | ~206 |
 | Neurotrainer – power gainer! | 75.00% | ~203 |
-| Employee of the week | 75.00% | ~203 |
 | Your own amateur gym | 74.00% | ~201 |
 | First defeat | 74.00% | ~201 |
 | Run K, run! | 73.00% | ~198 |
@@ -24,14 +24,14 @@
 | Employee of the month | 65.00% | ~176 |
 | Spirit of the past | 63.00% | ~171 |
 | Law student | 62.00% | ~168 |
-| Workout professional | 60.00% | ~163 |
+| Workout professional | 61.00% | ~165 |
 | Champion – starter pack | 60.00% | ~163 |
 | It's good to be alive | 60.00% | ~163 |
 | Own four walls | 60.00% | ~163 |
 | Handyman | 59.00% | ~160 |
+| Employee of the year | 59.00% | ~160 |
 | Fight for life | 58.00% | ~157 |
 | Little hacker | 58.00% | ~157 |
-| Employee of the year | 58.00% | ~157 |
 | Intriguing candies | 57.00% | ~154 |
 | Legal courier | 55.00% | ~149 |
 | Extreme neuropower! | 54.00% | ~146 |
@@ -43,10 +43,10 @@
 | No blades in the gym | 45.00% | ~122 |
 | Champion – no way back | 41.00% | ~111 |
 | Responsible approach | 41.00% | ~111 |
+| Underground dwellers | 40.00% | ~108 |
 | Your own way | 40.00% | ~108 |
 | Deal with life | 39.00% | ~106 |
 | Poisoned fighter | 39.00% | ~106 |
-| Underground dwellers | 39.00% | ~106 |
 | Mom got better | 38.00% | ~103 |
 | GYM professional | 38.00% | ~103 |
 | Get out of my apartment! | 38.00% | ~103 |
