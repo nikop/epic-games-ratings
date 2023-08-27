@@ -5696,10 +5696,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27141,
       "NumberOfAwardsMax": 4716
+    },
+    {
+      "Time": "2023-08-27T01:43:51.838925+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27142,
+      "NumberOfAwardsMax": 4716
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27141,
+  "NumberOfAwards": 27142,
   "NumberOfAwardsMax": 4716,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5749,10 +5755,10 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3737
+      "Count": 3738
     }
   ],
-  "EOS_Progressed": 135194,
+  "EOS_Progressed": 135197,
   "EOS_Completed": 138,
   "EOS_NewPlayers": 401,
   "EOS_NewCompleters": 5,
@@ -18912,6 +18918,11 @@
       "Time": "2023-08-27T00:06:13.4265421+00:00",
       "NumProgressed": 135194,
       "NumCompleted": 138
+    },
+    {
+      "Time": "2023-08-27T01:49:33.973622+00:00",
+      "NumProgressed": 135197,
+      "NumCompleted": 138
     }
   ],
   "TotalAchievements": 112,
@@ -19818,15 +19829,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135194,
+      "Progressed": 135197,
       "Completed": 138
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-08-26T11:02:29.7530537+00:00",
-  "LastChanged_Achievements": "2023-08-27T00:06:13.4265415+00:00",
+  "LastChanged": "2023-08-27T01:43:51.8389248+00:00",
+  "LastChanged_Achievements": "2023-08-27T01:49:33.9736214+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:19.0477827+00:00",
-  "LastUpdate_Ratings": "2023-08-27T00:00:24.5886149+00:00",
-  "LastUpdate_Achievements": "2023-08-27T00:06:13.4267541+00:00"
+  "LastUpdate_Ratings": "2023-08-27T01:43:51.8389261+00:00",
+  "LastUpdate_Achievements": "2023-08-27T01:49:33.973854+00:00"
 }

@@ -25,9 +25,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tall Tales | 0.20% | ~383 |
 | The Witchlight Carnival | 0.20% | ~383 |
 | Thieves of the Coven | 0.20% | ~383 |
-| The Silken Swamp | 0.20% | ~450 |
-| Wet Feet | 0.20% | ~450 |
-| Supply Run | 0.20% | ~450 |
+| The Silken Swamp | 0.20% | ~451 |
+| Wet Feet | 0.20% | ~451 |
+| Supply Run | 0.20% | ~451 |
 | Seeds of Destruction | 0.20% | ~383 |
 | The Evacuation of Waterdeep | 0.20% | ~383 |
 | Best Thay Ever | 0.20% | ~383 |
@@ -38,66 +38,68 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dread Domain of Tovag | 0.20% | ~383 |
 | The Castle of a Thousand Vecnas | 0.20% | ~383 |
 | Who Lurks Below? | 0.20% | ~383 |
-| Beast Mode | 0.20% | ~450 |
-| Terror in the Dark | 0.20% | ~450 |
-| Low Initiative | 0.20% | ~450 |
-| A Mysterious Summons | 0.20% | ~450 |
-| Street War | 0.20% | ~450 |
-| Building Trust | 0.20% | ~450 |
-| March of the Undead | 0.20% | ~450 |
-| Wisdom Check | 0.20% | ~450 |
-| Sleuth It Out | 0.20% | ~450 |
-| Unearthed Evil | 0.20% | ~450 |
-| No Time To Rest | 0.20% | ~450 |
-| The Mists of Ravenloft | 0.20% | ~450 |
-| Invisible Shadows | 0.20% | ~450 |
-| Family Entanglements | 0.20% | ~450 |
-| The Dinner Party | 0.20% | ~450 |
-| The Botched Kidnapping | 0.20% | ~450 |
-| Tower on the Lake | 0.20% | ~450 |
-| Seeds of Deceit | 0.20% | ~450 |
-| Trollskull Manor | 0.20% | ~450 |
-| Attack on the Manor | 0.20% | ~450 |
-| The Crumbling Temple | 0.20% | ~450 |
-| The Death Curse | 0.20% | ~450 |
-| Flies on the Wall | 0.20% | ~450 |
-| Backtracking Through Barovia | 0.20% | ~450 |
-| Nimble Escape | 0.20% | ~450 |
-| Useless Allies | 0.20% | ~450 |
-| Fugitives | 0.20% | ~450 |
-| Excavating History | 0.20% | ~450 |
-| Premature Betrayal | 0.20% | ~450 |
-| Towering Expectations | 0.20% | ~450 |
-| Hopelessly Lost | 0.20% | ~450 |
-| Enter the Sargauth | 0.20% | ~450 |
-| Exploring Port Nyanzaru | 0.20% | ~450 |
-| A Tale of Two Cities | 0.20% | ~450 |
-| The Dead Three | 0.20% | ~450 |
-| Slow and Steady | 0.20% | ~450 |
-| Flying Monkey Skulls of Doom | 0.20% | ~450 |
-| Lair of the Xanathar | 0.20% | ~450 |
-| Waterdeep Under Siege | 0.20% | ~450 |
-| The Darkness Runs Deeper | 0.20% | ~450 |
-| Difficult Terrain | 0.20% | ~450 |
-| Running of the Saurs | 0.20% | ~450 |
-| The Contagious Curse | 0.20% | ~450 |
-| Resolve Amongst Chaos | 0.20% | ~450 |
+| Beast Mode | 0.20% | ~451 |
+| Terror in the Dark | 0.20% | ~451 |
+| Low Initiative | 0.20% | ~451 |
+| A Mysterious Summons | 0.20% | ~451 |
+| Street War | 0.20% | ~451 |
+| Building Trust | 0.20% | ~451 |
+| March of the Undead | 0.20% | ~451 |
+| Wisdom Check | 0.20% | ~451 |
+| Sleuth It Out | 0.20% | ~451 |
+| Unearthed Evil | 0.20% | ~451 |
+| No Time To Rest | 0.20% | ~451 |
+| The Mists of Ravenloft | 0.20% | ~451 |
+| Invisible Shadows | 0.20% | ~451 |
+| Family Entanglements | 0.20% | ~451 |
+| The Dinner Party | 0.20% | ~451 |
+| The Botched Kidnapping | 0.20% | ~451 |
+| Tower on the Lake | 0.20% | ~451 |
+| Seeds of Deceit | 0.20% | ~451 |
+| Trollskull Manor | 0.20% | ~451 |
+| Attack on the Manor | 0.20% | ~451 |
+| The Crumbling Temple | 0.20% | ~451 |
+| The Death Curse | 0.20% | ~451 |
+| Flies on the Wall | 0.20% | ~451 |
+| Backtracking Through Barovia | 0.20% | ~451 |
+| Nimble Escape | 0.20% | ~451 |
+| Useless Allies | 0.20% | ~451 |
+| Fugitives | 0.20% | ~451 |
+| Excavating History | 0.20% | ~451 |
+| Premature Betrayal | 0.20% | ~451 |
+| Towering Expectations | 0.20% | ~451 |
+| Hopelessly Lost | 0.20% | ~451 |
+| Enter the Sargauth | 0.20% | ~451 |
+| Exploring Port Nyanzaru | 0.20% | ~451 |
+| A Tale of Two Cities | 0.20% | ~451 |
+| The Dead Three | 0.20% | ~451 |
+| Slow and Steady | 0.20% | ~451 |
+| Flying Monkey Skulls of Doom | 0.20% | ~451 |
+| Lair of the Xanathar | 0.20% | ~451 |
+| Waterdeep Under Siege | 0.20% | ~451 |
+| The Darkness Runs Deeper | 0.20% | ~451 |
+| Difficult Terrain | 0.20% | ~451 |
+| Running of the Saurs | 0.20% | ~451 |
+| The Contagious Curse | 0.20% | ~451 |
+| Elturel Has Fallen | 0.20% | ~451 |
+| Resolve Amongst Chaos | 0.20% | ~451 |
 | Into The Fire | 0.20% | ~383 |
-| Escort to Waterdeep | 0.20% | ~450 |
+| Escort to Waterdeep | 0.20% | ~451 |
 | The Giant's Bane Tavern | 0.20% | ~383 |
 | The Everlasting Rime | 0.20% | ~383 |
-| Constant Banditry | 0.20% | ~450 |
-| Waterdeep Detours | 0.20% | ~450 |
-| Lost in the Deep | 0.20% | ~450 |
-| Easily Distracted | 0.20% | ~450 |
-| Underdeep Cartography | 0.20% | ~450 |
-| Overdue Rendezvous | 0.20% | ~450 |
+| Constant Banditry | 0.20% | ~451 |
+| Waterdeep Detours | 0.20% | ~451 |
+| Lost in the Deep | 0.20% | ~451 |
+| Easily Distracted | 0.20% | ~451 |
+| Underdeep Cartography | 0.20% | ~451 |
+| Overdue Rendezvous | 0.20% | ~451 |
 | Moose Tracks | 0.20% | ~383 |
 | Civilization | 0.20% | ~383 |
+| Durable Deep | 0.20% | ~451 |
 | Dwarven Rumors | 0.20% | ~383 |
-| Pure Energy | 0.20% | ~450 |
-| The Templar's Camp | 0.20% | ~450 |
-| Rescue in the Jungle | 0.20% | ~450 |
+| Pure Energy | 0.20% | ~451 |
+| The Templar's Camp | 0.20% | ~451 |
+| Rescue in the Jungle | 0.20% | ~451 |
 | Rocky Reception | 0.20% | ~383 |
 | Rock and Roll | 0.20% | ~383 |
 | Flight of the Kindori Pod | 0.20% | ~383 |
@@ -353,7 +355,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Nimble Grove | 0.10% | ~225 |
 | The Misty Grove | 0.10% | ~192 |
 | Dinosaur Racing | 0.10% | ~225 |
-| Elturel Has Fallen | 0.10% | ~225 |
 | Everything is Awful | 0.10% | ~225 |
 | Earthquake! | 0.10% | ~192 |
 | Hailstorm! | 0.10% | ~192 |
@@ -429,7 +430,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ten in Ten-Towns | 0.10% | ~192 |
 | Trench Coat Run | 0.10% | ~192 |
 | The Taunting Lord | 0.10% | ~192 |
-| Durable Deep | 0.10% | ~225 |
 | Lone Wolf Party | 0.10% | ~192 |
 | The Sibriex | 0.10% | ~192 |
 | The Archduke's Blessing | 0.10% | ~192 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~192 |
 | Animated Giff | 0.10% | ~192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,230 (Ranked 53)  
+Progressed: 225,257 (Ranked 53)  
 Completed: 2,219 (0.99%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -652,7 +652,7 @@ Completed: 2,219 (0.99%) (Ranked 120)
 | 2023-08-24 | 224,686 | 2,211 |
 | 2023-08-25 | 224,925 | 2,214 |
 | 2023-08-26 | 225,221 | 2,219 |
-| 2023-08-27 | 225,230 | 2,219 |
+| 2023-08-27 | 225,257 | 2,219 |
 ## Awards
 Max (Diverse Characters): 5,189  (Ranked 68)  
 Sum: 31,229 (Ranked 39)  

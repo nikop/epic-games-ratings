@@ -152,7 +152,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17539,
+  "EOS_Progressed": 17540,
   "EOS_Completed": 52,
   "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 1,
@@ -10757,6 +10757,11 @@
       "Time": "2023-08-27T00:03:32.5995072+00:00",
       "NumProgressed": 17539,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-08-27T01:46:45.5837954+00:00",
+      "NumProgressed": 17540,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 14,
@@ -10768,7 +10773,7 @@
       "Name": "Across The Border",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 13856
+      "UsersEstimate": 13857
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -10800,7 +10805,7 @@
       "Name": "Don\u0027t Bring Me Down",
       "Percentage": 19,
       "XP": 90,
-      "UsersEstimate": 3332
+      "UsersEstimate": 3333
     },
     {
       "ID": "ACH_EVEYONE_IS_BORN_TO_DIE",
@@ -10872,22 +10877,22 @@
       "Name": "Wild West Hero",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 2455
+      "UsersEstimate": 2456
     }
   ],
   "AchievementSets": [
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 17539,
+      "Progressed": 17540,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-08-16T03:57:34.8125865+00:00",
-  "LastChanged_Achievements": "2023-08-27T00:03:32.5995067+00:00",
+  "LastChanged_Achievements": "2023-08-27T01:46:45.5837947+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:59.8893769+00:00",
-  "LastUpdate_Ratings": "2023-08-26T23:58:30.5033282+00:00",
-  "LastUpdate_Achievements": "2023-08-27T00:03:32.5995819+00:00"
+  "LastUpdate_Ratings": "2023-08-27T01:41:42.1996131+00:00",
+  "LastUpdate_Achievements": "2023-08-27T01:46:45.5838664+00:00"
 }

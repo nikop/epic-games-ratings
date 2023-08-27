@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 128,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 509,
+  "EOS_Progressed": 510,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 206,
+  "EOS_NewPlayers": 202,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 0.79,
+  "EOS_Completed_Percentage": 0.78,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -1031,6 +1031,11 @@
       "Time": "2023-08-26T20:04:37.9779644+00:00",
       "NumProgressed": 509,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-27T01:47:32.7679915+00:00",
+      "NumProgressed": 510,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1131,7 +1136,7 @@
       "Name": "Privateer",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "_13_Completion_60",
@@ -1169,9 +1174,9 @@
       "ID": "_17_UpgradeFirstCharacter",
       "SetID": "8a1io5d",
       "Name": "With Great Power\u2026",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 193
+      "UsersEstimate": 189
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -1203,7 +1208,7 @@
       "Name": "Tobacco Travesty",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -1211,15 +1216,15 @@
       "Name": "Accursed Artifacts",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "_23_CrewTale_CNN",
       "SetID": "8a1io5d",
       "Name": "Lyrical Longing",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 26
     },
     {
       "ID": "_24_CrewTale_SNP",
@@ -1250,14 +1255,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 509,
+      "Progressed": 510,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-27T00:04:09.7101338+00:00",
+  "LastChanged_Achievements": "2023-08-27T01:47:32.767991+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:45.1302228+00:00",
-  "LastUpdate_Ratings": "2023-08-27T00:00:01.2821739+00:00",
-  "LastUpdate_Achievements": "2023-08-27T00:04:09.7101585+00:00"
+  "LastUpdate_Ratings": "2023-08-27T01:43:25.8148671+00:00",
+  "LastUpdate_Achievements": "2023-08-27T01:47:32.7680145+00:00"
 }

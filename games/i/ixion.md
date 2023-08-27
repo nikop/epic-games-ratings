@@ -13,9 +13,9 @@ Rating: 4.56 (Ranked 473)
 | A Thousand Strong | 15.00% | ~465 |
 | Ready for a New World | 15.00% | ~465 |
 | Permanent Redesigns | 13.00% | ~403 |
+| Fully Recycled | 12.00% | ~372 |
 | The Ship of Theseus | 12.00% | ~372 |
 | Guy de Borderlands | 11.00% | ~341 |
-| Fully Recycled | 11.00% | ~341 |
 | Ain't Nobody Got Time for That | 11.00% | ~341 |
 | Hope Seeker | 11.00% | ~341 |
 | Exceeding Capacity | 10.00% | ~310 |
@@ -23,9 +23,9 @@ Rating: 4.56 (Ranked 473)
 | Breaking Protocol | 9.00% | ~279 |
 | Man's Best Friend | 7.00% | ~217 |
 | Power Outage | 7.00% | ~217 |
+| Convenient Transport | 7.00% | ~217 |
 | Please Make it Stop! | 7.00% | ~217 |
 | Sightseeing | 6.00% | ~186 |
-| Convenient Transport | 6.00% | ~186 |
 | From the Past | 6.00% | ~186 |
 | Access Granted | 5.00% | ~155 |
 | Necessary Enhancement | 5.00% | ~155 |
@@ -53,10 +53,10 @@ Rating: 4.56 (Ranked 473)
 | Tiqqun Unchained | 1.00% | ~31 |
 | Scientifically Accurate | 1.00% | ~31 |
 | Work Harder | 0.50% | ~16 |
+| Drill-dozer | 0.30% | ~9 |
 | Crunch Culture | 0.30% | ~9 |
 | Soylent Green | 0.30% | ~9 |
 | A Junker's Dream | 0.20% | ~6 |
-| Drill-dozer | 0.20% | ~6 |
 | This is Fine | 0.10% | ~3 |
 | Suburban Perfection | 0.10% | ~3 |
 | Scenic View | 0.10% | ~3 |

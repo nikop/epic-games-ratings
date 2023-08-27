@@ -6,11 +6,11 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 24.00% | ~52,265 |
-| Alt+F4 | 3.00% | ~6,533 |
-| Déjà vu | 2.00% | ~4,355 |
-| Where's that freaking Dwarf? | 2.00% | ~4,355 |
-| Sock! SOCK! | 2.00% | ~4,355 |
+| Sowwy! | 24.00% | ~52,271 |
+| Alt+F4 | 3.00% | ~6,534 |
+| Déjà vu | 2.00% | ~4,356 |
+| Where's that freaking Dwarf? | 2.00% | ~4,356 |
+| Sock! SOCK! | 2.00% | ~4,356 |
 | Way of the Wimp | 1.00% | ~2,178 |
 | A beer, two curses, three companions | 1.00% | ~2,178 |
 | The plot thickens... At the tavern | 1.00% | ~2,178 |
@@ -25,25 +25,25 @@ Number of Ratings: 118  (23.09.2022)
 | The Woman in the High Castle | 0.80% | ~1,742 |
 | Team Building Exercise | 0.80% | ~1,742 |
 | Oh, when I'll be level 10... | 0.80% | ~1,742 |
-| Shiny and Crôm | 0.70% | ~1,524 |
-| Urik's Depths | 0.70% | ~1,524 |
-| The Dungeon Master | 0.70% | ~1,524 |
-| The Statuette of Gladeulfeurah | 0.70% | ~1,524 |
-| A tale of adventurers not quite like the others... | 0.70% | ~1,524 |
-| %#*!$*! | 0.70% | ~1,524 |
-| The Ranger of Chaos | 0.70% | ~1,524 |
-| I am the night | 0.70% | ~1,524 |
+| Shiny and Crôm | 0.70% | ~1,525 |
+| Urik's Depths | 0.70% | ~1,525 |
+| The Dungeon Master | 0.70% | ~1,525 |
+| The Statuette of Gladeulfeurah | 0.70% | ~1,525 |
+| A tale of adventurers not quite like the others... | 0.70% | ~1,525 |
+| %#*!$*! | 0.70% | ~1,525 |
+| The Ranger of Chaos | 0.70% | ~1,525 |
+| I am the night | 0.70% | ~1,525 |
+| The Famous Dungeon of Naheulbeuk | 0.60% | ~1,307 |
 | The beards of change | 0.60% | ~1,307 |
 | Thieves' Guild Accreditation | 0.60% | ~1,307 |
 | Res Judicata | 0.50% | ~1,089 |
-| The Famous Dungeon of Naheulbeuk | 0.50% | ~1,089 |
 | Dwarf Fortress | 0.50% | ~1,089 |
 | Look but don't touch | 0.50% | ~1,089 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.40% | ~871 |
 | Dead for good | 0.40% | ~871 |
+| Gargantua | 0.40% | ~871 |
 | Lust and Debauchery | 0.40% | ~871 |
 | Material Girl | 0.40% | ~871 |
-| Gargantua | 0.30% | ~653 |
 | In Navalu's footsteps | 0.30% | ~653 |
 | Lëgal Legend | 0.30% | ~653 |
 | Holistic Adventuring Party | 0.20% | ~436 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~218 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,769 (Ranked 56)  
+Progressed: 217,795 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 2 (0.00%) (Ranked 265)
 | 2023-08-24 | 216,781 | 2 |
 | 2023-08-25 | 217,227 | 2 |
 | 2023-08-26 | 217,758 | 2 |
-| 2023-08-27 | 217,769 | 2 |
+| 2023-08-27 | 217,795 | 2 |
 ## Awards
 Max (Character Customization): 180  (Ranked 282)  
 Sum: 224 (Ranked 361)  

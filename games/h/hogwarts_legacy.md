@@ -5,20 +5,20 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 13.00% | ~37,813 |
+| The Sort Who Makes an Entrance | 13.00% | ~37,814 |
 | First Class Student | 11.00% | ~31,996 |
 | Troll with the Punches | 11.00% | ~31,996 |
-| The Hallowed Hero | 10.00% | ~29,087 |
-| The Defender of Dragons | 10.00% | ~29,087 |
-| A Keen Sense of Spell | 10.00% | ~29,087 |
-| A Talent for Spending | 10.00% | ~29,087 |
-| That's a Keeper | 10.00% | ~29,087 |
-| Grappling with a Graphorn | 9.00% | ~26,178 |
-| The One Who Mastered Memories | 9.00% | ~26,178 |
-| The Hero of Hogwarts | 9.00% | ~26,178 |
-| Challenge Accepted | 9.00% | ~26,178 |
-| Loom for Improvement | 9.00% | ~26,178 |
-| Coasting Along | 9.00% | ~26,178 |
+| The Hallowed Hero | 10.00% | ~29,088 |
+| The Defender of Dragons | 10.00% | ~29,088 |
+| A Keen Sense of Spell | 10.00% | ~29,088 |
+| A Talent for Spending | 10.00% | ~29,088 |
+| That's a Keeper | 10.00% | ~29,088 |
+| Grappling with a Graphorn | 9.00% | ~26,179 |
+| The One Who Mastered Memories | 9.00% | ~26,179 |
+| The Hero of Hogwarts | 9.00% | ~26,179 |
+| Challenge Accepted | 9.00% | ~26,179 |
+| Loom for Improvement | 9.00% | ~26,179 |
+| Coasting Along | 9.00% | ~26,179 |
 | Followed the Butterflies | 8.00% | ~23,270 |
 | The Spell Master | 8.00% | ~23,270 |
 | Rising From the Ashes | 8.00% | ~23,270 |
@@ -38,11 +38,11 @@ Rating: 4.77 (Ranked 109)
 | The Ends Petrify the Means | 4.00% | ~11,635 |
 | Floo Around the World | 3.00% | ~8,726 |
 | The Wise Owl | 3.00% | ~8,726 |
-| The Good Samaritan | 2.00% | ~5,817 |
-| Put Down Roots | 2.00% | ~5,817 |
-| The Auror's Apprentice | 2.00% | ~5,817 |
-| Rise to the Challenges | 2.00% | ~5,817 |
-| Finishing Touches | 2.00% | ~5,817 |
+| The Good Samaritan | 2.00% | ~5,818 |
+| Put Down Roots | 2.00% | ~5,818 |
+| The Auror's Apprentice | 2.00% | ~5,818 |
+| Rise to the Challenges | 2.00% | ~5,818 |
+| Finishing Touches | 2.00% | ~5,818 |
 | Savvy Spender | 1.00% | ~2,909 |
 | Demiguise Dread | 1.00% | ~2,909 |
 | A Forte for Achievement | 1.00% | ~2,909 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,745 |
 | Collector's Edition | 0.30% | ~873 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,872 (Ranked 43)  
+Progressed: 290,876 (Ranked 43)  
 Completed: 455 (0.16%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 455 (0.16%) (Ranked 196)
 | 2023-08-24 | 290,736 | 454 |
 | 2023-08-25 | 290,790 | 455 |
 | 2023-08-26 | 290,865 | 455 |
-| 2023-08-27 | 290,872 | 455 |
+| 2023-08-27 | 290,876 | 455 |
 ## Awards
 Max (Character Customization): 21,948  (Ranked 17)  
 Sum: 41,589 (Ranked 30)  

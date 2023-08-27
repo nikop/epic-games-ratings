@@ -16,6 +16,7 @@ Rating: 3.50 (Ranked 978)
 | Fly Fisher | 0.20% | ~3 |
 | Sucks To Be You | 0.20% | ~3 |
 | Heart Attack | 0.20% | ~3 |
+| Skin of Their Teeth | 0.20% | ~3 |
 | Harvest’s End | 0.20% | ~3 |
 | Revelations | 0.10% | ~2 |
 | Contingency Plans | 0.10% | ~2 |
@@ -32,7 +33,6 @@ Rating: 3.50 (Ranked 978)
 | From the Shadows | 0.10% | ~2 |
 | Sisterhood | 0.10% | ~2 |
 | Check, Please! | 0.10% | ~2 |
-| Skin of Their Teeth | 0.10% | ~2 |
 | Bloody Initiate | 0.10% | ~2 |
 | Right This Way | 0.10% | ~2 |
 | Nice Try | 0.10% | ~2 |

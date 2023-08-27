@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewPlayers": 296,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -2538,9 +2538,9 @@
       "ID": "Achievement_045",
       "SetID": "6b34g18",
       "Name": "Skin of Their Teeth",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Achievement_046",
@@ -2739,8 +2739,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-08-08T16:59:16.4444629+00:00",
-  "LastChanged_Achievements": "2023-08-27T00:04:18.6052357+00:00",
+  "LastChanged_Achievements": "2023-08-27T01:47:41.8546069+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:29.8019925+00:00",
-  "LastUpdate_Ratings": "2023-08-26T23:59:48.9023742+00:00",
-  "LastUpdate_Achievements": "2023-08-27T00:04:18.6053238+00:00"
+  "LastUpdate_Ratings": "2023-08-27T01:43:11.5311284+00:00",
+  "LastUpdate_Achievements": "2023-08-27T01:47:41.8546914+00:00"
 }

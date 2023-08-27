@@ -5,12 +5,12 @@ Rating: 4.05 (Ranked 927)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,728 |
-| World Map | 79.00% | ~1,468 |
-| Temple of Eternals | 56.00% | ~1,040 |
+| Victor | 93.00% | ~1,729 |
+| World Map | 79.00% | ~1,469 |
+| Temple of Eternals | 56.00% | ~1,041 |
 | Prestigious | 53.00% | ~985 |
 | Fellowship Power | 41.00% | ~762 |
-| Guild Power | 25.00% | ~464 |
+| Guild Power | 25.00% | ~465 |
 | Prestigious x10 | 22.00% | ~409 |
 | The game is on | 20.00% | ~372 |
 | Exotic Merchant | 19.00% | ~353 |
@@ -50,11 +50,11 @@ Rating: 4.05 (Ranked 927)
 | Engineer Mastery | 7.00% | ~130 |
 | The Expeditioner | 7.00% | ~130 |
 | Weekly Quest Completionist | 7.00% | ~130 |
-| Ancient Knowledge | 6.00% | ~111 |
-| How Do You Turn This On? | 6.00% | ~111 |
-| Lock And Load | 6.00% | ~111 |
-| Missions Dedication | 6.00% | ~111 |
-| Sailor | 6.00% | ~111 |
+| Ancient Knowledge | 6.00% | ~112 |
+| How Do You Turn This On? | 6.00% | ~112 |
+| Lock And Load | 6.00% | ~112 |
+| Missions Dedication | 6.00% | ~112 |
+| Sailor | 6.00% | ~112 |
 | Active Member | 5.00% | ~93 |
 | Background Story | 5.00% | ~93 |
 | Legendary | 5.00% | ~93 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 927)
 | Silverwood liberator | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,858 (Ranked 174)  
+Progressed: 1,859 (Ranked 174)  
 Completed: 2 (0.11%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,6 +209,7 @@ Completed: 2 (0.11%) (Ranked 209)
 | 2023-08-24 | 1,845 | 2 |
 | 2023-08-25 | 1,850 | 2 |
 | 2023-08-26 | 1,858 | 2 |
+| 2023-08-27 | 1,859 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
 | Exam Time | 84.00% | ~285 |
 | 1st Grade | 40.00% | ~136 |
 | Smarter than a 5th Grader | 35.00% | ~119 |
-| Study Session | 31.00% | ~105 |
+| Study Session | 32.00% | ~108 |
 | Unlucky | 19.00% | ~64 |
 | Exam Practice | 12.00% | ~41 |
 | In The Honor Roll | 9.00% | ~31 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3585,
+  "EOS_Progressed": 3586,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1253,6 +1253,11 @@
       "Time": "2023-08-26T23:07:52.6355041+00:00",
       "NumProgressed": 3585,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-27T01:48:56.3824832+00:00",
+      "NumProgressed": 3586,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -1296,7 +1301,7 @@
       "Name": "Totally Intentional",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 1613
+      "UsersEstimate": 1614
     },
     {
       "ID": "FIND_FIRST_VAULTLANDER",
@@ -1304,7 +1309,7 @@
       "Name": "Each Sold Separately",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1326
+      "UsersEstimate": 1327
     },
     {
       "ID": "FINISH_EPISODE_1",
@@ -1320,7 +1325,7 @@
       "Name": "Shard Snatchers",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 860
+      "UsersEstimate": 861
     },
     {
       "ID": "FINISH_EPISODE_3",
@@ -1376,7 +1381,7 @@
       "Name": "We\u0027re In",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1147
+      "UsersEstimate": 1148
     },
     {
       "ID": "HOTWIRE_FIRST_OBJECT",
@@ -1384,7 +1389,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1792
+      "UsersEstimate": 1793
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -1464,14 +1469,14 @@
       "Name": "Mas, Por Favor",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     }
   ],
   "AchievementSets": [
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3585,
+      "Progressed": 3586,
       "Completed": 0
     }
   ],
@@ -1479,8 +1484,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-28T21:59:31.5873025+00:00",
-  "LastChanged_Achievements": "2023-08-27T00:05:35.4836658+00:00",
+  "LastChanged_Achievements": "2023-08-27T01:48:56.3824827+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:46.8757553+00:00",
-  "LastUpdate_Ratings": "2023-08-26T23:57:17.1968977+00:00",
-  "LastUpdate_Achievements": "2023-08-27T00:05:35.4836923+00:00"
+  "LastUpdate_Ratings": "2023-08-27T01:40:32.558252+00:00",
+  "LastUpdate_Achievements": "2023-08-27T01:48:56.3825098+00:00"
 }
