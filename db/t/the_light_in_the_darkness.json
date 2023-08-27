@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 33,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 31,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2256,
+  "EOS_Progressed": 2257,
   "EOS_Completed": 202,
   "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 4,
@@ -5318,6 +5318,11 @@
       "Time": "2023-08-27T10:05:06.0179587+00:00",
       "NumProgressed": 2256,
       "NumCompleted": 202
+    },
+    {
+      "Time": "2023-08-27T12:06:13.6577234+00:00",
+      "NumProgressed": 2257,
+      "NumCompleted": 202
     }
   ],
   "TotalAchievements": 12,
@@ -5329,7 +5334,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "Bernard",
@@ -5345,7 +5350,7 @@
       "Name": "Building the Fox",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "Green Ticket Roundup",
@@ -5393,7 +5398,7 @@
       "Name": "Little Helper",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -5424,7 +5429,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2256,
+      "Progressed": 2257,
       "Completed": 202
     }
   ],
@@ -5432,8 +5437,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-08-27T11:05:39.3351886+00:00",
+  "LastChanged_Achievements": "2023-08-27T12:06:13.6577229+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:56:57.0664875+00:00",
-  "LastUpdate_Ratings": "2023-08-27T10:57:06.8636632+00:00",
-  "LastUpdate_Achievements": "2023-08-27T11:05:39.3352331+00:00"
+  "LastUpdate_Ratings": "2023-08-27T11:57:19.7970491+00:00",
+  "LastUpdate_Achievements": "2023-08-27T12:06:13.6577732+00:00"
 }

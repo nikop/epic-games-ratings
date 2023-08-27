@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 62,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -2948,9 +2948,9 @@
       "ID": "ACH_CLIMBER",
       "SetID": "4kfb9pd",
       "Name": "Climber",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 671
+      "UsersEstimate": 699
     },
     {
       "ID": "ACH_DOG_LOVER",
@@ -3028,9 +3028,9 @@
       "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
       "SetID": "4kfb9pd",
       "Name": "Welcome to Raven Brooks",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 35,
-      "UsersEstimate": 2125
+      "UsersEstimate": 2153
     }
   ],
   "AchievementSets": [
@@ -3045,8 +3045,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-08-24T16:58:59.1002647+00:00",
-  "LastChanged_Achievements": "2023-08-27T11:03:06.9730478+00:00",
+  "LastChanged_Achievements": "2023-08-27T12:03:37.8449265+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:45.7252968+00:00",
-  "LastUpdate_Ratings": "2023-08-27T10:58:38.330276+00:00",
-  "LastUpdate_Achievements": "2023-08-27T11:03:06.9730825+00:00"
+  "LastUpdate_Ratings": "2023-08-27T11:58:52.3852405+00:00",
+  "LastUpdate_Achievements": "2023-08-27T12:03:37.844959+00:00"
 }

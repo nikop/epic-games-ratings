@@ -2534,7 +2534,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 68066,
+  "EOS_Progressed": 68067,
   "EOS_Completed": 109,
   "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 1,
@@ -13304,6 +13304,11 @@
       "Time": "2023-08-27T10:08:06.3682939+00:00",
       "NumProgressed": 68066,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2023-08-27T12:08:08.085679+00:00",
+      "NumProgressed": 68067,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 61,
@@ -13539,7 +13544,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 19058
+      "UsersEstimate": 19059
     },
     {
       "ID": "FREEZE_1_5",
@@ -13627,7 +13632,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 17016
+      "UsersEstimate": 17017
     },
     {
       "ID": "HARLEY_3",
@@ -13659,7 +13664,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 34033
+      "UsersEstimate": 34034
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -13707,7 +13712,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 23142
+      "UsersEstimate": 23143
     },
     {
       "ID": "MYSTERY_02",
@@ -13715,7 +13720,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 17016
+      "UsersEstimate": 17017
     },
     {
       "ID": "MYSTERY_03",
@@ -13802,13 +13807,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 68066,
+      "Progressed": 68067,
       "Completed": 109
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38346,
+      "Progressed": 38347,
       "Completed": 2660
     }
   ],
@@ -13816,8 +13821,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-08-26T18:58:23.9625274+00:00",
-  "LastChanged_Achievements": "2023-08-27T11:07:29.6531487+00:00",
+  "LastChanged_Achievements": "2023-08-27T12:08:08.0856784+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:22.0819335+00:00",
-  "LastUpdate_Ratings": "2023-08-27T10:58:08.5706065+00:00",
-  "LastUpdate_Achievements": "2023-08-27T11:07:29.6532792+00:00"
+  "LastUpdate_Ratings": "2023-08-27T11:58:22.0736242+00:00",
+  "LastUpdate_Achievements": "2023-08-27T12:08:08.0858166+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "classic-racing-manager-679706",
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-05-10T08:00:00+00:00",
@@ -829,9 +829,9 @@
       "ID": "ACHIEVEMENT_183",
       "SetID": "76k7b7p",
       "Name": "Monster Amateur car",
-      "Percentage": 0.3,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_184",
@@ -941,9 +941,9 @@
       "ID": "ACHIEVEMENT_198",
       "SetID": "76k7b7p",
       "Name": "Hero",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_199",
@@ -1101,9 +1101,9 @@
       "ID": "ACHIEVEMENT_222",
       "SetID": "76k7b7p",
       "Name": "Drama queen",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_223",
@@ -1357,9 +1357,9 @@
       "ID": "ACHIEVEMENT_3",
       "SetID": "76k7b7p",
       "Name": "First Amateur taste",
-      "Percentage": 0.3,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -1453,9 +1453,9 @@
       "ID": "ACHIEVEMENT_31",
       "SetID": "76k7b7p",
       "Name": "Hattrick",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_311",
@@ -2028,8 +2028,8 @@
   ],
   "FirstSeen": "2023-05-11T01:55:52.8280898+00:00",
   "FirstSeenAchievements": "2023-05-05T09:00:44.9178133+00:00",
-  "LastChanged_Achievements": "2023-08-27T11:04:05.9236165+00:00",
+  "LastChanged_Achievements": "2023-08-27T12:04:37.5982348+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:15.7945898+00:00",
-  "LastUpdate_Ratings": "2023-08-27T10:59:43.0272029+00:00",
-  "LastUpdate_Achievements": "2023-08-27T11:04:05.9239374+00:00"
+  "LastUpdate_Ratings": "2023-08-27T12:00:02.5528587+00:00",
+  "LastUpdate_Achievements": "2023-08-27T12:04:37.5985005+00:00"
 }

@@ -6136,9 +6136,9 @@
       "Count": 3377
     }
   ],
-  "EOS_Progressed": 225352,
+  "EOS_Progressed": 225366,
   "EOS_Completed": 2220,
-  "EOS_NewPlayers": 1806,
+  "EOS_NewPlayers": 1805,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -20261,6 +20261,11 @@
       "Time": "2023-08-27T11:07:25.8570611+00:00",
       "NumProgressed": 225352,
       "NumCompleted": 2220
+    },
+    {
+      "Time": "2023-08-27T12:08:04.526745+00:00",
+      "NumProgressed": 225366,
+      "NumCompleted": 2220
     }
   ],
   "TotalAchievements": 516,
@@ -20640,7 +20645,7 @@
       "Name": "Beast Intentions",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1577
+      "UsersEstimate": 1578
     },
     {
       "ID": "objective_completed_110",
@@ -21944,7 +21949,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1577
+      "UsersEstimate": 1578
     },
     {
       "ID": "objective_completed_34",
@@ -22694,9 +22699,9 @@
       "ID": "objective_completed_580",
       "SetID": "cc37lbc",
       "Name": "Vault of Dragons",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 451
     },
     {
       "ID": "objective_completed_581",
@@ -23422,9 +23427,9 @@
       "ID": "objective_completed_70",
       "SetID": "cc37lbc",
       "Name": "Close Escort",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 451
     },
     {
       "ID": "objective_completed_71",
@@ -24399,21 +24404,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 191626,
+      "Progressed": 191640,
       "Completed": 3313
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 225352,
+      "Progressed": 225366,
       "Completed": 2220
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-27T09:01:46.9917119+00:00",
-  "LastChanged_Achievements": "2023-08-27T11:07:25.8570607+00:00",
+  "LastChanged_Achievements": "2023-08-27T12:08:04.5267445+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:53.3345914+00:00",
-  "LastUpdate_Ratings": "2023-08-27T11:00:49.8764383+00:00",
-  "LastUpdate_Achievements": "2023-08-27T11:07:25.8598887+00:00"
+  "LastUpdate_Ratings": "2023-08-27T12:01:10.7487448+00:00",
+  "LastUpdate_Achievements": "2023-08-27T12:08:04.5292485+00:00"
 }

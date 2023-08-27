@@ -776,17 +776,17 @@
       "ID": "ACH_ANTIDOTE",
       "SetID": "511e31d",
       "Name": "Antidote",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 87
     },
     {
       "ID": "ACH_BANDAGES",
       "SetID": "511e31d",
       "Name": "First aid",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 102
     },
     {
       "ID": "ACH_BATHROOM",
@@ -1015,8 +1015,8 @@
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2023-08-27T11:03:17.0636477+00:00",
+  "LastChanged_Achievements": "2023-08-27T12:03:48.3461004+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:23.1636916+00:00",
-  "LastUpdate_Ratings": "2023-08-27T10:59:55.4012203+00:00",
-  "LastUpdate_Achievements": "2023-08-27T11:03:17.0636771+00:00"
+  "LastUpdate_Ratings": "2023-08-27T12:00:14.5831246+00:00",
+  "LastUpdate_Achievements": "2023-08-27T12:03:48.3461275+00:00"
 }

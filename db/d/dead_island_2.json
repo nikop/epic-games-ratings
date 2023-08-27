@@ -3996,9 +3996,9 @@
       "Count": 325
     }
   ],
-  "EOS_Progressed": 666626,
+  "EOS_Progressed": 666692,
   "EOS_Completed": 2079,
-  "EOS_NewPlayers": 5826,
+  "EOS_NewPlayers": 5841,
   "EOS_NewCompleters": 34,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -18306,6 +18306,11 @@
       "Time": "2023-08-27T11:03:32.6702294+00:00",
       "NumProgressed": 666626,
       "NumCompleted": 2079
+    },
+    {
+      "Time": "2023-08-27T12:04:04.0200461+00:00",
+      "NumProgressed": 666692,
+      "NumCompleted": 2079
     }
   ],
   "TotalAchievements": 45,
@@ -18395,9 +18400,9 @@
       "ID": "ach_defensive",
       "SetID": "7km39fm",
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 667
+      "UsersEstimate": 1333
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -18459,9 +18464,9 @@
       "ID": "ach_hazardous_materials",
       "SetID": "7km39fm",
       "Name": "Hazardous Materials",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1333
+      "UsersEstimate": 2000
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -18676,7 +18681,7 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 666626,
+      "Progressed": 666692,
       "Completed": 2079
     }
   ],
@@ -18684,8 +18689,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-08-27T09:02:05.6878664+00:00",
-  "LastChanged_Achievements": "2023-08-27T11:03:32.670229+00:00",
+  "LastChanged_Achievements": "2023-08-27T12:04:04.0200453+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:11.0440218+00:00",
-  "LastUpdate_Ratings": "2023-08-27T11:01:05.5031357+00:00",
-  "LastUpdate_Achievements": "2023-08-27T11:03:32.6703402+00:00"
+  "LastUpdate_Ratings": "2023-08-27T12:01:26.4005867+00:00",
+  "LastUpdate_Achievements": "2023-08-27T12:04:04.0202101+00:00"
 }

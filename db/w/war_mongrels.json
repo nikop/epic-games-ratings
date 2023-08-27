@@ -1652,9 +1652,9 @@
       "ID": "ACH_FIN_CH04",
       "SetID": "1j25agn",
       "Name": "Heroism",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 176
     },
     {
       "ID": "ACH_FIN_CH05",
@@ -1884,8 +1884,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-08-26T19:00:27.3574787+00:00",
-  "LastChanged_Achievements": "2023-08-27T11:02:30.6403007+00:00",
+  "LastChanged_Achievements": "2023-08-27T12:03:31.7329559+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:33.37016+00:00",
-  "LastUpdate_Ratings": "2023-08-27T11:00:05.7618583+00:00",
-  "LastUpdate_Achievements": "2023-08-27T11:02:30.6403738+00:00"
+  "LastUpdate_Ratings": "2023-08-27T12:00:25.0420285+00:00",
+  "LastUpdate_Achievements": "2023-08-27T12:03:31.7330081+00:00"
 }

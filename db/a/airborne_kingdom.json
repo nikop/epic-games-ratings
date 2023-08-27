@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7094,
+  "EOS_Progressed": 7095,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -3899,6 +3899,11 @@
       "Time": "2023-08-27T09:06:09.8162079+00:00",
       "NumProgressed": 7094,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-08-27T12:05:52.9774693+00:00",
+      "NumProgressed": 7095,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 27,
@@ -3918,7 +3923,7 @@
       "Name": "Daylight Found",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1844
+      "UsersEstimate": 1845
     },
     {
       "ID": "AK_FIELDS_WATERED",
@@ -4006,7 +4011,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 1986
+      "UsersEstimate": 1987
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -4125,15 +4130,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7094,
+      "Progressed": 7095,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-08-27T09:59:24.0528306+00:00",
-  "LastChanged_Achievements": "2023-08-27T11:05:18.287419+00:00",
+  "LastChanged_Achievements": "2023-08-27T12:05:52.9774683+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:32.8394394+00:00",
-  "LastUpdate_Ratings": "2023-08-27T11:00:06.7911548+00:00",
-  "LastUpdate_Achievements": "2023-08-27T11:05:18.2874583+00:00"
+  "LastUpdate_Ratings": "2023-08-27T12:00:25.874968+00:00",
+  "LastUpdate_Achievements": "2023-08-27T12:05:52.9775152+00:00"
 }

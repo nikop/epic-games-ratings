@@ -217,9 +217,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 35276,
+  "EOS_Progressed": 35281,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 743,
+  "EOS_NewPlayers": 741,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -14417,6 +14417,11 @@
       "Time": "2023-08-27T11:02:29.1705024+00:00",
       "NumProgressed": 35276,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-08-27T12:03:30.2532544+00:00",
+      "NumProgressed": 35281,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 29,
@@ -14428,7 +14433,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 5291
+      "UsersEstimate": 5292
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -14436,7 +14441,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 7055
+      "UsersEstimate": 7056
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -14476,7 +14481,7 @@
       "Name": "Backdoor Man",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "ACH_09_HIGHLANDS_NO_FLAME_KILLS",
@@ -14659,7 +14664,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 35276,
+      "Progressed": 35281,
       "Completed": 22
     }
   ],
@@ -14667,8 +14672,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-12T21:03:39.1122054+00:00",
-  "LastChanged_Achievements": "2023-08-27T11:02:29.1705015+00:00",
+  "LastChanged_Achievements": "2023-08-27T12:03:30.2532538+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:35.8741643+00:00",
-  "LastUpdate_Ratings": "2023-08-27T10:58:21.7184224+00:00",
-  "LastUpdate_Achievements": "2023-08-27T11:02:29.1706337+00:00"
+  "LastUpdate_Ratings": "2023-08-27T11:58:36.0131567+00:00",
+  "LastUpdate_Achievements": "2023-08-27T12:03:30.2537611+00:00"
 }

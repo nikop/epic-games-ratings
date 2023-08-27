@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 322,
+  "EOS_Progressed": 323,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -967,6 +967,11 @@
       "Time": "2023-08-26T01:41:24.9781165+00:00",
       "NumProgressed": 322,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-27T12:03:47.1257249+00:00",
+      "NumProgressed": 323,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -1122,7 +1127,7 @@
       "Name": "I like books",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "CULTURE_2",
@@ -1194,7 +1199,7 @@
       "Name": "The spiritual world...",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "FAITH_2",
@@ -1250,7 +1255,7 @@
       "Name": "I like my life",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "FELIZ_2",
@@ -1609,7 +1614,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 322,
+      "Progressed": 323,
       "Completed": 0
     }
   ],
@@ -1617,8 +1622,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-08-27T11:03:15.8194719+00:00",
+  "LastChanged_Achievements": "2023-08-27T12:03:47.1257244+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:10.9380219+00:00",
-  "LastUpdate_Ratings": "2023-08-27T10:57:00.8545187+00:00",
-  "LastUpdate_Achievements": "2023-08-27T11:03:15.8195704+00:00"
+  "LastUpdate_Ratings": "2023-08-27T11:57:13.7849591+00:00",
+  "LastUpdate_Achievements": "2023-08-27T12:03:47.1258065+00:00"
 }

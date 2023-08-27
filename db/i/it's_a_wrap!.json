@@ -2,9 +2,9 @@
   "ID": "810797d6d1c640068ce75d45b85d2423",
   "Name": "It\u0027s a Wrap!",
   "ProductSlug": "its-a-wrap-f392ae",
-  "Ranking_EOS_Progress": 408,
+  "Ranking_EOS_Progress": 407,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-08-23T17:30:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 28,
+  "EOS_Progressed": 30,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -131,6 +131,11 @@
       "Time": "2023-08-27T04:08:25.4639715+00:00",
       "NumProgressed": 28,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-27T12:07:32.0229105+00:00",
+      "NumProgressed": 30,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-23T18:07:41.5840272+00:00",
@@ -141,15 +146,15 @@
       "ID": "1_10_SECRET",
       "SetID": "2l1dk5b",
       "Name": "Under the Bridge",
-      "Percentage": 75,
+      "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "1_50_SECRET",
       "SetID": "2l1dk5b",
       "Name": "What\u0027s my line again?",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -173,7 +178,7 @@
       "ID": "1_90_SECRET",
       "SetID": "2l1dk5b",
       "Name": "Extra Life",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -197,7 +202,7 @@
       "ID": "3_20_SECRET",
       "SetID": "2l1dk5b",
       "Name": "Meet Your Makers",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -205,7 +210,7 @@
       "ID": "ALL_BUDGET_KILLER",
       "SetID": "2l1dk5b",
       "Name": "Budget Killer",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -213,7 +218,7 @@
       "ID": "ALL_FINISH",
       "SetID": "2l1dk5b",
       "Name": "In the Can",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -229,7 +234,7 @@
       "ID": "MOV1_FINISH",
       "SetID": "2l1dk5b",
       "Name": "Treasure Hunter",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 100,
       "UsersEstimate": 4
     },
@@ -254,14 +259,14 @@
     {
       "ID": "2l1dk5b",
       "IsBase": true,
-      "Progressed": 28,
+      "Progressed": 30,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-25T08:57:40.9970991+00:00",
   "FirstSeenAchievements": "2023-08-01T21:04:35.2343064+00:00",
-  "LastChanged_Achievements": "2023-08-27T11:06:54.534389+00:00",
+  "LastChanged_Achievements": "2023-08-27T12:07:32.02291+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:00.6888694+00:00",
-  "LastUpdate_Ratings": "2023-08-27T10:57:44.2600575+00:00",
-  "LastUpdate_Achievements": "2023-08-27T11:06:54.534405+00:00"
+  "LastUpdate_Ratings": "2023-08-27T11:57:56.4689899+00:00",
+  "LastUpdate_Achievements": "2023-08-27T12:07:32.0229247+00:00"
 }
