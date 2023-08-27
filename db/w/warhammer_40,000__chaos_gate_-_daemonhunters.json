@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -714,9 +714,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3166,
+  "EOS_Progressed": 3167,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3179,6 +3179,11 @@
       "Time": "2023-08-26T21:04:42.0433862+00:00",
       "NumProgressed": 3166,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-27T03:03:20.9264701+00:00",
+      "NumProgressed": 3167,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -3326,7 +3331,7 @@
       "Name": "Strike Force",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "HeavyExterminatusUse",
@@ -3374,7 +3379,7 @@
       "Name": "Corruption Cleanser",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "Kills_Executioner",
@@ -3550,7 +3555,7 @@
       "Name": "Just a Scratch",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "NexusCompleted",
@@ -3598,7 +3603,7 @@
       "Name": "Harvest No More",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ReaperDefeated_Necrosus",
@@ -3622,7 +3627,7 @@
       "Name": "Death Comes For All",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "SacristaCompleted",
@@ -3662,7 +3667,7 @@
       "Name": "Execution Force",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ExperiencedCallidus",
@@ -3733,21 +3738,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3166,
+      "Progressed": 3167,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3166,
+      "Progressed": 3167,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-08-23T16:01:12.805504+00:00",
-  "LastChanged_Achievements": "2023-08-27T02:19:26.1091813+00:00",
+  "LastChanged_Achievements": "2023-08-27T03:03:20.9264693+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:34.0520406+00:00",
-  "LastUpdate_Ratings": "2023-08-27T02:12:24.5900675+00:00",
-  "LastUpdate_Achievements": "2023-08-27T02:19:26.1092669+00:00"
+  "LastUpdate_Ratings": "2023-08-27T02:56:54.9313128+00:00",
+  "LastUpdate_Achievements": "2023-08-27T03:03:20.9266141+00:00"
 }

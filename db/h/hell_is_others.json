@@ -856,9 +856,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 255461,
+  "EOS_Progressed": 255463,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 348,
+  "EOS_NewPlayers": 346,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13981,6 +13981,11 @@
       "Time": "2023-08-27T01:47:11.6892576+00:00",
       "NumProgressed": 255461,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-27T03:03:52.3529491+00:00",
+      "NumProgressed": 255463,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -14000,7 +14005,7 @@
       "Name": "The Ascent",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10218
+      "UsersEstimate": 10219
     },
     {
       "ID": "Act3",
@@ -14040,7 +14045,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 79193
+      "UsersEstimate": 79194
     },
     {
       "ID": "BackHomeNTimes",
@@ -14056,7 +14061,7 @@
       "Name": "Pacifist",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10218
+      "UsersEstimate": 10219
     },
     {
       "ID": "BreakNWindows",
@@ -14064,7 +14069,7 @@
       "Name": "Vandalism",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10218
+      "UsersEstimate": 10219
     },
     {
       "ID": "BuyHighValueFurniture",
@@ -14280,7 +14285,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 56201
+      "UsersEstimate": 56202
     },
     {
       "ID": "KillOthers2",
@@ -14360,7 +14365,7 @@
       "Name": "Capitalist I",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10218
+      "UsersEstimate": 10219
     },
     {
       "ID": "Patrimony2",
@@ -14439,7 +14444,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 255461,
+      "Progressed": 255463,
       "Completed": 3
     }
   ],
@@ -14447,8 +14452,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-08-23T02:58:34.0640483+00:00",
-  "LastChanged_Achievements": "2023-08-27T02:20:19.4974847+00:00",
+  "LastChanged_Achievements": "2023-08-27T03:03:52.3529483+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:47.9726825+00:00",
-  "LastUpdate_Ratings": "2023-08-27T02:14:37.6823296+00:00",
-  "LastUpdate_Achievements": "2023-08-27T02:20:19.4976852+00:00"
+  "LastUpdate_Ratings": "2023-08-27T02:58:26.2027881+00:00",
+  "LastUpdate_Achievements": "2023-08-27T03:03:52.3531174+00:00"
 }

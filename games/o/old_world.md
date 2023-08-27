@@ -172,6 +172,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Free-For-All Game (>2 Players) | 0.20% | ~27 |
 | Play a MP Teams Game | 0.20% | ~27 |
 | Play a Play-By-Cloud Game | 0.20% | ~27 |
+| Punic Wars | 0.20% | ~27 |
 | Circus Maximus in Roma | 0.20% | ~27 |
 | Pantheon in Roma | 0.20% | ~27 |
 | Siege Tower | 0.20% | ~27 |
@@ -259,7 +260,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a 1-v-1 Game | 0.10% | ~14 |
 | Play a Hotseat Game | 0.10% | ~14 |
 | Play a LAN Game | 0.10% | ~14 |
-| Punic Wars | 0.10% | ~14 |
 | Roman Papacy | 0.10% | ~14 |
 | Word of God | 0.10% | ~14 |
 | Great Ziggurat in Ur | 0.10% | ~14 |

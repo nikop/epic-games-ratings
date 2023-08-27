@@ -2,7 +2,7 @@
   "ID": "95d0b9561be1464cb43bd029e94cf526",
   "Name": "Ghostrunner",
   "ProductSlug": "ghostrunner",
-  "Ranking_Rating": 171,
+  "Ranking_Rating": 172,
   "Ranking_Popularity": 200,
   "Ranking_PopularitySum": 283,
   "Ranking_EOS_Progress": 116,
@@ -1116,9 +1116,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15982,
+  "EOS_Progressed": 15983,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 655,
+  "EOS_NewPlayers": 653,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -14866,6 +14866,11 @@
       "Time": "2023-08-27T01:49:01.5669991+00:00",
       "NumProgressed": 15982,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-08-27T03:05:59.1176093+00:00",
+      "NumProgressed": 15983,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 45,
@@ -14941,7 +14946,7 @@
       "Name": "Finish line",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 4155
+      "UsersEstimate": 4156
     },
     {
       "ID": "GRProjectComplete",
@@ -14973,7 +14978,7 @@
       "Name": "I call it luck",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 7032
+      "UsersEstimate": 7033
     },
     {
       "ID": "ImproviseAdaptOverrun",
@@ -15013,7 +15018,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 12146
+      "UsersEstimate": 12147
     },
     {
       "ID": "MoreThanHuman",
@@ -15069,7 +15074,7 @@
       "Name": "Perfection",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 5114
+      "UsersEstimate": 5115
     },
     {
       "ID": "PreempativeStrike",
@@ -15101,7 +15106,7 @@
       "Name": "Running out of breath",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 8630
+      "UsersEstimate": 8631
     },
     {
       "ID": "RunningWild",
@@ -15197,7 +15202,7 @@
       "Name": "Wallrunner",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 8630
+      "UsersEstimate": 8631
     },
     {
       "ID": "WaveOfMutilation",
@@ -15236,21 +15241,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 15982,
+      "Progressed": 15983,
       "Completed": 37
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 15982,
+      "Progressed": 15983,
       "Completed": 61
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-08-26T23:02:05.1789503+00:00",
-  "LastChanged_Achievements": "2023-08-27T02:22:58.8126455+00:00",
+  "LastChanged_Achievements": "2023-08-27T03:05:59.1176087+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:52.7719292+00:00",
-  "LastUpdate_Ratings": "2023-08-27T02:17:16.1595054+00:00",
-  "LastUpdate_Achievements": "2023-08-27T02:22:58.8127694+00:00"
+  "LastUpdate_Ratings": "2023-08-27T03:00:27.8894481+00:00",
+  "LastUpdate_Achievements": "2023-08-27T03:05:59.1177848+00:00"
 }

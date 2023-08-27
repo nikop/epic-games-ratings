@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -502,9 +502,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3327,
+  "EOS_Progressed": 3328,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4192,6 +4192,11 @@
       "Time": "2023-08-26T14:06:35.7372233+00:00",
       "NumProgressed": 3327,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-27T03:05:25.2677071+00:00",
+      "NumProgressed": 3328,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 42,
@@ -4259,7 +4264,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "Eureka_23",
@@ -4387,7 +4392,7 @@
       "Name": "Ready for Summer",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1730
+      "UsersEstimate": 1731
     },
     {
       "ID": "ReadyforWinter_42",
@@ -4403,7 +4408,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 798
+      "UsersEstimate": 799
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -4475,7 +4480,7 @@
       "Name": "The Power of Freedom",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "TheStuffOfLegends",
@@ -4523,7 +4528,7 @@
       "Name": "Venture Outward",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2495
+      "UsersEstimate": 2496
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -4538,15 +4543,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3327,
+      "Progressed": 3328,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-08-16T21:59:07.0719809+00:00",
-  "LastChanged_Achievements": "2023-08-27T02:22:10.7269704+00:00",
+  "LastChanged_Achievements": "2023-08-27T03:05:25.2677067+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:42.66829+00:00",
-  "LastUpdate_Ratings": "2023-08-27T02:17:05.1650567+00:00",
-  "LastUpdate_Achievements": "2023-08-27T02:22:10.7270284+00:00"
+  "LastUpdate_Ratings": "2023-08-27T03:00:19.008788+00:00",
+  "LastUpdate_Achievements": "2023-08-27T03:05:25.2677997+00:00"
 }

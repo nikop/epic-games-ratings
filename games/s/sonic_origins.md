@@ -14,8 +14,8 @@ Number of Ratings: 154  (23.09.2022)
 | Ring Collector | 70.00% | ~300 |
 | Time Traveler | 69.00% | ~296 |
 | Everyone's Hero | 65.00% | ~279 |
+| Easy Peasy with Shields | 62.00% | ~266 |
 | Knuckles the Echidna | 62.00% | ~266 |
-| Easy Peasy with Shields | 61.00% | ~262 |
 | Gallant Spin Dash | 61.00% | ~262 |
 | Miles "Tails" Prower | 61.00% | ~262 |
 | Bubbly Breath | 59.00% | ~253 |
@@ -111,8 +111,8 @@ Completed: 40 (9.32%) (Ranked 31)
 | 2023-08-27 | 429 | 40 |
 ## Awards
 Max (Great Boss Battles): 125  (Ranked 313)  
-Sum: 125 (Ranked 405)  
-Diff (max vs sum): -92  
+Sum: 125 (Ranked 406)  
+Diff (max vs sum): -93  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 125 |

@@ -4,7 +4,7 @@
   "ProductSlug": "terra-invicta-5bbf09",
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewPlayers": 343,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-01-30T18:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:57:56.4154806+00:00",
   "LastChanged": "2023-03-31T05:57:56.4154807+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:33.7323993+00:00",
-  "LastUpdate_Ratings": "2023-08-27T02:16:25.4112094+00:00",
-  "LastUpdate_Achievements": "2023-08-27T02:24:05.3947906+00:00"
+  "LastUpdate_Ratings": "2023-08-27T02:59:50.5734865+00:00",
+  "LastUpdate_Achievements": "2023-08-27T03:07:05.5634778+00:00"
 }

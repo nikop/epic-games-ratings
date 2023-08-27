@@ -380,11 +380,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18759,
+  "EOS_Progressed": 18760,
   "EOS_Completed": 378,
-  "EOS_NewPlayers": 527,
+  "EOS_NewPlayers": 522,
   "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 2.02,
+  "EOS_Completed_Percentage": 2.01,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.7860479+00:00",
@@ -14085,6 +14085,11 @@
       "Time": "2023-08-27T02:23:28.1719814+00:00",
       "NumProgressed": 18759,
       "NumCompleted": 378
+    },
+    {
+      "Time": "2023-08-27T03:06:19.807086+00:00",
+      "NumProgressed": 18760,
+      "NumCompleted": 378
     }
   ],
   "TotalAchievements": 20,
@@ -14216,7 +14221,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 14257
+      "UsersEstimate": 14258
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -14255,15 +14260,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 18759,
+      "Progressed": 18760,
       "Completed": 378
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-08-12T01:39:46.4098224+00:00",
-  "LastChanged_Achievements": "2023-08-27T02:23:28.171981+00:00",
+  "LastChanged_Achievements": "2023-08-27T03:06:19.8070853+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:40.7243022+00:00",
-  "LastUpdate_Ratings": "2023-08-27T02:14:17.8701446+00:00",
-  "LastUpdate_Achievements": "2023-08-27T02:23:28.1720816+00:00"
+  "LastUpdate_Ratings": "2023-08-27T02:58:12.5805225+00:00",
+  "LastUpdate_Achievements": "2023-08-27T03:06:19.8072544+00:00"
 }

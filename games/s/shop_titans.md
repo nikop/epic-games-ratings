@@ -37,6 +37,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Research & Development | 0.40% | ~541 |
 | Vanity, Verily | 0.40% | ~541 |
 | Fated Encounters | 0.40% | ~541 |
+| Hidden Potential | 0.40% | ~541 |
 | Power of Love | 0.40% | ~541 |
 | Efficient Floor Space | 0.40% | ~541 |
 | Flawless Fusion | 0.40% | ~541 |
@@ -65,7 +66,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | This Power Level...! | 0.30% | ~406 |
 | Omae wa Mou Shindeiru | 0.30% | ~406 |
 | Master of Transmutation | 0.30% | ~406 |
-| Hidden Potential | 0.30% | ~406 |
 | Supercharged | 0.30% | ~406 |
 | Expansion in Session | 0.30% | ~406 |
 | Cranked up to 11 | 0.30% | ~406 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~135 |
 | Cash Only Please | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,199 (Ranked 67)  
+Progressed: 135,200 (Ranked 67)  
 Completed: 138 (0.10%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,7 +248,7 @@ Completed: 138 (0.10%) (Ranked 212)
 | 2023-08-24 | 135,040 | 138 |
 | 2023-08-25 | 135,108 | 138 |
 | 2023-08-26 | 135,191 | 138 |
-| 2023-08-27 | 135,199 | 138 |
+| 2023-08-27 | 135,200 | 138 |
 ## Awards
 Max (Great for Beginners): 4,716  (Ranked 71)  
 Sum: 27,147 (Ranked 47)  

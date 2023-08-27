@@ -23,9 +23,9 @@ Number of Ratings: 371  (23.09.2022)
 | Nemesis Master | 1.00% | ~32 |
 | Gunmaster | 1.00% | ~32 |
 | Hive Exterminator | 1.00% | ~32 |
-| Corruption Cleanser | 0.90% | ~28 |
-| Just a Scratch | 0.90% | ~28 |
-| Execution Force | 0.90% | ~28 |
+| Corruption Cleanser | 0.90% | ~29 |
+| Just a Scratch | 0.90% | ~29 |
+| Execution Force | 0.90% | ~29 |
 | Only in Death | 0.60% | ~19 |
 | Junk Banishment | 0.60% | ~19 |
 | A Gift Spurned | 0.60% | ~19 |
@@ -41,9 +41,9 @@ Number of Ratings: 371  (23.09.2022)
 | Patron of Deimos | 0.40% | ~13 |
 | For the Machine God | 0.40% | ~13 |
 | Engine Kill | 0.40% | ~13 |
-| Strike Force | 0.30% | ~9 |
-| Harvest No More | 0.30% | ~9 |
-| Death Comes For All | 0.30% | ~9 |
+| Strike Force | 0.30% | ~10 |
+| Harvest No More | 0.30% | ~10 |
+| Death Comes For All | 0.30% | ~10 |
 | Blood and Iron | 0.20% | ~6 |
 | Hands-On Research | 0.20% | ~6 |
 | Exercise in Restraint | 0.20% | ~6 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Mass Extinction | 0.00% | ~0 |
 | Not a Mote of Corruption | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,166 (Ranked 157)  
+Progressed: 3,167 (Ranked 157)  
 Completed: 0 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,6 +197,7 @@ Completed: 0 (0.00%) (Ranked 265)
 | 2023-08-24 | 3,162 | 0 |
 | 2023-08-25 | 3,163 | 0 |
 | 2023-08-26 | 3,166 | 0 |
+| 2023-08-27 | 3,167 | 0 |
 ## Awards
 Max (Character Customization): 220  (Ranked 264)  
 Sum: 473 (Ranked 305)  

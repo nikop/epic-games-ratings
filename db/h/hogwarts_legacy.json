@@ -6724,10 +6724,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 41589,
       "NumberOfAwardsMax": 21948
+    },
+    {
+      "Time": "2023-08-27T02:59:44.2320361+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 41591,
+      "NumberOfAwardsMax": 21948
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 41589,
+  "NumberOfAwards": 41591,
   "NumberOfAwardsMax": 21948,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6765,7 +6771,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 968
+      "Count": 970
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6804,7 +6810,7 @@
       "Count": 603
     }
   ],
-  "EOS_Progressed": 290877,
+  "EOS_Progressed": 290879,
   "EOS_Completed": 455,
   "EOS_NewPlayers": 428,
   "EOS_NewCompleters": 2,
@@ -20644,6 +20650,11 @@
       "Time": "2023-08-27T02:18:49.4868702+00:00",
       "NumProgressed": 290877,
       "NumCompleted": 455
+    },
+    {
+      "Time": "2023-08-27T03:02:32.6733984+00:00",
+      "NumProgressed": 290879,
+      "NumCompleted": 455
     }
   ],
   "TotalAchievements": 45,
@@ -20703,7 +20714,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20361
+      "UsersEstimate": 20362
     },
     {
       "ID": "PFA_16",
@@ -20719,7 +20730,7 @@
       "Name": "Beast Friends",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20361
+      "UsersEstimate": 20362
     },
     {
       "ID": "PFA_18",
@@ -20727,7 +20738,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20361
+      "UsersEstimate": 20362
     },
     {
       "ID": "PFA_19",
@@ -20735,7 +20746,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20361
+      "UsersEstimate": 20362
     },
     {
       "ID": "PFA_2",
@@ -20983,7 +20994,7 @@
       "Name": "First Class Student",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 31996
+      "UsersEstimate": 31997
     },
     {
       "ID": "PFA_7",
@@ -20991,7 +21002,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 31996
+      "UsersEstimate": 31997
     },
     {
       "ID": "PFA_8",
@@ -21014,16 +21025,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 290877,
+      "Progressed": 290879,
       "Completed": 455
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-08-26T22:00:32.3395462+00:00",
-  "LastChanged_Achievements": "2023-08-27T02:18:49.4868695+00:00",
+  "LastChanged": "2023-08-27T02:59:44.2320359+00:00",
+  "LastChanged_Achievements": "2023-08-27T03:02:32.6733975+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:27.4425386+00:00",
-  "LastUpdate_Ratings": "2023-08-27T02:16:18.5606284+00:00",
-  "LastUpdate_Achievements": "2023-08-27T02:18:49.487044+00:00"
+  "LastUpdate_Ratings": "2023-08-27T02:59:44.2320367+00:00",
+  "LastUpdate_Achievements": "2023-08-27T03:02:32.6735676+00:00"
 }

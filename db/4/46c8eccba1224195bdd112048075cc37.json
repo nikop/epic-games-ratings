@@ -4,7 +4,7 @@
   "ProductSlug": "one-more-dungeon-2-532228",
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewPlayers": 295,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-06-09T14:30:00+00:00",
@@ -799,9 +799,9 @@
       "ID": "TenLevel",
       "SetID": "7g1kpc8",
       "Name": "Experienced",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ThirdBoss",
@@ -822,8 +822,8 @@
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-08-27T02:24:04.0994022+00:00",
+  "LastChanged_Achievements": "2023-08-27T03:07:04.792769+00:00",
   "LastUpdate_AppInfo": "2023-08-21T10:58:06.4891422+00:00",
-  "LastUpdate_Ratings": "2023-08-27T02:15:57.0755603+00:00",
-  "LastUpdate_Achievements": "2023-08-27T02:24:04.0994258+00:00"
+  "LastUpdate_Ratings": "2023-08-27T02:59:24.7952955+00:00",
+  "LastUpdate_Achievements": "2023-08-27T03:07:04.7927915+00:00"
 }

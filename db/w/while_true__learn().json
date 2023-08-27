@@ -4,7 +4,7 @@
   "ProductSlug": "while-true-learn",
   "Ranking_Rating": 544,
   "Ranking_Popularity": 309,
-  "Ranking_PopularitySum": 403,
+  "Ranking_PopularitySum": 404,
   "Ranking_EOS_Progress": 28,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 59,
@@ -490,9 +490,9 @@
       "Count": 134
     }
   ],
-  "EOS_Progressed": 601772,
+  "EOS_Progressed": 601773,
   "EOS_Completed": 521,
-  "EOS_NewPlayers": 803,
+  "EOS_NewPlayers": 802,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -14620,6 +14620,11 @@
       "Time": "2023-08-27T02:23:35.6226529+00:00",
       "NumProgressed": 601772,
       "NumCompleted": 521
+    },
+    {
+      "Time": "2023-08-27T03:06:25.0407499+00:00",
+      "NumProgressed": 601773,
+      "NumCompleted": 521
     }
   ],
   "TotalAchievements": 28,
@@ -14695,7 +14700,7 @@
       "Name": "We need more gold",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 361063
+      "UsersEstimate": 361064
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -14751,7 +14756,7 @@
       "Name": "More FPS for the FPS god!",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 294868
+      "UsersEstimate": 294869
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -14759,7 +14764,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 559648
+      "UsersEstimate": 559649
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -14767,7 +14772,7 @@
       "Name": "Overmind",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 144425
+      "UsersEstimate": 144426
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -14807,7 +14812,7 @@
       "Name": "The dawn of civilization",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 318939
+      "UsersEstimate": 318940
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -14854,15 +14859,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 601772,
+      "Progressed": 601773,
       "Completed": 521
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-07-16T08:00:08.7749167+00:00",
-  "LastChanged_Achievements": "2023-08-27T02:23:35.6226524+00:00",
+  "LastChanged_Achievements": "2023-08-27T03:06:25.0407491+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:31.6656875+00:00",
-  "LastUpdate_Ratings": "2023-08-27T02:12:51.1390361+00:00",
-  "LastUpdate_Achievements": "2023-08-27T02:23:35.6227636+00:00"
+  "LastUpdate_Ratings": "2023-08-27T02:57:12.3164534+00:00",
+  "LastUpdate_Achievements": "2023-08-27T03:06:25.0409349+00:00"
 }

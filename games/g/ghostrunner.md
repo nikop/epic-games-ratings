@@ -1,28 +1,28 @@
 # Ghostrunner
 [Store](https://store.epicgames.com/en-US/p/ghostrunner)  
 [View Rawdata](../../db/g/ghostrunner.json)  
-Rating: 4.72 (Ranked 171)  
+Rating: 4.72 (Ranked 172)  
 Number of Ratings: 1,047  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~12,146 |
+| Longrunner | 76.00% | ~12,147 |
 | Sword Runner | 62.00% | ~9,909 |
-| Running out of breath | 54.00% | ~8,630 |
-| Wallrunner | 54.00% | ~8,630 |
+| Running out of breath | 54.00% | ~8,631 |
+| Wallrunner | 54.00% | ~8,631 |
 | Homerunner | 45.00% | ~7,192 |
 | Out of order | 45.00% | ~7,192 |
-| I call it luck | 44.00% | ~7,032 |
+| I call it luck | 44.00% | ~7,033 |
 | Where are my Keys? | 41.00% | ~6,553 |
 | Back to hell | 36.00% | ~5,754 |
-| Perfection | 32.00% | ~5,114 |
+| Perfection | 32.00% | ~5,115 |
 | Why not both | 30.00% | ~4,795 |
 | Sword to a gunfight | 29.00% | ~4,635 |
 | Upgrades not mandatory | 29.00% | ~4,635 |
 | Artificial selection | 28.00% | ~4,475 |
 | Control freak | 27.00% | ~4,315 |
 | Running Wild | 27.00% | ~4,315 |
-| Finish line | 26.00% | ~4,155 |
+| Finish line | 26.00% | ~4,156 |
 | Unstoppable force | 22.00% | ~3,516 |
 | Wave of mutilation | 22.00% | ~3,516 |
 | Can't Run Can't Hide | 17.00% | ~2,717 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~64 |
 | Up Close And Personal | 0.40% | ~64 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,982 (Ranked 116)  
+Progressed: 15,983 (Ranked 116)  
 Completed: 61 (0.38%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 61 (0.38%) (Ranked 160)
 | 2023-08-24 | 15,740 | 59 |
 | 2023-08-25 | 15,852 | 60 |
 | 2023-08-26 | 15,971 | 61 |
-| 2023-08-27 | 15,982 | 61 |
+| 2023-08-27 | 15,983 | 61 |
 ## Awards
 Max (Great Boss Battles): 483  (Ranked 200)  
 Sum: 674 (Ranked 283)  
