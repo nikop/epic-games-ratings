@@ -6,9 +6,9 @@
   "Ranking_Popularity": 247,
   "Ranking_PopularitySum": 337,
   "Ranking_EOS_Progress": 122,
-  "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_Completed": 169,
+  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -766,9 +766,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12062,
+  "EOS_Progressed": 12063,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -9441,6 +9441,11 @@
       "Time": "2023-08-27T18:04:41.1929284+00:00",
       "NumProgressed": 12062,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-08-27T20:04:28.9065936+00:00",
+      "NumProgressed": 12063,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 35,
@@ -9452,7 +9457,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9770
+      "UsersEstimate": 9771
     },
     {
       "ID": "ACH02",
@@ -9644,7 +9649,7 @@
       "Name": "What are the Odds",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "ACH26",
@@ -9731,7 +9736,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12062,
+      "Progressed": 12063,
       "Completed": 41
     }
   ],
@@ -9739,8 +9744,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-08-27T04:58:54.9178969+00:00",
-  "LastChanged_Achievements": "2023-08-27T19:04:52.4134002+00:00",
+  "LastChanged_Achievements": "2023-08-27T20:04:28.9065929+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:49.3440273+00:00",
-  "LastUpdate_Ratings": "2023-08-27T18:58:51.2311049+00:00",
-  "LastUpdate_Achievements": "2023-08-27T19:04:52.4134651+00:00"
+  "LastUpdate_Ratings": "2023-08-27T19:58:39.4274216+00:00",
+  "LastUpdate_Achievements": "2023-08-27T20:04:28.9066532+00:00"
 }

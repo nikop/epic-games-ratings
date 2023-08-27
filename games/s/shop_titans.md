@@ -35,6 +35,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Did we pack lunch? | 0.50% | ~676 |
 | Arcane Industries | 0.50% | ~676 |
 | On the Path to Greatness | 0.40% | ~541 |
+| Tax not Included | 0.40% | ~541 |
 | Research & Development | 0.40% | ~541 |
 | Vanity, Verily | 0.40% | ~541 |
 | Fated Encounters | 0.40% | ~541 |
@@ -55,7 +56,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Above the Norm | 0.30% | ~406 |
 | Constellated | 0.30% | ~406 |
 | A Ronin Reborn | 0.30% | ~406 |
-| Tax not Included | 0.30% | ~406 |
 | The King's Caprice | 0.30% | ~406 |
 | Thirst for Knowledge | 0.30% | ~406 |
 | Big Game Hunting | 0.30% | ~406 |
@@ -72,6 +72,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Expansion in Session | 0.30% | ~406 |
 | Cranked up to 11 | 0.30% | ~406 |
 | Fit for a King | 0.30% | ~406 |
+| By Your Powers Combined... | 0.30% | ~406 |
 | Trash to Treasure | 0.30% | ~406 |
 | Mammonite | 0.30% | ~406 |
 | Wealth Beyond Measure | 0.30% | ~406 |
@@ -97,7 +98,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fillin' the Bin | 0.20% | ~270 |
 | Thank You Tom Nook | 0.20% | ~270 |
 | Ritualist | 0.20% | ~270 |
-| By Your Powers Combined... | 0.20% | ~270 |
 | A Legend is Born | 0.20% | ~270 |
 | Jackpot! | 0.20% | ~270 |
 | Eternal Crusade | 0.20% | ~270 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~135 |
 | Cash Only Please | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,243 (Ranked 67)  
+Progressed: 135,246 (Ranked 67)  
 Completed: 138 (0.10%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,14 +248,14 @@ Completed: 138 (0.10%) (Ranked 213)
 | 2023-08-24 | 135,040 | 138 |
 | 2023-08-25 | 135,108 | 138 |
 | 2023-08-26 | 135,191 | 138 |
-| 2023-08-27 | 135,243 | 138 |
+| 2023-08-27 | 135,246 | 138 |
 ## Awards
-Max (Great for Beginners): 4,716  (Ranked 71)  
-Sum: 27,147 (Ranked 47)  
+Max (Great for Beginners): 4,717  (Ranked 71)  
+Sum: 27,148 (Ranked 47)  
 Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,716 |
+| This game is Great for Beginners | 4,717 |
 | This game is Relaxing | 4,002 |
 | This game has Quickly Understood Controls | 3,989 |
 | This game has Diverse Characters | 3,861 |
@@ -479,4 +479,4 @@ Diff (max vs sum): 24
 | 2023-08-22 | 3.99 | - | 4,709 | 27,128 |
 | 2023-08-24 | 3.99 | - | 4,712 | 27,135 |
 | 2023-08-26 | 3.99 | - | 4,716 | 27,141 |
-| 2023-08-27 | 3.99 | - | 4,716 | 27,147 |
+| 2023-08-27 | 3.99 | - | 4,717 | 27,148 |

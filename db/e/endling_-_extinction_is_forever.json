@@ -4,7 +4,7 @@
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 485,
+  "EOS_Progressed": 486,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -631,6 +631,11 @@
       "Time": "2023-08-23T00:05:32.067454+00:00",
       "NumProgressed": 485,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-27T20:06:05.2351051+00:00",
+      "NumProgressed": 486,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -682,7 +687,7 @@
       "Name": "A Friend in Need",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "TROP006",
@@ -706,7 +711,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "TROP009",
@@ -722,7 +727,7 @@
       "Name": "Hard Fox Life",
       "Percentage": 24,
       "XP": 60,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "TROP011",
@@ -738,7 +743,7 @@
       "Name": "Never Give Up",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "TROP013",
@@ -810,7 +815,7 @@
       "Name": "Tasty",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "TROP022",
@@ -850,7 +855,7 @@
       "Name": "Lullaby",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "TROP027",
@@ -865,7 +870,7 @@
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 485,
+      "Progressed": 486,
       "Completed": 3
     }
   ],
@@ -873,8 +878,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-08-27T19:06:46.9711792+00:00",
+  "LastChanged_Achievements": "2023-08-27T20:06:05.2351046+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:08.6891439+00:00",
-  "LastUpdate_Ratings": "2023-08-27T18:57:07.5507332+00:00",
-  "LastUpdate_Achievements": "2023-08-27T19:06:46.9711981+00:00"
+  "LastUpdate_Ratings": "2023-08-27T19:57:14.9148353+00:00",
+  "LastUpdate_Achievements": "2023-08-27T20:06:05.2351231+00:00"
 }

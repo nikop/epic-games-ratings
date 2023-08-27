@@ -26,6 +26,7 @@ Number of Ratings: 371  (23.09.2022)
 | Execution Force | 1.00% | ~32 |
 | Hive Exterminator | 1.00% | ~32 |
 | Corruption Cleanser | 0.90% | ~29 |
+| Efficient Killer | 0.60% | ~19 |
 | Only in Death | 0.60% | ~19 |
 | Junk Banishment | 0.60% | ~19 |
 | A Gift Spurned | 0.60% | ~19 |
@@ -34,7 +35,6 @@ Number of Ratings: 371  (23.09.2022)
 | Daemonkeeper | 0.50% | ~16 |
 | Exterminator | 0.50% | ~16 |
 | Mind Like a Fortress | 0.50% | ~16 |
-| Efficient Killer | 0.50% | ~16 |
 | Preservationist | 0.50% | ~16 |
 | Long Distance Call | 0.50% | ~16 |
 | Tactical Sabotage | 0.50% | ~16 |

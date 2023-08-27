@@ -37,22 +37,22 @@
 | Catch the bus with me! | 34.00% | ~32 |
 | Karaoke king | 34.00% | ~32 |
 | I'm going to get a concussion | 33.00% | ~31 |
+| Meatballs, coming up! | 30.00% | ~28 |
 | Another one bites the iron | 30.00% | ~28 |
-| Meatballs, coming up! | 29.00% | ~27 |
 | A Megapint...? | 28.00% | ~26 |
 | Ripe Meat Off The Bone! | 26.00% | ~24 |
-| Hovering around | 24.00% | ~23 |
-| Kleptomaniac | 24.00% | ~23 |
+| Hovering around | 26.00% | ~24 |
+| Kleptomaniac | 26.00% | ~24 |
 | You're not so Big anymore, Boi! | 22.00% | ~21 |
 | Your daily dose of Vitamin C. | 22.00% | ~21 |
 | I cant stand still! | 22.00% | ~21 |
 | Master Butcher | 19.00% | ~18 |
-| Slimy... yet satisfying | 18.00% | ~17 |
+| Slimy... yet satisfying | 19.00% | ~18 |
+| Deal with it | 17.00% | ~16 |
 | Just wing it! | 16.00% | ~15 |
-| Deal with it | 16.00% | ~15 |
 | Yeehaw!!! | 15.00% | ~14 |
+| Ancient Ruins of Dirty Feet | 14.00% | ~13 |
 | You're looking mozzare-hella good! | 13.00% | ~12 |
-| Ancient Ruins of Dirty Feet | 13.00% | ~12 |
 | Timber! | 12.00% | ~11 |
 | Free Of Chains | 12.00% | ~11 |
 | Grumpy Immortal | 11.00% | ~10 |
@@ -60,13 +60,13 @@
 | Scrambled Eggs | 10.00% | ~9 |
 | Spoiler alert! | 9.00% | ~8 |
 | I drink, but I'm not a drunk! | 9.00% | ~8 |
+| I want to throw up! | 7.00% | ~7 |
 | My name is Whoopass, SIR Whoopass! | 7.00% | ~7 |
-| I want to throw up! | 6.00% | ~6 |
 | Ancient Ruins of Misplaced Belongings | 5.00% | ~5 |
 | Ancient Ruins of Poor Intrusion Prevention | 5.00% | ~5 |
+| Ancient Ruins of Stubbed Toes | 5.00% | ~5 |
 | Ancient Ruins of Imperfectly Designed Walls | 4.00% | ~4 |
 | Ancient Ruins of Inadequate Opportunities | 4.00% | ~4 |
-| Ancient Ruins of Stubbed Toes | 4.00% | ~4 |
 | Ancient Ruins of Leaky Roof | 4.00% | ~4 |
 | Fifty Shades of Gruyere | 3.00% | ~3 |
 | Ancient Ruins of Empty Echoes | 3.00% | ~3 |

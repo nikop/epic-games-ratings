@@ -1,17 +1,17 @@
 # Sherlock Holmes The Awakened
 [Store](https://store.epicgames.com/en-US/p/sherlock-holmes-the-awakened)  
 [View Rawdata](../../db/s/sherlock_holmes_the_awakened.json)  
-Rating: 4.68 (Ranked 239)  
+Rating: 4.68 (Ranked 238)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| To Hell In A Handcart | 66.00% | ~404 |
-| Read Between The Lines | 65.00% | ~398 |
-| High Profile | 59.00% | ~361 |
-| Whispers In The Dark | 58.00% | ~355 |
+| To Hell In A Handcart | 66.00% | ~405 |
+| Read Between The Lines | 64.00% | ~392 |
+| High Profile | 59.00% | ~362 |
+| Whispers In The Dark | 58.00% | ~356 |
 | Fond Memories | 55.00% | ~337 |
-| History Check | 54.00% | ~330 |
-| A Method To His Madness | 54.00% | ~330 |
+| History Check | 54.00% | ~331 |
+| A Method To His Madness | 54.00% | ~331 |
 | The New World | 50.00% | ~306 |
 | Open Sesame | 50.00% | ~306 |
 | Sticky Fingers | 50.00% | ~306 |
@@ -20,21 +20,21 @@ Rating: 4.68 (Ranked 239)
 | Land, Ho! | 49.00% | ~300 |
 | Lock, Stock, And Barrel | 48.00% | ~294 |
 | Back In The Saddle | 48.00% | ~294 |
-| No Man Is An Island | 48.00% | ~294 |
+| No Man Is An Island | 47.00% | ~288 |
 | At Wits' End | 47.00% | ~288 |
-| Up In Flames | 45.00% | ~275 |
-| Fhtagn! | 45.00% | ~275 |
-| Bookworm | 44.00% | ~269 |
-| Going Once... | 41.00% | ~251 |
+| Up In Flames | 45.00% | ~276 |
+| Fhtagn! | 45.00% | ~276 |
+| Bookworm | 44.00% | ~270 |
+| Going Once... | 40.00% | ~245 |
 | Let Me Be Frank | 39.00% | ~239 |
 | Brain Food | 38.00% | ~233 |
-| No Stone Unturned | 37.00% | ~226 |
+| No Stone Unturned | 37.00% | ~227 |
 | Read It And Weep | 23.00% | ~141 |
 | Curiosity Killed The Cat | 21.00% | ~129 |
 | Big Breakthrough | 14.00% | ~86 |
 | Reawakened | 5.00% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 612 (Ranked 221)  
+Progressed: 613 (Ranked 221)  
 Completed: 25 (4.08%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 25 (4.08%) (Ranked 61)
 | 2023-08-23 | 608 | 25 |
 | 2023-08-25 | 610 | 25 |
 | 2023-08-26 | 611 | 25 |
-| 2023-08-27 | 612 | 25 |
+| 2023-08-27 | 613 | 25 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

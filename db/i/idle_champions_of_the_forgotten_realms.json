@@ -6,7 +6,7 @@
   "Ranking_Popularity": 68,
   "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 53,
-  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Completed": 122,
   "Ranking_EOS_NewPlayers": 40,
   "Ranking_EOS_NewCompleters": 9,
   "Store": {
@@ -6142,11 +6142,11 @@
       "Count": 3377
     }
   ],
-  "EOS_Progressed": 225480,
+  "EOS_Progressed": 225495,
   "EOS_Completed": 2221,
   "EOS_NewPlayers": 1809,
   "EOS_NewCompleters": 27,
-  "EOS_Completed_Percentage": 0.99,
+  "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:41.9871817+00:00",
@@ -20307,6 +20307,11 @@
       "Time": "2023-08-27T19:08:09.9000367+00:00",
       "NumProgressed": 225480,
       "NumCompleted": 2221
+    },
+    {
+      "Time": "2023-08-27T20:08:08.3756742+00:00",
+      "NumProgressed": 225495,
+      "NumCompleted": 2221
     }
   ],
   "TotalAchievements": 516,
@@ -21236,9 +21241,9 @@
       "ID": "objective_completed_1218",
       "SetID": "415jc5c",
       "Name": "Xanathaaaaaaar!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 384
     },
     {
       "ID": "objective_completed_1219",
@@ -21404,9 +21409,9 @@
       "ID": "objective_completed_1350",
       "SetID": "415jc5c",
       "Name": "Welcome to the Rock",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 384
     },
     {
       "ID": "objective_completed_1351",
@@ -24445,21 +24450,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 191754,
-      "Completed": 3314
+      "Progressed": 191769,
+      "Completed": 3315
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 225480,
+      "Progressed": 225495,
       "Completed": 2221
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-27T14:01:09.3672113+00:00",
-  "LastChanged_Achievements": "2023-08-27T19:08:09.9000362+00:00",
+  "LastChanged_Achievements": "2023-08-27T20:08:08.3756738+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:53.3345914+00:00",
-  "LastUpdate_Ratings": "2023-08-27T19:01:01.4590005+00:00",
-  "LastUpdate_Achievements": "2023-08-27T19:08:09.902416+00:00"
+  "LastUpdate_Ratings": "2023-08-27T20:00:24.0248192+00:00",
+  "LastUpdate_Achievements": "2023-08-27T20:08:08.3781256+00:00"
 }

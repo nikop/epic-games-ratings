@@ -938,9 +938,9 @@
       "ID": "ACH_ACT6",
       "SetID": "2310cb1",
       "Name": "48 Attempts",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 92
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH_ACT7",
@@ -986,9 +986,9 @@
       "ID": "ACH_CHAINREACTION",
       "SetID": "2310cb1",
       "Name": "Chain Reaction",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 94
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_DATARESEARCH",
@@ -1067,8 +1067,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-08-27T19:04:36.7656296+00:00",
+  "LastChanged_Achievements": "2023-08-27T20:04:15.7519523+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:31.2998477+00:00",
-  "LastUpdate_Ratings": "2023-08-27T19:00:14.6439435+00:00",
-  "LastUpdate_Achievements": "2023-08-27T19:04:36.7656473+00:00"
+  "LastUpdate_Ratings": "2023-08-27T19:59:45.1440648+00:00",
+  "LastUpdate_Achievements": "2023-08-27T20:04:15.7519692+00:00"
 }

@@ -5,10 +5,11 @@ Rating: 4.54 (Ranked 501)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 0.40% | ~2,668 |
-| Welcome To Hell-A | 0.40% | ~2,668 |
+| Hotel California | 0.40% | ~2,669 |
+| Welcome To Hell-A | 0.40% | ~2,669 |
 | Dr. Reed, I Presume? | 0.30% | ~2,001 |
 | Git Gutte! | 0.30% | ~2,001 |
+| Bookworm | 0.30% | ~2,001 |
 | Break A Leg | 0.30% | ~2,001 |
 | But Doctor, I am Butcho | 0.30% | ~2,001 |
 | Coup de Grâce | 0.30% | ~2,001 |
@@ -17,10 +18,10 @@ Rating: 4.54 (Ranked 501)
 | Apex Predator | 0.30% | ~2,001 |
 | Stacking the Deck | 0.30% | ~2,001 |
 | Personal Assistant Personally Assisted | 0.30% | ~2,001 |
+| This is My Weapon | 0.30% | ~2,001 |
 | Making Your Mark | 0.20% | ~1,334 |
 | Anger Management | 0.20% | ~1,334 |
 | Perks of the Job | 0.20% | ~1,334 |
-| Bookworm | 0.20% | ~1,334 |
 | I Got a Zombie Army and You Can't Harm Me | 0.20% | ~1,334 |
 | Slayer Squad | 0.20% | ~1,334 |
 | Can't Handle the Truth | 0.20% | ~1,334 |
@@ -33,7 +34,6 @@ Rating: 4.54 (Ranked 501)
 | Down with the Sickness | 0.20% | ~1,334 |
 | Max Headroom | 0.20% | ~1,334 |
 | Our True Nature | 0.20% | ~1,334 |
-| This is My Weapon | 0.20% | ~1,334 |
 | Make it So | 0.10% | ~667 |
 | LA Influential | 0.10% | ~667 |
 | On Safari | 0.10% | ~667 |
@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 501)
 | Rising Star | 0.10% | ~667 |
 | Bucket List | 0.10% | ~667 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 667,097 (Ranked 22)  
-Completed: 2,081 (0.31%) (Ranked 172)  
+Progressed: 667,161 (Ranked 22)  
+Completed: 2,082 (0.31%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -180,7 +180,7 @@ Completed: 2,081 (0.31%) (Ranked 172)
 | 2023-08-24 | 664,478 | 2,059 |
 | 2023-08-25 | 665,272 | 2,068 |
 | 2023-08-26 | 666,250 | 2,078 |
-| 2023-08-27 | 667,097 | 2,081 |
+| 2023-08-27 | 667,161 | 2,082 |
 ## Awards
 Max (Great Boss Battles): 5,783  (Ranked 61)  
 Sum: 8,515 (Ranked 97)  

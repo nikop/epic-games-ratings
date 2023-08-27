@@ -6,8 +6,8 @@
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 135,
-  "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_Completed": 158,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -218,9 +218,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7383,
+  "EOS_Progressed": 7386,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -6533,6 +6533,11 @@
       "Time": "2023-08-27T17:07:08.0601532+00:00",
       "NumProgressed": 7383,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-08-27T20:06:20.3030196+00:00",
+      "NumProgressed": 7386,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 21,
@@ -6544,7 +6549,7 @@
       "Name": "Ahem Ahem",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "ARRR",
@@ -6592,7 +6597,7 @@
       "Name": "Energy Saver",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1255
+      "UsersEstimate": 1256
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -6600,7 +6605,7 @@
       "Name": "Fashion Faux-Pas",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "FASHION_VICTIM",
@@ -6608,7 +6613,7 @@
       "Name": "Fashion Victim",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "GLOBE_TROTTER",
@@ -6648,7 +6653,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1550
+      "UsersEstimate": 1551
     },
     {
       "ID": "LIBERATOR",
@@ -6711,7 +6716,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7383,
+      "Progressed": 7386,
       "Completed": 32
     }
   ],
@@ -6719,8 +6724,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-08-26T01:39:24.8497831+00:00",
-  "LastChanged_Achievements": "2023-08-27T19:07:04.6797972+00:00",
+  "LastChanged_Achievements": "2023-08-27T20:06:20.3030191+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:38.3127322+00:00",
-  "LastUpdate_Ratings": "2023-08-27T19:00:48.2417579+00:00",
-  "LastUpdate_Achievements": "2023-08-27T19:07:04.6798391+00:00"
+  "LastUpdate_Ratings": "2023-08-27T20:00:12.6298586+00:00",
+  "LastUpdate_Achievements": "2023-08-27T20:06:20.303061+00:00"
 }

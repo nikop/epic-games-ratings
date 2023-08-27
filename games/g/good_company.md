@@ -6,8 +6,8 @@ Number of Ratings: 75  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level: Returning Home | 50.00% | ~2,662 |
-| Returning Home: Quick Learner | 26.00% | ~1,384 |
+| Level: Returning Home | 50.00% | ~2,663 |
+| Returning Home: Quick Learner | 26.00% | ~1,385 |
 | Level: Charlie's Circuits | 22.00% | ~1,172 |
 | Level: Rising Markets | 9.00% | ~479 |
 | Peddler | 8.00% | ~426 |
@@ -24,17 +24,17 @@ Number of Ratings: 75  (23.09.2022)
 | Level: Bet On Bots | 3.00% | ~160 |
 | Modular Performance | 3.00% | ~160 |
 | Salesperson | 3.00% | ~160 |
-| Level: Merry-Go-Around | 2.00% | ~106 |
-| Charlies's Circuits: Artist | 2.00% | ~106 |
-| Modular Peak | 2.00% | ~106 |
-| Accountant | 2.00% | ~106 |
-| Data Churn Type III | 2.00% | ~106 |
-| Multi-Millionaire | 2.00% | ~106 |
-| Contender | 2.00% | ~106 |
-| Trophy Collector | 2.00% | ~106 |
-| Module Maniac | 2.00% | ~106 |
-| Overproducer | 2.00% | ~106 |
-| Natural Talent | 2.00% | ~106 |
+| Level: Merry-Go-Around | 2.00% | ~107 |
+| Charlies's Circuits: Artist | 2.00% | ~107 |
+| Modular Peak | 2.00% | ~107 |
+| Accountant | 2.00% | ~107 |
+| Data Churn Type III | 2.00% | ~107 |
+| Multi-Millionaire | 2.00% | ~107 |
+| Contender | 2.00% | ~107 |
+| Trophy Collector | 2.00% | ~107 |
+| Module Maniac | 2.00% | ~107 |
+| Overproducer | 2.00% | ~107 |
+| Natural Talent | 2.00% | ~107 |
 | Level: A Happy Taskforce | 1.00% | ~53 |
 | Level: The Machinery | 1.00% | ~53 |
 | Extra Life: Knowledge Cap | 1.00% | ~53 |
@@ -83,7 +83,7 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~5 |
 | Prestigious | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,325 (Ranked 142)  
+Progressed: 5,326 (Ranked 142)  
 Completed: 1 (0.02%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 1 (0.02%) (Ranked 245)
 | 2023-08-24 | 5,319 | 1 |
 | 2023-08-25 | 5,321 | 1 |
 | 2023-08-26 | 5,323 | 1 |
-| 2023-08-27 | 5,325 | 1 |
+| 2023-08-27 | 5,326 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

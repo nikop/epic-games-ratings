@@ -5708,11 +5708,17 @@
       "Rating": 3.99,
       "NumberOfAwards": 27147,
       "NumberOfAwardsMax": 4716
+    },
+    {
+      "Time": "2023-08-27T20:00:40.9918093+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27148,
+      "NumberOfAwardsMax": 4717
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27147,
-  "NumberOfAwardsMax": 4716,
+  "NumberOfAwards": 27148,
+  "NumberOfAwardsMax": 4717,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -5731,7 +5737,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4716
+      "Count": 4717
     },
     {
       "Text": "This game has Easy Combat",
@@ -5764,7 +5770,7 @@
       "Count": 3738
     }
   ],
-  "EOS_Progressed": 135243,
+  "EOS_Progressed": 135246,
   "EOS_Completed": 138,
   "EOS_NewPlayers": 397,
   "EOS_NewCompleters": 5,
@@ -19014,6 +19020,11 @@
       "Time": "2023-08-27T19:07:30.5514031+00:00",
       "NumProgressed": 135243,
       "NumCompleted": 138
+    },
+    {
+      "Time": "2023-08-27T20:06:42.6191019+00:00",
+      "NumProgressed": 135246,
+      "NumCompleted": 138
     }
   ],
   "TotalAchievements": 112,
@@ -19111,9 +19122,9 @@
       "ID": "bigsale02",
       "SetID": "anfd17p",
       "Name": "Tax not Included",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 406
+      "UsersEstimate": 541
     },
     {
       "ID": "bigsale03",
@@ -19455,9 +19466,9 @@
       "ID": "fuseepic",
       "SetID": "anfd17p",
       "Name": "By Your Powers Combined...",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 406
     },
     {
       "ID": "fuseflawless",
@@ -19920,15 +19931,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135243,
+      "Progressed": 135246,
       "Completed": 138
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-08-27T02:17:45.2334817+00:00",
-  "LastChanged_Achievements": "2023-08-27T19:07:30.5514027+00:00",
+  "LastChanged": "2023-08-27T20:00:40.9918091+00:00",
+  "LastChanged_Achievements": "2023-08-27T20:06:42.6191013+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:19.0477827+00:00",
-  "LastUpdate_Ratings": "2023-08-27T19:02:03.8599903+00:00",
-  "LastUpdate_Achievements": "2023-08-27T19:07:30.5515816+00:00"
+  "LastUpdate_Ratings": "2023-08-27T20:00:40.9918096+00:00",
+  "LastUpdate_Achievements": "2023-08-27T20:06:42.6192893+00:00"
 }

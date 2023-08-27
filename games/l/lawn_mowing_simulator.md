@@ -6,20 +6,20 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 80.00% | ~527,366 |
-| Every story has a beginning | 36.00% | ~237,315 |
-| The first of many | 31.00% | ~204,354 |
-| Positive word of mouth | 18.00% | ~118,657 |
-| Lawn in the U.S.A. | 15.00% | ~98,881 |
-| Blade Runner | 9.00% | ~59,329 |
+| The dream begins | 80.00% | ~527,377 |
+| Every story has a beginning | 36.00% | ~237,320 |
+| The first of many | 31.00% | ~204,359 |
+| Positive word of mouth | 18.00% | ~118,660 |
+| Lawn in the U.S.A. | 15.00% | ~98,883 |
+| Blade Runner | 9.00% | ~59,330 |
 | Credible | 7.00% | ~46,145 |
-| Teamwork makes the dream work | 6.00% | ~39,552 |
-| Where there's muck there's brass | 4.00% | ~26,368 |
-| Bigger and better | 4.00% | ~26,368 |
-| Aggressive expansion | 4.00% | ~26,368 |
-| Size isn't everything | 3.00% | ~19,776 |
-| Close shave | 3.00% | ~19,776 |
-| Established | 3.00% | ~19,776 |
+| Teamwork makes the dream work | 6.00% | ~39,553 |
+| Where there's muck there's brass | 4.00% | ~26,369 |
+| Bigger and better | 4.00% | ~26,369 |
+| Aggressive expansion | 4.00% | ~26,369 |
+| Size isn't everything | 3.00% | ~19,777 |
+| Close shave | 3.00% | ~19,777 |
+| Established | 3.00% | ~19,777 |
 | Fighting on all fronts | 2.00% | ~13,184 |
 | Mighty Mowing Park Ranger | 2.00% | ~13,184 |
 | Every good deed… | 2.00% | ~13,184 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~659 |
 | Mo mowers, mo problems | 0.10% | ~659 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 659,208 (Ranked 24)  
+Progressed: 659,221 (Ranked 24)  
 Completed: 15 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 15 (0.00%) (Ranked 265)
 | 2023-08-24 | 657,998 | 15 |
 | 2023-08-25 | 658,410 | 15 |
 | 2023-08-26 | 658,827 | 15 |
-| 2023-08-27 | 659,208 | 15 |
+| 2023-08-27 | 659,221 | 15 |
 ## Awards
 Max (Quickly Understood Controls): 181  (Ranked 281)  
 Sum: 976 (Ranked 240)  

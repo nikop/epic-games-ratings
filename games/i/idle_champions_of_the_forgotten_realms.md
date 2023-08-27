@@ -43,7 +43,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dread Domain of Tovag | 0.20% | ~384 |
 | The Castle of a Thousand Vecnas | 0.20% | ~384 |
 | Who Lurks Below? | 0.20% | ~384 |
+| Xanathaaaaaaar! | 0.20% | ~384 |
 | No One Can Hear You Scream | 0.20% | ~384 |
+| Welcome to the Rock | 0.20% | ~384 |
 | Beast Mode | 0.20% | ~451 |
 | Terror in the Dark | 0.20% | ~451 |
 | Low Initiative | 0.20% | ~451 |
@@ -204,7 +206,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vecna Out! | 0.10% | ~192 |
 | Bully for Vecna | 0.10% | ~192 |
 | Clowning Around | 0.10% | ~192 |
-| Xanathaaaaaaar! | 0.10% | ~192 |
 | A Whale of a Time | 0.10% | ~192 |
 | Homecoming | 0.10% | ~225 |
 | Anti-Dexterous Explorers | 0.10% | ~225 |
@@ -223,7 +224,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Palace of Heart's Desire | 0.10% | ~192 |
 | The Egg of Nat's Desire | 0.10% | ~192 |
 | Anchors Aweigh | 0.10% | ~192 |
-| Welcome to the Rock | 0.10% | ~192 |
 | Welcome to the Band | 0.10% | ~192 |
 | The Forbidden City | 0.10% | ~225 |
 | Periodic Petrification | 0.10% | ~225 |
@@ -523,8 +523,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~192 |
 | Animated Giff | 0.10% | ~192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,480 (Ranked 53)  
-Completed: 2,221 (0.99%) (Ranked 120)  
+Progressed: 225,495 (Ranked 53)  
+Completed: 2,221 (0.98%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -652,7 +652,7 @@ Completed: 2,221 (0.99%) (Ranked 120)
 | 2023-08-24 | 224,686 | 2,211 |
 | 2023-08-25 | 224,925 | 2,214 |
 | 2023-08-26 | 225,221 | 2,219 |
-| 2023-08-27 | 225,480 | 2,221 |
+| 2023-08-27 | 225,495 | 2,221 |
 ## Awards
 Max (Diverse Characters): 5,196  (Ranked 68)  
 Sum: 31,250 (Ranked 39)  

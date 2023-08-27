@@ -1649,7 +1649,7 @@
   ],
   "EOS_Progressed": 13612,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11214,9 +11214,9 @@
       "ID": "ACHIEVEMENT_ETHNIC_DIVERSITY",
       "SetID": "9201eeb",
       "Name": "Ethnic Diversity",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_ET_TU_BRUTUS",
@@ -11958,9 +11958,9 @@
       "ID": "ACHIEVEMENT_LEARNTOPLAY_5",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 5",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 41
     },
     {
       "ID": "ACHIEVEMENT_MACEDONIAN_WARS",
@@ -12470,9 +12470,9 @@
       "ID": "ACHIEVEMENT_UNIT_KUSHITE_CAVALRY",
       "SetID": "9201eeb",
       "Name": "Kushite Cavalry",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 82
     },
     {
       "ID": "ACHIEVEMENT_UNIT_LEGIONARY",
@@ -12788,8 +12788,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-24T04:00:31.5764786+00:00",
-  "LastChanged_Achievements": "2023-08-27T19:07:24.7816193+00:00",
+  "LastChanged_Achievements": "2023-08-27T20:06:37.5957757+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:39.7773306+00:00",
-  "LastUpdate_Ratings": "2023-08-27T19:00:50.3823342+00:00",
-  "LastUpdate_Achievements": "2023-08-27T19:07:24.7825112+00:00"
+  "LastUpdate_Ratings": "2023-08-27T20:00:14.5261385+00:00",
+  "LastUpdate_Achievements": "2023-08-27T20:06:37.5965375+00:00"
 }

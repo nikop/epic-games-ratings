@@ -23,6 +23,7 @@
 | Courier | 4.00% | ~5 |
 | Been There | 4.00% | ~5 |
 | Spiritual Journey | 4.00% | ~5 |
+| Pilgrimage's End | 4.00% | ~5 |
 | Inquisitions of Discord | 4.00% | ~5 |
 | Supercargo | 3.00% | ~4 |
 | Strategist | 3.00% | ~4 |
@@ -32,7 +33,6 @@
 | Harbinger | 3.00% | ~4 |
 | The Voice of Hereafter | 3.00% | ~4 |
 | A Terrible Will | 3.00% | ~4 |
-| Pilgrimage's End | 3.00% | ~4 |
 | Merchant | 3.00% | ~4 |
 | Trouble at Fort Larius | 3.00% | ~4 |
 | Despised | 2.00% | ~3 |
@@ -44,6 +44,7 @@
 | Embellished | 1.00% | ~1 |
 | Huntress Unbound | 1.00% | ~1 |
 | Business As Usual | 1.00% | ~1 |
+| Legacy of a Mercenary | 1.00% | ~1 |
 | Trailblazer | 1.00% | ~1 |
 | Delayed | 1.00% | ~1 |
 | A Real Battle | 1.00% | ~1 |
@@ -57,7 +58,6 @@
 | Loremaster | 0.70% | ~1 |
 | Talent Nurtured | 0.70% | ~1 |
 | Conqueror | 0.70% | ~1 |
-| Legacy of a Mercenary | 0.70% | ~1 |
 | Manticore | 0.70% | ~1 |
 | Moving At Odd Angles | 0.70% | ~1 |
 | Despoiler | 0.70% | ~1 |

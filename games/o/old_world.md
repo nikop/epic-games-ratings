@@ -124,6 +124,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightenment | 0.60% | ~82 |
 | Gnosticism | 0.60% | ~82 |
 | Revelation | 0.60% | ~82 |
+| Kushite Cavalry | 0.60% | ~82 |
 | Ishtar Gate in Babylon | 0.50% | ~68 |
 | Old | 0.50% | ~68 |
 | Strong Difficulty | 0.50% | ~68 |
@@ -132,7 +133,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Rome | 0.50% | ~68 |
 | One True Faith | 0.50% | ~68 |
 | Hittite Paganism | 0.50% | ~68 |
-| Kushite Cavalry | 0.50% | ~68 |
 | Turreted Elephant | 0.50% | ~68 |
 | No Undo | 0.50% | ~68 |
 | Carthage - Ox Hide | 0.40% | ~54 |
@@ -147,6 +147,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ancient | 0.30% | ~41 |
 | Glorious Difficulty | 0.30% | ~41 |
 | The Eternal Treaty | 0.30% | ~41 |
+| Learn to Play 5 | 0.30% | ~41 |
 | Hatti | 0.30% | ~41 |
 | Persia | 0.30% | ~41 |
 | Pantheon of Gods | 0.30% | ~41 |
@@ -165,7 +166,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Event Level High | 0.20% | ~27 |
 | Run, Pheidippides, Run! | 0.20% | ~27 |
 | Nenikekamen | 0.20% | ~27 |
-| Learn to Play 5 | 0.20% | ~27 |
 | Macedonian Wars | 0.20% | ~27 |
 | Assyria | 0.20% | ~27 |
 | Apadana in Parsa | 0.20% | ~27 |
@@ -209,6 +209,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Destroyer | 0.10% | ~14 |
 | Holy | 0.10% | ~14 |
 | Rebuilder | 0.10% | ~14 |
+| Ethnic Diversity | 0.10% | ~14 |
 | Et tu Brutus? | 0.10% | ~14 |
 | Battle of the Fertile Crescent | 0.10% | ~14 |
 | Five Routs | 0.10% | ~14 |
@@ -291,7 +292,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Via Recta Souk in Damascus | 0.00% | ~0 |
 | Oracle in Delphi | 0.00% | ~0 |
 | Elephant in Elephantine | 0.00% | ~0 |
-| Ethnic Diversity | 0.00% | ~0 |
 | That Also Works | 0.00% | ~0 |
 | Not a Chance | 0.00% | ~0 |
 | Not a Scratch | 0.00% | ~0 |

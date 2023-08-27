@@ -5,21 +5,21 @@ Rating: 4.73 (Ranked 161)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~11,838 |
-| Newcomers | 79.00% | ~10,165 |
+| Under a New Sun | 92.00% | ~11,839 |
+| Newcomers | 79.00% | ~10,166 |
 | A Burden of Blood | 74.00% | ~9,522 |
-| Protector's Duty | 70.00% | ~9,007 |
-| Alchemist | 69.00% | ~8,878 |
+| Protector's Duty | 70.00% | ~9,008 |
+| Alchemist | 69.00% | ~8,879 |
 | In our Wake | 68.00% | ~8,750 |
 | Leaving all Behind | 65.00% | ~8,364 |
 | Felons | 62.00% | ~7,978 |
 | A Sea of Promises | 61.00% | ~7,849 |
-| Tales and Revelations | 57.00% | ~7,334 |
+| Tales and Revelations | 57.00% | ~7,335 |
 | Bloodline | 53.00% | ~6,820 |
 | The Cradle of Centuries | 49.00% | ~6,305 |
 | The Life We Deserve | 46.00% | ~5,919 |
 | Night guard | 43.00% | ~5,533 |
-| Nothing Left | 39.00% | ~5,018 |
+| Nothing Left | 39.00% | ~5,019 |
 | Healing our Wounds | 37.00% | ~4,761 |
 | Dying Sun | 33.00% | ~4,246 |
 | Improved crossbow | 27.00% | ~3,474 |
@@ -28,7 +28,7 @@ Rating: 4.73 (Ranked 161)
 | Effective instruments | 22.00% | ~2,831 |
 | Perfect shot | 22.00% | ~2,831 |
 | Perfect throw | 22.00% | ~2,831 |
-| Knights! | 20.00% | ~2,573 |
+| Knights! | 20.00% | ~2,574 |
 | Handful of pockets | 13.00% | ~1,673 |
 | Not a toy anymore | 11.00% | ~1,415 |
 | Pocket laboratory | 11.00% | ~1,415 |
@@ -41,8 +41,8 @@ Rating: 4.73 (Ranked 161)
 | Explorer | 1.00% | ~129 |
 | Malignant | 1.00% | ~129 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,867 (Ranked 120)  
-Completed: 43 (0.33%) (Ranked 170)  
+Progressed: 12,868 (Ranked 120)  
+Completed: 43 (0.33%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -170,7 +170,7 @@ Completed: 43 (0.33%) (Ranked 170)
 | 2023-08-24 | 12,839 | 43 |
 | 2023-08-25 | 12,845 | 43 |
 | 2023-08-26 | 12,850 | 43 |
-| 2023-08-27 | 12,867 | 43 |
+| 2023-08-27 | 12,868 | 43 |
 ## Awards
 Max (Great Boss Battles): 412  (Ranked 212)  
 Sum: 630 (Ranked 292)  

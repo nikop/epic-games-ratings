@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 64,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -217,9 +217,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 35311,
+  "EOS_Progressed": 35316,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 710,
+  "EOS_NewPlayers": 713,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -14457,6 +14457,11 @@
       "Time": "2023-08-27T19:03:29.8865601+00:00",
       "NumProgressed": 35311,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-08-27T20:03:20.0132666+00:00",
+      "NumProgressed": 35316,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 29,
@@ -14476,7 +14481,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 7062
+      "UsersEstimate": 7063
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -14492,7 +14497,7 @@
       "Name": "Thorn in My Herbicide",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "ACH_06_BLOODTOWER_NO_PIT_DEATH",
@@ -14500,7 +14505,7 @@
       "Name": "Sure Footed As A Goat",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "ACH_07_BLOODTOWER_NO_HOUND_DAMAGE",
@@ -14556,7 +14561,7 @@
       "Name": "Red In Tooth And Claw",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "ACH_14_DEFEATED_MOTHER_BEHOLDER",
@@ -14612,7 +14617,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1412
+      "UsersEstimate": 1413
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -14636,7 +14641,7 @@
       "Name": "Schadenfreude",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "ACH_24_HEAD_BANGED_TO_ALL_BOSSES",
@@ -14699,7 +14704,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 35311,
+      "Progressed": 35316,
       "Completed": 22
     }
   ],
@@ -14707,8 +14712,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-12T21:03:39.1122054+00:00",
-  "LastChanged_Achievements": "2023-08-27T19:03:29.8865598+00:00",
+  "LastChanged_Achievements": "2023-08-27T20:03:20.0132663+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:35.8741643+00:00",
-  "LastUpdate_Ratings": "2023-08-27T18:58:30.0673489+00:00",
-  "LastUpdate_Achievements": "2023-08-27T19:03:29.8866462+00:00"
+  "LastUpdate_Ratings": "2023-08-27T19:58:22.1801617+00:00",
+  "LastUpdate_Achievements": "2023-08-27T20:03:20.0133464+00:00"
 }

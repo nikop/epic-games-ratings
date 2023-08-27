@@ -6,8 +6,8 @@
   "Ranking_Popularity": 212,
   "Ranking_PopularitySum": 292,
   "Ranking_EOS_Progress": 120,
-  "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_Completed": 171,
+  "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -380,9 +380,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12867,
+  "EOS_Progressed": 12868,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -7670,6 +7670,11 @@
       "Time": "2023-08-27T18:06:00.3088228+00:00",
       "NumProgressed": 12867,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-08-27T20:05:46.7607583+00:00",
+      "NumProgressed": 12868,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 35,
@@ -7681,7 +7686,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 11838
+      "UsersEstimate": 11839
     },
     {
       "ID": "ACH_02",
@@ -7689,7 +7694,7 @@
       "Name": "Newcomers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 10165
+      "UsersEstimate": 10166
     },
     {
       "ID": "ACH_03",
@@ -7705,7 +7710,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 9007
+      "UsersEstimate": 9008
     },
     {
       "ID": "ACH_05",
@@ -7745,7 +7750,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 7334
+      "UsersEstimate": 7335
     },
     {
       "ID": "ACH_10",
@@ -7777,7 +7782,7 @@
       "Name": "Nothing Left",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 5018
+      "UsersEstimate": 5019
     },
     {
       "ID": "ACH_14",
@@ -7809,7 +7814,7 @@
       "Name": "Knights!",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 2573
+      "UsersEstimate": 2574
     },
     {
       "ID": "ACH_18",
@@ -7897,7 +7902,7 @@
       "Name": "Alchemist",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 8878
+      "UsersEstimate": 8879
     },
     {
       "ID": "ACH_29",
@@ -7960,7 +7965,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 12867,
+      "Progressed": 12868,
       "Completed": 43
     }
   ],
@@ -7968,8 +7973,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-08-24T02:10:43.6579276+00:00",
-  "LastChanged_Achievements": "2023-08-27T19:06:25.2354617+00:00",
+  "LastChanged_Achievements": "2023-08-27T20:05:46.7607579+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:58.0363669+00:00",
-  "LastUpdate_Ratings": "2023-08-27T18:57:49.2851045+00:00",
-  "LastUpdate_Achievements": "2023-08-27T19:06:25.2355158+00:00"
+  "LastUpdate_Ratings": "2023-08-27T19:57:48.7221734+00:00",
+  "LastUpdate_Achievements": "2023-08-27T20:05:46.7608116+00:00"
 }
