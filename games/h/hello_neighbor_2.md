@@ -13,14 +13,14 @@ Rating: 4.44 (Ranked 649)
 | Treasure Hunt | 31.00% | ~867 |
 | Ancient Curse | 28.00% | ~783 |
 | Cat Person | 26.00% | ~727 |
-| Climber | 25.00% | ~699 |
-| Hidden Secrets | 25.00% | ~699 |
-| Reunion | 25.00% | ~699 |
-| Mad Scientist | 24.00% | ~671 |
-| Imprisonment | 23.00% | ~643 |
-| Dog Person | 20.00% | ~559 |
+| Climber | 25.00% | ~700 |
+| Hidden Secrets | 25.00% | ~700 |
+| Reunion | 25.00% | ~700 |
+| Mad Scientist | 24.00% | ~672 |
+| Imprisonment | 23.00% | ~644 |
+| Dog Person | 20.00% | ~560 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,797 (Ranked 162)  
+Progressed: 2,798 (Ranked 162)  
 Completed: 111 (3.97%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 111 (3.97%) (Ranked 62)
 | 2023-08-24 | 2,786 | 111 |
 | 2023-08-25 | 2,788 | 111 |
 | 2023-08-26 | 2,795 | 111 |
-| 2023-08-27 | 2,797 | 111 |
+| 2023-08-27 | 2,798 | 111 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

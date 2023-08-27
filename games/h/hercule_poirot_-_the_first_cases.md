@@ -37,10 +37,10 @@ Rating: 4.35 (Ranked 753)
 | Hugo Beckers | 30.00% | ~124 |
 | The Family | 28.00% | ~116 |
 | Well-travelled | 27.00% | ~112 |
-| Thinking of Everything | 26.00% | ~108 |
+| Thinking of Everything | 27.00% | ~112 |
 | Exquisite Artwork | 26.00% | ~108 |
+| Archibald Sterling | 26.00% | ~108 |
 | Viscount Edwin Van den Bosch | 26.00% | ~108 |
-| Archibald Sterling | 25.00% | ~104 |
 | Well-prepared | 21.00% | ~87 |
 | The Truth | 21.00% | ~87 |
 | I Like an Audience | 19.00% | ~79 |

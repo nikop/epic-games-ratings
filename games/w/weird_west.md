@@ -6,30 +6,30 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,601 |
-| Self-Improvement | 71.00% | ~1,291 |
-| Perky | 66.00% | ~1,201 |
-| Let’s Ride | 60.00% | ~1,091 |
+| Unforgiven | 88.00% | ~1,602 |
+| Self-Improvement | 71.00% | ~1,292 |
+| Perky | 65.00% | ~1,183 |
+| Let’s Ride | 60.00% | ~1,092 |
 | Welcome to the Weird West | 57.00% | ~1,037 |
 | Dead or Alive | 56.00% | ~1,019 |
 | Full House | 37.00% | ~673 |
-| Off the Trail | 34.00% | ~618 |
+| Off the Trail | 34.00% | ~619 |
 | Justice Served | 30.00% | ~546 |
 | Chain Reaction | 27.00% | ~491 |
 | Through Their Eyes | 26.00% | ~473 |
 | Dishonored | 25.00% | ~455 |
 | Rain of Death | 25.00% | ~455 |
 | Scholar | 25.00% | ~455 |
-| The Great Escape | 23.00% | ~418 |
+| The Great Escape | 23.00% | ~419 |
 | That’s All, Folks | 19.00% | ~346 |
 | Fallen Star | 16.00% | ~291 |
 | For Balance | 16.00% | ~291 |
 | Here Comes Santa Claus | 16.00% | ~291 |
 | Winds of War | 16.00% | ~291 |
-| Dog Days | 13.00% | ~236 |
-| Out on the Ebb Tide | 13.00% | ~236 |
-| Turning the Tables | 13.00% | ~236 |
-| Workers' Rights | 13.00% | ~236 |
+| Dog Days | 13.00% | ~237 |
+| Out on the Ebb Tide | 13.00% | ~237 |
+| Turning the Tables | 13.00% | ~237 |
+| Workers' Rights | 13.00% | ~237 |
 | Elusive Prey | 12.00% | ~218 |
 | Power Behind the Pulpit | 12.00% | ~218 |
 | Something Wicked This Way Comes… | 12.00% | ~218 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Revenant | 0.50% | ~9 |
 | Winter Has Come | 0.40% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,819 (Ranked 176)  
+Progressed: 1,820 (Ranked 176)  
 Completed: 6 (0.33%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,6 +170,7 @@ Completed: 6 (0.33%) (Ranked 170)
 | 2023-08-24 | 1,814 | 4 |
 | 2023-08-25 | 1,814 | 6 |
 | 2023-08-26 | 1,819 | 6 |
+| 2023-08-27 | 1,820 | 6 |
 ## Awards
 Max (Impact the Story): 25  (Ranked 483)  
 Sum: 25 (Ranked 488)  

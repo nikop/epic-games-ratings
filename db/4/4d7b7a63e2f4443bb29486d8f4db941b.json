@@ -4,7 +4,7 @@
   "ProductSlug": "lysfanga-9608f2",
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewPlayers": 340,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-16T17:04:11.7793699+00:00",
-  "LastChanged_Achievements": "2023-08-27T15:06:42.6237632+00:00",
+  "LastChanged_Achievements": "2023-08-27T16:08:24.568194+00:00",
   "LastUpdate_AppInfo": "2023-08-25T02:12:16.3146824+00:00",
-  "LastUpdate_Ratings": "2023-08-27T14:59:27.2796799+00:00",
-  "LastUpdate_Achievements": "2023-08-27T15:06:42.6237661+00:00"
+  "LastUpdate_Ratings": "2023-08-27T16:00:10.6326901+00:00",
+  "LastUpdate_Achievements": "2023-08-27T16:08:24.5681979+00:00"
 }

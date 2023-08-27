@@ -46,9 +46,9 @@
 | Underground dwellers | 40.00% | ~108 |
 | Your own way | 40.00% | ~108 |
 | Deal with life | 39.00% | ~106 |
+| GYM professional | 39.00% | ~106 |
 | Poisoned fighter | 39.00% | ~106 |
 | Mom got better | 38.00% | ~103 |
-| GYM professional | 38.00% | ~103 |
 | Get out of my apartment! | 38.00% | ~103 |
 | The die is cast | 38.00% | ~103 |
 | Seashell hunter | 36.00% | ~98 |
@@ -57,6 +57,7 @@
 | Undercover robot | 34.00% | ~92 |
 | Not little hacker | 33.00% | ~89 |
 | Absolute Champion! | 33.00% | ~89 |
+| Trap disarmed | 32.00% | ~87 |
 | The lonesome road | 32.00% | ~87 |
 | Keep nature safe | 32.00% | ~87 |
 | Family comes first | 32.00% | ~87 |
@@ -64,7 +65,6 @@
 | Careerist | 32.00% | ~87 |
 | Anyone can resist | 32.00% | ~87 |
 | The heart of the Resistance | 32.00% | ~87 |
-| Trap disarmed | 31.00% | ~84 |
 | Another world | 31.00% | ~84 |
 | The last bell ring | 30.00% | ~81 |
 | Better cooking at home | 29.00% | ~79 |

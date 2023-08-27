@@ -4,7 +4,7 @@
   "ProductSlug": "cybertd-22dbd6",
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewPlayers": 340,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-16T05:02:49.5531761+00:00",
-  "LastChanged_Achievements": "2023-08-27T15:05:05.3291047+00:00",
+  "LastChanged_Achievements": "2023-08-27T16:06:07.2004333+00:00",
   "LastUpdate_AppInfo": "2023-08-27T08:57:07.80833+00:00",
-  "LastUpdate_Ratings": "2023-08-27T14:59:08.1813745+00:00",
-  "LastUpdate_Achievements": "2023-08-27T15:05:05.3291085+00:00"
+  "LastUpdate_Ratings": "2023-08-27T15:59:44.574782+00:00",
+  "LastUpdate_Achievements": "2023-08-27T16:06:07.2004346+00:00"
 }

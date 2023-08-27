@@ -28,6 +28,7 @@ Rating: 4.54 (Ranked 501)
 | A Patton Emerges | 0.20% | ~1,334 |
 | I Am the Resurrection | 0.20% | ~1,334 |
 | Stacking the Deck | 0.20% | ~1,334 |
+| Max Headroom | 0.20% | ~1,334 |
 | Our True Nature | 0.20% | ~1,334 |
 | This is My Weapon | 0.20% | ~1,334 |
 | Making Your Mark | 0.10% | ~667 |
@@ -45,13 +46,12 @@ Rating: 4.54 (Ranked 501)
 | Down with the Sickness | 0.10% | ~667 |
 | Sharpest Tool in the Box | 0.10% | ~667 |
 | Survival Skills | 0.10% | ~667 |
-| Max Headroom | 0.10% | ~667 |
 | Go, Bobcats! | 0.10% | ~667 |
 | Variety is the Spice of Death | 0.10% | ~667 |
 | Rising Star | 0.10% | ~667 |
 | Bucket List | 0.10% | ~667 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 666,862 (Ranked 22)  
+Progressed: 666,919 (Ranked 22)  
 Completed: 2,079 (0.31%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 2,079 (0.31%) (Ranked 172)
 | 2023-08-24 | 664,478 | 2,059 |
 | 2023-08-25 | 665,272 | 2,068 |
 | 2023-08-26 | 666,250 | 2,078 |
-| 2023-08-27 | 666,862 | 2,079 |
+| 2023-08-27 | 666,919 | 2,079 |
 ## Awards
 Max (Great Boss Battles): 5,783  (Ranked 61)  
 Sum: 8,509 (Ranked 97)  

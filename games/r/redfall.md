@@ -5,8 +5,8 @@ Rating: 3.50 (Ranked 979)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Ne Plus Ultra | 0.50% | ~9 |
 | Blood Will Have Blood | 0.40% | ~7 |
-| Ne Plus Ultra | 0.40% | ~7 |
 | Enter of Your Own Free Will | 0.30% | ~5 |
 | Sucks To Be You | 0.30% | ~5 |
 | Heart Attack | 0.30% | ~5 |

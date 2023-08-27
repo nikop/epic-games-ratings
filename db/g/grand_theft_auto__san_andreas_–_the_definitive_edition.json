@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 337,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -9704,9 +9704,9 @@
       "ID": "ACH34",
       "SetID": "4ck5mbe",
       "Name": "...Here we go again",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 48
+      "UsersEstimate": 60
     },
     {
       "ID": "ACH35",
@@ -9729,8 +9729,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-08-27T04:58:54.9178969+00:00",
-  "LastChanged_Achievements": "2023-08-27T15:04:37.2051003+00:00",
+  "LastChanged_Achievements": "2023-08-27T16:05:26.2916049+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:49.3440273+00:00",
-  "LastUpdate_Ratings": "2023-08-27T14:58:41.4168134+00:00",
-  "LastUpdate_Achievements": "2023-08-27T15:04:37.205161+00:00"
+  "LastUpdate_Ratings": "2023-08-27T15:59:07.2930205+00:00",
+  "LastUpdate_Achievements": "2023-08-27T16:05:26.2916899+00:00"
 }

@@ -6,19 +6,19 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~35,526 |
-| Biggest Communism Builder | 24.00% | ~30,450 |
-| The World's Most Laughable Centrist | 20.00% | ~25,375 |
-| Il Coppo Del'Arte! | 18.00% | ~22,838 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,300 |
-| Hyperstellar Law Official | 16.00% | ~20,300 |
+| Goodest Of The Good Cops | 28.00% | ~35,527 |
+| Biggest Communism Builder | 24.00% | ~30,452 |
+| The World's Most Laughable Centrist | 20.00% | ~25,376 |
+| Il Coppo Del'Arte! | 18.00% | ~22,839 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,301 |
+| Hyperstellar Law Official | 16.00% | ~20,301 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~17,763 |
 | Gurdi-Ball Is Lit | 14.00% | ~17,763 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~16,494 |
-| Truly Rabid *Traditionalist* | 11.00% | ~13,956 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~16,495 |
+| Truly Rabid *Traditionalist* | 11.00% | ~13,957 |
 | Unbelievably Boring **** | 9.00% | ~11,419 |
 | The Figurines Won't Win Her Back | 9.00% | ~11,419 |
-| Enemy Of The Physical Realm | 8.00% | ~10,150 |
+| Enemy Of The Physical Realm | 8.00% | ~10,151 |
 | Hardie's Heroes | 6.00% | ~7,613 |
 | The Lawbringer | 4.00% | ~5,075 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,075 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~127 |
 | What body? | 0.10% | ~127 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,877 (Ranked 69)  
+Progressed: 126,882 (Ranked 69)  
 Completed: 27 (0.02%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 27 (0.02%) (Ranked 245)
 | 2023-08-24 | 126,734 | 27 |
 | 2023-08-25 | 126,777 | 27 |
 | 2023-08-26 | 126,830 | 27 |
-| 2023-08-27 | 126,877 | 27 |
+| 2023-08-27 | 126,882 | 27 |
 ## Awards
 Max (Character Customization): 721  (Ranked 165)  
 Sum: 1,085 (Ranked 236)  

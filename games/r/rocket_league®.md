@@ -6,97 +6,97 @@ Number of Ratings: 366,020  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pick-Me Up | 82.00% | ~20,894,571 |
-| First-Timer | 74.00% | ~18,856,076 |
-| Triple Threat | 69.00% | ~17,582,017 |
-| Turbocharger | 63.00% | ~16,053,146 |
-| Tinkerer | 62.00% | ~15,798,334 |
-| Clean Sheet | 61.00% | ~15,543,522 |
-| Traveler | 61.00% | ~15,543,522 |
-| Wall-Crawler | 60.00% | ~15,288,710 |
-| Winner | 60.00% | ~15,288,710 |
-| Barras Bravas | 54.00% | ~13,759,839 |
-| Minute to Win it | 53.00% | ~13,505,028 |
-| Pitch Veteran | 52.00% | ~13,250,216 |
-| Double Up | 52.00% | ~13,250,216 |
-| Speed Demon | 51.00% | ~12,995,404 |
-| Good Times | 50.00% | ~12,740,592 |
-| Coming On Strong | 49.00% | ~12,485,780 |
-| Trifecta | 43.00% | ~10,956,909 |
-| Drops in the Bucket | 43.00% | ~10,956,909 |
-| Super Victorious | 41.00% | ~10,447,285 |
-| Car Collector | 41.00% | ~10,447,285 |
-| Storm Trooper | 41.00% | ~10,447,285 |
-| Rider's Block | 40.00% | ~10,192,474 |
-| Gladiator | 40.00% | ~10,192,474 |
-| Helen's Pride | 40.00% | ~10,192,474 |
-| GG | 40.00% | ~10,192,474 |
-| Still A Show-Off | 37.00% | ~9,428,038 |
-| Rank Up | 37.00% | ~9,428,038 |
-| Singles Club | 36.00% | ~9,173,226 |
-| Far, Far Away... | 34.00% | ~8,663,603 |
-| Grease Monkey | 33.00% | ~8,408,791 |
-| Sky High | 31.00% | ~7,899,167 |
-| Family, Not Friends | 31.00% | ~7,899,167 |
-| Break Shot | 30.00% | ~7,644,355 |
-| Brave the Elements | 30.00% | ~7,644,355 |
-| Rocket Repleter | 29.00% | ~7,389,543 |
-| Budding Artist | 28.00% | ~7,134,732 |
-| Stocked | 26.00% | ~6,625,108 |
-| Know the Drill | 23.00% | ~5,860,672 |
-| All Fours | 23.00% | ~5,860,672 |
-| Trade Secret | 23.00% | ~5,860,672 |
-| Heartbreaker | 22.00% | ~5,605,860 |
-| The Streak | 22.00% | ~5,605,860 |
-| Infinite Power! | 22.00% | ~5,605,860 |
-| Together is Better | 22.00% | ~5,605,860 |
-| New Challenger | 22.00% | ~5,605,860 |
-| Throwback | 20.00% | ~5,096,237 |
-| Ride or Die | 19.00% | ~4,841,425 |
-| People Person | 19.00% | ~4,841,425 |
-| Join the Club! | 18.00% | ~4,586,613 |
-| Squad Goals | 18.00% | ~4,586,613 |
-| One Better | 17.00% | ~4,331,801 |
-| Drift King | 16.00% | ~4,076,989 |
-| Best of the Bunch | 16.00% | ~4,076,989 |
-| SARPBC Forever | 14.00% | ~3,567,366 |
-| An Inch and 6.2 Miles | 14.00% | ~3,567,366 |
-| Drill Sergeant | 13.00% | ~3,312,554 |
-| Get Up, Mr. Bubbles! | 13.00% | ~3,312,554 |
-| Feather in Your Recap | 12.00% | ~3,057,742 |
-| Certifiable | 12.00% | ~3,057,742 |
-| Psycho-Master Exploder | 11.00% | ~2,802,930 |
-| Don't Look Back | 9.00% | ~2,293,307 |
-| Damage Control | 9.00% | ~2,293,307 |
-| Icing the Cake | 8.00% | ~2,038,495 |
-| Buckminster x10 | 8.00% | ~2,038,495 |
-| Natural Progression | 7.00% | ~1,783,683 |
-| Fast Break | 7.00% | ~1,783,683 |
-| Friendly | 6.00% | ~1,528,871 |
-| Left Wing, Right Wing | 6.00% | ~1,528,871 |
-| Stopped Cold | 6.00% | ~1,528,871 |
-| Hot Shot, Part Two | 5.00% | ~1,274,059 |
-| Ruthless | 5.00% | ~1,274,059 |
-| Mad Scientist | 5.00% | ~1,274,059 |
-| Buzzer Beater | 5.00% | ~1,274,059 |
-| Full Course | 5.00% | ~1,274,059 |
-| Swap Meet | 5.00% | ~1,274,059 |
-| My World is Fire | 4.00% | ~1,019,247 |
-| Perfect Start | 3.00% | ~764,436 |
-| Sea Turtle | 3.00% | ~764,436 |
-| Registered Voter | 3.00% | ~764,436 |
-| Team Player | 0.90% | ~229,331 |
-| Rocketeer | 0.60% | ~152,887 |
-| Champion | 0.50% | ~127,406 |
-| Survival of the Fittest | 0.40% | ~101,925 |
-| Savage | 0.40% | ~101,925 |
-| Spectacular | 0.20% | ~50,962 |
-| Metaverse | 0.20% | ~50,962 |
-| Virtuoso | 0.10% | ~25,481 |
-| Winning is Winning | 0.10% | ~25,481 |
+| Pick-Me Up | 82.00% | ~20,895,340 |
+| First-Timer | 74.00% | ~18,856,770 |
+| Triple Threat | 69.00% | ~17,582,664 |
+| Turbocharger | 63.00% | ~16,053,737 |
+| Tinkerer | 62.00% | ~15,798,916 |
+| Clean Sheet | 61.00% | ~15,544,094 |
+| Traveler | 61.00% | ~15,544,094 |
+| Wall-Crawler | 60.00% | ~15,289,273 |
+| Winner | 60.00% | ~15,289,273 |
+| Barras Bravas | 54.00% | ~13,760,346 |
+| Minute to Win it | 53.00% | ~13,505,525 |
+| Pitch Veteran | 52.00% | ~13,250,703 |
+| Double Up | 52.00% | ~13,250,703 |
+| Speed Demon | 51.00% | ~12,995,882 |
+| Good Times | 50.00% | ~12,741,061 |
+| Coming On Strong | 49.00% | ~12,486,240 |
+| Trifecta | 43.00% | ~10,957,312 |
+| Drops in the Bucket | 43.00% | ~10,957,312 |
+| Super Victorious | 41.00% | ~10,447,670 |
+| Car Collector | 41.00% | ~10,447,670 |
+| Storm Trooper | 41.00% | ~10,447,670 |
+| Rider's Block | 40.00% | ~10,192,849 |
+| Gladiator | 40.00% | ~10,192,849 |
+| Helen's Pride | 40.00% | ~10,192,849 |
+| GG | 40.00% | ~10,192,849 |
+| Still A Show-Off | 37.00% | ~9,428,385 |
+| Rank Up | 37.00% | ~9,428,385 |
+| Singles Club | 36.00% | ~9,173,564 |
+| Far, Far Away... | 34.00% | ~8,663,921 |
+| Grease Monkey | 33.00% | ~8,409,100 |
+| Sky High | 31.00% | ~7,899,458 |
+| Family, Not Friends | 31.00% | ~7,899,458 |
+| Break Shot | 30.00% | ~7,644,637 |
+| Brave the Elements | 30.00% | ~7,644,637 |
+| Rocket Repleter | 29.00% | ~7,389,815 |
+| Budding Artist | 28.00% | ~7,134,994 |
+| Stocked | 26.00% | ~6,625,352 |
+| Know the Drill | 23.00% | ~5,860,888 |
+| All Fours | 23.00% | ~5,860,888 |
+| Trade Secret | 23.00% | ~5,860,888 |
+| Heartbreaker | 22.00% | ~5,606,067 |
+| The Streak | 22.00% | ~5,606,067 |
+| Infinite Power! | 22.00% | ~5,606,067 |
+| Together is Better | 22.00% | ~5,606,067 |
+| New Challenger | 22.00% | ~5,606,067 |
+| Throwback | 20.00% | ~5,096,424 |
+| Ride or Die | 19.00% | ~4,841,603 |
+| People Person | 19.00% | ~4,841,603 |
+| Join the Club! | 18.00% | ~4,586,782 |
+| Squad Goals | 18.00% | ~4,586,782 |
+| One Better | 17.00% | ~4,331,961 |
+| Drift King | 16.00% | ~4,077,140 |
+| Best of the Bunch | 16.00% | ~4,077,140 |
+| SARPBC Forever | 14.00% | ~3,567,497 |
+| An Inch and 6.2 Miles | 14.00% | ~3,567,497 |
+| Drill Sergeant | 13.00% | ~3,312,676 |
+| Get Up, Mr. Bubbles! | 13.00% | ~3,312,676 |
+| Feather in Your Recap | 12.00% | ~3,057,855 |
+| Certifiable | 12.00% | ~3,057,855 |
+| Psycho-Master Exploder | 11.00% | ~2,803,033 |
+| Don't Look Back | 9.00% | ~2,293,391 |
+| Damage Control | 9.00% | ~2,293,391 |
+| Icing the Cake | 8.00% | ~2,038,570 |
+| Buckminster x10 | 8.00% | ~2,038,570 |
+| Natural Progression | 7.00% | ~1,783,749 |
+| Fast Break | 7.00% | ~1,783,749 |
+| Friendly | 6.00% | ~1,528,927 |
+| Left Wing, Right Wing | 6.00% | ~1,528,927 |
+| Stopped Cold | 6.00% | ~1,528,927 |
+| Hot Shot, Part Two | 5.00% | ~1,274,106 |
+| Ruthless | 5.00% | ~1,274,106 |
+| Mad Scientist | 5.00% | ~1,274,106 |
+| Buzzer Beater | 5.00% | ~1,274,106 |
+| Full Course | 5.00% | ~1,274,106 |
+| Swap Meet | 5.00% | ~1,274,106 |
+| My World is Fire | 4.00% | ~1,019,285 |
+| Perfect Start | 3.00% | ~764,464 |
+| Sea Turtle | 3.00% | ~764,464 |
+| Registered Voter | 3.00% | ~764,464 |
+| Team Player | 0.90% | ~229,339 |
+| Rocketeer | 0.60% | ~152,893 |
+| Champion | 0.50% | ~127,411 |
+| Survival of the Fittest | 0.40% | ~101,928 |
+| Savage | 0.40% | ~101,928 |
+| Spectacular | 0.20% | ~50,964 |
+| Metaverse | 0.20% | ~50,964 |
+| Virtuoso | 0.10% | ~25,482 |
+| Winning is Winning | 0.10% | ~25,482 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,481,184 (Ranked 2)  
-Completed: 2,248 (0.01%) (Ranked 252)  
+Progressed: 25,482,122 (Ranked 2)  
+Completed: 2,249 (0.01%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -224,7 +224,7 @@ Completed: 2,248 (0.01%) (Ranked 252)
 | 2023-08-24 | 25,433,542 | 2,243 |
 | 2023-08-25 | 25,451,992 | 2,243 |
 | 2023-08-26 | 25,470,459 | 2,248 |
-| 2023-08-27 | 25,481,184 | 2,248 |
+| 2023-08-27 | 25,482,122 | 2,249 |
 ## Awards
 Max (Great for Quick Sessions): 511,682  (Ranked 2)  
 Sum: 3,457,780 (Ranked 2)  

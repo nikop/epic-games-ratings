@@ -6,7 +6,7 @@
   "Ranking_Popularity": 68,
   "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 53,
-  "Ranking_EOS_Completed": 122,
+  "Ranking_EOS_Completed": 120,
   "Ranking_EOS_NewPlayers": 40,
   "Ranking_EOS_NewCompleters": 9,
   "Store": {
@@ -6142,11 +6142,11 @@
       "Count": 3377
     }
   ],
-  "EOS_Progressed": 225416,
-  "EOS_Completed": 2220,
-  "EOS_NewPlayers": 1807,
-  "EOS_NewCompleters": 27,
-  "EOS_Completed_Percentage": 0.98,
+  "EOS_Progressed": 225429,
+  "EOS_Completed": 2221,
+  "EOS_NewPlayers": 1808,
+  "EOS_NewCompleters": 28,
+  "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:41.9871817+00:00",
@@ -20287,6 +20287,11 @@
       "Time": "2023-08-27T15:08:17.2083901+00:00",
       "NumProgressed": 225416,
       "NumCompleted": 2220
+    },
+    {
+      "Time": "2023-08-27T16:08:57.4979237+00:00",
+      "NumProgressed": 225429,
+      "NumCompleted": 2221
     }
   ],
   "TotalAchievements": 516,
@@ -20298,7 +20303,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4508
+      "UsersEstimate": 4509
     },
     {
       "ID": "objective_completed_10",
@@ -24410,7 +24415,7 @@
       "Name": "To Infinity\u0027s and Beyond",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "objective_completed_1401",
@@ -24425,21 +24430,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 191690,
+      "Progressed": 191703,
       "Completed": 3314
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 225416,
-      "Completed": 2220
+      "Progressed": 225429,
+      "Completed": 2221
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-27T14:01:09.3672113+00:00",
-  "LastChanged_Achievements": "2023-08-27T15:08:17.2083897+00:00",
+  "LastChanged_Achievements": "2023-08-27T16:08:57.4979231+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:53.3345914+00:00",
-  "LastUpdate_Ratings": "2023-08-27T15:00:29.7764809+00:00",
-  "LastUpdate_Achievements": "2023-08-27T15:08:17.2108505+00:00"
+  "LastUpdate_Ratings": "2023-08-27T16:01:36.3753737+00:00",
+  "LastUpdate_Achievements": "2023-08-27T16:08:57.500402+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "arise-a-simple-story",
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewPlayers": 340,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2019-12-03T14:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:43.275831+00:00",
   "LastChanged": "2023-03-31T05:57:43.2758311+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:14.6939983+00:00",
-  "LastUpdate_Ratings": "2023-08-27T14:59:00.7462609+00:00",
-  "LastUpdate_Achievements": "2023-08-27T15:05:39.3663849+00:00"
+  "LastUpdate_Ratings": "2023-08-27T15:59:34.1933605+00:00",
+  "LastUpdate_Achievements": "2023-08-27T16:06:55.6706984+00:00"
 }

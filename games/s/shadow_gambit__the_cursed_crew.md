@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A New Journey | 73.00% | ~378 |
-| The Adventure Begins | 54.00% | ~280 |
+| The Adventure Begins | 55.00% | ~285 |
 | Swabbie | 41.00% | ~212 |
 | With Great Power… | 38.00% | ~197 |
 | This Belongs in a Museum | 33.00% | ~171 |
@@ -19,12 +19,12 @@
 | Persistent Parasite | 13.00% | ~67 |
 | Seadog | 9.00% | ~47 |
 | All Good Things | 8.00% | ~41 |
-| Jaded Judge | 7.00% | ~36 |
+| Jaded Judge | 8.00% | ~41 |
 | Rustic Recipe | 7.00% | ~36 |
+| Lyrical Longing | 6.00% | ~31 |
 | Privateer | 5.00% | ~26 |
 | Tobacco Travesty | 5.00% | ~26 |
 | Accursed Artifacts | 5.00% | ~26 |
-| Lyrical Longing | 5.00% | ~26 |
 | Corsair | 3.00% | ~16 |
 | Freebooter | 2.00% | ~10 |
 | Marauder | 2.00% | ~10 |

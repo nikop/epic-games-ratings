@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -104,9 +104,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 963,
+  "EOS_Progressed": 964,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.56,
   "EosHistory": [
@@ -1414,6 +1414,11 @@
       "Time": "2023-08-26T23:09:02.3351883+00:00",
       "NumProgressed": 963,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-08-27T16:08:49.1781134+00:00",
+      "NumProgressed": 964,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 27,
@@ -1441,7 +1446,7 @@
       "Name": "Soulmate?",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "ACH_DICE_WIN",
@@ -1457,7 +1462,7 @@
       "Name": "Kaboom",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ACH_ELEVATOR_FIXED",
@@ -1465,7 +1470,7 @@
       "Name": "Fine, I\u0027ll do it myself",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "ACH_ELIZA_PHOTO",
@@ -1481,7 +1486,7 @@
       "Name": "Broken heart",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "ACH_GHOST_BUSTED",
@@ -1513,7 +1518,7 @@
       "Name": "Memento",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -1521,7 +1526,7 @@
       "Name": "No pressure",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -1529,7 +1534,7 @@
       "Name": "And so it begins",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -1569,7 +1574,7 @@
       "Name": "Unstoppable",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "ACH_STAR_1",
@@ -1577,15 +1582,15 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "ACH_STAR_2",
       "SetID": "7k95e4n",
       "Name": "Moving up",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 404
+      "UsersEstimate": 395
     },
     {
       "ID": "ACH_STAR_3",
@@ -1593,7 +1598,7 @@
       "Name": "Still more work ahead",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "ACH_STAR_4",
@@ -1617,7 +1622,7 @@
       "Name": "Reunited",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "ACH_TIP_EARNED",
@@ -1640,7 +1645,7 @@
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 963,
+      "Progressed": 964,
       "Completed": 15
     }
   ],
@@ -1648,8 +1653,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-08-10T10:58:10.9295179+00:00",
-  "LastChanged_Achievements": "2023-08-27T15:08:11.29679+00:00",
+  "LastChanged_Achievements": "2023-08-27T16:08:49.1781126+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:15.9599009+00:00",
-  "LastUpdate_Ratings": "2023-08-27T14:59:33.9576165+00:00",
-  "LastUpdate_Achievements": "2023-08-27T15:08:11.296813+00:00"
+  "LastUpdate_Ratings": "2023-08-27T16:00:21.2153002+00:00",
+  "LastUpdate_Achievements": "2023-08-27T16:08:49.1781413+00:00"
 }

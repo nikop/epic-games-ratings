@@ -4,7 +4,7 @@
   "ProductSlug": "rooted-0d3110",
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewPlayers": 340,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-22T15:57:11.9881146+00:00",
-  "LastUpdate_Ratings": "2023-08-27T14:59:18.7564307+00:00",
-  "LastUpdate_Achievements": "2023-08-27T15:03:39.1100369+00:00"
+  "LastUpdate_Ratings": "2023-08-27T15:59:58.7070317+00:00",
+  "LastUpdate_Achievements": "2023-08-27T16:04:19.0842958+00:00"
 }

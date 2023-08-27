@@ -9,10 +9,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Settler | 4.00% | ~544 |
 | Play a Single Player Game | 4.00% | ~544 |
 | The Clergy | 4.00% | ~544 |
+| Able | 3.00% | ~408 |
 | Explorer | 3.00% | ~408 |
 | Intrepid | 3.00% | ~408 |
 | Friendly Family | 3.00% | ~408 |
-| Able | 2.00% | ~272 |
 | Ambitious | 2.00% | ~272 |
 | Architect | 2.00% | ~272 |
 | Brilliant | 2.00% | ~272 |
@@ -38,6 +38,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens | 2.00% | ~272 |
 | Ishtar Gate | 2.00% | ~272 |
 | Lighthouse | 2.00% | ~272 |
+| Necropolis | 2.00% | ~272 |
 | Oracle | 2.00% | ~272 |
 | Pyramids | 2.00% | ~272 |
 | Learn to Play 1 | 2.00% | ~272 |
@@ -69,7 +70,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus | 1.00% | ~136 |
 | Mausoleum | 1.00% | ~136 |
 | Musaeum | 1.00% | ~136 |
-| Necropolis | 1.00% | ~136 |
 | Learn to Play 2 | 1.00% | ~136 |
 | Greece | 1.00% | ~136 |
 | Manichaeism | 1.00% | ~136 |
@@ -84,6 +84,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persian Paganism | 0.90% | ~122 |
 | Building Wonders | 0.90% | ~122 |
 | Legalism | 0.90% | ~122 |
+| Subjugator | 0.80% | ~109 |
 | Good Difficulty | 0.80% | ~109 |
 | Statesmen | 0.80% | ~109 |
 | Traders | 0.80% | ~109 |
@@ -97,7 +98,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Phalangite | 0.80% | ~109 |
 | Capable | 0.70% | ~95 |
 | Invincible | 0.70% | ~95 |
-| Subjugator | 0.70% | ~95 |
 | Hittite Iron | 0.70% | ~95 |
 | Circus Maximus | 0.70% | ~95 |
 | Hagia Sophia | 0.70% | ~95 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,609 (Ranked 119)  
+Progressed: 13,610 (Ranked 119)  
 Completed: 5 (0.04%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -432,7 +432,7 @@ Completed: 5 (0.04%) (Ranked 235)
 | 2023-08-24 | 13,546 | 5 |
 | 2023-08-25 | 13,563 | 5 |
 | 2023-08-26 | 13,590 | 5 |
-| 2023-08-27 | 13,609 | 5 |
+| 2023-08-27 | 13,610 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,799 (Ranked 208)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -2951,9 +2951,9 @@
       "ID": "CHAIN_REACTION",
       "SetID": "9a4jnji",
       "Name": "Chain Reaction",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 138
     },
     {
       "ID": "CHAOS_THEORY",
@@ -3312,8 +3312,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-08-24T13:04:37.3738417+00:00",
-  "LastChanged_Achievements": "2023-08-27T15:06:50.8170016+00:00",
+  "LastChanged_Achievements": "2023-08-27T16:08:35.6932457+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:56.8957598+00:00",
-  "LastUpdate_Ratings": "2023-08-27T15:00:32.0039269+00:00",
-  "LastUpdate_Achievements": "2023-08-27T15:06:50.8170495+00:00"
+  "LastUpdate_Ratings": "2023-08-27T16:01:38.8944824+00:00",
+  "LastUpdate_Achievements": "2023-08-27T16:08:35.6933071+00:00"
 }

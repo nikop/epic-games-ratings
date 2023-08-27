@@ -21,13 +21,13 @@ Number of Ratings: 111  (23.09.2022)
 | Fashionista | 7.00% | ~193 |
 | Finally he zips it | 7.00% | ~193 |
 | That pinch! | 7.00% | ~193 |
+| Tight lipslides | 7.00% | ~193 |
 | Bottom ply killer | 6.00% | ~165 |
 | Fulfilled the dream | 6.00% | ~165 |
 | G'Day Mate! | 6.00% | ~165 |
 | Purple passion | 6.00% | ~165 |
 | Squad goals | 6.00% | ~165 |
 | Sup widdit big dog! | 6.00% | ~165 |
-| Tight lipslides | 6.00% | ~165 |
 | Commence the Hijinx! | 5.00% | ~138 |
 | DIY Boss | 5.00% | ~138 |
 | Globetrotter | 5.00% | ~138 |

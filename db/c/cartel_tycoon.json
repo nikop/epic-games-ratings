@@ -5,9 +5,9 @@
   "Ranking_Rating": 753,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
-  "Ranking_EOS_Progress": 225,
+  "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -280,9 +280,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 539,
+  "EOS_Progressed": 540,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -1555,6 +1555,11 @@
       "Time": "2023-08-27T01:48:16.3461569+00:00",
       "NumProgressed": 539,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-27T16:06:44.7969587+00:00",
+      "NumProgressed": 540,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 19,
@@ -1564,9 +1569,9 @@
       "ID": "complete-deals",
       "SetID": "bed33dd",
       "Name": "Safe Pair of Hands",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 199
+      "UsersEstimate": 194
     },
     {
       "ID": "cool-shirts",
@@ -1604,9 +1609,9 @@
       "ID": "finish-tutorial",
       "SetID": "bed33dd",
       "Name": "That was base",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 216
+      "UsersEstimate": 211
     },
     {
       "ID": "hire-lieutenant",
@@ -1630,7 +1635,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "play-at-night",
@@ -1670,7 +1675,7 @@
       "Name": "Bite the Blow",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "sell-variety",
@@ -1684,9 +1689,9 @@
       "ID": "send-smuggling",
       "SetID": "bed33dd",
       "Name": "Camellos",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 313
+      "UsersEstimate": 308
     },
     {
       "ID": "unlock-residences",
@@ -1694,7 +1699,7 @@
       "Name": "Pampered Life",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "upgrade-building",
@@ -1702,7 +1707,7 @@
       "Name": "Take-Off",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "use-submarine",
@@ -1717,15 +1722,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 539,
+      "Progressed": 540,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-08-27T15:05:31.6898723+00:00",
+  "LastChanged_Achievements": "2023-08-27T16:06:44.7969581+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:10.4732952+00:00",
-  "LastUpdate_Ratings": "2023-08-27T14:58:32.9452958+00:00",
-  "LastUpdate_Achievements": "2023-08-27T15:05:31.689889+00:00"
+  "LastUpdate_Ratings": "2023-08-27T15:58:57.4874621+00:00",
+  "LastUpdate_Achievements": "2023-08-27T16:06:44.796998+00:00"
 }

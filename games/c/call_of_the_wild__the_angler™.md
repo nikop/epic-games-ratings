@@ -6,21 +6,21 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 78.00% | ~4,063 |
-| Hey Good Hookin | 67.00% | ~3,490 |
-| I'm on a Boat! | 58.00% | ~3,021 |
-| Can you smell what the Rod is Hooking | 52.00% | ~2,709 |
-| Scaling up | 52.00% | ~2,709 |
-| More Fish in the Sea | 45.00% | ~2,344 |
-| Ready to Rod and Roll | 43.00% | ~2,240 |
-| Fish Out of Water | 33.00% | ~1,719 |
-| License to Gill | 32.00% | ~1,667 |
-| Things that go Splash in the Night | 28.00% | ~1,459 |
-| Goldfish? | 27.00% | ~1,406 |
-| Going for Gold | 24.00% | ~1,250 |
-| I'm Hooked! | 18.00% | ~938 |
-| Diamond in the Rough | 13.00% | ~677 |
-| More than a Tourist | 12.00% | ~625 |
+| Fish Just Got Reel | 78.00% | ~4,068 |
+| Hey Good Hookin | 67.00% | ~3,494 |
+| I'm on a Boat! | 58.00% | ~3,025 |
+| Can you smell what the Rod is Hooking | 52.00% | ~2,712 |
+| Scaling up | 52.00% | ~2,712 |
+| More Fish in the Sea | 45.00% | ~2,347 |
+| Ready to Rod and Roll | 43.00% | ~2,242 |
+| Fish Out of Water | 33.00% | ~1,721 |
+| License to Gill | 32.00% | ~1,669 |
+| Things that go Splash in the Night | 28.00% | ~1,460 |
+| Goldfish? | 27.00% | ~1,408 |
+| Going for Gold | 24.00% | ~1,252 |
+| I'm Hooked! | 18.00% | ~939 |
+| Diamond in the Rough | 13.00% | ~678 |
+| More than a Tourist | 12.00% | ~626 |
 | Hook, Line and Sinker | 8.00% | ~417 |
 | Marathon | 8.00% | ~417 |
 | I'm the Captain Now | 6.00% | ~313 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.10% | ~5 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,209 (Ranked 143)  
+Progressed: 5,215 (Ranked 143)  
 Completed: 0 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 0 (0.00%) (Ranked 265)
 | 2023-08-24 | 4,986 | 0 |
 | 2023-08-25 | 5,062 | 0 |
 | 2023-08-26 | 5,167 | 0 |
-| 2023-08-27 | 5,209 | 0 |
+| 2023-08-27 | 5,215 | 0 |
 ## Awards
 Max (Relaxing): 33  (Ranked 449)  
 Sum: 163 (Ranked 392)  

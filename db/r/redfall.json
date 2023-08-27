@@ -2258,9 +2258,9 @@
       "ID": "Achievement_009",
       "SetID": "6b34g18",
       "Name": "Ne Plus Ultra",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "Achievement_010",
@@ -2739,8 +2739,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-08-08T16:59:16.4444629+00:00",
-  "LastChanged_Achievements": "2023-08-27T15:04:57.0578111+00:00",
+  "LastChanged_Achievements": "2023-08-27T16:05:55.3518449+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:29.8019925+00:00",
-  "LastUpdate_Ratings": "2023-08-27T15:00:10.6879068+00:00",
-  "LastUpdate_Achievements": "2023-08-27T15:04:57.0578799+00:00"
+  "LastUpdate_Ratings": "2023-08-27T16:01:09.6429753+00:00",
+  "LastUpdate_Achievements": "2023-08-27T16:05:55.3519389+00:00"
 }

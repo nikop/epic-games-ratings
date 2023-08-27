@@ -6,12 +6,12 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~4,508 |
+| A Brief Tour of the Realms | 2.00% | ~4,509 |
 | Beast Intentions | 0.70% | ~1,578 |
 | The Cursed Farmer | 0.70% | ~1,578 |
 | The Hunt for The Last Breath | 0.60% | ~1,150 |
 | The Mad Wizard | 0.50% | ~1,127 |
-| To Infinity's and Beyond | 0.50% | ~958 |
+| To Infinity's and Beyond | 0.50% | ~959 |
 | The Ring of Regeneration | 0.40% | ~902 |
 | Maddening | 0.30% | ~676 |
 | Were-verpowered | 0.30% | ~676 |
@@ -523,8 +523,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~192 |
 | Animated Giff | 0.10% | ~192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,416 (Ranked 53)  
-Completed: 2,220 (0.98%) (Ranked 122)  
+Progressed: 225,429 (Ranked 53)  
+Completed: 2,221 (0.99%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -652,7 +652,7 @@ Completed: 2,220 (0.98%) (Ranked 122)
 | 2023-08-24 | 224,686 | 2,211 |
 | 2023-08-25 | 224,925 | 2,214 |
 | 2023-08-26 | 225,221 | 2,219 |
-| 2023-08-27 | 225,416 | 2,220 |
+| 2023-08-27 | 225,429 | 2,221 |
 ## Awards
 Max (Diverse Characters): 5,196  (Ranked 68)  
 Sum: 31,250 (Ranked 39)  

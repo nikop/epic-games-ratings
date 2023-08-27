@@ -252,7 +252,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 65883,
+  "EOS_Progressed": 65886,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 0,
@@ -8737,6 +8737,11 @@
       "Time": "2023-08-27T15:08:14.9530093+00:00",
       "NumProgressed": 65883,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-08-27T16:08:54.1656173+00:00",
+      "NumProgressed": 65886,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 20,
@@ -8756,7 +8761,7 @@
       "Name": "Bonfire Lit",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 1976
+      "UsersEstimate": 1977
     },
     {
       "ID": "ACH_CHURCHCANDLES",
@@ -8900,14 +8905,14 @@
       "Name": "Survival Expert",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 1976
+      "UsersEstimate": 1977
     }
   ],
   "AchievementSets": [
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 65883,
+      "Progressed": 65886,
       "Completed": 13
     }
   ],
@@ -8915,8 +8920,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-08-26T23:01:09.4658667+00:00",
-  "LastChanged_Achievements": "2023-08-27T15:08:14.9530088+00:00",
+  "LastChanged_Achievements": "2023-08-27T16:08:54.1656165+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:34.2677684+00:00",
-  "LastUpdate_Ratings": "2023-08-27T14:59:52.8803424+00:00",
-  "LastUpdate_Achievements": "2023-08-27T15:08:14.9530632+00:00"
+  "LastUpdate_Ratings": "2023-08-27T16:00:46.2386221+00:00",
+  "LastUpdate_Achievements": "2023-08-27T16:08:54.1657102+00:00"
 }

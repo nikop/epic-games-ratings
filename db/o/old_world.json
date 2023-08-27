@@ -1647,7 +1647,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13609,
+  "EOS_Progressed": 13610,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
@@ -10387,6 +10387,11 @@
       "Time": "2023-08-27T15:06:46.1270439+00:00",
       "NumProgressed": 13609,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-27T16:08:29.3856802+00:00",
+      "NumProgressed": 13610,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -10724,9 +10729,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_ABLE",
       "SetID": "7l38kb8",
       "Name": "Able",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 272
+      "UsersEstimate": 408
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AMBITIOUS",
@@ -11036,9 +11041,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_SUBJUGATOR",
       "SetID": "9201eeb",
       "Name": "Subjugator",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 109
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_VALIANT",
@@ -11836,9 +11841,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_NECROPOLIS",
       "SetID": "9201eeb",
       "Name": "Necropolis",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 272
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_ORACLE",
@@ -12765,21 +12770,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13609,
+      "Progressed": 13610,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13609,
+      "Progressed": 13610,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-24T04:00:31.5764786+00:00",
-  "LastChanged_Achievements": "2023-08-27T15:06:46.1270433+00:00",
+  "LastChanged_Achievements": "2023-08-27T16:08:29.3856795+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:39.7773306+00:00",
-  "LastUpdate_Ratings": "2023-08-27T15:00:19.5453684+00:00",
-  "LastUpdate_Achievements": "2023-08-27T15:06:46.1278607+00:00"
+  "LastUpdate_Ratings": "2023-08-27T16:01:21.5814725+00:00",
+  "LastUpdate_Achievements": "2023-08-27T16:08:29.3864089+00:00"
 }

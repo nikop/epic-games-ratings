@@ -19,7 +19,7 @@ Number of Ratings: 58  (23.09.2022)
 | Full Arsenal | 57.00% | ~653 |
 | Controlled Demolition | 55.00% | ~630 |
 | Payback | 53.00% | ~607 |
-| Huntress | 52.00% | ~596 |
+| Huntress | 53.00% | ~607 |
 | Born to Drift | 51.00% | ~584 |
 | Relentless | 48.00% | ~550 |
 | The Path Forward | 45.00% | ~516 |

@@ -38,7 +38,7 @@ Rating: 4.56 (Ranked 472)
 | Chick Magnet | 1.00% | ~121 |
 | Not a Player | 0.90% | ~109 |
 | Remastered | 0.70% | ~84 |
-| ...Here we go again | 0.40% | ~48 |
+| ...Here we go again | 0.50% | ~60 |
 | I Ain't No Buster | 0.30% | ~36 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 12,060 (Ranked 122)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -244,9 +244,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23981,
+  "EOS_Progressed": 23982,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4509,6 +4509,11 @@
       "Time": "2023-08-27T15:04:57.7565304+00:00",
       "NumProgressed": 23981,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-08-27T16:05:56.8634885+00:00",
+      "NumProgressed": 23982,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 32,
@@ -4536,7 +4541,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 18465
+      "UsersEstimate": 18466
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -4560,7 +4565,7 @@
       "Name": "Creature Feature",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 7194
+      "UsersEstimate": 7195
     },
     {
       "ID": "ACH_GET_GUS",
@@ -4576,7 +4581,7 @@
       "Name": "Are You Packin\u0027?",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 5995
+      "UsersEstimate": 5996
     },
     {
       "ID": "ACH_GET_KNIFEY",
@@ -4600,7 +4605,7 @@
       "Name": "RIP Davey Glutes",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 5755
+      "UsersEstimate": 5756
     },
     {
       "ID": "ACH_GET_SWEEZY",
@@ -4608,7 +4613,7 @@
       "Name": "Sweezy Like Sunday Morning",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 5995
+      "UsersEstimate": 5996
     },
     {
       "ID": "ACH_GLOBO_STAR",
@@ -4624,7 +4629,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 19904
+      "UsersEstimate": 19905
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -4632,7 +4637,7 @@
       "Name": "Sequel-Bait",
       "Percentage": 8,
       "XP": 45,
-      "UsersEstimate": 1918
+      "UsersEstimate": 1919
     },
     {
       "ID": "ACH_JUGGLE_SKILLS",
@@ -4640,7 +4645,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 13669
+      "UsersEstimate": 13670
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -4656,7 +4661,7 @@
       "Name": "G3 Graduation",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 5995
+      "UsersEstimate": 5996
     },
     {
       "ID": "ACH_KILL_GARM",
@@ -4688,7 +4693,7 @@
       "Name": "Self-Actualization",
       "Percentage": 19,
       "XP": 45,
-      "UsersEstimate": 4556
+      "UsersEstimate": 4557
     },
     {
       "ID": "ACH_KILL_SKRENDELS",
@@ -4704,7 +4709,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 17506
+      "UsersEstimate": 17507
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -4744,7 +4749,7 @@
       "Name": "Spent 15 Hours At The Alien Strip Club",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 4556
+      "UsersEstimate": 4557
     },
     {
       "ID": "ACH_NOT_KENNY",
@@ -4775,22 +4780,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 23981,
+      "Progressed": 23982,
       "Completed": 12
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1274,
-      "Completed": 1274
+      "Progressed": 1275,
+      "Completed": 1275
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-08-14T02:13:15.3920394+00:00",
-  "LastChanged_Achievements": "2023-08-27T15:04:57.75653+00:00",
+  "LastChanged_Achievements": "2023-08-27T16:05:56.8634881+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:40.4978625+00:00",
-  "LastUpdate_Ratings": "2023-08-27T15:00:19.3147487+00:00",
-  "LastUpdate_Achievements": "2023-08-27T15:04:57.7565709+00:00"
+  "LastUpdate_Ratings": "2023-08-27T16:01:21.1995258+00:00",
+  "LastUpdate_Achievements": "2023-08-27T16:05:56.8635365+00:00"
 }
