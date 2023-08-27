@@ -20,6 +20,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Fountainhead | 2.00% | ~272 |
 | Glorious | 2.00% | ~272 |
 | Good | 2.00% | ~272 |
+| Great | 2.00% | ~272 |
 | Just | 2.00% | ~272 |
 | Keystone | 2.00% | ~272 |
 | Learned | 2.00% | ~272 |
@@ -53,8 +54,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Poetic Leader | 2.00% | ~272 |
 | Regicide | 1.00% | ~136 |
 | Drillmaster | 1.00% | ~136 |
-| Great | 1.00% | ~136 |
 | Intercessor | 1.00% | ~136 |
+| Mighty | 1.00% | ~136 |
 | Valiant | 1.00% | ~136 |
 | Legendary Cities | 1.00% | ~136 |
 | Just Difficulty | 1.00% | ~136 |
@@ -77,11 +78,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens in Babylon | 0.90% | ~122 |
 | Beloved | 0.90% | ~122 |
 | Conqueror | 0.90% | ~122 |
-| Mighty | 0.90% | ~122 |
+| Lion | 0.90% | ~122 |
 | Victorious | 0.90% | ~122 |
 | Patrons | 0.90% | ~122 |
 | Building Wonders | 0.90% | ~122 |
-| Lion | 0.80% | ~109 |
 | Good Difficulty | 0.80% | ~109 |
 | Statesmen | 0.80% | ~109 |
 | Traders | 0.80% | ~109 |
@@ -102,18 +102,19 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus | 0.70% | ~95 |
 | Hagia Sophia | 0.70% | ~95 |
 | Church of the Holy Sepulchre | 0.70% | ~95 |
+| Assyrian Paganism | 0.70% | ~95 |
 | Dualism | 0.70% | ~95 |
 | Redemption | 0.70% | ~95 |
 | Ambition Victory | 0.70% | ~95 |
 | Double Victory | 0.70% | ~95 |
 | Win a Single Player Game | 0.70% | ~95 |
+| Bad Heir Day | 0.60% | ~82 |
 | Devout | 0.60% | ~82 |
 | Ready | 0.60% | ~82 |
 | Landowners | 0.60% | ~82 |
 | Riders | 0.60% | ~82 |
 | Adur Burzen-Mihr | 0.60% | ~82 |
 | Carthage | 0.60% | ~82 |
-| Assyrian Paganism | 0.60% | ~82 |
 | Industrial Progress | 0.60% | ~82 |
 | Military Prestige | 0.60% | ~82 |
 | Enlightenment | 0.60% | ~82 |
@@ -121,8 +122,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Revelation | 0.60% | ~82 |
 | Veneration | 0.60% | ~82 |
 | Cimmerian Archer | 0.60% | ~82 |
-| Bad Heir Day | 0.50% | ~68 |
 | Ishtar Gate in Babylon | 0.50% | ~68 |
+| Old | 0.50% | ~68 |
 | Strong Difficulty | 0.50% | ~68 |
 | Clerics | 0.50% | ~68 |
 | Hunters | 0.50% | ~68 |
@@ -134,7 +135,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Turreted Elephant | 0.50% | ~68 |
 | No Undo | 0.50% | ~68 |
 | Carthage - Ox Hide | 0.40% | ~54 |
-| Old | 0.40% | ~54 |
 | Peacemaker | 0.40% | ~54 |
 | Noble Difficulty | 0.40% | ~54 |
 | Cao'an | 0.40% | ~54 |
@@ -155,7 +155,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Capturing Cities | 0.30% | ~41 |
 | Ten Crowns | 0.30% | ~41 |
 | Three Man Chariot | 0.30% | ~41 |
+| Siege Tower | 0.30% | ~41 |
 | Conquest Victory | 0.30% | ~41 |
+| Necropolis in Waset | 0.30% | ~41 |
 | Patriarch St Paul | 0.30% | ~41 |
 | Hypatia the Teacher | 0.30% | ~41 |
 | Bronze Victory (Carthage 1) | 0.20% | ~27 |
@@ -175,8 +177,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Punic Wars | 0.20% | ~27 |
 | Circus Maximus in Roma | 0.20% | ~27 |
 | Pantheon in Roma | 0.20% | ~27 |
-| Siege Tower | 0.20% | ~27 |
-| Necropolis in Waset | 0.20% | ~27 |
 | Centenarian | 0.10% | ~14 |
 | Lighthouse in Alexandria | 0.10% | ~14 |
 | Musaeum in Alexandria | 0.10% | ~14 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,598 (Ranked 119)  
+Progressed: 13,600 (Ranked 119)  
 Completed: 5 (0.04%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -432,7 +432,7 @@ Completed: 5 (0.04%) (Ranked 235)
 | 2023-08-24 | 13,546 | 5 |
 | 2023-08-25 | 13,563 | 5 |
 | 2023-08-26 | 13,590 | 5 |
-| 2023-08-27 | 13,598 | 5 |
+| 2023-08-27 | 13,600 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,799 (Ranked 208)  

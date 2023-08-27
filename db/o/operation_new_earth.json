@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1112,
+  "EOS_Progressed": 1113,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 1,
@@ -3896,6 +3896,11 @@
       "Time": "2023-08-27T05:04:35.4654598+00:00",
       "NumProgressed": 1112,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-27T07:04:36.6670819+00:00",
+      "NumProgressed": 1113,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -3907,7 +3912,7 @@
       "Name": "Know The Enemy",
       "Percentage": 4,
       "XP": 75,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -3931,7 +3936,7 @@
       "Name": "Player Betrayer",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ach_gold_rewards_100",
@@ -3979,7 +3984,7 @@
       "Name": "Silver Achiever",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "objective_headquarters_10",
@@ -3995,7 +4000,7 @@
       "Name": "Moving On Up",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "objective_headquarters_20",
@@ -4027,7 +4032,7 @@
       "Name": "Sergeant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -4163,7 +4168,7 @@
       "Name": "Defenses Online",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -4210,14 +4215,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1112,
+      "Progressed": 1113,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-27T06:06:44.3881498+00:00",
+  "LastChanged_Achievements": "2023-08-27T07:04:36.6670812+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:58:05.1002416+00:00",
-  "LastUpdate_Ratings": "2023-08-27T06:01:12.2029966+00:00",
-  "LastUpdate_Achievements": "2023-08-27T06:06:44.388228+00:00"
+  "LastUpdate_Ratings": "2023-08-27T06:59:07.3081614+00:00",
+  "LastUpdate_Achievements": "2023-08-27T07:04:36.6671796+00:00"
 }

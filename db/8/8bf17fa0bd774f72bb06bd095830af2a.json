@@ -279,9 +279,9 @@
       "ID": "SteamAchievment_CompleteFifteenChallenges",
       "SetID": "b8gj0ip",
       "Name": "Amateur of Challenges",
-      "Percentage": 9,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SteamAchievment_CompleteOneChallenge",
@@ -319,9 +319,9 @@
       "ID": "SteamAchievment_CompleteQuest05",
       "SetID": "b8gj0ip",
       "Name": "Monster Slayer",
-      "Percentage": 9,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SteamAchievment_CompleteQuest06",
@@ -454,8 +454,8 @@
   ],
   "FirstSeen": "2023-08-10T10:57:59.2838137+00:00",
   "FirstSeenAchievements": "2023-05-30T14:00:09.5243374+00:00",
-  "LastChanged_Achievements": "2023-08-27T06:08:32.8294567+00:00",
+  "LastChanged_Achievements": "2023-08-27T07:06:00.8099884+00:00",
   "LastUpdate_AppInfo": "2023-08-22T18:57:01.7235597+00:00",
-  "LastUpdate_Ratings": "2023-08-27T06:02:04.8085942+00:00",
-  "LastUpdate_Achievements": "2023-08-27T06:08:32.8294888+00:00"
+  "LastUpdate_Ratings": "2023-08-27T06:59:39.7918222+00:00",
+  "LastUpdate_Achievements": "2023-08-27T07:06:00.8100197+00:00"
 }

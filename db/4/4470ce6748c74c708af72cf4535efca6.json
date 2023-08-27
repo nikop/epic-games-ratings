@@ -4,7 +4,7 @@
   "ProductSlug": "warstone-td-8fe138",
   "Ranking_EOS_Progress": 402,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -335,17 +335,17 @@
       "ID": "32",
       "SetID": "5e3maia",
       "Name": "Lionheart",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "33",
       "SetID": "5e3maia",
       "Name": "Arcane Arts",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "34",
@@ -367,17 +367,17 @@
       "ID": "36",
       "SetID": "5e3maia",
       "Name": "Stormtrooper",
-      "Percentage": 15,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "37",
       "SetID": "5e3maia",
       "Name": "Veteran",
-      "Percentage": 21,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "38",
@@ -702,8 +702,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-08-27T06:08:14.69294+00:00",
+  "LastChanged_Achievements": "2023-08-27T07:05:45.2792773+00:00",
   "LastUpdate_AppInfo": "2023-08-25T22:57:10.6988807+00:00",
-  "LastUpdate_Ratings": "2023-08-27T06:01:05.2784642+00:00",
-  "LastUpdate_Achievements": "2023-08-27T06:08:14.6930287+00:00"
+  "LastUpdate_Ratings": "2023-08-27T06:59:03.4956497+00:00",
+  "LastUpdate_Achievements": "2023-08-27T07:05:45.2793676+00:00"
 }

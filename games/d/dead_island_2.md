@@ -5,12 +5,12 @@ Rating: 4.54 (Ranked 502)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Break A Leg | 0.30% | ~1,999 |
 | Hotel California | 0.30% | ~1,999 |
 | Welcome To Hell-A | 0.30% | ~1,999 |
 | Dr. Reed, I Presume? | 0.20% | ~1,333 |
 | Git Gutte! | 0.20% | ~1,333 |
 | Bookworm | 0.20% | ~1,333 |
-| Break A Leg | 0.20% | ~1,333 |
 | But Doctor, I am Butcho | 0.20% | ~1,333 |
 | Slayer Squad | 0.20% | ~1,333 |
 | Can't Handle the Truth | 0.20% | ~1,333 |
@@ -25,6 +25,7 @@ Rating: 4.54 (Ranked 502)
 | I Am the Resurrection | 0.20% | ~1,333 |
 | Stacking the Deck | 0.20% | ~1,333 |
 | Personal Assistant Personally Assisted | 0.20% | ~1,333 |
+| Our True Nature | 0.20% | ~1,333 |
 | This is My Weapon | 0.20% | ~1,333 |
 | Making Your Mark | 0.10% | ~666 |
 | Anger Management | 0.10% | ~666 |
@@ -46,12 +47,11 @@ Rating: 4.54 (Ranked 502)
 | Survival Skills | 0.10% | ~666 |
 | Max Headroom | 0.10% | ~666 |
 | Go, Bobcats! | 0.10% | ~666 |
-| Our True Nature | 0.10% | ~666 |
 | Variety is the Spice of Death | 0.10% | ~666 |
 | Rising Star | 0.10% | ~666 |
 | Bucket List | 0.10% | ~666 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 666,445 (Ranked 22)  
+Progressed: 666,478 (Ranked 22)  
 Completed: 2,079 (0.31%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 2,079 (0.31%) (Ranked 172)
 | 2023-08-24 | 664,478 | 2,059 |
 | 2023-08-25 | 665,272 | 2,068 |
 | 2023-08-26 | 666,250 | 2,078 |
-| 2023-08-27 | 666,445 | 2,079 |
+| 2023-08-27 | 666,478 | 2,079 |
 ## Awards
 Max (Great Boss Battles): 5,770  (Ranked 61)  
 Sum: 8,494 (Ranked 97)  

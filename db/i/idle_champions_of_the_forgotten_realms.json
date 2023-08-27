@@ -6074,10 +6074,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 31233,
       "NumberOfAwardsMax": 5189
+    },
+    {
+      "Time": "2023-08-27T07:00:55.2836847+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 31241,
+      "NumberOfAwardsMax": 5189
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31233,
+  "NumberOfAwards": 31241,
   "NumberOfAwardsMax": 5189,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6085,7 +6091,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 5151
+      "Count": 5159
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6124,9 +6130,9 @@
       "Count": 3377
     }
   ],
-  "EOS_Progressed": 225297,
+  "EOS_Progressed": 225303,
   "EOS_Completed": 2219,
-  "EOS_NewPlayers": 1792,
+  "EOS_NewPlayers": 1789,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -20224,6 +20230,11 @@
       "Time": "2023-08-27T06:10:25.015073+00:00",
       "NumProgressed": 225297,
       "NumCompleted": 2219
+    },
+    {
+      "Time": "2023-08-27T07:07:35.7083247+00:00",
+      "NumProgressed": 225303,
+      "NumCompleted": 2219
     }
   ],
   "TotalAchievements": 516,
@@ -23379,7 +23390,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1126
+      "UsersEstimate": 1127
     },
     {
       "ID": "objective_completed_70",
@@ -24362,21 +24373,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 191571,
+      "Progressed": 191577,
       "Completed": 3310
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 225297,
+      "Progressed": 225303,
       "Completed": 2219
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-08-27T02:17:17.017055+00:00",
-  "LastChanged_Achievements": "2023-08-27T06:10:25.0150718+00:00",
+  "LastChanged": "2023-08-27T07:00:55.2836845+00:00",
+  "LastChanged_Achievements": "2023-08-27T07:07:35.7083239+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:53.3345914+00:00",
-  "LastUpdate_Ratings": "2023-08-27T06:03:51.3222104+00:00",
-  "LastUpdate_Achievements": "2023-08-27T06:10:25.0186352+00:00"
+  "LastUpdate_Ratings": "2023-08-27T07:00:55.2836853+00:00",
+  "LastUpdate_Achievements": "2023-08-27T07:07:35.711769+00:00"
 }

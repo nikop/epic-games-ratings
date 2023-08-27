@@ -1647,9 +1647,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13598,
+  "EOS_Progressed": 13600,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10352,6 +10352,11 @@
       "Time": "2023-08-27T06:09:58.4712393+00:00",
       "NumProgressed": 13598,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-27T07:07:12.8112504+00:00",
+      "NumProgressed": 13600,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -10417,9 +10422,9 @@
       "ID": "ACHIEVEMENT_ASSASSINATED_BY_HEIR",
       "SetID": "9201eeb",
       "Name": "Bad Heir Day",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 68
+      "UsersEstimate": 82
     },
     {
       "ID": "ACHIEVEMENT_ASSASSINATED_HEIR",
@@ -10825,9 +10830,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_GREAT",
       "SetID": "7l38kb8",
       "Name": "Great",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 136
+      "UsersEstimate": 272
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_HOLY",
@@ -10897,9 +10902,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_LION",
       "SetID": "9201eeb",
       "Name": "Lion",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 122
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MAGNIFICENT",
@@ -10921,9 +10926,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_MIGHTY",
       "SetID": "9201eeb",
       "Name": "Mighty",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 136
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_NOBLE",
@@ -10937,9 +10942,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_OLD",
       "SetID": "9201eeb",
       "Name": "Old",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 68
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_PEACEMAKER",
@@ -12161,9 +12166,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_ASSYRIA",
       "SetID": "7l38kb8",
       "Name": "Assyrian Paganism",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 95
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_BABYLONIA",
@@ -12449,9 +12454,9 @@
       "ID": "ACHIEVEMENT_UNIT_SIEGE_TOWER",
       "SetID": "9201eeb",
       "Name": "Siege Tower",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 41
     },
     {
       "ID": "ACHIEVEMENT_UNIT_TURRETED_ELEPHANT",
@@ -12569,9 +12574,9 @@
       "ID": "ACHIEVEMENT_WASET_NECROPOLIS",
       "SetID": "9201eeb",
       "Name": "Necropolis in Waset",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 41
     },
     {
       "ID": "ACHIEVEMENT_WIN_1V1",
@@ -12730,21 +12735,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13598,
+      "Progressed": 13600,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13598,
+      "Progressed": 13600,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-24T04:00:31.5764786+00:00",
-  "LastChanged_Achievements": "2023-08-27T06:09:58.4712382+00:00",
+  "LastChanged_Achievements": "2023-08-27T07:07:12.8112492+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:39.7773306+00:00",
-  "LastUpdate_Ratings": "2023-08-27T06:03:34.67377+00:00",
-  "LastUpdate_Achievements": "2023-08-27T06:09:58.4722711+00:00"
+  "LastUpdate_Ratings": "2023-08-27T07:00:43.7082807+00:00",
+  "LastUpdate_Achievements": "2023-08-27T07:07:12.8122602+00:00"
 }

@@ -553,9 +553,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 339945,
+  "EOS_Progressed": 339946,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1482,
+  "EOS_NewPlayers": 1476,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14788,6 +14788,11 @@
       "Time": "2023-08-27T06:06:31.4587117+00:00",
       "NumProgressed": 339945,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-27T07:04:25.7824473+00:00",
+      "NumProgressed": 339946,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -14815,7 +14820,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 40793
+      "UsersEstimate": 40794
     },
     {
       "ID": "ach004",
@@ -14855,7 +14860,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 40793
+      "UsersEstimate": 40794
     },
     {
       "ID": "ach009",
@@ -15103,7 +15108,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 33994
+      "UsersEstimate": 33995
     },
     {
       "ID": "ach040",
@@ -15263,7 +15268,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 33994
+      "UsersEstimate": 33995
     },
     {
       "ID": "ach060",
@@ -15438,7 +15443,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 339945,
+      "Progressed": 339946,
       "Completed": 7
     }
   ],
@@ -15446,8 +15451,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-08-26T18:00:02.0807583+00:00",
-  "LastChanged_Achievements": "2023-08-27T06:06:31.4587109+00:00",
+  "LastChanged_Achievements": "2023-08-27T07:04:25.7824465+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:37.3542744+00:00",
-  "LastUpdate_Ratings": "2023-08-27T06:03:31.0484176+00:00",
-  "LastUpdate_Achievements": "2023-08-27T06:06:31.4589103+00:00"
+  "LastUpdate_Ratings": "2023-08-27T07:00:40.7580354+00:00",
+  "LastUpdate_Achievements": "2023-08-27T07:04:25.7826761+00:00"
 }

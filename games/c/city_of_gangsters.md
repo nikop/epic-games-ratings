@@ -12,12 +12,12 @@ Rating: 4.27 (Ranked 817)
 | Extraordinary Logistics | 14.00% | ~47,592 |
 | Dirty Money | 13.00% | ~44,193 |
 | Family First | 13.00% | ~44,193 |
-| Cleaning House | 12.00% | ~40,793 |
-| Room in the Back | 12.00% | ~40,793 |
+| Cleaning House | 12.00% | ~40,794 |
+| Room in the Back | 12.00% | ~40,794 |
 | Beating the Heat | 11.00% | ~37,394 |
 | Booze Baron | 11.00% | ~37,394 |
-| Friends on the Force | 10.00% | ~33,994 |
-| Neighborhood Watch | 10.00% | ~33,994 |
+| Friends on the Force | 10.00% | ~33,995 |
+| Neighborhood Watch | 10.00% | ~33,995 |
 | Core Corps | 8.00% | ~27,196 |
 | Sizeable Stash | 8.00% | ~27,196 |
 | Street Fighter | 7.00% | ~23,796 |
@@ -86,7 +86,7 @@ Rating: 4.27 (Ranked 817)
 | High Pillow | 0.10% | ~340 |
 | Station Master | 0.10% | ~340 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 339,945 (Ranked 42)  
+Progressed: 339,946 (Ranked 42)  
 Completed: 7 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,7 +215,7 @@ Completed: 7 (0.00%) (Ranked 265)
 | 2023-08-24 | 339,443 | 7 |
 | 2023-08-25 | 339,657 | 7 |
 | 2023-08-26 | 339,902 | 7 |
-| 2023-08-27 | 339,945 | 7 |
+| 2023-08-27 | 339,946 | 7 |
 ## Awards
 Max (Great for Beginners): 33  (Ranked 449)  
 Sum: 164 (Ranked 389)  

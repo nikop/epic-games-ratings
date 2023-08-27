@@ -22,9 +22,9 @@ Number of Ratings: 371  (23.09.2022)
 | The Emperor Protects | 1.00% | ~32 |
 | Nemesis Master | 1.00% | ~32 |
 | Gunmaster | 1.00% | ~32 |
+| Just a Scratch | 1.00% | ~32 |
 | Hive Exterminator | 1.00% | ~32 |
 | Corruption Cleanser | 0.90% | ~29 |
-| Just a Scratch | 0.90% | ~29 |
 | Execution Force | 0.90% | ~29 |
 | Only in Death | 0.60% | ~19 |
 | Junk Banishment | 0.60% | ~19 |
