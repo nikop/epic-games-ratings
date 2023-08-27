@@ -39,7 +39,7 @@
 | 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.04% |
 | 38 | [Scorn](games/s/scorn.md) | 7.02% |
 | 39 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 6.98% |
-| 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.81% |
+| 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.80% |
 | 41 | [Time Loader](games/t/time_loader.md) | 6.78% |
 | 42 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 6.67% |
 | 42 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.67% |
@@ -70,8 +70,8 @@
 | 68 | [Bunny Park](games/b/bunny_park.md) | 3.37% |
 | 69 | [The Complex](games/t/the_complex.md) | 3.33% |
 | 70 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
-| 71 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.15% |
 | 71 | [HordeCore](games/h/hordecore.md) | 3.15% |
+| 72 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.14% |
 | 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.10% |
 | 74 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.02% |
 | 75 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.95% |
@@ -104,7 +104,7 @@
 | 102 | [Iron Danger](games/i/iron_danger.md) | 1.57% |
 | 103 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.56% |
 | 103 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.56% |
-| 105 | [Five Dates](games/f/five_dates.md) | 1.54% |
+| 105 | [Five Dates](games/f/five_dates.md) | 1.53% |
 | 106 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.49% |
 | 107 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.45% |
 | 107 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.45% |
