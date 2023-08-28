@@ -3,7 +3,7 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.00% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.31% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 39.34% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 38.71% |
 | 5 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 33.33% |
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.95% |
 | 7 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
@@ -92,7 +92,7 @@
 | 90 | [Bloodshore](games/b/bloodshore.md) | 2.20% |
 | 91 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
 | 92 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.01% |
-| 93 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 1.99% |
+| 93 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 1.97% |
 | 94 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
 | 95 | [Night Book](games/n/night_book.md) | 1.86% |
 | 96 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
@@ -168,10 +168,10 @@
 | 166 | [Wildermyth](games/w/wildermyth.md) | 0.36% |
 | 167 | [The Surge](games/t/the_surge.md) | 0.35% |
 | 167 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.35% |
+| 169 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.34% |
 | 169 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.34% |
 | 169 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.34% |
-| 171 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.33% |
-| 171 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.33% |
+| 172 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.33% |
 | 173 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 173 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
 | 175 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
@@ -559,4 +559,4 @@
 | 265 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 265 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 265 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,122 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,123 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
