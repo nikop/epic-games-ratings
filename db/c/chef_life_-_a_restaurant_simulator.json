@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -2603,9 +2603,9 @@
       "ID": "RecipeDifferent10",
       "SetID": "d1bm05f",
       "Name": "Home Cook",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 161
+      "UsersEstimate": 167
     },
     {
       "ID": "RecipeDifferent30",
@@ -2732,8 +2732,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-08-28T14:05:32.7291756+00:00",
+  "LastChanged_Achievements": "2023-08-28T15:05:52.438464+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:23.7723182+00:00",
-  "LastUpdate_Ratings": "2023-08-28T14:02:20.8718251+00:00",
-  "LastUpdate_Achievements": "2023-08-28T14:05:32.7292116+00:00"
+  "LastUpdate_Ratings": "2023-08-28T15:02:45.7354694+00:00",
+  "LastUpdate_Achievements": "2023-08-28T15:05:52.4385142+00:00"
 }

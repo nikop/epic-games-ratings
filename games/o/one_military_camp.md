@@ -14,10 +14,10 @@
 | Desert Rat | 9.00% | ~14 |
 | Desert Power | 8.00% | ~13 |
 | Good payer | 7.00% | ~11 |
-| Perfect Soldier | 6.00% | ~9 |
-| Health Care | 6.00% | ~9 |
-| Fuel Tycoon | 6.00% | ~9 |
-| Ammo Tycoon | 6.00% | ~9 |
+| Perfect Soldier | 6.00% | ~10 |
+| Health Care | 6.00% | ~10 |
+| Fuel Tycoon | 6.00% | ~10 |
+| Ammo Tycoon | 6.00% | ~10 |
 | Jantine: the Misfortunes of Evil | 5.00% | ~8 |
 | Healing | 5.00% | ~8 |
 | Pathfinder | 5.00% | ~8 |
@@ -49,7 +49,7 @@
 | Against Adversity | 0.00% | ~0 |
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 158 (Ranked 311)  
+Progressed: 159 (Ranked 311)  
 Completed: 0 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,3 +88,4 @@ Completed: 0 (0.00%) (Ranked 265)
 | 2023-08-25 | 155 | 0 |
 | 2023-08-26 | 156 | 0 |
 | 2023-08-27 | 158 | 0 |
+| 2023-08-28 | 159 | 0 |

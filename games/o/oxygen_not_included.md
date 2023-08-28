@@ -4,12 +4,12 @@
 Rating: 4.84 (Ranked 48)  
 Number of Ratings: 897  (23.09.2022)  
 ## Awards
-Max (Extremely Fun): 263  (Ranked 250)  
-Sum: 2,286 (Ranked 186)  
+Max (Extremely Fun): 264  (Ranked 250)  
+Sum: 2,287 (Ranked 186)  
 Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
-| This game is Extremely Fun | 263 |
+| This game is Extremely Fun | 264 |
 | This game has Diverse Characters | 249 |
 | This game is Educational | 236 |
 | This game has Quickly Understood Controls | 235 |
@@ -195,3 +195,4 @@ Diff (max vs sum): 64
 | 2023-08-25 | 4.84 | - | 263 | 2,283 |
 | 2023-08-26 | 4.84 | - | 263 | 2,285 |
 | 2023-08-27 | 4.84 | - | 263 | 2,286 |
+| 2023-08-28 | 4.84 | - | 264 | 2,287 |

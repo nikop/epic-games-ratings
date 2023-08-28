@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 252,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -232,9 +232,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17710,
+  "EOS_Progressed": 17711,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9252,6 +9252,11 @@
       "Time": "2023-08-28T14:07:23.7453842+00:00",
       "NumProgressed": 17710,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-28T15:07:50.6755151+00:00",
+      "NumProgressed": 17711,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -9327,7 +9332,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4073
+      "UsersEstimate": 4074
     },
     {
       "ID": "0010",
@@ -9479,7 +9484,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4073
+      "UsersEstimate": 4074
     },
     {
       "ID": "0029",
@@ -9550,7 +9555,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17710,
+      "Progressed": 17711,
       "Completed": 1
     }
   ],
@@ -9558,8 +9563,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-27T03:58:40.60023+00:00",
-  "LastChanged_Achievements": "2023-08-28T14:07:23.7453837+00:00",
+  "LastChanged_Achievements": "2023-08-28T15:07:50.6755144+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:14.6586711+00:00",
-  "LastUpdate_Ratings": "2023-08-28T13:58:24.6072917+00:00",
-  "LastUpdate_Achievements": "2023-08-28T14:07:23.7454453+00:00"
+  "LastUpdate_Ratings": "2023-08-28T14:58:45.1415734+00:00",
+  "LastUpdate_Achievements": "2023-08-28T15:07:50.6756178+00:00"
 }

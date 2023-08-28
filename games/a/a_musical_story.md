@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ECG | 94.00% | ~88 |
-| Rehearsal | 93.00% | ~87 |
-| Daily Life | 89.00% | ~84 |
+| ECG | 95.00% | ~89 |
+| Rehearsal | 94.00% | ~88 |
+| Daily Life | 90.00% | ~85 |
 | Assembly Line Work | 86.00% | ~81 |
 | Solitude | 81.00% | ~76 |
 | Pinewood, Here we come! | 73.00% | ~69 |
@@ -18,7 +18,7 @@
 | Sound of Noise | 46.00% | ~43 |
 | Love at First Sight | 41.00% | ~39 |
 | First Kiss | 35.00% | ~33 |
-| Symbiosis | 33.00% | ~31 |
+| Symbiosis | 34.00% | ~32 |
 | A Bigger Band | 31.00% | ~29 |
 | Fuel | 29.00% | ~27 |
 | Alone Together | 27.00% | ~25 |

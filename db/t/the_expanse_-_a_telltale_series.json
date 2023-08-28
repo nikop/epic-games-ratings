@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -34,9 +34,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9442,
+  "EOS_Progressed": 9451,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 810,
+  "EOS_NewPlayers": 815,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3454,6 +3454,11 @@
       "Time": "2023-08-28T14:03:26.499579+00:00",
       "NumProgressed": 9442,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-28T15:03:20.6283806+00:00",
+      "NumProgressed": 9451,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -3466,7 +3471,7 @@
       "Name": "Urshanabi Hoarder",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "10",
@@ -3506,7 +3511,7 @@
       "Name": "Doctor Approved",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 1605
+      "UsersEstimate": 1607
     },
     {
       "ID": "15",
@@ -3514,7 +3519,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 1983
+      "UsersEstimate": 1985
     },
     {
       "ID": "16",
@@ -3530,7 +3535,7 @@
       "Name": "Spore Taste",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 1511
+      "UsersEstimate": 1512
     },
     {
       "ID": "18",
@@ -3538,7 +3543,7 @@
       "Name": "Bottoms up!",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "19",
@@ -3546,7 +3551,7 @@
       "Name": "Martian Music",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 1511
+      "UsersEstimate": 1512
     },
     {
       "ID": "2",
@@ -3562,7 +3567,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "21",
@@ -3642,7 +3647,7 @@
       "Name": "Captain Drummer",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1700
+      "UsersEstimate": 1701
     },
     {
       "ID": "30",
@@ -3666,7 +3671,7 @@
       "Name": "Data Master",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "6",
@@ -3674,7 +3679,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1322
+      "UsersEstimate": 1323
     },
     {
       "ID": "7",
@@ -3682,7 +3687,7 @@
       "Name": "Grave Robber",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "8",
@@ -3690,7 +3695,7 @@
       "Name": "Data Recoverer",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "9",
@@ -3698,14 +3703,14 @@
       "Name": "Impossible Objects",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1700
+      "UsersEstimate": 1701
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 9442,
+      "Progressed": 9451,
       "Completed": 0
     }
   ],
@@ -3713,8 +3718,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-08-27T16:57:45.7126871+00:00",
-  "LastChanged_Achievements": "2023-08-28T14:03:26.4995786+00:00",
+  "LastChanged_Achievements": "2023-08-28T15:03:20.6283799+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:45.4170889+00:00",
-  "LastUpdate_Ratings": "2023-08-28T13:57:49.9226908+00:00",
-  "LastUpdate_Achievements": "2023-08-28T14:03:26.4996125+00:00"
+  "LastUpdate_Ratings": "2023-08-28T14:58:06.2833887+00:00",
+  "LastUpdate_Achievements": "2023-08-28T15:03:20.6284301+00:00"
 }

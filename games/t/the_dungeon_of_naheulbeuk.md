@@ -6,19 +6,20 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 25.00% | ~54,627 |
-| Where's that freaking Dwarf? | 3.00% | ~6,555 |
-| Alt+F4 | 3.00% | ~6,555 |
-| Déjà vu | 2.00% | ~4,370 |
-| A beer, two curses, three companions | 2.00% | ~4,370 |
-| Sock! SOCK! | 2.00% | ~4,370 |
-| Speedrun | 2.00% | ~4,370 |
+| Sowwy! | 25.00% | ~54,632 |
+| Where's that freaking Dwarf? | 3.00% | ~6,556 |
+| Alt+F4 | 3.00% | ~6,556 |
+| Déjà vu | 2.00% | ~4,371 |
+| A beer, two curses, three companions | 2.00% | ~4,371 |
+| Sock! SOCK! | 2.00% | ~4,371 |
+| Speedrun | 2.00% | ~4,371 |
 | Livin' in a dwarven paradise | 1.00% | ~2,185 |
 | Way of the Wimp | 1.00% | ~2,185 |
 | The plot thickens... At the tavern | 1.00% | ~2,185 |
 | GG EZ | 1.00% | ~2,185 |
 | DM intervention | 1.00% | ~2,185 |
 | Fireproof Wizardess | 1.00% | ~2,185 |
+| The Woman in the High Castle | 0.90% | ~1,967 |
 | Team Building Exercise | 0.90% | ~1,967 |
 | Oh, when I'll be level 10... | 0.90% | ~1,967 |
 | The demons' feast | 0.80% | ~1,748 |
@@ -27,22 +28,21 @@ Number of Ratings: 118  (23.09.2022)
 | Urik's Depths | 0.80% | ~1,748 |
 | The Dungeon Master | 0.80% | ~1,748 |
 | The Statuette of Gladeulfeurah | 0.80% | ~1,748 |
-| The Woman in the High Castle | 0.80% | ~1,748 |
 | A tale of adventurers not quite like the others... | 0.80% | ~1,748 |
 | Shiny and Crôm | 0.70% | ~1,530 |
 | %#*!$*! | 0.70% | ~1,530 |
+| The beards of change | 0.70% | ~1,530 |
 | The Ranger of Chaos | 0.70% | ~1,530 |
 | I am the night | 0.70% | ~1,530 |
 | Res Judicata | 0.60% | ~1,311 |
 | The Famous Dungeon of Naheulbeuk | 0.60% | ~1,311 |
 | Dwarf Fortress | 0.60% | ~1,311 |
 | Look but don't touch | 0.60% | ~1,311 |
-| The beards of change | 0.60% | ~1,311 |
 | Thieves' Guild Accreditation | 0.60% | ~1,311 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.50% | ~1,093 |
+| Lust and Debauchery | 0.50% | ~1,093 |
 | Dead for good | 0.40% | ~874 |
 | Gargantua | 0.40% | ~874 |
-| Lust and Debauchery | 0.40% | ~874 |
 | Material Girl | 0.40% | ~874 |
 | We come in peace | 0.30% | ~656 |
 | In Navalu's footsteps | 0.30% | ~656 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~219 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,508 (Ranked 56)  
+Progressed: 218,530 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 2 (0.00%) (Ranked 265)
 | 2023-08-25 | 217,227 | 2 |
 | 2023-08-26 | 217,758 | 2 |
 | 2023-08-27 | 218,331 | 2 |
-| 2023-08-28 | 218,508 | 2 |
+| 2023-08-28 | 218,530 | 2 |
 ## Awards
 Max (Character Customization): 180  (Ranked 282)  
 Sum: 226 (Ranked 360)  

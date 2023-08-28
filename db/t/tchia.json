@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 158,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -218,7 +218,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7390,
+  "EOS_Progressed": 7392,
   "EOS_Completed": 32,
   "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
@@ -6558,6 +6558,11 @@
       "Time": "2023-08-28T13:11:05.4791153+00:00",
       "NumProgressed": 7390,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-08-28T15:08:14.995818+00:00",
+      "NumProgressed": 7392,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 21,
@@ -6609,7 +6614,7 @@
       "Name": "Clay Pigeon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "ENERGY_SAVER",
@@ -6617,7 +6622,7 @@
       "Name": "Energy Saver",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1257
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -6657,7 +6662,7 @@
       "Name": "Historian",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "ICONOCLAST",
@@ -6665,7 +6670,7 @@
       "Name": "Iconoclast",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "IN_A_PINCH",
@@ -6713,7 +6718,7 @@
       "Name": "Soul-Canon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "THE_JOURNEY_ONWARDS",
@@ -6736,7 +6741,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7390,
+      "Progressed": 7392,
       "Completed": 32
     }
   ],
@@ -6744,8 +6749,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-08-26T01:39:24.8497831+00:00",
-  "LastChanged_Achievements": "2023-08-28T14:07:46.1323228+00:00",
+  "LastChanged_Achievements": "2023-08-28T15:08:14.9958174+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:38.3127322+00:00",
-  "LastUpdate_Ratings": "2023-08-28T14:01:22.0939756+00:00",
-  "LastUpdate_Achievements": "2023-08-28T14:07:46.1323656+00:00"
+  "LastUpdate_Ratings": "2023-08-28T15:02:00.8244909+00:00",
+  "LastUpdate_Achievements": "2023-08-28T15:08:14.9958867+00:00"
 }

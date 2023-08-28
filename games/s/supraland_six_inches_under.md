@@ -12,7 +12,7 @@ Number of Ratings: 209  (23.09.2022)
 | Rocket Launched | 97.00% | ~2,150 |
 | Speed | 97.00% | ~2,150 |
 | High Jump | 96.00% | ~2,127 |
-| Pickaxe | 94.00% | ~2,083 |
+| Pickaxe | 95.00% | ~2,105 |
 | Revenge | 94.00% | ~2,083 |
 | Cage Town | 94.00% | ~2,083 |
 | Force Beam | 93.00% | ~2,061 |
@@ -51,7 +51,7 @@ Number of Ratings: 209  (23.09.2022)
 | Faster | 60.00% | ~1,330 |
 | Much Magic | 58.00% | ~1,285 |
 | Chest Detector | 55.00% | ~1,219 |
-| Flames | 52.00% | ~1,152 |
+| Flames | 53.00% | ~1,174 |
 | Momentum | 46.00% | ~1,019 |
 | You're unsure if you broke the game or not | 42.00% | ~931 |
 | But wait... ...There's more... | 40.00% | ~886 |

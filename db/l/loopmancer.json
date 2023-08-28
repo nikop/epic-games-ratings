@@ -4,8 +4,8 @@
   "ProductSlug": "loopmancer",
   "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 3123,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-07-27T03:58:00+00:00",
     "PcReleaseDate": "2022-07-13T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 97,
+  "EOS_Progressed": 96,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": -1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -329,6 +329,11 @@
       "Time": "2023-08-20T11:08:06.4452304+00:00",
       "NumProgressed": 97,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-28T15:04:27.3967093+00:00",
+      "NumProgressed": 96,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -338,7 +343,7 @@
       "ID": "ACH_AVOID_BIGGUY",
       "SetID": "6d82akp",
       "Name": "Break no Sweat",
-      "Percentage": 99,
+      "Percentage": 100,
       "XP": 5,
       "UsersEstimate": 96
     },
@@ -354,7 +359,7 @@
       "ID": "ACH_AVOID_SNIPER",
       "SetID": "6d82akp",
       "Name": "Black Cat\u0027s Warning",
-      "Percentage": 104,
+      "Percentage": 105,
       "XP": 5,
       "UsersEstimate": 101
     },
@@ -442,7 +447,7 @@
       "ID": "ACH_ENDING_PRISON",
       "SetID": "6d82akp",
       "Name": "Reappearance",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 50,
       "UsersEstimate": 15
     },
@@ -506,7 +511,7 @@
       "ID": "ACH_GET_STORY_TRUTH",
       "SetID": "6d82akp",
       "Name": "Targeting the Enemy",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 5,
       "UsersEstimate": 67
     },
@@ -610,7 +615,7 @@
       "ID": "ACH_PASS_PREFACE_ON_ROOF",
       "SetID": "6d82akp",
       "Name": "Unavoidable",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 5,
       "UsersEstimate": 62
     },
@@ -642,7 +647,7 @@
       "ID": "ACH_SAVE_WIFE",
       "SetID": "6d82akp",
       "Name": "Reunion",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 20,
       "UsersEstimate": 41
     },
@@ -738,7 +743,7 @@
       "ID": "ACH_UNLOCK_CHARGE_ACTOR",
       "SetID": "6d82akp",
       "Name": "Every little bit counts",
-      "Percentage": 97,
+      "Percentage": 98,
       "XP": 5,
       "UsersEstimate": 94
     },
@@ -754,7 +759,7 @@
       "ID": "ACH_UNLOCK_SKILL",
       "SetID": "6d82akp",
       "Name": "Growth",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
       "UsersEstimate": 84
     },
@@ -762,7 +767,7 @@
       "ID": "ACH_UNPLUG_EBRAIN",
       "SetID": "6d82akp",
       "Name": "Revenge",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
       "UsersEstimate": 61
     },
@@ -795,7 +800,7 @@
     {
       "ID": "6d82akp",
       "IsBase": true,
-      "Progressed": 97,
+      "Progressed": 96,
       "Completed": 0
     }
   ],
@@ -803,8 +808,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.2220083+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.6600084+00:00",
   "LastChanged": "2023-03-31T05:58:38.2220085+00:00",
-  "LastChanged_Achievements": "2023-08-28T14:04:10.3303364+00:00",
+  "LastChanged_Achievements": "2023-08-28T15:04:27.3967083+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:26.596961+00:00",
-  "LastUpdate_Ratings": "2023-08-28T13:58:39.2779214+00:00",
-  "LastUpdate_Achievements": "2023-08-28T14:04:10.3303838+00:00"
+  "LastUpdate_Ratings": "2023-08-28T14:59:01.9576857+00:00",
+  "LastUpdate_Achievements": "2023-08-28T15:04:27.3967575+00:00"
 }

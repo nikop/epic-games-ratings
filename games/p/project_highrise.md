@@ -11,8 +11,8 @@
 | Campaign Launch | 42.00% | ~140 |
 | Dinner Dash | 42.00% | ~140 |
 | Need a Consult | 38.00% | ~127 |
+| It's Technical | 38.00% | ~127 |
 | Upgrade Unlock | 37.00% | ~124 |
-| It's Technical | 37.00% | ~124 |
 | Delegate Maintenance | 35.00% | ~117 |
 | Proper Walls | 34.00% | ~114 |
 | Destination Destiny | 32.00% | ~107 |
@@ -21,11 +21,11 @@
 | Smooth Service | 26.00% | ~87 |
 | Retail Revenue | 25.00% | ~84 |
 | Your Prestige is Rising | 24.00% | ~80 |
+| Don't Feel a Loan | 23.00% | ~77 |
 | Artfully Done | 22.00% | ~73 |
-| Don't Feel a Loan | 22.00% | ~73 |
 | People Mover | 22.00% | ~73 |
+| Emporium Empire | 22.00% | ~73 |
 | Lux Living | 21.00% | ~70 |
-| Emporium Empire | 21.00% | ~70 |
 | Leveled Up Shops | 20.00% | ~67 |
 | We Don't Need No Education | 20.00% | ~67 |
 | Get Electrified | 20.00% | ~67 |

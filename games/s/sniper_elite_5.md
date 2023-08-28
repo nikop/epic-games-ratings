@@ -22,8 +22,8 @@ Rating: 4.46 (Ranked 622)
 | Explosive Efficiency | 18.00% | ~637 |
 | Gunslinger | 17.00% | ~602 |
 | Just a Flesh Wound | 16.00% | ~566 |
+| Der Geist | 16.00% | ~566 |
 | Climbing the Ladder | 15.00% | ~531 |
-| Der Geist | 15.00% | ~531 |
 | Close Quarters | 15.00% | ~531 |
 | Fields of Glory | 14.00% | ~495 |
 | Skirmisher | 14.00% | ~495 |

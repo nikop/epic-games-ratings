@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 252,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -8287,10 +8287,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 39569,
       "NumberOfAwardsMax": 4813
+    },
+    {
+      "Time": "2023-08-28T14:58:41.8012981+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 39573,
+      "NumberOfAwardsMax": 4813
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 39569,
+  "NumberOfAwards": 39573,
   "NumberOfAwardsMax": 4813,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8346,7 +8352,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 3457
+      "Count": 3461
     },
     {
       "Text": "This game has Diverse Characters",
@@ -8367,9 +8373,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 47854,
+  "EOS_Progressed": 47855,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 343,
+  "EOS_NewPlayers": 338,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -20007,6 +20013,11 @@
       "Time": "2023-08-28T14:04:01.5221477+00:00",
       "NumProgressed": 47854,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-08-28T15:04:18.2469666+00:00",
+      "NumProgressed": 47855,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -20114,7 +20125,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 29191
+      "UsersEstimate": 29192
     },
     {
       "ID": "DeliveryGrapes",
@@ -20154,7 +20165,7 @@
       "Name": "Plant get enough",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 28712
+      "UsersEstimate": 28713
     },
     {
       "ID": "Harvested",
@@ -20170,7 +20181,7 @@
       "Name": "Own use",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 35890
+      "UsersEstimate": 35891
     },
     {
       "ID": "HorseJumps",
@@ -20194,7 +20205,7 @@
       "Name": "Giddy-up!",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 4785
+      "UsersEstimate": 4786
     },
     {
       "ID": "LoadedOldSavegame",
@@ -20202,7 +20213,7 @@
       "Name": "It\u0027s never too late to farm",
       "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 23448
+      "UsersEstimate": 23449
     },
     {
       "ID": "Mission",
@@ -20274,7 +20285,7 @@
       "Name": "This is just my weekend vehicle",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 27755
+      "UsersEstimate": 27756
     },
     {
       "ID": "PetDog",
@@ -20306,7 +20317,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 30148
+      "UsersEstimate": 30149
     },
     {
       "ID": "Stones",
@@ -20314,7 +20325,7 @@
       "Name": "Rock on",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5742
+      "UsersEstimate": 5743
     },
     {
       "ID": "TractorDriving",
@@ -20322,7 +20333,7 @@
       "Name": "Field Trip",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 20577
+      "UsersEstimate": 20578
     },
     {
       "ID": "TruckDriving",
@@ -20361,15 +20372,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 47854,
+      "Progressed": 47855,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
-  "LastChanged": "2023-08-28T13:58:21.5194051+00:00",
-  "LastChanged_Achievements": "2023-08-28T14:04:01.5221472+00:00",
+  "LastChanged": "2023-08-28T14:58:41.8012979+00:00",
+  "LastChanged_Achievements": "2023-08-28T15:04:18.2469659+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:11.3662748+00:00",
-  "LastUpdate_Ratings": "2023-08-28T13:58:21.5194056+00:00",
-  "LastUpdate_Achievements": "2023-08-28T14:04:01.5222286+00:00"
+  "LastUpdate_Ratings": "2023-08-28T14:58:41.801299+00:00",
+  "LastUpdate_Achievements": "2023-08-28T15:04:18.2471251+00:00"
 }

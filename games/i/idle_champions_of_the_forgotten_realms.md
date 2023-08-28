@@ -6,21 +6,21 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~4,513 |
+| A Brief Tour of the Realms | 2.00% | ~4,514 |
 | Beast Intentions | 0.80% | ~1,805 |
-| The Cursed Farmer | 0.70% | ~1,580 |
+| The Cursed Farmer | 0.80% | ~1,805 |
 | The Mad Wizard | 0.60% | ~1,354 |
 | The Hunt for The Last Breath | 0.60% | ~1,152 |
 | To Infinity's and Beyond | 0.50% | ~960 |
 | Were-verpowered | 0.40% | ~903 |
 | The Ring of Regeneration | 0.40% | ~903 |
+| Seeking Allies | 0.40% | ~903 |
 | Are Ya Chicken? | 0.40% | ~903 |
 | Maddening | 0.30% | ~677 |
 | A Persistent Buzzing | 0.30% | ~677 |
 | Terror in the Dark | 0.30% | ~677 |
 | A Mysterious Summons | 0.30% | ~677 |
 | The Crumbling Temple | 0.30% | ~677 |
-| Seeking Allies | 0.30% | ~677 |
 | Mad Cow Disease | 0.30% | ~677 |
 | Exploring Port Nyanzaru | 0.30% | ~677 |
 | Friendly Imps | 0.30% | ~677 |
@@ -35,6 +35,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hither of the Feywild | 0.20% | ~384 |
 | The Silken Swamp | 0.20% | ~451 |
 | Wet Feet | 0.20% | ~451 |
+| Don't Look Up! | 0.20% | ~451 |
 | Supply Run | 0.20% | ~451 |
 | Heavy Burden | 0.20% | ~451 |
 | Seeds of Destruction | 0.20% | ~384 |
@@ -124,6 +125,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Durable Deep | 0.20% | ~451 |
 | Expert Opinion | 0.20% | ~451 |
 | Dwarven Rumors | 0.20% | ~384 |
+| Sunblight | 0.20% | ~384 |
 | The Templar's Camp | 0.20% | ~451 |
 | Rescue in the Jungle | 0.20% | ~451 |
 | Rocky Reception | 0.20% | ~384 |
@@ -178,7 +180,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Levelheaded | 0.10% | ~192 |
 | The Madness of Zuggtmoy | 0.10% | ~192 |
 | It's So Pretty… | 0.10% | ~192 |
-| Don't Look Up! | 0.10% | ~226 |
 | The Cult of Lolth | 0.10% | ~192 |
 | Head over Heals | 0.10% | ~192 |
 | The Demon Lords of the Abyss | 0.10% | ~192 |
@@ -441,7 +442,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mimic Perception | 0.10% | ~192 |
 | Frozen in Fear | 0.10% | ~192 |
 | It's Cold Out There Today | 0.10% | ~192 |
-| Sunblight | 0.10% | ~192 |
 | Fortress Assault | 0.10% | ~192 |
 | Hats off to you! | 0.10% | ~192 |
 | It's Cold Out There Every Day | 0.10% | ~192 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~192 |
 | Animated Giff | 0.10% | ~192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,673 (Ranked 53)  
+Progressed: 225,685 (Ranked 53)  
 Completed: 2,223 (0.99%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -653,7 +653,7 @@ Completed: 2,223 (0.99%) (Ranked 120)
 | 2023-08-25 | 224,925 | 2,214 |
 | 2023-08-26 | 225,221 | 2,219 |
 | 2023-08-27 | 225,526 | 2,222 |
-| 2023-08-28 | 225,673 | 2,223 |
+| 2023-08-28 | 225,685 | 2,223 |
 ## Awards
 Max (Diverse Characters): 5,202  (Ranked 68)  
 Sum: 31,261 (Ranked 39)  

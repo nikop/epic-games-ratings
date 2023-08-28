@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 82,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 98,
-  "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -5868,9 +5868,9 @@
       "Count": 372
     }
   ],
-  "EOS_Progressed": 712782,
+  "EOS_Progressed": 712783,
   "EOS_Completed": 12875,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -17883,6 +17883,11 @@
       "Time": "2023-08-28T14:06:36.8887401+00:00",
       "NumProgressed": 712782,
       "NumCompleted": 12875
+    },
+    {
+      "Time": "2023-08-28T15:07:00.682051+00:00",
+      "NumProgressed": 712783,
+      "NumCompleted": 12875
     }
   ],
   "TotalAchievements": 50,
@@ -18268,9 +18273,9 @@
       "ID": "48_Arena_GoldCapture",
       "SetID": "14c2oii",
       "Name": "Secure, Protect, Leave",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 88
+      "UsersEstimate": 110
     },
     {
       "ID": "49_Arena_GoldSurvival",
@@ -18293,21 +18298,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 22083,
-      "Completed": 10561
+      "Progressed": 22084,
+      "Completed": 10562
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 712782,
+      "Progressed": 712783,
       "Completed": 12875
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-08-28T01:39:07.7993965+00:00",
-  "LastChanged_Achievements": "2023-08-28T14:06:36.8887396+00:00",
+  "LastChanged_Achievements": "2023-08-28T15:07:00.6820504+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:37.9351908+00:00",
-  "LastUpdate_Ratings": "2023-08-28T13:57:43.1908322+00:00",
-  "LastUpdate_Achievements": "2023-08-28T14:06:36.88883+00:00"
+  "LastUpdate_Ratings": "2023-08-28T14:57:58.2493837+00:00",
+  "LastUpdate_Achievements": "2023-08-28T15:07:00.682199+00:00"
 }

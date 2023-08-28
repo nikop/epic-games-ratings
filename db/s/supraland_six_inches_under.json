@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 417,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 21,
-  "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
     "PcReleaseDate": "2022-01-14T10:00:00+00:00",
@@ -1787,9 +1787,9 @@
       "ID": "FireGun",
       "SetID": "5lok9mm",
       "Name": "Flames",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 1152
+      "UsersEstimate": 1174
     },
     {
       "ID": "FloatingMan",
@@ -1963,9 +1963,9 @@
       "ID": "PickaxeWood",
       "SetID": "5lok9mm",
       "Name": "Pickaxe",
-      "Percentage": 94,
+      "Percentage": 95,
       "XP": 10,
-      "UsersEstimate": 2083
+      "UsersEstimate": 2105
     },
     {
       "ID": "Plumbster",
@@ -2091,8 +2091,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-08-21T16:57:49.4049479+00:00",
-  "LastChanged_Achievements": "2023-08-28T14:06:43.7549804+00:00",
+  "LastChanged_Achievements": "2023-08-28T15:07:07.9782158+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:35.5799147+00:00",
-  "LastUpdate_Ratings": "2023-08-28T13:58:45.678957+00:00",
-  "LastUpdate_Achievements": "2023-08-28T14:06:43.7550227+00:00"
+  "LastUpdate_Ratings": "2023-08-28T14:59:09.9840582+00:00",
+  "LastUpdate_Achievements": "2023-08-28T15:07:07.9782742+00:00"
 }

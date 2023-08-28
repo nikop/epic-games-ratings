@@ -6160,9 +6160,9 @@
       "Count": 3380
     }
   ],
-  "EOS_Progressed": 225673,
+  "EOS_Progressed": 225685,
   "EOS_Completed": 2223,
-  "EOS_NewPlayers": 1782,
+  "EOS_NewPlayers": 1780,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -20420,6 +20420,11 @@
       "Time": "2023-08-28T14:08:43.0710352+00:00",
       "NumProgressed": 225673,
       "NumCompleted": 2223
+    },
+    {
+      "Time": "2023-08-28T15:09:06.1072415+00:00",
+      "NumProgressed": 225685,
+      "NumCompleted": 2223
     }
   ],
   "TotalAchievements": 516,
@@ -20431,7 +20436,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4513
+      "UsersEstimate": 4514
     },
     {
       "ID": "objective_completed_10",
@@ -20901,9 +20906,9 @@
       "ID": "objective_completed_112",
       "SetID": "cc37lbc",
       "Name": "Don\u0027t Look Up!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 226
+      "UsersEstimate": 451
     },
     {
       "ID": "objective_completed_1121",
@@ -22101,9 +22106,9 @@
       "ID": "objective_completed_3",
       "SetID": "cc37lbc",
       "Name": "The Cursed Farmer",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1580
+      "UsersEstimate": 1805
     },
     {
       "ID": "objective_completed_34",
@@ -22221,9 +22226,9 @@
       "ID": "objective_completed_39",
       "SetID": "cc37lbc",
       "Name": "Seeking Allies",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 677
+      "UsersEstimate": 903
     },
     {
       "ID": "objective_completed_390",
@@ -23821,9 +23826,9 @@
       "ID": "objective_completed_832",
       "SetID": "415jc5c",
       "Name": "Sunblight",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 384
     },
     {
       "ID": "objective_completed_833",
@@ -24558,21 +24563,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 191947,
+      "Progressed": 191959,
       "Completed": 3322
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 225673,
+      "Progressed": 225685,
       "Completed": 2223
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-28T14:01:39.535012+00:00",
-  "LastChanged_Achievements": "2023-08-28T14:08:43.0710347+00:00",
+  "LastChanged_Achievements": "2023-08-28T15:09:06.1072408+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:53.3345914+00:00",
-  "LastUpdate_Ratings": "2023-08-28T14:01:39.5350127+00:00",
-  "LastUpdate_Achievements": "2023-08-28T14:08:43.0734657+00:00"
+  "LastUpdate_Ratings": "2023-08-28T15:02:16.7215493+00:00",
+  "LastUpdate_Achievements": "2023-08-28T15:09:06.1106244+00:00"
 }
