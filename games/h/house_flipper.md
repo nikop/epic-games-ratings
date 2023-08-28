@@ -23,9 +23,9 @@ Number of Ratings: 1,023  (23.09.2022)
 | You do it wrong | 1.00% | ~207 |
 | Wall Street Shark | 0.90% | ~186 |
 | Knock, knock | 0.90% | ~186 |
+| Car Mechanic | 0.80% | ~166 |
 | Game Over | 0.80% | ~166 |
 | Negotiator | 0.80% | ~166 |
-| Car Mechanic | 0.70% | ~145 |
 | Do it ASAP | 0.60% | ~124 |
 | Senior Estate Agent | 0.60% | ~124 |
 | Nerd | 0.50% | ~104 |

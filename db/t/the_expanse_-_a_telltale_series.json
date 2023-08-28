@@ -34,9 +34,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9423,
+  "EOS_Progressed": 9426,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 813,
+  "EOS_NewPlayers": 811,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3424,6 +3424,11 @@
       "Time": "2023-08-28T07:03:38.1410108+00:00",
       "NumProgressed": 9423,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-28T09:03:11.6878503+00:00",
+      "NumProgressed": 9426,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -3612,7 +3617,7 @@
       "Name": "Captain Drummer",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1696
+      "UsersEstimate": 1697
     },
     {
       "ID": "30",
@@ -3628,7 +3633,7 @@
       "Name": "Debris Spree",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "5",
@@ -3644,7 +3649,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1319
+      "UsersEstimate": 1320
     },
     {
       "ID": "7",
@@ -3675,7 +3680,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 9423,
+      "Progressed": 9426,
       "Completed": 0
     }
   ],
@@ -3683,8 +3688,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-08-27T16:57:45.7126871+00:00",
-  "LastChanged_Achievements": "2023-08-28T08:02:20.1335143+00:00",
+  "LastChanged_Achievements": "2023-08-28T09:03:11.6878498+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:45.4170889+00:00",
-  "LastUpdate_Ratings": "2023-08-28T07:57:48.4037938+00:00",
-  "LastUpdate_Achievements": "2023-08-28T08:02:20.1335888+00:00"
+  "LastUpdate_Ratings": "2023-08-28T08:58:10.8798264+00:00",
+  "LastUpdate_Achievements": "2023-08-28T09:03:11.6879015+00:00"
 }

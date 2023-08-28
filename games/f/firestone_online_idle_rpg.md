@@ -74,8 +74,8 @@ Rating: 4.05 (Ranked 929)
 | Enchanting skill x5 | 0.60% | ~11 |
 | Angel Power | 0.50% | ~9 |
 | Beast War Machines | 0.50% | ~9 |
+| Pokerface | 0.50% | ~9 |
 | Conqueror | 0.40% | ~7 |
-| Pokerface | 0.40% | ~7 |
 | Ultimate War Machines | 0.40% | ~7 |
 | Jewel Enchanting | 0.20% | ~4 |
 | Silverwood liberator | 0.20% | ~4 |

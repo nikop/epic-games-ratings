@@ -23,6 +23,7 @@ Rating: 3.50 (Ranked 979)
 | Skin of Their Teeth | 0.20% | ~3 |
 | Harvest’s End | 0.20% | ~3 |
 | Revelations | 0.10% | ~2 |
+| Home Is Where the Heart Is | 0.10% | ~2 |
 | Welcome to the Neighborhood | 0.10% | ~2 |
 | Neighborhood Watch | 0.10% | ~2 |
 | Bad Wiring | 0.10% | ~2 |
@@ -47,7 +48,6 @@ Rating: 3.50 (Ranked 979)
 | Good Samaritan | 0.10% | ~2 |
 | Curious Finch | 0.10% | ~2 |
 | I Spit On Your Grave | 0.10% | ~2 |
-| Home Is Where the Heart Is | 0.00% | ~0 |
 | Deforestation | 0.00% | ~0 |
 | Block Party | 0.00% | ~0 |
 | Scream Team | 0.00% | ~0 |

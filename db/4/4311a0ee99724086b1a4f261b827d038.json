@@ -210,9 +210,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 206080,
+  "EOS_Progressed": 206107,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9832,
+  "EOS_NewPlayers": 9823,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3985,6 +3985,11 @@
       "Time": "2023-08-28T08:02:20.9592062+00:00",
       "NumProgressed": 206080,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-28T09:03:12.6755102+00:00",
+      "NumProgressed": 206107,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -4029,7 +4034,7 @@
       "Name": "Bridge of Sighs Completed",
       "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 1236
+      "UsersEstimate": 1237
     },
     {
       "ID": "HW1_MISSION15_COMPLETE",
@@ -4045,7 +4050,7 @@
       "Name": "Hiigara Completed",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 1030
+      "UsersEstimate": 1031
     },
     {
       "ID": "HW1_MISSION1_COMPLETE",
@@ -4053,7 +4058,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 41216
+      "UsersEstimate": 41221
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -4061,7 +4066,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 18547
+      "UsersEstimate": 18550
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -4069,7 +4074,7 @@
       "Name": "Return to Kharak",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 10304
+      "UsersEstimate": 10305
     },
     {
       "ID": "HW1_MISSION4_COMPLETE",
@@ -4077,7 +4082,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8243
+      "UsersEstimate": 8244
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -4133,7 +4138,7 @@
       "Name": "Keepers of Sajuuk Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 1030
+      "UsersEstimate": 1031
     },
     {
       "ID": "HW2_MISSION11_COMPLETE",
@@ -4141,7 +4146,7 @@
       "Name": "Sacrifice Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 1030
+      "UsersEstimate": 1031
     },
     {
       "ID": "HW2_MISSION12_COMPLETE",
@@ -4181,7 +4186,7 @@
       "Name": "Tanis Completed",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 26790
+      "UsersEstimate": 26794
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -4189,7 +4194,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 14426
+      "UsersEstimate": 14427
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -4221,7 +4226,7 @@
       "Name": "The Karos Graveyard Complete",
       "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 1236
+      "UsersEstimate": 1237
     },
     {
       "ID": "HW2_MISSION7_COMPLETE",
@@ -4229,7 +4234,7 @@
       "Name": "Derelicts Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 1030
+      "UsersEstimate": 1031
     },
     {
       "ID": "HW2_MISSION8_COMPLETE",
@@ -4237,7 +4242,7 @@
       "Name": "Dreadnaught Berth Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 1030
+      "UsersEstimate": 1031
     },
     {
       "ID": "HW2_MISSION9_COMPLETE",
@@ -4253,7 +4258,7 @@
       "Name": "Graduated Command School",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 49459
+      "UsersEstimate": 49466
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -4268,7 +4273,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 206080,
+      "Progressed": 206107,
       "Completed": 0
     }
   ],
@@ -4276,8 +4281,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-08-27T02:58:56.3089939+00:00",
-  "LastChanged_Achievements": "2023-08-28T08:02:20.9592054+00:00",
+  "LastChanged_Achievements": "2023-08-28T09:03:12.6755097+00:00",
   "LastUpdate_AppInfo": "2023-08-24T18:57:15.108366+00:00",
-  "LastUpdate_Ratings": "2023-08-28T07:59:37.9062428+00:00",
-  "LastUpdate_Achievements": "2023-08-28T08:02:20.9592918+00:00"
+  "LastUpdate_Ratings": "2023-08-28T09:00:07.3941502+00:00",
+  "LastUpdate_Achievements": "2023-08-28T09:03:12.675569+00:00"
 }

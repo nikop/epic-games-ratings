@@ -6,25 +6,25 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 69.00% | ~19,813 |
+| The Shadow strikes | 69.00% | ~19,814 |
 | The Evilest Evil | 58.00% | ~16,655 |
 | Twistram is devastated | 57.00% | ~16,368 |
-| The Gehenna Stones | 49.00% | ~14,070 |
+| The Gehenna Stones | 49.00% | ~14,071 |
 | No one has to die today! | 46.00% | ~13,209 |
 | Death and destruction! | 45.00% | ~12,922 |
-| The Swamplanders from the swamplands | 43.00% | ~12,347 |
-| Rusty Steel | 41.00% | ~11,773 |
+| The Swamplanders from the swamplands | 43.00% | ~12,348 |
+| Rusty Steel | 41.00% | ~11,774 |
 | The One-Huge-Army-Building Evil | 40.00% | ~11,486 |
 | The last burger | 37.00% | ~10,625 |
 | Braiiiiins! | 37.00% | ~10,625 |
-| Hands off the Dungeonheart! | 36.00% | ~10,337 |
+| Hands off the Dungeonheart! | 36.00% | ~10,338 |
 | A trip on sea, what fun it can be | 34.00% | ~9,763 |
 | Damned good | 33.00% | ~9,476 |
 | Stock Market Crash | 31.00% | ~8,902 |
 | Factory farming | 31.00% | ~8,902 |
-| Not-So-Overproud | 30.00% | ~8,614 |
-| For a handfull of Catapults | 29.00% | ~8,327 |
-| Shadow hunter | 29.00% | ~8,327 |
+| Not-So-Overproud | 30.00% | ~8,615 |
+| For a handfull of Catapults | 29.00% | ~8,328 |
+| Shadow hunter | 29.00% | ~8,328 |
 | Thirst quencher | 28.00% | ~8,040 |
 | Ogre Solo! | 28.00% | ~8,040 |
 | Destroy the thing | 26.00% | ~7,466 |
@@ -33,8 +33,8 @@ Number of Ratings: 1,635  (23.09.2022)
 | MASS-O-BOT | 24.00% | ~6,892 |
 | Prepare the grave | 24.00% | ~6,892 |
 | Angel of Fire | 24.00% | ~6,892 |
-| Where there is Light, there is Shadow | 23.00% | ~6,604 |
-| At the foot of Mount Destiny | 22.00% | ~6,317 |
+| Where there is Light, there is Shadow | 23.00% | ~6,605 |
+| At the foot of Mount Destiny | 22.00% | ~6,318 |
 | The Force disturbed | 21.00% | ~6,030 |
 | The Victorious Evil | 20.00% | ~5,743 |
 | Chorus of damnation | 19.00% | ~5,456 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~574 |
 | Sacrifices! | 2.00% | ~574 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,715 (Ranked 101)  
+Progressed: 28,716 (Ranked 101)  
 Completed: 238 (0.83%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 238 (0.83%) (Ranked 127)
 | 2023-08-25 | 28,426 | 236 |
 | 2023-08-26 | 28,545 | 238 |
 | 2023-08-27 | 28,686 | 238 |
-| 2023-08-28 | 28,715 | 238 |
+| 2023-08-28 | 28,716 | 238 |
 ## Awards
 Max (Great for Beginners): 342  (Ranked 227)  
 Sum: 2,623 (Ranked 173)  

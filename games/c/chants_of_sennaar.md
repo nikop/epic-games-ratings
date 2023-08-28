@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 18.00% | ~11 |
+| That's the spirit | 17.00% | ~11 |
 | Rascal | 16.00% | ~10 |
 | The Preacher's fate | 16.00% | ~10 |
 | Champollion | 16.00% | ~10 |
@@ -14,9 +14,9 @@
 | A new dawn | 16.00% | ~10 |
 | The darkness | 16.00% | ~10 |
 | One last step | 16.00% | ~10 |
-| Cable guy | 15.00% | ~9 |
-| A good beginning | 15.00% | ~9 |
-| True G4M3R | 15.00% | ~9 |
+| Cable guy | 14.00% | ~9 |
+| A good beginning | 14.00% | ~9 |
+| True G4M3R | 14.00% | ~9 |
 | I did it | 13.00% | ~8 |
 | Fashion victim | 13.00% | ~8 |
 | Feels like springtime | 11.00% | ~7 |
@@ -30,8 +30,8 @@
 | A Link to the Past | 6.00% | ~4 |
 | Alchemists Express | 6.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62 (Ranked 364)  
-Completed: 4 (6.45%) (Ranked 44)  
+Progressed: 63 (Ranked 362)  
+Completed: 4 (6.35%) (Ranked 44)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -72,3 +72,4 @@ Completed: 4 (6.45%) (Ranked 44)
 | 2023-08-22 | 58 | 4 |
 | 2023-08-25 | 61 | 4 |
 | 2023-08-27 | 62 | 4 |
+| 2023-08-28 | 63 | 4 |

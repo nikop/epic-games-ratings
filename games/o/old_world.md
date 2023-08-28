@@ -13,6 +13,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Explorer | 3.00% | ~409 |
 | Intrepid | 3.00% | ~409 |
 | Friendly Family | 3.00% | ~409 |
+| Hanging Gardens | 3.00% | ~409 |
 | Ambitious | 2.00% | ~272 |
 | Architect | 2.00% | ~272 |
 | Brilliant | 2.00% | ~272 |
@@ -36,7 +37,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able Difficulty | 2.00% | ~272 |
 | Furious Family | 2.00% | ~272 |
 | Great Ziggurat | 2.00% | ~272 |
-| Hanging Gardens | 2.00% | ~272 |
 | Ishtar Gate | 2.00% | ~272 |
 | Lighthouse | 2.00% | ~272 |
 | Necropolis | 2.00% | ~272 |
@@ -82,6 +82,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lion | 0.90% | ~123 |
 | Patrons | 0.90% | ~123 |
 | Temple of Solomon | 0.90% | ~123 |
+| Pantheon | 0.90% | ~123 |
+| Via Recta Souk | 0.90% | ~123 |
 | Persian Paganism | 0.90% | ~123 |
 | Building Wonders | 0.90% | ~123 |
 | Legalism | 0.90% | ~123 |
@@ -92,8 +94,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Iron | 0.80% | ~109 |
 | Circus Maximus | 0.80% | ~109 |
 | Hagia Sophia | 0.80% | ~109 |
-| Pantheon | 0.80% | ~109 |
-| Via Recta Souk | 0.80% | ~109 |
 | Learn to Play 3 | 0.80% | ~109 |
 | Power to the People | 0.80% | ~109 |
 | Economic Reform | 0.80% | ~109 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,620 (Ranked 119)  
+Progressed: 13,621 (Ranked 119)  
 Completed: 5 (0.04%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -433,7 +433,7 @@ Completed: 5 (0.04%) (Ranked 235)
 | 2023-08-25 | 13,563 | 5 |
 | 2023-08-26 | 13,590 | 5 |
 | 2023-08-27 | 13,616 | 5 |
-| 2023-08-28 | 13,620 | 5 |
+| 2023-08-28 | 13,621 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,799 (Ranked 208)  

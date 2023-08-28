@@ -13,7 +13,7 @@ Rating: 4.17 (Ranked 884)
 | Street Sweeper | 18.00% | ~1,369 |
 | Liberty City Minute | 17.00% | ~1,293 |
 | Offshore Delivery | 14.00% | ~1,065 |
-| Dirty Money | 12.00% | ~913 |
+| Dirty Money | 13.00% | ~989 |
 | By a Mile | 10.00% | ~761 |
 | Not So Fast | 10.00% | ~761 |
 | Right-hand Man | 10.00% | ~761 |

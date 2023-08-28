@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 498,
+  "EOS_Progressed": 499,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 497,
+  "EOS_NewPlayers": 498,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -462,6 +462,11 @@
       "Time": "2023-08-28T06:05:37.7961693+00:00",
       "NumProgressed": 498,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-28T09:06:10.6181059+00:00",
+      "NumProgressed": 499,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -482,7 +487,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 87,
       "XP": 30,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "AC02",
@@ -496,9 +501,9 @@
       "ID": "AC03",
       "SetID": "l4abp0",
       "Name": "Blood and Gold",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 249
+      "UsersEstimate": 254
     },
     {
       "ID": "AC04",
@@ -506,7 +511,7 @@
       "Name": "Blood and Iron",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "AC05",
@@ -514,7 +519,7 @@
       "Name": "The Sharpest Tool in the Shed",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "AC06",
@@ -522,7 +527,7 @@
       "Name": "The Last Ascension",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "AC07",
@@ -530,7 +535,7 @@
       "Name": "The Sea dies on the Shore",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "AC08",
@@ -608,9 +613,9 @@
       "ID": "AC17",
       "SetID": "l4abp0",
       "Name": "Second Pilgrimage",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 25
     },
     {
       "ID": "AC18",
@@ -698,7 +703,7 @@
       "Name": "The Punished One",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "AC29",
@@ -714,7 +719,7 @@
       "Name": "The Anointed One",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "AC31",
@@ -776,9 +781,9 @@
       "ID": "AC38",
       "SetID": "l4abp0",
       "Name": "Edge of Orison",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 65
     },
     {
       "ID": "AC39",
@@ -841,14 +846,14 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 498,
+      "Progressed": 499,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-26T07:57:19.1818171+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
-  "LastChanged_Achievements": "2023-08-28T08:05:41.6992498+00:00",
+  "LastChanged_Achievements": "2023-08-28T09:06:10.6181052+00:00",
   "LastUpdate_AppInfo": "2023-08-22T18:57:00.5189311+00:00",
-  "LastUpdate_Ratings": "2023-08-28T07:59:28.2312062+00:00",
-  "LastUpdate_Achievements": "2023-08-28T08:05:41.6993239+00:00"
+  "LastUpdate_Ratings": "2023-08-28T08:59:57.5496397+00:00",
+  "LastUpdate_Achievements": "2023-08-28T09:06:10.6181538+00:00"
 }
