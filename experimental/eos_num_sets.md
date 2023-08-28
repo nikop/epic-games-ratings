@@ -23,7 +23,7 @@
 | [High On Life](../games/h/high_on_life.md) | 32 | 1,000 | 2 |
 | [Homeworld: Deserts of Kharak](../games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 48 | 1,440 | 2 |
 | [House Party](../games/h/house_party.md) | 69 | 1,040 | 2 |
-| [Idle Champions of the Forgotten Realms](../games/i/idle_champions_of_the_forgotten_realms.md) | 516 | 2,580 | 2 |
+| [Idle Champions of the Forgotten Realms](../games/i/idle_champions_of_the_forgotten_realms.md) | 520 | 2,600 | 2 |
 | [IXION](../games/i/ixion.md) | 57 | 1,050 | 2 |
 | [KeyWe](../games/k/keywe.md) | 20 | 1,250 | 2 |
 | [Mass Effect™ Legendary Edition](../games/m/mass_effect™_legendary_edition.md) | 0 | 0 | 2 |

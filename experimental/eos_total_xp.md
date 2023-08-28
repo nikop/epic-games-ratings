@@ -4,8 +4,8 @@
 | [Dead by Daylight](../games/d/dead_by_daylight.md) | 223 | 5,345 |
 | [Europa Universalis IV](../games/e/europa_universalis_iv.md) | 354 | 5,175 |
 | [Old World](../games/o/old_world.md) | 296 | 3,040 |
+| [Idle Champions of the Forgotten Realms](../games/i/idle_champions_of_the_forgotten_realms.md) | 520 | 2,600 |
 | [Cities: Skylines](../games/c/cities__skylines.md) | 119 | 2,580 |
-| [Idle Champions of the Forgotten Realms](../games/i/idle_champions_of_the_forgotten_realms.md) | 516 | 2,580 |
 | [The Callisto Protocol](../games/t/the_callisto_protocol.md) | 47 | 1,750 |
 | [The Evil Within](../games/d/d602fd70876141ba9bf4d54809c423d1.md) | 71 | 1,735 |
 | [Sniper Elite 5](../games/s/sniper_elite_5.md) | 71 | 1,705 |

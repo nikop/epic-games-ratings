@@ -92,7 +92,7 @@
 | 88 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 160 | 294 |
 | 88 | [Huntdown](games/h/huntdown.md) | 4.79 | 0 | 514 |
 | 88 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.79 | 0 | 514 |
-| 88 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 852 | 153 |
+| 88 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 855 | 153 |
 | 88 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 752 | 163 |
 | 88 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,977 | 57 |
 | 88 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.79 | 158 | 295 |
@@ -387,7 +387,7 @@
 | 367 | [RiME](games/r/rime.md) | 4.61 | 0 | 514 |
 | 367 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,074 | 139 |
 | 367 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 280 | 243 |
-| 367 | [Supraland](games/s/supraland.md) | 4.61 | 7,678 | 46 |
+| 367 | [Supraland](games/s/supraland.md) | 4.61 | 7,680 | 46 |
 | 367 | [The Colonists](games/t/the_colonists.md) | 4.61 | 0 | 514 |
 | 367 | [Warframe](games/w/warframe.md) | 4.61 | 16,691 | 22 |
 | 391 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.60 | 23 | 491 |
@@ -396,7 +396,7 @@
 | 391 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.60 | 0 | 514 |
 | 391 | [Brawlhalla](games/b/brawlhalla.md) | 4.60 | 290 | 239 |
 | 391 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,545 | 73 |
-| 391 | [Control](games/c/control.md) | 4.60 | 8,465 | 41 |
+| 391 | [Control](games/c/control.md) | 4.60 | 8,467 | 41 |
 | 391 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.60 | 0 | 514 |
 | 391 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 219 | 266 |
 | 391 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 75 | 371 |
@@ -588,7 +588,7 @@
 | 581 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.49 | 0 | 514 |
 | 581 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 273 | 245 |
 | 581 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 249 | 254 |
-| 581 | [Maneater](games/m/maneater.md) | 4.49 | 13,637 | 26 |
+| 581 | [Maneater](games/m/maneater.md) | 4.49 | 13,638 | 26 |
 | 581 | [Mars Horizon](games/m/mars_horizon.md) | 4.49 | 0 | 514 |
 | 581 | [MythForce](games/m/mythforce.md) | 4.49 | 32 | 456 |
 | 581 | [Rocket League®](games/r/rocket_league®.md) | 4.49 | 512,415 | 2 |
@@ -763,6 +763,7 @@
 | 754 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.35 | 0 | 514 |
 | 762 | [Ashen](games/a/ashen.md) | 4.34 | 0 | 514 |
 | 762 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 471 |
+| 762 | [Beyond Blue](games/b/beyond_blue.md) | 4.34 | 0 | 514 |
 | 762 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.34 | 0 | 514 |
 | 762 | [Encased](games/e/encased.md) | 4.34 | 141 | 306 |
 | 762 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 0 | 514 |
@@ -770,15 +771,14 @@
 | 762 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 251 | 253 |
 | 762 | [Tails Noir](games/b/backbone.md) | 4.34 | 0 | 514 |
 | 762 | [Torchlight](games/t/torchlight.md) | 4.34 | 21 | 504 |
-| 771 | [Beyond Blue](games/b/beyond_blue.md) | 4.33 | 0 | 514 |
-| 771 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 120 | 321 |
-| 771 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 0 | 514 |
-| 771 | [House Party](games/h/house_party.md) | 4.33 | 0 | 514 |
-| 771 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.33 | 0 | 514 |
-| 771 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 514 |
-| 771 | [Rogue Company](games/r/rogue_company.md) | 4.33 | 5,324 | 66 |
-| 771 | [Speed Brawl](games/s/speed_brawl.md) | 4.33 | 29 | 464 |
-| 771 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.33 | 1,566 | 120 |
+| 772 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 120 | 321 |
+| 772 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 0 | 514 |
+| 772 | [House Party](games/h/house_party.md) | 4.33 | 0 | 514 |
+| 772 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.33 | 0 | 514 |
+| 772 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 514 |
+| 772 | [Rogue Company](games/r/rogue_company.md) | 4.33 | 5,324 | 66 |
+| 772 | [Speed Brawl](games/s/speed_brawl.md) | 4.33 | 29 | 464 |
+| 772 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.33 | 1,566 | 120 |
 | 780 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 357 | 226 |
 | 780 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.32 | 60 | 391 |
 | 780 | [Filament](games/f/filament.md) | 4.32 | 561 | 191 |
@@ -927,12 +927,12 @@
 | 924 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 181 | 282 |
 | 926 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.06 | 0 | 514 |
 | 926 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 5,202 | 68 |
-| 928 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 4.05 | 0 | 514 |
 | 928 | [Gravewood High](games/g/gravewood_high.md) | 4.05 | 0 | 514 |
 | 928 | [Pinball FX](games/p/pinball_fx.md) | 4.05 | 188 | 278 |
 | 928 | [Second Extinction™](games/s/second_extinction™.md) | 4.05 | 463 | 204 |
-| 932 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 0 | 514 |
-| 932 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 4.04 | 0 | 514 |
+| 931 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 4.04 | 0 | 514 |
+| 931 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 0 | 514 |
+| 931 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 4.04 | 0 | 514 |
 | 934 | [Lake](games/l/lake.md) | 4.03 | 0 | 514 |
 | 934 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 0 | 514 |
 | 934 | [Tharsis](games/t/tharsis.md) | 4.03 | 0 | 514 |
