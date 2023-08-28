@@ -666,11 +666,11 @@
 | 663 | [Dungeon Fighter Online](games/b/b567cb36ae39435792fe40d2e913cd92.md) | 4.43 | 0 | 514 |
 | 663 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.43 | 216 | 269 |
 | 663 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 4.43 | 0 | 514 |
-| 663 | [Predecessor](games/p/predecessor.md) | 4.43 | 150 | 298 |
+| 663 | [Predecessor](games/p/predecessor.md) | 4.43 | 153 | 296 |
 | 663 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 0 | 514 |
 | 663 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 0 | 514 |
 | 663 | [Star Renegades](games/s/star_renegades.md) | 4.43 | 0 | 514 |
-| 663 | [Star Stable Online](games/s/star_stable_online.md) | 4.43 | 152 | 297 |
+| 663 | [Star Stable Online](games/s/star_stable_online.md) | 4.43 | 152 | 298 |
 | 663 | [The Surge](games/t/the_surge.md) | 4.43 | 29 | 464 |
 | 663 | [Tunche](games/t/tunche.md) | 4.43 | 22 | 495 |
 | 663 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 281 | 241 |

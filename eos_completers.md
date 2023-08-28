@@ -38,7 +38,7 @@
 | 36 | [Smelter](games/s/smelter.md) | 7.50% |
 | 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.04% |
 | 38 | [Scorn](games/s/scorn.md) | 7.02% |
-| 39 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 6.98% |
+| 39 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 6.82% |
 | 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.80% |
 | 41 | [Time Loader](games/t/time_loader.md) | 6.78% |
 | 42 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 6.67% |
@@ -92,7 +92,7 @@
 | 90 | [Bloodshore](games/b/bloodshore.md) | 2.20% |
 | 91 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
 | 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.02% |
-| 93 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.01% |
+| 93 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.00% |
 | 94 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
 | 95 | [Night Book](games/n/night_book.md) | 1.86% |
 | 96 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |

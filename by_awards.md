@@ -296,8 +296,8 @@
 | 294 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 160 | 4.79 | 88 |
 | 295 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 158 | 4.79 | 88 |
 | 296 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 153 | 4.55 | 489 |
-| 297 | [Star Stable Online](games/s/star_stable_online.md) | 152 | 4.43 | 663 |
-| 298 | [Predecessor](games/p/predecessor.md) | 150 | 4.43 | 663 |
+| 296 | [Predecessor](games/p/predecessor.md) | 153 | 4.43 | 663 |
+| 298 | [Star Stable Online](games/s/star_stable_online.md) | 152 | 4.43 | 663 |
 | 299 | [Blasphemous](games/b/blasphemous.md) | 149 | 4.86 | 30 |
 | 300 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 148 | 4.51 | 544 |
 | 301 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 147 | 4.77 | 109 |
