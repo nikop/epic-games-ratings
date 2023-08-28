@@ -1477,9 +1477,9 @@
       "Count": 247
     }
   ],
-  "EOS_Progressed": 198335,
+  "EOS_Progressed": 198337,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 2033,
+  "EOS_NewPlayers": 2025,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -15992,6 +15992,11 @@
       "Time": "2023-08-28T20:34:57.9883383+00:00",
       "NumProgressed": 198335,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-08-28T20:53:42.0178227+00:00",
+      "NumProgressed": 198337,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 44,
@@ -16107,7 +16112,7 @@
       "Name": "Ice Ice Yuki",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 13883
+      "UsersEstimate": 13884
     },
     {
       "ID": "ItsRainingMen",
@@ -16123,7 +16128,7 @@
       "Name": "Jonin",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 13883
+      "UsersEstimate": 13884
     },
     {
       "ID": "Mercyful",
@@ -16219,7 +16224,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 13883
+      "UsersEstimate": 13884
     },
     {
       "ID": "Rollin",
@@ -16251,7 +16256,7 @@
       "Name": "Stoned Ox",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 13883
+      "UsersEstimate": 13884
     },
     {
       "ID": "TanukiTime",
@@ -16347,22 +16352,22 @@
       "Name": "Yabu",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 13883
+      "UsersEstimate": 13884
     }
   ],
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 198335,
+      "Progressed": 198337,
       "Completed": 73
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-08-28T16:58:29.6451543+00:00",
-  "LastChanged_Achievements": "2023-08-28T20:34:57.9883378+00:00",
+  "LastChanged_Achievements": "2023-08-28T20:53:42.0178223+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:44.6562489+00:00",
-  "LastUpdate_Ratings": "2023-08-28T20:27:10.522974+00:00",
-  "LastUpdate_Achievements": "2023-08-28T20:34:57.9884334+00:00"
+  "LastUpdate_Ratings": "2023-08-28T20:46:35.5645509+00:00",
+  "LastUpdate_Achievements": "2023-08-28T20:53:42.0179099+00:00"
 }

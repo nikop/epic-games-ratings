@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -1637,9 +1637,9 @@
       "ID": "hire-lieutenant",
       "SetID": "bed33dd",
       "Name": "Our Man",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 462
+      "UsersEstimate": 468
     },
     {
       "ID": "kill-lieutenants",
@@ -1725,9 +1725,9 @@
       "ID": "upgrade-building",
       "SetID": "bed33dd",
       "Name": "Take-Off",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 430
+      "UsersEstimate": 435
     },
     {
       "ID": "use-submarine",
@@ -1749,8 +1749,8 @@
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-08-28T20:35:41.1024203+00:00",
+  "LastChanged_Achievements": "2023-08-28T20:54:14.6960351+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:10.4732952+00:00",
-  "LastUpdate_Ratings": "2023-08-28T20:28:33.4698972+00:00",
-  "LastUpdate_Achievements": "2023-08-28T20:35:41.1024381+00:00"
+  "LastUpdate_Ratings": "2023-08-28T20:47:32.6968407+00:00",
+  "LastUpdate_Achievements": "2023-08-28T20:54:14.696052+00:00"
 }

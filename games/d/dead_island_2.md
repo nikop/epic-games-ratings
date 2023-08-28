@@ -12,6 +12,7 @@ Rating: 4.54 (Ranked 501)
 | Break A Leg | 0.40% | ~2,672 |
 | Coup de Grâce | 0.40% | ~2,672 |
 | Hazardous Materials | 0.40% | ~2,672 |
+| Friends Like These | 0.40% | ~2,672 |
 | Stacking the Deck | 0.40% | ~2,672 |
 | Personal Assistant Personally Assisted | 0.40% | ~2,672 |
 | Bookworm | 0.30% | ~2,004 |
@@ -19,7 +20,6 @@ Rating: 4.54 (Ranked 501)
 | Slayer Squad | 0.30% | ~2,004 |
 | Can't Handle the Truth | 0.30% | ~2,004 |
 | Like Riding a Bike | 0.30% | ~2,004 |
-| Friends Like These | 0.30% | ~2,004 |
 | Apex Predator | 0.30% | ~2,004 |
 | Zombologist | 0.30% | ~2,004 |
 | Ooh, Shiny! | 0.30% | ~2,004 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 501)
 | Rising Star | 0.10% | ~668 |
 | Bucket List | 0.10% | ~668 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 667,997 (Ranked 22)  
+Progressed: 668,011 (Ranked 22)  
 Completed: 2,086 (0.31%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 2,086 (0.31%) (Ranked 173)
 | 2023-08-25 | 665,272 | 2,068 |
 | 2023-08-26 | 666,250 | 2,078 |
 | 2023-08-27 | 667,273 | 2,082 |
-| 2023-08-28 | 667,997 | 2,086 |
+| 2023-08-28 | 668,011 | 2,086 |
 ## Awards
 Max (Great Boss Battles): 5,791  (Ranked 61)  
 Sum: 8,530 (Ranked 97)  

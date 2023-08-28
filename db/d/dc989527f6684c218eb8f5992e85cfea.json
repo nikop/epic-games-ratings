@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10497,
+  "EOS_Progressed": 10500,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 454,
+  "EOS_NewPlayers": 452,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7871,6 +7871,11 @@
       "Time": "2023-08-28T20:34:56.5682186+00:00",
       "NumProgressed": 10497,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-28T20:53:40.7936176+00:00",
+      "NumProgressed": 10500,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -7954,7 +7959,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4619
+      "UsersEstimate": 4620
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -7970,7 +7975,7 @@
       "Name": "Facepalm",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1889
+      "UsersEstimate": 1890
     },
     {
       "ID": "ACH_TEN_WORD_PACKAGES",
@@ -8050,7 +8055,7 @@
       "Name": "Art Intern",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2099
+      "UsersEstimate": 2100
     },
     {
       "ID": "ACH_WIN_A_GAME_GUESS_IT",
@@ -8058,7 +8063,7 @@
       "Name": "Got It!",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_WIN_A_GAME_RATE_IT",
@@ -8074,21 +8079,21 @@
       "Name": "First Sketch",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1889
+      "UsersEstimate": 1890
     }
   ],
   "AchievementSets": [
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 10497,
+      "Progressed": 10500,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-08-28T20:34:56.568218+00:00",
+  "LastChanged_Achievements": "2023-08-28T20:53:40.793617+00:00",
   "LastUpdate_AppInfo": "2023-08-25T22:57:10.6813946+00:00",
-  "LastUpdate_Ratings": "2023-08-28T20:29:32.0543191+00:00",
-  "LastUpdate_Achievements": "2023-08-28T20:34:56.5682683+00:00"
+  "LastUpdate_Ratings": "2023-08-28T20:48:15.5219903+00:00",
+  "LastUpdate_Achievements": "2023-08-28T20:53:40.7936686+00:00"
 }

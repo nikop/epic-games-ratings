@@ -3992,9 +3992,9 @@
       "Count": 642
     }
   ],
-  "EOS_Progressed": 771733,
+  "EOS_Progressed": 771742,
   "EOS_Completed": 149,
-  "EOS_NewPlayers": 8126,
+  "EOS_NewPlayers": 8078,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -15017,6 +15017,11 @@
       "Time": "2023-08-28T20:36:27.7944018+00:00",
       "NumProgressed": 771733,
       "NumCompleted": 149
+    },
+    {
+      "Time": "2023-08-28T20:54:41.8458036+00:00",
+      "NumProgressed": 771742,
+      "NumCompleted": 149
     }
   ],
   "TotalAchievements": 75,
@@ -15028,7 +15033,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 154347
+      "UsersEstimate": 154348
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -15252,7 +15257,7 @@
       "Name": "Lead Dealer",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30869
+      "UsersEstimate": 30870
     },
     {
       "ID": "ACHIEVEMENT_LITTLE_WHEEL",
@@ -15348,7 +15353,7 @@
       "Name": "No Tumbler Fumbler",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30869
+      "UsersEstimate": 30870
     },
     {
       "ID": "ACHIEVEMENT_OLD_TYME_BRAWLER",
@@ -15436,7 +15441,7 @@
       "Name": "Ring-a-Ding-Ding",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 30869
+      "UsersEstimate": 30870
     },
     {
       "ID": "ACHIEVEMENT_ROCKETS_RED_GLARE",
@@ -15548,7 +15553,7 @@
       "Name": "Up and Comer",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 30869
+      "UsersEstimate": 30870
     },
     {
       "ID": "ACHIEVEMENT_UP_TO_THE_CHALLENGE",
@@ -15580,7 +15585,7 @@
       "Name": "Walker of the Mojave",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 30869
+      "UsersEstimate": 30870
     },
     {
       "ID": "ACHIEVEMENT_WARHEAD_HUNTER",
@@ -15620,20 +15625,20 @@
       "Name": "You Run Barter Town",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30869
+      "UsersEstimate": 30870
     }
   ],
   "AchievementSets": [
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 771733,
+      "Progressed": 771742,
       "Completed": 174
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 771733,
+      "Progressed": 771742,
       "Completed": 149
     }
   ],
@@ -15641,8 +15646,8 @@
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
   "LastChanged": "2023-08-28T15:59:50.6383937+00:00",
-  "LastChanged_Achievements": "2023-08-28T20:36:27.7944013+00:00",
+  "LastChanged_Achievements": "2023-08-28T20:54:41.8458033+00:00",
   "LastUpdate_AppInfo": "2023-08-24T23:57:20.3184921+00:00",
-  "LastUpdate_Ratings": "2023-08-28T20:30:03.1343309+00:00",
-  "LastUpdate_Achievements": "2023-08-28T20:36:27.7945155+00:00"
+  "LastUpdate_Ratings": "2023-08-28T20:48:37.435016+00:00",
+  "LastUpdate_Achievements": "2023-08-28T20:54:41.845929+00:00"
 }

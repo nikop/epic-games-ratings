@@ -6,8 +6,8 @@ Rating: 4.83 (Ranked 59)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stogie for Fogey | 21.00% | ~1,992 |
+| Impossible Objects | 19.00% | ~1,802 |
 | Captain Drummer | 18.00% | ~1,707 |
-| Impossible Objects | 18.00% | ~1,707 |
 | Doctor Approved | 17.00% | ~1,613 |
 | Spore Taste | 17.00% | ~1,613 |
 | Martian Music | 17.00% | ~1,613 |

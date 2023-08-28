@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
@@ -449,9 +449,9 @@
       "ID": "ACH_CUBEKILLER",
       "SetID": "232494e",
       "Name": "Green Cube Killer",
-      "Percentage": 12,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_DLC1ALLCOLLECTABLES",
@@ -641,9 +641,9 @@
       "ID": "ACH_S5",
       "SetID": "232494e",
       "Name": "Cogs in the Machine",
-      "Percentage": 12,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_SANDSTORM",
@@ -673,8 +673,8 @@
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-08-28T20:36:47.7658487+00:00",
+  "LastChanged_Achievements": "2023-08-28T20:54:56.5068015+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:24.6161941+00:00",
-  "LastUpdate_Ratings": "2023-08-28T20:30:14.8852594+00:00",
-  "LastUpdate_Achievements": "2023-08-28T20:36:47.7658648+00:00"
+  "LastUpdate_Ratings": "2023-08-28T20:48:47.9707014+00:00",
+  "LastUpdate_Achievements": "2023-08-28T20:54:56.506819+00:00"
 }

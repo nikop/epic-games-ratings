@@ -11,8 +11,8 @@ Number of Ratings: 94  (23.09.2022)
 | Nature or Nurture | 23.00% | ~6 |
 | Power Glove | 19.00% | ~5 |
 | Forgotten Memories | 19.00% | ~5 |
-| Green Cube Killer | 12.00% | ~3 |
-| Cogs in the Machine | 12.00% | ~3 |
+| Green Cube Killer | 15.00% | ~4 |
+| Cogs in the Machine | 15.00% | ~4 |
 | Descendants | 4.00% | ~1 |
 | The Flawed Teacher | 4.00% | ~1 |
 | To Infinity and Beyond | 4.00% | ~1 |

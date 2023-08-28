@@ -21,12 +21,12 @@ Rating: 4.60 (Ranked 391)
 | Intimidation Tactics | 5.00% | ~257 |
 | Blood of the Dragon | 5.00% | ~257 |
 | Mighty Hoard | 5.00% | ~257 |
-| Valley of Wonders | 4.00% | ~205 |
-| In a Liege of Your Own | 4.00% | ~205 |
-| Fiery Friend | 4.00% | ~205 |
-| Against the Odds | 4.00% | ~205 |
-| Impenetrable Fortress | 4.00% | ~205 |
-| Here be Dragons | 4.00% | ~205 |
+| Valley of Wonders | 4.00% | ~206 |
+| In a Liege of Your Own | 4.00% | ~206 |
+| Fiery Friend | 4.00% | ~206 |
+| Against the Odds | 4.00% | ~206 |
+| Impenetrable Fortress | 4.00% | ~206 |
+| Here be Dragons | 4.00% | ~206 |
 | Return of the Wizard King | 3.00% | ~154 |
 | Lord of Chaos | 3.00% | ~154 |
 | Arch Mage | 3.00% | ~154 |
@@ -56,7 +56,7 @@ Rating: 4.60 (Ranked 391)
 | The Grey Wizard | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,137 (Ranked 145)  
+Progressed: 5,138 (Ranked 145)  
 Completed: 6 (0.12%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,6 +169,7 @@ Completed: 6 (0.12%) (Ranked 205)
 | 2023-08-25 | 5,134 | 5 |
 | 2023-08-26 | 5,135 | 5 |
 | 2023-08-27 | 5,137 | 6 |
+| 2023-08-28 | 5,138 | 6 |
 ## Awards
 Max (Great for Beginners): 23  (Ranked 491)  
 Sum: 23 (Ranked 495)  

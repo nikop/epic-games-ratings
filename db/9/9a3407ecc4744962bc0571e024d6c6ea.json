@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 474,
+  "EOS_Progressed": 475,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 463,
+  "EOS_NewPlayers": 464,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -696,6 +696,11 @@
       "Time": "2023-08-28T20:04:01.7140297+00:00",
       "NumProgressed": 474,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-28T20:52:35.4839816+00:00",
+      "NumProgressed": 475,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -708,7 +713,7 @@
       "Name": "A Better Tomorrow",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "BostonHayDay",
@@ -716,7 +721,7 @@
       "Name": "Boston Hay Day",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "BoxingClever",
@@ -730,9 +735,9 @@
       "ID": "Cartographer",
       "SetID": "3ai6ml8",
       "Name": "Cartographer",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 156
+      "UsersEstimate": 162
     },
     {
       "ID": "Causality",
@@ -748,7 +753,7 @@
       "Name": "Congratulations, you\u0027re an engineer",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "DarkestBeforeTheDawn",
@@ -804,7 +809,7 @@
       "Name": "Once more into the Breach",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "Outpatient",
@@ -820,15 +825,15 @@
       "Name": "Relic",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "SkeletonCrew",
       "SetID": "3ai6ml8",
       "Name": "Skeleton Crew",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 166
+      "UsersEstimate": 171
     },
     {
       "ID": "TerraTourGuide",
@@ -852,7 +857,7 @@
       "Name": "Tragedy Documented",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "WelcomeToFortSolis",
@@ -860,21 +865,21 @@
       "Name": "Welcome to Fort Solis",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 474,
+      "Progressed": 475,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-08-28T20:33:41.7757715+00:00",
+  "LastChanged_Achievements": "2023-08-28T20:52:35.4839812+00:00",
   "LastUpdate_AppInfo": "2023-08-23T13:00:58.5941376+00:00",
-  "LastUpdate_Ratings": "2023-08-28T20:28:06.0947345+00:00",
-  "LastUpdate_Achievements": "2023-08-28T20:33:41.7757868+00:00"
+  "LastUpdate_Ratings": "2023-08-28T20:47:12.2984311+00:00",
+  "LastUpdate_Achievements": "2023-08-28T20:52:35.4839971+00:00"
 }

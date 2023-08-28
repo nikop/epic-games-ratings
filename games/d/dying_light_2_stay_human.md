@@ -6,37 +6,37 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 39.00% | ~240,659 |
-| First Shot | 36.00% | ~222,147 |
-| Into the Unknown | 35.00% | ~215,976 |
-| Herzlich Wilkommen! | 34.00% | ~209,806 |
-| Good Night & Good Luck | 33.00% | ~203,635 |
-| Sancho Panza | 32.00% | ~197,464 |
-| Oh, So This Is How It Works! | 29.00% | ~178,952 |
-| Flag Burning | 27.00% | ~166,610 |
-| Under Pressure | 25.00% | ~154,269 |
-| It Wasn't That Hard, Was It? | 25.00% | ~154,269 |
-| Can't Touch This! | 25.00% | ~154,269 |
-| On the Trail of the Enemy | 24.00% | ~148,098 |
-| Light in the Darkness | 24.00% | ~148,098 |
-| Get Outta My House! | 23.00% | ~141,927 |
-| Night Hunter | 22.00% | ~135,756 |
-| Being All Social | 22.00% | ~135,756 |
-| After the Fall | 20.00% | ~123,415 |
-| We Will Be Heard! | 18.00% | ~111,074 |
-| Tunnel Entrance | 18.00% | ~111,074 |
-| Known Associate | 17.00% | ~104,903 |
-| Brush with Death | 16.00% | ~98,732 |
-| Debris and Ashes | 15.00% | ~92,561 |
-| Going Down | 15.00% | ~92,561 |
-| Family First | 15.00% | ~92,561 |
-| Your World, Your Rules | 15.00% | ~92,561 |
-| Death From Afar | 14.00% | ~86,391 |
-| Terminal Headache | 14.00% | ~86,391 |
-| Slowpoke! | 12.00% | ~74,049 |
-| Tickets, Please! | 7.00% | ~43,195 |
-| Parkour Master | 6.00% | ~37,024 |
-| Combat Master | 6.00% | ~37,024 |
+| You Never Forget Your First... | 39.00% | ~240,663 |
+| First Shot | 36.00% | ~222,151 |
+| Into the Unknown | 35.00% | ~215,980 |
+| Herzlich Wilkommen! | 34.00% | ~209,809 |
+| Good Night & Good Luck | 33.00% | ~203,638 |
+| Sancho Panza | 32.00% | ~197,467 |
+| Oh, So This Is How It Works! | 29.00% | ~178,955 |
+| Flag Burning | 27.00% | ~166,613 |
+| Under Pressure | 25.00% | ~154,271 |
+| It Wasn't That Hard, Was It? | 25.00% | ~154,271 |
+| Can't Touch This! | 25.00% | ~154,271 |
+| On the Trail of the Enemy | 24.00% | ~148,100 |
+| Light in the Darkness | 24.00% | ~148,100 |
+| Get Outta My House! | 23.00% | ~141,930 |
+| Night Hunter | 22.00% | ~135,759 |
+| Being All Social | 22.00% | ~135,759 |
+| After the Fall | 20.00% | ~123,417 |
+| We Will Be Heard! | 18.00% | ~111,075 |
+| Tunnel Entrance | 18.00% | ~111,075 |
+| Known Associate | 17.00% | ~104,904 |
+| Brush with Death | 16.00% | ~98,734 |
+| Debris and Ashes | 15.00% | ~92,563 |
+| Going Down | 15.00% | ~92,563 |
+| Family First | 15.00% | ~92,563 |
+| Your World, Your Rules | 15.00% | ~92,563 |
+| Death From Afar | 14.00% | ~86,392 |
+| Terminal Headache | 14.00% | ~86,392 |
+| Slowpoke! | 12.00% | ~74,050 |
+| Tickets, Please! | 7.00% | ~43,196 |
+| Parkour Master | 6.00% | ~37,025 |
+| Combat Master | 6.00% | ~37,025 |
 | Municipal Services | 5.00% | ~30,854 |
 | Ban Hammer | 5.00% | ~30,854 |
 | Modder | 5.00% | ~30,854 |
@@ -44,10 +44,10 @@ Number of Ratings: 7,305  (23.09.2022)
 | Don Quixote | 4.00% | ~24,683 |
 | Can't You Read the Signs? | 4.00% | ~24,683 |
 | Boot Licker | 4.00% | ~24,683 |
-| Tanning Salon | 3.00% | ~18,512 |
-| That's Teamwork! | 3.00% | ~18,512 |
-| Ironheart | 3.00% | ~18,512 |
-| You're Going Down! | 3.00% | ~18,512 |
+| Tanning Salon | 3.00% | ~18,513 |
+| That's Teamwork! | 3.00% | ~18,513 |
+| Ironheart | 3.00% | ~18,513 |
+| You're Going Down! | 3.00% | ~18,513 |
 | Revenants | 2.00% | ~12,342 |
 | Who Wants To Be a... | 2.00% | ~12,342 |
 | Lightning Reflexes | 2.00% | ~12,342 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~263 |
 | Connoisseur | 0.10% | ~263 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 617,075 (Ranked 27)  
+Progressed: 617,085 (Ranked 27)  
 Completed: 62 (0.01%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 62 (0.01%) (Ranked 252)
 | 2023-08-25 | 615,875 | 62 |
 | 2023-08-26 | 616,263 | 62 |
 | 2023-08-27 | 616,734 | 62 |
-| 2023-08-28 | 617,075 | 62 |
+| 2023-08-28 | 617,085 | 62 |
 ## Awards
 Max (Character Customization): 8,916  (Ranked 40)  
 Sum: 21,439 (Ranked 55)  

@@ -588,9 +588,9 @@
       "ID": "AC07",
       "SetID": "l4abp0",
       "Name": "The Sea dies on the Shore",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 147
+      "UsersEstimate": 152
     },
     {
       "ID": "AC08",
@@ -772,9 +772,9 @@
       "ID": "AC30",
       "SetID": "l4abp0",
       "Name": "The Anointed One",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 220
     },
     {
       "ID": "AC31",
@@ -907,8 +907,8 @@
   ],
   "FirstSeen": "2023-07-26T07:57:19.1818171+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
-  "LastChanged_Achievements": "2023-08-28T20:35:23.7517881+00:00",
+  "LastChanged_Achievements": "2023-08-28T20:54:01.3249016+00:00",
   "LastUpdate_AppInfo": "2023-08-22T18:57:00.5189311+00:00",
-  "LastUpdate_Ratings": "2023-08-28T20:29:13.1874188+00:00",
-  "LastUpdate_Achievements": "2023-08-28T20:35:23.7518198+00:00"
+  "LastUpdate_Ratings": "2023-08-28T20:48:00.5707815+00:00",
+  "LastUpdate_Achievements": "2023-08-28T20:54:01.3249328+00:00"
 }

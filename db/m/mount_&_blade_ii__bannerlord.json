@@ -6753,7 +6753,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 59862,
+  "EOS_Progressed": 59864,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 481,
   "EOS_NewCompleters": 0,
@@ -20558,6 +20558,11 @@
       "Time": "2023-08-28T20:05:57.3637104+00:00",
       "NumProgressed": 59862,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-28T20:54:42.0729658+00:00",
+      "NumProgressed": 59864,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -20569,7 +20574,7 @@
       "Name": "Against all odds",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7183
+      "UsersEstimate": 7184
     },
     {
       "ID": "Apple of my eye",
@@ -20577,7 +20582,7 @@
       "Name": "Apple of my eye",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 8979
+      "UsersEstimate": 8980
     },
     {
       "ID": "Bannerlord",
@@ -20585,7 +20590,7 @@
       "Name": "Bannerlord",
       "Percentage": 23,
       "XP": 65,
-      "UsersEstimate": 13768
+      "UsersEstimate": 13769
     },
     {
       "ID": "Best served cold",
@@ -20625,7 +20630,7 @@
       "Name": "Crowdfunded",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2394
+      "UsersEstimate": 2395
     },
     {
       "ID": "Crackshot",
@@ -20641,7 +20646,7 @@
       "Name": "Crush your enemies",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2394
+      "UsersEstimate": 2395
     },
     {
       "ID": "Duelist",
@@ -20729,7 +20734,7 @@
       "Name": "Horde breaker",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 13768
+      "UsersEstimate": 13769
     },
     {
       "ID": "I can do it",
@@ -20737,7 +20742,7 @@
       "Name": "I can do it",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8979
+      "UsersEstimate": 8980
     },
     {
       "ID": "I spit on your grave",
@@ -20809,7 +20814,7 @@
       "Name": "Lawmaker",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 13768
+      "UsersEstimate": 13769
     },
     {
       "ID": "Long live the Empire",
@@ -20921,7 +20926,7 @@
       "Name": "The king is pleased",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 10775
+      "UsersEstimate": 10776
     },
     {
       "ID": "This Is Our Land",
@@ -20961,7 +20966,7 @@
       "Name": "Veni vidi vici",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2394
+      "UsersEstimate": 2395
     },
     {
       "ID": "What have the Romans ever done for us",
@@ -20976,15 +20981,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 59862,
+      "Progressed": 59864,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-08-28T19:58:22.3538328+00:00",
-  "LastChanged_Achievements": "2023-08-28T20:36:28.1055043+00:00",
+  "LastChanged_Achievements": "2023-08-28T20:54:42.0729652+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:26.1294952+00:00",
-  "LastUpdate_Ratings": "2023-08-28T20:28:03.7711205+00:00",
-  "LastUpdate_Achievements": "2023-08-28T20:36:28.1056026+00:00"
+  "LastUpdate_Ratings": "2023-08-28T20:47:10.7852404+00:00",
+  "LastUpdate_Achievements": "2023-08-28T20:54:42.0730868+00:00"
 }

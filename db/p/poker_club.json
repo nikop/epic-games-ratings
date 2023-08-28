@@ -628,9 +628,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 518913,
+  "EOS_Progressed": 518914,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2320,
+  "EOS_NewPlayers": 2303,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14893,6 +14893,11 @@
       "Time": "2023-08-28T20:32:28.5735366+00:00",
       "NumProgressed": 518913,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-28T20:51:36.3497049+00:00",
+      "NumProgressed": 518914,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -14904,7 +14909,7 @@
       "Name": "A Bit On The Side",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 134917
+      "UsersEstimate": 134918
     },
     {
       "ID": "Backdoor",
@@ -15056,7 +15061,7 @@
       "Name": "Handy",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 212754
+      "UsersEstimate": 212755
     },
     {
       "ID": "HoldingYourOwn",
@@ -15152,7 +15157,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 394374
+      "UsersEstimate": 394375
     },
     {
       "ID": "ProPlayer",
@@ -15232,7 +15237,7 @@
       "Name": "Three Way",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 93404
+      "UsersEstimate": 93405
     },
     {
       "ID": "TopDog",
@@ -15256,14 +15261,14 @@
       "Name": "W.H.I.P.",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 57080
+      "UsersEstimate": 57081
     }
   ],
   "AchievementSets": [
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 518913,
+      "Progressed": 518914,
       "Completed": 2
     }
   ],
@@ -15271,8 +15276,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-08-27T10:58:18.2889605+00:00",
-  "LastChanged_Achievements": "2023-08-28T20:32:28.5735362+00:00",
+  "LastChanged_Achievements": "2023-08-28T20:51:36.3497045+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:32.176606+00:00",
-  "LastUpdate_Ratings": "2023-08-28T20:28:11.7267653+00:00",
-  "LastUpdate_Achievements": "2023-08-28T20:32:28.5736367+00:00"
+  "LastUpdate_Ratings": "2023-08-28T20:47:17.3066982+00:00",
+  "LastUpdate_Achievements": "2023-08-28T20:51:36.3497987+00:00"
 }

@@ -565,9 +565,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 340317,
+  "EOS_Progressed": 340318,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1458,
+  "EOS_NewPlayers": 1450,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14995,6 +14995,11 @@
       "Time": "2023-08-28T20:34:12.6187633+00:00",
       "NumProgressed": 340317,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-28T20:53:08.1990656+00:00",
+      "NumProgressed": 340318,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -15518,7 +15523,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 47644
+      "UsersEstimate": 47645
     },
     {
       "ID": "ach067",
@@ -15542,7 +15547,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 47644
+      "UsersEstimate": 47645
     },
     {
       "ID": "ach070",
@@ -15645,7 +15650,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 340317,
+      "Progressed": 340318,
       "Completed": 7
     }
   ],
@@ -15653,8 +15658,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-08-28T15:01:59.5456398+00:00",
-  "LastChanged_Achievements": "2023-08-28T20:34:12.6187627+00:00",
+  "LastChanged_Achievements": "2023-08-28T20:53:08.1990651+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:37.3542744+00:00",
-  "LastUpdate_Ratings": "2023-08-28T20:30:59.9937521+00:00",
-  "LastUpdate_Achievements": "2023-08-28T20:34:12.6188965+00:00"
+  "LastUpdate_Ratings": "2023-08-28T20:49:19.5329693+00:00",
+  "LastUpdate_Achievements": "2023-08-28T20:53:08.1991688+00:00"
 }
