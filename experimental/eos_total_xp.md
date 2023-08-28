@@ -64,6 +64,7 @@
 | [Aerial Platforms](../games/e/ea6b00889ce34487bdc4b03fa35dd8f3.md) | 11 | 1,000 |
 | [Afterglitch](../games/a/afterglitch.md) | 10 | 1,000 |
 | [Against the Storm](../games/a/against_the_storm.md) | 50 | 1,000 |
+| [Agatha Christie - Hercule Poirot: The London Case](../games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 46 | 1,000 |
 | [Airborne Kingdom](../games/a/airborne_kingdom.md) | 27 | 1,000 |
 | [Airoheart](../games/a/airoheart.md) | 29 | 1,000 |
 | [Alekon](../games/9/947753e35eda434f9eafba17afa8f570.md) | 40 | 1,000 |

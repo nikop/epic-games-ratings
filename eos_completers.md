@@ -30,7 +30,7 @@
 | 28 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.71% |
 | 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.29% |
 | 30 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
-| 31 | [Sonic Origins](games/s/sonic_origins.md) | 9.28% |
+| 31 | [Sonic Origins](games/s/sonic_origins.md) | 9.26% |
 | 32 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
 | 32 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 9.09% |
 | 34 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.93% |
@@ -43,8 +43,8 @@
 | 41 | [Time Loader](games/t/time_loader.md) | 6.78% |
 | 42 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 6.67% |
 | 43 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.64% |
-| 44 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.45% |
-| 45 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
+| 44 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.35% |
+| 44 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 46 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 47 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.88% |
 | 48 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.33% |
@@ -71,16 +71,16 @@
 | 69 | [The Complex](games/t/the_complex.md) | 3.33% |
 | 70 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
 | 71 | [HordeCore](games/h/hordecore.md) | 3.15% |
-| 72 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.13% |
+| 72 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.12% |
 | 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.09% |
 | 74 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.02% |
 | 75 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.95% |
 | 76 | [Monster Harvest](games/m/monster_harvest.md) | 2.93% |
 | 76 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 78 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.80% |
-| 79 | [Destiny 2](games/d/destiny_2.md) | 2.74% |
 | 79 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.74% |
-| 81 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
+| 80 | [Destiny 2](games/d/destiny_2.md) | 2.73% |
+| 80 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 82 | [The Bunker](games/t/the_bunker.md) | 2.61% |
 | 83 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.58% |
 | 83 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.58% |
@@ -88,7 +88,7 @@
 | 86 | [Lamentum](games/l/lamentum.md) | 2.53% |
 | 87 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 88 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.42% |
-| 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.25% |
+| 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.24% |
 | 90 | [Bloodshore](games/b/bloodshore.md) | 2.20% |
 | 91 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
 | 92 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.01% |
