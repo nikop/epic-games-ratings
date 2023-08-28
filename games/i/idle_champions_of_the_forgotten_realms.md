@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 926)  
+Rating: 4.06 (Ranked 927)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -17,6 +17,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Are Ya Chicken? | 0.40% | ~903 |
 | Maddening | 0.30% | ~677 |
 | A Persistent Buzzing | 0.30% | ~677 |
+| Terror in the Dark | 0.30% | ~677 |
 | A Mysterious Summons | 0.30% | ~677 |
 | The Crumbling Temple | 0.30% | ~677 |
 | Seeking Allies | 0.30% | ~677 |
@@ -35,6 +36,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Silken Swamp | 0.20% | ~451 |
 | Wet Feet | 0.20% | ~451 |
 | Supply Run | 0.20% | ~451 |
+| Heavy Burden | 0.20% | ~451 |
 | Seeds of Destruction | 0.20% | ~384 |
 | Speeds of Destruction | 0.20% | ~384 |
 | The Evacuation of Waterdeep | 0.20% | ~384 |
@@ -52,7 +54,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | No One Can Hear You Scream | 0.20% | ~384 |
 | Welcome to the Rock | 0.20% | ~384 |
 | Beast Mode | 0.20% | ~451 |
-| Terror in the Dark | 0.20% | ~451 |
 | Low Initiative | 0.20% | ~451 |
 | Street War | 0.20% | ~451 |
 | Force Grey Unleashed | 0.20% | ~451 |
@@ -193,7 +194,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Howling Peaks of Yon | 0.10% | ~192 |
 | Strength of Character | 0.10% | ~192 |
 | The Invisible Wizards of Thay | 0.10% | ~192 |
-| Heavy Burden | 0.10% | ~226 |
 | Owlbear Necessities | 0.10% | ~192 |
 | Flapjacks and Waffles | 0.10% | ~192 |
 | On the Hunt | 0.10% | ~226 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~192 |
 | Animated Giff | 0.10% | ~192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,647 (Ranked 53)  
+Progressed: 225,663 (Ranked 53)  
 Completed: 2,223 (0.99%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -653,7 +653,7 @@ Completed: 2,223 (0.99%) (Ranked 120)
 | 2023-08-25 | 224,925 | 2,214 |
 | 2023-08-26 | 225,221 | 2,219 |
 | 2023-08-27 | 225,526 | 2,222 |
-| 2023-08-28 | 225,647 | 2,223 |
+| 2023-08-28 | 225,663 | 2,223 |
 ## Awards
 Max (Diverse Characters): 5,202  (Ranked 68)  
 Sum: 31,259 (Ranked 39)  

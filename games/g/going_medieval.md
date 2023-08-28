@@ -20,7 +20,7 @@ Number of Ratings: 706  (23.09.2022)
 | Beam Me Up | 50.00% | ~2,770 |
 | Feast or Famine | 47.00% | ~2,604 |
 | Adept Researcher | 44.00% | ~2,438 |
-| Retribution | 40.00% | ~2,216 |
+| Retribution | 41.00% | ~2,271 |
 | ...And Don’t Come Back! | 40.00% | ~2,216 |
 | Fit For A King | 36.00% | ~1,994 |
 | Luminary Researcher | 32.00% | ~1,773 |

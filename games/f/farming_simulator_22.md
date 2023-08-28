@@ -24,11 +24,11 @@ Number of Ratings: 7,683  (23.09.2022)
 | You wood not believe it | 22.00% | ~10,528 |
 | Vehicle fleet | 22.00% | ~10,528 |
 | The plot thickens | 16.00% | ~7,656 |
+| Large-scale supplier | 16.00% | ~7,656 |
 | Well-Oiled Machine | 16.00% | ~7,656 |
 | Long haul | 16.00% | ~7,656 |
 | Clucky Streak | 15.00% | ~7,178 |
-| Large-scale supplier | 15.00% | ~7,178 |
-| That's a wrap | 14.00% | ~6,699 |
+| That's a wrap | 15.00% | ~7,178 |
 | Fix me up | 13.00% | ~6,221 |
 | Rock on | 12.00% | ~5,742 |
 | Highly cultivated | 11.00% | ~5,264 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 118,
   "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 17,
+  "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -96,9 +96,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 71525,
+  "EOS_Progressed": 71531,
   "EOS_Completed": 729,
-  "EOS_NewPlayers": 790,
+  "EOS_NewPlayers": 794,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
@@ -14486,6 +14486,11 @@
       "Time": "2023-08-28T12:04:52.2968596+00:00",
       "NumProgressed": 71525,
       "NumCompleted": 729
+    },
+    {
+      "Time": "2023-08-28T13:09:34.8166261+00:00",
+      "NumProgressed": 71531,
+      "NumCompleted": 729
     }
   ],
   "TotalAchievements": 25,
@@ -14513,7 +14518,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 12874
+      "UsersEstimate": 12876
     },
     {
       "ID": "Audiophile",
@@ -14521,7 +14526,7 @@
       "Name": "Audiophile",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1430
+      "UsersEstimate": 1431
     },
     {
       "ID": "Be Seeing You",
@@ -14529,7 +14534,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 15736
+      "UsersEstimate": 15737
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -14537,7 +14542,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 12874
+      "UsersEstimate": 12876
     },
     {
       "ID": "Butcher",
@@ -14569,7 +14574,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 14305
+      "UsersEstimate": 14306
     },
     {
       "ID": "Hearty",
@@ -14585,7 +14590,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 6437
+      "UsersEstimate": 6438
     },
     {
       "ID": "Magnetic Miracles",
@@ -14601,7 +14606,7 @@
       "Name": "Master, Commander",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 14305
+      "UsersEstimate": 14306
     },
     {
       "ID": "Meaty",
@@ -14617,7 +14622,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 13590
+      "UsersEstimate": 13591
     },
     {
       "ID": "Nice Try",
@@ -14625,7 +14630,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 11444
+      "UsersEstimate": 11445
     },
     {
       "ID": "Nothing Left to Say",
@@ -14641,7 +14646,7 @@
       "Name": "Piano Man",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 7152
+      "UsersEstimate": 7153
     },
     {
       "ID": "Right On Target",
@@ -14649,7 +14654,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 9298
+      "UsersEstimate": 9299
     },
     {
       "ID": "Sniper",
@@ -14681,7 +14686,7 @@
       "Name": "Tape Head",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1430
+      "UsersEstimate": 1431
     },
     {
       "ID": "Vinyl Vibes",
@@ -14696,7 +14701,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 71525,
+      "Progressed": 71531,
       "Completed": 729
     }
   ],
@@ -14704,8 +14709,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-08-07T22:57:38.0235808+00:00",
-  "LastChanged_Achievements": "2023-08-28T12:04:52.296859+00:00",
+  "LastChanged_Achievements": "2023-08-28T13:09:34.8166256+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:13.605884+00:00",
-  "LastUpdate_Ratings": "2023-08-28T11:58:57.4007241+00:00",
-  "LastUpdate_Achievements": "2023-08-28T12:04:52.2969662+00:00"
+  "LastUpdate_Ratings": "2023-08-28T13:03:51.27795+00:00",
+  "LastUpdate_Achievements": "2023-08-28T13:09:34.8167332+00:00"
 }

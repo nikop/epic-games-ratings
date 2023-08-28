@@ -32,12 +32,12 @@ Number of Ratings: 371  (23.09.2022)
 | A Gift Spurned | 0.60% | ~19 |
 | Long Distance Call | 0.60% | ~19 |
 | Tactical Flexibility | 0.60% | ~19 |
+| Tactical Sabotage | 0.60% | ~19 |
 | Fleetmaster | 0.50% | ~16 |
 | Daemonkeeper | 0.50% | ~16 |
 | Exterminator | 0.50% | ~16 |
 | Mind Like a Fortress | 0.50% | ~16 |
 | Preservationist | 0.50% | ~16 |
-| Tactical Sabotage | 0.50% | ~16 |
 | Patron of Deimos | 0.40% | ~13 |
 | For the Machine God | 0.40% | ~13 |
 | Engine Kill | 0.40% | ~13 |

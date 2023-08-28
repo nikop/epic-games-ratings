@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -252,9 +252,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 65915,
+  "EOS_Progressed": 65917,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -8817,6 +8817,11 @@
       "Time": "2023-08-28T11:08:22.4216329+00:00",
       "NumProgressed": 65915,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-08-28T13:11:34.9259326+00:00",
+      "NumProgressed": 65917,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 20,
@@ -8836,7 +8841,7 @@
       "Name": "Bonfire Lit",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 1977
+      "UsersEstimate": 1978
     },
     {
       "ID": "ACH_CHURCHCANDLES",
@@ -8948,7 +8953,7 @@
       "Name": "Chain Breaker",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "ACH_SERGIOMISSION",
@@ -8980,14 +8985,14 @@
       "Name": "Survival Expert",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 1977
+      "UsersEstimate": 1978
     }
   ],
   "AchievementSets": [
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 65915,
+      "Progressed": 65917,
       "Completed": 13
     }
   ],
@@ -8995,8 +9000,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-08-26T23:01:09.4658667+00:00",
-  "LastChanged_Achievements": "2023-08-28T12:07:16.8897277+00:00",
+  "LastChanged_Achievements": "2023-08-28T13:11:34.9259322+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:34.2677684+00:00",
-  "LastUpdate_Ratings": "2023-08-28T11:59:51.4306656+00:00",
-  "LastUpdate_Achievements": "2023-08-28T12:07:16.889795+00:00"
+  "LastUpdate_Ratings": "2023-08-28T13:04:44.8318093+00:00",
+  "LastUpdate_Achievements": "2023-08-28T13:11:34.9259927+00:00"
 }

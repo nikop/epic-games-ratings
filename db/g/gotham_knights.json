@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2540,9 +2540,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 68086,
+  "EOS_Progressed": 68087,
   "EOS_Completed": 109,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -13380,6 +13380,11 @@
       "Time": "2023-08-28T12:07:21.6819101+00:00",
       "NumProgressed": 68086,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2023-08-28T13:11:38.9846202+00:00",
+      "NumProgressed": 68087,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 61,
@@ -13503,7 +13508,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 12255
+      "UsersEstimate": 12256
     },
     {
       "ID": "CLAYFACE_3",
@@ -13631,7 +13636,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 12936
+      "UsersEstimate": 12937
     },
     {
       "ID": "FREEZE_3",
@@ -13735,7 +13740,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 34043
+      "UsersEstimate": 34044
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -13783,7 +13788,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 23149
+      "UsersEstimate": 23150
     },
     {
       "ID": "MYSTERY_02",
@@ -13815,7 +13820,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 12255
+      "UsersEstimate": 12256
     },
     {
       "ID": "MYSTERY_06",
@@ -13847,7 +13852,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 7489
+      "UsersEstimate": 7490
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -13878,13 +13883,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 68086,
+      "Progressed": 68087,
       "Completed": 109
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38366,
+      "Progressed": 38367,
       "Completed": 2660
     }
   ],
@@ -13892,8 +13897,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-08-27T22:58:26.2970605+00:00",
-  "LastChanged_Achievements": "2023-08-28T12:07:21.6819093+00:00",
+  "LastChanged_Achievements": "2023-08-28T13:11:38.9846197+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:22.0819335+00:00",
-  "LastUpdate_Ratings": "2023-08-28T11:58:11.709367+00:00",
-  "LastUpdate_Achievements": "2023-08-28T12:07:21.6820348+00:00"
+  "LastUpdate_Ratings": "2023-08-28T13:03:06.5783901+00:00",
+  "LastUpdate_Achievements": "2023-08-28T13:11:38.9847439+00:00"
 }

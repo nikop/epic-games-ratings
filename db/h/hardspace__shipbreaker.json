@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -1683,9 +1683,9 @@
       "ID": "ACH_BREATHE_IN_BREATHE_OUT",
       "SetID": "108h92c",
       "Name": "Breathe In\u2026 Breathe Out\u2026",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 645
+      "UsersEstimate": 654
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -1763,9 +1763,9 @@
       "ID": "ACH_LETS_PATCH_THINGS_UP",
       "SetID": "108h92c",
       "Name": "Let\u2019s patch things up",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 575
+      "UsersEstimate": 583
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -1828,8 +1828,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-27T22:57:40.9300302+00:00",
-  "LastChanged_Achievements": "2023-08-28T12:04:58.6323463+00:00",
+  "LastChanged_Achievements": "2023-08-28T13:09:41.2686305+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:35.5861356+00:00",
-  "LastUpdate_Ratings": "2023-08-28T11:59:52.3026767+00:00",
-  "LastUpdate_Achievements": "2023-08-28T12:04:58.6323738+00:00"
+  "LastUpdate_Ratings": "2023-08-28T13:04:45.7276387+00:00",
+  "LastUpdate_Achievements": "2023-08-28T13:09:41.268664+00:00"
 }

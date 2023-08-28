@@ -27,6 +27,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Flooding the Market | 0.60% | ~812 |
 | Where it Hurts | 0.60% | ~812 |
 | Dungeon Imports | 0.60% | ~812 |
+| On the Path to Greatness | 0.50% | ~676 |
 | Ascended | 0.50% | ~676 |
 | Blank Page Syndrome | 0.50% | ~676 |
 | Efficient Floor Space | 0.50% | ~676 |
@@ -35,7 +36,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Accomplished Merchant | 0.50% | ~676 |
 | Did we pack lunch? | 0.50% | ~676 |
 | Arcane Industries | 0.50% | ~676 |
-| On the Path to Greatness | 0.40% | ~541 |
 | Tax not Included | 0.40% | ~541 |
 | Research & Development | 0.40% | ~541 |
 | Vanity, Verily | 0.40% | ~541 |

@@ -587,9 +587,9 @@
       "ID": "ending_5",
       "SetID": "d4f4pll",
       "Name": "Lab Rat",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 130
+      "UsersEstimate": 135
     },
     {
       "ID": "ending_6",
@@ -635,9 +635,9 @@
       "ID": "kamikaze",
       "SetID": "d4f4pll",
       "Name": "Kamikaze",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 100,
-      "UsersEstimate": 346
+      "UsersEstimate": 351
     },
     {
       "ID": "kindar_surprise",
@@ -700,8 +700,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-08-28T12:06:18.4545309+00:00",
+  "LastChanged_Achievements": "2023-08-28T13:11:00.7388769+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:17.2748315+00:00",
-  "LastUpdate_Ratings": "2023-08-28T11:59:37.1099295+00:00",
-  "LastUpdate_Achievements": "2023-08-28T12:06:18.4545466+00:00"
+  "LastUpdate_Ratings": "2023-08-28T13:04:28.8052263+00:00",
+  "LastUpdate_Achievements": "2023-08-28T13:11:00.7388983+00:00"
 }

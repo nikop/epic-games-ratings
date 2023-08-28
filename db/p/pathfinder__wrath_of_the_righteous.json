@@ -3548,9 +3548,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 11110,
+  "EOS_Progressed": 11111,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11458,6 +11458,11 @@
       "Time": "2023-08-28T09:07:06.9611409+00:00",
       "NumProgressed": 11110,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-28T13:10:38.9844329+00:00",
+      "NumProgressed": 11111,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -11469,7 +11474,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 2555
+      "UsersEstimate": 2556
     },
     {
       "ID": "02_BurningCity",
@@ -11717,7 +11722,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1555
+      "UsersEstimate": 1556
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -12396,21 +12401,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9892,
+      "Progressed": 9893,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11110,
+      "Progressed": 11111,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-27T16:02:09.6319586+00:00",
-  "LastChanged_Achievements": "2023-08-28T12:05:56.714322+00:00",
+  "LastChanged_Achievements": "2023-08-28T13:10:38.9844325+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:16.3191421+00:00",
-  "LastUpdate_Ratings": "2023-08-28T12:00:43.2909369+00:00",
-  "LastUpdate_Achievements": "2023-08-28T12:05:56.7145344+00:00"
+  "LastUpdate_Ratings": "2023-08-28T13:05:38.266746+00:00",
+  "LastUpdate_Achievements": "2023-08-28T13:10:38.9846387+00:00"
 }
