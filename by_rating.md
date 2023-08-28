@@ -149,7 +149,7 @@
 | 145 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 803 | 157 |
 | 145 | [Haven](games/h/haven.md) | 4.74 | 0 | 514 |
 | 145 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 9,050 | 39 |
-| 145 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 668 | 173 |
+| 145 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 671 | 173 |
 | 145 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.74 | 0 | 514 |
 | 145 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,994 | 51 |
 | 145 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.74 | 0 | 514 |
@@ -467,7 +467,7 @@
 | 450 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.57 | 0 | 514 |
 | 450 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 3,793 | 82 |
 | 450 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.57 | 30 | 462 |
-| 450 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 19,324 | 19 |
+| 450 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 19,331 | 19 |
 | 450 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,763 | 116 |
 | 450 | [Travellers Rest](games/t/travellers_rest.md) | 4.57 | 0 | 514 |
 | 450 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.57 | 58 | 394 |
@@ -782,17 +782,17 @@
 | 780 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 357 | 226 |
 | 780 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.32 | 60 | 391 |
 | 780 | [Filament](games/f/filament.md) | 4.32 | 561 | 191 |
-| 780 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.32 | 22 | 495 |
 | 780 | [Parkitect](games/p/parkitect.md) | 4.32 | 0 | 514 |
 | 780 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 0 | 514 |
 | 780 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.32 | 0 | 514 |
 | 780 | [Vampyr](games/v/vampyr.md) | 4.32 | 555 | 193 |
-| 788 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 514 |
-| 788 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.31 | 0 | 514 |
-| 788 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.31 | 0 | 514 |
-| 788 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.31 | 79 | 363 |
-| 788 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 964 | 147 |
-| 788 | [Scrapnaut](games/s/scrapnaut.md) | 4.31 | 0 | 514 |
+| 787 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 514 |
+| 787 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.31 | 0 | 514 |
+| 787 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.31 | 0 | 514 |
+| 787 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.31 | 79 | 363 |
+| 787 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.31 | 22 | 495 |
+| 787 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 964 | 147 |
+| 787 | [Scrapnaut](games/s/scrapnaut.md) | 4.31 | 0 | 514 |
 | 794 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 0 | 514 |
 | 794 | [Hammerting](games/h/hammerting.md) | 4.30 | 0 | 514 |
 | 794 | [Hellpoint](games/h/hellpoint.md) | 4.30 | 0 | 514 |
@@ -802,7 +802,7 @@
 | 800 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.29 | 0 | 514 |
 | 800 | [Chess Ultra](games/c/chess_ultra.md) | 4.29 | 0 | 514 |
 | 800 | [Dark Light](games/d/dark_light.md) | 4.29 | 0 | 514 |
-| 800 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,618,231 | 1 |
+| 800 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,621,650 | 1 |
 | 800 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.29 | 0 | 514 |
 | 800 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 721 | 165 |
 | 800 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 44 | 418 |
@@ -958,10 +958,10 @@
 | 954 | [Conarium](games/c/conarium.md) | 3.93 | 0 | 514 |
 | 957 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 333 |
 | 957 | [Warface](games/w/warface.md) | 3.91 | 408 | 214 |
-| 959 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.86 | 0 | 514 |
-| 959 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 0 | 514 |
-| 961 | [Stygian: Reign of the Old Ones](games/s/stygian__reign_of_the_old_ones.md) | 3.85 | 0 | 514 |
-| 962 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 3.84 | 0 | 514 |
+| 959 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 3.88 | 0 | 514 |
+| 960 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.86 | 0 | 514 |
+| 960 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 0 | 514 |
+| 962 | [Stygian: Reign of the Old Ones](games/s/stygian__reign_of_the_old_ones.md) | 3.85 | 0 | 514 |
 | 963 | [Potion Permit](games/p/potion_permit.md) | 3.83 | 69 | 380 |
 | 963 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.83 | 0 | 514 |
 | 965 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.82 | 0 | 514 |

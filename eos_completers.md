@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
-| 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.00% |
+| 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 49.35% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.31% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 36.92% |
 | 5 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 33.33% |
@@ -71,7 +71,7 @@
 | 69 | [The Complex](games/t/the_complex.md) | 3.33% |
 | 70 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
 | 71 | [HordeCore](games/h/hordecore.md) | 3.15% |
-| 72 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.11% |
+| 72 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.10% |
 | 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.09% |
 | 74 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.01% |
 | 75 | [Monster Harvest](games/m/monster_harvest.md) | 2.93% |
@@ -92,7 +92,7 @@
 | 90 | [Bloodshore](games/b/bloodshore.md) | 2.20% |
 | 91 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
 | 92 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.00% |
-| 93 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 1.94% |
+| 93 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 1.93% |
 | 94 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
 | 95 | [Night Book](games/n/night_book.md) | 1.86% |
 | 96 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
@@ -113,17 +113,17 @@
 | 111 | [Late Shift](games/l/late_shift.md) | 1.27% |
 | 112 | [Infindustry](games/i/infindustry.md) | 1.23% |
 | 113 | [Chorus](games/c/chorus.md) | 1.13% |
-| 114 | [Trifox](games/t/trifox.md) | 1.10% |
-| 115 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.06% |
-| 116 | [A Musical Story](games/a/a_musical_story.md) | 1.05% |
-| 117 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.03% |
-| 118 | [Adios](games/a/adios.md) | 1.02% |
-| 119 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.01% |
-| 120 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.99% |
-| 121 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
-| 121 | [Sable](games/s/sable.md) | 0.98% |
-| 123 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.96% |
-| 124 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 0.94% |
+| 113 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 1.13% |
+| 115 | [Trifox](games/t/trifox.md) | 1.10% |
+| 116 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.06% |
+| 117 | [A Musical Story](games/a/a_musical_story.md) | 1.05% |
+| 118 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.03% |
+| 119 | [Adios](games/a/adios.md) | 1.02% |
+| 120 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.01% |
+| 121 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.99% |
+| 122 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
+| 122 | [Sable](games/s/sable.md) | 0.98% |
+| 124 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.95% |
 | 125 | [Hades](games/h/hades.md) | 0.90% |
 | 126 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 127 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
