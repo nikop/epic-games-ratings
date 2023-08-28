@@ -738,9 +738,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 218639,
+  "EOS_Progressed": 218653,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2995,
+  "EOS_NewPlayers": 3009,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8663,6 +8663,11 @@
       "Time": "2023-08-28T20:03:27.4613004+00:00",
       "NumProgressed": 218639,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-28T20:32:36.5588681+00:00",
+      "NumProgressed": 218653,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -8674,7 +8679,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2186
+      "UsersEstimate": 2187
     },
     {
       "ID": "100Fail",
@@ -8698,7 +8703,7 @@
       "Name": "Shiny and Cr\u00F4m",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1530
+      "UsersEstimate": 1531
     },
     {
       "ID": "BarbarianKillUsingBow",
@@ -8706,7 +8711,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2186
+      "UsersEstimate": 2187
     },
     {
       "ID": "BookCollection",
@@ -8738,7 +8743,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2186
+      "UsersEstimate": 2187
     },
     {
       "ID": "Chapter4",
@@ -9074,7 +9079,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6559
+      "UsersEstimate": 6560
     },
     {
       "ID": "DwarfElf15Support",
@@ -9098,7 +9103,7 @@
       "Name": "%#*!$*!",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1530
+      "UsersEstimate": 1531
     },
     {
       "ID": "DwarfLevel2",
@@ -9122,7 +9127,7 @@
       "Name": "Sowwy!",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 54660
+      "UsersEstimate": 54663
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -9138,7 +9143,7 @@
       "Name": "GG EZ",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2186
+      "UsersEstimate": 2187
     },
     {
       "ID": "EndCombatOneHp",
@@ -9146,7 +9151,7 @@
       "Name": "DM intervention",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2186
+      "UsersEstimate": 2187
     },
     {
       "ID": "EndGameCursed",
@@ -9170,7 +9175,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6559
+      "UsersEstimate": 6560
     },
     {
       "ID": "FollowBraztok",
@@ -9178,7 +9183,7 @@
       "Name": "The beards of change",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1530
+      "UsersEstimate": 1531
     },
     {
       "ID": "FollowNarzatok",
@@ -9298,7 +9303,7 @@
       "Name": "The Ranger of Chaos",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1530
+      "UsersEstimate": 1531
     },
     {
       "ID": "Rogue30Backstab",
@@ -9306,7 +9311,7 @@
       "Name": "I am the night",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1530
+      "UsersEstimate": 1531
     },
     {
       "ID": "RogueEpic",
@@ -9314,7 +9319,7 @@
       "Name": "Thieves\u0027 Guild Accreditation",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1530
+      "UsersEstimate": 1531
     },
     {
       "ID": "Speedrun",
@@ -9370,28 +9375,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2186
+      "UsersEstimate": 2187
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 218639,
+      "Progressed": 218653,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 218639,
+      "Progressed": 218653,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-28T16:02:03.5571775+00:00",
-  "LastChanged_Achievements": "2023-08-28T20:03:27.4612999+00:00",
+  "LastChanged_Achievements": "2023-08-28T20:32:36.5588677+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:41.9661267+00:00",
-  "LastUpdate_Ratings": "2023-08-28T20:01:05.1601839+00:00",
-  "LastUpdate_Achievements": "2023-08-28T20:03:27.4614439+00:00"
+  "LastUpdate_Ratings": "2023-08-28T20:31:50.1671511+00:00",
+  "LastUpdate_Achievements": "2023-08-28T20:32:36.5589864+00:00"
 }

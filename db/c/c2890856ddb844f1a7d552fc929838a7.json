@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 524,
+  "EOS_Progressed": 525,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 523,
+  "EOS_NewPlayers": 524,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -517,6 +517,11 @@
       "Time": "2023-08-28T20:05:17.6269761+00:00",
       "NumProgressed": 524,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-28T20:35:23.7517886+00:00",
+      "NumProgressed": 525,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -537,7 +542,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 87,
       "XP": 30,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "AC02",
@@ -545,7 +550,7 @@
       "Name": "Blood and Dust",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "AC03",
@@ -553,7 +558,7 @@
       "Name": "Blood and Gold",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "AC04",
@@ -569,7 +574,7 @@
       "Name": "The Sharpest Tool in the Shed",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "AC06",
@@ -577,7 +582,7 @@
       "Name": "The Last Ascension",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "AC07",
@@ -609,15 +614,15 @@
       "Name": "The Wait is Over",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "AC11",
       "SetID": "l4abp0",
       "Name": "A Heart of Gold",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 63
+      "UsersEstimate": 68
     },
     {
       "ID": "AC12",
@@ -679,9 +684,9 @@
       "ID": "AC19",
       "SetID": "l4abp0",
       "Name": "Soledad",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 116
     },
     {
       "ID": "AC20",
@@ -689,7 +694,7 @@
       "Name": "Still Among Us",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "AC21",
@@ -713,7 +718,7 @@
       "Name": "Hide and Seek",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "AC24",
@@ -785,7 +790,7 @@
       "Name": "Nobody Expects the Spanish Inquisition!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "AC33",
@@ -833,7 +838,7 @@
       "Name": "Edge of Orison",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "AC39",
@@ -847,9 +852,9 @@
       "ID": "AC40",
       "SetID": "l4abp0",
       "Name": "Welcome Back!",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 393
+      "UsersEstimate": 399
     },
     {
       "ID": "AC41",
@@ -857,7 +862,7 @@
       "Name": "Happy New Year!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "AC42",
@@ -896,14 +901,14 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 524,
+      "Progressed": 525,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-26T07:57:19.1818171+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
-  "LastChanged_Achievements": "2023-08-28T20:05:17.6269754+00:00",
+  "LastChanged_Achievements": "2023-08-28T20:35:23.7517881+00:00",
   "LastUpdate_AppInfo": "2023-08-22T18:57:00.5189311+00:00",
-  "LastUpdate_Ratings": "2023-08-28T19:59:10.1897727+00:00",
-  "LastUpdate_Achievements": "2023-08-28T20:05:17.6270388+00:00"
+  "LastUpdate_Ratings": "2023-08-28T20:29:13.1874188+00:00",
+  "LastUpdate_Achievements": "2023-08-28T20:35:23.7518198+00:00"
 }

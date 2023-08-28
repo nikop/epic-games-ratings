@@ -3193,9 +3193,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 437712,
+  "EOS_Progressed": 437720,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2600,
+  "EOS_NewPlayers": 2608,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17623,6 +17623,11 @@
       "Time": "2023-08-28T20:01:11.0463189+00:00",
       "NumProgressed": 437712,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-28T20:32:02.4438413+00:00",
+      "NumProgressed": 437720,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -17690,7 +17695,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 17508
+      "UsersEstimate": 17509
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -17738,7 +17743,7 @@
       "Name": "High Speed Low Drag",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 13131
+      "UsersEstimate": 13132
     },
     {
       "ID": "ACH_JR_50",
@@ -17762,7 +17767,7 @@
       "Name": "Lucky",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 13131
+      "UsersEstimate": 13132
     },
     {
       "ID": "ACH_MOUNT_AND_GUN",
@@ -17802,7 +17807,7 @@
       "Name": "Point Shooting",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 17508
+      "UsersEstimate": 17509
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -17866,7 +17871,7 @@
       "Name": "Stylin\u0027",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 13131
+      "UsersEstimate": 13132
     },
     {
       "ID": "ACH_THANKS_STATION",
@@ -17890,7 +17895,7 @@
       "Name": "Turf War",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 13131
+      "UsersEstimate": 13132
     },
     {
       "ID": "ACH_WALLBANGER",
@@ -17906,22 +17911,22 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 17508
+      "UsersEstimate": 17509
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 437712,
+      "Progressed": 437720,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-08-28T19:00:38.062358+00:00",
-  "LastChanged_Achievements": "2023-08-28T20:01:11.0463181+00:00",
+  "LastChanged_Achievements": "2023-08-28T20:32:02.4438404+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:42.1535324+00:00",
-  "LastUpdate_Ratings": "2023-08-28T20:00:36.2759671+00:00",
-  "LastUpdate_Achievements": "2023-08-28T20:01:11.0464543+00:00"
+  "LastUpdate_Ratings": "2023-08-28T20:31:07.4577612+00:00",
+  "LastUpdate_Achievements": "2023-08-28T20:32:02.4439325+00:00"
 }

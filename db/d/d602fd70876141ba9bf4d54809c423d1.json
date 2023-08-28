@@ -642,9 +642,9 @@
       "ID": "ACHIEVEMENT_27",
       "SetID": "ap8553i",
       "Name": "Bloody Bar Brawl",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -1015,8 +1015,8 @@
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-08-28T20:05:51.0437273+00:00",
+  "LastChanged_Achievements": "2023-08-28T20:36:19.6405324+00:00",
   "LastUpdate_AppInfo": "2023-08-23T17:57:10.3780808+00:00",
-  "LastUpdate_Ratings": "2023-08-28T19:59:03.0917393+00:00",
-  "LastUpdate_Achievements": "2023-08-28T20:05:51.0438005+00:00"
+  "LastUpdate_Ratings": "2023-08-28T20:29:02.7480008+00:00",
+  "LastUpdate_Achievements": "2023-08-28T20:36:19.6405969+00:00"
 }

@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 501)
 | Rising Star | 0.10% | ~668 |
 | Bucket List | 0.10% | ~668 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 667,983 (Ranked 22)  
-Completed: 2,085 (0.31%) (Ranked 173)  
+Progressed: 667,997 (Ranked 22)  
+Completed: 2,086 (0.31%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -181,7 +181,7 @@ Completed: 2,085 (0.31%) (Ranked 173)
 | 2023-08-25 | 665,272 | 2,068 |
 | 2023-08-26 | 666,250 | 2,078 |
 | 2023-08-27 | 667,273 | 2,082 |
-| 2023-08-28 | 667,983 | 2,085 |
+| 2023-08-28 | 667,997 | 2,086 |
 ## Awards
 Max (Great Boss Battles): 5,791  (Ranked 61)  
 Sum: 8,530 (Ranked 97)  

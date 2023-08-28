@@ -2107,9 +2107,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 659531,
+  "EOS_Progressed": 659535,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 2539,
+  "EOS_NewPlayers": 2543,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16582,6 +16582,11 @@
       "Time": "2023-08-28T20:06:38.0507728+00:00",
       "NumProgressed": 659531,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-08-28T20:37:33.4276418+00:00",
+      "NumProgressed": 659535,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 54,
@@ -16593,7 +16598,7 @@
       "Name": "The dream begins",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 527625
+      "UsersEstimate": 527628
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -16681,7 +16686,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 237431
+      "UsersEstimate": 237433
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -16833,7 +16838,7 @@
       "Name": "The first of many",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 204455
+      "UsersEstimate": 204456
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -17024,15 +17029,15 @@
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 659531,
+      "Progressed": 659535,
       "Completed": 15
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-08-24T20:01:04.1218571+00:00",
-  "LastChanged_Achievements": "2023-08-28T20:06:38.0507721+00:00",
+  "LastChanged_Achievements": "2023-08-28T20:37:33.4276413+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:41.5729558+00:00",
-  "LastUpdate_Ratings": "2023-08-28T20:00:35.9917068+00:00",
-  "LastUpdate_Achievements": "2023-08-28T20:06:38.0509214+00:00"
+  "LastUpdate_Ratings": "2023-08-28T20:31:06.6450847+00:00",
+  "LastUpdate_Achievements": "2023-08-28T20:37:33.4277456+00:00"
 }

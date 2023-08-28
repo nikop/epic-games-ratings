@@ -380,9 +380,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12879,
+  "EOS_Progressed": 12880,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -7725,6 +7725,11 @@
       "Time": "2023-08-28T20:05:53.7428868+00:00",
       "NumProgressed": 12879,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-08-28T20:36:23.4255785+00:00",
+      "NumProgressed": 12880,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 35,
@@ -7736,7 +7741,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 11849
+      "UsersEstimate": 11850
     },
     {
       "ID": "ACH_02",
@@ -7744,7 +7749,7 @@
       "Name": "Newcomers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 10174
+      "UsersEstimate": 10175
     },
     {
       "ID": "ACH_03",
@@ -7752,7 +7757,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 9530
+      "UsersEstimate": 9531
     },
     {
       "ID": "ACH_04",
@@ -7760,7 +7765,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 9015
+      "UsersEstimate": 9016
     },
     {
       "ID": "ACH_05",
@@ -7776,7 +7781,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 8371
+      "UsersEstimate": 8372
     },
     {
       "ID": "ACH_07",
@@ -7784,7 +7789,7 @@
       "Name": "Felons",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 7985
+      "UsersEstimate": 7986
     },
     {
       "ID": "ACH_08",
@@ -7792,7 +7797,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 7856
+      "UsersEstimate": 7857
     },
     {
       "ID": "ACH_09",
@@ -7800,7 +7805,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 7341
+      "UsersEstimate": 7342
     },
     {
       "ID": "ACH_10",
@@ -7824,7 +7829,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 5924
+      "UsersEstimate": 5925
     },
     {
       "ID": "ACH_13",
@@ -7840,7 +7845,7 @@
       "Name": "Healing our Wounds",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 4765
+      "UsersEstimate": 4766
     },
     {
       "ID": "ACH_15",
@@ -7912,7 +7917,7 @@
       "Name": "Improved crossbow",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 3477
+      "UsersEstimate": 3478
     },
     {
       "ID": "ACH_24",
@@ -7928,7 +7933,7 @@
       "Name": "Effective instruments",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 2833
+      "UsersEstimate": 2834
     },
     {
       "ID": "ACH_26",
@@ -7984,7 +7989,7 @@
       "Name": "Perfect shot",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 2833
+      "UsersEstimate": 2834
     },
     {
       "ID": "ACH_33",
@@ -7992,7 +7997,7 @@
       "Name": "Perfect throw",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 2833
+      "UsersEstimate": 2834
     },
     {
       "ID": "ACH_34",
@@ -8015,7 +8020,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 12879,
+      "Progressed": 12880,
       "Completed": 44
     }
   ],
@@ -8023,8 +8028,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-08-24T02:10:43.6579276+00:00",
-  "LastChanged_Achievements": "2023-08-28T20:05:53.7428864+00:00",
+  "LastChanged_Achievements": "2023-08-28T20:36:23.425578+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:58.0363669+00:00",
-  "LastUpdate_Ratings": "2023-08-28T19:57:55.3167967+00:00",
-  "LastUpdate_Achievements": "2023-08-28T20:05:53.7429609+00:00"
+  "LastUpdate_Ratings": "2023-08-28T20:27:29.8968671+00:00",
+  "LastUpdate_Achievements": "2023-08-28T20:36:23.4256354+00:00"
 }

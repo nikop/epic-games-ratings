@@ -2487,9 +2487,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 531708,
+  "EOS_Progressed": 531709,
   "EOS_Completed": 1520,
-  "EOS_NewPlayers": 638,
+  "EOS_NewPlayers": 639,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -16562,6 +16562,11 @@
       "Time": "2023-08-28T20:05:51.2552475+00:00",
       "NumProgressed": 531708,
       "NumCompleted": 1520
+    },
+    {
+      "Time": "2023-08-28T20:36:19.8666529+00:00",
+      "NumProgressed": 531709,
+      "NumCompleted": 1520
     }
   ],
   "TotalAchievements": 37,
@@ -16589,7 +16594,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 159512
+      "UsersEstimate": 159513
     },
     {
       "ID": "DEVOTED",
@@ -16669,7 +16674,7 @@
       "Name": "Storied",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 31902
+      "UsersEstimate": 31903
     },
     {
       "ID": "THE_ALKYMANCERY",
@@ -16685,7 +16690,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 212683
+      "UsersEstimate": 212684
     },
     {
       "ID": "THE_CASTLE",
@@ -16709,7 +16714,7 @@
       "Name": "The Construct",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 31902
+      "UsersEstimate": 31903
     },
     {
       "ID": "THE_CRYPT",
@@ -16749,7 +16754,7 @@
       "Name": "The Iron Ones",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 95707
+      "UsersEstimate": 95708
     },
     {
       "ID": "THE_KEEP",
@@ -16765,7 +16770,7 @@
       "Name": "The Lake",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 31902
+      "UsersEstimate": 31903
     },
     {
       "ID": "THE_MIRE",
@@ -16805,7 +16810,7 @@
       "Name": "The Ruins",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 31902
+      "UsersEstimate": 31903
     },
     {
       "ID": "THE_SACRIFICE",
@@ -16829,7 +16834,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 340293
+      "UsersEstimate": 340294
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -16868,15 +16873,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 531708,
+      "Progressed": 531709,
       "Completed": 1520
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-08-25T01:38:26.6445869+00:00",
-  "LastChanged_Achievements": "2023-08-28T20:05:51.2552468+00:00",
+  "LastChanged_Achievements": "2023-08-28T20:36:19.8666525+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:39.2486903+00:00",
-  "LastUpdate_Ratings": "2023-08-28T19:57:36.4105028+00:00",
-  "LastUpdate_Achievements": "2023-08-28T20:05:51.255358+00:00"
+  "LastUpdate_Ratings": "2023-08-28T20:27:05.1423894+00:00",
+  "LastUpdate_Achievements": "2023-08-28T20:36:19.8667412+00:00"
 }

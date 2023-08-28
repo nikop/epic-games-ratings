@@ -58,6 +58,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Who Lurks Below? | 0.20% | ~384 |
 | Xanathaaaaaaar! | 0.20% | ~384 |
 | Homecoming | 0.20% | ~452 |
+| The Lost Heir of Omu | 0.20% | ~452 |
 | No One Can Hear You Scream | 0.20% | ~384 |
 | Welcome to the Rock | 0.20% | ~384 |
 | Beast Mode | 0.20% | ~452 |
@@ -84,6 +85,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tower on the Lake | 0.20% | ~452 |
 | Seeds of Deceit | 0.20% | ~452 |
 | Trollskull Manor | 0.20% | ~452 |
+| The Gargoyle's Apprentice | 0.20% | ~452 |
 | Attack on the Manor | 0.20% | ~452 |
 | The Death Curse | 0.20% | ~452 |
 | Treasure Hunters | 0.20% | ~452 |
@@ -227,7 +229,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Anti-Dexterous Explorers | 0.10% | ~226 |
 | Struggling Toward Omu | 0.10% | ~226 |
 | Wagon Train | 0.10% | ~226 |
-| The Lost Heir of Omu | 0.10% | ~226 |
 | Not Very Charming | 0.10% | ~226 |
 | Lobsterfolk Assault | 0.10% | ~226 |
 | Taking Responsibility | 0.10% | ~226 |
@@ -277,7 +278,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Visions of Strahd | 0.10% | ~226 |
 | Seeds of Corruption | 0.10% | ~226 |
 | The Strahd Squad | 0.10% | ~192 |
-| The Gargoyle's Apprentice | 0.10% | ~226 |
 | House of Darkness | 0.10% | ~226 |
 | Home Not So Alone | 0.10% | ~192 |
 | The Trepidatious Trio | 0.10% | ~226 |
@@ -523,8 +523,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~192 |
 | Animated Giff | 0.10% | ~192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,755 (Ranked 53)  
-Completed: 2,223 (0.98%) (Ranked 122)  
+Progressed: 225,762 (Ranked 53)  
+Completed: 2,223 (0.98%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -653,7 +653,7 @@ Completed: 2,223 (0.98%) (Ranked 122)
 | 2023-08-25 | 224,925 | 2,214 |
 | 2023-08-26 | 225,221 | 2,219 |
 | 2023-08-27 | 225,526 | 2,222 |
-| 2023-08-28 | 225,755 | 2,223 |
+| 2023-08-28 | 225,762 | 2,223 |
 ## Awards
 Max (Diverse Characters): 5,202  (Ranked 68)  
 Sum: 31,268 (Ranked 39)  

@@ -714,17 +714,17 @@
       "ID": "BostonHayDay",
       "SetID": "3ai6ml8",
       "Name": "Boston Hay Day",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 280
+      "UsersEstimate": 284
     },
     {
       "ID": "BoxingClever",
       "SetID": "3ai6ml8",
       "Name": "Boxing Clever",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 237
+      "UsersEstimate": 242
     },
     {
       "ID": "Cartographer",
@@ -746,9 +746,9 @@
       "ID": "CongratulationsYouAreAnEngineer",
       "SetID": "3ai6ml8",
       "Name": "Congratulations, you\u0027re an engineer",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 156
+      "UsersEstimate": 161
     },
     {
       "ID": "DarkestBeforeTheDawn",
@@ -873,8 +873,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-08-28T20:04:01.7140291+00:00",
+  "LastChanged_Achievements": "2023-08-28T20:33:41.7757715+00:00",
   "LastUpdate_AppInfo": "2023-08-23T13:00:58.5941376+00:00",
-  "LastUpdate_Ratings": "2023-08-28T19:58:23.9528238+00:00",
-  "LastUpdate_Achievements": "2023-08-28T20:04:01.714047+00:00"
+  "LastUpdate_Ratings": "2023-08-28T20:28:06.0947345+00:00",
+  "LastUpdate_Achievements": "2023-08-28T20:33:41.7757868+00:00"
 }

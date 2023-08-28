@@ -6,22 +6,22 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~15,112 |
-| That's a Grand Army | 3.00% | ~11,334 |
-| That is mine! | 3.00% | ~11,334 |
-| Victorious! | 3.00% | ~11,334 |
-| Brothers in Arms | 2.00% | ~7,556 |
-| That's a Grand Navy | 2.00% | ~7,556 |
-| Seriously?! | 2.00% | ~7,556 |
+| Until death do us apart | 4.00% | ~15,114 |
+| That's a Grand Army | 3.00% | ~11,336 |
+| That is mine! | 3.00% | ~11,336 |
+| Victorious! | 3.00% | ~11,336 |
+| Brothers in Arms | 2.00% | ~7,557 |
+| That's a Grand Navy | 2.00% | ~7,557 |
+| Seriously?! | 2.00% | ~7,557 |
 | Cold War | 1.00% | ~3,778 |
 | Defender of the Faith | 1.00% | ~3,778 |
 | For the Glory | 1.00% | ~3,778 |
 | It's all about the money | 1.00% | ~3,778 |
 | True Catholic | 1.00% | ~3,778 |
-| The Princess is in this Castle | 0.90% | ~3,400 |
-| It's all about luck | 0.80% | ~3,022 |
-| Respected | 0.80% | ~3,022 |
-| Truly Divine Ruler | 0.80% | ~3,022 |
+| The Princess is in this Castle | 0.90% | ~3,401 |
+| It's all about luck | 0.80% | ~3,023 |
+| Respected | 0.80% | ~3,023 |
+| Truly Divine Ruler | 0.80% | ~3,023 |
 | Blockader | 0.70% | ~2,645 |
 | Double the Love | 0.70% | ~2,645 |
 | Royal Authority | 0.60% | ~2,267 |
@@ -34,15 +34,15 @@ Number of Ratings: 8,414  (23.09.2022)
 | Gentle Persuasion | 0.40% | ~1,511 |
 | Queen of Conquest | 0.40% | ~1,511 |
 | This navy can take it all | 0.40% | ~1,511 |
-| All That's Thine Shall Be Mine | 0.30% | ~1,133 |
-| Bright Spark | 0.30% | ~1,133 |
-| The Emperors new clothes | 0.30% | ~1,133 |
-| Factionalism | 0.30% | ~1,133 |
-| A Golden Empire | 0.30% | ~1,133 |
-| Isn't this the way to India? | 0.30% | ~1,133 |
-| Market Control | 0.30% | ~1,133 |
-| The Five Colonies | 0.30% | ~1,133 |
-| Trustworthy | 0.30% | ~1,133 |
+| All That's Thine Shall Be Mine | 0.30% | ~1,134 |
+| Bright Spark | 0.30% | ~1,134 |
+| The Emperors new clothes | 0.30% | ~1,134 |
+| Factionalism | 0.30% | ~1,134 |
+| A Golden Empire | 0.30% | ~1,134 |
+| Isn't this the way to India? | 0.30% | ~1,134 |
+| Market Control | 0.30% | ~1,134 |
+| The Five Colonies | 0.30% | ~1,134 |
+| Trustworthy | 0.30% | ~1,134 |
 | All belongs to Mother Russia | 0.20% | ~756 |
 | At every continent | 0.20% | ~756 |
 | Down Under | 0.20% | ~756 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 377,803 (Ranked 41)  
+Progressed: 377,850 (Ranked 41)  
 Completed: 0 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -491,7 +491,7 @@ Completed: 0 (0.00%) (Ranked 265)
 | 2023-08-25 | 369,495 | 0 |
 | 2023-08-26 | 372,695 | 0 |
 | 2023-08-27 | 375,728 | 0 |
-| 2023-08-28 | 377,803 | 0 |
+| 2023-08-28 | 377,850 | 0 |
 ## Awards
 Max (Educational): 5,814  (Ranked 60)  
 Sum: 47,962 (Ranked 26)  

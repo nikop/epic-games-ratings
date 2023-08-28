@@ -5,39 +5,39 @@ Rating: 4.45 (Ranked 634)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 46.00% | ~1,628 |
+| Meeting Resistance | 46.00% | ~1,629 |
 | Confirming Suspicions | 40.00% | ~1,416 |
-| The Kraken Wakes | 36.00% | ~1,274 |
-| It's Starting to Crack | 33.00% | ~1,168 |
+| The Kraken Wakes | 36.00% | ~1,275 |
+| It's Starting to Crack | 33.00% | ~1,169 |
 | Change the Channel | 30.00% | ~1,062 |
 | Lord of War | 29.00% | ~1,027 |
 | Taking it back | 27.00% | ~956 |
-| Resourceful | 26.00% | ~920 |
+| Resourceful | 26.00% | ~921 |
 | Target America | 25.00% | ~885 |
 | The Kraken Sleeps | 23.00% | ~814 |
 | Organ Grinder | 22.00% | ~779 |
 | As Quiet as a Mouse | 22.00% | ~779 |
-| Liberté | 21.00% | ~743 |
-| Sharpshooter | 21.00% | ~743 |
+| Liberté | 21.00% | ~744 |
+| Sharpshooter | 21.00% | ~744 |
 | Explosive Efficiency | 18.00% | ~637 |
 | Gunslinger | 17.00% | ~602 |
-| Just a Flesh Wound | 16.00% | ~566 |
-| Der Geist | 16.00% | ~566 |
+| Just a Flesh Wound | 16.00% | ~567 |
+| Der Geist | 16.00% | ~567 |
 | Climbing the Ladder | 15.00% | ~531 |
 | Close Quarters | 15.00% | ~531 |
 | Fields of Glory | 14.00% | ~496 |
-| Skirmisher | 14.00% | ~496 |
 | Die Nussknacker Sweet! | 14.00% | ~496 |
 | Snake in the Grass | 14.00% | ~496 |
 | Brains of the Operation | 14.00% | ~496 |
 | No Stone Unturned | 13.00% | ~460 |
 | Opposing Force | 13.00% | ~460 |
 | Enemy at the Gates | 13.00% | ~460 |
+| Skirmisher | 13.00% | ~460 |
 | Set Europe Ablaze | 12.00% | ~425 |
 | Precision Is Key | 9.00% | ~319 |
 | My Little Friend | 9.00% | ~319 |
 | Rigged to Blow | 8.00% | ~283 |
-| Herr Today, Gone Tomorrow | 6.00% | ~209 |
+| Herr Today, Gone Tomorrow | 6.00% | ~210 |
 | The Long Game | 5.00% | ~177 |
 | It'll Buff Right Out | 5.00% | ~177 |
 | Don't hold your breath | 5.00% | ~177 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 634)
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,540 (Ranked 153)  
+Progressed: 3,541 (Ranked 153)  
 Completed: 10 (0.28%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 10 (0.28%) (Ranked 179)
 | 2023-08-25 | 3,527 | 9 |
 | 2023-08-26 | 3,532 | 9 |
 | 2023-08-27 | 3,537 | 9 |
-| 2023-08-28 | 3,540 | 10 |
+| 2023-08-28 | 3,541 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

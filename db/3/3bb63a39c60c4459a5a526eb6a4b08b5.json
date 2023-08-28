@@ -3,7 +3,7 @@
   "Name": "Fly Corp",
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 223,
-  "Ranking_EOS_Completed": 193,
+  "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 571,
+  "EOS_Progressed": 572,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.18,
+  "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
     {
       "Time": "2023-06-13T17:01:33.4797695+00:00",
@@ -2031,6 +2031,11 @@
       "Time": "2023-08-28T20:04:21.7229145+00:00",
       "NumProgressed": 571,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-28T20:34:09.0384802+00:00",
+      "NumProgressed": 572,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2058,7 +2063,7 @@
       "Name": "Basic Controls",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "BigPlane",
@@ -2066,7 +2071,7 @@
       "Name": "Expensive Plane",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "BudgetFlight",
@@ -2082,7 +2087,7 @@
       "Name": "Calculated",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "Close",
@@ -2112,7 +2117,7 @@
       "ID": "EdgeOfTheWorld",
       "SetID": "1e89b4i",
       "Name": "Edge of the World",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -2136,9 +2141,9 @@
       "ID": "First",
       "SetID": "1e89b4i",
       "Name": "Game Started",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 86
     },
     {
       "ID": "FullCompletion",
@@ -2160,7 +2165,7 @@
       "ID": "Incredible",
       "SetID": "1e89b4i",
       "Name": "Incredible!",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 40,
       "UsersEstimate": 2
     },
@@ -2176,9 +2181,9 @@
       "ID": "LargeAirport",
       "SetID": "1e89b4i",
       "Name": "Large Airport",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 80
     },
     {
       "ID": "LargeTerritories",
@@ -2258,7 +2263,7 @@
       "Name": "No Way Back",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "NotPlanned",
@@ -2266,7 +2271,7 @@
       "Name": "This Wasn\u0027t Part of the Plan...",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "Ownway",
@@ -2280,7 +2285,7 @@
       "ID": "PublicFigure",
       "SetID": "1e89b4i",
       "Name": "Public Figure",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -2328,7 +2333,7 @@
       "ID": "Reviewer",
       "SetID": "1e89b4i",
       "Name": "Reviewer",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -2370,21 +2375,21 @@
       "Name": "Transport Hub",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 571,
+      "Progressed": 572,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-08-28T20:04:21.7229139+00:00",
+  "LastChanged_Achievements": "2023-08-28T20:34:09.0384797+00:00",
   "LastUpdate_AppInfo": "2023-08-22T10:56:57.2309265+00:00",
-  "LastUpdate_Ratings": "2023-08-28T19:59:28.0044794+00:00",
-  "LastUpdate_Achievements": "2023-08-28T20:04:21.7229565+00:00"
+  "LastUpdate_Ratings": "2023-08-28T20:29:40.6943957+00:00",
+  "LastUpdate_Achievements": "2023-08-28T20:34:09.0385161+00:00"
 }
