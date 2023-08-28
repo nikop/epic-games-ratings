@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 161,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2714,9 +2714,9 @@
       "Count": 316
     }
   ],
-  "EOS_Progressed": 16433,
+  "EOS_Progressed": 16434,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -9694,6 +9694,11 @@
       "Time": "2023-08-28T11:08:01.5090919+00:00",
       "NumProgressed": 16433,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-08-28T17:09:39.9782181+00:00",
+      "NumProgressed": 16434,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 50,
@@ -9711,9 +9716,9 @@
       "ID": "AllFood",
       "SetID": "cfbk359",
       "Name": "Feeding The People",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 148
+      "UsersEstimate": 164
     },
     {
       "ID": "AllNeeds",
@@ -10104,15 +10109,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 16433,
+      "Progressed": 16434,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-08-24T18:59:15.3162042+00:00",
-  "LastChanged_Achievements": "2023-08-28T16:06:57.2246773+00:00",
+  "LastChanged_Achievements": "2023-08-28T17:09:39.9782177+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:51.2302699+00:00",
-  "LastUpdate_Ratings": "2023-08-28T15:58:51.8376592+00:00",
-  "LastUpdate_Achievements": "2023-08-28T16:06:57.2248791+00:00"
+  "LastUpdate_Ratings": "2023-08-28T17:00:14.4543716+00:00",
+  "LastUpdate_Achievements": "2023-08-28T17:09:39.9782819+00:00"
 }

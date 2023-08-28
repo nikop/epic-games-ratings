@@ -5,21 +5,21 @@ Rating: 4.73 (Ranked 161)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~11,843 |
+| Under a New Sun | 92.00% | ~11,844 |
 | Newcomers | 79.00% | ~10,170 |
-| A Burden of Blood | 74.00% | ~9,526 |
-| Protector's Duty | 70.00% | ~9,011 |
-| Alchemist | 69.00% | ~8,882 |
+| A Burden of Blood | 74.00% | ~9,527 |
+| Protector's Duty | 70.00% | ~9,012 |
+| Alchemist | 69.00% | ~8,883 |
 | In our Wake | 68.00% | ~8,754 |
-| Leaving all Behind | 65.00% | ~8,367 |
-| Felons | 62.00% | ~7,981 |
+| Leaving all Behind | 65.00% | ~8,368 |
+| Felons | 62.00% | ~7,982 |
 | A Sea of Promises | 61.00% | ~7,853 |
 | Tales and Revelations | 57.00% | ~7,338 |
 | Bloodline | 53.00% | ~6,823 |
 | The Cradle of Centuries | 49.00% | ~6,308 |
 | The Life We Deserve | 46.00% | ~5,922 |
-| Night guard | 43.00% | ~5,535 |
-| Nothing Left | 39.00% | ~5,020 |
+| Night guard | 43.00% | ~5,536 |
+| Nothing Left | 39.00% | ~5,021 |
 | Healing our Wounds | 37.00% | ~4,763 |
 | Dying Sun | 33.00% | ~4,248 |
 | Improved crossbow | 27.00% | ~3,476 |
@@ -29,7 +29,7 @@ Rating: 4.73 (Ranked 161)
 | Perfect shot | 22.00% | ~2,832 |
 | Perfect throw | 22.00% | ~2,832 |
 | Knights! | 20.00% | ~2,575 |
-| Handful of pockets | 13.00% | ~1,673 |
+| Handful of pockets | 13.00% | ~1,674 |
 | Not a toy anymore | 11.00% | ~1,416 |
 | Pocket laboratory | 11.00% | ~1,416 |
 | Fighter | 8.00% | ~1,030 |
@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 161)
 | Explorer | 1.00% | ~129 |
 | Malignant | 1.00% | ~129 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,873 (Ranked 121)  
+Progressed: 12,874 (Ranked 121)  
 Completed: 44 (0.34%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 44 (0.34%) (Ranked 169)
 | 2023-08-25 | 12,845 | 43 |
 | 2023-08-26 | 12,850 | 43 |
 | 2023-08-27 | 12,869 | 43 |
-| 2023-08-28 | 12,873 | 44 |
+| 2023-08-28 | 12,874 | 44 |
 ## Awards
 Max (Great Boss Battles): 412  (Ranked 212)  
 Sum: 630 (Ranked 293)  

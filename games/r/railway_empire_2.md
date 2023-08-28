@@ -5,20 +5,20 @@ Rating: 4.46 (Ranked 622)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 75.00% | ~1,386 |
+| Country Bumpkin | 75.00% | ~1,387 |
 | A new Journey | 74.00% | ~1,368 |
-| Departure | 73.00% | ~1,349 |
+| Departure | 73.00% | ~1,350 |
 | From X to Y | 72.00% | ~1,331 |
 | Way of Iron | 70.00% | ~1,294 |
 | Mystery Tour | 68.00% | ~1,257 |
-| We brake for nobody | 67.00% | ~1,238 |
+| We brake for nobody | 67.00% | ~1,239 |
 | Brainstorm | 66.00% | ~1,220 |
-| Travel Company | 65.00% | ~1,201 |
+| Travel Company | 65.00% | ~1,202 |
 | Mind the Gap | 64.00% | ~1,183 |
 | All around the World | 62.00% | ~1,146 |
-| Right through the middle | 57.00% | ~1,053 |
-| Poor Devil | 54.00% | ~998 |
-| Facility Manager | 53.00% | ~979 |
+| Right through the middle | 57.00% | ~1,054 |
+| Facility Manager | 53.00% | ~980 |
+| Poor Devil | 53.00% | ~980 |
 | Producer | 50.00% | ~924 |
 | Apprentice | 41.00% | ~758 |
 | Bridge Builder | 41.00% | ~758 |
@@ -26,13 +26,13 @@ Rating: 4.46 (Ranked 622)
 | Going once, going twice, sold | 35.00% | ~647 |
 | Stoker | 33.00% | ~610 |
 | Bull and bear | 33.00% | ~610 |
-| Full Steam ahead | 32.00% | ~591 |
-| All mine | 30.00% | ~554 |
-| Mole | 30.00% | ~554 |
-| Financial Shark | 30.00% | ~554 |
+| Full Steam ahead | 32.00% | ~592 |
+| All mine | 30.00% | ~555 |
+| Mole | 30.00% | ~555 |
+| Financial Shark | 30.00% | ~555 |
 | Socializer | 29.00% | ~536 |
 | Country Life | 27.00% | ~499 |
-| General Manager | 26.00% | ~480 |
+| General Manager | 26.00% | ~481 |
 | Hostile Takeover | 25.00% | ~462 |
 | Seven at one stroke | 24.00% | ~444 |
 | Trailblazer | 21.00% | ~388 |
@@ -61,7 +61,7 @@ Rating: 4.46 (Ranked 622)
 | Together we stand | 0.50% | ~9 |
 | Three Cheers for Progress | 0.40% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,848 (Ranked 175)  
+Progressed: 1,849 (Ranked 175)  
 Completed: 0 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,6 +167,7 @@ Completed: 0 (0.00%) (Ranked 265)
 | 2023-08-25 | 1,835 | 0 |
 | 2023-08-26 | 1,840 | 0 |
 | 2023-08-27 | 1,848 | 0 |
+| 2023-08-28 | 1,849 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

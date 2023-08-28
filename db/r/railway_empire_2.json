@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1848,
+  "EOS_Progressed": 1849,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4474,6 +4474,11 @@
       "Time": "2023-08-27T23:03:44.6671998+00:00",
       "NumProgressed": 1848,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-28T17:04:59.8609129+00:00",
+      "NumProgressed": 1849,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -4581,7 +4586,7 @@
       "Name": "Departure",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 1349
+      "UsersEstimate": 1350
     },
     {
       "ID": "A13",
@@ -4605,7 +4610,7 @@
       "Name": "Full Steam ahead",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "A16",
@@ -4621,7 +4626,7 @@
       "Name": "Facility Manager",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 979
+      "UsersEstimate": 980
     },
     {
       "ID": "A18",
@@ -4629,7 +4634,7 @@
       "Name": "General Manager",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "A19",
@@ -4645,7 +4650,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "A21",
@@ -4709,7 +4714,7 @@
       "Name": "We brake for nobody",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1238
+      "UsersEstimate": 1239
     },
     {
       "ID": "A29",
@@ -4725,7 +4730,7 @@
       "Name": "All mine",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "A31",
@@ -4787,9 +4792,9 @@
       "ID": "A38",
       "SetID": "9b7p7eo",
       "Name": "Poor Devil",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 998
+      "UsersEstimate": 980
     },
     {
       "ID": "A39",
@@ -4813,7 +4818,7 @@
       "Name": "Right through the middle",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 1053
+      "UsersEstimate": 1054
     },
     {
       "ID": "A42",
@@ -4829,7 +4834,7 @@
       "Name": "Mole",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "A44",
@@ -4861,7 +4866,7 @@
       "Name": "Travel Company",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1201
+      "UsersEstimate": 1202
     },
     {
       "ID": "A48",
@@ -4877,7 +4882,7 @@
       "Name": "Financial Shark",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "A50",
@@ -4924,7 +4929,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 1848,
+      "Progressed": 1849,
       "Completed": 0
     }
   ],
@@ -4932,8 +4937,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-08-27T02:17:16.7277315+00:00",
-  "LastChanged_Achievements": "2023-08-28T16:03:22.2657499+00:00",
+  "LastChanged_Achievements": "2023-08-28T17:04:59.8609125+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:53.7739873+00:00",
-  "LastUpdate_Ratings": "2023-08-28T16:00:44.9545469+00:00",
-  "LastUpdate_Achievements": "2023-08-28T16:03:22.2658893+00:00"
+  "LastUpdate_Ratings": "2023-08-28T17:03:28.5617047+00:00",
+  "LastUpdate_Achievements": "2023-08-28T17:04:59.8609721+00:00"
 }

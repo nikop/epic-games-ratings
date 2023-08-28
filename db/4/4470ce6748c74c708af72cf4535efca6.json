@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2018-05-23T19:00:00+00:00",
@@ -209,17 +209,17 @@
       "ID": "15",
       "SetID": "5e3maia",
       "Name": "Bibliophile",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "16",
       "SetID": "5e3maia",
       "Name": "Matchmaker",
-      "Percentage": 28,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "17",
@@ -401,9 +401,9 @@
       "ID": "39",
       "SetID": "5e3maia",
       "Name": "Occultist",
-      "Percentage": 8,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "4",
@@ -417,9 +417,9 @@
       "ID": "40",
       "SetID": "5e3maia",
       "Name": "Elementalist",
-      "Percentage": 11,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "41",
@@ -473,9 +473,9 @@
       "ID": "47",
       "SetID": "5e3maia",
       "Name": "Manapourer",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "48",
@@ -712,8 +712,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-08-28T16:05:39.8752092+00:00",
+  "LastChanged_Achievements": "2023-08-28T17:07:59.0954884+00:00",
   "LastUpdate_AppInfo": "2023-08-25T22:57:10.6988807+00:00",
-  "LastUpdate_Ratings": "2023-08-28T15:59:01.4692114+00:00",
-  "LastUpdate_Achievements": "2023-08-28T16:05:39.8752961+00:00"
+  "LastUpdate_Ratings": "2023-08-28T17:00:29.4700984+00:00",
+  "LastUpdate_Achievements": "2023-08-28T17:07:59.0955442+00:00"
 }

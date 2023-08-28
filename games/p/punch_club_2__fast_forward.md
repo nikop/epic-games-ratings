@@ -41,8 +41,8 @@
 | Fight is life | 46.00% | ~125 |
 | Mysterious voice | 46.00% | ~125 |
 | No blades in the gym | 45.00% | ~122 |
+| Responsible approach | 42.00% | ~114 |
 | Champion – no way back | 41.00% | ~112 |
-| Responsible approach | 41.00% | ~112 |
 | Underground dwellers | 40.00% | ~109 |
 | Your own way | 40.00% | ~109 |
 | Deal with life | 39.00% | ~106 |
@@ -69,7 +69,7 @@
 | The last bell ring | 31.00% | ~84 |
 | Silver’s past | 29.00% | ~79 |
 | Better cooking at home | 29.00% | ~79 |
-| The only right decision | 28.00% | ~76 |
+| The only right decision | 29.00% | ~79 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 272 (Ranked 278)  
 Completed: 8 (2.94%) (Ranked 75)  

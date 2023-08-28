@@ -152,7 +152,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17588,
+  "EOS_Progressed": 17590,
   "EOS_Completed": 52,
   "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 1,
@@ -10892,6 +10892,11 @@
       "Time": "2023-08-28T15:05:01.0046017+00:00",
       "NumProgressed": 17588,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-08-28T17:06:04.7099933+00:00",
+      "NumProgressed": 17590,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 14,
@@ -10903,7 +10908,7 @@
       "Name": "Across The Border",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 13895
+      "UsersEstimate": 13896
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -10959,7 +10964,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 9322
+      "UsersEstimate": 9323
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -10975,7 +10980,7 @@
       "Name": "In My Own Time",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 2286
+      "UsersEstimate": 2287
     },
     {
       "ID": "ACH_LOOK_AT_ME_NOW",
@@ -11007,22 +11012,22 @@
       "Name": "Wild West Hero",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 2462
+      "UsersEstimate": 2463
     }
   ],
   "AchievementSets": [
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 17588,
+      "Progressed": 17590,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-08-16T03:57:34.8125865+00:00",
-  "LastChanged_Achievements": "2023-08-28T16:04:04.8082768+00:00",
+  "LastChanged_Achievements": "2023-08-28T17:06:04.7099929+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:59.8893769+00:00",
-  "LastUpdate_Ratings": "2023-08-28T15:58:59.5865885+00:00",
-  "LastUpdate_Achievements": "2023-08-28T16:04:04.8083639+00:00"
+  "LastUpdate_Ratings": "2023-08-28T17:00:26.3834666+00:00",
+  "LastUpdate_Achievements": "2023-08-28T17:06:04.7100566+00:00"
 }

@@ -6,28 +6,28 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~44,070 |
-| Worth it | 63.00% | ~35,595 |
-| Eagle Eye | 55.00% | ~31,075 |
-| Corpseman I | 40.00% | ~22,600 |
-| Blast fishing | 37.00% | ~20,905 |
-| Not alone | 32.00% | ~18,080 |
-| Headhunter I | 27.00% | ~15,255 |
-| Manual Labour I | 25.00% | ~14,125 |
-| Developers, Developers, Developers | 24.00% | ~13,560 |
-| Basic Training | 24.00% | ~13,560 |
-| Furchtlos und Treu | 13.00% | ~7,345 |
-| Gott Mit Uns | 12.00% | ~6,780 |
-| This We'll Defend! | 9.00% | ~5,085 |
-| Anker wirf! | 9.00% | ~5,085 |
-| Providentiea Memor | 9.00% | ~5,085 |
-| For King and Country | 9.00% | ~5,085 |
-| Battle hardened | 8.00% | ~4,520 |
-| Semper Fidelis! | 7.00% | ~3,955 |
-| Honneur et Patrie | 7.00% | ~3,955 |
-| In Treue Fest | 5.00% | ~2,825 |
-| Voor De Koning | 5.00% | ~2,825 |
-| Extreme Headhunter | 5.00% | ~2,825 |
+| Setting an example | 78.00% | ~44,079 |
+| Worth it | 63.00% | ~35,603 |
+| Eagle Eye | 55.00% | ~31,082 |
+| Corpseman I | 40.00% | ~22,605 |
+| Blast fishing | 37.00% | ~20,909 |
+| Not alone | 32.00% | ~18,084 |
+| Headhunter I | 27.00% | ~15,258 |
+| Manual Labour I | 25.00% | ~14,128 |
+| Developers, Developers, Developers | 24.00% | ~13,563 |
+| Basic Training | 24.00% | ~13,563 |
+| Furchtlos und Treu | 13.00% | ~7,347 |
+| Gott Mit Uns | 12.00% | ~6,781 |
+| This We'll Defend! | 9.00% | ~5,086 |
+| Anker wirf! | 9.00% | ~5,086 |
+| Providentiea Memor | 9.00% | ~5,086 |
+| For King and Country | 9.00% | ~5,086 |
+| Battle hardened | 8.00% | ~4,521 |
+| Semper Fidelis! | 7.00% | ~3,956 |
+| Honneur et Patrie | 7.00% | ~3,956 |
+| In Treue Fest | 5.00% | ~2,826 |
+| Voor De Koning | 5.00% | ~2,826 |
+| Extreme Headhunter | 5.00% | ~2,826 |
 | Advance Australia | 4.00% | ~2,260 |
 | We Stand on Guard | 4.00% | ~2,260 |
 | Sidi Brahim | 4.00% | ~2,260 |
@@ -55,18 +55,18 @@ Number of Ratings: 1,999  (23.09.2022)
 | Manual Labour III | 0.30% | ~170 |
 | Buddy | 0.30% | ~170 |
 | War is better with friends II | 0.20% | ~113 |
-| Gold Collector | 0.10% | ~56 |
-| Gold Hoarder | 0.10% | ~56 |
-| Silver Collector | 0.10% | ~56 |
-| Silver Hoarder | 0.10% | ~56 |
-| War is better with friends III | 0.10% | ~56 |
-| War is better with friends IV | 0.10% | ~56 |
-| Aimbot | 0.10% | ~56 |
-| Headhunter III | 0.10% | ~56 |
-| Comrade | 0.10% | ~56 |
-| Blood Brother | 0.10% | ~56 |
+| Gold Collector | 0.10% | ~57 |
+| Gold Hoarder | 0.10% | ~57 |
+| Silver Collector | 0.10% | ~57 |
+| Silver Hoarder | 0.10% | ~57 |
+| War is better with friends III | 0.10% | ~57 |
+| War is better with friends IV | 0.10% | ~57 |
+| Aimbot | 0.10% | ~57 |
+| Headhunter III | 0.10% | ~57 |
+| Comrade | 0.10% | ~57 |
+| Blood Brother | 0.10% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,500 (Ranked 90)  
+Progressed: 56,512 (Ranked 90)  
 Completed: 4 (0.01%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 4 (0.01%) (Ranked 252)
 | 2023-08-25 | 56,219 | 4 |
 | 2023-08-26 | 56,324 | 4 |
 | 2023-08-27 | 56,436 | 4 |
-| 2023-08-28 | 56,500 | 4 |
+| 2023-08-28 | 56,512 | 4 |
 ## Awards
 Max (Highly Recommended): 96  (Ranked 344)  
 Sum: 768 (Ranked 267)  

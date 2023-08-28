@@ -7,15 +7,15 @@ Rating: 4.20 (Ranked 861)
 | ---- | ---------- | ----- |
 | Worlds best dad | 0.60% | ~10 |
 | “Occupied!“ | 0.50% | ~8 |
+| Admiring the view | 0.30% | ~5 |
+| Blues Jam | 0.20% | ~3 |
 | “Here boy…“ | 0.20% | ~3 |
 | Resignation | 0.20% | ~3 |
 | Resignation Reprise | 0.20% | ~3 |
-| Admiring the view | 0.20% | ~3 |
-| Blues Jam | 0.10% | ~2 |
-| Family First | 0.00% | ~0 |
+| Family First | 0.10% | ~2 |
+| Understanding | 0.10% | ~2 |
+| War of the worlds | 0.10% | ~2 |
 | First contact | 0.00% | ~0 |
-| Understanding | 0.00% | ~0 |
-| War of the worlds | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,627 (Ranked 180)  
 Completed: 27 (1.66%) (Ranked 100)  

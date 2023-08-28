@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 100,
-  "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-11-15T00:00:00+00:00",
     "PcReleaseDate": "2022-11-15T00:00:00+00:00",
@@ -553,17 +553,17 @@
       "ID": "SomervilleBluesJam",
       "SetID": "3mk3nll",
       "Name": "Blues Jam",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SomervilleFamilyFirst",
       "SetID": "3mk3nll",
       "Name": "Family First",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "SomervilleFraternizingWithEnemy",
@@ -609,25 +609,25 @@
       "ID": "SomervilleUnderstanding",
       "SetID": "3mk3nll",
       "Name": "Understanding",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 200,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "SomervilleWarOfTheWorlds",
       "SetID": "3mk3nll",
       "Name": "War of the worlds",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "SomervilleWearyTraveller",
       "SetID": "3mk3nll",
       "Name": "Admiring the view",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "SomervilleWorldsBestDad",
@@ -650,8 +650,8 @@
   "FirstSeenRating": "2022-11-25T17:58:18.0029626+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.8533708+00:00",
   "LastChanged": "2023-03-31T05:58:16.104552+00:00",
-  "LastChanged_Achievements": "2023-08-28T16:07:07.3776358+00:00",
+  "LastChanged_Achievements": "2023-08-28T17:09:54.0060772+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:27.3136141+00:00",
-  "LastUpdate_Ratings": "2023-08-28T16:00:20.5841682+00:00",
-  "LastUpdate_Achievements": "2023-08-28T16:07:07.3776514+00:00"
+  "LastUpdate_Ratings": "2023-08-28T17:02:42.3366353+00:00",
+  "LastUpdate_Achievements": "2023-08-28T17:09:54.0060872+00:00"
 }

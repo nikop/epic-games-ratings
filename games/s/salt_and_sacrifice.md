@@ -6,61 +6,61 @@ Number of Ratings: 2,205  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Champion | 90.00% | ~59,371 |
-| The Pyromancer | 86.00% | ~56,732 |
-| The Wastes | 83.00% | ~54,753 |
-| Waste Not | 80.00% | ~52,774 |
+| The Champion | 90.00% | ~59,372 |
+| The Pyromancer | 86.00% | ~56,733 |
+| The Wastes | 83.00% | ~54,754 |
+| Waste Not | 80.00% | ~52,775 |
 | The Cryomancer | 76.00% | ~50,136 |
-| Stock Up | 75.00% | ~49,476 |
+| Stock Up | 75.00% | ~49,477 |
 | The Hydromancer | 73.00% | ~48,157 |
 | The Matriarch | 70.00% | ~46,178 |
-| The Aeromancer | 66.00% | ~43,539 |
-| The Venomancer | 66.00% | ~43,539 |
-| The Huntsman | 65.00% | ~42,879 |
+| The Aeromancer | 66.00% | ~43,540 |
+| The Venomancer | 66.00% | ~43,540 |
+| The Huntsman | 65.00% | ~42,880 |
 | Dawnlight Order | 64.00% | ~42,220 |
-| The Electromancer | 61.00% | ~40,240 |
-| The Terramancer | 59.00% | ~38,921 |
+| The Electromancer | 61.00% | ~40,241 |
+| The Terramancer | 59.00% | ~38,922 |
 | The Exalted | 57.00% | ~37,602 |
-| Blueheart Runners | 55.00% | ~36,282 |
-| Sheriff Inquisitors | 55.00% | ~36,282 |
-| The Necromancer | 52.00% | ~34,303 |
+| Blueheart Runners | 55.00% | ~36,283 |
+| Sheriff Inquisitors | 55.00% | ~36,283 |
+| The Necromancer | 52.00% | ~34,304 |
 | The Swamp | 50.00% | ~32,984 |
 | The Fungalmancer | 47.00% | ~31,005 |
 | The Thaumamancer | 47.00% | ~31,005 |
 | The Hag | 45.00% | ~29,686 |
 | The Corpumancer | 42.00% | ~27,707 |
-| The Mountain | 40.00% | ~26,387 |
-| The Treeheart | 40.00% | ~26,387 |
+| The Mountain | 40.00% | ~26,388 |
+| The Treeheart | 40.00% | ~26,388 |
 | Shroud Alliance | 39.00% | ~25,728 |
-| The Two Monks | 37.00% | ~24,408 |
+| The Two Monks | 37.00% | ~24,409 |
 | The Neuromancer | 35.00% | ~23,089 |
-| Oathbound Watchers | 33.00% | ~21,769 |
+| Oathbound Watchers | 33.00% | ~21,770 |
 | The Chronomancer | 32.00% | ~21,110 |
 | The Mechanomancer | 32.00% | ~21,110 |
-| The Copse | 30.00% | ~19,790 |
-| The Dragon | 30.00% | ~19,790 |
-| The Dracomancer | 30.00% | ~19,790 |
+| The Copse | 30.00% | ~19,791 |
+| The Dragon | 30.00% | ~19,791 |
+| The Dracomancer | 30.00% | ~19,791 |
 | Well Stocked | 28.00% | ~18,471 |
 | The Umbramancer | 28.00% | ~18,471 |
-| Chaos Hunger | 27.00% | ~17,811 |
-| The Kinetomancer | 27.00% | ~17,811 |
-| The Sanguimancer | 27.00% | ~17,811 |
+| Chaos Hunger | 27.00% | ~17,812 |
+| The Kinetomancer | 27.00% | ~17,812 |
+| The Sanguimancer | 27.00% | ~17,812 |
 | The Luminimancer | 26.00% | ~17,152 |
 | The Bibliomancer | 25.00% | ~16,492 |
 | The Skylord | 25.00% | ~16,492 |
-| The Firelord | 24.00% | ~15,832 |
+| The Firelord | 24.00% | ~15,833 |
 | Want Not | 21.00% | ~13,853 |
 | The Diablomancer | 21.00% | ~13,853 |
 | The Sacrifice | 21.00% | ~13,853 |
 | The King | 19.00% | ~12,534 |
 | Take Your Place | 14.00% | ~9,236 |
 | The Nomad | 14.00% | ~9,236 |
-| The Soldier | 11.00% | ~7,256 |
+| The Soldier | 11.00% | ~7,257 |
 | Make The Climb | 10.00% | ~6,597 |
 | The Scholar | 10.00% | ~6,597 |
 | Top Shelf | 5.00% | ~3,298 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,968 (Ranked 83)  
+Progressed: 65,969 (Ranked 83)  
 Completed: 1,211 (1.84%) (Ranked 97)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,10 +190,10 @@ Completed: 1,211 (1.84%) (Ranked 97)
 | 2023-08-25 | 65,903 | 1,211 |
 | 2023-08-26 | 65,925 | 1,211 |
 | 2023-08-27 | 65,949 | 1,211 |
-| 2023-08-28 | 65,968 | 1,211 |
+| 2023-08-28 | 65,969 | 1,211 |
 ## Awards
 Max (Character Customization): 963  (Ranked 147)  
-Sum: 1,927 (Ranked 206)  
+Sum: 1,928 (Ranked 206)  
 Diff (max vs sum): -59  
 | Award | Count |
 | ----- | ----- |
@@ -203,7 +203,7 @@ Diff (max vs sum): -59
 | This game has Challenging Combat | 65 |
 | This game has Unique Visuals | 59 |
 | This game has Diverse Characters | 57 |
-| This game is Highly Recommended | 56 |
+| This game is Highly Recommended | 57 |
 | This game has Quickly Understood Controls | 53 |
 | This game has Amazing Storytelling | 53 |
 | This game has Amazing Characters | 51 |
@@ -343,3 +343,4 @@ Diff (max vs sum): -59
 | 2023-08-18 | 4.31 | - | 961 | 1,925 |
 | 2023-08-22 | 4.31 | - | 962 | 1,926 |
 | 2023-08-24 | 4.31 | - | 963 | 1,927 |
+| 2023-08-28 | 4.31 | - | 963 | 1,928 |

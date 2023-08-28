@@ -27,11 +27,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | A Flame | 4.00% | ~445 |
 | Next-Door Play | 4.00% | ~445 |
 | Get the Toad | 4.00% | ~445 |
-| Heart of the Fallen Land | 3.00% | ~333 |
-| Path of the Trickster | 3.00% | ~333 |
-| Mythic Reinforcements | 3.00% | ~333 |
-| Core of the Riddle | 3.00% | ~333 |
-| Hey, I Know You! | 3.00% | ~333 |
+| Heart of the Fallen Land | 3.00% | ~334 |
+| Path of the Trickster | 3.00% | ~334 |
+| Mythic Reinforcements | 3.00% | ~334 |
+| Core of the Riddle | 3.00% | ~334 |
+| Hey, I Know You! | 3.00% | ~334 |
 | The Lady of the Forest | 3.00% | ~297 |
 | Beware Still Water | 3.00% | ~297 |
 | Path of the Demon | 2.00% | ~222 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,116 (Ranked 123)  
+Progressed: 11,117 (Ranked 123)  
 Completed: 0 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,16 +253,16 @@ Completed: 0 (0.00%) (Ranked 265)
 | 2023-08-25 | 11,071 | 0 |
 | 2023-08-26 | 11,088 | 0 |
 | 2023-08-27 | 11,106 | 0 |
-| 2023-08-28 | 11,116 | 0 |
+| 2023-08-28 | 11,117 | 0 |
 ## Awards
 Max (Character Customization): 1,703  (Ranked 118)  
-Sum: 6,906 (Ranked 114)  
+Sum: 6,907 (Ranked 114)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,703 |
 | This game is Extremely Fun | 646 |
-| This game is Highly Recommended | 632 |
+| This game is Highly Recommended | 633 |
 | This game has Amazing Characters | 629 |
 | This game has Diverse Characters | 618 |
 | This game has Amazing Storytelling | 608 |
@@ -475,3 +475,4 @@ Diff (max vs sum): 4
 | 2023-08-22 | 4.76 | - | 1,701 | 6,901 |
 | 2023-08-23 | 4.76 | - | 1,701 | 6,903 |
 | 2023-08-27 | 4.76 | - | 1,703 | 6,906 |
+| 2023-08-28 | 4.76 | - | 1,703 | 6,907 |

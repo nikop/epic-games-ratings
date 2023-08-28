@@ -2,10 +2,10 @@
   "ID": "dace39ce1f3245ca8b24c75e683016cb",
   "Name": "Cthulhu: Books of Ancients",
   "ProductSlug": "cthulhu-books-of-ancients-3eae4e",
-  "Ranking_EOS_Progress": 561,
+  "Ranking_EOS_Progress": 562,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-26T08:58:44.2116755+00:00",
-  "LastUpdate_Ratings": "2023-08-28T16:00:39.2430386+00:00",
-  "LastUpdate_Achievements": "2023-08-28T16:04:47.4918959+00:00"
+  "LastUpdate_Ratings": "2023-08-28T17:03:15.8047302+00:00",
+  "LastUpdate_Achievements": "2023-08-28T17:07:04.4874949+00:00"
 }

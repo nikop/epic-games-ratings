@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 24,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -738,9 +738,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 218557,
+  "EOS_Progressed": 218582,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2979,
+  "EOS_NewPlayers": 2986,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8643,6 +8643,11 @@
       "Time": "2023-08-28T16:03:17.3675619+00:00",
       "NumProgressed": 218557,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-28T17:04:53.3671965+00:00",
+      "NumProgressed": 218582,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -8702,7 +8707,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4371
+      "UsersEstimate": 4372
     },
     {
       "ID": "Chapter2",
@@ -8710,7 +8715,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4371
+      "UsersEstimate": 4372
     },
     {
       "ID": "Chapter3",
@@ -8726,7 +8731,7 @@
       "Name": "The demons\u0027 feast",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1748
+      "UsersEstimate": 1749
     },
     {
       "ID": "Chapter5",
@@ -8734,7 +8739,7 @@
       "Name": "The Great Library",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1748
+      "UsersEstimate": 1749
     },
     {
       "ID": "Chapter6",
@@ -8742,7 +8747,7 @@
       "Name": "Torture and Sensibility",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1748
+      "UsersEstimate": 1749
     },
     {
       "ID": "Chapter7",
@@ -8750,7 +8755,7 @@
       "Name": "Urik\u0027s Depths",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1748
+      "UsersEstimate": 1749
     },
     {
       "ID": "Chapter8",
@@ -8758,7 +8763,7 @@
       "Name": "The Dungeon Master",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1748
+      "UsersEstimate": 1749
     },
     {
       "ID": "Chapter9",
@@ -8766,7 +8771,7 @@
       "Name": "The Statuette of Gladeulfeurah",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1748
+      "UsersEstimate": 1749
     },
     {
       "ID": "CollateralVictim",
@@ -9038,7 +9043,7 @@
       "Name": "A tale of adventurers not quite like the others...",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1748
+      "UsersEstimate": 1749
     },
     {
       "ID": "Dwarf30Insult",
@@ -9086,7 +9091,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4371
+      "UsersEstimate": 4372
     },
     {
       "ID": "ElfEpic",
@@ -9102,7 +9107,7 @@
       "Name": "Sowwy!",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 54639
+      "UsersEstimate": 54646
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -9302,7 +9307,7 @@
       "Name": "Speedrun",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4371
+      "UsersEstimate": 4372
     },
     {
       "ID": "SupportCount4",
@@ -9357,21 +9362,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 218557,
+      "Progressed": 218582,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 218557,
+      "Progressed": 218582,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-28T16:02:03.5571775+00:00",
-  "LastChanged_Achievements": "2023-08-28T16:03:17.3675611+00:00",
+  "LastChanged_Achievements": "2023-08-28T17:04:53.3671956+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:41.9661267+00:00",
-  "LastUpdate_Ratings": "2023-08-28T16:02:03.5571783+00:00",
-  "LastUpdate_Achievements": "2023-08-28T16:03:17.367841+00:00"
+  "LastUpdate_Ratings": "2023-08-28T17:04:07.5556647+00:00",
+  "LastUpdate_Achievements": "2023-08-28T17:04:53.367347+00:00"
 }

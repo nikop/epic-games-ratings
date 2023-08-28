@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 75,
   "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -1366,9 +1366,9 @@
       "ID": "plug_switch",
       "SetID": "69co12a",
       "Name": "The only right decision",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 79
     },
     {
       "ID": "poisoned_fighter",
@@ -1486,9 +1486,9 @@
       "ID": "trainer_promotion_3",
       "SetID": "69co12a",
       "Name": "Responsible approach",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 114
     },
     {
       "ID": "undercover_robot",
@@ -1541,8 +1541,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-08-28T16:06:18.009733+00:00",
+  "LastChanged_Achievements": "2023-08-28T17:08:48.0463255+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:28.4384167+00:00",
-  "LastUpdate_Ratings": "2023-08-28T16:00:01.6636206+00:00",
-  "LastUpdate_Achievements": "2023-08-28T16:06:18.009841+00:00"
+  "LastUpdate_Ratings": "2023-08-28T17:02:07.1507699+00:00",
+  "LastUpdate_Achievements": "2023-08-28T17:08:48.0463811+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "11e946fd34244e56b7af5d99e87bf5d4",
   "Name": "Forza Polpo",
   "ProductSlug": "forza-polpo-e3e445",
-  "Ranking_EOS_Progress": 561,
+  "Ranking_EOS_Progress": 562,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2023-05-17T23:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-23T19:57:01.1015094+00:00",
-  "LastUpdate_Ratings": "2023-08-28T15:59:42.4299426+00:00",
-  "LastUpdate_Achievements": "2023-08-28T16:07:12.747029+00:00"
+  "LastUpdate_Ratings": "2023-08-28T17:01:32.5744864+00:00",
+  "LastUpdate_Achievements": "2023-08-28T17:10:02.1976813+00:00"
 }

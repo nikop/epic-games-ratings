@@ -2,10 +2,10 @@
   "ID": "feb6055528834fcf84e4d32c7d4ea0ba",
   "Name": "Men of War II",
   "ProductSlug": "men-of-war-ii-171a7e",
-  "Ranking_EOS_Progress": 561,
+  "Ranking_EOS_Progress": 562,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-09-20T17:00:00+00:00",
     "PcReleaseDate": "2023-09-20T17:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-26T09:57:58.8911547+00:00",
-  "LastUpdate_Ratings": "2023-08-28T15:58:58.1056939+00:00",
-  "LastUpdate_Achievements": "2023-08-28T16:05:08.4711041+00:00"
+  "LastUpdate_Ratings": "2023-08-28T17:00:23.7758613+00:00",
+  "LastUpdate_Achievements": "2023-08-28T17:07:17.6708472+00:00"
 }

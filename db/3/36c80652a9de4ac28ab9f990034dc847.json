@@ -2,10 +2,10 @@
   "ID": "36c80652a9de4ac28ab9f990034dc847",
   "Name": "Death Crown",
   "ProductSlug": "death-crown-b2f5cd",
-  "Ranking_EOS_Progress": 487,
+  "Ranking_EOS_Progress": 488,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-08-22T23:00:00+00:00",
     "PcReleaseDate": "2019-08-22T23:00:00+00:00",
@@ -49,9 +49,9 @@
       "ID": "All_Bosses",
       "SetID": "cla1dpp",
       "Name": "Till death tear us apart!",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "All_Human_Missions",
@@ -73,9 +73,9 @@
       "ID": "Boss_Blacksmith",
       "SetID": "cla1dpp",
       "Name": "No, this is not a stack of coins!",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Boss_Cita",
@@ -89,9 +89,9 @@
       "ID": "Boss_Cube",
       "SetID": "cla1dpp",
       "Name": "I hate geometry so much!",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Boss_King",
@@ -105,9 +105,9 @@
       "ID": "Boss_Pyramid",
       "SetID": "cla1dpp",
       "Name": "We\u0027ll build a new one!",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Boss_Sphere",
@@ -121,9 +121,9 @@
       "ID": "Boss_Tower",
       "SetID": "cla1dpp",
       "Name": "My tower is bigger than yours.",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Boss_Tree",
@@ -145,9 +145,9 @@
       "ID": "Full_Upgrade_Cita",
       "SetID": "cla1dpp",
       "Name": "Anything for my princess!",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "No_Lose_All_Human_Missions",
@@ -161,9 +161,9 @@
       "ID": "Pass_Tutorial",
       "SetID": "cla1dpp",
       "Name": "First time here?",
-      "Percentage": 33,
+      "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PvP_Mission",
@@ -201,17 +201,17 @@
       "ID": "Up_Barraks",
       "SetID": "cla1dpp",
       "Name": "Where did so many skeletons come from in this grave?",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Up_Farm",
       "SetID": "cla1dpp",
       "Name": "We need to go deeper!",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Up_Tower",
@@ -231,8 +231,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-23T14:02:21.3308024+00:00",
-  "LastChanged_Achievements": "2023-08-28T16:03:34.7871263+00:00",
+  "LastChanged_Achievements": "2023-08-28T17:05:18.4069657+00:00",
   "LastUpdate_AppInfo": "2023-08-23T13:57:00.4485023+00:00",
-  "LastUpdate_Ratings": "2023-08-28T15:57:41.5523212+00:00",
-  "LastUpdate_Achievements": "2023-08-28T16:03:34.7871525+00:00"
+  "LastUpdate_Ratings": "2023-08-28T16:58:26.4804003+00:00",
+  "LastUpdate_Achievements": "2023-08-28T17:05:18.406978+00:00"
 }

@@ -6,25 +6,25 @@ Rating: 4.54 (Ranked 501)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Welcome To Hell-A | 0.50% | ~3,339 |
+| Git Gutte! | 0.40% | ~2,671 |
 | Break A Leg | 0.40% | ~2,671 |
 | Coup de Grâce | 0.40% | ~2,671 |
 | Hazardous Materials | 0.40% | ~2,671 |
 | Hotel California | 0.40% | ~2,671 |
 | Personal Assistant Personally Assisted | 0.40% | ~2,671 |
-| Dr. Reed, I Presume? | 0.30% | ~2,003 |
-| Git Gutte! | 0.30% | ~2,003 |
-| Bookworm | 0.30% | ~2,003 |
-| But Doctor, I am Butcho | 0.30% | ~2,003 |
-| Slayer Squad | 0.30% | ~2,003 |
-| Can't Handle the Truth | 0.30% | ~2,003 |
-| Like Riding a Bike | 0.30% | ~2,003 |
-| Friends Like These | 0.30% | ~2,003 |
-| Apex Predator | 0.30% | ~2,003 |
-| Zombologist | 0.30% | ~2,003 |
-| A Patton Emerges | 0.30% | ~2,003 |
-| I Am the Resurrection | 0.30% | ~2,003 |
-| Stacking the Deck | 0.30% | ~2,003 |
-| This is My Weapon | 0.30% | ~2,003 |
+| Dr. Reed, I Presume? | 0.30% | ~2,004 |
+| Bookworm | 0.30% | ~2,004 |
+| But Doctor, I am Butcho | 0.30% | ~2,004 |
+| Slayer Squad | 0.30% | ~2,004 |
+| Can't Handle the Truth | 0.30% | ~2,004 |
+| Like Riding a Bike | 0.30% | ~2,004 |
+| Friends Like These | 0.30% | ~2,004 |
+| Apex Predator | 0.30% | ~2,004 |
+| Zombologist | 0.30% | ~2,004 |
+| A Patton Emerges | 0.30% | ~2,004 |
+| I Am the Resurrection | 0.30% | ~2,004 |
+| Stacking the Deck | 0.30% | ~2,004 |
+| This is My Weapon | 0.30% | ~2,004 |
 | Making Your Mark | 0.20% | ~1,336 |
 | Anger Management | 0.20% | ~1,336 |
 | Perks of the Job | 0.20% | ~1,336 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 501)
 | Rising Star | 0.10% | ~668 |
 | Bucket List | 0.10% | ~668 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 667,777 (Ranked 22)  
+Progressed: 667,836 (Ranked 22)  
 Completed: 2,084 (0.31%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 2,084 (0.31%) (Ranked 173)
 | 2023-08-25 | 665,272 | 2,068 |
 | 2023-08-26 | 666,250 | 2,078 |
 | 2023-08-27 | 667,273 | 2,082 |
-| 2023-08-28 | 667,777 | 2,084 |
+| 2023-08-28 | 667,836 | 2,084 |
 ## Awards
 Max (Great Boss Battles): 5,791  (Ranked 61)  
 Sum: 8,530 (Ranked 97)  

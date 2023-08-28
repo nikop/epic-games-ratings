@@ -10,7 +10,7 @@ Rating: 4.45 (Ranked 634)
 | The Kraken Wakes | 36.00% | ~1,274 |
 | It's Starting to Crack | 33.00% | ~1,168 |
 | Change the Channel | 30.00% | ~1,062 |
-| Lord of War | 29.00% | ~1,026 |
+| Lord of War | 29.00% | ~1,027 |
 | Taking it back | 27.00% | ~956 |
 | Resourceful | 26.00% | ~920 |
 | Target America | 25.00% | ~885 |
@@ -25,11 +25,11 @@ Rating: 4.45 (Ranked 634)
 | Der Geist | 16.00% | ~566 |
 | Climbing the Ladder | 15.00% | ~531 |
 | Close Quarters | 15.00% | ~531 |
-| Fields of Glory | 14.00% | ~495 |
-| Skirmisher | 14.00% | ~495 |
-| Die Nussknacker Sweet! | 14.00% | ~495 |
-| Snake in the Grass | 14.00% | ~495 |
-| Brains of the Operation | 14.00% | ~495 |
+| Fields of Glory | 14.00% | ~496 |
+| Skirmisher | 14.00% | ~496 |
+| Die Nussknacker Sweet! | 14.00% | ~496 |
+| Snake in the Grass | 14.00% | ~496 |
+| Brains of the Operation | 14.00% | ~496 |
 | No Stone Unturned | 13.00% | ~460 |
 | Opposing Force | 13.00% | ~460 |
 | Enemy at the Gates | 13.00% | ~460 |
@@ -41,7 +41,7 @@ Rating: 4.45 (Ranked 634)
 | The Long Game | 5.00% | ~177 |
 | It'll Buff Right Out | 5.00% | ~177 |
 | Don't hold your breath | 5.00% | ~177 |
-| Operation Foxley | 5.00% | ~174 |
+| Operation Foxley | 5.00% | ~175 |
 | Strategist | 4.00% | ~142 |
 | Tinkerer | 4.00% | ~142 |
 | Locomotion Commotion | 4.00% | ~142 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 634)
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,539 (Ranked 153)  
+Progressed: 3,540 (Ranked 153)  
 Completed: 9 (0.25%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 9 (0.25%) (Ranked 181)
 | 2023-08-25 | 3,527 | 9 |
 | 2023-08-26 | 3,532 | 9 |
 | 2023-08-27 | 3,537 | 9 |
-| 2023-08-28 | 3,539 | 9 |
+| 2023-08-28 | 3,540 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

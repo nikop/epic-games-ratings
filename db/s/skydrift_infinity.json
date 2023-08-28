@@ -2,10 +2,10 @@
   "ID": "58f23bf07f464e558f673cd8755b94a6",
   "Name": "SkyDrift Infinity",
   "ProductSlug": "skydrift-infinity-c4ca37",
-  "Ranking_EOS_Progress": 561,
+  "Ranking_EOS_Progress": 562,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-05-06T13:00:00+00:00",
     "PcReleaseDate": "2021-07-29T00:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:31.2682698+00:00",
   "LastChanged": "2023-03-31T05:58:31.2682699+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:54.0424177+00:00",
-  "LastUpdate_Ratings": "2023-08-28T15:57:53.3486631+00:00",
-  "LastUpdate_Achievements": "2023-08-28T16:06:27.4797351+00:00"
+  "LastUpdate_Ratings": "2023-08-28T16:58:51.1697363+00:00",
+  "LastUpdate_Achievements": "2023-08-28T17:09:00.2830172+00:00"
 }

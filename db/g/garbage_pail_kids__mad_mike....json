@@ -2,10 +2,10 @@
   "ID": "085b92bd0ebc49d9bfc992842d195b8a",
   "Name": "Garbage Pail Kids: Mad Mike...",
   "ProductSlug": "garbage-pail-kids-mad-mike-and-the-quest-for-stale-gum-1ba051",
-  "Ranking_EOS_Progress": 561,
+  "Ranking_EOS_Progress": 562,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-10-25T17:00:00+00:00",
     "PcReleaseDate": "2022-10-25T17:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:46.4240857+00:00",
   "LastChanged": "2023-03-31T05:57:46.4240858+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:42.3498435+00:00",
-  "LastUpdate_Ratings": "2023-08-28T16:00:36.4687008+00:00",
-  "LastUpdate_Achievements": "2023-08-28T16:06:12.0622564+00:00"
+  "LastUpdate_Ratings": "2023-08-28T17:03:10.5268005+00:00",
+  "LastUpdate_Achievements": "2023-08-28T17:08:40.693028+00:00"
 }

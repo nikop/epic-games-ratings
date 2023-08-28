@@ -6,28 +6,28 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~21,812 |
-| Thorough | 10.00% | ~19,829 |
-| A thief's beginning | 9.00% | ~17,846 |
-| Disguised | 8.00% | ~15,863 |
-| Rollin' | 8.00% | ~15,863 |
-| Tanuki Time | 8.00% | ~15,863 |
-| Ice Ice Yuki | 7.00% | ~13,880 |
-| Jonin | 7.00% | ~13,880 |
-| Rescue Takuma | 7.00% | ~13,880 |
-| Stoned Ox | 7.00% | ~13,880 |
-| Yabu | 7.00% | ~13,880 |
-| Chunin | 6.00% | ~11,897 |
-| Happy Planning | 6.00% | ~11,897 |
-| Mugen Unchained | 6.00% | ~11,897 |
-| Flying Rocks | 5.00% | ~9,914 |
-| Okkoto | 5.00% | ~9,914 |
-| Too Early | 5.00% | ~9,914 |
-| Warzone | 5.00% | ~9,914 |
-| Gear up | 4.00% | ~7,931 |
-| Happy little accidents | 4.00% | ~7,931 |
-| Prisoners | 4.00% | ~7,931 |
-| Still Rollin' | 4.00% | ~7,931 |
+| Genin | 11.00% | ~21,813 |
+| Thorough | 10.00% | ~19,830 |
+| A thief's beginning | 9.00% | ~17,847 |
+| Disguised | 8.00% | ~15,864 |
+| Rollin' | 8.00% | ~15,864 |
+| Tanuki Time | 8.00% | ~15,864 |
+| Ice Ice Yuki | 7.00% | ~13,881 |
+| Jonin | 7.00% | ~13,881 |
+| Rescue Takuma | 7.00% | ~13,881 |
+| Stoned Ox | 7.00% | ~13,881 |
+| Yabu | 7.00% | ~13,881 |
+| Chunin | 6.00% | ~11,898 |
+| Happy Planning | 6.00% | ~11,898 |
+| Mugen Unchained | 6.00% | ~11,898 |
+| Flying Rocks | 5.00% | ~9,915 |
+| Okkoto | 5.00% | ~9,915 |
+| Too Early | 5.00% | ~9,915 |
+| Warzone | 5.00% | ~9,915 |
+| Gear up | 4.00% | ~7,932 |
+| Happy little accidents | 4.00% | ~7,932 |
+| Prisoners | 4.00% | ~7,932 |
+| Still Rollin' | 4.00% | ~7,932 |
 | Noboru | 3.00% | ~5,949 |
 | Stoned | 3.00% | ~5,949 |
 | The Old Way | 3.00% | ~5,949 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~198 |
 | Release the Kraken | 0.10% | ~198 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 198,287 (Ranked 60)  
+Progressed: 198,299 (Ranked 60)  
 Completed: 72 (0.04%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,10 +181,10 @@ Completed: 72 (0.04%) (Ranked 235)
 | 2023-08-25 | 197,462 | 72 |
 | 2023-08-26 | 197,773 | 72 |
 | 2023-08-27 | 198,119 | 72 |
-| 2023-08-28 | 198,287 | 72 |
+| 2023-08-28 | 198,299 | 72 |
 ## Awards
 Max (Great for Beginners): 562  (Ranked 188)  
-Sum: 4,736 (Ranked 135)  
+Sum: 4,737 (Ranked 135)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
@@ -196,7 +196,7 @@ Diff (max vs sum): 53
 | This game is Highly Recommended | 483 |
 | This game is Relaxing | 480 |
 | This game has Challenging Combat | 478 |
-| This game has Quickly Understood Controls | 445 |
+| This game has Quickly Understood Controls | 446 |
 | This game has a Creative Community | 247 |
 | This game has Unique Visuals | 20 |
 ## Ratings History
@@ -360,3 +360,4 @@ Diff (max vs sum): 53
 | 2023-08-23 | 4.66 | - | 561 | 4,734 |
 | 2023-08-25 | 4.66 | - | 562 | 4,735 |
 | 2023-08-26 | 4.66 | - | 562 | 4,736 |
+| 2023-08-28 | 4.66 | - | 562 | 4,737 |

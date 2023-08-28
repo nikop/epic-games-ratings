@@ -4,8 +4,8 @@
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
   "Ranking_EOS_Progress": 384,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
     "PcReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -338,9 +338,9 @@
       "ID": "SG_LIKEHEROESBEFOREYOU",
       "SetID": "bj5g0n4",
       "Name": "Like Heroes Before You",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "SG_LOSTINASONG",
@@ -529,8 +529,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-08-28T16:05:10.6285268+00:00",
+  "LastChanged_Achievements": "2023-08-28T17:07:20.5483285+00:00",
   "LastUpdate_AppInfo": "2023-08-24T08:56:52.7420093+00:00",
-  "LastUpdate_Ratings": "2023-08-28T15:58:47.991296+00:00",
-  "LastUpdate_Achievements": "2023-08-28T16:05:10.62858+00:00"
+  "LastUpdate_Ratings": "2023-08-28T17:00:07.9522538+00:00",
+  "LastUpdate_Achievements": "2023-08-28T17:07:20.5483517+00:00"
 }

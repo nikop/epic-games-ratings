@@ -2,10 +2,10 @@
   "ID": "7173e0bc69aa4a679d2850b64b81b748",
   "Name": "What Lies in the Multiverse",
   "ProductSlug": "what-lies-in-the-multiverse-f604fa",
-  "Ranking_EOS_Progress": 561,
+  "Ranking_EOS_Progress": 562,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-03-04T17:00:00+00:00",
     "PcReleaseDate": "2022-03-04T17:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:56:59.6772886+00:00",
   "LastChanged": "2023-03-31T05:56:59.6772888+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:26.216029+00:00",
-  "LastUpdate_Ratings": "2023-08-28T15:59:59.4037833+00:00",
-  "LastUpdate_Achievements": "2023-08-28T16:07:16.2569353+00:00"
+  "LastUpdate_Ratings": "2023-08-28T17:02:03.3734148+00:00",
+  "LastUpdate_Achievements": "2023-08-28T17:10:07.6961936+00:00"
 }
