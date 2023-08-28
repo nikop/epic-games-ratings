@@ -300,7 +300,7 @@ await File.WriteAllTextAsync(
     )
 );
 
-Directory.CreateDirectory(Path.GetDirectoryName("achievements")!);
+Directory.CreateDirectory("achievements");
 
 foreach (var month in items.Where(x => x.Store.ReleaseDate != null).GroupBy(x => $"{x.Store.ReleaseDate!.Value.Year}-{x.Store.ReleaseDate!.Value.Month:00}"))
 {
