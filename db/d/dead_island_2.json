@@ -3952,10 +3952,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 8515,
       "NumberOfAwardsMax": 5783
+    },
+    {
+      "Time": "2023-08-28T00:00:30.2747455+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 8517,
+      "NumberOfAwardsMax": 5783
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8515,
+  "NumberOfAwards": 8517,
   "NumberOfAwardsMax": 5783,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3987,7 +3993,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 298
+      "Count": 300
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4014,9 +4020,9 @@
       "Count": 327
     }
   ],
-  "EOS_Progressed": 667273,
+  "EOS_Progressed": 667296,
   "EOS_Completed": 2082,
-  "EOS_NewPlayers": 5802,
+  "EOS_NewPlayers": 5804,
   "EOS_NewCompleters": 36,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -18384,6 +18390,11 @@
       "Time": "2023-08-27T23:04:16.8472981+00:00",
       "NumProgressed": 667273,
       "NumCompleted": 2082
+    },
+    {
+      "Time": "2023-08-28T00:03:20.8890532+00:00",
+      "NumProgressed": 667296,
+      "NumCompleted": 2082
     }
   ],
   "TotalAchievements": 45,
@@ -18489,9 +18500,9 @@
       "ID": "ach_doom_buddies",
       "SetID": "7km39fm",
       "Name": "Slayer Squad",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1335
+      "UsersEstimate": 2002
     },
     {
       "ID": "ach_explorer",
@@ -18754,16 +18765,16 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 667273,
+      "Progressed": 667296,
       "Completed": 2082
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-08-27T19:01:16.5141719+00:00",
-  "LastChanged_Achievements": "2023-08-27T23:04:16.8472975+00:00",
+  "LastChanged": "2023-08-28T00:00:30.2747453+00:00",
+  "LastChanged_Achievements": "2023-08-28T00:03:20.8890526+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:11.0440218+00:00",
-  "LastUpdate_Ratings": "2023-08-27T23:01:28.6556298+00:00",
-  "LastUpdate_Achievements": "2023-08-27T23:04:16.847538+00:00"
+  "LastUpdate_Ratings": "2023-08-28T00:00:30.2747469+00:00",
+  "LastUpdate_Achievements": "2023-08-28T00:03:20.8891769+00:00"
 }

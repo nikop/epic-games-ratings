@@ -49,7 +49,7 @@
 | Extraordinary! | 33.00% | ~358 |
 | Mirror, Mirror | 32.00% | ~347 |
 | Flower Power | 28.00% | ~304 |
-| Shopping Spree! | 25.00% | ~271 |
+| Shopping Spree! | 26.00% | ~282 |
 | Crowned | 23.00% | ~250 |
 | Max Level! | 16.00% | ~174 |
 | Dance Master | 10.00% | ~108 |

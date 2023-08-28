@@ -12,6 +12,7 @@ Rating: 4.54 (Ranked 502)
 | Bookworm | 0.30% | ~2,002 |
 | Break A Leg | 0.30% | ~2,002 |
 | But Doctor, I am Butcho | 0.30% | ~2,002 |
+| Slayer Squad | 0.30% | ~2,002 |
 | Can't Handle the Truth | 0.30% | ~2,002 |
 | Coup de Grâce | 0.30% | ~2,002 |
 | Like Riding a Bike | 0.30% | ~2,002 |
@@ -27,7 +28,6 @@ Rating: 4.54 (Ranked 502)
 | Anger Management | 0.20% | ~1,335 |
 | Perks of the Job | 0.20% | ~1,335 |
 | I Got a Zombie Army and You Can't Harm Me | 0.20% | ~1,335 |
-| Slayer Squad | 0.20% | ~1,335 |
 | Ooh, Shiny! | 0.20% | ~1,335 |
 | Humanity Distilled | 0.20% | ~1,335 |
 | I Am the Resurrection | 0.20% | ~1,335 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 502)
 | Rising Star | 0.10% | ~667 |
 | Bucket List | 0.10% | ~667 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 667,273 (Ranked 22)  
+Progressed: 667,296 (Ranked 22)  
 Completed: 2,082 (0.31%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,9 +181,10 @@ Completed: 2,082 (0.31%) (Ranked 173)
 | 2023-08-25 | 665,272 | 2,068 |
 | 2023-08-26 | 666,250 | 2,078 |
 | 2023-08-27 | 667,273 | 2,082 |
+| 2023-08-28 | 667,296 | 2,082 |
 ## Awards
 Max (Great Boss Battles): 5,783  (Ranked 61)  
-Sum: 8,515 (Ranked 97)  
+Sum: 8,517 (Ranked 97)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
@@ -195,7 +196,7 @@ Diff (max vs sum): -36
 | This game has Amazing Storytelling | 327 |
 | This game is Extremely Fun | 311 |
 | This game has Amazing Characters | 304 |
-| This game is Highly Recommended | 298 |
+| This game is Highly Recommended | 300 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -328,3 +329,4 @@ Diff (max vs sum): -36
 | 2023-08-25 | 4.54 | 5,753 | 8,469 |
 | 2023-08-26 | 4.54 | 5,770 | 8,490 |
 | 2023-08-27 | 4.54 | 5,783 | 8,515 |
+| 2023-08-28 | 4.54 | 5,783 | 8,517 |

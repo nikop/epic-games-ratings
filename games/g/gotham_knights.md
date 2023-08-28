@@ -7,8 +7,8 @@ Rating: 4.18 (Ranked 877)
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 50.00% | ~34,040 |
 | Har, Har, Har, Very Funny | 35.00% | ~23,828 |
-| Loose Ends | 34.00% | ~23,147 |
-| To the Victor Go the Spoils | 28.00% | ~19,062 |
+| Loose Ends | 34.00% | ~23,148 |
+| To the Victor Go the Spoils | 28.00% | ~19,063 |
 | Knighthood | 27.00% | ~18,382 |
 | Get ReQ'd | 25.00% | ~17,020 |
 | Whispered Words | 25.00% | ~17,020 |
@@ -20,8 +20,8 @@ Rating: 4.18 (Ranked 877)
 | Unstoppable Force | 20.00% | ~13,616 |
 | Bad Apples in Every Orchard | 20.00% | ~13,616 |
 | Snow Problem | 19.00% | ~12,935 |
-| The Show Mud Go On | 18.00% | ~12,254 |
-| From Inside Gotham's Walls | 18.00% | ~12,254 |
+| The Show Mud Go On | 18.00% | ~12,255 |
+| From Inside Gotham's Walls | 18.00% | ~12,255 |
 | Protector of Gotham | 17.00% | ~11,574 |
 | Universal Health Scare | 16.00% | ~10,893 |
 | In Your Element | 15.00% | ~10,212 |
@@ -29,8 +29,8 @@ Rating: 4.18 (Ranked 877)
 | Rock and a Hard Place | 14.00% | ~9,531 |
 | Cooldown | 14.00% | ~9,531 |
 | Seeking Asylum | 14.00% | ~9,531 |
-| Not On My Watch | 13.00% | ~8,850 |
-| Shock Til They Drop | 13.00% | ~8,850 |
+| Not On My Watch | 13.00% | ~8,851 |
+| Shock Til They Drop | 13.00% | ~8,851 |
 | End of an Era | 12.00% | ~8,170 |
 | Bulldozed | 12.00% | ~8,170 |
 | Gotham Knight | 12.00% | ~8,170 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 877)
 | Element of Surprise | 0.20% | ~77 |
 | It's Nice to Be Wanted | 0.20% | ~77 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,080 (Ranked 81)  
+Progressed: 68,081 (Ranked 81)  
 Completed: 109 (0.16%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,6 +197,7 @@ Completed: 109 (0.16%) (Ranked 196)
 | 2023-08-25 | 68,028 | 109 |
 | 2023-08-26 | 68,056 | 109 |
 | 2023-08-27 | 68,080 | 109 |
+| 2023-08-28 | 68,081 | 109 |
 ## Awards
 Max (Great Boss Battles): 2,522  (Ranked 100)  
 Sum: 4,199 (Ranked 139)  

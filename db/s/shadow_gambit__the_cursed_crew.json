@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 526,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -1236,9 +1236,9 @@
       "ID": "_16_UnlockCore8Characters",
       "SetID": "8a1io5d",
       "Name": "Pirates Assemble!",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 84
+      "UsersEstimate": 89
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -1331,8 +1331,8 @@
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-27T23:05:22.8362954+00:00",
+  "LastChanged_Achievements": "2023-08-28T00:04:14.7009161+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:45.1302228+00:00",
-  "LastUpdate_Ratings": "2023-08-27T23:01:04.6939681+00:00",
-  "LastUpdate_Achievements": "2023-08-27T23:05:22.8363388+00:00"
+  "LastUpdate_Ratings": "2023-08-28T00:00:11.0082563+00:00",
+  "LastUpdate_Achievements": "2023-08-28T00:04:14.7009408+00:00"
 }

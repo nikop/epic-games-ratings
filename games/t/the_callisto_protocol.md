@@ -14,6 +14,7 @@ Rating: 4.19 (Ranked 869)
 | I Do Belong Here | 3.00% | ~477 |
 | Two Heads Are Better Than One | 3.00% | ~477 |
 | Chew 'Em Up | 3.00% | ~477 |
+| Terminated | 3.00% | ~477 |
 | Workplace Hazard | 3.00% | ~477 |
 | Reforged | 3.00% | ~477 |
 | The Outer Way | 3.00% | ~477 |
@@ -27,7 +28,6 @@ Rating: 4.19 (Ranked 869)
 | Power Up | 3.00% | ~477 |
 | It's Time | 3.00% | ~115 |
 | Giving Back | 2.00% | ~318 |
-| Terminated | 2.00% | ~318 |
 | The Commonality | 2.00% | ~318 |
 | One Last Job | 2.00% | ~76 |
 | In Striking Distance | 1.00% | ~159 |

@@ -1888,9 +1888,9 @@
       "ID": "ID_10_SONIC2_WIN_THE_JACKPOT",
       "SetID": "7o8nc5m",
       "Name": "Lucky Hedgehog",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 138
     },
     {
       "ID": "ID_11_SONIC3K_DEFEAT_RHINOBOT",
@@ -2104,8 +2104,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-08-27T04:01:27.5688672+00:00",
-  "LastChanged_Achievements": "2023-08-27T23:06:44.6996836+00:00",
+  "LastChanged_Achievements": "2023-08-28T00:05:22.3478739+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:27.4748037+00:00",
-  "LastUpdate_Ratings": "2023-08-27T23:00:45.5725407+00:00",
-  "LastUpdate_Achievements": "2023-08-27T23:06:44.6997223+00:00"
+  "LastUpdate_Ratings": "2023-08-27T23:59:52.7855641+00:00",
+  "LastUpdate_Achievements": "2023-08-28T00:05:22.3479116+00:00"
 }
