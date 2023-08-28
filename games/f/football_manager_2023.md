@@ -8,8 +8,8 @@ Rating: 4.75 (Ranked 134)
 | Motivational Speaker | 77.00% | ~65,973 |
 | The Player Whisperer | 76.00% | ~65,116 |
 | One of Us, One of Us! | 73.00% | ~62,546 |
+| Clean Sheet | 68.00% | ~58,262 |
 | First Victory | 68.00% | ~58,262 |
-| Clean Sheet | 67.00% | ~57,405 |
 | #DoneDeal | 67.00% | ~57,405 |
 | Off the Books | 66.00% | ~56,548 |
 | Super-Sub | 65.00% | ~55,691 |

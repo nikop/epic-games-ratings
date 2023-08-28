@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 140,
   "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -2256,9 +2256,9 @@
       "ID": "LacunaCompleted",
       "SetID": "a9e499d",
       "Name": "Make Up For Lost Time",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 161
     },
     {
       "ID": "MapCompletion1",
@@ -2497,8 +2497,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-08-28T04:07:57.1241822+00:00",
+  "LastChanged_Achievements": "2023-08-28T05:08:24.4153319+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:03.8052712+00:00",
-  "LastUpdate_Ratings": "2023-08-28T03:58:15.3006175+00:00",
-  "LastUpdate_Achievements": "2023-08-28T04:07:57.1242294+00:00"
+  "LastUpdate_Ratings": "2023-08-28T04:58:26.2259313+00:00",
+  "LastUpdate_Achievements": "2023-08-28T05:08:24.4154434+00:00"
 }

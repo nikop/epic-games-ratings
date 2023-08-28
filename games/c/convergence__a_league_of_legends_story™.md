@@ -8,11 +8,11 @@ Rating: 4.60 (Ranked 391)
 | Time Heals All Wounds | 26.00% | ~220 |
 | Rail Rat | 22.00% | ~186 |
 | The Mysterious Stranger | 21.00% | ~178 |
+| Make Up For Lost Time | 19.00% | ~161 |
 | The Prince in Heels | 19.00% | ~161 |
 | Immaculate Aim | 19.00% | ~161 |
 | The Brass Boss | 19.00% | ~161 |
 | The Steel Shadow | 18.00% | ~152 |
-| Make Up For Lost Time | 18.00% | ~152 |
 | Time Flies | 18.00% | ~152 |
 | The Harder They Fall | 18.00% | ~152 |
 | No, Thanks! | 18.00% | ~152 |

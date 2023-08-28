@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 38,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -1471,9 +1471,9 @@
       "Count": 247
     }
   ],
-  "EOS_Progressed": 198152,
+  "EOS_Progressed": 198158,
   "EOS_Completed": 72,
-  "EOS_NewPlayers": 2087,
+  "EOS_NewPlayers": 2079,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -15901,6 +15901,11 @@
       "Time": "2023-08-28T04:05:42.1944017+00:00",
       "NumProgressed": 198152,
       "NumCompleted": 72
+    },
+    {
+      "Time": "2023-08-28T05:06:04.1121086+00:00",
+      "NumProgressed": 198158,
+      "NumCompleted": 72
     }
   ],
   "TotalAchievements": 44,
@@ -15952,7 +15957,7 @@
       "Name": "Disguised",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 15852
+      "UsersEstimate": 15853
     },
     {
       "ID": "FiveShadows",
@@ -16136,7 +16141,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 15852
+      "UsersEstimate": 15853
     },
     {
       "ID": "StillRollin",
@@ -16168,7 +16173,7 @@
       "Name": "Tanuki Time",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 15852
+      "UsersEstimate": 15853
     },
     {
       "ID": "TheCave",
@@ -16200,7 +16205,7 @@
       "Name": "Thorough",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 19815
+      "UsersEstimate": 19816
     },
     {
       "ID": "TimeParadox",
@@ -16263,15 +16268,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 198152,
+      "Progressed": 198158,
       "Completed": 72
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-08-26T22:57:45.8116593+00:00",
-  "LastChanged_Achievements": "2023-08-28T04:05:42.1944005+00:00",
+  "LastChanged_Achievements": "2023-08-28T05:06:04.112108+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:44.6562489+00:00",
-  "LastUpdate_Ratings": "2023-08-28T03:57:42.6434397+00:00",
-  "LastUpdate_Achievements": "2023-08-28T04:05:42.19451+00:00"
+  "LastUpdate_Ratings": "2023-08-28T04:57:53.5078951+00:00",
+  "LastUpdate_Achievements": "2023-08-28T05:06:04.1122361+00:00"
 }

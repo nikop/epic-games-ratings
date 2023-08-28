@@ -8,8 +8,8 @@
 | Now I'm Here | 68.00% | ~64 |
 | The Hitman | 53.00% | ~50 |
 | Keep Yourself Alive | 49.00% | ~46 |
-| Misfire | 39.00% | ~37 |
-| All Dead, All Dead | 37.00% | ~35 |
+| Misfire | 40.00% | ~38 |
+| All Dead, All Dead | 38.00% | ~36 |
 | The Miracle | 35.00% | ~33 |
 | The Invisible Man | 34.00% | ~32 |
 | We Will Rock You | 27.00% | ~25 |

@@ -5,25 +5,25 @@ Rating: 4.43 (Ranked 663)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~57,544 |
+| No aid from the Omnissiah | 26.00% | ~57,545 |
 | This is only the beginning | 19.00% | ~42,052 |
 | Knowledge is power | 12.00% | ~26,559 |
-| Power Ranger | 9.00% | ~19,919 |
-| Galvanic Rifle | 9.00% | ~19,919 |
-| Taser Goad | 9.00% | ~19,919 |
-| Radium Ready | 9.00% | ~19,919 |
-| Half a cog | 9.00% | ~19,919 |
-| Watch them crumble | 6.00% | ~13,279 |
+| Power Ranger | 9.00% | ~19,920 |
+| Galvanic Rifle | 9.00% | ~19,920 |
+| Taser Goad | 9.00% | ~19,920 |
+| Radium Ready | 9.00% | ~19,920 |
+| Half a cog | 9.00% | ~19,920 |
+| Watch them crumble | 6.00% | ~13,280 |
 | Competent Cohort | 4.00% | ~8,853 |
 | Celestial Cartography Catastrophe | 4.00% | ~8,853 |
 | One with the Machine | 4.00% | ~8,853 |
 | Legio Cybernetica | 3.00% | ~6,640 |
 | Fleshy Disposal | 3.00% | ~6,640 |
-| Battle Servitor | 2.00% | ~4,426 |
-| Ding Dong Szaregon's Gone | 2.00% | ~4,426 |
-| Impatient destruction | 2.00% | ~4,426 |
-| Vivisected Vizier | 2.00% | ~4,426 |
-| Architect Abortion | 2.00% | ~4,426 |
+| Battle Servitor | 2.00% | ~4,427 |
+| Ding Dong Szaregon's Gone | 2.00% | ~4,427 |
+| Impatient destruction | 2.00% | ~4,427 |
+| Vivisected Vizier | 2.00% | ~4,427 |
+| Architect Abortion | 2.00% | ~4,427 |
 | Cohortus Maximus | 0.80% | ~1,771 |
 | Mother of Xenarites | 0.40% | ~885 |
 | False God | 0.30% | ~664 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 663)
 | Perma-live | 0.10% | ~221 |
 | Purge the Heretek | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221,324 (Ranked 54)  
+Progressed: 221,328 (Ranked 54)  
 Completed: 5 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 5 (0.00%) (Ranked 265)
 | 2023-08-25 | 221,135 | 5 |
 | 2023-08-26 | 221,229 | 5 |
 | 2023-08-27 | 221,311 | 5 |
-| 2023-08-28 | 221,324 | 5 |
+| 2023-08-28 | 221,328 | 5 |
 ## Awards
 Max (Highly Recommended): 281  (Ranked 241)  
 Sum: 2,129 (Ranked 195)  

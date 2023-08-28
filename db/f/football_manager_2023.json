@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 49,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-11-08T00:00:00+00:00",
     "PcReleaseDate": "2022-11-08T00:00:00+00:00",
@@ -4674,7 +4674,7 @@
   ],
   "EOS_Progressed": 85679,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 1184,
+  "EOS_NewPlayers": 1183,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18900,9 +18900,9 @@
       "ID": "achievement_clean_sheet",
       "SetID": "26pcimd",
       "Name": "Clean Sheet",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 57405
+      "UsersEstimate": 58262
     },
     {
       "ID": "achievement_clean_sheet_network",
@@ -19565,8 +19565,8 @@
   "FirstSeenRating": "2022-11-08T17:57:47.9405885+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.5210365+00:00",
   "LastChanged": "2023-08-27T19:57:55.2724372+00:00",
-  "LastChanged_Achievements": "2023-08-28T04:06:46.6134653+00:00",
+  "LastChanged_Achievements": "2023-08-28T05:07:11.0092699+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:01.7792484+00:00",
-  "LastUpdate_Ratings": "2023-08-28T03:58:07.9855853+00:00",
-  "LastUpdate_Achievements": "2023-08-28T04:06:46.6136384+00:00"
+  "LastUpdate_Ratings": "2023-08-28T04:58:17.5364677+00:00",
+  "LastUpdate_Achievements": "2023-08-28T05:07:11.0096512+00:00"
 }

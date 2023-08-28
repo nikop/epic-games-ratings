@@ -3,9 +3,9 @@
   "Name": "SPACE WAR - INFINITY",
   "ProductSlug": "space-war-infinity-024a8f",
   "Ranking_EOS_Progress": 387,
-  "Ranking_EOS_Completed": 39,
-  "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_Completed": 32,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-08-15T15:00:00+00:00",
     "PcReleaseDate": "2019-05-28T13:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 44,
-  "EOS_Completed": 3,
+  "EOS_Completed": 4,
   "EOS_NewPlayers": 7,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.82,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 9.09,
   "EosHistory": [
     {
       "Time": "2023-08-15T16:04:17.9751205+00:00",
@@ -216,6 +216,11 @@
       "Time": "2023-08-28T02:18:14.8282034+00:00",
       "NumProgressed": 44,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-28T05:03:09.1002588+00:00",
+      "NumProgressed": 44,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-08-09T13:13:29.9534063+00:00",
@@ -242,9 +247,9 @@
       "ID": "_battlecruiser",
       "SetID": "2d5739o",
       "Name": "Battlecruiser",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 75,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "_beegun",
@@ -378,17 +383,17 @@
       "ID": "_laser_enemy",
       "SetID": "2d5739o",
       "Name": "Laser enemy",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "_laser_mine",
       "SetID": "2d5739o",
       "Name": "Laser mine",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "_lightsaber_mine",
@@ -434,9 +439,9 @@
       "ID": "_mothership",
       "SetID": "2d5739o",
       "Name": "Mothership",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 200,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "_orbpack",
@@ -572,13 +577,13 @@
       "ID": "2d5739o",
       "IsBase": true,
       "Progressed": 44,
-      "Completed": 3
+      "Completed": 4
     }
   ],
   "FirstSeen": "2023-08-19T02:04:22.1564483+00:00",
   "FirstSeenAchievements": "2023-08-09T13:13:29.9534062+00:00",
-  "LastChanged_Achievements": "2023-08-28T04:02:20.4129059+00:00",
+  "LastChanged_Achievements": "2023-08-28T05:03:09.1002578+00:00",
   "LastUpdate_AppInfo": "2023-08-23T14:57:05.3150433+00:00",
-  "LastUpdate_Ratings": "2023-08-28T03:59:10.2782864+00:00",
-  "LastUpdate_Achievements": "2023-08-28T04:02:20.412939+00:00"
+  "LastUpdate_Ratings": "2023-08-28T04:59:21.925902+00:00",
+  "LastUpdate_Achievements": "2023-08-28T05:03:09.1003282+00:00"
 }

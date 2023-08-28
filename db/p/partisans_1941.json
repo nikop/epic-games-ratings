@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1318,
+  "EOS_Progressed": 1319,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2330,6 +2330,11 @@
       "Time": "2023-08-27T18:06:24.3895531+00:00",
       "NumProgressed": 1318,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-28T05:07:55.745393+00:00",
+      "NumProgressed": 1319,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2341,7 +2346,7 @@
       "Name": "Agent 47",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "Auditor",
@@ -2493,7 +2498,7 @@
       "Name": "Spice It Up",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "KillAllM2",
@@ -2525,7 +2530,7 @@
       "Name": "Bomberman",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "MoskitoBite",
@@ -2580,15 +2585,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1318,
+      "Progressed": 1319,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-08-28T04:07:29.525975+00:00",
+  "LastChanged_Achievements": "2023-08-28T05:07:55.7453926+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:40.0859007+00:00",
-  "LastUpdate_Ratings": "2023-08-28T03:57:37.7473002+00:00",
-  "LastUpdate_Achievements": "2023-08-28T04:07:29.5260282+00:00"
+  "LastUpdate_Ratings": "2023-08-28T04:57:48.486865+00:00",
+  "LastUpdate_Achievements": "2023-08-28T05:07:55.7454432+00:00"
 }
