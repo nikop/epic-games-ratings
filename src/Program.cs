@@ -319,12 +319,12 @@ foreach (var month in items.Where(x => x.Store.ReleaseDate != null).GroupBy(x =>
            fileName,
             nameDateTable.FormatTable(
                 achievementGames
-                    .Where(x => x.AchievementsAdded != null)
                     .OrderByDescending(x => x.AchievementsAdded)
                     .ThenBy(x => x.Name)
             )
         );
-    } else if (File.Exists(fileName))
+    }
+    else if (File.Exists(fileName))
     {
         File.Delete(fileName);
     }
