@@ -6,7 +6,7 @@
   "Ranking_Popularity": 68,
   "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 53,
-  "Ranking_EOS_Completed": 122,
+  "Ranking_EOS_Completed": 120,
   "Ranking_EOS_NewPlayers": 40,
   "Ranking_EOS_NewCompleters": 9,
   "Store": {
@@ -6154,11 +6154,11 @@
       "Count": 3380
     }
   ],
-  "EOS_Progressed": 225638,
-  "EOS_Completed": 2222,
-  "EOS_NewPlayers": 1782,
-  "EOS_NewCompleters": 22,
-  "EOS_Completed_Percentage": 0.98,
+  "EOS_Progressed": 225647,
+  "EOS_Completed": 2223,
+  "EOS_NewPlayers": 1778,
+  "EOS_NewCompleters": 23,
+  "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:41.9871817+00:00",
@@ -20399,6 +20399,11 @@
       "Time": "2023-08-28T11:08:29.2172107+00:00",
       "NumProgressed": 225638,
       "NumCompleted": 2222
+    },
+    {
+      "Time": "2023-08-28T12:07:22.5535583+00:00",
+      "NumProgressed": 225647,
+      "NumCompleted": 2223
     }
   ],
   "TotalAchievements": 516,
@@ -20488,9 +20493,9 @@
       "ID": "objective_completed_1051",
       "SetID": "415jc5c",
       "Name": "Nightmare Rats!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 384
     },
     {
       "ID": "objective_completed_1052",
@@ -20778,7 +20783,7 @@
       "Name": "Beast Intentions",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1579
+      "UsersEstimate": 1580
     },
     {
       "ID": "objective_completed_110",
@@ -21272,9 +21277,9 @@
       "ID": "objective_completed_12",
       "SetID": "cc37lbc",
       "Name": "Were-verpowered",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 677
+      "UsersEstimate": 903
     },
     {
       "ID": "objective_completed_1203",
@@ -22082,7 +22087,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1579
+      "UsersEstimate": 1580
     },
     {
       "ID": "objective_completed_34",
@@ -23336,9 +23341,9 @@
       "ID": "objective_completed_660",
       "SetID": "415jc5c",
       "Name": "The Wandering Emporium",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 384
     },
     {
       "ID": "objective_completed_661",
@@ -24506,7 +24511,7 @@
       "Name": "The Hunt for The Last Breath",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1151
+      "UsersEstimate": 1152
     },
     {
       "ID": "objective_completed_1396",
@@ -24537,21 +24542,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 191912,
+      "Progressed": 191921,
       "Completed": 3320
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 225638,
-      "Completed": 2222
+      "Progressed": 225647,
+      "Completed": 2223
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-28T11:01:29.3392995+00:00",
-  "LastChanged_Achievements": "2023-08-28T11:08:29.2172096+00:00",
+  "LastChanged_Achievements": "2023-08-28T12:07:22.5535579+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:53.3345914+00:00",
-  "LastUpdate_Ratings": "2023-08-28T11:01:29.3393009+00:00",
-  "LastUpdate_Achievements": "2023-08-28T11:08:29.2203697+00:00"
+  "LastUpdate_Ratings": "2023-08-28T12:00:30.156188+00:00",
+  "LastUpdate_Achievements": "2023-08-28T12:07:22.5563873+00:00"
 }

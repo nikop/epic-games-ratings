@@ -6,54 +6,54 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Explorer | 4.00% | ~545 |
 | Settler | 4.00% | ~545 |
 | Play a Single Player Game | 4.00% | ~545 |
 | The Clergy | 4.00% | ~545 |
 | Able | 3.00% | ~409 |
-| Explorer | 3.00% | ~409 |
+| Architect | 3.00% | ~409 |
 | Intrepid | 3.00% | ~409 |
 | Mason | 3.00% | ~409 |
 | Strong | 3.00% | ~409 |
 | Friendly Family | 3.00% | ~409 |
 | Hanging Gardens | 3.00% | ~409 |
-| Ambitious | 2.00% | ~272 |
-| Architect | 2.00% | ~272 |
-| Brilliant | 2.00% | ~272 |
-| Enlightened | 2.00% | ~272 |
-| Fountainhead | 2.00% | ~272 |
-| Glorious | 2.00% | ~272 |
-| Good | 2.00% | ~272 |
-| Great | 2.00% | ~272 |
-| Just | 2.00% | ~272 |
-| Keystone | 2.00% | ~272 |
-| Learned | 2.00% | ~272 |
-| Magnificent | 2.00% | ~272 |
-| Noble | 2.00% | ~272 |
-| Pioneer | 2.00% | ~272 |
-| Warrior | 2.00% | ~272 |
-| Wise | 2.00% | ~272 |
-| Developing Cities | 2.00% | ~272 |
-| Strong Cities | 2.00% | ~272 |
-| Able Difficulty | 2.00% | ~272 |
-| Furious Family | 2.00% | ~272 |
-| Great Ziggurat | 2.00% | ~272 |
-| Ishtar Gate | 2.00% | ~272 |
-| Lighthouse | 2.00% | ~272 |
-| Necropolis | 2.00% | ~272 |
-| Oracle | 2.00% | ~272 |
-| Pyramids | 2.00% | ~272 |
-| Learn to Play 1 | 2.00% | ~272 |
-| Christianity | 2.00% | ~272 |
-| Judaism | 2.00% | ~272 |
-| Babylonian Paganism | 2.00% | ~272 |
-| Carthaginian Paganism | 2.00% | ~272 |
-| Greek Paganism | 2.00% | ~272 |
-| Roman Paganism | 2.00% | ~272 |
-| Zoroastrianism | 2.00% | ~272 |
-| Naming Landmarks | 2.00% | ~272 |
-| Trade Caravan | 2.00% | ~272 |
-| The Great Mage | 2.00% | ~272 |
-| Poetic Leader | 2.00% | ~272 |
+| Ambitious | 2.00% | ~273 |
+| Brilliant | 2.00% | ~273 |
+| Enlightened | 2.00% | ~273 |
+| Fountainhead | 2.00% | ~273 |
+| Glorious | 2.00% | ~273 |
+| Good | 2.00% | ~273 |
+| Great | 2.00% | ~273 |
+| Just | 2.00% | ~273 |
+| Keystone | 2.00% | ~273 |
+| Learned | 2.00% | ~273 |
+| Magnificent | 2.00% | ~273 |
+| Noble | 2.00% | ~273 |
+| Pioneer | 2.00% | ~273 |
+| Warrior | 2.00% | ~273 |
+| Wise | 2.00% | ~273 |
+| Developing Cities | 2.00% | ~273 |
+| Strong Cities | 2.00% | ~273 |
+| Able Difficulty | 2.00% | ~273 |
+| Furious Family | 2.00% | ~273 |
+| Great Ziggurat | 2.00% | ~273 |
+| Ishtar Gate | 2.00% | ~273 |
+| Lighthouse | 2.00% | ~273 |
+| Necropolis | 2.00% | ~273 |
+| Oracle | 2.00% | ~273 |
+| Pyramids | 2.00% | ~273 |
+| Learn to Play 1 | 2.00% | ~273 |
+| Christianity | 2.00% | ~273 |
+| Judaism | 2.00% | ~273 |
+| Babylonian Paganism | 2.00% | ~273 |
+| Carthaginian Paganism | 2.00% | ~273 |
+| Greek Paganism | 2.00% | ~273 |
+| Roman Paganism | 2.00% | ~273 |
+| Zoroastrianism | 2.00% | ~273 |
+| Naming Landmarks | 2.00% | ~273 |
+| Trade Caravan | 2.00% | ~273 |
+| The Great Mage | 2.00% | ~273 |
+| Poetic Leader | 2.00% | ~273 |
 | Regicide | 1.00% | ~136 |
 | Hanging Gardens in Babylon | 1.00% | ~136 |
 | Drillmaster | 1.00% | ~136 |
@@ -135,15 +135,15 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Paganism | 0.50% | ~68 |
 | Turreted Elephant | 0.50% | ~68 |
 | No Undo | 0.50% | ~68 |
-| Carthage - Ox Hide | 0.40% | ~54 |
-| Peacemaker | 0.40% | ~54 |
-| Noble Difficulty | 0.40% | ~54 |
-| Cao'an | 0.40% | ~54 |
-| Egypt | 0.40% | ~54 |
-| Old World Order | 0.40% | ~54 |
-| Cataphract Archer | 0.40% | ~54 |
-| All Nations | 0.40% | ~54 |
-| Pilgrimage | 0.40% | ~54 |
+| Carthage - Ox Hide | 0.40% | ~55 |
+| Peacemaker | 0.40% | ~55 |
+| Noble Difficulty | 0.40% | ~55 |
+| Cao'an | 0.40% | ~55 |
+| Egypt | 0.40% | ~55 |
+| Old World Order | 0.40% | ~55 |
+| Cataphract Archer | 0.40% | ~55 |
+| All Nations | 0.40% | ~55 |
+| Pilgrimage | 0.40% | ~55 |
 | Ancient | 0.30% | ~41 |
 | Glorious Difficulty | 0.30% | ~41 |
 | The Eternal Treaty | 0.30% | ~41 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,624 (Ranked 119)  
+Progressed: 13,626 (Ranked 119)  
 Completed: 5 (0.04%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -433,7 +433,7 @@ Completed: 5 (0.04%) (Ranked 235)
 | 2023-08-25 | 13,563 | 5 |
 | 2023-08-26 | 13,590 | 5 |
 | 2023-08-27 | 13,616 | 5 |
-| 2023-08-28 | 13,624 | 5 |
+| 2023-08-28 | 13,626 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,799 (Ranked 208)  

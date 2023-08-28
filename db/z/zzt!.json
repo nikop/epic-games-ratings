@@ -4,7 +4,7 @@
   "ProductSlug": "zzt",
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-03-31T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3123,
+  "EOS_Progressed": 3125,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.87,
   "EosHistory": [
@@ -4241,6 +4241,11 @@
       "Time": "2023-08-28T01:44:41.3376116+00:00",
       "NumProgressed": 3123,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-08-28T12:03:09.1960873+00:00",
+      "NumProgressed": 3125,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 5,
@@ -4252,7 +4257,7 @@
       "Name": "Potomac Computer Systems",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 3123
+      "UsersEstimate": 3125
     },
     {
       "ID": "2",
@@ -4260,7 +4265,7 @@
       "Name": "Traveler",
       "Percentage": 6,
       "XP": 200,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "3",
@@ -4291,7 +4296,7 @@
     {
       "ID": "dm385hd",
       "IsBase": true,
-      "Progressed": 3123,
+      "Progressed": 3125,
       "Completed": 121
     }
   ],
@@ -4299,8 +4304,8 @@
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
-  "LastChanged_Achievements": "2023-08-28T11:03:29.2321348+00:00",
+  "LastChanged_Achievements": "2023-08-28T12:03:09.1960867+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:03.5391869+00:00",
-  "LastUpdate_Ratings": "2023-08-28T11:01:39.3729123+00:00",
-  "LastUpdate_Achievements": "2023-08-28T11:03:29.2321869+00:00"
+  "LastUpdate_Ratings": "2023-08-28T12:00:36.3637953+00:00",
+  "LastUpdate_Achievements": "2023-08-28T12:03:09.1961195+00:00"
 }

@@ -51,7 +51,7 @@ Number of Ratings: 209  (23.09.2022)
 | Faster | 60.00% | ~1,329 |
 | Much Magic | 58.00% | ~1,285 |
 | Chest Detector | 55.00% | ~1,218 |
-| Flames | 52.00% | ~1,152 |
+| Flames | 53.00% | ~1,174 |
 | Momentum | 46.00% | ~1,019 |
 | You're unsure if you broke the game or not | 42.00% | ~930 |
 | But wait... ...There's more... | 40.00% | ~886 |

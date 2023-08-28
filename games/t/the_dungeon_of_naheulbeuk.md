@@ -6,13 +6,13 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 25.00% | ~54,616 |
+| Sowwy! | 25.00% | ~54,620 |
 | Where's that freaking Dwarf? | 3.00% | ~6,554 |
 | Alt+F4 | 3.00% | ~6,554 |
-| Déjà vu | 2.00% | ~4,369 |
-| A beer, two curses, three companions | 2.00% | ~4,369 |
-| Sock! SOCK! | 2.00% | ~4,369 |
-| Speedrun | 2.00% | ~4,369 |
+| Déjà vu | 2.00% | ~4,370 |
+| A beer, two curses, three companions | 2.00% | ~4,370 |
+| Sock! SOCK! | 2.00% | ~4,370 |
+| Speedrun | 2.00% | ~4,370 |
 | Livin' in a dwarven paradise | 1.00% | ~2,185 |
 | Way of the Wimp | 1.00% | ~2,185 |
 | The plot thickens... At the tavern | 1.00% | ~2,185 |
@@ -25,11 +25,11 @@ Number of Ratings: 118  (23.09.2022)
 | Torture and Sensibility | 0.80% | ~1,748 |
 | Urik's Depths | 0.80% | ~1,748 |
 | The Dungeon Master | 0.80% | ~1,748 |
+| The Statuette of Gladeulfeurah | 0.80% | ~1,748 |
 | The Woman in the High Castle | 0.80% | ~1,748 |
+| A tale of adventurers not quite like the others... | 0.80% | ~1,748 |
 | Team Building Exercise | 0.80% | ~1,748 |
 | Shiny and Crôm | 0.70% | ~1,529 |
-| The Statuette of Gladeulfeurah | 0.70% | ~1,529 |
-| A tale of adventurers not quite like the others... | 0.70% | ~1,529 |
 | %#*!$*! | 0.70% | ~1,529 |
 | The Ranger of Chaos | 0.70% | ~1,529 |
 | I am the night | 0.70% | ~1,529 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~218 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,464 (Ranked 56)  
+Progressed: 218,478 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 2 (0.00%) (Ranked 265)
 | 2023-08-25 | 217,227 | 2 |
 | 2023-08-26 | 217,758 | 2 |
 | 2023-08-27 | 218,331 | 2 |
-| 2023-08-28 | 218,464 | 2 |
+| 2023-08-28 | 218,478 | 2 |
 ## Awards
 Max (Character Customization): 180  (Ranked 282)  
 Sum: 226 (Ranked 360)  

@@ -12,13 +12,13 @@
 | Lochos | 5.00% | ~171 |
 | Strength of Herakles | 5.00% | ~171 |
 | Reign in Blood | 5.00% | ~171 |
-| Immolator | 4.00% | ~136 |
-| Go For the Head | 4.00% | ~136 |
-| Spartan Sandal | 4.00% | ~136 |
-| Modest Earnings | 4.00% | ~136 |
-| Symbols of Heresy | 4.00% | ~136 |
-| The Sons of Minos | 4.00% | ~136 |
-| Eidola | 4.00% | ~136 |
+| Immolator | 4.00% | ~137 |
+| Go For the Head | 4.00% | ~137 |
+| Spartan Sandal | 4.00% | ~137 |
+| Modest Earnings | 4.00% | ~137 |
+| Symbols of Heresy | 4.00% | ~137 |
+| The Sons of Minos | 4.00% | ~137 |
+| Eidola | 4.00% | ~137 |
 | Comedy and Tragedy | 3.00% | ~102 |
 | Pillars of Eternity | 3.00% | ~102 |
 | War Chest | 3.00% | ~102 |
@@ -53,7 +53,7 @@
 | Rites at Sea | 1.00% | ~34 |
 | Close Shut the Doors | 1.00% | ~34 |
 | Scrap Metal | 1.00% | ~34 |
-| Athenian Treasury | 0.90% | ~31 |
+| Athenian Treasury | 0.80% | ~27 |
 | Invicta | 0.80% | ~27 |
 | Olympian | 0.60% | ~20 |
 | Hipparchia's Labour | 0.40% | ~14 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,411 (Ranked 154)  
+Progressed: 3,413 (Ranked 154)  
 Completed: 0 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,6 +191,7 @@ Completed: 0 (0.00%) (Ranked 265)
 | 2023-08-25 | 3,409 | 0 |
 | 2023-08-26 | 3,410 | 0 |
 | 2023-08-27 | 3,411 | 0 |
+| 2023-08-28 | 3,413 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

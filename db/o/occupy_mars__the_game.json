@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1539,
+  "EOS_Progressed": 1540,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3346,6 +3346,11 @@
       "Time": "2023-08-28T11:03:51.3087553+00:00",
       "NumProgressed": 1539,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-28T12:03:26.7291121+00:00",
+      "NumProgressed": 1540,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3437,7 +3442,7 @@
       "Name": "Zero Waste",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -3477,7 +3482,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -3717,7 +3722,7 @@
       "Name": "Bob The Builder",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -3740,7 +3745,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1539,
+      "Progressed": 1540,
       "Completed": 0
     }
   ],
@@ -3748,8 +3753,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-08-27T17:59:59.0512406+00:00",
-  "LastChanged_Achievements": "2023-08-28T11:03:51.3087543+00:00",
+  "LastChanged_Achievements": "2023-08-28T12:03:26.7291113+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:32.8469898+00:00",
-  "LastUpdate_Ratings": "2023-08-28T11:00:41.8959443+00:00",
-  "LastUpdate_Achievements": "2023-08-28T11:03:51.3088176+00:00"
+  "LastUpdate_Ratings": "2023-08-28T11:59:50.2483893+00:00",
+  "LastUpdate_Achievements": "2023-08-28T12:03:26.7291731+00:00"
 }

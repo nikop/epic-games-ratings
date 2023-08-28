@@ -7,15 +7,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 2.00% | ~4,513 |
-| Beast Intentions | 0.70% | ~1,579 |
-| The Cursed Farmer | 0.70% | ~1,579 |
-| The Hunt for The Last Breath | 0.60% | ~1,151 |
+| Beast Intentions | 0.70% | ~1,580 |
+| The Cursed Farmer | 0.70% | ~1,580 |
+| The Hunt for The Last Breath | 0.60% | ~1,152 |
 | The Mad Wizard | 0.50% | ~1,128 |
 | To Infinity's and Beyond | 0.50% | ~960 |
+| Were-verpowered | 0.40% | ~903 |
 | The Ring of Regeneration | 0.40% | ~903 |
 | Are Ya Chicken? | 0.40% | ~903 |
 | Maddening | 0.30% | ~677 |
-| Were-verpowered | 0.30% | ~677 |
 | A Persistent Buzzing | 0.30% | ~677 |
 | A Mysterious Summons | 0.30% | ~677 |
 | The Crumbling Temple | 0.30% | ~677 |
@@ -28,6 +28,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | There's a Flying Snake in my Boot! | 0.30% | ~576 |
 | Pros and CONs | 0.20% | ~451 |
 | Tall Tales | 0.20% | ~384 |
+| Nightmare Rats! | 0.20% | ~384 |
 | The Witchlight Carnival | 0.20% | ~384 |
 | Thieves of the Coven | 0.20% | ~384 |
 | Hither of the Feywild | 0.20% | ~384 |
@@ -104,6 +105,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Into The Fire | 0.20% | ~384 |
 | Dreamscape | 0.20% | ~384 |
 | The Path of Dreams | 0.20% | ~384 |
+| The Wandering Emporium | 0.20% | ~384 |
 | Escort to Waterdeep | 0.20% | ~451 |
 | The Giant's Bane Tavern | 0.20% | ~384 |
 | The Everlasting Rime | 0.20% | ~384 |
@@ -132,7 +134,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Keep Your Friends Close | 0.10% | ~192 |
 | Friends and Foes | 0.10% | ~192 |
 | And Your Enemies Closer | 0.10% | ~192 |
-| Nightmare Rats! | 0.10% | ~192 |
 | An Unexpected Geist | 0.10% | ~192 |
 | Back to Nature | 0.10% | ~192 |
 | A Monarch Among Us | 0.10% | ~192 |
@@ -401,7 +402,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Elder Rune Attack | 0.10% | ~192 |
 | The Gargoyle | 0.10% | ~192 |
 | Ulkoria's Escape from Alterdeep | 0.10% | ~192 |
-| The Wandering Emporium | 0.10% | ~192 |
 | Madcap Adventures Redux | 0.10% | ~192 |
 | When the Going Gets Tough | 0.10% | ~192 |
 | Tiamat's Army | 0.10% | ~192 |
@@ -523,8 +523,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~192 |
 | Animated Giff | 0.10% | ~192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,638 (Ranked 53)  
-Completed: 2,222 (0.98%) (Ranked 122)  
+Progressed: 225,647 (Ranked 53)  
+Completed: 2,223 (0.99%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -653,7 +653,7 @@ Completed: 2,222 (0.98%) (Ranked 122)
 | 2023-08-25 | 224,925 | 2,214 |
 | 2023-08-26 | 225,221 | 2,219 |
 | 2023-08-27 | 225,526 | 2,222 |
-| 2023-08-28 | 225,638 | 2,222 |
+| 2023-08-28 | 225,647 | 2,223 |
 ## Awards
 Max (Diverse Characters): 5,202  (Ranked 68)  
 Sum: 31,259 (Ranked 39)  

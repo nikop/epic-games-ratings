@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5425,
+  "EOS_Progressed": 5427,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8921,6 +8921,11 @@
       "Time": "2023-08-28T09:06:07.0918368+00:00",
       "NumProgressed": 5425,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-28T12:05:10.2980345+00:00",
+      "NumProgressed": 5427,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -8932,7 +8937,7 @@
       "Name": "First Step",
       "Percentage": 37,
       "XP": 45,
-      "UsersEstimate": 2007
+      "UsersEstimate": 2008
     },
     {
       "ID": "10",
@@ -8948,7 +8953,7 @@
       "Name": "Telepathic",
       "Percentage": 10,
       "XP": 70,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "12",
@@ -9004,7 +9009,7 @@
       "Name": "Rainy Ruins",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "5",
@@ -9051,7 +9056,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 5425,
+      "Progressed": 5427,
       "Completed": 0
     }
   ],
@@ -9059,8 +9064,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-08-28T11:06:05.1879742+00:00",
+  "LastChanged_Achievements": "2023-08-28T12:05:10.2980337+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:43.2500463+00:00",
-  "LastUpdate_Ratings": "2023-08-28T11:01:18.3177514+00:00",
-  "LastUpdate_Achievements": "2023-08-28T11:06:05.1880418+00:00"
+  "LastUpdate_Ratings": "2023-08-28T12:00:20.8121773+00:00",
+  "LastUpdate_Achievements": "2023-08-28T12:05:10.2981055+00:00"
 }

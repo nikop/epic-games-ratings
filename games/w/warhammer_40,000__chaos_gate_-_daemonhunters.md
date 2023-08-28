@@ -14,11 +14,11 @@ Number of Ratings: 371  (23.09.2022)
 | Blood for the Blood God! | 3.00% | ~95 |
 | Purging Spree | 3.00% | ~95 |
 | Bloodless | 3.00% | ~95 |
+| Honoured Battle-Brother | 2.00% | ~63 |
 | Surgical Excision | 2.00% | ~63 |
 | Friendly Fire | 2.00% | ~63 |
 | The Emperor Protects | 2.00% | ~63 |
 | A Foul Creche | 2.00% | ~63 |
-| Honoured Battle-Brother | 1.00% | ~32 |
 | Hold Your Ground | 1.00% | ~32 |
 | Corruption Cleanser | 1.00% | ~32 |
 | Nemesis Master | 1.00% | ~32 |

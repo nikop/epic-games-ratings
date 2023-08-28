@@ -6,64 +6,64 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~225,659 |
-| Uncharted Territory | 89.00% | ~209,204 |
-| Getting A Glimpse | 73.00% | ~171,595 |
-| A Quick Escape | 65.00% | ~152,790 |
-| Explorer | 62.00% | ~145,738 |
-| Defeat The Dark | 61.00% | ~143,387 |
-| An Offering | 61.00% | ~143,387 |
-| Colorful Corpse | 58.00% | ~136,335 |
-| That Was Quick | 57.00% | ~133,985 |
-| A Donation | 57.00% | ~133,985 |
-| Goodbye, Frog Friend | 54.00% | ~126,933 |
-| Heavy Hitter | 53.00% | ~124,582 |
-| Heartless | 46.00% | ~108,128 |
-| Spine Breaker | 46.00% | ~108,128 |
-| Deflection | 45.00% | ~105,777 |
-| Sneaky | 43.00% | ~101,076 |
-| Delving Deeper | 42.00% | ~98,726 |
-| C-C-Combo | 42.00% | ~98,726 |
-| Ambitious Intent | 41.00% | ~96,375 |
-| Nothing To Lose | 40.00% | ~94,024 |
-| The Bestiary | 40.00% | ~94,024 |
-| What's Yours Is Mine | 38.00% | ~89,323 |
-| R.I.P | 36.00% | ~84,622 |
-| Shootout | 36.00% | ~84,622 |
-| I Am Overburdened | 35.00% | ~82,271 |
-| Cold Hearted | 34.00% | ~79,921 |
-| Dig Your Own Grave | 33.00% | ~77,570 |
-| Toxic | 33.00% | ~77,570 |
+| First Steps | 96.00% | ~225,661 |
+| Uncharted Territory | 89.00% | ~209,207 |
+| Getting A Glimpse | 73.00% | ~171,597 |
+| A Quick Escape | 65.00% | ~152,792 |
+| Explorer | 62.00% | ~145,740 |
+| Defeat The Dark | 61.00% | ~143,389 |
+| An Offering | 61.00% | ~143,389 |
+| Colorful Corpse | 58.00% | ~136,337 |
+| That Was Quick | 57.00% | ~133,986 |
+| A Donation | 57.00% | ~133,986 |
+| Goodbye, Frog Friend | 54.00% | ~126,935 |
+| Heavy Hitter | 53.00% | ~124,584 |
+| Heartless | 46.00% | ~108,129 |
+| Spine Breaker | 46.00% | ~108,129 |
+| Deflection | 45.00% | ~105,779 |
+| Sneaky | 43.00% | ~101,078 |
+| Delving Deeper | 42.00% | ~98,727 |
+| C-C-Combo | 42.00% | ~98,727 |
+| Ambitious Intent | 41.00% | ~96,376 |
+| Nothing To Lose | 40.00% | ~94,026 |
+| The Bestiary | 40.00% | ~94,026 |
+| What's Yours Is Mine | 38.00% | ~89,324 |
+| R.I.P | 36.00% | ~84,623 |
+| Shootout | 36.00% | ~84,623 |
+| I Am Overburdened | 35.00% | ~82,272 |
+| Cold Hearted | 34.00% | ~79,922 |
+| Dig Your Own Grave | 33.00% | ~77,571 |
+| Toxic | 33.00% | ~77,571 |
 | Who To Trust? | 32.00% | ~75,220 |
-| Flesh Wound | 29.00% | ~68,168 |
-| Stone Touch | 28.00% | ~65,817 |
-| Shadow Walker | 28.00% | ~65,817 |
-| Consecutive Curses | 27.00% | ~63,466 |
-| Walk It Off | 27.00% | ~63,466 |
-| Acid Bath | 27.00% | ~63,466 |
-| New Perspectives | 27.00% | ~63,466 |
-| Shapeshifting | 27.00% | ~63,466 |
-| Destroy Your Fears | 26.00% | ~61,116 |
-| Save Our Souls | 25.00% | ~58,765 |
-| To The Death! | 20.00% | ~47,012 |
-| Well Prepared | 20.00% | ~47,012 |
-| Just Chilling | 20.00% | ~47,012 |
+| Flesh Wound | 29.00% | ~68,169 |
+| Stone Touch | 28.00% | ~65,818 |
+| Shadow Walker | 28.00% | ~65,818 |
+| Consecutive Curses | 27.00% | ~63,467 |
+| Walk It Off | 27.00% | ~63,467 |
+| Acid Bath | 27.00% | ~63,467 |
+| New Perspectives | 27.00% | ~63,467 |
+| Shapeshifting | 27.00% | ~63,467 |
+| Destroy Your Fears | 26.00% | ~61,117 |
+| Save Our Souls | 25.00% | ~58,766 |
+| To The Death! | 20.00% | ~47,013 |
+| Well Prepared | 20.00% | ~47,013 |
+| Just Chilling | 20.00% | ~47,013 |
 | Stop Hitting Yourself | 19.00% | ~44,662 |
-| All Consuming | 18.00% | ~42,311 |
-| Shadow Spreads | 17.00% | ~39,960 |
-| Don't Ignore Me! | 17.00% | ~39,960 |
-| Illuminate, Eliminate | 17.00% | ~39,960 |
+| All Consuming | 18.00% | ~42,312 |
+| Shadow Spreads | 17.00% | ~39,961 |
+| Don't Ignore Me! | 17.00% | ~39,961 |
+| Illuminate, Eliminate | 17.00% | ~39,961 |
 | Max Damage! | 16.00% | ~37,610 |
 | Doing Time | 16.00% | ~37,610 |
-| Spreading Plague | 15.00% | ~35,259 |
+| Spreading Plague | 15.00% | ~35,260 |
 | The Long Run | 14.00% | ~32,909 |
 | A Rough Road | 13.00% | ~30,558 |
 | Chain Reaction | 13.00% | ~30,558 |
-| Berzerker | 12.00% | ~28,207 |
-| Antivenom | 12.00% | ~28,207 |
+| Berzerker | 12.00% | ~28,208 |
+| Antivenom | 12.00% | ~28,208 |
 | Thank You, Friend | 11.00% | ~25,857 |
 | Barbecue | 10.00% | ~23,506 |
-| Snake Sneak | 9.00% | ~21,155 |
+| Snake Sneak | 9.00% | ~21,156 |
 | Challenge Increases | 8.00% | ~18,805 |
 | New Game+ | 8.00% | ~18,805 |
 | Clearing The Room | 8.00% | ~18,805 |
@@ -85,14 +85,14 @@ Number of Ratings: 15,086  (23.09.2022)
 | Just Looking Around | 6.00% | ~14,104 |
 | Champion of the Day | 6.00% | ~14,104 |
 | No Mercy | 5.00% | ~11,753 |
-| Achievement Hunter | 4.00% | ~9,402 |
-| Hydrophobe | 4.00% | ~9,402 |
-| Explosive Betrayal | 4.00% | ~9,402 |
-| Willing the World | 4.00% | ~9,402 |
-| Predator | 4.00% | ~9,402 |
-| Resourceful | 4.00% | ~9,402 |
-| Become The Nightmare | 4.00% | ~9,402 |
-| The Boulder | 4.00% | ~9,402 |
+| Achievement Hunter | 4.00% | ~9,403 |
+| Hydrophobe | 4.00% | ~9,403 |
+| Explosive Betrayal | 4.00% | ~9,403 |
+| Willing the World | 4.00% | ~9,403 |
+| Predator | 4.00% | ~9,403 |
+| Resourceful | 4.00% | ~9,403 |
+| Become The Nightmare | 4.00% | ~9,403 |
+| The Boulder | 4.00% | ~9,403 |
 | Quick Descent | 3.00% | ~7,052 |
 | A Week Attempt | 3.00% | ~7,052 |
 | Dead Revels | 3.00% | ~7,052 |
@@ -118,8 +118,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Disposal | 0.90% | ~2,116 |
 | Master of Strategy | 0.90% | ~2,116 |
 | No Swapsies | 0.90% | ~2,116 |
-| Blizzard | 0.80% | ~1,880 |
-| Need An Antidote? | 0.80% | ~1,880 |
+| Blizzard | 0.80% | ~1,881 |
+| Need An Antidote? | 0.80% | ~1,881 |
 | Ignoring Midgame | 0.70% | ~1,645 |
 | A Hard Carry | 0.60% | ~1,410 |
 | Only The Best | 0.60% | ~1,410 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Down Under | 0.50% | ~1,175 |
 | Near Death Experience | 0.30% | ~705 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235,061 (Ranked 50)  
+Progressed: 235,064 (Ranked 50)  
 Completed: 262 (0.11%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 262 (0.11%) (Ranked 210)
 | 2023-08-25 | 234,918 | 262 |
 | 2023-08-26 | 234,978 | 262 |
 | 2023-08-27 | 235,043 | 262 |
-| 2023-08-28 | 235,061 | 262 |
+| 2023-08-28 | 235,064 | 262 |
 ## Awards
 Max (Great for Beginners): 1,491  (Ranked 123)  
 Sum: 13,033 (Ranked 74)  

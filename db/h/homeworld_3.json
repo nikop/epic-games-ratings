@@ -4,7 +4,7 @@
   "ProductSlug": "homeworld-3",
   "Ranking_EOS_Progress": 561,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewPlayers": 337,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2099-01-02T03:00:00+00:00",
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-26T08:58:30.9092724+00:00",
-  "LastUpdate_Ratings": "2023-08-28T11:01:07.5082842+00:00",
-  "LastUpdate_Achievements": "2023-08-28T11:06:56.2770287+00:00"
+  "LastUpdate_Ratings": "2023-08-28T12:00:12.6692295+00:00",
+  "LastUpdate_Achievements": "2023-08-28T12:05:48.495917+00:00"
 }

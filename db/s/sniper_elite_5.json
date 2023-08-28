@@ -482,9 +482,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3538,
+  "EOS_Progressed": 3539,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -6252,6 +6252,11 @@
       "Time": "2023-08-28T11:06:17.8974918+00:00",
       "NumProgressed": 3538,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-28T12:05:19.934823+00:00",
+      "NumProgressed": 3539,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -6327,7 +6332,7 @@
       "Name": "Organ Grinder",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -6343,7 +6348,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1627
+      "UsersEstimate": 1628
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -6383,7 +6388,7 @@
       "Name": "Gunslinger",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -6423,7 +6428,7 @@
       "Name": "Precision Is Key",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -6431,7 +6436,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1415
+      "UsersEstimate": 1416
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -6455,7 +6460,7 @@
       "Name": "My Little Friend",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -6503,7 +6508,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -6599,7 +6604,7 @@
       "Name": "Change the Channel",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1061
+      "UsersEstimate": 1062
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -6631,7 +6636,7 @@
       "Name": "Taking it back",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 955
+      "UsersEstimate": 956
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -6655,7 +6660,7 @@
       "Name": "Target America",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -6830,13 +6835,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3489,
+      "Progressed": 3490,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3538,
+      "Progressed": 3539,
       "Completed": 9
     }
   ],
@@ -6844,8 +6849,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-08-27T15:59:49.0036638+00:00",
-  "LastChanged_Achievements": "2023-08-28T11:06:17.8974906+00:00",
+  "LastChanged_Achievements": "2023-08-28T12:05:19.9348208+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:12.9306959+00:00",
-  "LastUpdate_Ratings": "2023-08-28T10:59:49.1713811+00:00",
-  "LastUpdate_Achievements": "2023-08-28T11:06:17.8975868+00:00"
+  "LastUpdate_Ratings": "2023-08-28T11:59:09.4659542+00:00",
+  "LastUpdate_Achievements": "2023-08-28T12:05:19.9349309+00:00"
 }
