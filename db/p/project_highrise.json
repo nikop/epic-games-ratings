@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 333,
+  "EOS_Progressed": 334,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
@@ -867,6 +867,11 @@
       "Time": "2023-08-25T13:10:39.3772787+00:00",
       "NumProgressed": 333,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-28T07:07:09.4639551+00:00",
+      "NumProgressed": 334,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -940,9 +945,9 @@
       "ID": "ach_art_medium",
       "SetID": "b8gh1fi",
       "Name": "Curated Class",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_art_outside",
@@ -1022,7 +1027,7 @@
       "Name": "Upgrade Unlock",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ach_consultants_a",
@@ -1086,7 +1091,7 @@
       "Name": "Proper Walls",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ach_drones",
@@ -1116,9 +1121,9 @@
       "ID": "ach_ep1_checkin_2",
       "SetID": "b8gh1fi",
       "Name": "Royal Flush",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_ep1_event_1",
@@ -1180,9 +1185,9 @@
       "ID": "ach_floors",
       "SetID": "b8gh1fi",
       "Name": "Starting Skyward",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 180
     },
     {
       "ID": "ach_floors_1",
@@ -1214,7 +1219,7 @@
       "Name": "Grime is Not Good",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ach_grime_1",
@@ -1244,9 +1249,9 @@
       "ID": "ach_loan",
       "SetID": "b8gh1fi",
       "Name": "Don\u0027t Feel a Loan",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 73
     },
     {
       "ID": "ach_mod_1",
@@ -1276,9 +1281,9 @@
       "ID": "ach_office_1",
       "SetID": "b8gh1fi",
       "Name": "It\u0027s Technical",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 124
     },
     {
       "ID": "ach_office_2",
@@ -1324,9 +1329,9 @@
       "ID": "ach_prestige_2",
       "SetID": "b8gh1fi",
       "Name": "Established Fame",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 53
     },
     {
       "ID": "ach_prestige_3",
@@ -1340,9 +1345,9 @@
       "ID": "ach_profit_0",
       "SetID": "b8gh1fi",
       "Name": "In the Black",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 203
+      "UsersEstimate": 200
     },
     {
       "ID": "ach_profit_1",
@@ -1422,7 +1427,7 @@
       "Name": "Retail Revenue",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ach_retail_2",
@@ -1452,9 +1457,9 @@
       "ID": "ach_revs_1",
       "SetID": "b8gh1fi",
       "Name": "Cashflow Chief",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 53
     },
     {
       "ID": "ach_revs_2",
@@ -1484,9 +1489,9 @@
       "ID": "ach_scenarios_2",
       "SetID": "b8gh1fi",
       "Name": "Scenario Success",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_scenarios_3",
@@ -1581,7 +1586,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 333,
+      "Progressed": 334,
       "Completed": 0
     }
   ],
@@ -1589,8 +1594,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-08-28T06:06:37.0281378+00:00",
+  "LastChanged_Achievements": "2023-08-28T07:07:09.4639543+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:43.0732333+00:00",
-  "LastUpdate_Ratings": "2023-08-28T06:00:54.5103571+00:00",
-  "LastUpdate_Achievements": "2023-08-28T06:06:37.0282625+00:00"
+  "LastUpdate_Ratings": "2023-08-28T07:01:22.6468847+00:00",
+  "LastUpdate_Achievements": "2023-08-28T07:07:09.4640733+00:00"
 }

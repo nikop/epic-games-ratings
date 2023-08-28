@@ -3,12 +3,12 @@
   "Name": "Crying Suns",
   "ProductSlug": "crying-suns",
   "Ranking_Rating": 560,
-  "Ranking_Popularity": 267,
+  "Ranking_Popularity": 268,
   "Ranking_PopularitySum": 358,
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -598,7 +598,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 466182,
+  "EOS_Progressed": 466183,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 481,
   "EOS_NewCompleters": 1,
@@ -14188,6 +14188,11 @@
       "Time": "2023-08-28T06:07:17.1551327+00:00",
       "NumProgressed": 466182,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-08-28T07:08:09.5690193+00:00",
+      "NumProgressed": 466183,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -14287,7 +14292,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 307680
+      "UsersEstimate": 307681
     },
     {
       "ID": "achievement_story_landa",
@@ -14375,7 +14380,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 93236
+      "UsersEstimate": 93237
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -14623,7 +14628,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 205120
+      "UsersEstimate": 205121
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -14830,21 +14835,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 10116,
+      "Progressed": 10117,
       "Completed": 2356
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 466182,
+      "Progressed": 466183,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-08-24T02:57:03.8465673+00:00",
-  "LastChanged_Achievements": "2023-08-28T06:07:17.155132+00:00",
+  "LastChanged_Achievements": "2023-08-28T07:08:09.5690187+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:38.8544339+00:00",
-  "LastUpdate_Ratings": "2023-08-28T05:57:36.9587291+00:00",
-  "LastUpdate_Achievements": "2023-08-28T06:07:17.155323+00:00"
+  "LastUpdate_Ratings": "2023-08-28T06:57:58.8559489+00:00",
+  "LastUpdate_Achievements": "2023-08-28T07:08:09.5692022+00:00"
 }

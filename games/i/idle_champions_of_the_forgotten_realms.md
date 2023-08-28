@@ -73,6 +73,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Trollskull Manor | 0.20% | ~451 |
 | Attack on the Manor | 0.20% | ~451 |
 | The Death Curse | 0.20% | ~451 |
+| Treasure Hunters | 0.20% | ~451 |
 | Flies on the Wall | 0.20% | ~451 |
 | Backtracking Through Barovia | 0.20% | ~451 |
 | Nimble Escape | 0.20% | ~451 |
@@ -92,6 +93,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Darkness Runs Deeper | 0.20% | ~451 |
 | Difficult Terrain | 0.20% | ~451 |
 | Vault of Dragons | 0.20% | ~451 |
+| Champions of Waterdeep | 0.20% | ~451 |
 | Running of the Saurs | 0.20% | ~451 |
 | The Contagious Curse | 0.20% | ~451 |
 | Elturel Has Fallen | 0.20% | ~451 |
@@ -276,7 +278,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Trepidatious Trio | 0.10% | ~226 |
 | Our Time To Shine | 0.10% | ~226 |
 | Review by the Blackstaff | 0.10% | ~192 |
-| Treasure Hunters | 0.10% | ~226 |
 | The Guardian of Orolunga | 0.10% | ~226 |
 | Think Your Way Out Of It | 0.10% | ~226 |
 | Air's Getting Pretty Thin | 0.10% | ~226 |
@@ -347,7 +348,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vault of Pixies | 0.10% | ~226 |
 | Vault of Poison | 0.10% | ~226 |
 | Vault of Cuteness | 0.10% | ~192 |
-| Champions of Waterdeep | 0.10% | ~226 |
 | On The Job Learning | 0.10% | ~226 |
 | Strike! | 0.10% | ~192 |
 | Take Five | 0.10% | ~192 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~192 |
 | Animated Giff | 0.10% | ~192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,595 (Ranked 53)  
+Progressed: 225,600 (Ranked 53)  
 Completed: 2,222 (0.98%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -653,7 +653,7 @@ Completed: 2,222 (0.98%) (Ranked 122)
 | 2023-08-25 | 224,925 | 2,214 |
 | 2023-08-26 | 225,221 | 2,219 |
 | 2023-08-27 | 225,526 | 2,222 |
-| 2023-08-28 | 225,595 | 2,222 |
+| 2023-08-28 | 225,600 | 2,222 |
 ## Awards
 Max (Diverse Characters): 5,196  (Ranked 68)  
 Sum: 31,253 (Ranked 39)  

@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2573,
+  "EOS_Progressed": 2574,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -2838,6 +2838,11 @@
       "Time": "2023-08-28T06:06:16.4813626+00:00",
       "NumProgressed": 2573,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-08-28T07:06:48.9965536+00:00",
+      "NumProgressed": 2574,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -2913,7 +2918,7 @@
       "Name": "Starting as a duo",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -2952,7 +2957,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2573,
+      "Progressed": 2574,
       "Completed": 6
     }
   ],
@@ -2960,8 +2965,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-08-28T06:06:16.481362+00:00",
+  "LastChanged_Achievements": "2023-08-28T07:06:48.996553+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:49.6137294+00:00",
-  "LastUpdate_Ratings": "2023-08-28T05:57:47.010457+00:00",
-  "LastUpdate_Achievements": "2023-08-28T06:06:16.4813905+00:00"
+  "LastUpdate_Ratings": "2023-08-28T06:58:09.4884743+00:00",
+  "LastUpdate_Achievements": "2023-08-28T07:06:48.9965872+00:00"
 }

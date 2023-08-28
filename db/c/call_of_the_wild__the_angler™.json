@@ -634,9 +634,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5268,
+  "EOS_Progressed": 5269,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 322,
+  "EOS_NewPlayers": 323,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6164,6 +6164,11 @@
       "Time": "2023-08-28T06:06:56.7910085+00:00",
       "NumProgressed": 5268,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-28T07:07:29.3352603+00:00",
+      "NumProgressed": 5269,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -6175,7 +6180,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 4109
+      "UsersEstimate": 4110
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -6183,15 +6188,15 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 2792
+      "UsersEstimate": 2793
     },
     {
       "ID": "ACHIEVEMENT_003",
       "SetID": "1a05lfd",
       "Name": "Hey Good Hookin",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 3530
+      "UsersEstimate": 3583
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -6207,7 +6212,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1738
+      "UsersEstimate": 1739
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -6215,7 +6220,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 3055
+      "UsersEstimate": 3056
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -6231,7 +6236,7 @@
       "Name": "Scaling up",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 2739
+      "UsersEstimate": 2740
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -6255,7 +6260,7 @@
       "Name": "More than a Tourist",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "ACHIEVEMENT_012",
@@ -6271,7 +6276,7 @@
       "Name": "Hook, Line and Sinker",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "ACHIEVEMENT_014",
@@ -6279,7 +6284,7 @@
       "Name": "Goldfish?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 1422
+      "UsersEstimate": 1423
     },
     {
       "ID": "ACHIEVEMENT_015",
@@ -6287,7 +6292,7 @@
       "Name": "Going for Gold",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 1264
+      "UsersEstimate": 1265
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -6327,7 +6332,7 @@
       "Name": "Marathon",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "ACHIEVEMENT_021",
@@ -6341,9 +6346,9 @@
       "ID": "ACHIEVEMENT_022",
       "SetID": "1a05lfd",
       "Name": "Diamond in the Rough",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 632
+      "UsersEstimate": 685
     },
     {
       "ID": "ACHIEVEMENT_023",
@@ -6454,13 +6459,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 5268,
+      "Progressed": 5269,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 4640,
+      "Progressed": 4641,
       "Completed": 112
     }
   ],
@@ -6468,8 +6473,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-08-23T22:57:56.9776438+00:00",
-  "LastChanged_Achievements": "2023-08-28T06:06:56.7910074+00:00",
+  "LastChanged_Achievements": "2023-08-28T07:07:29.3352598+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:20.9001676+00:00",
-  "LastUpdate_Ratings": "2023-08-28T05:58:21.7537146+00:00",
-  "LastUpdate_Achievements": "2023-08-28T06:06:56.7910776+00:00"
+  "LastUpdate_Ratings": "2023-08-28T06:58:44.2989207+00:00",
+  "LastUpdate_Achievements": "2023-08-28T07:07:29.3353261+00:00"
 }

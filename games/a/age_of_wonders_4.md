@@ -10,6 +10,7 @@ Rating: 4.60 (Ranked 391)
 | A Wonderful Discovery | 6.00% | ~308 |
 | Walls Cannot Stop Us | 6.00% | ~308 |
 | Tipping the Scales | 6.00% | ~308 |
+| There Can Only Be One! | 5.00% | ~257 |
 | Full Ascension | 5.00% | ~257 |
 | Bone Peddler | 5.00% | ~257 |
 | From Friends to Family | 5.00% | ~257 |
@@ -21,7 +22,6 @@ Rating: 4.60 (Ranked 391)
 | Blood of the Dragon | 5.00% | ~257 |
 | Mighty Hoard | 5.00% | ~257 |
 | Valley of Wonders | 4.00% | ~205 |
-| There Can Only Be One! | 4.00% | ~205 |
 | In a Liege of Your Own | 4.00% | ~205 |
 | Fiery Friend | 4.00% | ~205 |
 | Against the Odds | 4.00% | ~205 |

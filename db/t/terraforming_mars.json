@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 204,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
     "PcReleaseDate": "2018-10-16T00:00:00+00:00",
@@ -2662,9 +2662,9 @@
       "Count": 239
     }
   ],
-  "EOS_Progressed": 73578,
+  "EOS_Progressed": 73579,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 926,
+  "EOS_NewPlayers": 924,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -16852,6 +16852,11 @@
       "Time": "2023-08-28T06:07:44.3253444+00:00",
       "NumProgressed": 73578,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-08-28T07:09:15.8646358+00:00",
+      "NumProgressed": 73579,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 30,
@@ -17031,7 +17036,7 @@
       "Name": "Money money",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 11772
+      "UsersEstimate": 11773
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -17102,15 +17107,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 73578,
+      "Progressed": 73579,
       "Completed": 95
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-08-23T21:59:53.4712134+00:00",
-  "LastChanged_Achievements": "2023-08-28T06:07:44.3253435+00:00",
+  "LastChanged_Achievements": "2023-08-28T07:09:15.8646351+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:03.9547788+00:00",
-  "LastUpdate_Ratings": "2023-08-28T06:01:14.9119659+00:00",
-  "LastUpdate_Achievements": "2023-08-28T06:07:44.3254893+00:00"
+  "LastUpdate_Ratings": "2023-08-28T07:01:40.8350753+00:00",
+  "LastUpdate_Achievements": "2023-08-28T07:09:15.864775+00:00"
 }

@@ -5,23 +5,23 @@ Rating: 4.48 (Ranked 597)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 82.00% | ~2,618 |
-| Snatched Out | 75.00% | ~2,395 |
-| Keep 'Em Coming | 74.00% | ~2,363 |
-| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,139 |
+| This Is Hayes, Pioneer Station, Signing Off | 82.00% | ~2,619 |
+| Snatched Out | 75.00% | ~2,396 |
+| Keep 'Em Coming | 74.00% | ~2,364 |
+| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,140 |
 | Call Me Snake | 63.00% | ~2,012 |
 | Something Lurks Under The Hills | 61.00% | ~1,948 |
 | This Was No Papercut | 60.00% | ~1,916 |
-| The Shrink Hates Me | 57.00% | ~1,820 |
-| People Person | 56.00% | ~1,788 |
-| Use The Bumper, That's What It's For | 53.00% | ~1,692 |
-| First Steps Into Madness | 53.00% | ~1,692 |
-| Colonial Barrels | 51.00% | ~1,628 |
+| The Shrink Hates Me | 57.00% | ~1,821 |
+| People Person | 56.00% | ~1,789 |
+| Use The Bumper, That's What It's For | 53.00% | ~1,693 |
+| First Steps Into Madness | 53.00% | ~1,693 |
+| Colonial Barrels | 51.00% | ~1,629 |
 | Harper's Hell | 45.00% | ~1,437 |
 | Making a Stand | 44.00% | ~1,405 |
 | Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,341 |
-| Where It All Begun | 40.00% | ~1,277 |
-| Recouped Investment | 39.00% | ~1,245 |
+| Where It All Begun | 40.00% | ~1,278 |
+| Recouped Investment | 39.00% | ~1,246 |
 | Omelette Du Fromage | 34.00% | ~1,086 |
 | Living Nightmare | 33.00% | ~1,054 |
 | The More The Merrier | 33.00% | ~1,054 |
@@ -29,9 +29,9 @@ Rating: 4.48 (Ranked 597)
 | Deep Into Insanity | 28.00% | ~894 |
 | The Passenger | 27.00% | ~862 |
 | Come on, You Wanna Live Forever? | 26.00% | ~830 |
-| The Spire | 24.00% | ~766 |
-| Stuff Of Nightmares | 23.00% | ~734 |
-| El Riesgo Siempre Vive | 23.00% | ~734 |
+| The Spire | 24.00% | ~767 |
+| Stuff Of Nightmares | 23.00% | ~735 |
+| El Riesgo Siempre Vive | 23.00% | ~735 |
 | Excavating The Truth | 21.00% | ~671 |
 | One For Every Occasion | 20.00% | ~639 |
 | Abysmal Horrors | 20.00% | ~639 |
@@ -51,7 +51,7 @@ Rating: 4.48 (Ranked 597)
 | Chalk It Up To Experience | 0.80% | ~26 |
 | This Ain't No Picnic | 0.70% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,193 (Ranked 156)  
+Progressed: 3,194 (Ranked 156)  
 Completed: 3 (0.09%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 3 (0.09%) (Ranked 216)
 | 2023-08-25 | 3,186 | 3 |
 | 2023-08-26 | 3,189 | 3 |
 | 2023-08-27 | 3,192 | 3 |
-| 2023-08-28 | 3,193 | 3 |
+| 2023-08-28 | 3,194 | 3 |
 ## Awards
 Max (Great Boss Battles): 26  (Ranked 476)  
 Sum: 26 (Ranked 484)  

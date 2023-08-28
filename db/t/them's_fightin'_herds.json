@@ -226,9 +226,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 228807,
+  "EOS_Progressed": 228811,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 358,
+  "EOS_NewPlayers": 360,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13786,6 +13786,11 @@
       "Time": "2023-08-28T06:07:38.830429+00:00",
       "NumProgressed": 228807,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-28T07:09:10.5022331+00:00",
+      "NumProgressed": 228811,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -13861,7 +13866,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 82371
+      "UsersEstimate": 82372
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -13941,7 +13946,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 77794
+      "UsersEstimate": 77796
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -14005,7 +14010,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 38897
+      "UsersEstimate": 38898
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -14020,7 +14025,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 228807,
+      "Progressed": 228811,
       "Completed": 3
     }
   ],
@@ -14028,8 +14033,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-08-11T01:38:33.2125072+00:00",
-  "LastChanged_Achievements": "2023-08-28T06:07:38.8304284+00:00",
+  "LastChanged_Achievements": "2023-08-28T07:09:10.5022326+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:26.5557699+00:00",
-  "LastUpdate_Ratings": "2023-08-28T05:58:27.0207765+00:00",
-  "LastUpdate_Achievements": "2023-08-28T06:07:38.8305641+00:00"
+  "LastUpdate_Ratings": "2023-08-28T06:58:49.1184125+00:00",
+  "LastUpdate_Achievements": "2023-08-28T07:09:10.5023438+00:00"
 }

@@ -64,6 +64,7 @@ Number of Ratings: 371  (23.09.2022)
 | Warp Flickers | 0.10% | ~3 |
 | Phalanx | 0.10% | ~3 |
 | Firing Squad | 0.10% | ~3 |
+| Not a Mote of Corruption | 0.10% | ~3 |
 | Strategic Command | 0.10% | ~3 |
 | Killing Rampage | 0.10% | ~3 |
 | Deadshot | 0.10% | ~3 |
@@ -73,7 +74,6 @@ Number of Ratings: 371  (23.09.2022)
 | Drone Army | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
-| Not a Mote of Corruption | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,168 (Ranked 157)  
 Completed: 0 (0.00%) (Ranked 265)  

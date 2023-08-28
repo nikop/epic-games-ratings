@@ -3574,9 +3574,9 @@
       "ID": "NotAMoteOfCorruption",
       "SetID": "2im8phi",
       "Name": "Not a Mote of Corruption",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "OnlyInDeath",
@@ -3756,8 +3756,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-08-23T16:01:12.805504+00:00",
-  "LastChanged_Achievements": "2023-08-28T06:04:00.4872796+00:00",
+  "LastChanged_Achievements": "2023-08-28T07:04:33.3558335+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:34.0520406+00:00",
-  "LastUpdate_Ratings": "2023-08-28T05:57:11.9334917+00:00",
-  "LastUpdate_Achievements": "2023-08-28T06:04:00.4873702+00:00"
+  "LastUpdate_Ratings": "2023-08-28T06:57:31.9691639+00:00",
+  "LastUpdate_Achievements": "2023-08-28T07:04:33.3559837+00:00"
 }

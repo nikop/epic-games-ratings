@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -880,7 +880,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 661426,
+  "EOS_Progressed": 661427,
   "EOS_Completed": 169,
   "EOS_NewPlayers": 324,
   "EOS_NewCompleters": 1,
@@ -13175,6 +13175,11 @@
       "Time": "2023-08-28T06:06:40.9686957+00:00",
       "NumProgressed": 661426,
       "NumCompleted": 169
+    },
+    {
+      "Time": "2023-08-28T07:07:13.4261126+00:00",
+      "NumProgressed": 661427,
+      "NumCompleted": 169
     }
   ],
   "TotalAchievements": 48,
@@ -13194,7 +13199,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 383627
+      "UsersEstimate": 383628
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -13338,7 +13343,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 112442
+      "UsersEstimate": 112443
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -13450,7 +13455,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 165356
+      "UsersEstimate": 165357
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -13569,15 +13574,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 661426,
+      "Progressed": 661427,
       "Completed": 169
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-08-25T17:00:16.792448+00:00",
-  "LastChanged_Achievements": "2023-08-28T06:06:40.9686951+00:00",
+  "LastChanged_Achievements": "2023-08-28T07:07:13.4261117+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:22.0497359+00:00",
-  "LastUpdate_Ratings": "2023-08-28T06:00:35.7150752+00:00",
-  "LastUpdate_Achievements": "2023-08-28T06:06:40.9688306+00:00"
+  "LastUpdate_Ratings": "2023-08-28T07:01:02.7101783+00:00",
+  "LastUpdate_Achievements": "2023-08-28T07:07:13.4263204+00:00"
 }

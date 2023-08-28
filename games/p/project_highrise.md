@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 61.00% | ~203 |
-| Starting Skyward | 55.00% | ~183 |
-| Grime is Not Good | 49.00% | ~163 |
+| In the Black | 60.00% | ~200 |
+| Starting Skyward | 54.00% | ~180 |
+| Grime is Not Good | 49.00% | ~164 |
 | Floor Galore | 42.00% | ~140 |
 | Dinner Dash | 42.00% | ~140 |
 | Campaign Launch | 41.00% | ~137 |
 | Need a Consult | 38.00% | ~127 |
-| It's Technical | 38.00% | ~127 |
-| Upgrade Unlock | 37.00% | ~123 |
+| Upgrade Unlock | 37.00% | ~124 |
+| It's Technical | 37.00% | ~124 |
 | Delegate Maintenance | 35.00% | ~117 |
-| Proper Walls | 34.00% | ~113 |
+| Proper Walls | 34.00% | ~114 |
 | Destination Destiny | 32.00% | ~107 |
 | Happy Tenants | 27.00% | ~90 |
 | Potent Potables | 26.00% | ~87 |
 | Smooth Service | 26.00% | ~87 |
-| Retail Revenue | 25.00% | ~83 |
+| Retail Revenue | 25.00% | ~84 |
 | Your Prestige is Rising | 24.00% | ~80 |
-| Don't Feel a Loan | 23.00% | ~77 |
 | Artfully Done | 22.00% | ~73 |
+| Don't Feel a Loan | 22.00% | ~73 |
 | People Mover | 22.00% | ~73 |
 | Lux Living | 21.00% | ~70 |
 | Emporium Empire | 21.00% | ~70 |
@@ -31,10 +31,10 @@
 | Get Electrified | 20.00% | ~67 |
 | Rehab Expert | 19.00% | ~63 |
 | Tasty Profits | 19.00% | ~63 |
-| Established Fame | 17.00% | ~57 |
-| Cashflow Chief | 17.00% | ~57 |
 | Under One Roof | 16.00% | ~53 |
+| Established Fame | 16.00% | ~53 |
 | Starred Dining | 16.00% | ~53 |
+| Cashflow Chief | 16.00% | ~53 |
 | Smooth Operator | 14.00% | ~47 |
 | Boutique Benefits | 14.00% | ~47 |
 | Terrifically Trashed | 13.00% | ~43 |
@@ -68,17 +68,17 @@
 | Luxury Boutiques | 3.00% | ~10 |
 | Three of a Kind | 3.00% | ~10 |
 | Sandbagger | 3.00% | ~10 |
-| Curated Class | 2.00% | ~7 |
 | Loft Life | 2.00% | ~7 |
 | Glut of Gastronomy | 2.00% | ~7 |
 | Plebs Are Needed | 2.00% | ~7 |
-| Royal Flush | 2.00% | ~7 |
 | The King of Cool | 2.00% | ~7 |
 | Four of a Kind | 2.00% | ~7 |
 | In the Money | 2.00% | ~7 |
 | It is Payday | 2.00% | ~7 |
-| Scenario Success | 2.00% | ~7 |
+| Curated Class | 1.00% | ~3 |
 | Full House | 1.00% | ~3 |
+| Royal Flush | 1.00% | ~3 |
+| Scenario Success | 1.00% | ~3 |
 | Double Down | 0.90% | ~3 |
 | Such Great Heights | 0.90% | ~3 |
 | Lofty Landlord | 0.90% | ~3 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 333 (Ranked 262)  
+Progressed: 334 (Ranked 262)  
 Completed: 0 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,6 +170,7 @@ Completed: 0 (0.00%) (Ranked 265)
 | 2023-08-23 | 331 | 0 |
 | 2023-08-24 | 332 | 0 |
 | 2023-08-25 | 333 | 0 |
+| 2023-08-28 | 334 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
