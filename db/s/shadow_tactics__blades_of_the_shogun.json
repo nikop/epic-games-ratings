@@ -1477,9 +1477,9 @@
       "Count": 247
     }
   ],
-  "EOS_Progressed": 198354,
+  "EOS_Progressed": 198358,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 2027,
+  "EOS_NewPlayers": 2022,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -16007,6 +16007,11 @@
       "Time": "2023-08-28T22:05:42.46539+00:00",
       "NumProgressed": 198354,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-08-28T23:05:14.0850325+00:00",
+      "NumProgressed": 198358,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 44,
@@ -16058,7 +16063,7 @@
       "Name": "Disguised",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 15868
+      "UsersEstimate": 15869
     },
     {
       "ID": "FiveShadows",
@@ -16242,7 +16247,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 15868
+      "UsersEstimate": 15869
     },
     {
       "ID": "StillRollin",
@@ -16274,7 +16279,7 @@
       "Name": "Tanuki Time",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 15868
+      "UsersEstimate": 15869
     },
     {
       "ID": "TheCave",
@@ -16282,7 +16287,7 @@
       "Name": "The Cave",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1388
+      "UsersEstimate": 1389
     },
     {
       "ID": "TheEnd",
@@ -16306,7 +16311,7 @@
       "Name": "Thorough",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 19835
+      "UsersEstimate": 19836
     },
     {
       "ID": "TimeParadox",
@@ -16369,15 +16374,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 198354,
+      "Progressed": 198358,
       "Completed": 73
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-08-28T16:58:29.6451543+00:00",
-  "LastChanged_Achievements": "2023-08-28T22:05:42.4653891+00:00",
+  "LastChanged_Achievements": "2023-08-28T23:05:14.0850321+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:44.6562489+00:00",
-  "LastUpdate_Ratings": "2023-08-28T21:57:58.2640127+00:00",
-  "LastUpdate_Achievements": "2023-08-28T22:05:42.4656061+00:00"
+  "LastUpdate_Ratings": "2023-08-28T22:57:56.6346843+00:00",
+  "LastUpdate_Achievements": "2023-08-28T23:05:14.0851475+00:00"
 }

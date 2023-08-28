@@ -330,9 +330,9 @@
       "ID": "SG_HEARTBREAKER",
       "SetID": "bj5g0n4",
       "Name": "Heartbreaker",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "SG_LIKEHEROESBEFOREYOU",
@@ -442,9 +442,9 @@
       "ID": "SG_THECHOICEISYOURS",
       "SetID": "bj5g0n4",
       "Name": "The Choice Is Yours",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "SG_THEDEEPEND",
@@ -529,8 +529,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-08-28T22:05:47.8273201+00:00",
+  "LastChanged_Achievements": "2023-08-28T23:05:18.7793628+00:00",
   "LastUpdate_AppInfo": "2023-08-24T08:56:52.7420093+00:00",
-  "LastUpdate_Ratings": "2023-08-28T21:59:23.891511+00:00",
-  "LastUpdate_Achievements": "2023-08-28T22:05:47.8273507+00:00"
+  "LastUpdate_Ratings": "2023-08-28T22:59:10.276292+00:00",
+  "LastUpdate_Achievements": "2023-08-28T23:05:18.7794118+00:00"
 }

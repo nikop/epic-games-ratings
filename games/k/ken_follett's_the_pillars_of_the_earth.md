@@ -6,17 +6,17 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 41.00% | ~6,099 |
+| Tattletale | 41.00% | ~6,100 |
 | Man of politics | 35.00% | ~5,207 |
-| Friends of sorts | 33.00% | ~4,909 |
-| Yet another secret | 33.00% | ~4,909 |
-| Let there be darkness | 32.00% | ~4,760 |
+| Friends of sorts | 33.00% | ~4,910 |
+| Yet another secret | 33.00% | ~4,910 |
+| Let there be darkness | 32.00% | ~4,761 |
 | End of Book One | 30.00% | ~4,463 |
-| Wannabe knight | 24.00% | ~3,570 |
-| Garden of Eden | 24.00% | ~3,570 |
-| Full house | 24.00% | ~3,570 |
+| Wannabe knight | 24.00% | ~3,571 |
+| Garden of Eden | 24.00% | ~3,571 |
+| Full house | 24.00% | ~3,571 |
 | Help an old friend | 22.00% | ~3,273 |
-| Two of us | 20.00% | ~2,975 |
+| Two of us | 20.00% | ~2,976 |
 | Negotiation skills | 18.00% | ~2,678 |
 | Workers' union | 18.00% | ~2,678 |
 | End of Book Two | 18.00% | ~2,678 |
@@ -25,9 +25,9 @@ Number of Ratings: 368  (23.09.2022)
 | Jack was here! | 14.00% | ~2,083 |
 | Exterminator | 13.00% | ~1,934 |
 | Whodunnit | 12.00% | ~1,785 |
-| Good midwife | 11.00% | ~1,636 |
-| Friar Tuck | 11.00% | ~1,636 |
-| First profit | 11.00% | ~1,636 |
+| Friar Tuck | 11.00% | ~1,637 |
+| First profit | 11.00% | ~1,637 |
+| Good midwife | 10.00% | ~1,488 |
 | Team player | 10.00% | ~1,488 |
 | Skilled merchant | 9.00% | ~1,339 |
 | Nothing but make-believe | 9.00% | ~1,339 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~446 |
 | Boy of mystery | 2.00% | ~298 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,876 (Ranked 118)  
+Progressed: 14,878 (Ranked 118)  
 Completed: 110 (0.74%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 110 (0.74%) (Ranked 130)
 | 2023-08-25 | 14,801 | 110 |
 | 2023-08-26 | 14,831 | 110 |
 | 2023-08-27 | 14,854 | 110 |
-| 2023-08-28 | 14,876 | 110 |
+| 2023-08-28 | 14,878 | 110 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 300)  
 Sum: 188 (Ranked 376)  

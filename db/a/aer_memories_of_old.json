@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 92,
   "Ranking_EOS_NewPlayers": 75,
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -380,9 +380,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18916,
+  "EOS_Progressed": 18917,
   "EOS_Completed": 379,
-  "EOS_NewPlayers": 552,
+  "EOS_NewPlayers": 551,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 2,
   "EosHistory": [
@@ -14295,6 +14295,11 @@
       "Time": "2023-08-28T22:07:37.8036027+00:00",
       "NumProgressed": 18916,
       "NumCompleted": 379
+    },
+    {
+      "Time": "2023-08-28T23:07:12.9185577+00:00",
+      "NumProgressed": 18917,
+      "NumCompleted": 379
     }
   ],
   "TotalAchievements": 20,
@@ -14330,7 +14335,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1702
+      "UsersEstimate": 1703
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -14370,7 +14375,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2837
+      "UsersEstimate": 2838
     },
     {
       "ID": "FOUND_ERIN",
@@ -14426,7 +14431,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 14376
+      "UsersEstimate": 14377
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -14434,7 +14439,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 5296
+      "UsersEstimate": 5297
     },
     {
       "ID": "NORTH_FINISHED",
@@ -14465,15 +14470,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 18916,
+      "Progressed": 18917,
       "Completed": 379
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-08-12T01:39:46.4098224+00:00",
-  "LastChanged_Achievements": "2023-08-28T22:07:37.8036021+00:00",
+  "LastChanged_Achievements": "2023-08-28T23:07:12.9185569+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:40.7243022+00:00",
-  "LastUpdate_Ratings": "2023-08-28T21:59:09.1445204+00:00",
-  "LastUpdate_Achievements": "2023-08-28T22:07:37.8038086+00:00"
+  "LastUpdate_Ratings": "2023-08-28T22:58:54.1326021+00:00",
+  "LastUpdate_Achievements": "2023-08-28T23:07:12.9186592+00:00"
 }

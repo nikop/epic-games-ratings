@@ -44,6 +44,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Hidden Potential | 0.40% | ~541 |
 | Power of Love | 0.40% | ~541 |
 | Flawless Fusion | 0.40% | ~541 |
+| Trash to Treasure | 0.40% | ~541 |
 | Royal Ransom | 0.40% | ~541 |
 | Helping Hand | 0.40% | ~541 |
 | Natural 20 | 0.40% | ~541 |
@@ -73,7 +74,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cranked up to 11 | 0.30% | ~406 |
 | Fit for a King | 0.30% | ~406 |
 | By Your Powers Combined... | 0.30% | ~406 |
-| Trash to Treasure | 0.30% | ~406 |
 | Mammonite | 0.30% | ~406 |
 | Wealth Beyond Measure | 0.30% | ~406 |
 | Fat Cat Tag Team | 0.30% | ~406 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~135 |
 | Cash Only Please | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,297 (Ranked 67)  
+Progressed: 135,299 (Ranked 67)  
 Completed: 138 (0.10%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,7 +249,7 @@ Completed: 138 (0.10%) (Ranked 213)
 | 2023-08-25 | 135,108 | 138 |
 | 2023-08-26 | 135,191 | 138 |
 | 2023-08-27 | 135,255 | 138 |
-| 2023-08-28 | 135,297 | 138 |
+| 2023-08-28 | 135,299 | 138 |
 ## Awards
 Max (Great for Beginners): 4,717  (Ranked 71)  
 Sum: 27,150 (Ranked 47)  

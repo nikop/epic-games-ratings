@@ -716,9 +716,9 @@
       "ID": "ABetterTomorrow",
       "SetID": "3ai6ml8",
       "Name": "A Better Tomorrow",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 162
+      "UsersEstimate": 167
     },
     {
       "ID": "BostonHayDay",
@@ -740,9 +740,9 @@
       "ID": "Cartographer",
       "SetID": "3ai6ml8",
       "Name": "Cartographer",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 162
+      "UsersEstimate": 167
     },
     {
       "ID": "Causality",
@@ -788,17 +788,17 @@
       "ID": "EverythingIsDust",
       "SetID": "3ai6ml8",
       "Name": "Everything is Dust",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 91
+      "UsersEstimate": 95
     },
     {
       "ID": "LightsOut",
       "SetID": "3ai6ml8",
       "Name": "Lights Out",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 210
+      "UsersEstimate": 215
     },
     {
       "ID": "MiCasaSuCasa",
@@ -836,9 +836,9 @@
       "ID": "SkeletonCrew",
       "SetID": "3ai6ml8",
       "Name": "Skeleton Crew",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 172
+      "UsersEstimate": 176
     },
     {
       "ID": "TerraTourGuide",
@@ -883,8 +883,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-08-28T22:04:24.7035981+00:00",
+  "LastChanged_Achievements": "2023-08-28T23:04:17.1729776+00:00",
   "LastUpdate_AppInfo": "2023-08-23T13:00:58.5941376+00:00",
-  "LastUpdate_Ratings": "2023-08-28T21:58:53.7664378+00:00",
-  "LastUpdate_Achievements": "2023-08-28T22:04:24.7036984+00:00"
+  "LastUpdate_Ratings": "2023-08-28T22:58:41.5117665+00:00",
+  "LastUpdate_Achievements": "2023-08-28T23:04:17.1729958+00:00"
 }

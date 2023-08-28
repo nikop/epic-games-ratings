@@ -22,7 +22,7 @@ Number of Ratings: 25  (23.09.2022)
 | Between Two Fires | 51.00% | ~310 |
 | Precious | 45.00% | ~274 |
 | Devoted | 42.00% | ~255 |
-| The Farmer | 39.00% | ~237 |
+| The Farmer | 40.00% | ~243 |
 | Ever After | 37.00% | ~225 |
 | Loyal | 29.00% | ~176 |
 | Mandatory Sacrifice | 29.00% | ~176 |

@@ -4,7 +4,7 @@
   "ProductSlug": "its-a-wrap-f392ae",
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-08-23T17:30:00+00:00",
@@ -229,9 +229,9 @@
       "ID": "3_00_SECRET",
       "SetID": "2l1dk5b",
       "Name": "Who\u0027s gonna pay for that?",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "3_20_SECRET",
@@ -277,9 +277,9 @@
       "ID": "MOV2_FINISH",
       "SetID": "2l1dk5b",
       "Name": "Space Invader",
-      "Percentage": 5,
+      "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "MOV3_FINISH",
@@ -300,8 +300,8 @@
   ],
   "FirstSeen": "2023-08-25T08:57:40.9970991+00:00",
   "FirstSeenAchievements": "2023-08-01T21:04:35.2343064+00:00",
-  "LastChanged_Achievements": "2023-08-28T22:07:39.0208845+00:00",
+  "LastChanged_Achievements": "2023-08-28T23:07:14.0239632+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:00.6888694+00:00",
-  "LastUpdate_Ratings": "2023-08-28T21:58:16.8197922+00:00",
-  "LastUpdate_Achievements": "2023-08-28T22:07:39.0209048+00:00"
+  "LastUpdate_Ratings": "2023-08-28T22:58:12.2236736+00:00",
+  "LastUpdate_Achievements": "2023-08-28T23:07:14.0239753+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 280,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1056,9 +1056,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 4902,
+  "EOS_Progressed": 4903,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8711,6 +8711,11 @@
       "Time": "2023-08-28T22:04:25.8483089+00:00",
       "NumProgressed": 4902,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-28T23:04:18.2564902+00:00",
+      "NumProgressed": 4903,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -8826,7 +8831,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -8842,7 +8847,7 @@
       "Name": "Number 18",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1176
+      "UsersEstimate": 1177
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -8874,7 +8879,7 @@
       "Name": "The Governator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -8906,7 +8911,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -9041,15 +9046,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 4902,
+      "Progressed": 4903,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-08-19T05:59:02.5104499+00:00",
-  "LastChanged_Achievements": "2023-08-28T22:04:25.8483083+00:00",
+  "LastChanged_Achievements": "2023-08-28T23:04:18.256488+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:51.1953585+00:00",
-  "LastUpdate_Ratings": "2023-08-28T21:59:28.9633117+00:00",
-  "LastUpdate_Achievements": "2023-08-28T22:04:25.8484421+00:00"
+  "LastUpdate_Ratings": "2023-08-28T22:59:14.1398811+00:00",
+  "LastUpdate_Achievements": "2023-08-28T23:04:18.2565659+00:00"
 }
