@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 145,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
     "PcReleaseDate": "2021-05-07T00:00:00+00:00",
@@ -324,9 +324,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 67170,
+  "EOS_Progressed": 67174,
   "EOS_Completed": 349,
-  "EOS_NewPlayers": 939,
+  "EOS_NewPlayers": 938,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -14389,6 +14389,11 @@
       "Time": "2023-08-28T03:07:25.6969663+00:00",
       "NumProgressed": 67170,
       "NumCompleted": 349
+    },
+    {
+      "Time": "2023-08-28T04:06:50.2042597+00:00",
+      "NumProgressed": 67174,
+      "NumCompleted": 349
     }
   ],
   "TotalAchievements": 24,
@@ -14408,7 +14413,7 @@
       "Name": "AWAKEN",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 14106
+      "UsersEstimate": 14107
     },
     {
       "ID": "A_GUARDIAN_FORGOTTEN",
@@ -14416,7 +14421,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 45676
+      "UsersEstimate": 45678
     },
     {
       "ID": "BEST_FRIENDS",
@@ -14424,7 +14429,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 14777
+      "UsersEstimate": 14778
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -14432,7 +14437,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 17464
+      "UsersEstimate": 17465
     },
     {
       "ID": "ERADICATE",
@@ -14440,7 +14445,7 @@
       "Name": "ERADICATE",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 14106
+      "UsersEstimate": 14107
     },
     {
       "ID": "FETCH",
@@ -14448,7 +14453,7 @@
       "Name": "FETCH",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 18136
+      "UsersEstimate": 18137
     },
     {
       "ID": "FOXIN_AROUND",
@@ -14456,7 +14461,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 19479
+      "UsersEstimate": 19480
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -14480,7 +14485,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 35600
+      "UsersEstimate": 35602
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -14520,7 +14525,7 @@
       "Name": "OLD COMPANION",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6045
+      "UsersEstimate": 6046
     },
     {
       "ID": "PLAGUE_DOCTOR",
@@ -14544,7 +14549,7 @@
       "Name": "SPIRIT BARK",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 14106
+      "UsersEstimate": 14107
     },
     {
       "ID": "SPIRIT_DASH",
@@ -14560,7 +14565,7 @@
       "Name": "SPIRIT FORM",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 10747
+      "UsersEstimate": 10748
     },
     {
       "ID": "UPROOTING_DARKNESS",
@@ -14576,7 +14581,7 @@
       "Name": "WEIGHTLESS",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 8060
+      "UsersEstimate": 8061
     },
     {
       "ID": "WRITTEN_IN_STONE",
@@ -14591,7 +14596,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 67170,
+      "Progressed": 67174,
       "Completed": 349
     }
   ],
@@ -14599,8 +14604,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-08-28T03:07:25.6969655+00:00",
+  "LastChanged_Achievements": "2023-08-28T04:06:50.2042593+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:56.7708219+00:00",
-  "LastUpdate_Ratings": "2023-08-28T02:58:36.3651994+00:00",
-  "LastUpdate_Achievements": "2023-08-28T03:07:25.6970859+00:00"
+  "LastUpdate_Ratings": "2023-08-28T03:57:54.5605691+00:00",
+  "LastUpdate_Achievements": "2023-08-28T04:06:50.2043206+00:00"
 }

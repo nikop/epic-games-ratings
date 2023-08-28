@@ -6,20 +6,20 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~930,809 |
-| I Need a Bigger Garage | 63.00% | ~651,566 |
-| Pump my Ride | 47.00% | ~486,089 |
-| Ghostbuster | 33.00% | ~341,297 |
-| That Was Close | 18.00% | ~186,162 |
-| Call Roadside Assistance | 17.00% | ~175,819 |
-| Quickie | 11.00% | ~113,766 |
-| California Dreamer | 7.00% | ~72,396 |
+| The First of Many | 90.00% | ~930,825 |
+| I Need a Bigger Garage | 63.00% | ~651,578 |
+| Pump my Ride | 47.00% | ~486,098 |
+| Ghostbuster | 33.00% | ~341,302 |
+| That Was Close | 18.00% | ~186,165 |
+| Call Roadside Assistance | 17.00% | ~175,822 |
+| Quickie | 11.00% | ~113,768 |
+| California Dreamer | 7.00% | ~72,398 |
 | Can't Touch This | 5.00% | ~51,712 |
-| Carménère Taster | 3.00% | ~31,027 |
-| Supersonic | 3.00% | ~31,027 |
-| Comeback | 3.00% | ~31,027 |
-| Marathonist | 3.00% | ~31,027 |
-| Living Legend | 3.00% | ~31,027 |
+| Carménère Taster | 3.00% | ~31,028 |
+| Supersonic | 3.00% | ~31,028 |
+| Comeback | 3.00% | ~31,028 |
+| Marathonist | 3.00% | ~31,028 |
+| Living Legend | 3.00% | ~31,028 |
 | Driver from Ipanema | 2.00% | ~20,685 |
 | God of Roads | 2.00% | ~20,685 |
 | Pathfinder | 2.00% | ~20,685 |
@@ -36,15 +36,15 @@ Number of Ratings: 1,343  (23.09.2022)
 | Old Master | 0.90% | ~9,308 |
 | Volcano Surfer | 0.80% | ~8,274 |
 | Otaku | 0.80% | ~8,274 |
-| Survivor | 0.60% | ~6,205 |
-| King of the World | 0.60% | ~6,205 |
+| Survivor | 0.60% | ~6,206 |
+| King of the World | 0.60% | ~6,206 |
 | Getting Famous | 0.50% | ~5,171 |
 | Master of the Racetrack | 0.20% | ~2,068 |
 | Now Go Play Outside | 0.20% | ~2,068 |
 | Transporter | 0.10% | ~1,034 |
 | Look Mom, No Hands! | 0.10% | ~1,034 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,034,232 (Ranked 12)  
+Progressed: 1,034,250 (Ranked 12)  
 Completed: 405 (0.04%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 405 (0.04%) (Ranked 235)
 | 2023-08-25 | 1,032,681 | 403 |
 | 2023-08-26 | 1,033,396 | 404 |
 | 2023-08-27 | 1,034,146 | 405 |
-| 2023-08-28 | 1,034,232 | 405 |
+| 2023-08-28 | 1,034,250 | 405 |
 ## Awards
 Max (Great for Beginners): 153  (Ranked 296)  
 Sum: 1,261 (Ranked 229)  

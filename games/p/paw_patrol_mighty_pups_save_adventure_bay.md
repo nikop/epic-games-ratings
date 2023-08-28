@@ -18,10 +18,10 @@
 | Master of the Rope | 35.00% | ~7 |
 | Training Day | 35.00% | ~7 |
 | The Fastest | 35.00% | ~7 |
+| Clear the Road | 30.00% | ~6 |
 | Never Miss | 30.00% | ~6 |
 | Animal Sighting | 30.00% | ~6 |
 | In the Air | 25.00% | ~5 |
-| Clear the Road | 25.00% | ~5 |
 | You Have Been Everywhere | 25.00% | ~5 |
 | Don’t Miss Any | 20.00% | ~4 |
 | Adventure Bay’s Citizen | 20.00% | ~4 |

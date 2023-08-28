@@ -8,7 +8,10 @@ Number of Ratings: 94  (23.09.2022)
 | ---- | ---------- | ----- |
 | Quick Understanding of Block Extrusion | 43.00% | ~3 |
 | Lost in Space | 43.00% | ~3 |
-| Nature or Nurture | 14.00% | ~1 |
+| Nature or Nurture | 29.00% | ~2 |
+| Power Glove | 14.00% | ~1 |
+| Cogs in the Machine | 14.00% | ~1 |
+| Forgotten Memories | 14.00% | ~1 |
 | Descendants | 0.00% | ~0 |
 | The Flawed Teacher | 0.00% | ~0 |
 | Green Cube Killer | 0.00% | ~0 |
@@ -32,9 +35,6 @@ Number of Ratings: 94  (23.09.2022)
 | There's No Place Like Home | 0.00% | ~0 |
 | To Infinity and Beyond | 0.00% | ~0 |
 | The Truthful Enemy | 0.00% | ~0 |
-| Power Glove | 0.00% | ~0 |
-| Cogs in the Machine | 0.00% | ~0 |
-| Forgotten Memories | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 7 (Ranked 464)  
 Completed: 0 (0.00%) (Ranked 265)  

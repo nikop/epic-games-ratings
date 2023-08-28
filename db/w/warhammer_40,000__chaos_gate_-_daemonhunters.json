@@ -3462,9 +3462,9 @@
       "ID": "MasterCraftLevel3_Armour",
       "SetID": "3jha1np",
       "Name": "The Emperor Protects",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 63
     },
     {
       "ID": "MasterCraftLevel3_Melee",
@@ -3756,8 +3756,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-08-23T16:01:12.805504+00:00",
-  "LastChanged_Achievements": "2023-08-28T03:04:46.6740778+00:00",
+  "LastChanged_Achievements": "2023-08-28T04:04:18.1412339+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:34.0520406+00:00",
-  "LastUpdate_Ratings": "2023-08-28T02:57:45.3012259+00:00",
-  "LastUpdate_Achievements": "2023-08-28T03:04:46.6741843+00:00"
+  "LastUpdate_Ratings": "2023-08-28T03:57:09.5280182+00:00",
+  "LastUpdate_Achievements": "2023-08-28T04:04:18.1413127+00:00"
 }

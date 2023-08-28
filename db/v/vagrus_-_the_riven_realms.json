@@ -4,7 +4,7 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_NewPlayers": 291,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
@@ -788,9 +788,9 @@
       "ID": "Vanilla_FirstFactionTier3",
       "SetID": "27kik8p",
       "Name": "Acquaintance",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Vanilla_FirstFactionTier5Neg",
@@ -1253,8 +1253,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-08-28T03:09:06.2741552+00:00",
+  "LastChanged_Achievements": "2023-08-28T04:08:25.4784024+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:25.2500253+00:00",
-  "LastUpdate_Ratings": "2023-08-28T02:58:04.2117554+00:00",
-  "LastUpdate_Achievements": "2023-08-28T03:09:06.2742961+00:00"
+  "LastUpdate_Ratings": "2023-08-28T03:57:25.4621553+00:00",
+  "LastUpdate_Achievements": "2023-08-28T04:08:25.478503+00:00"
 }

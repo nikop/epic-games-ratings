@@ -6729,9 +6729,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 59807,
+  "EOS_Progressed": 59808,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 477,
+  "EOS_NewPlayers": 476,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20454,6 +20454,11 @@
       "Time": "2023-08-28T03:07:38.1260946+00:00",
       "NumProgressed": 59807,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-28T04:07:02.2813869+00:00",
+      "NumProgressed": 59808,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -20689,7 +20694,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 19138
+      "UsersEstimate": 19139
     },
     {
       "ID": "Lawbringer",
@@ -20721,7 +20726,7 @@
       "Name": "Mastery",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 4186
+      "UsersEstimate": 4187
     },
     {
       "ID": "Minor Clan",
@@ -20872,15 +20877,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 59807,
+      "Progressed": 59808,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-08-27T16:58:27.7563863+00:00",
-  "LastChanged_Achievements": "2023-08-28T03:07:38.1260889+00:00",
+  "LastChanged_Achievements": "2023-08-28T04:07:02.2813863+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:26.1294952+00:00",
-  "LastUpdate_Ratings": "2023-08-28T02:59:14.5685436+00:00",
-  "LastUpdate_Achievements": "2023-08-28T03:07:38.1262469+00:00"
+  "LastUpdate_Ratings": "2023-08-28T03:58:32.971664+00:00",
+  "LastUpdate_Achievements": "2023-08-28T04:07:02.2814874+00:00"
 }

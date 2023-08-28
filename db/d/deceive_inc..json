@@ -2,7 +2,7 @@
   "ID": "eca9a86adffa4605b8250d383fc01098",
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
-  "Ranking_Rating": 450,
+  "Ranking_Rating": 449,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 111,
@@ -232,9 +232,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17704,
+  "EOS_Progressed": 17705,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9222,6 +9222,11 @@
       "Time": "2023-08-27T23:07:04.9276258+00:00",
       "NumProgressed": 17704,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-28T04:07:19.0806048+00:00",
+      "NumProgressed": 17705,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -9385,7 +9390,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 11,
       "XP": 115,
-      "UsersEstimate": 1947
+      "UsersEstimate": 1948
     },
     {
       "ID": "0021",
@@ -9433,7 +9438,7 @@
       "Name": "The Living Portrait",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2124
+      "UsersEstimate": 2125
     },
     {
       "ID": "0027",
@@ -9441,7 +9446,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1947
+      "UsersEstimate": 1948
     },
     {
       "ID": "0028",
@@ -9473,7 +9478,7 @@
       "Name": "Private Collection",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2124
+      "UsersEstimate": 2125
     },
     {
       "ID": "0032",
@@ -9481,7 +9486,7 @@
       "Name": "Killer Looks",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1947
+      "UsersEstimate": 1948
     },
     {
       "ID": "0033",
@@ -9489,7 +9494,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2124
+      "UsersEstimate": 2125
     },
     {
       "ID": "0034",
@@ -9497,7 +9502,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2124
+      "UsersEstimate": 2125
     },
     {
       "ID": "0035",
@@ -9520,7 +9525,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17704,
+      "Progressed": 17705,
       "Completed": 1
     }
   ],
@@ -9528,8 +9533,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-27T03:58:40.60023+00:00",
-  "LastChanged_Achievements": "2023-08-28T03:07:55.7248046+00:00",
+  "LastChanged_Achievements": "2023-08-28T04:07:19.0806042+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:14.6586711+00:00",
-  "LastUpdate_Ratings": "2023-08-28T02:59:00.7821821+00:00",
-  "LastUpdate_Achievements": "2023-08-28T03:07:55.7249034+00:00"
+  "LastUpdate_Ratings": "2023-08-28T03:58:21.6062249+00:00",
+  "LastUpdate_Achievements": "2023-08-28T04:07:19.0806685+00:00"
 }

@@ -380,7 +380,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18856,
+  "EOS_Progressed": 18858,
   "EOS_Completed": 378,
   "EOS_NewPlayers": 537,
   "EOS_NewCompleters": 5,
@@ -14205,6 +14205,11 @@
       "Time": "2023-08-28T03:08:32.6552686+00:00",
       "NumProgressed": 18856,
       "NumCompleted": 378
+    },
+    {
+      "Time": "2023-08-28T04:07:53.8185135+00:00",
+      "NumProgressed": 18858,
+      "NumCompleted": 378
     }
   ],
   "TotalAchievements": 20,
@@ -14264,7 +14269,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1508
+      "UsersEstimate": 1509
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -14280,7 +14285,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2828
+      "UsersEstimate": 2829
     },
     {
       "ID": "FOUND_ERIN",
@@ -14312,7 +14317,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2451
+      "UsersEstimate": 2452
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -14336,7 +14341,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 14331
+      "UsersEstimate": 14332
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -14375,15 +14380,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 18856,
+      "Progressed": 18858,
       "Completed": 378
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-08-12T01:39:46.4098224+00:00",
-  "LastChanged_Achievements": "2023-08-28T03:08:32.6552676+00:00",
+  "LastChanged_Achievements": "2023-08-28T04:07:53.8185132+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:40.7243022+00:00",
-  "LastUpdate_Ratings": "2023-08-28T02:59:31.4965072+00:00",
-  "LastUpdate_Achievements": "2023-08-28T03:08:32.6553973+00:00"
+  "LastUpdate_Ratings": "2023-08-28T03:58:50.1461906+00:00",
+  "LastUpdate_Achievements": "2023-08-28T04:07:53.8185834+00:00"
 }

@@ -442,9 +442,9 @@
       "ID": "ACHIEVEMENT_02",
       "SetID": "ap8553i",
       "Name": "Old Flame",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACHIEVEMENT_03",
@@ -1015,8 +1015,8 @@
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-08-28T03:07:28.9133342+00:00",
+  "LastChanged_Achievements": "2023-08-28T04:06:53.3806177+00:00",
   "LastUpdate_AppInfo": "2023-08-23T17:57:10.3780808+00:00",
-  "LastUpdate_Ratings": "2023-08-28T03:00:06.679016+00:00",
-  "LastUpdate_Achievements": "2023-08-28T03:07:28.9134229+00:00"
+  "LastUpdate_Ratings": "2023-08-28T03:59:23.1065824+00:00",
+  "LastUpdate_Achievements": "2023-08-28T04:06:53.3806884+00:00"
 }

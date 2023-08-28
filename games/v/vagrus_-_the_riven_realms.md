@@ -15,8 +15,8 @@
 | Fight Another Day | 7.00% | ~9 |
 | Taskmaster | 7.00% | ~9 |
 | Scholar | 6.00% | ~8 |
+| Acquaintance | 6.00% | ~8 |
 | Conciliator | 5.00% | ~7 |
-| Acquaintance | 5.00% | ~7 |
 | Tail-wind | 5.00% | ~7 |
 | Quartermaster | 4.00% | ~5 |
 | The More the Merrier | 4.00% | ~5 |
