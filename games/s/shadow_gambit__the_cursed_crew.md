@@ -11,15 +11,15 @@
 | This Belongs in a Museum | 33.00% | ~174 |
 | The Gambit Has Begun | 27.00% | ~142 |
 | Powder Monkey | 25.00% | ~132 |
-| Somewhere Deep in the Lost Caribbean | 21.00% | ~110 |
+| Somewhere Deep in the Lost Caribbean | 22.00% | ~116 |
 | Mirror Mirror on the Wall | 20.00% | ~105 |
 | Fishy Fish | 18.00% | ~95 |
 | Buccaneer | 17.00% | ~89 |
 | Pirates Assemble! | 17.00% | ~89 |
 | Persistent Parasite | 13.00% | ~68 |
 | Seadog | 10.00% | ~53 |
+| Jaded Judge | 9.00% | ~47 |
 | All Good Things | 8.00% | ~42 |
-| Jaded Judge | 8.00% | ~42 |
 | Rustic Recipe | 7.00% | ~37 |
 | Privateer | 6.00% | ~32 |
 | Tobacco Travesty | 6.00% | ~32 |

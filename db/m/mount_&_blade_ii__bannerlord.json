@@ -6729,7 +6729,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 59820,
+  "EOS_Progressed": 59822,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 480,
   "EOS_NewCompleters": 0,
@@ -20484,6 +20484,11 @@
       "Time": "2023-08-28T09:07:02.9215162+00:00",
       "NumProgressed": 59820,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-28T10:06:29.6587907+00:00",
+      "NumProgressed": 59822,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -20495,7 +20500,7 @@
       "Name": "Against all odds",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7178
+      "UsersEstimate": 7179
     },
     {
       "ID": "Apple of my eye",
@@ -20687,7 +20692,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10169
+      "UsersEstimate": 10170
     },
     {
       "ID": "Kingslayer",
@@ -20719,7 +20724,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 19142
+      "UsersEstimate": 19143
     },
     {
       "ID": "Lawbringer",
@@ -20751,7 +20756,7 @@
       "Name": "Mastery",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 4187
+      "UsersEstimate": 4188
     },
     {
       "ID": "Minor Clan",
@@ -20871,7 +20876,7 @@
       "Name": "Trained",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 13160
+      "UsersEstimate": 13161
     },
     {
       "ID": "Undercover",
@@ -20902,15 +20907,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 59820,
+      "Progressed": 59822,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-08-27T16:58:27.7563863+00:00",
-  "LastChanged_Achievements": "2023-08-28T09:07:02.9215157+00:00",
+  "LastChanged_Achievements": "2023-08-28T10:06:29.6587899+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:26.1294952+00:00",
-  "LastUpdate_Ratings": "2023-08-28T08:58:57.3146668+00:00",
-  "LastUpdate_Achievements": "2023-08-28T09:07:02.9216992+00:00"
+  "LastUpdate_Ratings": "2023-08-28T09:58:35.4437383+00:00",
+  "LastUpdate_Achievements": "2023-08-28T10:06:29.6590165+00:00"
 }

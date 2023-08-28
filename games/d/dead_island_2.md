@@ -34,25 +34,25 @@ Rating: 4.54 (Ranked 501)
 | Down with the Sickness | 0.20% | ~1,335 |
 | Max Headroom | 0.20% | ~1,335 |
 | Our True Nature | 0.20% | ~1,335 |
-| Make it So | 0.10% | ~667 |
-| LA Influential | 0.10% | ~667 |
-| On Safari | 0.10% | ~667 |
-| Smorgasbord | 0.10% | ~667 |
-| Not Even My Final Form | 0.10% | ~667 |
-| Donk! | 0.10% | ~667 |
-| Internet Famous | 0.10% | ~667 |
-| Sole Survivor | 0.10% | ~667 |
-| Jumbo Keyring | 0.10% | ~667 |
-| Gore Horse | 0.10% | ~667 |
-| Sharpest Tool in the Box | 0.10% | ~667 |
-| Survival Skills | 0.10% | ~667 |
-| Go, Bobcats! | 0.10% | ~667 |
-| Variety is the Spice of Death | 0.10% | ~667 |
-| Rising Star | 0.10% | ~667 |
-| Bucket List | 0.10% | ~667 |
+| Make it So | 0.10% | ~668 |
+| LA Influential | 0.10% | ~668 |
+| On Safari | 0.10% | ~668 |
+| Smorgasbord | 0.10% | ~668 |
+| Not Even My Final Form | 0.10% | ~668 |
+| Donk! | 0.10% | ~668 |
+| Internet Famous | 0.10% | ~668 |
+| Sole Survivor | 0.10% | ~668 |
+| Jumbo Keyring | 0.10% | ~668 |
+| Gore Horse | 0.10% | ~668 |
+| Sharpest Tool in the Box | 0.10% | ~668 |
+| Survival Skills | 0.10% | ~668 |
+| Go, Bobcats! | 0.10% | ~668 |
+| Variety is the Spice of Death | 0.10% | ~668 |
+| Rising Star | 0.10% | ~668 |
+| Bucket List | 0.10% | ~668 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 667,480 (Ranked 22)  
-Completed: 2,082 (0.31%) (Ranked 173)  
+Progressed: 667,500 (Ranked 22)  
+Completed: 2,083 (0.31%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -181,7 +181,7 @@ Completed: 2,082 (0.31%) (Ranked 173)
 | 2023-08-25 | 665,272 | 2,068 |
 | 2023-08-26 | 666,250 | 2,078 |
 | 2023-08-27 | 667,273 | 2,082 |
-| 2023-08-28 | 667,480 | 2,082 |
+| 2023-08-28 | 667,500 | 2,083 |
 ## Awards
 Max (Great Boss Battles): 5,783  (Ranked 61)  
 Sum: 8,517 (Ranked 97)  

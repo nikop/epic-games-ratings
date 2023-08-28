@@ -3,7 +3,7 @@
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
   "Ranking_Rating": 675,
-  "Ranking_Popularity": 437,
+  "Ranking_Popularity": 433,
   "Ranking_PopularitySum": 356,
   "Ranking_EOS_Progress": 45,
   "Ranking_EOS_Completed": 265,
@@ -800,18 +800,24 @@
       "Rating": 4.42,
       "NumberOfAwards": 243,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-08-28T09:59:05.6428304+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 244,
+      "NumberOfAwardsMax": 36
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 243,
-  "NumberOfAwardsMax": 35,
+  "NumberOfAwards": 244,
+  "NumberOfAwardsMax": 36,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 35
+      "Count": 36
     },
     {
       "Text": "This game has Unique Visuals",
@@ -862,9 +868,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 255521,
+  "EOS_Progressed": 255525,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 337,
+  "EOS_NewPlayers": 339,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14112,6 +14118,11 @@
       "Time": "2023-08-28T09:05:06.9871216+00:00",
       "NumProgressed": 255521,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-28T10:04:31.3786261+00:00",
+      "NumProgressed": 255525,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -14123,7 +14134,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17886
+      "UsersEstimate": 17887
     },
     {
       "ID": "Act2",
@@ -14171,7 +14182,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 79212
+      "UsersEstimate": 79213
     },
     {
       "ID": "BackHomeNTimes",
@@ -14323,7 +14334,7 @@
       "Name": "Green thumb I",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15331
+      "UsersEstimate": 15332
     },
     {
       "ID": "GrowPlants2",
@@ -14379,7 +14390,7 @@
       "Name": "Cleaning Company",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15331
+      "UsersEstimate": 15332
     },
     {
       "ID": "KillOtherWithKatana",
@@ -14411,7 +14422,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 56215
+      "UsersEstimate": 56216
     },
     {
       "ID": "KillOthers2",
@@ -14570,16 +14581,16 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 255521,
+      "Progressed": 255525,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2023-08-27T09:58:15.4879589+00:00",
-  "LastChanged_Achievements": "2023-08-28T09:05:06.9871209+00:00",
+  "LastChanged": "2023-08-28T09:59:05.6428301+00:00",
+  "LastChanged_Achievements": "2023-08-28T10:04:31.3786255+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:47.9726825+00:00",
-  "LastUpdate_Ratings": "2023-08-28T08:59:27.8466598+00:00",
-  "LastUpdate_Achievements": "2023-08-28T09:05:06.9872879+00:00"
+  "LastUpdate_Ratings": "2023-08-28T09:59:05.642831+00:00",
+  "LastUpdate_Achievements": "2023-08-28T10:04:31.3787609+00:00"
 }

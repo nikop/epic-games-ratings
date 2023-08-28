@@ -1647,9 +1647,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13621,
+  "EOS_Progressed": 13623,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10422,6 +10422,11 @@
       "Time": "2023-08-28T09:08:03.5747054+00:00",
       "NumProgressed": 13621,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-28T10:07:37.1070404+00:00",
+      "NumProgressed": 13623,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -11063,9 +11068,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
       "SetID": "7l38kb8",
       "Name": "Strong",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 272
+      "UsersEstimate": 409
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_SUBJUGATOR",
@@ -12639,9 +12644,9 @@
       "ID": "ACHIEVEMENT_WASET_NECROPOLIS",
       "SetID": "9201eeb",
       "Name": "Necropolis in Waset",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 41
     },
     {
       "ID": "ACHIEVEMENT_WIN_1V1",
@@ -12800,21 +12805,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13621,
+      "Progressed": 13623,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13621,
+      "Progressed": 13623,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-24T04:00:31.5764786+00:00",
-  "LastChanged_Achievements": "2023-08-28T09:08:03.574705+00:00",
+  "LastChanged_Achievements": "2023-08-28T10:07:37.1070396+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:39.7773306+00:00",
-  "LastUpdate_Ratings": "2023-08-28T09:01:38.045113+00:00",
-  "LastUpdate_Achievements": "2023-08-28T09:08:03.5758013+00:00"
+  "LastUpdate_Ratings": "2023-08-28T10:01:12.315484+00:00",
+  "LastUpdate_Achievements": "2023-08-28T10:07:37.108334+00:00"
 }

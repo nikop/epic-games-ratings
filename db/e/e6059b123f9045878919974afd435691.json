@@ -2105,9 +2105,9 @@
       "ID": "KLACKEY_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "And There We Go",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 226
+      "UsersEstimate": 234
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -2177,9 +2177,9 @@
       "ID": "MEAT_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Night Snack",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 180
+      "UsersEstimate": 187
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -2320,8 +2320,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-08-28T09:04:47.9773709+00:00",
+  "LastChanged_Achievements": "2023-08-28T10:04:13.2470321+00:00",
   "LastUpdate_AppInfo": "2023-08-24T17:57:03.8268695+00:00",
-  "LastUpdate_Ratings": "2023-08-28T09:00:13.5093996+00:00",
-  "LastUpdate_Achievements": "2023-08-28T09:04:47.9774695+00:00"
+  "LastUpdate_Ratings": "2023-08-28T09:59:47.8110284+00:00",
+  "LastUpdate_Achievements": "2023-08-28T10:04:13.2472095+00:00"
 }

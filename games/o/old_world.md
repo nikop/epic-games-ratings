@@ -12,6 +12,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able | 3.00% | ~409 |
 | Explorer | 3.00% | ~409 |
 | Intrepid | 3.00% | ~409 |
+| Strong | 3.00% | ~409 |
 | Friendly Family | 3.00% | ~409 |
 | Hanging Gardens | 3.00% | ~409 |
 | Ambitious | 2.00% | ~272 |
@@ -29,7 +30,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mason | 2.00% | ~272 |
 | Noble | 2.00% | ~272 |
 | Pioneer | 2.00% | ~272 |
-| Strong | 2.00% | ~272 |
 | Warrior | 2.00% | ~272 |
 | Wise | 2.00% | ~272 |
 | Developing Cities | 2.00% | ~272 |
@@ -156,6 +156,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ten Crowns | 0.30% | ~41 |
 | Three Man Chariot | 0.30% | ~41 |
 | Conquest Victory | 0.30% | ~41 |
+| Necropolis in Waset | 0.30% | ~41 |
 | Patriarch St Paul | 0.30% | ~41 |
 | Hypatia the Teacher | 0.30% | ~41 |
 | Bronze Victory (Carthage 1) | 0.20% | ~27 |
@@ -176,7 +177,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus in Roma | 0.20% | ~27 |
 | Pantheon in Roma | 0.20% | ~27 |
 | Siege Tower | 0.20% | ~27 |
-| Necropolis in Waset | 0.20% | ~27 |
 | Centenarian | 0.10% | ~14 |
 | Lighthouse in Alexandria | 0.10% | ~14 |
 | Musaeum in Alexandria | 0.10% | ~14 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,621 (Ranked 119)  
+Progressed: 13,623 (Ranked 119)  
 Completed: 5 (0.04%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -433,7 +433,7 @@ Completed: 5 (0.04%) (Ranked 235)
 | 2023-08-25 | 13,563 | 5 |
 | 2023-08-26 | 13,590 | 5 |
 | 2023-08-27 | 13,616 | 5 |
-| 2023-08-28 | 13,621 | 5 |
+| 2023-08-28 | 13,623 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,799 (Ranked 208)  

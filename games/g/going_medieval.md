@@ -14,7 +14,7 @@ Number of Ratings: 706  (23.09.2022)
 | Novice Researcher | 65.00% | ~3,600 |
 | Home Cooked Meal | 57.00% | ~3,157 |
 | Putting Food on the Table | 57.00% | ~3,157 |
-| Onward | 55.00% | ~3,046 |
+| Onward | 56.00% | ~3,102 |
 | The First Week | 54.00% | ~2,991 |
 | Studious Researcher | 51.00% | ~2,825 |
 | Beam Me Up | 50.00% | ~2,770 |

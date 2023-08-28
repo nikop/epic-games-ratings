@@ -1,20 +1,20 @@
 # Horizon Chase Turbo
 [Store](https://store.epicgames.com/en-US/p/horizon-chase-turbo)  
 [View Rawdata](../../db/h/horizon_chase_turbo.json)  
-Rating: 4.55 (Ranked 489)  
+Rating: 4.55 (Ranked 490)  
 Number of Ratings: 1,343  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~930,895 |
-| I Need a Bigger Garage | 63.00% | ~651,627 |
-| Pump my Ride | 47.00% | ~486,134 |
-| Ghostbuster | 33.00% | ~341,328 |
-| That Was Close | 18.00% | ~186,179 |
-| Call Roadside Assistance | 17.00% | ~175,836 |
-| Quickie | 11.00% | ~113,776 |
-| California Dreamer | 7.00% | ~72,403 |
-| Can't Touch This | 5.00% | ~51,716 |
+| The First of Many | 90.00% | ~930,910 |
+| I Need a Bigger Garage | 63.00% | ~651,637 |
+| Pump my Ride | 47.00% | ~486,142 |
+| Ghostbuster | 33.00% | ~341,334 |
+| That Was Close | 18.00% | ~186,182 |
+| Call Roadside Assistance | 17.00% | ~175,838 |
+| Quickie | 11.00% | ~113,778 |
+| California Dreamer | 7.00% | ~72,404 |
+| Can't Touch This | 5.00% | ~51,717 |
 | Carménère Taster | 3.00% | ~31,030 |
 | Supersonic | 3.00% | ~31,030 |
 | Comeback | 3.00% | ~31,030 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,034 |
 | Look Mom, No Hands! | 0.10% | ~1,034 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,034,328 (Ranked 12)  
+Progressed: 1,034,344 (Ranked 12)  
 Completed: 405 (0.04%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 405 (0.04%) (Ranked 235)
 | 2023-08-25 | 1,032,681 | 403 |
 | 2023-08-26 | 1,033,396 | 404 |
 | 2023-08-27 | 1,034,146 | 405 |
-| 2023-08-28 | 1,034,328 | 405 |
+| 2023-08-28 | 1,034,344 | 405 |
 ## Awards
 Max (Great for Beginners): 153  (Ranked 296)  
 Sum: 1,261 (Ranked 229)  

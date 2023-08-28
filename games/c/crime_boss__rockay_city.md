@@ -5,8 +5,8 @@ Rating: 3.94 (Ranked 951)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~53,575 |
-| First One’s Free | 65.00% | ~47,059 |
+| Downed but Not Outed | 74.00% | ~53,576 |
+| First One’s Free | 65.00% | ~47,060 |
 | Neophyte Ninja | 50.00% | ~36,200 |
 | Too Old for This | 48.00% | ~34,752 |
 | Fancy Pants | 36.00% | ~26,064 |
@@ -43,7 +43,7 @@ Rating: 3.94 (Ranked 951)
 | Geek Out | 0.60% | ~434 |
 | Full House | 0.20% | ~145 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,399 (Ranked 79)  
+Progressed: 72,400 (Ranked 79)  
 Completed: 42 (0.06%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 42 (0.06%) (Ranked 227)
 | 2023-08-25 | 72,307 | 42 |
 | 2023-08-26 | 72,349 | 42 |
 | 2023-08-27 | 72,388 | 42 |
-| 2023-08-28 | 72,399 | 42 |
+| 2023-08-28 | 72,400 | 42 |
 ## Awards
 Max (Diverse Characters): 407  (Ranked 215)  
 Sum: 1,941 (Ranked 203)  
