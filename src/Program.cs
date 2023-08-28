@@ -300,7 +300,29 @@ await File.WriteAllTextAsync(
     )
 );
 
+Directory.CreateDirectory(Path.GetDirectoryName("achievements")!);
 
+foreach (var month in items.Where(x => x.Store.ReleaseDate != null).GroupBy(x => $"{x.Store.ReleaseDate!.Value.Year}-{x.Store.ReleaseDate!.Value.Month:00}"))
+{
+    var key = month.Key;
+
+    var achievementGames = items
+        .Where(x => x.TotalAchievements > 0)
+        .OrderByDescending(x => x.Store.ReleaseDate)
+        .ThenBy(x => x.Name);
+
+    await File.WriteAllTextAsync(
+        Path.Combine(path, $"achievements/${key}.md"),
+        nameDateTable.FormatTable(
+            items
+                .Where(x => x.AchievementsAdded != null)
+                .OrderByDescending(x => x.AchievementsAdded)
+                .ThenBy(x => x.Name)
+        )
+    );
+}
+
+// Blockchain
 await File.WriteAllTextAsync(
     Path.Combine(path, "blockchain.md"),
     nameDateTable.FormatTable(
