@@ -71,7 +71,7 @@
 | 69 | [The Complex](games/t/the_complex.md) | 3.33% |
 | 70 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
 | 71 | [HordeCore](games/h/hordecore.md) | 3.15% |
-| 72 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.14% |
+| 72 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.13% |
 | 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.09% |
 | 74 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.02% |
 | 75 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.95% |
@@ -111,7 +111,7 @@
 | 109 | [Ten Dates](games/t/ten_dates.md) | 1.44% |
 | 110 | [Poosh XL](games/p/poosh_xl.md) | 1.40% |
 | 111 | [Late Shift](games/l/late_shift.md) | 1.27% |
-| 112 | [Infindustry](games/i/infindustry.md) | 1.25% |
+| 112 | [Infindustry](games/i/infindustry.md) | 1.23% |
 | 113 | [Chorus](games/c/chorus.md) | 1.13% |
 | 114 | [Trifox](games/t/trifox.md) | 1.10% |
 | 115 | [A Musical Story](games/a/a_musical_story.md) | 1.08% |
