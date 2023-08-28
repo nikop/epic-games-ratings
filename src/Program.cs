@@ -306,7 +306,7 @@ foreach (var month in items.Where(x => x.Store.ReleaseDate != null).GroupBy(x =>
 {
     var key = month.Key;
 
-    var achievementGames = items
+    var achievementGames = month
         .Where(x => x.TotalAchievements > 0)
         .OrderByDescending(x => x.Store.ReleaseDate)
         .ThenBy(x => x.Name);
