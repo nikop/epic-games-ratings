@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~4,514 |
+| A Brief Tour of the Realms | 2.00% | ~4,515 |
 | Beast Intentions | 0.80% | ~1,806 |
 | The Cursed Farmer | 0.80% | ~1,806 |
 | The Mad Wizard | 0.60% | ~1,354 |
@@ -21,6 +21,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Terror in the Dark | 0.30% | ~677 |
 | A Mysterious Summons | 0.30% | ~677 |
 | Building Trust | 0.30% | ~677 |
+| Unearthed Evil | 0.30% | ~677 |
 | The Crumbling Temple | 0.30% | ~677 |
 | Mad Cow Disease | 0.30% | ~677 |
 | Exploring Port Nyanzaru | 0.30% | ~677 |
@@ -36,6 +37,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hither of the Feywild | 0.20% | ~384 |
 | The Silken Swamp | 0.20% | ~451 |
 | Wet Feet | 0.20% | ~451 |
+| Hatchlings Underfoot | 0.20% | ~451 |
 | Don't Look Up! | 0.20% | ~451 |
 | Supply Run | 0.20% | ~451 |
 | Heavy Burden | 0.20% | ~451 |
@@ -65,7 +67,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | March of the Undead | 0.20% | ~451 |
 | Wisdom Check | 0.20% | ~451 |
 | Sleuth It Out | 0.20% | ~451 |
-| Unearthed Evil | 0.20% | ~451 |
+| A Grand Puzzle | 0.20% | ~451 |
 | No Time To Rest | 0.20% | ~451 |
 | The Mists of Ravenloft | 0.20% | ~451 |
 | The Hunt for Owl-y | 0.20% | ~451 |
@@ -176,7 +178,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Alien Underdark | 0.10% | ~192 |
 | Thoughts on the Menu | 0.10% | ~192 |
 | Brains on Ice | 0.10% | ~192 |
-| Hatchlings Underfoot | 0.10% | ~226 |
 | The Oozing Hunger | 0.10% | ~192 |
 | Levelheaded | 0.10% | ~192 |
 | The Madness of Zuggtmoy | 0.10% | ~192 |
@@ -246,7 +247,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Double Vision | 0.10% | ~226 |
 | Underground Railroad | 0.10% | ~226 |
 | The Newcomers of Notoriety | 0.10% | ~192 |
-| A Grand Puzzle | 0.10% | ~226 |
 | Never Split the Party | 0.10% | ~226 |
 | Azaka's Procession - Part 1 | 0.10% | ~226 |
 | Snakes on our Plane | 0.10% | ~192 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~192 |
 | Animated Giff | 0.10% | ~192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,712 (Ranked 53)  
+Progressed: 225,733 (Ranked 53)  
 Completed: 2,223 (0.98%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -653,7 +653,7 @@ Completed: 2,223 (0.98%) (Ranked 122)
 | 2023-08-25 | 224,925 | 2,214 |
 | 2023-08-26 | 225,221 | 2,219 |
 | 2023-08-27 | 225,526 | 2,222 |
-| 2023-08-28 | 225,712 | 2,223 |
+| 2023-08-28 | 225,733 | 2,223 |
 ## Awards
 Max (Diverse Characters): 5,202  (Ranked 68)  
 Sum: 31,265 (Ranked 39)  

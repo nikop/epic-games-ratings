@@ -6661,18 +6661,24 @@
       "Rating": 4.74,
       "NumberOfAwards": 14211,
       "NumberOfAwardsMax": 6990
+    },
+    {
+      "Time": "2023-08-28T17:58:56.930768+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 14217,
+      "NumberOfAwardsMax": 6994
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14211,
-  "NumberOfAwardsMax": 6990,
+  "NumberOfAwards": 14217,
+  "NumberOfAwardsMax": 6994,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 6990
+      "Count": 6994
     },
     {
       "Text": "This game is Highly Recommended",
@@ -6702,13 +6708,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 800
+      "Count": 801
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 782
+      "Count": 783
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6741,9 +6747,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 59853,
+  "EOS_Progressed": 59854,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 479,
+  "EOS_NewPlayers": 476,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20531,6 +20537,11 @@
       "Time": "2023-08-28T16:06:10.1023435+00:00",
       "NumProgressed": 59853,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-28T18:07:24.602604+00:00",
+      "NumProgressed": 59854,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -20774,7 +20785,7 @@
       "Name": "Lawbringer",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 22744
+      "UsersEstimate": 22745
     },
     {
       "ID": "Lawmaker",
@@ -20949,15 +20960,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 59853,
+      "Progressed": 59854,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-08-28T13:58:36.0219803+00:00",
-  "LastChanged_Achievements": "2023-08-28T17:08:38.2538616+00:00",
+  "LastChanged": "2023-08-28T17:58:56.9307678+00:00",
+  "LastChanged_Achievements": "2023-08-28T18:07:24.6026035+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:26.1294952+00:00",
-  "LastUpdate_Ratings": "2023-08-28T16:59:32.0706203+00:00",
-  "LastUpdate_Achievements": "2023-08-28T17:08:38.2539623+00:00"
+  "LastUpdate_Ratings": "2023-08-28T17:58:56.9307685+00:00",
+  "LastUpdate_Achievements": "2023-08-28T18:07:24.6027632+00:00"
 }

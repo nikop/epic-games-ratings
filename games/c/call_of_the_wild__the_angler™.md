@@ -6,33 +6,33 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 78.00% | ~4,133 |
-| Hey Good Hookin | 67.00% | ~3,550 |
-| I'm on a Boat! | 58.00% | ~3,073 |
-| Can you smell what the Rod is Hooking | 53.00% | ~2,808 |
-| Scaling up | 52.00% | ~2,755 |
-| More Fish in the Sea | 45.00% | ~2,385 |
-| Ready to Rod and Roll | 44.00% | ~2,332 |
-| Fish Out of Water | 33.00% | ~1,749 |
-| License to Gill | 32.00% | ~1,696 |
-| Things that go Splash in the Night | 28.00% | ~1,484 |
-| Goldfish? | 27.00% | ~1,431 |
-| Going for Gold | 24.00% | ~1,272 |
-| I'm Hooked! | 18.00% | ~954 |
-| Diamond in the Rough | 12.00% | ~636 |
-| More than a Tourist | 11.00% | ~583 |
-| Hook, Line and Sinker | 8.00% | ~424 |
-| Marathon | 8.00% | ~424 |
+| Fish Just Got Reel | 78.00% | ~4,139 |
+| Hey Good Hookin | 68.00% | ~3,609 |
+| I'm on a Boat! | 58.00% | ~3,078 |
+| Can you smell what the Rod is Hooking | 53.00% | ~2,813 |
+| Scaling up | 53.00% | ~2,813 |
+| More Fish in the Sea | 45.00% | ~2,388 |
+| Ready to Rod and Roll | 44.00% | ~2,335 |
+| Fish Out of Water | 33.00% | ~1,751 |
+| License to Gill | 32.00% | ~1,698 |
+| Things that go Splash in the Night | 28.00% | ~1,486 |
+| Goldfish? | 27.00% | ~1,433 |
+| Going for Gold | 24.00% | ~1,274 |
+| I'm Hooked! | 18.00% | ~955 |
+| Diamond in the Rough | 12.00% | ~637 |
+| More than a Tourist | 11.00% | ~584 |
+| Hook, Line and Sinker | 8.00% | ~425 |
+| Marathon | 7.00% | ~371 |
 | School's Out for Summer | 6.00% | ~318 |
 | Big Fish Small Pond | 6.00% | ~318 |
 | I'm the Captain Now | 5.00% | ~265 |
 | Gonna Need a Bigger Boat | 3.00% | ~159 |
 | The Beetles | 2.00% | ~106 |
-| Rod and Troll | 2.00% | ~93 |
+| Rod and Troll | 2.00% | ~94 |
 | Taylor Made | 1.00% | ~53 |
 | No Fin left to give | 0.90% | ~48 |
-| Head for Heights | 0.50% | ~26 |
-| Lake Me up Before You Go Go | 0.50% | ~26 |
+| Head for Heights | 0.50% | ~27 |
+| Lake Me up Before You Go Go | 0.50% | ~27 |
 | Fish upon a Star | 0.50% | ~23 |
 | Trollsporet Tale Teller | 0.30% | ~14 |
 | Cache and Carry | 0.30% | ~14 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.10% | ~5 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,299 (Ranked 143)  
+Progressed: 5,307 (Ranked 143)  
 Completed: 0 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 0 (0.00%) (Ranked 265)
 | 2023-08-25 | 5,062 | 0 |
 | 2023-08-26 | 5,167 | 0 |
 | 2023-08-27 | 5,248 | 0 |
-| 2023-08-28 | 5,299 | 0 |
+| 2023-08-28 | 5,307 | 0 |
 ## Awards
 Max (Relaxing): 33  (Ranked 449)  
 Sum: 163 (Ranked 392)  

@@ -6,27 +6,27 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Imprint | 88.00% | ~126,297 |
-| Taste | 84.00% | ~120,556 |
-| The Hunt | 66.00% | ~94,723 |
-| Ravenous | 63.00% | ~90,417 |
-| Weeper | 43.00% | ~61,713 |
-| Devourer | 23.00% | ~33,009 |
-| Harmless | 19.00% | ~27,269 |
-| Silenced Whispers | 19.00% | ~27,269 |
-| Sharpened Vessel | 16.00% | ~22,963 |
-| Yank | 15.00% | ~21,528 |
-| Scion | 12.00% | ~17,172 |
-| Jawcrab | 12.00% | ~17,222 |
-| Jawstag | 12.00% | ~17,222 |
-| Feast | 12.00% | ~17,222 |
-| Watcher | 10.00% | ~14,352 |
+| Imprint | 88.00% | ~126,306 |
+| Taste | 84.00% | ~120,564 |
+| The Hunt | 66.00% | ~94,729 |
+| Ravenous | 63.00% | ~90,423 |
+| Weeper | 43.00% | ~61,717 |
+| Devourer | 23.00% | ~33,012 |
+| Harmless | 19.00% | ~27,271 |
+| Silenced Whispers | 19.00% | ~27,271 |
+| Sharpened Vessel | 16.00% | ~22,965 |
+| Yank | 15.00% | ~21,529 |
+| Scion | 12.00% | ~17,173 |
+| Jawcrab | 12.00% | ~17,223 |
+| Jawstag | 12.00% | ~17,223 |
+| Feast | 12.00% | ~17,223 |
+| Watcher | 10.00% | ~14,353 |
 | Shapely | 8.00% | ~11,482 |
-| Glare | 8.00% | ~11,448 |
+| Glare | 8.00% | ~11,449 |
 | Predator | 8.00% | ~11,482 |
-| Assimilation | 6.00% | ~8,611 |
-| Host | 6.00% | ~8,586 |
-| Celebration | 6.00% | ~8,611 |
+| Assimilation | 6.00% | ~8,612 |
+| Host | 6.00% | ~8,587 |
+| Celebration | 6.00% | ~8,612 |
 | Hunt Down | 5.00% | ~7,176 |
 | Artisan | 5.00% | ~7,176 |
 | Breathsmith | 5.00% | ~7,176 |
@@ -40,7 +40,7 @@ Number of Ratings: 46  (23.09.2022)
 | All-Seeing | 3.00% | ~4,306 |
 | Passage | 3.00% | ~4,306 |
 | Zygote | 2.00% | ~2,862 |
-| Kinship | 2.00% | ~2,870 |
+| Kinship | 2.00% | ~2,871 |
 | Kin | 2.00% | ~2,862 |
 | Listen | 2.00% | ~2,862 |
 | Weakness | 1.00% | ~1,435 |
@@ -49,7 +49,7 @@ Number of Ratings: 46  (23.09.2022)
 | Instruments | 0.70% | ~1,005 |
 | Spiral Heart | 0.10% | ~144 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 143,519 (Ranked 65)  
+Progressed: 143,529 (Ranked 65)  
 Completed: 1 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 1 (0.00%) (Ranked 265)
 | 2023-08-25 | 142,362 | 1 |
 | 2023-08-26 | 142,811 | 1 |
 | 2023-08-27 | 143,262 | 1 |
-| 2023-08-28 | 143,519 | 1 |
+| 2023-08-28 | 143,529 | 1 |
 ## Awards
 Max (Highly Recommended): 28  (Ranked 467)  
 Sum: 141 (Ranked 399)  

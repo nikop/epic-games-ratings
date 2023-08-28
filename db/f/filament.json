@@ -243,9 +243,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 200219,
+  "EOS_Progressed": 200225,
   "EOS_Completed": 489,
-  "EOS_NewPlayers": 591,
+  "EOS_NewPlayers": 593,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -14248,6 +14248,11 @@
       "Time": "2023-08-28T17:07:31.4192172+00:00",
       "NumProgressed": 200219,
       "NumCompleted": 489
+    },
+    {
+      "Time": "2023-08-28T18:06:15.5284427+00:00",
+      "NumProgressed": 200225,
+      "NumCompleted": 489
     }
   ],
   "TotalAchievements": 29,
@@ -14283,7 +14288,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 188206
+      "UsersEstimate": 188212
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -14395,7 +14400,7 @@
       "Name": "So you\u0027re saying I don\u0027t touch these ones?",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 12013
+      "UsersEstimate": 12014
     },
     {
       "ID": "ACHIEVEMENT_OPUS",
@@ -14459,7 +14464,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 14015
+      "UsersEstimate": 14016
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -14490,7 +14495,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 200219,
+      "Progressed": 200225,
       "Completed": 489
     }
   ],
@@ -14498,8 +14503,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-08-19T20:00:31.8399303+00:00",
-  "LastChanged_Achievements": "2023-08-28T17:07:31.4192167+00:00",
+  "LastChanged_Achievements": "2023-08-28T18:06:15.528442+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:27.0494486+00:00",
-  "LastUpdate_Ratings": "2023-08-28T16:58:03.243683+00:00",
-  "LastUpdate_Achievements": "2023-08-28T17:07:31.4193224+00:00"
+  "LastUpdate_Ratings": "2023-08-28T17:57:37.1229768+00:00",
+  "LastUpdate_Achievements": "2023-08-28T18:06:15.5286274+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2546,9 +2546,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 68089,
+  "EOS_Progressed": 68091,
   "EOS_Completed": 109,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -13401,6 +13401,11 @@
       "Time": "2023-08-28T16:07:17.8305925+00:00",
       "NumProgressed": 68089,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2023-08-28T18:08:56.141521+00:00",
+      "NumProgressed": 68091,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 61,
@@ -13500,7 +13505,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10213
+      "UsersEstimate": 10214
     },
     {
       "ID": "CHALLENGES_1",
@@ -13532,7 +13537,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 9532
+      "UsersEstimate": 9533
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -13564,7 +13569,7 @@
       "Name": "Expert Crime Fighter",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 3404
+      "UsersEstimate": 3405
     },
     {
       "ID": "CRIME_FIGHTER_2",
@@ -13660,7 +13665,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 9532
+      "UsersEstimate": 9533
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -13716,7 +13721,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 23831
+      "UsersEstimate": 23832
     },
     {
       "ID": "HARLEY_2",
@@ -13724,7 +13729,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 17022
+      "UsersEstimate": 17023
     },
     {
       "ID": "HARLEY_3",
@@ -13740,7 +13745,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 10894
+      "UsersEstimate": 10895
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -13756,7 +13761,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 34044
+      "UsersEstimate": 34046
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -13788,7 +13793,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 18384
+      "UsersEstimate": 18385
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -13804,7 +13809,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 23150
+      "UsersEstimate": 23151
     },
     {
       "ID": "MYSTERY_02",
@@ -13812,7 +13817,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 17022
+      "UsersEstimate": 17023
     },
     {
       "ID": "MYSTERY_03",
@@ -13844,7 +13849,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10213
+      "UsersEstimate": 10214
     },
     {
       "ID": "MYSTERY_07",
@@ -13852,7 +13857,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 9532
+      "UsersEstimate": 9533
     },
     {
       "ID": "MYSTERY_08",
@@ -13882,9 +13887,9 @@
       "ID": "TALIA_SHOWDOWN_1",
       "SetID": "18c818l",
       "Name": "Confronting Your Demon",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 230
     },
     {
       "ID": "TIME_TRIALS_1",
@@ -13899,13 +13904,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 68089,
+      "Progressed": 68091,
       "Completed": 109
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38369,
+      "Progressed": 38371,
       "Completed": 2660
     }
   ],
@@ -13913,8 +13918,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-08-28T15:58:18.9461279+00:00",
-  "LastChanged_Achievements": "2023-08-28T17:10:09.9115698+00:00",
+  "LastChanged_Achievements": "2023-08-28T18:08:56.1415204+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:22.0819335+00:00",
-  "LastUpdate_Ratings": "2023-08-28T16:59:28.2707494+00:00",
-  "LastUpdate_Achievements": "2023-08-28T17:10:09.9116622+00:00"
+  "LastUpdate_Ratings": "2023-08-28T17:58:50.8783146+00:00",
+  "LastUpdate_Achievements": "2023-08-28T18:08:56.1416489+00:00"
 }

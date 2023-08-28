@@ -5,13 +5,13 @@ Rating: 4.18 (Ranked 878)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~34,044 |
-| Har, Har, Har, Very Funny | 35.00% | ~23,831 |
-| Loose Ends | 34.00% | ~23,150 |
+| First Step Into the Knight | 50.00% | ~34,046 |
+| Har, Har, Har, Very Funny | 35.00% | ~23,832 |
+| Loose Ends | 34.00% | ~23,151 |
 | To the Victor Go the Spoils | 28.00% | ~19,065 |
-| Knighthood | 27.00% | ~18,384 |
-| Get ReQ'd | 25.00% | ~17,022 |
-| Whispered Words | 25.00% | ~17,022 |
+| Knighthood | 27.00% | ~18,385 |
+| Get ReQ'd | 25.00% | ~17,023 |
+| Whispered Words | 25.00% | ~17,023 |
 | The Batman Family | 22.00% | ~14,980 |
 | Lock and Key | 22.00% | ~14,980 |
 | Something in the Clay | 21.00% | ~14,299 |
@@ -23,12 +23,12 @@ Rating: 4.18 (Ranked 878)
 | The Show Mud Go On | 18.00% | ~12,256 |
 | From Inside Gotham's Walls | 18.00% | ~12,256 |
 | Protector of Gotham | 17.00% | ~11,575 |
-| Universal Health Scare | 16.00% | ~10,894 |
-| In Your Element | 15.00% | ~10,213 |
-| Voiceless | 15.00% | ~10,213 |
-| Rock and a Hard Place | 14.00% | ~9,532 |
-| Cooldown | 14.00% | ~9,532 |
-| Seeking Asylum | 14.00% | ~9,532 |
+| Universal Health Scare | 16.00% | ~10,895 |
+| In Your Element | 15.00% | ~10,214 |
+| Voiceless | 15.00% | ~10,214 |
+| Rock and a Hard Place | 14.00% | ~9,533 |
+| Cooldown | 14.00% | ~9,533 |
+| Seeking Asylum | 14.00% | ~9,533 |
 | Not On My Watch | 13.00% | ~8,852 |
 | Shock Til They Drop | 13.00% | ~8,852 |
 | End of an Era | 12.00% | ~8,171 |
@@ -41,7 +41,7 @@ Rating: 4.18 (Ranked 878)
 | Fusion Expert | 7.00% | ~4,766 |
 | Family Meeting | 6.00% | ~4,085 |
 | A Worthy Successor | 6.00% | ~4,085 |
-| Expert Crime Fighter | 5.00% | ~3,404 |
+| Expert Crime Fighter | 5.00% | ~3,405 |
 | Dressed to Impress | 4.00% | ~2,724 |
 | A Momentum Occasion | 3.00% | ~2,043 |
 | Bat Out of Hell | 3.00% | ~2,043 |
@@ -57,8 +57,8 @@ Rating: 4.18 (Ranked 878)
 | Read Owl About It | 0.70% | ~477 |
 | Gotham's Greatest Depths | 0.60% | ~230 |
 | Don't Mecha Big Deal About It | 0.60% | ~230 |
+| Confronting Your Demon | 0.60% | ~230 |
 | That's Showbiz, Clayby | 0.50% | ~192 |
-| Confronting Your Demon | 0.50% | ~192 |
 | Showdown Sovereign | 0.40% | ~153 |
 | Hammer and Icicle | 0.30% | ~115 |
 | Renewable Enemy Source | 0.30% | ~115 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 878)
 | Element of Surprise | 0.20% | ~77 |
 | It's Nice to Be Wanted | 0.20% | ~77 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,089 (Ranked 81)  
+Progressed: 68,091 (Ranked 81)  
 Completed: 109 (0.16%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 109 (0.16%) (Ranked 196)
 | 2023-08-25 | 68,028 | 109 |
 | 2023-08-26 | 68,056 | 109 |
 | 2023-08-27 | 68,080 | 109 |
-| 2023-08-28 | 68,089 | 109 |
+| 2023-08-28 | 68,091 | 109 |
 ## Awards
 Max (Great Boss Battles): 2,524  (Ranked 100)  
 Sum: 4,201 (Ranked 139)  

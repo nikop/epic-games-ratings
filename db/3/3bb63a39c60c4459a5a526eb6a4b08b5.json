@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 565,
+  "EOS_Progressed": 567,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -2016,6 +2016,11 @@
       "Time": "2023-08-28T17:06:20.4797411+00:00",
       "NumProgressed": 565,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-28T18:05:04.1493885+00:00",
+      "NumProgressed": 567,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2041,9 +2046,9 @@
       "ID": "BasicControls",
       "SetID": "1e89b4i",
       "Name": "Basic Controls",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 328
+      "UsersEstimate": 323
     },
     {
       "ID": "BigPlane",
@@ -2187,7 +2192,7 @@
       "Name": "Linear Network",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "LongDistance",
@@ -2243,7 +2248,7 @@
       "Name": "No Way Back",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "NotPlanned",
@@ -2291,7 +2296,7 @@
       "Name": "Reliable Transporter",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ResourceEconomy",
@@ -2307,7 +2312,7 @@
       "Name": "Restructuring",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "Reviewer",
@@ -2355,21 +2360,21 @@
       "Name": "Transport Hub",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 565,
+      "Progressed": 567,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-08-28T17:06:20.4797406+00:00",
+  "LastChanged_Achievements": "2023-08-28T18:05:04.1493879+00:00",
   "LastUpdate_AppInfo": "2023-08-22T10:56:57.2309265+00:00",
-  "LastUpdate_Ratings": "2023-08-28T17:01:18.8463326+00:00",
-  "LastUpdate_Achievements": "2023-08-28T17:06:20.4797773+00:00"
+  "LastUpdate_Ratings": "2023-08-28T18:00:36.7609788+00:00",
+  "LastUpdate_Achievements": "2023-08-28T18:05:04.1494446+00:00"
 }

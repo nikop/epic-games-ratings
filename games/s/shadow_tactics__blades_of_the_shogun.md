@@ -6,17 +6,17 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~21,813 |
-| Thorough | 10.00% | ~19,830 |
-| A thief's beginning | 9.00% | ~17,847 |
-| Disguised | 8.00% | ~15,864 |
-| Rollin' | 8.00% | ~15,864 |
-| Tanuki Time | 8.00% | ~15,864 |
-| Ice Ice Yuki | 7.00% | ~13,881 |
-| Jonin | 7.00% | ~13,881 |
-| Rescue Takuma | 7.00% | ~13,881 |
-| Stoned Ox | 7.00% | ~13,881 |
-| Yabu | 7.00% | ~13,881 |
+| Genin | 11.00% | ~21,814 |
+| Thorough | 10.00% | ~19,831 |
+| A thief's beginning | 9.00% | ~17,848 |
+| Disguised | 8.00% | ~15,865 |
+| Rollin' | 8.00% | ~15,865 |
+| Tanuki Time | 8.00% | ~15,865 |
+| Ice Ice Yuki | 7.00% | ~13,882 |
+| Jonin | 7.00% | ~13,882 |
+| Rescue Takuma | 7.00% | ~13,882 |
+| Stoned Ox | 7.00% | ~13,882 |
+| Yabu | 7.00% | ~13,882 |
 | Chunin | 6.00% | ~11,898 |
 | Happy Planning | 6.00% | ~11,898 |
 | Mugen Unchained | 6.00% | ~11,898 |
@@ -42,8 +42,8 @@ Number of Ratings: 495  (23.09.2022)
 | When Cut Across the Neck | 0.90% | ~1,785 |
 | High Five the Moon | 0.80% | ~1,586 |
 | The Cave | 0.70% | ~1,388 |
-| Merciful | 0.50% | ~991 |
-| Time Paradox | 0.50% | ~991 |
+| Merciful | 0.50% | ~992 |
+| Time Paradox | 0.50% | ~992 |
 | Five Shadows | 0.30% | ~595 |
 | Chicken Dinner | 0.10% | ~198 |
 | Complete Mastery | 0.10% | ~198 |
@@ -51,8 +51,8 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~198 |
 | Release the Kraken | 0.10% | ~198 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 198,299 (Ranked 60)  
-Completed: 72 (0.04%) (Ranked 235)  
+Progressed: 198,308 (Ranked 60)  
+Completed: 73 (0.04%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -181,7 +181,7 @@ Completed: 72 (0.04%) (Ranked 235)
 | 2023-08-25 | 197,462 | 72 |
 | 2023-08-26 | 197,773 | 72 |
 | 2023-08-27 | 198,119 | 72 |
-| 2023-08-28 | 198,299 | 72 |
+| 2023-08-28 | 198,308 | 73 |
 ## Awards
 Max (Great for Beginners): 562  (Ranked 188)  
 Sum: 4,737 (Ranked 135)  

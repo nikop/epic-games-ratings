@@ -565,9 +565,9 @@
       "ID": "AC06",
       "SetID": "l4abp0",
       "Name": "The Last Ascension",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 154
+      "UsersEstimate": 159
     },
     {
       "ID": "AC07",
@@ -589,9 +589,9 @@
       "ID": "AC09",
       "SetID": "l4abp0",
       "Name": "Fermosa Fembra",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 103
+      "UsersEstimate": 108
     },
     {
       "ID": "AC10",
@@ -621,9 +621,9 @@
       "ID": "AC13",
       "SetID": "l4abp0",
       "Name": "Second Psalm.",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 57
     },
     {
       "ID": "AC14",
@@ -669,9 +669,9 @@
       "ID": "AC19",
       "SetID": "l4abp0",
       "Name": "Soledad",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 113
     },
     {
       "ID": "AC20",
@@ -693,9 +693,9 @@
       "ID": "AC22",
       "SetID": "l4abp0",
       "Name": "Empty Handed",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 82
     },
     {
       "ID": "AC23",
@@ -709,9 +709,9 @@
       "ID": "AC24",
       "SetID": "l4abp0",
       "Name": "The Work of a Master",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 36
     },
     {
       "ID": "AC25",
@@ -813,17 +813,17 @@
       "ID": "AC37",
       "SetID": "l4abp0",
       "Name": "Storm of Death",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 46
     },
     {
       "ID": "AC38",
       "SetID": "l4abp0",
       "Name": "Edge of Orison",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 72
     },
     {
       "ID": "AC39",
@@ -837,9 +837,9 @@
       "ID": "AC40",
       "SetID": "l4abp0",
       "Name": "Welcome Back!",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 386
+      "UsersEstimate": 391
     },
     {
       "ID": "AC41",
@@ -892,8 +892,8 @@
   ],
   "FirstSeen": "2023-07-26T07:57:19.1818171+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
-  "LastChanged_Achievements": "2023-08-28T17:07:41.625744+00:00",
+  "LastChanged_Achievements": "2023-08-28T18:06:26.2884103+00:00",
   "LastUpdate_AppInfo": "2023-08-22T18:57:00.5189311+00:00",
-  "LastUpdate_Ratings": "2023-08-28T17:00:44.015187+00:00",
-  "LastUpdate_Achievements": "2023-08-28T17:07:41.6257774+00:00"
+  "LastUpdate_Ratings": "2023-08-28T18:00:07.7071927+00:00",
+  "LastUpdate_Achievements": "2023-08-28T18:06:26.288454+00:00"
 }

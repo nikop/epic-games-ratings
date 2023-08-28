@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I can do a thing or two | 61.00% | ~323 |
+| I can do a thing or two | 60.00% | ~319 |
 | Buckle up | 59.00% | ~313 |
 | Quick charge | 59.00% | ~313 |
 | Now you know | 53.00% | ~281 |
@@ -14,7 +14,7 @@
 | Everybody lies | 35.00% | ~186 |
 | Trick or Treat? | 23.00% | ~122 |
 | There is another way | 22.00% | ~117 |
-| Sysadmin | 21.00% | ~111 |
+| Sysadmin | 21.00% | ~112 |
 | Every little helps | 20.00% | ~106 |
 | The Walking Robot Among Us | 20.00% | ~106 |
 | Annoying | 19.00% | ~101 |
@@ -33,12 +33,12 @@
 | Blade Runner | 10.00% | ~53 |
 | Perfect hearing | 9.00% | ~48 |
 | Meticulous | 8.00% | ~42 |
-| Accurate | 5.00% | ~26 |
+| Accurate | 5.00% | ~27 |
 | Lucky dog | 4.00% | ~21 |
 | Silent | 4.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 530 (Ranked 229)  
-Completed: 16 (3.02%) (Ranked 74)  
+Progressed: 531 (Ranked 228)  
+Completed: 16 (3.01%) (Ranked 74)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -118,7 +118,7 @@ Completed: 16 (3.02%) (Ranked 74)
 | 2023-08-18 | 526 | 16 |
 | 2023-08-26 | 527 | 16 |
 | 2023-08-27 | 529 | 16 |
-| 2023-08-28 | 530 | 16 |
+| 2023-08-28 | 531 | 16 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

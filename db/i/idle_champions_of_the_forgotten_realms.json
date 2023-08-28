@@ -6166,9 +6166,9 @@
       "Count": 3380
     }
   ],
-  "EOS_Progressed": 225712,
+  "EOS_Progressed": 225733,
   "EOS_Completed": 2223,
-  "EOS_NewPlayers": 1781,
+  "EOS_NewPlayers": 1793,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -20441,6 +20441,11 @@
       "Time": "2023-08-28T17:10:11.5834248+00:00",
       "NumProgressed": 225712,
       "NumCompleted": 2223
+    },
+    {
+      "Time": "2023-08-28T18:08:57.2544786+00:00",
+      "NumProgressed": 225733,
+      "NumCompleted": 2223
     }
   ],
   "TotalAchievements": 516,
@@ -20452,7 +20457,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4514
+      "UsersEstimate": 4515
     },
     {
       "ID": "objective_completed_10",
@@ -20882,9 +20887,9 @@
       "ID": "objective_completed_111",
       "SetID": "cc37lbc",
       "Name": "Hatchlings Underfoot",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 226
+      "UsersEstimate": 451
     },
     {
       "ID": "objective_completed_1111",
@@ -21714,9 +21719,9 @@
       "ID": "objective_completed_179",
       "SetID": "cc37lbc",
       "Name": "A Grand Puzzle",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 226
+      "UsersEstimate": 451
     },
     {
       "ID": "objective_completed_180",
@@ -21778,9 +21783,9 @@
       "ID": "objective_completed_19",
       "SetID": "cc37lbc",
       "Name": "Unearthed Evil",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 451
+      "UsersEstimate": 677
     },
     {
       "ID": "objective_completed_20",
@@ -24579,21 +24584,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 191986,
+      "Progressed": 192007,
       "Completed": 3323
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 225712,
+      "Progressed": 225733,
       "Completed": 2223
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-28T16:00:45.5990767+00:00",
-  "LastChanged_Achievements": "2023-08-28T17:10:11.5834244+00:00",
+  "LastChanged_Achievements": "2023-08-28T18:08:57.254478+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:53.3345914+00:00",
-  "LastUpdate_Ratings": "2023-08-28T17:03:29.477481+00:00",
-  "LastUpdate_Achievements": "2023-08-28T17:10:11.5858301+00:00"
+  "LastUpdate_Ratings": "2023-08-28T18:02:23.6469281+00:00",
+  "LastUpdate_Achievements": "2023-08-28T18:08:57.2579058+00:00"
 }

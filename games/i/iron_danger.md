@@ -11,8 +11,8 @@
 | Death is Merely a Setback | 8.00% | ~20 |
 | Ring of Fire! | 8.00% | ~20 |
 | Berry Nice | 7.00% | ~18 |
+| Keyu Exterminator | 7.00% | ~18 |
 | Third Shard | 7.00% | ~18 |
-| Keyu Exterminator | 6.00% | ~15 |
 | Fourth Shard | 6.00% | ~15 |
 | Big Fish | 5.00% | ~13 |
 | Tastes Like Chicken | 5.00% | ~13 |

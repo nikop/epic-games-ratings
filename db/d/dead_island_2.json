@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 173,
   "Ranking_EOS_NewPlayers": 17,
-  "Ranking_EOS_NewCompleters": 5,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -4038,10 +4038,10 @@
       "Count": 327
     }
   ],
-  "EOS_Progressed": 667836,
+  "EOS_Progressed": 667894,
   "EOS_Completed": 2084,
-  "EOS_NewPlayers": 5841,
-  "EOS_NewCompleters": 35,
+  "EOS_NewPlayers": 5847,
+  "EOS_NewCompleters": 34,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -18498,6 +18498,11 @@
       "Time": "2023-08-28T17:05:38.7514582+00:00",
       "NumProgressed": 667836,
       "NumCompleted": 2084
+    },
+    {
+      "Time": "2023-08-28T18:04:25.4793847+00:00",
+      "NumProgressed": 667894,
+      "NumCompleted": 2084
     }
   ],
   "TotalAchievements": 45,
@@ -18525,7 +18530,7 @@
       "Name": "Git Gutte!",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2671
+      "UsersEstimate": 2672
     },
     {
       "ID": "ach_anger_management",
@@ -18573,7 +18578,7 @@
       "Name": "Break A Leg",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2671
+      "UsersEstimate": 2672
     },
     {
       "ID": "ach_contender",
@@ -18629,7 +18634,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2671
+      "UsersEstimate": 2672
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -18653,7 +18658,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2671
+      "UsersEstimate": 2672
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -18669,7 +18674,7 @@
       "Name": "Hotel California",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2671
+      "UsersEstimate": 2672
     },
     {
       "ID": "ach_impressive_aim",
@@ -18723,9 +18728,9 @@
       "ID": "ach_legendary",
       "SetID": "7km39fm",
       "Name": "Ooh, Shiny!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1336
+      "UsersEstimate": 2004
     },
     {
       "ID": "ach_magnum_opus",
@@ -18789,7 +18794,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2671
+      "UsersEstimate": 2672
     },
     {
       "ID": "ach_survival_expert",
@@ -18819,9 +18824,9 @@
       "ID": "ach_thesacrifice",
       "SetID": "7km39fm",
       "Name": "Our True Nature",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 1336
+      "UsersEstimate": 2004
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -18868,7 +18873,7 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 667836,
+      "Progressed": 667894,
       "Completed": 2084
     }
   ],
@@ -18876,8 +18881,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-08-28T14:02:06.8843337+00:00",
-  "LastChanged_Achievements": "2023-08-28T17:05:38.7514577+00:00",
+  "LastChanged_Achievements": "2023-08-28T18:04:25.4793841+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:11.0440218+00:00",
-  "LastUpdate_Ratings": "2023-08-28T17:03:50.7977714+00:00",
-  "LastUpdate_Achievements": "2023-08-28T17:05:38.7515566+00:00"
+  "LastUpdate_Ratings": "2023-08-28T18:02:41.1271288+00:00",
+  "LastUpdate_Achievements": "2023-08-28T18:04:25.4795138+00:00"
 }
