@@ -37,7 +37,7 @@
 | 35 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.47% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.74% |
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
-| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.03% |
+| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.02% |
 | 39 | [Scorn](games/s/scorn.md) | 7.01% |
 | 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.80% |
 | 41 | [Time Loader](games/t/time_loader.md) | 6.78% |
@@ -92,7 +92,7 @@
 | 90 | [Bloodshore](games/b/bloodshore.md) | 2.20% |
 | 91 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
 | 92 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.00% |
-| 93 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 1.95% |
+| 93 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 1.94% |
 | 94 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
 | 95 | [Night Book](games/n/night_book.md) | 1.86% |
 | 96 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
@@ -119,9 +119,9 @@
 | 117 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.03% |
 | 118 | [Adios](games/a/adios.md) | 1.02% |
 | 119 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.01% |
-| 120 | [Sable](games/s/sable.md) | 0.99% |
 | 120 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.99% |
-| 122 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
+| 121 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
+| 121 | [Sable](games/s/sable.md) | 0.98% |
 | 123 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.96% |
 | 124 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 0.94% |
 | 125 | [Hades](games/h/hades.md) | 0.90% |
@@ -192,9 +192,9 @@
 | 190 | [Going Medieval](games/g/going_medieval.md) | 0.20% |
 | 190 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.20% |
 | 192 | [RAILGRADE](games/r/railgrade.md) | 0.19% |
-| 193 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.18% |
 | 193 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.18% |
 | 193 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.18% |
+| 195 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.17% |
 | 196 | [BLACKTAIL](games/b/blacktail.md) | 0.16% |
 | 196 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.16% |
 | 196 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
