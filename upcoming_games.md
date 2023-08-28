@@ -64,6 +64,7 @@
 | [Doomsday Paradise](games/d/doomsday_paradise.md) | 2023-09-30 | - |  | - | - |
 | [Dungeons and Bombs](games/d/dungeons_and_bombs.md) | 2023-09-30 | - |  | - | - |
 | [Ghoul Castle 3D - Gold Edition](games/9/993ca702abc944ce8098d24da7cd03d1.md) | 2023-09-30 | - |  | - | - |
+| [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 2023-09-30 | - |  | - | - |
 | [Inspector Gadget - Mad Time Party](games/i/inspector_gadget_-_mad_time_party.md) | 2023-09-30 | - |  | - | - |
 | [Iron Dungeon](games/i/iron_dungeon.md) | 2023-09-30 | - |  | - | - |
 | [MidEvil](games/c/c5a7105b5a09460b9bc3bfb9c8e5e719.md) | 2023-09-30 | - |  | - | - |
@@ -211,7 +212,7 @@
 | [Elder's Grace - Rise of the Mobley](games/e/elder's_grace_-_rise_of_the_mobley.md) | 2024-03-31 | - |  | - | - |
 | [Gridiron](games/d/d23b008fda0444588998e65e0de39871.md) | 2024-03-31 | - |  | - | - |
 | [TACTICAL BANDITS](games/6/66ad2c3335b34b64ac28f438287766fc.md) | 2024-03-31 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 1,750 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 1,751 | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |
 | [Xenion](games/0/04758c0780e24a16b433fa56456790d9.md) | 2024-06-30 | - |  | - | - |
