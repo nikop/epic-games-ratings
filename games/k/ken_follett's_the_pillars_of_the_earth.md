@@ -35,7 +35,7 @@ Number of Ratings: 368  (23.09.2022)
 | The oath | 9.00% | ~1,338 |
 | The truth revealed | 9.00% | ~1,338 |
 | The End. | 9.00% | ~1,338 |
-| A cry for help | 7.00% | ~1,041 |
+| A cry for help | 8.00% | ~1,190 |
 | Silentium est aureum | 7.00% | ~1,041 |
 | Rebel without a cause | 6.00% | ~892 |
 | Staring contest champion | 5.00% | ~744 |

@@ -4,7 +4,7 @@
   "ProductSlug": "geometric-sniper-z-ef97ef",
   "Ranking_EOS_Progress": 562,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-08-31T00:00:00+00:00",
@@ -25,9 +25,411 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-08-28T19:04:41.1727076+00:00",
+  "TotalAchievements": 50,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACHIEVEMENT_AV_01",
+      "SetID": "b50kim2",
+      "Name": "MISSION 01",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_AV_02",
+      "SetID": "b50kim2",
+      "Name": "MISSION 02",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_AV_03",
+      "SetID": "b50kim2",
+      "Name": "MISSION 03",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_AV_04",
+      "SetID": "b50kim2",
+      "Name": "MISSION 04",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_AV_05",
+      "SetID": "b50kim2",
+      "Name": "MISSION 05",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_AV_06",
+      "SetID": "b50kim2",
+      "Name": "MISSION 06",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_AV_07",
+      "SetID": "b50kim2",
+      "Name": "MISSION 07",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_AV_08",
+      "SetID": "b50kim2",
+      "Name": "MISSION 08",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_AV_09",
+      "SetID": "b50kim2",
+      "Name": "MISSION 09",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_AV_10",
+      "SetID": "b50kim2",
+      "Name": "MISSION 10",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_AV_11",
+      "SetID": "b50kim2",
+      "Name": "MISSION 11",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_AV_12",
+      "SetID": "b50kim2",
+      "Name": "MISSION 12",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_AV_13",
+      "SetID": "b50kim2",
+      "Name": "MISSION 13",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_AV_14",
+      "SetID": "b50kim2",
+      "Name": "MISSION 14",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_AV_15",
+      "SetID": "b50kim2",
+      "Name": "MISSION 15",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_AV_16",
+      "SetID": "b50kim2",
+      "Name": "DISCOVERING THE TRUTH!",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_ME_14",
+      "SetID": "b50kim2",
+      "Name": "THE LAST SAVIOR!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_ME_15",
+      "SetID": "b50kim2",
+      "Name": "I LOVE GS-Z!!!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_MRE_01",
+      "SetID": "b50kim2",
+      "Name": "ZOMBIE KILLER",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_MRE_02",
+      "SetID": "b50kim2",
+      "Name": "THE SAVIOR",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_MRE_03",
+      "SetID": "b50kim2",
+      "Name": "BEST CLIENT",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_MRE_04",
+      "SetID": "b50kim2",
+      "Name": "TIME MASTER",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_MRE_05",
+      "SetID": "b50kim2",
+      "Name": "MY NEW PET",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_MRE_06",
+      "SetID": "b50kim2",
+      "Name": "MY FRIENDS",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_MRE_07",
+      "SetID": "b50kim2",
+      "Name": "Bullseye",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_MR_01",
+      "SetID": "b50kim2",
+      "Name": "MY 1ST REWARD",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_MR_02",
+      "SetID": "b50kim2",
+      "Name": "MY 2ND REWARD",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_MR_03",
+      "SetID": "b50kim2",
+      "Name": "MY 3RD REWARD",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_MR_04",
+      "SetID": "b50kim2",
+      "Name": "MY 4TH REWARD",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_MR_05",
+      "SetID": "b50kim2",
+      "Name": "MY 5TH REWARD",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_MR_06",
+      "SetID": "b50kim2",
+      "Name": "MY 6TH REWARD",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_MR_07",
+      "SetID": "b50kim2",
+      "Name": "MY 7TH REWARD",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_RW_01",
+      "SetID": "b50kim2",
+      "Name": "RUNAWAY 01",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_RW_02",
+      "SetID": "b50kim2",
+      "Name": "RUNAWAY 02",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_RW_03",
+      "SetID": "b50kim2",
+      "Name": "RUNAWAY 03",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_RW_04",
+      "SetID": "b50kim2",
+      "Name": "RUNAWAY 04",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_RW_05",
+      "SetID": "b50kim2",
+      "Name": "RUNAWAY 05",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_RW_06",
+      "SetID": "b50kim2",
+      "Name": "RUNAWAY 06",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_RW_07",
+      "SetID": "b50kim2",
+      "Name": "RUNAWAY 07",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_RW_08",
+      "SetID": "b50kim2",
+      "Name": "RUNAWAY 08",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_RW_09",
+      "SetID": "b50kim2",
+      "Name": "RUNAWAY 09",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_RW_10",
+      "SetID": "b50kim2",
+      "Name": "RUNAWAY 10",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_RW_11",
+      "SetID": "b50kim2",
+      "Name": "RUNAWAY 11",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_RW_12",
+      "SetID": "b50kim2",
+      "Name": "RUNAWAY 12",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_RW_13",
+      "SetID": "b50kim2",
+      "Name": "THE MIGHTY ZOMBIE!!!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_SURV_01",
+      "SetID": "b50kim2",
+      "Name": "SURVIVE MAP 01",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_SURV_02",
+      "SetID": "b50kim2",
+      "Name": "SURVIVE MAP 02",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_SURV_03",
+      "SetID": "b50kim2",
+      "Name": "SURVIVE MAP 03",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_SURV_04",
+      "SetID": "b50kim2",
+      "Name": "SURVIVE MAP 04",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_SURV_ALL",
+      "SetID": "b50kim2",
+      "Name": "I LOVE SURVIVE MODE",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "b50kim2",
@@ -37,8 +439,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-24T21:06:11.7516454+00:00",
-  "LastChanged_Achievements": "2023-08-28T18:05:27.4631576+00:00",
+  "LastChanged_Achievements": "2023-08-28T19:04:41.1727055+00:00",
   "LastUpdate_AppInfo": "2023-08-22T01:36:54.9839151+00:00",
-  "LastUpdate_Ratings": "2023-08-28T18:00:08.0912974+00:00",
-  "LastUpdate_Achievements": "2023-08-28T18:05:27.463162+00:00"
+  "LastUpdate_Ratings": "2023-08-28T18:59:07.3482193+00:00",
+  "LastUpdate_Achievements": "2023-08-28T19:04:41.1761914+00:00"
 }

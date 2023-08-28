@@ -8,14 +8,14 @@
 | The Adventure Begins | 55.00% | ~292 |
 | Swabbie | 40.00% | ~212 |
 | With Great Power… | 39.00% | ~207 |
-| This Belongs in a Museum | 34.00% | ~181 |
-| The Gambit Has Begun | 27.00% | ~143 |
-| Powder Monkey | 25.00% | ~133 |
+| This Belongs in a Museum | 35.00% | ~186 |
+| The Gambit Has Begun | 28.00% | ~149 |
+| Powder Monkey | 26.00% | ~138 |
 | Somewhere Deep in the Lost Caribbean | 22.00% | ~117 |
 | Mirror Mirror on the Wall | 20.00% | ~106 |
+| Buccaneer | 18.00% | ~96 |
+| Pirates Assemble! | 18.00% | ~96 |
 | Fishy Fish | 18.00% | ~96 |
-| Buccaneer | 17.00% | ~90 |
-| Pirates Assemble! | 17.00% | ~90 |
 | Persistent Parasite | 13.00% | ~69 |
 | Seadog | 11.00% | ~58 |
 | All Good Things | 8.00% | ~42 |

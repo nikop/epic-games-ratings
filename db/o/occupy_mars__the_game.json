@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -232,9 +232,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1543,
+  "EOS_Progressed": 1544,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3367,6 +3367,11 @@
       "Time": "2023-08-28T17:05:15.6737835+00:00",
       "NumProgressed": 1543,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-28T19:03:35.3149025+00:00",
+      "NumProgressed": 1544,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3458,7 +3463,7 @@
       "Name": "Zero Waste",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -3554,7 +3559,7 @@
       "Name": "Electrician",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -3626,7 +3631,7 @@
       "Name": "Miner",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -3738,7 +3743,7 @@
       "Name": "Bob The Builder",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -3761,7 +3766,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1543,
+      "Progressed": 1544,
       "Completed": 0
     }
   ],
@@ -3769,8 +3774,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-08-28T18:01:28.2761395+00:00",
-  "LastChanged_Achievements": "2023-08-28T18:04:04.9380964+00:00",
+  "LastChanged_Achievements": "2023-08-28T19:03:35.3149018+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:32.8469898+00:00",
-  "LastUpdate_Ratings": "2023-08-28T18:01:28.2761403+00:00",
-  "LastUpdate_Achievements": "2023-08-28T18:04:04.9381987+00:00"
+  "LastUpdate_Ratings": "2023-08-28T19:00:08.3338797+00:00",
+  "LastUpdate_Achievements": "2023-08-28T19:03:35.3149625+00:00"
 }

@@ -5,7 +5,7 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 13.00% | ~37,829 |
+| The Sort Who Makes an Entrance | 13.00% | ~37,830 |
 | First Class Student | 11.00% | ~32,010 |
 | Troll with the Punches | 11.00% | ~32,010 |
 | The One Who Mastered Memories | 10.00% | ~29,100 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,746 |
 | Collector's Edition | 0.30% | ~873 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,996 (Ranked 43)  
+Progressed: 290,999 (Ranked 43)  
 Completed: 456 (0.16%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,10 +181,10 @@ Completed: 456 (0.16%) (Ranked 196)
 | 2023-08-25 | 290,790 | 455 |
 | 2023-08-26 | 290,865 | 455 |
 | 2023-08-27 | 290,954 | 456 |
-| 2023-08-28 | 290,996 | 456 |
+| 2023-08-28 | 290,999 | 456 |
 ## Awards
 Max (Character Customization): 21,990  (Ranked 17)  
-Sum: 41,676 (Ranked 30)  
+Sum: 41,680 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -193,7 +193,7 @@ Diff (max vs sum): -13
 | This game is Great for Beginners | 999 |
 | This game is Relaxing | 972 |
 | This game is Extremely Fun | 971 |
-| This game has Amazing Storytelling | 963 |
+| This game has Amazing Storytelling | 967 |
 | This game has Diverse Characters | 958 |
 | This game has Amazing Characters | 936 |
 | This game is Highly Recommended | 908 |
@@ -360,4 +360,4 @@ Diff (max vs sum): -13
 | 2023-08-25 | 4.77 | 21,923 | 41,535 |
 | 2023-08-26 | 4.77 | 21,948 | 41,589 |
 | 2023-08-27 | 4.77 | 21,969 | 41,646 |
-| 2023-08-28 | 4.77 | 21,990 | 41,676 |
+| 2023-08-28 | 4.77 | 21,990 | 41,680 |

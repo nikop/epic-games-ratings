@@ -738,9 +738,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 218601,
+  "EOS_Progressed": 218622,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2989,
+  "EOS_NewPlayers": 2995,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8653,6 +8653,11 @@
       "Time": "2023-08-28T18:03:43.8659926+00:00",
       "NumProgressed": 218601,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-28T19:03:20.1351221+00:00",
+      "NumProgressed": 218622,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -8734,9 +8739,9 @@
       "ID": "Chapter4",
       "SetID": "50chcgj",
       "Name": "The demons\u0027 feast",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1749
+      "UsersEstimate": 1968
     },
     {
       "ID": "Chapter5",
@@ -8816,7 +8821,7 @@
       "Name": "The Woman in the High Castle",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1967
+      "UsersEstimate": 1968
     },
     {
       "ID": "DLC1ChooseNecro",
@@ -9064,7 +9069,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6558
+      "UsersEstimate": 6559
     },
     {
       "ID": "DwarfElf15Support",
@@ -9112,7 +9117,7 @@
       "Name": "Sowwy!",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 54650
+      "UsersEstimate": 54656
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -9160,7 +9165,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6558
+      "UsersEstimate": 6559
     },
     {
       "ID": "FollowBraztok",
@@ -9320,7 +9325,7 @@
       "Name": "Team Building Exercise",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1967
+      "UsersEstimate": 1968
     },
     {
       "ID": "SystematicallyStupid",
@@ -9344,7 +9349,7 @@
       "Name": "Oh, when I\u0027ll be level 10...",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1967
+      "UsersEstimate": 1968
     },
     {
       "ID": "WizardEpic",
@@ -9367,21 +9372,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 218601,
+      "Progressed": 218622,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 218601,
+      "Progressed": 218622,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-28T16:02:03.5571775+00:00",
-  "LastChanged_Achievements": "2023-08-28T18:03:43.8659914+00:00",
+  "LastChanged_Achievements": "2023-08-28T19:03:20.1351216+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:41.9661267+00:00",
-  "LastUpdate_Ratings": "2023-08-28T18:02:57.2548185+00:00",
-  "LastUpdate_Achievements": "2023-08-28T18:03:43.8662606+00:00"
+  "LastUpdate_Ratings": "2023-08-28T19:02:08.5936854+00:00",
+  "LastUpdate_Achievements": "2023-08-28T19:03:20.1352854+00:00"
 }

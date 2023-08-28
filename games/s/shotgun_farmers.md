@@ -19,9 +19,9 @@
 | 10K | 29.00% | ~78 |
 | 15K | 27.00% | ~73 |
 | Grave Digger | 23.00% | ~51 |
+| Quick-Draw Pod | 22.00% | ~48 |
 | Professional Survivor | 22.00% | ~48 |
 | Drinking Problem | 21.00% | ~57 |
-| Quick-Draw Pod | 21.00% | ~46 |
 | Pork Chop Express | 17.00% | ~46 |
 | Eggtraordinary | 15.00% | ~40 |
 | This Is My Boomstick | 15.00% | ~33 |

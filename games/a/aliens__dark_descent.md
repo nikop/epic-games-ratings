@@ -7,16 +7,16 @@ Rating: 4.48 (Ranked 597)
 | ---- | ---------- | ----- |
 | This Is Hayes, Pioneer Station, Signing Off | 82.00% | ~2,622 |
 | Snatched Out | 75.00% | ~2,398 |
-| Keep 'Em Coming | 74.00% | ~2,366 |
-| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,142 |
-| Call Me Snake | 63.00% | ~2,014 |
-| Something Lurks Under The Hills | 61.00% | ~1,950 |
-| This Was No Papercut | 60.00% | ~1,918 |
-| The Shrink Hates Me | 57.00% | ~1,822 |
-| People Person | 56.00% | ~1,790 |
-| Use The Bumper, That's What It's For | 53.00% | ~1,694 |
-| First Steps Into Madness | 53.00% | ~1,694 |
-| Colonial Barrels | 51.00% | ~1,630 |
+| Keep 'Em Coming | 74.00% | ~2,367 |
+| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,143 |
+| Call Me Snake | 63.00% | ~2,015 |
+| Something Lurks Under The Hills | 61.00% | ~1,951 |
+| This Was No Papercut | 60.00% | ~1,919 |
+| The Shrink Hates Me | 57.00% | ~1,823 |
+| People Person | 56.00% | ~1,791 |
+| Use The Bumper, That's What It's For | 53.00% | ~1,695 |
+| First Steps Into Madness | 53.00% | ~1,695 |
+| Colonial Barrels | 51.00% | ~1,631 |
 | Harper's Hell | 45.00% | ~1,439 |
 | Making a Stand | 44.00% | ~1,407 |
 | Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,343 |
@@ -29,15 +29,15 @@ Rating: 4.48 (Ranked 597)
 | Deep Into Insanity | 28.00% | ~895 |
 | The Passenger | 27.00% | ~863 |
 | Come on, You Wanna Live Forever? | 26.00% | ~831 |
-| The Spire | 24.00% | ~767 |
-| Stuff Of Nightmares | 23.00% | ~735 |
-| El Riesgo Siempre Vive | 23.00% | ~735 |
-| Excavating The Truth | 21.00% | ~671 |
-| One For Every Occasion | 20.00% | ~639 |
-| Abysmal Horrors | 20.00% | ~639 |
-| Frontliner | 19.00% | ~607 |
-| The Cable Guy | 19.00% | ~607 |
-| Bandage Lover | 18.00% | ~575 |
+| The Spire | 24.00% | ~768 |
+| Stuff Of Nightmares | 23.00% | ~736 |
+| El Riesgo Siempre Vive | 23.00% | ~736 |
+| Excavating The Truth | 21.00% | ~672 |
+| One For Every Occasion | 20.00% | ~640 |
+| Abysmal Horrors | 20.00% | ~640 |
+| Frontliner | 19.00% | ~608 |
+| The Cable Guy | 19.00% | ~608 |
+| Bandage Lover | 18.00% | ~576 |
 | Regicide | 15.00% | ~480 |
 | This Went Smoothly | 13.00% | ~416 |
 | Flawless Victory | 12.00% | ~384 |
@@ -51,7 +51,7 @@ Rating: 4.48 (Ranked 597)
 | Chalk It Up To Experience | 0.80% | ~26 |
 | This Ain't No Picnic | 0.70% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,197 (Ranked 156)  
+Progressed: 3,198 (Ranked 156)  
 Completed: 3 (0.09%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 3 (0.09%) (Ranked 216)
 | 2023-08-25 | 3,186 | 3 |
 | 2023-08-26 | 3,189 | 3 |
 | 2023-08-27 | 3,192 | 3 |
-| 2023-08-28 | 3,197 | 3 |
+| 2023-08-28 | 3,198 | 3 |
 ## Awards
 Max (Great Boss Battles): 26  (Ranked 476)  
 Sum: 26 (Ranked 484)  

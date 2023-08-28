@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 355,
+  "EOS_Progressed": 356,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 244,
+  "EOS_NewPlayers": 245,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 1.97,
   "EosHistory": [
@@ -1111,6 +1111,11 @@
       "Time": "2023-08-28T15:04:04.83632+00:00",
       "NumProgressed": 355,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-28T19:03:26.0341143+00:00",
+      "NumProgressed": 356,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-06-26T21:03:11.1861911+00:00",
@@ -1155,7 +1160,7 @@
       "Name": "Red Skeleton",
       "Percentage": 60,
       "XP": 100,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "YellowSkeleton",
@@ -1170,14 +1175,14 @@
     {
       "ID": "a76l54k",
       "IsBase": true,
-      "Progressed": 355,
+      "Progressed": 356,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-06-27T08:56:55.4742028+00:00",
   "FirstSeenAchievements": "2023-06-15T10:01:05.3060571+00:00",
-  "LastChanged_Achievements": "2023-08-28T18:03:52.0451163+00:00",
+  "LastChanged_Achievements": "2023-08-28T19:03:26.0341135+00:00",
   "LastUpdate_AppInfo": "2023-08-24T17:57:03.5736235+00:00",
-  "LastUpdate_Ratings": "2023-08-28T18:00:26.2993889+00:00",
-  "LastUpdate_Achievements": "2023-08-28T18:03:52.0451363+00:00"
+  "LastUpdate_Ratings": "2023-08-28T18:59:22.0498259+00:00",
+  "LastUpdate_Achievements": "2023-08-28T19:03:26.0341382+00:00"
 }

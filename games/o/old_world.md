@@ -108,6 +108,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Industrial Progress | 0.70% | ~95 |
 | Military Prestige | 0.70% | ~95 |
 | Dualism | 0.70% | ~95 |
+| Revelation | 0.70% | ~95 |
 | Veneration | 0.70% | ~95 |
 | Cimmerian Archer | 0.70% | ~95 |
 | Ambition Victory | 0.70% | ~95 |
@@ -123,7 +124,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage | 0.60% | ~82 |
 | Enlightenment | 0.60% | ~82 |
 | Gnosticism | 0.60% | ~82 |
-| Revelation | 0.60% | ~82 |
 | Kushite Cavalry | 0.60% | ~82 |
 | Ishtar Gate in Babylon | 0.50% | ~68 |
 | Old | 0.50% | ~68 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,632 (Ranked 119)  
+Progressed: 13,634 (Ranked 119)  
 Completed: 5 (0.04%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -433,7 +433,7 @@ Completed: 5 (0.04%) (Ranked 235)
 | 2023-08-25 | 13,563 | 5 |
 | 2023-08-26 | 13,590 | 5 |
 | 2023-08-27 | 13,616 | 5 |
-| 2023-08-28 | 13,632 | 5 |
+| 2023-08-28 | 13,634 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,799 (Ranked 208)  

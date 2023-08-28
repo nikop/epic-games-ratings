@@ -4,7 +4,7 @@
   "ProductSlug": "the-uncertain-last-quiet-day",
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 74,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
@@ -623,9 +623,9 @@
       "ID": "EVERYBODY_LIES",
       "SetID": "2iigf77",
       "Name": "Everybody lies",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 186
+      "UsersEstimate": 191
     },
     {
       "ID": "EVERY_LITTLE_HELPS",
@@ -663,9 +663,9 @@
       "ID": "HANDS_UP",
       "SetID": "2iigf77",
       "Name": "Hands up!",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 276
+      "UsersEstimate": 281
     },
     {
       "ID": "HAPPY_HALLOWEEN",
@@ -695,9 +695,9 @@
       "ID": "I_CAN_DO_A_THING_OR_TWO",
       "SetID": "2iigf77",
       "Name": "I can do a thing or two",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 319
+      "UsersEstimate": 324
     },
     {
       "ID": "LUCKY_DOG",
@@ -767,17 +767,17 @@
       "ID": "QUICK_CHARGE",
       "SetID": "2iigf77",
       "Name": "Quick charge",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 313
+      "UsersEstimate": 319
     },
     {
       "ID": "SHORT_CIRCUIT",
       "SetID": "2iigf77",
       "Name": "Short circuit",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 276
+      "UsersEstimate": 281
     },
     {
       "ID": "SILENT",
@@ -840,8 +840,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-08-28T18:06:56.0426775+00:00",
+  "LastChanged_Achievements": "2023-08-28T19:05:41.9831836+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:26.3070499+00:00",
-  "LastUpdate_Ratings": "2023-08-28T17:57:36.7495709+00:00",
-  "LastUpdate_Achievements": "2023-08-28T18:06:56.0427569+00:00"
+  "LastUpdate_Ratings": "2023-08-28T18:57:33.0581705+00:00",
+  "LastUpdate_Achievements": "2023-08-28T19:05:41.9832116+00:00"
 }

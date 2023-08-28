@@ -4,7 +4,7 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewPlayers": 294,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
@@ -1188,7 +1188,7 @@
       "ID": "Vanilla_TradeTasksTier2",
       "SetID": "27kik8p",
       "Name": "Merchant Lord",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -1253,8 +1253,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-08-28T18:08:51.9078788+00:00",
+  "LastChanged_Achievements": "2023-08-28T19:08:23.1998857+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:25.2500253+00:00",
-  "LastUpdate_Ratings": "2023-08-28T17:57:35.9955114+00:00",
-  "LastUpdate_Achievements": "2023-08-28T18:08:51.9081078+00:00"
+  "LastUpdate_Ratings": "2023-08-28T18:57:32.6827754+00:00",
+  "LastUpdate_Achievements": "2023-08-28T19:08:23.2000487+00:00"
 }

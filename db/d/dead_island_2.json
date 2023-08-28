@@ -4038,9 +4038,9 @@
       "Count": 327
     }
   ],
-  "EOS_Progressed": 667894,
+  "EOS_Progressed": 667939,
   "EOS_Completed": 2084,
-  "EOS_NewPlayers": 5847,
+  "EOS_NewPlayers": 5843,
   "EOS_NewCompleters": 34,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -18503,6 +18503,11 @@
       "Time": "2023-08-28T18:04:25.4793847+00:00",
       "NumProgressed": 667894,
       "NumCompleted": 2084
+    },
+    {
+      "Time": "2023-08-28T19:03:49.2742676+00:00",
+      "NumProgressed": 667939,
+      "NumCompleted": 2084
     }
   ],
   "TotalAchievements": 45,
@@ -18512,9 +18517,9 @@
       "ID": "ach_a_day_in_the_beach",
       "SetID": "7km39fm",
       "Name": "Dr. Reed, I Presume?",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2004
+      "UsersEstimate": 2672
     },
     {
       "ID": "ach_a_taste_of_stardom",
@@ -18672,9 +18677,9 @@
       "ID": "ach_hotel_california",
       "SetID": "7km39fm",
       "Name": "Hotel California",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2672
+      "UsersEstimate": 3340
     },
     {
       "ID": "ach_impressive_aim",
@@ -18850,7 +18855,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3339
+      "UsersEstimate": 3340
     },
     {
       "ID": "ach_well_known_survivor",
@@ -18873,7 +18878,7 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 667894,
+      "Progressed": 667939,
       "Completed": 2084
     }
   ],
@@ -18881,8 +18886,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-08-28T14:02:06.8843337+00:00",
-  "LastChanged_Achievements": "2023-08-28T18:04:25.4793841+00:00",
+  "LastChanged_Achievements": "2023-08-28T19:03:49.274267+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:11.0440218+00:00",
-  "LastUpdate_Ratings": "2023-08-28T18:02:41.1271288+00:00",
-  "LastUpdate_Achievements": "2023-08-28T18:04:25.4795138+00:00"
+  "LastUpdate_Ratings": "2023-08-28T19:00:58.4977973+00:00",
+  "LastUpdate_Achievements": "2023-08-28T19:03:49.2744199+00:00"
 }

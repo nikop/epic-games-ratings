@@ -22,8 +22,8 @@ Number of Ratings: 285  (23.09.2022)
 | Horder Better Faster Stronger | 1.00% | ~10 |
 | Season Finale | 1.00% | ~10 |
 | Spending Spree | 1.00% | ~10 |
+| Next Time on MythForce... | 0.90% | ~9 |
 | The Harder They Fall | 0.80% | ~8 |
-| Next Time on MythForce... | 0.80% | ~8 |
 | On this Episode! | 0.80% | ~8 |
 | The Fourth Gate | 0.70% | ~7 |
 | We've Got a Kaiju on the Field | 0.20% | ~2 |

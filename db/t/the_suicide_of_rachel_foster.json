@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1410,
+  "EOS_Progressed": 1411,
   "EOS_Completed": 68,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.82,
   "EosHistory": [
@@ -2288,6 +2288,11 @@
       "Time": "2023-08-28T10:04:49.7361949+00:00",
       "NumProgressed": 1410,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2023-08-28T19:04:46.8628829+00:00",
+      "NumProgressed": 1411,
+      "NumCompleted": 68
     }
   ],
   "TotalAchievements": 11,
@@ -2299,7 +2304,7 @@
       "Name": "Cutepie",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "ACH_BloccatoInGhiacciaia",
@@ -2315,7 +2320,7 @@
       "Name": "Screwdriver",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "ACH_DialogoAspettoFisico",
@@ -2347,7 +2352,7 @@
       "Name": "All together, again",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "ACH_PrendiTuttiOggetti",
@@ -2371,7 +2376,7 @@
       "Name": "Someone was here",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "ACH_SussurriHotel",
@@ -2379,22 +2384,22 @@
       "Name": "Ghost Hunters",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     }
   ],
   "AchievementSets": [
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1410,
+      "Progressed": 1411,
       "Completed": 68
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-08-04T14:01:27.152223+00:00",
-  "LastChanged_Achievements": "2023-08-28T18:05:35.7538748+00:00",
+  "LastChanged_Achievements": "2023-08-28T19:04:46.8628824+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:29.5048701+00:00",
-  "LastUpdate_Ratings": "2023-08-28T17:59:03.7800062+00:00",
-  "LastUpdate_Achievements": "2023-08-28T18:05:35.7539096+00:00"
+  "LastUpdate_Ratings": "2023-08-28T18:58:24.2409094+00:00",
+  "LastUpdate_Achievements": "2023-08-28T19:04:46.8629082+00:00"
 }

@@ -51,6 +51,7 @@
 | The Darkness Within | 1.00% | ~1 |
 | Ruiner | 1.00% | ~1 |
 | Wyrmslayer | 1.00% | ~1 |
+| Merchant Lord | 1.00% | ~1 |
 | Voracity Confronted | 1.00% | ~1 |
 | Insectoid Propagator | 1.00% | ~1 |
 | Watcher | 0.70% | ~1 |
@@ -63,7 +64,6 @@
 | Despoiler | 0.70% | ~1 |
 | Celebrity | 0.70% | ~1 |
 | Arcanite | 0.70% | ~1 |
-| Merchant Lord | 0.70% | ~1 |
 | Glorious leader | 0.70% | ~1 |
 | Liberator | 0.00% | ~0 |
 | For the Cause! | 0.00% | ~0 |

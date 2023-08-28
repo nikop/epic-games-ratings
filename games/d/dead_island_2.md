@@ -5,14 +5,14 @@ Rating: 4.54 (Ranked 501)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 0.50% | ~3,339 |
+| Hotel California | 0.50% | ~3,340 |
+| Welcome To Hell-A | 0.50% | ~3,340 |
+| Dr. Reed, I Presume? | 0.40% | ~2,672 |
 | Git Gutte! | 0.40% | ~2,672 |
 | Break A Leg | 0.40% | ~2,672 |
 | Coup de Grâce | 0.40% | ~2,672 |
 | Hazardous Materials | 0.40% | ~2,672 |
-| Hotel California | 0.40% | ~2,672 |
 | Personal Assistant Personally Assisted | 0.40% | ~2,672 |
-| Dr. Reed, I Presume? | 0.30% | ~2,004 |
 | Bookworm | 0.30% | ~2,004 |
 | But Doctor, I am Butcho | 0.30% | ~2,004 |
 | Slayer Squad | 0.30% | ~2,004 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 501)
 | Rising Star | 0.10% | ~668 |
 | Bucket List | 0.10% | ~668 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 667,894 (Ranked 22)  
+Progressed: 667,939 (Ranked 22)  
 Completed: 2,084 (0.31%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 2,084 (0.31%) (Ranked 173)
 | 2023-08-25 | 665,272 | 2,068 |
 | 2023-08-26 | 666,250 | 2,078 |
 | 2023-08-27 | 667,273 | 2,082 |
-| 2023-08-28 | 667,894 | 2,084 |
+| 2023-08-28 | 667,939 | 2,084 |
 ## Awards
 Max (Great Boss Battles): 5,791  (Ranked 61)  
 Sum: 8,530 (Ranked 97)  

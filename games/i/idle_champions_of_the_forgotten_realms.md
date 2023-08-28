@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 927)  
+Rating: 4.06 (Ranked 926)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -48,11 +48,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Best Thay Ever | 0.20% | ~384 |
 | Vecna Lives! | 0.20% | ~384 |
 | Vecna Loots! | 0.20% | ~384 |
+| Friends of the Forest | 0.20% | ~451 |
 | Return to the Tomb | 0.20% | ~384 |
 | Heatwave | 0.20% | ~384 |
 | The Dread Domain of Tovag | 0.20% | ~384 |
 | The Castle of a Thousand Vecnas | 0.20% | ~384 |
 | The Sanctum of the Sword | 0.20% | ~384 |
+| Get Back In The Castle | 0.20% | ~384 |
 | Who Lurks Below? | 0.20% | ~384 |
 | Xanathaaaaaaar! | 0.20% | ~384 |
 | Homecoming | 0.20% | ~451 |
@@ -60,6 +62,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Welcome to the Rock | 0.20% | ~384 |
 | Beast Mode | 0.20% | ~451 |
 | The Forbidden City | 0.20% | ~451 |
+| Captured! | 0.20% | ~451 |
 | Low Initiative | 0.20% | ~451 |
 | Street War | 0.20% | ~451 |
 | Force Grey Unleashed | 0.20% | ~451 |
@@ -203,7 +206,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overwhelmed with Knowledge | 0.10% | ~192 |
 | A Demi-god's Defender | 0.10% | ~192 |
 | Well Equipped | 0.10% | ~192 |
-| Friends of the Forest | 0.10% | ~226 |
 | More Than Well Equipped | 0.10% | ~192 |
 | Arcane Efforts | 0.10% | ~192 |
 | Keep Your Distance | 0.10% | ~192 |
@@ -214,7 +216,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Clumsy Doesn't Mean Inept | 0.10% | ~192 |
 | Unreasonable Doesn't Mean Stupid | 0.10% | ~192 |
 | Kas the Bloody Handed | 0.10% | ~192 |
-| Get Back In The Castle | 0.10% | ~192 |
 | Kas the Destroyer | 0.10% | ~192 |
 | Checkmate | 0.10% | ~192 |
 | Pin and Skewer | 0.10% | ~192 |
@@ -242,7 +243,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Periodic Petrification | 0.10% | ~226 |
 | No Good at All | 0.10% | ~226 |
 | Fall From Grace | 0.10% | ~226 |
-| Captured! | 0.10% | ~226 |
 | Home Field Advantage | 0.10% | ~226 |
 | Double Vision | 0.10% | ~226 |
 | Underground Railroad | 0.10% | ~226 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~192 |
 | Animated Giff | 0.10% | ~192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,733 (Ranked 53)  
+Progressed: 225,746 (Ranked 53)  
 Completed: 2,223 (0.98%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -653,7 +653,7 @@ Completed: 2,223 (0.98%) (Ranked 122)
 | 2023-08-25 | 224,925 | 2,214 |
 | 2023-08-26 | 225,221 | 2,219 |
 | 2023-08-27 | 225,526 | 2,222 |
-| 2023-08-28 | 225,733 | 2,223 |
+| 2023-08-28 | 225,746 | 2,223 |
 ## Awards
 Max (Diverse Characters): 5,202  (Ranked 68)  
 Sum: 31,265 (Ranked 39)  

@@ -2,12 +2,12 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 927,
+  "Ranking_Rating": 926,
   "Ranking_Popularity": 68,
   "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 40,
+  "Ranking_EOS_NewPlayers": 39,
   "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -6166,9 +6166,9 @@
       "Count": 3380
     }
   ],
-  "EOS_Progressed": 225733,
+  "EOS_Progressed": 225746,
   "EOS_Completed": 2223,
-  "EOS_NewPlayers": 1793,
+  "EOS_NewPlayers": 1792,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -20446,6 +20446,11 @@
       "Time": "2023-08-28T18:08:57.2544786+00:00",
       "NumProgressed": 225733,
       "NumCompleted": 2223
+    },
+    {
+      "Time": "2023-08-28T19:08:27.3466552+00:00",
+      "NumProgressed": 225746,
+      "NumCompleted": 2223
     }
   ],
   "TotalAchievements": 516,
@@ -21175,9 +21180,9 @@
       "ID": "objective_completed_117",
       "SetID": "cc37lbc",
       "Name": "Friends of the Forest",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 226
+      "UsersEstimate": 451
     },
     {
       "ID": "objective_completed_1170",
@@ -21303,9 +21308,9 @@
       "ID": "objective_completed_1198",
       "SetID": "415jc5c",
       "Name": "Get Back In The Castle",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 384
     },
     {
       "ID": "objective_completed_1199",
@@ -21607,9 +21612,9 @@
       "ID": "objective_completed_154",
       "SetID": "cc37lbc",
       "Name": "Captured!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 226
+      "UsersEstimate": 451
     },
     {
       "ID": "objective_completed_155",
@@ -24584,21 +24589,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 192007,
+      "Progressed": 192020,
       "Completed": 3323
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 225733,
+      "Progressed": 225746,
       "Completed": 2223
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-28T16:00:45.5990767+00:00",
-  "LastChanged_Achievements": "2023-08-28T18:08:57.254478+00:00",
+  "LastChanged_Achievements": "2023-08-28T19:08:27.3466545+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:53.3345914+00:00",
-  "LastUpdate_Ratings": "2023-08-28T18:02:23.6469281+00:00",
-  "LastUpdate_Achievements": "2023-08-28T18:08:57.2579058+00:00"
+  "LastUpdate_Ratings": "2023-08-28T19:00:45.434191+00:00",
+  "LastUpdate_Achievements": "2023-08-28T19:08:27.3500889+00:00"
 }
