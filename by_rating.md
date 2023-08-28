@@ -591,7 +591,7 @@
 | 580 | [Mars Horizon](games/m/mars_horizon.md) | 4.49 | 0 | 514 |
 | 580 | [MythForce](games/m/mythforce.md) | 4.49 | 32 | 456 |
 | 580 | [Ratchet & Clank: Rift Apart](games/0/046aeb7098b94ac3961dad6c5dbe68c0.md) | 4.49 | 0 | 514 |
-| 580 | [Rocket League®](games/r/rocket_league®.md) | 4.49 | 511,682 | 2 |
+| 580 | [Rocket League®](games/r/rocket_league®.md) | 4.49 | 512,415 | 2 |
 | 580 | [Solitairica](games/s/solitairica.md) | 4.49 | 84 | 360 |
 | 580 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 0 | 514 |
 | 580 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.49 | 0 | 514 |
@@ -772,26 +772,26 @@
 | 770 | [Ashen](games/a/ashen.md) | 4.33 | 0 | 514 |
 | 770 | [Beyond Blue](games/b/beyond_blue.md) | 4.33 | 0 | 514 |
 | 770 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 120 | 321 |
+| 770 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 0 | 514 |
 | 770 | [House Party](games/h/house_party.md) | 4.33 | 0 | 514 |
 | 770 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.33 | 0 | 514 |
 | 770 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 514 |
 | 770 | [Rogue Company](games/r/rogue_company.md) | 4.33 | 5,315 | 66 |
 | 770 | [Speed Brawl](games/s/speed_brawl.md) | 4.33 | 29 | 464 |
 | 770 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.33 | 1,538 | 121 |
-| 779 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 357 | 226 |
-| 779 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.32 | 60 | 391 |
-| 779 | [Filament](games/f/filament.md) | 4.32 | 561 | 190 |
-| 779 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.32 | 22 | 495 |
-| 779 | [Parkitect](games/p/parkitect.md) | 4.32 | 0 | 514 |
-| 779 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 0 | 514 |
-| 779 | [Vampyr](games/v/vampyr.md) | 4.32 | 555 | 193 |
-| 786 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 514 |
-| 786 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.31 | 0 | 514 |
-| 786 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.31 | 0 | 514 |
-| 786 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.31 | 0 | 514 |
-| 786 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.31 | 79 | 363 |
-| 786 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 963 | 147 |
-| 786 | [Scrapnaut](games/s/scrapnaut.md) | 4.31 | 0 | 514 |
+| 780 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 357 | 226 |
+| 780 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.32 | 60 | 391 |
+| 780 | [Filament](games/f/filament.md) | 4.32 | 561 | 190 |
+| 780 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.32 | 22 | 495 |
+| 780 | [Parkitect](games/p/parkitect.md) | 4.32 | 0 | 514 |
+| 780 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 0 | 514 |
+| 780 | [Vampyr](games/v/vampyr.md) | 4.32 | 555 | 193 |
+| 787 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 514 |
+| 787 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.31 | 0 | 514 |
+| 787 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.31 | 0 | 514 |
+| 787 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.31 | 79 | 363 |
+| 787 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 963 | 147 |
+| 787 | [Scrapnaut](games/s/scrapnaut.md) | 4.31 | 0 | 514 |
 | 793 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 0 | 514 |
 | 793 | [Hammerting](games/h/hammerting.md) | 4.30 | 0 | 514 |
 | 793 | [Hellpoint](games/h/hellpoint.md) | 4.30 | 0 | 514 |
