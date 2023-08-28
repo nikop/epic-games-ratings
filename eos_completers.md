@@ -11,7 +11,7 @@
 | 9 | [Overloop](games/o/overloop.md) | 25.00% |
 | 10 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 24.59% |
 | 11 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 12 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.78% |
+| 12 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.61% |
 | 13 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 13 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 19.71% |
@@ -42,7 +42,7 @@
 | 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.80% |
 | 41 | [Time Loader](games/t/time_loader.md) | 6.78% |
 | 42 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 6.67% |
-| 43 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.64% |
+| 43 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.61% |
 | 44 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.35% |
 | 44 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 46 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -61,7 +61,7 @@
 | 59 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.18% |
 | 60 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
 | 61 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.08% |
-| 62 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.96% |
+| 62 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.99% |
 | 63 | [ZZT!](games/z/zzt!.md) | 3.87% |
 | 64 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 65 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
@@ -156,9 +156,9 @@
 | 152 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.46% |
 | 155 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.45% |
 | 155 | [Train Valley](games/t/train_valley.md) | 0.45% |
-| 157 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.44% |
-| 158 | [Tails of Iron](games/t/tails_of_iron.md) | 0.43% |
-| 158 | [Tchia](games/t/tchia.md) | 0.43% |
+| 157 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.43% |
+| 157 | [Tails of Iron](games/t/tails_of_iron.md) | 0.43% |
+| 157 | [Tchia](games/t/tchia.md) | 0.43% |
 | 160 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 161 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.38% |
 | 161 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
@@ -270,6 +270,7 @@
 | 265 | [A Tale of Paper: Refolded](games/a/a_tale_of_paper__refolded.md) | 0.00% |
 | 265 | [Ad Infinitum](games/a/ad_infinitum.md) | 0.00% |
 | 265 | [Aerial Platforms](games/e/ea6b00889ce34487bdc4b03fa35dd8f3.md) | 0.00% |
+| 265 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 0.00% |
 | 265 | [ANNO Mutationem](games/a/anno_mutationem.md) | 0.00% |
 | 265 | [Apotheorasis • Lab of the Blind Gods](games/a/apotheorasis_•_lab_of_the_blind_gods.md) | 0.00% |
 | 265 | [Arcade Paradise](games/a/arcade_paradise.md) | 0.00% |

@@ -383,7 +383,7 @@
 | 367 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 676 | 171 |
 | 367 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 105 | 331 |
 | 367 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 489 | 199 |
-| 367 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 9,891 | 37 |
+| 367 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 9,901 | 37 |
 | 367 | [RiME](games/r/rime.md) | 4.61 | 0 | 514 |
 | 367 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,074 | 139 |
 | 367 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 280 | 243 |
@@ -428,7 +428,7 @@
 | 414 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 710 | 168 |
 | 414 | [Wall World](games/w/wall_world.md) | 4.59 | 0 | 514 |
 | 428 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.58 | 0 | 514 |
-| 428 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 60,447 | 11 |
+| 428 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 60,482 | 11 |
 | 428 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 162 | 292 |
 | 428 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 0 | 514 |
 | 428 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 258 | 251 |
@@ -716,6 +716,7 @@
 | 714 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.39 | 0 | 514 |
 | 714 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 1,017 | 144 |
 | 714 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 0 | 514 |
+| 714 | [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 4.39 | 0 | 514 |
 | 714 | [MORDHAU](games/m/mordhau.md) | 4.39 | 554 | 194 |
 | 714 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 171 | 288 |
 | 714 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,749 | 32 |
@@ -725,23 +726,22 @@
 | 714 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 332 | 230 |
 | 714 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.39 | 139 | 307 |
 | 714 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.39 | 105 | 331 |
-| 726 | [Assassin's Creed Chronicles: India](games/a/assassin's_creed_chronicles__india.md) | 4.38 | 0 | 514 |
-| 726 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 0 | 514 |
-| 726 | [Beholder 3](games/b/beholder_3.md) | 4.38 | 0 | 514 |
-| 726 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 0 | 514 |
-| 726 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 574 | 185 |
-| 726 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 164 | 290 |
-| 726 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.38 | 0 | 514 |
-| 726 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.38 | 73 | 375 |
-| 726 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 514 |
-| 726 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.38 | 0 | 514 |
-| 736 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 0 | 514 |
-| 736 | [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 4.37 | 0 | 514 |
-| 736 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,149 | 108 |
-| 736 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 514 |
-| 736 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.37 | 53 | 396 |
-| 736 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.37 | 0 | 514 |
-| 736 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 32 | 456 |
+| 727 | [Assassin's Creed Chronicles: India](games/a/assassin's_creed_chronicles__india.md) | 4.38 | 0 | 514 |
+| 727 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 0 | 514 |
+| 727 | [Beholder 3](games/b/beholder_3.md) | 4.38 | 0 | 514 |
+| 727 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 0 | 514 |
+| 727 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 575 | 185 |
+| 727 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 164 | 290 |
+| 727 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.38 | 0 | 514 |
+| 727 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.38 | 73 | 375 |
+| 727 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 514 |
+| 727 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.38 | 0 | 514 |
+| 737 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 0 | 514 |
+| 737 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,149 | 108 |
+| 737 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 514 |
+| 737 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.37 | 53 | 396 |
+| 737 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.37 | 0 | 514 |
+| 737 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 32 | 456 |
 | 743 | [Core](games/c/core.md) | 4.36 | 747 | 164 |
 | 743 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 173 | 286 |
 | 743 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,645 | 30 |
