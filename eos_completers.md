@@ -3,7 +3,7 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.00% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.31% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 38.10% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 36.92% |
 | 5 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 33.33% |
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.95% |
 | 7 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
@@ -30,7 +30,7 @@
 | 28 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.71% |
 | 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.29% |
 | 30 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
-| 31 | [Sonic Origins](games/s/sonic_origins.md) | 9.24% |
+| 31 | [Sonic Origins](games/s/sonic_origins.md) | 9.22% |
 | 32 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
 | 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.92% |
 | 34 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.89% |
@@ -74,9 +74,9 @@
 | 72 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.11% |
 | 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.09% |
 | 74 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.01% |
-| 75 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.94% |
-| 76 | [Monster Harvest](games/m/monster_harvest.md) | 2.93% |
-| 76 | [MultiVersus](games/m/multiversus.md) | 2.93% |
+| 75 | [Monster Harvest](games/m/monster_harvest.md) | 2.93% |
+| 75 | [MultiVersus](games/m/multiversus.md) | 2.93% |
+| 75 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.93% |
 | 78 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.80% |
 | 79 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.74% |
 | 80 | [Destiny 2](games/d/destiny_2.md) | 2.73% |
@@ -92,7 +92,7 @@
 | 90 | [Bloodshore](games/b/bloodshore.md) | 2.20% |
 | 91 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
 | 92 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.00% |
-| 93 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 1.97% |
+| 93 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 1.95% |
 | 94 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
 | 95 | [Night Book](games/n/night_book.md) | 1.86% |
 | 96 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
@@ -179,9 +179,9 @@
 | 177 | [Against the Storm](games/a/against_the_storm.md) | 0.29% |
 | 177 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
 | 179 | [Scrapnaut](games/s/scrapnaut.md) | 0.28% |
+| 179 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.28% |
 | 179 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.28% |
-| 181 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
-| 181 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.25% |
+| 182 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
 | 183 | [Despot's Game](games/d/despot's_game.md) | 0.24% |
 | 183 | [Filament](games/f/filament.md) | 0.24% |
 | 185 | [Blanc](games/b/blanc.md) | 0.23% |
@@ -560,4 +560,4 @@
 | 265 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 265 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 265 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,125 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,127 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
