@@ -312,9 +312,9 @@ foreach (var month in items.Where(x => x.Store.ReleaseDate != null).GroupBy(x =>
         .ThenBy(x => x.Name);
 
     await File.WriteAllTextAsync(
-        Path.Combine(path, $"achievements/${key}.md"),
+        Path.Combine(path, $"achievements/{key}.md"),
         nameDateTable.FormatTable(
-            items
+            achievementGames
                 .Where(x => x.AchievementsAdded != null)
                 .OrderByDescending(x => x.AchievementsAdded)
                 .ThenBy(x => x.Name)
