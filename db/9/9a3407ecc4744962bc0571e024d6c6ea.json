@@ -700,9 +700,9 @@
       "ID": "Cartographer",
       "SetID": "3ai6ml8",
       "Name": "Cartographer",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 150
+      "UsersEstimate": 154
     },
     {
       "ID": "Causality",
@@ -724,9 +724,9 @@
       "ID": "DarkestBeforeTheDawn",
       "SetID": "3ai6ml8",
       "Name": "Darkest Before the Dawn",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 141
+      "UsersEstimate": 145
     },
     {
       "ID": "DrinkingOnTheJob",
@@ -748,17 +748,17 @@
       "ID": "EverythingIsDust",
       "SetID": "3ai6ml8",
       "Name": "Everything is Dust",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 82
+      "UsersEstimate": 86
     },
     {
       "ID": "LightsOut",
       "SetID": "3ai6ml8",
       "Name": "Lights Out",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 195
+      "UsersEstimate": 200
     },
     {
       "ID": "MiCasaSuCasa",
@@ -828,9 +828,9 @@
       "ID": "WelcomeToFortSolis",
       "SetID": "3ai6ml8",
       "Name": "Welcome to Fort Solis",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 395
+      "UsersEstimate": 400
     }
   ],
   "AchievementSets": [
@@ -843,8 +843,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-08-28T13:08:40.5217918+00:00",
+  "LastChanged_Achievements": "2023-08-28T14:04:28.2944046+00:00",
   "LastUpdate_AppInfo": "2023-08-23T13:00:58.5941376+00:00",
-  "LastUpdate_Ratings": "2023-08-28T13:03:10.5989719+00:00",
-  "LastUpdate_Achievements": "2023-08-28T13:08:40.5218106+00:00"
+  "LastUpdate_Ratings": "2023-08-28T13:58:37.4334348+00:00",
+  "LastUpdate_Achievements": "2023-08-28T14:04:28.2944205+00:00"
 }

@@ -10,7 +10,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | A Spark | 17.00% | ~1,889 |
 | Burning City | 16.00% | ~1,778 |
 | Defender's Heart | 14.00% | ~1,556 |
-| Mythic Choices | 13.00% | ~1,444 |
+| Mythic Choices | 13.00% | ~1,445 |
 | Banner over the Citadel | 12.00% | ~1,333 |
 | Queen's Gratitude | 11.00% | ~1,222 |
 | Fifth Crusade | 7.00% | ~778 |
@@ -56,7 +56,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Playful Mood | 0.70% | ~78 |
 | Dreadful Dragon | 0.70% | ~78 |
 | Masterful Charge | 0.60% | ~67 |
-| Prelate's Nemesis | 0.50% | ~56 |
+| Prelate's Nemesis | 0.40% | ~44 |
 | Masterful Dispel | 0.30% | ~33 |
 | Just Pathetic | 0.30% | ~33 |
 | Ashes to Ashes | 0.30% | ~33 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,111 (Ranked 123)  
+Progressed: 11,112 (Ranked 123)  
 Completed: 0 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,7 +253,7 @@ Completed: 0 (0.00%) (Ranked 265)
 | 2023-08-25 | 11,071 | 0 |
 | 2023-08-26 | 11,088 | 0 |
 | 2023-08-27 | 11,106 | 0 |
-| 2023-08-28 | 11,111 | 0 |
+| 2023-08-28 | 11,112 | 0 |
 ## Awards
 Max (Character Customization): 1,703  (Ranked 118)  
 Sum: 6,906 (Ranked 114)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -969,9 +969,9 @@
       "ID": "ach_buzz",
       "SetID": "b8gh1fi",
       "Name": "Campaign Launch",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 140
     },
     {
       "ID": "ach_campaigns_1",
@@ -1594,8 +1594,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-08-28T13:10:43.2736553+00:00",
+  "LastChanged_Achievements": "2023-08-28T14:07:17.713662+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:43.0732333+00:00",
-  "LastUpdate_Ratings": "2023-08-28T13:05:14.8978856+00:00",
-  "LastUpdate_Achievements": "2023-08-28T13:10:43.2737569+00:00"
+  "LastUpdate_Ratings": "2023-08-28T14:01:26.8191371+00:00",
+  "LastUpdate_Achievements": "2023-08-28T14:07:17.7137638+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 130,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -495,9 +495,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14865,
+  "EOS_Progressed": 14867,
   "EOS_Completed": 110,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -9060,6 +9060,11 @@
       "Time": "2023-08-28T13:10:28.0104649+00:00",
       "NumProgressed": 14865,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2023-08-28T14:06:57.2638335+00:00",
+      "NumProgressed": 14867,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 41,
@@ -9069,9 +9074,9 @@
       "ID": "tpote_achievement_1",
       "SetID": "3jcf6c3",
       "Name": "Good midwife",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1635
+      "UsersEstimate": 1487
     },
     {
       "ID": "tpote_achievement_10",
@@ -9111,7 +9116,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4905
+      "UsersEstimate": 4906
     },
     {
       "ID": "tpote_achievement_15",
@@ -9159,7 +9164,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 4905
+      "UsersEstimate": 4906
     },
     {
       "ID": "tpote_achievement_20",
@@ -9215,7 +9220,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1932
+      "UsersEstimate": 1933
     },
     {
       "ID": "tpote_achievement_27",
@@ -9255,7 +9260,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1486
+      "UsersEstimate": 1487
     },
     {
       "ID": "tpote_achievement_31",
@@ -9285,9 +9290,9 @@
       "ID": "tpote_achievement_34",
       "SetID": "3jcf6c3",
       "Name": "A cry for help",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1189
+      "UsersEstimate": 1041
     },
     {
       "ID": "tpote_achievement_35",
@@ -9383,7 +9388,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3270
+      "UsersEstimate": 3271
     },
     {
       "ID": "tpote_achievement_9",
@@ -9398,15 +9403,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14865,
+      "Progressed": 14867,
       "Completed": 110
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-08-03T13:08:30.3350415+00:00",
-  "LastChanged_Achievements": "2023-08-28T13:10:28.0104642+00:00",
+  "LastChanged_Achievements": "2023-08-28T14:06:57.2638329+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:35.7712512+00:00",
-  "LastUpdate_Ratings": "2023-08-28T13:03:17.1823227+00:00",
-  "LastUpdate_Achievements": "2023-08-28T13:10:28.0105416+00:00"
+  "LastUpdate_Ratings": "2023-08-28T13:58:45.8934384+00:00",
+  "LastUpdate_Achievements": "2023-08-28T14:06:57.2639045+00:00"
 }

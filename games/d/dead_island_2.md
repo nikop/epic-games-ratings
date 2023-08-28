@@ -5,9 +5,11 @@ Rating: 4.54 (Ranked 501)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break A Leg | 0.40% | ~2,670 |
-| Hotel California | 0.40% | ~2,670 |
-| Welcome To Hell-A | 0.40% | ~2,670 |
+| Break A Leg | 0.40% | ~2,671 |
+| Hazardous Materials | 0.40% | ~2,671 |
+| Hotel California | 0.40% | ~2,671 |
+| Personal Assistant Personally Assisted | 0.40% | ~2,671 |
+| Welcome To Hell-A | 0.40% | ~2,671 |
 | Dr. Reed, I Presume? | 0.30% | ~2,003 |
 | Git Gutte! | 0.30% | ~2,003 |
 | Bookworm | 0.30% | ~2,003 |
@@ -16,13 +18,11 @@ Rating: 4.54 (Ranked 501)
 | Can't Handle the Truth | 0.30% | ~2,003 |
 | Coup de Grâce | 0.30% | ~2,003 |
 | Like Riding a Bike | 0.30% | ~2,003 |
-| Hazardous Materials | 0.30% | ~2,003 |
 | Friends Like These | 0.30% | ~2,003 |
 | Apex Predator | 0.30% | ~2,003 |
 | Zombologist | 0.30% | ~2,003 |
 | A Patton Emerges | 0.30% | ~2,003 |
 | Stacking the Deck | 0.30% | ~2,003 |
-| Personal Assistant Personally Assisted | 0.30% | ~2,003 |
 | This is My Weapon | 0.30% | ~2,003 |
 | Making Your Mark | 0.20% | ~1,335 |
 | Anger Management | 0.20% | ~1,335 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 501)
 | Rising Star | 0.10% | ~668 |
 | Bucket List | 0.10% | ~668 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 667,615 (Ranked 22)  
+Progressed: 667,668 (Ranked 22)  
 Completed: 2,083 (0.31%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,16 +181,16 @@ Completed: 2,083 (0.31%) (Ranked 173)
 | 2023-08-25 | 665,272 | 2,068 |
 | 2023-08-26 | 666,250 | 2,078 |
 | 2023-08-27 | 667,273 | 2,082 |
-| 2023-08-28 | 667,615 | 2,083 |
+| 2023-08-28 | 667,668 | 2,083 |
 ## Awards
 Max (Great Boss Battles): 5,791  (Ranked 61)  
-Sum: 8,529 (Ranked 97)  
+Sum: 8,530 (Ranked 97)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 5,791 |
 | This game is Great for Beginners | 387 |
-| This game has Quickly Understood Controls | 378 |
+| This game has Quickly Understood Controls | 379 |
 | This game has Diverse Characters | 372 |
 | This game is Relaxing | 358 |
 | This game has Amazing Storytelling | 327 |
@@ -329,4 +329,4 @@ Diff (max vs sum): -36
 | 2023-08-25 | 4.54 | 5,753 | 8,469 |
 | 2023-08-26 | 4.54 | 5,770 | 8,490 |
 | 2023-08-27 | 4.54 | 5,783 | 8,515 |
-| 2023-08-28 | 4.54 | 5,791 | 8,529 |
+| 2023-08-28 | 4.54 | 5,791 | 8,530 |

@@ -13,12 +13,12 @@ Rating: 4.77 (Ranked 109)
 | The Defender of Dragons | 10.00% | ~29,098 |
 | A Keen Sense of Spell | 10.00% | ~29,098 |
 | A Talent for Spending | 10.00% | ~29,098 |
+| Coasting Along | 10.00% | ~29,098 |
 | That's a Keeper | 10.00% | ~29,098 |
-| Grappling with a Graphorn | 9.00% | ~26,188 |
-| The Hero of Hogwarts | 9.00% | ~26,188 |
-| Challenge Accepted | 9.00% | ~26,188 |
-| Loom for Improvement | 9.00% | ~26,188 |
-| Coasting Along | 9.00% | ~26,188 |
+| Grappling with a Graphorn | 9.00% | ~26,189 |
+| The Hero of Hogwarts | 9.00% | ~26,189 |
+| Challenge Accepted | 9.00% | ~26,189 |
+| Loom for Improvement | 9.00% | ~26,189 |
 | Followed the Butterflies | 8.00% | ~23,279 |
 | The Spell Master | 8.00% | ~23,279 |
 | Rising From the Ashes | 8.00% | ~23,279 |
@@ -36,8 +36,8 @@ Rating: 4.77 (Ranked 109)
 | The Intrepid Explorer | 4.00% | ~11,639 |
 | The Gryffindor in the Graveyard | 4.00% | ~11,639 |
 | The Ends Petrify the Means | 4.00% | ~11,639 |
-| Floo Around the World | 3.00% | ~8,729 |
-| The Wise Owl | 3.00% | ~8,729 |
+| Floo Around the World | 3.00% | ~8,730 |
+| The Wise Owl | 3.00% | ~8,730 |
 | The Good Samaritan | 2.00% | ~5,820 |
 | Put Down Roots | 2.00% | ~5,820 |
 | The Auror's Apprentice | 2.00% | ~5,820 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,746 |
 | Collector's Edition | 0.30% | ~873 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,983 (Ranked 43)  
+Progressed: 290,984 (Ranked 43)  
 Completed: 456 (0.16%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 456 (0.16%) (Ranked 196)
 | 2023-08-25 | 290,790 | 455 |
 | 2023-08-26 | 290,865 | 455 |
 | 2023-08-27 | 290,954 | 456 |
-| 2023-08-28 | 290,983 | 456 |
+| 2023-08-28 | 290,984 | 456 |
 ## Awards
 Max (Character Customization): 21,990  (Ranked 17)  
 Sum: 41,676 (Ranked 30)  

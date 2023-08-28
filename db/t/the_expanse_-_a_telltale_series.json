@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -34,9 +34,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9441,
+  "EOS_Progressed": 9442,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 814,
+  "EOS_NewPlayers": 810,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3449,6 +3449,11 @@
       "Time": "2023-08-28T13:07:14.3764652+00:00",
       "NumProgressed": 9441,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-28T14:03:26.499579+00:00",
+      "NumProgressed": 9442,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -3637,7 +3642,7 @@
       "Name": "Captain Drummer",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1699
+      "UsersEstimate": 1700
     },
     {
       "ID": "30",
@@ -3693,14 +3698,14 @@
       "Name": "Impossible Objects",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1699
+      "UsersEstimate": 1700
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 9441,
+      "Progressed": 9442,
       "Completed": 0
     }
   ],
@@ -3708,8 +3713,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-08-27T16:57:45.7126871+00:00",
-  "LastChanged_Achievements": "2023-08-28T13:07:14.3764647+00:00",
+  "LastChanged_Achievements": "2023-08-28T14:03:26.4995786+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:45.4170889+00:00",
-  "LastUpdate_Ratings": "2023-08-28T13:02:36.14231+00:00",
-  "LastUpdate_Achievements": "2023-08-28T13:07:14.376523+00:00"
+  "LastUpdate_Ratings": "2023-08-28T13:57:49.9226908+00:00",
+  "LastUpdate_Achievements": "2023-08-28T14:03:26.4996125+00:00"
 }

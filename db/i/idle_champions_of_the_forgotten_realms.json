@@ -6104,10 +6104,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 31259,
       "NumberOfAwardsMax": 5202
+    },
+    {
+      "Time": "2023-08-28T14:01:39.5350122+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 31261,
+      "NumberOfAwardsMax": 5202
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31259,
+  "NumberOfAwards": 31261,
   "NumberOfAwardsMax": 5202,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6115,7 +6121,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 5159
+      "Count": 5161
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6154,10 +6160,10 @@
       "Count": 3380
     }
   ],
-  "EOS_Progressed": 225663,
+  "EOS_Progressed": 225673,
   "EOS_Completed": 2223,
   "EOS_NewPlayers": 1782,
-  "EOS_NewCompleters": 22,
+  "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
     {
@@ -20409,6 +20415,11 @@
       "Time": "2023-08-28T13:11:40.2896148+00:00",
       "NumProgressed": 225663,
       "NumCompleted": 2223
+    },
+    {
+      "Time": "2023-08-28T14:08:43.0710352+00:00",
+      "NumProgressed": 225673,
+      "NumCompleted": 2223
     }
   ],
   "TotalAchievements": 516,
@@ -20786,9 +20797,9 @@
       "ID": "objective_completed_11",
       "SetID": "cc37lbc",
       "Name": "Beast Intentions",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1580
+      "UsersEstimate": 1805
     },
     {
       "ID": "objective_completed_110",
@@ -21058,9 +21069,9 @@
       "ID": "objective_completed_1154",
       "SetID": "415jc5c",
       "Name": "Owlbear Necessities",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 384
     },
     {
       "ID": "objective_completed_1158",
@@ -23562,9 +23573,9 @@
       "ID": "objective_completed_7",
       "SetID": "cc37lbc",
       "Name": "The Mad Wizard",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1128
+      "UsersEstimate": 1354
     },
     {
       "ID": "objective_completed_70",
@@ -24547,21 +24558,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 191937,
-      "Completed": 3321
+      "Progressed": 191947,
+      "Completed": 3322
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 225663,
+      "Progressed": 225673,
       "Completed": 2223
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-08-28T11:01:29.3392995+00:00",
-  "LastChanged_Achievements": "2023-08-28T13:11:40.289614+00:00",
+  "LastChanged": "2023-08-28T14:01:39.535012+00:00",
+  "LastChanged_Achievements": "2023-08-28T14:08:43.0710347+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:53.3345914+00:00",
-  "LastUpdate_Ratings": "2023-08-28T13:05:22.4263331+00:00",
-  "LastUpdate_Achievements": "2023-08-28T13:11:40.2924748+00:00"
+  "LastUpdate_Ratings": "2023-08-28T14:01:39.5350127+00:00",
+  "LastUpdate_Achievements": "2023-08-28T14:08:43.0734657+00:00"
 }

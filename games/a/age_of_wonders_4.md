@@ -28,6 +28,7 @@ Rating: 4.60 (Ranked 391)
 | Impenetrable Fortress | 4.00% | ~205 |
 | Here be Dragons | 4.00% | ~205 |
 | Return of the Wizard King | 3.00% | ~154 |
+| Lord of Chaos | 3.00% | ~154 |
 | Arch Mage | 3.00% | ~154 |
 | The Creator | 3.00% | ~154 |
 | Enchanted Archipelago | 3.00% | ~154 |
@@ -36,7 +37,6 @@ Rating: 4.60 (Ranked 391)
 | Preparation Is Everything | 3.00% | ~154 |
 | The Magic That Empowers Me! | 2.00% | ~103 |
 | God Emperor | 2.00% | ~103 |
-| Lord of Chaos | 2.00% | ~103 |
 | Eternal Lord | 2.00% | ~103 |
 | Crimson Caldera | 2.00% | ~103 |
 | The Eternal Court | 2.00% | ~103 |

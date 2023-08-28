@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 195,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 74,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -573,9 +573,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 221350,
+  "EOS_Progressed": 221351,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 580,
+  "EOS_NewPlayers": 577,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14673,6 +14673,11 @@
       "Time": "2023-08-28T13:08:56.3081852+00:00",
       "NumProgressed": 221350,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-28T14:04:49.8744996+00:00",
+      "NumProgressed": 221351,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -14684,7 +14689,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 42056
+      "UsersEstimate": 42057
     },
     {
       "ID": "ACH_BASE_10",
@@ -14772,7 +14777,7 @@
       "Name": "Legio Cybernetica",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 6640
+      "UsersEstimate": 6641
     },
     {
       "ID": "ACH_BASE_21",
@@ -14908,7 +14913,7 @@
       "Name": "Fleshy Disposal",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 6640
+      "UsersEstimate": 6641
     },
     {
       "ID": "ACH_BASE_5",
@@ -14955,7 +14960,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 221350,
+      "Progressed": 221351,
       "Completed": 5
     }
   ],
@@ -14963,8 +14968,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-08-28T01:43:39.7274808+00:00",
-  "LastChanged_Achievements": "2023-08-28T13:08:56.3081847+00:00",
+  "LastChanged_Achievements": "2023-08-28T14:04:49.8744991+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:24.7662929+00:00",
-  "LastUpdate_Ratings": "2023-08-28T13:05:42.606517+00:00",
-  "LastUpdate_Achievements": "2023-08-28T13:08:56.3083047+00:00"
+  "LastUpdate_Ratings": "2023-08-28T14:02:22.3206352+00:00",
+  "LastUpdate_Achievements": "2023-08-28T14:04:49.8745877+00:00"
 }

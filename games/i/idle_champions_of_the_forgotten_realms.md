@@ -7,10 +7,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 2.00% | ~4,513 |
-| Beast Intentions | 0.70% | ~1,580 |
+| Beast Intentions | 0.80% | ~1,805 |
 | The Cursed Farmer | 0.70% | ~1,580 |
+| The Mad Wizard | 0.60% | ~1,354 |
 | The Hunt for The Last Breath | 0.60% | ~1,152 |
-| The Mad Wizard | 0.50% | ~1,128 |
 | To Infinity's and Beyond | 0.50% | ~960 |
 | Were-verpowered | 0.40% | ~903 |
 | The Ring of Regeneration | 0.40% | ~903 |
@@ -39,6 +39,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Heavy Burden | 0.20% | ~451 |
 | Seeds of Destruction | 0.20% | ~384 |
 | Speeds of Destruction | 0.20% | ~384 |
+| Owlbear Necessities | 0.20% | ~384 |
 | The Evacuation of Waterdeep | 0.20% | ~384 |
 | Best Thay Ever | 0.20% | ~384 |
 | Vecna Lives! | 0.20% | ~384 |
@@ -194,7 +195,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Howling Peaks of Yon | 0.10% | ~192 |
 | Strength of Character | 0.10% | ~192 |
 | The Invisible Wizards of Thay | 0.10% | ~192 |
-| Owlbear Necessities | 0.10% | ~192 |
 | Flapjacks and Waffles | 0.10% | ~192 |
 | On the Hunt | 0.10% | ~226 |
 | Overwhelmed with Knowledge | 0.10% | ~192 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~192 |
 | Animated Giff | 0.10% | ~192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,663 (Ranked 53)  
+Progressed: 225,673 (Ranked 53)  
 Completed: 2,223 (0.99%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -653,15 +653,15 @@ Completed: 2,223 (0.99%) (Ranked 120)
 | 2023-08-25 | 224,925 | 2,214 |
 | 2023-08-26 | 225,221 | 2,219 |
 | 2023-08-27 | 225,526 | 2,222 |
-| 2023-08-28 | 225,663 | 2,223 |
+| 2023-08-28 | 225,673 | 2,223 |
 ## Awards
 Max (Diverse Characters): 5,202  (Ranked 68)  
-Sum: 31,259 (Ranked 39)  
+Sum: 31,261 (Ranked 39)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,202 |
-| This game is Great for Beginners | 5,159 |
+| This game is Great for Beginners | 5,161 |
 | This game has Quickly Understood Controls | 4,736 |
 | This game is Relaxing | 4,624 |
 | This game has Amazing Characters | 4,088 |
@@ -884,4 +884,4 @@ Diff (max vs sum): 29
 | 2023-08-25 | 4.06 | - | 5,182 | 31,210 |
 | 2023-08-26 | 4.06 | - | 5,189 | 31,229 |
 | 2023-08-27 | 4.06 | - | 5,196 | 31,250 |
-| 2023-08-28 | 4.06 | - | 5,202 | 31,259 |
+| 2023-08-28 | 4.06 | - | 5,202 | 31,261 |

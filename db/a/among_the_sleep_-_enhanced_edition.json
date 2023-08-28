@@ -455,9 +455,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83895,
+  "EOS_Progressed": 83903,
   "EOS_Completed": 390,
-  "EOS_NewPlayers": 769,
+  "EOS_NewPlayers": 770,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -14640,6 +14640,11 @@
       "Time": "2023-08-28T13:09:06.2742085+00:00",
       "NumProgressed": 83895,
       "NumCompleted": 390
+    },
+    {
+      "Time": "2023-08-28T14:05:02.9526144+00:00",
+      "NumProgressed": 83903,
+      "NumCompleted": 390
     }
   ],
   "TotalAchievements": 10,
@@ -14691,7 +14696,7 @@
       "Name": "Collected all drawings",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "DrawingsDLC",
@@ -14715,7 +14720,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 29363
+      "UsersEstimate": 29366
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -14723,22 +14728,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 9228
+      "UsersEstimate": 9229
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 83895,
+      "Progressed": 83903,
       "Completed": 390
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-08-23T22:58:37.1708472+00:00",
-  "LastChanged_Achievements": "2023-08-28T13:09:06.2742079+00:00",
+  "LastChanged_Achievements": "2023-08-28T14:05:02.9526139+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:58:00.6374223+00:00",
-  "LastUpdate_Ratings": "2023-08-28T13:03:43.3281792+00:00",
-  "LastUpdate_Achievements": "2023-08-28T13:09:06.2743215+00:00"
+  "LastUpdate_Ratings": "2023-08-28T13:59:22.9732139+00:00",
+  "LastUpdate_Achievements": "2023-08-28T14:05:02.9526894+00:00"
 }

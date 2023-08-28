@@ -6,43 +6,43 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~235,826 |
-| He's Signed! | 50.00% | ~235,826 |
-| First Victory | 50.00% | ~235,826 |
-| He's Sold! | 48.00% | ~226,392 |
-| I'm The Boss! | 42.00% | ~198,093 |
-| Hat-trick | 41.00% | ~193,377 |
-| Scoring Streak | 38.00% | ~179,227 |
-| Unbeatable! | 37.00% | ~174,511 |
-| Thumping | 37.00% | ~174,511 |
-| Superb Dressing Room Atmosphere | 35.00% | ~165,078 |
-| Total Support | 32.00% | ~150,928 |
-| Record Signing | 32.00% | ~150,928 |
-| He's a Natural | 31.00% | ~146,212 |
-| Millionaire's Club | 31.00% | ~146,212 |
-| Team Performance | 30.00% | ~141,495 |
-| Parked The Bus | 29.00% | ~136,779 |
-| Shrewd Spender | 29.00% | ~136,779 |
-| Star Man | 29.00% | ~136,779 |
-| Attack! | 28.00% | ~132,062 |
-| Tremendous Trio | 27.00% | ~127,346 |
-| You're On Fire | 26.00% | ~122,629 |
-| On A Roll | 26.00% | ~122,629 |
-| Unstoppable Force | 26.00% | ~122,629 |
-| Record Sale | 26.00% | ~122,629 |
-| Fantastic Five | 24.00% | ~113,196 |
-| Full Faith | 24.00% | ~113,196 |
-| The Boss | 24.00% | ~113,196 |
-| Armchair Expert | 24.00% | ~113,196 |
+| Clean Sheet | 50.00% | ~235,827 |
+| He's Signed! | 50.00% | ~235,827 |
+| First Victory | 50.00% | ~235,827 |
+| He's Sold! | 48.00% | ~226,394 |
+| I'm The Boss! | 42.00% | ~198,095 |
+| Hat-trick | 41.00% | ~193,378 |
+| Scoring Streak | 38.00% | ~179,229 |
+| Unbeatable! | 37.00% | ~174,512 |
+| Thumping | 37.00% | ~174,512 |
+| Superb Dressing Room Atmosphere | 35.00% | ~165,079 |
+| Total Support | 32.00% | ~150,929 |
+| Record Signing | 32.00% | ~150,929 |
+| He's a Natural | 31.00% | ~146,213 |
+| Millionaire's Club | 31.00% | ~146,213 |
+| Team Performance | 30.00% | ~141,496 |
+| Parked The Bus | 29.00% | ~136,780 |
+| Shrewd Spender | 29.00% | ~136,780 |
+| Star Man | 29.00% | ~136,780 |
+| Attack! | 28.00% | ~132,063 |
+| Tremendous Trio | 27.00% | ~127,347 |
+| You're On Fire | 26.00% | ~122,630 |
+| On A Roll | 26.00% | ~122,630 |
+| Unstoppable Force | 26.00% | ~122,630 |
+| Record Sale | 26.00% | ~122,630 |
+| Fantastic Five | 24.00% | ~113,197 |
+| Full Faith | 24.00% | ~113,197 |
+| The Boss | 24.00% | ~113,197 |
+| Armchair Expert | 24.00% | ~113,197 |
 | Iron Curtain | 23.00% | ~108,480 |
 | Top Of The Class | 23.00% | ~108,480 |
 | Goal Machine | 23.00% | ~108,480 |
-| What A Goal! | 22.00% | ~103,763 |
-| Cup Glory! | 22.00% | ~103,763 |
+| What A Goal! | 22.00% | ~103,764 |
+| Cup Glory! | 22.00% | ~103,764 |
 | Splashing The Cash | 21.00% | ~99,047 |
 | Clean Bill of Health | 21.00% | ~99,047 |
-| Irresistible Force | 20.00% | ~94,330 |
-| Excellent Match Cohesion | 20.00% | ~94,330 |
+| Irresistible Force | 20.00% | ~94,331 |
+| Excellent Match Cohesion | 20.00% | ~94,331 |
 | Do The Double | 19.00% | ~89,614 |
 | Top Form | 17.00% | ~80,181 |
 | Cash To Burn | 17.00% | ~80,181 |
@@ -50,7 +50,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Overachiever! | 15.00% | ~70,748 |
 | Rushed signing | 15.00% | ~70,748 |
 | Window Shopping | 15.00% | ~70,748 |
-| Eyes and Ears | 14.00% | ~66,031 |
+| Eyes and Ears | 14.00% | ~66,032 |
 | Comeback King! | 13.00% | ~61,315 |
 | You're Up! | 13.00% | ~61,315 |
 | Money, Money, Money | 12.00% | ~56,598 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~472 |
 | Shoestring Budget | 0.10% | ~472 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 471,651 (Ranked 36)  
+Progressed: 471,654 (Ranked 36)  
 Completed: 20 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,16 +235,16 @@ Completed: 20 (0.00%) (Ranked 265)
 | 2023-08-25 | 471,381 | 20 |
 | 2023-08-26 | 471,480 | 20 |
 | 2023-08-27 | 471,614 | 20 |
-| 2023-08-28 | 471,651 | 20 |
+| 2023-08-28 | 471,654 | 20 |
 ## Awards
 Max (Relaxing): 6,416  (Ranked 54)  
-Sum: 50,492 (Ranked 24)  
+Sum: 50,493 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 6,416 |
 | This game is Extremely Fun | 6,018 |
-| This game has Competitive Players | 5,853 |
+| This game has Competitive Players | 5,854 |
 | This game has Quickly Understood Controls | 5,847 |
 | This game is Highly Recommended | 5,820 |
 | This game is Educational | 5,818 |
@@ -470,4 +470,4 @@ Diff (max vs sum): 30
 | 2023-08-25 | 4.80 | - | 6,416 | 50,475 |
 | 2023-08-26 | 4.80 | - | 6,416 | 50,484 |
 | 2023-08-27 | 4.80 | - | 6,416 | 50,489 |
-| 2023-08-28 | 4.80 | - | 6,416 | 50,492 |
+| 2023-08-28 | 4.80 | - | 6,416 | 50,493 |

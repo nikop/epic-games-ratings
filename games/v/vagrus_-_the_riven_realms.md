@@ -25,6 +25,7 @@
 | Spiritual Journey | 4.00% | ~5 |
 | Pilgrimage's End | 4.00% | ~5 |
 | Inquisitions of Discord | 4.00% | ~5 |
+| Merchant | 4.00% | ~5 |
 | Supercargo | 3.00% | ~4 |
 | Strategist | 3.00% | ~4 |
 | Potential Unlocked | 3.00% | ~4 |
@@ -33,7 +34,6 @@
 | Harbinger | 3.00% | ~4 |
 | The Voice of Hereafter | 3.00% | ~4 |
 | A Terrible Will | 3.00% | ~4 |
-| Merchant | 3.00% | ~4 |
 | Trouble at Fort Larius | 3.00% | ~4 |
 | Despised | 2.00% | ~3 |
 | Life... Finds a Way | 2.00% | ~3 |

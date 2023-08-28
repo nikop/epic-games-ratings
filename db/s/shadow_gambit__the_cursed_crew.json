@@ -4,7 +4,7 @@
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 529,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.95,
   "EosHistory": [
@@ -1142,9 +1142,9 @@
       "ID": "_03_FinishAct1",
       "SetID": "8a1io5d",
       "Name": "The Adventure Begins",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 291
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1158,9 +1158,9 @@
       "ID": "_05_FinishAct2",
       "SetID": "8a1io5d",
       "Name": "The Gambit Has Begun",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 143
+      "UsersEstimate": 148
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -1341,8 +1341,8 @@
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-28T13:09:26.3878863+00:00",
+  "LastChanged_Achievements": "2023-08-28T14:05:34.6430584+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:45.1302228+00:00",
-  "LastUpdate_Ratings": "2023-08-28T13:05:16.7730522+00:00",
-  "LastUpdate_Achievements": "2023-08-28T13:09:26.3879132+00:00"
+  "LastUpdate_Ratings": "2023-08-28T14:01:29.6190143+00:00",
+  "LastUpdate_Achievements": "2023-08-28T14:05:34.6430779+00:00"
 }

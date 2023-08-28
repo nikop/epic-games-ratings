@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -4981,9 +4981,9 @@
       "ID": "ISONZO_ACH_SEEING_RED",
       "SetID": "akchbl3",
       "Name": "Seeing Red",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 201
+      "UsersEstimate": 268
     },
     {
       "ID": "ISONZO_ACH_SHAKEN_NOT_STIRRED",
@@ -5118,8 +5118,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-08-26T21:01:32.0202507+00:00",
-  "LastChanged_Achievements": "2023-08-28T13:08:19.5152979+00:00",
+  "LastChanged_Achievements": "2023-08-28T14:03:59.5110792+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:40.0989938+00:00",
-  "LastUpdate_Ratings": "2023-08-28T13:04:52.794674+00:00",
-  "LastUpdate_Achievements": "2023-08-28T13:08:19.5153511+00:00"
+  "LastUpdate_Ratings": "2023-08-28T14:01:01.2827289+00:00",
+  "LastUpdate_Achievements": "2023-08-28T14:03:59.5111246+00:00"
 }
