@@ -32,7 +32,7 @@
 | 30 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
 | 31 | [Sonic Origins](games/s/sonic_origins.md) | 9.24% |
 | 32 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
-| 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.93% |
+| 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.92% |
 | 34 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.89% |
 | 35 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.47% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.74% |
@@ -74,7 +74,7 @@
 | 72 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.11% |
 | 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.09% |
 | 74 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.02% |
-| 75 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.95% |
+| 75 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.94% |
 | 76 | [Monster Harvest](games/m/monster_harvest.md) | 2.93% |
 | 76 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 78 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.80% |
@@ -114,16 +114,16 @@
 | 112 | [Infindustry](games/i/infindustry.md) | 1.23% |
 | 113 | [Chorus](games/c/chorus.md) | 1.13% |
 | 114 | [Trifox](games/t/trifox.md) | 1.10% |
-| 115 | [A Musical Story](games/a/a_musical_story.md) | 1.06% |
 | 115 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.06% |
+| 116 | [A Musical Story](games/a/a_musical_story.md) | 1.05% |
 | 117 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.03% |
 | 118 | [Adios](games/a/adios.md) | 1.02% |
 | 119 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.01% |
-| 120 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.99% |
 | 120 | [Sable](games/s/sable.md) | 0.99% |
 | 120 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.99% |
+| 122 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
 | 123 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.96% |
-| 124 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 0.95% |
+| 124 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 0.94% |
 | 125 | [Hades](games/h/hades.md) | 0.90% |
 | 126 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 127 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
