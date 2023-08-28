@@ -8310,9 +8310,9 @@
       "ID": "SUBQUEST_CIPAL",
       "SetID": "6d0g7k8",
       "Name": "Rebirth",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 119
     },
     {
       "ID": "TANTACAT_ALL",
@@ -8341,8 +8341,8 @@
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-08-26T10:03:08.3605269+00:00",
-  "LastChanged_Achievements": "2023-08-28T20:54:17.8348351+00:00",
+  "LastChanged_Achievements": "2023-08-28T21:25:42.33675+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:18.9582302+00:00",
-  "LastUpdate_Ratings": "2023-08-28T20:46:03.897385+00:00",
-  "LastUpdate_Achievements": "2023-08-28T20:54:17.8349064+00:00"
+  "LastUpdate_Ratings": "2023-08-28T21:16:05.4316145+00:00",
+  "LastUpdate_Achievements": "2023-08-28T21:25:42.3369125+00:00"
 }

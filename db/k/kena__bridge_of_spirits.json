@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 209,
   "Ranking_EOS_Progress": 39,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -10563,9 +10563,9 @@
       "ID": "ACH_RELIC_FOOD_OFFERING",
       "SetID": "231ghgk",
       "Name": "Taro\u0027s Love",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 192457
+      "UsersEstimate": 196734
     },
     {
       "ID": "ACH_RELIC_HAMMER",
@@ -10651,8 +10651,8 @@
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-08-27T05:01:05.9614223+00:00",
-  "LastChanged_Achievements": "2023-08-28T20:52:48.2414346+00:00",
+  "LastChanged_Achievements": "2023-08-28T21:23:50.2525207+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:05.3767055+00:00",
-  "LastUpdate_Ratings": "2023-08-28T20:45:59.5819514+00:00",
-  "LastUpdate_Achievements": "2023-08-28T20:52:48.2414956+00:00"
+  "LastUpdate_Ratings": "2023-08-28T21:15:58.6197152+00:00",
+  "LastUpdate_Achievements": "2023-08-28T21:23:50.252642+00:00"
 }

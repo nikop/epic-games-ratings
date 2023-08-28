@@ -18,10 +18,10 @@
 | Rock Solid | 32.00% | ~29 |
 | The beast within | 32.00% | ~29 |
 | It's getting dark | 32.00% | ~29 |
-| Hard Rock | 31.00% | ~28 |
-| Rooftop | 28.00% | ~25 |
-| Homeless | 27.00% | ~24 |
-| Big badaboom! | 26.00% | ~23 |
+| Hard Rock | 32.00% | ~29 |
+| Rooftop | 29.00% | ~26 |
+| Homeless | 28.00% | ~25 |
+| Big badaboom! | 27.00% | ~24 |
 | Bookworm | 23.00% | ~21 |
 | Magnitude 5 | 22.00% | ~20 |
 | Payback | 22.00% | ~20 |

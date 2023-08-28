@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10500,
+  "EOS_Progressed": 10502,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 452,
+  "EOS_NewPlayers": 454,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7876,6 +7876,11 @@
       "Time": "2023-08-28T20:53:40.7936176+00:00",
       "NumProgressed": 10500,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-28T21:24:50.2573846+00:00",
+      "NumProgressed": 10502,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -7927,7 +7932,7 @@
       "Name": "Dal\u00ED",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_EVERYONE_GUESSED_CORRECTLY_WITHIN_20_SECONDS_4_PLAYERS",
@@ -7943,7 +7948,7 @@
       "Name": "Michelangelo",
       "Percentage": 0.1,
       "XP": 60,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_HUNDRED_UPVOTES",
@@ -7959,7 +7964,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4620
+      "UsersEstimate": 4621
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -8007,7 +8012,7 @@
       "Name": "Medal Magnet!",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_WIN_10_GAMES_SCRIBBLE_IT",
@@ -8023,7 +8028,7 @@
       "Name": "Junior Artist",
       "Percentage": 0.1,
       "XP": 60,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_WIN_50_GAMES_GUESS_IT",
@@ -8086,14 +8091,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 10500,
+      "Progressed": 10502,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-08-28T20:53:40.793617+00:00",
+  "LastChanged_Achievements": "2023-08-28T21:24:50.2573841+00:00",
   "LastUpdate_AppInfo": "2023-08-25T22:57:10.6813946+00:00",
-  "LastUpdate_Ratings": "2023-08-28T20:48:15.5219903+00:00",
-  "LastUpdate_Achievements": "2023-08-28T20:53:40.7936686+00:00"
+  "LastUpdate_Ratings": "2023-08-28T21:19:21.2304603+00:00",
+  "LastUpdate_Achievements": "2023-08-28T21:24:50.2574509+00:00"
 }

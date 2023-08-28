@@ -565,9 +565,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 340318,
+  "EOS_Progressed": 340321,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1450,
+  "EOS_NewPlayers": 1453,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15000,6 +15000,11 @@
       "Time": "2023-08-28T20:53:08.1990656+00:00",
       "NumProgressed": 340318,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-28T21:24:04.2817012+00:00",
+      "NumProgressed": 340321,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -15027,7 +15032,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 40838
+      "UsersEstimate": 40839
     },
     {
       "ID": "ach004",
@@ -15067,7 +15072,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 40838
+      "UsersEstimate": 40839
     },
     {
       "ID": "ach009",
@@ -15099,7 +15104,7 @@
       "Name": "Core Corps",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 27225
+      "UsersEstimate": 27226
     },
     {
       "ID": "ach013",
@@ -15139,7 +15144,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 44241
+      "UsersEstimate": 44242
     },
     {
       "ID": "ach018",
@@ -15147,7 +15152,7 @@
       "Name": "Sizeable Stash",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 27225
+      "UsersEstimate": 27226
     },
     {
       "ID": "ach019",
@@ -15219,7 +15224,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 156546
+      "UsersEstimate": 156548
     },
     {
       "ID": "ach028",
@@ -15363,7 +15368,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 44241
+      "UsersEstimate": 44242
     },
     {
       "ID": "ach046",
@@ -15650,7 +15655,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 340318,
+      "Progressed": 340321,
       "Completed": 7
     }
   ],
@@ -15658,8 +15663,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-08-28T15:01:59.5456398+00:00",
-  "LastChanged_Achievements": "2023-08-28T20:53:08.1990651+00:00",
+  "LastChanged_Achievements": "2023-08-28T21:24:04.2817002+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:37.3542744+00:00",
-  "LastUpdate_Ratings": "2023-08-28T20:49:19.5329693+00:00",
-  "LastUpdate_Achievements": "2023-08-28T20:53:08.1991688+00:00"
+  "LastUpdate_Ratings": "2023-08-28T21:20:53.2700688+00:00",
+  "LastUpdate_Achievements": "2023-08-28T21:24:04.2820579+00:00"
 }

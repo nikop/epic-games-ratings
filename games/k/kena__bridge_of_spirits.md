@@ -14,7 +14,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | Rot Commander | 60.00% | ~256,610 |
 | Taro's Fear | 56.00% | ~239,502 |
 | Between the Eyes | 47.00% | ~201,011 |
-| Taro's Love | 45.00% | ~192,457 |
+| Taro's Love | 46.00% | ~196,734 |
 | Taro's Regret | 43.00% | ~183,904 |
 | Spirit Guide | 42.00% | ~179,627 |
 | Harness Your Power | 39.00% | ~166,796 |

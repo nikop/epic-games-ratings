@@ -634,9 +634,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5325,
+  "EOS_Progressed": 5326,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 374,
+  "EOS_NewPlayers": 375,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6239,6 +6239,11 @@
       "Time": "2023-08-28T20:55:05.1610997+00:00",
       "NumProgressed": 5325,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-28T21:26:58.441022+00:00",
+      "NumProgressed": 5326,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -6258,7 +6263,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 2822
+      "UsersEstimate": 2823
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -6266,7 +6271,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 3621
+      "UsersEstimate": 3622
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -6282,7 +6287,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1757
+      "UsersEstimate": 1758
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -6290,7 +6295,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 3088
+      "UsersEstimate": 3089
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -6298,7 +6303,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 2396
+      "UsersEstimate": 2397
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -6306,7 +6311,7 @@
       "Name": "Scaling up",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 2822
+      "UsersEstimate": 2823
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -6386,7 +6391,7 @@
       "Name": "The Beetles",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ACHIEVEMENT_019",
@@ -6410,7 +6415,7 @@
       "Name": "I\u0027m Hooked!",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -6529,13 +6534,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 5325,
+      "Progressed": 5326,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 4697,
+      "Progressed": 4698,
       "Completed": 112
     }
   ],
@@ -6543,8 +6548,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-08-23T22:57:56.9776438+00:00",
-  "LastChanged_Achievements": "2023-08-28T20:55:05.1610991+00:00",
+  "LastChanged_Achievements": "2023-08-28T21:26:58.4410213+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:20.9001676+00:00",
-  "LastUpdate_Ratings": "2023-08-28T20:47:07.0994929+00:00",
-  "LastUpdate_Achievements": "2023-08-28T20:55:05.1611478+00:00"
+  "LastUpdate_Ratings": "2023-08-28T21:17:48.9992333+00:00",
+  "LastUpdate_Achievements": "2023-08-28T21:26:58.4411285+00:00"
 }

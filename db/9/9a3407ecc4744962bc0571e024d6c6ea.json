@@ -711,9 +711,9 @@
       "ID": "ABetterTomorrow",
       "SetID": "3ai6ml8",
       "Name": "A Better Tomorrow",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 162
+      "UsersEstimate": 166
     },
     {
       "ID": "BostonHayDay",
@@ -759,9 +759,9 @@
       "ID": "DarkestBeforeTheDawn",
       "SetID": "3ai6ml8",
       "Name": "Darkest Before the Dawn",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 152
+      "UsersEstimate": 157
     },
     {
       "ID": "DrinkingOnTheJob",
@@ -807,17 +807,17 @@
       "ID": "OnceMoreIntoTheBreach",
       "SetID": "3ai6ml8",
       "Name": "Once more into the Breach",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 200
+      "UsersEstimate": 204
     },
     {
       "ID": "Outpatient",
       "SetID": "3ai6ml8",
       "Name": "Outpatient",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 256
+      "UsersEstimate": 261
     },
     {
       "ID": "Relic",
@@ -847,9 +847,9 @@
       "ID": "TheSafetyOfDisbelief",
       "SetID": "3ai6ml8",
       "Name": "The Safety of Disbelief",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 204
+      "UsersEstimate": 209
     },
     {
       "ID": "TragedyDocumented",
@@ -878,8 +878,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-08-28T20:52:35.4839812+00:00",
+  "LastChanged_Achievements": "2023-08-28T21:23:32.0932734+00:00",
   "LastUpdate_AppInfo": "2023-08-23T13:00:58.5941376+00:00",
-  "LastUpdate_Ratings": "2023-08-28T20:47:12.2984311+00:00",
-  "LastUpdate_Achievements": "2023-08-28T20:52:35.4839971+00:00"
+  "LastUpdate_Ratings": "2023-08-28T21:17:56.0260989+00:00",
+  "LastUpdate_Achievements": "2023-08-28T21:23:32.0933027+00:00"
 }

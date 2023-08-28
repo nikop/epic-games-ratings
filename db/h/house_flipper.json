@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 191,
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
@@ -1848,9 +1848,9 @@
       "Count": 213
     }
   ],
-  "EOS_Progressed": 20703,
+  "EOS_Progressed": 20704,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8018,6 +8018,11 @@
       "Time": "2023-08-28T18:05:16.2410612+00:00",
       "NumProgressed": 20703,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-08-28T21:24:12.0228818+00:00",
+      "NumProgressed": 20704,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 23,
@@ -8029,7 +8034,7 @@
       "Name": "Family man",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2691
+      "UsersEstimate": 2692
     },
     {
       "ID": "CarMechanic",
@@ -8061,7 +8066,7 @@
       "Name": "Worth Every Penny",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2898
+      "UsersEstimate": 2899
     },
     {
       "ID": "EstateAgent",
@@ -8077,7 +8082,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 19461
+      "UsersEstimate": 19462
     },
     {
       "ID": "GameOver",
@@ -8117,7 +8122,7 @@
       "Name": "Junior Estate Agent",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2691
+      "UsersEstimate": 2692
     },
     {
       "ID": "KnockKnock",
@@ -8212,15 +8217,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 20703,
+      "Progressed": 20704,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-08-23T21:57:18.2266259+00:00",
-  "LastChanged_Achievements": "2023-08-28T20:53:13.4435312+00:00",
+  "LastChanged_Achievements": "2023-08-28T21:24:12.0228811+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:07.6921675+00:00",
-  "LastUpdate_Ratings": "2023-08-28T20:46:54.2692371+00:00",
-  "LastUpdate_Achievements": "2023-08-28T20:53:13.4435725+00:00"
+  "LastUpdate_Ratings": "2023-08-28T21:17:33.608737+00:00",
+  "LastUpdate_Achievements": "2023-08-28T21:24:12.0229733+00:00"
 }

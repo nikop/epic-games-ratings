@@ -4038,9 +4038,9 @@
       "Count": 327
     }
   ],
-  "EOS_Progressed": 668011,
+  "EOS_Progressed": 668035,
   "EOS_Completed": 2086,
-  "EOS_NewPlayers": 5821,
+  "EOS_NewPlayers": 5845,
   "EOS_NewCompleters": 36,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -18523,6 +18523,11 @@
       "Time": "2023-08-28T20:52:29.5347867+00:00",
       "NumProgressed": 668011,
       "NumCompleted": 2086
+    },
+    {
+      "Time": "2023-08-28T21:23:24.1504912+00:00",
+      "NumProgressed": 668035,
+      "NumCompleted": 2086
     }
   ],
   "TotalAchievements": 45,
@@ -18732,9 +18737,9 @@
       "ID": "ach_knock_down",
       "SetID": "7km39fm",
       "Name": "Apex Predator",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2004
+      "UsersEstimate": 2672
     },
     {
       "ID": "ach_knowledgeable",
@@ -18836,9 +18841,9 @@
       "ID": "ach_the_vcla",
       "SetID": "7km39fm",
       "Name": "Go, Bobcats!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 668
+      "UsersEstimate": 1336
     },
     {
       "ID": "ach_thesacrifice",
@@ -18893,7 +18898,7 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 668011,
+      "Progressed": 668035,
       "Completed": 2086
     }
   ],
@@ -18901,8 +18906,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-08-28T14:02:06.8843337+00:00",
-  "LastChanged_Achievements": "2023-08-28T20:52:29.5347861+00:00",
+  "LastChanged_Achievements": "2023-08-28T21:23:24.1504905+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:11.0440218+00:00",
-  "LastUpdate_Ratings": "2023-08-28T20:49:46.3012801+00:00",
-  "LastUpdate_Achievements": "2023-08-28T20:52:29.5348842+00:00"
+  "LastUpdate_Ratings": "2023-08-28T21:21:29.2924783+00:00",
+  "LastUpdate_Achievements": "2023-08-28T21:23:24.1507082+00:00"
 }

@@ -13,6 +13,7 @@ Rating: 4.54 (Ranked 501)
 | Coup de Grâce | 0.40% | ~2,672 |
 | Hazardous Materials | 0.40% | ~2,672 |
 | Friends Like These | 0.40% | ~2,672 |
+| Apex Predator | 0.40% | ~2,672 |
 | Stacking the Deck | 0.40% | ~2,672 |
 | Personal Assistant Personally Assisted | 0.40% | ~2,672 |
 | Bookworm | 0.30% | ~2,004 |
@@ -20,7 +21,6 @@ Rating: 4.54 (Ranked 501)
 | Slayer Squad | 0.30% | ~2,004 |
 | Can't Handle the Truth | 0.30% | ~2,004 |
 | Like Riding a Bike | 0.30% | ~2,004 |
-| Apex Predator | 0.30% | ~2,004 |
 | Zombologist | 0.30% | ~2,004 |
 | Ooh, Shiny! | 0.30% | ~2,004 |
 | A Patton Emerges | 0.30% | ~2,004 |
@@ -34,6 +34,7 @@ Rating: 4.54 (Ranked 501)
 | Humanity Distilled | 0.20% | ~1,336 |
 | Down with the Sickness | 0.20% | ~1,336 |
 | Max Headroom | 0.20% | ~1,336 |
+| Go, Bobcats! | 0.20% | ~1,336 |
 | Make it So | 0.10% | ~668 |
 | LA Influential | 0.10% | ~668 |
 | On Safari | 0.10% | ~668 |
@@ -46,12 +47,11 @@ Rating: 4.54 (Ranked 501)
 | Gore Horse | 0.10% | ~668 |
 | Sharpest Tool in the Box | 0.10% | ~668 |
 | Survival Skills | 0.10% | ~668 |
-| Go, Bobcats! | 0.10% | ~668 |
 | Variety is the Spice of Death | 0.10% | ~668 |
 | Rising Star | 0.10% | ~668 |
 | Bucket List | 0.10% | ~668 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 668,011 (Ranked 22)  
+Progressed: 668,035 (Ranked 22)  
 Completed: 2,086 (0.31%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 2,086 (0.31%) (Ranked 173)
 | 2023-08-25 | 665,272 | 2,068 |
 | 2023-08-26 | 666,250 | 2,078 |
 | 2023-08-27 | 667,273 | 2,082 |
-| 2023-08-28 | 668,011 | 2,086 |
+| 2023-08-28 | 668,035 | 2,086 |
 ## Awards
 Max (Great Boss Battles): 5,791  (Ranked 61)  
 Sum: 8,530 (Ranked 97)  

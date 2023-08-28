@@ -2,7 +2,7 @@
   "ID": "b8abdf9f9bc64ed6b4128a71fd47607f",
   "Name": "Gamedec - Definitive Edition",
   "ProductSlug": "gamedec",
-  "Ranking_Rating": 788,
+  "Ranking_Rating": 787,
   "Ranking_Popularity": 363,
   "Ranking_PopularitySum": 428,
   "Ranking_EOS_Progress": 48,
@@ -396,9 +396,9 @@
       "Count": 79
     }
   ],
-  "EOS_Progressed": 243971,
+  "EOS_Progressed": 243973,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 982,
+  "EOS_NewPlayers": 984,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14811,6 +14811,11 @@
       "Time": "2023-08-28T20:35:37.7712748+00:00",
       "NumProgressed": 243971,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-28T21:25:34.2248711+00:00",
+      "NumProgressed": 243973,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -14822,7 +14827,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 65872
+      "UsersEstimate": 65873
     },
     {
       "ID": "ACH_AON",
@@ -14902,7 +14907,7 @@
       "Name": "Elementary!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 21957
+      "UsersEstimate": 21958
     },
     {
       "ID": "ACH_HIDEANDSEEK",
@@ -15038,7 +15043,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 58553
+      "UsersEstimate": 58554
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -15237,7 +15242,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 243971,
+      "Progressed": 243973,
       "Completed": 7
     }
   ],
@@ -15245,8 +15250,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-08-15T07:59:00.2810594+00:00",
-  "LastChanged_Achievements": "2023-08-28T20:54:12.1784541+00:00",
+  "LastChanged_Achievements": "2023-08-28T21:25:34.2248704+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:40.3558824+00:00",
-  "LastUpdate_Ratings": "2023-08-28T20:49:21.8772188+00:00",
-  "LastUpdate_Achievements": "2023-08-28T20:54:12.1785555+00:00"
+  "LastUpdate_Ratings": "2023-08-28T21:20:56.704238+00:00",
+  "LastUpdate_Achievements": "2023-08-28T21:25:34.2250526+00:00"
 }

@@ -43,12 +43,12 @@ Rating: 4.14 (Ranked 902)
 | Craftsperson | 0.30% | ~119 |
 | Tit for Tat | 0.30% | ~119 |
 | Promises | 0.30% | ~119 |
+| Rebirth | 0.30% | ~119 |
 | Paragon | 0.20% | ~80 |
 | Pilgrimage: Adept | 0.20% | ~80 |
 | Call of the Fount: Beatified | 0.20% | ~80 |
 | I Can Fly! | 0.20% | ~80 |
 | A Roaring Trade | 0.20% | ~80 |
-| Rebirth | 0.20% | ~80 |
 | Abominizer | 0.10% | ~40 |
 | Through the Eyes of Another: Visionary | 0.10% | ~40 |
 | Kit and Caboodle | 0.10% | ~40 |

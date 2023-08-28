@@ -3,8 +3,8 @@
   "Name": "Clash - Artifacts of Chaos",
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
   "Ranking_EOS_Progress": 330,
-  "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_Completed": 124,
+  "Ranking_EOS_NewPlayers": 293,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 104,
+  "EOS_Progressed": 105,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.96,
+  "EOS_Completed_Percentage": 0.95,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:21.1984631+00:00",
@@ -268,6 +268,11 @@
       "Time": "2023-08-18T19:06:47.8520647+00:00",
       "NumProgressed": 104,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-28T21:22:28.8292024+00:00",
+      "NumProgressed": 105,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 21,
@@ -295,7 +300,7 @@
       "Name": "Your Training Continues",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Achievement12",
@@ -333,7 +338,7 @@
       "ID": "Achievement16",
       "SetID": "jf6ho5",
       "Name": "The Bigger They Are",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 35,
       "UsersEstimate": 32
     },
@@ -349,7 +354,7 @@
       "ID": "Achievement18",
       "SetID": "jf6ho5",
       "Name": "Over the Moon",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 90,
       "UsersEstimate": 34
     },
@@ -375,7 +380,7 @@
       "Name": "Amokuali Tower",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Achievement21",
@@ -389,7 +394,7 @@
       "ID": "Achievement3",
       "SetID": "jf6ho5",
       "Name": "Enemies of Fate",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 35,
       "UsersEstimate": 32
     },
@@ -413,9 +418,9 @@
       "ID": "Achievement6",
       "SetID": "jf6ho5",
       "Name": "Total Eclipse",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 11
+      "UsersEstimate": 10
     },
     {
       "ID": "Achievement7",
@@ -437,7 +442,7 @@
       "ID": "Achievement9",
       "SetID": "jf6ho5",
       "Name": "Dreamwalker",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 35,
       "UsersEstimate": 12
     }
@@ -446,7 +451,7 @@
     {
       "ID": "jf6ho5",
       "IsBase": true,
-      "Progressed": 104,
+      "Progressed": 105,
       "Completed": 1
     }
   ],
@@ -454,8 +459,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-08-28T20:51:30.3755095+00:00",
+  "LastChanged_Achievements": "2023-08-28T21:22:28.8292017+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:47.3159889+00:00",
-  "LastUpdate_Ratings": "2023-08-28T20:47:38.1671425+00:00",
-  "LastUpdate_Achievements": "2023-08-28T20:51:30.3755344+00:00"
+  "LastUpdate_Ratings": "2023-08-28T21:18:30.421707+00:00",
+  "LastUpdate_Achievements": "2023-08-28T21:22:28.8292268+00:00"
 }

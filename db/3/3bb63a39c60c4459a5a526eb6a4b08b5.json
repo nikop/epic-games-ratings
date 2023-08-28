@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 572,
+  "EOS_Progressed": 573,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
@@ -2036,6 +2036,11 @@
       "Time": "2023-08-28T20:34:09.0384802+00:00",
       "NumProgressed": 572,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-28T21:24:00.4153328+00:00",
+      "NumProgressed": 573,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2111,7 +2116,7 @@
       "Name": "Debtor",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "EdgeOfTheWorld",
@@ -2135,15 +2140,15 @@
       "Name": "Fifty",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "First",
       "SetID": "1e89b4i",
       "Name": "Game Started",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 80
     },
     {
       "ID": "FullCompletion",
@@ -2213,9 +2218,9 @@
       "ID": "LongDistance",
       "SetID": "1e89b4i",
       "Name": "Long Distances",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 109
+      "UsersEstimate": 103
     },
     {
       "ID": "ManagementMaster",
@@ -2269,9 +2274,9 @@
       "ID": "NotPlanned",
       "SetID": "1e89b4i",
       "Name": "This Wasn\u0027t Part of the Plan...",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 109
+      "UsersEstimate": 103
     },
     {
       "ID": "Ownway",
@@ -2359,7 +2364,7 @@
       "Name": "Ten!",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "TimeForManagement",
@@ -2382,14 +2387,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 572,
+      "Progressed": 573,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-08-28T20:53:05.4002836+00:00",
+  "LastChanged_Achievements": "2023-08-28T21:24:00.4153321+00:00",
   "LastUpdate_AppInfo": "2023-08-22T10:56:57.2309265+00:00",
-  "LastUpdate_Ratings": "2023-08-28T20:48:21.7512593+00:00",
-  "LastUpdate_Achievements": "2023-08-28T20:53:05.4003204+00:00"
+  "LastUpdate_Ratings": "2023-08-28T21:19:30.640634+00:00",
+  "LastUpdate_Achievements": "2023-08-28T21:24:00.4154111+00:00"
 }

@@ -752,17 +752,17 @@
       "ID": "Compiling",
       "SetID": "7jbi7el",
       "Name": "Job completed!",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "FallDeath",
       "SetID": "7jbi7el",
       "Name": "Accident",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "FirstBox",
@@ -832,9 +832,9 @@
       "ID": "SecretRoom",
       "SetID": "7jbi7el",
       "Name": "Researcher",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 80,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "Synthesis",
@@ -855,8 +855,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-08-28T20:55:05.203366+00:00",
+  "LastChanged_Achievements": "2023-08-28T21:26:58.4939197+00:00",
   "LastUpdate_AppInfo": "2023-08-22T18:57:00.7116692+00:00",
-  "LastUpdate_Ratings": "2023-08-28T20:48:09.9218411+00:00",
-  "LastUpdate_Achievements": "2023-08-28T20:55:05.203378+00:00"
+  "LastUpdate_Ratings": "2023-08-28T21:19:13.7130195+00:00",
+  "LastUpdate_Achievements": "2023-08-28T21:26:58.493943+00:00"
 }

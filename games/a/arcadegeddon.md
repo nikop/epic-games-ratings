@@ -6,24 +6,24 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 91.00% | ~7,971 |
-| Photogenic | 88.00% | ~7,708 |
-| Surge Gauntlet Jockey | 85.00% | ~7,445 |
+| Let's Get This Party Started | 91.00% | ~7,972 |
+| Photogenic | 88.00% | ~7,709 |
+| Surge Gauntlet Jockey | 85.00% | ~7,446 |
 | Plug It In | 84.00% | ~7,358 |
-| Adventure Time | 80.00% | ~7,007 |
-| Playing With Power | 77.00% | ~6,744 |
+| Adventure Time | 80.00% | ~7,008 |
+| Playing With Power | 77.00% | ~6,745 |
 | Coup d'Etat | 59.00% | ~5,168 |
 | You're Fired | 57.00% | ~4,993 |
-| Get Furious | 56.00% | ~4,905 |
-| Gunplay And Cosplay | 55.00% | ~4,817 |
-| Hacks In Stacks | 55.00% | ~4,817 |
+| Get Furious | 56.00% | ~4,906 |
+| Gunplay And Cosplay | 55.00% | ~4,818 |
+| Hacks In Stacks | 55.00% | ~4,818 |
 | Meching Enemies | 49.00% | ~4,292 |
 | Ticket Toddler | 44.00% | ~3,854 |
 | Booty Bashing | 40.00% | ~3,504 |
-| Field Medic | 38.00% | ~3,328 |
-| Here Comes a New Challenger | 38.00% | ~3,328 |
-| Rapid Response | 33.00% | ~2,890 |
-| The Full Monty | 31.00% | ~2,715 |
+| Field Medic | 38.00% | ~3,329 |
+| Here Comes a New Challenger | 38.00% | ~3,329 |
+| Rapid Response | 33.00% | ~2,891 |
+| The Full Monty | 31.00% | ~2,716 |
 | Surge Ahead | 30.00% | ~2,628 |
 | Guardian Angel | 28.00% | ~2,453 |
 | Poppin Noggins | 25.00% | ~2,190 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~35 |
 | Pyrotechnical | 0.20% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,759 (Ranked 130)  
+Progressed: 8,760 (Ranked 130)  
 Completed: 0 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 0 (0.00%) (Ranked 265)
 | 2023-08-25 | 8,680 | 0 |
 | 2023-08-26 | 8,705 | 0 |
 | 2023-08-27 | 8,728 | 0 |
-| 2023-08-28 | 8,759 | 0 |
+| 2023-08-28 | 8,760 | 0 |
 ## Awards
 Max (Relaxing): 64  (Ranked 388)  
 Sum: 461 (Ranked 309)  
