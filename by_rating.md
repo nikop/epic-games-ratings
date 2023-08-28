@@ -111,28 +111,28 @@
 | 109 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 4,352 | 77 |
 | 109 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 6,811 | 52 |
 | 109 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 21,969 | 17 |
+| 109 | [Remnant 2](games/r/remnant_2.md) | 4.77 | 1,207 | 135 |
 | 109 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 38 | 428 |
 | 109 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 147 | 301 |
 | 109 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 100 | 338 |
 | 109 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 514 |
 | 109 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 28 | 467 |
-| 117 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 15,146 | 24 |
-| 117 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.76 | 0 | 514 |
-| 117 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,312 | 90 |
-| 117 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 937 | 149 |
-| 117 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,428 | 75 |
-| 117 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 514 |
-| 117 | [Outlast](games/o/outlast.md) | 4.76 | 0 | 514 |
-| 117 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,703 | 118 |
-| 117 | [Quake](games/q/quake.md) | 4.76 | 49 | 406 |
-| 117 | [Remnant 2](games/r/remnant_2.md) | 4.76 | 1,207 | 135 |
-| 117 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.76 | 0 | 514 |
-| 117 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 0 | 514 |
-| 117 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 10,144 | 36 |
-| 117 | [SpiderHeck](games/s/spiderheck.md) | 4.76 | 0 | 514 |
-| 117 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.76 | 45 | 413 |
-| 117 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 41 | 424 |
-| 117 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.76 | 362 | 225 |
+| 118 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 15,146 | 24 |
+| 118 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.76 | 0 | 514 |
+| 118 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,312 | 90 |
+| 118 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 937 | 149 |
+| 118 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,428 | 75 |
+| 118 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 514 |
+| 118 | [Outlast](games/o/outlast.md) | 4.76 | 0 | 514 |
+| 118 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,703 | 118 |
+| 118 | [Quake](games/q/quake.md) | 4.76 | 49 | 406 |
+| 118 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.76 | 0 | 514 |
+| 118 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 0 | 514 |
+| 118 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 10,144 | 36 |
+| 118 | [SpiderHeck](games/s/spiderheck.md) | 4.76 | 0 | 514 |
+| 118 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.76 | 45 | 413 |
+| 118 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 41 | 424 |
+| 118 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.76 | 362 | 225 |
 | 134 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 26 | 476 |
 | 134 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 5,766 | 62 |
 | 134 | [Cave Story+](games/c/cave_story+.md) | 4.75 | 86 | 358 |
@@ -281,7 +281,7 @@
 | 277 | [Crashlands](games/c/crashlands.md) | 4.66 | 193 | 275 |
 | 277 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 169 | 289 |
 | 277 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,293 | 132 |
-| 277 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 341 | 227 |
+| 277 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 342 | 227 |
 | 277 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.66 | 46 | 410 |
 | 277 | [F1® 23](games/f/f1®_23_standard_edition.md) | 4.66 | 0 | 514 |
 | 277 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.66 | 0 | 514 |
@@ -497,7 +497,7 @@
 | 489 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 925 | 151 |
 | 489 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 90 | 351 |
 | 489 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 0 | 514 |
-| 489 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 341 | 227 |
+| 489 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 341 | 228 |
 | 489 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.55 | 79 | 363 |
 | 489 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,247 | 134 |
 | 501 | [Aragami 2](games/a/aragami_2.md) | 4.54 | 0 | 514 |
@@ -824,7 +824,7 @@
 | 817 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,530 | 99 |
 | 817 | [RiMS Racing](games/r/rims_racing.md) | 4.27 | 0 | 514 |
 | 817 | [ZOMBI](games/z/zombi.md) | 4.27 | 0 | 514 |
-| 825 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 18,444 | 20 |
+| 825 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 18,490 | 20 |
 | 825 | [Flatout](games/f/flatout.md) | 4.26 | 0 | 514 |
 | 825 | [The Fall](games/t/the_fall.md) | 4.26 | 0 | 514 |
 | 825 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 297 | 238 |
