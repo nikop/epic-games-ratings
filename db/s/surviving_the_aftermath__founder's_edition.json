@@ -1209,9 +1209,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 8639,
+  "EOS_Progressed": 8640,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 196,
+  "EOS_NewPlayers": 195,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11664,6 +11664,11 @@
       "Time": "2023-08-28T21:23:49.5112986+00:00",
       "NumProgressed": 8639,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-28T22:04:39.7756544+00:00",
+      "NumProgressed": 8640,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -11675,7 +11680,7 @@
       "Name": "Leader",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 5183
+      "UsersEstimate": 5184
     },
     {
       "ID": "10",
@@ -11715,7 +11720,7 @@
       "Name": "Famous Explorer",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2937
+      "UsersEstimate": 2938
     },
     {
       "ID": "15",
@@ -11739,7 +11744,7 @@
       "Name": "Famous Adventurer",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1209
+      "UsersEstimate": 1210
     },
     {
       "ID": "18",
@@ -11755,7 +11760,7 @@
       "Name": "Healer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 4492
+      "UsersEstimate": 4493
     },
     {
       "ID": "2",
@@ -11787,7 +11792,7 @@
       "Name": "First Step",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 6220
+      "UsersEstimate": 6221
     },
     {
       "ID": "23",
@@ -11795,7 +11800,7 @@
       "Name": "New Opportunities",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2937
+      "UsersEstimate": 2938
     },
     {
       "ID": "24",
@@ -11899,7 +11904,7 @@
       "Name": "War Never Changes",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1641
+      "UsersEstimate": 1642
     },
     {
       "ID": "36",
@@ -11923,7 +11928,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 3801
+      "UsersEstimate": 3802
     },
     {
       "ID": "39",
@@ -12146,15 +12151,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 8639,
+      "Progressed": 8640,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-08-25T02:13:36.2865808+00:00",
-  "LastChanged_Achievements": "2023-08-28T21:23:49.5112978+00:00",
+  "LastChanged_Achievements": "2023-08-28T22:04:39.7756536+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:34.935802+00:00",
-  "LastUpdate_Ratings": "2023-08-28T21:18:05.9353716+00:00",
-  "LastUpdate_Achievements": "2023-08-28T21:23:49.5115058+00:00"
+  "LastUpdate_Ratings": "2023-08-28T21:59:01.5260214+00:00",
+  "LastUpdate_Achievements": "2023-08-28T22:04:39.7758626+00:00"
 }

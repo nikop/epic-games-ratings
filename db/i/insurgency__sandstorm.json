@@ -3119,10 +3119,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 2934,
       "NumberOfAwardsMax": 377
+    },
+    {
+      "Time": "2023-08-28T22:01:37.3333423+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 2935,
+      "NumberOfAwardsMax": 377
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2934,
+  "NumberOfAwards": 2935,
   "NumberOfAwardsMax": 377,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3148,7 +3154,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 307
+      "Count": 308
     },
     {
       "Text": "This game has Challenging Combat",
@@ -3193,7 +3199,7 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 437733,
+  "EOS_Progressed": 437748,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 2600,
   "EOS_NewCompleters": 0,
@@ -17638,6 +17644,11 @@
       "Time": "2023-08-28T21:22:09.6664573+00:00",
       "NumProgressed": 437733,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-28T22:03:05.1016206+00:00",
+      "NumProgressed": 437748,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -17705,7 +17716,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 17509
+      "UsersEstimate": 17510
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -17817,7 +17828,7 @@
       "Name": "Point Shooting",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 17509
+      "UsersEstimate": 17510
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -17921,22 +17932,22 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 17509
+      "UsersEstimate": 17510
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 437733,
+      "Progressed": 437748,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
-  "LastChanged": "2023-08-28T19:00:38.062358+00:00",
-  "LastChanged_Achievements": "2023-08-28T21:22:09.6664568+00:00",
+  "LastChanged": "2023-08-28T22:01:37.3333422+00:00",
+  "LastChanged_Achievements": "2023-08-28T22:03:05.1016199+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:42.1535324+00:00",
-  "LastUpdate_Ratings": "2023-08-28T21:20:59.1610578+00:00",
-  "LastUpdate_Achievements": "2023-08-28T21:22:09.6665731+00:00"
+  "LastUpdate_Ratings": "2023-08-28T22:01:37.3333429+00:00",
+  "LastUpdate_Achievements": "2023-08-28T22:03:05.1018206+00:00"
 }

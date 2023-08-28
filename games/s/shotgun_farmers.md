@@ -17,7 +17,7 @@
 | Bouncemato | 30.00% | ~66 |
 | Amateur Survivor | 30.00% | ~66 |
 | 10K | 29.00% | ~78 |
-| 15K | 27.00% | ~73 |
+| 15K | 28.00% | ~76 |
 | Grave Digger | 23.00% | ~51 |
 | Quick-Draw Pod | 22.00% | ~48 |
 | Professional Survivor | 22.00% | ~48 |

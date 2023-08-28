@@ -6,43 +6,43 @@ Number of Ratings: 13,393  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Immovable Object | 89.00% | ~114,020 |
-| Comeback | 82.00% | ~105,052 |
-| Information is Key | 80.00% | ~102,490 |
-| Unlucky | 71.00% | ~90,960 |
-| Anarchist | 68.00% | ~87,116 |
-| Wallhack | 65.00% | ~83,273 |
-| Steady Supply | 60.00% | ~76,867 |
-| Lucky Shot | 53.00% | ~67,899 |
-| Forward Observer | 52.00% | ~66,618 |
-| Ring Ring! | 52.00% | ~66,618 |
-| Bossing Around | 45.00% | ~57,650 |
-| Frostbite | 45.00% | ~57,650 |
-| Night Owl | 44.00% | ~56,369 |
-| Strength in Numbers | 44.00% | ~56,369 |
-| Fog of War | 41.00% | ~52,526 |
+| Immovable Object | 89.00% | ~114,021 |
+| Comeback | 82.00% | ~105,053 |
+| Information is Key | 80.00% | ~102,491 |
+| Unlucky | 71.00% | ~90,961 |
+| Anarchist | 68.00% | ~87,118 |
+| Wallhack | 65.00% | ~83,274 |
+| Steady Supply | 60.00% | ~76,868 |
+| Lucky Shot | 53.00% | ~67,900 |
+| Forward Observer | 52.00% | ~66,619 |
+| Ring Ring! | 52.00% | ~66,619 |
+| Bossing Around | 45.00% | ~57,651 |
+| Frostbite | 45.00% | ~57,651 |
+| Night Owl | 44.00% | ~56,370 |
+| Strength in Numbers | 44.00% | ~56,370 |
+| Fog of War | 41.00% | ~52,527 |
 | Anyone Else? | 39.00% | ~49,964 |
 | Rasputin | 39.00% | ~49,964 |
 | Stronghold Denied | 39.00% | ~49,964 |
-| Hydra | 36.00% | ~46,120 |
-| This Belongs to Us Now | 36.00% | ~46,120 |
-| Stronghold | 35.00% | ~44,839 |
-| Leeroy | 33.00% | ~42,277 |
-| Lost Batallion | 33.00% | ~42,277 |
+| Hydra | 36.00% | ~46,121 |
+| This Belongs to Us Now | 36.00% | ~46,121 |
+| Stronghold | 35.00% | ~44,840 |
+| Leeroy | 33.00% | ~42,278 |
+| Lost Batallion | 33.00% | ~42,278 |
 | This is MY Machine Gun! | 32.00% | ~40,996 |
 | Together As One | 31.00% | ~39,715 |
-| Gavrilo Princip | 27.00% | ~34,590 |
+| Gavrilo Princip | 27.00% | ~34,591 |
 | Lead Harvest | 25.00% | ~32,028 |
 | Skynet Confirmed | 23.00% | ~29,466 |
 | Kesselschlacht | 22.00% | ~28,185 |
-| Democracy Works! | 20.00% | ~25,622 |
-| Switch, Please! | 19.00% | ~24,341 |
-| I've Seen It All | 18.00% | ~23,060 |
-| Tourist | 18.00% | ~23,060 |
+| Democracy Works! | 20.00% | ~25,623 |
+| Switch, Please! | 19.00% | ~24,342 |
+| I've Seen It All | 18.00% | ~23,061 |
+| Tourist | 18.00% | ~23,061 |
 | At Least This Way I Can Win... | 17.00% | ~21,779 |
 | Oops! | 17.00% | ~21,779 |
 | Developers, Developers, Developers, Developers! | 16.00% | ~20,498 |
-| Butcher | 12.00% | ~15,373 |
+| Butcher | 12.00% | ~15,374 |
 | Before the Leaves Fall | 10.00% | ~12,811 |
 | Close Call | 10.00% | ~12,811 |
 | Pinpoint | 10.00% | ~12,811 |
@@ -55,9 +55,9 @@ Number of Ratings: 13,393  (23.09.2022)
 | From Russia with Love | 5.00% | ~6,406 |
 | Overachiever | 5.00% | ~6,406 |
 | Your Family Will Be Proud... | 5.00% | ~6,406 |
-| Gott Mit Uns | 4.00% | ~5,124 |
-| Indivisibiliter ac Inseparabiliter | 4.00% | ~5,124 |
-| Living on the Edge | 4.00% | ~5,124 |
+| Gott Mit Uns | 4.00% | ~5,125 |
+| Indivisibiliter ac Inseparabiliter | 4.00% | ~5,125 |
+| Living on the Edge | 4.00% | ~5,125 |
 | Chivalrous | 3.00% | ~3,843 |
 | S nami Bog! | 3.00% | ~3,843 |
 | Za veru, Tsarya i otechestvo | 3.00% | ~3,843 |
@@ -74,7 +74,7 @@ Number of Ratings: 13,393  (23.09.2022)
 | Seeing is Believing | 0.90% | ~1,153 |
 | Road to Berlin | 0.60% | ~769 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,112 (Ranked 68)  
+Progressed: 128,114 (Ranked 68)  
 Completed: 29 (0.02%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,14 +204,14 @@ Completed: 29 (0.02%) (Ranked 245)
 | 2023-08-25 | 127,666 | 28 |
 | 2023-08-26 | 127,823 | 28 |
 | 2023-08-27 | 127,991 | 28 |
-| 2023-08-28 | 128,112 | 29 |
+| 2023-08-28 | 128,114 | 29 |
 ## Awards
-Max (Competitive Players): 332  (Ranked 230)  
-Sum: 2,885 (Ranked 169)  
+Max (Competitive Players): 333  (Ranked 230)  
+Sum: 2,886 (Ranked 169)  
 Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
-| This game has Competitive Players | 332 |
+| This game has Competitive Players | 333 |
 | This game has Quickly Understood Controls | 311 |
 | This game has Diverse Characters | 311 |
 | This game is Relaxing | 308 |
@@ -363,4 +363,4 @@ Diff (max vs sum): 61
 | 2023-08-24 | 4.39 | - | 330 | 2,878 |
 | 2023-08-25 | 4.39 | - | 330 | 2,882 |
 | 2023-08-27 | 4.39 | - | 332 | 2,884 |
-| 2023-08-28 | 4.39 | - | 332 | 2,885 |
+| 2023-08-28 | 4.39 | - | 333 | 2,886 |

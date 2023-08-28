@@ -6,19 +6,19 @@ Rating: 4.77 (Ranked 109)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 13.00% | ~37,831 |
-| First Class Student | 11.00% | ~32,010 |
-| Troll with the Punches | 11.00% | ~32,010 |
-| The One Who Mastered Memories | 10.00% | ~29,100 |
-| The Hallowed Hero | 10.00% | ~29,100 |
-| The Defender of Dragons | 10.00% | ~29,100 |
-| A Keen Sense of Spell | 10.00% | ~29,100 |
-| A Talent for Spending | 10.00% | ~29,100 |
-| Coasting Along | 10.00% | ~29,100 |
-| That's a Keeper | 10.00% | ~29,100 |
-| Grappling with a Graphorn | 9.00% | ~26,190 |
-| The Hero of Hogwarts | 9.00% | ~26,190 |
-| Challenge Accepted | 9.00% | ~26,190 |
-| Loom for Improvement | 9.00% | ~26,190 |
+| First Class Student | 11.00% | ~32,011 |
+| Troll with the Punches | 11.00% | ~32,011 |
+| The One Who Mastered Memories | 10.00% | ~29,101 |
+| The Hallowed Hero | 10.00% | ~29,101 |
+| The Defender of Dragons | 10.00% | ~29,101 |
+| A Keen Sense of Spell | 10.00% | ~29,101 |
+| A Talent for Spending | 10.00% | ~29,101 |
+| Coasting Along | 10.00% | ~29,101 |
+| That's a Keeper | 10.00% | ~29,101 |
+| Grappling with a Graphorn | 9.00% | ~26,191 |
+| The Hero of Hogwarts | 9.00% | ~26,191 |
+| Challenge Accepted | 9.00% | ~26,191 |
+| Loom for Improvement | 9.00% | ~26,191 |
 | Followed the Butterflies | 8.00% | ~23,280 |
 | The Spell Master | 8.00% | ~23,280 |
 | Rising From the Ashes | 8.00% | ~23,280 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,746 |
 | Collector's Edition | 0.30% | ~873 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 291,004 (Ranked 43)  
+Progressed: 291,006 (Ranked 43)  
 Completed: 456 (0.16%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 456 (0.16%) (Ranked 196)
 | 2023-08-25 | 290,790 | 455 |
 | 2023-08-26 | 290,865 | 455 |
 | 2023-08-27 | 290,954 | 456 |
-| 2023-08-28 | 291,004 | 456 |
+| 2023-08-28 | 291,006 | 456 |
 ## Awards
 Max (Character Customization): 21,990  (Ranked 17)  
 Sum: 41,680 (Ranked 30)  

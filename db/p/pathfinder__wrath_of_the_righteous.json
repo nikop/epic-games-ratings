@@ -3486,10 +3486,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6908,
       "NumberOfAwardsMax": 1703
+    },
+    {
+      "Time": "2023-08-28T22:02:03.4075062+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6909,
+      "NumberOfAwardsMax": 1703
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6908,
+  "NumberOfAwards": 6909,
   "NumberOfAwardsMax": 1703,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3539,7 +3545,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 545
+      "Count": 546
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3560,9 +3566,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 11119,
+  "EOS_Progressed": 11120,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11500,6 +11506,11 @@
       "Time": "2023-08-28T21:26:31.1291487+00:00",
       "NumProgressed": 11119,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-28T22:06:58.6417645+00:00",
+      "NumProgressed": 11120,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -11511,7 +11522,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 2557
+      "UsersEstimate": 2558
     },
     {
       "ID": "02_BurningCity",
@@ -11647,7 +11658,7 @@
       "Name": "Mythic Choices",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1445
+      "UsersEstimate": 1446
     },
     {
       "ID": "19_EqualToAroden",
@@ -12438,21 +12449,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9901,
+      "Progressed": 9902,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11119,
+      "Progressed": 11120,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-08-28T20:31:40.6798758+00:00",
-  "LastChanged_Achievements": "2023-08-28T21:26:31.1291478+00:00",
+  "LastChanged": "2023-08-28T22:02:03.4075061+00:00",
+  "LastChanged_Achievements": "2023-08-28T22:06:58.6417638+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:16.3191421+00:00",
-  "LastUpdate_Ratings": "2023-08-28T21:21:34.9819341+00:00",
-  "LastUpdate_Achievements": "2023-08-28T21:26:31.1295343+00:00"
+  "LastUpdate_Ratings": "2023-08-28T22:02:03.407507+00:00",
+  "LastUpdate_Achievements": "2023-08-28T22:06:58.6421408+00:00"
 }

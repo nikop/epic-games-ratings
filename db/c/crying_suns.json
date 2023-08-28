@@ -598,9 +598,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 466220,
+  "EOS_Progressed": 466222,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 483,
+  "EOS_NewPlayers": 481,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14248,6 +14248,11 @@
       "Time": "2023-08-28T20:06:36.7735418+00:00",
       "NumProgressed": 466220,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-08-28T22:07:41.2683059+00:00",
+      "NumProgressed": 466222,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -14283,7 +14288,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 102568
+      "UsersEstimate": 102569
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -14347,7 +14352,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 307705
+      "UsersEstimate": 307707
     },
     {
       "ID": "achievement_story_landa",
@@ -14379,7 +14384,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 116555
+      "UsersEstimate": 116556
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -14395,7 +14400,7 @@
       "Name": "Admiral Okonkwo",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 32635
+      "UsersEstimate": 32636
     },
     {
       "ID": "achievement_story_meet_survivalists",
@@ -14403,7 +14408,7 @@
       "Name": "The Survivalists",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 32635
+      "UsersEstimate": 32636
     },
     {
       "ID": "achievement_story_meet_tetsuo",
@@ -14499,7 +14504,7 @@
       "Name": "The Tech Specialist",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 32635
+      "UsersEstimate": 32636
     },
     {
       "ID": "achievement_unlock_officer_empire_2",
@@ -14683,7 +14688,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 205137
+      "UsersEstimate": 205138
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -14691,7 +14696,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 139866
+      "UsersEstimate": 139867
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -14715,7 +14720,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 181826
+      "UsersEstimate": 181827
     },
     {
       "ID": "achievement_win_run_hard",
@@ -14771,7 +14776,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 102568
+      "UsersEstimate": 102569
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -14890,21 +14895,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 10154,
+      "Progressed": 10156,
       "Completed": 2356
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 466220,
+      "Progressed": 466222,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-08-24T02:57:03.8465673+00:00",
-  "LastChanged_Achievements": "2023-08-28T21:27:21.5121226+00:00",
+  "LastChanged_Achievements": "2023-08-28T22:07:41.2683051+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:38.8544339+00:00",
-  "LastUpdate_Ratings": "2023-08-28T21:16:55.4045905+00:00",
-  "LastUpdate_Achievements": "2023-08-28T21:27:21.5123986+00:00"
+  "LastUpdate_Ratings": "2023-08-28T21:57:51.3384819+00:00",
+  "LastUpdate_Achievements": "2023-08-28T22:07:41.2686035+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -1197,9 +1197,9 @@
       "ID": "ach_fifteen_thousand_points",
       "SetID": "cmg602e",
       "Name": "15K",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 76
     },
     {
       "ID": "ach_first_first_blood",
@@ -1764,8 +1764,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-08-28T21:23:51.8925407+00:00",
+  "LastChanged_Achievements": "2023-08-28T22:04:41.8060256+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:02.2550756+00:00",
-  "LastUpdate_Ratings": "2023-08-28T21:21:25.2485729+00:00",
-  "LastUpdate_Achievements": "2023-08-28T21:23:51.8926858+00:00"
+  "LastUpdate_Ratings": "2023-08-28T22:01:55.6778708+00:00",
+  "LastUpdate_Achievements": "2023-08-28T22:04:41.8061122+00:00"
 }

@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unexpected encounter | 19.00% | ~489 |
+| Unexpected encounter | 19.00% | ~490 |
 | Starting as a duo | 17.00% | ~438 |
 | Stronger together | 14.00% | ~361 |
 | Helping the little ones | 12.00% | ~309 |
@@ -18,7 +18,7 @@
 | Snow-covered ruins | 0.40% | ~10 |
 | Another ride! | 0.30% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,576 (Ranked 165)  
+Progressed: 2,577 (Ranked 165)  
 Completed: 6 (0.23%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 6 (0.23%) (Ranked 185)
 | 2023-08-25 | 2,561 | 6 |
 | 2023-08-26 | 2,568 | 6 |
 | 2023-08-27 | 2,571 | 6 |
-| 2023-08-28 | 2,576 | 6 |
+| 2023-08-28 | 2,577 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

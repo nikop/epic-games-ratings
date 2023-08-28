@@ -4,7 +4,7 @@
   "ProductSlug": "readyset-heroes",
   "Ranking_EOS_Progress": 562,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 338,
+  "Ranking_EOS_NewPlayers": 336,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2019-10-29T14:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:14.5213157+00:00",
   "LastChanged": "2023-03-31T05:57:14.5213158+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:53.9581954+00:00",
-  "LastUpdate_Ratings": "2023-08-28T21:21:13.0566951+00:00",
-  "LastUpdate_Achievements": "2023-08-28T21:27:40.3751363+00:00"
+  "LastUpdate_Ratings": "2023-08-28T22:01:47.2965981+00:00",
+  "LastUpdate_Achievements": "2023-08-28T22:08:06.9722383+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3137,
+  "EOS_Progressed": 3138,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -2839,6 +2839,11 @@
       "Time": "2023-08-28T17:08:06.6182083+00:00",
       "NumProgressed": 3137,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-08-28T22:06:27.0721919+00:00",
+      "NumProgressed": 3138,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -2874,7 +2879,7 @@
       "Name": "Work It",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "bonus5",
@@ -2898,7 +2903,7 @@
       "Name": "You and what Army?",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2792
+      "UsersEstimate": 2793
     },
     {
       "ID": "campaign10",
@@ -2914,7 +2919,7 @@
       "Name": "Reinforcements",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "campaign12",
@@ -2938,7 +2943,7 @@
       "Name": "Well Supplied",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "campaign15",
@@ -2970,7 +2975,7 @@
       "Name": "Sweet Revenge",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "campaign19",
@@ -2986,7 +2991,7 @@
       "Name": "Flanked!",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 2478
+      "UsersEstimate": 2479
     },
     {
       "ID": "campaign20",
@@ -3002,7 +3007,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 2039
+      "UsersEstimate": 2040
     },
     {
       "ID": "campaign4",
@@ -3066,7 +3071,7 @@
       "Name": "Full Employment",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "scenario3",
@@ -3098,7 +3103,7 @@
       "Name": "Figure of Breach",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "scenario7",
@@ -3106,14 +3111,14 @@
       "Name": "A Brief Moment of Respite",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     }
   ],
   "AchievementSets": [
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3137,
+      "Progressed": 3138,
       "Completed": 11
     }
   ],
@@ -3121,8 +3126,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-08-28T21:25:44.4243747+00:00",
+  "LastChanged_Achievements": "2023-08-28T22:06:27.0721911+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:09.5831279+00:00",
-  "LastUpdate_Ratings": "2023-08-28T21:18:21.9757755+00:00",
-  "LastUpdate_Achievements": "2023-08-28T21:25:44.4244492+00:00"
+  "LastUpdate_Ratings": "2023-08-28T21:59:16.0309534+00:00",
+  "LastUpdate_Achievements": "2023-08-28T22:06:27.0722652+00:00"
 }

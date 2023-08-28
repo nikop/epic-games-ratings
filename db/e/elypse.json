@@ -575,9 +575,9 @@
       "ID": "Ach_DiscoveryFinalTower",
       "SetID": "4o5gjp0",
       "Name": "Nokron tower",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Ach_DiscoveryTemple",
@@ -671,9 +671,9 @@
       "ID": "Ach_OptionalDialogRead",
       "SetID": "4o5gjp0",
       "Name": "Bookworm",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Ach_SkullGoal",
@@ -687,9 +687,9 @@
       "ID": "Ach_SoulPotBeggarHouse",
       "SetID": "4o5gjp0",
       "Name": "Payback",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Ach_SoulPots",
@@ -734,8 +734,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-08-28T21:27:14.9530251+00:00",
+  "LastChanged_Achievements": "2023-08-28T22:07:35.5878953+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:51.8730367+00:00",
-  "LastUpdate_Ratings": "2023-08-28T21:21:10.7925192+00:00",
-  "LastUpdate_Achievements": "2023-08-28T21:27:14.9530791+00:00"
+  "LastUpdate_Ratings": "2023-08-28T22:01:45.7557432+00:00",
+  "LastUpdate_Achievements": "2023-08-28T22:07:35.5879436+00:00"
 }

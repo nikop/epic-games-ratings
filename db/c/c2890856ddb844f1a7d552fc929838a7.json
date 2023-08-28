@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 525,
+  "EOS_Progressed": 527,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 524,
+  "EOS_NewPlayers": 526,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -522,6 +522,11 @@
       "Time": "2023-08-28T20:35:23.7517886+00:00",
       "NumProgressed": 525,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-28T22:06:05.4787504+00:00",
+      "NumProgressed": 527,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -542,7 +547,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 87,
       "XP": 30,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "AC02",
@@ -550,7 +555,7 @@
       "Name": "Blood and Dust",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "AC03",
@@ -558,7 +563,7 @@
       "Name": "Blood and Gold",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "AC04",
@@ -566,7 +571,7 @@
       "Name": "Blood and Iron",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "AC05",
@@ -574,7 +579,7 @@
       "Name": "The Sharpest Tool in the Shed",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "AC06",
@@ -590,7 +595,7 @@
       "Name": "The Sea dies on the Shore",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "AC08",
@@ -598,7 +603,7 @@
       "Name": "Forged in Fire",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "AC09",
@@ -606,7 +611,7 @@
       "Name": "Fermosa Fembra",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "AC10",
@@ -622,7 +627,7 @@
       "Name": "A Heart of Gold",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "AC12",
@@ -734,7 +739,7 @@
       "Name": "House of Grief and Hatred",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "AC26",
@@ -742,7 +747,7 @@
       "Name": "A Leap of Faith",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "AC27",
@@ -750,7 +755,7 @@
       "Name": "Twisted is the Path of the Miracle",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "AC28",
@@ -758,7 +763,7 @@
       "Name": "The Punished One",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "AC29",
@@ -774,7 +779,7 @@
       "Name": "The Anointed One",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "AC31",
@@ -798,13 +803,13 @@
       "Name": "Ultima Ratio",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "AC34",
       "SetID": "l4abp0",
       "Name": "A Sharp Rendezvous",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -846,7 +851,7 @@
       "Name": "Warrior of the Silent Sorrow",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "AC40",
@@ -854,7 +859,7 @@
       "Name": "Welcome Back!",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 399
+      "UsersEstimate": 401
     },
     {
       "ID": "AC41",
@@ -901,14 +906,14 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 525,
+      "Progressed": 527,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-26T07:57:19.1818171+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
-  "LastChanged_Achievements": "2023-08-28T21:25:19.255453+00:00",
+  "LastChanged_Achievements": "2023-08-28T22:06:05.4787495+00:00",
   "LastUpdate_AppInfo": "2023-08-22T18:57:00.5189311+00:00",
-  "LastUpdate_Ratings": "2023-08-28T21:19:03.9134112+00:00",
-  "LastUpdate_Achievements": "2023-08-28T21:25:19.255521+00:00"
+  "LastUpdate_Ratings": "2023-08-28T21:59:49.3538081+00:00",
+  "LastUpdate_Achievements": "2023-08-28T22:06:05.478806+00:00"
 }

@@ -7,16 +7,16 @@ Number of Ratings: 617  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 70.00% | ~368,308 |
-| Now You're Talking | 62.00% | ~326,215 |
-| Steel Yourself | 62.00% | ~326,215 |
-| Window Dressing | 50.00% | ~263,077 |
+| Now You're Talking | 62.00% | ~326,216 |
+| Steel Yourself | 62.00% | ~326,216 |
+| Window Dressing | 50.00% | ~263,078 |
 | Trigger Happy | 46.00% | ~242,031 |
-| Riverborn | 45.00% | ~236,769 |
-| Starry Eyed | 34.00% | ~178,892 |
-| Poking Around | 34.00% | ~178,892 |
+| Riverborn | 45.00% | ~236,770 |
+| Starry Eyed | 34.00% | ~178,893 |
+| Poking Around | 34.00% | ~178,893 |
 | Talk of the Town | 24.00% | ~126,277 |
-| AAARR! | 23.00% | ~121,015 |
-| Hello Darkness | 23.00% | ~121,015 |
+| AAARR! | 23.00% | ~121,016 |
+| Hello Darkness | 23.00% | ~121,016 |
 | Wind At Our Backs | 22.00% | ~115,754 |
 | To the Beat | 20.00% | ~105,231 |
 | Sunny Shores | 17.00% | ~89,446 |
@@ -26,8 +26,8 @@ Number of Ratings: 617  (23.09.2022)
 | Keep On Trucking | 13.00% | ~68,400 |
 | Going on an Adventure | 11.00% | ~57,877 |
 | Make Peace, Not War | 11.00% | ~57,877 |
-| Walking The Line | 10.00% | ~52,615 |
-| Not So Cute Anymore | 10.00% | ~52,615 |
+| Walking The Line | 10.00% | ~52,616 |
+| Not So Cute Anymore | 10.00% | ~52,616 |
 | Road Less Travelled | 9.00% | ~47,354 |
 | Lost and Found | 9.00% | ~47,354 |
 | Under the Radar | 8.00% | ~42,092 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,578 |
 | Point Taken | 0.10% | ~526 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 526,154 (Ranked 31)  
+Progressed: 526,155 (Ranked 31)  
 Completed: 467 (0.09%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 467 (0.09%) (Ranked 216)
 | 2023-08-25 | 525,870 | 463 |
 | 2023-08-26 | 525,972 | 464 |
 | 2023-08-27 | 526,088 | 466 |
-| 2023-08-28 | 526,154 | 467 |
+| 2023-08-28 | 526,155 | 467 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

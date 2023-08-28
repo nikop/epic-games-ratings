@@ -6,22 +6,22 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~38,823 |
-| First Steps | 80.00% | ~33,396 |
-| Control the Shadows | 67.00% | ~27,969 |
-| Tools of the Trade | 63.00% | ~26,299 |
-| Apprentice | 60.00% | ~25,047 |
+| Awakening | 93.00% | ~38,824 |
+| First Steps | 80.00% | ~33,397 |
+| Control the Shadows | 67.00% | ~27,970 |
+| Tools of the Trade | 63.00% | ~26,300 |
+| Apprentice | 60.00% | ~25,048 |
 | Secret Seeker | 57.00% | ~23,795 |
 | Forge of Assassins | 55.00% | ~22,960 |
-| Revenant | 52.00% | ~21,707 |
-| I don’t Care! | 45.00% | ~18,785 |
+| Revenant | 52.00% | ~21,708 |
+| I don’t Care! | 45.00% | ~18,786 |
 | Bird of Prey | 37.00% | ~15,446 |
-| Engraved with Power | 32.00% | ~13,358 |
+| Engraved with Power | 32.00% | ~13,359 |
 | Lady | 31.00% | ~12,941 |
 | Fashionable Assassin | 27.00% | ~11,271 |
 | Apex Predator | 24.00% | ~10,019 |
 | Soul Reaver | 22.00% | ~9,184 |
-| Embers | 21.00% | ~8,766 |
+| Embers | 21.00% | ~8,767 |
 | Wall Lizard | 20.00% | ~8,349 |
 | Clinging to Life | 18.00% | ~7,514 |
 | Burning | 17.00% | ~7,097 |
@@ -31,7 +31,7 @@ Number of Ratings: 88  (23.09.2022)
 | War Engines | 14.00% | ~5,844 |
 | Signature Move | 14.00% | ~5,844 |
 | Ruse | 11.00% | ~4,592 |
-| Master Ninja | 10.00% | ~4,174 |
+| Master Ninja | 10.00% | ~4,175 |
 | Hatching | 9.00% | ~3,757 |
 | Bonds | 9.00% | ~3,757 |
 | Get Over Here | 9.00% | ~3,757 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Hot Potato | 1.00% | ~417 |
 | Anger Management | 1.00% | ~417 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,745 (Ranked 94)  
+Progressed: 41,746 (Ranked 94)  
 Completed: 215 (0.52%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 215 (0.52%) (Ranked 146)
 | 2023-08-25 | 41,481 | 211 |
 | 2023-08-26 | 41,588 | 213 |
 | 2023-08-27 | 41,680 | 214 |
-| 2023-08-28 | 41,745 | 215 |
+| 2023-08-28 | 41,746 | 215 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
