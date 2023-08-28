@@ -4,7 +4,7 @@
   "ProductSlug": "the-evil-within-2",
   "Ranking_EOS_Progress": 368,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -465,9 +465,9 @@
       "ID": "ACHIEVEMENT_22",
       "SetID": "b36c5kb",
       "Name": "Making Things a Little Easier",
-      "Percentage": 45,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -712,8 +712,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-08-28T02:22:35.7838966+00:00",
+  "LastChanged_Achievements": "2023-08-28T03:07:15.1523845+00:00",
   "LastUpdate_AppInfo": "2023-08-23T17:57:10.5850624+00:00",
-  "LastUpdate_Ratings": "2023-08-28T02:15:25.87093+00:00",
-  "LastUpdate_Achievements": "2023-08-28T02:22:35.7839371+00:00"
+  "LastUpdate_Ratings": "2023-08-28T03:00:08.800485+00:00",
+  "LastUpdate_Achievements": "2023-08-28T03:07:15.1524344+00:00"
 }

@@ -8,8 +8,8 @@ Rating: 4.73 (Ranked 161)
 | In a Pinch | 21.00% | ~1,551 |
 | Energy Saver | 17.00% | ~1,256 |
 | The Journey Onwards | 14.00% | ~1,034 |
-| Body and Soul | 11.00% | ~812 |
-| Globe Trotter | 11.00% | ~812 |
+| Body and Soul | 11.00% | ~813 |
+| Globe Trotter | 11.00% | ~813 |
 | Ahem Ahem | 10.00% | ~739 |
 | Audiophile | 7.00% | ~517 |
 | Clay Pigeon | 6.00% | ~443 |
@@ -27,7 +27,7 @@ Rating: 4.73 (Ranked 161)
 | Ça de Wizz! | 1.00% | ~74 |
 | Thing | 1.00% | ~74 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,386 (Ranked 135)  
+Progressed: 7,387 (Ranked 135)  
 Completed: 32 (0.43%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,6 +157,7 @@ Completed: 32 (0.43%) (Ranked 158)
 | 2023-08-25 | 7,365 | 32 |
 | 2023-08-26 | 7,376 | 32 |
 | 2023-08-27 | 7,386 | 32 |
+| 2023-08-28 | 7,387 | 32 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -9,7 +9,7 @@
 | Smarter than a 5th Grader | 36.00% | ~125 |
 | Study Session | 31.00% | ~108 |
 | Unlucky | 20.00% | ~70 |
-| Exam Practice | 12.00% | ~42 |
+| Exam Practice | 13.00% | ~45 |
 | In The Honor Roll | 10.00% | ~35 |
 | Byoing | 8.00% | ~28 |
 | 2nd Grade | 3.00% | ~10 |

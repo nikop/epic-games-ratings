@@ -6142,10 +6142,10 @@
       "Count": 3377
     }
   ],
-  "EOS_Progressed": 225567,
+  "EOS_Progressed": 225573,
   "EOS_Completed": 2222,
-  "EOS_NewPlayers": 1808,
-  "EOS_NewCompleters": 25,
+  "EOS_NewPlayers": 1798,
+  "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
     {
@@ -20342,6 +20342,11 @@
       "Time": "2023-08-28T02:24:32.6461976+00:00",
       "NumProgressed": 225567,
       "NumCompleted": 2222
+    },
+    {
+      "Time": "2023-08-28T03:09:13.4750848+00:00",
+      "NumProgressed": 225573,
+      "NumCompleted": 2222
     }
   ],
   "TotalAchievements": 516,
@@ -23151,9 +23156,9 @@
       "ID": "objective_completed_635",
       "SetID": "415jc5c",
       "Name": "Dreamscape",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 384
     },
     {
       "ID": "objective_completed_636",
@@ -24480,21 +24485,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 191841,
+      "Progressed": 191847,
       "Completed": 3315
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 225567,
+      "Progressed": 225573,
       "Completed": 2222
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-27T14:01:09.3672113+00:00",
-  "LastChanged_Achievements": "2023-08-28T02:24:32.646197+00:00",
+  "LastChanged_Achievements": "2023-08-28T03:09:13.475084+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:53.3345914+00:00",
-  "LastUpdate_Ratings": "2023-08-28T02:17:35.9780748+00:00",
-  "LastUpdate_Achievements": "2023-08-28T02:24:32.6484803+00:00"
+  "LastUpdate_Ratings": "2023-08-28T03:02:16.7128096+00:00",
+  "LastUpdate_Achievements": "2023-08-28T03:09:13.4783158+00:00"
 }

@@ -505,9 +505,9 @@
       "ID": "AC06",
       "SetID": "l4abp0",
       "Name": "The Last Ascension",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 133
+      "UsersEstimate": 138
     },
     {
       "ID": "AC07",
@@ -633,9 +633,9 @@
       "ID": "AC22",
       "SetID": "l4abp0",
       "Name": "Empty Handed",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 64
     },
     {
       "ID": "AC23",
@@ -689,9 +689,9 @@
       "ID": "AC29",
       "SetID": "l4abp0",
       "Name": "The Veteran One",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 99
     },
     {
       "ID": "AC30",
@@ -832,8 +832,8 @@
   ],
   "FirstSeen": "2023-07-26T07:57:19.1818171+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
-  "LastChanged_Achievements": "2023-08-28T02:22:01.6875845+00:00",
+  "LastChanged_Achievements": "2023-08-28T03:06:40.108603+00:00",
   "LastUpdate_AppInfo": "2023-08-22T18:57:00.5189311+00:00",
-  "LastUpdate_Ratings": "2023-08-28T02:15:34.1339247+00:00",
-  "LastUpdate_Achievements": "2023-08-28T02:22:01.6876277+00:00"
+  "LastUpdate_Ratings": "2023-08-28T03:00:18.0348081+00:00",
+  "LastUpdate_Achievements": "2023-08-28T03:06:40.1086456+00:00"
 }

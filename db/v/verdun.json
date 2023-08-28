@@ -1700,7 +1700,7 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 56453,
+  "EOS_Progressed": 56454,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 707,
   "EOS_NewCompleters": 0,
@@ -15775,6 +15775,11 @@
       "Time": "2023-08-28T02:20:54.5378923+00:00",
       "NumProgressed": 56453,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-28T03:05:35.3212038+00:00",
+      "NumProgressed": 56454,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -15786,7 +15791,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 31049
+      "UsersEstimate": 31050
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -16050,7 +16055,7 @@
       "Name": "Corpseman I",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 22581
+      "UsersEstimate": 22582
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -16074,7 +16079,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 35565
+      "UsersEstimate": 35566
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -16130,7 +16135,7 @@
       "Name": "Manual Labour I",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 14113
+      "UsersEstimate": 14114
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS2",
@@ -16154,7 +16159,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 44033
+      "UsersEstimate": 44034
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -16257,15 +16262,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 56453,
+      "Progressed": 56454,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-08-27T17:02:04.4791714+00:00",
-  "LastChanged_Achievements": "2023-08-28T02:20:54.5378916+00:00",
+  "LastChanged_Achievements": "2023-08-28T03:05:35.321203+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:23.3225006+00:00",
-  "LastUpdate_Ratings": "2023-08-28T02:18:04.5759442+00:00",
-  "LastUpdate_Achievements": "2023-08-28T02:20:54.5381118+00:00"
+  "LastUpdate_Ratings": "2023-08-28T03:02:44.0298321+00:00",
+  "LastUpdate_Achievements": "2023-08-28T03:05:35.3213759+00:00"
 }

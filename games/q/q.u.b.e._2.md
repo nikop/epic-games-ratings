@@ -6,9 +6,9 @@ Number of Ratings: 94  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Quick Understanding of Block Extrusion | 33.00% | ~2 |
-| Lost in Space | 33.00% | ~2 |
-| Nature or Nurture | 17.00% | ~1 |
+| Quick Understanding of Block Extrusion | 43.00% | ~3 |
+| Lost in Space | 43.00% | ~3 |
+| Nature or Nurture | 14.00% | ~1 |
 | Descendants | 0.00% | ~0 |
 | The Flawed Teacher | 0.00% | ~0 |
 | Green Cube Killer | 0.00% | ~0 |
@@ -36,14 +36,14 @@ Number of Ratings: 94  (23.09.2022)
 | Cogs in the Machine | 0.00% | ~0 |
 | Forgotten Memories | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6 (Ranked 466)  
+Progressed: 7 (Ranked 464)  
 Completed: 0 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-08-25 | 1 | 0 |
 | 2023-08-27 | 5 | 0 |
-| 2023-08-28 | 6 | 0 |
+| 2023-08-28 | 7 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

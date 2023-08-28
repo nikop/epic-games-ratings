@@ -1,45 +1,45 @@
 # Dying Light 2 Stay Human
 [Store](https://store.epicgames.com/en-US/p/dying-light-2-stay-human)  
 [View Rawdata](../../db/d/dying_light_2_stay_human.json)  
-Rating: 4.58 (Ranked 429)  
+Rating: 4.58 (Ranked 428)  
 Number of Ratings: 7,305  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 39.00% | ~240,540 |
-| First Shot | 36.00% | ~222,036 |
-| Into the Unknown | 35.00% | ~215,869 |
-| Herzlich Wilkommen! | 34.00% | ~209,701 |
-| Good Night & Good Luck | 33.00% | ~203,533 |
-| Sancho Panza | 32.00% | ~197,366 |
-| Oh, So This Is How It Works! | 29.00% | ~178,863 |
-| Flag Burning | 27.00% | ~166,527 |
-| Under Pressure | 25.00% | ~154,192 |
-| It Wasn't That Hard, Was It? | 25.00% | ~154,192 |
-| Can't Touch This! | 25.00% | ~154,192 |
-| On the Trail of the Enemy | 24.00% | ~148,024 |
-| Light in the Darkness | 24.00% | ~148,024 |
-| Get Outta My House! | 23.00% | ~141,857 |
-| Night Hunter | 22.00% | ~135,689 |
-| Being All Social | 22.00% | ~135,689 |
-| After the Fall | 20.00% | ~123,354 |
-| We Will Be Heard! | 18.00% | ~111,018 |
-| Tunnel Entrance | 18.00% | ~111,018 |
+| You Never Forget Your First... | 39.00% | ~240,541 |
+| First Shot | 36.00% | ~222,038 |
+| Into the Unknown | 35.00% | ~215,871 |
+| Herzlich Wilkommen! | 34.00% | ~209,703 |
+| Good Night & Good Luck | 33.00% | ~203,535 |
+| Sancho Panza | 32.00% | ~197,367 |
+| Oh, So This Is How It Works! | 29.00% | ~178,864 |
+| Flag Burning | 27.00% | ~166,529 |
+| Under Pressure | 25.00% | ~154,193 |
+| It Wasn't That Hard, Was It? | 25.00% | ~154,193 |
+| Can't Touch This! | 25.00% | ~154,193 |
+| On the Trail of the Enemy | 24.00% | ~148,026 |
+| Light in the Darkness | 24.00% | ~148,026 |
+| Get Outta My House! | 23.00% | ~141,858 |
+| Night Hunter | 22.00% | ~135,690 |
+| Being All Social | 22.00% | ~135,690 |
+| After the Fall | 20.00% | ~123,355 |
+| We Will Be Heard! | 18.00% | ~111,019 |
+| Tunnel Entrance | 18.00% | ~111,019 |
 | Known Associate | 17.00% | ~104,851 |
-| Brush with Death | 16.00% | ~98,683 |
-| Debris and Ashes | 15.00% | ~92,515 |
-| Going Down | 15.00% | ~92,515 |
-| Family First | 15.00% | ~92,515 |
-| Your World, Your Rules | 15.00% | ~92,515 |
+| Brush with Death | 16.00% | ~98,684 |
+| Debris and Ashes | 15.00% | ~92,516 |
+| Going Down | 15.00% | ~92,516 |
+| Family First | 15.00% | ~92,516 |
+| Your World, Your Rules | 15.00% | ~92,516 |
 | Death From Afar | 14.00% | ~86,348 |
 | Terminal Headache | 14.00% | ~86,348 |
-| Slowpoke! | 12.00% | ~74,012 |
+| Slowpoke! | 12.00% | ~74,013 |
 | Tickets, Please! | 7.00% | ~43,174 |
 | Parkour Master | 6.00% | ~37,006 |
 | Combat Master | 6.00% | ~37,006 |
-| Municipal Services | 5.00% | ~30,838 |
-| Ban Hammer | 5.00% | ~30,838 |
-| Modder | 5.00% | ~30,838 |
+| Municipal Services | 5.00% | ~30,839 |
+| Ban Hammer | 5.00% | ~30,839 |
+| Modder | 5.00% | ~30,839 |
 | Tube Map | 4.00% | ~24,671 |
 | Don Quixote | 4.00% | ~24,671 |
 | Can't You Read the Signs? | 4.00% | ~24,671 |
@@ -59,8 +59,8 @@ Number of Ratings: 7,305  (23.09.2022)
 | Night of Terrors | 0.90% | ~2,360 |
 | Man On a Mission | 0.80% | ~4,934 |
 | Get the Point? | 0.80% | ~4,934 |
-| My Friend, Ciro | 0.70% | ~1,835 |
-| Skullcrusher | 0.70% | ~1,835 |
+| My Friend, Ciro | 0.70% | ~1,836 |
+| Skullcrusher | 0.70% | ~1,836 |
 | Ultramarathon | 0.30% | ~1,850 |
 | Don't Look Up | 0.20% | ~1,234 |
 | True Nightrunner | 0.10% | ~617 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~262 |
 | Connoisseur | 0.10% | ~262 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 616,768 (Ranked 27)  
+Progressed: 616,773 (Ranked 27)  
 Completed: 62 (0.01%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 62 (0.01%) (Ranked 252)
 | 2023-08-25 | 615,875 | 62 |
 | 2023-08-26 | 616,263 | 62 |
 | 2023-08-27 | 616,734 | 62 |
-| 2023-08-28 | 616,768 | 62 |
+| 2023-08-28 | 616,773 | 62 |
 ## Awards
 Max (Character Customization): 8,906  (Ranked 39)  
 Sum: 21,413 (Ranked 55)  

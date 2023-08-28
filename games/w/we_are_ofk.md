@@ -33,7 +33,7 @@
 | Waffles | 0.00% | ~0 |
 | We Are OFK | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 516)  
+Progressed: 1 (Ranked 517)  
 Completed: 0 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -5868,9 +5868,9 @@
       "Count": 372
     }
   ],
-  "EOS_Progressed": 712768,
+  "EOS_Progressed": 712771,
   "EOS_Completed": 12874,
-  "EOS_NewPlayers": 192,
+  "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -17838,6 +17838,11 @@
       "Time": "2023-08-28T02:22:25.0377246+00:00",
       "NumProgressed": 712768,
       "NumCompleted": 12874
+    },
+    {
+      "Time": "2023-08-28T03:07:03.5885497+00:00",
+      "NumProgressed": 712771,
+      "NumCompleted": 12874
     }
   ],
   "TotalAchievements": 50,
@@ -18193,7 +18198,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1103
+      "UsersEstimate": 1104
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -18241,28 +18246,28 @@
       "Name": "A Touch of Acumen",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     }
   ],
   "AchievementSets": [
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 22069,
+      "Progressed": 22072,
       "Completed": 10561
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 712768,
+      "Progressed": 712771,
       "Completed": 12874
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-08-28T01:39:07.7993965+00:00",
-  "LastChanged_Achievements": "2023-08-28T02:22:25.037724+00:00",
+  "LastChanged_Achievements": "2023-08-28T03:07:03.5885489+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:37.9351908+00:00",
-  "LastUpdate_Ratings": "2023-08-28T02:13:32.0850356+00:00",
-  "LastUpdate_Achievements": "2023-08-28T02:22:25.0378338+00:00"
+  "LastUpdate_Ratings": "2023-08-28T02:58:15.0308568+00:00",
+  "LastUpdate_Achievements": "2023-08-28T03:07:03.5886672+00:00"
 }

@@ -96,6 +96,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Elturel Has Fallen | 0.20% | ~451 |
 | Resolve Amongst Chaos | 0.20% | ~451 |
 | Into The Fire | 0.20% | ~384 |
+| Dreamscape | 0.20% | ~384 |
 | Escort to Waterdeep | 0.20% | ~451 |
 | The Giant's Bane Tavern | 0.20% | ~384 |
 | The Everlasting Rime | 0.20% | ~384 |
@@ -384,7 +385,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Difficult Descent | 0.10% | ~192 |
 | The Devil Arrives | 0.10% | ~192 |
 | Hearts Aflame | 0.10% | ~192 |
-| Dreamscape | 0.10% | ~192 |
 | Dream Gauntlet | 0.10% | ~192 |
 | Zombie Dreams | 0.10% | ~192 |
 | Look Out! | 0.10% | ~192 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~192 |
 | Animated Giff | 0.10% | ~192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,567 (Ranked 53)  
+Progressed: 225,573 (Ranked 53)  
 Completed: 2,222 (0.99%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -653,7 +653,7 @@ Completed: 2,222 (0.99%) (Ranked 120)
 | 2023-08-25 | 224,925 | 2,214 |
 | 2023-08-26 | 225,221 | 2,219 |
 | 2023-08-27 | 225,526 | 2,222 |
-| 2023-08-28 | 225,567 | 2,222 |
+| 2023-08-28 | 225,573 | 2,222 |
 ## Awards
 Max (Diverse Characters): 5,196  (Ranked 68)  
 Sum: 31,250 (Ranked 39)  

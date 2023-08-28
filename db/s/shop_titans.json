@@ -5778,7 +5778,7 @@
   ],
   "EOS_Progressed": 135259,
   "EOS_Completed": 138,
-  "EOS_NewPlayers": 399,
+  "EOS_NewPlayers": 397,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -19305,9 +19305,9 @@
       "ID": "commonres02",
       "SetID": "anfd17p",
       "Name": "Demand for Supplies",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 676
+      "UsersEstimate": 812
     },
     {
       "ID": "commonres03",
@@ -19417,9 +19417,9 @@
       "ID": "energy01",
       "SetID": "anfd17p",
       "Name": "Another Satisfied Customer",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1082
+      "UsersEstimate": 1217
     },
     {
       "ID": "energy02",
@@ -19969,8 +19969,8 @@
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-27T21:02:07.4000911+00:00",
-  "LastChanged_Achievements": "2023-08-28T02:24:11.0851486+00:00",
+  "LastChanged_Achievements": "2023-08-28T03:08:51.4613256+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:19.0477827+00:00",
-  "LastUpdate_Ratings": "2023-08-28T02:18:01.3175315+00:00",
-  "LastUpdate_Achievements": "2023-08-28T02:24:11.0854705+00:00"
+  "LastUpdate_Ratings": "2023-08-28T03:02:41.0673178+00:00",
+  "LastUpdate_Achievements": "2023-08-28T03:08:51.4615904+00:00"
 }

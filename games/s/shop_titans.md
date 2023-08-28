@@ -13,22 +13,22 @@ Number of Ratings: 12,664  (23.09.2022)
 | It's Free Real Estate | 1.00% | ~1,353 |
 | Tinkle of Coins | 1.00% | ~1,353 |
 | Capitalism Ho! | 1.00% | ~1,353 |
+| Another Satisfied Customer | 0.90% | ~1,217 |
 | Budding Merchant | 0.90% | ~1,217 |
 | One Easy Payment | 0.80% | ~1,082 |
 | Some Assembly Required | 0.80% | ~1,082 |
-| Another Satisfied Customer | 0.80% | ~1,082 |
 | Pretty Penny | 0.80% | ~1,082 |
 | Own the Means of Production | 0.80% | ~1,082 |
 | One-Armed Bandit | 0.70% | ~947 |
 | Through Repetition, Perfection | 0.70% | ~947 |
 | The Daily Grind | 0.60% | ~812 |
 | Bounty Hunters | 0.60% | ~812 |
+| Demand for Supplies | 0.60% | ~812 |
 | Flooding the Market | 0.60% | ~812 |
 | Where it Hurts | 0.60% | ~812 |
 | Dungeon Imports | 0.60% | ~812 |
 | Ascended | 0.50% | ~676 |
 | Blank Page Syndrome | 0.50% | ~676 |
-| Demand for Supplies | 0.50% | ~676 |
 | Efficient Floor Space | 0.50% | ~676 |
 | Gem Expert | 0.50% | ~676 |
 | Gild-Gotten Goods | 0.50% | ~676 |

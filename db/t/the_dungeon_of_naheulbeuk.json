@@ -2,7 +2,7 @@
   "ID": "456d95ca54814c8d98db2f52346ff5de",
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
-  "Ranking_Rating": 429,
+  "Ranking_Rating": 428,
   "Ranking_Popularity": 282,
   "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 56,
@@ -732,9 +732,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 218371,
+  "EOS_Progressed": 218383,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3001,
+  "EOS_NewPlayers": 3006,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8567,6 +8567,11 @@
       "Time": "2023-08-28T02:19:19.3451823+00:00",
       "NumProgressed": 218371,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-28T03:03:39.4427941+00:00",
+      "NumProgressed": 218383,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -8626,7 +8631,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4367
+      "UsersEstimate": 4368
     },
     {
       "ID": "Chapter2",
@@ -8720,9 +8725,9 @@
       "ID": "CompanionPaladine",
       "SetID": "50chcgj",
       "Name": "Res Judicata",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1092
+      "UsersEstimate": 1310
     },
     {
       "ID": "CompanionPriestress",
@@ -9010,7 +9015,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4367
+      "UsersEstimate": 4368
     },
     {
       "ID": "ElfEpic",
@@ -9026,7 +9031,7 @@
       "Name": "Sowwy!",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 54593
+      "UsersEstimate": 54596
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -9106,7 +9111,7 @@
       "Name": "Dead for good",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "KillGolbargh",
@@ -9130,7 +9135,7 @@
       "Name": "Gargantua",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "Orktobearfest",
@@ -9194,7 +9199,7 @@
       "Name": "Lust and Debauchery",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "RangerEpic",
@@ -9226,7 +9231,7 @@
       "Name": "Speedrun",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4367
+      "UsersEstimate": 4368
     },
     {
       "ID": "SupportCount4",
@@ -9266,7 +9271,7 @@
       "Name": "Material Girl",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "WizardResistBurn",
@@ -9281,21 +9286,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 218371,
+      "Progressed": 218383,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 218371,
+      "Progressed": 218383,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-27T21:02:19.3722902+00:00",
-  "LastChanged_Achievements": "2023-08-28T02:19:19.3451817+00:00",
+  "LastChanged_Achievements": "2023-08-28T03:03:39.4427934+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:41.9661267+00:00",
-  "LastUpdate_Ratings": "2023-08-28T02:18:12.7072174+00:00",
-  "LastUpdate_Achievements": "2023-08-28T02:19:19.3453132+00:00"
+  "LastUpdate_Ratings": "2023-08-28T03:02:52.2428911+00:00",
+  "LastUpdate_Achievements": "2023-08-28T03:03:39.4429511+00:00"
 }
