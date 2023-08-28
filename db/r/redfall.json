@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 291,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -2234,9 +2234,9 @@
       "ID": "Achievement_006",
       "SetID": "6b34g18",
       "Name": "Contingency Plans",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Achievement_007",
@@ -2394,9 +2394,9 @@
       "ID": "Achievement_026",
       "SetID": "6b34g18",
       "Name": "Fly Fisher",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "Achievement_027",
@@ -2618,9 +2618,9 @@
       "ID": "Achievement_057",
       "SetID": "6b34g18",
       "Name": "Under a Bushel",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "Achievement_058",
@@ -2739,8 +2739,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-08-08T16:59:16.4444629+00:00",
-  "LastChanged_Achievements": "2023-08-28T05:06:03.1924147+00:00",
+  "LastChanged_Achievements": "2023-08-28T06:05:14.2805174+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:29.8019925+00:00",
-  "LastUpdate_Ratings": "2023-08-28T05:01:21.3398306+00:00",
-  "LastUpdate_Achievements": "2023-08-28T05:06:03.1925425+00:00"
+  "LastUpdate_Ratings": "2023-08-28T06:00:42.48965+00:00",
+  "LastUpdate_Achievements": "2023-08-28T06:05:14.2806122+00:00"
 }

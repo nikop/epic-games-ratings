@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 32,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 252,
-  "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -8355,9 +8355,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 47839,
+  "EOS_Progressed": 47840,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 339,
+  "EOS_NewPlayers": 340,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19955,6 +19955,11 @@
       "Time": "2023-08-28T05:04:14.90252+00:00",
       "NumProgressed": 47839,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-08-28T06:03:39.9710858+00:00",
+      "NumProgressed": 47840,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -20046,7 +20051,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 30617
+      "UsersEstimate": 30618
     },
     {
       "ID": "CutTree",
@@ -20102,7 +20107,7 @@
       "Name": "Plant get enough",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 28703
+      "UsersEstimate": 28704
     },
     {
       "ID": "Harvested",
@@ -20118,7 +20123,7 @@
       "Name": "Own use",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 35879
+      "UsersEstimate": 35880
     },
     {
       "ID": "HorseJumps",
@@ -20150,7 +20155,7 @@
       "Name": "It\u0027s never too late to farm",
       "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 23441
+      "UsersEstimate": 23442
     },
     {
       "ID": "Mission",
@@ -20198,7 +20203,7 @@
       "Name": "All out of Land",
       "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 21049
+      "UsersEstimate": 21050
     },
     {
       "ID": "NumProductionPoints",
@@ -20238,7 +20243,7 @@
       "Name": "It\u0027s just the beginning",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 28225
+      "UsersEstimate": 28226
     },
     {
       "ID": "Sow",
@@ -20302,22 +20307,22 @@
       "Name": "That\u0027s a wrap",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 6697
+      "UsersEstimate": 6698
     }
   ],
   "AchievementSets": [
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 47839,
+      "Progressed": 47840,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-08-27T17:58:11.5471424+00:00",
-  "LastChanged_Achievements": "2023-08-28T05:04:14.9025195+00:00",
+  "LastChanged_Achievements": "2023-08-28T06:03:39.9710852+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:11.3662748+00:00",
-  "LastUpdate_Ratings": "2023-08-28T04:58:28.2177273+00:00",
-  "LastUpdate_Achievements": "2023-08-28T05:04:14.9026386+00:00"
+  "LastUpdate_Ratings": "2023-08-28T05:58:12.2788858+00:00",
+  "LastUpdate_Achievements": "2023-08-28T06:03:39.9712126+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "Pixel Art Coloring Book",
   "ProductSlug": "pixel-art-coloring-book-a485ef",
   "Ranking_EOS_Progress": 164,
-  "Ranking_EOS_Completed": 138,
+  "Ranking_EOS_Completed": 139,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
     "PcReleaseDate": "2021-04-01T07:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2644,
+  "EOS_Progressed": 2645,
   "EOS_Completed": 16,
   "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.61,
+  "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
     {
       "Time": "2023-06-26T07:03:57.4473035+00:00",
@@ -5171,6 +5171,11 @@
       "Time": "2023-08-28T05:03:28.0933535+00:00",
       "NumProgressed": 2644,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-08-28T06:03:07.4238658+00:00",
+      "NumProgressed": 2645,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 16,
@@ -5214,7 +5219,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 2009
+      "UsersEstimate": 2010
     },
     {
       "ID": "ach_architecture_completed",
@@ -5270,7 +5275,7 @@
       "Name": "Food - unlocked",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     },
     {
       "ID": "ach_game_opened",
@@ -5302,21 +5307,21 @@
       "Name": "Aeolus",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     }
   ],
   "AchievementSets": [
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 2644,
+      "Progressed": 2645,
       "Completed": 16
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-08-28T05:03:28.0933528+00:00",
+  "LastChanged_Achievements": "2023-08-28T06:03:07.4238651+00:00",
   "LastUpdate_AppInfo": "2023-08-25T13:01:03.6114977+00:00",
-  "LastUpdate_Ratings": "2023-08-28T05:00:16.2991781+00:00",
-  "LastUpdate_Achievements": "2023-08-28T05:03:28.0934307+00:00"
+  "LastUpdate_Ratings": "2023-08-28T05:59:45.2726248+00:00",
+  "LastUpdate_Achievements": "2023-08-28T06:03:07.4239235+00:00"
 }

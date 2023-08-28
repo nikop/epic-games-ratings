@@ -6,14 +6,14 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~21,875 |
-| Exploitative | 4.00% | ~17,500 |
-| Point Shooting | 4.00% | ~17,500 |
-| Wet Feet | 4.00% | ~17,500 |
-| High Speed Low Drag | 3.00% | ~13,125 |
-| Lucky | 3.00% | ~13,125 |
-| Stylin' | 3.00% | ~13,125 |
-| Turf War | 3.00% | ~13,125 |
+| Wallbanger | 5.00% | ~21,876 |
+| Exploitative | 4.00% | ~17,501 |
+| Point Shooting | 4.00% | ~17,501 |
+| Wet Feet | 4.00% | ~17,501 |
+| High Speed Low Drag | 3.00% | ~13,126 |
+| Lucky | 3.00% | ~13,126 |
+| Stylin' | 3.00% | ~13,126 |
+| Turf War | 3.00% | ~13,126 |
 | Banged | 2.00% | ~8,750 |
 | Checkpoint Victory | 2.00% | ~8,750 |
 | First Blood | 2.00% | ~8,750 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~438 |
 | Road Hazard | 0.10% | ~438 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 437,502 (Ranked 38)  
+Progressed: 437,524 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,10 +172,10 @@ Completed: 2 (0.00%) (Ranked 265)
 | 2023-08-25 | 436,385 | 2 |
 | 2023-08-26 | 436,858 | 2 |
 | 2023-08-27 | 437,354 | 2 |
-| 2023-08-28 | 437,502 | 2 |
+| 2023-08-28 | 437,524 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 377  (Ranked 223)  
-Sum: 2,932 (Ranked 167)  
+Sum: 2,933 (Ranked 167)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
@@ -185,7 +185,7 @@ Diff (max vs sum): 56
 | This game has Competitive Players | 341 |
 | This game is Highly Recommended | 315 |
 | This game has Realistic Visuals | 314 |
-| This game has Amazing Characters | 307 |
+| This game has Amazing Characters | 308 |
 | This game has Amazing Storytelling | 307 |
 | This game has a Competitive Community | 272 |
 | This game has Obsessive Gameplay | 156 |
@@ -410,3 +410,4 @@ Diff (max vs sum): 56
 | 2023-08-25 | 4.62 | - | 376 | 2,924 |
 | 2023-08-26 | 4.62 | - | 377 | 2,929 |
 | 2023-08-27 | 4.62 | - | 377 | 2,932 |
+| 2023-08-28 | 4.62 | - | 377 | 2,933 |

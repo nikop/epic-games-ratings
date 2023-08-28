@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -250,9 +250,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23985,
+  "EOS_Progressed": 23986,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4535,6 +4535,11 @@
       "Time": "2023-08-27T22:05:20.8494661+00:00",
       "NumProgressed": 23985,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-08-28T06:05:14.4939495+00:00",
+      "NumProgressed": 23986,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 32,
@@ -4562,7 +4567,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 18468
+      "UsersEstimate": 18469
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -4626,7 +4631,7 @@
       "Name": "RIP Davey Glutes",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 5756
+      "UsersEstimate": 5757
     },
     {
       "ID": "ACH_GET_SWEEZY",
@@ -4666,7 +4671,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 13671
+      "UsersEstimate": 13672
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -4674,7 +4679,7 @@
       "Name": "First Bounty Down",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 14151
+      "UsersEstimate": 14152
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -4730,7 +4735,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 17509
+      "UsersEstimate": 17510
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -4801,22 +4806,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 23985,
+      "Progressed": 23986,
       "Completed": 12
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1278,
-      "Completed": 1278
+      "Progressed": 1279,
+      "Completed": 1279
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-08-28T03:02:03.0418105+00:00",
-  "LastChanged_Achievements": "2023-08-28T05:06:03.4647171+00:00",
+  "LastChanged_Achievements": "2023-08-28T06:05:14.4939488+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:40.4978625+00:00",
-  "LastUpdate_Ratings": "2023-08-28T05:01:33.8157951+00:00",
-  "LastUpdate_Achievements": "2023-08-28T05:06:03.4648061+00:00"
+  "LastUpdate_Ratings": "2023-08-28T06:00:52.3734113+00:00",
+  "LastUpdate_Achievements": "2023-08-28T06:05:14.494016+00:00"
 }

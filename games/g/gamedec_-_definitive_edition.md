@@ -6,9 +6,9 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~68,284 |
+| I will finish what you started | 28.00% | ~68,285 |
 | Powergamer | 27.00% | ~65,846 |
-| Barely scratched the surface | 25.00% | ~60,968 |
+| Barely scratched the surface | 25.00% | ~60,969 |
 | Write that down | 24.00% | ~58,530 |
 | Guns, lots of guns | 12.00% | ~29,265 |
 | Collector | 11.00% | ~26,826 |
@@ -27,13 +27,13 @@ Number of Ratings: 33  (23.09.2022)
 | Hoarder | 3.00% | ~7,316 |
 | I like to sniff around | 3.00% | ~7,316 |
 | Mind reader | 3.00% | ~7,316 |
-| Gentleman's classic | 2.00% | ~4,877 |
-| Is that a rift? | 2.00% | ~4,877 |
-| It's alive! | 2.00% | ~4,877 |
-| Enjoy the beach | 2.00% | ~4,877 |
-| Rinse and repeat | 2.00% | ~4,877 |
-| Mama, I'm a criminal | 2.00% | ~4,877 |
-| Never gonna give you up | 2.00% | ~4,877 |
+| Gentleman's classic | 2.00% | ~4,878 |
+| Is that a rift? | 2.00% | ~4,878 |
+| It's alive! | 2.00% | ~4,878 |
+| Enjoy the beach | 2.00% | ~4,878 |
+| Rinse and repeat | 2.00% | ~4,878 |
+| Mama, I'm a criminal | 2.00% | ~4,878 |
+| Never gonna give you up | 2.00% | ~4,878 |
 | A muscle to rely on | 1.00% | ~2,439 |
 | A true blacksmith | 1.00% | ~2,439 |
 | Catnip | 1.00% | ~2,439 |
@@ -49,8 +49,8 @@ Number of Ratings: 33  (23.09.2022)
 | It's blue, always blue | 0.70% | ~1,707 |
 | Enjoy these little moments | 0.50% | ~1,219 |
 | Who wouldn't love a troll? | 0.50% | ~1,219 |
-| Irondec | 0.40% | ~975 |
-| Un-bear-able | 0.40% | ~975 |
+| Irondec | 0.40% | ~976 |
+| Un-bear-able | 0.40% | ~976 |
 | LET ME OUT! | 0.30% | ~732 |
 | Well-deserved reunion | 0.30% | ~732 |
 | Breaking the chains | 0.20% | ~488 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~488 |
 | Memory 5 | 0.10% | ~244 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,873 (Ranked 48)  
+Progressed: 243,875 (Ranked 48)  
 Completed: 7 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 7 (0.00%) (Ranked 265)
 | 2023-08-25 | 243,525 | 7 |
 | 2023-08-26 | 243,688 | 7 |
 | 2023-08-27 | 243,850 | 7 |
-| 2023-08-28 | 243,873 | 7 |
+| 2023-08-28 | 243,875 | 7 |
 ## Awards
 Max (Character Customization): 79  (Ranked 363)  
 Sum: 79 (Ranked 428)  

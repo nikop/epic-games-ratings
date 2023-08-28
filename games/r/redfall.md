@@ -8,21 +8,21 @@ Rating: 3.50 (Ranked 979)
 | Ne Plus Ultra | 0.50% | ~9 |
 | Blood Will Have Blood | 0.40% | ~7 |
 | Enter of Your Own Free Will | 0.30% | ~5 |
+| Fly Fisher | 0.30% | ~5 |
 | Sucks To Be You | 0.30% | ~5 |
 | Heart Attack | 0.30% | ~5 |
 | Neighborhood Revitalization | 0.20% | ~3 |
+| Contingency Plans | 0.20% | ~3 |
 | I Like My Stakes Rare! | 0.20% | ~3 |
 | Sic Transit Umbra | 0.20% | ~3 |
 | Radio Silence | 0.20% | ~3 |
 | Good Morning | 0.20% | ~3 |
 | Grounded | 0.20% | ~3 |
-| Fly Fisher | 0.20% | ~3 |
 | ICU | 0.20% | ~3 |
 | From the Shadows | 0.20% | ~3 |
 | Skin of Their Teeth | 0.20% | ~3 |
 | Harvest’s End | 0.20% | ~3 |
 | Revelations | 0.10% | ~2 |
-| Contingency Plans | 0.10% | ~2 |
 | Welcome to the Neighborhood | 0.10% | ~2 |
 | Neighborhood Watch | 0.10% | ~2 |
 | Bad Wiring | 0.10% | ~2 |
@@ -39,6 +39,7 @@ Rating: 3.50 (Ranked 979)
 | Right This Way | 0.10% | ~2 |
 | Nice Try | 0.10% | ~2 |
 | Blacklight Down | 0.10% | ~2 |
+| Under a Bushel | 0.10% | ~2 |
 | Enemy of My Enemy | 0.10% | ~2 |
 | Dexterity Save | 0.10% | ~2 |
 | Bob’s Final Hour | 0.10% | ~2 |
@@ -64,7 +65,6 @@ Rating: 3.50 (Ranked 979)
 | Sepsis | 0.00% | ~0 |
 | So Anyway I Started Blasting | 0.00% | ~0 |
 | Rum Runner | 0.00% | ~0 |
-| Under a Bushel | 0.00% | ~0 |
 | Saw That Coming | 0.00% | ~0 |
 | Lights Out | 0.00% | ~0 |
 | Say Goodbye, Joe | 0.00% | ~0 |

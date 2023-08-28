@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-07-05T16:00:00+00:00",
     "PcReleaseDate": "2021-07-08T21:30:00+00:00",
@@ -805,9 +805,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 8749,
+  "EOS_Progressed": 8750,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8315,6 +8315,11 @@
       "Time": "2023-08-28T05:04:21.7812671+00:00",
       "NumProgressed": 8749,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-28T06:03:45.9895968+00:00",
+      "NumProgressed": 8750,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -8326,7 +8331,7 @@
       "Name": "Adventure Time",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 6999
+      "UsersEstimate": 7000
     },
     {
       "ID": "ACH_BOOTY_BASHING",
@@ -8374,7 +8379,7 @@
       "Name": "Everybody Freeze",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH_FIELD_MEDIC",
@@ -8390,7 +8395,7 @@
       "Name": "Get Furious",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 4899
+      "UsersEstimate": 4900
     },
     {
       "ID": "ACH_GET_IN_THE_RING",
@@ -8422,7 +8427,7 @@
       "Name": "Guardian Angel",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 2537
+      "UsersEstimate": 2538
     },
     {
       "ID": "ACH_GUNPLAY_AND_COSPLAY",
@@ -8486,7 +8491,7 @@
       "Name": "Master of Arms",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "ACH_MECHING_ENEMIES",
@@ -8494,7 +8499,7 @@
       "Name": "Meching Enemies",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 4287
+      "UsersEstimate": 4288
     },
     {
       "ID": "ACH_NATURE_IS_LIT",
@@ -8526,7 +8531,7 @@
       "Name": "Photogenic",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 7699
+      "UsersEstimate": 7700
     },
     {
       "ID": "ACH_PLAYING_WITH_POWER",
@@ -8534,7 +8539,7 @@
       "Name": "Playing With Power",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 6737
+      "UsersEstimate": 6738
     },
     {
       "ID": "ACH_PLUG_IT_IN",
@@ -8542,7 +8547,7 @@
       "Name": "Plug It In",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 7349
+      "UsersEstimate": 7350
     },
     {
       "ID": "ACH_POPPIN_NOGGINS",
@@ -8550,7 +8555,7 @@
       "Name": "Poppin Noggins",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2187
+      "UsersEstimate": 2188
     },
     {
       "ID": "ACH_PYROTECHNICAL",
@@ -8558,7 +8563,7 @@
       "Name": "Pyrotechnical",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_RAPID_RESPONSE",
@@ -8566,7 +8571,7 @@
       "Name": "Rapid Response",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2887
+      "UsersEstimate": 2888
     },
     {
       "ID": "ACH_RESCUE_RANGER",
@@ -8614,7 +8619,7 @@
       "Name": "Stop Hitting Yourself",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "ACH_SURGE_AHEAD",
@@ -8630,7 +8635,7 @@
       "Name": "Surge Gauntlet Jockey",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 7437
+      "UsersEstimate": 7438
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_SCHOLAR",
@@ -8686,7 +8691,7 @@
       "Name": "Ticket Titan",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "ACH_TICKET_TODDLER",
@@ -8702,7 +8707,7 @@
       "Name": "To Be Continued",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1137
+      "UsersEstimate": 1138
     },
     {
       "ID": "ACH_TREASURE_HUNTING",
@@ -8718,22 +8723,22 @@
       "Name": "You\u0027re Fired",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 4987
+      "UsersEstimate": 4988
     }
   ],
   "AchievementSets": [
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 8749,
+      "Progressed": 8750,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-08-26T20:00:35.7638422+00:00",
-  "LastChanged_Achievements": "2023-08-28T05:04:21.7812662+00:00",
+  "LastChanged_Achievements": "2023-08-28T06:03:45.9895961+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:17.4736021+00:00",
-  "LastUpdate_Ratings": "2023-08-28T04:57:09.1819367+00:00",
-  "LastUpdate_Achievements": "2023-08-28T05:04:21.7814253+00:00"
+  "LastUpdate_Ratings": "2023-08-28T05:57:04.6562951+00:00",
+  "LastUpdate_Achievements": "2023-08-28T06:03:45.9897215+00:00"
 }

@@ -6,28 +6,28 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~21,797 |
+| Genin | 11.00% | ~21,798 |
 | Thorough | 10.00% | ~19,816 |
-| A thief's beginning | 9.00% | ~17,834 |
+| A thief's beginning | 9.00% | ~17,835 |
 | Disguised | 8.00% | ~15,853 |
 | Rollin' | 8.00% | ~15,853 |
 | Tanuki Time | 8.00% | ~15,853 |
-| Ice Ice Yuki | 7.00% | ~13,871 |
-| Jonin | 7.00% | ~13,871 |
-| Rescue Takuma | 7.00% | ~13,871 |
-| Stoned Ox | 7.00% | ~13,871 |
-| Yabu | 7.00% | ~13,871 |
-| Chunin | 6.00% | ~11,889 |
-| Happy Planning | 6.00% | ~11,889 |
-| Mugen Unchained | 6.00% | ~11,889 |
+| Ice Ice Yuki | 7.00% | ~13,872 |
+| Jonin | 7.00% | ~13,872 |
+| Rescue Takuma | 7.00% | ~13,872 |
+| Stoned Ox | 7.00% | ~13,872 |
+| Yabu | 7.00% | ~13,872 |
+| Chunin | 6.00% | ~11,890 |
+| Happy Planning | 6.00% | ~11,890 |
+| Mugen Unchained | 6.00% | ~11,890 |
 | Flying Rocks | 5.00% | ~9,908 |
 | Okkoto | 5.00% | ~9,908 |
 | Too Early | 5.00% | ~9,908 |
 | Warzone | 5.00% | ~9,908 |
-| Gear up | 4.00% | ~7,926 |
-| Happy little accidents | 4.00% | ~7,926 |
-| Prisoners | 4.00% | ~7,926 |
-| Still Rollin' | 4.00% | ~7,926 |
+| Gear up | 4.00% | ~7,927 |
+| Happy little accidents | 4.00% | ~7,927 |
+| Prisoners | 4.00% | ~7,927 |
+| Still Rollin' | 4.00% | ~7,927 |
 | Noboru | 3.00% | ~5,945 |
 | Stoned | 3.00% | ~5,945 |
 | The Old Way | 3.00% | ~5,945 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~198 |
 | Release the Kraken | 0.10% | ~198 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 198,158 (Ranked 60)  
+Progressed: 198,165 (Ranked 60)  
 Completed: 72 (0.04%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 72 (0.04%) (Ranked 235)
 | 2023-08-25 | 197,462 | 72 |
 | 2023-08-26 | 197,773 | 72 |
 | 2023-08-27 | 198,119 | 72 |
-| 2023-08-28 | 198,158 | 72 |
+| 2023-08-28 | 198,165 | 72 |
 ## Awards
 Max (Great for Beginners): 562  (Ranked 188)  
 Sum: 4,736 (Ranked 135)  

@@ -6,16 +6,16 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 75.00% | ~35,879 |
-| I read Shakespeare and stuff | 64.00% | ~30,617 |
+| Own use | 75.00% | ~35,880 |
+| I read Shakespeare and stuff | 64.00% | ~30,618 |
 | Just a sprinkle | 63.00% | ~30,139 |
 | I'm stumped | 61.00% | ~29,182 |
-| Plant get enough | 60.00% | ~28,703 |
-| It's just the beginning | 59.00% | ~28,225 |
+| Plant get enough | 60.00% | ~28,704 |
+| It's just the beginning | 59.00% | ~28,226 |
 | This is just my weekend vehicle | 58.00% | ~27,747 |
 | Hard work pays off | 53.00% | ~25,355 |
-| It's never too late to farm | 49.00% | ~23,441 |
-| All out of Land | 44.00% | ~21,049 |
+| It's never too late to farm | 49.00% | ~23,442 |
+| All out of Land | 44.00% | ~21,050 |
 | Field Trip | 43.00% | ~20,571 |
 | I like to switch it up | 40.00% | ~19,136 |
 | Help me to help you | 38.00% | ~18,179 |
@@ -28,7 +28,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | Long haul | 16.00% | ~7,654 |
 | Clucky Streak | 15.00% | ~7,176 |
 | Large-scale supplier | 15.00% | ~7,176 |
-| That's a wrap | 14.00% | ~6,697 |
+| That's a wrap | 14.00% | ~6,698 |
 | Fix me up | 13.00% | ~6,219 |
 | Rock on | 12.00% | ~5,741 |
 | Highly cultivated | 11.00% | ~5,262 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~191 |
 | Raisin the stakes | 0.30% | ~144 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,839 (Ranked 92)  
+Progressed: 47,840 (Ranked 92)  
 Completed: 6 (0.01%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 6 (0.01%) (Ranked 252)
 | 2023-08-25 | 47,717 | 6 |
 | 2023-08-26 | 47,763 | 6 |
 | 2023-08-27 | 47,832 | 6 |
-| 2023-08-28 | 47,839 | 6 |
+| 2023-08-28 | 47,840 | 6 |
 ## Awards
 Max (Great for Beginners): 4,813  (Ranked 69)  
 Sum: 39,548 (Ranked 32)  
