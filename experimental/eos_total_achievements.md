@@ -128,6 +128,7 @@
 | [Circus Electrique](../games/c/circus_electrique.md) | 50 | 1,000 |
 | [EBOLA 3](../games/e/ebola_3.md) | 50 | 1,000 |
 | [Eiyuden Chronicle: Rising](../games/e/eiyuden_chronicle__rising.md) | 50 | 1,000 |
+| [Geometric Sniper - Z](../games/7/706577b22cbb4ab38611e2c97e03a800.md) | 50 | 1,000 |
 | [Port Royale 4](../games/p/port_royale_4.md) | 50 | 1,000 |
 | [Ravenlok](../games/r/ravenlok.md) | 50 | 1,000 |
 | [Remnant 2](../games/r/remnant_2.md) | 50 | 1,000 |

@@ -11,7 +11,7 @@
 | 9 | [Overloop](games/o/overloop.md) | 25.00% |
 | 10 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 24.59% |
 | 11 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 12 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.61% |
+| 12 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.31% |
 | 13 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 13 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 19.71% |
@@ -42,7 +42,7 @@
 | 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.80% |
 | 41 | [Time Loader](games/t/time_loader.md) | 6.78% |
 | 42 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 6.67% |
-| 43 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.61% |
+| 43 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.58% |
 | 44 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.35% |
 | 44 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 46 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -91,7 +91,7 @@
 | 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.24% |
 | 90 | [Bloodshore](games/b/bloodshore.md) | 2.20% |
 | 91 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
-| 92 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.01% |
+| 92 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.00% |
 | 93 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 1.97% |
 | 94 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
 | 95 | [Night Book](games/n/night_book.md) | 1.86% |
@@ -145,15 +145,15 @@
 | 143 | [Grindstone](games/g/grindstone.md) | 0.56% |
 | 144 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.54% |
 | 145 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.53% |
+| 146 | [Aragami 2](games/a/aragami_2.md) | 0.52% |
 | 146 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.52% |
 | 146 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
-| 148 | [Aragami 2](games/a/aragami_2.md) | 0.51% |
 | 149 | [The Surge 2](games/t/the_surge_2.md) | 0.50% |
 | 150 | [Godlike Burger](games/g/godlike_burger.md) | 0.49% |
 | 151 | [Them and Us](games/t/them_and_us.md) | 0.48% |
-| 152 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
-| 152 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.46% |
-| 152 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.46% |
+| 152 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
+| 153 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.46% |
+| 153 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.46% |
 | 155 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.45% |
 | 155 | [Train Valley](games/t/train_valley.md) | 0.45% |
 | 157 | [Tails of Iron](games/t/tails_of_iron.md) | 0.43% |
@@ -560,4 +560,4 @@
 | 265 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 265 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 265 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,124 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,125 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
