@@ -56,6 +56,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Poetic Leader | 2.00% | ~273 |
 | Regicide | 1.00% | ~136 |
 | Hanging Gardens in Babylon | 1.00% | ~136 |
+| Beloved | 1.00% | ~136 |
 | Drillmaster | 1.00% | ~136 |
 | Intercessor | 1.00% | ~136 |
 | Mighty | 1.00% | ~136 |
@@ -77,7 +78,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egyptian Paganism | 1.00% | ~136 |
 | Mythology | 1.00% | ~136 |
 | Points Victory | 1.00% | ~136 |
-| Beloved | 0.90% | ~123 |
 | Conqueror | 0.90% | ~123 |
 | Lion | 0.90% | ~123 |
 | Patrons | 0.90% | ~123 |

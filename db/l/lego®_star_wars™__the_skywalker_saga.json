@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 119,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
     "PcReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -3020,9 +3020,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 50111,
+  "EOS_Progressed": 50112,
   "EOS_Completed": 225,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -10345,6 +10345,11 @@
       "Time": "2023-08-28T17:08:19.2692062+00:00",
       "NumProgressed": 50111,
       "NumCompleted": 225
+    },
+    {
+      "Time": "2023-08-28T20:05:44.1873851+00:00",
+      "NumProgressed": 50112,
+      "NumCompleted": 225
     }
   ],
   "TotalAchievements": 45,
@@ -10468,7 +10473,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 29565
+      "UsersEstimate": 29566
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -10476,7 +10481,7 @@
       "Name": "Attack of the Clones",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 23552
+      "UsersEstimate": 23553
     },
     {
       "ID": "COMPLETE_EPISODE_3",
@@ -10492,7 +10497,7 @@
       "Name": "A New Hope",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 24053
+      "UsersEstimate": 24054
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -10500,7 +10505,7 @@
       "Name": "The Empire Strikes Back",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 19042
+      "UsersEstimate": 19043
     },
     {
       "ID": "COMPLETE_EPISODE_6",
@@ -10548,7 +10553,7 @@
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 29064
+      "UsersEstimate": 29065
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -10596,7 +10601,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 29565
+      "UsersEstimate": 29566
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -10620,7 +10625,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 48608
+      "UsersEstimate": 48609
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -10660,7 +10665,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 36080
+      "UsersEstimate": 36081
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -10708,22 +10713,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 36080
+      "UsersEstimate": 36081
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 50111,
+      "Progressed": 50112,
       "Completed": 225
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-08-27T13:59:21.6928013+00:00",
-  "LastChanged_Achievements": "2023-08-28T19:05:48.3324079+00:00",
+  "LastChanged_Achievements": "2023-08-28T20:05:44.1873842+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:14.1416797+00:00",
-  "LastUpdate_Ratings": "2023-08-28T18:59:05.8210134+00:00",
-  "LastUpdate_Achievements": "2023-08-28T19:05:48.3325169+00:00"
+  "LastUpdate_Ratings": "2023-08-28T19:59:08.9168808+00:00",
+  "LastUpdate_Achievements": "2023-08-28T20:05:44.187468+00:00"
 }

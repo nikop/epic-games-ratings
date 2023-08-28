@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -252,9 +252,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 65926,
+  "EOS_Progressed": 65929,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 192,
+  "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -8842,6 +8842,11 @@
       "Time": "2023-08-28T18:08:49.7521886+00:00",
       "NumProgressed": 65926,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-08-28T20:08:04.0121502+00:00",
+      "NumProgressed": 65929,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 20,
@@ -8909,7 +8914,7 @@
       "Name": "Power of Friendship",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "ACH_LIGHTMINES",
@@ -8957,7 +8962,7 @@
       "Name": "Phone Bill",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "ACH_READCLUES",
@@ -9012,7 +9017,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 65926,
+      "Progressed": 65929,
       "Completed": 13
     }
   ],
@@ -9020,8 +9025,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-08-26T23:01:09.4658667+00:00",
-  "LastChanged_Achievements": "2023-08-28T19:08:21.560271+00:00",
+  "LastChanged_Achievements": "2023-08-28T20:08:04.0121494+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:34.2677684+00:00",
-  "LastUpdate_Ratings": "2023-08-28T19:00:09.9265891+00:00",
-  "LastUpdate_Achievements": "2023-08-28T19:08:21.5603423+00:00"
+  "LastUpdate_Ratings": "2023-08-28T20:00:06.0169991+00:00",
+  "LastUpdate_Achievements": "2023-08-28T20:08:04.0122214+00:00"
 }

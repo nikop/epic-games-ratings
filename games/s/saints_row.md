@@ -6,42 +6,42 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 44.00% | ~28,732 |
-| To The Nines | 40.00% | ~26,120 |
-| Optimized | 35.00% | ~22,855 |
-| Performance Review | 34.00% | ~22,202 |
-| Making a Name | 33.00% | ~21,549 |
-| Tune Up | 32.00% | ~20,896 |
-| Landlord | 31.00% | ~20,243 |
-| The Side Job | 30.00% | ~19,590 |
-| Wet Work | 30.00% | ~19,590 |
-| Wrecking Ball | 26.00% | ~16,978 |
-| Food for Thought | 26.00% | ~16,978 |
-| Finders Keepers | 24.00% | ~15,672 |
-| A Young Empire | 24.00% | ~15,672 |
-| Work Ethic | 22.00% | ~14,366 |
-| Picking Fights | 19.00% | ~12,407 |
-| Power Players | 18.00% | ~11,754 |
-| Quality Time | 17.00% | ~11,101 |
-| Showdown | 16.00% | ~10,448 |
-| Et tu? | 16.00% | ~10,448 |
-| Took It to The Limit | 16.00% | ~10,448 |
-| Kitted Out | 13.00% | ~8,489 |
-| Masters of Santo Ileso | 12.00% | ~7,836 |
-| Hijacked | 11.00% | ~7,183 |
-| The Spins | 9.00% | ~5,877 |
-| The Mechanic | 9.00% | ~5,877 |
-| We could go home, or… | 7.00% | ~4,571 |
-| Challenge Accepted | 7.00% | ~4,571 |
-| A Golden Age | 7.00% | ~4,571 |
-| Closet Space | 7.00% | ~4,571 |
+| First F#@!ing Day | 44.00% | ~28,737 |
+| To The Nines | 40.00% | ~26,125 |
+| Optimized | 35.00% | ~22,859 |
+| Performance Review | 34.00% | ~22,206 |
+| Making a Name | 33.00% | ~21,553 |
+| Tune Up | 32.00% | ~20,900 |
+| Landlord | 31.00% | ~20,247 |
+| The Side Job | 30.00% | ~19,594 |
+| Wet Work | 30.00% | ~19,594 |
+| Wrecking Ball | 26.00% | ~16,981 |
+| Food for Thought | 26.00% | ~16,981 |
+| Finders Keepers | 24.00% | ~15,675 |
+| A Young Empire | 24.00% | ~15,675 |
+| Work Ethic | 22.00% | ~14,369 |
+| Picking Fights | 19.00% | ~12,409 |
+| Power Players | 18.00% | ~11,756 |
+| Quality Time | 17.00% | ~11,103 |
+| Showdown | 16.00% | ~10,450 |
+| Et tu? | 16.00% | ~10,450 |
+| Took It to The Limit | 16.00% | ~10,450 |
+| Kitted Out | 13.00% | ~8,491 |
+| Masters of Santo Ileso | 12.00% | ~7,837 |
+| Hijacked | 11.00% | ~7,184 |
+| The Spins | 9.00% | ~5,878 |
+| The Mechanic | 9.00% | ~5,878 |
+| We could go home, or… | 7.00% | ~4,572 |
+| Challenge Accepted | 7.00% | ~4,572 |
+| A Golden Age | 7.00% | ~4,572 |
+| Closet Space | 7.00% | ~4,572 |
 | Producer Credit | 7.00% | ~2,586 |
-| Face Off | 6.00% | ~2,216 |
-| The Professional | 5.00% | ~3,265 |
-| Chaos Tamer | 5.00% | ~3,265 |
-| Untouchable | 5.00% | ~3,265 |
-| Free Refills | 5.00% | ~3,265 |
-| Smooth Moves | 5.00% | ~3,265 |
+| Face Off | 6.00% | ~2,217 |
+| The Professional | 5.00% | ~3,266 |
+| Chaos Tamer | 5.00% | ~3,266 |
+| Untouchable | 5.00% | ~3,266 |
+| Free Refills | 5.00% | ~3,266 |
+| Smooth Moves | 5.00% | ~3,266 |
 | Hazardous Heist | 5.00% | ~1,847 |
 | Neighborly | 4.00% | ~2,612 |
 | Prankster | 4.00% | ~2,612 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~131 |
 | Fiesta Time | 0.20% | ~131 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,299 (Ranked 86)  
+Progressed: 65,312 (Ranked 86)  
 Completed: 44 (0.07%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,15 +190,15 @@ Completed: 44 (0.07%) (Ranked 225)
 | 2023-08-25 | 63,963 | 44 |
 | 2023-08-26 | 64,473 | 44 |
 | 2023-08-27 | 65,029 | 44 |
-| 2023-08-28 | 65,299 | 44 |
+| 2023-08-28 | 65,312 | 44 |
 ## Awards
 Max (Extremely Fun): 1,060  (Ranked 142)  
-Sum: 8,591 (Ranked 96)  
+Sum: 8,592 (Ranked 96)  
 Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 1,060 |
-| This game has Quickly Understood Controls | 1,031 |
+| This game has Quickly Understood Controls | 1,032 |
 | This game is Highly Recommended | 997 |
 | This game has Diverse Characters | 994 |
 | This game is Great for Beginners | 992 |
@@ -369,4 +369,4 @@ Diff (max vs sum): 46
 | 2023-08-24 | 3.78 | - | 1,058 | 8,585 |
 | 2023-08-25 | 3.78 | - | 1,060 | 8,589 |
 | 2023-08-26 | 3.78 | - | 1,060 | 8,590 |
-| 2023-08-28 | 3.78 | - | 1,060 | 8,591 |
+| 2023-08-28 | 3.78 | - | 1,060 | 8,592 |

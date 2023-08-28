@@ -43,10 +43,10 @@ Rating: 4.46 (Ranked 622)
 | Resistance is futile | 16.00% | ~296 |
 | Assimilated | 15.00% | ~277 |
 | Locusts | 14.00% | ~259 |
+| Bold and beautiful | 14.00% | ~259 |
 | Settler | 14.00% | ~259 |
 | Go West | 13.00% | ~240 |
 | Max Power | 13.00% | ~240 |
-| Bold and beautiful | 13.00% | ~240 |
 | A new Hope | 10.00% | ~185 |
 | Tycoon | 10.00% | ~185 |
 | Unstoppable | 8.00% | ~148 |

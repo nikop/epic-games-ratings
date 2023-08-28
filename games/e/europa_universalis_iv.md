@@ -6,28 +6,28 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~15,107 |
-| That's a Grand Army | 3.00% | ~11,330 |
-| That is mine! | 3.00% | ~11,330 |
-| Victorious! | 3.00% | ~11,330 |
-| Brothers in Arms | 2.00% | ~7,553 |
-| That's a Grand Navy | 2.00% | ~7,553 |
-| Seriously?! | 2.00% | ~7,553 |
-| Cold War | 1.00% | ~3,777 |
-| Defender of the Faith | 1.00% | ~3,777 |
-| For the Glory | 1.00% | ~3,777 |
-| It's all about the money | 1.00% | ~3,777 |
-| True Catholic | 1.00% | ~3,777 |
-| The Princess is in this Castle | 0.90% | ~3,399 |
-| It's all about luck | 0.80% | ~3,021 |
-| Respected | 0.80% | ~3,021 |
-| Truly Divine Ruler | 0.80% | ~3,021 |
-| Blockader | 0.70% | ~2,644 |
-| Double the Love | 0.70% | ~2,644 |
-| Royal Authority | 0.60% | ~2,266 |
-| Total Control | 0.60% | ~2,266 |
-| Combined Arms | 0.50% | ~1,888 |
-| My armies are invincible! | 0.50% | ~1,888 |
+| Until death do us apart | 4.00% | ~15,112 |
+| That's a Grand Army | 3.00% | ~11,334 |
+| That is mine! | 3.00% | ~11,334 |
+| Victorious! | 3.00% | ~11,334 |
+| Brothers in Arms | 2.00% | ~7,556 |
+| That's a Grand Navy | 2.00% | ~7,556 |
+| Seriously?! | 2.00% | ~7,556 |
+| Cold War | 1.00% | ~3,778 |
+| Defender of the Faith | 1.00% | ~3,778 |
+| For the Glory | 1.00% | ~3,778 |
+| It's all about the money | 1.00% | ~3,778 |
+| True Catholic | 1.00% | ~3,778 |
+| The Princess is in this Castle | 0.90% | ~3,400 |
+| It's all about luck | 0.80% | ~3,022 |
+| Respected | 0.80% | ~3,022 |
+| Truly Divine Ruler | 0.80% | ~3,022 |
+| Blockader | 0.70% | ~2,645 |
+| Double the Love | 0.70% | ~2,645 |
+| Royal Authority | 0.60% | ~2,267 |
+| Total Control | 0.60% | ~2,267 |
+| Combined Arms | 0.50% | ~1,889 |
+| My armies are invincible! | 0.50% | ~1,889 |
 | Agressive Expander | 0.40% | ~1,511 |
 | Azur semé de lis or | 0.40% | ~1,511 |
 | City of Cities | 0.40% | ~1,511 |
@@ -43,16 +43,16 @@ Number of Ratings: 8,414  (23.09.2022)
 | Market Control | 0.30% | ~1,133 |
 | The Five Colonies | 0.30% | ~1,133 |
 | Trustworthy | 0.30% | ~1,133 |
-| All belongs to Mother Russia | 0.20% | ~755 |
-| At every continent | 0.20% | ~755 |
-| Down Under | 0.20% | ~755 |
-| Electable! | 0.20% | ~755 |
-| Grand Coalition | 0.20% | ~755 |
-| One Family to Rule them All | 0.20% | ~755 |
-| Populists in Government | 0.20% | ~755 |
-| The pen is mightier than the sword | 0.20% | ~755 |
-| Time Bandit | 0.20% | ~755 |
-| Traditional Player | 0.20% | ~755 |
+| All belongs to Mother Russia | 0.20% | ~756 |
+| At every continent | 0.20% | ~756 |
+| Down Under | 0.20% | ~756 |
+| Electable! | 0.20% | ~756 |
+| Grand Coalition | 0.20% | ~756 |
+| One Family to Rule them All | 0.20% | ~756 |
+| Populists in Government | 0.20% | ~756 |
+| The pen is mightier than the sword | 0.20% | ~756 |
+| Time Bandit | 0.20% | ~756 |
+| Traditional Player | 0.20% | ~756 |
 | The 52 Garhs | 0.10% | ~378 |
 | I don't like sand | 0.10% | ~378 |
 | A Blessed Nation | 0.10% | ~378 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 377,666 (Ranked 41)  
+Progressed: 377,803 (Ranked 41)  
 Completed: 0 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -491,17 +491,17 @@ Completed: 0 (0.00%) (Ranked 265)
 | 2023-08-25 | 369,495 | 0 |
 | 2023-08-26 | 372,695 | 0 |
 | 2023-08-27 | 375,728 | 0 |
-| 2023-08-28 | 377,666 | 0 |
+| 2023-08-28 | 377,803 | 0 |
 ## Awards
 Max (Educational): 5,814  (Ranked 60)  
-Sum: 47,951 (Ranked 26)  
+Sum: 47,962 (Ranked 26)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,814 |
 | This game is Highly Recommended | 5,560 |
 | This game is Extremely Fun | 5,529 |
-| This game has Challenging Combat | 5,516 |
+| This game has Challenging Combat | 5,527 |
 | This game has Diverse Characters | 5,491 |
 | This game is Relaxing | 5,363 |
 | This game has Competitive Players | 5,241 |
@@ -734,4 +734,4 @@ Diff (max vs sum): 34
 | 2023-08-25 | 4.68 | - | 5,784 | 47,705 |
 | 2023-08-26 | 4.68 | - | 5,793 | 47,803 |
 | 2023-08-27 | 4.68 | - | 5,814 | 47,909 |
-| 2023-08-28 | 4.68 | - | 5,814 | 47,951 |
+| 2023-08-28 | 4.68 | - | 5,814 | 47,962 |

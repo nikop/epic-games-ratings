@@ -25,8 +25,8 @@ Rating: 4.55 (Ranked 489)
 | Power Outage | 7.00% | ~218 |
 | Convenient Transport | 7.00% | ~218 |
 | Please Make it Stop! | 7.00% | ~218 |
-| Sightseeing | 6.00% | ~186 |
-| From the Past | 6.00% | ~186 |
+| Sightseeing | 6.00% | ~187 |
+| From the Past | 6.00% | ~187 |
 | Access Granted | 5.00% | ~155 |
 | Necessary Enhancement | 5.00% | ~155 |
 | All in Good Health | 5.00% | ~155 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 489)
 | I Give You the Stars | 0.10% | ~1 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,108 (Ranked 161)  
+Progressed: 3,109 (Ranked 161)  
 Completed: 0 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 0 (0.00%) (Ranked 265)
 | 2023-08-25 | 3,100 | 0 |
 | 2023-08-26 | 3,103 | 0 |
 | 2023-08-27 | 3,107 | 0 |
-| 2023-08-28 | 3,108 | 0 |
+| 2023-08-28 | 3,109 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

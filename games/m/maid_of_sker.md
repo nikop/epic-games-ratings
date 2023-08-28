@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Choking Hazard | 44.00% | ~79 |
+| Choking Hazard | 45.00% | ~81 |
 | Animal Lover | 34.00% | ~61 |
 | Don't Breathe | 31.00% | ~56 |
 | Smooth Operator | 16.00% | ~29 |

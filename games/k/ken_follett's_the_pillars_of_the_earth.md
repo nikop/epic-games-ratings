@@ -1,22 +1,22 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.51 (Ranked 545)  
+Rating: 4.51 (Ranked 546)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tattletale | 41.00% | ~6,098 |
-| Man of politics | 35.00% | ~5,205 |
+| Man of politics | 35.00% | ~5,206 |
 | Friends of sorts | 33.00% | ~4,908 |
 | Yet another secret | 33.00% | ~4,908 |
 | Let there be darkness | 32.00% | ~4,759 |
 | End of Book One | 30.00% | ~4,462 |
-| Wannabe knight | 24.00% | ~3,569 |
-| Garden of Eden | 24.00% | ~3,569 |
-| Full house | 24.00% | ~3,569 |
+| Wannabe knight | 24.00% | ~3,570 |
+| Garden of Eden | 24.00% | ~3,570 |
+| Full house | 24.00% | ~3,570 |
 | Help an old friend | 22.00% | ~3,272 |
-| Two of us | 20.00% | ~2,974 |
+| Two of us | 20.00% | ~2,975 |
 | Negotiation skills | 18.00% | ~2,677 |
 | Workers' union | 18.00% | ~2,677 |
 | End of Book Two | 18.00% | ~2,677 |
@@ -29,12 +29,12 @@ Number of Ratings: 368  (23.09.2022)
 | Friar Tuck | 11.00% | ~1,636 |
 | First profit | 11.00% | ~1,636 |
 | Team player | 10.00% | ~1,487 |
-| Skilled merchant | 9.00% | ~1,338 |
-| Nothing but make-believe | 9.00% | ~1,338 |
-| Brother Marcus | 9.00% | ~1,338 |
-| The oath | 9.00% | ~1,338 |
-| The truth revealed | 9.00% | ~1,338 |
-| The End. | 9.00% | ~1,338 |
+| Skilled merchant | 9.00% | ~1,339 |
+| Nothing but make-believe | 9.00% | ~1,339 |
+| Brother Marcus | 9.00% | ~1,339 |
+| The oath | 9.00% | ~1,339 |
+| The truth revealed | 9.00% | ~1,339 |
+| The End. | 9.00% | ~1,339 |
 | A cry for help | 8.00% | ~1,190 |
 | Silentium est aureum | 7.00% | ~1,041 |
 | Rebel without a cause | 6.00% | ~892 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~446 |
 | Boy of mystery | 2.00% | ~297 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,872 (Ranked 118)  
+Progressed: 14,873 (Ranked 118)  
 Completed: 110 (0.74%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 110 (0.74%) (Ranked 130)
 | 2023-08-25 | 14,801 | 110 |
 | 2023-08-26 | 14,831 | 110 |
 | 2023-08-27 | 14,854 | 110 |
-| 2023-08-28 | 14,872 | 110 |
+| 2023-08-28 | 14,873 | 110 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 300)  
 Sum: 188 (Ranked 376)  

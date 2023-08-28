@@ -2,13 +2,13 @@
   "ID": "0bef9383794a4d779ba0628084b14cba",
   "Name": "Rumbleverse",
   "ProductSlug": "rumbleverse",
-  "Ranking_Rating": 675,
+  "Ranking_Rating": 676,
   "Ranking_Popularity": 53,
   "Ranking_PopularitySum": 22,
   "Ranking_EOS_Progress": 562,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -2310,8 +2310,8 @@
   "FirstSeenRating": "2022-08-12T04:30:28.6505316+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.5183215+00:00",
   "LastChanged": "2023-06-27T10:59:25.5467574+00:00",
-  "LastChanged_Achievements": "2023-08-28T19:04:10.6418542+00:00",
+  "LastChanged_Achievements": "2023-08-28T20:04:07.0649175+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:56.5875401+00:00",
-  "LastUpdate_Ratings": "2023-08-28T18:57:54.6536907+00:00",
-  "LastUpdate_Achievements": "2023-08-28T19:04:10.6418584+00:00"
+  "LastUpdate_Ratings": "2023-08-28T19:57:53.5892583+00:00",
+  "LastUpdate_Achievements": "2023-08-28T20:04:07.0649211+00:00"
 }

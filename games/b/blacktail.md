@@ -15,6 +15,7 @@ Rating: 4.68 (Ranked 238)
 | Gold rush | 8.00% | ~51 |
 | Spirit animal | 8.00% | ~51 |
 | A friend in need... | 6.00% | ~39 |
+| Extensive retelling | 5.00% | ~32 |
 | Sneak peek | 5.00% | ~32 |
 | Fishing fanatic | 5.00% | ~32 |
 | The word around is... | 5.00% | ~32 |
@@ -22,7 +23,6 @@ Rating: 4.68 (Ranked 238)
 | The cycle acknowledged | 5.00% | ~32 |
 | Queen | 5.00% | ~32 |
 | Baba Yaga | 5.00% | ~32 |
-| Extensive retelling | 4.00% | ~26 |
 | Favorite | 4.00% | ~26 |
 | Specialist | 4.00% | ~26 |
 | Goal! | 3.00% | ~19 |

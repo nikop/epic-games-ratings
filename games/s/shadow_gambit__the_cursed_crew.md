@@ -13,18 +13,18 @@
 | Powder Monkey | 26.00% | ~138 |
 | Somewhere Deep in the Lost Caribbean | 22.00% | ~117 |
 | Mirror Mirror on the Wall | 20.00% | ~106 |
+| Fishy Fish | 19.00% | ~101 |
 | Buccaneer | 18.00% | ~96 |
 | Pirates Assemble! | 18.00% | ~96 |
-| Fishy Fish | 18.00% | ~96 |
 | Persistent Parasite | 13.00% | ~69 |
 | Seadog | 11.00% | ~58 |
 | All Good Things | 8.00% | ~42 |
 | Jaded Judge | 8.00% | ~42 |
 | Rustic Recipe | 7.00% | ~37 |
+| Privateer | 6.00% | ~32 |
 | Tobacco Travesty | 6.00% | ~32 |
 | Accursed Artifacts | 6.00% | ~32 |
 | Lyrical Longing | 6.00% | ~32 |
-| Privateer | 5.00% | ~27 |
 | Corsair | 3.00% | ~16 |
 | Freebooter | 3.00% | ~16 |
 | Marauder | 2.00% | ~11 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -250,9 +250,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23988,
+  "EOS_Progressed": 23989,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4545,6 +4545,11 @@
       "Time": "2023-08-28T16:05:05.5669332+00:00",
       "NumProgressed": 23988,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-08-28T20:04:58.0446009+00:00",
+      "NumProgressed": 23989,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 32,
@@ -4572,7 +4577,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 18471
+      "UsersEstimate": 18472
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -4596,7 +4601,7 @@
       "Name": "Creature Feature",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 7196
+      "UsersEstimate": 7197
     },
     {
       "ID": "ACH_GET_GUS",
@@ -4620,7 +4625,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 18231
+      "UsersEstimate": 18232
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -4660,7 +4665,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 19910
+      "UsersEstimate": 19911
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -4676,7 +4681,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 13673
+      "UsersEstimate": 13674
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -4684,7 +4689,7 @@
       "Name": "First Bounty Down",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 14153
+      "UsersEstimate": 14154
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -4708,7 +4713,7 @@
       "Name": "Hardest Battle In The Game",
       "Percentage": 22,
       "XP": 45,
-      "UsersEstimate": 5277
+      "UsersEstimate": 5278
     },
     {
       "ID": "ACH_KILL_KRUBIS",
@@ -4740,7 +4745,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 17511
+      "UsersEstimate": 17512
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -4796,7 +4801,7 @@
       "Name": "Carried Stan\u0027s Load To Completion",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 3118
+      "UsersEstimate": 3119
     },
     {
       "ID": "ACH_SUITO_SUICIDE",
@@ -4804,29 +4809,29 @@
       "Name": "Series Wrap on Suit-O",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 5277
+      "UsersEstimate": 5278
     }
   ],
   "AchievementSets": [
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 23988,
+      "Progressed": 23989,
       "Completed": 12
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1281,
-      "Completed": 1281
+      "Progressed": 1282,
+      "Completed": 1282
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-08-28T03:02:03.0418105+00:00",
-  "LastChanged_Achievements": "2023-08-28T19:05:01.5973809+00:00",
+  "LastChanged_Achievements": "2023-08-28T20:04:58.0446001+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:40.4978625+00:00",
-  "LastUpdate_Ratings": "2023-08-28T19:00:36.9337085+00:00",
-  "LastUpdate_Achievements": "2023-08-28T19:05:01.5974339+00:00"
+  "LastUpdate_Ratings": "2023-08-28T20:00:35.1833246+00:00",
+  "LastUpdate_Achievements": "2023-08-28T20:04:58.0446501+00:00"
 }
