@@ -3,7 +3,7 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.00% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.72% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 42.11% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 40.68% |
 | 5 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 33.33% |
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.95% |
 | 7 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
@@ -52,7 +52,7 @@
 | 50 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.24% |
 | 51 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.17% |
 | 52 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.13% |
-| 53 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.83% |
+| 53 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.82% |
 | 54 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 4.76% |
 | 55 | [Bugsnax](games/b/bugsnax.md) | 4.73% |
 | 56 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
@@ -78,16 +78,16 @@
 | 76 | [Monster Harvest](games/m/monster_harvest.md) | 2.93% |
 | 76 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 78 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.80% |
+| 79 | [Destiny 2](games/d/destiny_2.md) | 2.74% |
 | 79 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.74% |
-| 80 | [Destiny 2](games/d/destiny_2.md) | 2.73% |
-| 80 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
+| 81 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 82 | [The Bunker](games/t/the_bunker.md) | 2.61% |
 | 83 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.58% |
 | 83 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.58% |
 | 85 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.56% |
 | 86 | [Lamentum](games/l/lamentum.md) | 2.53% |
 | 87 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 88 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.42% |
+| 88 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.40% |
 | 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.24% |
 | 90 | [Bloodshore](games/b/bloodshore.md) | 2.20% |
 | 91 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
