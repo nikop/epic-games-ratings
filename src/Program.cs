@@ -315,14 +315,7 @@ foreach (var month in items.Where(x => x.Store.ReleaseDate != null).GroupBy(x =>
 
     if (achievementGames.Count > 0)
     {
-        await File.WriteAllTextAsync(
-           fileName,
-            nameDateTable.FormatTable(
-                achievementGames
-                    .OrderByDescending(x => x.AchievementsAdded)
-                    .ThenBy(x => x.Name)
-            )
-        );
+        await File.WriteAllTextAsync(fileName, nameDateTable.FormatTable(achievementGames));
     }
     else if (File.Exists(fileName))
     {
