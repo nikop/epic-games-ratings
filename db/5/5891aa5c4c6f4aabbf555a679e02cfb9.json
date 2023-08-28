@@ -337,9 +337,9 @@
       "ID": "ACHIEVEMENT_06",
       "SetID": "b36c5kb",
       "Name": "Taken",
-      "Percentage": 43,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_07",
@@ -601,9 +601,9 @@
       "ID": "ACHIEVEMENT_39",
       "SetID": "b36c5kb",
       "Name": "Clearing a Path",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -712,8 +712,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-08-28T00:05:09.642579+00:00",
+  "LastChanged_Achievements": "2023-08-28T01:48:18.8676988+00:00",
   "LastUpdate_AppInfo": "2023-08-23T17:57:10.5850624+00:00",
-  "LastUpdate_Ratings": "2023-08-27T23:58:40.1620371+00:00",
-  "LastUpdate_Achievements": "2023-08-28T00:05:09.6426289+00:00"
+  "LastUpdate_Ratings": "2023-08-28T01:40:59.585681+00:00",
+  "LastUpdate_Achievements": "2023-08-28T01:48:18.8677874+00:00"
 }

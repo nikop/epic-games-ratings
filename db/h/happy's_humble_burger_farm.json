@@ -4,7 +4,7 @@
   "ProductSlug": "happys-humble-burger-farm-d16675",
   "Ranking_EOS_Progress": 561,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewPlayers": 336,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-12-03T17:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:35.8589541+00:00",
   "LastChanged": "2023-03-31T05:58:35.8589542+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:00.6004386+00:00",
-  "LastUpdate_Ratings": "2023-08-27T23:57:42.0335561+00:00",
-  "LastUpdate_Achievements": "2023-08-28T00:05:18.1676992+00:00"
+  "LastUpdate_Ratings": "2023-08-28T01:39:37.2953279+00:00",
+  "LastUpdate_Achievements": "2023-08-28T01:48:30.5179506+00:00"
 }

@@ -24,8 +24,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Exploring Port Nyanzaru | 0.30% | ~677 |
 | Friendly Imps | 0.30% | ~677 |
 | Pure Energy | 0.30% | ~677 |
-| The Chaotic Hunt for The Last Breath | 0.30% | ~575 |
-| There's a Flying Snake in my Boot! | 0.30% | ~575 |
+| The Chaotic Hunt for The Last Breath | 0.30% | ~576 |
+| There's a Flying Snake in my Boot! | 0.30% | ~576 |
 | Pros and CONs | 0.20% | ~451 |
 | Tall Tales | 0.20% | ~384 |
 | The Witchlight Carnival | 0.20% | ~384 |
@@ -43,6 +43,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Heatwave | 0.20% | ~384 |
 | The Dread Domain of Tovag | 0.20% | ~384 |
 | The Castle of a Thousand Vecnas | 0.20% | ~384 |
+| The Sanctum of the Sword | 0.20% | ~384 |
 | Who Lurks Below? | 0.20% | ~384 |
 | Xanathaaaaaaar! | 0.20% | ~384 |
 | No One Can Hear You Scream | 0.20% | ~384 |
@@ -52,6 +53,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Low Initiative | 0.20% | ~451 |
 | Street War | 0.20% | ~451 |
 | Force Grey Unleashed | 0.20% | ~451 |
+| Vajra's Guards | 0.20% | ~451 |
 | Building Trust | 0.20% | ~451 |
 | March of the Undead | 0.20% | ~451 |
 | Wisdom Check | 0.20% | ~451 |
@@ -64,6 +66,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Family Entanglements | 0.20% | ~451 |
 | The Dinner Party | 0.20% | ~451 |
 | The Botched Kidnapping | 0.20% | ~451 |
+| Haaave You Met Asmodeus? | 0.20% | ~451 |
 | Tower on the Lake | 0.20% | ~451 |
 | Seeds of Deceit | 0.20% | ~451 |
 | Trollskull Manor | 0.20% | ~451 |
@@ -198,7 +201,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Frail Doesn't Mean Broken | 0.10% | ~192 |
 | Clumsy Doesn't Mean Inept | 0.10% | ~192 |
 | Unreasonable Doesn't Mean Stupid | 0.10% | ~192 |
-| The Sanctum of the Sword | 0.10% | ~192 |
 | Kas the Bloody Handed | 0.10% | ~192 |
 | Get Back In The Castle | 0.10% | ~192 |
 | Kas the Destroyer | 0.10% | ~192 |
@@ -234,7 +236,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Home Field Advantage | 0.10% | ~226 |
 | Double Vision | 0.10% | ~226 |
 | Underground Railroad | 0.10% | ~226 |
-| Vajra's Guards | 0.10% | ~226 |
 | The Newcomers of Notoriety | 0.10% | ~192 |
 | A Grand Puzzle | 0.10% | ~226 |
 | Never Split the Party | 0.10% | ~226 |
@@ -252,7 +253,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Chatty Nobles | 0.10% | ~226 |
 | Modron Assistance | 0.10% | ~226 |
 | Thine Bounty is Mine! | 0.10% | ~192 |
-| Haaave You Met Asmodeus? | 0.10% | ~226 |
 | Domesticated Owlbears | 0.10% | ~226 |
 | This Quest Stinks! | 0.10% | ~192 |
 | The Immortal Warrior | 0.10% | ~226 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~192 |
 | Animated Giff | 0.10% | ~192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,535 (Ranked 53)  
+Progressed: 225,563 (Ranked 53)  
 Completed: 2,222 (0.99%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -653,7 +653,7 @@ Completed: 2,222 (0.99%) (Ranked 120)
 | 2023-08-25 | 224,925 | 2,214 |
 | 2023-08-26 | 225,221 | 2,219 |
 | 2023-08-27 | 225,526 | 2,222 |
-| 2023-08-28 | 225,535 | 2,222 |
+| 2023-08-28 | 225,563 | 2,222 |
 ## Awards
 Max (Diverse Characters): 5,196  (Ranked 68)  
 Sum: 31,250 (Ranked 39)  

@@ -48,9 +48,9 @@ Number of Ratings: 62  (23.09.2022)
 | Man of Steel | 5.00% | ~231 |
 | Jack of All Trades | 5.00% | ~231 |
 | 3-2-1 | 5.00% | ~231 |
+| For the Good of Mankind | 4.00% | ~185 |
 | Rusty Rat | 4.00% | ~185 |
 | Desecration | 4.00% | ~185 |
-| For the Good of Mankind | 3.00% | ~138 |
 | Turing Test | 3.00% | ~138 |
 | Repeat Customer | 3.00% | ~138 |
 | Evolution Theory | 3.00% | ~138 |

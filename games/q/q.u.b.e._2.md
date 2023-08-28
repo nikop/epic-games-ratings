@@ -6,8 +6,9 @@ Number of Ratings: 94  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Quick Understanding of Block Extrusion | 40.00% | ~2 |
-| Lost in Space | 40.00% | ~2 |
+| Quick Understanding of Block Extrusion | 33.00% | ~2 |
+| Lost in Space | 33.00% | ~2 |
+| Nature or Nurture | 17.00% | ~1 |
 | Descendants | 0.00% | ~0 |
 | The Flawed Teacher | 0.00% | ~0 |
 | Green Cube Killer | 0.00% | ~0 |
@@ -28,7 +29,6 @@ Number of Ratings: 94  (23.09.2022)
 | Infinity Loop | 0.00% | ~0 |
 | Mission Success | 0.00% | ~0 |
 | Path to Salvation | 0.00% | ~0 |
-| Nature or Nurture | 0.00% | ~0 |
 | There's No Place Like Home | 0.00% | ~0 |
 | To Infinity and Beyond | 0.00% | ~0 |
 | The Truthful Enemy | 0.00% | ~0 |
@@ -36,13 +36,14 @@ Number of Ratings: 94  (23.09.2022)
 | Cogs in the Machine | 0.00% | ~0 |
 | Forgotten Memories | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5 (Ranked 474)  
+Progressed: 6 (Ranked 466)  
 Completed: 0 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-08-25 | 1 | 0 |
 | 2023-08-27 | 5 | 0 |
+| 2023-08-28 | 6 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

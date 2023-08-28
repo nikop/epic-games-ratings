@@ -1,37 +1,37 @@
 # Surviving the Aftermath
 [Store](https://store.epicgames.com/en-US/p/surviving-the-aftermath)  
 [View Rawdata](../../db/s/surviving_the_aftermath__founder's_edition.json)  
-Rating: 4.48 (Ranked 596)  
+Rating: 4.48 (Ranked 597)  
 Number of Ratings: 836  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 72.00% | ~6,201 |
-| Leader | 60.00% | ~5,167 |
-| Explorer | 53.00% | ~4,564 |
-| Healer | 52.00% | ~4,478 |
-| Aspiring Inventor | 44.00% | ~3,789 |
-| Adventurer | 41.00% | ~3,531 |
+| First Step | 72.00% | ~6,202 |
+| Leader | 60.00% | ~5,168 |
+| Explorer | 53.00% | ~4,565 |
+| Healer | 52.00% | ~4,479 |
+| Aspiring Inventor | 44.00% | ~3,790 |
+| Adventurer | 41.00% | ~3,532 |
 | Famous Healer | 38.00% | ~3,273 |
-| Local Leader | 35.00% | ~3,014 |
-| Famous Explorer | 34.00% | ~2,928 |
-| New Opportunities | 34.00% | ~2,928 |
-| Energized | 33.00% | ~2,842 |
-| The Long Haul | 33.00% | ~2,842 |
+| Local Leader | 35.00% | ~3,015 |
+| Famous Explorer | 34.00% | ~2,929 |
+| New Opportunities | 34.00% | ~2,929 |
+| Energized | 33.00% | ~2,843 |
+| The Long Haul | 33.00% | ~2,843 |
 | The Great Healer | 31.00% | ~2,670 |
 | Survivor | 31.00% | ~2,670 |
-| Legendary Explorer | 28.00% | ~2,411 |
-| Cleaner | 28.00% | ~2,411 |
-| Catastrofan | 28.00% | ~2,411 |
-| Finders, Keepers | 26.00% | ~2,239 |
-| Top Notch | 25.00% | ~2,153 |
+| Legendary Explorer | 28.00% | ~2,412 |
+| Cleaner | 28.00% | ~2,412 |
+| Catastrofan | 28.00% | ~2,412 |
+| Finders, Keepers | 26.00% | ~2,240 |
+| Top Notch | 25.00% | ~2,154 |
 | Great Leader | 23.00% | ~1,981 |
 | Mentor | 23.00% | ~1,981 |
 | Merchant | 22.00% | ~1,895 |
 | Ice Lakes | 22.00% | ~1,895 |
 | Real Survivor | 22.00% | ~1,895 |
-| Rocket Surgeon | 20.00% | ~1,722 |
-| War Never Changes | 19.00% | ~1,636 |
+| Rocket Surgeon | 20.00% | ~1,723 |
+| War Never Changes | 19.00% | ~1,637 |
 | Big Game Hunter | 17.00% | ~1,464 |
 | Spreading Influence | 17.00% | ~1,464 |
 | Friendly | 16.00% | ~1,378 |
@@ -49,7 +49,7 @@ Number of Ratings: 836  (23.09.2022)
 | Really Friendly | 6.00% | ~517 |
 | Amped Up | 6.00% | ~517 |
 | Look, no Hands! | 5.00% | ~431 |
-| Luxurious Living | 4.00% | ~344 |
+| Luxurious Living | 4.00% | ~345 |
 | Mogul | 3.00% | ~258 |
 | Ranch Hand | 3.00% | ~258 |
 | Diplomat | 2.00% | ~172 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~17 |
 | Customized calamities | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,612 (Ranked 131)  
+Progressed: 8,614 (Ranked 131)  
 Completed: 0 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 0 (0.00%) (Ranked 265)
 | 2023-08-25 | 8,534 | 0 |
 | 2023-08-26 | 8,570 | 0 |
 | 2023-08-27 | 8,610 | 0 |
-| 2023-08-28 | 8,612 | 0 |
+| 2023-08-28 | 8,614 | 0 |
 ## Awards
 Max (Extremely Fun): 101  (Ranked 336)  
 Sum: 694 (Ranked 278)  

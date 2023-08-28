@@ -29,12 +29,12 @@ Rating: 4.19 (Ranked 869)
 | It's Time | 3.00% | ~115 |
 | Giving Back | 2.00% | ~318 |
 | The Commonality | 2.00% | ~318 |
-| One Last Job | 2.00% | ~76 |
+| One Last Job | 2.00% | ~77 |
 | In Striking Distance | 1.00% | ~159 |
 | This Isn't About Escape | 0.90% | ~34 |
 | Armed to the Teeth | 0.60% | ~23 |
 | Information Overload | 0.60% | ~23 |
-| Grim Reaper | 0.50% | ~79 |
+| Grim Reaper | 0.50% | ~80 |
 | Parole Denied | 0.50% | ~19 |
 | Big Spender | 0.50% | ~19 |
 | Quick Pick | 0.50% | ~19 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 869)
 | Hoard Mode | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,898 (Ranked 117)  
+Progressed: 15,900 (Ranked 117)  
 Completed: 73 (0.46%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,6 +181,7 @@ Completed: 73 (0.46%) (Ranked 153)
 | 2023-08-25 | 15,891 | 73 |
 | 2023-08-26 | 15,894 | 73 |
 | 2023-08-27 | 15,898 | 73 |
+| 2023-08-28 | 15,900 | 73 |
 ## Awards
 Max (Amazing Storytelling): 73  (Ranked 375)  
 Sum: 413 (Ranked 316)  

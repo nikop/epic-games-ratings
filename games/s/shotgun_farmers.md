@@ -13,7 +13,7 @@
 | Cornivore | 53.00% | ~143 |
 | I Believe I Can Fly | 49.00% | ~132 |
 | Early Survivor | 42.00% | ~92 |
-| No Diggity | 41.00% | ~90 |
+| No Diggity | 42.00% | ~92 |
 | Bouncemato | 30.00% | ~66 |
 | Amateur Survivor | 30.00% | ~66 |
 | 10K | 29.00% | ~78 |
@@ -34,8 +34,8 @@
 | Fresh Pancake | 10.00% | ~27 |
 | Perfect | 10.00% | ~22 |
 | Expert Survivor | 10.00% | ~22 |
+| Quadsparagus | 9.00% | ~20 |
 | Bring Home The Bacon | 8.00% | ~22 |
-| Quadsparagus | 8.00% | ~18 |
 | Early Bird | 6.00% | ~16 |
 | Pyromaniac | 6.00% | ~13 |
 | I Have The High Ground | 5.00% | ~14 |

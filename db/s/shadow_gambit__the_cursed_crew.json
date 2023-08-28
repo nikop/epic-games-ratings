@@ -4,7 +4,7 @@
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -1276,9 +1276,9 @@
       "ID": "_21_CrewTale_OVT",
       "SetID": "8a1io5d",
       "Name": "Tobacco Travesty",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 32
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -1331,8 +1331,8 @@
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-28T00:04:14.7009161+00:00",
+  "LastChanged_Achievements": "2023-08-28T01:47:03.1896928+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:45.1302228+00:00",
-  "LastUpdate_Ratings": "2023-08-28T00:00:11.0082563+00:00",
-  "LastUpdate_Achievements": "2023-08-28T00:04:14.7009408+00:00"
+  "LastUpdate_Ratings": "2023-08-28T01:43:00.9014191+00:00",
+  "LastUpdate_Achievements": "2023-08-28T01:47:03.1897197+00:00"
 }

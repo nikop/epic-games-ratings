@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 93,
   "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 24,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -380,10 +380,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18846,
+  "EOS_Progressed": 18850,
   "EOS_Completed": 378,
   "EOS_NewPlayers": 533,
-  "EOS_NewCompleters": 6,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 2.01,
   "EosHistory": [
     {
@@ -14190,6 +14190,11 @@
       "Time": "2023-08-28T00:06:05.5408883+00:00",
       "NumProgressed": 18846,
       "NumCompleted": 378
+    },
+    {
+      "Time": "2023-08-28T01:49:35.7063077+00:00",
+      "NumProgressed": 18850,
+      "NumCompleted": 378
     }
   ],
   "TotalAchievements": 20,
@@ -14201,7 +14206,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 3204
+      "UsersEstimate": 3205
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -14217,7 +14222,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2638
+      "UsersEstimate": 2639
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -14265,7 +14270,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2827
+      "UsersEstimate": 2828
     },
     {
       "ID": "FOUND_ERIN",
@@ -14321,7 +14326,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 14323
+      "UsersEstimate": 14326
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -14329,7 +14334,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 5277
+      "UsersEstimate": 5278
     },
     {
       "ID": "NORTH_FINISHED",
@@ -14337,7 +14342,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2638
+      "UsersEstimate": 2639
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -14345,7 +14350,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1319
+      "UsersEstimate": 1320
     },
     {
       "ID": "WEST_FINISHED",
@@ -14353,22 +14358,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 3581
+      "UsersEstimate": 3582
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 18846,
+      "Progressed": 18850,
       "Completed": 378
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-08-12T01:39:46.4098224+00:00",
-  "LastChanged_Achievements": "2023-08-28T00:06:05.5408874+00:00",
+  "LastChanged_Achievements": "2023-08-28T01:49:35.7063071+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:40.7243022+00:00",
-  "LastUpdate_Ratings": "2023-08-27T23:58:14.6229977+00:00",
-  "LastUpdate_Achievements": "2023-08-28T00:06:05.5409863+00:00"
+  "LastUpdate_Ratings": "2023-08-28T01:40:21.9359368+00:00",
+  "LastUpdate_Achievements": "2023-08-28T01:49:35.7064106+00:00"
 }

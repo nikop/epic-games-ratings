@@ -5,21 +5,21 @@ Rating: 4.49 (Ranked 580)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~21,837 |
-| Advancement | 72.00% | ~18,282 |
-| Meticulously Efficient | 63.00% | ~15,997 |
-| Discovery | 61.00% | ~15,489 |
+| Stylish | 86.00% | ~21,838 |
+| Advancement | 72.00% | ~18,283 |
+| Meticulously Efficient | 63.00% | ~15,998 |
+| Discovery | 61.00% | ~15,490 |
 | Fully Upgraded | 53.00% | ~13,458 |
 | Swift Rift Removers | 53.00% | ~13,458 |
 | I collect Spores, Molds, and Fungi | 51.00% | ~12,950 |
 | Cultured | 51.00% | ~12,950 |
-| Vaporous Expansion | 48.00% | ~12,188 |
+| Vaporous Expansion | 48.00% | ~12,189 |
 | Teamwork | 43.00% | ~10,919 |
 | There you are! | 42.00% | ~10,665 |
 | Clutch Capture | 40.00% | ~10,157 |
-| Back Off | 35.00% | ~8,887 |
-| Daily Dose | 34.00% | ~8,633 |
-| Solo Capture | 33.00% | ~8,379 |
+| Back Off | 35.00% | ~8,888 |
+| Daily Dose | 34.00% | ~8,634 |
+| Solo Capture | 33.00% | ~8,380 |
 | Welcome to the Crew | 31.00% | ~7,872 |
 | Ghostbuster In Training | 30.00% | ~7,618 |
 | Icing on the Cake | 30.00% | ~7,618 |
@@ -34,7 +34,7 @@ Rating: 4.49 (Ranked 580)
 | Skilled | 24.00% | ~6,094 |
 | Collector | 23.00% | ~5,840 |
 | Ectoplasmic Entity | 23.00% | ~5,840 |
-| Rift Destroyer | 19.00% | ~4,824 |
+| Rift Destroyer | 19.00% | ~4,825 |
 | Terrifying | 18.00% | ~4,571 |
 | Tobin's Prodigy | 18.00% | ~4,571 |
 | Reckless | 17.00% | ~4,317 |
@@ -46,8 +46,8 @@ Rating: 4.49 (Ranked 580)
 | Rivalry | 10.00% | ~2,539 |
 | Fragile Panes | 9.00% | ~2,285 |
 | Surprise! | 9.00% | ~2,285 |
-| Rift Seeker | 7.00% | ~1,777 |
-| Therapeutic | 7.00% | ~1,777 |
+| Rift Seeker | 7.00% | ~1,778 |
+| Therapeutic | 7.00% | ~1,778 |
 | Master Collector | 6.00% | ~1,524 |
 | Ghost Expert | 3.00% | ~762 |
 | Catostrophic Destroyer | 2.00% | ~508 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 580)
 | I don't need these | 1.00% | ~254 |
 | Mycophile | 1.00% | ~254 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,392 (Ranked 103)  
+Progressed: 25,393 (Ranked 103)  
 Completed: 53 (0.21%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,14 +187,15 @@ Completed: 53 (0.21%) (Ranked 188)
 | 2023-08-25 | 25,339 | 53 |
 | 2023-08-26 | 25,365 | 53 |
 | 2023-08-27 | 25,392 | 53 |
+| 2023-08-28 | 25,393 | 53 |
 ## Awards
 Max (Great for Quick Sessions): 249  (Ranked 254)  
-Sum: 2,260 (Ranked 188)  
+Sum: 2,261 (Ranked 188)  
 Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 249 |
-| This game is Great for Beginners | 245 |
+| This game is Great for Beginners | 246 |
 | This game has Competitive Players | 233 |
 | This game has Amazing Storytelling | 227 |
 | This game has Diverse Characters | 224 |
@@ -353,3 +354,4 @@ Diff (max vs sum): 66
 | 2023-08-24 | 4.49 | 249 | 2,249 |
 | 2023-08-25 | 4.49 | 249 | 2,257 |
 | 2023-08-27 | 4.49 | 249 | 2,260 |
+| 2023-08-28 | 4.49 | 249 | 2,261 |

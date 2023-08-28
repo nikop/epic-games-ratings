@@ -6142,9 +6142,9 @@
       "Count": 3377
     }
   ],
-  "EOS_Progressed": 225535,
+  "EOS_Progressed": 225563,
   "EOS_Completed": 2222,
-  "EOS_NewPlayers": 1792,
+  "EOS_NewPlayers": 1808,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -20332,6 +20332,11 @@
       "Time": "2023-08-28T00:06:34.8960529+00:00",
       "NumProgressed": 225535,
       "NumCompleted": 2222
+    },
+    {
+      "Time": "2023-08-28T01:50:16.5630615+00:00",
+      "NumProgressed": 225563,
+      "NumCompleted": 2222
     }
   ],
   "TotalAchievements": 516,
@@ -21173,9 +21178,9 @@
       "ID": "objective_completed_1193",
       "SetID": "415jc5c",
       "Name": "The Sanctum of the Sword",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 384
     },
     {
       "ID": "objective_completed_1194",
@@ -21557,9 +21562,9 @@
       "ID": "objective_completed_167",
       "SetID": "cc37lbc",
       "Name": "Vajra\u0027s Guards",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 226
+      "UsersEstimate": 451
     },
     {
       "ID": "objective_completed_169",
@@ -21797,9 +21802,9 @@
       "ID": "objective_completed_236",
       "SetID": "cc37lbc",
       "Name": "Haaave You Met Asmodeus?",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 226
+      "UsersEstimate": 451
     },
     {
       "ID": "objective_completed_237",
@@ -24447,7 +24452,7 @@
       "Name": "The Chaotic Hunt for The Last Breath",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "objective_completed_1400",
@@ -24463,28 +24468,28 @@
       "Name": "There\u0027s a Flying Snake in my Boot!",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 191809,
+      "Progressed": 191837,
       "Completed": 3315
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 225535,
+      "Progressed": 225563,
       "Completed": 2222
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-27T14:01:09.3672113+00:00",
-  "LastChanged_Achievements": "2023-08-28T00:06:34.8960523+00:00",
+  "LastChanged_Achievements": "2023-08-28T01:50:16.5630605+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:53.3345914+00:00",
-  "LastUpdate_Ratings": "2023-08-28T00:00:17.934259+00:00",
-  "LastUpdate_Achievements": "2023-08-28T00:06:34.8988275+00:00"
+  "LastUpdate_Ratings": "2023-08-28T01:43:10.8579921+00:00",
+  "LastUpdate_Achievements": "2023-08-28T01:50:16.5664658+00:00"
 }

@@ -1834,10 +1834,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 2260,
       "NumberOfAwardsMax": 249
+    },
+    {
+      "Time": "2023-08-28T01:38:48.0335923+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 2261,
+      "NumberOfAwardsMax": 249
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2260,
+  "NumberOfAwards": 2261,
   "NumberOfAwardsMax": 249,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1845,7 +1851,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 245
+      "Count": 246
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1914,9 +1920,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25392,
+  "EOS_Progressed": 25393,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -11469,6 +11475,11 @@
       "Time": "2023-08-27T23:04:22.8473741+00:00",
       "NumProgressed": 25392,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-08-28T01:45:53.9979394+00:00",
+      "NumProgressed": 25393,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 51,
@@ -11480,7 +11491,7 @@
       "Name": "Advancement",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 18282
+      "UsersEstimate": 18283
     },
     {
       "ID": "Animated",
@@ -11496,7 +11507,7 @@
       "Name": "Back Off",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 8887
+      "UsersEstimate": 8888
     },
     {
       "ID": "Best_Insurance",
@@ -11552,7 +11563,7 @@
       "Name": "Daily Dose",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 8633
+      "UsersEstimate": 8634
     },
     {
       "ID": "Diabolical",
@@ -11568,7 +11579,7 @@
       "Name": "Discovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 15489
+      "UsersEstimate": 15490
     },
     {
       "ID": "Dont_Need_These",
@@ -11592,7 +11603,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 63,
       "XP": 100,
-      "UsersEstimate": 15997
+      "UsersEstimate": 15998
     },
     {
       "ID": "Escape_Artist",
@@ -11712,7 +11723,7 @@
       "Name": "Rift Destroyer",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4824
+      "UsersEstimate": 4825
     },
     {
       "ID": "Rift_Seeker",
@@ -11720,7 +11731,7 @@
       "Name": "Rift Seeker",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1777
+      "UsersEstimate": 1778
     },
     {
       "ID": "Right_Back",
@@ -11768,7 +11779,7 @@
       "Name": "Solo Capture",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 8379
+      "UsersEstimate": 8380
     },
     {
       "ID": "Stunner",
@@ -11784,7 +11795,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 21837
+      "UsersEstimate": 21838
     },
     {
       "ID": "Summoner",
@@ -11832,7 +11843,7 @@
       "Name": "Therapeutic",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1777
+      "UsersEstimate": 1778
     },
     {
       "ID": "There_You_Are",
@@ -11864,7 +11875,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 12188
+      "UsersEstimate": 12189
     },
     {
       "ID": "Welcome_Crew",
@@ -11887,16 +11898,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25392,
+      "Progressed": 25393,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-08-27T20:57:12.0288441+00:00",
-  "LastChanged_Achievements": "2023-08-28T00:03:25.8172991+00:00",
+  "LastChanged": "2023-08-28T01:38:48.0335921+00:00",
+  "LastChanged_Achievements": "2023-08-28T01:45:53.9979386+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:16.4521861+00:00",
-  "LastUpdate_Ratings": "2023-08-27T23:57:07.462719+00:00",
-  "LastUpdate_Achievements": "2023-08-28T00:03:25.8174248+00:00"
+  "LastUpdate_Ratings": "2023-08-28T01:38:48.033593+00:00",
+  "LastUpdate_Achievements": "2023-08-28T01:45:53.9981218+00:00"
 }
