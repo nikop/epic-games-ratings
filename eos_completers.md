@@ -5,7 +5,7 @@
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 43.40% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.72% |
 | 5 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 33.33% |
-| 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 31.71% |
+| 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.95% |
 | 7 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 25.23% |
 | 9 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -34,7 +34,7 @@
 | 32 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
 | 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.94% |
 | 34 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.47% |
-| 35 | [Ravenlok](games/r/ravenlok.md) | 7.65% |
+| 35 | [Ravenlok](games/r/ravenlok.md) | 7.74% |
 | 36 | [Smelter](games/s/smelter.md) | 7.50% |
 | 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.04% |
 | 38 | [Scorn](games/s/scorn.md) | 7.02% |
@@ -62,7 +62,7 @@
 | 60 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
 | 61 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.08% |
 | 62 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.96% |
-| 63 | [ZZT!](games/z/zzt!.md) | 3.88% |
+| 63 | [ZZT!](games/z/zzt!.md) | 3.87% |
 | 64 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 65 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 66 | [Without Escape](games/w/without_escape.md) | 3.45% |
@@ -91,7 +91,7 @@
 | 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.25% |
 | 90 | [Bloodshore](games/b/bloodshore.md) | 2.20% |
 | 91 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
-| 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.03% |
+| 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.02% |
 | 93 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.01% |
 | 94 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
 | 95 | [Night Book](games/n/night_book.md) | 1.86% |
