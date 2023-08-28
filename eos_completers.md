@@ -3,7 +3,7 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.00% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.72% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 41.07% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 42.11% |
 | 5 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 33.33% |
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.95% |
 | 7 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
@@ -37,7 +37,7 @@
 | 35 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.47% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.74% |
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
-| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.04% |
+| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.03% |
 | 39 | [Scorn](games/s/scorn.md) | 7.01% |
 | 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.80% |
 | 41 | [Time Loader](games/t/time_loader.md) | 6.78% |
@@ -56,7 +56,7 @@
 | 54 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 4.76% |
 | 55 | [Bugsnax](games/b/bugsnax.md) | 4.73% |
 | 56 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
-| 57 | [JARS](games/j/jars.md) | 4.55% |
+| 57 | [JARS](games/j/jars.md) | 4.48% |
 | 58 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.37% |
 | 59 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.18% |
 | 60 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
@@ -91,8 +91,8 @@
 | 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.25% |
 | 90 | [Bloodshore](games/b/bloodshore.md) | 2.20% |
 | 91 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
-| 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.02% |
-| 93 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.00% |
+| 92 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.01% |
+| 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.01% |
 | 94 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
 | 95 | [Night Book](games/n/night_book.md) | 1.86% |
 | 96 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
@@ -123,11 +123,11 @@
 | 120 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.99% |
 | 122 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
 | 123 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.96% |
-| 124 | [Hades](games/h/hades.md) | 0.90% |
-| 125 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
-| 126 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
-| 127 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.80% |
-| 128 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 0.76% |
+| 124 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 0.95% |
+| 125 | [Hades](games/h/hades.md) | 0.90% |
+| 126 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
+| 127 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
+| 128 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.80% |
 | 129 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.75% |
 | 130 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.74% |
 | 131 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.72% |
@@ -151,9 +151,9 @@
 | 149 | [The Surge 2](games/t/the_surge_2.md) | 0.50% |
 | 150 | [Godlike Burger](games/g/godlike_burger.md) | 0.49% |
 | 151 | [Them and Us](games/t/them_and_us.md) | 0.48% |
-| 152 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
-| 153 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.46% |
-| 153 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.46% |
+| 152 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
+| 152 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.46% |
+| 152 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.46% |
 | 155 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.45% |
 | 155 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.45% |
 | 155 | [Train Valley](games/t/train_valley.md) | 0.45% |
@@ -559,4 +559,4 @@
 | 265 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 265 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 265 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,120 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,121 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |

@@ -90,6 +90,7 @@
 | [Whale Fall](games/c/cc46844c977144c78ef9903ae8efbed4.md) | 2023-09-30 | - |  | - | - |
 | [Wyvia](games/f/f8746c4784114e1b9d000187539201f4.md) | 2023-09-30 | - |  | - | - |
 | [XR22-SEAGUARD](games/a/a7a640d2ef344fe981c58f45405d1e2e.md) | 2023-09-30 | - |  | - | - |
+| [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 2023-09-30 | - |  | - | - |
 | [Sunlight Scream](games/f/f1d0d2bf90c0444684c26bb6190cc74f.md) | 2023-10-01 | - |  | - | - |
 | [Harvest Island](games/4/4057468aee2a495ab81771b1c4d61a5c.md) | 2023-10-02 | - |  | - | - |
 | [Game Dev Masters](games/g/game_dev_masters.md) | 2023-10-03 | 68 (1,000 XP) | 1 | - | - |
@@ -126,6 +127,7 @@
 | [MetalCore](games/m/metalcore.md) | 2023-11-30 | - |  | - | - |
 | [The Crust](games/t/the_crust.md) | 2023-11-30 | - |  | - | - |
 | [The Sophisticated Art of Friendship](games/0/0e6f7995691248e59df9d6c9efb7e495.md) | 2023-11-30 | - |  | - | - |
+| [SteamWorld Build](games/s/steamworld_build.md) | 2023-12-01 | - |  | - | - |
 | [1000xRESIST](games/1/1000xresist.md) | 2023-12-31 | - |  | - | - |
 | [9Lives Arena](games/9/9lives_arena.md) | 2023-12-31 | - |  | - | - |
 | [Active and Operational](games/a/active_and_operational.md) | 2023-12-31 | - |  | - | - |
@@ -210,7 +212,7 @@
 | [Elder's Grace - Rise of the Mobley](games/e/elder's_grace_-_rise_of_the_mobley.md) | 2024-03-31 | - |  | - | - |
 | [Gridiron](games/d/d23b008fda0444588998e65e0de39871.md) | 2024-03-31 | - |  | - | - |
 | [TACTICAL BANDITS](games/6/66ad2c3335b34b64ac28f438287766fc.md) | 2024-03-31 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 1,740 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 1,741 | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |
 | [Xenion](games/0/04758c0780e24a16b433fa56456790d9.md) | 2024-06-30 | - |  | - | - |
@@ -390,7 +392,6 @@
 | [Spirittea](games/s/spirittea.md) | 2099-01-01 | - |  | - | - |
 | [Splitgate](games/s/splitgate.md) | 2099-01-01 | - |  | - | - |
 | [Star★Vaders](games/s/star★vaders.md) | 2099-01-01 | - |  | - | - |
-| [SteamWorld Build](games/s/steamworld_build.md) | 2099-01-01 | - |  | - | - |
 | [Stop Dead](games/4/45e3bbb127e5483e928f646f137e561c.md) | 2099-01-01 | - |  | - | - |
 | [Strange House](games/s/strange_house.md) | 2099-01-01 | - |  | - | - |
 | [Stumble Upon Rumble](games/f/f1d5f83e3a294b0b988e5dcc925ce96c.md) | 2099-01-01 | - |  | - | - |

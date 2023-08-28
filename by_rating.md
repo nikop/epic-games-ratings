@@ -26,7 +26,7 @@
 | 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 11,223 | 35 |
 | 19 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 495 |
 | 26 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 280 | 243 |
-| 26 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,432 | 126 |
+| 26 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,433 | 126 |
 | 26 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 721 | 165 |
 | 26 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.87 | 0 | 514 |
 | 30 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 0 | 514 |
@@ -49,7 +49,7 @@
 | 42 | [Subnautica](games/s/subnautica.md) | 4.85 | 688 | 169 |
 | 48 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 51 | 401 |
 | 48 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 47 | 409 |
-| 48 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 217 | 268 |
+| 48 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 217 | 269 |
 | 48 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.84 | 385 | 219 |
 | 48 | [Grindstone](games/g/grindstone.md) | 4.84 | 0 | 514 |
 | 48 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 419 | 211 |
@@ -547,7 +547,7 @@
 | 544 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 779 | 160 |
 | 544 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,115 | 80 |
 | 544 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 514 |
-| 544 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.51 | 2,698 | 96 |
+| 544 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.51 | 2,703 | 96 |
 | 544 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 109 | 328 |
 | 544 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 148 | 300 |
 | 544 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 189 | 277 |
@@ -562,7 +562,7 @@
 | 560 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 1,711 | 117 |
 | 560 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 412 | 212 |
 | 560 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 108 | 329 |
-| 560 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 218 | 267 |
+| 560 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 218 | 268 |
 | 560 | [Dark Deception](games/d/dark_deception.md) | 4.50 | 0 | 514 |
 | 560 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 91 | 350 |
 | 560 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 514 |
@@ -664,7 +664,7 @@
 | 649 | [WRC Generations](games/w/wrc_generations.md) | 4.44 | 20 | 509 |
 | 663 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 34 | 443 |
 | 663 | [Dungeon Fighter Online](games/b/b567cb36ae39435792fe40d2e913cd92.md) | 4.43 | 0 | 514 |
-| 663 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.43 | 216 | 269 |
+| 663 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.43 | 219 | 266 |
 | 663 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 4.43 | 0 | 514 |
 | 663 | [Predecessor](games/p/predecessor.md) | 4.43 | 153 | 296 |
 | 663 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 0 | 514 |

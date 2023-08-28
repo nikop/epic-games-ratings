@@ -95,7 +95,7 @@
 | 93 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,226 | 4.57 | 449 |
 | 94 | [Trackmania](games/t/trackmania.md) | 3,188 | 4.67 | 256 |
 | 95 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 2,789 | 4.82 | 66 |
-| 96 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,698 | 4.51 | 544 |
+| 96 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,703 | 4.51 | 544 |
 | 97 | [Among Us](games/a/among_us.md) | 2,633 | 4.57 | 449 |
 | 98 | [Path of Exile](games/p/path_of_exile.md) | 2,582 | 4.61 | 366 |
 | 99 | [RAGE 2](games/r/rage_2.md) | 2,530 | 4.27 | 817 |
@@ -125,7 +125,7 @@
 | 123 | [Ring of Pain](games/r/ring_of_pain.md) | 1,491 | 4.58 | 428 |
 | 124 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,446 | 4.62 | 351 |
 | 125 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 1,444 | 4.78 | 101 |
-| 126 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,432 | 4.87 | 26 |
+| 126 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,433 | 4.87 | 26 |
 | 127 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,420 | 4.53 | 515 |
 | 128 | [Conan Exiles](games/c/conan_exiles.md) | 1,402 | 4.54 | 501 |
 | 129 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,398 | 4.86 | 30 |
@@ -266,9 +266,9 @@
 | 264 | [Old World](games/o/old_world.md) | 220 | 4.65 | 301 |
 | 264 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 220 | 4.58 | 428 |
 | 266 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 219 | 4.60 | 391 |
-| 267 | [Crying Suns](games/c/crying_suns.md) | 218 | 4.50 | 560 |
-| 268 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 217 | 4.84 | 48 |
-| 269 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 216 | 4.43 | 663 |
+| 266 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 219 | 4.43 | 663 |
+| 268 | [Crying Suns](games/c/crying_suns.md) | 218 | 4.50 | 560 |
+| 269 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 217 | 4.84 | 48 |
 | 270 | [Sunless Sea](games/s/sunless_sea.md) | 213 | 4.58 | 428 |
 | 271 | [Stranded Deep](games/s/stranded_deep.md) | 207 | 4.22 | 851 |
 | 272 | [HITMAN](games/h/hitman.md) | 206 | 4.64 | 313 |
