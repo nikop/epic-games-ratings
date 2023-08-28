@@ -305,21 +305,29 @@ Directory.CreateDirectory("achievements");
 foreach (var month in items.Where(x => x.Store.ReleaseDate != null).GroupBy(x => $"{x.Store.ReleaseDate!.Value.Year}-{x.Store.ReleaseDate!.Value.Month:00}"))
 {
     var key = month.Key;
+    var fileName = Path.Combine(path, $"achievements/{key}.md");
 
     var achievementGames = month
         .Where(x => x.TotalAchievements > 0)
         .OrderByDescending(x => x.Store.ReleaseDate)
-        .ThenBy(x => x.Name);
+        .ThenBy(x => x.Name)
+        .ToList();
 
-    await File.WriteAllTextAsync(
-        Path.Combine(path, $"achievements/{key}.md"),
-        nameDateTable.FormatTable(
-            achievementGames
-                .Where(x => x.AchievementsAdded != null)
-                .OrderByDescending(x => x.AchievementsAdded)
-                .ThenBy(x => x.Name)
-        )
-    );
+    if (achievementGames.Count > 0)
+    {
+        await File.WriteAllTextAsync(
+           fileName,
+            nameDateTable.FormatTable(
+                achievementGames
+                    .Where(x => x.AchievementsAdded != null)
+                    .OrderByDescending(x => x.AchievementsAdded)
+                    .ThenBy(x => x.Name)
+            )
+        );
+    } else if (File.Exists(fileName))
+    {
+        File.Delete(fileName);
+    }
 }
 
 // Blockchain
