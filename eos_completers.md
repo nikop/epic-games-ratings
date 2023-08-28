@@ -2,8 +2,8 @@
 | - | ---- | --------- |
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.00% |
-| 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 43.40% |
-| 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.72% |
+| 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.72% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 42.59% |
 | 5 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 33.33% |
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.95% |
 | 7 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
@@ -37,7 +37,7 @@
 | 35 | [Ravenlok](games/r/ravenlok.md) | 7.74% |
 | 36 | [Smelter](games/s/smelter.md) | 7.50% |
 | 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.04% |
-| 38 | [Scorn](games/s/scorn.md) | 7.02% |
+| 38 | [Scorn](games/s/scorn.md) | 7.01% |
 | 39 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 6.82% |
 | 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.80% |
 | 41 | [Time Loader](games/t/time_loader.md) | 6.78% |
@@ -78,9 +78,9 @@
 | 76 | [Monster Harvest](games/m/monster_harvest.md) | 2.93% |
 | 76 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 78 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.80% |
+| 79 | [Destiny 2](games/d/destiny_2.md) | 2.74% |
 | 79 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.74% |
-| 80 | [Destiny 2](games/d/destiny_2.md) | 2.73% |
-| 80 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
+| 81 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 82 | [The Bunker](games/t/the_bunker.md) | 2.61% |
 | 83 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.58% |
 | 83 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.58% |
@@ -152,11 +152,11 @@
 | 150 | [Godlike Burger](games/g/godlike_burger.md) | 0.49% |
 | 151 | [Them and Us](games/t/them_and_us.md) | 0.48% |
 | 152 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
-| 153 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.46% |
 | 153 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.46% |
 | 153 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.46% |
-| 156 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.45% |
-| 156 | [Train Valley](games/t/train_valley.md) | 0.45% |
+| 155 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.45% |
+| 155 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.45% |
+| 155 | [Train Valley](games/t/train_valley.md) | 0.45% |
 | 158 | [Tails of Iron](games/t/tails_of_iron.md) | 0.43% |
 | 158 | [Tchia](games/t/tchia.md) | 0.43% |
 | 160 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
