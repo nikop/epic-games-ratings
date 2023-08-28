@@ -300,7 +300,15 @@ await File.WriteAllTextAsync(
     )
 );
 
+// Games with achievements directory
 Directory.CreateDirectory("achievements");
+
+var gamesWithAchievementsTable = new MarkdownTable<GameDbItem>()
+    .AddColumn("Game", x => $"[{x.Name}](../{GamesLink(x)})")
+    .AddColumn("Release Date", x => MarkdownHelpers.FormatDate(x.Store.ReleaseDate))
+    .AddColumn("Achievements", x => x.TotalAchievements > 0 ? $"{MarkdownHelpers.FormatNumber(x.TotalAchievements)} ({MarkdownHelpers.FormatNumber(x.TotalAchievementsXP)} XP)" : "-")
+    .AddColumn("Players", x => x.TotalAchievements > 0 ? MarkdownHelpers.FormatNumber(x.EOS_Progressed) : "")
+    .AddColumn("Rating", x => MarkdownHelpers.FormatRating(x.Rating));
 
 foreach (var month in items.Where(x => x.Store.ReleaseDate != null).GroupBy(x => $"{x.Store.ReleaseDate!.Value.Year}-{x.Store.ReleaseDate!.Value.Month:00}"))
 {
@@ -315,7 +323,7 @@ foreach (var month in items.Where(x => x.Store.ReleaseDate != null).GroupBy(x =>
 
     if (achievementGames.Count > 0)
     {
-        await File.WriteAllTextAsync(fileName, nameDateTable.FormatTable(achievementGames));
+        await File.WriteAllTextAsync(fileName, gamesWithAchievementsTable.FormatTable(achievementGames));
     }
     else if (File.Exists(fileName))
     {
