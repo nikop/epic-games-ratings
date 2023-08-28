@@ -4,7 +4,7 @@
   "ProductSlug": "infindustry-cccc40",
   "Ranking_EOS_Progress": 349,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-05-11T23:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 80,
+  "EOS_Progressed": 81,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.25,
+  "EOS_Completed_Percentage": 1.23,
   "EosHistory": [
     {
       "Time": "2023-04-26T07:04:01.8730008+00:00",
@@ -426,6 +426,11 @@
       "Time": "2023-08-25T22:05:29.9011545+00:00",
       "NumProgressed": 80,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-28T08:06:10.2226947+00:00",
+      "NumProgressed": 81,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 12,
@@ -451,7 +456,7 @@
       "ID": "Crafter",
       "SetID": "82ojhod",
       "Name": "Crafter",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -483,7 +488,7 @@
       "ID": "Healer",
       "SetID": "82ojhod",
       "Name": "Healer",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 90,
       "UsersEstimate": 2
     },
@@ -491,7 +496,7 @@
       "ID": "Rep1",
       "SetID": "82ojhod",
       "Name": "Rep1",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 80,
       "UsersEstimate": 2
     },
@@ -499,7 +504,7 @@
       "ID": "Rep2",
       "SetID": "82ojhod",
       "Name": "Rep2",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 160,
       "UsersEstimate": 2
     },
@@ -532,14 +537,14 @@
     {
       "ID": "82ojhod",
       "IsBase": true,
-      "Progressed": 80,
+      "Progressed": 81,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-14T11:57:16.2628162+00:00",
   "FirstSeenAchievements": "2023-04-26T07:04:01.8730756+00:00",
-  "LastChanged_Achievements": "2023-08-28T07:06:39.6456341+00:00",
+  "LastChanged_Achievements": "2023-08-28T08:06:10.2226936+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:16.8011879+00:00",
-  "LastUpdate_Ratings": "2023-08-28T07:00:30.2535593+00:00",
-  "LastUpdate_Achievements": "2023-08-28T07:06:39.6456482+00:00"
+  "LastUpdate_Ratings": "2023-08-28T08:00:11.4314019+00:00",
+  "LastUpdate_Achievements": "2023-08-28T08:06:10.22271+00:00"
 }

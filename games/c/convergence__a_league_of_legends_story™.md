@@ -22,16 +22,16 @@ Rating: 4.60 (Ranked 391)
 | Immaculate Aim | 18.00% | ~152 |
 | The Wicked Twins | 17.00% | ~144 |
 | Golem Chaser | 17.00% | ~144 |
-| Like Clockwork | 16.00% | ~135 |
-| The Betrayer | 16.00% | ~135 |
-| The Man Who Shattered Time | 16.00% | ~135 |
-| The Loose Cannon | 16.00% | ~135 |
-| Check Your Pulse | 16.00% | ~135 |
-| The Family Fortune | 16.00% | ~135 |
+| Like Clockwork | 16.00% | ~136 |
+| The Betrayer | 16.00% | ~136 |
+| The Man Who Shattered Time | 16.00% | ~136 |
+| The Loose Cannon | 16.00% | ~136 |
+| Check Your Pulse | 16.00% | ~136 |
+| The Family Fortune | 16.00% | ~136 |
 | Right On Time | 15.00% | ~127 |
-| Treasure Trove | 14.00% | ~118 |
-| Street Style | 14.00% | ~118 |
-| Cartographer | 14.00% | ~118 |
+| Treasure Trove | 14.00% | ~119 |
+| Street Style | 14.00% | ~119 |
+| Cartographer | 14.00% | ~119 |
 | Whiz Kid | 12.00% | ~102 |
 | Chaincrawler Explorer | 11.00% | ~93 |
 | Good Neighbor | 11.00% | ~93 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 391)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 846 (Ranked 209)  
+Progressed: 847 (Ranked 209)  
 Completed: 5 (0.59%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,6 +146,7 @@ Completed: 5 (0.59%) (Ranked 140)
 | 2023-08-25 | 839 | 5 |
 | 2023-08-26 | 843 | 5 |
 | 2023-08-27 | 846 | 5 |
+| 2023-08-28 | 847 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

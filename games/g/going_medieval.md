@@ -6,22 +6,22 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 74.00% | ~4,098 |
-| Having A Field Day | 74.00% | ~4,098 |
-| Reap What You Sow | 71.00% | ~3,932 |
-| The First Day | 68.00% | ~3,766 |
-| Green Thumb | 66.00% | ~3,655 |
+| Get A Room | 74.00% | ~4,099 |
+| Having A Field Day | 74.00% | ~4,099 |
+| Reap What You Sow | 71.00% | ~3,933 |
+| The First Day | 68.00% | ~3,767 |
+| Green Thumb | 66.00% | ~3,656 |
 | Novice Researcher | 65.00% | ~3,600 |
 | Home Cooked Meal | 57.00% | ~3,157 |
 | Putting Food on the Table | 57.00% | ~3,157 |
-| Onward | 56.00% | ~3,101 |
+| Onward | 55.00% | ~3,046 |
 | The First Week | 54.00% | ~2,991 |
-| Studious Researcher | 51.00% | ~2,824 |
-| Beam Me Up | 50.00% | ~2,769 |
+| Studious Researcher | 51.00% | ~2,825 |
+| Beam Me Up | 50.00% | ~2,770 |
 | Feast or Famine | 47.00% | ~2,603 |
 | Adept Researcher | 44.00% | ~2,437 |
-| Retribution | 40.00% | ~2,215 |
-| ...And Don’t Come Back! | 40.00% | ~2,215 |
+| Retribution | 40.00% | ~2,216 |
+| ...And Don’t Come Back! | 40.00% | ~2,216 |
 | Fit For A King | 36.00% | ~1,994 |
 | Luminary Researcher | 32.00% | ~1,772 |
 | Heating Up | 29.00% | ~1,606 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~111 |
 | Wabbit Season | 0.50% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,538 (Ranked 140)  
+Progressed: 5,539 (Ranked 140)  
 Completed: 11 (0.20%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,16 +147,16 @@ Completed: 11 (0.20%) (Ranked 190)
 | 2023-08-25 | 5,478 | 11 |
 | 2023-08-26 | 5,515 | 11 |
 | 2023-08-27 | 5,535 | 11 |
-| 2023-08-28 | 5,538 | 11 |
+| 2023-08-28 | 5,539 | 11 |
 ## Awards
 Max (Relaxing): 121  (Ranked 318)  
-Sum: 977 (Ranked 239)  
+Sum: 978 (Ranked 239)  
 Diff (max vs sum): 79  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 121 |
 | This game is Great for Beginners | 118 |
-| This game has Diverse Characters | 109 |
+| This game has Diverse Characters | 110 |
 | This game has Quickly Understood Controls | 105 |
 | This game is Extremely Fun | 102 |
 | This game is Highly Recommended | 100 |
@@ -291,3 +291,4 @@ Diff (max vs sum): 79
 | 2023-08-22 | 4.60 | - | 121 | 974 |
 | 2023-08-23 | 4.60 | - | 121 | 976 |
 | 2023-08-24 | 4.60 | - | 121 | 977 |
+| 2023-08-28 | 4.60 | - | 121 | 978 |

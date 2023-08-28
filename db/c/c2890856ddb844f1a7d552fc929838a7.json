@@ -488,9 +488,9 @@
       "ID": "AC02",
       "SetID": "l4abp0",
       "Name": "Blood and Dust",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 284
+      "UsersEstimate": 289
     },
     {
       "ID": "AC03",
@@ -528,9 +528,9 @@
       "ID": "AC07",
       "SetID": "l4abp0",
       "Name": "The Sea dies on the Shore",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 124
+      "UsersEstimate": 129
     },
     {
       "ID": "AC08",
@@ -544,9 +544,9 @@
       "ID": "AC09",
       "SetID": "l4abp0",
       "Name": "Fermosa Fembra",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 90
+      "UsersEstimate": 95
     },
     {
       "ID": "AC10",
@@ -688,9 +688,9 @@
       "ID": "AC27",
       "SetID": "l4abp0",
       "Name": "Twisted is the Path of the Miracle",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 50
     },
     {
       "ID": "AC28",
@@ -847,8 +847,8 @@
   ],
   "FirstSeen": "2023-07-26T07:57:19.1818171+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
-  "LastChanged_Achievements": "2023-08-28T07:06:10.4934948+00:00",
+  "LastChanged_Achievements": "2023-08-28T08:05:41.6992498+00:00",
   "LastUpdate_AppInfo": "2023-08-22T18:57:00.5189311+00:00",
-  "LastUpdate_Ratings": "2023-08-28T06:59:47.5803739+00:00",
-  "LastUpdate_Achievements": "2023-08-28T07:06:10.4935397+00:00"
+  "LastUpdate_Ratings": "2023-08-28T07:59:28.2312062+00:00",
+  "LastUpdate_Achievements": "2023-08-28T08:05:41.6993239+00:00"
 }

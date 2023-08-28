@@ -732,7 +732,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 218411,
+  "EOS_Progressed": 218417,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 2995,
   "EOS_NewCompleters": 0,
@@ -8592,6 +8592,11 @@
       "Time": "2023-08-28T07:03:53.5571171+00:00",
       "NumProgressed": 218411,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-28T08:03:15.3056468+00:00",
+      "NumProgressed": 218417,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -8747,7 +8752,7 @@
       "Name": "Res Judicata",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1310
+      "UsersEstimate": 1311
     },
     {
       "ID": "CompanionPriestress",
@@ -8955,7 +8960,7 @@
       "Name": "The Famous Dungeon of Naheulbeuk",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1310
+      "UsersEstimate": 1311
     },
     {
       "ID": "DifficultyIronManNoCompanion",
@@ -9003,7 +9008,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6552
+      "UsersEstimate": 6553
     },
     {
       "ID": "DwarfElf15Support",
@@ -9019,7 +9024,7 @@
       "Name": "Dwarf Fortress",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1310
+      "UsersEstimate": 1311
     },
     {
       "ID": "DwarfInsultWin",
@@ -9043,7 +9048,7 @@
       "Name": "Look but don\u0027t touch",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1310
+      "UsersEstimate": 1311
     },
     {
       "ID": "ElfHitTwoFriends",
@@ -9051,7 +9056,7 @@
       "Name": "Sowwy!",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 54603
+      "UsersEstimate": 54604
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -9099,7 +9104,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6552
+      "UsersEstimate": 6553
     },
     {
       "ID": "FollowBraztok",
@@ -9107,7 +9112,7 @@
       "Name": "The beards of change",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1310
+      "UsersEstimate": 1311
     },
     {
       "ID": "FollowNarzatok",
@@ -9243,7 +9248,7 @@
       "Name": "Thieves\u0027 Guild Accreditation",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1310
+      "UsersEstimate": 1311
     },
     {
       "ID": "Speedrun",
@@ -9306,21 +9311,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 218411,
+      "Progressed": 218417,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 218411,
+      "Progressed": 218417,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-27T21:02:19.3722902+00:00",
-  "LastChanged_Achievements": "2023-08-28T07:03:53.5571163+00:00",
+  "LastChanged_Achievements": "2023-08-28T08:03:15.3056459+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:41.9661267+00:00",
-  "LastUpdate_Ratings": "2023-08-28T07:03:20.7424077+00:00",
-  "LastUpdate_Achievements": "2023-08-28T07:03:53.5574045+00:00"
+  "LastUpdate_Ratings": "2023-08-28T08:01:42.3132955+00:00",
+  "LastUpdate_Achievements": "2023-08-28T08:03:15.3058132+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 846,
+  "EOS_Progressed": 847,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -2055,6 +2055,11 @@
       "Time": "2023-08-27T14:07:30.0589806+00:00",
       "NumProgressed": 846,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-28T08:07:19.8836079+00:00",
+      "NumProgressed": 847,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -2090,7 +2095,7 @@
       "Name": "Treasure Trove",
       "Percentage": 14,
       "XP": 75,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -2114,7 +2119,7 @@
       "Name": "Like Clockwork",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ClovemaryGift",
@@ -2138,7 +2143,7 @@
       "Name": "Street Style",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "CultivairChests1",
@@ -2194,7 +2199,7 @@
       "Name": "The Betrayer",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -2202,7 +2207,7 @@
       "Name": "The Man Who Shattered Time",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "GadgetCompletion1",
@@ -2250,7 +2255,7 @@
       "Name": "The Loose Cannon",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "LacunaCompleted",
@@ -2266,7 +2271,7 @@
       "Name": "Cartographer",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "NoCritterSump",
@@ -2426,7 +2431,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "TheaterChests1",
@@ -2482,14 +2487,14 @@
       "Name": "The Family Fortune",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 846,
+      "Progressed": 847,
       "Completed": 5
     }
   ],
@@ -2497,8 +2502,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-08-28T07:08:10.2597612+00:00",
+  "LastChanged_Achievements": "2023-08-28T08:07:19.8836071+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:03.8052712+00:00",
-  "LastUpdate_Ratings": "2023-08-28T06:58:33.0605004+00:00",
-  "LastUpdate_Achievements": "2023-08-28T07:08:10.2598245+00:00"
+  "LastUpdate_Ratings": "2023-08-28T07:58:16.1699988+00:00",
+  "LastUpdate_Achievements": "2023-08-28T08:07:19.883712+00:00"
 }

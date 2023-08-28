@@ -4,7 +4,7 @@
   "ProductSlug": "sludge-life-2-456410",
   "Ranking_EOS_Progress": 561,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewPlayers": 336,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-06-27T15:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-27T23:00:05.6154638+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:58:04.8989878+00:00",
-  "LastUpdate_Ratings": "2023-08-28T06:59:40.6546262+00:00",
-  "LastUpdate_Achievements": "2023-08-28T07:05:37.6507927+00:00"
+  "LastUpdate_Ratings": "2023-08-28T07:59:20.8124045+00:00",
+  "LastUpdate_Achievements": "2023-08-28T08:05:09.0853701+00:00"
 }

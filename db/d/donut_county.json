@@ -4,7 +4,7 @@
   "ProductSlug": "donut-county",
   "Ranking_EOS_Progress": 561,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewPlayers": 336,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2018-08-28T15:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:19.9799364+00:00",
   "LastChanged": "2023-03-31T05:57:19.9799365+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:14.5847607+00:00",
-  "LastUpdate_Ratings": "2023-08-28T07:00:05.1169465+00:00",
-  "LastUpdate_Achievements": "2023-08-28T07:05:22.6277338+00:00"
+  "LastUpdate_Ratings": "2023-08-28T07:59:44.4356464+00:00",
+  "LastUpdate_Achievements": "2023-08-28T08:04:53.5955832+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 57,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 59,
+  "Ranking_EOS_NewPlayers": 60,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -7113,9 +7113,9 @@
       "Count": 914
     }
   ],
-  "EOS_Progressed": 116185,
+  "EOS_Progressed": 116186,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 805,
+  "EOS_NewPlayers": 801,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19938,6 +19938,11 @@
       "Time": "2023-08-28T07:05:45.2153217+00:00",
       "NumProgressed": 116185,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-28T08:05:16.768496+00:00",
+      "NumProgressed": 116186,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 65,
@@ -19957,7 +19962,7 @@
       "Name": "Serenity Now!",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 61578
+      "UsersEstimate": 61579
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -19997,7 +20002,7 @@
       "Name": "Funny Guy",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 77844
+      "UsersEstimate": 77845
     },
     {
       "ID": "altar_of_hope_unlock_hero_leper",
@@ -20005,7 +20010,7 @@
       "Name": "Long Live the King",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 76682
+      "UsersEstimate": 76683
     },
     {
       "ID": "altar_of_hope_unlock_hero_occultist",
@@ -20021,7 +20026,7 @@
       "Name": "Boxcar Kid",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 69711
+      "UsersEstimate": 69712
     },
     {
       "ID": "altar_of_hope_unlock_hero_vestal",
@@ -20045,7 +20050,7 @@
       "Name": "This Looks Familiar",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 44150
+      "UsersEstimate": 44151
     },
     {
       "ID": "altar_of_hope_upgrade_total_quarter",
@@ -20053,7 +20058,7 @@
       "Name": "Hope Rekindled",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 58092
+      "UsersEstimate": 58093
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -20069,7 +20074,7 @@
       "Name": "Predator",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 27884
+      "UsersEstimate": 27885
     },
     {
       "ID": "combat_kill_antiquarian",
@@ -20173,7 +20178,7 @@
       "Name": "Overdue Notice",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 36017
+      "UsersEstimate": 36018
     },
     {
       "ID": "combat_kill_pillagers",
@@ -20181,7 +20186,7 @@
       "Name": "Reverse Banditry",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 27884
+      "UsersEstimate": 27885
     },
     {
       "ID": "combat_kill_shambler",
@@ -20221,7 +20226,7 @@
       "Name": "It Happens",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 19751
+      "UsersEstimate": 19752
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -20245,7 +20250,7 @@
       "Name": "Rush Hour",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 69711
+      "UsersEstimate": 69712
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -20269,7 +20274,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 69711
+      "UsersEstimate": 69712
     },
     {
       "ID": "driving_distance_easy",
@@ -20301,7 +20306,7 @@
       "Name": "Autodidact",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 27884
+      "UsersEstimate": 27885
     },
     {
       "ID": "hero_story_complete_all",
@@ -20325,7 +20330,7 @@
       "Name": "Whale",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 36017
+      "UsersEstimate": 36018
     },
     {
       "ID": "hospital_full_service",
@@ -20341,7 +20346,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 108052
+      "UsersEstimate": 108053
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -20405,7 +20410,7 @@
       "Name": "Unshackled",
       "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 77844
+      "UsersEstimate": 77845
     },
     {
       "ID": "run_victory_act02",
@@ -20468,15 +20473,15 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 116185,
+      "Progressed": 116186,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-08-28T02:59:19.7326224+00:00",
-  "LastChanged_Achievements": "2023-08-28T07:05:45.2153212+00:00",
+  "LastChanged_Achievements": "2023-08-28T08:05:16.7684952+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:29.712133+00:00",
-  "LastUpdate_Ratings": "2023-08-28T06:58:53.9752404+00:00",
-  "LastUpdate_Achievements": "2023-08-28T07:05:45.2154708+00:00"
+  "LastUpdate_Ratings": "2023-08-28T07:58:35.5939017+00:00",
+  "LastUpdate_Achievements": "2023-08-28T08:05:16.7687409+00:00"
 }

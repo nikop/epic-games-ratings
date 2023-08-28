@@ -6,15 +6,15 @@ Number of Ratings: 3,313  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Found a Friend | 95.00% | ~406,292 |
-| Haikyo | 80.00% | ~342,141 |
+| Found a Friend | 95.00% | ~406,293 |
+| Haikyo | 80.00% | ~342,142 |
 | Good as New | 72.00% | ~307,927 |
-| Into the Woods | 69.00% | ~295,096 |
+| Into the Woods | 69.00% | ~295,097 |
 | Hunter in the Forest | 60.00% | ~256,606 |
 | Rot Commander | 60.00% | ~256,606 |
 | Taro's Fear | 56.00% | ~239,499 |
 | Between the Eyes | 47.00% | ~201,008 |
-| Taro's Love | 45.00% | ~192,454 |
+| Taro's Love | 45.00% | ~192,455 |
 | Taro's Regret | 43.00% | ~183,901 |
 | Spirit Guide | 42.00% | ~179,624 |
 | Harness Your Power | 39.00% | ~166,794 |
@@ -34,7 +34,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | The Lonely Path | 26.00% | ~111,196 |
 | Restore Balance | 25.00% | ~106,919 |
 | Say Cheese | 16.00% | ~68,428 |
-| Skillful Spirit Guide | 15.00% | ~64,151 |
+| Skillful Spirit Guide | 15.00% | ~64,152 |
 | Piercing Blow | 14.00% | ~59,875 |
 | Zen Master | 8.00% | ~34,214 |
 | Curse Collector | 7.00% | ~29,937 |
@@ -48,7 +48,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | Triple Threat | 0.90% | ~3,849 |
 | Master Spirit Guide | 0.30% | ~1,283 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 427,676 (Ranked 39)  
+Progressed: 427,677 (Ranked 39)  
 Completed: 529 (0.12%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 529 (0.12%) (Ranked 205)
 | 2023-08-25 | 427,609 | 527 |
 | 2023-08-26 | 427,642 | 528 |
 | 2023-08-27 | 427,673 | 529 |
-| 2023-08-28 | 427,676 | 529 |
+| 2023-08-28 | 427,677 | 529 |
 ## Awards
 Max (Great Boss Battles): 1,317  (Ranked 130)  
 Sum: 1,697 (Ranked 209)  

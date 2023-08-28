@@ -380,9 +380,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18862,
+  "EOS_Progressed": 18863,
   "EOS_Completed": 379,
-  "EOS_NewPlayers": 539,
+  "EOS_NewPlayers": 540,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 2.01,
   "EosHistory": [
@@ -14220,6 +14220,11 @@
       "Time": "2023-08-28T07:08:06.9674053+00:00",
       "NumProgressed": 18862,
       "NumCompleted": 379
+    },
+    {
+      "Time": "2023-08-28T08:07:16.6796303+00:00",
+      "NumProgressed": 18863,
+      "NumCompleted": 379
     }
   ],
   "TotalAchievements": 20,
@@ -14263,7 +14268,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2263
+      "UsersEstimate": 2264
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -14287,7 +14292,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2263
+      "UsersEstimate": 2264
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -14343,7 +14348,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2263
+      "UsersEstimate": 2264
     },
     {
       "ID": "INTRO_FINISHED",
@@ -14351,7 +14356,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 14335
+      "UsersEstimate": 14336
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -14359,7 +14364,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 5281
+      "UsersEstimate": 5282
     },
     {
       "ID": "NORTH_FINISHED",
@@ -14390,15 +14395,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 18862,
+      "Progressed": 18863,
       "Completed": 379
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-08-12T01:39:46.4098224+00:00",
-  "LastChanged_Achievements": "2023-08-28T07:08:06.9674048+00:00",
+  "LastChanged_Achievements": "2023-08-28T08:07:16.6796295+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:40.7243022+00:00",
-  "LastUpdate_Ratings": "2023-08-28T06:59:05.74866+00:00",
-  "LastUpdate_Achievements": "2023-08-28T07:08:06.9675117+00:00"
+  "LastUpdate_Ratings": "2023-08-28T07:58:48.2554881+00:00",
+  "LastUpdate_Achievements": "2023-08-28T08:07:16.679798+00:00"
 }

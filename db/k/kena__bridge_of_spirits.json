@@ -1286,7 +1286,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 427676,
+  "EOS_Progressed": 427677,
   "EOS_Completed": 529,
   "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 4,
@@ -10281,6 +10281,11 @@
       "Time": "2023-08-28T07:04:52.6890137+00:00",
       "NumProgressed": 427676,
       "NumCompleted": 529
+    },
+    {
+      "Time": "2023-08-28T08:04:24.1492521+00:00",
+      "NumProgressed": 427677,
+      "NumCompleted": 529
     }
   ],
   "TotalAchievements": 41,
@@ -10292,7 +10297,7 @@
       "Name": "Skillful Spirit Guide",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 64151
+      "UsersEstimate": 64152
     },
     {
       "ID": "ACH_ABILITY_BOMB",
@@ -10460,7 +10465,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 406292
+      "UsersEstimate": 406293
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -10492,7 +10497,7 @@
       "Name": "Into the Woods",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 295096
+      "UsersEstimate": 295097
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -10508,7 +10513,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 342141
+      "UsersEstimate": 342142
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -10540,7 +10545,7 @@
       "Name": "Taro\u0027s Love",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 192454
+      "UsersEstimate": 192455
     },
     {
       "ID": "ACH_RELIC_HAMMER",
@@ -10619,15 +10624,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 427676,
+      "Progressed": 427677,
       "Completed": 529
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-08-27T05:01:05.9614223+00:00",
-  "LastChanged_Achievements": "2023-08-28T07:04:52.6890129+00:00",
+  "LastChanged_Achievements": "2023-08-28T08:04:24.1492513+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:05.3767055+00:00",
-  "LastUpdate_Ratings": "2023-08-28T06:01:16.5187219+00:00",
-  "LastUpdate_Achievements": "2023-08-28T07:04:52.6891706+00:00"
+  "LastUpdate_Ratings": "2023-08-28T07:57:05.8596887+00:00",
+  "LastUpdate_Achievements": "2023-08-28T08:04:24.1494112+00:00"
 }

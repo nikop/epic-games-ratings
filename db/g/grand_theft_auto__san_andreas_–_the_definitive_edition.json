@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 337,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -766,9 +766,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12065,
+  "EOS_Progressed": 12066,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -9456,6 +9456,11 @@
       "Time": "2023-08-28T06:04:49.2126232+00:00",
       "NumProgressed": 12065,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-08-28T08:04:52.7084137+00:00",
+      "NumProgressed": 12066,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 35,
@@ -9515,7 +9520,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2292
+      "UsersEstimate": 2293
     },
     {
       "ID": "ACH08",
@@ -9523,7 +9528,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6153
+      "UsersEstimate": 6154
     },
     {
       "ID": "ACH09",
@@ -9547,7 +9552,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1206
+      "UsersEstimate": 1207
     },
     {
       "ID": "ACH12",
@@ -9746,7 +9751,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12065,
+      "Progressed": 12066,
       "Completed": 41
     }
   ],
@@ -9754,8 +9759,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-08-27T04:58:54.9178969+00:00",
-  "LastChanged_Achievements": "2023-08-28T07:05:21.7119582+00:00",
+  "LastChanged_Achievements": "2023-08-28T08:04:52.708413+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:49.3440273+00:00",
-  "LastUpdate_Ratings": "2023-08-28T06:59:23.819736+00:00",
-  "LastUpdate_Achievements": "2023-08-28T07:05:21.7120427+00:00"
+  "LastUpdate_Ratings": "2023-08-28T07:59:04.0816836+00:00",
+  "LastUpdate_Achievements": "2023-08-28T08:04:52.7085522+00:00"
 }
