@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 25.00% | ~54,591 |
+| Sowwy! | 25.00% | ~54,593 |
 | Where's that freaking Dwarf? | 3.00% | ~6,551 |
 | Alt+F4 | 3.00% | ~6,551 |
 | Déjà vu | 2.00% | ~4,367 |
@@ -19,6 +19,7 @@ Number of Ratings: 118  (23.09.2022)
 | GG EZ | 1.00% | ~2,184 |
 | DM intervention | 1.00% | ~2,184 |
 | Fireproof Wizardess | 1.00% | ~2,184 |
+| Oh, when I'll be level 10... | 0.90% | ~1,965 |
 | The demons' feast | 0.80% | ~1,747 |
 | The Great Library | 0.80% | ~1,747 |
 | Torture and Sensibility | 0.80% | ~1,747 |
@@ -26,7 +27,6 @@ Number of Ratings: 118  (23.09.2022)
 | The Dungeon Master | 0.80% | ~1,747 |
 | The Woman in the High Castle | 0.80% | ~1,747 |
 | Team Building Exercise | 0.80% | ~1,747 |
-| Oh, when I'll be level 10... | 0.80% | ~1,747 |
 | Shiny and Crôm | 0.70% | ~1,529 |
 | The Statuette of Gladeulfeurah | 0.70% | ~1,529 |
 | A tale of adventurers not quite like the others... | 0.70% | ~1,529 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~218 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,364 (Ranked 56)  
+Progressed: 218,371 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 2 (0.00%) (Ranked 265)
 | 2023-08-25 | 217,227 | 2 |
 | 2023-08-26 | 217,758 | 2 |
 | 2023-08-27 | 218,331 | 2 |
-| 2023-08-28 | 218,364 | 2 |
+| 2023-08-28 | 218,371 | 2 |
 ## Awards
 Max (Character Customization): 180  (Ranked 282)  
 Sum: 226 (Ranked 360)  

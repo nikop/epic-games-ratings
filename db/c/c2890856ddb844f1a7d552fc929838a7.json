@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 492,
+  "EOS_Progressed": 493,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 491,
+  "EOS_NewPlayers": 492,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -442,6 +442,11 @@
       "Time": "2023-08-28T01:47:44.6054601+00:00",
       "NumProgressed": 492,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-28T02:22:01.6875851+00:00",
+      "NumProgressed": 493,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -462,7 +467,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 87,
       "XP": 30,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "AC02",
@@ -470,7 +475,7 @@
       "Name": "Blood and Dust",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "AC03",
@@ -486,15 +491,15 @@
       "Name": "Blood and Iron",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "AC05",
       "SetID": "l4abp0",
       "Name": "The Sharpest Tool in the Shed",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 197
+      "UsersEstimate": 202
     },
     {
       "ID": "AC06",
@@ -606,7 +611,7 @@
       "Name": "Soledad",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "AC20",
@@ -622,7 +627,7 @@
       "Name": "No Cherub Left Behind",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "AC22",
@@ -678,15 +683,15 @@
       "Name": "The Punished One",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "AC29",
       "SetID": "l4abp0",
       "Name": "The Veteran One",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 94
     },
     {
       "ID": "AC30",
@@ -774,7 +779,7 @@
       "Name": "Welcome Back!",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "AC41",
@@ -790,15 +795,15 @@
       "Name": "Two Old Ones Eating Soup",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "AC43",
       "SetID": "l4abp0",
       "Name": "The Finest Craftmanship",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 99
     },
     {
       "ID": "AC44",
@@ -821,14 +826,14 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 492,
+      "Progressed": 493,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-26T07:57:19.1818171+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
-  "LastChanged_Achievements": "2023-08-28T01:47:44.6054592+00:00",
+  "LastChanged_Achievements": "2023-08-28T02:22:01.6875845+00:00",
   "LastUpdate_AppInfo": "2023-08-22T18:57:00.5189311+00:00",
-  "LastUpdate_Ratings": "2023-08-28T01:41:07.7782541+00:00",
-  "LastUpdate_Achievements": "2023-08-28T01:47:44.6055292+00:00"
+  "LastUpdate_Ratings": "2023-08-28T02:15:34.1339247+00:00",
+  "LastUpdate_Achievements": "2023-08-28T02:22:01.6876277+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 24,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 34,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-07-28T15:00:00+00:00",
     "PcReleaseDate": "2022-07-28T15:00:00+00:00",
@@ -2107,9 +2107,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 659305,
+  "EOS_Progressed": 659307,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 2532,
+  "EOS_NewPlayers": 2525,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16487,6 +16487,11 @@
       "Time": "2023-08-28T01:49:42.2781215+00:00",
       "NumProgressed": 659305,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-08-28T02:23:59.0685011+00:00",
+      "NumProgressed": 659307,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 54,
@@ -16498,7 +16503,7 @@
       "Name": "The dream begins",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 527444
+      "UsersEstimate": 527446
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -16586,7 +16591,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 237350
+      "UsersEstimate": 237351
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -16914,7 +16919,7 @@
       "Name": "Blade Runner",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 59337
+      "UsersEstimate": 59338
     },
     {
       "ID": "UPGRADE_COMPANY_HQ",
@@ -16929,15 +16934,15 @@
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 659305,
+      "Progressed": 659307,
       "Completed": 15
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-08-24T20:01:04.1218571+00:00",
-  "LastChanged_Achievements": "2023-08-28T01:49:42.2781209+00:00",
+  "LastChanged_Achievements": "2023-08-28T02:23:59.0685005+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:41.5729558+00:00",
-  "LastUpdate_Ratings": "2023-08-28T01:42:57.5414155+00:00",
-  "LastUpdate_Achievements": "2023-08-28T01:49:42.2783214+00:00"
+  "LastUpdate_Ratings": "2023-08-28T02:17:22.0471498+00:00",
+  "LastUpdate_Achievements": "2023-08-28T02:23:59.0686489+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 44,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -553,7 +553,7 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 340164,
+  "EOS_Progressed": 340167,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 1480,
   "EOS_NewCompleters": 0,
@@ -14883,6 +14883,11 @@
       "Time": "2023-08-28T01:46:29.3507705+00:00",
       "NumProgressed": 340164,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-28T02:20:43.998498+00:00",
+      "NumProgressed": 340167,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -15022,7 +15027,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 44221
+      "UsersEstimate": 44222
     },
     {
       "ID": "ach018",
@@ -15102,7 +15107,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 156475
+      "UsersEstimate": 156477
     },
     {
       "ID": "ach028",
@@ -15166,7 +15171,7 @@
       "Name": "Bottled Up",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1020
+      "UsersEstimate": 1021
     },
     {
       "ID": "ach036",
@@ -15198,7 +15203,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 34016
+      "UsersEstimate": 34017
     },
     {
       "ID": "ach040",
@@ -15214,7 +15219,7 @@
       "Name": "Streetwise",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1020
+      "UsersEstimate": 1021
     },
     {
       "ID": "ach042",
@@ -15230,7 +15235,7 @@
       "Name": "Street Fighter",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 23811
+      "UsersEstimate": 23812
     },
     {
       "ID": "ach044",
@@ -15246,7 +15251,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 44221
+      "UsersEstimate": 44222
     },
     {
       "ID": "ach046",
@@ -15254,7 +15259,7 @@
       "Name": "Friendly Gestures",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 23811
+      "UsersEstimate": 23812
     },
     {
       "ID": "ach047",
@@ -15358,7 +15363,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 34016
+      "UsersEstimate": 34017
     },
     {
       "ID": "ach060",
@@ -15398,7 +15403,7 @@
       "Name": "Determined Deliveries",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 3061
+      "UsersEstimate": 3062
     },
     {
       "ID": "ach066",
@@ -15414,7 +15419,7 @@
       "Name": "Stepping It Up",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 3061
+      "UsersEstimate": 3062
     },
     {
       "ID": "ach068",
@@ -15422,7 +15427,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 54426
+      "UsersEstimate": 54427
     },
     {
       "ID": "ach069",
@@ -15502,7 +15507,7 @@
       "Name": "People Person",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 23811
+      "UsersEstimate": 23812
     },
     {
       "ID": "ach079",
@@ -15533,7 +15538,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 340164,
+      "Progressed": 340167,
       "Completed": 7
     }
   ],
@@ -15541,8 +15546,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-08-26T18:00:02.0807583+00:00",
-  "LastChanged_Achievements": "2023-08-28T01:46:29.3507699+00:00",
+  "LastChanged_Achievements": "2023-08-28T02:20:43.9984974+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:37.3542744+00:00",
-  "LastUpdate_Ratings": "2023-08-28T01:42:51.7074834+00:00",
-  "LastUpdate_Achievements": "2023-08-28T01:46:29.3509561+00:00"
+  "LastUpdate_Ratings": "2023-08-28T02:17:16.5635188+00:00",
+  "LastUpdate_Achievements": "2023-08-28T02:20:43.9986581+00:00"
 }

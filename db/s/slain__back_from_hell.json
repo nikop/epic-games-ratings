@@ -217,7 +217,7 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 35332,
+  "EOS_Progressed": 35336,
   "EOS_Completed": 22,
   "EOS_NewPlayers": 697,
   "EOS_NewCompleters": 1,
@@ -14487,6 +14487,11 @@
       "Time": "2023-08-28T01:45:10.5332608+00:00",
       "NumProgressed": 35332,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-08-28T02:19:26.4202716+00:00",
+      "NumProgressed": 35336,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 29,
@@ -14506,7 +14511,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 7066
+      "UsersEstimate": 7067
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -14584,9 +14589,9 @@
       "ID": "ACH_13_DEFEATED_WEREBEAST",
       "SetID": "443p4o4",
       "Name": "Red In Tooth And Claw",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 283
+      "UsersEstimate": 247
     },
     {
       "ID": "ACH_14_DEFEATED_MOTHER_BEHOLDER",
@@ -14729,7 +14734,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 35332,
+      "Progressed": 35336,
       "Completed": 22
     }
   ],
@@ -14737,8 +14742,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-12T21:03:39.1122054+00:00",
-  "LastChanged_Achievements": "2023-08-28T01:45:10.5332603+00:00",
+  "LastChanged_Achievements": "2023-08-28T02:19:26.4202708+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:35.8741643+00:00",
-  "LastUpdate_Ratings": "2023-08-28T01:40:16.9934874+00:00",
-  "LastUpdate_Achievements": "2023-08-28T01:45:10.5333745+00:00"
+  "LastUpdate_Ratings": "2023-08-28T02:14:41.7426347+00:00",
+  "LastUpdate_Achievements": "2023-08-28T02:19:26.4203613+00:00"
 }

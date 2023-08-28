@@ -10,7 +10,7 @@
 | With Great Power… | 38.00% | ~200 |
 | This Belongs in a Museum | 33.00% | ~174 |
 | The Gambit Has Begun | 27.00% | ~142 |
-| Powder Monkey | 24.00% | ~126 |
+| Powder Monkey | 25.00% | ~132 |
 | Somewhere Deep in the Lost Caribbean | 21.00% | ~110 |
 | Mirror Mirror on the Wall | 20.00% | ~105 |
 | Fishy Fish | 18.00% | ~95 |
@@ -22,9 +22,9 @@
 | All Good Things | 7.00% | ~37 |
 | Rustic Recipe | 7.00% | ~37 |
 | Tobacco Travesty | 6.00% | ~32 |
+| Accursed Artifacts | 6.00% | ~32 |
 | Lyrical Longing | 6.00% | ~32 |
 | Privateer | 5.00% | ~26 |
-| Accursed Artifacts | 5.00% | ~26 |
 | Corsair | 3.00% | ~16 |
 | Freebooter | 3.00% | ~16 |
 | Marauder | 2.00% | ~11 |

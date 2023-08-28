@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 26,
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 6,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 7,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -8772,9 +8772,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 375883,
+  "EOS_Progressed": 375917,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22537,
+  "EOS_NewPlayers": 22503,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23192,6 +23192,11 @@
       "Time": "2023-08-28T01:47:15.3572086+00:00",
       "NumProgressed": 375883,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-28T02:21:30.1531646+00:00",
+      "NumProgressed": 375917,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -23739,7 +23744,7 @@
       "Name": "Combined Arms",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1879
+      "UsersEstimate": 1880
     },
     {
       "ID": "achievement_consulate_of_the_sea",
@@ -24203,7 +24208,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 11276
+      "UsersEstimate": 11278
     },
     {
       "ID": "achievement_grand_coalition",
@@ -24771,7 +24776,7 @@
       "Name": "My armies are invincible!",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1879
+      "UsersEstimate": 1880
     },
     {
       "ID": "achievement_my_true_friend",
@@ -25155,7 +25160,7 @@
       "Name": "Royal Authority",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 2255
+      "UsersEstimate": 2256
     },
     {
       "ID": "achievement_rozwi_empire",
@@ -25483,7 +25488,7 @@
       "Name": "That is mine!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 11276
+      "UsersEstimate": 11278
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -25755,7 +25760,7 @@
       "Name": "Total Control",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 2255
+      "UsersEstimate": 2256
     },
     {
       "ID": "achievement_trade_hegemon",
@@ -25867,7 +25872,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 15035
+      "UsersEstimate": 15037
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -25899,7 +25904,7 @@
       "Name": "Victorious!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 11276
+      "UsersEstimate": 11278
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -26034,21 +26039,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 375883,
+      "Progressed": 375917,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 375883,
+      "Progressed": 375917,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-08-27T22:00:33.1184414+00:00",
-  "LastChanged_Achievements": "2023-08-28T01:47:15.3572079+00:00",
+  "LastChanged_Achievements": "2023-08-28T02:21:30.1531639+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:27.0378772+00:00",
-  "LastUpdate_Ratings": "2023-08-28T01:42:12.3555088+00:00",
-  "LastUpdate_Achievements": "2023-08-28T01:47:15.3587066+00:00"
+  "LastUpdate_Ratings": "2023-08-28T02:16:39.2592772+00:00",
+  "LastUpdate_Achievements": "2023-08-28T02:21:30.1541742+00:00"
 }

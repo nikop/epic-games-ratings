@@ -12,9 +12,9 @@
 | Can't touch this | 25.00% | ~13 |
 | Don't Cry Wolf | 21.00% | ~11 |
 | Freezing Cold | 15.00% | ~8 |
+| The Golden Flash | 13.00% | ~7 |
 | The Power of the Mountains | 13.00% | ~7 |
 | Searing Heat | 12.00% | ~6 |
-| The Golden Flash | 12.00% | ~6 |
 | Nothing but the Truth | 10.00% | ~5 |
 | Expert | 10.00% | ~5 |
 | Changing the World | 10.00% | ~5 |
@@ -28,6 +28,7 @@
 | Mirror, Mirror on the Wall | 4.00% | ~2 |
 | Sponsor | 4.00% | ~2 |
 | Defeat Ingla | 4.00% | ~2 |
+| Pathfinder | 4.00% | ~2 |
 | Finally! | 4.00% | ~2 |
 | The End | 4.00% | ~2 |
 | The A-Team | 4.00% | ~2 |
@@ -39,7 +40,6 @@
 | Knowledge is King | 2.00% | ~1 |
 | Wizard | 2.00% | ~1 |
 | Bookworm | 2.00% | ~1 |
-| Pathfinder | 2.00% | ~1 |
 | Globetrotter | 2.00% | ~1 |
 | Unveiling the Truth | 2.00% | ~1 |
 | Style over Stats | 0.00% | ~0 |

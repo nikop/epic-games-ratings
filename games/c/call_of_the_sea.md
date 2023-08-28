@@ -5,34 +5,34 @@ Rating: 4.39 (Ranked 714)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 79.00% | ~91,314 |
-| 74 miles East of Otaheité | 55.00% | ~63,573 |
-| Interesting... | 42.00% | ~48,547 |
-| The Everhart Expedition | 39.00% | ~45,079 |
-| The Vanishing of the Lady Shannon | 30.00% | ~34,676 |
-| Seaside Serenade | 30.00% | ~34,676 |
-| Halfway there | 29.00% | ~33,520 |
-| A brigantine, a brig and a barque | 28.00% | ~32,364 |
-| 506 East Hampden Avenue | 28.00% | ~32,364 |
-| Weekend at Walakea's | 27.00% | ~31,208 |
-| Quite a Show | 27.00% | ~31,208 |
-| Dark Water Ride | 24.00% | ~27,741 |
-| Sunken | 24.00% | ~27,741 |
-| Deep Cut | 24.00% | ~27,741 |
-| FHALGOF'N' | 22.00% | ~25,429 |
-| Marsh Cannery | 21.00% | ~24,273 |
+| A Family Heirloom | 79.00% | ~91,317 |
+| 74 miles East of Otaheité | 55.00% | ~63,575 |
+| Interesting... | 42.00% | ~48,548 |
+| The Everhart Expedition | 39.00% | ~45,080 |
+| The Vanishing of the Lady Shannon | 30.00% | ~34,677 |
+| Seaside Serenade | 30.00% | ~34,677 |
+| Halfway there | 29.00% | ~33,521 |
+| A brigantine, a brig and a barque | 28.00% | ~32,365 |
+| 506 East Hampden Avenue | 28.00% | ~32,365 |
+| Weekend at Walakea's | 27.00% | ~31,210 |
+| Quite a Show | 27.00% | ~31,210 |
+| Dark Water Ride | 24.00% | ~27,742 |
+| Sunken | 24.00% | ~27,742 |
+| Deep Cut | 24.00% | ~27,742 |
+| FHALGOF'N' | 22.00% | ~25,430 |
+| Marsh Cannery | 21.00% | ~24,274 |
 | Greetings from Y'ha-nthlei! | 17.00% | ~19,650 |
-| The only thing I have now | 16.00% | ~18,494 |
-| Not Another Boring Slideshow! | 15.00% | ~17,338 |
-| Naacalvision | 15.00% | ~17,338 |
+| The only thing I have now | 16.00% | ~18,495 |
+| Not Another Boring Slideshow! | 15.00% | ~17,339 |
+| Naacalvision | 15.00% | ~17,339 |
 | I'll make a note of that... | 9.00% | ~10,403 |
 | The Norahnomicon | 9.00% | ~10,403 |
 | Play it again, Norah | 7.00% | ~8,091 |
 | Written in Stone | 6.00% | ~6,935 |
 | Underwater Royalty | 6.00% | ~6,935 |
-| Fawning Developers | 5.00% | ~5,779 |
-| The Amazing Adventures of Norah Everhart | 4.00% | ~4,623 |
-| Candid Photo | 4.00% | ~4,623 |
+| Fawning Developers | 5.00% | ~5,780 |
+| The Amazing Adventures of Norah Everhart | 4.00% | ~4,624 |
+| Candid Photo | 4.00% | ~4,624 |
 | The Lady Shannon Recording | 3.00% | ~3,468 |
 | Otherwordly Portal | 3.00% | ~3,468 |
 | You looked that up in a guide! | 2.00% | ~2,312 |
@@ -40,7 +40,7 @@ Rating: 4.39 (Ranked 714)
 | Gently down the stream... | 1.00% | ~1,156 |
 | Meta-reference | 1.00% | ~1,156 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 115,587 (Ranked 71)  
+Progressed: 115,591 (Ranked 71)  
 Completed: 929 (0.80%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 929 (0.80%) (Ranked 127)
 | 2023-08-25 | 114,956 | 925 |
 | 2023-08-26 | 115,216 | 927 |
 | 2023-08-27 | 115,557 | 929 |
-| 2023-08-28 | 115,587 | 929 |
+| 2023-08-28 | 115,591 | 929 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

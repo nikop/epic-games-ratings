@@ -9,7 +9,7 @@ Number of Ratings: 98  (23.09.2022)
 | Peak Performance | 55.00% | ~3,682 |
 | Tutti Eroi! | 55.00% | ~3,682 |
 | You Shall Not Pass | 53.00% | ~3,548 |
-| Avanti Savoia! | 47.00% | ~3,147 |
+| Avanti Savoia! | 48.00% | ~3,214 |
 | Mamma Mia! | 38.00% | ~2,544 |
 | Conrad von Hotzensocks | 36.00% | ~2,410 |
 | Gabriele D'Annunzio | 33.00% | ~2,209 |
@@ -39,7 +39,7 @@ Number of Ratings: 98  (23.09.2022)
 | Cercatore d'Oro | 6.00% | ~402 |
 | The Enlightment | 6.00% | ~402 |
 | Generalissimo | 5.00% | ~335 |
-| "O La Vittoria, O Tutti Accoppati" | 4.00% | ~268 |
+| "O La Vittoria, O Tutti Accoppati" | 5.00% | ~335 |
 | Ponte of No Return | 3.00% | ~201 |
 | Seeing Red | 3.00% | ~201 |
 | Soča Drag | 3.00% | ~201 |

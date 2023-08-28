@@ -5,24 +5,24 @@ Rating: 4.27 (Ranked 817)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~156,475 |
-| Copacetic Coordination | 16.00% | ~54,426 |
+| Corner Clout | 46.00% | ~156,477 |
+| Copacetic Coordination | 16.00% | ~54,427 |
 | Fronting the Money | 15.00% | ~51,025 |
 | The Dawn of Automation | 14.00% | ~47,623 |
 | Extraordinary Logistics | 14.00% | ~47,623 |
-| Dirty Money | 13.00% | ~44,221 |
-| Family First | 13.00% | ~44,221 |
+| Dirty Money | 13.00% | ~44,222 |
+| Family First | 13.00% | ~44,222 |
 | Cleaning House | 12.00% | ~40,820 |
 | Room in the Back | 12.00% | ~40,820 |
 | Beating the Heat | 11.00% | ~37,418 |
 | Booze Baron | 11.00% | ~37,418 |
-| Friends on the Force | 10.00% | ~34,016 |
-| Neighborhood Watch | 10.00% | ~34,016 |
+| Friends on the Force | 10.00% | ~34,017 |
+| Neighborhood Watch | 10.00% | ~34,017 |
 | Core Corps | 8.00% | ~27,213 |
 | Sizeable Stash | 8.00% | ~27,213 |
-| Street Fighter | 7.00% | ~23,811 |
-| Friendly Gestures | 7.00% | ~23,811 |
-| People Person | 7.00% | ~23,811 |
+| Street Fighter | 7.00% | ~23,812 |
+| Friendly Gestures | 7.00% | ~23,812 |
+| People Person | 7.00% | ~23,812 |
 | Liquor Lord | 6.00% | ~20,410 |
 | Safety in Numbers | 6.00% | ~20,410 |
 | Moving Experiences | 6.00% | ~20,410 |
@@ -59,8 +59,8 @@ Rating: 4.27 (Ranked 817)
 | Full House | 1.00% | ~3,402 |
 | The Rubber Meets the Road | 1.00% | ~3,402 |
 | Cat’s Meow Clubs | 1.00% | ~3,402 |
-| Determined Deliveries | 0.90% | ~3,061 |
-| Stepping It Up | 0.90% | ~3,061 |
+| Determined Deliveries | 0.90% | ~3,062 |
+| Stepping It Up | 0.90% | ~3,062 |
 | Boots in the Ground | 0.80% | ~2,721 |
 | Crossing Over | 0.80% | ~2,721 |
 | Getting Fancy | 0.70% | ~2,381 |
@@ -70,8 +70,8 @@ Rating: 4.27 (Ranked 817)
 | High End Booze | 0.40% | ~1,361 |
 | Working on the Railroad | 0.40% | ~1,361 |
 | In-House Maintenance | 0.40% | ~1,361 |
-| Bottled Up | 0.30% | ~1,020 |
-| Streetwise | 0.30% | ~1,020 |
+| Bottled Up | 0.30% | ~1,021 |
+| Streetwise | 0.30% | ~1,021 |
 | Dirty Work | 0.20% | ~680 |
 | Balkan Firewater | 0.20% | ~680 |
 | Windy City Win | 0.10% | ~340 |
@@ -86,7 +86,7 @@ Rating: 4.27 (Ranked 817)
 | High Pillow | 0.10% | ~340 |
 | Station Master | 0.10% | ~340 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 340,164 (Ranked 42)  
+Progressed: 340,167 (Ranked 42)  
 Completed: 7 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,7 +216,7 @@ Completed: 7 (0.00%) (Ranked 265)
 | 2023-08-25 | 339,657 | 7 |
 | 2023-08-26 | 339,902 | 7 |
 | 2023-08-27 | 340,149 | 7 |
-| 2023-08-28 | 340,164 | 7 |
+| 2023-08-28 | 340,167 | 7 |
 ## Awards
 Max (Great for Beginners): 33  (Ranked 449)  
 Sum: 164 (Ranked 389)  

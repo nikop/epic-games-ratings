@@ -6,10 +6,10 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~15,035 |
-| That's a Grand Army | 3.00% | ~11,276 |
-| That is mine! | 3.00% | ~11,276 |
-| Victorious! | 3.00% | ~11,276 |
+| Until death do us apart | 4.00% | ~15,037 |
+| That's a Grand Army | 3.00% | ~11,278 |
+| That is mine! | 3.00% | ~11,278 |
+| Victorious! | 3.00% | ~11,278 |
 | Brothers in Arms | 2.00% | ~7,518 |
 | That's a Grand Navy | 2.00% | ~7,518 |
 | Seriously?! | 2.00% | ~7,518 |
@@ -24,10 +24,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | Truly Divine Ruler | 0.80% | ~3,007 |
 | Blockader | 0.70% | ~2,631 |
 | Double the Love | 0.70% | ~2,631 |
-| Royal Authority | 0.60% | ~2,255 |
-| Total Control | 0.60% | ~2,255 |
-| Combined Arms | 0.50% | ~1,879 |
-| My armies are invincible! | 0.50% | ~1,879 |
+| Royal Authority | 0.60% | ~2,256 |
+| Total Control | 0.60% | ~2,256 |
+| Combined Arms | 0.50% | ~1,880 |
+| My armies are invincible! | 0.50% | ~1,880 |
 | Agressive Expander | 0.40% | ~1,504 |
 | Azur semé de lis or | 0.40% | ~1,504 |
 | City of Cities | 0.40% | ~1,504 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 375,883 (Ranked 41)  
+Progressed: 375,917 (Ranked 41)  
 Completed: 0 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -491,7 +491,7 @@ Completed: 0 (0.00%) (Ranked 265)
 | 2023-08-25 | 369,495 | 0 |
 | 2023-08-26 | 372,695 | 0 |
 | 2023-08-27 | 375,728 | 0 |
-| 2023-08-28 | 375,883 | 0 |
+| 2023-08-28 | 375,917 | 0 |
 ## Awards
 Max (Educational): 5,814  (Ranked 60)  
 Sum: 47,909 (Ranked 26)  

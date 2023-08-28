@@ -6,26 +6,26 @@ Number of Ratings: 2,731  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 37.00% | ~27,221 |
-| Final touch | 37.00% | ~27,221 |
-| Prop-M Rover | 32.00% | ~23,542 |
+| It's a steal! | 37.00% | ~27,222 |
+| Final touch | 37.00% | ~27,222 |
+| Prop-M Rover | 32.00% | ~23,543 |
 | Changing the Planet | 28.00% | ~20,600 |
 | Sojourner | 27.00% | ~19,864 |
 | New Home | 24.00% | ~17,657 |
 | Beagle 2 | 24.00% | ~17,657 |
-| Winner Winner Terraformer | 22.00% | ~16,185 |
+| Winner Winner Terraformer | 22.00% | ~16,186 |
 | Project Manager | 20.00% | ~14,714 |
-| Curiosity | 19.00% | ~13,978 |
-| Collector | 19.00% | ~13,978 |
-| Self-sufficient | 19.00% | ~13,978 |
-| Master | 19.00% | ~13,978 |
+| Curiosity | 19.00% | ~13,979 |
+| Collector | 19.00% | ~13,979 |
+| Self-sufficient | 19.00% | ~13,979 |
+| Master | 19.00% | ~13,979 |
 | No Longer Red | 18.00% | ~13,243 |
-| Money money | 16.00% | ~11,771 |
+| Money money | 16.00% | ~11,772 |
 | Biggest Reward | 14.00% | ~10,300 |
 | Acquired knowledge | 13.00% | ~9,564 |
-| First Journey | 12.00% | ~8,828 |
-| Hellenic Elysium | 12.00% | ~8,828 |
-| Grand champion | 12.00% | ~8,828 |
+| First Journey | 12.00% | ~8,829 |
+| Hellenic Elysium | 12.00% | ~8,829 |
+| Grand champion | 12.00% | ~8,829 |
 | Landlord | 11.00% | ~8,093 |
 | Most Achievements | 11.00% | ~8,093 |
 | Spirit | 10.00% | ~7,357 |
@@ -37,7 +37,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Team Effort | 3.00% | ~2,207 |
 | Opportunity | 3.00% | ~2,207 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,570 (Ranked 78)  
+Progressed: 73,572 (Ranked 78)  
 Completed: 95 (0.13%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 95 (0.13%) (Ranked 204)
 | 2023-08-25 | 73,244 | 93 |
 | 2023-08-26 | 73,399 | 94 |
 | 2023-08-27 | 73,560 | 95 |
-| 2023-08-28 | 73,570 | 95 |
+| 2023-08-28 | 73,572 | 95 |
 ## Awards
 Max (Relaxing): 511  (Ranked 197)  
 Sum: 3,149 (Ranked 158)  
