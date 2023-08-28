@@ -3,7 +3,7 @@
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
   "Ranking_Rating": 428,
-  "Ranking_Popularity": 282,
+  "Ranking_Popularity": 281,
   "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 265,
@@ -706,18 +706,24 @@
       "Rating": 4.58,
       "NumberOfAwards": 226,
       "NumberOfAwardsMax": 180
+    },
+    {
+      "Time": "2023-08-28T16:02:03.5571778+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 228,
+      "NumberOfAwardsMax": 182
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 226,
-  "NumberOfAwardsMax": 180,
+  "NumberOfAwards": 228,
+  "NumberOfAwardsMax": 182,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 180
+      "Count": 182
     },
     {
       "Text": "This game is Relaxing",
@@ -732,9 +738,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 218530,
+  "EOS_Progressed": 218557,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2975,
+  "EOS_NewPlayers": 2979,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8632,6 +8638,11 @@
       "Time": "2023-08-28T15:03:36.3916358+00:00",
       "NumProgressed": 218530,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-28T16:03:17.3675619+00:00",
+      "NumProgressed": 218557,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -8643,7 +8654,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2185
+      "UsersEstimate": 2186
     },
     {
       "ID": "100Fail",
@@ -8675,7 +8686,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2185
+      "UsersEstimate": 2186
     },
     {
       "ID": "BookCollection",
@@ -8707,7 +8718,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2185
+      "UsersEstimate": 2186
     },
     {
       "ID": "Chapter4",
@@ -9043,7 +9054,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6556
+      "UsersEstimate": 6557
     },
     {
       "ID": "DwarfElf15Support",
@@ -9091,7 +9102,7 @@
       "Name": "Sowwy!",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 54632
+      "UsersEstimate": 54639
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -9107,7 +9118,7 @@
       "Name": "GG EZ",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2185
+      "UsersEstimate": 2186
     },
     {
       "ID": "EndCombatOneHp",
@@ -9115,7 +9126,7 @@
       "Name": "DM intervention",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2185
+      "UsersEstimate": 2186
     },
     {
       "ID": "EndGameCursed",
@@ -9139,7 +9150,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6556
+      "UsersEstimate": 6557
     },
     {
       "ID": "FollowBraztok",
@@ -9339,28 +9350,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2185
+      "UsersEstimate": 2186
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 218530,
+      "Progressed": 218557,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 218530,
+      "Progressed": 218557,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2023-08-27T21:02:19.3722902+00:00",
-  "LastChanged_Achievements": "2023-08-28T15:03:36.3916352+00:00",
+  "LastChanged": "2023-08-28T16:02:03.5571775+00:00",
+  "LastChanged_Achievements": "2023-08-28T16:03:17.3675611+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:41.9661267+00:00",
-  "LastUpdate_Ratings": "2023-08-28T15:02:52.279959+00:00",
-  "LastUpdate_Achievements": "2023-08-28T15:03:36.3919539+00:00"
+  "LastUpdate_Ratings": "2023-08-28T16:02:03.5571783+00:00",
+  "LastUpdate_Achievements": "2023-08-28T16:03:17.367841+00:00"
 }

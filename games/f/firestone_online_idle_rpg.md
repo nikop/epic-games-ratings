@@ -5,17 +5,17 @@ Rating: 4.05 (Ranked 929)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,731 |
-| World Map | 79.00% | ~1,470 |
+| Victor | 93.00% | ~1,732 |
+| World Map | 79.00% | ~1,471 |
 | Temple of Eternals | 57.00% | ~1,061 |
-| Prestigious | 53.00% | ~986 |
+| Prestigious | 53.00% | ~987 |
 | Fellowship Power | 41.00% | ~763 |
-| Guild Power | 25.00% | ~465 |
-| Prestigious x10 | 22.00% | ~409 |
+| Guild Power | 25.00% | ~466 |
+| Prestigious x10 | 22.00% | ~410 |
 | The game is on | 20.00% | ~372 |
 | Exotic Merchant | 19.00% | ~354 |
-| Dragon Clicker | 17.00% | ~316 |
-| Miner Clicker | 17.00% | ~316 |
+| Dragon Clicker | 17.00% | ~317 |
+| Miner Clicker | 17.00% | ~317 |
 | Full Party | 16.00% | ~298 |
 | Inspection | 16.00% | ~298 |
 | Dragon Master | 15.00% | ~279 |
@@ -39,9 +39,9 @@ Rating: 4.05 (Ranked 929)
 | Frostfire Liberator | 10.00% | ~186 |
 | Moving Up The Ladder | 10.00% | ~186 |
 | Scroll Master | 10.00% | ~186 |
-| Here We Go Again | 9.00% | ~167 |
-| Master Enchanter | 9.00% | ~167 |
-| The father of Dragons | 9.00% | ~167 |
+| Here We Go Again | 9.00% | ~168 |
+| Master Enchanter | 9.00% | ~168 |
+| The father of Dragons | 9.00% | ~168 |
 | Crystal Mining | 8.00% | ~149 |
 | Trader | 8.00% | ~149 |
 | Blueprint Upgrades | 7.00% | ~130 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 929)
 | Silverwood liberator | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,861 (Ranked 174)  
+Progressed: 1,862 (Ranked 174)  
 Completed: 2 (0.11%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 2 (0.11%) (Ranked 210)
 | 2023-08-25 | 1,850 | 2 |
 | 2023-08-26 | 1,858 | 2 |
 | 2023-08-27 | 1,859 | 2 |
-| 2023-08-28 | 1,861 | 2 |
+| 2023-08-28 | 1,862 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

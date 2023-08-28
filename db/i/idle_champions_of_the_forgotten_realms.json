@@ -6,7 +6,7 @@
   "Ranking_Popularity": 68,
   "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 53,
-  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Completed": 122,
   "Ranking_EOS_NewPlayers": 40,
   "Ranking_EOS_NewCompleters": 9,
   "Store": {
@@ -6110,10 +6110,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 31261,
       "NumberOfAwardsMax": 5202
+    },
+    {
+      "Time": "2023-08-28T16:00:45.5990769+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 31265,
+      "NumberOfAwardsMax": 5202
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31261,
+  "NumberOfAwards": 31265,
   "NumberOfAwardsMax": 5202,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6139,7 +6145,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4624
+      "Count": 4628
     },
     {
       "Text": "This game is Highly Recommended",
@@ -6160,11 +6166,11 @@
       "Count": 3380
     }
   ],
-  "EOS_Progressed": 225685,
+  "EOS_Progressed": 225696,
   "EOS_Completed": 2223,
-  "EOS_NewPlayers": 1780,
+  "EOS_NewPlayers": 1774,
   "EOS_NewCompleters": 21,
-  "EOS_Completed_Percentage": 0.99,
+  "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:41.9871817+00:00",
@@ -20425,6 +20431,11 @@
       "Time": "2023-08-28T15:09:06.1072415+00:00",
       "NumProgressed": 225685,
       "NumCompleted": 2223
+    },
+    {
+      "Time": "2023-08-28T16:07:19.2810295+00:00",
+      "NumProgressed": 225696,
+      "NumCompleted": 2223
     }
   ],
   "TotalAchievements": 516,
@@ -20804,7 +20815,7 @@
       "Name": "Beast Intentions",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1805
+      "UsersEstimate": 1806
     },
     {
       "ID": "objective_completed_110",
@@ -21546,9 +21557,9 @@
       "ID": "objective_completed_149",
       "SetID": "cc37lbc",
       "Name": "The Forbidden City",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 226
+      "UsersEstimate": 451
     },
     {
       "ID": "objective_completed_15",
@@ -21658,9 +21669,9 @@
       "ID": "objective_completed_169",
       "SetID": "cc37lbc",
       "Name": "Building Trust",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 451
+      "UsersEstimate": 677
     },
     {
       "ID": "objective_completed_17",
@@ -22108,7 +22119,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1805
+      "UsersEstimate": 1806
     },
     {
       "ID": "objective_completed_34",
@@ -24563,21 +24574,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 191959,
-      "Completed": 3322
+      "Progressed": 191970,
+      "Completed": 3323
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 225685,
+      "Progressed": 225696,
       "Completed": 2223
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-08-28T14:01:39.535012+00:00",
-  "LastChanged_Achievements": "2023-08-28T15:09:06.1072408+00:00",
+  "LastChanged": "2023-08-28T16:00:45.5990767+00:00",
+  "LastChanged_Achievements": "2023-08-28T16:07:19.2810287+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:53.3345914+00:00",
-  "LastUpdate_Ratings": "2023-08-28T15:02:16.7215493+00:00",
-  "LastUpdate_Achievements": "2023-08-28T15:09:06.1106244+00:00"
+  "LastUpdate_Ratings": "2023-08-28T16:00:45.5990776+00:00",
+  "LastUpdate_Achievements": "2023-08-28T16:07:19.2843542+00:00"
 }

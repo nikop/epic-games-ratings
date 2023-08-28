@@ -6,21 +6,21 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 79.00% | ~5,121 |
-| Worker Specialization | 78.00% | ~5,056 |
-| First Contact | 73.00% | ~4,732 |
-| Win a Battle | 67.00% | ~4,343 |
-| Anomaly Researcher | 63.00% | ~4,084 |
-| Unleash My Power | 62.00% | ~4,019 |
-| Own 30 Planets | 34.00% | ~2,204 |
-| Xenocide | 32.00% | ~2,074 |
-| Design a Civilization | 32.00% | ~2,074 |
-| Commodity Trader | 31.00% | ~2,009 |
-| Design a Ship | 28.00% | ~1,815 |
-| Commodity Seller | 25.00% | ~1,620 |
-| Prestige Victory! | 14.00% | ~907 |
+| Colonize a Planet | 79.00% | ~5,122 |
+| Worker Specialization | 78.00% | ~5,058 |
+| First Contact | 73.00% | ~4,733 |
+| Win a Battle | 67.00% | ~4,344 |
+| Anomaly Researcher | 63.00% | ~4,085 |
+| Unleash My Power | 62.00% | ~4,020 |
+| Own 30 Planets | 34.00% | ~2,205 |
+| Xenocide | 32.00% | ~2,075 |
+| Design a Civilization | 32.00% | ~2,075 |
+| Commodity Trader | 31.00% | ~2,010 |
+| Design a Ship | 28.00% | ~1,816 |
+| Commodity Seller | 25.00% | ~1,621 |
+| Prestige Victory! | 14.00% | ~908 |
 | Galactic War | 11.00% | ~713 |
-| Trading Partner | 9.00% | ~583 |
+| Trading Partner | 9.00% | ~584 |
 | Fleet Victory | 8.00% | ~519 |
 | Win as Terrans | 7.00% | ~454 |
 | Gain an Ally | 6.00% | ~389 |
@@ -29,7 +29,7 @@ Number of Ratings: 429  (23.09.2022)
 | Win Quickly | 5.00% | ~324 |
 | Conquest Victory! | 4.00% | ~259 |
 | Win an Immense Game | 4.00% | ~259 |
-| Pirate Cleansing | 3.00% | ~194 |
+| Pirate Cleansing | 3.00% | ~195 |
 | Artifact Mastery | 2.00% | ~130 |
 | Win as Altarians | 2.00% | ~130 |
 | Win as the Mimot | 2.00% | ~130 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,482 (Ranked 138)  
+Progressed: 6,484 (Ranked 138)  
 Completed: 0 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 0 (0.00%) (Ranked 265)
 | 2023-08-25 | 6,462 | 0 |
 | 2023-08-26 | 6,475 | 0 |
 | 2023-08-27 | 6,480 | 0 |
-| 2023-08-28 | 6,482 | 0 |
+| 2023-08-28 | 6,484 | 0 |
 ## Awards
 Max (Diverse Characters): 93  (Ranked 349)  
 Sum: 675 (Ranked 282)  

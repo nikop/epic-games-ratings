@@ -12,10 +12,10 @@ Rating: 4.18 (Ranked 878)
 | Knighthood | 27.00% | ~18,384 |
 | Get ReQ'd | 25.00% | ~17,022 |
 | Whispered Words | 25.00% | ~17,022 |
-| The Batman Family | 22.00% | ~14,979 |
-| Lock and Key | 22.00% | ~14,979 |
-| Something in the Clay | 21.00% | ~14,298 |
-| Quartzer Life Crisis | 21.00% | ~14,298 |
+| The Batman Family | 22.00% | ~14,980 |
+| Lock and Key | 22.00% | ~14,980 |
+| Something in the Clay | 21.00% | ~14,299 |
+| Quartzer Life Crisis | 21.00% | ~14,299 |
 | Working Hard or Harley Working? | 20.00% | ~13,618 |
 | Unstoppable Force | 20.00% | ~13,618 |
 | Bad Apples in Every Orchard | 20.00% | ~13,618 |
@@ -29,8 +29,8 @@ Rating: 4.18 (Ranked 878)
 | Rock and a Hard Place | 14.00% | ~9,532 |
 | Cooldown | 14.00% | ~9,532 |
 | Seeking Asylum | 14.00% | ~9,532 |
-| Not On My Watch | 13.00% | ~8,851 |
-| Shock Til They Drop | 13.00% | ~8,851 |
+| Not On My Watch | 13.00% | ~8,852 |
+| Shock Til They Drop | 13.00% | ~8,852 |
 | End of an Era | 12.00% | ~8,171 |
 | Bulldozed | 12.00% | ~8,171 |
 | Gotham Knight | 12.00% | ~8,171 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 878)
 | Element of Surprise | 0.20% | ~77 |
 | It's Nice to Be Wanted | 0.20% | ~77 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,088 (Ranked 81)  
+Progressed: 68,089 (Ranked 81)  
 Completed: 109 (0.16%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,14 +197,14 @@ Completed: 109 (0.16%) (Ranked 196)
 | 2023-08-25 | 68,028 | 109 |
 | 2023-08-26 | 68,056 | 109 |
 | 2023-08-27 | 68,080 | 109 |
-| 2023-08-28 | 68,088 | 109 |
+| 2023-08-28 | 68,089 | 109 |
 ## Awards
-Max (Great Boss Battles): 2,522  (Ranked 100)  
-Sum: 4,199 (Ranked 139)  
+Max (Great Boss Battles): 2,524  (Ranked 100)  
+Sum: 4,201 (Ranked 139)  
 Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,522 |
+| This game has Great Boss Battles | 2,524 |
 | This game is Relaxing | 216 |
 | This game is Extremely Fun | 216 |
 | This game has Quickly Understood Controls | 213 |
@@ -401,3 +401,4 @@ Diff (max vs sum): -39
 | 2023-08-25 | 4.18 | 2,518 | 4,192 |
 | 2023-08-26 | 4.18 | 2,522 | 4,198 |
 | 2023-08-27 | 4.18 | 2,522 | 4,199 |
+| 2023-08-28 | 4.18 | 2,524 | 4,201 |

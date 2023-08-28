@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2263,
+  "EOS_Progressed": 2264,
   "EOS_Completed": 202,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 8.93,
+  "EOS_Completed_Percentage": 8.92,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -5353,6 +5353,11 @@
       "Time": "2023-08-28T12:05:31.2854542+00:00",
       "NumProgressed": 2263,
       "NumCompleted": 202
+    },
+    {
+      "Time": "2023-08-28T16:05:45.7446655+00:00",
+      "NumProgressed": 2264,
+      "NumCompleted": 202
     }
   ],
   "TotalAchievements": 12,
@@ -5364,7 +5369,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "Bernard",
@@ -5396,7 +5401,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 837
+      "UsersEstimate": 838
     },
     {
       "ID": "Jakob",
@@ -5444,7 +5449,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "Nuremberg Laws",
@@ -5459,7 +5464,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2263,
+      "Progressed": 2264,
       "Completed": 202
     }
   ],
@@ -5467,8 +5472,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-08-28T15:07:02.2784995+00:00",
+  "LastChanged_Achievements": "2023-08-28T16:05:45.7446649+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:56:57.0664875+00:00",
-  "LastUpdate_Ratings": "2023-08-28T14:57:39.2172704+00:00",
-  "LastUpdate_Achievements": "2023-08-28T15:07:02.2785541+00:00"
+  "LastUpdate_Ratings": "2023-08-28T15:57:24.3322668+00:00",
+  "LastUpdate_Achievements": "2023-08-28T16:05:45.7447228+00:00"
 }

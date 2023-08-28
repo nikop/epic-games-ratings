@@ -5,9 +5,9 @@
   "Ranking_Rating": 973,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
-  "Ranking_EOS_Progress": 115,
+  "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16137,
+  "EOS_Progressed": 16138,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4151,6 +4151,11 @@
       "Time": "2023-08-28T03:03:19.80372+00:00",
       "NumProgressed": 16137,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-28T16:02:13.3481664+00:00",
+      "NumProgressed": 16138,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -4162,7 +4167,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 15330
+      "UsersEstimate": 15331
     },
     {
       "ID": "ACH001",
@@ -4170,7 +4175,7 @@
       "Name": "Personal Matter",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 14039
+      "UsersEstimate": 14040
     },
     {
       "ID": "ACH0010",
@@ -4314,7 +4319,7 @@
       "Name": "Double the Barrels, double the Fun",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 8875
+      "UsersEstimate": 8876
     },
     {
       "ID": "ACH004",
@@ -4338,7 +4343,7 @@
       "Name": "... And Where Do the Stories Come From?",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 6616
+      "UsersEstimate": 6617
     },
     {
       "ID": "ACH007",
@@ -4346,7 +4351,7 @@
       "Name": "To the World\u0027s End",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1936
+      "UsersEstimate": 1937
     },
     {
       "ID": "ACH008",
@@ -4369,7 +4374,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 16137,
+      "Progressed": 16138,
       "Completed": 0
     }
   ],
@@ -4377,8 +4382,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-08-03T01:53:52.0652569+00:00",
-  "LastChanged_Achievements": "2023-08-28T15:03:04.6080843+00:00",
+  "LastChanged_Achievements": "2023-08-28T16:02:13.3481657+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:07.707472+00:00",
-  "LastUpdate_Ratings": "2023-08-28T14:59:22.8018334+00:00",
-  "LastUpdate_Achievements": "2023-08-28T15:03:04.6081383+00:00"
+  "LastUpdate_Ratings": "2023-08-28T15:58:40.4649415+00:00",
+  "LastUpdate_Achievements": "2023-08-28T16:02:13.3482553+00:00"
 }

@@ -7,8 +7,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 2.00% | ~4,514 |
-| Beast Intentions | 0.80% | ~1,805 |
-| The Cursed Farmer | 0.80% | ~1,805 |
+| Beast Intentions | 0.80% | ~1,806 |
+| The Cursed Farmer | 0.80% | ~1,806 |
 | The Mad Wizard | 0.60% | ~1,354 |
 | The Hunt for The Last Breath | 0.60% | ~1,152 |
 | To Infinity's and Beyond | 0.50% | ~960 |
@@ -20,6 +20,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Persistent Buzzing | 0.30% | ~677 |
 | Terror in the Dark | 0.30% | ~677 |
 | A Mysterious Summons | 0.30% | ~677 |
+| Building Trust | 0.30% | ~677 |
 | The Crumbling Temple | 0.30% | ~677 |
 | Mad Cow Disease | 0.30% | ~677 |
 | Exploring Port Nyanzaru | 0.30% | ~677 |
@@ -56,11 +57,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | No One Can Hear You Scream | 0.20% | ~384 |
 | Welcome to the Rock | 0.20% | ~384 |
 | Beast Mode | 0.20% | ~451 |
+| The Forbidden City | 0.20% | ~451 |
 | Low Initiative | 0.20% | ~451 |
 | Street War | 0.20% | ~451 |
 | Force Grey Unleashed | 0.20% | ~451 |
 | Vajra's Guards | 0.20% | ~451 |
-| Building Trust | 0.20% | ~451 |
 | March of the Undead | 0.20% | ~451 |
 | Wisdom Check | 0.20% | ~451 |
 | Sleuth It Out | 0.20% | ~451 |
@@ -237,7 +238,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Egg of Nat's Desire | 0.10% | ~192 |
 | Anchors Aweigh | 0.10% | ~192 |
 | Welcome to the Band | 0.10% | ~192 |
-| The Forbidden City | 0.10% | ~226 |
 | Periodic Petrification | 0.10% | ~226 |
 | No Good at All | 0.10% | ~226 |
 | Fall From Grace | 0.10% | ~226 |
@@ -523,8 +523,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~192 |
 | Animated Giff | 0.10% | ~192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,685 (Ranked 53)  
-Completed: 2,223 (0.99%) (Ranked 120)  
+Progressed: 225,696 (Ranked 53)  
+Completed: 2,223 (0.98%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -653,17 +653,17 @@ Completed: 2,223 (0.99%) (Ranked 120)
 | 2023-08-25 | 224,925 | 2,214 |
 | 2023-08-26 | 225,221 | 2,219 |
 | 2023-08-27 | 225,526 | 2,222 |
-| 2023-08-28 | 225,685 | 2,223 |
+| 2023-08-28 | 225,696 | 2,223 |
 ## Awards
 Max (Diverse Characters): 5,202  (Ranked 68)  
-Sum: 31,261 (Ranked 39)  
+Sum: 31,265 (Ranked 39)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,202 |
 | This game is Great for Beginners | 5,161 |
 | This game has Quickly Understood Controls | 4,736 |
-| This game is Relaxing | 4,624 |
+| This game is Relaxing | 4,628 |
 | This game has Amazing Characters | 4,088 |
 | This game is Highly Recommended | 4,070 |
 | This game has Playful Visuals | 3,380 |
@@ -884,4 +884,4 @@ Diff (max vs sum): 29
 | 2023-08-25 | 4.06 | - | 5,182 | 31,210 |
 | 2023-08-26 | 4.06 | - | 5,189 | 31,229 |
 | 2023-08-27 | 4.06 | - | 5,196 | 31,250 |
-| 2023-08-28 | 4.06 | - | 5,202 | 31,261 |
+| 2023-08-28 | 4.06 | - | 5,202 | 31,265 |
