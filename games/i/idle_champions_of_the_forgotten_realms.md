@@ -13,13 +13,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mad Wizard | 0.50% | ~1,128 |
 | To Infinity's and Beyond | 0.50% | ~960 |
 | The Ring of Regeneration | 0.40% | ~903 |
+| Are Ya Chicken? | 0.40% | ~903 |
 | Maddening | 0.30% | ~677 |
 | Were-verpowered | 0.30% | ~677 |
 | A Persistent Buzzing | 0.30% | ~677 |
 | A Mysterious Summons | 0.30% | ~677 |
 | The Crumbling Temple | 0.30% | ~677 |
 | Seeking Allies | 0.30% | ~677 |
-| Are Ya Chicken? | 0.30% | ~677 |
 | Mad Cow Disease | 0.30% | ~677 |
 | Exploring Port Nyanzaru | 0.30% | ~677 |
 | Friendly Imps | 0.30% | ~677 |
@@ -47,6 +47,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Sanctum of the Sword | 0.20% | ~384 |
 | Who Lurks Below? | 0.20% | ~384 |
 | Xanathaaaaaaar! | 0.20% | ~384 |
+| Homecoming | 0.20% | ~451 |
 | No One Can Hear You Scream | 0.20% | ~384 |
 | Welcome to the Rock | 0.20% | ~384 |
 | Beast Mode | 0.20% | ~451 |
@@ -67,6 +68,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Werewolves in the Mist | 0.20% | ~451 |
 | Family Entanglements | 0.20% | ~451 |
 | The Dinner Party | 0.20% | ~451 |
+| Chatty Nobles | 0.20% | ~451 |
 | The Botched Kidnapping | 0.20% | ~451 |
 | Haaave You Met Asmodeus? | 0.20% | ~451 |
 | Tower on the Lake | 0.20% | ~451 |
@@ -101,6 +103,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Resolve Amongst Chaos | 0.20% | ~451 |
 | Into The Fire | 0.20% | ~384 |
 | Dreamscape | 0.20% | ~384 |
+| The Path of Dreams | 0.20% | ~384 |
 | Escort to Waterdeep | 0.20% | ~451 |
 | The Giant's Bane Tavern | 0.20% | ~384 |
 | The Everlasting Rime | 0.20% | ~384 |
@@ -115,6 +118,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Moose Tracks | 0.20% | ~384 |
 | Civilization | 0.20% | ~384 |
 | Durable Deep | 0.20% | ~451 |
+| Expert Opinion | 0.20% | ~451 |
 | Dwarven Rumors | 0.20% | ~384 |
 | The Templar's Camp | 0.20% | ~451 |
 | Rescue in the Jungle | 0.20% | ~451 |
@@ -214,7 +218,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bully for Vecna | 0.10% | ~192 |
 | Clowning Around | 0.10% | ~192 |
 | A Whale of a Time | 0.10% | ~192 |
-| Homecoming | 0.10% | ~226 |
 | Anti-Dexterous Explorers | 0.10% | ~226 |
 | Struggling Toward Omu | 0.10% | ~226 |
 | Wagon Train | 0.10% | ~226 |
@@ -253,7 +256,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Haunted Fortunes | 0.10% | ~226 |
 | Poor Fortune | 0.10% | ~226 |
 | Relentless Misfortune | 0.10% | ~226 |
-| Chatty Nobles | 0.10% | ~226 |
 | Modron Assistance | 0.10% | ~226 |
 | Thine Bounty is Mine! | 0.10% | ~192 |
 | Domesticated Owlbears | 0.10% | ~226 |
@@ -388,7 +390,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dream Gauntlet | 0.10% | ~192 |
 | Zombie Dreams | 0.10% | ~192 |
 | Look Out! | 0.10% | ~192 |
-| The Path of Dreams | 0.10% | ~192 |
 | The Path of Redcaps | 0.10% | ~192 |
 | The Path of Trials | 0.10% | ~192 |
 | Bad Odds in Avernus | 0.10% | ~192 |
@@ -437,7 +438,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wrecked Flying Fortress | 0.10% | ~192 |
 | Relentless Peril | 0.10% | ~192 |
 | Rickety Rubble | 0.10% | ~192 |
-| Expert Opinion | 0.10% | ~226 |
 | Mimic Perception | 0.10% | ~192 |
 | Frozen in Fear | 0.10% | ~192 |
 | It's Cold Out There Today | 0.10% | ~192 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~192 |
 | Animated Giff | 0.10% | ~192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,626 (Ranked 53)  
+Progressed: 225,638 (Ranked 53)  
 Completed: 2,222 (0.98%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -653,14 +653,14 @@ Completed: 2,222 (0.98%) (Ranked 122)
 | 2023-08-25 | 224,925 | 2,214 |
 | 2023-08-26 | 225,221 | 2,219 |
 | 2023-08-27 | 225,526 | 2,222 |
-| 2023-08-28 | 225,626 | 2,222 |
+| 2023-08-28 | 225,638 | 2,222 |
 ## Awards
-Max (Diverse Characters): 5,196  (Ranked 68)  
-Sum: 31,253 (Ranked 39)  
+Max (Diverse Characters): 5,202  (Ranked 68)  
+Sum: 31,259 (Ranked 39)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 5,196 |
+| This game has Diverse Characters | 5,202 |
 | This game is Great for Beginners | 5,159 |
 | This game has Quickly Understood Controls | 4,736 |
 | This game is Relaxing | 4,624 |
@@ -884,4 +884,4 @@ Diff (max vs sum): 29
 | 2023-08-25 | 4.06 | - | 5,182 | 31,210 |
 | 2023-08-26 | 4.06 | - | 5,189 | 31,229 |
 | 2023-08-27 | 4.06 | - | 5,196 | 31,250 |
-| 2023-08-28 | 4.06 | - | 5,196 | 31,253 |
+| 2023-08-28 | 4.06 | - | 5,202 | 31,259 |

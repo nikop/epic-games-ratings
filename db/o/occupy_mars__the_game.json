@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1538,
+  "EOS_Progressed": 1539,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3341,6 +3341,11 @@
       "Time": "2023-08-27T18:03:42.1508446+00:00",
       "NumProgressed": 1538,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-28T11:03:51.3087553+00:00",
+      "NumProgressed": 1539,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3544,7 +3549,7 @@
       "Name": "Gardener",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -3552,7 +3557,7 @@
       "Name": "Get your hands dirty",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "NEW_ACHIEVEMENT_GOOD_MARTIAN",
@@ -3600,7 +3605,7 @@
       "Name": "Miner",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -3624,7 +3629,7 @@
       "Name": "Occupy Mars!",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -3735,7 +3740,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1538,
+      "Progressed": 1539,
       "Completed": 0
     }
   ],
@@ -3743,8 +3748,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-08-27T17:59:59.0512406+00:00",
-  "LastChanged_Achievements": "2023-08-28T10:03:34.2809555+00:00",
+  "LastChanged_Achievements": "2023-08-28T11:03:51.3087543+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:32.8469898+00:00",
-  "LastUpdate_Ratings": "2023-08-28T10:00:36.1640501+00:00",
-  "LastUpdate_Achievements": "2023-08-28T10:03:34.281019+00:00"
+  "LastUpdate_Ratings": "2023-08-28T11:00:41.8959443+00:00",
+  "LastUpdate_Achievements": "2023-08-28T11:03:51.3088176+00:00"
 }

@@ -6,15 +6,15 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 69.00% | ~19,817 |
-| The Evilest Evil | 58.00% | ~16,658 |
-| Twistram is devastated | 57.00% | ~16,371 |
-| The Gehenna Stones | 49.00% | ~14,073 |
+| The Shadow strikes | 69.00% | ~19,818 |
+| The Evilest Evil | 58.00% | ~16,659 |
+| Twistram is devastated | 57.00% | ~16,372 |
+| The Gehenna Stones | 49.00% | ~14,074 |
 | No one has to die today! | 46.00% | ~13,212 |
-| Death and destruction! | 45.00% | ~12,924 |
+| Death and destruction! | 45.00% | ~12,925 |
 | The Swamplanders from the swamplands | 43.00% | ~12,350 |
 | Rusty Steel | 41.00% | ~11,776 |
-| The One-Huge-Army-Building Evil | 40.00% | ~11,488 |
+| The One-Huge-Army-Building Evil | 40.00% | ~11,489 |
 | The last burger | 37.00% | ~10,627 |
 | Braiiiiins! | 37.00% | ~10,627 |
 | Hands off the Dungeonheart! | 36.00% | ~10,340 |
@@ -22,20 +22,20 @@ Number of Ratings: 1,635  (23.09.2022)
 | Damned good | 33.00% | ~9,478 |
 | Stock Market Crash | 31.00% | ~8,904 |
 | Factory farming | 31.00% | ~8,904 |
-| Not-So-Overproud | 30.00% | ~8,616 |
+| Not-So-Overproud | 30.00% | ~8,617 |
 | For a handfull of Catapults | 29.00% | ~8,329 |
 | Shadow hunter | 29.00% | ~8,329 |
 | Thirst quencher | 28.00% | ~8,042 |
 | Ogre Solo! | 28.00% | ~8,042 |
-| Destroy the thing | 26.00% | ~7,467 |
-| Tide Master | 26.00% | ~7,467 |
+| Destroy the thing | 26.00% | ~7,468 |
+| Tide Master | 26.00% | ~7,468 |
 | Difficult family relationships | 25.00% | ~7,180 |
 | MASS-O-BOT | 24.00% | ~6,893 |
 | Prepare the grave | 24.00% | ~6,893 |
 | Angel of Fire | 24.00% | ~6,893 |
 | Where there is Light, there is Shadow | 23.00% | ~6,606 |
 | At the foot of Mount Destiny | 22.00% | ~6,319 |
-| The Force disturbed | 21.00% | ~6,031 |
+| The Force disturbed | 21.00% | ~6,032 |
 | The Victorious Evil | 20.00% | ~5,744 |
 | Chorus of damnation | 19.00% | ~5,457 |
 | We don’t have time! | 19.00% | ~5,457 |
@@ -54,7 +54,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Ignore The Level Designer’s Plan | 8.00% | ~2,298 |
 | Can’t stand to see an Ogre bleed | 8.00% | ~2,298 |
 | Lifesaver | 8.00% | ~2,298 |
-| Hearts are trump | 7.00% | ~2,010 |
+| Hearts are trump | 7.00% | ~2,011 |
 | Spawner Killer | 6.00% | ~1,723 |
 | A little something extra | 6.00% | ~1,723 |
 | The Benevolent Evil | 6.00% | ~1,723 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~574 |
 | Sacrifices! | 2.00% | ~574 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,721 (Ranked 101)  
+Progressed: 28,722 (Ranked 101)  
 Completed: 238 (0.83%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 238 (0.83%) (Ranked 127)
 | 2023-08-25 | 28,426 | 236 |
 | 2023-08-26 | 28,545 | 238 |
 | 2023-08-27 | 28,686 | 238 |
-| 2023-08-28 | 28,721 | 238 |
+| 2023-08-28 | 28,722 | 238 |
 ## Awards
 Max (Great for Beginners): 342  (Ranked 227)  
 Sum: 2,623 (Ranked 173)  

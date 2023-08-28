@@ -3,12 +3,12 @@
   "Name": "Anno 1800 Standard Edition",
   "ProductSlug": "anno-1800",
   "Ranking_Rating": 66,
-  "Ranking_Popularity": 120,
+  "Ranking_Popularity": 121,
   "Ranking_PopularitySum": 78,
   "Ranking_EOS_Progress": 561,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 336,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2019-05-30T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -7791,6 +7791,6 @@
   "FirstSeen": "2022-07-22T20:17:47.4504911+00:00",
   "LastChanged": "2023-08-28T07:01:01.318253+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:20.6214828+00:00",
-  "LastUpdate_Ratings": "2023-08-28T10:00:53.4531093+00:00",
-  "LastUpdate_Achievements": "2023-08-28T10:02:13.9147529+00:00"
+  "LastUpdate_Ratings": "2023-08-28T11:00:54.9469265+00:00",
+  "LastUpdate_Achievements": "2023-08-28T11:03:06.6498564+00:00"
 }

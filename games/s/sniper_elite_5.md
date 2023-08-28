@@ -7,8 +7,8 @@ Rating: 4.46 (Ranked 622)
 | ---- | ---------- | ----- |
 | Meeting Resistance | 46.00% | ~1,627 |
 | Confirming Suspicions | 40.00% | ~1,415 |
-| The Kraken Wakes | 36.00% | ~1,273 |
-| It's Starting to Crack | 33.00% | ~1,167 |
+| The Kraken Wakes | 36.00% | ~1,274 |
+| It's Starting to Crack | 33.00% | ~1,168 |
 | Change the Channel | 30.00% | ~1,061 |
 | Lord of War | 29.00% | ~1,026 |
 | Taking it back | 27.00% | ~955 |
@@ -33,7 +33,7 @@ Rating: 4.46 (Ranked 622)
 | No Stone Unturned | 13.00% | ~460 |
 | Opposing Force | 13.00% | ~460 |
 | Enemy at the Gates | 13.00% | ~460 |
-| Set Europe Ablaze | 12.00% | ~424 |
+| Set Europe Ablaze | 12.00% | ~425 |
 | Precision Is Key | 9.00% | ~318 |
 | My Little Friend | 9.00% | ~318 |
 | Rigged to Blow | 8.00% | ~283 |
@@ -42,10 +42,10 @@ Rating: 4.46 (Ranked 622)
 | It'll Buff Right Out | 5.00% | ~177 |
 | Don't hold your breath | 5.00% | ~177 |
 | Operation Foxley | 5.00% | ~174 |
-| Strategist | 4.00% | ~141 |
-| Tinkerer | 4.00% | ~141 |
-| Locomotion Commotion | 4.00% | ~141 |
-| Road Rage | 4.00% | ~141 |
+| Strategist | 4.00% | ~142 |
+| Tinkerer | 4.00% | ~142 |
+| Locomotion Commotion | 4.00% | ~142 |
+| Road Rage | 4.00% | ~142 |
 | Last Resort | 4.00% | ~140 |
 | Siegebreaker | 4.00% | ~140 |
 | Ghost of Falaise | 4.00% | ~140 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 622)
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,537 (Ranked 153)  
+Progressed: 3,538 (Ranked 153)  
 Completed: 9 (0.25%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,6 +206,7 @@ Completed: 9 (0.25%) (Ranked 181)
 | 2023-08-25 | 3,527 | 9 |
 | 2023-08-26 | 3,532 | 9 |
 | 2023-08-27 | 3,537 | 9 |
+| 2023-08-28 | 3,538 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

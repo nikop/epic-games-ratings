@@ -5,11 +5,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A New Journey | 73.00% | ~384 |
-| The Adventure Begins | 54.00% | ~284 |
+| The Adventure Begins | 55.00% | ~289 |
 | Swabbie | 40.00% | ~210 |
 | With Great Power… | 38.00% | ~200 |
 | This Belongs in a Museum | 33.00% | ~174 |
-| The Gambit Has Begun | 27.00% | ~142 |
+| The Gambit Has Begun | 28.00% | ~147 |
 | Powder Monkey | 25.00% | ~132 |
 | Somewhere Deep in the Lost Caribbean | 22.00% | ~116 |
 | Mirror Mirror on the Wall | 20.00% | ~105 |

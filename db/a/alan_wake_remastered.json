@@ -2,7 +2,7 @@
   "ID": "2e92a78949e2474aa89271b8b893f3b0",
   "Name": "Alan Wake Remastered",
   "ProductSlug": "alan-wake-remastered",
-  "Ranking_Rating": 490,
+  "Ranking_Rating": 489,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 87,
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 61850,
+  "EOS_Progressed": 61851,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 624,
+  "EOS_NewPlayers": 622,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -12687,6 +12687,11 @@
       "Time": "2023-08-28T10:07:37.7795645+00:00",
       "NumProgressed": 61850,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-08-28T11:08:07.1471442+00:00",
+      "NumProgressed": 61851,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -12738,7 +12743,7 @@
       "Name": "Park Ranger",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 10514
+      "UsersEstimate": 10515
     },
     {
       "ID": "07",
@@ -12762,7 +12767,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8040
+      "UsersEstimate": 8041
     },
     {
       "ID": "10",
@@ -12778,7 +12783,7 @@
       "Name": "Children of the Elder God",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3092
+      "UsersEstimate": 3093
     },
     {
       "ID": "12",
@@ -12794,7 +12799,7 @@
       "Name": "Drink \u0027Em Both Up",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3092
+      "UsersEstimate": 3093
     },
     {
       "ID": "14",
@@ -12866,7 +12871,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8040
+      "UsersEstimate": 8041
     },
     {
       "ID": "23",
@@ -13010,7 +13015,7 @@
       "Name": "Right of Way",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5566
+      "UsersEstimate": 5567
     },
     {
       "ID": "41",
@@ -13034,7 +13039,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 10514
+      "UsersEstimate": 10515
     },
     {
       "ID": "44",
@@ -13098,7 +13103,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 2025
+      "UsersEstimate": 2026
     },
     {
       "ID": "52",
@@ -13233,21 +13238,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 61850,
+      "Progressed": 61851,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 25318,
+      "Progressed": 25319,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-28T10:07:37.7795638+00:00",
+  "LastChanged_Achievements": "2023-08-28T11:08:07.1471436+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:21.2068954+00:00",
-  "LastUpdate_Ratings": "2023-08-28T10:00:54.3128802+00:00",
-  "LastUpdate_Achievements": "2023-08-28T10:07:37.7798151+00:00"
+  "LastUpdate_Ratings": "2023-08-28T11:00:56.0212005+00:00",
+  "LastUpdate_Achievements": "2023-08-28T11:08:07.1472857+00:00"
 }

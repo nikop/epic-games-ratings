@@ -3,9 +3,9 @@
   "Name": "The Light in the Darkness",
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 169,
-  "Ranking_EOS_Completed": 34,
+  "Ranking_EOS_Completed": 33,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2261,
+  "EOS_Progressed": 2262,
   "EOS_Completed": 202,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 8.93,
   "EosHistory": [
@@ -5343,6 +5343,11 @@
       "Time": "2023-08-28T06:06:00.6307129+00:00",
       "NumProgressed": 2261,
       "NumCompleted": 202
+    },
+    {
+      "Time": "2023-08-28T11:06:33.0404677+00:00",
+      "NumProgressed": 2262,
+      "NumCompleted": 202
     }
   ],
   "TotalAchievements": 12,
@@ -5370,7 +5375,7 @@
       "Name": "Building the Fox",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "Green Ticket Roundup",
@@ -5426,7 +5431,7 @@
       "Name": "May Their Memories be a Blessing",
       "Percentage": 9,
       "XP": 200,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "Nazis in Paris",
@@ -5449,7 +5454,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2261,
+      "Progressed": 2262,
       "Completed": 202
     }
   ],
@@ -5457,8 +5462,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-08-28T10:06:03.1961909+00:00",
+  "LastChanged_Achievements": "2023-08-28T11:06:33.0404671+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:56:57.0664875+00:00",
-  "LastUpdate_Ratings": "2023-08-28T09:57:27.5675717+00:00",
-  "LastUpdate_Achievements": "2023-08-28T10:06:03.1962439+00:00"
+  "LastUpdate_Ratings": "2023-08-28T10:57:21.8767578+00:00",
+  "LastUpdate_Achievements": "2023-08-28T11:06:33.0405133+00:00"
 }

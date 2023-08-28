@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -482,9 +482,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3537,
+  "EOS_Progressed": 3538,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -6247,6 +6247,11 @@
       "Time": "2023-08-27T13:07:22.7184941+00:00",
       "NumProgressed": 3537,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-28T11:06:17.8974918+00:00",
+      "NumProgressed": 3538,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -6330,7 +6335,7 @@
       "Name": "Strategist",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "REWARD_1_MEETING_RESISTANCE",
@@ -6410,7 +6415,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -6506,7 +6511,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1273
+      "UsersEstimate": 1274
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -6562,7 +6567,7 @@
       "Name": "Tinkerer",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
@@ -6570,7 +6575,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1167
+      "UsersEstimate": 1168
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -6586,7 +6591,7 @@
       "Name": "Locomotion Commotion",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "REWARD_5_BUNKER_BUSTER",
@@ -6610,7 +6615,7 @@
       "Name": "Road Rage",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "REWARD_67_NO_ASSISTANCE",
@@ -6825,13 +6830,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3488,
+      "Progressed": 3489,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3537,
+      "Progressed": 3538,
       "Completed": 9
     }
   ],
@@ -6839,8 +6844,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-08-27T15:59:49.0036638+00:00",
-  "LastChanged_Achievements": "2023-08-28T10:05:38.8604623+00:00",
+  "LastChanged_Achievements": "2023-08-28T11:06:17.8974906+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:12.9306959+00:00",
-  "LastUpdate_Ratings": "2023-08-28T09:59:46.7238028+00:00",
-  "LastUpdate_Achievements": "2023-08-28T10:05:38.8606521+00:00"
+  "LastUpdate_Ratings": "2023-08-28T10:59:49.1713811+00:00",
+  "LastUpdate_Achievements": "2023-08-28T11:06:17.8975868+00:00"
 }
