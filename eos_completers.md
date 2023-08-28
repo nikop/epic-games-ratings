@@ -8,10 +8,10 @@
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.95% |
 | 7 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 26.17% |
+| 9 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.00% |
 | 9 | [Overloop](games/o/overloop.md) | 25.00% |
-| 10 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 24.59% |
-| 11 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 12 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.31% |
+| 11 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 24.59% |
+| 12 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 13 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 13 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 19.71% |
@@ -92,8 +92,8 @@
 | 90 | [Bloodshore](games/b/bloodshore.md) | 2.20% |
 | 91 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
 | 92 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.00% |
-| 93 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 1.93% |
-| 94 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
+| 93 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
+| 93 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 1.92% |
 | 95 | [Night Book](games/n/night_book.md) | 1.86% |
 | 96 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
 | 97 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
