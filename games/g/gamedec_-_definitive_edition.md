@@ -35,7 +35,6 @@ Number of Ratings: 33  (23.09.2022)
 | Mama, I'm a criminal | 2.00% | ~4,880 |
 | Never gonna give you up | 2.00% | ~4,880 |
 | A muscle to rely on | 1.00% | ~2,440 |
-| A true blacksmith | 1.00% | ~2,440 |
 | Catnip | 1.00% | ~2,440 |
 | I am in great pain, please help me | 1.00% | ~2,440 |
 | High noon | 1.00% | ~2,440 |
@@ -43,6 +42,7 @@ Number of Ratings: 33  (23.09.2022)
 | SysOp on duty | 1.00% | ~2,440 |
 | Take the blue pill | 1.00% | ~2,440 |
 | The power of three | 1.00% | ~2,440 |
+| A true blacksmith | 0.90% | ~2,196 |
 | Let's try another | 0.80% | ~1,952 |
 | Home run | 0.80% | ~1,952 |
 | I have the high ground | 0.70% | ~1,708 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~488 |
 | Memory 5 | 0.10% | ~244 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,999 (Ranked 48)  
+Progressed: 244,000 (Ranked 48)  
 Completed: 7 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 7 (0.00%) (Ranked 265)
 | 2023-08-26 | 243,688 | 7 |
 | 2023-08-27 | 243,850 | 7 |
 | 2023-08-28 | 243,979 | 7 |
-| 2023-08-29 | 243,999 | 7 |
+| 2023-08-29 | 244,000 | 7 |
 ## Awards
 Max (Character Customization): 79  (Ranked 363)  
 Sum: 79 (Ranked 428)  

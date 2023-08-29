@@ -260,9 +260,9 @@
       "ID": "aq_achievement_24",
       "SetID": "7jh86ne",
       "Name": "Book Worm",
-      "Percentage": 65,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "aq_achievement_25",
@@ -453,8 +453,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-08-29T06:05:06.0972443+00:00",
+  "LastChanged_Achievements": "2023-08-29T07:06:09.6056817+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:48.553702+00:00",
-  "LastUpdate_Ratings": "2023-08-29T05:57:52.9289359+00:00",
-  "LastUpdate_Achievements": "2023-08-29T06:05:06.0972777+00:00"
+  "LastUpdate_Ratings": "2023-08-29T06:58:17.6069265+00:00",
+  "LastUpdate_Achievements": "2023-08-29T07:06:09.6057336+00:00"
 }

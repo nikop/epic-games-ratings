@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 127,
   "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2020-11-05T16:00:00+00:00",
     "PcReleaseDate": "2020-11-05T16:00:00+00:00",
@@ -2548,10 +2548,10 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 28810,
-  "EOS_Completed": 239,
-  "EOS_NewPlayers": 737,
-  "EOS_NewCompleters": 7,
+  "EOS_Progressed": 28811,
+  "EOS_Completed": 240,
+  "EOS_NewPlayers": 738,
+  "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.83,
   "EosHistory": [
     {
@@ -16718,6 +16718,11 @@
       "Time": "2023-08-29T06:05:34.7634971+00:00",
       "NumProgressed": 28810,
       "NumCompleted": 239
+    },
+    {
+      "Time": "2023-08-29T07:06:32.4839158+00:00",
+      "NumProgressed": 28811,
+      "NumCompleted": 240
     }
   ],
   "TotalAchievements": 60,
@@ -16793,7 +16798,7 @@
       "Name": "Difficult family relationships",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 7202
+      "UsersEstimate": 7203
     },
     {
       "ID": "ACH_D3_Campaign_DayNight_1",
@@ -16817,7 +16822,7 @@
       "Name": "A trip on sea, what fun it can be",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 9795
+      "UsersEstimate": 9796
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_1",
@@ -16873,7 +16878,7 @@
       "Name": "MASS-O-BOT",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 6914
+      "UsersEstimate": 6915
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_2",
@@ -16897,7 +16902,7 @@
       "Name": "Prepare the grave",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 6914
+      "UsersEstimate": 6915
     },
     {
       "ID": "ACH_D3_Campaign_Fire_2",
@@ -16913,7 +16918,7 @@
       "Name": "Angel of Fire",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 6914
+      "UsersEstimate": 6915
     },
     {
       "ID": "ACH_D3_Campaign_Graves_1",
@@ -16937,7 +16942,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 12388
+      "UsersEstimate": 12389
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -16961,7 +16966,7 @@
       "Name": "Rusty Steel",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 11812
+      "UsersEstimate": 11813
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -17033,7 +17038,7 @@
       "Name": "Where there is Light, there is Shadow",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 6626
+      "UsersEstimate": 6627
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_1",
@@ -17105,7 +17110,7 @@
       "Name": "Damned good",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 9507
+      "UsersEstimate": 9508
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_1",
@@ -17113,7 +17118,7 @@
       "Name": "Death and destruction!",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 12964
+      "UsersEstimate": 12965
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_2",
@@ -17129,7 +17134,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 19879
+      "UsersEstimate": 19880
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -17145,7 +17150,7 @@
       "Name": "Band of Brothers",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1440
+      "UsersEstimate": 1441
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_Completed",
@@ -17208,15 +17213,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 28810,
-      "Completed": 239
+      "Progressed": 28811,
+      "Completed": 240
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-08-28T13:02:44.7609874+00:00",
-  "LastChanged_Achievements": "2023-08-29T06:05:34.7634966+00:00",
+  "LastChanged_Achievements": "2023-08-29T07:06:32.4839152+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:56.1449078+00:00",
-  "LastUpdate_Ratings": "2023-08-29T05:57:56.8902306+00:00",
-  "LastUpdate_Achievements": "2023-08-29T06:05:34.763622+00:00"
+  "LastUpdate_Ratings": "2023-08-29T06:58:23.1193362+00:00",
+  "LastUpdate_Achievements": "2023-08-29T07:06:32.4840605+00:00"
 }

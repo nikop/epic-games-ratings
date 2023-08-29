@@ -28,13 +28,13 @@
 | Champion – starter pack | 59.00% | ~163 |
 | It's good to be alive | 59.00% | ~163 |
 | Own four walls | 59.00% | ~163 |
+| Fight for life | 58.00% | ~160 |
 | Little hacker | 58.00% | ~160 |
 | Handyman | 58.00% | ~160 |
 | Employee of the year | 58.00% | ~160 |
-| Fight for life | 57.00% | ~157 |
 | Intriguing candies | 56.00% | ~155 |
 | Legal courier | 54.00% | ~149 |
-| Extreme neuropower! | 53.00% | ~146 |
+| Extreme neuropower! | 54.00% | ~149 |
 | Escaped from a big trouble | 51.00% | ~141 |
 | Now you are worthy | 49.00% | ~135 |
 | Guiding on the right path | 47.00% | ~130 |

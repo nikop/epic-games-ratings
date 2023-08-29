@@ -496,6 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overwhelming Force | 0.10% | ~226 |
 | Rescue in the Jungle | 0.10% | ~226 |
 | The Court of Storms | 0.10% | ~192 |
+| Coasting to the Finish | 0.10% | ~192 |
 | Beware the Jabberwock | 0.10% | ~192 |
 | Quick or Quack | 0.10% | ~192 |
 | Willing to Sacrifice | 0.10% | ~192 |
@@ -521,13 +522,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Chaotic Hunt for The Last Breath | 0.10% | ~192 |
 | To Infinity's and Beyond | 0.10% | ~192 |
 | There's a Flying Snake in my Boot! | 0.10% | ~192 |
-| Coasting to the Finish | 0.00% | ~0 |
 | Legends and Lore | 0.00% | ~0 |
 | Unearthed Arcana | 0.00% | ~0 |
 | The End | 0.00% | ~0 |
 | All's Well That Ends Well | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,852 (Ranked 53)  
+Progressed: 225,861 (Ranked 53)  
 Completed: 2,226 (0.99%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -658,7 +658,7 @@ Completed: 2,226 (0.99%) (Ranked 121)
 | 2023-08-26 | 225,221 | 2,219 |
 | 2023-08-27 | 225,526 | 2,222 |
 | 2023-08-28 | 225,795 | 2,223 |
-| 2023-08-29 | 225,852 | 2,226 |
+| 2023-08-29 | 225,861 | 2,226 |
 ## Awards
 Max (Diverse Characters): 5,202  (Ranked 68)  
 Sum: 31,270 (Ranked 39)  

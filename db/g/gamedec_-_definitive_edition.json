@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 428,
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 51,
+  "Ranking_EOS_NewPlayers": 52,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
@@ -396,9 +396,9 @@
       "Count": 79
     }
   ],
-  "EOS_Progressed": 243999,
+  "EOS_Progressed": 244000,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 971,
+  "EOS_NewPlayers": 967,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14856,6 +14856,11 @@
       "Time": "2023-08-29T06:05:32.3921831+00:00",
       "NumProgressed": 243999,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-29T07:06:29.4709603+00:00",
+      "NumProgressed": 244000,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -14881,9 +14886,9 @@
       "ID": "ACH_ATRUEBLACKSMITHS",
       "SetID": "dfh7g87",
       "Name": "A true blacksmith",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 2440
+      "UsersEstimate": 2196
     },
     {
       "ID": "ACH_BOY",
@@ -15282,7 +15287,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 243999,
+      "Progressed": 244000,
       "Completed": 7
     }
   ],
@@ -15290,8 +15295,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-08-15T07:59:00.2810594+00:00",
-  "LastChanged_Achievements": "2023-08-29T06:05:32.3921824+00:00",
+  "LastChanged_Achievements": "2023-08-29T07:06:29.4709597+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:40.3558824+00:00",
-  "LastUpdate_Ratings": "2023-08-29T06:00:29.7716971+00:00",
-  "LastUpdate_Achievements": "2023-08-29T06:05:32.3923042+00:00"
+  "LastUpdate_Ratings": "2023-08-29T07:01:33.9681353+00:00",
+  "LastUpdate_Achievements": "2023-08-29T07:06:29.4710979+00:00"
 }

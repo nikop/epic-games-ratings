@@ -6,14 +6,14 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Peak Performance | 55.00% | ~3,682 |
-| Tutti Eroi! | 55.00% | ~3,682 |
-| You Shall Not Pass | 53.00% | ~3,548 |
+| Peak Performance | 55.00% | ~3,683 |
+| Tutti Eroi! | 55.00% | ~3,683 |
+| You Shall Not Pass | 53.00% | ~3,549 |
 | Avanti Savoia! | 48.00% | ~3,214 |
 | Mamma Mia! | 38.00% | ~2,544 |
-| Conrad von Hotzensocks | 36.00% | ~2,410 |
-| Gabriele D'Annunzio | 33.00% | ~2,209 |
-| Silver Lining | 30.00% | ~2,008 |
+| Conrad von Hotzensocks | 36.00% | ~2,411 |
+| Gabriele D'Annunzio | 33.00% | ~2,210 |
+| Silver Lining | 30.00% | ~2,009 |
 | Aurelio Baruzzi | 23.00% | ~1,540 |
 | Decimation | 22.00% | ~1,473 |
 | Donatello | 22.00% | ~1,473 |
@@ -29,8 +29,8 @@ Number of Ratings: 98  (23.09.2022)
 | Machiavelli | 13.00% | ~870 |
 | Shaken, Not Stirred | 13.00% | ~870 |
 | Thus With A Kiss | 13.00% | ~870 |
-| The Devil's Paintbrush | 12.00% | ~803 |
-| Dante's Inferno | 11.00% | ~736 |
+| The Devil's Paintbrush | 12.00% | ~804 |
+| Dante's Inferno | 11.00% | ~737 |
 | I Have the High Ground | 10.00% | ~670 |
 | Millenial | 10.00% | ~670 |
 | The Show Must Go On | 9.00% | ~603 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~27 |
 | Can I Go Home Now? | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,695 (Ranked 137)  
+Progressed: 6,696 (Ranked 137)  
 Completed: 8 (0.12%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,6 +177,7 @@ Completed: 8 (0.12%) (Ranked 205)
 | 2023-08-25 | 6,688 | 8 |
 | 2023-08-26 | 6,691 | 8 |
 | 2023-08-27 | 6,695 | 8 |
+| 2023-08-29 | 6,696 | 8 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 438)  
 Sum: 268 (Ranked 352)  

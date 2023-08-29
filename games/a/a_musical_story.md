@@ -18,7 +18,7 @@
 | Sound of Noise | 47.00% | ~45 |
 | Love at First Sight | 43.00% | ~41 |
 | First Kiss | 37.00% | ~35 |
-| Symbiosis | 34.00% | ~32 |
+| Symbiosis | 35.00% | ~33 |
 | A Bigger Band | 32.00% | ~30 |
 | Fuel | 29.00% | ~28 |
 | Alone Together | 26.00% | ~25 |
@@ -28,7 +28,7 @@
 | The Clash | 18.00% | ~17 |
 | Dreamers | 18.00% | ~17 |
 | The Fix | 16.00% | ~15 |
-| Time | 14.00% | ~13 |
+| Time | 15.00% | ~14 |
 | The Mountains, The Valleys | 13.00% | ~12 |
 | Regrets | 12.00% | ~11 |
 | Bad Trip | 11.00% | ~10 |

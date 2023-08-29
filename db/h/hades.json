@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 125,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2019-12-10T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -4225,9 +4225,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 702295,
+  "EOS_Progressed": 702296,
   "EOS_Completed": 6324,
-  "EOS_NewPlayers": 496,
+  "EOS_NewPlayers": 495,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
@@ -18195,6 +18195,11 @@
       "Time": "2023-08-29T05:07:54.2899537+00:00",
       "NumProgressed": 702295,
       "NumCompleted": 6324
+    },
+    {
+      "Time": "2023-08-29T07:07:27.132408+00:00",
+      "NumProgressed": 702296,
+      "NumCompleted": 6324
     }
   ],
   "TotalAchievements": 49,
@@ -18246,7 +18251,7 @@
       "Name": "Haste of Hermes",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 77252
+      "UsersEstimate": 77253
     },
     {
       "ID": "AchCerberusPets",
@@ -18254,7 +18259,7 @@
       "Name": "Three-Headed Boy",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 224734
+      "UsersEstimate": 224735
     },
     {
       "ID": "AchClearAnyRun",
@@ -18262,7 +18267,7 @@
       "Name": "Is There No Escape?",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 365193
+      "UsersEstimate": 365194
     },
     {
       "ID": "AchClearAsphodel",
@@ -18270,7 +18275,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 561836
+      "UsersEstimate": 561837
     },
     {
       "ID": "AchClearElysium",
@@ -18326,7 +18331,7 @@
       "Name": "Slashed Benefits",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 84275
+      "UsersEstimate": 84276
     },
     {
       "ID": "AchFishFromEachBiome",
@@ -18398,7 +18403,7 @@
       "Name": "Day-or-Night Trader",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 259849
+      "UsersEstimate": 259850
     },
     {
       "ID": "AchManyCosmetics",
@@ -18422,7 +18427,7 @@
       "Name": "Blood Bound",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 245803
+      "UsersEstimate": 245804
     },
     {
       "ID": "AchMeetChthonicGods",
@@ -18478,7 +18483,7 @@
       "Name": "Urge to Sing",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 252826
+      "UsersEstimate": 252827
     },
     {
       "ID": "AchPactUpgradesClears",
@@ -18494,7 +18499,7 @@
       "Name": "Blessed by the Gods",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 259849
+      "UsersEstimate": 259850
     },
     {
       "ID": "AchPickedManyHammers",
@@ -18566,7 +18571,7 @@
       "Name": "Arms Collector",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 498629
+      "UsersEstimate": 498630
     },
     {
       "ID": "AchWeaponClears",
@@ -18597,15 +18602,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 702295,
+      "Progressed": 702296,
       "Completed": 6324
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
   "LastChanged": "2023-08-28T20:00:33.8551195+00:00",
-  "LastChanged_Achievements": "2023-08-29T06:06:24.7681997+00:00",
+  "LastChanged_Achievements": "2023-08-29T07:07:27.1324073+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:37.7124664+00:00",
-  "LastUpdate_Ratings": "2023-08-29T06:00:28.79586+00:00",
-  "LastUpdate_Achievements": "2023-08-29T06:06:24.7683122+00:00"
+  "LastUpdate_Ratings": "2023-08-29T07:01:32.5986625+00:00",
+  "LastUpdate_Achievements": "2023-08-29T07:07:27.1325375+00:00"
 }

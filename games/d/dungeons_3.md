@@ -6,20 +6,20 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 69.00% | ~19,879 |
+| The Shadow strikes | 69.00% | ~19,880 |
 | The Evilest Evil | 58.00% | ~16,710 |
 | Twistram is devastated | 57.00% | ~16,422 |
 | The Gehenna Stones | 49.00% | ~14,117 |
 | No one has to die today! | 46.00% | ~13,253 |
-| Death and destruction! | 45.00% | ~12,964 |
-| The Swamplanders from the swamplands | 43.00% | ~12,388 |
-| Rusty Steel | 41.00% | ~11,812 |
+| Death and destruction! | 45.00% | ~12,965 |
+| The Swamplanders from the swamplands | 43.00% | ~12,389 |
+| Rusty Steel | 41.00% | ~11,813 |
 | The One-Huge-Army-Building Evil | 40.00% | ~11,524 |
 | The last burger | 37.00% | ~10,660 |
 | Braiiiiins! | 37.00% | ~10,660 |
 | Hands off the Dungeonheart! | 36.00% | ~10,372 |
-| A trip on sea, what fun it can be | 34.00% | ~9,795 |
-| Damned good | 33.00% | ~9,507 |
+| A trip on sea, what fun it can be | 34.00% | ~9,796 |
+| Damned good | 33.00% | ~9,508 |
 | Stock Market Crash | 31.00% | ~8,931 |
 | Factory farming | 31.00% | ~8,931 |
 | Not-So-Overproud | 30.00% | ~8,643 |
@@ -29,11 +29,11 @@ Number of Ratings: 1,635  (23.09.2022)
 | Ogre Solo! | 28.00% | ~8,067 |
 | Destroy the thing | 26.00% | ~7,491 |
 | Tide Master | 26.00% | ~7,491 |
-| Difficult family relationships | 25.00% | ~7,202 |
-| MASS-O-BOT | 24.00% | ~6,914 |
-| Prepare the grave | 24.00% | ~6,914 |
-| Angel of Fire | 24.00% | ~6,914 |
-| Where there is Light, there is Shadow | 23.00% | ~6,626 |
+| Difficult family relationships | 25.00% | ~7,203 |
+| MASS-O-BOT | 24.00% | ~6,915 |
+| Prepare the grave | 24.00% | ~6,915 |
+| Angel of Fire | 24.00% | ~6,915 |
+| Where there is Light, there is Shadow | 23.00% | ~6,627 |
 | At the foot of Mount Destiny | 22.00% | ~6,338 |
 | The Force disturbed | 21.00% | ~6,050 |
 | The Victorious Evil | 20.00% | ~5,762 |
@@ -58,7 +58,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Spawner Killer | 6.00% | ~1,729 |
 | A little something extra | 6.00% | ~1,729 |
 | The Benevolent Evil | 6.00% | ~1,729 |
-| Band of Brothers | 5.00% | ~1,440 |
+| Band of Brothers | 5.00% | ~1,441 |
 | Night of the Living Dead (on Speed) | 4.00% | ~1,152 |
 | I need a hero! | 4.00% | ~1,152 |
 | Storm And Stress | 3.00% | ~864 |
@@ -67,8 +67,8 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~576 |
 | Sacrifices! | 2.00% | ~576 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,810 (Ranked 101)  
-Completed: 239 (0.83%) (Ranked 127)  
+Progressed: 28,811 (Ranked 101)  
+Completed: 240 (0.83%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -198,7 +198,7 @@ Completed: 239 (0.83%) (Ranked 127)
 | 2023-08-26 | 28,545 | 238 |
 | 2023-08-27 | 28,686 | 238 |
 | 2023-08-28 | 28,789 | 239 |
-| 2023-08-29 | 28,810 | 239 |
+| 2023-08-29 | 28,811 | 240 |
 ## Awards
 Max (Great for Beginners): 342  (Ranked 228)  
 Sum: 2,624 (Ranked 173)  

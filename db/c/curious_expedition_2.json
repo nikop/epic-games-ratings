@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -669,9 +669,9 @@
       "ID": "ach-salamanderPrince",
       "SetID": "17ih7ma",
       "Name": "Cold Blood, Warm Heart",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 29
     },
     {
       "ID": "ach-spendNoMoney",
@@ -734,8 +734,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-07-27T21:58:49.8030167+00:00",
-  "LastChanged_Achievements": "2023-08-29T06:03:05.9693275+00:00",
+  "LastChanged_Achievements": "2023-08-29T07:03:45.4410988+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:09.8181915+00:00",
-  "LastUpdate_Ratings": "2023-08-29T05:59:15.0021151+00:00",
-  "LastUpdate_Achievements": "2023-08-29T06:03:05.9693879+00:00"
+  "LastUpdate_Ratings": "2023-08-29T06:59:58.8311162+00:00",
+  "LastUpdate_Achievements": "2023-08-29T07:03:45.4411586+00:00"
 }

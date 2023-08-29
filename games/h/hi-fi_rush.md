@@ -24,12 +24,12 @@ Rating: 4.88 (Ranked 19)
 | Whoa! There's ANOTHER health bar!? | 6.00% | ~239 |
 | Out in a puff of smoke | 6.00% | ~239 |
 | Does that say weakpoint? | 6.00% | ~239 |
+| NOW we got a kickass hideout! | 6.00% | ~150 |
 | Headliner | 5.00% | ~199 |
 | Time to pay up! | 5.00% | ~199 |
 | Who's the boss now? | 5.00% | ~199 |
 | You must like calling me in, Chai | 5.00% | ~199 |
 | Perfecter Parry-er! | 5.00% | ~199 |
-| NOW we got a kickass hideout! | 5.00% | ~125 |
 | I have to read these things? | 4.00% | ~159 |
 | Well that was a rush! | 3.00% | ~120 |
 | Beat-hit mania | 3.00% | ~120 |
