@@ -54,12 +54,12 @@
 | 52 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.13% |
 | 53 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.82% |
 | 54 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 4.76% |
-| 55 | [Bugsnax](games/b/bugsnax.md) | 4.73% |
+| 55 | [Bugsnax](games/b/bugsnax.md) | 4.74% |
 | 56 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 57 | [JARS](games/j/jars.md) | 4.48% |
 | 58 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.37% |
-| 59 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.18% |
-| 60 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
+| 59 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
+| 59 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.17% |
 | 61 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.08% |
 | 62 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.99% |
 | 63 | [ZZT!](games/z/zzt!.md) | 3.87% |
@@ -71,8 +71,8 @@
 | 69 | [The Complex](games/t/the_complex.md) | 3.33% |
 | 70 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
 | 71 | [HordeCore](games/h/hordecore.md) | 3.15% |
-| 72 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.10% |
-| 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.09% |
+| 72 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.09% |
+| 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.08% |
 | 74 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.01% |
 | 75 | [Monster Harvest](games/m/monster_harvest.md) | 2.93% |
 | 75 | [MultiVersus](games/m/multiversus.md) | 2.93% |
@@ -93,10 +93,10 @@
 | 91 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
 | 92 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.00% |
 | 93 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
-| 94 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 1.86% |
 | 94 | [Night Book](games/n/night_book.md) | 1.86% |
-| 96 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
-| 97 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
+| 95 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
+| 96 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
+| 97 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 1.83% |
 | 98 | [Sifu](games/s/sifu.md) | 1.81% |
 | 99 | [Frogun](games/f/frogun.md) | 1.80% |
 | 100 | [Somerville](games/s/somerville.md) | 1.66% |
@@ -561,4 +561,4 @@
 | 265 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 265 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 265 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,129 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,130 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
