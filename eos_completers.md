@@ -76,7 +76,7 @@
 | 74 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.01% |
 | 75 | [Monster Harvest](games/m/monster_harvest.md) | 2.93% |
 | 75 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 77 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.91% |
+| 77 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.90% |
 | 78 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.80% |
 | 79 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.74% |
 | 80 | [Destiny 2](games/d/destiny_2.md) | 2.73% |
@@ -194,13 +194,13 @@
 | 192 | [RAILGRADE](games/r/railgrade.md) | 0.19% |
 | 193 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.18% |
 | 193 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.18% |
+| 195 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.17% |
 | 195 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.17% |
-| 196 | [BLACKTAIL](games/b/blacktail.md) | 0.16% |
-| 196 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.16% |
-| 196 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
-| 196 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
-| 196 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
-| 196 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.16% |
+| 197 | [BLACKTAIL](games/b/blacktail.md) | 0.16% |
+| 197 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
+| 197 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
+| 197 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
+| 197 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.16% |
 | 202 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
 | 203 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.14% |
 | 204 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.13% |

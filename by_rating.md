@@ -594,7 +594,7 @@
 | 581 | [Rocket League®](games/r/rocket_league®.md) | 4.49 | 513,041 | 2 |
 | 581 | [Solitairica](games/s/solitairica.md) | 4.49 | 84 | 360 |
 | 581 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 0 | 514 |
-| 581 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.49 | 2,423 | 103 |
+| 581 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.49 | 2,431 | 103 |
 | 581 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.49 | 0 | 514 |
 | 597 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 4.48 | 26 | 476 |
 | 597 | [Anno 2070](games/a/anno_2070.md) | 4.48 | 0 | 514 |
@@ -841,15 +841,15 @@
 | 838 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 461 |
 | 838 | [OVERPASS™](games/o/overpass™.md) | 4.24 | 0 | 514 |
 | 838 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 570 | 187 |
+| 838 | [Rise of Industry](games/r/rise_of_industry.md) | 4.24 | 0 | 514 |
 | 838 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 45 | 413 |
 | 838 | [The Bridge](games/t/the_bridge.md) | 4.24 | 0 | 514 |
 | 838 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.24 | 0 | 514 |
 | 838 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 24 | 486 |
-| 846 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 0 | 514 |
-| 846 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 146 |
-| 846 | [Rise of Industry](games/r/rise_of_industry.md) | 4.23 | 0 | 514 |
-| 846 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 0 | 514 |
-| 846 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 0 | 514 |
+| 847 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 0 | 514 |
+| 847 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 146 |
+| 847 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 0 | 514 |
+| 847 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 0 | 514 |
 | 851 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 179 | 283 |
 | 851 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.22 | 0 | 514 |
 | 851 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 207 | 271 |
