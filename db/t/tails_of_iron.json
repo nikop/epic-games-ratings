@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -227,9 +227,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1879,
+  "EOS_Progressed": 1880,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -2522,6 +2522,11 @@
       "Time": "2023-08-28T23:06:29.3907645+00:00",
       "NumProgressed": 1879,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-08-29T05:07:32.7671134+00:00",
+      "NumProgressed": 1880,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -2565,7 +2570,7 @@
       "Name": "Return the Statues",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "CollectAllWeaponsAndGear",
@@ -2605,7 +2610,7 @@
       "Name": "Complete Elder Faction",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "CompleteGuardFaction",
@@ -2613,7 +2618,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 1522
+      "UsersEstimate": 1523
     },
     {
       "ID": "CompleteHunterFaction",
@@ -2677,7 +2682,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1165
+      "UsersEstimate": 1166
     },
     {
       "ID": "GetTHWeapon",
@@ -2685,7 +2690,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1071
+      "UsersEstimate": 1072
     },
     {
       "ID": "Kill25Bugs",
@@ -2701,15 +2706,15 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1165
+      "UsersEstimate": 1166
     },
     {
       "ID": "Kill25Mozi",
       "SetID": "9lj35g4",
       "Name": "Defeat 25 Mozis",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 883
+      "UsersEstimate": 865
     },
     {
       "ID": "MeetTheMoles",
@@ -2717,7 +2722,7 @@
       "Name": "Meet the Creatures from the Deep",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "MysteryKingsChamber",
@@ -2733,7 +2738,7 @@
       "Name": "Kitchen Ready To Cook",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "RepairSmith",
@@ -2757,7 +2762,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "ReturnPowerInMines",
@@ -2765,29 +2770,29 @@
       "Name": "Return Power To The Depths",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     }
   ],
   "AchievementSets": [
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1879,
+      "Progressed": 1880,
       "Completed": 8
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 520,
-      "Completed": 520
+      "Progressed": 521,
+      "Completed": 521
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-07-30T07:58:33.6633976+00:00",
-  "LastChanged_Achievements": "2023-08-29T04:07:22.7307408+00:00",
+  "LastChanged_Achievements": "2023-08-29T05:07:32.7671127+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:09.7374628+00:00",
-  "LastUpdate_Ratings": "2023-08-29T04:02:02.4380024+00:00",
-  "LastUpdate_Achievements": "2023-08-29T04:07:22.7307798+00:00"
+  "LastUpdate_Ratings": "2023-08-29T05:02:28.425886+00:00",
+  "LastUpdate_Achievements": "2023-08-29T05:07:32.7671554+00:00"
 }

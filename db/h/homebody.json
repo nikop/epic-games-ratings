@@ -4,7 +4,7 @@
   "ProductSlug": "homebody-569576",
   "Ranking_EOS_Progress": 562,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewPlayers": 337,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-06-01T07:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-03T09:59:27.1467447+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:38.8669721+00:00",
-  "LastUpdate_Ratings": "2023-08-29T03:59:18.6776784+00:00",
-  "LastUpdate_Achievements": "2023-08-29T04:08:13.1417167+00:00"
+  "LastUpdate_Ratings": "2023-08-29T04:59:16.7578627+00:00",
+  "LastUpdate_Achievements": "2023-08-29T05:08:30.2962043+00:00"
 }

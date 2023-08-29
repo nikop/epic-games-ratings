@@ -29,6 +29,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Dungeon Imports | 0.60% | ~812 |
 | On the Path to Greatness | 0.50% | ~677 |
 | Ascended | 0.50% | ~677 |
+| Vanity, Verily | 0.50% | ~677 |
 | Blank Page Syndrome | 0.50% | ~677 |
 | Efficient Floor Space | 0.50% | ~677 |
 | Gem Expert | 0.50% | ~677 |
@@ -38,7 +39,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Arcane Industries | 0.50% | ~677 |
 | Tax not Included | 0.40% | ~541 |
 | Research & Development | 0.40% | ~541 |
-| Vanity, Verily | 0.40% | ~541 |
 | Fated Encounters | 0.40% | ~541 |
 | For the Hoard! | 0.40% | ~541 |
 | Hidden Potential | 0.40% | ~541 |
@@ -94,6 +94,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Master Recycler | 0.30% | ~406 |
 | Special Ingredient | 0.30% | ~406 |
 | Exotic Commodities | 0.30% | ~406 |
+| Economy of Scarce | 0.30% | ~406 |
 | Complete Monopoly | 0.30% | ~406 |
 | The Free Encyclopedia | 0.20% | ~271 |
 | Fillin' the Bin | 0.20% | ~271 |
@@ -103,7 +104,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Jackpot! | 0.20% | ~271 |
 | Eternal Crusade | 0.20% | ~271 |
 | All Accounted For | 0.20% | ~271 |
-| Economy of Scarce | 0.20% | ~271 |
 | King's Blade | 0.20% | ~271 |
 | Bane of Legends | 0.10% | ~135 |
 | Ultimate Collector | 0.10% | ~135 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~135 |
 | Cash Only Please | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,304 (Ranked 67)  
+Progressed: 135,305 (Ranked 67)  
 Completed: 138 (0.10%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,7 +250,7 @@ Completed: 138 (0.10%) (Ranked 213)
 | 2023-08-26 | 135,191 | 138 |
 | 2023-08-27 | 135,255 | 138 |
 | 2023-08-28 | 135,299 | 138 |
-| 2023-08-29 | 135,304 | 138 |
+| 2023-08-29 | 135,305 | 138 |
 ## Awards
 Max (Great for Beginners): 4,717  (Ranked 71)  
 Sum: 27,151 (Ranked 47)  

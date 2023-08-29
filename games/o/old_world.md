@@ -100,6 +100,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Redemption | 0.80% | ~109 |
 | Legionary | 0.80% | ~109 |
 | Phalangite | 0.80% | ~109 |
+| Win a Single Player Game | 0.80% | ~109 |
 | Capable | 0.70% | ~95 |
 | Invincible | 0.70% | ~95 |
 | Ready | 0.70% | ~95 |
@@ -113,7 +114,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cimmerian Archer | 0.70% | ~95 |
 | Ambition Victory | 0.70% | ~95 |
 | Double Victory | 0.70% | ~95 |
-| Win a Single Player Game | 0.70% | ~95 |
 | Bad Heir Day | 0.60% | ~82 |
 | Devout | 0.60% | ~82 |
 | Landowners | 0.60% | ~82 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,639 (Ranked 119)  
+Progressed: 13,640 (Ranked 119)  
 Completed: 5 (0.04%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -434,7 +434,7 @@ Completed: 5 (0.04%) (Ranked 235)
 | 2023-08-26 | 13,590 | 5 |
 | 2023-08-27 | 13,616 | 5 |
 | 2023-08-28 | 13,635 | 5 |
-| 2023-08-29 | 13,639 | 5 |
+| 2023-08-29 | 13,640 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,799 (Ranked 207)  

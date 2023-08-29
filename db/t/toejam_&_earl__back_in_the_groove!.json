@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 252,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -217,7 +217,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 56650,
+  "EOS_Progressed": 56651,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
@@ -8412,6 +8412,11 @@
       "Time": "2023-08-29T04:04:37.253624+00:00",
       "NumProgressed": 56650,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-29T05:04:14.7577893+00:00",
+      "NumProgressed": 56651,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 49,
@@ -8471,7 +8476,7 @@
       "Name": "Elf Chaser",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "Explorer",
@@ -8495,7 +8500,7 @@
       "Name": "Flying Present Catcher",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2832
+      "UsersEstimate": 2833
     },
     {
       "ID": "FlyingPresentMaster",
@@ -8511,7 +8516,7 @@
       "Name": "Food Taster",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 5098
+      "UsersEstimate": 5099
     },
     {
       "ID": "FoolMeTwice",
@@ -8519,7 +8524,7 @@
       "Name": "Fool Me Twice",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "FoundAllBackers",
@@ -8655,7 +8660,7 @@
       "Name": "Old School Jammin\u0027",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "PacifistVictory",
@@ -8791,7 +8796,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "WhyDoIKeepDoingThat",
@@ -8814,7 +8819,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 56650,
+      "Progressed": 56651,
       "Completed": 5
     }
   ],
@@ -8822,8 +8827,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-03-31T17:59:29.6978698+00:00",
-  "LastChanged_Achievements": "2023-08-29T04:04:37.2536234+00:00",
+  "LastChanged_Achievements": "2023-08-29T05:04:14.7577884+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:15.4422514+00:00",
-  "LastUpdate_Ratings": "2023-08-29T04:00:04.7384502+00:00",
-  "LastUpdate_Achievements": "2023-08-29T04:04:37.2538073+00:00"
+  "LastUpdate_Ratings": "2023-08-29T05:00:11.1642875+00:00",
+  "LastUpdate_Achievements": "2023-08-29T05:04:14.7578767+00:00"
 }

@@ -306,9 +306,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 195750,
+  "EOS_Progressed": 195753,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 589,
+  "EOS_NewPlayers": 591,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14421,6 +14421,11 @@
       "Time": "2023-08-29T03:09:29.8739736+00:00",
       "NumProgressed": 195750,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-29T05:06:11.4330527+00:00",
+      "NumProgressed": 195753,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -14440,7 +14445,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 138982
+      "UsersEstimate": 138985
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -14456,7 +14461,7 @@
       "Name": "Gated Community",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 5872
+      "UsersEstimate": 5873
     },
     {
       "ID": "ACH_INITIATION",
@@ -14464,7 +14469,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 35235
+      "UsersEstimate": 35236
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -14559,7 +14564,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 195750,
+      "Progressed": 195753,
       "Completed": 4
     }
   ],
@@ -14567,8 +14572,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-08-23T04:57:31.1558679+00:00",
-  "LastChanged_Achievements": "2023-08-29T04:06:11.4398471+00:00",
+  "LastChanged_Achievements": "2023-08-29T05:06:11.4330517+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:14.4475248+00:00",
-  "LastUpdate_Ratings": "2023-08-29T03:58:54.832262+00:00",
-  "LastUpdate_Achievements": "2023-08-29T04:06:11.4399389+00:00"
+  "LastUpdate_Ratings": "2023-08-29T04:58:46.370043+00:00",
+  "LastUpdate_Achievements": "2023-08-29T05:06:11.4332318+00:00"
 }

@@ -3500,9 +3500,9 @@
       "ID": "lord_of_the_tower_2",
       "SetID": "53c1p3k",
       "Name": "Lord of the Tower 2",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "lord_of_the_tower_3",
@@ -3715,8 +3715,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-08-29T04:08:29.614455+00:00",
+  "LastChanged_Achievements": "2023-08-29T05:08:49.112702+00:00",
   "LastUpdate_AppInfo": "2023-08-22T05:57:11.4589116+00:00",
-  "LastUpdate_Ratings": "2023-08-29T04:00:30.4837708+00:00",
-  "LastUpdate_Achievements": "2023-08-29T04:08:29.6145455+00:00"
+  "LastUpdate_Ratings": "2023-08-29T05:00:41.110165+00:00",
+  "LastUpdate_Achievements": "2023-08-29T05:08:49.1127856+00:00"
 }

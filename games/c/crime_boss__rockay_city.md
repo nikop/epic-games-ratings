@@ -5,15 +5,15 @@ Rating: 3.94 (Ranked 951)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~53,597 |
-| First One’s Free | 65.00% | ~47,079 |
-| Neophyte Ninja | 50.00% | ~36,214 |
-| Too Old for This | 48.00% | ~34,766 |
-| Fancy Pants | 36.00% | ~26,074 |
-| Case Closed | 35.00% | ~25,350 |
-| King of the Hill | 34.00% | ~24,626 |
-| Underworld Initiate | 29.00% | ~21,004 |
-| Roid Ranger | 21.00% | ~15,210 |
+| Downed but Not Outed | 74.00% | ~53,599 |
+| First One’s Free | 65.00% | ~47,080 |
+| Neophyte Ninja | 50.00% | ~36,216 |
+| Too Old for This | 48.00% | ~34,767 |
+| Fancy Pants | 36.00% | ~26,075 |
+| Case Closed | 35.00% | ~25,351 |
+| King of the Hill | 34.00% | ~24,627 |
+| Underworld Initiate | 29.00% | ~21,005 |
+| Roid Ranger | 21.00% | ~15,211 |
 | Off the Rocks | 20.00% | ~14,486 |
 | True Player | 19.00% | ~13,762 |
 | Raider’s Ruin | 17.00% | ~12,313 |
@@ -28,7 +28,7 @@ Rating: 3.94 (Ranked 951)
 | I Like Trains | 8.00% | ~5,794 |
 | Foo Finder | 7.00% | ~5,070 |
 | Savvy Seeker | 6.00% | ~4,346 |
-| Legend Looter | 5.00% | ~3,621 |
+| Legend Looter | 5.00% | ~3,622 |
 | Imports and Exports | 4.00% | ~2,897 |
 | Olympus Ascended | 4.00% | ~2,897 |
 | Cracked the Jack | 4.00% | ~2,897 |
@@ -43,7 +43,7 @@ Rating: 3.94 (Ranked 951)
 | Geek Out | 0.60% | ~435 |
 | Full House | 0.20% | ~145 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,429 (Ranked 79)  
+Progressed: 72,431 (Ranked 79)  
 Completed: 42 (0.06%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 42 (0.06%) (Ranked 227)
 | 2023-08-26 | 72,349 | 42 |
 | 2023-08-27 | 72,388 | 42 |
 | 2023-08-28 | 72,422 | 42 |
-| 2023-08-29 | 72,429 | 42 |
+| 2023-08-29 | 72,431 | 42 |
 ## Awards
 Max (Diverse Characters): 407  (Ranked 215)  
 Sum: 1,941 (Ranked 202)  

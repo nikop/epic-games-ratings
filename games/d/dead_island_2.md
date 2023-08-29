@@ -11,6 +11,7 @@ Rating: 4.54 (Ranked 501)
 | Git Gutte! | 0.40% | ~2,673 |
 | Bookworm | 0.40% | ~2,673 |
 | Break A Leg | 0.40% | ~2,673 |
+| But Doctor, I am Butcho | 0.40% | ~2,673 |
 | Coup de Grâce | 0.40% | ~2,673 |
 | Hazardous Materials | 0.40% | ~2,673 |
 | Friends Like These | 0.40% | ~2,673 |
@@ -20,7 +21,6 @@ Rating: 4.54 (Ranked 501)
 | This is My Weapon | 0.40% | ~2,673 |
 | Anger Management | 0.30% | ~2,005 |
 | Perks of the Job | 0.30% | ~2,005 |
-| But Doctor, I am Butcho | 0.30% | ~2,005 |
 | Slayer Squad | 0.30% | ~2,005 |
 | Can't Handle the Truth | 0.30% | ~2,005 |
 | Like Riding a Bike | 0.30% | ~2,005 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 501)
 | Rising Star | 0.10% | ~668 |
 | Bucket List | 0.10% | ~668 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 668,219 (Ranked 22)  
+Progressed: 668,242 (Ranked 22)  
 Completed: 2,087 (0.31%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,7 +182,7 @@ Completed: 2,087 (0.31%) (Ranked 173)
 | 2023-08-26 | 666,250 | 2,078 |
 | 2023-08-27 | 667,273 | 2,082 |
 | 2023-08-28 | 668,091 | 2,086 |
-| 2023-08-29 | 668,219 | 2,087 |
+| 2023-08-29 | 668,242 | 2,087 |
 ## Awards
 Max (Great Boss Battles): 5,791  (Ranked 61)  
 Sum: 8,530 (Ranked 97)  

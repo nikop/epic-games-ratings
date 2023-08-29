@@ -33,9 +33,9 @@
 | Xevarian Gambit | 3.00% | ~4 |
 | Deputized | 3.00% | ~4 |
 | The Voice of Hereafter | 3.00% | ~4 |
+| Despised | 3.00% | ~4 |
 | A Terrible Will | 3.00% | ~4 |
 | Trouble at Fort Larius | 3.00% | ~4 |
-| Despised | 2.00% | ~3 |
 | Life... Finds a Way | 2.00% | ~3 |
 | Unseen Patterns | 2.00% | ~3 |
 | Making Contact | 1.00% | ~1 |

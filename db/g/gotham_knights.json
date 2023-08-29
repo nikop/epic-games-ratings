@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2552,9 +2552,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 68094,
+  "EOS_Progressed": 68095,
   "EOS_Completed": 109,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -13427,6 +13427,11 @@
       "Time": "2023-08-29T01:49:22.9271887+00:00",
       "NumProgressed": 68094,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2023-08-29T05:08:49.4692059+00:00",
+      "NumProgressed": 68095,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 61,
@@ -13502,7 +13507,7 @@
       "Name": "Showdown Sovereign",
       "Percentage": 0.4,
       "XP": 90,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ALL_TRAINING_ROOMS",
@@ -13622,7 +13627,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6128
+      "UsersEstimate": 6129
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -13654,7 +13659,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 6809
+      "UsersEstimate": 6810
     },
     {
       "ID": "FREEZE_1",
@@ -13662,7 +13667,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 19066
+      "UsersEstimate": 19067
     },
     {
       "ID": "FREEZE_1_5",
@@ -13782,7 +13787,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 34047
+      "UsersEstimate": 34048
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -13814,7 +13819,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 18385
+      "UsersEstimate": 18386
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -13902,7 +13907,7 @@
       "Name": "Solid Alibi",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6128
+      "UsersEstimate": 6129
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -13925,13 +13930,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 68094,
+      "Progressed": 68095,
       "Completed": 109
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38374,
+      "Progressed": 38375,
       "Completed": 2660
     }
   ],
@@ -13939,8 +13944,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-08-29T01:40:13.8908095+00:00",
-  "LastChanged_Achievements": "2023-08-29T04:08:29.9855093+00:00",
+  "LastChanged_Achievements": "2023-08-29T05:08:49.4692053+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:22.0819335+00:00",
-  "LastUpdate_Ratings": "2023-08-29T03:59:00.6849468+00:00",
-  "LastUpdate_Achievements": "2023-08-29T04:08:29.985643+00:00"
+  "LastUpdate_Ratings": "2023-08-29T04:58:54.1614265+00:00",
+  "LastUpdate_Achievements": "2023-08-29T05:08:49.4693538+00:00"
 }

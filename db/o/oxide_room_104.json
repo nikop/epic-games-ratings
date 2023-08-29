@@ -4,7 +4,7 @@
   "ProductSlug": "oxide-room-104-4c1249",
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -1020,8 +1020,8 @@
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2023-08-29T04:04:32.0486176+00:00",
+  "LastChanged_Achievements": "2023-08-29T05:04:08.7595427+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:23.1636916+00:00",
-  "LastUpdate_Ratings": "2023-08-29T04:00:56.6615103+00:00",
-  "LastUpdate_Achievements": "2023-08-29T04:04:32.0486438+00:00"
+  "LastUpdate_Ratings": "2023-08-29T05:01:08.5010729+00:00",
+  "LastUpdate_Achievements": "2023-08-29T05:04:08.7595722+00:00"
 }

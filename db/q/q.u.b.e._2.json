@@ -671,9 +671,9 @@
       "ID": "ACH_S5",
       "SetID": "232494e",
       "Name": "Cogs in the Machine",
-      "Percentage": 19,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_SANDSTORM",
@@ -687,9 +687,9 @@
       "ID": "ACH_STATUE",
       "SetID": "232494e",
       "Name": "Forgotten Memories",
-      "Percentage": 22,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     }
   ],
   "AchievementSets": [
@@ -703,8 +703,8 @@
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-08-29T04:07:36.1249599+00:00",
+  "LastChanged_Achievements": "2023-08-29T05:07:48.2782209+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:24.6161941+00:00",
-  "LastUpdate_Ratings": "2023-08-29T04:00:58.1636595+00:00",
-  "LastUpdate_Achievements": "2023-08-29T04:07:36.1249826+00:00"
+  "LastUpdate_Ratings": "2023-08-29T05:01:10.3443398+00:00",
+  "LastUpdate_Achievements": "2023-08-29T05:07:48.2782454+00:00"
 }

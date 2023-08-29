@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 158,
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 56,
+  "Ranking_EOS_NewPlayers": 55,
   "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
@@ -2662,9 +2662,9 @@
       "Count": 239
     }
   ],
-  "EOS_Progressed": 73695,
+  "EOS_Progressed": 73697,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 940,
+  "EOS_NewPlayers": 939,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -16967,6 +16967,11 @@
       "Time": "2023-08-29T04:08:25.8039425+00:00",
       "NumProgressed": 73695,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-08-29T05:08:44.6780429+00:00",
+      "NumProgressed": 73697,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 30,
@@ -16978,7 +16983,7 @@
       "Name": "First Journey",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 8843
+      "UsersEstimate": 8844
     },
     {
       "ID": "ACHIEVEMENT_01",
@@ -17018,7 +17023,7 @@
       "Name": "Landlord",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 8106
+      "UsersEstimate": 8107
     },
     {
       "ID": "ACHIEVEMENT_06",
@@ -17026,7 +17031,7 @@
       "Name": "Biggest Reward",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 10317
+      "UsersEstimate": 10318
     },
     {
       "ID": "ACHIEVEMENT_07",
@@ -17034,7 +17039,7 @@
       "Name": "Most Achievements",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 8106
+      "UsersEstimate": 8107
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -17058,7 +17063,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 27267
+      "UsersEstimate": 27268
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -17074,7 +17079,7 @@
       "Name": "Prop-M Rover",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 23582
+      "UsersEstimate": 23583
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -17138,7 +17143,7 @@
       "Name": "Acquired knowledge",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 9580
+      "UsersEstimate": 9581
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -17146,7 +17151,7 @@
       "Name": "Money money",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 11791
+      "UsersEstimate": 11792
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -17154,7 +17159,7 @@
       "Name": "Final touch",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 27267
+      "UsersEstimate": 27268
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -17178,7 +17183,7 @@
       "Name": "Hellenic Elysium",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 8843
+      "UsersEstimate": 8844
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -17194,7 +17199,7 @@
       "Name": "Grand champion",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 8843
+      "UsersEstimate": 8844
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -17217,15 +17222,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 73695,
+      "Progressed": 73697,
       "Completed": 95
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-08-23T21:59:53.4712134+00:00",
-  "LastChanged_Achievements": "2023-08-29T04:08:25.8039417+00:00",
+  "LastChanged_Achievements": "2023-08-29T05:08:44.6780421+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:03.9547788+00:00",
-  "LastUpdate_Ratings": "2023-08-29T04:02:00.1524653+00:00",
-  "LastUpdate_Achievements": "2023-08-29T04:08:25.8040718+00:00"
+  "LastUpdate_Ratings": "2023-08-29T05:02:26.1282832+00:00",
+  "LastUpdate_Achievements": "2023-08-29T05:08:44.6781744+00:00"
 }

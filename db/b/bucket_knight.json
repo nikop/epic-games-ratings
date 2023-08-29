@@ -4,7 +4,7 @@
   "ProductSlug": "bucket-knight-1ac30c",
   "Ranking_EOS_Progress": 562,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewPlayers": 337,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-07-04T17:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-16T18:59:59.7110846+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:16.0723365+00:00",
-  "LastUpdate_Ratings": "2023-08-29T03:57:54.5056369+00:00",
-  "LastUpdate_Achievements": "2023-08-29T04:06:39.1579342+00:00"
+  "LastUpdate_Ratings": "2023-08-29T04:57:38.2889485+00:00",
+  "LastUpdate_Achievements": "2023-08-29T05:06:43.001343+00:00"
 }

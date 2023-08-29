@@ -5,11 +5,11 @@ Rating: 4.18 (Ranked 878)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~34,047 |
+| First Step Into the Knight | 50.00% | ~34,048 |
 | Har, Har, Har, Very Funny | 35.00% | ~23,833 |
 | Loose Ends | 34.00% | ~23,152 |
-| To the Victor Go the Spoils | 28.00% | ~19,066 |
-| Knighthood | 27.00% | ~18,385 |
+| To the Victor Go the Spoils | 28.00% | ~19,067 |
+| Knighthood | 27.00% | ~18,386 |
 | Get ReQ'd | 25.00% | ~17,024 |
 | Whispered Words | 25.00% | ~17,024 |
 | The Batman Family | 22.00% | ~14,981 |
@@ -35,9 +35,9 @@ Rating: 4.18 (Ranked 878)
 | Bulldozed | 12.00% | ~8,171 |
 | Gotham Knight | 12.00% | ~8,171 |
 | Gotham City Confidential | 11.00% | ~7,490 |
-| Drone You Out | 10.00% | ~6,809 |
-| Out of Their League | 9.00% | ~6,128 |
-| Solid Alibi | 9.00% | ~6,128 |
+| Drone You Out | 10.00% | ~6,810 |
+| Out of Their League | 9.00% | ~6,129 |
+| Solid Alibi | 9.00% | ~6,129 |
 | Fusion Expert | 7.00% | ~4,767 |
 | Family Meeting | 6.00% | ~4,086 |
 | A Worthy Successor | 6.00% | ~4,086 |
@@ -59,7 +59,7 @@ Rating: 4.18 (Ranked 878)
 | Don't Mecha Big Deal About It | 0.60% | ~230 |
 | Confronting Your Demon | 0.60% | ~230 |
 | That's Showbiz, Clayby | 0.50% | ~192 |
-| Showdown Sovereign | 0.40% | ~153 |
+| Showdown Sovereign | 0.40% | ~154 |
 | Hammer and Icicle | 0.30% | ~115 |
 | Renewable Enemy Source | 0.30% | ~115 |
 | Crime Is a Terrible Thing to Waste | 0.30% | ~115 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 878)
 | Element of Surprise | 0.20% | ~77 |
 | It's Nice to Be Wanted | 0.20% | ~77 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,094 (Ranked 81)  
+Progressed: 68,095 (Ranked 81)  
 Completed: 109 (0.16%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 109 (0.16%) (Ranked 197)
 | 2023-08-26 | 68,056 | 109 |
 | 2023-08-27 | 68,080 | 109 |
 | 2023-08-28 | 68,093 | 109 |
-| 2023-08-29 | 68,094 | 109 |
+| 2023-08-29 | 68,095 | 109 |
 ## Awards
 Max (Great Boss Battles): 2,524  (Ranked 100)  
 Sum: 4,202 (Ranked 139)  

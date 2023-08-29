@@ -6,34 +6,34 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~15,134 |
-| That's a Grand Army | 3.00% | ~11,350 |
-| That is mine! | 3.00% | ~11,350 |
-| Victorious! | 3.00% | ~11,350 |
-| Brothers in Arms | 2.00% | ~7,567 |
-| That's a Grand Navy | 2.00% | ~7,567 |
-| Seriously?! | 2.00% | ~7,567 |
-| Cold War | 1.00% | ~3,783 |
-| Defender of the Faith | 1.00% | ~3,783 |
-| For the Glory | 1.00% | ~3,783 |
-| It's all about the money | 1.00% | ~3,783 |
-| True Catholic | 1.00% | ~3,783 |
+| Until death do us apart | 4.00% | ~15,135 |
+| That's a Grand Army | 3.00% | ~11,352 |
+| That is mine! | 3.00% | ~11,352 |
+| Victorious! | 3.00% | ~11,352 |
+| Brothers in Arms | 2.00% | ~7,568 |
+| That's a Grand Navy | 2.00% | ~7,568 |
+| Seriously?! | 2.00% | ~7,568 |
+| Cold War | 1.00% | ~3,784 |
+| Defender of the Faith | 1.00% | ~3,784 |
+| For the Glory | 1.00% | ~3,784 |
+| It's all about the money | 1.00% | ~3,784 |
+| True Catholic | 1.00% | ~3,784 |
 | The Princess is in this Castle | 0.90% | ~3,405 |
 | It's all about luck | 0.80% | ~3,027 |
 | Respected | 0.80% | ~3,027 |
 | Truly Divine Ruler | 0.80% | ~3,027 |
-| Blockader | 0.70% | ~2,648 |
-| Double the Love | 0.70% | ~2,648 |
+| Blockader | 0.70% | ~2,649 |
+| Double the Love | 0.70% | ~2,649 |
 | Royal Authority | 0.60% | ~2,270 |
 | Total Control | 0.60% | ~2,270 |
 | Combined Arms | 0.50% | ~1,892 |
 | My armies are invincible! | 0.50% | ~1,892 |
-| Agressive Expander | 0.40% | ~1,513 |
-| Azur semé de lis or | 0.40% | ~1,513 |
-| City of Cities | 0.40% | ~1,513 |
-| Gentle Persuasion | 0.40% | ~1,513 |
-| Queen of Conquest | 0.40% | ~1,513 |
-| This navy can take it all | 0.40% | ~1,513 |
+| Agressive Expander | 0.40% | ~1,514 |
+| Azur semé de lis or | 0.40% | ~1,514 |
+| City of Cities | 0.40% | ~1,514 |
+| Gentle Persuasion | 0.40% | ~1,514 |
+| Queen of Conquest | 0.40% | ~1,514 |
+| This navy can take it all | 0.40% | ~1,514 |
 | All That's Thine Shall Be Mine | 0.30% | ~1,135 |
 | Bright Spark | 0.30% | ~1,135 |
 | The Emperors new clothes | 0.30% | ~1,135 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 378,348 (Ranked 41)  
+Progressed: 378,385 (Ranked 41)  
 Completed: 0 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -492,14 +492,14 @@ Completed: 0 (0.00%) (Ranked 265)
 | 2023-08-26 | 372,695 | 0 |
 | 2023-08-27 | 375,728 | 0 |
 | 2023-08-28 | 378,067 | 0 |
-| 2023-08-29 | 378,348 | 0 |
+| 2023-08-29 | 378,385 | 0 |
 ## Awards
-Max (Educational): 5,814  (Ranked 60)  
-Sum: 48,016 (Ranked 26)  
+Max (Educational): 5,827  (Ranked 60)  
+Sum: 48,029 (Ranked 26)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 5,814 |
+| This game is Educational | 5,827 |
 | This game is Highly Recommended | 5,573 |
 | This game is Extremely Fun | 5,529 |
 | This game has Challenging Combat | 5,527 |
@@ -736,4 +736,4 @@ Diff (max vs sum): 34
 | 2023-08-26 | 4.68 | - | 5,793 | 47,803 |
 | 2023-08-27 | 4.68 | - | 5,814 | 47,909 |
 | 2023-08-28 | 4.68 | - | 5,814 | 47,997 |
-| 2023-08-29 | 4.68 | - | 5,814 | 48,016 |
+| 2023-08-29 | 4.68 | - | 5,827 | 48,029 |

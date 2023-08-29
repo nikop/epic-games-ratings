@@ -5782,7 +5782,7 @@
       "Count": 3739
     }
   ],
-  "EOS_Progressed": 135304,
+  "EOS_Progressed": 135305,
   "EOS_Completed": 138,
   "EOS_NewPlayers": 387,
   "EOS_NewCompleters": 4,
@@ -19177,6 +19177,11 @@
       "Time": "2023-08-29T04:03:27.5663507+00:00",
       "NumProgressed": 135304,
       "NumCompleted": 138
+    },
+    {
+      "Time": "2023-08-29T05:03:17.5298802+00:00",
+      "NumProgressed": 135305,
+      "NumCompleted": 138
     }
   ],
   "TotalAchievements": 112,
@@ -19314,9 +19319,9 @@
       "ID": "bookentry",
       "SetID": "anfd17p",
       "Name": "Vanity, Verily",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 541
+      "UsersEstimate": 677
     },
     {
       "ID": "boss01",
@@ -20042,9 +20047,9 @@
       "ID": "uncommonres03",
       "SetID": "anfd17p",
       "Name": "Economy of Scarce",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 271
+      "UsersEstimate": 406
     },
     {
       "ID": "workers01",
@@ -20083,15 +20088,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135304,
+      "Progressed": 135305,
       "Completed": 138
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-29T03:57:31.6368702+00:00",
-  "LastChanged_Achievements": "2023-08-29T04:03:27.56635+00:00",
+  "LastChanged_Achievements": "2023-08-29T05:03:17.5298795+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:19.0477827+00:00",
-  "LastUpdate_Ratings": "2023-08-29T03:57:31.6368709+00:00",
-  "LastUpdate_Achievements": "2023-08-29T04:03:27.566621+00:00"
+  "LastUpdate_Ratings": "2023-08-29T04:57:10.7677139+00:00",
+  "LastUpdate_Achievements": "2023-08-29T05:03:17.5300943+00:00"
 }
