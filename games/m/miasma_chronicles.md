@@ -10,7 +10,7 @@ Rating: 4.43 (Ranked 665)
 | Aspiring Editor | 75.00% | ~1,033 |
 | Gun for Hire | 70.00% | ~964 |
 | I am the law! | 64.00% | ~881 |
-| Lumberjack | 53.00% | ~730 |
+| Lumberjack | 54.00% | ~744 |
 | Croaked | 49.00% | ~675 |
 | Limp Richard | 48.00% | ~661 |
 | Exorcist | 48.00% | ~661 |
@@ -34,7 +34,7 @@ Rating: 4.43 (Ranked 665)
 | There Can Be Only One! | 26.00% | ~358 |
 | Chain Killer | 23.00% | ~317 |
 | The Watchers | 22.00% | ~303 |
-| Silent but Violent | 19.00% | ~262 |
+| Silent but Violent | 20.00% | ~275 |
 | Commando | 17.00% | ~234 |
 | Chaos Theory | 16.00% | ~220 |
 | Dr Jones | 16.00% | ~220 |

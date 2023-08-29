@@ -4,7 +4,7 @@
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 541,
+  "EOS_Progressed": 542,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.29,
   "EosHistory": [
@@ -1176,6 +1176,11 @@
       "Time": "2023-08-29T17:06:27.4260026+00:00",
       "NumProgressed": 541,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-29T21:05:43.5744413+00:00",
+      "NumProgressed": 542,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1196,7 +1201,7 @@
       "Name": "A New Journey",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "_03_FinishAct1",
@@ -1212,7 +1217,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "_05_FinishAct2",
@@ -1220,7 +1225,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -1244,7 +1249,7 @@
       "Name": "Swabbie",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "_09_Completion_20",
@@ -1260,7 +1265,7 @@
       "Name": "Buccaneer",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "_11_Completion_40",
@@ -1308,7 +1313,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -1356,7 +1361,7 @@
       "Name": "Accursed Artifacts",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "_23_CrewTale_CNN",
@@ -1364,7 +1369,7 @@
       "Name": "Lyrical Longing",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "_24_CrewTale_SNP",
@@ -1395,14 +1400,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 541,
+      "Progressed": 542,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-29T20:06:09.2886738+00:00",
+  "LastChanged_Achievements": "2023-08-29T21:05:43.5744403+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:45.1302228+00:00",
-  "LastUpdate_Ratings": "2023-08-29T20:01:59.9520554+00:00",
-  "LastUpdate_Achievements": "2023-08-29T20:06:09.2887008+00:00"
+  "LastUpdate_Ratings": "2023-08-29T21:01:00.8085733+00:00",
+  "LastUpdate_Achievements": "2023-08-29T21:05:43.5744659+00:00"
 }

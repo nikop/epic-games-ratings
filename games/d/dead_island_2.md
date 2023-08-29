@@ -8,6 +8,7 @@ Rating: 4.54 (Ranked 502)
 | Hotel California | 0.60% | ~4,013 |
 | Welcome To Hell-A | 0.60% | ~4,013 |
 | Break A Leg | 0.50% | ~3,344 |
+| Coup de Grâce | 0.50% | ~3,344 |
 | Hazardous Materials | 0.50% | ~3,344 |
 | Personal Assistant Personally Assisted | 0.50% | ~3,344 |
 | Dr. Reed, I Presume? | 0.40% | ~2,675 |
@@ -16,7 +17,6 @@ Rating: 4.54 (Ranked 502)
 | But Doctor, I am Butcho | 0.40% | ~2,675 |
 | Slayer Squad | 0.40% | ~2,675 |
 | Can't Handle the Truth | 0.40% | ~2,675 |
-| Coup de Grâce | 0.40% | ~2,675 |
 | Like Riding a Bike | 0.40% | ~2,675 |
 | Friends Like These | 0.40% | ~2,675 |
 | Apex Predator | 0.40% | ~2,675 |
@@ -28,11 +28,11 @@ Rating: 4.54 (Ranked 502)
 | Perks of the Job | 0.30% | ~2,006 |
 | I Got a Zombie Army and You Can't Harm Me | 0.30% | ~2,006 |
 | Ooh, Shiny! | 0.30% | ~2,006 |
+| Humanity Distilled | 0.30% | ~2,006 |
 | I Am the Resurrection | 0.30% | ~2,006 |
 | Our True Nature | 0.30% | ~2,006 |
 | Making Your Mark | 0.20% | ~1,338 |
 | Jumbo Keyring | 0.20% | ~1,338 |
-| Humanity Distilled | 0.20% | ~1,338 |
 | Down with the Sickness | 0.20% | ~1,338 |
 | Max Headroom | 0.20% | ~1,338 |
 | Go, Bobcats! | 0.20% | ~1,338 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 502)
 | Variety is the Spice of Death | 0.10% | ~669 |
 | Bucket List | 0.10% | ~669 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 668,789 (Ranked 22)  
+Progressed: 668,830 (Ranked 22)  
 Completed: 2,088 (0.31%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,7 +182,7 @@ Completed: 2,088 (0.31%) (Ranked 174)
 | 2023-08-26 | 666,250 | 2,078 |
 | 2023-08-27 | 667,273 | 2,082 |
 | 2023-08-28 | 668,091 | 2,086 |
-| 2023-08-29 | 668,789 | 2,088 |
+| 2023-08-29 | 668,830 | 2,088 |
 ## Awards
 Max (Great Boss Battles): 5,808  (Ranked 61)  
 Sum: 8,548 (Ranked 97)  

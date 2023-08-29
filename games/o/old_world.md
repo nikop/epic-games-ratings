@@ -8,7 +8,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | ---- | ---------- | ----- |
 | Explorer | 4.00% | ~546 |
 | Settler | 4.00% | ~546 |
-| Friendly Family | 4.00% | ~546 |
 | Play a Single Player Game | 4.00% | ~546 |
 | The Clergy | 4.00% | ~546 |
 | Able | 3.00% | ~410 |
@@ -18,6 +17,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mason | 3.00% | ~410 |
 | Noble | 3.00% | ~410 |
 | Strong | 3.00% | ~410 |
+| Friendly Family | 3.00% | ~410 |
 | Hanging Gardens | 3.00% | ~410 |
 | Ambitious | 2.00% | ~273 |
 | Brilliant | 2.00% | ~273 |
@@ -88,6 +88,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Power to the People | 0.90% | ~123 |
 | Persian Paganism | 0.90% | ~123 |
 | Legalism | 0.90% | ~123 |
+| Invincible | 0.80% | ~109 |
 | Subjugator | 0.80% | ~109 |
 | Good Difficulty | 0.80% | ~109 |
 | Statesmen | 0.80% | ~109 |
@@ -102,7 +103,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Phalangite | 0.80% | ~109 |
 | Win a Single Player Game | 0.80% | ~109 |
 | Capable | 0.70% | ~96 |
-| Invincible | 0.70% | ~96 |
 | Ready | 0.70% | ~96 |
 | Riders | 0.70% | ~96 |
 | Church of the Holy Sepulchre | 0.70% | ~96 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,657 (Ranked 120)  
+Progressed: 13,659 (Ranked 120)  
 Completed: 5 (0.04%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -434,7 +434,7 @@ Completed: 5 (0.04%) (Ranked 236)
 | 2023-08-26 | 13,590 | 5 |
 | 2023-08-27 | 13,616 | 5 |
 | 2023-08-28 | 13,635 | 5 |
-| 2023-08-29 | 13,657 | 5 |
+| 2023-08-29 | 13,659 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,799 (Ranked 207)  

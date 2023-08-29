@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 604,
+  "EOS_Progressed": 606,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -2131,6 +2131,11 @@
       "Time": "2023-08-29T20:05:30.6463053+00:00",
       "NumProgressed": 604,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-29T21:05:10.7249404+00:00",
+      "NumProgressed": 606,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2158,7 +2163,7 @@
       "Name": "Basic Controls",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "BigPlane",
@@ -2166,7 +2171,7 @@
       "Name": "Expensive Plane",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "BudgetFlight",
@@ -2174,15 +2179,15 @@
       "Name": "Budget Flight",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "Calculated",
       "SetID": "1e89b4i",
       "Name": "Calculated",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 121
+      "UsersEstimate": 115
     },
     {
       "ID": "Close",
@@ -2206,7 +2211,7 @@
       "Name": "Debtor",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "EdgeOfTheWorld",
@@ -2230,7 +2235,7 @@
       "Name": "Fifty",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "First",
@@ -2270,7 +2275,7 @@
       "Name": "Lack of Time",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "LargeAirport",
@@ -2324,9 +2329,9 @@
       "ID": "MaximumUpgrade",
       "SetID": "1e89b4i",
       "Name": "Maximum Upgrade",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 91
     },
     {
       "ID": "Millionaire",
@@ -2350,7 +2355,7 @@
       "Name": "No Time for Modernization",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "NoWayBack",
@@ -2414,7 +2419,7 @@
       "Name": "Resource Economy",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "Restructuring",
@@ -2470,21 +2475,21 @@
       "Name": "Transport Hub",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 604,
+      "Progressed": 606,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-08-29T20:05:30.6463045+00:00",
+  "LastChanged_Achievements": "2023-08-29T21:05:10.7249398+00:00",
   "LastUpdate_AppInfo": "2023-08-29T11:57:10.9614599+00:00",
-  "LastUpdate_Ratings": "2023-08-29T20:00:39.6803079+00:00",
-  "LastUpdate_Achievements": "2023-08-29T20:05:30.6463566+00:00"
+  "LastUpdate_Ratings": "2023-08-29T20:59:52.7991018+00:00",
+  "LastUpdate_Achievements": "2023-08-29T21:05:10.7249864+00:00"
 }

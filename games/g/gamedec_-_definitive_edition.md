@@ -6,17 +6,17 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~68,342 |
-| Powergamer | 27.00% | ~65,901 |
-| Barely scratched the surface | 25.00% | ~61,019 |
-| Write that down | 24.00% | ~58,578 |
-| Guns, lots of guns | 12.00% | ~29,289 |
-| Collector | 11.00% | ~26,848 |
+| I will finish what you started | 28.00% | ~68,343 |
+| Powergamer | 27.00% | ~65,902 |
+| Barely scratched the surface | 25.00% | ~61,020 |
+| Write that down | 24.00% | ~58,580 |
+| Guns, lots of guns | 12.00% | ~29,290 |
+| Collector | 11.00% | ~26,849 |
 | Elementary! | 9.00% | ~21,967 |
-| Pumpkin Jack | 8.00% | ~19,526 |
-| Wake up! | 8.00% | ~19,526 |
-| It's honest work | 7.00% | ~17,085 |
-| Griever | 7.00% | ~17,085 |
+| Pumpkin Jack | 8.00% | ~19,527 |
+| Wake up! | 8.00% | ~19,527 |
+| It's honest work | 7.00% | ~17,086 |
+| Griever | 7.00% | ~17,086 |
 | Me smart | 6.00% | ~14,645 |
 | Trash compactor | 6.00% | ~14,645 |
 | Good listener | 5.00% | ~12,204 |
@@ -35,6 +35,7 @@ Number of Ratings: 33  (23.09.2022)
 | Mama, I'm a criminal | 2.00% | ~4,882 |
 | Never gonna give you up | 2.00% | ~4,882 |
 | A muscle to rely on | 1.00% | ~2,441 |
+| A true blacksmith | 1.00% | ~2,441 |
 | Catnip | 1.00% | ~2,441 |
 | I am in great pain, please help me | 1.00% | ~2,441 |
 | High noon | 1.00% | ~2,441 |
@@ -42,7 +43,6 @@ Number of Ratings: 33  (23.09.2022)
 | SysOp on duty | 1.00% | ~2,441 |
 | Take the blue pill | 1.00% | ~2,441 |
 | The power of three | 1.00% | ~2,441 |
-| A true blacksmith | 0.90% | ~2,197 |
 | Let's try another | 0.80% | ~1,953 |
 | Home run | 0.80% | ~1,953 |
 | I have the high ground | 0.70% | ~1,709 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~488 |
 | Memory 5 | 0.10% | ~244 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 244,077 (Ranked 48)  
+Progressed: 244,082 (Ranked 48)  
 Completed: 7 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 7 (0.00%) (Ranked 266)
 | 2023-08-26 | 243,688 | 7 |
 | 2023-08-27 | 243,850 | 7 |
 | 2023-08-28 | 243,979 | 7 |
-| 2023-08-29 | 244,077 | 7 |
+| 2023-08-29 | 244,082 | 7 |
 ## Awards
 Max (Character Customization): 79  (Ranked 363)  
 Sum: 79 (Ranked 428)  

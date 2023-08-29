@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-2-970dc3",
   "Ranking_EOS_Progress": 373,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewPlayers": 297,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -313,9 +313,9 @@
       "ID": "CgkInO_K3eIdEAIQBA",
       "SetID": "6bj96in",
       "Name": "TRAINING DAY",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 40,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "CgkInO_K3eIdEAIQBQ",
@@ -385,9 +385,9 @@
       "ID": "CgkInO_K3eIdEAIQDQ",
       "SetID": "6bj96in",
       "Name": "TEMPORAL ARCHITECT",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 40,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "CgkInO_K3eIdEAIQDg",
@@ -409,9 +409,9 @@
       "ID": "CgkInO_K3eIdEAIQEA",
       "SetID": "6bj96in",
       "Name": "EAGLE EYED",
-      "Percentage": 76,
+      "Percentage": 78,
       "XP": 40,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "CgkInO_K3eIdEAIQEQ",
@@ -504,8 +504,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-08-29T20:08:24.4963214+00:00",
+  "LastChanged_Achievements": "2023-08-29T21:07:40.8336973+00:00",
   "LastUpdate_AppInfo": "2023-08-23T17:57:10.7957602+00:00",
-  "LastUpdate_Ratings": "2023-08-29T20:00:31.5751379+00:00",
-  "LastUpdate_Achievements": "2023-08-29T20:08:24.4963442+00:00"
+  "LastUpdate_Ratings": "2023-08-29T20:59:46.5142658+00:00",
+  "LastUpdate_Achievements": "2023-08-29T21:07:40.8337173+00:00"
 }

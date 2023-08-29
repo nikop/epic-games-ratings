@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 60,
+  "Ranking_EOS_NewPlayers": 61,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -34,9 +34,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9562,
+  "EOS_Progressed": 9567,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 794,
+  "EOS_NewPlayers": 790,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3604,6 +3604,11 @@
       "Time": "2023-08-29T20:03:51.4684497+00:00",
       "NumProgressed": 9562,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-29T21:03:53.7829858+00:00",
+      "NumProgressed": 9567,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -3664,7 +3669,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 2104
+      "UsersEstimate": 2105
     },
     {
       "ID": "16",
@@ -3688,7 +3693,7 @@
       "Name": "Bottoms up!",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "19",
@@ -3704,7 +3709,7 @@
       "Name": "Data Logger",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "20",
@@ -3712,7 +3717,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "21",
@@ -3792,7 +3797,7 @@
       "Name": "Captain Drummer",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1721
+      "UsersEstimate": 1722
     },
     {
       "ID": "30",
@@ -3824,7 +3829,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1434
+      "UsersEstimate": 1435
     },
     {
       "ID": "7",
@@ -3840,22 +3845,22 @@
       "Name": "Data Recoverer",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "9",
       "SetID": "458bbdk",
       "Name": "Impossible Objects",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1912
+      "UsersEstimate": 2009
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 9562,
+      "Progressed": 9567,
       "Completed": 0
     }
   ],
@@ -3863,8 +3868,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-08-27T16:57:45.7126871+00:00",
-  "LastChanged_Achievements": "2023-08-29T20:03:51.4684491+00:00",
+  "LastChanged_Achievements": "2023-08-29T21:03:53.7829853+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:45.4170889+00:00",
-  "LastUpdate_Ratings": "2023-08-29T19:58:26.0602668+00:00",
-  "LastUpdate_Achievements": "2023-08-29T20:03:51.4684883+00:00"
+  "LastUpdate_Ratings": "2023-08-29T20:58:02.8238808+00:00",
+  "LastUpdate_Achievements": "2023-08-29T21:03:53.7830303+00:00"
 }

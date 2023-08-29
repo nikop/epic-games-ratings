@@ -738,9 +738,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 219026,
+  "EOS_Progressed": 219049,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3036,
+  "EOS_NewPlayers": 3046,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8793,6 +8793,11 @@
       "Time": "2023-08-29T20:04:17.1795329+00:00",
       "NumProgressed": 219026,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-29T21:04:07.2130735+00:00",
+      "NumProgressed": 219049,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -9252,7 +9257,7 @@
       "Name": "Sowwy!",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 56947
+      "UsersEstimate": 56953
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -9426,9 +9431,9 @@
       "ID": "RangerEpic",
       "SetID": "50chcgj",
       "Name": "The Ranger of Chaos",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1533
+      "UsersEstimate": 1752
     },
     {
       "ID": "Rogue30Backstab",
@@ -9507,21 +9512,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 219026,
+      "Progressed": 219049,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 219026,
+      "Progressed": 219049,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-28T16:02:03.5571775+00:00",
-  "LastChanged_Achievements": "2023-08-29T20:04:17.1795322+00:00",
+  "LastChanged_Achievements": "2023-08-29T21:04:07.213073+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:41.9661267+00:00",
-  "LastUpdate_Ratings": "2023-08-29T19:57:21.4035628+00:00",
-  "LastUpdate_Achievements": "2023-08-29T20:04:17.17972+00:00"
+  "LastUpdate_Ratings": "2023-08-29T20:57:08.7667751+00:00",
+  "LastUpdate_Achievements": "2023-08-29T21:04:07.2132491+00:00"
 }

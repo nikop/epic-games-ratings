@@ -6,24 +6,24 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 41.00% | ~6,107 |
+| Tattletale | 41.00% | ~6,108 |
 | Man of politics | 35.00% | ~5,214 |
 | Friends of sorts | 33.00% | ~4,916 |
 | Yet another secret | 33.00% | ~4,916 |
 | Let there be darkness | 32.00% | ~4,767 |
 | End of Book One | 30.00% | ~4,469 |
-| Wannabe knight | 24.00% | ~3,575 |
-| Garden of Eden | 24.00% | ~3,575 |
-| Full house | 24.00% | ~3,575 |
-| Help an old friend | 22.00% | ~3,277 |
-| Two of us | 20.00% | ~2,979 |
-| Negotiation skills | 18.00% | ~2,681 |
-| Workers' union | 18.00% | ~2,681 |
-| End of Book Two | 18.00% | ~2,681 |
-| Everything's in order | 17.00% | ~2,532 |
-| Twist of Fate | 14.00% | ~2,085 |
-| Jack was here! | 14.00% | ~2,085 |
-| Exterminator | 13.00% | ~1,936 |
+| Wannabe knight | 24.00% | ~3,576 |
+| Garden of Eden | 24.00% | ~3,576 |
+| Full house | 24.00% | ~3,576 |
+| Help an old friend | 22.00% | ~3,278 |
+| Two of us | 20.00% | ~2,980 |
+| Negotiation skills | 18.00% | ~2,682 |
+| Workers' union | 18.00% | ~2,682 |
+| End of Book Two | 18.00% | ~2,682 |
+| Everything's in order | 17.00% | ~2,533 |
+| Twist of Fate | 14.00% | ~2,086 |
+| Jack was here! | 14.00% | ~2,086 |
+| Exterminator | 13.00% | ~1,937 |
 | Whodunnit | 12.00% | ~1,788 |
 | Friar Tuck | 11.00% | ~1,639 |
 | First profit | 11.00% | ~1,639 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~447 |
 | Boy of mystery | 2.00% | ~298 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,896 (Ranked 118)  
+Progressed: 14,898 (Ranked 118)  
 Completed: 110 (0.74%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 110 (0.74%) (Ranked 131)
 | 2023-08-26 | 14,831 | 110 |
 | 2023-08-27 | 14,854 | 110 |
 | 2023-08-28 | 14,878 | 110 |
-| 2023-08-29 | 14,896 | 110 |
+| 2023-08-29 | 14,898 | 110 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 300)  
 Sum: 188 (Ranked 376)  

@@ -6,8 +6,8 @@
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 227,
-  "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_Completed": 166,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -280,11 +280,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 547,
+  "EOS_Progressed": 548,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.37,
+  "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.4589703+00:00",
@@ -1590,6 +1590,11 @@
       "Time": "2023-08-29T19:07:14.0012363+00:00",
       "NumProgressed": 547,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-29T21:06:34.9894381+00:00",
+      "NumProgressed": 548,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 19,
@@ -1615,17 +1620,17 @@
       "ID": "custom-sandbox",
       "SetID": "bed33dd",
       "Name": "Architect of Fortunes",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 148
+      "UsersEstimate": 142
     },
     {
       "ID": "dont-miss-calls",
       "SetID": "bed33dd",
       "Name": "Didn\u0027t Miss A Single One",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 252
+      "UsersEstimate": 247
     },
     {
       "ID": "female-conqueror",
@@ -1649,15 +1654,15 @@
       "Name": "Our Man",
       "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "kill-lieutenants",
       "SetID": "bed33dd",
       "Name": "Spreading Fear",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 49
     },
     {
       "ID": "pack-and-sell",
@@ -1665,7 +1670,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "play-at-night",
@@ -1703,9 +1708,9 @@
       "ID": "rob-village",
       "SetID": "bed33dd",
       "Name": "Bite the Blow",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 132
     },
     {
       "ID": "sell-variety",
@@ -1729,7 +1734,7 @@
       "Name": "Pampered Life",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "upgrade-building",
@@ -1752,15 +1757,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 547,
+      "Progressed": 548,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-08-29T20:07:08.598307+00:00",
+  "LastChanged_Achievements": "2023-08-29T21:06:34.9894374+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:10.4732952+00:00",
-  "LastUpdate_Ratings": "2023-08-29T19:59:41.3253096+00:00",
-  "LastUpdate_Achievements": "2023-08-29T20:07:08.5983657+00:00"
+  "LastUpdate_Ratings": "2023-08-29T20:59:04.5620452+00:00",
+  "LastUpdate_Achievements": "2023-08-29T21:06:34.9894597+00:00"
 }

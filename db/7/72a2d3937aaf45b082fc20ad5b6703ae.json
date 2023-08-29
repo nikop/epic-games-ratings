@@ -4,7 +4,7 @@
   "ProductSlug": "the-making-of-karateka-7d9a6c",
   "Ranking_EOS_Progress": 498,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewPlayers": 297,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-08-29T16:00:00+00:00",
@@ -52,9 +52,9 @@
       "ID": "deathbouncer",
       "SetID": "l4g2eh",
       "Name": "Deathbouncer",
-      "Percentage": 100,
+      "Percentage": 150,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "down_ship",
@@ -108,9 +108,9 @@
       "ID": "little_star",
       "SetID": "l4g2eh",
       "Name": "Little Star",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "minimalist",
@@ -202,8 +202,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-04T19:02:29.8301885+00:00",
-  "LastChanged_Achievements": "2023-08-29T20:06:56.8919667+00:00",
+  "LastChanged_Achievements": "2023-08-29T21:06:24.7049072+00:00",
   "LastUpdate_AppInfo": "2023-08-25T20:57:03.2915213+00:00",
-  "LastUpdate_Ratings": "2023-08-29T20:00:02.542944+00:00",
-  "LastUpdate_Achievements": "2023-08-29T20:06:56.8919889+00:00"
+  "LastUpdate_Ratings": "2023-08-29T20:59:22.237881+00:00",
+  "LastUpdate_Achievements": "2023-08-29T21:06:24.7049221+00:00"
 }
