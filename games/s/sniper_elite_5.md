@@ -11,7 +11,7 @@ Rating: 4.45 (Ranked 636)
 | It's Starting to Crack | 33.00% | ~1,171 |
 | Change the Channel | 30.00% | ~1,064 |
 | Lord of War | 29.00% | ~1,029 |
-| Taking it back | 27.00% | ~958 |
+| Taking it back | 28.00% | ~993 |
 | Resourceful | 26.00% | ~922 |
 | Target America | 25.00% | ~887 |
 | The Kraken Sleeps | 23.00% | ~816 |

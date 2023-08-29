@@ -4,7 +4,7 @@
   "ProductSlug": "the-great-war-western-front",
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 400,
+  "EOS_Progressed": 401,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1764,6 +1764,11 @@
       "Time": "2023-08-29T08:04:56.8649649+00:00",
       "NumProgressed": 400,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-29T23:06:03.2891587+00:00",
+      "NumProgressed": 401,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -1813,7 +1818,7 @@
       "ID": "DESTROY_100_EMPLACEMENTS_WITH_BOMBERS",
       "SetID": "6kcl14p",
       "Name": "Bombs Away!",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 60,
       "UsersEstimate": 1
     },
@@ -1837,9 +1842,9 @@
       "ID": "USE_UNDERMINE",
       "SetID": "6kcl14p",
       "Name": "Earth Shattering",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 90,
-      "UsersEstimate": 196
+      "UsersEstimate": 192
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
@@ -1853,9 +1858,9 @@
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
       "SetID": "6kcl14p",
       "Name": "Das Ist Endg\u00FCltig!",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 72
+      "UsersEstimate": 68
     },
     {
       "ID": "WIN_CAMPAIGN_MILITARY_VICTORY",
@@ -1870,7 +1875,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 400,
+      "Progressed": 401,
       "Completed": 0
     }
   ],
@@ -1878,8 +1883,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
-  "LastChanged_Achievements": "2023-08-29T22:05:29.7657671+00:00",
+  "LastChanged_Achievements": "2023-08-29T23:06:03.2891582+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:18.7692809+00:00",
-  "LastUpdate_Ratings": "2023-08-29T21:57:20.1632312+00:00",
-  "LastUpdate_Achievements": "2023-08-29T22:05:29.7657836+00:00"
+  "LastUpdate_Ratings": "2023-08-29T22:57:19.7839+00:00",
+  "LastUpdate_Achievements": "2023-08-29T23:06:03.289198+00:00"
 }

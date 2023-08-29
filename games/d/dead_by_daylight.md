@@ -6,6 +6,7 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| It wakes | 0.20% | ~1,656 |
 | MU/TH/UR Dearest | 0.20% | ~1,656 |
 | The Grand Sacrifice | 0.10% | ~828 |
 | A bite for the Entity | 0.10% | ~828 |
@@ -29,7 +30,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Perfect Escape | 0.10% | ~828 |
 | Perfect Killing | 0.10% | ~828 |
 | Zealous | 0.10% | ~828 |
-| It wakes | 0.10% | ~828 |
 | Not half bad | 0.10% | ~828 |
 | Bloody Millionaire | 0.10% | ~828 |
 | Gifts for the Fog | 0.10% | ~828 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Disarm and Dismember | 0.00% | ~0 |
 | Kitted Out | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 827,840 (Ranked 15)  
+Progressed: 828,020 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -367,7 +367,7 @@ Completed: 48 (0.01%) (Ranked 253)
 | 2023-08-26 | 818,878 | 48 |
 | 2023-08-27 | 822,167 | 48 |
 | 2023-08-28 | 824,988 | 48 |
-| 2023-08-29 | 827,840 | 48 |
+| 2023-08-29 | 828,020 | 48 |
 ## Awards
 Max (Diverse Characters): 31,566  (Ranked 15)  
 Sum: 247,948 (Ranked 11)  

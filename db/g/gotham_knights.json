@@ -2490,10 +2490,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4205,
       "NumberOfAwardsMax": 2527
+    },
+    {
+      "Time": "2023-08-29T22:58:54.5779778+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4206,
+      "NumberOfAwardsMax": 2527
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4205,
+  "NumberOfAwards": 4206,
   "NumberOfAwardsMax": 2527,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2513,7 +2519,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 208
+      "Count": 209
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2558,9 +2564,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 68107,
+  "EOS_Progressed": 68108,
   "EOS_Completed": 110,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -13473,6 +13479,11 @@
       "Time": "2023-08-29T22:02:10.8523549+00:00",
       "NumProgressed": 68107,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2023-08-29T23:03:07.5088617+00:00",
+      "NumProgressed": 68108,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 61,
@@ -13588,7 +13599,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 14302
+      "UsersEstimate": 14303
     },
     {
       "ID": "CLAYFACE_2",
@@ -13628,7 +13639,7 @@
       "Name": "Fusion Expert",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 4767
+      "UsersEstimate": 4768
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -13716,7 +13727,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 14302
+      "UsersEstimate": 14303
     },
     {
       "ID": "FREEZE_2",
@@ -13724,7 +13735,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 12940
+      "UsersEstimate": 12941
     },
     {
       "ID": "FREEZE_3",
@@ -13788,7 +13799,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 23837
+      "UsersEstimate": 23838
     },
     {
       "ID": "HARLEY_2",
@@ -13804,7 +13815,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 13621
+      "UsersEstimate": 13622
     },
     {
       "ID": "HARLEY_4",
@@ -13852,7 +13863,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 13621
+      "UsersEstimate": 13622
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -13876,7 +13887,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 23156
+      "UsersEstimate": 23157
     },
     {
       "ID": "MYSTERY_02",
@@ -13900,7 +13911,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 13621
+      "UsersEstimate": 13622
     },
     {
       "ID": "MYSTERY_05",
@@ -13971,22 +13982,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 68107,
+      "Progressed": 68108,
       "Completed": 110
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38387,
+      "Progressed": 38388,
       "Completed": 2660
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-08-29T17:58:36.8501633+00:00",
-  "LastChanged_Achievements": "2023-08-29T22:02:10.8523542+00:00",
+  "LastChanged": "2023-08-29T22:58:54.5779776+00:00",
+  "LastChanged_Achievements": "2023-08-29T23:03:07.5088612+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:22.0819335+00:00",
-  "LastUpdate_Ratings": "2023-08-29T21:58:49.999553+00:00",
-  "LastUpdate_Achievements": "2023-08-29T22:02:10.8524557+00:00"
+  "LastUpdate_Ratings": "2023-08-29T22:58:54.5779782+00:00",
+  "LastUpdate_Achievements": "2023-08-29T23:03:07.5090024+00:00"
 }

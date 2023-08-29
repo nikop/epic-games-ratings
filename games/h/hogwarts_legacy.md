@@ -19,9 +19,9 @@ Rating: 4.77 (Ranked 109)
 | The Hero of Hogwarts | 9.00% | ~26,195 |
 | Challenge Accepted | 9.00% | ~26,195 |
 | Loom for Improvement | 9.00% | ~26,195 |
-| Followed the Butterflies | 8.00% | ~23,284 |
-| The Spell Master | 8.00% | ~23,284 |
-| Rising From the Ashes | 8.00% | ~23,284 |
+| Followed the Butterflies | 8.00% | ~23,285 |
+| The Spell Master | 8.00% | ~23,285 |
+| Rising From the Ashes | 8.00% | ~23,285 |
 | The Avenging Gazelle | 7.00% | ~20,374 |
 | Beast Friends | 7.00% | ~20,374 |
 | A Sallow Grave | 7.00% | ~20,374 |
@@ -46,12 +46,12 @@ Rating: 4.77 (Ranked 109)
 | Savvy Spender | 1.00% | ~2,911 |
 | Demiguise Dread | 1.00% | ~2,911 |
 | A Forte for Achievement | 1.00% | ~2,911 |
-| Merlin's Beard! | 0.90% | ~2,619 |
+| Merlin's Beard! | 0.90% | ~2,620 |
 | Spilled Milk | 0.80% | ~2,328 |
 | The Nature of the Beast | 0.60% | ~1,746 |
 | Collector's Edition | 0.30% | ~873 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 291,055 (Ranked 43)  
+Progressed: 291,057 (Ranked 43)  
 Completed: 457 (0.16%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,7 +182,7 @@ Completed: 457 (0.16%) (Ranked 197)
 | 2023-08-26 | 290,865 | 455 |
 | 2023-08-27 | 290,954 | 456 |
 | 2023-08-28 | 291,008 | 456 |
-| 2023-08-29 | 291,055 | 457 |
+| 2023-08-29 | 291,057 | 457 |
 ## Awards
 Max (Character Customization): 22,003  (Ranked 17)  
 Sum: 41,725 (Ranked 30)  

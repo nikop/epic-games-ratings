@@ -6685,9 +6685,9 @@
       "ID": "REWARD_6_BIG_GAME_HUNTER",
       "SetID": "bm6el81",
       "Name": "Taking it back",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 958
+      "UsersEstimate": 993
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -6900,8 +6900,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-08-28T15:59:25.8745105+00:00",
-  "LastChanged_Achievements": "2023-08-29T22:06:18.5142696+00:00",
+  "LastChanged_Achievements": "2023-08-29T23:06:54.5479988+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:12.9306959+00:00",
-  "LastUpdate_Ratings": "2023-08-29T22:00:03.9323982+00:00",
-  "LastUpdate_Achievements": "2023-08-29T22:06:18.5143566+00:00"
+  "LastUpdate_Ratings": "2023-08-29T23:00:13.3592177+00:00",
+  "LastUpdate_Achievements": "2023-08-29T23:06:54.5480891+00:00"
 }

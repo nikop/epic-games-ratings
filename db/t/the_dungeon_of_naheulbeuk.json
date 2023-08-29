@@ -5,7 +5,7 @@
   "Ranking_Rating": 428,
   "Ranking_Popularity": 281,
   "Ranking_PopularitySum": 360,
-  "Ranking_EOS_Progress": 56,
+  "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 24,
   "Ranking_EOS_NewCompleters": 105,
@@ -738,9 +738,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 219065,
+  "EOS_Progressed": 219078,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3046,
+  "EOS_NewPlayers": 3042,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8803,6 +8803,11 @@
       "Time": "2023-08-29T22:03:42.7227942+00:00",
       "NumProgressed": 219065,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-29T23:04:10.2930562+00:00",
+      "NumProgressed": 219078,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -8862,7 +8867,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4381
+      "UsersEstimate": 4382
     },
     {
       "ID": "Chapter2",
@@ -8870,7 +8875,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4381
+      "UsersEstimate": 4382
     },
     {
       "ID": "Chapter3",
@@ -9238,7 +9243,7 @@
       "Name": "%#*!$*!",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1533
+      "UsersEstimate": 1534
     },
     {
       "ID": "DwarfLevel2",
@@ -9246,7 +9251,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4381
+      "UsersEstimate": 4382
     },
     {
       "ID": "ElfEpic",
@@ -9262,7 +9267,7 @@
       "Name": "Sowwy!",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 56957
+      "UsersEstimate": 56960
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -9278,7 +9283,7 @@
       "Name": "GG EZ",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4381
+      "UsersEstimate": 4382
     },
     {
       "ID": "EndCombatOneHp",
@@ -9318,7 +9323,7 @@
       "Name": "The beards of change",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1533
+      "UsersEstimate": 1534
     },
     {
       "ID": "FollowNarzatok",
@@ -9454,7 +9459,7 @@
       "Name": "Thieves\u0027 Guild Accreditation",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1533
+      "UsersEstimate": 1534
     },
     {
       "ID": "Speedrun",
@@ -9462,7 +9467,7 @@
       "Name": "Speedrun",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4381
+      "UsersEstimate": 4382
     },
     {
       "ID": "SupportCount4",
@@ -9517,21 +9522,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 219065,
+      "Progressed": 219078,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 219065,
+      "Progressed": 219078,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-28T16:02:03.5571775+00:00",
-  "LastChanged_Achievements": "2023-08-29T22:03:42.7227935+00:00",
+  "LastChanged_Achievements": "2023-08-29T23:04:10.2930555+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:41.9661267+00:00",
-  "LastUpdate_Ratings": "2023-08-29T21:57:07.3292862+00:00",
-  "LastUpdate_Achievements": "2023-08-29T22:03:42.7229067+00:00"
+  "LastUpdate_Ratings": "2023-08-29T22:57:06.1494517+00:00",
+  "LastUpdate_Achievements": "2023-08-29T23:04:10.2932354+00:00"
 }

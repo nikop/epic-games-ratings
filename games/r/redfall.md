@@ -9,6 +9,7 @@ Rating: 3.50 (Ranked 980)
 | Blood Will Have Blood | 0.40% | ~7 |
 | Neighborhood Revitalization | 0.30% | ~5 |
 | Enter of Your Own Free Will | 0.30% | ~5 |
+| I Like My Stakes Rare! | 0.30% | ~5 |
 | Radio Silence | 0.30% | ~5 |
 | Grounded | 0.30% | ~5 |
 | Fly Fisher | 0.30% | ~5 |
@@ -17,7 +18,6 @@ Rating: 3.50 (Ranked 980)
 | Heart Attack | 0.30% | ~5 |
 | Contingency Plans | 0.20% | ~3 |
 | Welcome to the Neighborhood | 0.20% | ~3 |
-| I Like My Stakes Rare! | 0.20% | ~3 |
 | Sic Transit Umbra | 0.20% | ~3 |
 | Good Morning | 0.20% | ~3 |
 | Peek-a-boo | 0.20% | ~3 |
@@ -72,7 +72,7 @@ Rating: 3.50 (Ranked 980)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,736 (Ranked 178)  
+Progressed: 1,737 (Ranked 178)  
 Completed: 0 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,6 +152,7 @@ Completed: 0 (0.00%) (Ranked 266)
 | 2023-08-16 | 1,734 | 0 |
 | 2023-08-18 | 1,735 | 0 |
 | 2023-08-24 | 1,736 | 0 |
+| 2023-08-29 | 1,737 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

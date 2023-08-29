@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -581,9 +581,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 1048,
+  "EOS_Progressed": 1050,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3216,6 +3216,11 @@
       "Time": "2023-08-29T19:03:22.9973448+00:00",
       "NumProgressed": 1048,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-29T23:02:31.8522555+00:00",
+      "NumProgressed": 1050,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -3252,7 +3257,7 @@
       "Name": "Death Becomes You",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "MF_Ach_DebuffDogpile",
@@ -3396,7 +3401,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -3411,15 +3416,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 1048,
+      "Progressed": 1050,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-08-19T00:01:25.4224345+00:00",
-  "LastChanged_Achievements": "2023-08-29T21:03:31.7072507+00:00",
+  "LastChanged_Achievements": "2023-08-29T23:02:31.8522543+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:13.6724499+00:00",
-  "LastUpdate_Ratings": "2023-08-29T21:57:25.7963401+00:00",
-  "LastUpdate_Achievements": "2023-08-29T21:03:31.7072844+00:00"
+  "LastUpdate_Ratings": "2023-08-29T22:57:25.7491637+00:00",
+  "LastUpdate_Achievements": "2023-08-29T23:02:31.8547701+00:00"
 }

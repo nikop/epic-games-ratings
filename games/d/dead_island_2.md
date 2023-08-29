@@ -7,11 +7,11 @@ Rating: 4.54 (Ranked 502)
 | ---- | ---------- | ----- |
 | Hotel California | 0.60% | ~4,013 |
 | Welcome To Hell-A | 0.60% | ~4,013 |
-| Git Gutte! | 0.50% | ~3,344 |
-| Break A Leg | 0.50% | ~3,344 |
-| Coup de Grâce | 0.50% | ~3,344 |
-| Hazardous Materials | 0.50% | ~3,344 |
-| Personal Assistant Personally Assisted | 0.50% | ~3,344 |
+| Git Gutte! | 0.50% | ~3,345 |
+| Break A Leg | 0.50% | ~3,345 |
+| Coup de Grâce | 0.50% | ~3,345 |
+| Hazardous Materials | 0.50% | ~3,345 |
+| Personal Assistant Personally Assisted | 0.50% | ~3,345 |
 | Dr. Reed, I Presume? | 0.40% | ~2,676 |
 | Bookworm | 0.40% | ~2,676 |
 | But Doctor, I am Butcho | 0.40% | ~2,676 |
@@ -30,11 +30,11 @@ Rating: 4.54 (Ranked 502)
 | Ooh, Shiny! | 0.30% | ~2,007 |
 | Humanity Distilled | 0.30% | ~2,007 |
 | I Am the Resurrection | 0.30% | ~2,007 |
+| Max Headroom | 0.30% | ~2,007 |
 | Our True Nature | 0.30% | ~2,007 |
 | Making Your Mark | 0.20% | ~1,338 |
 | Jumbo Keyring | 0.20% | ~1,338 |
 | Down with the Sickness | 0.20% | ~1,338 |
-| Max Headroom | 0.20% | ~1,338 |
 | Go, Bobcats! | 0.20% | ~1,338 |
 | Rising Star | 0.20% | ~1,338 |
 | Make it So | 0.10% | ~669 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 502)
 | Variety is the Spice of Death | 0.10% | ~669 |
 | Bucket List | 0.10% | ~669 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 668,876 (Ranked 22)  
+Progressed: 668,912 (Ranked 22)  
 Completed: 2,088 (0.31%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,17 +182,17 @@ Completed: 2,088 (0.31%) (Ranked 174)
 | 2023-08-26 | 666,250 | 2,078 |
 | 2023-08-27 | 667,273 | 2,082 |
 | 2023-08-28 | 668,091 | 2,086 |
-| 2023-08-29 | 668,876 | 2,088 |
+| 2023-08-29 | 668,912 | 2,088 |
 ## Awards
 Max (Great Boss Battles): 5,808  (Ranked 61)  
-Sum: 8,548 (Ranked 97)  
+Sum: 8,550 (Ranked 97)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 5,808 |
 | This game is Great for Beginners | 388 |
 | This game has Quickly Understood Controls | 379 |
-| This game has Diverse Characters | 372 |
+| This game has Diverse Characters | 374 |
 | This game is Relaxing | 358 |
 | This game has Amazing Storytelling | 327 |
 | This game is Extremely Fun | 311 |
@@ -331,4 +331,4 @@ Diff (max vs sum): -36
 | 2023-08-26 | 4.54 | 5,770 | 8,490 |
 | 2023-08-27 | 4.54 | 5,783 | 8,515 |
 | 2023-08-28 | 4.54 | 5,791 | 8,530 |
-| 2023-08-29 | 4.54 | 5,808 | 8,548 |
+| 2023-08-29 | 4.54 | 5,808 | 8,550 |

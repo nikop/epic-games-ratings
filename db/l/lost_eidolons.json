@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -170,9 +170,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1096,
+  "EOS_Progressed": 1097,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1345,6 +1345,11 @@
       "Time": "2023-08-29T16:06:14.8069298+00:00",
       "NumProgressed": 1096,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-29T23:07:24.1739633+00:00",
+      "NumProgressed": 1097,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -1388,7 +1393,7 @@
       "Name": "The First Step",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 734
+      "UsersEstimate": 735
     },
     {
       "ID": "06",
@@ -1396,7 +1401,7 @@
       "Name": "First Blood",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 701
+      "UsersEstimate": 702
     },
     {
       "ID": "07",
@@ -1492,7 +1497,7 @@
       "Name": "Earning Trust",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "19",
@@ -1506,9 +1511,9 @@
       "ID": "20",
       "SetID": "73ikgfc",
       "Name": "Digging Deep",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 153
+      "UsersEstimate": 143
     },
     {
       "ID": "21",
@@ -1524,7 +1529,7 @@
       "Name": "House Vulisica\u0027s Heirloom",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "23",
@@ -1539,7 +1544,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1096,
+      "Progressed": 1097,
       "Completed": 0
     }
   ],
@@ -1547,8 +1552,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-06-30T20:00:05.692321+00:00",
-  "LastChanged_Achievements": "2023-08-29T22:06:47.4119339+00:00",
+  "LastChanged_Achievements": "2023-08-29T23:07:24.1739629+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:11.4084777+00:00",
-  "LastUpdate_Ratings": "2023-08-29T21:58:38.8345798+00:00",
-  "LastUpdate_Achievements": "2023-08-29T22:06:47.4119518+00:00"
+  "LastUpdate_Ratings": "2023-08-29T22:58:42.8822559+00:00",
+  "LastUpdate_Achievements": "2023-08-29T23:07:24.1739843+00:00"
 }

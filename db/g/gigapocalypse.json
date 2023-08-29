@@ -371,9 +371,9 @@
       "ID": "secret12",
       "SetID": "39f6ck8",
       "Name": "The Duelist",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 76
     },
     {
       "ID": "secret13",
@@ -411,9 +411,9 @@
       "ID": "secret17",
       "SetID": "39f6ck8",
       "Name": "Who\u0027s A Good Boy",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 125
     },
     {
       "ID": "secret18",
@@ -427,9 +427,9 @@
       "ID": "secret19",
       "SetID": "39f6ck8",
       "Name": "Feng Shui",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "secret2",
@@ -491,9 +491,9 @@
       "ID": "secret26",
       "SetID": "39f6ck8",
       "Name": "Supreme Power",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 79
     },
     {
       "ID": "secret27",
@@ -507,9 +507,9 @@
       "ID": "secret28",
       "SetID": "39f6ck8",
       "Name": "Thick Skin",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "secret29",
@@ -643,9 +643,9 @@
       "ID": "secret43",
       "SetID": "39f6ck8",
       "Name": "Quite A Snack",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 106
     },
     {
       "ID": "secret44",
@@ -755,9 +755,9 @@
       "ID": "secret8",
       "SetID": "39f6ck8",
       "Name": "Destroy Erase Improve",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 116
     },
     {
       "ID": "secret9",
@@ -780,8 +780,8 @@
   "FirstSeenRating": "2023-03-31T05:57:53.8583887+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:25.0690436+00:00",
   "LastChanged": "2023-03-31T05:57:53.8583888+00:00",
-  "LastChanged_Achievements": "2023-08-29T22:07:14.5171216+00:00",
+  "LastChanged_Achievements": "2023-08-29T23:07:53.8071474+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:38.1097642+00:00",
-  "LastUpdate_Ratings": "2023-08-29T21:59:06.26549+00:00",
-  "LastUpdate_Achievements": "2023-08-29T22:07:14.5171603+00:00"
+  "LastUpdate_Ratings": "2023-08-29T22:59:11.8305415+00:00",
+  "LastUpdate_Achievements": "2023-08-29T23:07:53.8071943+00:00"
 }

@@ -9647,9 +9647,9 @@
       "Count": 23777
     }
   ],
-  "EOS_Progressed": 827840,
+  "EOS_Progressed": 828020,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 20396,
+  "EOS_NewPlayers": 20434,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -24322,6 +24322,11 @@
       "Time": "2023-08-29T22:07:29.6026241+00:00",
       "NumProgressed": 827840,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-08-29T23:08:09.8703832+00:00",
+      "NumProgressed": 828020,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 229,
@@ -24507,9 +24512,9 @@
       "ID": "ACH_023",
       "SetID": "bdmlp8o",
       "Name": "It wakes",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 828
+      "UsersEstimate": 1656
     },
     {
       "ID": "ACH_024",
@@ -26164,21 +26169,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 827840,
+      "Progressed": 828020,
       "Completed": 40
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 827840,
+      "Progressed": 828020,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-08-29T13:59:45.2911321+00:00",
-  "LastChanged_Achievements": "2023-08-29T22:07:29.6026231+00:00",
+  "LastChanged_Achievements": "2023-08-29T23:08:09.8703826+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:54.3324879+00:00",
-  "LastUpdate_Ratings": "2023-08-29T21:59:30.4769244+00:00",
-  "LastUpdate_Achievements": "2023-08-29T22:07:29.6031872+00:00"
+  "LastUpdate_Ratings": "2023-08-29T22:59:37.2778798+00:00",
+  "LastUpdate_Achievements": "2023-08-29T23:08:09.871117+00:00"
 }

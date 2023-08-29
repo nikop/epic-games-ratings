@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 78.00% | ~212 |
-| First Blood | 60.00% | ~163 |
-| Aspairagus | 60.00% | ~133 |
-| Triple Kill | 59.00% | ~160 |
-| Survivor | 56.00% | ~124 |
+| Seeds of War | 78.00% | ~213 |
+| Aspairagus | 60.00% | ~134 |
+| First Blood | 59.00% | ~161 |
+| Triple Kill | 59.00% | ~161 |
 | No Asperascope | 55.00% | ~150 |
-| Cornivore | 53.00% | ~144 |
+| Survivor | 55.00% | ~123 |
+| Cornivore | 53.00% | ~145 |
 | I Believe I Can Fly | 48.00% | ~131 |
-| Early Survivor | 42.00% | ~93 |
-| No Diggity | 42.00% | ~93 |
+| Early Survivor | 42.00% | ~94 |
+| No Diggity | 42.00% | ~94 |
 | Bouncemato | 31.00% | ~69 |
 | Amateur Survivor | 31.00% | ~69 |
 | 10K | 30.00% | ~82 |
@@ -36,9 +36,9 @@
 | Expert Survivor | 10.00% | ~22 |
 | Quadsparagus | 9.00% | ~20 |
 | Bring Home The Bacon | 8.00% | ~22 |
-| Early Bird | 6.00% | ~16 |
 | Pyromaniac | 6.00% | ~13 |
 | I Have The High Ground | 5.00% | ~14 |
+| Early Bird | 5.00% | ~14 |
 | Chick Magnet | 4.00% | ~11 |
 | Master Survivor | 3.00% | ~7 |
 | Heart Breaker | 3.00% | ~7 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 272 (Ranked 279)  
+Progressed: 273 (Ranked 277)  
 Completed: 0 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 0 (0.00%) (Ranked 266)
 | 2023-08-24 | 265 | 0 |
 | 2023-08-27 | 269 | 0 |
 | 2023-08-28 | 270 | 0 |
-| 2023-08-29 | 272 | 0 |
+| 2023-08-29 | 273 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

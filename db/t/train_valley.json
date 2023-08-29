@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -987,9 +987,9 @@
       "ID": "06_living",
       "SetID": "chb1m60",
       "Name": "Living it large!",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 202
     },
     {
       "ID": "07_europe",
@@ -1075,9 +1075,9 @@
       "ID": "17_builder",
       "SetID": "chb1m60",
       "Name": "Builder",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 237
+      "UsersEstimate": 242
     },
     {
       "ID": "18_foreman",
@@ -1267,8 +1267,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-08-26T23:01:29.1007728+00:00",
-  "LastChanged_Achievements": "2023-08-29T22:07:49.4504714+00:00",
+  "LastChanged_Achievements": "2023-08-29T23:08:30.6355677+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:23.2933239+00:00",
-  "LastUpdate_Ratings": "2023-08-29T22:01:09.5849429+00:00",
-  "LastUpdate_Achievements": "2023-08-29T22:07:49.4504989+00:00"
+  "LastUpdate_Ratings": "2023-08-29T23:01:23.1515979+00:00",
+  "LastUpdate_Achievements": "2023-08-29T23:08:30.6356171+00:00"
 }
