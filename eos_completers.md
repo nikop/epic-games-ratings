@@ -3,7 +3,7 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 49.35% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.31% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 38.36% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 39.19% |
 | 5 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 33.33% |
 | 5 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 33.33% |
 | 7 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.95% |
@@ -49,8 +49,8 @@
 | 46 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 48 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.88% |
 | 49 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.33% |
-| 50 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.26% |
-| 51 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.24% |
+| 50 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.27% |
+| 51 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.26% |
 | 52 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.17% |
 | 53 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.13% |
 | 54 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.81% |
@@ -63,7 +63,7 @@
 | 60 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.17% |
 | 62 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.08% |
 | 63 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.99% |
-| 64 | [ZZT!](games/z/zzt!.md) | 3.87% |
+| 64 | [ZZT!](games/z/zzt!.md) | 3.86% |
 | 65 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 66 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 67 | [Without Escape](games/w/without_escape.md) | 3.45% |
@@ -89,7 +89,7 @@
 | 87 | [Lamentum](games/l/lamentum.md) | 2.53% |
 | 88 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 89 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.38% |
-| 90 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.33% |
+| 90 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.32% |
 | 91 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.24% |
 | 92 | [Bloodshore](games/b/bloodshore.md) | 2.20% |
 | 93 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
@@ -111,7 +111,7 @@
 | 108 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.45% |
 | 110 | [Ten Dates](games/t/ten_dates.md) | 1.44% |
 | 111 | [Poosh XL](games/p/poosh_xl.md) | 1.40% |
-| 112 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 1.30% |
+| 112 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 1.29% |
 | 113 | [Late Shift](games/l/late_shift.md) | 1.27% |
 | 114 | [Infindustry](games/i/infindustry.md) | 1.23% |
 | 115 | [Chorus](games/c/chorus.md) | 1.13% |
@@ -122,8 +122,8 @@
 | 120 | [Adios](games/a/adios.md) | 1.02% |
 | 121 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.01% |
 | 122 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.99% |
+| 122 | [Sable](games/s/sable.md) | 0.99% |
 | 122 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.99% |
-| 124 | [Sable](games/s/sable.md) | 0.98% |
 | 125 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.95% |
 | 126 | [Hades](games/h/hades.md) | 0.90% |
 | 127 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
@@ -561,4 +561,4 @@
 | 266 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 266 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 266 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,133 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,134 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
