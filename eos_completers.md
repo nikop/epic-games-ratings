@@ -5,11 +5,11 @@
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.31% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 37.66% |
 | 5 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 33.33% |
-| 5 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 33.33% |
-| 7 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.95% |
-| 8 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
-| 9 | [Volley Pals](games/v/volley_pals.md) | 26.17% |
-| 10 | [Overloop](games/o/overloop.md) | 25.00% |
+| 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.95% |
+| 7 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
+| 8 | [Volley Pals](games/v/volley_pals.md) | 26.17% |
+| 9 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 25.00% |
+| 9 | [Overloop](games/o/overloop.md) | 25.00% |
 | 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.83% |
 | 12 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 13 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 24.19% |
@@ -77,14 +77,14 @@
 | 75 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.01% |
 | 76 | [Monster Harvest](games/m/monster_harvest.md) | 2.93% |
 | 76 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 78 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.86% |
+| 78 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.84% |
 | 79 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.80% |
 | 80 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.74% |
 | 81 | [Destiny 2](games/d/destiny_2.md) | 2.73% |
 | 81 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 83 | [The Bunker](games/t/the_bunker.md) | 2.61% |
-| 84 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.58% |
 | 84 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.58% |
+| 85 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.57% |
 | 86 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.56% |
 | 87 | [Lamentum](games/l/lamentum.md) | 2.53% |
 | 88 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
@@ -163,10 +163,10 @@
 | 160 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 162 | [Ghostrunner](games/g/ghostrunner.md) | 0.39% |
 | 163 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.38% |
-| 164 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.37% |
 | 164 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.37% |
 | 164 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
-| 167 | [Wildermyth](games/w/wildermyth.md) | 0.36% |
+| 166 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.36% |
+| 166 | [Wildermyth](games/w/wildermyth.md) | 0.36% |
 | 168 | [The Surge](games/t/the_surge.md) | 0.35% |
 | 168 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.35% |
 | 170 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.34% |
