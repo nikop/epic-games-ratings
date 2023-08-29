@@ -8,6 +8,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | ---- | ---------- | ----- |
 | Explorer | 4.00% | ~546 |
 | Settler | 4.00% | ~546 |
+| Friendly Family | 4.00% | ~546 |
 | Play a Single Player Game | 4.00% | ~546 |
 | The Clergy | 4.00% | ~546 |
 | Able | 3.00% | ~410 |
@@ -17,7 +18,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mason | 3.00% | ~410 |
 | Noble | 3.00% | ~410 |
 | Strong | 3.00% | ~410 |
-| Friendly Family | 3.00% | ~410 |
 | Hanging Gardens | 3.00% | ~410 |
 | Ambitious | 2.00% | ~273 |
 | Brilliant | 2.00% | ~273 |
@@ -143,6 +143,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egypt | 0.40% | ~55 |
 | Old World Order | 0.40% | ~55 |
 | Cataphract Archer | 0.40% | ~55 |
+| Three Man Chariot | 0.40% | ~55 |
 | Pilgrimage | 0.40% | ~55 |
 | Ancient | 0.30% | ~41 |
 | Glorious Difficulty | 0.30% | ~41 |
@@ -154,7 +155,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Network Game | 0.30% | ~41 |
 | Capturing Cities | 0.30% | ~41 |
 | Ten Crowns | 0.30% | ~41 |
-| Three Man Chariot | 0.30% | ~41 |
 | Siege Tower | 0.30% | ~41 |
 | Conquest Victory | 0.30% | ~41 |
 | Necropolis in Waset | 0.30% | ~41 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,659 (Ranked 120)  
+Progressed: 13,660 (Ranked 120)  
 Completed: 5 (0.04%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -434,7 +434,7 @@ Completed: 5 (0.04%) (Ranked 236)
 | 2023-08-26 | 13,590 | 5 |
 | 2023-08-27 | 13,616 | 5 |
 | 2023-08-28 | 13,635 | 5 |
-| 2023-08-29 | 13,659 | 5 |
+| 2023-08-29 | 13,660 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,799 (Ranked 207)  

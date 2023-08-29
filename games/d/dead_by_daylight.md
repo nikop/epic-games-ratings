@@ -6,6 +6,7 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| MU/TH/UR Dearest | 0.20% | ~1,656 |
 | The Grand Sacrifice | 0.10% | ~828 |
 | A bite for the Entity | 0.10% | ~828 |
 | A feast for the Entity | 0.10% | ~828 |
@@ -231,12 +232,11 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Cage | 0.10% | ~828 |
 | Terror of LV-426 | 0.10% | ~828 |
 | Adept Xenomorph | 0.10% | ~828 |
-| MU/TH/UR Dearest | 0.10% | ~828 |
 | Adept Ripley | 0.10% | ~828 |
 | Disarm and Dismember | 0.00% | ~0 |
 | Kitted Out | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 827,648 (Ranked 15)  
+Progressed: 827,840 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -367,7 +367,7 @@ Completed: 48 (0.01%) (Ranked 253)
 | 2023-08-26 | 818,878 | 48 |
 | 2023-08-27 | 822,167 | 48 |
 | 2023-08-28 | 824,988 | 48 |
-| 2023-08-29 | 827,648 | 48 |
+| 2023-08-29 | 827,840 | 48 |
 ## Awards
 Max (Diverse Characters): 31,566  (Ranked 15)  
 Sum: 247,948 (Ranked 11)  

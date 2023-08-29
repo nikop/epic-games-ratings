@@ -670,17 +670,17 @@
       "ID": "AC06",
       "SetID": "l4abp0",
       "Name": "The Last Ascension",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 190
+      "UsersEstimate": 195
     },
     {
       "ID": "AC07",
       "SetID": "l4abp0",
       "Name": "The Sea dies on the Shore",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 173
+      "UsersEstimate": 179
     },
     {
       "ID": "AC08",
@@ -694,9 +694,9 @@
       "ID": "AC09",
       "SetID": "l4abp0",
       "Name": "Fermosa Fembra",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 128
+      "UsersEstimate": 134
     },
     {
       "ID": "AC10",
@@ -742,9 +742,9 @@
       "ID": "AC15",
       "SetID": "l4abp0",
       "Name": "Full Devotion",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 45
     },
     {
       "ID": "AC16",
@@ -798,17 +798,17 @@
       "ID": "AC22",
       "SetID": "l4abp0",
       "Name": "Empty Handed",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 106
     },
     {
       "ID": "AC23",
       "SetID": "l4abp0",
       "Name": "Hide and Seek",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 95
+      "UsersEstimate": 100
     },
     {
       "ID": "AC24",
@@ -846,9 +846,9 @@
       "ID": "AC28",
       "SetID": "l4abp0",
       "Name": "The Punished One",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 201
     },
     {
       "ID": "AC29",
@@ -870,17 +870,17 @@
       "ID": "AC31",
       "SetID": "l4abp0",
       "Name": "The Merciless One",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 145
     },
     {
       "ID": "AC32",
       "SetID": "l4abp0",
       "Name": "Nobody Expects the Spanish Inquisition!",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 95
     },
     {
       "ID": "AC33",
@@ -997,8 +997,8 @@
   ],
   "FirstSeen": "2023-07-26T07:57:19.1818171+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
-  "LastChanged_Achievements": "2023-08-29T21:06:19.8250581+00:00",
+  "LastChanged_Achievements": "2023-08-29T22:06:08.4465493+00:00",
   "LastUpdate_AppInfo": "2023-08-29T18:57:21.35462+00:00",
-  "LastUpdate_Ratings": "2023-08-29T20:59:32.5128973+00:00",
-  "LastUpdate_Achievements": "2023-08-29T21:06:19.8250983+00:00"
+  "LastUpdate_Ratings": "2023-08-29T21:59:50.4059302+00:00",
+  "LastUpdate_Achievements": "2023-08-29T22:06:08.4465795+00:00"
 }

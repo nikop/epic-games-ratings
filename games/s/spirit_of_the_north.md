@@ -6,32 +6,32 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 68.00% | ~45,804 |
-| INFUSED WITH LIGHT | 53.00% | ~35,700 |
-| FOXIN' AROUND | 29.00% | ~19,534 |
-| FETCH | 27.00% | ~18,187 |
-| BLOOMS OF LIGHT | 26.00% | ~17,513 |
-| BEST FRIENDS | 22.00% | ~14,819 |
-| AWAKEN | 21.00% | ~14,145 |
-| ERADICATE | 21.00% | ~14,145 |
-| SPIRIT BARK | 21.00% | ~14,145 |
+| A GUARDIAN FORGOTTEN | 68.00% | ~45,807 |
+| INFUSED WITH LIGHT | 53.00% | ~35,702 |
+| FOXIN' AROUND | 29.00% | ~19,535 |
+| FETCH | 27.00% | ~18,188 |
+| BLOOMS OF LIGHT | 26.00% | ~17,514 |
+| BEST FRIENDS | 22.00% | ~14,820 |
+| AWAKEN | 21.00% | ~14,146 |
+| ERADICATE | 21.00% | ~14,146 |
+| SPIRIT BARK | 21.00% | ~14,146 |
 | GARDEN OF LIGHT | 18.00% | ~12,125 |
-| SPIRIT FORM | 16.00% | ~10,777 |
+| SPIRIT FORM | 16.00% | ~10,778 |
 | UPROOTING DARKNESS | 15.00% | ~10,104 |
 | WRITTEN IN STONE | 15.00% | ~10,104 |
-| WEIGHTLESS | 12.00% | ~8,083 |
-| SPIRIT DASH | 11.00% | ~7,409 |
-| OLD COMPANION | 9.00% | ~6,062 |
+| WEIGHTLESS | 12.00% | ~8,084 |
+| SPIRIT DASH | 11.00% | ~7,410 |
+| OLD COMPANION | 9.00% | ~6,063 |
 | MATCH MAKER | 8.00% | ~5,389 |
 | PLAGUE DOCTOR | 8.00% | ~5,389 |
 | SPIRITED AWAY | 8.00% | ~5,389 |
 | NORTHERN LIGHTS | 7.00% | ~4,715 |
-| FOX? OR FLYING SQUIRREL? | 4.00% | ~2,694 |
+| FOX? OR FLYING SQUIRREL? | 4.00% | ~2,695 |
 | ANCIENT HISTORY | 3.00% | ~2,021 |
 | NONE FORGOTTEN | 2.00% | ~1,347 |
 | KINDRED SPIRITS | 0.60% | ~404 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,359 (Ranked 82)  
+Progressed: 67,363 (Ranked 82)  
 Completed: 350 (0.52%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 350 (0.52%) (Ranked 147)
 | 2023-08-26 | 67,013 | 349 |
 | 2023-08-27 | 67,157 | 349 |
 | 2023-08-28 | 67,264 | 350 |
-| 2023-08-29 | 67,359 | 350 |
+| 2023-08-29 | 67,363 | 350 |
 ## Awards
 Max (Extremely Fun): 26  (Ranked 476)  
 Sum: 114 (Ranked 413)  

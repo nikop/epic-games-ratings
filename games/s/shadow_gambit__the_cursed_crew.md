@@ -20,9 +20,9 @@
 | Seadog | 12.00% | ~65 |
 | All Good Things | 10.00% | ~54 |
 | Jaded Judge | 9.00% | ~49 |
+| Rustic Recipe | 8.00% | ~43 |
 | Privateer | 7.00% | ~38 |
 | Tobacco Travesty | 7.00% | ~38 |
-| Rustic Recipe | 7.00% | ~38 |
 | Accursed Artifacts | 6.00% | ~33 |
 | Lyrical Longing | 6.00% | ~33 |
 | Corsair | 4.00% | ~22 |

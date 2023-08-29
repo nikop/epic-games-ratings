@@ -16,8 +16,8 @@
 | The Power of the Mountains | 13.00% | ~7 |
 | Searing Heat | 11.00% | ~6 |
 | Expert | 11.00% | ~6 |
+| Changing the World | 11.00% | ~6 |
 | Nothing but the Truth | 9.00% | ~5 |
-| Changing the World | 9.00% | ~5 |
 | Craftsmen | 7.00% | ~4 |
 | Bringing guns to a sword fight | 7.00% | ~4 |
 | Through Dangers Untold | 7.00% | ~4 |

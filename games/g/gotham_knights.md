@@ -5,15 +5,15 @@ Rating: 4.18 (Ranked 879)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~34,052 |
+| First Step Into the Knight | 50.00% | ~34,054 |
 | Har, Har, Har, Very Funny | 35.00% | ~23,837 |
 | Loose Ends | 34.00% | ~23,156 |
-| To the Victor Go the Spoils | 28.00% | ~19,069 |
-| Knighthood | 27.00% | ~18,388 |
-| Get ReQ'd | 25.00% | ~17,026 |
-| Whispered Words | 25.00% | ~17,026 |
-| The Batman Family | 22.00% | ~14,983 |
-| Lock and Key | 22.00% | ~14,983 |
+| To the Victor Go the Spoils | 28.00% | ~19,070 |
+| Knighthood | 27.00% | ~18,389 |
+| Get ReQ'd | 25.00% | ~17,027 |
+| Whispered Words | 25.00% | ~17,027 |
+| The Batman Family | 22.00% | ~14,984 |
+| Lock and Key | 22.00% | ~14,984 |
 | Something in the Clay | 21.00% | ~14,302 |
 | Quartzer Life Crisis | 21.00% | ~14,302 |
 | Working Hard or Harley Working? | 20.00% | ~13,621 |
@@ -35,9 +35,9 @@ Rating: 4.18 (Ranked 879)
 | Bulldozed | 12.00% | ~8,173 |
 | Gotham Knight | 12.00% | ~8,173 |
 | Gotham City Confidential | 11.00% | ~7,492 |
-| Drone You Out | 10.00% | ~6,810 |
-| Out of Their League | 9.00% | ~6,129 |
-| Solid Alibi | 9.00% | ~6,129 |
+| Drone You Out | 10.00% | ~6,811 |
+| Out of Their League | 9.00% | ~6,130 |
+| Solid Alibi | 9.00% | ~6,130 |
 | Fusion Expert | 7.00% | ~4,767 |
 | Family Meeting | 6.00% | ~4,086 |
 | A Worthy Successor | 6.00% | ~4,086 |
@@ -67,8 +67,8 @@ Rating: 4.18 (Ranked 879)
 | Element of Surprise | 0.20% | ~77 |
 | It's Nice to Be Wanted | 0.20% | ~77 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,105 (Ranked 81)  
-Completed: 110 (0.16%) (Ranked 198)  
+Progressed: 68,107 (Ranked 81)  
+Completed: 110 (0.16%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -198,7 +198,7 @@ Completed: 110 (0.16%) (Ranked 198)
 | 2023-08-26 | 68,056 | 109 |
 | 2023-08-27 | 68,080 | 109 |
 | 2023-08-28 | 68,093 | 109 |
-| 2023-08-29 | 68,105 | 110 |
+| 2023-08-29 | 68,107 | 110 |
 ## Awards
 Max (Great Boss Battles): 2,527  (Ranked 100)  
 Sum: 4,205 (Ranked 139)  

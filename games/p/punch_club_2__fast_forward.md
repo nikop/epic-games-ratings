@@ -9,13 +9,13 @@
 | Good Person Chip | 85.00% | ~240 |
 | First winning | 83.00% | ~234 |
 | Your first job | 82.00% | ~231 |
-| Old movies enjoyer | 78.00% | ~220 |
+| Old movies enjoyer | 79.00% | ~223 |
 | Fitness professional | 77.00% | ~217 |
 | Depressed visitor | 77.00% | ~217 |
+| Neurotrainer – power gainer! | 75.00% | ~212 |
 | Employee of the week | 75.00% | ~212 |
 | Your own amateur gym | 74.00% | ~209 |
-| Neurotrainer – power gainer! | 74.00% | ~209 |
-| First defeat | 73.00% | ~206 |
+| First defeat | 74.00% | ~209 |
 | Run K, run! | 73.00% | ~206 |
 | Fighting is cool | 68.00% | ~192 |
 | Hello, world! | 68.00% | ~192 |
@@ -32,7 +32,7 @@
 | Employee of the year | 58.00% | ~164 |
 | Fight for life | 57.00% | ~161 |
 | Little hacker | 57.00% | ~161 |
-| Intriguing candies | 56.00% | ~158 |
+| Intriguing candies | 57.00% | ~161 |
 | Legal courier | 54.00% | ~152 |
 | Extreme neuropower! | 53.00% | ~149 |
 | Escaped from a big trouble | 51.00% | ~144 |
@@ -66,7 +66,7 @@
 | The heart of the Resistance | 32.00% | ~90 |
 | Trap disarmed | 31.00% | ~87 |
 | Another world | 31.00% | ~87 |
-| The last bell ring | 30.00% | ~85 |
+| The last bell ring | 31.00% | ~87 |
 | Better cooking at home | 29.00% | ~82 |
 | Silver’s past | 28.00% | ~79 |
 | The only right decision | 28.00% | ~79 |

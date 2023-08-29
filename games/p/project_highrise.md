@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | In the Black | 61.00% | ~204 |
-| Starting Skyward | 54.00% | ~180 |
+| Starting Skyward | 55.00% | ~184 |
 | Grime is Not Good | 49.00% | ~164 |
 | Floor Galore | 42.00% | ~140 |
 | Campaign Launch | 42.00% | ~140 |
@@ -63,11 +63,11 @@
 | Baron of Business | 5.00% | ~17 |
 | Tuned In | 5.00% | ~17 |
 | Office Bigwigs | 4.00% | ~13 |
+| Sandbagger | 4.00% | ~13 |
 | Decorator's Touch | 3.00% | ~10 |
 | Apartment Awareness | 3.00% | ~10 |
 | Luxury Boutiques | 3.00% | ~10 |
 | Three of a Kind | 3.00% | ~10 |
-| Sandbagger | 3.00% | ~10 |
 | Loft Life | 2.00% | ~7 |
 | Glut of Gastronomy | 2.00% | ~7 |
 | Plebs Are Needed | 2.00% | ~7 |

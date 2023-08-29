@@ -7,30 +7,30 @@ Rating: 4.54 (Ranked 502)
 | ---- | ---------- | ----- |
 | Hotel California | 0.60% | ~4,013 |
 | Welcome To Hell-A | 0.60% | ~4,013 |
+| Git Gutte! | 0.50% | ~3,344 |
 | Break A Leg | 0.50% | ~3,344 |
 | Coup de Grâce | 0.50% | ~3,344 |
 | Hazardous Materials | 0.50% | ~3,344 |
 | Personal Assistant Personally Assisted | 0.50% | ~3,344 |
-| Dr. Reed, I Presume? | 0.40% | ~2,675 |
-| Git Gutte! | 0.40% | ~2,675 |
-| Bookworm | 0.40% | ~2,675 |
-| But Doctor, I am Butcho | 0.40% | ~2,675 |
-| Slayer Squad | 0.40% | ~2,675 |
-| Can't Handle the Truth | 0.40% | ~2,675 |
-| Like Riding a Bike | 0.40% | ~2,675 |
-| Friends Like These | 0.40% | ~2,675 |
-| Apex Predator | 0.40% | ~2,675 |
-| Zombologist | 0.40% | ~2,675 |
-| A Patton Emerges | 0.40% | ~2,675 |
-| Stacking the Deck | 0.40% | ~2,675 |
-| This is My Weapon | 0.40% | ~2,675 |
-| Anger Management | 0.30% | ~2,006 |
-| Perks of the Job | 0.30% | ~2,006 |
-| I Got a Zombie Army and You Can't Harm Me | 0.30% | ~2,006 |
-| Ooh, Shiny! | 0.30% | ~2,006 |
-| Humanity Distilled | 0.30% | ~2,006 |
-| I Am the Resurrection | 0.30% | ~2,006 |
-| Our True Nature | 0.30% | ~2,006 |
+| Dr. Reed, I Presume? | 0.40% | ~2,676 |
+| Bookworm | 0.40% | ~2,676 |
+| But Doctor, I am Butcho | 0.40% | ~2,676 |
+| Slayer Squad | 0.40% | ~2,676 |
+| Can't Handle the Truth | 0.40% | ~2,676 |
+| Like Riding a Bike | 0.40% | ~2,676 |
+| Friends Like These | 0.40% | ~2,676 |
+| Apex Predator | 0.40% | ~2,676 |
+| Zombologist | 0.40% | ~2,676 |
+| A Patton Emerges | 0.40% | ~2,676 |
+| Stacking the Deck | 0.40% | ~2,676 |
+| This is My Weapon | 0.40% | ~2,676 |
+| Anger Management | 0.30% | ~2,007 |
+| Perks of the Job | 0.30% | ~2,007 |
+| I Got a Zombie Army and You Can't Harm Me | 0.30% | ~2,007 |
+| Ooh, Shiny! | 0.30% | ~2,007 |
+| Humanity Distilled | 0.30% | ~2,007 |
+| I Am the Resurrection | 0.30% | ~2,007 |
+| Our True Nature | 0.30% | ~2,007 |
 | Making Your Mark | 0.20% | ~1,338 |
 | Jumbo Keyring | 0.20% | ~1,338 |
 | Down with the Sickness | 0.20% | ~1,338 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 502)
 | Variety is the Spice of Death | 0.10% | ~669 |
 | Bucket List | 0.10% | ~669 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 668,830 (Ranked 22)  
+Progressed: 668,876 (Ranked 22)  
 Completed: 2,088 (0.31%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,7 +182,7 @@ Completed: 2,088 (0.31%) (Ranked 174)
 | 2023-08-26 | 666,250 | 2,078 |
 | 2023-08-27 | 667,273 | 2,082 |
 | 2023-08-28 | 668,091 | 2,086 |
-| 2023-08-29 | 668,830 | 2,088 |
+| 2023-08-29 | 668,876 | 2,088 |
 ## Awards
 Max (Great Boss Battles): 5,808  (Ranked 61)  
 Sum: 8,548 (Ranked 97)  
