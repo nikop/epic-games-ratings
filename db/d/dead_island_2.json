@@ -4050,10 +4050,10 @@
       "Count": 327
     }
   ],
-  "EOS_Progressed": 668731,
+  "EOS_Progressed": 668789,
   "EOS_Completed": 2088,
-  "EOS_NewPlayers": 5918,
-  "EOS_NewCompleters": 36,
+  "EOS_NewPlayers": 5929,
+  "EOS_NewCompleters": 35,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -18650,6 +18650,11 @@
       "Time": "2023-08-29T19:05:00.5422342+00:00",
       "NumProgressed": 668731,
       "NumCompleted": 2088
+    },
+    {
+      "Time": "2023-08-29T20:04:53.6367909+00:00",
+      "NumProgressed": 668789,
+      "NumCompleted": 2088
     }
   ],
   "TotalAchievements": 45,
@@ -18669,7 +18674,7 @@
       "Name": "Making Your Mark",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1337
+      "UsersEstimate": 1338
     },
     {
       "ID": "ach_ammo_ran",
@@ -18819,9 +18824,9 @@
       "ID": "ach_hotel_california",
       "SetID": "7km39fm",
       "Name": "Hotel California",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 3344
+      "UsersEstimate": 4013
     },
     {
       "ID": "ach_impressive_aim",
@@ -18851,9 +18856,9 @@
       "ID": "ach_jumbo_keyring",
       "SetID": "7km39fm",
       "Name": "Jumbo Keyring",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 669
+      "UsersEstimate": 1338
     },
     {
       "ID": "ach_knock_down",
@@ -18901,7 +18906,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1337
+      "UsersEstimate": 1338
     },
     {
       "ID": "ach_revival_tour",
@@ -18917,7 +18922,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1337
+      "UsersEstimate": 1338
     },
     {
       "ID": "ach_secrets_of_la",
@@ -18957,7 +18962,7 @@
       "Name": "Max Headroom",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1337
+      "UsersEstimate": 1338
     },
     {
       "ID": "ach_the_vcla",
@@ -18965,7 +18970,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1337
+      "UsersEstimate": 1338
     },
     {
       "ID": "ach_thesacrifice",
@@ -18997,7 +19002,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4012
+      "UsersEstimate": 4013
     },
     {
       "ID": "ach_well_known_survivor",
@@ -19005,7 +19010,7 @@
       "Name": "Rising Star",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 1337
+      "UsersEstimate": 1338
     },
     {
       "ID": "ach_well_trained",
@@ -19020,7 +19025,7 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 668731,
+      "Progressed": 668789,
       "Completed": 2088
     }
   ],
@@ -19028,8 +19033,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-08-29T15:57:12.1331123+00:00",
-  "LastChanged_Achievements": "2023-08-29T19:05:00.5422334+00:00",
+  "LastChanged_Achievements": "2023-08-29T20:04:53.6367901+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:11.0440218+00:00",
-  "LastUpdate_Ratings": "2023-08-29T18:57:39.9766397+00:00",
-  "LastUpdate_Achievements": "2023-08-29T19:05:00.5423882+00:00"
+  "LastUpdate_Ratings": "2023-08-29T19:57:30.5506178+00:00",
+  "LastUpdate_Achievements": "2023-08-29T20:04:53.6369599+00:00"
 }

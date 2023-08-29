@@ -7,13 +7,13 @@ Number of Ratings: 94  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Quick Understanding of Block Extrusion | 52.00% | ~25 |
-| Lost in Space | 44.00% | ~21 |
+| Lost in Space | 46.00% | ~22 |
 | Power Glove | 35.00% | ~17 |
 | Nature or Nurture | 31.00% | ~15 |
 | Forgotten Memories | 31.00% | ~15 |
 | Cogs in the Machine | 25.00% | ~12 |
 | Green Cube Killer | 8.00% | ~4 |
-| Descendants | 2.00% | ~1 |
+| Descendants | 4.00% | ~2 |
 | The Flawed Teacher | 2.00% | ~1 |
 | To Infinity and Beyond | 2.00% | ~1 |
 | True collector | 0.00% | ~0 |

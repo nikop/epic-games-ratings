@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self-Defence | 87.00% | ~47 |
-| Tinkerer | 65.00% | ~35 |
+| Self-Defence | 85.00% | ~47 |
+| Tinkerer | 64.00% | ~35 |
 | Welcome to the Club | 31.00% | ~17 |
-| A new World ahead | 28.00% | ~15 |
-| Apprentice | 26.00% | ~14 |
+| A new World ahead | 27.00% | ~15 |
+| Apprentice | 25.00% | ~14 |
 | Can't touch this | 24.00% | ~13 |
 | Don't Cry Wolf | 20.00% | ~11 |
 | Freezing Cold | 15.00% | ~8 |
@@ -22,9 +22,9 @@
 | Bringing guns to a sword fight | 7.00% | ~4 |
 | Through Dangers Untold | 7.00% | ~4 |
 | Locked and Loaded | 7.00% | ~4 |
-| Defeat Tezuth | 6.00% | ~3 |
-| Defeat Uskol | 6.00% | ~3 |
-| Witch | 6.00% | ~3 |
+| Defeat Tezuth | 5.00% | ~3 |
+| Defeat Uskol | 5.00% | ~3 |
+| Witch | 5.00% | ~3 |
 | Mirror, Mirror on the Wall | 4.00% | ~2 |
 | Sponsor | 4.00% | ~2 |
 | Defeat Ingla | 4.00% | ~2 |
@@ -51,7 +51,7 @@
 | A Deceiving Gift | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54 (Ranked 374)  
+Progressed: 55 (Ranked 373)  
 Completed: 0 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 0 (0.00%) (Ranked 266)
 | 2023-08-20 | 50 | 0 |
 | 2023-08-21 | 51 | 0 |
 | 2023-08-27 | 52 | 0 |
-| 2023-08-29 | 54 | 0 |
+| 2023-08-29 | 55 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

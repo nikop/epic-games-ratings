@@ -4,8 +4,8 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 41,
-  "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 413,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 6.78,
   "EosHistory": [
@@ -1756,9 +1756,9 @@
       "ID": "PriestBroom",
       "SetID": "db30heh",
       "Name": "Chastisement",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 103
+      "UsersEstimate": 107
     },
     {
       "ID": "PriestPistol",
@@ -1907,8 +1907,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-08-29T19:06:14.3882291+00:00",
+  "LastChanged_Achievements": "2023-08-29T20:06:08.3178801+00:00",
   "LastUpdate_AppInfo": "2023-08-29T18:57:22.664364+00:00",
-  "LastUpdate_Ratings": "2023-08-29T19:00:42.0094394+00:00",
-  "LastUpdate_Achievements": "2023-08-29T19:06:14.3882863+00:00"
+  "LastUpdate_Ratings": "2023-08-29T20:00:35.2673707+00:00",
+  "LastUpdate_Achievements": "2023-08-29T20:06:08.3179537+00:00"
 }

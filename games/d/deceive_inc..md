@@ -1,32 +1,32 @@
 # Deceive Inc.
 [Store](https://store.epicgames.com/en-US/p/deceive-inc)  
 [View Rawdata](../../db/d/deceive_inc..json)  
-Rating: 4.57 (Ranked 451)  
+Rating: 4.57 (Ranked 450)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 29.00% | ~5,144 |
-| Mainframe Hacker | 23.00% | ~4,080 |
-| The Spy who eliminated me | 23.00% | ~4,080 |
-| Tomorrow Never Dyes | 22.00% | ~3,902 |
-| Never Say Loser Again | 19.00% | ~3,370 |
-| From the Vault with Love | 18.00% | ~3,193 |
-| Tailor-Made | 18.00% | ~3,193 |
-| For your Eyes only | 18.00% | ~3,193 |
-| Assistant Accountant | 17.00% | ~3,015 |
-| You Only Live Twice | 16.00% | ~2,838 |
-| Fully Decked Out | 16.00% | ~2,838 |
+| On Deceive Inc.'s Secret Service | 29.00% | ~5,145 |
+| Mainframe Hacker | 23.00% | ~4,081 |
+| The Spy who eliminated me | 23.00% | ~4,081 |
+| Tomorrow Never Dyes | 22.00% | ~3,903 |
+| Never Say Loser Again | 19.00% | ~3,371 |
+| From the Vault with Love | 18.00% | ~3,194 |
+| Tailor-Made | 18.00% | ~3,194 |
+| For your Eyes only | 18.00% | ~3,194 |
+| Assistant Accountant | 17.00% | ~3,016 |
+| You Only Live Twice | 16.00% | ~2,839 |
+| Fully Decked Out | 16.00% | ~2,839 |
 | A view to Win | 13.00% | ~2,306 |
 | The Living Portrait | 12.00% | ~2,129 |
 | Private Collection | 12.00% | ~2,129 |
 | Hostile Takeover | 12.00% | ~2,129 |
 | Smells Like Trouble | 12.00% | ~2,129 |
-| Dr. No Kill | 11.00% | ~1,951 |
-| My Motto, My Creed | 11.00% | ~1,951 |
-| Killer Looks | 11.00% | ~1,951 |
+| Dr. No Kill | 11.00% | ~1,952 |
+| My Motto, My Creed | 11.00% | ~1,952 |
+| Killer Looks | 11.00% | ~1,952 |
 | Keycards Royale | 10.00% | ~1,774 |
 | In It to Win It | 10.00% | ~1,774 |
-| Security Supervisor | 6.00% | ~1,064 |
+| Security Supervisor | 6.00% | ~1,065 |
 | License to Thrill | 5.00% | ~887 |
 | Social of Solace | 3.00% | ~532 |
 | Live and let lie | 3.00% | ~532 |
@@ -42,7 +42,7 @@ Rating: 4.57 (Ranked 451)
 | Extraction Confusion | 0.20% | ~35 |
 | Spyfall | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,738 (Ranked 111)  
+Progressed: 17,742 (Ranked 111)  
 Completed: 1 (0.01%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 1 (0.01%) (Ranked 253)
 | 2023-08-26 | 17,681 | 1 |
 | 2023-08-27 | 17,704 | 1 |
 | 2023-08-28 | 17,722 | 1 |
-| 2023-08-29 | 17,738 | 1 |
+| 2023-08-29 | 17,742 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

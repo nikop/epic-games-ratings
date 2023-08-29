@@ -6,18 +6,18 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 38.00% | ~22,766 |
+| Lawbringer | 38.00% | ~22,767 |
 | Landlord | 32.00% | ~19,172 |
 | Bannerlord | 23.00% | ~13,780 |
 | Horde breaker | 23.00% | ~13,780 |
 | Lawmaker | 23.00% | ~13,780 |
-| Trained | 22.00% | ~13,180 |
+| Trained | 22.00% | ~13,181 |
 | The king is pleased | 18.00% | ~10,784 |
 | King Solomon | 17.00% | ~10,185 |
 | Apple of my eye | 15.00% | ~8,987 |
 | I can do it | 15.00% | ~8,987 |
-| God of the Arena | 13.00% | ~7,788 |
-| Against all odds | 12.00% | ~7,189 |
+| God of the Arena | 13.00% | ~7,789 |
+| Against all odds | 12.00% | ~7,190 |
 | This Is Our Land | 11.00% | ~6,590 |
 | Swordbearer | 10.00% | ~5,991 |
 | Duelist | 9.00% | ~5,392 |
@@ -28,9 +28,9 @@ Number of Ratings: 5,603  (23.09.2022)
 | Mastery | 7.00% | ~4,194 |
 | Know your enemy | 6.00% | ~3,595 |
 | My way | 5.00% | ~2,996 |
-| Crowdfunded | 4.00% | ~2,396 |
-| Crush your enemies | 4.00% | ~2,396 |
-| Veni vidi vici | 4.00% | ~2,396 |
+| Crowdfunded | 4.00% | ~2,397 |
+| Crush your enemies | 4.00% | ~2,397 |
+| Veni vidi vici | 4.00% | ~2,397 |
 | Freedom! | 3.00% | ~1,797 |
 | Long live the Empire! | 3.00% | ~1,797 |
 | Real Estate | 3.00% | ~1,797 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,911 (Ranked 88)  
+Progressed: 59,913 (Ranked 88)  
 Completed: 0 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,11 +189,11 @@ Completed: 0 (0.00%) (Ranked 266)
 | 2023-08-26 | 59,714 | 0 |
 | 2023-08-27 | 59,800 | 0 |
 | 2023-08-28 | 59,865 | 0 |
-| 2023-08-29 | 59,911 | 0 |
+| 2023-08-29 | 59,913 | 0 |
 ## Awards
 Max (Character Customization): 6,994  (Ranked 51)  
-Sum: 14,221 (Ranked 68)  
-Diff (max vs sum): -17  
+Sum: 14,221 (Ranked 69)  
+Diff (max vs sum): -18  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 6,994 |

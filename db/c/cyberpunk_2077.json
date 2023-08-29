@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 14,
   "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 45,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_NewCompleters": 5,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
     "PcReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -11171,9 +11171,9 @@
       "Count": 5697
     }
   ],
-  "EOS_Progressed": 873464,
+  "EOS_Progressed": 873467,
   "EOS_Completed": 2037,
-  "EOS_NewPlayers": 1388,
+  "EOS_NewPlayers": 1386,
   "EOS_NewCompleters": 35,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -25751,6 +25751,11 @@
       "Time": "2023-08-29T19:08:25.6537525+00:00",
       "NumProgressed": 873464,
       "NumCompleted": 2037
+    },
+    {
+      "Time": "2023-08-29T20:08:20.6131825+00:00",
+      "NumProgressed": 873467,
+      "NumCompleted": 2037
     }
   ],
   "TotalAchievements": 44,
@@ -25794,7 +25799,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 340651
+      "UsersEstimate": 340652
     },
     {
       "ID": "FollowingTheRiver",
@@ -25850,7 +25855,7 @@
       "Name": "Master Crafter",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 113550
+      "UsersEstimate": 113551
     },
     {
       "ID": "IAmMaxTac",
@@ -25890,7 +25895,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 87346
+      "UsersEstimate": 87347
     },
     {
       "ID": "MustBeTheRats",
@@ -25930,7 +25935,7 @@
       "Name": "Life of the Road",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 183427
+      "UsersEstimate": 183428
     },
     {
       "ID": "Roleplayer",
@@ -25978,7 +25983,7 @@
       "Name": "The Fool",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 602690
+      "UsersEstimate": 602692
     },
     {
       "ID": "TheHermit",
@@ -25986,7 +25991,7 @@
       "Name": "The Hermit",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 218366
+      "UsersEstimate": 218367
     },
     {
       "ID": "TheHightPriestess",
@@ -25994,7 +25999,7 @@
       "Name": "The High Priestess",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 192162
+      "UsersEstimate": 192163
     },
     {
       "ID": "TheLovers",
@@ -26002,7 +26007,7 @@
       "Name": "The Lovers",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 305712
+      "UsersEstimate": 305713
     },
     {
       "ID": "TheStar",
@@ -26010,7 +26015,7 @@
       "Name": "The Star",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 61142
+      "UsersEstimate": 61143
     },
     {
       "ID": "TheSun",
@@ -26018,7 +26023,7 @@
       "Name": "The Sun",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 61142
+      "UsersEstimate": 61143
     },
     {
       "ID": "TheWheelOfFortune",
@@ -26026,7 +26031,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 235835
+      "UsersEstimate": 235836
     },
     {
       "ID": "TheWorld",
@@ -26106,28 +26111,28 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 192162
+      "UsersEstimate": 192163
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 873464,
+      "Progressed": 873467,
       "Completed": 2037
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 2087,
-      "Completed": 2087
+      "Progressed": 2090,
+      "Completed": 2090
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-08-29T19:02:03.5472341+00:00",
-  "LastChanged_Achievements": "2023-08-29T19:08:25.6537516+00:00",
+  "LastChanged_Achievements": "2023-08-29T20:08:20.6131818+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:41.3483631+00:00",
-  "LastUpdate_Ratings": "2023-08-29T19:02:03.5472348+00:00",
-  "LastUpdate_Achievements": "2023-08-29T19:08:25.6539215+00:00"
+  "LastUpdate_Ratings": "2023-08-29T20:01:56.3780687+00:00",
+  "LastUpdate_Achievements": "2023-08-29T20:08:20.6133438+00:00"
 }

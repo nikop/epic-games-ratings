@@ -7,23 +7,23 @@ Rating: 4.88 (Ranked 19)
 | ---- | ---------- | ----- |
 | Start with a bang! | 12.00% | ~479 |
 | Feeling the beat! | 12.00% | ~479 |
+| Who put gears in there? | 11.00% | ~439 |
 | You can pet the cat! | 11.00% | ~439 |
 | Cream of the Crop | 10.00% | ~399 |
 | Thanks for the free chip, Peppermint! | 10.00% | ~399 |
-| Who put gears in there? | 10.00% | ~399 |
 | You got this, Peppermint? | 9.00% | ~359 |
 | Perfect Parry | 9.00% | ~359 |
 | I play my own way! | 8.00% | ~319 |
 | Alright, that felt AWESOME! | 8.00% | ~319 |
-| This will cost you big time | 7.00% | ~279 |
-| Z-shielding's got nothing on us! | 7.00% | ~279 |
-| Uh, they were broken when I got here | 7.00% | ~279 |
-| Kissing the sky! | 7.00% | ~279 |
-| I look cool. But I can look COOLER. | 7.00% | ~279 |
-| The Negotiator | 6.00% | ~239 |
-| Whoa! There's ANOTHER health bar!? | 6.00% | ~239 |
-| Out in a puff of smoke | 6.00% | ~239 |
-| Does that say weakpoint? | 6.00% | ~239 |
+| This will cost you big time | 7.00% | ~280 |
+| Z-shielding's got nothing on us! | 7.00% | ~280 |
+| Uh, they were broken when I got here | 7.00% | ~280 |
+| Kissing the sky! | 7.00% | ~280 |
+| I look cool. But I can look COOLER. | 7.00% | ~280 |
+| The Negotiator | 6.00% | ~240 |
+| Whoa! There's ANOTHER health bar!? | 6.00% | ~240 |
+| Out in a puff of smoke | 6.00% | ~240 |
+| Does that say weakpoint? | 6.00% | ~240 |
 | NOW we got a kickass hideout! | 6.00% | ~151 |
 | Headliner | 5.00% | ~200 |
 | Time to pay up! | 5.00% | ~200 |
@@ -77,7 +77,7 @@ Rating: 4.88 (Ranked 19)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,991 (Ranked 150)  
+Progressed: 3,993 (Ranked 150)  
 Completed: 7 (0.18%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 7 (0.18%) (Ranked 194)
 | 2023-08-26 | 3,981 | 7 |
 | 2023-08-27 | 3,984 | 7 |
 | 2023-08-28 | 3,986 | 7 |
-| 2023-08-29 | 3,991 | 7 |
+| 2023-08-29 | 3,993 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

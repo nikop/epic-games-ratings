@@ -26,13 +26,13 @@ Rating: 4.45 (Ranked 636)
 | Climbing the Ladder | 15.00% | ~532 |
 | Close Quarters | 15.00% | ~532 |
 | Fields of Glory | 14.00% | ~497 |
+| Skirmisher | 14.00% | ~497 |
 | Die Nussknacker Sweet! | 14.00% | ~497 |
 | Snake in the Grass | 14.00% | ~497 |
 | Brains of the Operation | 14.00% | ~497 |
 | No Stone Unturned | 13.00% | ~461 |
 | Opposing Force | 13.00% | ~461 |
 | Enemy at the Gates | 13.00% | ~461 |
-| Skirmisher | 13.00% | ~461 |
 | Set Europe Ablaze | 12.00% | ~426 |
 | Precision Is Key | 9.00% | ~319 |
 | My Little Friend | 9.00% | ~319 |

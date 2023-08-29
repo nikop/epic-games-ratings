@@ -10,7 +10,7 @@ Number of Ratings: 22  (23.09.2022)
 | Joma | 44.00% | ~180 |
 | Campaign Bronze | 36.00% | ~147 |
 | Lorian | 32.00% | ~131 |
-| Metropolis | 27.00% | ~110 |
+| Metropolis | 28.00% | ~115 |
 | Rounos | 24.00% | ~98 |
 | Campaign Silver | 22.00% | ~90 |
 | Magni | 21.00% | ~86 |

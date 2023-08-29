@@ -4,7 +4,7 @@
   "ProductSlug": "soliloquy-2e82d9",
   "Ranking_EOS_Progress": 563,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewPlayers": 337,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-26T08:58:22.5125772+00:00",
-  "LastUpdate_Ratings": "2023-08-29T19:01:45.9168567+00:00",
-  "LastUpdate_Achievements": "2023-08-29T19:03:04.7460003+00:00"
+  "LastUpdate_Ratings": "2023-08-29T20:01:38.0677909+00:00",
+  "LastUpdate_Achievements": "2023-08-29T20:03:07.8404249+00:00"
 }

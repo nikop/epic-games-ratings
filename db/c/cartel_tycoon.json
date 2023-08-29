@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -1735,9 +1735,9 @@
       "ID": "upgrade-building",
       "SetID": "bed33dd",
       "Name": "Take-Off",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 432
+      "UsersEstimate": 438
     },
     {
       "ID": "use-submarine",
@@ -1759,8 +1759,8 @@
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-08-29T19:07:14.0012354+00:00",
+  "LastChanged_Achievements": "2023-08-29T20:07:08.598307+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:10.4732952+00:00",
-  "LastUpdate_Ratings": "2023-08-29T18:59:49.2636938+00:00",
-  "LastUpdate_Achievements": "2023-08-29T19:07:14.0012614+00:00"
+  "LastUpdate_Ratings": "2023-08-29T19:59:41.3253096+00:00",
+  "LastUpdate_Achievements": "2023-08-29T20:07:08.5983657+00:00"
 }

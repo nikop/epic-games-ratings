@@ -35,13 +35,13 @@ Number of Ratings: 111  (23.09.2022)
 | Lines for days | 5.00% | ~138 |
 | NAHELL! | 5.00% | ~138 |
 | Trick shot marksman | 5.00% | ~138 |
-| Cops called! | 4.00% | ~110 |
-| G.O.A.T. status | 4.00% | ~110 |
-| Manny Destroys All | 4.00% | ~110 |
-| Prince of Philly | 4.00% | ~110 |
-| Renaissance man | 4.00% | ~110 |
-| Tank commander | 4.00% | ~110 |
-| We get it, you're good | 4.00% | ~110 |
+| Cops called! | 4.00% | ~111 |
+| G.O.A.T. status | 4.00% | ~111 |
+| Manny Destroys All | 4.00% | ~111 |
+| Prince of Philly | 4.00% | ~111 |
+| Renaissance man | 4.00% | ~111 |
+| Tank commander | 4.00% | ~111 |
+| We get it, you're good | 4.00% | ~111 |
 | Hoarder | 3.00% | ~83 |
 | Pew-Pew | 3.00% | ~83 |
 | Cross lock country | 2.00% | ~55 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,762 (Ranked 163)  
+Progressed: 2,763 (Ranked 163)  
 Completed: 0 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 0 (0.00%) (Ranked 266)
 | 2023-08-26 | 2,754 | 0 |
 | 2023-08-27 | 2,756 | 0 |
 | 2023-08-28 | 2,759 | 0 |
-| 2023-08-29 | 2,762 | 0 |
+| 2023-08-29 | 2,763 | 0 |
 ## Awards
 Max (Highly Recommended): 52  (Ranked 400)  
 Sum: 454 (Ranked 311)  

@@ -243,9 +243,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 200304,
+  "EOS_Progressed": 200308,
   "EOS_Completed": 490,
-  "EOS_NewPlayers": 596,
+  "EOS_NewPlayers": 594,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -14383,6 +14383,11 @@
       "Time": "2023-08-29T19:06:45.1416261+00:00",
       "NumProgressed": 200304,
       "NumCompleted": 490
+    },
+    {
+      "Time": "2023-08-29T20:06:39.5508079+00:00",
+      "NumProgressed": 200308,
+      "NumCompleted": 490
     }
   ],
   "TotalAchievements": 29,
@@ -14418,7 +14423,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 188286
+      "UsersEstimate": 188290
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -14578,7 +14583,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20030
+      "UsersEstimate": 20031
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -14594,7 +14599,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 14021
+      "UsersEstimate": 14022
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -14625,7 +14630,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 200304,
+      "Progressed": 200308,
       "Completed": 490
     }
   ],
@@ -14633,8 +14638,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-08-19T20:00:31.8399303+00:00",
-  "LastChanged_Achievements": "2023-08-29T19:06:45.1416252+00:00",
+  "LastChanged_Achievements": "2023-08-29T20:06:39.5508071+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:27.0494486+00:00",
-  "LastUpdate_Ratings": "2023-08-29T18:58:19.3292013+00:00",
-  "LastUpdate_Achievements": "2023-08-29T19:06:45.1417684+00:00"
+  "LastUpdate_Ratings": "2023-08-29T19:58:09.8163353+00:00",
+  "LastUpdate_Achievements": "2023-08-29T20:06:39.550931+00:00"
 }

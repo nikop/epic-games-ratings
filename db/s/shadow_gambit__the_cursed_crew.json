@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 541,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.29,
   "EosHistory": [
@@ -1210,9 +1210,9 @@
       "ID": "_04_CollectAllRelics",
       "SetID": "8a1io5d",
       "Name": "This Belongs in a Museum",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 184
+      "UsersEstimate": 189
     },
     {
       "ID": "_05_FinishAct2",
@@ -1250,9 +1250,9 @@
       "ID": "_09_Completion_20",
       "SetID": "8a1io5d",
       "Name": "Powder Monkey",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 146
     },
     {
       "ID": "_10_Completion_30",
@@ -1401,8 +1401,8 @@
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-29T19:06:15.3406439+00:00",
+  "LastChanged_Achievements": "2023-08-29T20:06:09.2886738+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:45.1302228+00:00",
-  "LastUpdate_Ratings": "2023-08-29T19:02:07.0961838+00:00",
-  "LastUpdate_Achievements": "2023-08-29T19:06:15.3406732+00:00"
+  "LastUpdate_Ratings": "2023-08-29T20:01:59.9520554+00:00",
+  "LastUpdate_Achievements": "2023-08-29T20:06:09.2887008+00:00"
 }

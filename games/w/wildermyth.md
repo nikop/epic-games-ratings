@@ -6,14 +6,14 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cost of Heroism | 40.00% | ~551 |
-| Me and My Familiar | 37.00% | ~510 |
-| This Too Shall Pass | 31.00% | ~427 |
-| Passing Shadow | 30.00% | ~413 |
-| Cutthroat Competitors | 30.00% | ~413 |
+| The Cost of Heroism | 40.00% | ~552 |
+| Me and My Familiar | 37.00% | ~511 |
+| This Too Shall Pass | 31.00% | ~428 |
+| Passing Shadow | 30.00% | ~414 |
+| Cutthroat Competitors | 30.00% | ~414 |
 | How Romantic! | 28.00% | ~386 |
 | Daybreak | 28.00% | ~386 |
-| Gotta Ca... Must Collect All of Them | 26.00% | ~358 |
+| Gotta Ca... Must Collect All of Them | 26.00% | ~359 |
 | Completing the Look | 14.00% | ~193 |
 | War Endured | 14.00% | ~193 |
 | Core Failure | 14.00% | ~193 |
@@ -26,8 +26,8 @@ Number of Ratings: 45  (23.09.2022)
 | Chain Reaction | 8.00% | ~110 |
 | Everfading | 8.00% | ~110 |
 | Another Tale to Tell | 8.00% | ~110 |
-| Let Me Get My Chisel | 7.00% | ~96 |
-| A Story of Heroes | 7.00% | ~96 |
+| Let Me Get My Chisel | 7.00% | ~97 |
+| A Story of Heroes | 7.00% | ~97 |
 | Legends Never Die | 6.00% | ~83 |
 | All My Birds, Safely Home | 6.00% | ~83 |
 | Turncoat | 6.00% | ~83 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | We Call That Mortificient! | 0.90% | ~12 |
 | Peacemaker | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,378 (Ranked 188)  
+Progressed: 1,380 (Ranked 188)  
 Completed: 5 (0.36%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,6 +171,7 @@ Completed: 5 (0.36%) (Ranked 167)
 | 2023-08-26 | 1,375 | 5 |
 | 2023-08-27 | 1,376 | 5 |
 | 2023-08-28 | 1,378 | 5 |
+| 2023-08-29 | 1,380 | 5 |
 ## Awards
 Max (Character Customization): 28  (Ranked 468)  
 Sum: 28 (Ranked 480)  

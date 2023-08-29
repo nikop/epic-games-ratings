@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 848,
+  "EOS_Progressed": 849,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -2065,6 +2065,11 @@
       "Time": "2023-08-29T17:03:38.1088178+00:00",
       "NumProgressed": 848,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-29T20:03:31.4883641+00:00",
+      "NumProgressed": 849,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -2202,9 +2207,9 @@
       "ID": "FutureEkko2Defeated",
       "SetID": "a9e499d",
       "Name": "The Betrayer",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 136
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -2364,7 +2369,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "RewindParry",
@@ -2482,9 +2487,9 @@
       "ID": "Zarkon1Defeated",
       "SetID": "a9e499d",
       "Name": "The Brass Boss",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 153
     },
     {
       "ID": "Zarkon2Defeated",
@@ -2499,7 +2504,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 848,
+      "Progressed": 849,
       "Completed": 5
     }
   ],
@@ -2507,8 +2512,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-08-29T19:03:28.2560049+00:00",
+  "LastChanged_Achievements": "2023-08-29T20:03:31.4883634+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:03.8052712+00:00",
-  "LastUpdate_Ratings": "2023-08-29T18:59:05.9014341+00:00",
-  "LastUpdate_Achievements": "2023-08-29T19:03:28.2560753+00:00"
+  "LastUpdate_Ratings": "2023-08-29T19:58:57.4778272+00:00",
+  "LastUpdate_Achievements": "2023-08-29T20:03:31.4884238+00:00"
 }

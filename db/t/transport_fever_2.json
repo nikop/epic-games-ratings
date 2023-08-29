@@ -3726,9 +3726,9 @@
       "ID": "achMissionAllMedals",
       "SetID": "dgl390n",
       "Name": "Exemplary student",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 658
+      "UsersEstimate": 675
     },
     {
       "ID": "achMuseumLine",
@@ -3862,8 +3862,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-08-17T14:57:18.7494823+00:00",
-  "LastChanged_Achievements": "2023-08-29T19:02:27.8688829+00:00",
+  "LastChanged_Achievements": "2023-08-29T20:02:21.7730039+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:28.8254481+00:00",
-  "LastUpdate_Ratings": "2023-08-29T18:59:26.7517018+00:00",
-  "LastUpdate_Achievements": "2023-08-29T19:02:27.8690095+00:00"
+  "LastUpdate_Ratings": "2023-08-29T19:59:18.6573039+00:00",
+  "LastUpdate_Achievements": "2023-08-29T20:02:21.7730924+00:00"
 }
