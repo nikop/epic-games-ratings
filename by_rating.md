@@ -529,7 +529,7 @@
 | 516 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 514 |
 | 516 | [VALORANT](games/v/valorant.md) | 4.53 | 66,794 | 10 |
 | 529 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 42 | 422 |
-| 529 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 31,536 | 15 |
+| 529 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 31,566 | 15 |
 | 529 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 21 | 504 |
 | 529 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.52 | 34 | 443 |
 | 529 | [Fall Guys](games/f/fall_guys.md) | 4.52 | 147,103 | 7 |
@@ -583,7 +583,7 @@
 | 581 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 64 | 388 |
 | 581 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.49 | 0 | 514 |
 | 581 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,988 | 109 |
-| 581 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 36,657 | 13 |
+| 581 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 36,676 | 13 |
 | 581 | [Duskers](games/d/duskers.md) | 4.49 | 0 | 514 |
 | 581 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.49 | 0 | 514 |
 | 581 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 273 | 245 |
@@ -698,7 +698,7 @@
 | 687 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 0 | 514 |
 | 687 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.41 | 0 | 514 |
 | 687 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 35 | 438 |
-| 687 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 74 | 373 |
+| 687 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 74 | 374 |
 | 687 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,199 | 107 |
 | 687 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.41 | 0 | 514 |
 | 687 | [Warpips](games/w/warpips.md) | 4.41 | 26 | 476 |
@@ -971,7 +971,7 @@
 | 967 | [Sengoku Dynasty](games/6/696f412c815b40089807922419188f43.md) | 3.81 | 0 | 514 |
 | 970 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,060 | 142 |
 | 970 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 0 | 514 |
-| 970 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.78 | 74 | 373 |
+| 970 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.78 | 75 | 371 |
 | 973 | [To The Rescue](games/t/to_the_rescue.md) | 3.77 | 0 | 514 |
 | 973 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.77 | 0 | 514 |
 | 975 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.72 | 0 | 514 |
