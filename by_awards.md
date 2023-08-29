@@ -1,6 +1,6 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
-| 1 | [Fortnite](games/f/fortnite.md) | 1,621,650 | 4.29 | 800 |
+| 1 | [Fortnite](games/f/fortnite.md) | 1,622,645 | 4.29 | 800 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 513,041 | 4.49 | 581 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 304,181 | 4.68 | 238 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 217,114 | 4.68 | 238 |
@@ -59,7 +59,7 @@
 | 57 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 5,980 | 4.79 | 88 |
 | 58 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,962 | 4.64 | 313 |
 | 59 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,846 | 4.66 | 278 |
-| 60 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 5,814 | 4.68 | 238 |
+| 60 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 5,827 | 4.68 | 238 |
 | 61 | [Dead Island 2](games/d/dead_island_2.md) | 5,791 | 4.54 | 501 |
 | 62 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 5,777 | 4.75 | 134 |
 | 63 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,749 | 4.82 | 66 |
@@ -97,7 +97,7 @@
 | 95 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 2,796 | 4.82 | 66 |
 | 96 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,703 | 4.51 | 546 |
 | 97 | [Among Us](games/a/among_us.md) | 2,633 | 4.57 | 450 |
-| 98 | [Path of Exile](games/p/path_of_exile.md) | 2,582 | 4.62 | 351 |
+| 98 | [Path of Exile](games/p/path_of_exile.md) | 2,586 | 4.62 | 351 |
 | 99 | [RAGE 2](games/r/rage_2.md) | 2,530 | 4.27 | 817 |
 | 100 | [Gotham Knights](games/g/gotham_knights.md) | 2,524 | 4.18 | 878 |
 | 101 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,502 | 4.10 | 910 |
@@ -198,8 +198,8 @@
 | 196 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 529 | 4.52 | 529 |
 | 197 | [Terraforming Mars](games/t/terraforming_mars.md) | 511 | 4.54 | 501 |
 | 198 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 494 | 4.86 | 30 |
-| 199 | [Prison Architect](games/p/prison_architect.md) | 489 | 4.61 | 367 |
-| 200 | [Train Valley 2](games/t/train_valley_2.md) | 486 | 4.40 | 706 |
+| 199 | [Train Valley 2](games/t/train_valley_2.md) | 491 | 4.40 | 706 |
+| 200 | [Prison Architect](games/p/prison_architect.md) | 489 | 4.61 | 367 |
 | 201 | [Ghostrunner](games/g/ghostrunner.md) | 485 | 4.72 | 172 |
 | 202 | [Dishonored 2](games/d/dishonored_2.md) | 479 | 4.79 | 88 |
 | 203 | [Surviving Mars](games/s/surviving_mars.md) | 478 | 4.60 | 391 |
@@ -289,8 +289,8 @@
 | 286 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 173 | 4.28 | 809 |
 | 288 | [Mothergunship](games/m/mothergunship.md) | 171 | 4.39 | 714 |
 | 289 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 169 | 4.66 | 278 |
-| 290 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 164 | 4.38 | 727 |
-| 290 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 164 | 4.51 | 546 |
+| 290 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 165 | 4.51 | 546 |
+| 291 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 164 | 4.38 | 727 |
 | 292 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 163 | 4.58 | 428 |
 | 293 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 161 | 4.65 | 300 |
 | 294 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 160 | 4.79 | 88 |

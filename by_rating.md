@@ -244,7 +244,7 @@
 | 238 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,350 | 48 |
 | 238 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,921 | 81 |
 | 238 | [DOOM II](games/d/doom_ii.md) | 4.68 | 26 | 476 |
-| 238 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,814 | 60 |
+| 238 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,827 | 60 |
 | 238 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 3,701 | 84 |
 | 238 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 304,181 | 3 |
 | 238 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 217,114 | 4 |
@@ -360,7 +360,7 @@
 | 351 | [Limbo](games/l/limbo.md) | 4.62 | 0 | 514 |
 | 351 | [NORCO](games/n/norco.md) | 4.62 | 0 | 514 |
 | 351 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 0 | 514 |
-| 351 | [Path of Exile](games/p/path_of_exile.md) | 4.62 | 2,582 | 98 |
+| 351 | [Path of Exile](games/p/path_of_exile.md) | 4.62 | 2,586 | 98 |
 | 351 | [Prey](games/p/prey.md) | 4.62 | 5,656 | 64 |
 | 351 | [Roguebook](games/r/roguebook.md) | 4.62 | 0 | 514 |
 | 351 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.62 | 34 | 443 |
@@ -382,7 +382,7 @@
 | 367 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 0 | 514 |
 | 367 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 676 | 171 |
 | 367 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 105 | 332 |
-| 367 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 489 | 199 |
+| 367 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 489 | 200 |
 | 367 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 9,901 | 37 |
 | 367 | [RiME](games/r/rime.md) | 4.61 | 0 | 514 |
 | 367 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,074 | 139 |
@@ -555,7 +555,7 @@
 | 546 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.51 | 0 | 514 |
 | 546 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.51 | 764 | 162 |
 | 546 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 64 | 388 |
-| 546 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.51 | 164 | 290 |
+| 546 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.51 | 165 | 290 |
 | 546 | [UnMetal](games/u/unmetal.md) | 4.51 | 0 | 514 |
 | 546 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 36 | 433 |
 | 546 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 134 | 309 |
@@ -712,7 +712,7 @@
 | 706 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 444 | 206 |
 | 706 | [The Lion's Song](games/t/the_lion's_song.md) | 4.40 | 0 | 514 |
 | 706 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.40 | 557 | 192 |
-| 706 | [Train Valley 2](games/t/train_valley_2.md) | 4.40 | 486 | 200 |
+| 706 | [Train Valley 2](games/t/train_valley_2.md) | 4.40 | 491 | 199 |
 | 714 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.39 | 0 | 514 |
 | 714 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 1,017 | 144 |
 | 714 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 0 | 514 |
@@ -731,7 +731,7 @@
 | 727 | [Beholder 3](games/b/beholder_3.md) | 4.38 | 0 | 514 |
 | 727 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 0 | 514 |
 | 727 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 575 | 185 |
-| 727 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 164 | 290 |
+| 727 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 164 | 291 |
 | 727 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.38 | 73 | 375 |
 | 727 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 514 |
 | 727 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.38 | 0 | 514 |
@@ -802,7 +802,7 @@
 | 800 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.29 | 0 | 514 |
 | 800 | [Chess Ultra](games/c/chess_ultra.md) | 4.29 | 0 | 514 |
 | 800 | [Dark Light](games/d/dark_light.md) | 4.29 | 0 | 514 |
-| 800 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,621,650 | 1 |
+| 800 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,622,645 | 1 |
 | 800 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.29 | 0 | 514 |
 | 800 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 721 | 165 |
 | 800 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 44 | 418 |
