@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewPlayers": 291,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
@@ -620,9 +620,9 @@
       "ID": "Omnipotence",
       "SetID": "gl7plp",
       "Name": "Omnipotence",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 75,
-      "UsersEstimate": 126
+      "UsersEstimate": 133
     },
     {
       "ID": "SERENITY_NOW",
@@ -700,9 +700,9 @@
       "ID": "The_Warlord",
       "SetID": "gl7plp",
       "Name": "The Warlord",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 75,
-      "UsersEstimate": 133
+      "UsersEstimate": 140
     },
     {
       "ID": "The_things_they_print_nowadays",
@@ -789,8 +789,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-08-11T17:59:11.6901866+00:00",
-  "LastChanged_Achievements": "2023-08-29T08:04:52.4411181+00:00",
+  "LastChanged_Achievements": "2023-08-29T09:05:05.0734757+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:21.3892284+00:00",
-  "LastUpdate_Ratings": "2023-08-29T08:00:26.6699675+00:00",
-  "LastUpdate_Achievements": "2023-08-29T08:04:52.4411476+00:00"
+  "LastUpdate_Ratings": "2023-08-29T09:00:42.5448668+00:00",
+  "LastUpdate_Achievements": "2023-08-29T09:05:05.0734996+00:00"
 }

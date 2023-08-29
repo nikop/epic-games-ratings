@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2578,
+  "EOS_Progressed": 2579,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
@@ -2858,6 +2858,11 @@
       "Time": "2023-08-29T01:47:58.8036841+00:00",
       "NumProgressed": 2578,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-08-29T09:06:08.5057479+00:00",
+      "NumProgressed": 2579,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -2949,7 +2954,7 @@
       "Name": "The end",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "TRANSMISSION",
@@ -2972,7 +2977,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2578,
+      "Progressed": 2579,
       "Completed": 6
     }
   ],
@@ -2980,8 +2985,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-08-29T08:05:54.8085718+00:00",
+  "LastChanged_Achievements": "2023-08-29T09:06:08.5057474+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:49.6137294+00:00",
-  "LastUpdate_Ratings": "2023-08-29T07:58:06.2573991+00:00",
-  "LastUpdate_Achievements": "2023-08-29T08:05:54.8086402+00:00"
+  "LastUpdate_Ratings": "2023-08-29T08:58:10.5821384+00:00",
+  "LastUpdate_Achievements": "2023-08-29T09:06:08.5057705+00:00"
 }

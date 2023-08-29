@@ -6765,9 +6765,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 59880,
+  "EOS_Progressed": 59881,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 468,
+  "EOS_NewPlayers": 467,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20615,6 +20615,11 @@
       "Time": "2023-08-29T08:06:05.1574849+00:00",
       "NumProgressed": 59880,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-29T09:06:19.2150152+00:00",
+      "NumProgressed": 59881,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -20642,7 +20647,7 @@
       "Name": "Bannerlord",
       "Percentage": 23,
       "XP": 65,
-      "UsersEstimate": 13772
+      "UsersEstimate": 13773
     },
     {
       "ID": "Best served cold",
@@ -20754,7 +20759,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 7784
+      "UsersEstimate": 7785
     },
     {
       "ID": "Great Granny",
@@ -20786,7 +20791,7 @@
       "Name": "Horde breaker",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 13772
+      "UsersEstimate": 13773
     },
     {
       "ID": "I can do it",
@@ -20858,7 +20863,7 @@
       "Name": "Lawbringer",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 22754
+      "UsersEstimate": 22755
     },
     {
       "ID": "Lawmaker",
@@ -20866,7 +20871,7 @@
       "Name": "Lawmaker",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 13772
+      "UsersEstimate": 13773
     },
     {
       "ID": "Long live the Empire",
@@ -20978,7 +20983,7 @@
       "Name": "The king is pleased",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 10778
+      "UsersEstimate": 10779
     },
     {
       "ID": "This Is Our Land",
@@ -21033,15 +21038,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 59880,
+      "Progressed": 59881,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-08-29T06:58:57.056377+00:00",
-  "LastChanged_Achievements": "2023-08-29T08:06:05.1574841+00:00",
+  "LastChanged_Achievements": "2023-08-29T09:06:19.2150147+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:26.1294952+00:00",
-  "LastUpdate_Ratings": "2023-08-29T07:58:36.4019333+00:00",
-  "LastUpdate_Achievements": "2023-08-29T08:06:05.1576962+00:00"
+  "LastUpdate_Ratings": "2023-08-29T08:58:48.3853468+00:00",
+  "LastUpdate_Achievements": "2023-08-29T09:06:19.2151116+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -488,9 +488,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3544,
+  "EOS_Progressed": 3545,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -6293,6 +6293,11 @@
       "Time": "2023-08-29T03:09:49.8383345+00:00",
       "NumProgressed": 3544,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-08-29T09:05:45.7582049+00:00",
+      "NumProgressed": 3545,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 71,
@@ -6384,7 +6389,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1630
+      "UsersEstimate": 1631
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -6424,7 +6429,7 @@
       "Name": "Gunslinger",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -6528,7 +6533,7 @@
       "Name": "Resourceful",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 921
+      "UsersEstimate": 922
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -6640,7 +6645,7 @@
       "Name": "Change the Channel",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1063
+      "UsersEstimate": 1064
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -6871,13 +6876,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3495,
+      "Progressed": 3496,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3544,
+      "Progressed": 3545,
       "Completed": 10
     }
   ],
@@ -6885,8 +6890,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-08-28T15:59:25.8745105+00:00",
-  "LastChanged_Achievements": "2023-08-29T08:05:32.0910232+00:00",
+  "LastChanged_Achievements": "2023-08-29T09:05:45.7582043+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:12.9306959+00:00",
-  "LastUpdate_Ratings": "2023-08-29T07:59:35.627398+00:00",
-  "LastUpdate_Achievements": "2023-08-29T08:05:32.0911882+00:00"
+  "LastUpdate_Ratings": "2023-08-29T08:59:47.1879567+00:00",
+  "LastUpdate_Achievements": "2023-08-29T09:05:45.7582881+00:00"
 }

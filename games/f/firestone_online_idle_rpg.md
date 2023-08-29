@@ -5,14 +5,14 @@ Rating: 4.04 (Ranked 931)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,732 |
-| World Map | 79.00% | ~1,471 |
-| Temple of Eternals | 57.00% | ~1,061 |
+| Victor | 93.00% | ~1,733 |
+| World Map | 79.00% | ~1,472 |
+| Temple of Eternals | 57.00% | ~1,062 |
 | Prestigious | 53.00% | ~987 |
-| Fellowship Power | 41.00% | ~763 |
+| Fellowship Power | 41.00% | ~764 |
 | Guild Power | 25.00% | ~466 |
 | Prestigious x10 | 22.00% | ~410 |
-| The game is on | 20.00% | ~372 |
+| The game is on | 20.00% | ~373 |
 | Exotic Merchant | 19.00% | ~354 |
 | Dragon Clicker | 17.00% | ~317 |
 | Miner Clicker | 17.00% | ~317 |
@@ -21,13 +21,13 @@ Rating: 4.04 (Ranked 931)
 | Dragon Master | 15.00% | ~279 |
 | Enlightenment | 15.00% | ~279 |
 | Hero inspection | 15.00% | ~279 |
-| Lieutenant | 15.00% | ~279 |
+| Lieutenant | 14.00% | ~261 |
 | Mysterious Rock | 14.00% | ~261 |
 | Milestone collector | 13.00% | ~242 |
 | Natural Talent | 13.00% | ~242 |
 | Superior | 13.00% | ~242 |
 | The Unstoppable | 13.00% | ~242 |
-| Scientist | 12.00% | ~223 |
+| Scientist | 12.00% | ~224 |
 | Doing My Part | 11.00% | ~205 |
 | Hunter | 11.00% | ~205 |
 | Mastery | 11.00% | ~205 |
@@ -60,7 +60,7 @@ Rating: 4.04 (Ranked 931)
 | Background Story | 5.00% | ~93 |
 | Ebony Jungle Liberator | 5.00% | ~93 |
 | Legendary | 5.00% | ~93 |
-| Arena Challenger | 4.00% | ~74 |
+| Arena Challenger | 4.00% | ~75 |
 | What lies behind the bush | 3.00% | ~56 |
 | Gear Enchanting | 2.00% | ~37 |
 | Mythic Power | 2.00% | ~37 |
@@ -81,7 +81,7 @@ Rating: 4.04 (Ranked 931)
 | Silverwood liberator | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,862 (Ranked 174)  
+Progressed: 1,863 (Ranked 174)  
 Completed: 2 (0.11%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,6 +211,7 @@ Completed: 2 (0.11%) (Ranked 210)
 | 2023-08-26 | 1,858 | 2 |
 | 2023-08-27 | 1,859 | 2 |
 | 2023-08-28 | 1,862 | 2 |
+| 2023-08-29 | 1,863 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

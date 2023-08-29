@@ -12,6 +12,7 @@ Rating: 4.63 (Ranked 333)
 | Déjà Vu | 33.00% | ~1 |
 | Somebody Set Up Us The Bomb | 33.00% | ~1 |
 | Goldberg’s Ricochet | 33.00% | ~1 |
+| Finish Him! | 33.00% | ~1 |
 | Enjoy Your Purchase | 33.00% | ~1 |
 | Shields Up! | 0.00% | ~0 |
 | Load ‘em Up! | 0.00% | ~0 |
@@ -36,7 +37,6 @@ Rating: 4.63 (Ranked 333)
 | The Key To Vector Sigma | 0.00% | ~0 |
 | Not Even My Final Form | 0.00% | ~0 |
 | Anti-Virus | 0.00% | ~0 |
-| Finish Him! | 0.00% | ~0 |
 | Asunder The Influence | 0.00% | ~0 |
 | Through The Looking Glass | 0.00% | ~0 |
 | TV Dinner | 0.00% | ~0 |

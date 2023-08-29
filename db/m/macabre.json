@@ -2,9 +2,9 @@
   "ID": "a6fc7bb02f374835affa65869038af69",
   "Name": "Macabre",
   "ProductSlug": "macabre-1c4bc6",
-  "Ranking_EOS_Progress": 562,
+  "Ranking_EOS_Progress": 563,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewPlayers": 334,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-26T08:57:25.8106763+00:00",
-  "LastUpdate_Ratings": "2023-08-29T07:57:48.9021072+00:00",
-  "LastUpdate_Achievements": "2023-08-29T08:06:26.9852078+00:00"
+  "LastUpdate_Ratings": "2023-08-29T08:57:54.6920194+00:00",
+  "LastUpdate_Achievements": "2023-08-29T09:06:41.5181807+00:00"
 }

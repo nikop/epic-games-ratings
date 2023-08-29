@@ -302,9 +302,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16709,
+  "EOS_Progressed": 16710,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 204,
+  "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -10387,6 +10387,11 @@
       "Time": "2023-08-29T07:07:49.252387+00:00",
       "NumProgressed": 16709,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-08-29T09:06:55.7808401+00:00",
+      "NumProgressed": 16710,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 16,
@@ -10398,7 +10403,7 @@
       "Name": "Beat \u0027em Up",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 4511
+      "UsersEstimate": 4512
     },
     {
       "ID": "Burning_For_You",
@@ -10502,7 +10507,7 @@
       "Name": "Sole Survivor",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 6182
+      "UsersEstimate": 6183
     },
     {
       "ID": "Still_Burning",
@@ -10525,15 +10530,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 16709,
+      "Progressed": 16710,
       "Completed": 102
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-07-21T02:04:12.2963456+00:00",
-  "LastChanged_Achievements": "2023-08-29T08:06:41.5546379+00:00",
+  "LastChanged_Achievements": "2023-08-29T09:06:55.7808395+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:38.6700837+00:00",
-  "LastUpdate_Ratings": "2023-08-29T07:57:55.0615419+00:00",
-  "LastUpdate_Achievements": "2023-08-29T08:06:41.5547982+00:00"
+  "LastUpdate_Ratings": "2023-08-29T08:58:01.4907192+00:00",
+  "LastUpdate_Achievements": "2023-08-29T09:06:55.7808967+00:00"
 }

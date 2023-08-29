@@ -1,9 +1,9 @@
 {
   "ID": "b15fbb77440547c29567bfa76a878a32",
   "Name": "BioShock: The Collection",
-  "Ranking_EOS_Progress": 562,
+  "Ranking_EOS_Progress": 563,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewPlayers": 334,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": null,
@@ -25,6 +25,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:31:09.4252357+00:00",
-  "LastUpdate_Ratings": "2023-08-29T08:00:33.9864764+00:00",
-  "LastUpdate_Achievements": "2023-08-29T08:05:54.5056475+00:00"
+  "LastUpdate_Ratings": "2023-08-29T09:00:52.2678768+00:00",
+  "LastUpdate_Achievements": "2023-08-29T09:06:08.1893018+00:00"
 }

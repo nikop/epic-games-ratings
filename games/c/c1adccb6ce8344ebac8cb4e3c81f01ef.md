@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Red Skeleton | 60.00% | ~226 |
 | Orange Skeleton | 43.00% | ~162 |
-| Yellow Skeleton | 15.00% | ~57 |
+| Yellow Skeleton | 16.00% | ~60 |
 | Blue Skeleton | 11.00% | ~41 |
 | Green Skeleton | 4.00% | ~15 |
 | Black Skeleton | 2.00% | ~8 |
