@@ -19,7 +19,7 @@
 | 13 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.89 | 0 | 514 |
 | 13 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 17,882 | 21 |
 | 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 137 | 308 |
-| 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,222 | 78 |
+| 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,225 | 78 |
 | 19 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.88 | 0 | 514 |
 | 19 | [Ooblets](games/o/ooblets.md) | 4.88 | 1,021 | 143 |
 | 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 170,495 | 6 |
@@ -94,7 +94,7 @@
 | 88 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.79 | 0 | 514 |
 | 88 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 855 | 153 |
 | 88 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 752 | 163 |
-| 88 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,977 | 57 |
+| 88 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,980 | 57 |
 | 88 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.79 | 158 | 295 |
 | 88 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.79 | 2,455 | 102 |
 | 88 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 386 | 218 |
@@ -404,7 +404,7 @@
 | 391 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,619 | 27 |
 | 391 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 121 | 318 |
 | 391 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.60 | 0 | 514 |
-| 391 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 641 | 176 |
+| 391 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 642 | 176 |
 | 391 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 63 | 390 |
 | 391 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 478 | 203 |
 | 391 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.60 | 233 | 261 |
@@ -532,7 +532,7 @@
 | 529 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 31,536 | 15 |
 | 529 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 21 | 504 |
 | 529 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.52 | 34 | 443 |
-| 529 | [Fall Guys](games/f/fall_guys.md) | 4.52 | 147,057 | 7 |
+| 529 | [Fall Guys](games/f/fall_guys.md) | 4.52 | 147,103 | 7 |
 | 529 | [For Honor Standard Edition](games/f/for_honor_standard_edition.md) | 4.52 | 0 | 514 |
 | 529 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 529 | 196 |
 | 529 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 102 | 335 |
@@ -547,7 +547,7 @@
 | 529 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 0 | 514 |
 | 546 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 98 | 340 |
 | 546 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 780 | 160 |
-| 546 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,115 | 80 |
+| 546 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,116 | 80 |
 | 546 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 514 |
 | 546 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.51 | 2,703 | 96 |
 | 546 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 109 | 328 |
@@ -591,7 +591,7 @@
 | 581 | [Maneater](games/m/maneater.md) | 4.49 | 13,638 | 26 |
 | 581 | [Mars Horizon](games/m/mars_horizon.md) | 4.49 | 0 | 514 |
 | 581 | [MythForce](games/m/mythforce.md) | 4.49 | 32 | 456 |
-| 581 | [Rocket League®](games/r/rocket_league®.md) | 4.49 | 512,415 | 2 |
+| 581 | [Rocket League®](games/r/rocket_league®.md) | 4.49 | 513,041 | 2 |
 | 581 | [Solitairica](games/s/solitairica.md) | 4.49 | 84 | 360 |
 | 581 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 0 | 514 |
 | 581 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.49 | 2,423 | 103 |

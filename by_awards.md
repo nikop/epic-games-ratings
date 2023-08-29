@@ -1,12 +1,12 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 1,621,650 | 4.29 | 800 |
-| 2 | [Rocket League®](games/r/rocket_league®.md) | 512,415 | 4.49 | 581 |
+| 2 | [Rocket League®](games/r/rocket_league®.md) | 513,041 | 4.49 | 581 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 304,181 | 4.68 | 238 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 217,114 | 4.68 | 238 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 196,599 | 4.19 | 869 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 170,495 | 4.88 | 19 |
-| 7 | [Fall Guys](games/f/fall_guys.md) | 147,057 | 4.52 | 529 |
+| 7 | [Fall Guys](games/f/fall_guys.md) | 147,103 | 4.52 | 529 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 115,341 | 4.69 | 217 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 76,580 | 4.62 | 351 |
 | 10 | [VALORANT](games/v/valorant.md) | 66,794 | 4.53 | 516 |
@@ -56,7 +56,7 @@
 | 54 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,417 | 4.80 | 83 |
 | 55 | [Sifu](games/s/sifu.md) | 6,406 | 4.82 | 66 |
 | 56 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,320 | 4.58 | 428 |
-| 57 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 5,977 | 4.79 | 88 |
+| 57 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 5,980 | 4.79 | 88 |
 | 58 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,962 | 4.64 | 313 |
 | 59 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,846 | 4.66 | 278 |
 | 60 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 5,814 | 4.68 | 238 |
@@ -77,9 +77,9 @@
 | 75 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4,432 | 4.76 | 118 |
 | 76 | [Bloons TD 6](games/b/bloons_td_6.md) | 4,374 | 4.77 | 109 |
 | 77 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,367 | 4.56 | 472 |
-| 78 | [God of War](games/g/god_of_war.md) | 4,222 | 4.88 | 19 |
+| 78 | [God of War](games/g/god_of_war.md) | 4,225 | 4.88 | 19 |
 | 79 | [SMITE](games/s/smite.md) | 4,201 | 4.44 | 649 |
-| 80 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,115 | 4.51 | 546 |
+| 80 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,116 | 4.51 | 546 |
 | 81 | [Days Gone](games/d/days_gone.md) | 3,920 | 4.68 | 238 |
 | 82 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,793 | 4.57 | 450 |
 | 83 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,741 | 4.28 | 809 |
@@ -175,7 +175,7 @@
 | 173 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 671 | 4.74 | 145 |
 | 174 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 666 | 4.67 | 256 |
 | 175 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 647 | 4.74 | 145 |
-| 176 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 641 | 4.60 | 391 |
+| 176 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 642 | 4.60 | 391 |
 | 177 | [Football Manager 2023](games/f/football_manager_2023.md) | 638 | 4.75 | 134 |
 | 178 | [FAR CRY 4](games/f/far_cry_4.md) | 636 | 4.67 | 256 |
 | 179 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 630 | 4.50 | 561 |

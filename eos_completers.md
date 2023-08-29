@@ -24,11 +24,11 @@
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 11.36% |
 | 23 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 23 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
-| 23 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 11.11% |
 | 23 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.11% |
-| 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.00% |
-| 28 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.71% |
-| 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.29% |
+| 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.00% |
+| 27 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.71% |
+| 28 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.29% |
+| 29 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 10.00% |
 | 30 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
 | 31 | [Sonic Origins](games/s/sonic_origins.md) | 9.20% |
 | 32 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
@@ -120,9 +120,9 @@
 | 118 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.03% |
 | 119 | [Adios](games/a/adios.md) | 1.02% |
 | 120 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.01% |
+| 121 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.99% |
 | 121 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.99% |
-| 122 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
-| 122 | [Sable](games/s/sable.md) | 0.98% |
+| 123 | [Sable](games/s/sable.md) | 0.98% |
 | 124 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.95% |
 | 125 | [Hades](games/h/hades.md) | 0.90% |
 | 126 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
