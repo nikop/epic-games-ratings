@@ -3,7 +3,7 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 49.35% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.31% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 35.71% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 37.14% |
 | 5 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 33.33% |
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.95% |
 | 7 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
@@ -209,12 +209,12 @@
 | 205 | [Isonzo](games/i/isonzo.md) | 0.12% |
 | 205 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
 | 205 | [Port Royale 4](games/p/port_royale_4.md) | 0.12% |
-| 210 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.11% |
 | 210 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.11% |
 | 210 | [Ring of Pain](games/r/ring_of_pain.md) | 0.11% |
-| 213 | [House Flipper](games/h/house_flipper.md) | 0.10% |
-| 213 | [Shop Titans](games/s/shop_titans.md) | 0.10% |
-| 213 | [Supraland](games/s/supraland.md) | 0.10% |
+| 212 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
+| 212 | [House Flipper](games/h/house_flipper.md) | 0.10% |
+| 212 | [Shop Titans](games/s/shop_titans.md) | 0.10% |
+| 212 | [Supraland](games/s/supraland.md) | 0.10% |
 | 216 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.09% |
 | 216 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
 | 216 | [Operation New Earth](games/o/operation_new_earth.md) | 0.09% |

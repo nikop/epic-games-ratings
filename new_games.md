@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Prison City](games/0/014076220d2f44559dc3479249d88f62.md) | 2023-08-29 | - |  | - | - |
 | [Under The Waves](games/d/d5309b9c54564b1f9a0b4c6b797cc5f0.md) | 2023-08-28 | - |  | - | - |
 | [Sniper Wild West Shooting Simulator](games/a/a4368659166c4e53aed26aa64f86f9d7.md) | 2023-08-28 | - |  | - | - |
 | [Love Too Easily](games/f/f2e5527508fc488884b634181564e9b2.md) | 2023-08-28 | - |  | - | - |
@@ -21,7 +22,7 @@
 | [SPRAWL](games/6/646aa9a788d44357b46de3f75335d3d3.md) | 2023-08-23 | - |  | - | 0 |
 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 2023-08-23 | 14 (1,000 XP) | 40 | - | 0 |
 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 2023-08-22 | 22 (1,000 XP) | 3 | - | - |
-| [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 2023-08-22 | 20 (1,000 XP) | 486 | - | 0 |
+| [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 2023-08-22 | 20 (1,000 XP) | 487 | - | 0 |
 | [Watch Over Christmas](games/2/263f654a1236484397892332888256aa.md) | 2023-08-22 | 43 (1,000 XP) | 0 | - | 0 |
 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 2023-08-22 | - |  | - | 0 |
 | [T-Rex Dinosaur Game](games/d/d67581786e2f4accb7606e7951962450.md) | 2023-08-22 | - |  | - | 0 |
@@ -85,7 +86,7 @@
 | [Prince of Persia: The Forgotten Sands STANDARD EDITION](games/d/db75e4104b3343eda2e6530e7bb03cd9.md) | 2023-08-03 | - |  | - | 0 |
 | [Towerful](games/5/5b453822aeeb42a2a7472eeaadda459a.md) | 2023-08-03 | - |  | - | 0 |
 | [Traffic Brains 2](games/f/f6a9fcbf437b48b59cf3d54a75c20932.md) | 2023-08-03 | - |  | - | 0 |
-| [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 2023-08-03 | 17 (1,000 XP) | 66,045 | 4.19 | 0 |
+| [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 2023-08-03 | 17 (1,000 XP) | 66,066 | 4.19 | 0 |
 | [Estar Fiel](games/a/a3495aaa160141de8520582a9ca5c7f4.md) | 2023-08-02 | - |  | - | - |
 | [Forest Fire](games/6/6a249c368e9a4ad99bbdfe23997f26ba.md) | 2023-08-02 | 34 (1,000 XP) | 24 | - | - |
 | [Paquerette Down the Bunburrows](games/3/3c8f3297965d4326b0b16a6aeb968b5d.md) | 2023-08-02 | 60 (1,000 XP) | 1 | - | - |

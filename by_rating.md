@@ -30,6 +30,7 @@
 | 26 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 721 | 165 |
 | 26 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.87 | 0 | 514 |
 | 30 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 0 | 514 |
+| 30 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.86 | 21 | 504 |
 | 30 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 150 | 299 |
 | 30 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 38 | 428 |
 | 30 | [Inscryption](games/i/inscryption.md) | 4.86 | 339 | 229 |
@@ -38,15 +39,14 @@
 | 30 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 44 | 418 |
 | 30 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,401 | 129 |
 | 30 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.86 | 0 | 514 |
-| 30 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 494 | 198 |
+| 30 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 495 | 198 |
 | 30 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.86 | 0 | 514 |
 | 30 | [WarmSnow](games/w/warmsnow.md) | 4.86 | 0 | 514 |
-| 42 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.85 | 21 | 504 |
-| 42 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,797 | 44 |
-| 42 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,550 | 65 |
-| 42 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 221 | 263 |
-| 42 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.85 | 141 | 306 |
-| 42 | [Subnautica](games/s/subnautica.md) | 4.85 | 688 | 169 |
+| 43 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,797 | 44 |
+| 43 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,550 | 65 |
+| 43 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 221 | 263 |
+| 43 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.85 | 141 | 306 |
+| 43 | [Subnautica](games/s/subnautica.md) | 4.85 | 688 | 169 |
 | 48 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 51 | 401 |
 | 48 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 47 | 409 |
 | 48 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 217 | 269 |
@@ -234,7 +234,7 @@
 | 217 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 0 | 514 |
 | 217 | [The Pathless](games/t/the_pathless.md) | 4.69 | 0 | 514 |
 | 217 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 40 | 426 |
-| 217 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 963 | 148 |
+| 217 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 965 | 147 |
 | 217 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 0 | 514 |
 | 217 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 817 | 155 |
 | 238 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,341 | 89 |
@@ -247,7 +247,7 @@
 | 238 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,827 | 60 |
 | 238 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 3,701 | 84 |
 | 238 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 304,181 | 3 |
-| 238 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 217,114 | 4 |
+| 238 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 217,459 | 4 |
 | 238 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 514 |
 | 238 | [King of Retail](games/k/king_of_retail.md) | 4.68 | 0 | 514 |
 | 238 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 562 | 188 |
@@ -301,7 +301,7 @@
 | 278 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 0 | 514 |
 | 300 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 0 | 514 |
 | 300 | [Carcassonne](games/c/carcassonne.md) | 4.65 | 78 | 365 |
-| 300 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 5,240 | 67 |
+| 300 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 5,241 | 67 |
 | 300 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 0 | 514 |
 | 300 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 161 | 293 |
 | 300 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.65 | 0 | 514 |
@@ -791,7 +791,7 @@
 | 787 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.31 | 0 | 514 |
 | 787 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.31 | 79 | 363 |
 | 787 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.31 | 22 | 495 |
-| 787 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 964 | 147 |
+| 787 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 964 | 148 |
 | 787 | [Scrapnaut](games/s/scrapnaut.md) | 4.31 | 0 | 514 |
 | 794 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 0 | 514 |
 | 794 | [Hammerting](games/h/hammerting.md) | 4.30 | 0 | 514 |
@@ -969,9 +969,9 @@
 | 967 | [Blood of Steel](games/b/blood_of_steel.md) | 3.81 | 0 | 514 |
 | 967 | [Poker Club](games/p/poker_club.md) | 3.81 | 35 | 438 |
 | 967 | [Sengoku Dynasty](games/6/696f412c815b40089807922419188f43.md) | 3.81 | 0 | 514 |
-| 970 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,060 | 142 |
-| 970 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 0 | 514 |
-| 970 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.78 | 75 | 371 |
+| 970 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.79 | 0 | 514 |
+| 971 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,060 | 142 |
+| 971 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.78 | 75 | 371 |
 | 973 | [To The Rescue](games/t/to_the_rescue.md) | 3.77 | 0 | 514 |
 | 973 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.77 | 0 | 514 |
 | 975 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.72 | 0 | 514 |
