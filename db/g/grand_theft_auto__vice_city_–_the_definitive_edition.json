@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 436,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -604,9 +604,9 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 9787,
+  "EOS_Progressed": 9788,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -8859,6 +8859,11 @@
       "Time": "2023-08-29T09:03:13.9176701+00:00",
       "NumProgressed": 9787,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-08-29T12:02:50.6935034+00:00",
+      "NumProgressed": 9788,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 34,
@@ -8926,7 +8931,7 @@
       "Name": "Pie Guy",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "ACH09",
@@ -9038,7 +9043,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1957
+      "UsersEstimate": 1958
     },
     {
       "ID": "ACH23",
@@ -9141,7 +9146,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9787,
+      "Progressed": 9788,
       "Completed": 52
     }
   ],
@@ -9149,8 +9154,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-08-25T07:03:02.1151116+00:00",
-  "LastChanged_Achievements": "2023-08-29T11:02:17.77144+00:00",
+  "LastChanged_Achievements": "2023-08-29T12:02:50.6935026+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:56.8942974+00:00",
-  "LastUpdate_Ratings": "2023-08-29T11:00:31.2909887+00:00",
-  "LastUpdate_Achievements": "2023-08-29T11:02:17.77152+00:00"
+  "LastUpdate_Ratings": "2023-08-29T12:02:24.6911614+00:00",
+  "LastUpdate_Achievements": "2023-08-29T12:02:50.6936157+00:00"
 }

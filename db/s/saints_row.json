@@ -3402,7 +3402,7 @@
       "Count": 1060
     }
   ],
-  "EOS_Progressed": 65444,
+  "EOS_Progressed": 65451,
   "EOS_Completed": 45,
   "EOS_NewPlayers": 2411,
   "EOS_NewCompleters": 2,
@@ -17852,6 +17852,11 @@
       "Time": "2023-08-29T11:05:01.5265005+00:00",
       "NumProgressed": 65444,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-08-29T12:05:50.4231452+00:00",
+      "NumProgressed": 65451,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 53,
@@ -17871,7 +17876,7 @@
       "Name": "It\u0027s a Bird!",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "beat_loyalty_missions",
@@ -17879,7 +17884,7 @@
       "Name": "Quality Time",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 11125
+      "UsersEstimate": 11127
     },
     {
       "ID": "buy_1_thing_from_every_store",
@@ -17887,7 +17892,7 @@
       "Name": "Shopping Spree",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1963
+      "UsersEstimate": 1964
     },
     {
       "ID": "car_jacked_by_a_ped",
@@ -17895,7 +17900,7 @@
       "Name": "Hijacked",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 7199
+      "UsersEstimate": 7200
     },
     {
       "ID": "collect_high_amount_hero_props",
@@ -17903,7 +17908,7 @@
       "Name": "The Collector",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "collect_low_amount_hero_props",
@@ -17911,7 +17916,7 @@
       "Name": "Finders Keepers",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 15707
+      "UsersEstimate": 15708
     },
     {
       "ID": "complet_epilogue_mission",
@@ -17919,7 +17924,7 @@
       "Name": "We could go home, or\u2026",
       "Percentage": 7,
       "XP": 75,
-      "UsersEstimate": 4581
+      "UsersEstimate": 4582
     },
     {
       "ID": "complete_all_of_wanted",
@@ -17927,7 +17932,7 @@
       "Name": "The Professional",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 3272
+      "UsersEstimate": 3273
     },
     {
       "ID": "complete_all_side_hustles",
@@ -17935,7 +17940,7 @@
       "Name": "Always Be Hustling",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 1963
+      "UsersEstimate": 1964
     },
     {
       "ID": "complete_challenge_packs",
@@ -17943,7 +17948,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4581
+      "UsersEstimate": 4582
     },
     {
       "ID": "complete_final_mission",
@@ -17951,7 +17956,7 @@
       "Name": "Showdown",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10471
+      "UsersEstimate": 10472
     },
     {
       "ID": "complete_first_side_hustle",
@@ -17959,7 +17964,7 @@
       "Name": "The Side Job",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 19633
+      "UsersEstimate": 19635
     },
     {
       "ID": "complete_first_wanted_mission",
@@ -17967,7 +17972,7 @@
       "Name": "Wet Work",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 19633
+      "UsersEstimate": 19635
     },
     {
       "ID": "complete_mission_1",
@@ -17975,7 +17980,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 28795
+      "UsersEstimate": 28798
     },
     {
       "ID": "customize_a_vehicle",
@@ -17983,7 +17988,7 @@
       "Name": "Tune Up",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 20942
+      "UsersEstimate": 20944
     },
     {
       "ID": "customize_a_weapon",
@@ -17991,7 +17996,7 @@
       "Name": "Optimized",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 22905
+      "UsersEstimate": 22908
     },
     {
       "ID": "cutting_edge_materials",
@@ -18007,7 +18012,7 @@
       "Name": "Chaos Tamer",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 3272
+      "UsersEstimate": 3273
     },
     {
       "ID": "destroy_car_with_fist_cannon",
@@ -18023,7 +18028,7 @@
       "Name": "Untouchable",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 3272
+      "UsersEstimate": 3273
     },
     {
       "ID": "do_a_barrel_roll",
@@ -18031,7 +18036,7 @@
       "Name": "The Spins",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5890
+      "UsersEstimate": 5891
     },
     {
       "ID": "empire_tier_2",
@@ -18039,7 +18044,7 @@
       "Name": "A Young Empire",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 15707
+      "UsersEstimate": 15708
     },
     {
       "ID": "empire_tier_3",
@@ -18047,7 +18052,7 @@
       "Name": "Power Players",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 11780
+      "UsersEstimate": 11781
     },
     {
       "ID": "empire_tier_4",
@@ -18055,7 +18060,7 @@
       "Name": "Masters of Santo Ileso",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 7853
+      "UsersEstimate": 7854
     },
     {
       "ID": "empire_tier_5",
@@ -18063,7 +18068,7 @@
       "Name": "A Golden Age",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 4581
+      "UsersEstimate": 4582
     },
     {
       "ID": "first_building_placed",
@@ -18071,7 +18076,7 @@
       "Name": "Landlord",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 20288
+      "UsersEstimate": 20290
     },
     {
       "ID": "fully_complete_a_building",
@@ -18079,7 +18084,7 @@
       "Name": "Work Ethic",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 14398
+      "UsersEstimate": 14399
     },
     {
       "ID": "fully_upgrade_1_vehicle",
@@ -18087,7 +18092,7 @@
       "Name": "The Mechanic",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 5890
+      "UsersEstimate": 5891
     },
     {
       "ID": "fully_upgrade_a_weapon",
@@ -18095,7 +18100,7 @@
       "Name": "Kitted Out",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 8508
+      "UsersEstimate": 8509
     },
     {
       "ID": "get_betrayed",
@@ -18103,7 +18108,7 @@
       "Name": "Et tu?",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 10471
+      "UsersEstimate": 10472
     },
     {
       "ID": "get_fired",
@@ -18111,7 +18116,7 @@
       "Name": "Performance Review",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 22905
+      "UsersEstimate": 22908
     },
     {
       "ID": "hit_max_level",
@@ -18119,7 +18124,7 @@
       "Name": "Took It to The Limit",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 10471
+      "UsersEstimate": 10472
     },
     {
       "ID": "infinite_boost_refill",
@@ -18127,7 +18132,7 @@
       "Name": "Free Refills",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3272
+      "UsersEstimate": 3273
     },
     {
       "ID": "kill_each_faction_miniboss",
@@ -18135,7 +18140,7 @@
       "Name": "Picking Fights",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 12434
+      "UsersEstimate": 12436
     },
     {
       "ID": "kill_enemy_with_tetherd_object",
@@ -18143,7 +18148,7 @@
       "Name": "Wrecking Ball",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17015
+      "UsersEstimate": 17017
     },
     {
       "ID": "kill_tank_driver_with_rail",
@@ -18159,7 +18164,7 @@
       "Name": "Making a Name",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 21597
+      "UsersEstimate": 21599
     },
     {
       "ID": "one_third_purple",
@@ -18175,7 +18180,7 @@
       "Name": "Closet Space",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 4581
+      "UsersEstimate": 4582
     },
     {
       "ID": "prank_coop_partner",
@@ -18191,7 +18196,7 @@
       "Name": "Smooth Moves",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3272
+      "UsersEstimate": 3273
     },
     {
       "ID": "quadruple_backflip",
@@ -18215,7 +18220,7 @@
       "Name": "Food for Thought",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17015
+      "UsersEstimate": 17017
     },
     {
       "ID": "two_thirds_purple",
@@ -18223,7 +18228,7 @@
       "Name": "Community Outreach",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1963
+      "UsersEstimate": 1964
     },
     {
       "ID": "unlock_all_vehicle_specials",
@@ -18247,7 +18252,7 @@
       "Name": "To The Nines",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 26178
+      "UsersEstimate": 26180
     },
     {
       "ID": "whole_map_purple",
@@ -18255,7 +18260,7 @@
       "Name": "All Mine",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "bfhj_complete_mission_1_collectible",
@@ -18286,22 +18291,22 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 65444,
+      "Progressed": 65451,
       "Completed": 45
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 37081,
-      "Completed": 3506
+      "Progressed": 37088,
+      "Completed": 3507
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-08-29T02:43:39.3184281+00:00",
-  "LastChanged_Achievements": "2023-08-29T11:05:01.5265+00:00",
+  "LastChanged_Achievements": "2023-08-29T12:05:50.4231444+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:20.1711435+00:00",
-  "LastUpdate_Ratings": "2023-08-29T10:58:14.2936568+00:00",
-  "LastUpdate_Achievements": "2023-08-29T11:05:01.5266298+00:00"
+  "LastUpdate_Ratings": "2023-08-29T11:59:10.3852424+00:00",
+  "LastUpdate_Achievements": "2023-08-29T12:05:50.423291+00:00"
 }

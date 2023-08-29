@@ -6,19 +6,19 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 38.00% | ~22,757 |
+| Lawbringer | 38.00% | ~22,758 |
 | Landlord | 32.00% | ~19,164 |
 | Bannerlord | 23.00% | ~13,774 |
 | Horde breaker | 23.00% | ~13,774 |
 | Lawmaker | 23.00% | ~13,774 |
-| Trained | 22.00% | ~13,175 |
-| The king is pleased | 18.00% | ~10,779 |
+| Trained | 22.00% | ~13,176 |
+| The king is pleased | 18.00% | ~10,780 |
 | King Solomon | 17.00% | ~10,181 |
 | Apple of my eye | 15.00% | ~8,983 |
 | I can do it | 15.00% | ~8,983 |
-| God of the Arena | 13.00% | ~7,785 |
-| Against all odds | 12.00% | ~7,186 |
-| This Is Our Land | 11.00% | ~6,587 |
+| God of the Arena | 13.00% | ~7,786 |
+| Against all odds | 12.00% | ~7,187 |
+| This Is Our Land | 11.00% | ~6,588 |
 | Swordbearer | 10.00% | ~5,989 |
 | Duelist | 9.00% | ~5,390 |
 | Dynasty | 9.00% | ~5,390 |
@@ -28,9 +28,9 @@ Number of Ratings: 5,603  (23.09.2022)
 | Mastery | 7.00% | ~4,192 |
 | Know your enemy | 6.00% | ~3,593 |
 | My way | 5.00% | ~2,994 |
-| Crowdfunded | 4.00% | ~2,395 |
-| Crush your enemies | 4.00% | ~2,395 |
-| Veni vidi vici | 4.00% | ~2,395 |
+| Crowdfunded | 4.00% | ~2,396 |
+| Crush your enemies | 4.00% | ~2,396 |
+| Veni vidi vici | 4.00% | ~2,396 |
 | Freedom! | 3.00% | ~1,797 |
 | Long live the Empire! | 3.00% | ~1,797 |
 | Real Estate | 3.00% | ~1,797 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,886 (Ranked 88)  
+Progressed: 59,889 (Ranked 88)  
 Completed: 0 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 0 (0.00%) (Ranked 265)
 | 2023-08-26 | 59,714 | 0 |
 | 2023-08-27 | 59,800 | 0 |
 | 2023-08-28 | 59,865 | 0 |
-| 2023-08-29 | 59,886 | 0 |
+| 2023-08-29 | 59,889 | 0 |
 ## Awards
 Max (Character Customization): 6,994  (Ranked 51)  
 Sum: 14,221 (Ranked 67)  

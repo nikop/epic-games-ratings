@@ -3,9 +3,9 @@
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 195,
-  "Ranking_EOS_Completed": 216,
+  "Ranking_EOS_Completed": 217,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1142,
+  "EOS_Progressed": 1143,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4016,6 +4016,11 @@
       "Time": "2023-08-29T11:04:40.1431844+00:00",
       "NumProgressed": 1142,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-29T12:05:19.6336124+00:00",
+      "NumProgressed": 1143,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4283,7 +4288,7 @@
       "Name": "Defenses Online",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -4330,14 +4335,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1142,
+      "Progressed": 1143,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-29T11:04:40.1431836+00:00",
+  "LastChanged_Achievements": "2023-08-29T12:05:19.6336115+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:58:05.1002416+00:00",
-  "LastUpdate_Ratings": "2023-08-29T10:58:56.6108822+00:00",
-  "LastUpdate_Achievements": "2023-08-29T11:04:40.143253+00:00"
+  "LastUpdate_Ratings": "2023-08-29T12:00:09.6843157+00:00",
+  "LastUpdate_Achievements": "2023-08-29T12:05:19.6336956+00:00"
 }

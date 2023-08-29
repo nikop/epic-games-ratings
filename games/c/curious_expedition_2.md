@@ -28,13 +28,13 @@ Number of Ratings: 20  (23.09.2022)
 | Veteran Explorer | 19.00% | ~61 |
 | Iron Man | 17.00% | ~55 |
 | Shortening of the Way | 16.00% | ~52 |
+| A Gentle Beast | 16.00% | ~52 |
 | Practical Palaeontology | 16.00% | ~52 |
 | For the Club! | 15.00% | ~48 |
-| A Gentle Beast | 15.00% | ~48 |
+| Dapper | 15.00% | ~48 |
 | The New Director | 14.00% | ~45 |
 | The Director is Dead | 14.00% | ~45 |
 | Adventurer | 14.00% | ~45 |
-| Dapper | 14.00% | ~45 |
 | Discovery | 13.00% | ~42 |
 | Plays Well With Others | 13.00% | ~42 |
 | And Here Is Your Statue | 12.00% | ~39 |

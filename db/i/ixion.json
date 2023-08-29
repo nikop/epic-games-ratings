@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -278,9 +278,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3110,
+  "EOS_Progressed": 3111,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4738,6 +4738,11 @@
       "Time": "2023-08-29T01:49:23.0858989+00:00",
       "NumProgressed": 3110,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-29T12:08:47.8655156+00:00",
+      "NumProgressed": 3111,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -4853,7 +4858,7 @@
       "Name": "Space Society",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "ACH_BASE_24",
@@ -4861,7 +4866,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "ACH_BASE_25",
@@ -4901,7 +4906,7 @@
       "Name": "A Thousand Strong",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "ACH_BASE_3",
@@ -4949,7 +4954,7 @@
       "Name": "Ready for a New World",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "ACH_BASE_35",
@@ -5204,13 +5209,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1292,
+      "Progressed": 1293,
       "Completed": 6
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3110,
+      "Progressed": 3111,
       "Completed": 0
     }
   ],
@@ -5218,8 +5223,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-08-28T10:57:03.0237068+00:00",
-  "LastChanged_Achievements": "2023-08-29T11:08:20.9753169+00:00",
+  "LastChanged_Achievements": "2023-08-29T12:08:47.8655137+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:17.9137927+00:00",
-  "LastUpdate_Ratings": "2023-08-29T10:57:09.5088391+00:00",
-  "LastUpdate_Achievements": "2023-08-29T11:08:20.9754012+00:00"
+  "LastUpdate_Ratings": "2023-08-29T11:57:34.8922469+00:00",
+  "LastUpdate_Achievements": "2023-08-29T12:08:47.8656577+00:00"
 }

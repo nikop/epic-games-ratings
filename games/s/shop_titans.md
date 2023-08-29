@@ -34,11 +34,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Efficient Floor Space | 0.50% | ~677 |
 | Gem Expert | 0.50% | ~677 |
 | Gild-Gotten Goods | 0.50% | ~677 |
+| Helping Hand | 0.50% | ~677 |
 | Accomplished Merchant | 0.50% | ~677 |
 | Did we pack lunch? | 0.50% | ~677 |
 | Arcane Industries | 0.50% | ~677 |
 | Tax not Included | 0.40% | ~541 |
 | Research & Development | 0.40% | ~541 |
+| Big Game Hunting | 0.40% | ~541 |
 | Fated Encounters | 0.40% | ~541 |
 | For the Hoard! | 0.40% | ~541 |
 | Hidden Potential | 0.40% | ~541 |
@@ -46,7 +48,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Flawless Fusion | 0.40% | ~541 |
 | Trash to Treasure | 0.40% | ~541 |
 | Royal Ransom | 0.40% | ~541 |
-| Helping Hand | 0.40% | ~541 |
 | Natural 20 | 0.40% | ~541 |
 | Seasoned Journeyman | 0.40% | ~541 |
 | Magical Harmony | 0.40% | ~541 |
@@ -59,7 +60,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | A Ronin Reborn | 0.30% | ~406 |
 | The King's Caprice | 0.30% | ~406 |
 | Thirst for Knowledge | 0.30% | ~406 |
-| Big Game Hunting | 0.30% | ~406 |
 | Booty by the Boatload | 0.30% | ~406 |
 | Scrapbooker | 0.30% | ~406 |
 | Archivist | 0.30% | ~406 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~135 |
 | Cash Only Please | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,316 (Ranked 67)  
+Progressed: 135,320 (Ranked 67)  
 Completed: 138 (0.10%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,7 +250,7 @@ Completed: 138 (0.10%) (Ranked 212)
 | 2023-08-26 | 135,191 | 138 |
 | 2023-08-27 | 135,255 | 138 |
 | 2023-08-28 | 135,299 | 138 |
-| 2023-08-29 | 135,316 | 138 |
+| 2023-08-29 | 135,320 | 138 |
 ## Awards
 Max (Great for Beginners): 4,717  (Ranked 71)  
 Sum: 27,152 (Ranked 47)  

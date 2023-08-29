@@ -1223,9 +1223,9 @@
       "ID": "get_tape",
       "SetID": "69co12a",
       "Name": "Old movies enjoyer",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 216
+      "UsersEstimate": 219
     },
     {
       "ID": "gpp_chip",
@@ -1327,9 +1327,9 @@
       "ID": "met_k",
       "SetID": "69co12a",
       "Name": "Depressed visitor",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 211
+      "UsersEstimate": 213
     },
     {
       "ID": "mick_house",
@@ -1359,9 +1359,9 @@
       "ID": "nero_basic",
       "SetID": "69co12a",
       "Name": "Neurotrainer \u2013 power gainer!",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 208
     },
     {
       "ID": "nero_extrime",
@@ -1566,8 +1566,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-08-29T11:06:10.6322555+00:00",
+  "LastChanged_Achievements": "2023-08-29T12:07:29.4439185+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:28.4384167+00:00",
-  "LastUpdate_Ratings": "2023-08-29T10:59:49.7937973+00:00",
-  "LastUpdate_Achievements": "2023-08-29T11:06:10.6323367+00:00"
+  "LastUpdate_Ratings": "2023-08-29T12:01:22.7172026+00:00",
+  "LastUpdate_Achievements": "2023-08-29T12:07:29.4439898+00:00"
 }

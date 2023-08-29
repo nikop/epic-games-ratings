@@ -5,90 +5,90 @@ Rating: 4.75 (Ranked 134)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Motivational Speaker | 77.00% | ~66,098 |
-| The Player Whisperer | 76.00% | ~65,239 |
-| One of Us, One of Us! | 73.00% | ~62,664 |
-| First Victory | 68.00% | ~58,372 |
-| Clean Sheet | 67.00% | ~57,513 |
-| #DoneDeal | 67.00% | ~57,513 |
-| Off the Books | 66.00% | ~56,655 |
-| Super-Sub | 65.00% | ~55,797 |
-| Hat-trick | 60.00% | ~51,505 |
-| "I Would Love It If We Beat Them" | 58.00% | ~49,788 |
-| Planned Signing | 58.00% | ~49,788 |
-| Thumping | 53.00% | ~45,496 |
-| Scoring Streak | 53.00% | ~45,496 |
-| People Pleaser | 52.00% | ~44,637 |
-| Wheeler Dealer | 52.00% | ~44,637 |
-| Unbeatable! | 51.00% | ~43,779 |
-| One Of Our Own | 49.00% | ~42,062 |
-| They're a Natural | 45.00% | ~38,628 |
-| Record Signing | 45.00% | ~38,628 |
-| Team Performance | 44.00% | ~37,770 |
-| The Only Stat That Matters | 44.00% | ~37,770 |
-| Full Faith | 41.00% | ~35,195 |
-| Star Player | 41.00% | ~35,195 |
-| Squad Goals | 41.00% | ~35,195 |
-| Parked The Bus | 40.00% | ~34,336 |
-| The People's Champion | 40.00% | ~34,336 |
-| Beating Expectations | 39.00% | ~33,478 |
-| Goal Rush | 39.00% | ~33,478 |
-| What A Goal! | 37.00% | ~31,761 |
-| Flavour Of The Month | 37.00% | ~31,761 |
-| Record Sale | 37.00% | ~31,761 |
-| Tremendous Trio | 36.00% | ~30,903 |
-| Unstoppable Force | 36.00% | ~30,903 |
-| Shots For Days | 36.00% | ~30,903 |
-| You're on Fire | 35.00% | ~30,044 |
-| The Special One | 35.00% | ~30,044 |
-| Splashing the Cash | 34.00% | ~29,186 |
-| On a Roll | 33.00% | ~28,328 |
-| Drilling Down | 32.00% | ~27,469 |
-| Goal Machine | 32.00% | ~27,469 |
-| Immovable Object | 30.00% | ~25,752 |
-| Cup Glory! | 30.00% | ~25,752 |
-| Cash to Burn | 28.00% | ~24,035 |
-| Irresistible Force | 27.00% | ~23,177 |
-| Do The Double | 24.00% | ~20,602 |
-| A Game of Two Halves | 22.00% | ~18,885 |
-| Top Form | 20.00% | ~17,168 |
-| You're Up! | 20.00% | ~17,168 |
-| Money, Money, Money | 19.00% | ~16,310 |
-| First Goal Network | 18.00% | ~15,451 |
-| First Win Network | 18.00% | ~15,451 |
-| Window Shopping | 18.00% | ~15,451 |
-| Clean Sheet Network | 17.00% | ~14,593 |
-| Superb Strike | 15.00% | ~12,876 |
-| Tête-à-tête | 15.00% | ~12,876 |
-| Best in the World | 15.00% | ~12,876 |
-| National Service | 13.00% | ~11,159 |
-| Invincible! | 12.00% | ~10,301 |
-| Best in the Business | 11.00% | ~9,443 |
-| Bragging Rights | 11.00% | ~9,443 |
-| Second Hand Signing | 11.00% | ~9,443 |
-| Domination | 11.00% | ~9,443 |
-| Total Support | 10.00% | ~8,584 |
-| You Can Buy Happiness | 10.00% | ~8,584 |
-| Invitational | 8.00% | ~6,867 |
-| Legend | 7.00% | ~6,009 |
-| World Beaters | 7.00% | ~6,009 |
-| World Renowned | 7.00% | ~6,009 |
-| Parked The Tank | 6.00% | ~5,150 |
-| Mini League Champion | 5.00% | ~4,292 |
+| Motivational Speaker | 77.00% | ~66,106 |
+| The Player Whisperer | 76.00% | ~65,248 |
+| One of Us, One of Us! | 73.00% | ~62,672 |
+| First Victory | 68.00% | ~58,379 |
+| Clean Sheet | 67.00% | ~57,521 |
+| #DoneDeal | 67.00% | ~57,521 |
+| Off the Books | 66.00% | ~56,662 |
+| Super-Sub | 65.00% | ~55,804 |
+| Hat-trick | 60.00% | ~51,511 |
+| "I Would Love It If We Beat Them" | 58.00% | ~49,794 |
+| Planned Signing | 58.00% | ~49,794 |
+| Thumping | 53.00% | ~45,502 |
+| Scoring Streak | 53.00% | ~45,502 |
+| People Pleaser | 52.00% | ~44,643 |
+| Wheeler Dealer | 52.00% | ~44,643 |
+| Unbeatable! | 51.00% | ~43,785 |
+| One Of Our Own | 49.00% | ~42,067 |
+| They're a Natural | 45.00% | ~38,633 |
+| Record Signing | 45.00% | ~38,633 |
+| Team Performance | 44.00% | ~37,775 |
+| The Only Stat That Matters | 44.00% | ~37,775 |
+| Full Faith | 41.00% | ~35,199 |
+| Star Player | 41.00% | ~35,199 |
+| Squad Goals | 41.00% | ~35,199 |
+| Parked The Bus | 40.00% | ~34,341 |
+| The People's Champion | 40.00% | ~34,341 |
+| Beating Expectations | 39.00% | ~33,482 |
+| Goal Rush | 39.00% | ~33,482 |
+| What A Goal! | 37.00% | ~31,765 |
+| Flavour Of The Month | 37.00% | ~31,765 |
+| Record Sale | 37.00% | ~31,765 |
+| Tremendous Trio | 36.00% | ~30,907 |
+| Unstoppable Force | 36.00% | ~30,907 |
+| Shots For Days | 36.00% | ~30,907 |
+| You're on Fire | 35.00% | ~30,048 |
+| The Special One | 35.00% | ~30,048 |
+| Splashing the Cash | 34.00% | ~29,190 |
+| On a Roll | 33.00% | ~28,331 |
+| Drilling Down | 32.00% | ~27,473 |
+| Goal Machine | 32.00% | ~27,473 |
+| Immovable Object | 30.00% | ~25,756 |
+| Cup Glory! | 30.00% | ~25,756 |
+| Cash to Burn | 28.00% | ~24,039 |
+| Irresistible Force | 27.00% | ~23,180 |
+| Do The Double | 24.00% | ~20,604 |
+| A Game of Two Halves | 22.00% | ~18,887 |
+| Top Form | 20.00% | ~17,170 |
+| You're Up! | 20.00% | ~17,170 |
+| Money, Money, Money | 19.00% | ~16,312 |
+| First Goal Network | 18.00% | ~15,453 |
+| First Win Network | 18.00% | ~15,453 |
+| Window Shopping | 18.00% | ~15,453 |
+| Clean Sheet Network | 17.00% | ~14,595 |
+| Superb Strike | 15.00% | ~12,878 |
+| Tête-à-tête | 15.00% | ~12,878 |
+| Best in the World | 15.00% | ~12,878 |
+| National Service | 13.00% | ~11,161 |
+| Invincible! | 12.00% | ~10,302 |
+| Best in the Business | 11.00% | ~9,444 |
+| Bragging Rights | 11.00% | ~9,444 |
+| Second Hand Signing | 11.00% | ~9,444 |
+| Domination | 11.00% | ~9,444 |
+| Total Support | 10.00% | ~8,585 |
+| You Can Buy Happiness | 10.00% | ~8,585 |
+| Invitational | 8.00% | ~6,868 |
+| Legend | 7.00% | ~6,010 |
+| World Beaters | 7.00% | ~6,010 |
+| World Renowned | 7.00% | ~6,010 |
+| Parked The Tank | 6.00% | ~5,151 |
+| Mini League Champion | 5.00% | ~4,293 |
 | Cupset Between Friends | 4.00% | ~3,434 |
 | National Hero | 4.00% | ~3,434 |
 | Trophy Hoarder | 4.00% | ~3,434 |
 | On Top of the World | 4.00% | ~3,434 |
-| Part of the Furniture | 3.00% | ~2,575 |
-| Freedom of the Country | 3.00% | ~2,575 |
+| Part of the Furniture | 3.00% | ~2,576 |
+| Freedom of the Country | 3.00% | ~2,576 |
 | First Goal Versus | 2.00% | ~1,717 |
 | We Go Again | 2.00% | ~1,717 |
 | Beat Your Mates | 2.00% | ~1,717 |
-| First Win Versus | 1.00% | ~858 |
-| The Greatest | 1.00% | ~858 |
-| Perfect Host | 1.00% | ~858 |
-| Versus Champ | 1.00% | ~858 |
-| Online Streak | 1.00% | ~858 |
+| First Win Versus | 1.00% | ~859 |
+| The Greatest | 1.00% | ~859 |
+| Perfect Host | 1.00% | ~859 |
+| Versus Champ | 1.00% | ~859 |
+| Online Streak | 1.00% | ~859 |
 | Clean Sheet Versus | 0.90% | ~773 |
 | The Rich Get Richer | 0.80% | ~687 |
 | Online Rivalry | 0.60% | ~515 |
@@ -106,7 +106,7 @@ Rating: 4.75 (Ranked 134)
 | Versus Anyone | 0.10% | ~86 |
 | 200 Club | 0.10% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 85,841 (Ranked 75)  
+Progressed: 85,852 (Ranked 75)  
 Completed: 24 (0.03%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,7 +237,7 @@ Completed: 24 (0.03%) (Ranked 242)
 | 2023-08-26 | 85,527 | 23 |
 | 2023-08-27 | 85,662 | 24 |
 | 2023-08-28 | 85,804 | 24 |
-| 2023-08-29 | 85,841 | 24 |
+| 2023-08-29 | 85,852 | 24 |
 ## Awards
 Max (Diverse Characters): 638  (Ranked 177)  
 Sum: 4,537 (Ranked 137)  

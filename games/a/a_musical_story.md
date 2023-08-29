@@ -21,8 +21,8 @@
 | Symbiosis | 35.00% | ~33 |
 | A Bigger Band | 32.00% | ~30 |
 | Fuel | 29.00% | ~28 |
-| Alone Together | 27.00% | ~26 |
-| Threatening Nature | 25.00% | ~24 |
+| Alone Together | 28.00% | ~27 |
+| Threatening Nature | 26.00% | ~25 |
 | Flat Tire | 22.00% | ~21 |
 | TV Dreams | 22.00% | ~21 |
 | The Clash | 19.00% | ~18 |

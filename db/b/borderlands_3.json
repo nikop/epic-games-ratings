@@ -10916,10 +10916,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 362809,
       "NumberOfAwardsMax": 115341
+    },
+    {
+      "Time": "2023-08-29T11:59:09.4034078+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 362817,
+      "NumberOfAwardsMax": 115341
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 362809,
+  "NumberOfAwards": 362817,
   "NumberOfAwardsMax": 115341,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10957,7 +10963,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 25162
+      "Count": 25170
     },
     {
       "Text": "This game is Relaxing",
@@ -11001,8 +11007,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:32.2549878+00:00",
-  "LastChanged": "2023-08-29T05:58:18.9590636+00:00",
+  "LastChanged": "2023-08-29T11:59:09.4034076+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:20.7167755+00:00",
-  "LastUpdate_Ratings": "2023-08-29T10:58:13.6130274+00:00",
-  "LastUpdate_Achievements": "2023-08-29T11:04:37.2182852+00:00"
+  "LastUpdate_Ratings": "2023-08-29T11:59:09.4034083+00:00",
+  "LastUpdate_Achievements": "2023-08-29T12:05:15.2633333+00:00"
 }

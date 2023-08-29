@@ -645,9 +645,9 @@
       "ID": "ach-redElk",
       "SetID": "17ih7ma",
       "Name": "A Gentle Beast",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 52
     },
     {
       "ID": "ach-rideDinosaur",
@@ -717,9 +717,9 @@
       "ID": "ach-wearHat",
       "SetID": "17ih7ma",
       "Name": "Dapper",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 48
     }
   ],
   "AchievementSets": [
@@ -734,8 +734,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-07-27T21:58:49.8030167+00:00",
-  "LastChanged_Achievements": "2023-08-29T11:03:14.6078635+00:00",
+  "LastChanged_Achievements": "2023-08-29T12:03:28.3628478+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:09.8181915+00:00",
-  "LastUpdate_Ratings": "2023-08-29T10:59:08.7640257+00:00",
-  "LastUpdate_Achievements": "2023-08-29T11:03:14.6079175+00:00"
+  "LastUpdate_Ratings": "2023-08-29T12:00:23.2467037+00:00",
+  "LastUpdate_Achievements": "2023-08-29T12:03:28.3629036+00:00"
 }

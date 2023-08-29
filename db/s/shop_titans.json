@@ -5788,9 +5788,9 @@
       "Count": 3739
     }
   ],
-  "EOS_Progressed": 135316,
+  "EOS_Progressed": 135320,
   "EOS_Completed": 138,
-  "EOS_NewPlayers": 390,
+  "EOS_NewPlayers": 386,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -19208,6 +19208,11 @@
       "Time": "2023-08-29T09:03:29.4022545+00:00",
       "NumProgressed": 135316,
       "NumCompleted": 138
+    },
+    {
+      "Time": "2023-08-29T12:02:39.5422453+00:00",
+      "NumProgressed": 135320,
+      "NumCompleted": 138
     }
   ],
   "TotalAchievements": 112,
@@ -19361,9 +19366,9 @@
       "ID": "boss02",
       "SetID": "anfd17p",
       "Name": "Big Game Hunting",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 406
+      "UsersEstimate": 541
     },
     {
       "ID": "boss03",
@@ -19737,9 +19742,9 @@
       "ID": "help01",
       "SetID": "anfd17p",
       "Name": "Helping Hand",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 541
+      "UsersEstimate": 677
     },
     {
       "ID": "help02",
@@ -20114,15 +20119,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135316,
+      "Progressed": 135320,
       "Completed": 138
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-29T07:57:18.0564962+00:00",
-  "LastChanged_Achievements": "2023-08-29T10:03:32.0380245+00:00",
+  "LastChanged_Achievements": "2023-08-29T12:02:39.5422432+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:19.0477827+00:00",
-  "LastUpdate_Ratings": "2023-08-29T10:57:01.2465379+00:00",
-  "LastUpdate_Achievements": "2023-08-29T10:03:32.0382595+00:00"
+  "LastUpdate_Ratings": "2023-08-29T11:57:26.9660314+00:00",
+  "LastUpdate_Achievements": "2023-08-29T12:02:39.5453241+00:00"
 }

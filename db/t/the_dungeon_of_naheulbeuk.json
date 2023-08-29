@@ -738,9 +738,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 218830,
+  "EOS_Progressed": 218847,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3001,
+  "EOS_NewPlayers": 3008,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8748,6 +8748,11 @@
       "Time": "2023-08-29T11:03:22.0704546+00:00",
       "NumProgressed": 218830,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-29T12:03:38.904123+00:00",
+      "NumProgressed": 218847,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -8831,7 +8836,7 @@
       "Name": "The demons\u0027 feast",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1969
+      "UsersEstimate": 1970
     },
     {
       "ID": "Chapter5",
@@ -8839,7 +8844,7 @@
       "Name": "The Great Library",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1969
+      "UsersEstimate": 1970
     },
     {
       "ID": "Chapter6",
@@ -8911,7 +8916,7 @@
       "Name": "The Woman in the High Castle",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1969
+      "UsersEstimate": 1970
     },
     {
       "ID": "DLC1ChooseNecro",
@@ -9207,7 +9212,7 @@
       "Name": "Sowwy!",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 54708
+      "UsersEstimate": 54712
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -9221,9 +9226,9 @@
       "ID": "EndCombatNoDamage",
       "SetID": "50chcgj",
       "Name": "GG EZ",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2188
+      "UsersEstimate": 4377
     },
     {
       "ID": "EndCombatOneHp",
@@ -9295,7 +9300,7 @@
       "Name": "We come in peace",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "MinistrelEpic",
@@ -9343,7 +9348,7 @@
       "Name": "In Navalu\u0027s footsteps",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "QuestEmile",
@@ -9367,7 +9372,7 @@
       "Name": "L\u00EBgal Legend",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "QuestPriestess",
@@ -9415,7 +9420,7 @@
       "Name": "Team Building Exercise",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1969
+      "UsersEstimate": 1970
     },
     {
       "ID": "SystematicallyStupid",
@@ -9439,7 +9444,7 @@
       "Name": "Oh, when I\u0027ll be level 10...",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1969
+      "UsersEstimate": 1970
     },
     {
       "ID": "WizardEpic",
@@ -9462,21 +9467,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 218830,
+      "Progressed": 218847,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 218830,
+      "Progressed": 218847,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-28T16:02:03.5571775+00:00",
-  "LastChanged_Achievements": "2023-08-29T11:03:22.0704541+00:00",
+  "LastChanged_Achievements": "2023-08-29T12:03:38.9041222+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:41.9661267+00:00",
-  "LastUpdate_Ratings": "2023-08-29T11:02:11.3723515+00:00",
-  "LastUpdate_Achievements": "2023-08-29T11:03:22.0706042+00:00"
+  "LastUpdate_Ratings": "2023-08-29T12:02:38.1259963+00:00",
+  "LastUpdate_Achievements": "2023-08-29T12:03:38.904306+00:00"
 }
