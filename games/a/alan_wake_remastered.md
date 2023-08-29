@@ -6,16 +6,16 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 38.00% | ~23,532 |
-| Let There Be Light | 31.00% | ~19,197 |
-| Float Like a Butterfly | 30.00% | ~18,578 |
-| Nordic Walking | 24.00% | ~14,862 |
-| Bright Falls' Finest | 23.00% | ~14,243 |
+| Follow the Light | 38.00% | ~23,533 |
+| Let There Be Light | 31.00% | ~19,198 |
+| Float Like a Butterfly | 30.00% | ~18,579 |
+| Nordic Walking | 24.00% | ~14,863 |
+| Bright Falls' Finest | 23.00% | ~14,244 |
 | Under a Thin Layer of Skin | 21.00% | ~13,005 |
 | Park Ranger | 17.00% | ~10,528 |
 | Paging Mr. Wake | 17.00% | ~10,528 |
-| Back! Back, I Say! | 16.00% | ~9,908 |
-| Finders Keepers | 16.00% | ~9,908 |
+| Back! Back, I Say! | 16.00% | ~9,909 |
+| Finders Keepers | 16.00% | ~9,909 |
 | Damn Good Cup of Coffee | 15.00% | ~9,289 |
 | Wheels Within Wheels | 14.00% | ~8,670 |
 | They're Heeeeeere! | 14.00% | ~8,670 |
@@ -33,8 +33,8 @@ Number of Ratings: 524  (23.09.2022)
 | Two For the Price of One | 11.00% | ~6,812 |
 | The Lady of the Light | 10.00% | ~6,193 |
 | Energized! | 10.00% | ~6,193 |
-| What Light Through Yonder Window | 9.00% | ~5,573 |
-| Right of Way | 9.00% | ~5,573 |
+| What Light Through Yonder Window | 9.00% | ~5,574 |
+| Right of Way | 9.00% | ~5,574 |
 | Tornado Wrangler | 8.00% | ~4,954 |
 | A Friend in Need | 8.00% | ~2,032 |
 | Departure | 7.00% | ~4,335 |
@@ -74,8 +74,8 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~62 |
 | No Punctuation | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,927 (Ranked 87)  
-Completed: 65 (0.10%) (Ranked 212)  
+Progressed: 61,929 (Ranked 87)  
+Completed: 65 (0.10%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -205,7 +205,7 @@ Completed: 65 (0.10%) (Ranked 212)
 | 2023-08-26 | 61,726 | 65 |
 | 2023-08-27 | 61,821 | 65 |
 | 2023-08-28 | 61,891 | 65 |
-| 2023-08-29 | 61,927 | 65 |
+| 2023-08-29 | 61,929 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

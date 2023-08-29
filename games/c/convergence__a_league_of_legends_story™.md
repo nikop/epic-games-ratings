@@ -42,10 +42,10 @@ Rating: 4.60 (Ranked 391)
 | Sump Explorer | 9.00% | ~76 |
 | Syron for Hope | 9.00% | ~76 |
 | Cultivair Explorer | 8.00% | ~68 |
+| Entresol Explorer | 8.00% | ~68 |
 | Factorywood Explorer | 8.00% | ~68 |
 | Corin Goes Home | 7.00% | ~59 |
 | Sartorialist | 7.00% | ~59 |
-| Entresol Explorer | 7.00% | ~59 |
 | Golem Hunter | 6.00% | ~51 |
 | Clovemary for Remembering | 5.00% | ~42 |
 | Rungs Was Right | 5.00% | ~42 |
@@ -60,7 +60,7 @@ Rating: 4.60 (Ranked 391)
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 847 (Ranked 209)  
-Completed: 5 (0.59%) (Ranked 140)  
+Completed: 5 (0.59%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

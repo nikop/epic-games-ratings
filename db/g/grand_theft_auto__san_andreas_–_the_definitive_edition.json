@@ -2,20 +2,20 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 472,
-  "Ranking_Popularity": 248,
+  "Ranking_Rating": 450,
+  "Ranking_Popularity": 247,
   "Ranking_PopularitySum": 337,
   "Ranking_EOS_Progress": 122,
-  "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_Completed": 170,
+  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.56,
+  "Rating": 4.57,
   "RatingHistory": [
     {
       "Time": "2023-02-21T07:58:25.3551608+00:00",
@@ -740,18 +740,24 @@
       "Rating": 4.56,
       "NumberOfAwards": 311,
       "NumberOfAwardsMax": 269
+    },
+    {
+      "Time": "2023-08-29T14:59:29.0000832+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 313,
+      "NumberOfAwardsMax": 271
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 311,
-  "NumberOfAwardsMax": 269,
+  "NumberOfAwards": 313,
+  "NumberOfAwardsMax": 271,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 269
+      "Count": 271
     },
     {
       "Text": "This game is Relaxing",
@@ -9793,9 +9799,9 @@
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-08-27T04:58:54.9178969+00:00",
-  "LastChanged_Achievements": "2023-08-29T14:05:15.8338611+00:00",
+  "LastChanged": "2023-08-29T14:59:29.0000831+00:00",
+  "LastChanged_Achievements": "2023-08-29T15:05:31.4843119+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:49.3440273+00:00",
-  "LastUpdate_Ratings": "2023-08-29T13:59:41.5876663+00:00",
-  "LastUpdate_Achievements": "2023-08-29T14:05:15.8339835+00:00"
+  "LastUpdate_Ratings": "2023-08-29T14:59:29.0000838+00:00",
+  "LastUpdate_Achievements": "2023-08-29T15:05:31.4844017+00:00"
 }

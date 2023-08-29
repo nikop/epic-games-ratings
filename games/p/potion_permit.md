@@ -35,8 +35,8 @@ Rating: 3.83 (Ranked 963)
 | Adolescent Love | 6.00% | ~93 |
 | Mail Carrier | 6.00% | ~93 |
 | Plantation Exterminator | 5.00% | ~78 |
+| Sous Chef | 4.00% | ~62 |
 | Grape Supplier | 4.00% | ~62 |
-| Sous Chef | 3.00% | ~47 |
 | Being forgetful... | 2.00% | ~31 |
 | Community Advisor | 2.00% | ~31 |
 | Rock Exterminator | 2.00% | ~31 |
@@ -45,7 +45,7 @@ Rating: 3.83 (Ranked 963)
 | Being a donut... | 0.70% | ~11 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,551 (Ranked 183)  
-Completed: 9 (0.58%) (Ranked 141)  
+Completed: 9 (0.58%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

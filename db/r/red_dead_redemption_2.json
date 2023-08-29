@@ -6,7 +6,7 @@
   "Ranking_Popularity": 6,
   "Ranking_PopularitySum": 7,
   "Ranking_EOS_Progress": 563,
-  "Ranking_EOS_Completed": 265,
+  "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
@@ -12194,10 +12194,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 441856,
       "NumberOfAwardsMax": 170722
+    },
+    {
+      "Time": "2023-08-29T14:57:16.8900591+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 442010,
+      "NumberOfAwardsMax": 170722
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 441856,
+  "NumberOfAwards": 442010,
   "NumberOfAwardsMax": 170722,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -12211,7 +12217,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 93253
+      "Count": 93381
     },
     {
       "Text": "This game is Extremely Fun",
@@ -12283,7 +12289,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 12086
+      "Count": 12112
     }
   ],
   "EOS_Progressed": 0,
@@ -12297,8 +12303,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2023-08-29T11:57:21.2588116+00:00",
+  "LastChanged": "2023-08-29T14:57:16.8900589+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:43.1342706+00:00",
-  "LastUpdate_Ratings": "2023-08-29T13:57:30.0522826+00:00",
-  "LastUpdate_Achievements": "2023-08-29T14:07:43.3592007+00:00"
+  "LastUpdate_Ratings": "2023-08-29T14:57:16.8900596+00:00",
+  "LastUpdate_Achievements": "2023-08-29T15:08:05.1907756+00:00"
 }

@@ -8,9 +8,9 @@ Number of Ratings: 94  (23.09.2022)
 | ---- | ---------- | ----- |
 | Quick Understanding of Block Extrusion | 53.00% | ~23 |
 | Lost in Space | 44.00% | ~19 |
-| Power Glove | 37.00% | ~16 |
+| Power Glove | 40.00% | ~17 |
 | Nature or Nurture | 35.00% | ~15 |
-| Forgotten Memories | 33.00% | ~14 |
+| Forgotten Memories | 35.00% | ~15 |
 | Cogs in the Machine | 28.00% | ~12 |
 | Green Cube Killer | 9.00% | ~4 |
 | Descendants | 2.00% | ~1 |
@@ -37,7 +37,7 @@ Number of Ratings: 94  (23.09.2022)
 | The Truthful Enemy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 43 (Ranked 390)  
-Completed: 0 (0.00%) (Ranked 265)  
+Completed: 0 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -3,7 +3,7 @@
   "Name": "Blasphemous 2",
   "ProductSlug": "blasphemous-2",
   "Ranking_EOS_Progress": 226,
-  "Ranking_EOS_Completed": 265,
+  "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 76,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
@@ -613,9 +613,9 @@
       "ID": "AC02",
       "SetID": "l4abp0",
       "Name": "Blood and Dust",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 327
+      "UsersEstimate": 332
     },
     {
       "ID": "AC03",
@@ -653,17 +653,17 @@
       "ID": "AC07",
       "SetID": "l4abp0",
       "Name": "The Sea dies on the Shore",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 164
+      "UsersEstimate": 169
     },
     {
       "ID": "AC08",
       "SetID": "l4abp0",
       "Name": "Forged in Fire",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 147
+      "UsersEstimate": 153
     },
     {
       "ID": "AC09",
@@ -749,9 +749,9 @@
       "ID": "AC19",
       "SetID": "l4abp0",
       "Name": "Soledad",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 136
     },
     {
       "ID": "AC20",
@@ -789,9 +789,9 @@
       "ID": "AC24",
       "SetID": "l4abp0",
       "Name": "The Work of a Master",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 44
     },
     {
       "ID": "AC25",
@@ -821,9 +821,9 @@
       "ID": "AC28",
       "SetID": "l4abp0",
       "Name": "The Punished One",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 191
     },
     {
       "ID": "AC29",
@@ -972,8 +972,8 @@
   ],
   "FirstSeen": "2023-07-26T07:57:19.1818171+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
-  "LastChanged_Achievements": "2023-08-29T14:06:05.2624647+00:00",
+  "LastChanged_Achievements": "2023-08-29T15:06:20.119171+00:00",
   "LastUpdate_AppInfo": "2023-08-22T18:57:00.5189311+00:00",
-  "LastUpdate_Ratings": "2023-08-29T14:00:04.3865803+00:00",
-  "LastUpdate_Achievements": "2023-08-29T14:06:05.2625124+00:00"
+  "LastUpdate_Ratings": "2023-08-29T14:59:51.1706537+00:00",
+  "LastUpdate_Achievements": "2023-08-29T15:06:20.1192335+00:00"
 }

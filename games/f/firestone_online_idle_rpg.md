@@ -7,9 +7,9 @@ Rating: 4.04 (Ranked 931)
 | ---- | ---------- | ----- |
 | Victor | 93.00% | ~1,734 |
 | World Map | 79.00% | ~1,473 |
-| Temple of Eternals | 57.00% | ~1,062 |
+| Temple of Eternals | 57.00% | ~1,063 |
 | Prestigious | 53.00% | ~988 |
-| Fellowship Power | 41.00% | ~764 |
+| Fellowship Power | 41.00% | ~765 |
 | Guild Power | 25.00% | ~466 |
 | Prestigious x10 | 22.00% | ~410 |
 | The game is on | 20.00% | ~373 |
@@ -44,12 +44,12 @@ Rating: 4.04 (Ranked 931)
 | The father of Dragons | 9.00% | ~168 |
 | Crystal Mining | 8.00% | ~149 |
 | Trader | 8.00% | ~149 |
-| Blueprint Upgrades | 7.00% | ~130 |
-| Dragon Slayer | 7.00% | ~130 |
-| Enchanting skill | 7.00% | ~130 |
-| Engineer Mastery | 7.00% | ~130 |
-| The Expeditioner | 7.00% | ~130 |
-| Weekly Quest Completionist | 7.00% | ~130 |
+| Blueprint Upgrades | 7.00% | ~131 |
+| Dragon Slayer | 7.00% | ~131 |
+| Enchanting skill | 7.00% | ~131 |
+| Engineer Mastery | 7.00% | ~131 |
+| The Expeditioner | 7.00% | ~131 |
+| Weekly Quest Completionist | 7.00% | ~131 |
 | Ancient Knowledge | 6.00% | ~112 |
 | How Do You Turn This On? | 6.00% | ~112 |
 | Lock And Load | 6.00% | ~112 |
@@ -81,8 +81,8 @@ Rating: 4.04 (Ranked 931)
 | Silverwood liberator | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,864 (Ranked 174)  
-Completed: 2 (0.11%) (Ranked 210)  
+Progressed: 1,865 (Ranked 174)  
+Completed: 2 (0.11%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -211,7 +211,7 @@ Completed: 2 (0.11%) (Ranked 210)
 | 2023-08-26 | 1,858 | 2 |
 | 2023-08-27 | 1,859 | 2 |
 | 2023-08-28 | 1,862 | 2 |
-| 2023-08-29 | 1,864 | 2 |
+| 2023-08-29 | 1,865 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

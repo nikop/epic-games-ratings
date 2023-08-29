@@ -528,7 +528,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | All's Well That Ends Well | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 225,930 (Ranked 53)  
-Completed: 2,227 (0.99%) (Ranked 121)  
+Completed: 2,227 (0.99%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -661,7 +661,7 @@ Completed: 2,227 (0.99%) (Ranked 121)
 | 2023-08-29 | 225,930 | 2,227 |
 ## Awards
 Max (Diverse Characters): 5,205  (Ranked 68)  
-Sum: 31,273 (Ranked 39)  
+Sum: 31,278 (Ranked 39)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -670,7 +670,7 @@ Diff (max vs sum): 29
 | This game has Quickly Understood Controls | 4,738 |
 | This game is Relaxing | 4,628 |
 | This game has Amazing Characters | 4,091 |
-| This game is Highly Recommended | 4,070 |
+| This game is Highly Recommended | 4,075 |
 | This game has Playful Visuals | 3,380 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -890,4 +890,4 @@ Diff (max vs sum): 29
 | 2023-08-26 | 4.06 | - | 5,189 | 31,229 |
 | 2023-08-27 | 4.06 | - | 5,196 | 31,250 |
 | 2023-08-28 | 4.06 | - | 5,202 | 31,268 |
-| 2023-08-29 | 4.06 | - | 5,205 | 31,273 |
+| 2023-08-29 | 4.06 | - | 5,205 | 31,278 |

@@ -3,7 +3,7 @@
   "Name": "Are You Smarter Than A 5th Grader",
   "ProductSlug": "are-you-smarter-than-a-5th-grader-bc328a",
   "Ranking_EOS_Progress": 258,
-  "Ranking_EOS_Completed": 265,
+  "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 354,
+  "EOS_Progressed": 355,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -437,6 +437,11 @@
       "Time": "2023-08-29T07:07:28.8884269+00:00",
       "NumProgressed": 354,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-29T15:07:31.8207938+00:00",
+      "NumProgressed": 355,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 19,
@@ -480,7 +485,7 @@
       "Name": "Exam Time",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "FifthGrade",
@@ -528,7 +533,7 @@
       "Name": "In The Honor Roll",
       "Percentage": 10,
       "XP": 75,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "Librarian",
@@ -599,7 +604,7 @@
     {
       "ID": "6l18k14",
       "IsBase": true,
-      "Progressed": 354,
+      "Progressed": 355,
       "Completed": 0
     }
   ],
@@ -607,8 +612,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.561977+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.3990521+00:00",
   "LastChanged": "2023-03-31T05:58:18.5619771+00:00",
-  "LastChanged_Achievements": "2023-08-29T14:07:19.3879418+00:00",
+  "LastChanged_Achievements": "2023-08-29T15:07:31.8207927+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:57.5078386+00:00",
-  "LastUpdate_Ratings": "2023-08-29T13:59:49.3329082+00:00",
-  "LastUpdate_Achievements": "2023-08-29T14:07:19.3879623+00:00"
+  "LastUpdate_Ratings": "2023-08-29T14:59:36.1039404+00:00",
+  "LastUpdate_Achievements": "2023-08-29T15:07:31.8208247+00:00"
 }

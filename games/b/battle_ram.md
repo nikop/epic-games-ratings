@@ -23,12 +23,12 @@
 | Lieutenant Colonel Baran | 10.00% | ~21 |
 | Colonel Baran | 8.00% | ~17 |
 | Brigadier General Baran | 6.00% | ~13 |
-| Lieutenant General Baran | 5.00% | ~11 |
+| Lieutenant General Baran | 6.00% | ~13 |
 | EMERAID RAM | 3.00% | ~6 |
 | GOLDEN RAM | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 212 (Ranked 295)  
-Completed: 0 (0.00%) (Ranked 265)  
+Completed: 0 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

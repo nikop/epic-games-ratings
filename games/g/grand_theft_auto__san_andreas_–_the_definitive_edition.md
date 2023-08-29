@@ -1,7 +1,7 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.56 (Ranked 472)  
+Rating: 4.57 (Ranked 450)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 472)
 | I Ain't No Buster | 0.30% | ~36 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 12,075 (Ranked 122)  
-Completed: 41 (0.34%) (Ranked 169)  
+Completed: 41 (0.34%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -174,12 +174,12 @@ Completed: 41 (0.34%) (Ranked 169)
 | 2023-08-28 | 12,071 | 41 |
 | 2023-08-29 | 12,075 | 41 |
 ## Awards
-Max (Great Boss Battles): 269  (Ranked 248)  
-Sum: 311 (Ranked 337)  
-Diff (max vs sum): -89  
+Max (Great Boss Battles): 271  (Ranked 247)  
+Sum: 313 (Ranked 337)  
+Diff (max vs sum): -90  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 269 |
+| This game has Great Boss Battles | 271 |
 | This game is Relaxing | 22 |
 | This game has Amazing Storytelling | 20 |
 ## Ratings History
@@ -291,3 +291,4 @@ Diff (max vs sum): -89
 | 2023-08-25 | 4.57 | 268 | 310 |
 | 2023-08-26 | 4.57 | 269 | 311 |
 | 2023-08-27 | 4.56 | 269 | 311 |
+| 2023-08-29 | 4.57 | 271 | 313 |

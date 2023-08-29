@@ -3,7 +3,7 @@
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
   "Ranking_EOS_Progress": 229,
-  "Ranking_EOS_Completed": 111,
+  "Ranking_EOS_Completed": 112,
   "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 22,
   "Store": {
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 539,
+  "EOS_Progressed": 540,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.3,
   "EosHistory": [
@@ -1166,6 +1166,11 @@
       "Time": "2023-08-29T12:05:40.7858864+00:00",
       "NumProgressed": 539,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-29T15:05:44.8179804+00:00",
+      "NumProgressed": 540,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1186,7 +1191,7 @@
       "Name": "A New Journey",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "_03_FinishAct1",
@@ -1194,15 +1199,15 @@
       "Name": "The Adventure Begins",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "_04_CollectAllRelics",
       "SetID": "8a1io5d",
       "Name": "This Belongs in a Museum",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 184
     },
     {
       "ID": "_05_FinishAct2",
@@ -1264,9 +1269,9 @@
       "ID": "_12_Completion_50",
       "SetID": "8a1io5d",
       "Name": "Privateer",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 38
     },
     {
       "ID": "_13_Completion_60",
@@ -1306,7 +1311,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -1330,7 +1335,7 @@
       "Name": "Fishy Fish",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -1385,14 +1390,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 539,
+      "Progressed": 540,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-29T14:05:29.1111704+00:00",
+  "LastChanged_Achievements": "2023-08-29T15:05:44.8179797+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:45.1302228+00:00",
-  "LastUpdate_Ratings": "2023-08-29T14:01:43.9101664+00:00",
-  "LastUpdate_Achievements": "2023-08-29T14:05:29.1111975+00:00"
+  "LastUpdate_Ratings": "2023-08-29T15:01:31.5463525+00:00",
+  "LastUpdate_Achievements": "2023-08-29T15:05:44.8180084+00:00"
 }

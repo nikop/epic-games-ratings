@@ -6,8 +6,8 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 78.00% | ~4,179 |
-| Hey Good Hookin | 68.00% | ~3,643 |
+| Fish Just Got Reel | 78.00% | ~4,180 |
+| Hey Good Hookin | 68.00% | ~3,644 |
 | I'm on a Boat! | 58.00% | ~3,108 |
 | Can you smell what the Rod is Hooking | 53.00% | ~2,840 |
 | Scaling up | 53.00% | ~2,840 |
@@ -18,14 +18,14 @@ Number of Ratings: 281  (23.09.2022)
 | Things that go Splash in the Night | 29.00% | ~1,554 |
 | Goldfish? | 27.00% | ~1,447 |
 | Going for Gold | 24.00% | ~1,286 |
-| I'm Hooked! | 18.00% | ~964 |
+| I'm Hooked! | 18.00% | ~965 |
 | Diamond in the Rough | 12.00% | ~643 |
 | More than a Tourist | 11.00% | ~589 |
 | Hook, Line and Sinker | 7.00% | ~375 |
 | Marathon | 7.00% | ~375 |
-| I'm the Captain Now | 6.00% | ~321 |
-| School's Out for Summer | 6.00% | ~321 |
-| Big Fish Small Pond | 6.00% | ~321 |
+| I'm the Captain Now | 6.00% | ~322 |
+| School's Out for Summer | 6.00% | ~322 |
+| Big Fish Small Pond | 6.00% | ~322 |
 | Gonna Need a Bigger Boat | 3.00% | ~161 |
 | The Beetles | 2.00% | ~107 |
 | Rod and Troll | 2.00% | ~95 |
@@ -42,8 +42,8 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.10% | ~5 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,358 (Ranked 142)  
-Completed: 0 (0.00%) (Ranked 265)  
+Progressed: 5,359 (Ranked 142)  
+Completed: 0 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -173,7 +173,7 @@ Completed: 0 (0.00%) (Ranked 265)
 | 2023-08-26 | 5,167 | 0 |
 | 2023-08-27 | 5,248 | 0 |
 | 2023-08-28 | 5,332 | 0 |
-| 2023-08-29 | 5,358 | 0 |
+| 2023-08-29 | 5,359 | 0 |
 ## Awards
 Max (Relaxing): 33  (Ranked 449)  
 Sum: 163 (Ranked 392)  

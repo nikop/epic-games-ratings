@@ -39,7 +39,7 @@ Number of Ratings: 706  (23.09.2022)
 | Wabbit Season | 0.50% | ~28 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,553 (Ranked 140)  
-Completed: 11 (0.20%) (Ranked 190)  
+Completed: 11 (0.20%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

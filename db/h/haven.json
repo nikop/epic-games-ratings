@@ -6,8 +6,8 @@
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 186,
-  "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_Completed": 135,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -174,9 +174,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1408,
+  "EOS_Progressed": 1409,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -1584,6 +1584,11 @@
       "Time": "2023-08-29T13:10:51.9606539+00:00",
       "NumProgressed": 1408,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-29T15:06:37.7293558+00:00",
+      "NumProgressed": 1409,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -1659,7 +1664,7 @@
       "Name": "Balding bloot!",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "18",
@@ -1689,9 +1694,9 @@
       "ID": "20",
       "SetID": "n50no0",
       "Name": "Don\u0027t look back",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 70,
-      "UsersEstimate": 183
+      "UsersEstimate": 169
     },
     {
       "ID": "21",
@@ -1723,7 +1728,7 @@
       "Name": "In my shoes",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "25",
@@ -1747,7 +1752,7 @@
       "Name": "A love supreme",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "3",
@@ -1795,7 +1800,7 @@
       "Name": "An eye for an eye",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "6",
@@ -1819,7 +1824,7 @@
       "Name": "Over my dead body",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "9",
@@ -1834,15 +1839,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1408,
+      "Progressed": 1409,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-08-10T12:01:06.704766+00:00",
-  "LastChanged_Achievements": "2023-08-29T14:06:23.3182287+00:00",
+  "LastChanged_Achievements": "2023-08-29T15:06:37.7293551+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:58.660219+00:00",
-  "LastUpdate_Ratings": "2023-08-29T13:58:38.2328591+00:00",
-  "LastUpdate_Achievements": "2023-08-29T14:06:23.318287+00:00"
+  "LastUpdate_Ratings": "2023-08-29T14:58:29.145429+00:00",
+  "LastUpdate_Achievements": "2023-08-29T15:06:37.7293891+00:00"
 }

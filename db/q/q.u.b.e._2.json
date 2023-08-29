@@ -6,7 +6,7 @@
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 390,
-  "Ranking_EOS_Completed": 265,
+  "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
@@ -693,9 +693,9 @@
       "ID": "ACH_S4",
       "SetID": "232494e",
       "Name": "Power Glove",
-      "Percentage": 37,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_S5",
@@ -717,9 +717,9 @@
       "ID": "ACH_STATUE",
       "SetID": "232494e",
       "Name": "Forgotten Memories",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     }
   ],
   "AchievementSets": [
@@ -733,8 +733,8 @@
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-08-29T14:07:12.6326539+00:00",
+  "LastChanged_Achievements": "2023-08-29T15:07:25.4123515+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:24.6161941+00:00",
-  "LastUpdate_Ratings": "2023-08-29T14:00:58.315046+00:00",
-  "LastUpdate_Achievements": "2023-08-29T14:07:12.632677+00:00"
+  "LastUpdate_Ratings": "2023-08-29T15:00:47.7005983+00:00",
+  "LastUpdate_Achievements": "2023-08-29T15:07:25.4123742+00:00"
 }

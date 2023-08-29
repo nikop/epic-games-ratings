@@ -3,7 +3,7 @@
   "Name": "The Evil Within 2",
   "ProductSlug": "the-evil-within-2",
   "Ranking_EOS_Progress": 368,
-  "Ranking_EOS_Completed": 265,
+  "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
@@ -459,9 +459,9 @@
       "ID": "ACHIEVEMENT_20",
       "SetID": "b36c5kb",
       "Name": "You Got Red in You",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -722,8 +722,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-08-29T14:06:34.4566873+00:00",
+  "LastChanged_Achievements": "2023-08-29T15:06:48.6098534+00:00",
   "LastUpdate_AppInfo": "2023-08-23T17:57:10.5850624+00:00",
-  "LastUpdate_Ratings": "2023-08-29T13:59:57.1600312+00:00",
-  "LastUpdate_Achievements": "2023-08-29T14:06:34.4567333+00:00"
+  "LastUpdate_Ratings": "2023-08-29T14:59:43.9882088+00:00",
+  "LastUpdate_Achievements": "2023-08-29T15:06:48.6099014+00:00"
 }
