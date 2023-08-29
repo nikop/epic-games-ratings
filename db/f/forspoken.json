@@ -358,9 +358,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 39808,
+  "EOS_Progressed": 39809,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7903,6 +7903,11 @@
       "Time": "2023-08-29T01:47:42.2136472+00:00",
       "NumProgressed": 39808,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-29T04:06:48.8660435+00:00",
+      "NumProgressed": 39809,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -8106,7 +8111,7 @@
       "Name": "Leapfrogger",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2388
+      "UsersEstimate": 2389
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -8266,7 +8271,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2388
+      "UsersEstimate": 2389
     },
     {
       "ID": "STAYING_AIR",
@@ -8337,22 +8342,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 39808,
+      "Progressed": 39809,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 4645,
-      "Completed": 4645
+      "Progressed": 4646,
+      "Completed": 4646
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-08-26T10:03:08.3605269+00:00",
-  "LastChanged_Achievements": "2023-08-29T03:09:59.285783+00:00",
+  "LastChanged_Achievements": "2023-08-29T04:06:48.8660427+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:18.9582302+00:00",
-  "LastUpdate_Ratings": "2023-08-29T03:01:40.6249396+00:00",
-  "LastUpdate_Achievements": "2023-08-29T03:09:59.2858732+00:00"
+  "LastUpdate_Ratings": "2023-08-29T03:57:39.0565026+00:00",
+  "LastUpdate_Achievements": "2023-08-29T04:06:48.8661283+00:00"
 }

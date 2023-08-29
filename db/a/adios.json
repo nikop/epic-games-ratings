@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 119,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 15,
+  "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -96,10 +96,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 71616,
-  "EOS_Completed": 730,
-  "EOS_NewPlayers": 811,
-  "EOS_NewCompleters": 13,
+  "EOS_Progressed": 71617,
+  "EOS_Completed": 731,
+  "EOS_NewPlayers": 810,
+  "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
     {
@@ -14571,6 +14571,11 @@
       "Time": "2023-08-29T03:09:21.7635956+00:00",
       "NumProgressed": 71616,
       "NumCompleted": 730
+    },
+    {
+      "Time": "2023-08-29T04:06:01.4156578+00:00",
+      "NumProgressed": 71617,
+      "NumCompleted": 731
     }
   ],
   "TotalAchievements": 25,
@@ -14582,7 +14587,7 @@
       "Name": "A Man Of Taste",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 2148
+      "UsersEstimate": 2149
     },
     {
       "ID": "Ace In The Hole (Kingfisher)",
@@ -14590,7 +14595,7 @@
       "Name": "Ace in the Hole",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 2148
+      "UsersEstimate": 2149
     },
     {
       "ID": "Adios, Friendo",
@@ -14646,7 +14651,7 @@
       "Name": "Fair\u0027s Fair",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 2148
+      "UsersEstimate": 2149
     },
     {
       "ID": "HardWorker",
@@ -14662,7 +14667,7 @@
       "Name": "Hearty",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2148
+      "UsersEstimate": 2149
     },
     {
       "ID": "LazyBones",
@@ -14670,7 +14675,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 6445
+      "UsersEstimate": 6446
     },
     {
       "ID": "Magnetic Miracles",
@@ -14694,7 +14699,7 @@
       "Name": "Meaty",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2148
+      "UsersEstimate": 2149
     },
     {
       "ID": "Mechanic",
@@ -14758,7 +14763,7 @@
       "Name": "Taco Toto",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 2148
+      "UsersEstimate": 2149
     },
     {
       "ID": "Tape Head",
@@ -14781,16 +14786,16 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 71616,
-      "Completed": 730
+      "Progressed": 71617,
+      "Completed": 731
     }
   ],
   "FirstSeen": "2022-07-22T20:27:11.1683553+00:00",
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-08-07T22:57:38.0235808+00:00",
-  "LastChanged_Achievements": "2023-08-29T03:09:21.7635949+00:00",
+  "LastChanged_Achievements": "2023-08-29T04:06:01.4156571+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:13.605884+00:00",
-  "LastUpdate_Ratings": "2023-08-29T03:03:21.1746276+00:00",
-  "LastUpdate_Achievements": "2023-08-29T03:09:21.7637001+00:00"
+  "LastUpdate_Ratings": "2023-08-29T03:59:58.8226252+00:00",
+  "LastUpdate_Achievements": "2023-08-29T04:06:01.4157711+00:00"
 }

@@ -598,9 +598,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 466235,
+  "EOS_Progressed": 466237,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 482,
+  "EOS_NewPlayers": 480,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14273,6 +14273,11 @@
       "Time": "2023-08-29T02:52:28.7257712+00:00",
       "NumProgressed": 466235,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-08-29T04:08:07.5522718+00:00",
+      "NumProgressed": 466237,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -14284,7 +14289,7 @@
       "Name": "Knightmare Frames",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 69935
+      "UsersEstimate": 69936
     },
     {
       "ID": "achievement_expedition_overcome_sandworm",
@@ -14292,7 +14297,7 @@
       "Name": "May His passing cleanse the world",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 69935
+      "UsersEstimate": 69936
     },
     {
       "ID": "achievement_first_death",
@@ -14300,7 +14305,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 111896
+      "UsersEstimate": 111897
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -14316,7 +14321,7 @@
       "Name": "Chapter II: Fallible Flesh",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 69935
+      "UsersEstimate": 69936
     },
     {
       "ID": "achievement_story_complete_chapter_3",
@@ -14372,7 +14377,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 307715
+      "UsersEstimate": 307716
     },
     {
       "ID": "achievement_story_landa",
@@ -14420,7 +14425,7 @@
       "Name": "Admiral Okonkwo",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 32636
+      "UsersEstimate": 32637
     },
     {
       "ID": "achievement_story_meet_survivalists",
@@ -14428,7 +14433,7 @@
       "Name": "The Survivalists",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 32636
+      "UsersEstimate": 32637
     },
     {
       "ID": "achievement_story_meet_tetsuo",
@@ -14452,7 +14457,7 @@
       "Name": "Pope Zenon",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 69935
+      "UsersEstimate": 69936
     },
     {
       "ID": "achievement_story_neon_child",
@@ -14524,7 +14529,7 @@
       "Name": "The Tech Specialist",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 32636
+      "UsersEstimate": 32637
     },
     {
       "ID": "achievement_unlock_officer_empire_2",
@@ -14708,7 +14713,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 205143
+      "UsersEstimate": 205144
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -14716,7 +14721,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 139870
+      "UsersEstimate": 139871
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -14915,21 +14920,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 10169,
+      "Progressed": 10171,
       "Completed": 2356
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 466235,
+      "Progressed": 466237,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-08-24T02:57:03.8465673+00:00",
-  "LastChanged_Achievements": "2023-08-29T03:11:11.5753179+00:00",
+  "LastChanged_Achievements": "2023-08-29T04:08:07.5522711+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:38.8544339+00:00",
-  "LastUpdate_Ratings": "2023-08-29T03:02:05.3624746+00:00",
-  "LastUpdate_Achievements": "2023-08-29T03:11:11.5754784+00:00"
+  "LastUpdate_Ratings": "2023-08-29T03:58:13.3015312+00:00",
+  "LastUpdate_Achievements": "2023-08-29T04:08:07.5524458+00:00"
 }

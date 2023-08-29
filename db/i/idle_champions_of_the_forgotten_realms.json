@@ -6178,9 +6178,9 @@
       "Count": 3380
     }
   ],
-  "EOS_Progressed": 225830,
+  "EOS_Progressed": 225835,
   "EOS_Completed": 2226,
-  "EOS_NewPlayers": 1797,
+  "EOS_NewPlayers": 1793,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -20513,6 +20513,11 @@
       "Time": "2023-08-29T03:12:21.3587466+00:00",
       "NumProgressed": 225830,
       "NumCompleted": 2226
+    },
+    {
+      "Time": "2023-08-29T04:08:31.0669853+00:00",
+      "NumProgressed": 225835,
+      "NumCompleted": 2226
     }
   ],
   "TotalAchievements": 520,
@@ -24466,9 +24471,9 @@
       "ID": "objective_completed_1042",
       "SetID": "415jc5c",
       "Name": "Willing to Sacrifice",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 192
     },
     {
       "ID": "objective_completed_1047",
@@ -24506,9 +24511,9 @@
       "ID": "objective_completed_1332",
       "SetID": "415jc5c",
       "Name": "All The World\u0027s A Stage",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 192
     },
     {
       "ID": "objective_completed_568",
@@ -24683,21 +24688,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 192104,
+      "Progressed": 192109,
       "Completed": 3324
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 225830,
+      "Progressed": 225835,
       "Completed": 2226
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-29T00:00:55.8672546+00:00",
-  "LastChanged_Achievements": "2023-08-29T03:12:21.3587458+00:00",
+  "LastChanged_Achievements": "2023-08-29T04:08:31.0669847+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:53.3345914+00:00",
-  "LastUpdate_Ratings": "2023-08-29T03:04:49.9328622+00:00",
-  "LastUpdate_Achievements": "2023-08-29T03:12:21.3618802+00:00"
+  "LastUpdate_Ratings": "2023-08-29T04:01:51.7032293+00:00",
+  "LastUpdate_Achievements": "2023-08-29T04:08:31.0698181+00:00"
 }

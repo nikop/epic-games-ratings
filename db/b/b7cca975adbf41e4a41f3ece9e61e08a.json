@@ -142,9 +142,9 @@
       "ID": "NEW_ACHIEVEMENT_1_19",
       "SetID": "7opfcp",
       "Name": "A Slap In The Face!",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
@@ -396,8 +396,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
-  "LastChanged_Achievements": "2023-08-29T03:09:18.2762106+00:00",
+  "LastChanged_Achievements": "2023-08-29T04:05:57.136423+00:00",
   "LastUpdate_AppInfo": "2023-08-25T15:57:05.950188+00:00",
-  "LastUpdate_Ratings": "2023-08-29T03:03:42.8092616+00:00",
-  "LastUpdate_Achievements": "2023-08-29T03:09:18.2762443+00:00"
+  "LastUpdate_Ratings": "2023-08-29T04:00:22.9293582+00:00",
+  "LastUpdate_Achievements": "2023-08-29T04:05:57.1364544+00:00"
 }

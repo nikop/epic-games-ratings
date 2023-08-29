@@ -1,19 +1,19 @@
 # Iratus: Lord of the Dead
 [Store](https://store.epicgames.com/en-US/p/iratus-d0e5ba)  
 [View Rawdata](../../db/i/iratus__lord_of_the_dead.json)  
-Rating: 4.37 (Ranked 737)  
+Rating: 4.37 (Ranked 736)  
 Number of Ratings: 10,109  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Improvement | 85.00% | ~32,895 |
-| Blood Moon | 73.00% | ~28,251 |
-| Path of the Necromancer | 66.00% | ~25,542 |
-| Chainbreaker - I | 60.00% | ~23,220 |
-| Cursed Creature | 57.00% | ~22,059 |
-| Extraction | 57.00% | ~22,059 |
-| Chainbreaker - II | 55.00% | ~21,285 |
-| Necromancer's Apprentice | 51.00% | ~19,737 |
+| Improvement | 85.00% | ~32,896 |
+| Blood Moon | 73.00% | ~28,252 |
+| Path of the Necromancer | 66.00% | ~25,543 |
+| Chainbreaker - I | 60.00% | ~23,221 |
+| Cursed Creature | 57.00% | ~22,060 |
+| Extraction | 57.00% | ~22,060 |
+| Chainbreaker - II | 55.00% | ~21,286 |
+| Necromancer's Apprentice | 51.00% | ~19,738 |
 | Keeper of Keys | 47.00% | ~18,189 |
 | Distillation | 43.00% | ~16,641 |
 | Mountain King - I | 42.00% | ~16,254 |
@@ -64,9 +64,9 @@ Number of Ratings: 10,109  (23.09.2022)
 | Icy Incursion | 8.00% | ~3,096 |
 | Arachnophobia | 8.00% | ~3,096 |
 | Revealed Secrets - III | 8.00% | ~3,096 |
+| Master of Magic | 7.00% | ~2,709 |
 | Nightmare of the Humanity - III | 7.00% | ~2,709 |
 | Means of Recovery | 6.00% | ~2,322 |
-| Master of Magic | 6.00% | ~2,322 |
 | Master of Destruction | 4.00% | ~1,548 |
 | Dungeon Queen | 3.00% | ~1,161 |
 | Mek Brothers | 3.00% | ~1,161 |
@@ -82,7 +82,7 @@ Number of Ratings: 10,109  (23.09.2022)
 | Unrivaled | 0.60% | ~232 |
 | Renowned Researcher | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,700 (Ranked 96)  
+Progressed: 38,701 (Ranked 96)  
 Completed: 23 (0.06%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 23 (0.06%) (Ranked 227)
 | 2023-08-26 | 38,527 | 23 |
 | 2023-08-27 | 38,618 | 23 |
 | 2023-08-28 | 38,688 | 23 |
-| 2023-08-29 | 38,700 | 23 |
+| 2023-08-29 | 38,701 | 23 |
 ## Awards
 Max (Character Customization): 2,149  (Ranked 108)  
 Sum: 4,166 (Ranked 141)  

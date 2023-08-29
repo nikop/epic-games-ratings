@@ -494,9 +494,9 @@
       "ID": "L1_5_PERFECT",
       "SetID": "6finf64",
       "Name": "Big City Music",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "L1_FINISH",
@@ -558,9 +558,9 @@
       "ID": "L2_PERFECT",
       "SetID": "6finf64",
       "Name": "Sound of Noise",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "L3_FINISH",
@@ -614,9 +614,9 @@
       "ID": "L6_FINISH",
       "SetID": "6finf64",
       "Name": "Road-Trip",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "L6_PERFECT",
@@ -630,9 +630,9 @@
       "ID": "L7_5_FINISH",
       "SetID": "6finf64",
       "Name": "Briget\u0027s",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "L7_5_PERFECT",
@@ -646,9 +646,9 @@
       "ID": "L7_FINISH",
       "SetID": "6finf64",
       "Name": "A Musical Pause",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "L7_PERFECT",
@@ -662,9 +662,9 @@
       "ID": "L8_FINISH",
       "SetID": "6finf64",
       "Name": "Love at First Sight",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "L8_PERFECT",
@@ -678,9 +678,9 @@
       "ID": "L9_FINISH",
       "SetID": "6finf64",
       "Name": "First Kiss",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "L9_PERFECT",
@@ -711,8 +711,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.0267676+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.5327196+00:00",
   "LastChanged": "2023-03-31T05:57:21.0267677+00:00",
-  "LastChanged_Achievements": "2023-08-29T03:08:23.7005959+00:00",
+  "LastChanged_Achievements": "2023-08-29T04:04:47.3480486+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:52.6132273+00:00",
-  "LastUpdate_Ratings": "2023-08-29T03:04:48.4612196+00:00",
-  "LastUpdate_Achievements": "2023-08-29T03:08:23.7006778+00:00"
+  "LastUpdate_Ratings": "2023-08-29T04:01:50.2569778+00:00",
+  "LastUpdate_Achievements": "2023-08-29T04:04:47.3480981+00:00"
 }

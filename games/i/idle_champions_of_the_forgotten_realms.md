@@ -498,10 +498,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Court of Storms | 0.10% | ~192 |
 | Beware the Jabberwock | 0.10% | ~192 |
 | Quick or Quack | 0.10% | ~192 |
+| Willing to Sacrifice | 0.10% | ~192 |
 | Devilishly Cold | 0.10% | ~192 |
 | The Champion's Guide to Wildspace | 0.10% | ~192 |
 | Not That Type of Helm! | 0.10% | ~192 |
 | Tiny Treaty | 0.10% | ~192 |
+| All The World's A Stage | 0.10% | ~192 |
 | Calcryx Tricks | 0.10% | ~192 |
 | Goblin Halls: the Next Generation | 0.10% | ~192 |
 | Bazaar Companions | 0.10% | ~192 |
@@ -520,14 +522,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | To Infinity's and Beyond | 0.10% | ~192 |
 | There's a Flying Snake in my Boot! | 0.10% | ~192 |
 | Coasting to the Finish | 0.00% | ~0 |
-| Willing to Sacrifice | 0.00% | ~0 |
-| All The World's A Stage | 0.00% | ~0 |
 | Legends and Lore | 0.00% | ~0 |
 | Unearthed Arcana | 0.00% | ~0 |
 | The End | 0.00% | ~0 |
 | All's Well That Ends Well | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,830 (Ranked 53)  
+Progressed: 225,835 (Ranked 53)  
 Completed: 2,226 (0.99%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -658,7 +658,7 @@ Completed: 2,226 (0.99%) (Ranked 121)
 | 2023-08-26 | 225,221 | 2,219 |
 | 2023-08-27 | 225,526 | 2,222 |
 | 2023-08-28 | 225,795 | 2,223 |
-| 2023-08-29 | 225,830 | 2,226 |
+| 2023-08-29 | 225,835 | 2,226 |
 ## Awards
 Max (Diverse Characters): 5,202  (Ranked 68)  
 Sum: 31,270 (Ranked 39)  

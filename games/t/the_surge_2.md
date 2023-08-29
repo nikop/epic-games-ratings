@@ -37,16 +37,16 @@ Rating: 4.23 (Ranked 847)
 | Marked For Success | 12.00% | ~238 |
 | Stimulating The Local Economy | 10.00% | ~198 |
 | Triplets | 10.00% | ~198 |
+| Denying Prophecy | 9.00% | ~179 |
 | Defense in Depth | 9.00% | ~179 |
 | A Little Banged Up | 8.00% | ~159 |
-| Denying Prophecy | 8.00% | ~159 |
 | Following In Their Footsteps | 8.00% | ~159 |
 | Reverse Engineering | 7.00% | ~139 |
+| Reborn | 6.00% | ~119 |
 | Remote Surgery | 6.00% | ~119 |
 | Turbo Booster | 6.00% | ~119 |
 | Juiced Up | 6.00% | ~119 |
 | Squid Pro Quo | 6.00% | ~119 |
-| Reborn | 5.00% | ~99 |
 | Counter-Sniper | 5.00% | ~99 |
 | Shrimp Cocktail | 5.00% | ~99 |
 | Hello Darkness My Old Friend | 4.00% | ~79 |

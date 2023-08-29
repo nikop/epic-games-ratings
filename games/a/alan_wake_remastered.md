@@ -11,16 +11,16 @@ Number of Ratings: 524  (23.09.2022)
 | Float Like a Butterfly | 30.00% | ~18,570 |
 | Nordic Walking | 24.00% | ~14,856 |
 | Bright Falls' Finest | 23.00% | ~14,237 |
-| Under a Thin Layer of Skin | 20.00% | ~12,380 |
+| Under a Thin Layer of Skin | 21.00% | ~12,999 |
 | Park Ranger | 17.00% | ~10,523 |
 | Paging Mr. Wake | 17.00% | ~10,523 |
 | Back! Back, I Say! | 16.00% | ~9,904 |
 | Finders Keepers | 16.00% | ~9,904 |
 | Damn Good Cup of Coffee | 15.00% | ~9,285 |
+| Wheels Within Wheels | 14.00% | ~8,666 |
 | They're Heeeeeere! | 14.00% | ~8,666 |
 | Sound and Fury | 14.00% | ~8,666 |
 | Missed by a Mile | 14.00% | ~8,666 |
-| Wheels Within Wheels | 13.00% | ~8,047 |
 | The Six-Gun Scribe | 13.00% | ~8,047 |
 | Heavy Metal | 12.00% | ~7,428 |
 | Iron Horse | 12.00% | ~7,428 |
@@ -36,7 +36,7 @@ Number of Ratings: 524  (23.09.2022)
 | What Light Through Yonder Window | 9.00% | ~5,571 |
 | Right of Way | 9.00% | ~5,571 |
 | Tornado Wrangler | 8.00% | ~4,952 |
-| A Friend in Need | 8.00% | ~2,029 |
+| A Friend in Need | 8.00% | ~2,030 |
 | Departure | 7.00% | ~4,333 |
 | Hardboiled Writer | 6.00% | ~3,714 |
 | A Friend Indeed | 6.00% | ~1,522 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~62 |
 | No Punctuation | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,900 (Ranked 87)  
+Progressed: 61,901 (Ranked 87)  
 Completed: 65 (0.11%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 65 (0.11%) (Ranked 210)
 | 2023-08-26 | 61,726 | 65 |
 | 2023-08-27 | 61,821 | 65 |
 | 2023-08-28 | 61,891 | 65 |
-| 2023-08-29 | 61,900 | 65 |
+| 2023-08-29 | 61,901 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

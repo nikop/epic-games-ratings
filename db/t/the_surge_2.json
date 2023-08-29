@@ -2329,9 +2329,9 @@
       "ID": "ACHV_11",
       "SetID": "8p5mlmc",
       "Name": "Denying Prophecy",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 159
+      "UsersEstimate": 179
     },
     {
       "ID": "ACHV_12",
@@ -2353,9 +2353,9 @@
       "ID": "ACHV_14",
       "SetID": "8p5mlmc",
       "Name": "Reborn",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 119
     },
     {
       "ID": "ACHV_15",
@@ -2714,8 +2714,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-08-11T22:58:17.9643661+00:00",
-  "LastChanged_Achievements": "2023-08-29T03:10:46.2268656+00:00",
+  "LastChanged_Achievements": "2023-08-29T04:07:48.0459415+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:10.7266559+00:00",
-  "LastUpdate_Ratings": "2023-08-29T03:03:30.4761104+00:00",
-  "LastUpdate_Achievements": "2023-08-29T03:10:46.2269337+00:00"
+  "LastUpdate_Ratings": "2023-08-29T04:00:09.5701812+00:00",
+  "LastUpdate_Achievements": "2023-08-29T04:07:48.046017+00:00"
 }
