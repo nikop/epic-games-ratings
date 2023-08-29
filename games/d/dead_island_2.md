@@ -29,12 +29,12 @@ Rating: 4.54 (Ranked 501)
 | A Patton Emerges | 0.30% | ~2,005 |
 | I Am the Resurrection | 0.30% | ~2,005 |
 | Our True Nature | 0.30% | ~2,005 |
-| Making Your Mark | 0.20% | ~1,336 |
-| I Got a Zombie Army and You Can't Harm Me | 0.20% | ~1,336 |
-| Humanity Distilled | 0.20% | ~1,336 |
-| Down with the Sickness | 0.20% | ~1,336 |
-| Max Headroom | 0.20% | ~1,336 |
-| Go, Bobcats! | 0.20% | ~1,336 |
+| Making Your Mark | 0.20% | ~1,337 |
+| I Got a Zombie Army and You Can't Harm Me | 0.20% | ~1,337 |
+| Humanity Distilled | 0.20% | ~1,337 |
+| Down with the Sickness | 0.20% | ~1,337 |
+| Max Headroom | 0.20% | ~1,337 |
+| Go, Bobcats! | 0.20% | ~1,337 |
 | Make it So | 0.10% | ~668 |
 | LA Influential | 0.10% | ~668 |
 | On Safari | 0.10% | ~668 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 501)
 | Rising Star | 0.10% | ~668 |
 | Bucket List | 0.10% | ~668 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 668,242 (Ranked 22)  
+Progressed: 668,256 (Ranked 22)  
 Completed: 2,087 (0.31%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,7 +182,7 @@ Completed: 2,087 (0.31%) (Ranked 173)
 | 2023-08-26 | 666,250 | 2,078 |
 | 2023-08-27 | 667,273 | 2,082 |
 | 2023-08-28 | 668,091 | 2,086 |
-| 2023-08-29 | 668,242 | 2,087 |
+| 2023-08-29 | 668,256 | 2,087 |
 ## Awards
 Max (Great Boss Battles): 5,791  (Ranked 61)  
 Sum: 8,530 (Ranked 97)  

@@ -8826,9 +8826,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 378385,
+  "EOS_Progressed": 378436,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20891,
+  "EOS_NewPlayers": 20860,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23396,6 +23396,11 @@
       "Time": "2023-08-29T05:06:09.9764644+00:00",
       "NumProgressed": 378385,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-29T06:04:57.3562196+00:00",
+      "NumProgressed": 378436,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -23847,7 +23852,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7568
+      "UsersEstimate": 7569
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -24407,7 +24412,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 11352
+      "UsersEstimate": 11353
     },
     {
       "ID": "achievement_grand_coalition",
@@ -24431,7 +24436,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 7568
+      "UsersEstimate": 7569
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -25359,7 +25364,7 @@
       "Name": "Royal Authority",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 2270
+      "UsersEstimate": 2271
     },
     {
       "ID": "achievement_rozwi_empire",
@@ -25407,7 +25412,7 @@
       "Name": "Seriously?!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 7568
+      "UsersEstimate": 7569
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -25687,7 +25692,7 @@
       "Name": "That is mine!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 11352
+      "UsersEstimate": 11353
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -25831,7 +25836,7 @@
       "Name": "The Princess is in this Castle",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 3405
+      "UsersEstimate": 3406
     },
     {
       "ID": "achievement_the_re_reconquista",
@@ -25959,7 +25964,7 @@
       "Name": "Total Control",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 2270
+      "UsersEstimate": 2271
     },
     {
       "ID": "achievement_trade_hegemon",
@@ -26071,7 +26076,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 15135
+      "UsersEstimate": 15137
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -26103,7 +26108,7 @@
       "Name": "Victorious!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 11352
+      "UsersEstimate": 11353
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -26238,21 +26243,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 378385,
+      "Progressed": 378436,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 378385,
+      "Progressed": 378436,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-08-29T05:01:15.1964052+00:00",
-  "LastChanged_Achievements": "2023-08-29T05:06:09.9764637+00:00",
+  "LastChanged_Achievements": "2023-08-29T06:04:57.3562191+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:27.0378772+00:00",
-  "LastUpdate_Ratings": "2023-08-29T05:01:15.196406+00:00",
-  "LastUpdate_Achievements": "2023-08-29T05:06:09.9780007+00:00"
+  "LastUpdate_Ratings": "2023-08-29T06:00:00.1772464+00:00",
+  "LastUpdate_Achievements": "2023-08-29T06:04:57.3574125+00:00"
 }

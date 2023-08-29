@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 61901,
+  "EOS_Progressed": 61902,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 613,
+  "EOS_NewPlayers": 614,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -12767,6 +12767,11 @@
       "Time": "2023-08-29T04:03:13.5041887+00:00",
       "NumProgressed": 61901,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-08-29T06:02:12.9063574+00:00",
+      "NumProgressed": 61902,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -12778,7 +12783,7 @@
       "Name": "Follow the Light",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 23522
+      "UsersEstimate": 23523
     },
     {
       "ID": "02",
@@ -12872,9 +12877,9 @@
       "ID": "13",
       "SetID": "212770e",
       "Name": "Drink \u0027Em Both Up",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3095
+      "UsersEstimate": 3714
     },
     {
       "ID": "14",
@@ -13026,7 +13031,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 18570
+      "UsersEstimate": 18571
     },
     {
       "ID": "33",
@@ -13050,7 +13055,7 @@
       "Name": "Let There Be Light",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 19189
+      "UsersEstimate": 19190
     },
     {
       "ID": "36",
@@ -13313,21 +13318,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 61901,
+      "Progressed": 61902,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 25369,
+      "Progressed": 25370,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-29T05:02:52.3027066+00:00",
+  "LastChanged_Achievements": "2023-08-29T06:02:12.9063568+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:21.2068954+00:00",
-  "LastUpdate_Ratings": "2023-08-29T05:01:35.745495+00:00",
-  "LastUpdate_Achievements": "2023-08-29T05:02:52.3031747+00:00"
+  "LastUpdate_Ratings": "2023-08-29T06:00:16.9712139+00:00",
+  "LastUpdate_Achievements": "2023-08-29T06:02:12.9065225+00:00"
 }

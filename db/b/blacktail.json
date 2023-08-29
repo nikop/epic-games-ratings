@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -60,9 +60,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 643,
+  "EOS_Progressed": 644,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1655,6 +1655,11 @@
       "Time": "2023-08-28T15:06:50.9957348+00:00",
       "NumProgressed": 643,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-29T06:05:31.8720979+00:00",
+      "NumProgressed": 644,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -1698,7 +1703,7 @@
       "Name": "Devil\u0027s in the details",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "Devoted",
@@ -1754,7 +1759,7 @@
       "Name": "Gold rush",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "GossipGirl",
@@ -1778,7 +1783,7 @@
       "Name": "Spirit animal",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "LiarLiar",
@@ -1921,7 +1926,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 643,
+      "Progressed": 644,
       "Completed": 1
     }
   ],
@@ -1929,8 +1934,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-08-29T05:06:45.2655336+00:00",
+  "LastChanged_Achievements": "2023-08-29T06:05:31.8720966+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:35.1403312+00:00",
-  "LastUpdate_Ratings": "2023-08-29T05:01:52.797088+00:00",
-  "LastUpdate_Achievements": "2023-08-29T05:06:45.2655703+00:00"
+  "LastUpdate_Ratings": "2023-08-29T06:00:26.7885911+00:00",
+  "LastUpdate_Achievements": "2023-08-29T06:05:31.872134+00:00"
 }

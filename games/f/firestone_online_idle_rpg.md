@@ -55,11 +55,11 @@ Rating: 4.04 (Ranked 931)
 | Lock And Load | 6.00% | ~112 |
 | Missions Dedication | 6.00% | ~112 |
 | Sailor | 6.00% | ~112 |
+| The Alchemist | 6.00% | ~112 |
 | Active Member | 5.00% | ~93 |
 | Background Story | 5.00% | ~93 |
 | Ebony Jungle Liberator | 5.00% | ~93 |
 | Legendary | 5.00% | ~93 |
-| The Alchemist | 5.00% | ~93 |
 | Arena Challenger | 4.00% | ~74 |
 | What lies behind the bush | 3.00% | ~56 |
 | Gear Enchanting | 2.00% | ~37 |

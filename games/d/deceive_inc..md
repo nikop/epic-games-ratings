@@ -10,9 +10,9 @@ Rating: 4.57 (Ranked 450)
 | The Spy who eliminated me | 23.00% | ~4,078 |
 | Tomorrow Never Dyes | 22.00% | ~3,901 |
 | Never Say Loser Again | 19.00% | ~3,369 |
-| From the Vault with Love | 18.00% | ~3,191 |
-| Tailor-Made | 18.00% | ~3,191 |
-| For your Eyes only | 18.00% | ~3,191 |
+| From the Vault with Love | 18.00% | ~3,192 |
+| Tailor-Made | 18.00% | ~3,192 |
+| For your Eyes only | 18.00% | ~3,192 |
 | Assistant Accountant | 17.00% | ~3,014 |
 | You Only Live Twice | 16.00% | ~2,837 |
 | Fully Decked Out | 16.00% | ~2,837 |
@@ -27,7 +27,7 @@ Rating: 4.57 (Ranked 450)
 | Keycards Royale | 10.00% | ~1,773 |
 | In It to Win It | 10.00% | ~1,773 |
 | Security Supervisor | 6.00% | ~1,064 |
-| License to Thrill | 5.00% | ~886 |
+| License to Thrill | 5.00% | ~887 |
 | Social of Solace | 3.00% | ~532 |
 | Live and let lie | 3.00% | ~532 |
 | Safe Withdrawal | 3.00% | ~532 |
@@ -36,13 +36,13 @@ Rating: 4.57 (Ranked 450)
 | PHD in VIP | 2.00% | ~355 |
 | The terminals are not enough | 1.00% | ~177 |
 | Lose Another Day | 1.00% | ~177 |
-| Chairman of Deceive Inc. | 0.80% | ~142 |
+| Chairman of Deceive Inc. | 0.90% | ~160 |
 | Chief Information Officer | 0.70% | ~124 |
 | Masteries Are Forever | 0.40% | ~71 |
 | Extraction Confusion | 0.20% | ~35 |
 | Spyfall | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,730 (Ranked 111)  
+Progressed: 17,731 (Ranked 111)  
 Completed: 1 (0.01%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 1 (0.01%) (Ranked 252)
 | 2023-08-26 | 17,681 | 1 |
 | 2023-08-27 | 17,704 | 1 |
 | 2023-08-28 | 17,722 | 1 |
-| 2023-08-29 | 17,730 | 1 |
+| 2023-08-29 | 17,731 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

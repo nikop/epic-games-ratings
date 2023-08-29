@@ -232,9 +232,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17730,
+  "EOS_Progressed": 17731,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9302,6 +9302,11 @@
       "Time": "2023-08-29T05:07:45.2561158+00:00",
       "NumProgressed": 17730,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-29T06:06:18.0939432+00:00",
+      "NumProgressed": 17731,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -9321,7 +9326,7 @@
       "Name": "License to Thrill",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     },
     {
       "ID": "0003",
@@ -9369,7 +9374,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3191
+      "UsersEstimate": 3192
     },
     {
       "ID": "0009",
@@ -9505,7 +9510,7 @@
       "Name": "Tailor-Made",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3191
+      "UsersEstimate": 3192
     },
     {
       "ID": "0026",
@@ -9545,7 +9550,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3191
+      "UsersEstimate": 3192
     },
     {
       "ID": "0031",
@@ -9583,9 +9588,9 @@
       "ID": "0035",
       "SetID": "2n2feee",
       "Name": "Chairman of Deceive Inc.",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 142
+      "UsersEstimate": 160
     },
     {
       "ID": "0036",
@@ -9600,7 +9605,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17730,
+      "Progressed": 17731,
       "Completed": 1
     }
   ],
@@ -9608,8 +9613,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-27T03:58:40.60023+00:00",
-  "LastChanged_Achievements": "2023-08-29T05:07:45.2561152+00:00",
+  "LastChanged_Achievements": "2023-08-29T06:06:18.0939425+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:14.6586711+00:00",
-  "LastUpdate_Ratings": "2023-08-29T04:58:46.3632217+00:00",
-  "LastUpdate_Achievements": "2023-08-29T05:07:45.25623+00:00"
+  "LastUpdate_Ratings": "2023-08-29T05:58:13.8890786+00:00",
+  "LastUpdate_Achievements": "2023-08-29T06:06:18.0940274+00:00"
 }

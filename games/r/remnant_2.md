@@ -5,34 +5,34 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~15,194 |
-| The Killing Jar | 8.00% | ~13,506 |
-| Not Your Average Trait | 8.00% | ~13,506 |
-| Expanding Horizons | 7.00% | ~11,818 |
-| Quest for Survival | 7.00% | ~11,818 |
-| Boss'n Up | 7.00% | ~11,818 |
-| Trait Chaser | 7.00% | ~11,818 |
-| Gleaming the Cube | 6.00% | ~10,129 |
-| Not a Janitor | 6.00% | ~10,129 |
-| Familiar Face | 6.00% | ~10,129 |
-| Blue Goddess | 6.00% | ~10,129 |
-| Duality | 6.00% | ~10,129 |
-| Top Performer | 6.00% | ~10,129 |
-| Good, But Could Be Better! | 6.00% | ~10,129 |
-| Not So Special Now | 5.00% | ~8,441 |
-| Equal Measures | 5.00% | ~8,441 |
-| Shhh...It's a Secret | 5.00% | ~8,441 |
-| Almost There | 5.00% | ~8,441 |
-| Make Some Room | 5.00% | ~8,441 |
-| Chaos | 4.00% | ~6,753 |
-| Traitor | 4.00% | ~6,753 |
-| Power Surge | 4.00% | ~6,753 |
-| The God Gambit | 4.00% | ~6,753 |
-| Dark Designs | 4.00% | ~6,753 |
-| Madman's Paradise | 4.00% | ~6,753 |
-| Was This Supposed To Happen? | 4.00% | ~6,753 |
-| The Web | 4.00% | ~6,753 |
-| All These Traits� | 4.00% | ~6,753 |
+| First of Many | 9.00% | ~15,196 |
+| The Killing Jar | 8.00% | ~13,508 |
+| Not Your Average Trait | 8.00% | ~13,508 |
+| Expanding Horizons | 7.00% | ~11,819 |
+| Quest for Survival | 7.00% | ~11,819 |
+| Boss'n Up | 7.00% | ~11,819 |
+| Trait Chaser | 7.00% | ~11,819 |
+| Gleaming the Cube | 6.00% | ~10,131 |
+| Not a Janitor | 6.00% | ~10,131 |
+| Familiar Face | 6.00% | ~10,131 |
+| Blue Goddess | 6.00% | ~10,131 |
+| Duality | 6.00% | ~10,131 |
+| Top Performer | 6.00% | ~10,131 |
+| Good, But Could Be Better! | 6.00% | ~10,131 |
+| Not So Special Now | 5.00% | ~8,442 |
+| Equal Measures | 5.00% | ~8,442 |
+| Shhh...It's a Secret | 5.00% | ~8,442 |
+| Almost There | 5.00% | ~8,442 |
+| Make Some Room | 5.00% | ~8,442 |
+| Chaos | 4.00% | ~6,754 |
+| Traitor | 4.00% | ~6,754 |
+| Power Surge | 4.00% | ~6,754 |
+| The God Gambit | 4.00% | ~6,754 |
+| Dark Designs | 4.00% | ~6,754 |
+| Madman's Paradise | 4.00% | ~6,754 |
+| Was This Supposed To Happen? | 4.00% | ~6,754 |
+| The Web | 4.00% | ~6,754 |
+| All These Traits� | 4.00% | ~6,754 |
 | Forever is a Long Time Coming | 3.00% | ~5,065 |
 | The Agenda | 3.00% | ~5,065 |
 | Bad Moon Rising | 3.00% | ~5,065 |
@@ -40,15 +40,15 @@ Rating: 4.77 (Ranked 109)
 | Edgelord | 3.00% | ~5,065 |
 | Scrap Collector | 3.00% | ~5,065 |
 | The Ultimate Weapon | 3.00% | ~5,065 |
-| Am I Seeing This? | 2.00% | ~3,376 |
-| Only Human | 2.00% | ~3,376 |
-| Red Room | 2.00% | ~3,376 |
-| Tall Tales | 2.00% | ~3,376 |
-| Scrap Hoarder | 2.00% | ~3,376 |
-| Carnage in C-Minor | 2.00% | ~3,376 |
-| No One Should Have All That Power | 2.00% | ~3,376 |
-| Maxed Out! | 2.00% | ~3,376 |
-| Transmutate | 2.00% | ~3,376 |
+| Am I Seeing This? | 2.00% | ~3,377 |
+| Only Human | 2.00% | ~3,377 |
+| Red Room | 2.00% | ~3,377 |
+| Tall Tales | 2.00% | ~3,377 |
+| Scrap Hoarder | 2.00% | ~3,377 |
+| Carnage in C-Minor | 2.00% | ~3,377 |
+| No One Should Have All That Power | 2.00% | ~3,377 |
+| Maxed Out! | 2.00% | ~3,377 |
+| Transmutate | 2.00% | ~3,377 |
 | Crafty | 1.00% | ~1,688 |
 | The Trigger | 1.00% | ~1,688 |
 | Cutting Edge | 1.00% | ~1,688 |
@@ -56,7 +56,7 @@ Rating: 4.77 (Ranked 109)
 | Ghost in the Machine | 0.80% | ~1,351 |
 | Proving Grounds | 0.80% | ~1,351 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 168,824 (Ranked 64)  
+Progressed: 168,849 (Ranked 64)  
 Completed: 158 (0.09%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,10 +100,10 @@ Completed: 158 (0.09%) (Ranked 216)
 | 2023-08-26 | 166,491 | 142 |
 | 2023-08-27 | 167,706 | 152 |
 | 2023-08-28 | 168,659 | 156 |
-| 2023-08-29 | 168,824 | 158 |
+| 2023-08-29 | 168,849 | 158 |
 ## Awards
 Max (Great Boss Battles): 1,237  (Ranked 135)  
-Sum: 2,171 (Ranked 193)  
+Sum: 2,178 (Ranked 193)  
 Diff (max vs sum): -58  
 | Award | Count |
 | ----- | ----- |
@@ -113,10 +113,10 @@ Diff (max vs sum): -58
 | This game is Extremely Fun | 102 |
 | This game is Relaxing | 99 |
 | This game has Diverse Characters | 94 |
+| This game has Amazing Characters | 92 |
 | This game has Quickly Understood Controls | 91 |
 | This game has Amazing Storytelling | 88 |
 | This game has Unique Visuals | 86 |
-| This game has Amazing Characters | 85 |
 | This game has a Creative Community | 81 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -155,4 +155,4 @@ Diff (max vs sum): -58
 | 2023-08-26 | 4.77 | 1,187 | 1,956 |
 | 2023-08-27 | 4.77 | 1,207 | 2,005 |
 | 2023-08-28 | 4.77 | 1,237 | 2,060 |
-| 2023-08-29 | 4.77 | 1,237 | 2,171 |
+| 2023-08-29 | 4.77 | 1,237 | 2,178 |

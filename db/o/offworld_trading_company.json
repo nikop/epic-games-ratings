@@ -4,7 +4,7 @@
   "ProductSlug": "offworld-trading-company",
   "Ranking_Rating": 800,
   "Ranking_Popularity": 418,
-  "Ranking_PopularitySum": 351,
+  "Ranking_PopularitySum": 350,
   "Ranking_EOS_Progress": 562,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 337,
@@ -682,10 +682,16 @@
       "Rating": 4.29,
       "NumberOfAwards": 269,
       "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2023-08-29T05:57:44.9870895+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 270,
+      "NumberOfAwardsMax": 44
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 269,
+  "NumberOfAwards": 270,
   "NumberOfAwardsMax": 44,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -717,7 +723,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 35
+      "Count": 36
     },
     {
       "Text": "This game is Extremely Fun",
@@ -749,8 +755,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:30.0277807+00:00",
-  "LastChanged": "2023-07-31T00:00:14.2060131+00:00",
+  "LastChanged": "2023-08-29T05:57:44.9870893+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:36.9381823+00:00",
-  "LastUpdate_Ratings": "2023-08-29T04:58:00.0233729+00:00",
-  "LastUpdate_Achievements": "2023-08-29T05:05:52.5455704+00:00"
+  "LastUpdate_Ratings": "2023-08-29T05:57:44.98709+00:00",
+  "LastUpdate_Achievements": "2023-08-29T06:04:44.8159369+00:00"
 }

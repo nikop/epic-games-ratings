@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1138,
+  "EOS_Progressed": 1139,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4001,6 +4001,11 @@
       "Time": "2023-08-29T01:46:26.5375618+00:00",
       "NumProgressed": 1138,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-29T06:04:28.162972+00:00",
+      "NumProgressed": 1139,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4018,9 +4023,9 @@
       "ID": "ach_defeat_aliens_50",
       "SetID": "bm61c2p",
       "Name": "Exterminator",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 68
     },
     {
       "ID": "ach_defeat_players_10",
@@ -4028,7 +4033,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ach_defeat_players_100",
@@ -4092,7 +4097,7 @@
       "Name": "Keeping Busy",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "objective_headquarters_15",
@@ -4116,7 +4121,7 @@
       "Name": "Facility Online",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -4188,7 +4193,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -4220,7 +4225,7 @@
       "Name": "Stocking Up",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -4252,7 +4257,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -4268,7 +4273,7 @@
       "Name": "Defenses Online",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -4315,14 +4320,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1138,
+      "Progressed": 1139,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-29T05:05:28.3965719+00:00",
+  "LastChanged_Achievements": "2023-08-29T06:04:28.1629716+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:58:05.1002416+00:00",
-  "LastUpdate_Ratings": "2023-08-29T05:00:00.0485099+00:00",
-  "LastUpdate_Achievements": "2023-08-29T05:05:28.3966383+00:00"
+  "LastUpdate_Ratings": "2023-08-29T05:59:04.3304986+00:00",
+  "LastUpdate_Achievements": "2023-08-29T06:04:28.1630181+00:00"
 }
