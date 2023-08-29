@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -6832,10 +6832,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 41723,
       "NumberOfAwardsMax": 22003
+    },
+    {
+      "Time": "2023-08-29T17:01:30.9999657+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 41725,
+      "NumberOfAwardsMax": 22003
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 41723,
+  "NumberOfAwards": 41725,
   "NumberOfAwardsMax": 22003,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6867,7 +6873,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 999
+      "Count": 1001
     },
     {
       "Text": "This game is Extremely Fun",
@@ -6912,9 +6918,9 @@
       "Count": 606
     }
   ],
-  "EOS_Progressed": 291042,
+  "EOS_Progressed": 291044,
   "EOS_Completed": 456,
-  "EOS_NewPlayers": 432,
+  "EOS_NewPlayers": 431,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -21012,6 +21018,11 @@
       "Time": "2023-08-29T16:04:06.1238951+00:00",
       "NumProgressed": 291042,
       "NumCompleted": 456
+    },
+    {
+      "Time": "2023-08-29T17:04:51.9536231+00:00",
+      "NumProgressed": 291044,
+      "NumCompleted": 456
     }
   ],
   "TotalAchievements": 45,
@@ -21023,7 +21034,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 37835
+      "UsersEstimate": 37836
     },
     {
       "ID": "PFA_10",
@@ -21247,7 +21258,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23283
+      "UsersEstimate": 23284
     },
     {
       "ID": "PFA_36",
@@ -21327,7 +21338,7 @@
       "Name": "The Spell Master",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23283
+      "UsersEstimate": 23284
     },
     {
       "ID": "PFA_45",
@@ -21375,23 +21386,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23283
+      "UsersEstimate": 23284
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 291042,
+      "Progressed": 291044,
       "Completed": 456
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-08-29T15:00:50.9824744+00:00",
-  "LastChanged_Achievements": "2023-08-29T16:04:06.1238947+00:00",
+  "LastChanged": "2023-08-29T17:01:30.9999656+00:00",
+  "LastChanged_Achievements": "2023-08-29T17:04:51.9536227+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:27.4425386+00:00",
-  "LastUpdate_Ratings": "2023-08-29T16:00:05.4422519+00:00",
-  "LastUpdate_Achievements": "2023-08-29T16:04:06.1240149+00:00"
+  "LastUpdate_Ratings": "2023-08-29T17:01:30.9999661+00:00",
+  "LastUpdate_Achievements": "2023-08-29T17:04:51.9537745+00:00"
 }

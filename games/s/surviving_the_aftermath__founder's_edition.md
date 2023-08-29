@@ -6,16 +6,16 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 72.00% | ~6,235 |
-| Leader | 60.00% | ~5,196 |
+| First Step | 72.00% | ~6,236 |
+| Leader | 60.00% | ~5,197 |
 | Explorer | 53.00% | ~4,590 |
-| Healer | 52.00% | ~4,503 |
-| Aspiring Inventor | 44.00% | ~3,810 |
+| Healer | 52.00% | ~4,504 |
+| Aspiring Inventor | 44.00% | ~3,811 |
 | Adventurer | 41.00% | ~3,551 |
 | Famous Healer | 38.00% | ~3,291 |
 | Local Leader | 35.00% | ~3,031 |
-| Famous Explorer | 34.00% | ~2,944 |
-| New Opportunities | 34.00% | ~2,944 |
+| Famous Explorer | 34.00% | ~2,945 |
+| New Opportunities | 34.00% | ~2,945 |
 | Energized | 33.00% | ~2,858 |
 | The Long Haul | 33.00% | ~2,858 |
 | The Great Healer | 31.00% | ~2,685 |
@@ -31,13 +31,13 @@ Number of Ratings: 836  (23.09.2022)
 | Ice Lakes | 22.00% | ~1,905 |
 | Real Survivor | 22.00% | ~1,905 |
 | Rocket Surgeon | 20.00% | ~1,732 |
-| War Never Changes | 19.00% | ~1,645 |
+| War Never Changes | 19.00% | ~1,646 |
 | Big Game Hunter | 17.00% | ~1,472 |
 | Spreading Influence | 17.00% | ~1,472 |
 | Friendly | 16.00% | ~1,386 |
 | Around the World | 16.00% | ~1,386 |
 | Bookworm | 15.00% | ~1,299 |
-| Famous Adventurer | 14.00% | ~1,212 |
+| Famous Adventurer | 14.00% | ~1,213 |
 | Prepared for Anything | 13.00% | ~1,126 |
 | Big Catastrofan | 13.00% | ~1,126 |
 | It's a Finnish Thing | 10.00% | ~866 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~17 |
 | Customized calamities | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,660 (Ranked 131)  
+Progressed: 8,661 (Ranked 131)  
 Completed: 0 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 0 (0.00%) (Ranked 266)
 | 2023-08-26 | 8,570 | 0 |
 | 2023-08-27 | 8,610 | 0 |
 | 2023-08-28 | 8,641 | 0 |
-| 2023-08-29 | 8,660 | 0 |
+| 2023-08-29 | 8,661 | 0 |
 ## Awards
 Max (Extremely Fun): 101  (Ranked 336)  
 Sum: 694 (Ranked 278)  

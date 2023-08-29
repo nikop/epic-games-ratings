@@ -26,11 +26,11 @@ Number of Ratings: 209  (23.09.2022)
 | Boomeraxe | 87.00% | ~1,929 |
 | Iron Pickaxe | 87.00% | ~1,929 |
 | Banking District | 86.00% | ~1,907 |
+| Mission Unlikely | 86.00% | ~1,907 |
 | Arrested | 85.00% | ~1,884 |
 | Zappy Gun | 85.00% | ~1,884 |
 | Got your own one now | 85.00% | ~1,884 |
 | Don't draw dicks pls | 85.00% | ~1,884 |
-| Mission Unlikely | 85.00% | ~1,884 |
 | Ripped | 84.00% | ~1,862 |
 | Beat the big arena | 83.00% | ~1,840 |
 | Force Cube | 82.00% | ~1,818 |
@@ -40,10 +40,10 @@ Number of Ratings: 209  (23.09.2022)
 | Inner Peace | 78.00% | ~1,729 |
 | Diamond Pickaxe | 77.00% | ~1,707 |
 | Killed them all | 77.00% | ~1,707 |
-| Trickle Down Economy | 76.00% | ~1,685 |
+| Trickle Down Economy | 77.00% | ~1,707 |
 | Win | 76.00% | ~1,685 |
 | Greenhouse | 72.00% | ~1,596 |
-| Played with fire | 70.00% | ~1,552 |
+| Played with fire | 71.00% | ~1,574 |
 | You feel very sorry | 70.00% | ~1,552 |
 | No Match for you | 65.00% | ~1,441 |
 | Bouncy | 62.00% | ~1,375 |

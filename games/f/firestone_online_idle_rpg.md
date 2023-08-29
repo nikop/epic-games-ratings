@@ -5,40 +5,40 @@ Rating: 4.04 (Ranked 932)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,734 |
-| World Map | 79.00% | ~1,473 |
-| Temple of Eternals | 57.00% | ~1,063 |
-| Prestigious | 53.00% | ~988 |
+| Victor | 93.00% | ~1,735 |
+| World Map | 79.00% | ~1,474 |
+| Temple of Eternals | 57.00% | ~1,064 |
+| Prestigious | 53.00% | ~989 |
 | Fellowship Power | 41.00% | ~765 |
 | Guild Power | 25.00% | ~466 |
-| Prestigious x10 | 22.00% | ~410 |
+| Prestigious x10 | 22.00% | ~411 |
 | The game is on | 20.00% | ~373 |
-| Exotic Merchant | 19.00% | ~354 |
+| Exotic Merchant | 19.00% | ~355 |
 | Dragon Clicker | 17.00% | ~317 |
 | Miner Clicker | 17.00% | ~317 |
-| Full Party | 16.00% | ~298 |
-| Inspection | 16.00% | ~298 |
+| Full Party | 16.00% | ~299 |
+| Inspection | 16.00% | ~299 |
 | Dragon Master | 15.00% | ~280 |
 | Enlightenment | 15.00% | ~280 |
 | Hero inspection | 15.00% | ~280 |
 | Lieutenant | 14.00% | ~261 |
 | Mysterious Rock | 14.00% | ~261 |
-| Milestone collector | 13.00% | ~242 |
-| Natural Talent | 13.00% | ~242 |
-| Superior | 13.00% | ~242 |
-| The Unstoppable | 13.00% | ~242 |
+| Milestone collector | 13.00% | ~243 |
+| Natural Talent | 13.00% | ~243 |
+| Superior | 13.00% | ~243 |
+| The Unstoppable | 13.00% | ~243 |
 | Scientist | 12.00% | ~224 |
+| Challenger | 11.00% | ~205 |
 | Doing My Part | 11.00% | ~205 |
 | Hunter | 11.00% | ~205 |
 | Mastery | 11.00% | ~205 |
 | Relic Of The Past | 11.00% | ~205 |
 | The power of Awakening | 11.00% | ~205 |
-| Challenger | 10.00% | ~186 |
-| Daily Quest Completionist | 10.00% | ~186 |
-| Four Leaf Clover | 10.00% | ~186 |
-| Frostfire Liberator | 10.00% | ~186 |
-| Moving Up The Ladder | 10.00% | ~186 |
-| Scroll Master | 10.00% | ~186 |
+| Daily Quest Completionist | 10.00% | ~187 |
+| Four Leaf Clover | 10.00% | ~187 |
+| Frostfire Liberator | 10.00% | ~187 |
+| Moving Up The Ladder | 10.00% | ~187 |
+| Scroll Master | 10.00% | ~187 |
 | Here We Go Again | 9.00% | ~168 |
 | Master Enchanter | 9.00% | ~168 |
 | The father of Dragons | 9.00% | ~168 |
@@ -81,7 +81,7 @@ Rating: 4.04 (Ranked 932)
 | Silverwood liberator | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,865 (Ranked 174)  
+Progressed: 1,866 (Ranked 174)  
 Completed: 2 (0.11%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 2 (0.11%) (Ranked 211)
 | 2023-08-26 | 1,858 | 2 |
 | 2023-08-27 | 1,859 | 2 |
 | 2023-08-28 | 1,862 | 2 |
-| 2023-08-29 | 1,865 | 2 |
+| 2023-08-29 | 1,866 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,30 +6,30 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 91.00% | ~7,980 |
-| Photogenic | 88.00% | ~7,717 |
+| Let's Get This Party Started | 91.00% | ~7,981 |
+| Photogenic | 88.00% | ~7,718 |
 | Surge Gauntlet Jockey | 85.00% | ~7,454 |
-| Plug It In | 84.00% | ~7,366 |
-| Adventure Time | 80.00% | ~7,015 |
-| Playing With Power | 77.00% | ~6,752 |
+| Plug It In | 84.00% | ~7,367 |
+| Adventure Time | 80.00% | ~7,016 |
+| Playing With Power | 77.00% | ~6,753 |
 | Coup d'Etat | 59.00% | ~5,174 |
-| You're Fired | 57.00% | ~4,998 |
+| You're Fired | 57.00% | ~4,999 |
 | Get Furious | 56.00% | ~4,911 |
-| Gunplay And Cosplay | 55.00% | ~4,823 |
-| Hacks In Stacks | 55.00% | ~4,823 |
+| Gunplay And Cosplay | 55.00% | ~4,824 |
+| Hacks In Stacks | 55.00% | ~4,824 |
 | Meching Enemies | 49.00% | ~4,297 |
-| Ticket Toddler | 44.00% | ~3,858 |
+| Ticket Toddler | 44.00% | ~3,859 |
 | Booty Bashing | 40.00% | ~3,508 |
-| Field Medic | 38.00% | ~3,332 |
-| Here Comes a New Challenger | 38.00% | ~3,332 |
+| Field Medic | 38.00% | ~3,333 |
+| Here Comes a New Challenger | 38.00% | ~3,333 |
 | Rapid Response | 33.00% | ~2,894 |
-| The Full Monty | 31.00% | ~2,718 |
+| The Full Monty | 31.00% | ~2,719 |
 | Surge Ahead | 30.00% | ~2,631 |
-| Guardian Angel | 28.00% | ~2,455 |
+| Guardian Angel | 28.00% | ~2,456 |
 | Poppin Noggins | 25.00% | ~2,192 |
 | Clips and Crits | 20.00% | ~1,754 |
 | Grey Goo | 17.00% | ~1,491 |
-| Boss of Bosses | 15.00% | ~1,315 |
+| Boss of Bosses | 15.00% | ~1,316 |
 | The Final Blow | 14.00% | ~1,228 |
 | To Be Continued | 13.00% | ~1,140 |
 | Light My Fire | 12.00% | ~1,052 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~35 |
 | Pyrotechnical | 0.20% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,769 (Ranked 130)  
+Progressed: 8,770 (Ranked 130)  
 Completed: 0 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 0 (0.00%) (Ranked 266)
 | 2023-08-26 | 8,705 | 0 |
 | 2023-08-27 | 8,728 | 0 |
 | 2023-08-28 | 8,762 | 0 |
-| 2023-08-29 | 8,769 | 0 |
+| 2023-08-29 | 8,770 | 0 |
 ## Awards
 Max (Relaxing): 64  (Ranked 388)  
 Sum: 461 (Ranked 309)  

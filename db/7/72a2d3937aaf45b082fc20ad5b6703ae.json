@@ -2,9 +2,9 @@
   "ID": "72a2d3937aaf45b082fc20ad5b6703ae",
   "Name": "The Making of Karateka",
   "ProductSlug": "the-making-of-karateka-7d9a6c",
-  "Ranking_EOS_Progress": 519,
+  "Ranking_EOS_Progress": 498,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewPlayers": 295,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-08-29T16:00:00+00:00",
@@ -19,15 +19,20 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-08-22T02:19:45.9930118+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-29T17:07:15.2419711+00:00",
+      "NumProgressed": 2,
       "NumCompleted": 0
     }
   ],
@@ -47,7 +52,7 @@
       "ID": "deathbouncer",
       "SetID": "l4g2eh",
       "Name": "Deathbouncer",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -55,7 +60,7 @@
       "ID": "down_ship",
       "SetID": "l4g2eh",
       "Name": "Down With The Ship",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -135,7 +140,7 @@
       "ID": "one_down",
       "SetID": "l4g2eh",
       "Name": "One Down",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -143,7 +148,7 @@
       "ID": "original",
       "SetID": "l4g2eh",
       "Name": "The Original",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 80,
       "UsersEstimate": 1
     },
@@ -151,7 +156,7 @@
       "ID": "ran_trouble",
       "SetID": "l4g2eh",
       "Name": "Ran Into Trouble",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -175,7 +180,7 @@
       "ID": "sudden_death",
       "SetID": "l4g2eh",
       "Name": "Sudden Death",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -192,13 +197,13 @@
     {
       "ID": "l4g2eh",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 2,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-04T19:02:29.8301885+00:00",
-  "LastChanged_Achievements": "2023-08-29T16:05:50.2127626+00:00",
+  "LastChanged_Achievements": "2023-08-29T17:07:15.2419703+00:00",
   "LastUpdate_AppInfo": "2023-08-25T20:57:03.2915213+00:00",
-  "LastUpdate_Ratings": "2023-08-29T15:59:07.8522653+00:00",
-  "LastUpdate_Achievements": "2023-08-29T16:05:50.2127757+00:00"
+  "LastUpdate_Ratings": "2023-08-29T17:00:16.5432479+00:00",
+  "LastUpdate_Achievements": "2023-08-29T17:07:15.2419844+00:00"
 }

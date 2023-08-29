@@ -9,7 +9,7 @@ Rating: 4.68 (Ranked 239)
 | Dental maturity | 20.00% | ~129 |
 | Devil's in the details | 15.00% | ~97 |
 | Uprooting | 13.00% | ~84 |
-| Forbidden techniques | 12.00% | ~77 |
+| Forbidden techniques | 13.00% | ~84 |
 | Devoted | 10.00% | ~64 |
 | Slavic squatter | 9.00% | ~58 |
 | Gold rush | 8.00% | ~52 |
@@ -27,15 +27,15 @@ Rating: 4.68 (Ranked 239)
 | Specialist | 4.00% | ~26 |
 | Goal! | 3.00% | ~19 |
 | Both sides | 3.00% | ~19 |
+| Toxic | 3.00% | ~19 |
 | Witch's cookbook | 3.00% | ~19 |
+| Bad apple | 2.00% | ~13 |
 | Gnowlledgeable | 2.00% | ~13 |
 | Awards unwarded | 2.00% | ~13 |
 | Always worth a try | 2.00% | ~13 |
-| Toxic | 2.00% | ~13 |
 | Entangled | 2.00% | ~13 |
-| Bad apple | 1.00% | ~6 |
 | Loremaster | 1.00% | ~6 |
-| Mushrooming enthusiast | 0.50% | ~3 |
+| Mushrooming enthusiast | 0.60% | ~4 |
 | Apex predator | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 644 (Ranked 220)  

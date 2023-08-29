@@ -2,7 +2,7 @@
   "ID": "3348e3d8eae449ecbcf9fe354d4fe8a0",
   "Name": "Hotel Renovator",
   "ProductSlug": "hotel-renovator",
-  "Ranking_Rating": 562,
+  "Ranking_Rating": 563,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 204,
@@ -1497,9 +1497,9 @@
       "ID": "ACH_GHOST_BUSTED",
       "SetID": "7k95e4n",
       "Name": "No need to call anyone",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 376
+      "UsersEstimate": 386
     },
     {
       "ID": "ACH_GLORY_AND_SPLENDOR_FINISHED",
@@ -1658,8 +1658,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-08-10T10:58:10.9295179+00:00",
-  "LastChanged_Achievements": "2023-08-29T16:03:26.3585927+00:00",
+  "LastChanged_Achievements": "2023-08-29T17:03:36.6068054+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:15.9599009+00:00",
-  "LastUpdate_Ratings": "2023-08-29T15:59:52.9885882+00:00",
-  "LastUpdate_Achievements": "2023-08-29T16:03:26.3586153+00:00"
+  "LastUpdate_Ratings": "2023-08-29T17:01:13.0416097+00:00",
+  "LastUpdate_Achievements": "2023-08-29T17:03:36.6068505+00:00"
 }

@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 302,
+  "EOS_Progressed": 303,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1246,6 +1246,11 @@
       "Time": "2023-08-29T13:12:00.1444716+00:00",
       "NumProgressed": 302,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-29T17:09:05.0245884+00:00",
+      "NumProgressed": 303,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-19T08:04:21.5092334+00:00",
@@ -1370,7 +1375,7 @@
       "Name": "Tireless Explorer",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "treant_destroyer",
@@ -1409,14 +1414,14 @@
     {
       "ID": "5fi1i42",
       "IsBase": true,
-      "Progressed": 302,
+      "Progressed": 303,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-12T15:57:01.7070767+00:00",
   "FirstSeenAchievements": "2023-07-18T16:05:27.8243884+00:00",
-  "LastChanged_Achievements": "2023-08-29T16:07:09.0132921+00:00",
+  "LastChanged_Achievements": "2023-08-29T17:09:05.0245879+00:00",
   "LastUpdate_AppInfo": "2023-08-24T08:56:53.3187957+00:00",
-  "LastUpdate_Ratings": "2023-08-29T15:59:32.9950629+00:00",
-  "LastUpdate_Achievements": "2023-08-29T16:07:09.0133135+00:00"
+  "LastUpdate_Ratings": "2023-08-29T17:00:48.2498905+00:00",
+  "LastUpdate_Achievements": "2023-08-29T17:09:05.0246122+00:00"
 }

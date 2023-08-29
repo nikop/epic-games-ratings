@@ -7,7 +7,7 @@ Rating: 3.83 (Ranked 964)
 | ---- | ---------- | ----- |
 | Welcome to Moonbury | 98.00% | ~1,520 |
 | The First Step | 89.00% | ~1,380 |
-| Moonbury Traveller | 64.00% | ~993 |
+| Moonbury Traveller | 65.00% | ~1,008 |
 | Rookie Chemist | 63.00% | ~977 |
 | Great Doctor | 52.00% | ~807 |
 | Dog Whisperer | 49.00% | ~760 |

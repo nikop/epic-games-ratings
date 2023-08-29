@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Ship | 25.00% | ~1 |
-| Little ideas | 25.00% | ~1 |
+| The Ship | 20.00% | ~1 |
+| Little ideas | 20.00% | ~1 |
 | The Denouement | 0.00% | ~0 |
 | Well-travelled | 0.00% | ~0 |
 | Well-acquainted | 0.00% | ~0 |
@@ -51,10 +51,10 @@
 | The Secrets | 0.00% | ~0 |
 | The Investigation Starts Anew | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4 (Ranked 481)  
+Progressed: 5 (Ranked 475)  
 Completed: 0 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-08-28 | 1 | 0 |
-| 2023-08-29 | 4 | 0 |
+| 2023-08-29 | 5 | 0 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 61933,
+  "EOS_Progressed": 61935,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 629,
+  "EOS_NewPlayers": 626,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -12822,6 +12822,11 @@
       "Time": "2023-08-29T16:03:24.1725877+00:00",
       "NumProgressed": 61933,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-08-29T17:03:33.3543975+00:00",
+      "NumProgressed": 61935,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -12945,7 +12950,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6193
+      "UsersEstimate": 6194
     },
     {
       "ID": "16",
@@ -13001,7 +13006,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8051
+      "UsersEstimate": 8052
     },
     {
       "ID": "23",
@@ -13073,7 +13078,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 9909
+      "UsersEstimate": 9910
     },
     {
       "ID": "32",
@@ -13097,7 +13102,7 @@
       "Name": "Energized!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6193
+      "UsersEstimate": 6194
     },
     {
       "ID": "35",
@@ -13105,7 +13110,7 @@
       "Name": "Let There Be Light",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 19199
+      "UsersEstimate": 19200
     },
     {
       "ID": "36",
@@ -13153,7 +13158,7 @@
       "Name": "Finders Keepers",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 9909
+      "UsersEstimate": 9910
     },
     {
       "ID": "42",
@@ -13368,21 +13373,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 61933,
+      "Progressed": 61935,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 25401,
+      "Progressed": 25403,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-29T16:03:24.1725871+00:00",
+  "LastChanged_Achievements": "2023-08-29T17:03:33.354397+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:21.2068954+00:00",
-  "LastUpdate_Ratings": "2023-08-29T16:00:22.1890093+00:00",
-  "LastUpdate_Achievements": "2023-08-29T16:03:24.172725+00:00"
+  "LastUpdate_Ratings": "2023-08-29T17:01:50.3447279+00:00",
+  "LastUpdate_Achievements": "2023-08-29T17:03:33.3545412+00:00"
 }

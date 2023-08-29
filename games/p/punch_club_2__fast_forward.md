@@ -11,12 +11,12 @@
 | Your first job | 82.00% | ~229 |
 | Old movies enjoyer | 78.00% | ~218 |
 | Fitness professional | 77.00% | ~215 |
-| Depressed visitor | 76.00% | ~212 |
+| Depressed visitor | 77.00% | ~215 |
+| Employee of the week | 76.00% | ~212 |
 | Neurotrainer – power gainer! | 75.00% | ~209 |
-| Employee of the week | 75.00% | ~209 |
 | Your own amateur gym | 74.00% | ~206 |
 | First defeat | 74.00% | ~206 |
-| Run K, run! | 72.00% | ~201 |
+| Run K, run! | 73.00% | ~204 |
 | Fighting is cool | 68.00% | ~190 |
 | Hello, world! | 68.00% | ~190 |
 | No bullying more | 67.00% | ~187 |
@@ -28,35 +28,35 @@
 | Champion – starter pack | 59.00% | ~165 |
 | It's good to be alive | 59.00% | ~165 |
 | Own four walls | 59.00% | ~165 |
+| Fight for life | 58.00% | ~162 |
 | Little hacker | 58.00% | ~162 |
 | Handyman | 58.00% | ~162 |
 | Employee of the year | 58.00% | ~162 |
-| Fight for life | 57.00% | ~159 |
 | Intriguing candies | 56.00% | ~156 |
 | Legal courier | 54.00% | ~151 |
 | Extreme neuropower! | 53.00% | ~148 |
 | Escaped from a big trouble | 51.00% | ~142 |
 | Now you are worthy | 49.00% | ~137 |
-| Guiding on the right path | 46.00% | ~128 |
+| Guiding on the right path | 47.00% | ~131 |
 | Fight is life | 45.00% | ~126 |
 | Mysterious voice | 45.00% | ~126 |
 | No blades in the gym | 44.00% | ~123 |
-| Champion – no way back | 41.00% | ~114 |
+| Champion – no way back | 42.00% | ~117 |
 | Responsible approach | 41.00% | ~114 |
+| Underground dwellers | 40.00% | ~112 |
+| GYM professional | 39.00% | ~109 |
 | Poisoned fighter | 39.00% | ~109 |
-| Underground dwellers | 39.00% | ~109 |
 | Your own way | 39.00% | ~109 |
 | Mom got better | 38.00% | ~106 |
 | Deal with life | 38.00% | ~106 |
-| GYM professional | 38.00% | ~106 |
 | Get out of my apartment! | 38.00% | ~106 |
 | The die is cast | 38.00% | ~106 |
-| Seashell hunter | 36.00% | ~100 |
+| Seashell hunter | 37.00% | ~103 |
 | Gang wrangler | 35.00% | ~98 |
 | Problems of cyborgs | 34.00% | ~95 |
+| Undercover robot | 34.00% | ~95 |
 | Not little hacker | 33.00% | ~92 |
 | Absolute Champion! | 33.00% | ~92 |
-| Undercover robot | 33.00% | ~92 |
 | The lonesome road | 32.00% | ~89 |
 | Keep nature safe | 32.00% | ~89 |
 | Family comes first | 32.00% | ~89 |

@@ -2,9 +2,9 @@
   "ID": "f03926dee08f4c29b20d907c4cb5f9e4",
   "Name": "HORSE CLUB Adventures 2 - Hazelwood Stories",
   "ProductSlug": "horse-club-adventures-2-hazelwood-stories-b257d3",
-  "Ranking_EOS_Progress": 422,
+  "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewPlayers": 295,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-07-06T10:00:00+00:00",
@@ -160,9 +160,9 @@
       "ID": "ACH_04_NIGHT_BENEATH_STARS",
       "SetID": "9loam6m",
       "Name": "Night beneath the stars",
-      "Percentage": 35,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_05_HERDS_OF_HORSES",
@@ -424,9 +424,9 @@
       "ID": "ACH_37_UP_IN_THE_MOUNTAINS",
       "SetID": "9loam6m",
       "Name": "Up in the mountains",
-      "Percentage": 35,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_38_WELL_HIDDEN",
@@ -440,9 +440,9 @@
       "ID": "ACH_39_TENS_AT_THE_LAKE",
       "SetID": "9loam6m",
       "Name": "Tents at the lake",
-      "Percentage": 40,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_40_GLOBETROTTER",
@@ -479,8 +479,8 @@
   ],
   "FirstSeen": "2023-07-23T11:57:26.6885781+00:00",
   "FirstSeenAchievements": "2023-07-05T11:01:11.7064759+00:00",
-  "LastChanged_Achievements": "2023-08-29T16:03:15.1319761+00:00",
+  "LastChanged_Achievements": "2023-08-29T17:03:21.442203+00:00",
   "LastUpdate_AppInfo": "2023-08-23T17:57:11.6875205+00:00",
-  "LastUpdate_Ratings": "2023-08-29T15:59:37.0588431+00:00",
-  "LastUpdate_Achievements": "2023-08-29T16:03:15.1320153+00:00"
+  "LastUpdate_Ratings": "2023-08-29T17:00:52.7965745+00:00",
+  "LastUpdate_Achievements": "2023-08-29T17:03:21.4422997+00:00"
 }

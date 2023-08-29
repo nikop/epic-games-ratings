@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tough Decision | 93.00% | ~503 |
+| Tough Decision | 94.00% | ~509 |
 | Blast From The Past | 85.00% | ~460 |
 | Kamikaze | 65.00% | ~352 |
 | The Rebel And The Doctor | 59.00% | ~319 |
-| Beat It | 52.00% | ~281 |
+| Beat It | 53.00% | ~287 |
 | Free Champagne | 48.00% | ~260 |
 | Storage Hunter | 48.00% | ~260 |
 | Falling For You | 45.00% | ~243 |

@@ -55,30 +55,30 @@ Number of Ratings: 1,307  (23.09.2022)
 | Trade Caravan | 2.00% | ~273 |
 | The Great Mage | 2.00% | ~273 |
 | Poetic Leader | 2.00% | ~273 |
-| Regicide | 1.00% | ~136 |
-| Hanging Gardens in Babylon | 1.00% | ~136 |
-| Beloved | 1.00% | ~136 |
-| Drillmaster | 1.00% | ~136 |
-| Intercessor | 1.00% | ~136 |
-| Mighty | 1.00% | ~136 |
-| Valiant | 1.00% | ~136 |
-| Victorious | 1.00% | ~136 |
-| Legendary Cities | 1.00% | ~136 |
-| Just Difficulty | 1.00% | ~136 |
-| Artisans | 1.00% | ~136 |
-| Champions | 1.00% | ~136 |
-| Sages | 1.00% | ~136 |
-| Acropolis | 1.00% | ~136 |
-| Apadana | 1.00% | ~136 |
-| Colossus | 1.00% | ~136 |
-| Mausoleum | 1.00% | ~136 |
-| Musaeum | 1.00% | ~136 |
-| Learn to Play 2 | 1.00% | ~136 |
-| Greece | 1.00% | ~136 |
-| Egyptian Paganism | 1.00% | ~136 |
-| Building Wonders | 1.00% | ~136 |
-| Mythology | 1.00% | ~136 |
-| Points Victory | 1.00% | ~136 |
+| Regicide | 1.00% | ~137 |
+| Hanging Gardens in Babylon | 1.00% | ~137 |
+| Beloved | 1.00% | ~137 |
+| Drillmaster | 1.00% | ~137 |
+| Intercessor | 1.00% | ~137 |
+| Mighty | 1.00% | ~137 |
+| Valiant | 1.00% | ~137 |
+| Victorious | 1.00% | ~137 |
+| Legendary Cities | 1.00% | ~137 |
+| Just Difficulty | 1.00% | ~137 |
+| Artisans | 1.00% | ~137 |
+| Champions | 1.00% | ~137 |
+| Sages | 1.00% | ~137 |
+| Acropolis | 1.00% | ~137 |
+| Apadana | 1.00% | ~137 |
+| Colossus | 1.00% | ~137 |
+| Mausoleum | 1.00% | ~137 |
+| Musaeum | 1.00% | ~137 |
+| Learn to Play 2 | 1.00% | ~137 |
+| Greece | 1.00% | ~137 |
+| Egyptian Paganism | 1.00% | ~137 |
+| Building Wonders | 1.00% | ~137 |
+| Mythology | 1.00% | ~137 |
+| Points Victory | 1.00% | ~137 |
 | Conqueror | 0.90% | ~123 |
 | Lion | 0.90% | ~123 |
 | Patrons | 0.90% | ~123 |
@@ -104,6 +104,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Capable | 0.70% | ~96 |
 | Invincible | 0.70% | ~96 |
 | Ready | 0.70% | ~96 |
+| Riders | 0.70% | ~96 |
 | Church of the Holy Sepulchre | 0.70% | ~96 |
 | Assyrian Paganism | 0.70% | ~96 |
 | Industrial Progress | 0.70% | ~96 |
@@ -117,9 +118,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 0.70% | ~96 |
 | Bad Heir Day | 0.60% | ~82 |
 | Devout | 0.60% | ~82 |
+| Strong Difficulty | 0.60% | ~82 |
 | Hunters | 0.60% | ~82 |
 | Landowners | 0.60% | ~82 |
-| Riders | 0.60% | ~82 |
 | Adur Burzen-Mihr | 0.60% | ~82 |
 | Babylonia | 0.60% | ~82 |
 | Carthage | 0.60% | ~82 |
@@ -127,7 +128,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Cavalry | 0.60% | ~82 |
 | Ishtar Gate in Babylon | 0.50% | ~68 |
 | Old | 0.50% | ~68 |
-| Strong Difficulty | 0.50% | ~68 |
 | Clerics | 0.50% | ~68 |
 | Learn to Play 4 | 0.50% | ~68 |
 | Rome | 0.50% | ~68 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,650 (Ranked 120)  
+Progressed: 13,651 (Ranked 120)  
 Completed: 5 (0.04%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -434,7 +434,7 @@ Completed: 5 (0.04%) (Ranked 236)
 | 2023-08-26 | 13,590 | 5 |
 | 2023-08-27 | 13,616 | 5 |
 | 2023-08-28 | 13,635 | 5 |
-| 2023-08-29 | 13,650 | 5 |
+| 2023-08-29 | 13,651 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,799 (Ranked 207)  

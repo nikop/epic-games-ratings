@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 847,
+  "EOS_Progressed": 848,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -2060,6 +2060,11 @@
       "Time": "2023-08-28T08:07:19.8836079+00:00",
       "NumProgressed": 847,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-29T17:03:38.1088178+00:00",
+      "NumProgressed": 848,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -2079,7 +2084,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -2231,7 +2236,7 @@
       "Name": "Rail Rat",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "HexlockGift",
@@ -2311,7 +2316,7 @@
       "Name": "Time Flies",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ParryBoss",
@@ -2319,7 +2324,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ParryRepeated1",
@@ -2327,7 +2332,7 @@
       "Name": "No, Thanks!",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "PhaseDiveCounter",
@@ -2335,7 +2340,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -2367,7 +2372,7 @@
       "Name": "Honest Mistake",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ScrambotCompletion1",
@@ -2399,7 +2404,7 @@
       "Name": "Fast Learner",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "SpeedRun",
@@ -2455,7 +2460,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "WatcherFought",
@@ -2494,7 +2499,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 847,
+      "Progressed": 848,
       "Completed": 5
     }
   ],
@@ -2502,8 +2507,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-08-29T16:03:27.4193078+00:00",
+  "LastChanged_Achievements": "2023-08-29T17:03:38.1088173+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:03.8052712+00:00",
-  "LastUpdate_Ratings": "2023-08-29T15:58:19.5419474+00:00",
-  "LastUpdate_Achievements": "2023-08-29T16:03:27.4193683+00:00"
+  "LastUpdate_Ratings": "2023-08-29T16:59:11.1833946+00:00",
+  "LastUpdate_Achievements": "2023-08-29T17:03:38.1088832+00:00"
 }
