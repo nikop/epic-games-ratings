@@ -683,9 +683,9 @@
       "ID": "tough_decision",
       "SetID": "d4f4pll",
       "Name": "Tough Decision",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 50,
-      "UsersEstimate": 502
+      "UsersEstimate": 508
     }
   ],
   "AchievementSets": [
@@ -700,8 +700,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-08-29T01:48:41.3632716+00:00",
+  "LastChanged_Achievements": "2023-08-29T02:52:10.5374014+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:17.2748315+00:00",
-  "LastUpdate_Ratings": "2023-08-29T01:42:08.016701+00:00",
-  "LastUpdate_Achievements": "2023-08-29T01:48:41.3632971+00:00"
+  "LastUpdate_Ratings": "2023-08-29T02:45:20.8876232+00:00",
+  "LastUpdate_Achievements": "2023-08-29T02:52:10.5374297+00:00"
 }

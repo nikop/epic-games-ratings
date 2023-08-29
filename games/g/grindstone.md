@@ -10,7 +10,7 @@ Number of Ratings: 63  (23.09.2022)
 | The Journey Begins | 98.00% | ~5,048 |
 | Slaughterhouse 5 (200 times) | 78.00% | ~4,018 |
 | There is No Escape | 71.00% | ~3,657 |
-| Fun, Flirty, and Thirty | 62.00% | ~3,194 |
+| Fun, Flirty, and Thirty | 63.00% | ~3,245 |
 | Royal Flush | 62.00% | ~3,194 |
 | Timber! | 60.00% | ~3,091 |
 | Survive the Bombsequences | 59.00% | ~3,039 |

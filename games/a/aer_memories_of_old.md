@@ -1,22 +1,22 @@
 # AER Memories of Old
 [Store](https://store.epicgames.com/en-US/p/aer-memories-of-old)  
 [View Rawdata](../../db/a/aer_memories_of_old.json)  
-Rating: 4.45 (Ranked 634)  
+Rating: 4.46 (Ranked 622)  
 Number of Ratings: 170  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 76.00% | ~14,379 |
+| Light at the end of the tunnel | 76.00% | ~14,380 |
 | Mama? | 28.00% | ~5,298 |
 | People's Haven | 19.00% | ~3,595 |
-| Cartographer | 17.00% | ~3,216 |
+| Cartographer | 17.00% | ~3,217 |
 | Antlers of Stone | 15.00% | ~2,838 |
 | Knowledge for Power | 14.00% | ~2,649 |
 | Mausoleum of Ice | 14.00% | ~2,649 |
 | Gaze into the abyss | 13.00% | ~2,460 |
-| In the belly of the beast | 12.00% | ~2,270 |
-| Wings of Stone | 12.00% | ~2,270 |
-| Equilibrium | 12.00% | ~2,270 |
+| In the belly of the beast | 12.00% | ~2,271 |
+| Wings of Stone | 12.00% | ~2,271 |
+| Equilibrium | 12.00% | ~2,271 |
 | Condor condo | 10.00% | ~1,892 |
 | Memorial | 9.00% | ~1,703 |
 | An uninvited guest | 8.00% | ~1,514 |
@@ -27,7 +27,7 @@ Number of Ratings: 170  (23.09.2022)
 | Written in stone | 6.00% | ~1,135 |
 | Hide and Seek | 5.00% | ~946 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,920 (Ranked 110)  
+Progressed: 18,921 (Ranked 110)  
 Completed: 379 (2.00%) (Ranked 92)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 379 (2.00%) (Ranked 92)
 | 2023-08-26 | 18,746 | 378 |
 | 2023-08-27 | 18,845 | 378 |
 | 2023-08-28 | 18,917 | 379 |
-| 2023-08-29 | 18,920 | 379 |
+| 2023-08-29 | 18,921 | 379 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -232,3 +232,4 @@ Completed: 379 (2.00%) (Ranked 92)
 | 2023-05-04 | 4.45 | - | 0 | 0 |
 | 2023-05-24 | 4.46 | - | 0 | 0 |
 | 2023-08-12 | 4.45 | - | 0 | 0 |
+| 2023-08-29 | 4.46 | - | 0 | 0 |

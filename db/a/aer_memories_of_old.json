@@ -2,12 +2,12 @@
   "ID": "f3720f53cccb4a20841a392a8ea0457f",
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
-  "Ranking_Rating": 634,
+  "Ranking_Rating": 622,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 92,
-  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewPlayers": 76,
   "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.45,
+  "Rating": 4.46,
   "NumberOfRatings": 170,
   "RatingHistory": [
     {
@@ -374,15 +374,21 @@
       "Rating": 4.45,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-08-29T02:43:58.1084627+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18920,
+  "EOS_Progressed": 18921,
   "EOS_Completed": 379,
-  "EOS_NewPlayers": 542,
+  "EOS_NewPlayers": 536,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 2,
   "EosHistory": [
@@ -14310,6 +14316,11 @@
       "Time": "2023-08-29T01:48:55.8514001+00:00",
       "NumProgressed": 18920,
       "NumCompleted": 379
+    },
+    {
+      "Time": "2023-08-29T02:52:24.824609+00:00",
+      "NumProgressed": 18921,
+      "NumCompleted": 379
     }
   ],
   "TotalAchievements": 20,
@@ -14321,7 +14332,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 3216
+      "UsersEstimate": 3217
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -14353,7 +14364,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2270
+      "UsersEstimate": 2271
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -14377,7 +14388,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2270
+      "UsersEstimate": 2271
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -14433,7 +14444,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2270
+      "UsersEstimate": 2271
     },
     {
       "ID": "INTRO_FINISHED",
@@ -14441,7 +14452,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 14379
+      "UsersEstimate": 14380
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -14480,15 +14491,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 18920,
+      "Progressed": 18921,
       "Completed": 379
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
-  "LastChanged": "2023-08-12T01:39:46.4098224+00:00",
-  "LastChanged_Achievements": "2023-08-29T01:48:55.8513995+00:00",
+  "LastChanged": "2023-08-29T02:43:58.1084625+00:00",
+  "LastChanged_Achievements": "2023-08-29T02:52:24.8246081+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:40.7243022+00:00",
-  "LastUpdate_Ratings": "2023-08-29T01:40:34.3136061+00:00",
-  "LastUpdate_Achievements": "2023-08-29T01:48:55.851494+00:00"
+  "LastUpdate_Ratings": "2023-08-29T02:43:58.1084634+00:00",
+  "LastUpdate_Achievements": "2023-08-29T02:52:24.8247141+00:00"
 }

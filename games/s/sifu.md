@@ -44,8 +44,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | A Touch of Acumen | 0.70% | ~155 |
 | Prodigal Child | 0.60% | ~4,277 |
 | Sword Stained With Blood | 0.60% | ~4,277 |
-| Martial Hub | 0.50% | ~110 |
-| Secure, Protect, Leave | 0.50% | ~110 |
+| Martial Hub | 0.50% | ~111 |
+| Secure, Protect, Leave | 0.50% | ~111 |
 | Drunken Fighter | 0.40% | ~2,851 |
 | Martial Artist | 0.40% | ~2,851 |
 | Knowledge Greed | 0.40% | ~2,851 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,426 |
 | Warriors from the Mountain | 0.10% | ~713 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,799 (Ranked 20)  
+Progressed: 712,800 (Ranked 20)  
 Completed: 12,876 (1.81%) (Ranked 98)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,14 +188,14 @@ Completed: 12,876 (1.81%) (Ranked 98)
 | 2023-08-26 | 712,729 | 12,874 |
 | 2023-08-27 | 712,763 | 12,874 |
 | 2023-08-28 | 712,797 | 12,876 |
-| 2023-08-29 | 712,799 | 12,876 |
+| 2023-08-29 | 712,800 | 12,876 |
 ## Awards
-Max (Great Boss Battles): 6,406  (Ranked 55)  
-Sum: 11,008 (Ranked 82)  
+Max (Great Boss Battles): 6,410  (Ranked 55)  
+Sum: 11,012 (Ranked 82)  
 Diff (max vs sum): -27  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,406 |
+| This game has Great Boss Battles | 6,410 |
 | This game has Diverse Characters | 575 |
 | This game has Challenging Combat | 545 |
 | This game has Quickly Understood Controls | 537 |
@@ -434,4 +434,4 @@ Diff (max vs sum): -27
 | 2023-08-26 | 4.82 | - | 6,402 | 10,992 |
 | 2023-08-27 | 4.82 | - | 6,402 | 11,001 |
 | 2023-08-28 | 4.82 | - | 6,406 | 11,006 |
-| 2023-08-29 | 4.82 | - | 6,406 | 11,008 |
+| 2023-08-29 | 4.82 | - | 6,410 | 11,012 |

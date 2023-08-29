@@ -396,7 +396,7 @@
       "Count": 79
     }
   ],
-  "EOS_Progressed": 243988,
+  "EOS_Progressed": 243990,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 973,
   "EOS_NewCompleters": 0,
@@ -14836,6 +14836,11 @@
       "Time": "2023-08-29T01:47:35.1656339+00:00",
       "NumProgressed": 243988,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-29T02:51:04.9515884+00:00",
+      "NumProgressed": 243990,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -15063,7 +15068,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 58557
+      "UsersEstimate": 58558
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -15079,7 +15084,7 @@
       "Name": "Good listener",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 12199
+      "UsersEstimate": 12200
     },
     {
       "ID": "ACH_LETSOTHERTHINKING",
@@ -15167,7 +15172,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 60997
+      "UsersEstimate": 60998
     },
     {
       "ID": "ACH_SOREAD",
@@ -15231,7 +15236,7 @@
       "Name": "Valedictorian",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 12199
+      "UsersEstimate": 12200
     },
     {
       "ID": "ACH_WAKEUP",
@@ -15262,7 +15267,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 243988,
+      "Progressed": 243990,
       "Completed": 7
     }
   ],
@@ -15270,8 +15275,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-08-15T07:59:00.2810594+00:00",
-  "LastChanged_Achievements": "2023-08-29T01:47:35.1656331+00:00",
+  "LastChanged_Achievements": "2023-08-29T02:51:04.9515878+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:40.3558824+00:00",
-  "LastUpdate_Ratings": "2023-08-29T01:43:01.0078759+00:00",
-  "LastUpdate_Achievements": "2023-08-29T01:47:35.1657716+00:00"
+  "LastUpdate_Ratings": "2023-08-29T02:46:07.1532887+00:00",
+  "LastUpdate_Achievements": "2023-08-29T02:51:04.9518258+00:00"
 }
