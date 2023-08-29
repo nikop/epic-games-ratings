@@ -26,7 +26,7 @@
 | 24 | [Borderlands 2](games/b/borderlands_2.md) | 15,158 | 4.76 | 118 |
 | 25 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,457 | 4.58 | 428 |
 | 26 | [Maneater](games/m/maneater.md) | 13,638 | 4.49 | 581 |
-| 27 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,619 | 4.60 | 391 |
+| 27 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,623 | 4.60 | 391 |
 | 28 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 13,417 | 4.60 | 391 |
 | 29 | [Killing Floor 2](games/k/killing_floor_2.md) | 12,693 | 4.42 | 676 |
 | 30 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,645 | 4.36 | 743 |
@@ -34,7 +34,7 @@
 | 32 | [NBA 2K21](games/n/nba_2k21.md) | 11,749 | 4.39 | 714 |
 | 33 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,376 | 4.69 | 217 |
 | 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 11,239 | 4.45 | 635 |
-| 35 | [Satisfactory](games/s/satisfactory.md) | 11,223 | 4.88 | 19 |
+| 35 | [Satisfactory](games/s/satisfactory.md) | 11,232 | 4.88 | 19 |
 | 36 | [SnowRunner](games/s/snowrunner.md) | 10,166 | 4.76 | 118 |
 | 37 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,901 | 4.61 | 367 |
 | 38 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,835 | 4.78 | 101 |
@@ -80,7 +80,7 @@
 | 78 | [God of War](games/g/god_of_war.md) | 4,225 | 4.88 | 19 |
 | 79 | [SMITE](games/s/smite.md) | 4,201 | 4.44 | 649 |
 | 80 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,116 | 4.51 | 546 |
-| 81 | [Days Gone](games/d/days_gone.md) | 3,920 | 4.68 | 238 |
+| 81 | [Days Gone](games/d/days_gone.md) | 3,921 | 4.68 | 238 |
 | 82 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,793 | 4.57 | 450 |
 | 83 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,741 | 4.28 | 809 |
 | 84 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 3,701 | 4.68 | 238 |
@@ -107,7 +107,7 @@
 | 105 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,244 | 4.67 | 256 |
 | 106 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,211 | 4.63 | 333 |
 | 107 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,199 | 4.41 | 687 |
-| 108 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,149 | 4.37 | 737 |
+| 108 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,149 | 4.37 | 736 |
 | 109 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 1,988 | 4.49 | 581 |
 | 110 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 1,911 | 4.66 | 278 |
 | 111 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 1,883 | 4.90 | 8 |
@@ -394,7 +394,7 @@
 | 391 | [Heavy Rain](games/h/heavy_rain.md) | 60 | 4.59 | 414 |
 | 393 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 59 | 4.57 | 450 |
 | 393 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 59 | 4.44 | 649 |
-| 395 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 55 | 4.37 | 737 |
+| 395 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 55 | 4.37 | 736 |
 | 396 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 54 | 4.65 | 300 |
 | 397 | [Obduction](games/o/obduction.md) | 53 | 4.10 | 910 |
 | 397 | [Ranch Simulator](games/r/ranch_simulator.md) | 53 | 4.45 | 635 |
@@ -459,7 +459,7 @@
 | 456 | [Chorus](games/c/chorus.md) | 32 | 4.46 | 622 |
 | 456 | [MythForce](games/m/mythforce.md) | 32 | 4.49 | 581 |
 | 456 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 32 | 4.67 | 256 |
-| 456 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 32 | 4.37 | 737 |
+| 456 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 32 | 4.37 | 736 |
 | 461 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 31 | 4.24 | 838 |
 | 462 | [Northgard](games/n/northgard.md) | 30 | 4.70 | 199 |
 | 462 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 30 | 4.57 | 450 |

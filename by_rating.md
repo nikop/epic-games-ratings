@@ -23,7 +23,7 @@
 | 19 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.88 | 0 | 514 |
 | 19 | [Ooblets](games/o/ooblets.md) | 4.88 | 1,021 | 143 |
 | 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 170,495 | 6 |
-| 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 11,223 | 35 |
+| 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 11,232 | 35 |
 | 19 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 495 |
 | 26 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 280 | 243 |
 | 26 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,433 | 126 |
@@ -242,7 +242,7 @@
 | 238 | [Bad North](games/b/bad_north.md) | 4.68 | 0 | 514 |
 | 238 | [BLACKTAIL](games/b/blacktail.md) | 4.68 | 0 | 514 |
 | 238 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,350 | 48 |
-| 238 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,920 | 81 |
+| 238 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,921 | 81 |
 | 238 | [DOOM II](games/d/doom_ii.md) | 4.68 | 26 | 476 |
 | 238 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,814 | 60 |
 | 238 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 3,701 | 84 |
@@ -401,7 +401,7 @@
 | 391 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 219 | 266 |
 | 391 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 75 | 371 |
 | 391 | [DOOM 3](games/d/doom_3.md) | 4.60 | 68 | 382 |
-| 391 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,619 | 27 |
+| 391 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,623 | 27 |
 | 391 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 121 | 318 |
 | 391 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.60 | 0 | 514 |
 | 391 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 642 | 176 |
@@ -732,16 +732,16 @@
 | 727 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 0 | 514 |
 | 727 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 575 | 185 |
 | 727 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 164 | 290 |
-| 727 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.38 | 0 | 514 |
 | 727 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.38 | 73 | 375 |
 | 727 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 514 |
 | 727 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.38 | 0 | 514 |
-| 737 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 0 | 514 |
-| 737 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,149 | 108 |
-| 737 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 514 |
-| 737 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.37 | 55 | 395 |
-| 737 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.37 | 0 | 514 |
-| 737 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 32 | 456 |
+| 736 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 0 | 514 |
+| 736 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,149 | 108 |
+| 736 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 514 |
+| 736 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.37 | 55 | 395 |
+| 736 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.37 | 0 | 514 |
+| 736 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.37 | 0 | 514 |
+| 736 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 32 | 456 |
 | 743 | [Core](games/c/core.md) | 4.36 | 747 | 164 |
 | 743 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 173 | 286 |
 | 743 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,645 | 30 |
