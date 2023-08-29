@@ -17,9 +17,9 @@
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 31,566 | 4.52 | 529 |
 | 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,814 | 4.64 | 313 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 21,990 | 4.77 | 109 |
-| 18 | [Dauntless](games/d/dauntless.md) | 21,534 | 4.53 | 516 |
+| 18 | [Dauntless](games/d/dauntless.md) | 21,550 | 4.53 | 516 |
 | 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 19,331 | 4.57 | 450 |
-| 20 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 18,490 | 4.26 | 825 |
+| 20 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 18,538 | 4.26 | 825 |
 | 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 17,882 | 4.89 | 13 |
 | 22 | [Warframe](games/w/warframe.md) | 16,691 | 4.61 | 367 |
 | 23 | [League of Legends](games/l/league_of_legends.md) | 15,584 | 4.21 | 855 |
@@ -41,7 +41,7 @@
 | 39 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 9,050 | 4.74 | 145 |
 | 40 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 8,916 | 4.58 | 428 |
 | 41 | [Control](games/c/control.md) | 8,467 | 4.60 | 391 |
-| 42 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 8,022 | 4.89 | 13 |
+| 42 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 8,034 | 4.89 | 13 |
 | 43 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 7,872 | 4.48 | 597 |
 | 44 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,797 | 4.85 | 42 |
 | 45 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,718 | 4.57 | 450 |
@@ -127,7 +127,7 @@
 | 125 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 1,444 | 4.78 | 101 |
 | 126 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,433 | 4.87 | 26 |
 | 127 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,420 | 4.53 | 516 |
-| 128 | [Conan Exiles](games/c/conan_exiles.md) | 1,402 | 4.54 | 501 |
+| 128 | [Conan Exiles](games/c/conan_exiles.md) | 1,403 | 4.54 | 501 |
 | 129 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,401 | 4.86 | 30 |
 | 130 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,317 | 4.70 | 199 |
 | 131 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,306 | 4.55 | 488 |
@@ -298,7 +298,7 @@
 | 296 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 153 | 4.55 | 488 |
 | 296 | [Predecessor](games/p/predecessor.md) | 153 | 4.43 | 664 |
 | 298 | [Star Stable Online](games/s/star_stable_online.md) | 152 | 4.43 | 664 |
-| 299 | [Blasphemous](games/b/blasphemous.md) | 149 | 4.86 | 30 |
+| 299 | [Blasphemous](games/b/blasphemous.md) | 150 | 4.86 | 30 |
 | 300 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 148 | 4.51 | 546 |
 | 301 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 147 | 4.77 | 109 |
 | 302 | [Night in the Woods](games/n/night_in_the_woods.md) | 145 | 4.72 | 172 |
@@ -485,15 +485,15 @@
 | 483 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 25 | 4.53 | 516 |
 | 483 | [Rayman Origins](games/r/rayman_origins.md) | 25 | 4.84 | 48 |
 | 483 | [Weird West: Definitive Edition](games/w/weird_west.md) | 25 | 4.44 | 649 |
+| 486 | [Black Book](games/b/black_book.md) | 24 | 4.72 | 172 |
 | 486 | [ELEX](games/e/elex.md) | 24 | 4.44 | 649 |
 | 486 | [RUINER](games/r/ruiner.md) | 24 | 4.53 | 516 |
 | 486 | [Solar Ash](games/s/solar_ash.md) | 24 | 4.65 | 300 |
 | 486 | [Star Atlas](games/s/star_atlas.md) | 24 | 4.84 | 48 |
 | 486 | [Yooka-Laylee](games/y/yooka-laylee.md) | 24 | 4.24 | 838 |
-| 491 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 23 | 4.60 | 391 |
-| 491 | [Black Book](games/b/black_book.md) | 23 | 4.72 | 172 |
-| 491 | [Fez](games/f/fez.md) | 23 | 4.72 | 172 |
-| 491 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 23 | 4.50 | 561 |
+| 492 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 23 | 4.60 | 391 |
+| 492 | [Fez](games/f/fez.md) | 23 | 4.72 | 172 |
+| 492 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 23 | 4.50 | 561 |
 | 495 | [Creature in the Well](games/c/creature_in_the_well.md) | 22 | 4.25 | 829 |
 | 495 | [Insurmountable](games/i/insurmountable.md) | 22 | 4.20 | 861 |
 | 495 | [Madden NFL 23](games/m/madden_nfl_23.md) | 22 | 4.31 | 787 |

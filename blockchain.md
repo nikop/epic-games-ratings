@@ -14,6 +14,7 @@
 | [The Machines Arena](games/t/the_machines_arena.md) | 2099-01-01 | - |  | 4.74 | 0 |
 | [Vivaion](games/5/53ac8f9e5d4d4f3db35bf66cc74b03e6.md) | 2099-01-01 | - |  | - | - |
 | [Wild West Undead](games/d/d36ba9bed7b64c1caeebf444586a679d.md) | 2099-01-01 | - |  | - | - |
+| [Crypto Mayhem](games/e/e1bc77a119a046a79877b1265b9537ee.md) | 2024-08-10 | - |  | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Elder's Grace - Rise of the Mobley](games/e/elder's_grace_-_rise_of_the_mobley.md) | 2024-03-31 | - |  | - | - |
 | [The Evolving Forest](games/6/6e80378d8a1444cf94e8221bee233464.md) | 2024-01-31 | - |  | - | - |
