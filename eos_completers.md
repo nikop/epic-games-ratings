@@ -14,7 +14,7 @@
 | 12 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 13 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 13 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
-| 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 19.71% |
+| 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 19.57% |
 | 16 | [Island Cities](games/i/island_cities.md) | 18.42% |
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
 | 18 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.46% |
@@ -35,7 +35,7 @@
 | 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.92% |
 | 34 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.89% |
 | 35 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.47% |
-| 36 | [Ravenlok](games/r/ravenlok.md) | 7.74% |
+| 36 | [Ravenlok](games/r/ravenlok.md) | 7.73% |
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
 | 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.02% |
 | 39 | [Scorn](games/s/scorn.md) | 7.01% |
@@ -76,7 +76,7 @@
 | 74 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.01% |
 | 75 | [Monster Harvest](games/m/monster_harvest.md) | 2.93% |
 | 75 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 77 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.92% |
+| 77 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.91% |
 | 78 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.80% |
 | 79 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.74% |
 | 80 | [Destiny 2](games/d/destiny_2.md) | 2.73% |
@@ -93,7 +93,7 @@
 | 91 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
 | 92 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.00% |
 | 93 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
-| 94 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 1.91% |
+| 94 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 1.90% |
 | 95 | [Night Book](games/n/night_book.md) | 1.86% |
 | 96 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
 | 97 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
@@ -113,7 +113,7 @@
 | 111 | [Late Shift](games/l/late_shift.md) | 1.27% |
 | 112 | [Infindustry](games/i/infindustry.md) | 1.23% |
 | 113 | [Chorus](games/c/chorus.md) | 1.13% |
-| 113 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 1.13% |
+| 114 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 1.12% |
 | 115 | [Trifox](games/t/trifox.md) | 1.10% |
 | 116 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.06% |
 | 117 | [A Musical Story](games/a/a_musical_story.md) | 1.05% |
@@ -121,8 +121,8 @@
 | 119 | [Adios](games/a/adios.md) | 1.02% |
 | 120 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.01% |
 | 121 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.99% |
+| 121 | [Sable](games/s/sable.md) | 0.99% |
 | 121 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.99% |
-| 123 | [Sable](games/s/sable.md) | 0.98% |
 | 124 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.95% |
 | 125 | [Hades](games/h/hades.md) | 0.90% |
 | 126 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
