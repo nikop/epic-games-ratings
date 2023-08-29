@@ -469,7 +469,7 @@
 | 450 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.57 | 0 | 514 |
 | 450 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 3,799 | 82 |
 | 450 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.57 | 30 | 462 |
-| 450 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 19,331 | 19 |
+| 450 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 19,341 | 19 |
 | 450 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,764 | 116 |
 | 450 | [Travellers Rest](games/t/travellers_rest.md) | 4.57 | 0 | 514 |
 | 450 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.57 | 59 | 393 |
@@ -487,7 +487,7 @@
 | 474 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,797 | 114 |
 | 474 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.56 | 0 | 514 |
 | 474 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.56 | 0 | 514 |
-| 474 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 4,367 | 77 |
+| 474 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 4,372 | 77 |
 | 489 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.55 | 0 | 514 |
 | 489 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.55 | 0 | 514 |
 | 489 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.55 | 1,306 | 131 |

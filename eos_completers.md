@@ -3,7 +3,7 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.65% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.31% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 37.66% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 36.71% |
 | 5 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 33.33% |
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.95% |
 | 7 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
@@ -14,10 +14,10 @@
 | 12 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 24.19% |
 | 13 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 13 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
-| 13 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 20.00% |
-| 16 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 19.57% |
-| 17 | [Island Cities](games/i/island_cities.md) | 18.42% |
-| 18 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
+| 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 19.57% |
+| 16 | [Island Cities](games/i/island_cities.md) | 18.42% |
+| 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
+| 18 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 16.67% |
 | 19 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.46% |
 | 20 | [Anna's Quest](games/a/anna's_quest.md) | 13.51% |
 | 21 | [Remains](games/r/remains.md) | 12.50% |
@@ -77,7 +77,7 @@
 | 75 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.01% |
 | 76 | [Monster Harvest](games/m/monster_harvest.md) | 2.93% |
 | 76 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 78 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.84% |
+| 78 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.83% |
 | 79 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.80% |
 | 80 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.74% |
 | 81 | [Destiny 2](games/d/destiny_2.md) | 2.73% |
@@ -162,9 +162,9 @@
 | 160 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 161 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.39% |
 | 161 | [Ghostrunner](games/g/ghostrunner.md) | 0.39% |
-| 163 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.38% |
-| 164 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.37% |
-| 164 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
+| 163 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.37% |
+| 163 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.37% |
+| 163 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 166 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.36% |
 | 166 | [Wildermyth](games/w/wildermyth.md) | 0.36% |
 | 168 | [The Surge](games/t/the_surge.md) | 0.35% |

@@ -10,7 +10,6 @@
 | [Drekirokr - Dusk of the Dragon](games/2/224a83ec37974ce4a4379572aced3f35.md) | 2023-08-31 | - |  | - | - |
 | [DuelVox](games/8/82e4236d80a44c9282d5b934a9271a59.md) | 2023-08-31 | - |  | - | - |
 | [Farlight 84 Epic](games/6/64543c9227724068970bd85bc4e73e9e.md) | 2023-08-31 | - |  | - | - |
-| [Geometric Sniper - Z](games/7/706577b22cbb4ab38611e2c97e03a800.md) | 2023-08-31 | 50 (1,000 XP) | 0 | - | - |
 | [Heist Force](games/a/a6bd7700389b4389ad7d4c344ea2ce81.md) | 2023-08-31 | - |  | - | - |
 | [Interceptor](games/i/interceptor.md) | 2023-08-31 | - |  | - | - |
 | [Night Run](games/c/c9340fb1d3984f4f8f5bbafaa0ea066d.md) | 2023-08-31 | - |  | - | - |
@@ -35,6 +34,7 @@
 | [SYNCED](games/s/synced.md) | 2023-09-08 | - |  | - | - |
 | [MechDefender](games/f/f02d6ce12fbc4230853a8b067e7e7278.md) | 2023-09-08 | - |  | - | - |
 | [Fae Farm Pre-Purchase](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 2023-09-08 | 35 (1,000 XP) | 19 | - | - |
+| [Geometric Sniper - Z](games/7/706577b22cbb4ab38611e2c97e03a800.md) | 2023-09-08 | 50 (1,000 XP) | 0 | - | - |
 | [Dirty Wars: September 11](games/a/a3df291e5482464898a00f1ed892605f.md) | 2023-09-11 | - |  | - | - |
 | [Paw Paw Destiny](games/p/paw_paw_destiny.md) | 2023-09-11 | - |  | - | - |
 | [Eternights](games/e/eternights.md) | 2023-09-12 | - |  | - | - |
@@ -217,7 +217,7 @@
 | [Elder's Grace - Rise of the Mobley](games/e/elder's_grace_-_rise_of_the_mobley.md) | 2024-03-31 | - |  | - | - |
 | [Gridiron](games/d/d23b008fda0444588998e65e0de39871.md) | 2024-03-31 | - |  | - | - |
 | [TACTICAL BANDITS](games/6/66ad2c3335b34b64ac28f438287766fc.md) | 2024-03-31 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 1,771 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 1,772 | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |
 | [Xenion](games/0/04758c0780e24a16b433fa56456790d9.md) | 2024-06-30 | - |  | - | - |
@@ -457,7 +457,6 @@
 | [ZUBASH](games/d/d4d23beda95c4823bb8e187260ba340c.md) | 2099-01-01 | - |  | - | - |
 | [The Wolf Among Us 2](games/t/the_wolf_among_us_2.md) | 2099-01-01 | - |  | - | - |
 | [Binary Smoke](games/b/binary_smoke.md) | 2099-01-02 | - |  | - | - |
-| [Eiyuden Chronicle: Hundred Heroes](games/e/eiyuden_chronicle__hundred_heroes.md) | 2099-01-02 | - |  | - | - |
 | [Escape The Loop](games/e/escape_the_loop.md) | 2099-01-02 | - |  | - | - |
 | [Esse Proxy](games/e/esse_proxy.md) | 2099-01-02 | - |  | - | - |
 | [Exotic Cars VI](games/e/exotic_cars_vi.md) | 2099-01-02 | - |  | - | - |
@@ -494,6 +493,7 @@
 | [Under The Waves](games/u/under_the_waves.md) | 2099-02-01 | - |  | - | - |
 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 2099-03-09 | - |  | - | - |
 | [Blazing Sails](games/b/blazing_sails.md) | 2099-04-06 | - |  | - | - |
+| [Eiyuden Chronicle: Hundred Heroes](games/e/eiyuden_chronicle__hundred_heroes.md) | 2099-04-23 | - |  | - | - |
 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2099-06-08 | - |  | 4.10 | 2,504 |
 | [Tower of Fantasy](games/t/tower_of_fantasy_1.md) | 2099-06-26 | - |  | - | - |
 | [Matchpoint - Tennis Championships](games/m/matchpoint_-_tennis_championships.md) | 2099-07-07 | - |  | - | 0 |

@@ -18,7 +18,7 @@
 | 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,818 | 4.64 | 314 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 22,003 | 4.77 | 109 |
 | 18 | [Dauntless](games/d/dauntless.md) | 21,550 | 4.53 | 518 |
-| 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 19,331 | 4.57 | 450 |
+| 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 19,341 | 4.57 | 450 |
 | 20 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 18,538 | 4.26 | 826 |
 | 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 17,903 | 4.89 | 13 |
 | 22 | [Warframe](games/w/warframe.md) | 16,711 | 4.61 | 368 |
@@ -76,7 +76,7 @@
 | 74 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,507 | 4.70 | 199 |
 | 75 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4,437 | 4.76 | 117 |
 | 76 | [Bloons TD 6](games/b/bloons_td_6.md) | 4,398 | 4.77 | 109 |
-| 77 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,367 | 4.56 | 474 |
+| 77 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,372 | 4.56 | 474 |
 | 78 | [God of War](games/g/god_of_war.md) | 4,225 | 4.88 | 19 |
 | 79 | [SMITE](games/s/smite.md) | 4,205 | 4.44 | 651 |
 | 80 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,116 | 4.51 | 547 |
