@@ -6,24 +6,24 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~68,322 |
-| Powergamer | 27.00% | ~65,882 |
-| Barely scratched the surface | 25.00% | ~61,002 |
-| Write that down | 24.00% | ~58,562 |
-| Guns, lots of guns | 12.00% | ~29,281 |
+| I will finish what you started | 28.00% | ~68,324 |
+| Powergamer | 27.00% | ~65,884 |
+| Barely scratched the surface | 25.00% | ~61,003 |
+| Write that down | 24.00% | ~58,563 |
+| Guns, lots of guns | 12.00% | ~29,282 |
 | Collector | 11.00% | ~26,841 |
 | Elementary! | 9.00% | ~21,961 |
 | Pumpkin Jack | 8.00% | ~19,521 |
 | Wake up! | 8.00% | ~19,521 |
-| It's honest work | 7.00% | ~17,080 |
-| Griever | 7.00% | ~17,080 |
-| Me smart | 6.00% | ~14,640 |
-| Trash compactor | 6.00% | ~14,640 |
-| Good listener | 5.00% | ~12,200 |
-| Valedictorian | 5.00% | ~12,200 |
-| BOY! | 4.00% | ~9,760 |
-| Ka-ching! | 4.00% | ~9,760 |
-| So you like to read? | 4.00% | ~9,760 |
+| It's honest work | 7.00% | ~17,081 |
+| Griever | 7.00% | ~17,081 |
+| Me smart | 6.00% | ~14,641 |
+| Trash compactor | 6.00% | ~14,641 |
+| Good listener | 5.00% | ~12,201 |
+| Valedictorian | 5.00% | ~12,201 |
+| BOY! | 4.00% | ~9,761 |
+| Ka-ching! | 4.00% | ~9,761 |
+| So you like to read? | 4.00% | ~9,761 |
 | Hoarder | 3.00% | ~7,320 |
 | I like to sniff around | 3.00% | ~7,320 |
 | Mind reader | 3.00% | ~7,320 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~488 |
 | Memory 5 | 0.10% | ~244 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 244,007 (Ranked 48)  
+Progressed: 244,013 (Ranked 48)  
 Completed: 7 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 7 (0.00%) (Ranked 265)
 | 2023-08-26 | 243,688 | 7 |
 | 2023-08-27 | 243,850 | 7 |
 | 2023-08-28 | 243,979 | 7 |
-| 2023-08-29 | 244,007 | 7 |
+| 2023-08-29 | 244,013 | 7 |
 ## Awards
 Max (Character Customization): 79  (Ranked 363)  
 Sum: 79 (Ranked 428)  

@@ -565,9 +565,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 340398,
+  "EOS_Progressed": 340403,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1460,
+  "EOS_NewPlayers": 1458,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15065,6 +15065,11 @@
       "Time": "2023-08-29T09:04:45.5588347+00:00",
       "NumProgressed": 340398,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-29T10:05:18.5944728+00:00",
+      "NumProgressed": 340403,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -15284,7 +15289,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 156583
+      "UsersEstimate": 156585
     },
     {
       "ID": "ach028",
@@ -15715,7 +15720,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 340398,
+      "Progressed": 340403,
       "Completed": 7
     }
   ],
@@ -15723,8 +15728,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-08-28T15:01:59.5456398+00:00",
-  "LastChanged_Achievements": "2023-08-29T09:04:45.5588341+00:00",
+  "LastChanged_Achievements": "2023-08-29T10:05:18.5944721+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:37.3542744+00:00",
-  "LastUpdate_Ratings": "2023-08-29T09:00:57.8836542+00:00",
-  "LastUpdate_Achievements": "2023-08-29T09:04:45.5589678+00:00"
+  "LastUpdate_Ratings": "2023-08-29T10:02:20.0171877+00:00",
+  "LastUpdate_Achievements": "2023-08-29T10:05:18.5947709+00:00"
 }

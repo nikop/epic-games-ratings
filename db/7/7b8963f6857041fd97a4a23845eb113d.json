@@ -2,9 +2,9 @@
   "ID": "7b8963f6857041fd97a4a23845eb113d",
   "Name": "Daydream. Forgotten Sorrow",
   "ProductSlug": "daydream-forgotten-sorrow-6025c9",
-  "Ranking_EOS_Progress": 406,
+  "Ranking_EOS_Progress": 404,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-06-14T14:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 34,
+  "EOS_Progressed": 35,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -186,6 +186,11 @@
       "Time": "2023-08-29T05:08:37.024562+00:00",
       "NumProgressed": 34,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-29T10:08:48.5826188+00:00",
+      "NumProgressed": 35,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 14,
@@ -203,7 +208,7 @@
       "ID": "CH1_FIRST",
       "SetID": "6d348d1",
       "Name": "On a Journey!",
-      "Percentage": 74,
+      "Percentage": 71,
       "XP": 70,
       "UsersEstimate": 25
     },
@@ -227,7 +232,7 @@
       "ID": "CH2_PLANE",
       "SetID": "6d348d1",
       "Name": "Winds of Change",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 70,
       "UsersEstimate": 4
     },
@@ -251,7 +256,7 @@
       "ID": "CH3_FLOWER",
       "SetID": "6d348d1",
       "Name": "The Flower",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 70,
       "UsersEstimate": 8
     },
@@ -275,7 +280,7 @@
       "ID": "CH4_CLOAKROOM",
       "SetID": "6d348d1",
       "Name": "The Last Drawing",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 70,
       "UsersEstimate": 4
     },
@@ -308,14 +313,14 @@
     {
       "ID": "6d348d1",
       "IsBase": true,
-      "Progressed": 34,
+      "Progressed": 35,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T16:57:07.6621394+00:00",
   "FirstSeenAchievements": "2023-06-01T12:01:12.0964223+00:00",
-  "LastChanged_Achievements": "2023-08-29T09:07:07.4131614+00:00",
+  "LastChanged_Achievements": "2023-08-29T10:08:48.5826178+00:00",
   "LastUpdate_AppInfo": "2023-08-24T18:57:15.3993729+00:00",
-  "LastUpdate_Ratings": "2023-08-29T08:59:57.9645815+00:00",
-  "LastUpdate_Achievements": "2023-08-29T09:07:07.4131713+00:00"
+  "LastUpdate_Ratings": "2023-08-29T10:00:54.6506886+00:00",
+  "LastUpdate_Achievements": "2023-08-29T10:08:48.5826393+00:00"
 }

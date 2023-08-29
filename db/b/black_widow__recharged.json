@@ -152,7 +152,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17603,
+  "EOS_Progressed": 17604,
   "EOS_Completed": 52,
   "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 1,
@@ -10927,6 +10927,11 @@
       "Time": "2023-08-29T02:49:31.2442602+00:00",
       "NumProgressed": 17603,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-08-29T10:04:59.2242762+00:00",
+      "NumProgressed": 17604,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 14,
@@ -10938,7 +10943,7 @@
       "Name": "Across The Border",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 13906
+      "UsersEstimate": 13907
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -10978,7 +10983,7 @@
       "Name": "Everyone\u0027s Born to Die",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 2816
+      "UsersEstimate": 2817
     },
     {
       "ID": "ACH_HELLO_MY_OLD_FRIEND",
@@ -11010,7 +11015,7 @@
       "Name": "In My Own Time",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 2288
+      "UsersEstimate": 2289
     },
     {
       "ID": "ACH_LOOK_AT_ME_NOW",
@@ -11042,22 +11047,22 @@
       "Name": "Wild West Hero",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 2464
+      "UsersEstimate": 2465
     }
   ],
   "AchievementSets": [
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 17603,
+      "Progressed": 17604,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-08-16T03:57:34.8125865+00:00",
-  "LastChanged_Achievements": "2023-08-29T09:04:31.7056261+00:00",
+  "LastChanged_Achievements": "2023-08-29T10:04:59.2242751+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:59.8893769+00:00",
-  "LastUpdate_Ratings": "2023-08-29T08:59:23.983234+00:00",
-  "LastUpdate_Achievements": "2023-08-29T09:04:31.7056832+00:00"
+  "LastUpdate_Ratings": "2023-08-29T10:00:06.5428596+00:00",
+  "LastUpdate_Achievements": "2023-08-29T10:04:59.2244609+00:00"
 }

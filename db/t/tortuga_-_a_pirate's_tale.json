@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16141,
+  "EOS_Progressed": 16142,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4171,6 +4171,11 @@
       "Time": "2023-08-29T08:03:07.1654835+00:00",
       "NumProgressed": 16141,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-29T10:03:29.8221627+00:00",
+      "NumProgressed": 16142,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -4182,15 +4187,15 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 15334
+      "UsersEstimate": 15335
     },
     {
       "ID": "ACH001",
       "SetID": "6749a6l",
       "Name": "Personal Matter",
-      "Percentage": 87,
+      "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 14043
+      "UsersEstimate": 13882
     },
     {
       "ID": "ACH0010",
@@ -4222,7 +4227,7 @@
       "Name": "Make It Rain",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3712
+      "UsersEstimate": 3713
     },
     {
       "ID": "ACH0014",
@@ -4326,7 +4331,7 @@
       "Name": "Morally Flexible",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 968
+      "UsersEstimate": 969
     },
     {
       "ID": "ACH003",
@@ -4342,7 +4347,7 @@
       "Name": "No Half Measures",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 14204
+      "UsersEstimate": 14205
     },
     {
       "ID": "ACH005",
@@ -4389,7 +4394,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 16141,
+      "Progressed": 16142,
       "Completed": 0
     }
   ],
@@ -4397,8 +4402,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-08-03T01:53:52.0652569+00:00",
-  "LastChanged_Achievements": "2023-08-29T09:03:27.9262458+00:00",
+  "LastChanged_Achievements": "2023-08-29T10:03:29.8221617+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:07.707472+00:00",
-  "LastUpdate_Ratings": "2023-08-29T08:59:04.1178389+00:00",
-  "LastUpdate_Achievements": "2023-08-29T09:03:27.9262802+00:00"
+  "LastUpdate_Ratings": "2023-08-29T09:59:36.0795852+00:00",
+  "LastUpdate_Achievements": "2023-08-29T10:03:29.8223763+00:00"
 }

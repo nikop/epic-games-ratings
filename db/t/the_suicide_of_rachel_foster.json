@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1411,
+  "EOS_Progressed": 1412,
   "EOS_Completed": 68,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.82,
   "EosHistory": [
@@ -2293,6 +2293,11 @@
       "Time": "2023-08-28T19:04:46.8628829+00:00",
       "NumProgressed": 1411,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2023-08-29T10:05:44.4632711+00:00",
+      "NumProgressed": 1412,
+      "NumCompleted": 68
     }
   ],
   "TotalAchievements": 11,
@@ -2312,7 +2317,7 @@
       "Name": "Freeze to death",
       "Percentage": 57,
       "XP": 100,
-      "UsersEstimate": 804
+      "UsersEstimate": 805
     },
     {
       "ID": "ACH_Cacciavite",
@@ -2336,7 +2341,7 @@
       "Name": "Is she really dead?",
       "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "ACH_FineEV9",
@@ -2344,7 +2349,7 @@
       "Name": "Alone",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "ACH_FineGioco",
@@ -2360,7 +2365,7 @@
       "Name": "Pack Rat",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "ACH_PrimoContattoIrving",
@@ -2368,7 +2373,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1072
+      "UsersEstimate": 1073
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -2391,15 +2396,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1411,
+      "Progressed": 1412,
       "Completed": 68
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-08-04T14:01:27.152223+00:00",
-  "LastChanged_Achievements": "2023-08-29T09:05:03.7321098+00:00",
+  "LastChanged_Achievements": "2023-08-29T10:05:44.4632703+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:29.5048701+00:00",
-  "LastUpdate_Ratings": "2023-08-29T08:58:50.8321648+00:00",
-  "LastUpdate_Achievements": "2023-08-29T09:05:03.7321273+00:00"
+  "LastUpdate_Ratings": "2023-08-29T09:59:15.7459418+00:00",
+  "LastUpdate_Achievements": "2023-08-29T10:05:44.4633077+00:00"
 }

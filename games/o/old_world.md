@@ -101,19 +101,20 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legionary | 0.80% | ~109 |
 | Phalangite | 0.80% | ~109 |
 | Win a Single Player Game | 0.80% | ~109 |
-| Capable | 0.70% | ~95 |
-| Invincible | 0.70% | ~95 |
-| Ready | 0.70% | ~95 |
-| Church of the Holy Sepulchre | 0.70% | ~95 |
-| Assyrian Paganism | 0.70% | ~95 |
-| Industrial Progress | 0.70% | ~95 |
-| Military Prestige | 0.70% | ~95 |
-| Dualism | 0.70% | ~95 |
-| Revelation | 0.70% | ~95 |
-| Veneration | 0.70% | ~95 |
-| Cimmerian Archer | 0.70% | ~95 |
-| Ambition Victory | 0.70% | ~95 |
-| Double Victory | 0.70% | ~95 |
+| Capable | 0.70% | ~96 |
+| Invincible | 0.70% | ~96 |
+| Ready | 0.70% | ~96 |
+| Church of the Holy Sepulchre | 0.70% | ~96 |
+| Assyrian Paganism | 0.70% | ~96 |
+| Industrial Progress | 0.70% | ~96 |
+| Military Prestige | 0.70% | ~96 |
+| Dualism | 0.70% | ~96 |
+| Gnosticism | 0.70% | ~96 |
+| Revelation | 0.70% | ~96 |
+| Veneration | 0.70% | ~96 |
+| Cimmerian Archer | 0.70% | ~96 |
+| Ambition Victory | 0.70% | ~96 |
+| Double Victory | 0.70% | ~96 |
 | Bad Heir Day | 0.60% | ~82 |
 | Devout | 0.60% | ~82 |
 | Landowners | 0.60% | ~82 |
@@ -122,7 +123,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonia | 0.60% | ~82 |
 | Carthage | 0.60% | ~82 |
 | Enlightenment | 0.60% | ~82 |
-| Gnosticism | 0.60% | ~82 |
 | Ishtar Gate in Babylon | 0.50% | ~68 |
 | Old | 0.50% | ~68 |
 | Strong Difficulty | 0.50% | ~68 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,642 (Ranked 119)  
+Progressed: 13,643 (Ranked 119)  
 Completed: 5 (0.04%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -434,7 +434,7 @@ Completed: 5 (0.04%) (Ranked 235)
 | 2023-08-26 | 13,590 | 5 |
 | 2023-08-27 | 13,616 | 5 |
 | 2023-08-28 | 13,635 | 5 |
-| 2023-08-29 | 13,642 | 5 |
+| 2023-08-29 | 13,643 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,799 (Ranked 207)  

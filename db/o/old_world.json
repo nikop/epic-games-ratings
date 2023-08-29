@@ -1647,7 +1647,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13642,
+  "EOS_Progressed": 13643,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
@@ -10492,6 +10492,11 @@
       "Time": "2023-08-29T09:07:06.7480894+00:00",
       "NumProgressed": 13642,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-29T10:08:47.8357704+00:00",
+      "NumProgressed": 13643,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -10895,7 +10900,7 @@
       "Name": "Capable",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_CONQUEROR",
@@ -10999,7 +11004,7 @@
       "Name": "Invincible",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_JUST",
@@ -11103,7 +11108,7 @@
       "Name": "Ready",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_REBUILDER",
@@ -11879,7 +11884,7 @@
       "Name": "Church of the Holy Sepulchre",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_JUDAISM",
@@ -12303,7 +12308,7 @@
       "Name": "Assyrian Paganism",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_BABYLONIA",
@@ -12447,7 +12452,7 @@
       "Name": "Industrial Progress",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACHIEVEMENT_TECH_MILITARY_PRESTIGE",
@@ -12455,7 +12460,7 @@
       "Name": "Military Prestige",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_DUALISM",
@@ -12463,7 +12468,7 @@
       "Name": "Dualism",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_ENLIGHTENMENT",
@@ -12477,9 +12482,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_GNOSTICISM",
       "SetID": "7l38kb8",
       "Name": "Gnosticism",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 96
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_LEGALISM",
@@ -12511,7 +12516,7 @@
       "Name": "Revelation",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_VENERATION",
@@ -12519,7 +12524,7 @@
       "Name": "Veneration",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACHIEVEMENT_THE_WORD_OF_GOD",
@@ -12551,7 +12556,7 @@
       "Name": "Cimmerian Archer",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACHIEVEMENT_UNIT_HITTITE_CHARIOT",
@@ -12623,7 +12628,7 @@
       "Name": "Ambition Victory",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_CONQUEST",
@@ -12639,7 +12644,7 @@
       "Name": "Double Victory",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_NO_CHARACTERS",
@@ -12870,21 +12875,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13642,
+      "Progressed": 13643,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13642,
+      "Progressed": 13643,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-24T04:00:31.5764786+00:00",
-  "LastChanged_Achievements": "2023-08-29T09:07:06.7480889+00:00",
+  "LastChanged_Achievements": "2023-08-29T10:08:47.8357697+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:39.7773306+00:00",
-  "LastUpdate_Ratings": "2023-08-29T09:01:03.1852716+00:00",
-  "LastUpdate_Achievements": "2023-08-29T09:07:06.7488457+00:00"
+  "LastUpdate_Ratings": "2023-08-29T10:02:25.7946668+00:00",
+  "LastUpdate_Achievements": "2023-08-29T10:08:47.836762+00:00"
 }

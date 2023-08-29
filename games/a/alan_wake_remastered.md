@@ -22,30 +22,30 @@ Number of Ratings: 524  (23.09.2022)
 | Sound and Fury | 14.00% | ~8,668 |
 | Missed by a Mile | 14.00% | ~8,668 |
 | The Six-Gun Scribe | 13.00% | ~8,049 |
-| Heavy Metal | 12.00% | ~7,429 |
-| Iron Horse | 12.00% | ~7,429 |
-| Perchance to Dream | 12.00% | ~7,429 |
-| Collateral Carnage | 12.00% | ~7,429 |
-| Come One, Come All | 12.00% | ~7,429 |
-| Gatekeeper | 11.00% | ~6,810 |
-| It's Not Just a Typewriter Brand | 11.00% | ~6,810 |
-| Thunder and Lightning | 11.00% | ~6,810 |
-| Two For the Price of One | 11.00% | ~6,810 |
+| Heavy Metal | 12.00% | ~7,430 |
+| Iron Horse | 12.00% | ~7,430 |
+| Perchance to Dream | 12.00% | ~7,430 |
+| Collateral Carnage | 12.00% | ~7,430 |
+| Come One, Come All | 12.00% | ~7,430 |
+| Gatekeeper | 11.00% | ~6,811 |
+| It's Not Just a Typewriter Brand | 11.00% | ~6,811 |
+| Thunder and Lightning | 11.00% | ~6,811 |
+| Two For the Price of One | 11.00% | ~6,811 |
 | The Lady of the Light | 10.00% | ~6,191 |
 | Energized! | 10.00% | ~6,191 |
 | What Light Through Yonder Window | 9.00% | ~5,572 |
 | Right of Way | 9.00% | ~5,572 |
 | Tornado Wrangler | 8.00% | ~4,953 |
-| A Friend in Need | 8.00% | ~2,030 |
+| A Friend in Need | 8.00% | ~2,031 |
 | Departure | 7.00% | ~4,334 |
 | Drink 'Em Both Up | 6.00% | ~3,715 |
 | Hardboiled Writer | 6.00% | ~3,715 |
 | A Friend Indeed | 6.00% | ~1,523 |
 | Children of the Elder God | 5.00% | ~3,096 |
 | Ding! | 5.00% | ~1,269 |
-| Boob Tube | 4.00% | ~2,476 |
-| If It Flies, It Burns | 4.00% | ~2,476 |
-| KBF-FM | 4.00% | ~2,476 |
+| Boob Tube | 4.00% | ~2,477 |
+| If It Flies, It Burns | 4.00% | ~2,477 |
+| KBF-FM | 4.00% | ~2,477 |
 | Carny | 3.00% | ~1,857 |
 | Kill Your Darlings | 3.00% | ~761 |
 | Heartbreaker | 3.00% | ~761 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~62 |
 | No Punctuation | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,912 (Ranked 87)  
+Progressed: 61,914 (Ranked 87)  
 Completed: 65 (0.10%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 65 (0.10%) (Ranked 212)
 | 2023-08-26 | 61,726 | 65 |
 | 2023-08-27 | 61,821 | 65 |
 | 2023-08-28 | 61,891 | 65 |
-| 2023-08-29 | 61,912 | 65 |
+| 2023-08-29 | 61,914 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

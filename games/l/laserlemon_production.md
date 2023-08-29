@@ -4,11 +4,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Highly Sprung | 83.00% | ~5 |
+| Six's Song | 33.00% | ~2 |
+| The Lair | 33.00% | ~2 |
 | The Prison | 33.00% | ~2 |
 | Fun and Games Ahead | 17.00% | ~1 |
-| Six's Song | 17.00% | ~1 |
 | The Guest Area | 17.00% | ~1 |
-| The Lair | 17.00% | ~1 |
 | We'll Meet Again | 17.00% | ~1 |
 | Ashes in The Maw | 0.00% | ~0 |
 | Ashes to Ashes | 0.00% | ~0 |

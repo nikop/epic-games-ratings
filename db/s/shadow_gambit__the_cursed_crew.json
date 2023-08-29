@@ -4,7 +4,7 @@
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 537,
+  "EOS_Progressed": 538,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.3,
   "EosHistory": [
@@ -1156,6 +1156,11 @@
       "Time": "2023-08-29T09:05:09.2315825+00:00",
       "NumProgressed": 537,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-29T10:05:51.9872227+00:00",
+      "NumProgressed": 538,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1184,7 +1189,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1200,7 +1205,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -1208,7 +1213,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "_07_FinishAct3",
@@ -1375,14 +1380,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 537,
+      "Progressed": 538,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-29T09:05:09.231582+00:00",
+  "LastChanged_Achievements": "2023-08-29T10:05:51.987222+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:45.1302228+00:00",
-  "LastUpdate_Ratings": "2023-08-29T09:01:05.7080196+00:00",
-  "LastUpdate_Achievements": "2023-08-29T09:05:09.2316049+00:00"
+  "LastUpdate_Ratings": "2023-08-29T10:02:32.0076972+00:00",
+  "LastUpdate_Achievements": "2023-08-29T10:05:51.9872668+00:00"
 }

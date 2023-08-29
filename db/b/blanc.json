@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2579,
+  "EOS_Progressed": 2580,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -2863,6 +2863,11 @@
       "Time": "2023-08-29T09:06:08.5057479+00:00",
       "NumProgressed": 2579,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-08-29T10:07:14.9563956+00:00",
+      "NumProgressed": 2580,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -2898,7 +2903,7 @@
       "Name": "Helping the little ones",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "MOVE_ON",
@@ -2938,7 +2943,7 @@
       "Name": "Starting as a duo",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -2977,7 +2982,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2579,
+      "Progressed": 2580,
       "Completed": 6
     }
   ],
@@ -2985,8 +2990,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-08-29T09:06:08.5057474+00:00",
+  "LastChanged_Achievements": "2023-08-29T10:07:14.956395+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:49.6137294+00:00",
-  "LastUpdate_Ratings": "2023-08-29T08:58:10.5821384+00:00",
-  "LastUpdate_Achievements": "2023-08-29T09:06:08.5057705+00:00"
+  "LastUpdate_Ratings": "2023-08-29T09:58:19.3386886+00:00",
+  "LastUpdate_Achievements": "2023-08-29T10:07:14.956423+00:00"
 }
