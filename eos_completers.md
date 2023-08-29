@@ -32,7 +32,7 @@
 | 30 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
 | 31 | [Sonic Origins](games/s/sonic_origins.md) | 9.20% |
 | 32 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
-| 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.92% |
+| 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.91% |
 | 34 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.89% |
 | 35 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.47% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.73% |
@@ -110,10 +110,10 @@
 | 107 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.45% |
 | 109 | [Ten Dates](games/t/ten_dates.md) | 1.44% |
 | 110 | [Poosh XL](games/p/poosh_xl.md) | 1.40% |
-| 111 | [Late Shift](games/l/late_shift.md) | 1.27% |
-| 112 | [Infindustry](games/i/infindustry.md) | 1.23% |
-| 113 | [Chorus](games/c/chorus.md) | 1.13% |
-| 114 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 1.12% |
+| 111 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 1.30% |
+| 112 | [Late Shift](games/l/late_shift.md) | 1.27% |
+| 113 | [Infindustry](games/i/infindustry.md) | 1.23% |
+| 114 | [Chorus](games/c/chorus.md) | 1.13% |
 | 115 | [Trifox](games/t/trifox.md) | 1.10% |
 | 116 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.06% |
 | 117 | [A Musical Story](games/a/a_musical_story.md) | 1.05% |
@@ -381,6 +381,7 @@
 | 265 | [House In The Hollow](games/h/house_in_the_hollow.md) | 0.00% |
 | 265 | [Hunt the Night](games/h/hunt_the_night.md) | 0.00% |
 | 265 | [Hush Hush](games/5/56faf2396f304e6886e66c492ee22a0e.md) | 0.00% |
+| 265 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.00% |
 | 265 | [Imagine Earth](games/i/imagine_earth.md) | 0.00% |
 | 265 | [Indoor Kickball](games/i/indoor_kickball.md) | 0.00% |
 | 265 | [Influent](games/3/3d27fbb922a04299b8401e1b50c55619.md) | 0.00% |
