@@ -45,6 +45,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 1 | 2.00% | ~273 |
 | Christianity | 2.00% | ~273 |
 | Judaism | 2.00% | ~273 |
+| Manichaeism | 2.00% | ~273 |
 | Babylonian Paganism | 2.00% | ~273 |
 | Carthaginian Paganism | 2.00% | ~273 |
 | Greek Paganism | 2.00% | ~273 |
@@ -74,8 +75,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Musaeum | 1.00% | ~136 |
 | Learn to Play 2 | 1.00% | ~136 |
 | Greece | 1.00% | ~136 |
-| Manichaeism | 1.00% | ~136 |
 | Egyptian Paganism | 1.00% | ~136 |
+| Building Wonders | 1.00% | ~136 |
 | Mythology | 1.00% | ~136 |
 | Points Victory | 1.00% | ~136 |
 | Conqueror | 0.90% | ~123 |
@@ -85,8 +86,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon | 0.90% | ~123 |
 | Via Recta Souk | 0.90% | ~123 |
 | Persian Paganism | 0.90% | ~123 |
-| Building Wonders | 0.90% | ~123 |
 | Legalism | 0.90% | ~123 |
+| Phalangite | 0.90% | ~123 |
 | Subjugator | 0.80% | ~109 |
 | Good Difficulty | 0.80% | ~109 |
 | Statesmen | 0.80% | ~109 |
@@ -99,7 +100,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Economic Reform | 0.80% | ~109 |
 | Redemption | 0.80% | ~109 |
 | Legionary | 0.80% | ~109 |
-| Phalangite | 0.80% | ~109 |
 | Win a Single Player Game | 0.80% | ~109 |
 | Capable | 0.70% | ~96 |
 | Invincible | 0.70% | ~96 |
@@ -117,6 +117,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 0.70% | ~96 |
 | Bad Heir Day | 0.60% | ~82 |
 | Devout | 0.60% | ~82 |
+| Hunters | 0.60% | ~82 |
 | Landowners | 0.60% | ~82 |
 | Riders | 0.60% | ~82 |
 | Adur Burzen-Mihr | 0.60% | ~82 |
@@ -127,13 +128,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Old | 0.50% | ~68 |
 | Strong Difficulty | 0.50% | ~68 |
 | Clerics | 0.50% | ~68 |
-| Hunters | 0.50% | ~68 |
 | Learn to Play 4 | 0.50% | ~68 |
 | Rome | 0.50% | ~68 |
 | One True Faith | 0.50% | ~68 |
 | Hittite Paganism | 0.50% | ~68 |
 | Kushite Cavalry | 0.50% | ~68 |
 | Turreted Elephant | 0.50% | ~68 |
+| All Nations | 0.50% | ~68 |
 | No Undo | 0.50% | ~68 |
 | Carthage - Ox Hide | 0.40% | ~55 |
 | Peacemaker | 0.40% | ~55 |
@@ -142,7 +143,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egypt | 0.40% | ~55 |
 | Old World Order | 0.40% | ~55 |
 | Cataphract Archer | 0.40% | ~55 |
-| All Nations | 0.40% | ~55 |
 | Pilgrimage | 0.40% | ~55 |
 | Ancient | 0.30% | ~41 |
 | Glorious Difficulty | 0.30% | ~41 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,643 (Ranked 119)  
+Progressed: 13,645 (Ranked 119)  
 Completed: 5 (0.04%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -434,7 +434,7 @@ Completed: 5 (0.04%) (Ranked 235)
 | 2023-08-26 | 13,590 | 5 |
 | 2023-08-27 | 13,616 | 5 |
 | 2023-08-28 | 13,635 | 5 |
-| 2023-08-29 | 13,643 | 5 |
+| 2023-08-29 | 13,645 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,799 (Ranked 207)  

@@ -6,31 +6,31 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~255,667 |
-| Cavalier | 25.00% | ~199,740 |
+| Blacksmith's Son | 32.00% | ~255,668 |
+| Cavalier | 25.00% | ~199,741 |
 | Fatso | 23.00% | ~183,761 |
 | Awakening | 21.00% | ~167,782 |
-| Ranger | 20.00% | ~159,792 |
-| Scrooge | 20.00% | ~159,792 |
+| Ranger | 20.00% | ~159,793 |
+| Scrooge | 20.00% | ~159,793 |
 | Anorectic | 16.00% | ~127,834 |
 | Bookworm | 15.00% | ~119,844 |
 | Firestarter | 15.00% | ~119,844 |
 | Insomniac | 13.00% | ~103,865 |
-| Buddy | 12.00% | ~95,875 |
-| Thief | 12.00% | ~95,875 |
+| Buddy | 12.00% | ~95,876 |
+| Thief | 12.00% | ~95,876 |
 | Sinner | 11.00% | ~87,886 |
 | Traveller | 11.00% | ~87,886 |
 | Convict | 10.00% | ~79,896 |
-| Haggler | 9.00% | ~71,906 |
+| Haggler | 9.00% | ~71,907 |
 | McLovin | 7.00% | ~55,927 |
 | Runt | 7.00% | ~55,927 |
 | Casanova | 6.00% | ~47,938 |
 | Bad Trip | 5.00% | ~39,948 |
 | Monk | 5.00% | ~39,948 |
 | Serial Killer | 5.00% | ~39,948 |
-| Bastard | 4.00% | ~31,958 |
-| Hunter | 4.00% | ~31,958 |
-| Plague Doctor | 4.00% | ~31,958 |
+| Bastard | 4.00% | ~31,959 |
+| Hunter | 4.00% | ~31,959 |
+| Plague Doctor | 4.00% | ~31,959 |
 | Bard | 3.00% | ~23,969 |
 | Conqueror | 3.00% | ~23,969 |
 | Ginger in a Pickle | 3.00% | ~23,969 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~799 |
 | Wingman | 0.10% | ~799 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 798,960 (Ranked 16)  
+Progressed: 798,963 (Ranked 16)  
 Completed: 44 (0.01%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,10 +220,10 @@ Completed: 44 (0.01%) (Ranked 252)
 | 2023-08-26 | 798,622 | 44 |
 | 2023-08-27 | 798,785 | 44 |
 | 2023-08-28 | 798,912 | 44 |
-| 2023-08-29 | 798,960 | 44 |
+| 2023-08-29 | 798,963 | 44 |
 ## Awards
 Max (Character Customization): 7,411  (Ranked 47)  
-Sum: 27,592 (Ranked 46)  
+Sum: 27,594 (Ranked 46)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
@@ -231,7 +231,7 @@ Diff (max vs sum): 1
 | This game has Great Boss Battles | 5,454 |
 | This game has Challenging Combat | 1,729 |
 | This game has Amazing Storytelling | 1,685 |
-| This game has Diverse Characters | 1,674 |
+| This game has Diverse Characters | 1,676 |
 | This game is Extremely Fun | 1,659 |
 | This game is Highly Recommended | 1,649 |
 | This game has Amazing Characters | 1,630 |
@@ -457,4 +457,4 @@ Diff (max vs sum): 1
 | 2023-08-26 | 4.71 | - | 7,403 | 27,569 |
 | 2023-08-27 | 4.71 | - | 7,408 | 27,580 |
 | 2023-08-28 | 4.71 | - | 7,411 | 27,591 |
-| 2023-08-29 | 4.71 | - | 7,411 | 27,592 |
+| 2023-08-29 | 4.71 | - | 7,411 | 27,594 |

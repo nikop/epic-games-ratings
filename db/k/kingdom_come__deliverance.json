@@ -6736,10 +6736,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 27592,
       "NumberOfAwardsMax": 7411
+    },
+    {
+      "Time": "2023-08-29T10:56:57.2612801+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 27594,
+      "NumberOfAwardsMax": 7411
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27592,
+  "NumberOfAwards": 27594,
   "NumberOfAwardsMax": 7411,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6771,7 +6777,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1674
+      "Count": 1676
     },
     {
       "Text": "This game has Challenging Combat",
@@ -6822,9 +6828,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 798960,
+  "EOS_Progressed": 798963,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 956,
+  "EOS_NewPlayers": 955,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -21242,6 +21248,11 @@
       "Time": "2023-08-29T10:03:12.0316862+00:00",
       "NumProgressed": 798960,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-08-29T11:02:19.1440044+00:00",
+      "NumProgressed": 798963,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 82,
@@ -21325,7 +21336,7 @@
       "Name": "Bastard",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 31958
+      "UsersEstimate": 31959
     },
     {
       "ID": "BlacksmithsSon",
@@ -21333,7 +21344,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 255667
+      "UsersEstimate": 255668
     },
     {
       "ID": "Bookworm",
@@ -21349,7 +21360,7 @@
       "Name": "Buddy",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 95875
+      "UsersEstimate": 95876
     },
     {
       "ID": "Casanova",
@@ -21365,7 +21376,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 199740
+      "UsersEstimate": 199741
     },
     {
       "ID": "Chivalrous",
@@ -21533,7 +21544,7 @@
       "Name": "Haggler",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 71906
+      "UsersEstimate": 71907
     },
     {
       "ID": "HardcoreHenry",
@@ -21549,7 +21560,7 @@
       "Name": "Hunter",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 31958
+      "UsersEstimate": 31959
     },
     {
       "ID": "ICanStop",
@@ -21725,7 +21736,7 @@
       "Name": "Plague Doctor",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 31958
+      "UsersEstimate": 31959
     },
     {
       "ID": "Ranger",
@@ -21733,7 +21744,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 159792
+      "UsersEstimate": 159793
     },
     {
       "ID": "RevenantOfLedechko",
@@ -21773,7 +21784,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 159792
+      "UsersEstimate": 159793
     },
     {
       "ID": "SerialKiller",
@@ -21829,7 +21840,7 @@
       "Name": "Thief",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 95875
+      "UsersEstimate": 95876
     },
     {
       "ID": "TisButAScratch",
@@ -21908,15 +21919,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 798960,
+      "Progressed": 798963,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-08-29T08:57:23.0890213+00:00",
-  "LastChanged_Achievements": "2023-08-29T10:03:12.0316853+00:00",
+  "LastChanged": "2023-08-29T10:56:57.26128+00:00",
+  "LastChanged_Achievements": "2023-08-29T11:02:19.1440039+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:19.3833724+00:00",
-  "LastUpdate_Ratings": "2023-08-29T09:57:14.8176287+00:00",
-  "LastUpdate_Achievements": "2023-08-29T10:03:12.0323093+00:00"
+  "LastUpdate_Ratings": "2023-08-29T10:56:57.2612806+00:00",
+  "LastUpdate_Achievements": "2023-08-29T11:02:19.1441692+00:00"
 }

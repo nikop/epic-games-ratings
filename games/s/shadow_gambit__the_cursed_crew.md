@@ -25,7 +25,7 @@
 | Privateer | 6.00% | ~32 |
 | Accursed Artifacts | 6.00% | ~32 |
 | Lyrical Longing | 6.00% | ~32 |
-| Corsair | 3.00% | ~16 |
+| Corsair | 4.00% | ~22 |
 | Freebooter | 3.00% | ~16 |
 | Marauder | 2.00% | ~11 |
 | Fully Decked | 2.00% | ~11 |

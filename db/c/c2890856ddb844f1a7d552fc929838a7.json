@@ -17,7 +17,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 536,
+  "EOS_Progressed": 537,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 534,
   "EOS_NewCompleters": 0,
@@ -567,6 +567,11 @@
       "Time": "2023-08-29T10:06:33.1841165+00:00",
       "NumProgressed": 536,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-29T11:05:23.363029+00:00",
+      "NumProgressed": 537,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -587,7 +592,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "AC02",
@@ -603,7 +608,7 @@
       "Name": "Blood and Gold",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "AC04",
@@ -659,15 +664,15 @@
       "Name": "The Wait is Over",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "AC11",
       "SetID": "l4abp0",
       "Name": "A Heart of Gold",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 75
+      "UsersEstimate": 81
     },
     {
       "ID": "AC12",
@@ -819,7 +824,7 @@
       "Name": "The Anointed One",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "AC31",
@@ -883,7 +888,7 @@
       "Name": "Edge of Orison",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "AC39",
@@ -946,14 +951,14 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 536,
+      "Progressed": 537,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-26T07:57:19.1818171+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
-  "LastChanged_Achievements": "2023-08-29T10:06:33.1841157+00:00",
+  "LastChanged_Achievements": "2023-08-29T11:05:23.3630286+00:00",
   "LastUpdate_AppInfo": "2023-08-22T18:57:00.5189311+00:00",
-  "LastUpdate_Ratings": "2023-08-29T10:00:24.0476196+00:00",
-  "LastUpdate_Achievements": "2023-08-29T10:06:33.1841891+00:00"
+  "LastUpdate_Ratings": "2023-08-29T10:59:02.4666464+00:00",
+  "LastUpdate_Achievements": "2023-08-29T11:05:23.3630706+00:00"
 }

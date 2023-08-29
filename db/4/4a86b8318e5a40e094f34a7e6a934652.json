@@ -44,33 +44,33 @@
       "ID": "ACQUAINTANCE_EARL",
       "SetID": "aniflfk",
       "Name": "Holy Macaroni!",
-      "Percentage": 67,
+      "Percentage": 100,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
       "SetID": "aniflfk",
       "Name": "Design Engineer",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BRING_MARY",
       "SetID": "aniflfk",
       "Name": "Retro Diva",
-      "Percentage": 67,
+      "Percentage": 100,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "BRING_PROSPERO",
       "SetID": "aniflfk",
       "Name": "Amusement Park",
-      "Percentage": 33,
+      "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "BUY_EVERYTHING_IN_ECOTOMAT",
@@ -84,9 +84,9 @@
       "ID": "CATCH_30_FISH",
       "SetID": "aniflfk",
       "Name": "Fisherman",
-      "Percentage": 33,
+      "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -100,9 +100,9 @@
       "ID": "GO_ON_EXPEDITION",
       "SetID": "aniflfk",
       "Name": "Off on an Expedition!",
-      "Percentage": 67,
+      "Percentage": 100,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -156,9 +156,9 @@
       "ID": "REMOVE_100_WEEDS",
       "SetID": "aniflfk",
       "Name": "Weed Warrior",
-      "Percentage": 33,
+      "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "REPAIR_BRIDGE",
@@ -172,17 +172,17 @@
       "ID": "SLEEP_50_HOURS",
       "SetID": "aniflfk",
       "Name": "Sleepyhead",
-      "Percentage": 33,
+      "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SPEND_2000_COINS",
       "SetID": "aniflfk",
       "Name": "Crypto Bro",
-      "Percentage": 33,
+      "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "TAKE_LEECH",
@@ -196,9 +196,9 @@
       "ID": "UPGRADE_SMART_TOWER",
       "SetID": "aniflfk",
       "Name": "Strong Signal",
-      "Percentage": 33,
+      "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
@@ -210,8 +210,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-08-29T10:07:02.0916083+00:00",
+  "LastChanged_Achievements": "2023-08-29T11:05:43.0871758+00:00",
   "LastUpdate_AppInfo": "2023-08-23T11:57:03.6281529+00:00",
-  "LastUpdate_Ratings": "2023-08-29T10:01:10.3791513+00:00",
-  "LastUpdate_Achievements": "2023-08-29T10:07:02.0916308+00:00"
+  "LastUpdate_Ratings": "2023-08-29T10:59:32.8998267+00:00",
+  "LastUpdate_Achievements": "2023-08-29T11:05:43.0871893+00:00"
 }

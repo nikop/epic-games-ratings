@@ -6,59 +6,59 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 72.00% | ~6,226 |
-| Leader | 60.00% | ~5,188 |
-| Explorer | 53.00% | ~4,583 |
-| Healer | 52.00% | ~4,496 |
-| Aspiring Inventor | 44.00% | ~3,805 |
-| Adventurer | 41.00% | ~3,545 |
-| Famous Healer | 38.00% | ~3,286 |
-| Local Leader | 35.00% | ~3,026 |
-| Famous Explorer | 34.00% | ~2,940 |
-| New Opportunities | 34.00% | ~2,940 |
-| Energized | 33.00% | ~2,854 |
-| The Long Haul | 33.00% | ~2,854 |
-| The Great Healer | 31.00% | ~2,681 |
-| Survivor | 31.00% | ~2,681 |
-| Legendary Explorer | 28.00% | ~2,421 |
-| Cleaner | 28.00% | ~2,421 |
-| Catastrofan | 28.00% | ~2,421 |
-| Finders, Keepers | 26.00% | ~2,248 |
-| Top Notch | 25.00% | ~2,162 |
-| Great Leader | 23.00% | ~1,989 |
-| Mentor | 23.00% | ~1,989 |
-| Merchant | 22.00% | ~1,902 |
-| Ice Lakes | 22.00% | ~1,902 |
-| Real Survivor | 22.00% | ~1,902 |
-| Rocket Surgeon | 20.00% | ~1,729 |
-| War Never Changes | 19.00% | ~1,643 |
-| Big Game Hunter | 17.00% | ~1,470 |
-| Spreading Influence | 17.00% | ~1,470 |
+| First Step | 72.00% | ~6,229 |
+| Leader | 60.00% | ~5,191 |
+| Explorer | 53.00% | ~4,585 |
+| Healer | 52.00% | ~4,499 |
+| Aspiring Inventor | 44.00% | ~3,806 |
+| Adventurer | 41.00% | ~3,547 |
+| Famous Healer | 38.00% | ~3,287 |
+| Local Leader | 35.00% | ~3,028 |
+| Famous Explorer | 34.00% | ~2,941 |
+| New Opportunities | 34.00% | ~2,941 |
+| Energized | 33.00% | ~2,855 |
+| The Long Haul | 33.00% | ~2,855 |
+| The Great Healer | 31.00% | ~2,682 |
+| Survivor | 31.00% | ~2,682 |
+| Legendary Explorer | 28.00% | ~2,422 |
+| Cleaner | 28.00% | ~2,422 |
+| Catastrofan | 28.00% | ~2,422 |
+| Finders, Keepers | 26.00% | ~2,249 |
+| Top Notch | 25.00% | ~2,163 |
+| Great Leader | 23.00% | ~1,990 |
+| Mentor | 23.00% | ~1,990 |
+| Merchant | 22.00% | ~1,903 |
+| Ice Lakes | 22.00% | ~1,903 |
+| Real Survivor | 22.00% | ~1,903 |
+| Rocket Surgeon | 20.00% | ~1,730 |
+| War Never Changes | 19.00% | ~1,644 |
+| Big Game Hunter | 17.00% | ~1,471 |
+| Spreading Influence | 17.00% | ~1,471 |
 | Friendly | 16.00% | ~1,384 |
 | Around the World | 16.00% | ~1,384 |
-| Bookworm | 15.00% | ~1,297 |
+| Bookworm | 15.00% | ~1,298 |
 | Famous Adventurer | 14.00% | ~1,211 |
-| Prepared for Anything | 13.00% | ~1,124 |
-| Big Catastrofan | 13.00% | ~1,124 |
+| Prepared for Anything | 13.00% | ~1,125 |
+| Big Catastrofan | 13.00% | ~1,125 |
 | It's a Finnish Thing | 10.00% | ~865 |
-| Trader | 9.00% | ~778 |
-| Sky Burial | 9.00% | ~778 |
+| Trader | 9.00% | ~779 |
+| Sky Burial | 9.00% | ~779 |
 | Bread and Circuses | 8.00% | ~692 |
-| New Eden | 7.00% | ~605 |
-| Tailored to fit | 7.00% | ~605 |
+| New Eden | 7.00% | ~606 |
+| Tailored to fit | 7.00% | ~606 |
 | Really Friendly | 6.00% | ~519 |
 | Amped Up | 6.00% | ~519 |
-| Look, no Hands! | 5.00% | ~432 |
+| Look, no Hands! | 5.00% | ~433 |
 | Luxurious Living | 4.00% | ~346 |
-| Mogul | 3.00% | ~259 |
-| Ranch Hand | 3.00% | ~259 |
+| Mogul | 3.00% | ~260 |
+| Ranch Hand | 3.00% | ~260 |
 | Diplomat | 2.00% | ~173 |
 | Doomsday is canceled | 2.00% | ~173 |
 | Biggest Catastrofan | 2.00% | ~173 |
 | True Survivor | 2.00% | ~173 |
-| The Friendliest | 1.00% | ~86 |
-| Legendary Adventurer | 1.00% | ~86 |
-| A Closer Look | 1.00% | ~86 |
+| The Friendliest | 1.00% | ~87 |
+| Legendary Adventurer | 1.00% | ~87 |
+| A Closer Look | 1.00% | ~87 |
 | Slimy yet Satisfying | 0.90% | ~78 |
 | Feng Shui | 0.90% | ~78 |
 | Finnished | 0.40% | ~35 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~17 |
 | Customized calamities | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,647 (Ranked 131)  
+Progressed: 8,651 (Ranked 131)  
 Completed: 0 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 0 (0.00%) (Ranked 265)
 | 2023-08-26 | 8,570 | 0 |
 | 2023-08-27 | 8,610 | 0 |
 | 2023-08-28 | 8,641 | 0 |
-| 2023-08-29 | 8,647 | 0 |
+| 2023-08-29 | 8,651 | 0 |
 ## Awards
 Max (Extremely Fun): 101  (Ranked 336)  
 Sum: 694 (Ranked 278)  

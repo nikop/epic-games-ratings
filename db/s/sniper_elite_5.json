@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -488,9 +488,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3545,
+  "EOS_Progressed": 3546,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -6298,6 +6298,11 @@
       "Time": "2023-08-29T09:05:45.7582049+00:00",
       "NumProgressed": 3545,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-08-29T11:05:30.2632984+00:00",
+      "NumProgressed": 3546,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 71,
@@ -6317,7 +6322,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -6445,7 +6450,7 @@
       "Name": "Sharpshooter",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -6461,7 +6466,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -6557,7 +6562,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1277
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -6717,7 +6722,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -6876,13 +6881,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3496,
+      "Progressed": 3497,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3545,
+      "Progressed": 3546,
       "Completed": 10
     }
   ],
@@ -6890,8 +6895,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-08-28T15:59:25.8745105+00:00",
-  "LastChanged_Achievements": "2023-08-29T10:06:43.3192649+00:00",
+  "LastChanged_Achievements": "2023-08-29T11:05:30.263298+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:12.9306959+00:00",
-  "LastUpdate_Ratings": "2023-08-29T10:00:40.8411545+00:00",
-  "LastUpdate_Achievements": "2023-08-29T10:06:43.3194568+00:00"
+  "LastUpdate_Ratings": "2023-08-29T10:59:16.0439261+00:00",
+  "LastUpdate_Achievements": "2023-08-29T11:05:30.263405+00:00"
 }

@@ -6754,9 +6754,9 @@
       "ID": "THE_JOURNEY_ONWARDS",
       "SetID": "3cck1g6",
       "Name": "The Journey Onwards",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 962
+      "UsersEstimate": 1036
     },
     {
       "ID": "THING",
@@ -6779,8 +6779,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-08-26T01:39:24.8497831+00:00",
-  "LastChanged_Achievements": "2023-08-29T10:08:19.6976119+00:00",
+  "LastChanged_Achievements": "2023-08-29T11:06:30.9838522+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:38.3127322+00:00",
-  "LastUpdate_Ratings": "2023-08-29T10:02:21.4961694+00:00",
-  "LastUpdate_Achievements": "2023-08-29T10:08:19.6977035+00:00"
+  "LastUpdate_Ratings": "2023-08-29T11:00:16.216653+00:00",
+  "LastUpdate_Achievements": "2023-08-29T11:06:30.9839048+00:00"
 }

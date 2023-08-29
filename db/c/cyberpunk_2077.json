@@ -11073,18 +11073,24 @@
       "Rating": 4.62,
       "NumberOfAwards": 203066,
       "NumberOfAwardsMax": 76580
+    },
+    {
+      "Time": "2023-08-29T11:00:18.4533995+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 203175,
+      "NumberOfAwardsMax": 76663
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 203066,
-  "NumberOfAwardsMax": 76580,
+  "NumberOfAwards": 203175,
+  "NumberOfAwardsMax": 76663,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 76580
+      "Count": 76663
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -11102,7 +11108,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 8794
+      "Count": 8808
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -11144,7 +11150,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 8887
+      "Count": 8899
     },
     {
       "Text": "This game has a Creative Community",
@@ -11153,10 +11159,10 @@
       "Count": 5697
     }
   ],
-  "EOS_Progressed": 873391,
+  "EOS_Progressed": 873393,
   "EOS_Completed": 2036,
-  "EOS_NewPlayers": 1387,
-  "EOS_NewCompleters": 36,
+  "EOS_NewPlayers": 1381,
+  "EOS_NewCompleters": 35,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
@@ -25688,6 +25694,11 @@
       "Time": "2023-08-29T10:08:13.8008449+00:00",
       "NumProgressed": 873391,
       "NumCompleted": 2036
+    },
+    {
+      "Time": "2023-08-29T11:06:26.8356183+00:00",
+      "NumProgressed": 873393,
+      "NumCompleted": 2036
     }
   ],
   "TotalAchievements": 44,
@@ -25707,7 +25718,7 @@
       "Name": "To Bad Decisions!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 52403
+      "UsersEstimate": 52404
     },
     {
       "ID": "BushidoAndChill",
@@ -25715,7 +25726,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 148476
+      "UsersEstimate": 148477
     },
     {
       "ID": "Cyberjunkie",
@@ -25723,7 +25734,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 157210
+      "UsersEstimate": 157211
     },
     {
       "ID": "Denied",
@@ -25731,7 +25742,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 340622
+      "UsersEstimate": 340623
     },
     {
       "ID": "FollowingTheRiver",
@@ -25867,7 +25878,7 @@
       "Name": "Life of the Road",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 183412
+      "UsersEstimate": 183413
     },
     {
       "ID": "Roleplayer",
@@ -25875,7 +25886,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 253283
+      "UsersEstimate": 253284
     },
     {
       "ID": "Specialist",
@@ -25915,7 +25926,7 @@
       "Name": "The Fool",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 602640
+      "UsersEstimate": 602641
     },
     {
       "ID": "TheHermit",
@@ -25939,7 +25950,7 @@
       "Name": "The Lovers",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 305687
+      "UsersEstimate": 305688
     },
     {
       "ID": "TheStar",
@@ -25947,7 +25958,7 @@
       "Name": "The Star",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 61137
+      "UsersEstimate": 61138
     },
     {
       "ID": "TheSun",
@@ -25955,7 +25966,7 @@
       "Name": "The Sun",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 61137
+      "UsersEstimate": 61138
     },
     {
       "ID": "TheWheelOfFortune",
@@ -25971,7 +25982,7 @@
       "Name": "The World",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 157210
+      "UsersEstimate": 157211
     },
     {
       "ID": "ThisIsPacifica",
@@ -26050,21 +26061,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 873391,
+      "Progressed": 873393,
       "Completed": 2036
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 2014,
-      "Completed": 2014
+      "Progressed": 2016,
+      "Completed": 2016
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-08-29T08:00:41.3273637+00:00",
-  "LastChanged_Achievements": "2023-08-29T10:08:13.800844+00:00",
+  "LastChanged": "2023-08-29T11:00:18.4533992+00:00",
+  "LastChanged_Achievements": "2023-08-29T11:06:26.8356179+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:41.3483631+00:00",
-  "LastUpdate_Ratings": "2023-08-29T10:02:25.4104948+00:00",
-  "LastUpdate_Achievements": "2023-08-29T10:08:13.801072+00:00"
+  "LastUpdate_Ratings": "2023-08-29T11:00:18.4534002+00:00",
+  "LastUpdate_Achievements": "2023-08-29T11:06:26.835735+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewPlayers": 293,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-04-28T13:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 408,
+  "EOS_Progressed": 409,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -309,6 +309,11 @@
       "Time": "2023-08-23T18:03:11.9249829+00:00",
       "NumProgressed": 408,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-29T11:03:03.7657962+00:00",
+      "NumProgressed": 409,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -416,7 +421,7 @@
       "Name": "Bora",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "PlanetEdora",
@@ -472,15 +477,15 @@
       "Name": "Thera",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "PlanetTuto",
       "SetID": "c2k469b",
       "Name": "Tuto",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 249
+      "UsersEstimate": 245
     },
     {
       "ID": "PlanetUdionTorix",
@@ -511,7 +516,7 @@
     {
       "ID": "c2k469b",
       "IsBase": true,
-      "Progressed": 408,
+      "Progressed": 409,
       "Completed": 0
     }
   ],
@@ -519,8 +524,8 @@
   "FirstSeenRating": "2022-08-14T20:31:45.7096726+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:11.8112699+00:00",
   "LastChanged": "2023-03-31T05:58:11.9489163+00:00",
-  "LastChanged_Achievements": "2023-08-29T10:03:33.1164182+00:00",
+  "LastChanged_Achievements": "2023-08-29T11:03:03.7657958+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:43.7583284+00:00",
-  "LastUpdate_Ratings": "2023-08-29T09:58:12.5581768+00:00",
-  "LastUpdate_Achievements": "2023-08-29T10:03:33.1164469+00:00"
+  "LastUpdate_Ratings": "2023-08-29T10:57:37.9879284+00:00",
+  "LastUpdate_Achievements": "2023-08-29T11:03:03.7658147+00:00"
 }

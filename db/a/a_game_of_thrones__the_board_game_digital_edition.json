@@ -1269,7 +1269,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 22683,
+  "EOS_Progressed": 22685,
   "EOS_Completed": 48,
   "EOS_NewPlayers": 636,
   "EOS_NewCompleters": 2,
@@ -15269,6 +15269,11 @@
       "Time": "2023-08-29T10:05:57.5423433+00:00",
       "NumProgressed": 22683,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-08-29T11:04:58.6820582+00:00",
+      "NumProgressed": 22685,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 22,
@@ -15344,7 +15349,7 @@
       "Name": "What is Dead may Never Die",
       "Percentage": 3,
       "XP": 65,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "1024",
@@ -15376,7 +15381,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2041
+      "UsersEstimate": 2042
     },
     {
       "ID": "1028",
@@ -15416,7 +15421,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 9073
+      "UsersEstimate": 9074
     },
     {
       "ID": "1033",
@@ -15424,7 +15429,7 @@
       "Name": "The Swift",
       "Percentage": 3,
       "XP": 120,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "1034",
@@ -15455,15 +15460,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 22683,
+      "Progressed": 22685,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-08-02T00:02:09.7226533+00:00",
-  "LastChanged_Achievements": "2023-08-29T10:05:57.5423425+00:00",
+  "LastChanged_Achievements": "2023-08-29T11:04:58.6820576+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:58:01.0379826+00:00",
-  "LastUpdate_Ratings": "2023-08-29T10:00:07.593834+00:00",
-  "LastUpdate_Achievements": "2023-08-29T10:05:57.5425205+00:00"
+  "LastUpdate_Ratings": "2023-08-29T10:58:52.2812085+00:00",
+  "LastUpdate_Achievements": "2023-08-29T11:04:58.6821528+00:00"
 }

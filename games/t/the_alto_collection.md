@@ -6,13 +6,13 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 26.00% | ~9,692 |
-| Finding Your Footing | 26.00% | ~9,692 |
+| Rookie | 26.00% | ~9,693 |
+| Finding Your Footing | 26.00% | ~9,693 |
 | Nomad | 18.00% | ~6,710 |
-| Picking Up Speed | 16.00% | ~5,964 |
-| Welcome Maya | 15.00% | ~5,591 |
-| Scout | 11.00% | ~4,100 |
-| Sightseer | 11.00% | ~4,100 |
+| Picking Up Speed | 16.00% | ~5,965 |
+| Welcome Maya | 15.00% | ~5,592 |
+| Scout | 11.00% | ~4,101 |
+| Sightseer | 11.00% | ~4,101 |
 | Amateur | 9.00% | ~3,355 |
 | Unlock Maya | 8.00% | ~2,982 |
 | Enter Paz | 8.00% | ~2,982 |
@@ -35,7 +35,7 @@ Number of Ratings: 332  (23.09.2022)
 | Hoist the Mainsail | 1.00% | ~373 |
 | Introducing Sumara | 1.00% | ~373 |
 | Vandal | 1.00% | ~373 |
-| Daredevil | 0.90% | ~335 |
+| Daredevil | 0.90% | ~336 |
 | Unlock Felipe | 0.80% | ~298 |
 | Adventurer | 0.70% | ~261 |
 | Unlock Tupa | 0.50% | ~186 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~37 |
 | Windswept | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37,276 (Ranked 97)  
+Progressed: 37,280 (Ranked 97)  
 Completed: 5 (0.01%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,14 +177,14 @@ Completed: 5 (0.01%) (Ranked 252)
 | 2023-08-26 | 36,914 | 5 |
 | 2023-08-27 | 37,087 | 5 |
 | 2023-08-28 | 37,224 | 5 |
-| 2023-08-29 | 37,276 | 5 |
+| 2023-08-29 | 37,280 | 5 |
 ## Awards
-Max (Great for Quick Sessions): 46  (Ranked 410)  
-Sum: 359 (Ranked 329)  
-Diff (max vs sum): 81  
+Max (Great for Quick Sessions): 47  (Ranked 409)  
+Sum: 360 (Ranked 329)  
+Diff (max vs sum): 80  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Quick Sessions | 46 |
+| This game is Great for Quick Sessions | 47 |
 | This game is Great for Beginners | 44 |
 | This game is Highly Recommended | 42 |
 | This game has Beautiful Visuals | 38 |
@@ -296,3 +296,4 @@ Diff (max vs sum): 81
 | 2023-07-26 | 4.70 | - | 45 | 357 |
 | 2023-07-27 | 4.70 | - | 45 | 358 |
 | 2023-07-28 | 4.70 | - | 46 | 359 |
+| 2023-08-29 | 4.70 | - | 47 | 360 |
