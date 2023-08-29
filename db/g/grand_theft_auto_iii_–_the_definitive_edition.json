@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -442,9 +442,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7609,
+  "EOS_Progressed": 7610,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -7727,6 +7727,11 @@
       "Time": "2023-08-29T12:08:47.1369847+00:00",
       "NumProgressed": 7609,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-08-29T13:13:04.4107571+00:00",
+      "NumProgressed": 7610,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 29,
@@ -7738,7 +7743,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6315
+      "UsersEstimate": 6316
     },
     {
       "ID": "ACH02",
@@ -7762,7 +7767,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 2891
+      "UsersEstimate": 2892
     },
     {
       "ID": "ACH05",
@@ -7969,7 +7974,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7609,
+      "Progressed": 7610,
       "Completed": 48
     }
   ],
@@ -7977,8 +7982,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-08-24T22:01:07.1400968+00:00",
-  "LastChanged_Achievements": "2023-08-29T12:08:47.1369837+00:00",
+  "LastChanged_Achievements": "2023-08-29T13:13:04.4107567+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:30.0456476+00:00",
-  "LastUpdate_Ratings": "2023-08-29T12:01:55.5678398+00:00",
-  "LastUpdate_Achievements": "2023-08-29T12:08:47.1371151+00:00"
+  "LastUpdate_Ratings": "2023-08-29T13:05:42.9827239+00:00",
+  "LastUpdate_Achievements": "2023-08-29T13:13:04.4108085+00:00"
 }

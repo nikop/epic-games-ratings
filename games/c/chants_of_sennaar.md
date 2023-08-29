@@ -20,7 +20,7 @@
 | I did it | 13.00% | ~8 |
 | Fashion victim | 13.00% | ~8 |
 | Feels like springtime | 11.00% | ~7 |
-| In this together | 10.00% | ~6 |
+| In this together | 9.00% | ~6 |
 | Peace walker | 8.00% | ~5 |
 | Half the way | 8.00% | ~5 |
 | Open door | 8.00% | ~5 |
@@ -30,8 +30,8 @@
 | A Link to the Past | 6.00% | ~4 |
 | Alchemists Express | 6.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63 (Ranked 363)  
-Completed: 4 (6.35%) (Ranked 44)  
+Progressed: 64 (Ranked 363)  
+Completed: 4 (6.25%) (Ranked 45)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -73,3 +73,4 @@ Completed: 4 (6.35%) (Ranked 44)
 | 2023-08-25 | 61 | 4 |
 | 2023-08-27 | 62 | 4 |
 | 2023-08-28 | 63 | 4 |
+| 2023-08-29 | 64 | 4 |

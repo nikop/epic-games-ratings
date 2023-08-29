@@ -4,7 +4,7 @@
   "ProductSlug": "sonic-superstars",
   "Ranking_EOS_Progress": 563,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-10-17T04:00:00+00:00",
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-22T20:57:07.730157+00:00",
-  "LastUpdate_Ratings": "2023-08-29T11:58:30.3461522+00:00",
-  "LastUpdate_Achievements": "2023-08-29T12:03:13.5911761+00:00"
+  "LastUpdate_Ratings": "2023-08-29T13:03:17.677693+00:00",
+  "LastUpdate_Achievements": "2023-08-29T13:08:27.9092667+00:00"
 }

@@ -1,32 +1,32 @@
 # The Alto Collection
 [Store](https://store.epicgames.com/en-US/p/the-alto-collection)  
 [View Rawdata](../../db/t/the_alto_collection.json)  
-Rating: 4.70 (Ranked 199)  
+Rating: 4.70 (Ranked 198)  
 Number of Ratings: 332  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 26.00% | ~9,694 |
-| Finding Your Footing | 26.00% | ~9,694 |
-| Nomad | 18.00% | ~6,711 |
-| Picking Up Speed | 16.00% | ~5,965 |
-| Welcome Maya | 15.00% | ~5,592 |
-| Scout | 11.00% | ~4,101 |
-| Sightseer | 11.00% | ~4,101 |
-| Amateur | 9.00% | ~3,355 |
+| Rookie | 26.00% | ~9,696 |
+| Finding Your Footing | 26.00% | ~9,696 |
+| Nomad | 18.00% | ~6,712 |
+| Picking Up Speed | 16.00% | ~5,967 |
+| Welcome Maya | 15.00% | ~5,594 |
+| Scout | 11.00% | ~4,102 |
+| Sightseer | 11.00% | ~4,102 |
+| Amateur | 9.00% | ~3,356 |
 | Unlock Maya | 8.00% | ~2,983 |
 | Enter Paz | 8.00% | ~2,983 |
 | Wanderer | 8.00% | ~2,983 |
 | Aviator | 6.00% | ~2,237 |
-| My Little Friend | 5.00% | ~1,864 |
-| One With The Board | 5.00% | ~1,864 |
-| Voyager | 5.00% | ~1,864 |
-| Izel Has Arrived | 4.00% | ~1,491 |
-| Junkie | 3.00% | ~1,118 |
-| Traveler | 3.00% | ~1,118 |
-| Journeyer | 3.00% | ~1,118 |
-| Unlock Paz | 3.00% | ~1,118 |
-| Sandboarder | 3.00% | ~1,118 |
+| My Little Friend | 5.00% | ~1,865 |
+| One With The Board | 5.00% | ~1,865 |
+| Voyager | 5.00% | ~1,865 |
+| Izel Has Arrived | 4.00% | ~1,492 |
+| Junkie | 3.00% | ~1,119 |
+| Traveler | 3.00% | ~1,119 |
+| Journeyer | 3.00% | ~1,119 |
+| Unlock Paz | 3.00% | ~1,119 |
+| Sandboarder | 3.00% | ~1,119 |
 | Explorer | 2.00% | ~746 |
 | Pro | 2.00% | ~746 |
 | Unlock Izel | 2.00% | ~746 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~37 |
 | Windswept | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37,283 (Ranked 97)  
+Progressed: 37,291 (Ranked 97)  
 Completed: 5 (0.01%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 5 (0.01%) (Ranked 252)
 | 2023-08-26 | 36,914 | 5 |
 | 2023-08-27 | 37,087 | 5 |
 | 2023-08-28 | 37,224 | 5 |
-| 2023-08-29 | 37,283 | 5 |
+| 2023-08-29 | 37,291 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 47  (Ranked 409)  
 Sum: 360 (Ranked 329)  

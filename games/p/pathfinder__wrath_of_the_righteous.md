@@ -34,13 +34,13 @@ Number of Ratings: 1,354  (23.09.2022)
 | Hey, I Know You! | 3.00% | ~334 |
 | The Lady of the Forest | 3.00% | ~297 |
 | Beware Still Water | 3.00% | ~297 |
-| Path of the Demon | 2.00% | ~222 |
-| Path of the Aeon | 2.00% | ~222 |
-| Path of the Lich | 2.00% | ~222 |
-| Heroic Victory | 2.00% | ~222 |
-| Capitulation Is Now Moot | 2.00% | ~222 |
-| Your First Big Enemy | 2.00% | ~222 |
-| Truly Important Deed | 2.00% | ~222 |
+| Path of the Demon | 2.00% | ~223 |
+| Path of the Aeon | 2.00% | ~223 |
+| Path of the Lich | 2.00% | ~223 |
+| Heroic Victory | 2.00% | ~223 |
+| Capitulation Is Now Moot | 2.00% | ~223 |
+| Your First Big Enemy | 2.00% | ~223 |
+| Truly Important Deed | 2.00% | ~223 |
 | Stay Underground | 2.00% | ~198 |
 | Hanged Man's Notes | 2.00% | ~198 |
 | Sarkoris Will Be Green | 2.00% | ~198 |
@@ -56,7 +56,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Playful Mood | 0.70% | ~78 |
 | Dreadful Dragon | 0.70% | ~78 |
 | Masterful Charge | 0.60% | ~67 |
-| Prelate's Nemesis | 0.40% | ~44 |
+| Prelate's Nemesis | 0.40% | ~45 |
 | Masterful Dispel | 0.30% | ~33 |
 | Just Pathetic | 0.30% | ~33 |
 | Ashes to Ashes | 0.30% | ~33 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,125 (Ranked 123)  
+Progressed: 11,126 (Ranked 123)  
 Completed: 0 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 0 (0.00%) (Ranked 265)
 | 2023-08-26 | 11,088 | 0 |
 | 2023-08-27 | 11,106 | 0 |
 | 2023-08-28 | 11,120 | 0 |
-| 2023-08-29 | 11,125 | 0 |
+| 2023-08-29 | 11,126 | 0 |
 ## Awards
 Max (Character Customization): 1,703  (Ranked 118)  
 Sum: 6,909 (Ranked 114)  

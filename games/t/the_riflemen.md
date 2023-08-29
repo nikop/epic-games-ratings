@@ -2,8 +2,8 @@
 [Store](https://store.epicgames.com/en-US/p/the-riflemen-8be608)  
 [View Rawdata](../../db/t/the_riflemen.json)  
 ## Popularity (Based on EOS Achievements)
-Progressed: 53 (Ranked 376)  
-Completed: 53 (100.00%) (Ranked 1)  
+Progressed: 54 (Ranked 373)  
+Completed: 54 (100.00%) (Ranked 1)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -19,3 +19,4 @@ Completed: 53 (100.00%) (Ranked 1)
 | 2023-08-26 | 44 | 44 |
 | 2023-08-27 | 51 | 51 |
 | 2023-08-28 | 53 | 53 |
+| 2023-08-29 | 54 | 54 |

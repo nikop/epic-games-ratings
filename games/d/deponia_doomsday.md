@@ -13,13 +13,13 @@ Rating: 4.56 (Ranked 472)
 | Funtime's over | 53.00% | ~204 |
 | Chunky | 51.00% | ~196 |
 | Shall we play a game? | 49.00% | ~188 |
-| Boat of love, boat of love | 48.00% | ~184 |
+| Boat of love, boat of love | 49.00% | ~188 |
 | School's out | 43.00% | ~165 |
 | Scaffolding Expert | 37.00% | ~142 |
 | Elysian Minigame-Master | 37.00% | ~142 |
 | Sole Music | 36.00% | ~138 |
+| No man left behind! | 30.00% | ~115 |
 | Portals come in packs | 30.00% | ~115 |
-| No man left behind! | 29.00% | ~111 |
 | Photo Friend | 26.00% | ~100 |
 | Brainfreeze | 21.00% | ~81 |
 | And everything comes full circle. | 20.00% | ~77 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 472)
 | Every man for himself! | 5.00% | ~19 |
 | 1001 Jackalopes | 2.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 384 (Ranked 251)  
+Progressed: 384 (Ranked 252)  
 Completed: 6 (1.56%) (Ranked 103)  
 ## EOS Players History
 | Date | Progressed | Completed |

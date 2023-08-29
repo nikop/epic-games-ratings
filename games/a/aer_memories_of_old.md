@@ -6,28 +6,28 @@ Number of Ratings: 170  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 76.00% | ~14,394 |
-| Mama? | 28.00% | ~5,303 |
-| People's Haven | 19.00% | ~3,598 |
-| Cartographer | 17.00% | ~3,220 |
-| Antlers of Stone | 15.00% | ~2,841 |
-| Knowledge for Power | 14.00% | ~2,651 |
-| Mausoleum of Ice | 14.00% | ~2,651 |
-| Gaze into the abyss | 13.00% | ~2,462 |
-| In the belly of the beast | 12.00% | ~2,273 |
-| Wings of Stone | 12.00% | ~2,273 |
-| Equilibrium | 12.00% | ~2,273 |
-| Condor condo | 10.00% | ~1,894 |
+| Light at the end of the tunnel | 76.00% | ~14,399 |
+| Mama? | 28.00% | ~5,305 |
+| People's Haven | 19.00% | ~3,600 |
+| Cartographer | 17.00% | ~3,221 |
+| Antlers of Stone | 15.00% | ~2,842 |
+| Knowledge for Power | 14.00% | ~2,652 |
+| Mausoleum of Ice | 14.00% | ~2,652 |
+| Gaze into the abyss | 13.00% | ~2,463 |
+| In the belly of the beast | 12.00% | ~2,274 |
+| Wings of Stone | 12.00% | ~2,274 |
+| Equilibrium | 12.00% | ~2,274 |
+| Condor condo | 10.00% | ~1,895 |
 | Memorial | 9.00% | ~1,705 |
-| An uninvited guest | 8.00% | ~1,515 |
+| An uninvited guest | 8.00% | ~1,516 |
 | Talk to all the spirit animals | 7.00% | ~1,326 |
-| Ripples on the surface | 6.00% | ~1,136 |
-| Tails of Stone | 6.00% | ~1,136 |
-| Baa from the past | 6.00% | ~1,136 |
-| Written in stone | 6.00% | ~1,136 |
+| Ripples on the surface | 6.00% | ~1,137 |
+| Tails of Stone | 6.00% | ~1,137 |
+| Baa from the past | 6.00% | ~1,137 |
+| Written in stone | 6.00% | ~1,137 |
 | Hide and Seek | 5.00% | ~947 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,939 (Ranked 110)  
+Progressed: 18,946 (Ranked 110)  
 Completed: 379 (2.00%) (Ranked 92)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 379 (2.00%) (Ranked 92)
 | 2023-08-26 | 18,746 | 378 |
 | 2023-08-27 | 18,845 | 378 |
 | 2023-08-28 | 18,917 | 379 |
-| 2023-08-29 | 18,939 | 379 |
+| 2023-08-29 | 18,946 | 379 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

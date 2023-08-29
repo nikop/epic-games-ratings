@@ -4,7 +4,7 @@
   "ProductSlug": "night-run-51c60e",
   "Ranking_EOS_Progress": 563,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-08-31T00:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-23T16:03:17.8901767+00:00",
-  "LastChanged_Achievements": "2023-08-29T12:04:12.2263888+00:00",
+  "LastChanged_Achievements": "2023-08-29T13:09:03.3116557+00:00",
   "LastUpdate_AppInfo": "2023-08-22T16:57:16.7613151+00:00",
-  "LastUpdate_Ratings": "2023-08-29T11:58:33.9900926+00:00",
-  "LastUpdate_Achievements": "2023-08-29T12:04:12.2263926+00:00"
+  "LastUpdate_Ratings": "2023-08-29T13:03:20.0423879+00:00",
+  "LastUpdate_Achievements": "2023-08-29T13:09:03.3116586+00:00"
 }

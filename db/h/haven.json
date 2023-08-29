@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -174,9 +174,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1407,
+  "EOS_Progressed": 1408,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -1579,6 +1579,11 @@
       "Time": "2023-08-29T01:47:40.1843632+00:00",
       "NumProgressed": 1407,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-29T13:10:51.9606539+00:00",
+      "NumProgressed": 1408,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -1590,7 +1595,7 @@
       "Name": "Lovebirds",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "10",
@@ -1606,7 +1611,7 @@
       "Name": "Strike!",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "12",
@@ -1614,7 +1619,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "13",
@@ -1646,7 +1651,7 @@
       "Name": "My little pony",
       "Percentage": 20,
       "XP": 70,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "17",
@@ -1750,7 +1755,7 @@
       "Name": "Hug therapy",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "30",
@@ -1798,7 +1803,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "7",
@@ -1829,15 +1834,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1407,
+      "Progressed": 1408,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-08-10T12:01:06.704766+00:00",
-  "LastChanged_Achievements": "2023-08-29T12:06:43.1335396+00:00",
+  "LastChanged_Achievements": "2023-08-29T13:10:51.9606534+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:58.660219+00:00",
-  "LastUpdate_Ratings": "2023-08-29T11:58:41.6293591+00:00",
-  "LastUpdate_Achievements": "2023-08-29T12:06:43.1335753+00:00"
+  "LastUpdate_Ratings": "2023-08-29T13:03:24.7081993+00:00",
+  "LastUpdate_Achievements": "2023-08-29T13:10:51.9606777+00:00"
 }

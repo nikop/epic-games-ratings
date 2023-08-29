@@ -13,14 +13,14 @@
 | There's something in those trees | 9.00% | ~14 |
 | Desert Rat | 9.00% | ~14 |
 | Desert Power | 8.00% | ~13 |
+| Health Care | 7.00% | ~11 |
 | Good payer | 7.00% | ~11 |
 | Perfect Soldier | 6.00% | ~10 |
-| Health Care | 6.00% | ~10 |
+| Pathfinder | 6.00% | ~10 |
 | Fuel Tycoon | 6.00% | ~10 |
 | Ammo Tycoon | 6.00% | ~10 |
 | Jantine: the Misfortunes of Evil | 5.00% | ~8 |
 | Healing | 5.00% | ~8 |
-| Pathfinder | 5.00% | ~8 |
 | Food Tycoon | 5.00% | ~8 |
 | Supersoldier | 4.00% | ~6 |
 | Outdoor Decorator | 4.00% | ~6 |

@@ -124,9 +124,9 @@
       "ID": "LUNCH_LEECH",
       "SetID": "aniflfk",
       "Name": "Leech Lunch",
-      "Percentage": 67,
+      "Percentage": 100,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
@@ -148,17 +148,17 @@
       "ID": "PREPARE_10_COFFEE",
       "SetID": "aniflfk",
       "Name": "Barista",
-      "Percentage": 33,
+      "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "REMOVE_100_WEEDS",
       "SetID": "aniflfk",
       "Name": "Weed Warrior",
-      "Percentage": 67,
+      "Percentage": 100,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "REPAIR_BRIDGE",
@@ -210,8 +210,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-08-29T12:06:51.3316076+00:00",
+  "LastChanged_Achievements": "2023-08-29T13:10:57.7207653+00:00",
   "LastUpdate_AppInfo": "2023-08-23T11:57:03.6281529+00:00",
-  "LastUpdate_Ratings": "2023-08-29T12:00:55.785188+00:00",
-  "LastUpdate_Achievements": "2023-08-29T12:06:51.3316245+00:00"
+  "LastUpdate_Ratings": "2023-08-29T13:05:03.9142577+00:00",
+  "LastUpdate_Achievements": "2023-08-29T13:10:57.7207761+00:00"
 }

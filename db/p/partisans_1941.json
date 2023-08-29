@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1321,
+  "EOS_Progressed": 1322,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2345,6 +2345,11 @@
       "Time": "2023-08-29T08:06:24.1308612+00:00",
       "NumProgressed": 1321,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-29T13:11:37.7839719+00:00",
+      "NumProgressed": 1322,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2428,7 +2433,7 @@
       "Name": "Lock, Stock",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "E1M1",
@@ -2492,7 +2497,7 @@
       "Name": "Payback Time",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "How",
@@ -2595,15 +2600,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1321,
+      "Progressed": 1322,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-08-29T12:07:46.9422756+00:00",
+  "LastChanged_Achievements": "2023-08-29T13:11:37.7839713+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:40.0859007+00:00",
-  "LastUpdate_Ratings": "2023-08-29T11:58:18.8541684+00:00",
-  "LastUpdate_Achievements": "2023-08-29T12:07:46.9423249+00:00"
+  "LastUpdate_Ratings": "2023-08-29T13:03:09.516516+00:00",
+  "LastUpdate_Achievements": "2023-08-29T13:11:37.7839995+00:00"
 }

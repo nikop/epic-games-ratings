@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 784,
+  "EOS_Progressed": 785,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1786,6 +1786,11 @@
       "Time": "2023-08-29T00:04:34.2623443+00:00",
       "NumProgressed": 784,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-29T13:09:32.37523+00:00",
+      "NumProgressed": 785,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1797,7 +1802,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -1869,7 +1874,7 @@
       "Name": "Capraphobia",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -1997,7 +2002,7 @@
       "Name": "Greetings from Royalty",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -2059,9 +2064,9 @@
       "ID": "FREE_ACHIEVEMENT_3",
       "SetID": "9lcahn0",
       "Name": "Fly Free",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "KALL_ACHIEVEMENT_1",
@@ -2077,7 +2082,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -2107,9 +2112,9 @@
       "ID": "KILLR_ACHIEVEMENT_5",
       "SetID": "9lcahn0",
       "Name": "Do This In Silence",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 47
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_1",
@@ -2117,7 +2122,7 @@
       "Name": "And There We Go",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -2149,7 +2154,7 @@
       "Name": "Leecher Hunting Season",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "LEECHER_ACHIEVEMENT_1",
@@ -2173,7 +2178,7 @@
       "Name": "Hostage of the Elderly",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -2245,7 +2250,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -2324,14 +2329,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 784,
+      "Progressed": 785,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-08-29T12:04:52.5678236+00:00",
+  "LastChanged_Achievements": "2023-08-29T13:09:32.3752292+00:00",
   "LastUpdate_AppInfo": "2023-08-24T17:57:03.8268695+00:00",
-  "LastUpdate_Ratings": "2023-08-29T12:00:33.5178227+00:00",
-  "LastUpdate_Achievements": "2023-08-29T12:04:52.5679145+00:00"
+  "LastUpdate_Ratings": "2023-08-29T13:04:48.1579737+00:00",
+  "LastUpdate_Achievements": "2023-08-29T13:09:32.375292+00:00"
 }
