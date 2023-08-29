@@ -4,7 +4,7 @@
 | [Idle Champions of the Forgotten Realms](../games/i/idle_champions_of_the_forgotten_realms.md) | 520 | 2,600 |
 | [Europa Universalis IV](../games/e/europa_universalis_iv.md) | 354 | 5,175 |
 | [Old World](../games/o/old_world.md) | 296 | 3,040 |
-| [Dead by Daylight](../games/d/dead_by_daylight.md) | 223 | 5,345 |
+| [Dead by Daylight](../games/d/dead_by_daylight.md) | 229 | 5,505 |
 | [Three Kingdoms The Last Warlord](../games/t/three_kingdoms_the_last_warlord.md) | 192 | 1,000 |
 | [GPRO - Classic racing manager](../games/g/gpro_-_classic_racing_manager.md) | 162 | 1,000 |
 | [Stellar Interface](../games/s/stellar_interface.md) | 132 | 1,000 |

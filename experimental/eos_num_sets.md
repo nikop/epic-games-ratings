@@ -9,7 +9,7 @@
 | [Crime Boss: Rockay City](../games/c/crime_boss__rockay_city.md) | 37 | 1,000 | 2 |
 | [Crying Suns](../games/c/crying_suns.md) | 79 | 1,160 | 2 |
 | [Cyberpunk 2077](../games/c/cyberpunk_2077.md) | 44 | 1,000 | 2 |
-| [Dead by Daylight](../games/d/dead_by_daylight.md) | 223 | 5,345 | 2 |
+| [Dead by Daylight](../games/d/dead_by_daylight.md) | 229 | 5,505 | 2 |
 | [Destiny 2](../games/d/destiny_2.md) | 23 | 1,240 | 2 |
 | [Dying Light 2 Stay Human](../games/d/dying_light_2_stay_human.md) | 65 | 1,200 | 2 |
 | [Europa Universalis IV](../games/e/europa_universalis_iv.md) | 354 | 5,175 | 2 |
