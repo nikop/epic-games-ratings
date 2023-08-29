@@ -4,7 +4,7 @@
   "ProductSlug": "access-denied-escape-1d486e",
   "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 11,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -754,9 +754,9 @@
       "ID": "Batteries",
       "SetID": "7jbi7el",
       "Name": "Batteries",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 70,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "Compiling",
@@ -786,9 +786,9 @@
       "ID": "Floppy",
       "SetID": "7jbi7el",
       "Name": "Additional Data",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 70,
-      "UsersEstimate": 84
+      "UsersEstimate": 86
     },
     {
       "ID": "Fusses",
@@ -818,9 +818,9 @@
       "ID": "GasFound",
       "SetID": "7jbi7el",
       "Name": "Something is wrong here",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "Hologram",
@@ -865,8 +865,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-08-29T17:08:39.2204076+00:00",
+  "LastChanged_Achievements": "2023-08-29T18:07:09.6528935+00:00",
   "LastUpdate_AppInfo": "2023-08-22T18:57:00.7116692+00:00",
-  "LastUpdate_Ratings": "2023-08-29T17:00:37.8736939+00:00",
-  "LastUpdate_Achievements": "2023-08-29T17:08:39.2204232+00:00"
+  "LastUpdate_Ratings": "2023-08-29T17:59:37.6131446+00:00",
+  "LastUpdate_Achievements": "2023-08-29T18:07:09.6529187+00:00"
 }

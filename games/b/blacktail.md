@@ -26,11 +26,11 @@ Rating: 4.68 (Ranked 239)
 | Favorite | 4.00% | ~26 |
 | Specialist | 4.00% | ~26 |
 | Goal! | 3.00% | ~19 |
+| Gnowlledgeable | 3.00% | ~19 |
 | Both sides | 3.00% | ~19 |
 | Toxic | 3.00% | ~19 |
 | Witch's cookbook | 3.00% | ~19 |
 | Bad apple | 2.00% | ~13 |
-| Gnowlledgeable | 2.00% | ~13 |
 | Awards unwarded | 2.00% | ~13 |
 | Always worth a try | 2.00% | ~13 |
 | Entangled | 2.00% | ~13 |

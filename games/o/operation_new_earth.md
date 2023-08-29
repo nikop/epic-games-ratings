@@ -13,15 +13,15 @@
 | Lieutenant | 10.00% | ~115 |
 | Getting Deployment | 10.00% | ~115 |
 | On Target | 10.00% | ~115 |
-| Keeping Busy | 9.00% | ~103 |
-| Stocking Up | 9.00% | ~103 |
-| Infantry Reporting | 9.00% | ~103 |
+| Keeping Busy | 9.00% | ~104 |
+| Stocking Up | 9.00% | ~104 |
+| Infantry Reporting | 9.00% | ~104 |
 | Fighting for Survival | 8.00% | ~92 |
 | Silver Competitor | 8.00% | ~92 |
-| Captain | 7.00% | ~80 |
-| Factory Expansion | 7.00% | ~80 |
+| Captain | 7.00% | ~81 |
+| Factory Expansion | 7.00% | ~81 |
 | Exterminator | 6.00% | ~69 |
-| Brothers in Arms | 5.00% | ~57 |
+| Brothers in Arms | 5.00% | ~58 |
 | Know The Enemy | 4.00% | ~46 |
 | Player Betrayer | 4.00% | ~46 |
 | Silver Achiever | 4.00% | ~46 |
@@ -33,9 +33,9 @@
 | Resourceful | 2.00% | ~23 |
 | Battle Ready | 2.00% | ~23 |
 | Control the Skies | 2.00% | ~23 |
-| General | 1.00% | ~11 |
-| Seek & Destroy | 1.00% | ~11 |
-| Titan Tanks | 1.00% | ~11 |
+| General | 1.00% | ~12 |
+| Seek & Destroy | 1.00% | ~12 |
+| Titan Tanks | 1.00% | ~12 |
 | Shock Troops | 0.90% | ~10 |
 | Advanced Interceptors | 0.70% | ~8 |
 | Jet Troops | 0.70% | ~8 |
@@ -43,7 +43,7 @@
 | Platinum Achiever | 0.10% | ~1 |
 | Platinum Competitor | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,149 (Ranked 195)  
+Progressed: 1,150 (Ranked 194)  
 Completed: 1 (0.09%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,4 +125,4 @@ Completed: 1 (0.09%) (Ranked 218)
 | 2023-08-26 | 1,110 | 1 |
 | 2023-08-27 | 1,124 | 1 |
 | 2023-08-28 | 1,136 | 1 |
-| 2023-08-29 | 1,149 | 1 |
+| 2023-08-29 | 1,150 | 1 |

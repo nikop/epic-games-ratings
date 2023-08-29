@@ -18,7 +18,7 @@
 | Pirates Assemble! | 18.00% | ~97 |
 | Persistent Parasite | 13.00% | ~70 |
 | Seadog | 12.00% | ~65 |
-| All Good Things | 9.00% | ~49 |
+| All Good Things | 10.00% | ~54 |
 | Jaded Judge | 9.00% | ~49 |
 | Privateer | 7.00% | ~38 |
 | Tobacco Travesty | 7.00% | ~38 |

@@ -1,41 +1,41 @@
 # GRIME
 [Store](https://store.epicgames.com/en-US/p/grime)  
 [View Rawdata](../../db/g/grime.json)  
-Rating: 4.59 (Ranked 415)  
+Rating: 4.59 (Ranked 416)  
 Number of Ratings: 46  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Imprint | 88.00% | ~126,591 |
-| Taste | 84.00% | ~120,837 |
-| The Hunt | 66.00% | ~94,943 |
-| Ravenous | 63.00% | ~90,627 |
-| Weeper | 43.00% | ~61,857 |
-| Devourer | 23.00% | ~33,086 |
-| Harmless | 19.00% | ~27,332 |
-| Silenced Whispers | 19.00% | ~27,332 |
-| Sharpened Vessel | 16.00% | ~23,016 |
-| Yank | 15.00% | ~21,578 |
-| Scion | 12.00% | ~17,212 |
-| Jawcrab | 12.00% | ~17,262 |
-| Jawstag | 12.00% | ~17,262 |
-| Feast | 12.00% | ~17,262 |
-| Watcher | 10.00% | ~14,385 |
-| Shapely | 8.00% | ~11,508 |
-| Glare | 8.00% | ~11,475 |
-| Predator | 8.00% | ~11,508 |
-| Assimilation | 6.00% | ~8,631 |
-| Host | 6.00% | ~8,606 |
-| Celebration | 6.00% | ~8,631 |
+| Imprint | 88.00% | ~126,600 |
+| Taste | 84.00% | ~120,846 |
+| The Hunt | 66.00% | ~94,950 |
+| Ravenous | 63.00% | ~90,634 |
+| Weeper | 43.00% | ~61,862 |
+| Devourer | 23.00% | ~33,089 |
+| Harmless | 19.00% | ~27,334 |
+| Silenced Whispers | 19.00% | ~27,334 |
+| Sharpened Vessel | 16.00% | ~23,018 |
+| Yank | 15.00% | ~21,580 |
+| Scion | 12.00% | ~17,214 |
+| Jawcrab | 12.00% | ~17,264 |
+| Jawstag | 12.00% | ~17,264 |
+| Feast | 12.00% | ~17,264 |
+| Watcher | 10.00% | ~14,386 |
+| Shapely | 8.00% | ~11,509 |
+| Glare | 8.00% | ~11,476 |
+| Predator | 8.00% | ~11,509 |
+| Assimilation | 6.00% | ~8,632 |
+| Host | 6.00% | ~8,607 |
+| Celebration | 6.00% | ~8,632 |
 | Hunt Down | 5.00% | ~7,193 |
 | Artisan | 5.00% | ~7,193 |
 | Breathsmith | 5.00% | ~7,193 |
-| Breath | 4.00% | ~5,754 |
-| Hush | 4.00% | ~5,754 |
-| Inevitable | 4.00% | ~5,754 |
-| Unwrap the Gift | 4.00% | ~5,754 |
-| Dream | 4.00% | ~5,737 |
-| Proportions | 4.00% | ~5,754 |
+| Breath | 4.00% | ~5,755 |
+| Hush | 4.00% | ~5,755 |
+| Inevitable | 4.00% | ~5,755 |
+| Unwrap the Gift | 4.00% | ~5,755 |
+| Dream | 4.00% | ~5,738 |
+| Proportions | 4.00% | ~5,755 |
 | Bloodhunter | 3.00% | ~4,316 |
 | All-Seeing | 3.00% | ~4,316 |
 | Passage | 3.00% | ~4,316 |
@@ -49,7 +49,7 @@ Number of Ratings: 46  (23.09.2022)
 | Instruments | 0.70% | ~1,007 |
 | Spiral Heart | 0.10% | ~144 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 143,853 (Ranked 65)  
+Progressed: 143,864 (Ranked 65)  
 Completed: 1 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,14 +161,14 @@ Completed: 1 (0.00%) (Ranked 266)
 | 2023-08-26 | 142,811 | 1 |
 | 2023-08-27 | 143,262 | 1 |
 | 2023-08-28 | 143,622 | 1 |
-| 2023-08-29 | 143,853 | 1 |
+| 2023-08-29 | 143,864 | 1 |
 ## Awards
-Max (Highly Recommended): 28  (Ranked 467)  
-Sum: 142 (Ranked 399)  
-Diff (max vs sum): 68  
+Max (Highly Recommended): 29  (Ranked 464)  
+Sum: 143 (Ranked 399)  
+Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 28 |
+| This game is Highly Recommended | 29 |
 | This game has Challenging Combat | 26 |
 | This game has Quickly Understood Controls | 24 |
 | This game has a Creative Community | 22 |
@@ -250,4 +250,4 @@ Diff (max vs sum): 68
 | 2023-08-25 | 4.59 | - | 28 | 118 |
 | 2023-08-26 | 4.59 | - | 28 | 121 |
 | 2023-08-27 | 4.59 | - | 28 | 141 |
-| 2023-08-29 | 4.59 | - | 28 | 142 |
+| 2023-08-29 | 4.59 | - | 29 | 143 |

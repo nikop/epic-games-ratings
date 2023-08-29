@@ -4,10 +4,10 @@
   "ProductSlug": "assassins-creed-odyssey",
   "Ranking_Rating": 134,
   "Ranking_Popularity": 62,
-  "Ranking_PopularitySum": 65,
+  "Ranking_PopularitySum": 66,
   "Ranking_EOS_Progress": 563,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2018-10-05T15:00:00+00:00",
@@ -7683,10 +7683,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 14448,
       "NumberOfAwardsMax": 5777
+    },
+    {
+      "Time": "2023-08-29T17:58:10.8010428+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 14449,
+      "NumberOfAwardsMax": 5777
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14448,
+  "NumberOfAwards": 14449,
   "NumberOfAwardsMax": 5777,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7748,7 +7754,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 500
+      "Count": 501
     },
     {
       "Text": "This game is Extremely Fun",
@@ -7786,8 +7792,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:24.693286+00:00",
-  "LastChanged": "2023-08-29T07:58:11.6639422+00:00",
+  "LastChanged": "2023-08-29T17:58:10.8010426+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:56:59.063399+00:00",
-  "LastUpdate_Ratings": "2023-08-29T16:58:52.8057119+00:00",
-  "LastUpdate_Achievements": "2023-08-29T17:08:36.7836604+00:00"
+  "LastUpdate_Ratings": "2023-08-29T17:58:10.8010434+00:00",
+  "LastUpdate_Achievements": "2023-08-29T18:07:07.533767+00:00"
 }

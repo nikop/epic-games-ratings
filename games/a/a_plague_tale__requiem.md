@@ -5,23 +5,23 @@ Rating: 4.73 (Ranked 162)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~11,855 |
-| Newcomers | 79.00% | ~10,180 |
+| Under a New Sun | 92.00% | ~11,856 |
+| Newcomers | 79.00% | ~10,181 |
 | A Burden of Blood | 74.00% | ~9,536 |
-| Protector's Duty | 70.00% | ~9,020 |
-| Alchemist | 69.00% | ~8,891 |
-| In our Wake | 68.00% | ~8,762 |
-| Leaving all Behind | 65.00% | ~8,376 |
-| Felons | 62.00% | ~7,989 |
-| A Sea of Promises | 61.00% | ~7,860 |
-| Tales and Revelations | 57.00% | ~7,345 |
+| Protector's Duty | 70.00% | ~9,021 |
+| Alchemist | 69.00% | ~8,892 |
+| In our Wake | 68.00% | ~8,763 |
+| Leaving all Behind | 65.00% | ~8,377 |
+| Felons | 62.00% | ~7,990 |
+| A Sea of Promises | 61.00% | ~7,861 |
+| Tales and Revelations | 57.00% | ~7,346 |
 | Bloodline | 53.00% | ~6,830 |
-| The Cradle of Centuries | 49.00% | ~6,314 |
+| The Cradle of Centuries | 49.00% | ~6,315 |
 | The Life We Deserve | 46.00% | ~5,928 |
 | Night guard | 43.00% | ~5,541 |
 | Nothing Left | 39.00% | ~5,026 |
 | Healing our Wounds | 37.00% | ~4,768 |
-| Dying Sun | 33.00% | ~4,252 |
+| Dying Sun | 33.00% | ~4,253 |
 | Improved crossbow | 27.00% | ~3,479 |
 | King Hugo | 25.00% | ~3,222 |
 | Mercy | 24.00% | ~3,093 |
@@ -30,8 +30,8 @@ Rating: 4.73 (Ranked 162)
 | Perfect throw | 22.00% | ~2,835 |
 | Knights! | 20.00% | ~2,577 |
 | Handful of pockets | 13.00% | ~1,675 |
-| Not a toy anymore | 11.00% | ~1,417 |
-| Pocket laboratory | 11.00% | ~1,417 |
+| Not a toy anymore | 11.00% | ~1,418 |
+| Pocket laboratory | 11.00% | ~1,418 |
 | Fighter | 8.00% | ~1,031 |
 | Herbalist | 7.00% | ~902 |
 | Ornithologist | 5.00% | ~644 |
@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 162)
 | Explorer | 1.00% | ~129 |
 | Malignant | 1.00% | ~129 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,886 (Ranked 121)  
+Progressed: 12,887 (Ranked 121)  
 Completed: 44 (0.34%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 44 (0.34%) (Ranked 170)
 | 2023-08-26 | 12,850 | 43 |
 | 2023-08-27 | 12,869 | 43 |
 | 2023-08-28 | 12,881 | 44 |
-| 2023-08-29 | 12,886 | 44 |
+| 2023-08-29 | 12,887 | 44 |
 ## Awards
 Max (Great Boss Battles): 412  (Ranked 213)  
 Sum: 630 (Ranked 293)  

@@ -152,9 +152,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17617,
+  "EOS_Progressed": 17618,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 195,
+  "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -10962,6 +10962,11 @@
       "Time": "2023-08-29T17:05:33.9548487+00:00",
       "NumProgressed": 17617,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-08-29T18:04:32.7288207+00:00",
+      "NumProgressed": 17618,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 14,
@@ -10973,7 +10978,7 @@
       "Name": "Across The Border",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 13917
+      "UsersEstimate": 13918
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -11029,7 +11034,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 9337
+      "UsersEstimate": 9338
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -11077,22 +11082,22 @@
       "Name": "Wild West Hero",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 2466
+      "UsersEstimate": 2467
     }
   ],
   "AchievementSets": [
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 17617,
+      "Progressed": 17618,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-08-16T03:57:34.8125865+00:00",
-  "LastChanged_Achievements": "2023-08-29T17:05:33.9548483+00:00",
+  "LastChanged_Achievements": "2023-08-29T18:04:32.7288198+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:59.8893769+00:00",
-  "LastUpdate_Ratings": "2023-08-29T17:00:14.5363101+00:00",
-  "LastUpdate_Achievements": "2023-08-29T17:05:33.9549237+00:00"
+  "LastUpdate_Ratings": "2023-08-29T17:59:17.8939832+00:00",
+  "LastUpdate_Achievements": "2023-08-29T18:04:32.7289045+00:00"
 }

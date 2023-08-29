@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Goodbye | 89.00% | ~102 |
-| The Routine | 79.00% | ~91 |
-| Mother | 77.00% | ~89 |
-| Failure | 75.00% | ~86 |
+| Last Goodbye | 90.00% | ~104 |
+| The Routine | 80.00% | ~92 |
+| Mother | 78.00% | ~90 |
+| Failure | 76.00% | ~87 |
 | Replace Fuse | 65.00% | ~75 |
 | Alarm | 63.00% | ~72 |
 | Air Filtration | 62.00% | ~71 |

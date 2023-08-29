@@ -21,7 +21,7 @@
 | Hello, world! | 68.00% | ~190 |
 | No bullying more | 67.00% | ~187 |
 | Pal of your father? | 65.00% | ~181 |
-| Employee of the month | 64.00% | ~179 |
+| Employee of the month | 65.00% | ~181 |
 | Spirit of the past | 62.00% | ~173 |
 | Law student | 61.00% | ~170 |
 | Workout professional | 59.00% | ~165 |
@@ -44,11 +44,11 @@
 | Champion – no way back | 42.00% | ~117 |
 | Responsible approach | 41.00% | ~114 |
 | Underground dwellers | 40.00% | ~112 |
+| Deal with life | 39.00% | ~109 |
 | GYM professional | 39.00% | ~109 |
 | Poisoned fighter | 39.00% | ~109 |
 | Your own way | 39.00% | ~109 |
 | Mom got better | 38.00% | ~106 |
-| Deal with life | 38.00% | ~106 |
 | Get out of my apartment! | 38.00% | ~106 |
 | The die is cast | 38.00% | ~106 |
 | Seashell hunter | 37.00% | ~103 |
@@ -57,16 +57,16 @@
 | Undercover robot | 34.00% | ~95 |
 | Not little hacker | 33.00% | ~92 |
 | Absolute Champion! | 33.00% | ~92 |
+| Careerist | 33.00% | ~92 |
+| Trap disarmed | 32.00% | ~89 |
 | The lonesome road | 32.00% | ~89 |
 | Keep nature safe | 32.00% | ~89 |
 | Family comes first | 32.00% | ~89 |
 | Key memories | 32.00% | ~89 |
-| Careerist | 32.00% | ~89 |
 | Anyone can resist | 32.00% | ~89 |
 | The heart of the Resistance | 32.00% | ~89 |
-| Trap disarmed | 31.00% | ~86 |
 | Another world | 31.00% | ~86 |
-| The last bell ring | 30.00% | ~84 |
+| The last bell ring | 31.00% | ~86 |
 | Better cooking at home | 29.00% | ~81 |
 | Silver’s past | 28.00% | ~78 |
 | The only right decision | 28.00% | ~78 |

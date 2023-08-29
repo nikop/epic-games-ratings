@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -278,9 +278,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3111,
+  "EOS_Progressed": 3112,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4743,6 +4743,11 @@
       "Time": "2023-08-29T12:08:47.8655156+00:00",
       "NumProgressed": 3111,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-29T18:02:17.6962509+00:00",
+      "NumProgressed": 3112,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -4754,7 +4759,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "ACH_BASE_10",
@@ -4818,7 +4823,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "ACH_BASE_19",
@@ -5050,7 +5055,7 @@
       "Name": "Permanent Redesigns",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "ACH_BASE_49",
@@ -5209,13 +5214,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1293,
+      "Progressed": 1294,
       "Completed": 6
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3111,
+      "Progressed": 3112,
       "Completed": 0
     }
   ],
@@ -5223,8 +5228,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-08-28T10:57:03.0237068+00:00",
-  "LastChanged_Achievements": "2023-08-29T17:03:09.2514699+00:00",
+  "LastChanged_Achievements": "2023-08-29T18:02:17.6962501+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:17.9137927+00:00",
-  "LastUpdate_Ratings": "2023-08-29T16:57:56.209223+00:00",
-  "LastUpdate_Achievements": "2023-08-29T17:03:09.2515942+00:00"
+  "LastUpdate_Ratings": "2023-08-29T17:57:24.1063391+00:00",
+  "LastUpdate_Achievements": "2023-08-29T18:02:17.696344+00:00"
 }

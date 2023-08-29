@@ -1157,9 +1157,9 @@
       "ID": "LEVEL_012",
       "SetID": "7jk5g4e",
       "Name": "Poultry house",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 95,
-      "UsersEstimate": 105
+      "UsersEstimate": 109
     },
     {
       "ID": "LEVEL_017",
@@ -1220,8 +1220,8 @@
   ],
   "FirstSeen": "2023-06-17T14:57:03.8937157+00:00",
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2023-08-29T17:03:24.8566835+00:00",
+  "LastChanged_Achievements": "2023-08-29T18:02:31.0650148+00:00",
   "LastUpdate_AppInfo": "2023-08-28T20:26:12.0886757+00:00",
-  "LastUpdate_Ratings": "2023-08-29T17:01:05.2498232+00:00",
-  "LastUpdate_Achievements": "2023-08-29T17:03:24.8567039+00:00"
+  "LastUpdate_Ratings": "2023-08-29T17:59:59.9590006+00:00",
+  "LastUpdate_Achievements": "2023-08-29T18:02:31.0650353+00:00"
 }

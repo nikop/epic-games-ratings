@@ -2,7 +2,7 @@
   "ID": "fa9a00f7f82846b4b820e6152b69aa55",
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
-  "Ranking_EOS_Progress": 195,
+  "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 64,
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1149,
+  "EOS_Progressed": 1150,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4041,6 +4041,11 @@
       "Time": "2023-08-29T17:06:06.5491353+00:00",
       "NumProgressed": 1149,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-29T18:05:00.1225224+00:00",
+      "NumProgressed": 1150,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4132,7 +4137,7 @@
       "Name": "Keeping Busy",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "objective_headquarters_15",
@@ -4188,7 +4193,7 @@
       "Name": "Captain",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -4212,7 +4217,7 @@
       "Name": "General",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "objective_key_alliance_help_2",
@@ -4220,7 +4225,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -4252,7 +4257,7 @@
       "Name": "Seek \u0026 Destroy",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_3",
@@ -4260,7 +4265,7 @@
       "Name": "Stocking Up",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -4292,7 +4297,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -4300,7 +4305,7 @@
       "Name": "Factory Expansion",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -4324,7 +4329,7 @@
       "Name": "Titan Tanks",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "objective_research_unlock_heavy_infantry_tier_4",
@@ -4355,14 +4360,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1149,
+      "Progressed": 1150,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-29T17:06:06.5491347+00:00",
+  "LastChanged_Achievements": "2023-08-29T18:05:00.1225214+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:58:05.1002416+00:00",
-  "LastUpdate_Ratings": "2023-08-29T17:00:21.6669446+00:00",
-  "LastUpdate_Achievements": "2023-08-29T17:06:06.5492083+00:00"
+  "LastUpdate_Ratings": "2023-08-29T17:59:24.0015636+00:00",
+  "LastUpdate_Achievements": "2023-08-29T18:05:00.1226146+00:00"
 }

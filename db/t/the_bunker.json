@@ -4,7 +4,7 @@
   "ProductSlug": "the-bunker-03b712",
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 83,
-  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -216,25 +216,25 @@
       "ID": "CHAPTER_02_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Last Goodbye",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 25,
-      "UsersEstimate": 102
+      "UsersEstimate": 104
     },
     {
       "ID": "CHAPTER_03_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "The Routine",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "CHAPTER_04_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Failure",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 25,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "CHAPTER_05_COMPLETE",
@@ -360,9 +360,9 @@
       "ID": "PEG_MOTHER",
       "SetID": "bho0i1h",
       "Name": "Mother",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "PEG_NURSE",
@@ -409,8 +409,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.332275+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:47.0734489+00:00",
   "LastChanged": "2023-03-31T05:58:47.3322751+00:00",
-  "LastChanged_Achievements": "2023-08-29T17:07:01.9946329+00:00",
+  "LastChanged_Achievements": "2023-08-29T18:05:47.7519813+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:51.3374256+00:00",
-  "LastUpdate_Ratings": "2023-08-29T17:02:23.3633241+00:00",
-  "LastUpdate_Achievements": "2023-08-29T17:07:01.9946571+00:00"
+  "LastUpdate_Ratings": "2023-08-29T18:02:04.2185417+00:00",
+  "LastUpdate_Achievements": "2023-08-29T18:05:47.752016+00:00"
 }

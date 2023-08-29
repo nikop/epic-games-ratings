@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 553,
+  "EOS_Progressed": 554,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 549,
+  "EOS_NewPlayers": 550,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -597,6 +597,11 @@
       "Time": "2023-08-29T17:07:09.2114614+00:00",
       "NumProgressed": 553,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-29T18:05:53.8283099+00:00",
+      "NumProgressed": 554,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -617,7 +622,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "AC02",
@@ -631,9 +636,9 @@
       "ID": "AC03",
       "SetID": "l4abp0",
       "Name": "Blood and Gold",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 293
+      "UsersEstimate": 299
     },
     {
       "ID": "AC04",
@@ -641,7 +646,7 @@
       "Name": "Blood and Iron",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "AC05",
@@ -649,7 +654,7 @@
       "Name": "The Sharpest Tool in the Shed",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "AC06",
@@ -665,15 +670,15 @@
       "Name": "The Sea dies on the Shore",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "AC08",
       "SetID": "l4abp0",
       "Name": "Forged in Fire",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 149
+      "UsersEstimate": 155
     },
     {
       "ID": "AC09",
@@ -689,7 +694,7 @@
       "Name": "The Wait is Over",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "AC11",
@@ -791,9 +796,9 @@
       "ID": "AC23",
       "SetID": "l4abp0",
       "Name": "Hide and Seek",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 94
     },
     {
       "ID": "AC24",
@@ -817,7 +822,7 @@
       "Name": "A Leap of Faith",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "AC27",
@@ -849,7 +854,7 @@
       "Name": "The Anointed One",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "AC31",
@@ -865,7 +870,7 @@
       "Name": "Nobody Expects the Spanish Inquisition!",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "AC33",
@@ -873,7 +878,7 @@
       "Name": "Ultima Ratio",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "AC34",
@@ -929,7 +934,7 @@
       "Name": "Welcome Back!",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "AC41",
@@ -976,14 +981,14 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 553,
+      "Progressed": 554,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-26T07:57:19.1818171+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
-  "LastChanged_Achievements": "2023-08-29T17:07:09.2114607+00:00",
+  "LastChanged_Achievements": "2023-08-29T18:05:53.8283089+00:00",
   "LastUpdate_AppInfo": "2023-08-22T18:57:00.5189311+00:00",
-  "LastUpdate_Ratings": "2023-08-29T17:00:29.0945093+00:00",
-  "LastUpdate_Achievements": "2023-08-29T17:07:09.2115086+00:00"
+  "LastUpdate_Ratings": "2023-08-29T17:59:30.0575009+00:00",
+  "LastUpdate_Achievements": "2023-08-29T18:05:53.828355+00:00"
 }

@@ -6,6 +6,7 @@
 | ---- | ---------- | ----- |
 | The Ship | 20.00% | ~1 |
 | Little ideas | 20.00% | ~1 |
+| Marc Allard | 20.00% | ~1 |
 | The Denouement | 0.00% | ~0 |
 | Well-travelled | 0.00% | ~0 |
 | Well-acquainted | 0.00% | ~0 |
@@ -39,7 +40,6 @@
 | Irene Court-Smyth | 0.00% | ~0 |
 | The Investigation Begins | 0.00% | ~0 |
 | Johan Kristiansen | 0.00% | ~0 |
-| Marc Allard | 0.00% | ~0 |
 | Mortimer Ailsworth | 0.00% | ~0 |
 | Nathaniel Dryden | 0.00% | ~0 |
 | Zakariya Demir | 0.00% | ~0 |

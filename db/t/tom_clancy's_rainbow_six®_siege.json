@@ -4,10 +4,10 @@
   "ProductSlug": "rainbow-six-siege",
   "Ranking_Rating": 451,
   "Ranking_Popularity": 116,
-  "Ranking_PopularitySum": 64,
+  "Ranking_PopularitySum": 65,
   "Ranking_EOS_Progress": 563,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-12-01T16:00:00+00:00",
@@ -5139,6 +5139,6 @@
   "FirstSeen": "2022-07-22T20:19:50.9592707+00:00",
   "LastChanged": "2023-08-29T17:00:37.0362758+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:10.4938521+00:00",
-  "LastUpdate_Ratings": "2023-08-29T17:00:37.0362766+00:00",
-  "LastUpdate_Achievements": "2023-08-29T17:07:26.4391527+00:00"
+  "LastUpdate_Ratings": "2023-08-29T17:59:36.9607033+00:00",
+  "LastUpdate_Achievements": "2023-08-29T18:06:08.3319164+00:00"
 }

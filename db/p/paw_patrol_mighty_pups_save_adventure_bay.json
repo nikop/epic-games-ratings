@@ -4,7 +4,7 @@
   "ProductSlug": "paw-patrol-mighty-pups-save-adventure-bay-aaad37",
   "Ranking_EOS_Progress": 420,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-12-13T19:30:00+00:00",
@@ -142,9 +142,9 @@
       "ID": "0",
       "SetID": "38ide56",
       "Name": "Mighty Powers",
-      "Percentage": 62,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "1",
@@ -391,8 +391,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2023-08-29T17:03:08.2732671+00:00",
+  "LastChanged_Achievements": "2023-08-29T18:02:16.9513611+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:01.3801291+00:00",
-  "LastUpdate_Ratings": "2023-08-29T16:59:04.2660357+00:00",
-  "LastUpdate_Achievements": "2023-08-29T17:03:08.2732983+00:00"
+  "LastUpdate_Ratings": "2023-08-29T17:58:20.7645311+00:00",
+  "LastUpdate_Achievements": "2023-08-29T18:02:16.9514045+00:00"
 }
