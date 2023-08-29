@@ -6,7 +6,7 @@
   "Ranking_Popularity": 38,
   "Ranking_PopularitySum": 20,
   "Ranking_EOS_Progress": 9,
-  "Ranking_EOS_Completed": 196,
+  "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 27,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
@@ -8941,9 +8941,9 @@
       "Count": 8394
     }
   ],
-  "EOS_Progressed": 1326730,
+  "EOS_Progressed": 1326731,
   "EOS_Completed": 2129,
-  "EOS_NewPlayers": 2818,
+  "EOS_NewPlayers": 2819,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -23451,6 +23451,11 @@
       "Time": "2023-08-29T02:50:52.3703423+00:00",
       "NumProgressed": 1326730,
       "NumCompleted": 2129
+    },
+    {
+      "Time": "2023-08-29T03:09:43.7080087+00:00",
+      "NumProgressed": 1326731,
+      "NumCompleted": 2129
     }
   ],
   "TotalAchievements": 47,
@@ -23462,7 +23467,7 @@
       "Name": "The Result of Previous Training",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 371484
+      "UsersEstimate": 371485
     },
     {
       "ID": "ACH_001",
@@ -23526,7 +23531,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 371484
+      "UsersEstimate": 371485
     },
     {
       "ID": "ACH_009",
@@ -23542,7 +23547,7 @@
       "Name": "Shortcut Killer",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 66336
+      "UsersEstimate": 66337
     },
     {
       "ID": "ACH_011",
@@ -23574,7 +23579,7 @@
       "Name": "Treacherous Architecture",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 66336
+      "UsersEstimate": 66337
     },
     {
       "ID": "ACH_015",
@@ -23598,7 +23603,7 @@
       "Name": "Stair Master",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 66336
+      "UsersEstimate": 66337
     },
     {
       "ID": "ACH_018",
@@ -23606,7 +23611,7 @@
       "Name": "Master of the Household",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 504157
+      "UsersEstimate": 504158
     },
     {
       "ID": "ACH_019",
@@ -23662,7 +23667,7 @@
       "Name": "Followed the Trails",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 66336
+      "UsersEstimate": 66337
     },
     {
       "ID": "ACH_026",
@@ -23686,7 +23691,7 @@
       "Name": "Last Call",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 66336
+      "UsersEstimate": 66337
     },
     {
       "ID": "ACH_029",
@@ -23750,7 +23755,7 @@
       "Name": "The Last Tango",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 411286
+      "UsersEstimate": 411287
     },
     {
       "ID": "ACH_037",
@@ -23798,7 +23803,7 @@
       "Name": "Nightmare Fuel",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 411286
+      "UsersEstimate": 411287
     },
     {
       "ID": "ACH_043",
@@ -23806,7 +23811,7 @@
       "Name": "Bullet Train",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 278613
+      "UsersEstimate": 278614
     },
     {
       "ID": "ACH_044",
@@ -23837,15 +23842,15 @@
     {
       "ID": "62l33o1",
       "IsBase": true,
-      "Progressed": 1326730,
+      "Progressed": 1326731,
       "Completed": 2129
     }
   ],
   "FirstSeen": "2022-07-22T20:17:51.8099598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:56.7371376+00:00",
   "LastChanged": "2023-08-29T01:39:45.3564185+00:00",
-  "LastChanged_Achievements": "2023-08-29T02:50:52.3703416+00:00",
+  "LastChanged_Achievements": "2023-08-29T03:09:43.7080077+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:02.6497551+00:00",
-  "LastUpdate_Ratings": "2023-08-29T02:43:10.4278454+00:00",
-  "LastUpdate_Achievements": "2023-08-29T02:50:52.3705685+00:00"
+  "LastUpdate_Ratings": "2023-08-29T03:02:22.1250107+00:00",
+  "LastUpdate_Achievements": "2023-08-29T03:09:43.7083175+00:00"
 }

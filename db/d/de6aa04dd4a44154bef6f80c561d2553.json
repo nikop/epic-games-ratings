@@ -25,9 +25,363 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-08-29T03:05:10.0052283+00:00",
+  "TotalAchievements": 44,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ARestWellDeserved",
+      "SetID": "c8fdd59",
+      "Name": "A Rest Well Deserved",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AspirationOfYuanchu",
+      "SetID": "c8fdd59",
+      "Name": "Aspiration of Phoenix",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BloodForBlood",
+      "SetID": "c8fdd59",
+      "Name": "Blood For Blood",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BuyLowSellHigh",
+      "SetID": "c8fdd59",
+      "Name": "Buy Low Sell High",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Catcha",
+      "SetID": "c8fdd59",
+      "Name": "Catcha",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Chapter01_TheDesperado",
+      "SetID": "c8fdd59",
+      "Name": "The Desperado",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Chapter02_BlackTidings",
+      "SetID": "c8fdd59",
+      "Name": "Black Tidings",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Chapter03_DangerousDeal",
+      "SetID": "c8fdd59",
+      "Name": "Dangerous Deal",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Chapter04_AJourneyBegins",
+      "SetID": "c8fdd59",
+      "Name": "A Journey Begins",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Chapter05_Breakout",
+      "SetID": "c8fdd59",
+      "Name": "Breakout",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Chapter06_NewExperience",
+      "SetID": "c8fdd59",
+      "Name": "New Experience",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Chapter07_Reunion",
+      "SetID": "c8fdd59",
+      "Name": "Reunion",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Chapter08_UntimelyAdversity",
+      "SetID": "c8fdd59",
+      "Name": "Untimely Adversity",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Chapter09_EmergedConcern",
+      "SetID": "c8fdd59",
+      "Name": "Emerged Concern",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Chapter10_AThousandMiles",
+      "SetID": "c8fdd59",
+      "Name": "A Thousand Miles",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Chapter11_BraveExploration",
+      "SetID": "c8fdd59",
+      "Name": "Brave Exploration",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Chapter12_FirstEncounter",
+      "SetID": "c8fdd59",
+      "Name": "First Encounter",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Chapter13_AdventureInTheArroyo",
+      "SetID": "c8fdd59",
+      "Name": "Adventure in the Arroyo",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Chapter14_MissedOpportunity",
+      "SetID": "c8fdd59",
+      "Name": "Missed Opportunity",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Chapter15_TheComeback",
+      "SetID": "c8fdd59",
+      "Name": "The Comeback",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Chapter16_ToEndItAll",
+      "SetID": "c8fdd59",
+      "Name": "To End It All",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Chapter17_DustSettled",
+      "SetID": "c8fdd59",
+      "Name": "Dust Setteled",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DroppedHard",
+      "SetID": "c8fdd59",
+      "Name": "Dropped Hard",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EnemySlain",
+      "SetID": "c8fdd59",
+      "Name": "Enemy Slain",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FaithfulAudience",
+      "SetID": "c8fdd59",
+      "Name": "Seen It All",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FirstBuildingInElysium",
+      "SetID": "c8fdd59",
+      "Name": "Something in the Scroll",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GoodCompany",
+      "SetID": "c8fdd59",
+      "Name": "Good Company",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HitTheBoardRunning",
+      "SetID": "c8fdd59",
+      "Name": "Hit the Board Running",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Marker",
+      "SetID": "c8fdd59",
+      "Name": "Alchemist",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PowerFromDiscipline",
+      "SetID": "c8fdd59",
+      "Name": "Power From Discipline",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PowerUp",
+      "SetID": "c8fdd59",
+      "Name": "Power Up",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Prologue_PeaceDisturbed",
+      "SetID": "c8fdd59",
+      "Name": "Peace Disturbed",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RareFindings",
+      "SetID": "c8fdd59",
+      "Name": "Rare Findings",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Recruit",
+      "SetID": "c8fdd59",
+      "Name": "Recruit",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ScrollToWin",
+      "SetID": "c8fdd59",
+      "Name": "Scroll to Win",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SecretBase",
+      "SetID": "c8fdd59",
+      "Name": "Secret Base",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SlayerOfMonsters",
+      "SetID": "c8fdd59",
+      "Name": "Slayer of Monsters",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SuperBestFriends",
+      "SetID": "c8fdd59",
+      "Name": "Super Best Friends",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TheEnlightened",
+      "SetID": "c8fdd59",
+      "Name": "The Enlightened",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ThousandMiles",
+      "SetID": "c8fdd59",
+      "Name": "Thousand Miles",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "UltimateWeapon",
+      "SetID": "c8fdd59",
+      "Name": "Ultimate Weapon",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "UnexpectedSurprise",
+      "SetID": "c8fdd59",
+      "Name": "Unexpected Surprise",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WeWasHere",
+      "SetID": "c8fdd59",
+      "Name": "We Was Here",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WithoutDiscrimination",
+      "SetID": "c8fdd59",
+      "Name": "Without Discrimination",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "c8fdd59",
@@ -37,8 +391,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-28T07:03:21.9021387+00:00",
-  "LastChanged_Achievements": "2023-08-29T01:44:20.2530519+00:00",
+  "LastChanged_Achievements": "2023-08-29T03:05:10.0039855+00:00",
   "LastUpdate_AppInfo": "2023-08-28T06:57:19.7598194+00:00",
-  "LastUpdate_Ratings": "2023-08-29T02:42:01.7016511+00:00",
-  "LastUpdate_Achievements": "2023-08-29T01:44:20.2530551+00:00"
+  "LastUpdate_Ratings": "2023-08-29T03:01:37.4442432+00:00",
+  "LastUpdate_Achievements": "2023-08-29T03:05:10.0428202+00:00"
 }

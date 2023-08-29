@@ -49,6 +49,7 @@
 | Usurper II | 5.00% | ~3 |
 | 50Gb HDD | 5.00% | ~3 |
 | Fighting Fit II | 5.00% | ~3 |
+| Bronze BBQ | 3.00% | ~2 |
 | Bronze Pest Control | 3.00% | ~2 |
 | Cartridge Hoarder | 3.00% | ~2 |
 | Curious | 3.00% | ~2 |
@@ -60,8 +61,8 @@
 | Mysterious Skin | 3.00% | ~2 |
 | Beetle | 3.00% | ~2 |
 | Anger Management | 3.00% | ~2 |
+| Almost There II | 3.00% | ~2 |
 | Revenge | 2.00% | ~1 |
-| Bronze BBQ | 2.00% | ~1 |
 | Golden Foundation | 2.00% | ~1 |
 | Sectoral Admiral | 2.00% | ~1 |
 | Golden Pest Control | 2.00% | ~1 |
@@ -70,7 +71,6 @@
 | Galactic Captain | 2.00% | ~1 |
 | You've drone good! | 2.00% | ~1 |
 | System Captain | 2.00% | ~1 |
-| Almost There II | 2.00% | ~1 |
 | Providence | 0.00% | ~0 |
 | Bronze Tovarish | 0.00% | ~0 |
 | Archer's Bronze Fate | 0.00% | ~0 |

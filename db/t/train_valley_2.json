@@ -1352,9 +1352,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 384245,
+  "EOS_Progressed": 384246,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 5309,
+  "EOS_NewPlayers": 5310,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7142,6 +7142,11 @@
       "Time": "2023-08-29T02:48:03.560832+00:00",
       "NumProgressed": 384245,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-29T03:07:15.2612521+00:00",
+      "NumProgressed": 384246,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 89,
@@ -7225,7 +7230,7 @@
       "Name": "Beginner",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 38424
+      "UsersEstimate": 38425
     },
     {
       "ID": "AchievementBridgeBuilder",
@@ -7265,7 +7270,7 @@
       "Name": "Common cause",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 96061
+      "UsersEstimate": 96062
     },
     {
       "ID": "AchievementCriticalCare",
@@ -7273,7 +7278,7 @@
       "Name": "Critical care",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 96061
+      "UsersEstimate": 96062
     },
     {
       "ID": "AchievementDealmaker",
@@ -7281,7 +7286,7 @@
       "Name": "Dealmaker",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 276656
+      "UsersEstimate": 276657
     },
     {
       "ID": "AchievementDigitalAge_NAME",
@@ -7321,7 +7326,7 @@
       "Name": "Forgot something",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 130643
+      "UsersEstimate": 130644
     },
     {
       "ID": "AchievementForgotten",
@@ -7337,7 +7342,7 @@
       "Name": "Full garage",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 230547
+      "UsersEstimate": 230548
     },
     {
       "ID": "AchievementGemologist_NAME",
@@ -7473,7 +7478,7 @@
       "Name": "Mega-railroad",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 88376
+      "UsersEstimate": 88377
     },
     {
       "ID": "AchievementMetroBuilder",
@@ -7585,7 +7590,7 @@
       "Name": "Relocation",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 38424
+      "UsersEstimate": 38425
     },
     {
       "ID": "AchievementSabotage",
@@ -7657,7 +7662,7 @@
       "Name": "The Tortoise",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 46109
+      "UsersEstimate": 46110
     },
     {
       "ID": "AchievementToTheEyeballs",
@@ -7665,7 +7670,7 @@
       "Name": "To the eyeballs!",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 192122
+      "UsersEstimate": 192123
     },
     {
       "ID": "AchievementTourismAge",
@@ -7689,7 +7694,7 @@
       "Name": "Upgrade complete",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 88376
+      "UsersEstimate": 88377
     },
     {
       "ID": "AchievementUrbanizationAge",
@@ -7864,21 +7869,21 @@
     {
       "ID": "55bbbe2",
       "IsBase": false,
-      "Progressed": 383586,
+      "Progressed": 383587,
       "Completed": 10
     },
     {
       "ID": "76o014g",
       "IsBase": true,
-      "Progressed": 384245,
+      "Progressed": 384246,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-08-28T20:00:02.33962+00:00",
-  "LastChanged_Achievements": "2023-08-29T02:48:03.5608312+00:00",
+  "LastChanged_Achievements": "2023-08-29T03:07:15.2612515+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:30.528012+00:00",
-  "LastUpdate_Ratings": "2023-08-29T02:45:33.6606984+00:00",
-  "LastUpdate_Achievements": "2023-08-29T02:48:03.5610003+00:00"
+  "LastUpdate_Ratings": "2023-08-29T03:04:12.5398158+00:00",
+  "LastUpdate_Achievements": "2023-08-29T03:07:15.2613946+00:00"
 }

@@ -1,22 +1,22 @@
 # Rise of Industry
 [Store](https://store.epicgames.com/en-US/p/rise-of-industry-0af838)  
 [View Rawdata](../../db/r/rise_of_industry.json)  
-Rating: 4.23 (Ranked 846)  
+Rating: 4.24 (Ranked 838)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 48.00% | ~349,658 |
-| Well educated | 37.00% | ~269,528 |
-| City Planner | 19.00% | ~138,406 |
-| Deforester | 17.00% | ~123,837 |
-| Big Hauling | 16.00% | ~116,553 |
-| Apprentice Manufacturer | 13.00% | ~94,699 |
-| Exporter | 13.00% | ~94,699 |
-| I would drive 500 tiles... | 12.00% | ~87,414 |
-| Landscaper | 12.00% | ~87,414 |
-| Railwayman | 8.00% | ~58,276 |
-| Penniless | 6.00% | ~43,707 |
-| Massive Gains | 6.00% | ~43,707 |
+| Entrepreneur | 48.00% | ~349,662 |
+| Well educated | 37.00% | ~269,531 |
+| City Planner | 19.00% | ~138,408 |
+| Deforester | 17.00% | ~123,839 |
+| Big Hauling | 16.00% | ~116,554 |
+| Apprentice Manufacturer | 13.00% | ~94,700 |
+| Exporter | 13.00% | ~94,700 |
+| I would drive 500 tiles... | 12.00% | ~87,416 |
+| Landscaper | 12.00% | ~87,416 |
+| Railwayman | 8.00% | ~58,277 |
+| Penniless | 6.00% | ~43,708 |
+| Massive Gains | 6.00% | ~43,708 |
 | Salesman | 3.00% | ~21,854 |
 | Engineer | 2.00% | ~14,569 |
 | High Flyer | 2.00% | ~14,569 |
@@ -33,7 +33,7 @@ Rating: 4.23 (Ranked 846)
 | Master Builder | 0.10% | ~728 |
 | Hard working | 0.10% | ~728 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 728,454 (Ranked 18)  
+Progressed: 728,463 (Ranked 18)  
 Completed: 3 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 3 (0.00%) (Ranked 265)
 | 2023-08-26 | 727,539 | 3 |
 | 2023-08-27 | 728,032 | 3 |
 | 2023-08-28 | 728,412 | 3 |
-| 2023-08-29 | 728,454 | 3 |
+| 2023-08-29 | 728,463 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -207,3 +207,4 @@ Completed: 3 (0.00%) (Ranked 265)
 | 2023-08-18 | 4.23 | 0 | 0 |
 | 2023-08-26 | 4.24 | 0 | 0 |
 | 2023-08-27 | 4.23 | 0 | 0 |
+| 2023-08-29 | 4.24 | 0 | 0 |

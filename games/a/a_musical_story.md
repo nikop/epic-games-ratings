@@ -9,8 +9,8 @@
 | Daily Life | 91.00% | ~86 |
 | Assembly Line Work | 87.00% | ~83 |
 | Solitude | 82.00% | ~78 |
-| Pinewood, Here we come! | 74.00% | ~70 |
-| The Van | 68.00% | ~65 |
+| Pinewood, Here we come! | 75.00% | ~71 |
+| The Van | 69.00% | ~66 |
 | Road-Trip | 61.00% | ~58 |
 | A Musical Pause | 59.00% | ~56 |
 | Briget's | 51.00% | ~48 |
@@ -28,7 +28,7 @@
 | The Clash | 18.00% | ~17 |
 | Dreamers | 18.00% | ~17 |
 | The Fix | 16.00% | ~15 |
-| Time | 13.00% | ~12 |
+| Time | 14.00% | ~13 |
 | The Mountains, The Valleys | 13.00% | ~12 |
 | Regrets | 12.00% | ~11 |
 | Bad Trip | 11.00% | ~10 |

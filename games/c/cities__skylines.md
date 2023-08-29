@@ -6,24 +6,24 @@ Number of Ratings: 25,248  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~719,251 |
-| Green Energy | 60.00% | ~607,817 |
-| Foggy Weather | 59.00% | ~597,687 |
-| Singing In The- | 59.00% | ~597,687 |
-| Unpopular Mayor | 40.00% | ~405,212 |
-| Power at Your Fingertips | 33.00% | ~334,300 |
-| City Planner | 23.00% | ~232,997 |
-| Rolling in Dough | 20.00% | ~202,606 |
-| Does My Bum Look Big In This? | 17.00% | ~172,215 |
-| Climbing the Social Ladder | 16.00% | ~162,085 |
-| Safe City | 14.00% | ~141,824 |
-| Quay-King | 11.00% | ~111,433 |
-| Lawmaker | 10.00% | ~101,303 |
-| With Canals You Can! | 10.00% | ~101,303 |
-| Nomen Est Omen | 7.00% | ~70,912 |
+| Pioneer | 71.00% | ~719,257 |
+| Green Energy | 60.00% | ~607,823 |
+| Foggy Weather | 59.00% | ~597,692 |
+| Singing In The- | 59.00% | ~597,692 |
+| Unpopular Mayor | 40.00% | ~405,215 |
+| Power at Your Fingertips | 33.00% | ~334,303 |
+| City Planner | 23.00% | ~232,999 |
+| Rolling in Dough | 20.00% | ~202,608 |
+| Does My Bum Look Big In This? | 17.00% | ~172,216 |
+| Climbing the Social Ladder | 16.00% | ~162,086 |
+| Safe City | 14.00% | ~141,825 |
+| Quay-King | 11.00% | ~111,434 |
+| Lawmaker | 10.00% | ~101,304 |
+| With Canals You Can! | 10.00% | ~101,304 |
+| Nomen Est Omen | 7.00% | ~70,913 |
 | Well Informed | 6.00% | ~60,782 |
-| Fire Watch | 5.00% | ~50,651 |
-| Greenest City | 4.00% | ~40,521 |
+| Fire Watch | 5.00% | ~50,652 |
+| Greenest City | 4.00% | ~40,522 |
 | Heavenly City | 3.00% | ~30,391 |
 | Reporting! | 3.00% | ~30,391 |
 | SIMulated City | 3.00% | ~30,391 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~1,013 |
 | Z00 | 0.10% | ~1,013 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,013,029 (Ranked 13)  
+Progressed: 1,013,038 (Ranked 13)  
 Completed: 10 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 10 (0.00%) (Ranked 265)
 | 2023-08-26 | 1,008,308 | 10 |
 | 2023-08-27 | 1,010,757 | 10 |
 | 2023-08-28 | 1,012,834 | 10 |
-| 2023-08-29 | 1,013,029 | 10 |
+| 2023-08-29 | 1,013,038 | 10 |
 ## Awards
 Max (Great for Beginners): 5,240  (Ranked 67)  
 Sum: 39,645 (Ranked 31)  

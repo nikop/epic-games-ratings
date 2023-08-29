@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -488,9 +488,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3543,
+  "EOS_Progressed": 3544,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -6288,6 +6288,11 @@
       "Time": "2023-08-29T01:47:29.8147456+00:00",
       "NumProgressed": 3543,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-08-29T03:09:49.8383345+00:00",
+      "NumProgressed": 3544,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 71,
@@ -6299,7 +6304,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -6363,7 +6368,7 @@
       "Name": "Organ Grinder",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -6467,7 +6472,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1417
+      "UsersEstimate": 1418
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -6483,7 +6488,7 @@
       "Name": "Rigged to Blow",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -6507,7 +6512,7 @@
       "Name": "Lord of War",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -6539,7 +6544,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -6547,7 +6552,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1275
+      "UsersEstimate": 1276
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -6555,7 +6560,7 @@
       "Name": "Close Quarters",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -6611,7 +6616,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1169
+      "UsersEstimate": 1170
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -6866,13 +6871,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3494,
+      "Progressed": 3495,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3543,
+      "Progressed": 3544,
       "Completed": 10
     }
   ],
@@ -6880,8 +6885,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-08-28T15:59:25.8745105+00:00",
-  "LastChanged_Achievements": "2023-08-29T02:51:00.2089208+00:00",
+  "LastChanged_Achievements": "2023-08-29T03:09:49.8383339+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:12.9306959+00:00",
-  "LastUpdate_Ratings": "2023-08-29T02:44:51.7399448+00:00",
-  "LastUpdate_Achievements": "2023-08-29T02:51:00.2090342+00:00"
+  "LastUpdate_Ratings": "2023-08-29T03:03:36.4855529+00:00",
+  "LastUpdate_Achievements": "2023-08-29T03:09:49.83844+00:00"
 }

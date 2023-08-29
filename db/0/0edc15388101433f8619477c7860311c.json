@@ -25,9 +25,187 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-08-29T03:07:11.2910815+00:00",
+  "TotalAchievements": 22,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "CarryingDoll",
+      "SetID": "7m88n8p",
+      "Name": "Girl Carrying A Doll",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DatingAttraction",
+      "SetID": "7m88n8p",
+      "Name": "Dating Attraction",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FirstTry",
+      "SetID": "7m88n8p",
+      "Name": "Getting It on the First Try",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HauntingSpecter",
+      "SetID": "7m88n8p",
+      "Name": "Haunting Specter",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HeartHurt",
+      "SetID": "7m88n8p",
+      "Name": "Whose Heart was Never Hurt",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HideAndSeek",
+      "SetID": "7m88n8p",
+      "Name": "Hide-and-Seek Expert",
+      "Percentage": 0,
+      "XP": 65,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HonoraryAlumni",
+      "SetID": "7m88n8p",
+      "Name": "Honorary Alumni of TungHu University",
+      "Percentage": 0,
+      "XP": 145,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "JustCautious",
+      "SetID": "7m88n8p",
+      "Name": "Just Being Cautious",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KarmaEyes",
+      "SetID": "7m88n8p",
+      "Name": "Karma in My Eyes",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Letters",
+      "SetID": "7m88n8p",
+      "Name": "Conveying Love through Letters",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LoveCrawler",
+      "SetID": "7m88n8p",
+      "Name": "Love Crawler",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MoneyCamouflage",
+      "SetID": "7m88n8p",
+      "Name": "Money Camouflage",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MortuaryMarkup",
+      "SetID": "7m88n8p",
+      "Name": "Mortuary Makeup Artist",
+      "Percentage": 0,
+      "XP": 65,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NoOneLeft",
+      "SetID": "7m88n8p",
+      "Name": "No One will be Left Behind",
+      "Percentage": 0,
+      "XP": 110,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Professions",
+      "SetID": "7m88n8p",
+      "Name": "Different People Specialize in Different Professions",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ProtectedPower",
+      "SetID": "7m88n8p",
+      "Name": "Protected by Divine Power",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RoadToSalvation",
+      "SetID": "7m88n8p",
+      "Name": "Road to Salvation",
+      "Percentage": 0,
+      "XP": 110,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SeeNoEvil",
+      "SetID": "7m88n8p",
+      "Name": "See No Evil",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SeeingThrough",
+      "SetID": "7m88n8p",
+      "Name": "Seeing through Vanity",
+      "Percentage": 0,
+      "XP": 65,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TimeManagement",
+      "SetID": "7m88n8p",
+      "Name": "Master of Time Management",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WaitingForSalvation",
+      "SetID": "7m88n8p",
+      "Name": "Waiting for Salvation",
+      "Percentage": 0,
+      "XP": 65,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WhoseChild",
+      "SetID": "7m88n8p",
+      "Name": "Whose Child?",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "7m88n8p",
@@ -37,8 +215,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2023-08-29T02:47:28.4317854+00:00",
+  "LastChanged_Achievements": "2023-08-29T03:07:11.2910794+00:00",
   "LastUpdate_AppInfo": "2023-08-28T03:56:58.9002024+00:00",
-  "LastUpdate_Ratings": "2023-08-29T02:42:03.3373136+00:00",
-  "LastUpdate_Achievements": "2023-08-29T02:47:28.4317889+00:00"
+  "LastUpdate_Ratings": "2023-08-29T03:01:38.6932843+00:00",
+  "LastUpdate_Achievements": "2023-08-29T03:07:11.2924953+00:00"
 }

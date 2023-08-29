@@ -1700,9 +1700,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 56563,
+  "EOS_Progressed": 56564,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 709,
+  "EOS_NewPlayers": 710,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15905,6 +15905,11 @@
       "Time": "2023-08-29T02:49:57.1254565+00:00",
       "NumProgressed": 56563,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-29T03:08:58.3748379+00:00",
+      "NumProgressed": 56564,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -16180,7 +16185,7 @@
       "Name": "Corpseman I",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 22625
+      "UsersEstimate": 22626
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -16380,22 +16385,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 20928
+      "UsersEstimate": 20929
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 56563,
+      "Progressed": 56564,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-08-27T17:02:04.4791714+00:00",
-  "LastChanged_Achievements": "2023-08-29T02:49:57.1254556+00:00",
+  "LastChanged_Achievements": "2023-08-29T03:08:58.374837+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:23.3225006+00:00",
-  "LastUpdate_Ratings": "2023-08-29T02:41:57.1255098+00:00",
-  "LastUpdate_Achievements": "2023-08-29T02:49:57.1256274+00:00"
+  "LastUpdate_Ratings": "2023-08-29T03:01:34.1291903+00:00",
+  "LastUpdate_Achievements": "2023-08-29T03:08:58.3751833+00:00"
 }

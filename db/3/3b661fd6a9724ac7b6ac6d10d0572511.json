@@ -3568,9 +3568,9 @@
       "Count": 785
     }
   ],
-  "EOS_Progressed": 1620195,
+  "EOS_Progressed": 1620218,
   "EOS_Completed": 536,
-  "EOS_NewPlayers": 23659,
+  "EOS_NewPlayers": 23682,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -12993,6 +12993,11 @@
       "Time": "2023-08-29T02:52:54.7189789+00:00",
       "NumProgressed": 1620195,
       "NumCompleted": 536
+    },
+    {
+      "Time": "2023-08-29T03:12:23.1710933+00:00",
+      "NumProgressed": 1620218,
+      "NumCompleted": 536
     }
   ],
   "TotalAchievements": 1328,
@@ -14220,7 +14225,7 @@
       "Name": "I Never Asked for This",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 11341
+      "UsersEstimate": 11342
     },
     {
       "ID": "brooklyn_4",
@@ -21084,7 +21089,7 @@
       "Name": "No Thermal Drill was Harmed During the Heist",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 11341
+      "UsersEstimate": 11342
     },
     {
       "ID": "trk_bc_1",
@@ -23627,13 +23632,13 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1620195,
+      "Progressed": 1620218,
       "Completed": 536
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1620195,
+      "Progressed": 1620218,
       "Completed": 36
     }
   ],
@@ -23641,8 +23646,8 @@
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
   "LastChanged": "2023-08-28T23:59:52.4326039+00:00",
-  "LastChanged_Achievements": "2023-08-29T02:52:54.7189784+00:00",
+  "LastChanged_Achievements": "2023-08-29T03:12:23.1710926+00:00",
   "LastUpdate_AppInfo": "2023-08-24T21:57:13.1571019+00:00",
-  "LastUpdate_Ratings": "2023-08-29T02:45:16.8930056+00:00",
-  "LastUpdate_Achievements": "2023-08-29T02:52:54.7382411+00:00"
+  "LastUpdate_Ratings": "2023-08-29T03:03:59.4207548+00:00",
+  "LastUpdate_Achievements": "2023-08-29T03:12:23.1867603+00:00"
 }

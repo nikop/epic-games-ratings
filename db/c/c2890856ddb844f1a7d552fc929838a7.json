@@ -603,9 +603,9 @@
       "ID": "AC07",
       "SetID": "l4abp0",
       "Name": "The Sea dies on the Shore",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 153
+      "UsersEstimate": 159
     },
     {
       "ID": "AC08",
@@ -922,8 +922,8 @@
   ],
   "FirstSeen": "2023-07-26T07:57:19.1818171+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
-  "LastChanged_Achievements": "2023-08-29T02:50:51.7394285+00:00",
+  "LastChanged_Achievements": "2023-08-29T03:09:43.2020923+00:00",
   "LastUpdate_AppInfo": "2023-08-22T18:57:00.5189311+00:00",
-  "LastUpdate_Ratings": "2023-08-29T02:44:37.2585896+00:00",
-  "LastUpdate_Achievements": "2023-08-29T02:50:51.7394841+00:00"
+  "LastUpdate_Ratings": "2023-08-29T03:03:22.4566091+00:00",
+  "LastUpdate_Achievements": "2023-08-29T03:09:43.2021358+00:00"
 }

@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~62 |
 | No Punctuation | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,899 (Ranked 87)  
+Progressed: 61,900 (Ranked 87)  
 Completed: 65 (0.11%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 65 (0.11%) (Ranked 210)
 | 2023-08-26 | 61,726 | 65 |
 | 2023-08-27 | 61,821 | 65 |
 | 2023-08-28 | 61,891 | 65 |
-| 2023-08-29 | 61,899 | 65 |
+| 2023-08-29 | 61,900 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

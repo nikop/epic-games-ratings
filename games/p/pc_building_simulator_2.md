@@ -5,27 +5,27 @@ Rating: 4.61 (Ranked 367)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bootstrapping | 67.00% | ~148,174 |
-| Shine On | 62.00% | ~137,116 |
+| Bootstrapping | 67.00% | ~148,175 |
+| Shine On | 62.00% | ~137,117 |
 | On the Job | 61.00% | ~134,905 |
-| Get Stuck In | 59.00% | ~130,481 |
-| Room for Expansion | 59.00% | ~130,481 |
+| Get Stuck In | 59.00% | ~130,482 |
+| Room for Expansion | 59.00% | ~130,482 |
 | Chill Out | 58.00% | ~128,270 |
-| Sales Pitch | 57.00% | ~126,058 |
+| Sales Pitch | 57.00% | ~126,059 |
 | Grand Designs | 54.00% | ~119,424 |
-| Tinker | 53.00% | ~117,212 |
+| Tinker | 53.00% | ~117,213 |
 | Hot Stuff | 50.00% | ~110,578 |
-| MOAR RGB | 46.00% | ~101,731 |
-| Dream Theme | 39.00% | ~86,250 |
+| MOAR RGB | 46.00% | ~101,732 |
+| Dream Theme | 39.00% | ~86,251 |
 | The Customer is King | 38.00% | ~84,039 |
-| Working Hard | 37.00% | ~81,827 |
+| Working Hard | 37.00% | ~81,828 |
 | On the Bench | 36.00% | ~79,616 |
-| The More the Merrier | 35.00% | ~77,404 |
+| The More the Merrier | 35.00% | ~77,405 |
 | Mix and Match | 32.00% | ~70,770 |
 | Foot in the Door | 32.00% | ~70,770 |
 | Recycler | 32.00% | ~70,770 |
 | Very Imported PC | 31.00% | ~68,558 |
-| Full Throttle | 30.00% | ~66,346 |
+| Full Throttle | 30.00% | ~66,347 |
 | Pimp My Rig | 27.00% | ~59,712 |
 | Repair Master | 27.00% | ~59,712 |
 | Local Hero | 24.00% | ~53,077 |
@@ -38,10 +38,10 @@ Rating: 4.61 (Ranked 367)
 | On the Ladder | 20.00% | ~44,231 |
 | Cinematic | 20.00% | ~44,231 |
 | Stick With It | 20.00% | ~44,231 |
-| Variations on a Theme | 19.00% | ~42,019 |
-| Cowboy | 19.00% | ~42,019 |
-| Slap Happy | 19.00% | ~42,019 |
-| Supercool | 17.00% | ~37,596 |
+| Variations on a Theme | 19.00% | ~42,020 |
+| Cowboy | 19.00% | ~42,020 |
+| Slap Happy | 19.00% | ~42,020 |
+| Supercool | 17.00% | ~37,597 |
 | Stabiliser | 16.00% | ~35,385 |
 | Paste Not, Want Not | 15.00% | ~33,173 |
 | This One Goes to 11 | 15.00% | ~33,173 |
@@ -65,7 +65,7 @@ Rating: 4.61 (Ranked 367)
 | Keep 'Em Coming | 0.30% | ~663 |
 | Export Expert | 0.20% | ~442 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221,155 (Ranked 55)  
+Progressed: 221,156 (Ranked 55)  
 Completed: 133 (0.06%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,15 +196,15 @@ Completed: 133 (0.06%) (Ranked 227)
 | 2023-08-26 | 220,268 | 133 |
 | 2023-08-27 | 220,713 | 133 |
 | 2023-08-28 | 221,091 | 133 |
-| 2023-08-29 | 221,155 | 133 |
+| 2023-08-29 | 221,156 | 133 |
 ## Awards
 Max (Great for Beginners): 676  (Ranked 171)  
-Sum: 4,909 (Ranked 131)  
+Sum: 4,910 (Ranked 131)  
 Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 676 |
-| This game is Relaxing | 622 |
+| This game is Relaxing | 623 |
 | This game is Educational | 609 |
 | This game has Quickly Understood Controls | 583 |
 | This game is Extremely Fun | 579 |
@@ -372,4 +372,4 @@ Diff (max vs sum): 40
 | 2023-08-26 | 4.61 | 676 | 4,897 |
 | 2023-08-27 | 4.61 | 676 | 4,904 |
 | 2023-08-28 | 4.61 | 676 | 4,908 |
-| 2023-08-29 | 4.61 | 676 | 4,909 |
+| 2023-08-29 | 4.61 | 676 | 4,910 |
