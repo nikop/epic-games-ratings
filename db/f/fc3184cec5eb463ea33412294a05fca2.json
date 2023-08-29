@@ -4,7 +4,7 @@
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 43,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
@@ -995,9 +995,9 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "8d3ci0",
       "Name": "High-rise",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 135
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -1051,9 +1051,9 @@
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "8d3ci0",
       "Name": "Private pool",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 141
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -1067,17 +1067,17 @@
       "ID": "NEW_ACHIEVEMENT_1_8",
       "SetID": "8d3ci0",
       "Name": "On fire",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 60,
-      "UsersEstimate": 68
+      "UsersEstimate": 71
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
       "SetID": "8d3ci0",
       "Name": "Watery help",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     }
   ],
   "AchievementSets": [
@@ -1090,8 +1090,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-08-29T00:05:13.1904231+00:00",
+  "LastChanged_Achievements": "2023-08-29T01:46:50.8301663+00:00",
   "LastUpdate_AppInfo": "2023-08-26T16:57:08.4997824+00:00",
-  "LastUpdate_Ratings": "2023-08-28T23:59:31.8489085+00:00",
-  "LastUpdate_Achievements": "2023-08-29T00:05:13.1904372+00:00"
+  "LastUpdate_Ratings": "2023-08-29T01:41:35.0950171+00:00",
+  "LastUpdate_Achievements": "2023-08-29T01:46:50.830182+00:00"
 }

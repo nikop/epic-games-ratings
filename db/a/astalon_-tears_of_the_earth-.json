@@ -227,9 +227,9 @@
       "ID": "Complete_Bestiary_20",
       "SetID": "4f0g260",
       "Name": "Beast Quest",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Complete_Bestiary_50",
@@ -364,8 +364,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6585967+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.3708214+00:00",
   "LastChanged": "2023-03-31T05:57:06.6585968+00:00",
-  "LastChanged_Achievements": "2023-08-29T00:04:58.6311023+00:00",
+  "LastChanged_Achievements": "2023-08-29T01:46:33.0600497+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:09.1129898+00:00",
-  "LastUpdate_Ratings": "2023-08-28T23:57:07.6529481+00:00",
-  "LastUpdate_Achievements": "2023-08-29T00:04:58.63112+00:00"
+  "LastUpdate_Ratings": "2023-08-29T01:38:29.8304444+00:00",
+  "LastUpdate_Achievements": "2023-08-29T01:46:33.0600731+00:00"
 }

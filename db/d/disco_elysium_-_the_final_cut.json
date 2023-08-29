@@ -1283,7 +1283,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 126929,
+  "EOS_Progressed": 126931,
   "EOS_Completed": 27,
   "EOS_NewPlayers": 320,
   "EOS_NewCompleters": 0,
@@ -14293,6 +14293,11 @@
       "Time": "2023-08-29T00:06:15.5426851+00:00",
       "NumProgressed": 126929,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-08-29T01:48:08.3624272+00:00",
+      "NumProgressed": 126931,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -14336,7 +14341,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 22847
+      "UsersEstimate": 22848
     },
     {
       "ID": "ACH_COP_BAD",
@@ -14384,7 +14389,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 35540
+      "UsersEstimate": 35541
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -14623,15 +14628,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 126929,
+      "Progressed": 126931,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-08-22T19:02:11.687919+00:00",
-  "LastChanged_Achievements": "2023-08-29T00:06:15.5426847+00:00",
+  "LastChanged_Achievements": "2023-08-29T01:48:08.3624265+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:42.7736481+00:00",
-  "LastUpdate_Ratings": "2023-08-28T23:57:50.8483169+00:00",
-  "LastUpdate_Achievements": "2023-08-29T00:06:15.5427728+00:00"
+  "LastUpdate_Ratings": "2023-08-29T01:39:22.6258344+00:00",
+  "LastUpdate_Achievements": "2023-08-29T01:48:08.3625453+00:00"
 }

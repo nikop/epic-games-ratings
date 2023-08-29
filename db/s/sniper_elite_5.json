@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -488,9 +488,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3542,
+  "EOS_Progressed": 3543,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -6283,6 +6283,11 @@
       "Time": "2023-08-28T21:25:28.4113253+00:00",
       "NumProgressed": 3542,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-08-29T01:47:29.8147456+00:00",
+      "NumProgressed": 3543,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 71,
@@ -6318,7 +6323,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -6326,7 +6331,7 @@
       "Name": "Opposing Force",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -6334,7 +6339,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -6374,7 +6379,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1629
+      "UsersEstimate": 1630
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -6422,7 +6427,7 @@
       "Name": "Skirmisher",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -6662,7 +6667,7 @@
       "Name": "Taking it back",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -6861,13 +6866,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3493,
+      "Progressed": 3494,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3542,
+      "Progressed": 3543,
       "Completed": 10
     }
   ],
@@ -6875,8 +6880,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-08-28T15:59:25.8745105+00:00",
-  "LastChanged_Achievements": "2023-08-29T00:05:44.7310577+00:00",
+  "LastChanged_Achievements": "2023-08-29T01:47:29.814745+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:12.9306959+00:00",
-  "LastUpdate_Ratings": "2023-08-28T23:59:31.0629798+00:00",
-  "LastUpdate_Achievements": "2023-08-29T00:05:44.7311408+00:00"
+  "LastUpdate_Ratings": "2023-08-29T01:41:34.1288654+00:00",
+  "LastUpdate_Achievements": "2023-08-29T01:47:29.8148573+00:00"
 }

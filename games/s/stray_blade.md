@@ -15,8 +15,8 @@
 | The Golden Flash | 13.00% | ~7 |
 | The Power of the Mountains | 13.00% | ~7 |
 | Searing Heat | 12.00% | ~6 |
+| Expert | 12.00% | ~6 |
 | Nothing but the Truth | 10.00% | ~5 |
-| Expert | 10.00% | ~5 |
 | Changing the World | 10.00% | ~5 |
 | Craftsmen | 8.00% | ~4 |
 | Bringing guns to a sword fight | 8.00% | ~4 |

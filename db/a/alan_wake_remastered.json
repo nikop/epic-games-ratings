@@ -2,7 +2,7 @@
   "ID": "2e92a78949e2474aa89271b8b893f3b0",
   "Name": "Alan Wake Remastered",
   "ProductSlug": "alan-wake-remastered",
-  "Ranking_Rating": 489,
+  "Ranking_Rating": 488,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 87,
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 61892,
+  "EOS_Progressed": 61893,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 612,
+  "EOS_NewPlayers": 608,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -12747,6 +12747,11 @@
       "Time": "2023-08-29T00:03:15.9121897+00:00",
       "NumProgressed": 61892,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-08-29T01:44:08.0386189+00:00",
+      "NumProgressed": 61893,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -12790,7 +12795,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 12378
+      "UsersEstimate": 12379
     },
     {
       "ID": "06",
@@ -12886,7 +12891,7 @@
       "Name": "Departure",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4332
+      "UsersEstimate": 4333
     },
     {
       "ID": "18",
@@ -13293,21 +13298,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 61892,
+      "Progressed": 61893,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 25360,
+      "Progressed": 25361,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-29T00:03:15.9121894+00:00",
+  "LastChanged_Achievements": "2023-08-29T01:44:08.0386184+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:21.2068954+00:00",
-  "LastUpdate_Ratings": "2023-08-29T00:00:23.2970274+00:00",
-  "LastUpdate_Achievements": "2023-08-29T00:03:15.9123038+00:00"
+  "LastUpdate_Ratings": "2023-08-29T01:42:42.2058375+00:00",
+  "LastUpdate_Achievements": "2023-08-29T01:44:08.0387794+00:00"
 }

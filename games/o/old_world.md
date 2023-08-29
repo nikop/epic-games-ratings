@@ -6,10 +6,10 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 4.00% | ~545 |
-| Settler | 4.00% | ~545 |
-| Play a Single Player Game | 4.00% | ~545 |
-| The Clergy | 4.00% | ~545 |
+| Explorer | 4.00% | ~546 |
+| Settler | 4.00% | ~546 |
+| Play a Single Player Game | 4.00% | ~546 |
+| The Clergy | 4.00% | ~546 |
 | Able | 3.00% | ~409 |
 | Architect | 3.00% | ~409 |
 | Intrepid | 3.00% | ~409 |
@@ -116,7 +116,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Single Player Game | 0.70% | ~95 |
 | Bad Heir Day | 0.60% | ~82 |
 | Devout | 0.60% | ~82 |
-| Hunters | 0.60% | ~82 |
 | Landowners | 0.60% | ~82 |
 | Riders | 0.60% | ~82 |
 | Adur Burzen-Mihr | 0.60% | ~82 |
@@ -124,15 +123,16 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage | 0.60% | ~82 |
 | Enlightenment | 0.60% | ~82 |
 | Gnosticism | 0.60% | ~82 |
-| Kushite Cavalry | 0.60% | ~82 |
 | Ishtar Gate in Babylon | 0.50% | ~68 |
 | Old | 0.50% | ~68 |
 | Strong Difficulty | 0.50% | ~68 |
 | Clerics | 0.50% | ~68 |
+| Hunters | 0.50% | ~68 |
 | Learn to Play 4 | 0.50% | ~68 |
 | Rome | 0.50% | ~68 |
 | One True Faith | 0.50% | ~68 |
 | Hittite Paganism | 0.50% | ~68 |
+| Kushite Cavalry | 0.50% | ~68 |
 | Turreted Elephant | 0.50% | ~68 |
 | No Undo | 0.50% | ~68 |
 | Carthage - Ox Hide | 0.40% | ~55 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,636 (Ranked 119)  
+Progressed: 13,638 (Ranked 119)  
 Completed: 5 (0.04%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -434,7 +434,7 @@ Completed: 5 (0.04%) (Ranked 235)
 | 2023-08-26 | 13,590 | 5 |
 | 2023-08-27 | 13,616 | 5 |
 | 2023-08-28 | 13,635 | 5 |
-| 2023-08-29 | 13,636 | 5 |
+| 2023-08-29 | 13,638 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,799 (Ranked 208)  

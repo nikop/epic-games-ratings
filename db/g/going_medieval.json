@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 239,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1240,7 +1240,7 @@
   ],
   "EOS_Progressed": 5549,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -8583,9 +8583,9 @@
       "ID": "SURVIVE_FIRST_SUMMER",
       "SetID": "5349c2e",
       "Name": "Heating Up",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1609
+      "UsersEstimate": 1665
     },
     {
       "ID": "SURVIVE_FIRST_WINTER",
@@ -8663,8 +8663,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-08-28T07:58:19.6028177+00:00",
-  "LastChanged_Achievements": "2023-08-29T00:06:19.6248046+00:00",
+  "LastChanged_Achievements": "2023-08-29T01:48:13.1558251+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:12.2448584+00:00",
-  "LastUpdate_Ratings": "2023-08-28T23:58:20.4385547+00:00",
-  "LastUpdate_Achievements": "2023-08-29T00:06:19.6248571+00:00"
+  "LastUpdate_Ratings": "2023-08-29T01:40:03.0585723+00:00",
+  "LastUpdate_Achievements": "2023-08-29T01:48:13.1559007+00:00"
 }

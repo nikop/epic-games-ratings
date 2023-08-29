@@ -2478,10 +2478,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4201,
       "NumberOfAwardsMax": 2524
+    },
+    {
+      "Time": "2023-08-29T01:40:13.8908096+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4202,
+      "NumberOfAwardsMax": 2524
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4201,
+  "NumberOfAwards": 4202,
   "NumberOfAwardsMax": 2524,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2531,7 +2537,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 216
+      "Count": 217
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2546,9 +2552,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 68093,
+  "EOS_Progressed": 68094,
   "EOS_Completed": 109,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -13416,6 +13422,11 @@
       "Time": "2023-08-28T22:08:15.6988524+00:00",
       "NumProgressed": 68093,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2023-08-29T01:49:22.9271887+00:00",
+      "NumProgressed": 68094,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 61,
@@ -13475,7 +13486,7 @@
       "Name": "The Batman Family",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 14980
+      "UsersEstimate": 14981
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -13739,7 +13750,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 17023
+      "UsersEstimate": 17024
     },
     {
       "ID": "HARLEY_3",
@@ -13771,7 +13782,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 34046
+      "UsersEstimate": 34047
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -13827,7 +13838,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 17023
+      "UsersEstimate": 17024
     },
     {
       "ID": "MYSTERY_03",
@@ -13835,7 +13846,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 14980
+      "UsersEstimate": 14981
     },
     {
       "ID": "MYSTERY_04",
@@ -13914,22 +13925,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 68093,
+      "Progressed": 68094,
       "Completed": 109
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38373,
+      "Progressed": 38374,
       "Completed": 2660
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-08-28T15:58:18.9461279+00:00",
-  "LastChanged_Achievements": "2023-08-29T00:08:09.265595+00:00",
+  "LastChanged": "2023-08-29T01:40:13.8908095+00:00",
+  "LastChanged_Achievements": "2023-08-29T01:49:22.927188+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:22.0819335+00:00",
-  "LastUpdate_Ratings": "2023-08-28T23:58:26.2730648+00:00",
-  "LastUpdate_Achievements": "2023-08-29T00:08:09.2656903+00:00"
+  "LastUpdate_Ratings": "2023-08-29T01:40:13.8908106+00:00",
+  "LastUpdate_Achievements": "2023-08-29T01:49:22.9273196+00:00"
 }

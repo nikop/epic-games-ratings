@@ -4,7 +4,7 @@
   "ProductSlug": "blasphemous-2",
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 78,
+  "Ranking_EOS_NewPlayers": 77,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 528,
+  "EOS_Progressed": 529,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 527,
+  "EOS_NewPlayers": 528,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -532,6 +532,11 @@
       "Time": "2023-08-28T23:05:34.123052+00:00",
       "NumProgressed": 528,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-29T01:47:21.5105832+00:00",
+      "NumProgressed": 529,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -552,7 +557,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "AC02",
@@ -566,17 +571,17 @@
       "ID": "AC03",
       "SetID": "l4abp0",
       "Name": "Blood and Gold",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 275
+      "UsersEstimate": 280
     },
     {
       "ID": "AC04",
       "SetID": "l4abp0",
       "Name": "Blood and Iron",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 253
+      "UsersEstimate": 259
     },
     {
       "ID": "AC05",
@@ -584,7 +589,7 @@
       "Name": "The Sharpest Tool in the Shed",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "AC06",
@@ -606,9 +611,9 @@
       "ID": "AC08",
       "SetID": "l4abp0",
       "Name": "Forged in Fire",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 132
+      "UsersEstimate": 138
     },
     {
       "ID": "AC09",
@@ -646,9 +651,9 @@
       "ID": "AC13",
       "SetID": "l4abp0",
       "Name": "Second Psalm.",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 58
+      "UsersEstimate": 63
     },
     {
       "ID": "AC14",
@@ -688,7 +693,7 @@
       "Name": "Acquired Taste",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "AC19",
@@ -696,7 +701,7 @@
       "Name": "Soledad",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "AC20",
@@ -720,7 +725,7 @@
       "Name": "Empty Handed",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "AC23",
@@ -750,9 +755,9 @@
       "ID": "AC26",
       "SetID": "l4abp0",
       "Name": "A Leap of Faith",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 69
+      "UsersEstimate": 74
     },
     {
       "ID": "AC27",
@@ -768,7 +773,7 @@
       "Name": "The Punished One",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "AC29",
@@ -798,9 +803,9 @@
       "ID": "AC32",
       "SetID": "l4abp0",
       "Name": "Nobody Expects the Spanish Inquisition!",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 79
     },
     {
       "ID": "AC33",
@@ -864,7 +869,7 @@
       "Name": "Welcome Back!",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "AC41",
@@ -888,7 +893,7 @@
       "Name": "The Finest Craftmanship",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "AC44",
@@ -911,14 +916,14 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 528,
+      "Progressed": 529,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-26T07:57:19.1818171+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
-  "LastChanged_Achievements": "2023-08-29T00:05:38.0869227+00:00",
+  "LastChanged_Achievements": "2023-08-29T01:47:21.5105821+00:00",
   "LastUpdate_AppInfo": "2023-08-22T18:57:00.5189311+00:00",
-  "LastUpdate_Ratings": "2023-08-28T23:59:19.7691354+00:00",
-  "LastUpdate_Achievements": "2023-08-29T00:05:38.0869545+00:00"
+  "LastUpdate_Ratings": "2023-08-29T01:41:19.7123616+00:00",
+  "LastUpdate_Achievements": "2023-08-29T01:47:21.510626+00:00"
 }

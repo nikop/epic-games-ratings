@@ -381,9 +381,9 @@
       "ID": "digTreasure1",
       "SetID": "ci65fo0",
       "Name": "The first treasure",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "digTreasure10",
@@ -445,9 +445,9 @@
       "ID": "interactBerry10",
       "SetID": "ci65fo0",
       "Name": "Gourmand",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "interactChest10",
@@ -517,9 +517,9 @@
       "ID": "killGolem10",
       "SetID": "ci65fo0",
       "Name": "Golems Fighter",
-      "Percentage": 55,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 43
     },
     {
       "ID": "killGrave10",
@@ -621,9 +621,9 @@
       "ID": "locBanditBoss",
       "SetID": "ci65fo0",
       "Name": "The Reds camp",
-      "Percentage": 36,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 29
     },
     {
       "ID": "locCompDungeon10",
@@ -645,9 +645,9 @@
       "ID": "locDungeon1",
       "SetID": "ci65fo0",
       "Name": "The first dungeon",
-      "Percentage": 63,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 49
     },
     {
       "ID": "locDungeon2",
@@ -677,9 +677,9 @@
       "ID": "locSmith",
       "SetID": "ci65fo0",
       "Name": "The second friend",
-      "Percentage": 63,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 49
     },
     {
       "ID": "locWorker",
@@ -781,9 +781,9 @@
       "ID": "questDefender",
       "SetID": "ci65fo0",
       "Name": "Defender",
-      "Percentage": 36,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 29
     },
     {
       "ID": "questDetective",
@@ -861,9 +861,9 @@
       "ID": "questRedsBoss",
       "SetID": "ci65fo0",
       "Name": "The conqueror of the Reds",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "questReturnSun",
@@ -970,8 +970,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-08-29T00:04:46.1247279+00:00",
+  "LastChanged_Achievements": "2023-08-29T01:46:17.5554153+00:00",
   "LastUpdate_AppInfo": "2023-08-23T13:00:58.7449343+00:00",
-  "LastUpdate_Ratings": "2023-08-28T23:59:36.2732636+00:00",
-  "LastUpdate_Achievements": "2023-08-29T00:04:46.124792+00:00"
+  "LastUpdate_Ratings": "2023-08-29T01:41:39.8356095+00:00",
+  "LastUpdate_Achievements": "2023-08-29T01:46:17.5554886+00:00"
 }
