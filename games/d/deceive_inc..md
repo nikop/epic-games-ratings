@@ -5,7 +5,7 @@ Rating: 4.57 (Ranked 450)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 29.00% | ~5,139 |
+| On Deceive Inc.'s Secret Service | 29.00% | ~5,140 |
 | Mainframe Hacker | 23.00% | ~4,076 |
 | The Spy who eliminated me | 23.00% | ~4,076 |
 | Tomorrow Never Dyes | 22.00% | ~3,899 |
@@ -21,9 +21,9 @@ Rating: 4.57 (Ranked 450)
 | Private Collection | 12.00% | ~2,127 |
 | Hostile Takeover | 12.00% | ~2,127 |
 | Smells Like Trouble | 12.00% | ~2,127 |
-| Dr. No Kill | 11.00% | ~1,949 |
-| My Motto, My Creed | 11.00% | ~1,949 |
-| Killer Looks | 11.00% | ~1,949 |
+| Dr. No Kill | 11.00% | ~1,950 |
+| My Motto, My Creed | 11.00% | ~1,950 |
+| Killer Looks | 11.00% | ~1,950 |
 | Keycards Royale | 10.00% | ~1,772 |
 | In It to Win It | 10.00% | ~1,772 |
 | Security Supervisor | 6.00% | ~1,063 |
@@ -42,7 +42,7 @@ Rating: 4.57 (Ranked 450)
 | Extraction Confusion | 0.20% | ~35 |
 | Spyfall | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,722 (Ranked 111)  
+Progressed: 17,723 (Ranked 111)  
 Completed: 1 (0.01%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,6 +173,7 @@ Completed: 1 (0.01%) (Ranked 252)
 | 2023-08-26 | 17,681 | 1 |
 | 2023-08-27 | 17,704 | 1 |
 | 2023-08-28 | 17,722 | 1 |
+| 2023-08-29 | 17,723 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

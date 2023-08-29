@@ -2,7 +2,7 @@
   "ID": "810797d6d1c640068ce75d45b85d2423",
   "Name": "It\u0027s a Wrap!",
   "ProductSlug": "its-a-wrap-f392ae",
-  "Ranking_EOS_Progress": 398,
+  "Ranking_EOS_Progress": 397,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 103,
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 37,
+  "EOS_Progressed": 39,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -171,6 +171,11 @@
       "Time": "2023-08-28T22:07:39.020885+00:00",
       "NumProgressed": 37,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-29T00:07:06.7216586+00:00",
+      "NumProgressed": 39,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-23T18:07:41.5840272+00:00",
@@ -181,7 +186,7 @@
       "ID": "1_10_SECRET",
       "SetID": "2l1dk5b",
       "Name": "Under the Bridge",
-      "Percentage": 78,
+      "Percentage": 74,
       "XP": 25,
       "UsersEstimate": 29
     },
@@ -269,7 +274,7 @@
       "ID": "MOV1_FINISH",
       "SetID": "2l1dk5b",
       "Name": "Treasure Hunter",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 100,
       "UsersEstimate": 4
     },
@@ -294,14 +299,14 @@
     {
       "ID": "2l1dk5b",
       "IsBase": true,
-      "Progressed": 37,
+      "Progressed": 39,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-25T08:57:40.9970991+00:00",
   "FirstSeenAchievements": "2023-08-01T21:04:35.2343064+00:00",
-  "LastChanged_Achievements": "2023-08-28T23:07:14.0239632+00:00",
+  "LastChanged_Achievements": "2023-08-29T00:07:06.7216583+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:00.6888694+00:00",
-  "LastUpdate_Ratings": "2023-08-28T22:58:12.2236736+00:00",
-  "LastUpdate_Achievements": "2023-08-28T23:07:14.0239753+00:00"
+  "LastUpdate_Ratings": "2023-08-28T23:58:06.2149072+00:00",
+  "LastUpdate_Achievements": "2023-08-29T00:07:06.7216691+00:00"
 }

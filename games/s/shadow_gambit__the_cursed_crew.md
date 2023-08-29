@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A New Journey | 73.00% | ~388 |
-| The Adventure Begins | 55.00% | ~293 |
+| The Adventure Begins | 56.00% | ~298 |
 | Swabbie | 40.00% | ~213 |
 | With Great Power… | 39.00% | ~207 |
 | This Belongs in a Museum | 35.00% | ~186 |
@@ -20,9 +20,9 @@
 | Seadog | 11.00% | ~59 |
 | Jaded Judge | 9.00% | ~48 |
 | All Good Things | 8.00% | ~43 |
+| Tobacco Travesty | 7.00% | ~37 |
 | Rustic Recipe | 7.00% | ~37 |
 | Privateer | 6.00% | ~32 |
-| Tobacco Travesty | 6.00% | ~32 |
 | Accursed Artifacts | 6.00% | ~32 |
 | Lyrical Longing | 6.00% | ~32 |
 | Corsair | 3.00% | ~16 |

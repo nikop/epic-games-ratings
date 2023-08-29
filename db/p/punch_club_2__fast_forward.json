@@ -4,7 +4,7 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 77,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -1128,9 +1128,9 @@
       "ID": "fight_win_1",
       "SetID": "69co12a",
       "Name": "First winning",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 227
     },
     {
       "ID": "fight_win_10",
@@ -1160,9 +1160,9 @@
       "ID": "first_job",
       "SetID": "69co12a",
       "Name": "Your first job",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 225
     },
     {
       "ID": "flash_bobo",
@@ -1216,9 +1216,9 @@
       "ID": "gpp_chip",
       "SetID": "69co12a",
       "Name": "Good Person Chip",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 230
+      "UsersEstimate": 233
     },
     {
       "ID": "hack_device",
@@ -1551,8 +1551,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-08-28T23:06:32.7655887+00:00",
+  "LastChanged_Achievements": "2023-08-29T00:06:25.3828635+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:28.4384167+00:00",
-  "LastUpdate_Ratings": "2023-08-28T23:00:33.0424663+00:00",
-  "LastUpdate_Achievements": "2023-08-28T23:06:32.7656621+00:00"
+  "LastUpdate_Ratings": "2023-08-29T00:00:08.5735456+00:00",
+  "LastUpdate_Achievements": "2023-08-29T00:06:25.3829172+00:00"
 }

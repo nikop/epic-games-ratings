@@ -4,7 +4,7 @@
   "ProductSlug": "the-entropy-centre-40bccd",
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewPlayers": 293,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -866,9 +866,9 @@
       "ID": "ACH_ACT12",
       "SetID": "2310cb1",
       "Name": "Kaboom!",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_ACT13",
@@ -1067,8 +1067,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-08-28T23:04:40.6512591+00:00",
+  "LastChanged_Achievements": "2023-08-29T00:04:44.8083843+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:31.2998477+00:00",
-  "LastUpdate_Ratings": "2023-08-28T23:00:34.9527807+00:00",
-  "LastUpdate_Achievements": "2023-08-28T23:04:40.6512852+00:00"
+  "LastUpdate_Ratings": "2023-08-29T00:00:11.015494+00:00",
+  "LastUpdate_Achievements": "2023-08-29T00:04:44.808404+00:00"
 }

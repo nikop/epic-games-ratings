@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 574,
+  "EOS_Progressed": 577,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -2046,6 +2046,11 @@
       "Time": "2023-08-28T23:04:37.5591876+00:00",
       "NumProgressed": 574,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-29T00:04:41.7656717+00:00",
+      "NumProgressed": 577,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2073,7 +2078,7 @@
       "Name": "Basic Controls",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 333
+      "UsersEstimate": 335
     },
     {
       "ID": "BigPlane",
@@ -2081,7 +2086,7 @@
       "Name": "Expensive Plane",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "BudgetFlight",
@@ -2089,7 +2094,7 @@
       "Name": "Budget Flight",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "Calculated",
@@ -2097,7 +2102,7 @@
       "Name": "Calculated",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "Close",
@@ -2113,7 +2118,7 @@
       "Name": "Creator",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Debtor",
@@ -2137,7 +2142,7 @@
       "Name": "Experienced Manager",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Fifty",
@@ -2145,7 +2150,7 @@
       "Name": "Fifty",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "First",
@@ -2153,7 +2158,7 @@
       "Name": "Game Started",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "FullCompletion",
@@ -2193,7 +2198,7 @@
       "Name": "Large Airport",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "LargeTerritories",
@@ -2225,7 +2230,7 @@
       "Name": "Long Distances",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ManagementMaster",
@@ -2241,7 +2246,7 @@
       "Name": "Maximum Upgrade",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "Millionaire",
@@ -2257,7 +2262,7 @@
       "Name": "New Record",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "NoTimeForModernization",
@@ -2273,15 +2278,15 @@
       "Name": "No Way Back",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "NotPlanned",
       "SetID": "1e89b4i",
       "Name": "This Wasn\u0027t Part of the Plan...",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 103
+      "UsersEstimate": 110
     },
     {
       "ID": "Ownway",
@@ -2329,7 +2334,7 @@
       "Name": "Resource Economy",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "Restructuring",
@@ -2377,7 +2382,7 @@
       "Name": "Time for Management",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "TransportHub",
@@ -2385,21 +2390,21 @@
       "Name": "Transport Hub",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 574,
+      "Progressed": 577,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-08-28T23:04:37.5591869+00:00",
+  "LastChanged_Achievements": "2023-08-29T00:04:41.7656713+00:00",
   "LastUpdate_AppInfo": "2023-08-22T10:56:57.2309265+00:00",
-  "LastUpdate_Ratings": "2023-08-28T22:59:59.8451104+00:00",
-  "LastUpdate_Achievements": "2023-08-28T23:04:37.5592323+00:00"
+  "LastUpdate_Ratings": "2023-08-28T23:59:38.6029687+00:00",
+  "LastUpdate_Achievements": "2023-08-29T00:04:41.76571+00:00"
 }

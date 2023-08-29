@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -6790,10 +6790,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 41680,
       "NumberOfAwardsMax": 21990
+    },
+    {
+      "Time": "2023-08-29T00:00:08.5145399+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 41694,
+      "NumberOfAwardsMax": 21990
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 41680,
+  "NumberOfAwards": 41694,
   "NumberOfAwardsMax": 21990,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6807,7 +6813,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 10702
+      "Count": 10716
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -6870,9 +6876,9 @@
       "Count": 606
     }
   ],
-  "EOS_Progressed": 291008,
+  "EOS_Progressed": 291011,
   "EOS_Completed": 456,
-  "EOS_NewPlayers": 430,
+  "EOS_NewPlayers": 426,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -20920,6 +20926,11 @@
       "Time": "2023-08-28T23:03:45.8709523+00:00",
       "NumProgressed": 291008,
       "NumCompleted": 456
+    },
+    {
+      "Time": "2023-08-29T00:04:01.1069356+00:00",
+      "NumProgressed": 291011,
+      "NumCompleted": 456
     }
   ],
   "TotalAchievements": 45,
@@ -20971,7 +20982,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 5,
       "XP": 70,
-      "UsersEstimate": 14550
+      "UsersEstimate": 14551
     },
     {
       "ID": "PFA_15",
@@ -21067,7 +21078,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14550
+      "UsersEstimate": 14551
     },
     {
       "ID": "PFA_26",
@@ -21099,7 +21110,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14550
+      "UsersEstimate": 14551
     },
     {
       "ID": "PFA_3",
@@ -21219,7 +21230,7 @@
       "Name": "Raising Expectations",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 14550
+      "UsersEstimate": 14551
     },
     {
       "ID": "PFA_43",
@@ -21290,16 +21301,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 291008,
+      "Progressed": 291011,
       "Completed": 456
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-08-28T19:00:05.3333353+00:00",
-  "LastChanged_Achievements": "2023-08-28T23:03:45.8709517+00:00",
+  "LastChanged": "2023-08-29T00:00:08.5145394+00:00",
+  "LastChanged_Achievements": "2023-08-29T00:04:01.106935+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:27.4425386+00:00",
-  "LastUpdate_Ratings": "2023-08-28T23:00:32.9231042+00:00",
-  "LastUpdate_Achievements": "2023-08-28T23:03:45.8710617+00:00"
+  "LastUpdate_Ratings": "2023-08-29T00:00:08.5145404+00:00",
+  "LastUpdate_Achievements": "2023-08-29T00:04:01.1070297+00:00"
 }

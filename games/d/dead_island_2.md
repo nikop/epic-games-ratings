@@ -5,8 +5,8 @@ Rating: 4.54 (Ranked 501)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 0.50% | ~3,340 |
-| Welcome To Hell-A | 0.50% | ~3,340 |
+| Hotel California | 0.50% | ~3,341 |
+| Welcome To Hell-A | 0.50% | ~3,341 |
 | Dr. Reed, I Presume? | 0.40% | ~2,672 |
 | Git Gutte! | 0.40% | ~2,672 |
 | Break A Leg | 0.40% | ~2,672 |
@@ -17,6 +17,7 @@ Rating: 4.54 (Ranked 501)
 | Stacking the Deck | 0.40% | ~2,672 |
 | Personal Assistant Personally Assisted | 0.40% | ~2,672 |
 | Anger Management | 0.30% | ~2,004 |
+| Perks of the Job | 0.30% | ~2,004 |
 | Bookworm | 0.30% | ~2,004 |
 | But Doctor, I am Butcho | 0.30% | ~2,004 |
 | Slayer Squad | 0.30% | ~2,004 |
@@ -29,7 +30,6 @@ Rating: 4.54 (Ranked 501)
 | Our True Nature | 0.30% | ~2,004 |
 | This is My Weapon | 0.30% | ~2,004 |
 | Making Your Mark | 0.20% | ~1,336 |
-| Perks of the Job | 0.20% | ~1,336 |
 | I Got a Zombie Army and You Can't Harm Me | 0.20% | ~1,336 |
 | Humanity Distilled | 0.20% | ~1,336 |
 | Down with the Sickness | 0.20% | ~1,336 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 501)
 | Rising Star | 0.10% | ~668 |
 | Bucket List | 0.10% | ~668 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 668,091 (Ranked 22)  
+Progressed: 668,117 (Ranked 22)  
 Completed: 2,086 (0.31%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,6 +182,7 @@ Completed: 2,086 (0.31%) (Ranked 173)
 | 2023-08-26 | 666,250 | 2,078 |
 | 2023-08-27 | 667,273 | 2,082 |
 | 2023-08-28 | 668,091 | 2,086 |
+| 2023-08-29 | 668,117 | 2,086 |
 ## Awards
 Max (Great Boss Battles): 5,791  (Ranked 61)  
 Sum: 8,530 (Ranked 97)  

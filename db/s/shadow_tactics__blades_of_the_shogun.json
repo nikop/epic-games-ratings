@@ -1477,9 +1477,9 @@
       "Count": 247
     }
   ],
-  "EOS_Progressed": 198358,
+  "EOS_Progressed": 198364,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 2022,
+  "EOS_NewPlayers": 2023,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -16012,6 +16012,11 @@
       "Time": "2023-08-28T23:05:14.0850325+00:00",
       "NumProgressed": 198358,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-08-29T00:05:18.3557484+00:00",
+      "NumProgressed": 198364,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 44,
@@ -16023,7 +16028,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 17852
+      "UsersEstimate": 17853
     },
     {
       "ID": "AtheistOx",
@@ -16047,7 +16052,7 @@
       "Name": "Chunin",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 11901
+      "UsersEstimate": 11902
     },
     {
       "ID": "CompleteMastery",
@@ -16087,7 +16092,7 @@
       "Name": "Gear up",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7934
+      "UsersEstimate": 7935
     },
     {
       "ID": "Genin",
@@ -16095,7 +16100,7 @@
       "Name": "Genin",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 21819
+      "UsersEstimate": 21820
     },
     {
       "ID": "HappyLittleAccidents",
@@ -16103,7 +16108,7 @@
       "Name": "Happy little accidents",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7934
+      "UsersEstimate": 7935
     },
     {
       "ID": "HappyPlanning",
@@ -16111,7 +16116,7 @@
       "Name": "Happy Planning",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 11901
+      "UsersEstimate": 11902
     },
     {
       "ID": "HighFiveTheMoon",
@@ -16175,7 +16180,7 @@
       "Name": "Mugen Unchained",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 11901
+      "UsersEstimate": 11902
     },
     {
       "ID": "NoGimmicks",
@@ -16223,7 +16228,7 @@
       "Name": "Prisoners",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7934
+      "UsersEstimate": 7935
     },
     {
       "ID": "ReleaseTheKraken",
@@ -16255,7 +16260,7 @@
       "Name": "Still Rollin\u0027",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7934
+      "UsersEstimate": 7935
     },
     {
       "ID": "Stoned",
@@ -16374,15 +16379,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 198358,
+      "Progressed": 198364,
       "Completed": 73
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-08-28T16:58:29.6451543+00:00",
-  "LastChanged_Achievements": "2023-08-28T23:05:14.0850321+00:00",
+  "LastChanged_Achievements": "2023-08-29T00:05:18.355748+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:44.6562489+00:00",
-  "LastUpdate_Ratings": "2023-08-28T22:57:56.6346843+00:00",
-  "LastUpdate_Achievements": "2023-08-28T23:05:14.0851475+00:00"
+  "LastUpdate_Ratings": "2023-08-28T23:57:54.857954+00:00",
+  "LastUpdate_Achievements": "2023-08-29T00:05:18.3558437+00:00"
 }

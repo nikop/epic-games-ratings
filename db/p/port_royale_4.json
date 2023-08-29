@@ -2253,9 +2253,9 @@
       "ID": "ACH048",
       "SetID": "69nfp41",
       "Name": "Megalomania",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 238
+      "UsersEstimate": 247
     },
     {
       "ID": "ACH049",
@@ -2277,8 +2277,8 @@
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-07-02T02:29:11.8786643+00:00",
-  "LastChanged_Achievements": "2023-08-28T23:04:55.8853743+00:00",
+  "LastChanged_Achievements": "2023-08-29T00:04:59.9340761+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:12.1663686+00:00",
-  "LastUpdate_Ratings": "2023-08-28T23:02:05.797467+00:00",
-  "LastUpdate_Achievements": "2023-08-28T23:04:55.8854301+00:00"
+  "LastUpdate_Ratings": "2023-08-29T00:01:06.9832398+00:00",
+  "LastUpdate_Achievements": "2023-08-29T00:04:59.9341189+00:00"
 }

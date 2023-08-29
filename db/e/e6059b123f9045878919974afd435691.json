@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 783,
+  "EOS_Progressed": 784,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1781,6 +1781,11 @@
       "Time": "2023-08-28T12:04:08.9816847+00:00",
       "NumProgressed": 783,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-29T00:04:34.2623443+00:00",
+      "NumProgressed": 784,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1792,7 +1797,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -1936,7 +1941,7 @@
       "Name": "Completing The Duty",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "BURN_ACHIEVEMENT_5",
@@ -1990,9 +1995,9 @@
       "ID": "DUCHESS_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Greetings from Royalty",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 243
+      "UsersEstimate": 235
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -2000,7 +2005,7 @@
       "Name": "Think Bullets Will Affect Her?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "EXT_ACHIEVEMENT_1",
@@ -2040,7 +2045,7 @@
       "Name": "I\u0027ll Save You!",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "FREE_ACHIEVEMENT_2",
@@ -2048,7 +2053,7 @@
       "Name": "Free Like Birds",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "FREE_ACHIEVEMENT_3",
@@ -2064,7 +2069,7 @@
       "Name": "Pest Control or Taxonomist?",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "KILLR_ACHIEVEMENT_1",
@@ -2136,7 +2141,7 @@
       "Name": "Bad Leecher, Bad Leecher!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "KLEECHER_ACHIEVEMENT_2",
@@ -2319,14 +2324,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 783,
+      "Progressed": 784,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-08-28T23:04:30.0012789+00:00",
+  "LastChanged_Achievements": "2023-08-29T00:04:34.262344+00:00",
   "LastUpdate_AppInfo": "2023-08-24T17:57:03.8268695+00:00",
-  "LastUpdate_Ratings": "2023-08-28T22:59:52.9116036+00:00",
-  "LastUpdate_Achievements": "2023-08-28T23:04:30.0013578+00:00"
+  "LastUpdate_Ratings": "2023-08-28T23:59:32.24094+00:00",
+  "LastUpdate_Achievements": "2023-08-29T00:04:34.2624072+00:00"
 }
