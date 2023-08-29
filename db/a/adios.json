@@ -2,7 +2,7 @@
   "ID": "a3dd9f3da8ec49c7b25dec42cce2ec46",
   "Name": "Adios",
   "ProductSlug": "adios-b378b4",
-  "Ranking_Rating": 978,
+  "Ranking_Rating": 979,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 80,
@@ -96,9 +96,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 71654,
+  "EOS_Progressed": 71657,
   "EOS_Completed": 732,
-  "EOS_NewPlayers": 810,
+  "EOS_NewPlayers": 808,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
@@ -14626,6 +14626,11 @@
       "Time": "2023-08-29T15:05:54.039514+00:00",
       "NumProgressed": 71654,
       "NumCompleted": 732
+    },
+    {
+      "Time": "2023-08-29T16:05:23.0194008+00:00",
+      "NumProgressed": 71657,
+      "NumCompleted": 732
     }
   ],
   "TotalAchievements": 25,
@@ -14669,7 +14674,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 15764
+      "UsersEstimate": 15765
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -14757,7 +14762,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 13614
+      "UsersEstimate": 13615
     },
     {
       "ID": "Nice Try",
@@ -14781,7 +14786,7 @@
       "Name": "Piano Man",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 7165
+      "UsersEstimate": 7166
     },
     {
       "ID": "Right On Target",
@@ -14829,14 +14834,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 5732
+      "UsersEstimate": 5733
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 71654,
+      "Progressed": 71657,
       "Completed": 732
     }
   ],
@@ -14844,8 +14849,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-08-07T22:57:38.0235808+00:00",
-  "LastChanged_Achievements": "2023-08-29T15:05:54.0395133+00:00",
+  "LastChanged_Achievements": "2023-08-29T16:05:23.0194003+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:13.605884+00:00",
-  "LastUpdate_Ratings": "2023-08-29T14:59:49.589177+00:00",
-  "LastUpdate_Achievements": "2023-08-29T15:05:54.0396709+00:00"
+  "LastUpdate_Ratings": "2023-08-29T15:59:17.4433521+00:00",
+  "LastUpdate_Achievements": "2023-08-29T16:05:23.0195018+00:00"
 }

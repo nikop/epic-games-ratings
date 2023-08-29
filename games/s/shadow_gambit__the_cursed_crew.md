@@ -27,8 +27,8 @@
 | Lyrical Longing | 6.00% | ~32 |
 | Corsair | 4.00% | ~22 |
 | Freebooter | 3.00% | ~16 |
+| Fully Decked | 3.00% | ~16 |
 | Marauder | 2.00% | ~11 |
-| Fully Decked | 2.00% | ~11 |
 | Welcome Back Jester | 2.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 540 (Ranked 229)  

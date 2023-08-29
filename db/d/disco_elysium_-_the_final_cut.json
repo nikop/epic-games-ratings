@@ -1283,9 +1283,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 126956,
+  "EOS_Progressed": 126958,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 327,
+  "EOS_NewPlayers": 326,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -14368,6 +14368,11 @@
       "Time": "2023-08-29T15:07:05.5129258+00:00",
       "NumProgressed": 126956,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-08-29T16:06:24.5378674+00:00",
+      "NumProgressed": 126958,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -14435,7 +14440,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 30469
+      "UsersEstimate": 30470
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -14443,7 +14448,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10156
+      "UsersEstimate": 10157
     },
     {
       "ID": "ACH_COP_DORK",
@@ -14491,7 +14496,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 25391
+      "UsersEstimate": 25392
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -14507,7 +14512,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 16504
+      "UsersEstimate": 16505
     },
     {
       "ID": "ACH_COP_STAR",
@@ -14698,15 +14703,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 126956,
+      "Progressed": 126958,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-08-22T19:02:11.687919+00:00",
-  "LastChanged_Achievements": "2023-08-29T15:07:05.5129251+00:00",
+  "LastChanged_Achievements": "2023-08-29T16:06:24.5378669+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:42.7736481+00:00",
-  "LastUpdate_Ratings": "2023-08-29T14:58:09.3497518+00:00",
-  "LastUpdate_Achievements": "2023-08-29T15:07:05.5130865+00:00"
+  "LastUpdate_Ratings": "2023-08-29T15:57:55.4262057+00:00",
+  "LastUpdate_Achievements": "2023-08-29T16:06:24.537976+00:00"
 }

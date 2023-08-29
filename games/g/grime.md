@@ -1,46 +1,46 @@
 # GRIME
 [Store](https://store.epicgames.com/en-US/p/grime)  
 [View Rawdata](../../db/g/grime.json)  
-Rating: 4.59 (Ranked 414)  
+Rating: 4.59 (Ranked 415)  
 Number of Ratings: 46  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Imprint | 88.00% | ~126,565 |
-| Taste | 84.00% | ~120,812 |
-| The Hunt | 66.00% | ~94,924 |
-| Ravenous | 63.00% | ~90,609 |
-| Weeper | 43.00% | ~61,844 |
-| Devourer | 23.00% | ~33,080 |
-| Harmless | 19.00% | ~27,327 |
-| Silenced Whispers | 19.00% | ~27,327 |
-| Sharpened Vessel | 16.00% | ~23,012 |
-| Yank | 15.00% | ~21,574 |
-| Scion | 12.00% | ~17,209 |
-| Jawcrab | 12.00% | ~17,259 |
-| Jawstag | 12.00% | ~17,259 |
-| Feast | 12.00% | ~17,259 |
-| Watcher | 10.00% | ~14,382 |
-| Shapely | 8.00% | ~11,506 |
+| Imprint | 88.00% | ~126,572 |
+| Taste | 84.00% | ~120,819 |
+| The Hunt | 66.00% | ~94,929 |
+| Ravenous | 63.00% | ~90,614 |
+| Weeper | 43.00% | ~61,848 |
+| Devourer | 23.00% | ~33,081 |
+| Harmless | 19.00% | ~27,328 |
+| Silenced Whispers | 19.00% | ~27,328 |
+| Sharpened Vessel | 16.00% | ~23,013 |
+| Yank | 15.00% | ~21,575 |
+| Scion | 12.00% | ~17,210 |
+| Jawcrab | 12.00% | ~17,260 |
+| Jawstag | 12.00% | ~17,260 |
+| Feast | 12.00% | ~17,260 |
+| Watcher | 10.00% | ~14,383 |
+| Shapely | 8.00% | ~11,507 |
 | Glare | 8.00% | ~11,473 |
-| Predator | 8.00% | ~11,506 |
-| Assimilation | 6.00% | ~8,629 |
-| Host | 6.00% | ~8,604 |
-| Celebration | 6.00% | ~8,629 |
-| Hunt Down | 5.00% | ~7,191 |
-| Artisan | 5.00% | ~7,191 |
-| Breathsmith | 5.00% | ~7,191 |
+| Predator | 8.00% | ~11,507 |
+| Assimilation | 6.00% | ~8,630 |
+| Host | 6.00% | ~8,605 |
+| Celebration | 6.00% | ~8,630 |
+| Hunt Down | 5.00% | ~7,192 |
+| Artisan | 5.00% | ~7,192 |
+| Breathsmith | 5.00% | ~7,192 |
 | Breath | 4.00% | ~5,753 |
 | Hush | 4.00% | ~5,753 |
 | Inevitable | 4.00% | ~5,753 |
 | Unwrap the Gift | 4.00% | ~5,753 |
-| Dream | 4.00% | ~5,736 |
+| Dream | 4.00% | ~5,737 |
 | Proportions | 4.00% | ~5,753 |
 | Bloodhunter | 3.00% | ~4,315 |
 | All-Seeing | 3.00% | ~4,315 |
 | Passage | 3.00% | ~4,315 |
 | Zygote | 2.00% | ~2,868 |
-| Kinship | 2.00% | ~2,876 |
+| Kinship | 2.00% | ~2,877 |
 | Kin | 2.00% | ~2,868 |
 | Listen | 2.00% | ~2,868 |
 | Weakness | 1.00% | ~1,438 |
@@ -49,7 +49,7 @@ Number of Ratings: 46  (23.09.2022)
 | Instruments | 0.70% | ~1,007 |
 | Spiral Heart | 0.10% | ~144 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 143,824 (Ranked 65)  
+Progressed: 143,832 (Ranked 65)  
 Completed: 1 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 1 (0.00%) (Ranked 266)
 | 2023-08-26 | 142,811 | 1 |
 | 2023-08-27 | 143,262 | 1 |
 | 2023-08-28 | 143,622 | 1 |
-| 2023-08-29 | 143,824 | 1 |
+| 2023-08-29 | 143,832 | 1 |
 ## Awards
 Max (Highly Recommended): 28  (Ranked 467)  
 Sum: 142 (Ranked 399)  

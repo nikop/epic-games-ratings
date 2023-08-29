@@ -1,7 +1,7 @@
 # House Party
 [Store](https://store.epicgames.com/en-US/p/house-party-ae8b27)  
 [View Rawdata](../../db/h/house_party.json)  
-Rating: 4.33 (Ranked 772)  
+Rating: 4.33 (Ranked 773)  
 Number of Ratings: 177  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | Simple Geometry | 0.10% | ~6 |
 | D-Club Certified | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,111 (Ranked 139)  
+Progressed: 6,112 (Ranked 139)  
 Completed: 3 (0.05%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 3 (0.05%) (Ranked 233)
 | 2023-08-26 | 6,101 | 3 |
 | 2023-08-27 | 6,105 | 3 |
 | 2023-08-28 | 6,109 | 3 |
-| 2023-08-29 | 6,111 | 3 |
+| 2023-08-29 | 6,112 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

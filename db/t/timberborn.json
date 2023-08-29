@@ -2,7 +2,7 @@
   "ID": "3a1067df83654812b976101174e1904f",
   "Name": "Timberborn",
   "ProductSlug": "timberborn",
-  "Ranking_Rating": 172,
+  "Ranking_Rating": 173,
   "Ranking_Popularity": 310,
   "Ranking_PopularitySum": 247,
   "Ranking_EOS_Progress": 563,
@@ -1359,10 +1359,16 @@
       "Rating": 4.72,
       "NumberOfAwards": 930,
       "NumberOfAwardsMax": 133
+    },
+    {
+      "Time": "2023-08-29T16:00:47.4460896+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 931,
+      "NumberOfAwardsMax": 133
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 930,
+  "NumberOfAwards": 931,
   "NumberOfAwardsMax": 133,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1370,7 +1376,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 113
+      "Count": 114
     },
     {
       "Text": "This game is Relaxing",
@@ -1438,8 +1444,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:12.1167851+00:00",
-  "LastChanged": "2023-08-29T14:01:44.7111997+00:00",
+  "LastChanged": "2023-08-29T16:00:47.4460891+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:45.5073123+00:00",
-  "LastUpdate_Ratings": "2023-08-29T15:01:32.8484919+00:00",
-  "LastUpdate_Achievements": "2023-08-29T15:06:08.0946137+00:00"
+  "LastUpdate_Ratings": "2023-08-29T16:00:47.4460901+00:00",
+  "LastUpdate_Achievements": "2023-08-29T16:05:35.3374093+00:00"
 }

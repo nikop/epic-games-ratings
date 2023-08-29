@@ -1,5 +1,5 @@
 # We Are OFK
-[Store](https://store.epicgames.com/en-US/p/pop-love-panic-the-ofk-story)  
+[Store](https://store.epicgames.com/en-US/p/we-are-ofk)  
 [View Rawdata](../../db/w/we_are_ofk.json)  
 ## Achievements
 | Name | Percentage | Users |

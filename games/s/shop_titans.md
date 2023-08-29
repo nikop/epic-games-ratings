@@ -1,7 +1,7 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 939)  
+Rating: 3.99 (Ranked 940)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -64,6 +64,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Scrapbooker | 0.30% | ~406 |
 | Archivist | 0.30% | ~406 |
 | Locally Sourced | 0.30% | ~406 |
+| Fillin' the Bin | 0.30% | ~406 |
 | Flying off the Shelves | 0.30% | ~406 |
 | Industrial Evolution | 0.30% | ~406 |
 | This Power Level...! | 0.30% | ~406 |
@@ -97,7 +98,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Economy of Scarce | 0.30% | ~406 |
 | Complete Monopoly | 0.30% | ~406 |
 | The Free Encyclopedia | 0.20% | ~271 |
-| Fillin' the Bin | 0.20% | ~271 |
 | Thank You Tom Nook | 0.20% | ~271 |
 | Ritualist | 0.20% | ~271 |
 | A Legend is Born | 0.20% | ~271 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~135 |
 | Cash Only Please | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,329 (Ranked 67)  
+Progressed: 135,332 (Ranked 67)  
 Completed: 138 (0.10%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,17 +250,17 @@ Completed: 138 (0.10%) (Ranked 213)
 | 2023-08-26 | 135,191 | 138 |
 | 2023-08-27 | 135,255 | 138 |
 | 2023-08-28 | 135,299 | 138 |
-| 2023-08-29 | 135,329 | 138 |
+| 2023-08-29 | 135,332 | 138 |
 ## Awards
 Max (Great for Beginners): 4,717  (Ranked 71)  
-Sum: 27,152 (Ranked 47)  
+Sum: 27,153 (Ranked 47)  
 Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,717 |
 | This game is Relaxing | 4,003 |
 | This game has Quickly Understood Controls | 3,991 |
-| This game has Diverse Characters | 3,861 |
+| This game has Diverse Characters | 3,862 |
 | This game is Highly Recommended | 3,739 |
 | This game has Easy Combat | 3,678 |
 | This game has Playful Visuals | 3,163 |
@@ -482,4 +482,4 @@ Diff (max vs sum): 24
 | 2023-08-24 | 3.99 | - | 4,712 | 27,135 |
 | 2023-08-26 | 3.99 | - | 4,716 | 27,141 |
 | 2023-08-27 | 3.99 | - | 4,717 | 27,150 |
-| 2023-08-29 | 3.99 | - | 4,717 | 27,152 |
+| 2023-08-29 | 3.99 | - | 4,717 | 27,153 |

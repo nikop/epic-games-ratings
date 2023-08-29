@@ -1,17 +1,17 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.18 (Ranked 878)  
+Rating: 4.18 (Ranked 879)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~34,050 |
-| Har, Har, Har, Very Funny | 35.00% | ~23,835 |
-| Loose Ends | 34.00% | ~23,154 |
-| To the Victor Go the Spoils | 28.00% | ~19,068 |
-| Knighthood | 27.00% | ~18,387 |
-| Get ReQ'd | 25.00% | ~17,025 |
-| Whispered Words | 25.00% | ~17,025 |
+| First Step Into the Knight | 50.00% | ~34,051 |
+| Har, Har, Har, Very Funny | 35.00% | ~23,836 |
+| Loose Ends | 34.00% | ~23,155 |
+| To the Victor Go the Spoils | 28.00% | ~19,069 |
+| Knighthood | 27.00% | ~18,388 |
+| Get ReQ'd | 25.00% | ~17,026 |
+| Whispered Words | 25.00% | ~17,026 |
 | The Batman Family | 22.00% | ~14,982 |
 | Lock and Key | 22.00% | ~14,982 |
 | Something in the Clay | 21.00% | ~14,301 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 878)
 | Element of Surprise | 0.20% | ~77 |
 | It's Nice to Be Wanted | 0.20% | ~77 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,100 (Ranked 81)  
+Progressed: 68,102 (Ranked 81)  
 Completed: 110 (0.16%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 110 (0.16%) (Ranked 198)
 | 2023-08-26 | 68,056 | 109 |
 | 2023-08-27 | 68,080 | 109 |
 | 2023-08-28 | 68,093 | 109 |
-| 2023-08-29 | 68,100 | 110 |
+| 2023-08-29 | 68,102 | 110 |
 ## Awards
 Max (Great Boss Battles): 2,524  (Ranked 100)  
 Sum: 4,202 (Ranked 139)  

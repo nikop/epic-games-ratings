@@ -2,7 +2,7 @@
   "ID": "9696e0c7c26841789a152588c744d506",
   "Name": "Shop Titans",
   "ProductSlug": "shop-titans-d95c1c",
-  "Ranking_Rating": 939,
+  "Ranking_Rating": 940,
   "Ranking_Popularity": 71,
   "Ranking_PopularitySum": 47,
   "Ranking_EOS_Progress": 67,
@@ -5732,10 +5732,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27152,
       "NumberOfAwardsMax": 4717
+    },
+    {
+      "Time": "2023-08-29T15:57:15.6379726+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27153,
+      "NumberOfAwardsMax": 4717
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27152,
+  "NumberOfAwards": 27153,
   "NumberOfAwardsMax": 4717,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5749,7 +5755,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 3861
+      "Count": 3862
     },
     {
       "Text": "This game is Great for Beginners",
@@ -5788,9 +5794,9 @@
       "Count": 3739
     }
   ],
-  "EOS_Progressed": 135329,
+  "EOS_Progressed": 135332,
   "EOS_Completed": 138,
-  "EOS_NewPlayers": 382,
+  "EOS_NewPlayers": 384,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -19223,6 +19229,11 @@
       "Time": "2023-08-29T15:03:18.6039957+00:00",
       "NumProgressed": 135329,
       "NumCompleted": 138
+    },
+    {
+      "Time": "2023-08-29T16:03:10.6288124+00:00",
+      "NumProgressed": 135332,
+      "NumCompleted": 138
     }
   ],
   "TotalAchievements": 112,
@@ -19488,9 +19499,9 @@
       "ID": "commonres04",
       "SetID": "anfd17p",
       "Name": "Fillin\u0027 the Bin",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 271
+      "UsersEstimate": 406
     },
     {
       "ID": "craft01",
@@ -20129,15 +20140,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135329,
+      "Progressed": 135332,
       "Completed": 138
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-08-29T07:57:18.0564962+00:00",
-  "LastChanged_Achievements": "2023-08-29T15:03:18.6039946+00:00",
+  "LastChanged": "2023-08-29T15:57:15.6379724+00:00",
+  "LastChanged_Achievements": "2023-08-29T16:03:10.6288121+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:19.0477827+00:00",
-  "LastUpdate_Ratings": "2023-08-29T14:57:24.1829412+00:00",
-  "LastUpdate_Achievements": "2023-08-29T15:03:18.6042819+00:00"
+  "LastUpdate_Ratings": "2023-08-29T15:57:15.6379731+00:00",
+  "LastUpdate_Achievements": "2023-08-29T16:03:10.6290565+00:00"
 }

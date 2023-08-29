@@ -2,10 +2,10 @@
   "ID": "4b5f1eb366dc45f0920d397c01b291ba",
   "Name": "Q.U.B.E. 2",
   "ProductSlug": "q-u-b-e-2",
-  "Ranking_Rating": 686,
+  "Ranking_Rating": 687,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
-  "Ranking_EOS_Progress": 390,
+  "Ranking_EOS_Progress": 388,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 103,
@@ -338,9 +338,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 43,
+  "EOS_Progressed": 44,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -482,6 +482,11 @@
     {
       "Time": "2023-08-29T14:07:12.6326546+00:00",
       "NumProgressed": 43,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-29T16:06:41.8417279+00:00",
+      "NumProgressed": 44,
       "NumCompleted": 0
     }
   ],
@@ -653,7 +658,7 @@
       "ID": "ACH_OASIS",
       "SetID": "232494e",
       "Name": "Nature or Nurture",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
       "UsersEstimate": 15
     },
@@ -685,7 +690,7 @@
       "ID": "ACH_S1",
       "SetID": "232494e",
       "Name": "Quick Understanding of Block Extrusion",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 30,
       "UsersEstimate": 23
     },
@@ -693,7 +698,7 @@
       "ID": "ACH_S4",
       "SetID": "232494e",
       "Name": "Power Glove",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 30,
       "UsersEstimate": 17
     },
@@ -701,7 +706,7 @@
       "ID": "ACH_S5",
       "SetID": "232494e",
       "Name": "Cogs in the Machine",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 30,
       "UsersEstimate": 12
     },
@@ -709,7 +714,7 @@
       "ID": "ACH_SANDSTORM",
       "SetID": "232494e",
       "Name": "Lost in Space",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 30,
       "UsersEstimate": 19
     },
@@ -717,7 +722,7 @@
       "ID": "ACH_STATUE",
       "SetID": "232494e",
       "Name": "Forgotten Memories",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 30,
       "UsersEstimate": 15
     }
@@ -726,15 +731,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 43,
+      "Progressed": 44,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-08-29T15:07:25.4123515+00:00",
+  "LastChanged_Achievements": "2023-08-29T16:06:41.8417273+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:24.6161941+00:00",
-  "LastUpdate_Ratings": "2023-08-29T15:00:47.7005983+00:00",
-  "LastUpdate_Achievements": "2023-08-29T15:07:25.4123742+00:00"
+  "LastUpdate_Ratings": "2023-08-29T16:00:02.730789+00:00",
+  "LastUpdate_Achievements": "2023-08-29T16:06:41.8417486+00:00"
 }

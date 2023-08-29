@@ -1,27 +1,27 @@
 # Runbow
 [Store](https://store.epicgames.com/en-US/p/runbow-fc9fa4)  
 [View Rawdata](../../db/r/runbow.json)  
-Rating: 4.46 (Ranked 622)  
+Rating: 4.46 (Ranked 623)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~131,806 |
-| My First Runbow | 50.00% | ~124,345 |
-| It's The Fall | 26.00% | ~64,659 |
+| In The Zone | 53.00% | ~131,807 |
+| My First Runbow | 50.00% | ~124,346 |
+| It's The Fall | 26.00% | ~64,660 |
 | The Stunner | 22.00% | ~54,712 |
-| Be Aggressive | 21.00% | ~52,225 |
-| Curator | 20.00% | ~49,738 |
-| Crowning Around | 18.00% | ~44,764 |
-| Can You Dig It? | 17.00% | ~42,277 |
-| You Juan-A-Go? | 16.00% | ~39,790 |
+| Be Aggressive | 21.00% | ~52,226 |
+| Curator | 20.00% | ~49,739 |
+| Crowning Around | 18.00% | ~44,765 |
+| Can You Dig It? | 17.00% | ~42,278 |
+| You Juan-A-Go? | 16.00% | ~39,791 |
 | Chan-tastic | 15.00% | ~37,304 |
 | Muddy Waters | 15.00% | ~37,304 |
 | Toasty! | 13.00% | ~32,330 |
 | Lazy Laser | 8.00% | ~19,895 |
-| Just A Phaze | 7.00% | ~17,408 |
-| Into The Drift | 7.00% | ~17,408 |
-| Ready? Fight! | 7.00% | ~17,408 |
-| Butt Butt | 6.00% | ~14,921 |
+| Just A Phaze | 7.00% | ~17,409 |
+| Into The Drift | 7.00% | ~17,409 |
+| Ready? Fight! | 7.00% | ~17,409 |
+| Butt Butt | 6.00% | ~14,922 |
 | He Who Laughs Last | 3.00% | ~7,461 |
 | Shoo, Cat! | 3.00% | ~7,461 |
 | And You're Okay | 2.00% | ~4,974 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 622)
 | Talent Scout | 0.10% | ~249 |
 | True Completionist | 0.10% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248,690 (Ranked 47)  
+Progressed: 248,693 (Ranked 47)  
 Completed: 4 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 4 (0.00%) (Ranked 266)
 | 2023-08-26 | 248,565 | 4 |
 | 2023-08-27 | 248,626 | 4 |
 | 2023-08-28 | 248,665 | 4 |
-| 2023-08-29 | 248,690 | 4 |
+| 2023-08-29 | 248,693 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

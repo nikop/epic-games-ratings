@@ -571,9 +571,9 @@
       "ID": "57",
       "SetID": "5e3maia",
       "Name": "Inventor",
-      "Percentage": 5,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "58",
@@ -691,9 +691,9 @@
       "ID": "70",
       "SetID": "5e3maia",
       "Name": "Reveller",
-      "Percentage": 8,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "8",
@@ -722,8 +722,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-08-29T15:06:35.6481007+00:00",
+  "LastChanged_Achievements": "2023-08-29T16:05:59.058598+00:00",
   "LastUpdate_AppInfo": "2023-08-25T22:57:10.6988807+00:00",
-  "LastUpdate_Ratings": "2023-08-29T14:59:40.369858+00:00",
-  "LastUpdate_Achievements": "2023-08-29T15:06:35.648188+00:00"
+  "LastUpdate_Ratings": "2023-08-29T15:59:08.0972534+00:00",
+  "LastUpdate_Achievements": "2023-08-29T16:05:59.0586723+00:00"
 }

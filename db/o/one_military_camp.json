@@ -4,7 +4,7 @@
   "ProductSlug": "one-military-camp-8db1f6",
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -686,9 +686,9 @@
       "ID": "ACHIEVEMENT_ID_0",
       "SetID": "c504de6",
       "Name": "Jantine: the Misfortunes of Evil",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_ID_1",
@@ -1045,8 +1045,8 @@
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-08-29T15:07:42.594469+00:00",
+  "LastChanged_Achievements": "2023-08-29T16:06:56.3834042+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:36.7949138+00:00",
-  "LastUpdate_Ratings": "2023-08-29T14:57:30.8539238+00:00",
-  "LastUpdate_Achievements": "2023-08-29T15:07:42.5945053+00:00"
+  "LastUpdate_Ratings": "2023-08-29T15:57:21.3228041+00:00",
+  "LastUpdate_Achievements": "2023-08-29T16:06:56.3834456+00:00"
 }

@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 300)  
+Rating: 4.65 (Ranked 301)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,13 +10,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Settler | 4.00% | ~546 |
 | Play a Single Player Game | 4.00% | ~546 |
 | The Clergy | 4.00% | ~546 |
-| Able | 3.00% | ~409 |
-| Architect | 3.00% | ~409 |
-| Intrepid | 3.00% | ~409 |
-| Mason | 3.00% | ~409 |
-| Strong | 3.00% | ~409 |
-| Friendly Family | 3.00% | ~409 |
-| Hanging Gardens | 3.00% | ~409 |
+| Able | 3.00% | ~410 |
+| Architect | 3.00% | ~410 |
+| Intrepid | 3.00% | ~410 |
+| Mason | 3.00% | ~410 |
+| Strong | 3.00% | ~410 |
+| Friendly Family | 3.00% | ~410 |
+| Hanging Gardens | 3.00% | ~410 |
 | Ambitious | 2.00% | ~273 |
 | Brilliant | 2.00% | ~273 |
 | Enlightened | 2.00% | ~273 |
@@ -85,6 +85,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Temple of Solomon | 0.90% | ~123 |
 | Pantheon | 0.90% | ~123 |
 | Via Recta Souk | 0.90% | ~123 |
+| Power to the People | 0.90% | ~123 |
 | Persian Paganism | 0.90% | ~123 |
 | Legalism | 0.90% | ~123 |
 | Subjugator | 0.80% | ~109 |
@@ -95,7 +96,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus | 0.80% | ~109 |
 | Hagia Sophia | 0.80% | ~109 |
 | Learn to Play 3 | 0.80% | ~109 |
-| Power to the People | 0.80% | ~109 |
 | Economic Reform | 0.80% | ~109 |
 | Redemption | 0.80% | ~109 |
 | Legionary | 0.80% | ~109 |
@@ -124,6 +124,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonia | 0.60% | ~82 |
 | Carthage | 0.60% | ~82 |
 | Enlightenment | 0.60% | ~82 |
+| Kushite Cavalry | 0.60% | ~82 |
 | Ishtar Gate in Babylon | 0.50% | ~68 |
 | Old | 0.50% | ~68 |
 | Strong Difficulty | 0.50% | ~68 |
@@ -132,7 +133,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Rome | 0.50% | ~68 |
 | One True Faith | 0.50% | ~68 |
 | Hittite Paganism | 0.50% | ~68 |
-| Kushite Cavalry | 0.50% | ~68 |
 | Turreted Elephant | 0.50% | ~68 |
 | All Nations | 0.50% | ~68 |
 | No Undo | 0.50% | ~68 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,648 (Ranked 120)  
+Progressed: 13,650 (Ranked 120)  
 Completed: 5 (0.04%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -434,7 +434,7 @@ Completed: 5 (0.04%) (Ranked 236)
 | 2023-08-26 | 13,590 | 5 |
 | 2023-08-27 | 13,616 | 5 |
 | 2023-08-28 | 13,635 | 5 |
-| 2023-08-29 | 13,648 | 5 |
+| 2023-08-29 | 13,650 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,799 (Ranked 207)  

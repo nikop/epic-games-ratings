@@ -1,7 +1,7 @@
 # Despot's Game
 [Store](https://store.epicgames.com/en-US/p/despots-game-f61a0a)  
 [View Rawdata](../../db/d/despot's_game.json)  
-Rating: 4.50 (Ranked 561)  
+Rating: 4.50 (Ranked 562)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -15,10 +15,10 @@ Rating: 4.50 (Ranked 561)
 | The Return of a Rat | 41.00% | ~174 |
 | Fat of the Earth | 36.00% | ~153 |
 | Last Man Standing | 32.00% | ~136 |
+| Catch Jonathan_tostar | 27.00% | ~115 |
 | He's Seen It All | 27.00% | ~115 |
 | Great Hero | 27.00% | ~115 |
 | Campaigning | 26.00% | ~110 |
-| Catch Jonathan_tostar | 26.00% | ~110 |
 | Rookie | 26.00% | ~110 |
 | Assemble a Meganewbie | 24.00% | ~102 |
 | Frugal | 21.00% | ~89 |

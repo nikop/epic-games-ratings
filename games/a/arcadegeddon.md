@@ -1,30 +1,30 @@
 # Arcadegeddon
 [Store](https://store.epicgames.com/en-US/p/arcadegeddon)  
 [View Rawdata](../../db/a/arcadegeddon.json)  
-Rating: 4.49 (Ranked 581)  
+Rating: 4.49 (Ranked 582)  
 Number of Ratings: 801  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 91.00% | ~7,979 |
-| Photogenic | 88.00% | ~7,716 |
-| Surge Gauntlet Jockey | 85.00% | ~7,453 |
-| Plug It In | 84.00% | ~7,365 |
-| Adventure Time | 80.00% | ~7,014 |
-| Playing With Power | 77.00% | ~6,751 |
-| Coup d'Etat | 59.00% | ~5,173 |
+| Let's Get This Party Started | 91.00% | ~7,980 |
+| Photogenic | 88.00% | ~7,717 |
+| Surge Gauntlet Jockey | 85.00% | ~7,454 |
+| Plug It In | 84.00% | ~7,366 |
+| Adventure Time | 80.00% | ~7,015 |
+| Playing With Power | 77.00% | ~6,752 |
+| Coup d'Etat | 59.00% | ~5,174 |
 | You're Fired | 57.00% | ~4,998 |
-| Get Furious | 56.00% | ~4,910 |
-| Gunplay And Cosplay | 55.00% | ~4,822 |
-| Hacks In Stacks | 55.00% | ~4,822 |
-| Meching Enemies | 49.00% | ~4,296 |
+| Get Furious | 56.00% | ~4,911 |
+| Gunplay And Cosplay | 55.00% | ~4,823 |
+| Hacks In Stacks | 55.00% | ~4,823 |
+| Meching Enemies | 49.00% | ~4,297 |
 | Ticket Toddler | 44.00% | ~3,858 |
-| Booty Bashing | 40.00% | ~3,507 |
+| Booty Bashing | 40.00% | ~3,508 |
 | Field Medic | 38.00% | ~3,332 |
 | Here Comes a New Challenger | 38.00% | ~3,332 |
-| Rapid Response | 33.00% | ~2,893 |
+| Rapid Response | 33.00% | ~2,894 |
 | The Full Monty | 31.00% | ~2,718 |
-| Surge Ahead | 30.00% | ~2,630 |
+| Surge Ahead | 30.00% | ~2,631 |
 | Guardian Angel | 28.00% | ~2,455 |
 | Poppin Noggins | 25.00% | ~2,192 |
 | Clips and Crits | 20.00% | ~1,754 |
@@ -37,7 +37,7 @@ Number of Ratings: 801  (23.09.2022)
 | Get In The Ring! | 10.00% | ~877 |
 | 1.21 Gigawatts | 10.00% | ~877 |
 | This Is My Boomstick! | 10.00% | ~877 |
-| Rescue Ranger | 8.00% | ~701 |
+| Rescue Ranger | 8.00% | ~702 |
 | Ticket Titan | 7.00% | ~614 |
 | Surge Gauntlet Scholar | 6.00% | ~526 |
 | Master of Arms | 5.00% | ~438 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~35 |
 | Pyrotechnical | 0.20% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,768 (Ranked 130)  
+Progressed: 8,769 (Ranked 130)  
 Completed: 0 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 0 (0.00%) (Ranked 266)
 | 2023-08-26 | 8,705 | 0 |
 | 2023-08-27 | 8,728 | 0 |
 | 2023-08-28 | 8,762 | 0 |
-| 2023-08-29 | 8,768 | 0 |
+| 2023-08-29 | 8,769 | 0 |
 ## Awards
 Max (Relaxing): 64  (Ranked 388)  
 Sum: 461 (Ranked 309)  

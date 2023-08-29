@@ -1,27 +1,27 @@
 # 60 Seconds! Reatomized
 [Store](https://store.epicgames.com/en-US/p/60-seconds-reatomized-91ffa3)  
 [View Rawdata](../../db/6/60_seconds!_reatomized.json)  
-Rating: 4.64 (Ranked 313)  
+Rating: 4.64 (Ranked 314)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 93.00% | ~4,657 |
-| All thumbs | 92.00% | ~4,607 |
-| I will survive! | 92.00% | ~4,607 |
-| Home, sweet home | 90.00% | ~4,507 |
-| Survivalist | 89.00% | ~4,457 |
-| One way ticket | 84.00% | ~4,207 |
-| Last man standing | 79.00% | ~3,956 |
-| Family guy | 77.00% | ~3,856 |
-| Out of the Bag | 74.00% | ~3,706 |
+| Prepper | 93.00% | ~4,658 |
+| All thumbs | 92.00% | ~4,608 |
+| I will survive! | 92.00% | ~4,608 |
+| Home, sweet home | 90.00% | ~4,508 |
+| Survivalist | 89.00% | ~4,458 |
+| One way ticket | 84.00% | ~4,208 |
+| Last man standing | 79.00% | ~3,957 |
+| Family guy | 77.00% | ~3,857 |
+| Out of the Bag | 74.00% | ~3,707 |
 | The Dark Side | 69.00% | ~3,456 |
-| Duck and cover! | 65.00% | ~3,255 |
-| Souper! | 64.00% | ~3,205 |
+| Duck and cover! | 65.00% | ~3,256 |
+| Souper! | 64.00% | ~3,206 |
 | Pacifist | 58.00% | ~2,905 |
 | 2-1-6 | 57.00% | ~2,855 |
-| A gift | 53.00% | ~2,654 |
+| A gift | 53.00% | ~2,655 |
 | Girl Power | 47.00% | ~2,354 |
-| What goes around... | 43.00% | ~2,153 |
+| What goes around... | 43.00% | ~2,154 |
 | Be Prepared | 37.00% | ~1,853 |
 | Unbreakable | 36.00% | ~1,803 |
 | This is the end | 34.00% | ~1,703 |
@@ -29,9 +29,9 @@ Rating: 4.64 (Ranked 313)
 | Atomic drill | 32.00% | ~1,603 |
 | Disco Roach | 27.00% | ~1,352 |
 | Dawkins Residence | 21.00% | ~1,052 |
-| Rescue time! | 18.00% | ~901 |
-| New order | 17.00% | ~851 |
-| New species | 17.00% | ~851 |
+| Rescue time! | 18.00% | ~902 |
+| New order | 17.00% | ~852 |
+| New species | 17.00% | ~852 |
 | A New Hope | 15.00% | ~751 |
 | Enigma | 15.00% | ~751 |
 | Challenger | 13.00% | ~651 |
@@ -39,8 +39,8 @@ Rating: 4.64 (Ranked 313)
 | Men in Black | 12.00% | ~601 |
 | Unplugged | 8.00% | ~401 |
 | Mad Hatter | 7.00% | ~351 |
-| Holidays! | 6.00% | ~300 |
-| Yes Man | 6.00% | ~300 |
+| Holidays! | 6.00% | ~301 |
+| Yes Man | 6.00% | ~301 |
 | Take that, Brundlefly! | 5.00% | ~250 |
 | Lumbersexual | 5.00% | ~250 |
 | Danger zone | 4.00% | ~200 |
@@ -66,7 +66,7 @@ Rating: 4.64 (Ranked 313)
 | Tora! Tora! Tora! | 0.20% | ~10 |
 | Dead Hand | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,008 (Ranked 146)  
+Progressed: 5,009 (Ranked 146)  
 Completed: 1 (0.02%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 1 (0.02%) (Ranked 246)
 | 2023-08-26 | 4,984 | 1 |
 | 2023-08-27 | 4,997 | 1 |
 | 2023-08-28 | 5,007 | 1 |
-| 2023-08-29 | 5,008 | 1 |
+| 2023-08-29 | 5,009 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

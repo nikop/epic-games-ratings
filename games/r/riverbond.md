@@ -1,31 +1,31 @@
 # Riverbond
 [Store](https://store.epicgames.com/en-US/p/riverbond-782aa4)  
 [View Rawdata](../../db/r/riverbond.json)  
-Rating: 4.47 (Ranked 613)  
+Rating: 4.47 (Ranked 614)  
 Number of Ratings: 617  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~368,336 |
-| Now You're Talking | 62.00% | ~326,241 |
-| Steel Yourself | 62.00% | ~326,241 |
+| First Step | 70.00% | ~368,338 |
+| Now You're Talking | 62.00% | ~326,242 |
+| Steel Yourself | 62.00% | ~326,242 |
 | Window Dressing | 50.00% | ~263,098 |
-| Trigger Happy | 46.00% | ~242,050 |
-| Riverborn | 45.00% | ~236,788 |
-| Starry Eyed | 34.00% | ~178,906 |
-| Poking Around | 34.00% | ~178,906 |
+| Trigger Happy | 46.00% | ~242,051 |
+| Riverborn | 45.00% | ~236,789 |
+| Starry Eyed | 34.00% | ~178,907 |
+| Poking Around | 34.00% | ~178,907 |
 | Talk of the Town | 24.00% | ~126,287 |
 | AAARR! | 23.00% | ~121,025 |
 | Hello Darkness | 23.00% | ~121,025 |
 | Wind At Our Backs | 22.00% | ~115,763 |
 | To the Beat | 20.00% | ~105,239 |
 | Sunny Shores | 17.00% | ~89,453 |
-| Sunday Best | 16.00% | ~84,191 |
-| To Victory! | 15.00% | ~78,929 |
-| Two of a Kind | 14.00% | ~73,667 |
-| Keep On Trucking | 13.00% | ~68,405 |
-| Going on an Adventure | 11.00% | ~57,881 |
-| Make Peace, Not War | 11.00% | ~57,881 |
+| Sunday Best | 16.00% | ~84,192 |
+| To Victory! | 15.00% | ~78,930 |
+| Two of a Kind | 14.00% | ~73,668 |
+| Keep On Trucking | 13.00% | ~68,406 |
+| Going on an Adventure | 11.00% | ~57,882 |
+| Make Peace, Not War | 11.00% | ~57,882 |
 | Walking The Line | 10.00% | ~52,620 |
 | Not So Cute Anymore | 10.00% | ~52,620 |
 | Road Less Travelled | 9.00% | ~47,358 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,579 |
 | Point Taken | 0.10% | ~526 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 526,195 (Ranked 31)  
+Progressed: 526,197 (Ranked 31)  
 Completed: 467 (0.09%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 467 (0.09%) (Ranked 218)
 | 2023-08-26 | 525,972 | 464 |
 | 2023-08-27 | 526,088 | 466 |
 | 2023-08-28 | 526,158 | 467 |
-| 2023-08-29 | 526,195 | 467 |
+| 2023-08-29 | 526,197 | 467 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

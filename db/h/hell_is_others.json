@@ -2,7 +2,7 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 686,
+  "Ranking_Rating": 687,
   "Ranking_Popularity": 433,
   "Ranking_PopularitySum": 356,
   "Ranking_EOS_Progress": 45,
@@ -874,9 +874,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 255583,
+  "EOS_Progressed": 255586,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 340,
+  "EOS_NewPlayers": 341,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14259,6 +14259,11 @@
       "Time": "2023-08-29T15:05:20.2054309+00:00",
       "NumProgressed": 255583,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-29T16:04:55.0679047+00:00",
+      "NumProgressed": 255586,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -14318,7 +14323,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 79231
+      "UsersEstimate": 79232
     },
     {
       "ID": "BackHomeNTimes",
@@ -14374,7 +14379,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25558
+      "UsersEstimate": 25559
     },
     {
       "ID": "CreditLevel2",
@@ -14502,7 +14507,7 @@
       "Name": "Interior designer",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1533
+      "UsersEstimate": 1534
     },
     {
       "ID": "KillCrawlingThing",
@@ -14542,7 +14547,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7667
+      "UsersEstimate": 7668
     },
     {
       "ID": "KillOtherWithMine",
@@ -14558,7 +14563,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 56228
+      "UsersEstimate": 56229
     },
     {
       "ID": "KillOthers2",
@@ -14662,7 +14667,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25558
+      "UsersEstimate": 25559
     },
     {
       "ID": "ReachNDays2",
@@ -14717,7 +14722,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 255583,
+      "Progressed": 255586,
       "Completed": 3
     }
   ],
@@ -14725,8 +14730,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-08-29T09:59:50.0677313+00:00",
-  "LastChanged_Achievements": "2023-08-29T15:05:20.2054303+00:00",
+  "LastChanged_Achievements": "2023-08-29T16:04:55.0679043+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:47.9726825+00:00",
-  "LastUpdate_Ratings": "2023-08-29T14:59:25.9346586+00:00",
-  "LastUpdate_Achievements": "2023-08-29T15:05:20.2055868+00:00"
+  "LastUpdate_Ratings": "2023-08-29T15:58:55.7607926+00:00",
+  "LastUpdate_Achievements": "2023-08-29T16:04:55.0680312+00:00"
 }

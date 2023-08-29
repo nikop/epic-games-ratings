@@ -1,13 +1,13 @@
 # Warhammer 40,000: Mechanicus - Standard Edition
 [Store](https://store.epicgames.com/en-US/p/warhammer-mechanicus-0e4b71)  
 [View Rawdata](../../db/w/warhammer_40,000__mechanicus_-_standard_edition.json)  
-Rating: 4.43 (Ranked 664)  
+Rating: 4.43 (Ranked 665)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~57,575 |
-| This is only the beginning | 19.00% | ~42,074 |
-| Knowledge is power | 12.00% | ~26,573 |
+| No aid from the Omnissiah | 26.00% | ~57,576 |
+| This is only the beginning | 19.00% | ~42,075 |
+| Knowledge is power | 12.00% | ~26,574 |
 | Power Ranger | 9.00% | ~19,930 |
 | Galvanic Rifle | 9.00% | ~19,930 |
 | Taser Goad | 9.00% | ~19,930 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 664)
 | Perma-live | 0.10% | ~221 |
 | Purge the Heretek | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221,443 (Ranked 54)  
+Progressed: 221,446 (Ranked 54)  
 Completed: 5 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 5 (0.00%) (Ranked 266)
 | 2023-08-26 | 221,229 | 5 |
 | 2023-08-27 | 221,311 | 5 |
 | 2023-08-28 | 221,394 | 5 |
-| 2023-08-29 | 221,443 | 5 |
+| 2023-08-29 | 221,446 | 5 |
 ## Awards
 Max (Highly Recommended): 281  (Ranked 241)  
 Sum: 2,129 (Ranked 196)  

@@ -4,7 +4,7 @@
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 540,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.3,
   "EosHistory": [
@@ -1317,9 +1317,9 @@
       "ID": "_18_UpgradeAllCharacters",
       "SetID": "8a1io5d",
       "Name": "Fully Decked",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 125,
-      "UsersEstimate": 11
+      "UsersEstimate": 16
     },
     {
       "ID": "_19_CrewTale_BSP",
@@ -1396,8 +1396,8 @@
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-29T15:05:44.8179797+00:00",
+  "LastChanged_Achievements": "2023-08-29T16:05:15.2979556+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:45.1302228+00:00",
-  "LastUpdate_Ratings": "2023-08-29T15:01:31.5463525+00:00",
-  "LastUpdate_Achievements": "2023-08-29T15:05:44.8180084+00:00"
+  "LastUpdate_Ratings": "2023-08-29T16:00:46.3421585+00:00",
+  "LastUpdate_Achievements": "2023-08-29T16:05:15.2979815+00:00"
 }

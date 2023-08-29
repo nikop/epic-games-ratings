@@ -1,11 +1,11 @@
 # OUTRIDERS
 [Store](https://store.epicgames.com/en-US/p/outriders)  
 [View Rawdata](../../db/o/outriders.json)  
-Rating: 4.42 (Ranked 676)  
+Rating: 4.42 (Ranked 677)  
 Number of Ratings: 1,201  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 1,193  (Ranked 136)  
-Sum: 2,481 (Ranked 174)  
+Sum: 2,483 (Ranked 174)  
 Diff (max vs sum): -38  
 | Award | Count |
 | ----- | ----- |
@@ -14,7 +14,7 @@ Diff (max vs sum): -38
 | This game is Relaxing | 172 |
 | This game is Extremely Fun | 169 |
 | This game has Diverse Characters | 161 |
-| This game has Amazing Storytelling | 159 |
+| This game has Amazing Storytelling | 161 |
 | This game has Quickly Understood Controls | 159 |
 | This game has Challenging Combat | 154 |
 | This game is Great for Beginners | 146 |
@@ -229,3 +229,4 @@ Diff (max vs sum): -38
 | 2023-08-23 | 4.42 | - | 1,192 | 2,479 |
 | 2023-08-26 | 4.42 | - | 1,193 | 2,480 |
 | 2023-08-28 | 4.42 | - | 1,193 | 2,481 |
+| 2023-08-29 | 4.42 | - | 1,193 | 2,483 |

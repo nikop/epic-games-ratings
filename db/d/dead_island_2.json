@@ -2,7 +2,7 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 501,
+  "Ranking_Rating": 502,
   "Ranking_Popularity": 61,
   "Ranking_PopularitySum": 97,
   "Ranking_EOS_Progress": 22,
@@ -3982,18 +3982,24 @@
       "Rating": 4.54,
       "NumberOfAwards": 8531,
       "NumberOfAwardsMax": 5791
+    },
+    {
+      "Time": "2023-08-29T15:57:12.1331126+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 8548,
+      "NumberOfAwardsMax": 5808
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8531,
-  "NumberOfAwardsMax": 5791,
+  "NumberOfAwards": 8548,
+  "NumberOfAwardsMax": 5808,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 5791
+      "Count": 5808
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4044,9 +4050,9 @@
       "Count": 327
     }
   ],
-  "EOS_Progressed": 668529,
+  "EOS_Progressed": 668579,
   "EOS_Completed": 2088,
-  "EOS_NewPlayers": 5890,
+  "EOS_NewPlayers": 5895,
   "EOS_NewCompleters": 37,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -18624,6 +18630,11 @@
       "Time": "2023-08-29T15:04:40.4853345+00:00",
       "NumProgressed": 668529,
       "NumCompleted": 2088
+    },
+    {
+      "Time": "2023-08-29T16:04:20.8146891+00:00",
+      "NumProgressed": 668579,
+      "NumCompleted": 2088
     }
   ],
   "TotalAchievements": 45,
@@ -18865,9 +18876,9 @@
       "ID": "ach_metropolitan",
       "SetID": "7km39fm",
       "Name": "A Patton Emerges",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2006
+      "UsersEstimate": 2674
     },
     {
       "ID": "ach_mind_over_monster",
@@ -18969,9 +18980,9 @@
       "ID": "ach_welcome_to_hell_a",
       "SetID": "7km39fm",
       "Name": "Welcome To Hell-A",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 3343
+      "UsersEstimate": 4011
     },
     {
       "ID": "ach_well_known_survivor",
@@ -18994,16 +19005,16 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 668529,
+      "Progressed": 668579,
       "Completed": 2088
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-08-29T11:57:21.638913+00:00",
-  "LastChanged_Achievements": "2023-08-29T15:04:40.4853338+00:00",
+  "LastChanged": "2023-08-29T15:57:12.1331123+00:00",
+  "LastChanged_Achievements": "2023-08-29T16:04:20.814688+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:11.0440218+00:00",
-  "LastUpdate_Ratings": "2023-08-29T14:57:17.3447736+00:00",
-  "LastUpdate_Achievements": "2023-08-29T15:04:40.4854735+00:00"
+  "LastUpdate_Ratings": "2023-08-29T15:57:12.133113+00:00",
+  "LastUpdate_Achievements": "2023-08-29T16:04:20.814988+00:00"
 }

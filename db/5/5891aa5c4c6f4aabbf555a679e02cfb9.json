@@ -371,9 +371,9 @@
       "ID": "ACHIEVEMENT_09",
       "SetID": "b36c5kb",
       "Name": "Premature Finale",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -531,9 +531,9 @@
       "ID": "ACHIEVEMENT_29",
       "SetID": "b36c5kb",
       "Name": "Doing Some Detecting",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -722,8 +722,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-08-29T15:06:48.6098534+00:00",
+  "LastChanged_Achievements": "2023-08-29T16:06:10.0722192+00:00",
   "LastUpdate_AppInfo": "2023-08-23T17:57:10.5850624+00:00",
-  "LastUpdate_Ratings": "2023-08-29T14:59:43.9882088+00:00",
-  "LastUpdate_Achievements": "2023-08-29T15:06:48.6099014+00:00"
+  "LastUpdate_Ratings": "2023-08-29T15:59:10.8992277+00:00",
+  "LastUpdate_Achievements": "2023-08-29T16:06:10.0722694+00:00"
 }

@@ -1,19 +1,19 @@
 # Insurgency: Sandstorm
 [Store](https://store.epicgames.com/en-US/p/insurgency-sandstorm)  
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
-Rating: 4.62 (Ranked 351)  
+Rating: 4.62 (Ranked 352)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~21,899 |
-| Exploitative | 4.00% | ~17,519 |
-| Point Shooting | 4.00% | ~17,519 |
-| Wet Feet | 4.00% | ~17,519 |
-| High Speed Low Drag | 3.00% | ~13,139 |
-| Lucky | 3.00% | ~13,139 |
-| Stylin' | 3.00% | ~13,139 |
-| Turf War | 3.00% | ~13,139 |
+| Wallbanger | 5.00% | ~21,900 |
+| Exploitative | 4.00% | ~17,520 |
+| Point Shooting | 4.00% | ~17,520 |
+| Wet Feet | 4.00% | ~17,520 |
+| High Speed Low Drag | 3.00% | ~13,140 |
+| Lucky | 3.00% | ~13,140 |
+| Stylin' | 3.00% | ~13,140 |
+| Turf War | 3.00% | ~13,140 |
 | Banged | 2.00% | ~8,760 |
 | Checkpoint Victory | 2.00% | ~8,760 |
 | First Blood | 2.00% | ~8,760 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~438 |
 | Road Hazard | 0.10% | ~438 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 437,975 (Ranked 38)  
+Progressed: 437,997 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 2 (0.00%) (Ranked 266)
 | 2023-08-26 | 436,858 | 2 |
 | 2023-08-27 | 437,354 | 2 |
 | 2023-08-28 | 437,768 | 2 |
-| 2023-08-29 | 437,975 | 2 |
+| 2023-08-29 | 437,997 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 377  (Ranked 223)  
 Sum: 2,935 (Ranked 167)  
