@@ -615,9 +615,9 @@
       "ID": "AC06",
       "SetID": "l4abp0",
       "Name": "The Last Ascension",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 171
+      "UsersEstimate": 176
     },
     {
       "ID": "AC07",
@@ -647,9 +647,9 @@
       "ID": "AC10",
       "SetID": "l4abp0",
       "Name": "The Wait is Over",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 75
+      "UsersEstimate": 80
     },
     {
       "ID": "AC11",
@@ -903,9 +903,9 @@
       "ID": "AC42",
       "SetID": "l4abp0",
       "Name": "Two Old Ones Eating Soup",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 48
     },
     {
       "ID": "AC43",
@@ -942,8 +942,8 @@
   ],
   "FirstSeen": "2023-07-26T07:57:19.1818171+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
-  "LastChanged_Achievements": "2023-08-29T07:06:16.2178541+00:00",
+  "LastChanged_Achievements": "2023-08-29T08:05:24.9348354+00:00",
   "LastUpdate_AppInfo": "2023-08-22T18:57:00.5189311+00:00",
-  "LastUpdate_Ratings": "2023-08-29T06:59:53.6563375+00:00",
-  "LastUpdate_Achievements": "2023-08-29T07:06:16.2179511+00:00"
+  "LastUpdate_Ratings": "2023-08-29T07:59:25.6064722+00:00",
+  "LastUpdate_Achievements": "2023-08-29T08:05:24.9349236+00:00"
 }

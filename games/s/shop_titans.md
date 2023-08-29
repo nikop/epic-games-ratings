@@ -15,10 +15,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalism Ho! | 1.00% | ~1,353 |
 | Another Satisfied Customer | 0.90% | ~1,218 |
 | Budding Merchant | 0.90% | ~1,218 |
-| One Easy Payment | 0.80% | ~1,082 |
-| Some Assembly Required | 0.80% | ~1,082 |
-| Pretty Penny | 0.80% | ~1,082 |
-| Own the Means of Production | 0.80% | ~1,082 |
+| One Easy Payment | 0.80% | ~1,083 |
+| Some Assembly Required | 0.80% | ~1,083 |
+| Pretty Penny | 0.80% | ~1,083 |
+| Own the Means of Production | 0.80% | ~1,083 |
 | One-Armed Bandit | 0.70% | ~947 |
 | Through Repetition, Perfection | 0.70% | ~947 |
 | The Daily Grind | 0.60% | ~812 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~135 |
 | Cash Only Please | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,311 (Ranked 67)  
-Completed: 138 (0.10%) (Ranked 213)  
+Progressed: 135,315 (Ranked 67)  
+Completed: 138 (0.10%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -250,15 +250,15 @@ Completed: 138 (0.10%) (Ranked 213)
 | 2023-08-26 | 135,191 | 138 |
 | 2023-08-27 | 135,255 | 138 |
 | 2023-08-28 | 135,299 | 138 |
-| 2023-08-29 | 135,311 | 138 |
+| 2023-08-29 | 135,315 | 138 |
 ## Awards
 Max (Great for Beginners): 4,717  (Ranked 71)  
-Sum: 27,151 (Ranked 47)  
+Sum: 27,152 (Ranked 47)  
 Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,717 |
-| This game is Relaxing | 4,002 |
+| This game is Relaxing | 4,003 |
 | This game has Quickly Understood Controls | 3,991 |
 | This game has Diverse Characters | 3,861 |
 | This game is Highly Recommended | 3,739 |
@@ -482,4 +482,4 @@ Diff (max vs sum): 24
 | 2023-08-24 | 3.99 | - | 4,712 | 27,135 |
 | 2023-08-26 | 3.99 | - | 4,716 | 27,141 |
 | 2023-08-27 | 3.99 | - | 4,717 | 27,150 |
-| 2023-08-29 | 3.99 | - | 4,717 | 27,151 |
+| 2023-08-29 | 3.99 | - | 4,717 | 27,152 |

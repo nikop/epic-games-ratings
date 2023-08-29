@@ -21,6 +21,7 @@ Rating: 4.54 (Ranked 501)
 | This is My Weapon | 0.40% | ~2,673 |
 | Anger Management | 0.30% | ~2,005 |
 | Perks of the Job | 0.30% | ~2,005 |
+| I Got a Zombie Army and You Can't Harm Me | 0.30% | ~2,005 |
 | Slayer Squad | 0.30% | ~2,005 |
 | Can't Handle the Truth | 0.30% | ~2,005 |
 | Like Riding a Bike | 0.30% | ~2,005 |
@@ -30,7 +31,6 @@ Rating: 4.54 (Ranked 501)
 | I Am the Resurrection | 0.30% | ~2,005 |
 | Our True Nature | 0.30% | ~2,005 |
 | Making Your Mark | 0.20% | ~1,337 |
-| I Got a Zombie Army and You Can't Harm Me | 0.20% | ~1,337 |
 | Humanity Distilled | 0.20% | ~1,337 |
 | Down with the Sickness | 0.20% | ~1,337 |
 | Max Headroom | 0.20% | ~1,337 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 501)
 | Rising Star | 0.10% | ~668 |
 | Bucket List | 0.10% | ~668 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 668,274 (Ranked 22)  
+Progressed: 668,294 (Ranked 22)  
 Completed: 2,087 (0.31%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,7 +182,7 @@ Completed: 2,087 (0.31%) (Ranked 173)
 | 2023-08-26 | 666,250 | 2,078 |
 | 2023-08-27 | 667,273 | 2,082 |
 | 2023-08-28 | 668,091 | 2,086 |
-| 2023-08-29 | 668,274 | 2,087 |
+| 2023-08-29 | 668,294 | 2,087 |
 ## Awards
 Max (Great Boss Battles): 5,791  (Ranked 61)  
 Sum: 8,530 (Ranked 97)  

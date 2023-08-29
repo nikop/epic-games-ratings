@@ -471,9 +471,9 @@
       "ID": "Ach_BossDarkPoulpe",
       "SetID": "4o5gjp0",
       "Name": "Squid game",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "Ach_BossFinal",
@@ -734,8 +734,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-08-29T07:07:45.8122664+00:00",
+  "LastChanged_Achievements": "2023-08-29T08:06:38.8337267+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:51.8730367+00:00",
-  "LastUpdate_Ratings": "2023-08-29T07:01:45.8546578+00:00",
-  "LastUpdate_Achievements": "2023-08-29T07:07:45.812293+00:00"
+  "LastUpdate_Ratings": "2023-08-29T08:00:49.6639989+00:00",
+  "LastUpdate_Achievements": "2023-08-29T08:06:38.8337602+00:00"
 }

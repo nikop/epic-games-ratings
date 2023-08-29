@@ -14,7 +14,7 @@ Number of Ratings: 34  (23.09.2022)
 | Here Comes the Boom | 44.00% | ~210 |
 | Prospector | 43.00% | ~206 |
 | Treasure Hunter | 40.00% | ~191 |
-| Sniper Wolf | 39.00% | ~186 |
+| Sniper Wolf | 40.00% | ~191 |
 | The Motivation | 38.00% | ~182 |
 | Heroism | 36.00% | ~172 |
 | Missing in Action | 36.00% | ~172 |
@@ -32,9 +32,9 @@ Number of Ratings: 34  (23.09.2022)
 | Sorrow | 19.00% | ~91 |
 | Food Massacre | 18.00% | ~86 |
 | Atonement | 17.00% | ~81 |
+| Helping Hand | 16.00% | ~76 |
 | Collectibles of Chapter III | 15.00% | ~72 |
 | Collectibles of Chapter IV | 15.00% | ~72 |
-| Helping Hand | 15.00% | ~72 |
 | Without a Second Thought | 15.00% | ~72 |
 | Collectibles of Chapter V | 10.00% | ~48 |
 | Such is War! | 9.00% | ~43 |

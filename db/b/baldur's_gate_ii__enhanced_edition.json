@@ -2,7 +2,7 @@
   "ID": "9fce8233852f4940acde233a87bb41ce",
   "Name": "Baldur\u0027s Gate II: Enhanced Edition",
   "ProductSlug": "baldurs-gate-2-enhanced-edition",
-  "Ranking_Rating": 42,
+  "Ranking_Rating": 30,
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 562,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": ""
     }
   },
-  "Rating": 4.85,
+  "Rating": 4.86,
   "NumberOfRatings": 29,
   "RatingHistory": [
     {
@@ -135,6 +135,12 @@
       "Rating": 4.85,
       "NumberOfAwards": 21,
       "NumberOfAwardsMax": 21
+    },
+    {
+      "Time": "2023-08-29T07:57:30.1783412+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 21,
+      "NumberOfAwardsMax": 21
     }
   ],
   "ReviewsDisabled": false,
@@ -161,8 +167,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:50.9338623+00:00",
   "FirstSeenRating": "2022-08-05T18:01:05.432518+00:00",
-  "LastChanged": "2023-07-26T05:59:13.7066619+00:00",
+  "LastChanged": "2023-08-29T07:57:30.1783411+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:35.8592253+00:00",
-  "LastUpdate_Ratings": "2023-08-29T06:57:39.9946442+00:00",
-  "LastUpdate_Achievements": "2023-08-29T07:06:17.7599741+00:00"
+  "LastUpdate_Ratings": "2023-08-29T07:57:30.1783416+00:00",
+  "LastUpdate_Achievements": "2023-08-29T08:05:26.1662742+00:00"
 }

@@ -6,12 +6,12 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~235,856 |
-| He's Signed! | 50.00% | ~235,856 |
-| First Victory | 50.00% | ~235,856 |
-| He's Sold! | 48.00% | ~226,422 |
-| I'm The Boss! | 42.00% | ~198,119 |
-| Hat-trick | 41.00% | ~193,402 |
+| Clean Sheet | 50.00% | ~235,857 |
+| He's Signed! | 50.00% | ~235,857 |
+| First Victory | 50.00% | ~235,857 |
+| He's Sold! | 48.00% | ~226,423 |
+| I'm The Boss! | 42.00% | ~198,120 |
+| Hat-trick | 41.00% | ~193,403 |
 | Scoring Streak | 38.00% | ~179,251 |
 | Unbeatable! | 37.00% | ~174,534 |
 | Thumping | 37.00% | ~174,534 |
@@ -26,10 +26,10 @@ Number of Ratings: 19,160  (23.09.2022)
 | Star Man | 29.00% | ~136,797 |
 | Attack! | 28.00% | ~132,080 |
 | Tremendous Trio | 27.00% | ~127,363 |
-| You're On Fire | 26.00% | ~122,645 |
-| On A Roll | 26.00% | ~122,645 |
-| Unstoppable Force | 26.00% | ~122,645 |
-| Record Sale | 26.00% | ~122,645 |
+| You're On Fire | 26.00% | ~122,646 |
+| On A Roll | 26.00% | ~122,646 |
+| Unstoppable Force | 26.00% | ~122,646 |
+| Record Sale | 26.00% | ~122,646 |
 | Fantastic Five | 24.00% | ~113,211 |
 | Full Faith | 24.00% | ~113,211 |
 | The Boss | 24.00% | ~113,211 |
@@ -43,7 +43,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Clean Bill of Health | 21.00% | ~99,060 |
 | Irresistible Force | 20.00% | ~94,343 |
 | Excellent Match Cohesion | 20.00% | ~94,343 |
-| Do The Double | 19.00% | ~89,625 |
+| Do The Double | 19.00% | ~89,626 |
 | Top Form | 17.00% | ~80,191 |
 | Cash To Burn | 17.00% | ~80,191 |
 | Beating Expectations | 15.00% | ~70,757 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~472 |
 | Shoestring Budget | 0.10% | ~472 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 471,713 (Ranked 36)  
+Progressed: 471,714 (Ranked 36)  
 Completed: 20 (0.00%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 20 (0.00%) (Ranked 265)
 | 2023-08-26 | 471,480 | 20 |
 | 2023-08-27 | 471,614 | 20 |
 | 2023-08-28 | 471,701 | 20 |
-| 2023-08-29 | 471,713 | 20 |
+| 2023-08-29 | 471,714 | 20 |
 ## Awards
 Max (Relaxing): 6,417  (Ranked 54)  
 Sum: 50,497 (Ranked 24)  

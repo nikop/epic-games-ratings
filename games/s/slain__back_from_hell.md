@@ -17,8 +17,8 @@ Rating: 4.29 (Ranked 800)
 | Backdoor Man | 0.90% | ~319 |
 | Thorn in My Herbicide | 0.80% | ~283 |
 | Sure Footed As A Goat | 0.80% | ~283 |
+| Red In Tooth And Claw | 0.80% | ~283 |
 | Schadenfreude | 0.80% | ~283 |
-| Red In Tooth And Claw | 0.70% | ~248 |
 | Death Becomes Her | 0.70% | ~248 |
 | The Sky Is Falling | 0.70% | ~248 |
 | Hail the Great Horned Metal God! | 0.70% | ~248 |

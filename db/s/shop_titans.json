@@ -6,9 +6,9 @@
   "Ranking_Popularity": 71,
   "Ranking_PopularitySum": 47,
   "Ranking_EOS_Progress": 67,
-  "Ranking_EOS_Completed": 213,
+  "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -5726,10 +5726,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27151,
       "NumberOfAwardsMax": 4717
+    },
+    {
+      "Time": "2023-08-29T07:57:18.0564964+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27152,
+      "NumberOfAwardsMax": 4717
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27151,
+  "NumberOfAwards": 27152,
   "NumberOfAwardsMax": 4717,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5767,7 +5773,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4002
+      "Count": 4003
     },
     {
       "Text": "This game has Playful Visuals",
@@ -5782,10 +5788,10 @@
       "Count": 3739
     }
   ],
-  "EOS_Progressed": 135311,
+  "EOS_Progressed": 135315,
   "EOS_Completed": 138,
-  "EOS_NewPlayers": 390,
-  "EOS_NewCompleters": 4,
+  "EOS_NewPlayers": 392,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
     {
@@ -19192,6 +19198,11 @@
       "Time": "2023-08-29T07:03:30.7957916+00:00",
       "NumProgressed": 135311,
       "NumCompleted": 138
+    },
+    {
+      "Time": "2023-08-29T08:03:08.3858018+00:00",
+      "NumProgressed": 135315,
+      "NumCompleted": 138
     }
   ],
   "TotalAchievements": 112,
@@ -19283,7 +19294,7 @@
       "Name": "One Easy Payment",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1082
+      "UsersEstimate": 1083
     },
     {
       "ID": "bigsale02",
@@ -19307,7 +19318,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1082
+      "UsersEstimate": 1083
     },
     {
       "ID": "blueprint02",
@@ -19683,7 +19694,7 @@
       "Name": "Pretty Penny",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1082
+      "UsersEstimate": 1083
     },
     {
       "ID": "gold03",
@@ -20067,7 +20078,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1082
+      "UsersEstimate": 1083
     },
     {
       "ID": "workers02",
@@ -20098,15 +20109,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135311,
+      "Progressed": 135315,
       "Completed": 138
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-08-29T03:57:31.6368702+00:00",
-  "LastChanged_Achievements": "2023-08-29T07:03:30.7957911+00:00",
+  "LastChanged": "2023-08-29T07:57:18.0564962+00:00",
+  "LastChanged_Achievements": "2023-08-29T08:03:08.3858013+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:19.0477827+00:00",
-  "LastUpdate_Ratings": "2023-08-29T06:57:28.0893661+00:00",
-  "LastUpdate_Achievements": "2023-08-29T07:03:30.7960344+00:00"
+  "LastUpdate_Ratings": "2023-08-29T07:57:18.0564969+00:00",
+  "LastUpdate_Achievements": "2023-08-29T08:03:08.3861311+00:00"
 }

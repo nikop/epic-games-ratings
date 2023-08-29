@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 584,
+  "EOS_Progressed": 585,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -2076,6 +2076,11 @@
       "Time": "2023-08-29T06:04:15.8429386+00:00",
       "NumProgressed": 584,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-29T08:04:29.505048+00:00",
+      "NumProgressed": 585,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2125,9 +2130,9 @@
       "ID": "Calculated",
       "SetID": "1e89b4i",
       "Name": "Calculated",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 105
+      "UsersEstimate": 111
     },
     {
       "ID": "Close",
@@ -2221,9 +2226,9 @@
       "ID": "LargeAirport",
       "SetID": "1e89b4i",
       "Name": "Large Airport",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 82
     },
     {
       "ID": "LargeTerritories",
@@ -2365,9 +2370,9 @@
       "ID": "Restructuring",
       "SetID": "1e89b4i",
       "Name": "Restructuring",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 70
     },
     {
       "ID": "Reviewer",
@@ -2422,14 +2427,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 584,
+      "Progressed": 585,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-08-29T07:05:07.9147174+00:00",
+  "LastChanged_Achievements": "2023-08-29T08:04:29.5050474+00:00",
   "LastUpdate_AppInfo": "2023-08-22T10:56:57.2309265+00:00",
-  "LastUpdate_Ratings": "2023-08-29T07:00:20.4463137+00:00",
-  "LastUpdate_Achievements": "2023-08-29T07:05:07.9147658+00:00"
+  "LastUpdate_Ratings": "2023-08-29T07:59:43.2062746+00:00",
+  "LastUpdate_Achievements": "2023-08-29T08:04:29.5051251+00:00"
 }

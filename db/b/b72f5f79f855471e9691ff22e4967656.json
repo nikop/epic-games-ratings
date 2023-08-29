@@ -741,9 +741,9 @@
       "ID": "questCemetery2",
       "SetID": "ci65fo0",
       "Name": "Cemetery secrets 2",
-      "Percentage": 25,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "questChef",
@@ -970,8 +970,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-08-29T07:05:13.9248718+00:00",
+  "LastChanged_Achievements": "2023-08-29T08:04:34.3649189+00:00",
   "LastUpdate_AppInfo": "2023-08-23T13:00:58.7449343+00:00",
-  "LastUpdate_Ratings": "2023-08-29T07:00:15.0989845+00:00",
-  "LastUpdate_Achievements": "2023-08-29T07:05:13.9249433+00:00"
+  "LastUpdate_Ratings": "2023-08-29T07:59:40.1466452+00:00",
+  "LastUpdate_Achievements": "2023-08-29T08:04:34.3649971+00:00"
 }

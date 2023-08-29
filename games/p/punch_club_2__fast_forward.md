@@ -25,12 +25,12 @@
 | Spirit of the past | 62.00% | ~171 |
 | Law student | 61.00% | ~168 |
 | Workout professional | 60.00% | ~166 |
+| Own four walls | 60.00% | ~166 |
+| Handyman | 59.00% | ~163 |
 | Champion – starter pack | 59.00% | ~163 |
 | It's good to be alive | 59.00% | ~163 |
-| Own four walls | 59.00% | ~163 |
 | Fight for life | 58.00% | ~160 |
 | Little hacker | 58.00% | ~160 |
-| Handyman | 58.00% | ~160 |
 | Employee of the year | 58.00% | ~160 |
 | Intriguing candies | 56.00% | ~155 |
 | Legal courier | 54.00% | ~149 |

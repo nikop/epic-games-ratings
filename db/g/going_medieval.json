@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 239,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1238,9 +1238,9 @@
       "Count": 67
     }
   ],
-  "EOS_Progressed": 5551,
+  "EOS_Progressed": 5552,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -8408,6 +8408,11 @@
       "Time": "2023-08-29T07:07:06.6015486+00:00",
       "NumProgressed": 5551,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-08-29T08:06:06.3783575+00:00",
+      "NumProgressed": 5552,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 31,
@@ -8467,7 +8472,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 3941
+      "UsersEstimate": 3942
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -8539,7 +8544,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 3164
+      "UsersEstimate": 3165
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -8555,7 +8560,7 @@
       "Name": "Fit For A King",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 1998
+      "UsersEstimate": 1999
     },
     {
       "ID": "STORE_NUTRITION_5000",
@@ -8563,7 +8568,7 @@
       "Name": "Putting Food on the Table",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 3164
+      "UsersEstimate": 3165
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -8571,7 +8576,7 @@
       "Name": "Winter Is Coming",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1443
+      "UsersEstimate": 1444
     },
     {
       "ID": "SURVIVE_FIRST_DAY",
@@ -8587,7 +8592,7 @@
       "Name": "...And Don\u2019t Come Back!",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2220
+      "UsersEstimate": 2221
     },
     {
       "ID": "SURVIVE_FIRST_SUMMER",
@@ -8595,7 +8600,7 @@
       "Name": "Heating Up",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1665
+      "UsersEstimate": 1666
     },
     {
       "ID": "SURVIVE_FIRST_WINTER",
@@ -8635,7 +8640,7 @@
       "Name": "Adept Researcher",
       "Percentage": 44,
       "XP": 75,
-      "UsersEstimate": 2442
+      "UsersEstimate": 2443
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -8643,7 +8648,7 @@
       "Name": "Luminary Researcher",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 1776
+      "UsersEstimate": 1777
     },
     {
       "ID": "UNLOCK_RESEARCH_3",
@@ -8659,22 +8664,22 @@
       "Name": "Studious Researcher",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 2831
+      "UsersEstimate": 2832
     }
   ],
   "AchievementSets": [
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 5551,
+      "Progressed": 5552,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-08-28T07:58:19.6028177+00:00",
-  "LastChanged_Achievements": "2023-08-29T07:07:06.6015479+00:00",
+  "LastChanged_Achievements": "2023-08-29T08:06:06.378357+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:12.2448584+00:00",
-  "LastUpdate_Ratings": "2023-08-29T06:58:45.1950909+00:00",
-  "LastUpdate_Achievements": "2023-08-29T07:07:06.6016168+00:00"
+  "LastUpdate_Ratings": "2023-08-29T07:58:27.4638922+00:00",
+  "LastUpdate_Achievements": "2023-08-29T08:06:06.3784343+00:00"
 }

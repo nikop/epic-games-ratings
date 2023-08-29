@@ -1,7 +1,7 @@
 # SpellForce 3: Versus Edition
 [Store](https://store.epicgames.com/en-US/p/spellforce-3-versus)  
 [View Rawdata](../../db/s/spellforce_3__versus_edition.json)  
-Rating: 3.78 (Ranked 970)  
+Rating: 3.79 (Ranked 970)  
 Number of Ratings: 66  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -68,3 +68,4 @@ Number of Ratings: 66  (23.09.2022)
 | 2023-03-18 | 3.77 | - | - | - |
 | 2023-03-31 | 3.77 | - | 0 | 0 |
 | 2023-07-19 | 3.78 | - | 0 | 0 |
+| 2023-08-29 | 3.79 | - | 0 | 0 |
