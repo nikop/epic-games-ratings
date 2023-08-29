@@ -4,7 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Ship | 0.00% | ~0 |
+| The Ship | 25.00% | ~1 |
+| Little ideas | 25.00% | ~1 |
 | The Denouement | 0.00% | ~0 |
 | Well-travelled | 0.00% | ~0 |
 | Well-acquainted | 0.00% | ~0 |
@@ -12,7 +13,6 @@
 | Little grey cells | 0.00% | ~0 |
 | Everything matters | 0.00% | ~0 |
 | Truth from within | 0.00% | ~0 |
-| Little ideas | 0.00% | ~0 |
 | Order and method | 0.00% | ~0 |
 | A treasured heirloom | 0.00% | ~0 |
 | The Gala | 0.00% | ~0 |

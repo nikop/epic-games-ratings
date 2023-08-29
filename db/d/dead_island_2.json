@@ -4044,9 +4044,9 @@
       "Count": 327
     }
   ],
-  "EOS_Progressed": 668441,
+  "EOS_Progressed": 668486,
   "EOS_Completed": 2088,
-  "EOS_NewPlayers": 5880,
+  "EOS_NewPlayers": 5899,
   "EOS_NewCompleters": 37,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -18614,6 +18614,11 @@
       "Time": "2023-08-29T13:09:12.9945976+00:00",
       "NumProgressed": 668441,
       "NumCompleted": 2088
+    },
+    {
+      "Time": "2023-08-29T14:04:23.9734374+00:00",
+      "NumProgressed": 668486,
+      "NumCompleted": 2088
     }
   ],
   "TotalAchievements": 45,
@@ -18735,9 +18740,9 @@
       "ID": "ach_fetch_me_a_tisha",
       "SetID": "7km39fm",
       "Name": "Can\u0027t Handle the Truth",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2005
+      "UsersEstimate": 2674
     },
     {
       "ID": "ach_finisher",
@@ -18751,9 +18756,9 @@
       "ID": "ach_get_to_the_chopper",
       "SetID": "7km39fm",
       "Name": "Like Riding a Bike",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2005
+      "UsersEstimate": 2674
     },
     {
       "ID": "ach_good_eyesight",
@@ -18984,7 +18989,7 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 668441,
+      "Progressed": 668486,
       "Completed": 2088
     }
   ],
@@ -18992,8 +18997,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-08-29T11:57:21.638913+00:00",
-  "LastChanged_Achievements": "2023-08-29T13:09:12.9945972+00:00",
+  "LastChanged_Achievements": "2023-08-29T14:04:23.9734368+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:11.0440218+00:00",
-  "LastUpdate_Ratings": "2023-08-29T13:02:29.262754+00:00",
-  "LastUpdate_Achievements": "2023-08-29T13:09:12.9946941+00:00"
+  "LastUpdate_Ratings": "2023-08-29T13:57:30.9092166+00:00",
+  "LastUpdate_Achievements": "2023-08-29T14:04:23.9735778+00:00"
 }

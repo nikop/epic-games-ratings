@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 593,
+  "EOS_Progressed": 596,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -2106,6 +2106,11 @@
       "Time": "2023-08-29T13:09:38.8486933+00:00",
       "NumProgressed": 593,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-29T14:04:54.8413128+00:00",
+      "NumProgressed": 596,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2133,7 +2138,7 @@
       "Name": "Basic Controls",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 346
     },
     {
       "ID": "BigPlane",
@@ -2141,7 +2146,7 @@
       "Name": "Expensive Plane",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "BudgetFlight",
@@ -2149,7 +2154,7 @@
       "Name": "Budget Flight",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "Calculated",
@@ -2181,7 +2186,7 @@
       "Name": "Debtor",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "EdgeOfTheWorld",
@@ -2205,7 +2210,7 @@
       "Name": "Fifty",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "First",
@@ -2245,7 +2250,7 @@
       "Name": "Lack of Time",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "LargeAirport",
@@ -2317,7 +2322,7 @@
       "Name": "New Record",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "NoTimeForModernization",
@@ -2325,7 +2330,7 @@
       "Name": "No Time for Modernization",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "NoWayBack",
@@ -2333,7 +2338,7 @@
       "Name": "No Way Back",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "NotPlanned",
@@ -2365,7 +2370,7 @@
       "Name": "Race Against Time",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "Reaction",
@@ -2389,7 +2394,7 @@
       "Name": "Resource Economy",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "Restructuring",
@@ -2429,7 +2434,7 @@
       "Name": "Ten!",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "TimeForManagement",
@@ -2445,21 +2450,21 @@
       "Name": "Transport Hub",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 593,
+      "Progressed": 596,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-08-29T13:09:38.8486928+00:00",
+  "LastChanged_Achievements": "2023-08-29T14:04:54.8413101+00:00",
   "LastUpdate_AppInfo": "2023-08-29T11:57:10.9614599+00:00",
-  "LastUpdate_Ratings": "2023-08-29T13:04:53.8695825+00:00",
-  "LastUpdate_Achievements": "2023-08-29T13:09:38.8487289+00:00"
+  "LastUpdate_Ratings": "2023-08-29T14:00:27.0231095+00:00",
+  "LastUpdate_Achievements": "2023-08-29T14:04:54.8413583+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 252,
-  "Ranking_EOS_NewPlayers": 52,
+  "Ranking_EOS_NewPlayers": 53,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -751,9 +751,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 37291,
+  "EOS_Progressed": 37293,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 965,
+  "EOS_NewPlayers": 961,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15236,6 +15236,11 @@
       "Time": "2023-08-29T13:11:34.5777256+00:00",
       "NumProgressed": 37291,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-29T14:07:15.2944668+00:00",
+      "NumProgressed": 37293,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -15327,7 +15332,7 @@
       "Name": "Aviator",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2237
+      "UsersEstimate": 2238
     },
     {
       "ID": "journeyer",
@@ -15367,7 +15372,7 @@
       "Name": "Nomad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 6712
+      "UsersEstimate": 6713
     },
     {
       "ID": "novice",
@@ -15558,15 +15563,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 37291,
+      "Progressed": 37293,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-08-29T10:57:48.0300457+00:00",
-  "LastChanged_Achievements": "2023-08-29T13:11:34.5777251+00:00",
+  "LastChanged_Achievements": "2023-08-29T14:07:15.2944661+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:52.9170368+00:00",
-  "LastUpdate_Ratings": "2023-08-29T13:03:20.2969661+00:00",
-  "LastUpdate_Achievements": "2023-08-29T13:11:34.5778197+00:00"
+  "LastUpdate_Ratings": "2023-08-29T13:58:32.61654+00:00",
+  "LastUpdate_Achievements": "2023-08-29T14:07:15.2945867+00:00"
 }

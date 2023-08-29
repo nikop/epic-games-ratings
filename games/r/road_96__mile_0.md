@@ -17,8 +17,8 @@
 | The Eye of the Storm | 8.00% | ~31 |
 | Friendzone | 8.00% | ~31 |
 | Attack on Tyran | 7.00% | ~27 |
+| Try Harder | 2.00% | ~8 |
 | Song Harvester | 1.00% | ~4 |
-| Try Harder | 1.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 384 (Ranked 252)  
 Completed: 2 (0.52%) (Ranked 146)  

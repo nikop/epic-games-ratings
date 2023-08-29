@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 852,
+  "EOS_Progressed": 853,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1865,6 +1865,11 @@
       "Time": "2023-08-29T07:05:30.2349019+00:00",
       "NumProgressed": 852,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-29T14:05:17.9696772+00:00",
+      "NumProgressed": 853,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -1972,7 +1977,7 @@
       "Name": "3, 2, 1, mine",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "ACH013",
@@ -1980,7 +1985,7 @@
       "Name": "In a mint condition",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "ACH014",
@@ -2116,7 +2121,7 @@
       "Name": "Walk the plank",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "ACH031",
@@ -2180,7 +2185,7 @@
       "Name": "O Captain! My Captain!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "ACH039",
@@ -2228,7 +2233,7 @@
       "Name": "Greed for gold",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "ACH045",
@@ -2268,22 +2273,22 @@
       "Name": "Wholesale",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     }
   ],
   "AchievementSets": [
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 852,
+      "Progressed": 853,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-07-02T02:29:11.8786643+00:00",
-  "LastChanged_Achievements": "2023-08-29T13:09:57.7347706+00:00",
+  "LastChanged_Achievements": "2023-08-29T14:05:17.9696762+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:12.1663686+00:00",
-  "LastUpdate_Ratings": "2023-08-29T13:02:26.0772643+00:00",
-  "LastUpdate_Achievements": "2023-08-29T13:09:57.7348386+00:00"
+  "LastUpdate_Ratings": "2023-08-29T13:57:26.3307393+00:00",
+  "LastUpdate_Achievements": "2023-08-29T14:05:17.9697329+00:00"
 }

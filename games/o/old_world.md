@@ -87,7 +87,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Via Recta Souk | 0.90% | ~123 |
 | Persian Paganism | 0.90% | ~123 |
 | Legalism | 0.90% | ~123 |
-| Phalangite | 0.90% | ~123 |
 | Subjugator | 0.80% | ~109 |
 | Good Difficulty | 0.80% | ~109 |
 | Statesmen | 0.80% | ~109 |
@@ -100,6 +99,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Economic Reform | 0.80% | ~109 |
 | Redemption | 0.80% | ~109 |
 | Legionary | 0.80% | ~109 |
+| Phalangite | 0.80% | ~109 |
 | Win a Single Player Game | 0.80% | ~109 |
 | Capable | 0.70% | ~96 |
 | Invincible | 0.70% | ~96 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,646 (Ranked 119)  
+Progressed: 13,648 (Ranked 119)  
 Completed: 5 (0.04%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -434,7 +434,7 @@ Completed: 5 (0.04%) (Ranked 235)
 | 2023-08-26 | 13,590 | 5 |
 | 2023-08-27 | 13,616 | 5 |
 | 2023-08-28 | 13,635 | 5 |
-| 2023-08-29 | 13,646 | 5 |
+| 2023-08-29 | 13,648 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,799 (Ranked 207)  

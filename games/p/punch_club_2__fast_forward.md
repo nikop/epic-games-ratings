@@ -25,16 +25,16 @@
 | Spirit of the past | 63.00% | ~175 |
 | Law student | 61.00% | ~169 |
 | Workout professional | 60.00% | ~166 |
+| Champion – starter pack | 60.00% | ~166 |
+| It's good to be alive | 60.00% | ~166 |
 | Own four walls | 60.00% | ~166 |
 | Handyman | 59.00% | ~163 |
-| Champion – starter pack | 59.00% | ~163 |
-| It's good to be alive | 59.00% | ~163 |
 | Little hacker | 58.00% | ~161 |
 | Employee of the year | 58.00% | ~161 |
 | Fight for life | 57.00% | ~158 |
 | Intriguing candies | 56.00% | ~155 |
 | Legal courier | 55.00% | ~152 |
-| Extreme neuropower! | 53.00% | ~147 |
+| Extreme neuropower! | 54.00% | ~150 |
 | Escaped from a big trouble | 51.00% | ~141 |
 | Now you are worthy | 49.00% | ~136 |
 | Guiding on the right path | 47.00% | ~130 |
@@ -45,10 +45,10 @@
 | Responsible approach | 41.00% | ~114 |
 | Underground dwellers | 40.00% | ~111 |
 | Your own way | 40.00% | ~111 |
+| Deal with life | 39.00% | ~108 |
 | GYM professional | 39.00% | ~108 |
 | Poisoned fighter | 39.00% | ~108 |
 | Mom got better | 38.00% | ~105 |
-| Deal with life | 38.00% | ~105 |
 | Get out of my apartment! | 38.00% | ~105 |
 | The die is cast | 38.00% | ~105 |
 | Seashell hunter | 36.00% | ~100 |

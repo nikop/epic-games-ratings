@@ -6,8 +6,8 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 2.00% | ~2,706 |
-| Titan's First Steps | 2.00% | ~2,706 |
+| Sponsored by Argon | 2.00% | ~2,707 |
+| Titan's First Steps | 2.00% | ~2,707 |
 | Basic in Bulk | 1.00% | ~1,353 |
 | Disintermediation | 1.00% | ~1,353 |
 | It's Free Real Estate | 1.00% | ~1,353 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~135 |
 | Cash Only Please | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,320 (Ranked 67)  
+Progressed: 135,326 (Ranked 67)  
 Completed: 138 (0.10%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,7 +250,7 @@ Completed: 138 (0.10%) (Ranked 212)
 | 2023-08-26 | 135,191 | 138 |
 | 2023-08-27 | 135,255 | 138 |
 | 2023-08-28 | 135,299 | 138 |
-| 2023-08-29 | 135,320 | 138 |
+| 2023-08-29 | 135,326 | 138 |
 ## Awards
 Max (Great for Beginners): 4,717  (Ranked 71)  
 Sum: 27,152 (Ranked 47)  

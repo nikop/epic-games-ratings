@@ -1240,9 +1240,9 @@
       "ID": "scoremaxrankallrides",
       "SetID": "40n95i5",
       "Name": "Try Harder",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 200,
-      "UsersEstimate": 4
+      "UsersEstimate": 8
     },
     {
       "ID": "scoreminrankrb1",
@@ -1337,8 +1337,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-08-29T13:11:04.4078887+00:00",
+  "LastChanged_Achievements": "2023-08-29T14:06:38.2900282+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:28.6158212+00:00",
-  "LastUpdate_Ratings": "2023-08-29T13:03:02.2994306+00:00",
-  "LastUpdate_Achievements": "2023-08-29T13:11:04.4079037+00:00"
+  "LastUpdate_Ratings": "2023-08-29T13:58:09.3275893+00:00",
+  "LastUpdate_Achievements": "2023-08-29T14:06:38.29005+00:00"
 }

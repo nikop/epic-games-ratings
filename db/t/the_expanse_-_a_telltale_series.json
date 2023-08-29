@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 59,
+  "Ranking_EOS_NewPlayers": 60,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -34,9 +34,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9532,
+  "EOS_Progressed": 9535,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 807,
+  "EOS_NewPlayers": 806,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3569,6 +3569,11 @@
       "Time": "2023-08-29T13:08:35.4775964+00:00",
       "NumProgressed": 9532,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-29T14:03:28.2641795+00:00",
+      "NumProgressed": 9535,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -3621,7 +3626,7 @@
       "Name": "Doctor Approved",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 1620
+      "UsersEstimate": 1621
     },
     {
       "ID": "15",
@@ -3645,7 +3650,7 @@
       "Name": "Spore Taste",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 1620
+      "UsersEstimate": 1621
     },
     {
       "ID": "18",
@@ -3661,7 +3666,7 @@
       "Name": "Martian Music",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 1620
+      "UsersEstimate": 1621
     },
     {
       "ID": "2",
@@ -3677,7 +3682,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 953
+      "UsersEstimate": 954
     },
     {
       "ID": "21",
@@ -3813,14 +3818,14 @@
       "Name": "Impossible Objects",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1906
+      "UsersEstimate": 1907
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 9532,
+      "Progressed": 9535,
       "Completed": 0
     }
   ],
@@ -3828,8 +3833,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-08-27T16:57:45.7126871+00:00",
-  "LastChanged_Achievements": "2023-08-29T13:08:35.4775957+00:00",
+  "LastChanged_Achievements": "2023-08-29T14:03:28.2641788+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:45.4170889+00:00",
-  "LastUpdate_Ratings": "2023-08-29T13:03:12.4163274+00:00",
-  "LastUpdate_Achievements": "2023-08-29T13:08:35.4776319+00:00"
+  "LastUpdate_Ratings": "2023-08-29T13:58:22.3198188+00:00",
+  "LastUpdate_Achievements": "2023-08-29T14:03:28.2642795+00:00"
 }

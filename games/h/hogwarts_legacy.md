@@ -30,12 +30,12 @@ Rating: 4.77 (Ranked 109)
 | The Root of the Problem | 5.00% | ~14,552 |
 | Third Time's a Charm | 5.00% | ~14,552 |
 | Raising Expectations | 5.00% | ~14,552 |
-| The Toast of the Town | 4.00% | ~11,641 |
-| Going Through the Potions | 4.00% | ~11,641 |
-| Room with a View | 4.00% | ~11,641 |
-| The Intrepid Explorer | 4.00% | ~11,641 |
-| The Gryffindor in the Graveyard | 4.00% | ~11,641 |
-| The Ends Petrify the Means | 4.00% | ~11,641 |
+| The Toast of the Town | 4.00% | ~11,642 |
+| Going Through the Potions | 4.00% | ~11,642 |
+| Room with a View | 4.00% | ~11,642 |
+| The Intrepid Explorer | 4.00% | ~11,642 |
+| The Gryffindor in the Graveyard | 4.00% | ~11,642 |
+| The Ends Petrify the Means | 4.00% | ~11,642 |
 | Floo Around the World | 3.00% | ~8,731 |
 | The Wise Owl | 3.00% | ~8,731 |
 | The Good Samaritan | 2.00% | ~5,821 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,746 |
 | Collector's Edition | 0.30% | ~873 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 291,036 (Ranked 43)  
+Progressed: 291,038 (Ranked 43)  
 Completed: 456 (0.16%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,14 +182,14 @@ Completed: 456 (0.16%) (Ranked 197)
 | 2023-08-26 | 290,865 | 455 |
 | 2023-08-27 | 290,954 | 456 |
 | 2023-08-28 | 291,008 | 456 |
-| 2023-08-29 | 291,036 | 456 |
+| 2023-08-29 | 291,038 | 456 |
 ## Awards
-Max (Character Customization): 21,990  (Ranked 17)  
-Sum: 41,708 (Ranked 30)  
+Max (Character Customization): 22,003  (Ranked 17)  
+Sum: 41,721 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 21,990 |
+| This game has Inclusive Character Customization | 22,003 |
 | This game has Great Boss Battles | 10,716 |
 | This game is Great for Beginners | 999 |
 | This game is Relaxing | 974 |
@@ -362,4 +362,4 @@ Diff (max vs sum): -13
 | 2023-08-26 | 4.77 | 21,948 | 41,589 |
 | 2023-08-27 | 4.77 | 21,969 | 41,646 |
 | 2023-08-28 | 4.77 | 21,990 | 41,680 |
-| 2023-08-29 | 4.77 | 21,990 | 41,708 |
+| 2023-08-29 | 4.77 | 22,003 | 41,721 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -5788,9 +5788,9 @@
       "Count": 3739
     }
   ],
-  "EOS_Progressed": 135320,
+  "EOS_Progressed": 135326,
   "EOS_Completed": 138,
-  "EOS_NewPlayers": 386,
+  "EOS_NewPlayers": 383,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -19213,6 +19213,11 @@
       "Time": "2023-08-29T12:02:39.5422453+00:00",
       "NumProgressed": 135320,
       "NumCompleted": 138
+    },
+    {
+      "Time": "2023-08-29T14:02:08.8033734+00:00",
+      "NumProgressed": 135326,
+      "NumCompleted": 138
     }
   ],
   "TotalAchievements": 112,
@@ -19392,7 +19397,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2706
+      "UsersEstimate": 2707
     },
     {
       "ID": "chest02",
@@ -20040,7 +20045,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2706
+      "UsersEstimate": 2707
     },
     {
       "ID": "twinenchant01",
@@ -20119,15 +20124,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135320,
+      "Progressed": 135326,
       "Completed": 138
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-29T07:57:18.0564962+00:00",
-  "LastChanged_Achievements": "2023-08-29T12:02:39.5422432+00:00",
+  "LastChanged_Achievements": "2023-08-29T14:02:08.8033715+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:19.0477827+00:00",
-  "LastUpdate_Ratings": "2023-08-29T13:02:33.6563466+00:00",
-  "LastUpdate_Achievements": "2023-08-29T12:02:39.5453241+00:00"
+  "LastUpdate_Ratings": "2023-08-29T13:57:35.5953764+00:00",
+  "LastUpdate_Achievements": "2023-08-29T14:02:08.8063488+00:00"
 }
