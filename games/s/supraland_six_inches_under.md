@@ -58,10 +58,10 @@ Number of Ratings: 209  (23.09.2022)
 | So much force | 35.00% | ~776 |
 | You feel fully engaged | 24.00% | ~532 |
 | Too hot | 19.00% | ~421 |
-| All the chests | 13.00% | ~288 |
+| All the chests | 14.00% | ~310 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,217 (Ranked 171)  
-Completed: 268 (12.09%) (Ranked 22)  
+Completed: 269 (12.13%) (Ranked 22)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -179,7 +179,7 @@ Completed: 268 (12.09%) (Ranked 22)
 | 2023-08-26 | 2,214 | 268 |
 | 2023-08-27 | 2,215 | 268 |
 | 2023-08-28 | 2,216 | 268 |
-| 2023-08-29 | 2,217 | 268 |
+| 2023-08-29 | 2,217 | 269 |
 ## Awards
 Max (Challenging Puzzles): 100  (Ranked 338)  
 Sum: 100 (Ranked 417)  

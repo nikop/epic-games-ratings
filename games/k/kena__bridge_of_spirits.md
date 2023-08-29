@@ -1,18 +1,18 @@
 # Kena: Bridge of Spirits
 [Store](https://store.epicgames.com/en-US/p/kena-bridge-of-spirits)  
 [View Rawdata](../../db/k/kena__bridge_of_spirits.json)  
-Rating: 4.70 (Ranked 199)  
+Rating: 4.70 (Ranked 200)  
 Number of Ratings: 3,313  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Found a Friend | 95.00% | ~406,315 |
-| Haikyo | 80.00% | ~342,160 |
-| Good as New | 72.00% | ~307,944 |
-| Into the Woods | 69.00% | ~295,113 |
-| Hunter in the Forest | 60.00% | ~256,620 |
-| Rot Commander | 60.00% | ~256,620 |
-| Taro's Fear | 56.00% | ~239,512 |
+| Found a Friend | 95.00% | ~406,316 |
+| Haikyo | 80.00% | ~342,161 |
+| Good as New | 72.00% | ~307,945 |
+| Into the Woods | 69.00% | ~295,114 |
+| Hunter in the Forest | 60.00% | ~256,621 |
+| Rot Commander | 60.00% | ~256,621 |
+| Taro's Fear | 56.00% | ~239,513 |
 | Between the Eyes | 47.00% | ~201,019 |
 | Taro's Love | 46.00% | ~196,742 |
 | Taro's Regret | 43.00% | ~183,911 |
@@ -48,7 +48,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | Triple Threat | 0.90% | ~3,849 |
 | Master Spirit Guide | 0.30% | ~1,283 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 427,700 (Ranked 39)  
+Progressed: 427,701 (Ranked 39)  
 Completed: 529 (0.12%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 529 (0.12%) (Ranked 206)
 | 2023-08-26 | 427,642 | 528 |
 | 2023-08-27 | 427,673 | 529 |
 | 2023-08-28 | 427,685 | 529 |
-| 2023-08-29 | 427,700 | 529 |
+| 2023-08-29 | 427,701 | 529 |
 ## Awards
 Max (Great Boss Battles): 1,317  (Ranked 130)  
 Sum: 1,697 (Ranked 209)  

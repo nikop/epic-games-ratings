@@ -7,10 +7,10 @@ Rating: 4.88 (Ranked 19)
 | ---- | ---------- | ----- |
 | Start with a bang! | 12.00% | ~479 |
 | Feeling the beat! | 12.00% | ~479 |
-| Who put gears in there? | 11.00% | ~439 |
 | You can pet the cat! | 11.00% | ~439 |
 | Cream of the Crop | 10.00% | ~399 |
 | Thanks for the free chip, Peppermint! | 10.00% | ~399 |
+| Who put gears in there? | 10.00% | ~399 |
 | You got this, Peppermint? | 9.00% | ~359 |
 | Perfect Parry | 9.00% | ~359 |
 | I play my own way! | 8.00% | ~319 |
@@ -25,11 +25,11 @@ Rating: 4.88 (Ranked 19)
 | Out in a puff of smoke | 6.00% | ~239 |
 | Does that say weakpoint? | 6.00% | ~239 |
 | NOW we got a kickass hideout! | 6.00% | ~151 |
-| Headliner | 5.00% | ~199 |
-| Time to pay up! | 5.00% | ~199 |
-| Who's the boss now? | 5.00% | ~199 |
-| You must like calling me in, Chai | 5.00% | ~199 |
-| Perfecter Parry-er! | 5.00% | ~199 |
+| Headliner | 5.00% | ~200 |
+| Time to pay up! | 5.00% | ~200 |
+| Who's the boss now? | 5.00% | ~200 |
+| You must like calling me in, Chai | 5.00% | ~200 |
+| Perfecter Parry-er! | 5.00% | ~200 |
 | I have to read these things? | 4.00% | ~160 |
 | Well that was a rush! | 3.00% | ~120 |
 | Beat-hit mania | 3.00% | ~120 |
@@ -77,7 +77,7 @@ Rating: 4.88 (Ranked 19)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,989 (Ranked 150)  
+Progressed: 3,991 (Ranked 150)  
 Completed: 7 (0.18%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 7 (0.18%) (Ranked 194)
 | 2023-08-26 | 3,981 | 7 |
 | 2023-08-27 | 3,984 | 7 |
 | 2023-08-28 | 3,986 | 7 |
-| 2023-08-29 | 3,989 | 7 |
+| 2023-08-29 | 3,991 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self-Defence | 85.00% | ~46 |
-| Tinkerer | 63.00% | ~34 |
+| Self-Defence | 87.00% | ~47 |
+| Tinkerer | 65.00% | ~35 |
 | Welcome to the Club | 31.00% | ~17 |
 | A new World ahead | 28.00% | ~15 |
 | Apprentice | 26.00% | ~14 |

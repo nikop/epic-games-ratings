@@ -2,7 +2,7 @@
   "ID": "7c53d7dc86494d5abcdc974b0ef0a843",
   "Name": "Kena: Bridge of Spirits",
   "ProductSlug": "kena-bridge-of-spirits",
-  "Ranking_Rating": 199,
+  "Ranking_Rating": 200,
   "Ranking_Popularity": 130,
   "Ranking_PopularitySum": 209,
   "Ranking_EOS_Progress": 39,
@@ -1286,9 +1286,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 427700,
+  "EOS_Progressed": 427701,
   "EOS_Completed": 529,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -10366,6 +10366,11 @@
       "Time": "2023-08-29T17:05:39.9341136+00:00",
       "NumProgressed": 427700,
       "NumCompleted": 529
+    },
+    {
+      "Time": "2023-08-29T19:05:27.694364+00:00",
+      "NumProgressed": 427701,
+      "NumCompleted": 529
     }
   ],
   "TotalAchievements": 41,
@@ -10393,7 +10398,7 @@
       "Name": "Hunter in the Forest",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 256620
+      "UsersEstimate": 256621
     },
     {
       "ID": "ACH_ABILITY_DASH",
@@ -10457,7 +10462,7 @@
       "Name": "Rot Commander",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 256620
+      "UsersEstimate": 256621
     },
     {
       "ID": "ACH_CHALLENGE_CRIT",
@@ -10545,7 +10550,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 406315
+      "UsersEstimate": 406316
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -10561,7 +10566,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 307944
+      "UsersEstimate": 307945
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -10577,7 +10582,7 @@
       "Name": "Into the Woods",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 295113
+      "UsersEstimate": 295114
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -10593,7 +10598,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 342160
+      "UsersEstimate": 342161
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -10657,7 +10662,7 @@
       "Name": "Taro\u0027s Fear",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 239512
+      "UsersEstimate": 239513
     },
     {
       "ID": "ACH_RELIC_LANTERN",
@@ -10704,15 +10709,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 427700,
+      "Progressed": 427701,
       "Completed": 529
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-08-27T05:01:05.9614223+00:00",
-  "LastChanged_Achievements": "2023-08-29T18:04:37.7785962+00:00",
+  "LastChanged_Achievements": "2023-08-29T19:05:27.6943631+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:05.3767055+00:00",
-  "LastUpdate_Ratings": "2023-08-29T17:57:20.2220407+00:00",
-  "LastUpdate_Achievements": "2023-08-29T18:04:37.7786883+00:00"
+  "LastUpdate_Ratings": "2023-08-29T18:57:48.3650999+00:00",
+  "LastUpdate_Achievements": "2023-08-29T19:05:27.6944694+00:00"
 }

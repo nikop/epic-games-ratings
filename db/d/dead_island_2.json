@@ -4050,9 +4050,9 @@
       "Count": 327
     }
   ],
-  "EOS_Progressed": 668672,
+  "EOS_Progressed": 668731,
   "EOS_Completed": 2088,
-  "EOS_NewPlayers": 5907,
+  "EOS_NewPlayers": 5918,
   "EOS_NewCompleters": 36,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -18645,6 +18645,11 @@
       "Time": "2023-08-29T18:04:14.6523383+00:00",
       "NumProgressed": 668672,
       "NumCompleted": 2088
+    },
+    {
+      "Time": "2023-08-29T19:05:00.5422342+00:00",
+      "NumProgressed": 668731,
+      "NumCompleted": 2088
     }
   ],
   "TotalAchievements": 45,
@@ -18720,7 +18725,7 @@
       "Name": "Break A Leg",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3343
+      "UsersEstimate": 3344
     },
     {
       "ID": "ach_contender",
@@ -18798,9 +18803,9 @@
       "ID": "ach_hazardous_materials",
       "SetID": "7km39fm",
       "Name": "Hazardous Materials",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2675
+      "UsersEstimate": 3344
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -18816,7 +18821,7 @@
       "Name": "Hotel California",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3343
+      "UsersEstimate": 3344
     },
     {
       "ID": "ach_impressive_aim",
@@ -18934,9 +18939,9 @@
       "ID": "ach_star_performance",
       "SetID": "7km39fm",
       "Name": "Personal Assistant Personally Assisted",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2675
+      "UsersEstimate": 3344
     },
     {
       "ID": "ach_survival_expert",
@@ -19015,7 +19020,7 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 668672,
+      "Progressed": 668731,
       "Completed": 2088
     }
   ],
@@ -19023,8 +19028,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-08-29T15:57:12.1331123+00:00",
-  "LastChanged_Achievements": "2023-08-29T18:04:14.6523376+00:00",
+  "LastChanged_Achievements": "2023-08-29T19:05:00.5422334+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:11.0440218+00:00",
-  "LastUpdate_Ratings": "2023-08-29T17:57:13.5197551+00:00",
-  "LastUpdate_Achievements": "2023-08-29T18:04:14.6524702+00:00"
+  "LastUpdate_Ratings": "2023-08-29T18:57:39.9766397+00:00",
+  "LastUpdate_Achievements": "2023-08-29T19:05:00.5423882+00:00"
 }

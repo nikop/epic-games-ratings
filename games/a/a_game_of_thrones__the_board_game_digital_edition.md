@@ -6,16 +6,16 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~9,086 |
-| Battering Crew | 20.00% | ~4,543 |
-| The Kingsroad | 18.00% | ~4,089 |
-| Well Stocked | 14.00% | ~3,180 |
-| Royal Fleet | 13.00% | ~2,953 |
-| The Kraken’s Grasp | 9.00% | ~2,044 |
-| Daggers in the Dark | 8.00% | ~1,817 |
-| Oathkeeper | 8.00% | ~1,817 |
-| Alliance | 8.00% | ~1,817 |
-| A Long Journey | 8.00% | ~1,817 |
+| Conqueror | 40.00% | ~9,088 |
+| Battering Crew | 20.00% | ~4,544 |
+| The Kingsroad | 18.00% | ~4,090 |
+| Well Stocked | 14.00% | ~3,181 |
+| Royal Fleet | 13.00% | ~2,954 |
+| The Kraken’s Grasp | 9.00% | ~2,045 |
+| Daggers in the Dark | 8.00% | ~1,818 |
+| Oathkeeper | 8.00% | ~1,818 |
+| Alliance | 8.00% | ~1,818 |
+| A Long Journey | 8.00% | ~1,818 |
 | Ours is the Fury | 7.00% | ~1,590 |
 | Winter is Coming | 7.00% | ~1,590 |
 | Influential | 7.00% | ~1,590 |
@@ -24,12 +24,12 @@ Number of Ratings: 2,500  (23.09.2022)
 | Hear me Roar! | 6.00% | ~1,363 |
 | Defender of the Wall | 6.00% | ~1,363 |
 | Growing Strong | 5.00% | ~1,136 |
-| What is Dead may Never Die | 3.00% | ~681 |
-| The Swift | 3.00% | ~681 |
+| What is Dead may Never Die | 3.00% | ~682 |
+| The Swift | 3.00% | ~682 |
 | King in the North | 2.00% | ~454 |
 | War of the Five Kings | 1.00% | ~227 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,715 (Ranked 106)  
+Progressed: 22,721 (Ranked 106)  
 Completed: 48 (0.21%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,11 +160,11 @@ Completed: 48 (0.21%) (Ranked 189)
 | 2023-08-26 | 22,463 | 47 |
 | 2023-08-27 | 22,581 | 47 |
 | 2023-08-28 | 22,655 | 48 |
-| 2023-08-29 | 22,715 | 48 |
+| 2023-08-29 | 22,721 | 48 |
 ## Awards
 Max (Quickly Understood Controls): 123  (Ranked 317)  
-Sum: 786 (Ranked 265)  
-Diff (max vs sum): 52  
+Sum: 786 (Ranked 266)  
+Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 123 |

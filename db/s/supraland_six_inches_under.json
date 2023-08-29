@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 22,
   "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
     "PcReleaseDate": "2022-01-14T10:00:00+00:00",
@@ -356,10 +356,10 @@
     }
   ],
   "EOS_Progressed": 2217,
-  "EOS_Completed": 268,
+  "EOS_Completed": 269,
   "EOS_NewPlayers": 8,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 12.09,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 12.13,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:47.4001279+00:00",
@@ -1655,6 +1655,11 @@
       "Time": "2023-08-29T15:06:46.8789094+00:00",
       "NumProgressed": 2217,
       "NumCompleted": 268
+    },
+    {
+      "Time": "2023-08-29T19:07:27.4163775+00:00",
+      "NumProgressed": 2217,
+      "NumCompleted": 269
     }
   ],
   "TotalAchievements": 53,
@@ -1672,9 +1677,9 @@
       "ID": "AllChests",
       "SetID": "5lok9mm",
       "Name": "All the chests",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 288
+      "UsersEstimate": 310
     },
     {
       "ID": "Area2",
@@ -2090,14 +2095,14 @@
       "ID": "5lok9mm",
       "IsBase": true,
       "Progressed": 2217,
-      "Completed": 268
+      "Completed": 269
     }
   ],
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-08-21T16:57:49.4049479+00:00",
-  "LastChanged_Achievements": "2023-08-29T18:06:20.7721112+00:00",
+  "LastChanged_Achievements": "2023-08-29T19:07:27.4163764+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:35.5799147+00:00",
-  "LastUpdate_Ratings": "2023-08-29T17:58:48.1841807+00:00",
-  "LastUpdate_Achievements": "2023-08-29T18:06:20.77217+00:00"
+  "LastUpdate_Ratings": "2023-08-29T18:59:32.4524519+00:00",
+  "LastUpdate_Achievements": "2023-08-29T19:07:27.416435+00:00"
 }

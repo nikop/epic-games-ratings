@@ -10,9 +10,9 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''I don't like you either!'' | 79.00% | ~39,592 |
 | ''Impressive, most impressive'' | 72.00% | ~36,084 |
 | ''You think you're some kind of Jedi?'' | 72.00% | ~36,084 |
-| The Phantom Menace | 59.00% | ~29,568 |
-| ''Aggressive Negotiations'' | 59.00% | ~29,568 |
-| ''I can fly anything'' | 58.00% | ~29,067 |
+| The Phantom Menace | 59.00% | ~29,569 |
+| ''Aggressive Negotiations'' | 59.00% | ~29,569 |
+| ''I can fly anything'' | 58.00% | ~29,068 |
 | ''And who gave you permission...?'' | 54.00% | ~27,063 |
 | A New Hope | 48.00% | ~24,056 |
 | Attack of the Clones | 47.00% | ~23,555 |
@@ -20,7 +20,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | The Empire Strikes Back | 38.00% | ~19,044 |
 | ''A fine addition to my collection'' | 37.00% | ~18,543 |
 | Return of the Jedi | 32.00% | ~16,037 |
-| The Force Awakens | 27.00% | ~13,531 |
+| The Force Awakens | 27.00% | ~13,532 |
 | The Last Jedi | 23.00% | ~11,527 |
 | The Rise of Skywalker | 20.00% | ~10,023 |
 | ''It's true... all of it'' | 19.00% | ~9,522 |
@@ -28,11 +28,11 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''Raw, untamed power'' | 8.00% | ~4,009 |
 | Rishi Maze | 5.00% | ~2,506 |
 | ''Only one business in the Galaxy...'' | 5.00% | ~2,506 |
-| ''You may fire when ready'' | 3.00% | ~1,503 |
-| ''What have you done with those plans?'' | 3.00% | ~1,503 |
-| ''GONK!'' | 3.00% | ~1,503 |
-| ''Hey, what are you trying to push on us?'' | 3.00% | ~1,503 |
-| The Slice | 3.00% | ~1,503 |
+| ''You may fire when ready'' | 3.00% | ~1,504 |
+| ''What have you done with those plans?'' | 3.00% | ~1,504 |
+| ''GONK!'' | 3.00% | ~1,504 |
+| ''Hey, what are you trying to push on us?'' | 3.00% | ~1,504 |
+| The Slice | 3.00% | ~1,504 |
 | ''Hello there!'' | 2.00% | ~1,002 |
 | Unknown Regions | 2.00% | ~1,002 |
 | ''Do or do not. There is no try'' | 2.00% | ~1,002 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''Jedi Business'' | 1.00% | ~501 |
 | ''I've never seen a real one!'' | 0.90% | ~451 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,116 (Ranked 91)  
+Progressed: 50,117 (Ranked 91)  
 Completed: 226 (0.45%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,10 +183,10 @@ Completed: 226 (0.45%) (Ranked 156)
 | 2023-08-26 | 50,102 | 224 |
 | 2023-08-27 | 50,108 | 224 |
 | 2023-08-28 | 50,112 | 225 |
-| 2023-08-29 | 50,116 | 226 |
+| 2023-08-29 | 50,117 | 226 |
 ## Awards
 Max (Great Boss Battles): 2,387  (Ranked 104)  
-Sum: 6,559 (Ranked 119)  
+Sum: 6,560 (Ranked 119)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
@@ -198,7 +198,7 @@ Diff (max vs sum): -15
 | This game has Amazing Storytelling | 460 |
 | This game has Easy Combat | 459 |
 | This game is Extremely Fun | 449 |
-| This game has Quickly Understood Controls | 436 |
+| This game has Quickly Understood Controls | 437 |
 | This game is Relaxing | 434 |
 | This game has Obsessive Gameplay | 341 |
 | This game has a Creative Community | 307 |
@@ -396,4 +396,4 @@ Diff (max vs sum): -15
 | 2023-08-25 | 4.78 | - | 2,384 | 6,554 |
 | 2023-08-26 | 4.78 | - | 2,384 | 6,556 |
 | 2023-08-27 | 4.78 | - | 2,386 | 6,558 |
-| 2023-08-29 | 4.78 | - | 2,387 | 6,559 |
+| 2023-08-29 | 4.78 | - | 2,387 | 6,560 |

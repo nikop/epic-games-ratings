@@ -39,6 +39,7 @@
 | Collateral Damage II | 7.00% | ~4 |
 | Bronze Foundation | 5.00% | ~3 |
 | System Ensign | 5.00% | ~3 |
+| Bronze Pest Control | 5.00% | ~3 |
 | Rambo III | 5.00% | ~3 |
 | Rambo IV | 5.00% | ~3 |
 | Omicron Theta | 5.00% | ~3 |
@@ -48,21 +49,21 @@
 | Wicked Sick | 5.00% | ~3 |
 | Usurper II | 5.00% | ~3 |
 | 50Gb HDD | 5.00% | ~3 |
+| Silver Foundation | 5.00% | ~3 |
 | Fighting Fit II | 5.00% | ~3 |
 | Bronze BBQ | 3.00% | ~2 |
-| Bronze Pest Control | 3.00% | ~2 |
 | Cartridge Hoarder | 3.00% | ~2 |
 | Curious | 3.00% | ~2 |
 | Pilgrim | 3.00% | ~2 |
 | Diligent | 3.00% | ~2 |
 | Food Poisoning | 3.00% | ~2 |
-| Silver Foundation | 3.00% | ~2 |
 | Silver Pest Control | 3.00% | ~2 |
 | Mysterious Skin | 3.00% | ~2 |
 | Beetle | 3.00% | ~2 |
 | Anger Management | 3.00% | ~2 |
 | Almost There II | 3.00% | ~2 |
 | Revenge | 2.00% | ~1 |
+| Galactic Ensign | 2.00% | ~1 |
 | Golden Foundation | 2.00% | ~1 |
 | Sectoral Admiral | 2.00% | ~1 |
 | Golden Pest Control | 2.00% | ~1 |
@@ -76,7 +77,6 @@
 | Archer's Bronze Fate | 0.00% | ~0 |
 | Bronze Alchemist | 0.00% | ~0 |
 | Magic Bronze mirror; on the wall | 0.00% | ~0 |
-| Galactic Ensign | 0.00% | ~0 |
 | Universal Ensign | 0.00% | ~0 |
 | Rambo VI | 0.00% | ~0 |
 | Space Odyssey | 0.00% | ~0 |

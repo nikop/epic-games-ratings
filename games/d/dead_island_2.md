@@ -6,8 +6,10 @@ Rating: 4.54 (Ranked 502)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Welcome To Hell-A | 0.60% | ~4,012 |
-| Break A Leg | 0.50% | ~3,343 |
-| Hotel California | 0.50% | ~3,343 |
+| Break A Leg | 0.50% | ~3,344 |
+| Hazardous Materials | 0.50% | ~3,344 |
+| Hotel California | 0.50% | ~3,344 |
+| Personal Assistant Personally Assisted | 0.50% | ~3,344 |
 | Dr. Reed, I Presume? | 0.40% | ~2,675 |
 | Git Gutte! | 0.40% | ~2,675 |
 | Bookworm | 0.40% | ~2,675 |
@@ -16,13 +18,11 @@ Rating: 4.54 (Ranked 502)
 | Can't Handle the Truth | 0.40% | ~2,675 |
 | Coup de Grâce | 0.40% | ~2,675 |
 | Like Riding a Bike | 0.40% | ~2,675 |
-| Hazardous Materials | 0.40% | ~2,675 |
 | Friends Like These | 0.40% | ~2,675 |
 | Apex Predator | 0.40% | ~2,675 |
 | Zombologist | 0.40% | ~2,675 |
 | A Patton Emerges | 0.40% | ~2,675 |
 | Stacking the Deck | 0.40% | ~2,675 |
-| Personal Assistant Personally Assisted | 0.40% | ~2,675 |
 | This is My Weapon | 0.40% | ~2,675 |
 | Anger Management | 0.30% | ~2,006 |
 | Perks of the Job | 0.30% | ~2,006 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 502)
 | Variety is the Spice of Death | 0.10% | ~669 |
 | Bucket List | 0.10% | ~669 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 668,672 (Ranked 22)  
+Progressed: 668,731 (Ranked 22)  
 Completed: 2,088 (0.31%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,7 +182,7 @@ Completed: 2,088 (0.31%) (Ranked 174)
 | 2023-08-26 | 666,250 | 2,078 |
 | 2023-08-27 | 667,273 | 2,082 |
 | 2023-08-28 | 668,091 | 2,086 |
-| 2023-08-29 | 668,672 | 2,088 |
+| 2023-08-29 | 668,731 | 2,088 |
 ## Awards
 Max (Great Boss Battles): 5,808  (Ranked 61)  
 Sum: 8,548 (Ranked 97)  

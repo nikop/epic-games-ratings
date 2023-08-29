@@ -13,8 +13,8 @@
 | Fitness professional | 77.00% | ~215 |
 | Depressed visitor | 77.00% | ~215 |
 | Employee of the week | 76.00% | ~212 |
+| Your own amateur gym | 75.00% | ~209 |
 | Neurotrainer – power gainer! | 75.00% | ~209 |
-| Your own amateur gym | 74.00% | ~206 |
 | First defeat | 74.00% | ~206 |
 | Run K, run! | 73.00% | ~204 |
 | Fighting is cool | 68.00% | ~190 |
@@ -24,7 +24,7 @@
 | Employee of the month | 65.00% | ~181 |
 | Spirit of the past | 62.00% | ~173 |
 | Law student | 61.00% | ~170 |
-| Workout professional | 59.00% | ~165 |
+| Workout professional | 60.00% | ~167 |
 | Champion – starter pack | 59.00% | ~165 |
 | It's good to be alive | 59.00% | ~165 |
 | Own four walls | 59.00% | ~165 |
@@ -34,7 +34,7 @@
 | Employee of the year | 58.00% | ~162 |
 | Intriguing candies | 56.00% | ~156 |
 | Legal courier | 54.00% | ~151 |
-| Extreme neuropower! | 53.00% | ~148 |
+| Extreme neuropower! | 54.00% | ~151 |
 | Escaped from a big trouble | 51.00% | ~142 |
 | Now you are worthy | 49.00% | ~137 |
 | Guiding on the right path | 47.00% | ~131 |
@@ -59,16 +59,16 @@
 | Absolute Champion! | 33.00% | ~92 |
 | Careerist | 33.00% | ~92 |
 | Trap disarmed | 32.00% | ~89 |
+| Another world | 32.00% | ~89 |
 | The lonesome road | 32.00% | ~89 |
 | Keep nature safe | 32.00% | ~89 |
 | Family comes first | 32.00% | ~89 |
 | Key memories | 32.00% | ~89 |
 | Anyone can resist | 32.00% | ~89 |
 | The heart of the Resistance | 32.00% | ~89 |
-| Another world | 31.00% | ~86 |
 | The last bell ring | 31.00% | ~86 |
+| Silver’s past | 29.00% | ~81 |
 | Better cooking at home | 29.00% | ~81 |
-| Silver’s past | 28.00% | ~78 |
 | The only right decision | 28.00% | ~78 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 279 (Ranked 274)  

@@ -5,19 +5,19 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Ship | 20.00% | ~1 |
+| Seeking the truth | 20.00% | ~1 |
 | Little ideas | 20.00% | ~1 |
+| The Gala | 20.00% | ~1 |
+| An old friend | 20.00% | ~1 |
 | Marc Allard | 20.00% | ~1 |
 | The Denouement | 0.00% | ~0 |
 | Well-travelled | 0.00% | ~0 |
 | Well-acquainted | 0.00% | ~0 |
-| Seeking the truth | 0.00% | ~0 |
 | Little grey cells | 0.00% | ~0 |
 | Everything matters | 0.00% | ~0 |
 | Truth from within | 0.00% | ~0 |
 | Order and method | 0.00% | ~0 |
 | A treasured heirloom | 0.00% | ~0 |
-| The Gala | 0.00% | ~0 |
-| An old friend | 0.00% | ~0 |
 | A curious gathering | 0.00% | ~0 |
 | An expert mediator | 0.00% | ~0 |
 | An odd series of events | 0.00% | ~0 |

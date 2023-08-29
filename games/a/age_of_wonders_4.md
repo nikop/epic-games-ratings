@@ -22,6 +22,7 @@ Rating: 4.60 (Ranked 393)
 | Blood of the Dragon | 5.00% | ~257 |
 | Mighty Hoard | 5.00% | ~257 |
 | Valley of Wonders | 4.00% | ~206 |
+| Digging for Treasure | 4.00% | ~206 |
 | In a Liege of Your Own | 4.00% | ~206 |
 | Fiery Friend | 4.00% | ~206 |
 | Against the Odds | 4.00% | ~206 |
@@ -33,7 +34,6 @@ Rating: 4.60 (Ranked 393)
 | The Creator | 3.00% | ~154 |
 | Enchanted Archipelago | 3.00% | ~154 |
 | The Goddess of Nature | 3.00% | ~154 |
-| Digging for Treasure | 3.00% | ~154 |
 | Preparation Is Everything | 3.00% | ~154 |
 | The Magic That Empowers Me! | 2.00% | ~103 |
 | God Emperor | 2.00% | ~103 |

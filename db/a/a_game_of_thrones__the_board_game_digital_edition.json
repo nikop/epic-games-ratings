@@ -4,11 +4,11 @@
   "ProductSlug": "a-game-of-thrones-5858a3",
   "Ranking_Rating": 862,
   "Ranking_Popularity": 317,
-  "Ranking_PopularitySum": 265,
+  "Ranking_PopularitySum": 266,
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1269,9 +1269,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 22715,
+  "EOS_Progressed": 22721,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 647,
+  "EOS_NewPlayers": 645,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -15309,6 +15309,11 @@
       "Time": "2023-08-29T18:05:22.6668421+00:00",
       "NumProgressed": 22715,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-08-29T19:06:20.5858108+00:00",
+      "NumProgressed": 22721,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 22,
@@ -15384,7 +15389,7 @@
       "Name": "What is Dead may Never Die",
       "Percentage": 3,
       "XP": 65,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "1024",
@@ -15392,7 +15397,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1817
+      "UsersEstimate": 1818
     },
     {
       "ID": "1025",
@@ -15408,7 +15413,7 @@
       "Name": "Oathkeeper",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1817
+      "UsersEstimate": 1818
     },
     {
       "ID": "1027",
@@ -15416,7 +15421,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2044
+      "UsersEstimate": 2045
     },
     {
       "ID": "1028",
@@ -15424,7 +15429,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4089
+      "UsersEstimate": 4090
     },
     {
       "ID": "1029",
@@ -15432,7 +15437,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1817
+      "UsersEstimate": 1818
     },
     {
       "ID": "1030",
@@ -15440,7 +15445,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4543
+      "UsersEstimate": 4544
     },
     {
       "ID": "1031",
@@ -15448,7 +15453,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3180
+      "UsersEstimate": 3181
     },
     {
       "ID": "1032",
@@ -15456,7 +15461,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 9086
+      "UsersEstimate": 9088
     },
     {
       "ID": "1033",
@@ -15464,7 +15469,7 @@
       "Name": "The Swift",
       "Percentage": 3,
       "XP": 120,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "1034",
@@ -15480,7 +15485,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2953
+      "UsersEstimate": 2954
     },
     {
       "ID": "1036",
@@ -15488,22 +15493,22 @@
       "Name": "A Long Journey",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1817
+      "UsersEstimate": 1818
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 22715,
+      "Progressed": 22721,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-08-02T00:02:09.7226533+00:00",
-  "LastChanged_Achievements": "2023-08-29T18:05:22.6668413+00:00",
+  "LastChanged_Achievements": "2023-08-29T19:06:20.58581+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:58:01.0379826+00:00",
-  "LastUpdate_Ratings": "2023-08-29T17:59:18.9801716+00:00",
-  "LastUpdate_Achievements": "2023-08-29T18:05:22.6669477+00:00"
+  "LastUpdate_Ratings": "2023-08-29T19:00:09.3999345+00:00",
+  "LastUpdate_Achievements": "2023-08-29T19:06:20.5859659+00:00"
 }

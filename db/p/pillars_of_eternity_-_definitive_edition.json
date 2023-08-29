@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 136,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2020-12-10T16:00:00+00:00",
     "PcReleaseDate": "2015-03-26T16:00:00+00:00",
@@ -2916,9 +2916,9 @@
       "Count": 185
     }
   ],
-  "EOS_Progressed": 1094,
+  "EOS_Progressed": 1095,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -3026,6 +3026,11 @@
       "Time": "2023-08-24T20:06:24.9120817+00:00",
       "NumProgressed": 1094,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-29T19:07:57.135888+00:00",
+      "NumProgressed": 1095,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 48,
@@ -3101,7 +3106,7 @@
       "Name": "Trappy",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "achievement_10",
@@ -3125,7 +3130,7 @@
       "Name": "5 Upgrades in Stronghold",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "achievement_13",
@@ -3237,7 +3242,7 @@
       "Name": "Herald of the Old Flame",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "achievement_27",
@@ -3293,7 +3298,7 @@
       "Name": "The Giftbearer",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "achievement_34",
@@ -3301,7 +3306,7 @@
       "Name": "Watcher at the Breach",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "achievement_35",
@@ -3317,7 +3322,7 @@
       "Name": "Kickstarter Backer",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 897
+      "UsersEstimate": 898
     },
     {
       "ID": "achievement_37",
@@ -3420,15 +3425,15 @@
     {
       "ID": "70p237j",
       "IsBase": true,
-      "Progressed": 1094,
+      "Progressed": 1095,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:19.0250263+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.7524763+00:00",
   "LastChanged": "2023-08-29T01:42:45.4781864+00:00",
-  "LastChanged_Achievements": "2023-08-29T18:06:46.4044529+00:00",
+  "LastChanged_Achievements": "2023-08-29T19:07:57.1358872+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:25.1833165+00:00",
-  "LastUpdate_Ratings": "2023-08-29T18:00:40.3612254+00:00",
-  "LastUpdate_Achievements": "2023-08-29T18:06:46.4045367+00:00"
+  "LastUpdate_Ratings": "2023-08-29T19:01:46.386506+00:00",
+  "LastUpdate_Achievements": "2023-08-29T19:07:57.1359456+00:00"
 }

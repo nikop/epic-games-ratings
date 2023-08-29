@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -230,9 +230,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1866,
+  "EOS_Progressed": 1867,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5215,6 +5215,11 @@
       "Time": "2023-08-29T17:08:45.6853546+00:00",
       "NumProgressed": 1866,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-29T19:08:30.586546+00:00",
+      "NumProgressed": 1867,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -5288,9 +5293,9 @@
       "ID": "challenger",
       "SetID": "3nl4bcg",
       "Name": "Challenger",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 187
     },
     {
       "ID": "conqueror",
@@ -5352,9 +5357,9 @@
       "ID": "ebonyjungleliberator",
       "SetID": "3nl4bcg",
       "Name": "Ebony Jungle Liberator",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 75
     },
     {
       "ID": "enchantingskill",
@@ -5458,7 +5463,7 @@
       "Name": "Guild Power",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "herewegoagain",
@@ -5618,7 +5623,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     },
     {
       "ID": "prestigiousx10",
@@ -5768,9 +5773,9 @@
       "ID": "treeoflife",
       "SetID": "3nl4bcg",
       "Name": "Tree of Life",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "ultimatewarmachines",
@@ -5786,7 +5791,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1735
+      "UsersEstimate": 1736
     },
     {
       "ID": "warmachinesarmy",
@@ -5818,14 +5823,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1474
+      "UsersEstimate": 1475
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1866,
+      "Progressed": 1867,
       "Completed": 2
     }
   ],
@@ -5833,8 +5838,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-08-28T23:01:10.1720287+00:00",
-  "LastChanged_Achievements": "2023-08-29T18:07:15.1475433+00:00",
+  "LastChanged_Achievements": "2023-08-29T19:08:30.5865454+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:43.6351902+00:00",
-  "LastUpdate_Ratings": "2023-08-29T18:00:55.8271479+00:00",
-  "LastUpdate_Achievements": "2023-08-29T18:07:15.1477027+00:00"
+  "LastUpdate_Ratings": "2023-08-29T19:02:04.8721161+00:00",
+  "LastUpdate_Achievements": "2023-08-29T19:08:30.5866795+00:00"
 }

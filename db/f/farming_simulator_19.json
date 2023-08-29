@@ -2,13 +2,13 @@
   "ID": "493e9ad801e8487497fe7840cb8404bb",
   "Name": "Farming Simulator 19",
   "ProductSlug": "farming-simulator-19",
-  "Ranking_Rating": 199,
+  "Ranking_Rating": 189,
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 25,
   "Ranking_EOS_Progress": 563,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2020-07-20T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.7,
+  "Rating": 4.71,
   "NumberOfRatings": 16706,
   "RatingHistory": [
     {
@@ -8028,6 +8028,12 @@
       "Rating": 4.7,
       "NumberOfAwards": 50233,
       "NumberOfAwardsMax": 7056
+    },
+    {
+      "Time": "2023-08-29T18:58:03.4272203+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 50233,
+      "NumberOfAwardsMax": 7056
     }
   ],
   "ReviewsDisabled": false,
@@ -8113,8 +8119,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:56.7737014+00:00",
-  "LastChanged": "2023-08-29T13:02:48.4542806+00:00",
+  "LastChanged": "2023-08-29T18:58:03.4272201+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:43.8534068+00:00",
-  "LastUpdate_Ratings": "2023-08-29T17:57:33.2238063+00:00",
-  "LastUpdate_Achievements": "2023-08-29T18:07:20.7863796+00:00"
+  "LastUpdate_Ratings": "2023-08-29T18:58:03.4272209+00:00",
+  "LastUpdate_Achievements": "2023-08-29T19:08:36.8859256+00:00"
 }

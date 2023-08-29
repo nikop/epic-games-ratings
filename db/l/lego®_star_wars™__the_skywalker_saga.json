@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 156,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
     "PcReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -2946,10 +2946,16 @@
       "Rating": 4.78,
       "NumberOfAwards": 6559,
       "NumberOfAwardsMax": 2387
+    },
+    {
+      "Time": "2023-08-29T19:00:20.0357402+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6560,
+      "NumberOfAwardsMax": 2387
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6559,
+  "NumberOfAwards": 6560,
   "NumberOfAwardsMax": 2387,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2999,7 +3005,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 436
+      "Count": 437
     },
     {
       "Text": "This game has Easy Combat",
@@ -3026,7 +3032,7 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 50116,
+  "EOS_Progressed": 50117,
   "EOS_Completed": 226,
   "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 2,
@@ -10376,6 +10382,11 @@
       "Time": "2023-08-29T16:06:13.6714905+00:00",
       "NumProgressed": 50116,
       "NumCompleted": 226
+    },
+    {
+      "Time": "2023-08-29T19:07:34.7919328+00:00",
+      "NumProgressed": 50117,
+      "NumCompleted": 226
     }
   ],
   "TotalAchievements": 45,
@@ -10395,7 +10406,7 @@
       "Name": "\u0027\u0027You may fire when ready\u0027\u0027",
       "Percentage": 3,
       "XP": 75,
-      "UsersEstimate": 1503
+      "UsersEstimate": 1504
     },
     {
       "ID": "COLLECT_EVERY_DATACARD",
@@ -10403,7 +10414,7 @@
       "Name": "\u0027\u0027What have you done with those plans?\u0027\u0027",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1503
+      "UsersEstimate": 1504
     },
     {
       "ID": "COMBAT_MULTIPLIER_OF_30",
@@ -10443,7 +10454,7 @@
       "Name": "\u0027\u0027GONK!\u0027\u0027",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1503
+      "UsersEstimate": 1504
     },
     {
       "ID": "COMPLETE_ALL_HUB_RACES",
@@ -10499,7 +10510,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 29568
+      "UsersEstimate": 29569
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -10547,7 +10558,7 @@
       "Name": "The Force Awakens",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 13531
+      "UsersEstimate": 13532
     },
     {
       "ID": "COMPLETE_EPISODE_8",
@@ -10571,7 +10582,7 @@
       "Name": "\u0027\u0027Hey, what are you trying to push on us?\u0027\u0027",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1503
+      "UsersEstimate": 1504
     },
     {
       "ID": "COMPLETE_FLIGHT_LEVEL_WITHOUT_DYING",
@@ -10579,7 +10590,7 @@
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 29067
+      "UsersEstimate": 29068
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -10603,7 +10614,7 @@
       "Name": "The Slice",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1503
+      "UsersEstimate": 1504
     },
     {
       "ID": "COMPLETE_SKYWALKER_SAGA",
@@ -10627,7 +10638,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 29568
+      "UsersEstimate": 29569
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -10746,15 +10757,15 @@
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 50116,
+      "Progressed": 50117,
       "Completed": 226
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
-  "LastChanged": "2023-08-29T17:00:26.6353154+00:00",
-  "LastChanged_Achievements": "2023-08-29T18:06:26.8368459+00:00",
+  "LastChanged": "2023-08-29T19:00:20.0357401+00:00",
+  "LastChanged_Achievements": "2023-08-29T19:07:34.7919322+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:14.1416797+00:00",
-  "LastUpdate_Ratings": "2023-08-29T17:59:28.0924554+00:00",
-  "LastUpdate_Achievements": "2023-08-29T18:06:26.8369317+00:00"
+  "LastUpdate_Ratings": "2023-08-29T19:00:20.0357407+00:00",
+  "LastUpdate_Achievements": "2023-08-29T19:07:34.7920303+00:00"
 }

@@ -5,12 +5,12 @@ Rating: 4.04 (Ranked 932)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,735 |
-| World Map | 79.00% | ~1,474 |
+| Victor | 93.00% | ~1,736 |
+| World Map | 79.00% | ~1,475 |
 | Temple of Eternals | 57.00% | ~1,064 |
-| Prestigious | 53.00% | ~989 |
+| Prestigious | 53.00% | ~990 |
 | Fellowship Power | 41.00% | ~765 |
-| Guild Power | 25.00% | ~466 |
+| Guild Power | 25.00% | ~467 |
 | Prestigious x10 | 22.00% | ~411 |
 | The game is on | 20.00% | ~373 |
 | Exotic Merchant | 19.00% | ~355 |
@@ -28,12 +28,12 @@ Rating: 4.04 (Ranked 932)
 | Superior | 13.00% | ~243 |
 | The Unstoppable | 13.00% | ~243 |
 | Scientist | 12.00% | ~224 |
-| Challenger | 11.00% | ~205 |
 | Doing My Part | 11.00% | ~205 |
 | Hunter | 11.00% | ~205 |
 | Mastery | 11.00% | ~205 |
 | Relic Of The Past | 11.00% | ~205 |
 | The power of Awakening | 11.00% | ~205 |
+| Challenger | 10.00% | ~187 |
 | Daily Quest Completionist | 10.00% | ~187 |
 | Four Leaf Clover | 10.00% | ~187 |
 | Frostfire Liberator | 10.00% | ~187 |
@@ -58,9 +58,9 @@ Rating: 4.04 (Ranked 932)
 | The Alchemist | 6.00% | ~112 |
 | Active Member | 5.00% | ~93 |
 | Background Story | 5.00% | ~93 |
-| Ebony Jungle Liberator | 5.00% | ~93 |
 | Legendary | 5.00% | ~93 |
 | Arena Challenger | 4.00% | ~75 |
+| Ebony Jungle Liberator | 4.00% | ~75 |
 | What lies behind the bush | 3.00% | ~56 |
 | Gear Enchanting | 2.00% | ~37 |
 | Mythic Power | 2.00% | ~37 |
@@ -70,7 +70,7 @@ Rating: 4.04 (Ranked 932)
 | Transmute | 1.00% | ~19 |
 | Titan Power | 0.90% | ~17 |
 | Enhanced War Machines | 0.80% | ~15 |
-| Tree of Life | 0.80% | ~15 |
+| Tree of Life | 0.70% | ~13 |
 | Beast War Machines | 0.60% | ~11 |
 | Enchanting skill x5 | 0.60% | ~11 |
 | Angel Power | 0.50% | ~9 |
@@ -81,7 +81,7 @@ Rating: 4.04 (Ranked 932)
 | Silverwood liberator | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,866 (Ranked 174)  
+Progressed: 1,867 (Ranked 174)  
 Completed: 2 (0.11%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 2 (0.11%) (Ranked 211)
 | 2023-08-26 | 1,858 | 2 |
 | 2023-08-27 | 1,859 | 2 |
 | 2023-08-28 | 1,862 | 2 |
-| 2023-08-29 | 1,866 | 2 |
+| 2023-08-29 | 1,867 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
