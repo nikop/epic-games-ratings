@@ -174,6 +174,7 @@
 | [DESTRUCTURE: Among Debris](../games/d/destructure__among_debris.md) | 31 | 1,000 |
 | [Deverse World](../games/c/c4a0429b74cb4abbb49b15e652ec6c1f.md) | 19 | 1,000 |
 | [Dice Legacy](../games/d/dice_legacy.md) | 45 | 1,000 |
+| [Dinobreak](../games/5/59b1a57188fb429db7bf5afea8e70d88.md) | 25 | 1,000 |
 | [Disco Elysium - The Final Cut](../games/d/disco_elysium_-_the_final_cut.md) | 40 | 1,000 |
 | [Disney Dreamlight Valley](../games/d/disney_dreamlight_valley.md) | 15 | 1,000 |
 | [Disney Speedstorm](../games/d/disney_speedstorm.md) | 24 | 1,000 |
