@@ -4074,9 +4074,9 @@
       "Count": 330
     }
   ],
-  "EOS_Progressed": 669246,
+  "EOS_Progressed": 669280,
   "EOS_Completed": 2093,
-  "EOS_NewPlayers": 6001,
+  "EOS_NewPlayers": 5987,
   "EOS_NewCompleters": 40,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -18764,6 +18764,11 @@
       "Time": "2023-08-30T13:09:23.2172501+00:00",
       "NumProgressed": 669246,
       "NumCompleted": 2093
+    },
+    {
+      "Time": "2023-08-30T14:04:51.8015945+00:00",
+      "NumProgressed": 669280,
+      "NumCompleted": 2093
     }
   ],
   "TotalAchievements": 45,
@@ -18879,7 +18884,7 @@
       "Name": "Smorgasbord",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1339
     },
     {
       "ID": "ach_fetch_me_a_tisha",
@@ -18935,7 +18940,7 @@
       "Name": "Hotel California",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4015
+      "UsersEstimate": 4016
     },
     {
       "ID": "ach_impressive_aim",
@@ -18967,7 +18972,7 @@
       "Name": "Jumbo Keyring",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1339
     },
     {
       "ID": "ach_knock_down",
@@ -19079,15 +19084,15 @@
       "Name": "Go, Bobcats!",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1339
     },
     {
       "ID": "ach_thesacrifice",
       "SetID": "7km39fm",
       "Name": "Our True Nature",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 2008
+      "UsersEstimate": 2677
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -19111,7 +19116,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4015
+      "UsersEstimate": 4016
     },
     {
       "ID": "ach_well_known_survivor",
@@ -19119,7 +19124,7 @@
       "Name": "Rising Star",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1339
     },
     {
       "ID": "ach_well_trained",
@@ -19134,7 +19139,7 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 669246,
+      "Progressed": 669280,
       "Completed": 2093
     }
   ],
@@ -19142,8 +19147,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-08-30T07:57:07.8027016+00:00",
-  "LastChanged_Achievements": "2023-08-30T13:09:23.2172497+00:00",
+  "LastChanged_Achievements": "2023-08-30T14:04:51.8015938+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:11.0440218+00:00",
-  "LastUpdate_Ratings": "2023-08-30T13:02:21.3421188+00:00",
-  "LastUpdate_Achievements": "2023-08-30T13:09:23.2173479+00:00"
+  "LastUpdate_Ratings": "2023-08-30T13:57:35.1278721+00:00",
+  "LastUpdate_Achievements": "2023-08-30T14:04:51.8017235+00:00"
 }

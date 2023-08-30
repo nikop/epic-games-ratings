@@ -6,31 +6,31 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Real Expedition | 5.00% | ~822 |
-| The Marshlands | 5.00% | ~822 |
-| The Scarlet Orchard | 5.00% | ~822 |
-| Taking Action | 5.00% | ~822 |
-| No Deaths | 5.00% | ~822 |
+| First Real Expedition | 5.00% | ~823 |
+| The Marshlands | 5.00% | ~823 |
+| The Scarlet Orchard | 5.00% | ~823 |
+| Taking Action | 5.00% | ~823 |
+| No Deaths | 5.00% | ~823 |
 | Overcoming Difficulty | 4.00% | ~658 |
 | Fertile Meadows | 4.00% | ~658 |
 | Coral Forest | 4.00% | ~658 |
-| Homesick | 3.00% | ~493 |
-| Bandit Camp | 3.00% | ~493 |
-| Barren Lands | 3.00% | ~493 |
-| Ancient Battleground | 3.00% | ~493 |
-| Sparkdew Crystals | 3.00% | ~493 |
-| Haunted Forest | 3.00% | ~493 |
-| Levitating Monument | 3.00% | ~493 |
-| Flooded Mines | 3.00% | ~493 |
-| Monastery of the Holy Flame | 3.00% | ~493 |
-| Royal Outpost | 3.00% | ~493 |
-| Lost Colonies | 3.00% | ~493 |
-| Statue of the Forefathers | 3.00% | ~493 |
-| Corrosive Torrent | 3.00% | ~493 |
-| Watchtower | 3.00% | ~493 |
-| Cursed Lands | 3.00% | ~493 |
-| A Real Challenge | 3.00% | ~493 |
-| Trade Baron | 3.00% | ~493 |
+| Homesick | 3.00% | ~494 |
+| Bandit Camp | 3.00% | ~494 |
+| Barren Lands | 3.00% | ~494 |
+| Ancient Battleground | 3.00% | ~494 |
+| Sparkdew Crystals | 3.00% | ~494 |
+| Haunted Forest | 3.00% | ~494 |
+| Levitating Monument | 3.00% | ~494 |
+| Flooded Mines | 3.00% | ~494 |
+| Monastery of the Holy Flame | 3.00% | ~494 |
+| Royal Outpost | 3.00% | ~494 |
+| Lost Colonies | 3.00% | ~494 |
+| Statue of the Forefathers | 3.00% | ~494 |
+| Corrosive Torrent | 3.00% | ~494 |
+| Watchtower | 3.00% | ~494 |
+| Cursed Lands | 3.00% | ~494 |
+| A Real Challenge | 3.00% | ~494 |
+| Trade Baron | 3.00% | ~494 |
 | Serving Ale | 2.00% | ~329 |
 | Refinery | 2.00% | ~329 |
 | Against All Odds | 2.00% | ~329 |
@@ -42,8 +42,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Like a Machine | 2.00% | ~329 |
 | Defying the Crown | 2.00% | ~329 |
 | Into the Forest | 2.00% | ~329 |
-| Feeding The People | 1.00% | ~164 |
-| Efficient Explorer | 1.00% | ~164 |
+| Feeding The People | 1.00% | ~165 |
+| Efficient Explorer | 1.00% | ~165 |
 | Prestigious Expedition | 0.90% | ~148 |
 | Blood Flower Farmer | 0.90% | ~148 |
 | Victory through Prosperity | 0.90% | ~148 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.20% | ~33 |
 | Paradise | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,449 (Ranked 114)  
+Progressed: 16,451 (Ranked 114)  
 Completed: 47 (0.29%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 47 (0.29%) (Ranked 177)
 | 2023-08-27 | 16,429 | 47 |
 | 2023-08-28 | 16,436 | 47 |
 | 2023-08-29 | 16,445 | 47 |
-| 2023-08-30 | 16,449 | 47 |
+| 2023-08-30 | 16,451 | 47 |
 ## Awards
 Max (Quickly Understood Controls): 425  (Ranked 209)  
 Sum: 3,117 (Ranked 162)  

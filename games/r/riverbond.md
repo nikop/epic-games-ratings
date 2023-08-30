@@ -6,26 +6,26 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~368,381 |
-| Now You're Talking | 62.00% | ~326,281 |
-| Steel Yourself | 62.00% | ~326,281 |
+| First Step | 70.00% | ~368,383 |
+| Now You're Talking | 62.00% | ~326,282 |
+| Steel Yourself | 62.00% | ~326,282 |
 | Window Dressing | 50.00% | ~263,130 |
-| Trigger Happy | 46.00% | ~242,079 |
+| Trigger Happy | 46.00% | ~242,080 |
 | Riverborn | 45.00% | ~236,817 |
-| Starry Eyed | 34.00% | ~178,928 |
-| Poking Around | 34.00% | ~178,928 |
-| Talk of the Town | 24.00% | ~126,302 |
+| Starry Eyed | 34.00% | ~178,929 |
+| Poking Around | 34.00% | ~178,929 |
+| Talk of the Town | 24.00% | ~126,303 |
 | AAARR! | 23.00% | ~121,040 |
 | Hello Darkness | 23.00% | ~121,040 |
 | Wind At Our Backs | 22.00% | ~115,777 |
 | To the Beat | 20.00% | ~105,252 |
 | Sunny Shores | 17.00% | ~89,464 |
-| Sunday Best | 16.00% | ~84,201 |
+| Sunday Best | 16.00% | ~84,202 |
 | To Victory! | 15.00% | ~78,939 |
-| Two of a Kind | 14.00% | ~73,676 |
+| Two of a Kind | 14.00% | ~73,677 |
 | Keep On Trucking | 13.00% | ~68,414 |
-| Going on an Adventure | 11.00% | ~57,888 |
-| Make Peace, Not War | 11.00% | ~57,888 |
+| Going on an Adventure | 11.00% | ~57,889 |
+| Make Peace, Not War | 11.00% | ~57,889 |
 | Walking The Line | 10.00% | ~52,626 |
 | Not So Cute Anymore | 10.00% | ~52,626 |
 | Road Less Travelled | 9.00% | ~47,363 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,579 |
 | Point Taken | 0.10% | ~526 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 526,259 (Ranked 31)  
+Progressed: 526,261 (Ranked 31)  
 Completed: 467 (0.09%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 467 (0.09%) (Ranked 218)
 | 2023-08-27 | 526,088 | 466 |
 | 2023-08-28 | 526,158 | 467 |
 | 2023-08-29 | 526,225 | 467 |
-| 2023-08-30 | 526,259 | 467 |
+| 2023-08-30 | 526,261 | 467 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

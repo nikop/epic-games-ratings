@@ -5,8 +5,8 @@ Rating: 4.20 (Ranked 863)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| “Occupied!“ | 0.70% | ~11 |
 | Worlds best dad | 0.70% | ~11 |
-| “Occupied!“ | 0.60% | ~10 |
 | Admiring the view | 0.40% | ~7 |
 | Blues Jam | 0.20% | ~3 |
 | “Here boy…“ | 0.20% | ~3 |

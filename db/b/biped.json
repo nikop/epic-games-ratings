@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -26,7 +26,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5438,
+  "EOS_Progressed": 5439,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
@@ -8971,6 +8971,11 @@
       "Time": "2023-08-30T04:05:42.1766209+00:00",
       "NumProgressed": 5438,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-30T14:06:44.3315112+00:00",
+      "NumProgressed": 5439,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -9062,7 +9067,7 @@
       "Name": "Snowy Peak",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "6",
@@ -9101,7 +9106,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 5438,
+      "Progressed": 5439,
       "Completed": 0
     }
   ],
@@ -9109,8 +9114,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-08-30T13:10:44.2165668+00:00",
+  "LastChanged_Achievements": "2023-08-30T14:06:44.3315102+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:43.2500463+00:00",
-  "LastUpdate_Ratings": "2023-08-30T13:05:22.4099853+00:00",
-  "LastUpdate_Achievements": "2023-08-30T13:10:44.2166163+00:00"
+  "LastUpdate_Ratings": "2023-08-30T14:02:07.7903668+00:00",
+  "LastUpdate_Achievements": "2023-08-30T14:06:44.3315996+00:00"
 }

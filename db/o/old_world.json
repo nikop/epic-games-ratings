@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1647,9 +1647,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13675,
+  "EOS_Progressed": 13677,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10587,6 +10587,11 @@
       "Time": "2023-08-30T13:14:05.976234+00:00",
       "NumProgressed": 13675,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-30T14:08:52.4705616+00:00",
+      "NumProgressed": 13677,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -11924,9 +11929,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_APADANA",
       "SetID": "9201eeb",
       "Name": "Apadana",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 274
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_CIRCUS_MAXIMUS",
@@ -12444,9 +12449,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_PERSIA",
       "SetID": "7l38kb8",
       "Name": "Persian Paganism",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_ROME",
@@ -12965,21 +12970,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13675,
+      "Progressed": 13677,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13675,
+      "Progressed": 13677,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-24T04:00:31.5764786+00:00",
-  "LastChanged_Achievements": "2023-08-30T13:14:05.9762337+00:00",
+  "LastChanged_Achievements": "2023-08-30T14:08:52.470561+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:39.7773306+00:00",
-  "LastUpdate_Ratings": "2023-08-30T13:05:20.5612494+00:00",
-  "LastUpdate_Achievements": "2023-08-30T13:14:05.9770085+00:00"
+  "LastUpdate_Ratings": "2023-08-30T14:02:04.785691+00:00",
+  "LastUpdate_Achievements": "2023-08-30T14:08:52.4714972+00:00"
 }

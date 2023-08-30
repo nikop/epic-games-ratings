@@ -22,11 +22,11 @@ Rating: 4.88 (Ranked 19)
 | I look cool. But I can look COOLER. | 7.00% | ~280 |
 | The Negotiator | 6.00% | ~240 |
 | Headliner | 6.00% | ~240 |
+| Time to pay up! | 6.00% | ~240 |
 | Whoa! There's ANOTHER health bar!? | 6.00% | ~240 |
 | Out in a puff of smoke | 6.00% | ~240 |
 | Does that say weakpoint? | 6.00% | ~240 |
 | NOW we got a kickass hideout! | 6.00% | ~151 |
-| Time to pay up! | 5.00% | ~200 |
 | Who's the boss now? | 5.00% | ~200 |
 | I have to read these things? | 5.00% | ~200 |
 | You must like calling me in, Chai | 5.00% | ~200 |

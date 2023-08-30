@@ -5,10 +5,10 @@
   "Ranking_Rating": 688,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
-  "Ranking_EOS_Progress": 367,
+  "Ranking_EOS_Progress": 365,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -338,9 +338,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 62,
+  "EOS_Progressed": 63,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -558,6 +558,11 @@
       "Time": "2023-08-30T12:06:28.7939102+00:00",
       "NumProgressed": 62,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-30T14:08:06.6621484+00:00",
+      "NumProgressed": 63,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -728,7 +733,7 @@
       "ID": "ACH_OASIS",
       "SetID": "232494e",
       "Name": "Nature or Nurture",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
       "UsersEstimate": 19
     },
@@ -776,9 +781,9 @@
       "ID": "ACH_S5",
       "SetID": "232494e",
       "Name": "Cogs in the Machine",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_SANDSTORM",
@@ -786,13 +791,13 @@
       "Name": "Lost in Space",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_STATUE",
       "SetID": "232494e",
       "Name": "Forgotten Memories",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 30,
       "UsersEstimate": 21
     }
@@ -801,15 +806,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 62,
+      "Progressed": 63,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-08-30T13:11:42.9302932+00:00",
+  "LastChanged_Achievements": "2023-08-30T14:08:06.6621478+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:24.6161941+00:00",
-  "LastUpdate_Ratings": "2023-08-30T13:04:50.9914002+00:00",
-  "LastUpdate_Achievements": "2023-08-30T13:11:42.9303121+00:00"
+  "LastUpdate_Ratings": "2023-08-30T14:01:21.1207749+00:00",
+  "LastUpdate_Achievements": "2023-08-30T14:08:06.6621725+00:00"
 }

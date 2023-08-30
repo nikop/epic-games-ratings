@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2020-03-31T12:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5333,
+  "EOS_Progressed": 5334,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -3150,6 +3150,11 @@
       "Time": "2023-08-29T23:05:04.5494445+00:00",
       "NumProgressed": 5333,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-30T14:05:09.6937625+00:00",
+      "NumProgressed": 5334,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -3239,9 +3244,9 @@
       "ID": "ach_campaign_progress12",
       "SetID": "8cb3id7",
       "Name": "Level: Mayor Trouble",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_campaign_progress2",
@@ -3273,7 +3278,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 2666
+      "UsersEstimate": 2667
     },
     {
       "ID": "ach_campaign_progress6",
@@ -3575,9 +3580,9 @@
       "ID": "ach_frp_many_products5",
       "SetID": "8cb3id7",
       "Name": "CEO",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 21
     },
     {
       "ID": "ach_frp_researchdata",
@@ -3743,9 +3748,9 @@
       "ID": "ach_rockstar_employee",
       "SetID": "8cb3id7",
       "Name": "Rockstar",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 21
     },
     {
       "ID": "ach_speedy",
@@ -3768,15 +3773,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5333,
+      "Progressed": 5334,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-08-30T13:09:36.1119378+00:00",
+  "LastChanged_Achievements": "2023-08-30T14:05:09.6937618+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:28.3476806+00:00",
-  "LastUpdate_Ratings": "2023-08-30T13:02:49.6374345+00:00",
-  "LastUpdate_Achievements": "2023-08-30T13:09:36.11202+00:00"
+  "LastUpdate_Ratings": "2023-08-30T13:58:17.5545634+00:00",
+  "LastUpdate_Achievements": "2023-08-30T14:05:09.6938661+00:00"
 }

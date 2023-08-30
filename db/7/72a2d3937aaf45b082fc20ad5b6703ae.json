@@ -2,10 +2,10 @@
   "ID": "72a2d3937aaf45b082fc20ad5b6703ae",
   "Name": "The Making of Karateka",
   "ProductSlug": "the-making-of-karateka-7d9a6c",
-  "Ranking_EOS_Progress": 500,
+  "Ranking_EOS_Progress": 492,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 294,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-08-29T16:00:00+00:00",
     "PcReleaseDate": "2023-08-29T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2,
+  "EOS_Progressed": 3,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33,6 +33,11 @@
     {
       "Time": "2023-08-29T17:07:15.2419711+00:00",
       "NumProgressed": 2,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-30T14:06:54.8337854+00:00",
+      "NumProgressed": 3,
       "NumCompleted": 0
     }
   ],
@@ -52,7 +57,7 @@
       "ID": "deathbouncer",
       "SetID": "l4g2eh",
       "Name": "Deathbouncer",
-      "Percentage": 150,
+      "Percentage": 100,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -60,7 +65,7 @@
       "ID": "down_ship",
       "SetID": "l4g2eh",
       "Name": "Down With The Ship",
-      "Percentage": 100,
+      "Percentage": 67,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -108,7 +113,7 @@
       "ID": "little_star",
       "SetID": "l4g2eh",
       "Name": "Little Star",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -140,7 +145,7 @@
       "ID": "one_down",
       "SetID": "l4g2eh",
       "Name": "One Down",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -148,7 +153,7 @@
       "ID": "original",
       "SetID": "l4g2eh",
       "Name": "The Original",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 80,
       "UsersEstimate": 1
     },
@@ -156,7 +161,7 @@
       "ID": "ran_trouble",
       "SetID": "l4g2eh",
       "Name": "Ran Into Trouble",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -180,7 +185,7 @@
       "ID": "sudden_death",
       "SetID": "l4g2eh",
       "Name": "Sudden Death",
-      "Percentage": 100,
+      "Percentage": 67,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -197,13 +202,13 @@
     {
       "ID": "l4g2eh",
       "IsBase": true,
-      "Progressed": 2,
+      "Progressed": 3,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-04T19:02:29.8301885+00:00",
-  "LastChanged_Achievements": "2023-08-30T13:10:51.5273139+00:00",
+  "LastChanged_Achievements": "2023-08-30T14:06:54.8337848+00:00",
   "LastUpdate_AppInfo": "2023-08-25T20:57:03.2915213+00:00",
-  "LastUpdate_Ratings": "2023-08-30T13:04:03.7360907+00:00",
-  "LastUpdate_Achievements": "2023-08-30T13:10:51.5273264+00:00"
+  "LastUpdate_Ratings": "2023-08-30T14:00:09.4779385+00:00",
+  "LastUpdate_Achievements": "2023-08-30T14:06:54.8338009+00:00"
 }

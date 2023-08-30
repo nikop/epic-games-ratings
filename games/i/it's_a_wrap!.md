@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under the Bridge | 75.00% | ~33 |
-| Treasure Hunter | 11.00% | ~5 |
+| Under the Bridge | 77.00% | ~34 |
+| Treasure Hunter | 14.00% | ~6 |
 | Space Invader | 7.00% | ~3 |
 | One Man Army | 5.00% | ~2 |
 | What's my line again? | 2.00% | ~1 |
@@ -19,7 +19,7 @@
 | Unboxing Video | 0.00% | ~0 |
 | Mise-en-scènester | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44 (Ranked 389)  
+Progressed: 44 (Ranked 390)  
 Completed: 0 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |

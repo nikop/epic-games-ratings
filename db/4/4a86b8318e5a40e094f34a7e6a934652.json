@@ -2,10 +2,10 @@
   "ID": "4a86b8318e5a40e094f34a7e6a934652",
   "Name": "I Am Future - Cozy Apocalypse Survival",
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
-  "Ranking_EOS_Progress": 461,
-  "Ranking_EOS_Completed": 23,
-  "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_Progress": 452,
+  "Ranking_EOS_Completed": 36,
+  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9,
+  "EOS_Progressed": 12,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 11.11,
+  "EOS_Completed_Percentage": 8.33,
   "EosHistory": [
     {
       "Time": "2023-08-29T09:05:59.1773399+00:00",
@@ -71,6 +71,11 @@
       "Time": "2023-08-30T09:05:39.7322138+00:00",
       "NumProgressed": 9,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-30T14:07:17.8908369+00:00",
+      "NumProgressed": 12,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -81,9 +86,9 @@
       "ID": "ACQUAINTANCE_EARL",
       "SetID": "aniflfk",
       "Name": "Holy Macaroni!",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -97,7 +102,7 @@
       "ID": "BRING_MARY",
       "SetID": "aniflfk",
       "Name": "Retro Diva",
-      "Percentage": 11,
+      "Percentage": 8,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -137,7 +142,7 @@
       "ID": "GO_ON_EXPEDITION",
       "SetID": "aniflfk",
       "Name": "Off on an Expedition!",
-      "Percentage": 11,
+      "Percentage": 8,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -193,7 +198,7 @@
       "ID": "REMOVE_100_WEEDS",
       "SetID": "aniflfk",
       "Name": "Weed Warrior",
-      "Percentage": 11,
+      "Percentage": 8,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -225,9 +230,9 @@
       "ID": "TAKE_LEECH",
       "SetID": "aniflfk",
       "Name": "Uppies!",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -242,14 +247,14 @@
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 9,
+      "Progressed": 12,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-08-30T13:11:07.6183411+00:00",
+  "LastChanged_Achievements": "2023-08-30T14:07:17.8908364+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:06.6191746+00:00",
-  "LastUpdate_Ratings": "2023-08-30T13:04:37.7013934+00:00",
-  "LastUpdate_Achievements": "2023-08-30T13:11:07.6183572+00:00"
+  "LastUpdate_Ratings": "2023-08-30T14:01:00.8676853+00:00",
+  "LastUpdate_Achievements": "2023-08-30T14:07:17.8908516+00:00"
 }

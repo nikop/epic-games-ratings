@@ -6,7 +6,7 @@ Number of Ratings: 75  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level: Returning Home | 50.00% | ~2,666 |
+| Level: Returning Home | 50.00% | ~2,667 |
 | Returning Home: Quick Learner | 26.00% | ~1,387 |
 | Level: Charlie's Circuits | 22.00% | ~1,173 |
 | Level: Rising Markets | 9.00% | ~480 |
@@ -50,22 +50,22 @@ Number of Ratings: 75  (23.09.2022)
 | Bet On Bots: Inspector's Favorite | 0.60% | ~32 |
 | Trendsetter | 0.60% | ~32 |
 | Level: Heating-Up | 0.50% | ~27 |
-| CEO | 0.50% | ~27 |
-| Rockstar | 0.50% | ~27 |
 | Campaign: Man vs. Machine | 0.40% | ~21 |
 | A Happy Taskforce: Interior Designer | 0.40% | ~21 |
+| CEO | 0.40% | ~21 |
+| Rockstar | 0.40% | ~21 |
 | Champion | 0.30% | ~16 |
 | Trophy Hoarder | 0.30% | ~16 |
 | The Machinery: Goal Orientated | 0.30% | ~16 |
 | The Machinery: Energy Saver | 0.30% | ~16 |
 | Super Rich | 0.30% | ~16 |
 | Fully Packed | 0.30% | ~16 |
-| Level: Mayor Trouble | 0.20% | ~11 |
 | Happy Hour | 0.20% | ~11 |
 | Achiever | 0.20% | ~11 |
 | Grand Master | 0.10% | ~5 |
 | Trophy Enthusiast | 0.10% | ~5 |
 | Campaign: In Hot Waters | 0.10% | ~5 |
+| Level: Mayor Trouble | 0.10% | ~5 |
 | A Happy Taskforce: Overtime | 0.10% | ~5 |
 | Topple The Top: Outperformed | 0.10% | ~5 |
 | Eye In The Sky: Paranoid | 0.10% | ~5 |
@@ -83,7 +83,7 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~5 |
 | Prestigious | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,333 (Ranked 143)  
+Progressed: 5,334 (Ranked 143)  
 Completed: 1 (0.02%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,6 +214,7 @@ Completed: 1 (0.02%) (Ranked 246)
 | 2023-08-27 | 5,327 | 1 |
 | 2023-08-28 | 5,328 | 1 |
 | 2023-08-29 | 5,333 | 1 |
+| 2023-08-30 | 5,334 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

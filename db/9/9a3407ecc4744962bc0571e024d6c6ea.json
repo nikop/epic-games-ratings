@@ -4,8 +4,8 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
     "PcReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 512,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 438,
+  "EOS_NewPlayers": 434,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -834,9 +834,9 @@
       "ID": "BostonHayDay",
       "SetID": "3ai6ml8",
       "Name": "Boston Hay Day",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 307
+      "UsersEstimate": 312
     },
     {
       "ID": "BoxingClever",
@@ -882,9 +882,9 @@
       "ID": "DrinkingOnTheJob",
       "SetID": "3ai6ml8",
       "Name": "Drinking on the Job",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 241
+      "UsersEstimate": 246
     },
     {
       "ID": "DustDancing",
@@ -978,9 +978,9 @@
       "ID": "WelcomeToFortSolis",
       "SetID": "3ai6ml8",
       "Name": "Welcome to Fort Solis",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 451
+      "UsersEstimate": 456
     }
   ],
   "AchievementSets": [
@@ -993,8 +993,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-08-30T13:09:27.8762333+00:00",
+  "LastChanged_Achievements": "2023-08-30T14:04:58.6085776+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:05.9137937+00:00",
-  "LastUpdate_Ratings": "2023-08-30T13:03:32.5188233+00:00",
-  "LastUpdate_Achievements": "2023-08-30T13:09:27.8762489+00:00"
+  "LastUpdate_Ratings": "2023-08-30T13:59:23.0757644+00:00",
+  "LastUpdate_Achievements": "2023-08-30T14:04:58.6085986+00:00"
 }

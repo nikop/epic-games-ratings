@@ -11,8 +11,8 @@ Number of Ratings: 170  (23.09.2022)
 | People's Haven | 18.00% | ~3,422 |
 | Cartographer | 17.00% | ~3,232 |
 | Antlers of Stone | 15.00% | ~2,852 |
-| Knowledge for Power | 14.00% | ~2,661 |
-| Mausoleum of Ice | 14.00% | ~2,661 |
+| Knowledge for Power | 14.00% | ~2,662 |
+| Mausoleum of Ice | 14.00% | ~2,662 |
 | Gaze into the abyss | 13.00% | ~2,471 |
 | In the belly of the beast | 12.00% | ~2,281 |
 | Wings of Stone | 12.00% | ~2,281 |
@@ -25,9 +25,9 @@ Number of Ratings: 170  (23.09.2022)
 | Tails of Stone | 6.00% | ~1,141 |
 | Baa from the past | 6.00% | ~1,141 |
 | Written in stone | 6.00% | ~1,141 |
-| Hide and Seek | 5.00% | ~950 |
+| Hide and Seek | 5.00% | ~951 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,010 (Ranked 110)  
+Progressed: 19,011 (Ranked 110)  
 Completed: 380 (2.00%) (Ranked 94)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 380 (2.00%) (Ranked 94)
 | 2023-08-27 | 18,845 | 378 |
 | 2023-08-28 | 18,917 | 379 |
 | 2023-08-29 | 18,984 | 380 |
-| 2023-08-30 | 19,010 | 380 |
+| 2023-08-30 | 19,011 | 380 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

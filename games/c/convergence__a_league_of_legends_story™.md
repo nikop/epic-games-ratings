@@ -11,6 +11,7 @@ Rating: 4.60 (Ranked 393)
 | Make Up For Lost Time | 19.00% | ~161 |
 | The Prince in Heels | 19.00% | ~161 |
 | Immaculate Aim | 19.00% | ~161 |
+| The Brass Boss | 19.00% | ~161 |
 | The Steel Shadow | 18.00% | ~153 |
 | Time Flies | 18.00% | ~153 |
 | The Harder They Fall | 18.00% | ~153 |
@@ -19,7 +20,6 @@ Rating: 4.60 (Ranked 393)
 | Honest Mistake | 18.00% | ~153 |
 | Fast Learner | 18.00% | ~153 |
 | Immaculate Aim | 18.00% | ~153 |
-| The Brass Boss | 18.00% | ~153 |
 | The Wicked Twins | 17.00% | ~144 |
 | Golem Chaser | 17.00% | ~144 |
 | Like Clockwork | 16.00% | ~136 |

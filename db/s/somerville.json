@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 101,
-  "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-11-15T00:00:00+00:00",
     "PcReleaseDate": "2022-11-15T00:00:00+00:00",
@@ -611,9 +611,9 @@
       "ID": "SomervilleStuckOnTheJohn",
       "SetID": "3mk3nll",
       "Name": "\u201COccupied!\u201C",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SomervilleUnderstanding",
@@ -660,8 +660,8 @@
   "FirstSeenRating": "2022-11-25T17:58:18.0029626+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.8533708+00:00",
   "LastChanged": "2023-03-31T05:58:16.104552+00:00",
-  "LastChanged_Achievements": "2023-08-30T13:08:17.3598895+00:00",
+  "LastChanged_Achievements": "2023-08-30T14:03:17.4848059+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:27.3136141+00:00",
-  "LastUpdate_Ratings": "2023-08-30T13:05:11.5759143+00:00",
-  "LastUpdate_Achievements": "2023-08-30T13:08:17.3599018+00:00"
+  "LastUpdate_Ratings": "2023-08-30T14:01:51.0808522+00:00",
+  "LastUpdate_Achievements": "2023-08-30T14:03:17.4848271+00:00"
 }
