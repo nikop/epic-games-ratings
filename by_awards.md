@@ -1,7 +1,7 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 1,625,284 | 4.29 | 801 |
-| 2 | [Rocket League®](games/r/rocket_league®.md) | 513,041 | 4.49 | 582 |
+| 2 | [Rocket League®](games/r/rocket_league®.md) | 513,823 | 4.49 | 582 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 304,258 | 4.68 | 239 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 217,459 | 4.68 | 239 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 196,799 | 4.19 | 870 |
@@ -61,14 +61,14 @@
 | 59 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,848 | 4.66 | 280 |
 | 60 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 5,827 | 4.68 | 239 |
 | 61 | [Dead Island 2](games/d/dead_island_2.md) | 5,808 | 4.54 | 502 |
-| 62 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 5,777 | 4.75 | 134 |
+| 62 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 5,786 | 4.75 | 134 |
 | 63 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,749 | 4.82 | 66 |
 | 64 | [Prey](games/p/prey.md) | 5,656 | 4.62 | 352 |
 | 65 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,550 | 4.85 | 43 |
 | 66 | [Rogue Company](games/r/rogue_company.md) | 5,327 | 4.33 | 773 |
 | 67 | [Cities: Skylines](games/c/cities__skylines.md) | 5,241 | 4.65 | 301 |
 | 68 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,205 | 4.06 | 927 |
-| 69 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,822 | 4.69 | 218 |
+| 69 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,834 | 4.69 | 218 |
 | 70 | [MultiVersus](games/m/multiversus.md) | 4,747 | 4.56 | 474 |
 | 71 | [Shop Titans](games/s/shop_titans.md) | 4,717 | 3.99 | 940 |
 | 72 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,562 | 4.70 | 199 |
@@ -94,7 +94,7 @@
 | 92 | [Hades](games/h/hades.md) | 3,236 | 4.92 | 4 |
 | 93 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,227 | 4.57 | 450 |
 | 94 | [Trackmania](games/t/trackmania.md) | 3,199 | 4.67 | 257 |
-| 95 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 2,796 | 4.82 | 66 |
+| 95 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 2,803 | 4.82 | 66 |
 | 96 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,710 | 4.51 | 547 |
 | 97 | [Among Us](games/a/among_us.md) | 2,636 | 4.57 | 450 |
 | 98 | [Path of Exile](games/p/path_of_exile.md) | 2,586 | 4.62 | 352 |
@@ -479,7 +479,7 @@
 | 476 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 26 | 4.75 | 134 |
 | 476 | [Chimeraland](games/c/chimeraland.md) | 26 | 3.93 | 955 |
 | 476 | [DOOM II](games/d/doom_ii.md) | 26 | 4.68 | 239 |
-| 476 | [God's Trigger](games/g/god's_trigger.md) | 26 | 4.14 | 904 |
+| 476 | [God's Trigger](games/g/god's_trigger.md) | 26 | 4.14 | 903 |
 | 476 | [Spirit of the North](games/s/spirit_of_the_north.md) | 26 | 4.36 | 744 |
 | 476 | [Warpips](games/w/warpips.md) | 26 | 4.41 | 687 |
 | 483 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 25 | 4.53 | 518 |

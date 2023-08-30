@@ -71,7 +71,7 @@
 | 66 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 0 | 514 |
 | 66 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 514 |
 | 66 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 33 | 449 |
-| 66 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 2,796 | 95 |
+| 66 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 2,803 | 95 |
 | 66 | [Sifu](games/s/sifu.md) | 4.82 | 6,410 | 55 |
 | 66 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 406 | 216 |
 | 66 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 43 | 422 |
@@ -134,7 +134,7 @@
 | 117 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 41 | 424 |
 | 117 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.76 | 363 | 225 |
 | 134 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 26 | 476 |
-| 134 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 5,777 | 62 |
+| 134 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 5,786 | 62 |
 | 134 | [Cave Story+](games/c/cave_story+.md) | 4.75 | 86 | 358 |
 | 134 | [Diabotical](games/d/diabotical.md) | 4.75 | 274 | 245 |
 | 134 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 680 | 171 |
@@ -220,7 +220,7 @@
 | 218 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 115,382 | 8 |
 | 218 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 514 |
 | 218 | [CARRION](games/c/carrion.md) | 4.69 | 0 | 514 |
-| 218 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.69 | 4,822 | 69 |
+| 218 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.69 | 4,834 | 69 |
 | 218 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.69 | 0 | 514 |
 | 218 | [House Flipper](games/h/house_flipper.md) | 4.69 | 308 | 235 |
 | 218 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.69 | 0 | 514 |
@@ -592,7 +592,7 @@
 | 582 | [Maneater](games/m/maneater.md) | 4.49 | 13,638 | 26 |
 | 582 | [Mars Horizon](games/m/mars_horizon.md) | 4.49 | 0 | 514 |
 | 582 | [MythForce](games/m/mythforce.md) | 4.49 | 32 | 456 |
-| 582 | [Rocket League®](games/r/rocket_league®.md) | 4.49 | 513,041 | 2 |
+| 582 | [Rocket League®](games/r/rocket_league®.md) | 4.49 | 513,823 | 2 |
 | 582 | [Solitairica](games/s/solitairica.md) | 4.49 | 84 | 360 |
 | 582 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 0 | 514 |
 | 582 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.49 | 2,431 | 103 |
@@ -899,12 +899,12 @@
 | 895 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.15 | 0 | 514 |
 | 895 | [Dead Age 2](games/d/dead_age_2.md) | 4.15 | 0 | 514 |
 | 895 | [Forspoken](games/f/forspoken.md) | 4.15 | 27 | 471 |
-| 895 | [Pine](games/p/pine.md) | 4.15 | 0 | 514 |
 | 895 | [Relicta](games/r/relicta.md) | 4.15 | 200 | 274 |
 | 895 | [The Alien Cube](games/t/the_alien_cube.md) | 4.15 | 0 | 514 |
 | 895 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 0 | 514 |
-| 904 | [God's Trigger](games/g/god's_trigger.md) | 4.14 | 26 | 476 |
-| 904 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.14 | 0 | 514 |
+| 903 | [God's Trigger](games/g/god's_trigger.md) | 4.14 | 26 | 476 |
+| 903 | [Pine](games/p/pine.md) | 4.14 | 0 | 514 |
+| 903 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.14 | 0 | 514 |
 | 906 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 0 | 514 |
 | 906 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.13 | 0 | 514 |
 | 908 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.12 | 0 | 514 |
