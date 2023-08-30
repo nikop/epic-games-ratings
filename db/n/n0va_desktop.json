@@ -4,7 +4,7 @@
   "ProductSlug": "n0va-desktop",
   "Ranking_EOS_Progress": 563,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewPlayers": 340,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": null,
@@ -38,6 +38,6 @@
   "FirstSeenRating": "2023-03-31T05:58:36.5112066+00:00",
   "LastChanged": "2023-03-31T05:58:36.5112067+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:36.8017167+00:00",
-  "LastUpdate_Ratings": "2023-08-30T07:59:57.181861+00:00",
-  "LastUpdate_Achievements": "2023-08-30T08:04:13.649274+00:00"
+  "LastUpdate_Ratings": "2023-08-30T09:00:02.3934067+00:00",
+  "LastUpdate_Achievements": "2023-08-30T09:03:53.250114+00:00"
 }

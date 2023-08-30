@@ -6,11 +6,12 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| It wakes | 0.30% | ~2,487 |
 | MU/TH/UR Dearest | 0.30% | ~2,487 |
 | Zealous | 0.20% | ~1,658 |
-| It wakes | 0.20% | ~1,658 |
 | Not half bad | 0.20% | ~1,658 |
 | Apt Survivor | 0.20% | ~1,658 |
+| Survival Treasures | 0.20% | ~1,658 |
 | Skillful | 0.20% | ~1,658 |
 | Make Some Noise | 0.20% | ~1,658 |
 | Terror of LV-426 | 0.20% | ~1,658 |
@@ -39,7 +40,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Gifts for the Fog | 0.10% | ~829 |
 | Apt Killer | 0.10% | ~829 |
 | Risk it all | 0.10% | ~829 |
-| Survival Treasures | 0.10% | ~829 |
 | Vulture | 0.10% | ~829 |
 | Adept Jake | 0.10% | ~829 |
 | Adept Dwight | 0.10% | ~829 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~829 |
 | Adept Ripley | 0.10% | ~829 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 828,851 (Ranked 15)  
+Progressed: 828,921 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -368,16 +368,16 @@ Completed: 48 (0.01%) (Ranked 253)
 | 2023-08-27 | 822,167 | 48 |
 | 2023-08-28 | 824,988 | 48 |
 | 2023-08-29 | 828,020 | 48 |
-| 2023-08-30 | 828,851 | 48 |
+| 2023-08-30 | 828,921 | 48 |
 ## Awards
 Max (Diverse Characters): 31,677  (Ranked 15)  
-Sum: 248,176 (Ranked 11)  
+Sum: 248,251 (Ranked 11)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 31,677 |
+| This game is Highly Recommended | 28,366 |
 | This game has Competitive Players | 28,297 |
-| This game is Highly Recommended | 28,291 |
 | This game has Amazing Characters | 28,088 |
 | This game is Extremely Fun | 27,824 |
 | This game has Quickly Understood Controls | 27,555 |
@@ -607,4 +607,4 @@ Diff (max vs sum): 4
 | 2023-08-27 | 4.52 | - | 31,508 | 247,584 |
 | 2023-08-28 | 4.52 | - | 31,536 | 247,765 |
 | 2023-08-29 | 4.52 | - | 31,566 | 248,001 |
-| 2023-08-30 | 4.52 | - | 31,677 | 248,176 |
+| 2023-08-30 | 4.52 | - | 31,677 | 248,251 |

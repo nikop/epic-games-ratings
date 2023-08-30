@@ -6,13 +6,13 @@ Rating: 4.57 (Ranked 450)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | On Deceive Inc.'s Secret Service | 29.00% | ~5,148 |
-| Mainframe Hacker | 23.00% | ~4,082 |
-| The Spy who eliminated me | 23.00% | ~4,082 |
-| Tomorrow Never Dyes | 22.00% | ~3,905 |
-| Never Say Loser Again | 19.00% | ~3,372 |
-| From the Vault with Love | 18.00% | ~3,195 |
-| Tailor-Made | 18.00% | ~3,195 |
-| For your Eyes only | 18.00% | ~3,195 |
+| Mainframe Hacker | 23.00% | ~4,083 |
+| The Spy who eliminated me | 23.00% | ~4,083 |
+| Tomorrow Never Dyes | 22.00% | ~3,906 |
+| Never Say Loser Again | 19.00% | ~3,373 |
+| From the Vault with Love | 18.00% | ~3,196 |
+| Tailor-Made | 18.00% | ~3,196 |
+| For your Eyes only | 18.00% | ~3,196 |
 | Assistant Accountant | 17.00% | ~3,018 |
 | You Only Live Twice | 16.00% | ~2,840 |
 | Fully Decked Out | 16.00% | ~2,840 |
@@ -21,16 +21,16 @@ Rating: 4.57 (Ranked 450)
 | Private Collection | 12.00% | ~2,130 |
 | Hostile Takeover | 12.00% | ~2,130 |
 | Smells Like Trouble | 12.00% | ~2,130 |
-| Dr. No Kill | 11.00% | ~1,952 |
-| My Motto, My Creed | 11.00% | ~1,952 |
-| Killer Looks | 11.00% | ~1,952 |
+| Dr. No Kill | 11.00% | ~1,953 |
+| My Motto, My Creed | 11.00% | ~1,953 |
+| Killer Looks | 11.00% | ~1,953 |
 | Keycards Royale | 10.00% | ~1,775 |
 | In It to Win It | 9.00% | ~1,598 |
 | Security Supervisor | 6.00% | ~1,065 |
 | License to Thrill | 5.00% | ~888 |
-| Social of Solace | 3.00% | ~532 |
-| Live and let lie | 3.00% | ~532 |
-| Safe Withdrawal | 3.00% | ~532 |
+| Social of Solace | 3.00% | ~533 |
+| Live and let lie | 3.00% | ~533 |
+| Safe Withdrawal | 3.00% | ~533 |
 | Branch Manager | 2.00% | ~355 |
 | Call Me Maybe | 2.00% | ~355 |
 | PHD in VIP | 2.00% | ~355 |
@@ -42,7 +42,7 @@ Rating: 4.57 (Ranked 450)
 | Extraction Confusion | 0.20% | ~36 |
 | Spyfall | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,750 (Ranked 111)  
+Progressed: 17,753 (Ranked 111)  
 Completed: 1 (0.01%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 1 (0.01%) (Ranked 253)
 | 2023-08-27 | 17,704 | 1 |
 | 2023-08-28 | 17,722 | 1 |
 | 2023-08-29 | 17,746 | 1 |
-| 2023-08-30 | 17,750 | 1 |
+| 2023-08-30 | 17,753 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

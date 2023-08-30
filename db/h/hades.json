@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 101,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 79,
+  "Ranking_EOS_NewPlayers": 80,
   "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2019-12-10T11:00:00+00:00",
@@ -4231,9 +4231,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 702381,
+  "EOS_Progressed": 702382,
   "EOS_Completed": 6329,
-  "EOS_NewPlayers": 519,
+  "EOS_NewPlayers": 517,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
@@ -18321,6 +18321,11 @@
       "Time": "2023-08-30T08:06:34.4167835+00:00",
       "NumProgressed": 702381,
       "NumCompleted": 6329
+    },
+    {
+      "Time": "2023-08-30T09:06:18.8091911+00:00",
+      "NumProgressed": 702382,
+      "NumCompleted": 6329
     }
   ],
   "TotalAchievements": 49,
@@ -18388,7 +18393,7 @@
       "Name": "Is There No Escape?",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 365238
+      "UsersEstimate": 365239
     },
     {
       "ID": "AchClearAsphodel",
@@ -18396,7 +18401,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 561905
+      "UsersEstimate": 561906
     },
     {
       "ID": "AchClearElysium",
@@ -18404,7 +18409,7 @@
       "Name": "Escaped Elysium",
       "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 463571
+      "UsersEstimate": 463572
     },
     {
       "ID": "AchClearElysiumEM",
@@ -18436,7 +18441,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 625119
+      "UsersEstimate": 625120
     },
     {
       "ID": "AchCrushedThanatos",
@@ -18444,7 +18449,7 @@
       "Name": "Death Dealer",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 316071
+      "UsersEstimate": 316072
     },
     {
       "ID": "AchEliteAttributeKills",
@@ -18484,7 +18489,7 @@
       "Name": "Something From Everyone",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 133452
+      "UsersEstimate": 133453
     },
     {
       "ID": "AchFoundSummon",
@@ -18500,7 +18505,7 @@
       "Name": "Friends in High Places",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 477619
+      "UsersEstimate": 477620
     },
     {
       "ID": "AchGreaterCallSpurned",
@@ -18540,7 +18545,7 @@
       "Name": "Had to Happen",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 175595
+      "UsersEstimate": 175596
     },
     {
       "ID": "AchMaxedAnyAspect",
@@ -18548,7 +18553,7 @@
       "Name": "Blood Bound",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 245833
+      "UsersEstimate": 245834
     },
     {
       "ID": "AchMeetChthonicGods",
@@ -18556,7 +18561,7 @@
       "Name": "Chthonic Colleagues",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 442500
+      "UsersEstimate": 442501
     },
     {
       "ID": "AchMirrorAllUnlocked",
@@ -18580,7 +18585,7 @@
       "Name": "Divided by Death",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 56190
+      "UsersEstimate": 56191
     },
     {
       "ID": "AchNyxChaosReunion",
@@ -18604,7 +18609,7 @@
       "Name": "Urge to Sing",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 252857
+      "UsersEstimate": 252858
     },
     {
       "ID": "AchPactUpgradesClears",
@@ -18644,7 +18649,7 @@
       "Name": "The Family Secret",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 175595
+      "UsersEstimate": 175596
     },
     {
       "ID": "AchReachedEpilogue",
@@ -18708,7 +18713,7 @@
       "Name": "Well Stocked",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 280952
+      "UsersEstimate": 280953
     },
     {
       "ID": "ActUnlockedAllAspects",
@@ -18723,15 +18728,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 702381,
+      "Progressed": 702382,
       "Completed": 6329
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
   "LastChanged": "2023-08-30T07:01:11.4642716+00:00",
-  "LastChanged_Achievements": "2023-08-30T08:06:34.4167827+00:00",
+  "LastChanged_Achievements": "2023-08-30T09:06:18.8091907+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:37.7124664+00:00",
-  "LastUpdate_Ratings": "2023-08-30T07:59:58.7513965+00:00",
-  "LastUpdate_Achievements": "2023-08-30T08:06:34.4169095+00:00"
+  "LastUpdate_Ratings": "2023-08-30T09:00:04.0494935+00:00",
+  "LastUpdate_Achievements": "2023-08-30T09:06:18.8092885+00:00"
 }

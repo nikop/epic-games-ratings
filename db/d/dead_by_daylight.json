@@ -9591,10 +9591,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 248176,
       "NumberOfAwardsMax": 31677
+    },
+    {
+      "Time": "2023-08-30T08:58:44.054+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 248251,
+      "NumberOfAwardsMax": 31677
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 248176,
+  "NumberOfAwards": 248251,
   "NumberOfAwardsMax": 31677,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -9638,7 +9644,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 28291
+      "Count": 28366
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -9665,9 +9671,9 @@
       "Count": 23777
     }
   ],
-  "EOS_Progressed": 828851,
+  "EOS_Progressed": 828921,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 20538,
+  "EOS_NewPlayers": 20521,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -24390,6 +24396,11 @@
       "Time": "2023-08-30T08:06:37.2953355+00:00",
       "NumProgressed": 828851,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-08-30T09:06:22.0321635+00:00",
+      "NumProgressed": 828921,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 229,
@@ -24575,9 +24586,9 @@
       "ID": "ACH_023",
       "SetID": "bdmlp8o",
       "Name": "It wakes",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1658
+      "UsersEstimate": 2487
     },
     {
       "ID": "ACH_024",
@@ -24631,9 +24642,9 @@
       "ID": "ACH_030",
       "SetID": "bdmlp8o",
       "Name": "Survival Treasures",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 829
+      "UsersEstimate": 1658
     },
     {
       "ID": "ACH_031",
@@ -26232,21 +26243,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 828851,
+      "Progressed": 828921,
       "Completed": 40
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 828851,
+      "Progressed": 828921,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
-  "LastChanged": "2023-08-30T06:59:31.1422674+00:00",
-  "LastChanged_Achievements": "2023-08-30T08:06:37.295335+00:00",
+  "LastChanged": "2023-08-30T08:58:44.0539998+00:00",
+  "LastChanged_Achievements": "2023-08-30T09:06:22.0321632+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:54.3324879+00:00",
-  "LastUpdate_Ratings": "2023-08-30T07:58:41.9898484+00:00",
-  "LastUpdate_Achievements": "2023-08-30T08:06:37.2960487+00:00"
+  "LastUpdate_Ratings": "2023-08-30T08:58:44.0540008+00:00",
+  "LastUpdate_Achievements": "2023-08-30T09:06:22.0327424+00:00"
 }

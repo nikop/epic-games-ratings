@@ -53,7 +53,7 @@ Rating: 4.55 (Ranked 488)
 | Tiqqun Unchained | 1.00% | ~31 |
 | Scientifically Accurate | 1.00% | ~31 |
 | Work Harder | 0.50% | ~16 |
-| Drill-dozer | 0.40% | ~12 |
+| Drill-dozer | 0.50% | ~16 |
 | Crunch Culture | 0.30% | ~9 |
 | Soylent Green | 0.30% | ~9 |
 | A Junker's Dream | 0.20% | ~6 |

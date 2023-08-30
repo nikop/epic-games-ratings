@@ -13,17 +13,17 @@ Rating: 4.54 (Ranked 503)
 | Coup de Grâce | 0.50% | ~3,346 |
 | Hazardous Materials | 0.50% | ~3,346 |
 | Friends Like These | 0.50% | ~3,346 |
+| Apex Predator | 0.50% | ~3,346 |
 | Stacking the Deck | 0.50% | ~3,346 |
 | Personal Assistant Personally Assisted | 0.50% | ~3,346 |
-| Bookworm | 0.40% | ~2,676 |
-| But Doctor, I am Butcho | 0.40% | ~2,676 |
-| Slayer Squad | 0.40% | ~2,676 |
-| Can't Handle the Truth | 0.40% | ~2,676 |
-| Like Riding a Bike | 0.40% | ~2,676 |
-| Apex Predator | 0.40% | ~2,676 |
-| Zombologist | 0.40% | ~2,676 |
-| A Patton Emerges | 0.40% | ~2,676 |
-| This is My Weapon | 0.40% | ~2,676 |
+| Bookworm | 0.40% | ~2,677 |
+| But Doctor, I am Butcho | 0.40% | ~2,677 |
+| Slayer Squad | 0.40% | ~2,677 |
+| Can't Handle the Truth | 0.40% | ~2,677 |
+| Like Riding a Bike | 0.40% | ~2,677 |
+| Zombologist | 0.40% | ~2,677 |
+| A Patton Emerges | 0.40% | ~2,677 |
+| This is My Weapon | 0.40% | ~2,677 |
 | Making Your Mark | 0.30% | ~2,007 |
 | Anger Management | 0.30% | ~2,007 |
 | Perks of the Job | 0.30% | ~2,007 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 503)
 | Variety is the Spice of Death | 0.10% | ~669 |
 | Bucket List | 0.10% | ~669 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 669,119 (Ranked 22)  
+Progressed: 669,134 (Ranked 22)  
 Completed: 2,092 (0.31%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 2,092 (0.31%) (Ranked 174)
 | 2023-08-27 | 667,273 | 2,082 |
 | 2023-08-28 | 668,091 | 2,086 |
 | 2023-08-29 | 668,912 | 2,088 |
-| 2023-08-30 | 669,119 | 2,092 |
+| 2023-08-30 | 669,134 | 2,092 |
 ## Awards
 Max (Great Boss Battles): 5,808  (Ranked 61)  
 Sum: 8,556 (Ranked 97)  

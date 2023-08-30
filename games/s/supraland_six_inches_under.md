@@ -26,11 +26,11 @@ Number of Ratings: 209  (23.09.2022)
 | Boomeraxe | 87.00% | ~1,930 |
 | Iron Pickaxe | 87.00% | ~1,930 |
 | Banking District | 86.00% | ~1,907 |
+| Mission Unlikely | 86.00% | ~1,907 |
 | Arrested | 85.00% | ~1,885 |
 | Zappy Gun | 85.00% | ~1,885 |
 | Got your own one now | 85.00% | ~1,885 |
 | Don't draw dicks pls | 85.00% | ~1,885 |
-| Mission Unlikely | 85.00% | ~1,885 |
 | Ripped | 84.00% | ~1,863 |
 | Beat the big arena | 83.00% | ~1,841 |
 | Force Cube | 82.00% | ~1,819 |
@@ -61,7 +61,7 @@ Number of Ratings: 209  (23.09.2022)
 | All the chests | 14.00% | ~311 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,218 (Ranked 171)  
-Completed: 269 (12.13%) (Ranked 22)  
+Completed: 269 (12.13%) (Ranked 21)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -14,7 +14,7 @@ Rating: 4.45 (Ranked 637)
 | Taking it back | 27.00% | ~959 |
 | Resourceful | 26.00% | ~923 |
 | Target America | 25.00% | ~888 |
-| The Kraken Sleeps | 23.00% | ~816 |
+| The Kraken Sleeps | 23.00% | ~817 |
 | Organ Grinder | 22.00% | ~781 |
 | As Quiet as a Mouse | 22.00% | ~781 |
 | Liberté | 21.00% | ~746 |
@@ -23,8 +23,8 @@ Rating: 4.45 (Ranked 637)
 | Gunslinger | 17.00% | ~604 |
 | Just a Flesh Wound | 16.00% | ~568 |
 | Der Geist | 16.00% | ~568 |
-| Climbing the Ladder | 15.00% | ~532 |
-| Close Quarters | 15.00% | ~532 |
+| Climbing the Ladder | 15.00% | ~533 |
+| Close Quarters | 15.00% | ~533 |
 | Fields of Glory | 14.00% | ~497 |
 | Skirmisher | 14.00% | ~497 |
 | Die Nussknacker Sweet! | 14.00% | ~497 |
@@ -49,9 +49,9 @@ Rating: 4.45 (Ranked 637)
 | Last Resort | 4.00% | ~140 |
 | Siegebreaker | 4.00% | ~140 |
 | Ghost of Falaise | 4.00% | ~140 |
-| Burn after reading | 3.00% | ~106 |
-| Souvenir hunter | 3.00% | ~106 |
-| Shoot for the Moon | 3.00% | ~106 |
+| Burn after reading | 3.00% | ~107 |
+| Souvenir hunter | 3.00% | ~107 |
+| Shoot for the Moon | 3.00% | ~107 |
 | If You Go Down To The Woods Today | 3.00% | ~105 |
 | Fight Another Day | 3.00% | ~105 |
 | From Paris with Love | 2.00% | ~71 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 637)
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,550 (Ranked 153)  
+Progressed: 3,551 (Ranked 152)  
 Completed: 10 (0.28%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,7 +208,7 @@ Completed: 10 (0.28%) (Ranked 180)
 | 2023-08-27 | 3,537 | 9 |
 | 2023-08-28 | 3,542 | 10 |
 | 2023-08-29 | 3,547 | 10 |
-| 2023-08-30 | 3,550 | 10 |
+| 2023-08-30 | 3,551 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1056,9 +1056,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 4921,
+  "EOS_Progressed": 4922,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8791,6 +8791,11 @@
       "Time": "2023-08-30T07:04:40.0818845+00:00",
       "NumProgressed": 4921,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-30T09:04:04.792725+00:00",
+      "NumProgressed": 4922,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -8858,7 +8863,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -8874,7 +8879,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -8962,7 +8967,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 3740
+      "UsersEstimate": 3741
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -8994,7 +8999,7 @@
       "Name": "I Owe You Nothing",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ACH_MYWAYS",
@@ -9082,7 +9087,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -9106,7 +9111,7 @@
       "Name": "French Connection",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -9121,15 +9126,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 4921,
+      "Progressed": 4922,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-08-19T05:59:02.5104499+00:00",
-  "LastChanged_Achievements": "2023-08-30T08:04:24.8714333+00:00",
+  "LastChanged_Achievements": "2023-08-30T09:04:04.7927244+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:51.1953585+00:00",
-  "LastUpdate_Ratings": "2023-08-30T07:58:40.5899951+00:00",
-  "LastUpdate_Achievements": "2023-08-30T08:04:24.8715083+00:00"
+  "LastUpdate_Ratings": "2023-08-30T08:58:42.4540727+00:00",
+  "LastUpdate_Achievements": "2023-08-30T09:04:04.7927869+00:00"
 }
