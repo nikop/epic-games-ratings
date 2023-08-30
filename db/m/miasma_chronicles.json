@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -3127,9 +3127,9 @@
       "ID": "GUN_FOR_HIRE",
       "SetID": "9a4jnji",
       "Name": "Gun for Hire",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 964
+      "UsersEstimate": 978
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -3312,8 +3312,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-08-24T13:04:37.3738417+00:00",
-  "LastChanged_Achievements": "2023-08-30T15:02:15.9351128+00:00",
+  "LastChanged_Achievements": "2023-08-30T16:03:09.0468245+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:56.8957598+00:00",
-  "LastUpdate_Ratings": "2023-08-30T14:57:21.3962844+00:00",
-  "LastUpdate_Achievements": "2023-08-30T15:02:15.9351844+00:00"
+  "LastUpdate_Ratings": "2023-08-30T15:57:25.083533+00:00",
+  "LastUpdate_Achievements": "2023-08-30T16:03:09.0468923+00:00"
 }

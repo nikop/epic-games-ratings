@@ -5800,9 +5800,9 @@
       "Count": 3739
     }
   ],
-  "EOS_Progressed": 135386,
+  "EOS_Progressed": 135390,
   "EOS_Completed": 138,
-  "EOS_NewPlayers": 402,
+  "EOS_NewPlayers": 401,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -19340,6 +19340,11 @@
       "Time": "2023-08-30T15:02:18.8866684+00:00",
       "NumProgressed": 135386,
       "NumCompleted": 138
+    },
+    {
+      "Time": "2023-08-30T16:03:11.93263+00:00",
+      "NumProgressed": 135390,
+      "NumCompleted": 138
     }
   ],
   "TotalAchievements": 112,
@@ -19431,7 +19436,7 @@
       "Name": "One Easy Payment",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1218
+      "UsersEstimate": 1219
     },
     {
       "ID": "bigsale02",
@@ -19455,7 +19460,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1218
+      "UsersEstimate": 1219
     },
     {
       "ID": "blueprint02",
@@ -19703,7 +19708,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1218
+      "UsersEstimate": 1219
     },
     {
       "ID": "energy02",
@@ -20215,7 +20220,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1218
+      "UsersEstimate": 1219
     },
     {
       "ID": "workers02",
@@ -20246,15 +20251,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135386,
+      "Progressed": 135390,
       "Completed": 138
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-29T18:57:45.332931+00:00",
-  "LastChanged_Achievements": "2023-08-30T15:02:18.8866678+00:00",
+  "LastChanged_Achievements": "2023-08-30T16:03:11.9326293+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:19.0477827+00:00",
-  "LastUpdate_Ratings": "2023-08-30T14:57:34.715999+00:00",
-  "LastUpdate_Achievements": "2023-08-30T15:02:18.8870586+00:00"
+  "LastUpdate_Ratings": "2023-08-30T15:57:38.3707796+00:00",
+  "LastUpdate_Achievements": "2023-08-30T16:03:11.9330985+00:00"
 }

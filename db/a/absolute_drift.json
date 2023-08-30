@@ -2,7 +2,7 @@
   "ID": "9d2f484bbec64aa8ad234b3199dcaf1c",
   "Name": "Absolute Drift",
   "ProductSlug": "absolute-drift",
-  "Ranking_Rating": 688,
+  "Ranking_Rating": 687,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 7,
@@ -442,9 +442,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1537828,
+  "EOS_Progressed": 1537831,
   "EOS_Completed": 669,
-  "EOS_NewPlayers": 1258,
+  "EOS_NewPlayers": 1257,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -15142,6 +15142,11 @@
       "Time": "2023-08-30T15:05:28.3467355+00:00",
       "NumProgressed": 1537828,
       "NumCompleted": 669
+    },
+    {
+      "Time": "2023-08-30T16:05:39.8507831+00:00",
+      "NumProgressed": 1537831,
+      "NumCompleted": 669
     }
   ],
   "TotalAchievements": 20,
@@ -15297,7 +15302,7 @@
       "Name": "The Long Drift",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 76891
+      "UsersEstimate": 76892
     },
     {
       "ID": "ACH_WASHING_MACHINE",
@@ -15312,15 +15317,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1537828,
+      "Progressed": 1537831,
       "Completed": 669
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-07-23T19:00:00.3270793+00:00",
-  "LastChanged_Achievements": "2023-08-30T15:05:28.3467347+00:00",
+  "LastChanged_Achievements": "2023-08-30T16:05:39.8507825+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:30.2739724+00:00",
-  "LastUpdate_Ratings": "2023-08-30T14:59:05.1723874+00:00",
-  "LastUpdate_Achievements": "2023-08-30T15:05:28.3469298+00:00"
+  "LastUpdate_Ratings": "2023-08-30T15:59:09.2217506+00:00",
+  "LastUpdate_Achievements": "2023-08-30T16:05:39.8509608+00:00"
 }

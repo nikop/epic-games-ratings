@@ -6,26 +6,28 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MU/TH/UR Dearest | 0.40% | ~3,319 |
-| Zealous | 0.30% | ~2,489 |
-| It wakes | 0.30% | ~2,489 |
-| Skillful | 0.30% | ~2,489 |
-| Terror of LV-426 | 0.30% | ~2,489 |
-| The Grand Sacrifice | 0.20% | ~1,659 |
-| Backdoor Escape | 0.20% | ~1,659 |
-| No one left behind | 0.20% | ~1,659 |
-| Medic | 0.20% | ~1,659 |
-| Handyman | 0.20% | ~1,659 |
-| Nerves of steel | 0.20% | ~1,659 |
-| Not half bad | 0.20% | ~1,659 |
-| Bloody Millionaire | 0.20% | ~1,659 |
-| Apt Survivor | 0.20% | ~1,659 |
-| Survival Treasures | 0.20% | ~1,659 |
-| I | 0.20% | ~1,659 |
-| Sorted | 0.20% | ~1,659 |
-| Healthy Obsession | 0.20% | ~1,659 |
-| Resurgence | 0.20% | ~1,659 |
-| Make Some Noise | 0.20% | ~1,659 |
+| It wakes | 0.40% | ~3,320 |
+| MU/TH/UR Dearest | 0.40% | ~3,320 |
+| Zealous | 0.30% | ~2,490 |
+| Not half bad | 0.30% | ~2,490 |
+| Skillful | 0.30% | ~2,490 |
+| Make Some Noise | 0.30% | ~2,490 |
+| Terror of LV-426 | 0.30% | ~2,490 |
+| The Grand Sacrifice | 0.20% | ~1,660 |
+| Backdoor Escape | 0.20% | ~1,660 |
+| No one left behind | 0.20% | ~1,660 |
+| Medic | 0.20% | ~1,660 |
+| Handyman | 0.20% | ~1,660 |
+| Nerves of steel | 0.20% | ~1,660 |
+| Perfect Escape | 0.20% | ~1,660 |
+| Bloody Millionaire | 0.20% | ~1,660 |
+| Apt Survivor | 0.20% | ~1,660 |
+| Survival Treasures | 0.20% | ~1,660 |
+| I | 0.20% | ~1,660 |
+| Sorted | 0.20% | ~1,660 |
+| Healthy Obsession | 0.20% | ~1,660 |
+| Resurgence | 0.20% | ~1,660 |
+| Preemptive Strike | 0.20% | ~1,660 |
 | A bite for the Entity | 0.10% | ~830 |
 | A feast for the Entity | 0.10% | ~830 |
 | Blood on your hands | 0.10% | ~830 |
@@ -39,7 +41,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Agonizing Escape | 0.10% | ~830 |
 | The Key to Escape | 0.10% | ~830 |
 | I've got your back | 0.10% | ~830 |
-| Perfect Escape | 0.10% | ~830 |
 | Perfect Killing | 0.10% | ~830 |
 | Gifts for the Fog | 0.10% | ~830 |
 | Apt Killer | 0.10% | ~830 |
@@ -176,7 +177,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Close Shave | 0.10% | ~830 |
 | Adept Yun-Jin | 0.10% | ~830 |
 | Biological Weaponry | 0.10% | ~830 |
-| Preemptive Strike | 0.10% | ~830 |
 | Adept Nemesis | 0.10% | ~830 |
 | Raccoon City Recruit | 0.10% | ~830 |
 | Adept Leon | 0.10% | ~830 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~830 |
 | Adept Ripley | 0.10% | ~830 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 829,728 (Ranked 15)  
+Progressed: 829,897 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -368,7 +368,7 @@ Completed: 48 (0.01%) (Ranked 253)
 | 2023-08-27 | 822,167 | 48 |
 | 2023-08-28 | 824,988 | 48 |
 | 2023-08-29 | 828,020 | 48 |
-| 2023-08-30 | 829,728 | 48 |
+| 2023-08-30 | 829,897 | 48 |
 ## Awards
 Max (Diverse Characters): 31,677  (Ranked 15)  
 Sum: 248,552 (Ranked 11)  

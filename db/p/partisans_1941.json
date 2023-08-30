@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1323,
+  "EOS_Progressed": 1324,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2355,6 +2355,11 @@
       "Time": "2023-08-29T18:07:06.1335758+00:00",
       "NumProgressed": 1323,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-30T16:07:42.1030853+00:00",
+      "NumProgressed": 1324,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2396,9 +2401,9 @@
       "ID": "Boy",
       "SetID": "85nb4h3",
       "Name": "You\u0027re Gonna Go Far, Kid",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 318
+      "UsersEstimate": 305
     },
     {
       "ID": "Commandos",
@@ -2454,7 +2459,7 @@
       "Name": "The Gang\u0027s All Here",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "Experienced_strategist",
@@ -2558,7 +2563,7 @@
       "Name": "Mosquito bite",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "Scout",
@@ -2605,15 +2610,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1323,
+      "Progressed": 1324,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-08-30T15:07:29.5336487+00:00",
+  "LastChanged_Achievements": "2023-08-30T16:07:42.1030847+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:40.0859007+00:00",
-  "LastUpdate_Ratings": "2023-08-30T14:58:14.3345967+00:00",
-  "LastUpdate_Achievements": "2023-08-30T15:07:29.533709+00:00"
+  "LastUpdate_Ratings": "2023-08-30T15:58:17.2381202+00:00",
+  "LastUpdate_Achievements": "2023-08-30T16:07:42.1031401+00:00"
 }

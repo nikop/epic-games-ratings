@@ -7,7 +7,7 @@ Number of Ratings: 38  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Balding bloot! | 79.00% | ~1,115 |
-| Lovebirds | 49.00% | ~692 |
+| Lovebirds | 50.00% | ~706 |
 | Life’s short, ride long | 45.00% | ~635 |
 | Hug therapy | 44.00% | ~621 |
 | Over my dead body | 40.00% | ~565 |

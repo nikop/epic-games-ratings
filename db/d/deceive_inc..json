@@ -232,9 +232,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17757,
+  "EOS_Progressed": 17758,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 178,
+  "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9387,6 +9387,11 @@
       "Time": "2023-08-30T15:07:21.0237705+00:00",
       "NumProgressed": 17757,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-30T16:07:33.3215229+00:00",
+      "NumProgressed": 17758,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -9622,7 +9627,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2308
+      "UsersEstimate": 2309
     },
     {
       "ID": "0030",
@@ -9685,7 +9690,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17757,
+      "Progressed": 17758,
       "Completed": 1
     }
   ],
@@ -9693,8 +9698,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-27T03:58:40.60023+00:00",
-  "LastChanged_Achievements": "2023-08-30T15:07:21.02377+00:00",
+  "LastChanged_Achievements": "2023-08-30T16:07:33.3215225+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:14.6586711+00:00",
-  "LastUpdate_Ratings": "2023-08-30T14:58:50.173341+00:00",
-  "LastUpdate_Achievements": "2023-08-30T15:07:21.0238568+00:00"
+  "LastUpdate_Ratings": "2023-08-30T15:58:53.5753004+00:00",
+  "LastUpdate_Achievements": "2023-08-30T16:07:33.3216114+00:00"
 }

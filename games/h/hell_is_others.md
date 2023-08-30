@@ -1,12 +1,12 @@
 # Hell is Others
 [Store](https://store.epicgames.com/en-US/p/hell-is-others-789262)  
 [View Rawdata](../../db/h/hell_is_others.json)  
-Rating: 4.41 (Ranked 688)  
+Rating: 4.41 (Ranked 687)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~79,249 |
-| Predator I | 22.00% | ~56,241 |
+| Survivor | 31.00% | ~79,250 |
+| Predator I | 22.00% | ~56,242 |
 | Fixer I | 10.00% | ~25,564 |
 | A week in Century City | 10.00% | ~25,564 |
 | The Wait | 7.00% | ~17,895 |
@@ -36,7 +36,7 @@ Rating: 4.41 (Ranked 688)
 | Bricklayer | 1.00% | ~2,556 |
 | Run the Economy | 1.00% | ~2,556 |
 | Committed Relationship | 0.80% | ~2,045 |
-| Number 1 | 0.70% | ~1,789 |
+| Number 1 | 0.70% | ~1,790 |
 | Interior designer | 0.60% | ~1,534 |
 | The Gamble | 0.50% | ~1,278 |
 | The Descent | 0.50% | ~1,278 |
@@ -62,7 +62,7 @@ Rating: 4.41 (Ranked 688)
 | Capitalist III | 0.10% | ~256 |
 | Hell Is You | 0.10% | ~256 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,642 (Ranked 46)  
+Progressed: 255,644 (Ranked 46)  
 Completed: 3 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 3 (0.00%) (Ranked 266)
 | 2023-08-27 | 255,510 | 3 |
 | 2023-08-28 | 255,556 | 3 |
 | 2023-08-29 | 255,608 | 3 |
-| 2023-08-30 | 255,642 | 3 |
+| 2023-08-30 | 255,644 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 36  (Ranked 433)  
 Sum: 245 (Ranked 356)  

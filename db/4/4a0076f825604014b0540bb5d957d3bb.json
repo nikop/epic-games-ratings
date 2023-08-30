@@ -366,9 +366,9 @@
       "ID": "CgkInO_K3eIdEAIQCg",
       "SetID": "6bj96in",
       "Name": "ADVANCED CRAFTSMAN",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 40,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "CgkInO_K3eIdEAIQCw",
@@ -390,9 +390,9 @@
       "ID": "CgkInO_K3eIdEAIQDQ",
       "SetID": "6bj96in",
       "Name": "TEMPORAL ARCHITECT",
-      "Percentage": 84,
+      "Percentage": 86,
       "XP": 40,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "CgkInO_K3eIdEAIQDg",
@@ -509,8 +509,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-08-30T15:07:38.6644068+00:00",
+  "LastChanged_Achievements": "2023-08-30T16:07:50.9790418+00:00",
   "LastUpdate_AppInfo": "2023-08-23T17:57:10.7957602+00:00",
-  "LastUpdate_Ratings": "2023-08-30T15:00:05.0067988+00:00",
-  "LastUpdate_Achievements": "2023-08-30T15:07:38.6644401+00:00"
+  "LastUpdate_Ratings": "2023-08-30T16:00:09.6139044+00:00",
+  "LastUpdate_Achievements": "2023-08-30T16:07:50.9790615+00:00"
 }

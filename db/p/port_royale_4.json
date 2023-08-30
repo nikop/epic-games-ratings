@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 855,
+  "EOS_Progressed": 856,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1880,6 +1880,11 @@
       "Time": "2023-08-30T14:05:54.5236675+00:00",
       "NumProgressed": 855,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-30T16:05:41.2523524+00:00",
+      "NumProgressed": 856,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -1891,7 +1896,7 @@
       "Name": "Cabin boy",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "ACH001",
@@ -1899,7 +1904,7 @@
       "Name": "Seafarer",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "ACH002",
@@ -1979,7 +1984,7 @@
       "Name": "Intangible",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "ACH012",
@@ -2003,7 +2008,7 @@
       "Name": "Christening",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACH015",
@@ -2011,7 +2016,7 @@
       "Name": "Groundskeeper",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ACH016",
@@ -2025,9 +2030,9 @@
       "ID": "ACH017",
       "SetID": "69nfp41",
       "Name": "Pearly gates",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 145
+      "UsersEstimate": 154
     },
     {
       "ID": "ACH018",
@@ -2041,9 +2046,9 @@
       "ID": "ACH019",
       "SetID": "69nfp41",
       "Name": "Just a scratch",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 68
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH020",
@@ -2059,7 +2064,7 @@
       "Name": "Collectionitis",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACH022",
@@ -2075,7 +2080,7 @@
       "Name": "Gofer",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "ACH024",
@@ -2091,7 +2096,7 @@
       "Name": "My precious!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH026",
@@ -2107,7 +2112,7 @@
       "Name": "I\u0027m out of here for a while",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "ACH028",
@@ -2290,15 +2295,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 855,
+      "Progressed": 856,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-07-02T02:29:11.8786643+00:00",
-  "LastChanged_Achievements": "2023-08-30T15:05:29.8971293+00:00",
+  "LastChanged_Achievements": "2023-08-30T16:05:41.2523519+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:12.1663686+00:00",
-  "LastUpdate_Ratings": "2023-08-30T14:57:26.4391879+00:00",
-  "LastUpdate_Achievements": "2023-08-30T15:05:29.8972065+00:00"
+  "LastUpdate_Ratings": "2023-08-30T15:57:29.9818087+00:00",
+  "LastUpdate_Achievements": "2023-08-30T16:05:41.2524508+00:00"
 }

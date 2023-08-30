@@ -4,8 +4,8 @@
   "ProductSlug": "the-elder-scrolls-online",
   "Ranking_Rating": 773,
   "Ranking_Popularity": 119,
-  "Ranking_PopularitySum": 184,
-  "Ranking_EOS_Progress": 565,
+  "Ranking_PopularitySum": 183,
+  "Ranking_EOS_Progress": 566,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 340,
   "Ranking_EOS_NewCompleters": 101,
@@ -1194,10 +1194,16 @@
       "Rating": 4.33,
       "NumberOfAwards": 2362,
       "NumberOfAwardsMax": 1640
+    },
+    {
+      "Time": "2023-08-30T15:58:45.7783781+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 2365,
+      "NumberOfAwardsMax": 1640
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2362,
+  "NumberOfAwards": 2365,
   "NumberOfAwardsMax": 1640,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1223,7 +1229,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 112
+      "Count": 115
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -1274,8 +1280,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-20T19:00:34.5855853+00:00",
   "FirstSeenRating": "2023-07-21T13:07:17.4893089+00:00",
-  "LastChanged": "2023-08-30T13:59:01.3674973+00:00",
+  "LastChanged": "2023-08-30T15:58:45.7783779+00:00",
   "LastUpdate_AppInfo": "2023-08-24T18:57:13.7617865+00:00",
-  "LastUpdate_Ratings": "2023-08-30T14:58:42.8401425+00:00",
-  "LastUpdate_Achievements": "2023-08-30T15:05:22.5346691+00:00"
+  "LastUpdate_Ratings": "2023-08-30T15:58:45.7783785+00:00",
+  "LastUpdate_Achievements": "2023-08-30T16:05:33.9271795+00:00"
 }

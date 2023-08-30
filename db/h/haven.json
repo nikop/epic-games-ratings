@@ -1613,9 +1613,9 @@
       "ID": "1",
       "SetID": "n50no0",
       "Name": "Lovebirds",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 692
+      "UsersEstimate": 706
     },
     {
       "ID": "10",
@@ -1861,8 +1861,8 @@
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-08-10T12:01:06.704766+00:00",
-  "LastChanged_Achievements": "2023-08-30T15:06:35.3089548+00:00",
+  "LastChanged_Achievements": "2023-08-30T16:06:46.6144334+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:58.660219+00:00",
-  "LastUpdate_Ratings": "2023-08-30T14:58:33.0303883+00:00",
-  "LastUpdate_Achievements": "2023-08-30T15:06:35.3090491+00:00"
+  "LastUpdate_Ratings": "2023-08-30T15:58:35.6448719+00:00",
+  "LastUpdate_Achievements": "2023-08-30T16:06:46.6144653+00:00"
 }

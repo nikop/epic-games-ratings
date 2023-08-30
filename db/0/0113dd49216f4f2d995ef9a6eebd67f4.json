@@ -367,9 +367,9 @@
       "ID": "SG_MEANTTOBE",
       "SetID": "bj5g0n4",
       "Name": "Meant To Be",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "SG_MYTIMETOSHINE",
@@ -534,8 +534,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-08-30T15:05:57.2339451+00:00",
+  "LastChanged_Achievements": "2023-08-30T16:06:08.355651+00:00",
   "LastUpdate_AppInfo": "2023-08-24T08:56:52.7420093+00:00",
-  "LastUpdate_Ratings": "2023-08-30T14:59:25.544125+00:00",
-  "LastUpdate_Achievements": "2023-08-30T15:05:57.2339969+00:00"
+  "LastUpdate_Ratings": "2023-08-30T15:59:29.5376709+00:00",
+  "LastUpdate_Achievements": "2023-08-30T16:06:08.3557008+00:00"
 }

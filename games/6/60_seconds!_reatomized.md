@@ -25,7 +25,7 @@ Rating: 4.64 (Ranked 315)
 | Be Prepared | 37.00% | ~1,855 |
 | Unbreakable | 36.00% | ~1,805 |
 | This is the end | 34.00% | ~1,705 |
-| Gotta get 'em all | 32.00% | ~1,604 |
+| Gotta get 'em all | 33.00% | ~1,655 |
 | Atomic drill | 32.00% | ~1,604 |
 | Disco Roach | 27.00% | ~1,354 |
 | Dawkins Residence | 21.00% | ~1,053 |
