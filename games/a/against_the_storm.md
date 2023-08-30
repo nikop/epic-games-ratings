@@ -192,14 +192,14 @@ Completed: 47 (0.29%) (Ranked 177)
 | 2023-08-30 | 16,451 | 47 |
 ## Awards
 Max (Quickly Understood Controls): 425  (Ranked 209)  
-Sum: 3,117 (Ranked 162)  
+Sum: 3,118 (Ranked 162)  
 Diff (max vs sum): 47  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 425 |
 | This game is Relaxing | 420 |
 | This game is Extremely Fun | 398 |
-| This game is Great for Beginners | 395 |
+| This game is Great for Beginners | 396 |
 | This game is Highly Recommended | 379 |
 | This game has Unique Visuals | 317 |
 | This game has Amazing Storytelling | 307 |
@@ -386,3 +386,4 @@ Diff (max vs sum): 47
 | 2023-08-22 | 4.81 | - | 424 | 3,113 |
 | 2023-08-24 | 4.81 | - | 425 | 3,115 |
 | 2023-08-29 | 4.81 | - | 425 | 3,117 |
+| 2023-08-30 | 4.81 | - | 425 | 3,118 |

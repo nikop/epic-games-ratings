@@ -58,8 +58,8 @@ Number of Ratings: 836  (23.09.2022)
 | True Survivor | 2.00% | ~174 |
 | The Friendliest | 1.00% | ~87 |
 | Legendary Adventurer | 1.00% | ~87 |
+| Slimy yet Satisfying | 1.00% | ~87 |
 | A Closer Look | 1.00% | ~87 |
-| Slimy yet Satisfying | 0.90% | ~78 |
 | Feng Shui | 0.90% | ~78 |
 | Finnished | 0.40% | ~35 |
 | Fun and Games | 0.20% | ~17 |
@@ -201,12 +201,12 @@ Completed: 0 (0.00%) (Ranked 266)
 | 2023-08-30 | 8,678 | 0 |
 ## Awards
 Max (Extremely Fun): 101  (Ranked 335)  
-Sum: 694 (Ranked 279)  
-Diff (max vs sum): 56  
+Sum: 695 (Ranked 278)  
+Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 101 |
-| This game is Great for Beginners | 90 |
+| This game is Great for Beginners | 91 |
 | This game has Amazing Storytelling | 86 |
 | This game is Relaxing | 82 |
 | This game has Quickly Understood Controls | 82 |
@@ -331,3 +331,4 @@ Diff (max vs sum): 56
 | 2023-08-23 | 4.48 | - | 101 | 692 |
 | 2023-08-24 | 4.48 | - | 101 | 693 |
 | 2023-08-25 | 4.48 | - | 101 | 694 |
+| 2023-08-30 | 4.48 | - | 101 | 695 |

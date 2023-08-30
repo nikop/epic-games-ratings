@@ -15,6 +15,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Architect | 3.00% | ~410 |
 | Good | 3.00% | ~410 |
 | Intrepid | 3.00% | ~410 |
+| Learned | 3.00% | ~410 |
 | Mason | 3.00% | ~410 |
 | Noble | 3.00% | ~410 |
 | Strong | 3.00% | ~410 |
@@ -30,7 +31,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great | 2.00% | ~274 |
 | Just | 2.00% | ~274 |
 | Keystone | 2.00% | ~274 |
-| Learned | 2.00% | ~274 |
 | Magnificent | 2.00% | ~274 |
 | Pioneer | 2.00% | ~274 |
 | Warrior | 2.00% | ~274 |
@@ -89,6 +89,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 3 | 0.90% | ~123 |
 | Power to the People | 0.90% | ~123 |
 | Legalism | 0.90% | ~123 |
+| Phalangite | 0.90% | ~123 |
 | Invincible | 0.80% | ~109 |
 | Subjugator | 0.80% | ~109 |
 | Good Difficulty | 0.80% | ~109 |
@@ -98,26 +99,25 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus | 0.80% | ~109 |
 | Hagia Sophia | 0.80% | ~109 |
 | Economic Reform | 0.80% | ~109 |
+| Dualism | 0.80% | ~109 |
 | Redemption | 0.80% | ~109 |
 | Legionary | 0.80% | ~109 |
-| Phalangite | 0.80% | ~109 |
 | Ambition Victory | 0.80% | ~109 |
+| Double Victory | 0.80% | ~109 |
 | Win a Single Player Game | 0.80% | ~109 |
 | Capable | 0.70% | ~96 |
+| Devout | 0.70% | ~96 |
 | Ready | 0.70% | ~96 |
 | Riders | 0.70% | ~96 |
 | Church of the Holy Sepulchre | 0.70% | ~96 |
 | Assyrian Paganism | 0.70% | ~96 |
 | Industrial Progress | 0.70% | ~96 |
 | Military Prestige | 0.70% | ~96 |
-| Dualism | 0.70% | ~96 |
 | Gnosticism | 0.70% | ~96 |
 | Revelation | 0.70% | ~96 |
 | Veneration | 0.70% | ~96 |
 | Cimmerian Archer | 0.70% | ~96 |
-| Double Victory | 0.70% | ~96 |
 | Bad Heir Day | 0.60% | ~82 |
-| Devout | 0.60% | ~82 |
 | Strong Difficulty | 0.60% | ~82 |
 | Hunters | 0.60% | ~82 |
 | Landowners | 0.60% | ~82 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,677 (Ranked 120)  
+Progressed: 13,678 (Ranked 120)  
 Completed: 5 (0.04%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -435,7 +435,7 @@ Completed: 5 (0.04%) (Ranked 236)
 | 2023-08-27 | 13,616 | 5 |
 | 2023-08-28 | 13,635 | 5 |
 | 2023-08-29 | 13,661 | 5 |
-| 2023-08-30 | 13,677 | 5 |
+| 2023-08-30 | 13,678 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,799 (Ranked 207)  

@@ -6,25 +6,25 @@ Number of Ratings: 7,669  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 29.00% | ~15 |
-| It's a good start | 8.00% | ~4 |
-| Bonjour! | 8.00% | ~4 |
-| The Blue Marl | 6.00% | ~3 |
-| The Assistant | 4.00% | ~2 |
-| Surprise of Langhe | 4.00% | ~2 |
-| Big Money | 2.00% | ~1 |
-| Millionaire | 2.00% | ~1 |
-| A long journey | 2.00% | ~1 |
-| Quack | 2.00% | ~1 |
-| Exotic | 2.00% | ~1 |
-| Pastry Chef | 2.00% | ~1 |
-| Welcome to the club | 2.00% | ~1 |
-| Famous | 2.00% | ~1 |
+| Bye Bye | 28.00% | ~20 |
+| It's a good start | 10.00% | ~7 |
+| Bonjour! | 9.00% | ~6 |
+| The Blue Marl | 4.00% | ~3 |
+| Ostinata | 3.00% | ~2 |
+| The Assistant | 3.00% | ~2 |
+| A long journey | 3.00% | ~2 |
+| Quack | 3.00% | ~2 |
+| Better than nothing? | 3.00% | ~2 |
+| Surprise of Langhe | 3.00% | ~2 |
+| Big Money | 1.00% | ~1 |
+| Millionaire | 1.00% | ~1 |
+| Exotic | 1.00% | ~1 |
+| Pastry Chef | 1.00% | ~1 |
+| Welcome to the club | 1.00% | ~1 |
+| Famous | 1.00% | ~1 |
 | What is that? A castle? | 0.00% | ~0 |
 | A lot of space | 0.00% | ~0 |
 | A big garage | 0.00% | ~0 |
-| Ostinata | 0.00% | ~0 |
-| Better than nothing? | 0.00% | ~0 |
 | Keep the doctor away | 0.00% | ~0 |
 | King of red wines | 0.00% | ~0 |
 | King of white wines | 0.00% | ~0 |
@@ -38,12 +38,12 @@ Number of Ratings: 7,669  (23.09.2022)
 | Knight of Langhe | 0.00% | ~0 |
 | Very Important Winemaker | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52 (Ranked 381)  
+Progressed: 70 (Ranked 360)  
 Completed: 0 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-08-30 | 52 | 0 |
+| 2023-08-30 | 70 | 0 |
 ## Awards
 Max (Relaxing): 203  (Ranked 273)  
 Sum: 1,457 (Ranked 224)  

@@ -6,23 +6,26 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MU/TH/UR Dearest | 0.40% | ~3,318 |
+| MU/TH/UR Dearest | 0.40% | ~3,319 |
 | Zealous | 0.30% | ~2,489 |
 | It wakes | 0.30% | ~2,489 |
 | Skillful | 0.30% | ~2,489 |
 | Terror of LV-426 | 0.30% | ~2,489 |
+| The Grand Sacrifice | 0.20% | ~1,659 |
+| Backdoor Escape | 0.20% | ~1,659 |
 | No one left behind | 0.20% | ~1,659 |
 | Medic | 0.20% | ~1,659 |
 | Handyman | 0.20% | ~1,659 |
 | Nerves of steel | 0.20% | ~1,659 |
 | Not half bad | 0.20% | ~1,659 |
+| Bloody Millionaire | 0.20% | ~1,659 |
 | Apt Survivor | 0.20% | ~1,659 |
 | Survival Treasures | 0.20% | ~1,659 |
 | I | 0.20% | ~1,659 |
 | Sorted | 0.20% | ~1,659 |
+| Healthy Obsession | 0.20% | ~1,659 |
 | Resurgence | 0.20% | ~1,659 |
 | Make Some Noise | 0.20% | ~1,659 |
-| The Grand Sacrifice | 0.10% | ~830 |
 | A bite for the Entity | 0.10% | ~830 |
 | A feast for the Entity | 0.10% | ~830 |
 | Blood on your hands | 0.10% | ~830 |
@@ -34,12 +37,10 @@ Number of Ratings: 70,340  (23.09.2022)
 | Escape Artist | 0.10% | ~830 |
 | Made it out alive! | 0.10% | ~830 |
 | Agonizing Escape | 0.10% | ~830 |
-| Backdoor Escape | 0.10% | ~830 |
 | The Key to Escape | 0.10% | ~830 |
 | I've got your back | 0.10% | ~830 |
 | Perfect Escape | 0.10% | ~830 |
 | Perfect Killing | 0.10% | ~830 |
-| Bloody Millionaire | 0.10% | ~830 |
 | Gifts for the Fog | 0.10% | ~830 |
 | Apt Killer | 0.10% | ~830 |
 | Risk it all | 0.10% | ~830 |
@@ -156,7 +157,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Death of Ignorance | 0.10% | ~830 |
 | Adept Executioner | 0.10% | ~830 |
 | Classy Act | 0.10% | ~830 |
-| Healthy Obsession | 0.10% | ~830 |
 | Adept Cheryl | 0.10% | ~830 |
 | Speed Kills | 0.10% | ~830 |
 | I See You | 0.10% | ~830 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~830 |
 | Adept Ripley | 0.10% | ~830 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 829,552 (Ranked 15)  
+Progressed: 829,728 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -368,7 +368,7 @@ Completed: 48 (0.01%) (Ranked 253)
 | 2023-08-27 | 822,167 | 48 |
 | 2023-08-28 | 824,988 | 48 |
 | 2023-08-29 | 828,020 | 48 |
-| 2023-08-30 | 829,552 | 48 |
+| 2023-08-30 | 829,728 | 48 |
 ## Awards
 Max (Diverse Characters): 31,677  (Ranked 15)  
 Sum: 248,552 (Ranked 11)  

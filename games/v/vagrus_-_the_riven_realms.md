@@ -17,11 +17,12 @@
 | Taskmaster | 7.00% | ~9 |
 | Acquaintance | 6.00% | ~8 |
 | Conciliator | 5.00% | ~7 |
+| The More the Merrier | 5.00% | ~7 |
 | Courier | 5.00% | ~7 |
 | Tail-wind | 5.00% | ~7 |
 | Quartermaster | 4.00% | ~5 |
 | Strategist | 4.00% | ~5 |
-| The More the Merrier | 4.00% | ~5 |
+| Deputized | 4.00% | ~5 |
 | Harbinger | 4.00% | ~5 |
 | Been There | 4.00% | ~5 |
 | Spiritual Journey | 4.00% | ~5 |
@@ -31,13 +32,12 @@
 | Supercargo | 3.00% | ~4 |
 | Potential Unlocked | 3.00% | ~4 |
 | Xevarian Gambit | 3.00% | ~4 |
-| Deputized | 3.00% | ~4 |
 | The Voice of Hereafter | 3.00% | ~4 |
 | Despised | 3.00% | ~4 |
 | A Terrible Will | 3.00% | ~4 |
 | Trouble at Fort Larius | 3.00% | ~4 |
+| Unseen Patterns | 3.00% | ~4 |
 | Life... Finds a Way | 2.00% | ~3 |
-| Unseen Patterns | 2.00% | ~3 |
 | Making Contact | 1.00% | ~1 |
 | Bounty Hunter | 1.00% | ~1 |
 | Adept | 1.00% | ~1 |

@@ -2,9 +2,9 @@
   "ID": "5891aa5c4c6f4aabbf555a679e02cfb9",
   "Name": "The Evil Within 2",
   "ProductSlug": "the-evil-within-2",
-  "Ranking_EOS_Progress": 369,
+  "Ranking_EOS_Progress": 370,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -403,9 +403,9 @@
       "ID": "ACHIEVEMENT_13",
       "SetID": "b36c5kb",
       "Name": "Fire Walk With Me",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -443,9 +443,9 @@
       "ID": "ACHIEVEMENT_18",
       "SetID": "b36c5kb",
       "Name": "Sykes Out",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -722,8 +722,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-08-30T14:07:23.8330119+00:00",
+  "LastChanged_Achievements": "2023-08-30T15:06:46.8103277+00:00",
   "LastUpdate_AppInfo": "2023-08-23T17:57:10.5850624+00:00",
-  "LastUpdate_Ratings": "2023-08-30T14:00:13.3157509+00:00",
-  "LastUpdate_Achievements": "2023-08-30T14:07:23.8330647+00:00"
+  "LastUpdate_Ratings": "2023-08-30T14:59:42.952575+00:00",
+  "LastUpdate_Achievements": "2023-08-30T15:06:46.8104187+00:00"
 }

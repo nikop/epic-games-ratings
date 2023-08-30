@@ -6956,7 +6956,7 @@
   ],
   "EOS_Progressed": 291087,
   "EOS_Completed": 458,
-  "EOS_NewPlayers": 435,
+  "EOS_NewPlayers": 432,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -21296,9 +21296,9 @@
       "ID": "PFA_24",
       "SetID": "1hf4dep",
       "Name": "Loom for Improvement",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 26198
+      "UsersEstimate": 29109
     },
     {
       "ID": "PFA_25",
@@ -21537,8 +21537,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-08-30T14:01:25.5700058+00:00",
-  "LastChanged_Achievements": "2023-08-30T14:04:30.7102035+00:00",
+  "LastChanged_Achievements": "2023-08-30T15:04:17.1304897+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:27.4425386+00:00",
-  "LastUpdate_Ratings": "2023-08-30T14:01:25.5700064+00:00",
-  "LastUpdate_Achievements": "2023-08-30T14:04:30.7103274+00:00"
+  "LastUpdate_Ratings": "2023-08-30T15:00:43.9640737+00:00",
+  "LastUpdate_Achievements": "2023-08-30T15:04:17.1307132+00:00"
 }

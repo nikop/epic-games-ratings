@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 253,
   "Ranking_EOS_NewPlayers": 6,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2016-06-14T16:00:00+00:00",
@@ -9695,9 +9695,9 @@
       "Count": 23843
     }
   ],
-  "EOS_Progressed": 829552,
+  "EOS_Progressed": 829728,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 20612,
+  "EOS_NewPlayers": 20649,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -24450,6 +24450,11 @@
       "Time": "2023-08-30T14:08:18.5603572+00:00",
       "NumProgressed": 829552,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-08-30T15:07:33.7156701+00:00",
+      "NumProgressed": 829728,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 229,
@@ -24459,9 +24464,9 @@
       "ID": "ACH_001",
       "SetID": "bdmlp8o",
       "Name": "The Grand Sacrifice",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 830
+      "UsersEstimate": 1659
     },
     {
       "ID": "ACH_002",
@@ -24555,9 +24560,9 @@
       "ID": "ACH_013",
       "SetID": "bdmlp8o",
       "Name": "Backdoor Escape",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 830
+      "UsersEstimate": 1659
     },
     {
       "ID": "ACH_014",
@@ -24651,9 +24656,9 @@
       "ID": "ACH_025",
       "SetID": "bdmlp8o",
       "Name": "Bloody Millionaire",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 830
+      "UsersEstimate": 1659
     },
     {
       "ID": "ACH_026",
@@ -25627,9 +25632,9 @@
       "ID": "ACH_150",
       "SetID": "16jml5b",
       "Name": "Healthy Obsession",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 830
+      "UsersEstimate": 1659
     },
     {
       "ID": "ACH_151",
@@ -26269,7 +26274,7 @@
       "Name": "MU/TH/UR Dearest",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 3318
+      "UsersEstimate": 3319
     },
     {
       "ID": "ACH_231",
@@ -26292,21 +26297,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 829552,
+      "Progressed": 829728,
       "Completed": 40
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 829552,
+      "Progressed": 829728,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-08-30T14:00:00.3757903+00:00",
-  "LastChanged_Achievements": "2023-08-30T14:08:18.5603566+00:00",
+  "LastChanged_Achievements": "2023-08-30T15:07:33.7156692+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:54.3324879+00:00",
-  "LastUpdate_Ratings": "2023-08-30T14:00:00.375791+00:00",
-  "LastUpdate_Achievements": "2023-08-30T14:08:18.5610487+00:00"
+  "LastUpdate_Ratings": "2023-08-30T14:59:31.9994623+00:00",
+  "LastUpdate_Achievements": "2023-08-30T15:07:33.7170357+00:00"
 }

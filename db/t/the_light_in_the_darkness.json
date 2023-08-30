@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 33,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2270,
+  "EOS_Progressed": 2271,
   "EOS_Completed": 203,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 8.94,
   "EosHistory": [
@@ -5393,6 +5393,11 @@
       "Time": "2023-08-30T14:07:13.0118178+00:00",
       "NumProgressed": 2270,
       "NumCompleted": 203
+    },
+    {
+      "Time": "2023-08-30T15:06:37.3954249+00:00",
+      "NumProgressed": 2271,
+      "NumCompleted": 203
     }
   ],
   "TotalAchievements": 12,
@@ -5404,7 +5409,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "Bernard",
@@ -5412,7 +5417,7 @@
       "Name": "Bernard",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "Building the Fox",
@@ -5420,7 +5425,7 @@
       "Name": "Building the Fox",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "Green Ticket Roundup",
@@ -5492,14 +5497,14 @@
       "Name": "Nuremberg Laws",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     }
   ],
   "AchievementSets": [
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2270,
+      "Progressed": 2271,
       "Completed": 203
     }
   ],
@@ -5507,8 +5512,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-08-30T14:07:13.0118171+00:00",
+  "LastChanged_Achievements": "2023-08-30T15:06:37.3954242+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:56:57.0664875+00:00",
-  "LastUpdate_Ratings": "2023-08-30T13:58:09.0782624+00:00",
-  "LastUpdate_Achievements": "2023-08-30T14:07:13.0118607+00:00"
+  "LastUpdate_Ratings": "2023-08-30T14:57:58.8107359+00:00",
+  "LastUpdate_Achievements": "2023-08-30T15:06:37.395498+00:00"
 }

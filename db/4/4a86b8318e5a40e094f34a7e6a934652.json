@@ -2,10 +2,10 @@
   "ID": "4a86b8318e5a40e094f34a7e6a934652",
   "Name": "I Am Future - Cozy Apocalypse Survival",
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
-  "Ranking_EOS_Progress": 452,
-  "Ranking_EOS_Completed": 36,
-  "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_Progress": 446,
+  "Ranking_EOS_Completed": 37,
+  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12,
+  "EOS_Progressed": 13,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 8.33,
+  "EOS_Completed_Percentage": 7.69,
   "EosHistory": [
     {
       "Time": "2023-08-29T09:05:59.1773399+00:00",
@@ -76,6 +76,11 @@
       "Time": "2023-08-30T14:07:17.8908369+00:00",
       "NumProgressed": 12,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-30T15:06:41.4869413+00:00",
+      "NumProgressed": 13,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -86,7 +91,7 @@
       "ID": "ACQUAINTANCE_EARL",
       "SetID": "aniflfk",
       "Name": "Holy Macaroni!",
-      "Percentage": 25,
+      "Percentage": 23,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -102,9 +107,9 @@
       "ID": "BRING_MARY",
       "SetID": "aniflfk",
       "Name": "Retro Diva",
-      "Percentage": 8,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "BRING_PROSPERO",
@@ -142,9 +147,9 @@
       "ID": "GO_ON_EXPEDITION",
       "SetID": "aniflfk",
       "Name": "Off on an Expedition!",
-      "Percentage": 8,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -166,9 +171,9 @@
       "ID": "LUNCH_LEECH",
       "SetID": "aniflfk",
       "Name": "Leech Lunch",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
@@ -230,9 +235,9 @@
       "ID": "TAKE_LEECH",
       "SetID": "aniflfk",
       "Name": "Uppies!",
-      "Percentage": 17,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -247,14 +252,14 @@
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 12,
+      "Progressed": 13,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-08-30T14:07:17.8908364+00:00",
+  "LastChanged_Achievements": "2023-08-30T15:06:41.4869402+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:06.6191746+00:00",
-  "LastUpdate_Ratings": "2023-08-30T14:01:00.8676853+00:00",
-  "LastUpdate_Achievements": "2023-08-30T14:07:17.8908516+00:00"
+  "LastUpdate_Ratings": "2023-08-30T15:00:23.4765907+00:00",
+  "LastUpdate_Achievements": "2023-08-30T15:06:41.4869556+00:00"
 }

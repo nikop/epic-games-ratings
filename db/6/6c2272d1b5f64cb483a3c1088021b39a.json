@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 996,
+  "EOS_Progressed": 997,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3201,6 +3201,11 @@
       "Time": "2023-08-30T13:14:05.4905844+00:00",
       "NumProgressed": 996,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-30T15:08:12.3441667+00:00",
+      "NumProgressed": 997,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3380,7 +3385,7 @@
       "Name": "Elemental stones 1",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "elemental_stones_2",
@@ -3739,14 +3744,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 996,
+      "Progressed": 997,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-08-30T14:08:51.6342211+00:00",
+  "LastChanged_Achievements": "2023-08-30T15:08:12.3441658+00:00",
   "LastUpdate_AppInfo": "2023-08-29T06:57:19.2753876+00:00",
-  "LastUpdate_Ratings": "2023-08-30T14:00:53.8563808+00:00",
-  "LastUpdate_Achievements": "2023-08-30T14:08:51.6343016+00:00"
+  "LastUpdate_Ratings": "2023-08-30T15:00:17.5049789+00:00",
+  "LastUpdate_Achievements": "2023-08-30T15:08:12.3443328+00:00"
 }

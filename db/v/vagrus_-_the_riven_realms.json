@@ -652,9 +652,9 @@
       "ID": "Vanilla_CompanionsTier1",
       "SetID": "27kik8p",
       "Name": "The More the Merrier",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "Vanilla_CompleteAllSideQuests",
@@ -692,9 +692,9 @@
       "ID": "Vanilla_DeputiesMaxedOut",
       "SetID": "27kik8p",
       "Name": "Deputized",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Vanilla_DiscoverAllLocations",
@@ -1204,9 +1204,9 @@
       "ID": "Vanilla_UnseenPatterns",
       "SetID": "27kik8p",
       "Name": "Unseen Patterns",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Vanilla_VagrusMaxedOut",
@@ -1253,8 +1253,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-08-30T14:02:30.5420237+00:00",
+  "LastChanged_Achievements": "2023-08-30T15:02:18.7844617+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:25.2500253+00:00",
-  "LastUpdate_Ratings": "2023-08-30T13:58:14.8870574+00:00",
-  "LastUpdate_Achievements": "2023-08-30T14:02:30.5421524+00:00"
+  "LastUpdate_Ratings": "2023-08-30T14:58:03.6837247+00:00",
+  "LastUpdate_Achievements": "2023-08-30T15:02:18.7846067+00:00"
 }

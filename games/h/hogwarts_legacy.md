@@ -12,13 +12,13 @@ Rating: 4.77 (Ranked 109)
 | The Hallowed Hero | 10.00% | ~29,109 |
 | The Defender of Dragons | 10.00% | ~29,109 |
 | A Keen Sense of Spell | 10.00% | ~29,109 |
+| Loom for Improvement | 10.00% | ~29,109 |
 | A Talent for Spending | 10.00% | ~29,109 |
 | Coasting Along | 10.00% | ~29,109 |
 | That's a Keeper | 10.00% | ~29,109 |
 | Grappling with a Graphorn | 9.00% | ~26,198 |
 | The Hero of Hogwarts | 9.00% | ~26,198 |
 | Challenge Accepted | 9.00% | ~26,198 |
-| Loom for Improvement | 9.00% | ~26,198 |
 | Followed the Butterflies | 8.00% | ~23,287 |
 | The Spell Master | 8.00% | ~23,287 |
 | Rising From the Ashes | 8.00% | ~23,287 |

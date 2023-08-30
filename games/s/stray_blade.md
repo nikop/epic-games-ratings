@@ -17,21 +17,21 @@
 | Searing Heat | 11.00% | ~6 |
 | Expert | 11.00% | ~6 |
 | Changing the World | 11.00% | ~6 |
+| Locked and Loaded | 9.00% | ~5 |
 | Nothing but the Truth | 9.00% | ~5 |
 | Craftsmen | 7.00% | ~4 |
 | Bringing guns to a sword fight | 7.00% | ~4 |
 | Through Dangers Untold | 7.00% | ~4 |
-| Locked and Loaded | 7.00% | ~4 |
 | Defeat Tezuth | 5.00% | ~3 |
 | Defeat Uskol | 5.00% | ~3 |
 | Witch | 5.00% | ~3 |
+| The A-Team | 5.00% | ~3 |
 | Mirror, Mirror on the Wall | 4.00% | ~2 |
 | Sponsor | 4.00% | ~2 |
 | Defeat Ingla | 4.00% | ~2 |
 | Pathfinder | 4.00% | ~2 |
 | Finally! | 4.00% | ~2 |
 | The End | 4.00% | ~2 |
-| The A-Team | 4.00% | ~2 |
 | But what of the Acreans? | 4.00% | ~2 |
 | Mountain Lover | 2.00% | ~1 |
 | Wasteland Connoisseur | 2.00% | ~1 |
@@ -51,7 +51,7 @@
 | Wayseeker | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55 (Ranked 375)  
+Progressed: 55 (Ranked 376)  
 Completed: 0 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |

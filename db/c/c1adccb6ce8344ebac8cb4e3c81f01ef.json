@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 406,
+  "EOS_Progressed": 407,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 239,
+  "EOS_NewPlayers": 240,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 2.22,
+  "EOS_Completed_Percentage": 2.21,
   "EosHistory": [
     {
       "Time": "2023-06-26T21:03:11.1861868+00:00",
@@ -1271,6 +1271,11 @@
       "Time": "2023-08-30T14:04:18.0975928+00:00",
       "NumProgressed": 406,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-30T15:04:06.4319232+00:00",
+      "NumProgressed": 407,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-06-26T21:03:11.1861911+00:00",
@@ -1321,23 +1326,23 @@
       "ID": "YellowSkeleton",
       "SetID": "a76l54k",
       "Name": "Yellow Skeleton",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 200,
-      "UsersEstimate": 65
+      "UsersEstimate": 61
     }
   ],
   "AchievementSets": [
     {
       "ID": "a76l54k",
       "IsBase": true,
-      "Progressed": 406,
+      "Progressed": 407,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-06-27T08:56:55.4742028+00:00",
   "FirstSeenAchievements": "2023-06-15T10:01:05.3060571+00:00",
-  "LastChanged_Achievements": "2023-08-30T14:04:18.0975922+00:00",
+  "LastChanged_Achievements": "2023-08-30T15:04:06.4319223+00:00",
   "LastUpdate_AppInfo": "2023-08-24T17:57:03.5736235+00:00",
-  "LastUpdate_Ratings": "2023-08-30T14:00:38.6755812+00:00",
-  "LastUpdate_Achievements": "2023-08-30T14:04:18.0976082+00:00"
+  "LastUpdate_Ratings": "2023-08-30T15:00:04.5224967+00:00",
+  "LastUpdate_Achievements": "2023-08-30T15:04:06.4319502+00:00"
 }

@@ -5800,9 +5800,9 @@
       "Count": 3739
     }
   ],
-  "EOS_Progressed": 135383,
+  "EOS_Progressed": 135386,
   "EOS_Completed": 138,
-  "EOS_NewPlayers": 400,
+  "EOS_NewPlayers": 402,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -19335,6 +19335,11 @@
       "Time": "2023-08-30T14:02:30.526501+00:00",
       "NumProgressed": 135383,
       "NumCompleted": 138
+    },
+    {
+      "Time": "2023-08-30T15:02:18.8866684+00:00",
+      "NumProgressed": 135386,
+      "NumCompleted": 138
     }
   ],
   "TotalAchievements": 112,
@@ -20184,9 +20189,9 @@
       "ID": "uncommonres01",
       "SetID": "anfd17p",
       "Name": "Special Ingredient",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 406
+      "UsersEstimate": 542
     },
     {
       "ID": "uncommonres02",
@@ -20241,15 +20246,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135383,
+      "Progressed": 135386,
       "Completed": 138
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-29T18:57:45.332931+00:00",
-  "LastChanged_Achievements": "2023-08-30T14:02:30.5265005+00:00",
+  "LastChanged_Achievements": "2023-08-30T15:02:18.8866678+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:19.0477827+00:00",
-  "LastUpdate_Ratings": "2023-08-30T13:57:40.5406361+00:00",
-  "LastUpdate_Achievements": "2023-08-30T14:02:30.5267537+00:00"
+  "LastUpdate_Ratings": "2023-08-30T14:57:34.715999+00:00",
+  "LastUpdate_Achievements": "2023-08-30T15:02:18.8870586+00:00"
 }

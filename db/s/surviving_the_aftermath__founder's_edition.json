@@ -4,7 +4,7 @@
   "ProductSlug": "surviving-the-aftermath",
   "Ranking_Rating": 598,
   "Ranking_Popularity": 335,
-  "Ranking_PopularitySum": 279,
+  "Ranking_PopularitySum": 278,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 102,
@@ -1141,10 +1141,16 @@
       "Rating": 4.48,
       "NumberOfAwards": 694,
       "NumberOfAwardsMax": 101
+    },
+    {
+      "Time": "2023-08-30T14:59:07.4775371+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 695,
+      "NumberOfAwardsMax": 101
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 694,
+  "NumberOfAwards": 695,
   "NumberOfAwardsMax": 101,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1194,7 +1200,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 90
+      "Count": 91
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1211,7 +1217,7 @@
   ],
   "EOS_Progressed": 8678,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 203,
+  "EOS_NewPlayers": 202,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11988,9 +11994,9 @@
       "ID": "32",
       "SetID": "8idi9ml",
       "Name": "Slimy yet Satisfying",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 87
     },
     {
       "ID": "33",
@@ -12267,9 +12273,9 @@
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
-  "LastChanged": "2023-08-25T02:13:36.2865808+00:00",
-  "LastChanged_Achievements": "2023-08-30T14:05:18.6611235+00:00",
+  "LastChanged": "2023-08-30T14:59:07.4775368+00:00",
+  "LastChanged_Achievements": "2023-08-30T15:04:58.5462221+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:34.935802+00:00",
-  "LastUpdate_Ratings": "2023-08-30T13:59:31.1255676+00:00",
-  "LastUpdate_Achievements": "2023-08-30T14:05:18.6612462+00:00"
+  "LastUpdate_Ratings": "2023-08-30T14:59:07.4775375+00:00",
+  "LastUpdate_Achievements": "2023-08-30T15:04:58.5463478+00:00"
 }

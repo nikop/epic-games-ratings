@@ -4,7 +4,7 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 560,
+  "EOS_Progressed": 562,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2409,6 +2409,11 @@
       "Time": "2023-08-29T17:06:25.1290565+00:00",
       "NumProgressed": 560,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-30T15:05:38.8346699+00:00",
+      "NumProgressed": 562,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -2476,7 +2481,7 @@
       "Name": "So Clean You Can Eat Off the Floor",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "Clothes10",
@@ -2580,7 +2585,7 @@
       "Name": "Haute Cuisine",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "Money10000",
@@ -2594,9 +2599,9 @@
       "ID": "OpenRestaurant",
       "SetID": "d1bm05f",
       "Name": "The Big Day",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 381
+      "UsersEstimate": 377
     },
     {
       "ID": "Packing20",
@@ -2620,7 +2625,7 @@
       "Name": "Home Cook",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "RecipeDifferent30",
@@ -2642,9 +2647,9 @@
       "ID": "SDishes50",
       "SetID": "d1bm05f",
       "Name": "S is for Scrumptious",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 101
+      "UsersEstimate": 96
     },
     {
       "ID": "ServiceMaxClient",
@@ -2739,7 +2744,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 560,
+      "Progressed": 562,
       "Completed": 0
     }
   ],
@@ -2747,8 +2752,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-08-30T14:06:04.5137088+00:00",
+  "LastChanged_Achievements": "2023-08-30T15:05:38.8346692+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:23.7723182+00:00",
-  "LastUpdate_Ratings": "2023-08-30T13:57:39.1799748+00:00",
-  "LastUpdate_Achievements": "2023-08-30T14:06:04.5137538+00:00"
+  "LastUpdate_Ratings": "2023-08-30T14:57:33.7278773+00:00",
+  "LastUpdate_Achievements": "2023-08-30T15:05:38.8347234+00:00"
 }

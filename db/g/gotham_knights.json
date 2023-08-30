@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2570,7 +2570,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 68111,
+  "EOS_Progressed": 68112,
   "EOS_Completed": 110,
   "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 1,
@@ -13500,6 +13500,11 @@
       "Time": "2023-08-30T11:03:11.9318934+00:00",
       "NumProgressed": 68111,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2023-08-30T15:03:11.6291409+00:00",
+      "NumProgressed": 68112,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 61,
@@ -13559,7 +13564,7 @@
       "Name": "The Batman Family",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 14984
+      "UsersEstimate": 14985
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -13615,7 +13620,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 14303
+      "UsersEstimate": 14304
     },
     {
       "ID": "CLAYFACE_2",
@@ -13671,7 +13676,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 8854
+      "UsersEstimate": 8855
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -13719,7 +13724,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 8854
+      "UsersEstimate": 8855
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -13743,7 +13748,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 14303
+      "UsersEstimate": 14304
     },
     {
       "ID": "FREEZE_2",
@@ -13919,7 +13924,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 14984
+      "UsersEstimate": 14985
     },
     {
       "ID": "MYSTERY_04",
@@ -13998,13 +14003,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 68111,
+      "Progressed": 68112,
       "Completed": 110
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38391,
+      "Progressed": 38392,
       "Completed": 2660
     }
   ],
@@ -14012,8 +14017,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-08-30T13:03:28.4521037+00:00",
-  "LastChanged_Achievements": "2023-08-30T14:03:15.70984+00:00",
+  "LastChanged_Achievements": "2023-08-30T15:03:11.6291401+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:22.0819335+00:00",
-  "LastUpdate_Ratings": "2023-08-30T13:59:17.2622706+00:00",
-  "LastUpdate_Achievements": "2023-08-30T14:03:15.7099676+00:00"
+  "LastUpdate_Ratings": "2023-08-30T14:58:55.8159601+00:00",
+  "LastUpdate_Achievements": "2023-08-30T15:03:11.6293713+00:00"
 }

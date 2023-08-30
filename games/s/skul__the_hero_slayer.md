@@ -10,7 +10,7 @@ Number of Ratings: 546  (23.09.2022)
 | What should I buy? | 84.00% | ~6,840 |
 | Focus! | 63.00% | ~5,130 |
 | Rescued Elder Ent | 63.00% | ~5,130 |
-| The End of the Gold Mane Knights | 48.00% | ~3,909 |
+| The End of the Gold Mane Knights | 49.00% | ~3,990 |
 | Rules of Etiquette | 41.00% | ~3,339 |
 | False Goddess, Disappear | 40.00% | ~3,257 |
 | Quick Movements | 34.00% | ~2,769 |
