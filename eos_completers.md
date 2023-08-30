@@ -49,7 +49,7 @@
 | 46 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 48 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.88% |
 | 49 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.33% |
-| 50 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.27% |
+| 50 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.30% |
 | 51 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.26% |
 | 52 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.17% |
 | 53 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.13% |
@@ -63,7 +63,7 @@
 | 60 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.17% |
 | 62 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.08% |
 | 63 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.99% |
-| 64 | [ZZT!](games/z/zzt!.md) | 3.86% |
+| 64 | [ZZT!](games/z/zzt!.md) | 3.89% |
 | 65 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 66 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 67 | [Without Escape](games/w/without_escape.md) | 3.45% |
@@ -175,10 +175,10 @@
 | 173 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.33% |
 | 174 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 174 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
-| 176 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
 | 176 | [The First Tree](games/t/the_first_tree.md) | 0.30% |
-| 178 | [Against the Storm](games/a/against_the_storm.md) | 0.29% |
-| 178 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
+| 177 | [Against the Storm](games/a/against_the_storm.md) | 0.29% |
+| 177 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
+| 177 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
 | 180 | [Scrapnaut](games/s/scrapnaut.md) | 0.28% |
 | 180 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.28% |
 | 180 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.28% |
