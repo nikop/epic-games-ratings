@@ -19,6 +19,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble | 3.00% | ~410 |
 | Strong | 3.00% | ~410 |
 | Hanging Gardens | 3.00% | ~410 |
+| Regicide | 2.00% | ~273 |
 | Ambitious | 2.00% | ~273 |
 | Brilliant | 2.00% | ~273 |
 | Enlightened | 2.00% | ~273 |
@@ -55,7 +56,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Trade Caravan | 2.00% | ~273 |
 | The Great Mage | 2.00% | ~273 |
 | Poetic Leader | 2.00% | ~273 |
-| Regicide | 1.00% | ~137 |
 | Hanging Gardens in Babylon | 1.00% | ~137 |
 | Beloved | 1.00% | ~137 |
 | Drillmaster | 1.00% | ~137 |

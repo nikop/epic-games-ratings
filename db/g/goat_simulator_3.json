@@ -3430,9 +3430,9 @@
       "Count": 276
     }
   ],
-  "EOS_Progressed": 242022,
+  "EOS_Progressed": 242023,
   "EOS_Completed": 815,
-  "EOS_NewPlayers": 957,
+  "EOS_NewPlayers": 954,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -17730,6 +17730,11 @@
       "Time": "2023-08-30T02:23:13.1486809+00:00",
       "NumProgressed": 242022,
       "NumCompleted": 815
+    },
+    {
+      "Time": "2023-08-30T03:07:37.3874939+00:00",
+      "NumProgressed": 242023,
+      "NumCompleted": 815
     }
   ],
   "TotalAchievements": 39,
@@ -17805,7 +17810,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 220240
+      "UsersEstimate": 220241
     },
     {
       "ID": "AchievementClownID",
@@ -17853,7 +17858,7 @@
       "Name": "What a Waste of Money",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 79867
+      "UsersEstimate": 79868
     },
     {
       "ID": "AchievementGoatID",
@@ -17941,7 +17946,7 @@
       "Name": "Shadow Syndicate",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 91968
+      "UsersEstimate": 91969
     },
     {
       "ID": "AchievementRampID",
@@ -17973,7 +17978,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 179096
+      "UsersEstimate": 179097
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -17989,7 +17994,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 121011
+      "UsersEstimate": 121012
     },
     {
       "ID": "AchievementStreakingID",
@@ -18013,7 +18018,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 133112
+      "UsersEstimate": 133113
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -18021,7 +18026,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 113750
+      "UsersEstimate": 113751
     },
     {
       "ID": "AchievementTrinketID",
@@ -18037,7 +18042,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 157314
+      "UsersEstimate": 157315
     },
     {
       "ID": "AchievementWhaleID",
@@ -18052,7 +18057,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 242022,
+      "Progressed": 242023,
       "Completed": 815
     }
   ],
@@ -18060,8 +18065,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-08-29T23:59:31.1962294+00:00",
-  "LastChanged_Achievements": "2023-08-30T02:23:13.1486803+00:00",
+  "LastChanged_Achievements": "2023-08-30T03:07:37.3874933+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:51.7095502+00:00",
-  "LastUpdate_Ratings": "2023-08-30T02:14:30.6001979+00:00",
-  "LastUpdate_Achievements": "2023-08-30T02:23:13.1488027+00:00"
+  "LastUpdate_Ratings": "2023-08-30T02:59:07.2282965+00:00",
+  "LastUpdate_Achievements": "2023-08-30T03:07:37.3876103+00:00"
 }

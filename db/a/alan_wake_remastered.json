@@ -2,13 +2,13 @@
   "ID": "2e92a78949e2474aa89271b8b893f3b0",
   "Name": "Alan Wake Remastered",
   "ProductSlug": "alan-wake-remastered",
-  "Ranking_Rating": 489,
+  "Ranking_Rating": 488,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -13428,6 +13428,6 @@
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
   "LastChanged_Achievements": "2023-08-30T02:17:18.7332933+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:21.2068954+00:00",
-  "LastUpdate_Ratings": "2023-08-30T02:16:16.5613079+00:00",
+  "LastUpdate_Ratings": "2023-08-30T03:00:31.9338928+00:00",
   "LastUpdate_Achievements": "2023-08-30T02:17:18.7334746+00:00"
 }

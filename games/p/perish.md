@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,415 (Ranked 154)  
+Progressed: 3,416 (Ranked 154)  
 Completed: 0 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,6 +193,7 @@ Completed: 0 (0.00%) (Ranked 266)
 | 2023-08-27 | 3,411 | 0 |
 | 2023-08-28 | 3,414 | 0 |
 | 2023-08-29 | 3,415 | 0 |
+| 2023-08-30 | 3,416 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

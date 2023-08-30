@@ -4,7 +4,7 @@
   "ProductSlug": "little-orpheus-bdd666",
   "Ranking_EOS_Progress": 563,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewPlayers": 338,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-09-13T14:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:47.3750855+00:00",
   "LastChanged": "2023-03-31T05:58:47.3750856+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:25.5613543+00:00",
-  "LastUpdate_Ratings": "2023-08-30T02:13:53.8272499+00:00",
-  "LastUpdate_Achievements": "2023-08-30T02:20:31.457123+00:00"
+  "LastUpdate_Ratings": "2023-08-30T02:58:38.3346505+00:00",
+  "LastUpdate_Achievements": "2023-08-30T03:05:20.7897338+00:00"
 }

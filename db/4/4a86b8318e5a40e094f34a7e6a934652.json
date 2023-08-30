@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 465,
   "Ranking_EOS_Completed": 19,
   "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -87,9 +87,9 @@
       "ID": "BRING_MARY",
       "SetID": "aniflfk",
       "Name": "Retro Diva",
-      "Percentage": 57,
+      "Percentage": 71,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "BRING_PROSPERO",
@@ -127,9 +127,9 @@
       "ID": "GO_ON_EXPEDITION",
       "SetID": "aniflfk",
       "Name": "Off on an Expedition!",
-      "Percentage": 57,
+      "Percentage": 71,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -238,8 +238,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-08-30T02:21:52.7260629+00:00",
+  "LastChanged_Achievements": "2023-08-30T03:06:30.2176708+00:00",
   "LastUpdate_AppInfo": "2023-08-23T11:57:03.6281529+00:00",
-  "LastUpdate_Ratings": "2023-08-30T02:15:32.0135343+00:00",
-  "LastUpdate_Achievements": "2023-08-30T02:21:52.7260803+00:00"
+  "LastUpdate_Ratings": "2023-08-30T02:59:56.6666072+00:00",
+  "LastUpdate_Achievements": "2023-08-30T03:06:30.2176858+00:00"
 }

@@ -19,7 +19,7 @@ Rating: 4.48 (Ranked 598)
 | Rookie No-No More | 12.00% | ~134 |
 | Martian explorer | 11.00% | ~123 |
 | To the core | 9.00% | ~100 |
-| Blurred photofinish | 8.00% | ~89 |
+| Blurred photofinish | 9.00% | ~100 |
 | First step into a larger world | 7.00% | ~78 |
 | Over the clouds | 6.00% | ~67 |
 | Under the sea, under the sea | 6.00% | ~67 |

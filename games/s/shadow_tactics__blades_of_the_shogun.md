@@ -6,17 +6,17 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~21,851 |
-| Thorough | 10.00% | ~19,864 |
+| Genin | 11.00% | ~21,852 |
+| Thorough | 10.00% | ~19,865 |
 | A thief's beginning | 9.00% | ~17,878 |
-| Disguised | 8.00% | ~15,891 |
-| Rollin' | 8.00% | ~15,891 |
-| Tanuki Time | 8.00% | ~15,891 |
-| Ice Ice Yuki | 7.00% | ~13,905 |
-| Jonin | 7.00% | ~13,905 |
-| Rescue Takuma | 7.00% | ~13,905 |
-| Stoned Ox | 7.00% | ~13,905 |
-| Yabu | 7.00% | ~13,905 |
+| Disguised | 8.00% | ~15,892 |
+| Rollin' | 8.00% | ~15,892 |
+| Tanuki Time | 8.00% | ~15,892 |
+| Ice Ice Yuki | 7.00% | ~13,906 |
+| Jonin | 7.00% | ~13,906 |
+| Rescue Takuma | 7.00% | ~13,906 |
+| Stoned Ox | 7.00% | ~13,906 |
+| Yabu | 7.00% | ~13,906 |
 | Chunin | 6.00% | ~11,919 |
 | Happy Planning | 6.00% | ~11,919 |
 | Mugen Unchained | 6.00% | ~11,919 |
@@ -28,9 +28,9 @@ Number of Ratings: 495  (23.09.2022)
 | Happy little accidents | 4.00% | ~7,946 |
 | Prisoners | 4.00% | ~7,946 |
 | Still Rollin' | 4.00% | ~7,946 |
-| Noboru | 3.00% | ~5,959 |
-| Stoned | 3.00% | ~5,959 |
-| The Old Way | 3.00% | ~5,959 |
+| Noboru | 3.00% | ~5,960 |
+| Stoned | 3.00% | ~5,960 |
+| The Old Way | 3.00% | ~5,960 |
 | Atheist Ox | 2.00% | ~3,973 |
 | It's raining men | 2.00% | ~3,973 |
 | Old Man | 2.00% | ~3,973 |
@@ -41,7 +41,7 @@ Number of Ratings: 495  (23.09.2022)
 | Undeserved Honor | 1.00% | ~1,986 |
 | When Cut Across the Neck | 0.90% | ~1,788 |
 | High Five the Moon | 0.80% | ~1,589 |
-| The Cave | 0.70% | ~1,390 |
+| The Cave | 0.70% | ~1,391 |
 | Merciful | 0.50% | ~993 |
 | Time Paradox | 0.50% | ~993 |
 | Five Shadows | 0.30% | ~596 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~199 |
 | Release the Kraken | 0.10% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 198,642 (Ranked 61)  
+Progressed: 198,650 (Ranked 61)  
 Completed: 73 (0.04%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 73 (0.04%) (Ranked 236)
 | 2023-08-27 | 198,119 | 72 |
 | 2023-08-28 | 198,358 | 73 |
 | 2023-08-29 | 198,622 | 73 |
-| 2023-08-30 | 198,642 | 73 |
+| 2023-08-30 | 198,650 | 73 |
 ## Awards
 Max (Great for Beginners): 562  (Ranked 188)  
 Sum: 4,738 (Ranked 135)  

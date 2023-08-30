@@ -4,7 +4,7 @@
   "ProductSlug": "wheels-of-aurelia",
   "Ranking_EOS_Progress": 563,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewPlayers": 338,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2020-04-16T15:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:35.1228965+00:00",
   "LastChanged": "2023-03-31T05:57:35.1228966+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:40.9309874+00:00",
-  "LastUpdate_Ratings": "2023-08-30T02:14:10.1676648+00:00",
-  "LastUpdate_Achievements": "2023-08-30T02:19:50.1528953+00:00"
+  "LastUpdate_Ratings": "2023-08-30T02:58:51.371426+00:00",
+  "LastUpdate_Achievements": "2023-08-30T03:04:45.6257026+00:00"
 }

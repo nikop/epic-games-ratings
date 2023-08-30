@@ -2,13 +2,13 @@
   "ID": "af0ea01162704696bebf8633a52a7a6d",
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
-  "Ranking_Rating": 952,
+  "Ranking_Rating": 953,
   "Ranking_Popularity": 214,
   "Ranking_PopularitySum": 202,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -3186,9 +3186,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 72460,
+  "EOS_Progressed": 72461,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 260,
+  "EOS_NewPlayers": 261,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -16801,6 +16801,11 @@
       "Time": "2023-08-30T01:43:40.2254178+00:00",
       "NumProgressed": 72460,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-08-30T03:03:49.4327603+00:00",
+      "NumProgressed": 72461,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 37,
@@ -16820,7 +16825,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 21013
+      "UsersEstimate": 21014
     },
     {
       "ID": "ACH_0012",
@@ -16956,7 +16961,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 47099
+      "UsersEstimate": 47100
     },
     {
       "ID": "ACH_0210",
@@ -16964,7 +16969,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 53620
+      "UsersEstimate": 53621
     },
     {
       "ID": "ACH_0211",
@@ -17036,7 +17041,7 @@
       "Name": "King of the Hill",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 24636
+      "UsersEstimate": 24637
     },
     {
       "ID": "ACH_0430",
@@ -17060,7 +17065,7 @@
       "Name": "True Player",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 13767
+      "UsersEstimate": 13768
     },
     {
       "ID": "ACH_0450",
@@ -17107,22 +17112,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 72460,
+      "Progressed": 72461,
       "Completed": 42
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 807,
-      "Completed": 807
+      "Progressed": 808,
+      "Completed": 808
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-08-29T21:59:01.675722+00:00",
-  "LastChanged_Achievements": "2023-08-30T02:18:42.8168139+00:00",
+  "LastChanged_Achievements": "2023-08-30T03:03:49.4327595+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:33.2477495+00:00",
-  "LastUpdate_Ratings": "2023-08-30T02:14:00.4759399+00:00",
-  "LastUpdate_Achievements": "2023-08-30T02:18:42.8169347+00:00"
+  "LastUpdate_Ratings": "2023-08-30T02:58:43.4729341+00:00",
+  "LastUpdate_Achievements": "2023-08-30T03:03:49.4328709+00:00"
 }

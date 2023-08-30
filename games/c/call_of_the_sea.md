@@ -20,7 +20,7 @@ Rating: 4.39 (Ranked 717)
 | Sunken | 24.00% | ~27,853 |
 | Deep Cut | 24.00% | ~27,853 |
 | FHALGOF'N' | 22.00% | ~25,532 |
-| Marsh Cannery | 21.00% | ~24,371 |
+| Marsh Cannery | 21.00% | ~24,372 |
 | Greetings from Y'ha-nthlei! | 17.00% | ~19,729 |
 | The only thing I have now | 16.00% | ~18,569 |
 | Not Another Boring Slideshow! | 15.00% | ~17,408 |
@@ -40,7 +40,7 @@ Rating: 4.39 (Ranked 717)
 | Gently down the stream... | 1.00% | ~1,161 |
 | Meta-reference | 1.00% | ~1,161 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 116,054 (Ranked 71)  
+Progressed: 116,055 (Ranked 71)  
 Completed: 937 (0.81%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 937 (0.81%) (Ranked 129)
 | 2023-08-27 | 115,557 | 929 |
 | 2023-08-28 | 115,800 | 931 |
 | 2023-08-29 | 116,038 | 936 |
-| 2023-08-30 | 116,054 | 937 |
+| 2023-08-30 | 116,055 | 937 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -480,9 +480,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 526231,
+  "EOS_Progressed": 526232,
   "EOS_Completed": 467,
-  "EOS_NewPlayers": 566,
+  "EOS_NewPlayers": 563,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -14475,6 +14475,11 @@
       "Time": "2023-08-30T01:47:06.0895732+00:00",
       "NumProgressed": 526231,
       "NumCompleted": 467
+    },
+    {
+      "Time": "2023-08-30T03:07:30.8246515+00:00",
+      "NumProgressed": 526232,
+      "NumCompleted": 467
     }
   ],
   "TotalAchievements": 57,
@@ -14526,7 +14531,7 @@
       "Name": "Going on an Adventure",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 57885
+      "UsersEstimate": 57886
     },
     {
       "ID": "15",
@@ -14566,7 +14571,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 326263
+      "UsersEstimate": 326264
     },
     {
       "ID": "2",
@@ -14582,7 +14587,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 126295
+      "UsersEstimate": 126296
     },
     {
       "ID": "21",
@@ -14590,7 +14595,7 @@
       "Name": "Make Peace, Not War",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 57885
+      "UsersEstimate": 57886
     },
     {
       "ID": "22",
@@ -14790,7 +14795,7 @@
       "Name": "Under the Radar",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 42098
+      "UsersEstimate": 42099
     },
     {
       "ID": "45",
@@ -14814,7 +14819,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 326263
+      "UsersEstimate": 326264
     },
     {
       "ID": "48",
@@ -14862,7 +14867,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 242066
+      "UsersEstimate": 242067
     },
     {
       "ID": "53",
@@ -14941,15 +14946,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 526231,
+      "Progressed": 526232,
       "Completed": 467
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-08-30T02:23:05.386412+00:00",
+  "LastChanged_Achievements": "2023-08-30T03:07:30.8246509+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:23.9652086+00:00",
-  "LastUpdate_Ratings": "2023-08-30T02:15:54.5865695+00:00",
-  "LastUpdate_Achievements": "2023-08-30T02:23:05.3865574+00:00"
+  "LastUpdate_Ratings": "2023-08-30T03:00:14.4174139+00:00",
+  "LastUpdate_Achievements": "2023-08-30T03:07:30.8247893+00:00"
 }

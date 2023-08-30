@@ -10614,9 +10614,9 @@
       "ID": "ACHIEVEMENT_ASSASSINATED_ANOTHER_LEADER",
       "SetID": "9201eeb",
       "Name": "Regicide",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 137
+      "UsersEstimate": 273
     },
     {
       "ID": "ACHIEVEMENT_ASSASSINATED_BY_HEIR",
@@ -12948,8 +12948,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-24T04:00:31.5764786+00:00",
-  "LastChanged_Achievements": "2023-08-30T02:23:28.972804+00:00",
+  "LastChanged_Achievements": "2023-08-30T03:07:51.1563723+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:39.7773306+00:00",
-  "LastUpdate_Ratings": "2023-08-30T02:16:37.2863652+00:00",
-  "LastUpdate_Achievements": "2023-08-30T02:23:28.9737916+00:00"
+  "LastUpdate_Ratings": "2023-08-30T03:00:48.5454724+00:00",
+  "LastUpdate_Achievements": "2023-08-30T03:07:51.157238+00:00"
 }
