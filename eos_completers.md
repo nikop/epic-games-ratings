@@ -63,7 +63,7 @@
 | 61 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.08% |
 | 62 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 4.00% |
 | 63 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.98% |
-| 64 | [ZZT!](games/z/zzt!.md) | 3.92% |
+| 64 | [ZZT!](games/z/zzt!.md) | 3.95% |
 | 65 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 66 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 67 | [Without Escape](games/w/without_escape.md) | 3.45% |
@@ -91,9 +91,9 @@
 | 89 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.34% |
 | 90 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.24% |
 | 91 | [Bloodshore](games/b/bloodshore.md) | 2.20% |
-| 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.16% |
-| 93 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
-| 94 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.00% |
+| 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.15% |
+| 92 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
+| 94 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.99% |
 | 95 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
 | 96 | [Night Book](games/n/night_book.md) | 1.86% |
 | 97 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |

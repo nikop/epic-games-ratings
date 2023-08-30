@@ -407,7 +407,7 @@
 | 393 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.60 | 0 | 514 |
 | 393 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 642 | 177 |
 | 393 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 63 | 389 |
-| 393 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 478 | 203 |
+| 393 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 479 | 203 |
 | 393 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.60 | 234 | 260 |
 | 393 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 0 | 514 |
 | 393 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 22 | 495 |
@@ -487,22 +487,22 @@
 | 474 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,797 | 114 |
 | 474 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.56 | 0 | 514 |
 | 474 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.56 | 0 | 514 |
-| 474 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 4,372 | 77 |
-| 489 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.55 | 0 | 514 |
-| 489 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.55 | 0 | 514 |
-| 489 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 514 |
-| 489 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 1,405 | 128 |
-| 489 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.55 | 1,311 | 131 |
-| 489 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 244 | 257 |
-| 489 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.55 | 153 | 296 |
-| 489 | [IXION](games/i/ixion.md) | 4.55 | 0 | 514 |
-| 489 | [Outward Definitive Edition](games/o/outward.md) | 4.55 | 33 | 449 |
-| 489 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 925 | 151 |
-| 489 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 91 | 349 |
-| 489 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 0 | 514 |
-| 489 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 343 | 227 |
-| 489 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.55 | 79 | 362 |
-| 489 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,249 | 135 |
+| 488 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.55 | 0 | 514 |
+| 488 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.55 | 0 | 514 |
+| 488 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 514 |
+| 488 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 1,405 | 128 |
+| 488 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.55 | 1,311 | 131 |
+| 488 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 244 | 257 |
+| 488 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.55 | 153 | 296 |
+| 488 | [IXION](games/i/ixion.md) | 4.55 | 0 | 514 |
+| 488 | [Outward Definitive Edition](games/o/outward.md) | 4.55 | 33 | 449 |
+| 488 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 925 | 151 |
+| 488 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 91 | 349 |
+| 488 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 0 | 514 |
+| 488 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 343 | 227 |
+| 488 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.55 | 79 | 362 |
+| 488 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.55 | 4,372 | 77 |
+| 488 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,249 | 135 |
 | 504 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 5,822 | 61 |
 | 504 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 34 | 443 |
 | 504 | [Far Cry](games/f/far_cry.md) | 4.54 | 0 | 514 |
@@ -528,7 +528,7 @@
 | 518 | [RUINER](games/r/ruiner.md) | 4.53 | 24 | 486 |
 | 518 | [Tails of Iron](games/t/tails_of_iron.md) | 4.53 | 0 | 514 |
 | 518 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 514 |
-| 518 | [VALORANT](games/v/valorant.md) | 4.53 | 66,944 | 10 |
+| 518 | [VALORANT](games/v/valorant.md) | 4.53 | 67,246 | 10 |
 | 530 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 42 | 423 |
 | 530 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 31,677 | 15 |
 | 530 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 21 | 504 |
