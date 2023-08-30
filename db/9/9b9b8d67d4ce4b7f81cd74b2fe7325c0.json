@@ -2,10 +2,10 @@
   "ID": "9b9b8d67d4ce4b7f81cd74b2fe7325c0",
   "Name": "Dark Fantasy 2: Jigsaw Puzzle",
   "ProductSlug": "dark-fantasy-2-jigsaw-puzzle-d65d41",
-  "Ranking_EOS_Progress": 366,
+  "Ranking_EOS_Progress": 364,
   "Ranking_EOS_Completed": 12,
-  "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-08-11T03:00:00+00:00",
     "PcReleaseDate": "2019-05-17T02:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 62,
+  "EOS_Progressed": 63,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 24.19,
+  "EOS_Completed_Percentage": 23.81,
   "EosHistory": [
     {
       "Time": "2023-07-26T14:02:08.2167473+00:00",
@@ -341,6 +341,11 @@
       "Time": "2023-08-29T16:03:52.4413166+00:00",
       "NumProgressed": 62,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-08-30T07:03:58.4916878+00:00",
+      "NumProgressed": 63,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-07-26T08:01:59.9805606+00:00",
@@ -353,21 +358,21 @@
       "Name": "Portrait 1",
       "Percentage": 98,
       "XP": 40,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "PORTRAIT_10",
       "SetID": "g10jki",
       "Name": "Portrait 10",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "PORTRAIT_11",
       "SetID": "g10jki",
       "Name": "Portrait 11",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 40,
       "UsersEstimate": 21
     },
@@ -375,7 +380,7 @@
       "ID": "PORTRAIT_12",
       "SetID": "g10jki",
       "Name": "Portrait 12",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 40,
       "UsersEstimate": 21
     },
@@ -383,7 +388,7 @@
       "ID": "PORTRAIT_13",
       "SetID": "g10jki",
       "Name": "Portrait 13",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 40,
       "UsersEstimate": 19
     },
@@ -439,15 +444,15 @@
       "ID": "PORTRAIT_2",
       "SetID": "g10jki",
       "Name": "Portrait 2",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "PORTRAIT_20",
       "SetID": "g10jki",
       "Name": "Portrait 20",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 40,
       "UsersEstimate": 16
     },
@@ -455,7 +460,7 @@
       "ID": "PORTRAIT_21",
       "SetID": "g10jki",
       "Name": "Portrait 21",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 40,
       "UsersEstimate": 16
     },
@@ -487,9 +492,9 @@
       "ID": "PORTRAIT_3",
       "SetID": "g10jki",
       "Name": "Portrait 3",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 40,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "PORTRAIT_4",
@@ -497,15 +502,15 @@
       "Name": "Portrait 4",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "PORTRAIT_5",
       "SetID": "g10jki",
       "Name": "Portrait 5",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "PORTRAIT_6",
@@ -513,45 +518,45 @@
       "Name": "Portrait 6",
       "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "PORTRAIT_7",
       "SetID": "g10jki",
       "Name": "Portrait 7",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "PORTRAIT_8",
       "SetID": "g10jki",
       "Name": "Portrait 8",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 40,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "PORTRAIT_9",
       "SetID": "g10jki",
       "Name": "Portrait 9",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 80,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     }
   ],
   "AchievementSets": [
     {
       "ID": "g10jki",
       "IsBase": true,
-      "Progressed": 62,
+      "Progressed": 63,
       "Completed": 15
     }
   ],
   "FirstSeen": "2023-08-14T14:57:42.6237278+00:00",
   "FirstSeenAchievements": "2023-07-26T08:01:59.9805604+00:00",
-  "LastChanged_Achievements": "2023-08-30T06:03:54.1556471+00:00",
+  "LastChanged_Achievements": "2023-08-30T07:03:58.491687+00:00",
   "LastUpdate_AppInfo": "2023-08-23T09:57:15.3183571+00:00",
-  "LastUpdate_Ratings": "2023-08-30T05:59:41.4334296+00:00",
-  "LastUpdate_Achievements": "2023-08-30T06:03:54.1556707+00:00"
+  "LastUpdate_Ratings": "2023-08-30T06:59:51.5381494+00:00",
+  "LastUpdate_Achievements": "2023-08-30T07:03:58.4917084+00:00"
 }

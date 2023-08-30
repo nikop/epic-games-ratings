@@ -4,7 +4,7 @@
   "ProductSlug": "quest-hunter-96b20d",
   "Ranking_EOS_Progress": 356,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
@@ -394,9 +394,9 @@
       "ID": "digTreasure10",
       "SetID": "ci65fo0",
       "Name": "Treasure hunter",
-      "Percentage": 55,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "drown",
@@ -418,9 +418,9 @@
       "ID": "explodeItem100",
       "SetID": "ci65fo0",
       "Name": "Demoman with experience",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "fall",
@@ -546,9 +546,9 @@
       "ID": "killPlant20",
       "SetID": "ci65fo0",
       "Name": "Weed killer",
-      "Percentage": 21,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "killPlant5",
@@ -714,9 +714,9 @@
       "ID": "questBountyHunter",
       "SetID": "ci65fo0",
       "Name": "Bounty hunter",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "questBuildShip",
@@ -975,8 +975,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-08-30T06:05:02.231011+00:00",
+  "LastChanged_Achievements": "2023-08-30T07:05:08.5574016+00:00",
   "LastUpdate_AppInfo": "2023-08-23T13:00:58.7449343+00:00",
-  "LastUpdate_Ratings": "2023-08-30T05:59:56.0570263+00:00",
-  "LastUpdate_Achievements": "2023-08-30T06:05:02.2310952+00:00"
+  "LastUpdate_Ratings": "2023-08-30T07:00:06.8447396+00:00",
+  "LastUpdate_Achievements": "2023-08-30T07:05:08.5575207+00:00"
 }

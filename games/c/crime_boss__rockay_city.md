@@ -5,16 +5,16 @@ Rating: 3.94 (Ranked 953)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~53,622 |
-| First One’s Free | 65.00% | ~47,100 |
-| Neophyte Ninja | 50.00% | ~36,231 |
-| Too Old for This | 48.00% | ~34,782 |
-| Fancy Pants | 36.00% | ~26,086 |
+| Downed but Not Outed | 74.00% | ~53,623 |
+| First One’s Free | 65.00% | ~47,102 |
+| Neophyte Ninja | 50.00% | ~36,232 |
+| Too Old for This | 48.00% | ~34,783 |
+| Fancy Pants | 36.00% | ~26,087 |
 | Case Closed | 35.00% | ~25,362 |
-| King of the Hill | 34.00% | ~24,637 |
-| Underworld Initiate | 29.00% | ~21,014 |
+| King of the Hill | 34.00% | ~24,638 |
+| Underworld Initiate | 29.00% | ~21,015 |
 | Roid Ranger | 21.00% | ~15,217 |
-| Off the Rocks | 20.00% | ~14,492 |
+| Off the Rocks | 20.00% | ~14,493 |
 | True Player | 19.00% | ~13,768 |
 | Raider’s Ruin | 17.00% | ~12,319 |
 | Dragonslayer | 17.00% | ~12,319 |
@@ -29,10 +29,10 @@ Rating: 3.94 (Ranked 953)
 | Foo Finder | 7.00% | ~5,072 |
 | Savvy Seeker | 6.00% | ~4,348 |
 | Legend Looter | 5.00% | ~3,623 |
-| Imports and Exports | 4.00% | ~2,898 |
-| Olympus Ascended | 4.00% | ~2,898 |
-| Cracked the Jack | 4.00% | ~2,898 |
-| Red Star | 4.00% | ~2,898 |
+| Imports and Exports | 4.00% | ~2,899 |
+| Olympus Ascended | 4.00% | ~2,899 |
+| Cracked the Jack | 4.00% | ~2,899 |
+| Red Star | 4.00% | ~2,899 |
 | Privateer | 3.00% | ~2,174 |
 | Moneybags | 3.00% | ~2,174 |
 | Groundhog Days | 3.00% | ~2,174 |
@@ -43,7 +43,7 @@ Rating: 3.94 (Ranked 953)
 | Geek Out | 0.60% | ~435 |
 | Full House | 0.20% | ~145 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,462 (Ranked 79)  
+Progressed: 72,464 (Ranked 79)  
 Completed: 42 (0.06%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 42 (0.06%) (Ranked 228)
 | 2023-08-27 | 72,388 | 42 |
 | 2023-08-28 | 72,422 | 42 |
 | 2023-08-29 | 72,459 | 42 |
-| 2023-08-30 | 72,462 | 42 |
+| 2023-08-30 | 72,464 | 42 |
 ## Awards
 Max (Diverse Characters): 409  (Ranked 214)  
 Sum: 1,944 (Ranked 202)  

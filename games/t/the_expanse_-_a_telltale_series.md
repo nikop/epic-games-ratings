@@ -8,15 +8,15 @@ Rating: 4.83 (Ranked 59)
 | Stogie for Fogey | 22.00% | ~2,111 |
 | Impossible Objects | 21.00% | ~2,015 |
 | Captain Drummer | 19.00% | ~1,823 |
+| Spore Taste | 18.00% | ~1,727 |
 | Martian Music | 18.00% | ~1,727 |
 | Doctor Approved | 17.00% | ~1,631 |
-| Spore Taste | 17.00% | ~1,631 |
 | Celebrations are in Order | 16.00% | ~1,536 |
 | Thorston Mayer | 10.00% | ~960 |
 | Bottoms up! | 7.00% | ~672 |
 | Data Logger | 4.00% | ~384 |
+| Data Master | 4.00% | ~384 |
 | Data Recoverer | 4.00% | ~384 |
-| Data Master | 3.00% | ~288 |
 | Debris Spree | 2.00% | ~192 |
 | Urshanabi Hoarder | 1.00% | ~96 |
 | Grave Robber | 1.00% | ~96 |

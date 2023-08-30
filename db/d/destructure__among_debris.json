@@ -3,8 +3,8 @@
   "Name": "DESTRUCTURE: Among Debris",
   "ProductSlug": "destructure-among-debris-b4aaf8",
   "Ranking_EOS_Progress": 310,
-  "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_Completed": 138,
+  "Ranking_EOS_NewPlayers": 296,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 162,
+  "EOS_Progressed": 163,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.62,
+  "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:52:27.5419142+00:00",
@@ -768,6 +768,11 @@
       "Time": "2023-08-19T18:05:56.5389427+00:00",
       "NumProgressed": 162,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-30T07:08:12.7478314+00:00",
+      "NumProgressed": 163,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -819,7 +824,7 @@
       "Name": "Ball Protector",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "bullet_hell",
@@ -867,7 +872,7 @@
       "Name": "Graduation",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "i_prefer_fusion_jazz",
@@ -875,7 +880,7 @@
       "Name": "I Prefer Jazz Fusion",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ice_breaker",
@@ -915,7 +920,7 @@
       "Name": "Medium Rare",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "monster_of_fashion",
@@ -939,7 +944,7 @@
       "Name": "Nomad",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "rookie",
@@ -971,7 +976,7 @@
       "Name": "Ticking Clock",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "total_walrus",
@@ -1026,7 +1031,7 @@
     {
       "ID": "jig50d",
       "IsBase": true,
-      "Progressed": 162,
+      "Progressed": 163,
       "Completed": 1
     }
   ],
@@ -1034,8 +1039,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-08-30T06:08:11.65324+00:00",
+  "LastChanged_Achievements": "2023-08-30T07:08:12.747831+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:42.0169033+00:00",
-  "LastUpdate_Ratings": "2023-08-30T05:59:05.9419572+00:00",
-  "LastUpdate_Achievements": "2023-08-30T06:08:11.6532684+00:00"
+  "LastUpdate_Ratings": "2023-08-30T06:59:14.782639+00:00",
+  "LastUpdate_Achievements": "2023-08-30T07:08:12.7478582+00:00"
 }

@@ -581,7 +581,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 1057,
+  "EOS_Progressed": 1059,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
@@ -3241,6 +3241,11 @@
       "Time": "2023-08-30T04:00:18.4097836+00:00",
       "NumProgressed": 1057,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-30T07:01:30.1717043+00:00",
+      "NumProgressed": 1059,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -3331,9 +3336,9 @@
       "ID": "MF_Ach_HarderTheyFall",
       "SetID": "9b9n573",
       "Name": "The Harder They Fall",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "MF_Ach_HitEmWhereItHurts",
@@ -3371,9 +3376,9 @@
       "ID": "MF_Ach_NextTimeOnMythForce",
       "SetID": "9b9n573",
       "Name": "Next Time on MythForce...",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -3436,15 +3441,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 1057,
+      "Progressed": 1059,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-08-19T00:01:25.4224345+00:00",
-  "LastChanged_Achievements": "2023-08-30T05:00:12.4881951+00:00",
+  "LastChanged_Achievements": "2023-08-30T07:01:30.1717026+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:13.6724499+00:00",
-  "LastUpdate_Ratings": "2023-08-30T05:57:36.5627877+00:00",
-  "LastUpdate_Achievements": "2023-08-30T05:00:12.4882314+00:00"
+  "LastUpdate_Ratings": "2023-08-30T06:57:40.2878407+00:00",
+  "LastUpdate_Achievements": "2023-08-30T07:01:30.1740133+00:00"
 }

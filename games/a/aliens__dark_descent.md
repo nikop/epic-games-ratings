@@ -5,8 +5,8 @@ Rating: 4.48 (Ranked 598)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 82.00% | ~2,622 |
-| Snatched Out | 75.00% | ~2,398 |
+| This Is Hayes, Pioneer Station, Signing Off | 82.00% | ~2,623 |
+| Snatched Out | 75.00% | ~2,399 |
 | Keep 'Em Coming | 74.00% | ~2,367 |
 | Cleaning Lethe, One Nest At A Time | 67.00% | ~2,143 |
 | Call Me Snake | 63.00% | ~2,015 |
@@ -17,18 +17,18 @@ Rating: 4.48 (Ranked 598)
 | Use The Bumper, That's What It's For | 53.00% | ~1,695 |
 | First Steps Into Madness | 53.00% | ~1,695 |
 | Colonial Barrels | 51.00% | ~1,631 |
-| Harper's Hell | 45.00% | ~1,439 |
-| Making a Stand | 44.00% | ~1,407 |
-| Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,343 |
-| Where It All Begun | 40.00% | ~1,279 |
-| Recouped Investment | 39.00% | ~1,247 |
-| Omelette Du Fromage | 34.00% | ~1,087 |
-| Living Nightmare | 33.00% | ~1,055 |
-| The More The Merrier | 33.00% | ~1,055 |
-| The Darwin Era Was Here | 29.00% | ~927 |
-| Deep Into Insanity | 28.00% | ~895 |
-| The Passenger | 27.00% | ~863 |
-| Come on, You Wanna Live Forever? | 26.00% | ~831 |
+| Harper's Hell | 45.00% | ~1,440 |
+| Making a Stand | 44.00% | ~1,408 |
+| Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,344 |
+| Where It All Begun | 40.00% | ~1,280 |
+| Recouped Investment | 39.00% | ~1,248 |
+| Omelette Du Fromage | 34.00% | ~1,088 |
+| Living Nightmare | 33.00% | ~1,056 |
+| The More The Merrier | 33.00% | ~1,056 |
+| The Darwin Era Was Here | 29.00% | ~928 |
+| Deep Into Insanity | 28.00% | ~896 |
+| The Passenger | 27.00% | ~864 |
+| Come on, You Wanna Live Forever? | 26.00% | ~832 |
 | The Spire | 24.00% | ~768 |
 | Stuff Of Nightmares | 23.00% | ~736 |
 | El Riesgo Siempre Vive | 23.00% | ~736 |
@@ -51,7 +51,7 @@ Rating: 4.48 (Ranked 598)
 | Chalk It Up To Experience | 0.80% | ~26 |
 | This Ain't No Picnic | 0.70% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,198 (Ranked 156)  
+Progressed: 3,199 (Ranked 156)  
 Completed: 3 (0.09%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,6 +125,7 @@ Completed: 3 (0.09%) (Ranked 218)
 | 2023-08-26 | 3,189 | 3 |
 | 2023-08-27 | 3,192 | 3 |
 | 2023-08-28 | 3,198 | 3 |
+| 2023-08-30 | 3,199 | 3 |
 ## Awards
 Max (Great Boss Battles): 26  (Ranked 476)  
 Sum: 26 (Ranked 484)  

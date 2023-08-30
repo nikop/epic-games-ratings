@@ -11,9 +11,9 @@ Rating: 3.99 (Ranked 941)
 | Zero Waste | 29.00% | ~449 |
 | Bob The Builder | 29.00% | ~449 |
 | I am the greatest botanist on this planet. | 28.00% | ~434 |
+| Miner | 25.00% | ~388 |
 | Occupy Mars! | 25.00% | ~388 |
 | Gardener | 24.00% | ~372 |
-| Miner | 24.00% | ~372 |
 | Houston we have a problem | 21.00% | ~326 |
 | Detective | 18.00% | ~279 |
 | The Collector | 16.00% | ~248 |
