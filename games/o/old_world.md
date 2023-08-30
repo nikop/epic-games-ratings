@@ -40,6 +40,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able Difficulty | 2.00% | ~274 |
 | Furious Family | 2.00% | ~274 |
 | Apadana | 2.00% | ~274 |
+| Colossus | 2.00% | ~274 |
 | Great Ziggurat | 2.00% | ~274 |
 | Ishtar Gate | 2.00% | ~274 |
 | Lighthouse | 2.00% | ~274 |
@@ -71,7 +72,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Patrons | 1.00% | ~137 |
 | Sages | 1.00% | ~137 |
 | Acropolis | 1.00% | ~137 |
-| Colossus | 1.00% | ~137 |
 | Mausoleum | 1.00% | ~137 |
 | Musaeum | 1.00% | ~137 |
 | Learn to Play 2 | 1.00% | ~137 |
@@ -88,6 +88,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 3 | 0.90% | ~123 |
 | Power to the People | 0.90% | ~123 |
 | Persian Paganism | 0.90% | ~123 |
+| Economic Reform | 0.90% | ~123 |
 | Legalism | 0.90% | ~123 |
 | Legionary | 0.90% | ~123 |
 | Phalangite | 0.90% | ~123 |
@@ -99,7 +100,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Iron | 0.80% | ~109 |
 | Circus Maximus | 0.80% | ~109 |
 | Hagia Sophia | 0.80% | ~109 |
-| Economic Reform | 0.80% | ~109 |
 | Dualism | 0.80% | ~109 |
 | Redemption | 0.80% | ~109 |
 | Ambition Victory | 0.80% | ~109 |
@@ -113,6 +113,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Assyrian Paganism | 0.70% | ~96 |
 | Industrial Progress | 0.70% | ~96 |
 | Military Prestige | 0.70% | ~96 |
+| Enlightenment | 0.70% | ~96 |
 | Gnosticism | 0.70% | ~96 |
 | Revelation | 0.70% | ~96 |
 | Veneration | 0.70% | ~96 |
@@ -125,7 +126,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 4 | 0.60% | ~82 |
 | Babylonia | 0.60% | ~82 |
 | Carthage | 0.60% | ~82 |
-| Enlightenment | 0.60% | ~82 |
 | Kushite Cavalry | 0.60% | ~82 |
 | No Undo | 0.60% | ~82 |
 | Ishtar Gate in Babylon | 0.50% | ~68 |
@@ -135,6 +135,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Rome | 0.50% | ~68 |
 | One True Faith | 0.50% | ~68 |
 | Hittite Paganism | 0.50% | ~68 |
+| Cataphract Archer | 0.50% | ~68 |
 | Turreted Elephant | 0.50% | ~68 |
 | All Nations | 0.50% | ~68 |
 | Carthage - Ox Hide | 0.40% | ~55 |
@@ -142,7 +143,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cao'an | 0.40% | ~55 |
 | Egypt | 0.40% | ~55 |
 | Old World Order | 0.40% | ~55 |
-| Cataphract Archer | 0.40% | ~55 |
 | Three Man Chariot | 0.40% | ~55 |
 | Pilgrimage | 0.40% | ~55 |
 | Ancient | 0.30% | ~41 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,685 (Ranked 120)  
+Progressed: 13,687 (Ranked 120)  
 Completed: 5 (0.04%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -435,7 +435,7 @@ Completed: 5 (0.04%) (Ranked 236)
 | 2023-08-27 | 13,616 | 5 |
 | 2023-08-28 | 13,635 | 5 |
 | 2023-08-29 | 13,661 | 5 |
-| 2023-08-30 | 13,685 | 5 |
+| 2023-08-30 | 13,687 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,799 (Ranked 207)  

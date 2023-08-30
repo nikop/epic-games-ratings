@@ -4080,10 +4080,10 @@
       "Count": 330
     }
   ],
-  "EOS_Progressed": 669551,
-  "EOS_Completed": 2093,
-  "EOS_NewPlayers": 5989,
-  "EOS_NewCompleters": 39,
+  "EOS_Progressed": 669580,
+  "EOS_Completed": 2094,
+  "EOS_NewPlayers": 5959,
+  "EOS_NewCompleters": 40,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -18805,6 +18805,11 @@
       "Time": "2023-08-30T20:05:10.5205701+00:00",
       "NumProgressed": 669551,
       "NumCompleted": 2093
+    },
+    {
+      "Time": "2023-08-30T21:04:50.9953371+00:00",
+      "NumProgressed": 669580,
+      "NumCompleted": 2094
     }
   ],
   "TotalAchievements": 45,
@@ -18926,9 +18931,9 @@
       "ID": "ach_fetch_me_a_tisha",
       "SetID": "7km39fm",
       "Name": "Can\u0027t Handle the Truth",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2678
+      "UsersEstimate": 3348
     },
     {
       "ID": "ach_finisher",
@@ -19175,16 +19180,16 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 669551,
-      "Completed": 2093
+      "Progressed": 669580,
+      "Completed": 2094
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-08-30T15:57:34.017232+00:00",
-  "LastChanged_Achievements": "2023-08-30T20:05:10.5205698+00:00",
+  "LastChanged_Achievements": "2023-08-30T21:04:50.9953363+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:11.0440218+00:00",
-  "LastUpdate_Ratings": "2023-08-30T19:57:35.6488874+00:00",
-  "LastUpdate_Achievements": "2023-08-30T20:05:10.5206643+00:00"
+  "LastUpdate_Ratings": "2023-08-30T20:57:48.4045667+00:00",
+  "LastUpdate_Achievements": "2023-08-30T21:04:50.9954629+00:00"
 }

@@ -22,13 +22,13 @@ Rating: 4.60 (Ranked 393)
 | Immaculate Aim | 18.00% | ~153 |
 | The Wicked Twins | 17.00% | ~144 |
 | Golem Chaser | 17.00% | ~144 |
+| Right On Time | 16.00% | ~136 |
 | Like Clockwork | 16.00% | ~136 |
 | The Betrayer | 16.00% | ~136 |
 | The Man Who Shattered Time | 16.00% | ~136 |
 | The Loose Cannon | 16.00% | ~136 |
 | Check Your Pulse | 16.00% | ~136 |
 | The Family Fortune | 16.00% | ~136 |
-| Right On Time | 15.00% | ~128 |
 | Treasure Trove | 14.00% | ~119 |
 | Street Style | 14.00% | ~119 |
 | Cartographer | 14.00% | ~119 |

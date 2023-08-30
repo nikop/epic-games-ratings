@@ -202,9 +202,9 @@
       "ID": "BFT_CH2",
       "SetID": "7o7kd30",
       "Name": "Chapter 2 Complete",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "BFT_CH2HB",
@@ -419,8 +419,8 @@
   "FirstSeenRating": "2023-03-31T05:58:05.5070215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:45.7911439+00:00",
   "LastChanged": "2023-03-31T05:58:05.5070216+00:00",
-  "LastChanged_Achievements": "2023-08-30T20:08:22.4125697+00:00",
+  "LastChanged_Achievements": "2023-08-30T21:07:38.8991405+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:30.6581331+00:00",
-  "LastUpdate_Ratings": "2023-08-30T19:59:24.4743156+00:00",
-  "LastUpdate_Achievements": "2023-08-30T20:08:22.4125882+00:00"
+  "LastUpdate_Ratings": "2023-08-30T20:59:22.0909361+00:00",
+  "LastUpdate_Achievements": "2023-08-30T21:07:38.8991644+00:00"
 }

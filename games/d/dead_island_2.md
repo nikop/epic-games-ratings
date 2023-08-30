@@ -12,6 +12,7 @@ Rating: 4.54 (Ranked 504)
 | Git Gutte! | 0.50% | ~3,348 |
 | Bookworm | 0.50% | ~3,348 |
 | But Doctor, I am Butcho | 0.50% | ~3,348 |
+| Can't Handle the Truth | 0.50% | ~3,348 |
 | Coup de Grâce | 0.50% | ~3,348 |
 | Hazardous Materials | 0.50% | ~3,348 |
 | Friends Like These | 0.50% | ~3,348 |
@@ -20,7 +21,6 @@ Rating: 4.54 (Ranked 504)
 | Personal Assistant Personally Assisted | 0.50% | ~3,348 |
 | This is My Weapon | 0.50% | ~3,348 |
 | Slayer Squad | 0.40% | ~2,678 |
-| Can't Handle the Truth | 0.40% | ~2,678 |
 | Like Riding a Bike | 0.40% | ~2,678 |
 | Zombologist | 0.40% | ~2,678 |
 | Ooh, Shiny! | 0.40% | ~2,678 |
@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 504)
 | Variety is the Spice of Death | 0.10% | ~670 |
 | Bucket List | 0.10% | ~670 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 669,551 (Ranked 22)  
-Completed: 2,093 (0.31%) (Ranked 174)  
+Progressed: 669,580 (Ranked 22)  
+Completed: 2,094 (0.31%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -183,7 +183,7 @@ Completed: 2,093 (0.31%) (Ranked 174)
 | 2023-08-27 | 667,273 | 2,082 |
 | 2023-08-28 | 668,091 | 2,086 |
 | 2023-08-29 | 668,912 | 2,088 |
-| 2023-08-30 | 669,551 | 2,093 |
+| 2023-08-30 | 669,580 | 2,094 |
 ## Awards
 Max (Great Boss Battles): 5,822  (Ranked 61)  
 Sum: 8,570 (Ranked 97)  

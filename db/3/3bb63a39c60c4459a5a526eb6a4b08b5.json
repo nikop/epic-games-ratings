@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 623,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -2379,9 +2379,9 @@
       "ID": "MaximumUpgrade",
       "SetID": "1e89b4i",
       "Name": "Maximum Upgrade",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 93
     },
     {
       "ID": "Millionaire",
@@ -2538,8 +2538,8 @@
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-08-30T20:05:45.7649215+00:00",
+  "LastChanged_Achievements": "2023-08-30T21:05:21.466592+00:00",
   "LastUpdate_AppInfo": "2023-08-29T11:57:10.9614599+00:00",
-  "LastUpdate_Ratings": "2023-08-30T20:00:41.9068484+00:00",
-  "LastUpdate_Achievements": "2023-08-30T20:05:45.7649615+00:00"
+  "LastUpdate_Ratings": "2023-08-30T21:00:29.9835482+00:00",
+  "LastUpdate_Achievements": "2023-08-30T21:05:21.4666437+00:00"
 }

@@ -279,9 +279,9 @@
       "ID": "ACH_19_PYJAMA",
       "SetID": "9dl0ei6",
       "Name": "Pajama Party",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_20_321GO",
@@ -335,9 +335,9 @@
       "ID": "ACH_26_SIDEQUEST",
       "SetID": "9dl0ei6",
       "Name": "The whole story",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_27_COMPLETE",
@@ -358,8 +358,8 @@
   ],
   "FirstSeen": "2023-07-12T17:57:50.452035+00:00",
   "FirstSeenAchievements": "2023-06-18T14:01:38.8947903+00:00",
-  "LastChanged_Achievements": "2023-08-30T20:04:53.611712+00:00",
+  "LastChanged_Achievements": "2023-08-30T21:04:36.2419209+00:00",
   "LastUpdate_AppInfo": "2023-08-27T16:57:10.1343888+00:00",
-  "LastUpdate_Ratings": "2023-08-30T20:00:39.9613571+00:00",
-  "LastUpdate_Achievements": "2023-08-30T20:04:53.6117287+00:00"
+  "LastUpdate_Ratings": "2023-08-30T21:00:28.3258014+00:00",
+  "LastUpdate_Achievements": "2023-08-30T21:04:36.2419423+00:00"
 }

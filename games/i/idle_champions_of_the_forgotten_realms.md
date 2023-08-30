@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 0.10% | ~226 |
+| A Brief Tour of the Realms | 0.20% | ~452 |
 | Maddening | 0.10% | ~226 |
 | Pros and CONs | 0.10% | ~226 |
 | Upholding the Law | 0.10% | ~226 |
@@ -523,11 +523,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | To Infinity's and Beyond | 0.10% | ~192 |
 | There's a Flying Snake in my Boot! | 0.10% | ~192 |
 | Legends and Lore | 0.10% | ~192 |
-| Unearthed Arcana | 0.00% | ~0 |
-| The End | 0.00% | ~0 |
-| All's Well That Ends Well | 0.00% | ~0 |
+| Unearthed Arcana | 0.10% | ~192 |
+| The End | 0.10% | ~192 |
+| All's Well That Ends Well | 0.10% | ~192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226,203 (Ranked 54)  
+Progressed: 226,209 (Ranked 54)  
 Completed: 2,230 (0.99%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -659,7 +659,7 @@ Completed: 2,230 (0.99%) (Ranked 122)
 | 2023-08-27 | 225,526 | 2,222 |
 | 2023-08-28 | 225,795 | 2,223 |
 | 2023-08-29 | 226,024 | 2,230 |
-| 2023-08-30 | 226,203 | 2,230 |
+| 2023-08-30 | 226,209 | 2,230 |
 ## Awards
 Max (Diverse Characters): 5,210  (Ranked 68)  
 Sum: 31,302 (Ranked 39)  

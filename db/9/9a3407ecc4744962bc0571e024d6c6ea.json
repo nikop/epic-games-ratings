@@ -4,7 +4,7 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewPlayers": 89,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 518,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 408,
+  "EOS_NewPlayers": 401,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -894,17 +894,17 @@
       "ID": "DarkestBeforeTheDawn",
       "SetID": "3ai6ml8",
       "Name": "Darkest Before the Dawn",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 181
+      "UsersEstimate": 186
     },
     {
       "ID": "DrinkingOnTheJob",
       "SetID": "3ai6ml8",
       "Name": "Drinking on the Job",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 243
+      "UsersEstimate": 249
     },
     {
       "ID": "DustDancing",
@@ -934,9 +934,9 @@
       "ID": "MiCasaSuCasa",
       "SetID": "3ai6ml8",
       "Name": "Mi Casa Su Casa",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 124
+      "UsersEstimate": 130
     },
     {
       "ID": "OnceMoreIntoTheBreach",
@@ -966,9 +966,9 @@
       "ID": "SkeletonCrew",
       "SetID": "3ai6ml8",
       "Name": "Skeleton Crew",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 202
+      "UsersEstimate": 207
     },
     {
       "ID": "TerraTourGuide",
@@ -1013,8 +1013,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-08-30T20:05:17.1597802+00:00",
+  "LastChanged_Achievements": "2023-08-30T21:04:56.7464209+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:05.9137937+00:00",
-  "LastUpdate_Ratings": "2023-08-30T19:59:20.2643737+00:00",
-  "LastUpdate_Achievements": "2023-08-30T20:05:17.1597948+00:00"
+  "LastUpdate_Ratings": "2023-08-30T20:59:18.1996477+00:00",
+  "LastUpdate_Achievements": "2023-08-30T21:04:56.7464401+00:00"
 }

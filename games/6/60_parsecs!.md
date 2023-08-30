@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 97.00% | ~699 |
-| Friendzone | 80.00% | ~577 |
-| Space Colonization | 80.00% | ~577 |
-| Hello World | 75.00% | ~541 |
-| Space Engineer | 64.00% | ~461 |
-| Tinkerer | 63.00% | ~454 |
-| Dust to Dust | 58.00% | ~418 |
-| Across The Stars | 48.00% | ~346 |
-| Crafty | 48.00% | ~346 |
-| All Seats Taken | 39.00% | ~281 |
-| For Science! | 35.00% | ~252 |
+| Don't Panic! | 97.00% | ~700 |
+| Friendzone | 80.00% | ~578 |
+| Space Colonization | 80.00% | ~578 |
+| Hello World | 75.00% | ~542 |
+| Space Engineer | 64.00% | ~462 |
+| Tinkerer | 63.00% | ~455 |
+| Dust to Dust | 58.00% | ~419 |
+| Across The Stars | 48.00% | ~347 |
+| Crafty | 48.00% | ~347 |
+| All Seats Taken | 39.00% | ~282 |
+| For Science! | 35.00% | ~253 |
 | Meet the Petersons | 32.00% | ~231 |
 | Stay Cool | 29.00% | ~209 |
 | KIA | 27.00% | ~195 |
 | Mutiny in making | 24.00% | ~173 |
 | Et tu, Astrocitizen? | 20.00% | ~144 |
 | Eco-Shuttle | 19.00% | ~137 |
-| Space Explorer | 16.00% | ~115 |
+| Space Explorer | 16.00% | ~116 |
 | Hands Full | 14.00% | ~101 |
 | Gold Medalist | 12.00% | ~87 |
 | Non-Fiction | 12.00% | ~87 |
@@ -29,9 +29,9 @@
 | Fix-It Felix | 8.00% | ~58 |
 | Intergalactic Breakup | 8.00% | ~58 |
 | Second Life | 8.00% | ~58 |
-| Axel jump in space! | 7.00% | ~50 |
-| First of April | 7.00% | ~50 |
-| Flawless Maegangement | 7.00% | ~50 |
+| Axel jump in space! | 7.00% | ~51 |
+| First of April | 7.00% | ~51 |
+| Flawless Maegangement | 7.00% | ~51 |
 | Extreme Makeover | 5.00% | ~36 |
 | The Improvinator | 4.00% | ~29 |
 | The Last Supper | 3.00% | ~22 |
@@ -49,7 +49,7 @@
 | Liberté, Égalité, Félinité | 0.10% | ~1 |
 | Man's best comrade | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 721 (Ranked 214)  
+Progressed: 722 (Ranked 214)  
 Completed: 1 (0.14%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,6 +140,7 @@ Completed: 1 (0.14%) (Ranked 204)
 | 2023-08-20 | 719 | 1 |
 | 2023-08-22 | 720 | 1 |
 | 2023-08-23 | 721 | 1 |
+| 2023-08-30 | 722 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

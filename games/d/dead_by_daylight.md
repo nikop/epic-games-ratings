@@ -6,9 +6,9 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MU/TH/UR Dearest | 0.50% | ~4,153 |
+| It wakes | 0.50% | ~4,154 |
+| MU/TH/UR Dearest | 0.50% | ~4,154 |
 | Zealous | 0.40% | ~3,323 |
-| It wakes | 0.40% | ~3,323 |
 | Skillful | 0.40% | ~3,323 |
 | Terror of LV-426 | 0.40% | ~3,323 |
 | Handyman | 0.30% | ~2,492 |
@@ -16,24 +16,27 @@ Number of Ratings: 70,340  (23.09.2022)
 | Apt Survivor | 0.30% | ~2,492 |
 | Survival Treasures | 0.30% | ~2,492 |
 | Make Some Noise | 0.30% | ~2,492 |
-| The Grand Sacrifice | 0.20% | ~1,661 |
-| Agonizing Escape | 0.20% | ~1,661 |
-| Backdoor Escape | 0.20% | ~1,661 |
-| I've got your back | 0.20% | ~1,661 |
-| No one left behind | 0.20% | ~1,661 |
-| Medic | 0.20% | ~1,661 |
-| Nerves of steel | 0.20% | ~1,661 |
-| Perfect Escape | 0.20% | ~1,661 |
-| Perfect Killing | 0.20% | ~1,661 |
-| Bloody Millionaire | 0.20% | ~1,661 |
-| Risk it all | 0.20% | ~1,661 |
-| I | 0.20% | ~1,661 |
-| Engineer | 0.20% | ~1,661 |
-| Sorted | 0.20% | ~1,661 |
-| Healthy Obsession | 0.20% | ~1,661 |
-| Resurgence | 0.20% | ~1,661 |
-| Preemptive Strike | 0.20% | ~1,661 |
-| Humanitarian | 0.20% | ~1,661 |
+| The Grand Sacrifice | 0.20% | ~1,662 |
+| Agonizing Escape | 0.20% | ~1,662 |
+| Backdoor Escape | 0.20% | ~1,662 |
+| I've got your back | 0.20% | ~1,662 |
+| No one left behind | 0.20% | ~1,662 |
+| Medic | 0.20% | ~1,662 |
+| Nerves of steel | 0.20% | ~1,662 |
+| Perfect Escape | 0.20% | ~1,662 |
+| Perfect Killing | 0.20% | ~1,662 |
+| Bloody Millionaire | 0.20% | ~1,662 |
+| Risk it all | 0.20% | ~1,662 |
+| I | 0.20% | ~1,662 |
+| II | 0.20% | ~1,662 |
+| Engineer | 0.20% | ~1,662 |
+| Sorted | 0.20% | ~1,662 |
+| Healthy Obsession | 0.20% | ~1,662 |
+| Resurgence | 0.20% | ~1,662 |
+| Close Shave | 0.20% | ~1,662 |
+| Preemptive Strike | 0.20% | ~1,662 |
+| Humanitarian | 0.20% | ~1,662 |
+| Second Act | 0.20% | ~1,662 |
 | A bite for the Entity | 0.10% | ~831 |
 | A feast for the Entity | 0.10% | ~831 |
 | Blood on your hands | 0.10% | ~831 |
@@ -55,7 +58,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Trapper | 0.10% | ~831 |
 | Adept Wraith | 0.10% | ~831 |
 | Adept Hillbilly | 0.10% | ~831 |
-| II | 0.10% | ~831 |
 | III | 0.10% | ~831 |
 | III-50 | 0.10% | ~831 |
 | In the void she walks | 0.10% | ~831 |
@@ -175,7 +177,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Multi-tasker | 0.10% | ~831 |
 | Adept Trickster | 0.10% | ~831 |
 | Insult and Injury | 0.10% | ~831 |
-| Close Shave | 0.10% | ~831 |
 | Adept Yun-Jin | 0.10% | ~831 |
 | Biological Weaponry | 0.10% | ~831 |
 | Adept Nemesis | 0.10% | ~831 |
@@ -229,14 +230,13 @@ Number of Ratings: 70,340  (23.09.2022)
 | Extraterrestrial | 0.10% | ~831 |
 | One More Step | 0.10% | ~831 |
 | Adept Gabriel | 0.10% | ~831 |
-| Second Act | 0.10% | ~831 |
 | Adept Cage | 0.10% | ~831 |
 | Disarm and Dismember | 0.10% | ~831 |
 | Adept Xenomorph | 0.10% | ~831 |
 | Kitted Out | 0.10% | ~831 |
 | Adept Ripley | 0.10% | ~831 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 830,627 (Ranked 15)  
+Progressed: 830,818 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -368,7 +368,7 @@ Completed: 48 (0.01%) (Ranked 253)
 | 2023-08-27 | 822,167 | 48 |
 | 2023-08-28 | 824,988 | 48 |
 | 2023-08-29 | 828,020 | 48 |
-| 2023-08-30 | 830,627 | 48 |
+| 2023-08-30 | 830,818 | 48 |
 ## Awards
 Max (Diverse Characters): 31,677  (Ranked 15)  
 Sum: 248,552 (Ranked 11)  

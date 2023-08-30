@@ -744,9 +744,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 219395,
+  "EOS_Progressed": 219423,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3089,
+  "EOS_NewPlayers": 3083,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8919,6 +8919,11 @@
       "Time": "2023-08-30T20:04:32.9708408+00:00",
       "NumProgressed": 219395,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-30T21:04:18.0625867+00:00",
+      "NumProgressed": 219423,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -9074,7 +9079,7 @@
       "Name": "Res Judicata",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1317
     },
     {
       "ID": "CompanionPriestress",
@@ -9282,7 +9287,7 @@
       "Name": "The Famous Dungeon of Naheulbeuk",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1317
     },
     {
       "ID": "DifficultyIronManNoCompanion",
@@ -9330,7 +9335,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6582
+      "UsersEstimate": 6583
     },
     {
       "ID": "DwarfElf15Support",
@@ -9346,7 +9351,7 @@
       "Name": "Dwarf Fortress",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1317
     },
     {
       "ID": "DwarfInsultWin",
@@ -9370,7 +9375,7 @@
       "Name": "Look but don\u0027t touch",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1317
     },
     {
       "ID": "ElfHitTwoFriends",
@@ -9378,7 +9383,7 @@
       "Name": "Sowwy!",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 57043
+      "UsersEstimate": 57050
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -9426,7 +9431,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6582
+      "UsersEstimate": 6583
     },
     {
       "ID": "FollowBraztok",
@@ -9633,21 +9638,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 219395,
+      "Progressed": 219423,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 219395,
+      "Progressed": 219423,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-30T02:11:58.6971058+00:00",
-  "LastChanged_Achievements": "2023-08-30T20:04:32.9708404+00:00",
+  "LastChanged_Achievements": "2023-08-30T21:04:18.0625861+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:41.9661267+00:00",
-  "LastUpdate_Ratings": "2023-08-30T19:57:26.6109372+00:00",
-  "LastUpdate_Achievements": "2023-08-30T20:04:32.9709598+00:00"
+  "LastUpdate_Ratings": "2023-08-30T20:57:40.7942296+00:00",
+  "LastUpdate_Achievements": "2023-08-30T21:04:18.0627464+00:00"
 }
