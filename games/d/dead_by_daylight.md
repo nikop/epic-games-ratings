@@ -6,15 +6,18 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 0.40% | ~3,320 |
-| MU/TH/UR Dearest | 0.40% | ~3,320 |
-| Zealous | 0.30% | ~2,490 |
-| Not half bad | 0.30% | ~2,490 |
-| Skillful | 0.30% | ~2,490 |
-| Make Some Noise | 0.30% | ~2,490 |
-| Terror of LV-426 | 0.30% | ~2,490 |
+| It wakes | 0.40% | ~3,321 |
+| Skillful | 0.40% | ~3,321 |
+| MU/TH/UR Dearest | 0.40% | ~3,321 |
+| Zealous | 0.30% | ~2,491 |
+| Not half bad | 0.30% | ~2,491 |
+| Apt Survivor | 0.30% | ~2,491 |
+| Make Some Noise | 0.30% | ~2,491 |
+| Terror of LV-426 | 0.30% | ~2,491 |
 | The Grand Sacrifice | 0.20% | ~1,660 |
+| Agonizing Escape | 0.20% | ~1,660 |
 | Backdoor Escape | 0.20% | ~1,660 |
+| I've got your back | 0.20% | ~1,660 |
 | No one left behind | 0.20% | ~1,660 |
 | Medic | 0.20% | ~1,660 |
 | Handyman | 0.20% | ~1,660 |
@@ -22,7 +25,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Perfect Escape | 0.20% | ~1,660 |
 | Perfect Killing | 0.20% | ~1,660 |
 | Bloody Millionaire | 0.20% | ~1,660 |
-| Apt Survivor | 0.20% | ~1,660 |
 | Survival Treasures | 0.20% | ~1,660 |
 | I | 0.20% | ~1,660 |
 | Sorted | 0.20% | ~1,660 |
@@ -40,9 +42,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | The Grind | 0.10% | ~830 |
 | Escape Artist | 0.10% | ~830 |
 | Made it out alive! | 0.10% | ~830 |
-| Agonizing Escape | 0.10% | ~830 |
 | The Key to Escape | 0.10% | ~830 |
-| I've got your back | 0.10% | ~830 |
 | Gifts for the Fog | 0.10% | ~830 |
 | Apt Killer | 0.10% | ~830 |
 | Risk it all | 0.10% | ~830 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~830 |
 | Adept Ripley | 0.10% | ~830 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 830,064 (Ranked 15)  
+Progressed: 830,243 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -368,7 +368,7 @@ Completed: 48 (0.01%) (Ranked 253)
 | 2023-08-27 | 822,167 | 48 |
 | 2023-08-28 | 824,988 | 48 |
 | 2023-08-29 | 828,020 | 48 |
-| 2023-08-30 | 830,064 | 48 |
+| 2023-08-30 | 830,243 | 48 |
 ## Awards
 Max (Diverse Characters): 31,677  (Ranked 15)  
 Sum: 248,552 (Ranked 11)  

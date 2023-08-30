@@ -5,7 +5,7 @@ Rating: 4.89 (Ranked 13)
 Number of Ratings: 14,665  (23.09.2022)  
 ## Awards
 Max (Character Customization): 17,903  (Ranked 21)  
-Sum: 44,358 (Ranked 29)  
+Sum: 44,361 (Ranked 29)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -19,7 +19,7 @@ Diff (max vs sum): -8
 | This game has Amazing Characters | 2,677 |
 | This game has Diverse Characters | 2,670 |
 | This game is Educational | 2,583 |
-| This game has a Creative Community | 1,656 |
+| This game has a Creative Community | 1,659 |
 | This game has Obsessive Gameplay | 1,080 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -251,4 +251,4 @@ Diff (max vs sum): -8
 | 2023-08-27 | 4.89 | - | 17,855 | 44,202 |
 | 2023-08-28 | 4.89 | - | 17,882 | 44,259 |
 | 2023-08-29 | 4.89 | - | 17,903 | 44,325 |
-| 2023-08-30 | 4.89 | - | 17,903 | 44,358 |
+| 2023-08-30 | 4.89 | - | 17,903 | 44,361 |

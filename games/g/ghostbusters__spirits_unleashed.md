@@ -5,11 +5,11 @@ Rating: 4.49 (Ranked 582)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~21,876 |
-| Advancement | 73.00% | ~18,569 |
-| Meticulously Efficient | 63.00% | ~16,025 |
+| Stylish | 86.00% | ~21,877 |
+| Advancement | 73.00% | ~18,570 |
+| Meticulously Efficient | 63.00% | ~16,026 |
 | Discovery | 61.00% | ~15,517 |
-| Swift Rift Removers | 54.00% | ~13,736 |
+| Swift Rift Removers | 54.00% | ~13,737 |
 | Fully Upgraded | 53.00% | ~13,482 |
 | I collect Spores, Molds, and Fungi | 51.00% | ~12,973 |
 | Cultured | 51.00% | ~12,973 |
@@ -19,8 +19,8 @@ Rating: 4.49 (Ranked 582)
 | Clutch Capture | 40.00% | ~10,175 |
 | Back Off | 35.00% | ~8,903 |
 | Daily Dose | 34.00% | ~8,649 |
-| Solo Capture | 33.00% | ~8,394 |
-| Welcome to the Crew | 31.00% | ~7,885 |
+| Solo Capture | 33.00% | ~8,395 |
+| Welcome to the Crew | 31.00% | ~7,886 |
 | Ghostbuster In Training | 30.00% | ~7,631 |
 | Icing on the Cake | 30.00% | ~7,631 |
 | Side Hustle | 27.00% | ~6,868 |
@@ -28,8 +28,8 @@ Rating: 4.49 (Ranked 582)
 | We have the best insurance | 26.00% | ~6,614 |
 | Legions | 26.00% | ~6,614 |
 | Right back at ya | 26.00% | ~6,614 |
-| Pesky Jerks | 25.00% | ~6,359 |
-| Stunner | 25.00% | ~6,359 |
+| Pesky Jerks | 25.00% | ~6,360 |
+| Stunner | 25.00% | ~6,360 |
 | Animated | 24.00% | ~6,105 |
 | Skilled | 24.00% | ~6,105 |
 | Collector | 23.00% | ~5,851 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 582)
 | I don't need these | 1.00% | ~254 |
 | Mycophile | 1.00% | ~254 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,437 (Ranked 103)  
+Progressed: 25,438 (Ranked 103)  
 Completed: 54 (0.21%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 54 (0.21%) (Ranked 190)
 | 2023-08-27 | 25,392 | 53 |
 | 2023-08-28 | 25,408 | 53 |
 | 2023-08-29 | 25,426 | 53 |
-| 2023-08-30 | 25,437 | 54 |
+| 2023-08-30 | 25,438 | 54 |
 ## Awards
 Max (Great for Quick Sessions): 249  (Ranked 254)  
 Sum: 2,265 (Ranked 189)  

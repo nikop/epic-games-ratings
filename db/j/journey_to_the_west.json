@@ -2,10 +2,10 @@
   "ID": "2969298d20864c90981a471a0574f772",
   "Name": "Journey to the West",
   "ProductSlug": "journey-to-the-west-7607ad",
-  "Ranking_EOS_Progress": 566,
+  "Ranking_EOS_Progress": 567,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 340,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-06-29T00:00:00+00:00",
     "PcReleaseDate": "2023-05-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-26T08:58:23.9086733+00:00",
-  "LastUpdate_Ratings": "2023-08-30T17:01:38.6452574+00:00",
-  "LastUpdate_Achievements": "2023-08-30T17:04:35.8523078+00:00"
+  "LastUpdate_Ratings": "2023-08-30T18:01:38.5950378+00:00",
+  "LastUpdate_Achievements": "2023-08-30T18:04:40.0300297+00:00"
 }

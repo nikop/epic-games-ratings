@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2570,7 +2570,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 68114,
+  "EOS_Progressed": 68115,
   "EOS_Completed": 110,
   "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 1,
@@ -13510,6 +13510,11 @@
       "Time": "2023-08-30T16:03:24.146713+00:00",
       "NumProgressed": 68114,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2023-08-30T18:03:23.865301+00:00",
+      "NumProgressed": 68115,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 61,
@@ -13617,7 +13622,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 11579
+      "UsersEstimate": 11580
     },
     {
       "ID": "CLAYFACE_1",
@@ -13737,7 +13742,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 6811
+      "UsersEstimate": 6812
     },
     {
       "ID": "FREEZE_1",
@@ -13833,7 +13838,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 17028
+      "UsersEstimate": 17029
     },
     {
       "ID": "HARLEY_3",
@@ -13865,7 +13870,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 34057
+      "UsersEstimate": 34058
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -13921,7 +13926,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 17028
+      "UsersEstimate": 17029
     },
     {
       "ID": "MYSTERY_03",
@@ -14008,13 +14013,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 68114,
+      "Progressed": 68115,
       "Completed": 110
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38394,
+      "Progressed": 38395,
       "Completed": 2660
     }
   ],
@@ -14022,8 +14027,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-08-30T13:03:28.4521037+00:00",
-  "LastChanged_Achievements": "2023-08-30T17:02:35.0245047+00:00",
+  "LastChanged_Achievements": "2023-08-30T18:03:23.8653002+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:22.0819335+00:00",
-  "LastUpdate_Ratings": "2023-08-30T16:59:11.6561201+00:00",
-  "LastUpdate_Achievements": "2023-08-30T17:02:35.0246585+00:00"
+  "LastUpdate_Ratings": "2023-08-30T17:59:11.175725+00:00",
+  "LastUpdate_Achievements": "2023-08-30T18:03:23.8654279+00:00"
 }

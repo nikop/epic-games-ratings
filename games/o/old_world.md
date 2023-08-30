@@ -89,6 +89,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 3 | 0.90% | ~123 |
 | Power to the People | 0.90% | ~123 |
 | Legalism | 0.90% | ~123 |
+| Legionary | 0.90% | ~123 |
 | Phalangite | 0.90% | ~123 |
 | Invincible | 0.80% | ~109 |
 | Subjugator | 0.80% | ~109 |
@@ -101,7 +102,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Economic Reform | 0.80% | ~109 |
 | Dualism | 0.80% | ~109 |
 | Redemption | 0.80% | ~109 |
-| Legionary | 0.80% | ~109 |
 | Ambition Victory | 0.80% | ~109 |
 | Double Victory | 0.80% | ~109 |
 | Win a Single Player Game | 0.80% | ~109 |

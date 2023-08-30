@@ -26,10 +26,10 @@
 | People Mover | 22.00% | ~73 |
 | Emporium Empire | 22.00% | ~73 |
 | Lux Living | 21.00% | ~70 |
+| Rehab Expert | 20.00% | ~67 |
 | Leveled Up Shops | 20.00% | ~67 |
 | We Don't Need No Education | 20.00% | ~67 |
 | Get Electrified | 20.00% | ~67 |
-| Rehab Expert | 19.00% | ~63 |
 | Tasty Profits | 19.00% | ~63 |
 | Established Fame | 17.00% | ~57 |
 | Cashflow Chief | 17.00% | ~57 |
@@ -42,9 +42,9 @@
 | 28 Days Later | 11.00% | ~37 |
 | Swimming in Surplus | 11.00% | ~37 |
 | Aestheticly Pleased | 10.00% | ~33 |
+| Master of Puppets | 10.00% | ~33 |
 | Refined Palates | 10.00% | ~33 |
 | Plaza Plan | 9.00% | ~30 |
-| Master of Puppets | 9.00% | ~30 |
 | Phoning It In | 9.00% | ~30 |
 | First 100 Days | 8.00% | ~27 |
 | Water Features | 8.00% | ~27 |

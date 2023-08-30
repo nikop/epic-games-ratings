@@ -5,18 +5,18 @@ Rating: 4.48 (Ranked 598)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 82.00% | ~2,624 |
-| Snatched Out | 75.00% | ~2,400 |
-| Keep 'Em Coming | 74.00% | ~2,368 |
-| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,144 |
-| Call Me Snake | 63.00% | ~2,016 |
-| Something Lurks Under The Hills | 61.00% | ~1,952 |
-| This Was No Papercut | 60.00% | ~1,920 |
-| The Shrink Hates Me | 57.00% | ~1,824 |
-| People Person | 56.00% | ~1,792 |
-| Use The Bumper, That's What It's For | 53.00% | ~1,696 |
-| First Steps Into Madness | 53.00% | ~1,696 |
-| Colonial Barrels | 51.00% | ~1,632 |
+| This Is Hayes, Pioneer Station, Signing Off | 82.00% | ~2,625 |
+| Snatched Out | 75.00% | ~2,401 |
+| Keep 'Em Coming | 74.00% | ~2,369 |
+| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,145 |
+| Call Me Snake | 63.00% | ~2,017 |
+| Something Lurks Under The Hills | 61.00% | ~1,953 |
+| This Was No Papercut | 60.00% | ~1,921 |
+| The Shrink Hates Me | 57.00% | ~1,825 |
+| People Person | 56.00% | ~1,793 |
+| Use The Bumper, That's What It's For | 53.00% | ~1,697 |
+| First Steps Into Madness | 53.00% | ~1,697 |
+| Colonial Barrels | 51.00% | ~1,633 |
 | Harper's Hell | 45.00% | ~1,440 |
 | Making a Stand | 44.00% | ~1,408 |
 | Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,344 |
@@ -48,10 +48,10 @@ Rating: 4.48 (Ranked 598)
 | Archivist | 2.00% | ~64 |
 | Fair And Square | 2.00% | ~64 |
 | Perfect Organism | 0.90% | ~29 |
-| Chalk It Up To Experience | 0.80% | ~26 |
 | This Ain't No Picnic | 0.70% | ~22 |
+| Chalk It Up To Experience | 0.70% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,200 (Ranked 156)  
+Progressed: 3,201 (Ranked 156)  
 Completed: 3 (0.09%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 3 (0.09%) (Ranked 218)
 | 2023-08-26 | 3,189 | 3 |
 | 2023-08-27 | 3,192 | 3 |
 | 2023-08-28 | 3,198 | 3 |
-| 2023-08-30 | 3,200 | 3 |
+| 2023-08-30 | 3,201 | 3 |
 ## Awards
 Max (Great Boss Battles): 26  (Ranked 476)  
 Sum: 26 (Ranked 484)  

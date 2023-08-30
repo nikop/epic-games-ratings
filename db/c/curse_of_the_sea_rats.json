@@ -2,10 +2,10 @@
   "ID": "a3e88a88898243cb94c125baf5917bc8",
   "Name": "Curse of the Sea Rats",
   "ProductSlug": "curse-of-the-sea-rats-8f28b1",
-  "Ranking_EOS_Progress": 566,
+  "Ranking_EOS_Progress": 567,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 340,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-04-06T10:00:00+00:00",
     "PcReleaseDate": "2023-04-06T10:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-04-12T16:57:24.0236342+00:00",
   "LastChanged": "2023-04-12T16:57:24.0236342+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:26.7182265+00:00",
-  "LastUpdate_Ratings": "2023-08-30T17:01:15.7057314+00:00",
-  "LastUpdate_Achievements": "2023-08-30T17:08:31.1531116+00:00"
+  "LastUpdate_Ratings": "2023-08-30T18:01:16.3194772+00:00",
+  "LastUpdate_Achievements": "2023-08-30T18:08:32.0781662+00:00"
 }

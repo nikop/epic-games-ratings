@@ -3,12 +3,12 @@
   "Name": "Century: Age of Ashes",
   "ProductSlug": "century-age-of-ashes",
   "Ranking_Rating": 676,
-  "Ranking_Popularity": 385,
+  "Ranking_Popularity": 383,
   "Ranking_PopularitySum": 292,
-  "Ranking_EOS_Progress": 566,
+  "Ranking_EOS_Progress": 567,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 340,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-02-23T16:00:00+00:00",
     "PcReleaseDate": "2021-12-02T16:00:00+00:00",
@@ -1483,11 +1483,17 @@
       "Rating": 4.42,
       "NumberOfAwards": 632,
       "NumberOfAwardsMax": 66
+    },
+    {
+      "Time": "2023-08-30T18:01:43.9104704+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 633,
+      "NumberOfAwardsMax": 67
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 632,
-  "NumberOfAwardsMax": 66,
+  "NumberOfAwards": 633,
+  "NumberOfAwardsMax": 67,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
     {
@@ -1506,7 +1512,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 66
+      "Count": 67
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1568,8 +1574,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:28.564577+00:00",
-  "LastChanged": "2023-08-30T07:01:03.7726175+00:00",
+  "LastChanged": "2023-08-30T18:01:43.9104702+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:26.7547978+00:00",
-  "LastUpdate_Ratings": "2023-08-30T17:01:43.9957233+00:00",
-  "LastUpdate_Achievements": "2023-08-30T17:02:16.9166035+00:00"
+  "LastUpdate_Ratings": "2023-08-30T18:01:43.9104707+00:00",
+  "LastUpdate_Achievements": "2023-08-30T18:02:17.2860546+00:00"
 }

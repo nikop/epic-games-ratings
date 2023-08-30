@@ -1,31 +1,31 @@
 # Deceive Inc.
 [Store](https://store.epicgames.com/en-US/p/deceive-inc)  
 [View Rawdata](../../db/d/deceive_inc..json)  
-Rating: 4.57 (Ranked 450)  
+Rating: 4.57 (Ranked 451)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 29.00% | ~5,150 |
+| On Deceive Inc.'s Secret Service | 29.00% | ~5,151 |
 | Mainframe Hacker | 23.00% | ~4,085 |
 | The Spy who eliminated me | 23.00% | ~4,085 |
-| Tomorrow Never Dyes | 22.00% | ~3,907 |
-| Never Say Loser Again | 19.00% | ~3,374 |
+| Tomorrow Never Dyes | 22.00% | ~3,908 |
+| Never Say Loser Again | 19.00% | ~3,375 |
 | From the Vault with Love | 18.00% | ~3,197 |
 | Tailor-Made | 18.00% | ~3,197 |
 | For your Eyes only | 18.00% | ~3,197 |
-| Assistant Accountant | 17.00% | ~3,019 |
-| You Only Live Twice | 16.00% | ~2,841 |
-| Fully Decked Out | 16.00% | ~2,841 |
+| Assistant Accountant | 17.00% | ~3,020 |
+| You Only Live Twice | 16.00% | ~2,842 |
+| Fully Decked Out | 16.00% | ~2,842 |
 | A view to Win | 13.00% | ~2,309 |
 | The Living Portrait | 12.00% | ~2,131 |
 | Private Collection | 12.00% | ~2,131 |
 | Hostile Takeover | 12.00% | ~2,131 |
 | Smells Like Trouble | 12.00% | ~2,131 |
-| Dr. No Kill | 11.00% | ~1,953 |
-| My Motto, My Creed | 11.00% | ~1,953 |
-| Killer Looks | 11.00% | ~1,953 |
+| Dr. No Kill | 11.00% | ~1,954 |
+| My Motto, My Creed | 11.00% | ~1,954 |
+| Killer Looks | 11.00% | ~1,954 |
 | Keycards Royale | 10.00% | ~1,776 |
-| In It to Win It | 9.00% | ~1,598 |
+| In It to Win It | 9.00% | ~1,599 |
 | Security Supervisor | 6.00% | ~1,066 |
 | License to Thrill | 5.00% | ~888 |
 | Social of Solace | 3.00% | ~533 |
@@ -42,7 +42,7 @@ Rating: 4.57 (Ranked 450)
 | Extraction Confusion | 0.20% | ~36 |
 | Spyfall | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,759 (Ranked 111)  
+Progressed: 17,762 (Ranked 111)  
 Completed: 1 (0.01%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 1 (0.01%) (Ranked 253)
 | 2023-08-27 | 17,704 | 1 |
 | 2023-08-28 | 17,722 | 1 |
 | 2023-08-29 | 17,746 | 1 |
-| 2023-08-30 | 17,759 | 1 |
+| 2023-08-30 | 17,762 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

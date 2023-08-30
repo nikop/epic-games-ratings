@@ -2,7 +2,7 @@
   "ID": "42b8b899a3f349bd8376264ccee3cd2a",
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
-  "Ranking_EOS_Progress": 228,
+  "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 108,
   "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 21,
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 547,
+  "EOS_Progressed": 550,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 1.46,
+  "EOS_Completed_Percentage": 1.45,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -1211,6 +1211,11 @@
       "Time": "2023-08-30T14:06:06.1679985+00:00",
       "NumProgressed": 547,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-08-30T18:06:09.7259501+00:00",
+      "NumProgressed": 550,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1223,7 +1228,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -1231,7 +1236,7 @@
       "Name": "A New Journey",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 399
+      "UsersEstimate": 402
     },
     {
       "ID": "_03_FinishAct1",
@@ -1239,7 +1244,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1247,7 +1252,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "_05_FinishAct2",
@@ -1255,7 +1260,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -1263,7 +1268,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "_07_FinishAct3",
@@ -1277,9 +1282,9 @@
       "ID": "_08_Completion_10",
       "SetID": "8a1io5d",
       "Name": "Swabbie",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 220
     },
     {
       "ID": "_09_Completion_20",
@@ -1295,7 +1300,7 @@
       "Name": "Buccaneer",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "_11_Completion_40",
@@ -1303,7 +1308,7 @@
       "Name": "Seadog",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "_12_Completion_50",
@@ -1351,7 +1356,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -1367,7 +1372,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -1383,7 +1388,7 @@
       "Name": "Tobacco Travesty",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -1407,7 +1412,7 @@
       "Name": "Jaded Judge",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -1430,14 +1435,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 547,
+      "Progressed": 550,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-30T17:06:07.4094678+00:00",
+  "LastChanged_Achievements": "2023-08-30T18:06:09.7259495+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:45.1302228+00:00",
-  "LastUpdate_Ratings": "2023-08-30T16:57:12.3943207+00:00",
-  "LastUpdate_Achievements": "2023-08-30T17:06:07.4095021+00:00"
+  "LastUpdate_Ratings": "2023-08-30T17:57:10.7392532+00:00",
+  "LastUpdate_Achievements": "2023-08-30T18:06:09.7259822+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -12688,9 +12688,9 @@
       "ID": "ACHIEVEMENT_UNIT_LEGIONARY",
       "SetID": "9201eeb",
       "Name": "Legionary",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 123
     },
     {
       "ID": "ACHIEVEMENT_UNIT_PHALANGITE",
@@ -12998,8 +12998,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-24T04:00:31.5764786+00:00",
-  "LastChanged_Achievements": "2023-08-30T17:08:51.7553896+00:00",
+  "LastChanged_Achievements": "2023-08-30T18:08:52.687293+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:39.7773306+00:00",
-  "LastUpdate_Ratings": "2023-08-30T17:01:55.1430349+00:00",
-  "LastUpdate_Achievements": "2023-08-30T17:08:51.7563881+00:00"
+  "LastUpdate_Ratings": "2023-08-30T18:01:55.1283648+00:00",
+  "LastUpdate_Achievements": "2023-08-30T18:08:52.688226+00:00"
 }

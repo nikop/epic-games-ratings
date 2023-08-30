@@ -1932,7 +1932,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25437,
+  "EOS_Progressed": 25438,
   "EOS_Completed": 54,
   "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 2,
@@ -11642,6 +11642,11 @@
       "Time": "2023-08-30T17:05:00.0210435+00:00",
       "NumProgressed": 25437,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-08-30T18:05:03.4857746+00:00",
+      "NumProgressed": 25438,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 51,
@@ -11653,7 +11658,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 18569
+      "UsersEstimate": 18570
     },
     {
       "ID": "Animated",
@@ -11765,7 +11770,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 63,
       "XP": 100,
-      "UsersEstimate": 16025
+      "UsersEstimate": 16026
     },
     {
       "ID": "Escape_Artist",
@@ -11869,7 +11874,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6359
+      "UsersEstimate": 6360
     },
     {
       "ID": "Reckless",
@@ -11941,7 +11946,7 @@
       "Name": "Solo Capture",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 8394
+      "UsersEstimate": 8395
     },
     {
       "ID": "Stunner",
@@ -11949,7 +11954,7 @@
       "Name": "Stunner",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6359
+      "UsersEstimate": 6360
     },
     {
       "ID": "Stylish",
@@ -11957,7 +11962,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 21876
+      "UsersEstimate": 21877
     },
     {
       "ID": "Summoner",
@@ -11981,7 +11986,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 13736
+      "UsersEstimate": 13737
     },
     {
       "ID": "Teamwork",
@@ -12045,7 +12050,7 @@
       "Name": "Welcome to the Crew",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 7885
+      "UsersEstimate": 7886
     },
     {
       "ID": "Whoopsie",
@@ -12060,7 +12065,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25437,
+      "Progressed": 25438,
       "Completed": 54
     }
   ],
@@ -12068,8 +12073,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-08-28T13:57:18.2744027+00:00",
-  "LastChanged_Achievements": "2023-08-30T17:05:00.0210428+00:00",
+  "LastChanged_Achievements": "2023-08-30T18:05:03.485774+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:16.4521861+00:00",
-  "LastUpdate_Ratings": "2023-08-30T16:58:02.051486+00:00",
-  "LastUpdate_Achievements": "2023-08-30T17:05:00.0211938+00:00"
+  "LastUpdate_Ratings": "2023-08-30T17:58:00.9878061+00:00",
+  "LastUpdate_Achievements": "2023-08-30T18:05:03.4858953+00:00"
 }

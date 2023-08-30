@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 24,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -744,9 +744,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 219333,
+  "EOS_Progressed": 219357,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3063,
+  "EOS_NewPlayers": 3065,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8904,6 +8904,11 @@
       "Time": "2023-08-30T17:04:14.1587271+00:00",
       "NumProgressed": 219333,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-30T18:04:19.2598409+00:00",
+      "NumProgressed": 219357,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -8915,7 +8920,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2193
+      "UsersEstimate": 2194
     },
     {
       "ID": "100Fail",
@@ -8947,7 +8952,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2193
+      "UsersEstimate": 2194
     },
     {
       "ID": "BookCollection",
@@ -8979,7 +8984,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2193
+      "UsersEstimate": 2194
     },
     {
       "ID": "Chapter4",
@@ -9315,7 +9320,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6580
+      "UsersEstimate": 6581
     },
     {
       "ID": "DwarfElf15Support",
@@ -9363,7 +9368,7 @@
       "Name": "Sowwy!",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 57027
+      "UsersEstimate": 57033
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -9387,7 +9392,7 @@
       "Name": "DM intervention",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2193
+      "UsersEstimate": 2194
     },
     {
       "ID": "EndGameCursed",
@@ -9411,7 +9416,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6580
+      "UsersEstimate": 6581
     },
     {
       "ID": "FollowBraztok",
@@ -9618,21 +9623,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 219333,
+      "Progressed": 219357,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 219333,
+      "Progressed": 219357,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-30T02:11:58.6971058+00:00",
-  "LastChanged_Achievements": "2023-08-30T17:04:14.1587261+00:00",
+  "LastChanged_Achievements": "2023-08-30T18:04:19.2598402+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:41.9661267+00:00",
-  "LastUpdate_Ratings": "2023-08-30T16:57:22.9517427+00:00",
-  "LastUpdate_Achievements": "2023-08-30T17:04:14.1588851+00:00"
+  "LastUpdate_Ratings": "2023-08-30T17:57:21.5164209+00:00",
+  "LastUpdate_Achievements": "2023-08-30T18:04:19.2600115+00:00"
 }

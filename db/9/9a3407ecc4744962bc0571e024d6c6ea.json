@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 514,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 419,
+  "EOS_NewPlayers": 413,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -940,9 +940,9 @@
       "ID": "Outpatient",
       "SetID": "3ai6ml8",
       "Name": "Outpatient",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 288
+      "UsersEstimate": 293
     },
     {
       "ID": "Relic",
@@ -1003,8 +1003,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-08-30T17:04:59.215908+00:00",
+  "LastChanged_Achievements": "2023-08-30T18:05:02.7180936+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:05.9137937+00:00",
-  "LastUpdate_Ratings": "2023-08-30T16:59:17.2124371+00:00",
-  "LastUpdate_Achievements": "2023-08-30T17:04:59.2159537+00:00"
+  "LastUpdate_Ratings": "2023-08-30T17:59:16.7916914+00:00",
+  "LastUpdate_Achievements": "2023-08-30T18:05:02.7181086+00:00"
 }

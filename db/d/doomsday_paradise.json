@@ -2,10 +2,10 @@
   "ID": "c26b384708d84756af718a7be44176e5",
   "Name": "Doomsday Paradise",
   "ProductSlug": "doomsday-paradise-e7b25e",
-  "Ranking_EOS_Progress": 566,
+  "Ranking_EOS_Progress": 567,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 340,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
     "PcReleaseDate": "2023-09-30T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-26T08:57:27.2735168+00:00",
-  "LastUpdate_Ratings": "2023-08-30T16:58:12.7773775+00:00",
-  "LastUpdate_Achievements": "2023-08-30T17:05:59.4373229+00:00"
+  "LastUpdate_Ratings": "2023-08-30T17:58:11.898809+00:00",
+  "LastUpdate_Achievements": "2023-08-30T18:06:01.8845275+00:00"
 }

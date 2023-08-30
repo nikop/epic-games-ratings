@@ -7,18 +7,18 @@ Number of Ratings: 53  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Cabin boy | 80.00% | ~686 |
-| My little farm | 65.00% | ~557 |
-| Every beginning is difficult | 63.00% | ~540 |
-| Gofer | 57.00% | ~488 |
+| My little farm | 65.00% | ~558 |
+| Every beginning is difficult | 63.00% | ~541 |
+| Gofer | 57.00% | ~489 |
 | 3, 2, 1, mine | 56.00% | ~480 |
-| O Captain! My Captain! | 54.00% | ~463 |
-| Seafarer | 53.00% | ~454 |
+| O Captain! My Captain! | 55.00% | ~472 |
+| Seafarer | 53.00% | ~455 |
 | Greed for gold | 43.00% | ~369 |
 | Intangible | 42.00% | ~360 |
 | I'm out of here for a while | 42.00% | ~360 |
 | In a mint condition | 38.00% | ~326 |
 | Licence to Kill | 36.00% | ~309 |
-| Pirates! | 35.00% | ~300 |
+| Pirates! | 34.00% | ~292 |
 | Megalomania | 29.00% | ~249 |
 | Christening | 28.00% | ~240 |
 | Collectionitis | 28.00% | ~240 |
@@ -55,9 +55,9 @@ Number of Ratings: 53  (23.09.2022)
 | Capitalist | 0.70% | ~6 |
 | Parlay? | 0.70% | ~6 |
 | Fleet Admiral | 0.60% | ~5 |
-| Davy Jones' locker | 0.40% | ~3 |
+| Davy Jones' locker | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 857 (Ranked 208)  
+Progressed: 858 (Ranked 208)  
 Completed: 1 (0.12%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 1 (0.12%) (Ranked 206)
 | 2023-08-27 | 849 | 1 |
 | 2023-08-28 | 851 | 1 |
 | 2023-08-29 | 854 | 1 |
-| 2023-08-30 | 857 | 1 |
+| 2023-08-30 | 858 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

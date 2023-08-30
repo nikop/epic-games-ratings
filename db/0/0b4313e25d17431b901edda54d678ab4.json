@@ -4,8 +4,8 @@
   "ProductSlug": "echo-storm-4e5fbe",
   "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-11T05:00:00+00:00",
     "PcReleaseDate": "2023-03-16T17:00:00+00:00",
@@ -278,9 +278,9 @@
       "ID": "unlockPlasmaMoon",
       "SetID": "bma0pih",
       "Name": "Solar power",
-      "Percentage": 61,
+      "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     }
   ],
   "AchievementSets": [
@@ -292,8 +292,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-07T09:02:54.6493409+00:00",
-  "LastChanged_Achievements": "2023-08-30T17:06:12.4934598+00:00",
+  "LastChanged_Achievements": "2023-08-30T18:06:14.7311773+00:00",
   "LastUpdate_AppInfo": "2023-08-27T16:57:09.5121242+00:00",
-  "LastUpdate_Ratings": "2023-08-30T16:58:40.7520223+00:00",
-  "LastUpdate_Achievements": "2023-08-30T17:06:12.493491+00:00"
+  "LastUpdate_Ratings": "2023-08-30T17:58:40.9394412+00:00",
+  "LastUpdate_Achievements": "2023-08-30T18:06:14.7311885+00:00"
 }

@@ -4080,9 +4080,9 @@
       "Count": 330
     }
   ],
-  "EOS_Progressed": 669418,
+  "EOS_Progressed": 669466,
   "EOS_Completed": 2093,
-  "EOS_NewPlayers": 5984,
+  "EOS_NewPlayers": 5985,
   "EOS_NewCompleters": 39,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -18790,6 +18790,11 @@
       "Time": "2023-08-30T17:04:52.6168237+00:00",
       "NumProgressed": 669418,
       "NumCompleted": 2093
+    },
+    {
+      "Time": "2023-08-30T18:04:56.2253655+00:00",
+      "NumProgressed": 669466,
+      "NumCompleted": 2093
     }
   ],
   "TotalAchievements": 45,
@@ -18855,9 +18860,9 @@
       "ID": "ach_bookworm",
       "SetID": "7km39fm",
       "Name": "Bookworm",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 2678
+      "UsersEstimate": 3347
     },
     {
       "ID": "ach_break_a_leg",
@@ -18887,9 +18892,9 @@
       "ID": "ach_doctor_i_am_butcho",
       "SetID": "7km39fm",
       "Name": "But Doctor, I am Butcho",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2678
+      "UsersEstimate": 3347
     },
     {
       "ID": "ach_doom_buddies",
@@ -19015,9 +19020,9 @@
       "ID": "ach_legendary",
       "SetID": "7km39fm",
       "Name": "Ooh, Shiny!",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2008
+      "UsersEstimate": 2678
     },
     {
       "ID": "ach_magnum_opus",
@@ -19119,9 +19124,9 @@
       "ID": "ach_this_is_my_weapon",
       "SetID": "7km39fm",
       "Name": "This is My Weapon",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2678
+      "UsersEstimate": 3347
     },
     {
       "ID": "ach_weapon_wrangler",
@@ -19160,7 +19165,7 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 669418,
+      "Progressed": 669466,
       "Completed": 2093
     }
   ],
@@ -19168,8 +19173,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-08-30T15:57:34.017232+00:00",
-  "LastChanged_Achievements": "2023-08-30T17:04:52.6168231+00:00",
+  "LastChanged_Achievements": "2023-08-30T18:04:56.2253649+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:11.0440218+00:00",
-  "LastUpdate_Ratings": "2023-08-30T16:57:31.7769831+00:00",
-  "LastUpdate_Achievements": "2023-08-30T17:04:52.6169755+00:00"
+  "LastUpdate_Ratings": "2023-08-30T17:57:30.3081462+00:00",
+  "LastUpdate_Achievements": "2023-08-30T18:04:56.2254923+00:00"
 }

@@ -20,8 +20,8 @@ Number of Ratings: 20  (23.09.2022)
 | O Captain My Captain | 30.00% | ~97 |
 | Taxonomist | 27.00% | ~87 |
 | Plunderer | 27.00% | ~87 |
+| Traveller | 25.00% | ~80 |
 | Uncertain Loyalties | 25.00% | ~80 |
-| Traveller | 24.00% | ~77 |
 | Nahua Seeker | 24.00% | ~77 |
 | Roll to Save | 22.00% | ~71 |
 | Veteran Explorer | 20.00% | ~64 |
@@ -35,9 +35,9 @@ Number of Ratings: 20  (23.09.2022)
 | The New Director | 14.00% | ~45 |
 | The Director is Dead | 14.00% | ~45 |
 | Adventurer | 14.00% | ~45 |
+| And Here Is Your Statue | 13.00% | ~42 |
 | Discovery | 13.00% | ~42 |
 | Plays Well With Others | 13.00% | ~42 |
-| And Here Is Your Statue | 12.00% | ~39 |
 | Very Classy | 12.00% | ~39 |
 | Under the Table | 11.00% | ~35 |
 | It's Complicated | 10.00% | ~32 |

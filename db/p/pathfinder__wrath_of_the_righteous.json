@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3566,9 +3566,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 11137,
+  "EOS_Progressed": 11140,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11581,6 +11581,11 @@
       "Time": "2023-08-30T13:11:33.6886981+00:00",
       "NumProgressed": 11137,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-30T18:07:56.5797315+00:00",
+      "NumProgressed": 11140,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -11592,7 +11597,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 2673
+      "UsersEstimate": 2674
     },
     {
       "ID": "02_BurningCity",
@@ -11608,7 +11613,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1336
+      "UsersEstimate": 1337
     },
     {
       "ID": "04_FithCrusade",
@@ -11664,7 +11669,7 @@
       "Name": "Path of the Azata",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "11_PathOfAeon",
@@ -11776,7 +11781,7 @@
       "Name": "The Legacy",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "25_MasterfulDispell",
@@ -11824,7 +11829,7 @@
       "Name": "Divide and Rule",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "32_MythicReinforcements",
@@ -11840,7 +11845,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1559
+      "UsersEstimate": 1560
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -11878,9 +11883,9 @@
       "ID": "38_PrelatesNemesis",
       "SetID": "989of5o",
       "Name": "Prelate\u0027s Nemesis",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 56
     },
     {
       "ID": "39_Blight of Drezen",
@@ -11960,7 +11965,7 @@
       "Name": "A Spark",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1893
+      "UsersEstimate": 1894
     },
     {
       "ID": "49_Flame",
@@ -11968,7 +11973,7 @@
       "Name": "A Flame",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "50_HeyIKnowYou",
@@ -12016,7 +12021,7 @@
       "Name": "Next-Door Play",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "56_GetToad",
@@ -12024,7 +12029,7 @@
       "Name": "Get the Toad",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "57_PathOfDevil",
@@ -12519,21 +12524,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9919,
+      "Progressed": 9922,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11137,
+      "Progressed": 11140,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-28T22:02:03.4075061+00:00",
-  "LastChanged_Achievements": "2023-08-30T17:07:55.0409718+00:00",
+  "LastChanged_Achievements": "2023-08-30T18:07:56.5797309+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:16.3191421+00:00",
-  "LastUpdate_Ratings": "2023-08-30T16:57:19.3608395+00:00",
-  "LastUpdate_Achievements": "2023-08-30T17:07:55.041193+00:00"
+  "LastUpdate_Ratings": "2023-08-30T17:57:17.7304807+00:00",
+  "LastUpdate_Achievements": "2023-08-30T18:07:56.5799897+00:00"
 }

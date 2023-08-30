@@ -2,10 +2,10 @@
   "ID": "0983c2bb376e443d8c265296e5a7e136",
   "Name": "Barrett Foster Prologue",
   "ProductSlug": "barrett-foster-prologue-3e98dc",
-  "Ranking_EOS_Progress": 566,
+  "Ranking_EOS_Progress": 567,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 340,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-03-27T18:00:00+00:00",
     "PcReleaseDate": "2023-03-27T18:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:58:27.7520245+00:00",
   "LastChanged": "2023-03-31T05:58:27.7520246+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:46.1922243+00:00",
-  "LastUpdate_Ratings": "2023-08-30T16:59:44.0671789+00:00",
-  "LastUpdate_Achievements": "2023-08-30T17:03:20.1191153+00:00"
+  "LastUpdate_Ratings": "2023-08-30T17:59:43.4556257+00:00",
+  "LastUpdate_Achievements": "2023-08-30T18:03:37.7412841+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "e2dcdad747ae435182c80f954cb00528",
   "Name": "Sine Mora Ex",
   "ProductSlug": "sine-mora-ex-d4fd23",
-  "Ranking_EOS_Progress": 566,
+  "Ranking_EOS_Progress": 567,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 340,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-07-29T13:00:00+00:00",
     "PcReleaseDate": "2017-08-08T00:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:47.8148564+00:00",
   "LastChanged": "2023-03-31T05:57:47.8148565+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:55.8298071+00:00",
-  "LastUpdate_Ratings": "2023-08-30T16:58:38.562255+00:00",
-  "LastUpdate_Achievements": "2023-08-30T17:05:39.9328407+00:00"
+  "LastUpdate_Ratings": "2023-08-30T17:58:38.7580826+00:00",
+  "LastUpdate_Achievements": "2023-08-30T18:05:42.4418506+00:00"
 }
