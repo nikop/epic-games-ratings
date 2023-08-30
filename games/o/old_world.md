@@ -85,6 +85,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Temple of Solomon | 0.90% | ~123 |
 | Pantheon | 0.90% | ~123 |
 | Via Recta Souk | 0.90% | ~123 |
+| Learn to Play 3 | 0.90% | ~123 |
 | Power to the People | 0.90% | ~123 |
 | Persian Paganism | 0.90% | ~123 |
 | Legalism | 0.90% | ~123 |
@@ -96,7 +97,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Iron | 0.80% | ~109 |
 | Circus Maximus | 0.80% | ~109 |
 | Hagia Sophia | 0.80% | ~109 |
-| Learn to Play 3 | 0.80% | ~109 |
 | Economic Reform | 0.80% | ~109 |
 | Redemption | 0.80% | ~109 |
 | Legionary | 0.80% | ~109 |
@@ -130,6 +130,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | No Undo | 0.60% | ~82 |
 | Ishtar Gate in Babylon | 0.50% | ~68 |
 | Old | 0.50% | ~68 |
+| Peacemaker | 0.50% | ~68 |
 | Clerics | 0.50% | ~68 |
 | Rome | 0.50% | ~68 |
 | One True Faith | 0.50% | ~68 |
@@ -137,7 +138,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Turreted Elephant | 0.50% | ~68 |
 | All Nations | 0.50% | ~68 |
 | Carthage - Ox Hide | 0.40% | ~55 |
-| Peacemaker | 0.40% | ~55 |
 | Noble Difficulty | 0.40% | ~55 |
 | Cao'an | 0.40% | ~55 |
 | Egypt | 0.40% | ~55 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,671 (Ranked 120)  
+Progressed: 13,672 (Ranked 120)  
 Completed: 5 (0.04%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -435,7 +435,7 @@ Completed: 5 (0.04%) (Ranked 236)
 | 2023-08-27 | 13,616 | 5 |
 | 2023-08-28 | 13,635 | 5 |
 | 2023-08-29 | 13,661 | 5 |
-| 2023-08-30 | 13,671 | 5 |
+| 2023-08-30 | 13,672 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,799 (Ranked 207)  

@@ -6,8 +6,8 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 2.00% | ~2,707 |
-| Titan's First Steps | 2.00% | ~2,707 |
+| Sponsored by Argon | 2.00% | ~2,708 |
+| Titan's First Steps | 2.00% | ~2,708 |
 | Basic in Bulk | 1.00% | ~1,354 |
 | Disintermediation | 1.00% | ~1,354 |
 | It's Free Real Estate | 1.00% | ~1,354 |
@@ -38,19 +38,19 @@ Number of Ratings: 12,664  (23.09.2022)
 | Accomplished Merchant | 0.50% | ~677 |
 | Did we pack lunch? | 0.50% | ~677 |
 | Arcane Industries | 0.50% | ~677 |
-| Tax not Included | 0.40% | ~541 |
-| Research & Development | 0.40% | ~541 |
-| Big Game Hunting | 0.40% | ~541 |
-| Fated Encounters | 0.40% | ~541 |
-| For the Hoard! | 0.40% | ~541 |
-| Hidden Potential | 0.40% | ~541 |
-| Power of Love | 0.40% | ~541 |
-| Flawless Fusion | 0.40% | ~541 |
-| Trash to Treasure | 0.40% | ~541 |
-| Royal Ransom | 0.40% | ~541 |
-| Natural 20 | 0.40% | ~541 |
-| Seasoned Journeyman | 0.40% | ~541 |
-| Magical Harmony | 0.40% | ~541 |
+| Tax not Included | 0.40% | ~542 |
+| Research & Development | 0.40% | ~542 |
+| Big Game Hunting | 0.40% | ~542 |
+| Fated Encounters | 0.40% | ~542 |
+| For the Hoard! | 0.40% | ~542 |
+| Hidden Potential | 0.40% | ~542 |
+| Power of Love | 0.40% | ~542 |
+| Flawless Fusion | 0.40% | ~542 |
+| Trash to Treasure | 0.40% | ~542 |
+| Royal Ransom | 0.40% | ~542 |
+| Natural 20 | 0.40% | ~542 |
+| Seasoned Journeyman | 0.40% | ~542 |
+| Magical Harmony | 0.40% | ~542 |
 | A Notch Above the Rest | 0.30% | ~406 |
 | Cream of the Crop | 0.30% | ~406 |
 | Top of the World | 0.30% | ~406 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~135 |
 | Cash Only Please | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,370 (Ranked 67)  
+Progressed: 135,375 (Ranked 67)  
 Completed: 138 (0.10%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,7 +251,7 @@ Completed: 138 (0.10%) (Ranked 213)
 | 2023-08-27 | 135,255 | 138 |
 | 2023-08-28 | 135,299 | 138 |
 | 2023-08-29 | 135,350 | 138 |
-| 2023-08-30 | 135,370 | 138 |
+| 2023-08-30 | 135,375 | 138 |
 ## Awards
 Max (Great for Beginners): 4,717  (Ranked 71)  
 Sum: 27,154 (Ranked 47)  

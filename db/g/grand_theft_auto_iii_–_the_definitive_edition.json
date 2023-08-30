@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 135,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -443,10 +443,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 7618,
-  "EOS_Completed": 49,
+  "EOS_Completed": 50,
   "EOS_NewPlayers": 37,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 0.64,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:24.6451257+00:00",
@@ -7767,6 +7767,11 @@
       "Time": "2023-08-30T05:06:23.2125316+00:00",
       "NumProgressed": 7618,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-08-30T10:08:15.736989+00:00",
+      "NumProgressed": 7618,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 29,
@@ -8000,9 +8005,9 @@
       "ID": "ACH29",
       "SetID": "552d41m",
       "Name": "King of Liberty City",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 46
+      "UsersEstimate": 53
     }
   ],
   "AchievementSets": [
@@ -8010,15 +8015,15 @@
       "ID": "552d41m",
       "IsBase": true,
       "Progressed": 7618,
-      "Completed": 49
+      "Completed": 50
     }
   ],
   "FirstSeen": "2023-02-16T16:58:44.0672808+00:00",
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-08-24T22:01:07.1400968+00:00",
-  "LastChanged_Achievements": "2023-08-30T09:06:48.1225212+00:00",
+  "LastChanged_Achievements": "2023-08-30T10:08:15.7369879+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:30.0456476+00:00",
-  "LastUpdate_Ratings": "2023-08-30T08:59:58.5895809+00:00",
-  "LastUpdate_Achievements": "2023-08-30T09:06:48.1225707+00:00"
+  "LastUpdate_Ratings": "2023-08-30T10:00:56.5349602+00:00",
+  "LastUpdate_Achievements": "2023-08-30T10:08:15.7371126+00:00"
 }

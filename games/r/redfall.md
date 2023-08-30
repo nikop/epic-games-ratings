@@ -21,6 +21,7 @@ Rating: 3.50 (Ranked 981)
 | Sic Transit Umbra | 0.20% | ~3 |
 | Good Morning | 0.20% | ~3 |
 | Peek-a-boo | 0.20% | ~3 |
+| Wounded Whispers | 0.20% | ~3 |
 | From the Shadows | 0.20% | ~3 |
 | Skin of Their Teeth | 0.20% | ~3 |
 | Harvest’s End | 0.20% | ~3 |
@@ -34,7 +35,6 @@ Rating: 3.50 (Ranked 981)
 | Silence Is Golden | 0.10% | ~2 |
 | You Clean It Up | 0.10% | ~2 |
 | Throw The First Stone | 0.10% | ~2 |
-| Wounded Whispers | 0.10% | ~2 |
 | Catch and Release | 0.10% | ~2 |
 | Sisterhood | 0.10% | ~2 |
 | Check, Please! | 0.10% | ~2 |

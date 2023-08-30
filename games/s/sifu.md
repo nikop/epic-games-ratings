@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 5.00% | ~1,106 |
+| Diligence as a goal | 6.00% | ~1,327 |
 | Project Arena | 4.00% | ~885 |
 | The Old Grandmaster | 2.00% | ~14,256 |
 | The Assault | 2.00% | ~14,256 |
@@ -192,7 +192,7 @@ Completed: 12,877 (1.81%) (Ranked 99)
 | 2023-08-30 | 712,816 | 12,877 |
 ## Awards
 Max (Great Boss Battles): 6,410  (Ranked 55)  
-Sum: 11,014 (Ranked 82)  
+Sum: 11,015 (Ranked 82)  
 Diff (max vs sum): -27  
 | Award | Count |
 | ----- | ----- |
@@ -200,7 +200,7 @@ Diff (max vs sum): -27
 | This game has Diverse Characters | 575 |
 | This game has Challenging Combat | 545 |
 | This game has Quickly Understood Controls | 538 |
-| This game has Amazing Storytelling | 529 |
+| This game has Amazing Storytelling | 530 |
 | This game is Extremely Fun | 525 |
 | This game has Amazing Characters | 518 |
 | This game is Highly Recommended | 517 |
@@ -436,4 +436,4 @@ Diff (max vs sum): -27
 | 2023-08-27 | 4.82 | - | 6,402 | 11,001 |
 | 2023-08-28 | 4.82 | - | 6,406 | 11,006 |
 | 2023-08-29 | 4.82 | - | 6,410 | 11,013 |
-| 2023-08-30 | 4.82 | - | 6,410 | 11,014 |
+| 2023-08-30 | 4.82 | - | 6,410 | 11,015 |

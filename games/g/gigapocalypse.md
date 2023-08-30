@@ -19,26 +19,26 @@
 | Supreme Power | 45.00% | ~79 |
 | Chomp Chomp! | 45.00% | ~79 |
 | The Duelist | 43.00% | ~76 |
+| Target Practice | 42.00% | ~74 |
 | Glorious Battle | 41.00% | ~72 |
 | Diaper Time! | 41.00% | ~72 |
-| Target Practice | 41.00% | ~72 |
 | Meat Larder | 39.00% | ~69 |
 | Mutant And Proud | 38.00% | ~67 |
-| The Emperor's New Clothes | 32.00% | ~56 |
+| The Emperor's New Clothes | 33.00% | ~58 |
+| Final Evolution | 31.00% | ~55 |
 | You Shall Not Pass | 30.00% | ~53 |
+| Animal Lover | 30.00% | ~53 |
 | Godlike Power | 30.00% | ~53 |
 | Undying Skin | 30.00% | ~53 |
 | Happy Little Home | 30.00% | ~53 |
-| Final Evolution | 30.00% | ~53 |
-| Animal Lover | 29.00% | ~51 |
 | Fight Me! | 29.00% | ~51 |
+| Mommy's Very Angry | 28.00% | ~49 |
 | Supremacy | 28.00% | ~49 |
-| Mommy's Very Angry | 27.00% | ~48 |
 | Loyal Companion | 25.00% | ~44 |
 | Immortal Skin | 24.00% | ~42 |
 | Back To The Future | 23.00% | ~40 |
+| Fire Beacon | 23.00% | ~40 |
 | Lunch Before The Lunch | 22.00% | ~39 |
-| Fire Beacon | 22.00% | ~39 |
 | Building Blocks | 19.00% | ~33 |
 | From Here To Eternity | 18.00% | ~32 |
 | Octopostructure | 17.00% | ~30 |

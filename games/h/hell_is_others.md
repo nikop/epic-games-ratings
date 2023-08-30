@@ -5,10 +5,10 @@ Rating: 4.41 (Ranked 688)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~79,244 |
+| Survivor | 31.00% | ~79,245 |
 | Predator I | 22.00% | ~56,238 |
-| Fixer I | 10.00% | ~25,562 |
-| A week in Century City | 10.00% | ~25,562 |
+| Fixer I | 10.00% | ~25,563 |
+| A week in Century City | 10.00% | ~25,563 |
 | The Wait | 7.00% | ~17,894 |
 | Green thumb I | 6.00% | ~15,338 |
 | Cleaning Company | 6.00% | ~15,338 |
@@ -19,14 +19,14 @@ Rating: 4.41 (Ranked 688)
 | Vandalism | 4.00% | ~10,225 |
 | Capitalist I | 4.00% | ~10,225 |
 | Adrenaline | 3.00% | ~7,669 |
-| By a hair | 2.00% | ~5,112 |
-| Fixer II | 2.00% | ~5,112 |
-| It took a while | 2.00% | ~5,112 |
-| Samurai | 2.00% | ~5,112 |
-| I Left You a Present | 2.00% | ~5,112 |
-| Predator II | 2.00% | ~5,112 |
-| Truffle Dog | 2.00% | ~5,112 |
-| A month in Century City | 2.00% | ~5,112 |
+| By a hair | 2.00% | ~5,113 |
+| Fixer II | 2.00% | ~5,113 |
+| It took a while | 2.00% | ~5,113 |
+| Samurai | 2.00% | ~5,113 |
+| I Left You a Present | 2.00% | ~5,113 |
+| Predator II | 2.00% | ~5,113 |
+| Truffle Dog | 2.00% | ~5,113 |
+| A month in Century City | 2.00% | ~5,113 |
 | The Strengthening | 1.00% | ~2,556 |
 | Saver II | 1.00% | ~2,556 |
 | It's the last one, I swear | 1.00% | ~2,556 |
@@ -41,9 +41,9 @@ Rating: 4.41 (Ranked 688)
 | The Gamble | 0.50% | ~1,278 |
 | The Descent | 0.50% | ~1,278 |
 | A major purchase | 0.50% | ~1,278 |
-| Expert Hunter | 0.40% | ~1,022 |
-| Fungi hunter | 0.40% | ~1,022 |
-| Predator III | 0.40% | ~1,022 |
+| Expert Hunter | 0.40% | ~1,023 |
+| Fungi hunter | 0.40% | ~1,023 |
+| Predator III | 0.40% | ~1,023 |
 | Arms dealer | 0.30% | ~767 |
 | Fixer III | 0.30% | ~767 |
 | AML questionnaire | 0.30% | ~767 |
@@ -62,7 +62,7 @@ Rating: 4.41 (Ranked 688)
 | Capitalist III | 0.10% | ~256 |
 | Hell Is You | 0.10% | ~256 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,625 (Ranked 45)  
+Progressed: 255,628 (Ranked 45)  
 Completed: 3 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 3 (0.00%) (Ranked 266)
 | 2023-08-27 | 255,510 | 3 |
 | 2023-08-28 | 255,556 | 3 |
 | 2023-08-29 | 255,608 | 3 |
-| 2023-08-30 | 255,625 | 3 |
+| 2023-08-30 | 255,628 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 36  (Ranked 433)  
 Sum: 245 (Ranked 356)  

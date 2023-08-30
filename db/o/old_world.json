@@ -1647,9 +1647,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13671,
+  "EOS_Progressed": 13672,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10572,6 +10572,11 @@
       "Time": "2023-08-30T09:06:48.4057803+00:00",
       "NumProgressed": 13671,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-30T10:08:16.2846763+00:00",
+      "NumProgressed": 13672,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -11165,9 +11170,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_PEACEMAKER",
       "SetID": "9201eeb",
       "Name": "Peacemaker",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 68
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_PIONEER",
@@ -12117,9 +12122,9 @@
       "ID": "ACHIEVEMENT_LEARNTOPLAY_3",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 3",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 123
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_4",
@@ -12950,21 +12955,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13671,
+      "Progressed": 13672,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13671,
+      "Progressed": 13672,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-24T04:00:31.5764786+00:00",
-  "LastChanged_Achievements": "2023-08-30T09:06:48.4057799+00:00",
+  "LastChanged_Achievements": "2023-08-30T10:08:16.2846757+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:39.7773306+00:00",
-  "LastUpdate_Ratings": "2023-08-30T09:00:05.9069347+00:00",
-  "LastUpdate_Achievements": "2023-08-30T09:06:48.4183958+00:00"
+  "LastUpdate_Ratings": "2023-08-30T10:02:05.4378866+00:00",
+  "LastUpdate_Achievements": "2023-08-30T10:08:16.2857142+00:00"
 }

@@ -8,6 +8,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | ---- | ---------- | ----- |
 | It wakes | 0.30% | ~2,487 |
 | MU/TH/UR Dearest | 0.30% | ~2,487 |
+| Handyman | 0.20% | ~1,658 |
 | Zealous | 0.20% | ~1,658 |
 | Not half bad | 0.20% | ~1,658 |
 | Apt Survivor | 0.20% | ~1,658 |
@@ -32,7 +33,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | I've got your back | 0.10% | ~829 |
 | No one left behind | 0.10% | ~829 |
 | Medic | 0.10% | ~829 |
-| Handyman | 0.10% | ~829 |
 | Nerves of steel | 0.10% | ~829 |
 | Perfect Escape | 0.10% | ~829 |
 | Perfect Killing | 0.10% | ~829 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~829 |
 | Adept Ripley | 0.10% | ~829 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 828,921 (Ranked 15)  
+Progressed: 829,018 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -368,7 +368,7 @@ Completed: 48 (0.01%) (Ranked 253)
 | 2023-08-27 | 822,167 | 48 |
 | 2023-08-28 | 824,988 | 48 |
 | 2023-08-29 | 828,020 | 48 |
-| 2023-08-30 | 828,921 | 48 |
+| 2023-08-30 | 829,018 | 48 |
 ## Awards
 Max (Diverse Characters): 31,677  (Ranked 15)  
 Sum: 248,251 (Ranked 11)  

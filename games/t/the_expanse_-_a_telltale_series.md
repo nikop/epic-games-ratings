@@ -11,7 +11,7 @@ Rating: 4.83 (Ranked 59)
 | Spore Taste | 18.00% | ~1,729 |
 | Martian Music | 18.00% | ~1,729 |
 | Doctor Approved | 17.00% | ~1,633 |
-| Celebrations are in Order | 16.00% | ~1,536 |
+| Celebrations are in Order | 16.00% | ~1,537 |
 | Thorston Mayer | 10.00% | ~960 |
 | Bottoms up! | 7.00% | ~672 |
 | Data Logger | 4.00% | ~384 |
@@ -36,7 +36,7 @@ Rating: 4.83 (Ranked 59)
 | Scavenger Star | 0.00% | ~0 |
 | Data Collector | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,603 (Ranked 128)  
+Progressed: 9,604 (Ranked 128)  
 Completed: 0 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 0 (0.00%) (Ranked 266)
 | 2023-08-27 | 9,396 | 0 |
 | 2023-08-28 | 9,496 | 0 |
 | 2023-08-29 | 9,580 | 0 |
-| 2023-08-30 | 9,603 | 0 |
+| 2023-08-30 | 9,604 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

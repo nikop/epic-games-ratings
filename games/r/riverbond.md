@@ -6,28 +6,28 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~368,371 |
-| Now You're Talking | 62.00% | ~326,271 |
-| Steel Yourself | 62.00% | ~326,271 |
-| Window Dressing | 50.00% | ~263,122 |
-| Trigger Happy | 46.00% | ~242,072 |
-| Riverborn | 45.00% | ~236,810 |
-| Starry Eyed | 34.00% | ~178,923 |
-| Poking Around | 34.00% | ~178,923 |
-| Talk of the Town | 24.00% | ~126,299 |
-| AAARR! | 23.00% | ~121,036 |
-| Hello Darkness | 23.00% | ~121,036 |
-| Wind At Our Backs | 22.00% | ~115,774 |
-| To the Beat | 20.00% | ~105,249 |
-| Sunny Shores | 17.00% | ~89,461 |
-| Sunday Best | 16.00% | ~84,199 |
+| First Step | 70.00% | ~368,374 |
+| Now You're Talking | 62.00% | ~326,274 |
+| Steel Yourself | 62.00% | ~326,274 |
+| Window Dressing | 50.00% | ~263,124 |
+| Trigger Happy | 46.00% | ~242,074 |
+| Riverborn | 45.00% | ~236,812 |
+| Starry Eyed | 34.00% | ~178,924 |
+| Poking Around | 34.00% | ~178,924 |
+| Talk of the Town | 24.00% | ~126,300 |
+| AAARR! | 23.00% | ~121,037 |
+| Hello Darkness | 23.00% | ~121,037 |
+| Wind At Our Backs | 22.00% | ~115,775 |
+| To the Beat | 20.00% | ~105,250 |
+| Sunny Shores | 17.00% | ~89,462 |
+| Sunday Best | 16.00% | ~84,200 |
 | To Victory! | 15.00% | ~78,937 |
-| Two of a Kind | 14.00% | ~73,674 |
+| Two of a Kind | 14.00% | ~73,675 |
 | Keep On Trucking | 13.00% | ~68,412 |
 | Going on an Adventure | 11.00% | ~57,887 |
 | Make Peace, Not War | 11.00% | ~57,887 |
-| Walking The Line | 10.00% | ~52,624 |
-| Not So Cute Anymore | 10.00% | ~52,624 |
+| Walking The Line | 10.00% | ~52,625 |
+| Not So Cute Anymore | 10.00% | ~52,625 |
 | Road Less Travelled | 9.00% | ~47,362 |
 | Lost and Found | 9.00% | ~47,362 |
 | Under the Radar | 8.00% | ~42,100 |
@@ -58,13 +58,13 @@ Number of Ratings: 617  (23.09.2022)
 | Words of Truth | 2.00% | ~10,525 |
 | Star Power | 2.00% | ~10,525 |
 | Justice Served | 2.00% | ~10,525 |
+| Written in the Stars | 1.00% | ~5,262 |
 | Don't Care | 1.00% | ~5,262 |
 | Don’t Get Crabby | 1.00% | ~5,262 |
-| Written in the Stars | 0.90% | ~4,736 |
 | Boss of All Bosses | 0.30% | ~1,579 |
 | Point Taken | 0.10% | ~526 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 526,244 (Ranked 31)  
+Progressed: 526,248 (Ranked 31)  
 Completed: 467 (0.09%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 467 (0.09%) (Ranked 218)
 | 2023-08-27 | 526,088 | 466 |
 | 2023-08-28 | 526,158 | 467 |
 | 2023-08-29 | 526,225 | 467 |
-| 2023-08-30 | 526,244 | 467 |
+| 2023-08-30 | 526,248 | 467 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

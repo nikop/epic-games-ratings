@@ -7,16 +7,16 @@ Number of Ratings: 1,999  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Setting an example | 78.00% | ~44,217 |
-| Worth it | 63.00% | ~35,713 |
-| Eagle Eye | 55.00% | ~31,178 |
-| Corpseman I | 40.00% | ~22,675 |
+| Worth it | 63.00% | ~35,714 |
+| Eagle Eye | 55.00% | ~31,179 |
+| Corpseman I | 40.00% | ~22,676 |
 | Blast fishing | 37.00% | ~20,975 |
 | Not alone | 32.00% | ~18,140 |
 | Headhunter I | 27.00% | ~15,306 |
 | Manual Labour I | 25.00% | ~14,172 |
 | Developers, Developers, Developers | 24.00% | ~13,605 |
 | Basic Training | 24.00% | ~13,605 |
-| Furchtlos und Treu | 13.00% | ~7,369 |
+| Furchtlos und Treu | 13.00% | ~7,370 |
 | Gott Mit Uns | 12.00% | ~6,803 |
 | This We'll Defend! | 9.00% | ~5,102 |
 | Anker wirf! | 9.00% | ~5,102 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~57 |
 | Blood Brother | 0.10% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,688 (Ranked 89)  
+Progressed: 56,689 (Ranked 89)  
 Completed: 4 (0.01%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 4 (0.01%) (Ranked 253)
 | 2023-08-27 | 56,436 | 4 |
 | 2023-08-28 | 56,548 | 4 |
 | 2023-08-29 | 56,658 | 4 |
-| 2023-08-30 | 56,688 | 4 |
+| 2023-08-30 | 56,689 | 4 |
 ## Awards
 Max (Highly Recommended): 96  (Ranked 343)  
 Sum: 768 (Ranked 267)  

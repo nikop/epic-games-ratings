@@ -1,19 +1,19 @@
 # Defense Grid: The Awakening
 [Store](https://store.epicgames.com/en-US/p/defense-grid)  
 [View Rawdata](../../db/d/defense_grid__the_awakening.json)  
-Rating: 4.45 (Ranked 637)  
+Rating: 4.45 (Ranked 638)  
 Number of Ratings: 1,225  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~392,876 |
-| Happy Returns | 78.00% | ~378,325 |
-| Hey! That's mine! | 78.00% | ~378,325 |
+| First Blood | 81.00% | ~392,877 |
+| Happy Returns | 78.00% | ~378,326 |
+| Hey! That's mine! | 78.00% | ~378,326 |
 | Field Promotion | 74.00% | ~358,924 |
 | Leadhead | 71.00% | ~344,373 |
-| Eradicator | 67.00% | ~324,971 |
+| Eradicator | 67.00% | ~324,972 |
 | Surplus | 65.00% | ~315,271 |
-| I Spy | 64.00% | ~310,420 |
+| I Spy | 64.00% | ~310,421 |
 | Burn Baby Burn | 59.00% | ~286,169 |
 | Yellow Beats Green | 55.00% | ~266,768 |
 | Salvage Rights | 53.00% | ~257,067 |
@@ -22,21 +22,21 @@ Number of Ratings: 1,225  (23.09.2022)
 | What IS that? | 50.00% | ~242,516 |
 | Penny Pincher | 49.00% | ~237,666 |
 | Arsenal | 46.00% | ~223,115 |
-| Boot Camp | 45.00% | ~218,264 |
-| Flawless Victory | 42.00% | ~203,713 |
-| Confident | 41.00% | ~198,863 |
+| Boot Camp | 45.00% | ~218,265 |
+| Flawless Victory | 42.00% | ~203,714 |
+| Confident | 41.00% | ~198,864 |
 | Exterminator | 36.00% | ~174,612 |
 | Sharpshooter | 34.00% | ~164,911 |
 | Not So Fast | 33.00% | ~160,061 |
-| Great Ball of Fire | 32.00% | ~155,210 |
+| Great Ball of Fire | 32.00% | ~155,211 |
 | No Sale | 31.00% | ~150,360 |
 | Kaboom! | 30.00% | ~145,510 |
-| Liquidator | 29.00% | ~140,659 |
+| Liquidator | 29.00% | ~140,660 |
 | High Voltage | 24.00% | ~116,408 |
 | Filthy Rich | 19.00% | ~92,156 |
 | The Not-So-Friendly Skies | 18.00% | ~87,306 |
-| Power Builder | 17.00% | ~82,455 |
-| Pyrrhic Victory | 17.00% | ~82,455 |
+| Power Builder | 17.00% | ~82,456 |
+| Pyrrhic Victory | 17.00% | ~82,456 |
 | Death From Above | 16.00% | ~77,605 |
 | Retry | 16.00% | ~77,605 |
 | Head Trauma | 12.00% | ~58,204 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~485 |
 | You Monster | 0.10% | ~485 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 485,032 (Ranked 35)  
+Progressed: 485,033 (Ranked 35)  
 Completed: 4 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 4 (0.00%) (Ranked 266)
 | 2023-08-27 | 484,886 | 4 |
 | 2023-08-28 | 484,952 | 4 |
 | 2023-08-29 | 485,020 | 4 |
-| 2023-08-30 | 485,032 | 4 |
+| 2023-08-30 | 485,033 | 4 |
 ## Awards
 Max (Great for Beginners): 246  (Ranked 256)  
 Sum: 1,680 (Ranked 211)  

@@ -870,9 +870,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 6498,
+  "EOS_Progressed": 6499,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5555,6 +5555,11 @@
       "Time": "2023-08-30T08:05:52.3335729+00:00",
       "NumProgressed": 6498,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-30T10:06:34.9990012+00:00",
+      "NumProgressed": 6499,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -5598,7 +5603,7 @@
       "Name": "Commodity Trader",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2014
+      "UsersEstimate": 2015
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -5630,7 +5635,7 @@
       "Name": "Xenocide",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2079
+      "UsersEstimate": 2080
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -5646,7 +5651,7 @@
       "Name": "Design a Civilization",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 2079
+      "UsersEstimate": 2080
     },
     {
       "ID": "First_Major_Ally",
@@ -5670,7 +5675,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 5133
+      "UsersEstimate": 5134
     },
     {
       "ID": "First_Race_Met",
@@ -5686,7 +5691,7 @@
       "Name": "Design a Ship",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1819
+      "UsersEstimate": 1820
     },
     {
       "ID": "First_Stream_Travel",
@@ -5702,7 +5707,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5068
+      "UsersEstimate": 5069
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -5782,7 +5787,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2209
+      "UsersEstimate": 2210
     },
     {
       "ID": "Play_1000_Hours",
@@ -5870,7 +5875,7 @@
       "Name": "Commodity Seller",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1624
+      "UsersEstimate": 1625
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -6141,15 +6146,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6498,
+      "Progressed": 6499,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-08-26T19:00:34.0430321+00:00",
-  "LastChanged_Achievements": "2023-08-30T09:05:34.9623244+00:00",
+  "LastChanged_Achievements": "2023-08-30T10:06:34.9990006+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:37.9728429+00:00",
-  "LastUpdate_Ratings": "2023-08-30T08:59:47.8921901+00:00",
-  "LastUpdate_Achievements": "2023-08-30T09:05:34.9624141+00:00"
+  "LastUpdate_Ratings": "2023-08-30T10:00:42.4461597+00:00",
+  "LastUpdate_Achievements": "2023-08-30T10:06:34.999112+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "58c35a214bbb4656a536126ad1552d42",
   "Name": "Death Coming",
   "ProductSlug": "death-coming",
-  "Ranking_Rating": 637,
+  "Ranking_Rating": 638,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
-  "Ranking_EOS_Progress": 563,
+  "Ranking_EOS_Progress": 564,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 340,
   "Ranking_EOS_NewCompleters": 102,
@@ -392,6 +392,6 @@
   "FirstSeen": "2022-07-22T20:20:20.4886047+00:00",
   "LastChanged": "2023-07-27T04:57:42.1981843+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:17.9180347+00:00",
-  "LastUpdate_Ratings": "2023-08-30T08:59:31.6481239+00:00",
-  "LastUpdate_Achievements": "2023-08-30T09:06:03.3135775+00:00"
+  "LastUpdate_Ratings": "2023-08-30T10:00:20.900742+00:00",
+  "LastUpdate_Achievements": "2023-08-30T10:07:10.7000596+00:00"
 }

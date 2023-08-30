@@ -5818,10 +5818,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 11014,
       "NumberOfAwardsMax": 6410
+    },
+    {
+      "Time": "2023-08-30T09:57:59.5213985+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 11015,
+      "NumberOfAwardsMax": 6410
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11014,
+  "NumberOfAwards": 11015,
   "NumberOfAwardsMax": 6410,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5847,7 +5853,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 529
+      "Count": 530
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5900,7 +5906,7 @@
   ],
   "EOS_Progressed": 712816,
   "EOS_Completed": 12877,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -18376,9 +18382,9 @@
       "ID": "44_Arena_3Stamps",
       "SetID": "14c2oii",
       "Name": "Diligence as a goal",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1106
+      "UsersEstimate": 1327
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -18445,9 +18451,9 @@
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-08-30T01:38:19.0247488+00:00",
-  "LastChanged_Achievements": "2023-08-30T09:05:37.8143821+00:00",
+  "LastChanged": "2023-08-30T09:57:59.5213982+00:00",
+  "LastChanged_Achievements": "2023-08-30T10:06:38.4513163+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:37.9351908+00:00",
-  "LastUpdate_Ratings": "2023-08-30T08:57:41.5319616+00:00",
-  "LastUpdate_Achievements": "2023-08-30T09:05:37.8144793+00:00"
+  "LastUpdate_Ratings": "2023-08-30T09:57:59.5213991+00:00",
+  "LastUpdate_Achievements": "2023-08-30T10:06:38.4515311+00:00"
 }

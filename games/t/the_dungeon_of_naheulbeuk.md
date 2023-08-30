@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 26.00% | ~56,988 |
+| Sowwy! | 26.00% | ~56,993 |
 | Where's that freaking Dwarf? | 3.00% | ~6,576 |
 | Alt+F4 | 3.00% | ~6,576 |
 | Déjà vu | 2.00% | ~4,384 |
@@ -26,12 +26,12 @@ Number of Ratings: 118  (23.09.2022)
 | The Woman in the High Castle | 0.90% | ~1,973 |
 | Team Building Exercise | 0.90% | ~1,973 |
 | Oh, when I'll be level 10... | 0.90% | ~1,973 |
-| Shiny and Crôm | 0.80% | ~1,753 |
-| The Dungeon Master | 0.80% | ~1,753 |
-| The Statuette of Gladeulfeurah | 0.80% | ~1,753 |
-| A tale of adventurers not quite like the others... | 0.80% | ~1,753 |
-| The Ranger of Chaos | 0.80% | ~1,753 |
-| I am the night | 0.80% | ~1,753 |
+| Shiny and Crôm | 0.80% | ~1,754 |
+| The Dungeon Master | 0.80% | ~1,754 |
+| The Statuette of Gladeulfeurah | 0.80% | ~1,754 |
+| A tale of adventurers not quite like the others... | 0.80% | ~1,754 |
+| The Ranger of Chaos | 0.80% | ~1,754 |
+| I am the night | 0.80% | ~1,754 |
 | %#*!$*! | 0.70% | ~1,534 |
 | The beards of change | 0.70% | ~1,534 |
 | Thieves' Guild Accreditation | 0.70% | ~1,534 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~219 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,186 (Ranked 57)  
+Progressed: 219,202 (Ranked 57)  
 Completed: 2 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,7 +186,7 @@ Completed: 2 (0.00%) (Ranked 266)
 | 2023-08-27 | 218,331 | 2 |
 | 2023-08-28 | 218,694 | 2 |
 | 2023-08-29 | 219,078 | 2 |
-| 2023-08-30 | 219,186 | 2 |
+| 2023-08-30 | 219,202 | 2 |
 ## Awards
 Max (Character Customization): 184  (Ranked 279)  
 Sum: 230 (Ranked 360)  

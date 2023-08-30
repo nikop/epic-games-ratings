@@ -34,13 +34,13 @@ Rating: 4.54 (Ranked 503)
 | Down with the Sickness | 0.30% | ~2,007 |
 | Max Headroom | 0.30% | ~2,007 |
 | Our True Nature | 0.30% | ~2,007 |
+| Smorgasbord | 0.20% | ~1,338 |
 | Jumbo Keyring | 0.20% | ~1,338 |
 | Go, Bobcats! | 0.20% | ~1,338 |
 | Rising Star | 0.20% | ~1,338 |
 | Make it So | 0.10% | ~669 |
 | LA Influential | 0.10% | ~669 |
 | On Safari | 0.10% | ~669 |
-| Smorgasbord | 0.10% | ~669 |
 | Not Even My Final Form | 0.10% | ~669 |
 | Donk! | 0.10% | ~669 |
 | Internet Famous | 0.10% | ~669 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 503)
 | Variety is the Spice of Death | 0.10% | ~669 |
 | Bucket List | 0.10% | ~669 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 669,134 (Ranked 22)  
+Progressed: 669,158 (Ranked 22)  
 Completed: 2,092 (0.31%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 2,092 (0.31%) (Ranked 174)
 | 2023-08-27 | 667,273 | 2,082 |
 | 2023-08-28 | 668,091 | 2,086 |
 | 2023-08-29 | 668,912 | 2,088 |
-| 2023-08-30 | 669,134 | 2,092 |
+| 2023-08-30 | 669,158 | 2,092 |
 ## Awards
 Max (Great Boss Battles): 5,808  (Ranked 61)  
 Sum: 8,556 (Ranked 97)  
