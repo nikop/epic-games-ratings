@@ -28,9 +28,9 @@ Rating: 4.88 (Ranked 19)
 | Headliner | 5.00% | ~200 |
 | Time to pay up! | 5.00% | ~200 |
 | Who's the boss now? | 5.00% | ~200 |
+| I have to read these things? | 5.00% | ~200 |
 | You must like calling me in, Chai | 5.00% | ~200 |
 | Perfecter Parry-er! | 5.00% | ~200 |
-| I have to read these things? | 4.00% | ~160 |
 | Well that was a rush! | 3.00% | ~120 |
 | Beat-hit mania | 3.00% | ~120 |
 | That's a lot of junk metal… | 3.00% | ~120 |

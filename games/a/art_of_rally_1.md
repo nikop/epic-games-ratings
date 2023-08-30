@@ -6,20 +6,20 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,804 |
-| keep it tidy | 77.00% | ~7,864 |
-| podium | 72.00% | ~7,353 |
+| light attack | 96.00% | ~9,805 |
+| keep it tidy | 77.00% | ~7,865 |
+| podium | 72.00% | ~7,354 |
 | medium attack | 60.00% | ~6,128 |
-| brail | 57.00% | ~5,821 |
-| good drivers have dead flies on the side windows | 42.00% | ~4,289 |
+| brail | 57.00% | ~5,822 |
+| good drivers have dead flies on the side windows | 42.00% | ~4,290 |
 | grocery-getter | 39.00% | ~3,983 |
-| rwd only | 26.00% | ~2,655 |
-| food tour: pasta | 26.00% | ~2,655 |
+| rwd only | 26.00% | ~2,656 |
+| food tour: pasta | 26.00% | ~2,656 |
 | to finish first, first you must finish | 21.00% | ~2,145 |
 | autopilot | 21.00% | ~2,145 |
 | you can't treat a car like a human being. a car requires love | 21.00% | ~2,145 |
 | turbo | 20.00% | ~2,043 |
-| food tour: pretzel | 19.00% | ~1,940 |
+| food tour: pretzel | 19.00% | ~1,941 |
 | bicycle race | 15.00% | ~1,532 |
 | car wash | 14.00% | ~1,430 |
 | monster | 14.00% | ~1,430 |
@@ -28,7 +28,7 @@ Number of Ratings: 56  (23.09.2022)
 | night ride | 13.00% | ~1,328 |
 | snorkel | 13.00% | ~1,328 |
 | where is the stage? | 12.00% | ~1,226 |
-| maximum attack | 11.00% | ~1,123 |
+| maximum attack | 11.00% | ~1,124 |
 | espresso | 10.00% | ~1,021 |
 | parallel universe | 10.00% | ~1,021 |
 | mittens | 8.00% | ~817 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~41 |
 | barely keeping it together | 0.30% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,213 (Ranked 125)  
+Progressed: 10,214 (Ranked 125)  
 Completed: 9 (0.09%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,6 +147,7 @@ Completed: 9 (0.09%) (Ranked 218)
 | 2023-08-24 | 10,211 | 9 |
 | 2023-08-25 | 10,212 | 9 |
 | 2023-08-26 | 10,213 | 9 |
+| 2023-08-30 | 10,214 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

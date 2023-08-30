@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 130,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -495,9 +495,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14903,
+  "EOS_Progressed": 14904,
   "EOS_Completed": 110,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -9180,6 +9180,11 @@
       "Time": "2023-08-30T04:06:17.4569449+00:00",
       "NumProgressed": 14903,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2023-08-30T05:05:26.9514442+00:00",
+      "NumProgressed": 14904,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 41,
@@ -9247,7 +9252,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2086
+      "UsersEstimate": 2087
     },
     {
       "ID": "tpote_achievement_17",
@@ -9335,7 +9340,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1937
+      "UsersEstimate": 1938
     },
     {
       "ID": "tpote_achievement_27",
@@ -9391,7 +9396,7 @@
       "Name": "Jack was here!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2086
+      "UsersEstimate": 2087
     },
     {
       "ID": "tpote_achievement_33",
@@ -9455,7 +9460,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 6110
+      "UsersEstimate": 6111
     },
     {
       "ID": "tpote_achievement_40",
@@ -9518,15 +9523,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14903,
+      "Progressed": 14904,
       "Completed": 110
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-08-03T13:08:30.3350415+00:00",
-  "LastChanged_Achievements": "2023-08-30T04:06:17.4569444+00:00",
+  "LastChanged_Achievements": "2023-08-30T05:05:26.9514438+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:35.7712512+00:00",
-  "LastUpdate_Ratings": "2023-08-30T03:58:23.5513364+00:00",
-  "LastUpdate_Achievements": "2023-08-30T04:06:17.4570122+00:00"
+  "LastUpdate_Ratings": "2023-08-30T04:58:19.0025982+00:00",
+  "LastUpdate_Achievements": "2023-08-30T05:05:26.9515285+00:00"
 }

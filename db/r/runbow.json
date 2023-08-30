@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 248722,
+  "EOS_Progressed": 248723,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 321,
+  "EOS_NewPlayers": 322,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12674,6 +12674,11 @@
       "Time": "2023-08-30T04:06:03.7047624+00:00",
       "NumProgressed": 248722,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-30T05:05:13.6022931+00:00",
+      "NumProgressed": 248723,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 46,
@@ -12789,7 +12794,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 49744
+      "UsersEstimate": 49745
     },
     {
       "ID": "didYourTime",
@@ -12925,7 +12930,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 124361
+      "UsersEstimate": 124362
     },
     {
       "ID": "notScared",
@@ -13052,7 +13057,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 248722,
+      "Progressed": 248723,
       "Completed": 4
     }
   ],
@@ -13060,8 +13065,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-08-30T04:06:03.704762+00:00",
+  "LastChanged_Achievements": "2023-08-30T05:05:13.6022926+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:48.6914437+00:00",
-  "LastUpdate_Ratings": "2023-08-30T03:57:48.7628847+00:00",
-  "LastUpdate_Achievements": "2023-08-30T04:06:03.70485+00:00"
+  "LastUpdate_Ratings": "2023-08-30T04:57:45.0901168+00:00",
+  "LastUpdate_Achievements": "2023-08-30T05:05:13.6024126+00:00"
 }

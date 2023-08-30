@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -870,9 +870,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 6496,
+  "EOS_Progressed": 6497,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5545,6 +5545,11 @@
       "Time": "2023-08-30T00:06:26.8951001+00:00",
       "NumProgressed": 6496,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-30T05:05:10.2502916+00:00",
+      "NumProgressed": 6497,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -5596,7 +5601,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 4092
+      "UsersEstimate": 4093
     },
     {
       "ID": "Control_All_Relics",
@@ -5660,7 +5665,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 5132
+      "UsersEstimate": 5133
     },
     {
       "ID": "First_Race_Met",
@@ -5668,7 +5673,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4742
+      "UsersEstimate": 4743
     },
     {
       "ID": "First_Ship_Designed",
@@ -5692,7 +5697,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5067
+      "UsersEstimate": 5068
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -6044,7 +6049,7 @@
       "Name": "Win a Battle",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 4352
+      "UsersEstimate": 4353
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -6108,7 +6113,7 @@
       "Name": "Prestige Victory!",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 909
+      "UsersEstimate": 910
     },
     {
       "ID": "Win_Quickly",
@@ -6131,15 +6136,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6496,
+      "Progressed": 6497,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-08-26T19:00:34.0430321+00:00",
-  "LastChanged_Achievements": "2023-08-30T04:06:00.4207557+00:00",
+  "LastChanged_Achievements": "2023-08-30T05:05:10.2502908+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:37.9728429+00:00",
-  "LastUpdate_Ratings": "2023-08-30T03:59:45.2090746+00:00",
-  "LastUpdate_Achievements": "2023-08-30T04:06:00.4208336+00:00"
+  "LastUpdate_Ratings": "2023-08-30T04:59:38.7578116+00:00",
+  "LastUpdate_Achievements": "2023-08-30T05:05:10.2503928+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1209,7 +1209,7 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 8670,
+  "EOS_Progressed": 8671,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 202,
   "EOS_NewCompleters": 0,
@@ -11749,6 +11749,11 @@
       "Time": "2023-08-30T02:19:54.085469+00:00",
       "NumProgressed": 8670,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-30T05:03:51.4974006+00:00",
+      "NumProgressed": 8671,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -11760,7 +11765,7 @@
       "Name": "Leader",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 5202
+      "UsersEstimate": 5203
     },
     {
       "ID": "10",
@@ -11792,7 +11797,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 4595
+      "UsersEstimate": 4596
     },
     {
       "ID": "14",
@@ -11840,7 +11845,7 @@
       "Name": "Healer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 4508
+      "UsersEstimate": 4509
     },
     {
       "ID": "2",
@@ -11848,7 +11853,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 3034
+      "UsersEstimate": 3035
     },
     {
       "ID": "20",
@@ -11872,7 +11877,7 @@
       "Name": "First Step",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 6242
+      "UsersEstimate": 6243
     },
     {
       "ID": "23",
@@ -11920,7 +11925,7 @@
       "Name": "Merchant",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1907
+      "UsersEstimate": 1908
     },
     {
       "ID": "29",
@@ -11976,7 +11981,7 @@
       "Name": "Ice Lakes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1907
+      "UsersEstimate": 1908
     },
     {
       "ID": "35",
@@ -12120,7 +12125,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1300
+      "UsersEstimate": 1301
     },
     {
       "ID": "51",
@@ -12216,7 +12221,7 @@
       "Name": "Real Survivor",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1907
+      "UsersEstimate": 1908
     },
     {
       "ID": "9",
@@ -12231,15 +12236,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 8670,
+      "Progressed": 8671,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-08-25T02:13:36.2865808+00:00",
-  "LastChanged_Achievements": "2023-08-30T04:04:32.6742391+00:00",
+  "LastChanged_Achievements": "2023-08-30T05:03:51.4973997+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:34.935802+00:00",
-  "LastUpdate_Ratings": "2023-08-30T03:58:23.0357146+00:00",
-  "LastUpdate_Achievements": "2023-08-30T04:04:32.6743334+00:00"
+  "LastUpdate_Ratings": "2023-08-30T04:58:18.5050055+00:00",
+  "LastUpdate_Achievements": "2023-08-30T05:03:51.4975225+00:00"
 }

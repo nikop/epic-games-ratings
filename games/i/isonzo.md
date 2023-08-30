@@ -18,8 +18,8 @@ Number of Ratings: 98  (23.09.2022)
 | Decimation | 22.00% | ~1,474 |
 | Donatello | 22.00% | ~1,474 |
 | Veni Vidi Vici | 22.00% | ~1,474 |
+| The Italian Job | 21.00% | ~1,407 |
 | Insubordination | 20.00% | ~1,340 |
-| The Italian Job | 20.00% | ~1,340 |
 | Ragazzi del '99 | 18.00% | ~1,206 |
 | The Lion of the Isonzo | 18.00% | ~1,206 |
 | Luigi Cadorna | 15.00% | ~1,005 |

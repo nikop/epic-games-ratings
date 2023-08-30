@@ -9659,9 +9659,9 @@
       "Count": 23777
     }
   ],
-  "EOS_Progressed": 828553,
+  "EOS_Progressed": 828625,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 20481,
+  "EOS_NewPlayers": 20491,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -24364,6 +24364,11 @@
       "Time": "2023-08-30T04:06:46.9057855+00:00",
       "NumProgressed": 828553,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-08-30T05:05:54.741809+00:00",
+      "NumProgressed": 828625,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 229,
@@ -26181,9 +26186,9 @@
       "ID": "ACH_230",
       "SetID": "16jml5b",
       "Name": "MU/TH/UR Dearest",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 1657
+      "UsersEstimate": 2486
     },
     {
       "ID": "ACH_231",
@@ -26206,21 +26211,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 828553,
+      "Progressed": 828625,
       "Completed": 40
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 828553,
+      "Progressed": 828625,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-08-30T02:14:31.8874072+00:00",
-  "LastChanged_Achievements": "2023-08-30T04:06:46.9057851+00:00",
+  "LastChanged_Achievements": "2023-08-30T05:05:54.7418085+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:54.3324879+00:00",
-  "LastUpdate_Ratings": "2023-08-30T03:58:42.0364173+00:00",
-  "LastUpdate_Achievements": "2023-08-30T04:06:46.9063791+00:00"
+  "LastUpdate_Ratings": "2023-08-30T04:58:36.9292341+00:00",
+  "LastUpdate_Achievements": "2023-08-30T05:05:54.7424855+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -2072,9 +2072,9 @@
       "ID": "KALL_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Pest Control or Taxonomist?",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 126
     },
     {
       "ID": "KILLR_ACHIEVEMENT_1",
@@ -2335,8 +2335,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-08-30T04:04:34.0199169+00:00",
+  "LastChanged_Achievements": "2023-08-30T05:03:52.5043858+00:00",
   "LastUpdate_AppInfo": "2023-08-24T17:57:03.8268695+00:00",
-  "LastUpdate_Ratings": "2023-08-30T03:59:07.1543823+00:00",
-  "LastUpdate_Achievements": "2023-08-30T04:04:34.0199769+00:00"
+  "LastUpdate_Ratings": "2023-08-30T04:59:01.7052085+00:00",
+  "LastUpdate_Achievements": "2023-08-30T05:03:52.5044648+00:00"
 }

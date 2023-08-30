@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-05-11T05:00:00+00:00",
     "PcReleaseDate": "2023-03-16T17:00:00+00:00",
@@ -193,25 +193,25 @@
       "ID": "kill300",
       "SetID": "bma0pih",
       "Name": "Soldier",
-      "Percentage": 81,
+      "Percentage": 85,
       "XP": 100,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "kill750",
       "SetID": "bma0pih",
       "Name": "War machine",
-      "Percentage": 74,
+      "Percentage": 78,
       "XP": 150,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "killWithHammer",
       "SetID": "bma0pih",
       "Name": "Eternal blacksmith",
-      "Percentage": 30,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "leviathan01",
@@ -225,9 +225,9 @@
       "ID": "leviathan02",
       "SetID": "bma0pih",
       "Name": "Metal hell",
-      "Percentage": 19,
+      "Percentage": 22,
       "XP": 75,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "leviathan03",
@@ -287,8 +287,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-07T09:02:54.6493409+00:00",
-  "LastChanged_Achievements": "2023-08-30T04:05:16.9580634+00:00",
+  "LastChanged_Achievements": "2023-08-30T05:04:29.8615746+00:00",
   "LastUpdate_AppInfo": "2023-08-27T16:57:09.5121242+00:00",
-  "LastUpdate_Ratings": "2023-08-30T03:57:53.6097544+00:00",
-  "LastUpdate_Achievements": "2023-08-30T04:05:16.9580733+00:00"
+  "LastUpdate_Ratings": "2023-08-30T04:57:49.8097641+00:00",
+  "LastUpdate_Achievements": "2023-08-30T05:04:29.8615893+00:00"
 }

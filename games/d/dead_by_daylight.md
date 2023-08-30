@@ -6,13 +6,13 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| MU/TH/UR Dearest | 0.30% | ~2,486 |
 | Zealous | 0.20% | ~1,657 |
 | It wakes | 0.20% | ~1,657 |
 | Not half bad | 0.20% | ~1,657 |
 | Skillful | 0.20% | ~1,657 |
 | Make Some Noise | 0.20% | ~1,657 |
 | Terror of LV-426 | 0.20% | ~1,657 |
-| MU/TH/UR Dearest | 0.20% | ~1,657 |
 | The Grand Sacrifice | 0.10% | ~829 |
 | A bite for the Entity | 0.10% | ~829 |
 | A feast for the Entity | 0.10% | ~829 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~829 |
 | Adept Ripley | 0.10% | ~829 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 828,553 (Ranked 15)  
+Progressed: 828,625 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -368,7 +368,7 @@ Completed: 48 (0.01%) (Ranked 253)
 | 2023-08-27 | 822,167 | 48 |
 | 2023-08-28 | 824,988 | 48 |
 | 2023-08-29 | 828,020 | 48 |
-| 2023-08-30 | 828,553 | 48 |
+| 2023-08-30 | 828,625 | 48 |
 ## Awards
 Max (Diverse Characters): 31,566  (Ranked 15)  
 Sum: 248,065 (Ranked 11)  

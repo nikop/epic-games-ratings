@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -488,9 +488,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3549,
+  "EOS_Progressed": 3550,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -6318,6 +6318,11 @@
       "Time": "2023-08-30T03:06:15.2777919+00:00",
       "NumProgressed": 3549,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-08-30T05:05:02.9810531+00:00",
+      "NumProgressed": 3550,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 71,
@@ -6337,7 +6342,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -6345,7 +6350,7 @@
       "Name": "Best of the Best",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "REWARD_13_OPTIONAL_TASK",
@@ -6353,7 +6358,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -6361,7 +6366,7 @@
       "Name": "Opposing Force",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -6369,7 +6374,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -6449,7 +6454,7 @@
       "Name": "Gunslinger",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -6465,7 +6470,7 @@
       "Name": "Sharpshooter",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -6473,7 +6478,7 @@
       "Name": "The Long Game",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "REWARD_28_AMBUSH_KING",
@@ -6489,7 +6494,7 @@
       "Name": "Precision Is Key",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -6505,7 +6510,7 @@
       "Name": "Out of Scope",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "REWARD_32_RIGGED_BLOW",
@@ -6521,7 +6526,7 @@
       "Name": "My Little Friend",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -6537,7 +6542,7 @@
       "Name": "Lord of War",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1030
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -6641,7 +6646,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1171
+      "UsersEstimate": 1172
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -6649,7 +6654,7 @@
       "Name": "It\u0027ll Buff Right Out",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "REWARD_56_SMOOTH_OPERATOR",
@@ -6689,15 +6694,15 @@
       "Name": "Don\u0027t hold your breath",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "REWARD_6_BIG_GAME_HUNTER",
       "SetID": "bm6el81",
       "Name": "Taking it back",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 994
+      "UsersEstimate": 959
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -6713,7 +6718,7 @@
       "Name": "Sight Beyond Sights",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "REWARD_7_TARGET_AMERICA",
@@ -6721,7 +6726,7 @@
       "Name": "Target America",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 887
+      "UsersEstimate": 888
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -6896,13 +6901,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3500,
+      "Progressed": 3501,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3549,
+      "Progressed": 3550,
       "Completed": 10
     }
   ],
@@ -6910,8 +6915,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-08-28T15:59:25.8745105+00:00",
-  "LastChanged_Achievements": "2023-08-30T04:05:53.0945751+00:00",
+  "LastChanged_Achievements": "2023-08-30T05:05:02.9810527+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:12.9306959+00:00",
-  "LastUpdate_Ratings": "2023-08-30T03:59:06.095063+00:00",
-  "LastUpdate_Achievements": "2023-08-30T04:05:53.094661+00:00"
+  "LastUpdate_Ratings": "2023-08-30T04:59:00.6488563+00:00",
+  "LastUpdate_Achievements": "2023-08-30T05:05:02.9811581+00:00"
 }

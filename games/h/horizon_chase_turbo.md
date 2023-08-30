@@ -6,15 +6,15 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~931,758 |
-| I Need a Bigger Garage | 63.00% | ~652,231 |
-| Pump my Ride | 47.00% | ~486,585 |
-| Ghostbuster | 33.00% | ~341,645 |
-| That Was Close | 18.00% | ~186,352 |
-| Call Roadside Assistance | 17.00% | ~175,999 |
-| Quickie | 11.00% | ~113,882 |
-| California Dreamer | 7.00% | ~72,470 |
-| Can't Touch This | 5.00% | ~51,764 |
+| The First of Many | 90.00% | ~931,770 |
+| I Need a Bigger Garage | 63.00% | ~652,239 |
+| Pump my Ride | 47.00% | ~486,591 |
+| Ghostbuster | 33.00% | ~341,649 |
+| That Was Close | 18.00% | ~186,354 |
+| Call Roadside Assistance | 17.00% | ~176,001 |
+| Quickie | 11.00% | ~113,883 |
+| California Dreamer | 7.00% | ~72,471 |
+| Can't Touch This | 5.00% | ~51,765 |
 | Carménère Taster | 3.00% | ~31,059 |
 | Supersonic | 3.00% | ~31,059 |
 | Comeback | 3.00% | ~31,059 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,035 |
 | Look Mom, No Hands! | 0.10% | ~1,035 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,035,287 (Ranked 12)  
+Progressed: 1,035,300 (Ranked 12)  
 Completed: 407 (0.04%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,10 +176,10 @@ Completed: 407 (0.04%) (Ranked 236)
 | 2023-08-27 | 1,034,146 | 405 |
 | 2023-08-28 | 1,034,696 | 405 |
 | 2023-08-29 | 1,035,202 | 407 |
-| 2023-08-30 | 1,035,287 | 407 |
+| 2023-08-30 | 1,035,300 | 407 |
 ## Awards
 Max (Great for Beginners): 153  (Ranked 296)  
-Sum: 1,262 (Ranked 229)  
+Sum: 1,263 (Ranked 229)  
 Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
@@ -189,7 +189,7 @@ Diff (max vs sum): 67
 | This game is Relaxing | 125 |
 | This game is Highly Recommended | 121 |
 | This game has Competitive Players | 117 |
-| This game has Playful Visuals | 115 |
+| This game has Playful Visuals | 116 |
 | This game is Extremely Fun | 109 |
 | This game has Amazing Storytelling | 93 |
 | This game has Amazing Characters | 92 |
@@ -394,3 +394,4 @@ Diff (max vs sum): 67
 | 2023-08-24 | 4.55 | - | 153 | 1,259 |
 | 2023-08-25 | 4.55 | - | 153 | 1,261 |
 | 2023-08-29 | 4.55 | - | 153 | 1,262 |
+| 2023-08-30 | 4.55 | - | 153 | 1,263 |

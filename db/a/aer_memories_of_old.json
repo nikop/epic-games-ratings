@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 94,
-  "Ranking_EOS_NewPlayers": 77,
+  "Ranking_EOS_NewPlayers": 78,
   "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -386,9 +386,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18988,
+  "EOS_Progressed": 18990,
   "EOS_Completed": 380,
-  "EOS_NewPlayers": 532,
+  "EOS_NewPlayers": 531,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 2,
   "EosHistory": [
@@ -14431,6 +14431,11 @@
       "Time": "2023-08-30T03:07:36.721557+00:00",
       "NumProgressed": 18988,
       "NumCompleted": 380
+    },
+    {
+      "Time": "2023-08-30T05:06:09.1002537+00:00",
+      "NumProgressed": 18990,
+      "NumCompleted": 380
     }
   ],
   "TotalAchievements": 20,
@@ -14458,7 +14463,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2658
+      "UsersEstimate": 2659
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -14514,7 +14519,7 @@
       "Name": "Hide and Seek",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "FOUND_FOX_STATUE",
@@ -14538,7 +14543,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2468
+      "UsersEstimate": 2469
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -14562,7 +14567,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 14431
+      "UsersEstimate": 14432
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -14578,7 +14583,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2658
+      "UsersEstimate": 2659
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -14601,15 +14606,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 18988,
+      "Progressed": 18990,
       "Completed": 380
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-08-29T02:43:58.1084625+00:00",
-  "LastChanged_Achievements": "2023-08-30T04:07:05.1011833+00:00",
+  "LastChanged_Achievements": "2023-08-30T05:06:09.1002532+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:40.7243022+00:00",
-  "LastUpdate_Ratings": "2023-08-30T03:58:27.3034742+00:00",
-  "LastUpdate_Achievements": "2023-08-30T04:07:05.1012564+00:00"
+  "LastUpdate_Ratings": "2023-08-30T04:58:22.6448013+00:00",
+  "LastUpdate_Achievements": "2023-08-30T05:06:09.1003682+00:00"
 }
