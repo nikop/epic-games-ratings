@@ -3,7 +3,7 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.00% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.31% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 34.48% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 34.83% |
 | 5 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 33.33% |
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.95% |
 | 7 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
@@ -134,8 +134,8 @@
 | 132 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.72% |
 | 133 | [Lemon Cake](games/l/lemon_cake.md) | 0.70% |
 | 134 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.68% |
-| 135 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.64% |
-| 135 | [Haven](games/h/haven.md) | 0.64% |
+| 135 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.66% |
+| 136 | [Haven](games/h/haven.md) | 0.64% |
 | 137 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.62% |
 | 138 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
 | 138 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.61% |
@@ -152,9 +152,9 @@
 | 150 | [The Surge 2](games/t/the_surge_2.md) | 0.50% |
 | 151 | [Godlike Burger](games/g/godlike_burger.md) | 0.49% |
 | 152 | [Them and Us](games/t/them_and_us.md) | 0.48% |
-| 153 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
-| 153 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.46% |
-| 153 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.46% |
+| 153 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
+| 154 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.46% |
+| 154 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.46% |
 | 156 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.45% |
 | 156 | [Train Valley](games/t/train_valley.md) | 0.45% |
 | 158 | [Tails of Iron](games/t/tails_of_iron.md) | 0.43% |
@@ -272,6 +272,7 @@
 | 266 | [Ad Infinitum](games/a/ad_infinitum.md) | 0.00% |
 | 266 | [Aerial Platforms](games/e/ea6b00889ce34487bdc4b03fa35dd8f3.md) | 0.00% |
 | 266 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 0.00% |
+| 266 | [Airport CEO](games/0/0eb6d6e85bfe442b87cb1172415d35fb.md) | 0.00% |
 | 266 | [ANNO Mutationem](games/a/anno_mutationem.md) | 0.00% |
 | 266 | [Apotheorasis • Lab of the Blind Gods](games/a/apotheorasis_•_lab_of_the_blind_gods.md) | 0.00% |
 | 266 | [Arcade Paradise](games/a/arcade_paradise.md) | 0.00% |
@@ -561,4 +562,4 @@
 | 266 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 266 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 266 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,137 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,138 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |

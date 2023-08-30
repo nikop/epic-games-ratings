@@ -254,7 +254,7 @@
 | [AEVITAS](games/e/e551d0f379ad42629494c89540c1c853.md) | 2099-01-01 | - |  | - | - |
 | [AI Roguelite](games/a/ai_roguelite.md) | 2099-01-01 | - |  | - | - |
 | [Airhead](games/a/airhead.md) | 2099-01-01 | - |  | - | - |
-| [Airport CEO](games/0/0eb6d6e85bfe442b87cb1172415d35fb.md) | 2099-01-01 | 34 (1,000 XP) | 0 | - | - |
+| [Airport CEO](games/0/0eb6d6e85bfe442b87cb1172415d35fb.md) | 2099-01-01 | 34 (1,000 XP) | 1 | - | - |
 | [Airship Kingdoms Adrift](games/a/airship_kingdoms_adrift.md) | 2099-01-01 | - |  | - | - |
 | [Amigo Kebab Simulator](games/c/ce929d57694e45eba04876a0d6cf8c55.md) | 2099-01-01 | 31 (1,000 XP) | 0 | - | - |
 | [ANIMO Stars Arena](games/a/animo_stars_arena.md) | 2099-01-01 | - |  | - | - |
@@ -292,6 +292,7 @@
 | [DAY_000](games/7/7862c34b00e749a3b3066004ae157859.md) | 2099-01-01 | - |  | - | - |
 | [Days of Doom](games/5/5e9af916f2694cb7baee762a8b9fb64b.md) | 2099-01-01 | - |  | - | - |
 | [DC Dual Force](games/4/405e6edbc5eb46f1bbb9dad2994c20fa.md) | 2099-01-01 | - |  | - | - |
+| [Deadwater Saloon](games/0/0011a38fecb741dc9923879a4f490d42.md) | 2099-01-01 | - |  | - | - |
 | [Defimons](games/8/82b2eb4986c94409baca6597ce30c0cb.md) | 2099-01-01 | - |  | - | - |
 | [Delysium](games/d/delysium.md) | 2099-01-01 | - |  | - | - |
 | [Derelicts](games/d/derelicts.md) | 2099-01-01 | - |  | - | - |
