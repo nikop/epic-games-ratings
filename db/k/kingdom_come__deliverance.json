@@ -6772,10 +6772,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 27602,
       "NumberOfAwardsMax": 7414
+    },
+    {
+      "Time": "2023-08-30T03:57:08.6965343+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 27605,
+      "NumberOfAwardsMax": 7414
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27602,
+  "NumberOfAwards": 27605,
   "NumberOfAwardsMax": 7414,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6789,7 +6795,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 5454
+      "Count": 5457
     },
     {
       "Text": "This game is Highly Recommended",
@@ -6858,7 +6864,7 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 799068,
+  "EOS_Progressed": 799071,
   "EOS_Completed": 44,
   "EOS_NewPlayers": 976,
   "EOS_NewCompleters": 0,
@@ -21363,6 +21369,11 @@
       "Time": "2023-08-30T03:03:18.8197794+00:00",
       "NumProgressed": 799068,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-08-30T04:03:16.018041+00:00",
+      "NumProgressed": 799071,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 82,
@@ -21406,7 +21417,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 167804
+      "UsersEstimate": 167805
     },
     {
       "ID": "BadGirl",
@@ -21422,7 +21433,7 @@
       "Name": "Bad Trip",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 39953
+      "UsersEstimate": 39954
     },
     {
       "ID": "Bailiff",
@@ -21454,7 +21465,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 255702
+      "UsersEstimate": 255703
     },
     {
       "ID": "Bookworm",
@@ -21462,7 +21473,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 119860
+      "UsersEstimate": 119861
     },
     {
       "ID": "Buddy",
@@ -21470,7 +21481,7 @@
       "Name": "Buddy",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 95888
+      "UsersEstimate": 95889
     },
     {
       "ID": "Casanova",
@@ -21486,7 +21497,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 199767
+      "UsersEstimate": 199768
     },
     {
       "ID": "Chivalrous",
@@ -21590,7 +21601,7 @@
       "Name": "Firestarter",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 119860
+      "UsersEstimate": 119861
     },
     {
       "ID": "Freud",
@@ -21798,7 +21809,7 @@
       "Name": "Monk",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 39953
+      "UsersEstimate": 39954
     },
     {
       "ID": "NotSoChristianBurial",
@@ -21902,7 +21913,7 @@
       "Name": "Serial Killer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 39953
+      "UsersEstimate": 39954
     },
     {
       "ID": "Sinner",
@@ -21910,7 +21921,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 87897
+      "UsersEstimate": 87898
     },
     {
       "ID": "Sniper",
@@ -21950,7 +21961,7 @@
       "Name": "Thief",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 95888
+      "UsersEstimate": 95889
     },
     {
       "ID": "TisButAScratch",
@@ -21982,7 +21993,7 @@
       "Name": "Traveller",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 87897
+      "UsersEstimate": 87898
     },
     {
       "ID": "TrialAndError",
@@ -22029,15 +22040,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 799068,
+      "Progressed": 799071,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-08-29T21:57:16.8610814+00:00",
-  "LastChanged_Achievements": "2023-08-30T03:03:18.8197789+00:00",
+  "LastChanged": "2023-08-30T03:57:08.6965341+00:00",
+  "LastChanged_Achievements": "2023-08-30T04:03:16.0180406+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:19.3833724+00:00",
-  "LastUpdate_Ratings": "2023-08-30T02:57:13.477076+00:00",
-  "LastUpdate_Achievements": "2023-08-30T03:03:18.8199584+00:00"
+  "LastUpdate_Ratings": "2023-08-30T03:57:08.6965348+00:00",
+  "LastUpdate_Achievements": "2023-08-30T04:03:16.0181772+00:00"
 }

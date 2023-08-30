@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3138,
+  "EOS_Progressed": 3139,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -2844,6 +2844,11 @@
       "Time": "2023-08-28T22:06:27.0721919+00:00",
       "NumProgressed": 3138,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-08-30T04:06:03.0792613+00:00",
+      "NumProgressed": 3139,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -2903,7 +2908,7 @@
       "Name": "You and what Army?",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2793
+      "UsersEstimate": 2794
     },
     {
       "ID": "campaign10",
@@ -2991,7 +2996,7 @@
       "Name": "Flanked!",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 2479
+      "UsersEstimate": 2480
     },
     {
       "ID": "campaign20",
@@ -3015,7 +3020,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1506
+      "UsersEstimate": 1507
     },
     {
       "ID": "campaign5",
@@ -3118,7 +3123,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3138,
+      "Progressed": 3139,
       "Completed": 11
     }
   ],
@@ -3126,8 +3131,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-08-30T03:06:27.3954536+00:00",
+  "LastChanged_Achievements": "2023-08-30T04:06:03.0792608+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:09.5831279+00:00",
-  "LastUpdate_Ratings": "2023-08-30T02:58:56.0472964+00:00",
-  "LastUpdate_Achievements": "2023-08-30T03:06:27.3954996+00:00"
+  "LastUpdate_Ratings": "2023-08-30T03:58:32.0890239+00:00",
+  "LastUpdate_Achievements": "2023-08-30T04:06:03.0792932+00:00"
 }

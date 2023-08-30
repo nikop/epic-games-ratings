@@ -653,17 +653,17 @@
       "ID": "AC02",
       "SetID": "l4abp0",
       "Name": "Blood and Dust",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 338
+      "UsersEstimate": 343
     },
     {
       "ID": "AC03",
       "SetID": "l4abp0",
       "Name": "Blood and Gold",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 304
+      "UsersEstimate": 310
     },
     {
       "ID": "AC04",
@@ -701,9 +701,9 @@
       "ID": "AC08",
       "SetID": "l4abp0",
       "Name": "Forged in Fire",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 163
+      "UsersEstimate": 169
     },
     {
       "ID": "AC09",
@@ -885,9 +885,9 @@
       "ID": "AC31",
       "SetID": "l4abp0",
       "Name": "The Merciless One",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 152
     },
     {
       "ID": "AC32",
@@ -941,9 +941,9 @@
       "ID": "AC38",
       "SetID": "l4abp0",
       "Name": "Edge of Orison",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 101
     },
     {
       "ID": "AC39",
@@ -1012,8 +1012,8 @@
   ],
   "FirstSeen": "2023-07-26T07:57:19.1818171+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
-  "LastChanged_Achievements": "2023-08-30T03:06:05.9508772+00:00",
+  "LastChanged_Achievements": "2023-08-30T04:05:45.4250091+00:00",
   "LastUpdate_AppInfo": "2023-08-29T18:57:21.35462+00:00",
-  "LastUpdate_Ratings": "2023-08-30T02:59:25.9620749+00:00",
-  "LastUpdate_Achievements": "2023-08-30T03:06:05.9509215+00:00"
+  "LastUpdate_Ratings": "2023-08-30T03:58:56.295595+00:00",
+  "LastUpdate_Achievements": "2023-08-30T04:05:45.4250429+00:00"
 }

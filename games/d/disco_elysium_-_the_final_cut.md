@@ -7,15 +7,15 @@ Number of Ratings: 1,611  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Goodest Of The Good Cops | 28.00% | ~35,554 |
-| Biggest Communism Builder | 24.00% | ~30,474 |
-| The World's Most Laughable Centrist | 20.00% | ~25,395 |
+| Biggest Communism Builder | 24.00% | ~30,475 |
+| The World's Most Laughable Centrist | 20.00% | ~25,396 |
 | Il Coppo Del'Arte! | 18.00% | ~22,856 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,316 |
-| Hyperstellar Law Official | 16.00% | ~20,316 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,317 |
+| Hyperstellar Law Official | 16.00% | ~20,317 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~17,777 |
 | Gurdi-Ball Is Lit | 14.00% | ~17,777 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~16,507 |
-| Truly Rabid *Traditionalist* | 11.00% | ~13,967 |
+| Truly Rabid *Traditionalist* | 11.00% | ~13,968 |
 | Unbelievably Boring **** | 9.00% | ~11,428 |
 | The Figurines Won't Win Her Back | 9.00% | ~11,428 |
 | Enemy Of The Physical Realm | 8.00% | ~10,158 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~127 |
 | What body? | 0.10% | ~127 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,977 (Ranked 69)  
+Progressed: 126,979 (Ranked 69)  
 Completed: 27 (0.02%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 27 (0.02%) (Ranked 246)
 | 2023-08-27 | 126,888 | 27 |
 | 2023-08-28 | 126,927 | 27 |
 | 2023-08-29 | 126,973 | 27 |
-| 2023-08-30 | 126,977 | 27 |
+| 2023-08-30 | 126,979 | 27 |
 ## Awards
 Max (Character Customization): 721  (Ranked 165)  
 Sum: 1,085 (Ranked 236)  

@@ -11949,9 +11949,9 @@
       "ID": "Swift_Removers",
       "SetID": "819popo",
       "Name": "Swift Rift Removers",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 13478
+      "UsersEstimate": 13733
     },
     {
       "ID": "Teamwork",
@@ -12038,8 +12038,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-08-28T13:57:18.2744027+00:00",
-  "LastChanged_Achievements": "2023-08-30T03:04:32.8643817+00:00",
+  "LastChanged_Achievements": "2023-08-30T04:04:19.30477+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:16.4521861+00:00",
-  "LastUpdate_Ratings": "2023-08-30T02:57:36.8530763+00:00",
-  "LastUpdate_Achievements": "2023-08-30T03:04:32.8644867+00:00"
+  "LastUpdate_Ratings": "2023-08-30T03:57:27.6375418+00:00",
+  "LastUpdate_Achievements": "2023-08-30T04:04:19.3048507+00:00"
 }

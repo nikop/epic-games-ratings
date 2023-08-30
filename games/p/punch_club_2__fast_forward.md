@@ -16,7 +16,7 @@
 | Neurotrainer – power gainer! | 75.00% | ~212 |
 | Employee of the week | 75.00% | ~212 |
 | First defeat | 74.00% | ~209 |
-| Run K, run! | 72.00% | ~204 |
+| Run K, run! | 73.00% | ~207 |
 | Fighting is cool | 68.00% | ~192 |
 | Hello, world! | 68.00% | ~192 |
 | No bullying more | 67.00% | ~190 |

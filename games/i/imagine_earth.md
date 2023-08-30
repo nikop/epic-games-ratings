@@ -6,16 +6,16 @@ Number of Ratings: 22  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tuto | 60.00% | ~245 |
+| Tuto | 60.00% | ~246 |
 | Joma | 44.00% | ~180 |
-| Campaign Bronze | 36.00% | ~147 |
-| Lorian | 32.00% | ~131 |
+| Campaign Bronze | 36.00% | ~148 |
+| Lorian | 31.00% | ~127 |
 | Metropolis | 28.00% | ~115 |
 | Rounos | 24.00% | ~98 |
-| Campaign Silver | 22.00% | ~90 |
+| Campaign Silver | 21.00% | ~86 |
 | Magni | 21.00% | ~86 |
 | Bora | 18.00% | ~74 |
-| Scientist | 15.00% | ~61 |
+| Scientist | 15.00% | ~62 |
 | Campaign Gold | 14.00% | ~57 |
 | Edora | 14.00% | ~57 |
 | Environmentalist | 12.00% | ~49 |
@@ -31,7 +31,7 @@ Number of Ratings: 22  (23.09.2022)
 | Competitor Silver | 0.20% | ~1 |
 | Competitor Gold | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 409 (Ranked 247)  
+Progressed: 410 (Ranked 247)  
 Completed: 0 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,6 +72,7 @@ Completed: 0 (0.00%) (Ranked 266)
 | 2023-08-13 | 407 | 0 |
 | 2023-08-23 | 408 | 0 |
 | 2023-08-29 | 409 | 0 |
+| 2023-08-30 | 410 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 509,
+  "EOS_Progressed": 510,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -1180,6 +1180,11 @@
       "Time": "2023-08-23T21:05:11.6573429+00:00",
       "NumProgressed": 509,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-30T04:05:49.8982187+00:00",
+      "NumProgressed": 510,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1367,7 +1372,7 @@
       "Name": "Memories",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "Murderer",
@@ -1439,7 +1444,7 @@
       "Name": "Made a Song",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "StealFood",
@@ -1478,14 +1483,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 509,
+      "Progressed": 510,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-08-30T03:06:11.4885636+00:00",
+  "LastChanged_Achievements": "2023-08-30T04:05:49.8982183+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:28.4021723+00:00",
-  "LastUpdate_Ratings": "2023-08-30T03:00:38.0179598+00:00",
-  "LastUpdate_Achievements": "2023-08-30T03:06:11.4885985+00:00"
+  "LastUpdate_Ratings": "2023-08-30T03:59:54.6173727+00:00",
+  "LastUpdate_Achievements": "2023-08-30T04:05:49.8982467+00:00"
 }

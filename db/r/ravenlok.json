@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 37,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -2916,9 +2916,9 @@
       "ID": "14",
       "SetID": "d0g98p",
       "Name": "Bird of Prey",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 391
+      "UsersEstimate": 402
     },
     {
       "ID": "15",
@@ -3285,8 +3285,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-08-30T03:05:05.0858561+00:00",
+  "LastChanged_Achievements": "2023-08-30T04:04:46.9218882+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:26.0575879+00:00",
-  "LastUpdate_Ratings": "2023-08-30T03:00:14.271891+00:00",
-  "LastUpdate_Achievements": "2023-08-30T03:05:05.0859105+00:00"
+  "LastUpdate_Ratings": "2023-08-30T03:59:35.5087145+00:00",
+  "LastUpdate_Achievements": "2023-08-30T04:04:46.9219571+00:00"
 }
