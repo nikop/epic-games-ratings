@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Small town | 66.00% | ~214 |
+| Small town | 66.00% | ~215 |
 | I like parks | 54.00% | ~176 |
 | It is nice to share with friends in the city | 27.00% | ~88 |
-| Sport is good for you | 26.00% | ~84 |
+| Sport is good for you | 26.00% | ~85 |
 | The spiritual world... | 24.00% | ~78 |
 | The woodcutter | 23.00% | ~75 |
 | I like books | 20.00% | ~65 |
 | I like my life | 20.00% | ~65 |
-| Clean energy | 18.00% | ~58 |
-| Soviet town | 18.00% | ~58 |
+| Soviet town | 18.00% | ~59 |
+| Clean energy | 17.00% | ~55 |
 | Bucolic city | 14.00% | ~46 |
 | I love books! | 8.00% | ~26 |
 | King of fish | 8.00% | ~26 |
@@ -24,13 +24,13 @@
 | I am very happy! | 3.00% | ~10 |
 | Rebel city | 3.00% | ~10 |
 | Sport is the best thing | 3.00% | ~10 |
-| Banking city | 2.00% | ~6 |
-| Food provider master | 2.00% | ~6 |
-| City crisis | 2.00% | ~6 |
-| Read! Everyone should read! | 2.00% | ~6 |
-| Oh, I love parks, listening to birds! | 2.00% | ~6 |
-| Little Mayor | 2.00% | ~6 |
-| Temperate builder | 2.00% | ~6 |
+| Banking city | 2.00% | ~7 |
+| Food provider master | 2.00% | ~7 |
+| City crisis | 2.00% | ~7 |
+| Read! Everyone should read! | 2.00% | ~7 |
+| Oh, I love parks, listening to birds! | 2.00% | ~7 |
+| Little Mayor | 2.00% | ~7 |
+| Temperate builder | 2.00% | ~7 |
 | Archipelago builder | 1.00% | ~3 |
 | What is there after death? | 1.00% | ~3 |
 | Town planner | 1.00% | ~3 |
@@ -84,7 +84,7 @@
 | Everyone should always do sport! | 0.00% | ~0 |
 | Rainforest master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 325 (Ranked 263)  
+Progressed: 326 (Ranked 263)  
 Completed: 0 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,6 +183,7 @@ Completed: 0 (0.00%) (Ranked 266)
 | 2023-08-26 | 322 | 0 |
 | 2023-08-27 | 324 | 0 |
 | 2023-08-28 | 325 | 0 |
+| 2023-08-30 | 326 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

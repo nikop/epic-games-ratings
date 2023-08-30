@@ -2582,7 +2582,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 68115,
+  "EOS_Progressed": 68116,
   "EOS_Completed": 110,
   "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 1,
@@ -13527,6 +13527,11 @@
       "Time": "2023-08-30T18:03:23.865301+00:00",
       "NumProgressed": 68115,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2023-08-30T22:03:12.0136689+00:00",
+      "NumProgressed": 68116,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 61,
@@ -13586,7 +13591,7 @@
       "Name": "The Batman Family",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 14985
+      "UsersEstimate": 14986
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -13842,7 +13847,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 23840
+      "UsersEstimate": 23841
     },
     {
       "ID": "HARLEY_2",
@@ -13866,7 +13871,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 10898
+      "UsersEstimate": 10899
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -13946,7 +13951,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 14985
+      "UsersEstimate": 14986
     },
     {
       "ID": "MYSTERY_04",
@@ -14025,13 +14030,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 68115,
+      "Progressed": 68116,
       "Completed": 110
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38395,
+      "Progressed": 38396,
       "Completed": 2660
     }
   ],
@@ -14039,8 +14044,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-08-30T19:59:14.8192379+00:00",
-  "LastChanged_Achievements": "2023-08-30T21:03:27.947151+00:00",
+  "LastChanged_Achievements": "2023-08-30T22:03:12.0136684+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:22.0819335+00:00",
-  "LastUpdate_Ratings": "2023-08-30T20:59:13.3081216+00:00",
-  "LastUpdate_Achievements": "2023-08-30T21:03:27.9472898+00:00"
+  "LastUpdate_Ratings": "2023-08-30T21:58:53.3330396+00:00",
+  "LastUpdate_Achievements": "2023-08-30T22:03:12.0138045+00:00"
 }

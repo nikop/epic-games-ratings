@@ -8,18 +8,18 @@ Number of Ratings: 7,683  (23.09.2022)
 | ---- | ---------- | ----- |
 | Own use | 75.00% | ~35,980 |
 | I read Shakespeare and stuff | 64.00% | ~30,703 |
-| Just a sprinkle | 63.00% | ~30,223 |
+| Just a sprinkle | 63.00% | ~30,224 |
 | I'm stumped | 61.00% | ~29,264 |
 | Plant get enough | 60.00% | ~28,784 |
-| It's just the beginning | 59.00% | ~28,304 |
-| This is just my weekend vehicle | 58.00% | ~27,824 |
+| It's just the beginning | 59.00% | ~28,305 |
+| This is just my weekend vehicle | 58.00% | ~27,825 |
 | Hard work pays off | 53.00% | ~25,426 |
 | It's never too late to farm | 49.00% | ~23,507 |
-| All out of Land | 44.00% | ~21,108 |
-| Field Trip | 43.00% | ~20,628 |
-| I like to switch it up | 40.00% | ~19,189 |
+| All out of Land | 44.00% | ~21,109 |
+| Field Trip | 43.00% | ~20,629 |
+| I like to switch it up | 40.00% | ~19,190 |
 | Help me to help you | 38.00% | ~18,230 |
-| Ultimutt Pawesomeness | 28.00% | ~13,432 |
+| Ultimutt Pawesomeness | 28.00% | ~13,433 |
 | Van Gogh | 26.00% | ~12,473 |
 | You wood not believe it | 22.00% | ~10,554 |
 | Vehicle fleet | 22.00% | ~10,554 |
@@ -29,7 +29,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | Long haul | 16.00% | ~7,676 |
 | Clucky Streak | 15.00% | ~7,196 |
 | That's a wrap | 15.00% | ~7,196 |
-| Fix me up | 13.00% | ~6,236 |
+| Fix me up | 13.00% | ~6,237 |
 | Rock on | 12.00% | ~5,757 |
 | Highly cultivated | 11.00% | ~5,277 |
 | It's sow easy | 11.00% | ~5,277 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~192 |
 | Raisin the stakes | 0.30% | ~144 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,973 (Ranked 92)  
+Progressed: 47,974 (Ranked 92)  
 Completed: 6 (0.01%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,11 +182,11 @@ Completed: 6 (0.01%) (Ranked 253)
 | 2023-08-27 | 47,832 | 6 |
 | 2023-08-28 | 47,880 | 6 |
 | 2023-08-29 | 47,928 | 6 |
-| 2023-08-30 | 47,973 | 6 |
+| 2023-08-30 | 47,974 | 6 |
 ## Awards
-Max (Great for Beginners): 4,834  (Ranked 69)  
+Max (Great for Beginners): 4,834  (Ranked 68)  
 Sum: 39,671 (Ranked 32)  
-Diff (max vs sum): 37  
+Diff (max vs sum): 36  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,834 |

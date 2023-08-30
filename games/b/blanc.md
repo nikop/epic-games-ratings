@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Unexpected encounter | 19.00% | ~492 |
 | Starting as a duo | 17.00% | ~440 |
-| Stronger together | 14.00% | ~362 |
+| Stronger together | 15.00% | ~388 |
 | Helping the little ones | 12.00% | ~311 |
 | A big leap for wolfkind | 11.00% | ~285 |
 | Transmission | 10.00% | ~259 |

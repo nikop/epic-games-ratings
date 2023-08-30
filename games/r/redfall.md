@@ -38,6 +38,7 @@ Rating: 3.50 (Ranked 981)
 | Throw The First Stone | 0.10% | ~2 |
 | Sisterhood | 0.10% | ~2 |
 | Check, Please! | 0.10% | ~2 |
+| Starve the Beast | 0.10% | ~2 |
 | Bloody Initiate | 0.10% | ~2 |
 | Right This Way | 0.10% | ~2 |
 | Nice Try | 0.10% | ~2 |
@@ -59,7 +60,6 @@ Rating: 3.50 (Ranked 981)
 | A Cry in the Dark | 0.00% | ~0 |
 | What Lies Below | 0.00% | ~0 |
 | Empty Nest Syndrome | 0.00% | ~0 |
-| Starve the Beast | 0.00% | ~0 |
 | Someplace to Be | 0.00% | ~0 |
 | Ask Not For Whom The Horns Blow | 0.00% | ~0 |
 | Sepsis | 0.00% | ~0 |

@@ -2732,9 +2732,9 @@
       "Count": 317
     }
   ],
-  "EOS_Progressed": 16454,
+  "EOS_Progressed": 16455,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -9802,6 +9802,11 @@
       "Time": "2023-08-30T21:03:31.2207033+00:00",
       "NumProgressed": 16454,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-08-30T22:03:15.4406595+00:00",
+      "NumProgressed": 16455,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 50,
@@ -10035,9 +10040,9 @@
       "ID": "WinNearRuins",
       "SetID": "cfbk359",
       "Name": "Lost Colonies",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 494
+      "UsersEstimate": 658
     },
     {
       "ID": "WinNearStatue",
@@ -10212,15 +10217,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 16454,
+      "Progressed": 16455,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-08-30T14:59:30.8835129+00:00",
-  "LastChanged_Achievements": "2023-08-30T21:03:31.2207026+00:00",
+  "LastChanged_Achievements": "2023-08-30T22:03:15.4406588+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:51.2302699+00:00",
-  "LastUpdate_Ratings": "2023-08-30T20:59:49.031781+00:00",
-  "LastUpdate_Achievements": "2023-08-30T21:03:31.2208001+00:00"
+  "LastUpdate_Ratings": "2023-08-30T21:59:27.7067006+00:00",
+  "LastUpdate_Achievements": "2023-08-30T22:03:15.4407328+00:00"
 }

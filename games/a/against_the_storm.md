@@ -13,6 +13,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | No Deaths | 5.00% | ~823 |
 | Overcoming Difficulty | 4.00% | ~658 |
 | Fertile Meadows | 4.00% | ~658 |
+| Lost Colonies | 4.00% | ~658 |
 | Coral Forest | 4.00% | ~658 |
 | Homesick | 3.00% | ~494 |
 | Bandit Camp | 3.00% | ~494 |
@@ -24,7 +25,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Flooded Mines | 3.00% | ~494 |
 | Monastery of the Holy Flame | 3.00% | ~494 |
 | Royal Outpost | 3.00% | ~494 |
-| Lost Colonies | 3.00% | ~494 |
 | Statue of the Forefathers | 3.00% | ~494 |
 | Corrosive Torrent | 3.00% | ~494 |
 | Watchtower | 3.00% | ~494 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.20% | ~33 |
 | Paradise | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,454 (Ranked 114)  
+Progressed: 16,455 (Ranked 114)  
 Completed: 47 (0.29%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 47 (0.29%) (Ranked 177)
 | 2023-08-27 | 16,429 | 47 |
 | 2023-08-28 | 16,436 | 47 |
 | 2023-08-29 | 16,445 | 47 |
-| 2023-08-30 | 16,454 | 47 |
+| 2023-08-30 | 16,455 | 47 |
 ## Awards
 Max (Quickly Understood Controls): 425  (Ranked 209)  
 Sum: 3,118 (Ranked 163)  

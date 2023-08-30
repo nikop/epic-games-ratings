@@ -6,24 +6,24 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~716,566 |
-| The Blues | 85.00% | ~615,233 |
-| Fast | 66.00% | ~477,711 |
-| Healthbar | 55.00% | ~398,092 |
-| Force Cube | 53.00% | ~383,616 |
-| Double Jump | 48.00% | ~347,426 |
-| Regeneration | 47.00% | ~340,188 |
-| Triple Jump | 43.00% | ~311,236 |
-| Climb the hill | 42.00% | ~303,998 |
-| Through the fire pipe | 39.00% | ~282,284 |
-| MacGuffin | 38.00% | ~275,046 |
-| Just once | 37.00% | ~267,807 |
-| Armor | 30.00% | ~217,141 |
-| True holy spirit | 28.00% | ~202,665 |
-| That's how electronics work obviously | 26.00% | ~188,189 |
-| Force Cube Catapult | 25.00% | ~180,951 |
-| Holy Sword | 23.00% | ~166,475 |
-| Telefrag | 22.00% | ~159,237 |
+| Out of bed | 99.00% | ~716,569 |
+| The Blues | 85.00% | ~615,236 |
+| Fast | 66.00% | ~477,713 |
+| Healthbar | 55.00% | ~398,094 |
+| Force Cube | 53.00% | ~383,618 |
+| Double Jump | 48.00% | ~347,427 |
+| Regeneration | 47.00% | ~340,189 |
+| Triple Jump | 43.00% | ~311,237 |
+| Climb the hill | 42.00% | ~303,999 |
+| Through the fire pipe | 39.00% | ~282,285 |
+| MacGuffin | 38.00% | ~275,047 |
+| Just once | 37.00% | ~267,809 |
+| Armor | 30.00% | ~217,142 |
+| True holy spirit | 28.00% | ~202,666 |
+| That's how electronics work obviously | 26.00% | ~188,190 |
+| Force Cube Catapult | 25.00% | ~180,952 |
+| Holy Sword | 23.00% | ~166,476 |
+| Telefrag | 22.00% | ~159,238 |
 | Freed from prison | 21.00% | ~151,999 |
 | Stomp | 21.00% | ~151,999 |
 | Double Health | 18.00% | ~130,285 |
@@ -36,25 +36,25 @@ Number of Ratings: 25,175  (23.09.2022)
 | 9 | 13.00% | ~94,095 |
 | Purple Cube | 13.00% | ~94,095 |
 | Supraball Noob | 13.00% | ~94,095 |
-| Helped a star | 12.00% | ~86,856 |
-| Strong | 12.00% | ~86,856 |
-| Blue King's lair | 11.00% | ~79,618 |
-| Payback | 11.00% | ~79,618 |
-| Got the coins back | 11.00% | ~79,618 |
-| Got the gun back | 11.00% | ~79,618 |
-| Infiltrated | 11.00% | ~79,618 |
-| Robbed | 11.00% | ~79,618 |
-| Fire Flies | 10.00% | ~72,380 |
-| Cave Flies | 10.00% | ~72,380 |
-| Gold Scam | 10.00% | ~72,380 |
-| Gold Scam Uncovered | 10.00% | ~72,380 |
-| Panic Lights | 10.00% | ~72,380 |
-| Translocator | 10.00% | ~72,380 |
-| Yellow Shot Button | 10.00% | ~72,380 |
-| Moon Door | 9.00% | ~65,142 |
-| Momentum | 9.00% | ~65,142 |
-| Through the tiny pipe | 9.00% | ~65,142 |
-| Win! | 9.00% | ~65,142 |
+| Helped a star | 12.00% | ~86,857 |
+| Strong | 12.00% | ~86,857 |
+| Blue King's lair | 11.00% | ~79,619 |
+| Payback | 11.00% | ~79,619 |
+| Got the coins back | 11.00% | ~79,619 |
+| Got the gun back | 11.00% | ~79,619 |
+| Infiltrated | 11.00% | ~79,619 |
+| Robbed | 11.00% | ~79,619 |
+| Fire Flies | 10.00% | ~72,381 |
+| Cave Flies | 10.00% | ~72,381 |
+| Gold Scam | 10.00% | ~72,381 |
+| Gold Scam Uncovered | 10.00% | ~72,381 |
+| Panic Lights | 10.00% | ~72,381 |
+| Translocator | 10.00% | ~72,381 |
+| Yellow Shot Button | 10.00% | ~72,381 |
+| Moon Door | 9.00% | ~65,143 |
+| Momentum | 9.00% | ~65,143 |
+| Through the tiny pipe | 9.00% | ~65,143 |
+| Win! | 9.00% | ~65,143 |
 | The real real teleported man | 7.00% | ~50,666 |
 | Well deserved | 6.00% | ~43,428 |
 | Happiness | 3.00% | ~21,714 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~724 |
 | DLC: Top of the world | 0.10% | ~724 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 723,804 (Ranked 19)  
+Progressed: 723,807 (Ranked 19)  
 Completed: 730 (0.10%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,11 +237,11 @@ Completed: 730 (0.10%) (Ranked 213)
 | 2023-08-27 | 723,442 | 728 |
 | 2023-08-28 | 723,579 | 728 |
 | 2023-08-29 | 723,703 | 730 |
-| 2023-08-30 | 723,804 | 730 |
+| 2023-08-30 | 723,807 | 730 |
 ## Awards
-Max (Challenging Puzzles): 7,682  (Ranked 46)  
+Max (Challenging Puzzles): 7,682  (Ranked 45)  
 Sum: 10,008 (Ranked 86)  
-Diff (max vs sum): -40  
+Diff (max vs sum): -41  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 7,682 |

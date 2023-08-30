@@ -3,7 +3,7 @@
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
   "Ranking_Rating": 504,
-  "Ranking_Popularity": 61,
+  "Ranking_Popularity": 60,
   "Ranking_PopularitySum": 97,
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 174,
@@ -4080,9 +4080,9 @@
       "Count": 330
     }
   ],
-  "EOS_Progressed": 669580,
+  "EOS_Progressed": 669614,
   "EOS_Completed": 2094,
-  "EOS_NewPlayers": 5959,
+  "EOS_NewPlayers": 5963,
   "EOS_NewCompleters": 40,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -18810,6 +18810,11 @@
       "Time": "2023-08-30T21:04:50.9953371+00:00",
       "NumProgressed": 669580,
       "NumCompleted": 2094
+    },
+    {
+      "Time": "2023-08-30T22:04:32.002015+00:00",
+      "NumProgressed": 669614,
+      "NumCompleted": 2094
     }
   ],
   "TotalAchievements": 45,
@@ -18885,7 +18890,7 @@
       "Name": "Break A Leg",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4017
+      "UsersEstimate": 4018
     },
     {
       "ID": "ach_contender",
@@ -18979,9 +18984,9 @@
       "ID": "ach_hotel_california",
       "SetID": "7km39fm",
       "Name": "Hotel California",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4017
+      "UsersEstimate": 4687
     },
     {
       "ID": "ach_impressive_aim",
@@ -19180,7 +19185,7 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 669580,
+      "Progressed": 669614,
       "Completed": 2094
     }
   ],
@@ -19188,8 +19193,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-08-30T15:57:34.017232+00:00",
-  "LastChanged_Achievements": "2023-08-30T21:04:50.9953363+00:00",
+  "LastChanged_Achievements": "2023-08-30T22:04:32.0020144+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:11.0440218+00:00",
-  "LastUpdate_Ratings": "2023-08-30T20:57:48.4045667+00:00",
-  "LastUpdate_Achievements": "2023-08-30T21:04:50.9954629+00:00"
+  "LastUpdate_Ratings": "2023-08-30T21:57:29.9486236+00:00",
+  "LastUpdate_Achievements": "2023-08-30T22:04:32.0021718+00:00"
 }

@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23993,
+  "EOS_Progressed": 23994,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4576,6 +4576,11 @@
       "Time": "2023-08-30T21:06:07.0620238+00:00",
       "NumProgressed": 23993,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-08-30T22:05:45.1473029+00:00",
+      "NumProgressed": 23994,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 32,
@@ -4667,7 +4672,7 @@
       "Name": "RIP Davey Glutes",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 5758
+      "UsersEstimate": 5759
     },
     {
       "ID": "ACH_GET_SWEEZY",
@@ -4691,7 +4696,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 19914
+      "UsersEstimate": 19915
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -4699,7 +4704,7 @@
       "Name": "Sequel-Bait",
       "Percentage": 8,
       "XP": 45,
-      "UsersEstimate": 1919
+      "UsersEstimate": 1920
     },
     {
       "ID": "ACH_JUGGLE_SKILLS",
@@ -4707,7 +4712,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 13676
+      "UsersEstimate": 13677
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -4739,7 +4744,7 @@
       "Name": "Hardest Battle In The Game",
       "Percentage": 22,
       "XP": 45,
-      "UsersEstimate": 5278
+      "UsersEstimate": 5279
     },
     {
       "ID": "ACH_KILL_KRUBIS",
@@ -4771,7 +4776,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 17515
+      "UsersEstimate": 17516
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -4835,29 +4840,29 @@
       "Name": "Series Wrap on Suit-O",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 5278
+      "UsersEstimate": 5279
     }
   ],
   "AchievementSets": [
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 23993,
+      "Progressed": 23994,
       "Completed": 12
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1286,
-      "Completed": 1286
+      "Progressed": 1287,
+      "Completed": 1287
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-08-30T03:00:48.2341634+00:00",
-  "LastChanged_Achievements": "2023-08-30T21:06:07.0620233+00:00",
+  "LastChanged_Achievements": "2023-08-30T22:05:45.1473023+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:40.4978625+00:00",
-  "LastUpdate_Ratings": "2023-08-30T21:01:34.0323543+00:00",
-  "LastUpdate_Achievements": "2023-08-30T21:06:07.0620849+00:00"
+  "LastUpdate_Ratings": "2023-08-30T22:01:08.6124181+00:00",
+  "LastUpdate_Achievements": "2023-08-30T22:05:45.147357+00:00"
 }

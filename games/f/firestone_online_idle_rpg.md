@@ -5,14 +5,14 @@ Rating: 4.04 (Ranked 933)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,741 |
-| World Map | 79.00% | ~1,479 |
-| Temple of Eternals | 57.00% | ~1,067 |
+| Victor | 93.00% | ~1,742 |
+| World Map | 79.00% | ~1,480 |
+| Temple of Eternals | 57.00% | ~1,068 |
 | Prestigious | 54.00% | ~1,011 |
 | Fellowship Power | 41.00% | ~768 |
 | Guild Power | 25.00% | ~468 |
 | Prestigious x10 | 22.00% | ~412 |
-| The game is on | 20.00% | ~374 |
+| The game is on | 20.00% | ~375 |
 | Exotic Merchant | 19.00% | ~356 |
 | Dragon Clicker | 17.00% | ~318 |
 | Miner Clicker | 17.00% | ~318 |
@@ -39,9 +39,9 @@ Rating: 4.04 (Ranked 933)
 | Frostfire Liberator | 10.00% | ~187 |
 | Moving Up The Ladder | 10.00% | ~187 |
 | Scroll Master | 10.00% | ~187 |
-| Here We Go Again | 9.00% | ~168 |
-| Master Enchanter | 9.00% | ~168 |
-| The father of Dragons | 9.00% | ~168 |
+| Here We Go Again | 9.00% | ~169 |
+| Master Enchanter | 9.00% | ~169 |
+| The father of Dragons | 9.00% | ~169 |
 | Crystal Mining | 8.00% | ~150 |
 | Trader | 8.00% | ~150 |
 | Blueprint Upgrades | 7.00% | ~131 |
@@ -68,8 +68,8 @@ Rating: 4.04 (Ranked 933)
 | Guardian Master | 1.00% | ~19 |
 | Training makes a Pro player | 1.00% | ~19 |
 | Transmute | 1.00% | ~19 |
+| Enhanced War Machines | 0.90% | ~17 |
 | Titan Power | 0.90% | ~17 |
-| Enhanced War Machines | 0.80% | ~15 |
 | Tree of Life | 0.70% | ~13 |
 | Beast War Machines | 0.60% | ~11 |
 | Enchanting skill x5 | 0.60% | ~11 |
@@ -81,7 +81,7 @@ Rating: 4.04 (Ranked 933)
 | Silverwood liberator | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,872 (Ranked 174)  
+Progressed: 1,873 (Ranked 174)  
 Completed: 2 (0.11%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 2 (0.11%) (Ranked 211)
 | 2023-08-27 | 1,859 | 2 |
 | 2023-08-28 | 1,862 | 2 |
 | 2023-08-29 | 1,868 | 2 |
-| 2023-08-30 | 1,872 | 2 |
+| 2023-08-30 | 1,873 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

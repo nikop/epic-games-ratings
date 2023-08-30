@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 16,
-  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 467,
+  "EOS_Progressed": 468,
   "EOS_Completed": 87,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 18.63,
+  "EOS_Completed_Percentage": 18.59,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -2278,6 +2278,11 @@
       "Time": "2023-08-30T00:07:04.5047122+00:00",
       "NumProgressed": 467,
       "NumCompleted": 87
+    },
+    {
+      "Time": "2023-08-30T22:07:03.6795285+00:00",
+      "NumProgressed": 468,
+      "NumCompleted": 87
     }
   ],
   "TotalAchievements": 22,
@@ -2289,7 +2294,7 @@
       "Name": "Welcome!",
       "Percentage": 96,
       "XP": 35,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "LEVEL_002",
@@ -2297,7 +2302,7 @@
       "Name": "A tiny town",
       "Percentage": 85,
       "XP": 35,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "LEVEL_003",
@@ -2305,7 +2310,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "LEVEL_004",
@@ -2313,7 +2318,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 57,
       "XP": 35,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "LEVEL_005",
@@ -2329,7 +2334,7 @@
       "Name": "Found an oasis",
       "Percentage": 44,
       "XP": 35,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "LEVEL_007",
@@ -2369,7 +2374,7 @@
       "Name": "At the heart of the city",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "LEVEL_012",
@@ -2393,7 +2398,7 @@
       "Name": "Not lonely anymore",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "LEVEL_015",
@@ -2425,7 +2430,7 @@
       "Name": "Le jardin magnifique",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "LEVEL_019",
@@ -2464,7 +2469,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 467,
+      "Progressed": 468,
       "Completed": 87
     }
   ],
@@ -2472,8 +2477,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-08-30T21:07:28.4480126+00:00",
+  "LastChanged_Achievements": "2023-08-30T22:07:03.679528+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:44.7561308+00:00",
-  "LastUpdate_Ratings": "2023-08-30T21:01:37.0906+00:00",
-  "LastUpdate_Achievements": "2023-08-30T21:07:28.4480474+00:00"
+  "LastUpdate_Ratings": "2023-08-30T22:01:11.6208342+00:00",
+  "LastUpdate_Achievements": "2023-08-30T22:07:03.6795771+00:00"
 }

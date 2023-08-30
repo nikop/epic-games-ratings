@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Black Cat's Warning | 104.00% | ~101 |
-| Break no Sweat | 99.00% | ~96 |
-| Every little bit counts | 97.00% | ~94 |
-| Growth | 87.00% | ~84 |
-| Targeting the Enemy | 69.00% | ~67 |
-| Unavoidable | 64.00% | ~62 |
-| Revenge | 63.00% | ~61 |
+| Black Cat's Warning | 103.00% | ~101 |
+| Break no Sweat | 99.00% | ~97 |
+| Every little bit counts | 97.00% | ~95 |
+| Growth | 86.00% | ~84 |
+| Targeting the Enemy | 68.00% | ~67 |
+| Unavoidable | 64.00% | ~63 |
+| Revenge | 62.00% | ~61 |
 | Reunion | 42.00% | ~41 |
 | Elimination | 34.00% | ~33 |
 | Fluke | 34.00% | ~33 |
@@ -21,14 +21,14 @@
 | Defeat the AI | 28.00% | ~27 |
 | Fleet-footed | 28.00% | ~27 |
 | Invincible | 27.00% | ~26 |
-| Unsalvageable | 25.00% | ~24 |
-| Best in Dragon City | 24.00% | ~23 |
-| Neutralize | 24.00% | ~23 |
-| Walking into a Trap | 23.00% | ~22 |
-| Disdain | 22.00% | ~21 |
-| Final Battle | 19.00% | ~18 |
-| Brain in a Vat | 19.00% | ~18 |
-| Outsider's Profit | 19.00% | ~18 |
+| Unsalvageable | 24.00% | ~24 |
+| Best in Dragon City | 23.00% | ~23 |
+| Neutralize | 23.00% | ~23 |
+| Walking into a Trap | 22.00% | ~22 |
+| Disdain | 21.00% | ~21 |
+| Final Battle | 18.00% | ~18 |
+| Brain in a Vat | 18.00% | ~18 |
+| Outsider's Profit | 18.00% | ~18 |
 | Reappearance | 16.00% | ~16 |
 | King of the Streets | 10.00% | ~10 |
 | Survival Expert | 10.00% | ~10 |
@@ -62,7 +62,7 @@
 | Extreme Challenge | 0.00% | ~0 |
 | Smooth-Sailing | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 97 (Ranked 337)  
+Progressed: 98 (Ranked 337)  
 Completed: 0 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,6 +101,7 @@ Completed: 0 (0.00%) (Ranked 266)
 | 2023-08-18 | 96 | 0 |
 | 2023-08-20 | 97 | 0 |
 | 2023-08-28 | 97 | 0 |
+| 2023-08-30 | 98 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

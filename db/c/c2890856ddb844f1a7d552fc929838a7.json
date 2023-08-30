@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 582,
+  "EOS_Progressed": 584,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 575,
+  "EOS_NewPlayers": 577,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -687,6 +687,11 @@
       "Time": "2023-08-30T21:06:32.1001888+00:00",
       "NumProgressed": 582,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-30T22:06:09.3289434+00:00",
+      "NumProgressed": 584,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -707,7 +712,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 512
+      "UsersEstimate": 514
     },
     {
       "ID": "AC02",
@@ -715,15 +720,15 @@
       "Name": "Blood and Dust",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "AC03",
       "SetID": "l4abp0",
       "Name": "Blood and Gold",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 332
+      "UsersEstimate": 339
     },
     {
       "ID": "AC04",
@@ -731,7 +736,7 @@
       "Name": "Blood and Iron",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "AC05",
@@ -739,7 +744,7 @@
       "Name": "The Sharpest Tool in the Shed",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "AC06",
@@ -747,7 +752,7 @@
       "Name": "The Last Ascension",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "AC07",
@@ -763,7 +768,7 @@
       "Name": "Forged in Fire",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "AC09",
@@ -771,7 +776,7 @@
       "Name": "Fermosa Fembra",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "AC10",
@@ -793,9 +798,9 @@
       "ID": "AC12",
       "SetID": "l4abp0",
       "Name": "Canvas of Light and Time",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 52
+      "UsersEstimate": 58
     },
     {
       "ID": "AC13",
@@ -803,7 +808,7 @@
       "Name": "Second Psalm.",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "AC14",
@@ -811,7 +816,7 @@
       "Name": "Acta, Non Verba",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "AC15",
@@ -819,23 +824,23 @@
       "Name": "Full Devotion",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "AC16",
       "SetID": "l4abp0",
       "Name": "Weight of Penance",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 41
     },
     {
       "ID": "AC17",
       "SetID": "l4abp0",
       "Name": "Second Pilgrimage",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 47
     },
     {
       "ID": "AC18",
@@ -865,9 +870,9 @@
       "ID": "AC21",
       "SetID": "l4abp0",
       "Name": "No Cherub Left Behind",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 76
     },
     {
       "ID": "AC22",
@@ -875,7 +880,7 @@
       "Name": "Empty Handed",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "AC23",
@@ -889,9 +894,9 @@
       "ID": "AC24",
       "SetID": "l4abp0",
       "Name": "The Work of a Master",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 53
     },
     {
       "ID": "AC25",
@@ -923,7 +928,7 @@
       "Name": "The Punished One",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "AC29",
@@ -939,7 +944,7 @@
       "Name": "The Anointed One",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "AC31",
@@ -953,9 +958,9 @@
       "ID": "AC32",
       "SetID": "l4abp0",
       "Name": "Nobody Expects the Spanish Inquisition!",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 105
     },
     {
       "ID": "AC33",
@@ -985,9 +990,9 @@
       "ID": "AC36",
       "SetID": "l4abp0",
       "Name": "Blessed Incense",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 88
     },
     {
       "ID": "AC37",
@@ -1011,7 +1016,7 @@
       "Name": "Warrior of the Silent Sorrow",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "AC40",
@@ -1019,7 +1024,7 @@
       "Name": "Welcome Back!",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "AC41",
@@ -1066,14 +1071,14 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 582,
+      "Progressed": 584,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-26T07:57:19.1818171+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
-  "LastChanged_Achievements": "2023-08-30T21:06:32.1001882+00:00",
+  "LastChanged_Achievements": "2023-08-30T22:06:09.328943+00:00",
   "LastUpdate_AppInfo": "2023-08-29T18:57:21.35462+00:00",
-  "LastUpdate_Ratings": "2023-08-30T21:00:08.9600119+00:00",
-  "LastUpdate_Achievements": "2023-08-30T21:06:32.1002349+00:00"
+  "LastUpdate_Ratings": "2023-08-30T21:59:47.0674138+00:00",
+  "LastUpdate_Achievements": "2023-08-30T22:06:09.3289872+00:00"
 }

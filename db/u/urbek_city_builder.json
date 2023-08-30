@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 325,
+  "EOS_Progressed": 326,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -982,6 +982,11 @@
       "Time": "2023-08-28T17:05:18.254876+00:00",
       "NumProgressed": 325,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-30T22:04:19.0810093+00:00",
+      "NumProgressed": 326,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -1041,7 +1046,7 @@
       "Name": "Banking city",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "BANCO_2",
@@ -1089,7 +1094,7 @@
       "Name": "Food provider master",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "CONTAMINACION_1",
@@ -1121,7 +1126,7 @@
       "Name": "City crisis",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "CRISIS_2",
@@ -1153,7 +1158,7 @@
       "Name": "Read! Everyone should read!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "DESIERTO3_1",
@@ -1337,7 +1342,7 @@
       "Name": "Oh, I love parks, listening to birds!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "MADERA_0",
@@ -1351,9 +1356,9 @@
       "ID": "MILLS",
       "SetID": "44dlcg0",
       "Name": "Clean energy",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 55
     },
     {
       "ID": "MURICA_1",
@@ -1401,7 +1406,7 @@
       "Name": "Little Mayor",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "POINTS_20K",
@@ -1425,7 +1430,7 @@
       "Name": "Small town",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "POPULATION_2",
@@ -1513,7 +1518,7 @@
       "Name": "Sport is good for you",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "SPORTS_2",
@@ -1545,7 +1550,7 @@
       "Name": "Temperate builder",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "TEMPERADO_2",
@@ -1609,7 +1614,7 @@
       "Name": "Soviet town",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "WELFARE_2",
@@ -1624,7 +1629,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 325,
+      "Progressed": 326,
       "Completed": 0
     }
   ],
@@ -1632,8 +1637,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-08-30T21:04:37.8456146+00:00",
+  "LastChanged_Achievements": "2023-08-30T22:04:19.0810088+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:10.9380219+00:00",
-  "LastUpdate_Ratings": "2023-08-30T20:58:10.5978203+00:00",
-  "LastUpdate_Achievements": "2023-08-30T21:04:37.8457108+00:00"
+  "LastUpdate_Ratings": "2023-08-30T21:57:51.6388639+00:00",
+  "LastUpdate_Achievements": "2023-08-30T22:04:19.0811128+00:00"
 }

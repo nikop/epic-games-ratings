@@ -3,11 +3,11 @@
   "Name": "Control",
   "ProductSlug": "control",
   "Ranking_Rating": 393,
-  "Ranking_Popularity": 41,
+  "Ranking_Popularity": 40,
   "Ranking_PopularitySum": 75,
   "Ranking_EOS_Progress": 567,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewPlayers": 341,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2019-08-27T15:00:00+00:00",
@@ -4160,6 +4160,6 @@
   "FirstSeen": "2022-07-22T20:16:45.0678604+00:00",
   "LastChanged": "2023-08-28T22:57:21.2013687+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:32.4294704+00:00",
-  "LastUpdate_Ratings": "2023-08-30T20:58:05.8215382+00:00",
-  "LastUpdate_Achievements": "2023-08-30T21:03:18.6338921+00:00"
+  "LastUpdate_Ratings": "2023-08-30T21:57:46.6058453+00:00",
+  "LastUpdate_Achievements": "2023-08-30T22:02:23.042719+00:00"
 }

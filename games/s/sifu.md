@@ -8,23 +8,23 @@ Number of Ratings: 9,492  (23.09.2022)
 | ---- | ---------- | ----- |
 | Diligence as a goal | 6.00% | ~1,328 |
 | Project Arena | 4.00% | ~885 |
-| The Old Grandmaster | 2.00% | ~14,256 |
-| The Assault | 2.00% | ~14,256 |
-| The Hateful Pole Fighter | 2.00% | ~14,256 |
-| A Lady's Blood in the Snow | 2.00% | ~14,256 |
-| Lady Wing Chun | 2.00% | ~14,256 |
-| Furious Fists | 2.00% | ~14,256 |
-| Kill Nil | 2.00% | ~14,256 |
-| Stuntmaster | 2.00% | ~14,256 |
-| Street Fighting | 2.00% | ~14,256 |
-| Life is your teacher | 2.00% | ~14,256 |
-| State of constant learning | 2.00% | ~14,256 |
-| Qi Gong: Breath | 2.00% | ~14,256 |
-| Qi Gong: Essence | 2.00% | ~14,256 |
-| Lightning Hands | 2.00% | ~14,256 |
-| Path of the Prospect | 2.00% | ~14,256 |
-| Rumble in the Hangar | 2.00% | ~14,256 |
-| Take damage to save time | 2.00% | ~14,256 |
+| The Old Grandmaster | 2.00% | ~14,257 |
+| The Assault | 2.00% | ~14,257 |
+| The Hateful Pole Fighter | 2.00% | ~14,257 |
+| A Lady's Blood in the Snow | 2.00% | ~14,257 |
+| Lady Wing Chun | 2.00% | ~14,257 |
+| Furious Fists | 2.00% | ~14,257 |
+| Kill Nil | 2.00% | ~14,257 |
+| Stuntmaster | 2.00% | ~14,257 |
+| Street Fighting | 2.00% | ~14,257 |
+| Life is your teacher | 2.00% | ~14,257 |
+| State of constant learning | 2.00% | ~14,257 |
+| Qi Gong: Breath | 2.00% | ~14,257 |
+| Qi Gong: Essence | 2.00% | ~14,257 |
+| Lightning Hands | 2.00% | ~14,257 |
+| Path of the Prospect | 2.00% | ~14,257 |
+| Rumble in the Hangar | 2.00% | ~14,257 |
+| Take damage to save time | 2.00% | ~14,257 |
 | Bloody Sport | 2.00% | ~443 |
 | Scareless | 1.00% | ~7,128 |
 | Dance of the Praying Mantis | 1.00% | ~7,128 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,426 |
 | Warriors from the Mountain | 0.10% | ~713 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,825 (Ranked 20)  
+Progressed: 712,826 (Ranked 20)  
 Completed: 12,877 (1.81%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,10 +189,10 @@ Completed: 12,877 (1.81%) (Ranked 99)
 | 2023-08-27 | 712,763 | 12,874 |
 | 2023-08-28 | 712,797 | 12,876 |
 | 2023-08-29 | 712,811 | 12,876 |
-| 2023-08-30 | 712,825 | 12,877 |
+| 2023-08-30 | 712,826 | 12,877 |
 ## Awards
-Max (Great Boss Battles): 6,415  (Ranked 55)  
-Sum: 11,020 (Ranked 81)  
+Max (Great Boss Battles): 6,415  (Ranked 54)  
+Sum: 11,021 (Ranked 80)  
 Diff (max vs sum): -26  
 | Award | Count |
 | ----- | ----- |
@@ -202,7 +202,7 @@ Diff (max vs sum): -26
 | This game has Quickly Understood Controls | 538 |
 | This game has Amazing Storytelling | 530 |
 | This game is Extremely Fun | 525 |
-| This game has Amazing Characters | 518 |
+| This game has Amazing Characters | 519 |
 | This game is Highly Recommended | 517 |
 | This game has Unique Visuals | 484 |
 | This game is Relaxing | 401 |
@@ -436,4 +436,4 @@ Diff (max vs sum): -26
 | 2023-08-27 | 4.82 | - | 6,402 | 11,001 |
 | 2023-08-28 | 4.82 | - | 6,406 | 11,006 |
 | 2023-08-29 | 4.82 | - | 6,410 | 11,013 |
-| 2023-08-30 | 4.82 | - | 6,415 | 11,020 |
+| 2023-08-30 | 4.82 | - | 6,415 | 11,021 |

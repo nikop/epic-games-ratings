@@ -2,9 +2,9 @@
   "ID": "810797d6d1c640068ce75d45b85d2423",
   "Name": "It\u0027s a Wrap!",
   "ProductSlug": "its-a-wrap-f392ae",
-  "Ranking_EOS_Progress": 389,
+  "Ranking_EOS_Progress": 387,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-08-23T17:30:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 45,
+  "EOS_Progressed": 48,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -201,6 +201,11 @@
       "Time": "2023-08-30T19:08:20.7774892+00:00",
       "NumProgressed": 45,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-30T22:07:40.4063549+00:00",
+      "NumProgressed": 48,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-23T18:07:41.5840272+00:00",
@@ -211,9 +216,9 @@
       "ID": "1_10_SECRET",
       "SetID": "2l1dk5b",
       "Name": "Under the Bridge",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 25,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "1_50_SECRET",
@@ -307,7 +312,7 @@
       "ID": "MOV2_FINISH",
       "SetID": "2l1dk5b",
       "Name": "Space Invader",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -324,14 +329,14 @@
     {
       "ID": "2l1dk5b",
       "IsBase": true,
-      "Progressed": 45,
+      "Progressed": 48,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-25T08:57:40.9970991+00:00",
   "FirstSeenAchievements": "2023-08-01T21:04:35.2343064+00:00",
-  "LastChanged_Achievements": "2023-08-30T21:08:04.5347898+00:00",
+  "LastChanged_Achievements": "2023-08-30T22:07:40.4063542+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:00.6888694+00:00",
-  "LastUpdate_Ratings": "2023-08-30T20:58:49.781813+00:00",
-  "LastUpdate_Achievements": "2023-08-30T21:08:04.5348072+00:00"
+  "LastUpdate_Ratings": "2023-08-30T21:58:30.0805613+00:00",
+  "LastUpdate_Achievements": "2023-08-30T22:07:40.4063687+00:00"
 }

@@ -3,11 +3,11 @@
   "Name": "Remnant: From the Ashes",
   "ProductSlug": "remnant-from-the-ashes",
   "Ranking_Rating": 368,
-  "Ranking_Popularity": 37,
+  "Ranking_Popularity": 36,
   "Ranking_PopularitySum": 63,
   "Ranking_EOS_Progress": 567,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewPlayers": 341,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -6061,6 +6061,6 @@
   "FirstSeen": "2022-07-22T20:25:00.6523638+00:00",
   "LastChanged": "2023-08-30T15:57:23.0284849+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:15.8852012+00:00",
-  "LastUpdate_Ratings": "2023-08-30T20:57:37.3692529+00:00",
-  "LastUpdate_Achievements": "2023-08-30T21:07:26.4243538+00:00"
+  "LastUpdate_Ratings": "2023-08-30T21:57:19.3428318+00:00",
+  "LastUpdate_Achievements": "2023-08-30T22:07:01.6773216+00:00"
 }

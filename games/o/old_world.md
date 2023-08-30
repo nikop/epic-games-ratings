@@ -6,11 +6,11 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 4.00% | ~547 |
-| Settler | 4.00% | ~547 |
-| Friendly Family | 4.00% | ~547 |
-| Play a Single Player Game | 4.00% | ~547 |
-| The Clergy | 4.00% | ~547 |
+| Explorer | 4.00% | ~548 |
+| Settler | 4.00% | ~548 |
+| Friendly Family | 4.00% | ~548 |
+| Play a Single Player Game | 4.00% | ~548 |
+| The Clergy | 4.00% | ~548 |
 | Able | 3.00% | ~411 |
 | Architect | 3.00% | ~411 |
 | Good | 3.00% | ~411 |
@@ -92,19 +92,19 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legalism | 0.90% | ~123 |
 | Legionary | 0.90% | ~123 |
 | Phalangite | 0.90% | ~123 |
-| Invincible | 0.80% | ~109 |
-| Subjugator | 0.80% | ~109 |
-| Good Difficulty | 0.80% | ~109 |
-| Statesmen | 0.80% | ~109 |
-| Traders | 0.80% | ~109 |
-| Hittite Iron | 0.80% | ~109 |
-| Circus Maximus | 0.80% | ~109 |
-| Hagia Sophia | 0.80% | ~109 |
-| Dualism | 0.80% | ~109 |
-| Redemption | 0.80% | ~109 |
-| Ambition Victory | 0.80% | ~109 |
-| Double Victory | 0.80% | ~109 |
-| Win a Single Player Game | 0.80% | ~109 |
+| Invincible | 0.80% | ~110 |
+| Subjugator | 0.80% | ~110 |
+| Good Difficulty | 0.80% | ~110 |
+| Statesmen | 0.80% | ~110 |
+| Traders | 0.80% | ~110 |
+| Hittite Iron | 0.80% | ~110 |
+| Circus Maximus | 0.80% | ~110 |
+| Hagia Sophia | 0.80% | ~110 |
+| Dualism | 0.80% | ~110 |
+| Redemption | 0.80% | ~110 |
+| Ambition Victory | 0.80% | ~110 |
+| Double Victory | 0.80% | ~110 |
+| Win a Single Player Game | 0.80% | ~110 |
 | Capable | 0.70% | ~96 |
 | Devout | 0.70% | ~96 |
 | Ready | 0.70% | ~96 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,687 (Ranked 120)  
+Progressed: 13,688 (Ranked 120)  
 Completed: 5 (0.04%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -435,10 +435,10 @@ Completed: 5 (0.04%) (Ranked 236)
 | 2023-08-27 | 13,616 | 5 |
 | 2023-08-28 | 13,635 | 5 |
 | 2023-08-29 | 13,661 | 5 |
-| 2023-08-30 | 13,687 | 5 |
+| 2023-08-30 | 13,688 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
-Sum: 1,799 (Ranked 207)  
+Sum: 1,800 (Ranked 207)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
@@ -450,7 +450,7 @@ Diff (max vs sum): 57
 | This game has Challenging Combat | 194 |
 | This game has Quickly Understood Controls | 189 |
 | This game has Amazing Characters | 189 |
-| This game has Amazing Storytelling | 183 |
+| This game has Amazing Storytelling | 184 |
 | This game has Obsessive Gameplay | 155 |
 | This game has a Creative Community | 101 |
 | This game has Competitive Players | 59 |
@@ -576,3 +576,4 @@ Diff (max vs sum): 57
 | 2023-08-21 | 4.65 | - | 220 | 1,797 |
 | 2023-08-22 | 4.65 | - | 220 | 1,798 |
 | 2023-08-24 | 4.65 | - | 220 | 1,799 |
+| 2023-08-30 | 4.65 | - | 220 | 1,800 |
