@@ -6,15 +6,15 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~931,770 |
-| I Need a Bigger Garage | 63.00% | ~652,239 |
-| Pump my Ride | 47.00% | ~486,591 |
-| Ghostbuster | 33.00% | ~341,649 |
-| That Was Close | 18.00% | ~186,354 |
-| Call Roadside Assistance | 17.00% | ~176,001 |
-| Quickie | 11.00% | ~113,883 |
-| California Dreamer | 7.00% | ~72,471 |
-| Can't Touch This | 5.00% | ~51,765 |
+| The First of Many | 90.00% | ~931,784 |
+| I Need a Bigger Garage | 63.00% | ~652,248 |
+| Pump my Ride | 47.00% | ~486,598 |
+| Ghostbuster | 33.00% | ~341,654 |
+| That Was Close | 18.00% | ~186,357 |
+| Call Roadside Assistance | 17.00% | ~176,004 |
+| Quickie | 11.00% | ~113,885 |
+| California Dreamer | 7.00% | ~72,472 |
+| Can't Touch This | 5.00% | ~51,766 |
 | Carménère Taster | 3.00% | ~31,059 |
 | Supersonic | 3.00% | ~31,059 |
 | Comeback | 3.00% | ~31,059 |
@@ -34,17 +34,17 @@ Number of Ratings: 1,343  (23.09.2022)
 | Brave and Bold | 1.00% | ~10,353 |
 | Crocodile Hunter | 0.90% | ~9,318 |
 | Old Master | 0.90% | ~9,318 |
-| Volcano Surfer | 0.80% | ~8,282 |
-| Otaku | 0.80% | ~8,282 |
+| Volcano Surfer | 0.80% | ~8,283 |
+| Otaku | 0.80% | ~8,283 |
 | Survivor | 0.60% | ~6,212 |
 | King of the World | 0.60% | ~6,212 |
-| Getting Famous | 0.50% | ~5,176 |
+| Getting Famous | 0.50% | ~5,177 |
 | Master of the Racetrack | 0.20% | ~2,071 |
 | Now Go Play Outside | 0.20% | ~2,071 |
 | Transporter | 0.10% | ~1,035 |
 | Look Mom, No Hands! | 0.10% | ~1,035 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,035,300 (Ranked 12)  
+Progressed: 1,035,315 (Ranked 12)  
 Completed: 407 (0.04%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,11 +176,11 @@ Completed: 407 (0.04%) (Ranked 236)
 | 2023-08-27 | 1,034,146 | 405 |
 | 2023-08-28 | 1,034,696 | 405 |
 | 2023-08-29 | 1,035,202 | 407 |
-| 2023-08-30 | 1,035,300 | 407 |
+| 2023-08-30 | 1,035,315 | 407 |
 ## Awards
-Max (Great for Beginners): 153  (Ranked 296)  
+Max (Great for Beginners): 153  (Ranked 295)  
 Sum: 1,263 (Ranked 229)  
-Diff (max vs sum): 67  
+Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 153 |

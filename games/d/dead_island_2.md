@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 503)
 | Variety is the Spice of Death | 0.10% | ~669 |
 | Bucket List | 0.10% | ~669 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 669,061 (Ranked 22)  
-Completed: 2,089 (0.31%) (Ranked 174)  
+Progressed: 669,076 (Ranked 22)  
+Completed: 2,090 (0.31%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -183,7 +183,7 @@ Completed: 2,089 (0.31%) (Ranked 174)
 | 2023-08-27 | 667,273 | 2,082 |
 | 2023-08-28 | 668,091 | 2,086 |
 | 2023-08-29 | 668,912 | 2,088 |
-| 2023-08-30 | 669,061 | 2,089 |
+| 2023-08-30 | 669,076 | 2,090 |
 ## Awards
 Max (Great Boss Battles): 5,808  (Ranked 61)  
 Sum: 8,555 (Ranked 97)  

@@ -4,8 +4,8 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -28,7 +28,7 @@
   "Tags": [],
   "EOS_Progressed": 433,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1099,8 +1099,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-08-30T05:03:30.8718397+00:00",
+  "LastChanged_Achievements": "2023-08-30T06:04:22.9860235+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:15.8917042+00:00",
-  "LastUpdate_Ratings": "2023-08-30T04:58:05.4171757+00:00",
-  "LastUpdate_Achievements": "2023-08-30T05:03:30.8718753+00:00"
+  "LastUpdate_Ratings": "2023-08-30T05:58:42.3107915+00:00",
+  "LastUpdate_Achievements": "2023-08-30T06:04:22.9860627+00:00"
 }

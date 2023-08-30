@@ -6,25 +6,25 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 74.00% | ~4,115 |
-| Having A Field Day | 74.00% | ~4,115 |
-| Reap What You Sow | 71.00% | ~3,948 |
-| The First Day | 68.00% | ~3,781 |
-| Green Thumb | 66.00% | ~3,670 |
-| Novice Researcher | 66.00% | ~3,670 |
+| Get A Room | 74.00% | ~4,116 |
+| Having A Field Day | 74.00% | ~4,116 |
+| Reap What You Sow | 71.00% | ~3,949 |
+| The First Day | 68.00% | ~3,782 |
+| Green Thumb | 66.00% | ~3,671 |
+| Novice Researcher | 66.00% | ~3,671 |
 | Home Cooked Meal | 57.00% | ~3,170 |
 | Putting Food on the Table | 57.00% | ~3,170 |
-| Onward | 56.00% | ~3,114 |
+| Onward | 56.00% | ~3,115 |
 | The First Week | 54.00% | ~3,003 |
-| Studious Researcher | 51.00% | ~2,836 |
-| Beam Me Up | 50.00% | ~2,780 |
+| Studious Researcher | 51.00% | ~2,837 |
+| Beam Me Up | 50.00% | ~2,781 |
 | Feast or Famine | 47.00% | ~2,614 |
 | Adept Researcher | 44.00% | ~2,447 |
 | Retribution | 41.00% | ~2,280 |
-| ...And Don’t Come Back! | 40.00% | ~2,224 |
+| ...And Don’t Come Back! | 40.00% | ~2,225 |
 | Fit For A King | 36.00% | ~2,002 |
 | Luminary Researcher | 32.00% | ~1,780 |
-| Heating Up | 30.00% | ~1,668 |
+| Heating Up | 30.00% | ~1,669 |
 | Winter Is Coming | 26.00% | ~1,446 |
 | Winter Is Here | 23.00% | ~1,279 |
 | Disassembled | 20.00% | ~1,112 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~111 |
 | Wabbit Season | 0.50% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,561 (Ranked 140)  
+Progressed: 5,562 (Ranked 140)  
 Completed: 11 (0.20%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,11 +149,11 @@ Completed: 11 (0.20%) (Ranked 191)
 | 2023-08-27 | 5,535 | 11 |
 | 2023-08-28 | 5,548 | 11 |
 | 2023-08-29 | 5,554 | 11 |
-| 2023-08-30 | 5,561 | 11 |
+| 2023-08-30 | 5,562 | 11 |
 ## Awards
-Max (Relaxing): 121  (Ranked 318)  
+Max (Relaxing): 121  (Ranked 317)  
 Sum: 978 (Ranked 239)  
-Diff (max vs sum): 79  
+Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 121 |

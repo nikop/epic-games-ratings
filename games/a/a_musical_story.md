@@ -32,10 +32,10 @@
 | The Mountains, The Valleys | 13.00% | ~12 |
 | Bad Trip | 12.00% | ~11 |
 | Regrets | 12.00% | ~11 |
+| Love | 11.00% | ~10 |
 | The Accident | 11.00% | ~10 |
 | The Awakening | 11.00% | ~10 |
 | Chase the Crow | 9.00% | ~9 |
-| Love | 9.00% | ~9 |
 | Here we go again! | 9.00% | ~9 |
 | Flight of the Bumblebee | 8.00% | ~8 |
 | Under the Bridge | 6.00% | ~6 |

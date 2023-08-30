@@ -4,8 +4,8 @@
   "ProductSlug": "blasphemous-2",
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -666,25 +666,25 @@
       "ID": "AC03",
       "SetID": "l4abp0",
       "Name": "Blood and Gold",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 305
+      "UsersEstimate": 310
     },
     {
       "ID": "AC04",
       "SetID": "l4abp0",
       "Name": "Blood and Iron",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 293
+      "UsersEstimate": 299
     },
     {
       "ID": "AC05",
       "SetID": "l4abp0",
       "Name": "The Sharpest Tool in the Shed",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 265
+      "UsersEstimate": 271
     },
     {
       "ID": "AC06",
@@ -882,9 +882,9 @@
       "ID": "AC30",
       "SetID": "l4abp0",
       "Name": "The Anointed One",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 243
+      "UsersEstimate": 248
     },
     {
       "ID": "AC31",
@@ -1017,8 +1017,8 @@
   ],
   "FirstSeen": "2023-07-26T07:57:19.1818171+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
-  "LastChanged_Achievements": "2023-08-30T05:04:55.2099923+00:00",
+  "LastChanged_Achievements": "2023-08-30T06:06:02.0616032+00:00",
   "LastUpdate_AppInfo": "2023-08-29T18:57:21.35462+00:00",
-  "LastUpdate_Ratings": "2023-08-30T04:58:51.3546726+00:00",
-  "LastUpdate_Achievements": "2023-08-30T05:04:55.2100369+00:00"
+  "LastUpdate_Ratings": "2023-08-30T05:59:39.2274123+00:00",
+  "LastUpdate_Achievements": "2023-08-30T06:06:02.0616461+00:00"
 }

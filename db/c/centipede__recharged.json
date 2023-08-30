@@ -302,7 +302,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16737,
+  "EOS_Progressed": 16738,
   "EOS_Completed": 102,
   "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 1,
@@ -10467,6 +10467,11 @@
       "Time": "2023-08-30T02:23:13.110108+00:00",
       "NumProgressed": 16737,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-08-30T06:07:30.383529+00:00",
+      "NumProgressed": 16738,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 16,
@@ -10486,7 +10491,7 @@
       "Name": "Burning For You",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 4686
+      "UsersEstimate": 4687
     },
     {
       "ID": "Deadline",
@@ -10502,7 +10507,7 @@
       "Name": "Don\u0027t Fear The Reaper",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 2008
+      "UsersEstimate": 2009
     },
     {
       "ID": "Eyes_On_Fire",
@@ -10526,7 +10531,7 @@
       "Name": "Fireworks",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 5523
+      "UsersEstimate": 5524
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -10605,15 +10610,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 16737,
+      "Progressed": 16738,
       "Completed": 102
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-07-21T02:04:12.2963456+00:00",
-  "LastChanged_Achievements": "2023-08-30T05:06:09.5215748+00:00",
+  "LastChanged_Achievements": "2023-08-30T06:07:30.3835282+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:38.6700837+00:00",
-  "LastUpdate_Ratings": "2023-08-30T04:57:36.5491238+00:00",
-  "LastUpdate_Achievements": "2023-08-30T05:06:09.5216492+00:00"
+  "LastUpdate_Ratings": "2023-08-30T05:58:06.9553693+00:00",
+  "LastUpdate_Achievements": "2023-08-30T06:07:30.3836002+00:00"
 }

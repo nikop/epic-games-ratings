@@ -17,10 +17,10 @@ Number of Ratings: 1,354  (23.09.2022)
 | Embrace of the Abyss | 6.00% | ~668 |
 | Path of the Angel | 6.00% | ~668 |
 | Demonic and Divine | 6.00% | ~668 |
-| Transformation | 5.00% | ~556 |
-| Great Upstart | 5.00% | ~556 |
-| Voice from Your Dreams | 5.00% | ~556 |
-| All Paths Open | 5.00% | ~556 |
+| Transformation | 5.00% | ~557 |
+| Great Upstart | 5.00% | ~557 |
+| Voice from Your Dreams | 5.00% | ~557 |
+| All Paths Open | 5.00% | ~557 |
 | Path of the Azata | 4.00% | ~445 |
 | The Legacy | 4.00% | ~445 |
 | Divide and Rule | 4.00% | ~445 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,130 (Ranked 123)  
+Progressed: 11,131 (Ranked 123)  
 Completed: 0 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 0 (0.00%) (Ranked 266)
 | 2023-08-27 | 11,106 | 0 |
 | 2023-08-28 | 11,120 | 0 |
 | 2023-08-29 | 11,127 | 0 |
-| 2023-08-30 | 11,130 | 0 |
+| 2023-08-30 | 11,131 | 0 |
 ## Awards
 Max (Character Customization): 1,703  (Ranked 118)  
 Sum: 6,909 (Ranked 114)  

@@ -30,7 +30,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Destroy the thing | 26.00% | ~7,516 |
 | Tide Master | 26.00% | ~7,516 |
 | Difficult family relationships | 25.00% | ~7,227 |
-| MASS-O-BOT | 24.00% | ~6,938 |
+| MASS-O-BOT | 25.00% | ~7,227 |
 | Prepare the grave | 24.00% | ~6,938 |
 | Angel of Fire | 24.00% | ~6,938 |
 | Where there is Light, there is Shadow | 23.00% | ~6,649 |

@@ -6930,7 +6930,7 @@
       "Count": 606
     }
   ],
-  "EOS_Progressed": 291067,
+  "EOS_Progressed": 291069,
   "EOS_Completed": 458,
   "EOS_NewPlayers": 427,
   "EOS_NewCompleters": 4,
@@ -21090,6 +21090,11 @@
       "Time": "2023-08-30T05:03:19.3737853+00:00",
       "NumProgressed": 291067,
       "NumCompleted": 458
+    },
+    {
+      "Time": "2023-08-30T06:04:09.3820931+00:00",
+      "NumProgressed": 291069,
+      "NumCompleted": 458
     }
   ],
   "TotalAchievements": 45,
@@ -21325,7 +21330,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23285
+      "UsersEstimate": 23286
     },
     {
       "ID": "PFA_36",
@@ -21405,7 +21410,7 @@
       "Name": "The Spell Master",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23285
+      "UsersEstimate": 23286
     },
     {
       "ID": "PFA_45",
@@ -21429,7 +21434,7 @@
       "Name": "First Class Student",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32017
+      "UsersEstimate": 32018
     },
     {
       "ID": "PFA_7",
@@ -21437,7 +21442,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32017
+      "UsersEstimate": 32018
     },
     {
       "ID": "PFA_8",
@@ -21453,14 +21458,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23285
+      "UsersEstimate": 23286
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 291067,
+      "Progressed": 291069,
       "Completed": 458
     }
   ],
@@ -21468,8 +21473,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-08-30T01:40:16.0509409+00:00",
-  "LastChanged_Achievements": "2023-08-30T05:03:19.3737849+00:00",
+  "LastChanged_Achievements": "2023-08-30T06:04:09.3820921+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:27.4425386+00:00",
-  "LastUpdate_Ratings": "2023-08-30T04:59:30.8512062+00:00",
-  "LastUpdate_Achievements": "2023-08-30T05:03:19.3739088+00:00"
+  "LastUpdate_Ratings": "2023-08-30T06:00:28.4070621+00:00",
+  "LastUpdate_Achievements": "2023-08-30T06:04:09.3822295+00:00"
 }

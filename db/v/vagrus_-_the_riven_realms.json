@@ -4,8 +4,8 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 298,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
     "PcReleaseDate": "2021-10-05T15:00:00+00:00",
@@ -604,9 +604,9 @@
       "ID": "Vanilla_CombatStrenghtTier2",
       "SetID": "27kik8p",
       "Name": "Strategist",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Vanilla_CombatStrenghtTier3",
@@ -1253,8 +1253,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-08-30T05:02:04.723638+00:00",
+  "LastChanged_Achievements": "2023-08-30T06:03:04.1792868+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:25.2500253+00:00",
-  "LastUpdate_Ratings": "2023-08-30T04:57:30.2306196+00:00",
-  "LastUpdate_Achievements": "2023-08-30T05:02:04.7237719+00:00"
+  "LastUpdate_Ratings": "2023-08-30T05:57:59.1918076+00:00",
+  "LastUpdate_Achievements": "2023-08-30T06:03:04.1794205+00:00"
 }

@@ -9,10 +9,10 @@ Number of Ratings: 19,160  (23.09.2022)
 | Clean Sheet | 50.00% | ~235,898 |
 | He's Signed! | 50.00% | ~235,898 |
 | First Victory | 50.00% | ~235,898 |
-| He's Sold! | 48.00% | ~226,462 |
-| I'm The Boss! | 42.00% | ~198,154 |
-| Hat-trick | 41.00% | ~193,436 |
-| Scoring Streak | 38.00% | ~179,282 |
+| He's Sold! | 48.00% | ~226,463 |
+| I'm The Boss! | 42.00% | ~198,155 |
+| Hat-trick | 41.00% | ~193,437 |
+| Scoring Streak | 38.00% | ~179,283 |
 | Unbeatable! | 37.00% | ~174,565 |
 | Thumping | 37.00% | ~174,565 |
 | Superb Dressing Room Atmosphere | 35.00% | ~165,129 |
@@ -46,13 +46,13 @@ Number of Ratings: 19,160  (23.09.2022)
 | Do The Double | 19.00% | ~89,641 |
 | Top Form | 17.00% | ~80,205 |
 | Cash To Burn | 17.00% | ~80,205 |
-| Beating Expectations | 15.00% | ~70,769 |
-| Overachiever! | 15.00% | ~70,769 |
-| Rushed signing | 15.00% | ~70,769 |
-| Window Shopping | 15.00% | ~70,769 |
-| Eyes and Ears | 14.00% | ~66,051 |
-| Comeback King! | 14.00% | ~66,051 |
-| You're Up! | 13.00% | ~61,333 |
+| Beating Expectations | 15.00% | ~70,770 |
+| Overachiever! | 15.00% | ~70,770 |
+| Rushed signing | 15.00% | ~70,770 |
+| Window Shopping | 15.00% | ~70,770 |
+| Eyes and Ears | 14.00% | ~66,052 |
+| Comeback King! | 14.00% | ~66,052 |
+| You're Up! | 13.00% | ~61,334 |
 | Money, Money, Money | 12.00% | ~56,616 |
 | Superb Strike | 10.00% | ~47,180 |
 | International Superstar | 10.00% | ~47,180 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~472 |
 | Shoestring Budget | 0.10% | ~472 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 471,796 (Ranked 36)  
+Progressed: 471,797 (Ranked 36)  
 Completed: 20 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,7 +237,7 @@ Completed: 20 (0.00%) (Ranked 266)
 | 2023-08-27 | 471,614 | 20 |
 | 2023-08-28 | 471,701 | 20 |
 | 2023-08-29 | 471,781 | 20 |
-| 2023-08-30 | 471,796 | 20 |
+| 2023-08-30 | 471,797 | 20 |
 ## Awards
 Max (Relaxing): 6,417  (Ranked 54)  
 Sum: 50,499 (Ranked 24)  

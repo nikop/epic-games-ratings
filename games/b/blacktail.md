@@ -1,11 +1,11 @@
 # BLACKTAIL
 [Store](https://store.epicgames.com/en-US/p/blacktail)  
 [View Rawdata](../../db/b/blacktail.json)  
-Rating: 4.68 (Ranked 239)  
+Rating: 4.68 (Ranked 240)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tooth fairy | 26.00% | ~167 |
+| Tooth fairy | 26.00% | ~168 |
 | Dental maturity | 20.00% | ~129 |
 | Devil's in the details | 15.00% | ~97 |
 | Uprooting | 13.00% | ~84 |
@@ -16,14 +16,14 @@ Rating: 4.68 (Ranked 239)
 | Spirit animal | 8.00% | ~52 |
 | A friend in need... | 6.00% | ~39 |
 | Baba Yaga | 6.00% | ~39 |
-| Extensive retelling | 5.00% | ~32 |
 | Sneak peek | 5.00% | ~32 |
 | Fishing fanatic | 5.00% | ~32 |
 | The word around is... | 5.00% | ~32 |
 | Liar Liar | 5.00% | ~32 |
 | The cycle acknowledged | 5.00% | ~32 |
-| Queen | 5.00% | ~32 |
+| Extensive retelling | 4.00% | ~26 |
 | Favorite | 4.00% | ~26 |
+| Queen | 4.00% | ~26 |
 | Specialist | 4.00% | ~26 |
 | Goal! | 3.00% | ~19 |
 | Gnowlledgeable | 3.00% | ~19 |
@@ -38,7 +38,7 @@ Rating: 4.68 (Ranked 239)
 | Mushrooming enthusiast | 0.60% | ~4 |
 | Apex predator | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 644 (Ranked 220)  
+Progressed: 645 (Ranked 220)  
 Completed: 1 (0.16%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,6 +159,7 @@ Completed: 1 (0.16%) (Ranked 197)
 | 2023-08-27 | 641 | 1 |
 | 2023-08-28 | 643 | 1 |
 | 2023-08-29 | 644 | 1 |
+| 2023-08-30 | 645 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

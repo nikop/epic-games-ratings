@@ -20,6 +20,7 @@
 | Courier | 5.00% | ~7 |
 | Tail-wind | 5.00% | ~7 |
 | Quartermaster | 4.00% | ~5 |
+| Strategist | 4.00% | ~5 |
 | The More the Merrier | 4.00% | ~5 |
 | Harbinger | 4.00% | ~5 |
 | Been There | 4.00% | ~5 |
@@ -28,7 +29,6 @@
 | Inquisitions of Discord | 4.00% | ~5 |
 | Merchant | 4.00% | ~5 |
 | Supercargo | 3.00% | ~4 |
-| Strategist | 3.00% | ~4 |
 | Potential Unlocked | 3.00% | ~4 |
 | Xevarian Gambit | 3.00% | ~4 |
 | Deputized | 3.00% | ~4 |

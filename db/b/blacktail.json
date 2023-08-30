@@ -2,13 +2,13 @@
   "ID": "a17cc66c3a3c4d75875febf281c73fd2",
   "Name": "BLACKTAIL",
   "ProductSlug": "blacktail",
-  "Ranking_Rating": 239,
+  "Ranking_Rating": 240,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
     "PcReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -60,9 +60,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 644,
+  "EOS_Progressed": 645,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1660,6 +1660,11 @@
       "Time": "2023-08-29T06:05:31.8720979+00:00",
       "NumProgressed": 644,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-30T06:06:14.2145574+00:00",
+      "NumProgressed": 645,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -1669,9 +1674,9 @@
       "ID": "Adventurer",
       "SetID": "2aagp3d",
       "Name": "Extensive retelling",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 32
+      "UsersEstimate": 26
     },
     {
       "ID": "BadApple",
@@ -1829,9 +1834,9 @@
       "ID": "Queen",
       "SetID": "2aagp3d",
       "Name": "Queen",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 32
+      "UsersEstimate": 26
     },
     {
       "ID": "Rats",
@@ -1887,7 +1892,7 @@
       "Name": "Tooth fairy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "Toxic",
@@ -1926,7 +1931,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 644,
+      "Progressed": 645,
       "Completed": 1
     }
   ],
@@ -1934,8 +1939,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-08-30T05:05:05.5491363+00:00",
+  "LastChanged_Achievements": "2023-08-30T06:06:14.2145564+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:35.1403312+00:00",
-  "LastUpdate_Ratings": "2023-08-30T04:59:52.4200853+00:00",
-  "LastUpdate_Achievements": "2023-08-30T05:05:05.5491715+00:00"
+  "LastUpdate_Ratings": "2023-08-30T06:00:55.4665573+00:00",
+  "LastUpdate_Achievements": "2023-08-30T06:06:14.2145902+00:00"
 }

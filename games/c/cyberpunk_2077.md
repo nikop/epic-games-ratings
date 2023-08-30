@@ -6,7 +6,7 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 69.00% | ~602,714 |
+| The Fool | 69.00% | ~602,715 |
 | Right Back At Ya | 39.00% | ~340,665 |
 | The Lovers | 35.00% | ~305,725 |
 | Stanislavski's Method | 29.00% | ~253,315 |
@@ -49,9 +49,9 @@ Number of Ratings: 32,700  (23.09.2022)
 | Daemon In The Shell | 2.00% | ~17,470 |
 | The Devil | 2.00% | ~17,470 |
 | Gunslinger | 1.00% | ~8,735 |
-| Rough Landing | 0.50% | ~4,367 |
+| Rough Landing | 0.50% | ~4,368 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 873,499 (Ranked 14)  
+Progressed: 873,500 (Ranked 14)  
 Completed: 2,037 (0.23%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,10 +183,10 @@ Completed: 2,037 (0.23%) (Ranked 186)
 | 2023-08-27 | 873,138 | 2,029 |
 | 2023-08-28 | 873,332 | 2,034 |
 | 2023-08-29 | 873,482 | 2,037 |
-| 2023-08-30 | 873,499 | 2,037 |
+| 2023-08-30 | 873,500 | 2,037 |
 ## Awards
 Max (Character Customization): 76,663  (Ranked 9)  
-Sum: 203,286 (Ranked 13)  
+Sum: 203,309 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -198,7 +198,7 @@ Diff (max vs sum): -4
 | This game is Extremely Fun | 8,899 |
 | This game is Highly Recommended | 8,893 |
 | This game is Relaxing | 8,808 |
-| This game has Amazing Characters | 8,729 |
+| This game has Amazing Characters | 8,752 |
 | This game has Quickly Understood Controls | 8,719 |
 | This game has a Creative Community | 5,697 |
 | This game has Obsessive Gameplay | 3,165 |
@@ -427,4 +427,4 @@ Diff (max vs sum): -4
 | 2023-08-27 | 4.62 | - | 76,492 | 202,689 |
 | 2023-08-28 | 4.62 | - | 76,580 | 203,020 |
 | 2023-08-29 | 4.62 | - | 76,663 | 203,268 |
-| 2023-08-30 | 4.62 | - | 76,663 | 203,286 |
+| 2023-08-30 | 4.62 | - | 76,663 | 203,309 |

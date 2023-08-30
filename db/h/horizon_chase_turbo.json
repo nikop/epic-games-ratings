@@ -3,7 +3,7 @@
   "Name": "Horizon Chase Turbo",
   "ProductSlug": "horizon-chase-turbo",
   "Ranking_Rating": 488,
-  "Ranking_Popularity": 296,
+  "Ranking_Popularity": 295,
   "Ranking_PopularitySum": 229,
   "Ranking_EOS_Progress": 12,
   "Ranking_EOS_Completed": 236,
@@ -2410,9 +2410,9 @@
       "Count": 79
     }
   ],
-  "EOS_Progressed": 1035300,
+  "EOS_Progressed": 1035315,
   "EOS_Completed": 407,
-  "EOS_NewPlayers": 4161,
+  "EOS_NewPlayers": 4160,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -17020,6 +17020,11 @@
       "Time": "2023-08-30T05:05:44.2768247+00:00",
       "NumProgressed": 1035300,
       "NumCompleted": 407
+    },
+    {
+      "Time": "2023-08-30T06:06:59.7360978+00:00",
+      "NumProgressed": 1035315,
+      "NumCompleted": 407
     }
   ],
   "TotalAchievements": 37,
@@ -17031,7 +17036,7 @@
       "Name": "Ghostbuster",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 341649
+      "UsersEstimate": 341654
     },
     {
       "ID": "CompleteAustralia",
@@ -17055,7 +17060,7 @@
       "Name": "California Dreamer",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 72471
+      "UsersEstimate": 72472
     },
     {
       "ID": "CompleteChile",
@@ -17087,7 +17092,7 @@
       "Name": "Volcano Surfer",
       "Percentage": 0.8,
       "XP": 75,
-      "UsersEstimate": 8282
+      "UsersEstimate": 8283
     },
     {
       "ID": "CompleteIceland",
@@ -17111,7 +17116,7 @@
       "Name": "Otaku",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 8282
+      "UsersEstimate": 8283
     },
     {
       "ID": "CompleteSouthAfrica",
@@ -17159,7 +17164,7 @@
       "Name": "Getting Famous",
       "Percentage": 0.5,
       "XP": 75,
-      "UsersEstimate": 5176
+      "UsersEstimate": 5177
     },
     {
       "ID": "FinishEnduranceGoldEasy",
@@ -17223,7 +17228,7 @@
       "Name": "Quickie",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 113883
+      "UsersEstimate": 113885
     },
     {
       "ID": "FirstRaceWorldTour",
@@ -17231,7 +17236,7 @@
       "Name": "The First of Many",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 931770
+      "UsersEstimate": 931784
     },
     {
       "ID": "GetLotsOfScore",
@@ -17263,7 +17268,7 @@
       "Name": "Pump my Ride",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 486591
+      "UsersEstimate": 486598
     },
     {
       "ID": "OutOfFuelLoseRace",
@@ -17271,7 +17276,7 @@
       "Name": "Call Roadside Assistance",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 176001
+      "UsersEstimate": 176004
     },
     {
       "ID": "OutOfFuelWinRace",
@@ -17295,7 +17300,7 @@
       "Name": "I Need a Bigger Garage",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 652239
+      "UsersEstimate": 652248
     },
     {
       "ID": "WinBySmallDifference",
@@ -17303,7 +17308,7 @@
       "Name": "That Was Close",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 186354
+      "UsersEstimate": 186357
     },
     {
       "ID": "WinLotsOfConsecutiveRaces",
@@ -17319,22 +17324,22 @@
       "Name": "Can\u0027t Touch This",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 51765
+      "UsersEstimate": 51766
     }
   ],
   "AchievementSets": [
     {
       "ID": "77fdf3o",
       "IsBase": true,
-      "Progressed": 1035300,
+      "Progressed": 1035315,
       "Completed": 407
     }
   ],
   "FirstSeen": "2022-07-22T20:19:20.5347351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.6843682+00:00",
   "LastChanged": "2023-08-30T04:59:41.7791875+00:00",
-  "LastChanged_Achievements": "2023-08-30T05:05:44.2768241+00:00",
+  "LastChanged_Achievements": "2023-08-30T06:06:59.7360968+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:19.9299095+00:00",
-  "LastUpdate_Ratings": "2023-08-30T04:59:41.7791887+00:00",
-  "LastUpdate_Achievements": "2023-08-30T05:05:44.2769416+00:00"
+  "LastUpdate_Ratings": "2023-08-30T06:00:42.0442349+00:00",
+  "LastUpdate_Achievements": "2023-08-30T06:06:59.7362134+00:00"
 }

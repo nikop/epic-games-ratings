@@ -11097,10 +11097,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 203286,
       "NumberOfAwardsMax": 76663
+    },
+    {
+      "Time": "2023-08-30T06:01:00.399691+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 203309,
+      "NumberOfAwardsMax": 76663
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 203286,
+  "NumberOfAwards": 203309,
   "NumberOfAwardsMax": 76663,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11162,7 +11168,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 8729
+      "Count": 8752
     },
     {
       "Text": "This game is Extremely Fun",
@@ -11177,9 +11183,9 @@
       "Count": 5697
     }
   ],
-  "EOS_Progressed": 873499,
+  "EOS_Progressed": 873500,
   "EOS_Completed": 2037,
-  "EOS_NewPlayers": 1367,
+  "EOS_NewPlayers": 1360,
   "EOS_NewCompleters": 35,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -25802,6 +25808,11 @@
       "Time": "2023-08-30T05:05:57.5245324+00:00",
       "NumProgressed": 873499,
       "NumCompleted": 2037
+    },
+    {
+      "Time": "2023-08-30T06:07:16.0817794+00:00",
+      "NumProgressed": 873500,
+      "NumCompleted": 2037
     }
   ],
   "TotalAchievements": 44,
@@ -26013,7 +26024,7 @@
       "Name": "Rough Landing",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4367
+      "UsersEstimate": 4368
     },
     {
       "ID": "TheDevil",
@@ -26029,7 +26040,7 @@
       "Name": "The Fool",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 602714
+      "UsersEstimate": 602715
     },
     {
       "ID": "TheHermit",
@@ -26164,21 +26175,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 873499,
+      "Progressed": 873500,
       "Completed": 2037
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 2122,
-      "Completed": 2122
+      "Progressed": 2123,
+      "Completed": 2123
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-08-30T04:59:56.340833+00:00",
-  "LastChanged_Achievements": "2023-08-30T05:05:57.524532+00:00",
+  "LastChanged": "2023-08-30T06:01:00.3996907+00:00",
+  "LastChanged_Achievements": "2023-08-30T06:07:16.0817784+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:41.3483631+00:00",
-  "LastUpdate_Ratings": "2023-08-30T04:59:56.3408337+00:00",
-  "LastUpdate_Achievements": "2023-08-30T05:05:57.5246575+00:00"
+  "LastUpdate_Ratings": "2023-08-30T06:01:00.3996915+00:00",
+  "LastUpdate_Achievements": "2023-08-30T06:07:16.0819048+00:00"
 }

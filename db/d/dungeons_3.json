@@ -2556,7 +2556,7 @@
   ],
   "EOS_Progressed": 28907,
   "EOS_Completed": 240,
-  "EOS_NewPlayers": 744,
+  "EOS_NewPlayers": 739,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.83,
   "EosHistory": [
@@ -16977,9 +16977,9 @@
       "ID": "ACH_D3_Campaign_FancyFoods_1",
       "SetID": "cda475f",
       "Name": "MASS-O-BOT",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 6938
+      "UsersEstimate": 7227
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_2",
@@ -17321,8 +17321,8 @@
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-08-29T16:58:51.2583485+00:00",
-  "LastChanged_Achievements": "2023-08-30T05:05:09.0778818+00:00",
+  "LastChanged_Achievements": "2023-08-30T06:06:18.1291962+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:56.1449078+00:00",
-  "LastUpdate_Ratings": "2023-08-30T04:57:48.4561464+00:00",
-  "LastUpdate_Achievements": "2023-08-30T05:05:09.0780205+00:00"
+  "LastUpdate_Ratings": "2023-08-30T05:58:21.1973989+00:00",
+  "LastUpdate_Achievements": "2023-08-30T06:06:18.1293334+00:00"
 }
