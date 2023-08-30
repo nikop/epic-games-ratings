@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [The Bridge Curse Road to Salvation](games/0/0edc15388101433f8619477c7860311c.md) | 2023-08-30 | 22 (1,000 XP) | 0 | - | - |
 | [Meta NANOs: Rumble Race](games/d/d1dd254226e84377a6cf930e37726333.md) | 2023-08-30 | - |  | - | - |
 | [GarbageGame](games/9/9a3d7a156a6f48b4820ba163ef684b12.md) | 2023-08-30 | - |  | - | - |
 | [CyberTitans](games/c/cf8c412fbb52453d83133933381e634d.md) | 2023-08-30 | - |  | - | - |
@@ -13,7 +14,6 @@
 | [Heist Force](games/a/a6bd7700389b4389ad7d4c344ea2ce81.md) | 2023-08-31 | - |  | - | - |
 | [Interceptor](games/i/interceptor.md) | 2023-08-31 | - |  | - | - |
 | [Night Run](games/c/c9340fb1d3984f4f8f5bbafaa0ea066d.md) | 2023-08-31 | - |  | - | - |
-| [The Bridge Curse Road to Salvation](games/0/0edc15388101433f8619477c7860311c.md) | 2023-08-31 | 22 (1,000 XP) | 0 | - | - |
 | [Tenebris Pictura](games/6/6c5d913b71db4831801990b59d15e74a.md) | 2023-08-31 | - |  | - | - |
 | [Civil War: 1862](games/e/e45eb13a4bba483c951ed8851547c810.md) | 2023-08-31 | - |  | - | - |
 | [Trine 5: A Clockwork Conspiracy](games/t/trine_5__a_clockwork_conspiracy.md) | 2023-08-31 | - |  | - | - |
@@ -217,7 +217,7 @@
 | [Elder's Grace - Rise of the Mobley](games/e/elder's_grace_-_rise_of_the_mobley.md) | 2024-03-31 | - |  | - | - |
 | [Gridiron](games/d/d23b008fda0444588998e65e0de39871.md) | 2024-03-31 | - |  | - | - |
 | [TACTICAL BANDITS](games/6/66ad2c3335b34b64ac28f438287766fc.md) | 2024-03-31 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 1,777 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 1,778 | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |
 | [Xenion](games/0/04758c0780e24a16b433fa56456790d9.md) | 2024-06-30 | - |  | - | - |

@@ -9,16 +9,16 @@
 | [Under The Waves](games/d/d5309b9c54564b1f9a0b4c6b797cc5f0.md) | 2023-08-28 | - |  | - | 0 |
 | [Sniper Wild West Shooting Simulator](games/a/a4368659166c4e53aed26aa64f86f9d7.md) | 2023-08-28 | - |  | - | - |
 | [Love Too Easily](games/f/f2e5527508fc488884b634181564e9b2.md) | 2023-08-28 | - |  | - | - |
-| [Medieval Delivery](games/1/159f5c2372264a7fbb3e0430924bce9a.md) | 2023-08-28 | - |  | - | - |
+| [Medieval Delivery](games/1/159f5c2372264a7fbb3e0430924bce9a.md) | 2023-08-28 | - |  | - | 0 |
 | [Wildfire](games/0/06e47041cf1d4668aa4a0430788893f4.md) | 2023-08-28 | - |  | - | - |
 | [Ultimate Flight Simulator Pro](games/7/77eeeb3089274d4b904a3484a913805d.md) | 2023-08-27 | - |  | - | - |
 | [Drift Cars Zombie Crusher](games/5/533f84039e404a968efbc191a3827451.md) | 2023-08-27 | - |  | - | - |
 | [MoeSpotter - Uncover the Maiden Mysteries](games/1/116097a2f8714d75beba578033182d94.md) | 2023-08-26 | - |  | - | - |
 | [Need for Spirit: Off-Road Edition](games/7/7dd01e47eb62480bb938d02a80977ed2.md) | 2023-08-26 | - |  | - | - |
-| [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 2023-08-24 | 46 (1,000 XP) | 562 | - | 0 |
+| [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 2023-08-24 | 46 (1,000 XP) | 563 | - | 0 |
 | [Live In The Country](games/7/7247d3e923ac4d04a7d8f4435e240302.md) | 2023-08-24 | - |  | - | - |
 | [GINSHA](games/f/f63608bdb9234e0cbfb6d7f81e96d33c.md) | 2023-08-24 | 23 (1,000 XP) | 4 | - | - |
-| [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 2023-08-24 | 48 (1,440 XP) | 221,344 | 4.40 | 0 |
+| [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 2023-08-24 | 48 (1,440 XP) | 221,697 | 4.40 | 0 |
 | [Little Brother Jim](games/e/e0ae558efb3d42f9bd62184665286d3b.md) | 2023-08-24 | 5 (1,000 XP) | 0 | - | - |
 | [Duel Princess](games/6/6ebe4c6dff6d4d0a9c231fd40480d97f.md) | 2023-08-24 | - |  | - | 0 |
 | [RIDE 5](games/r/ride_5.md) | 2023-08-24 | - |  | - | 0 |
@@ -38,9 +38,9 @@
 | [Dirt Bike Racer Simulator](games/4/49c5373cd1a34f398764a94dce5953a0.md) | 2023-08-19 | - |  | - | 0 |
 | [Find the Oil Racing Edition](games/3/3b665944a4764f9882d99296d2010265.md) | 2023-08-19 | - |  | - | - |
 | [FrontlineGrunt](games/a/ad2063ad8cea49618dfd85af4c2aaf1f.md) | 2023-08-18 | - |  | - | - |
-| [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 2023-08-18 | - |  | 3.88 | 0 |
+| [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 2023-08-18 | - |  | 3.71 | 0 |
 | [Mortal Street Fighter](games/5/58ac7dee6bc7429db98fdae628f179ce.md) | 2023-08-17 | - |  | - | 0 |
-| [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 2023-08-17 | 5 (1,000 XP) | 556 | - | 0 |
+| [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 2023-08-17 | 5 (1,000 XP) | 557 | - | 0 |
 | [Police Car Simulator](games/e/ec8a01641ab7453d9abae814727d5171.md) | 2023-08-17 | - |  | - | - |
 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2023-08-17 | 26 (1,000 XP) | 543 | - | 0 |
 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 2023-08-17 | 68 (1,000 XP) | 38 | - | 0 |
@@ -90,7 +90,7 @@
 | [Prince of Persia: The Forgotten Sands STANDARD EDITION](games/d/db75e4104b3343eda2e6530e7bb03cd9.md) | 2023-08-03 | - |  | - | 0 |
 | [Towerful](games/5/5b453822aeeb42a2a7472eeaadda459a.md) | 2023-08-03 | - |  | - | 0 |
 | [Traffic Brains 2](games/f/f6a9fcbf437b48b59cf3d54a75c20932.md) | 2023-08-03 | - |  | - | 0 |
-| [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 2023-08-03 | 17 (1,000 XP) | 66,694 | 4.19 | 0 |
+| [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 2023-08-03 | 17 (1,000 XP) | 66,708 | 4.19 | 0 |
 | [Estar Fiel](games/a/a3495aaa160141de8520582a9ca5c7f4.md) | 2023-08-02 | - |  | - | - |
 | [Forest Fire](games/6/6a249c368e9a4ad99bbdfe23997f26ba.md) | 2023-08-02 | 34 (1,000 XP) | 24 | - | - |
 | [Paquerette Down the Bunburrows](games/3/3c8f3297965d4326b0b16a6aeb968b5d.md) | 2023-08-02 | 60 (1,000 XP) | 1 | - | - |

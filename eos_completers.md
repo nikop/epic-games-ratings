@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
-| 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.65% |
+| 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.00% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.31% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 35.37% |
 | 5 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 33.33% |
@@ -73,7 +73,7 @@
 | 71 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
 | 72 | [HordeCore](games/h/hordecore.md) | 3.15% |
 | 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.08% |
-| 74 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.06% |
+| 74 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.05% |
 | 75 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.01% |
 | 76 | [Monster Harvest](games/m/monster_harvest.md) | 2.93% |
 | 76 | [MultiVersus](games/m/multiversus.md) | 2.93% |
