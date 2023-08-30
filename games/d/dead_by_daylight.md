@@ -16,6 +16,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Not half bad | 0.20% | ~1,659 |
 | Apt Survivor | 0.20% | ~1,659 |
 | Survival Treasures | 0.20% | ~1,659 |
+| Sorted | 0.20% | ~1,659 |
 | Make Some Noise | 0.20% | ~1,659 |
 | The Grand Sacrifice | 0.10% | ~829 |
 | A bite for the Entity | 0.10% | ~829 |
@@ -80,7 +81,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Skilled Huntress | 0.10% | ~829 |
 | Adept Huntress | 0.10% | ~829 |
 | Cottage Owner | 0.10% | ~829 |
-| Sorted | 0.10% | ~829 |
 | Adept David | 0.10% | ~829 |
 | Butcherin' | 0.10% | ~829 |
 | Texas BBQ | 0.10% | ~829 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~829 |
 | Adept Ripley | 0.10% | ~829 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 829,277 (Ranked 15)  
+Progressed: 829,421 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -368,16 +368,16 @@ Completed: 48 (0.01%) (Ranked 253)
 | 2023-08-27 | 822,167 | 48 |
 | 2023-08-28 | 824,988 | 48 |
 | 2023-08-29 | 828,020 | 48 |
-| 2023-08-30 | 829,277 | 48 |
+| 2023-08-30 | 829,421 | 48 |
 ## Awards
 Max (Diverse Characters): 31,677  (Ranked 15)  
-Sum: 248,434 (Ranked 11)  
+Sum: 248,492 (Ranked 11)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 31,677 |
 | This game is Highly Recommended | 28,366 |
-| This game has Competitive Players | 28,297 |
+| This game has Competitive Players | 28,355 |
 | This game has Amazing Characters | 28,088 |
 | This game is Extremely Fun | 27,872 |
 | This game has Quickly Understood Controls | 27,555 |
@@ -607,4 +607,4 @@ Diff (max vs sum): 4
 | 2023-08-27 | 4.52 | - | 31,508 | 247,584 |
 | 2023-08-28 | 4.52 | - | 31,536 | 247,765 |
 | 2023-08-29 | 4.52 | - | 31,566 | 248,001 |
-| 2023-08-30 | 4.52 | - | 31,677 | 248,434 |
+| 2023-08-30 | 4.52 | - | 31,677 | 248,492 |

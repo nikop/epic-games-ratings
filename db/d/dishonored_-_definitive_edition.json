@@ -4,11 +4,11 @@
   "ProductSlug": "dishonored-definitive-edition",
   "Ranking_Rating": 134,
   "Ranking_Popularity": 171,
-  "Ranking_PopularitySum": 249,
+  "Ranking_PopularitySum": 250,
   "Ranking_EOS_Progress": 565,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 341,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-09-09T15:00:00+00:00",
     "PcReleaseDate": "2015-08-25T09:00:00+00:00",
@@ -1393,10 +1393,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 924,
       "NumberOfAwardsMax": 680
+    },
+    {
+      "Time": "2023-08-30T13:02:24.3893598+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 925,
+      "NumberOfAwardsMax": 680
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 924,
+  "NumberOfAwards": 925,
   "NumberOfAwardsMax": 680,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1434,7 +1440,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1478,8 +1484,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:28.893212+00:00",
-  "LastChanged": "2023-08-29T16:57:47.8118756+00:00",
+  "LastChanged": "2023-08-30T13:02:24.3893597+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:16.625098+00:00",
-  "LastUpdate_Ratings": "2023-08-30T11:57:10.9203366+00:00",
-  "LastUpdate_Achievements": "2023-08-30T12:03:11.5418236+00:00"
+  "LastUpdate_Ratings": "2023-08-30T13:02:24.3893602+00:00",
+  "LastUpdate_Achievements": "2023-08-30T13:08:20.0260764+00:00"
 }

@@ -21,11 +21,11 @@ Rating: 4.88 (Ranked 19)
 | Kissing the sky! | 7.00% | ~280 |
 | I look cool. But I can look COOLER. | 7.00% | ~280 |
 | The Negotiator | 6.00% | ~240 |
+| Headliner | 6.00% | ~240 |
 | Whoa! There's ANOTHER health bar!? | 6.00% | ~240 |
 | Out in a puff of smoke | 6.00% | ~240 |
 | Does that say weakpoint? | 6.00% | ~240 |
 | NOW we got a kickass hideout! | 6.00% | ~151 |
-| Headliner | 5.00% | ~200 |
 | Time to pay up! | 5.00% | ~200 |
 | Who's the boss now? | 5.00% | ~200 |
 | I have to read these things? | 5.00% | ~200 |
@@ -57,7 +57,6 @@ Rating: 4.88 (Ranked 19)
 | It'll do, CNMN | 0.30% | ~8 |
 | And the crowd goes wild! | 0.20% | ~8 |
 | With our powers combined…and to the rhythm… | 0.20% | ~8 |
-| That was just EVIL | 0.20% | ~5 |
 | Didn't skip a beat! | 0.10% | ~4 |
 | I can't see this ever being a problem again | 0.10% | ~4 |
 | I think that's enough health for now | 0.10% | ~4 |
@@ -73,11 +72,12 @@ Rating: 4.88 (Ranked 19)
 | I saw all those hits coming a measure away! | 0.10% | ~4 |
 | OK, I THINK I know what I'm doing now | 0.10% | ~4 |
 | Please don't make this awkward | 0.10% | ~3 |
+| That was just EVIL | 0.10% | ~3 |
 | It was all for this | 0.10% | ~3 |
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,998 (Ranked 150)  
+Progressed: 4,000 (Ranked 150)  
 Completed: 7 (0.18%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 7 (0.18%) (Ranked 194)
 | 2023-08-27 | 3,984 | 7 |
 | 2023-08-28 | 3,986 | 7 |
 | 2023-08-29 | 3,994 | 7 |
-| 2023-08-30 | 3,998 | 7 |
+| 2023-08-30 | 4,000 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

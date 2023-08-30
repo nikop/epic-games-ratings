@@ -4,8 +4,8 @@
   "ProductSlug": "ancient_temple-7c94d5",
   "Ranking_EOS_Progress": 565,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 341,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-05-21T21:00:00+00:00",
     "PcReleaseDate": "2023-03-20T22:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-27T08:57:08.1870191+00:00",
-  "LastUpdate_Ratings": "2023-08-30T11:59:31.9047777+00:00",
-  "LastUpdate_Achievements": "2023-08-30T12:00:21.0425284+00:00"
+  "LastUpdate_Ratings": "2023-08-30T13:04:48.1383487+00:00",
+  "LastUpdate_Achievements": "2023-08-30T13:08:11.5957502+00:00"
 }

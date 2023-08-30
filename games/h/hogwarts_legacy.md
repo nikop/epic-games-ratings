@@ -5,7 +5,7 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 13.00% | ~37,840 |
+| The Sort Who Makes an Entrance | 13.00% | ~37,841 |
 | First Class Student | 11.00% | ~32,019 |
 | Troll with the Punches | 11.00% | ~32,019 |
 | The One Who Mastered Memories | 10.00% | ~29,108 |
@@ -19,13 +19,13 @@ Rating: 4.77 (Ranked 109)
 | The Hero of Hogwarts | 9.00% | ~26,197 |
 | Challenge Accepted | 9.00% | ~26,197 |
 | Loom for Improvement | 9.00% | ~26,197 |
-| Followed the Butterflies | 8.00% | ~23,286 |
-| The Spell Master | 8.00% | ~23,286 |
-| Rising From the Ashes | 8.00% | ~23,286 |
-| The Avenging Gazelle | 7.00% | ~20,375 |
-| Beast Friends | 7.00% | ~20,375 |
-| A Sallow Grave | 7.00% | ~20,375 |
-| Flight the Good Flight | 7.00% | ~20,375 |
+| Followed the Butterflies | 8.00% | ~23,287 |
+| The Spell Master | 8.00% | ~23,287 |
+| Rising From the Ashes | 8.00% | ~23,287 |
+| The Avenging Gazelle | 7.00% | ~20,376 |
+| Beast Friends | 7.00% | ~20,376 |
+| A Sallow Grave | 7.00% | ~20,376 |
+| Flight the Good Flight | 7.00% | ~20,376 |
 | The Seeker of Knowledge | 5.00% | ~14,554 |
 | The Root of the Problem | 5.00% | ~14,554 |
 | Third Time's a Charm | 5.00% | ~14,554 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,746 |
 | Collector's Edition | 0.30% | ~873 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 291,078 (Ranked 43)  
+Progressed: 291,082 (Ranked 43)  
 Completed: 458 (0.16%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,10 +183,10 @@ Completed: 458 (0.16%) (Ranked 197)
 | 2023-08-27 | 290,954 | 456 |
 | 2023-08-28 | 291,008 | 456 |
 | 2023-08-29 | 291,057 | 457 |
-| 2023-08-30 | 291,078 | 458 |
+| 2023-08-30 | 291,082 | 458 |
 ## Awards
 Max (Character Customization): 22,003  (Ranked 17)  
-Sum: 41,746 (Ranked 30)  
+Sum: 41,748 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -194,7 +194,7 @@ Diff (max vs sum): -13
 | This game has Great Boss Battles | 10,731 |
 | This game is Great for Beginners | 1,001 |
 | This game is Relaxing | 974 |
-| This game is Extremely Fun | 971 |
+| This game is Extremely Fun | 973 |
 | This game has Amazing Storytelling | 968 |
 | This game has Diverse Characters | 964 |
 | This game has Amazing Characters | 938 |
@@ -364,4 +364,4 @@ Diff (max vs sum): -13
 | 2023-08-27 | 4.77 | 21,969 | 41,646 |
 | 2023-08-28 | 4.77 | 21,990 | 41,680 |
 | 2023-08-29 | 4.77 | 22,003 | 41,725 |
-| 2023-08-30 | 4.77 | 22,003 | 41,746 |
+| 2023-08-30 | 4.77 | 22,003 | 41,748 |

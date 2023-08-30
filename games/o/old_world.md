@@ -21,41 +21,41 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens | 3.00% | ~410 |
 | Oracle | 3.00% | ~410 |
 | Trade Caravan | 3.00% | ~410 |
-| Regicide | 2.00% | ~273 |
-| Ambitious | 2.00% | ~273 |
-| Brilliant | 2.00% | ~273 |
-| Enlightened | 2.00% | ~273 |
-| Fountainhead | 2.00% | ~273 |
-| Glorious | 2.00% | ~273 |
-| Great | 2.00% | ~273 |
-| Just | 2.00% | ~273 |
-| Keystone | 2.00% | ~273 |
-| Learned | 2.00% | ~273 |
-| Magnificent | 2.00% | ~273 |
-| Pioneer | 2.00% | ~273 |
-| Warrior | 2.00% | ~273 |
-| Wise | 2.00% | ~273 |
-| Developing Cities | 2.00% | ~273 |
-| Strong Cities | 2.00% | ~273 |
-| Able Difficulty | 2.00% | ~273 |
-| Furious Family | 2.00% | ~273 |
-| Great Ziggurat | 2.00% | ~273 |
-| Ishtar Gate | 2.00% | ~273 |
-| Lighthouse | 2.00% | ~273 |
-| Necropolis | 2.00% | ~273 |
-| Pyramids | 2.00% | ~273 |
-| Learn to Play 1 | 2.00% | ~273 |
-| Christianity | 2.00% | ~273 |
-| Judaism | 2.00% | ~273 |
-| Manichaeism | 2.00% | ~273 |
-| Babylonian Paganism | 2.00% | ~273 |
-| Carthaginian Paganism | 2.00% | ~273 |
-| Greek Paganism | 2.00% | ~273 |
-| Roman Paganism | 2.00% | ~273 |
-| Zoroastrianism | 2.00% | ~273 |
-| Naming Landmarks | 2.00% | ~273 |
-| The Great Mage | 2.00% | ~273 |
-| Poetic Leader | 2.00% | ~273 |
+| Regicide | 2.00% | ~274 |
+| Ambitious | 2.00% | ~274 |
+| Brilliant | 2.00% | ~274 |
+| Enlightened | 2.00% | ~274 |
+| Fountainhead | 2.00% | ~274 |
+| Glorious | 2.00% | ~274 |
+| Great | 2.00% | ~274 |
+| Just | 2.00% | ~274 |
+| Keystone | 2.00% | ~274 |
+| Learned | 2.00% | ~274 |
+| Magnificent | 2.00% | ~274 |
+| Pioneer | 2.00% | ~274 |
+| Warrior | 2.00% | ~274 |
+| Wise | 2.00% | ~274 |
+| Developing Cities | 2.00% | ~274 |
+| Strong Cities | 2.00% | ~274 |
+| Able Difficulty | 2.00% | ~274 |
+| Furious Family | 2.00% | ~274 |
+| Great Ziggurat | 2.00% | ~274 |
+| Ishtar Gate | 2.00% | ~274 |
+| Lighthouse | 2.00% | ~274 |
+| Necropolis | 2.00% | ~274 |
+| Pyramids | 2.00% | ~274 |
+| Learn to Play 1 | 2.00% | ~274 |
+| Christianity | 2.00% | ~274 |
+| Judaism | 2.00% | ~274 |
+| Manichaeism | 2.00% | ~274 |
+| Babylonian Paganism | 2.00% | ~274 |
+| Carthaginian Paganism | 2.00% | ~274 |
+| Greek Paganism | 2.00% | ~274 |
+| Roman Paganism | 2.00% | ~274 |
+| Zoroastrianism | 2.00% | ~274 |
+| Naming Landmarks | 2.00% | ~274 |
+| The Great Mage | 2.00% | ~274 |
+| Poetic Leader | 2.00% | ~274 |
 | Hanging Gardens in Babylon | 1.00% | ~137 |
 | Beloved | 1.00% | ~137 |
 | Drillmaster | 1.00% | ~137 |
@@ -67,6 +67,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just Difficulty | 1.00% | ~137 |
 | Artisans | 1.00% | ~137 |
 | Champions | 1.00% | ~137 |
+| Patrons | 1.00% | ~137 |
 | Sages | 1.00% | ~137 |
 | Acropolis | 1.00% | ~137 |
 | Apadana | 1.00% | ~137 |
@@ -81,7 +82,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Points Victory | 1.00% | ~137 |
 | Conqueror | 0.90% | ~123 |
 | Lion | 0.90% | ~123 |
-| Patrons | 0.90% | ~123 |
 | Temple of Solomon | 0.90% | ~123 |
 | Pantheon | 0.90% | ~123 |
 | Via Recta Souk | 0.90% | ~123 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,674 (Ranked 120)  
+Progressed: 13,675 (Ranked 120)  
 Completed: 5 (0.04%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -435,7 +435,7 @@ Completed: 5 (0.04%) (Ranked 236)
 | 2023-08-27 | 13,616 | 5 |
 | 2023-08-28 | 13,635 | 5 |
 | 2023-08-29 | 13,661 | 5 |
-| 2023-08-30 | 13,674 | 5 |
+| 2023-08-30 | 13,675 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,799 (Ranked 207)  

@@ -27,10 +27,10 @@ Number of Ratings: 28  (23.09.2022)
 | Russia | 18.00% | ~81 |
 | America | 17.00% | ~76 |
 | Sabotage | 16.00% | ~72 |
+| Japan | 10.00% | ~45 |
 | Woodcutter | 10.00% | ~45 |
 | Engineer | 10.00% | ~45 |
 | Achtung! | 10.00% | ~45 |
-| Japan | 9.00% | ~40 |
 | Tycoon | 8.00% | ~36 |
 | Germany | 6.00% | ~27 |
 | Сhancellor | 4.00% | ~18 |

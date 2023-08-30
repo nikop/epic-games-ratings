@@ -1,7 +1,7 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 503)  
+Rating: 4.54 (Ranked 504)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -23,6 +23,7 @@ Rating: 4.54 (Ranked 503)
 | Like Riding a Bike | 0.40% | ~2,677 |
 | Zombologist | 0.40% | ~2,677 |
 | A Patton Emerges | 0.40% | ~2,677 |
+| I Am the Resurrection | 0.40% | ~2,677 |
 | This is My Weapon | 0.40% | ~2,677 |
 | Making Your Mark | 0.30% | ~2,008 |
 | Anger Management | 0.30% | ~2,008 |
@@ -30,7 +31,6 @@ Rating: 4.54 (Ranked 503)
 | I Got a Zombie Army and You Can't Harm Me | 0.30% | ~2,008 |
 | Ooh, Shiny! | 0.30% | ~2,008 |
 | Humanity Distilled | 0.30% | ~2,008 |
-| I Am the Resurrection | 0.30% | ~2,008 |
 | Down with the Sickness | 0.30% | ~2,008 |
 | Max Headroom | 0.30% | ~2,008 |
 | Our True Nature | 0.30% | ~2,008 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 503)
 | Variety is the Spice of Death | 0.10% | ~669 |
 | Bucket List | 0.10% | ~669 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 669,210 (Ranked 22)  
+Progressed: 669,246 (Ranked 22)  
 Completed: 2,093 (0.31%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 2,093 (0.31%) (Ranked 174)
 | 2023-08-27 | 667,273 | 2,082 |
 | 2023-08-28 | 668,091 | 2,086 |
 | 2023-08-29 | 668,912 | 2,088 |
-| 2023-08-30 | 669,210 | 2,093 |
+| 2023-08-30 | 669,246 | 2,093 |
 ## Awards
 Max (Great Boss Battles): 5,808  (Ranked 61)  
 Sum: 8,556 (Ranked 97)  

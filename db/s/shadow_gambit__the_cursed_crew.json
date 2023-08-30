@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 546,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.47,
   "EosHistory": [
@@ -1240,9 +1240,9 @@
       "ID": "_04_CollectAllRelics",
       "SetID": "8a1io5d",
       "Name": "This Belongs in a Museum",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 191
     },
     {
       "ID": "_05_FinishAct2",
@@ -1264,9 +1264,9 @@
       "ID": "_07_FinishAct3",
       "SetID": "8a1io5d",
       "Name": "All Good Things",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 60
     },
     {
       "ID": "_08_Completion_10",
@@ -1296,9 +1296,9 @@
       "ID": "_11_Completion_40",
       "SetID": "8a1io5d",
       "Name": "Seadog",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 71
     },
     {
       "ID": "_12_Completion_50",
@@ -1431,8 +1431,8 @@
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-30T12:05:06.4166674+00:00",
+  "LastChanged_Achievements": "2023-08-30T13:10:17.1729072+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:45.1302228+00:00",
-  "LastUpdate_Ratings": "2023-08-30T11:56:54.9826827+00:00",
-  "LastUpdate_Achievements": "2023-08-30T12:05:06.4166973+00:00"
+  "LastUpdate_Ratings": "2023-08-30T13:02:07.9749492+00:00",
+  "LastUpdate_Achievements": "2023-08-30T13:10:17.1729287+00:00"
 }

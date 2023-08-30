@@ -6,12 +6,12 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 79.00% | ~5,135 |
-| Worker Specialization | 78.00% | ~5,070 |
-| First Contact | 73.00% | ~4,745 |
-| Win a Battle | 67.00% | ~4,355 |
-| Anomaly Researcher | 63.00% | ~4,095 |
-| Unleash My Power | 62.00% | ~4,030 |
+| Colonize a Planet | 79.00% | ~5,136 |
+| Worker Specialization | 78.00% | ~5,071 |
+| First Contact | 73.00% | ~4,746 |
+| Win a Battle | 67.00% | ~4,356 |
+| Anomaly Researcher | 63.00% | ~4,096 |
+| Unleash My Power | 62.00% | ~4,031 |
 | Own 30 Planets | 34.00% | ~2,210 |
 | Xenocide | 32.00% | ~2,080 |
 | Design a Civilization | 32.00% | ~2,080 |
@@ -43,7 +43,7 @@ Number of Ratings: 429  (23.09.2022)
 | Win as the Drengin | 0.80% | ~52 |
 | Win as the Krynn | 0.80% | ~52 |
 | Win as Xeloxi | 0.80% | ~52 |
-| Win as the Manti | 0.70% | ~45 |
+| Win as the Manti | 0.70% | ~46 |
 | Win as the Drath | 0.60% | ~39 |
 | Win as the Iconians | 0.60% | ~39 |
 | Win as the Iridium | 0.60% | ~39 |
@@ -53,12 +53,12 @@ Number of Ratings: 429  (23.09.2022)
 | Relic Hoarder | 0.20% | ~13 |
 | Discover a Nebula | 0.20% | ~13 |
 | Commodity Seller, Level 2 | 0.20% | ~13 |
-| Commodity Trader - Level 2 | 0.10% | ~6 |
-| Play for 1000 Hours | 0.10% | ~6 |
-| Play for 100 Hours | 0.10% | ~6 |
-| Play for 5 Hours | 0.10% | ~6 |
-| It's OUR Homeworld | 0.10% | ~6 |
-| Win a Multiplayer Game | 0.10% | ~6 |
+| Commodity Trader - Level 2 | 0.10% | ~7 |
+| Play for 1000 Hours | 0.10% | ~7 |
+| Play for 100 Hours | 0.10% | ~7 |
+| Play for 5 Hours | 0.10% | ~7 |
+| It's OUR Homeworld | 0.10% | ~7 |
+| Win a Multiplayer Game | 0.10% | ~7 |
 | Solid Economy | 0.00% | ~0 |
 | Ask Not What Your Empire Can Do For You | 0.00% | ~0 |
 | Commodity Guru | 0.00% | ~0 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,500 (Ranked 138)  
+Progressed: 6,501 (Ranked 138)  
 Completed: 0 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 0 (0.00%) (Ranked 266)
 | 2023-08-27 | 6,480 | 0 |
 | 2023-08-28 | 6,486 | 0 |
 | 2023-08-29 | 6,495 | 0 |
-| 2023-08-30 | 6,500 | 0 |
+| 2023-08-30 | 6,501 | 0 |
 ## Awards
 Max (Diverse Characters): 93  (Ranked 348)  
 Sum: 675 (Ranked 282)  

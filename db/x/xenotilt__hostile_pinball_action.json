@@ -4,8 +4,8 @@
   "ProductSlug": "xenotilt-538108",
   "Ranking_EOS_Progress": 565,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 341,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-26T08:58:19.7555774+00:00",
-  "LastUpdate_Ratings": "2023-08-30T11:59:51.6558216+00:00",
-  "LastUpdate_Achievements": "2023-08-30T12:06:27.1149717+00:00"
+  "LastUpdate_Ratings": "2023-08-30T13:05:09.3415849+00:00",
+  "LastUpdate_Achievements": "2023-08-30T13:11:40.7510605+00:00"
 }

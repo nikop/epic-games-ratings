@@ -8,12 +8,12 @@
 | Brute force | 85.00% | ~144 |
 | Nimble fingers | 78.00% | ~132 |
 | Room 104 | 78.00% | ~132 |
-| Face to face | 77.00% | ~130 |
-| Now or never | 73.00% | ~123 |
-| Let's play a game… | 72.00% | ~122 |
+| Face to face | 78.00% | ~132 |
+| Now or never | 74.00% | ~125 |
+| Let's play a game… | 73.00% | ~123 |
 | Soundtrack | 62.00% | ~105 |
 | First aid | 60.00% | ~101 |
-| Antidote | 52.00% | ~88 |
+| Antidote | 53.00% | ~90 |
 | Pick the right door | 24.00% | ~41 |
 | The third floor | 17.00% | ~29 |
 | One-way | 15.00% | ~25 |

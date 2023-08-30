@@ -4,8 +4,8 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 27,
-  "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 683,
+  "EOS_Progressed": 684,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 10.98,
+  "EOS_Completed_Percentage": 10.96,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -2306,6 +2306,11 @@
       "Time": "2023-08-30T00:05:19.5641675+00:00",
       "NumProgressed": 683,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2023-08-30T13:10:05.8146074+00:00",
+      "NumProgressed": 684,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 30,
@@ -2317,7 +2322,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "LEVEL_002",
@@ -2325,15 +2330,15 @@
       "Name": "Promising crop",
       "Percentage": 82,
       "XP": 15,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "LEVEL_003",
       "SetID": "212bg48",
       "Name": "A horse in the country",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 485
+      "UsersEstimate": 479
     },
     {
       "ID": "LEVEL_004",
@@ -2341,7 +2346,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "LEVEL_005",
@@ -2389,7 +2394,7 @@
       "Name": "Rocks around the island",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "LEVEL_011",
@@ -2411,9 +2416,9 @@
       "ID": "LEVEL_013",
       "SetID": "212bg48",
       "Name": "Higher ground",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 144
     },
     {
       "ID": "LEVEL_014",
@@ -2461,7 +2466,7 @@
       "Name": "Calling Mr. Joe",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "LEVEL_020",
@@ -2469,7 +2474,7 @@
       "Name": "Go round and round",
       "Percentage": 15,
       "XP": 110,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "LEVEL_021",
@@ -2525,7 +2530,7 @@
       "Name": "A farm island lost in time...",
       "Percentage": 9,
       "XP": 55,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "LEVEL_028",
@@ -2533,7 +2538,7 @@
       "Name": "What is the country?",
       "Percentage": 9,
       "XP": 55,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "LEVEL_029",
@@ -2556,14 +2561,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 683,
+      "Progressed": 684,
       "Completed": 75
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-08-30T12:04:55.5326175+00:00",
+  "LastChanged_Achievements": "2023-08-30T13:10:05.8146066+00:00",
   "LastUpdate_AppInfo": "2023-08-28T20:26:12.0843125+00:00",
-  "LastUpdate_Ratings": "2023-08-30T11:59:24.3994763+00:00",
-  "LastUpdate_Achievements": "2023-08-30T12:04:55.5326557+00:00"
+  "LastUpdate_Ratings": "2023-08-30T13:04:40.5938121+00:00",
+  "LastUpdate_Achievements": "2023-08-30T13:10:05.8146367+00:00"
 }

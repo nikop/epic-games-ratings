@@ -9609,10 +9609,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 248434,
       "NumberOfAwardsMax": 31677
+    },
+    {
+      "Time": "2023-08-30T13:03:57.6078521+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 248492,
+      "NumberOfAwardsMax": 31677
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 248434,
+  "NumberOfAwards": 248492,
   "NumberOfAwardsMax": 31677,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -9638,7 +9644,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 28297
+      "Count": 28355
     },
     {
       "Text": "This game is Extremely Fun",
@@ -9683,9 +9689,9 @@
       "Count": 23843
     }
   ],
-  "EOS_Progressed": 829277,
+  "EOS_Progressed": 829421,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 20611,
+  "EOS_NewPlayers": 20607,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -24428,6 +24434,11 @@
       "Time": "2023-08-30T12:06:36.4810248+00:00",
       "NumProgressed": 829277,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-08-30T13:11:50.9603437+00:00",
+      "NumProgressed": 829421,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 229,
@@ -25005,9 +25016,9 @@
       "ID": "ACH_072",
       "SetID": "bdmlp8o",
       "Name": "Sorted",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 829
+      "UsersEstimate": 1659
     },
     {
       "ID": "ACH_073",
@@ -26270,21 +26281,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 829277,
+      "Progressed": 829421,
       "Completed": 40
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 829277,
+      "Progressed": 829421,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
-  "LastChanged": "2023-08-30T11:58:42.0800831+00:00",
-  "LastChanged_Achievements": "2023-08-30T12:06:36.4810243+00:00",
+  "LastChanged": "2023-08-30T13:03:57.607852+00:00",
+  "LastChanged_Achievements": "2023-08-30T13:11:50.9603434+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:54.3324879+00:00",
-  "LastUpdate_Ratings": "2023-08-30T11:58:42.080084+00:00",
-  "LastUpdate_Achievements": "2023-08-30T12:06:36.4817585+00:00"
+  "LastUpdate_Ratings": "2023-08-30T13:03:57.6078525+00:00",
+  "LastUpdate_Achievements": "2023-08-30T13:11:50.9609045+00:00"
 }

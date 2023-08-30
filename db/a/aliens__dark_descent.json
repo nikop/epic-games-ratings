@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 484,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -294,7 +294,7 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 3199,
+  "EOS_Progressed": 3200,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
@@ -3974,6 +3974,11 @@
       "Time": "2023-08-30T07:06:53.1175413+00:00",
       "NumProgressed": 3199,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-30T13:11:23.8709354+00:00",
+      "NumProgressed": 3200,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -4017,7 +4022,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 1695
+      "UsersEstimate": 1696
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -4025,7 +4030,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 1631
+      "UsersEstimate": 1632
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -4081,7 +4086,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 2367
+      "UsersEstimate": 2368
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -4097,7 +4102,7 @@
       "Name": "Call Me Snake",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 2015
+      "UsersEstimate": 2016
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -4105,7 +4110,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 2143
+      "UsersEstimate": 2144
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -4177,7 +4182,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 1951
+      "UsersEstimate": 1952
     },
     {
       "ID": "ACH_MISSION_02",
@@ -4185,7 +4190,7 @@
       "Name": "First Steps Into Madness",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 1695
+      "UsersEstimate": 1696
     },
     {
       "ID": "ACH_MISSION_03",
@@ -4281,7 +4286,7 @@
       "Name": "Snatched Out",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 2399
+      "UsersEstimate": 2400
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -4289,7 +4294,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 2623
+      "UsersEstimate": 2624
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -4297,7 +4302,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1919
+      "UsersEstimate": 1920
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -4305,7 +4310,7 @@
       "Name": "People Person",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 1791
+      "UsersEstimate": 1792
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -4337,14 +4342,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 1823
+      "UsersEstimate": 1824
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3199,
+      "Progressed": 3200,
       "Completed": 3
     }
   ],
@@ -4352,8 +4357,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-08-25T18:58:20.6868136+00:00",
-  "LastChanged_Achievements": "2023-08-30T12:06:10.4981657+00:00",
+  "LastChanged_Achievements": "2023-08-30T13:11:23.8709351+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:04.9559458+00:00",
-  "LastUpdate_Ratings": "2023-08-30T11:58:06.3804308+00:00",
-  "LastUpdate_Achievements": "2023-08-30T12:06:10.4982274+00:00"
+  "LastUpdate_Ratings": "2023-08-30T13:03:21.7246176+00:00",
+  "LastUpdate_Achievements": "2023-08-30T13:11:23.8709823+00:00"
 }
