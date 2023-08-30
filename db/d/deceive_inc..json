@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -232,9 +232,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17771,
+  "EOS_Progressed": 17773,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 179,
+  "EOS_NewPlayers": 181,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9422,6 +9422,11 @@
       "Time": "2023-08-30T22:07:12.5339381+00:00",
       "NumProgressed": 17771,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-30T23:07:42.9402545+00:00",
+      "NumProgressed": 17773,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -9497,7 +9502,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4087
+      "UsersEstimate": 4088
     },
     {
       "ID": "0010",
@@ -9521,7 +9526,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2843
+      "UsersEstimate": 2844
     },
     {
       "ID": "0013",
@@ -9537,7 +9542,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2843
+      "UsersEstimate": 2844
     },
     {
       "ID": "0015",
@@ -9561,7 +9566,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3376
+      "UsersEstimate": 3377
     },
     {
       "ID": "0018",
@@ -9569,7 +9574,7 @@
       "Name": "In It to Win It",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1599
+      "UsersEstimate": 1600
     },
     {
       "ID": "0019",
@@ -9649,7 +9654,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4087
+      "UsersEstimate": 4088
     },
     {
       "ID": "0029",
@@ -9720,7 +9725,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17771,
+      "Progressed": 17773,
       "Completed": 1
     }
   ],
@@ -9728,8 +9733,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-27T03:58:40.60023+00:00",
-  "LastChanged_Achievements": "2023-08-30T22:07:12.5339373+00:00",
+  "LastChanged_Achievements": "2023-08-30T23:07:42.9402535+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:14.6586711+00:00",
-  "LastUpdate_Ratings": "2023-08-30T21:58:47.3850278+00:00",
-  "LastUpdate_Achievements": "2023-08-30T22:07:12.5340196+00:00"
+  "LastUpdate_Ratings": "2023-08-30T22:58:46.6162489+00:00",
+  "LastUpdate_Achievements": "2023-08-30T23:07:42.9404003+00:00"
 }

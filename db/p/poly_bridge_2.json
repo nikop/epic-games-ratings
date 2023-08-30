@@ -2,13 +2,13 @@
   "ID": "9b31326adff64c7fa7bbac6e8d4a9e6e",
   "Name": "Poly Bridge 2",
   "ProductSlug": "poly-bridge-2",
-  "Ranking_Rating": 504,
+  "Ranking_Rating": 503,
   "Ranking_Popularity": 449,
   "Ranking_PopularitySum": 472,
   "Ranking_EOS_Progress": 567,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 341,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2020-05-28T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -325,6 +325,6 @@
   "FirstSeen": "2022-07-22T20:16:52.1339202+00:00",
   "LastChanged": "2023-08-08T20:00:19.7414713+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:10.8380455+00:00",
-  "LastUpdate_Ratings": "2023-08-30T21:59:17.7389705+00:00",
-  "LastUpdate_Achievements": "2023-08-30T22:04:43.439222+00:00"
+  "LastUpdate_Ratings": "2023-08-30T22:59:17.1495335+00:00",
+  "LastUpdate_Achievements": "2023-08-30T23:05:10.3004403+00:00"
 }

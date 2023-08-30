@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -40,9 +40,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9653,
+  "EOS_Progressed": 9655,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 833,
+  "EOS_NewPlayers": 835,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3735,6 +3735,11 @@
       "Time": "2023-08-30T22:03:47.8478683+00:00",
       "NumProgressed": 9653,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-30T23:04:12.5333138+00:00",
+      "NumProgressed": 9655,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -3843,7 +3848,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "21",
@@ -3955,7 +3960,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1544
+      "UsersEstimate": 1545
     },
     {
       "ID": "7",
@@ -3986,7 +3991,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 9653,
+      "Progressed": 9655,
       "Completed": 0
     }
   ],
@@ -3994,8 +3999,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-08-30T16:58:27.4229759+00:00",
-  "LastChanged_Achievements": "2023-08-30T22:03:47.8478676+00:00",
+  "LastChanged_Achievements": "2023-08-30T23:04:12.5333127+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:45.4170889+00:00",
-  "LastUpdate_Ratings": "2023-08-30T21:58:16.3001603+00:00",
-  "LastUpdate_Achievements": "2023-08-30T22:03:47.8479172+00:00"
+  "LastUpdate_Ratings": "2023-08-30T22:58:14.9973417+00:00",
+  "LastUpdate_Achievements": "2023-08-30T23:04:12.5333627+00:00"
 }

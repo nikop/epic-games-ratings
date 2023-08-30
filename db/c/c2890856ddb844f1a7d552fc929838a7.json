@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 584,
+  "EOS_Progressed": 586,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 577,
+  "EOS_NewPlayers": 579,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -692,6 +692,11 @@
       "Time": "2023-08-30T22:06:09.3289434+00:00",
       "NumProgressed": 584,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-30T23:06:39.3628219+00:00",
+      "NumProgressed": 586,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -712,7 +717,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 514
+      "UsersEstimate": 516
     },
     {
       "ID": "AC02",
@@ -720,15 +725,15 @@
       "Name": "Blood and Dust",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "AC03",
       "SetID": "l4abp0",
       "Name": "Blood and Gold",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 339
+      "UsersEstimate": 334
     },
     {
       "ID": "AC04",
@@ -736,7 +741,7 @@
       "Name": "Blood and Iron",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "AC05",
@@ -744,7 +749,7 @@
       "Name": "The Sharpest Tool in the Shed",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "AC06",
@@ -752,7 +757,7 @@
       "Name": "The Last Ascension",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "AC07",
@@ -760,7 +765,7 @@
       "Name": "The Sea dies on the Shore",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "AC08",
@@ -782,9 +787,9 @@
       "ID": "AC10",
       "SetID": "l4abp0",
       "Name": "The Wait is Over",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 99
+      "UsersEstimate": 105
     },
     {
       "ID": "AC11",
@@ -792,7 +797,7 @@
       "Name": "A Heart of Gold",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "AC12",
@@ -800,7 +805,7 @@
       "Name": "Canvas of Light and Time",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "AC13",
@@ -814,17 +819,17 @@
       "ID": "AC14",
       "SetID": "l4abp0",
       "Name": "Acta, Non Verba",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 59
     },
     {
       "ID": "AC15",
       "SetID": "l4abp0",
       "Name": "Full Devotion",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 59
     },
     {
       "ID": "AC16",
@@ -856,7 +861,7 @@
       "Name": "Soledad",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "AC20",
@@ -904,15 +909,15 @@
       "Name": "House of Grief and Hatred",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "AC26",
       "SetID": "l4abp0",
       "Name": "A Leap of Faith",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 99
+      "UsersEstimate": 105
     },
     {
       "ID": "AC27",
@@ -928,7 +933,7 @@
       "Name": "The Punished One",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "AC29",
@@ -936,7 +941,7 @@
       "Name": "The Veteran One",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "AC30",
@@ -944,7 +949,7 @@
       "Name": "The Anointed One",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "AC31",
@@ -952,7 +957,7 @@
       "Name": "The Merciless One",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "AC32",
@@ -968,7 +973,7 @@
       "Name": "Ultima Ratio",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "AC34",
@@ -982,9 +987,9 @@
       "ID": "AC35",
       "SetID": "l4abp0",
       "Name": "Flawless Penance",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 29
     },
     {
       "ID": "AC36",
@@ -1024,7 +1029,7 @@
       "Name": "Welcome Back!",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 461
+      "UsersEstimate": 463
     },
     {
       "ID": "AC41",
@@ -1048,7 +1053,7 @@
       "Name": "The Finest Craftmanship",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "AC44",
@@ -1071,14 +1076,14 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 584,
+      "Progressed": 586,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-26T07:57:19.1818171+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
-  "LastChanged_Achievements": "2023-08-30T22:06:09.328943+00:00",
+  "LastChanged_Achievements": "2023-08-30T23:06:39.3628208+00:00",
   "LastUpdate_AppInfo": "2023-08-29T18:57:21.35462+00:00",
-  "LastUpdate_Ratings": "2023-08-30T21:59:47.0674138+00:00",
-  "LastUpdate_Achievements": "2023-08-30T22:06:09.3289872+00:00"
+  "LastUpdate_Ratings": "2023-08-30T22:59:47.2878714+00:00",
+  "LastUpdate_Achievements": "2023-08-30T23:06:39.3628674+00:00"
 }

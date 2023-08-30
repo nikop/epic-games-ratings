@@ -35,7 +35,7 @@ Rating: 4.68 (Ranked 240)
 | Reawakened | 5.00% | ~31 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 613 (Ranked 222)  
-Completed: 25 (4.08%) (Ranked 61)  
+Completed: 25 (4.08%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

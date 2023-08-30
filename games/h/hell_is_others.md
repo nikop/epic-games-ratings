@@ -12,8 +12,8 @@ Rating: 4.41 (Ranked 687)
 | The Wait | 7.00% | ~17,896 |
 | Green thumb I | 6.00% | ~15,339 |
 | Cleaning Company | 6.00% | ~15,339 |
-| Well-oiled machine | 5.00% | ~12,782 |
-| Saver I | 5.00% | ~12,782 |
+| Well-oiled machine | 5.00% | ~12,783 |
+| Saver I | 5.00% | ~12,783 |
 | The Ascent | 4.00% | ~10,226 |
 | Pacifist | 4.00% | ~10,226 |
 | Vandalism | 4.00% | ~10,226 |
@@ -27,14 +27,14 @@ Rating: 4.41 (Ranked 687)
 | Predator II | 2.00% | ~5,113 |
 | Truffle Dog | 2.00% | ~5,113 |
 | A month in Century City | 2.00% | ~5,113 |
-| The Strengthening | 1.00% | ~2,556 |
-| Saver II | 1.00% | ~2,556 |
-| It's the last one, I swear | 1.00% | ~2,556 |
-| Botanist | 1.00% | ~2,556 |
-| Green thumb II | 1.00% | ~2,556 |
-| Don't try this at home | 1.00% | ~2,556 |
-| Bricklayer | 1.00% | ~2,556 |
-| Run the Economy | 1.00% | ~2,556 |
+| The Strengthening | 1.00% | ~2,557 |
+| Saver II | 1.00% | ~2,557 |
+| It's the last one, I swear | 1.00% | ~2,557 |
+| Botanist | 1.00% | ~2,557 |
+| Green thumb II | 1.00% | ~2,557 |
+| Don't try this at home | 1.00% | ~2,557 |
+| Bricklayer | 1.00% | ~2,557 |
+| Run the Economy | 1.00% | ~2,557 |
 | Committed Relationship | 0.80% | ~2,045 |
 | Number 1 | 0.70% | ~1,790 |
 | Interior designer | 0.60% | ~1,534 |
@@ -62,7 +62,7 @@ Rating: 4.41 (Ranked 687)
 | Capitalist III | 0.10% | ~256 |
 | Hell Is You | 0.10% | ~256 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,650 (Ranked 46)  
+Progressed: 255,652 (Ranked 46)  
 Completed: 3 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 3 (0.00%) (Ranked 266)
 | 2023-08-27 | 255,510 | 3 |
 | 2023-08-28 | 255,556 | 3 |
 | 2023-08-29 | 255,608 | 3 |
-| 2023-08-30 | 255,650 | 3 |
+| 2023-08-30 | 255,652 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 36  (Ranked 433)  
 Sum: 245 (Ranked 356)  

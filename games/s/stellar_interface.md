@@ -73,6 +73,7 @@
 | Galactic Captain | 2.00% | ~1 |
 | You've drone good! | 2.00% | ~1 |
 | System Captain | 2.00% | ~1 |
+| Collateral Damage III | 2.00% | ~1 |
 | Providence | 0.00% | ~0 |
 | Bronze Tovarish | 0.00% | ~0 |
 | Archer's Bronze Fate | 0.00% | ~0 |
@@ -130,7 +131,6 @@
 | Consumist | 0.00% | ~0 |
 | Hal | 0.00% | ~0 |
 | Collateral Damage IV | 0.00% | ~0 |
-| Collateral Damage III | 0.00% | ~0 |
 | Merchant Prince III | 0.00% | ~0 |
 | Almost There V | 0.00% | ~0 |
 | Almost There IV | 0.00% | ~0 |

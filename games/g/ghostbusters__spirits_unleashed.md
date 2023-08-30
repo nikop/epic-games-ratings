@@ -9,7 +9,7 @@ Rating: 4.49 (Ranked 582)
 | Advancement | 73.00% | ~18,576 |
 | Meticulously Efficient | 63.00% | ~16,032 |
 | Discovery | 61.00% | ~15,523 |
-| Fully Upgraded | 53.00% | ~13,487 |
+| Fully Upgraded | 54.00% | ~13,741 |
 | Swift Rift Removers | 53.00% | ~13,487 |
 | I collect Spores, Molds, and Fungi | 51.00% | ~12,978 |
 | Cultured | 51.00% | ~12,978 |

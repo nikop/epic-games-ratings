@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 35,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2020-12-20T16:00:00+00:00",
     "PcReleaseDate": "2020-12-20T16:00:00+00:00",
@@ -1783,9 +1783,9 @@
       "Count": 71
     }
   ],
-  "EOS_Progressed": 485087,
+  "EOS_Progressed": 485088,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 529,
+  "EOS_NewPlayers": 526,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15713,6 +15713,11 @@
       "Time": "2023-08-30T22:07:03.8473393+00:00",
       "NumProgressed": 485087,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-30T23:07:34.7052408+00:00",
+      "NumProgressed": 485088,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 87,
@@ -15772,7 +15777,7 @@
       "Name": "Boot Camp",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 218289
+      "UsersEstimate": 218290
     },
     {
       "ID": "BURNBABYBURN",
@@ -15780,7 +15785,7 @@
       "Name": "Burn Baby Burn",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 286201
+      "UsersEstimate": 286202
     },
     {
       "ID": "CHAS",
@@ -15868,7 +15873,7 @@
       "Name": "Eradicator",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 325008
+      "UsersEstimate": 325009
     },
     {
       "ID": "EXTERMINATOR",
@@ -15876,7 +15881,7 @@
       "Name": "Exterminator",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 174631
+      "UsersEstimate": 174632
     },
     {
       "ID": "FAITHFULCOMPANION",
@@ -15892,7 +15897,7 @@
       "Name": "Field Promotion",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 358964
+      "UsersEstimate": 358965
     },
     {
       "ID": "FILTHYRICH",
@@ -15916,7 +15921,7 @@
       "Name": "First Blood",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 392920
+      "UsersEstimate": 392921
     },
     {
       "ID": "FLAWLESSVICTORY",
@@ -15996,7 +16001,7 @@
       "Name": "Happy Returns",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 378368
+      "UsersEstimate": 378369
     },
     {
       "ID": "HEADTRAUMA",
@@ -16004,7 +16009,7 @@
       "Name": "Head Trauma",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 58210
+      "UsersEstimate": 58211
     },
     {
       "ID": "HEYTHATSMINE",
@@ -16012,7 +16017,7 @@
       "Name": "Hey! That\u0027s mine!",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 378368
+      "UsersEstimate": 378369
     },
     {
       "ID": "HIGHVOLTAGE",
@@ -16068,7 +16073,7 @@
       "Name": "Liquidator",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 140675
+      "UsersEstimate": 140676
     },
     {
       "ID": "MAJESTICPONY",
@@ -16252,7 +16257,7 @@
       "Name": "Salvage Rights",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 257096
+      "UsersEstimate": 257097
     },
     {
       "ID": "SAVANTGENIUS",
@@ -16419,15 +16424,15 @@
     {
       "ID": "bko38ff",
       "IsBase": true,
-      "Progressed": 485087,
+      "Progressed": 485088,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:21:41.4012807+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:40.5516265+00:00",
   "LastChanged": "2023-08-25T08:01:10.3908538+00:00",
-  "LastChanged_Achievements": "2023-08-30T22:07:03.8473386+00:00",
+  "LastChanged_Achievements": "2023-08-30T23:07:34.7052401+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:09.930405+00:00",
-  "LastUpdate_Ratings": "2023-08-30T21:57:24.5718794+00:00",
-  "LastUpdate_Achievements": "2023-08-30T22:07:03.8475725+00:00"
+  "LastUpdate_Ratings": "2023-08-30T22:57:21.1394291+00:00",
+  "LastUpdate_Achievements": "2023-08-30T23:07:34.705493+00:00"
 }

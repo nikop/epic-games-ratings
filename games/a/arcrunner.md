@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Augmented | 21.00% | ~156 |
+| Augmented | 22.00% | ~163 |
 | Challenge Accepted | 17.00% | ~126 |
 | Terminated I | 17.00% | ~126 |
+| Nanonic I | 16.00% | ~119 |
 | Unlocked and Loaded | 16.00% | ~119 |
-| Nanonic I | 15.00% | ~111 |
 | The City | 13.00% | ~97 |
 | Terminated II | 13.00% | ~97 |
 | Challenge Mastered | 11.00% | ~82 |

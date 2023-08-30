@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 93.00% | ~78 |
-| Training Simulation | 81.00% | ~68 |
-| Kuku Bird Hunter | 73.00% | ~61 |
-| Fashion Connoisseur | 68.00% | ~57 |
-| Storm Traveller | 68.00% | ~57 |
-| Wolf King Killer | 68.00% | ~57 |
-| Arms Mechanic | 62.00% | ~52 |
+| Travel Streamer | 93.00% | ~79 |
+| Training Simulation | 80.00% | ~68 |
+| Kuku Bird Hunter | 72.00% | ~61 |
+| Fashion Connoisseur | 67.00% | ~57 |
+| Storm Traveller | 67.00% | ~57 |
+| Wolf King Killer | 67.00% | ~57 |
+| Arms Mechanic | 61.00% | ~52 |
 | Flower Thief | 58.00% | ~49 |
-| Apostle of Flame | 56.00% | ~47 |
-| Beginner Cook | 55.00% | ~46 |
-| Beginner Artificer | 54.00% | ~45 |
-| Seal Breaker | 49.00% | ~41 |
+| Apostle of Flame | 55.00% | ~47 |
+| Beginner Cook | 54.00% | ~46 |
+| Beginner Artificer | 53.00% | ~45 |
+| Seal Breaker | 48.00% | ~41 |
 | Handyman | 46.00% | ~39 |
 | Giant Lizard Killer | 45.00% | ~38 |
 | Nosebleeder | 44.00% | ~37 |
-| Guardian | 43.00% | ~36 |
+| Guardian | 42.00% | ~36 |
 | Trader | 39.00% | ~33 |
 | Weapon Boost | 38.00% | ~32 |
-| Flying Kobold Killer | 36.00% | ~30 |
-| Youth Magnet | 36.00% | ~30 |
-| Lethal Blade Mantis Killer | 35.00% | ~29 |
-| Squeaky Clean | 35.00% | ~29 |
+| Flying Kobold Killer | 35.00% | ~30 |
+| Youth Magnet | 35.00% | ~30 |
+| Lethal Blade Mantis Killer | 34.00% | ~29 |
+| Squeaky Clean | 34.00% | ~29 |
 | Furious Scorpion Killer | 33.00% | ~28 |
 | Master Artificer | 32.00% | ~27 |
 | Kind Adventurer | 31.00% | ~26 |
-| Mermaid Killer | 29.00% | ~24 |
+| Mermaid Killer | 28.00% | ~24 |
 | Cave Master | 27.00% | ~23 |
 | Face Slapper | 27.00% | ~23 |
 | Master Cook | 20.00% | ~17 |
@@ -50,7 +50,7 @@
 | Furious Scorpion Challenge | 1.00% | ~1 |
 | Giant Lizard Challenge | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 84 (Ranked 348)  
+Progressed: 85 (Ranked 348)  
 Completed: 0 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,6 +104,7 @@ Completed: 0 (0.00%) (Ranked 266)
 | 2023-08-15 | 82 | 0 |
 | 2023-08-24 | 83 | 0 |
 | 2023-08-29 | 84 | 0 |
+| 2023-08-30 | 85 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

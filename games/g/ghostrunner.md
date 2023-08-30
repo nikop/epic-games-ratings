@@ -1,26 +1,26 @@
 # Ghostrunner
 [Store](https://store.epicgames.com/en-US/p/ghostrunner)  
 [View Rawdata](../../db/g/ghostrunner.json)  
-Rating: 4.72 (Ranked 174)  
+Rating: 4.72 (Ranked 175)  
 Number of Ratings: 1,047  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~12,416 |
+| Longrunner | 76.00% | ~12,417 |
 | Sword Runner | 61.00% | ~9,966 |
-| Running out of breath | 54.00% | ~8,822 |
-| Wallrunner | 54.00% | ~8,822 |
+| Running out of breath | 54.00% | ~8,823 |
+| Wallrunner | 54.00% | ~8,823 |
 | Homerunner | 45.00% | ~7,352 |
 | Out of order | 45.00% | ~7,352 |
-| I call it luck | 44.00% | ~7,188 |
-| Where are my Keys? | 41.00% | ~6,698 |
-| Back to hell | 36.00% | ~5,881 |
+| I call it luck | 44.00% | ~7,189 |
+| Where are my Keys? | 41.00% | ~6,699 |
+| Back to hell | 36.00% | ~5,882 |
 | Perfection | 32.00% | ~5,228 |
 | Why not both | 30.00% | ~4,901 |
 | Sword to a gunfight | 29.00% | ~4,738 |
 | Upgrades not mandatory | 29.00% | ~4,738 |
-| Artificial selection | 28.00% | ~4,574 |
-| Control freak | 28.00% | ~4,574 |
+| Artificial selection | 28.00% | ~4,575 |
+| Control freak | 28.00% | ~4,575 |
 | Running Wild | 27.00% | ~4,411 |
 | Finish line | 26.00% | ~4,248 |
 | Unstoppable force | 23.00% | ~3,758 |
@@ -31,15 +31,15 @@ Number of Ratings: 1,047  (23.09.2022)
 | Improvise, adapt, overrun | 13.00% | ~2,124 |
 | Pre-empative strike | 13.00% | ~2,124 |
 | Strike | 13.00% | ~2,124 |
-| More than human | 12.00% | ~1,960 |
+| More than human | 12.00% | ~1,961 |
 | Triple A | 9.00% | ~1,470 |
 | Fine addition | 7.00% | ~1,144 |
 | One Of Those Days | 7.00% | ~1,144 |
 | Where He Stood | 5.00% | ~817 |
-| About Adam | 4.00% | ~653 |
-| Push it to the limit | 4.00% | ~653 |
-| Scrapped | 4.00% | ~653 |
-| Strafing Run | 4.00% | ~653 |
+| About Adam | 4.00% | ~654 |
+| Push it to the limit | 4.00% | ~654 |
+| Scrapped | 4.00% | ~654 |
+| Strafing Run | 4.00% | ~654 |
 | Just A Man | 3.00% | ~490 |
 | Hit me if you can | 2.00% | ~327 |
 | Junkrunner | 2.00% | ~327 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~65 |
 | Up Close And Personal | 0.40% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,337 (Ranked 115)  
+Progressed: 16,338 (Ranked 115)  
 Completed: 64 (0.39%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 64 (0.39%) (Ranked 161)
 | 2023-08-27 | 16,069 | 61 |
 | 2023-08-28 | 16,174 | 61 |
 | 2023-08-29 | 16,271 | 63 |
-| 2023-08-30 | 16,337 | 64 |
+| 2023-08-30 | 16,338 | 64 |
 ## Awards
 Max (Great Boss Battles): 485  (Ranked 201)  
 Sum: 677 (Ranked 280)  

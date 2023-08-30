@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 45,
   "Ranking_EOS_Progress": 16,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 51,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 52,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -6864,9 +6864,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 799169,
+  "EOS_Progressed": 799170,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 983,
+  "EOS_NewPlayers": 981,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -21459,6 +21459,11 @@
       "Time": "2023-08-30T22:03:24.173372+00:00",
       "NumProgressed": 799169,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-08-30T23:03:48.8356103+00:00",
+      "NumProgressed": 799170,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 82,
@@ -21502,7 +21507,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 167825
+      "UsersEstimate": 167826
     },
     {
       "ID": "BadGirl",
@@ -21558,7 +21563,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 119875
+      "UsersEstimate": 119876
     },
     {
       "ID": "Buddy",
@@ -21686,7 +21691,7 @@
       "Name": "Firestarter",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 119875
+      "UsersEstimate": 119876
     },
     {
       "ID": "Freud",
@@ -22125,15 +22130,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 799169,
+      "Progressed": 799170,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-08-30T03:57:08.6965341+00:00",
-  "LastChanged_Achievements": "2023-08-30T22:03:24.1733714+00:00",
+  "LastChanged_Achievements": "2023-08-30T23:03:48.8356095+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:19.3833724+00:00",
-  "LastUpdate_Ratings": "2023-08-30T21:57:30.9678921+00:00",
-  "LastUpdate_Achievements": "2023-08-30T22:03:24.1736231+00:00"
+  "LastUpdate_Ratings": "2023-08-30T22:57:27.8428913+00:00",
+  "LastUpdate_Achievements": "2023-08-30T23:03:48.8357986+00:00"
 }

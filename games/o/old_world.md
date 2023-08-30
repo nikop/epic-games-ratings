@@ -77,6 +77,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 2 | 1.00% | ~137 |
 | Greece | 1.00% | ~137 |
 | Egyptian Paganism | 1.00% | ~137 |
+| Persian Paganism | 1.00% | ~137 |
 | Building Wonders | 1.00% | ~137 |
 | Mythology | 1.00% | ~137 |
 | Points Victory | 1.00% | ~137 |
@@ -87,7 +88,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Via Recta Souk | 0.90% | ~123 |
 | Learn to Play 3 | 0.90% | ~123 |
 | Power to the People | 0.90% | ~123 |
-| Persian Paganism | 0.90% | ~123 |
 | Economic Reform | 0.90% | ~123 |
 | Legalism | 0.90% | ~123 |
 | Legionary | 0.90% | ~123 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,688 (Ranked 120)  
+Progressed: 13,689 (Ranked 120)  
 Completed: 5 (0.04%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -435,7 +435,7 @@ Completed: 5 (0.04%) (Ranked 236)
 | 2023-08-27 | 13,616 | 5 |
 | 2023-08-28 | 13,635 | 5 |
 | 2023-08-29 | 13,661 | 5 |
-| 2023-08-30 | 13,688 | 5 |
+| 2023-08-30 | 13,689 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,800 (Ranked 207)  

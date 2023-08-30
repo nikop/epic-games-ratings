@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 230816,
+  "EOS_Progressed": 230820,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 521,
+  "EOS_NewPlayers": 524,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -14243,6 +14243,11 @@
       "Time": "2023-08-30T22:05:44.0001244+00:00",
       "NumProgressed": 230816,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-08-30T23:06:13.1104893+00:00",
+      "NumProgressed": 230820,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 34,
@@ -14270,7 +14275,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 64628
+      "UsersEstimate": 64630
     },
     {
       "ID": "CENTAUR",
@@ -14278,7 +14283,7 @@
       "Name": "CENTAUR",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 18465
+      "UsersEstimate": 18466
     },
     {
       "ID": "CHALLENGER",
@@ -14318,7 +14323,7 @@
       "Name": "FASTER THAN EVER",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 18465
+      "UsersEstimate": 18466
     },
     {
       "ID": "FLAWLESS",
@@ -14334,7 +14339,7 @@
       "Name": "GILA",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 6924
+      "UsersEstimate": 6925
     },
     {
       "ID": "GT9STRADALE",
@@ -14342,7 +14347,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 46163
+      "UsersEstimate": 46164
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -14390,7 +14395,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 76169
+      "UsersEstimate": 76171
     },
     {
       "ID": "NOBUNAGA",
@@ -14414,7 +14419,7 @@
       "Name": "ON A ROLL",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20773
+      "UsersEstimate": 20774
     },
     {
       "ID": "PHOTOFINISH",
@@ -14518,22 +14523,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 94635
+      "UsersEstimate": 94636
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 230816,
+      "Progressed": 230820,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-08-30T22:05:44.0001236+00:00",
+  "LastChanged_Achievements": "2023-08-30T23:06:13.1104884+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:04.7208625+00:00",
-  "LastUpdate_Ratings": "2023-08-30T21:57:16.3474496+00:00",
-  "LastUpdate_Achievements": "2023-08-30T22:05:44.0003068+00:00"
+  "LastUpdate_Ratings": "2023-08-30T22:57:12.6389104+00:00",
+  "LastUpdate_Achievements": "2023-08-30T23:06:13.1106279+00:00"
 }

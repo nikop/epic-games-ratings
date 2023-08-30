@@ -2,7 +2,7 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 504,
+  "Ranking_Rating": 503,
   "Ranking_Popularity": 60,
   "Ranking_PopularitySum": 97,
   "Ranking_EOS_Progress": 22,
@@ -4080,9 +4080,9 @@
       "Count": 330
     }
   ],
-  "EOS_Progressed": 669614,
+  "EOS_Progressed": 669636,
   "EOS_Completed": 2094,
-  "EOS_NewPlayers": 5963,
+  "EOS_NewPlayers": 5945,
   "EOS_NewCompleters": 40,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -18815,6 +18815,11 @@
       "Time": "2023-08-30T22:04:32.002015+00:00",
       "NumProgressed": 669614,
       "NumCompleted": 2094
+    },
+    {
+      "Time": "2023-08-30T23:04:58.4349431+00:00",
+      "NumProgressed": 669636,
+      "NumCompleted": 2094
     }
   ],
   "TotalAchievements": 45,
@@ -18922,7 +18927,7 @@
       "Name": "Slayer Squad",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2678
+      "UsersEstimate": 2679
     },
     {
       "ID": "ach_explorer",
@@ -18954,7 +18959,7 @@
       "Name": "Like Riding a Bike",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2678
+      "UsersEstimate": 2679
     },
     {
       "ID": "ach_good_eyesight",
@@ -19034,7 +19039,7 @@
       "Name": "Zombologist",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2678
+      "UsersEstimate": 2679
     },
     {
       "ID": "ach_legendary",
@@ -19042,7 +19047,7 @@
       "Name": "Ooh, Shiny!",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2678
+      "UsersEstimate": 2679
     },
     {
       "ID": "ach_magnum_opus",
@@ -19058,7 +19063,7 @@
       "Name": "A Patton Emerges",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2678
+      "UsersEstimate": 2679
     },
     {
       "ID": "ach_mind_over_monster",
@@ -19074,7 +19079,7 @@
       "Name": "I Am the Resurrection",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2678
+      "UsersEstimate": 2679
     },
     {
       "ID": "ach_salvation",
@@ -19138,7 +19143,7 @@
       "Name": "Our True Nature",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 2678
+      "UsersEstimate": 2679
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -19185,7 +19190,7 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 669614,
+      "Progressed": 669636,
       "Completed": 2094
     }
   ],
@@ -19193,8 +19198,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-08-30T15:57:34.017232+00:00",
-  "LastChanged_Achievements": "2023-08-30T22:04:32.0020144+00:00",
+  "LastChanged_Achievements": "2023-08-30T23:04:58.4349423+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:11.0440218+00:00",
-  "LastUpdate_Ratings": "2023-08-30T21:57:29.9486236+00:00",
-  "LastUpdate_Achievements": "2023-08-30T22:04:32.0021718+00:00"
+  "LastUpdate_Ratings": "2023-08-30T22:57:26.8835201+00:00",
+  "LastUpdate_Achievements": "2023-08-30T23:04:58.4351031+00:00"
 }
