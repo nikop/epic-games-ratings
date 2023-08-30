@@ -127,6 +127,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage | 0.60% | ~82 |
 | Enlightenment | 0.60% | ~82 |
 | Kushite Cavalry | 0.60% | ~82 |
+| No Undo | 0.60% | ~82 |
 | Ishtar Gate in Babylon | 0.50% | ~68 |
 | Old | 0.50% | ~68 |
 | Clerics | 0.50% | ~68 |
@@ -135,7 +136,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Paganism | 0.50% | ~68 |
 | Turreted Elephant | 0.50% | ~68 |
 | All Nations | 0.50% | ~68 |
-| No Undo | 0.50% | ~68 |
 | Carthage - Ox Hide | 0.40% | ~55 |
 | Peacemaker | 0.40% | ~55 |
 | Noble Difficulty | 0.40% | ~55 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,664 (Ranked 120)  
+Progressed: 13,666 (Ranked 120)  
 Completed: 5 (0.04%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -435,7 +435,7 @@ Completed: 5 (0.04%) (Ranked 236)
 | 2023-08-27 | 13,616 | 5 |
 | 2023-08-28 | 13,635 | 5 |
 | 2023-08-29 | 13,661 | 5 |
-| 2023-08-30 | 13,664 | 5 |
+| 2023-08-30 | 13,666 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,799 (Ranked 207)  

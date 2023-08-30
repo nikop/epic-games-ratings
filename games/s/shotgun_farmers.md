@@ -37,9 +37,9 @@
 | Quadsparagus | 9.00% | ~20 |
 | Bring Home The Bacon | 8.00% | ~22 |
 | Pyromaniac | 6.00% | ~13 |
+| Chick Magnet | 5.00% | ~14 |
 | I Have The High Ground | 5.00% | ~14 |
 | Early Bird | 5.00% | ~14 |
-| Chick Magnet | 4.00% | ~11 |
 | Master Survivor | 3.00% | ~7 |
 | Heart Breaker | 3.00% | ~7 |
 | 15 Days | 2.00% | ~5 |

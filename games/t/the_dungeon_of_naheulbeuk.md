@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 26.00% | ~56,964 |
+| Sowwy! | 26.00% | ~56,969 |
 | Where's that freaking Dwarf? | 3.00% | ~6,573 |
 | Alt+F4 | 3.00% | ~6,573 |
 | Déjà vu | 2.00% | ~4,382 |
@@ -22,11 +22,11 @@ Number of Ratings: 118  (23.09.2022)
 | The demons' feast | 0.90% | ~1,972 |
 | The Great Library | 0.90% | ~1,972 |
 | Torture and Sensibility | 0.90% | ~1,972 |
+| Urik's Depths | 0.90% | ~1,972 |
 | The Woman in the High Castle | 0.90% | ~1,972 |
 | Team Building Exercise | 0.90% | ~1,972 |
 | Oh, when I'll be level 10... | 0.90% | ~1,972 |
 | Shiny and Crôm | 0.80% | ~1,753 |
-| Urik's Depths | 0.80% | ~1,753 |
 | The Dungeon Master | 0.80% | ~1,753 |
 | The Statuette of Gladeulfeurah | 0.80% | ~1,753 |
 | A tale of adventurers not quite like the others... | 0.80% | ~1,753 |
@@ -39,8 +39,8 @@ Number of Ratings: 118  (23.09.2022)
 | The Famous Dungeon of Naheulbeuk | 0.60% | ~1,315 |
 | Dwarf Fortress | 0.60% | ~1,315 |
 | Look but don't touch | 0.60% | ~1,315 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.50% | ~1,095 |
-| Lust and Debauchery | 0.50% | ~1,095 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.50% | ~1,096 |
+| Lust and Debauchery | 0.50% | ~1,096 |
 | Dead for good | 0.40% | ~876 |
 | Gargantua | 0.40% | ~876 |
 | Material Girl | 0.40% | ~876 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~219 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,092 (Ranked 57)  
+Progressed: 219,111 (Ranked 57)  
 Completed: 2 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,7 +186,7 @@ Completed: 2 (0.00%) (Ranked 266)
 | 2023-08-27 | 218,331 | 2 |
 | 2023-08-28 | 218,694 | 2 |
 | 2023-08-29 | 219,078 | 2 |
-| 2023-08-30 | 219,092 | 2 |
+| 2023-08-30 | 219,111 | 2 |
 ## Awards
 Max (Character Customization): 182  (Ranked 281)  
 Sum: 228 (Ranked 360)  

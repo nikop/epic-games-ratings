@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 32,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -8445,9 +8445,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 47929,
+  "EOS_Progressed": 47930,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 342,
+  "EOS_NewPlayers": 340,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -20235,6 +20235,11 @@
       "Time": "2023-08-30T00:04:14.6963335+00:00",
       "NumProgressed": 47929,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-08-30T01:44:18.046822+00:00",
+      "NumProgressed": 47930,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -20246,7 +20251,7 @@
       "Name": "Clucky Streak",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 7189
+      "UsersEstimate": 7190
     },
     {
       "ID": "BreedCows",
@@ -20334,7 +20339,7 @@
       "Name": "You wood not believe it",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 10544
+      "UsersEstimate": 10545
     },
     {
       "ID": "CutTreeFirst",
@@ -20382,7 +20387,7 @@
       "Name": "Plant get enough",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 28757
+      "UsersEstimate": 28758
     },
     {
       "ID": "Harvested",
@@ -20398,7 +20403,7 @@
       "Name": "Own use",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 35947
+      "UsersEstimate": 35948
     },
     {
       "ID": "HorseJumps",
@@ -20430,7 +20435,7 @@
       "Name": "It\u0027s never too late to farm",
       "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 23485
+      "UsersEstimate": 23486
     },
     {
       "ID": "Mission",
@@ -20454,7 +20459,7 @@
       "Name": "Hard work pays off",
       "Percentage": 53,
       "XP": 55,
-      "UsersEstimate": 25402
+      "UsersEstimate": 25403
     },
     {
       "ID": "NumBeehives",
@@ -20494,7 +20499,7 @@
       "Name": "Vehicle fleet",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 10544
+      "UsersEstimate": 10545
     },
     {
       "ID": "NumVehiclesSmall",
@@ -20518,7 +20523,7 @@
       "Name": "It\u0027s just the beginning",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 28278
+      "UsersEstimate": 28279
     },
     {
       "ID": "Sow",
@@ -20534,7 +20539,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 30195
+      "UsersEstimate": 30196
     },
     {
       "ID": "Stones",
@@ -20542,7 +20547,7 @@
       "Name": "Rock on",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5751
+      "UsersEstimate": 5752
     },
     {
       "ID": "TractorDriving",
@@ -20550,7 +20555,7 @@
       "Name": "Field Trip",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 20609
+      "UsersEstimate": 20610
     },
     {
       "ID": "TruckDriving",
@@ -20582,22 +20587,22 @@
       "Name": "That\u0027s a wrap",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 7189
+      "UsersEstimate": 7190
     }
   ],
   "AchievementSets": [
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 47929,
+      "Progressed": 47930,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-08-29T23:58:47.6011943+00:00",
-  "LastChanged_Achievements": "2023-08-30T00:04:14.6963328+00:00",
+  "LastChanged_Achievements": "2023-08-30T01:44:18.0468216+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:11.3662748+00:00",
-  "LastUpdate_Ratings": "2023-08-29T23:58:47.6011951+00:00",
-  "LastUpdate_Achievements": "2023-08-30T00:04:14.6965087+00:00"
+  "LastUpdate_Ratings": "2023-08-30T01:38:44.7505172+00:00",
+  "LastUpdate_Achievements": "2023-08-30T01:44:18.0469039+00:00"
 }

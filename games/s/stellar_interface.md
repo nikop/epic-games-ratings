@@ -46,6 +46,7 @@
 | Omicron Beta | 5.00% | ~3 |
 | No Peace | 5.00% | ~3 |
 | Bird of Prey | 5.00% | ~3 |
+| Food Poisoning | 5.00% | ~3 |
 | Wicked Sick | 5.00% | ~3 |
 | Usurper II | 5.00% | ~3 |
 | 50Gb HDD | 5.00% | ~3 |
@@ -56,13 +57,13 @@
 | Curious | 3.00% | ~2 |
 | Pilgrim | 3.00% | ~2 |
 | Diligent | 3.00% | ~2 |
-| Food Poisoning | 3.00% | ~2 |
 | Silver Pest Control | 3.00% | ~2 |
 | Mysterious Skin | 3.00% | ~2 |
 | Beetle | 3.00% | ~2 |
 | Anger Management | 3.00% | ~2 |
 | Almost There II | 3.00% | ~2 |
 | Revenge | 2.00% | ~1 |
+| Bronze Alchemist | 2.00% | ~1 |
 | Galactic Ensign | 2.00% | ~1 |
 | Golden Foundation | 2.00% | ~1 |
 | Sectoral Admiral | 2.00% | ~1 |
@@ -75,7 +76,6 @@
 | Providence | 0.00% | ~0 |
 | Bronze Tovarish | 0.00% | ~0 |
 | Archer's Bronze Fate | 0.00% | ~0 |
-| Bronze Alchemist | 0.00% | ~0 |
 | Magic Bronze mirror; on the wall | 0.00% | ~0 |
 | Universal Ensign | 0.00% | ~0 |
 | Rambo VI | 0.00% | ~0 |

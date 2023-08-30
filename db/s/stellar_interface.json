@@ -4,8 +4,8 @@
   "ProductSlug": "stellar-interface-d14cc4",
   "Ranking_EOS_Progress": 367,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 339,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 338,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-03-30T00:00:00+00:00",
     "PcReleaseDate": "2016-11-21T00:00:00+00:00",
@@ -373,9 +373,9 @@
       "ID": "BronzeHomunculusBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Bronze Alchemist",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BronzeMirrorBossDefeatedAchievement",
@@ -733,9 +733,9 @@
       "ID": "FlamethrowerDiarrheaAchievement",
       "SetID": "a8djcgh",
       "Name": "Food Poisoning",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Fly1HourInAllSpacecraftsAchievement",
@@ -1388,8 +1388,8 @@
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-08-30T00:04:44.7205232+00:00",
+  "LastChanged_Achievements": "2023-08-30T01:44:43.5456398+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:41.6007938+00:00",
-  "LastUpdate_Ratings": "2023-08-29T23:57:38.7969175+00:00",
-  "LastUpdate_Achievements": "2023-08-30T00:04:44.7207508+00:00"
+  "LastUpdate_Ratings": "2023-08-30T01:37:49.62527+00:00",
+  "LastUpdate_Achievements": "2023-08-30T01:44:43.5458004+00:00"
 }

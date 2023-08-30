@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 112,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 543,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.29,
   "EosHistory": [
@@ -1204,9 +1204,9 @@
       "ID": "_02_FinishFirstMission",
       "SetID": "8a1io5d",
       "Name": "A New Journey",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 391
+      "UsersEstimate": 396
     },
     {
       "ID": "_03_FinishAct1",
@@ -1316,9 +1316,9 @@
       "ID": "_16_UnlockCore8Characters",
       "SetID": "8a1io5d",
       "Name": "Pirates Assemble!",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 98
+      "UsersEstimate": 103
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -1411,8 +1411,8 @@
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-30T00:05:33.8707732+00:00",
+  "LastChanged_Achievements": "2023-08-30T01:45:24.3956685+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:45.1302228+00:00",
-  "LastUpdate_Ratings": "2023-08-30T00:01:17.2056555+00:00",
-  "LastUpdate_Achievements": "2023-08-30T00:05:33.8708173+00:00"
+  "LastUpdate_Ratings": "2023-08-30T01:40:44.7706954+00:00",
+  "LastUpdate_Achievements": "2023-08-30T01:45:24.3956898+00:00"
 }

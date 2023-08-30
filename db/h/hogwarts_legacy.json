@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -6844,10 +6844,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 41726,
       "NumberOfAwardsMax": 22003
+    },
+    {
+      "Time": "2023-08-30T01:40:16.0509411+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 41741,
+      "NumberOfAwardsMax": 22003
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 41726,
+  "NumberOfAwards": 41741,
   "NumberOfAwardsMax": 22003,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6861,7 +6867,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 10716
+      "Count": 10731
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -6924,9 +6930,9 @@
       "Count": 606
     }
   ],
-  "EOS_Progressed": 291060,
+  "EOS_Progressed": 291063,
   "EOS_Completed": 458,
-  "EOS_NewPlayers": 427,
+  "EOS_NewPlayers": 428,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -21064,6 +21070,11 @@
       "Time": "2023-08-30T00:04:13.0998494+00:00",
       "NumProgressed": 291060,
       "NumCompleted": 458
+    },
+    {
+      "Time": "2023-08-30T01:44:16.7192503+00:00",
+      "NumProgressed": 291063,
+      "NumCompleted": 458
     }
   ],
   "TotalAchievements": 45,
@@ -21083,7 +21094,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26195
+      "UsersEstimate": 26196
     },
     {
       "ID": "PFA_11",
@@ -21107,7 +21118,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 26195
+      "UsersEstimate": 26196
     },
     {
       "ID": "PFA_14",
@@ -21163,7 +21174,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11642
+      "UsersEstimate": 11643
     },
     {
       "ID": "PFA_20",
@@ -21179,7 +21190,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26195
+      "UsersEstimate": 26196
     },
     {
       "ID": "PFA_22",
@@ -21203,7 +21214,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26195
+      "UsersEstimate": 26196
     },
     {
       "ID": "PFA_25",
@@ -21227,7 +21238,7 @@
       "Name": "Going Through the Potions",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11642
+      "UsersEstimate": 11643
     },
     {
       "ID": "PFA_28",
@@ -21275,7 +21286,7 @@
       "Name": "Room with a View",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11642
+      "UsersEstimate": 11643
     },
     {
       "ID": "PFA_33",
@@ -21283,7 +21294,7 @@
       "Name": "Spilled Milk",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 2328
+      "UsersEstimate": 2329
     },
     {
       "ID": "PFA_34",
@@ -21323,7 +21334,7 @@
       "Name": "The Intrepid Explorer",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 11642
+      "UsersEstimate": 11643
     },
     {
       "ID": "PFA_39",
@@ -21339,7 +21350,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11642
+      "UsersEstimate": 11643
     },
     {
       "ID": "PFA_40",
@@ -21355,7 +21366,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11642
+      "UsersEstimate": 11643
     },
     {
       "ID": "PFA_42",
@@ -21434,16 +21445,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 291060,
+      "Progressed": 291063,
       "Completed": 458
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-08-30T00:00:41.4154069+00:00",
-  "LastChanged_Achievements": "2023-08-30T00:04:13.0998489+00:00",
+  "LastChanged": "2023-08-30T01:40:16.0509409+00:00",
+  "LastChanged_Achievements": "2023-08-30T01:44:16.7192497+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:27.4425386+00:00",
-  "LastUpdate_Ratings": "2023-08-30T00:00:41.4154077+00:00",
-  "LastUpdate_Achievements": "2023-08-30T00:04:13.1000634+00:00"
+  "LastUpdate_Ratings": "2023-08-30T01:40:16.0509414+00:00",
+  "LastUpdate_Achievements": "2023-08-30T01:44:16.7193451+00:00"
 }

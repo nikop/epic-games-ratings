@@ -5,12 +5,12 @@ Rating: 4.04 (Ranked 932)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,737 |
-| World Map | 79.00% | ~1,476 |
-| Temple of Eternals | 57.00% | ~1,065 |
-| Prestigious | 53.00% | ~990 |
-| Fellowship Power | 41.00% | ~766 |
-| Guild Power | 25.00% | ~467 |
+| Victor | 93.00% | ~1,739 |
+| World Map | 79.00% | ~1,477 |
+| Temple of Eternals | 57.00% | ~1,066 |
+| Prestigious | 53.00% | ~991 |
+| Fellowship Power | 41.00% | ~767 |
+| Guild Power | 25.00% | ~468 |
 | Prestigious x10 | 22.00% | ~411 |
 | The game is on | 20.00% | ~374 |
 | Exotic Merchant | 19.00% | ~355 |
@@ -28,11 +28,11 @@ Rating: 4.04 (Ranked 932)
 | Superior | 13.00% | ~243 |
 | The Unstoppable | 13.00% | ~243 |
 | Scientist | 12.00% | ~224 |
-| Doing My Part | 11.00% | ~205 |
-| Hunter | 11.00% | ~205 |
-| Mastery | 11.00% | ~205 |
-| Relic Of The Past | 11.00% | ~205 |
-| The power of Awakening | 11.00% | ~205 |
+| Doing My Part | 11.00% | ~206 |
+| Hunter | 11.00% | ~206 |
+| Mastery | 11.00% | ~206 |
+| Relic Of The Past | 11.00% | ~206 |
+| The power of Awakening | 11.00% | ~206 |
 | Challenger | 10.00% | ~187 |
 | Daily Quest Completionist | 10.00% | ~187 |
 | Four Leaf Clover | 10.00% | ~187 |
@@ -42,8 +42,8 @@ Rating: 4.04 (Ranked 932)
 | Here We Go Again | 9.00% | ~168 |
 | Master Enchanter | 9.00% | ~168 |
 | The father of Dragons | 9.00% | ~168 |
-| Crystal Mining | 8.00% | ~149 |
-| Trader | 8.00% | ~149 |
+| Crystal Mining | 8.00% | ~150 |
+| Trader | 8.00% | ~150 |
 | Blueprint Upgrades | 7.00% | ~131 |
 | Dragon Slayer | 7.00% | ~131 |
 | Enchanting skill | 7.00% | ~131 |
@@ -56,9 +56,9 @@ Rating: 4.04 (Ranked 932)
 | Missions Dedication | 6.00% | ~112 |
 | Sailor | 6.00% | ~112 |
 | The Alchemist | 6.00% | ~112 |
-| Active Member | 5.00% | ~93 |
-| Background Story | 5.00% | ~93 |
-| Legendary | 5.00% | ~93 |
+| Active Member | 5.00% | ~94 |
+| Background Story | 5.00% | ~94 |
+| Legendary | 5.00% | ~94 |
 | Arena Challenger | 4.00% | ~75 |
 | Ebony Jungle Liberator | 4.00% | ~75 |
 | What lies behind the bush | 3.00% | ~56 |
@@ -81,7 +81,7 @@ Rating: 4.04 (Ranked 932)
 | Silverwood liberator | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,868 (Ranked 174)  
+Progressed: 1,870 (Ranked 174)  
 Completed: 2 (0.11%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,6 +212,7 @@ Completed: 2 (0.11%) (Ranked 211)
 | 2023-08-27 | 1,859 | 2 |
 | 2023-08-28 | 1,862 | 2 |
 | 2023-08-29 | 1,868 | 2 |
+| 2023-08-30 | 1,870 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

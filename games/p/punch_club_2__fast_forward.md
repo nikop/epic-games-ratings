@@ -36,14 +36,14 @@
 | Legal courier | 54.00% | ~153 |
 | Extreme neuropower! | 53.00% | ~150 |
 | Escaped from a big trouble | 51.00% | ~144 |
-| Now you are worthy | 48.00% | ~136 |
+| Now you are worthy | 49.00% | ~139 |
 | Guiding on the right path | 46.00% | ~130 |
 | Fight is life | 45.00% | ~127 |
 | Mysterious voice | 45.00% | ~127 |
 | No blades in the gym | 44.00% | ~125 |
-| Champion – no way back | 41.00% | ~116 |
+| Champion – no way back | 42.00% | ~119 |
+| Responsible approach | 41.00% | ~116 |
 | Underground dwellers | 40.00% | ~113 |
-| Responsible approach | 40.00% | ~113 |
 | Deal with life | 39.00% | ~110 |
 | GYM professional | 39.00% | ~110 |
 | Poisoned fighter | 39.00% | ~110 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -118,7 +118,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3995,
+  "EOS_Progressed": 3996,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
@@ -6278,6 +6278,11 @@
       "Time": "2023-08-30T00:07:51.3108959+00:00",
       "NumProgressed": 3995,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-30T01:47:19.7594669+00:00",
+      "NumProgressed": 3996,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 71,
@@ -6289,7 +6294,7 @@
       "Name": "Start with a bang!",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "Ach002",
@@ -6465,7 +6470,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "Ach024",
@@ -6657,7 +6662,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "Ach048",
@@ -6689,7 +6694,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "Ach052",
@@ -6856,13 +6861,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3995,
+      "Progressed": 3996,
       "Completed": 7
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2516,
+      "Progressed": 2517,
       "Completed": 1929
     }
   ],
@@ -6870,8 +6875,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-08-10T23:00:09.4128826+00:00",
-  "LastChanged_Achievements": "2023-08-30T00:07:51.3108955+00:00",
+  "LastChanged_Achievements": "2023-08-30T01:47:19.759466+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:23.6936946+00:00",
-  "LastUpdate_Ratings": "2023-08-29T23:57:35.9227085+00:00",
-  "LastUpdate_Achievements": "2023-08-30T00:07:51.3110195+00:00"
+  "LastUpdate_Ratings": "2023-08-30T01:37:47.1582348+00:00",
+  "LastUpdate_Achievements": "2023-08-30T01:47:19.759554+00:00"
 }

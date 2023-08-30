@@ -6,9 +6,11 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 0.20% | ~1,656 |
-| Terror of LV-426 | 0.20% | ~1,656 |
-| MU/TH/UR Dearest | 0.20% | ~1,656 |
+| Zealous | 0.20% | ~1,657 |
+| It wakes | 0.20% | ~1,657 |
+| Skillful | 0.20% | ~1,657 |
+| Terror of LV-426 | 0.20% | ~1,657 |
+| MU/TH/UR Dearest | 0.20% | ~1,657 |
 | The Grand Sacrifice | 0.10% | ~828 |
 | A bite for the Entity | 0.10% | ~828 |
 | A feast for the Entity | 0.10% | ~828 |
@@ -30,7 +32,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Nerves of steel | 0.10% | ~828 |
 | Perfect Escape | 0.10% | ~828 |
 | Perfect Killing | 0.10% | ~828 |
-| Zealous | 0.10% | ~828 |
 | Not half bad | 0.10% | ~828 |
 | Bloody Millionaire | 0.10% | ~828 |
 | Gifts for the Fog | 0.10% | ~828 |
@@ -46,7 +47,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Trapper | 0.10% | ~828 |
 | Adept Wraith | 0.10% | ~828 |
 | Adept Hillbilly | 0.10% | ~828 |
-| Skillful | 0.10% | ~828 |
 | I | 0.10% | ~828 |
 | II | 0.10% | ~828 |
 | III | 0.10% | ~828 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Disarm and Dismember | 0.00% | ~0 |
 | Kitted Out | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 828,140 (Ranked 15)  
+Progressed: 828,331 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -368,7 +368,7 @@ Completed: 48 (0.01%) (Ranked 253)
 | 2023-08-27 | 822,167 | 48 |
 | 2023-08-28 | 824,988 | 48 |
 | 2023-08-29 | 828,020 | 48 |
-| 2023-08-30 | 828,140 | 48 |
+| 2023-08-30 | 828,331 | 48 |
 ## Awards
 Max (Diverse Characters): 31,566  (Ranked 15)  
 Sum: 248,001 (Ranked 11)  

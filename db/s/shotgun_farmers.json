@@ -4,8 +4,8 @@
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -1180,9 +1180,9 @@
       "ID": "ach_all_points_in_chicken_run",
       "SetID": "cmg602e",
       "Name": "Chick Magnet",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 14
     },
     {
       "ID": "ach_crushed_by_supply_drop",
@@ -1779,8 +1779,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-08-30T00:04:55.0801141+00:00",
+  "LastChanged_Achievements": "2023-08-30T01:44:51.916639+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:02.2550756+00:00",
-  "LastUpdate_Ratings": "2023-08-29T23:57:29.106755+00:00",
-  "LastUpdate_Achievements": "2023-08-30T00:04:55.0802391+00:00"
+  "LastUpdate_Ratings": "2023-08-30T01:37:41.7056774+00:00",
+  "LastUpdate_Achievements": "2023-08-30T01:44:51.916715+00:00"
 }

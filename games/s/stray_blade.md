@@ -41,6 +41,7 @@
 | Wizard | 2.00% | ~1 |
 | Bookworm | 2.00% | ~1 |
 | Globetrotter | 2.00% | ~1 |
+| A Deceiving Gift | 2.00% | ~1 |
 | Unveiling the Truth | 2.00% | ~1 |
 | Style over Stats | 0.00% | ~0 |
 | Collector | 0.00% | ~0 |
@@ -48,7 +49,6 @@
 | Fashionista | 0.00% | ~0 |
 | Trailblazer | 0.00% | ~0 |
 | Wayseeker | 0.00% | ~0 |
-| A Deceiving Gift | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 55 (Ranked 373)  

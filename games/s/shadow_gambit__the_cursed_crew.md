@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 72.00% | ~391 |
+| A New Journey | 73.00% | ~396 |
 | The Adventure Begins | 55.00% | ~299 |
 | Swabbie | 40.00% | ~217 |
 | With Great Power… | 39.00% | ~212 |
@@ -13,9 +13,9 @@
 | Powder Monkey | 27.00% | ~147 |
 | Somewhere Deep in the Lost Caribbean | 22.00% | ~119 |
 | Mirror Mirror on the Wall | 21.00% | ~114 |
+| Pirates Assemble! | 19.00% | ~103 |
 | Fishy Fish | 19.00% | ~103 |
 | Buccaneer | 18.00% | ~98 |
-| Pirates Assemble! | 18.00% | ~98 |
 | Persistent Parasite | 13.00% | ~71 |
 | Seadog | 12.00% | ~65 |
 | All Good Things | 10.00% | ~54 |

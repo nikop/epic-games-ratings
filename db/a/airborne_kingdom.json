@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -319,11 +319,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7114,
+  "EOS_Progressed": 7115,
   "EOS_Completed": 53,
   "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.75,
+  "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:43.6429949+00:00",
@@ -3984,6 +3984,11 @@
       "Time": "2023-08-29T23:06:46.6568792+00:00",
       "NumProgressed": 7114,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-08-30T01:45:57.0415056+00:00",
+      "NumProgressed": 7115,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 27,
@@ -4027,7 +4032,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3770
+      "UsersEstimate": 3771
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -4051,7 +4056,7 @@
       "Name": "Irons Scorched",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1778
+      "UsersEstimate": 1779
     },
     {
       "ID": "AK_ISLANDS_RECONNECTED",
@@ -4059,7 +4064,7 @@
       "Name": "Islands Connected",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1778
+      "UsersEstimate": 1779
     },
     {
       "ID": "AK_KNOWLEDGE_SEEKER",
@@ -4210,15 +4215,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7114,
+      "Progressed": 7115,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-08-27T09:59:24.0528306+00:00",
-  "LastChanged_Achievements": "2023-08-30T00:06:11.4303082+00:00",
+  "LastChanged_Achievements": "2023-08-30T01:45:57.041505+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:32.8394394+00:00",
-  "LastUpdate_Ratings": "2023-08-30T00:00:46.5888232+00:00",
-  "LastUpdate_Achievements": "2023-08-30T00:06:11.4304082+00:00"
+  "LastUpdate_Ratings": "2023-08-30T01:40:20.2711938+00:00",
+  "LastUpdate_Achievements": "2023-08-30T01:45:57.0415391+00:00"
 }

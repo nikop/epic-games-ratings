@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 296,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
     "PcReleaseDate": "2022-09-19T00:00:00+00:00",
@@ -1264,9 +1264,9 @@
       "ID": "achPolice",
       "SetID": "72gjli4",
       "Name": "Police officers \u2714",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 67
     },
     {
       "ID": "achPriest",
@@ -1344,9 +1344,9 @@
       "ID": "achTransform",
       "SetID": "72gjli4",
       "Name": "Mutation \u2714",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 60
     },
     {
       "ID": "achVip",
@@ -1401,8 +1401,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-08-30T00:04:17.8782973+00:00",
+  "LastChanged_Achievements": "2023-08-30T01:44:20.7841258+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:11.0209826+00:00",
-  "LastUpdate_Ratings": "2023-08-29T23:59:21.7006105+00:00",
-  "LastUpdate_Achievements": "2023-08-30T00:04:17.8783868+00:00"
+  "LastUpdate_Ratings": "2023-08-30T01:39:11.9946596+00:00",
+  "LastUpdate_Achievements": "2023-08-30T01:44:20.7841723+00:00"
 }

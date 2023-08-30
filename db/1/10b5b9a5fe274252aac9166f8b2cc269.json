@@ -2,9 +2,9 @@
   "ID": "10b5b9a5fe274252aac9166f8b2cc269",
   "Name": "Dark Fantasy Jigsaw Puzzle",
   "ProductSlug": "dark-fantasy-jigsaw-puzzle-12769c",
-  "Ranking_EOS_Progress": 350,
+  "Ranking_EOS_Progress": 349,
   "Ranking_EOS_Completed": 4,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2023-08-04T03:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 80,
+  "EOS_Progressed": 82,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 36.25,
+  "EOS_Completed_Percentage": 35.37,
   "EosHistory": [
     {
       "Time": "2023-07-28T07:04:19.3346272+00:00",
@@ -471,6 +471,11 @@
       "Time": "2023-08-30T00:06:56.7633085+00:00",
       "NumProgressed": 80,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-08-30T01:46:34.8379307+00:00",
+      "NumProgressed": 82,
+      "NumCompleted": 29
     }
   ],
   "AchievementsAdded": "2023-07-20T07:01:56.8501718+00:00",
@@ -481,15 +486,15 @@
       "ID": "PORTRAIT_1",
       "SetID": "2fge00i",
       "Name": "Portrait 1",
-      "Percentage": 99,
+      "Percentage": 98,
       "XP": 50,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "PORTRAIT_10",
       "SetID": "2fge00i",
       "Name": "Portrait 1",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 50,
       "UsersEstimate": 39
     },
@@ -497,7 +502,7 @@
       "ID": "PORTRAIT_11",
       "SetID": "2fge00i",
       "Name": "Portrait 11",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 50,
       "UsersEstimate": 36
     },
@@ -505,7 +510,7 @@
       "ID": "PORTRAIT_12",
       "SetID": "2fge00i",
       "Name": "Portrait 12",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 50,
       "UsersEstimate": 36
     },
@@ -513,7 +518,7 @@
       "ID": "PORTRAIT_13",
       "SetID": "2fge00i",
       "Name": "Portrait 13",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 50,
       "UsersEstimate": 35
     },
@@ -521,7 +526,7 @@
       "ID": "PORTRAIT_14",
       "SetID": "2fge00i",
       "Name": "Portrait 14",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 50,
       "UsersEstimate": 32
     },
@@ -529,7 +534,7 @@
       "ID": "PORTRAIT_15",
       "SetID": "2fge00i",
       "Name": "Portrait 15",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 50,
       "UsersEstimate": 32
     },
@@ -537,7 +542,7 @@
       "ID": "PORTRAIT_16",
       "SetID": "2fge00i",
       "Name": "Portrait 16",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 50,
       "UsersEstimate": 30
     },
@@ -545,7 +550,7 @@
       "ID": "PORTRAIT_17",
       "SetID": "2fge00i",
       "Name": "Portrait 17",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 50,
       "UsersEstimate": 30
     },
@@ -553,7 +558,7 @@
       "ID": "PORTRAIT_18",
       "SetID": "2fge00i",
       "Name": "Portrait 18",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 50,
       "UsersEstimate": 30
     },
@@ -561,7 +566,7 @@
       "ID": "PORTRAIT_19",
       "SetID": "2fge00i",
       "Name": "Portrait 19",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 50,
       "UsersEstimate": 29
     },
@@ -569,7 +574,7 @@
       "ID": "PORTRAIT_2",
       "SetID": "2fge00i",
       "Name": "Portrait 2",
-      "Percentage": 90,
+      "Percentage": 88,
       "XP": 50,
       "UsersEstimate": 72
     },
@@ -577,7 +582,7 @@
       "ID": "PORTRAIT_20",
       "SetID": "2fge00i",
       "Name": "Portrait 20",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 50,
       "UsersEstimate": 29
     },
@@ -585,7 +590,7 @@
       "ID": "PORTRAIT_3",
       "SetID": "2fge00i",
       "Name": "Portrait 3",
-      "Percentage": 78,
+      "Percentage": 76,
       "XP": 50,
       "UsersEstimate": 62
     },
@@ -593,7 +598,7 @@
       "ID": "PORTRAIT_4",
       "SetID": "2fge00i",
       "Name": "Portrait 4",
-      "Percentage": 73,
+      "Percentage": 71,
       "XP": 50,
       "UsersEstimate": 58
     },
@@ -601,7 +606,7 @@
       "ID": "PORTRAIT_5",
       "SetID": "2fge00i",
       "Name": "Portrait 5",
-      "Percentage": 70,
+      "Percentage": 68,
       "XP": 50,
       "UsersEstimate": 56
     },
@@ -611,13 +616,13 @@
       "Name": "Portrait 6",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "PORTRAIT_7",
       "SetID": "2fge00i",
       "Name": "Portrait 7",
-      "Percentage": 53,
+      "Percentage": 51,
       "XP": 50,
       "UsersEstimate": 42
     },
@@ -625,7 +630,7 @@
       "ID": "PORTRAIT_8",
       "SetID": "2fge00i",
       "Name": "Portrait 8",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 50,
       "UsersEstimate": 41
     },
@@ -633,7 +638,7 @@
       "ID": "PORTRAIT_9",
       "SetID": "2fge00i",
       "Name": "Portrait 9",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 50,
       "UsersEstimate": 41
     }
@@ -642,14 +647,14 @@
     {
       "ID": "2fge00i",
       "IsBase": true,
-      "Progressed": 80,
+      "Progressed": 82,
       "Completed": 29
     }
   ],
   "FirstSeen": "2023-07-29T16:57:06.8916907+00:00",
   "FirstSeenAchievements": "2023-07-20T07:01:56.8501716+00:00",
-  "LastChanged_Achievements": "2023-08-30T00:06:56.763308+00:00",
+  "LastChanged_Achievements": "2023-08-30T01:46:34.8379299+00:00",
   "LastUpdate_AppInfo": "2023-08-24T08:56:53.0195566+00:00",
-  "LastUpdate_Ratings": "2023-08-29T23:59:58.3253033+00:00",
-  "LastUpdate_Achievements": "2023-08-30T00:06:56.7633284+00:00"
+  "LastUpdate_Ratings": "2023-08-30T01:39:41.5686668+00:00",
+  "LastUpdate_Achievements": "2023-08-30T01:46:34.8379432+00:00"
 }

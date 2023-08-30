@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 75,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -19,7 +19,7 @@
   "Tags": [],
   "EOS_Progressed": 560,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 556,
+  "EOS_NewPlayers": 555,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -643,9 +643,9 @@
       "ID": "AC02",
       "SetID": "l4abp0",
       "Name": "Blood and Dust",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 336
+      "UsersEstimate": 342
     },
     {
       "ID": "AC03",
@@ -667,25 +667,25 @@
       "ID": "AC05",
       "SetID": "l4abp0",
       "Name": "The Sharpest Tool in the Shed",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 263
+      "UsersEstimate": 269
     },
     {
       "ID": "AC06",
       "SetID": "l4abp0",
       "Name": "The Last Ascension",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 196
+      "UsersEstimate": 202
     },
     {
       "ID": "AC07",
       "SetID": "l4abp0",
       "Name": "The Sea dies on the Shore",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 179
+      "UsersEstimate": 185
     },
     {
       "ID": "AC08",
@@ -787,9 +787,9 @@
       "ID": "AC20",
       "SetID": "l4abp0",
       "Name": "Still Among Us",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 39
     },
     {
       "ID": "AC21",
@@ -803,9 +803,9 @@
       "ID": "AC22",
       "SetID": "l4abp0",
       "Name": "Empty Handed",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 106
+      "UsersEstimate": 112
     },
     {
       "ID": "AC23",
@@ -827,9 +827,9 @@
       "ID": "AC25",
       "SetID": "l4abp0",
       "Name": "House of Grief and Hatred",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 118
+      "UsersEstimate": 123
     },
     {
       "ID": "AC26",
@@ -1002,8 +1002,8 @@
   ],
   "FirstSeen": "2023-07-26T07:57:19.1818171+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
-  "LastChanged_Achievements": "2023-08-30T00:06:08.9885879+00:00",
+  "LastChanged_Achievements": "2023-08-30T01:45:54.6499039+00:00",
   "LastUpdate_AppInfo": "2023-08-29T18:57:21.35462+00:00",
-  "LastUpdate_Ratings": "2023-08-29T23:59:49.9145552+00:00",
-  "LastUpdate_Achievements": "2023-08-30T00:06:08.9886329+00:00"
+  "LastUpdate_Ratings": "2023-08-30T01:39:34.9451926+00:00",
+  "LastUpdate_Achievements": "2023-08-30T01:45:54.6499378+00:00"
 }

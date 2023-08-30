@@ -6,19 +6,19 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 78.00% | ~4,209 |
-| Hey Good Hookin | 68.00% | ~3,669 |
-| I'm on a Boat! | 58.00% | ~3,130 |
-| Can you smell what the Rod is Hooking | 53.00% | ~2,860 |
-| Scaling up | 53.00% | ~2,860 |
-| More Fish in the Sea | 46.00% | ~2,482 |
-| Ready to Rod and Roll | 44.00% | ~2,374 |
-| Fish Out of Water | 33.00% | ~1,781 |
-| License to Gill | 32.00% | ~1,727 |
-| Things that go Splash in the Night | 29.00% | ~1,565 |
-| Goldfish? | 27.00% | ~1,457 |
-| Going for Gold | 24.00% | ~1,295 |
-| I'm Hooked! | 18.00% | ~971 |
+| Fish Just Got Reel | 78.00% | ~4,212 |
+| Hey Good Hookin | 68.00% | ~3,672 |
+| I'm on a Boat! | 58.00% | ~3,132 |
+| Can you smell what the Rod is Hooking | 53.00% | ~2,862 |
+| Scaling up | 53.00% | ~2,862 |
+| More Fish in the Sea | 46.00% | ~2,484 |
+| Ready to Rod and Roll | 44.00% | ~2,376 |
+| Fish Out of Water | 33.00% | ~1,782 |
+| License to Gill | 32.00% | ~1,728 |
+| Things that go Splash in the Night | 29.00% | ~1,566 |
+| Goldfish? | 27.00% | ~1,458 |
+| Going for Gold | 24.00% | ~1,296 |
+| I'm Hooked! | 18.00% | ~972 |
 | Diamond in the Rough | 12.00% | ~648 |
 | More than a Tourist | 11.00% | ~594 |
 | Hook, Line and Sinker | 7.00% | ~378 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.10% | ~5 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,396 (Ranked 142)  
+Progressed: 5,400 (Ranked 142)  
 Completed: 0 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,18 +174,18 @@ Completed: 0 (0.00%) (Ranked 266)
 | 2023-08-27 | 5,248 | 0 |
 | 2023-08-28 | 5,332 | 0 |
 | 2023-08-29 | 5,392 | 0 |
-| 2023-08-30 | 5,396 | 0 |
+| 2023-08-30 | 5,400 | 0 |
 ## Awards
 Max (Relaxing): 33  (Ranked 449)  
-Sum: 163 (Ranked 392)  
-Diff (max vs sum): 57  
+Sum: 164 (Ranked 390)  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 33 |
 | This game has Amazing Storytelling | 31 |
 | This game is Highly Recommended | 28 |
 | This game is Extremely Fun | 27 |
-| This game is Great for Beginners | 24 |
+| This game is Great for Beginners | 25 |
 | This game has Quickly Understood Controls | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -246,3 +246,4 @@ Diff (max vs sum): 57
 | 2023-08-20 | 4.15 | - | 33 | 161 |
 | 2023-08-23 | 4.16 | - | 33 | 163 |
 | 2023-08-28 | 4.15 | - | 33 | 163 |
+| 2023-08-30 | 4.15 | - | 33 | 164 |

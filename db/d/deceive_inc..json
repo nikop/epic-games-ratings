@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 253,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -232,7 +232,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17747,
+  "EOS_Progressed": 17748,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 0,
@@ -9357,6 +9357,11 @@
       "Time": "2023-08-30T00:07:12.4428977+00:00",
       "NumProgressed": 17747,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-30T01:46:47.4441847+00:00",
+      "NumProgressed": 17748,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -9424,7 +9429,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3194
+      "UsersEstimate": 3195
     },
     {
       "ID": "0009",
@@ -9502,9 +9507,9 @@
       "ID": "0018",
       "SetID": "2n2feee",
       "Name": "In It to Win It",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1775
+      "UsersEstimate": 1597
     },
     {
       "ID": "0019",
@@ -9552,7 +9557,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3904
+      "UsersEstimate": 3905
     },
     {
       "ID": "0025",
@@ -9560,7 +9565,7 @@
       "Name": "Tailor-Made",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3194
+      "UsersEstimate": 3195
     },
     {
       "ID": "0026",
@@ -9600,7 +9605,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3194
+      "UsersEstimate": 3195
     },
     {
       "ID": "0031",
@@ -9655,7 +9660,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17747,
+      "Progressed": 17748,
       "Completed": 1
     }
   ],
@@ -9663,8 +9668,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-27T03:58:40.60023+00:00",
-  "LastChanged_Achievements": "2023-08-30T00:07:12.4428971+00:00",
+  "LastChanged_Achievements": "2023-08-30T01:46:47.4441841+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:14.6586711+00:00",
-  "LastUpdate_Ratings": "2023-08-29T23:58:51.4485061+00:00",
-  "LastUpdate_Achievements": "2023-08-30T00:07:12.4430412+00:00"
+  "LastUpdate_Ratings": "2023-08-30T01:38:47.732348+00:00",
+  "LastUpdate_Achievements": "2023-08-30T01:46:47.4442515+00:00"
 }
