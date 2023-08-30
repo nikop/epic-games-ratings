@@ -18,9 +18,9 @@
 | 16 | [Island Cities](games/i/island_cities.md) | 18.63% |
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
 | 18 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.46% |
-| 19 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 14.29% |
-| 20 | [Anna's Quest](games/a/anna's_quest.md) | 13.51% |
-| 21 | [Remains](games/r/remains.md) | 12.50% |
+| 19 | [Anna's Quest](games/a/anna's_quest.md) | 13.51% |
+| 20 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 12.50% |
+| 20 | [Remains](games/r/remains.md) | 12.50% |
 | 22 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.13% |
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 11.36% |
 | 24 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
@@ -54,9 +54,9 @@
 | 52 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.17% |
 | 53 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.13% |
 | 54 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.81% |
-| 55 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 4.76% |
-| 56 | [Bugsnax](games/b/bugsnax.md) | 4.74% |
-| 57 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
+| 55 | [Bugsnax](games/b/bugsnax.md) | 4.74% |
+| 56 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
+| 57 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 4.55% |
 | 58 | [JARS](games/j/jars.md) | 4.48% |
 | 59 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.37% |
 | 60 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
@@ -89,7 +89,7 @@
 | 87 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.50% |
 | 87 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 89 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.38% |
-| 90 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.26% |
+| 90 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.25% |
 | 91 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.24% |
 | 92 | [Bloodshore](games/b/bloodshore.md) | 2.20% |
 | 93 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
