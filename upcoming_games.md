@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [GarbageGame](games/9/9a3d7a156a6f48b4820ba163ef684b12.md) | 2023-08-30 | - |  | - | - |
 | [ANXRacers - Drift Space](games/4/404af94cb14f43609c176f0e14fc7d68.md) | 2023-08-30 | - |  | - | - |
 | [CyberTitans](games/c/cf8c412fbb52453d83133933381e634d.md) | 2023-08-30 | - |  | - | - |
 | [ANVIL](games/4/45b0d6c6f02f4a9d885d8bbe10a442a7.md) | 2023-08-31 | - |  | - | - |
@@ -353,6 +352,7 @@
 | [LunarLux](games/l/lunarlux.md) | 2099-01-01 | - |  | - | - |
 | [Lysfanga: The Time Shift Warrior](games/4/4d7b7a63e2f4443bb29486d8f4db941b.md) | 2099-01-01 | - |  | - | - |
 | [Macabre](games/m/macabre.md) | 2099-01-01 | - |  | - | - |
+| [Maiden Cops](games/0/0a78a5cb65ab4aaa84a75188ac6eb765.md) | 2099-01-01 | - |  | - | - |
 | [March of Shrooms](games/m/march_of_shrooms.md) | 2099-01-01 | - |  | - | - |
 | [Mariachi Legends](games/b/b36b7a4e0cb940bda5e3cac83b0955f4.md) | 2099-01-01 | - |  | - | - |
 | [Max Beyond](games/0/0eab9a9677e141ac8c2551fc0d05fe11.md) | 2099-01-01 | - |  | - | - |
@@ -413,6 +413,7 @@
 | [Survive The Unknown](games/s/survive_the_unknown.md) | 2099-01-01 | - |  | - | - |
 | [Surviving The Humans ACT 1](games/s/surviving_the_humans_act_1.md) | 2099-01-01 | - |  | - | - |
 | [Swarm Grinder](games/9/9e20456aa9964c3287bda848105582e2.md) | 2099-01-01 | - |  | - | - |
+| [Sword and Fairy Inn 2](games/5/511787884bc344e080cf5ae502e8092d.md) | 2099-01-01 | - |  | - | - |
 | [Sword of the Spirit](games/s/sword_of_the_spirit.md) | 2099-01-01 | - |  | - | - |
 | [Tad the Lost Explorer](games/t/tad_the_lost_explorer.md) | 2099-01-01 | 27 (1,000 XP) | 1 | - | - |
 | [Tavernacle](games/t/tavernacle.md) | 2099-01-01 | - |  | - | - |
