@@ -11,7 +11,7 @@
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 76,663 | 4.62 | 352 |
 | 10 | [VALORANT](games/v/valorant.md) | 66,944 | 4.53 | 518 |
 | 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 60,505 | 4.58 | 428 |
-| 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 43,745 | 4.61 | 368 |
+| 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 43,805 | 4.61 | 368 |
 | 13 | [Destiny 2](games/d/destiny_2.md) | 36,740 | 4.49 | 582 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 36,602 | 4.74 | 146 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 31,677 | 4.52 | 530 |
@@ -192,9 +192,9 @@
 | 188 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 562 | 4.66 | 280 |
 | 191 | [Filament](games/f/filament.md) | 561 | 4.32 | 781 |
 | 192 | [MORDHAU](games/m/mordhau.md) | 560 | 4.39 | 716 |
-| 193 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 557 | 4.40 | 707 |
+| 193 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 559 | 4.40 | 707 |
 | 194 | [Vampyr](games/v/vampyr.md) | 555 | 4.32 | 781 |
-| 195 | [Godfall Ultimate Edition](games/g/godfall.md) | 540 | 4.07 | 926 |
+| 195 | [Godfall Ultimate Edition](games/g/godfall.md) | 541 | 4.07 | 926 |
 | 196 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 529 | 4.52 | 530 |
 | 197 | [Terraforming Mars](games/t/terraforming_mars.md) | 511 | 4.54 | 503 |
 | 198 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 495 | 4.86 | 31 |
@@ -248,7 +248,7 @@
 | 246 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 273 | 4.49 | 582 |
 | 247 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 271 | 4.57 | 450 |
 | 248 | [Sheltered](games/s/sheltered.md) | 270 | 4.42 | 676 |
-| 249 | [Severed Steel](games/s/severed_steel.md) | 266 | 4.69 | 218 |
+| 249 | [Severed Steel](games/s/severed_steel.md) | 267 | 4.69 | 218 |
 | 250 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 264 | 4.84 | 48 |
 | 251 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 258 | 4.58 | 428 |
 | 252 | [MudRunner](games/m/mudrunner.md) | 254 | 4.61 | 368 |

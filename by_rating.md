@@ -230,7 +230,7 @@
 | 218 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 0 | 514 |
 | 218 | [Revita](games/r/revita.md) | 4.69 | 0 | 514 |
 | 218 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,377 | 33 |
-| 218 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 266 | 249 |
+| 218 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 267 | 249 |
 | 218 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 27 | 471 |
 | 218 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.69 | 0 | 514 |
 | 218 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 0 | 514 |
@@ -374,7 +374,7 @@
 | 368 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 385 | 219 |
 | 368 | [Darkwood](games/d/darkwood.md) | 4.61 | 322 | 232 |
 | 368 | [Dead Space](games/d/dead_space.md) | 4.61 | 88 | 353 |
-| 368 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 43,745 | 12 |
+| 368 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 43,805 | 12 |
 | 368 | [GigaBash](games/g/gigabash.md) | 4.61 | 0 | 514 |
 | 368 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.61 | 38 | 428 |
 | 368 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,176 | 138 |
@@ -713,7 +713,7 @@
 | 707 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 444 | 206 |
 | 707 | [The Lion's Song](games/t/the_lion's_song.md) | 4.40 | 0 | 514 |
 | 707 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.40 | 145 | 301 |
-| 707 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.40 | 557 | 193 |
+| 707 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.40 | 559 | 193 |
 | 707 | [Train Valley 2](games/t/train_valley_2.md) | 4.40 | 491 | 199 |
 | 716 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.39 | 0 | 514 |
 | 716 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 1,017 | 144 |
@@ -925,7 +925,7 @@
 | 920 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 0 | 514 |
 | 920 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.08 | 0 | 514 |
 | 920 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 0 | 514 |
-| 926 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.07 | 540 | 195 |
+| 926 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.07 | 541 | 195 |
 | 926 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 181 | 282 |
 | 928 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.06 | 0 | 514 |
 | 928 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 5,205 | 68 |
