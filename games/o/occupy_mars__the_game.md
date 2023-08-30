@@ -8,8 +8,8 @@ Rating: 3.99 (Ranked 941)
 | I don't feel so good | 41.00% | ~636 |
 | Electrician | 33.00% | ~512 |
 | Fear my botany powers, Mars | 32.00% | ~496 |
-| Zero Waste | 29.00% | ~449 |
-| Bob The Builder | 29.00% | ~449 |
+| Zero Waste | 29.00% | ~450 |
+| Bob The Builder | 29.00% | ~450 |
 | I am the greatest botanist on this planet. | 28.00% | ~434 |
 | Occupy Mars! | 26.00% | ~403 |
 | Miner | 25.00% | ~388 |
@@ -23,16 +23,16 @@ Rating: 3.99 (Ranked 941)
 | DeDust | 5.00% | ~78 |
 | ITS crash site | 5.00% | ~78 |
 | “Aliens” | 4.00% | ~62 |
-| Plumber | 3.00% | ~46 |
-| To infinity and beyond! | 3.00% | ~46 |
+| Plumber | 3.00% | ~47 |
+| To infinity and beyond! | 3.00% | ~47 |
 | Driver's License | 2.00% | ~31 |
 | Hard Landing | 2.00% | ~31 |
 | Explosive Miner | 1.00% | ~16 |
 | Caveman | 1.00% | ~16 |
 | Rocket Jump | 1.00% | ~16 |
 | Thunderstruck | 0.90% | ~14 |
+| 5G Network | 0.80% | ~12 |
 | Planetary Defence | 0.80% | ~12 |
-| 5G Network | 0.70% | ~11 |
 | Bull’s eye | 0.50% | ~8 |
 | One does not simply... | 0.50% | ~8 |
 | Rover Mechanic | 0.50% | ~8 |
@@ -54,7 +54,7 @@ Rating: 3.99 (Ranked 941)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,550 (Ranked 184)  
+Progressed: 1,551 (Ranked 183)  
 Completed: 0 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,6 +167,7 @@ Completed: 0 (0.00%) (Ranked 266)
 | 2023-08-27 | 1,538 | 0 |
 | 2023-08-28 | 1,545 | 0 |
 | 2023-08-29 | 1,550 | 0 |
+| 2023-08-30 | 1,551 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

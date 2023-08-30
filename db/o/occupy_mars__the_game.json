@@ -5,9 +5,9 @@
   "Ranking_Rating": 941,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
-  "Ranking_EOS_Progress": 184,
+  "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -232,9 +232,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1550,
+  "EOS_Progressed": 1551,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3402,6 +3402,11 @@
       "Time": "2023-08-29T21:04:22.8087239+00:00",
       "NumProgressed": 1550,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-30T12:04:00.4733907+00:00",
+      "NumProgressed": 1551,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3493,15 +3498,15 @@
       "Name": "Zero Waste",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
       "SetID": "l546gc",
       "Name": "5G Network",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "NEW_ACHIEVEMENT_ALIENS",
@@ -3709,7 +3714,7 @@
       "Name": "Plumber",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "NEW_ACHIEVEMENT_ROADSTER",
@@ -3773,7 +3778,7 @@
       "Name": "Bob The Builder",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -3789,14 +3794,14 @@
       "Name": "To infinity and beyond!",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     }
   ],
   "AchievementSets": [
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1550,
+      "Progressed": 1551,
       "Completed": 0
     }
   ],
@@ -3804,8 +3809,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-08-28T18:01:28.2761395+00:00",
-  "LastChanged_Achievements": "2023-08-30T11:04:25.8423105+00:00",
+  "LastChanged_Achievements": "2023-08-30T12:04:00.4733901+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:32.8469898+00:00",
-  "LastUpdate_Ratings": "2023-08-30T11:01:20.7491158+00:00",
-  "LastUpdate_Achievements": "2023-08-30T11:04:25.8423741+00:00"
+  "LastUpdate_Ratings": "2023-08-30T11:59:41.143673+00:00",
+  "LastUpdate_Achievements": "2023-08-30T12:04:00.4734504+00:00"
 }

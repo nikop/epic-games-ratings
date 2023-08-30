@@ -9603,10 +9603,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 248386,
       "NumberOfAwardsMax": 31677
+    },
+    {
+      "Time": "2023-08-30T11:58:42.0800833+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 248434,
+      "NumberOfAwardsMax": 31677
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 248386,
+  "NumberOfAwards": 248434,
   "NumberOfAwardsMax": 31677,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -9638,7 +9644,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 27824
+      "Count": 27872
     },
     {
       "Text": "This game has Amazing Characters",
@@ -9677,9 +9683,9 @@
       "Count": 23843
     }
   ],
-  "EOS_Progressed": 829121,
+  "EOS_Progressed": 829277,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 20562,
+  "EOS_NewPlayers": 20611,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -24417,6 +24423,11 @@
       "Time": "2023-08-30T11:08:06.93147+00:00",
       "NumProgressed": 829121,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-08-30T12:06:36.4810248+00:00",
+      "NumProgressed": 829277,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 229,
@@ -24554,9 +24565,9 @@
       "ID": "ACH_017",
       "SetID": "bdmlp8o",
       "Name": "Medic",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 829
+      "UsersEstimate": 1659
     },
     {
       "ID": "ACH_018",
@@ -24564,7 +24575,7 @@
       "Name": "Handyman",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1659
     },
     {
       "ID": "ACH_019",
@@ -24596,7 +24607,7 @@
       "Name": "Zealous",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1659
     },
     {
       "ID": "ACH_023",
@@ -24604,7 +24615,7 @@
       "Name": "It wakes",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2487
+      "UsersEstimate": 2488
     },
     {
       "ID": "ACH_024",
@@ -24612,7 +24623,7 @@
       "Name": "Not half bad",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1659
     },
     {
       "ID": "ACH_025",
@@ -24636,7 +24647,7 @@
       "Name": "Apt Survivor",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1659
     },
     {
       "ID": "ACH_028",
@@ -24660,7 +24671,7 @@
       "Name": "Survival Treasures",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1659
     },
     {
       "ID": "ACH_031",
@@ -24730,9 +24741,9 @@
       "ID": "ACH_039",
       "SetID": "bdmlp8o",
       "Name": "Skillful",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1658
+      "UsersEstimate": 2488
     },
     {
       "ID": "ACH_040",
@@ -26196,7 +26207,7 @@
       "Name": "Make Some Noise",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1659
     },
     {
       "ID": "ACH_226",
@@ -26210,9 +26221,9 @@
       "ID": "ACH_227",
       "SetID": "16jml5b",
       "Name": "Terror of LV-426",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1658
+      "UsersEstimate": 2488
     },
     {
       "ID": "ACH_228",
@@ -26236,7 +26247,7 @@
       "Name": "MU/TH/UR Dearest",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2487
+      "UsersEstimate": 2488
     },
     {
       "ID": "ACH_231",
@@ -26259,21 +26270,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 829121,
+      "Progressed": 829277,
       "Completed": 40
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 829121,
+      "Progressed": 829277,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
-  "LastChanged": "2023-08-30T10:59:52.2232691+00:00",
-  "LastChanged_Achievements": "2023-08-30T11:08:06.9314691+00:00",
+  "LastChanged": "2023-08-30T11:58:42.0800831+00:00",
+  "LastChanged_Achievements": "2023-08-30T12:06:36.4810243+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:54.3324879+00:00",
-  "LastUpdate_Ratings": "2023-08-30T10:59:52.2232698+00:00",
-  "LastUpdate_Achievements": "2023-08-30T11:08:06.9321385+00:00"
+  "LastUpdate_Ratings": "2023-08-30T11:58:42.080084+00:00",
+  "LastUpdate_Achievements": "2023-08-30T12:06:36.4817585+00:00"
 }

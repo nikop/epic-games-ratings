@@ -6,19 +6,20 @@
 | ---- | ---------- | ----- |
 | The Ship | 20.00% | ~1 |
 | Seeking the truth | 20.00% | ~1 |
+| Little grey cells | 20.00% | ~1 |
 | Little ideas | 20.00% | ~1 |
 | The Gala | 20.00% | ~1 |
 | An old friend | 20.00% | ~1 |
+| A curious gathering | 20.00% | ~1 |
+| Arthur Hastings | 20.00% | ~1 |
 | Marc Allard | 20.00% | ~1 |
 | The Denouement | 0.00% | ~0 |
 | Well-travelled | 0.00% | ~0 |
 | Well-acquainted | 0.00% | ~0 |
-| Little grey cells | 0.00% | ~0 |
 | Everything matters | 0.00% | ~0 |
 | Truth from within | 0.00% | ~0 |
 | Order and method | 0.00% | ~0 |
 | A treasured heirloom | 0.00% | ~0 |
-| A curious gathering | 0.00% | ~0 |
 | An expert mediator | 0.00% | ~0 |
 | An odd series of events | 0.00% | ~0 |
 | A rude awakening | 0.00% | ~0 |
@@ -35,7 +36,6 @@
 | DI Hardwicke | 0.00% | ~0 |
 | Evelyn Lakshmi Warbeck | 0.00% | ~0 |
 | Florence Farquhar | 0.00% | ~0 |
-| Arthur Hastings | 0.00% | ~0 |
 | Horace Mountjoy | 0.00% | ~0 |
 | Irene Court-Smyth | 0.00% | ~0 |
 | The Investigation Begins | 0.00% | ~0 |
@@ -51,7 +51,7 @@
 | The Secrets | 0.00% | ~0 |
 | The Investigation Starts Anew | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5 (Ranked 476)  
+Progressed: 5 (Ranked 477)  
 Completed: 0 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |

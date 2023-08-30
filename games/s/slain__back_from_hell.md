@@ -18,24 +18,24 @@ Rating: 4.29 (Ranked 801)
 | Thorn in My Herbicide | 0.80% | ~284 |
 | Sure Footed As A Goat | 0.80% | ~284 |
 | Schadenfreude | 0.80% | ~284 |
-| Red In Tooth And Claw | 0.70% | ~248 |
-| Death Becomes Her | 0.70% | ~248 |
-| The Sky Is Falling | 0.70% | ~248 |
-| Hail the Great Horned Metal God! | 0.70% | ~248 |
-| That'll Come In Handy... | 0.70% | ~248 |
+| Red In Tooth And Claw | 0.70% | ~249 |
+| Death Becomes Her | 0.70% | ~249 |
+| The Sky Is Falling | 0.70% | ~249 |
+| Hail the Great Horned Metal God! | 0.70% | ~249 |
+| That'll Come In Handy... | 0.70% | ~249 |
 | Start As You Mean To Go On | 0.60% | ~213 |
 | Oh God, Mother! Blood! Blood! | 0.50% | ~178 |
 | Four Legged Friend | 0.40% | ~142 |
 | Ice To See You | 0.40% | ~142 |
 | Smack My Imp Up | 0.40% | ~142 |
-| Vroll With It | 0.30% | ~106 |
-| Swift of Foot, Keen of Blade | 0.30% | ~106 |
+| Vroll With It | 0.30% | ~107 |
+| Swift of Foot, Keen of Blade | 0.30% | ~107 |
 | Flame Retardant | 0.20% | ~71 |
 | Too Metal For Magic | 0.10% | ~36 |
 | Heart Of Steel | 0.10% | ~36 |
 | Death or Glory | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35,500 (Ranked 99)  
+Progressed: 35,501 (Ranked 99)  
 Completed: 22 (0.06%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 22 (0.06%) (Ranked 228)
 | 2023-08-27 | 35,327 | 22 |
 | 2023-08-28 | 35,401 | 22 |
 | 2023-08-29 | 35,468 | 22 |
-| 2023-08-30 | 35,500 | 22 |
+| 2023-08-30 | 35,501 | 22 |
 ## Awards
 Max (Great Boss Battles): 126  (Ranked 311)  
 Sum: 126 (Ranked 405)  

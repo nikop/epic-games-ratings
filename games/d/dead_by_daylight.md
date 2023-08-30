@@ -6,16 +6,17 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 0.30% | ~2,487 |
-| MU/TH/UR Dearest | 0.30% | ~2,487 |
-| Handyman | 0.20% | ~1,658 |
-| Zealous | 0.20% | ~1,658 |
-| Not half bad | 0.20% | ~1,658 |
-| Apt Survivor | 0.20% | ~1,658 |
-| Survival Treasures | 0.20% | ~1,658 |
-| Skillful | 0.20% | ~1,658 |
-| Make Some Noise | 0.20% | ~1,658 |
-| Terror of LV-426 | 0.20% | ~1,658 |
+| It wakes | 0.30% | ~2,488 |
+| Skillful | 0.30% | ~2,488 |
+| Terror of LV-426 | 0.30% | ~2,488 |
+| MU/TH/UR Dearest | 0.30% | ~2,488 |
+| Medic | 0.20% | ~1,659 |
+| Handyman | 0.20% | ~1,659 |
+| Zealous | 0.20% | ~1,659 |
+| Not half bad | 0.20% | ~1,659 |
+| Apt Survivor | 0.20% | ~1,659 |
+| Survival Treasures | 0.20% | ~1,659 |
+| Make Some Noise | 0.20% | ~1,659 |
 | The Grand Sacrifice | 0.10% | ~829 |
 | A bite for the Entity | 0.10% | ~829 |
 | A feast for the Entity | 0.10% | ~829 |
@@ -32,7 +33,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | The Key to Escape | 0.10% | ~829 |
 | I've got your back | 0.10% | ~829 |
 | No one left behind | 0.10% | ~829 |
-| Medic | 0.10% | ~829 |
 | Nerves of steel | 0.10% | ~829 |
 | Perfect Escape | 0.10% | ~829 |
 | Perfect Killing | 0.10% | ~829 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~829 |
 | Adept Ripley | 0.10% | ~829 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 829,121 (Ranked 15)  
+Progressed: 829,277 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -368,10 +368,10 @@ Completed: 48 (0.01%) (Ranked 253)
 | 2023-08-27 | 822,167 | 48 |
 | 2023-08-28 | 824,988 | 48 |
 | 2023-08-29 | 828,020 | 48 |
-| 2023-08-30 | 829,121 | 48 |
+| 2023-08-30 | 829,277 | 48 |
 ## Awards
 Max (Diverse Characters): 31,677  (Ranked 15)  
-Sum: 248,386 (Ranked 11)  
+Sum: 248,434 (Ranked 11)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
@@ -379,7 +379,7 @@ Diff (max vs sum): 4
 | This game is Highly Recommended | 28,366 |
 | This game has Competitive Players | 28,297 |
 | This game has Amazing Characters | 28,088 |
-| This game is Extremely Fun | 27,824 |
+| This game is Extremely Fun | 27,872 |
 | This game has Quickly Understood Controls | 27,555 |
 | This game has Challenging Combat | 27,192 |
 | This game has Amazing Storytelling | 25,544 |
@@ -607,4 +607,4 @@ Diff (max vs sum): 4
 | 2023-08-27 | 4.52 | - | 31,508 | 247,584 |
 | 2023-08-28 | 4.52 | - | 31,536 | 247,765 |
 | 2023-08-29 | 4.52 | - | 31,566 | 248,001 |
-| 2023-08-30 | 4.52 | - | 31,677 | 248,386 |
+| 2023-08-30 | 4.52 | - | 31,677 | 248,434 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 488,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -337,9 +337,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 1822,
+  "EOS_Progressed": 1823,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -1937,6 +1937,11 @@
       "Time": "2023-08-28T21:24:35.3292953+00:00",
       "NumProgressed": 1822,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-08-30T12:05:04.7665574+00:00",
+      "NumProgressed": 1823,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -1956,7 +1961,7 @@
       "Name": "Dead or Alive",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 1020
+      "UsersEstimate": 1021
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -2028,7 +2033,7 @@
       "Name": "Full House",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "ACH_GETTING_THE_GANG_BACK_TOGETHER",
@@ -2100,7 +2105,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -2180,7 +2185,7 @@
       "Name": "Off the Trail",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "ACH_OUT_ON_THE_EBB_TIDE",
@@ -2196,7 +2201,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1184
+      "UsersEstimate": 1185
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -2324,7 +2329,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1603
+      "UsersEstimate": 1604
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -2371,15 +2376,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1822,
+      "Progressed": 1823,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-08-25T13:05:53.0573208+00:00",
-  "LastChanged_Achievements": "2023-08-30T11:05:56.387386+00:00",
+  "LastChanged_Achievements": "2023-08-30T12:05:04.7665569+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:16.0649868+00:00",
-  "LastUpdate_Ratings": "2023-08-30T10:57:18.1892925+00:00",
-  "LastUpdate_Achievements": "2023-08-30T11:05:56.3874436+00:00"
+  "LastUpdate_Ratings": "2023-08-30T11:56:59.8154064+00:00",
+  "LastUpdate_Achievements": "2023-08-30T12:05:04.7666127+00:00"
 }

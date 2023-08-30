@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 994,
+  "EOS_Progressed": 995,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3191,6 +3191,11 @@
       "Time": "2023-08-30T09:06:48.3637215+00:00",
       "NumProgressed": 994,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-30T12:07:01.9067665+00:00",
+      "NumProgressed": 995,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3202,7 +3207,7 @@
       "Name": "Adventurous 1",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "adventurous_2",
@@ -3322,7 +3327,7 @@
       "Name": "Conqueror 1",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "conqueror_2",
@@ -3370,7 +3375,7 @@
       "Name": "Elemental stones 1",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "elemental_stones_2",
@@ -3729,14 +3734,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 994,
+      "Progressed": 995,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-08-30T11:08:42.9354572+00:00",
+  "LastChanged_Achievements": "2023-08-30T12:07:01.9067659+00:00",
   "LastUpdate_AppInfo": "2023-08-29T06:57:19.2753876+00:00",
-  "LastUpdate_Ratings": "2023-08-30T11:00:45.2279838+00:00",
-  "LastUpdate_Achievements": "2023-08-30T11:08:42.9355459+00:00"
+  "LastUpdate_Ratings": "2023-08-30T11:59:17.2769438+00:00",
+  "LastUpdate_Achievements": "2023-08-30T12:07:01.906854+00:00"
 }

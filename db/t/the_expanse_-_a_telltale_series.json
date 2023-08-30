@@ -34,9 +34,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9606,
+  "EOS_Progressed": 9607,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 788,
+  "EOS_NewPlayers": 789,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3674,6 +3674,11 @@
       "Time": "2023-08-30T11:03:53.3259287+00:00",
       "NumProgressed": 9606,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-30T12:03:38.1688579+00:00",
+      "NumProgressed": 9607,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -3734,7 +3739,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 2113
+      "UsersEstimate": 2114
     },
     {
       "ID": "16",
@@ -3756,9 +3761,9 @@
       "ID": "18",
       "SetID": "458bbdk",
       "Name": "Bottoms up!",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 672
+      "UsersEstimate": 769
     },
     {
       "ID": "19",
@@ -3925,7 +3930,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 9606,
+      "Progressed": 9607,
       "Completed": 0
     }
   ],
@@ -3933,8 +3938,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-08-27T16:57:45.7126871+00:00",
-  "LastChanged_Achievements": "2023-08-30T11:03:53.3259278+00:00",
+  "LastChanged_Achievements": "2023-08-30T12:03:38.1688573+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:45.4170889+00:00",
-  "LastUpdate_Ratings": "2023-08-30T10:58:26.0352235+00:00",
-  "LastUpdate_Achievements": "2023-08-30T11:03:53.3259764+00:00"
+  "LastUpdate_Ratings": "2023-08-30T11:57:44.3783308+00:00",
+  "LastUpdate_Achievements": "2023-08-30T12:03:38.1689002+00:00"
 }

@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 545,
+  "EOS_Progressed": 546,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.47,
   "EosHistory": [
@@ -1201,6 +1201,11 @@
       "Time": "2023-08-30T08:05:08.8713865+00:00",
       "NumProgressed": 545,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-08-30T12:05:06.416668+00:00",
+      "NumProgressed": 546,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1221,7 +1226,7 @@
       "Name": "A New Journey",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "_03_FinishAct1",
@@ -1237,7 +1242,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "_05_FinishAct2",
@@ -1253,7 +1258,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "_07_FinishAct3",
@@ -1261,7 +1266,7 @@
       "Name": "All Good Things",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "_08_Completion_10",
@@ -1293,15 +1298,15 @@
       "Name": "Seadog",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "_12_Completion_50",
       "SetID": "8a1io5d",
       "Name": "Privateer",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 38
+      "UsersEstimate": 44
     },
     {
       "ID": "_13_Completion_60",
@@ -1420,14 +1425,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 545,
+      "Progressed": 546,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-30T11:05:58.6486936+00:00",
+  "LastChanged_Achievements": "2023-08-30T12:05:06.4166674+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:45.1302228+00:00",
-  "LastUpdate_Ratings": "2023-08-30T10:57:10.6530721+00:00",
-  "LastUpdate_Achievements": "2023-08-30T11:05:58.6487213+00:00"
+  "LastUpdate_Ratings": "2023-08-30T11:56:54.9826827+00:00",
+  "LastUpdate_Achievements": "2023-08-30T12:05:06.4166973+00:00"
 }

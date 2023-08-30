@@ -1762,9 +1762,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 258121,
+  "EOS_Progressed": 258134,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2765,
+  "EOS_NewPlayers": 2766,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16467,6 +16467,11 @@
       "Time": "2023-08-30T11:02:19.6248727+00:00",
       "NumProgressed": 258121,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-30T12:00:19.5937234+00:00",
+      "NumProgressed": 258134,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -16526,7 +16531,7 @@
       "Name": "Contender",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 25812
+      "UsersEstimate": 25813
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -16638,7 +16643,7 @@
       "Name": "I Found it!",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 25812
+      "UsersEstimate": 25813
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -16646,7 +16651,7 @@
       "Name": "Full Loot Madness",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5162
+      "UsersEstimate": 5163
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -16702,7 +16707,7 @@
       "Name": "Ball Launched",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 211659
+      "UsersEstimate": 211670
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -16710,22 +16715,22 @@
       "Name": "I know the Rules",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 95505
+      "UsersEstimate": 95510
     }
   ],
   "AchievementSets": [
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 258121,
+      "Progressed": 258134,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2023-08-28T16:58:15.2043577+00:00",
-  "LastChanged_Achievements": "2023-08-30T11:02:19.6248722+00:00",
+  "LastChanged_Achievements": "2023-08-30T12:00:19.5937229+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:34.8131259+00:00",
-  "LastUpdate_Ratings": "2023-08-30T10:58:17.2819891+00:00",
-  "LastUpdate_Achievements": "2023-08-30T11:02:19.6249996+00:00"
+  "LastUpdate_Ratings": "2023-08-30T11:57:38.8518515+00:00",
+  "LastUpdate_Achievements": "2023-08-30T12:00:19.5938332+00:00"
 }

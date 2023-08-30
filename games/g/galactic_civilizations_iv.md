@@ -6,12 +6,12 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 79.00% | ~5,134 |
-| Worker Specialization | 78.00% | ~5,069 |
-| First Contact | 73.00% | ~4,744 |
-| Win a Battle | 67.00% | ~4,354 |
-| Anomaly Researcher | 63.00% | ~4,094 |
-| Unleash My Power | 62.00% | ~4,029 |
+| Colonize a Planet | 79.00% | ~5,135 |
+| Worker Specialization | 78.00% | ~5,070 |
+| First Contact | 73.00% | ~4,745 |
+| Win a Battle | 67.00% | ~4,355 |
+| Anomaly Researcher | 63.00% | ~4,095 |
+| Unleash My Power | 62.00% | ~4,030 |
 | Own 30 Planets | 34.00% | ~2,210 |
 | Xenocide | 32.00% | ~2,080 |
 | Design a Civilization | 32.00% | ~2,080 |
@@ -38,8 +38,8 @@ Number of Ratings: 429  (23.09.2022)
 | Win as Arceans | 1.00% | ~65 |
 | Win as the Baratak | 1.00% | ~65 |
 | Win as Festron | 1.00% | ~65 |
-| Win as the Navigators | 0.90% | ~58 |
-| Win as Torians | 0.90% | ~58 |
+| Win as the Navigators | 0.90% | ~59 |
+| Win as Torians | 0.90% | ~59 |
 | Win as the Drengin | 0.80% | ~52 |
 | Win as the Krynn | 0.80% | ~52 |
 | Win as Xeloxi | 0.80% | ~52 |
@@ -49,7 +49,7 @@ Number of Ratings: 429  (23.09.2022)
 | Win as the Iridium | 0.60% | ~39 |
 | Win as the Onyx | 0.60% | ~39 |
 | Diplomatic Victory! | 0.60% | ~39 |
-| Iconia Reclaimed! | 0.30% | ~19 |
+| Iconia Reclaimed! | 0.30% | ~20 |
 | Relic Hoarder | 0.20% | ~13 |
 | Discover a Nebula | 0.20% | ~13 |
 | Commodity Seller, Level 2 | 0.20% | ~13 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,499 (Ranked 138)  
+Progressed: 6,500 (Ranked 138)  
 Completed: 0 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 0 (0.00%) (Ranked 266)
 | 2023-08-27 | 6,480 | 0 |
 | 2023-08-28 | 6,486 | 0 |
 | 2023-08-29 | 6,495 | 0 |
-| 2023-08-30 | 6,499 | 0 |
+| 2023-08-30 | 6,500 | 0 |
 ## Awards
 Max (Diverse Characters): 93  (Ranked 348)  
 Sum: 675 (Ranked 282)  

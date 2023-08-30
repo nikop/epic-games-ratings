@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -442,9 +442,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7618,
+  "EOS_Progressed": 7619,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
@@ -7772,6 +7772,11 @@
       "Time": "2023-08-30T10:08:15.736989+00:00",
       "NumProgressed": 7618,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-08-30T12:07:01.8398299+00:00",
+      "NumProgressed": 7619,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 29,
@@ -7783,7 +7788,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6323
+      "UsersEstimate": 6324
     },
     {
       "ID": "ACH02",
@@ -7903,7 +7908,7 @@
       "Name": "A Marked Man",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1904
+      "UsersEstimate": 1905
     },
     {
       "ID": "ACH17",
@@ -8014,7 +8019,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7618,
+      "Progressed": 7619,
       "Completed": 50
     }
   ],
@@ -8022,8 +8027,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-08-24T22:01:07.1400968+00:00",
-  "LastChanged_Achievements": "2023-08-30T11:08:42.8703939+00:00",
+  "LastChanged_Achievements": "2023-08-30T12:07:01.8398292+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:30.0456476+00:00",
-  "LastUpdate_Ratings": "2023-08-30T11:01:44.8321505+00:00",
-  "LastUpdate_Achievements": "2023-08-30T11:08:42.8704633+00:00"
+  "LastUpdate_Ratings": "2023-08-30T11:59:56.3178268+00:00",
+  "LastUpdate_Achievements": "2023-08-30T12:07:01.8399004+00:00"
 }

@@ -3566,9 +3566,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 11134,
+  "EOS_Progressed": 11136,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11571,6 +11571,11 @@
       "Time": "2023-08-30T11:07:44.0951036+00:00",
       "NumProgressed": 11134,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-30T12:06:20.2131626+00:00",
+      "NumProgressed": 11136,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -11582,7 +11587,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 2672
+      "UsersEstimate": 2673
     },
     {
       "ID": "02_BurningCity",
@@ -11590,7 +11595,7 @@
       "Name": "Burning City",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1781
+      "UsersEstimate": 1782
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -11606,7 +11611,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -11718,7 +11723,7 @@
       "Name": "Mythic Choices",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1447
+      "UsersEstimate": 1448
     },
     {
       "ID": "19_EqualToAroden",
@@ -12494,7 +12499,7 @@
       "Name": "The Lady of the Forest",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "DLC4_34_Beware of Still Water",
@@ -12502,28 +12507,28 @@
       "Name": "Beware Still Water",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     }
   ],
   "AchievementSets": [
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9916,
+      "Progressed": 9918,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11134,
+      "Progressed": 11136,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-28T22:02:03.4075061+00:00",
-  "LastChanged_Achievements": "2023-08-30T11:07:44.095103+00:00",
+  "LastChanged_Achievements": "2023-08-30T12:06:20.2131617+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:16.3191421+00:00",
-  "LastUpdate_Ratings": "2023-08-30T10:57:17.6810928+00:00",
-  "LastUpdate_Achievements": "2023-08-30T11:07:44.0953237+00:00"
+  "LastUpdate_Ratings": "2023-08-30T11:56:59.4811988+00:00",
+  "LastUpdate_Achievements": "2023-08-30T12:06:20.2133813+00:00"
 }

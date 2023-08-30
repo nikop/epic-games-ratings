@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 511,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 452,
+  "EOS_NewPlayers": 446,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -821,9 +821,9 @@
       "ID": "ABetterTomorrow",
       "SetID": "3ai6ml8",
       "Name": "A Better Tomorrow",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 189
+      "UsersEstimate": 194
     },
     {
       "ID": "BostonHayDay",
@@ -917,9 +917,9 @@
       "ID": "OnceMoreIntoTheBreach",
       "SetID": "3ai6ml8",
       "Name": "Once more into the Breach",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 230
+      "UsersEstimate": 235
     },
     {
       "ID": "Outpatient",
@@ -988,8 +988,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-08-30T11:04:51.7650188+00:00",
+  "LastChanged_Achievements": "2023-08-30T12:04:18.7512472+00:00",
   "LastUpdate_AppInfo": "2023-08-23T13:00:58.5941376+00:00",
-  "LastUpdate_Ratings": "2023-08-30T10:59:15.8493227+00:00",
-  "LastUpdate_Achievements": "2023-08-30T11:04:51.7650398+00:00"
+  "LastUpdate_Ratings": "2023-08-30T11:58:16.6161975+00:00",
+  "LastUpdate_Achievements": "2023-08-30T12:04:18.7512694+00:00"
 }

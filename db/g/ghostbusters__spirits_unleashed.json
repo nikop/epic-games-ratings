@@ -1932,9 +1932,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25433,
+  "EOS_Progressed": 25434,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -11627,6 +11627,11 @@
       "Time": "2023-08-30T09:04:02.9304993+00:00",
       "NumProgressed": 25433,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-08-30T12:04:19.2412414+00:00",
+      "NumProgressed": 25434,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 51,
@@ -11638,7 +11643,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 18566
+      "UsersEstimate": 18567
     },
     {
       "ID": "Animated",
@@ -11678,7 +11683,7 @@
       "Name": "Clutch Capture",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 10173
+      "UsersEstimate": 10174
     },
     {
       "ID": "Collect_Spores",
@@ -11710,7 +11715,7 @@
       "Name": "Daily Dose",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 8647
+      "UsersEstimate": 8648
     },
     {
       "ID": "Diabolical",
@@ -11726,7 +11731,7 @@
       "Name": "Discovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 15514
+      "UsersEstimate": 15515
     },
     {
       "ID": "Dont_Need_These",
@@ -11772,9 +11777,9 @@
       "ID": "Fully_Upgraded",
       "SetID": "819popo",
       "Name": "Fully Upgraded",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 13734
+      "UsersEstimate": 13480
     },
     {
       "ID": "GB_In_Training",
@@ -11942,7 +11947,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 21872
+      "UsersEstimate": 21873
     },
     {
       "ID": "Summoner",
@@ -11974,7 +11979,7 @@
       "Name": "Teamwork",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 10936
+      "UsersEstimate": 10937
     },
     {
       "ID": "Terrifying",
@@ -12030,7 +12035,7 @@
       "Name": "Welcome to the Crew",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 7884
+      "UsersEstimate": 7885
     },
     {
       "ID": "Whoopsie",
@@ -12045,7 +12050,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25433,
+      "Progressed": 25434,
       "Completed": 54
     }
   ],
@@ -12053,8 +12058,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-08-28T13:57:18.2744027+00:00",
-  "LastChanged_Achievements": "2023-08-30T11:04:52.3050037+00:00",
+  "LastChanged_Achievements": "2023-08-30T12:04:19.2412407+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:16.4521861+00:00",
-  "LastUpdate_Ratings": "2023-08-30T10:58:00.0318208+00:00",
-  "LastUpdate_Achievements": "2023-08-30T11:04:52.3051123+00:00"
+  "LastUpdate_Ratings": "2023-08-30T11:57:27.5414828+00:00",
+  "LastUpdate_Achievements": "2023-08-30T12:04:19.2413526+00:00"
 }
