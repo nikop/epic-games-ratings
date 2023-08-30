@@ -28,7 +28,7 @@
 | 23 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.11% |
 | 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.98% |
 | 28 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.71% |
-| 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.26% |
+| 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.22% |
 | 30 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 10.00% |
 | 31 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
 | 32 | [Sonic Origins](games/s/sonic_origins.md) | 9.15% |
@@ -77,7 +77,7 @@
 | 75 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.01% |
 | 76 | [Monster Harvest](games/m/monster_harvest.md) | 2.93% |
 | 76 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 78 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.82% |
+| 78 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.81% |
 | 79 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.80% |
 | 80 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.74% |
 | 81 | [Destiny 2](games/d/destiny_2.md) | 2.73% |
@@ -563,4 +563,4 @@
 | 266 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 266 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 266 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,138 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,139 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
