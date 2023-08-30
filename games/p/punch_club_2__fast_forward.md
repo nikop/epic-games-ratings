@@ -5,25 +5,25 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Such a strange dream… | 87.00% | ~249 |
+| Your first fight | 86.00% | ~246 |
 | Good Person Chip | 85.00% | ~243 |
-| Your first fight | 85.00% | ~243 |
 | First winning | 83.00% | ~237 |
 | Your first job | 82.00% | ~235 |
 | Old movies enjoyer | 79.00% | ~226 |
 | Fitness professional | 77.00% | ~220 |
 | Depressed visitor | 77.00% | ~220 |
+| Employee of the week | 76.00% | ~217 |
 | Neurotrainer – power gainer! | 75.00% | ~214 |
-| Employee of the week | 75.00% | ~214 |
 | Your own amateur gym | 74.00% | ~212 |
-| First defeat | 73.00% | ~209 |
+| First defeat | 74.00% | ~212 |
 | Run K, run! | 72.00% | ~206 |
+| Fighting is cool | 68.00% | ~194 |
 | Hello, world! | 68.00% | ~194 |
-| Fighting is cool | 67.00% | ~192 |
-| No bullying more | 66.00% | ~189 |
+| No bullying more | 67.00% | ~192 |
 | Pal of your father? | 65.00% | ~186 |
-| Employee of the month | 63.00% | ~180 |
-| Spirit of the past | 62.00% | ~177 |
-| Law student | 61.00% | ~174 |
+| Employee of the month | 64.00% | ~183 |
+| Spirit of the past | 63.00% | ~180 |
+| Law student | 62.00% | ~177 |
 | Workout professional | 59.00% | ~169 |
 | It's good to be alive | 59.00% | ~169 |
 | Handyman | 58.00% | ~166 |

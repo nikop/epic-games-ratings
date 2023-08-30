@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -3031,9 +3031,9 @@
       "ID": "DR_JONES",
       "SetID": "9a4jnji",
       "Name": "Dr Jones",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 234
     },
     {
       "ID": "EDITOR_ADEPT",
@@ -3312,8 +3312,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-08-24T13:04:37.3738417+00:00",
-  "LastChanged_Achievements": "2023-08-30T16:03:09.0468245+00:00",
+  "LastChanged_Achievements": "2023-08-30T17:02:17.2217755+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:56.8957598+00:00",
-  "LastUpdate_Ratings": "2023-08-30T15:57:25.083533+00:00",
-  "LastUpdate_Achievements": "2023-08-30T16:03:09.0468923+00:00"
+  "LastUpdate_Ratings": "2023-08-30T16:57:21.6330068+00:00",
+  "LastUpdate_Achievements": "2023-08-30T17:02:17.2218471+00:00"
 }

@@ -43,8 +43,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | Big Game Hunting | 0.40% | ~542 |
 | Fated Encounters | 0.40% | ~542 |
 | For the Hoard! | 0.40% | ~542 |
+| Flying off the Shelves | 0.40% | ~542 |
 | Hidden Potential | 0.40% | ~542 |
 | Power of Love | 0.40% | ~542 |
+| Expansion in Session | 0.40% | ~542 |
 | Flawless Fusion | 0.40% | ~542 |
 | Trash to Treasure | 0.40% | ~542 |
 | Royal Ransom | 0.40% | ~542 |
@@ -66,13 +68,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | Archivist | 0.30% | ~406 |
 | Locally Sourced | 0.30% | ~406 |
 | Fillin' the Bin | 0.30% | ~406 |
-| Flying off the Shelves | 0.30% | ~406 |
 | Industrial Evolution | 0.30% | ~406 |
 | This Power Level...! | 0.30% | ~406 |
 | Omae wa Mou Shindeiru | 0.30% | ~406 |
 | Master of Transmutation | 0.30% | ~406 |
 | Supercharged | 0.30% | ~406 |
-| Expansion in Session | 0.30% | ~406 |
 | Ritualist | 0.30% | ~406 |
 | Cranked up to 11 | 0.30% | ~406 |
 | Fit for a King | 0.30% | ~406 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~135 |
 | Cash Only Please | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,390 (Ranked 67)  
+Progressed: 135,391 (Ranked 67)  
 Completed: 138 (0.10%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,17 +251,17 @@ Completed: 138 (0.10%) (Ranked 213)
 | 2023-08-27 | 135,255 | 138 |
 | 2023-08-28 | 135,299 | 138 |
 | 2023-08-29 | 135,350 | 138 |
-| 2023-08-30 | 135,390 | 138 |
+| 2023-08-30 | 135,391 | 138 |
 ## Awards
 Max (Great for Beginners): 4,717  (Ranked 71)  
-Sum: 27,154 (Ranked 47)  
+Sum: 27,156 (Ranked 47)  
 Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,717 |
 | This game is Relaxing | 4,003 |
 | This game has Quickly Understood Controls | 3,991 |
-| This game has Diverse Characters | 3,862 |
+| This game has Diverse Characters | 3,864 |
 | This game is Highly Recommended | 3,739 |
 | This game has Easy Combat | 3,678 |
 | This game has Playful Visuals | 3,164 |
@@ -484,3 +484,4 @@ Diff (max vs sum): 24
 | 2023-08-26 | 3.99 | - | 4,716 | 27,141 |
 | 2023-08-27 | 3.99 | - | 4,717 | 27,150 |
 | 2023-08-29 | 3.99 | - | 4,717 | 27,154 |
+| 2023-08-30 | 3.99 | - | 4,717 | 27,156 |

@@ -2,7 +2,7 @@
   "ID": "e97659b501af4e3981d5430dad170911",
   "Name": "Hogwarts Legacy",
   "ProductSlug": "hogwarts-legacy",
-  "Ranking_Rating": 109,
+  "Ranking_Rating": 108,
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 43,
@@ -6880,10 +6880,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 41774,
       "NumberOfAwardsMax": 22026
+    },
+    {
+      "Time": "2023-08-30T17:01:16.6582064+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 41779,
+      "NumberOfAwardsMax": 22026
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 41774,
+  "NumberOfAwards": 41779,
   "NumberOfAwardsMax": 22026,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6915,7 +6921,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1001
+      "Count": 1006
     },
     {
       "Text": "This game is Extremely Fun",
@@ -6962,7 +6968,7 @@
   ],
   "EOS_Progressed": 291091,
   "EOS_Completed": 458,
-  "EOS_NewPlayers": 432,
+  "EOS_NewPlayers": 429,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -21547,9 +21553,9 @@
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-08-30T16:00:46.9413369+00:00",
-  "LastChanged_Achievements": "2023-08-30T16:04:28.4519935+00:00",
+  "LastChanged": "2023-08-30T17:01:16.6582063+00:00",
+  "LastChanged_Achievements": "2023-08-30T17:04:30.9213987+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:27.4425386+00:00",
-  "LastUpdate_Ratings": "2023-08-30T16:00:46.9413381+00:00",
-  "LastUpdate_Achievements": "2023-08-30T16:04:28.452209+00:00"
+  "LastUpdate_Ratings": "2023-08-30T17:01:16.6582069+00:00",
+  "LastUpdate_Achievements": "2023-08-30T17:04:30.9215473+00:00"
 }

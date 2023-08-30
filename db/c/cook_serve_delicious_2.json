@@ -2,7 +2,7 @@
   "ID": "17651e1bc15847ca83389e8e5d931183",
   "Name": "Cook Serve Delicious 2",
   "ProductSlug": "cook-serve-delicious-2-6db46c",
-  "Ranking_Rating": 66,
+  "Ranking_Rating": 65,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 566,
@@ -65,6 +65,6 @@
   "FirstSeenRating": "2022-10-07T16:02:05.979071+00:00",
   "LastChanged": "2023-03-31T05:58:21.2539895+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:41.8196175+00:00",
-  "LastUpdate_Ratings": "2023-08-30T15:57:38.6808089+00:00",
-  "LastUpdate_Achievements": "2023-08-30T16:03:47.216143+00:00"
+  "LastUpdate_Ratings": "2023-08-30T16:57:37.3882162+00:00",
+  "LastUpdate_Achievements": "2023-08-30T17:03:32.0872863+00:00"
 }

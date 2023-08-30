@@ -1,19 +1,19 @@
 # Disney Dreamlight Valley
 [Store](https://store.epicgames.com/en-US/p/disney-dreamlight-valley)  
 [View Rawdata](../../db/d/disney_dreamlight_valley.json)  
-Rating: 4.76 (Ranked 117)  
+Rating: 4.76 (Ranked 116)  
 Number of Ratings: 1,396  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 71.00% | ~6,494 |
-| Photographer | 69.00% | ~6,311 |
-| Valley's Helper | 63.00% | ~5,762 |
-| Constructor | 52.00% | ~4,756 |
-| Renovator | 52.00% | ~4,756 |
-| Bestest Friend | 48.00% | ~4,390 |
-| Banker | 39.00% | ~3,567 |
-| Gardener | 31.00% | ~2,835 |
+| Goofy's Investor | 71.00% | ~6,495 |
+| Photographer | 69.00% | ~6,312 |
+| Valley's Helper | 63.00% | ~5,763 |
+| Constructor | 52.00% | ~4,757 |
+| Renovator | 52.00% | ~4,757 |
+| Bestest Friend | 48.00% | ~4,391 |
+| Banker | 39.00% | ~3,568 |
+| Gardener | 31.00% | ~2,836 |
 | Generous | 23.00% | ~2,104 |
 | Chef Cook | 17.00% | ~1,555 |
 | Miner | 8.00% | ~732 |
@@ -22,7 +22,7 @@ Number of Ratings: 1,396  (23.09.2022)
 | Thorn Cleaner | 4.00% | ~366 |
 | Chit Chatter | 3.00% | ~274 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,146 (Ranked 129)  
+Progressed: 9,148 (Ranked 129)  
 Completed: 205 (2.24%) (Ranked 90)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,10 +105,10 @@ Completed: 205 (2.24%) (Ranked 90)
 | 2023-08-27 | 9,075 | 204 |
 | 2023-08-28 | 9,104 | 204 |
 | 2023-08-29 | 9,136 | 204 |
-| 2023-08-30 | 9,146 | 205 |
+| 2023-08-30 | 9,148 | 205 |
 ## Awards
 Max (Great for Beginners): 938  (Ranked 149)  
-Sum: 7,458 (Ranked 107)  
+Sum: 7,461 (Ranked 107)  
 Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
@@ -119,7 +119,7 @@ Diff (max vs sum): 42
 | This game has Amazing Characters | 789 |
 | This game has Amazing Storytelling | 758 |
 | This game has Quickly Understood Controls | 735 |
-| This game is Extremely Fun | 728 |
+| This game is Extremely Fun | 731 |
 | This game has a Creative Community | 621 |
 | This game has Easy Combat | 495 |
 | This game has Obsessive Gameplay | 415 |
@@ -297,4 +297,4 @@ Diff (max vs sum): 42
 | 2023-08-27 | 4.76 | - | 937 | 7,450 |
 | 2023-08-28 | 4.76 | - | 937 | 7,454 |
 | 2023-08-29 | 4.76 | - | 938 | 7,457 |
-| 2023-08-30 | 4.76 | - | 938 | 7,458 |
+| 2023-08-30 | 4.76 | - | 938 | 7,461 |

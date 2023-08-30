@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 504)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break A Leg | 0.60% | ~4,016 |
-| Hotel California | 0.60% | ~4,016 |
-| Welcome To Hell-A | 0.60% | ~4,016 |
+| Welcome To Hell-A | 0.70% | ~4,686 |
+| Break A Leg | 0.60% | ~4,017 |
+| Hotel California | 0.60% | ~4,017 |
 | Dr. Reed, I Presume? | 0.50% | ~3,347 |
 | Git Gutte! | 0.50% | ~3,347 |
 | Coup de Grâce | 0.50% | ~3,347 |
@@ -16,16 +16,16 @@ Rating: 4.54 (Ranked 504)
 | Apex Predator | 0.50% | ~3,347 |
 | Stacking the Deck | 0.50% | ~3,347 |
 | Personal Assistant Personally Assisted | 0.50% | ~3,347 |
-| Bookworm | 0.40% | ~2,677 |
-| But Doctor, I am Butcho | 0.40% | ~2,677 |
-| Slayer Squad | 0.40% | ~2,677 |
-| Can't Handle the Truth | 0.40% | ~2,677 |
-| Like Riding a Bike | 0.40% | ~2,677 |
-| Zombologist | 0.40% | ~2,677 |
-| A Patton Emerges | 0.40% | ~2,677 |
-| I Am the Resurrection | 0.40% | ~2,677 |
-| Our True Nature | 0.40% | ~2,677 |
-| This is My Weapon | 0.40% | ~2,677 |
+| Bookworm | 0.40% | ~2,678 |
+| But Doctor, I am Butcho | 0.40% | ~2,678 |
+| Slayer Squad | 0.40% | ~2,678 |
+| Can't Handle the Truth | 0.40% | ~2,678 |
+| Like Riding a Bike | 0.40% | ~2,678 |
+| Zombologist | 0.40% | ~2,678 |
+| A Patton Emerges | 0.40% | ~2,678 |
+| I Am the Resurrection | 0.40% | ~2,678 |
+| Our True Nature | 0.40% | ~2,678 |
+| This is My Weapon | 0.40% | ~2,678 |
 | Making Your Mark | 0.30% | ~2,008 |
 | Anger Management | 0.30% | ~2,008 |
 | Perks of the Job | 0.30% | ~2,008 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 504)
 | Variety is the Spice of Death | 0.10% | ~669 |
 | Bucket List | 0.10% | ~669 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 669,372 (Ranked 22)  
+Progressed: 669,418 (Ranked 22)  
 Completed: 2,093 (0.31%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 2,093 (0.31%) (Ranked 174)
 | 2023-08-27 | 667,273 | 2,082 |
 | 2023-08-28 | 668,091 | 2,086 |
 | 2023-08-29 | 668,912 | 2,088 |
-| 2023-08-30 | 669,372 | 2,093 |
+| 2023-08-30 | 669,418 | 2,093 |
 ## Awards
 Max (Great Boss Battles): 5,822  (Ranked 61)  
 Sum: 8,570 (Ranked 97)  

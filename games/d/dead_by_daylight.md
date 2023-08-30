@@ -20,6 +20,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Handyman | 0.20% | ~1,660 |
 | Nerves of steel | 0.20% | ~1,660 |
 | Perfect Escape | 0.20% | ~1,660 |
+| Perfect Killing | 0.20% | ~1,660 |
 | Bloody Millionaire | 0.20% | ~1,660 |
 | Apt Survivor | 0.20% | ~1,660 |
 | Survival Treasures | 0.20% | ~1,660 |
@@ -28,6 +29,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Healthy Obsession | 0.20% | ~1,660 |
 | Resurgence | 0.20% | ~1,660 |
 | Preemptive Strike | 0.20% | ~1,660 |
+| Humanitarian | 0.20% | ~1,660 |
 | A bite for the Entity | 0.10% | ~830 |
 | A feast for the Entity | 0.10% | ~830 |
 | Blood on your hands | 0.10% | ~830 |
@@ -41,7 +43,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Agonizing Escape | 0.10% | ~830 |
 | The Key to Escape | 0.10% | ~830 |
 | I've got your back | 0.10% | ~830 |
-| Perfect Killing | 0.10% | ~830 |
 | Gifts for the Fog | 0.10% | ~830 |
 | Apt Killer | 0.10% | ~830 |
 | Risk it all | 0.10% | ~830 |
@@ -185,7 +186,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Punch Drunk | 0.10% | ~830 |
 | Adept Cenobite | 0.10% | ~830 |
 | Bless You | 0.10% | ~830 |
-| Humanitarian | 0.10% | ~830 |
 | Adept Mikaela | 0.10% | ~830 |
 | Caws of Death | 0.10% | ~830 |
 | Prowler | 0.10% | ~830 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~830 |
 | Adept Ripley | 0.10% | ~830 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 829,897 (Ranked 15)  
+Progressed: 830,064 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -368,7 +368,7 @@ Completed: 48 (0.01%) (Ranked 253)
 | 2023-08-27 | 822,167 | 48 |
 | 2023-08-28 | 824,988 | 48 |
 | 2023-08-29 | 828,020 | 48 |
-| 2023-08-30 | 829,897 | 48 |
+| 2023-08-30 | 830,064 | 48 |
 ## Awards
 Max (Diverse Characters): 31,677  (Ranked 15)  
 Sum: 248,552 (Ranked 11)  

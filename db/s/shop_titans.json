@@ -5744,10 +5744,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27154,
       "NumberOfAwardsMax": 4717
+    },
+    {
+      "Time": "2023-08-30T16:57:37.0246729+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27156,
+      "NumberOfAwardsMax": 4717
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27154,
+  "NumberOfAwards": 27156,
   "NumberOfAwardsMax": 4717,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5761,7 +5767,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 3862
+      "Count": 3864
     },
     {
       "Text": "This game is Great for Beginners",
@@ -5800,7 +5806,7 @@
       "Count": 3739
     }
   ],
-  "EOS_Progressed": 135390,
+  "EOS_Progressed": 135391,
   "EOS_Completed": 138,
   "EOS_NewPlayers": 401,
   "EOS_NewCompleters": 0,
@@ -19345,6 +19351,11 @@
       "Time": "2023-08-30T16:03:11.93263+00:00",
       "NumProgressed": 135390,
       "NumCompleted": 138
+    },
+    {
+      "Time": "2023-08-30T17:02:21.0001107+00:00",
+      "NumProgressed": 135391,
+      "NumCompleted": 138
     }
   ],
   "TotalAchievements": 112,
@@ -19634,9 +19645,9 @@
       "ID": "craft03",
       "SetID": "anfd17p",
       "Name": "Flying off the Shelves",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 406
+      "UsersEstimate": 542
     },
     {
       "ID": "craft04",
@@ -19738,9 +19749,9 @@
       "ID": "expansion02",
       "SetID": "anfd17p",
       "Name": "Expansion in Session",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 406
+      "UsersEstimate": 542
     },
     {
       "ID": "expansion03",
@@ -20251,15 +20262,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135390,
+      "Progressed": 135391,
       "Completed": 138
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-08-29T18:57:45.332931+00:00",
-  "LastChanged_Achievements": "2023-08-30T16:03:11.9326293+00:00",
+  "LastChanged": "2023-08-30T16:57:37.0246727+00:00",
+  "LastChanged_Achievements": "2023-08-30T17:02:21.0001101+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:19.0477827+00:00",
-  "LastUpdate_Ratings": "2023-08-30T15:57:38.3707796+00:00",
-  "LastUpdate_Achievements": "2023-08-30T16:03:11.9330985+00:00"
+  "LastUpdate_Ratings": "2023-08-30T16:57:37.0246733+00:00",
+  "LastUpdate_Achievements": "2023-08-30T17:02:21.0004079+00:00"
 }
