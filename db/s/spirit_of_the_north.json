@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 147,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
     "PcReleaseDate": "2021-05-07T00:00:00+00:00",
@@ -324,9 +324,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 67376,
+  "EOS_Progressed": 67377,
   "EOS_Completed": 350,
-  "EOS_NewPlayers": 939,
+  "EOS_NewPlayers": 938,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -14614,6 +14614,11 @@
       "Time": "2023-08-30T01:46:25.2838895+00:00",
       "NumProgressed": 67376,
       "NumCompleted": 350
+    },
+    {
+      "Time": "2023-08-30T02:22:07.2643436+00:00",
+      "NumProgressed": 67377,
+      "NumCompleted": 350
     }
   ],
   "TotalAchievements": 24,
@@ -14705,7 +14710,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 35709
+      "UsersEstimate": 35710
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -14793,7 +14798,7 @@
       "Name": "UPROOTING DARKNESS",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 10106
+      "UsersEstimate": 10107
     },
     {
       "ID": "WEIGHTLESS",
@@ -14809,14 +14814,14 @@
       "Name": "WRITTEN IN STONE",
       "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 10106
+      "UsersEstimate": 10107
     }
   ],
   "AchievementSets": [
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 67376,
+      "Progressed": 67377,
       "Completed": 350
     }
   ],
@@ -14824,8 +14829,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-08-30T01:46:25.283889+00:00",
+  "LastChanged_Achievements": "2023-08-30T02:22:07.2643432+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:56.7708219+00:00",
-  "LastUpdate_Ratings": "2023-08-30T01:38:31.7540382+00:00",
-  "LastUpdate_Achievements": "2023-08-30T01:46:25.2839688+00:00"
+  "LastUpdate_Ratings": "2023-08-30T02:13:17.1494351+00:00",
+  "LastUpdate_Achievements": "2023-08-30T02:22:07.2644543+00:00"
 }

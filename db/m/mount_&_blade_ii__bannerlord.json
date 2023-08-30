@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -6777,9 +6777,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 59925,
+  "EOS_Progressed": 59926,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 468,
+  "EOS_NewPlayers": 467,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20707,6 +20707,11 @@
       "Time": "2023-08-30T01:46:35.2153203+00:00",
       "NumProgressed": 59925,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-30T02:22:21.4476606+00:00",
+      "NumProgressed": 59926,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -21062,7 +21067,7 @@
       "Name": "Swordbearer",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 5992
+      "UsersEstimate": 5993
     },
     {
       "ID": "The king is pleased",
@@ -21070,7 +21075,7 @@
       "Name": "The king is pleased",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 10786
+      "UsersEstimate": 10787
     },
     {
       "ID": "This Is Our Land",
@@ -21125,15 +21130,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 59925,
+      "Progressed": 59926,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-08-29T22:58:59.5901329+00:00",
-  "LastChanged_Achievements": "2023-08-30T01:46:35.2153198+00:00",
+  "LastChanged_Achievements": "2023-08-30T02:22:21.4476602+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:26.1294952+00:00",
-  "LastUpdate_Ratings": "2023-08-30T01:38:55.2597195+00:00",
-  "LastUpdate_Achievements": "2023-08-30T01:46:35.2154179+00:00"
+  "LastUpdate_Ratings": "2023-08-30T02:13:52.6414588+00:00",
+  "LastUpdate_Achievements": "2023-08-30T02:22:21.4477947+00:00"
 }

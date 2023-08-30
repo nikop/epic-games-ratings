@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 44,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -565,9 +565,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 340545,
+  "EOS_Progressed": 340547,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1461,
+  "EOS_NewPlayers": 1462,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15145,6 +15145,11 @@
       "Time": "2023-08-30T01:45:00.0841255+00:00",
       "NumProgressed": 340545,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-30T02:20:08.3933184+00:00",
+      "NumProgressed": 340547,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -15172,7 +15177,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 40865
+      "UsersEstimate": 40866
     },
     {
       "ID": "ach004",
@@ -15212,7 +15217,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 40865
+      "UsersEstimate": 40866
     },
     {
       "ID": "ach009",
@@ -15364,7 +15369,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 156651
+      "UsersEstimate": 156652
     },
     {
       "ID": "ach028",
@@ -15460,7 +15465,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 34054
+      "UsersEstimate": 34055
     },
     {
       "ID": "ach040",
@@ -15620,7 +15625,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 34054
+      "UsersEstimate": 34055
     },
     {
       "ID": "ach060",
@@ -15668,7 +15673,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 47676
+      "UsersEstimate": 47677
     },
     {
       "ID": "ach067",
@@ -15684,7 +15689,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 54487
+      "UsersEstimate": 54488
     },
     {
       "ID": "ach069",
@@ -15692,7 +15697,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 47676
+      "UsersEstimate": 47677
     },
     {
       "ID": "ach070",
@@ -15795,7 +15800,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 340545,
+      "Progressed": 340547,
       "Completed": 7
     }
   ],
@@ -15803,8 +15808,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-08-28T15:01:59.5456398+00:00",
-  "LastChanged_Achievements": "2023-08-30T01:45:00.0841249+00:00",
+  "LastChanged_Achievements": "2023-08-30T02:20:08.393318+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:37.3542744+00:00",
-  "LastUpdate_Ratings": "2023-08-30T01:40:38.9736112+00:00",
-  "LastUpdate_Achievements": "2023-08-30T01:45:00.0842649+00:00"
+  "LastUpdate_Ratings": "2023-08-30T02:16:32.1149679+00:00",
+  "LastUpdate_Achievements": "2023-08-30T02:20:08.3935213+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "4a86b8318e5a40e094f34a7e6a934652",
   "Name": "I Am Future - Cozy Apocalypse Survival",
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
-  "Ranking_EOS_Progress": 468,
-  "Ranking_EOS_Completed": 18,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_Progress": 465,
+  "Ranking_EOS_Completed": 19,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6,
+  "EOS_Progressed": 7,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 16.67,
+  "EOS_Completed_Percentage": 14.29,
   "EosHistory": [
     {
       "Time": "2023-08-29T09:05:59.1773399+00:00",
@@ -56,6 +56,11 @@
       "Time": "2023-08-29T23:07:12.5265841+00:00",
       "NumProgressed": 6,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-30T02:21:52.7260636+00:00",
+      "NumProgressed": 7,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -66,15 +71,15 @@
       "ID": "ACQUAINTANCE_EARL",
       "SetID": "aniflfk",
       "Name": "Holy Macaroni!",
-      "Percentage": 83,
+      "Percentage": 86,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
       "SetID": "aniflfk",
       "Name": "Design Engineer",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -82,7 +87,7 @@
       "ID": "BRING_MARY",
       "SetID": "aniflfk",
       "Name": "Retro Diva",
-      "Percentage": 67,
+      "Percentage": 57,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -90,7 +95,7 @@
       "ID": "BRING_PROSPERO",
       "SetID": "aniflfk",
       "Name": "Amusement Park",
-      "Percentage": 50,
+      "Percentage": 43,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -98,7 +103,7 @@
       "ID": "BUY_EVERYTHING_IN_ECOTOMAT",
       "SetID": "aniflfk",
       "Name": "Empty Shelves",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -106,7 +111,7 @@
       "ID": "CATCH_30_FISH",
       "SetID": "aniflfk",
       "Name": "Fisherman",
-      "Percentage": 33,
+      "Percentage": 29,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -114,7 +119,7 @@
       "ID": "EAT_AN_ENERGY_BAR",
       "SetID": "aniflfk",
       "Name": "Energy Boost",
-      "Percentage": 33,
+      "Percentage": 29,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -122,7 +127,7 @@
       "ID": "GO_ON_EXPEDITION",
       "SetID": "aniflfk",
       "Name": "Off on an Expedition!",
-      "Percentage": 67,
+      "Percentage": 57,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -130,7 +135,7 @@
       "ID": "GROW_20_PLANTS",
       "SetID": "aniflfk",
       "Name": "Farmer",
-      "Percentage": 33,
+      "Percentage": 29,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -138,7 +143,7 @@
       "ID": "HOUSEWARMING",
       "SetID": "aniflfk",
       "Name": "A Party to Remember!",
-      "Percentage": 50,
+      "Percentage": 43,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -146,15 +151,15 @@
       "ID": "LUNCH_LEECH",
       "SetID": "aniflfk",
       "Name": "Leech Lunch",
-      "Percentage": 83,
+      "Percentage": 86,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
       "SetID": "aniflfk",
       "Name": "Picky Eater",
-      "Percentage": 33,
+      "Percentage": 29,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -162,7 +167,7 @@
       "ID": "NOT_FAINT_HOUSEWARMING",
       "SetID": "aniflfk",
       "Name": "Tough Guy",
-      "Percentage": 33,
+      "Percentage": 29,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -170,7 +175,7 @@
       "ID": "PREPARE_10_COFFEE",
       "SetID": "aniflfk",
       "Name": "Barista",
-      "Percentage": 33,
+      "Percentage": 29,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -178,7 +183,7 @@
       "ID": "REMOVE_100_WEEDS",
       "SetID": "aniflfk",
       "Name": "Weed Warrior",
-      "Percentage": 67,
+      "Percentage": 57,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -186,7 +191,7 @@
       "ID": "REPAIR_BRIDGE",
       "SetID": "aniflfk",
       "Name": "Bridge Builder",
-      "Percentage": 50,
+      "Percentage": 43,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -194,7 +199,7 @@
       "ID": "SLEEP_50_HOURS",
       "SetID": "aniflfk",
       "Name": "Sleepyhead",
-      "Percentage": 33,
+      "Percentage": 29,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -202,7 +207,7 @@
       "ID": "SPEND_2000_COINS",
       "SetID": "aniflfk",
       "Name": "Crypto Bro",
-      "Percentage": 50,
+      "Percentage": 43,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -210,15 +215,15 @@
       "ID": "TAKE_LEECH",
       "SetID": "aniflfk",
       "Name": "Uppies!",
-      "Percentage": 67,
+      "Percentage": 71,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
       "SetID": "aniflfk",
       "Name": "Strong Signal",
-      "Percentage": 67,
+      "Percentage": 57,
       "XP": 50,
       "UsersEstimate": 4
     }
@@ -227,14 +232,14 @@
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 6,
+      "Progressed": 7,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-08-30T01:46:15.2628942+00:00",
+  "LastChanged_Achievements": "2023-08-30T02:21:52.7260629+00:00",
   "LastUpdate_AppInfo": "2023-08-23T11:57:03.6281529+00:00",
-  "LastUpdate_Ratings": "2023-08-30T01:40:00.2128982+00:00",
-  "LastUpdate_Achievements": "2023-08-30T01:46:15.2629066+00:00"
+  "LastUpdate_Ratings": "2023-08-30T02:15:32.0135343+00:00",
+  "LastUpdate_Achievements": "2023-08-30T02:21:52.7260803+00:00"
 }

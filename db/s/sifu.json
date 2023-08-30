@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 99,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -5898,9 +5898,9 @@
       "Count": 373
     }
   ],
-  "EOS_Progressed": 712812,
+  "EOS_Progressed": 712813,
   "EOS_Completed": 12876,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -18008,6 +18008,11 @@
       "Time": "2023-08-30T01:46:13.1199806+00:00",
       "NumProgressed": 712812,
       "NumCompleted": 12876
+    },
+    {
+      "Time": "2023-08-30T02:21:49.7333891+00:00",
+      "NumProgressed": 712813,
+      "NumCompleted": 12876
     }
   ],
   "TotalAchievements": 50,
@@ -18067,7 +18072,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 5702
+      "UsersEstimate": 5703
     },
     {
       "ID": "08_Wude_H2",
@@ -18075,7 +18080,7 @@
       "Name": "Tiger on Fire",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 5702
+      "UsersEstimate": 5703
     },
     {
       "ID": "09_Wude_H3",
@@ -18083,7 +18088,7 @@
       "Name": "Source of Flying Daggers",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 5702
+      "UsersEstimate": 5703
     },
     {
       "ID": "10_Wude_H4",
@@ -18131,7 +18136,7 @@
       "Name": "Detective Story",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 5702
+      "UsersEstimate": 5703
     },
     {
       "ID": "16_Detective_H2",
@@ -18329,9 +18334,9 @@
       "ID": "40_CustomTrophy_H4",
       "SetID": "adcm20g",
       "Name": "Take damage to save time",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7128
+      "UsersEstimate": 14256
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -18418,21 +18423,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 22113,
-      "Completed": 10567
+      "Progressed": 22114,
+      "Completed": 10568
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 712812,
+      "Progressed": 712813,
       "Completed": 12876
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-08-30T01:38:19.0247488+00:00",
-  "LastChanged_Achievements": "2023-08-30T01:46:13.1199802+00:00",
+  "LastChanged_Achievements": "2023-08-30T02:21:49.7333886+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:37.9351908+00:00",
-  "LastUpdate_Ratings": "2023-08-30T01:38:19.0247493+00:00",
-  "LastUpdate_Achievements": "2023-08-30T01:46:13.1200714+00:00"
+  "LastUpdate_Ratings": "2023-08-30T02:12:57.6773901+00:00",
+  "LastUpdate_Achievements": "2023-08-30T02:21:49.7335126+00:00"
 }

@@ -6,16 +6,16 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 38.00% | ~23,544 |
-| Let There Be Light | 31.00% | ~19,207 |
-| Float Like a Butterfly | 30.00% | ~18,587 |
+| Follow the Light | 38.00% | ~23,545 |
+| Let There Be Light | 31.00% | ~19,208 |
+| Float Like a Butterfly | 30.00% | ~18,588 |
 | Nordic Walking | 24.00% | ~14,870 |
-| Bright Falls' Finest | 23.00% | ~14,250 |
-| Under a Thin Layer of Skin | 21.00% | ~13,011 |
+| Bright Falls' Finest | 23.00% | ~14,251 |
+| Under a Thin Layer of Skin | 21.00% | ~13,012 |
 | Park Ranger | 17.00% | ~10,533 |
 | Paging Mr. Wake | 17.00% | ~10,533 |
-| Back! Back, I Say! | 16.00% | ~9,913 |
-| Finders Keepers | 16.00% | ~9,913 |
+| Back! Back, I Say! | 16.00% | ~9,914 |
+| Finders Keepers | 16.00% | ~9,914 |
 | Damn Good Cup of Coffee | 15.00% | ~9,294 |
 | Wheels Within Wheels | 14.00% | ~8,674 |
 | They're Heeeeeere! | 14.00% | ~8,674 |
@@ -27,10 +27,10 @@ Number of Ratings: 524  (23.09.2022)
 | Perchance to Dream | 12.00% | ~7,435 |
 | Collateral Carnage | 12.00% | ~7,435 |
 | Come One, Come All | 12.00% | ~7,435 |
-| Gatekeeper | 11.00% | ~6,815 |
-| It's Not Just a Typewriter Brand | 11.00% | ~6,815 |
-| Thunder and Lightning | 11.00% | ~6,815 |
-| Two For the Price of One | 11.00% | ~6,815 |
+| Gatekeeper | 11.00% | ~6,816 |
+| It's Not Just a Typewriter Brand | 11.00% | ~6,816 |
+| Thunder and Lightning | 11.00% | ~6,816 |
+| Two For the Price of One | 11.00% | ~6,816 |
 | The Lady of the Light | 10.00% | ~6,196 |
 | Energized! | 10.00% | ~6,196 |
 | What Light Through Yonder Window | 9.00% | ~5,576 |
@@ -38,8 +38,8 @@ Number of Ratings: 524  (23.09.2022)
 | Tornado Wrangler | 8.00% | ~4,957 |
 | A Friend in Need | 8.00% | ~2,034 |
 | Departure | 7.00% | ~4,337 |
-| Drink 'Em Both Up | 6.00% | ~3,717 |
-| Hardboiled Writer | 6.00% | ~3,717 |
+| Drink 'Em Both Up | 6.00% | ~3,718 |
+| Hardboiled Writer | 6.00% | ~3,718 |
 | A Friend Indeed | 6.00% | ~1,526 |
 | Children of the Elder God | 5.00% | ~3,098 |
 | Ding! | 5.00% | ~1,271 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~62 |
 | No Punctuation | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,958 (Ranked 87)  
+Progressed: 61,960 (Ranked 87)  
 Completed: 65 (0.10%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 65 (0.10%) (Ranked 213)
 | 2023-08-27 | 61,821 | 65 |
 | 2023-08-28 | 61,891 | 65 |
 | 2023-08-29 | 61,953 | 65 |
-| 2023-08-30 | 61,958 | 65 |
+| 2023-08-30 | 61,960 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

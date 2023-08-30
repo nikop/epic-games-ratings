@@ -6,24 +6,24 @@ Number of Ratings: 25,248  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~720,641 |
-| Green Energy | 60.00% | ~608,993 |
-| Foggy Weather | 59.00% | ~598,843 |
-| Singing In The- | 59.00% | ~598,843 |
-| Unpopular Mayor | 40.00% | ~405,995 |
-| Power at Your Fingertips | 33.00% | ~334,946 |
-| City Planner | 23.00% | ~233,447 |
-| Rolling in Dough | 20.00% | ~202,998 |
-| Does My Bum Look Big In This? | 17.00% | ~172,548 |
-| Climbing the Social Ladder | 16.00% | ~162,398 |
-| Safe City | 14.00% | ~142,098 |
-| Quay-King | 11.00% | ~111,649 |
-| Lawmaker | 10.00% | ~101,499 |
-| With Canals You Can! | 10.00% | ~101,499 |
-| Nomen Est Omen | 7.00% | ~71,049 |
-| Well Informed | 6.00% | ~60,899 |
-| Fire Watch | 5.00% | ~50,749 |
-| Greenest City | 4.00% | ~40,600 |
+| Pioneer | 71.00% | ~720,661 |
+| Green Energy | 60.00% | ~609,009 |
+| Foggy Weather | 59.00% | ~598,859 |
+| Singing In The- | 59.00% | ~598,859 |
+| Unpopular Mayor | 40.00% | ~406,006 |
+| Power at Your Fingertips | 33.00% | ~334,955 |
+| City Planner | 23.00% | ~233,453 |
+| Rolling in Dough | 20.00% | ~203,003 |
+| Does My Bum Look Big In This? | 17.00% | ~172,553 |
+| Climbing the Social Ladder | 16.00% | ~162,402 |
+| Safe City | 14.00% | ~142,102 |
+| Quay-King | 11.00% | ~111,652 |
+| Lawmaker | 10.00% | ~101,502 |
+| With Canals You Can! | 10.00% | ~101,502 |
+| Nomen Est Omen | 7.00% | ~71,051 |
+| Well Informed | 6.00% | ~60,901 |
+| Fire Watch | 5.00% | ~50,751 |
+| Greenest City | 4.00% | ~40,601 |
 | Heavenly City | 3.00% | ~30,450 |
 | Reporting! | 3.00% | ~30,450 |
 | SIMulated City | 3.00% | ~30,450 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~1,015 |
 | Z00 | 0.10% | ~1,015 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,014,988 (Ranked 13)  
+Progressed: 1,015,015 (Ranked 13)  
 Completed: 10 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,7 +258,7 @@ Completed: 10 (0.00%) (Ranked 266)
 | 2023-08-27 | 1,010,757 | 10 |
 | 2023-08-28 | 1,012,834 | 10 |
 | 2023-08-29 | 1,014,849 | 10 |
-| 2023-08-30 | 1,014,988 | 10 |
+| 2023-08-30 | 1,015,015 | 10 |
 ## Awards
 Max (Relaxing): 5,241  (Ranked 67)  
 Sum: 39,680 (Ranked 31)  

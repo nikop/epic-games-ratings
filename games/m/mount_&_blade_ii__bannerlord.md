@@ -12,14 +12,14 @@ Number of Ratings: 5,603  (23.09.2022)
 | Horde breaker | 23.00% | ~13,783 |
 | Lawmaker | 23.00% | ~13,783 |
 | Trained | 22.00% | ~13,184 |
-| The king is pleased | 18.00% | ~10,786 |
+| The king is pleased | 18.00% | ~10,787 |
 | King Solomon | 17.00% | ~10,187 |
 | Apple of my eye | 15.00% | ~8,989 |
 | I can do it | 15.00% | ~8,989 |
 | God of the Arena | 13.00% | ~7,790 |
 | Against all odds | 12.00% | ~7,191 |
 | This Is Our Land | 11.00% | ~6,592 |
-| Swordbearer | 10.00% | ~5,992 |
+| Swordbearer | 10.00% | ~5,993 |
 | Duelist | 9.00% | ~5,393 |
 | Dynasty | 9.00% | ~5,393 |
 | I spit on your grave | 9.00% | ~5,393 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,925 (Ranked 88)  
+Progressed: 59,926 (Ranked 88)  
 Completed: 0 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 0 (0.00%) (Ranked 266)
 | 2023-08-27 | 59,800 | 0 |
 | 2023-08-28 | 59,865 | 0 |
 | 2023-08-29 | 59,922 | 0 |
-| 2023-08-30 | 59,925 | 0 |
+| 2023-08-30 | 59,926 | 0 |
 ## Awards
 Max (Character Customization): 7,000  (Ranked 51)  
 Sum: 14,231 (Ranked 68)  

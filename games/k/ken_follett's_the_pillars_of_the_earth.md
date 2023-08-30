@@ -6,12 +6,12 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 41.00% | ~6,109 |
-| Man of politics | 35.00% | ~5,215 |
-| Friends of sorts | 33.00% | ~4,917 |
-| Yet another secret | 33.00% | ~4,917 |
-| Let there be darkness | 32.00% | ~4,768 |
-| End of Book One | 30.00% | ~4,470 |
+| Tattletale | 41.00% | ~6,110 |
+| Man of politics | 35.00% | ~5,216 |
+| Friends of sorts | 33.00% | ~4,918 |
+| Yet another secret | 33.00% | ~4,918 |
+| Let there be darkness | 32.00% | ~4,769 |
+| End of Book One | 30.00% | ~4,471 |
 | Wannabe knight | 24.00% | ~3,576 |
 | Garden of Eden | 24.00% | ~3,576 |
 | Full house | 24.00% | ~3,576 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~447 |
 | Boy of mystery | 2.00% | ~298 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,901 (Ranked 118)  
+Progressed: 14,902 (Ranked 118)  
 Completed: 110 (0.74%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,6 +180,7 @@ Completed: 110 (0.74%) (Ranked 130)
 | 2023-08-27 | 14,854 | 110 |
 | 2023-08-28 | 14,878 | 110 |
 | 2023-08-29 | 14,901 | 110 |
+| 2023-08-30 | 14,902 | 110 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 300)  
 Sum: 188 (Ranked 376)  

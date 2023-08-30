@@ -6,13 +6,13 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 17.00% | ~108,680 |
-| Incurious | 16.00% | ~102,287 |
-| Climate Change | 15.00% | ~95,894 |
-| Stroller | 14.00% | ~89,501 |
-| Toy Train | 13.00% | ~83,108 |
-| Advanced Hiker | 12.00% | ~76,715 |
-| Hiker | 11.00% | ~70,322 |
+| Advanced Stroller | 17.00% | ~108,681 |
+| Incurious | 16.00% | ~102,288 |
+| Climate Change | 15.00% | ~95,895 |
+| Stroller | 14.00% | ~89,502 |
+| Toy Train | 13.00% | ~83,109 |
+| Advanced Hiker | 12.00% | ~76,716 |
+| Hiker | 11.00% | ~70,323 |
 | Mojave Courier | 5.00% | ~31,965 |
 | Saved by Nausicaä | 4.00% | ~25,572 |
 | Voyager | 3.00% | ~19,179 |
@@ -28,7 +28,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Nanuk | 0.60% | ~3,836 |
 | Shopaholic | 0.60% | ~3,836 |
 | Dynamite Fishing | 0.60% | ~3,836 |
-| Terminal Station | 0.50% | ~3,196 |
+| Terminal Station | 0.50% | ~3,197 |
 | Scrooge | 0.40% | ~2,557 |
 | Wayfarer | 0.30% | ~1,918 |
 | Advanced Wayfarer | 0.30% | ~1,918 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~639 |
 | 20 Miles under the Sea | 0.10% | ~639 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 639,295 (Ranked 26)  
+Progressed: 639,301 (Ranked 26)  
 Completed: 9 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,10 +191,10 @@ Completed: 9 (0.00%) (Ranked 266)
 | 2023-08-27 | 638,644 | 9 |
 | 2023-08-28 | 638,946 | 9 |
 | 2023-08-29 | 639,274 | 9 |
-| 2023-08-30 | 639,295 | 9 |
+| 2023-08-30 | 639,301 | 9 |
 ## Awards
 Max (Great for Beginners): 192  (Ranked 276)  
-Sum: 1,558 (Ranked 219)  
+Sum: 1,560 (Ranked 219)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
@@ -205,7 +205,7 @@ Diff (max vs sum): 57
 | This game is Relaxing | 179 |
 | This game has Amazing Characters | 166 |
 | This game has Playful Visuals | 157 |
-| This game is Highly Recommended | 155 |
+| This game is Highly Recommended | 157 |
 | This game has Amazing Storytelling | 145 |
 | This game has Obsessive Gameplay | 138 |
 | This game has Competitive Players | 37 |
@@ -323,3 +323,4 @@ Diff (max vs sum): 57
 | 2023-08-22 | 4.64 | - | 192 | 1,555 |
 | 2023-08-24 | 4.64 | - | 192 | 1,557 |
 | 2023-08-26 | 4.64 | - | 192 | 1,558 |
+| 2023-08-30 | 4.64 | - | 192 | 1,560 |

@@ -24,6 +24,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Lightning Hands | 2.00% | ~14,256 |
 | Path of the Prospect | 2.00% | ~14,256 |
 | Rumble in the Hangar | 2.00% | ~14,256 |
+| Take damage to save time | 2.00% | ~14,256 |
 | Bloody Sport | 2.00% | ~442 |
 | Scareless | 1.00% | ~7,128 |
 | Dance of the Praying Mantis | 1.00% | ~7,128 |
@@ -31,12 +32,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | I know Kung-Fu | 1.00% | ~7,128 |
 | Old Child | 1.00% | ~7,128 |
 | Kung-Fu Tussle | 1.00% | ~7,128 |
-| Take damage to save time | 1.00% | ~7,128 |
 | The best strikes are the ones we avoid | 1.00% | ~221 |
-| Muk Yan Master | 0.80% | ~5,702 |
-| Tiger on Fire | 0.80% | ~5,702 |
-| Source of Flying Daggers | 0.80% | ~5,702 |
-| Detective Story | 0.80% | ~5,702 |
+| Muk Yan Master | 0.80% | ~5,703 |
+| Tiger on Fire | 0.80% | ~5,703 |
+| Source of Flying Daggers | 0.80% | ~5,703 |
+| Detective Story | 0.80% | ~5,703 |
 | Deadly Venom | 0.80% | ~177 |
 | Iron Money | 0.70% | ~4,990 |
 | Legendary Talismans of Wuxing | 0.70% | ~4,990 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,426 |
 | Warriors from the Mountain | 0.10% | ~713 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,812 (Ranked 20)  
+Progressed: 712,813 (Ranked 20)  
 Completed: 12,876 (1.81%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 12,876 (1.81%) (Ranked 99)
 | 2023-08-27 | 712,763 | 12,874 |
 | 2023-08-28 | 712,797 | 12,876 |
 | 2023-08-29 | 712,811 | 12,876 |
-| 2023-08-30 | 712,812 | 12,876 |
+| 2023-08-30 | 712,813 | 12,876 |
 ## Awards
 Max (Great Boss Battles): 6,410  (Ranked 55)  
 Sum: 11,014 (Ranked 82)  

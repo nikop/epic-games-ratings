@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -34,9 +34,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9588,
+  "EOS_Progressed": 9590,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 788,
+  "EOS_NewPlayers": 789,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3629,6 +3629,11 @@
       "Time": "2023-08-30T01:43:34.6778825+00:00",
       "NumProgressed": 9588,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-30T02:18:35.0741108+00:00",
+      "NumProgressed": 9590,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -3689,7 +3694,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 2109
+      "UsersEstimate": 2110
     },
     {
       "ID": "16",
@@ -3847,9 +3852,9 @@
       "ID": "6",
       "SetID": "458bbdk",
       "Name": "Celebrations are in Order",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1438
+      "UsersEstimate": 1534
     },
     {
       "ID": "7",
@@ -3873,14 +3878,14 @@
       "Name": "Impossible Objects",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2013
+      "UsersEstimate": 2014
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 9588,
+      "Progressed": 9590,
       "Completed": 0
     }
   ],
@@ -3888,8 +3893,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-08-27T16:57:45.7126871+00:00",
-  "LastChanged_Achievements": "2023-08-30T01:43:34.6778818+00:00",
+  "LastChanged_Achievements": "2023-08-30T02:18:35.0741104+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:45.4170889+00:00",
-  "LastUpdate_Ratings": "2023-08-30T01:38:22.9780898+00:00",
-  "LastUpdate_Achievements": "2023-08-30T01:43:34.6779174+00:00"
+  "LastUpdate_Ratings": "2023-08-30T02:13:03.6350028+00:00",
+  "LastUpdate_Achievements": "2023-08-30T02:18:35.0741562+00:00"
 }

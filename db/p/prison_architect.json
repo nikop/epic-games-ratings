@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 33,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2015-10-06T14:47:00+00:00",
@@ -4914,9 +4914,9 @@
       "Count": 381
     }
   ],
-  "EOS_Progressed": 169577,
+  "EOS_Progressed": 169579,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 2574,
+  "EOS_NewPlayers": 2568,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19474,6 +19474,11 @@
       "Time": "2023-08-30T01:45:54.4282315+00:00",
       "NumProgressed": 169577,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-30T02:21:23.6483564+00:00",
+      "NumProgressed": 169579,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 16,
@@ -19517,7 +19522,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 27132
+      "UsersEstimate": 27133
     },
     {
       "ID": "Achievement_13",
@@ -19565,7 +19570,7 @@
       "Name": "Stone Walls",
       "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 44090
+      "UsersEstimate": 44091
     },
     {
       "ID": "Achievement_5",
@@ -19612,15 +19617,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 169577,
+      "Progressed": 169579,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-08-30T01:38:00.886691+00:00",
-  "LastChanged_Achievements": "2023-08-30T01:45:54.4282309+00:00",
+  "LastChanged_Achievements": "2023-08-30T02:21:23.6483547+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:33.2750627+00:00",
-  "LastUpdate_Ratings": "2023-08-30T01:38:00.8866915+00:00",
-  "LastUpdate_Achievements": "2023-08-30T01:45:54.4283088+00:00"
+  "LastUpdate_Ratings": "2023-08-30T02:12:30.3405628+00:00",
+  "LastUpdate_Achievements": "2023-08-30T02:21:23.6484472+00:00"
 }

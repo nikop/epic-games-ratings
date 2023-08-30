@@ -5800,9 +5800,9 @@
       "Count": 3739
     }
   ],
-  "EOS_Progressed": 135351,
+  "EOS_Progressed": 135360,
   "EOS_Completed": 138,
-  "EOS_NewPlayers": 393,
+  "EOS_NewPlayers": 399,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -19275,6 +19275,11 @@
       "Time": "2023-08-30T00:03:08.9382369+00:00",
       "NumProgressed": 135351,
       "NumCompleted": 138
+    },
+    {
+      "Time": "2023-08-30T02:17:09.6585714+00:00",
+      "NumProgressed": 135360,
+      "NumCompleted": 138
     }
   ],
   "TotalAchievements": 112,
@@ -19388,9 +19393,9 @@
       "ID": "blueprint01",
       "SetID": "anfd17p",
       "Name": "Some Assembly Required",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1083
+      "UsersEstimate": 1218
     },
     {
       "ID": "blueprint02",
@@ -19838,7 +19843,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 947
+      "UsersEstimate": 948
     },
     {
       "ID": "jackslot02",
@@ -19942,7 +19947,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 947
+      "UsersEstimate": 948
     },
     {
       "ID": "master02",
@@ -20181,15 +20186,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135351,
+      "Progressed": 135360,
       "Completed": 138
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-29T18:57:45.332931+00:00",
-  "LastChanged_Achievements": "2023-08-30T00:03:08.9382364+00:00",
+  "LastChanged_Achievements": "2023-08-30T02:17:09.658571+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:19.0477827+00:00",
-  "LastUpdate_Ratings": "2023-08-30T01:37:49.2442132+00:00",
-  "LastUpdate_Achievements": "2023-08-30T00:03:08.9385424+00:00"
+  "LastUpdate_Ratings": "2023-08-30T02:12:12.9335437+00:00",
+  "LastUpdate_Achievements": "2023-08-30T02:17:09.6589527+00:00"
 }

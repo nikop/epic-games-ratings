@@ -1483,9 +1483,9 @@
       "Count": 247
     }
   ],
-  "EOS_Progressed": 198638,
+  "EOS_Progressed": 198642,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 1993,
+  "EOS_NewPlayers": 1994,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -16148,6 +16148,11 @@
       "Time": "2023-08-30T01:45:34.4305501+00:00",
       "NumProgressed": 198638,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-08-30T02:20:56.4413638+00:00",
+      "NumProgressed": 198642,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 44,
@@ -16159,7 +16164,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 17877
+      "UsersEstimate": 17878
     },
     {
       "ID": "AtheistOx",
@@ -16183,7 +16188,7 @@
       "Name": "Chunin",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 11918
+      "UsersEstimate": 11919
     },
     {
       "ID": "CompleteMastery",
@@ -16231,7 +16236,7 @@
       "Name": "Genin",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 21850
+      "UsersEstimate": 21851
     },
     {
       "ID": "HappyLittleAccidents",
@@ -16247,7 +16252,7 @@
       "Name": "Happy Planning",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 11918
+      "UsersEstimate": 11919
     },
     {
       "ID": "HighFiveTheMoon",
@@ -16311,7 +16316,7 @@
       "Name": "Mugen Unchained",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 11918
+      "UsersEstimate": 11919
     },
     {
       "ID": "NoGimmicks",
@@ -16510,15 +16515,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 198638,
+      "Progressed": 198642,
       "Completed": 73
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-08-29T01:39:27.0047748+00:00",
-  "LastChanged_Achievements": "2023-08-30T01:45:34.4305496+00:00",
+  "LastChanged_Achievements": "2023-08-30T02:20:56.4413631+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:44.6562489+00:00",
-  "LastUpdate_Ratings": "2023-08-30T01:38:24.0638568+00:00",
-  "LastUpdate_Achievements": "2023-08-30T01:45:34.430644+00:00"
+  "LastUpdate_Ratings": "2023-08-30T02:13:05.6717998+00:00",
+  "LastUpdate_Achievements": "2023-08-30T02:20:56.4414937+00:00"
 }
