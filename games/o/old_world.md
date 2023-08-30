@@ -11,17 +11,17 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 4.00% | ~547 |
 | Play a Single Player Game | 4.00% | ~547 |
 | The Clergy | 4.00% | ~547 |
-| Able | 3.00% | ~410 |
-| Architect | 3.00% | ~410 |
-| Good | 3.00% | ~410 |
-| Intrepid | 3.00% | ~410 |
-| Learned | 3.00% | ~410 |
-| Mason | 3.00% | ~410 |
-| Noble | 3.00% | ~410 |
-| Strong | 3.00% | ~410 |
-| Hanging Gardens | 3.00% | ~410 |
-| Oracle | 3.00% | ~410 |
-| Trade Caravan | 3.00% | ~410 |
+| Able | 3.00% | ~411 |
+| Architect | 3.00% | ~411 |
+| Good | 3.00% | ~411 |
+| Intrepid | 3.00% | ~411 |
+| Learned | 3.00% | ~411 |
+| Mason | 3.00% | ~411 |
+| Noble | 3.00% | ~411 |
+| Strong | 3.00% | ~411 |
+| Hanging Gardens | 3.00% | ~411 |
+| Oracle | 3.00% | ~411 |
+| Trade Caravan | 3.00% | ~411 |
 | Regicide | 2.00% | ~274 |
 | Ambitious | 2.00% | ~274 |
 | Brilliant | 2.00% | ~274 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,681 (Ranked 120)  
+Progressed: 13,684 (Ranked 120)  
 Completed: 5 (0.04%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -435,7 +435,7 @@ Completed: 5 (0.04%) (Ranked 236)
 | 2023-08-27 | 13,616 | 5 |
 | 2023-08-28 | 13,635 | 5 |
 | 2023-08-29 | 13,661 | 5 |
-| 2023-08-30 | 13,681 | 5 |
+| 2023-08-30 | 13,684 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,799 (Ranked 207)  

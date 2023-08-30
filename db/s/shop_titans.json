@@ -5812,9 +5812,9 @@
       "Count": 3739
     }
   ],
-  "EOS_Progressed": 135392,
+  "EOS_Progressed": 135394,
   "EOS_Completed": 138,
-  "EOS_NewPlayers": 401,
+  "EOS_NewPlayers": 403,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -19367,6 +19367,11 @@
       "Time": "2023-08-30T18:03:10.8094712+00:00",
       "NumProgressed": 135392,
       "NumCompleted": 138
+    },
+    {
+      "Time": "2023-08-30T19:02:22.6609163+00:00",
+      "NumProgressed": 135394,
+      "NumCompleted": 138
     }
   ],
   "TotalAchievements": 112,
@@ -19608,9 +19613,9 @@
       "ID": "commonres01",
       "SetID": "anfd17p",
       "Name": "Basic in Bulk",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1354
+      "UsersEstimate": 2708
     },
     {
       "ID": "commonres02",
@@ -20256,9 +20261,9 @@
       "ID": "workers03",
       "SetID": "anfd17p",
       "Name": "Complete Monopoly",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 406
+      "UsersEstimate": 542
     },
     {
       "ID": "yami_a",
@@ -20273,15 +20278,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135392,
+      "Progressed": 135394,
       "Completed": 138
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-30T17:57:36.0509996+00:00",
-  "LastChanged_Achievements": "2023-08-30T18:03:10.8094705+00:00",
+  "LastChanged_Achievements": "2023-08-30T19:02:22.6609155+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:19.0477827+00:00",
-  "LastUpdate_Ratings": "2023-08-30T17:57:36.0510001+00:00",
-  "LastUpdate_Achievements": "2023-08-30T18:03:10.8096985+00:00"
+  "LastUpdate_Ratings": "2023-08-30T18:57:28.7523969+00:00",
+  "LastUpdate_Achievements": "2023-08-30T19:02:22.6611085+00:00"
 }

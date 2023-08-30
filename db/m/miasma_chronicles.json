@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1377,
+  "EOS_Progressed": 1378,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2886,6 +2886,11 @@
       "Time": "2023-08-27T11:07:07.7326743+00:00",
       "NumProgressed": 1377,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-30T19:02:16.0296648+00:00",
+      "NumProgressed": 1378,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -2913,7 +2918,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1033
+      "UsersEstimate": 1034
     },
     {
       "ID": "ATTENBOROUGH",
@@ -3041,7 +3046,7 @@
       "Name": "Editor Adept",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "ENDGAME",
@@ -3073,7 +3078,7 @@
       "Name": "Firestarter",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "FIRST_BLOOD",
@@ -3081,7 +3086,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -3145,7 +3150,7 @@
       "Name": "I am the law!",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 881
+      "UsersEstimate": 882
     },
     {
       "ID": "INFILTRATOR",
@@ -3153,7 +3158,7 @@
       "Name": "Infiltrator",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "LUMBERJACK",
@@ -3201,7 +3206,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1075
     },
     {
       "ID": "RECYCLER",
@@ -3249,7 +3254,7 @@
       "Name": "Side Order",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "SILENT_BUT_VIOLENT",
@@ -3257,7 +3262,7 @@
       "Name": "Silent but Violent",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "TECHNOPHOBE",
@@ -3304,7 +3309,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1377,
+      "Progressed": 1378,
       "Completed": 0
     }
   ],
@@ -3312,8 +3317,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-08-24T13:04:37.3738417+00:00",
-  "LastChanged_Achievements": "2023-08-30T17:02:17.2217755+00:00",
+  "LastChanged_Achievements": "2023-08-30T19:02:16.0296636+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:56.8957598+00:00",
-  "LastUpdate_Ratings": "2023-08-30T17:57:20.210901+00:00",
-  "LastUpdate_Achievements": "2023-08-30T17:02:17.2218471+00:00"
+  "LastUpdate_Ratings": "2023-08-30T18:57:18.0897904+00:00",
+  "LastUpdate_Achievements": "2023-08-30T19:02:16.0316164+00:00"
 }

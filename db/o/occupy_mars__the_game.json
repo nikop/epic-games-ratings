@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -232,9 +232,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1555,
+  "EOS_Progressed": 1557,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3417,6 +3417,11 @@
       "Time": "2023-08-30T17:04:32.7323277+00:00",
       "NumProgressed": 1555,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-30T19:04:05.7524796+00:00",
+      "NumProgressed": 1557,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3508,7 +3513,7 @@
       "Name": "Zero Waste",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -3554,9 +3559,9 @@
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
       "SetID": "l546gc",
       "Name": "Bull\u2019s eye",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "NEW_ACHIEVEMENT_CAVEMAN",
@@ -3604,7 +3609,7 @@
       "Name": "Electrician",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -3620,7 +3625,7 @@
       "Name": "Gardener",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -3644,7 +3649,7 @@
       "Name": "I am the greatest botanist on this planet.",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
@@ -3676,7 +3681,7 @@
       "Name": "Miner",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -3700,7 +3705,7 @@
       "Name": "Occupy Mars!",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -3754,9 +3759,9 @@
       "ID": "NEW_ACHIEVEMENT_ROVER_MECHANIC",
       "SetID": "l546gc",
       "Name": "Rover Mechanic",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "NEW_ACHIEVEMENT_SPACE_FOREST",
@@ -3788,7 +3793,7 @@
       "Name": "Bob The Builder",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -3811,7 +3816,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1555,
+      "Progressed": 1557,
       "Completed": 0
     }
   ],
@@ -3819,8 +3824,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-08-28T18:01:28.2761395+00:00",
-  "LastChanged_Achievements": "2023-08-30T18:04:37.4552943+00:00",
+  "LastChanged_Achievements": "2023-08-30T19:04:05.7524792+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:32.8469898+00:00",
-  "LastUpdate_Ratings": "2023-08-30T18:01:22.6092709+00:00",
-  "LastUpdate_Achievements": "2023-08-30T18:04:37.4553509+00:00"
+  "LastUpdate_Ratings": "2023-08-30T19:00:02.5378855+00:00",
+  "LastUpdate_Achievements": "2023-08-30T19:04:05.7525292+00:00"
 }

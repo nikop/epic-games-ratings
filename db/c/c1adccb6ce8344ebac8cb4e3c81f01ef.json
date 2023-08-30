@@ -2,7 +2,7 @@
   "ID": "c1adccb6ce8344ebac8cb4e3c81f01ef",
   "Name": "Evalina The Sorceress",
   "ProductSlug": "evalinathe-sorceress-a9a60a",
-  "Ranking_EOS_Progress": 247,
+  "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 92,
   "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 40,
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 411,
+  "EOS_Progressed": 413,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 236,
+  "EOS_NewPlayers": 235,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 2.19,
+  "EOS_Completed_Percentage": 2.18,
   "EosHistory": [
     {
       "Time": "2023-06-26T21:03:11.1861868+00:00",
@@ -1291,6 +1291,11 @@
       "Time": "2023-08-30T18:04:23.702305+00:00",
       "NumProgressed": 411,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-30T19:03:56.0974041+00:00",
+      "NumProgressed": 413,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-06-26T21:03:11.1861911+00:00",
@@ -1319,7 +1324,7 @@
       "Name": "Green Skeleton",
       "Percentage": 4,
       "XP": 200,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "OrangeSkeleton",
@@ -1327,7 +1332,7 @@
       "Name": "Orange Skeleton",
       "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "RedSkeleton",
@@ -1335,7 +1340,7 @@
       "Name": "Red Skeleton",
       "Percentage": 59,
       "XP": 100,
-      "UsersEstimate": 242
+      "UsersEstimate": 244
     },
     {
       "ID": "YellowSkeleton",
@@ -1350,14 +1355,14 @@
     {
       "ID": "a76l54k",
       "IsBase": true,
-      "Progressed": 411,
+      "Progressed": 413,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-06-27T08:56:55.4742028+00:00",
   "FirstSeenAchievements": "2023-06-15T10:01:05.3060571+00:00",
-  "LastChanged_Achievements": "2023-08-30T18:04:23.7023043+00:00",
+  "LastChanged_Achievements": "2023-08-30T19:03:56.0974036+00:00",
   "LastUpdate_AppInfo": "2023-08-24T17:57:03.5736235+00:00",
-  "LastUpdate_Ratings": "2023-08-30T18:00:31.607793+00:00",
-  "LastUpdate_Achievements": "2023-08-30T18:04:23.702321+00:00"
+  "LastUpdate_Ratings": "2023-08-30T18:59:27.3892715+00:00",
+  "LastUpdate_Achievements": "2023-08-30T19:03:56.0974153+00:00"
 }

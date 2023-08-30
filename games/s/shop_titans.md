@@ -7,8 +7,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Sponsored by Argon | 2.00% | ~2,708 |
+| Basic in Bulk | 2.00% | ~2,708 |
 | Titan's First Steps | 2.00% | ~2,708 |
-| Basic in Bulk | 1.00% | ~1,354 |
 | Disintermediation | 1.00% | ~1,354 |
 | It's Free Real Estate | 1.00% | ~1,354 |
 | Tinkle of Coins | 1.00% | ~1,354 |
@@ -54,6 +54,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Seasoned Journeyman | 0.40% | ~542 |
 | Magical Harmony | 0.40% | ~542 |
 | Special Ingredient | 0.40% | ~542 |
+| Complete Monopoly | 0.40% | ~542 |
 | A Notch Above the Rest | 0.30% | ~406 |
 | Cream of the Crop | 0.30% | ~406 |
 | Top of the World | 0.30% | ~406 |
@@ -97,7 +98,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Master Recycler | 0.30% | ~406 |
 | Exotic Commodities | 0.30% | ~406 |
 | Economy of Scarce | 0.30% | ~406 |
-| Complete Monopoly | 0.30% | ~406 |
 | The Free Encyclopedia | 0.20% | ~271 |
 | Thank You Tom Nook | 0.20% | ~271 |
 | A Legend is Born | 0.20% | ~271 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~135 |
 | Cash Only Please | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,392 (Ranked 67)  
+Progressed: 135,394 (Ranked 67)  
 Completed: 138 (0.10%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,7 +251,7 @@ Completed: 138 (0.10%) (Ranked 213)
 | 2023-08-27 | 135,255 | 138 |
 | 2023-08-28 | 135,299 | 138 |
 | 2023-08-29 | 135,350 | 138 |
-| 2023-08-30 | 135,392 | 138 |
+| 2023-08-30 | 135,394 | 138 |
 ## Awards
 Max (Great for Beginners): 4,718  (Ranked 71)  
 Sum: 27,157 (Ranked 47)  

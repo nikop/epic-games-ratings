@@ -2,9 +2,9 @@
   "ID": "0b4313e25d17431b901edda54d678ab4",
   "Name": "Echo Storm",
   "ProductSlug": "echo-storm-4e5fbe",
-  "Ranking_EOS_Progress": 411,
+  "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-11T05:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 28,
+  "EOS_Progressed": 29,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -149,6 +149,11 @@
       "Time": "2023-08-30T15:05:44.7656198+00:00",
       "NumProgressed": 28,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-30T19:05:16.6749834+00:00",
+      "NumProgressed": 29,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 16,
@@ -166,15 +171,15 @@
       "ID": "earn3000",
       "SetID": "bma0pih",
       "Name": "Reach",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 60,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "fastBossKill",
       "SetID": "bma0pih",
       "Name": "Done in time",
-      "Percentage": 43,
+      "Percentage": 41,
       "XP": 50,
       "UsersEstimate": 12
     },
@@ -182,7 +187,7 @@
       "ID": "finishGame",
       "SetID": "bma0pih",
       "Name": "Catharsis",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -190,9 +195,9 @@
       "ID": "kill100",
       "SetID": "bma0pih",
       "Name": "Recruit",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "kill300",
@@ -200,13 +205,13 @@
       "Name": "Soldier",
       "Percentage": 86,
       "XP": 100,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "kill750",
       "SetID": "bma0pih",
       "Name": "War machine",
-      "Percentage": 79,
+      "Percentage": 76,
       "XP": 150,
       "UsersEstimate": 22
     },
@@ -214,7 +219,7 @@
       "ID": "killWithHammer",
       "SetID": "bma0pih",
       "Name": "Eternal blacksmith",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
       "UsersEstimate": 9
     },
@@ -222,7 +227,7 @@
       "ID": "leviathan01",
       "SetID": "bma0pih",
       "Name": "Flying death",
-      "Percentage": 75,
+      "Percentage": 72,
       "XP": 55,
       "UsersEstimate": 21
     },
@@ -238,7 +243,7 @@
       "ID": "leviathan03",
       "SetID": "bma0pih",
       "Name": "Flesh fear",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -246,7 +251,7 @@
       "ID": "maxLevel",
       "SetID": "bma0pih",
       "Name": "Max level",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -254,7 +259,7 @@
       "ID": "plague",
       "SetID": "bma0pih",
       "Name": "Plague",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -278,7 +283,7 @@
       "ID": "unlockPlasmaMoon",
       "SetID": "bma0pih",
       "Name": "Solar power",
-      "Percentage": 64,
+      "Percentage": 62,
       "XP": 20,
       "UsersEstimate": 18
     }
@@ -287,13 +292,13 @@
     {
       "ID": "bma0pih",
       "IsBase": true,
-      "Progressed": 28,
+      "Progressed": 29,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-05-07T09:02:54.6493409+00:00",
-  "LastChanged_Achievements": "2023-08-30T18:06:14.7311773+00:00",
+  "LastChanged_Achievements": "2023-08-30T19:05:16.674983+00:00",
   "LastUpdate_AppInfo": "2023-08-27T16:57:09.5121242+00:00",
-  "LastUpdate_Ratings": "2023-08-30T17:58:40.9394412+00:00",
-  "LastUpdate_Achievements": "2023-08-30T18:06:14.7311885+00:00"
+  "LastUpdate_Ratings": "2023-08-30T18:58:12.2837253+00:00",
+  "LastUpdate_Achievements": "2023-08-30T19:05:16.6749929+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "children-of-silentown-52cc21",
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewPlayers": 300,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-01-11T16:00:00+00:00",
@@ -384,9 +384,9 @@
       "ID": "Footprint",
       "SetID": "9kk0gal",
       "Name": "Mysterious footprints",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 94
+      "UsersEstimate": 96
     },
     {
       "ID": "Friend",
@@ -529,8 +529,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-08-30T18:07:34.8291788+00:00",
+  "LastChanged_Achievements": "2023-08-30T19:06:13.6674626+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:09.7603016+00:00",
-  "LastUpdate_Ratings": "2023-08-30T17:59:39.1988421+00:00",
-  "LastUpdate_Achievements": "2023-08-30T18:07:34.8291988+00:00"
+  "LastUpdate_Ratings": "2023-08-30T18:58:51.5905593+00:00",
+  "LastUpdate_Achievements": "2023-08-30T19:06:13.6674775+00:00"
 }

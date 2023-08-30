@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 337,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -772,9 +772,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12082,
+  "EOS_Progressed": 12083,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -9537,6 +9537,11 @@
       "Time": "2023-08-30T17:05:53.1210656+00:00",
       "NumProgressed": 12082,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-08-30T19:05:02.9464712+00:00",
+      "NumProgressed": 12083,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 35,
@@ -9548,7 +9553,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9786
+      "UsersEstimate": 9787
     },
     {
       "ID": "ACH02",
@@ -9724,7 +9729,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3141
+      "UsersEstimate": 3142
     },
     {
       "ID": "ACH24",
@@ -9827,7 +9832,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12082,
+      "Progressed": 12083,
       "Completed": 41
     }
   ],
@@ -9835,8 +9840,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-08-29T14:59:29.0000831+00:00",
-  "LastChanged_Achievements": "2023-08-30T18:05:55.641514+00:00",
+  "LastChanged_Achievements": "2023-08-30T19:05:02.9464708+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:49.3440273+00:00",
-  "LastUpdate_Ratings": "2023-08-30T17:59:49.0191567+00:00",
-  "LastUpdate_Achievements": "2023-08-30T18:05:55.6415798+00:00"
+  "LastUpdate_Ratings": "2023-08-30T18:58:58.1957552+00:00",
+  "LastUpdate_Achievements": "2023-08-30T19:05:02.9465352+00:00"
 }

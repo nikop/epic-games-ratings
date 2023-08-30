@@ -3,9 +3,9 @@
   "Name": "Placid Plastic Duck Simulator",
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 289,
-  "Ranking_EOS_Completed": 42,
-  "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_Completed": 40,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
     "PcReleaseDate": "2022-07-06T08:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 232,
-  "EOS_Completed": 15,
+  "EOS_Completed": 16,
   "EOS_NewPlayers": 12,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.47,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 6.9,
   "EosHistory": [
     {
       "Time": "2023-06-10T10:01:48.8314977+00:00",
@@ -961,6 +961,11 @@
       "Time": "2023-08-30T14:06:15.6107582+00:00",
       "NumProgressed": 232,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-08-30T19:05:19.1221624+00:00",
+      "NumProgressed": 232,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 16,
@@ -1002,9 +1007,9 @@
       "ID": "NEW_ACHIEVEMENT_1_12",
       "SetID": "8d3ci0",
       "Name": "That\u0027s all, ducks!",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 160,
-      "UsersEstimate": 39
+      "UsersEstimate": 42
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_13",
@@ -1026,9 +1031,9 @@
       "ID": "NEW_ACHIEVEMENT_1_15",
       "SetID": "8d3ci0",
       "Name": "Floatpiercer",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 150,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
@@ -1100,13 +1105,13 @@
       "ID": "8d3ci0",
       "IsBase": true,
       "Progressed": 232,
-      "Completed": 15
+      "Completed": 16
     }
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-08-30T18:06:18.3290463+00:00",
+  "LastChanged_Achievements": "2023-08-30T19:05:19.1221616+00:00",
   "LastUpdate_AppInfo": "2023-08-26T16:57:08.4997824+00:00",
-  "LastUpdate_Ratings": "2023-08-30T18:00:30.845565+00:00",
-  "LastUpdate_Achievements": "2023-08-30T18:06:18.329065+00:00"
+  "LastUpdate_Ratings": "2023-08-30T18:59:26.8946991+00:00",
+  "LastUpdate_Achievements": "2023-08-30T19:05:19.122176+00:00"
 }

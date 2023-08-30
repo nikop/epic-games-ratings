@@ -6,32 +6,33 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 0.40% | ~3,321 |
-| Skillful | 0.40% | ~3,321 |
-| MU/TH/UR Dearest | 0.40% | ~3,321 |
+| It wakes | 0.40% | ~3,322 |
+| Skillful | 0.40% | ~3,322 |
+| MU/TH/UR Dearest | 0.40% | ~3,322 |
 | Zealous | 0.30% | ~2,491 |
 | Not half bad | 0.30% | ~2,491 |
 | Apt Survivor | 0.30% | ~2,491 |
+| Survival Treasures | 0.30% | ~2,491 |
 | Make Some Noise | 0.30% | ~2,491 |
 | Terror of LV-426 | 0.30% | ~2,491 |
-| The Grand Sacrifice | 0.20% | ~1,660 |
-| Agonizing Escape | 0.20% | ~1,660 |
-| Backdoor Escape | 0.20% | ~1,660 |
-| I've got your back | 0.20% | ~1,660 |
-| No one left behind | 0.20% | ~1,660 |
-| Medic | 0.20% | ~1,660 |
-| Handyman | 0.20% | ~1,660 |
-| Nerves of steel | 0.20% | ~1,660 |
-| Perfect Escape | 0.20% | ~1,660 |
-| Perfect Killing | 0.20% | ~1,660 |
-| Bloody Millionaire | 0.20% | ~1,660 |
-| Survival Treasures | 0.20% | ~1,660 |
-| I | 0.20% | ~1,660 |
-| Sorted | 0.20% | ~1,660 |
-| Healthy Obsession | 0.20% | ~1,660 |
-| Resurgence | 0.20% | ~1,660 |
-| Preemptive Strike | 0.20% | ~1,660 |
-| Humanitarian | 0.20% | ~1,660 |
+| The Grand Sacrifice | 0.20% | ~1,661 |
+| Agonizing Escape | 0.20% | ~1,661 |
+| Backdoor Escape | 0.20% | ~1,661 |
+| I've got your back | 0.20% | ~1,661 |
+| No one left behind | 0.20% | ~1,661 |
+| Medic | 0.20% | ~1,661 |
+| Handyman | 0.20% | ~1,661 |
+| Nerves of steel | 0.20% | ~1,661 |
+| Perfect Escape | 0.20% | ~1,661 |
+| Perfect Killing | 0.20% | ~1,661 |
+| Bloody Millionaire | 0.20% | ~1,661 |
+| I | 0.20% | ~1,661 |
+| Engineer | 0.20% | ~1,661 |
+| Sorted | 0.20% | ~1,661 |
+| Healthy Obsession | 0.20% | ~1,661 |
+| Resurgence | 0.20% | ~1,661 |
+| Preemptive Strike | 0.20% | ~1,661 |
+| Humanitarian | 0.20% | ~1,661 |
 | A bite for the Entity | 0.10% | ~830 |
 | A feast for the Entity | 0.10% | ~830 |
 | Blood on your hands | 0.10% | ~830 |
@@ -72,7 +73,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Shocking Treatment | 0.10% | ~830 |
 | Mad House | 0.10% | ~830 |
 | Adept Doctor | 0.10% | ~830 |
-| Engineer | 0.10% | ~830 |
 | Leapfrog | 0.10% | ~830 |
 | Adept Min | 0.10% | ~830 |
 | The man behind the bush | 0.10% | ~830 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~830 |
 | Adept Ripley | 0.10% | ~830 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 830,243 (Ranked 15)  
+Progressed: 830,419 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -368,7 +368,7 @@ Completed: 48 (0.01%) (Ranked 253)
 | 2023-08-27 | 822,167 | 48 |
 | 2023-08-28 | 824,988 | 48 |
 | 2023-08-29 | 828,020 | 48 |
-| 2023-08-30 | 830,243 | 48 |
+| 2023-08-30 | 830,419 | 48 |
 ## Awards
 Max (Diverse Characters): 31,677  (Ranked 15)  
 Sum: 248,552 (Ranked 11)  

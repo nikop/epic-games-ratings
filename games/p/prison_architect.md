@@ -6,24 +6,24 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 26.00% | ~44,152 |
-| Get Busy Living | 16.00% | ~27,171 |
-| Samuel Norton | 9.00% | ~15,283 |
-| Spare The Rod | 5.00% | ~8,491 |
-| Don't Put Me In The Dark | 3.00% | ~5,094 |
-| Wait and Hope | 3.00% | ~5,094 |
-| I May Have Found A Way Out Of Here | 3.00% | ~5,094 |
-| Throw The Book At Them | 2.00% | ~3,396 |
-| Iron Bars | 2.00% | ~3,396 |
+| Stone Walls | 26.00% | ~44,158 |
+| Get Busy Living | 16.00% | ~27,174 |
+| Samuel Norton | 9.00% | ~15,286 |
+| Spare The Rod | 5.00% | ~8,492 |
+| Don't Put Me In The Dark | 3.00% | ~5,095 |
+| Wait and Hope | 3.00% | ~5,095 |
+| I May Have Found A Way Out Of Here | 3.00% | ~5,095 |
+| Throw The Book At Them | 2.00% | ~3,397 |
+| Iron Bars | 2.00% | ~3,397 |
 | D.B. Cooper | 1.00% | ~1,698 |
 | Reformation | 0.60% | ~1,019 |
 | Crowd Control | 0.50% | ~849 |
 | Freedom | 0.40% | ~679 |
-| Confined | 0.30% | ~509 |
+| Confined | 0.30% | ~510 |
 | It's Not What You Know... | 0.10% | ~170 |
 | ... It's What You Can Prove | 0.10% | ~170 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 169,816 (Ranked 64)  
+Progressed: 169,840 (Ranked 64)  
 Completed: 7 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,10 +155,10 @@ Completed: 7 (0.00%) (Ranked 266)
 | 2023-08-27 | 168,866 | 7 |
 | 2023-08-28 | 169,213 | 7 |
 | 2023-08-29 | 169,552 | 7 |
-| 2023-08-30 | 169,816 | 7 |
+| 2023-08-30 | 169,840 | 7 |
 ## Awards
 Max (Extremely Fun): 489  (Ranked 200)  
-Sum: 3,796 (Ranked 147)  
+Sum: 3,797 (Ranked 147)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
@@ -170,7 +170,7 @@ Diff (max vs sum): 53
 | This game has Diverse Characters | 414 |
 | This game has Amazing Storytelling | 406 |
 | This game is Educational | 381 |
-| This game has Amazing Characters | 375 |
+| This game has Amazing Characters | 376 |
 | This game has a Creative Community | 292 |
 | This game has Obsessive Gameplay | 234 |
 ## Ratings History
@@ -395,4 +395,4 @@ Diff (max vs sum): 53
 | 2023-08-27 | 4.61 | - | 489 | 3,783 |
 | 2023-08-28 | 4.61 | - | 489 | 3,788 |
 | 2023-08-29 | 4.61 | - | 489 | 3,789 |
-| 2023-08-30 | 4.61 | - | 489 | 3,796 |
+| 2023-08-30 | 4.61 | - | 489 | 3,797 |

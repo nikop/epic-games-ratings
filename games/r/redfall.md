@@ -9,6 +9,7 @@ Rating: 3.50 (Ranked 981)
 | Ne Plus Ultra | 0.50% | ~9 |
 | Neighborhood Revitalization | 0.30% | ~5 |
 | Enter of Your Own Free Will | 0.30% | ~5 |
+| Welcome to the Neighborhood | 0.30% | ~5 |
 | I Like My Stakes Rare! | 0.30% | ~5 |
 | Radio Silence | 0.30% | ~5 |
 | Grounded | 0.30% | ~5 |
@@ -17,7 +18,6 @@ Rating: 3.50 (Ranked 981)
 | Sucks To Be You | 0.30% | ~5 |
 | Heart Attack | 0.30% | ~5 |
 | Contingency Plans | 0.20% | ~3 |
-| Welcome to the Neighborhood | 0.20% | ~3 |
 | Sic Transit Umbra | 0.20% | ~3 |
 | Good Morning | 0.20% | ~3 |
 | Peek-a-boo | 0.20% | ~3 |

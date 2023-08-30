@@ -6966,9 +6966,9 @@
       "Count": 609
     }
   ],
-  "EOS_Progressed": 291094,
+  "EOS_Progressed": 291095,
   "EOS_Completed": 458,
-  "EOS_NewPlayers": 428,
+  "EOS_NewPlayers": 424,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -21181,6 +21181,11 @@
       "Time": "2023-08-30T18:04:35.7527921+00:00",
       "NumProgressed": 291094,
       "NumCompleted": 458
+    },
+    {
+      "Time": "2023-08-30T19:04:04.5750915+00:00",
+      "NumProgressed": 291095,
+      "NumCompleted": 458
     }
   ],
   "TotalAchievements": 45,
@@ -21200,7 +21205,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26198
+      "UsersEstimate": 26199
     },
     {
       "ID": "PFA_11",
@@ -21208,7 +21213,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 29109
+      "UsersEstimate": 29110
     },
     {
       "ID": "PFA_12",
@@ -21216,7 +21221,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 29109
+      "UsersEstimate": 29110
     },
     {
       "ID": "PFA_13",
@@ -21224,7 +21229,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 26198
+      "UsersEstimate": 26199
     },
     {
       "ID": "PFA_14",
@@ -21248,7 +21253,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29109
+      "UsersEstimate": 29110
     },
     {
       "ID": "PFA_17",
@@ -21296,7 +21301,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26198
+      "UsersEstimate": 26199
     },
     {
       "ID": "PFA_22",
@@ -21312,7 +21317,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29109
+      "UsersEstimate": 29110
     },
     {
       "ID": "PFA_24",
@@ -21320,7 +21325,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29109
+      "UsersEstimate": 29110
     },
     {
       "ID": "PFA_25",
@@ -21376,7 +21381,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29109
+      "UsersEstimate": 29110
     },
     {
       "ID": "PFA_31",
@@ -21448,7 +21453,7 @@
       "Name": "Coasting Along",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29109
+      "UsersEstimate": 29110
     },
     {
       "ID": "PFA_4",
@@ -21536,7 +21541,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29109
+      "UsersEstimate": 29110
     },
     {
       "ID": "PFA_9",
@@ -21551,7 +21556,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 291094,
+      "Progressed": 291095,
       "Completed": 458
     }
   ],
@@ -21559,8 +21564,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-08-30T17:01:16.6582063+00:00",
-  "LastChanged_Achievements": "2023-08-30T18:04:35.7527915+00:00",
+  "LastChanged_Achievements": "2023-08-30T19:04:04.5750911+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:27.4425386+00:00",
-  "LastUpdate_Ratings": "2023-08-30T18:01:17.2947246+00:00",
-  "LastUpdate_Achievements": "2023-08-30T18:04:35.7529123+00:00"
+  "LastUpdate_Ratings": "2023-08-30T18:59:58.8671192+00:00",
+  "LastUpdate_Achievements": "2023-08-30T19:04:04.5751892+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "8bf17fa0bd774f72bb06bd095830af2a",
   "Name": "The Dragoness Command Of The Flame",
   "ProductSlug": "the-dragoness-command-of-the-flame-b3b544",
-  "Ranking_EOS_Progress": 419,
+  "Ranking_EOS_Progress": 420,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 340,
   "Ranking_EOS_NewCompleters": 102,
@@ -343,9 +343,9 @@
       "ID": "SteamAchievment_CompleteQuest08",
       "SetID": "b8gj0ip",
       "Name": "Savior of the Fortress",
-      "Percentage": 9,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SteamAchievment_CompleteQuest09",
@@ -439,9 +439,9 @@
       "ID": "SteamAchievment_MergeAnyArtifactOnMaxLevel",
       "SetID": "b8gj0ip",
       "Name": "Merging Specialist",
-      "Percentage": 4,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
@@ -454,8 +454,8 @@
   ],
   "FirstSeen": "2023-08-10T10:57:59.2838137+00:00",
   "FirstSeenAchievements": "2023-05-30T14:00:09.5243374+00:00",
-  "LastChanged_Achievements": "2023-08-30T18:07:27.083137+00:00",
+  "LastChanged_Achievements": "2023-08-30T19:06:07.9205923+00:00",
   "LastUpdate_AppInfo": "2023-08-29T18:57:23.3563189+00:00",
-  "LastUpdate_Ratings": "2023-08-30T18:00:42.8640539+00:00",
-  "LastUpdate_Achievements": "2023-08-30T18:07:27.0831707+00:00"
+  "LastUpdate_Ratings": "2023-08-30T18:59:35.5120681+00:00",
+  "LastUpdate_Achievements": "2023-08-30T19:06:07.920616+00:00"
 }

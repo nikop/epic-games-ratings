@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 504)
 | Cleanup crew | 1.00% | ~196 |
 | Flying Lightning | 1.00% | ~196 |
 | Overdeer | 0.50% | ~98 |
-| Cloud Services | 0.20% | ~39 |
+| Cloud Services | 0.30% | ~59 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 19,556 (Ranked 109)  
 Completed: 37 (0.19%) (Ranked 193)  

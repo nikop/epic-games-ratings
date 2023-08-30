@@ -12,7 +12,7 @@
 | The Gambit Has Begun | 29.00% | ~160 |
 | Powder Monkey | 27.00% | ~148 |
 | Somewhere Deep in the Lost Caribbean | 22.00% | ~121 |
-| Mirror Mirror on the Wall | 21.00% | ~116 |
+| Mirror Mirror on the Wall | 22.00% | ~121 |
 | Pirates Assemble! | 19.00% | ~104 |
 | Fishy Fish | 19.00% | ~104 |
 | Buccaneer | 18.00% | ~99 |

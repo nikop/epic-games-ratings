@@ -915,9 +915,9 @@
       "ID": "Donut",
       "SetID": "1fffk9d",
       "Name": "Was it good?",
-      "Percentage": 0.5,
+      "Percentage": 0.9,
       "XP": 90,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Extra Level",
@@ -955,9 +955,9 @@
       "ID": "Statue Collector Intermediate",
       "SetID": "1fffk9d",
       "Name": "10 Suicide Guy statues",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 77
+      "UsersEstimate": 80
     },
     {
       "ID": "Statue Collector Master",
@@ -1002,8 +1002,8 @@
   ],
   "FirstSeen": "2023-06-15T07:57:21.3305809+00:00",
   "FirstSeenAchievements": "2023-05-16T16:00:57.0168149+00:00",
-  "LastChanged_Achievements": "2023-08-30T18:03:12.1004522+00:00",
+  "LastChanged_Achievements": "2023-08-30T19:02:23.572636+00:00",
   "LastUpdate_AppInfo": "2023-08-30T03:56:55.1503642+00:00",
-  "LastUpdate_Ratings": "2023-08-30T18:00:51.0804341+00:00",
-  "LastUpdate_Achievements": "2023-08-30T18:03:12.1004726+00:00"
+  "LastUpdate_Ratings": "2023-08-30T18:59:40.9052334+00:00",
+  "LastUpdate_Achievements": "2023-08-30T19:02:23.5726519+00:00"
 }

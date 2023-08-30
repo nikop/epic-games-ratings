@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 488,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -337,9 +337,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 1823,
+  "EOS_Progressed": 1824,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -1942,6 +1942,11 @@
       "Time": "2023-08-30T12:05:04.7665574+00:00",
       "NumProgressed": 1823,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-08-30T19:05:11.3481889+00:00",
+      "NumProgressed": 1824,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2201,7 +2206,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1185
+      "UsersEstimate": 1186
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -2249,7 +2254,7 @@
       "Name": "Self-Improvement",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -2265,7 +2270,7 @@
       "Name": "That\u2019s All, Folks",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "ACH_THERE_IS_HOPE",
@@ -2281,7 +2286,7 @@
       "Name": "The Great Escape",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "ACH_THE_HARD_WAY",
@@ -2329,7 +2334,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1604
+      "UsersEstimate": 1605
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -2337,7 +2342,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 1039
+      "UsersEstimate": 1040
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -2376,15 +2381,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1823,
+      "Progressed": 1824,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-08-25T13:05:53.0573208+00:00",
-  "LastChanged_Achievements": "2023-08-30T18:06:07.5249337+00:00",
+  "LastChanged_Achievements": "2023-08-30T19:05:11.3481885+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:16.0649868+00:00",
-  "LastUpdate_Ratings": "2023-08-30T17:57:18.2601851+00:00",
-  "LastUpdate_Achievements": "2023-08-30T18:06:07.5250382+00:00"
+  "LastUpdate_Ratings": "2023-08-30T18:57:16.9234955+00:00",
+  "LastUpdate_Achievements": "2023-08-30T19:05:11.3482342+00:00"
 }

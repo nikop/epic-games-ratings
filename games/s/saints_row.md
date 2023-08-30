@@ -1,55 +1,55 @@
 # Saints Row
 [Store](https://store.epicgames.com/en-US/p/saints-row)  
 [View Rawdata](../../db/s/saints_row.json)  
-Rating: 3.78 (Ranked 971)  
+Rating: 3.79 (Ranked 970)  
 Number of Ratings: 22,103  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 44.00% | ~28,956 |
-| To The Nines | 40.00% | ~26,324 |
-| Optimized | 35.00% | ~23,034 |
-| Performance Review | 35.00% | ~23,034 |
-| Making a Name | 33.00% | ~21,717 |
-| Tune Up | 32.00% | ~21,059 |
-| Landlord | 31.00% | ~20,401 |
-| The Side Job | 30.00% | ~19,743 |
-| Wet Work | 30.00% | ~19,743 |
-| Wrecking Ball | 26.00% | ~17,111 |
-| Food for Thought | 26.00% | ~17,111 |
-| Finders Keepers | 24.00% | ~15,794 |
-| A Young Empire | 24.00% | ~15,794 |
-| Work Ethic | 22.00% | ~14,478 |
-| Picking Fights | 19.00% | ~12,504 |
-| Power Players | 18.00% | ~11,846 |
-| Quality Time | 17.00% | ~11,188 |
-| Showdown | 16.00% | ~10,530 |
-| Et tu? | 16.00% | ~10,530 |
-| Took It to The Limit | 16.00% | ~10,530 |
-| Kitted Out | 13.00% | ~8,555 |
-| Masters of Santo Ileso | 12.00% | ~7,897 |
-| Hijacked | 11.00% | ~7,239 |
-| The Spins | 9.00% | ~5,923 |
-| The Mechanic | 9.00% | ~5,923 |
-| We could go home, or… | 7.00% | ~4,607 |
-| Challenge Accepted | 7.00% | ~4,607 |
-| A Golden Age | 7.00% | ~4,607 |
-| Closet Space | 7.00% | ~4,607 |
-| Producer Credit | 7.00% | ~2,621 |
-| Face Off | 6.00% | ~2,247 |
-| The Professional | 5.00% | ~3,290 |
-| Chaos Tamer | 5.00% | ~3,290 |
-| Untouchable | 5.00% | ~3,290 |
-| Free Refills | 5.00% | ~3,290 |
-| Smooth Moves | 5.00% | ~3,290 |
-| Hazardous Heist | 5.00% | ~1,872 |
-| Neighborly | 4.00% | ~2,632 |
-| Prankster | 4.00% | ~2,632 |
-| Tourist | 4.00% | ~2,632 |
-| Shopping Spree | 3.00% | ~1,974 |
-| Always Be Hustling | 3.00% | ~1,974 |
-| Community Outreach | 3.00% | ~1,974 |
-| Bonus Round | 2.00% | ~1,316 |
+| First F#@!ing Day | 44.00% | ~28,964 |
+| To The Nines | 40.00% | ~26,331 |
+| Optimized | 35.00% | ~23,039 |
+| Performance Review | 35.00% | ~23,039 |
+| Making a Name | 33.00% | ~21,723 |
+| Tune Up | 32.00% | ~21,065 |
+| Landlord | 31.00% | ~20,406 |
+| The Side Job | 30.00% | ~19,748 |
+| Wet Work | 30.00% | ~19,748 |
+| Wrecking Ball | 26.00% | ~17,115 |
+| Food for Thought | 26.00% | ~17,115 |
+| Finders Keepers | 24.00% | ~15,798 |
+| A Young Empire | 24.00% | ~15,798 |
+| Work Ethic | 22.00% | ~14,482 |
+| Picking Fights | 19.00% | ~12,507 |
+| Power Players | 18.00% | ~11,849 |
+| Quality Time | 17.00% | ~11,191 |
+| Showdown | 16.00% | ~10,532 |
+| Et tu? | 16.00% | ~10,532 |
+| Took It to The Limit | 16.00% | ~10,532 |
+| Kitted Out | 13.00% | ~8,558 |
+| Masters of Santo Ileso | 12.00% | ~7,899 |
+| Hijacked | 11.00% | ~7,241 |
+| The Spins | 9.00% | ~5,924 |
+| The Mechanic | 9.00% | ~5,924 |
+| We could go home, or… | 7.00% | ~4,608 |
+| Challenge Accepted | 7.00% | ~4,608 |
+| A Golden Age | 7.00% | ~4,608 |
+| Closet Space | 7.00% | ~4,608 |
+| Producer Credit | 7.00% | ~2,622 |
+| Face Off | 6.00% | ~2,248 |
+| The Professional | 5.00% | ~3,291 |
+| Chaos Tamer | 5.00% | ~3,291 |
+| Untouchable | 5.00% | ~3,291 |
+| Free Refills | 5.00% | ~3,291 |
+| Smooth Moves | 5.00% | ~3,291 |
+| Hazardous Heist | 5.00% | ~1,873 |
+| Neighborly | 4.00% | ~2,633 |
+| Prankster | 4.00% | ~2,633 |
+| Tourist | 4.00% | ~2,633 |
+| Shopping Spree | 3.00% | ~1,975 |
+| Always Be Hustling | 3.00% | ~1,975 |
+| Community Outreach | 3.00% | ~1,975 |
+| Bonus Round | 2.00% | ~1,317 |
 | It's a Bird! | 1.00% | ~658 |
 | The Collector | 1.00% | ~658 |
 | All Mine | 1.00% | ~658 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~132 |
 | Fiesta Time | 0.20% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,810 (Ranked 86)  
+Progressed: 65,827 (Ranked 86)  
 Completed: 46 (0.07%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 46 (0.07%) (Ranked 226)
 | 2023-08-27 | 65,029 | 44 |
 | 2023-08-28 | 65,346 | 44 |
 | 2023-08-29 | 65,601 | 46 |
-| 2023-08-30 | 65,810 | 46 |
+| 2023-08-30 | 65,827 | 46 |
 ## Awards
 Max (Extremely Fun): 1,060  (Ranked 142)  
 Sum: 8,596 (Ranked 96)  
@@ -373,3 +373,4 @@ Diff (max vs sum): 46
 | 2023-08-26 | 3.78 | - | 1,060 | 8,590 |
 | 2023-08-28 | 3.78 | - | 1,060 | 8,592 |
 | 2023-08-29 | 3.78 | - | 1,060 | 8,596 |
+| 2023-08-30 | 3.79 | - | 1,060 | 8,596 |

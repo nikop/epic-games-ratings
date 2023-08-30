@@ -744,9 +744,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 219357,
+  "EOS_Progressed": 219376,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3065,
+  "EOS_NewPlayers": 3070,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8909,6 +8909,11 @@
       "Time": "2023-08-30T18:04:19.2598409+00:00",
       "NumProgressed": 219357,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-30T19:03:52.965238+00:00",
+      "NumProgressed": 219376,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -8968,7 +8973,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4387
+      "UsersEstimate": 4388
     },
     {
       "ID": "Chapter2",
@@ -8976,7 +8981,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4387
+      "UsersEstimate": 4388
     },
     {
       "ID": "Chapter3",
@@ -9344,7 +9349,7 @@
       "Name": "%#*!$*!",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1535
+      "UsersEstimate": 1536
     },
     {
       "ID": "DwarfLevel2",
@@ -9352,7 +9357,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4387
+      "UsersEstimate": 4388
     },
     {
       "ID": "ElfEpic",
@@ -9368,7 +9373,7 @@
       "Name": "Sowwy!",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 57033
+      "UsersEstimate": 57038
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -9384,7 +9389,7 @@
       "Name": "GG EZ",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4387
+      "UsersEstimate": 4388
     },
     {
       "ID": "EndCombatOneHp",
@@ -9424,15 +9429,15 @@
       "Name": "The beards of change",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1535
+      "UsersEstimate": 1536
     },
     {
       "ID": "FollowNarzatok",
       "SetID": "50chcgj",
       "Name": "An old poacher makes the best gamekeeper",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 439
+      "UsersEstimate": 658
     },
     {
       "ID": "InsultLoose",
@@ -9448,7 +9453,7 @@
       "Name": "Dead for good",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "KillGolbargh",
@@ -9472,7 +9477,7 @@
       "Name": "Gargantua",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "Orktobearfest",
@@ -9504,7 +9509,7 @@
       "Name": "In Navalu\u0027s footsteps",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "QuestEmile",
@@ -9560,7 +9565,7 @@
       "Name": "Thieves\u0027 Guild Accreditation",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1535
+      "UsersEstimate": 1536
     },
     {
       "ID": "Speedrun",
@@ -9568,7 +9573,7 @@
       "Name": "Speedrun",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4387
+      "UsersEstimate": 4388
     },
     {
       "ID": "SupportCount4",
@@ -9616,28 +9621,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4387
+      "UsersEstimate": 4388
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 219357,
+      "Progressed": 219376,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 219357,
+      "Progressed": 219376,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-30T02:11:58.6971058+00:00",
-  "LastChanged_Achievements": "2023-08-30T18:04:19.2598402+00:00",
+  "LastChanged_Achievements": "2023-08-30T19:03:52.9652372+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:41.9661267+00:00",
-  "LastUpdate_Ratings": "2023-08-30T17:57:21.5164209+00:00",
-  "LastUpdate_Achievements": "2023-08-30T18:04:19.2600115+00:00"
+  "LastUpdate_Ratings": "2023-08-30T18:57:18.9607445+00:00",
+  "LastUpdate_Achievements": "2023-08-30T19:03:52.965375+00:00"
 }

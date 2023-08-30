@@ -6,26 +6,26 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 78.00% | ~4,257 |
-| Hey Good Hookin | 68.00% | ~3,711 |
-| I'm on a Boat! | 58.00% | ~3,166 |
-| Can you smell what the Rod is Hooking | 54.00% | ~2,947 |
-| Scaling up | 53.00% | ~2,893 |
-| More Fish in the Sea | 46.00% | ~2,511 |
-| Ready to Rod and Roll | 44.00% | ~2,402 |
-| Fish Out of Water | 33.00% | ~1,801 |
-| License to Gill | 32.00% | ~1,747 |
-| Things that go Splash in the Night | 29.00% | ~1,583 |
-| Goldfish? | 27.00% | ~1,474 |
-| Going for Gold | 24.00% | ~1,310 |
-| I'm Hooked! | 18.00% | ~982 |
-| Diamond in the Rough | 12.00% | ~655 |
-| More than a Tourist | 11.00% | ~600 |
-| Hook, Line and Sinker | 7.00% | ~382 |
-| Marathon | 7.00% | ~382 |
-| I'm the Captain Now | 6.00% | ~327 |
-| School's Out for Summer | 6.00% | ~327 |
-| Big Fish Small Pond | 6.00% | ~327 |
+| Fish Just Got Reel | 78.00% | ~4,264 |
+| Hey Good Hookin | 68.00% | ~3,718 |
+| I'm on a Boat! | 58.00% | ~3,171 |
+| Can you smell what the Rod is Hooking | 54.00% | ~2,952 |
+| Scaling up | 53.00% | ~2,898 |
+| More Fish in the Sea | 46.00% | ~2,515 |
+| Ready to Rod and Roll | 44.00% | ~2,405 |
+| Fish Out of Water | 33.00% | ~1,804 |
+| License to Gill | 32.00% | ~1,749 |
+| Things that go Splash in the Night | 29.00% | ~1,585 |
+| Goldfish? | 27.00% | ~1,476 |
+| Going for Gold | 24.00% | ~1,312 |
+| I'm Hooked! | 18.00% | ~984 |
+| Diamond in the Rough | 12.00% | ~656 |
+| More than a Tourist | 11.00% | ~601 |
+| Hook, Line and Sinker | 7.00% | ~383 |
+| Marathon | 7.00% | ~383 |
+| I'm the Captain Now | 6.00% | ~328 |
+| School's Out for Summer | 6.00% | ~328 |
+| Big Fish Small Pond | 6.00% | ~328 |
 | Gonna Need a Bigger Boat | 3.00% | ~164 |
 | The Beetles | 2.00% | ~109 |
 | Rod and Troll | 2.00% | ~97 |
@@ -35,14 +35,14 @@ Number of Ratings: 281  (23.09.2022)
 | Lake Me up Before You Go Go | 0.50% | ~27 |
 | Fish upon a Star | 0.50% | ~24 |
 | Golden Ridge Ranger | 0.30% | ~16 |
-| Trollsporet Tale Teller | 0.30% | ~14 |
-| Cache and Carry | 0.30% | ~14 |
+| Trollsporet Tale Teller | 0.30% | ~15 |
+| Cache and Carry | 0.30% | ~15 |
 | Lost and Flounder | 0.10% | ~5 |
 | Buckaroo | 0.10% | ~5 |
 | Norway Jose | 0.10% | ~5 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,458 (Ranked 141)  
+Progressed: 5,467 (Ranked 141)  
 Completed: 0 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 0 (0.00%) (Ranked 266)
 | 2023-08-27 | 5,248 | 0 |
 | 2023-08-28 | 5,332 | 0 |
 | 2023-08-29 | 5,392 | 0 |
-| 2023-08-30 | 5,458 | 0 |
+| 2023-08-30 | 5,467 | 0 |
 ## Awards
 Max (Relaxing): 33  (Ranked 449)  
 Sum: 164 (Ranked 391)  

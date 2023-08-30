@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 359,
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -598,9 +598,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 466339,
+  "EOS_Progressed": 466340,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 501,
+  "EOS_NewPlayers": 499,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14458,6 +14458,11 @@
       "Time": "2023-08-30T18:08:43.7363156+00:00",
       "NumProgressed": 466339,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-08-30T19:08:24.0708685+00:00",
+      "NumProgressed": 466340,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -14485,7 +14490,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 111921
+      "UsersEstimate": 111922
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -14893,7 +14898,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 205189
+      "UsersEstimate": 205190
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -14925,7 +14930,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 181872
+      "UsersEstimate": 181873
     },
     {
       "ID": "achievement_win_run_hard",
@@ -15100,21 +15105,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 10273,
+      "Progressed": 10274,
       "Completed": 2356
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 466339,
+      "Progressed": 466340,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-08-24T02:57:03.8465673+00:00",
-  "LastChanged_Achievements": "2023-08-30T18:08:43.736315+00:00",
+  "LastChanged_Achievements": "2023-08-30T19:08:24.070868+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:38.8544339+00:00",
-  "LastUpdate_Ratings": "2023-08-30T17:58:20.9744397+00:00",
-  "LastUpdate_Achievements": "2023-08-30T18:08:43.7365791+00:00"
+  "LastUpdate_Ratings": "2023-08-30T18:57:59.4812846+00:00",
+  "LastUpdate_Achievements": "2023-08-30T19:08:24.0710007+00:00"
 }

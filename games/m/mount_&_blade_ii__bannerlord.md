@@ -1,25 +1,25 @@
 # Mount & Blade II: Bannerlord
 [Store](https://store.epicgames.com/en-US/p/mount-and-blade-2)  
 [View Rawdata](../../db/m/mount_&_blade_ii__bannerlord.json)  
-Rating: 4.74 (Ranked 147)  
+Rating: 4.74 (Ranked 146)  
 Number of Ratings: 5,603  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Lawbringer | 38.00% | ~22,790 |
-| Landlord | 32.00% | ~19,191 |
+| Landlord | 32.00% | ~19,192 |
 | Bannerlord | 23.00% | ~13,794 |
 | Horde breaker | 23.00% | ~13,794 |
 | Lawmaker | 23.00% | ~13,794 |
 | Trained | 22.00% | ~13,194 |
-| The king is pleased | 18.00% | ~10,795 |
-| King Solomon | 17.00% | ~10,195 |
+| The king is pleased | 18.00% | ~10,796 |
+| King Solomon | 17.00% | ~10,196 |
 | Apple of my eye | 15.00% | ~8,996 |
 | I can do it | 15.00% | ~8,996 |
-| God of the Arena | 13.00% | ~7,796 |
+| God of the Arena | 13.00% | ~7,797 |
 | Against all odds | 12.00% | ~7,197 |
 | This Is Our Land | 11.00% | ~6,597 |
-| Swordbearer | 10.00% | ~5,997 |
+| Swordbearer | 10.00% | ~5,998 |
 | Duelist | 9.00% | ~5,398 |
 | Dynasty | 9.00% | ~5,398 |
 | I spit on your grave | 9.00% | ~5,398 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,973 (Ranked 88)  
+Progressed: 59,975 (Ranked 88)  
 Completed: 0 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 0 (0.00%) (Ranked 266)
 | 2023-08-27 | 59,800 | 0 |
 | 2023-08-28 | 59,865 | 0 |
 | 2023-08-29 | 59,922 | 0 |
-| 2023-08-30 | 59,973 | 0 |
+| 2023-08-30 | 59,975 | 0 |
 ## Awards
 Max (Character Customization): 7,000  (Ranked 51)  
 Sum: 14,237 (Ranked 69)  
