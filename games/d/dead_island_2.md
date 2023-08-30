@@ -5,8 +5,8 @@ Rating: 4.54 (Ranked 502)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 0.60% | ~4,013 |
-| Welcome To Hell-A | 0.60% | ~4,013 |
+| Hotel California | 0.60% | ~4,014 |
+| Welcome To Hell-A | 0.60% | ~4,014 |
 | Git Gutte! | 0.50% | ~3,345 |
 | Break A Leg | 0.50% | ~3,345 |
 | Coup de Grâce | 0.50% | ~3,345 |
@@ -30,11 +30,11 @@ Rating: 4.54 (Ranked 502)
 | Ooh, Shiny! | 0.30% | ~2,007 |
 | Humanity Distilled | 0.30% | ~2,007 |
 | I Am the Resurrection | 0.30% | ~2,007 |
+| Down with the Sickness | 0.30% | ~2,007 |
 | Max Headroom | 0.30% | ~2,007 |
 | Our True Nature | 0.30% | ~2,007 |
 | Making Your Mark | 0.20% | ~1,338 |
 | Jumbo Keyring | 0.20% | ~1,338 |
-| Down with the Sickness | 0.20% | ~1,338 |
 | Go, Bobcats! | 0.20% | ~1,338 |
 | Rising Star | 0.20% | ~1,338 |
 | Make it So | 0.10% | ~669 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 502)
 | Variety is the Spice of Death | 0.10% | ~669 |
 | Bucket List | 0.10% | ~669 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 668,912 (Ranked 22)  
+Progressed: 668,936 (Ranked 22)  
 Completed: 2,088 (0.31%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,6 +183,7 @@ Completed: 2,088 (0.31%) (Ranked 174)
 | 2023-08-27 | 667,273 | 2,082 |
 | 2023-08-28 | 668,091 | 2,086 |
 | 2023-08-29 | 668,912 | 2,088 |
+| 2023-08-30 | 668,936 | 2,088 |
 ## Awards
 Max (Great Boss Battles): 5,808  (Ranked 61)  
 Sum: 8,550 (Ranked 97)  

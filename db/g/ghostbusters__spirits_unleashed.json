@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 189,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1932,9 +1932,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25426,
+  "EOS_Progressed": 25427,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -11592,6 +11592,11 @@
       "Time": "2023-08-29T22:04:25.2273606+00:00",
       "NumProgressed": 25426,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-08-30T00:04:36.9609144+00:00",
+      "NumProgressed": 25427,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 51,
@@ -11603,7 +11608,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 18561
+      "UsersEstimate": 18562
     },
     {
       "ID": "Animated",
@@ -11643,7 +11648,7 @@
       "Name": "Clutch Capture",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 10170
+      "UsersEstimate": 10171
     },
     {
       "ID": "Collect_Spores",
@@ -11651,7 +11656,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 12967
+      "UsersEstimate": 12968
     },
     {
       "ID": "Collector",
@@ -11667,7 +11672,7 @@
       "Name": "Cultured",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 12967
+      "UsersEstimate": 12968
     },
     {
       "ID": "Daily_Dose",
@@ -11715,7 +11720,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 63,
       "XP": 100,
-      "UsersEstimate": 16018
+      "UsersEstimate": 16019
     },
     {
       "ID": "Escape_Artist",
@@ -11819,7 +11824,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6356
+      "UsersEstimate": 6357
     },
     {
       "ID": "Reckless",
@@ -11827,7 +11832,7 @@
       "Name": "Reckless",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 4322
+      "UsersEstimate": 4323
     },
     {
       "ID": "Rift_Destroyer",
@@ -11899,7 +11904,7 @@
       "Name": "Stunner",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6356
+      "UsersEstimate": 6357
     },
     {
       "ID": "Stylish",
@@ -11907,7 +11912,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 21866
+      "UsersEstimate": 21867
     },
     {
       "ID": "Summoner",
@@ -11939,7 +11944,7 @@
       "Name": "Teamwork",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 10933
+      "UsersEstimate": 10934
     },
     {
       "ID": "Terrifying",
@@ -11987,7 +11992,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 12204
+      "UsersEstimate": 12205
     },
     {
       "ID": "Welcome_Crew",
@@ -12003,14 +12008,14 @@
       "Name": "Whoopsie",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3305
+      "UsersEstimate": 3306
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25426,
+      "Progressed": 25427,
       "Completed": 53
     }
   ],
@@ -12018,8 +12023,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-08-28T13:57:18.2744027+00:00",
-  "LastChanged_Achievements": "2023-08-29T23:04:54.7206897+00:00",
+  "LastChanged_Achievements": "2023-08-30T00:04:36.9609138+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:16.4521861+00:00",
-  "LastUpdate_Ratings": "2023-08-29T22:57:44.6542586+00:00",
-  "LastUpdate_Achievements": "2023-08-29T23:04:54.7207678+00:00"
+  "LastUpdate_Ratings": "2023-08-29T23:57:58.7161331+00:00",
+  "LastUpdate_Achievements": "2023-08-30T00:04:36.961087+00:00"
 }

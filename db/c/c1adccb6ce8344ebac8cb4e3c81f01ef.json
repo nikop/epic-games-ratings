@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 90,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-06-20T08:00:00+00:00",
     "PcReleaseDate": "2023-06-20T08:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 394,
+  "EOS_Progressed": 396,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 248,
+  "EOS_NewPlayers": 250,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 2.28,
+  "EOS_Completed_Percentage": 2.27,
   "EosHistory": [
     {
       "Time": "2023-06-26T21:03:11.1861868+00:00",
@@ -1236,6 +1236,11 @@
       "Time": "2023-08-29T22:03:47.1460318+00:00",
       "NumProgressed": 394,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-30T00:04:03.0153149+00:00",
+      "NumProgressed": 396,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-06-26T21:03:11.1861911+00:00",
@@ -1256,7 +1261,7 @@
       "Name": "Blue Skeleton",
       "Percentage": 11,
       "XP": 200,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "GreenSkeleton",
@@ -1270,17 +1275,17 @@
       "ID": "OrangeSkeleton",
       "SetID": "a76l54k",
       "Name": "Orange Skeleton",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 169
+      "UsersEstimate": 166
     },
     {
       "ID": "RedSkeleton",
       "SetID": "a76l54k",
       "Name": "Red Skeleton",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 100,
-      "UsersEstimate": 236
+      "UsersEstimate": 234
     },
     {
       "ID": "YellowSkeleton",
@@ -1295,14 +1300,14 @@
     {
       "ID": "a76l54k",
       "IsBase": true,
-      "Progressed": 394,
+      "Progressed": 396,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-06-27T08:56:55.4742028+00:00",
   "FirstSeenAchievements": "2023-06-15T10:01:05.3060571+00:00",
-  "LastChanged_Achievements": "2023-08-29T23:04:14.9282024+00:00",
+  "LastChanged_Achievements": "2023-08-30T00:04:03.0153142+00:00",
   "LastUpdate_AppInfo": "2023-08-24T17:57:03.5736235+00:00",
-  "LastUpdate_Ratings": "2023-08-29T23:00:14.8993767+00:00",
-  "LastUpdate_Achievements": "2023-08-29T23:04:14.9282222+00:00"
+  "LastUpdate_Ratings": "2023-08-30T00:00:03.2996114+00:00",
+  "LastUpdate_Achievements": "2023-08-30T00:04:03.0153316+00:00"
 }

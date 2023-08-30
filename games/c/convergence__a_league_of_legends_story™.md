@@ -60,7 +60,7 @@ Rating: 4.60 (Ranked 393)
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 849 (Ranked 209)  
-Completed: 5 (0.59%) (Ranked 141)  
+Completed: 5 (0.59%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

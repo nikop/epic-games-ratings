@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 75,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -659,9 +659,9 @@
       "ID": "AC04",
       "SetID": "l4abp0",
       "Name": "Blood and Iron",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 286
+      "UsersEstimate": 291
     },
     {
       "ID": "AC05",
@@ -683,9 +683,9 @@
       "ID": "AC07",
       "SetID": "l4abp0",
       "Name": "The Sea dies on the Shore",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 174
+      "UsersEstimate": 179
     },
     {
       "ID": "AC08",
@@ -891,9 +891,9 @@
       "ID": "AC33",
       "SetID": "l4abp0",
       "Name": "Ultima Ratio",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 174
     },
     {
       "ID": "AC34",
@@ -1002,8 +1002,8 @@
   ],
   "FirstSeen": "2023-07-26T07:57:19.1818171+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
-  "LastChanged_Achievements": "2023-08-29T23:06:43.9318957+00:00",
+  "LastChanged_Achievements": "2023-08-30T00:06:08.9885879+00:00",
   "LastUpdate_AppInfo": "2023-08-29T18:57:21.35462+00:00",
-  "LastUpdate_Ratings": "2023-08-29T22:59:58.9414764+00:00",
-  "LastUpdate_Achievements": "2023-08-29T23:06:43.9320021+00:00"
+  "LastUpdate_Ratings": "2023-08-29T23:59:49.9145552+00:00",
+  "LastUpdate_Achievements": "2023-08-30T00:06:08.9886329+00:00"
 }

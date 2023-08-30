@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 60,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 61,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -34,9 +34,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9580,
+  "EOS_Progressed": 9584,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 793,
+  "EOS_NewPlayers": 791,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3619,6 +3619,11 @@
       "Time": "2023-08-29T23:03:54.8837983+00:00",
       "NumProgressed": 9580,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-30T00:03:46.0676497+00:00",
+      "NumProgressed": 9584,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -3711,7 +3716,7 @@
       "Name": "Martian Music",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1724
+      "UsersEstimate": 1725
     },
     {
       "ID": "2",
@@ -3805,9 +3810,9 @@
       "ID": "3",
       "SetID": "458bbdk",
       "Name": "Captain Drummer",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 1724
+      "UsersEstimate": 1821
     },
     {
       "ID": "30",
@@ -3831,7 +3836,7 @@
       "Name": "Data Master",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "6",
@@ -3839,7 +3844,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1437
+      "UsersEstimate": 1438
     },
     {
       "ID": "7",
@@ -3863,14 +3868,14 @@
       "Name": "Impossible Objects",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2012
+      "UsersEstimate": 2013
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 9580,
+      "Progressed": 9584,
       "Completed": 0
     }
   ],
@@ -3878,8 +3883,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-08-27T16:57:45.7126871+00:00",
-  "LastChanged_Achievements": "2023-08-29T23:03:54.8837977+00:00",
+  "LastChanged_Achievements": "2023-08-30T00:03:46.0676492+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:45.4170889+00:00",
-  "LastUpdate_Ratings": "2023-08-29T22:58:10.7815007+00:00",
-  "LastUpdate_Achievements": "2023-08-29T23:03:54.8838925+00:00"
+  "LastUpdate_Ratings": "2023-08-29T23:58:20.4478382+00:00",
+  "LastUpdate_Achievements": "2023-08-30T00:03:46.0676953+00:00"
 }

@@ -16,12 +16,12 @@ Number of Ratings: 285  (23.09.2022)
 | Mushroom Madness! | 2.00% | ~21 |
 | Perk Shard Punch Card | 2.00% | ~21 |
 | Ten Steps from the Grave | 2.00% | ~21 |
-| Cold-Blooded Critters | 1.00% | ~10 |
-| Deadication | 1.00% | ~10 |
-| Everything Must Go! | 1.00% | ~10 |
-| Horder Better Faster Stronger | 1.00% | ~10 |
-| Season Finale | 1.00% | ~10 |
-| Spending Spree | 1.00% | ~10 |
+| Cold-Blooded Critters | 1.00% | ~11 |
+| Deadication | 1.00% | ~11 |
+| Everything Must Go! | 1.00% | ~11 |
+| Horder Better Faster Stronger | 1.00% | ~11 |
+| Season Finale | 1.00% | ~11 |
+| Spending Spree | 1.00% | ~11 |
 | The Harder They Fall | 0.90% | ~9 |
 | Next Time on MythForce... | 0.90% | ~9 |
 | On this Episode! | 0.80% | ~8 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Deadalus and Loving It | 0.00% | ~0 |
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,050 (Ranked 201)  
+Progressed: 1,051 (Ranked 201)  
 Completed: 0 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,6 +76,7 @@ Completed: 0 (0.00%) (Ranked 266)
 | 2023-08-27 | 1,017 | 0 |
 | 2023-08-28 | 1,029 | 0 |
 | 2023-08-29 | 1,050 | 0 |
+| 2023-08-30 | 1,051 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 456)  
 Sum: 254 (Ranked 354)  

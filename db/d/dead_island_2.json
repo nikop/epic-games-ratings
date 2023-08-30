@@ -4056,9 +4056,9 @@
       "Count": 327
     }
   ],
-  "EOS_Progressed": 668912,
+  "EOS_Progressed": 668936,
   "EOS_Completed": 2088,
-  "EOS_NewPlayers": 5956,
+  "EOS_NewPlayers": 5980,
   "EOS_NewCompleters": 35,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -18676,6 +18676,11 @@
       "Time": "2023-08-29T23:04:47.0979129+00:00",
       "NumProgressed": 668912,
       "NumCompleted": 2088
+    },
+    {
+      "Time": "2023-08-30T00:04:30.5023339+00:00",
+      "NumProgressed": 668936,
+      "NumCompleted": 2088
     }
   ],
   "TotalAchievements": 45,
@@ -18847,7 +18852,7 @@
       "Name": "Hotel California",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4013
+      "UsersEstimate": 4014
     },
     {
       "ID": "ach_impressive_aim",
@@ -18941,9 +18946,9 @@
       "ID": "ach_salvation",
       "SetID": "7km39fm",
       "Name": "Down with the Sickness",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1338
+      "UsersEstimate": 2007
     },
     {
       "ID": "ach_secrets_of_la",
@@ -19023,7 +19028,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4013
+      "UsersEstimate": 4014
     },
     {
       "ID": "ach_well_known_survivor",
@@ -19046,7 +19051,7 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 668912,
+      "Progressed": 668936,
       "Completed": 2088
     }
   ],
@@ -19054,8 +19059,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-08-29T22:57:15.2888035+00:00",
-  "LastChanged_Achievements": "2023-08-29T23:04:47.0979124+00:00",
+  "LastChanged_Achievements": "2023-08-30T00:04:30.5023336+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:11.0440218+00:00",
-  "LastUpdate_Ratings": "2023-08-29T22:57:15.2888041+00:00",
-  "LastUpdate_Achievements": "2023-08-29T23:04:47.0980352+00:00"
+  "LastUpdate_Ratings": "2023-08-29T23:57:34.3380289+00:00",
+  "LastUpdate_Achievements": "2023-08-30T00:04:30.5024676+00:00"
 }

@@ -28,6 +28,7 @@
 | King of survival ✔ | 5.00% | ~12 |
 | All secrets revealed ✔ | 5.00% | ~12 |
 | Boss 1 ✔ | 4.00% | ~9 |
+| Group Alpha ✔ | 4.00% | ~9 |
 | Mutant fight ✔ | 4.00% | ~9 |
 | Sheriff ✔ | 4.00% | ~9 |
 | City on fire ✔ | 4.00% | ~9 |
@@ -36,7 +37,6 @@
 | Crocodile Attack ✔ | 3.00% | ~7 |
 | Secret ✔ | 3.00% | ~7 |
 | Boss 2 ✔ | 3.00% | ~7 |
-| Group Alpha ✔ | 3.00% | ~7 |
 | Mutant run ✔ | 3.00% | ~7 |
 | Osipov's video message ✔ | 3.00% | ~7 |
 | Priest ✔ | 3.00% | ~7 |

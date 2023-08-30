@@ -4,8 +4,8 @@
   "ProductSlug": "gigapocalypse-fdc53b",
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 297,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-03-22T16:00:00+00:00",
     "PcReleaseDate": "2021-11-20T17:00:00+00:00",
@@ -780,8 +780,8 @@
   "FirstSeenRating": "2023-03-31T05:57:53.8583887+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:25.0690436+00:00",
   "LastChanged": "2023-03-31T05:57:53.8583888+00:00",
-  "LastChanged_Achievements": "2023-08-29T23:07:53.8071474+00:00",
+  "LastChanged_Achievements": "2023-08-30T00:07:07.9128869+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:38.1097642+00:00",
-  "LastUpdate_Ratings": "2023-08-29T22:59:11.8305415+00:00",
-  "LastUpdate_Achievements": "2023-08-29T23:07:53.8071943+00:00"
+  "LastUpdate_Ratings": "2023-08-29T23:59:11.1855318+00:00",
+  "LastUpdate_Achievements": "2023-08-30T00:07:07.9129793+00:00"
 }

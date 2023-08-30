@@ -7,6 +7,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | It wakes | 0.20% | ~1,656 |
+| Terror of LV-426 | 0.20% | ~1,656 |
 | MU/TH/UR Dearest | 0.20% | ~1,656 |
 | The Grand Sacrifice | 0.10% | ~828 |
 | A bite for the Entity | 0.10% | ~828 |
@@ -230,13 +231,12 @@ Number of Ratings: 70,340  (23.09.2022)
 | Second Act | 0.10% | ~828 |
 | Make Some Noise | 0.10% | ~828 |
 | Adept Cage | 0.10% | ~828 |
-| Terror of LV-426 | 0.10% | ~828 |
 | Adept Xenomorph | 0.10% | ~828 |
 | Adept Ripley | 0.10% | ~828 |
 | Disarm and Dismember | 0.00% | ~0 |
 | Kitted Out | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 828,020 (Ranked 15)  
+Progressed: 828,140 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -368,9 +368,10 @@ Completed: 48 (0.01%) (Ranked 253)
 | 2023-08-27 | 822,167 | 48 |
 | 2023-08-28 | 824,988 | 48 |
 | 2023-08-29 | 828,020 | 48 |
+| 2023-08-30 | 828,140 | 48 |
 ## Awards
 Max (Diverse Characters): 31,566  (Ranked 15)  
-Sum: 247,948 (Ranked 11)  
+Sum: 248,001 (Ranked 11)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
@@ -379,7 +380,7 @@ Diff (max vs sum): 4
 | This game is Highly Recommended | 28,291 |
 | This game has Amazing Characters | 28,024 |
 | This game is Extremely Fun | 27,824 |
-| This game has Quickly Understood Controls | 27,502 |
+| This game has Quickly Understood Controls | 27,555 |
 | This game has Challenging Combat | 27,192 |
 | This game has Amazing Storytelling | 25,475 |
 | This game has a Competitive Community | 23,777 |
@@ -605,4 +606,4 @@ Diff (max vs sum): 4
 | 2023-08-26 | 4.52 | - | 31,484 | 247,382 |
 | 2023-08-27 | 4.52 | - | 31,508 | 247,584 |
 | 2023-08-28 | 4.52 | - | 31,536 | 247,765 |
-| 2023-08-29 | 4.52 | - | 31,566 | 247,948 |
+| 2023-08-29 | 4.52 | - | 31,566 | 248,001 |

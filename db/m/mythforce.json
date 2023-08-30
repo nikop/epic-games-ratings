@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -581,9 +581,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 1050,
+  "EOS_Progressed": 1051,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3221,6 +3221,11 @@
       "Time": "2023-08-29T23:02:31.8522555+00:00",
       "NumProgressed": 1050,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-30T00:01:31.7616294+00:00",
+      "NumProgressed": 1051,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -3233,7 +3238,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -3249,7 +3254,7 @@
       "Name": "Deadication",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "MF_Ach_DeathBecomesYou",
@@ -3273,7 +3278,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -3329,7 +3334,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -3377,7 +3382,7 @@
       "Name": "Season Finale",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "MF_Ach_SpendingSpree",
@@ -3385,7 +3390,7 @@
       "Name": "Spending Spree",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -3416,15 +3421,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 1050,
+      "Progressed": 1051,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-08-19T00:01:25.4224345+00:00",
-  "LastChanged_Achievements": "2023-08-29T23:02:31.8522543+00:00",
+  "LastChanged_Achievements": "2023-08-30T00:01:31.7616288+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:13.6724499+00:00",
-  "LastUpdate_Ratings": "2023-08-29T22:57:25.7491637+00:00",
-  "LastUpdate_Achievements": "2023-08-29T23:02:31.8547701+00:00"
+  "LastUpdate_Ratings": "2023-08-29T23:57:42.8980938+00:00",
+  "LastUpdate_Achievements": "2023-08-30T00:01:31.7616933+00:00"
 }

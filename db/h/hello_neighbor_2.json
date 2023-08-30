@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -390,9 +390,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2808,
+  "EOS_Progressed": 2809,
   "EOS_Completed": 112,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.99,
   "EosHistory": [
@@ -2960,6 +2960,11 @@
       "Time": "2023-08-29T18:03:52.5441626+00:00",
       "NumProgressed": 2808,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-08-30T00:04:08.0048915+00:00",
+      "NumProgressed": 2809,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 14,
@@ -2971,7 +2976,7 @@
       "Name": "Ancient Curse",
       "Percentage": 28,
       "XP": 80,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "ACH_CASE_CLOSED",
@@ -3067,7 +3072,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
@@ -3075,14 +3080,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 77,
       "XP": 35,
-      "UsersEstimate": 2162
+      "UsersEstimate": 2163
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2808,
+      "Progressed": 2809,
       "Completed": 112
     }
   ],
@@ -3090,8 +3095,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-08-24T16:58:59.1002647+00:00",
-  "LastChanged_Achievements": "2023-08-29T23:04:20.7564615+00:00",
+  "LastChanged_Achievements": "2023-08-30T00:04:08.004891+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:45.7252968+00:00",
-  "LastUpdate_Ratings": "2023-08-29T22:59:28.2770968+00:00",
-  "LastUpdate_Achievements": "2023-08-29T23:04:20.7565259+00:00"
+  "LastUpdate_Ratings": "2023-08-29T23:59:24.6884011+00:00",
+  "LastUpdate_Achievements": "2023-08-30T00:04:08.0049211+00:00"
 }

@@ -6,21 +6,21 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 38.00% | ~23,542 |
-| Let There Be Light | 31.00% | ~19,205 |
+| Follow the Light | 38.00% | ~23,543 |
+| Let There Be Light | 31.00% | ~19,206 |
 | Float Like a Butterfly | 30.00% | ~18,586 |
 | Nordic Walking | 24.00% | ~14,869 |
 | Bright Falls' Finest | 23.00% | ~14,249 |
 | Under a Thin Layer of Skin | 21.00% | ~13,010 |
 | Park Ranger | 17.00% | ~10,532 |
 | Paging Mr. Wake | 17.00% | ~10,532 |
-| Back! Back, I Say! | 16.00% | ~9,912 |
-| Finders Keepers | 16.00% | ~9,912 |
+| Back! Back, I Say! | 16.00% | ~9,913 |
+| Finders Keepers | 16.00% | ~9,913 |
 | Damn Good Cup of Coffee | 15.00% | ~9,293 |
-| Wheels Within Wheels | 14.00% | ~8,673 |
-| They're Heeeeeere! | 14.00% | ~8,673 |
-| Sound and Fury | 14.00% | ~8,673 |
-| Missed by a Mile | 14.00% | ~8,673 |
+| Wheels Within Wheels | 14.00% | ~8,674 |
+| They're Heeeeeere! | 14.00% | ~8,674 |
+| Sound and Fury | 14.00% | ~8,674 |
+| Missed by a Mile | 14.00% | ~8,674 |
 | The Six-Gun Scribe | 13.00% | ~8,054 |
 | Heavy Metal | 12.00% | ~7,434 |
 | Iron Horse | 12.00% | ~7,434 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~62 |
 | No Punctuation | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,953 (Ranked 87)  
+Progressed: 61,954 (Ranked 87)  
 Completed: 65 (0.10%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,6 +206,7 @@ Completed: 65 (0.10%) (Ranked 213)
 | 2023-08-27 | 61,821 | 65 |
 | 2023-08-28 | 61,891 | 65 |
 | 2023-08-29 | 61,953 | 65 |
+| 2023-08-30 | 61,954 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

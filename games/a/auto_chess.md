@@ -5,7 +5,7 @@ Rating: 4.51 (Ranked 547)
 Number of Ratings: 2,249  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 780  (Ranked 160)  
-Sum: 6,105 (Ranked 121)  
+Sum: 6,106 (Ranked 121)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
@@ -15,7 +15,7 @@ Diff (max vs sum): 39
 | This game has Quickly Understood Controls | 728 |
 | This game is Extremely Fun | 625 |
 | This game is Highly Recommended | 565 |
-| This game has Amazing Characters | 549 |
+| This game has Amazing Characters | 550 |
 | This game has Amazing Storytelling | 495 |
 | This game has Playful Visuals | 445 |
 | This game has a Competitive Community | 407 |
@@ -237,4 +237,4 @@ Diff (max vs sum): 39
 | 2023-08-26 | 4.51 | - | 777 | 6,098 |
 | 2023-08-27 | 4.51 | - | 779 | 6,101 |
 | 2023-08-28 | 4.51 | - | 780 | 6,104 |
-| 2023-08-29 | 4.51 | - | 780 | 6,105 |
+| 2023-08-29 | 4.51 | - | 780 | 6,106 |

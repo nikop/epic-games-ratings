@@ -17,11 +17,11 @@
 | Scholar | 6.00% | ~8 |
 | Acquaintance | 6.00% | ~8 |
 | Conciliator | 5.00% | ~7 |
+| Courier | 5.00% | ~7 |
 | Tail-wind | 5.00% | ~7 |
 | Quartermaster | 4.00% | ~5 |
 | The More the Merrier | 4.00% | ~5 |
 | Harbinger | 4.00% | ~5 |
-| Courier | 4.00% | ~5 |
 | Been There | 4.00% | ~5 |
 | Spiritual Journey | 4.00% | ~5 |
 | Pilgrimage's End | 4.00% | ~5 |

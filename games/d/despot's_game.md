@@ -21,7 +21,7 @@ Rating: 4.50 (Ranked 563)
 | Campaigning | 26.00% | ~110 |
 | Rookie | 26.00% | ~110 |
 | Assemble a Meganewbie | 24.00% | ~102 |
-| Frugal | 21.00% | ~89 |
+| Frugal | 22.00% | ~94 |
 | Feed a God | 21.00% | ~89 |
 | To the Moon and Back | 20.00% | ~85 |
 | Great Flight | 18.00% | ~76 |

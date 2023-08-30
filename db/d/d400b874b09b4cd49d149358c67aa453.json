@@ -4,8 +4,8 @@
   "ProductSlug": "electrician-simulator-164e9f",
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-08-04T16:00:00+00:00",
     "PcReleaseDate": "2022-09-21T16:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 268,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -1056,8 +1056,8 @@
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-08-29T23:08:55.9134946+00:00",
+  "LastChanged_Achievements": "2023-08-30T00:08:10.7523741+00:00",
   "LastUpdate_AppInfo": "2023-08-23T17:57:12.6622936+00:00",
-  "LastUpdate_Ratings": "2023-08-29T23:00:45.3417405+00:00",
-  "LastUpdate_Achievements": "2023-08-29T23:08:55.9135211+00:00"
+  "LastUpdate_Ratings": "2023-08-30T00:00:28.3287098+00:00",
+  "LastUpdate_Achievements": "2023-08-30T00:08:10.7524123+00:00"
 }

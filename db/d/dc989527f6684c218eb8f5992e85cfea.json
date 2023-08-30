@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10566,
+  "EOS_Progressed": 10569,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 459,
+  "EOS_NewPlayers": 461,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7991,6 +7991,11 @@
       "Time": "2023-08-29T23:06:13.6543347+00:00",
       "NumProgressed": 10566,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-30T00:05:43.2971076+00:00",
+      "NumProgressed": 10569,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -8074,7 +8079,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4649
+      "UsersEstimate": 4650
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -8170,7 +8175,7 @@
       "Name": "Art Intern",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2113
+      "UsersEstimate": 2114
     },
     {
       "ID": "ACH_WIN_A_GAME_GUESS_IT",
@@ -8201,14 +8206,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 10566,
+      "Progressed": 10569,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-08-29T23:06:13.6543343+00:00",
+  "LastChanged_Achievements": "2023-08-30T00:05:43.2971068+00:00",
   "LastUpdate_AppInfo": "2023-08-25T22:57:10.6813946+00:00",
-  "LastUpdate_Ratings": "2023-08-29T23:00:14.1633536+00:00",
-  "LastUpdate_Achievements": "2023-08-29T23:06:13.654425+00:00"
+  "LastUpdate_Ratings": "2023-08-30T00:00:02.6920626+00:00",
+  "LastUpdate_Achievements": "2023-08-30T00:05:43.2971977+00:00"
 }
