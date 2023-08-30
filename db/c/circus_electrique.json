@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 300,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
     "PcReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -549,9 +549,9 @@
       "ID": "ACHIEVEMENT_18",
       "SetID": "631ndc2",
       "Name": "Accomplished Veteran",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -613,9 +613,9 @@
       "ID": "ACHIEVEMENT_26",
       "SetID": "631ndc2",
       "Name": "Circus Maximus",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 18
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -822,8 +822,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-08-30T19:02:20.3732433+00:00",
+  "LastChanged_Achievements": "2023-08-30T20:03:19.7698937+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:31.2972059+00:00",
-  "LastUpdate_Ratings": "2023-08-30T18:57:55.9426633+00:00",
-  "LastUpdate_Achievements": "2023-08-30T19:02:20.3732852+00:00"
+  "LastUpdate_Ratings": "2023-08-30T19:58:19.9317851+00:00",
+  "LastUpdate_Achievements": "2023-08-30T20:03:19.7699391+00:00"
 }

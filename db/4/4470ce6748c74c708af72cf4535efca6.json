@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 397,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2018-05-23T19:00:00+00:00",
@@ -197,9 +197,9 @@
       "ID": "11",
       "SetID": "5e3maia",
       "Name": "Snow White",
-      "Percentage": 40,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "12",
@@ -213,33 +213,33 @@
       "ID": "13",
       "SetID": "5e3maia",
       "Name": "Stalker",
-      "Percentage": 40,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "14",
       "SetID": "5e3maia",
       "Name": "Trafficker",
-      "Percentage": 40,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "15",
       "SetID": "5e3maia",
       "Name": "Bibliophile",
-      "Percentage": 35,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "16",
       "SetID": "5e3maia",
       "Name": "Matchmaker",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "17",
@@ -365,17 +365,17 @@
       "ID": "32",
       "SetID": "5e3maia",
       "Name": "Lionheart",
-      "Percentage": 20,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "33",
       "SetID": "5e3maia",
       "Name": "Arcane Arts",
-      "Percentage": 20,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "34",
@@ -445,9 +445,9 @@
       "ID": "41",
       "SetID": "5e3maia",
       "Name": "Drugmaker",
-      "Percentage": 20,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "42",
@@ -732,8 +732,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-08-30T19:05:56.263935+00:00",
+  "LastChanged_Achievements": "2023-08-30T20:07:24.3011492+00:00",
   "LastUpdate_AppInfo": "2023-08-25T22:57:10.6988807+00:00",
-  "LastUpdate_Ratings": "2023-08-30T18:59:07.6953823+00:00",
-  "LastUpdate_Achievements": "2023-08-30T19:05:56.2639925+00:00"
+  "LastUpdate_Ratings": "2023-08-30T20:00:05.8271283+00:00",
+  "LastUpdate_Achievements": "2023-08-30T20:07:24.301215+00:00"
 }

@@ -44,6 +44,7 @@ Number of Ratings: 177  (23.09.2022)
 | Beyond the Call of Dude-y | 0.20% | ~12 |
 | Drunk and Disorderly: Madison | 0.20% | ~12 |
 | Do Not Burn | 0.20% | ~12 |
+| Doja's Dope-Ass Dinolicious Danceapalooza | 0.20% | ~6 |
 | First Impressions | 0.20% | ~12 |
 | The Harder They Fall...Dood | 0.20% | ~12 |
 | Rule 34 | 0.20% | ~12 |
@@ -57,7 +58,6 @@ Number of Ratings: 177  (23.09.2022)
 | Against All Odds | 0.10% | ~6 |
 | Casabrova | 0.10% | ~6 |
 | Congrats, A Celebrity Hates You | 0.10% | ~3 |
-| Doja's Dope-Ass Dinolicious Danceapalooza | 0.10% | ~3 |
 | Duck n' Weave | 0.10% | ~6 |
 | Good Riddance! | 0.10% | ~6 |
 | I Know Grump-Fu | 0.10% | ~6 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | Simple Geometry | 0.10% | ~6 |
 | D-Club Certified | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,114 (Ranked 139)  
+Progressed: 6,115 (Ranked 139)  
 Completed: 3 (0.05%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 3 (0.05%) (Ranked 233)
 | 2023-08-27 | 6,105 | 3 |
 | 2023-08-28 | 6,109 | 3 |
 | 2023-08-29 | 6,113 | 3 |
-| 2023-08-30 | 6,114 | 3 |
+| 2023-08-30 | 6,115 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

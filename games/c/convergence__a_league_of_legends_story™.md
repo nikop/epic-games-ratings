@@ -8,10 +8,10 @@ Rating: 4.60 (Ranked 393)
 | Time Heals All Wounds | 26.00% | ~221 |
 | Rail Rat | 22.00% | ~187 |
 | The Mysterious Stranger | 21.00% | ~178 |
-| Make Up For Lost Time | 19.00% | ~161 |
-| The Prince in Heels | 19.00% | ~161 |
-| Immaculate Aim | 19.00% | ~161 |
-| The Brass Boss | 19.00% | ~161 |
+| Make Up For Lost Time | 19.00% | ~162 |
+| The Prince in Heels | 19.00% | ~162 |
+| Immaculate Aim | 19.00% | ~162 |
+| The Brass Boss | 19.00% | ~162 |
 | The Steel Shadow | 18.00% | ~153 |
 | Time Flies | 18.00% | ~153 |
 | The Harder They Fall | 18.00% | ~153 |
@@ -28,13 +28,13 @@ Rating: 4.60 (Ranked 393)
 | The Loose Cannon | 16.00% | ~136 |
 | Check Your Pulse | 16.00% | ~136 |
 | The Family Fortune | 16.00% | ~136 |
-| Right On Time | 15.00% | ~127 |
+| Right On Time | 15.00% | ~128 |
 | Treasure Trove | 14.00% | ~119 |
 | Street Style | 14.00% | ~119 |
 | Cartographer | 14.00% | ~119 |
 | Whiz Kid | 12.00% | ~102 |
-| Chaincrawler Explorer | 11.00% | ~93 |
-| Good Neighbor | 11.00% | ~93 |
+| Chaincrawler Explorer | 11.00% | ~94 |
+| Good Neighbor | 11.00% | ~94 |
 | Family Memories | 10.00% | ~85 |
 | Theater Explorer | 10.00% | ~85 |
 | Ask Questions Later | 10.00% | ~85 |
@@ -44,8 +44,8 @@ Rating: 4.60 (Ranked 393)
 | Cultivair Explorer | 8.00% | ~68 |
 | Entresol Explorer | 8.00% | ~68 |
 | Factorywood Explorer | 8.00% | ~68 |
-| Corin Goes Home | 7.00% | ~59 |
-| Sartorialist | 7.00% | ~59 |
+| Corin Goes Home | 7.00% | ~60 |
+| Sartorialist | 7.00% | ~60 |
 | Golem Hunter | 6.00% | ~51 |
 | Clovemary for Remembering | 5.00% | ~42 |
 | Rungs Was Right | 5.00% | ~42 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 393)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 849 (Ranked 209)  
+Progressed: 850 (Ranked 209)  
 Completed: 5 (0.59%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,6 +148,7 @@ Completed: 5 (0.59%) (Ranked 140)
 | 2023-08-27 | 846 | 5 |
 | 2023-08-28 | 847 | 5 |
 | 2023-08-29 | 849 | 5 |
+| 2023-08-30 | 850 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

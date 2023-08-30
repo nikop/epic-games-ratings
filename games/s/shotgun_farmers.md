@@ -16,7 +16,7 @@
 | No Diggity | 41.00% | ~92 |
 | Bouncemato | 31.00% | ~70 |
 | Amateur Survivor | 31.00% | ~70 |
-| 10K | 29.00% | ~80 |
+| 10K | 30.00% | ~82 |
 | 15K | 28.00% | ~77 |
 | Grave Digger | 23.00% | ~52 |
 | Quick-Draw Pod | 22.00% | ~50 |
@@ -26,8 +26,8 @@
 | Skin Of Your Teeth | 15.00% | ~41 |
 | Eggtraordinary | 15.00% | ~41 |
 | This Is My Boomstick | 15.00% | ~34 |
+| Getting Started | 14.00% | ~39 |
 | Oh My Gourd | 14.00% | ~32 |
-| Getting Started | 13.00% | ~36 |
 | Carrocketeer | 13.00% | ~36 |
 | Summers Here | 12.00% | ~27 |
 | Quit Horsin' Around | 11.00% | ~30 |

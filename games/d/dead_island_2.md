@@ -5,7 +5,7 @@ Rating: 4.54 (Ranked 504)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 0.70% | ~4,686 |
+| Welcome To Hell-A | 0.70% | ~4,687 |
 | Break A Leg | 0.60% | ~4,017 |
 | Hotel California | 0.60% | ~4,017 |
 | Dr. Reed, I Presume? | 0.50% | ~3,348 |
@@ -27,13 +27,13 @@ Rating: 4.54 (Ranked 504)
 | A Patton Emerges | 0.40% | ~2,678 |
 | I Am the Resurrection | 0.40% | ~2,678 |
 | Our True Nature | 0.40% | ~2,678 |
-| Making Your Mark | 0.30% | ~2,008 |
-| Anger Management | 0.30% | ~2,008 |
-| Perks of the Job | 0.30% | ~2,008 |
-| I Got a Zombie Army and You Can't Harm Me | 0.30% | ~2,008 |
-| Humanity Distilled | 0.30% | ~2,008 |
-| Down with the Sickness | 0.30% | ~2,008 |
-| Max Headroom | 0.30% | ~2,008 |
+| Making Your Mark | 0.30% | ~2,009 |
+| Anger Management | 0.30% | ~2,009 |
+| Perks of the Job | 0.30% | ~2,009 |
+| I Got a Zombie Army and You Can't Harm Me | 0.30% | ~2,009 |
+| Humanity Distilled | 0.30% | ~2,009 |
+| Down with the Sickness | 0.30% | ~2,009 |
+| Max Headroom | 0.30% | ~2,009 |
 | Smorgasbord | 0.20% | ~1,339 |
 | Jumbo Keyring | 0.20% | ~1,339 |
 | Go, Bobcats! | 0.20% | ~1,339 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 504)
 | Variety is the Spice of Death | 0.10% | ~670 |
 | Bucket List | 0.10% | ~670 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 669,500 (Ranked 22)  
+Progressed: 669,551 (Ranked 22)  
 Completed: 2,093 (0.31%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 2,093 (0.31%) (Ranked 174)
 | 2023-08-27 | 667,273 | 2,082 |
 | 2023-08-28 | 668,091 | 2,086 |
 | 2023-08-29 | 668,912 | 2,088 |
-| 2023-08-30 | 669,500 | 2,093 |
+| 2023-08-30 | 669,551 | 2,093 |
 ## Awards
 Max (Great Boss Battles): 5,822  (Ranked 61)  
 Sum: 8,570 (Ranked 97)  

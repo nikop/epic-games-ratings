@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 849,
+  "EOS_Progressed": 850,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -2070,6 +2070,11 @@
       "Time": "2023-08-29T20:03:31.4883641+00:00",
       "NumProgressed": 849,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-30T20:03:57.3718163+00:00",
+      "NumProgressed": 850,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -2097,7 +2102,7 @@
       "Name": "Chaincrawler Explorer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ChestCompletion1",
@@ -2113,7 +2118,7 @@
       "Name": "Right On Time",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ClockworkCompletion1",
@@ -2121,7 +2126,7 @@
       "Name": "Corin Goes Home",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ClockworkProgress1",
@@ -2145,7 +2150,7 @@
       "Name": "Sartorialist",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "CosmeticProgress1",
@@ -2273,7 +2278,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "MapCompletion1",
@@ -2361,7 +2366,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "RewindDamage1",
@@ -2457,7 +2462,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "WarwickDefeated",
@@ -2481,7 +2486,7 @@
       "Name": "Good Neighbor",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "Zarkon1Defeated",
@@ -2489,7 +2494,7 @@
       "Name": "The Brass Boss",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "Zarkon2Defeated",
@@ -2504,7 +2509,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 849,
+      "Progressed": 850,
       "Completed": 5
     }
   ],
@@ -2512,8 +2517,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-08-30T19:03:27.0895202+00:00",
+  "LastChanged_Achievements": "2023-08-30T20:03:57.3718159+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:03.8052712+00:00",
-  "LastUpdate_Ratings": "2023-08-30T18:58:23.6396216+00:00",
-  "LastUpdate_Achievements": "2023-08-30T19:03:27.0895668+00:00"
+  "LastUpdate_Ratings": "2023-08-30T19:59:01.8561239+00:00",
+  "LastUpdate_Achievements": "2023-08-30T20:03:57.3718622+00:00"
 }

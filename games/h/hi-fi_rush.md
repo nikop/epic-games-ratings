@@ -7,8 +7,8 @@ Rating: 4.88 (Ranked 19)
 | ---- | ---------- | ----- |
 | Feeling the beat! | 13.00% | ~520 |
 | Start with a bang! | 12.00% | ~480 |
+| You can pet the cat! | 12.00% | ~480 |
 | Who put gears in there? | 11.00% | ~440 |
-| You can pet the cat! | 11.00% | ~440 |
 | Cream of the Crop | 10.00% | ~400 |
 | Thanks for the free chip, Peppermint! | 10.00% | ~400 |
 | You got this, Peppermint? | 9.00% | ~360 |

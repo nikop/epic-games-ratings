@@ -6,23 +6,23 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 38.00% | ~23,558 |
+| Follow the Light | 38.00% | ~23,559 |
 | Let There Be Light | 31.00% | ~19,219 |
 | Float Like a Butterfly | 30.00% | ~18,599 |
-| Nordic Walking | 24.00% | ~14,879 |
-| Bright Falls' Finest | 23.00% | ~14,259 |
-| Under a Thin Layer of Skin | 21.00% | ~13,019 |
-| Park Ranger | 17.00% | ~10,539 |
-| Paging Mr. Wake | 17.00% | ~10,539 |
-| Back! Back, I Say! | 16.00% | ~9,919 |
-| Finders Keepers | 16.00% | ~9,919 |
-| Damn Good Cup of Coffee | 15.00% | ~9,299 |
-| Wheels Within Wheels | 14.00% | ~8,679 |
-| They're Heeeeeere! | 14.00% | ~8,679 |
-| Sound and Fury | 14.00% | ~8,679 |
-| Missed by a Mile | 14.00% | ~8,679 |
-| The Six-Gun Scribe | 13.00% | ~8,059 |
-| Collateral Carnage | 13.00% | ~8,059 |
+| Nordic Walking | 24.00% | ~14,880 |
+| Bright Falls' Finest | 23.00% | ~14,260 |
+| Under a Thin Layer of Skin | 21.00% | ~13,020 |
+| Park Ranger | 17.00% | ~10,540 |
+| Paging Mr. Wake | 17.00% | ~10,540 |
+| Back! Back, I Say! | 16.00% | ~9,920 |
+| Finders Keepers | 16.00% | ~9,920 |
+| Damn Good Cup of Coffee | 15.00% | ~9,300 |
+| Wheels Within Wheels | 14.00% | ~8,680 |
+| They're Heeeeeere! | 14.00% | ~8,680 |
+| Sound and Fury | 14.00% | ~8,680 |
+| Missed by a Mile | 14.00% | ~8,680 |
+| The Six-Gun Scribe | 13.00% | ~8,060 |
+| Collateral Carnage | 13.00% | ~8,060 |
 | Heavy Metal | 12.00% | ~7,440 |
 | Iron Horse | 12.00% | ~7,440 |
 | Perchance to Dream | 12.00% | ~7,440 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~62 |
 | No Punctuation | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,996 (Ranked 87)  
+Progressed: 61,998 (Ranked 87)  
 Completed: 65 (0.10%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 65 (0.10%) (Ranked 213)
 | 2023-08-27 | 61,821 | 65 |
 | 2023-08-28 | 61,891 | 65 |
 | 2023-08-29 | 61,953 | 65 |
-| 2023-08-30 | 61,996 | 65 |
+| 2023-08-30 | 61,998 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -3,9 +3,9 @@
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
   "Ranking_EOS_Progress": 227,
-  "Ranking_EOS_Completed": 108,
+  "Ranking_EOS_Completed": 103,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 550,
-  "EOS_Completed": 8,
+  "EOS_Progressed": 552,
+  "EOS_Completed": 9,
   "EOS_NewPlayers": 91,
-  "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 1.45,
+  "EOS_NewCompleters": 9,
+  "EOS_Completed_Percentage": 1.63,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -1216,6 +1216,11 @@
       "Time": "2023-08-30T18:06:09.7259501+00:00",
       "NumProgressed": 550,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-08-30T20:06:23.9062145+00:00",
+      "NumProgressed": 552,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1236,7 +1241,7 @@
       "Name": "A New Journey",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "_03_FinishAct1",
@@ -1244,7 +1249,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 302
+      "UsersEstimate": 304
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1252,7 +1257,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "_05_FinishAct2",
@@ -1276,7 +1281,7 @@
       "Name": "All Good Things",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "_08_Completion_10",
@@ -1284,7 +1289,7 @@
       "Name": "Swabbie",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "_09_Completion_20",
@@ -1292,7 +1297,7 @@
       "Name": "Powder Monkey",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "_10_Completion_30",
@@ -1332,7 +1337,7 @@
       "Name": "Freebooter",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "_15_Completion_80",
@@ -1348,7 +1353,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -1356,7 +1361,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -1364,7 +1369,7 @@
       "Name": "Fully Decked",
       "Percentage": 3,
       "XP": 125,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "_19_CrewTale_BSP",
@@ -1380,7 +1385,7 @@
       "Name": "Fishy Fish",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -1402,9 +1407,9 @@
       "ID": "_23_CrewTale_CNN",
       "SetID": "8a1io5d",
       "Name": "Lyrical Longing",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 39
     },
     {
       "ID": "_24_CrewTale_SNP",
@@ -1435,14 +1440,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 550,
-      "Completed": 8
+      "Progressed": 552,
+      "Completed": 9
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-30T19:05:13.0123113+00:00",
+  "LastChanged_Achievements": "2023-08-30T20:06:23.9062142+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:45.1302228+00:00",
-  "LastUpdate_Ratings": "2023-08-30T18:57:11.9456319+00:00",
-  "LastUpdate_Achievements": "2023-08-30T19:05:13.0123316+00:00"
+  "LastUpdate_Ratings": "2023-08-30T19:57:16.0043163+00:00",
+  "LastUpdate_Achievements": "2023-08-30T20:06:23.906235+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 24,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -744,9 +744,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 219376,
+  "EOS_Progressed": 219395,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3070,
+  "EOS_NewPlayers": 3089,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8914,6 +8914,11 @@
       "Time": "2023-08-30T19:03:52.965238+00:00",
       "NumProgressed": 219376,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-30T20:04:32.9708408+00:00",
+      "NumProgressed": 219395,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -8997,7 +9002,7 @@
       "Name": "The demons\u0027 feast",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1974
+      "UsersEstimate": 1975
     },
     {
       "ID": "Chapter5",
@@ -9005,7 +9010,7 @@
       "Name": "The Great Library",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1974
+      "UsersEstimate": 1975
     },
     {
       "ID": "Chapter6",
@@ -9013,7 +9018,7 @@
       "Name": "Torture and Sensibility",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1974
+      "UsersEstimate": 1975
     },
     {
       "ID": "Chapter7",
@@ -9021,15 +9026,15 @@
       "Name": "Urik\u0027s Depths",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1974
+      "UsersEstimate": 1975
     },
     {
       "ID": "Chapter8",
       "SetID": "50chcgj",
       "Name": "The Dungeon Master",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1755
+      "UsersEstimate": 1975
     },
     {
       "ID": "Chapter9",
@@ -9077,7 +9082,7 @@
       "Name": "The Woman in the High Castle",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1974
+      "UsersEstimate": 1975
     },
     {
       "ID": "DLC1ChooseNecro",
@@ -9325,7 +9330,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6581
+      "UsersEstimate": 6582
     },
     {
       "ID": "DwarfElf15Support",
@@ -9373,7 +9378,7 @@
       "Name": "Sowwy!",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 57038
+      "UsersEstimate": 57043
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -9421,7 +9426,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6581
+      "UsersEstimate": 6582
     },
     {
       "ID": "FollowBraztok",
@@ -9581,7 +9586,7 @@
       "Name": "Team Building Exercise",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1974
+      "UsersEstimate": 1975
     },
     {
       "ID": "SystematicallyStupid",
@@ -9605,7 +9610,7 @@
       "Name": "Oh, when I\u0027ll be level 10...",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1974
+      "UsersEstimate": 1975
     },
     {
       "ID": "WizardEpic",
@@ -9628,21 +9633,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 219376,
+      "Progressed": 219395,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 219376,
+      "Progressed": 219395,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-30T02:11:58.6971058+00:00",
-  "LastChanged_Achievements": "2023-08-30T19:03:52.9652372+00:00",
+  "LastChanged_Achievements": "2023-08-30T20:04:32.9708404+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:41.9661267+00:00",
-  "LastUpdate_Ratings": "2023-08-30T18:57:18.9607445+00:00",
-  "LastUpdate_Achievements": "2023-08-30T19:03:52.965375+00:00"
+  "LastUpdate_Ratings": "2023-08-30T19:57:26.6109372+00:00",
+  "LastUpdate_Achievements": "2023-08-30T20:04:32.9709598+00:00"
 }

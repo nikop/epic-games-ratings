@@ -3,12 +3,12 @@
   "Name": "Tony Hawk\u0027s\u2122 Pro Skater\u2122 1 \u002B 2",
   "ProductSlug": "tony-hawks-pro-skater-1-and-2",
   "Ranking_Rating": 59,
-  "Ranking_Popularity": 353,
+  "Ranking_Popularity": 354,
   "Ranking_PopularitySum": 278,
   "Ranking_EOS_Progress": 567,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 340,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2020-09-04T01:00:00+00:00",
     "PcReleaseDate": "2020-09-04T01:00:00+00:00",
@@ -1592,6 +1592,6 @@
   "FirstSeen": "2022-07-22T20:20:55.4170175+00:00",
   "LastChanged": "2023-08-30T10:59:08.684205+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:20.0857118+00:00",
-  "LastUpdate_Ratings": "2023-08-30T18:58:31.5536272+00:00",
-  "LastUpdate_Achievements": "2023-08-30T19:02:16.3611468+00:00"
+  "LastUpdate_Ratings": "2023-08-30T19:59:13.5273839+00:00",
+  "LastUpdate_Achievements": "2023-08-30T20:03:14.1730851+00:00"
 }

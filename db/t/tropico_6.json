@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1056,9 +1056,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 4923,
+  "EOS_Progressed": 4925,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8801,6 +8801,11 @@
       "Time": "2023-08-30T16:04:54.8665991+00:00",
       "NumProgressed": 4923,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-30T20:05:20.3167277+00:00",
+      "NumProgressed": 4925,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -8820,7 +8825,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "ACH_DOUBLEESCALATION",
@@ -8876,7 +8881,7 @@
       "Name": "Computer Says \u0022No\u0022",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "ACH_EP_CHOCOLATEFACTORY",
@@ -8900,7 +8905,7 @@
       "Name": "Beware The Betman",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "ACH_EP_PENULTIMOOFTHECARIBBEAN",
@@ -8908,7 +8913,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 2265
+      "UsersEstimate": 2266
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -8972,7 +8977,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 3741
+      "UsersEstimate": 3743
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -8996,7 +9001,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -9068,7 +9073,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2314
+      "UsersEstimate": 2315
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -9131,15 +9136,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 4923,
+      "Progressed": 4925,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-08-19T05:59:02.5104499+00:00",
-  "LastChanged_Achievements": "2023-08-30T19:04:26.5023259+00:00",
+  "LastChanged_Achievements": "2023-08-30T20:05:20.3167274+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:51.1953585+00:00",
-  "LastUpdate_Ratings": "2023-08-30T18:58:59.5829184+00:00",
-  "LastUpdate_Achievements": "2023-08-30T19:04:26.5023857+00:00"
+  "LastUpdate_Ratings": "2023-08-30T19:59:54.4415492+00:00",
+  "LastUpdate_Achievements": "2023-08-30T20:05:20.316788+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -232,9 +232,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1557,
+  "EOS_Progressed": 1558,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3422,6 +3422,11 @@
       "Time": "2023-08-30T19:04:05.7524796+00:00",
       "NumProgressed": 1557,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-30T20:04:51.4112244+00:00",
+      "NumProgressed": 1558,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3553,7 +3558,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -3689,7 +3694,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -3816,7 +3821,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1557,
+      "Progressed": 1558,
       "Completed": 0
     }
   ],
@@ -3824,8 +3829,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-08-28T18:01:28.2761395+00:00",
-  "LastChanged_Achievements": "2023-08-30T19:04:05.7524792+00:00",
+  "LastChanged_Achievements": "2023-08-30T20:04:51.4112241+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:32.8469898+00:00",
-  "LastUpdate_Ratings": "2023-08-30T19:00:02.5378855+00:00",
-  "LastUpdate_Achievements": "2023-08-30T19:04:05.7525292+00:00"
+  "LastUpdate_Ratings": "2023-08-30T20:01:23.6150998+00:00",
+  "LastUpdate_Achievements": "2023-08-30T20:04:51.4112721+00:00"
 }

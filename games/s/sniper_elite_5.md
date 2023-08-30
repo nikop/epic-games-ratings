@@ -5,12 +5,12 @@ Rating: 4.46 (Ranked 623)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 46.00% | ~1,634 |
-| Confirming Suspicions | 40.00% | ~1,421 |
+| Meeting Resistance | 46.00% | ~1,635 |
+| Confirming Suspicions | 40.00% | ~1,422 |
 | The Kraken Wakes | 36.00% | ~1,279 |
-| It's Starting to Crack | 33.00% | ~1,172 |
+| It's Starting to Crack | 33.00% | ~1,173 |
 | Change the Channel | 30.00% | ~1,066 |
-| Lord of War | 29.00% | ~1,030 |
+| Lord of War | 29.00% | ~1,031 |
 | Taking it back | 28.00% | ~995 |
 | Resourceful | 26.00% | ~924 |
 | Target America | 25.00% | ~888 |
@@ -21,15 +21,15 @@ Rating: 4.46 (Ranked 623)
 | Sharpshooter | 21.00% | ~746 |
 | Explosive Efficiency | 18.00% | ~640 |
 | Gunslinger | 17.00% | ~604 |
-| Just a Flesh Wound | 16.00% | ~568 |
-| Der Geist | 16.00% | ~568 |
+| Just a Flesh Wound | 16.00% | ~569 |
+| Der Geist | 16.00% | ~569 |
 | Climbing the Ladder | 15.00% | ~533 |
 | Close Quarters | 15.00% | ~533 |
-| Fields of Glory | 14.00% | ~497 |
-| Skirmisher | 14.00% | ~497 |
-| Die Nussknacker Sweet! | 14.00% | ~497 |
-| Snake in the Grass | 14.00% | ~497 |
-| Brains of the Operation | 14.00% | ~497 |
+| Fields of Glory | 14.00% | ~498 |
+| Skirmisher | 14.00% | ~498 |
+| Die Nussknacker Sweet! | 14.00% | ~498 |
+| Snake in the Grass | 14.00% | ~498 |
+| Brains of the Operation | 14.00% | ~498 |
 | No Stone Unturned | 13.00% | ~462 |
 | Opposing Force | 13.00% | ~462 |
 | Enemy at the Gates | 13.00% | ~462 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 623)
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,553 (Ranked 152)  
+Progressed: 3,554 (Ranked 152)  
 Completed: 10 (0.28%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,7 +208,7 @@ Completed: 10 (0.28%) (Ranked 180)
 | 2023-08-27 | 3,537 | 9 |
 | 2023-08-28 | 3,542 | 10 |
 | 2023-08-29 | 3,547 | 10 |
-| 2023-08-30 | 3,553 | 10 |
+| 2023-08-30 | 3,554 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
