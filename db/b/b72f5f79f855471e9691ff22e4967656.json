@@ -818,9 +818,9 @@
       "ID": "questHallucinationsKing",
       "SetID": "ci65fo0",
       "Name": "Hallucinations King",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "questKillGoblinMage",
@@ -975,8 +975,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-08-30T07:05:08.5574016+00:00",
+  "LastChanged_Achievements": "2023-08-30T08:04:48.025497+00:00",
   "LastUpdate_AppInfo": "2023-08-23T13:00:58.7449343+00:00",
-  "LastUpdate_Ratings": "2023-08-30T07:00:06.8447396+00:00",
-  "LastUpdate_Achievements": "2023-08-30T07:05:08.5575207+00:00"
+  "LastUpdate_Ratings": "2023-08-30T07:59:09.2893877+00:00",
+  "LastUpdate_Achievements": "2023-08-30T08:04:48.025576+00:00"
 }

@@ -5,19 +5,19 @@ Rating: 4.69 (Ranked 218)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 29.00% | ~188,873 |
-| 50 HEADSHOTS | 27.00% | ~175,847 |
-| SCIENCE AND INDUSTRY | 26.00% | ~169,335 |
-| FINISHED CHAPTER 1 | 25.00% | ~162,822 |
-| FINISHED CHAPTER 2 | 18.00% | ~117,232 |
-| 200 HEADSHOTS | 16.00% | ~104,206 |
-| FINISHED CHAPTER 3 | 15.00% | ~97,693 |
-| FINISHED CHAPTER 4 | 13.00% | ~84,667 |
-| FINISH CHAPTER 5 | 11.00% | ~71,642 |
-| FINISH CHAPTER 6 | 9.00% | ~58,616 |
-| CATHARTIC ESCAPISM | 9.00% | ~58,616 |
-| 1000 KILLS | 8.00% | ~52,103 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~26,051 |
+| 100 KILLS | 29.00% | ~188,880 |
+| 50 HEADSHOTS | 27.00% | ~175,854 |
+| SCIENCE AND INDUSTRY | 26.00% | ~169,341 |
+| FINISHED CHAPTER 1 | 25.00% | ~162,828 |
+| FINISHED CHAPTER 2 | 18.00% | ~117,236 |
+| 200 HEADSHOTS | 16.00% | ~104,210 |
+| FINISHED CHAPTER 3 | 15.00% | ~97,697 |
+| FINISHED CHAPTER 4 | 13.00% | ~84,670 |
+| FINISH CHAPTER 5 | 11.00% | ~71,644 |
+| FINISH CHAPTER 6 | 9.00% | ~58,618 |
+| CATHARTIC ESCAPISM | 9.00% | ~58,618 |
+| 1000 KILLS | 8.00% | ~52,105 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~26,052 |
 | FIRST BLOOD | 2.00% | ~13,026 |
 | FIREFIGHT LEVEL 20 | 1.00% | ~6,513 |
 | PACEMAKER | 1.00% | ~6,513 |
@@ -25,7 +25,7 @@ Rating: 4.69 (Ranked 218)
 | FIREFIGHT LEVEL 30 | 0.80% | ~5,210 |
 | OUT OF ORDER | 0.80% | ~5,210 |
 | PARTYHARD | 0.70% | ~4,559 |
-| NEW GAME PLUS | 0.50% | ~3,256 |
+| NEW GAME PLUS | 0.50% | ~3,257 |
 | CHURCH | 0.40% | ~2,605 |
 | FIREFIGHT LEVEL 40 | 0.40% | ~2,605 |
 | FIREFIGHT LEVEL 50 | 0.30% | ~1,954 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 218)
 | THE GAMBLER | 0.10% | ~651 |
 | WARRIOR IN A GARDEN | 0.10% | ~651 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 651,287 (Ranked 25)  
+Progressed: 651,311 (Ranked 25)  
 Completed: 55 (0.01%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 55 (0.01%) (Ranked 253)
 | 2023-08-27 | 649,505 | 53 |
 | 2023-08-28 | 650,313 | 54 |
 | 2023-08-29 | 651,099 | 55 |
-| 2023-08-30 | 651,287 | 55 |
+| 2023-08-30 | 651,311 | 55 |
 ## Awards
 Max (Great Boss Battles): 266  (Ranked 249)  
 Sum: 266 (Ranked 353)  

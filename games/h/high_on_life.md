@@ -6,17 +6,17 @@ Rating: 4.65 (Ranked 301)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Eye Scream, You Scream | 83.00% | ~19,913 |
-| Mods Please Ban | 77.00% | ~18,473 |
-| Bring A Knife to a Gun Fight | 76.00% | ~18,233 |
-| Fallout Doesn't Let You Do This | 73.00% | ~17,513 |
+| Mods Please Ban | 77.00% | ~18,474 |
+| Bring A Knife to a Gun Fight | 76.00% | ~18,234 |
+| Fallout Doesn't Let You Do This | 73.00% | ~17,514 |
 | First Bounty Down | 59.00% | ~14,155 |
 | We're All Very Impressed, Trust Me | 57.00% | ~13,675 |
-| Luglox Genocide | 43.00% | ~10,316 |
+| Luglox Genocide | 43.00% | ~10,317 |
 | Don't Knife The Hand That Feeds | 34.00% | ~8,157 |
 | Playing Card To Get | 33.00% | ~7,917 |
-| Creature Feature | 30.00% | ~7,197 |
-| Satisfied Gus-tomer | 28.00% | ~6,717 |
-| Cold-Blooded Driller | 28.00% | ~6,717 |
+| Creature Feature | 30.00% | ~7,198 |
+| Satisfied Gus-tomer | 28.00% | ~6,718 |
+| Cold-Blooded Driller | 28.00% | ~6,718 |
 | Are You Packin'? | 25.00% | ~5,998 |
 | Sweezy Like Sunday Morning | 25.00% | ~5,998 |
 | G3 Graduation | 25.00% | ~5,998 |
@@ -27,18 +27,18 @@ Rating: 4.65 (Ranked 301)
 | Who's The Boss? | 20.00% | ~4,798 |
 | Self-Actualization | 19.00% | ~4,558 |
 | Spent 15 Hours At The Alien Strip Club | 19.00% | ~4,558 |
-| Legendary Bounty Hunter | 18.00% | ~4,318 |
+| Legendary Bounty Hunter | 18.00% | ~4,319 |
 | Seeing All The Sights | 16.00% | ~3,839 |
 | Carried Stan's Load To Completion | 13.00% | ~3,119 |
 | We Paid For The Rights To Put A Whole Movie In Here | 12.00% | ~2,879 |
 | Eatin' Good in the Neighborhood | 9.00% | ~2,159 |
 | Sequel-Bait | 8.00% | ~1,919 |
 | Gunning For Your Job | 7.00% | ~1,679 |
-| Playing Favorites | 6.00% | ~1,439 |
+| Playing Favorites | 6.00% | ~1,440 |
 | Epic Legendary Prize | 1.00% | ~240 |
 | A Starfish Is Born | 1.00% | ~240 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,991 (Ranked 104)  
+Progressed: 23,992 (Ranked 104)  
 Completed: 12 (0.05%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,6 +169,7 @@ Completed: 12 (0.05%) (Ranked 233)
 | 2023-08-27 | 23,985 | 12 |
 | 2023-08-28 | 23,989 | 12 |
 | 2023-08-29 | 23,991 | 12 |
+| 2023-08-30 | 23,992 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

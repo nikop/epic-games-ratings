@@ -57,13 +57,13 @@
 | Undercover robot | 34.00% | ~96 |
 | Not little hacker | 33.00% | ~93 |
 | Absolute Champion! | 33.00% | ~93 |
+| Keep nature safe | 32.00% | ~91 |
+| Family comes first | 32.00% | ~91 |
 | Careerist | 32.00% | ~91 |
 | Anyone can resist | 32.00% | ~91 |
 | Trap disarmed | 31.00% | ~88 |
 | Another world | 31.00% | ~88 |
 | The lonesome road | 31.00% | ~88 |
-| Keep nature safe | 31.00% | ~88 |
-| Family comes first | 31.00% | ~88 |
 | Key memories | 31.00% | ~88 |
 | The last bell ring | 31.00% | ~88 |
 | The heart of the Resistance | 31.00% | ~88 |

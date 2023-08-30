@@ -4006,10 +4006,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 8555,
       "NumberOfAwardsMax": 5808
+    },
+    {
+      "Time": "2023-08-30T07:57:07.8027017+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 8556,
+      "NumberOfAwardsMax": 5808
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8555,
+  "NumberOfAwards": 8556,
   "NumberOfAwardsMax": 5808,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4047,7 +4053,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 305
+      "Count": 306
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4068,10 +4074,10 @@
       "Count": 330
     }
   ],
-  "EOS_Progressed": 669098,
-  "EOS_Completed": 2091,
+  "EOS_Progressed": 669119,
+  "EOS_Completed": 2092,
   "EOS_NewPlayers": 6003,
-  "EOS_NewCompleters": 38,
+  "EOS_NewCompleters": 39,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -18728,6 +18734,11 @@
       "Time": "2023-08-30T07:04:31.6724674+00:00",
       "NumProgressed": 669098,
       "NumCompleted": 2091
+    },
+    {
+      "Time": "2023-08-30T08:04:18.2243784+00:00",
+      "NumProgressed": 669119,
+      "NumCompleted": 2092
     }
   ],
   "TotalAchievements": 45,
@@ -18739,7 +18750,7 @@
       "Name": "Dr. Reed, I Presume?",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3345
+      "UsersEstimate": 3346
     },
     {
       "ID": "ach_a_taste_of_stardom",
@@ -18755,7 +18766,7 @@
       "Name": "Git Gutte!",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3345
+      "UsersEstimate": 3346
     },
     {
       "ID": "ach_anger_management",
@@ -18803,7 +18814,7 @@
       "Name": "Break A Leg",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3345
+      "UsersEstimate": 3346
     },
     {
       "ID": "ach_contender",
@@ -18859,7 +18870,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3345
+      "UsersEstimate": 3346
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -18883,7 +18894,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3345
+      "UsersEstimate": 3346
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -18891,7 +18902,7 @@
       "Name": "Friends Like These",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3345
+      "UsersEstimate": 3346
     },
     {
       "ID": "ach_hotel_california",
@@ -19009,9 +19020,9 @@
       "ID": "ach_skilled_up",
       "SetID": "7km39fm",
       "Name": "Stacking the Deck",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2676
+      "UsersEstimate": 3346
     },
     {
       "ID": "ach_star_performance",
@@ -19019,7 +19030,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3345
+      "UsersEstimate": 3346
     },
     {
       "ID": "ach_survival_expert",
@@ -19098,16 +19109,16 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 669098,
-      "Completed": 2091
+      "Progressed": 669119,
+      "Completed": 2092
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-08-30T04:57:04.9289956+00:00",
-  "LastChanged_Achievements": "2023-08-30T07:04:31.672467+00:00",
+  "LastChanged": "2023-08-30T07:57:07.8027016+00:00",
+  "LastChanged_Achievements": "2023-08-30T08:04:18.224378+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:11.0440218+00:00",
-  "LastUpdate_Ratings": "2023-08-30T06:57:31.5199204+00:00",
-  "LastUpdate_Achievements": "2023-08-30T07:04:31.6725968+00:00"
+  "LastUpdate_Ratings": "2023-08-30T07:57:07.8027022+00:00",
+  "LastUpdate_Achievements": "2023-08-30T08:04:18.2245085+00:00"
 }

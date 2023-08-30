@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 26.00% | ~56,980 |
+| Sowwy! | 26.00% | ~56,985 |
 | Where's that freaking Dwarf? | 3.00% | ~6,575 |
 | Alt+F4 | 3.00% | ~6,575 |
 | Déjà vu | 2.00% | ~4,383 |
@@ -19,13 +19,13 @@ Number of Ratings: 118  (23.09.2022)
 | Way of the Wimp | 1.00% | ~2,192 |
 | The plot thickens... At the tavern | 1.00% | ~2,192 |
 | DM intervention | 1.00% | ~2,192 |
-| The demons' feast | 0.90% | ~1,972 |
-| The Great Library | 0.90% | ~1,972 |
-| Torture and Sensibility | 0.90% | ~1,972 |
-| Urik's Depths | 0.90% | ~1,972 |
-| The Woman in the High Castle | 0.90% | ~1,972 |
-| Team Building Exercise | 0.90% | ~1,972 |
-| Oh, when I'll be level 10... | 0.90% | ~1,972 |
+| The demons' feast | 0.90% | ~1,973 |
+| The Great Library | 0.90% | ~1,973 |
+| Torture and Sensibility | 0.90% | ~1,973 |
+| Urik's Depths | 0.90% | ~1,973 |
+| The Woman in the High Castle | 0.90% | ~1,973 |
+| Team Building Exercise | 0.90% | ~1,973 |
+| Oh, when I'll be level 10... | 0.90% | ~1,973 |
 | Shiny and Crôm | 0.80% | ~1,753 |
 | The Dungeon Master | 0.80% | ~1,753 |
 | The Statuette of Gladeulfeurah | 0.80% | ~1,753 |
@@ -45,8 +45,8 @@ Number of Ratings: 118  (23.09.2022)
 | Gargantua | 0.40% | ~877 |
 | In Navalu's footsteps | 0.40% | ~877 |
 | Material Girl | 0.40% | ~877 |
-| We come in peace | 0.30% | ~657 |
-| Lëgal Legend | 0.30% | ~657 |
+| We come in peace | 0.30% | ~658 |
+| Lëgal Legend | 0.30% | ~658 |
 | Holistic Adventuring Party | 0.20% | ~438 |
 | Scholar of the Lands of Fangh | 0.20% | ~438 |
 | An old poacher makes the best gamekeeper | 0.20% | ~438 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~219 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,153 (Ranked 57)  
+Progressed: 219,174 (Ranked 57)  
 Completed: 2 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,7 +186,7 @@ Completed: 2 (0.00%) (Ranked 266)
 | 2023-08-27 | 218,331 | 2 |
 | 2023-08-28 | 218,694 | 2 |
 | 2023-08-29 | 219,078 | 2 |
-| 2023-08-30 | 219,153 | 2 |
+| 2023-08-30 | 219,174 | 2 |
 ## Awards
 Max (Character Customization): 184  (Ranked 279)  
 Sum: 230 (Ranked 360)  

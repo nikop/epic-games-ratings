@@ -6,10 +6,11 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MU/TH/UR Dearest | 0.30% | ~2,486 |
+| MU/TH/UR Dearest | 0.30% | ~2,487 |
 | Zealous | 0.20% | ~1,658 |
 | It wakes | 0.20% | ~1,658 |
 | Not half bad | 0.20% | ~1,658 |
+| Apt Survivor | 0.20% | ~1,658 |
 | Skillful | 0.20% | ~1,658 |
 | Make Some Noise | 0.20% | ~1,658 |
 | Terror of LV-426 | 0.20% | ~1,658 |
@@ -36,7 +37,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Perfect Killing | 0.10% | ~829 |
 | Bloody Millionaire | 0.10% | ~829 |
 | Gifts for the Fog | 0.10% | ~829 |
-| Apt Survivor | 0.10% | ~829 |
 | Apt Killer | 0.10% | ~829 |
 | Risk it all | 0.10% | ~829 |
 | Survival Treasures | 0.10% | ~829 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~829 |
 | Adept Ripley | 0.10% | ~829 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 828,774 (Ranked 15)  
+Progressed: 828,851 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -368,7 +368,7 @@ Completed: 48 (0.01%) (Ranked 253)
 | 2023-08-27 | 822,167 | 48 |
 | 2023-08-28 | 824,988 | 48 |
 | 2023-08-29 | 828,020 | 48 |
-| 2023-08-30 | 828,774 | 48 |
+| 2023-08-30 | 828,851 | 48 |
 ## Awards
 Max (Diverse Characters): 31,677  (Ranked 15)  
 Sum: 248,176 (Ranked 11)  

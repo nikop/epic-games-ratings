@@ -219,7 +219,7 @@
   "Tags": [],
   "EOS_Progressed": 56667,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8771,9 +8771,9 @@
       "ID": "Saint",
       "SetID": "8gem5jc",
       "Name": "I\u0027m A Total Saint",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 227
     },
     {
       "ID": "SantasBag",
@@ -8892,8 +8892,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-03-31T17:59:29.6978698+00:00",
-  "LastChanged_Achievements": "2023-08-30T07:04:22.5222227+00:00",
+  "LastChanged_Achievements": "2023-08-30T08:04:10.5162749+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:15.4422514+00:00",
-  "LastUpdate_Ratings": "2023-08-30T06:59:52.1564307+00:00",
-  "LastUpdate_Achievements": "2023-08-30T07:04:22.5223872+00:00"
+  "LastUpdate_Ratings": "2023-08-30T07:58:57.8305234+00:00",
+  "LastUpdate_Achievements": "2023-08-30T08:04:10.5164467+00:00"
 }

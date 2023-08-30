@@ -33,9 +33,9 @@ Rating: 4.32 (Ranked 781)
 | Ridiculously Generous | 0.40% | ~227 |
 | Harsh Love | 0.40% | ~227 |
 | Made It Through | 0.40% | ~227 |
+| I'm A Total Saint | 0.40% | ~227 |
 | Map Explorer | 0.30% | ~170 |
 | Nine Funkotronians | 0.30% | ~170 |
-| I'm A Total Saint | 0.30% | ~170 |
 | Struck By Love | 0.30% | ~170 |
 | The Worst Possible Luck | 0.30% | ~170 |
 | Broken Present Risk Taker | 0.20% | ~113 |

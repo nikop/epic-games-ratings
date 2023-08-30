@@ -4,7 +4,7 @@
   "ProductSlug": "airport-ceo-442ecc",
   "Ranking_EOS_Progress": 563,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 338,
+  "Ranking_EOS_NewPlayers": 339,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -25,9 +25,283 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-08-30T08:04:15.025911+00:00",
+  "TotalAchievements": 34,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ActuallyPresidentOfTheCompany",
+      "SetID": "d11cl5p",
+      "Name": "Actually president of the company",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AndIWouldFly500Miles",
+      "SetID": "d11cl5p",
+      "Name": "And I would fly 500 miles",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AvianVeterinarian",
+      "SetID": "d11cl5p",
+      "Name": "Avian veterinarian",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BehemothOfTheSkies",
+      "SetID": "d11cl5p",
+      "Name": "Behemoth of the skies",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CruisingAltitude",
+      "SetID": "d11cl5p",
+      "Name": "Cruising altitude",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DoABarrelRoll",
+      "SetID": "d11cl5p",
+      "Name": "Do a barrel roll!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FiveThousand",
+      "SetID": "d11cl5p",
+      "Name": "0.005 million",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hedda",
+      "SetID": "d11cl5p",
+      "Name": "Hilma af Klint",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "InterimCEO",
+      "SetID": "d11cl5p",
+      "Name": "Interim CEO",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "InternationalHub",
+      "SetID": "d11cl5p",
+      "Name": "International hub",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "IveGrindedForThisView",
+      "SetID": "d11cl5p",
+      "Name": "I\u0027ve grinded for this view",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LifeAtApoapsis",
+      "SetID": "d11cl5p",
+      "Name": "Life at the lab",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MrRobot",
+      "SetID": "d11cl5p",
+      "Name": "Mr. Robot",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NotReallyACEO",
+      "SetID": "d11cl5p",
+      "Name": "Unionize!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NouveauRiche",
+      "SetID": "d11cl5p",
+      "Name": "Nouveau riche",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NoviceCEO",
+      "SetID": "d11cl5p",
+      "Name": "Novice CEO",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "OrACEO",
+      "SetID": "d11cl5p",
+      "Name": "Or\u2026 a CEO!",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Over9000",
+      "SetID": "d11cl5p",
+      "Name": "Over 9000!!!",
+      "Percentage": 0,
+      "XP": 75,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "QueenOfTheSkies",
+      "SetID": "d11cl5p",
+      "Name": "Queen of the skies",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RegionalAirport",
+      "SetID": "d11cl5p",
+      "Name": "Regional airport",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Scan750MBags",
+      "SetID": "d11cl5p",
+      "Name": "Wilhelm R\u00F6ntgen",
+      "Percentage": 0,
+      "XP": 125,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Scan750kBags",
+      "SetID": "d11cl5p",
+      "Name": "X-ray vision",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SerialEnterpreneur",
+      "SetID": "d11cl5p",
+      "Name": "Serial entrepreneur",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SmallAirfield",
+      "SetID": "d11cl5p",
+      "Name": "Small airfield",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TakeMeToYourHeaven",
+      "SetID": "d11cl5p",
+      "Name": "Take me to your heaven",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TakingOff",
+      "SetID": "d11cl5p",
+      "Name": "Taking off",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TheAirportCEO",
+      "SetID": "d11cl5p",
+      "Name": "The Airport CEO",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TheCollector",
+      "SetID": "d11cl5p",
+      "Name": "The collector",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TheLuxuryTrap",
+      "SetID": "d11cl5p",
+      "Name": "The luxury trap",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TheScientist",
+      "SetID": "d11cl5p",
+      "Name": "The scientist",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ThereAndBackAgain",
+      "SetID": "d11cl5p",
+      "Name": "There and back again",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TravelToExecutiveBathroomIsland",
+      "SetID": "d11cl5p",
+      "Name": "Travel to executive bathroom island",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WhenIsTheNextDevBlog",
+      "SetID": "d11cl5p",
+      "Name": "\u0022When is the next dev blog?\u0022",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "YoungSuccessfullEntrepreneur",
+      "SetID": "d11cl5p",
+      "Name": "Young successfull entrepreneur",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "d11cl5p",
@@ -37,8 +311,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T10:02:52.8790419+00:00",
-  "LastChanged_Achievements": "2023-08-30T07:04:27.9137628+00:00",
+  "LastChanged_Achievements": "2023-08-30T08:04:15.0259092+00:00",
   "LastUpdate_AppInfo": "2023-08-23T13:00:58.7644545+00:00",
-  "LastUpdate_Ratings": "2023-08-30T06:59:52.4879366+00:00",
-  "LastUpdate_Achievements": "2023-08-30T07:04:27.913767+00:00"
+  "LastUpdate_Ratings": "2023-08-30T07:58:58.1672233+00:00",
+  "LastUpdate_Achievements": "2023-08-30T08:04:15.0649552+00:00"
 }

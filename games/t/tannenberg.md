@@ -1,14 +1,14 @@
 # Tannenberg
 [Store](https://store.epicgames.com/en-US/p/tannenberg)  
 [View Rawdata](../../db/t/tannenberg.json)  
-Rating: 4.39 (Ranked 717)  
+Rating: 4.39 (Ranked 716)  
 Number of Ratings: 13,393  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Immovable Object | 89.00% | ~114,185 |
-| Comeback | 82.00% | ~105,204 |
-| Information is Key | 80.00% | ~102,638 |
+| Immovable Object | 89.00% | ~114,186 |
+| Comeback | 82.00% | ~105,205 |
+| Information is Key | 80.00% | ~102,639 |
 | Unlucky | 71.00% | ~91,092 |
 | Anarchist | 68.00% | ~87,243 |
 | Wallhack | 65.00% | ~83,394 |
@@ -16,23 +16,23 @@ Number of Ratings: 13,393  (23.09.2022)
 | Lucky Shot | 53.00% | ~67,998 |
 | Forward Observer | 52.00% | ~66,715 |
 | Ring Ring! | 52.00% | ~66,715 |
-| Bossing Around | 45.00% | ~57,734 |
-| Frostbite | 45.00% | ~57,734 |
-| Night Owl | 44.00% | ~56,451 |
-| Strength in Numbers | 44.00% | ~56,451 |
-| Fog of War | 41.00% | ~52,602 |
-| Anyone Else? | 39.00% | ~50,036 |
-| Rasputin | 39.00% | ~50,036 |
-| Stronghold Denied | 39.00% | ~50,036 |
-| Hydra | 36.00% | ~46,187 |
-| This Belongs to Us Now | 36.00% | ~46,187 |
-| Stronghold | 35.00% | ~44,904 |
-| Leeroy | 33.00% | ~42,338 |
-| Lost Batallion | 33.00% | ~42,338 |
-| This is MY Machine Gun! | 32.00% | ~41,055 |
-| Together As One | 31.00% | ~39,772 |
-| Gavrilo Princip | 27.00% | ~34,640 |
-| Lead Harvest | 25.00% | ~32,074 |
+| Bossing Around | 45.00% | ~57,735 |
+| Frostbite | 45.00% | ~57,735 |
+| Night Owl | 44.00% | ~56,452 |
+| Strength in Numbers | 44.00% | ~56,452 |
+| Fog of War | 41.00% | ~52,603 |
+| Anyone Else? | 39.00% | ~50,037 |
+| Rasputin | 39.00% | ~50,037 |
+| Stronghold Denied | 39.00% | ~50,037 |
+| Hydra | 36.00% | ~46,188 |
+| This Belongs to Us Now | 36.00% | ~46,188 |
+| Stronghold | 35.00% | ~44,905 |
+| Leeroy | 33.00% | ~42,339 |
+| Lost Batallion | 33.00% | ~42,339 |
+| This is MY Machine Gun! | 32.00% | ~41,056 |
+| Together As One | 31.00% | ~39,773 |
+| Gavrilo Princip | 27.00% | ~34,641 |
+| Lead Harvest | 25.00% | ~32,075 |
 | Skynet Confirmed | 23.00% | ~29,509 |
 | Kesselschlacht | 22.00% | ~28,226 |
 | Democracy Works! | 20.00% | ~25,660 |
@@ -74,7 +74,7 @@ Number of Ratings: 13,393  (23.09.2022)
 | Seeing is Believing | 0.90% | ~1,155 |
 | Road to Berlin | 0.60% | ~770 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,298 (Ranked 68)  
+Progressed: 128,299 (Ranked 68)  
 Completed: 29 (0.02%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 29 (0.02%) (Ranked 246)
 | 2023-08-27 | 127,991 | 28 |
 | 2023-08-28 | 128,121 | 29 |
 | 2023-08-29 | 128,270 | 29 |
-| 2023-08-30 | 128,298 | 29 |
+| 2023-08-30 | 128,299 | 29 |
 ## Awards
 Max (Competitive Players): 333  (Ranked 230)  
 Sum: 2,886 (Ranked 170)  

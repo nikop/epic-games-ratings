@@ -9665,9 +9665,9 @@
       "Count": 23777
     }
   ],
-  "EOS_Progressed": 828774,
+  "EOS_Progressed": 828851,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 20521,
+  "EOS_NewPlayers": 20538,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -24385,6 +24385,11 @@
       "Time": "2023-08-30T07:07:23.6101437+00:00",
       "NumProgressed": 828774,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-08-30T08:06:37.2953355+00:00",
+      "NumProgressed": 828851,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 229,
@@ -24602,9 +24607,9 @@
       "ID": "ACH_027",
       "SetID": "bdmlp8o",
       "Name": "Apt Survivor",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 829
+      "UsersEstimate": 1658
     },
     {
       "ID": "ACH_028",
@@ -26204,7 +26209,7 @@
       "Name": "MU/TH/UR Dearest",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2486
+      "UsersEstimate": 2487
     },
     {
       "ID": "ACH_231",
@@ -26227,21 +26232,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 828774,
+      "Progressed": 828851,
       "Completed": 40
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 828774,
+      "Progressed": 828851,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-08-30T06:59:31.1422674+00:00",
-  "LastChanged_Achievements": "2023-08-30T07:07:23.6101433+00:00",
+  "LastChanged_Achievements": "2023-08-30T08:06:37.295335+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:54.3324879+00:00",
-  "LastUpdate_Ratings": "2023-08-30T06:59:31.1422683+00:00",
-  "LastUpdate_Achievements": "2023-08-30T07:07:23.6109021+00:00"
+  "LastUpdate_Ratings": "2023-08-30T07:58:41.9898484+00:00",
+  "LastUpdate_Achievements": "2023-08-30T08:06:37.2960487+00:00"
 }
