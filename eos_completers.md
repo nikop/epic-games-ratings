@@ -26,7 +26,7 @@
 | 23 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 11.11% |
 | 23 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
 | 23 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.11% |
-| 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.98% |
+| 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.96% |
 | 28 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.71% |
 | 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.22% |
 | 30 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 10.00% |
@@ -40,8 +40,8 @@
 | 38 | [Smelter](games/s/smelter.md) | 7.50% |
 | 39 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.07% |
 | 40 | [Scorn](games/s/scorn.md) | 7.00% |
-| 41 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.78% |
 | 41 | [Time Loader](games/t/time_loader.md) | 6.78% |
+| 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.76% |
 | 43 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.49% |
 | 44 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 45 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 6.25% |
@@ -62,7 +62,7 @@
 | 60 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
 | 60 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.17% |
 | 62 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.08% |
-| 63 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.99% |
+| 63 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.98% |
 | 64 | [ZZT!](games/z/zzt!.md) | 3.89% |
 | 65 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 66 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
@@ -88,7 +88,7 @@
 | 86 | [Lamentum](games/l/lamentum.md) | 2.53% |
 | 87 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.50% |
 | 87 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 89 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.38% |
+| 89 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.36% |
 | 90 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.24% |
 | 91 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.22% |
 | 92 | [Bloodshore](games/b/bloodshore.md) | 2.20% |
@@ -193,9 +193,9 @@
 | 191 | [Going Medieval](games/g/going_medieval.md) | 0.20% |
 | 191 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.20% |
 | 193 | [RAILGRADE](games/r/railgrade.md) | 0.19% |
+| 194 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.18% |
 | 194 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.18% |
 | 194 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.18% |
-| 196 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.17% |
 | 197 | [BLACKTAIL](games/b/blacktail.md) | 0.16% |
 | 197 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.16% |
 | 197 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
