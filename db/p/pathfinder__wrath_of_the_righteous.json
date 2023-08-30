@@ -3566,9 +3566,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 11132,
+  "EOS_Progressed": 11134,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11566,6 +11566,11 @@
       "Time": "2023-08-30T09:06:05.7064002+00:00",
       "NumProgressed": 11132,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-30T11:07:44.0951036+00:00",
+      "NumProgressed": 11134,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -11575,9 +11580,9 @@
       "ID": "01_DevouredByDarkness",
       "SetID": "989of5o",
       "Name": "Devoured by Darkness",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 2560
+      "UsersEstimate": 2672
     },
     {
       "ID": "02_BurningCity",
@@ -11825,7 +11830,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1558
+      "UsersEstimate": 1559
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -11945,7 +11950,7 @@
       "Name": "A Spark",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1892
+      "UsersEstimate": 1893
     },
     {
       "ID": "49_Flame",
@@ -12504,21 +12509,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9914,
+      "Progressed": 9916,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11132,
+      "Progressed": 11134,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-28T22:02:03.4075061+00:00",
-  "LastChanged_Achievements": "2023-08-30T10:07:13.551392+00:00",
+  "LastChanged_Achievements": "2023-08-30T11:07:44.095103+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:16.3191421+00:00",
-  "LastUpdate_Ratings": "2023-08-30T09:57:05.3083291+00:00",
-  "LastUpdate_Achievements": "2023-08-30T10:07:13.5516353+00:00"
+  "LastUpdate_Ratings": "2023-08-30T10:57:17.6810928+00:00",
+  "LastUpdate_Achievements": "2023-08-30T11:07:44.0953237+00:00"
 }

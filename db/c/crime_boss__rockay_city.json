@@ -3186,9 +3186,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 72471,
+  "EOS_Progressed": 72472,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 254,
+  "EOS_NewPlayers": 252,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -16831,6 +16831,11 @@
       "Time": "2023-08-30T10:03:53.421189+00:00",
       "NumProgressed": 72471,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-08-30T11:04:00.7640175+00:00",
+      "NumProgressed": 72472,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 37,
@@ -16986,7 +16991,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 47106
+      "UsersEstimate": 47107
     },
     {
       "ID": "ACH_0210",
@@ -17010,7 +17015,7 @@
       "Name": "Too Old for This",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 34786
+      "UsersEstimate": 34787
     },
     {
       "ID": "ACH_0300",
@@ -17090,7 +17095,7 @@
       "Name": "True Player",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 13769
+      "UsersEstimate": 13770
     },
     {
       "ID": "ACH_0450",
@@ -17137,22 +17142,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 72471,
+      "Progressed": 72472,
       "Completed": 42
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 818,
-      "Completed": 818
+      "Progressed": 819,
+      "Completed": 819
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-08-29T21:59:01.675722+00:00",
-  "LastChanged_Achievements": "2023-08-30T10:03:53.4211883+00:00",
+  "LastChanged_Achievements": "2023-08-30T11:04:00.764017+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:33.2477495+00:00",
-  "LastUpdate_Ratings": "2023-08-30T09:58:53.0663906+00:00",
-  "LastUpdate_Achievements": "2023-08-30T10:03:53.4213962+00:00"
+  "LastUpdate_Ratings": "2023-08-30T10:59:22.1904253+00:00",
+  "LastUpdate_Achievements": "2023-08-30T11:04:00.7641387+00:00"
 }

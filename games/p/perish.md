@@ -20,17 +20,17 @@
 | Symbols of Heresy | 4.00% | ~137 |
 | The Sons of Minos | 4.00% | ~137 |
 | Eidola | 4.00% | ~137 |
-| Comedy and Tragedy | 3.00% | ~102 |
-| Pillars of Eternity | 3.00% | ~102 |
-| Chthonic Investor | 3.00% | ~102 |
-| First Fragment | 3.00% | ~102 |
-| Sisters of the Pantheon | 3.00% | ~102 |
-| Labour of Apollo | 3.00% | ~102 |
-| Siege Unit | 3.00% | ~102 |
-| Divine Assemblage | 3.00% | ~102 |
-| Ophiolatreia | 3.00% | ~102 |
-| Halls of Marble | 3.00% | ~102 |
-| Serpentine | 3.00% | ~102 |
+| Comedy and Tragedy | 3.00% | ~103 |
+| Pillars of Eternity | 3.00% | ~103 |
+| Chthonic Investor | 3.00% | ~103 |
+| First Fragment | 3.00% | ~103 |
+| Sisters of the Pantheon | 3.00% | ~103 |
+| Labour of Apollo | 3.00% | ~103 |
+| Siege Unit | 3.00% | ~103 |
+| Divine Assemblage | 3.00% | ~103 |
+| Ophiolatreia | 3.00% | ~103 |
+| Halls of Marble | 3.00% | ~103 |
+| Serpentine | 3.00% | ~103 |
 | Wayward Son of Hephaestus | 2.00% | ~68 |
 | Lament of the Constellations | 2.00% | ~68 |
 | Forged in Fire | 2.00% | ~68 |
@@ -55,7 +55,7 @@
 | Scrap Metal | 1.00% | ~34 |
 | Athenian Treasury | 0.80% | ~27 |
 | Invicta | 0.80% | ~27 |
-| Olympian | 0.60% | ~20 |
+| Olympian | 0.60% | ~21 |
 | Hipparchia's Labour | 0.40% | ~14 |
 | Debauchery | 0.40% | ~14 |
 | Blessing of Spring | 0.40% | ~14 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,416 (Ranked 154)  
+Progressed: 3,417 (Ranked 154)  
 Completed: 0 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 0 (0.00%) (Ranked 266)
 | 2023-08-27 | 3,411 | 0 |
 | 2023-08-28 | 3,414 | 0 |
 | 2023-08-29 | 3,415 | 0 |
-| 2023-08-30 | 3,416 | 0 |
+| 2023-08-30 | 3,417 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

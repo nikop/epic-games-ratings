@@ -152,9 +152,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17628,
+  "EOS_Progressed": 17629,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 192,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -10997,6 +10997,11 @@
       "Time": "2023-08-30T06:04:43.6202894+00:00",
       "NumProgressed": 17628,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-08-30T11:05:06.5593961+00:00",
+      "NumProgressed": 17629,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 14,
@@ -11008,7 +11013,7 @@
       "Name": "Across The Border",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 13926
+      "UsersEstimate": 13927
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -11040,7 +11045,7 @@
       "Name": "Don\u0027t Bring Me Down",
       "Percentage": 19,
       "XP": 90,
-      "UsersEstimate": 3349
+      "UsersEstimate": 3350
     },
     {
       "ID": "ACH_EVEYONE_IS_BORN_TO_DIE",
@@ -11048,7 +11053,7 @@
       "Name": "Everyone\u0027s Born to Die",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 2820
+      "UsersEstimate": 2821
     },
     {
       "ID": "ACH_HELLO_MY_OLD_FRIEND",
@@ -11119,15 +11124,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 17628,
+      "Progressed": 17629,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-08-16T03:57:34.8125865+00:00",
-  "LastChanged_Achievements": "2023-08-30T10:04:52.0479424+00:00",
+  "LastChanged_Achievements": "2023-08-30T11:05:06.5593952+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:59.8893769+00:00",
-  "LastUpdate_Ratings": "2023-08-30T09:59:25.1431666+00:00",
-  "LastUpdate_Achievements": "2023-08-30T10:04:52.0480844+00:00"
+  "LastUpdate_Ratings": "2023-08-30T10:59:59.1232939+00:00",
+  "LastUpdate_Achievements": "2023-08-30T11:05:06.5594757+00:00"
 }

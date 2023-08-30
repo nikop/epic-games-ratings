@@ -3,6 +3,47 @@
 [View Rawdata](../../db/h/hundred_days_-_winemaking_simulator.json)  
 Rating: 4.35 (Ranked 755)  
 Number of Ratings: 7,669  (23.09.2022)  
+## Achievements
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Bye Bye | 40.00% | ~2 |
+| Quack | 20.00% | ~1 |
+| It's a good start | 0.00% | ~0 |
+| What is that? A castle? | 0.00% | ~0 |
+| A lot of space | 0.00% | ~0 |
+| A big garage | 0.00% | ~0 |
+| Big Money | 0.00% | ~0 |
+| Millionaire | 0.00% | ~0 |
+| Bonjour! | 0.00% | ~0 |
+| Ostinata | 0.00% | ~0 |
+| The Assistant | 0.00% | ~0 |
+| The Blue Marl | 0.00% | ~0 |
+| A long journey | 0.00% | ~0 |
+| Better than nothing? | 0.00% | ~0 |
+| Exotic | 0.00% | ~0 |
+| Keep the doctor away | 0.00% | ~0 |
+| Pastry Chef | 0.00% | ~0 |
+| Surprise of Langhe | 0.00% | ~0 |
+| King of red wines | 0.00% | ~0 |
+| King of white wines | 0.00% | ~0 |
+| Sales Expert | 0.00% | ~0 |
+| Big deals | 0.00% | ~0 |
+| Master Winemaker | 0.00% | ~0 |
+| Welcome to the club | 0.00% | ~0 |
+| Unsuitable Terroir | 0.00% | ~0 |
+| King of Langhe | 0.00% | ~0 |
+| Treasure of Roero | 0.00% | ~0 |
+| Gem of Monferrato | 0.00% | ~0 |
+| Knight of Langhe | 0.00% | ~0 |
+| Famous | 0.00% | ~0 |
+| Very Important Winemaker | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 5 (Ranked 476)  
+Completed: 0 (0.00%) (Ranked 266)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-08-30 | 5 | 0 |
 ## Awards
 Max (Relaxing): 203  (Ranked 273)  
 Sum: 1,457 (Ranked 224)  

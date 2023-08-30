@@ -5,7 +5,7 @@
   "Ranking_Rating": 19,
   "Ranking_Popularity": 35,
   "Ranking_PopularitySum": 14,
-  "Ranking_EOS_Progress": 564,
+  "Ranking_EOS_Progress": 565,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 340,
   "Ranking_EOS_NewCompleters": 102,
@@ -9830,10 +9830,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 93737,
       "NumberOfAwardsMax": 11242
+    },
+    {
+      "Time": "2023-08-30T10:59:01.9995033+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 93750,
+      "NumberOfAwardsMax": 11242
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 93737,
+  "NumberOfAwards": 93750,
   "NumberOfAwardsMax": 11242,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9889,7 +9895,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 8198
+      "Count": 8211
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -9915,8 +9921,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:11.7040586+00:00",
-  "LastChanged": "2023-08-30T07:58:08.7565106+00:00",
+  "LastChanged": "2023-08-30T10:59:01.9995032+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:12.0595065+00:00",
-  "LastUpdate_Ratings": "2023-08-30T09:58:35.4651788+00:00",
-  "LastUpdate_Achievements": "2023-08-30T10:04:20.4290195+00:00"
+  "LastUpdate_Ratings": "2023-08-30T10:59:01.9995049+00:00",
+  "LastUpdate_Achievements": "2023-08-30T11:04:30.6317974+00:00"
 }

@@ -3,12 +3,12 @@
 [View Rawdata](../../db/2/27aa2ebdcda14b3bb8a669aab73ca55f.json)  
 Rating: 4.33 (Ranked 773)  
 ## Awards
-Max (Character Customization): 1,608  (Ranked 119)  
-Sum: 2,323 (Ranked 186)  
-Diff (max vs sum): -67  
+Max (Character Customization): 1,640  (Ranked 119)  
+Sum: 2,355 (Ranked 185)  
+Diff (max vs sum): -66  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 1,608 |
+| This game has Inclusive Character Customization | 1,640 |
 | This game is Highly Recommended | 112 |
 | This game has Amazing Storytelling | 112 |
 | This game has Quickly Understood Controls | 107 |
@@ -61,3 +61,4 @@ Diff (max vs sum): -67
 | 2023-08-27 | 4.33 | 1,538 | 2,210 |
 | 2023-08-28 | 4.33 | 1,566 | 2,258 |
 | 2023-08-29 | 4.33 | 1,608 | 2,323 |
+| 2023-08-30 | 4.33 | 1,640 | 2,355 |

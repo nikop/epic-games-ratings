@@ -4,8 +4,8 @@
   "ProductSlug": "eve-online",
   "Ranking_Rating": 830,
   "Ranking_Popularity": 140,
-  "Ranking_PopularitySum": 185,
-  "Ranking_EOS_Progress": 564,
+  "Ranking_PopularitySum": 186,
+  "Ranking_EOS_Progress": 565,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 340,
   "Ranking_EOS_NewCompleters": 102,
@@ -2482,6 +2482,6 @@
   "FirstSeen": "2022-07-22T20:17:38.4001765+00:00",
   "LastChanged": "2023-08-29T17:01:45.9179533+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:40.6344704+00:00",
-  "LastUpdate_Ratings": "2023-08-30T10:00:44.1547961+00:00",
-  "LastUpdate_Achievements": "2023-08-30T10:04:13.2996335+00:00"
+  "LastUpdate_Ratings": "2023-08-30T11:01:30.153474+00:00",
+  "LastUpdate_Achievements": "2023-08-30T11:04:22.3800393+00:00"
 }

@@ -6,15 +6,15 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~931,846 |
-| I Need a Bigger Garage | 63.00% | ~652,292 |
-| Pump my Ride | 47.00% | ~486,630 |
-| Ghostbuster | 33.00% | ~341,677 |
-| That Was Close | 18.00% | ~186,369 |
-| Call Roadside Assistance | 17.00% | ~176,015 |
-| Quickie | 11.00% | ~113,892 |
-| California Dreamer | 7.00% | ~72,477 |
-| Can't Touch This | 5.00% | ~51,769 |
+| The First of Many | 90.00% | ~931,864 |
+| I Need a Bigger Garage | 63.00% | ~652,305 |
+| Pump my Ride | 47.00% | ~486,640 |
+| Ghostbuster | 33.00% | ~341,684 |
+| That Was Close | 18.00% | ~186,373 |
+| Call Roadside Assistance | 17.00% | ~176,019 |
+| Quickie | 11.00% | ~113,895 |
+| California Dreamer | 7.00% | ~72,478 |
+| Can't Touch This | 5.00% | ~51,770 |
 | Carménère Taster | 3.00% | ~31,062 |
 | Supersonic | 3.00% | ~31,062 |
 | Comeback | 3.00% | ~31,062 |
@@ -32,8 +32,8 @@ Number of Ratings: 1,343  (23.09.2022)
 | Round the Globe | 1.00% | ~10,354 |
 | Golden Passport | 1.00% | ~10,354 |
 | Brave and Bold | 1.00% | ~10,354 |
-| Crocodile Hunter | 0.90% | ~9,318 |
-| Old Master | 0.90% | ~9,318 |
+| Crocodile Hunter | 0.90% | ~9,319 |
+| Old Master | 0.90% | ~9,319 |
 | Volcano Surfer | 0.80% | ~8,283 |
 | Otaku | 0.80% | ~8,283 |
 | Survivor | 0.60% | ~6,212 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,035 |
 | Look Mom, No Hands! | 0.10% | ~1,035 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,035,384 (Ranked 12)  
+Progressed: 1,035,405 (Ranked 12)  
 Completed: 407 (0.04%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,17 +176,17 @@ Completed: 407 (0.04%) (Ranked 236)
 | 2023-08-27 | 1,034,146 | 405 |
 | 2023-08-28 | 1,034,696 | 405 |
 | 2023-08-29 | 1,035,202 | 407 |
-| 2023-08-30 | 1,035,384 | 407 |
+| 2023-08-30 | 1,035,405 | 407 |
 ## Awards
-Max (Great for Beginners): 153  (Ranked 295)  
-Sum: 1,263 (Ranked 229)  
-Diff (max vs sum): 66  
+Max (Great for Beginners): 153  (Ranked 296)  
+Sum: 1,264 (Ranked 229)  
+Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 153 |
 | This game has Quickly Understood Controls | 133 |
+| This game is Relaxing | 126 |
 | This game is Great for Quick Sessions | 125 |
-| This game is Relaxing | 125 |
 | This game is Highly Recommended | 121 |
 | This game has Competitive Players | 117 |
 | This game has Playful Visuals | 116 |
@@ -394,4 +394,4 @@ Diff (max vs sum): 66
 | 2023-08-24 | 4.55 | - | 153 | 1,259 |
 | 2023-08-25 | 4.55 | - | 153 | 1,261 |
 | 2023-08-29 | 4.55 | - | 153 | 1,262 |
-| 2023-08-30 | 4.55 | - | 153 | 1,263 |
+| 2023-08-30 | 4.55 | - | 153 | 1,264 |

@@ -5,9 +5,9 @@ Rating: 4.18 (Ranked 880)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~34,055 |
-| Har, Har, Har, Very Funny | 35.00% | ~23,838 |
-| Loose Ends | 34.00% | ~23,157 |
+| First Step Into the Knight | 50.00% | ~34,056 |
+| Har, Har, Har, Very Funny | 35.00% | ~23,839 |
+| Loose Ends | 34.00% | ~23,158 |
 | To the Victor Go the Spoils | 28.00% | ~19,071 |
 | Knighthood | 27.00% | ~18,390 |
 | Get ReQ'd | 25.00% | ~17,028 |
@@ -24,11 +24,11 @@ Rating: 4.18 (Ranked 880)
 | From Inside Gotham's Walls | 18.00% | ~12,260 |
 | Protector of Gotham | 17.00% | ~11,579 |
 | Universal Health Scare | 16.00% | ~10,898 |
-| In Your Element | 15.00% | ~10,216 |
-| Voiceless | 15.00% | ~10,216 |
-| Rock and a Hard Place | 14.00% | ~9,535 |
-| Cooldown | 14.00% | ~9,535 |
-| Seeking Asylum | 14.00% | ~9,535 |
+| In Your Element | 15.00% | ~10,217 |
+| Voiceless | 15.00% | ~10,217 |
+| Rock and a Hard Place | 14.00% | ~9,536 |
+| Cooldown | 14.00% | ~9,536 |
+| Seeking Asylum | 14.00% | ~9,536 |
 | Not On My Watch | 13.00% | ~8,854 |
 | Shock Til They Drop | 13.00% | ~8,854 |
 | End of an Era | 12.00% | ~8,173 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 880)
 | Element of Surprise | 0.20% | ~77 |
 | It's Nice to Be Wanted | 0.20% | ~77 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,110 (Ranked 81)  
+Progressed: 68,111 (Ranked 81)  
 Completed: 110 (0.16%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 110 (0.16%) (Ranked 197)
 | 2023-08-27 | 68,080 | 109 |
 | 2023-08-28 | 68,093 | 109 |
 | 2023-08-29 | 68,108 | 110 |
-| 2023-08-30 | 68,110 | 110 |
+| 2023-08-30 | 68,111 | 110 |
 ## Awards
 Max (Great Boss Battles): 2,527  (Ranked 100)  
 Sum: 4,206 (Ranked 139)  

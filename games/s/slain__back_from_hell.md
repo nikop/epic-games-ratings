@@ -5,7 +5,7 @@ Rating: 4.29 (Ranked 801)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Man 'O War | 20.00% | ~7,099 |
+| Man 'O War | 20.00% | ~7,100 |
 | A Good Day To Die | 15.00% | ~5,325 |
 | Right Back Atcha | 6.00% | ~2,130 |
 | Killed by Death | 5.00% | ~1,775 |
@@ -14,7 +14,7 @@ Rating: 4.29 (Ranked 801)
 | Down Boy! | 2.00% | ~710 |
 | A Snowball's Chance in Hell | 2.00% | ~710 |
 | Enjoy The Silence | 1.00% | ~355 |
-| Backdoor Man | 0.90% | ~319 |
+| Backdoor Man | 0.90% | ~320 |
 | Thorn in My Herbicide | 0.80% | ~284 |
 | Sure Footed As A Goat | 0.80% | ~284 |
 | Schadenfreude | 0.80% | ~284 |
@@ -24,18 +24,18 @@ Rating: 4.29 (Ranked 801)
 | Hail the Great Horned Metal God! | 0.70% | ~248 |
 | That'll Come In Handy... | 0.70% | ~248 |
 | Start As You Mean To Go On | 0.60% | ~213 |
-| Oh God, Mother! Blood! Blood! | 0.50% | ~177 |
+| Oh God, Mother! Blood! Blood! | 0.50% | ~178 |
 | Four Legged Friend | 0.40% | ~142 |
 | Ice To See You | 0.40% | ~142 |
 | Smack My Imp Up | 0.40% | ~142 |
 | Vroll With It | 0.30% | ~106 |
 | Swift of Foot, Keen of Blade | 0.30% | ~106 |
 | Flame Retardant | 0.20% | ~71 |
-| Too Metal For Magic | 0.10% | ~35 |
-| Heart Of Steel | 0.10% | ~35 |
-| Death or Glory | 0.10% | ~35 |
+| Too Metal For Magic | 0.10% | ~36 |
+| Heart Of Steel | 0.10% | ~36 |
+| Death or Glory | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35,497 (Ranked 99)  
+Progressed: 35,500 (Ranked 99)  
 Completed: 22 (0.06%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 22 (0.06%) (Ranked 228)
 | 2023-08-27 | 35,327 | 22 |
 | 2023-08-28 | 35,401 | 22 |
 | 2023-08-29 | 35,468 | 22 |
-| 2023-08-30 | 35,497 | 22 |
+| 2023-08-30 | 35,500 | 22 |
 ## Awards
 Max (Great Boss Battles): 126  (Ranked 311)  
 Sum: 126 (Ranked 405)  

@@ -3,7 +3,7 @@
   "Name": "Horizon Chase Turbo",
   "ProductSlug": "horizon-chase-turbo",
   "Ranking_Rating": 488,
-  "Ranking_Popularity": 295,
+  "Ranking_Popularity": 296,
   "Ranking_PopularitySum": 229,
   "Ranking_EOS_Progress": 12,
   "Ranking_EOS_Completed": 236,
@@ -2330,10 +2330,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 1263,
       "NumberOfAwardsMax": 153
+    },
+    {
+      "Time": "2023-08-30T11:01:32.8928156+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 1264,
+      "NumberOfAwardsMax": 153
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1263,
+  "NumberOfAwards": 1264,
   "NumberOfAwardsMax": 153,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2383,7 +2389,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 125
+      "Count": 126
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2410,9 +2416,9 @@
       "Count": 79
     }
   ],
-  "EOS_Progressed": 1035384,
+  "EOS_Progressed": 1035405,
   "EOS_Completed": 407,
-  "EOS_NewPlayers": 4153,
+  "EOS_NewPlayers": 4156,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -17045,6 +17051,11 @@
       "Time": "2023-08-30T10:07:18.3614206+00:00",
       "NumProgressed": 1035384,
       "NumCompleted": 407
+    },
+    {
+      "Time": "2023-08-30T11:07:49.3526578+00:00",
+      "NumProgressed": 1035405,
+      "NumCompleted": 407
     }
   ],
   "TotalAchievements": 37,
@@ -17056,7 +17067,7 @@
       "Name": "Ghostbuster",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 341677
+      "UsersEstimate": 341684
     },
     {
       "ID": "CompleteAustralia",
@@ -17064,7 +17075,7 @@
       "Name": "Crocodile Hunter",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 9318
+      "UsersEstimate": 9319
     },
     {
       "ID": "CompleteBrazil",
@@ -17080,7 +17091,7 @@
       "Name": "California Dreamer",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 72477
+      "UsersEstimate": 72478
     },
     {
       "ID": "CompleteChile",
@@ -17096,7 +17107,7 @@
       "Name": "Old Master",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 9318
+      "UsersEstimate": 9319
     },
     {
       "ID": "CompleteGreece",
@@ -17248,7 +17259,7 @@
       "Name": "Quickie",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 113892
+      "UsersEstimate": 113895
     },
     {
       "ID": "FirstRaceWorldTour",
@@ -17256,7 +17267,7 @@
       "Name": "The First of Many",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 931846
+      "UsersEstimate": 931864
     },
     {
       "ID": "GetLotsOfScore",
@@ -17288,7 +17299,7 @@
       "Name": "Pump my Ride",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 486630
+      "UsersEstimate": 486640
     },
     {
       "ID": "OutOfFuelLoseRace",
@@ -17296,7 +17307,7 @@
       "Name": "Call Roadside Assistance",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 176015
+      "UsersEstimate": 176019
     },
     {
       "ID": "OutOfFuelWinRace",
@@ -17320,7 +17331,7 @@
       "Name": "I Need a Bigger Garage",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 652292
+      "UsersEstimate": 652305
     },
     {
       "ID": "WinBySmallDifference",
@@ -17328,7 +17339,7 @@
       "Name": "That Was Close",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 186369
+      "UsersEstimate": 186373
     },
     {
       "ID": "WinLotsOfConsecutiveRaces",
@@ -17344,22 +17355,22 @@
       "Name": "Can\u0027t Touch This",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 51769
+      "UsersEstimate": 51770
     }
   ],
   "AchievementSets": [
     {
       "ID": "77fdf3o",
       "IsBase": true,
-      "Progressed": 1035384,
+      "Progressed": 1035405,
       "Completed": 407
     }
   ],
   "FirstSeen": "2022-07-22T20:19:20.5347351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.6843682+00:00",
-  "LastChanged": "2023-08-30T04:59:41.7791875+00:00",
-  "LastChanged_Achievements": "2023-08-30T10:07:18.3614193+00:00",
+  "LastChanged": "2023-08-30T11:01:32.8928154+00:00",
+  "LastChanged_Achievements": "2023-08-30T11:07:49.3526573+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:19.9299095+00:00",
-  "LastUpdate_Ratings": "2023-08-30T10:00:46.3829301+00:00",
-  "LastUpdate_Achievements": "2023-08-30T10:07:18.3615613+00:00"
+  "LastUpdate_Ratings": "2023-08-30T11:01:32.8928161+00:00",
+  "LastUpdate_Achievements": "2023-08-30T11:07:49.3527789+00:00"
 }

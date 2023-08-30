@@ -20,6 +20,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong | 3.00% | ~410 |
 | Hanging Gardens | 3.00% | ~410 |
 | Oracle | 3.00% | ~410 |
+| Trade Caravan | 3.00% | ~410 |
 | Regicide | 2.00% | ~273 |
 | Ambitious | 2.00% | ~273 |
 | Brilliant | 2.00% | ~273 |
@@ -53,7 +54,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Paganism | 2.00% | ~273 |
 | Zoroastrianism | 2.00% | ~273 |
 | Naming Landmarks | 2.00% | ~273 |
-| Trade Caravan | 2.00% | ~273 |
 | The Great Mage | 2.00% | ~273 |
 | Poetic Leader | 2.00% | ~273 |
 | Hanging Gardens in Babylon | 1.00% | ~137 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,672 (Ranked 120)  
+Progressed: 13,674 (Ranked 120)  
 Completed: 5 (0.04%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -435,7 +435,7 @@ Completed: 5 (0.04%) (Ranked 236)
 | 2023-08-27 | 13,616 | 5 |
 | 2023-08-28 | 13,635 | 5 |
 | 2023-08-29 | 13,661 | 5 |
-| 2023-08-30 | 13,672 | 5 |
+| 2023-08-30 | 13,674 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,799 (Ranked 207)  

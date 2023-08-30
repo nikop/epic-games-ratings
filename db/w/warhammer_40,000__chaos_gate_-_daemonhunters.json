@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -3315,9 +3315,9 @@
       "ID": "FleetMaster",
       "SetID": "2im8phi",
       "Name": "Fleetmaster",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "ForTheMachineGod",
@@ -3761,8 +3761,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-08-23T16:01:12.805504+00:00",
-  "LastChanged_Achievements": "2023-08-30T10:04:38.0387157+00:00",
+  "LastChanged_Achievements": "2023-08-30T11:04:50.720506+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:34.0520406+00:00",
-  "LastUpdate_Ratings": "2023-08-30T09:57:38.5280965+00:00",
-  "LastUpdate_Achievements": "2023-08-30T10:04:38.0388638+00:00"
+  "LastUpdate_Ratings": "2023-08-30T10:57:55.7444321+00:00",
+  "LastUpdate_Achievements": "2023-08-30T11:04:50.7205947+00:00"
 }

@@ -34,9 +34,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9604,
+  "EOS_Progressed": 9606,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 786,
+  "EOS_NewPlayers": 788,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3669,6 +3669,11 @@
       "Time": "2023-08-30T10:03:46.9052112+00:00",
       "NumProgressed": 9604,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-30T11:03:53.3259287+00:00",
+      "NumProgressed": 9606,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -3777,7 +3782,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 960
+      "UsersEstimate": 961
     },
     {
       "ID": "21",
@@ -3920,7 +3925,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 9604,
+      "Progressed": 9606,
       "Completed": 0
     }
   ],
@@ -3928,8 +3933,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-08-27T16:57:45.7126871+00:00",
-  "LastChanged_Achievements": "2023-08-30T10:03:46.9052105+00:00",
+  "LastChanged_Achievements": "2023-08-30T11:03:53.3259278+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:45.4170889+00:00",
-  "LastUpdate_Ratings": "2023-08-30T09:58:04.4547012+00:00",
-  "LastUpdate_Achievements": "2023-08-30T10:03:46.9052908+00:00"
+  "LastUpdate_Ratings": "2023-08-30T10:58:26.0352235+00:00",
+  "LastUpdate_Achievements": "2023-08-30T11:03:53.3259764+00:00"
 }

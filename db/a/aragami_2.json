@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 41847,
+  "EOS_Progressed": 41848,
   "EOS_Completed": 215,
-  "EOS_NewPlayers": 533,
+  "EOS_NewPlayers": 534,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -13536,6 +13536,11 @@
       "Time": "2023-08-30T10:08:07.0056099+00:00",
       "NumProgressed": 41847,
       "NumCompleted": 215
+    },
+    {
+      "Time": "2023-08-30T11:08:33.1190849+00:00",
+      "NumProgressed": 41848,
+      "NumCompleted": 215
     }
   ],
   "TotalAchievements": 44,
@@ -13723,7 +13728,7 @@
       "Name": "Soul Reaver",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 9206
+      "UsersEstimate": 9207
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -13739,7 +13744,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 15483
+      "UsersEstimate": 15484
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -13747,7 +13752,7 @@
       "Name": "Clinging to Life",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 7532
+      "UsersEstimate": 7533
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -13755,7 +13760,7 @@
       "Name": "Wall Lizard",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 8369
+      "UsersEstimate": 8370
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -13763,7 +13768,7 @@
       "Name": "Apex Predator",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 10043
+      "UsersEstimate": 10044
     },
     {
       "ID": "ACHIEVEMENT_36",
@@ -13811,7 +13816,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 25108
+      "UsersEstimate": 25109
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -13819,7 +13824,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 28037
+      "UsersEstimate": 28038
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -13851,7 +13856,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 18831
+      "UsersEstimate": 18832
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -13883,7 +13888,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 38918
+      "UsersEstimate": 38919
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -13891,14 +13896,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 21760
+      "UsersEstimate": 21761
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 41847,
+      "Progressed": 41848,
       "Completed": 215
     }
   ],
@@ -13906,8 +13911,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-08-30T04:00:16.1693203+00:00",
-  "LastChanged_Achievements": "2023-08-30T10:08:07.0056092+00:00",
+  "LastChanged_Achievements": "2023-08-30T11:08:33.1190841+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:14.3524994+00:00",
-  "LastUpdate_Ratings": "2023-08-30T10:02:20.7496555+00:00",
-  "LastUpdate_Achievements": "2023-08-30T10:08:07.0058315+00:00"
+  "LastUpdate_Ratings": "2023-08-30T11:02:11.6303179+00:00",
+  "LastUpdate_Achievements": "2023-08-30T11:08:33.119211+00:00"
 }

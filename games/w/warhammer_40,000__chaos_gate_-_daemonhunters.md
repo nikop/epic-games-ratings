@@ -26,6 +26,7 @@ Number of Ratings: 371  (23.09.2022)
 | Just a Scratch | 1.00% | ~32 |
 | Execution Force | 1.00% | ~32 |
 | Hive Exterminator | 1.00% | ~32 |
+| Fleetmaster | 0.60% | ~19 |
 | Daemonkeeper | 0.60% | ~19 |
 | Efficient Killer | 0.60% | ~19 |
 | Only in Death | 0.60% | ~19 |
@@ -34,7 +35,6 @@ Number of Ratings: 371  (23.09.2022)
 | Long Distance Call | 0.60% | ~19 |
 | Tactical Flexibility | 0.60% | ~19 |
 | Tactical Sabotage | 0.60% | ~19 |
-| Fleetmaster | 0.50% | ~16 |
 | Exterminator | 0.50% | ~16 |
 | Mind Like a Fortress | 0.50% | ~16 |
 | Preservationist | 0.50% | ~16 |
