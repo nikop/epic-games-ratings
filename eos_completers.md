@@ -15,7 +15,7 @@
 | 13 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 13 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 19.57% |
-| 16 | [Island Cities](games/i/island_cities.md) | 18.63% |
+| 16 | [Island Cities](games/i/island_cities.md) | 18.59% |
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
 | 18 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.46% |
 | 19 | [Anna's Quest](games/a/anna's_quest.md) | 13.51% |
@@ -53,11 +53,11 @@
 | 51 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.17% |
 | 52 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.13% |
 | 53 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.81% |
-| 54 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 4.76% |
-| 55 | [Bugsnax](games/b/bugsnax.md) | 4.74% |
-| 56 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
-| 57 | [JARS](games/j/jars.md) | 4.48% |
-| 58 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.37% |
+| 54 | [Bugsnax](games/b/bugsnax.md) | 4.74% |
+| 55 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
+| 56 | [JARS](games/j/jars.md) | 4.48% |
+| 57 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.37% |
+| 58 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 4.35% |
 | 59 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
 | 59 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.17% |
 | 61 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.08% |
@@ -78,7 +78,7 @@
 | 76 | [Monster Harvest](games/m/monster_harvest.md) | 2.93% |
 | 76 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 78 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.80% |
-| 79 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.79% |
+| 79 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.78% |
 | 80 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.74% |
 | 81 | [Destiny 2](games/d/destiny_2.md) | 2.73% |
 | 81 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
@@ -93,7 +93,7 @@
 | 91 | [Bloodshore](games/b/bloodshore.md) | 2.20% |
 | 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.15% |
 | 92 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
-| 94 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.99% |
+| 94 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.00% |
 | 95 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
 | 96 | [Night Book](games/n/night_book.md) | 1.86% |
 | 97 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
@@ -196,13 +196,13 @@
 | 194 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.18% |
 | 194 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.18% |
 | 194 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.18% |
-| 197 | [BLACKTAIL](games/b/blacktail.md) | 0.16% |
 | 197 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.16% |
 | 197 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
 | 197 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 197 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
 | 197 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.16% |
-| 203 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
+| 202 | [BLACKTAIL](games/b/blacktail.md) | 0.15% |
+| 202 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
 | 204 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.14% |
 | 205 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.13% |
 | 206 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.12% |
