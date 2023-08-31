@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Chicken Journey](games/1/1df6c2cb003d48979ee3f72fff54d013.md) | 2023-08-31 | - |  | - | - |
 | [Arena Renovation](games/a/a475e165d6c6476d9417458bc53cd71b.md) | 2023-09-01 | - |  | - | - |
 | [Creatura](games/1/1c0a8b3f4f0b4899ac5a8231dc7f4621.md) | 2023-09-01 | - |  | - | - |
 | [Split](games/3/352f45e3b1c345a6b693997044461f79.md) | 2023-09-01 | - |  | - | - |
@@ -467,7 +468,7 @@
 | [Yakuza Empire](games/y/yakuza_empire.md) | 2099-01-02 | - |  | - | - |
 | [The Invincible](games/t/the_invincible.md) | 2099-01-28 | - |  | - | - |
 | [Broken Roads](games/b/broken_roads.md) | 2099-02-01 | - |  | - | - |
-| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2099-02-01 | 24 (1,000 XP) | 3,137 | - | - |
+| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2099-02-01 | 24 (1,000 XP) | 3,138 | - | - |
 | [Eville](games/e/eville.md) | 2099-02-01 | - |  | - | - |
 | [Gangs of Sherwood](games/g/gangs_of_sherwood.md) | 2099-02-01 | - |  | - | - |
 | [Hades II](games/h/hades_ii.md) | 2099-02-01 | - |  | - | - |
