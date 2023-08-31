@@ -1,9 +1,9 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
-| 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.00% |
+| 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 49.37% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.31% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 34.75% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 34.45% |
 | 5 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 33.33% |
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.95% |
 | 7 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
@@ -32,7 +32,7 @@
 | 30 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 9.09% |
 | 30 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
 | 32 | [Sonic Origins](games/s/sonic_origins.md) | 9.05% |
-| 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.95% |
+| 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.99% |
 | 34 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.89% |
 | 35 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.61% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.73% |
@@ -115,8 +115,8 @@
 | 113 | [Poosh XL](games/p/poosh_xl.md) | 1.40% |
 | 114 | [Late Shift](games/l/late_shift.md) | 1.26% |
 | 115 | [Infindustry](games/i/infindustry.md) | 1.23% |
-| 116 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 1.16% |
-| 117 | [Chorus](games/c/chorus.md) | 1.13% |
+| 116 | [Chorus](games/c/chorus.md) | 1.13% |
+| 117 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 1.12% |
 | 118 | [Trifox](games/t/trifox.md) | 1.10% |
 | 119 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.06% |
 | 120 | [A Musical Story](games/a/a_musical_story.md) | 1.04% |
@@ -177,7 +177,7 @@
 | 175 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.33% |
 | 176 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 176 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
-| 178 | [The First Tree](games/t/the_first_tree.md) | 0.30% |
+| 176 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 179 | [Against the Storm](games/a/against_the_storm.md) | 0.29% |
 | 179 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
 | 179 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
@@ -187,9 +187,9 @@
 | 185 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
 | 185 | [Filament](games/f/filament.md) | 0.25% |
 | 187 | [Despot's Game](games/d/despot's_game.md) | 0.24% |
-| 187 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.24% |
-| 189 | [Blanc](games/b/blanc.md) | 0.23% |
-| 189 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.23% |
+| 188 | [Blanc](games/b/blanc.md) | 0.23% |
+| 188 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.23% |
+| 188 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.23% |
 | 191 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.22% |
 | 191 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
 | 193 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
@@ -369,6 +369,7 @@
 | 269 | [Garden In](games/g/garden_in.md) | 0.00% |
 | 269 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 0.00% |
 | 269 | [GINSHA](games/f/f63608bdb9234e0cbfb6d7f81e96d33c.md) | 0.00% |
+| 269 | [Golfing in Aether](games/4/40f6e4beb45a4bbfb77fdb6774331e83.md) | 0.00% |
 | 269 | [GPRO - Classic racing manager](games/g/gpro_-_classic_racing_manager.md) | 0.00% |
 | 269 | [Gravitar Recharged](games/g/gravitar_recharged.md) | 0.00% |
 | 269 | [greensheen Production](games/g/greensheen_production.md) | 0.00% |
