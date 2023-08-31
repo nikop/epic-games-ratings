@@ -3,7 +3,7 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.00% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.31% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 35.29% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 36.27% |
 | 5 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 33.33% |
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.95% |
 | 7 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
@@ -67,7 +67,7 @@
 | 64 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 3.70% |
 | 66 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 67 | [Without Escape](games/w/without_escape.md) | 3.45% |
-| 68 | [Doodle God](games/d/doodle_god.md) | 3.42% |
+| 68 | [Doodle God](games/d/doodle_god.md) | 3.40% |
 | 69 | [Bunny Park](games/b/bunny_park.md) | 3.37% |
 | 70 | [The Complex](games/t/the_complex.md) | 3.33% |
 | 71 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
