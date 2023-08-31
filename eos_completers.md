@@ -3,14 +3,14 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 49.37% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.31% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 34.17% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 35.00% |
 | 5 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 33.33% |
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.95% |
 | 7 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 26.17% |
 | 9 | [Overloop](games/o/overloop.md) | 25.00% |
-| 10 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.66% |
-| 11 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 24.62% |
+| 10 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 24.62% |
+| 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.49% |
 | 12 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 13 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.29% |
 | 14 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
@@ -116,8 +116,8 @@
 | 114 | [Late Shift](games/l/late_shift.md) | 1.26% |
 | 115 | [Infindustry](games/i/infindustry.md) | 1.23% |
 | 116 | [Chorus](games/c/chorus.md) | 1.13% |
-| 117 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 1.10% |
 | 117 | [Trifox](games/t/trifox.md) | 1.10% |
+| 118 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 1.09% |
 | 119 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.06% |
 | 120 | [A Musical Story](games/a/a_musical_story.md) | 1.04% |
 | 121 | [Adios](games/a/adios.md) | 1.03% |
@@ -158,38 +158,38 @@
 | 156 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
 | 157 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.46% |
 | 157 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.46% |
+| 159 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.45% |
 | 159 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.45% |
 | 159 | [Train Valley](games/t/train_valley.md) | 0.45% |
-| 161 | [Tails of Iron](games/t/tails_of_iron.md) | 0.43% |
-| 161 | [Tchia](games/t/tchia.md) | 0.43% |
-| 163 | [Ghostrunner](games/g/ghostrunner.md) | 0.40% |
-| 163 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
-| 165 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.37% |
-| 165 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.37% |
-| 165 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
-| 168 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.36% |
-| 168 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.36% |
-| 168 | [Wildermyth](games/w/wildermyth.md) | 0.36% |
-| 171 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.35% |
-| 171 | [The Surge](games/t/the_surge.md) | 0.35% |
-| 171 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.35% |
-| 174 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.34% |
-| 175 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.33% |
-| 176 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
-| 176 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
-| 176 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
-| 179 | [Against the Storm](games/a/against_the_storm.md) | 0.29% |
-| 179 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
-| 179 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
-| 182 | [Scrapnaut](games/s/scrapnaut.md) | 0.28% |
-| 182 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.28% |
-| 182 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.28% |
-| 185 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
-| 185 | [Filament](games/f/filament.md) | 0.25% |
-| 187 | [Despot's Game](games/d/despot's_game.md) | 0.24% |
-| 188 | [Blanc](games/b/blanc.md) | 0.23% |
-| 188 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.23% |
-| 188 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.23% |
+| 162 | [Tails of Iron](games/t/tails_of_iron.md) | 0.43% |
+| 162 | [Tchia](games/t/tchia.md) | 0.43% |
+| 164 | [Ghostrunner](games/g/ghostrunner.md) | 0.40% |
+| 164 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
+| 166 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.37% |
+| 166 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.37% |
+| 166 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
+| 169 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.36% |
+| 169 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.36% |
+| 169 | [Wildermyth](games/w/wildermyth.md) | 0.36% |
+| 172 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.35% |
+| 172 | [The Surge](games/t/the_surge.md) | 0.35% |
+| 172 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.35% |
+| 175 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.34% |
+| 176 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.33% |
+| 177 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
+| 177 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
+| 177 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
+| 180 | [Against the Storm](games/a/against_the_storm.md) | 0.29% |
+| 180 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
+| 180 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
+| 183 | [Scrapnaut](games/s/scrapnaut.md) | 0.28% |
+| 183 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.28% |
+| 183 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.28% |
+| 186 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
+| 186 | [Filament](games/f/filament.md) | 0.25% |
+| 188 | [Despot's Game](games/d/despot's_game.md) | 0.24% |
+| 189 | [Blanc](games/b/blanc.md) | 0.23% |
+| 189 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.23% |
 | 191 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.22% |
 | 191 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
 | 193 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
@@ -512,6 +512,7 @@
 | 270 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.00% |
 | 270 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 0.00% |
 | 270 | [Switchball HD](games/s/switchball_hd.md) | 0.00% |
+| 270 | [SYNCED](games/s/synced.md) | 0.00% |
 | 270 | [System Shock](games/s/system_shock.md) | 0.00% |
 | 270 | [Tabletop Playground](games/9/95f3bd44c8394061aca3eb1ce4b1f0fb.md) | 0.00% |
 | 270 | [Tad the Lost Explorer](games/t/tad_the_lost_explorer.md) | 0.00% |
