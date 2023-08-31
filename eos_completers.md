@@ -12,9 +12,9 @@
 | 10 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.66% |
 | 11 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 24.62% |
 | 12 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 13 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
-| 13 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
-| 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 19.57% |
+| 13 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.29% |
+| 14 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
+| 14 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 16 | [Island Cities](games/i/island_cities.md) | 18.59% |
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
 | 18 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.46% |
@@ -78,10 +78,10 @@
 | 76 | [Monster Harvest](games/m/monster_harvest.md) | 2.93% |
 | 76 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 78 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.80% |
-| 79 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.74% |
 | 79 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.74% |
-| 81 | [Destiny 2](games/d/destiny_2.md) | 2.73% |
-| 81 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
+| 80 | [Destiny 2](games/d/destiny_2.md) | 2.73% |
+| 80 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.73% |
+| 80 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 83 | [The Bunker](games/t/the_bunker.md) | 2.61% |
 | 84 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.58% |
 | 85 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.57% |
@@ -92,7 +92,7 @@
 | 90 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.24% |
 | 91 | [Bloodshore](games/b/bloodshore.md) | 2.20% |
 | 92 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
-| 93 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.11% |
+| 93 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.10% |
 | 94 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.00% |
 | 95 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
 | 96 | [Night Book](games/n/night_book.md) | 1.86% |

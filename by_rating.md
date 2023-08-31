@@ -92,9 +92,9 @@
 | 88 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 160 | 294 |
 | 88 | [Huntdown](games/h/huntdown.md) | 4.79 | 0 | 514 |
 | 88 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.79 | 0 | 514 |
-| 88 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 858 | 153 |
+| 88 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 865 | 153 |
 | 88 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 752 | 163 |
-| 88 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,980 | 56 |
+| 88 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,984 | 56 |
 | 88 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.79 | 51 | 400 |
 | 88 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.79 | 2,457 | 102 |
 | 88 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 386 | 218 |
@@ -142,7 +142,7 @@
 | 135 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 644 | 176 |
 | 135 | [Hypnospace Outlaw](games/h/hypnospace_outlaw.md) | 4.75 | 0 | 514 |
 | 135 | [Legend Bowl](games/l/legend_bowl.md) | 4.75 | 0 | 514 |
-| 135 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 575 | 185 |
+| 135 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 575 | 186 |
 | 135 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.75 | 0 | 514 |
 | 135 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.75 | 0 | 514 |
 | 135 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 0 | 514 |
@@ -183,7 +183,7 @@
 | 176 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 76 | 367 |
 | 176 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.72 | 124 | 314 |
 | 176 | [Slipways](games/s/slipways.md) | 4.72 | 0 | 514 |
-| 176 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 321 | 233 |
+| 176 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 321 | 234 |
 | 176 | [SUPERHOT](games/s/superhot.md) | 4.72 | 0 | 514 |
 | 176 | [The Red Lantern](games/t/the_red_lantern.md) | 4.72 | 0 | 514 |
 | 176 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 0 | 514 |
@@ -343,7 +343,7 @@
 | 334 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 0 | 514 |
 | 334 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 605 | 181 |
 | 334 | [Mutazione](games/m/mutazione.md) | 4.63 | 0 | 514 |
-| 334 | [Returnal™](games/r/returnal™.md) | 4.63 | 66 | 386 |
+| 334 | [Returnal™](games/r/returnal™.md) | 4.63 | 67 | 383 |
 | 334 | [Road 96](games/r/road_96.md) | 4.63 | 0 | 514 |
 | 334 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 184 | 279 |
 | 334 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 304 | 236 |
@@ -385,7 +385,7 @@
 | 369 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 0 | 514 |
 | 369 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 679 | 172 |
 | 369 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 105 | 331 |
-| 369 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 489 | 200 |
+| 369 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 490 | 200 |
 | 369 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 9,913 | 36 |
 | 369 | [RiME](games/r/rime.md) | 4.61 | 0 | 514 |
 | 369 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,074 | 139 |
@@ -424,7 +424,7 @@
 | 415 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.59 | 223 | 262 |
 | 415 | [Operation: Tango](games/o/operation__tango.md) | 4.59 | 0 | 514 |
 | 415 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 75 | 370 |
-| 415 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 321 | 233 |
+| 415 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 322 | 232 |
 | 415 | [Torchlight II](games/t/torchlight_ii.md) | 4.59 | 1,014 | 145 |
 | 415 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.59 | 0 | 514 |
 | 415 | [Wall World](games/w/wall_world.md) | 4.59 | 0 | 514 |
@@ -438,7 +438,7 @@
 | 429 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.58 | 0 | 514 |
 | 429 | [GRIT](games/g/grit.md) | 4.58 | 0 | 514 |
 | 429 | [Moving Out](games/m/moving_out.md) | 4.58 | 21 | 504 |
-| 429 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.58 | 7,258 | 48 |
+| 429 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.58 | 7,294 | 48 |
 | 429 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 1,488 | 123 |
 | 429 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.58 | 0 | 514 |
 | 429 | [Sonic Origins](games/s/sonic_origins.md) | 4.58 | 127 | 311 |
@@ -732,7 +732,7 @@
 | 729 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 0 | 514 |
 | 729 | [Beholder 3](games/b/beholder_3.md) | 4.38 | 0 | 514 |
 | 729 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 0 | 514 |
-| 729 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 575 | 185 |
+| 729 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 575 | 186 |
 | 729 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 164 | 291 |
 | 729 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.38 | 73 | 374 |
 | 729 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 514 |
@@ -849,7 +849,7 @@
 | 840 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.24 | 0 | 514 |
 | 840 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 24 | 486 |
 | 849 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 146 |
-| 849 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.23 | 574 | 187 |
+| 849 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.23 | 577 | 184 |
 | 849 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 4.23 | 0 | 514 |
 | 849 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 0 | 514 |
 | 849 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 0 | 514 |

@@ -507,6 +507,7 @@
 | [Swordship](../games/s/swordship.md) | 17 | 1,000 |
 | [Syberia: The World Before](../games/s/syberia__the_world_before.md) | 31 | 1,000 |
 | [Sylvio And The Mountains Giants](../games/e/eeeac1c46be840b1a8977237cbeb6b09.md) | 10 | 1,000 |
+| [SYNCED](../games/s/synced.md) | 16 | 1,000 |
 | [System Shock](../games/s/system_shock.md) | 46 | 1,000 |
 | [Tabletop Playground](../games/9/95f3bd44c8394061aca3eb1ce4b1f0fb.md) | 5 | 1,000 |
 | [Tad the Lost Explorer](../games/t/tad_the_lost_explorer.md) | 27 | 1,000 |
