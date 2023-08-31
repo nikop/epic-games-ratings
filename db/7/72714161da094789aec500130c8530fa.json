@@ -572,9 +572,9 @@
       "ID": "_x2score",
       "SetID": "2d5739o",
       "Name": "2X Score",
-      "Percentage": 53,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     }
   ],
   "AchievementSets": [
@@ -587,8 +587,8 @@
   ],
   "FirstSeen": "2023-08-19T02:04:22.1564483+00:00",
   "FirstSeenAchievements": "2023-08-09T13:13:29.9534062+00:00",
-  "LastChanged_Achievements": "2023-08-31T14:03:27.0608425+00:00",
+  "LastChanged_Achievements": "2023-08-31T15:04:25.9220403+00:00",
   "LastUpdate_AppInfo": "2023-08-30T14:57:10.8752885+00:00",
-  "LastUpdate_Ratings": "2023-08-31T13:59:07.8434774+00:00",
-  "LastUpdate_Achievements": "2023-08-31T14:03:27.0608776+00:00"
+  "LastUpdate_Ratings": "2023-08-31T15:00:37.2694654+00:00",
+  "LastUpdate_Achievements": "2023-08-31T15:04:25.9220767+00:00"
 }

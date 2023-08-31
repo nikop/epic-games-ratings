@@ -6,14 +6,14 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 38.00% | ~23,574 |
+| Follow the Light | 38.00% | ~23,575 |
 | Let There Be Light | 31.00% | ~19,232 |
-| Float Like a Butterfly | 30.00% | ~18,611 |
+| Float Like a Butterfly | 30.00% | ~18,612 |
 | Nordic Walking | 24.00% | ~14,889 |
 | Bright Falls' Finest | 23.00% | ~14,269 |
 | Under a Thin Layer of Skin | 21.00% | ~13,028 |
-| Park Ranger | 17.00% | ~10,546 |
-| Paging Mr. Wake | 17.00% | ~10,546 |
+| Park Ranger | 17.00% | ~10,547 |
+| Paging Mr. Wake | 17.00% | ~10,547 |
 | Back! Back, I Say! | 16.00% | ~9,926 |
 | Finders Keepers | 16.00% | ~9,926 |
 | Damn Good Cup of Coffee | 15.00% | ~9,306 |
@@ -33,10 +33,10 @@ Number of Ratings: 524  (23.09.2022)
 | Two For the Price of One | 11.00% | ~6,824 |
 | The Lady of the Light | 10.00% | ~6,204 |
 | Energized! | 10.00% | ~6,204 |
-| What Light Through Yonder Window | 9.00% | ~5,583 |
-| Right of Way | 9.00% | ~5,583 |
+| What Light Through Yonder Window | 9.00% | ~5,584 |
+| Right of Way | 9.00% | ~5,584 |
 | Tornado Wrangler | 8.00% | ~4,963 |
-| A Friend in Need | 8.00% | ~2,040 |
+| A Friend in Need | 8.00% | ~2,041 |
 | Departure | 7.00% | ~4,343 |
 | Drink 'Em Both Up | 6.00% | ~3,722 |
 | Hardboiled Writer | 6.00% | ~3,722 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~62 |
 | No Punctuation | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,038 (Ranked 87)  
+Progressed: 62,039 (Ranked 87)  
 Completed: 65 (0.10%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 65 (0.10%) (Ranked 214)
 | 2023-08-28 | 61,891 | 65 |
 | 2023-08-29 | 61,953 | 65 |
 | 2023-08-30 | 62,006 | 65 |
-| 2023-08-31 | 62,038 | 65 |
+| 2023-08-31 | 62,039 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

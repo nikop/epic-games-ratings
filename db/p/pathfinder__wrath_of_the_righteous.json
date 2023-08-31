@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3566,9 +3566,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 11146,
+  "EOS_Progressed": 11147,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11616,6 +11616,11 @@
       "Time": "2023-08-31T06:06:41.5387532+00:00",
       "NumProgressed": 11146,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-31T15:08:30.1992782+00:00",
+      "NumProgressed": 11147,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -11635,7 +11640,7 @@
       "Name": "Burning City",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1783
+      "UsersEstimate": 1784
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -11875,7 +11880,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1560
+      "UsersEstimate": 1561
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -12554,21 +12559,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9928,
+      "Progressed": 9929,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11146,
+      "Progressed": 11147,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-28T22:02:03.4075061+00:00",
-  "LastChanged_Achievements": "2023-08-31T14:06:22.2506314+00:00",
+  "LastChanged_Achievements": "2023-08-31T15:08:30.1992776+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:16.3191421+00:00",
-  "LastUpdate_Ratings": "2023-08-31T13:57:23.2360234+00:00",
-  "LastUpdate_Achievements": "2023-08-31T14:06:22.2508769+00:00"
+  "LastUpdate_Ratings": "2023-08-31T14:58:01.3429662+00:00",
+  "LastUpdate_Achievements": "2023-08-31T15:08:30.1995033+00:00"
 }

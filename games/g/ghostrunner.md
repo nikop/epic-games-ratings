@@ -6,25 +6,25 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~12,444 |
-| Sword Runner | 61.00% | ~9,988 |
-| Running out of breath | 54.00% | ~8,842 |
-| Wallrunner | 54.00% | ~8,842 |
-| Homerunner | 45.00% | ~7,368 |
-| Out of order | 45.00% | ~7,368 |
+| Longrunner | 76.00% | ~12,446 |
+| Sword Runner | 61.00% | ~9,989 |
+| Running out of breath | 54.00% | ~8,843 |
+| Wallrunner | 54.00% | ~8,843 |
+| Homerunner | 45.00% | ~7,369 |
+| Out of order | 45.00% | ~7,369 |
 | I call it luck | 44.00% | ~7,205 |
-| Where are my Keys? | 41.00% | ~6,713 |
-| Back to hell | 37.00% | ~6,058 |
+| Where are my Keys? | 41.00% | ~6,714 |
+| Back to hell | 37.00% | ~6,059 |
 | Perfection | 32.00% | ~5,240 |
-| Why not both | 30.00% | ~4,912 |
-| Sword to a gunfight | 29.00% | ~4,748 |
-| Upgrades not mandatory | 29.00% | ~4,748 |
+| Why not both | 30.00% | ~4,913 |
+| Sword to a gunfight | 29.00% | ~4,749 |
+| Upgrades not mandatory | 29.00% | ~4,749 |
 | Artificial selection | 28.00% | ~4,585 |
 | Control freak | 28.00% | ~4,585 |
-| Running Wild | 27.00% | ~4,421 |
-| Finish line | 26.00% | ~4,257 |
+| Running Wild | 27.00% | ~4,422 |
+| Finish line | 26.00% | ~4,258 |
 | Unstoppable force | 23.00% | ~3,766 |
-| Wave of mutilation | 22.00% | ~3,602 |
+| Wave of mutilation | 22.00% | ~3,603 |
 | Can't Run Can't Hide | 17.00% | ~2,784 |
 | R is for Running | 16.00% | ~2,620 |
 | Dead in the air | 15.00% | ~2,456 |
@@ -41,18 +41,18 @@ Number of Ratings: 1,047  (23.09.2022)
 | Scrapped | 4.00% | ~655 |
 | Strafing Run | 4.00% | ~655 |
 | Just A Man | 3.00% | ~491 |
-| Hit me if you can | 2.00% | ~327 |
-| Junkrunner | 2.00% | ~327 |
-| One man's trash | 2.00% | ~327 |
+| Hit me if you can | 2.00% | ~328 |
+| Junkrunner | 2.00% | ~328 |
+| One man's trash | 2.00% | ~328 |
 | Obedient Machine | 0.80% | ~131 |
 | Everyone Needs A Hobby | 0.70% | ~115 |
 | Legacy Drivers | 0.50% | ~82 |
-| A Grade | 0.40% | ~65 |
-| GR Project Complete | 0.40% | ~65 |
-| Sticks And Stones | 0.40% | ~65 |
-| Up Close And Personal | 0.40% | ~65 |
+| A Grade | 0.40% | ~66 |
+| GR Project Complete | 0.40% | ~66 |
+| Sticks And Stones | 0.40% | ~66 |
+| Up Close And Personal | 0.40% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,374 (Ranked 115)  
+Progressed: 16,376 (Ranked 115)  
 Completed: 65 (0.40%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 65 (0.40%) (Ranked 160)
 | 2023-08-28 | 16,174 | 61 |
 | 2023-08-29 | 16,271 | 63 |
 | 2023-08-30 | 16,338 | 64 |
-| 2023-08-31 | 16,374 | 65 |
+| 2023-08-31 | 16,376 | 65 |
 ## Awards
 Max (Great Boss Battles): 485  (Ranked 201)  
 Sum: 677 (Ranked 281)  

@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 557,
+  "EOS_Progressed": 558,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 1.62,
+  "EOS_Completed_Percentage": 1.61,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -1241,6 +1241,11 @@
       "Time": "2023-08-31T13:11:05.7028316+00:00",
       "NumProgressed": 557,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-31T15:06:41.4048046+00:00",
+      "NumProgressed": 558,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1269,7 +1274,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1307,9 +1312,9 @@
       "ID": "_08_Completion_10",
       "SetID": "8a1io5d",
       "Name": "Swabbie",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 223
+      "UsersEstimate": 229
     },
     {
       "ID": "_09_Completion_20",
@@ -1317,7 +1322,7 @@
       "Name": "Powder Monkey",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "_10_Completion_30",
@@ -1381,7 +1386,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -1397,7 +1402,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -1460,14 +1465,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 557,
+      "Progressed": 558,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-31T14:05:03.6995404+00:00",
+  "LastChanged_Achievements": "2023-08-31T15:06:41.4048041+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:45.1302228+00:00",
-  "LastUpdate_Ratings": "2023-08-31T13:57:19.0197404+00:00",
-  "LastUpdate_Achievements": "2023-08-31T14:05:03.6995676+00:00"
+  "LastUpdate_Ratings": "2023-08-31T14:57:55.7346234+00:00",
+  "LastUpdate_Achievements": "2023-08-31T15:06:41.4048386+00:00"
 }

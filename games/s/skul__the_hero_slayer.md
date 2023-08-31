@@ -13,7 +13,7 @@ Number of Ratings: 546  (23.09.2022)
 | The End of the Gold Mane Knights | 49.00% | ~3,992 |
 | Rules of Etiquette | 41.00% | ~3,340 |
 | False Goddess, Disappear | 40.00% | ~3,259 |
-| Quick Movements | 34.00% | ~2,770 |
+| Quick Movements | 35.00% | ~2,851 |
 | Inventory Management | 34.00% | ~2,770 |
 | The Fall of the Leonia Order | 31.00% | ~2,526 |
 | The Hero Killer | 29.00% | ~2,363 |

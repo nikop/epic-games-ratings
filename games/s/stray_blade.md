@@ -11,10 +11,10 @@
 | A new World ahead | 27.00% | ~15 |
 | Can't touch this | 24.00% | ~13 |
 | Don't Cry Wolf | 20.00% | ~11 |
-| Freezing Cold | 15.00% | ~8 |
+| Freezing Cold | 16.00% | ~9 |
+| The Power of the Mountains | 15.00% | ~8 |
 | Expert | 13.00% | ~7 |
 | The Golden Flash | 13.00% | ~7 |
-| The Power of the Mountains | 13.00% | ~7 |
 | Searing Heat | 11.00% | ~6 |
 | Changing the World | 11.00% | ~6 |
 | Craftsmen | 9.00% | ~5 |

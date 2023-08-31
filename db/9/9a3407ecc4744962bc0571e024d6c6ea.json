@@ -4,7 +4,7 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewPlayers": 93,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 523,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 358,
+  "EOS_NewPlayers": 350,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -866,9 +866,9 @@
       "ID": "ABetterTomorrow",
       "SetID": "3ai6ml8",
       "Name": "A Better Tomorrow",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 204
+      "UsersEstimate": 209
     },
     {
       "ID": "BostonHayDay",
@@ -978,9 +978,9 @@
       "ID": "Relic",
       "SetID": "3ai6ml8",
       "Name": "Relic",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 408
+      "UsersEstimate": 413
     },
     {
       "ID": "SkeletonCrew",
@@ -1033,8 +1033,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-08-31T14:04:16.3711285+00:00",
+  "LastChanged_Achievements": "2023-08-31T15:05:34.5380234+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:05.9137937+00:00",
-  "LastUpdate_Ratings": "2023-08-31T13:58:43.4219828+00:00",
-  "LastUpdate_Achievements": "2023-08-31T14:04:16.3711482+00:00"
+  "LastUpdate_Ratings": "2023-08-31T15:00:01.3685525+00:00",
+  "LastUpdate_Achievements": "2023-08-31T15:05:34.5380469+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1653,9 +1653,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13699,
+  "EOS_Progressed": 13700,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10678,6 +10678,11 @@
       "Time": "2023-08-31T13:07:28.4720645+00:00",
       "NumProgressed": 13699,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-31T15:03:30.6763137+00:00",
+      "NumProgressed": 13700,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -12087,9 +12092,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_ZOROASTRIANISM",
       "SetID": "9201eeb",
       "Name": "Adur Burzen-Mihr",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 96
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_ISHTAR_GATE",
@@ -13056,21 +13061,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13699,
+      "Progressed": 13700,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13699,
+      "Progressed": 13700,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-30T22:01:08.7702063+00:00",
-  "LastChanged_Achievements": "2023-08-31T14:02:15.0635489+00:00",
+  "LastChanged_Achievements": "2023-08-31T15:03:30.6763133+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:39.7773306+00:00",
-  "LastUpdate_Ratings": "2023-08-31T13:57:08.3851168+00:00",
-  "LastUpdate_Achievements": "2023-08-31T14:02:15.0645183+00:00"
+  "LastUpdate_Ratings": "2023-08-31T14:57:40.1051069+00:00",
+  "LastUpdate_Achievements": "2023-08-31T15:03:30.6774372+00:00"
 }

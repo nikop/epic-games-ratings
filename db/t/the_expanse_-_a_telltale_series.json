@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 58,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -40,9 +40,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9692,
+  "EOS_Progressed": 9696,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 868,
+  "EOS_NewPlayers": 872,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3805,6 +3805,11 @@
       "Time": "2023-08-31T14:03:34.7814804+00:00",
       "NumProgressed": 9692,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-31T15:04:36.1624022+00:00",
+      "NumProgressed": 9696,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -3865,7 +3870,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 2132
+      "UsersEstimate": 2133
     },
     {
       "ID": "16",
@@ -3889,7 +3894,7 @@
       "Name": "Bottoms up!",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 775
+      "UsersEstimate": 776
     },
     {
       "ID": "19",
@@ -3913,7 +3918,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 969
+      "UsersEstimate": 970
     },
     {
       "ID": "21",
@@ -3993,7 +3998,7 @@
       "Name": "Captain Drummer",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 1841
+      "UsersEstimate": 1842
     },
     {
       "ID": "30",
@@ -4049,14 +4054,14 @@
       "Name": "Impossible Objects",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 2229
+      "UsersEstimate": 2230
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 9692,
+      "Progressed": 9696,
       "Completed": 0
     }
   ],
@@ -4064,8 +4069,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-08-30T16:58:27.4229759+00:00",
-  "LastChanged_Achievements": "2023-08-31T14:03:34.7814794+00:00",
+  "LastChanged_Achievements": "2023-08-31T15:04:36.1624016+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:45.4170889+00:00",
-  "LastUpdate_Ratings": "2023-08-31T13:58:09.3979267+00:00",
-  "LastUpdate_Achievements": "2023-08-31T14:03:34.7815287+00:00"
+  "LastUpdate_Ratings": "2023-08-31T14:59:10.7718211+00:00",
+  "LastUpdate_Achievements": "2023-08-31T15:04:36.1624497+00:00"
 }

@@ -59,9 +59,9 @@ Rating: 4.23 (Ranked 849)
 | Three Birds With One Stone | 2.00% | ~40 |
 | Box Office Smash | 2.00% | ~40 |
 | Going Postal | 2.00% | ~40 |
+| The Easy Way Out | 2.00% | ~40 |
 | Loot, Pillage & Craft | 2.00% | ~40 |
 | Swiss Army Drone | 1.00% | ~20 |
-| The Easy Way Out | 1.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,986 (Ranked 172)  
 Completed: 10 (0.50%) (Ranked 150)  

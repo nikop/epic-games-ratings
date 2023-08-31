@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2529,
+  "EOS_Progressed": 2530,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -3445,6 +3445,11 @@
       "Time": "2023-08-31T09:07:48.0617138+00:00",
       "NumProgressed": 2529,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-31T15:08:35.2231166+00:00",
+      "NumProgressed": 2530,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -3456,7 +3461,7 @@
       "Name": "Embrace the darkness",
       "Percentage": 12,
       "XP": 120,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "STB_COLISSEUM_FIRST",
@@ -3496,7 +3501,7 @@
       "Name": "Hijack",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -3504,7 +3509,7 @@
       "Name": "Elemental master",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -3520,7 +3525,7 @@
       "Name": "For Demacia",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 2428
+      "UsersEstimate": 2429
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -3528,7 +3533,7 @@
       "Name": "My heart and sword always for Demacia",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "STB_DEFEAT_ICE_SALAMANDER_I",
@@ -3544,7 +3549,7 @@
       "Name": "I smell fear",
       "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "STB_DEFEAT_KILLAN",
@@ -3552,7 +3557,7 @@
       "Name": "Friendly fire",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "STB_DEFEAT_MAGICSHIFTER",
@@ -3576,7 +3581,7 @@
       "Name": "Past trauma",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_II",
@@ -3584,7 +3589,7 @@
       "Name": "Little light",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_I",
@@ -3592,7 +3597,7 @@
       "Name": "Old friend",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -3600,7 +3605,7 @@
       "Name": "True power",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_III",
@@ -3632,7 +3637,7 @@
       "Name": "Pentakill",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1947
+      "UsersEstimate": 1948
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -3640,7 +3645,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2327
+      "UsersEstimate": 2328
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -3648,7 +3653,7 @@
       "Name": "Meltridge",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "STB_MISSION11_COMPLETED",
@@ -3656,7 +3661,7 @@
       "Name": "The end of the experiments",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "STB_MISSION12_COMPLETED",
@@ -3672,7 +3677,7 @@
       "Name": "Dark Forest",
       "Percentage": 77,
       "XP": 100,
-      "UsersEstimate": 1947
+      "UsersEstimate": 1948
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -3680,7 +3685,7 @@
       "Name": "Thornbarrow",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 910
+      "UsersEstimate": 911
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -3720,7 +3725,7 @@
       "Name": "Capelworth",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "STB_MISSION6_COMPLETED",
@@ -3736,7 +3741,7 @@
       "Name": "The Central Headquarters",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "STB_MISSION8_COMPLETED",
@@ -3744,7 +3749,7 @@
       "Name": "The Great City of Demacia",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "STB_MISSION9_COMPLETED",
@@ -3792,7 +3797,7 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -3824,7 +3829,7 @@
       "Name": "Cloven Dell Headquarters",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "STB_UNLOCK_ACTIVE_RUNE",
@@ -3832,7 +3837,7 @@
       "Name": "The use of petricite",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 1871
+      "UsersEstimate": 1872
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -3879,7 +3884,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2529,
+      "Progressed": 2530,
       "Completed": 7
     }
   ],
@@ -3887,8 +3892,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-08-06T02:15:52.3932671+00:00",
-  "LastChanged_Achievements": "2023-08-31T14:06:26.0516193+00:00",
+  "LastChanged_Achievements": "2023-08-31T15:08:35.2231162+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:17.2197787+00:00",
-  "LastUpdate_Ratings": "2023-08-31T14:00:17.5811417+00:00",
-  "LastUpdate_Achievements": "2023-08-31T14:06:26.0516853+00:00"
+  "LastUpdate_Ratings": "2023-08-31T15:02:18.8418156+00:00",
+  "LastUpdate_Achievements": "2023-08-31T15:08:35.2231973+00:00"
 }

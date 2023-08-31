@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 343,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
     "PcReleaseDate": "2023-01-06T16:00:00+00:00",
@@ -499,9 +499,9 @@
       "ID": "Epic_DeathCounter_100",
       "SetID": "ba1m2fc",
       "Name": "Reincarnation",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Epic_DesperateSurvival_10",
@@ -635,9 +635,9 @@
       "ID": "Epic_KillElite_500",
       "SetID": "ba1m2fc",
       "Name": "Mousetrap",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Epic_Kill_1000000",
@@ -826,8 +826,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-08-31T14:03:08.3951594+00:00",
+  "LastChanged_Achievements": "2023-08-31T15:03:49.2633938+00:00",
   "LastUpdate_AppInfo": "2023-08-31T08:57:15.4240947+00:00",
-  "LastUpdate_Ratings": "2023-08-31T13:59:47.1340521+00:00",
-  "LastUpdate_Achievements": "2023-08-31T14:03:08.3952043+00:00"
+  "LastUpdate_Ratings": "2023-08-31T15:01:34.2841526+00:00",
+  "LastUpdate_Achievements": "2023-08-31T15:03:49.2634753+00:00"
 }

@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Such a strange dream… | 88.00% | ~261 |
-| Your first fight | 86.00% | ~255 |
-| Good Person Chip | 85.00% | ~252 |
-| First winning | 82.00% | ~244 |
-| Your first job | 82.00% | ~244 |
+| Such a strange dream… | 88.00% | ~262 |
+| Your first fight | 86.00% | ~256 |
+| Good Person Chip | 85.00% | ~253 |
+| First winning | 83.00% | ~247 |
+| Your first job | 83.00% | ~247 |
 | Old movies enjoyer | 77.00% | ~229 |
-| Fitness professional | 75.00% | ~223 |
-| Depressed visitor | 75.00% | ~223 |
-| Neurotrainer – power gainer! | 74.00% | ~220 |
-| Employee of the week | 74.00% | ~220 |
-| Your own amateur gym | 72.00% | ~214 |
-| First defeat | 72.00% | ~214 |
-| Run K, run! | 70.00% | ~208 |
-| Fighting is cool | 67.00% | ~199 |
-| Hello, world! | 67.00% | ~199 |
-| No bullying more | 66.00% | ~196 |
-| Pal of your father? | 64.00% | ~190 |
-| Employee of the month | 63.00% | ~187 |
-| Spirit of the past | 62.00% | ~184 |
-| Law student | 61.00% | ~181 |
-| Workout professional | 59.00% | ~175 |
-| Champion – starter pack | 58.00% | ~172 |
-| It's good to be alive | 58.00% | ~172 |
-| Own four walls | 58.00% | ~172 |
-| Handyman | 57.00% | ~169 |
-| Employee of the year | 57.00% | ~169 |
-| Fight for life | 56.00% | ~166 |
-| Little hacker | 56.00% | ~166 |
-| Intriguing candies | 56.00% | ~166 |
-| Legal courier | 52.00% | ~154 |
-| Extreme neuropower! | 52.00% | ~154 |
+| Fitness professional | 76.00% | ~226 |
+| Depressed visitor | 76.00% | ~226 |
+| Neurotrainer – power gainer! | 75.00% | ~224 |
+| Employee of the week | 74.00% | ~221 |
+| Your own amateur gym | 72.00% | ~215 |
+| First defeat | 72.00% | ~215 |
+| Run K, run! | 70.00% | ~209 |
+| Hello, world! | 67.00% | ~200 |
+| Fighting is cool | 66.00% | ~197 |
+| No bullying more | 66.00% | ~197 |
+| Pal of your father? | 64.00% | ~191 |
+| Spirit of the past | 62.00% | ~185 |
+| Employee of the month | 62.00% | ~185 |
+| Law student | 60.00% | ~179 |
+| Workout professional | 58.00% | ~173 |
+| Champion – starter pack | 58.00% | ~173 |
+| Handyman | 57.00% | ~170 |
+| It's good to be alive | 57.00% | ~170 |
+| Own four walls | 57.00% | ~170 |
+| Intriguing candies | 57.00% | ~170 |
+| Fight for life | 56.00% | ~167 |
+| Little hacker | 56.00% | ~167 |
+| Employee of the year | 56.00% | ~167 |
+| Legal courier | 52.00% | ~155 |
+| Extreme neuropower! | 52.00% | ~155 |
 | Escaped from a big trouble | 49.00% | ~146 |
 | Now you are worthy | 47.00% | ~140 |
 | Guiding on the right path | 44.00% | ~131 |
@@ -71,8 +71,8 @@
 | Silver’s past | 27.00% | ~80 |
 | The only right decision | 27.00% | ~80 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297 (Ranked 272)  
-Completed: 8 (2.69%) (Ranked 82)  
+Progressed: 298 (Ranked 272)  
+Completed: 8 (2.68%) (Ranked 82)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -118,4 +118,4 @@ Completed: 8 (2.69%) (Ranked 82)
 | 2023-08-28 | 274 | 8 |
 | 2023-08-29 | 283 | 8 |
 | 2023-08-30 | 289 | 8 |
-| 2023-08-31 | 297 | 8 |
+| 2023-08-31 | 298 | 8 |

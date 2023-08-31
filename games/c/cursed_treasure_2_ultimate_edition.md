@@ -29,8 +29,8 @@
 | Combo Breaker | 63.00% | ~105 |
 | Tastes Like Chicken | 63.00% | ~105 |
 | Thunderstorm | 63.00% | ~105 |
+| Brilliant: Holy Mountain | 62.00% | ~103 |
 | Clean Forests | 61.00% | ~101 |
-| Brilliant: Holy Mountain | 61.00% | ~101 |
 | Lieutenant of the Evil | 57.00% | ~95 |
 | Avada Kedavra | 55.00% | ~91 |
 | Starry: Meadowshire | 55.00% | ~91 |

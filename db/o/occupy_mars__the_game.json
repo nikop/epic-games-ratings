@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -232,9 +232,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1561,
+  "EOS_Progressed": 1562,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3442,6 +3442,11 @@
       "Time": "2023-08-31T14:03:58.4474163+00:00",
       "NumProgressed": 1561,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-31T15:05:09.6680432+00:00",
+      "NumProgressed": 1562,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3653,7 +3658,7 @@
       "Name": "Get your hands dirty",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "NEW_ACHIEVEMENT_GOOD_MARTIAN",
@@ -3836,7 +3841,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1561,
+      "Progressed": 1562,
       "Completed": 0
     }
   ],
@@ -3844,8 +3849,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-08-28T18:01:28.2761395+00:00",
-  "LastChanged_Achievements": "2023-08-31T14:03:58.4474157+00:00",
+  "LastChanged_Achievements": "2023-08-31T15:05:09.6680426+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:32.8469898+00:00",
-  "LastUpdate_Ratings": "2023-08-31T14:00:10.6706122+00:00",
-  "LastUpdate_Achievements": "2023-08-31T14:03:58.4474684+00:00"
+  "LastUpdate_Ratings": "2023-08-31T15:02:08.1709631+00:00",
+  "LastUpdate_Achievements": "2023-08-31T15:05:09.6681282+00:00"
 }
