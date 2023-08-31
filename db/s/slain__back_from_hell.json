@@ -217,9 +217,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 35581,
+  "EOS_Progressed": 35585,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 570,
+  "EOS_NewPlayers": 565,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -14897,6 +14897,11 @@
       "Time": "2023-08-31T16:04:02.6984717+00:00",
       "NumProgressed": 35581,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-08-31T17:03:54.7904825+00:00",
+      "NumProgressed": 35585,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 29,
@@ -14908,7 +14913,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 5337
+      "UsersEstimate": 5338
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -14916,7 +14921,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 7116
+      "UsersEstimate": 7117
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -14924,7 +14929,7 @@
       "Name": "Start As You Mean To Go On",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "ACH_05_DEFEATED_THORN_BEAST",
@@ -15139,7 +15144,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 35581,
+      "Progressed": 35585,
       "Completed": 22
     }
   ],
@@ -15147,8 +15152,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-12T21:03:39.1122054+00:00",
-  "LastChanged_Achievements": "2023-08-31T16:04:02.6984711+00:00",
+  "LastChanged_Achievements": "2023-08-31T17:03:54.7904819+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:35.8741643+00:00",
-  "LastUpdate_Ratings": "2023-08-31T15:58:50.4258352+00:00",
-  "LastUpdate_Achievements": "2023-08-31T16:04:02.6985814+00:00"
+  "LastUpdate_Ratings": "2023-08-31T16:58:55.4815524+00:00",
+  "LastUpdate_Achievements": "2023-08-31T17:03:54.7905919+00:00"
 }

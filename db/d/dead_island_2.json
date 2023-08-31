@@ -4110,10 +4110,10 @@
       "Count": 330
     }
   ],
-  "EOS_Progressed": 670104,
+  "EOS_Progressed": 670152,
   "EOS_Completed": 2096,
-  "EOS_NewPlayers": 5931,
-  "EOS_NewCompleters": 40,
+  "EOS_NewPlayers": 5913,
+  "EOS_NewCompleters": 39,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -18935,6 +18935,11 @@
       "Time": "2023-08-31T16:04:27.962678+00:00",
       "NumProgressed": 670104,
       "NumCompleted": 2096
+    },
+    {
+      "Time": "2023-08-31T17:04:21.8033607+00:00",
+      "NumProgressed": 670152,
+      "NumCompleted": 2096
     }
   ],
   "TotalAchievements": 45,
@@ -18944,9 +18949,9 @@
       "ID": "ach_a_day_in_the_beach",
       "SetID": "7km39fm",
       "Name": "Dr. Reed, I Presume?",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 3351
+      "UsersEstimate": 4021
     },
     {
       "ID": "ach_a_taste_of_stardom",
@@ -18970,7 +18975,7 @@
       "Name": "Anger Management",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2680
+      "UsersEstimate": 2681
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -18994,7 +18999,7 @@
       "Name": "Perks of the Job",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2680
+      "UsersEstimate": 2681
     },
     {
       "ID": "ach_bookworm",
@@ -19026,7 +19031,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2680
+      "UsersEstimate": 2681
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -19144,9 +19149,9 @@
       "ID": "ach_knock_down",
       "SetID": "7km39fm",
       "Name": "Apex Predator",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 3351
+      "UsersEstimate": 4021
     },
     {
       "ID": "ach_knowledgeable",
@@ -19162,7 +19167,7 @@
       "Name": "Ooh, Shiny!",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2680
+      "UsersEstimate": 2681
     },
     {
       "ID": "ach_magnum_opus",
@@ -19194,7 +19199,7 @@
       "Name": "I Am the Resurrection",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2680
+      "UsersEstimate": 2681
     },
     {
       "ID": "ach_salvation",
@@ -19258,7 +19263,7 @@
       "Name": "Our True Nature",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 2680
+      "UsersEstimate": 2681
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -19305,7 +19310,7 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 670104,
+      "Progressed": 670152,
       "Completed": 2096
     }
   ],
@@ -19313,8 +19318,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-08-31T13:57:32.1790559+00:00",
-  "LastChanged_Achievements": "2023-08-31T16:04:27.9626775+00:00",
+  "LastChanged_Achievements": "2023-08-31T17:04:21.8033602+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:11.0440218+00:00",
-  "LastUpdate_Ratings": "2023-08-31T15:57:33.4387664+00:00",
-  "LastUpdate_Achievements": "2023-08-31T16:04:27.9628063+00:00"
+  "LastUpdate_Ratings": "2023-08-31T16:57:36.8414283+00:00",
+  "LastUpdate_Achievements": "2023-08-31T17:04:21.8034874+00:00"
 }

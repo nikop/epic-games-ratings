@@ -13,14 +13,14 @@
 | Fitness professional | 77.00% | ~229 |
 | Depressed visitor | 77.00% | ~229 |
 | Neurotrainer – power gainer! | 75.00% | ~224 |
-| Employee of the week | 74.00% | ~221 |
+| Employee of the week | 75.00% | ~224 |
 | Your own amateur gym | 72.00% | ~215 |
 | First defeat | 72.00% | ~215 |
-| Run K, run! | 70.00% | ~209 |
+| Run K, run! | 71.00% | ~212 |
 | Fighting is cool | 67.00% | ~200 |
 | Hello, world! | 67.00% | ~200 |
 | No bullying more | 66.00% | ~197 |
-| Pal of your father? | 64.00% | ~191 |
+| Pal of your father? | 65.00% | ~194 |
 | Employee of the month | 63.00% | ~188 |
 | Spirit of the past | 62.00% | ~185 |
 | Law student | 60.00% | ~179 |
@@ -33,8 +33,8 @@
 | Employee of the year | 57.00% | ~170 |
 | Fight for life | 56.00% | ~167 |
 | Little hacker | 56.00% | ~167 |
+| Extreme neuropower! | 53.00% | ~158 |
 | Legal courier | 52.00% | ~155 |
-| Extreme neuropower! | 52.00% | ~155 |
 | Escaped from a big trouble | 49.00% | ~146 |
 | Now you are worthy | 47.00% | ~140 |
 | Guiding on the right path | 44.00% | ~131 |

@@ -370,9 +370,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 39827,
+  "EOS_Progressed": 39830,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7990,6 +7990,11 @@
       "Time": "2023-08-30T23:06:58.9644497+00:00",
       "NumProgressed": 39827,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-31T17:06:01.0621822+00:00",
+      "NumProgressed": 39830,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -8161,7 +8166,7 @@
       "Name": "No Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1991
+      "UsersEstimate": 1992
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -8217,7 +8222,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1991
+      "UsersEstimate": 1992
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -8337,7 +8342,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3584
+      "UsersEstimate": 3585
     },
     {
       "ID": "SPRING_ALL",
@@ -8424,22 +8429,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 39827,
+      "Progressed": 39830,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 4664,
-      "Completed": 4664
+      "Progressed": 4667,
+      "Completed": 4667
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-08-31T09:57:37.5972424+00:00",
-  "LastChanged_Achievements": "2023-08-31T16:06:08.8867638+00:00",
+  "LastChanged_Achievements": "2023-08-31T17:06:01.0621817+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:18.9582302+00:00",
-  "LastUpdate_Ratings": "2023-08-31T15:57:43.1218749+00:00",
-  "LastUpdate_Achievements": "2023-08-31T16:06:08.8868578+00:00"
+  "LastUpdate_Ratings": "2023-08-31T16:57:46.0795339+00:00",
+  "LastUpdate_Achievements": "2023-08-31T17:06:01.0622737+00:00"
 }

@@ -48,7 +48,7 @@ Rating: 4.60 (Ranked 394)
 | Pruning for Progress | 1.00% | ~51 |
 | Manufactured War | 0.90% | ~46 |
 | Snap Out of It! | 0.70% | ~36 |
-| Betrayal Most Foul | 0.40% | ~21 |
+| Betrayal Most Foul | 0.50% | ~26 |
 | I Want to Break Free | 0.30% | ~15 |
 | Returning Circle | 0.20% | ~10 |
 | I'll Fight You All | 0.20% | ~10 |

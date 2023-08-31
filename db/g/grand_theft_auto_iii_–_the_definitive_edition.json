@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -442,9 +442,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7624,
+  "EOS_Progressed": 7625,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
@@ -7802,6 +7802,11 @@
       "Time": "2023-08-31T10:06:47.6269148+00:00",
       "NumProgressed": 7624,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-08-31T17:08:10.0454361+00:00",
+      "NumProgressed": 7625,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 29,
@@ -7813,7 +7818,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6328
+      "UsersEstimate": 6329
     },
     {
       "ID": "ACH02",
@@ -7837,7 +7842,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 2897
+      "UsersEstimate": 2898
     },
     {
       "ID": "ACH05",
@@ -7941,7 +7946,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1067
+      "UsersEstimate": 1068
     },
     {
       "ID": "ACH18",
@@ -8044,7 +8049,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7624,
+      "Progressed": 7625,
       "Completed": 50
     }
   ],
@@ -8052,8 +8057,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-08-24T22:01:07.1400968+00:00",
-  "LastChanged_Achievements": "2023-08-31T16:08:19.0026514+00:00",
+  "LastChanged_Achievements": "2023-08-31T17:08:10.0454356+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:30.0456476+00:00",
-  "LastUpdate_Ratings": "2023-08-31T15:57:02.3833909+00:00",
-  "LastUpdate_Achievements": "2023-08-31T16:08:19.0027153+00:00"
+  "LastUpdate_Ratings": "2023-08-31T16:57:05.6435363+00:00",
+  "LastUpdate_Achievements": "2023-08-31T17:08:10.0455019+00:00"
 }

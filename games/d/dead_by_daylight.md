@@ -6,45 +6,49 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MU/TH/UR Dearest | 0.80% | ~6,662 |
-| It wakes | 0.70% | ~5,829 |
-| Skillful | 0.60% | ~4,997 |
-| Zealous | 0.50% | ~4,164 |
-| Not half bad | 0.50% | ~4,164 |
-| Make Some Noise | 0.50% | ~4,164 |
-| Terror of LV-426 | 0.50% | ~4,164 |
-| Handyman | 0.40% | ~3,331 |
-| Apt Survivor | 0.40% | ~3,331 |
-| Survival Treasures | 0.40% | ~3,331 |
-| The Grand Sacrifice | 0.30% | ~2,498 |
-| Agonizing Escape | 0.30% | ~2,498 |
-| Backdoor Escape | 0.30% | ~2,498 |
-| I've got your back | 0.30% | ~2,498 |
-| No one left behind | 0.30% | ~2,498 |
-| Medic | 0.30% | ~2,498 |
-| Nerves of steel | 0.30% | ~2,498 |
-| Perfect Escape | 0.30% | ~2,498 |
-| Perfect Killing | 0.30% | ~2,498 |
-| Bloody Millionaire | 0.30% | ~2,498 |
-| I | 0.30% | ~2,498 |
-| Engineer | 0.30% | ~2,498 |
-| Sorted | 0.30% | ~2,498 |
-| Healthy Obsession | 0.30% | ~2,498 |
-| Resurgence | 0.30% | ~2,498 |
-| Preemptive Strike | 0.30% | ~2,498 |
-| Humanitarian | 0.30% | ~2,498 |
+| MU/TH/UR Dearest | 0.80% | ~6,665 |
+| It wakes | 0.70% | ~5,832 |
+| Zealous | 0.60% | ~4,999 |
+| Skillful | 0.60% | ~4,999 |
+| Not half bad | 0.50% | ~4,165 |
+| Apt Survivor | 0.50% | ~4,165 |
+| Make Some Noise | 0.50% | ~4,165 |
+| Terror of LV-426 | 0.50% | ~4,165 |
+| Medic | 0.40% | ~3,332 |
+| Handyman | 0.40% | ~3,332 |
+| Survival Treasures | 0.40% | ~3,332 |
+| I | 0.40% | ~3,332 |
+| Sorted | 0.40% | ~3,332 |
+| The Grand Sacrifice | 0.30% | ~2,499 |
+| Agonizing Escape | 0.30% | ~2,499 |
+| Backdoor Escape | 0.30% | ~2,499 |
+| I've got your back | 0.30% | ~2,499 |
+| No one left behind | 0.30% | ~2,499 |
+| Nerves of steel | 0.30% | ~2,499 |
+| Perfect Escape | 0.30% | ~2,499 |
+| Perfect Killing | 0.30% | ~2,499 |
+| Bloody Millionaire | 0.30% | ~2,499 |
+| Engineer | 0.30% | ~2,499 |
+| Healthy Obsession | 0.30% | ~2,499 |
+| Resurgence | 0.30% | ~2,499 |
+| Preemptive Strike | 0.30% | ~2,499 |
+| Humanitarian | 0.30% | ~2,499 |
+| Blood on your hands | 0.20% | ~1,666 |
 | Apt Killer | 0.20% | ~1,666 |
 | Risk it all | 0.20% | ~1,666 |
 | Vulture | 0.20% | ~1,666 |
 | II | 0.20% | ~1,666 |
 | III | 0.20% | ~1,666 |
+| III-50 | 0.20% | ~1,666 |
 | Wounded Healer | 0.20% | ~1,666 |
+| First to the Punch | 0.20% | ~1,666 |
+| Every Last Drop | 0.20% | ~1,666 |
 | Close Shave | 0.20% | ~1,666 |
 | With Scars to Show | 0.20% | ~1,666 |
+| One More Step | 0.20% | ~1,666 |
 | Second Act | 0.20% | ~1,666 |
 | A bite for the Entity | 0.10% | ~833 |
 | A feast for the Entity | 0.10% | ~833 |
-| Blood on your hands | 0.10% | ~833 |
 | Blood on your face | 0.10% | ~833 |
 | Blood in your mouth | 0.10% | ~833 |
 | Cripple them all | 0.10% | ~833 |
@@ -61,7 +65,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Trapper | 0.10% | ~833 |
 | Adept Wraith | 0.10% | ~833 |
 | Adept Hillbilly | 0.10% | ~833 |
-| III-50 | 0.10% | ~833 |
 | In the void she walks | 0.10% | ~833 |
 | From the void she kills | 0.10% | ~833 |
 | Adept Nurse | 0.10% | ~833 |
@@ -141,7 +144,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Left For Dead | 0.10% | ~833 |
 | Adept Bill | 0.10% | ~833 |
 | Denied! | 0.10% | ~833 |
-| First to the Punch | 0.10% | ~833 |
 | Tools of the Trade | 0.10% | ~833 |
 | Operation: Survival | 0.10% | ~833 |
 | Expert Generalist | 0.10% | ~833 |
@@ -166,7 +168,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Speed Kills | 0.10% | ~833 |
 | I See You | 0.10% | ~833 |
 | Adept Blight | 0.10% | ~833 |
-| Every Last Drop | 0.10% | ~833 |
 | Adept Felix | 0.10% | ~833 |
 | Tag Team | 0.10% | ~833 |
 | End of Days | 0.10% | ~833 |
@@ -228,7 +229,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Complete the Evolution | 0.10% | ~833 |
 | Adept Singularity | 0.10% | ~833 |
 | Extraterrestrial | 0.10% | ~833 |
-| One More Step | 0.10% | ~833 |
 | Adept Gabriel | 0.10% | ~833 |
 | Adept Cage | 0.10% | ~833 |
 | Disarm and Dismember | 0.10% | ~833 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~833 |
 | Adept Ripley | 0.10% | ~833 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 832,769 (Ranked 15)  
+Progressed: 833,090 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -369,7 +369,7 @@ Completed: 48 (0.01%) (Ranked 253)
 | 2023-08-28 | 824,988 | 48 |
 | 2023-08-29 | 828,020 | 48 |
 | 2023-08-30 | 831,117 | 48 |
-| 2023-08-31 | 832,769 | 48 |
+| 2023-08-31 | 833,090 | 48 |
 ## Awards
 Max (Diverse Characters): 31,726  (Ranked 15)  
 Sum: 248,913 (Ranked 11)  

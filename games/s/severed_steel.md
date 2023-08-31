@@ -1,26 +1,26 @@
 # Severed Steel
 [Store](https://store.epicgames.com/en-US/p/severed-steel)  
 [View Rawdata](../../db/s/severed_steel.json)  
-Rating: 4.69 (Ranked 219)  
+Rating: 4.69 (Ranked 218)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 29.00% | ~189,147 |
-| 50 HEADSHOTS | 27.00% | ~176,102 |
-| SCIENCE AND INDUSTRY | 26.00% | ~169,580 |
-| FINISHED CHAPTER 1 | 25.00% | ~163,058 |
-| FINISHED CHAPTER 2 | 18.00% | ~117,402 |
-| 200 HEADSHOTS | 16.00% | ~104,357 |
-| FINISHED CHAPTER 3 | 15.00% | ~97,835 |
-| FINISHED CHAPTER 4 | 13.00% | ~84,790 |
-| FINISH CHAPTER 5 | 11.00% | ~71,745 |
-| FINISH CHAPTER 6 | 9.00% | ~58,701 |
-| CATHARTIC ESCAPISM | 9.00% | ~58,701 |
-| 1000 KILLS | 8.00% | ~52,178 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~26,089 |
+| 100 KILLS | 29.00% | ~189,158 |
+| 50 HEADSHOTS | 27.00% | ~176,112 |
+| SCIENCE AND INDUSTRY | 26.00% | ~169,590 |
+| FINISHED CHAPTER 1 | 25.00% | ~163,067 |
+| FINISHED CHAPTER 2 | 18.00% | ~117,408 |
+| 200 HEADSHOTS | 16.00% | ~104,363 |
+| FINISHED CHAPTER 3 | 15.00% | ~97,840 |
+| FINISHED CHAPTER 4 | 13.00% | ~84,795 |
+| FINISH CHAPTER 5 | 11.00% | ~71,749 |
+| FINISH CHAPTER 6 | 9.00% | ~58,704 |
+| CATHARTIC ESCAPISM | 9.00% | ~58,704 |
+| 1000 KILLS | 8.00% | ~52,181 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~26,091 |
 | FIRST BLOOD | 2.00% | ~13,045 |
-| FIREFIGHT LEVEL 20 | 1.00% | ~6,522 |
-| PACEMAKER | 1.00% | ~6,522 |
+| FIREFIGHT LEVEL 20 | 1.00% | ~6,523 |
+| PACEMAKER | 1.00% | ~6,523 |
 | TIME PARADOX | 0.90% | ~5,870 |
 | FIREFIGHT LEVEL 30 | 0.80% | ~5,218 |
 | OUT OF ORDER | 0.80% | ~5,218 |
@@ -29,10 +29,10 @@ Rating: 4.69 (Ranked 219)
 | CHURCH | 0.40% | ~2,609 |
 | FIREFIGHT LEVEL 40 | 0.40% | ~2,609 |
 | FIREFIGHT LEVEL 50 | 0.30% | ~1,957 |
-| FIREFIGHT LEVEL 60 | 0.20% | ~1,304 |
-| REMEMBER THE ARMORY | 0.20% | ~1,304 |
-| 5 RUNS | 0.20% | ~1,304 |
-| SOUL - HORIZONS | 0.20% | ~1,304 |
+| FIREFIGHT LEVEL 60 | 0.20% | ~1,305 |
+| REMEMBER THE ARMORY | 0.20% | ~1,305 |
+| 5 RUNS | 0.20% | ~1,305 |
+| SOUL - HORIZONS | 0.20% | ~1,305 |
 | HEY THATS CHEATING | 0.10% | ~652 |
 | COMPLIMENTS TO THE CHEF | 0.10% | ~652 |
 | BUT WHY? | 0.10% | ~652 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 219)
 | THE GAMBLER | 0.10% | ~652 |
 | WARRIOR IN A GARDEN | 0.10% | ~652 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 652,231 (Ranked 25)  
+Progressed: 652,268 (Ranked 25)  
 Completed: 56 (0.01%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,14 +191,14 @@ Completed: 56 (0.01%) (Ranked 253)
 | 2023-08-28 | 650,313 | 54 |
 | 2023-08-29 | 651,099 | 55 |
 | 2023-08-30 | 651,781 | 56 |
-| 2023-08-31 | 652,231 | 56 |
+| 2023-08-31 | 652,268 | 56 |
 ## Awards
-Max (Great Boss Battles): 267  (Ranked 249)  
-Sum: 267 (Ranked 353)  
+Max (Great Boss Battles): 268  (Ranked 249)  
+Sum: 268 (Ranked 353)  
 Diff (max vs sum): -104  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 267 |
+| This game has Great Boss Battles | 268 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -274,3 +274,4 @@ Diff (max vs sum): -104
 | 2023-08-25 | 4.69 | 265 | 265 |
 | 2023-08-26 | 4.69 | 266 | 266 |
 | 2023-08-30 | 4.69 | 267 | 267 |
+| 2023-08-31 | 4.69 | 268 | 268 |

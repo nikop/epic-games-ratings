@@ -26,12 +26,12 @@ Number of Ratings: 9,492  (23.09.2022)
 | Rumble in the Hangar | 2.00% | ~14,257 |
 | Take damage to save time | 2.00% | ~14,257 |
 | Bloody Sport | 2.00% | ~443 |
-| Scareless | 1.00% | ~7,128 |
-| Dance of the Praying Mantis | 1.00% | ~7,128 |
-| Qi Gong: Mind | 1.00% | ~7,128 |
-| I know Kung-Fu | 1.00% | ~7,128 |
-| Old Child | 1.00% | ~7,128 |
-| Kung-Fu Tussle | 1.00% | ~7,128 |
+| Scareless | 1.00% | ~7,129 |
+| Dance of the Praying Mantis | 1.00% | ~7,129 |
+| Qi Gong: Mind | 1.00% | ~7,129 |
+| I know Kung-Fu | 1.00% | ~7,129 |
+| Old Child | 1.00% | ~7,129 |
+| Kung-Fu Tussle | 1.00% | ~7,129 |
 | The best strikes are the ones we avoid | 1.00% | ~222 |
 | Muk Yan Master | 0.90% | ~6,416 |
 | Tiger on Fire | 0.80% | ~5,703 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,426 |
 | Warriors from the Mountain | 0.10% | ~713 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,849 (Ranked 20)  
+Progressed: 712,851 (Ranked 20)  
 Completed: 12,878 (1.81%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,14 +190,14 @@ Completed: 12,878 (1.81%) (Ranked 99)
 | 2023-08-28 | 712,797 | 12,876 |
 | 2023-08-29 | 712,811 | 12,876 |
 | 2023-08-30 | 712,826 | 12,877 |
-| 2023-08-31 | 712,849 | 12,878 |
+| 2023-08-31 | 712,851 | 12,878 |
 ## Awards
-Max (Great Boss Battles): 6,415  (Ranked 54)  
-Sum: 11,023 (Ranked 81)  
+Max (Great Boss Battles): 6,418  (Ranked 53)  
+Sum: 11,026 (Ranked 80)  
 Diff (max vs sum): -27  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,415 |
+| This game has Great Boss Battles | 6,418 |
 | This game has Diverse Characters | 577 |
 | This game has Challenging Combat | 545 |
 | This game has Quickly Understood Controls | 538 |
@@ -438,4 +438,4 @@ Diff (max vs sum): -27
 | 2023-08-28 | 4.82 | - | 6,406 | 11,006 |
 | 2023-08-29 | 4.82 | - | 6,410 | 11,013 |
 | 2023-08-30 | 4.82 | - | 6,415 | 11,021 |
-| 2023-08-31 | 4.82 | - | 6,415 | 11,023 |
+| 2023-08-31 | 4.82 | - | 6,418 | 11,026 |

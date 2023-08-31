@@ -129,16 +129,16 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Paganism | 0.60% | ~82 |
 | Kushite Cavalry | 0.60% | ~82 |
 | No Undo | 0.60% | ~82 |
-| Ishtar Gate in Babylon | 0.50% | ~68 |
-| Old | 0.50% | ~68 |
-| Peacemaker | 0.50% | ~68 |
-| Clerics | 0.50% | ~68 |
-| Egypt | 0.50% | ~68 |
-| Rome | 0.50% | ~68 |
-| One True Faith | 0.50% | ~68 |
-| Cataphract Archer | 0.50% | ~68 |
-| Turreted Elephant | 0.50% | ~68 |
-| All Nations | 0.50% | ~68 |
+| Ishtar Gate in Babylon | 0.50% | ~69 |
+| Old | 0.50% | ~69 |
+| Peacemaker | 0.50% | ~69 |
+| Clerics | 0.50% | ~69 |
+| Egypt | 0.50% | ~69 |
+| Rome | 0.50% | ~69 |
+| One True Faith | 0.50% | ~69 |
+| Cataphract Archer | 0.50% | ~69 |
+| Turreted Elephant | 0.50% | ~69 |
+| All Nations | 0.50% | ~69 |
 | Carthage - Ox Hide | 0.40% | ~55 |
 | Noble Difficulty | 0.40% | ~55 |
 | Cao'an | 0.40% | ~55 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,700 (Ranked 120)  
+Progressed: 13,701 (Ranked 120)  
 Completed: 5 (0.04%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -436,7 +436,7 @@ Completed: 5 (0.04%) (Ranked 236)
 | 2023-08-28 | 13,635 | 5 |
 | 2023-08-29 | 13,661 | 5 |
 | 2023-08-30 | 13,689 | 5 |
-| 2023-08-31 | 13,700 | 5 |
+| 2023-08-31 | 13,701 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,800 (Ranked 207)  

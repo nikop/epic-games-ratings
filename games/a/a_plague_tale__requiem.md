@@ -1,7 +1,7 @@
 # A Plague Tale: Requiem
 [Store](https://store.epicgames.com/en-US/p/a-plague-tale-requiem)  
 [View Rawdata](../../db/a/a_plague_tale__requiem.json)  
-Rating: 4.73 (Ranked 163)  
+Rating: 4.73 (Ranked 162)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -176,12 +176,12 @@ Completed: 45 (0.35%) (Ranked 169)
 | 2023-08-30 | 12,895 | 45 |
 | 2023-08-31 | 12,896 | 45 |
 ## Awards
-Max (Great Boss Battles): 412  (Ranked 213)  
-Sum: 630 (Ranked 293)  
-Diff (max vs sum): -80  
+Max (Great Boss Battles): 414  (Ranked 212)  
+Sum: 632 (Ranked 293)  
+Diff (max vs sum): -81  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 412 |
+| This game has Great Boss Battles | 414 |
 | This game is Highly Recommended | 29 |
 | This game has Diverse Characters | 28 |
 | This game is Great for Beginners | 27 |
@@ -241,3 +241,4 @@ Diff (max vs sum): -80
 | 2023-07-25 | 4.73 | 410 | 628 |
 | 2023-08-19 | 4.73 | 411 | 629 |
 | 2023-08-24 | 4.73 | 412 | 630 |
+| 2023-08-31 | 4.73 | 414 | 632 |

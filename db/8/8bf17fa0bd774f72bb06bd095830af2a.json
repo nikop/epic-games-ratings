@@ -351,9 +351,9 @@
       "ID": "SteamAchievment_CompleteQuest09",
       "SetID": "b8gj0ip",
       "Name": "Defeat Yourself",
-      "Percentage": 9,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SteamAchievment_CompleteQuest10",
@@ -454,8 +454,8 @@
   ],
   "FirstSeen": "2023-08-10T10:57:59.2838137+00:00",
   "FirstSeenAchievements": "2023-05-30T14:00:09.5243374+00:00",
-  "LastChanged_Achievements": "2023-08-31T16:06:16.279247+00:00",
+  "LastChanged_Achievements": "2023-08-31T17:06:08.6104829+00:00",
   "LastUpdate_AppInfo": "2023-08-29T18:57:23.3563189+00:00",
-  "LastUpdate_Ratings": "2023-08-31T15:59:44.9654601+00:00",
-  "LastUpdate_Achievements": "2023-08-31T16:06:16.2792742+00:00"
+  "LastUpdate_Ratings": "2023-08-31T16:59:49.3166589+00:00",
+  "LastUpdate_Achievements": "2023-08-31T17:06:08.6105127+00:00"
 }

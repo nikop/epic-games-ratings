@@ -120,9 +120,9 @@
       "ID": "Trophy_02",
       "SetID": "cf5h6dl",
       "Name": "Seven Days of Endless Adventure",
-      "Percentage": 20,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Trophy_03",
@@ -489,8 +489,8 @@
   "FirstSeenRating": "2023-04-14T13:04:33.1915334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:56.3452226+00:00",
   "LastChanged": "2023-04-14T13:04:33.1915334+00:00",
-  "LastChanged_Achievements": "2023-08-31T16:06:08.0731594+00:00",
+  "LastChanged_Achievements": "2023-08-31T17:06:00.3290153+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:07.2208879+00:00",
-  "LastUpdate_Ratings": "2023-08-31T15:58:57.7924364+00:00",
-  "LastUpdate_Achievements": "2023-08-31T16:06:08.0732009+00:00"
+  "LastUpdate_Ratings": "2023-08-31T16:59:02.9275511+00:00",
+  "LastUpdate_Achievements": "2023-08-31T17:06:00.3290579+00:00"
 }

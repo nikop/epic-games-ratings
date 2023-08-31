@@ -13,9 +13,9 @@ Rating: 4.87 (Ranked 25)
 | Thanks for the free chip, Peppermint! | 10.00% | ~400 |
 | You got this, Peppermint? | 9.00% | ~360 |
 | Perfect Parry | 9.00% | ~360 |
+| Alright, that felt AWESOME! | 9.00% | ~360 |
 | I play my own way! | 8.00% | ~320 |
 | Uh, they were broken when I got here | 8.00% | ~320 |
-| Alright, that felt AWESOME! | 8.00% | ~320 |
 | This will cost you big time | 7.00% | ~280 |
 | Z-shielding's got nothing on us! | 7.00% | ~280 |
 | Kissing the sky! | 7.00% | ~280 |

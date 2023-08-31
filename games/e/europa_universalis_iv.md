@@ -1,39 +1,39 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.68 (Ranked 241)  
+Rating: 4.68 (Ranked 240)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~15,342 |
-| That's a Grand Army | 3.00% | ~11,507 |
-| That is mine! | 3.00% | ~11,507 |
-| Victorious! | 3.00% | ~11,507 |
-| Brothers in Arms | 2.00% | ~7,671 |
-| That's a Grand Navy | 2.00% | ~7,671 |
-| Seriously?! | 2.00% | ~7,671 |
-| Cold War | 1.00% | ~3,836 |
-| Defender of the Faith | 1.00% | ~3,836 |
-| For the Glory | 1.00% | ~3,836 |
-| It's all about the money | 1.00% | ~3,836 |
-| True Catholic | 1.00% | ~3,836 |
-| The Princess is in this Castle | 0.90% | ~3,452 |
-| It's all about luck | 0.80% | ~3,068 |
-| Respected | 0.80% | ~3,068 |
-| Truly Divine Ruler | 0.80% | ~3,068 |
-| Blockader | 0.70% | ~2,685 |
-| Double the Love | 0.70% | ~2,685 |
-| Total Control | 0.70% | ~2,685 |
-| Royal Authority | 0.60% | ~2,301 |
+| Until death do us apart | 4.00% | ~15,346 |
+| That's a Grand Army | 3.00% | ~11,510 |
+| That is mine! | 3.00% | ~11,510 |
+| Victorious! | 3.00% | ~11,510 |
+| Brothers in Arms | 2.00% | ~7,673 |
+| That's a Grand Navy | 2.00% | ~7,673 |
+| Seriously?! | 2.00% | ~7,673 |
+| Cold War | 1.00% | ~3,837 |
+| Defender of the Faith | 1.00% | ~3,837 |
+| For the Glory | 1.00% | ~3,837 |
+| It's all about the money | 1.00% | ~3,837 |
+| True Catholic | 1.00% | ~3,837 |
+| The Princess is in this Castle | 0.90% | ~3,453 |
+| It's all about luck | 0.80% | ~3,069 |
+| Respected | 0.80% | ~3,069 |
+| Truly Divine Ruler | 0.80% | ~3,069 |
+| Blockader | 0.70% | ~2,686 |
+| Double the Love | 0.70% | ~2,686 |
+| Total Control | 0.70% | ~2,686 |
+| Royal Authority | 0.60% | ~2,302 |
 | Combined Arms | 0.50% | ~1,918 |
 | My armies are invincible! | 0.50% | ~1,918 |
-| Agressive Expander | 0.40% | ~1,534 |
-| Azur semé de lis or | 0.40% | ~1,534 |
-| City of Cities | 0.40% | ~1,534 |
-| Gentle Persuasion | 0.40% | ~1,534 |
-| Queen of Conquest | 0.40% | ~1,534 |
-| This navy can take it all | 0.40% | ~1,534 |
+| Agressive Expander | 0.40% | ~1,535 |
+| Azur semé de lis or | 0.40% | ~1,535 |
+| City of Cities | 0.40% | ~1,535 |
+| Gentle Persuasion | 0.40% | ~1,535 |
+| Queen of Conquest | 0.40% | ~1,535 |
+| This navy can take it all | 0.40% | ~1,535 |
 | All That's Thine Shall Be Mine | 0.30% | ~1,151 |
 | Bright Spark | 0.30% | ~1,151 |
 | Down Under | 0.30% | ~1,151 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 383,553 (Ranked 41)  
+Progressed: 383,655 (Ranked 41)  
 Completed: 0 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -494,7 +494,7 @@ Completed: 0 (0.00%) (Ranked 266)
 | 2023-08-28 | 378,067 | 0 |
 | 2023-08-29 | 380,378 | 0 |
 | 2023-08-30 | 382,380 | 0 |
-| 2023-08-31 | 383,553 | 0 |
+| 2023-08-31 | 383,655 | 0 |
 ## Awards
 Max (Educational): 5,861  (Ranked 58)  
 Sum: 48,244 (Ranked 26)  

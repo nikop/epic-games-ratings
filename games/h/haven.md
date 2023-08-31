@@ -1,7 +1,7 @@
 # Haven
 [Store](https://store.epicgames.com/en-US/p/haven)  
 [View Rawdata](../../db/h/haven.json)  
-Rating: 4.74 (Ranked 147)  
+Rating: 4.74 (Ranked 146)  
 Number of Ratings: 38  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -37,7 +37,7 @@ Number of Ratings: 38  (23.09.2022)
 | Thar she blows | 2.00% | ~28 |
 | À la carte | 2.00% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,412 (Ranked 186)  
+Progressed: 1,412 (Ranked 187)  
 Completed: 9 (0.64%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |

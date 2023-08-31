@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -6910,10 +6910,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 41826,
       "NumberOfAwardsMax": 22055
+    },
+    {
+      "Time": "2023-08-31T17:00:13.2210619+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 41830,
+      "NumberOfAwardsMax": 22055
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 41826,
+  "NumberOfAwards": 41830,
   "NumberOfAwardsMax": 22055,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6963,7 +6969,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 974
+      "Count": 978
     },
     {
       "Text": "This game is Highly Recommended",
@@ -6990,9 +6996,9 @@
       "Count": 609
     }
   ],
-  "EOS_Progressed": 291143,
+  "EOS_Progressed": 291145,
   "EOS_Completed": 458,
-  "EOS_NewPlayers": 438,
+  "EOS_NewPlayers": 436,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -21295,6 +21301,11 @@
       "Time": "2023-08-31T16:04:13.0319006+00:00",
       "NumProgressed": 291143,
       "NumCompleted": 458
+    },
+    {
+      "Time": "2023-08-31T17:04:05.7255144+00:00",
+      "NumProgressed": 291145,
+      "NumCompleted": 458
     }
   ],
   "TotalAchievements": 45,
@@ -21530,7 +21541,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23291
+      "UsersEstimate": 23292
     },
     {
       "ID": "PFA_36",
@@ -21610,7 +21621,7 @@
       "Name": "The Spell Master",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23291
+      "UsersEstimate": 23292
     },
     {
       "ID": "PFA_45",
@@ -21658,23 +21669,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23291
+      "UsersEstimate": 23292
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 291143,
+      "Progressed": 291145,
       "Completed": 458
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-08-31T14:00:07.4673482+00:00",
-  "LastChanged_Achievements": "2023-08-31T16:04:13.0319002+00:00",
+  "LastChanged": "2023-08-31T17:00:13.2210616+00:00",
+  "LastChanged_Achievements": "2023-08-31T17:04:05.7255136+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:27.4425386+00:00",
-  "LastUpdate_Ratings": "2023-08-31T16:00:09.317934+00:00",
-  "LastUpdate_Achievements": "2023-08-31T16:04:13.0320082+00:00"
+  "LastUpdate_Ratings": "2023-08-31T17:00:13.2210627+00:00",
+  "LastUpdate_Achievements": "2023-08-31T17:04:05.725642+00:00"
 }

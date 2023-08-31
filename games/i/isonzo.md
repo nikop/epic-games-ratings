@@ -181,12 +181,12 @@ Completed: 8 (0.12%) (Ranked 206)
 | 2023-08-30 | 6,702 | 8 |
 | 2023-08-31 | 6,703 | 8 |
 ## Awards
-Max (Highly Recommended): 35  (Ranked 439)  
-Sum: 269 (Ranked 352)  
-Diff (max vs sum): 87  
+Max (Highly Recommended): 36  (Ranked 433)  
+Sum: 270 (Ranked 350)  
+Diff (max vs sum): 83  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 35 |
+| This game is Highly Recommended | 36 |
 | This game is Extremely Fun | 33 |
 | This game has Realistic Visuals | 32 |
 | This game has Amazing Characters | 31 |
@@ -303,3 +303,4 @@ Diff (max vs sum): 87
 | 2023-08-10 | 4.55 | - | 35 | 266 |
 | 2023-08-26 | 4.56 | - | 35 | 268 |
 | 2023-08-30 | 4.56 | - | 35 | 269 |
+| 2023-08-31 | 4.56 | - | 36 | 270 |

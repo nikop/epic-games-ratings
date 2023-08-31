@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Cabbage in the Baggage | 31.00% | ~11 |
 | Greengrocer | 29.00% | ~10 |
-| Seven Days of Endless Adventure | 20.00% | ~7 |
+| Seven Days of Endless Adventure | 23.00% | ~8 |
 | Masu-ter Angler | 17.00% | ~6 |
 | Just Hoverin' Along | 14.00% | ~5 |
 | Go-Getter | 14.00% | ~5 |

@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7122,
+  "EOS_Progressed": 7123,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -4019,6 +4019,11 @@
       "Time": "2023-08-31T10:05:29.9962763+00:00",
       "NumProgressed": 7122,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-08-31T17:05:45.37245+00:00",
+      "NumProgressed": 7123,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 27,
@@ -4086,7 +4091,7 @@
       "Name": "Irons Scorched",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1780
+      "UsersEstimate": 1781
     },
     {
       "ID": "AK_ISLANDS_RECONNECTED",
@@ -4094,7 +4099,7 @@
       "Name": "Islands Connected",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1780
+      "UsersEstimate": 1781
     },
     {
       "ID": "AK_KNOWLEDGE_SEEKER",
@@ -4110,7 +4115,7 @@
       "Name": "Knowledge Shared",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 1424
+      "UsersEstimate": 1425
     },
     {
       "ID": "AK_LEARNED_SCHOLAR",
@@ -4158,7 +4163,7 @@
       "Name": "Relic Finder",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1424
+      "UsersEstimate": 1425
     },
     {
       "ID": "AK_SEEKERS_FOUND",
@@ -4182,7 +4187,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3988
+      "UsersEstimate": 3989
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -4198,7 +4203,7 @@
       "Name": "It Takes a Village",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 2421
+      "UsersEstimate": 2422
     },
     {
       "ID": "AK_TRAVELERS_RETURNED",
@@ -4222,7 +4227,7 @@
       "Name": "A Wanderer\u2019s Guide",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "AK_WIND_POWERED",
@@ -4245,15 +4250,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7122,
+      "Progressed": 7123,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-08-27T09:59:24.0528306+00:00",
-  "LastChanged_Achievements": "2023-08-31T16:05:53.204563+00:00",
+  "LastChanged_Achievements": "2023-08-31T17:05:45.3724496+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:32.8394394+00:00",
-  "LastUpdate_Ratings": "2023-08-31T16:00:13.3879318+00:00",
-  "LastUpdate_Achievements": "2023-08-31T16:05:53.2046041+00:00"
+  "LastUpdate_Ratings": "2023-08-31T17:00:17.0338714+00:00",
+  "LastUpdate_Achievements": "2023-08-31T17:05:45.3725108+00:00"
 }

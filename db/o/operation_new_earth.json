@@ -3,7 +3,7 @@
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 194,
-  "Ranking_EOS_Completed": 218,
+  "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1176,
+  "EOS_Progressed": 1177,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.09,
+  "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
     {
       "Time": "2023-06-13T13:09:17.0111651+00:00",
@@ -4146,6 +4146,11 @@
       "Time": "2023-08-31T16:05:07.2477568+00:00",
       "NumProgressed": 1176,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-31T17:05:00.3123796+00:00",
+      "NumProgressed": 1177,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4269,7 +4274,7 @@
       "Name": "Corporal",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -4435,9 +4440,9 @@
       "ID": "objective_research_unlock_heavy_infantry_tier_4",
       "SetID": "bm61c2p",
       "Name": "Shock Troops",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "objective_research_unlock_light_infantry_tier_4",
@@ -4460,14 +4465,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1176,
+      "Progressed": 1177,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-31T16:05:07.2477562+00:00",
+  "LastChanged_Achievements": "2023-08-31T17:05:00.3123791+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:58:05.1002416+00:00",
-  "LastUpdate_Ratings": "2023-08-31T15:59:19.7946366+00:00",
-  "LastUpdate_Achievements": "2023-08-31T16:05:07.2478096+00:00"
+  "LastUpdate_Ratings": "2023-08-31T16:59:25.3933117+00:00",
+  "LastUpdate_Achievements": "2023-08-31T17:05:00.3124327+00:00"
 }

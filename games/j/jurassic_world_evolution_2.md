@@ -1,18 +1,18 @@
 # Jurassic World Evolution 2
 [Store](https://store.epicgames.com/en-US/p/jurassic-world-evolution-2)  
 [View Rawdata](../../db/j/jurassic_world_evolution_2.json)  
-Rating: 4.74 (Ranked 147)  
+Rating: 4.74 (Ranked 146)  
 Number of Ratings: 3,746  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 674  (Ranked 173)  
-Sum: 6,028 (Ranked 122)  
+Sum: 6,030 (Ranked 122)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 674 |
 | This game has Amazing Storytelling | 639 |
 | This game is Extremely Fun | 615 |
-| This game has Diverse Characters | 608 |
+| This game has Diverse Characters | 610 |
 | This game is Highly Recommended | 604 |
 | This game is Relaxing | 600 |
 | This game has Amazing Characters | 594 |
@@ -251,3 +251,4 @@ Diff (max vs sum): 51
 | 2023-08-28 | 4.74 | - | 671 | 6,018 |
 | 2023-08-29 | 4.74 | - | 671 | 6,022 |
 | 2023-08-30 | 4.74 | - | 674 | 6,028 |
+| 2023-08-31 | 4.74 | - | 674 | 6,030 |
