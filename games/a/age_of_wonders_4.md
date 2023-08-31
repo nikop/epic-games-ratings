@@ -9,11 +9,11 @@ Rating: 4.60 (Ranked 394)
 | Realm Estate | 6.00% | ~309 |
 | A Wonderful Discovery | 6.00% | ~309 |
 | Walls Cannot Stop Us | 6.00% | ~309 |
+| From Friends to Family | 6.00% | ~309 |
 | Tipping the Scales | 6.00% | ~309 |
 | There Can Only Be One! | 5.00% | ~257 |
 | Full Ascension | 5.00% | ~257 |
 | Bone Peddler | 5.00% | ~257 |
-| From Friends to Family | 5.00% | ~257 |
 | Stronger Together | 5.00% | ~257 |
 | Magical Synergy | 5.00% | ~257 |
 | My Final Form | 5.00% | ~257 |

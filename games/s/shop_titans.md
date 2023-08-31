@@ -6,9 +6,9 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 2.00% | ~2,708 |
-| Basic in Bulk | 2.00% | ~2,708 |
-| Titan's First Steps | 2.00% | ~2,708 |
+| Sponsored by Argon | 2.00% | ~2,709 |
+| Basic in Bulk | 2.00% | ~2,709 |
+| Titan's First Steps | 2.00% | ~2,709 |
 | Disintermediation | 1.00% | ~1,354 |
 | It's Free Real Estate | 1.00% | ~1,354 |
 | Tinkle of Coins | 1.00% | ~1,354 |
@@ -22,12 +22,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | The Daily Grind | 0.70% | ~948 |
 | Bounty Hunters | 0.70% | ~948 |
 | One-Armed Bandit | 0.70% | ~948 |
+| Dungeon Imports | 0.70% | ~948 |
 | Through Repetition, Perfection | 0.70% | ~948 |
 | Demand for Supplies | 0.60% | ~813 |
 | Flooding the Market | 0.60% | ~813 |
 | Where it Hurts | 0.60% | ~813 |
 | Gild-Gotten Goods | 0.60% | ~813 |
-| Dungeon Imports | 0.60% | ~813 |
 | On the Path to Greatness | 0.50% | ~677 |
 | Ascended | 0.50% | ~677 |
 | Vanity, Verily | 0.50% | ~677 |
@@ -38,6 +38,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Accomplished Merchant | 0.50% | ~677 |
 | Did we pack lunch? | 0.50% | ~677 |
 | Arcane Industries | 0.50% | ~677 |
+| A Notch Above the Rest | 0.40% | ~542 |
 | Tax not Included | 0.40% | ~542 |
 | Research & Development | 0.40% | ~542 |
 | Big Game Hunting | 0.40% | ~542 |
@@ -53,10 +54,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | Royal Ransom | 0.40% | ~542 |
 | Natural 20 | 0.40% | ~542 |
 | Seasoned Journeyman | 0.40% | ~542 |
+| Black Friday Special | 0.40% | ~542 |
 | Magical Harmony | 0.40% | ~542 |
 | Special Ingredient | 0.40% | ~542 |
 | Complete Monopoly | 0.40% | ~542 |
-| A Notch Above the Rest | 0.30% | ~406 |
 | Cream of the Crop | 0.30% | ~406 |
 | Top of the World | 0.30% | ~406 |
 | Proud Paladin | 0.30% | ~406 |
@@ -93,18 +94,17 @@ Number of Ratings: 12,664  (23.09.2022)
 | Glittering Collection | 0.30% | ~406 |
 | Treasure Trove | 0.30% | ~406 |
 | Moment of Respite | 0.30% | ~406 |
-| Black Friday Special | 0.30% | ~406 |
 | King's Shadow | 0.30% | ~406 |
 | Master Recycler | 0.30% | ~406 |
 | Exotic Commodities | 0.30% | ~406 |
 | Economy of Scarce | 0.30% | ~406 |
+| King's Blade | 0.30% | ~406 |
 | The Free Encyclopedia | 0.20% | ~271 |
 | Thank You Tom Nook | 0.20% | ~271 |
 | A Legend is Born | 0.20% | ~271 |
 | Jackpot! | 0.20% | ~271 |
 | Eternal Crusade | 0.20% | ~271 |
 | All Accounted For | 0.20% | ~271 |
-| King's Blade | 0.20% | ~271 |
 | Bane of Legends | 0.10% | ~135 |
 | Ultimate Collector | 0.10% | ~135 |
 | Oligarch Monarch | 0.10% | ~135 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~135 |
 | Cash Only Please | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,425 (Ranked 67)  
+Progressed: 135,427 (Ranked 67)  
 Completed: 140 (0.10%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 140 (0.10%) (Ranked 214)
 | 2023-08-28 | 135,299 | 138 |
 | 2023-08-29 | 135,350 | 138 |
 | 2023-08-30 | 135,399 | 138 |
-| 2023-08-31 | 135,425 | 140 |
+| 2023-08-31 | 135,427 | 140 |
 ## Awards
 Max (Great for Beginners): 4,718  (Ranked 70)  
 Sum: 27,159 (Ranked 46)  

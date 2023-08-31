@@ -4,7 +4,7 @@
   "ProductSlug": "project-vesperi-c8d013",
   "Ranking_EOS_Progress": 568,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewPlayers": 343,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-25T02:12:15.9114675+00:00",
-  "LastUpdate_Ratings": "2023-08-31T13:05:07.9452402+00:00",
-  "LastUpdate_Achievements": "2023-08-31T13:11:28.0876532+00:00"
+  "LastUpdate_Ratings": "2023-08-31T13:59:15.0050283+00:00",
+  "LastUpdate_Achievements": "2023-08-31T14:05:19.8943738+00:00"
 }

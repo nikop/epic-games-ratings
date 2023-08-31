@@ -374,9 +374,9 @@
       "ID": "CgkInO_K3eIdEAIQCw",
       "SetID": "6bj96in",
       "Name": "MASTER CRAFTSMAN",
-      "Percentage": 55,
+      "Percentage": 57,
       "XP": 40,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "CgkInO_K3eIdEAIQDA",
@@ -509,8 +509,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-08-31T13:13:18.3150088+00:00",
+  "LastChanged_Achievements": "2023-08-31T14:06:39.3702677+00:00",
   "LastUpdate_AppInfo": "2023-08-30T18:57:07.0572196+00:00",
-  "LastUpdate_Ratings": "2023-08-31T13:05:37.7377392+00:00",
-  "LastUpdate_Achievements": "2023-08-31T13:13:18.3150413+00:00"
+  "LastUpdate_Ratings": "2023-08-31T13:59:35.2845245+00:00",
+  "LastUpdate_Achievements": "2023-08-31T14:06:39.3702857+00:00"
 }

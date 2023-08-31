@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewPlayers": 77,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 62036,
+  "EOS_Progressed": 62038,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 563,
+  "EOS_NewPlayers": 558,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -13007,6 +13007,11 @@
       "Time": "2023-08-31T13:07:33.8299909+00:00",
       "NumProgressed": 62036,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-08-31T14:02:18.813457+00:00",
+      "NumProgressed": 62038,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -13034,7 +13039,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 14268
+      "UsersEstimate": 14269
     },
     {
       "ID": "04",
@@ -13042,7 +13047,7 @@
       "Name": "Boob Tube",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2481
+      "UsersEstimate": 2482
     },
     {
       "ID": "05",
@@ -13066,7 +13071,7 @@
       "Name": "Heavy Metal",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7444
+      "UsersEstimate": 7445
     },
     {
       "ID": "08",
@@ -13074,7 +13079,7 @@
       "Name": "Iron Horse",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7444
+      "UsersEstimate": 7445
     },
     {
       "ID": "09",
@@ -13106,7 +13111,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7444
+      "UsersEstimate": 7445
     },
     {
       "ID": "13",
@@ -13170,7 +13175,7 @@
       "Name": "If It Flies, It Burns",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2481
+      "UsersEstimate": 2482
     },
     {
       "ID": "21",
@@ -13234,7 +13239,7 @@
       "Name": "Come One, Come All",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7444
+      "UsersEstimate": 7445
     },
     {
       "ID": "29",
@@ -13290,7 +13295,7 @@
       "Name": "Let There Be Light",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 19231
+      "UsersEstimate": 19232
     },
     {
       "ID": "36",
@@ -13378,7 +13383,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 9305
+      "UsersEstimate": 9306
     },
     {
       "ID": "47",
@@ -13394,7 +13399,7 @@
       "Name": "KBF-FM",
       "Percentage": 4,
       "XP": 110,
-      "UsersEstimate": 2481
+      "UsersEstimate": 2482
     },
     {
       "ID": "49",
@@ -13553,21 +13558,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 62036,
+      "Progressed": 62038,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 25504,
+      "Progressed": 25506,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-31T13:07:33.8299902+00:00",
+  "LastChanged_Achievements": "2023-08-31T14:02:18.813456+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:21.2068954+00:00",
-  "LastUpdate_Ratings": "2023-08-31T13:06:42.6594115+00:00",
-  "LastUpdate_Achievements": "2023-08-31T13:07:33.8301498+00:00"
+  "LastUpdate_Ratings": "2023-08-31T14:00:19.9477834+00:00",
+  "LastUpdate_Achievements": "2023-08-31T14:02:18.8136008+00:00"
 }

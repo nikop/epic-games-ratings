@@ -5,7 +5,7 @@
   "Ranking_Rating": 42,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
-  "Ranking_EOS_Progress": 224,
+  "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_NewCompleters": 103,
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 597,
+  "EOS_Progressed": 598,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 582,
+  "EOS_NewPlayers": 583,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -753,6 +753,11 @@
       "Time": "2023-08-31T13:11:48.8711057+00:00",
       "NumProgressed": 597,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-31T14:05:35.1644374+00:00",
+      "NumProgressed": 598,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -773,7 +778,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "AC02",
@@ -781,7 +786,7 @@
       "Name": "Blood and Dust",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "AC03",
@@ -789,7 +794,7 @@
       "Name": "Blood and Gold",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "AC04",
@@ -797,15 +802,15 @@
       "Name": "Blood and Iron",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "AC05",
       "SetID": "l4abp0",
       "Name": "The Sharpest Tool in the Shed",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 310
+      "UsersEstimate": 317
     },
     {
       "ID": "AC06",
@@ -845,7 +850,7 @@
       "Name": "The Wait is Over",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "AC11",
@@ -853,7 +858,7 @@
       "Name": "A Heart of Gold",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "AC12",
@@ -939,9 +944,9 @@
       "ID": "AC22",
       "SetID": "l4abp0",
       "Name": "Empty Handed",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 137
+      "UsersEstimate": 144
     },
     {
       "ID": "AC23",
@@ -949,7 +954,7 @@
       "Name": "Hide and Seek",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "AC24",
@@ -965,7 +970,7 @@
       "Name": "House of Grief and Hatred",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "AC26",
@@ -973,7 +978,7 @@
       "Name": "A Leap of Faith",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "AC27",
@@ -997,7 +1002,7 @@
       "Name": "The Veteran One",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "AC30",
@@ -1021,7 +1026,7 @@
       "Name": "Nobody Expects the Spanish Inquisition!",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "AC33",
@@ -1059,9 +1064,9 @@
       "ID": "AC37",
       "SetID": "l4abp0",
       "Name": "Storm of Death",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 78
     },
     {
       "ID": "AC38",
@@ -1069,7 +1074,7 @@
       "Name": "Edge of Orison",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "AC39",
@@ -1132,7 +1137,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 597,
+      "Progressed": 598,
       "Completed": 0
     }
   ],
@@ -1140,8 +1145,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-08-31T05:00:39.0192378+00:00",
-  "LastChanged_Achievements": "2023-08-31T13:11:48.8711052+00:00",
+  "LastChanged_Achievements": "2023-08-31T14:05:35.1644367+00:00",
   "LastUpdate_AppInfo": "2023-08-29T18:57:21.35462+00:00",
-  "LastUpdate_Ratings": "2023-08-31T13:05:21.2849795+00:00",
-  "LastUpdate_Achievements": "2023-08-31T13:11:48.8711794+00:00"
+  "LastUpdate_Ratings": "2023-08-31T13:59:23.7907269+00:00",
+  "LastUpdate_Achievements": "2023-08-31T14:05:35.1644802+00:00"
 }

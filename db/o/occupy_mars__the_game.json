@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -232,9 +232,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1560,
+  "EOS_Progressed": 1561,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3437,6 +3437,11 @@
       "Time": "2023-08-31T12:03:54.1953856+00:00",
       "NumProgressed": 1560,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-31T14:03:58.4474163+00:00",
+      "NumProgressed": 1561,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3528,7 +3533,7 @@
       "Name": "Zero Waste",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -3568,7 +3573,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -3640,7 +3645,7 @@
       "Name": "Gardener",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -3696,7 +3701,7 @@
       "Name": "Miner",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -3808,7 +3813,7 @@
       "Name": "Bob The Builder",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -3831,7 +3836,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1560,
+      "Progressed": 1561,
       "Completed": 0
     }
   ],
@@ -3839,8 +3844,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-08-28T18:01:28.2761395+00:00",
-  "LastChanged_Achievements": "2023-08-31T13:09:34.85097+00:00",
+  "LastChanged_Achievements": "2023-08-31T14:03:58.4474157+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:32.8469898+00:00",
-  "LastUpdate_Ratings": "2023-08-31T13:06:28.850332+00:00",
-  "LastUpdate_Achievements": "2023-08-31T13:09:34.851077+00:00"
+  "LastUpdate_Ratings": "2023-08-31T14:00:10.6706122+00:00",
+  "LastUpdate_Achievements": "2023-08-31T14:03:58.4474684+00:00"
 }
