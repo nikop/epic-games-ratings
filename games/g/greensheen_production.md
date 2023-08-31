@@ -6,6 +6,7 @@
 | What's in the box?! | 50.00% | ~2 |
 | Bully of Bullies | 25.00% | ~1 |
 | Foraged | 25.00% | ~1 |
+| Merciful feat | 25.00% | ~1 |
 | Referee! | 25.00% | ~1 |
 | Fair Prey | 25.00% | ~1 |
 | Fly Free | 25.00% | ~1 |
@@ -16,7 +17,6 @@
 | Hospitalised | 0.00% | ~0 |
 | Paled | 0.00% | ~0 |
 | Schooled | 0.00% | ~0 |
-| Merciful feat | 0.00% | ~0 |
 | Hunger | 0.00% | ~0 |
 | Far Ahead | 0.00% | ~0 |
 | No More Remains | 0.00% | ~0 |

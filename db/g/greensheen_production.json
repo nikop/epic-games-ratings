@@ -3,7 +3,7 @@
   "Name": "greensheen Production",
   "Ranking_EOS_Progress": 484,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewPlayers": 274,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": null,
@@ -113,9 +113,9 @@
       "ID": "Detention",
       "SetID": "aph8hbk",
       "Name": "Merciful feat",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "EmptyVendingMachine",
@@ -335,8 +335,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-31T13:15:39.9572089+00:00",
-  "LastChanged_Achievements": "2023-08-31T10:06:29.3094775+00:00",
+  "LastChanged_Achievements": "2023-08-31T11:07:32.5155725+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:13.194983+00:00",
-  "LastUpdate_Ratings": "2023-08-31T09:57:08.452617+00:00",
-  "LastUpdate_Achievements": "2023-08-31T10:06:29.3094986+00:00"
+  "LastUpdate_Ratings": "2023-08-31T10:57:09.7949098+00:00",
+  "LastUpdate_Achievements": "2023-08-31T11:07:32.5156045+00:00"
 }

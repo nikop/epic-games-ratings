@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Welcome to Seven Doors | 175.00% | ~7 |
-| Kill the Dead Man | 125.00% | ~5 |
+| Kill the Dead Man | 150.00% | ~6 |
 | No Fear of the Dark | 50.00% | ~2 |
 | A Cautious Man Is Worth Two of His Kind | 50.00% | ~2 |
 | Diogenes Syndrome | 50.00% | ~2 |

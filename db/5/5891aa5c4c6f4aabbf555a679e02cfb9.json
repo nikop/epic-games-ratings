@@ -4,7 +4,7 @@
   "ProductSlug": "the-evil-within-2",
   "Ranking_EOS_Progress": 371,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -411,17 +411,17 @@
       "ID": "ACHIEVEMENT_14",
       "SetID": "b36c5kb",
       "Name": "Overcome the Past",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_15",
       "SetID": "b36c5kb",
       "Name": "Everything Comes Crumbling Down",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -722,8 +722,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-08-31T10:05:52.9853395+00:00",
+  "LastChanged_Achievements": "2023-08-31T11:06:48.3524945+00:00",
   "LastUpdate_AppInfo": "2023-08-30T18:57:06.6900715+00:00",
-  "LastUpdate_Ratings": "2023-08-31T09:59:15.8740574+00:00",
-  "LastUpdate_Achievements": "2023-08-31T10:05:52.9853767+00:00"
+  "LastUpdate_Ratings": "2023-08-31T10:59:50.7707281+00:00",
+  "LastUpdate_Achievements": "2023-08-31T11:06:48.3525584+00:00"
 }

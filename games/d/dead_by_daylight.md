@@ -6,20 +6,20 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MU/TH/UR Dearest | 0.70% | ~5,824 |
-| It wakes | 0.60% | ~4,992 |
-| Zealous | 0.50% | ~4,160 |
-| Skillful | 0.50% | ~4,160 |
-| Not half bad | 0.40% | ~3,328 |
-| Apt Survivor | 0.40% | ~3,328 |
-| Survival Treasures | 0.40% | ~3,328 |
-| Make Some Noise | 0.40% | ~3,328 |
-| Terror of LV-426 | 0.40% | ~3,328 |
+| MU/TH/UR Dearest | 0.70% | ~5,825 |
+| It wakes | 0.60% | ~4,993 |
+| Zealous | 0.50% | ~4,161 |
+| Skillful | 0.50% | ~4,161 |
+| Make Some Noise | 0.50% | ~4,161 |
+| Handyman | 0.40% | ~3,329 |
+| Not half bad | 0.40% | ~3,329 |
+| Apt Survivor | 0.40% | ~3,329 |
+| Survival Treasures | 0.40% | ~3,329 |
+| Terror of LV-426 | 0.40% | ~3,329 |
 | The Grand Sacrifice | 0.30% | ~2,496 |
 | Backdoor Escape | 0.30% | ~2,496 |
 | No one left behind | 0.30% | ~2,496 |
 | Medic | 0.30% | ~2,496 |
-| Handyman | 0.30% | ~2,496 |
 | Nerves of steel | 0.30% | ~2,496 |
 | Perfect Escape | 0.30% | ~2,496 |
 | Bloody Millionaire | 0.30% | ~2,496 |
@@ -27,6 +27,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Sorted | 0.30% | ~2,496 |
 | Healthy Obsession | 0.30% | ~2,496 |
 | Resurgence | 0.30% | ~2,496 |
+| Preemptive Strike | 0.30% | ~2,496 |
 | Agonizing Escape | 0.20% | ~1,664 |
 | I've got your back | 0.20% | ~1,664 |
 | Perfect Killing | 0.20% | ~1,664 |
@@ -38,7 +39,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Engineer | 0.20% | ~1,664 |
 | Wounded Healer | 0.20% | ~1,664 |
 | Close Shave | 0.20% | ~1,664 |
-| Preemptive Strike | 0.20% | ~1,664 |
 | Humanitarian | 0.20% | ~1,664 |
 | Second Act | 0.20% | ~1,664 |
 | A bite for the Entity | 0.10% | ~832 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~832 |
 | Adept Ripley | 0.10% | ~832 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 832,045 (Ranked 15)  
+Progressed: 832,152 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -369,7 +369,7 @@ Completed: 48 (0.01%) (Ranked 253)
 | 2023-08-28 | 824,988 | 48 |
 | 2023-08-29 | 828,020 | 48 |
 | 2023-08-30 | 831,117 | 48 |
-| 2023-08-31 | 832,045 | 48 |
+| 2023-08-31 | 832,152 | 48 |
 ## Awards
 Max (Diverse Characters): 31,726  (Ranked 15)  
 Sum: 248,735 (Ranked 11)  

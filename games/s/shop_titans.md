@@ -23,11 +23,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | Bounty Hunters | 0.70% | ~948 |
 | One-Armed Bandit | 0.70% | ~948 |
 | Through Repetition, Perfection | 0.70% | ~948 |
-| Demand for Supplies | 0.60% | ~812 |
-| Flooding the Market | 0.60% | ~812 |
-| Where it Hurts | 0.60% | ~812 |
-| Gild-Gotten Goods | 0.60% | ~812 |
-| Dungeon Imports | 0.60% | ~812 |
+| Demand for Supplies | 0.60% | ~813 |
+| Flooding the Market | 0.60% | ~813 |
+| Where it Hurts | 0.60% | ~813 |
+| Gild-Gotten Goods | 0.60% | ~813 |
+| Dungeon Imports | 0.60% | ~813 |
 | On the Path to Greatness | 0.50% | ~677 |
 | Ascended | 0.50% | ~677 |
 | Vanity, Verily | 0.50% | ~677 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~135 |
 | Cash Only Please | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,415 (Ranked 67)  
+Progressed: 135,417 (Ranked 67)  
 Completed: 140 (0.10%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 140 (0.10%) (Ranked 214)
 | 2023-08-28 | 135,299 | 138 |
 | 2023-08-29 | 135,350 | 138 |
 | 2023-08-30 | 135,399 | 138 |
-| 2023-08-31 | 135,415 | 140 |
+| 2023-08-31 | 135,417 | 140 |
 ## Awards
 Max (Great for Beginners): 4,718  (Ranked 70)  
 Sum: 27,159 (Ranked 46)  

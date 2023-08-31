@@ -141,9 +141,9 @@
       "ID": "ACQUAINTANCE_EARL",
       "SetID": "aniflfk",
       "Name": "Holy Macaroni!",
-      "Percentage": 60,
+      "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -221,9 +221,9 @@
       "ID": "LUNCH_LEECH",
       "SetID": "aniflfk",
       "Name": "Leech Lunch",
-      "Percentage": 20,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
@@ -285,9 +285,9 @@
       "ID": "TAKE_LEECH",
       "SetID": "aniflfk",
       "Name": "Uppies!",
-      "Percentage": 33,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -308,8 +308,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-08-31T10:05:48.2428231+00:00",
+  "LastChanged_Achievements": "2023-08-31T11:06:42.6985955+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:06.6191746+00:00",
-  "LastUpdate_Ratings": "2023-08-31T09:59:47.1890604+00:00",
-  "LastUpdate_Achievements": "2023-08-31T10:05:48.2428411+00:00"
+  "LastUpdate_Ratings": "2023-08-31T11:00:31.5864907+00:00",
+  "LastUpdate_Achievements": "2023-08-31T11:06:42.6986148+00:00"
 }

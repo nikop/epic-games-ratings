@@ -6,27 +6,27 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~38,975 |
-| First Steps | 80.00% | ~33,527 |
-| Control the Shadows | 67.00% | ~28,079 |
+| Awakening | 93.00% | ~38,976 |
+| First Steps | 80.00% | ~33,528 |
+| Control the Shadows | 67.00% | ~28,080 |
 | Tools of the Trade | 63.00% | ~26,403 |
-| Apprentice | 60.00% | ~25,145 |
-| Secret Seeker | 57.00% | ~23,888 |
-| Forge of Assassins | 55.00% | ~23,050 |
+| Apprentice | 60.00% | ~25,146 |
+| Secret Seeker | 57.00% | ~23,889 |
+| Forge of Assassins | 55.00% | ~23,051 |
 | Revenant | 52.00% | ~21,793 |
-| I don’t Care! | 45.00% | ~18,859 |
-| Bird of Prey | 37.00% | ~15,506 |
+| I don’t Care! | 45.00% | ~18,860 |
+| Bird of Prey | 37.00% | ~15,507 |
 | Engraved with Power | 32.00% | ~13,411 |
 | Lady | 31.00% | ~12,992 |
-| Fashionable Assassin | 27.00% | ~11,315 |
+| Fashionable Assassin | 27.00% | ~11,316 |
 | Apex Predator | 24.00% | ~10,058 |
 | Soul Reaver | 22.00% | ~9,220 |
 | Embers | 21.00% | ~8,801 |
 | Wall Lizard | 20.00% | ~8,382 |
 | Clinging to Life | 18.00% | ~7,544 |
 | Burning | 17.00% | ~7,125 |
-| Look Behind You | 16.00% | ~6,705 |
-| Sleeping on the Job | 16.00% | ~6,705 |
+| Look Behind You | 16.00% | ~6,706 |
+| Sleeping on the Job | 16.00% | ~6,706 |
 | Family | 14.00% | ~5,867 |
 | War Engines | 14.00% | ~5,867 |
 | Signature Move | 14.00% | ~5,867 |
@@ -39,9 +39,9 @@ Number of Ratings: 88  (23.09.2022)
 | Denouement | 8.00% | ~3,353 |
 | A Pleasant Stay | 8.00% | ~3,353 |
 | Pilgrimage | 7.00% | ~2,934 |
-| The Lookout | 5.00% | ~2,095 |
-| The Spirit of Vengeance | 5.00% | ~2,095 |
-| Hollow | 5.00% | ~2,095 |
+| The Lookout | 5.00% | ~2,096 |
+| The Spirit of Vengeance | 5.00% | ~2,096 |
+| Hollow | 5.00% | ~2,096 |
 | Left Behind | 4.00% | ~1,676 |
 | Secrets of the Earth | 4.00% | ~1,676 |
 | Heart of Fire | 4.00% | ~1,676 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Hot Potato | 1.00% | ~419 |
 | Anger Management | 1.00% | ~419 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,909 (Ranked 94)  
+Progressed: 41,910 (Ranked 94)  
 Completed: 215 (0.51%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 215 (0.51%) (Ranked 149)
 | 2023-08-28 | 41,749 | 215 |
 | 2023-08-29 | 41,818 | 215 |
 | 2023-08-30 | 41,887 | 215 |
-| 2023-08-31 | 41,909 | 215 |
+| 2023-08-31 | 41,910 | 215 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -23,9 +23,139 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
+  "TotalAchievements": 16,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "1",
+      "SetID": "2cfdi92",
+      "Name": "Your Lucky Day",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10",
+      "SetID": "2cfdi92",
+      "Name": "fifteenth Time\u0027s the Charm",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "11",
+      "SetID": "2cfdi92",
+      "Name": "Pulling Your Weight",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "12",
+      "SetID": "2cfdi92",
+      "Name": "Reaping Rivals",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "13",
+      "SetID": "2cfdi92",
+      "Name": "Memory Keeper",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "14",
+      "SetID": "2cfdi92",
+      "Name": "Nano Connoisseur",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "15",
+      "SetID": "2cfdi92",
+      "Name": "Gone Rogue",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "16",
+      "SetID": "2cfdi92",
+      "Name": "Completely Customizable",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "2",
+      "SetID": "2cfdi92",
+      "Name": "As Far Away As Possible",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "3",
+      "SetID": "2cfdi92",
+      "Name": "A Most Unstable Organism",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "4",
+      "SetID": "2cfdi92",
+      "Name": "No Time to Follow Protocol",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "5",
+      "SetID": "2cfdi92",
+      "Name": "Float Like a Butterfly...",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "6",
+      "SetID": "2cfdi92",
+      "Name": "In Two Places At Once",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "7",
+      "SetID": "2cfdi92",
+      "Name": "More Power to You",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "8",
+      "SetID": "2cfdi92",
+      "Name": "Runs for Your Money",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "9",
+      "SetID": "2cfdi92",
+      "Name": "Past Master",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "2cfdi92",
@@ -35,8 +165,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged_Achievements": "2023-08-31T10:05:19.5654565+00:00",
+  "LastChanged_Achievements": "2023-08-31T11:06:08.2485933+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:28.6660936+00:00",
-  "LastUpdate_Ratings": "2023-08-31T10:00:25.0399746+00:00",
-  "LastUpdate_Achievements": "2023-08-31T10:05:19.565459+00:00"
+  "LastUpdate_Ratings": "2023-08-31T11:01:17.0562491+00:00",
+  "LastUpdate_Achievements": "2023-08-31T11:06:08.2950166+00:00"
 }

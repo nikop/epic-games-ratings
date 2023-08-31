@@ -809,17 +809,17 @@
       "ID": "AC07",
       "SetID": "l4abp0",
       "Name": "The Sea dies on the Shore",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 220
+      "UsersEstimate": 226
     },
     {
       "ID": "AC08",
       "SetID": "l4abp0",
       "Name": "Forged in Fire",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 202
+      "UsersEstimate": 208
     },
     {
       "ID": "AC09",
@@ -1130,8 +1130,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-08-31T05:00:39.0192378+00:00",
-  "LastChanged_Achievements": "2023-08-31T10:05:28.975544+00:00",
+  "LastChanged_Achievements": "2023-08-31T11:06:19.1012596+00:00",
   "LastUpdate_AppInfo": "2023-08-29T18:57:21.35462+00:00",
-  "LastUpdate_Ratings": "2023-08-31T09:59:21.4961264+00:00",
-  "LastUpdate_Achievements": "2023-08-31T10:05:28.9755785+00:00"
+  "LastUpdate_Ratings": "2023-08-31T10:59:58.3228365+00:00",
+  "LastUpdate_Achievements": "2023-08-31T11:06:19.1013112+00:00"
 }

@@ -6,9 +6,9 @@ Number of Ratings: 7,669  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 24.00% | ~70 |
-| It's a good start | 7.00% | ~20 |
-| Bonjour! | 6.00% | ~17 |
+| Bye Bye | 23.00% | ~71 |
+| It's a good start | 6.00% | ~18 |
+| Bonjour! | 6.00% | ~18 |
 | A long journey | 5.00% | ~15 |
 | Quack | 5.00% | ~15 |
 | Ostinata | 4.00% | ~12 |
@@ -38,13 +38,13 @@ Number of Ratings: 7,669  (23.09.2022)
 | Knight of Langhe | 0.00% | ~0 |
 | Very Important Winemaker | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 291 (Ranked 272)  
+Progressed: 307 (Ranked 270)  
 Completed: 0 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-08-30 | 210 | 0 |
-| 2023-08-31 | 291 | 0 |
+| 2023-08-31 | 307 | 0 |
 ## Awards
 Max (Relaxing): 203  (Ranked 273)  
 Sum: 1,457 (Ranked 224)  

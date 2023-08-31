@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 554,
+  "EOS_Progressed": 555,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 9,
@@ -1231,6 +1231,11 @@
       "Time": "2023-08-31T04:04:51.0581204+00:00",
       "NumProgressed": 554,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-31T11:05:40.0784292+00:00",
+      "NumProgressed": 555,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1243,7 +1248,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -1251,15 +1256,15 @@
       "Name": "A New Journey",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "_03_FinishAct1",
       "SetID": "8a1io5d",
       "Name": "The Adventure Begins",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 305
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1299,7 +1304,7 @@
       "Name": "Swabbie",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "_09_Completion_20",
@@ -1369,9 +1374,9 @@
       "ID": "_17_UpgradeFirstCharacter",
       "SetID": "8a1io5d",
       "Name": "With Great Power\u2026",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 216
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -1450,14 +1455,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 554,
+      "Progressed": 555,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-31T10:04:57.5084729+00:00",
+  "LastChanged_Achievements": "2023-08-31T11:05:40.0784287+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:45.1302228+00:00",
-  "LastUpdate_Ratings": "2023-08-31T09:57:15.4006586+00:00",
-  "LastUpdate_Achievements": "2023-08-31T10:04:57.5084935+00:00"
+  "LastUpdate_Ratings": "2023-08-31T10:57:18.1295368+00:00",
+  "LastUpdate_Achievements": "2023-08-31T11:05:40.0784616+00:00"
 }

@@ -23,10 +23,10 @@ Number of Ratings: 524  (23.09.2022)
 | Missed by a Mile | 14.00% | ~8,684 |
 | The Six-Gun Scribe | 13.00% | ~8,064 |
 | Collateral Carnage | 13.00% | ~8,064 |
-| Heavy Metal | 12.00% | ~7,443 |
-| Iron Horse | 12.00% | ~7,443 |
-| Perchance to Dream | 12.00% | ~7,443 |
-| Come One, Come All | 12.00% | ~7,443 |
+| Heavy Metal | 12.00% | ~7,444 |
+| Iron Horse | 12.00% | ~7,444 |
+| Perchance to Dream | 12.00% | ~7,444 |
+| Come One, Come All | 12.00% | ~7,444 |
 | Gatekeeper | 11.00% | ~6,823 |
 | It's Not Just a Typewriter Brand | 11.00% | ~6,823 |
 | Thunder and Lightning | 11.00% | ~6,823 |
@@ -41,7 +41,7 @@ Number of Ratings: 524  (23.09.2022)
 | Drink 'Em Both Up | 6.00% | ~3,722 |
 | Hardboiled Writer | 6.00% | ~3,722 |
 | A Friend Indeed | 6.00% | ~1,530 |
-| Children of the Elder God | 5.00% | ~3,101 |
+| Children of the Elder God | 5.00% | ~3,102 |
 | Ding! | 5.00% | ~1,275 |
 | Boob Tube | 4.00% | ~2,481 |
 | If It Flies, It Burns | 4.00% | ~2,481 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~62 |
 | No Punctuation | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,029 (Ranked 87)  
+Progressed: 62,030 (Ranked 87)  
 Completed: 65 (0.10%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 65 (0.10%) (Ranked 214)
 | 2023-08-28 | 61,891 | 65 |
 | 2023-08-29 | 61,953 | 65 |
 | 2023-08-30 | 62,006 | 65 |
-| 2023-08-31 | 62,029 | 65 |
+| 2023-08-31 | 62,030 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
