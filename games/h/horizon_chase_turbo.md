@@ -1,20 +1,20 @@
 # Horizon Chase Turbo
 [Store](https://store.epicgames.com/en-US/p/horizon-chase-turbo)  
 [View Rawdata](../../db/h/horizon_chase_turbo.json)  
-Rating: 4.55 (Ranked 489)  
+Rating: 4.55 (Ranked 490)  
 Number of Ratings: 1,343  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~932,305 |
-| I Need a Bigger Garage | 63.00% | ~652,613 |
-| Pump my Ride | 47.00% | ~486,870 |
-| Ghostbuster | 33.00% | ~341,845 |
-| That Was Close | 18.00% | ~186,461 |
-| Call Roadside Assistance | 17.00% | ~176,102 |
-| Quickie | 11.00% | ~113,948 |
-| California Dreamer | 7.00% | ~72,513 |
-| Can't Touch This | 5.00% | ~51,795 |
+| The First of Many | 90.00% | ~932,324 |
+| I Need a Bigger Garage | 63.00% | ~652,626 |
+| Pump my Ride | 47.00% | ~486,880 |
+| Ghostbuster | 33.00% | ~341,852 |
+| That Was Close | 18.00% | ~186,465 |
+| Call Roadside Assistance | 17.00% | ~176,106 |
+| Quickie | 11.00% | ~113,951 |
+| California Dreamer | 7.00% | ~72,514 |
+| Can't Touch This | 5.00% | ~51,796 |
 | Carménère Taster | 3.00% | ~31,077 |
 | Supersonic | 3.00% | ~31,077 |
 | Comeback | 3.00% | ~31,077 |
@@ -38,13 +38,13 @@ Number of Ratings: 1,343  (23.09.2022)
 | Otaku | 0.80% | ~8,287 |
 | Survivor | 0.60% | ~6,215 |
 | King of the World | 0.60% | ~6,215 |
-| Getting Famous | 0.50% | ~5,179 |
+| Getting Famous | 0.50% | ~5,180 |
 | Master of the Racetrack | 0.20% | ~2,072 |
 | Now Go Play Outside | 0.20% | ~2,072 |
 | Transporter | 0.10% | ~1,036 |
 | Look Mom, No Hands! | 0.10% | ~1,036 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,035,894 (Ranked 12)  
+Progressed: 1,035,915 (Ranked 12)  
 Completed: 408 (0.04%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 408 (0.04%) (Ranked 236)
 | 2023-08-28 | 1,034,696 | 405 |
 | 2023-08-29 | 1,035,202 | 407 |
 | 2023-08-30 | 1,035,723 | 408 |
-| 2023-08-31 | 1,035,894 | 408 |
+| 2023-08-31 | 1,035,915 | 408 |
 ## Awards
 Max (Great for Beginners): 153  (Ranked 296)  
 Sum: 1,264 (Ranked 229)  

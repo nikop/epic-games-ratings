@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -3210,9 +3210,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 72499,
+  "EOS_Progressed": 72500,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 234,
+  "EOS_NewPlayers": 235,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -16930,6 +16930,11 @@
       "Time": "2023-08-31T09:03:25.075613+00:00",
       "NumProgressed": 72499,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-08-31T10:02:13.4555589+00:00",
+      "NumProgressed": 72500,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 37,
@@ -17085,7 +17090,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 47124
+      "UsersEstimate": 47125
     },
     {
       "ID": "ACH_0210",
@@ -17093,7 +17098,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 53649
+      "UsersEstimate": 53650
     },
     {
       "ID": "ACH_0211",
@@ -17236,22 +17241,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 72499,
+      "Progressed": 72500,
       "Completed": 42
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 846,
-      "Completed": 846
+      "Progressed": 847,
+      "Completed": 847
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-08-30T22:59:03.0318408+00:00",
-  "LastChanged_Achievements": "2023-08-31T09:03:25.0756123+00:00",
+  "LastChanged_Achievements": "2023-08-31T10:02:13.4555583+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:33.2477495+00:00",
-  "LastUpdate_Ratings": "2023-08-31T08:59:35.9679973+00:00",
-  "LastUpdate_Achievements": "2023-08-31T09:03:25.0758142+00:00"
+  "LastUpdate_Ratings": "2023-08-31T09:58:45.8148965+00:00",
+  "LastUpdate_Achievements": "2023-08-31T10:02:13.4556444+00:00"
 }

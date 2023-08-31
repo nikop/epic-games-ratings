@@ -9,7 +9,7 @@
 | Yellow Skeleton | 15.00% | ~64 |
 | Blue Skeleton | 11.00% | ~47 |
 | Green Skeleton | 4.00% | ~17 |
-| Black Skeleton | 2.00% | ~9 |
+| Black Skeleton | 3.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 427 (Ranked 243)  
 Completed: 9 (2.11%) (Ranked 93)  

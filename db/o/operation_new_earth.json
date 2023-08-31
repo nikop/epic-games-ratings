@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1170,
+  "EOS_Progressed": 1172,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 1,
@@ -4131,6 +4131,11 @@
       "Time": "2023-08-31T07:04:43.5477098+00:00",
       "NumProgressed": 1170,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-31T10:04:43.3790962+00:00",
+      "NumProgressed": 1172,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4246,7 +4251,7 @@
       "Name": "Facility Online",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -4262,7 +4267,7 @@
       "Name": "Sergeant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -4310,7 +4315,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -4318,7 +4323,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -4326,7 +4331,7 @@
       "Name": "Covert Operative",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -4445,14 +4450,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1170,
+      "Progressed": 1172,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-31T09:05:50.6716834+00:00",
+  "LastChanged_Achievements": "2023-08-31T10:04:43.3790956+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:58:05.1002416+00:00",
-  "LastUpdate_Ratings": "2023-08-31T09:00:14.110255+00:00",
-  "LastUpdate_Achievements": "2023-08-31T09:05:50.6717793+00:00"
+  "LastUpdate_Ratings": "2023-08-31T09:59:16.5108961+00:00",
+  "LastUpdate_Achievements": "2023-08-31T10:04:43.379138+00:00"
 }

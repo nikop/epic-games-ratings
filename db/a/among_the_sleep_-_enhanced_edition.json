@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 153,
   "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
     "PcReleaseDate": "2017-11-02T15:00:00+00:00",
@@ -455,9 +455,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 84186,
+  "EOS_Progressed": 84189,
   "EOS_Completed": 392,
-  "EOS_NewPlayers": 780,
+  "EOS_NewPlayers": 778,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -14975,6 +14975,11 @@
       "Time": "2023-08-31T09:05:38.7966917+00:00",
       "NumProgressed": 84186,
       "NumCompleted": 392
+    },
+    {
+      "Time": "2023-08-31T10:04:34.0523355+00:00",
+      "NumProgressed": 84189,
+      "NumCompleted": 392
     }
   ],
   "TotalAchievements": 10,
@@ -15050,7 +15055,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 29465
+      "UsersEstimate": 29466
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -15058,22 +15063,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 9260
+      "UsersEstimate": 9261
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 84186,
+      "Progressed": 84189,
       "Completed": 392
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-08-23T22:58:37.1708472+00:00",
-  "LastChanged_Achievements": "2023-08-31T09:05:38.7966907+00:00",
+  "LastChanged_Achievements": "2023-08-31T10:04:34.0523349+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:58:00.6374223+00:00",
-  "LastUpdate_Ratings": "2023-08-31T09:00:08.9137898+00:00",
-  "LastUpdate_Achievements": "2023-08-31T09:05:38.7968631+00:00"
+  "LastUpdate_Ratings": "2023-08-31T09:59:12.2491575+00:00",
+  "LastUpdate_Achievements": "2023-08-31T10:04:34.0524086+00:00"
 }

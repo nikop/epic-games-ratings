@@ -2,7 +2,7 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 688,
+  "Ranking_Rating": 687,
   "Ranking_Popularity": 433,
   "Ranking_PopularitySum": 356,
   "Ranking_EOS_Progress": 46,
@@ -886,9 +886,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 255670,
+  "EOS_Progressed": 255673,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 341,
+  "EOS_NewPlayers": 343,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14441,6 +14441,11 @@
       "Time": "2023-08-31T09:05:45.1178758+00:00",
       "NumProgressed": 255670,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-31T10:04:38.96359+00:00",
+      "NumProgressed": 255673,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -14500,7 +14505,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 79258
+      "UsersEstimate": 79259
     },
     {
       "ID": "BackHomeNTimes",
@@ -14740,7 +14745,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 56247
+      "UsersEstimate": 56248
     },
     {
       "ID": "KillOthers2",
@@ -14899,7 +14904,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 255670,
+      "Progressed": 255673,
       "Completed": 3
     }
   ],
@@ -14907,8 +14912,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-08-31T01:39:54.732025+00:00",
-  "LastChanged_Achievements": "2023-08-31T09:05:45.1178752+00:00",
+  "LastChanged_Achievements": "2023-08-31T10:04:38.9635893+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:47.9726825+00:00",
-  "LastUpdate_Ratings": "2023-08-31T08:59:56.2842655+00:00",
-  "LastUpdate_Achievements": "2023-08-31T09:05:45.1181087+00:00"
+  "LastUpdate_Ratings": "2023-08-31T09:59:02.1138699+00:00",
+  "LastUpdate_Achievements": "2023-08-31T10:04:38.9636957+00:00"
 }

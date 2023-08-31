@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 39,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
     "PcReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1286,7 +1286,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 427728,
+  "EOS_Progressed": 427729,
   "EOS_Completed": 529,
   "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 3,
@@ -10461,6 +10461,11 @@
       "Time": "2023-08-31T09:05:27.3722831+00:00",
       "NumProgressed": 427728,
       "NumCompleted": 529
+    },
+    {
+      "Time": "2023-08-31T10:04:24.7038013+00:00",
+      "NumProgressed": 427729,
+      "NumCompleted": 529
     }
   ],
   "TotalAchievements": 41,
@@ -10520,7 +10525,7 @@
       "Name": "A Leader Walks Alone",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 111209
+      "UsersEstimate": 111210
     },
     {
       "ID": "ACH_BOSS_WOODSMITH",
@@ -10528,7 +10533,7 @@
       "Name": "A Heavy Hammer",
       "Percentage": 30,
       "XP": 60,
-      "UsersEstimate": 128318
+      "UsersEstimate": 128319
     },
     {
       "ID": "ACH_CHALLENGE_ARROW",
@@ -10592,7 +10597,7 @@
       "Name": "Bow Master",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 111209
+      "UsersEstimate": 111210
     },
     {
       "ID": "ACH_CHALLENGE_PARRY_KILL",
@@ -10608,7 +10613,7 @@
       "Name": "Between the Eyes",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 201032
+      "UsersEstimate": 201033
     },
     {
       "ID": "ACH_CHESTS_ALL",
@@ -10640,7 +10645,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 406342
+      "UsersEstimate": 406343
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -10656,7 +10661,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 307964
+      "UsersEstimate": 307965
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -10664,7 +10669,7 @@
       "Name": "The Open Range",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 158259
+      "UsersEstimate": 158260
     },
     {
       "ID": "ACH_LOCATION_FOREST",
@@ -10672,7 +10677,7 @@
       "Name": "Into the Woods",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 295132
+      "UsersEstimate": 295133
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -10680,7 +10685,7 @@
       "Name": "The Lonely Path",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 111209
+      "UsersEstimate": 111210
     },
     {
       "ID": "ACH_LOCATION_VILLAGE",
@@ -10688,7 +10693,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 342182
+      "UsersEstimate": 342183
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -10712,7 +10717,7 @@
       "Name": "Say Cheese",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 68436
+      "UsersEstimate": 68437
     },
     {
       "ID": "ACH_RELIC_FOOD_OFFERING",
@@ -10728,7 +10733,7 @@
       "Name": "Adira\u0027s Fear",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 141150
+      "UsersEstimate": 141151
     },
     {
       "ID": "ACH_RELIC_HARPOON",
@@ -10799,15 +10804,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 427728,
+      "Progressed": 427729,
       "Completed": 529
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-08-27T05:01:05.9614223+00:00",
-  "LastChanged_Achievements": "2023-08-31T09:05:27.3722822+00:00",
+  "LastChanged_Achievements": "2023-08-31T10:04:24.7038007+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:05.3767055+00:00",
-  "LastUpdate_Ratings": "2023-08-31T08:58:01.1055255+00:00",
-  "LastUpdate_Achievements": "2023-08-31T09:05:27.3724386+00:00"
+  "LastUpdate_Ratings": "2023-08-31T09:57:34.4298605+00:00",
+  "LastUpdate_Achievements": "2023-08-31T10:04:24.7038685+00:00"
 }

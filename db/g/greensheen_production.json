@@ -57,9 +57,9 @@
       "ID": "BugSmash",
       "SetID": "aph8hbk",
       "Name": "Bully of Bullies",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BurnBears",
@@ -145,9 +145,9 @@
       "ID": "FootballGoal",
       "SetID": "aph8hbk",
       "Name": "Referee!",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Fridge",
@@ -249,9 +249,9 @@
       "ID": "PaperPlaneWindow",
       "SetID": "aph8hbk",
       "Name": "Fly Free",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PatientBall",
@@ -335,8 +335,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-31T13:15:39.9572089+00:00",
-  "LastChanged_Achievements": "2023-08-31T09:07:59.0297158+00:00",
+  "LastChanged_Achievements": "2023-08-31T10:06:29.3094775+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:13.194983+00:00",
-  "LastUpdate_Ratings": "2023-08-31T08:57:27.7425748+00:00",
-  "LastUpdate_Achievements": "2023-08-31T09:07:59.0297607+00:00"
+  "LastUpdate_Ratings": "2023-08-31T09:57:08.452617+00:00",
+  "LastUpdate_Achievements": "2023-08-31T10:06:29.3094986+00:00"
 }

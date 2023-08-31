@@ -6,11 +6,11 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 75.00% | ~35,984 |
+| Own use | 75.00% | ~35,985 |
 | I read Shakespeare and stuff | 64.00% | ~30,707 |
 | Just a sprinkle | 63.00% | ~30,227 |
-| I'm stumped | 61.00% | ~29,267 |
-| Plant get enough | 60.00% | ~28,787 |
+| I'm stumped | 61.00% | ~29,268 |
+| Plant get enough | 60.00% | ~28,788 |
 | It's just the beginning | 59.00% | ~28,308 |
 | This is just my weekend vehicle | 58.00% | ~27,828 |
 | Hard work pays off | 53.00% | ~25,429 |
@@ -21,8 +21,8 @@ Number of Ratings: 7,683  (23.09.2022)
 | Help me to help you | 38.00% | ~18,232 |
 | Ultimutt Pawesomeness | 28.00% | ~13,434 |
 | Van Gogh | 26.00% | ~12,475 |
-| You wood not believe it | 22.00% | ~10,555 |
-| Vehicle fleet | 22.00% | ~10,555 |
+| You wood not believe it | 22.00% | ~10,556 |
+| Vehicle fleet | 22.00% | ~10,556 |
 | The plot thickens | 16.00% | ~7,677 |
 | Large-scale supplier | 16.00% | ~7,677 |
 | Well-Oiled Machine | 16.00% | ~7,677 |
@@ -30,7 +30,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | Clucky Streak | 15.00% | ~7,197 |
 | That's a wrap | 15.00% | ~7,197 |
 | Fix me up | 13.00% | ~6,237 |
-| Rock on | 12.00% | ~5,757 |
+| Rock on | 12.00% | ~5,758 |
 | Highly cultivated | 11.00% | ~5,278 |
 | It's sow easy | 11.00% | ~5,278 |
 | Giddy-up! | 10.00% | ~4,798 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~192 |
 | Raisin the stakes | 0.30% | ~144 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,979 (Ranked 92)  
+Progressed: 47,980 (Ranked 92)  
 Completed: 6 (0.01%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,18 +183,18 @@ Completed: 6 (0.01%) (Ranked 253)
 | 2023-08-28 | 47,880 | 6 |
 | 2023-08-29 | 47,928 | 6 |
 | 2023-08-30 | 47,974 | 6 |
-| 2023-08-31 | 47,979 | 6 |
+| 2023-08-31 | 47,980 | 6 |
 ## Awards
 Max (Great for Beginners): 4,834  (Ranked 68)  
-Sum: 39,680 (Ranked 32)  
+Sum: 39,685 (Ranked 32)  
 Diff (max vs sum): 36  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,834 |
 | This game is Educational | 4,122 |
 | This game is Relaxing | 4,109 |
+| This game has Quickly Understood Controls | 4,056 |
 | This game has Diverse Characters | 4,052 |
-| This game has Quickly Understood Controls | 4,051 |
 | This game is Highly Recommended | 3,949 |
 | This game is Extremely Fun | 3,938 |
 | This game has Amazing Storytelling | 3,842 |
@@ -431,4 +431,4 @@ Diff (max vs sum): 36
 | 2023-08-28 | 4.69 | - | 4,822 | 39,600 |
 | 2023-08-29 | 4.69 | - | 4,834 | 39,648 |
 | 2023-08-30 | 4.69 | - | 4,834 | 39,671 |
-| 2023-08-31 | 4.69 | - | 4,834 | 39,680 |
+| 2023-08-31 | 4.69 | - | 4,834 | 39,685 |

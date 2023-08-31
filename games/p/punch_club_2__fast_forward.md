@@ -16,13 +16,13 @@
 | Your own amateur gym | 74.00% | ~216 |
 | Neurotrainer – power gainer! | 74.00% | ~216 |
 | First defeat | 73.00% | ~213 |
-| Run K, run! | 71.00% | ~207 |
+| Run K, run! | 72.00% | ~210 |
+| Fighting is cool | 68.00% | ~199 |
 | Hello, world! | 68.00% | ~199 |
-| Fighting is cool | 67.00% | ~196 |
 | No bullying more | 67.00% | ~196 |
 | Pal of your father? | 65.00% | ~190 |
-| Employee of the month | 63.00% | ~184 |
-| Spirit of the past | 62.00% | ~181 |
+| Employee of the month | 64.00% | ~187 |
+| Spirit of the past | 63.00% | ~184 |
 | Law student | 61.00% | ~178 |
 | Workout professional | 59.00% | ~172 |
 | Handyman | 58.00% | ~169 |

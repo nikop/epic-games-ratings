@@ -8407,10 +8407,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 39680,
       "NumberOfAwardsMax": 4834
+    },
+    {
+      "Time": "2023-08-31T09:58:29.9520258+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 39685,
+      "NumberOfAwardsMax": 4834
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 39680,
+  "NumberOfAwards": 39685,
   "NumberOfAwardsMax": 4834,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8436,7 +8442,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4051
+      "Count": 4056
     },
     {
       "Text": "This game is Highly Recommended",
@@ -8487,9 +8493,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 47979,
+  "EOS_Progressed": 47980,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 348,
+  "EOS_NewPlayers": 349,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -20382,6 +20388,11 @@
       "Time": "2023-08-31T09:04:45.1892177+00:00",
       "NumProgressed": 47979,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-08-31T10:03:50.2515983+00:00",
+      "NumProgressed": 47980,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -20481,7 +20492,7 @@
       "Name": "You wood not believe it",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 10555
+      "UsersEstimate": 10556
     },
     {
       "ID": "CutTreeFirst",
@@ -20489,7 +20500,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 29267
+      "UsersEstimate": 29268
     },
     {
       "ID": "DeliveryGrapes",
@@ -20529,7 +20540,7 @@
       "Name": "Plant get enough",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 28787
+      "UsersEstimate": 28788
     },
     {
       "ID": "Harvested",
@@ -20545,7 +20556,7 @@
       "Name": "Own use",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 35984
+      "UsersEstimate": 35985
     },
     {
       "ID": "HorseJumps",
@@ -20641,7 +20652,7 @@
       "Name": "Vehicle fleet",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 10555
+      "UsersEstimate": 10556
     },
     {
       "ID": "NumVehiclesSmall",
@@ -20689,7 +20700,7 @@
       "Name": "Rock on",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5757
+      "UsersEstimate": 5758
     },
     {
       "ID": "TractorDriving",
@@ -20736,15 +20747,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 47979,
+      "Progressed": 47980,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
-  "LastChanged": "2023-08-31T08:59:16.0866576+00:00",
-  "LastChanged_Achievements": "2023-08-31T09:04:45.189217+00:00",
+  "LastChanged": "2023-08-31T09:58:29.9520257+00:00",
+  "LastChanged_Achievements": "2023-08-31T10:03:50.2515979+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:11.3662748+00:00",
-  "LastUpdate_Ratings": "2023-08-31T08:59:16.0866587+00:00",
-  "LastUpdate_Achievements": "2023-08-31T09:04:45.1894078+00:00"
+  "LastUpdate_Ratings": "2023-08-31T09:58:29.9520262+00:00",
+  "LastUpdate_Achievements": "2023-08-31T10:03:50.2516813+00:00"
 }

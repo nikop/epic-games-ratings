@@ -2,7 +2,7 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 504,
+  "Ranking_Rating": 505,
   "Ranking_Popularity": 60,
   "Ranking_PopularitySum": 97,
   "Ranking_EOS_Progress": 22,
@@ -4030,10 +4030,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 8572,
       "NumberOfAwardsMax": 5822
+    },
+    {
+      "Time": "2023-08-31T09:57:28.1285296+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 8573,
+      "NumberOfAwardsMax": 5822
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8572,
+  "NumberOfAwards": 8573,
   "NumberOfAwardsMax": 5822,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4059,7 +4065,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 388
+      "Count": 389
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4092,9 +4098,9 @@
       "Count": 330
     }
   ],
-  "EOS_Progressed": 669831,
+  "EOS_Progressed": 669862,
   "EOS_Completed": 2096,
-  "EOS_NewPlayers": 5930,
+  "EOS_NewPlayers": 5931,
   "EOS_NewCompleters": 41,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -18882,6 +18888,11 @@
       "Time": "2023-08-31T09:05:02.4746049+00:00",
       "NumProgressed": 669831,
       "NumCompleted": 2096
+    },
+    {
+      "Time": "2023-08-31T10:04:04.5110486+00:00",
+      "NumProgressed": 669862,
+      "NumCompleted": 2096
     }
   ],
   "TotalAchievements": 45,
@@ -18901,7 +18912,7 @@
       "Name": "Making Your Mark",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2009
+      "UsersEstimate": 2010
     },
     {
       "ID": "ach_ammo_ran",
@@ -18971,9 +18982,9 @@
       "ID": "ach_defensive",
       "SetID": "7km39fm",
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2009
+      "UsersEstimate": 2679
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -19011,9 +19022,9 @@
       "ID": "ach_finisher",
       "SetID": "7km39fm",
       "Name": "Coup de Gr\u00E2ce",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 3349
+      "UsersEstimate": 4019
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -19133,7 +19144,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2009
+      "UsersEstimate": 2010
     },
     {
       "ID": "ach_revival_tour",
@@ -19149,7 +19160,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2009
+      "UsersEstimate": 2010
     },
     {
       "ID": "ach_secrets_of_la",
@@ -19189,7 +19200,7 @@
       "Name": "Max Headroom",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2009
+      "UsersEstimate": 2010
     },
     {
       "ID": "ach_the_vcla",
@@ -19252,16 +19263,16 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 669831,
+      "Progressed": 669862,
       "Completed": 2096
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-08-31T07:57:31.2036555+00:00",
-  "LastChanged_Achievements": "2023-08-31T09:05:02.4746042+00:00",
+  "LastChanged": "2023-08-31T09:57:28.1285272+00:00",
+  "LastChanged_Achievements": "2023-08-31T10:04:04.5110481+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:11.0440218+00:00",
-  "LastUpdate_Ratings": "2023-08-31T08:57:53.3378147+00:00",
-  "LastUpdate_Achievements": "2023-08-31T09:05:02.4748243+00:00"
+  "LastUpdate_Ratings": "2023-08-31T09:57:28.1285302+00:00",
+  "LastUpdate_Achievements": "2023-08-31T10:04:04.5111464+00:00"
 }

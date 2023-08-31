@@ -4,8 +4,8 @@
   "ProductSlug": "access-denied-escape-1d486e",
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 10,
-  "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
     "PcReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 145,
+  "EOS_Progressed": 146,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 7,
-  "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 24.83,
+  "EOS_NewPlayers": 8,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 24.66,
   "EosHistory": [
     {
       "Time": "2023-07-22T13:07:04.2774208+00:00",
@@ -736,6 +736,11 @@
       "Time": "2023-08-29T16:06:50.122079+00:00",
       "NumProgressed": 145,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-08-31T10:06:31.6640287+00:00",
+      "NumProgressed": 146,
+      "NumCompleted": 36
     }
   ],
   "AchievementsAdded": "2023-07-04T15:00:48.8668077+00:00",
@@ -754,7 +759,7 @@
       "ID": "Batteries",
       "SetID": "7jbi7el",
       "Name": "Batteries",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 70,
       "UsersEstimate": 88
     },
@@ -762,9 +767,9 @@
       "ID": "Compiling",
       "SetID": "7jbi7el",
       "Name": "Job completed!",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 72
+      "UsersEstimate": 74
     },
     {
       "ID": "FallDeath",
@@ -772,7 +777,7 @@
       "Name": "Accident",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "FirstBox",
@@ -780,15 +785,15 @@
       "Name": "Test Task",
       "Percentage": 97,
       "XP": 30,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "Floppy",
       "SetID": "7jbi7el",
       "Name": "Additional Data",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 70,
-      "UsersEstimate": 86
+      "UsersEstimate": 85
     },
     {
       "ID": "Fusses",
@@ -796,7 +801,7 @@
       "Name": "Beginner Electrician",
       "Percentage": 90,
       "XP": 70,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "GameComplete",
@@ -810,17 +815,17 @@
       "ID": "GasDeath",
       "SetID": "7jbi7el",
       "Name": "Contract Termination",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "GasFound",
       "SetID": "7jbi7el",
       "Name": "Something is wrong here",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 75
+      "UsersEstimate": 74
     },
     {
       "ID": "Hologram",
@@ -834,17 +839,17 @@
       "ID": "Screwdriver",
       "SetID": "7jbi7el",
       "Name": "Screwdriver",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 70,
-      "UsersEstimate": 116
+      "UsersEstimate": 115
     },
     {
       "ID": "SecretRoom",
       "SetID": "7jbi7el",
       "Name": "Researcher",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 80,
-      "UsersEstimate": 70
+      "UsersEstimate": 72
     },
     {
       "ID": "Synthesis",
@@ -859,14 +864,14 @@
     {
       "ID": "7jbi7el",
       "IsBase": true,
-      "Progressed": 145,
+      "Progressed": 146,
       "Completed": 36
     }
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-08-31T09:08:02.1040035+00:00",
+  "LastChanged_Achievements": "2023-08-31T10:06:31.6640282+00:00",
   "LastUpdate_AppInfo": "2023-08-29T18:57:21.7400613+00:00",
-  "LastUpdate_Ratings": "2023-08-31T09:00:28.8635603+00:00",
-  "LastUpdate_Achievements": "2023-08-31T09:08:02.1040277+00:00"
+  "LastUpdate_Ratings": "2023-08-31T09:59:27.2722746+00:00",
+  "LastUpdate_Achievements": "2023-08-31T10:06:31.6640424+00:00"
 }

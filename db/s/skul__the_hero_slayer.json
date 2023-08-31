@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 254,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -980,9 +980,9 @@
       "Count": 124
     }
   ],
-  "EOS_Progressed": 8146,
+  "EOS_Progressed": 8147,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -4490,6 +4490,11 @@
       "Time": "2023-08-31T06:03:17.2658406+00:00",
       "NumProgressed": 8146,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-08-31T10:02:10.2600485+00:00",
+      "NumProgressed": 8147,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 24,
@@ -4525,7 +4530,7 @@
       "Name": "Focus!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5132
+      "UsersEstimate": 5133
     },
     {
       "ID": "DemonCastleRestoration",
@@ -4533,7 +4538,7 @@
       "Name": "Castle Restoration Plans",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "DwarfChandelier",
@@ -4549,7 +4554,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 3258
+      "UsersEstimate": 3259
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -4557,7 +4562,7 @@
       "Name": "Deadly Power",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 1303
+      "UsersEstimate": 1304
     },
     {
       "ID": "FirstHeroLastBattle",
@@ -4565,7 +4570,7 @@
       "Name": "The Final Battle of the First Hero",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2199
+      "UsersEstimate": 2200
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -4589,7 +4594,7 @@
       "Name": "The Hero Killer",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 2362
+      "UsersEstimate": 2363
     },
     {
       "ID": "LeoniasFall",
@@ -4597,7 +4602,7 @@
       "Name": "The Fall of the Leonia Order",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 2525
+      "UsersEstimate": 2526
     },
     {
       "ID": "LeoniasFall_2",
@@ -4629,7 +4634,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5132
+      "UsersEstimate": 5133
     },
     {
       "ID": "SavedElderEnt_2",
@@ -4661,7 +4666,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7576
+      "UsersEstimate": 7577
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -4692,15 +4697,15 @@
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8146,
+      "Progressed": 8147,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-08-23T17:02:24.1541742+00:00",
-  "LastChanged_Achievements": "2023-08-31T09:03:20.9701443+00:00",
+  "LastChanged_Achievements": "2023-08-31T10:02:10.2600479+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:42.4579176+00:00",
-  "LastUpdate_Ratings": "2023-08-31T08:57:52.5711745+00:00",
-  "LastUpdate_Achievements": "2023-08-31T09:03:20.9704935+00:00"
+  "LastUpdate_Ratings": "2023-08-31T09:57:27.5845009+00:00",
+  "LastUpdate_Achievements": "2023-08-31T10:02:10.2600827+00:00"
 }

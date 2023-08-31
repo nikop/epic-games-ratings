@@ -6,19 +6,19 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 38.00% | ~22,801 |
-| Landlord | 32.00% | ~19,201 |
+| Lawbringer | 38.00% | ~22,802 |
+| Landlord | 32.00% | ~19,202 |
 | Bannerlord | 23.00% | ~13,801 |
 | Horde breaker | 23.00% | ~13,801 |
 | Lawmaker | 23.00% | ~13,801 |
 | Trained | 22.00% | ~13,201 |
 | The king is pleased | 18.00% | ~10,801 |
 | King Solomon | 17.00% | ~10,201 |
-| Apple of my eye | 15.00% | ~9,000 |
-| I can do it | 15.00% | ~9,000 |
-| God of the Arena | 13.00% | ~7,800 |
-| Against all odds | 12.00% | ~7,200 |
-| This Is Our Land | 11.00% | ~6,600 |
+| Apple of my eye | 15.00% | ~9,001 |
+| I can do it | 15.00% | ~9,001 |
+| God of the Arena | 13.00% | ~7,801 |
+| Against all odds | 12.00% | ~7,201 |
+| This Is Our Land | 11.00% | ~6,601 |
 | Swordbearer | 10.00% | ~6,000 |
 | Duelist | 9.00% | ~5,400 |
 | Dynasty | 9.00% | ~5,400 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,003 (Ranked 88)  
+Progressed: 60,005 (Ranked 88)  
 Completed: 0 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,10 +191,10 @@ Completed: 0 (0.00%) (Ranked 266)
 | 2023-08-28 | 59,865 | 0 |
 | 2023-08-29 | 59,922 | 0 |
 | 2023-08-30 | 59,981 | 0 |
-| 2023-08-31 | 60,003 | 0 |
+| 2023-08-31 | 60,005 | 0 |
 ## Awards
 Max (Character Customization): 7,007  (Ranked 50)  
-Sum: 14,246 (Ranked 69)  
+Sum: 14,247 (Ranked 69)  
 Diff (max vs sum): -19  
 | Award | Count |
 | ----- | ----- |
@@ -207,7 +207,7 @@ Diff (max vs sum): -19
 | This game is Relaxing | 792 |
 | This game has Quickly Understood Controls | 785 |
 | This game has Amazing Characters | 784 |
-| This game has a Creative Community | 577 |
+| This game has a Creative Community | 578 |
 | This game has Obsessive Gameplay | 376 |
 | This game has Competitive Players | 107 |
 ## Ratings History
@@ -441,4 +441,4 @@ Diff (max vs sum): -19
 | 2023-08-28 | 4.74 | - | 6,994 | 14,219 |
 | 2023-08-29 | 4.74 | - | 7,000 | 14,231 |
 | 2023-08-30 | 4.74 | - | 7,000 | 14,237 |
-| 2023-08-31 | 4.74 | - | 7,007 | 14,246 |
+| 2023-08-31 | 4.74 | - | 7,007 | 14,247 |
