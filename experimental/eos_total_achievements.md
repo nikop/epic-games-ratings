@@ -502,6 +502,7 @@
 | [Lemon Cake](../games/l/lemon_cake.md) | 17 | 1,000 |
 | [Mask of the Rose](../games/c/cd4a7839ad21465cab08d6742093d2a0.md) | 17 | 1,000 |
 | [Night Book](../games/n/night_book.md) | 17 | 1,000 |
+| [Sea Horizon](../games/b/bcd479d96de045fa8805f2bf4962475e.md) | 17 | 1,000 |
 | [Seven Doors](../games/s/seven_doors.md) | 17 | 1,000 |
 | [Super Bit Blaster XL](../games/s/super_bit_blaster_xl.md) | 17 | 1,000 |
 | [Swordship](../games/s/swordship.md) | 17 | 1,000 |
@@ -541,6 +542,7 @@
 | [Cafe Owner Simulator](../games/c/cafe_owner_simulator.md) | 14 | 1,000 |
 | [Crimson Spires](../games/c/crimson_spires.md) | 14 | 1,000 |
 | [Daydream. Forgotten Sorrow](../games/7/7b8963f6857041fd97a4a23845eb113d.md) | 14 | 1,000 |
+| [Golfing in Aether](../games/4/40f6e4beb45a4bbfb77fdb6774331e83.md) | 14 | 1,000 |
 | [Hello Neighbor 2](../games/h/hello_neighbor_2.md) | 14 | 1,000 |
 | [It's a Wrap!](../games/i/it's_a_wrap!.md) | 14 | 1,000 |
 | [Luna's Fishing Garden](../games/l/luna's_fishing_garden.md) | 14 | 1,000 |
