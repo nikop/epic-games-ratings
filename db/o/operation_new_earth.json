@@ -2,7 +2,7 @@
   "ID": "fa9a00f7f82846b4b820e6152b69aa55",
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
-  "Ranking_EOS_Progress": 193,
+  "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 70,
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1175,
+  "EOS_Progressed": 1176,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4141,6 +4141,11 @@
       "Time": "2023-08-31T12:04:45.6857494+00:00",
       "NumProgressed": 1175,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-31T16:05:07.2477568+00:00",
+      "NumProgressed": 1176,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4256,7 +4261,7 @@
       "Name": "Facility Online",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -4455,14 +4460,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1175,
+      "Progressed": 1176,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-31T15:06:22.1461058+00:00",
+  "LastChanged_Achievements": "2023-08-31T16:05:07.2477562+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:58:05.1002416+00:00",
-  "LastUpdate_Ratings": "2023-08-31T15:00:52.8445595+00:00",
-  "LastUpdate_Achievements": "2023-08-31T15:06:22.1461793+00:00"
+  "LastUpdate_Ratings": "2023-08-31T15:59:19.7946366+00:00",
+  "LastUpdate_Achievements": "2023-08-31T16:05:07.2478096+00:00"
 }

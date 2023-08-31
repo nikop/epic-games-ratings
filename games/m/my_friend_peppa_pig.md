@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The View From Windy Castle. | 59.00% | ~46 |
-| Daddy’s Glasses | 51.00% | ~40 |
+| The View From Windy Castle. | 58.00% | ~46 |
+| Daddy’s Glasses | 52.00% | ~41 |
 | Rocket to the Moon! | 51.00% | ~40 |
-| Whose tracks are these? | 49.00% | ~38 |
+| Whose tracks are these? | 48.00% | ~38 |
+| The Best Snowman Ever! | 46.00% | ~36 |
 | Rounding Up the Chickens. | 46.00% | ~36 |
-| The Best Snowman Ever! | 45.00% | ~35 |
-| Collecting Sticks For the Campfire. | 44.00% | ~34 |
-| What’s in These Rockpools? | 35.00% | ~27 |
+| Collecting Sticks For the Campfire. | 43.00% | ~34 |
+| What’s in These Rockpools? | 34.00% | ~27 |
 | Where’s Mr. Dinosaur? | 24.00% | ~19 |
 | Helping Tiddles the Tortoise. | 24.00% | ~19 |
-| Always Remember To Eat Your Five! | 12.00% | ~9 |
+| Always Remember To Eat Your Five! | 11.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 78 (Ranked 355)  
-Completed: 4 (5.13%) (Ranked 52)  
+Progressed: 79 (Ranked 355)  
+Completed: 4 (5.06%) (Ranked 52)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -35,6 +35,7 @@ Completed: 4 (5.13%) (Ranked 52)
 | 2023-07-31 | 76 | 4 |
 | 2023-08-13 | 77 | 4 |
 | 2023-08-20 | 78 | 4 |
+| 2023-08-31 | 79 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

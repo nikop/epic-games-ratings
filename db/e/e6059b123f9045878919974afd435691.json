@@ -4,8 +4,8 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 786,
+  "EOS_Progressed": 787,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1796,6 +1796,11 @@
       "Time": "2023-08-31T11:05:01.8046458+00:00",
       "NumProgressed": 786,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-31T16:04:50.2970759+00:00",
+      "NumProgressed": 787,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1807,7 +1812,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -1823,7 +1828,7 @@
       "Name": "FULLCLIP",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "AMMO_ACHIEVEMENT_4",
@@ -1877,9 +1882,9 @@
       "ID": "BARK_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Capraphobia",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 377
+      "UsersEstimate": 386
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -1935,7 +1940,7 @@
       "Name": "Where There\u0027s Smoke There\u0027s Fire",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "BURN_ACHIEVEMENT_3",
@@ -2085,9 +2090,9 @@
       "ID": "KILLR_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Breaking Twigs",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 385
+      "UsersEstimate": 394
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -2103,7 +2108,7 @@
       "Name": "Decakill!",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -2133,9 +2138,9 @@
       "ID": "KLACKEY_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "End the Infestation",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 55
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_3",
@@ -2167,7 +2172,7 @@
       "Name": "Don\u0027t Turn Your Back",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -2247,7 +2252,7 @@
       "Name": "Beep Beep Boop",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_1",
@@ -2334,14 +2339,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 786,
+      "Progressed": 787,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-08-31T15:05:58.2199676+00:00",
+  "LastChanged_Achievements": "2023-08-31T16:04:50.2970751+00:00",
   "LastUpdate_AppInfo": "2023-08-24T17:57:03.8268695+00:00",
-  "LastUpdate_Ratings": "2023-08-31T15:01:17.2351731+00:00",
-  "LastUpdate_Achievements": "2023-08-31T15:05:58.220064+00:00"
+  "LastUpdate_Ratings": "2023-08-31T15:59:35.8309095+00:00",
+  "LastUpdate_Achievements": "2023-08-31T16:04:50.2971554+00:00"
 }

@@ -4,11 +4,11 @@
   "ProductSlug": "thecycle",
   "Ranking_Rating": 914,
   "Ranking_Popularity": 101,
-  "Ranking_PopularitySum": 61,
+  "Ranking_PopularitySum": 70,
   "Ranking_EOS_Progress": 568,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 343,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2099-06-08T10:00:00+00:00",
     "PcReleaseDate": "2022-06-08T10:00:00+00:00",
@@ -6662,10 +6662,16 @@
       "Rating": 4.1,
       "NumberOfAwards": 16429,
       "NumberOfAwardsMax": 2504
+    },
+    {
+      "Time": "2023-08-31T15:57:38.6963284+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 14076,
+      "NumberOfAwardsMax": 2504
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 16429,
+  "NumberOfAwards": 14076,
   "NumberOfAwardsMax": 2504,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
@@ -6723,8 +6729,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:03.6642346+00:00",
-  "LastChanged": "2023-08-31T07:57:36.9286098+00:00",
+  "LastChanged": "2023-08-31T15:57:38.6963283+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:06.7668745+00:00",
-  "LastUpdate_Ratings": "2023-08-31T14:58:22.776586+00:00",
-  "LastUpdate_Achievements": "2023-08-31T15:08:20.1464276+00:00"
+  "LastUpdate_Ratings": "2023-08-31T15:57:38.6963289+00:00",
+  "LastUpdate_Achievements": "2023-08-31T16:06:31.7628285+00:00"
 }

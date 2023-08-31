@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Brace for impact! | 32.00% | ~119 |
+| Brace for impact! | 32.00% | ~120 |
 | Baby's First Car | 30.00% | ~112 |
 | Pushover | 30.00% | ~112 |
 | Amateur Mechanic | 29.00% | ~108 |
@@ -24,25 +24,25 @@
 | First Come, First Serve | 22.00% | ~82 |
 | Take that Frosty! | 22.00% | ~82 |
 | Goodbye cruel world | 22.00% | ~82 |
-| Car-Tapult | 21.00% | ~78 |
-| Disoriented | 21.00% | ~78 |
-| Anger Issues | 21.00% | ~78 |
-| Your Highness | 21.00% | ~78 |
-| Beach Party! | 21.00% | ~78 |
+| Car-Tapult | 21.00% | ~79 |
+| Disoriented | 21.00% | ~79 |
+| Anger Issues | 21.00% | ~79 |
+| Your Highness | 21.00% | ~79 |
+| Beach Party! | 21.00% | ~79 |
 | Event Amateur | 20.00% | ~75 |
 | Feeling Dizzy? | 18.00% | ~67 |
-| Drift King! | 17.00% | ~63 |
-| Feeling Hot Hot Hot! | 17.00% | ~63 |
-| Ferry Good! | 17.00% | ~63 |
-| Assert Dominance | 17.00% | ~63 |
-| Speed of light | 17.00% | ~63 |
+| Drift King! | 17.00% | ~64 |
+| Feeling Hot Hot Hot! | 17.00% | ~64 |
+| Ferry Good! | 17.00% | ~64 |
+| Assert Dominance | 17.00% | ~64 |
+| Speed of light | 17.00% | ~64 |
 | Out of this League | 14.00% | ~52 |
-| Special Forces | 13.00% | ~48 |
-| Toot Toot! | 13.00% | ~48 |
-| Earth Defense Force | 12.00% | ~45 |
+| Special Forces | 13.00% | ~49 |
+| Toot Toot! | 13.00% | ~49 |
 | Rocketman | 12.00% | ~45 |
 | Blasting away! | 12.00% | ~45 |
 | High Roller | 11.00% | ~41 |
+| Earth Defense Force | 11.00% | ~41 |
 | Event Pro | 10.00% | ~37 |
 | Space Crash | 7.00% | ~26 |
 | To war! | 7.00% | ~26 |
@@ -60,8 +60,8 @@
 | Master Mechanic | 1.00% | ~4 |
 | Crashed and Driven | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 373 (Ranked 257)  
-Completed: 2 (0.54%) (Ranked 145)  
+Progressed: 374 (Ranked 257)  
+Completed: 2 (0.53%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -122,7 +122,7 @@ Completed: 2 (0.54%) (Ranked 145)
 | 2023-08-23 | 370 | 2 |
 | 2023-08-25 | 371 | 2 |
 | 2023-08-26 | 372 | 2 |
-| 2023-08-31 | 373 | 2 |
+| 2023-08-31 | 374 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

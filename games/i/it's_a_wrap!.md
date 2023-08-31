@@ -7,12 +7,12 @@
 | Under the Bridge | 76.00% | ~38 |
 | Treasure Hunter | 12.00% | ~6 |
 | Space Invader | 6.00% | ~3 |
+| Budget Killer | 4.00% | ~2 |
 | One Man Army | 4.00% | ~2 |
 | What's my line again? | 2.00% | ~1 |
 | Extra Life | 2.00% | ~1 |
 | Who's gonna pay for that? | 2.00% | ~1 |
 | Meet Your Makers | 2.00% | ~1 |
-| Budget Killer | 2.00% | ~1 |
 | In the Can | 2.00% | ~1 |
 | O' Captain! My Captain! | 0.00% | ~0 |
 | Secret of the Mines | 0.00% | ~0 |

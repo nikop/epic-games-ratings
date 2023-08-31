@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -886,9 +886,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 255681,
+  "EOS_Progressed": 255686,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 341,
+  "EOS_NewPlayers": 343,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14466,6 +14466,11 @@
       "Time": "2023-08-31T15:06:16.3019438+00:00",
       "NumProgressed": 255681,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-31T16:05:02.8976188+00:00",
+      "NumProgressed": 255686,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -14525,7 +14530,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 79261
+      "UsersEstimate": 79263
     },
     {
       "ID": "BackHomeNTimes",
@@ -14581,7 +14586,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25568
+      "UsersEstimate": 25569
     },
     {
       "ID": "CreditLevel2",
@@ -14749,7 +14754,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7670
+      "UsersEstimate": 7671
     },
     {
       "ID": "KillOtherWithMine",
@@ -14765,7 +14770,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 56250
+      "UsersEstimate": 56251
     },
     {
       "ID": "KillOthers2",
@@ -14869,7 +14874,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25568
+      "UsersEstimate": 25569
     },
     {
       "ID": "ReachNDays2",
@@ -14924,7 +14929,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 255681,
+      "Progressed": 255686,
       "Completed": 3
     }
   ],
@@ -14932,8 +14937,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-08-31T01:39:54.732025+00:00",
-  "LastChanged_Achievements": "2023-08-31T15:06:16.3019434+00:00",
+  "LastChanged_Achievements": "2023-08-31T16:05:02.8976184+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:47.9726825+00:00",
-  "LastUpdate_Ratings": "2023-08-31T15:00:32.8081833+00:00",
-  "LastUpdate_Achievements": "2023-08-31T15:06:16.3020902+00:00"
+  "LastUpdate_Ratings": "2023-08-31T15:59:05.8617761+00:00",
+  "LastUpdate_Achievements": "2023-08-31T16:05:02.8977488+00:00"
 }

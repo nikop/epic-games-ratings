@@ -5,10 +5,10 @@
   "Ranking_Rating": 756,
   "Ranking_Popularity": 273,
   "Ranking_PopularitySum": 224,
-  "Ranking_EOS_Progress": 259,
+  "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -952,9 +952,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 358,
+  "EOS_Progressed": 368,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 353,
+  "EOS_NewPlayers": 363,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1102,6 +1102,11 @@
       "Time": "2023-08-31T15:07:58.2719685+00:00",
       "NumProgressed": 358,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-31T16:06:16.0924519+00:00",
+      "NumProgressed": 368,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -1114,7 +1119,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "a_10",
@@ -1128,7 +1133,7 @@
       "ID": "a_11",
       "SetID": "daiie3o",
       "Name": "A lot of space",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -1152,9 +1157,9 @@
       "ID": "a_16",
       "SetID": "daiie3o",
       "Name": "Millionaire",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "a_18",
@@ -1162,7 +1167,7 @@
       "Name": "Bye Bye",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 88
     },
     {
       "ID": "a_19",
@@ -1178,7 +1183,7 @@
       "Name": "Ostinata",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "a_20",
@@ -1194,7 +1199,7 @@
       "Name": "The Blue Marl",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "a_22",
@@ -1202,7 +1207,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "a_23",
@@ -1210,7 +1215,7 @@
       "Name": "Quack",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "a_25",
@@ -1240,7 +1245,7 @@
       "ID": "a_28",
       "SetID": "daiie3o",
       "Name": "Pastry Chef",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -1250,7 +1255,7 @@
       "Name": "Surprise of Langhe",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "a_30",
@@ -1312,7 +1317,7 @@
       "ID": "a_4",
       "SetID": "daiie3o",
       "Name": "King of Langhe",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -1320,7 +1325,7 @@
       "ID": "a_5",
       "SetID": "daiie3o",
       "Name": "Treasure of Roero",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -1361,7 +1366,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 358,
+      "Progressed": 368,
       "Completed": 0
     }
   ],
@@ -1369,8 +1374,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-08-28T14:01:21.7581903+00:00",
-  "LastChanged_Achievements": "2023-08-31T15:07:58.271968+00:00",
+  "LastChanged_Achievements": "2023-08-31T16:06:16.0924515+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:37.0274623+00:00",
-  "LastUpdate_Ratings": "2023-08-31T15:02:35.1194857+00:00",
-  "LastUpdate_Achievements": "2023-08-31T15:07:58.2719925+00:00"
+  "LastUpdate_Ratings": "2023-08-31T16:02:11.1674316+00:00",
+  "LastUpdate_Achievements": "2023-08-31T16:06:16.0924753+00:00"
 }

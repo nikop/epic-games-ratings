@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 26.00% | ~57,101 |
+| Sowwy! | 26.00% | ~57,108 |
 | Where's that freaking Dwarf? | 3.00% | ~6,589 |
 | Alt+F4 | 3.00% | ~6,589 |
-| Déjà vu | 2.00% | ~4,392 |
-| A beer, two curses, three companions | 2.00% | ~4,392 |
-| Sock! SOCK! | 2.00% | ~4,392 |
-| GG EZ | 2.00% | ~4,392 |
-| DM intervention | 2.00% | ~4,392 |
-| Speedrun | 2.00% | ~4,392 |
-| Fireproof Wizardess | 2.00% | ~4,392 |
+| Déjà vu | 2.00% | ~4,393 |
+| A beer, two curses, three companions | 2.00% | ~4,393 |
+| Sock! SOCK! | 2.00% | ~4,393 |
+| GG EZ | 2.00% | ~4,393 |
+| DM intervention | 2.00% | ~4,393 |
+| Speedrun | 2.00% | ~4,393 |
+| Fireproof Wizardess | 2.00% | ~4,393 |
 | Livin' in a dwarven paradise | 1.00% | ~2,196 |
 | Way of the Wimp | 1.00% | ~2,196 |
 | The plot thickens... At the tavern | 1.00% | ~2,196 |
@@ -33,9 +33,9 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.80% | ~1,757 |
 | The Ranger of Chaos | 0.80% | ~1,757 |
 | I am the night | 0.80% | ~1,757 |
-| The Famous Dungeon of Naheulbeuk | 0.70% | ~1,537 |
-| The beards of change | 0.70% | ~1,537 |
-| Thieves' Guild Accreditation | 0.70% | ~1,537 |
+| The Famous Dungeon of Naheulbeuk | 0.70% | ~1,538 |
+| The beards of change | 0.70% | ~1,538 |
+| Thieves' Guild Accreditation | 0.70% | ~1,538 |
 | Res Judicata | 0.60% | ~1,318 |
 | Dwarf Fortress | 0.60% | ~1,318 |
 | Look but don't touch | 0.60% | ~1,318 |
@@ -43,8 +43,8 @@ Number of Ratings: 118  (23.09.2022)
 | Dead for good | 0.50% | ~1,098 |
 | Lust and Debauchery | 0.50% | ~1,098 |
 | Material Girl | 0.50% | ~1,098 |
-| Gargantua | 0.40% | ~878 |
-| In Navalu's footsteps | 0.40% | ~878 |
+| Gargantua | 0.40% | ~879 |
+| In Navalu's footsteps | 0.40% | ~879 |
 | An old poacher makes the best gamekeeper | 0.30% | ~659 |
 | We come in peace | 0.30% | ~659 |
 | Lëgal Legend | 0.30% | ~659 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~220 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,619 (Ranked 57)  
+Progressed: 219,647 (Ranked 57)  
 Completed: 2 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 2 (0.00%) (Ranked 266)
 | 2023-08-28 | 218,694 | 2 |
 | 2023-08-29 | 219,078 | 2 |
 | 2023-08-30 | 219,453 | 2 |
-| 2023-08-31 | 219,619 | 2 |
+| 2023-08-31 | 219,647 | 2 |
 ## Awards
 Max (Character Customization): 184  (Ranked 279)  
 Sum: 232 (Ranked 360)  

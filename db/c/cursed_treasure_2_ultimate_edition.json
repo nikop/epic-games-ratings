@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 18,
   "Ranking_EOS_NewPlayers": 343,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
     "PcReleaseDate": "2022-07-14T11:30:00+00:00",
@@ -338,9 +338,9 @@
       "ID": "BADGE_BRILLIANT_NIGHT_CHAPTER_1",
       "SetID": "ak6pfjk",
       "Name": "Starry: Meadowshire",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 93
     },
     {
       "ID": "BADGE_BRILLIANT_NIGHT_CHAPTER_2",
@@ -619,8 +619,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-08-31T15:03:23.5040086+00:00",
+  "LastChanged_Achievements": "2023-08-31T16:02:23.843363+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:26.5328959+00:00",
-  "LastUpdate_Ratings": "2023-08-31T14:57:50.8189404+00:00",
-  "LastUpdate_Achievements": "2023-08-31T15:03:23.5040554+00:00"
+  "LastUpdate_Ratings": "2023-08-31T15:57:17.6137707+00:00",
+  "LastUpdate_Achievements": "2023-08-31T16:02:23.8434122+00:00"
 }

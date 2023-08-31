@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 253,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17783,
+  "EOS_Progressed": 17784,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9473,6 +9473,11 @@
       "Time": "2023-08-31T15:08:37.816247+00:00",
       "NumProgressed": 17783,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-31T16:06:44.7537906+00:00",
+      "NumProgressed": 17784,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -9556,7 +9561,7 @@
       "Name": "Social of Solace",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "0011",
@@ -9604,7 +9609,7 @@
       "Name": "Live and let lie",
       "Percentage": 3,
       "XP": 115,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "0017",
@@ -9620,7 +9625,7 @@
       "Name": "In It to Win It",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1600
+      "UsersEstimate": 1601
     },
     {
       "ID": "0019",
@@ -9660,7 +9665,7 @@
       "Name": "Safe Withdrawal",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "0024",
@@ -9771,7 +9776,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17783,
+      "Progressed": 17784,
       "Completed": 1
     }
   ],
@@ -9779,8 +9784,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-31T05:58:36.9186567+00:00",
-  "LastChanged_Achievements": "2023-08-31T15:08:37.8162465+00:00",
+  "LastChanged_Achievements": "2023-08-31T16:06:44.7537902+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:14.6586711+00:00",
-  "LastUpdate_Ratings": "2023-08-31T14:59:48.9668326+00:00",
-  "LastUpdate_Achievements": "2023-08-31T15:08:37.8163479+00:00"
+  "LastUpdate_Ratings": "2023-08-31T15:58:36.6250152+00:00",
+  "LastUpdate_Achievements": "2023-08-31T16:06:44.7538731+00:00"
 }

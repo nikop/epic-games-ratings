@@ -778,9 +778,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12093,
+  "EOS_Progressed": 12094,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -9603,6 +9603,11 @@
       "Time": "2023-08-31T15:06:28.1058053+00:00",
       "NumProgressed": 12093,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-08-31T16:05:11.4949477+00:00",
+      "NumProgressed": 12094,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 35,
@@ -9614,7 +9619,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9795
+      "UsersEstimate": 9796
     },
     {
       "ID": "ACH02",
@@ -9630,7 +9635,7 @@
       "Name": "The End of the Line",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "ACH04",
@@ -9670,7 +9675,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6167
+      "UsersEstimate": 6168
     },
     {
       "ID": "ACH09",
@@ -9830,7 +9835,7 @@
       "Name": "Original Gangster",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "ACH29",
@@ -9893,7 +9898,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12093,
+      "Progressed": 12094,
       "Completed": 44
     }
   ],
@@ -9901,8 +9906,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-08-31T01:39:56.0777646+00:00",
-  "LastChanged_Achievements": "2023-08-31T15:06:28.1058048+00:00",
+  "LastChanged_Achievements": "2023-08-31T16:05:11.4949473+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:49.3440273+00:00",
-  "LastUpdate_Ratings": "2023-08-31T15:00:34.8270957+00:00",
-  "LastUpdate_Achievements": "2023-08-31T15:06:28.1059083+00:00"
+  "LastUpdate_Ratings": "2023-08-31T15:59:07.229852+00:00",
+  "LastUpdate_Achievements": "2023-08-31T16:05:11.495027+00:00"
 }

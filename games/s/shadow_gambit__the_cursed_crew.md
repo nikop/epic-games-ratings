@@ -9,7 +9,7 @@
 | Swabbie | 41.00% | ~229 |
 | With Great Power… | 39.00% | ~218 |
 | This Belongs in a Museum | 35.00% | ~195 |
-| The Gambit Has Begun | 29.00% | ~162 |
+| The Gambit Has Begun | 30.00% | ~167 |
 | Powder Monkey | 27.00% | ~151 |
 | Somewhere Deep in the Lost Caribbean | 23.00% | ~128 |
 | Mirror Mirror on the Wall | 22.00% | ~123 |
@@ -18,7 +18,7 @@
 | Buccaneer | 18.00% | ~100 |
 | Seadog | 14.00% | ~78 |
 | Persistent Parasite | 13.00% | ~73 |
-| All Good Things | 11.00% | ~61 |
+| All Good Things | 12.00% | ~67 |
 | Jaded Judge | 9.00% | ~50 |
 | Privateer | 8.00% | ~45 |
 | Rustic Recipe | 8.00% | ~45 |

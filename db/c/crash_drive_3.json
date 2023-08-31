@@ -3,9 +3,9 @@
   "Name": "Crash Drive 3",
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 257,
-  "Ranking_EOS_Completed": 145,
+  "Ranking_EOS_Completed": 146,
   "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
     "PcReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 373,
+  "EOS_Progressed": 374,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.54,
+  "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:19.8064239+00:00",
@@ -426,6 +426,11 @@
       "Time": "2023-08-31T08:09:14.6745107+00:00",
       "NumProgressed": 373,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-31T16:08:15.4192432+00:00",
+      "NumProgressed": 374,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -437,7 +442,7 @@
       "Name": "Brace for impact!",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ALL_ACHIEVEMENTS",
@@ -461,7 +466,7 @@
       "Name": "Car-Tapult",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "COIN_COLLECT",
@@ -509,7 +514,7 @@
       "Name": "Special Forces",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "CUSTOMIZATION_BANANA",
@@ -525,7 +530,7 @@
       "Name": "Drift King!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "FIND_40_M2H",
@@ -565,7 +570,7 @@
       "Name": "Disoriented",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "FULLY_LEVEL_20_CARS",
@@ -613,7 +618,7 @@
       "Name": "Anger Issues",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "HIT_50_PUSHABLES",
@@ -627,9 +632,9 @@
       "ID": "HIT_ALIEN",
       "SetID": "20koof9",
       "Name": "Earth Defense Force",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 41
     },
     {
       "ID": "HIT_BIG_SNOWMAN",
@@ -661,7 +666,7 @@
       "Name": "Toot Toot!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "JOIN_A_FRIEND",
@@ -677,7 +682,7 @@
       "Name": "Your Highness",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "LEFT_LEVEL",
@@ -717,7 +722,7 @@
       "Name": "Feeling Hot Hot Hot!",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "MAX_MULTIPLIER",
@@ -781,7 +786,7 @@
       "Name": "Ferry Good!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "USE_ROCKET",
@@ -829,7 +834,7 @@
       "Name": "Beach Party!",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "WIN_KING_HILL",
@@ -837,7 +842,7 @@
       "Name": "Assert Dominance",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "WIN_RACE_AGAINST_3",
@@ -845,7 +850,7 @@
       "Name": "Speed of light",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "WIN_ROBBER",
@@ -876,7 +881,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 373,
+      "Progressed": 374,
       "Completed": 2
     }
   ],
@@ -884,8 +889,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-08-31T15:09:07.8551502+00:00",
+  "LastChanged_Achievements": "2023-08-31T16:08:15.4192428+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:40.319165+00:00",
-  "LastUpdate_Ratings": "2023-08-31T14:58:38.1118658+00:00",
-  "LastUpdate_Achievements": "2023-08-31T15:09:07.8552084+00:00"
+  "LastUpdate_Ratings": "2023-08-31T15:57:50.2371182+00:00",
+  "LastUpdate_Achievements": "2023-08-31T16:08:15.4192932+00:00"
 }

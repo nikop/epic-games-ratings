@@ -231,9 +231,9 @@
       "ID": "LUNCH_LEECH",
       "SetID": "aniflfk",
       "Name": "Leech Lunch",
-      "Percentage": 24,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
@@ -271,9 +271,9 @@
       "ID": "REPAIR_BRIDGE",
       "SetID": "aniflfk",
       "Name": "Bridge Builder",
-      "Percentage": 12,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "SLEEP_50_HOURS",
@@ -318,8 +318,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-08-31T15:07:52.2441495+00:00",
+  "LastChanged_Achievements": "2023-08-31T16:06:11.7947401+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:06.6191746+00:00",
-  "LastUpdate_Ratings": "2023-08-31T15:01:38.6285464+00:00",
-  "LastUpdate_Achievements": "2023-08-31T15:07:52.2441659+00:00"
+  "LastUpdate_Ratings": "2023-08-31T15:59:51.8281061+00:00",
+  "LastUpdate_Achievements": "2023-08-31T16:06:11.794755+00:00"
 }

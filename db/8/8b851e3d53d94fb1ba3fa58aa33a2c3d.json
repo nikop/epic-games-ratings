@@ -2,10 +2,10 @@
   "ID": "8b851e3d53d94fb1ba3fa58aa33a2c3d",
   "Name": "Palladium: Adventure in Greece",
   "ProductSlug": "palladium-adventure-in-greece-f1ee1b",
-  "Ranking_EOS_Progress": 414,
-  "Ranking_EOS_Completed": 64,
-  "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_Progress": 413,
+  "Ranking_EOS_Completed": 65,
+  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-07-20T15:00:00+00:00",
     "PcReleaseDate": "2021-06-04T19:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 28,
+  "EOS_Progressed": 29,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.57,
+  "EOS_Completed_Percentage": 3.45,
   "EosHistory": [
     {
       "Time": "2023-07-18T11:03:12.9192606+00:00",
@@ -166,6 +166,11 @@
       "Time": "2023-08-31T13:11:36.0249568+00:00",
       "NumProgressed": 28,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-31T16:05:43.2434245+00:00",
+      "NumProgressed": 29,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-07-14T20:01:12.8113067+00:00",
@@ -176,7 +181,7 @@
       "ID": "ALL_ENDINGS",
       "SetID": "e4de54",
       "Name": "All endings",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -200,7 +205,7 @@
       "ID": "ANDREAS_AND_THE_CHAMBER_OF_SECRETS",
       "SetID": "e4de54",
       "Name": "Andreas and the chamber of secrets",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -216,7 +221,7 @@
       "ID": "APATE",
       "SetID": "e4de54",
       "Name": "Apate",
-      "Percentage": 57,
+      "Percentage": 55,
       "XP": 10,
       "UsersEstimate": 16
     },
@@ -232,7 +237,7 @@
       "ID": "APOLLO",
       "SetID": "e4de54",
       "Name": "Apollo",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -240,7 +245,7 @@
       "ID": "ARES",
       "SetID": "e4de54",
       "Name": "Ares",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -248,7 +253,7 @@
       "ID": "ARTEMIS",
       "SetID": "e4de54",
       "Name": "Artemis",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -256,7 +261,7 @@
       "ID": "ATTENTIVENESS",
       "SetID": "e4de54",
       "Name": "Attentiveness",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -264,7 +269,7 @@
       "ID": "A_STRANGE_SPRING",
       "SetID": "e4de54",
       "Name": "A strange spring",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -280,7 +285,7 @@
       "ID": "BAD_SHOT",
       "SetID": "e4de54",
       "Name": "Bad shot",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -288,7 +293,7 @@
       "ID": "BEVERAGE_OF_THE_GODS",
       "SetID": "e4de54",
       "Name": "Beverage of the gods",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -296,7 +301,7 @@
       "ID": "CAREFULNESS",
       "SetID": "e4de54",
       "Name": "Carefulness",
-      "Percentage": 61,
+      "Percentage": 59,
       "XP": 5,
       "UsersEstimate": 17
     },
@@ -304,7 +309,7 @@
       "ID": "COBWEB",
       "SetID": "e4de54",
       "Name": "Cobweb",
-      "Percentage": 57,
+      "Percentage": 55,
       "XP": 5,
       "UsersEstimate": 16
     },
@@ -312,7 +317,7 @@
       "ID": "DANGEROUS_MEDUSA",
       "SetID": "e4de54",
       "Name": "Dangerous Medusa",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -320,7 +325,7 @@
       "ID": "ERIS",
       "SetID": "e4de54",
       "Name": "Eris",
-      "Percentage": 36,
+      "Percentage": 34,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -336,7 +341,7 @@
       "ID": "GIFT_OF_THE_ANCIENTS",
       "SetID": "e4de54",
       "Name": "Gift of the ancients",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -344,7 +349,7 @@
       "ID": "GOLD_DIGGER",
       "SetID": "e4de54",
       "Name": "Gold digger",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -352,7 +357,7 @@
       "ID": "GREEK_LANGUAGE_LOVER",
       "SetID": "e4de54",
       "Name": "Greek language lover",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -368,7 +373,7 @@
       "ID": "HERA",
       "SetID": "e4de54",
       "Name": "Hera",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -376,7 +381,7 @@
       "ID": "HERMES",
       "SetID": "e4de54",
       "Name": "Hermes",
-      "Percentage": 43,
+      "Percentage": 41,
       "XP": 5,
       "UsersEstimate": 12
     },
@@ -392,7 +397,7 @@
       "ID": "LABYRINTH_EXPLORER",
       "SetID": "e4de54",
       "Name": "Labyrinth explorer",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -402,13 +407,13 @@
       "Name": "Main menu",
       "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "MEDUSA_GAZE",
       "SetID": "e4de54",
       "Name": "Medusa gaze",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -416,7 +421,7 @@
       "ID": "MEDUSA_SECRET",
       "SetID": "e4de54",
       "Name": "Medusa secret",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -424,7 +429,7 @@
       "ID": "MINOTAUR_CULT",
       "SetID": "e4de54",
       "Name": "Minotaur cult",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -432,7 +437,7 @@
       "ID": "MINOTAUR_MENACE",
       "SetID": "e4de54",
       "Name": "Minotaur menace",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -440,7 +445,7 @@
       "ID": "POWER_OF_PROGRESS",
       "SetID": "e4de54",
       "Name": "Power of progress",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -448,7 +453,7 @@
       "ID": "RAT_TERROR",
       "SetID": "e4de54",
       "Name": "Rat terror",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -464,7 +469,7 @@
       "ID": "SELF_CONFIDENCE",
       "SetID": "e4de54",
       "Name": "Self-confidence",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -472,7 +477,7 @@
       "ID": "SPIDER",
       "SetID": "e4de54",
       "Name": "Spider",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -480,7 +485,7 @@
       "ID": "STEALTH_MASTER",
       "SetID": "e4de54",
       "Name": "Stealth master",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
       "UsersEstimate": 7
     },
@@ -488,7 +493,7 @@
       "ID": "TAMER",
       "SetID": "e4de54",
       "Name": "Tamer",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -496,7 +501,7 @@
       "ID": "THE_CUP_OF_HEBE",
       "SetID": "e4de54",
       "Name": "The cup of Hebe",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 3
     }
@@ -505,14 +510,14 @@
     {
       "ID": "e4de54",
       "IsBase": true,
-      "Progressed": 28,
+      "Progressed": 29,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-07-24T20:59:19.8931718+00:00",
   "FirstSeenAchievements": "2023-07-14T20:01:12.8113065+00:00",
-  "LastChanged_Achievements": "2023-08-31T15:07:11.8192707+00:00",
+  "LastChanged_Achievements": "2023-08-31T16:05:43.2434237+00:00",
   "LastUpdate_AppInfo": "2023-08-26T01:34:14.2917013+00:00",
-  "LastUpdate_Ratings": "2023-08-31T15:01:10.1244116+00:00",
-  "LastUpdate_Achievements": "2023-08-31T15:07:11.8193036+00:00"
+  "LastUpdate_Ratings": "2023-08-31T15:59:31.0660878+00:00",
+  "LastUpdate_Achievements": "2023-08-31T16:05:43.2434585+00:00"
 }

@@ -32,7 +32,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | I know Kung-Fu | 1.00% | ~7,128 |
 | Old Child | 1.00% | ~7,128 |
 | Kung-Fu Tussle | 1.00% | ~7,128 |
-| The best strikes are the ones we avoid | 1.00% | ~221 |
+| The best strikes are the ones we avoid | 1.00% | ~222 |
 | Muk Yan Master | 0.90% | ~6,416 |
 | Tiger on Fire | 0.80% | ~5,703 |
 | Source of Flying Daggers | 0.80% | ~5,703 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,426 |
 | Warriors from the Mountain | 0.10% | ~713 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,848 (Ranked 20)  
+Progressed: 712,849 (Ranked 20)  
 Completed: 12,878 (1.81%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 12,878 (1.81%) (Ranked 99)
 | 2023-08-28 | 712,797 | 12,876 |
 | 2023-08-29 | 712,811 | 12,876 |
 | 2023-08-30 | 712,826 | 12,877 |
-| 2023-08-31 | 712,848 | 12,878 |
+| 2023-08-31 | 712,849 | 12,878 |
 ## Awards
 Max (Great Boss Battles): 6,415  (Ranked 54)  
 Sum: 11,023 (Ranked 81)  
