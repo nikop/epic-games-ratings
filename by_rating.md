@@ -3,14 +3,14 @@
 | 1 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 0 | 514 |
 | 1 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 0 | 514 |
 | 3 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 4.93 | 0 | 514 |
-| 4 | [Celeste](games/c/celeste.md) | 4.92 | 1,579 | 120 |
+| 4 | [Celeste](games/c/celeste.md) | 4.92 | 1,580 | 120 |
 | 4 | [Hades](games/h/hades.md) | 4.92 | 3,239 | 92 |
 | 6 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.91 | 0 | 514 |
 | 6 | [Rain World](games/r/rain_world.md) | 4.91 | 0 | 514 |
 | 8 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 0 | 514 |
 | 8 | [Mago](games/m/mago.md) | 4.90 | 0 | 514 |
 | 8 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 0 | 514 |
-| 8 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,883 | 111 |
+| 8 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,884 | 111 |
 | 8 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 0 | 514 |
 | 13 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 8,058 | 41 |
 | 13 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.89 | 0 | 514 |
@@ -160,7 +160,7 @@
 | 147 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 796 | 159 |
 | 147 | [The Machines Arena](games/t/the_machines_arena.md) | 4.74 | 0 | 514 |
 | 147 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 80 | 361 |
-| 147 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 647 | 175 |
+| 147 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 649 | 175 |
 | 147 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 0 | 514 |
 | 163 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 412 | 213 |
 | 163 | [Black Book](games/b/black_book.md) | 4.73 | 24 | 486 |
@@ -187,7 +187,7 @@
 | 176 | [SUPERHOT](games/s/superhot.md) | 4.72 | 0 | 514 |
 | 176 | [The Red Lantern](games/t/the_red_lantern.md) | 4.72 | 0 | 514 |
 | 176 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 0 | 514 |
-| 176 | [Timberborn](games/t/timberborn.md) | 4.72 | 133 | 309 |
+| 176 | [Timberborn](games/t/timberborn.md) | 4.72 | 134 | 308 |
 | 176 | [Townscaper](games/t/townscaper.md) | 4.72 | 0 | 514 |
 | 190 | [Barony](games/b/barony.md) | 4.71 | 78 | 364 |
 | 190 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.71 | 90 | 351 |
@@ -249,7 +249,7 @@
 | 241 | [DOOM II](games/d/doom_ii.md) | 4.68 | 26 | 476 |
 | 241 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,861 | 58 |
 | 241 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 3,757 | 82 |
-| 241 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 304,360 | 3 |
+| 241 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 304,471 | 3 |
 | 241 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 218,801 | 4 |
 | 241 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 514 |
 | 241 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 562 | 190 |
@@ -772,14 +772,14 @@
 | 764 | [Paladins](games/p/paladins.md) | 4.34 | 3,567 | 85 |
 | 764 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 251 | 253 |
 | 764 | [Tails Noir](games/b/backbone.md) | 4.34 | 0 | 514 |
-| 764 | [Torchlight](games/t/torchlight.md) | 4.34 | 21 | 504 |
-| 774 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 120 | 320 |
-| 774 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 0 | 514 |
-| 774 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.33 | 0 | 514 |
-| 774 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 514 |
-| 774 | [Rogue Company](games/r/rogue_company.md) | 4.33 | 5,331 | 65 |
-| 774 | [Speed Brawl](games/s/speed_brawl.md) | 4.33 | 29 | 464 |
-| 774 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.33 | 1,669 | 119 |
+| 773 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 120 | 320 |
+| 773 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 0 | 514 |
+| 773 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.33 | 0 | 514 |
+| 773 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 514 |
+| 773 | [Rogue Company](games/r/rogue_company.md) | 4.33 | 5,331 | 65 |
+| 773 | [Speed Brawl](games/s/speed_brawl.md) | 4.33 | 29 | 464 |
+| 773 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.33 | 1,669 | 119 |
+| 773 | [Torchlight](games/t/torchlight.md) | 4.33 | 21 | 504 |
 | 781 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 357 | 226 |
 | 781 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.32 | 60 | 390 |
 | 781 | [Filament](games/f/filament.md) | 4.32 | 561 | 192 |
@@ -874,7 +874,7 @@
 | 865 | [Somerville](games/s/somerville.md) | 4.20 | 0 | 514 |
 | 873 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 404 |
 | 873 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 33 | 449 |
-| 873 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 197,042 | 5 |
+| 873 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 197,264 | 5 |
 | 873 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 514 |
 | 873 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 0 | 514 |
 | 873 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 73 | 374 |

@@ -3,7 +3,7 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.00% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.31% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 34.23% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 33.93% |
 | 5 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 33.33% |
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.95% |
 | 7 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
@@ -32,7 +32,7 @@
 | 30 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 9.09% |
 | 30 | [Sonic Origins](games/s/sonic_origins.md) | 9.09% |
 | 30 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
-| 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.93% |
+| 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.97% |
 | 34 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.89% |
 | 35 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.61% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.73% |
@@ -51,7 +51,7 @@
 | 49 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.32% |
 | 50 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.26% |
 | 51 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.17% |
-| 52 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.13% |
+| 52 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.06% |
 | 53 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.80% |
 | 54 | [Bugsnax](games/b/bugsnax.md) | 4.74% |
 | 55 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
@@ -63,9 +63,9 @@
 | 61 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.98% |
 | 61 | [ZZT!](games/z/zzt!.md) | 3.98% |
 | 63 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
-| 64 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 3.57% |
-| 65 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
-| 66 | [Without Escape](games/w/without_escape.md) | 3.45% |
+| 64 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
+| 65 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 3.45% |
+| 65 | [Without Escape](games/w/without_escape.md) | 3.45% |
 | 67 | [Doodle God](games/d/doodle_god.md) | 3.40% |
 | 68 | [Bunny Park](games/b/bunny_park.md) | 3.37% |
 | 69 | [The Complex](games/t/the_complex.md) | 3.32% |
@@ -93,7 +93,7 @@
 | 91 | [Bloodshore](games/b/bloodshore.md) | 2.20% |
 | 92 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
 | 93 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.09% |
-| 94 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.00% |
+| 94 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.99% |
 | 95 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
 | 96 | [Night Book](games/n/night_book.md) | 1.86% |
 | 97 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
@@ -121,9 +121,9 @@
 | 119 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.03% |
 | 120 | [Adios](games/a/adios.md) | 1.02% |
 | 121 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.01% |
-| 122 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.99% |
-| 122 | [Sable](games/s/sable.md) | 0.99% |
-| 122 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.99% |
+| 122 | [Sable](games/s/sable.md) | 1.00% |
+| 123 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.99% |
+| 123 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.99% |
 | 125 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.95% |
 | 126 | [Hades](games/h/hades.md) | 0.90% |
 | 127 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
@@ -144,12 +144,12 @@
 | 142 | [Potion Permit](games/p/potion_permit.md) | 0.58% |
 | 143 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.57% |
 | 144 | [Grindstone](games/g/grindstone.md) | 0.56% |
-| 145 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.54% |
+| 145 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
+| 146 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.53% |
 | 146 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.53% |
-| 147 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.52% |
-| 147 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
-| 149 | [Aragami 2](games/a/aragami_2.md) | 0.51% |
-| 150 | [The Surge 2](games/t/the_surge_2.md) | 0.50% |
+| 148 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.52% |
+| 148 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
+| 150 | [Aragami 2](games/a/aragami_2.md) | 0.51% |
 | 151 | [Godlike Burger](games/g/godlike_burger.md) | 0.48% |
 | 151 | [Them and Us](games/t/them_and_us.md) | 0.48% |
 | 153 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
