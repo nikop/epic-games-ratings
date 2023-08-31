@@ -6,7 +6,7 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 41.00% | ~6,121 |
+| Tattletale | 41.00% | ~6,122 |
 | Man of politics | 35.00% | ~5,226 |
 | Friends of sorts | 33.00% | ~4,927 |
 | Yet another secret | 33.00% | ~4,927 |
@@ -17,9 +17,9 @@ Number of Ratings: 368  (23.09.2022)
 | Full house | 24.00% | ~3,583 |
 | Help an old friend | 22.00% | ~3,285 |
 | Two of us | 20.00% | ~2,986 |
-| Negotiation skills | 18.00% | ~2,687 |
-| Workers' union | 18.00% | ~2,687 |
-| End of Book Two | 18.00% | ~2,687 |
+| Negotiation skills | 18.00% | ~2,688 |
+| Workers' union | 18.00% | ~2,688 |
+| End of Book Two | 18.00% | ~2,688 |
 | Everything's in order | 17.00% | ~2,538 |
 | Twist of Fate | 14.00% | ~2,090 |
 | Jack was here! | 14.00% | ~2,090 |
@@ -38,9 +38,9 @@ Number of Ratings: 368  (23.09.2022)
 | A cry for help | 8.00% | ~1,194 |
 | Silentium est aureum | 7.00% | ~1,045 |
 | Rebel without a cause | 6.00% | ~896 |
-| Staring contest champion | 5.00% | ~746 |
-| Lone wolf | 5.00% | ~746 |
-| Vox Populi | 5.00% | ~746 |
+| Staring contest champion | 5.00% | ~747 |
+| Lone wolf | 5.00% | ~747 |
+| Vox Populi | 5.00% | ~747 |
 | Revenge | 4.00% | ~597 |
 | Self-defense | 4.00% | ~597 |
 | Countess Aliena | 4.00% | ~597 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~448 |
 | Boy of mystery | 2.00% | ~299 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,930 (Ranked 119)  
+Progressed: 14,931 (Ranked 119)  
 Completed: 110 (0.74%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 110 (0.74%) (Ranked 132)
 | 2023-08-28 | 14,878 | 110 |
 | 2023-08-29 | 14,901 | 110 |
 | 2023-08-30 | 14,921 | 110 |
-| 2023-08-31 | 14,930 | 110 |
+| 2023-08-31 | 14,931 | 110 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 300)  
 Sum: 188 (Ranked 377)  

@@ -5,24 +5,24 @@ Rating: 4.57 (Ranked 453)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tell me your story | 75.00% | ~499 |
-| Don't judge a manhole by its cover | 60.00% | ~399 |
-| I just love stuff! | 42.00% | ~279 |
-| Keep 'em coming! | 42.00% | ~279 |
-| Big Spender | 39.00% | ~259 |
-| The things they print nowadays | 39.00% | ~259 |
-| That's gotta hurt | 36.00% | ~239 |
+| Tell me your story | 75.00% | ~500 |
+| Don't judge a manhole by its cover | 60.00% | ~400 |
+| I just love stuff! | 42.00% | ~280 |
+| Keep 'em coming! | 42.00% | ~280 |
+| Big Spender | 39.00% | ~260 |
+| The things they print nowadays | 39.00% | ~260 |
+| That's gotta hurt | 36.00% | ~240 |
 | I think it's broke | 26.00% | ~173 |
 | The Ann Flores Combo Experience | 26.00% | ~173 |
-| Club Star | 25.00% | ~166 |
+| Club Star | 24.00% | ~160 |
 | The Warlord | 21.00% | ~140 |
 | Fire in the hole! | 20.00% | ~133 |
 | Omnipotence | 20.00% | ~133 |
 | You are the One | 20.00% | ~133 |
-| Deadly Kombationem | 19.00% | ~126 |
-| The truth is out there | 16.00% | ~106 |
+| Deadly Kombationem | 19.00% | ~127 |
+| The truth is out there | 16.00% | ~107 |
 | Annakin Skyscroller | 14.00% | ~93 |
-| In the smacker...I think | 10.00% | ~66 |
+| In the smacker...I think | 10.00% | ~67 |
 | Arm Wrestlin' | 9.00% | ~60 |
 | 1+1>2 | 9.00% | ~60 |
 | This can't be right… | 9.00% | ~60 |
@@ -42,7 +42,7 @@ Rating: 4.57 (Ranked 453)
 | Love me like I love my posters | 0.90% | ~6 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 665 (Ranked 220)  
+Progressed: 666 (Ranked 220)  
 Completed: 0 (0.00%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,6 +106,7 @@ Completed: 0 (0.00%) (Ranked 269)
 | 2023-08-20 | 663 | 0 |
 | 2023-08-23 | 664 | 0 |
 | 2023-08-27 | 665 | 0 |
+| 2023-08-31 | 666 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

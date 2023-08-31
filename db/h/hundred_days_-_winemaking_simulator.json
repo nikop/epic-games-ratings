@@ -5,9 +5,9 @@
   "Ranking_Rating": 756,
   "Ranking_Popularity": 273,
   "Ranking_PopularitySum": 224,
-  "Ranking_EOS_Progress": 248,
+  "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
@@ -952,9 +952,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 413,
+  "EOS_Progressed": 420,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 408,
+  "EOS_NewPlayers": 415,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -1122,6 +1122,11 @@
       "Time": "2023-08-31T19:06:31.7574893+00:00",
       "NumProgressed": 413,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-31T20:07:10.790838+00:00",
+      "NumProgressed": 420,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -1140,9 +1145,9 @@
       "ID": "a_10",
       "SetID": "daiie3o",
       "Name": "What is that? A castle?",
-      "Percentage": 0.5,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "a_11",
@@ -1156,9 +1161,9 @@
       "ID": "a_12",
       "SetID": "daiie3o",
       "Name": "A big garage",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 8
     },
     {
       "ID": "a_15",
@@ -1180,25 +1185,25 @@
       "ID": "a_18",
       "SetID": "daiie3o",
       "Name": "Bye Bye",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 103
+      "UsersEstimate": 109
     },
     {
       "ID": "a_19",
       "SetID": "daiie3o",
       "Name": "Bonjour!",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 21
     },
     {
       "ID": "a_2",
       "SetID": "daiie3o",
       "Name": "Ostinata",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 17
+      "UsersEstimate": 21
     },
     {
       "ID": "a_20",
@@ -1220,9 +1225,9 @@
       "ID": "a_22",
       "SetID": "daiie3o",
       "Name": "A long journey",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 25
+      "UsersEstimate": 21
     },
     {
       "ID": "a_23",
@@ -1238,7 +1243,7 @@
       "Name": "Better than nothing?",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "a_26",
@@ -1246,15 +1251,15 @@
       "Name": "Exotic",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "a_27",
       "SetID": "daiie3o",
       "Name": "Keep the doctor away",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 8
     },
     {
       "ID": "a_28",
@@ -1366,7 +1371,7 @@
       "Name": "Famous",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "a_9",
@@ -1381,7 +1386,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 413,
+      "Progressed": 420,
       "Completed": 1
     }
   ],
@@ -1389,8 +1394,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-08-28T14:01:21.7581903+00:00",
-  "LastChanged_Achievements": "2023-08-31T19:06:31.7574887+00:00",
+  "LastChanged_Achievements": "2023-08-31T20:07:10.7908376+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:37.0274623+00:00",
-  "LastUpdate_Ratings": "2023-08-31T19:01:07.9115717+00:00",
-  "LastUpdate_Achievements": "2023-08-31T19:06:31.7575082+00:00"
+  "LastUpdate_Ratings": "2023-08-31T20:03:09.0117215+00:00",
+  "LastUpdate_Achievements": "2023-08-31T20:07:10.7908566+00:00"
 }

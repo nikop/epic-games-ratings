@@ -2,7 +2,7 @@
   "ID": "810797d6d1c640068ce75d45b85d2423",
   "Name": "It\u0027s a Wrap!",
   "ProductSlug": "its-a-wrap-f392ae",
-  "Ranking_EOS_Progress": 385,
+  "Ranking_EOS_Progress": 383,
   "Ranking_EOS_Completed": 95,
   "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 69,
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 51,
+  "EOS_Progressed": 52,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.96,
+  "EOS_Completed_Percentage": 1.92,
   "EosHistory": [
     {
       "Time": "2023-08-23T19:06:50.974201+00:00",
@@ -221,6 +221,11 @@
       "Time": "2023-08-31T19:02:13.3455911+00:00",
       "NumProgressed": 51,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-31T20:03:24.8436275+00:00",
+      "NumProgressed": 52,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-23T18:07:41.5840272+00:00",
@@ -231,9 +236,9 @@
       "ID": "1_10_SECRET",
       "SetID": "2l1dk5b",
       "Name": "Under the Bridge",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "1_50_SECRET",
@@ -319,7 +324,7 @@
       "ID": "MOV1_FINISH",
       "SetID": "2l1dk5b",
       "Name": "Treasure Hunter",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 100,
       "UsersEstimate": 7
     },
@@ -344,14 +349,14 @@
     {
       "ID": "2l1dk5b",
       "IsBase": true,
-      "Progressed": 51,
+      "Progressed": 52,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-25T08:57:40.9970991+00:00",
   "FirstSeenAchievements": "2023-08-01T21:04:35.2343064+00:00",
-  "LastChanged_Achievements": "2023-08-31T19:02:13.3455903+00:00",
+  "LastChanged_Achievements": "2023-08-31T20:03:24.843627+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:00.6888694+00:00",
-  "LastUpdate_Ratings": "2023-08-31T18:58:34.3570976+00:00",
-  "LastUpdate_Achievements": "2023-08-31T19:02:13.3456029+00:00"
+  "LastUpdate_Ratings": "2023-08-31T19:58:45.9177902+00:00",
+  "LastUpdate_Achievements": "2023-08-31T20:03:24.8436371+00:00"
 }

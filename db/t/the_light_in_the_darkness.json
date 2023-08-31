@@ -2,9 +2,9 @@
   "ID": "8912b079197744f58b41915923cc8da1",
   "Name": "The Light in the Darkness",
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
-  "Ranking_EOS_Progress": 169,
+  "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 33,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2277,
+  "EOS_Progressed": 2279,
   "EOS_Completed": 204,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 8.96,
+  "EOS_Completed_Percentage": 8.95,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -5428,6 +5428,11 @@
       "Time": "2023-08-31T18:07:10.4252469+00:00",
       "NumProgressed": 2277,
       "NumCompleted": 204
+    },
+    {
+      "Time": "2023-08-31T20:07:00.912012+00:00",
+      "NumProgressed": 2279,
+      "NumCompleted": 204
     }
   ],
   "TotalAchievements": 12,
@@ -5471,7 +5476,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 842
+      "UsersEstimate": 843
     },
     {
       "ID": "Jakob",
@@ -5503,7 +5508,7 @@
       "Name": "Little Helper",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -5519,7 +5524,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "Nuremberg Laws",
@@ -5534,7 +5539,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2277,
+      "Progressed": 2279,
       "Completed": 204
     }
   ],
@@ -5542,8 +5547,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-08-31T19:06:21.7226558+00:00",
+  "LastChanged_Achievements": "2023-08-31T20:07:00.9120116+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:56:57.0664875+00:00",
-  "LastUpdate_Ratings": "2023-08-31T18:58:02.3453835+00:00",
-  "LastUpdate_Achievements": "2023-08-31T19:06:21.7226896+00:00"
+  "LastUpdate_Ratings": "2023-08-31T19:58:13.0012886+00:00",
+  "LastUpdate_Achievements": "2023-08-31T20:07:00.9120467+00:00"
 }

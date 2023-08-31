@@ -33,6 +33,7 @@
 | Pathfinder | 4.00% | ~2 |
 | The End | 4.00% | ~2 |
 | But what of the Acreans? | 4.00% | ~2 |
+| A Deceiving Gift | 4.00% | ~2 |
 | Mountain Lover | 2.00% | ~1 |
 | Wasteland Connoisseur | 2.00% | ~1 |
 | Forest Expert | 2.00% | ~1 |
@@ -41,7 +42,6 @@
 | Wizard | 2.00% | ~1 |
 | Bookworm | 2.00% | ~1 |
 | Globetrotter | 2.00% | ~1 |
-| A Deceiving Gift | 2.00% | ~1 |
 | Unveiling the Truth | 2.00% | ~1 |
 | Style over Stats | 0.00% | ~0 |
 | Collector | 0.00% | ~0 |

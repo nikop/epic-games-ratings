@@ -1111,9 +1111,9 @@
       "ID": "achWitch",
       "SetID": "1al1mjg",
       "Name": "Witch \u2714",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 53
     }
   ],
   "AchievementSets": [
@@ -1126,8 +1126,8 @@
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2023-08-31T19:05:33.7378786+00:00",
+  "LastChanged_Achievements": "2023-08-31T20:06:13.2445275+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:15.2286675+00:00",
-  "LastUpdate_Ratings": "2023-08-31T19:00:25.1360441+00:00",
-  "LastUpdate_Achievements": "2023-08-31T19:05:33.7378952+00:00"
+  "LastUpdate_Ratings": "2023-08-31T20:00:36.8860182+00:00",
+  "LastUpdate_Achievements": "2023-08-31T20:06:13.2445491+00:00"
 }

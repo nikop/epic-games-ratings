@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 608,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 441,
+  "EOS_NewPlayers": 416,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -852,9 +852,9 @@
       "ID": "AC08",
       "SetID": "l4abp0",
       "Name": "Forged in Fire",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 219
+      "UsersEstimate": 225
     },
     {
       "ID": "AC09",
@@ -868,9 +868,9 @@
       "ID": "AC10",
       "SetID": "l4abp0",
       "Name": "The Wait is Over",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 116
+      "UsersEstimate": 122
     },
     {
       "ID": "AC11",
@@ -884,9 +884,9 @@
       "ID": "AC12",
       "SetID": "l4abp0",
       "Name": "Canvas of Light and Time",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 67
+      "UsersEstimate": 73
     },
     {
       "ID": "AC13",
@@ -940,9 +940,9 @@
       "ID": "AC19",
       "SetID": "l4abp0",
       "Name": "Soledad",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 188
+      "UsersEstimate": 195
     },
     {
       "ID": "AC20",
@@ -1036,9 +1036,9 @@
       "ID": "AC31",
       "SetID": "l4abp0",
       "Name": "The Merciless One",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 188
     },
     {
       "ID": "AC32",
@@ -1165,8 +1165,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-08-31T05:00:39.0192378+00:00",
-  "LastChanged_Achievements": "2023-08-31T19:06:03.456203+00:00",
+  "LastChanged_Achievements": "2023-08-31T20:06:42.6283555+00:00",
   "LastUpdate_AppInfo": "2023-08-29T18:57:21.35462+00:00",
-  "LastUpdate_Ratings": "2023-08-31T18:59:51.2592276+00:00",
-  "LastUpdate_Achievements": "2023-08-31T19:06:03.456235+00:00"
+  "LastUpdate_Ratings": "2023-08-31T20:00:03.6013061+00:00",
+  "LastUpdate_Achievements": "2023-08-31T20:06:42.6283898+00:00"
 }

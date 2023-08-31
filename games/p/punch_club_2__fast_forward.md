@@ -53,8 +53,8 @@
 | The die is cast | 36.00% | ~107 |
 | Seashell hunter | 35.00% | ~104 |
 | Gang wrangler | 34.00% | ~101 |
+| Problems of cyborgs | 33.00% | ~98 |
 | Undercover robot | 33.00% | ~98 |
-| Problems of cyborgs | 32.00% | ~95 |
 | Not little hacker | 32.00% | ~95 |
 | Absolute Champion! | 32.00% | ~95 |
 | Keep nature safe | 31.00% | ~92 |

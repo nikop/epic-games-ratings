@@ -45,7 +45,7 @@ Rating: 4.69 (Ranked 218)
 | What Goes Around... | 2.00% | ~22 |
 | Not So Fast | 1.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,081 (Ranked 201)  
+Progressed: 1,081 (Ranked 202)  
 Completed: 5 (0.46%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |

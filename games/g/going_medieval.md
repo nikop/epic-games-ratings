@@ -16,8 +16,8 @@ Number of Ratings: 706  (23.09.2022)
 | Putting Food on the Table | 57.00% | ~3,185 |
 | Onward | 56.00% | ~3,129 |
 | The First Week | 54.00% | ~3,018 |
+| Beam Me Up | 51.00% | ~2,850 |
 | Studious Researcher | 51.00% | ~2,850 |
-| Beam Me Up | 50.00% | ~2,794 |
 | Feast or Famine | 47.00% | ~2,626 |
 | Adept Researcher | 44.00% | ~2,459 |
 | Retribution | 41.00% | ~2,291 |
@@ -152,12 +152,12 @@ Completed: 11 (0.20%) (Ranked 194)
 | 2023-08-30 | 5,573 | 11 |
 | 2023-08-31 | 5,588 | 11 |
 ## Awards
-Max (Relaxing): 121  (Ranked 318)  
-Sum: 979 (Ranked 239)  
-Diff (max vs sum): 79  
+Max (Relaxing): 122  (Ranked 317)  
+Sum: 980 (Ranked 239)  
+Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
-| This game is Relaxing | 121 |
+| This game is Relaxing | 122 |
 | This game is Great for Beginners | 118 |
 | This game has Diverse Characters | 110 |
 | This game has Quickly Understood Controls | 105 |
@@ -296,3 +296,4 @@ Diff (max vs sum): 79
 | 2023-08-24 | 4.60 | - | 121 | 977 |
 | 2023-08-28 | 4.60 | - | 121 | 978 |
 | 2023-08-30 | 4.60 | - | 121 | 979 |
+| 2023-08-31 | 4.60 | - | 122 | 980 |

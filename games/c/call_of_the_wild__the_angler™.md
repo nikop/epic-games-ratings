@@ -178,7 +178,7 @@ Completed: 0 (0.00%) (Ranked 269)
 | 2023-08-31 | 5,561 | 0 |
 ## Awards
 Max (Relaxing): 33  (Ranked 449)  
-Sum: 164 (Ranked 391)  
+Sum: 165 (Ranked 391)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
@@ -187,7 +187,7 @@ Diff (max vs sum): 58
 | This game is Highly Recommended | 28 |
 | This game is Extremely Fun | 27 |
 | This game is Great for Beginners | 25 |
-| This game has Quickly Understood Controls | 20 |
+| This game has Quickly Understood Controls | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -248,3 +248,4 @@ Diff (max vs sum): 58
 | 2023-08-23 | 4.16 | - | 33 | 163 |
 | 2023-08-28 | 4.15 | - | 33 | 163 |
 | 2023-08-30 | 4.15 | - | 33 | 164 |
+| 2023-08-31 | 4.15 | - | 33 | 165 |

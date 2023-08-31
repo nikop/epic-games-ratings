@@ -3,9 +3,9 @@
   "Name": "Disney Speedstorm",
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 160,
-  "Ranking_EOS_Completed": 49,
-  "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_Completed": 48,
+  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -15,11 +15,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3137,
-  "EOS_Completed": 167,
-  "EOS_NewPlayers": 14,
-  "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 5.32,
+  "EOS_Progressed": 3138,
+  "EOS_Completed": 168,
+  "EOS_NewPlayers": 15,
+  "EOS_NewCompleters": 9,
+  "EOS_Completed_Percentage": 5.35,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:49:22.8918022+00:00",
@@ -4470,6 +4470,11 @@
       "Time": "2023-08-31T14:03:50.9482296+00:00",
       "NumProgressed": 3137,
       "NumCompleted": 167
+    },
+    {
+      "Time": "2023-08-31T20:04:39.1313109+00:00",
+      "NumProgressed": 3138,
+      "NumCompleted": 168
     }
   ],
   "TotalAchievements": 24,
@@ -4495,9 +4500,9 @@
       "ID": "11",
       "SetID": "9p3jgda",
       "Name": "PERFECTLY POISED",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 376
+      "UsersEstimate": 408
     },
     {
       "ID": "12",
@@ -4577,7 +4582,7 @@
       "Name": "PROTECTED",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 1035
+      "UsersEstimate": 1036
     },
     {
       "ID": "21",
@@ -4593,7 +4598,7 @@
       "Name": "THE EYE OF THE HUNTER",
       "Percentage": 12,
       "XP": 55,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "23",
@@ -4633,7 +4638,7 @@
       "Name": "ROOKIE",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1694
+      "UsersEstimate": 1695
     },
     {
       "ID": "6",
@@ -4657,7 +4662,7 @@
       "Name": "ACE TRICKSTER",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "9",
@@ -4672,13 +4677,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3137,
-      "Completed": 167
+      "Progressed": 3138,
+      "Completed": 168
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-08-31T19:03:59.1961467+00:00",
+  "LastChanged_Achievements": "2023-08-31T20:04:39.1313105+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:21.5696846+00:00",
-  "LastUpdate_Ratings": "2023-08-31T18:58:01.9344122+00:00",
-  "LastUpdate_Achievements": "2023-08-31T19:03:59.1961824+00:00"
+  "LastUpdate_Ratings": "2023-08-31T19:58:12.8401449+00:00",
+  "LastUpdate_Achievements": "2023-08-31T20:04:39.1313474+00:00"
 }

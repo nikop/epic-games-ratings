@@ -29,8 +29,8 @@ Rating: 4.60 (Ranked 394)
 | The Loose Cannon | 16.00% | ~136 |
 | Check Your Pulse | 16.00% | ~136 |
 | The Family Fortune | 16.00% | ~136 |
+| Street Style | 15.00% | ~128 |
 | Treasure Trove | 14.00% | ~119 |
-| Street Style | 14.00% | ~119 |
 | Cartographer | 14.00% | ~119 |
 | Whiz Kid | 12.00% | ~102 |
 | Chaincrawler Explorer | 11.00% | ~94 |
@@ -38,12 +38,12 @@ Rating: 4.60 (Ranked 394)
 | Good Neighbor | 11.00% | ~94 |
 | Theater Explorer | 10.00% | ~85 |
 | Ask Questions Later | 10.00% | ~85 |
+| Factorywood Explorer | 9.00% | ~77 |
 | Fairgrounds Explorer | 9.00% | ~77 |
 | Sump Explorer | 9.00% | ~77 |
 | Syron for Hope | 9.00% | ~77 |
 | Cultivair Explorer | 8.00% | ~68 |
 | Entresol Explorer | 8.00% | ~68 |
-| Factorywood Explorer | 8.00% | ~68 |
 | Corin Goes Home | 7.00% | ~60 |
 | Sartorialist | 7.00% | ~60 |
 | Golem Hunter | 6.00% | ~51 |
