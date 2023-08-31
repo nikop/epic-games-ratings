@@ -3,7 +3,7 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.00% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.31% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 35.85% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 35.51% |
 | 5 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 33.33% |
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.95% |
 | 7 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
@@ -61,12 +61,12 @@
 | 58 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.17% |
 | 60 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.08% |
 | 61 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.98% |
-| 62 | [ZZT!](games/z/zzt!.md) | 3.95% |
+| 61 | [ZZT!](games/z/zzt!.md) | 3.98% |
 | 63 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 64 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 3.70% |
-| 65 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 3.57% |
-| 66 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
-| 67 | [Without Escape](games/w/without_escape.md) | 3.45% |
+| 65 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
+| 66 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 3.45% |
+| 66 | [Without Escape](games/w/without_escape.md) | 3.45% |
 | 68 | [Doodle God](games/d/doodle_god.md) | 3.40% |
 | 69 | [Bunny Park](games/b/bunny_park.md) | 3.37% |
 | 70 | [The Complex](games/t/the_complex.md) | 3.32% |
@@ -166,11 +166,11 @@
 | 163 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.37% |
 | 163 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 166 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.36% |
+| 166 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.36% |
 | 166 | [Wildermyth](games/w/wildermyth.md) | 0.36% |
-| 168 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.35% |
-| 168 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.35% |
-| 168 | [The Surge](games/t/the_surge.md) | 0.35% |
-| 168 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.35% |
+| 169 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.35% |
+| 169 | [The Surge](games/t/the_surge.md) | 0.35% |
+| 169 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.35% |
 | 172 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.34% |
 | 173 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.33% |
 | 174 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
@@ -565,4 +565,4 @@
 | 266 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 266 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 266 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,150 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,151 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
