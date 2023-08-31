@@ -5,11 +5,11 @@ Rating: 4.48 (Ranked 599)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 82.00% | ~2,626 |
-| Snatched Out | 75.00% | ~2,402 |
-| Keep 'Em Coming | 74.00% | ~2,370 |
-| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,146 |
-| Call Me Snake | 63.00% | ~2,018 |
+| This Is Hayes, Pioneer Station, Signing Off | 82.00% | ~2,627 |
+| Snatched Out | 75.00% | ~2,403 |
+| Keep 'Em Coming | 74.00% | ~2,371 |
+| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,147 |
+| Call Me Snake | 63.00% | ~2,019 |
 | Something Lurks Under The Hills | 61.00% | ~1,954 |
 | This Was No Papercut | 60.00% | ~1,922 |
 | The Shrink Hates Me | 57.00% | ~1,826 |
@@ -17,11 +17,11 @@ Rating: 4.48 (Ranked 599)
 | Use The Bumper, That's What It's For | 53.00% | ~1,698 |
 | First Steps Into Madness | 53.00% | ~1,698 |
 | Colonial Barrels | 51.00% | ~1,634 |
-| Harper's Hell | 45.00% | ~1,441 |
-| Making a Stand | 44.00% | ~1,409 |
-| Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,345 |
-| Where It All Begun | 40.00% | ~1,281 |
-| Recouped Investment | 39.00% | ~1,249 |
+| Harper's Hell | 45.00% | ~1,442 |
+| Making a Stand | 44.00% | ~1,410 |
+| Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,346 |
+| Where It All Begun | 40.00% | ~1,282 |
+| Recouped Investment | 39.00% | ~1,250 |
 | Omelette Du Fromage | 34.00% | ~1,089 |
 | Living Nightmare | 33.00% | ~1,057 |
 | The More The Merrier | 33.00% | ~1,057 |
@@ -38,8 +38,8 @@ Rating: 4.48 (Ranked 599)
 | Abysmal Horrors | 20.00% | ~641 |
 | The Cable Guy | 19.00% | ~609 |
 | Bandage Lover | 18.00% | ~577 |
-| Regicide | 15.00% | ~480 |
-| This Went Smoothly | 13.00% | ~416 |
+| Regicide | 15.00% | ~481 |
+| This Went Smoothly | 13.00% | ~417 |
 | Flawless Victory | 12.00% | ~384 |
 | Heavy Steps | 12.00% | ~384 |
 | Perfect Enhancements | 9.00% | ~288 |
@@ -51,7 +51,7 @@ Rating: 4.48 (Ranked 599)
 | This Ain't No Picnic | 0.70% | ~22 |
 | Chalk It Up To Experience | 0.70% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,203 (Ranked 156)  
+Progressed: 3,204 (Ranked 156)  
 Completed: 3 (0.09%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 3 (0.09%) (Ranked 218)
 | 2023-08-27 | 3,192 | 3 |
 | 2023-08-28 | 3,198 | 3 |
 | 2023-08-30 | 3,202 | 3 |
-| 2023-08-31 | 3,203 | 3 |
+| 2023-08-31 | 3,204 | 3 |
 ## Awards
 Max (Great Boss Battles): 26  (Ranked 476)  
 Sum: 26 (Ranked 484)  

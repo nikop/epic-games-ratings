@@ -4,7 +4,7 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 722,
+  "EOS_Progressed": 723,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -733,6 +733,11 @@
       "Time": "2023-08-30T21:05:41.6340753+00:00",
       "NumProgressed": 722,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-31T09:05:54.6697874+00:00",
+      "NumProgressed": 723,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -816,7 +821,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 700
+      "UsersEstimate": 701
     },
     {
       "ID": "Achievement_DustToDust",
@@ -976,7 +981,7 @@
       "Name": "Mutiny in making",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "Achievement_Muttnik",
@@ -1040,7 +1045,7 @@
       "Name": "Space Engineer",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "Achievement_SpaceExplorer",
@@ -1064,7 +1069,7 @@
       "Name": "Stay Cool",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "Achievement_ThatsNoMoon",
@@ -1088,14 +1093,14 @@
       "Name": "Et tu, Astrocitizen?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     }
   ],
   "AchievementSets": [
     {
       "ID": "c01p6e5",
       "IsBase": true,
-      "Progressed": 722,
+      "Progressed": 723,
       "Completed": 1
     }
   ],
@@ -1103,8 +1108,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-08-31T08:05:28.3564955+00:00",
+  "LastChanged_Achievements": "2023-08-31T09:05:54.6697868+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:08.2198018+00:00",
-  "LastUpdate_Ratings": "2023-08-31T07:59:26.018675+00:00",
-  "LastUpdate_Achievements": "2023-08-31T08:05:28.3565378+00:00"
+  "LastUpdate_Ratings": "2023-08-31T09:00:22.6807803+00:00",
+  "LastUpdate_Achievements": "2023-08-31T09:05:54.6698569+00:00"
 }

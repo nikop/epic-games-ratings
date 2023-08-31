@@ -2,7 +2,7 @@
   "ID": "810797d6d1c640068ce75d45b85d2423",
   "Name": "It\u0027s a Wrap!",
   "ProductSlug": "its-a-wrap-f392ae",
-  "Ranking_EOS_Progress": 387,
+  "Ranking_EOS_Progress": 385,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 103,
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 49,
+  "EOS_Progressed": 50,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -211,6 +211,11 @@
       "Time": "2023-08-31T07:06:40.3393373+00:00",
       "NumProgressed": 49,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-31T09:08:14.6555383+00:00",
+      "NumProgressed": 50,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-23T18:07:41.5840272+00:00",
@@ -223,7 +228,7 @@
       "Name": "Under the Bridge",
       "Percentage": 76,
       "XP": 25,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "1_50_SECRET",
@@ -334,14 +339,14 @@
     {
       "ID": "2l1dk5b",
       "IsBase": true,
-      "Progressed": 49,
+      "Progressed": 50,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-25T08:57:40.9970991+00:00",
   "FirstSeenAchievements": "2023-08-01T21:04:35.2343064+00:00",
-  "LastChanged_Achievements": "2023-08-31T08:09:12.7482504+00:00",
+  "LastChanged_Achievements": "2023-08-31T09:08:14.6555376+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:00.6888694+00:00",
-  "LastUpdate_Ratings": "2023-08-31T07:58:21.2676102+00:00",
-  "LastUpdate_Achievements": "2023-08-31T08:09:12.7482633+00:00"
+  "LastUpdate_Ratings": "2023-08-31T08:59:01.0599442+00:00",
+  "LastUpdate_Achievements": "2023-08-31T09:08:14.6555583+00:00"
 }

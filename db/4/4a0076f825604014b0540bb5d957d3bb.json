@@ -318,9 +318,9 @@
       "ID": "CgkInO_K3eIdEAIQBA",
       "SetID": "6bj96in",
       "Name": "TRAINING DAY",
-      "Percentage": 84,
+      "Percentage": 86,
       "XP": 40,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "CgkInO_K3eIdEAIQBQ",
@@ -414,9 +414,9 @@
       "ID": "CgkInO_K3eIdEAIQEA",
       "SetID": "6bj96in",
       "Name": "EAGLE EYED",
-      "Percentage": 77,
+      "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "CgkInO_K3eIdEAIQEQ",
@@ -509,8 +509,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-08-31T08:07:13.1715812+00:00",
+  "LastChanged_Achievements": "2023-08-31T09:08:04.3394417+00:00",
   "LastUpdate_AppInfo": "2023-08-30T18:57:07.0572196+00:00",
-  "LastUpdate_Ratings": "2023-08-31T07:59:36.21818+00:00",
-  "LastUpdate_Achievements": "2023-08-31T08:07:13.1716012+00:00"
+  "LastUpdate_Ratings": "2023-08-31T09:00:35.8710737+00:00",
+  "LastUpdate_Achievements": "2023-08-31T09:08:04.3394627+00:00"
 }

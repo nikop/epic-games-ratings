@@ -6,7 +6,7 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~13,140 |
+| Sink Beneath the Waves | 36.00% | ~13,141 |
 | Sweet Sorrow | 18.00% | ~6,570 |
 | Rules the Waves | 17.00% | ~6,205 |
 | Thou, All-Shaking Thunder | 15.00% | ~5,475 |
@@ -48,20 +48,20 @@ Number of Ratings: 401  (23.09.2022)
 | No regrets | 0.90% | ~329 |
 | Depth charge | 0.90% | ~329 |
 | A zee-change | 0.80% | ~292 |
-| What lies beneath | 0.70% | ~255 |
-| Stone's Curse | 0.70% | ~255 |
-| Five Years at Zee | 0.50% | ~182 |
+| What lies beneath | 0.70% | ~256 |
+| Stone's Curse | 0.70% | ~256 |
+| Five Years at Zee | 0.50% | ~183 |
 | The Lady's Parlour | 0.20% | ~73 |
 | A Past Wreathed in Shadows | 0.20% | ~73 |
 | Under pressure | 0.20% | ~73 |
-| A Drownie devotee | 0.10% | ~36 |
-| Romans 6:9 | 0.10% | ~36 |
-| Ofermod | 0.10% | ~36 |
-| Consider Phlebas | 0.10% | ~36 |
-| Death By Water | 0.10% | ~36 |
-| Ten Years at Zee | 0.10% | ~36 |
+| A Drownie devotee | 0.10% | ~37 |
+| Romans 6:9 | 0.10% | ~37 |
+| Ofermod | 0.10% | ~37 |
+| Consider Phlebas | 0.10% | ~37 |
+| Death By Water | 0.10% | ~37 |
+| Ten Years at Zee | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36,500 (Ranked 98)  
+Progressed: 36,502 (Ranked 98)  
 Completed: 3 (0.01%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 3 (0.01%) (Ranked 253)
 | 2023-08-28 | 36,375 | 3 |
 | 2023-08-29 | 36,430 | 3 |
 | 2023-08-30 | 36,480 | 3 |
-| 2023-08-31 | 36,500 | 3 |
+| 2023-08-31 | 36,502 | 3 |
 ## Awards
 Max (Character Customization): 213  (Ranked 270)  
 Sum: 283 (Ranked 344)  

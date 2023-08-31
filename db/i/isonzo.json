@@ -4798,9 +4798,9 @@
       "ID": "ISONZO_ACH_AURELIO_BARUZZI",
       "SetID": "akchbl3",
       "Name": "Aurelio Baruzzi",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 1542
+      "UsersEstimate": 1609
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -5159,8 +5159,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-08-30T00:00:54.0395213+00:00",
-  "LastChanged_Achievements": "2023-08-31T08:04:32.125498+00:00",
+  "LastChanged_Achievements": "2023-08-31T09:04:45.0493642+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:40.0989938+00:00",
-  "LastUpdate_Ratings": "2023-08-31T08:00:17.3864586+00:00",
-  "LastUpdate_Achievements": "2023-08-31T08:04:32.1255603+00:00"
+  "LastUpdate_Ratings": "2023-08-31T09:01:29.6912383+00:00",
+  "LastUpdate_Achievements": "2023-08-31T09:04:45.0494684+00:00"
 }

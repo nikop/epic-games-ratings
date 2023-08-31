@@ -7179,9 +7179,9 @@
       "Count": 918
     }
   ],
-  "EOS_Progressed": 116433,
+  "EOS_Progressed": 116434,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 715,
+  "EOS_NewPlayers": 712,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20349,6 +20349,11 @@
       "Time": "2023-08-31T08:05:48.5450184+00:00",
       "NumProgressed": 116433,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-31T09:06:20.221938+00:00",
+      "NumProgressed": 116434,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 65,
@@ -20360,7 +20365,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 81503
+      "UsersEstimate": 81504
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -20368,7 +20373,7 @@
       "Name": "Serenity Now!",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 61709
+      "UsersEstimate": 61710
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -20392,7 +20397,7 @@
       "Name": "Resurrection",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 72188
+      "UsersEstimate": 72189
     },
     {
       "ID": "altar_of_hope_unlock_hero_hellion",
@@ -20400,7 +20405,7 @@
       "Name": "Unleash Hell",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 79174
+      "UsersEstimate": 79175
     },
     {
       "ID": "altar_of_hope_unlock_hero_jester",
@@ -20408,7 +20413,7 @@
       "Name": "Funny Guy",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 78010
+      "UsersEstimate": 78011
     },
     {
       "ID": "altar_of_hope_unlock_hero_leper",
@@ -20424,7 +20429,7 @@
       "Name": "Wyrdly Reconstructed",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 72188
+      "UsersEstimate": 72189
     },
     {
       "ID": "altar_of_hope_unlock_hero_runaway",
@@ -20440,7 +20445,7 @@
       "Name": "Unfulfilled Desires",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 79174
+      "UsersEstimate": 79175
     },
     {
       "ID": "altar_of_hope_upgrade_total_full",
@@ -20464,7 +20469,7 @@
       "Name": "Hope Rekindled",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 58216
+      "UsersEstimate": 58217
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -20736,7 +20741,7 @@
       "Name": "Whale",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 36094
+      "UsersEstimate": 36095
     },
     {
       "ID": "hospital_full_service",
@@ -20752,7 +20757,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 108283
+      "UsersEstimate": 108284
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -20816,7 +20821,7 @@
       "Name": "Unshackled",
       "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 78010
+      "UsersEstimate": 78011
     },
     {
       "ID": "run_victory_act02",
@@ -20879,15 +20884,15 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 116433,
+      "Progressed": 116434,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-08-30T19:59:24.2905281+00:00",
-  "LastChanged_Achievements": "2023-08-31T08:05:48.5450179+00:00",
+  "LastChanged_Achievements": "2023-08-31T09:06:20.2219371+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:29.712133+00:00",
-  "LastUpdate_Ratings": "2023-08-31T07:58:46.8705189+00:00",
-  "LastUpdate_Achievements": "2023-08-31T08:05:48.5451445+00:00"
+  "LastUpdate_Ratings": "2023-08-31T08:59:33.9210634+00:00",
+  "LastUpdate_Achievements": "2023-08-31T09:06:20.2221903+00:00"
 }

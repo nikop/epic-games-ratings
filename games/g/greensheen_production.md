@@ -4,6 +4,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | What's in the box?! | 50.00% | ~2 |
+| Foraged | 25.00% | ~1 |
+| Fair Prey | 25.00% | ~1 |
 | Evasive prey | 25.00% | ~1 |
 | In The Palm Of My Hand | 0.00% | ~0 |
 | Bully of Bullies | 0.00% | ~0 |
@@ -12,7 +14,6 @@
 | Hospitalised | 0.00% | ~0 |
 | Paled | 0.00% | ~0 |
 | Schooled | 0.00% | ~0 |
-| Foraged | 0.00% | ~0 |
 | Merciful feat | 0.00% | ~0 |
 | Hunger | 0.00% | ~0 |
 | Far Ahead | 0.00% | ~0 |
@@ -23,7 +24,6 @@
 | Half hat | 0.00% | ~0 |
 | ...And Stay Dead! | 0.00% | ~0 |
 | Objection | 0.00% | ~0 |
-| Fair Prey | 0.00% | ~0 |
 | Sick Kids | 0.00% | ~0 |
 | Pale Kids | 0.00% | ~0 |
 | School Kids | 0.00% | ~0 |

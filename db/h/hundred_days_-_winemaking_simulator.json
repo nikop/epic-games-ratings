@@ -5,7 +5,7 @@
   "Ranking_Rating": 756,
   "Ranking_Popularity": 273,
   "Ranking_PopularitySum": 224,
-  "Ranking_EOS_Progress": 280,
+  "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 103,
@@ -952,9 +952,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 268,
+  "EOS_Progressed": 279,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 263,
+  "EOS_NewPlayers": 274,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1067,6 +1067,11 @@
       "Time": "2023-08-31T08:06:33.3042134+00:00",
       "NumProgressed": 268,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-31T09:07:15.2878557+00:00",
+      "NumProgressed": 279,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -1077,9 +1082,9 @@
       "ID": "a_1",
       "SetID": "daiie3o",
       "Name": "It\u0027s a good start",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "a_10",
@@ -1093,17 +1098,17 @@
       "ID": "a_11",
       "SetID": "daiie3o",
       "Name": "A lot of space",
-      "Percentage": 0.4,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "a_12",
       "SetID": "daiie3o",
       "Name": "A big garage",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "a_15",
@@ -1125,9 +1130,9 @@
       "ID": "a_18",
       "SetID": "daiie3o",
       "Name": "Bye Bye",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 61
     },
     {
       "ID": "a_19",
@@ -1135,7 +1140,7 @@
       "Name": "Bonjour!",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "a_2",
@@ -1167,7 +1172,7 @@
       "Name": "A long journey",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "a_23",
@@ -1175,7 +1180,7 @@
       "Name": "Quack",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "a_25",
@@ -1191,7 +1196,7 @@
       "Name": "Exotic",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "a_27",
@@ -1277,9 +1282,9 @@
       "ID": "a_4",
       "SetID": "daiie3o",
       "Name": "King of Langhe",
-      "Percentage": 0,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "a_5",
@@ -1326,7 +1331,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 268,
+      "Progressed": 279,
       "Completed": 0
     }
   ],
@@ -1334,8 +1339,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-08-28T14:01:21.7581903+00:00",
-  "LastChanged_Achievements": "2023-08-31T08:06:33.3042123+00:00",
+  "LastChanged_Achievements": "2023-08-31T09:07:15.287855+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:37.0274623+00:00",
-  "LastUpdate_Ratings": "2023-08-31T08:03:10.7016764+00:00",
-  "LastUpdate_Achievements": "2023-08-31T08:06:33.3042382+00:00"
+  "LastUpdate_Ratings": "2023-08-31T09:01:44.8287474+00:00",
+  "LastUpdate_Achievements": "2023-08-31T09:07:15.2878936+00:00"
 }

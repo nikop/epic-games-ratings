@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
@@ -685,9 +685,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 36500,
+  "EOS_Progressed": 36502,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 411,
+  "EOS_NewPlayers": 412,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -14245,6 +14245,11 @@
       "Time": "2023-08-31T08:07:07.1428627+00:00",
       "NumProgressed": 36500,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-31T09:07:56.7185538+00:00",
+      "NumProgressed": 36502,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -14296,7 +14301,7 @@
       "Name": "What lies beneath",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "ach_contdrownie",
@@ -14304,7 +14309,7 @@
       "Name": "A Drownie devotee",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ach_controman",
@@ -14312,7 +14317,7 @@
       "Name": "Romans 6:9",
       "Percentage": 0.1,
       "XP": 70,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ach_cursesalt",
@@ -14328,7 +14333,7 @@
       "Name": "Stone\u0027s Curse",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "ach_cursestorm",
@@ -14352,7 +14357,7 @@
       "Name": "Ofermod",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ach_deathphlebas",
@@ -14360,7 +14365,7 @@
       "Name": "Consider Phlebas",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ach_deathwat",
@@ -14368,7 +14373,7 @@
       "Name": "Death By Water",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ach_die1",
@@ -14376,7 +14381,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 13140
+      "UsersEstimate": 13141
     },
     {
       "ID": "ach_die10",
@@ -14672,7 +14677,7 @@
       "Name": "Ten Years at Zee",
       "Percentage": 0.1,
       "XP": 70,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ach_year5",
@@ -14680,22 +14685,22 @@
       "Name": "Five Years at Zee",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     }
   ],
   "AchievementSets": [
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 36500,
+      "Progressed": 36502,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-07-28T14:59:59.8138313+00:00",
-  "LastChanged_Achievements": "2023-08-31T08:07:07.1428622+00:00",
+  "LastChanged_Achievements": "2023-08-31T09:07:56.7185533+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:17.5524707+00:00",
-  "LastUpdate_Ratings": "2023-08-31T07:58:37.3628924+00:00",
-  "LastUpdate_Achievements": "2023-08-31T08:07:07.1429827+00:00"
+  "LastUpdate_Ratings": "2023-08-31T08:59:21.6832445+00:00",
+  "LastUpdate_Achievements": "2023-08-31T09:07:56.7187846+00:00"
 }

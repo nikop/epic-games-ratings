@@ -6,10 +6,10 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 0.60% | ~4,991 |
-| MU/TH/UR Dearest | 0.60% | ~4,991 |
-| Zealous | 0.50% | ~4,159 |
-| Skillful | 0.50% | ~4,159 |
+| MU/TH/UR Dearest | 0.70% | ~5,824 |
+| It wakes | 0.60% | ~4,992 |
+| Zealous | 0.50% | ~4,160 |
+| Skillful | 0.50% | ~4,160 |
 | Not half bad | 0.40% | ~3,328 |
 | Apt Survivor | 0.40% | ~3,328 |
 | Survival Treasures | 0.40% | ~3,328 |
@@ -21,6 +21,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Medic | 0.30% | ~2,496 |
 | Handyman | 0.30% | ~2,496 |
 | Nerves of steel | 0.30% | ~2,496 |
+| Perfect Escape | 0.30% | ~2,496 |
 | Bloody Millionaire | 0.30% | ~2,496 |
 | I | 0.30% | ~2,496 |
 | Sorted | 0.30% | ~2,496 |
@@ -28,7 +29,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Resurgence | 0.30% | ~2,496 |
 | Agonizing Escape | 0.20% | ~1,664 |
 | I've got your back | 0.20% | ~1,664 |
-| Perfect Escape | 0.20% | ~1,664 |
 | Perfect Killing | 0.20% | ~1,664 |
 | Apt Killer | 0.20% | ~1,664 |
 | Risk it all | 0.20% | ~1,664 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~832 |
 | Adept Ripley | 0.10% | ~832 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 831,889 (Ranked 15)  
+Progressed: 831,958 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -369,7 +369,7 @@ Completed: 48 (0.01%) (Ranked 253)
 | 2023-08-28 | 824,988 | 48 |
 | 2023-08-29 | 828,020 | 48 |
 | 2023-08-30 | 831,117 | 48 |
-| 2023-08-31 | 831,889 | 48 |
+| 2023-08-31 | 831,958 | 48 |
 ## Awards
 Max (Diverse Characters): 31,726  (Ranked 15)  
 Sum: 248,681 (Ranked 11)  

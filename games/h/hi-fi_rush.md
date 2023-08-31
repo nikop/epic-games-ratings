@@ -47,7 +47,7 @@ Rating: 4.87 (Ranked 25)
 | Call me Turbo Chai | 1.00% | ~25 |
 | I'm not done with you yet | 0.80% | ~32 |
 | This is a breeze! | 0.70% | ~28 |
-| You ever parry a volcano? | 0.60% | ~24 |
+| You ever parry a volcano? | 0.70% | ~28 |
 | New bad guys? No problem! | 0.60% | ~15 |
 | Easy Listening | 0.50% | ~20 |
 | OK, well THEY came after ME! | 0.50% | ~20 |
