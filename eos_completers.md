@@ -3,7 +3,7 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.00% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.31% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 35.58% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 34.91% |
 | 5 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 33.33% |
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.95% |
 | 7 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
@@ -37,7 +37,7 @@
 | 35 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.61% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.73% |
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
-| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.12% |
+| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.11% |
 | 39 | [Scorn](games/s/scorn.md) | 7.00% |
 | 40 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.90% |
 | 41 | [Time Loader](games/t/time_loader.md) | 6.78% |
@@ -63,8 +63,8 @@
 | 61 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.98% |
 | 62 | [ZZT!](games/z/zzt!.md) | 3.95% |
 | 63 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
-| 64 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 3.70% |
 | 64 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 3.70% |
+| 65 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 3.57% |
 | 66 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 67 | [Without Escape](games/w/without_escape.md) | 3.45% |
 | 68 | [Doodle God](games/d/doodle_god.md) | 3.40% |
@@ -92,12 +92,12 @@
 | 90 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.24% |
 | 91 | [Bloodshore](games/b/bloodshore.md) | 2.20% |
 | 92 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
-| 93 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.12% |
+| 93 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.11% |
 | 94 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.00% |
 | 95 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
 | 96 | [Night Book](games/n/night_book.md) | 1.86% |
 | 97 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
-| 98 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.83% |
+| 98 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 99 | [Sifu](games/s/sifu.md) | 1.81% |
 | 100 | [Frogun](games/f/frogun.md) | 1.80% |
 | 101 | [Somerville](games/s/somerville.md) | 1.66% |
