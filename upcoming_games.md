@@ -406,7 +406,7 @@
 | [Survive The Unknown](games/s/survive_the_unknown.md) | 2099-01-01 | - |  | - | - |
 | [Surviving The Humans ACT 1](games/s/surviving_the_humans_act_1.md) | 2099-01-01 | - |  | - | - |
 | [Swarm Grinder](games/9/9e20456aa9964c3287bda848105582e2.md) | 2099-01-01 | - |  | - | - |
-| [Sword and Fairy Inn 2](games/5/511787884bc344e080cf5ae502e8092d.md) | 2099-01-01 | - |  | - | - |
+| [Sword and Fairy Inn 2](games/5/511787884bc344e080cf5ae502e8092d.md) | 2099-01-01 | 50 (1,000 XP) | 0 | - | - |
 | [Sword of the Spirit](games/s/sword_of_the_spirit.md) | 2099-01-01 | - |  | - | - |
 | [Tad the Lost Explorer](games/t/tad_the_lost_explorer.md) | 2099-01-01 | 27 (1,000 XP) | 1 | - | - |
 | [Tavernacle](games/t/tavernacle.md) | 2099-01-01 | - |  | - | - |

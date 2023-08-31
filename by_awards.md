@@ -188,9 +188,9 @@
 | 185 | [Riders Republic](games/r/riders_republic.md) | 575 | 4.75 | 134 |
 | 187 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 574 | 4.23 | 848 |
 | 188 | [MORDHAU](games/m/mordhau.md) | 564 | 4.39 | 717 |
-| 189 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 562 | 4.62 | 353 |
-| 189 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 562 | 4.68 | 240 |
-| 189 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 562 | 4.66 | 280 |
+| 189 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 563 | 4.62 | 353 |
+| 190 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 562 | 4.68 | 240 |
+| 190 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 562 | 4.66 | 280 |
 | 192 | [Filament](games/f/filament.md) | 561 | 4.32 | 781 |
 | 193 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 559 | 4.40 | 708 |
 | 194 | [Vampyr](games/v/vampyr.md) | 555 | 4.32 | 781 |

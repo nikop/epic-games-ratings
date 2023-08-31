@@ -503,6 +503,7 @@
 | [Supraland Six Inches Under](../games/s/supraland_six_inches_under.md) | 53 | 1,000 |
 | [Surviving the Aftermath](../games/s/surviving_the_aftermath__founder's_edition.md) | 59 | 1,000 |
 | [Switchball HD](../games/s/switchball_hd.md) | 9 | 1,000 |
+| [Sword and Fairy Inn 2](../games/5/511787884bc344e080cf5ae502e8092d.md) | 50 | 1,000 |
 | [Swordship](../games/s/swordship.md) | 17 | 1,000 |
 | [Syberia: The World Before](../games/s/syberia__the_world_before.md) | 31 | 1,000 |
 | [Sylvio And The Mountains Giants](../games/e/eeeac1c46be840b1a8977237cbeb6b09.md) | 10 | 1,000 |

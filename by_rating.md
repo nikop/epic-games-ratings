@@ -251,7 +251,7 @@
 | 240 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 304,360 | 3 |
 | 240 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 218,241 | 4 |
 | 240 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 514 |
-| 240 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 562 | 189 |
+| 240 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 562 | 190 |
 | 240 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 683 | 170 |
 | 240 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.68 | 52 | 399 |
 | 240 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.68 | 0 | 514 |
@@ -290,7 +290,7 @@
 | 280 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.66 | 51 | 400 |
 | 280 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 1,061 | 141 |
 | 280 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 1,912 | 110 |
-| 280 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 562 | 189 |
+| 280 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 562 | 190 |
 | 280 | [SOMA](games/s/soma.md) | 4.66 | 0 | 514 |
 | 280 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.66 | 0 | 514 |
 | 280 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.66 | 105 | 331 |
@@ -358,7 +358,7 @@
 | 353 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 76 | 367 |
 | 353 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,449 | 124 |
 | 353 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.62 | 377 | 223 |
-| 353 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 562 | 189 |
+| 353 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 563 | 189 |
 | 353 | [Limbo](games/l/limbo.md) | 4.62 | 0 | 514 |
 | 353 | [NORCO](games/n/norco.md) | 4.62 | 0 | 514 |
 | 353 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 0 | 514 |
