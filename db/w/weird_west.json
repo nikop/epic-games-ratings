@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 173,
   "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -2172,9 +2172,9 @@
       "ID": "ACH_MOON_HUNTER",
       "SetID": "8j30i9k",
       "Name": "Moon Hunter",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_MYSTERY_MACHINE",
@@ -2388,8 +2388,8 @@
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-08-25T13:05:53.0573208+00:00",
-  "LastChanged_Achievements": "2023-08-31T01:46:17.7081347+00:00",
+  "LastChanged_Achievements": "2023-08-31T02:20:30.3878621+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:16.0649868+00:00",
-  "LastUpdate_Ratings": "2023-08-31T01:38:19.1263702+00:00",
-  "LastUpdate_Achievements": "2023-08-31T01:46:17.7081943+00:00"
+  "LastUpdate_Ratings": "2023-08-31T02:12:20.3374216+00:00",
+  "LastUpdate_Achievements": "2023-08-31T02:20:30.3879211+00:00"
 }

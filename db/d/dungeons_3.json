@@ -2560,9 +2560,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 29017,
+  "EOS_Progressed": 29018,
   "EOS_Completed": 241,
-  "EOS_NewPlayers": 758,
+  "EOS_NewPlayers": 757,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.83,
   "EosHistory": [
@@ -16925,6 +16925,11 @@
       "Time": "2023-08-31T01:47:01.6137582+00:00",
       "NumProgressed": 29017,
       "NumCompleted": 241
+    },
+    {
+      "Time": "2023-08-31T02:21:15.8305914+00:00",
+      "NumProgressed": 29018,
+      "NumCompleted": 241
     }
   ],
   "TotalAchievements": 60,
@@ -17048,7 +17053,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 14218
+      "UsersEstimate": 14219
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -17072,7 +17077,7 @@
       "Name": "Stock Market Crash",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 8995
+      "UsersEstimate": 8996
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_1",
@@ -17096,7 +17101,7 @@
       "Name": "The last burger",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 10736
+      "UsersEstimate": 10737
     },
     {
       "ID": "ACH_D3_Campaign_Fire_1",
@@ -17128,7 +17133,7 @@
       "Name": "Braiiiiins!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 10736
+      "UsersEstimate": 10737
     },
     {
       "ID": "ACH_D3_Campaign_Graves_2",
@@ -17144,7 +17149,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 12477
+      "UsersEstimate": 12478
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -17216,7 +17221,7 @@
       "Name": "Destroy the thing",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 7544
+      "UsersEstimate": 7545
     },
     {
       "ID": "ACH_D3_Campaign_Pain_1",
@@ -17296,7 +17301,7 @@
       "Name": "Factory farming",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 8995
+      "UsersEstimate": 8996
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_2",
@@ -17360,7 +17365,7 @@
       "Name": "The Victorious Evil",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 5803
+      "UsersEstimate": 5804
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_1",
@@ -17408,22 +17413,22 @@
       "Name": "Tide Master",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 7544
+      "UsersEstimate": 7545
     }
   ],
   "AchievementSets": [
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 29017,
+      "Progressed": 29018,
       "Completed": 241
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-08-30T23:58:52.9787151+00:00",
-  "LastChanged_Achievements": "2023-08-31T01:47:01.6137576+00:00",
+  "LastChanged_Achievements": "2023-08-31T02:21:15.8305909+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:56.1449078+00:00",
-  "LastUpdate_Ratings": "2023-08-31T01:39:10.5056866+00:00",
-  "LastUpdate_Achievements": "2023-08-31T01:47:01.6139148+00:00"
+  "LastUpdate_Ratings": "2023-08-31T02:13:15.7793567+00:00",
+  "LastUpdate_Achievements": "2023-08-31T02:21:15.8307335+00:00"
 }

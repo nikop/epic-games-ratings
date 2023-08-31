@@ -75,6 +75,7 @@
 | 80Gb HDD | 2.00% | ~1 |
 | Galactic Captain | 2.00% | ~1 |
 | You've drone good! | 2.00% | ~1 |
+| Silver Alchemist | 2.00% | ~1 |
 | System Captain | 2.00% | ~1 |
 | Silver BBQ | 2.00% | ~1 |
 | Collateral Damage III | 2.00% | ~1 |
@@ -124,7 +125,6 @@
 | Surrounded | 0.00% | ~0 |
 | Silver Tovarish | 0.00% | ~0 |
 | Archer's Silver Fate | 0.00% | ~0 |
-| Silver Alchemist | 0.00% | ~0 |
 | Magic Silver mirror; on the wall | 0.00% | ~0 |
 | Galactic Captain | 0.00% | ~0 |
 | Universal Captain | 0.00% | ~0 |

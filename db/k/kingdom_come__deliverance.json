@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 45,
   "Ranking_EOS_Progress": 16,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 52,
+  "Ranking_EOS_NewPlayers": 53,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
@@ -6778,10 +6778,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 27605,
       "NumberOfAwardsMax": 7414
+    },
+    {
+      "Time": "2023-08-31T02:12:29.8867619+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 27606,
+      "NumberOfAwardsMax": 7414
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27605,
+  "NumberOfAwards": 27606,
   "NumberOfAwardsMax": 7414,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6801,7 +6807,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1650
+      "Count": 1651
     },
     {
       "Text": "This game is Extremely Fun",
@@ -6864,9 +6870,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 799178,
+  "EOS_Progressed": 799180,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 976,
+  "EOS_NewPlayers": 975,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -21474,6 +21480,11 @@
       "Time": "2023-08-31T01:44:31.6808514+00:00",
       "NumProgressed": 799178,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-08-31T02:18:43.0704477+00:00",
+      "NumProgressed": 799180,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 82,
@@ -21509,7 +21520,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 127868
+      "UsersEstimate": 127869
     },
     {
       "ID": "Awakening",
@@ -21517,7 +21528,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 167827
+      "UsersEstimate": 167828
     },
     {
       "ID": "BadGirl",
@@ -21565,7 +21576,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 255737
+      "UsersEstimate": 255738
     },
     {
       "ID": "Bookworm",
@@ -21581,7 +21592,7 @@
       "Name": "Buddy",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 95901
+      "UsersEstimate": 95902
     },
     {
       "ID": "Casanova",
@@ -21597,7 +21608,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 199794
+      "UsersEstimate": 199795
     },
     {
       "ID": "Chivalrous",
@@ -21885,7 +21896,7 @@
       "Name": "McLovin",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 55942
+      "UsersEstimate": 55943
     },
     {
       "ID": "MercenarysHonor",
@@ -21989,7 +22000,7 @@
       "Name": "Runt",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 55942
+      "UsersEstimate": 55943
     },
     {
       "ID": "Saviour",
@@ -22061,7 +22072,7 @@
       "Name": "Thief",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 95901
+      "UsersEstimate": 95902
     },
     {
       "ID": "TisButAScratch",
@@ -22140,15 +22151,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 799178,
+      "Progressed": 799180,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-08-30T03:57:08.6965341+00:00",
-  "LastChanged_Achievements": "2023-08-31T01:44:31.6808504+00:00",
+  "LastChanged": "2023-08-31T02:12:29.8867617+00:00",
+  "LastChanged_Achievements": "2023-08-31T02:18:43.0704471+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:19.3833724+00:00",
-  "LastUpdate_Ratings": "2023-08-31T01:38:27.5830696+00:00",
-  "LastUpdate_Achievements": "2023-08-31T01:44:31.6810558+00:00"
+  "LastUpdate_Ratings": "2023-08-31T02:12:29.8867623+00:00",
+  "LastUpdate_Achievements": "2023-08-31T02:18:43.0706311+00:00"
 }

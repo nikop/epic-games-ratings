@@ -1283,7 +1283,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 127013,
+  "EOS_Progressed": 127014,
   "EOS_Completed": 27,
   "EOS_NewPlayers": 317,
   "EOS_NewCompleters": 0,
@@ -14518,6 +14518,11 @@
       "Time": "2023-08-31T01:47:24.1646477+00:00",
       "NumProgressed": 127013,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-08-31T02:21:38.9601683+00:00",
+      "NumProgressed": 127014,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -14561,7 +14566,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 22862
+      "UsersEstimate": 22863
     },
     {
       "ID": "ACH_COP_BAD",
@@ -14673,7 +14678,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 13971
+      "UsersEstimate": 13972
     },
     {
       "ID": "ACH_CUNO",
@@ -14848,15 +14853,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 127013,
+      "Progressed": 127014,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-08-22T19:02:11.687919+00:00",
-  "LastChanged_Achievements": "2023-08-31T01:47:24.1646471+00:00",
+  "LastChanged_Achievements": "2023-08-31T02:21:38.9601678+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:42.7736481+00:00",
-  "LastUpdate_Ratings": "2023-08-31T01:39:01.7639458+00:00",
-  "LastUpdate_Achievements": "2023-08-31T01:47:24.1647685+00:00"
+  "LastUpdate_Ratings": "2023-08-31T02:13:06.0498177+00:00",
+  "LastUpdate_Achievements": "2023-08-31T02:21:38.9602653+00:00"
 }

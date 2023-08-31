@@ -126,9 +126,9 @@
       "ID": "ACQUAINTANCE_EARL",
       "SetID": "aniflfk",
       "Name": "Holy Macaroni!",
-      "Percentage": 56,
+      "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -238,9 +238,9 @@
       "ID": "REMOVE_100_WEEDS",
       "SetID": "aniflfk",
       "Name": "Weed Warrior",
-      "Percentage": 11,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "REPAIR_BRIDGE",
@@ -293,8 +293,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-08-31T01:47:06.90286+00:00",
+  "LastChanged_Achievements": "2023-08-31T02:21:21.1848556+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:06.6191746+00:00",
-  "LastUpdate_Ratings": "2023-08-31T01:40:37.7063061+00:00",
-  "LastUpdate_Achievements": "2023-08-31T01:47:06.902876+00:00"
+  "LastUpdate_Ratings": "2023-08-31T02:14:46.1659555+00:00",
+  "LastUpdate_Achievements": "2023-08-31T02:21:21.1848698+00:00"
 }

@@ -869,9 +869,9 @@
       "ID": "AC19",
       "SetID": "l4abp0",
       "Name": "Soledad",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 177
     },
     {
       "ID": "AC20",
@@ -1092,8 +1092,8 @@
   ],
   "FirstSeen": "2023-07-26T07:57:19.1818171+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
-  "LastChanged_Achievements": "2023-08-31T01:46:47.9523381+00:00",
+  "LastChanged_Achievements": "2023-08-31T02:21:01.8518688+00:00",
   "LastUpdate_AppInfo": "2023-08-29T18:57:21.35462+00:00",
-  "LastUpdate_Ratings": "2023-08-31T01:40:13.1305379+00:00",
-  "LastUpdate_Achievements": "2023-08-31T01:46:47.9523814+00:00"
+  "LastUpdate_Ratings": "2023-08-31T02:14:20.7560534+00:00",
+  "LastUpdate_Achievements": "2023-08-31T02:21:01.851912+00:00"
 }

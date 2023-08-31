@@ -480,9 +480,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 526298,
+  "EOS_Progressed": 526299,
   "EOS_Completed": 467,
-  "EOS_NewPlayers": 572,
+  "EOS_NewPlayers": 573,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -14585,6 +14585,11 @@
       "Time": "2023-08-31T01:47:55.7574104+00:00",
       "NumProgressed": 526298,
       "NumCompleted": 467
+    },
+    {
+      "Time": "2023-08-31T02:22:12.2314043+00:00",
+      "NumProgressed": 526299,
+      "NumCompleted": 467
     }
   ],
   "TotalAchievements": 57,
@@ -14604,7 +14609,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 236834
+      "UsersEstimate": 236835
     },
     {
       "ID": "11",
@@ -14820,7 +14825,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 263149
+      "UsersEstimate": 263150
     },
     {
       "ID": "36",
@@ -14852,7 +14857,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 178941
+      "UsersEstimate": 178942
     },
     {
       "ID": "4",
@@ -14940,7 +14945,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 178941
+      "UsersEstimate": 178942
     },
     {
       "ID": "5",
@@ -14972,7 +14977,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 242097
+      "UsersEstimate": 242098
     },
     {
       "ID": "53",
@@ -15051,15 +15056,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 526298,
+      "Progressed": 526299,
       "Completed": 467
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-08-31T01:47:55.7574097+00:00",
+  "LastChanged_Achievements": "2023-08-31T02:22:12.2314036+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:23.9652086+00:00",
-  "LastUpdate_Ratings": "2023-08-31T01:40:51.8371079+00:00",
-  "LastUpdate_Achievements": "2023-08-31T01:47:55.7575629+00:00"
+  "LastUpdate_Ratings": "2023-08-31T02:15:00.6959276+00:00",
+  "LastUpdate_Achievements": "2023-08-31T02:22:12.2315413+00:00"
 }

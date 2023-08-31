@@ -5,12 +5,12 @@ Rating: 4.49 (Ranked 582)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~21,887 |
-| Advancement | 73.00% | ~18,578 |
+| Stylish | 86.00% | ~21,888 |
+| Advancement | 73.00% | ~18,579 |
 | Meticulously Efficient | 63.00% | ~16,034 |
-| Discovery | 61.00% | ~15,524 |
-| Fully Upgraded | 54.00% | ~13,743 |
-| Swift Rift Removers | 53.00% | ~13,488 |
+| Discovery | 61.00% | ~15,525 |
+| Fully Upgraded | 54.00% | ~13,744 |
+| Swift Rift Removers | 53.00% | ~13,489 |
 | I collect Spores, Molds, and Fungi | 51.00% | ~12,980 |
 | Cultured | 51.00% | ~12,980 |
 | Vaporous Expansion | 48.00% | ~12,216 |
@@ -19,7 +19,7 @@ Rating: 4.49 (Ranked 582)
 | Clutch Capture | 40.00% | ~10,180 |
 | Back Off | 35.00% | ~8,908 |
 | Daily Dose | 34.00% | ~8,653 |
-| Solo Capture | 33.00% | ~8,398 |
+| Solo Capture | 33.00% | ~8,399 |
 | Welcome to the Crew | 31.00% | ~7,890 |
 | Ghostbuster In Training | 30.00% | ~7,635 |
 | Icing on the Cake | 30.00% | ~7,635 |
@@ -28,8 +28,8 @@ Rating: 4.49 (Ranked 582)
 | We have the best insurance | 26.00% | ~6,617 |
 | Legions | 26.00% | ~6,617 |
 | Right back at ya | 26.00% | ~6,617 |
-| Pesky Jerks | 25.00% | ~6,362 |
-| Stunner | 25.00% | ~6,362 |
+| Pesky Jerks | 25.00% | ~6,363 |
+| Stunner | 25.00% | ~6,363 |
 | Animated | 24.00% | ~6,108 |
 | Skilled | 24.00% | ~6,108 |
 | Collector | 23.00% | ~5,854 |
@@ -37,15 +37,15 @@ Rating: 4.49 (Ranked 582)
 | Rift Destroyer | 19.00% | ~4,836 |
 | Terrifying | 18.00% | ~4,581 |
 | Tobin's Prodigy | 18.00% | ~4,581 |
-| Reckless | 17.00% | ~4,326 |
+| Reckless | 17.00% | ~4,327 |
 | Diabolical | 16.00% | ~4,072 |
 | Seasoned | 16.00% | ~4,072 |
 | Escape Artist | 15.00% | ~3,818 |
-| Whoopsie | 13.00% | ~3,308 |
+| Whoopsie | 13.00% | ~3,309 |
 | Liability | 10.00% | ~2,545 |
 | Rivalry | 10.00% | ~2,545 |
-| Fragile Panes | 9.00% | ~2,290 |
-| Surprise! | 9.00% | ~2,290 |
+| Fragile Panes | 9.00% | ~2,291 |
+| Surprise! | 9.00% | ~2,291 |
 | Rift Seeker | 7.00% | ~1,782 |
 | Therapeutic | 7.00% | ~1,782 |
 | Master Collector | 6.00% | ~1,527 |
@@ -54,10 +54,10 @@ Rating: 4.49 (Ranked 582)
 | Line em' up | 2.00% | ~509 |
 | Little Help Here | 2.00% | ~509 |
 | Ultimate Defense | 2.00% | ~509 |
-| I don't need these | 1.00% | ~254 |
-| Mycophile | 1.00% | ~254 |
+| I don't need these | 1.00% | ~255 |
+| Mycophile | 1.00% | ~255 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,450 (Ranked 103)  
+Progressed: 25,451 (Ranked 103)  
 Completed: 54 (0.21%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 54 (0.21%) (Ranked 190)
 | 2023-08-28 | 25,408 | 53 |
 | 2023-08-29 | 25,426 | 53 |
 | 2023-08-30 | 25,447 | 54 |
-| 2023-08-31 | 25,450 | 54 |
+| 2023-08-31 | 25,451 | 54 |
 ## Awards
 Max (Great for Quick Sessions): 249  (Ranked 254)  
 Sum: 2,265 (Ranked 190)  

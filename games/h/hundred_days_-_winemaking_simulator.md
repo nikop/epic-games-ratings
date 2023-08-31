@@ -11,8 +11,8 @@ Number of Ratings: 7,669  (23.09.2022)
 | Bonjour! | 6.00% | ~14 |
 | Ostinata | 5.00% | ~12 |
 | A long journey | 5.00% | ~12 |
+| The Blue Marl | 4.00% | ~9 |
 | The Assistant | 3.00% | ~7 |
-| The Blue Marl | 3.00% | ~7 |
 | Quack | 3.00% | ~7 |
 | Surprise of Langhe | 3.00% | ~7 |
 | Famous | 3.00% | ~7 |
@@ -38,13 +38,13 @@ Number of Ratings: 7,669  (23.09.2022)
 | Knight of Langhe | 0.00% | ~0 |
 | Very Important Winemaker | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 234 (Ranked 287)  
+Progressed: 235 (Ranked 286)  
 Completed: 0 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-08-30 | 210 | 0 |
-| 2023-08-31 | 234 | 0 |
+| 2023-08-31 | 235 | 0 |
 ## Awards
 Max (Relaxing): 203  (Ranked 273)  
 Sum: 1,457 (Ranked 224)  

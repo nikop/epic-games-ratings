@@ -604,9 +604,9 @@
       "ID": "ACH_OVERFLOWING_WARMTH",
       "SetID": "8h8m55b",
       "Name": "\u201COverflowing Warmth: CBAW\u201D",
-      "Percentage": 65,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_REMEMBRANCE",
@@ -771,8 +771,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-08-31T01:45:04.0660455+00:00",
+  "LastChanged_Achievements": "2023-08-31T02:19:16.0034397+00:00",
   "LastUpdate_AppInfo": "2023-08-29T11:57:10.7189533+00:00",
-  "LastUpdate_Ratings": "2023-08-31T01:40:28.7276999+00:00",
-  "LastUpdate_Achievements": "2023-08-31T01:45:04.0660964+00:00"
+  "LastUpdate_Ratings": "2023-08-31T02:14:36.8539689+00:00",
+  "LastUpdate_Achievements": "2023-08-31T02:19:16.0034889+00:00"
 }

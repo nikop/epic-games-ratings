@@ -622,9 +622,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 144330,
+  "EOS_Progressed": 144333,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2690,
+  "EOS_NewPlayers": 2686,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7622,6 +7622,11 @@
       "Time": "2023-08-31T01:44:32.5994921+00:00",
       "NumProgressed": 144330,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-31T02:18:43.9750119+00:00",
+      "NumProgressed": 144333,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -7681,7 +7686,7 @@
       "Name": "The Hunt",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 95258
+      "UsersEstimate": 95260
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -7697,7 +7702,7 @@
       "Name": "Taste",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 121237
+      "UsersEstimate": 121240
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -7705,7 +7710,7 @@
       "Name": "Weeper",
       "Percentage": 43,
       "XP": 40,
-      "UsersEstimate": 62062
+      "UsersEstimate": 62063
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -7713,7 +7718,7 @@
       "Name": "Hunt Down",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 7216
+      "UsersEstimate": 7217
     },
     {
       "ID": "DEFEAT_ARTISAN",
@@ -7721,7 +7726,7 @@
       "Name": "Artisan",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 7216
+      "UsersEstimate": 7217
     },
     {
       "ID": "DEFEAT_FIDUS",
@@ -7729,7 +7734,7 @@
       "Name": "Shapely",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 11546
+      "UsersEstimate": 11547
     },
     {
       "ID": "DEFEAT_FLOWERHEART",
@@ -7833,7 +7838,7 @@
       "Name": "Devourer",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 33196
+      "UsersEstimate": 33197
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -7849,7 +7854,7 @@
       "Name": "Imprint",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 127010
+      "UsersEstimate": 127013
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -7857,7 +7862,7 @@
       "Name": "Predator",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 11546
+      "UsersEstimate": 11547
     },
     {
       "ID": "MISC_ENDING_PROPER",
@@ -7881,7 +7886,7 @@
       "Name": "Breathsmith",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 7216
+      "UsersEstimate": 7217
     },
     {
       "ID": "MISC_PULLANENEMY",
@@ -7905,7 +7910,7 @@
       "Name": "Ravenous",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 90928
+      "UsersEstimate": 90930
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -7968,21 +7973,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 143913,
+      "Progressed": 143916,
       "Completed": 1023
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 144330,
+      "Progressed": 144333,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-08-29T17:59:12.1173211+00:00",
-  "LastChanged_Achievements": "2023-08-31T01:44:32.5994915+00:00",
+  "LastChanged_Achievements": "2023-08-31T02:18:43.9750113+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:54.5000536+00:00",
-  "LastUpdate_Ratings": "2023-08-31T01:39:59.216564+00:00",
-  "LastUpdate_Achievements": "2023-08-31T01:44:32.5995711+00:00"
+  "LastUpdate_Ratings": "2023-08-31T02:14:06.2757671+00:00",
+  "LastUpdate_Achievements": "2023-08-31T02:18:43.9750875+00:00"
 }

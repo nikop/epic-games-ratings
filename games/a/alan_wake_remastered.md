@@ -27,16 +27,16 @@ Number of Ratings: 524  (23.09.2022)
 | Iron Horse | 12.00% | ~7,442 |
 | Perchance to Dream | 12.00% | ~7,442 |
 | Come One, Come All | 12.00% | ~7,442 |
-| Gatekeeper | 11.00% | ~6,821 |
-| It's Not Just a Typewriter Brand | 11.00% | ~6,821 |
-| Thunder and Lightning | 11.00% | ~6,821 |
-| Two For the Price of One | 11.00% | ~6,821 |
+| Gatekeeper | 11.00% | ~6,822 |
+| It's Not Just a Typewriter Brand | 11.00% | ~6,822 |
+| Thunder and Lightning | 11.00% | ~6,822 |
+| Two For the Price of One | 11.00% | ~6,822 |
 | The Lady of the Light | 10.00% | ~6,201 |
 | Energized! | 10.00% | ~6,201 |
 | What Light Through Yonder Window | 9.00% | ~5,581 |
 | Right of Way | 9.00% | ~5,581 |
 | Tornado Wrangler | 8.00% | ~4,961 |
-| A Friend in Need | 8.00% | ~2,038 |
+| A Friend in Need | 8.00% | ~2,039 |
 | Departure | 7.00% | ~4,341 |
 | Drink 'Em Both Up | 6.00% | ~3,721 |
 | Hardboiled Writer | 6.00% | ~3,721 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~62 |
 | No Punctuation | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,013 (Ranked 87)  
+Progressed: 62,014 (Ranked 87)  
 Completed: 65 (0.10%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 65 (0.10%) (Ranked 213)
 | 2023-08-28 | 61,891 | 65 |
 | 2023-08-29 | 61,953 | 65 |
 | 2023-08-30 | 62,006 | 65 |
-| 2023-08-31 | 62,013 | 65 |
+| 2023-08-31 | 62,014 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

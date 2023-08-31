@@ -4,7 +4,7 @@
   "ProductSlug": "sword-and-fairy-inn-2-39760f",
   "Ranking_EOS_Progress": 567,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewPlayers": 341,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -25,9 +25,411 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-08-31T02:18:17.2652663+00:00",
+  "TotalAchievements": 50,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACHV_01_Ending",
+      "SetID": "8i40ob1",
+      "Name": "Together",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHV_02_Ending",
+      "SetID": "8i40ob1",
+      "Name": "Returning home",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHV_03_Ending",
+      "SetID": "8i40ob1",
+      "Name": "Dimly lit",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHV_04_Ending",
+      "SetID": "8i40ob1",
+      "Name": "Anu and Xiaoman",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHV_05_Ending",
+      "SetID": "8i40ob1",
+      "Name": "Traveling together",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHV_06_Ending",
+      "SetID": "8i40ob1",
+      "Name": "Around the world",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHV_07_Ending",
+      "SetID": "8i40ob1",
+      "Name": "Hermit",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHV_08_Ending",
+      "SetID": "8i40ob1",
+      "Name": "Appointment",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHV_09_Ending",
+      "SetID": "8i40ob1",
+      "Name": "Couple",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHV_10_Ending",
+      "SetID": "8i40ob1",
+      "Name": "Happiness",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHV_11_Ending",
+      "SetID": "8i40ob1",
+      "Name": "Seeking eternity",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHV_12_Ending",
+      "SetID": "8i40ob1",
+      "Name": "The best staff",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHV_13_Ending",
+      "SetID": "8i40ob1",
+      "Name": "Xinan Pawnshop",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHV_14_Ending",
+      "SetID": "8i40ob1",
+      "Name": "Absolute trust",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHV_15_Ending",
+      "SetID": "8i40ob1",
+      "Name": "Homeland",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHV_16_Ending",
+      "SetID": "8i40ob1",
+      "Name": "Hand in hand",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHV_17_Ending",
+      "SetID": "8i40ob1",
+      "Name": "Accompany",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHV_18_Ending",
+      "SetID": "8i40ob1",
+      "Name": "So few visitors",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHV_19_Ending",
+      "SetID": "8i40ob1",
+      "Name": "A long dream",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHV_20_Ending",
+      "SetID": "8i40ob1",
+      "Name": "The top inn",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHV_21_Ending",
+      "SetID": "8i40ob1",
+      "Name": "The Hall of Justice",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHV_22_Ending",
+      "SetID": "8i40ob1",
+      "Name": "Spirit Servant Inn",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHV_23_Ending",
+      "SetID": "8i40ob1",
+      "Name": "Visiting gourmand",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHV_24_Ending",
+      "SetID": "8i40ob1",
+      "Name": "Hot spring trip",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHV_25_Ending",
+      "SetID": "8i40ob1",
+      "Name": "Stream tracing",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHV_26_Ending",
+      "SetID": "8i40ob1",
+      "Name": "Champion Inn",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHV_27_Ending",
+      "SetID": "8i40ob1",
+      "Name": "The lovers",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHV_28_Quest",
+      "SetID": "8i40ob1",
+      "Name": "Good manager I",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHV_29_Quest",
+      "SetID": "8i40ob1",
+      "Name": "Good manager II",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHV_30_Quest",
+      "SetID": "8i40ob1",
+      "Name": "Good manager III",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHV_31_Quest",
+      "SetID": "8i40ob1",
+      "Name": "Good manager IV",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHV_32_Quest",
+      "SetID": "8i40ob1",
+      "Name": "Good manager V",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHV_33_Quest",
+      "SetID": "8i40ob1",
+      "Name": "Make money I",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHV_34_Quest",
+      "SetID": "8i40ob1",
+      "Name": "Make money II",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHV_35_Quest",
+      "SetID": "8i40ob1",
+      "Name": "Make money III",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHV_36_Quest",
+      "SetID": "8i40ob1",
+      "Name": "Make money IV",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHV_37_Quest",
+      "SetID": "8i40ob1",
+      "Name": "Very popular I",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHV_38_Quest",
+      "SetID": "8i40ob1",
+      "Name": "Very popular II",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHV_39_Quest",
+      "SetID": "8i40ob1",
+      "Name": "Good service I",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHV_40_Quest",
+      "SetID": "8i40ob1",
+      "Name": "Good service II",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHV_41_Quest",
+      "SetID": "8i40ob1",
+      "Name": "Keep clean",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHV_42_Quest",
+      "SetID": "8i40ob1",
+      "Name": "Clerk Battle King",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHV_43_Quest",
+      "SetID": "8i40ob1",
+      "Name": "Culinary Battle King",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHV_44_Quest",
+      "SetID": "8i40ob1",
+      "Name": "Respect old woman",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHV_45_Quest",
+      "SetID": "8i40ob1",
+      "Name": "Honor the soldier",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHV_46_Quest",
+      "SetID": "8i40ob1",
+      "Name": "Be polite to beggars",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHV_47_Quest",
+      "SetID": "8i40ob1",
+      "Name": "Very patient",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHV_48_Quest",
+      "SetID": "8i40ob1",
+      "Name": "Grouped together",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHV_49_Quest",
+      "SetID": "8i40ob1",
+      "Name": "Equal treatment",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHV_50_Quest",
+      "SetID": "8i40ob1",
+      "Name": "Legendary",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "8i40ob1",
@@ -37,8 +439,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-30T17:02:12.1878614+00:00",
-  "LastChanged_Achievements": "2023-08-31T00:03:08.5345717+00:00",
+  "LastChanged_Achievements": "2023-08-31T02:18:17.2652604+00:00",
   "LastUpdate_AppInfo": "2023-08-30T16:57:06.7087435+00:00",
-  "LastUpdate_Ratings": "2023-08-31T01:38:10.9340288+00:00",
-  "LastUpdate_Achievements": "2023-08-31T00:03:08.5345796+00:00"
+  "LastUpdate_Ratings": "2023-08-31T02:12:12.0074441+00:00",
+  "LastUpdate_Achievements": "2023-08-31T02:18:17.3037697+00:00"
 }
