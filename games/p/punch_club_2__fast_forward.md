@@ -19,18 +19,18 @@
 | Run K, run! | 71.00% | ~207 |
 | Hello, world! | 68.00% | ~199 |
 | Fighting is cool | 67.00% | ~196 |
-| No bullying more | 66.00% | ~193 |
-| Pal of your father? | 64.00% | ~187 |
+| No bullying more | 67.00% | ~196 |
+| Pal of your father? | 65.00% | ~190 |
 | Employee of the month | 63.00% | ~184 |
 | Spirit of the past | 62.00% | ~181 |
 | Law student | 61.00% | ~178 |
 | Workout professional | 59.00% | ~172 |
+| Handyman | 58.00% | ~169 |
 | Champion – starter pack | 58.00% | ~169 |
 | It's good to be alive | 58.00% | ~169 |
 | Own four walls | 58.00% | ~169 |
 | Fight for life | 57.00% | ~166 |
 | Little hacker | 57.00% | ~166 |
-| Handyman | 57.00% | ~166 |
 | Intriguing candies | 57.00% | ~166 |
 | Employee of the year | 57.00% | ~166 |
 | Legal courier | 53.00% | ~155 |

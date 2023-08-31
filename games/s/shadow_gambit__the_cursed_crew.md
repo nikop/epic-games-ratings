@@ -16,7 +16,7 @@
 | Pirates Assemble! | 19.00% | ~105 |
 | Fishy Fish | 19.00% | ~105 |
 | Buccaneer | 18.00% | ~100 |
-| Seadog | 13.00% | ~72 |
+| Seadog | 14.00% | ~78 |
 | Persistent Parasite | 13.00% | ~72 |
 | All Good Things | 11.00% | ~61 |
 | Jaded Judge | 9.00% | ~50 |

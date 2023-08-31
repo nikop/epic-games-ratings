@@ -5531,9 +5531,9 @@
       "ID": "inspection",
       "SetID": "3nl4bcg",
       "Name": "Inspection",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 300
+      "UsersEstimate": 319
     },
     {
       "ID": "jewelenchanting",
@@ -5868,8 +5868,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-08-28T23:01:10.1720287+00:00",
-  "LastChanged_Achievements": "2023-08-31T07:06:31.6893878+00:00",
+  "LastChanged_Achievements": "2023-08-31T08:07:14.6357795+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:43.6351902+00:00",
-  "LastUpdate_Ratings": "2023-08-31T06:56:57.9663319+00:00",
-  "LastUpdate_Achievements": "2023-08-31T07:06:31.6895012+00:00"
+  "LastUpdate_Ratings": "2023-08-31T07:57:09.1938428+00:00",
+  "LastUpdate_Achievements": "2023-08-31T08:07:14.6358914+00:00"
 }

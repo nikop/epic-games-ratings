@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 1170,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4396,9 +4396,9 @@
       "ID": "objective_multiple_turrets_2",
       "SetID": "bm61c2p",
       "Name": "Defenses Online",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 304
+      "UsersEstimate": 316
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -4451,8 +4451,8 @@
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-31T07:04:43.547709+00:00",
+  "LastChanged_Achievements": "2023-08-31T08:05:25.1513106+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:58:05.1002416+00:00",
-  "LastUpdate_Ratings": "2023-08-31T06:59:08.8338888+00:00",
-  "LastUpdate_Achievements": "2023-08-31T07:04:43.5477647+00:00"
+  "LastUpdate_Ratings": "2023-08-31T07:59:19.4302821+00:00",
+  "LastUpdate_Achievements": "2023-08-31T08:05:25.1513601+00:00"
 }

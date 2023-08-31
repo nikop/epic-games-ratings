@@ -10,23 +10,23 @@ Number of Ratings: 70,340  (23.09.2022)
 | MU/TH/UR Dearest | 0.60% | ~4,991 |
 | Zealous | 0.50% | ~4,159 |
 | Skillful | 0.50% | ~4,159 |
-| Not half bad | 0.40% | ~3,327 |
-| Apt Survivor | 0.40% | ~3,327 |
-| Survival Treasures | 0.40% | ~3,327 |
-| Make Some Noise | 0.40% | ~3,327 |
-| Terror of LV-426 | 0.40% | ~3,327 |
-| The Grand Sacrifice | 0.30% | ~2,495 |
-| No one left behind | 0.30% | ~2,495 |
-| Medic | 0.30% | ~2,495 |
-| Handyman | 0.30% | ~2,495 |
-| Nerves of steel | 0.30% | ~2,495 |
-| Bloody Millionaire | 0.30% | ~2,495 |
-| I | 0.30% | ~2,495 |
-| Sorted | 0.30% | ~2,495 |
-| Healthy Obsession | 0.30% | ~2,495 |
-| Resurgence | 0.30% | ~2,495 |
+| Not half bad | 0.40% | ~3,328 |
+| Apt Survivor | 0.40% | ~3,328 |
+| Survival Treasures | 0.40% | ~3,328 |
+| Make Some Noise | 0.40% | ~3,328 |
+| Terror of LV-426 | 0.40% | ~3,328 |
+| The Grand Sacrifice | 0.30% | ~2,496 |
+| Backdoor Escape | 0.30% | ~2,496 |
+| No one left behind | 0.30% | ~2,496 |
+| Medic | 0.30% | ~2,496 |
+| Handyman | 0.30% | ~2,496 |
+| Nerves of steel | 0.30% | ~2,496 |
+| Bloody Millionaire | 0.30% | ~2,496 |
+| I | 0.30% | ~2,496 |
+| Sorted | 0.30% | ~2,496 |
+| Healthy Obsession | 0.30% | ~2,496 |
+| Resurgence | 0.30% | ~2,496 |
 | Agonizing Escape | 0.20% | ~1,664 |
-| Backdoor Escape | 0.20% | ~1,664 |
 | I've got your back | 0.20% | ~1,664 |
 | Perfect Escape | 0.20% | ~1,664 |
 | Perfect Killing | 0.20% | ~1,664 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~832 |
 | Adept Ripley | 0.10% | ~832 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 831,833 (Ranked 15)  
+Progressed: 831,889 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -369,14 +369,14 @@ Completed: 48 (0.01%) (Ranked 253)
 | 2023-08-28 | 824,988 | 48 |
 | 2023-08-29 | 828,020 | 48 |
 | 2023-08-30 | 831,117 | 48 |
-| 2023-08-31 | 831,833 | 48 |
+| 2023-08-31 | 831,889 | 48 |
 ## Awards
-Max (Diverse Characters): 31,677  (Ranked 15)  
-Sum: 248,632 (Ranked 11)  
+Max (Diverse Characters): 31,726  (Ranked 15)  
+Sum: 248,681 (Ranked 11)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 31,677 |
+| This game has Diverse Characters | 31,726 |
 | This game is Highly Recommended | 28,366 |
 | This game has Competitive Players | 28,355 |
 | This game has Amazing Characters | 28,138 |
@@ -609,4 +609,4 @@ Diff (max vs sum): 4
 | 2023-08-28 | 4.52 | - | 31,536 | 247,765 |
 | 2023-08-29 | 4.52 | - | 31,566 | 248,001 |
 | 2023-08-30 | 4.52 | - | 31,677 | 248,552 |
-| 2023-08-31 | 4.52 | - | 31,677 | 248,632 |
+| 2023-08-31 | 4.52 | - | 31,726 | 248,681 |

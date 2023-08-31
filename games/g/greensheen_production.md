@@ -3,7 +3,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What's in the box?! | 25.00% | ~1 |
+| What's in the box?! | 50.00% | ~2 |
+| Evasive prey | 25.00% | ~1 |
 | In The Palm Of My Hand | 0.00% | ~0 |
 | Bully of Bullies | 0.00% | ~0 |
 | Toys Are For Kids | 0.00% | ~0 |
@@ -36,7 +37,6 @@
 | True Colours | 0.00% | ~0 |
 | First do no harm | 0.00% | ~0 |
 | How Do I Look? | 0.00% | ~0 |
-| Evasive prey | 0.00% | ~0 |
 | X Best Friends | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4 (Ranked 484)  

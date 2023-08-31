@@ -2,9 +2,9 @@
   "ID": "15cb739316ba44ed87878349d10b3ffc",
   "Name": "Crash Drive 3",
   "ProductSlug": "crash-drive-3",
-  "Ranking_EOS_Progress": 256,
+  "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 372,
+  "EOS_Progressed": 373,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -421,6 +421,11 @@
       "Time": "2023-08-26T20:06:35.2549417+00:00",
       "NumProgressed": 372,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-31T08:09:14.6745107+00:00",
+      "NumProgressed": 373,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -430,9 +435,9 @@
       "ID": "AIRTIME_6_SEC",
       "SetID": "20koof9",
       "Name": "Brace for impact!",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 119
     },
     {
       "ID": "ALL_ACHIEVEMENTS",
@@ -448,7 +453,7 @@
       "Name": "Fore!",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "CATAPULT_THROW",
@@ -464,7 +469,7 @@
       "Name": "The Collector",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "COLLECT_1_CAR",
@@ -600,15 +605,15 @@
       "Name": "C-C-C-Combo!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "HIT_10_PLAYERS",
       "SetID": "20koof9",
       "Name": "Anger Issues",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 78
     },
     {
       "ID": "HIT_50_PUSHABLES",
@@ -640,7 +645,7 @@
       "Name": "Insurance fraud",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "HIT_FLYING_UFO",
@@ -688,7 +693,7 @@
       "Name": "The Wild West",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "LOADED_LVL_FOREST",
@@ -704,7 +709,7 @@
       "Name": "Snow Fun!",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "LOADED_LVL_TANK",
@@ -720,7 +725,7 @@
       "Name": "Multiply that!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ONE_MILLION_CASH",
@@ -808,7 +813,7 @@
       "Name": "Event Amateur",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "WIN_50_EVENTS",
@@ -822,9 +827,9 @@
       "ID": "WIN_BALL",
       "SetID": "20koof9",
       "Name": "Beach Party!",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 78
     },
     {
       "ID": "WIN_KING_HILL",
@@ -856,7 +861,7 @@
       "Name": "You\u0027re it",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "WIN_TANK_BATTLES",
@@ -871,7 +876,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 372,
+      "Progressed": 373,
       "Completed": 2
     }
   ],
@@ -879,8 +884,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-08-31T07:06:42.131164+00:00",
+  "LastChanged_Achievements": "2023-08-31T08:09:14.6745101+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:40.319165+00:00",
-  "LastUpdate_Ratings": "2023-08-31T06:57:36.6992319+00:00",
-  "LastUpdate_Achievements": "2023-08-31T07:06:42.1312197+00:00"
+  "LastUpdate_Ratings": "2023-08-31T07:57:47.5876776+00:00",
+  "LastUpdate_Achievements": "2023-08-31T08:09:14.6745659+00:00"
 }

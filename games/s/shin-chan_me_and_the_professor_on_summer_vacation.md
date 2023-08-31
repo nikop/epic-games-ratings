@@ -7,20 +7,20 @@
 | Cabbage in the Baggage | 31.00% | ~11 |
 | Greengrocer | 29.00% | ~10 |
 | Seven Days of Endless Adventure | 20.00% | ~7 |
+| Masu-ter Angler | 17.00% | ~6 |
 | Just Hoverin' Along | 14.00% | ~5 |
-| Masu-ter Angler | 14.00% | ~5 |
 | Go-Getter | 14.00% | ~5 |
 | River Cleaner | 14.00% | ~5 |
 | Seven Days of Endless Adventure - Déjà Vu | 11.00% | ~4 |
 | It's Alive! | 11.00% | ~4 |
 | Handyman Extraordinaire | 11.00% | ~4 |
+| Ptera Pal | 11.00% | ~4 |
 | My Fair Ladybug | 9.00% | ~3 |
 | The Holly Grail | 9.00% | ~3 |
 | What's That Smell? | 9.00% | ~3 |
 | That Was a Snap! | 9.00% | ~3 |
 | Farm Life! | 9.00% | ~3 |
 | Did Someone Order Ramen? | 9.00% | ~3 |
-| Ptera Pal | 9.00% | ~3 |
 | DJ Superstar | 9.00% | ~3 |
 | Asso Bridge Enthusiast | 9.00% | ~3 |
 | A New Time | 6.00% | ~2 |

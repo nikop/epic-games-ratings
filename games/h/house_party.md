@@ -1,7 +1,7 @@
 # House Party
 [Store](https://store.epicgames.com/en-US/p/house-party-ae8b27)  
 [View Rawdata](../../db/h/house_party.json)  
-Rating: 4.33 (Ranked 774)  
+Rating: 4.32 (Ranked 781)  
 Number of Ratings: 177  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -277,3 +277,4 @@ Completed: 3 (0.05%) (Ranked 233)
 | 2023-03-25 | 4.32 | - | - | - |
 | 2023-03-31 | 4.32 | - | 0 | 0 |
 | 2023-07-26 | 4.33 | - | 0 | 0 |
+| 2023-08-31 | 4.32 | - | 0 | 0 |

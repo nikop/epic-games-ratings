@@ -2,13 +2,13 @@
   "ID": "89fb09a222a54e53b692e9c36e68d0a1",
   "Name": "Filament",
   "ProductSlug": "filament-332a92",
-  "Ranking_Rating": 782,
+  "Ranking_Rating": 781,
   "Ranking_Popularity": 192,
   "Ranking_PopularitySum": 283,
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 31,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -245,7 +245,7 @@
   ],
   "EOS_Progressed": 200402,
   "EOS_Completed": 492,
-  "EOS_NewPlayers": 574,
+  "EOS_NewPlayers": 571,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -14798,8 +14798,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-08-19T20:00:31.8399303+00:00",
-  "LastChanged_Achievements": "2023-08-31T07:05:17.4911642+00:00",
+  "LastChanged_Achievements": "2023-08-31T08:05:59.4986424+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:27.0494486+00:00",
-  "LastUpdate_Ratings": "2023-08-31T06:57:48.2616639+00:00",
-  "LastUpdate_Achievements": "2023-08-31T07:05:17.4912774+00:00"
+  "LastUpdate_Ratings": "2023-08-31T07:57:58.8929841+00:00",
+  "LastUpdate_Achievements": "2023-08-31T08:05:59.4987389+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -1320,17 +1320,17 @@
       "ID": "handyman",
       "SetID": "69co12a",
       "Name": "Handyman",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 169
     },
     {
       "ID": "huey_win",
       "SetID": "69co12a",
       "Name": "No bullying more",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 193
+      "UsersEstimate": 196
     },
     {
       "ID": "intro_dream",
@@ -1384,9 +1384,9 @@
       "ID": "met_casey",
       "SetID": "69co12a",
       "Name": "Pal of your father?",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 190
     },
     {
       "ID": "met_k",
@@ -1631,8 +1631,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-08-31T07:06:15.4784346+00:00",
+  "LastChanged_Achievements": "2023-08-31T08:06:57.9712748+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:28.4384167+00:00",
-  "LastUpdate_Ratings": "2023-08-31T06:59:57.1951778+00:00",
-  "LastUpdate_Achievements": "2023-08-31T07:06:15.4785118+00:00"
+  "LastUpdate_Ratings": "2023-08-31T08:00:07.0154602+00:00",
+  "LastUpdate_Achievements": "2023-08-31T08:06:57.9713455+00:00"
 }

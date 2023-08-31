@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 116277,
+  "EOS_Progressed": 116279,
   "EOS_Completed": 939,
-  "EOS_NewPlayers": 1741,
+  "EOS_NewPlayers": 1736,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.81,
   "EosHistory": [
@@ -14991,6 +14991,11 @@
       "Time": "2023-08-31T07:05:03.6315143+00:00",
       "NumProgressed": 116277,
       "NumCompleted": 939
+    },
+    {
+      "Time": "2023-08-31T08:05:45.4847484+00:00",
+      "NumProgressed": 116279,
+      "NumCompleted": 939
     }
   ],
   "TotalAchievements": 34,
@@ -15010,7 +15015,7 @@
       "Name": "The only thing I have now",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 18604
+      "UsersEstimate": 18605
     },
     {
       "ID": "ACH_GAME_JOURNAL1",
@@ -15018,7 +15023,7 @@
       "Name": "Interesting...",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 48836
+      "UsersEstimate": 48837
     },
     {
       "ID": "ACH_GAME_JOURNAL2",
@@ -15026,7 +15031,7 @@
       "Name": "Halfway there",
       "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 33720
+      "UsersEstimate": 33721
     },
     {
       "ID": "ACH_GAME_JOURNAL3",
@@ -15050,7 +15055,7 @@
       "Name": "Play it again, Norah",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 8139
+      "UsersEstimate": 8140
     },
     {
       "ID": "ACH_L00_INTRO_END",
@@ -15058,7 +15063,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 91859
+      "UsersEstimate": 91860
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -15074,7 +15079,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 63952
+      "UsersEstimate": 63953
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -15090,7 +15095,7 @@
       "Name": "The Everhart Expedition",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 45348
+      "UsersEstimate": 45349
     },
     {
       "ID": "ACH_L02_BASECAMP_OBJ",
@@ -15114,7 +15119,7 @@
       "Name": "The Vanishing of the Lady Shannon",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 34883
+      "UsersEstimate": 34884
     },
     {
       "ID": "ACH_L03_BLACKBEACH_OBJ",
@@ -15122,7 +15127,7 @@
       "Name": "Marsh Cannery",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 24418
+      "UsersEstimate": 24419
     },
     {
       "ID": "ACH_L03_ORGAN",
@@ -15130,7 +15135,7 @@
       "Name": "Seaside Serenade",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 34883
+      "UsersEstimate": 34884
     },
     {
       "ID": "ACH_L03_PIANO",
@@ -15210,7 +15215,7 @@
       "Name": "Dark Water Ride",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 27906
+      "UsersEstimate": 27907
     },
     {
       "ID": "ACH_L05_TOWN_END",
@@ -15218,7 +15223,7 @@
       "Name": "Sunken",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 27906
+      "UsersEstimate": 27907
     },
     {
       "ID": "ACH_L05_TOWN_OBJ",
@@ -15250,7 +15255,7 @@
       "Name": "Deep Cut",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 27906
+      "UsersEstimate": 27907
     },
     {
       "ID": "ACH_L06_TEMPLE_END",
@@ -15273,7 +15278,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 116277,
+      "Progressed": 116279,
       "Completed": 939
     }
   ],
@@ -15281,8 +15286,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-07-28T22:59:47.9530801+00:00",
-  "LastChanged_Achievements": "2023-08-31T07:05:03.6315136+00:00",
+  "LastChanged_Achievements": "2023-08-31T08:05:45.4847477+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:43.1481398+00:00",
-  "LastUpdate_Ratings": "2023-08-31T06:57:58.7832951+00:00",
-  "LastUpdate_Achievements": "2023-08-31T07:05:03.6316421+00:00"
+  "LastUpdate_Ratings": "2023-08-31T07:58:08.7915331+00:00",
+  "LastUpdate_Achievements": "2023-08-31T08:05:45.4848626+00:00"
 }
