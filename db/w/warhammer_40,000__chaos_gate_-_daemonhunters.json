@@ -2,11 +2,11 @@
   "ID": "ab7e605d8d734d3ab48a243c51ca5b8e",
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
-  "Ranking_Rating": 429,
+  "Ranking_Rating": 430,
   "Ranking_Popularity": 264,
   "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 157,
-  "Ranking_EOS_Completed": 269,
+  "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
@@ -3771,8 +3771,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-08-23T16:01:12.805504+00:00",
-  "LastChanged_Achievements": "2023-08-31T21:04:42.630557+00:00",
+  "LastChanged_Achievements": "2023-08-31T22:04:46.7988969+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:34.0520406+00:00",
-  "LastUpdate_Ratings": "2023-08-31T20:57:51.1811868+00:00",
-  "LastUpdate_Achievements": "2023-08-31T21:04:42.6306438+00:00"
+  "LastUpdate_Ratings": "2023-08-31T21:57:55.1026667+00:00",
+  "LastUpdate_Achievements": "2023-08-31T22:04:46.7989639+00:00"
 }

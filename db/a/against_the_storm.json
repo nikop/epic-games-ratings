@@ -2744,9 +2744,9 @@
       "Count": 317
     }
   ],
-  "EOS_Progressed": 16462,
+  "EOS_Progressed": 16464,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -9849,6 +9849,11 @@
       "Time": "2023-08-31T21:03:35.5300651+00:00",
       "NumProgressed": 16462,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-08-31T22:03:40.1729887+00:00",
+      "NumProgressed": 16464,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 50,
@@ -9956,7 +9961,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "WinImpossible",
@@ -10020,7 +10025,7 @@
       "Name": "Fertile Meadows",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "WinNearFishmen",
@@ -10124,7 +10129,7 @@
       "Name": "Coral Forest",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "WinOnCursed",
@@ -10259,15 +10264,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 16462,
+      "Progressed": 16464,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-08-31T09:00:01.189861+00:00",
-  "LastChanged_Achievements": "2023-08-31T21:03:35.530064+00:00",
+  "LastChanged_Achievements": "2023-08-31T22:03:40.1729882+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:51.2302699+00:00",
-  "LastUpdate_Ratings": "2023-08-31T20:59:09.8646784+00:00",
-  "LastUpdate_Achievements": "2023-08-31T21:03:35.5301512+00:00"
+  "LastUpdate_Ratings": "2023-08-31T21:59:16.6336589+00:00",
+  "LastUpdate_Achievements": "2023-08-31T22:03:40.1730575+00:00"
 }

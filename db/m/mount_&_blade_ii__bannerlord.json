@@ -6,7 +6,7 @@
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 88,
-  "Ranking_EOS_Completed": 269,
+  "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 85,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
@@ -6825,9 +6825,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 60046,
+  "EOS_Progressed": 60048,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 460,
+  "EOS_NewPlayers": 461,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20950,6 +20950,11 @@
       "Time": "2023-08-31T21:06:43.5414221+00:00",
       "NumProgressed": 60046,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-31T22:06:45.1871472+00:00",
+      "NumProgressed": 60048,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -21193,7 +21198,7 @@
       "Name": "Lawbringer",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 22817
+      "UsersEstimate": 22818
     },
     {
       "ID": "Lawmaker",
@@ -21313,7 +21318,7 @@
       "Name": "The king is pleased",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 10808
+      "UsersEstimate": 10809
     },
     {
       "ID": "This Is Our Land",
@@ -21337,7 +21342,7 @@
       "Name": "Trained",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 13210
+      "UsersEstimate": 13211
     },
     {
       "ID": "Undercover",
@@ -21368,15 +21373,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 60046,
+      "Progressed": 60048,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-08-31T18:59:01.5569844+00:00",
-  "LastChanged_Achievements": "2023-08-31T21:06:43.5414216+00:00",
+  "LastChanged_Achievements": "2023-08-31T22:06:45.1871468+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:26.1294952+00:00",
-  "LastUpdate_Ratings": "2023-08-31T20:58:44.8782041+00:00",
-  "LastUpdate_Achievements": "2023-08-31T21:06:43.5415631+00:00"
+  "LastUpdate_Ratings": "2023-08-31T21:58:51.5298903+00:00",
+  "LastUpdate_Achievements": "2023-08-31T22:06:45.1872466+00:00"
 }

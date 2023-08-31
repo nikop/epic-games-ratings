@@ -6,8 +6,8 @@
   "Ranking_Popularity": 166,
   "Ranking_PopularitySum": 236,
   "Ranking_EOS_Progress": 69,
-  "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_Completed": 250,
+  "Ranking_EOS_NewPlayers": 96,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
@@ -1283,9 +1283,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 127048,
+  "EOS_Progressed": 127051,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 319,
+  "EOS_NewPlayers": 317,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -14608,6 +14608,11 @@
       "Time": "2023-08-31T21:06:40.1263022+00:00",
       "NumProgressed": 127048,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-08-31T22:06:41.7669627+00:00",
+      "NumProgressed": 127051,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -14643,7 +14648,7 @@
       "Name": "The Opener Of The Eighth Seal",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3811
+      "UsersEstimate": 3812
     },
     {
       "ID": "ACH_COP_ART",
@@ -14667,7 +14672,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 11434
+      "UsersEstimate": 11435
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -14691,7 +14696,7 @@
       "Name": "Massive Torque Dork",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1270
+      "UsersEstimate": 1271
     },
     {
       "ID": "ACH_COP_GOOD",
@@ -14699,7 +14704,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 35573
+      "UsersEstimate": 35574
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -14747,7 +14752,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 16516
+      "UsersEstimate": 16517
     },
     {
       "ID": "ACH_COP_STAR",
@@ -14763,7 +14768,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 13975
+      "UsersEstimate": 13976
     },
     {
       "ID": "ACH_CUNO",
@@ -14779,7 +14784,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 11434
+      "UsersEstimate": 11435
     },
     {
       "ID": "ACH_GLUTEN",
@@ -14827,7 +14832,7 @@
       "Name": "Avowed Inframaterialist",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1270
+      "UsersEstimate": 1271
     },
     {
       "ID": "ACH_KIM",
@@ -14843,7 +14848,7 @@
       "Name": "Bother Kim After Hours",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3811
+      "UsersEstimate": 3812
     },
     {
       "ID": "ACH_KIM_JACKET",
@@ -14938,15 +14943,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 127048,
+      "Progressed": 127051,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-08-22T19:02:11.687919+00:00",
-  "LastChanged_Achievements": "2023-08-31T21:06:40.1263016+00:00",
+  "LastChanged_Achievements": "2023-08-31T22:06:41.7669622+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:42.7736481+00:00",
-  "LastUpdate_Ratings": "2023-08-31T20:58:09.9670863+00:00",
-  "LastUpdate_Achievements": "2023-08-31T21:06:40.1264246+00:00"
+  "LastUpdate_Ratings": "2023-08-31T21:58:14.354722+00:00",
+  "LastUpdate_Achievements": "2023-08-31T22:06:41.7670496+00:00"
 }

@@ -116,9 +116,9 @@
       "ID": "BackFuture",
       "SetID": "bl5ebnd",
       "Name": "Back of the Future",
-      "Percentage": 31,
+      "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "BigBrother",
@@ -148,9 +148,9 @@
       "ID": "GoldenYouth",
       "SetID": "bl5ebnd",
       "Name": "Golden Youth",
-      "Percentage": 31,
+      "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Highway2Hell",
@@ -172,9 +172,9 @@
       "ID": "MilitaryContract",
       "SetID": "bl5ebnd",
       "Name": "Military Contract",
-      "Percentage": 50,
+      "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "NewLife",
@@ -196,17 +196,17 @@
       "ID": "PetLover",
       "SetID": "bl5ebnd",
       "Name": "Pet Lover",
-      "Percentage": 44,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "PortraitMadness",
       "SetID": "bl5ebnd",
       "Name": "Portrait of Madness",
-      "Percentage": 38,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "PrivateVisit",
@@ -259,8 +259,8 @@
   ],
   "FirstSeen": "2023-08-17T18:58:24.9645981+00:00",
   "FirstSeenAchievements": "2023-08-07T14:05:00.198888+00:00",
-  "LastChanged_Achievements": "2023-08-31T21:08:17.7167355+00:00",
+  "LastChanged_Achievements": "2023-08-31T22:07:08.1657182+00:00",
   "LastUpdate_AppInfo": "2023-08-31T13:01:50.1916248+00:00",
-  "LastUpdate_Ratings": "2023-08-31T20:59:45.9857984+00:00",
-  "LastUpdate_Achievements": "2023-08-31T21:08:17.716752+00:00"
+  "LastUpdate_Ratings": "2023-08-31T21:59:52.1003876+00:00",
+  "LastUpdate_Achievements": "2023-08-31T22:07:08.1657292+00:00"
 }

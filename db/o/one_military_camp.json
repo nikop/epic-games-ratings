@@ -3,7 +3,7 @@
   "Name": "One Military Camp",
   "ProductSlug": "one-military-camp-8db1f6",
   "Ranking_EOS_Progress": 314,
-  "Ranking_EOS_Completed": 269,
+  "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
@@ -1047,6 +1047,6 @@
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
   "LastChanged_Achievements": "2023-08-31T21:02:23.0100386+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:36.7949138+00:00",
-  "LastUpdate_Ratings": "2023-08-31T20:57:42.7690853+00:00",
+  "LastUpdate_Ratings": "2023-08-31T21:57:45.7988255+00:00",
   "LastUpdate_Achievements": "2023-08-31T21:02:23.0100805+00:00"
 }

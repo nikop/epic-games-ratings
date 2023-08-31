@@ -6,25 +6,25 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MU/TH/UR Dearest | 0.90% | ~7,505 |
-| It wakes | 0.80% | ~6,671 |
-| Skillful | 0.70% | ~5,837 |
-| Zealous | 0.60% | ~5,003 |
-| Not half bad | 0.60% | ~5,003 |
-| Make Some Noise | 0.60% | ~5,003 |
-| Handyman | 0.50% | ~4,169 |
-| Apt Survivor | 0.50% | ~4,169 |
-| Survival Treasures | 0.50% | ~4,169 |
-| Terror of LV-426 | 0.50% | ~4,169 |
-| The Grand Sacrifice | 0.40% | ~3,335 |
-| No one left behind | 0.40% | ~3,335 |
-| Medic | 0.40% | ~3,335 |
-| Nerves of steel | 0.40% | ~3,335 |
-| Bloody Millionaire | 0.40% | ~3,335 |
-| I | 0.40% | ~3,335 |
-| Sorted | 0.40% | ~3,335 |
-| Healthy Obsession | 0.40% | ~3,335 |
-| Resurgence | 0.40% | ~3,335 |
+| MU/TH/UR Dearest | 0.90% | ~7,506 |
+| It wakes | 0.80% | ~6,672 |
+| Skillful | 0.70% | ~5,838 |
+| Zealous | 0.60% | ~5,004 |
+| Not half bad | 0.60% | ~5,004 |
+| Make Some Noise | 0.60% | ~5,004 |
+| Handyman | 0.50% | ~4,170 |
+| Apt Survivor | 0.50% | ~4,170 |
+| Survival Treasures | 0.50% | ~4,170 |
+| Terror of LV-426 | 0.50% | ~4,170 |
+| The Grand Sacrifice | 0.40% | ~3,336 |
+| No one left behind | 0.40% | ~3,336 |
+| Medic | 0.40% | ~3,336 |
+| Nerves of steel | 0.40% | ~3,336 |
+| Bloody Millionaire | 0.40% | ~3,336 |
+| I | 0.40% | ~3,336 |
+| Sorted | 0.40% | ~3,336 |
+| Healthy Obsession | 0.40% | ~3,336 |
+| Resurgence | 0.40% | ~3,336 |
 | Agonizing Escape | 0.30% | ~2,502 |
 | Backdoor Escape | 0.30% | ~2,502 |
 | I've got your back | 0.30% | ~2,502 |
@@ -41,10 +41,13 @@ Number of Ratings: 70,340  (23.09.2022)
 | Second Act | 0.30% | ~2,502 |
 | Blood on your hands | 0.20% | ~1,668 |
 | Made it out alive! | 0.20% | ~1,668 |
+| Gifts for the Fog | 0.20% | ~1,668 |
 | Vulture | 0.20% | ~1,668 |
 | III | 0.20% | ~1,668 |
 | III-50 | 0.20% | ~1,668 |
 | Item of Obsession | 0.20% | ~1,668 |
+| Holiday Get-Together | 0.20% | ~1,668 |
+| Near-Death Experience | 0.20% | ~1,668 |
 | Cherish your Life | 0.20% | ~1,668 |
 | Unforgettable Getaway | 0.20% | ~1,668 |
 | First to the Punch | 0.20% | ~1,668 |
@@ -53,6 +56,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Flight to Freedom | 0.20% | ~1,668 |
 | A Fast Death | 0.20% | ~1,668 |
 | Lifting The Fog | 0.20% | ~1,668 |
+| Complete the Evolution | 0.20% | ~1,668 |
 | One More Step | 0.20% | ~1,668 |
 | A bite for the Entity | 0.10% | ~834 |
 | A feast for the Entity | 0.10% | ~834 |
@@ -63,7 +67,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | The Grind | 0.10% | ~834 |
 | Escape Artist | 0.10% | ~834 |
 | The Key to Escape | 0.10% | ~834 |
-| Gifts for the Fog | 0.10% | ~834 |
 | Adept Jake | 0.10% | ~834 |
 | Adept Dwight | 0.10% | ~834 |
 | Adept Claudette | 0.10% | ~834 |
@@ -107,13 +110,11 @@ Number of Ratings: 70,340  (23.09.2022)
 | Looter | 0.10% | ~834 |
 | Escaping the Nightmare | 0.10% | ~834 |
 | Adept Quentin | 0.10% | ~834 |
-| Holiday Get-Together | 0.10% | ~834 |
 | Milk 'n' Cookies | 0.10% | ~834 |
 | Happy Holidays | 0.10% | ~834 |
 | I Want to Play a Game | 0.10% | ~834 |
 | Game Over | 0.10% | ~834 |
 | Adept Pig | 0.10% | ~834 |
-| Near-Death Experience | 0.10% | ~834 |
 | Adept Tapp | 0.10% | ~834 |
 | Party Crasher | 0.10% | ~834 |
 | Smoked | 0.10% | ~834 |
@@ -226,7 +227,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Thalita | 0.10% | ~834 |
 | Adept Renato | 0.10% | ~834 |
 | Slip Into the Stream | 0.10% | ~834 |
-| Complete the Evolution | 0.10% | ~834 |
 | Adept Singularity | 0.10% | ~834 |
 | Extraterrestrial | 0.10% | ~834 |
 | Adept Gabriel | 0.10% | ~834 |
@@ -236,8 +236,8 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~834 |
 | Adept Ripley | 0.10% | ~834 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 833,839 (Ranked 15)  
-Completed: 48 (0.01%) (Ranked 256)  
+Progressed: 833,977 (Ranked 15)  
+Completed: 48 (0.01%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -369,7 +369,7 @@ Completed: 48 (0.01%) (Ranked 256)
 | 2023-08-28 | 824,988 | 48 |
 | 2023-08-29 | 828,020 | 48 |
 | 2023-08-30 | 831,117 | 48 |
-| 2023-08-31 | 833,839 | 48 |
+| 2023-08-31 | 833,977 | 48 |
 ## Awards
 Max (Diverse Characters): 31,726  (Ranked 15)  
 Sum: 248,913 (Ranked 11)  

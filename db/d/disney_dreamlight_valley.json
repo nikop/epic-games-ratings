@@ -3360,9 +3360,9 @@
       "Count": 495
     }
   ],
-  "EOS_Progressed": 9181,
+  "EOS_Progressed": 9182,
   "EOS_Completed": 206,
-  "EOS_NewPlayers": 220,
+  "EOS_NewPlayers": 219,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 2.24,
   "EosHistory": [
@@ -11245,6 +11245,11 @@
       "Time": "2023-08-31T21:06:07.629346+00:00",
       "NumProgressed": 9181,
       "NumCompleted": 206
+    },
+    {
+      "Time": "2023-08-31T22:06:10.545252+00:00",
+      "NumProgressed": 9182,
+      "NumCompleted": 206
     }
   ],
   "TotalAchievements": 15,
@@ -11296,7 +11301,7 @@
       "Name": "Constructor",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 4774
+      "UsersEstimate": 4775
     },
     {
       "ID": "Duty_Bound",
@@ -11336,7 +11341,7 @@
       "Name": "Miner",
       "Percentage": 8,
       "XP": 75,
-      "UsersEstimate": 734
+      "UsersEstimate": 735
     },
     {
       "ID": "Photographer",
@@ -11344,7 +11349,7 @@
       "Name": "Photographer",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 6335
+      "UsersEstimate": 6336
     },
     {
       "ID": "Renovator",
@@ -11352,7 +11357,7 @@
       "Name": "Renovator",
       "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 4774
+      "UsersEstimate": 4775
     },
     {
       "ID": "Thorn_Cleaner",
@@ -11368,14 +11373,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 63,
       "XP": 100,
-      "UsersEstimate": 5784
+      "UsersEstimate": 5785
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 9181,
+      "Progressed": 9182,
       "Completed": 206
     }
   ],
@@ -11383,8 +11388,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-08-30T19:02:11.0684426+00:00",
-  "LastChanged_Achievements": "2023-08-31T21:06:07.6293454+00:00",
+  "LastChanged_Achievements": "2023-08-31T22:06:10.5452514+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:53.8658984+00:00",
-  "LastUpdate_Ratings": "2023-08-31T20:57:08.6009456+00:00",
-  "LastUpdate_Achievements": "2023-08-31T21:06:07.6294184+00:00"
+  "LastUpdate_Ratings": "2023-08-31T21:57:11.0761147+00:00",
+  "LastUpdate_Achievements": "2023-08-31T22:06:10.5452977+00:00"
 }

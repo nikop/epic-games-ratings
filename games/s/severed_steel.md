@@ -5,20 +5,20 @@ Rating: 4.69 (Ranked 218)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 29.00% | ~189,199 |
-| 50 HEADSHOTS | 27.00% | ~176,151 |
-| SCIENCE AND INDUSTRY | 26.00% | ~169,627 |
-| FINISHED CHAPTER 1 | 25.00% | ~163,103 |
-| FINISHED CHAPTER 2 | 18.00% | ~117,434 |
-| 200 HEADSHOTS | 16.00% | ~104,386 |
-| FINISHED CHAPTER 3 | 15.00% | ~97,862 |
-| FINISHED CHAPTER 4 | 13.00% | ~84,814 |
-| FINISH CHAPTER 5 | 11.00% | ~71,765 |
-| FINISH CHAPTER 6 | 9.00% | ~58,717 |
-| CATHARTIC ESCAPISM | 9.00% | ~58,717 |
-| 1000 KILLS | 8.00% | ~52,193 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~26,096 |
-| FIRST BLOOD | 2.00% | ~13,048 |
+| 100 KILLS | 29.00% | ~189,206 |
+| 50 HEADSHOTS | 27.00% | ~176,158 |
+| SCIENCE AND INDUSTRY | 26.00% | ~169,633 |
+| FINISHED CHAPTER 1 | 25.00% | ~163,109 |
+| FINISHED CHAPTER 2 | 18.00% | ~117,438 |
+| 200 HEADSHOTS | 16.00% | ~104,390 |
+| FINISHED CHAPTER 3 | 15.00% | ~97,865 |
+| FINISHED CHAPTER 4 | 13.00% | ~84,817 |
+| FINISH CHAPTER 5 | 11.00% | ~71,768 |
+| FINISH CHAPTER 6 | 9.00% | ~58,719 |
+| CATHARTIC ESCAPISM | 9.00% | ~58,719 |
+| 1000 KILLS | 8.00% | ~52,195 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~26,097 |
+| FIRST BLOOD | 2.00% | ~13,049 |
 | FIREFIGHT LEVEL 20 | 1.00% | ~6,524 |
 | PACEMAKER | 1.00% | ~6,524 |
 | TIME PARADOX | 0.90% | ~5,872 |
@@ -58,8 +58,8 @@ Rating: 4.69 (Ranked 218)
 | THE GAMBLER | 0.10% | ~652 |
 | WARRIOR IN A GARDEN | 0.10% | ~652 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 652,412 (Ranked 25)  
-Completed: 56 (0.01%) (Ranked 256)  
+Progressed: 652,436 (Ranked 25)  
+Completed: 56 (0.01%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -191,7 +191,7 @@ Completed: 56 (0.01%) (Ranked 256)
 | 2023-08-28 | 650,313 | 54 |
 | 2023-08-29 | 651,099 | 55 |
 | 2023-08-30 | 651,781 | 56 |
-| 2023-08-31 | 652,412 | 56 |
+| 2023-08-31 | 652,436 | 56 |
 ## Awards
 Max (Great Boss Battles): 268  (Ranked 249)  
 Sum: 268 (Ranked 353)  
