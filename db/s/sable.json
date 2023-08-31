@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 122,
   "Ranking_EOS_NewPlayers": 46,
-  "Ranking_EOS_NewCompleters": 12,
+  "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2021-09-23T13:00:00+00:00",
     "PcReleaseDate": "2021-09-23T13:00:00+00:00",
@@ -410,10 +410,10 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 86561,
-  "EOS_Completed": 857,
-  "EOS_NewPlayers": 1307,
-  "EOS_NewCompleters": 20,
+  "EOS_Progressed": 86563,
+  "EOS_Completed": 858,
+  "EOS_NewPlayers": 1302,
+  "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
     {
@@ -15175,6 +15175,11 @@
       "Time": "2023-08-30T23:07:54.0822994+00:00",
       "NumProgressed": 86561,
       "NumCompleted": 857
+    },
+    {
+      "Time": "2023-08-31T00:08:40.2366873+00:00",
+      "NumProgressed": 86563,
+      "NumCompleted": 858
     }
   ],
   "TotalAchievements": 56,
@@ -15210,7 +15215,7 @@
       "Name": "The Quick and the Curious",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 3462
+      "UsersEstimate": 3463
     },
     {
       "ID": "ach_004_complete_historical_reconnection",
@@ -15290,7 +15295,7 @@
       "Name": "Many Different Faces",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 7790
+      "UsersEstimate": 7791
     },
     {
       "ID": "ach_014_first_chum_egg",
@@ -15314,7 +15319,7 @@
       "Name": "The Dunboyne",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 14715
+      "UsersEstimate": 14716
     },
     {
       "ID": "ach_017_door_trellicks_pillar",
@@ -15322,7 +15327,7 @@
       "Name": "Trellick\u0027s Pillar",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 7790
+      "UsersEstimate": 7791
     },
     {
       "ID": "ach_018_door_shadow_of_neave",
@@ -15346,7 +15351,7 @@
       "Name": "Centre Of Brunswick",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 7790
+      "UsersEstimate": 7791
     },
     {
       "ID": "ach_021_door_balfron_connection",
@@ -15394,7 +15399,7 @@
       "Name": "Up On High",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 21640
+      "UsersEstimate": 21641
     },
     {
       "ID": "ach_027_fix_atomic_heart",
@@ -15466,7 +15471,7 @@
       "Name": "Bike Collector",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 7790
+      "UsersEstimate": 7791
     },
     {
       "ID": "ach_036_collect_bike_parts_2",
@@ -15474,7 +15479,7 @@
       "Name": "Bike Aficionado",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 3462
+      "UsersEstimate": 3463
     },
     {
       "ID": "ach_037_collect_badges_1",
@@ -15482,7 +15487,7 @@
       "Name": "Badge Hobbyist",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 14715
+      "UsersEstimate": 14716
     },
     {
       "ID": "ach_038_collect_badges_2",
@@ -15490,7 +15495,7 @@
       "Name": "Badge Collector",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 10387
+      "UsersEstimate": 10388
     },
     {
       "ID": "ach_039_build_hoverbike",
@@ -15506,7 +15511,7 @@
       "Name": "Under The Hood",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 21640
+      "UsersEstimate": 21641
     },
     {
       "ID": "ach_041_talk_to_npcs_1",
@@ -15578,7 +15583,7 @@
       "Name": "Not That Kind Of Gliding",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 7790
+      "UsersEstimate": 7791
     },
     {
       "ID": "ach_050_collect_clothing_items_1",
@@ -15586,7 +15591,7 @@
       "Name": "Wrapping Up",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 19043
+      "UsersEstimate": 19044
     },
     {
       "ID": "ach_051_collect_clothing_items_2",
@@ -15618,7 +15623,7 @@
       "Name": "Quite The Catch",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 10387
+      "UsersEstimate": 10388
     },
     {
       "ID": "ach_055_complete_vivarium",
@@ -15633,15 +15638,15 @@
     {
       "ID": "585ckk9",
       "IsBase": true,
-      "Progressed": 86561,
-      "Completed": 857
+      "Progressed": 86563,
+      "Completed": 858
     }
   ],
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:25.3097347+00:00",
   "LastChanged": "2023-08-20T16:01:40.1861945+00:00",
-  "LastChanged_Achievements": "2023-08-30T23:07:54.0822987+00:00",
+  "LastChanged_Achievements": "2023-08-31T00:08:40.2366864+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:57.4482093+00:00",
-  "LastUpdate_Ratings": "2023-08-30T22:58:26.9377065+00:00",
-  "LastUpdate_Achievements": "2023-08-30T23:07:54.0824599+00:00"
+  "LastUpdate_Ratings": "2023-08-30T23:58:55.4451314+00:00",
+  "LastUpdate_Achievements": "2023-08-31T00:08:40.2368994+00:00"
 }

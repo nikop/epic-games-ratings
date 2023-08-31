@@ -52,6 +52,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Manichaeism | 2.00% | ~274 |
 | Babylonian Paganism | 2.00% | ~274 |
 | Carthaginian Paganism | 2.00% | ~274 |
+| Egyptian Paganism | 2.00% | ~274 |
 | Greek Paganism | 2.00% | ~274 |
 | Roman Paganism | 2.00% | ~274 |
 | Zoroastrianism | 2.00% | ~274 |
@@ -76,7 +77,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Musaeum | 1.00% | ~137 |
 | Learn to Play 2 | 1.00% | ~137 |
 | Greece | 1.00% | ~137 |
-| Egyptian Paganism | 1.00% | ~137 |
 | Persian Paganism | 1.00% | ~137 |
 | Building Wonders | 1.00% | ~137 |
 | Mythology | 1.00% | ~137 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,689 (Ranked 120)  
+Progressed: 13,691 (Ranked 120)  
 Completed: 5 (0.04%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -436,6 +436,7 @@ Completed: 5 (0.04%) (Ranked 236)
 | 2023-08-28 | 13,635 | 5 |
 | 2023-08-29 | 13,661 | 5 |
 | 2023-08-30 | 13,689 | 5 |
+| 2023-08-31 | 13,691 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,800 (Ranked 207)  

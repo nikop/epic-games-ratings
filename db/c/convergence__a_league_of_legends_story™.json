@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 850,
+  "EOS_Progressed": 851,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -2075,6 +2075,11 @@
       "Time": "2023-08-30T20:03:57.3718163+00:00",
       "NumProgressed": 850,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-31T00:04:08.360602+00:00",
+      "NumProgressed": 851,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -2086,7 +2091,7 @@
       "Name": "Thinking Two Steps Ahead",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "CamilleDefeated",
@@ -2142,7 +2147,7 @@
       "Name": "Clovemary for Remembering",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "CosmeticCompletion1",
@@ -2198,7 +2203,7 @@
       "Name": "Fairgrounds Explorer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "FutureEkko1Defeated",
@@ -2206,7 +2211,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -2358,7 +2363,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "PidgeDefeated",
@@ -2398,7 +2403,7 @@
       "Name": "Golem Chaser",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "SkillCompletion1",
@@ -2406,7 +2411,7 @@
       "Name": "Rungs Was Right",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "SkillProgress1",
@@ -2422,7 +2427,7 @@
       "Name": "No Time to Waste",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "SumpChests1",
@@ -2430,7 +2435,7 @@
       "Name": "Sump Explorer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "SyronGift",
@@ -2438,7 +2443,7 @@
       "Name": "Syron for Hope",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "TemporalPulseKills1",
@@ -2509,7 +2514,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 850,
+      "Progressed": 851,
       "Completed": 5
     }
   ],
@@ -2517,8 +2522,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-08-30T23:03:55.4032952+00:00",
+  "LastChanged_Achievements": "2023-08-31T00:04:08.3606014+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:03.8052712+00:00",
-  "LastUpdate_Ratings": "2023-08-30T22:58:41.090413+00:00",
-  "LastUpdate_Achievements": "2023-08-30T23:03:55.4033501+00:00"
+  "LastUpdate_Ratings": "2023-08-30T23:59:12.30296+00:00",
+  "LastUpdate_Achievements": "2023-08-31T00:04:08.3606603+00:00"
 }

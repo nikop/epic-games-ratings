@@ -4,7 +4,7 @@
   "ProductSlug": "cafe-owner-simulator-749e0f",
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-04-12T13:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 959,
+  "EOS_Progressed": 960,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2903,6 +2903,11 @@
       "Time": "2023-08-30T19:03:46.491894+00:00",
       "NumProgressed": 959,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-31T00:04:33.7692808+00:00",
+      "NumProgressed": 960,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 14,
@@ -2912,9 +2917,9 @@
       "ID": "ADVANCED",
       "SetID": "64e5lgf",
       "Name": "ADVANCED",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 403
+      "UsersEstimate": 394
     },
     {
       "ID": "BUSINESS_OWNER",
@@ -2922,7 +2927,7 @@
       "Name": "BUSINESS OWNER",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "CHIEF",
@@ -2930,7 +2935,7 @@
       "Name": "CHIEF",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "CLEANER",
@@ -2938,7 +2943,7 @@
       "Name": "CLEANER",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 892
+      "UsersEstimate": 893
     },
     {
       "ID": "DEBTOR",
@@ -2978,7 +2983,7 @@
       "Name": "OH NO, HE\u0027S LEAVING!",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "INTRODUCTION",
@@ -3025,7 +3030,7 @@
     {
       "ID": "64e5lgf",
       "IsBase": true,
-      "Progressed": 959,
+      "Progressed": 960,
       "Completed": 0
     }
   ],
@@ -3033,8 +3038,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2023-08-30T23:04:18.0051121+00:00",
+  "LastChanged_Achievements": "2023-08-31T00:04:33.7692801+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:04.3769118+00:00",
-  "LastUpdate_Ratings": "2023-08-30T22:58:42.9194489+00:00",
-  "LastUpdate_Achievements": "2023-08-30T23:04:18.0051754+00:00"
+  "LastUpdate_Ratings": "2023-08-30T23:59:14.4292057+00:00",
+  "LastUpdate_Achievements": "2023-08-31T00:04:33.76931+00:00"
 }

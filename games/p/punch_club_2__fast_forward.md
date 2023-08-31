@@ -9,12 +9,12 @@
 | Good Person Chip | 85.00% | ~246 |
 | First winning | 83.00% | ~240 |
 | Your first job | 82.00% | ~237 |
-| Old movies enjoyer | 78.00% | ~225 |
+| Old movies enjoyer | 79.00% | ~228 |
 | Fitness professional | 77.00% | ~223 |
 | Depressed visitor | 76.00% | ~220 |
+| Neurotrainer – power gainer! | 75.00% | ~217 |
 | Employee of the week | 75.00% | ~217 |
 | Your own amateur gym | 74.00% | ~214 |
-| Neurotrainer – power gainer! | 74.00% | ~214 |
 | First defeat | 73.00% | ~211 |
 | Run K, run! | 71.00% | ~205 |
 | Hello, world! | 68.00% | ~197 |
@@ -31,8 +31,8 @@
 | Fight for life | 57.00% | ~165 |
 | Little hacker | 57.00% | ~165 |
 | Handyman | 57.00% | ~165 |
+| Intriguing candies | 57.00% | ~165 |
 | Employee of the year | 57.00% | ~165 |
-| Intriguing candies | 56.00% | ~162 |
 | Legal courier | 53.00% | ~153 |
 | Extreme neuropower! | 53.00% | ~153 |
 | Escaped from a big trouble | 50.00% | ~144 |

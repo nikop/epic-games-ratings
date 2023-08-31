@@ -2243,9 +2243,9 @@
       "ID": "Close",
       "SetID": "1e89b4i",
       "Name": "That Was Close!",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 106
+      "UsersEstimate": 112
     },
     {
       "ID": "Creator",
@@ -2363,9 +2363,9 @@
       "ID": "LongDistance",
       "SetID": "1e89b4i",
       "Name": "Long Distances",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 112
+      "UsersEstimate": 118
     },
     {
       "ID": "ManagementMaster",
@@ -2538,8 +2538,8 @@
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-08-30T23:05:28.8123644+00:00",
+  "LastChanged_Achievements": "2023-08-31T00:05:54.0207157+00:00",
   "LastUpdate_AppInfo": "2023-08-29T11:57:10.9614599+00:00",
-  "LastUpdate_Ratings": "2023-08-30T23:00:08.5357842+00:00",
-  "LastUpdate_Achievements": "2023-08-30T23:05:28.8124089+00:00"
+  "LastUpdate_Ratings": "2023-08-31T00:00:55.676818+00:00",
+  "LastUpdate_Achievements": "2023-08-31T00:05:54.0207647+00:00"
 }

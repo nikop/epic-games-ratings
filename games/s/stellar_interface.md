@@ -63,19 +63,22 @@
 | Anger Management | 3.00% | ~2 |
 | Almost There II | 3.00% | ~2 |
 | Revenge | 2.00% | ~1 |
+| Bronze Tovarish | 2.00% | ~1 |
 | Bronze Alchemist | 2.00% | ~1 |
 | Galactic Ensign | 2.00% | ~1 |
+| Space Magellan | 2.00% | ~1 |
 | Golden Foundation | 2.00% | ~1 |
 | Sectoral Admiral | 2.00% | ~1 |
 | Golden Pest Control | 2.00% | ~1 |
 | The Healer | 2.00% | ~1 |
+| Usurper III | 2.00% | ~1 |
 | 80Gb HDD | 2.00% | ~1 |
 | Galactic Captain | 2.00% | ~1 |
 | You've drone good! | 2.00% | ~1 |
 | System Captain | 2.00% | ~1 |
+| Silver BBQ | 2.00% | ~1 |
 | Collateral Damage III | 2.00% | ~1 |
 | Providence | 0.00% | ~0 |
-| Bronze Tovarish | 0.00% | ~0 |
 | Archer's Bronze Fate | 0.00% | ~0 |
 | Magic Bronze mirror; on the wall | 0.00% | ~0 |
 | Universal Ensign | 0.00% | ~0 |
@@ -85,7 +88,6 @@
 | Space Odysseus | 0.00% | ~0 |
 | Argonaut | 0.00% | ~0 |
 | Voyager 3 | 0.00% | ~0 |
-| Space Magellan | 0.00% | ~0 |
 | Pedal to the Metal | 0.00% | ~0 |
 | No Peace No Love | 0.00% | ~0 |
 | Freedom Fighter | 0.00% | ~0 |
@@ -116,7 +118,6 @@
 | Usurper IV | 0.00% | ~0 |
 | Rampage | 0.00% | ~0 |
 | Usurper V | 0.00% | ~0 |
-| Usurper III | 0.00% | ~0 |
 | Five-O | 0.00% | ~0 |
 | Galactic Colonel | 0.00% | ~0 |
 | Galactic Major | 0.00% | ~0 |
@@ -127,7 +128,6 @@
 | Magic Silver mirror; on the wall | 0.00% | ~0 |
 | Galactic Captain | 0.00% | ~0 |
 | Universal Captain | 0.00% | ~0 |
-| Silver BBQ | 0.00% | ~0 |
 | Consumist | 0.00% | ~0 |
 | Hal | 0.00% | ~0 |
 | Collateral Damage IV | 0.00% | ~0 |
@@ -137,7 +137,7 @@
 | Fighting Fit IV | 0.00% | ~0 |
 | Fighting Fit V | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61 (Ranked 369)  
+Progressed: 61 (Ranked 370)  
 Completed: 0 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 26.00% | ~57,058 |
+| Sowwy! | 26.00% | ~57,060 |
 | Where's that freaking Dwarf? | 3.00% | ~6,584 |
 | Alt+F4 | 3.00% | ~6,584 |
 | Déjà vu | 2.00% | ~4,389 |
@@ -19,6 +19,7 @@ Number of Ratings: 118  (23.09.2022)
 | Way of the Wimp | 1.00% | ~2,195 |
 | The plot thickens... At the tavern | 1.00% | ~2,195 |
 | DM intervention | 1.00% | ~2,195 |
+| Oh, when I'll be level 10... | 1.00% | ~2,195 |
 | The demons' feast | 0.90% | ~1,975 |
 | The Great Library | 0.90% | ~1,975 |
 | Torture and Sensibility | 0.90% | ~1,975 |
@@ -26,17 +27,16 @@ Number of Ratings: 118  (23.09.2022)
 | The Dungeon Master | 0.90% | ~1,975 |
 | The Woman in the High Castle | 0.90% | ~1,975 |
 | Team Building Exercise | 0.90% | ~1,975 |
-| Oh, when I'll be level 10... | 0.90% | ~1,975 |
 | Shiny and Crôm | 0.80% | ~1,756 |
 | The Statuette of Gladeulfeurah | 0.80% | ~1,756 |
 | A tale of adventurers not quite like the others... | 0.80% | ~1,756 |
 | The Ranger of Chaos | 0.80% | ~1,756 |
 | I am the night | 0.80% | ~1,756 |
+| The Famous Dungeon of Naheulbeuk | 0.70% | ~1,536 |
 | %#*!$*! | 0.70% | ~1,536 |
 | The beards of change | 0.70% | ~1,536 |
 | Thieves' Guild Accreditation | 0.70% | ~1,536 |
 | Res Judicata | 0.60% | ~1,317 |
-| The Famous Dungeon of Naheulbeuk | 0.60% | ~1,317 |
 | Dwarf Fortress | 0.60% | ~1,317 |
 | Look but don't touch | 0.60% | ~1,317 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.50% | ~1,097 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~219 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,453 (Ranked 57)  
+Progressed: 219,462 (Ranked 57)  
 Completed: 2 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,6 +187,7 @@ Completed: 2 (0.00%) (Ranked 266)
 | 2023-08-28 | 218,694 | 2 |
 | 2023-08-29 | 219,078 | 2 |
 | 2023-08-30 | 219,453 | 2 |
+| 2023-08-31 | 219,462 | 2 |
 ## Awards
 Max (Character Customization): 184  (Ranked 279)  
 Sum: 230 (Ranked 360)  

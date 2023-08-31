@@ -137,9 +137,9 @@
       "ID": "BRING_MARY",
       "SetID": "aniflfk",
       "Name": "Retro Diva",
-      "Percentage": 24,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "BRING_PROSPERO",
@@ -177,9 +177,9 @@
       "ID": "GO_ON_EXPEDITION",
       "SetID": "aniflfk",
       "Name": "Off on an Expedition!",
-      "Percentage": 24,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -265,9 +265,9 @@
       "ID": "TAKE_LEECH",
       "SetID": "aniflfk",
       "Name": "Uppies!",
-      "Percentage": 28,
+      "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -288,8 +288,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-08-30T23:07:03.2357926+00:00",
+  "LastChanged_Achievements": "2023-08-31T00:07:42.2608622+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:06.6191746+00:00",
-  "LastUpdate_Ratings": "2023-08-30T23:00:19.9608548+00:00",
-  "LastUpdate_Achievements": "2023-08-30T23:07:03.2358081+00:00"
+  "LastUpdate_Ratings": "2023-08-31T00:01:09.0473037+00:00",
+  "LastUpdate_Achievements": "2023-08-31T00:07:42.2608889+00:00"
 }

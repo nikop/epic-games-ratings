@@ -4,7 +4,7 @@
 Rating: 4.33 (Ranked 773)  
 ## Awards
 Max (Character Customization): 1,640  (Ranked 119)  
-Sum: 2,378 (Ranked 181)  
+Sum: 2,382 (Ranked 181)  
 Diff (max vs sum): -62  
 | Award | Count |
 | ----- | ----- |
@@ -14,8 +14,8 @@ Diff (max vs sum): -62
 | This game has Diverse Characters | 114 |
 | This game has Quickly Understood Controls | 112 |
 | This game is Great for Beginners | 106 |
+| This game is Relaxing | 98 |
 | This game is Extremely Fun | 97 |
-| This game is Relaxing | 94 |
 | This game has Amazing Characters | 92 |
 | This game has Beautiful Visuals | 42 |
 ## Ratings History
@@ -61,4 +61,4 @@ Diff (max vs sum): -62
 | 2023-08-27 | 4.33 | 1,538 | 2,210 |
 | 2023-08-28 | 4.33 | 1,566 | 2,258 |
 | 2023-08-29 | 4.33 | 1,608 | 2,323 |
-| 2023-08-30 | 4.33 | 1,640 | 2,378 |
+| 2023-08-30 | 4.33 | 1,640 | 2,382 |

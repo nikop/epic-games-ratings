@@ -2,7 +2,7 @@
   "ID": "d3c246767bfc4056af80742e75319d79",
   "Name": "Stellar Interface",
   "ProductSlug": "stellar-interface-d14cc4",
-  "Ranking_EOS_Progress": 369,
+  "Ranking_EOS_Progress": 370,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 341,
   "Ranking_EOS_NewCompleters": 103,
@@ -341,9 +341,9 @@
       "ID": "BronzeBabushkaBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Bronze Tovarish",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BronzeBallyBossDefeatedAchievement",
@@ -549,9 +549,9 @@
       "ID": "ClearedAllLevels5TimesAchievement",
       "SetID": "a8djcgh",
       "Name": "Space Magellan",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CompleteAllMissionsAchievement",
@@ -997,9 +997,9 @@
       "ID": "Killed50BossesAchievement",
       "SetID": "a8djcgh",
       "Name": "Usurper III",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "LilySpacecraftUnlockAchievement",
@@ -1205,9 +1205,9 @@
       "ID": "SilverSpaceWinnerBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Silver BBQ",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SilverTheHiveBossDefeatedAchievement",
@@ -1388,8 +1388,8 @@
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-08-30T23:05:14.6216321+00:00",
+  "LastChanged_Achievements": "2023-08-31T00:05:38.1431429+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:41.6007938+00:00",
-  "LastUpdate_Ratings": "2023-08-30T22:57:31.7929486+00:00",
-  "LastUpdate_Achievements": "2023-08-30T23:05:14.6217909+00:00"
+  "LastUpdate_Ratings": "2023-08-30T23:57:51.6678913+00:00",
+  "LastUpdate_Achievements": "2023-08-31T00:05:38.1433577+00:00"
 }

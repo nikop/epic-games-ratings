@@ -27,21 +27,21 @@
 | The Emperor's New Clothes | 33.00% | ~58 |
 | Godlike Power | 31.00% | ~55 |
 | Undying Skin | 31.00% | ~55 |
+| Happy Little Home | 31.00% | ~55 |
 | Final Evolution | 31.00% | ~55 |
 | You Shall Not Pass | 30.00% | ~53 |
 | Animal Lover | 30.00% | ~53 |
-| Happy Little Home | 30.00% | ~53 |
-| Fight Me! | 29.00% | ~51 |
+| Fight Me! | 30.00% | ~53 |
 | Mommy's Very Angry | 28.00% | ~49 |
 | Supremacy | 28.00% | ~49 |
-| Loyal Companion | 25.00% | ~44 |
+| Loyal Companion | 26.00% | ~46 |
+| Back To The Future | 24.00% | ~42 |
 | Immortal Skin | 24.00% | ~42 |
-| Back To The Future | 23.00% | ~40 |
 | Fire Beacon | 23.00% | ~40 |
 | Lunch Before The Lunch | 22.00% | ~39 |
+| From Here To Eternity | 19.00% | ~33 |
 | Building Blocks | 19.00% | ~33 |
-| From Here To Eternity | 18.00% | ~32 |
-| Octopostructure | 17.00% | ~30 |
+| Octopostructure | 18.00% | ~32 |
 | Boss Hunter | 16.00% | ~28 |
 | Hawkman | 9.00% | ~16 |
 | Annihilate | 8.00% | ~14 |
