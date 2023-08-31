@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Number One Fighter](games/f/fcd9585216ba41ba95776d681714d8e4.md) | 2023-08-31 | - |  | - | - |
 | [Arena Renovation](games/a/a475e165d6c6476d9417458bc53cd71b.md) | 2023-09-01 | - |  | - | - |
 | [Creatura](games/1/1c0a8b3f4f0b4899ac5a8231dc7f4621.md) | 2023-09-01 | - |  | - | - |
 | [Split](games/3/352f45e3b1c345a6b693997044461f79.md) | 2023-09-01 | - |  | - | - |

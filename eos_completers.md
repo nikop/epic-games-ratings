@@ -3,7 +3,7 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.00% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.31% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 34.86% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 34.23% |
 | 5 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 33.33% |
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.95% |
 | 7 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
@@ -81,7 +81,7 @@
 | 79 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.74% |
 | 80 | [Destiny 2](games/d/destiny_2.md) | 2.73% |
 | 80 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
-| 82 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.69% |
+| 82 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.68% |
 | 83 | [The Bunker](games/t/the_bunker.md) | 2.61% |
 | 84 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.58% |
 | 85 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.57% |
@@ -89,10 +89,10 @@
 | 87 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.50% |
 | 87 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 89 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.34% |
-| 90 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.24% |
+| 90 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.23% |
 | 91 | [Bloodshore](games/b/bloodshore.md) | 2.20% |
 | 92 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
-| 93 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.10% |
+| 93 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.09% |
 | 94 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.00% |
 | 95 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
 | 96 | [Night Book](games/n/night_book.md) | 1.86% |
@@ -102,7 +102,7 @@
 | 100 | [Frogun](games/f/frogun.md) | 1.80% |
 | 101 | [Somerville](games/s/somerville.md) | 1.66% |
 | 102 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.64% |
-| 103 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 1.62% |
+| 103 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 1.61% |
 | 104 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.56% |
 | 104 | [Iron Danger](games/i/iron_danger.md) | 1.56% |
 | 106 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.55% |
