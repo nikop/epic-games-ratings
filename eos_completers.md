@@ -9,7 +9,7 @@
 | 7 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 26.17% |
 | 9 | [Overloop](games/o/overloop.md) | 25.00% |
-| 10 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.83% |
+| 10 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.66% |
 | 11 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 24.62% |
 | 12 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 13 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
@@ -65,10 +65,10 @@
 | 63 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 64 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 3.70% |
 | 65 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
-| 66 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 3.45% |
 | 66 | [Without Escape](games/w/without_escape.md) | 3.45% |
-| 68 | [Doodle God](games/d/doodle_god.md) | 3.40% |
-| 69 | [Bunny Park](games/b/bunny_park.md) | 3.37% |
+| 67 | [Doodle God](games/d/doodle_god.md) | 3.40% |
+| 68 | [Bunny Park](games/b/bunny_park.md) | 3.37% |
+| 69 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 3.33% |
 | 70 | [The Complex](games/t/the_complex.md) | 3.32% |
 | 71 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
 | 72 | [HordeCore](games/h/hordecore.md) | 3.15% |
@@ -565,4 +565,4 @@
 | 266 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 266 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 266 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,151 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,152 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
