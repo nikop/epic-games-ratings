@@ -6,39 +6,40 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 0.50% | ~4,156 |
-| MU/TH/UR Dearest | 0.50% | ~4,156 |
-| Zealous | 0.40% | ~3,325 |
-| Not half bad | 0.40% | ~3,325 |
-| Skillful | 0.40% | ~3,325 |
-| Make Some Noise | 0.40% | ~3,325 |
-| Terror of LV-426 | 0.40% | ~3,325 |
+| MU/TH/UR Dearest | 0.60% | ~4,989 |
+| It wakes | 0.50% | ~4,157 |
+| Skillful | 0.50% | ~4,157 |
+| Zealous | 0.40% | ~3,326 |
+| Not half bad | 0.40% | ~3,326 |
+| Make Some Noise | 0.40% | ~3,326 |
+| Terror of LV-426 | 0.40% | ~3,326 |
+| No one left behind | 0.30% | ~2,494 |
 | Medic | 0.30% | ~2,494 |
 | Handyman | 0.30% | ~2,494 |
+| Nerves of steel | 0.30% | ~2,494 |
+| Bloody Millionaire | 0.30% | ~2,494 |
 | Apt Survivor | 0.30% | ~2,494 |
 | Survival Treasures | 0.30% | ~2,494 |
 | I | 0.30% | ~2,494 |
 | Sorted | 0.30% | ~2,494 |
-| The Grand Sacrifice | 0.20% | ~1,662 |
-| Agonizing Escape | 0.20% | ~1,662 |
-| Backdoor Escape | 0.20% | ~1,662 |
-| I've got your back | 0.20% | ~1,662 |
-| No one left behind | 0.20% | ~1,662 |
-| Nerves of steel | 0.20% | ~1,662 |
-| Perfect Escape | 0.20% | ~1,662 |
-| Perfect Killing | 0.20% | ~1,662 |
-| Bloody Millionaire | 0.20% | ~1,662 |
-| Apt Killer | 0.20% | ~1,662 |
-| Risk it all | 0.20% | ~1,662 |
-| II | 0.20% | ~1,662 |
-| Engineer | 0.20% | ~1,662 |
-| Wounded Healer | 0.20% | ~1,662 |
-| Healthy Obsession | 0.20% | ~1,662 |
-| Resurgence | 0.20% | ~1,662 |
-| Close Shave | 0.20% | ~1,662 |
-| Preemptive Strike | 0.20% | ~1,662 |
-| Humanitarian | 0.20% | ~1,662 |
-| Second Act | 0.20% | ~1,662 |
+| The Grand Sacrifice | 0.20% | ~1,663 |
+| Agonizing Escape | 0.20% | ~1,663 |
+| Backdoor Escape | 0.20% | ~1,663 |
+| I've got your back | 0.20% | ~1,663 |
+| Perfect Escape | 0.20% | ~1,663 |
+| Perfect Killing | 0.20% | ~1,663 |
+| Apt Killer | 0.20% | ~1,663 |
+| Risk it all | 0.20% | ~1,663 |
+| II | 0.20% | ~1,663 |
+| III | 0.20% | ~1,663 |
+| Engineer | 0.20% | ~1,663 |
+| Wounded Healer | 0.20% | ~1,663 |
+| Healthy Obsession | 0.20% | ~1,663 |
+| Resurgence | 0.20% | ~1,663 |
+| Close Shave | 0.20% | ~1,663 |
+| Preemptive Strike | 0.20% | ~1,663 |
+| Humanitarian | 0.20% | ~1,663 |
+| Second Act | 0.20% | ~1,663 |
 | A bite for the Entity | 0.10% | ~831 |
 | A feast for the Entity | 0.10% | ~831 |
 | Blood on your hands | 0.10% | ~831 |
@@ -59,7 +60,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Trapper | 0.10% | ~831 |
 | Adept Wraith | 0.10% | ~831 |
 | Adept Hillbilly | 0.10% | ~831 |
-| III | 0.10% | ~831 |
 | III-50 | 0.10% | ~831 |
 | In the void she walks | 0.10% | ~831 |
 | From the void she kills | 0.10% | ~831 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~831 |
 | Adept Ripley | 0.10% | ~831 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 831,246 (Ranked 15)  
+Progressed: 831,439 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -369,10 +369,10 @@ Completed: 48 (0.01%) (Ranked 253)
 | 2023-08-28 | 824,988 | 48 |
 | 2023-08-29 | 828,020 | 48 |
 | 2023-08-30 | 831,117 | 48 |
-| 2023-08-31 | 831,246 | 48 |
+| 2023-08-31 | 831,439 | 48 |
 ## Awards
 Max (Diverse Characters): 31,677  (Ranked 15)  
-Sum: 248,552 (Ranked 11)  
+Sum: 248,582 (Ranked 11)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
@@ -381,7 +381,7 @@ Diff (max vs sum): 4
 | This game has Competitive Players | 28,355 |
 | This game has Amazing Characters | 28,088 |
 | This game is Extremely Fun | 27,872 |
-| This game has Quickly Understood Controls | 27,555 |
+| This game has Quickly Understood Controls | 27,585 |
 | This game has Challenging Combat | 27,252 |
 | This game has Amazing Storytelling | 25,544 |
 | This game has a Competitive Community | 23,843 |
@@ -609,3 +609,4 @@ Diff (max vs sum): 4
 | 2023-08-28 | 4.52 | - | 31,536 | 247,765 |
 | 2023-08-29 | 4.52 | - | 31,566 | 248,001 |
 | 2023-08-30 | 4.52 | - | 31,677 | 248,552 |
+| 2023-08-31 | 4.52 | - | 31,677 | 248,582 |

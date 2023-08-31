@@ -5,42 +5,42 @@ Rating: 4.76 (Ranked 116)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~15,343 |
-| The Killing Jar | 8.00% | ~13,638 |
-| Not Your Average Trait | 8.00% | ~13,638 |
-| Expanding Horizons | 7.00% | ~11,933 |
-| Quest for Survival | 7.00% | ~11,933 |
-| Boss'n Up | 7.00% | ~11,933 |
-| Trait Chaser | 7.00% | ~11,933 |
-| Gleaming the Cube | 6.00% | ~10,229 |
-| Not a Janitor | 6.00% | ~10,229 |
-| Familiar Face | 6.00% | ~10,229 |
-| Blue Goddess | 6.00% | ~10,229 |
-| Duality | 6.00% | ~10,229 |
-| Top Performer | 6.00% | ~10,229 |
-| Good, But Could Be Better! | 6.00% | ~10,229 |
-| Not So Special Now | 5.00% | ~8,524 |
-| Equal Measures | 5.00% | ~8,524 |
-| Shhh...It's a Secret | 5.00% | ~8,524 |
-| Almost There | 5.00% | ~8,524 |
-| Make Some Room | 5.00% | ~8,524 |
-| Chaos | 4.00% | ~6,819 |
-| Traitor | 4.00% | ~6,819 |
-| Power Surge | 4.00% | ~6,819 |
-| The God Gambit | 4.00% | ~6,819 |
-| Dark Designs | 4.00% | ~6,819 |
-| Madman's Paradise | 4.00% | ~6,819 |
-| Was This Supposed To Happen? | 4.00% | ~6,819 |
-| The Web | 4.00% | ~6,819 |
-| All These Traits� | 4.00% | ~6,819 |
-| Forever is a Long Time Coming | 3.00% | ~5,114 |
-| The Agenda | 3.00% | ~5,114 |
-| Bad Moon Rising | 3.00% | ~5,114 |
-| Strapped | 3.00% | ~5,114 |
-| Edgelord | 3.00% | ~5,114 |
-| Scrap Collector | 3.00% | ~5,114 |
-| The Ultimate Weapon | 3.00% | ~5,114 |
-| No One Should Have All That Power | 3.00% | ~5,114 |
+| First of Many | 9.00% | ~15,347 |
+| The Killing Jar | 8.00% | ~13,642 |
+| Not Your Average Trait | 8.00% | ~13,642 |
+| Expanding Horizons | 7.00% | ~11,936 |
+| Quest for Survival | 7.00% | ~11,936 |
+| Boss'n Up | 7.00% | ~11,936 |
+| Trait Chaser | 7.00% | ~11,936 |
+| Gleaming the Cube | 6.00% | ~10,231 |
+| Not a Janitor | 6.00% | ~10,231 |
+| Familiar Face | 6.00% | ~10,231 |
+| Blue Goddess | 6.00% | ~10,231 |
+| Duality | 6.00% | ~10,231 |
+| Top Performer | 6.00% | ~10,231 |
+| Good, But Could Be Better! | 6.00% | ~10,231 |
+| Not So Special Now | 5.00% | ~8,526 |
+| Equal Measures | 5.00% | ~8,526 |
+| Shhh...It's a Secret | 5.00% | ~8,526 |
+| Almost There | 5.00% | ~8,526 |
+| Make Some Room | 5.00% | ~8,526 |
+| Chaos | 4.00% | ~6,821 |
+| Traitor | 4.00% | ~6,821 |
+| Power Surge | 4.00% | ~6,821 |
+| The God Gambit | 4.00% | ~6,821 |
+| Dark Designs | 4.00% | ~6,821 |
+| Madman's Paradise | 4.00% | ~6,821 |
+| Was This Supposed To Happen? | 4.00% | ~6,821 |
+| The Web | 4.00% | ~6,821 |
+| All These Traits� | 4.00% | ~6,821 |
+| Forever is a Long Time Coming | 3.00% | ~5,116 |
+| The Agenda | 3.00% | ~5,116 |
+| Bad Moon Rising | 3.00% | ~5,116 |
+| Strapped | 3.00% | ~5,116 |
+| Edgelord | 3.00% | ~5,116 |
+| Scrap Collector | 3.00% | ~5,116 |
+| The Ultimate Weapon | 3.00% | ~5,116 |
+| No One Should Have All That Power | 3.00% | ~5,116 |
 | Crafty | 2.00% | ~3,410 |
 | Am I Seeing This? | 2.00% | ~3,410 |
 | Only Human | 2.00% | ~3,410 |
@@ -56,7 +56,7 @@ Rating: 4.76 (Ranked 116)
 | Ghost in the Machine | 0.80% | ~1,364 |
 | Proving Grounds | 0.80% | ~1,364 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 170,476 (Ranked 63)  
+Progressed: 170,519 (Ranked 63)  
 Completed: 178 (0.10%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,17 +102,17 @@ Completed: 178 (0.10%) (Ranked 213)
 | 2023-08-28 | 168,659 | 156 |
 | 2023-08-29 | 169,673 | 169 |
 | 2023-08-30 | 170,451 | 178 |
-| 2023-08-31 | 170,476 | 178 |
+| 2023-08-31 | 170,519 | 178 |
 ## Awards
 Max (Great Boss Battles): 1,280  (Ranked 134)  
-Sum: 2,273 (Ranked 188)  
+Sum: 2,280 (Ranked 188)  
 Diff (max vs sum): -54  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 1,280 |
-| This game is Highly Recommended | 110 |
+| This game is Highly Recommended | 115 |
+| This game has Challenging Combat | 111 |
 | This game is Extremely Fun | 110 |
-| This game has Challenging Combat | 109 |
 | This game has Diverse Characters | 102 |
 | This game is Relaxing | 102 |
 | This game has Amazing Characters | 97 |
@@ -159,3 +159,4 @@ Diff (max vs sum): -54
 | 2023-08-28 | 4.77 | 1,237 | 2,060 |
 | 2023-08-29 | 4.77 | 1,254 | 2,212 |
 | 2023-08-30 | 4.76 | 1,280 | 2,273 |
+| 2023-08-31 | 4.76 | 1,280 | 2,280 |

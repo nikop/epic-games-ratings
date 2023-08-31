@@ -8,6 +8,7 @@ Rating: 4.54 (Ranked 503)
 | Hotel California | 0.70% | ~4,688 |
 | Welcome To Hell-A | 0.70% | ~4,688 |
 | Break A Leg | 0.60% | ~4,018 |
+| Hazardous Materials | 0.60% | ~4,018 |
 | Personal Assistant Personally Assisted | 0.60% | ~4,018 |
 | Dr. Reed, I Presume? | 0.50% | ~3,348 |
 | Git Gutte! | 0.50% | ~3,348 |
@@ -15,13 +16,12 @@ Rating: 4.54 (Ranked 503)
 | But Doctor, I am Butcho | 0.50% | ~3,348 |
 | Can't Handle the Truth | 0.50% | ~3,348 |
 | Coup de Grâce | 0.50% | ~3,348 |
-| Hazardous Materials | 0.50% | ~3,348 |
+| Like Riding a Bike | 0.50% | ~3,348 |
 | Friends Like These | 0.50% | ~3,348 |
 | Apex Predator | 0.50% | ~3,348 |
 | Stacking the Deck | 0.50% | ~3,348 |
 | This is My Weapon | 0.50% | ~3,348 |
 | Slayer Squad | 0.40% | ~2,679 |
-| Like Riding a Bike | 0.40% | ~2,679 |
 | Zombologist | 0.40% | ~2,679 |
 | Ooh, Shiny! | 0.40% | ~2,679 |
 | A Patton Emerges | 0.40% | ~2,679 |
@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 503)
 | Variety is the Spice of Death | 0.10% | ~670 |
 | Bucket List | 0.10% | ~670 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 669,655 (Ranked 22)  
-Completed: 2,094 (0.31%) (Ranked 174)  
+Progressed: 669,700 (Ranked 22)  
+Completed: 2,095 (0.31%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -184,17 +184,17 @@ Completed: 2,094 (0.31%) (Ranked 174)
 | 2023-08-28 | 668,091 | 2,086 |
 | 2023-08-29 | 668,912 | 2,088 |
 | 2023-08-30 | 669,636 | 2,094 |
-| 2023-08-31 | 669,655 | 2,094 |
+| 2023-08-31 | 669,700 | 2,095 |
 ## Awards
 Max (Great Boss Battles): 5,822  (Ranked 60)  
-Sum: 8,570 (Ranked 97)  
+Sum: 8,571 (Ranked 97)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 5,822 |
 | This game is Great for Beginners | 388 |
 | This game has Quickly Understood Controls | 381 |
-| This game has Diverse Characters | 374 |
+| This game has Diverse Characters | 375 |
 | This game is Relaxing | 358 |
 | This game has Amazing Storytelling | 330 |
 | This game is Extremely Fun | 311 |
@@ -335,3 +335,4 @@ Diff (max vs sum): -37
 | 2023-08-28 | 4.54 | 5,791 | 8,530 |
 | 2023-08-29 | 4.54 | 5,808 | 8,550 |
 | 2023-08-30 | 4.54 | 5,822 | 8,570 |
+| 2023-08-31 | 4.54 | 5,822 | 8,571 |

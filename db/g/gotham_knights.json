@@ -4,7 +4,7 @@
   "ProductSlug": "gotham-knights",
   "Ranking_Rating": 880,
   "Ranking_Popularity": 100,
-  "Ranking_PopularitySum": 139,
+  "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 121,
@@ -2514,18 +2514,24 @@
       "Rating": 4.18,
       "NumberOfAwards": 4210,
       "NumberOfAwardsMax": 2527
+    },
+    {
+      "Time": "2023-08-31T01:39:31.4884112+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4212,
+      "NumberOfAwardsMax": 2529
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4210,
-  "NumberOfAwardsMax": 2527,
+  "NumberOfAwards": 4212,
+  "NumberOfAwardsMax": 2529,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2527
+      "Count": 2529
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2582,7 +2588,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 68116,
+  "EOS_Progressed": 68117,
   "EOS_Completed": 110,
   "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 1,
@@ -13532,6 +13538,11 @@
       "Time": "2023-08-30T22:03:12.0136689+00:00",
       "NumProgressed": 68116,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2023-08-31T01:44:22.0037729+00:00",
+      "NumProgressed": 68117,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 61,
@@ -13631,7 +13642,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10217
+      "UsersEstimate": 10218
     },
     {
       "ID": "CHALLENGES_1",
@@ -13647,7 +13658,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 14304
+      "UsersEstimate": 14305
     },
     {
       "ID": "CLAYFACE_2",
@@ -13727,7 +13738,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6130
+      "UsersEstimate": 6131
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -13767,7 +13778,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 19072
+      "UsersEstimate": 19073
     },
     {
       "ID": "FREEZE_1_5",
@@ -13775,7 +13786,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 14304
+      "UsersEstimate": 14305
     },
     {
       "ID": "FREEZE_2",
@@ -13903,7 +13914,7 @@
       "Name": "A Momentum Occasion",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2043
+      "UsersEstimate": 2044
     },
     {
       "ID": "HERO_PROGRESSION_4",
@@ -13919,7 +13930,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 18391
+      "UsersEstimate": 18392
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -13935,7 +13946,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 23159
+      "UsersEstimate": 23160
     },
     {
       "ID": "MYSTERY_02",
@@ -13975,7 +13986,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10217
+      "UsersEstimate": 10218
     },
     {
       "ID": "MYSTERY_07",
@@ -14007,7 +14018,7 @@
       "Name": "Solid Alibi",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6130
+      "UsersEstimate": 6131
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -14023,29 +14034,29 @@
       "Name": "Bat Out of Hell",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2043
+      "UsersEstimate": 2044
     }
   ],
   "AchievementSets": [
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 68116,
+      "Progressed": 68117,
       "Completed": 110
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38396,
+      "Progressed": 38397,
       "Completed": 2660
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-08-30T19:59:14.8192379+00:00",
-  "LastChanged_Achievements": "2023-08-31T00:03:27.0422462+00:00",
+  "LastChanged": "2023-08-31T01:39:31.4884111+00:00",
+  "LastChanged_Achievements": "2023-08-31T01:44:22.0037723+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:22.0819335+00:00",
-  "LastUpdate_Ratings": "2023-08-30T23:59:26.3349048+00:00",
-  "LastUpdate_Achievements": "2023-08-31T00:03:27.0423788+00:00"
+  "LastUpdate_Ratings": "2023-08-31T01:39:31.4884116+00:00",
+  "LastUpdate_Achievements": "2023-08-31T01:44:22.0038942+00:00"
 }

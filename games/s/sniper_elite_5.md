@@ -7,18 +7,18 @@ Rating: 4.46 (Ranked 623)
 | ---- | ---------- | ----- |
 | Meeting Resistance | 46.00% | ~1,635 |
 | Confirming Suspicions | 40.00% | ~1,422 |
-| The Kraken Wakes | 36.00% | ~1,279 |
+| The Kraken Wakes | 36.00% | ~1,280 |
 | It's Starting to Crack | 33.00% | ~1,173 |
 | Change the Channel | 30.00% | ~1,066 |
 | Lord of War | 29.00% | ~1,031 |
 | Taking it back | 28.00% | ~995 |
 | Resourceful | 26.00% | ~924 |
-| Target America | 25.00% | ~888 |
-| The Kraken Sleeps | 23.00% | ~817 |
+| Target America | 25.00% | ~889 |
+| The Kraken Sleeps | 23.00% | ~818 |
 | Organ Grinder | 22.00% | ~782 |
 | As Quiet as a Mouse | 22.00% | ~782 |
-| Liberté | 21.00% | ~746 |
-| Sharpshooter | 21.00% | ~746 |
+| Liberté | 21.00% | ~747 |
+| Sharpshooter | 21.00% | ~747 |
 | Explosive Efficiency | 18.00% | ~640 |
 | Gunslinger | 17.00% | ~604 |
 | Just a Flesh Wound | 16.00% | ~569 |
@@ -33,7 +33,7 @@ Rating: 4.46 (Ranked 623)
 | No Stone Unturned | 13.00% | ~462 |
 | Opposing Force | 13.00% | ~462 |
 | Enemy at the Gates | 13.00% | ~462 |
-| Set Europe Ablaze | 12.00% | ~426 |
+| Set Europe Ablaze | 12.00% | ~427 |
 | Precision Is Key | 9.00% | ~320 |
 | My Little Friend | 9.00% | ~320 |
 | Rigged to Blow | 8.00% | ~284 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 623)
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,554 (Ranked 152)  
+Progressed: 3,555 (Ranked 152)  
 Completed: 10 (0.28%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,6 +209,7 @@ Completed: 10 (0.28%) (Ranked 180)
 | 2023-08-28 | 3,542 | 10 |
 | 2023-08-29 | 3,547 | 10 |
 | 2023-08-30 | 3,554 | 10 |
+| 2023-08-31 | 3,555 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

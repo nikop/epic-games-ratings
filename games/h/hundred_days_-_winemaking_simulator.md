@@ -6,45 +6,45 @@ Number of Ratings: 7,669  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 23.00% | ~50 |
-| It's a good start | 7.00% | ~15 |
-| Bonjour! | 6.00% | ~13 |
-| Ostinata | 5.00% | ~11 |
-| A long journey | 5.00% | ~11 |
-| The Blue Marl | 4.00% | ~9 |
-| The Assistant | 3.00% | ~6 |
-| Quack | 3.00% | ~6 |
-| Surprise of Langhe | 3.00% | ~6 |
-| Better than nothing? | 2.00% | ~4 |
-| Exotic | 2.00% | ~4 |
-| Famous | 2.00% | ~4 |
+| Bye Bye | 24.00% | ~56 |
+| It's a good start | 8.00% | ~19 |
+| Bonjour! | 6.00% | ~14 |
+| Ostinata | 5.00% | ~12 |
+| A long journey | 5.00% | ~12 |
+| The Assistant | 3.00% | ~7 |
+| The Blue Marl | 3.00% | ~7 |
+| Quack | 3.00% | ~7 |
+| Surprise of Langhe | 3.00% | ~7 |
+| Famous | 3.00% | ~7 |
+| Better than nothing? | 2.00% | ~5 |
+| Exotic | 2.00% | ~5 |
 | A big garage | 0.90% | ~2 |
 | Big Money | 0.90% | ~2 |
 | Pastry Chef | 0.90% | ~2 |
 | Welcome to the club | 0.90% | ~2 |
-| Millionaire | 0.50% | ~1 |
-| Keep the doctor away | 0.50% | ~1 |
-| Sales Expert | 0.50% | ~1 |
+| A lot of space | 0.40% | ~1 |
+| Millionaire | 0.40% | ~1 |
+| Keep the doctor away | 0.40% | ~1 |
+| Sales Expert | 0.40% | ~1 |
+| Treasure of Roero | 0.40% | ~1 |
 | What is that? A castle? | 0.00% | ~0 |
-| A lot of space | 0.00% | ~0 |
 | King of red wines | 0.00% | ~0 |
 | King of white wines | 0.00% | ~0 |
 | Big deals | 0.00% | ~0 |
 | Master Winemaker | 0.00% | ~0 |
 | Unsuitable Terroir | 0.00% | ~0 |
 | King of Langhe | 0.00% | ~0 |
-| Treasure of Roero | 0.00% | ~0 |
 | Gem of Monferrato | 0.00% | ~0 |
 | Knight of Langhe | 0.00% | ~0 |
 | Very Important Winemaker | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216 (Ranked 292)  
+Progressed: 234 (Ranked 287)  
 Completed: 0 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-08-30 | 210 | 0 |
-| 2023-08-31 | 216 | 0 |
+| 2023-08-31 | 234 | 0 |
 ## Awards
 Max (Relaxing): 203  (Ranked 273)  
 Sum: 1,457 (Ranked 224)  

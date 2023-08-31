@@ -2,8 +2,8 @@
   "ID": "eb348461cdaf4bec9d69a1c4bb39ecc4",
   "Name": "Hand of Fate 2",
   "ProductSlug": "hand-of-fate-2",
-  "Ranking_Rating": 474,
-  "Ranking_Popularity": 438,
+  "Ranking_Rating": 473,
+  "Ranking_Popularity": 439,
   "Ranking_PopularitySum": 378,
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 243,
@@ -880,7 +880,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 661539,
+  "EOS_Progressed": 661540,
   "EOS_Completed": 169,
   "EOS_NewPlayers": 330,
   "EOS_NewCompleters": 1,
@@ -13420,6 +13420,11 @@
       "Time": "2023-08-31T00:08:25.972803+00:00",
       "NumProgressed": 661539,
       "NumCompleted": 169
+    },
+    {
+      "Time": "2023-08-31T01:47:37.5718127+00:00",
+      "NumProgressed": 661540,
+      "NumCompleted": 169
     }
   ],
   "TotalAchievements": 48,
@@ -13431,7 +13436,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 476308
+      "UsersEstimate": 476309
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -13575,7 +13580,7 @@
       "Name": "Thief Bane",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 92615
+      "UsersEstimate": 92616
     },
     {
       "ID": "Achievement_20_Northern_Scourge",
@@ -13814,15 +13819,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 661539,
+      "Progressed": 661540,
       "Completed": 169
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-08-25T17:00:16.792448+00:00",
-  "LastChanged_Achievements": "2023-08-31T00:08:25.9728024+00:00",
+  "LastChanged_Achievements": "2023-08-31T01:47:37.571812+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:22.0497359+00:00",
-  "LastUpdate_Ratings": "2023-08-31T00:01:52.6897079+00:00",
-  "LastUpdate_Achievements": "2023-08-31T00:08:25.9729237+00:00"
+  "LastUpdate_Ratings": "2023-08-31T01:41:06.2194216+00:00",
+  "LastUpdate_Achievements": "2023-08-31T01:47:37.5719397+00:00"
 }

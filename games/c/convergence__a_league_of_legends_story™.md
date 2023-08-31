@@ -20,10 +20,10 @@ Rating: 4.60 (Ranked 393)
 | Honest Mistake | 18.00% | ~153 |
 | Fast Learner | 18.00% | ~153 |
 | Immaculate Aim | 18.00% | ~153 |
+| Like Clockwork | 17.00% | ~145 |
 | The Wicked Twins | 17.00% | ~145 |
 | Golem Chaser | 17.00% | ~145 |
 | Right On Time | 16.00% | ~136 |
-| Like Clockwork | 16.00% | ~136 |
 | The Betrayer | 16.00% | ~136 |
 | The Man Who Shattered Time | 16.00% | ~136 |
 | The Loose Cannon | 16.00% | ~136 |

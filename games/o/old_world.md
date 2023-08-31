@@ -92,6 +92,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legalism | 0.90% | ~123 |
 | Legionary | 0.90% | ~123 |
 | Phalangite | 0.90% | ~123 |
+| Capable | 0.80% | ~110 |
 | Invincible | 0.80% | ~110 |
 | Subjugator | 0.80% | ~110 |
 | Good Difficulty | 0.80% | ~110 |
@@ -105,11 +106,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambition Victory | 0.80% | ~110 |
 | Double Victory | 0.80% | ~110 |
 | Win a Single Player Game | 0.80% | ~110 |
-| Capable | 0.70% | ~96 |
 | Devout | 0.70% | ~96 |
 | Ready | 0.70% | ~96 |
+| Landowners | 0.70% | ~96 |
 | Riders | 0.70% | ~96 |
 | Church of the Holy Sepulchre | 0.70% | ~96 |
+| Adur Burzen-Mihr | 0.70% | ~96 |
+| Carthage | 0.70% | ~96 |
 | Assyrian Paganism | 0.70% | ~96 |
 | Industrial Progress | 0.70% | ~96 |
 | Military Prestige | 0.70% | ~96 |
@@ -121,17 +124,15 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bad Heir Day | 0.60% | ~82 |
 | Strong Difficulty | 0.60% | ~82 |
 | Hunters | 0.60% | ~82 |
-| Landowners | 0.60% | ~82 |
-| Adur Burzen-Mihr | 0.60% | ~82 |
 | Learn to Play 4 | 0.60% | ~82 |
 | Babylonia | 0.60% | ~82 |
-| Carthage | 0.60% | ~82 |
 | Kushite Cavalry | 0.60% | ~82 |
 | No Undo | 0.60% | ~82 |
 | Ishtar Gate in Babylon | 0.50% | ~68 |
 | Old | 0.50% | ~68 |
 | Peacemaker | 0.50% | ~68 |
 | Clerics | 0.50% | ~68 |
+| Egypt | 0.50% | ~68 |
 | Rome | 0.50% | ~68 |
 | One True Faith | 0.50% | ~68 |
 | Hittite Paganism | 0.50% | ~68 |
@@ -141,7 +142,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage - Ox Hide | 0.40% | ~55 |
 | Noble Difficulty | 0.40% | ~55 |
 | Cao'an | 0.40% | ~55 |
-| Egypt | 0.40% | ~55 |
 | Old World Order | 0.40% | ~55 |
 | Three Man Chariot | 0.40% | ~55 |
 | Pilgrimage | 0.40% | ~55 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,691 (Ranked 120)  
+Progressed: 13,692 (Ranked 120)  
 Completed: 5 (0.04%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -436,7 +436,7 @@ Completed: 5 (0.04%) (Ranked 236)
 | 2023-08-28 | 13,635 | 5 |
 | 2023-08-29 | 13,661 | 5 |
 | 2023-08-30 | 13,689 | 5 |
-| 2023-08-31 | 13,691 | 5 |
+| 2023-08-31 | 13,692 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,800 (Ranked 207)  

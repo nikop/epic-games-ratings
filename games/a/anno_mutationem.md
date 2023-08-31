@@ -19,7 +19,7 @@ Rating: 4.57 (Ranked 451)
 | Fire in the hole! | 20.00% | ~133 |
 | Omnipotence | 20.00% | ~133 |
 | You are the One | 20.00% | ~133 |
-| Deadly Kombationem | 18.00% | ~120 |
+| Deadly Kombationem | 19.00% | ~126 |
 | The truth is out there | 16.00% | ~106 |
 | Annakin Skyscroller | 14.00% | ~93 |
 | In the smacker...I think | 10.00% | ~66 |

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 150,
-  "Ranking_EOS_Completed": 194,
+  "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
@@ -124,11 +124,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4000,
+  "EOS_Progressed": 4001,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.18,
+  "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:13.776329+00:00",
@@ -6299,6 +6299,11 @@
       "Time": "2023-08-30T13:12:12.4300766+00:00",
       "NumProgressed": 4000,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-31T01:48:09.2089668+00:00",
+      "NumProgressed": 4001,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 71,
@@ -6404,9 +6409,9 @@
       "ID": "Ach013",
       "SetID": "12n4k20",
       "Name": "Problem solved... wait, what?",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 8
     },
     {
       "ID": "Ach014",
@@ -6508,9 +6513,9 @@
       "ID": "Ach026",
       "SetID": "12n4k20",
       "Name": "You must like calling me in, Chai",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 240
+      "UsersEstimate": 200
     },
     {
       "ID": "Ach027",
@@ -6540,9 +6545,9 @@
       "ID": "Ach030",
       "SetID": "12n4k20",
       "Name": "This is a breeze!",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 24
     },
     {
       "ID": "Ach031",
@@ -6564,9 +6569,9 @@
       "ID": "Ach033",
       "SetID": "12n4k20",
       "Name": "Uh, they were broken when I got here",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 320
+      "UsersEstimate": 280
     },
     {
       "ID": "Ach034",
@@ -6708,9 +6713,9 @@
       "ID": "Ach051",
       "SetID": "12n4k20",
       "Name": "You can pet the cat!",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 480
+      "UsersEstimate": 440
     },
     {
       "ID": "Ach052",
@@ -6844,9 +6849,9 @@
       "ID": "Ach068",
       "SetID": "b7dbjo0",
       "Name": "New bad guys? No problem!",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 15
     },
     {
       "ID": "Ach069",
@@ -6877,13 +6882,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4000,
+      "Progressed": 4001,
       "Completed": 7
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2521,
+      "Progressed": 2522,
       "Completed": 1929
     }
   ],
@@ -6891,8 +6896,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-08-30T23:57:48.3272093+00:00",
-  "LastChanged_Achievements": "2023-08-31T00:09:09.9454971+00:00",
+  "LastChanged_Achievements": "2023-08-31T01:48:09.2089662+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:23.6936946+00:00",
-  "LastUpdate_Ratings": "2023-08-30T23:57:48.3272102+00:00",
-  "LastUpdate_Achievements": "2023-08-31T00:09:09.9456171+00:00"
+  "LastUpdate_Ratings": "2023-08-31T01:38:28.3856842+00:00",
+  "LastUpdate_Achievements": "2023-08-31T01:48:09.2090946+00:00"
 }

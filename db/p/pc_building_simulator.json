@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 100,
   "Ranking_EOS_Progress": 5,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewPlayers": 26,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-10-07T15:00:00+00:00",
@@ -4396,9 +4396,9 @@
       "Count": 654
     }
   ],
-  "EOS_Progressed": 3552575,
+  "EOS_Progressed": 3552592,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 2935,
+  "EOS_NewPlayers": 2930,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19201,6 +19201,11 @@
       "Time": "2023-08-31T00:07:26.2164108+00:00",
       "NumProgressed": 3552575,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-08-31T01:46:56.035088+00:00",
+      "NumProgressed": 3552592,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 52,
@@ -19220,7 +19225,7 @@
       "Name": "The Best of Both Worlds",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 888144
+      "UsersEstimate": 888148
     },
     {
       "ID": "BRICK",
@@ -19252,7 +19257,7 @@
       "Name": "Double trouble",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 568412
+      "UsersEstimate": 568415
     },
     {
       "ID": "BUILD_2",
@@ -19260,7 +19265,7 @@
       "Name": "Triple threat",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 106577
+      "UsersEstimate": 106578
     },
     {
       "ID": "BUILD_3",
@@ -19268,7 +19273,7 @@
       "Name": "Keeping things neat",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 142103
+      "UsersEstimate": 142104
     },
     {
       "ID": "CASH_1",
@@ -19276,7 +19281,7 @@
       "Name": "Back in the black",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1385504
+      "UsersEstimate": 1385511
     },
     {
       "ID": "CASH_2",
@@ -19284,7 +19289,7 @@
       "Name": "Seems you\u0027re pretty good at this",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 142103
+      "UsersEstimate": 142104
     },
     {
       "ID": "CASH_3",
@@ -19292,7 +19297,7 @@
       "Name": "You rock at this!",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 106577
+      "UsersEstimate": 106578
     },
     {
       "ID": "CASH_4",
@@ -19308,7 +19313,7 @@
       "Name": "But can it run Crysis?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 319732
+      "UsersEstimate": 319733
     },
     {
       "ID": "DATE",
@@ -19340,7 +19345,7 @@
       "Name": "Get your wings",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 710515
+      "UsersEstimate": 710518
     },
     {
       "ID": "HBPC_TIME",
@@ -19372,7 +19377,7 @@
       "Name": "That\u0027s what I\u0027m talking about",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1030247
+      "UsersEstimate": 1030252
     },
     {
       "ID": "JOBS_2",
@@ -19380,7 +19385,7 @@
       "Name": "Smashing it",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 390783
+      "UsersEstimate": 390785
     },
     {
       "ID": "JOBS_3",
@@ -19412,7 +19417,7 @@
       "Name": "From humble beginnings...",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 248680
+      "UsersEstimate": 248681
     },
     {
       "ID": "LEVEL_2",
@@ -19428,7 +19433,7 @@
       "Name": "Building momentum",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 21315
+      "UsersEstimate": 21316
     },
     {
       "ID": "LEVEL_4",
@@ -19452,7 +19457,7 @@
       "Name": "You need to plug it in...",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 1740762
+      "UsersEstimate": 1740770
     },
     {
       "ID": "NO_PASTE",
@@ -19460,7 +19465,7 @@
       "Name": "Easy to forget",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1634184
+      "UsersEstimate": 1634192
     },
     {
       "ID": "OPC_BM_1",
@@ -19476,7 +19481,7 @@
       "Name": "Lead by example",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 21315
+      "UsersEstimate": 21316
     },
     {
       "ID": "OPC_BM_3",
@@ -19516,7 +19521,7 @@
       "Name": "My favourite feature...",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 319732
+      "UsersEstimate": 319733
     },
     {
       "ID": "PLAY_MUSIC",
@@ -19524,7 +19529,7 @@
       "Name": "Your music sucks",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 106577
+      "UsersEstimate": 106578
     },
     {
       "ID": "RADS",
@@ -19572,7 +19577,7 @@
       "Name": "Customer satisfaction",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 248680
+      "UsersEstimate": 248681
     },
     {
       "ID": "STARS_2",
@@ -19580,7 +19585,7 @@
       "Name": "Bending over backwards",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 142103
+      "UsersEstimate": 142104
     },
     {
       "ID": "STARS_3",
@@ -19627,15 +19632,15 @@
     {
       "ID": "m0injl",
       "IsBase": true,
-      "Progressed": 3552575,
+      "Progressed": 3552592,
       "Completed": 33
     }
   ],
   "FirstSeen": "2022-07-22T20:21:06.3204437+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:31.9861995+00:00",
   "LastChanged": "2023-08-30T19:58:33.9188432+00:00",
-  "LastChanged_Achievements": "2023-08-31T00:07:26.2164096+00:00",
+  "LastChanged_Achievements": "2023-08-31T01:46:56.0350872+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:47.3186705+00:00",
-  "LastUpdate_Ratings": "2023-08-30T23:58:44.6654255+00:00",
-  "LastUpdate_Achievements": "2023-08-31T00:07:26.2166063+00:00"
+  "LastUpdate_Ratings": "2023-08-31T01:39:05.0700934+00:00",
+  "LastUpdate_Achievements": "2023-08-31T01:46:56.0352384+00:00"
 }

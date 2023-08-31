@@ -12,10 +12,10 @@
 | Can't touch this | 24.00% | ~13 |
 | Don't Cry Wolf | 20.00% | ~11 |
 | Freezing Cold | 15.00% | ~8 |
+| Expert | 13.00% | ~7 |
 | The Golden Flash | 13.00% | ~7 |
 | The Power of the Mountains | 13.00% | ~7 |
 | Searing Heat | 11.00% | ~6 |
-| Expert | 11.00% | ~6 |
 | Changing the World | 11.00% | ~6 |
 | Craftsmen | 9.00% | ~5 |
 | Locked and Loaded | 9.00% | ~5 |
@@ -25,12 +25,12 @@
 | Defeat Tezuth | 5.00% | ~3 |
 | Defeat Uskol | 5.00% | ~3 |
 | Witch | 5.00% | ~3 |
+| Finally! | 5.00% | ~3 |
 | The A-Team | 5.00% | ~3 |
 | Mirror, Mirror on the Wall | 4.00% | ~2 |
 | Sponsor | 4.00% | ~2 |
 | Defeat Ingla | 4.00% | ~2 |
 | Pathfinder | 4.00% | ~2 |
-| Finally! | 4.00% | ~2 |
 | The End | 4.00% | ~2 |
 | But what of the Acreans? | 4.00% | ~2 |
 | Mountain Lover | 2.00% | ~1 |

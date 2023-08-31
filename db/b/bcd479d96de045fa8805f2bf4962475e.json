@@ -4,7 +4,7 @@
   "ProductSlug": "sea-horizon-729355",
   "Ranking_EOS_Progress": 567,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewPlayers": 342,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-09-05T00:00:00+00:00",
@@ -25,9 +25,147 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-08-31T01:44:45.8337595+00:00",
+  "TotalAchievements": 17,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "Chapter_Adventurer",
+      "SetID": "9onb7g0",
+      "Name": "Master of Adventure",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Chapter_East_Archipelago",
+      "SetID": "9onb7g0",
+      "Name": "Calm the Sea",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Chapter_Explorer",
+      "SetID": "9onb7g0",
+      "Name": "Hats and Scrolls",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Chapter_Forsaken_Archipelago",
+      "SetID": "9onb7g0",
+      "Name": "End the Eternal Night",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Chapter_Priest",
+      "SetID": "9onb7g0",
+      "Name": "The Taste of Prayer",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Chapter_Shaman",
+      "SetID": "9onb7g0",
+      "Name": "Being Alone",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Chapter_Wanderer",
+      "SetID": "9onb7g0",
+      "Name": "Home is Everywhere",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Defeat_Dungeon_Naelyon",
+      "SetID": "9onb7g0",
+      "Name": "Who Lives Under the Sea",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Defeat_Dungeon_NightSpirit",
+      "SetID": "9onb7g0",
+      "Name": "Save the Night",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Found_Apothecary",
+      "SetID": "9onb7g0",
+      "Name": "Meet by Chance",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Found_Artisan",
+      "SetID": "9onb7g0",
+      "Name": "Wand of Physic",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Legendary_Equipment",
+      "SetID": "9onb7g0",
+      "Name": "Legendary Equipment",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Money_TenThousand_Total",
+      "SetID": "9onb7g0",
+      "Name": "Big Pile of Anchors",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Money_Thousand_OneGame",
+      "SetID": "9onb7g0",
+      "Name": "A Lot of Anchors",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "OneBattle_Shield_Hundred",
+      "SetID": "9onb7g0",
+      "Name": "Can\u0027t Touch This",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "OneTurn_Damage_Hundred",
+      "SetID": "9onb7g0",
+      "Name": "That\u0027s Gonna Hurt",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "OneTurn_SkillTime_Ten",
+      "SetID": "9onb7g0",
+      "Name": "Lightning Round",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "9onb7g0",
@@ -37,8 +175,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-27T17:02:13.4628733+00:00",
-  "LastChanged_Achievements": "2023-08-31T00:04:22.2371791+00:00",
+  "LastChanged_Achievements": "2023-08-31T01:44:45.833756+00:00",
   "LastUpdate_AppInfo": "2023-08-27T16:57:09.5111892+00:00",
-  "LastUpdate_Ratings": "2023-08-30T23:58:01.1829185+00:00",
-  "LastUpdate_Achievements": "2023-08-31T00:04:22.2371832+00:00"
+  "LastUpdate_Ratings": "2023-08-31T01:38:36.860708+00:00",
+  "LastUpdate_Achievements": "2023-08-31T01:44:45.8353238+00:00"
 }

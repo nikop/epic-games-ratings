@@ -11,17 +11,17 @@
 | Storm Traveller | 68.00% | ~58 |
 | Wolf King Killer | 68.00% | ~58 |
 | Arms Mechanic | 62.00% | ~53 |
-| Flower Thief | 58.00% | ~49 |
+| Flower Thief | 59.00% | ~50 |
+| Apostle of Flame | 56.00% | ~48 |
 | Beginner Cook | 55.00% | ~47 |
-| Apostle of Flame | 55.00% | ~47 |
-| Beginner Artificer | 53.00% | ~45 |
-| Seal Breaker | 48.00% | ~41 |
-| Handyman | 46.00% | ~39 |
-| Giant Lizard Killer | 45.00% | ~38 |
-| Nosebleeder | 44.00% | ~37 |
-| Guardian | 42.00% | ~36 |
+| Beginner Artificer | 54.00% | ~46 |
+| Seal Breaker | 49.00% | ~42 |
+| Handyman | 47.00% | ~40 |
+| Giant Lizard Killer | 46.00% | ~39 |
+| Nosebleeder | 45.00% | ~38 |
+| Guardian | 44.00% | ~37 |
 | Trader | 40.00% | ~34 |
-| Weapon Boost | 38.00% | ~32 |
+| Weapon Boost | 39.00% | ~33 |
 | Flying Kobold Killer | 35.00% | ~30 |
 | Youth Magnet | 35.00% | ~30 |
 | Lethal Blade Mantis Killer | 34.00% | ~29 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 19,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2021-07-02T15:00:00+00:00",
     "PcReleaseDate": "2018-03-09T19:16:06+00:00",
@@ -2860,9 +2860,9 @@
       "Count": 190
     }
   ],
-  "EOS_Progressed": 723817,
+  "EOS_Progressed": 723819,
   "EOS_Completed": 730,
-  "EOS_NewPlayers": 932,
+  "EOS_NewPlayers": 931,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -17485,6 +17485,11 @@
       "Time": "2023-08-31T00:04:43.8275098+00:00",
       "NumProgressed": 723817,
       "NumCompleted": 730
+    },
+    {
+      "Time": "2023-08-31T01:45:02.2956955+00:00",
+      "NumProgressed": 723819,
+      "NumCompleted": 730
     }
   ],
   "TotalAchievements": 98,
@@ -17520,7 +17525,7 @@
       "Name": "All Shells",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 101334
+      "UsersEstimate": 101335
     },
     {
       "ID": "Armor",
@@ -17528,7 +17533,7 @@
       "Name": "Armor",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 217145
+      "UsersEstimate": 217146
     },
     {
       "ID": "BallShooter",
@@ -17552,7 +17557,7 @@
       "Name": "Beam",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 101334
+      "UsersEstimate": 101335
     },
     {
       "ID": "BeatTheBigOne",
@@ -17712,7 +17717,7 @@
       "Name": "Double Jump",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 347432
+      "UsersEstimate": 347433
     },
     {
       "ID": "FireFlies",
@@ -17744,7 +17749,7 @@
       "Name": "Force Cube",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 383623
+      "UsersEstimate": 383624
     },
     {
       "ID": "Force_Cube_Catapult",
@@ -17752,7 +17757,7 @@
       "Name": "Force Cube Catapult",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 180954
+      "UsersEstimate": 180955
     },
     {
       "ID": "Freed_from_Prison",
@@ -17856,7 +17861,7 @@
       "Name": "Healthbar",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 398099
+      "UsersEstimate": 398100
     },
     {
       "ID": "Healthregen",
@@ -17864,7 +17869,7 @@
       "Name": "Regeneration",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 340194
+      "UsersEstimate": 340195
     },
     {
       "ID": "HelpedAStar",
@@ -17880,7 +17885,7 @@
       "Name": "Climb the hill",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 304003
+      "UsersEstimate": 304004
     },
     {
       "ID": "Holy_Sword",
@@ -17936,7 +17941,7 @@
       "Name": "Just once",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 267812
+      "UsersEstimate": 267813
     },
     {
       "ID": "MacGuffin",
@@ -17944,7 +17949,7 @@
       "Name": "MacGuffin",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 275050
+      "UsersEstimate": 275051
     },
     {
       "ID": "Magic",
@@ -18008,7 +18013,7 @@
       "Name": "Out of bed",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 716579
+      "UsersEstimate": 716581
     },
     {
       "ID": "PanicLights",
@@ -18080,7 +18085,7 @@
       "Name": "That\u0027s how electronics work obviously",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 188192
+      "UsersEstimate": 188193
     },
     {
       "ID": "RedstonePickaxe",
@@ -18128,7 +18133,7 @@
       "Name": "Fast",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 477719
+      "UsersEstimate": 477721
     },
     {
       "ID": "Strong",
@@ -18168,7 +18173,7 @@
       "Name": "The Blues",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 615244
+      "UsersEstimate": 615246
     },
     {
       "ID": "ThroughPipe",
@@ -18208,7 +18213,7 @@
       "Name": "Triple Jump",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 311241
+      "UsersEstimate": 311242
     },
     {
       "ID": "True_Holy_Spirit",
@@ -18279,15 +18284,15 @@
     {
       "ID": "3m49pn8",
       "IsBase": true,
-      "Progressed": 723817,
+      "Progressed": 723819,
       "Completed": 730
     }
   ],
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1459144+00:00",
   "LastChanged": "2023-08-30T05:57:19.5924967+00:00",
-  "LastChanged_Achievements": "2023-08-31T00:04:43.8275093+00:00",
+  "LastChanged_Achievements": "2023-08-31T01:45:02.2956948+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:55.4900977+00:00",
-  "LastUpdate_Ratings": "2023-08-30T23:57:35.835564+00:00",
-  "LastUpdate_Achievements": "2023-08-31T00:04:43.827761+00:00"
+  "LastUpdate_Ratings": "2023-08-31T01:38:20.1963115+00:00",
+  "LastUpdate_Achievements": "2023-08-31T01:45:02.2959161+00:00"
 }

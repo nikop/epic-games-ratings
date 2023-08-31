@@ -2,9 +2,9 @@
   "ID": "4a86b8318e5a40e094f34a7e6a934652",
   "Name": "I Am Future - Cozy Apocalypse Survival",
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
-  "Ranking_EOS_Progress": 417,
-  "Ranking_EOS_Completed": 61,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_Progress": 415,
+  "Ranking_EOS_Completed": 64,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25,
+  "EOS_Progressed": 27,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4,
+  "EOS_Completed_Percentage": 3.7,
   "EosHistory": [
     {
       "Time": "2023-08-29T09:05:59.1773399+00:00",
@@ -111,6 +111,11 @@
       "Time": "2023-08-30T23:07:03.2357934+00:00",
       "NumProgressed": 25,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-31T01:47:06.9028606+00:00",
+      "NumProgressed": 27,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -123,7 +128,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -137,9 +142,9 @@
       "ID": "BRING_MARY",
       "SetID": "aniflfk",
       "Name": "Retro Diva",
-      "Percentage": 28,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "BRING_PROSPERO",
@@ -153,7 +158,7 @@
       "ID": "BUY_EVERYTHING_IN_ECOTOMAT",
       "SetID": "aniflfk",
       "Name": "Empty Shelves",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -161,7 +166,7 @@
       "ID": "CATCH_30_FISH",
       "SetID": "aniflfk",
       "Name": "Fisherman",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -177,17 +182,17 @@
       "ID": "GO_ON_EXPEDITION",
       "SetID": "aniflfk",
       "Name": "Off on an Expedition!",
-      "Percentage": 28,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "GROW_20_PLANTS",
       "SetID": "aniflfk",
       "Name": "Farmer",
-      "Percentage": 8,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "HOUSEWARMING",
@@ -201,9 +206,9 @@
       "ID": "LUNCH_LEECH",
       "SetID": "aniflfk",
       "Name": "Leech Lunch",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
@@ -233,7 +238,7 @@
       "ID": "REMOVE_100_WEEDS",
       "SetID": "aniflfk",
       "Name": "Weed Warrior",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -241,7 +246,7 @@
       "ID": "REPAIR_BRIDGE",
       "SetID": "aniflfk",
       "Name": "Bridge Builder",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -265,9 +270,9 @@
       "ID": "TAKE_LEECH",
       "SetID": "aniflfk",
       "Name": "Uppies!",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -282,14 +287,14 @@
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 25,
+      "Progressed": 27,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-08-31T00:07:42.2608622+00:00",
+  "LastChanged_Achievements": "2023-08-31T01:47:06.90286+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:06.6191746+00:00",
-  "LastUpdate_Ratings": "2023-08-31T00:01:09.0473037+00:00",
-  "LastUpdate_Achievements": "2023-08-31T00:07:42.2608889+00:00"
+  "LastUpdate_Ratings": "2023-08-31T01:40:37.7063061+00:00",
+  "LastUpdate_Achievements": "2023-08-31T01:47:06.902876+00:00"
 }
