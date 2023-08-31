@@ -5,11 +5,11 @@ Rating: 4.23 (Ranked 849)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,588 |
-| Don't I Know You...? | 77.00% | ~1,528 |
-| Jailbreak | 66.00% | ~1,310 |
-| Suited and Booted | 39.00% | ~774 |
-| HEADSHOT! | 38.00% | ~754 |
+| Rigged And Ready | 80.00% | ~1,589 |
+| Don't I Know You...? | 77.00% | ~1,529 |
+| Jailbreak | 66.00% | ~1,311 |
+| Suited and Booted | 39.00% | ~775 |
+| HEADSHOT! | 38.00% | ~755 |
 | Sleeping With The Fishes | 35.00% | ~695 |
 | Overheated | 30.00% | ~596 |
 | High Performance | 30.00% | ~596 |
@@ -25,7 +25,7 @@ Rating: 4.23 (Ranked 849)
 | Clean Cut | 19.00% | ~377 |
 | Unforeseeable Consequences | 19.00% | ~377 |
 | Dead Again | 18.00% | ~357 |
-| Full Arsenal | 17.00% | ~337 |
+| Full Arsenal | 17.00% | ~338 |
 | Can't Trust Banks | 15.00% | ~298 |
 | Mommy Dearest | 14.00% | ~278 |
 | Bad Dog | 13.00% | ~258 |
@@ -36,7 +36,7 @@ Rating: 4.23 (Ranked 849)
 | Corrupted Beauty | 12.00% | ~238 |
 | Marked For Success | 12.00% | ~238 |
 | Triplets | 11.00% | ~218 |
-| Stimulating The Local Economy | 10.00% | ~198 |
+| Stimulating The Local Economy | 10.00% | ~199 |
 | Denying Prophecy | 9.00% | ~179 |
 | Defense in Depth | 9.00% | ~179 |
 | A Little Banged Up | 8.00% | ~159 |
@@ -63,7 +63,7 @@ Rating: 4.23 (Ranked 849)
 | Swiss Army Drone | 1.00% | ~20 |
 | The Easy Way Out | 1.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,985 (Ranked 172)  
+Progressed: 1,986 (Ranked 172)  
 Completed: 10 (0.50%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,6 +167,7 @@ Completed: 10 (0.50%) (Ranked 150)
 | 2023-08-24 | 1,983 | 10 |
 | 2023-08-26 | 1,984 | 10 |
 | 2023-08-27 | 1,985 | 10 |
+| 2023-08-31 | 1,986 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,16 +5,17 @@ Rating: 4.54 (Ranked 505)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 0.70% | ~4,689 |
-| Welcome To Hell-A | 0.70% | ~4,689 |
-| Git Gutte! | 0.60% | ~4,019 |
-| Break A Leg | 0.60% | ~4,019 |
-| Coup de Grâce | 0.60% | ~4,019 |
-| Hazardous Materials | 0.60% | ~4,019 |
-| Personal Assistant Personally Assisted | 0.60% | ~4,019 |
+| Hotel California | 0.70% | ~4,690 |
+| Welcome To Hell-A | 0.70% | ~4,690 |
+| Git Gutte! | 0.60% | ~4,020 |
+| Break A Leg | 0.60% | ~4,020 |
+| Coup de Grâce | 0.60% | ~4,020 |
+| Hazardous Materials | 0.60% | ~4,020 |
+| Personal Assistant Personally Assisted | 0.60% | ~4,020 |
 | Dr. Reed, I Presume? | 0.50% | ~3,350 |
 | Bookworm | 0.50% | ~3,350 |
 | But Doctor, I am Butcho | 0.50% | ~3,350 |
+| Slayer Squad | 0.50% | ~3,350 |
 | Can't Handle the Truth | 0.50% | ~3,350 |
 | Like Riding a Bike | 0.50% | ~3,350 |
 | Friends Like These | 0.50% | ~3,350 |
@@ -26,7 +27,6 @@ Rating: 4.54 (Ranked 505)
 | Anger Management | 0.40% | ~2,680 |
 | Perks of the Job | 0.40% | ~2,680 |
 | I Got a Zombie Army and You Can't Harm Me | 0.40% | ~2,680 |
-| Slayer Squad | 0.40% | ~2,680 |
 | Ooh, Shiny! | 0.40% | ~2,680 |
 | I Am the Resurrection | 0.40% | ~2,680 |
 | Our True Nature | 0.40% | ~2,680 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 505)
 | Variety is the Spice of Death | 0.10% | ~670 |
 | Bucket List | 0.10% | ~670 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 669,911 (Ranked 22)  
+Progressed: 669,962 (Ranked 22)  
 Completed: 2,096 (0.31%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,10 +184,10 @@ Completed: 2,096 (0.31%) (Ranked 174)
 | 2023-08-28 | 668,091 | 2,086 |
 | 2023-08-29 | 668,912 | 2,088 |
 | 2023-08-30 | 669,636 | 2,094 |
-| 2023-08-31 | 669,911 | 2,096 |
+| 2023-08-31 | 669,962 | 2,096 |
 ## Awards
 Max (Great Boss Battles): 5,822  (Ranked 60)  
-Sum: 8,573 (Ranked 97)  
+Sum: 8,574 (Ranked 97)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
@@ -198,7 +198,7 @@ Diff (max vs sum): -37
 | This game is Relaxing | 358 |
 | This game has Amazing Storytelling | 330 |
 | This game is Extremely Fun | 311 |
-| This game has Amazing Characters | 306 |
+| This game has Amazing Characters | 307 |
 | This game is Highly Recommended | 301 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -335,4 +335,4 @@ Diff (max vs sum): -37
 | 2023-08-28 | 4.54 | 5,791 | 8,530 |
 | 2023-08-29 | 4.54 | 5,808 | 8,550 |
 | 2023-08-30 | 4.54 | 5,822 | 8,570 |
-| 2023-08-31 | 4.54 | 5,822 | 8,573 |
+| 2023-08-31 | 4.54 | 5,822 | 8,574 |

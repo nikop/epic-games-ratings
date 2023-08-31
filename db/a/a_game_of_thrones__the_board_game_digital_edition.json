@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 188,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1269,9 +1269,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 22840,
+  "EOS_Progressed": 22847,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 636,
+  "EOS_NewPlayers": 639,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -15504,6 +15504,11 @@
       "Time": "2023-08-31T12:05:03.5369634+00:00",
       "NumProgressed": 22840,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-08-31T13:11:11.4834154+00:00",
+      "NumProgressed": 22847,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 22,
@@ -15531,7 +15536,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1370
+      "UsersEstimate": 1371
     },
     {
       "ID": "1018",
@@ -15539,7 +15544,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1370
+      "UsersEstimate": 1371
     },
     {
       "ID": "1019",
@@ -15563,7 +15568,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 1370
+      "UsersEstimate": 1371
     },
     {
       "ID": "1022",
@@ -15571,7 +15576,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1370
+      "UsersEstimate": 1371
     },
     {
       "ID": "1023",
@@ -15587,7 +15592,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1827
+      "UsersEstimate": 1828
     },
     {
       "ID": "1025",
@@ -15603,7 +15608,7 @@
       "Name": "Oathkeeper",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1827
+      "UsersEstimate": 1828
     },
     {
       "ID": "1027",
@@ -15619,7 +15624,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4111
+      "UsersEstimate": 4112
     },
     {
       "ID": "1029",
@@ -15627,7 +15632,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1827
+      "UsersEstimate": 1828
     },
     {
       "ID": "1030",
@@ -15635,7 +15640,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4568
+      "UsersEstimate": 4569
     },
     {
       "ID": "1031",
@@ -15643,7 +15648,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3198
+      "UsersEstimate": 3199
     },
     {
       "ID": "1032",
@@ -15651,7 +15656,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 9136
+      "UsersEstimate": 9139
     },
     {
       "ID": "1033",
@@ -15675,7 +15680,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2969
+      "UsersEstimate": 2970
     },
     {
       "ID": "1036",
@@ -15683,22 +15688,22 @@
       "Name": "A Long Journey",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1827
+      "UsersEstimate": 1828
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 22840,
+      "Progressed": 22847,
       "Completed": 50
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-08-02T00:02:09.7226533+00:00",
-  "LastChanged_Achievements": "2023-08-31T12:05:03.5369628+00:00",
+  "LastChanged_Achievements": "2023-08-31T13:11:11.4834146+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:58:01.0379826+00:00",
-  "LastUpdate_Ratings": "2023-08-31T11:59:09.6997134+00:00",
-  "LastUpdate_Achievements": "2023-08-31T12:05:03.5370698+00:00"
+  "LastUpdate_Ratings": "2023-08-31T13:05:07.5374033+00:00",
+  "LastUpdate_Achievements": "2023-08-31T13:11:11.483606+00:00"
 }

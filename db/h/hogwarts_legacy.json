@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -6984,9 +6984,9 @@
       "Count": 609
     }
   ],
-  "EOS_Progressed": 291130,
+  "EOS_Progressed": 291132,
   "EOS_Completed": 458,
-  "EOS_NewPlayers": 431,
+  "EOS_NewPlayers": 432,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -21269,6 +21269,11 @@
       "Time": "2023-08-31T12:03:52.7664608+00:00",
       "NumProgressed": 291130,
       "NumCompleted": 458
+    },
+    {
+      "Time": "2023-08-31T13:09:32.8385703+00:00",
+      "NumProgressed": 291132,
+      "NumCompleted": 458
     }
   ],
   "TotalAchievements": 45,
@@ -21320,7 +21325,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 5,
       "XP": 70,
-      "UsersEstimate": 14556
+      "UsersEstimate": 14557
     },
     {
       "ID": "PFA_15",
@@ -21416,7 +21421,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14556
+      "UsersEstimate": 14557
     },
     {
       "ID": "PFA_26",
@@ -21448,7 +21453,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14556
+      "UsersEstimate": 14557
     },
     {
       "ID": "PFA_3",
@@ -21504,7 +21509,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23290
+      "UsersEstimate": 23291
     },
     {
       "ID": "PFA_36",
@@ -21568,7 +21573,7 @@
       "Name": "Raising Expectations",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 14556
+      "UsersEstimate": 14557
     },
     {
       "ID": "PFA_43",
@@ -21584,7 +21589,7 @@
       "Name": "The Spell Master",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23290
+      "UsersEstimate": 23291
     },
     {
       "ID": "PFA_45",
@@ -21608,7 +21613,7 @@
       "Name": "First Class Student",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32024
+      "UsersEstimate": 32025
     },
     {
       "ID": "PFA_7",
@@ -21616,7 +21621,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32024
+      "UsersEstimate": 32025
     },
     {
       "ID": "PFA_8",
@@ -21632,14 +21637,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23290
+      "UsersEstimate": 23291
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 291130,
+      "Progressed": 291132,
       "Completed": 458
     }
   ],
@@ -21647,8 +21652,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-08-31T05:01:39.4205268+00:00",
-  "LastChanged_Achievements": "2023-08-31T12:03:52.7664601+00:00",
+  "LastChanged_Achievements": "2023-08-31T13:09:32.8385696+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:27.4425386+00:00",
-  "LastUpdate_Ratings": "2023-08-31T12:00:00.7609993+00:00",
-  "LastUpdate_Achievements": "2023-08-31T12:03:52.7665884+00:00"
+  "LastUpdate_Ratings": "2023-08-31T13:06:24.0709152+00:00",
+  "LastUpdate_Achievements": "2023-08-31T13:09:32.8387534+00:00"
 }

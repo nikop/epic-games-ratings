@@ -6,21 +6,21 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 78.00% | ~4,313 |
-| Hey Good Hookin | 68.00% | ~3,760 |
-| I'm on a Boat! | 58.00% | ~3,207 |
-| Can you smell what the Rod is Hooking | 54.00% | ~2,986 |
-| Scaling up | 54.00% | ~2,986 |
-| More Fish in the Sea | 47.00% | ~2,599 |
-| Ready to Rod and Roll | 44.00% | ~2,433 |
-| Fish Out of Water | 33.00% | ~1,825 |
-| License to Gill | 32.00% | ~1,770 |
-| Things that go Splash in the Night | 29.00% | ~1,604 |
-| Goldfish? | 27.00% | ~1,493 |
-| Going for Gold | 24.00% | ~1,327 |
-| I'm Hooked! | 18.00% | ~995 |
+| Fish Just Got Reel | 78.00% | ~4,316 |
+| Hey Good Hookin | 68.00% | ~3,762 |
+| I'm on a Boat! | 58.00% | ~3,209 |
+| Can you smell what the Rod is Hooking | 54.00% | ~2,988 |
+| Scaling up | 54.00% | ~2,988 |
+| More Fish in the Sea | 47.00% | ~2,601 |
+| Ready to Rod and Roll | 44.00% | ~2,435 |
+| Fish Out of Water | 33.00% | ~1,826 |
+| License to Gill | 32.00% | ~1,771 |
+| Things that go Splash in the Night | 29.00% | ~1,605 |
+| Goldfish? | 27.00% | ~1,494 |
+| Going for Gold | 24.00% | ~1,328 |
+| I'm Hooked! | 18.00% | ~996 |
 | Diamond in the Rough | 12.00% | ~664 |
-| More than a Tourist | 11.00% | ~608 |
+| More than a Tourist | 11.00% | ~609 |
 | Hook, Line and Sinker | 7.00% | ~387 |
 | Marathon | 7.00% | ~387 |
 | I'm the Captain Now | 6.00% | ~332 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.10% | ~5 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,530 (Ranked 141)  
+Progressed: 5,533 (Ranked 141)  
 Completed: 0 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 0 (0.00%) (Ranked 266)
 | 2023-08-28 | 5,332 | 0 |
 | 2023-08-29 | 5,392 | 0 |
 | 2023-08-30 | 5,496 | 0 |
-| 2023-08-31 | 5,530 | 0 |
+| 2023-08-31 | 5,533 | 0 |
 ## Awards
 Max (Relaxing): 33  (Ranked 449)  
 Sum: 164 (Ranked 391)  

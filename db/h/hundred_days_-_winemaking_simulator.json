@@ -5,9 +5,9 @@
   "Ranking_Rating": 756,
   "Ranking_Popularity": 273,
   "Ranking_PopularitySum": 224,
-  "Ranking_EOS_Progress": 267,
+  "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 96,
+  "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
@@ -952,9 +952,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 316,
+  "EOS_Progressed": 330,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 311,
+  "EOS_NewPlayers": 325,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1087,6 +1087,11 @@
       "Time": "2023-08-31T12:05:54.5803877+00:00",
       "NumProgressed": 316,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-31T13:12:21.7494031+00:00",
+      "NumProgressed": 330,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -1099,7 +1104,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "a_10",
@@ -1147,7 +1152,7 @@
       "Name": "Bye Bye",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 76
     },
     {
       "ID": "a_19",
@@ -1169,9 +1174,9 @@
       "ID": "a_20",
       "SetID": "daiie3o",
       "Name": "The Assistant",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 13
     },
     {
       "ID": "a_21",
@@ -1185,9 +1190,9 @@
       "ID": "a_22",
       "SetID": "daiie3o",
       "Name": "A long journey",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "a_23",
@@ -1203,7 +1208,7 @@
       "Name": "Better than nothing?",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "a_26",
@@ -1211,7 +1216,7 @@
       "Name": "Exotic",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "a_27",
@@ -1331,7 +1336,7 @@
       "Name": "Famous",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "a_9",
@@ -1346,7 +1351,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 316,
+      "Progressed": 330,
       "Completed": 0
     }
   ],
@@ -1354,8 +1359,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-08-28T14:01:21.7581903+00:00",
-  "LastChanged_Achievements": "2023-08-31T12:05:54.5803871+00:00",
+  "LastChanged_Achievements": "2023-08-31T13:12:21.7494025+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:37.0274623+00:00",
-  "LastUpdate_Ratings": "2023-08-31T12:00:22.1642869+00:00",
-  "LastUpdate_Achievements": "2023-08-31T12:05:54.5804127+00:00"
+  "LastUpdate_Ratings": "2023-08-31T13:06:55.2903042+00:00",
+  "LastUpdate_Achievements": "2023-08-31T13:12:21.7494433+00:00"
 }

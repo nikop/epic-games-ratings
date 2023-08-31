@@ -6,16 +6,16 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MU/TH/UR Dearest | 0.70% | ~5,826 |
-| It wakes | 0.60% | ~4,994 |
-| Zealous | 0.50% | ~4,161 |
-| Skillful | 0.50% | ~4,161 |
-| Make Some Noise | 0.50% | ~4,161 |
-| Handyman | 0.40% | ~3,329 |
-| Not half bad | 0.40% | ~3,329 |
-| Apt Survivor | 0.40% | ~3,329 |
-| Survival Treasures | 0.40% | ~3,329 |
-| Terror of LV-426 | 0.40% | ~3,329 |
+| MU/TH/UR Dearest | 0.70% | ~5,827 |
+| It wakes | 0.60% | ~4,995 |
+| Skillful | 0.60% | ~4,995 |
+| Zealous | 0.50% | ~4,162 |
+| Not half bad | 0.50% | ~4,162 |
+| Make Some Noise | 0.50% | ~4,162 |
+| Terror of LV-426 | 0.50% | ~4,162 |
+| Handyman | 0.40% | ~3,330 |
+| Apt Survivor | 0.40% | ~3,330 |
+| Survival Treasures | 0.40% | ~3,330 |
 | The Grand Sacrifice | 0.30% | ~2,497 |
 | Backdoor Escape | 0.30% | ~2,497 |
 | No one left behind | 0.30% | ~2,497 |
@@ -40,6 +40,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Engineer | 0.20% | ~1,665 |
 | Wounded Healer | 0.20% | ~1,665 |
 | Close Shave | 0.20% | ~1,665 |
+| With Scars to Show | 0.20% | ~1,665 |
 | Second Act | 0.20% | ~1,665 |
 | A bite for the Entity | 0.10% | ~832 |
 | A feast for the Entity | 0.10% | ~832 |
@@ -191,7 +192,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Caws of Death | 0.10% | ~832 |
 | Prowler | 0.10% | ~832 |
 | Adept Artist | 0.10% | ~832 |
-| With Scars to Show | 0.10% | ~832 |
 | Flight to Freedom | 0.10% | ~832 |
 | Adept Jonah | 0.10% | ~832 |
 | Viral Video | 0.10% | ~832 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~832 |
 | Adept Ripley | 0.10% | ~832 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 832,275 (Ranked 15)  
+Progressed: 832,452 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -369,10 +369,10 @@ Completed: 48 (0.01%) (Ranked 253)
 | 2023-08-28 | 824,988 | 48 |
 | 2023-08-29 | 828,020 | 48 |
 | 2023-08-30 | 831,117 | 48 |
-| 2023-08-31 | 832,275 | 48 |
+| 2023-08-31 | 832,452 | 48 |
 ## Awards
 Max (Diverse Characters): 31,726  (Ranked 15)  
-Sum: 248,819 (Ranked 11)  
+Sum: 248,855 (Ranked 11)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
@@ -380,7 +380,7 @@ Diff (max vs sum): 4
 | This game is Highly Recommended | 28,420 |
 | This game has Competitive Players | 28,355 |
 | This game has Amazing Characters | 28,138 |
-| This game is Extremely Fun | 27,872 |
+| This game is Extremely Fun | 27,908 |
 | This game has Quickly Understood Controls | 27,585 |
 | This game has Challenging Combat | 27,252 |
 | This game has Amazing Storytelling | 25,581 |
@@ -609,4 +609,4 @@ Diff (max vs sum): 4
 | 2023-08-28 | 4.52 | - | 31,536 | 247,765 |
 | 2023-08-29 | 4.52 | - | 31,566 | 248,001 |
 | 2023-08-30 | 4.52 | - | 31,677 | 248,552 |
-| 2023-08-31 | 4.52 | - | 31,726 | 248,819 |
+| 2023-08-31 | 4.52 | - | 31,726 | 248,855 |

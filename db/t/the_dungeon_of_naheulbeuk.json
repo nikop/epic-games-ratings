@@ -718,10 +718,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 230,
       "NumberOfAwardsMax": 184
+    },
+    {
+      "Time": "2023-08-31T13:02:25.863284+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 231,
+      "NumberOfAwardsMax": 184
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 230,
+  "NumberOfAwards": 231,
   "NumberOfAwardsMax": 184,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -735,7 +741,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game is Great for Beginners",
@@ -744,9 +750,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 219572,
+  "EOS_Progressed": 219584,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3045,
+  "EOS_NewPlayers": 3039,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8999,6 +9005,11 @@
       "Time": "2023-08-31T12:03:39.8759563+00:00",
       "NumProgressed": 219572,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-31T13:09:16.2072859+00:00",
+      "NumProgressed": 219584,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -9058,7 +9069,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4391
+      "UsersEstimate": 4392
     },
     {
       "ID": "Chapter2",
@@ -9066,7 +9077,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4391
+      "UsersEstimate": 4392
     },
     {
       "ID": "Chapter3",
@@ -9154,7 +9165,7 @@
       "Name": "Res Judicata",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1317
+      "UsersEstimate": 1318
     },
     {
       "ID": "CompanionPriestress",
@@ -9410,7 +9421,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6587
+      "UsersEstimate": 6588
     },
     {
       "ID": "DwarfElf15Support",
@@ -9426,7 +9437,7 @@
       "Name": "Dwarf Fortress",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1317
+      "UsersEstimate": 1318
     },
     {
       "ID": "DwarfInsultWin",
@@ -9442,7 +9453,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4391
+      "UsersEstimate": 4392
     },
     {
       "ID": "ElfEpic",
@@ -9450,7 +9461,7 @@
       "Name": "Look but don\u0027t touch",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1317
+      "UsersEstimate": 1318
     },
     {
       "ID": "ElfHitTwoFriends",
@@ -9458,7 +9469,7 @@
       "Name": "Sowwy!",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 57089
+      "UsersEstimate": 57092
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -9474,7 +9485,7 @@
       "Name": "GG EZ",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4391
+      "UsersEstimate": 4392
     },
     {
       "ID": "EndCombatOneHp",
@@ -9482,7 +9493,7 @@
       "Name": "DM intervention",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4391
+      "UsersEstimate": 4392
     },
     {
       "ID": "EndGameCursed",
@@ -9506,7 +9517,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6587
+      "UsersEstimate": 6588
     },
     {
       "ID": "FollowBraztok",
@@ -9658,7 +9669,7 @@
       "Name": "Speedrun",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4391
+      "UsersEstimate": 4392
     },
     {
       "ID": "SupportCount4",
@@ -9706,28 +9717,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4391
+      "UsersEstimate": 4392
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 219572,
+      "Progressed": 219584,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 219572,
+      "Progressed": 219584,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2023-08-30T02:11:58.6971058+00:00",
-  "LastChanged_Achievements": "2023-08-31T12:03:39.8759556+00:00",
+  "LastChanged": "2023-08-31T13:02:25.8632837+00:00",
+  "LastChanged_Achievements": "2023-08-31T13:09:16.2072853+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:41.9661267+00:00",
-  "LastUpdate_Ratings": "2023-08-31T11:57:18.7035073+00:00",
-  "LastUpdate_Achievements": "2023-08-31T12:03:39.876121+00:00"
+  "LastUpdate_Ratings": "2023-08-31T13:02:25.8632847+00:00",
+  "LastUpdate_Achievements": "2023-08-31T13:09:16.2075405+00:00"
 }

@@ -4036,10 +4036,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 8573,
       "NumberOfAwardsMax": 5822
+    },
+    {
+      "Time": "2023-08-31T13:02:34.9235784+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 8574,
+      "NumberOfAwardsMax": 5822
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8573,
+  "NumberOfAwards": 8574,
   "NumberOfAwardsMax": 5822,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4077,7 +4083,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 306
+      "Count": 307
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4098,9 +4104,9 @@
       "Count": 330
     }
   ],
-  "EOS_Progressed": 669911,
+  "EOS_Progressed": 669962,
   "EOS_Completed": 2096,
-  "EOS_NewPlayers": 5920,
+  "EOS_NewPlayers": 5928,
   "EOS_NewCompleters": 41,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -18903,6 +18909,11 @@
       "Time": "2023-08-31T12:04:07.5744363+00:00",
       "NumProgressed": 669911,
       "NumCompleted": 2096
+    },
+    {
+      "Time": "2023-08-31T13:09:53.3020351+00:00",
+      "NumProgressed": 669962,
+      "NumCompleted": 2096
     }
   ],
   "TotalAchievements": 45,
@@ -18930,7 +18941,7 @@
       "Name": "Git Gutte!",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4019
+      "UsersEstimate": 4020
     },
     {
       "ID": "ach_anger_management",
@@ -18978,7 +18989,7 @@
       "Name": "Break A Leg",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4019
+      "UsersEstimate": 4020
     },
     {
       "ID": "ach_contender",
@@ -19008,9 +19019,9 @@
       "ID": "ach_doom_buddies",
       "SetID": "7km39fm",
       "Name": "Slayer Squad",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2680
+      "UsersEstimate": 3350
     },
     {
       "ID": "ach_explorer",
@@ -19034,7 +19045,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4019
+      "UsersEstimate": 4020
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -19058,7 +19069,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4019
+      "UsersEstimate": 4020
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -19074,7 +19085,7 @@
       "Name": "Hotel California",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4689
+      "UsersEstimate": 4690
     },
     {
       "ID": "ach_impressive_aim",
@@ -19194,7 +19205,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4019
+      "UsersEstimate": 4020
     },
     {
       "ID": "ach_survival_expert",
@@ -19250,7 +19261,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4689
+      "UsersEstimate": 4690
     },
     {
       "ID": "ach_well_known_survivor",
@@ -19273,16 +19284,16 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 669911,
+      "Progressed": 669962,
       "Completed": 2096
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-08-31T09:57:28.1285272+00:00",
-  "LastChanged_Achievements": "2023-08-31T12:04:07.5744358+00:00",
+  "LastChanged": "2023-08-31T13:02:34.9235781+00:00",
+  "LastChanged_Achievements": "2023-08-31T13:09:53.3020343+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:11.0440218+00:00",
-  "LastUpdate_Ratings": "2023-08-31T11:57:24.6933326+00:00",
-  "LastUpdate_Achievements": "2023-08-31T12:04:07.5745635+00:00"
+  "LastUpdate_Ratings": "2023-08-31T13:02:34.9235789+00:00",
+  "LastUpdate_Achievements": "2023-08-31T13:09:53.3022795+00:00"
 }

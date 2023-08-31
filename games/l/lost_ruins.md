@@ -45,7 +45,7 @@
 | Hardboiled | 0.20% | ~1 |
 | Necromancer | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 433 (Ranked 242)  
+Progressed: 433 (Ranked 243)  
 Completed: 0 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 382,
   "Ranking_EOS_Progress": 568,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 343,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2020-08-25T15:00:00+00:00",
@@ -637,10 +637,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 181,
       "NumberOfAwardsMax": 33
+    },
+    {
+      "Time": "2023-08-31T13:02:39.621598+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 182,
+      "NumberOfAwardsMax": 33
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 181,
+  "NumberOfAwards": 182,
   "NumberOfAwardsMax": 33,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -684,7 +690,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 20
+      "Count": 21
     }
   ],
   "EOS_Progressed": 0,
@@ -698,8 +704,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:09.0043612+00:00",
-  "LastChanged": "2023-08-24T22:01:57.9872195+00:00",
+  "LastChanged": "2023-08-31T13:02:39.6215978+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:20.1589653+00:00",
-  "LastUpdate_Ratings": "2023-08-31T11:57:28.0201691+00:00",
-  "LastUpdate_Achievements": "2023-08-31T12:05:40.0340499+00:00"
+  "LastUpdate_Ratings": "2023-08-31T13:02:39.6215985+00:00",
+  "LastUpdate_Achievements": "2023-08-31T13:12:02.2796842+00:00"
 }

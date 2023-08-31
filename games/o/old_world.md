@@ -94,6 +94,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Phalangite | 0.90% | ~123 |
 | Capable | 0.80% | ~110 |
 | Invincible | 0.80% | ~110 |
+| Ready | 0.80% | ~110 |
 | Subjugator | 0.80% | ~110 |
 | Good Difficulty | 0.80% | ~110 |
 | Statesmen | 0.80% | ~110 |
@@ -107,7 +108,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 0.80% | ~110 |
 | Win a Single Player Game | 0.80% | ~110 |
 | Devout | 0.70% | ~96 |
-| Ready | 0.70% | ~96 |
 | Landowners | 0.70% | ~96 |
 | Riders | 0.70% | ~96 |
 | Church of the Holy Sepulchre | 0.70% | ~96 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,698 (Ranked 120)  
+Progressed: 13,699 (Ranked 120)  
 Completed: 5 (0.04%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -436,7 +436,7 @@ Completed: 5 (0.04%) (Ranked 236)
 | 2023-08-28 | 13,635 | 5 |
 | 2023-08-29 | 13,661 | 5 |
 | 2023-08-30 | 13,689 | 5 |
-| 2023-08-31 | 13,698 | 5 |
+| 2023-08-31 | 13,699 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,800 (Ranked 207)  

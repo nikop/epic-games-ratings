@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -255,9 +255,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1985,
+  "EOS_Progressed": 1986,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -2240,6 +2240,11 @@
       "Time": "2023-08-27T19:06:57.3118107+00:00",
       "NumProgressed": 1985,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-08-31T13:07:22.0586674+00:00",
+      "NumProgressed": 1986,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -2259,7 +2264,7 @@
       "Name": "Jailbreak",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1310
+      "UsersEstimate": 1311
     },
     {
       "ID": "ACHV_03",
@@ -2411,7 +2416,7 @@
       "Name": "Stimulating The Local Economy",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACHV_22",
@@ -2427,7 +2432,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 754
+      "UsersEstimate": 755
     },
     {
       "ID": "ACHV_24",
@@ -2443,7 +2448,7 @@
       "Name": "Full Arsenal",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "ACHV_26",
@@ -2451,7 +2456,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1588
+      "UsersEstimate": 1589
     },
     {
       "ID": "ACHV_27",
@@ -2555,7 +2560,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1528
+      "UsersEstimate": 1529
     },
     {
       "ID": "ACHV_40",
@@ -2571,7 +2576,7 @@
       "Name": "Suited and Booted",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "ACHV_42",
@@ -2706,7 +2711,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1985,
+      "Progressed": 1986,
       "Completed": 10
     }
   ],
@@ -2714,8 +2719,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-08-11T22:58:17.9643661+00:00",
-  "LastChanged_Achievements": "2023-08-31T12:02:12.5965697+00:00",
+  "LastChanged_Achievements": "2023-08-31T13:07:22.0586668+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:10.7266559+00:00",
-  "LastUpdate_Ratings": "2023-08-31T11:59:24.2042005+00:00",
-  "LastUpdate_Achievements": "2023-08-31T12:02:12.5966517+00:00"
+  "LastUpdate_Ratings": "2023-08-31T13:05:29.8188575+00:00",
+  "LastUpdate_Achievements": "2023-08-31T13:07:22.0587728+00:00"
 }

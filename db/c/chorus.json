@@ -2,12 +2,12 @@
   "ID": "4930dde6add240a9bfc7ddc415dc2799",
   "Name": "Chorus",
   "ProductSlug": "chorus",
-  "Ranking_Rating": 625,
+  "Ranking_Rating": 626,
   "Ranking_Popularity": 456,
   "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 115,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -286,9 +286,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 1154,
+  "EOS_Progressed": 1155,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.13,
   "EosHistory": [
@@ -1816,6 +1816,11 @@
       "Time": "2023-08-31T08:03:44.2362924+00:00",
       "NumProgressed": 1154,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-08-31T13:08:29.2807371+00:00",
+      "NumProgressed": 1155,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 43,
@@ -1843,7 +1848,7 @@
       "Name": "Voices from the Past",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 900
+      "UsersEstimate": 901
     },
     {
       "ID": "Finish5SideMissions",
@@ -1851,7 +1856,7 @@
       "Name": "Helping Hand",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "FinishAllSideMissions",
@@ -1859,7 +1864,7 @@
       "Name": "Paragon",
       "Percentage": 63,
       "XP": 70,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "GatlingVsArmor",
@@ -1891,7 +1896,7 @@
       "Name": "The Great Destroyer",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 854
+      "UsersEstimate": 855
     },
     {
       "ID": "MasteryOfCombat",
@@ -1907,7 +1912,7 @@
       "Name": "Mastery of Rites",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "MasteryOfWeapons",
@@ -1923,7 +1928,7 @@
       "Name": "The Crimson Void",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "MissionAmaranthPart2",
@@ -1931,7 +1936,7 @@
       "Name": "Retaliate",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "MissionAncientRitual",
@@ -1971,7 +1976,7 @@
       "Name": "Full Arsenal",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "MissionEosReturn",
@@ -1987,7 +1992,7 @@
       "Name": "The Nameless Dread",
       "Percentage": 34,
       "XP": 75,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "MissionHeartOfTheFaceless",
@@ -2027,7 +2032,7 @@
       "Name": "Old Days Born Anew",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "MissionPhoenixRediscovery",
@@ -2035,7 +2040,7 @@
       "Name": "Ghosts",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "MissionSalvage",
@@ -2043,7 +2048,7 @@
       "Name": "Shields Down",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "MissionScavengingJob",
@@ -2051,7 +2056,7 @@
       "Name": "Another Life",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 981
+      "UsersEstimate": 982
     },
     {
       "ID": "MissionShipyard",
@@ -2067,7 +2072,7 @@
       "Name": "The Path Forward",
       "Percentage": 45,
       "XP": 70,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "MissionTemple",
@@ -2075,7 +2080,7 @@
       "Name": "Disruption",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "MissionTheArmadaStrikes",
@@ -2089,9 +2094,9 @@
       "ID": "MissionTheiaStep1",
       "SetID": "a6c395p",
       "Name": "Origin",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 462
+      "UsersEstimate": 450
     },
     {
       "ID": "Overcharge",
@@ -2107,7 +2112,7 @@
       "Name": "Radiation Area",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "RiteOfControl",
@@ -2123,7 +2128,7 @@
       "Name": "Huntress",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "RiteOfTheStar",
@@ -2131,7 +2136,7 @@
       "Name": "Two Birds",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "RiteOfTheStorm",
@@ -2145,9 +2150,9 @@
       "ID": "UseRepairDrones",
       "SetID": "a6c395p",
       "Name": "Phoenix",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 508
+      "UsersEstimate": 497
     },
     {
       "ID": "VisitAllLocations",
@@ -2155,7 +2160,7 @@
       "Name": "Space Traveler",
       "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 900
+      "UsersEstimate": 901
     },
     {
       "ID": "WinARace",
@@ -2170,15 +2175,15 @@
     {
       "ID": "a6c395p",
       "IsBase": true,
-      "Progressed": 1154,
+      "Progressed": 1155,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-08-19T10:57:32.3642226+00:00",
-  "LastChanged_Achievements": "2023-08-31T12:02:36.2447361+00:00",
+  "LastChanged_Achievements": "2023-08-31T13:08:29.2807365+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:27.6298041+00:00",
-  "LastUpdate_Ratings": "2023-08-31T11:58:39.5726693+00:00",
-  "LastUpdate_Achievements": "2023-08-31T12:02:36.2447942+00:00"
+  "LastUpdate_Ratings": "2023-08-31T13:04:23.3616598+00:00",
+  "LastUpdate_Achievements": "2023-08-31T13:08:29.280782+00:00"
 }
