@@ -2,7 +2,7 @@
   "ID": "ac35eab3f59b4fab98f7ea12a18f3e7a",
   "Name": "Zero-G Gunfight",
   "ProductSlug": "zerog-gunfight-6386d2",
-  "Ranking_EOS_Progress": 568,
+  "Ranking_EOS_Progress": 569,
   "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 341,
   "Ranking_EOS_NewCompleters": 104,
@@ -158,8 +158,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-31T16:00:03.0228511+00:00",
-  "LastChanged_Achievements": "2023-08-31T20:07:04.4103402+00:00",
+  "LastChanged_Achievements": "2023-08-31T21:06:19.8897091+00:00",
   "LastUpdate_AppInfo": "2023-08-30T23:57:14.8952797+00:00",
-  "LastUpdate_Ratings": "2023-08-31T20:00:42.8139885+00:00",
-  "LastUpdate_Achievements": "2023-08-31T20:07:04.4103503+00:00"
+  "LastUpdate_Ratings": "2023-08-31T20:59:59.2453982+00:00",
+  "LastUpdate_Achievements": "2023-08-31T21:06:19.8897224+00:00"
 }

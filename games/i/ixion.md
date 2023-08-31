@@ -5,10 +5,10 @@ Rating: 4.55 (Ranked 490)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 26.00% | ~811 |
+| Wakey Wakey | 26.00% | ~812 |
 | Sputnik 2049 | 23.00% | ~718 |
 | Infinite Growth... | 22.00% | ~687 |
-| Without Breaking Some Eggs... | 21.00% | ~655 |
+| Without Breaking Some Eggs... | 21.00% | ~656 |
 | Space Society | 15.00% | ~468 |
 | A Thousand Strong | 15.00% | ~468 |
 | Ready for a New World | 15.00% | ~468 |
@@ -19,12 +19,12 @@ Rating: 4.55 (Ranked 490)
 | Guy de Borderlands | 11.00% | ~343 |
 | Hope Seeker | 11.00% | ~343 |
 | Exceeding Capacity | 10.00% | ~312 |
+| Breaking Protocol | 10.00% | ~312 |
 | A Hunk of Junk | 9.00% | ~281 |
-| Breaking Protocol | 9.00% | ~281 |
-| Man's Best Friend | 7.00% | ~218 |
-| Power Outage | 7.00% | ~218 |
-| Convenient Transport | 7.00% | ~218 |
-| Please Make it Stop! | 7.00% | ~218 |
+| Man's Best Friend | 7.00% | ~219 |
+| Power Outage | 7.00% | ~219 |
+| Convenient Transport | 7.00% | ~219 |
+| Please Make it Stop! | 7.00% | ~219 |
 | Sightseeing | 6.00% | ~187 |
 | From the Past | 6.00% | ~187 |
 | Access Granted | 5.00% | ~156 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 490)
 | I Give You the Stars | 0.10% | ~1 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,121 (Ranked 161)  
+Progressed: 3,122 (Ranked 161)  
 Completed: 0 (0.00%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 0 (0.00%) (Ranked 269)
 | 2023-08-28 | 3,109 | 0 |
 | 2023-08-29 | 3,112 | 0 |
 | 2023-08-30 | 3,116 | 0 |
-| 2023-08-31 | 3,121 | 0 |
+| 2023-08-31 | 3,122 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewPlayers": 85,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -6825,7 +6825,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 60044,
+  "EOS_Progressed": 60046,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 460,
   "EOS_NewCompleters": 0,
@@ -20945,6 +20945,11 @@
       "Time": "2023-08-31T20:07:30.9882086+00:00",
       "NumProgressed": 60044,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-31T21:06:43.5414221+00:00",
+      "NumProgressed": 60046,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -20956,7 +20961,7 @@
       "Name": "Against all odds",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7205
+      "UsersEstimate": 7206
     },
     {
       "ID": "Apple of my eye",
@@ -20972,7 +20977,7 @@
       "Name": "Bannerlord",
       "Percentage": 23,
       "XP": 65,
-      "UsersEstimate": 13810
+      "UsersEstimate": 13811
     },
     {
       "ID": "Best served cold",
@@ -21116,7 +21121,7 @@
       "Name": "Horde breaker",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 13810
+      "UsersEstimate": 13811
     },
     {
       "ID": "I can do it",
@@ -21148,7 +21153,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10207
+      "UsersEstimate": 10208
     },
     {
       "ID": "Kingslayer",
@@ -21180,7 +21185,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 19214
+      "UsersEstimate": 19215
     },
     {
       "ID": "Lawbringer",
@@ -21196,7 +21201,7 @@
       "Name": "Lawmaker",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 13810
+      "UsersEstimate": 13811
     },
     {
       "ID": "Long live the Empire",
@@ -21300,7 +21305,7 @@
       "Name": "Swordbearer",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6004
+      "UsersEstimate": 6005
     },
     {
       "ID": "The king is pleased",
@@ -21363,15 +21368,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 60044,
+      "Progressed": 60046,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-08-31T18:59:01.5569844+00:00",
-  "LastChanged_Achievements": "2023-08-31T20:07:30.9882082+00:00",
+  "LastChanged_Achievements": "2023-08-31T21:06:43.5414216+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:26.1294952+00:00",
-  "LastUpdate_Ratings": "2023-08-31T19:59:13.4722672+00:00",
-  "LastUpdate_Achievements": "2023-08-31T20:07:30.9883141+00:00"
+  "LastUpdate_Ratings": "2023-08-31T20:58:44.8782041+00:00",
+  "LastUpdate_Achievements": "2023-08-31T21:06:43.5415631+00:00"
 }

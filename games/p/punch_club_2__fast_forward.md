@@ -9,12 +9,12 @@
 | Your first fight | 86.00% | ~256 |
 | First winning | 84.00% | ~250 |
 | Your first job | 83.00% | ~247 |
+| Fitness professional | 78.00% | ~232 |
 | Old movies enjoyer | 78.00% | ~232 |
-| Fitness professional | 77.00% | ~229 |
 | Depressed visitor | 77.00% | ~229 |
 | Neurotrainer – power gainer! | 76.00% | ~226 |
 | Employee of the week | 75.00% | ~224 |
-| Your own amateur gym | 72.00% | ~215 |
+| Your own amateur gym | 73.00% | ~218 |
 | First defeat | 72.00% | ~215 |
 | Run K, run! | 71.00% | ~212 |
 | Fighting is cool | 67.00% | ~200 |
@@ -27,10 +27,10 @@
 | Workout professional | 59.00% | ~176 |
 | Champion – starter pack | 58.00% | ~173 |
 | It's good to be alive | 58.00% | ~173 |
+| Intriguing candies | 58.00% | ~173 |
 | Little hacker | 57.00% | ~170 |
 | Handyman | 57.00% | ~170 |
 | Own four walls | 57.00% | ~170 |
-| Intriguing candies | 57.00% | ~170 |
 | Employee of the year | 57.00% | ~170 |
 | Fight for life | 56.00% | ~167 |
 | Extreme neuropower! | 53.00% | ~158 |
@@ -38,19 +38,19 @@
 | Escaped from a big trouble | 49.00% | ~146 |
 | Now you are worthy | 48.00% | ~143 |
 | Guiding on the right path | 45.00% | ~134 |
-| Fight is life | 43.00% | ~128 |
+| Fight is life | 44.00% | ~131 |
 | Mysterious voice | 43.00% | ~128 |
 | No blades in the gym | 43.00% | ~128 |
 | Champion – no way back | 40.00% | ~119 |
 | Responsible approach | 39.00% | ~116 |
+| Deal with life | 38.00% | ~113 |
+| Poisoned fighter | 38.00% | ~113 |
 | Underground dwellers | 38.00% | ~113 |
 | Your own way | 38.00% | ~113 |
-| Deal with life | 37.00% | ~110 |
+| Mom got better | 37.00% | ~110 |
 | GYM professional | 37.00% | ~110 |
-| Poisoned fighter | 37.00% | ~110 |
-| Mom got better | 36.00% | ~107 |
+| The die is cast | 37.00% | ~110 |
 | Get out of my apartment! | 36.00% | ~107 |
-| The die is cast | 36.00% | ~107 |
 | Seashell hunter | 35.00% | ~104 |
 | Gang wrangler | 34.00% | ~101 |
 | Problems of cyborgs | 33.00% | ~98 |

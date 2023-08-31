@@ -5,7 +5,7 @@ Rating: 4.54 (Ranked 505)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 0.80% | ~5,362 |
+| Welcome To Hell-A | 0.80% | ~5,363 |
 | Break A Leg | 0.70% | ~4,692 |
 | Hotel California | 0.70% | ~4,692 |
 | Dr. Reed, I Presume? | 0.60% | ~4,022 |
@@ -16,14 +16,14 @@ Rating: 4.54 (Ranked 505)
 | Apex Predator | 0.60% | ~4,022 |
 | Stacking the Deck | 0.60% | ~4,022 |
 | Personal Assistant Personally Assisted | 0.60% | ~4,022 |
-| Bookworm | 0.50% | ~3,351 |
-| But Doctor, I am Butcho | 0.50% | ~3,351 |
-| Slayer Squad | 0.50% | ~3,351 |
-| Can't Handle the Truth | 0.50% | ~3,351 |
-| Like Riding a Bike | 0.50% | ~3,351 |
-| Zombologist | 0.50% | ~3,351 |
-| A Patton Emerges | 0.50% | ~3,351 |
-| This is My Weapon | 0.50% | ~3,351 |
+| Bookworm | 0.50% | ~3,352 |
+| But Doctor, I am Butcho | 0.50% | ~3,352 |
+| Slayer Squad | 0.50% | ~3,352 |
+| Can't Handle the Truth | 0.50% | ~3,352 |
+| Like Riding a Bike | 0.50% | ~3,352 |
+| Zombologist | 0.50% | ~3,352 |
+| A Patton Emerges | 0.50% | ~3,352 |
+| This is My Weapon | 0.50% | ~3,352 |
 | Anger Management | 0.40% | ~2,681 |
 | Perks of the Job | 0.40% | ~2,681 |
 | I Got a Zombie Army and You Can't Harm Me | 0.40% | ~2,681 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 505)
 | Variety is the Spice of Death | 0.10% | ~670 |
 | Bucket List | 0.10% | ~670 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 670,275 (Ranked 22)  
+Progressed: 670,317 (Ranked 22)  
 Completed: 2,096 (0.31%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 2,096 (0.31%) (Ranked 176)
 | 2023-08-28 | 668,091 | 2,086 |
 | 2023-08-29 | 668,912 | 2,088 |
 | 2023-08-30 | 669,636 | 2,094 |
-| 2023-08-31 | 670,275 | 2,096 |
+| 2023-08-31 | 670,317 | 2,096 |
 ## Awards
 Max (Great Boss Battles): 5,841  (Ranked 60)  
 Sum: 8,595 (Ranked 97)  

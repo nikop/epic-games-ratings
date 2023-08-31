@@ -2,13 +2,13 @@
   "ID": "79d9bff700bb46a790b21e8c73b34899",
   "Name": "Salt and Sanctuary",
   "ProductSlug": "salt-and-sanctuary",
-  "Ranking_Rating": 369,
+  "Ranking_Rating": 368,
   "Ranking_Popularity": 243,
   "Ranking_PopularitySum": 204,
   "Ranking_EOS_Progress": 30,
   "Ranking_EOS_Completed": 179,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
     "PcReleaseDate": "2016-05-17T16:00:00+00:00",
@@ -2499,10 +2499,10 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 531942,
+  "EOS_Progressed": 531946,
   "EOS_Completed": 1525,
-  "EOS_NewPlayers": 620,
-  "EOS_NewCompleters": 12,
+  "EOS_NewPlayers": 623,
+  "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
     {
@@ -16929,6 +16929,11 @@
       "Time": "2023-08-31T20:07:22.3587116+00:00",
       "NumProgressed": 531942,
       "NumCompleted": 1525
+    },
+    {
+      "Time": "2023-08-31T21:06:36.1939686+00:00",
+      "NumProgressed": 531946,
+      "NumCompleted": 1525
     }
   ],
   "TotalAchievements": 37,
@@ -16940,7 +16945,7 @@
       "Name": "Branded",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 69152
+      "UsersEstimate": 69153
     },
     {
       "ID": "COASTROCK",
@@ -16956,7 +16961,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 159583
+      "UsersEstimate": 159584
     },
     {
       "ID": "DEVOTED",
@@ -16996,7 +17001,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 441512
+      "UsersEstimate": 441515
     },
     {
       "ID": "HONED",
@@ -17052,7 +17057,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 212777
+      "UsersEstimate": 212778
     },
     {
       "ID": "THE_CASTLE",
@@ -17108,7 +17113,7 @@
       "Name": "The Imposter",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 69152
+      "UsersEstimate": 69153
     },
     {
       "ID": "THE_IRON_ONES",
@@ -17124,7 +17129,7 @@
       "Name": "The Keep",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 69152
+      "UsersEstimate": 69153
     },
     {
       "ID": "THE_LAKE",
@@ -17180,7 +17185,7 @@
       "Name": "The Sacrifice",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 42555
+      "UsersEstimate": 42556
     },
     {
       "ID": "THE_STONE_ROOTS",
@@ -17196,7 +17201,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 340443
+      "UsersEstimate": 340445
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -17235,15 +17240,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 531942,
+      "Progressed": 531946,
       "Completed": 1525
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-08-31T13:03:26.3092867+00:00",
-  "LastChanged_Achievements": "2023-08-31T20:07:22.3587112+00:00",
+  "LastChanged_Achievements": "2023-08-31T21:06:36.193968+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:39.2486903+00:00",
-  "LastUpdate_Ratings": "2023-08-31T19:58:28.4898825+00:00",
-  "LastUpdate_Achievements": "2023-08-31T20:07:22.3588059+00:00"
+  "LastUpdate_Ratings": "2023-08-31T20:58:08.4605682+00:00",
+  "LastUpdate_Achievements": "2023-08-31T21:06:36.1940984+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -3610,9 +3610,9 @@
       "ID": "NEW_ACHIEVEMENT_DEFENCE",
       "SetID": "l546gc",
       "Name": "Planetary Defence",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "NEW_ACHIEVEMENT_DETECTIVE",
@@ -3859,8 +3859,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-08-28T18:01:28.2761395+00:00",
-  "LastChanged_Achievements": "2023-08-31T20:04:47.0944055+00:00",
+  "LastChanged_Achievements": "2023-08-31T21:04:22.8523651+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:32.8469898+00:00",
-  "LastUpdate_Ratings": "2023-08-31T20:00:59.2996739+00:00",
-  "LastUpdate_Achievements": "2023-08-31T20:04:47.0944571+00:00"
+  "LastUpdate_Ratings": "2023-08-31T21:00:12.612921+00:00",
+  "LastUpdate_Achievements": "2023-08-31T21:04:22.852422+00:00"
 }

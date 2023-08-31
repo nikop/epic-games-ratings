@@ -6,8 +6,8 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Death Becomes You | 3.00% | ~32 |
-| That'll Leave a Mark | 3.00% | ~32 |
+| Death Becomes You | 3.00% | ~33 |
+| That'll Leave a Mark | 3.00% | ~33 |
 | Debuff Dogpile | 2.00% | ~22 |
 | Faceroll the Bones | 2.00% | ~22 |
 | First Strike | 2.00% | ~22 |
@@ -25,12 +25,12 @@ Number of Ratings: 285  (23.09.2022)
 | The Harder They Fall | 0.80% | ~9 |
 | Next Time on MythForce... | 0.80% | ~9 |
 | On this Episode! | 0.70% | ~8 |
-| The Fourth Gate | 0.60% | ~6 |
+| The Fourth Gate | 0.60% | ~7 |
 | We've Got a Kaiju on the Field | 0.20% | ~2 |
 | Deadalus and Loving It | 0.00% | ~0 |
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,083 (Ranked 201)  
+Progressed: 1,084 (Ranked 201)  
 Completed: 0 (0.00%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 0 (0.00%) (Ranked 269)
 | 2023-08-28 | 1,029 | 0 |
 | 2023-08-29 | 1,050 | 0 |
 | 2023-08-30 | 1,069 | 0 |
-| 2023-08-31 | 1,083 | 0 |
+| 2023-08-31 | 1,084 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 456)  
 Sum: 254 (Ranked 354)  

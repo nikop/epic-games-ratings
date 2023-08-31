@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -3216,9 +3216,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 72520,
+  "EOS_Progressed": 72521,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 237,
+  "EOS_NewPlayers": 238,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -16981,6 +16981,11 @@
       "Time": "2023-08-31T19:02:24.6020886+00:00",
       "NumProgressed": 72520,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-08-31T21:03:20.872429+00:00",
+      "NumProgressed": 72521,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 37,
@@ -17136,7 +17141,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 47138
+      "UsersEstimate": 47139
     },
     {
       "ID": "ACH_0210",
@@ -17144,7 +17149,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 53665
+      "UsersEstimate": 53666
     },
     {
       "ID": "ACH_0211",
@@ -17224,7 +17229,7 @@
       "Name": "Fancy Pants",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 26107
+      "UsersEstimate": 26108
     },
     {
       "ID": "ACH_0431",
@@ -17256,7 +17261,7 @@
       "Name": "Raider\u2019s Ruin",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 12328
+      "UsersEstimate": 12329
     },
     {
       "ID": "ACH_0452",
@@ -17264,7 +17269,7 @@
       "Name": "Dragonslayer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 12328
+      "UsersEstimate": 12329
     },
     {
       "ID": "ACH_0460",
@@ -17280,29 +17285,29 @@
       "Name": "Rockay Rex",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 8702
+      "UsersEstimate": 8703
     }
   ],
   "AchievementSets": [
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 72520,
+      "Progressed": 72521,
       "Completed": 42
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 867,
-      "Completed": 867
+      "Progressed": 868,
+      "Completed": 868
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-08-31T19:59:19.8434655+00:00",
-  "LastChanged_Achievements": "2023-08-31T20:03:35.812202+00:00",
+  "LastChanged_Achievements": "2023-08-31T21:03:20.8724278+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:33.2477495+00:00",
-  "LastUpdate_Ratings": "2023-08-31T19:59:19.8434661+00:00",
-  "LastUpdate_Achievements": "2023-08-31T20:03:35.8122912+00:00"
+  "LastUpdate_Ratings": "2023-08-31T20:58:50.0406567+00:00",
+  "LastUpdate_Achievements": "2023-08-31T21:03:20.8725562+00:00"
 }

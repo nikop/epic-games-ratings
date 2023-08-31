@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 97,
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 17,
+  "Ranking_EOS_NewPlayers": 16,
   "Ranking_EOS_NewCompleters": 5,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -4116,9 +4116,9 @@
       "Count": 330
     }
   ],
-  "EOS_Progressed": 670275,
+  "EOS_Progressed": 670317,
   "EOS_Completed": 2096,
-  "EOS_NewPlayers": 5900,
+  "EOS_NewPlayers": 5899,
   "EOS_NewCompleters": 37,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -18961,6 +18961,11 @@
       "Time": "2023-08-31T20:05:04.8249705+00:00",
       "NumProgressed": 670275,
       "NumCompleted": 2096
+    },
+    {
+      "Time": "2023-08-31T21:04:38.0403539+00:00",
+      "NumProgressed": 670317,
+      "NumCompleted": 2096
     }
   ],
   "TotalAchievements": 45,
@@ -19028,7 +19033,7 @@
       "Name": "Bookworm",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 3351
+      "UsersEstimate": 3352
     },
     {
       "ID": "ach_break_a_leg",
@@ -19060,7 +19065,7 @@
       "Name": "But Doctor, I am Butcho",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3351
+      "UsersEstimate": 3352
     },
     {
       "ID": "ach_doom_buddies",
@@ -19068,7 +19073,7 @@
       "Name": "Slayer Squad",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3351
+      "UsersEstimate": 3352
     },
     {
       "ID": "ach_explorer",
@@ -19084,7 +19089,7 @@
       "Name": "Can\u0027t Handle the Truth",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3351
+      "UsersEstimate": 3352
     },
     {
       "ID": "ach_finisher",
@@ -19100,7 +19105,7 @@
       "Name": "Like Riding a Bike",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3351
+      "UsersEstimate": 3352
     },
     {
       "ID": "ach_good_eyesight",
@@ -19180,7 +19185,7 @@
       "Name": "Zombologist",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3351
+      "UsersEstimate": 3352
     },
     {
       "ID": "ach_legendary",
@@ -19204,7 +19209,7 @@
       "Name": "A Patton Emerges",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3351
+      "UsersEstimate": 3352
     },
     {
       "ID": "ach_mind_over_monster",
@@ -19292,7 +19297,7 @@
       "Name": "This is My Weapon",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3351
+      "UsersEstimate": 3352
     },
     {
       "ID": "ach_weapon_wrangler",
@@ -19308,7 +19313,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5362
+      "UsersEstimate": 5363
     },
     {
       "ID": "ach_well_known_survivor",
@@ -19331,7 +19336,7 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 670275,
+      "Progressed": 670317,
       "Completed": 2096
     }
   ],
@@ -19339,8 +19344,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-08-31T17:57:51.1945636+00:00",
-  "LastChanged_Achievements": "2023-08-31T20:05:04.8249701+00:00",
+  "LastChanged_Achievements": "2023-08-31T21:04:38.0403524+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:11.0440218+00:00",
-  "LastUpdate_Ratings": "2023-08-31T19:57:44.9711058+00:00",
-  "LastUpdate_Achievements": "2023-08-31T20:05:04.825072+00:00"
+  "LastUpdate_Ratings": "2023-08-31T20:57:33.8380245+00:00",
+  "LastUpdate_Achievements": "2023-08-31T21:04:38.0404957+00:00"
 }

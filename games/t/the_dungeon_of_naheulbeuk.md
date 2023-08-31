@@ -6,9 +6,9 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 26.00% | ~57,133 |
-| Where's that freaking Dwarf? | 3.00% | ~6,592 |
-| Alt+F4 | 3.00% | ~6,592 |
+| Sowwy! | 26.00% | ~57,139 |
+| Where's that freaking Dwarf? | 3.00% | ~6,593 |
+| Alt+F4 | 3.00% | ~6,593 |
 | Déjà vu | 2.00% | ~4,395 |
 | A beer, two curses, three companions | 2.00% | ~4,395 |
 | Sock! SOCK! | 2.00% | ~4,395 |
@@ -16,11 +16,11 @@ Number of Ratings: 118  (23.09.2022)
 | DM intervention | 2.00% | ~4,395 |
 | Speedrun | 2.00% | ~4,395 |
 | Fireproof Wizardess | 2.00% | ~4,395 |
-| Livin' in a dwarven paradise | 1.00% | ~2,197 |
-| Way of the Wimp | 1.00% | ~2,197 |
-| The plot thickens... At the tavern | 1.00% | ~2,197 |
-| The demons' feast | 1.00% | ~2,197 |
-| Oh, when I'll be level 10... | 1.00% | ~2,197 |
+| Livin' in a dwarven paradise | 1.00% | ~2,198 |
+| Way of the Wimp | 1.00% | ~2,198 |
+| The plot thickens... At the tavern | 1.00% | ~2,198 |
+| The demons' feast | 1.00% | ~2,198 |
+| Oh, when I'll be level 10... | 1.00% | ~2,198 |
 | The Great Library | 0.90% | ~1,978 |
 | Torture and Sensibility | 0.90% | ~1,978 |
 | Urik's Depths | 0.90% | ~1,978 |
@@ -37,8 +37,8 @@ Number of Ratings: 118  (23.09.2022)
 | Look but don't touch | 0.70% | ~1,538 |
 | The beards of change | 0.70% | ~1,538 |
 | Thieves' Guild Accreditation | 0.70% | ~1,538 |
-| Res Judicata | 0.60% | ~1,318 |
-| Dwarf Fortress | 0.60% | ~1,318 |
+| Res Judicata | 0.60% | ~1,319 |
+| Dwarf Fortress | 0.60% | ~1,319 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.50% | ~1,099 |
 | Dead for good | 0.50% | ~1,099 |
 | Lust and Debauchery | 0.50% | ~1,099 |
@@ -48,10 +48,10 @@ Number of Ratings: 118  (23.09.2022)
 | An old poacher makes the best gamekeeper | 0.30% | ~659 |
 | We come in peace | 0.30% | ~659 |
 | Lëgal Legend | 0.30% | ~659 |
-| Holistic Adventuring Party | 0.20% | ~439 |
-| Scholar of the Lands of Fangh | 0.20% | ~439 |
-| Law and Order | 0.20% | ~439 |
-| It's been a hard day's night | 0.20% | ~439 |
+| Holistic Adventuring Party | 0.20% | ~440 |
+| Scholar of the Lands of Fangh | 0.20% | ~440 |
+| Law and Order | 0.20% | ~440 |
+| It's been a hard day's night | 0.20% | ~440 |
 | Cursed die | 0.10% | ~220 |
 | Friendly fire | 0.10% | ~220 |
 | I'd rather... Just... Sing! | 0.10% | ~220 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~220 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,741 (Ranked 57)  
+Progressed: 219,764 (Ranked 57)  
 Completed: 2 (0.00%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 2 (0.00%) (Ranked 269)
 | 2023-08-28 | 218,694 | 2 |
 | 2023-08-29 | 219,078 | 2 |
 | 2023-08-30 | 219,453 | 2 |
-| 2023-08-31 | 219,741 | 2 |
+| 2023-08-31 | 219,764 | 2 |
 ## Awards
 Max (Character Customization): 184  (Ranked 279)  
 Sum: 232 (Ranked 360)  
