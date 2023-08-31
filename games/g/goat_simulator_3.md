@@ -1,7 +1,7 @@
 # Goat Simulator 3
 [Store](https://store.epicgames.com/en-US/p/goat-simulator-3)  
 [View Rawdata](../../db/g/goat_simulator_3.json)  
-Rating: 4.84 (Ranked 48)  
+Rating: 4.84 (Ranked 49)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

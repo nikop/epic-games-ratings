@@ -1,19 +1,20 @@
 # Dead by Daylight
 [Store](https://store.epicgames.com/en-US/p/dead-by-daylight)  
 [View Rawdata](../../db/d/dead_by_daylight.json)  
-Rating: 4.52 (Ranked 530)  
+Rating: 4.52 (Ranked 531)  
 Number of Ratings: 70,340  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| It wakes | 0.60% | ~4,990 |
 | MU/TH/UR Dearest | 0.60% | ~4,990 |
-| It wakes | 0.50% | ~4,158 |
-| Skillful | 0.50% | ~4,158 |
+| Skillful | 0.50% | ~4,159 |
 | Zealous | 0.40% | ~3,327 |
 | Not half bad | 0.40% | ~3,327 |
 | Apt Survivor | 0.40% | ~3,327 |
 | Make Some Noise | 0.40% | ~3,327 |
 | Terror of LV-426 | 0.40% | ~3,327 |
+| The Grand Sacrifice | 0.30% | ~2,495 |
 | No one left behind | 0.30% | ~2,495 |
 | Medic | 0.30% | ~2,495 |
 | Handyman | 0.30% | ~2,495 |
@@ -23,7 +24,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | I | 0.30% | ~2,495 |
 | Sorted | 0.30% | ~2,495 |
 | Resurgence | 0.30% | ~2,495 |
-| The Grand Sacrifice | 0.20% | ~1,663 |
 | Agonizing Escape | 0.20% | ~1,663 |
 | Backdoor Escape | 0.20% | ~1,663 |
 | I've got your back | 0.20% | ~1,663 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~832 |
 | Adept Ripley | 0.10% | ~832 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 831,641 (Ranked 15)  
+Progressed: 831,703 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -369,17 +369,17 @@ Completed: 48 (0.01%) (Ranked 253)
 | 2023-08-28 | 824,988 | 48 |
 | 2023-08-29 | 828,020 | 48 |
 | 2023-08-30 | 831,117 | 48 |
-| 2023-08-31 | 831,641 | 48 |
+| 2023-08-31 | 831,703 | 48 |
 ## Awards
 Max (Diverse Characters): 31,677  (Ranked 15)  
-Sum: 248,582 (Ranked 11)  
+Sum: 248,632 (Ranked 11)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 31,677 |
 | This game is Highly Recommended | 28,366 |
 | This game has Competitive Players | 28,355 |
-| This game has Amazing Characters | 28,088 |
+| This game has Amazing Characters | 28,138 |
 | This game is Extremely Fun | 27,872 |
 | This game has Quickly Understood Controls | 27,585 |
 | This game has Challenging Combat | 27,252 |
@@ -609,4 +609,4 @@ Diff (max vs sum): 4
 | 2023-08-28 | 4.52 | - | 31,536 | 247,765 |
 | 2023-08-29 | 4.52 | - | 31,566 | 248,001 |
 | 2023-08-30 | 4.52 | - | 31,677 | 248,552 |
-| 2023-08-31 | 4.52 | - | 31,677 | 248,582 |
+| 2023-08-31 | 4.52 | - | 31,677 | 248,632 |

@@ -1,12 +1,12 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.18 (Ranked 880)  
+Rating: 4.18 (Ranked 881)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~34,059 |
-| Har, Har, Har, Very Funny | 35.00% | ~23,841 |
+| First Step Into the Knight | 50.00% | ~34,060 |
+| Har, Har, Har, Very Funny | 35.00% | ~23,842 |
 | Loose Ends | 34.00% | ~23,160 |
 | To the Victor Go the Spoils | 28.00% | ~19,073 |
 | Knighthood | 27.00% | ~18,392 |
@@ -19,7 +19,7 @@ Rating: 4.18 (Ranked 880)
 | Working Hard or Harley Working? | 20.00% | ~13,624 |
 | Unstoppable Force | 20.00% | ~13,624 |
 | Bad Apples in Every Orchard | 20.00% | ~13,624 |
-| Snow Problem | 19.00% | ~12,942 |
+| Snow Problem | 19.00% | ~12,943 |
 | The Show Mud Go On | 18.00% | ~12,261 |
 | From Inside Gotham's Walls | 18.00% | ~12,261 |
 | Protector of Gotham | 17.00% | ~11,580 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 880)
 | Element of Surprise | 0.20% | ~77 |
 | It's Nice to Be Wanted | 0.20% | ~77 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,118 (Ranked 81)  
+Progressed: 68,119 (Ranked 81)  
 Completed: 110 (0.16%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 110 (0.16%) (Ranked 197)
 | 2023-08-28 | 68,093 | 109 |
 | 2023-08-29 | 68,108 | 110 |
 | 2023-08-30 | 68,116 | 110 |
-| 2023-08-31 | 68,118 | 110 |
+| 2023-08-31 | 68,119 | 110 |
 ## Awards
 Max (Great Boss Battles): 2,529  (Ranked 100)  
 Sum: 4,212 (Ranked 140)  

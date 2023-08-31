@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -1707,9 +1707,9 @@
       "ID": "ach_x_victims_holding_shovel",
       "SetID": "bf10c8p",
       "Name": "No Diggity",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 95
     },
     {
       "ID": "ach_x_victims_using_bow",
@@ -1794,8 +1794,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-08-31T04:04:19.8659049+00:00",
+  "LastChanged_Achievements": "2023-08-31T05:05:53.7252588+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:02.2550756+00:00",
-  "LastUpdate_Ratings": "2023-08-31T03:57:14.7155774+00:00",
-  "LastUpdate_Achievements": "2023-08-31T04:04:19.8659914+00:00"
+  "LastUpdate_Ratings": "2023-08-31T04:57:48.8464114+00:00",
+  "LastUpdate_Achievements": "2023-08-31T05:05:53.7253485+00:00"
 }

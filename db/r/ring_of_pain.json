@@ -2,7 +2,7 @@
   "ID": "b9c7474c6bdf4e9ab8ca5a5da60059d4",
   "Name": "Ring of Pain",
   "ProductSlug": "ring-of-pain",
-  "Ranking_Rating": 428,
+  "Ranking_Rating": 429,
   "Ranking_Popularity": 123,
   "Ranking_PopularitySum": 79,
   "Ranking_EOS_Progress": 51,
@@ -2775,7 +2775,7 @@
   ],
   "EOS_Progressed": 235211,
   "EOS_Completed": 263,
-  "EOS_NewPlayers": 397,
+  "EOS_NewPlayers": 396,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -17307,8 +17307,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-08-29T02:43:12.709728+00:00",
-  "LastChanged_Achievements": "2023-08-31T04:04:10.4995733+00:00",
+  "LastChanged_Achievements": "2023-08-31T05:05:41.3827958+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:04.5916329+00:00",
-  "LastUpdate_Ratings": "2023-08-31T03:58:11.8529462+00:00",
-  "LastUpdate_Achievements": "2023-08-31T04:04:10.4997818+00:00"
+  "LastUpdate_Ratings": "2023-08-31T04:59:12.2551919+00:00",
+  "LastUpdate_Achievements": "2023-08-31T05:05:41.3830663+00:00"
 }

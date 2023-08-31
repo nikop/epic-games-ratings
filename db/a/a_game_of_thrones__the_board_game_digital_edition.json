@@ -2,7 +2,7 @@
   "ID": "1b737464d3c441f8956315433be02d3b",
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
-  "Ranking_Rating": 863,
+  "Ranking_Rating": 864,
   "Ranking_Popularity": 316,
   "Ranking_PopularitySum": 265,
   "Ranking_EOS_Progress": 106,
@@ -1269,9 +1269,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 22822,
+  "EOS_Progressed": 22824,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 638,
+  "EOS_NewPlayers": 640,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -15464,6 +15464,11 @@
       "Time": "2023-08-31T04:04:54.9539885+00:00",
       "NumProgressed": 22822,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-08-31T05:06:42.1046071+00:00",
+      "NumProgressed": 22824,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 22,
@@ -15595,7 +15600,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4564
+      "UsersEstimate": 4565
     },
     {
       "ID": "1031",
@@ -15611,7 +15616,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 9129
+      "UsersEstimate": 9130
     },
     {
       "ID": "1033",
@@ -15650,15 +15655,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 22822,
+      "Progressed": 22824,
       "Completed": 50
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-08-02T00:02:09.7226533+00:00",
-  "LastChanged_Achievements": "2023-08-31T04:04:54.953988+00:00",
+  "LastChanged_Achievements": "2023-08-31T05:06:42.1046064+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:58:01.0379826+00:00",
-  "LastUpdate_Ratings": "2023-08-31T03:59:00.6205536+00:00",
-  "LastUpdate_Achievements": "2023-08-31T04:04:54.9540663+00:00"
+  "LastUpdate_Ratings": "2023-08-31T05:00:25.9739757+00:00",
+  "LastUpdate_Achievements": "2023-08-31T05:06:42.1047166+00:00"
 }

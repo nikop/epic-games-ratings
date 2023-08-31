@@ -2,13 +2,13 @@
   "ID": "95d0b9561be1464cb43bd029e94cf526",
   "Name": "Ghostrunner",
   "ProductSlug": "ghostrunner",
-  "Ranking_Rating": 175,
+  "Ranking_Rating": 176,
   "Ranking_Popularity": 201,
   "Ranking_PopularitySum": 281,
   "Ranking_EOS_Progress": 115,
-  "Ranking_EOS_Completed": 161,
+  "Ranking_EOS_Completed": 160,
   "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 25,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1129,10 +1129,10 @@
     }
   ],
   "EOS_Progressed": 16352,
-  "EOS_Completed": 64,
-  "EOS_NewPlayers": 707,
-  "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 0.39,
+  "EOS_Completed": 65,
+  "EOS_NewPlayers": 704,
+  "EOS_NewCompleters": 6,
+  "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:29.1266167+00:00",
@@ -15363,6 +15363,11 @@
       "Time": "2023-08-31T04:06:18.5439701+00:00",
       "NumProgressed": 16352,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-31T05:08:37.8569264+00:00",
+      "NumProgressed": 16352,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 45,
@@ -15396,9 +15401,9 @@
       "ID": "BackToHell",
       "SetID": "6ce5bmd",
       "Name": "Back to hell",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 5887
+      "UsersEstimate": 6050
     },
     {
       "ID": "CantRunCantHide",
@@ -15740,14 +15745,14 @@
       "ID": "6ce5bmd",
       "IsBase": true,
       "Progressed": 16352,
-      "Completed": 64
+      "Completed": 65
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-08-28T03:02:16.2111125+00:00",
-  "LastChanged_Achievements": "2023-08-31T04:06:18.5439696+00:00",
+  "LastChanged_Achievements": "2023-08-31T05:08:37.8569257+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:52.7719292+00:00",
-  "LastUpdate_Ratings": "2023-08-31T04:00:19.3253316+00:00",
-  "LastUpdate_Achievements": "2023-08-31T04:06:18.544068+00:00"
+  "LastUpdate_Ratings": "2023-08-31T05:03:08.4427876+00:00",
+  "LastUpdate_Achievements": "2023-08-31T05:08:37.8570552+00:00"
 }

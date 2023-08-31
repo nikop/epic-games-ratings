@@ -2,13 +2,13 @@
   "ID": "c9e2559572f64192b1e37049eee27783",
   "Name": "Galactic Civilizations IV: Supernova",
   "ProductSlug": "galactic-civilizations-iv-supernova",
-  "Ranking_Rating": 503,
+  "Ranking_Rating": 504,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-04-27T14:45:00+00:00",
     "PcReleaseDate": "2023-04-27T14:45:00+00:00",
@@ -54,9 +54,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1597,
+  "EOS_Progressed": 1598,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4444,6 +4444,11 @@
       "Time": "2023-08-31T01:47:52.1522245+00:00",
       "NumProgressed": 1597,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-31T05:08:49.502646+00:00",
+      "NumProgressed": 1598,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 77,
@@ -5070,13 +5075,13 @@
     {
       "ID": "1b9olh7",
       "IsBase": true,
-      "Progressed": 1597,
+      "Progressed": 1598,
       "Completed": 0
     },
     {
       "ID": "8ce16g",
       "IsBase": false,
-      "Progressed": 1597,
+      "Progressed": 1598,
       "Completed": 0
     }
   ],
@@ -5084,8 +5089,8 @@
   "FirstSeenRating": "2023-04-27T21:57:06.0421025+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.6199843+00:00",
   "LastChanged": "2023-08-28T09:00:39.513379+00:00",
-  "LastChanged_Achievements": "2023-08-31T04:06:26.9444928+00:00",
+  "LastChanged_Achievements": "2023-08-31T05:08:49.5026454+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:15.7512138+00:00",
-  "LastUpdate_Ratings": "2023-08-31T03:59:38.2776073+00:00",
-  "LastUpdate_Achievements": "2023-08-31T04:06:26.9445796+00:00"
+  "LastUpdate_Ratings": "2023-08-31T05:01:20.5485349+00:00",
+  "LastUpdate_Achievements": "2023-08-31T05:08:49.5027791+00:00"
 }

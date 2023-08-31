@@ -2,13 +2,13 @@
   "ID": "93ea0d593cb04e62afb0741bbf894173",
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
-  "Ranking_Rating": 547,
+  "Ranking_Rating": 548,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 230833,
+  "EOS_Progressed": 230834,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 532,
+  "EOS_NewPlayers": 531,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -14273,6 +14273,11 @@
       "Time": "2023-08-31T04:04:59.5748975+00:00",
       "NumProgressed": 230833,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-08-31T05:06:48.4989559+00:00",
+      "NumProgressed": 230834,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 34,
@@ -14300,7 +14305,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 64633
+      "UsersEstimate": 64634
     },
     {
       "ID": "CENTAUR",
@@ -14555,15 +14560,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 230833,
+      "Progressed": 230834,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-08-31T04:04:59.5748968+00:00",
+  "LastChanged_Achievements": "2023-08-31T05:06:48.4989549+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:04.7208625+00:00",
-  "LastUpdate_Ratings": "2023-08-31T03:57:07.8464079+00:00",
-  "LastUpdate_Achievements": "2023-08-31T04:04:59.5750036+00:00"
+  "LastUpdate_Ratings": "2023-08-31T04:57:38.7800816+00:00",
+  "LastUpdate_Achievements": "2023-08-31T05:06:48.4991527+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "quest-hunter-96b20d",
   "Ranking_EOS_Progress": 358,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
     "PcReleaseDate": "2019-03-08T06:00:00+00:00",
@@ -722,9 +722,9 @@
       "ID": "questBuildShip",
       "SetID": "ci65fo0",
       "Name": "Captain",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "questBuilder",
@@ -882,9 +882,9 @@
       "ID": "questRobHut",
       "SetID": "ci65fo0",
       "Name": "Thief",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "questSWAntidot",
@@ -930,9 +930,9 @@
       "ID": "questSaveRoyalSmith",
       "SetID": "ci65fo0",
       "Name": "A new friend",
-      "Percentage": 17,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "questTheft",
@@ -975,8 +975,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-08-31T04:04:29.7236921+00:00",
+  "LastChanged_Achievements": "2023-08-31T05:06:07.8559525+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:06.5858382+00:00",
-  "LastUpdate_Ratings": "2023-08-31T03:59:24.0501154+00:00",
-  "LastUpdate_Achievements": "2023-08-31T04:04:29.7237573+00:00"
+  "LastUpdate_Ratings": "2023-08-31T05:00:59.5857021+00:00",
+  "LastUpdate_Achievements": "2023-08-31T05:06:07.8561022+00:00"
 }

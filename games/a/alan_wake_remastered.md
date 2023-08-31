@@ -1,16 +1,16 @@
 # Alan Wake Remastered
 [Store](https://store.epicgames.com/en-US/p/alan-wake-remastered)  
 [View Rawdata](../../db/a/alan_wake_remastered.json)  
-Rating: 4.55 (Ranked 488)  
+Rating: 4.55 (Ranked 489)  
 Number of Ratings: 524  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 38.00% | ~23,567 |
+| Follow the Light | 38.00% | ~23,568 |
 | Let There Be Light | 31.00% | ~19,226 |
-| Float Like a Butterfly | 30.00% | ~18,605 |
-| Nordic Walking | 24.00% | ~14,884 |
-| Bright Falls' Finest | 23.00% | ~14,264 |
+| Float Like a Butterfly | 30.00% | ~18,606 |
+| Nordic Walking | 24.00% | ~14,885 |
+| Bright Falls' Finest | 23.00% | ~14,265 |
 | Under a Thin Layer of Skin | 21.00% | ~13,024 |
 | Park Ranger | 17.00% | ~10,543 |
 | Paging Mr. Wake | 17.00% | ~10,543 |
@@ -21,8 +21,8 @@ Number of Ratings: 524  (23.09.2022)
 | They're Heeeeeere! | 14.00% | ~8,683 |
 | Sound and Fury | 14.00% | ~8,683 |
 | Missed by a Mile | 14.00% | ~8,683 |
-| The Six-Gun Scribe | 13.00% | ~8,062 |
-| Collateral Carnage | 13.00% | ~8,062 |
+| The Six-Gun Scribe | 13.00% | ~8,063 |
+| Collateral Carnage | 13.00% | ~8,063 |
 | Heavy Metal | 12.00% | ~7,442 |
 | Iron Horse | 12.00% | ~7,442 |
 | Perchance to Dream | 12.00% | ~7,442 |
@@ -35,7 +35,7 @@ Number of Ratings: 524  (23.09.2022)
 | Energized! | 10.00% | ~6,202 |
 | What Light Through Yonder Window | 9.00% | ~5,582 |
 | Right of Way | 9.00% | ~5,582 |
-| Tornado Wrangler | 8.00% | ~4,961 |
+| Tornado Wrangler | 8.00% | ~4,962 |
 | A Friend in Need | 8.00% | ~2,039 |
 | Departure | 7.00% | ~4,341 |
 | Drink 'Em Both Up | 6.00% | ~3,721 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~62 |
 | No Punctuation | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,018 (Ranked 87)  
+Progressed: 62,020 (Ranked 87)  
 Completed: 65 (0.10%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 65 (0.10%) (Ranked 213)
 | 2023-08-28 | 61,891 | 65 |
 | 2023-08-29 | 61,953 | 65 |
 | 2023-08-30 | 62,006 | 65 |
-| 2023-08-31 | 62,018 | 65 |
+| 2023-08-31 | 62,020 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

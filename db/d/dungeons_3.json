@@ -2,7 +2,7 @@
   "ID": "213259527d2f41baa90cbe0ae5555271",
   "Name": "Dungeons 3",
   "ProductSlug": "dungeons-3",
-  "Ranking_Rating": 280,
+  "Ranking_Rating": 281,
   "Ranking_Popularity": 227,
   "Ranking_PopularitySum": 173,
   "Ranking_EOS_Progress": 101,
@@ -2562,7 +2562,7 @@
   ],
   "EOS_Progressed": 29024,
   "EOS_Completed": 241,
-  "EOS_NewPlayers": 760,
+  "EOS_NewPlayers": 757,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.83,
   "EosHistory": [
@@ -17437,8 +17437,8 @@
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-08-30T23:58:52.9787151+00:00",
-  "LastChanged_Achievements": "2023-08-31T04:05:35.3449478+00:00",
+  "LastChanged_Achievements": "2023-08-31T05:07:38.2472445+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:56.1449078+00:00",
-  "LastUpdate_Ratings": "2023-08-31T03:58:04.5099831+00:00",
-  "LastUpdate_Achievements": "2023-08-31T04:05:35.3450635+00:00"
+  "LastUpdate_Ratings": "2023-08-31T04:59:01.8244579+00:00",
+  "LastUpdate_Achievements": "2023-08-31T05:07:38.247394+00:00"
 }

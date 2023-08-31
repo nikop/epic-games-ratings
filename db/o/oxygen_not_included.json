@@ -2,13 +2,13 @@
   "ID": "lotus",
   "Name": "Oxygen Not Included",
   "ProductSlug": "oxygen-not-included",
-  "Ranking_Rating": 48,
+  "Ranking_Rating": 49,
   "Ranking_Popularity": 250,
   "Ranking_PopularitySum": 187,
   "Ranking_EOS_Progress": 567,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 341,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2019-11-25T15:00:00+00:00",
     "PcReleaseDate": "2019-11-25T15:00:00+00:00",
@@ -2067,10 +2067,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 2291,
       "NumberOfAwardsMax": 264
+    },
+    {
+      "Time": "2023-08-31T04:58:02.6943405+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 2293,
+      "NumberOfAwardsMax": 264
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2291,
+  "NumberOfAwards": 2293,
   "NumberOfAwardsMax": 264,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -2132,7 +2138,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 197
+      "Count": 199
     },
     {
       "Text": "This game has Unique Visuals",
@@ -2152,8 +2158,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:44.1555168+00:00",
-  "LastChanged": "2023-08-30T13:02:26.6110418+00:00",
+  "LastChanged": "2023-08-31T04:58:02.6943404+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:07.2458648+00:00",
-  "LastUpdate_Ratings": "2023-08-31T03:57:24.3264786+00:00",
-  "LastUpdate_Achievements": "2023-08-31T04:00:26.9809955+00:00"
+  "LastUpdate_Ratings": "2023-08-31T04:58:02.694341+00:00",
+  "LastUpdate_Achievements": "2023-08-31T05:03:24.4549165+00:00"
 }

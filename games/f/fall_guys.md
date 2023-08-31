@@ -1,48 +1,48 @@
 # Fall Guys
 [Store](https://store.epicgames.com/en-US/p/fall-guys)  
 [View Rawdata](../../db/f/fall_guys.json)  
-Rating: 4.52 (Ranked 530)  
+Rating: 4.52 (Ranked 531)  
 Number of Ratings: 1,046,587  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One small trip | 11.00% | ~3,865,004 |
-| Snowflake | 11.00% | ~3,865,004 |
-| Fall Throttle | 10.00% | ~3,513,640 |
-| Big Bully | 8.00% | ~2,810,912 |
-| Face First | 8.00% | ~2,810,912 |
-| One to Watch | 7.00% | ~2,459,548 |
-| Style Points | 7.00% | ~2,459,548 |
-| Troublemaker | 7.00% | ~2,459,548 |
-| Flawless Victory | 6.00% | ~2,108,184 |
-| Fall Bae | 6.00% | ~2,108,184 |
-| Ahead of the Pack | 6.00% | ~2,108,184 |
-| Stumble Chums | 6.00% | ~2,108,184 |
-| Victory! | 5.00% | ~1,756,820 |
-| Bargain Bucket | 4.00% | ~1,405,456 |
-| Household Name | 3.00% | ~1,054,092 |
-| One giant leap | 3.00% | ~1,054,092 |
-| Big Air | 2.00% | ~702,728 |
-| Catwalk Model | 2.00% | ~702,728 |
-| Down to the Wire | 2.00% | ~702,728 |
-| Star of the Show | 2.00% | ~702,728 |
-| Head Turner | 2.00% | ~702,728 |
-| Quite Dashing | 2.00% | ~702,728 |
-| Shopping Spree | 2.00% | ~702,728 |
-| Squad Goals | 2.00% | ~702,728 |
-| Low Baller | 1.00% | ~351,364 |
-| Mad Trendy | 1.00% | ~351,364 |
-| Top Tier | 1.00% | ~351,364 |
-| Veteran Status | 0.70% | ~245,955 |
-| Show Off | 0.70% | ~245,955 |
-| Golden Guy | 0.60% | ~210,818 |
-| Track Star | 0.50% | ~175,682 |
-| Big Tease | 0.30% | ~105,409 |
-| Fall Guy Fashionista | 0.30% | ~105,409 |
-| Infallible | 0.20% | ~70,273 |
+| One small trip | 11.00% | ~3,865,070 |
+| Snowflake | 11.00% | ~3,865,070 |
+| Fall Throttle | 10.00% | ~3,513,700 |
+| Big Bully | 8.00% | ~2,810,960 |
+| Face First | 8.00% | ~2,810,960 |
+| One to Watch | 7.00% | ~2,459,590 |
+| Style Points | 7.00% | ~2,459,590 |
+| Troublemaker | 7.00% | ~2,459,590 |
+| Flawless Victory | 6.00% | ~2,108,220 |
+| Fall Bae | 6.00% | ~2,108,220 |
+| Ahead of the Pack | 6.00% | ~2,108,220 |
+| Stumble Chums | 6.00% | ~2,108,220 |
+| Victory! | 5.00% | ~1,756,850 |
+| Bargain Bucket | 4.00% | ~1,405,480 |
+| Household Name | 3.00% | ~1,054,110 |
+| One giant leap | 3.00% | ~1,054,110 |
+| Big Air | 2.00% | ~702,740 |
+| Catwalk Model | 2.00% | ~702,740 |
+| Down to the Wire | 2.00% | ~702,740 |
+| Star of the Show | 2.00% | ~702,740 |
+| Head Turner | 2.00% | ~702,740 |
+| Quite Dashing | 2.00% | ~702,740 |
+| Shopping Spree | 2.00% | ~702,740 |
+| Squad Goals | 2.00% | ~702,740 |
+| Low Baller | 1.00% | ~351,370 |
+| Mad Trendy | 1.00% | ~351,370 |
+| Top Tier | 1.00% | ~351,370 |
+| Veteran Status | 0.70% | ~245,959 |
+| Show Off | 0.70% | ~245,959 |
+| Golden Guy | 0.60% | ~210,822 |
+| Track Star | 0.50% | ~175,685 |
+| Big Tease | 0.30% | ~105,411 |
+| Fall Guy Fashionista | 0.30% | ~105,411 |
+| Infallible | 0.20% | ~70,274 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35,136,402 (Ranked 1)  
-Completed: 41,071 (0.12%) (Ranked 206)  
+Progressed: 35,136,996 (Ranked 1)  
+Completed: 41,074 (0.12%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -174,16 +174,16 @@ Completed: 41,071 (0.12%) (Ranked 206)
 | 2023-08-28 | 35,095,127 | 40,919 |
 | 2023-08-29 | 35,114,675 | 40,981 |
 | 2023-08-30 | 35,133,017 | 41,048 |
-| 2023-08-31 | 35,136,402 | 41,071 |
+| 2023-08-31 | 35,136,996 | 41,074 |
 ## Awards
 Max (Great for Beginners): 147,224  (Ranked 7)  
-Sum: 1,357,523 (Ranked 5)  
+Sum: 1,357,559 (Ranked 5)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 147,224 |
 | This game is Relaxing | 134,814 |
-| This game has Competitive Players | 132,187 |
+| This game has Competitive Players | 132,223 |
 | This game has Quickly Understood Controls | 131,965 |
 | This game is Great for Quick Sessions | 130,059 |
 | This game has Diverse Characters | 126,717 |
@@ -413,4 +413,4 @@ Diff (max vs sum): 2
 | 2023-08-28 | 4.52 | - | 147,057 | 1,356,651 |
 | 2023-08-29 | 4.52 | - | 147,103 | 1,356,993 |
 | 2023-08-30 | 4.52 | - | 147,161 | 1,357,427 |
-| 2023-08-31 | 4.52 | - | 147,224 | 1,357,523 |
+| 2023-08-31 | 4.52 | - | 147,224 | 1,357,559 |

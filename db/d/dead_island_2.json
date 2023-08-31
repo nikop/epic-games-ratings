@@ -2,7 +2,7 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 503,
+  "Ranking_Rating": 504,
   "Ranking_Popularity": 60,
   "Ranking_PopularitySum": 97,
   "Ranking_EOS_Progress": 22,
@@ -4086,10 +4086,10 @@
       "Count": 330
     }
   ],
-  "EOS_Progressed": 669748,
+  "EOS_Progressed": 669763,
   "EOS_Completed": 2096,
-  "EOS_NewPlayers": 5948,
-  "EOS_NewCompleters": 42,
+  "EOS_NewPlayers": 5946,
+  "EOS_NewCompleters": 41,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -18851,6 +18851,11 @@
       "Time": "2023-08-31T04:03:58.9234023+00:00",
       "NumProgressed": 669748,
       "NumCompleted": 2096
+    },
+    {
+      "Time": "2023-08-31T05:05:25.0129029+00:00",
+      "NumProgressed": 669763,
+      "NumCompleted": 2096
     }
   ],
   "TotalAchievements": 45,
@@ -18926,7 +18931,7 @@
       "Name": "Break A Leg",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4018
+      "UsersEstimate": 4019
     },
     {
       "ID": "ach_contender",
@@ -18966,7 +18971,7 @@
       "Name": "Smorgasbord",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1339
+      "UsersEstimate": 1340
     },
     {
       "ID": "ach_fetch_me_a_tisha",
@@ -19006,7 +19011,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4018
+      "UsersEstimate": 4019
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -19054,7 +19059,7 @@
       "Name": "Jumbo Keyring",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 1339
+      "UsersEstimate": 1340
     },
     {
       "ID": "ach_knock_down",
@@ -19068,9 +19073,9 @@
       "ID": "ach_knowledgeable",
       "SetID": "7km39fm",
       "Name": "Zombologist",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2679
+      "UsersEstimate": 3349
     },
     {
       "ID": "ach_legendary",
@@ -19142,7 +19147,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4018
+      "UsersEstimate": 4019
     },
     {
       "ID": "ach_survival_expert",
@@ -19166,7 +19171,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1339
+      "UsersEstimate": 1340
     },
     {
       "ID": "ach_thesacrifice",
@@ -19206,7 +19211,7 @@
       "Name": "Rising Star",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 1339
+      "UsersEstimate": 1340
     },
     {
       "ID": "ach_well_trained",
@@ -19221,7 +19226,7 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 669748,
+      "Progressed": 669763,
       "Completed": 2096
     }
   ],
@@ -19229,8 +19234,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-08-31T01:38:26.8590975+00:00",
-  "LastChanged_Achievements": "2023-08-31T04:03:58.9234014+00:00",
+  "LastChanged_Achievements": "2023-08-31T05:05:25.0129023+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:11.0440218+00:00",
-  "LastUpdate_Ratings": "2023-08-31T03:57:19.1952663+00:00",
-  "LastUpdate_Achievements": "2023-08-31T04:03:58.9234988+00:00"
+  "LastUpdate_Ratings": "2023-08-31T04:57:55.2132612+00:00",
+  "LastUpdate_Achievements": "2023-08-31T05:05:25.0130422+00:00"
 }

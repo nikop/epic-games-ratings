@@ -2,13 +2,13 @@
   "ID": "aeac94c7a11048758064b82f8f8d20ed",
   "Name": "Mount \u0026 Blade II: Bannerlord",
   "ProductSlug": "mount-and-blade-2",
-  "Ranking_Rating": 146,
+  "Ranking_Rating": 147,
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 69,
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -6813,9 +6813,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 59991,
+  "EOS_Progressed": 59992,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 464,
+  "EOS_NewPlayers": 462,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20858,6 +20858,11 @@
       "Time": "2023-08-31T04:06:01.8886242+00:00",
       "NumProgressed": 59991,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-31T05:08:14.9049581+00:00",
+      "NumProgressed": 59992,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -21061,7 +21066,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10198
+      "UsersEstimate": 10199
     },
     {
       "ID": "Kingslayer",
@@ -21077,7 +21082,7 @@
       "Name": "Know your enemy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3599
+      "UsersEstimate": 3600
     },
     {
       "ID": "Lance-a-lot",
@@ -21221,7 +21226,7 @@
       "Name": "The king is pleased",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 10798
+      "UsersEstimate": 10799
     },
     {
       "ID": "This Is Our Land",
@@ -21276,15 +21281,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 59991,
+      "Progressed": 59992,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-08-31T03:58:29.8721233+00:00",
-  "LastChanged_Achievements": "2023-08-31T04:06:01.8886236+00:00",
+  "LastChanged_Achievements": "2023-08-31T05:08:14.9049574+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:26.1294952+00:00",
-  "LastUpdate_Ratings": "2023-08-31T03:58:29.8721239+00:00",
-  "LastUpdate_Achievements": "2023-08-31T04:06:01.8887244+00:00"
+  "LastUpdate_Ratings": "2023-08-31T04:59:39.6405313+00:00",
+  "LastUpdate_Achievements": "2023-08-31T05:08:14.9051881+00:00"
 }

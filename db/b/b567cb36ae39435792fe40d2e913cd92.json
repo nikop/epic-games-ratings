@@ -2,13 +2,13 @@
   "ID": "b567cb36ae39435792fe40d2e913cd92",
   "Name": "Dungeon Fighter Online",
   "ProductSlug": "dungeon-fighter-online",
-  "Ranking_Rating": 665,
+  "Ranking_Rating": 666,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 567,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 341,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-07-25T09:00:00+00:00",
     "PcReleaseDate": null,
@@ -56,6 +56,6 @@
   "FirstSeenRating": "2023-08-18T10:58:33.1698717+00:00",
   "LastChanged": "2023-08-25T21:00:05.5362159+00:00",
   "LastUpdate_AppInfo": "2023-08-29T13:02:22.8016755+00:00",
-  "LastUpdate_Ratings": "2023-08-31T03:59:12.4288275+00:00",
-  "LastUpdate_Achievements": "2023-08-31T04:05:40.4807734+00:00"
+  "LastUpdate_Ratings": "2023-08-31T05:00:42.7993734+00:00",
+  "LastUpdate_Achievements": "2023-08-31T05:07:45.2643371+00:00"
 }

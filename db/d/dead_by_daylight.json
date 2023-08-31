@@ -2,7 +2,7 @@
   "ID": "611482b8586142cda48a0786eb8a127c",
   "Name": "Dead by Daylight",
   "ProductSlug": "dead-by-daylight",
-  "Ranking_Rating": 530,
+  "Ranking_Rating": 531,
   "Ranking_Popularity": 15,
   "Ranking_PopularitySum": 11,
   "Ranking_EOS_Progress": 15,
@@ -9627,10 +9627,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 248582,
       "NumberOfAwardsMax": 31677
+    },
+    {
+      "Time": "2023-08-31T05:00:17.9163745+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 248632,
+      "NumberOfAwardsMax": 31677
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 248582,
+  "NumberOfAwards": 248632,
   "NumberOfAwardsMax": 31677,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -9668,7 +9674,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 28088
+      "Count": 28138
     },
     {
       "Text": "This game is Highly Recommended",
@@ -9701,9 +9707,9 @@
       "Count": 23843
     }
   ],
-  "EOS_Progressed": 831641,
+  "EOS_Progressed": 831703,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 20845,
+  "EOS_NewPlayers": 20852,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -24526,6 +24532,11 @@
       "Time": "2023-08-31T04:06:25.7393592+00:00",
       "NumProgressed": 831641,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-08-31T05:08:48.282271+00:00",
+      "NumProgressed": 831703,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 229,
@@ -24535,9 +24546,9 @@
       "ID": "ACH_001",
       "SetID": "bdmlp8o",
       "Name": "The Grand Sacrifice",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1663
+      "UsersEstimate": 2495
     },
     {
       "ID": "ACH_002",
@@ -24711,9 +24722,9 @@
       "ID": "ACH_023",
       "SetID": "bdmlp8o",
       "Name": "It wakes",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4158
+      "UsersEstimate": 4990
     },
     {
       "ID": "ACH_024",
@@ -24841,7 +24852,7 @@
       "Name": "Skillful",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 4158
+      "UsersEstimate": 4159
     },
     {
       "ID": "ACH_040",
@@ -26368,21 +26379,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 831641,
+      "Progressed": 831703,
       "Completed": 40
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 831641,
+      "Progressed": 831703,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
-  "LastChanged": "2023-08-31T01:39:59.1769797+00:00",
-  "LastChanged_Achievements": "2023-08-31T04:06:25.7393586+00:00",
+  "LastChanged": "2023-08-31T05:00:17.9163742+00:00",
+  "LastChanged_Achievements": "2023-08-31T05:08:48.2822704+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:54.3324879+00:00",
-  "LastUpdate_Ratings": "2023-08-31T03:58:55.3005729+00:00",
-  "LastUpdate_Achievements": "2023-08-31T04:06:25.7399376+00:00"
+  "LastUpdate_Ratings": "2023-08-31T05:00:17.9163751+00:00",
+  "LastUpdate_Achievements": "2023-08-31T05:08:48.2830744+00:00"
 }

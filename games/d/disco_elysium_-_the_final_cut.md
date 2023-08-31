@@ -6,24 +6,24 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~35,564 |
+| Goodest Of The Good Cops | 28.00% | ~35,565 |
 | Biggest Communism Builder | 24.00% | ~30,484 |
-| The World's Most Laughable Centrist | 20.00% | ~25,403 |
+| The World's Most Laughable Centrist | 20.00% | ~25,404 |
 | Il Coppo Del'Arte! | 18.00% | ~22,863 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,323 |
 | Hyperstellar Law Official | 16.00% | ~20,323 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~17,782 |
-| Gurdi-Ball Is Lit | 14.00% | ~17,782 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~17,783 |
+| Gurdi-Ball Is Lit | 14.00% | ~17,783 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~16,512 |
 | Truly Rabid *Traditionalist* | 11.00% | ~13,972 |
-| Unbelievably Boring **** | 9.00% | ~11,431 |
-| The Figurines Won't Win Her Back | 9.00% | ~11,431 |
+| Unbelievably Boring **** | 9.00% | ~11,432 |
+| The Figurines Won't Win Her Back | 9.00% | ~11,432 |
 | Enemy Of The Physical Realm | 8.00% | ~10,161 |
 | Hardie's Heroes | 6.00% | ~7,621 |
 | The Lawbringer | 4.00% | ~5,081 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,081 |
-| The Opener Of The Eighth Seal | 3.00% | ~3,810 |
-| Bother Kim After Hours | 3.00% | ~3,810 |
+| The Opener Of The Eighth Seal | 3.00% | ~3,811 |
+| Bother Kim After Hours | 3.00% | ~3,811 |
 | Baddest Of the Bad Cops | 2.00% | ~2,540 |
 | Expert Advanced Remote Viewer | 2.00% | ~2,540 |
 | Recruit Detective Kuuno de Ruyter | 2.00% | ~2,540 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~127 |
 | What body? | 0.10% | ~127 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,016 (Ranked 69)  
+Progressed: 127,018 (Ranked 69)  
 Completed: 27 (0.02%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 27 (0.02%) (Ranked 246)
 | 2023-08-28 | 126,927 | 27 |
 | 2023-08-29 | 126,973 | 27 |
 | 2023-08-30 | 127,010 | 27 |
-| 2023-08-31 | 127,016 | 27 |
+| 2023-08-31 | 127,018 | 27 |
 ## Awards
 Max (Character Customization): 721  (Ranked 166)  
 Sum: 1,085 (Ranked 236)  

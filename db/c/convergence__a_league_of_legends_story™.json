@@ -2,13 +2,13 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_Rating": 393,
+  "Ranking_Rating": 394,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 140,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -2185,9 +2185,9 @@
       "ID": "ExamineFamilyPortrait",
       "SetID": "a9e499d",
       "Name": "Family Memories",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 94
     },
     {
       "ID": "FactorywoodChests1",
@@ -2473,9 +2473,9 @@
       "ID": "WarwickDefeated",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 162
     },
     {
       "ID": "WatcherFought",
@@ -2522,8 +2522,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-08-31T03:03:37.3898582+00:00",
+  "LastChanged_Achievements": "2023-08-31T05:03:16.5749946+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:03.8052712+00:00",
-  "LastUpdate_Ratings": "2023-08-31T03:58:17.4542189+00:00",
-  "LastUpdate_Achievements": "2023-08-31T03:03:37.3899125+00:00"
+  "LastUpdate_Ratings": "2023-08-31T04:59:21.6360177+00:00",
+  "LastUpdate_Achievements": "2023-08-31T05:03:16.5751877+00:00"
 }

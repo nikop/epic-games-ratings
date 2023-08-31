@@ -2,13 +2,13 @@
   "ID": "975d251af0384c88a898a996bda4881d",
   "Name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
-  "Ranking_Rating": 116,
+  "Ranking_Rating": 117,
   "Ranking_Popularity": 118,
   "Ranking_PopularitySum": 114,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3566,7 +3566,7 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 11144,
+  "EOS_Progressed": 11145,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
@@ -11606,6 +11606,11 @@
       "Time": "2023-08-31T01:47:33.0036466+00:00",
       "NumProgressed": 11144,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-31T05:08:22.5926639+00:00",
+      "NumProgressed": 11145,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -11985,7 +11990,7 @@
       "Name": "A Spark",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1894
+      "UsersEstimate": 1895
     },
     {
       "ID": "49_Flame",
@@ -12544,21 +12549,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9926,
+      "Progressed": 9927,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11144,
+      "Progressed": 11145,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-28T22:02:03.4075061+00:00",
-  "LastChanged_Achievements": "2023-08-31T04:06:07.5957286+00:00",
+  "LastChanged_Achievements": "2023-08-31T05:08:22.5926627+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:16.3191421+00:00",
-  "LastUpdate_Ratings": "2023-08-31T03:57:10.3818775+00:00",
-  "LastUpdate_Achievements": "2023-08-31T04:06:07.5959001+00:00"
+  "LastUpdate_Ratings": "2023-08-31T04:57:42.6853652+00:00",
+  "LastUpdate_Achievements": "2023-08-31T05:08:22.5930578+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "79d9bff700bb46a790b21e8c73b34899",
   "Name": "Salt and Sanctuary",
   "ProductSlug": "salt-and-sanctuary",
-  "Ranking_Rating": 368,
+  "Ranking_Rating": 369,
   "Ranking_Popularity": 243,
   "Ranking_PopularitySum": 204,
   "Ranking_EOS_Progress": 30,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_NewPlayers": 69,
   "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
@@ -2493,9 +2493,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 531879,
+  "EOS_Progressed": 531881,
   "EOS_Completed": 1525,
-  "EOS_NewPlayers": 617,
+  "EOS_NewPlayers": 616,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -16843,6 +16843,11 @@
       "Time": "2023-08-31T04:05:54.3071676+00:00",
       "NumProgressed": 531879,
       "NumCompleted": 1525
+    },
+    {
+      "Time": "2023-08-31T05:08:04.6282092+00:00",
+      "NumProgressed": 531881,
+      "NumCompleted": 1525
     }
   ],
   "TotalAchievements": 37,
@@ -16854,7 +16859,7 @@
       "Name": "Branded",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 69144
+      "UsersEstimate": 69145
     },
     {
       "ID": "COASTROCK",
@@ -16910,7 +16915,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 441460
+      "UsersEstimate": 441461
     },
     {
       "ID": "HONED",
@@ -17022,7 +17027,7 @@
       "Name": "The Imposter",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 69144
+      "UsersEstimate": 69145
     },
     {
       "ID": "THE_IRON_ONES",
@@ -17030,7 +17035,7 @@
       "Name": "The Iron Ones",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 95738
+      "UsersEstimate": 95739
     },
     {
       "ID": "THE_KEEP",
@@ -17038,7 +17043,7 @@
       "Name": "The Keep",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 69144
+      "UsersEstimate": 69145
     },
     {
       "ID": "THE_LAKE",
@@ -17110,7 +17115,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 340403
+      "UsersEstimate": 340404
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -17149,15 +17154,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 531879,
+      "Progressed": 531881,
       "Completed": 1525
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-08-29T16:58:35.4437966+00:00",
-  "LastChanged_Achievements": "2023-08-31T04:05:54.307167+00:00",
+  "LastChanged_Achievements": "2023-08-31T05:08:04.6282086+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:39.2486903+00:00",
-  "LastUpdate_Ratings": "2023-08-31T03:57:54.2084161+00:00",
-  "LastUpdate_Achievements": "2023-08-31T04:05:54.3072557+00:00"
+  "LastUpdate_Ratings": "2023-08-31T04:58:45.9769146+00:00",
+  "LastUpdate_Achievements": "2023-08-31T05:08:04.6283307+00:00"
 }

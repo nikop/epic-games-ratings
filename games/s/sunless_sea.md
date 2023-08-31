@@ -1,7 +1,7 @@
 # Sunless Sea
 [Store](https://store.epicgames.com/en-US/p/sunless-sea)  
 [View Rawdata](../../db/s/sunless_sea.json)  
-Rating: 4.58 (Ranked 428)  
+Rating: 4.58 (Ranked 429)  
 Number of Ratings: 401  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -19,10 +19,10 @@ Number of Ratings: 401  (23.09.2022)
 | The Fall of the House | 11.00% | ~4,014 |
 | Shipmate | 11.00% | ~4,014 |
 | One Year at Zee | 8.00% | ~2,919 |
-| Pupil | 7.00% | ~2,554 |
-| Salvager | 7.00% | ~2,554 |
-| Open Your Ears | 7.00% | ~2,554 |
-| The Ascent of Man | 7.00% | ~2,554 |
+| Pupil | 7.00% | ~2,555 |
+| Salvager | 7.00% | ~2,555 |
+| Open Your Ears | 7.00% | ~2,555 |
+| The Ascent of Man | 7.00% | ~2,555 |
 | Zee Fever | 5.00% | ~1,825 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,460 |
 | Sink Beneath the Waves. Again. | 4.00% | ~1,460 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~36 |
 | Ten Years at Zee | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36,492 (Ranked 98)  
+Progressed: 36,493 (Ranked 98)  
 Completed: 3 (0.01%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 3 (0.01%) (Ranked 253)
 | 2023-08-28 | 36,375 | 3 |
 | 2023-08-29 | 36,430 | 3 |
 | 2023-08-30 | 36,480 | 3 |
-| 2023-08-31 | 36,492 | 3 |
+| 2023-08-31 | 36,493 | 3 |
 ## Awards
 Max (Character Customization): 213  (Ranked 270)  
 Sum: 283 (Ranked 344)  

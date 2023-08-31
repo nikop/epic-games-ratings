@@ -13,8 +13,8 @@
 | Fitness professional | 77.00% | ~225 |
 | Depressed visitor | 76.00% | ~222 |
 | Employee of the week | 75.00% | ~219 |
+| Your own amateur gym | 74.00% | ~216 |
 | Neurotrainer – power gainer! | 74.00% | ~216 |
-| Your own amateur gym | 73.00% | ~213 |
 | First defeat | 73.00% | ~213 |
 | Run K, run! | 71.00% | ~207 |
 | Fighting is cool | 67.00% | ~196 |
@@ -33,8 +33,8 @@
 | Handyman | 57.00% | ~166 |
 | Intriguing candies | 57.00% | ~166 |
 | Employee of the year | 57.00% | ~166 |
-| Legal courier | 52.00% | ~152 |
-| Extreme neuropower! | 52.00% | ~152 |
+| Legal courier | 53.00% | ~155 |
+| Extreme neuropower! | 53.00% | ~155 |
 | Escaped from a big trouble | 49.00% | ~143 |
 | Now you are worthy | 48.00% | ~140 |
 | Guiding on the right path | 45.00% | ~131 |

@@ -1,7 +1,7 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.60 (Ranked 393)  
+Rating: 4.60 (Ranked 394)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -12,6 +12,7 @@ Rating: 4.60 (Ranked 393)
 | Make Up For Lost Time | 19.00% | ~162 |
 | Time Flies | 19.00% | ~162 |
 | The Prince in Heels | 19.00% | ~162 |
+| Immaculate Aim | 19.00% | ~162 |
 | The Brass Boss | 19.00% | ~162 |
 | The Steel Shadow | 18.00% | ~153 |
 | The Harder They Fall | 18.00% | ~153 |
@@ -19,7 +20,6 @@ Rating: 4.60 (Ranked 393)
 | Breaking Down Barriers | 18.00% | ~153 |
 | Honest Mistake | 18.00% | ~153 |
 | Fast Learner | 18.00% | ~153 |
-| Immaculate Aim | 18.00% | ~153 |
 | Like Clockwork | 17.00% | ~145 |
 | The Wicked Twins | 17.00% | ~145 |
 | Golem Chaser | 17.00% | ~145 |
@@ -34,8 +34,8 @@ Rating: 4.60 (Ranked 393)
 | Cartographer | 14.00% | ~119 |
 | Whiz Kid | 12.00% | ~102 |
 | Chaincrawler Explorer | 11.00% | ~94 |
+| Family Memories | 11.00% | ~94 |
 | Good Neighbor | 11.00% | ~94 |
-| Family Memories | 10.00% | ~85 |
 | Theater Explorer | 10.00% | ~85 |
 | Ask Questions Later | 10.00% | ~85 |
 | Fairgrounds Explorer | 9.00% | ~77 |

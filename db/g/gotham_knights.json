@@ -2,12 +2,12 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 880,
+  "Ranking_Rating": 881,
   "Ranking_Popularity": 100,
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2588,9 +2588,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 68118,
+  "EOS_Progressed": 68119,
   "EOS_Completed": 110,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -13548,6 +13548,11 @@
       "Time": "2023-08-31T04:02:22.7522855+00:00",
       "NumProgressed": 68118,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2023-08-31T05:03:44.8669917+00:00",
+      "NumProgressed": 68119,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 61,
@@ -13799,7 +13804,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 12942
+      "UsersEstimate": 12943
     },
     {
       "ID": "FREEZE_3",
@@ -13863,7 +13868,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 23841
+      "UsersEstimate": 23842
     },
     {
       "ID": "HARLEY_2",
@@ -13903,7 +13908,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 34059
+      "UsersEstimate": 34060
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -14046,13 +14051,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 68118,
+      "Progressed": 68119,
       "Completed": 110
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38398,
+      "Progressed": 38399,
       "Completed": 2660
     }
   ],
@@ -14060,8 +14065,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-08-31T01:39:31.4884111+00:00",
-  "LastChanged_Achievements": "2023-08-31T04:02:22.752285+00:00",
+  "LastChanged_Achievements": "2023-08-31T05:03:44.8669912+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:22.0819335+00:00",
-  "LastUpdate_Ratings": "2023-08-31T03:58:26.5324703+00:00",
-  "LastUpdate_Achievements": "2023-08-31T04:02:22.7523841+00:00"
+  "LastUpdate_Ratings": "2023-08-31T04:59:34.9120061+00:00",
+  "LastUpdate_Achievements": "2023-08-31T05:03:44.8671314+00:00"
 }

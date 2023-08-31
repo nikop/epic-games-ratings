@@ -2,7 +2,7 @@
   "ID": "f5d9b93771214e4cbd60506539d1cfc6",
   "Name": "Guacamelee! Super Turbo Championship Edition",
   "ProductSlug": "guacamelee-stce-7cdbc8",
-  "Ranking_Rating": 503,
+  "Ranking_Rating": 504,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 66,
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 140148,
+  "EOS_Progressed": 140150,
   "EOS_Completed": 255,
-  "EOS_NewPlayers": 1707,
+  "EOS_NewPlayers": 1704,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -9092,6 +9092,11 @@
       "Time": "2023-08-31T04:03:49.99859+00:00",
       "NumProgressed": 140148,
       "NumCompleted": 255
+    },
+    {
+      "Time": "2023-08-31T05:05:12.916386+00:00",
+      "NumProgressed": 140150,
+      "NumCompleted": 255
     }
   ],
   "TotalAchievements": 31,
@@ -9111,7 +9116,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 96702
+      "UsersEstimate": 96703
     },
     {
       "ID": "EAwards_10",
@@ -9175,7 +9180,7 @@
       "Name": "Main Event",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 29431
+      "UsersEstimate": 29432
     },
     {
       "ID": "EAwards_18",
@@ -9183,7 +9188,7 @@
       "Name": "That was INTENSE",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 29431
+      "UsersEstimate": 29432
     },
     {
       "ID": "EAwards_19",
@@ -9197,9 +9202,9 @@
       "ID": "EAwards_2",
       "SetID": "7gko43",
       "Name": "That\u0027s one big Gato Frito",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 37840
+      "UsersEstimate": 39242
     },
     {
       "ID": "EAwards_20",
@@ -9239,7 +9244,7 @@
       "Name": "The Never Ending Combo",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 7007
+      "UsersEstimate": 7008
     },
     {
       "ID": "EAwards_25",
@@ -9255,7 +9260,7 @@
       "Name": "Who put these here???",
       "Percentage": 1,
       "XP": 110,
-      "UsersEstimate": 1401
+      "UsersEstimate": 1402
     },
     {
       "ID": "EAwards_27",
@@ -9271,7 +9276,7 @@
       "Name": "World Champion",
       "Percentage": 1,
       "XP": 110,
-      "UsersEstimate": 1401
+      "UsersEstimate": 1402
     },
     {
       "ID": "EAwards_29",
@@ -9295,7 +9300,7 @@
       "Name": "Boom-Shack-Calaca",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 12613
+      "UsersEstimate": 12614
     },
     {
       "ID": "EAwards_4",
@@ -9319,7 +9324,7 @@
       "Name": "Power Within",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 35037
+      "UsersEstimate": 35038
     },
     {
       "ID": "EAwards_7",
@@ -9335,7 +9340,7 @@
       "Name": "Flawless",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 51855
+      "UsersEstimate": 51856
     },
     {
       "ID": "EAwards_9",
@@ -9350,7 +9355,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 140148,
+      "Progressed": 140150,
       "Completed": 255
     }
   ],
@@ -9358,8 +9363,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-08-15T13:01:00.2638187+00:00",
-  "LastChanged_Achievements": "2023-08-31T04:03:49.9985895+00:00",
+  "LastChanged_Achievements": "2023-08-31T05:05:12.9163853+00:00",
   "LastUpdate_AppInfo": "2023-08-24T21:57:12.2952743+00:00",
-  "LastUpdate_Ratings": "2023-08-31T03:59:22.694534+00:00",
-  "LastUpdate_Achievements": "2023-08-31T04:03:49.9986522+00:00"
+  "LastUpdate_Ratings": "2023-08-31T05:00:57.5445333+00:00",
+  "LastUpdate_Achievements": "2023-08-31T05:05:12.9164669+00:00"
 }

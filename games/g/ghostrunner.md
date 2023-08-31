@@ -1,7 +1,7 @@
 # Ghostrunner
 [Store](https://store.epicgames.com/en-US/p/ghostrunner)  
 [View Rawdata](../../db/g/ghostrunner.json)  
-Rating: 4.72 (Ranked 175)  
+Rating: 4.72 (Ranked 176)  
 Number of Ratings: 1,047  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -14,7 +14,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Out of order | 45.00% | ~7,358 |
 | I call it luck | 44.00% | ~7,195 |
 | Where are my Keys? | 41.00% | ~6,704 |
-| Back to hell | 36.00% | ~5,887 |
+| Back to hell | 37.00% | ~6,050 |
 | Perfection | 32.00% | ~5,233 |
 | Why not both | 30.00% | ~4,906 |
 | Sword to a gunfight | 29.00% | ~4,742 |
@@ -53,7 +53,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Up Close And Personal | 0.40% | ~65 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 16,352 (Ranked 115)  
-Completed: 64 (0.39%) (Ranked 161)  
+Completed: 65 (0.40%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -185,7 +185,7 @@ Completed: 64 (0.39%) (Ranked 161)
 | 2023-08-28 | 16,174 | 61 |
 | 2023-08-29 | 16,271 | 63 |
 | 2023-08-30 | 16,338 | 64 |
-| 2023-08-31 | 16,352 | 64 |
+| 2023-08-31 | 16,352 | 65 |
 ## Awards
 Max (Great Boss Battles): 485  (Ranked 201)  
 Sum: 677 (Ranked 281)  

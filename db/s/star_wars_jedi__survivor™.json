@@ -2,13 +2,13 @@
   "ID": "5a2ea5980ac147c195775039195a3081",
   "Name": "STAR WARS Jedi: Survivor\u2122",
   "ProductSlug": "star-wars-jedi-survivor",
-  "Ranking_Rating": 582,
+  "Ranking_Rating": 583,
   "Ranking_Popularity": 103,
-  "Ranking_PopularitySum": 153,
+  "Ranking_PopularitySum": 152,
   "Ranking_EOS_Progress": 567,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 341,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-04-28T04:00:00+00:00",
     "PcReleaseDate": "2023-04-28T04:00:00+00:00",
@@ -2956,18 +2956,24 @@
       "Rating": 4.49,
       "NumberOfAwards": 3364,
       "NumberOfAwardsMax": 2435
+    },
+    {
+      "Time": "2023-08-31T05:00:49.8181246+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 3374,
+      "NumberOfAwardsMax": 2442
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3364,
-  "NumberOfAwardsMax": 2435,
+  "NumberOfAwards": 3374,
+  "NumberOfAwardsMax": 2442,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2435
+      "Count": 2442
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3015,7 +3021,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 113
+      "Count": 116
     },
     {
       "Text": "This game has a Creative Community",
@@ -3044,9 +3050,9 @@
   "FirstSeen": "2023-04-28T17:02:09.2169534+00:00",
   "FirstSeenRating": "2023-04-28T17:02:09.2169574+00:00",
   "FirstSeenAchievements": "2023-07-31T22:07:03.059823+00:00",
-  "LastChanged": "2023-08-30T21:59:55.8274426+00:00",
-  "LastChanged_Achievements": "2023-08-31T04:04:27.8352796+00:00",
+  "LastChanged": "2023-08-31T05:00:49.8181243+00:00",
+  "LastChanged_Achievements": "2023-08-31T05:06:05.2572368+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:11.1094172+00:00",
-  "LastUpdate_Ratings": "2023-08-31T03:59:17.2978421+00:00",
-  "LastUpdate_Achievements": "2023-08-31T04:04:27.8352827+00:00"
+  "LastUpdate_Ratings": "2023-08-31T05:00:49.8181252+00:00",
+  "LastUpdate_Achievements": "2023-08-31T05:06:05.2572409+00:00"
 }

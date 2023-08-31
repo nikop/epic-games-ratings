@@ -1,22 +1,22 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.51 (Ranked 547)  
+Rating: 4.51 (Ranked 548)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 41.00% | ~6,118 |
+| Tattletale | 41.00% | ~6,119 |
 | Man of politics | 35.00% | ~5,223 |
-| Friends of sorts | 33.00% | ~4,924 |
-| Yet another secret | 33.00% | ~4,924 |
-| Let there be darkness | 32.00% | ~4,775 |
+| Friends of sorts | 33.00% | ~4,925 |
+| Yet another secret | 33.00% | ~4,925 |
+| Let there be darkness | 32.00% | ~4,776 |
 | End of Book One | 30.00% | ~4,477 |
-| Wannabe knight | 24.00% | ~3,581 |
-| Garden of Eden | 24.00% | ~3,581 |
-| Full house | 24.00% | ~3,581 |
+| Wannabe knight | 24.00% | ~3,582 |
+| Garden of Eden | 24.00% | ~3,582 |
+| Full house | 24.00% | ~3,582 |
 | Help an old friend | 22.00% | ~3,283 |
-| Two of us | 20.00% | ~2,984 |
+| Two of us | 20.00% | ~2,985 |
 | Negotiation skills | 18.00% | ~2,686 |
 | Workers' union | 18.00% | ~2,686 |
 | End of Book Two | 18.00% | ~2,686 |
@@ -25,8 +25,8 @@ Number of Ratings: 368  (23.09.2022)
 | Jack was here! | 14.00% | ~2,089 |
 | Exterminator | 13.00% | ~1,940 |
 | Whodunnit | 12.00% | ~1,791 |
-| Friar Tuck | 11.00% | ~1,641 |
-| First profit | 11.00% | ~1,641 |
+| Friar Tuck | 11.00% | ~1,642 |
+| First profit | 11.00% | ~1,642 |
 | Good midwife | 10.00% | ~1,492 |
 | Team player | 10.00% | ~1,492 |
 | Skilled merchant | 9.00% | ~1,343 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~448 |
 | Boy of mystery | 2.00% | ~298 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,922 (Ranked 118)  
+Progressed: 14,924 (Ranked 118)  
 Completed: 110 (0.74%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,11 +181,11 @@ Completed: 110 (0.74%) (Ranked 130)
 | 2023-08-28 | 14,878 | 110 |
 | 2023-08-29 | 14,901 | 110 |
 | 2023-08-30 | 14,921 | 110 |
-| 2023-08-31 | 14,922 | 110 |
+| 2023-08-31 | 14,924 | 110 |
 ## Awards
-Max (Easy Puzzles): 148  (Ranked 299)  
+Max (Easy Puzzles): 148  (Ranked 300)  
 Sum: 188 (Ranked 377)  
-Diff (max vs sum): -78  
+Diff (max vs sum): -77  
 | Award | Count |
 | ----- | ----- |
 | This game features Easy Puzzles | 148 |

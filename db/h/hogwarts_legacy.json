@@ -2,7 +2,7 @@
   "ID": "e97659b501af4e3981d5430dad170911",
   "Name": "Hogwarts Legacy",
   "ProductSlug": "hogwarts-legacy",
-  "Ranking_Rating": 108,
+  "Ranking_Rating": 109,
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 43,
@@ -6898,10 +6898,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 41783,
       "NumberOfAwardsMax": 22026
+    },
+    {
+      "Time": "2023-08-31T05:01:39.4205272+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 41797,
+      "NumberOfAwardsMax": 22026
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 41783,
+  "NumberOfAwards": 41797,
   "NumberOfAwardsMax": 22026,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6915,7 +6921,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 10731
+      "Count": 10745
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -6978,9 +6984,9 @@
       "Count": 609
     }
   ],
-  "EOS_Progressed": 291120,
+  "EOS_Progressed": 291123,
   "EOS_Completed": 458,
-  "EOS_NewPlayers": 431,
+  "EOS_NewPlayers": 434,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -21238,6 +21244,11 @@
       "Time": "2023-08-31T04:03:44.3801904+00:00",
       "NumProgressed": 291120,
       "NumCompleted": 458
+    },
+    {
+      "Time": "2023-08-31T05:05:05.0459617+00:00",
+      "NumProgressed": 291123,
+      "NumCompleted": 458
     }
   ],
   "TotalAchievements": 45,
@@ -21297,7 +21308,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20378
+      "UsersEstimate": 20379
     },
     {
       "ID": "PFA_16",
@@ -21313,7 +21324,7 @@
       "Name": "Beast Friends",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20378
+      "UsersEstimate": 20379
     },
     {
       "ID": "PFA_18",
@@ -21321,7 +21332,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20378
+      "UsersEstimate": 20379
     },
     {
       "ID": "PFA_19",
@@ -21329,7 +21340,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20378
+      "UsersEstimate": 20379
     },
     {
       "ID": "PFA_2",
@@ -21577,7 +21588,7 @@
       "Name": "First Class Student",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32023
+      "UsersEstimate": 32024
     },
     {
       "ID": "PFA_7",
@@ -21585,7 +21596,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32023
+      "UsersEstimate": 32024
     },
     {
       "ID": "PFA_8",
@@ -21608,16 +21619,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 291120,
+      "Progressed": 291123,
       "Completed": 458
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-08-31T01:40:53.5836432+00:00",
-  "LastChanged_Achievements": "2023-08-31T04:03:44.3801899+00:00",
+  "LastChanged": "2023-08-31T05:01:39.4205268+00:00",
+  "LastChanged_Achievements": "2023-08-31T05:05:05.045961+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:27.4425386+00:00",
-  "LastUpdate_Ratings": "2023-08-31T03:59:50.8149362+00:00",
-  "LastUpdate_Achievements": "2023-08-31T04:03:44.380289+00:00"
+  "LastUpdate_Ratings": "2023-08-31T05:01:39.4205278+00:00",
+  "LastUpdate_Achievements": "2023-08-31T05:05:05.0461366+00:00"
 }

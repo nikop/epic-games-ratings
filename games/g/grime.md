@@ -1,26 +1,26 @@
 # GRIME
 [Store](https://store.epicgames.com/en-US/p/grime)  
 [View Rawdata](../../db/g/grime.json)  
-Rating: 4.59 (Ranked 415)  
+Rating: 4.59 (Ranked 416)  
 Number of Ratings: 46  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Imprint | 88.00% | ~127,029 |
-| Taste | 84.00% | ~121,255 |
-| The Hunt | 66.00% | ~95,272 |
-| Ravenous | 63.00% | ~90,941 |
-| Weeper | 43.00% | ~62,071 |
-| Devourer | 23.00% | ~33,201 |
-| Harmless | 19.00% | ~27,427 |
-| Silenced Whispers | 19.00% | ~27,427 |
-| Sharpened Vessel | 16.00% | ~23,096 |
+| Imprint | 88.00% | ~127,033 |
+| Taste | 84.00% | ~121,259 |
+| The Hunt | 66.00% | ~95,275 |
+| Ravenous | 63.00% | ~90,944 |
+| Weeper | 43.00% | ~62,073 |
+| Devourer | 23.00% | ~33,202 |
+| Harmless | 19.00% | ~27,428 |
+| Silenced Whispers | 19.00% | ~27,428 |
+| Sharpened Vessel | 16.00% | ~23,097 |
 | Yank | 15.00% | ~21,653 |
-| Scion | 12.00% | ~17,272 |
-| Jawcrab | 12.00% | ~17,322 |
-| Jawstag | 12.00% | ~17,322 |
-| Feast | 12.00% | ~17,322 |
-| Watcher | 10.00% | ~14,435 |
+| Scion | 12.00% | ~17,273 |
+| Jawcrab | 12.00% | ~17,323 |
+| Jawstag | 12.00% | ~17,323 |
+| Feast | 12.00% | ~17,323 |
+| Watcher | 10.00% | ~14,436 |
 | Shapely | 8.00% | ~11,548 |
 | Glare | 8.00% | ~11,515 |
 | Predator | 8.00% | ~11,548 |
@@ -34,7 +34,7 @@ Number of Ratings: 46  (23.09.2022)
 | Hush | 4.00% | ~5,774 |
 | Inevitable | 4.00% | ~5,774 |
 | Unwrap the Gift | 4.00% | ~5,774 |
-| Dream | 4.00% | ~5,757 |
+| Dream | 4.00% | ~5,758 |
 | Proportions | 4.00% | ~5,774 |
 | Bloodhunter | 3.00% | ~4,331 |
 | All-Seeing | 3.00% | ~4,331 |
@@ -49,7 +49,7 @@ Number of Ratings: 46  (23.09.2022)
 | Instruments | 0.70% | ~1,010 |
 | Spiral Heart | 0.10% | ~144 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 144,351 (Ranked 65)  
+Progressed: 144,356 (Ranked 65)  
 Completed: 1 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 1 (0.00%) (Ranked 266)
 | 2023-08-28 | 143,622 | 1 |
 | 2023-08-29 | 143,958 | 1 |
 | 2023-08-30 | 144,295 | 1 |
-| 2023-08-31 | 144,351 | 1 |
+| 2023-08-31 | 144,356 | 1 |
 ## Awards
 Max (Highly Recommended): 29  (Ranked 464)  
 Sum: 143 (Ranked 400)  

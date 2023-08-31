@@ -1,42 +1,42 @@
 # Train Valley 2
 [Store](https://store.epicgames.com/en-US/p/train-valley-2-3606da)  
 [View Rawdata](../../db/t/train_valley_2.json)  
-Rating: 4.40 (Ranked 708)  
+Rating: 4.40 (Ranked 709)  
 Number of Ratings: 87  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 72.00% | ~277,572 |
-| Full garage | 60.00% | ~231,310 |
-| To the eyeballs! | 50.00% | ~192,758 |
-| Individual delivery | 46.00% | ~177,338 |
-| Non-Stop | 44.00% | ~169,627 |
-| Juggler | 35.00% | ~134,931 |
-| Forgot something | 34.00% | ~131,076 |
-| Close call! | 30.00% | ~115,655 |
-| Get out my way | 27.00% | ~104,090 |
-| Common cause | 25.00% | ~96,379 |
-| Critical care | 25.00% | ~96,379 |
-| Mega-railroad | 23.00% | ~88,669 |
-| Upgrade complete | 23.00% | ~88,669 |
-| Builder | 17.00% | ~65,538 |
-| Just in time! | 17.00% | ~65,538 |
-| Steam Age | 16.00% | ~61,683 |
-| Long Haul | 16.00% | ~61,577 |
-| Bridgemania | 14.00% | ~53,972 |
-| Multilevel road | 14.00% | ~53,972 |
-| Need to think | 14.00% | ~53,972 |
-| The Tortoise | 12.00% | ~46,262 |
-| Without a lunch break | 11.00% | ~42,407 |
-| Beginner | 10.00% | ~38,552 |
-| Relocation | 10.00% | ~38,552 |
-| One way | 9.00% | ~34,697 |
-| Just One More Valley | 9.00% | ~34,637 |
-| Industrial Age | 8.00% | ~30,841 |
-| Prick of conscience | 8.00% | ~30,841 |
-| At the last moment! | 6.00% | ~23,131 |
-| Missed it! | 6.00% | ~23,131 |
-| Overseer | 6.00% | ~23,131 |
+| Dealmaker | 72.00% | ~277,584 |
+| Full garage | 60.00% | ~231,320 |
+| To the eyeballs! | 50.00% | ~192,766 |
+| Individual delivery | 46.00% | ~177,345 |
+| Non-Stop | 44.00% | ~169,635 |
+| Juggler | 35.00% | ~134,937 |
+| Forgot something | 34.00% | ~131,081 |
+| Close call! | 30.00% | ~115,660 |
+| Get out my way | 27.00% | ~104,094 |
+| Common cause | 25.00% | ~96,383 |
+| Critical care | 25.00% | ~96,383 |
+| Mega-railroad | 23.00% | ~88,673 |
+| Upgrade complete | 23.00% | ~88,673 |
+| Builder | 17.00% | ~65,541 |
+| Just in time! | 17.00% | ~65,541 |
+| Steam Age | 16.00% | ~61,685 |
+| Long Haul | 16.00% | ~61,580 |
+| Bridgemania | 14.00% | ~53,975 |
+| Multilevel road | 14.00% | ~53,975 |
+| Need to think | 14.00% | ~53,975 |
+| The Tortoise | 12.00% | ~46,264 |
+| Without a lunch break | 11.00% | ~42,409 |
+| Beginner | 10.00% | ~38,553 |
+| Relocation | 10.00% | ~38,553 |
+| One way | 9.00% | ~34,698 |
+| Just One More Valley | 9.00% | ~34,639 |
+| Industrial Age | 8.00% | ~30,843 |
+| Prick of conscience | 8.00% | ~30,843 |
+| At the last moment! | 6.00% | ~23,132 |
+| Missed it! | 6.00% | ~23,132 |
+| Overseer | 6.00% | ~23,132 |
 | Bridge builder | 4.00% | ~15,421 |
 | Electrical Age | 4.00% | ~15,421 |
 | Highlander | 4.00% | ~15,421 |
@@ -48,13 +48,13 @@ Number of Ratings: 87  (23.09.2022)
 | Sabotage | 3.00% | ~11,566 |
 | Squander | 3.00% | ~11,566 |
 | Test Batch | 3.00% | ~11,546 |
-| Astronomer | 2.00% | ~7,710 |
-| Globalisation Age | 2.00% | ~7,710 |
-| Lucky vandal | 2.00% | ~7,710 |
-| The Hare | 2.00% | ~7,710 |
-| Vandal | 2.00% | ~7,710 |
-| Will work | 2.00% | ~7,710 |
-| Woodcutter | 2.00% | ~7,710 |
+| Astronomer | 2.00% | ~7,711 |
+| Globalisation Age | 2.00% | ~7,711 |
+| Lucky vandal | 2.00% | ~7,711 |
+| The Hare | 2.00% | ~7,711 |
+| Vandal | 2.00% | ~7,711 |
+| Will work | 2.00% | ~7,711 |
+| Woodcutter | 2.00% | ~7,711 |
 | Innovator | 1.00% | ~3,855 |
 | Metro builder | 1.00% | ~3,855 |
 | Ouroboros | 1.00% | ~3,855 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~385 |
 | World Zapper | 0.10% | ~385 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 385,517 (Ranked 40)  
+Progressed: 385,533 (Ranked 40)  
 Completed: 9 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 9 (0.00%) (Ranked 266)
 | 2023-08-28 | 384,174 | 9 |
 | 2023-08-29 | 384,802 | 9 |
 | 2023-08-30 | 385,420 | 9 |
-| 2023-08-31 | 385,517 | 9 |
+| 2023-08-31 | 385,533 | 9 |
 ## Awards
 Max (Challenging Puzzles): 501  (Ranked 198)  
 Sum: 939 (Ranked 247)  

@@ -1,24 +1,24 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.68 (Ranked 240)  
+Rating: 4.68 (Ranked 241)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~15,304 |
-| That's a Grand Army | 3.00% | ~11,478 |
-| That is mine! | 3.00% | ~11,478 |
-| Victorious! | 3.00% | ~11,478 |
-| Brothers in Arms | 2.00% | ~7,652 |
-| That's a Grand Navy | 2.00% | ~7,652 |
-| Seriously?! | 2.00% | ~7,652 |
+| Until death do us apart | 4.00% | ~15,306 |
+| That's a Grand Army | 3.00% | ~11,479 |
+| That is mine! | 3.00% | ~11,479 |
+| Victorious! | 3.00% | ~11,479 |
+| Brothers in Arms | 2.00% | ~7,653 |
+| That's a Grand Navy | 2.00% | ~7,653 |
+| Seriously?! | 2.00% | ~7,653 |
 | Cold War | 1.00% | ~3,826 |
 | Defender of the Faith | 1.00% | ~3,826 |
 | For the Glory | 1.00% | ~3,826 |
 | It's all about the money | 1.00% | ~3,826 |
 | True Catholic | 1.00% | ~3,826 |
-| The Princess is in this Castle | 0.90% | ~3,443 |
+| The Princess is in this Castle | 0.90% | ~3,444 |
 | It's all about luck | 0.80% | ~3,061 |
 | Respected | 0.80% | ~3,061 |
 | Truly Divine Ruler | 0.80% | ~3,061 |
@@ -28,12 +28,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | Royal Authority | 0.60% | ~2,296 |
 | Combined Arms | 0.50% | ~1,913 |
 | My armies are invincible! | 0.50% | ~1,913 |
-| Agressive Expander | 0.40% | ~1,530 |
-| Azur semé de lis or | 0.40% | ~1,530 |
-| City of Cities | 0.40% | ~1,530 |
-| Gentle Persuasion | 0.40% | ~1,530 |
-| Queen of Conquest | 0.40% | ~1,530 |
-| This navy can take it all | 0.40% | ~1,530 |
+| Agressive Expander | 0.40% | ~1,531 |
+| Azur semé de lis or | 0.40% | ~1,531 |
+| City of Cities | 0.40% | ~1,531 |
+| Gentle Persuasion | 0.40% | ~1,531 |
+| Queen of Conquest | 0.40% | ~1,531 |
+| This navy can take it all | 0.40% | ~1,531 |
 | All That's Thine Shall Be Mine | 0.30% | ~1,148 |
 | Bright Spark | 0.30% | ~1,148 |
 | The Emperors new clothes | 0.30% | ~1,148 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 382,593 (Ranked 41)  
+Progressed: 382,639 (Ranked 41)  
 Completed: 0 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -494,7 +494,7 @@ Completed: 0 (0.00%) (Ranked 266)
 | 2023-08-28 | 378,067 | 0 |
 | 2023-08-29 | 380,378 | 0 |
 | 2023-08-30 | 382,380 | 0 |
-| 2023-08-31 | 382,593 | 0 |
+| 2023-08-31 | 382,639 | 0 |
 ## Awards
 Max (Educational): 5,840  (Ranked 59)  
 Sum: 48,170 (Ranked 26)  
