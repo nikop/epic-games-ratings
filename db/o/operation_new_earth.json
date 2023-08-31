@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1166,
+  "EOS_Progressed": 1167,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4116,6 +4116,11 @@
       "Time": "2023-08-31T03:05:02.9525583+00:00",
       "NumProgressed": 1166,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-31T04:04:36.6343539+00:00",
+      "NumProgressed": 1167,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4133,9 +4138,9 @@
       "ID": "ach_defeat_aliens_50",
       "SetID": "bm61c2p",
       "Name": "Exterminator",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 82
     },
     {
       "ID": "ach_defeat_players_10",
@@ -4301,9 +4306,9 @@
       "ID": "objective_key_alliance_join_1",
       "SetID": "bm61c2p",
       "Name": "It\u0027s Good to have Allies",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 350
+      "UsersEstimate": 338
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -4407,7 +4412,7 @@
       "Name": "Shock Troops",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "objective_research_unlock_light_infantry_tier_4",
@@ -4430,14 +4435,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1166,
+      "Progressed": 1167,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-31T03:05:02.9525578+00:00",
+  "LastChanged_Achievements": "2023-08-31T04:04:36.6343531+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:58:05.1002416+00:00",
-  "LastUpdate_Ratings": "2023-08-31T02:59:26.3868148+00:00",
-  "LastUpdate_Achievements": "2023-08-31T03:05:02.9526139+00:00"
+  "LastUpdate_Ratings": "2023-08-31T03:59:04.9485652+00:00",
+  "LastUpdate_Achievements": "2023-08-31T04:04:36.6343961+00:00"
 }

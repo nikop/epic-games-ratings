@@ -2,10 +2,10 @@
   "ID": "04e9492e1c384d3283aa2c5b329af66c",
   "Name": "Chef Life - A Restaurant Simulator",
   "ProductSlug": "chef-life-a-restaurant-simulator",
-  "Ranking_EOS_Progress": 226,
+  "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 562,
+  "EOS_Progressed": 563,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2414,6 +2414,11 @@
       "Time": "2023-08-30T15:05:38.8346699+00:00",
       "NumProgressed": 562,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-31T04:04:50.3016248+00:00",
+      "NumProgressed": 563,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -2441,7 +2446,7 @@
       "Name": "Culinary Arts",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "5OvenDishesMenu",
@@ -2497,7 +2502,7 @@
       "Name": "Perfectionist",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "DilemasResponsibility10",
@@ -2593,7 +2598,7 @@
       "Name": "Rolling in Dough",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "OpenRestaurant",
@@ -2681,7 +2686,7 @@
       "Name": "You\u0027re the Expert!",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "TrattoriaSet",
@@ -2744,7 +2749,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 562,
+      "Progressed": 563,
       "Completed": 0
     }
   ],
@@ -2752,8 +2757,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-08-31T03:05:15.8558306+00:00",
+  "LastChanged_Achievements": "2023-08-31T04:04:50.3016242+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:23.7723182+00:00",
-  "LastUpdate_Ratings": "2023-08-31T02:57:46.5909001+00:00",
-  "LastUpdate_Achievements": "2023-08-31T03:05:15.8558744+00:00"
+  "LastUpdate_Ratings": "2023-08-31T03:57:21.811577+00:00",
+  "LastUpdate_Achievements": "2023-08-31T04:04:50.3016623+00:00"
 }

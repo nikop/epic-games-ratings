@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Big Day | 67.00% | ~377 |
-| You're the Expert! | 33.00% | ~185 |
+| You're the Expert! | 33.00% | ~186 |
 | Home Cook | 30.00% | ~169 |
 | So Clean You Can Eat Off the Floor | 19.00% | ~107 |
 | French Flair | 18.00% | ~101 |
@@ -15,9 +15,9 @@
 | Italian Style | 8.00% | ~45 |
 | Sous-Chef | 6.00% | ~34 |
 | Well-Stocked Kitchen | 5.00% | ~28 |
-| Culinary Arts | 4.00% | ~22 |
-| Perfectionist | 4.00% | ~22 |
-| Rolling in Dough | 4.00% | ~22 |
+| Culinary Arts | 4.00% | ~23 |
+| Perfectionist | 4.00% | ~23 |
+| Rolling in Dough | 4.00% | ~23 |
 | Leaning Tower of Pizza | 3.00% | ~17 |
 | Chef, Yes Chef! | 0.50% | ~3 |
 | The Bigger the Better | 0.50% | ~3 |
@@ -45,7 +45,7 @@
 | A Star is Born | 0.00% | ~0 |
 | Holy Cow! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 562 (Ranked 226)  
+Progressed: 563 (Ranked 225)  
 Completed: 0 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,6 +158,7 @@ Completed: 0 (0.00%) (Ranked 266)
 | 2023-08-28 | 557 | 0 |
 | 2023-08-29 | 560 | 0 |
 | 2023-08-30 | 562 | 0 |
+| 2023-08-31 | 563 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

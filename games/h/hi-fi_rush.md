@@ -7,29 +7,29 @@ Rating: 4.87 (Ranked 25)
 | ---- | ---------- | ----- |
 | Feeling the beat! | 13.00% | ~520 |
 | Start with a bang! | 12.00% | ~480 |
+| You can pet the cat! | 12.00% | ~480 |
 | Who put gears in there? | 11.00% | ~440 |
-| You can pet the cat! | 11.00% | ~440 |
 | Cream of the Crop | 10.00% | ~400 |
 | Thanks for the free chip, Peppermint! | 10.00% | ~400 |
 | You got this, Peppermint? | 9.00% | ~360 |
 | Perfect Parry | 9.00% | ~360 |
 | I play my own way! | 8.00% | ~320 |
+| Uh, they were broken when I got here | 8.00% | ~320 |
 | Alright, that felt AWESOME! | 8.00% | ~320 |
 | This will cost you big time | 7.00% | ~280 |
 | Z-shielding's got nothing on us! | 7.00% | ~280 |
-| Uh, they were broken when I got here | 7.00% | ~280 |
 | Kissing the sky! | 7.00% | ~280 |
 | I look cool. But I can look COOLER. | 7.00% | ~280 |
 | The Negotiator | 6.00% | ~240 |
 | Headliner | 6.00% | ~240 |
 | Time to pay up! | 6.00% | ~240 |
 | Whoa! There's ANOTHER health bar!? | 6.00% | ~240 |
+| You must like calling me in, Chai | 6.00% | ~240 |
 | Out in a puff of smoke | 6.00% | ~240 |
 | Does that say weakpoint? | 6.00% | ~240 |
 | NOW we got a kickass hideout! | 6.00% | ~151 |
 | Who's the boss now? | 5.00% | ~200 |
 | I have to read these things? | 5.00% | ~200 |
-| You must like calling me in, Chai | 5.00% | ~200 |
 | Perfecter Parry-er! | 5.00% | ~200 |
 | Well that was a rush! | 3.00% | ~120 |
 | Beat-hit mania | 3.00% | ~120 |
@@ -46,7 +46,7 @@ Rating: 4.87 (Ranked 25)
 | I hit things with a guitar really well. | 1.00% | ~40 |
 | Call me Turbo Chai | 1.00% | ~25 |
 | I'm not done with you yet | 0.80% | ~32 |
-| This is a breeze! | 0.60% | ~24 |
+| This is a breeze! | 0.70% | ~28 |
 | You ever parry a volcano? | 0.60% | ~24 |
 | New bad guys? No problem! | 0.60% | ~15 |
 | Easy Listening | 0.50% | ~20 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 25)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,001 (Ranked 150)  
+Progressed: 4,002 (Ranked 150)  
 Completed: 7 (0.17%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 7 (0.17%) (Ranked 196)
 | 2023-08-28 | 3,986 | 7 |
 | 2023-08-29 | 3,994 | 7 |
 | 2023-08-30 | 4,000 | 7 |
-| 2023-08-31 | 4,001 | 7 |
+| 2023-08-31 | 4,002 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

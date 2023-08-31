@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 253,
   "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
     "PcReleaseDate": "2013-09-19T15:00:00+00:00",
@@ -1700,9 +1700,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 56769,
+  "EOS_Progressed": 56770,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 729,
+  "EOS_NewPlayers": 728,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16130,6 +16130,11 @@
       "Time": "2023-08-31T03:05:02.6794665+00:00",
       "NumProgressed": 56769,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-31T04:04:36.308621+00:00",
+      "NumProgressed": 56770,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -16141,7 +16146,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 31223
+      "UsersEstimate": 31224
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -16429,7 +16434,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 35764
+      "UsersEstimate": 35765
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -16509,7 +16514,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 44280
+      "UsersEstimate": 44281
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -16612,15 +16617,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 56769,
+      "Progressed": 56770,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-08-27T17:02:04.4791714+00:00",
-  "LastChanged_Achievements": "2023-08-31T03:05:02.6794659+00:00",
+  "LastChanged_Achievements": "2023-08-31T04:04:36.3086203+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:23.3225006+00:00",
-  "LastUpdate_Ratings": "2023-08-31T02:57:46.5087707+00:00",
-  "LastUpdate_Achievements": "2023-08-31T03:05:02.6796194+00:00"
+  "LastUpdate_Ratings": "2023-08-31T03:57:21.7193574+00:00",
+  "LastUpdate_Achievements": "2023-08-31T04:04:36.3087282+00:00"
 }

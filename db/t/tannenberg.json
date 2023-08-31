@@ -3326,9 +3326,9 @@
       "Count": 274
     }
   ],
-  "EOS_Progressed": 128415,
+  "EOS_Progressed": 128416,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 1039,
+  "EOS_NewPlayers": 1036,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -18051,6 +18051,11 @@
       "Time": "2023-08-31T03:06:56.51109+00:00",
       "NumProgressed": 128415,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-08-31T04:06:32.9261904+00:00",
+      "NumProgressed": 128416,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 67,
@@ -18062,7 +18067,7 @@
       "Name": "Anarchist",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 87322
+      "UsersEstimate": 87323
     },
     {
       "ID": "TANNENBERG_ACH_ANYONE_ELSE",
@@ -18134,7 +18139,7 @@
       "Name": "Comeback",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 105300
+      "UsersEstimate": 105301
     },
     {
       "ID": "TANNENBERG_ACH_CRACK_SHOT",
@@ -18158,7 +18163,7 @@
       "Name": "Developers, Developers, Developers, Developers!",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 20546
+      "UsersEstimate": 20547
     },
     {
       "ID": "TANNENBERG_ACH_EQUALITY_FOR_ALL",
@@ -18182,7 +18187,7 @@
       "Name": "Fog of War",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 52650
+      "UsersEstimate": 52651
     },
     {
       "ID": "TANNENBERG_ACH_FORWARD_OBSERVER",
@@ -18262,7 +18267,7 @@
       "Name": "Hydra",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 46229
+      "UsersEstimate": 46230
     },
     {
       "ID": "TANNENBERG_ACH_IMMOVABLE_OBJECT",
@@ -18270,7 +18275,7 @@
       "Name": "Immovable Object",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 114289
+      "UsersEstimate": 114290
     },
     {
       "ID": "TANNENBERG_ACH_INDIVISIBILITER_AC_INSEPARABILITER",
@@ -18286,7 +18291,7 @@
       "Name": "Information is Key",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 102732
+      "UsersEstimate": 102733
     },
     {
       "ID": "TANNENBERG_ACH_IVE_SEEN_IT_ALL",
@@ -18302,7 +18307,7 @@
       "Name": "Kesselschlacht",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 28251
+      "UsersEstimate": 28252
     },
     {
       "ID": "TANNENBERG_ACH_LEAD_HARVEST",
@@ -18454,7 +18459,7 @@
       "Name": "Skynet Confirmed",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 29535
+      "UsersEstimate": 29536
     },
     {
       "ID": "TANNENBERG_ACH_STEADY_SUPPLY",
@@ -18462,7 +18467,7 @@
       "Name": "Steady Supply",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 77049
+      "UsersEstimate": 77050
     },
     {
       "ID": "TANNENBERG_ACH_STRENGTH_IN_NUMBERS",
@@ -18478,7 +18483,7 @@
       "Name": "Stronghold",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 44945
+      "UsersEstimate": 44946
     },
     {
       "ID": "TANNENBERG_ACH_STRONGHOLD_DENIED",
@@ -18526,7 +18531,7 @@
       "Name": "This Belongs to Us Now",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 46229
+      "UsersEstimate": 46230
     },
     {
       "ID": "TANNENBERG_ACH_THIS_IS_MY_MACHINE_GUN",
@@ -18597,15 +18602,15 @@
     {
       "ID": "312pgde",
       "IsBase": true,
-      "Progressed": 128415,
+      "Progressed": 128416,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:24:54.2486297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:19.3256152+00:00",
   "LastChanged": "2023-08-28T21:59:13.240819+00:00",
-  "LastChanged_Achievements": "2023-08-31T03:06:56.5110896+00:00",
+  "LastChanged_Achievements": "2023-08-31T04:06:32.9261894+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:44.3837066+00:00",
-  "LastUpdate_Ratings": "2023-08-31T02:59:05.102171+00:00",
-  "LastUpdate_Achievements": "2023-08-31T03:06:56.5112574+00:00"
+  "LastUpdate_Ratings": "2023-08-31T03:58:42.7223085+00:00",
+  "LastUpdate_Achievements": "2023-08-31T04:06:32.9263126+00:00"
 }

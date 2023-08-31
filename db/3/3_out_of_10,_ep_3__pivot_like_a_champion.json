@@ -4,8 +4,8 @@
   "ProductSlug": "3-out-of-10-ep3",
   "Ranking_EOS_Progress": 567,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 342,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2020-08-20T15:00:00+00:00",
     "PcReleaseDate": "2020-08-20T15:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:47.5049458+00:00",
   "LastChanged": "2023-03-31T05:57:47.5049459+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:09.4933775+00:00",
-  "LastUpdate_Ratings": "2023-08-31T02:57:59.9583089+00:00",
-  "LastUpdate_Achievements": "2023-08-31T03:05:38.132134+00:00"
+  "LastUpdate_Ratings": "2023-08-31T03:57:35.882854+00:00",
+  "LastUpdate_Achievements": "2023-08-31T04:05:12.7741904+00:00"
 }

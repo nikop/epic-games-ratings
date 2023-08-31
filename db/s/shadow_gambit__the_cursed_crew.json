@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 553,
+  "EOS_Progressed": 554,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 1.63,
+  "EOS_Completed_Percentage": 1.62,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -1226,6 +1226,11 @@
       "Time": "2023-08-30T21:05:55.4596764+00:00",
       "NumProgressed": 553,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-31T04:04:51.0581204+00:00",
+      "NumProgressed": 554,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1270,7 +1275,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -1294,7 +1299,7 @@
       "Name": "Swabbie",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "_09_Completion_20",
@@ -1302,7 +1307,7 @@
       "Name": "Powder Monkey",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "_10_Completion_30",
@@ -1445,14 +1450,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 553,
+      "Progressed": 554,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-31T03:05:16.6092223+00:00",
+  "LastChanged_Achievements": "2023-08-31T04:04:51.0581193+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:45.1302228+00:00",
-  "LastUpdate_Ratings": "2023-08-31T02:57:31.8464669+00:00",
-  "LastUpdate_Achievements": "2023-08-31T03:05:16.6092484+00:00"
+  "LastUpdate_Ratings": "2023-08-31T03:57:06.6359891+00:00",
+  "LastUpdate_Achievements": "2023-08-31T04:04:51.0581397+00:00"
 }

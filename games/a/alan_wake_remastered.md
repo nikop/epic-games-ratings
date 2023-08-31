@@ -6,21 +6,21 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 38.00% | ~23,566 |
-| Let There Be Light | 31.00% | ~19,225 |
+| Follow the Light | 38.00% | ~23,567 |
+| Let There Be Light | 31.00% | ~19,226 |
 | Float Like a Butterfly | 30.00% | ~18,605 |
 | Nordic Walking | 24.00% | ~14,884 |
 | Bright Falls' Finest | 23.00% | ~14,264 |
-| Under a Thin Layer of Skin | 21.00% | ~13,023 |
+| Under a Thin Layer of Skin | 21.00% | ~13,024 |
 | Park Ranger | 17.00% | ~10,543 |
 | Paging Mr. Wake | 17.00% | ~10,543 |
 | Back! Back, I Say! | 16.00% | ~9,923 |
 | Finders Keepers | 16.00% | ~9,923 |
-| Damn Good Cup of Coffee | 15.00% | ~9,302 |
-| Wheels Within Wheels | 14.00% | ~8,682 |
-| They're Heeeeeere! | 14.00% | ~8,682 |
-| Sound and Fury | 14.00% | ~8,682 |
-| Missed by a Mile | 14.00% | ~8,682 |
+| Damn Good Cup of Coffee | 15.00% | ~9,303 |
+| Wheels Within Wheels | 14.00% | ~8,683 |
+| They're Heeeeeere! | 14.00% | ~8,683 |
+| Sound and Fury | 14.00% | ~8,683 |
+| Missed by a Mile | 14.00% | ~8,683 |
 | The Six-Gun Scribe | 13.00% | ~8,062 |
 | Collateral Carnage | 13.00% | ~8,062 |
 | Heavy Metal | 12.00% | ~7,442 |
@@ -33,8 +33,8 @@ Number of Ratings: 524  (23.09.2022)
 | Two For the Price of One | 11.00% | ~6,822 |
 | The Lady of the Light | 10.00% | ~6,202 |
 | Energized! | 10.00% | ~6,202 |
-| What Light Through Yonder Window | 9.00% | ~5,581 |
-| Right of Way | 9.00% | ~5,581 |
+| What Light Through Yonder Window | 9.00% | ~5,582 |
+| Right of Way | 9.00% | ~5,582 |
 | Tornado Wrangler | 8.00% | ~4,961 |
 | A Friend in Need | 8.00% | ~2,039 |
 | Departure | 7.00% | ~4,341 |
@@ -46,7 +46,7 @@ Number of Ratings: 524  (23.09.2022)
 | Boob Tube | 4.00% | ~2,481 |
 | If It Flies, It Burns | 4.00% | ~2,481 |
 | KBF-FM | 4.00% | ~2,481 |
-| Carny | 3.00% | ~1,860 |
+| Carny | 3.00% | ~1,861 |
 | Kill Your Darlings | 3.00% | ~765 |
 | Heartbreaker | 3.00% | ~765 |
 | Medical Opinions | 2.00% | ~1,240 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~62 |
 | No Punctuation | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,016 (Ranked 87)  
+Progressed: 62,018 (Ranked 87)  
 Completed: 65 (0.10%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 65 (0.10%) (Ranked 213)
 | 2023-08-28 | 61,891 | 65 |
 | 2023-08-29 | 61,953 | 65 |
 | 2023-08-30 | 62,006 | 65 |
-| 2023-08-31 | 62,016 | 65 |
+| 2023-08-31 | 62,018 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

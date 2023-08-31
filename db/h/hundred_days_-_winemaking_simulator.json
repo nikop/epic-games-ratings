@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 224,
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -952,9 +952,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 239,
+  "EOS_Progressed": 243,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 234,
+  "EOS_NewPlayers": 238,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1042,6 +1042,11 @@
       "Time": "2023-08-31T03:06:09.5060052+00:00",
       "NumProgressed": 239,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-31T04:05:44.8753944+00:00",
+      "NumProgressed": 243,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -1052,9 +1057,9 @@
       "ID": "a_1",
       "SetID": "daiie3o",
       "Name": "It\u0027s a good start",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "a_10",
@@ -1102,7 +1107,7 @@
       "Name": "Bye Bye",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "a_19",
@@ -1110,7 +1115,7 @@
       "Name": "Bonjour!",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "a_2",
@@ -1124,9 +1129,9 @@
       "ID": "a_20",
       "SetID": "daiie3o",
       "Name": "The Assistant",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "a_21",
@@ -1148,17 +1153,17 @@
       "ID": "a_23",
       "SetID": "daiie3o",
       "Name": "Quack",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "a_25",
       "SetID": "daiie3o",
       "Name": "Better than nothing?",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "a_26",
@@ -1172,9 +1177,9 @@
       "ID": "a_27",
       "SetID": "daiie3o",
       "Name": "Keep the doctor away",
-      "Percentage": 0.4,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "a_28",
@@ -1301,7 +1306,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 239,
+      "Progressed": 243,
       "Completed": 0
     }
   ],
@@ -1309,8 +1314,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-08-28T14:01:21.7581903+00:00",
-  "LastChanged_Achievements": "2023-08-31T03:06:09.5060046+00:00",
+  "LastChanged_Achievements": "2023-08-31T04:05:44.8753939+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:37.0274623+00:00",
-  "LastUpdate_Ratings": "2023-08-31T03:00:36.7863585+00:00",
-  "LastUpdate_Achievements": "2023-08-31T03:06:09.50603+00:00"
+  "LastUpdate_Ratings": "2023-08-31T04:00:15.7016288+00:00",
+  "LastUpdate_Achievements": "2023-08-31T04:05:44.8754134+00:00"
 }

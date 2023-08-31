@@ -4,8 +4,8 @@
   "ProductSlug": "gog-galaxy",
   "Ranking_EOS_Progress": 567,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 342,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -38,6 +38,6 @@
   "FirstSeenRating": "2023-03-31T05:57:56.1259717+00:00",
   "LastChanged": "2023-03-31T05:57:56.1259718+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:32.6206862+00:00",
-  "LastUpdate_Ratings": "2023-08-31T02:57:57.7867431+00:00",
-  "LastUpdate_Achievements": "2023-08-31T03:05:02.3772222+00:00"
+  "LastUpdate_Ratings": "2023-08-31T03:57:33.7391935+00:00",
+  "LastUpdate_Achievements": "2023-08-31T04:04:35.9114497+00:00"
 }

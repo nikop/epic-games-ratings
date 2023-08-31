@@ -6,11 +6,11 @@ Number of Ratings: 94  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Quick Understanding of Block Extrusion | 49.00% | ~38 |
-| Lost in Space | 47.00% | ~36 |
-| Power Glove | 36.00% | ~28 |
-| Forgotten Memories | 34.00% | ~26 |
-| Nature or Nurture | 32.00% | ~25 |
+| Quick Understanding of Block Extrusion | 51.00% | ~39 |
+| Lost in Space | 48.00% | ~37 |
+| Power Glove | 38.00% | ~29 |
+| Forgotten Memories | 35.00% | ~27 |
+| Nature or Nurture | 34.00% | ~26 |
 | Cogs in the Machine | 27.00% | ~21 |
 | Green Cube Killer | 5.00% | ~4 |
 | To Infinity and Beyond | 5.00% | ~4 |

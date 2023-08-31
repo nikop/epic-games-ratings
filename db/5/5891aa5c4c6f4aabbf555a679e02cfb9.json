@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 371,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
     "PcReleaseDate": "2017-10-12T00:00:00+00:00",
@@ -603,9 +603,9 @@
       "ID": "ACHIEVEMENT_38",
       "SetID": "b36c5kb",
       "Name": "Thinning Them Out",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -722,8 +722,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-08-31T03:06:09.9712656+00:00",
+  "LastChanged_Achievements": "2023-08-31T04:05:45.3276661+00:00",
   "LastUpdate_AppInfo": "2023-08-30T18:57:06.6900715+00:00",
-  "LastUpdate_Ratings": "2023-08-31T02:59:25.5106835+00:00",
-  "LastUpdate_Achievements": "2023-08-31T03:06:09.9713338+00:00"
+  "LastUpdate_Ratings": "2023-08-31T03:59:03.944337+00:00",
+  "LastUpdate_Achievements": "2023-08-31T04:05:45.3277044+00:00"
 }

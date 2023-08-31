@@ -6,19 +6,19 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MU/TH/UR Dearest | 0.60% | ~4,989 |
+| MU/TH/UR Dearest | 0.60% | ~4,990 |
 | It wakes | 0.50% | ~4,158 |
 | Skillful | 0.50% | ~4,158 |
-| Zealous | 0.40% | ~3,326 |
-| Not half bad | 0.40% | ~3,326 |
-| Make Some Noise | 0.40% | ~3,326 |
-| Terror of LV-426 | 0.40% | ~3,326 |
+| Zealous | 0.40% | ~3,327 |
+| Not half bad | 0.40% | ~3,327 |
+| Apt Survivor | 0.40% | ~3,327 |
+| Make Some Noise | 0.40% | ~3,327 |
+| Terror of LV-426 | 0.40% | ~3,327 |
 | No one left behind | 0.30% | ~2,495 |
 | Medic | 0.30% | ~2,495 |
 | Handyman | 0.30% | ~2,495 |
 | Nerves of steel | 0.30% | ~2,495 |
 | Bloody Millionaire | 0.30% | ~2,495 |
-| Apt Survivor | 0.30% | ~2,495 |
 | Survival Treasures | 0.30% | ~2,495 |
 | I | 0.30% | ~2,495 |
 | Sorted | 0.30% | ~2,495 |
@@ -31,6 +31,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Perfect Killing | 0.20% | ~1,663 |
 | Apt Killer | 0.20% | ~1,663 |
 | Risk it all | 0.20% | ~1,663 |
+| Vulture | 0.20% | ~1,663 |
 | II | 0.20% | ~1,663 |
 | III | 0.20% | ~1,663 |
 | Engineer | 0.20% | ~1,663 |
@@ -52,7 +53,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Made it out alive! | 0.10% | ~832 |
 | The Key to Escape | 0.10% | ~832 |
 | Gifts for the Fog | 0.10% | ~832 |
-| Vulture | 0.10% | ~832 |
 | Adept Jake | 0.10% | ~832 |
 | Adept Dwight | 0.10% | ~832 |
 | Adept Claudette | 0.10% | ~832 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~832 |
 | Adept Ripley | 0.10% | ~832 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 831,569 (Ranked 15)  
+Progressed: 831,641 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -369,7 +369,7 @@ Completed: 48 (0.01%) (Ranked 253)
 | 2023-08-28 | 824,988 | 48 |
 | 2023-08-29 | 828,020 | 48 |
 | 2023-08-30 | 831,117 | 48 |
-| 2023-08-31 | 831,569 | 48 |
+| 2023-08-31 | 831,641 | 48 |
 ## Awards
 Max (Diverse Characters): 31,677  (Ranked 15)  
 Sum: 248,582 (Ranked 11)  

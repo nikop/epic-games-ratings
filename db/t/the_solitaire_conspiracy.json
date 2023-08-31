@@ -4,8 +4,8 @@
   "ProductSlug": "the-solitaire-conspiracy",
   "Ranking_EOS_Progress": 567,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 342,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2020-10-06T14:00:00+00:00",
     "PcReleaseDate": "2020-10-06T14:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:17.8946959+00:00",
   "LastChanged": "2023-03-31T05:58:17.894696+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:56:56.8577116+00:00",
-  "LastUpdate_Ratings": "2023-08-31T02:58:03.9745416+00:00",
-  "LastUpdate_Achievements": "2023-08-31T03:05:33.5420347+00:00"
+  "LastUpdate_Ratings": "2023-08-31T03:57:39.9826485+00:00",
+  "LastUpdate_Achievements": "2023-08-31T04:05:07.8550012+00:00"
 }

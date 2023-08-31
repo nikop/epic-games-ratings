@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 64,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -7179,9 +7179,9 @@
       "Count": 918
     }
   ],
-  "EOS_Progressed": 116422,
+  "EOS_Progressed": 116423,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 725,
+  "EOS_NewPlayers": 721,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20329,6 +20329,11 @@
       "Time": "2023-08-31T03:05:26.2745655+00:00",
       "NumProgressed": 116422,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-31T04:05:00.221129+00:00",
+      "NumProgressed": 116423,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 65,
@@ -20340,7 +20345,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 81495
+      "UsersEstimate": 81496
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -20380,7 +20385,7 @@
       "Name": "Unleash Hell",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 79167
+      "UsersEstimate": 79168
     },
     {
       "ID": "altar_of_hope_unlock_hero_jester",
@@ -20412,7 +20417,7 @@
       "Name": "Boxcar Kid",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 69853
+      "UsersEstimate": 69854
     },
     {
       "ID": "altar_of_hope_unlock_hero_vestal",
@@ -20420,7 +20425,7 @@
       "Name": "Unfulfilled Desires",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 79167
+      "UsersEstimate": 79168
     },
     {
       "ID": "altar_of_hope_upgrade_total_full",
@@ -20436,7 +20441,7 @@
       "Name": "This Looks Familiar",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 44240
+      "UsersEstimate": 44241
     },
     {
       "ID": "altar_of_hope_upgrade_total_quarter",
@@ -20444,7 +20449,7 @@
       "Name": "Hope Rekindled",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 58211
+      "UsersEstimate": 58212
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -20460,7 +20465,7 @@
       "Name": "Predator",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 27941
+      "UsersEstimate": 27942
     },
     {
       "ID": "combat_kill_antiquarian",
@@ -20500,7 +20505,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 38419
+      "UsersEstimate": 38420
     },
     {
       "ID": "combat_kill_fanatics",
@@ -20572,7 +20577,7 @@
       "Name": "Reverse Banditry",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 27941
+      "UsersEstimate": 27942
     },
     {
       "ID": "combat_kill_shambler",
@@ -20636,7 +20641,7 @@
       "Name": "Rush Hour",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 69853
+      "UsersEstimate": 69854
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -20660,7 +20665,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 69853
+      "UsersEstimate": 69854
     },
     {
       "ID": "driving_distance_easy",
@@ -20692,7 +20697,7 @@
       "Name": "Autodidact",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 27941
+      "UsersEstimate": 27942
     },
     {
       "ID": "hero_story_complete_all",
@@ -20700,7 +20705,7 @@
       "Name": "Shrine of Reflection",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 12806
+      "UsersEstimate": 12807
     },
     {
       "ID": "hero_story_complete_any",
@@ -20708,7 +20713,7 @@
       "Name": "A Clear Conscience",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 80331
+      "UsersEstimate": 80332
     },
     {
       "ID": "hoarder_buy_epic_trinket",
@@ -20732,7 +20737,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 108272
+      "UsersEstimate": 108273
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -20740,7 +20745,7 @@
       "Name": "When You Want Something Done Right",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 12806
+      "UsersEstimate": 12807
     },
     {
       "ID": "inn_replacement_hero_add",
@@ -20748,7 +20753,7 @@
       "Name": "FNG",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 33762
+      "UsersEstimate": 33763
     },
     {
       "ID": "inn_visit_all_variants",
@@ -20859,15 +20864,15 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 116422,
+      "Progressed": 116423,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-08-30T19:59:24.2905281+00:00",
-  "LastChanged_Achievements": "2023-08-31T03:05:26.2745649+00:00",
+  "LastChanged_Achievements": "2023-08-31T04:05:00.2211284+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:29.712133+00:00",
-  "LastUpdate_Ratings": "2023-08-31T02:58:55.2991414+00:00",
-  "LastUpdate_Achievements": "2023-08-31T03:05:26.2747195+00:00"
+  "LastUpdate_Ratings": "2023-08-31T03:58:33.1461154+00:00",
+  "LastUpdate_Achievements": "2023-08-31T04:05:00.2212408+00:00"
 }
