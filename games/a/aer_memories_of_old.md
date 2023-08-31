@@ -1,12 +1,12 @@
 # AER Memories of Old
 [Store](https://store.epicgames.com/en-US/p/aer-memories-of-old)  
 [View Rawdata](../../db/a/aer_memories_of_old.json)  
-Rating: 4.46 (Ranked 626)  
+Rating: 4.46 (Ranked 625)  
 Number of Ratings: 170  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 76.00% | ~14,521 |
+| Light at the end of the tunnel | 76.00% | ~14,522 |
 | Mama? | 28.00% | ~5,350 |
 | People's Haven | 18.00% | ~3,439 |
 | Cartographer | 17.00% | ~3,248 |
@@ -19,15 +19,15 @@ Number of Ratings: 170  (23.09.2022)
 | Equilibrium | 12.00% | ~2,293 |
 | Condor condo | 10.00% | ~1,911 |
 | Memorial | 9.00% | ~1,720 |
-| An uninvited guest | 8.00% | ~1,528 |
-| Talk to all the spirit animals | 7.00% | ~1,337 |
+| An uninvited guest | 8.00% | ~1,529 |
+| Talk to all the spirit animals | 7.00% | ~1,338 |
 | Ripples on the surface | 6.00% | ~1,146 |
 | Tails of Stone | 6.00% | ~1,146 |
 | Baa from the past | 6.00% | ~1,146 |
 | Written in stone | 6.00% | ~1,146 |
 | Hide and Seek | 5.00% | ~955 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,106 (Ranked 110)  
+Progressed: 19,108 (Ranked 110)  
 Completed: 382 (2.00%) (Ranked 94)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 382 (2.00%) (Ranked 94)
 | 2023-08-28 | 18,917 | 379 |
 | 2023-08-29 | 18,984 | 380 |
 | 2023-08-30 | 19,054 | 381 |
-| 2023-08-31 | 19,106 | 382 |
+| 2023-08-31 | 19,108 | 382 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -6,38 +6,38 @@ Number of Ratings: 94  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Quick Understanding of Block Extrusion | 51.00% | ~43 |
-| Lost in Space | 50.00% | ~42 |
-| Power Glove | 40.00% | ~34 |
-| Forgotten Memories | 39.00% | ~33 |
-| Nature or Nurture | 37.00% | ~31 |
-| Cogs in the Machine | 35.00% | ~29 |
-| To Infinity and Beyond | 6.00% | ~5 |
-| Green Cube Killer | 5.00% | ~4 |
-| Descendants | 2.00% | ~2 |
-| The Flawed Teacher | 1.00% | ~1 |
-| True collector | 0.00% | ~0 |
-| Bronze collector | 0.00% | ~0 |
-| Home Stretch | 0.00% | ~0 |
-| Gold collector | 0.00% | ~0 |
-| Silver collector | 0.00% | ~0 |
-| Get me out of here | 0.00% | ~0 |
-| King of the Collectables | 0.00% | ~0 |
-| Competent Collector | 0.00% | ~0 |
-| Puzzle Master | 0.00% | ~0 |
-| Coming Home | 0.00% | ~0 |
-| Master Collector | 0.00% | ~0 |
-| QUBE Master | 0.00% | ~0 |
-| Expert Collector | 0.00% | ~0 |
-| Laser Sharp | 0.00% | ~0 |
-| Infinity Loop | 0.00% | ~0 |
-| Mission Success | 0.00% | ~0 |
-| Path to Salvation | 0.00% | ~0 |
-| There's No Place Like Home | 0.00% | ~0 |
-| The Truthful Enemy | 0.00% | ~0 |
+| Quick Understanding of Block Extrusion | 52.00% | ~44 |
+| Lost in Space | 51.00% | ~43 |
+| Power Glove | 41.00% | ~35 |
+| Forgotten Memories | 40.00% | ~34 |
+| Nature or Nurture | 38.00% | ~32 |
+| Cogs in the Machine | 35.00% | ~30 |
+| To Infinity and Beyond | 7.00% | ~6 |
+| Green Cube Killer | 6.00% | ~5 |
+| Descendants | 4.00% | ~3 |
+| The Flawed Teacher | 2.00% | ~2 |
+| True collector | 1.00% | ~1 |
+| Bronze collector | 1.00% | ~1 |
+| Home Stretch | 1.00% | ~1 |
+| Gold collector | 1.00% | ~1 |
+| Silver collector | 1.00% | ~1 |
+| Get me out of here | 1.00% | ~1 |
+| King of the Collectables | 1.00% | ~1 |
+| Competent Collector | 1.00% | ~1 |
+| Puzzle Master | 1.00% | ~1 |
+| Coming Home | 1.00% | ~1 |
+| Master Collector | 1.00% | ~1 |
+| QUBE Master | 1.00% | ~1 |
+| Expert Collector | 1.00% | ~1 |
+| Laser Sharp | 1.00% | ~1 |
+| Infinity Loop | 1.00% | ~1 |
+| Mission Success | 1.00% | ~1 |
+| Path to Salvation | 1.00% | ~1 |
+| There's No Place Like Home | 1.00% | ~1 |
+| The Truthful Enemy | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 84 (Ranked 350)  
-Completed: 0 (0.00%) (Ranked 266)  
+Progressed: 85 (Ranked 349)  
+Completed: 1 (1.18%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -46,7 +46,7 @@ Completed: 0 (0.00%) (Ranked 266)
 | 2023-08-28 | 28 | 0 |
 | 2023-08-29 | 50 | 0 |
 | 2023-08-30 | 75 | 0 |
-| 2023-08-31 | 84 | 0 |
+| 2023-08-31 | 85 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

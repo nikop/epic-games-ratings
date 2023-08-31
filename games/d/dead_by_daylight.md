@@ -6,22 +6,22 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MU/TH/UR Dearest | 0.80% | ~6,666 |
-| It wakes | 0.70% | ~5,833 |
-| Zealous | 0.60% | ~5,000 |
-| Skillful | 0.60% | ~5,000 |
-| Not half bad | 0.50% | ~4,166 |
-| Apt Survivor | 0.50% | ~4,166 |
-| Make Some Noise | 0.50% | ~4,166 |
-| Terror of LV-426 | 0.50% | ~4,166 |
-| No one left behind | 0.40% | ~3,333 |
-| Medic | 0.40% | ~3,333 |
-| Handyman | 0.40% | ~3,333 |
-| Nerves of steel | 0.40% | ~3,333 |
-| Bloody Millionaire | 0.40% | ~3,333 |
-| Survival Treasures | 0.40% | ~3,333 |
-| I | 0.40% | ~3,333 |
-| Sorted | 0.40% | ~3,333 |
+| MU/TH/UR Dearest | 0.90% | ~7,501 |
+| It wakes | 0.70% | ~5,834 |
+| Skillful | 0.70% | ~5,834 |
+| Zealous | 0.60% | ~5,001 |
+| Not half bad | 0.50% | ~4,167 |
+| Apt Survivor | 0.50% | ~4,167 |
+| Survival Treasures | 0.50% | ~4,167 |
+| Make Some Noise | 0.50% | ~4,167 |
+| Terror of LV-426 | 0.50% | ~4,167 |
+| No one left behind | 0.40% | ~3,334 |
+| Medic | 0.40% | ~3,334 |
+| Handyman | 0.40% | ~3,334 |
+| Nerves of steel | 0.40% | ~3,334 |
+| Bloody Millionaire | 0.40% | ~3,334 |
+| I | 0.40% | ~3,334 |
+| Sorted | 0.40% | ~3,334 |
 | The Grand Sacrifice | 0.30% | ~2,500 |
 | Agonizing Escape | 0.30% | ~2,500 |
 | Backdoor Escape | 0.30% | ~2,500 |
@@ -29,24 +29,28 @@ Number of Ratings: 70,340  (23.09.2022)
 | Perfect Escape | 0.30% | ~2,500 |
 | Perfect Killing | 0.30% | ~2,500 |
 | Risk it all | 0.30% | ~2,500 |
+| II | 0.30% | ~2,500 |
 | Engineer | 0.30% | ~2,500 |
 | Healthy Obsession | 0.30% | ~2,500 |
 | Resurgence | 0.30% | ~2,500 |
 | Preemptive Strike | 0.30% | ~2,500 |
 | Humanitarian | 0.30% | ~2,500 |
+| Second Act | 0.30% | ~2,500 |
 | Blood on your hands | 0.20% | ~1,667 |
 | Apt Killer | 0.20% | ~1,667 |
 | Vulture | 0.20% | ~1,667 |
-| II | 0.20% | ~1,667 |
 | III | 0.20% | ~1,667 |
 | III-50 | 0.20% | ~1,667 |
+| Cherish your Life | 0.20% | ~1,667 |
 | Wounded Healer | 0.20% | ~1,667 |
 | First to the Punch | 0.20% | ~1,667 |
 | Every Last Drop | 0.20% | ~1,667 |
 | Close Shave | 0.20% | ~1,667 |
 | With Scars to Show | 0.20% | ~1,667 |
+| Flight to Freedom | 0.20% | ~1,667 |
+| A Fast Death | 0.20% | ~1,667 |
+| Lifting The Fog | 0.20% | ~1,667 |
 | One More Step | 0.20% | ~1,667 |
-| Second Act | 0.20% | ~1,667 |
 | A bite for the Entity | 0.10% | ~833 |
 | A feast for the Entity | 0.10% | ~833 |
 | Blood on your face | 0.10% | ~833 |
@@ -109,7 +113,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Game Over | 0.10% | ~833 |
 | Adept Pig | 0.10% | ~833 |
 | Near-Death Experience | 0.10% | ~833 |
-| Cherish your Life | 0.10% | ~833 |
 | Adept Tapp | 0.10% | ~833 |
 | Party Crasher | 0.10% | ~833 |
 | Smoked | 0.10% | ~833 |
@@ -193,7 +196,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Caws of Death | 0.10% | ~833 |
 | Prowler | 0.10% | ~833 |
 | Adept Artist | 0.10% | ~833 |
-| Flight to Freedom | 0.10% | ~833 |
 | Adept Jonah | 0.10% | ~833 |
 | Viral Video | 0.10% | ~833 |
 | Ghost in the Machine | 0.10% | ~833 |
@@ -214,10 +216,8 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ada | 0.10% | ~833 |
 | Adept Rebecca | 0.10% | ~833 |
 | Cruelty Loves Company | 0.10% | ~833 |
-| A Fast Death | 0.10% | ~833 |
 | Adept Knight | 0.10% | ~833 |
 | Rebuilding The Borgo | 0.10% | ~833 |
-| Lifting The Fog | 0.10% | ~833 |
 | Adept Vittorio | 0.10% | ~833 |
 | Thrill of the Chase | 0.10% | ~833 |
 | Chorus of Chaos | 0.10% | ~833 |
@@ -236,8 +236,8 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~833 |
 | Adept Ripley | 0.10% | ~833 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 833,263 (Ranked 15)  
-Completed: 48 (0.01%) (Ranked 253)  
+Progressed: 833,453 (Ranked 15)  
+Completed: 48 (0.01%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -369,7 +369,7 @@ Completed: 48 (0.01%) (Ranked 253)
 | 2023-08-28 | 824,988 | 48 |
 | 2023-08-29 | 828,020 | 48 |
 | 2023-08-30 | 831,117 | 48 |
-| 2023-08-31 | 833,263 | 48 |
+| 2023-08-31 | 833,453 | 48 |
 ## Awards
 Max (Diverse Characters): 31,726  (Ranked 15)  
 Sum: 248,913 (Ranked 11)  

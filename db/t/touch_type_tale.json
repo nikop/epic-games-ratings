@@ -3,9 +3,9 @@
   "Name": "Touch Type Tale",
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 159,
-  "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_Completed": 171,
+  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3140,
+  "EOS_Progressed": 3141,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -2854,6 +2854,11 @@
       "Time": "2023-08-30T11:07:04.7840008+00:00",
       "NumProgressed": 3140,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-08-31T19:06:24.4543109+00:00",
+      "NumProgressed": 3141,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -3017,7 +3022,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 2041
+      "UsersEstimate": 2042
     },
     {
       "ID": "campaign4",
@@ -3025,7 +3030,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1507
+      "UsersEstimate": 1508
     },
     {
       "ID": "campaign5",
@@ -3128,7 +3133,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3140,
+      "Progressed": 3141,
       "Completed": 11
     }
   ],
@@ -3136,8 +3141,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-08-31T18:07:13.314542+00:00",
+  "LastChanged_Achievements": "2023-08-31T19:06:24.4543099+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:09.5831279+00:00",
-  "LastUpdate_Ratings": "2023-08-31T17:59:43.2024271+00:00",
-  "LastUpdate_Achievements": "2023-08-31T18:07:13.3145947+00:00"
+  "LastUpdate_Ratings": "2023-08-31T18:59:20.1111855+00:00",
+  "LastUpdate_Achievements": "2023-08-31T19:06:24.4543432+00:00"
 }

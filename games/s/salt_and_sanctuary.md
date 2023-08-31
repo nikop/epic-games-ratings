@@ -6,24 +6,24 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~441,505 |
-| The Three | 64.00% | ~340,438 |
-| The Banquet | 40.00% | ~212,774 |
-| Devara's Light | 30.00% | ~159,580 |
-| The Iron Ones | 18.00% | ~95,748 |
-| The Village | 16.00% | ~85,109 |
+| Find Sanctuary | 83.00% | ~441,508 |
+| The Three | 64.00% | ~340,440 |
+| The Banquet | 40.00% | ~212,775 |
+| Devara's Light | 30.00% | ~159,581 |
+| The Iron Ones | 18.00% | ~95,749 |
+| The Village | 16.00% | ~85,110 |
 | The Forest | 14.00% | ~74,471 |
-| Branded | 13.00% | ~69,151 |
-| The Imposter | 13.00% | ~69,151 |
-| The Keep | 13.00% | ~69,151 |
+| Branded | 13.00% | ~69,152 |
+| The Imposter | 13.00% | ~69,152 |
+| The Keep | 13.00% | ~69,152 |
 | The Castle | 11.00% | ~58,513 |
 | The Dome | 9.00% | ~47,874 |
 | The Red Hall | 9.00% | ~47,874 |
 | The Sacrifice | 8.00% | ~42,555 |
-| The Cave | 7.00% | ~37,235 |
-| The Mire | 7.00% | ~37,235 |
-| The Stone Roots | 7.00% | ~37,235 |
-| The Ziggurat | 7.00% | ~37,235 |
+| The Cave | 7.00% | ~37,236 |
+| The Mire | 7.00% | ~37,236 |
+| The Stone Roots | 7.00% | ~37,236 |
+| The Ziggurat | 7.00% | ~37,236 |
 | Storied | 6.00% | ~31,916 |
 | The Construct | 6.00% | ~31,916 |
 | The Lake | 6.00% | ~31,916 |
@@ -44,8 +44,8 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,639 |
 | Fading Fast | 1.00% | ~5,319 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 531,934 (Ranked 30)  
-Completed: 1,525 (0.29%) (Ranked 177)  
+Progressed: 531,937 (Ranked 30)  
+Completed: 1,525 (0.29%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -177,7 +177,7 @@ Completed: 1,525 (0.29%) (Ranked 177)
 | 2023-08-28 | 531,713 | 1,520 |
 | 2023-08-29 | 531,801 | 1,521 |
 | 2023-08-30 | 531,864 | 1,525 |
-| 2023-08-31 | 531,934 | 1,525 |
+| 2023-08-31 | 531,937 | 1,525 |
 ## Awards
 Max (Challenging Combat): 280  (Ranked 243)  
 Sum: 1,935 (Ranked 204)  

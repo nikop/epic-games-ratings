@@ -6,9 +6,9 @@
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 87,
-  "Ranking_EOS_Completed": 214,
+  "Ranking_EOS_Completed": 217,
   "Ranking_EOS_NewPlayers": 75,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 62050,
+  "EOS_Progressed": 62053,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 558,
+  "EOS_NewPlayers": 554,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -13032,6 +13032,11 @@
       "Time": "2023-08-31T18:03:36.2465725+00:00",
       "NumProgressed": 62050,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-08-31T19:02:28.3929223+00:00",
+      "NumProgressed": 62053,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -13043,7 +13048,7 @@
       "Name": "Follow the Light",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 23579
+      "UsersEstimate": 23580
     },
     {
       "ID": "02",
@@ -13051,7 +13056,7 @@
       "Name": "Nordic Walking",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 14892
+      "UsersEstimate": 14893
     },
     {
       "ID": "03",
@@ -13075,7 +13080,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 13030
+      "UsersEstimate": 13031
     },
     {
       "ID": "06",
@@ -13083,7 +13088,7 @@
       "Name": "Park Ranger",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 10548
+      "UsersEstimate": 10549
     },
     {
       "ID": "07",
@@ -13123,7 +13128,7 @@
       "Name": "Children of the Elder God",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3102
+      "UsersEstimate": 3103
     },
     {
       "ID": "12",
@@ -13211,7 +13216,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8066
+      "UsersEstimate": 8067
     },
     {
       "ID": "23",
@@ -13235,7 +13240,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5584
+      "UsersEstimate": 5585
     },
     {
       "ID": "26",
@@ -13251,7 +13256,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8066
+      "UsersEstimate": 8067
     },
     {
       "ID": "28",
@@ -13291,7 +13296,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 18615
+      "UsersEstimate": 18616
     },
     {
       "ID": "33",
@@ -13355,7 +13360,7 @@
       "Name": "Right of Way",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5584
+      "UsersEstimate": 5585
     },
     {
       "ID": "41",
@@ -13379,7 +13384,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 10548
+      "UsersEstimate": 10549
     },
     {
       "ID": "44",
@@ -13443,7 +13448,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 2041
+      "UsersEstimate": 2042
     },
     {
       "ID": "52",
@@ -13578,21 +13583,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 62050,
+      "Progressed": 62053,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 25518,
+      "Progressed": 25521,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-31T18:03:36.246572+00:00",
+  "LastChanged_Achievements": "2023-08-31T19:02:28.3929217+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:21.2068954+00:00",
-  "LastUpdate_Ratings": "2023-08-31T18:01:24.3958437+00:00",
-  "LastUpdate_Achievements": "2023-08-31T18:03:36.2467666+00:00"
+  "LastUpdate_Ratings": "2023-08-31T19:00:58.6733198+00:00",
+  "LastUpdate_Achievements": "2023-08-31T19:02:28.393029+00:00"
 }

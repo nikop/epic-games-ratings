@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 65,
   "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-07-20T15:00:00+00:00",
     "PcReleaseDate": "2021-06-04T19:00:00+00:00",
@@ -229,9 +229,9 @@
       "ID": "APHRODITE",
       "SetID": "e4de54",
       "Name": "Aphrodite",
-      "Percentage": 14,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "APOLLO",
@@ -365,9 +365,9 @@
       "ID": "HEBE",
       "SetID": "e4de54",
       "Name": "Hebe",
-      "Percentage": 14,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "HERA",
@@ -516,8 +516,8 @@
   ],
   "FirstSeen": "2023-07-24T20:59:19.8931718+00:00",
   "FirstSeenAchievements": "2023-07-14T20:01:12.8113065+00:00",
-  "LastChanged_Achievements": "2023-08-31T18:06:39.9700753+00:00",
+  "LastChanged_Achievements": "2023-08-31T19:05:52.4373716+00:00",
   "LastUpdate_AppInfo": "2023-08-26T01:34:14.2917013+00:00",
-  "LastUpdate_Ratings": "2023-08-31T18:00:22.5595185+00:00",
-  "LastUpdate_Achievements": "2023-08-31T18:06:39.9701107+00:00"
+  "LastUpdate_Ratings": "2023-08-31T18:59:59.0185909+00:00",
+  "LastUpdate_Achievements": "2023-08-31T19:05:52.4373976+00:00"
 }

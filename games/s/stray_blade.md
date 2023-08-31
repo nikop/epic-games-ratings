@@ -51,8 +51,8 @@
 | Wayseeker | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55 (Ranked 377)  
-Completed: 0 (0.00%) (Ranked 266)  
+Progressed: 55 (Ranked 378)  
+Completed: 0 (0.00%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

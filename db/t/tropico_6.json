@@ -6,9 +6,9 @@
   "Ranking_Popularity": 339,
   "Ranking_PopularitySum": 280,
   "Ranking_EOS_Progress": 147,
-  "Ranking_EOS_Completed": 236,
+  "Ranking_EOS_Completed": 239,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1068,9 +1068,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 4935,
+  "EOS_Progressed": 4936,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8858,6 +8858,11 @@
       "Time": "2023-08-31T18:05:14.8857087+00:00",
       "NumProgressed": 4935,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-31T19:04:32.5296624+00:00",
+      "NumProgressed": 4936,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -8965,7 +8970,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 2270
+      "UsersEstimate": 2271
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -8989,7 +8994,7 @@
       "Name": "Number 18",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1184
+      "UsersEstimate": 1185
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -9061,7 +9066,7 @@
       "Name": "I Owe You Nothing",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "ACH_MYWAYS",
@@ -9125,7 +9130,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2319
+      "UsersEstimate": 2320
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -9173,7 +9178,7 @@
       "Name": "French Connection",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -9188,15 +9193,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 4935,
+      "Progressed": 4936,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-08-31T09:59:05.0976129+00:00",
-  "LastChanged_Achievements": "2023-08-31T18:05:14.8857081+00:00",
+  "LastChanged_Achievements": "2023-08-31T19:04:32.5296616+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:51.1953585+00:00",
-  "LastUpdate_Ratings": "2023-08-31T17:59:54.0119051+00:00",
-  "LastUpdate_Achievements": "2023-08-31T18:05:14.8857878+00:00"
+  "LastUpdate_Ratings": "2023-08-31T18:59:30.9541075+00:00",
+  "LastUpdate_Achievements": "2023-08-31T19:04:32.529722+00:00"
 }

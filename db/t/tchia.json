@@ -6,9 +6,9 @@
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 135,
-  "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_Completed": 161,
+  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -218,9 +218,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7412,
+  "EOS_Progressed": 7413,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -6643,6 +6643,11 @@
       "Time": "2023-08-31T00:08:47.2114964+00:00",
       "NumProgressed": 7412,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-08-31T19:01:16.5495288+00:00",
+      "NumProgressed": 7413,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 21,
@@ -6764,9 +6769,9 @@
       "ID": "LIBERATOR",
       "SetID": "3cck1g6",
       "Name": "Liberator",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 296
+      "UsersEstimate": 371
     },
     {
       "ID": "LIVE_WIRE",
@@ -6774,7 +6779,7 @@
       "Name": "Live Wire",
       "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "SHREDDER",
@@ -6821,7 +6826,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7412,
+      "Progressed": 7413,
       "Completed": 32
     }
   ],
@@ -6829,8 +6834,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-08-26T01:39:24.8497831+00:00",
-  "LastChanged_Achievements": "2023-08-31T18:03:13.3037673+00:00",
+  "LastChanged_Achievements": "2023-08-31T19:01:16.5495282+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:38.3127322+00:00",
-  "LastUpdate_Ratings": "2023-08-31T18:01:34.2516021+00:00",
-  "LastUpdate_Achievements": "2023-08-31T18:03:13.3038461+00:00"
+  "LastUpdate_Ratings": "2023-08-31T19:01:07.7632299+00:00",
+  "LastUpdate_Achievements": "2023-08-31T19:01:16.5495768+00:00"
 }

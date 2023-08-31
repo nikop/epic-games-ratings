@@ -11,20 +11,20 @@ Rating: 4.60 (Ranked 394)
 | Immaculate Aim | 20.00% | ~170 |
 | Make Up For Lost Time | 19.00% | ~162 |
 | Time Flies | 19.00% | ~162 |
+| Breaking Down Barriers | 19.00% | ~162 |
 | The Prince in Heels | 19.00% | ~162 |
 | Immaculate Aim | 19.00% | ~162 |
 | The Brass Boss | 19.00% | ~162 |
 | The Steel Shadow | 18.00% | ~153 |
 | The Harder They Fall | 18.00% | ~153 |
 | No, Thanks! | 18.00% | ~153 |
-| Breaking Down Barriers | 18.00% | ~153 |
+| The Wicked Twins | 18.00% | ~153 |
 | Honest Mistake | 18.00% | ~153 |
 | Fast Learner | 18.00% | ~153 |
 | Like Clockwork | 17.00% | ~145 |
-| The Wicked Twins | 17.00% | ~145 |
+| The Betrayer | 17.00% | ~145 |
 | Golem Chaser | 17.00% | ~145 |
 | Right On Time | 16.00% | ~136 |
-| The Betrayer | 16.00% | ~136 |
 | The Man Who Shattered Time | 16.00% | ~136 |
 | The Loose Cannon | 16.00% | ~136 |
 | Check Your Pulse | 16.00% | ~136 |
@@ -60,7 +60,7 @@ Rating: 4.60 (Ranked 394)
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 851 (Ranked 210)  
-Completed: 5 (0.59%) (Ranked 140)  
+Completed: 5 (0.59%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

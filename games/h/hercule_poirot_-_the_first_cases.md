@@ -25,7 +25,7 @@ Rating: 4.35 (Ranked 756)
 | The Interrogations | 44.00% | ~183 |
 | Well-acquainted | 42.00% | ~175 |
 | Zakariya Demir | 42.00% | ~175 |
-| Well-read | 38.00% | ~158 |
+| Well-read | 39.00% | ~162 |
 | Cassandra Van den Bosch | 38.00% | ~158 |
 | The Secret | 38.00% | ~158 |
 | Gedeon Demir | 36.00% | ~150 |
@@ -53,7 +53,7 @@ Rating: 4.35 (Ranked 756)
 | Work-life Balance | 2.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 416 (Ranked 246)  
-Completed: 6 (1.44%) (Ranked 110)  
+Completed: 6 (1.44%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

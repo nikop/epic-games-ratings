@@ -2,13 +2,13 @@
   "ID": "cb62701a29834de6a91e5f634a72b6f8",
   "Name": "ATOM RPG",
   "ProductSlug": "atom-rpg-3adb54",
-  "Ranking_Rating": 616,
+  "Ranking_Rating": 615,
   "Ranking_Popularity": 406,
   "Ranking_PopularitySum": 452,
   "Ranking_EOS_Progress": 195,
-  "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_Completed": 269,
+  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -364,9 +364,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 1162,
+  "EOS_Progressed": 1164,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2279,6 +2279,11 @@
       "Time": "2023-08-31T09:07:55.2691367+00:00",
       "NumProgressed": 1162,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-31T19:07:10.5163715+00:00",
+      "NumProgressed": 1164,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -2338,7 +2343,7 @@
       "Name": "Double agent",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "EARLY_ACCESS_1",
@@ -2346,7 +2351,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1150
+      "UsersEstimate": 1152
     },
     {
       "ID": "EXPERT_1",
@@ -2362,7 +2367,7 @@
       "Name": "Explorer",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "GHOSTBUSTER",
@@ -2378,7 +2383,7 @@
       "Name": "Grave Robber",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "HEAD_BURST_1",
@@ -2386,7 +2391,7 @@
       "Name": "Head Burst",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "INDY_1",
@@ -2394,7 +2399,7 @@
       "Name": "Indy",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "KORALOV",
@@ -2450,7 +2455,7 @@
       "Name": "One shot, one kill",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "PACIFIST",
@@ -2466,7 +2471,7 @@
       "Name": "Paranoia",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "PRIVATE_EYE",
@@ -2506,7 +2511,7 @@
       "Name": "Sacrifice",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "SAVANT_1",
@@ -2546,7 +2551,7 @@
       "Name": "Traveler",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "VVE",
@@ -2577,15 +2582,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1162,
+      "Progressed": 1164,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-08-17T18:57:39.3161327+00:00",
-  "LastChanged_Achievements": "2023-08-31T18:08:11.1255873+00:00",
+  "LastChanged_Achievements": "2023-08-31T19:07:10.5163708+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:47.3814229+00:00",
-  "LastUpdate_Ratings": "2023-08-31T17:59:50.0186699+00:00",
-  "LastUpdate_Achievements": "2023-08-31T18:08:11.1256293+00:00"
+  "LastUpdate_Ratings": "2023-08-31T18:59:26.9254946+00:00",
+  "LastUpdate_Achievements": "2023-08-31T19:07:10.5164021+00:00"
 }

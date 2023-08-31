@@ -3,9 +3,9 @@
   "Name": "Roots of Pacha",
   "ProductSlug": "roots-of-pacha",
   "Ranking_EOS_Progress": 568,
-  "Ranking_EOS_Completed": 266,
+  "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 341,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2099-01-02T03:00:00+00:00",
     "PcReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-26T08:57:35.6484621+00:00",
-  "LastUpdate_Ratings": "2023-08-31T17:58:32.1661908+00:00",
-  "LastUpdate_Achievements": "2023-08-31T18:05:40.496634+00:00"
+  "LastUpdate_Ratings": "2023-08-31T18:58:13.7261671+00:00",
+  "LastUpdate_Achievements": "2023-08-31T19:04:56.2551666+00:00"
 }

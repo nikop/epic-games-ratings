@@ -6,9 +6,9 @@
   "Ranking_Popularity": 279,
   "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 57,
-  "Ranking_EOS_Completed": 266,
+  "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 24,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -756,9 +756,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 219693,
+  "EOS_Progressed": 219716,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3024,
+  "EOS_NewPlayers": 3025,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9041,6 +9041,11 @@
       "Time": "2023-08-31T18:04:33.2117698+00:00",
       "NumProgressed": 219693,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-31T19:03:52.8607504+00:00",
+      "NumProgressed": 219716,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -9500,7 +9505,7 @@
       "Name": "Sowwy!",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 57120
+      "UsersEstimate": 57126
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -9572,7 +9577,7 @@
       "Name": "I\u0027ve seen that beard before! It was on sale, and came with a broomstick and a bucket!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1098
+      "UsersEstimate": 1099
     },
     {
       "ID": "KillDungeonLich",
@@ -9580,7 +9585,7 @@
       "Name": "Dead for good",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1098
+      "UsersEstimate": 1099
     },
     {
       "ID": "KillGolbargh",
@@ -9668,7 +9673,7 @@
       "Name": "Lust and Debauchery",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1098
+      "UsersEstimate": 1099
     },
     {
       "ID": "RangerEpic",
@@ -9740,7 +9745,7 @@
       "Name": "Material Girl",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1098
+      "UsersEstimate": 1099
     },
     {
       "ID": "WizardResistBurn",
@@ -9755,21 +9760,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 219693,
+      "Progressed": 219716,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 219693,
+      "Progressed": 219716,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-31T13:57:26.1389463+00:00",
-  "LastChanged_Achievements": "2023-08-31T18:04:33.211769+00:00",
+  "LastChanged_Achievements": "2023-08-31T19:03:52.8607499+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:41.9661267+00:00",
-  "LastUpdate_Ratings": "2023-08-31T17:57:42.8383885+00:00",
-  "LastUpdate_Achievements": "2023-08-31T18:04:33.2120403+00:00"
+  "LastUpdate_Ratings": "2023-08-31T18:57:26.270539+00:00",
+  "LastUpdate_Achievements": "2023-08-31T19:03:52.8608816+00:00"
 }

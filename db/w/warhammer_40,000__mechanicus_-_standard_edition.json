@@ -3,12 +3,12 @@
   "Name": "Warhammer 40,000: Mechanicus - Standard Edition",
   "ProductSlug": "warhammer-mechanicus-0e4b71",
   "Ranking_Rating": 666,
-  "Ranking_Popularity": 242,
+  "Ranking_Popularity": 241,
   "Ranking_PopularitySum": 196,
   "Ranking_EOS_Progress": 56,
-  "Ranking_EOS_Completed": 266,
+  "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -505,11 +505,17 @@
       "Rating": 4.43,
       "NumberOfAwards": 2129,
       "NumberOfAwardsMax": 281
+    },
+    {
+      "Time": "2023-08-31T18:57:31.7106442+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 2130,
+      "NumberOfAwardsMax": 282
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2129,
-  "NumberOfAwardsMax": 281,
+  "NumberOfAwards": 2130,
+  "NumberOfAwardsMax": 282,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
@@ -534,7 +540,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 281
+      "Count": 282
     },
     {
       "Text": "This game has Amazing Characters",
@@ -573,7 +579,7 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 221619,
+  "EOS_Progressed": 221623,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 601,
   "EOS_NewCompleters": 0,
@@ -15053,6 +15059,11 @@
       "Time": "2023-08-31T18:05:32.5861721+00:00",
       "NumProgressed": 221619,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-31T19:04:49.5493568+00:00",
+      "NumProgressed": 221623,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -15072,7 +15083,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 57621
+      "UsersEstimate": 57622
     },
     {
       "ID": "ACH_BASE_11",
@@ -15312,7 +15323,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 26594
+      "UsersEstimate": 26595
     },
     {
       "ID": "ACH_BASE_8",
@@ -15335,16 +15346,16 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 221619,
+      "Progressed": 221623,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-08-11T20:31:05.9094892+00:00",
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
-  "LastChanged": "2023-08-28T01:43:39.7274808+00:00",
-  "LastChanged_Achievements": "2023-08-31T18:05:32.5861717+00:00",
+  "LastChanged": "2023-08-31T18:57:31.710644+00:00",
+  "LastChanged_Achievements": "2023-08-31T19:04:49.5493564+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:24.7662929+00:00",
-  "LastUpdate_Ratings": "2023-08-31T17:57:48.3159325+00:00",
-  "LastUpdate_Achievements": "2023-08-31T18:05:32.5862925+00:00"
+  "LastUpdate_Ratings": "2023-08-31T18:57:31.7106445+00:00",
+  "LastUpdate_Achievements": "2023-08-31T19:04:49.5494435+00:00"
 }

@@ -5,14 +5,14 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Such a strange dream… | 88.00% | ~262 |
+| Good Person Chip | 86.00% | ~256 |
 | Your first fight | 86.00% | ~256 |
-| Good Person Chip | 85.00% | ~253 |
-| First winning | 83.00% | ~247 |
+| First winning | 84.00% | ~250 |
 | Your first job | 83.00% | ~247 |
 | Old movies enjoyer | 78.00% | ~232 |
 | Fitness professional | 77.00% | ~229 |
 | Depressed visitor | 77.00% | ~229 |
-| Neurotrainer – power gainer! | 75.00% | ~224 |
+| Neurotrainer – power gainer! | 76.00% | ~226 |
 | Employee of the week | 75.00% | ~224 |
 | Your own amateur gym | 72.00% | ~215 |
 | First defeat | 72.00% | ~215 |
@@ -27,17 +27,17 @@
 | Workout professional | 59.00% | ~176 |
 | Champion – starter pack | 58.00% | ~173 |
 | It's good to be alive | 58.00% | ~173 |
+| Little hacker | 57.00% | ~170 |
 | Handyman | 57.00% | ~170 |
 | Own four walls | 57.00% | ~170 |
 | Intriguing candies | 57.00% | ~170 |
 | Employee of the year | 57.00% | ~170 |
 | Fight for life | 56.00% | ~167 |
-| Little hacker | 56.00% | ~167 |
 | Extreme neuropower! | 53.00% | ~158 |
 | Legal courier | 52.00% | ~155 |
 | Escaped from a big trouble | 49.00% | ~146 |
-| Now you are worthy | 47.00% | ~140 |
-| Guiding on the right path | 44.00% | ~131 |
+| Now you are worthy | 48.00% | ~143 |
+| Guiding on the right path | 45.00% | ~134 |
 | Fight is life | 43.00% | ~128 |
 | Mysterious voice | 43.00% | ~128 |
 | No blades in the gym | 43.00% | ~128 |
