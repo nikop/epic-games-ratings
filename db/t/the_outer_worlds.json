@@ -2,12 +2,12 @@
   "ID": "rosemallow",
   "Name": "The Outer Worlds",
   "ProductSlug": "the-outer-worlds",
-  "Ranking_Rating": 333,
+  "Ranking_Rating": 332,
   "Ranking_Popularity": 115,
   "Ranking_PopularitySum": 151,
   "Ranking_EOS_Progress": 568,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 343,
+  "Ranking_EOS_NewPlayers": 341,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2019-10-25T15:00:00+00:00",
@@ -2422,18 +2422,24 @@
       "Rating": 4.63,
       "NumberOfAwards": 3635,
       "NumberOfAwardsMax": 1772
+    },
+    {
+      "Time": "2023-08-31T17:59:18.3138271+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 3636,
+      "NumberOfAwardsMax": 1773
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3635,
-  "NumberOfAwardsMax": 1772,
+  "NumberOfAwards": 3636,
+  "NumberOfAwardsMax": 1773,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1772
+      "Count": 1773
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2513,8 +2519,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:45.1874412+00:00",
-  "LastChanged": "2023-08-29T13:03:46.0375987+00:00",
+  "LastChanged": "2023-08-31T17:59:18.3138269+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:19.8572672+00:00",
-  "LastUpdate_Ratings": "2023-08-31T16:58:44.7582103+00:00",
-  "LastUpdate_Achievements": "2023-08-31T17:04:28.097486+00:00"
+  "LastUpdate_Ratings": "2023-08-31T17:59:18.3138276+00:00",
+  "LastUpdate_Achievements": "2023-08-31T18:05:14.4549313+00:00"
 }

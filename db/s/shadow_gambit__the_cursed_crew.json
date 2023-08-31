@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 558,
+  "EOS_Progressed": 559,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.61,
   "EosHistory": [
@@ -1246,6 +1246,11 @@
       "Time": "2023-08-31T15:06:41.4048046+00:00",
       "NumProgressed": 558,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-31T18:06:12.049438+00:00",
+      "NumProgressed": 559,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1258,15 +1263,15 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "_02_FinishFirstMission",
       "SetID": "8a1io5d",
       "Name": "A New Journey",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 407
+      "UsersEstimate": 402
     },
     {
       "ID": "_03_FinishAct1",
@@ -1282,7 +1287,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "_05_FinishAct2",
@@ -1290,15 +1295,15 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
       "SetID": "8a1io5d",
       "Name": "Mirror Mirror on the Wall",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 129
     },
     {
       "ID": "_07_FinishAct3",
@@ -1320,9 +1325,9 @@
       "ID": "_09_Completion_20",
       "SetID": "8a1io5d",
       "Name": "Powder Monkey",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 157
     },
     {
       "ID": "_10_Completion_30",
@@ -1330,7 +1335,7 @@
       "Name": "Buccaneer",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "_11_Completion_40",
@@ -1368,9 +1373,9 @@
       "ID": "_15_Completion_80",
       "SetID": "8a1io5d",
       "Name": "Marauder",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 125,
-      "UsersEstimate": 11
+      "UsersEstimate": 17
     },
     {
       "ID": "_16_UnlockCore8Characters",
@@ -1416,9 +1421,9 @@
       "ID": "_21_CrewTale_OVT",
       "SetID": "8a1io5d",
       "Name": "Tobacco Travesty",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 45
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -1426,7 +1431,7 @@
       "Name": "Accursed Artifacts",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "_23_CrewTale_CNN",
@@ -1465,14 +1470,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 558,
+      "Progressed": 559,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-31T17:05:14.0931352+00:00",
+  "LastChanged_Achievements": "2023-08-31T18:06:12.0494374+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:45.1302228+00:00",
-  "LastUpdate_Ratings": "2023-08-31T16:57:23.8370715+00:00",
-  "LastUpdate_Achievements": "2023-08-31T17:05:14.0931616+00:00"
+  "LastUpdate_Ratings": "2023-08-31T17:57:34.5205742+00:00",
+  "LastUpdate_Achievements": "2023-08-31T18:06:12.0494709+00:00"
 }

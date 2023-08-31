@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 26.00% | ~57,114 |
-| Where's that freaking Dwarf? | 3.00% | ~6,590 |
-| Alt+F4 | 3.00% | ~6,590 |
-| Déjà vu | 2.00% | ~4,393 |
-| A beer, two curses, three companions | 2.00% | ~4,393 |
-| Sock! SOCK! | 2.00% | ~4,393 |
-| GG EZ | 2.00% | ~4,393 |
-| DM intervention | 2.00% | ~4,393 |
-| Speedrun | 2.00% | ~4,393 |
-| Fireproof Wizardess | 2.00% | ~4,393 |
+| Sowwy! | 26.00% | ~57,120 |
+| Where's that freaking Dwarf? | 3.00% | ~6,591 |
+| Alt+F4 | 3.00% | ~6,591 |
+| Déjà vu | 2.00% | ~4,394 |
+| A beer, two curses, three companions | 2.00% | ~4,394 |
+| Sock! SOCK! | 2.00% | ~4,394 |
+| GG EZ | 2.00% | ~4,394 |
+| DM intervention | 2.00% | ~4,394 |
+| Speedrun | 2.00% | ~4,394 |
+| Fireproof Wizardess | 2.00% | ~4,394 |
 | Livin' in a dwarven paradise | 1.00% | ~2,197 |
 | Way of the Wimp | 1.00% | ~2,197 |
 | The plot thickens... At the tavern | 1.00% | ~2,197 |
@@ -27,18 +27,18 @@ Number of Ratings: 118  (23.09.2022)
 | The Dungeon Master | 0.90% | ~1,977 |
 | The Woman in the High Castle | 0.90% | ~1,977 |
 | Team Building Exercise | 0.90% | ~1,977 |
-| Shiny and Crôm | 0.80% | ~1,757 |
-| The Statuette of Gladeulfeurah | 0.80% | ~1,757 |
-| A tale of adventurers not quite like the others... | 0.80% | ~1,757 |
-| %#*!$*! | 0.80% | ~1,757 |
-| The Ranger of Chaos | 0.80% | ~1,757 |
-| I am the night | 0.80% | ~1,757 |
+| Shiny and Crôm | 0.80% | ~1,758 |
+| The Statuette of Gladeulfeurah | 0.80% | ~1,758 |
+| A tale of adventurers not quite like the others... | 0.80% | ~1,758 |
+| %#*!$*! | 0.80% | ~1,758 |
+| The Ranger of Chaos | 0.80% | ~1,758 |
+| I am the night | 0.80% | ~1,758 |
 | The Famous Dungeon of Naheulbeuk | 0.70% | ~1,538 |
+| Look but don't touch | 0.70% | ~1,538 |
 | The beards of change | 0.70% | ~1,538 |
 | Thieves' Guild Accreditation | 0.70% | ~1,538 |
 | Res Judicata | 0.60% | ~1,318 |
 | Dwarf Fortress | 0.60% | ~1,318 |
-| Look but don't touch | 0.60% | ~1,318 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.50% | ~1,098 |
 | Dead for good | 0.50% | ~1,098 |
 | Lust and Debauchery | 0.50% | ~1,098 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~220 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,668 (Ranked 57)  
+Progressed: 219,693 (Ranked 57)  
 Completed: 2 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 2 (0.00%) (Ranked 266)
 | 2023-08-28 | 218,694 | 2 |
 | 2023-08-29 | 219,078 | 2 |
 | 2023-08-30 | 219,453 | 2 |
-| 2023-08-31 | 219,668 | 2 |
+| 2023-08-31 | 219,693 | 2 |
 ## Awards
 Max (Character Customization): 184  (Ranked 279)  
 Sum: 232 (Ranked 360)  

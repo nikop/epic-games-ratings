@@ -6,47 +6,47 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MU/TH/UR Dearest | 0.80% | ~6,665 |
-| It wakes | 0.70% | ~5,832 |
-| Zealous | 0.60% | ~4,999 |
-| Skillful | 0.60% | ~4,999 |
-| Not half bad | 0.50% | ~4,165 |
-| Apt Survivor | 0.50% | ~4,165 |
-| Make Some Noise | 0.50% | ~4,165 |
-| Terror of LV-426 | 0.50% | ~4,165 |
-| Medic | 0.40% | ~3,332 |
-| Handyman | 0.40% | ~3,332 |
-| Survival Treasures | 0.40% | ~3,332 |
-| I | 0.40% | ~3,332 |
-| Sorted | 0.40% | ~3,332 |
-| The Grand Sacrifice | 0.30% | ~2,499 |
-| Agonizing Escape | 0.30% | ~2,499 |
-| Backdoor Escape | 0.30% | ~2,499 |
-| I've got your back | 0.30% | ~2,499 |
-| No one left behind | 0.30% | ~2,499 |
-| Nerves of steel | 0.30% | ~2,499 |
-| Perfect Escape | 0.30% | ~2,499 |
-| Perfect Killing | 0.30% | ~2,499 |
-| Bloody Millionaire | 0.30% | ~2,499 |
-| Engineer | 0.30% | ~2,499 |
-| Healthy Obsession | 0.30% | ~2,499 |
-| Resurgence | 0.30% | ~2,499 |
-| Preemptive Strike | 0.30% | ~2,499 |
-| Humanitarian | 0.30% | ~2,499 |
-| Blood on your hands | 0.20% | ~1,666 |
-| Apt Killer | 0.20% | ~1,666 |
-| Risk it all | 0.20% | ~1,666 |
-| Vulture | 0.20% | ~1,666 |
-| II | 0.20% | ~1,666 |
-| III | 0.20% | ~1,666 |
-| III-50 | 0.20% | ~1,666 |
-| Wounded Healer | 0.20% | ~1,666 |
-| First to the Punch | 0.20% | ~1,666 |
-| Every Last Drop | 0.20% | ~1,666 |
-| Close Shave | 0.20% | ~1,666 |
-| With Scars to Show | 0.20% | ~1,666 |
-| One More Step | 0.20% | ~1,666 |
-| Second Act | 0.20% | ~1,666 |
+| MU/TH/UR Dearest | 0.80% | ~6,666 |
+| It wakes | 0.70% | ~5,833 |
+| Zealous | 0.60% | ~5,000 |
+| Skillful | 0.60% | ~5,000 |
+| Not half bad | 0.50% | ~4,166 |
+| Apt Survivor | 0.50% | ~4,166 |
+| Make Some Noise | 0.50% | ~4,166 |
+| Terror of LV-426 | 0.50% | ~4,166 |
+| No one left behind | 0.40% | ~3,333 |
+| Medic | 0.40% | ~3,333 |
+| Handyman | 0.40% | ~3,333 |
+| Nerves of steel | 0.40% | ~3,333 |
+| Bloody Millionaire | 0.40% | ~3,333 |
+| Survival Treasures | 0.40% | ~3,333 |
+| I | 0.40% | ~3,333 |
+| Sorted | 0.40% | ~3,333 |
+| The Grand Sacrifice | 0.30% | ~2,500 |
+| Agonizing Escape | 0.30% | ~2,500 |
+| Backdoor Escape | 0.30% | ~2,500 |
+| I've got your back | 0.30% | ~2,500 |
+| Perfect Escape | 0.30% | ~2,500 |
+| Perfect Killing | 0.30% | ~2,500 |
+| Risk it all | 0.30% | ~2,500 |
+| Engineer | 0.30% | ~2,500 |
+| Healthy Obsession | 0.30% | ~2,500 |
+| Resurgence | 0.30% | ~2,500 |
+| Preemptive Strike | 0.30% | ~2,500 |
+| Humanitarian | 0.30% | ~2,500 |
+| Blood on your hands | 0.20% | ~1,667 |
+| Apt Killer | 0.20% | ~1,667 |
+| Vulture | 0.20% | ~1,667 |
+| II | 0.20% | ~1,667 |
+| III | 0.20% | ~1,667 |
+| III-50 | 0.20% | ~1,667 |
+| Wounded Healer | 0.20% | ~1,667 |
+| First to the Punch | 0.20% | ~1,667 |
+| Every Last Drop | 0.20% | ~1,667 |
+| Close Shave | 0.20% | ~1,667 |
+| With Scars to Show | 0.20% | ~1,667 |
+| One More Step | 0.20% | ~1,667 |
+| Second Act | 0.20% | ~1,667 |
 | A bite for the Entity | 0.10% | ~833 |
 | A feast for the Entity | 0.10% | ~833 |
 | Blood on your face | 0.10% | ~833 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~833 |
 | Adept Ripley | 0.10% | ~833 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 833,090 (Ranked 15)  
+Progressed: 833,263 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -369,7 +369,7 @@ Completed: 48 (0.01%) (Ranked 253)
 | 2023-08-28 | 824,988 | 48 |
 | 2023-08-29 | 828,020 | 48 |
 | 2023-08-30 | 831,117 | 48 |
-| 2023-08-31 | 833,090 | 48 |
+| 2023-08-31 | 833,263 | 48 |
 ## Awards
 Max (Diverse Characters): 31,726  (Ranked 15)  
 Sum: 248,913 (Ranked 11)  

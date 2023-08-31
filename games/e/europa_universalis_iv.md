@@ -6,28 +6,28 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~15,346 |
-| That's a Grand Army | 3.00% | ~11,510 |
-| That is mine! | 3.00% | ~11,510 |
-| Victorious! | 3.00% | ~11,510 |
-| Brothers in Arms | 2.00% | ~7,673 |
-| That's a Grand Navy | 2.00% | ~7,673 |
-| Seriously?! | 2.00% | ~7,673 |
-| Cold War | 1.00% | ~3,837 |
-| Defender of the Faith | 1.00% | ~3,837 |
-| For the Glory | 1.00% | ~3,837 |
-| It's all about the money | 1.00% | ~3,837 |
-| True Catholic | 1.00% | ~3,837 |
-| The Princess is in this Castle | 0.90% | ~3,453 |
-| It's all about luck | 0.80% | ~3,069 |
-| Respected | 0.80% | ~3,069 |
-| Truly Divine Ruler | 0.80% | ~3,069 |
-| Blockader | 0.70% | ~2,686 |
-| Double the Love | 0.70% | ~2,686 |
-| Total Control | 0.70% | ~2,686 |
-| Royal Authority | 0.60% | ~2,302 |
-| Combined Arms | 0.50% | ~1,918 |
-| My armies are invincible! | 0.50% | ~1,918 |
+| Until death do us apart | 4.00% | ~15,352 |
+| That's a Grand Army | 3.00% | ~11,514 |
+| That is mine! | 3.00% | ~11,514 |
+| Victorious! | 3.00% | ~11,514 |
+| Brothers in Arms | 2.00% | ~7,676 |
+| That's a Grand Navy | 2.00% | ~7,676 |
+| Seriously?! | 2.00% | ~7,676 |
+| Cold War | 1.00% | ~3,838 |
+| Defender of the Faith | 1.00% | ~3,838 |
+| For the Glory | 1.00% | ~3,838 |
+| It's all about the money | 1.00% | ~3,838 |
+| True Catholic | 1.00% | ~3,838 |
+| The Princess is in this Castle | 0.90% | ~3,454 |
+| It's all about luck | 0.80% | ~3,070 |
+| Respected | 0.80% | ~3,070 |
+| Truly Divine Ruler | 0.80% | ~3,070 |
+| Blockader | 0.70% | ~2,687 |
+| Double the Love | 0.70% | ~2,687 |
+| Total Control | 0.70% | ~2,687 |
+| Royal Authority | 0.60% | ~2,303 |
+| Combined Arms | 0.50% | ~1,919 |
+| My armies are invincible! | 0.50% | ~1,919 |
 | Agressive Expander | 0.40% | ~1,535 |
 | Azur semé de lis or | 0.40% | ~1,535 |
 | City of Cities | 0.40% | ~1,535 |
@@ -45,14 +45,14 @@ Number of Ratings: 8,414  (23.09.2022)
 | Populists in Government | 0.30% | ~1,151 |
 | The Five Colonies | 0.30% | ~1,151 |
 | Trustworthy | 0.30% | ~1,151 |
-| All belongs to Mother Russia | 0.20% | ~767 |
-| At every continent | 0.20% | ~767 |
-| Electable! | 0.20% | ~767 |
-| Grand Coalition | 0.20% | ~767 |
-| One Family to Rule them All | 0.20% | ~767 |
-| The pen is mightier than the sword | 0.20% | ~767 |
-| Time Bandit | 0.20% | ~767 |
-| Traditional Player | 0.20% | ~767 |
+| All belongs to Mother Russia | 0.20% | ~768 |
+| At every continent | 0.20% | ~768 |
+| Electable! | 0.20% | ~768 |
+| Grand Coalition | 0.20% | ~768 |
+| One Family to Rule them All | 0.20% | ~768 |
+| The pen is mightier than the sword | 0.20% | ~768 |
+| Time Bandit | 0.20% | ~768 |
+| Traditional Player | 0.20% | ~768 |
 | The 52 Garhs | 0.10% | ~384 |
 | I don't like sand | 0.10% | ~384 |
 | A Blessed Nation | 0.10% | ~384 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 383,655 (Ranked 41)  
+Progressed: 383,790 (Ranked 41)  
 Completed: 0 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -494,16 +494,16 @@ Completed: 0 (0.00%) (Ranked 266)
 | 2023-08-28 | 378,067 | 0 |
 | 2023-08-29 | 380,378 | 0 |
 | 2023-08-30 | 382,380 | 0 |
-| 2023-08-31 | 383,655 | 0 |
+| 2023-08-31 | 383,790 | 0 |
 ## Awards
 Max (Educational): 5,861  (Ranked 58)  
-Sum: 48,244 (Ranked 26)  
+Sum: 48,264 (Ranked 26)  
 Diff (max vs sum): 32  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,861 |
 | This game is Highly Recommended | 5,597 |
-| This game is Extremely Fun | 5,550 |
+| This game is Extremely Fun | 5,570 |
 | This game has Challenging Combat | 5,546 |
 | This game has Diverse Characters | 5,536 |
 | This game is Relaxing | 5,396 |
@@ -740,4 +740,4 @@ Diff (max vs sum): 32
 | 2023-08-28 | 4.68 | - | 5,814 | 47,997 |
 | 2023-08-29 | 4.68 | - | 5,827 | 48,068 |
 | 2023-08-30 | 4.68 | - | 5,840 | 48,158 |
-| 2023-08-31 | 4.68 | - | 5,861 | 48,244 |
+| 2023-08-31 | 4.68 | - | 5,861 | 48,264 |

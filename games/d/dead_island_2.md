@@ -5,13 +5,14 @@ Rating: 4.54 (Ranked 505)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Welcome To Hell-A | 0.80% | ~5,362 |
 | Hotel California | 0.70% | ~4,691 |
-| Welcome To Hell-A | 0.70% | ~4,691 |
 | Dr. Reed, I Presume? | 0.60% | ~4,021 |
 | Git Gutte! | 0.60% | ~4,021 |
 | Break A Leg | 0.60% | ~4,021 |
 | Coup de Grâce | 0.60% | ~4,021 |
 | Hazardous Materials | 0.60% | ~4,021 |
+| Friends Like These | 0.60% | ~4,021 |
 | Apex Predator | 0.60% | ~4,021 |
 | Stacking the Deck | 0.60% | ~4,021 |
 | Personal Assistant Personally Assisted | 0.60% | ~4,021 |
@@ -20,7 +21,6 @@ Rating: 4.54 (Ranked 505)
 | Slayer Squad | 0.50% | ~3,351 |
 | Can't Handle the Truth | 0.50% | ~3,351 |
 | Like Riding a Bike | 0.50% | ~3,351 |
-| Friends Like These | 0.50% | ~3,351 |
 | Zombologist | 0.50% | ~3,351 |
 | A Patton Emerges | 0.50% | ~3,351 |
 | This is My Weapon | 0.50% | ~3,351 |
@@ -30,10 +30,10 @@ Rating: 4.54 (Ranked 505)
 | Ooh, Shiny! | 0.40% | ~2,681 |
 | I Am the Resurrection | 0.40% | ~2,681 |
 | Our True Nature | 0.40% | ~2,681 |
-| Making Your Mark | 0.30% | ~2,010 |
-| Humanity Distilled | 0.30% | ~2,010 |
-| Down with the Sickness | 0.30% | ~2,010 |
-| Max Headroom | 0.30% | ~2,010 |
+| Making Your Mark | 0.30% | ~2,011 |
+| Humanity Distilled | 0.30% | ~2,011 |
+| Down with the Sickness | 0.30% | ~2,011 |
+| Max Headroom | 0.30% | ~2,011 |
 | Smorgasbord | 0.20% | ~1,340 |
 | Not Even My Final Form | 0.20% | ~1,340 |
 | Internet Famous | 0.20% | ~1,340 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 505)
 | Variety is the Spice of Death | 0.10% | ~670 |
 | Bucket List | 0.10% | ~670 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 670,152 (Ranked 22)  
+Progressed: 670,189 (Ranked 22)  
 Completed: 2,096 (0.31%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,14 +184,14 @@ Completed: 2,096 (0.31%) (Ranked 174)
 | 2023-08-28 | 668,091 | 2,086 |
 | 2023-08-29 | 668,912 | 2,088 |
 | 2023-08-30 | 669,636 | 2,094 |
-| 2023-08-31 | 670,152 | 2,096 |
+| 2023-08-31 | 670,189 | 2,096 |
 ## Awards
-Max (Great Boss Battles): 5,822  (Ranked 60)  
-Sum: 8,576 (Ranked 97)  
+Max (Great Boss Battles): 5,841  (Ranked 60)  
+Sum: 8,595 (Ranked 97)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 5,822 |
+| This game has Great Boss Battles | 5,841 |
 | This game is Great for Beginners | 389 |
 | This game has Quickly Understood Controls | 381 |
 | This game has Diverse Characters | 375 |
@@ -335,4 +335,4 @@ Diff (max vs sum): -37
 | 2023-08-28 | 4.54 | 5,791 | 8,530 |
 | 2023-08-29 | 4.54 | 5,808 | 8,550 |
 | 2023-08-30 | 4.54 | 5,822 | 8,570 |
-| 2023-08-31 | 4.54 | 5,822 | 8,576 |
+| 2023-08-31 | 4.54 | 5,841 | 8,595 |

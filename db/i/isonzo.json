@@ -804,7 +804,7 @@
   ],
   "EOS_Progressed": 6703,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -4908,9 +4908,9 @@
       "ID": "ISONZO_ACH_GABRIELE_DANNUNZIO",
       "SetID": "akchbl3",
       "Name": "Gabriele D\u0027Annunzio",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 2212
+      "UsersEstimate": 2279
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -5165,8 +5165,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-08-31T17:00:23.7266138+00:00",
-  "LastChanged_Achievements": "2023-08-31T17:04:06.7632765+00:00",
+  "LastChanged_Achievements": "2023-08-31T18:04:47.6581222+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:40.0989938+00:00",
-  "LastUpdate_Ratings": "2023-08-31T17:00:23.7266144+00:00",
-  "LastUpdate_Achievements": "2023-08-31T17:04:06.7633389+00:00"
+  "LastUpdate_Ratings": "2023-08-31T18:01:21.5352816+00:00",
+  "LastUpdate_Achievements": "2023-08-31T18:04:47.6581849+00:00"
 }

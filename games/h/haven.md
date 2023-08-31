@@ -6,22 +6,22 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Balding bloot! | 79.00% | ~1,115 |
+| Balding bloot! | 79.00% | ~1,116 |
 | Lovebirds | 50.00% | ~706 |
-| Life’s short, ride long | 45.00% | ~635 |
-| Hug therapy | 44.00% | ~621 |
+| Life’s short, ride long | 45.00% | ~636 |
+| Hug therapy | 44.00% | ~622 |
 | Over my dead body | 40.00% | ~565 |
 | Shake the rust off their feet | 21.00% | ~297 |
-| My little pony | 20.00% | ~282 |
+| My little pony | 20.00% | ~283 |
 | Strike! | 19.00% | ~268 |
 | A love supreme | 18.00% | ~254 |
 | In my shoes | 17.00% | ~240 |
 | Like new! | 15.00% | ~212 |
 | Head in the clouds | 14.00% | ~198 |
 | Heartstrings | 13.00% | ~184 |
-| Back to rust | 12.00% | ~169 |
-| Flower Powered | 12.00% | ~169 |
-| Don't look back | 12.00% | ~169 |
+| Back to rust | 12.00% | ~170 |
+| Flower Powered | 12.00% | ~170 |
+| Don't look back | 12.00% | ~170 |
 | Unstoppable | 10.00% | ~141 |
 | Perfect timing | 9.00% | ~127 |
 | Self-sustainability | 8.00% | ~113 |
@@ -29,15 +29,15 @@ Number of Ratings: 38  (23.09.2022)
 | An eye for an eye | 6.00% | ~85 |
 | Can't get wetter... | 5.00% | ~71 |
 | Spring cleaning | 5.00% | ~71 |
-| Second thoughts | 4.00% | ~56 |
-| Mooning the moon | 4.00% | ~56 |
-| Strip-a-bobble | 4.00% | ~56 |
+| Second thoughts | 4.00% | ~57 |
+| Mooning the moon | 4.00% | ~57 |
+| Strip-a-bobble | 4.00% | ~57 |
 | Pearls before Birble | 3.00% | ~42 |
 | Last minute | 3.00% | ~42 |
 | Thar she blows | 2.00% | ~28 |
 | À la carte | 2.00% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,412 (Ranked 187)  
+Progressed: 1,413 (Ranked 187)  
 Completed: 9 (0.64%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,6 +148,7 @@ Completed: 9 (0.64%) (Ranked 136)
 | 2023-08-25 | 1,405 | 9 |
 | 2023-08-26 | 1,406 | 9 |
 | 2023-08-29 | 1,412 | 9 |
+| 2023-08-31 | 1,413 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -6,18 +6,18 @@ Number of Ratings: 7,669  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 24.00% | ~92 |
-| It's a good start | 6.00% | ~23 |
-| Bonjour! | 5.00% | ~19 |
-| A long journey | 5.00% | ~19 |
-| Ostinata | 4.00% | ~15 |
-| Quack | 4.00% | ~15 |
-| Surprise of Langhe | 4.00% | ~15 |
+| Bye Bye | 25.00% | ~99 |
+| It's a good start | 6.00% | ~24 |
+| Bonjour! | 5.00% | ~20 |
+| A long journey | 5.00% | ~20 |
+| Quack | 5.00% | ~20 |
+| Ostinata | 4.00% | ~16 |
+| The Blue Marl | 4.00% | ~16 |
+| Surprise of Langhe | 4.00% | ~16 |
 | The Assistant | 3.00% | ~12 |
-| The Blue Marl | 3.00% | ~12 |
 | Better than nothing? | 3.00% | ~12 |
+| Exotic | 3.00% | ~12 |
 | Famous | 3.00% | ~12 |
-| Exotic | 2.00% | ~8 |
 | A big garage | 1.00% | ~4 |
 | Big Money | 1.00% | ~4 |
 | Keep the doctor away | 1.00% | ~4 |
@@ -38,13 +38,13 @@ Number of Ratings: 7,669  (23.09.2022)
 | Unsuitable Terroir | 0.00% | ~0 |
 | Knight of Langhe | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 385 (Ranked 253)  
+Progressed: 397 (Ranked 252)  
 Completed: 0 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-08-30 | 210 | 0 |
-| 2023-08-31 | 385 | 0 |
+| 2023-08-31 | 397 | 0 |
 ## Awards
 Max (Relaxing): 203  (Ranked 273)  
 Sum: 1,457 (Ranked 224)  

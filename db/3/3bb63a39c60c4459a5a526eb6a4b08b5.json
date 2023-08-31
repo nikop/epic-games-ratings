@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 627,
+  "EOS_Progressed": 628,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -2206,6 +2206,11 @@
       "Time": "2023-08-31T15:06:03.8375926+00:00",
       "NumProgressed": 627,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-31T18:05:38.1943102+00:00",
+      "NumProgressed": 628,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2233,7 +2238,7 @@
       "Name": "Basic Controls",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "BigPlane",
@@ -2241,7 +2246,7 @@
       "Name": "Expensive Plane",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "BudgetFlight",
@@ -2279,9 +2284,9 @@
       "ID": "Debtor",
       "SetID": "1e89b4i",
       "Name": "Debtor",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 63
     },
     {
       "ID": "EdgeOfTheWorld",
@@ -2305,7 +2310,7 @@
       "Name": "Fifty",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "First",
@@ -2399,9 +2404,9 @@
       "ID": "MaximumUpgrade",
       "SetID": "1e89b4i",
       "Name": "Maximum Upgrade",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 88
     },
     {
       "ID": "Millionaire",
@@ -2529,7 +2534,7 @@
       "Name": "Ten!",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "TimeForManagement",
@@ -2552,14 +2557,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 627,
+      "Progressed": 628,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-08-31T17:04:46.767643+00:00",
+  "LastChanged_Achievements": "2023-08-31T18:05:38.1943097+00:00",
   "LastUpdate_AppInfo": "2023-08-29T11:57:10.9614599+00:00",
-  "LastUpdate_Ratings": "2023-08-31T16:59:46.900477+00:00",
-  "LastUpdate_Achievements": "2023-08-31T17:04:46.7676918+00:00"
+  "LastUpdate_Ratings": "2023-08-31T18:00:35.9289025+00:00",
+  "LastUpdate_Achievements": "2023-08-31T18:05:38.1943608+00:00"
 }

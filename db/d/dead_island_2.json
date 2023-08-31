@@ -4048,18 +4048,24 @@
       "Rating": 4.54,
       "NumberOfAwards": 8576,
       "NumberOfAwardsMax": 5822
+    },
+    {
+      "Time": "2023-08-31T17:57:51.1945638+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 8595,
+      "NumberOfAwardsMax": 5841
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8576,
-  "NumberOfAwardsMax": 5822,
+  "NumberOfAwards": 8595,
+  "NumberOfAwardsMax": 5841,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 5822
+      "Count": 5841
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4110,9 +4116,9 @@
       "Count": 330
     }
   ],
-  "EOS_Progressed": 670152,
+  "EOS_Progressed": 670189,
   "EOS_Completed": 2096,
-  "EOS_NewPlayers": 5913,
+  "EOS_NewPlayers": 5893,
   "EOS_NewCompleters": 39,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -18940,6 +18946,11 @@
       "Time": "2023-08-31T17:04:21.8033607+00:00",
       "NumProgressed": 670152,
       "NumCompleted": 2096
+    },
+    {
+      "Time": "2023-08-31T18:05:06.6507478+00:00",
+      "NumProgressed": 670189,
+      "NumCompleted": 2096
     }
   ],
   "TotalAchievements": 45,
@@ -18959,7 +18970,7 @@
       "Name": "Making Your Mark",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2010
+      "UsersEstimate": 2011
     },
     {
       "ID": "ach_ammo_ran",
@@ -19101,9 +19112,9 @@
       "ID": "ach_her_name_was_lola",
       "SetID": "7km39fm",
       "Name": "Friends Like These",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 3351
+      "UsersEstimate": 4021
     },
     {
       "ID": "ach_hotel_california",
@@ -19191,7 +19202,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2010
+      "UsersEstimate": 2011
     },
     {
       "ID": "ach_revival_tour",
@@ -19207,7 +19218,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2010
+      "UsersEstimate": 2011
     },
     {
       "ID": "ach_secrets_of_la",
@@ -19247,7 +19258,7 @@
       "Name": "Max Headroom",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2010
+      "UsersEstimate": 2011
     },
     {
       "ID": "ach_the_vcla",
@@ -19285,9 +19296,9 @@
       "ID": "ach_welcome_to_hell_a",
       "SetID": "7km39fm",
       "Name": "Welcome To Hell-A",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 4691
+      "UsersEstimate": 5362
     },
     {
       "ID": "ach_well_known_survivor",
@@ -19310,16 +19321,16 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 670152,
+      "Progressed": 670189,
       "Completed": 2096
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-08-31T13:57:32.1790559+00:00",
-  "LastChanged_Achievements": "2023-08-31T17:04:21.8033602+00:00",
+  "LastChanged": "2023-08-31T17:57:51.1945636+00:00",
+  "LastChanged_Achievements": "2023-08-31T18:05:06.6507472+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:11.0440218+00:00",
-  "LastUpdate_Ratings": "2023-08-31T16:57:36.8414283+00:00",
-  "LastUpdate_Achievements": "2023-08-31T17:04:21.8034874+00:00"
+  "LastUpdate_Ratings": "2023-08-31T17:57:51.1945644+00:00",
+  "LastUpdate_Achievements": "2023-08-31T18:05:06.6509715+00:00"
 }

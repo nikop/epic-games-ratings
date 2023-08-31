@@ -4,10 +4,10 @@
   "ProductSlug": "century-age-of-ashes",
   "Ranking_Rating": 687,
   "Ranking_Popularity": 383,
-  "Ranking_PopularitySum": 292,
+  "Ranking_PopularitySum": 291,
   "Ranking_EOS_Progress": 568,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 343,
+  "Ranking_EOS_NewPlayers": 341,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-02-23T16:00:00+00:00",
@@ -1501,10 +1501,16 @@
       "Rating": 4.41,
       "NumberOfAwards": 635,
       "NumberOfAwardsMax": 67
+    },
+    {
+      "Time": "2023-08-31T17:57:11.1481276+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 637,
+      "NumberOfAwardsMax": 67
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 635,
+  "NumberOfAwards": 637,
   "NumberOfAwardsMax": 67,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -1560,7 +1566,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 54
+      "Count": 55
     },
     {
       "Text": "This game has a Competitive Community",
@@ -1572,7 +1578,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 61
+      "Count": 62
     }
   ],
   "EOS_Progressed": 0,
@@ -1586,8 +1592,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:28.564577+00:00",
-  "LastChanged": "2023-08-31T12:00:19.6630839+00:00",
+  "LastChanged": "2023-08-31T17:57:11.1481274+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:26.7547978+00:00",
-  "LastUpdate_Ratings": "2023-08-31T16:57:04.7682973+00:00",
-  "LastUpdate_Achievements": "2023-08-31T17:02:26.3604634+00:00"
+  "LastUpdate_Ratings": "2023-08-31T17:57:11.1481282+00:00",
+  "LastUpdate_Achievements": "2023-08-31T18:03:35.7125103+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 406,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewPlayers": 73,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -217,9 +217,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 35585,
+  "EOS_Progressed": 35591,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 565,
+  "EOS_NewPlayers": 569,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -14902,6 +14902,11 @@
       "Time": "2023-08-31T17:03:54.7904825+00:00",
       "NumProgressed": 35585,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-08-31T18:04:35.051648+00:00",
+      "NumProgressed": 35591,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 29,
@@ -14913,7 +14918,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 5338
+      "UsersEstimate": 5339
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -14921,7 +14926,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 7117
+      "UsersEstimate": 7118
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -14985,7 +14990,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1779
+      "UsersEstimate": 1780
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -15057,7 +15062,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1423
+      "UsersEstimate": 1424
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -15065,7 +15070,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1779
+      "UsersEstimate": 1780
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -15144,7 +15149,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 35585,
+      "Progressed": 35591,
       "Completed": 22
     }
   ],
@@ -15152,8 +15157,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-12T21:03:39.1122054+00:00",
-  "LastChanged_Achievements": "2023-08-31T17:03:54.7904819+00:00",
+  "LastChanged_Achievements": "2023-08-31T18:04:35.0516473+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:35.8741643+00:00",
-  "LastUpdate_Ratings": "2023-08-31T16:58:55.4815524+00:00",
-  "LastUpdate_Achievements": "2023-08-31T17:03:54.7905919+00:00"
+  "LastUpdate_Ratings": "2023-08-31T17:59:31.5912007+00:00",
+  "LastUpdate_Achievements": "2023-08-31T18:04:35.0518035+00:00"
 }

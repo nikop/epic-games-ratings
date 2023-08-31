@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -581,9 +581,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 1076,
+  "EOS_Progressed": 1080,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3306,6 +3306,11 @@
       "Time": "2023-08-31T12:02:14.6396969+00:00",
       "NumProgressed": 1076,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-31T18:03:28.5450133+00:00",
+      "NumProgressed": 1080,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -3388,9 +3393,9 @@
       "ID": "MF_Ach_FourthGate",
       "SetID": "9b9n573",
       "Name": "The Fourth Gate",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "MF_Ach_HarderTheyFall",
@@ -3501,15 +3506,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 1076,
+      "Progressed": 1080,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-08-19T00:01:25.4224345+00:00",
-  "LastChanged_Achievements": "2023-08-31T17:02:20.6811005+00:00",
+  "LastChanged_Achievements": "2023-08-31T18:03:28.5450126+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:13.6724499+00:00",
-  "LastUpdate_Ratings": "2023-08-31T16:57:44.0883431+00:00",
-  "LastUpdate_Achievements": "2023-08-31T17:02:20.6811314+00:00"
+  "LastUpdate_Ratings": "2023-08-31T17:58:00.4392632+00:00",
+  "LastUpdate_Achievements": "2023-08-31T18:03:28.545047+00:00"
 }

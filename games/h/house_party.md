@@ -14,8 +14,8 @@ Number of Ratings: 177  (23.09.2022)
 | Life Found a Way | 2.00% | ~63 |
 | Relentless | 2.00% | ~122 |
 | If at First You Don't Succeed... | 2.00% | ~122 |
+| Drunk and Disorderly: Ashley | 1.00% | ~61 |
 | Drunk and Disorderly: Stephanie | 1.00% | ~61 |
-| Drunk and Disorderly: Ashley | 0.90% | ~55 |
 | IRL Let's Player | 0.90% | ~55 |
 | Newcomer: Vickie | 0.90% | ~55 |
 | Amy | 0.80% | ~49 |

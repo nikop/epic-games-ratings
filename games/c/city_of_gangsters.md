@@ -5,30 +5,30 @@ Rating: 4.27 (Ranked 819)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~156,783 |
-| Copacetic Coordination | 16.00% | ~54,533 |
-| Fronting the Money | 15.00% | ~51,125 |
-| The Dawn of Automation | 14.00% | ~47,717 |
-| Extraordinary Logistics | 14.00% | ~47,717 |
-| Dirty Money | 13.00% | ~44,308 |
-| Family First | 13.00% | ~44,308 |
-| Cleaning House | 12.00% | ~40,900 |
-| Room in the Back | 12.00% | ~40,900 |
-| Beating the Heat | 11.00% | ~37,492 |
-| Booze Baron | 11.00% | ~37,492 |
-| Friends on the Force | 10.00% | ~34,083 |
-| Neighborhood Watch | 10.00% | ~34,083 |
-| Core Corps | 8.00% | ~27,267 |
-| Sizeable Stash | 8.00% | ~27,267 |
-| Street Fighter | 7.00% | ~23,858 |
-| Friendly Gestures | 7.00% | ~23,858 |
-| People Person | 7.00% | ~23,858 |
-| Liquor Lord | 6.00% | ~20,450 |
-| Safety in Numbers | 6.00% | ~20,450 |
-| Moving Experiences | 6.00% | ~20,450 |
-| Wise Head | 6.00% | ~20,450 |
-| Show ‘em the Sugar | 6.00% | ~20,450 |
-| Killing Them Softly | 6.00% | ~20,450 |
+| Corner Clout | 46.00% | ~156,788 |
+| Copacetic Coordination | 16.00% | ~54,535 |
+| Fronting the Money | 15.00% | ~51,127 |
+| The Dawn of Automation | 14.00% | ~47,718 |
+| Extraordinary Logistics | 14.00% | ~47,718 |
+| Dirty Money | 13.00% | ~44,310 |
+| Family First | 13.00% | ~44,310 |
+| Cleaning House | 12.00% | ~40,901 |
+| Room in the Back | 12.00% | ~40,901 |
+| Beating the Heat | 11.00% | ~37,493 |
+| Booze Baron | 11.00% | ~37,493 |
+| Friends on the Force | 10.00% | ~34,084 |
+| Neighborhood Watch | 10.00% | ~34,084 |
+| Core Corps | 8.00% | ~27,268 |
+| Sizeable Stash | 8.00% | ~27,268 |
+| Street Fighter | 7.00% | ~23,859 |
+| Friendly Gestures | 7.00% | ~23,859 |
+| People Person | 7.00% | ~23,859 |
+| Liquor Lord | 6.00% | ~20,451 |
+| Safety in Numbers | 6.00% | ~20,451 |
+| Moving Experiences | 6.00% | ~20,451 |
+| Wise Head | 6.00% | ~20,451 |
+| Show ‘em the Sugar | 6.00% | ~20,451 |
+| Killing Them Softly | 6.00% | ~20,451 |
 | Street Knowledge | 5.00% | ~17,042 |
 | Oh Captain | 5.00% | ~17,042 |
 | Branching Out | 5.00% | ~17,042 |
@@ -36,11 +36,11 @@ Rating: 4.27 (Ranked 819)
 | Opportunity Knocked | 5.00% | ~17,042 |
 | City of Big Shoulders | 5.00% | ~17,042 |
 | Mission Mastery | 5.00% | ~17,042 |
-| Considerable Clams | 4.00% | ~13,633 |
-| Gin Joint | 4.00% | ~13,633 |
-| An Affront to the Enemy | 4.00% | ~13,633 |
-| Friends from Back Home | 4.00% | ~13,633 |
-| Half Century Mark | 4.00% | ~13,633 |
+| Considerable Clams | 4.00% | ~13,634 |
+| Gin Joint | 4.00% | ~13,634 |
+| An Affront to the Enemy | 4.00% | ~13,634 |
+| Friends from Back Home | 4.00% | ~13,634 |
+| Half Century Mark | 4.00% | ~13,634 |
 | Corner Opportunities | 3.00% | ~10,225 |
 | 2122 North Clark Street | 3.00% | ~10,225 |
 | Copious Cabbage | 3.00% | ~10,225 |
@@ -59,8 +59,8 @@ Rating: 4.27 (Ranked 819)
 | Full House | 1.00% | ~3,408 |
 | The Rubber Meets the Road | 1.00% | ~3,408 |
 | Cat’s Meow Clubs | 1.00% | ~3,408 |
-| Determined Deliveries | 0.90% | ~3,067 |
-| Stepping It Up | 0.90% | ~3,067 |
+| Determined Deliveries | 0.90% | ~3,068 |
+| Stepping It Up | 0.90% | ~3,068 |
 | Boots in the Ground | 0.80% | ~2,727 |
 | Crossing Over | 0.80% | ~2,727 |
 | Getting Fancy | 0.70% | ~2,386 |
@@ -70,8 +70,8 @@ Rating: 4.27 (Ranked 819)
 | High End Booze | 0.40% | ~1,363 |
 | Working on the Railroad | 0.40% | ~1,363 |
 | In-House Maintenance | 0.40% | ~1,363 |
-| Bottled Up | 0.30% | ~1,022 |
-| Streetwise | 0.30% | ~1,022 |
+| Bottled Up | 0.30% | ~1,023 |
+| Streetwise | 0.30% | ~1,023 |
 | Dirty Work | 0.20% | ~682 |
 | Balkan Firewater | 0.20% | ~682 |
 | Windy City Win | 0.10% | ~341 |
@@ -86,7 +86,7 @@ Rating: 4.27 (Ranked 819)
 | High Pillow | 0.10% | ~341 |
 | Station Master | 0.10% | ~341 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 340,833 (Ranked 42)  
+Progressed: 340,844 (Ranked 42)  
 Completed: 7 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 7 (0.00%) (Ranked 266)
 | 2023-08-28 | 340,334 | 7 |
 | 2023-08-29 | 340,518 | 7 |
 | 2023-08-30 | 340,709 | 7 |
-| 2023-08-31 | 340,833 | 7 |
+| 2023-08-31 | 340,844 | 7 |
 ## Awards
 Max (Great for Beginners): 33  (Ranked 449)  
 Sum: 184 (Ranked 378)  

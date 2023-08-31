@@ -2,7 +2,7 @@
   "ID": "fd952b46a2ad411f8277811e3d9ce98f",
   "Name": "Mini Royale",
   "ProductSlug": "mini-royale-ad1dca",
-  "Ranking_EOS_Progress": 177,
+  "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 102,
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1794,
+  "EOS_Progressed": 1795,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -554,6 +554,11 @@
       "Time": "2023-08-31T14:03:45.6820309+00:00",
       "NumProgressed": 1794,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-31T18:04:33.5623873+00:00",
+      "NumProgressed": 1795,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-23T09:03:04.200541+00:00",
@@ -813,13 +818,13 @@
     {
       "ID": "413a09o",
       "IsBase": true,
-      "Progressed": 1794,
+      "Progressed": 1795,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-23T09:03:04.2005407+00:00",
-  "LastChanged_Achievements": "2023-08-31T17:03:53.6035523+00:00",
+  "LastChanged_Achievements": "2023-08-31T18:04:33.5623868+00:00",
   "LastUpdate_AppInfo": "2023-08-30T09:56:58.0286771+00:00",
-  "LastUpdate_Ratings": "2023-08-31T16:58:14.8178214+00:00",
-  "LastUpdate_Achievements": "2023-08-31T17:03:53.6035752+00:00"
+  "LastUpdate_Ratings": "2023-08-31T17:58:38.5505195+00:00",
+  "LastUpdate_Achievements": "2023-08-31T18:04:33.5624123+00:00"
 }

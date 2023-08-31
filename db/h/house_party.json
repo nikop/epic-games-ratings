@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
@@ -4857,9 +4857,9 @@
       "ID": "DnD_Ashley",
       "SetID": "bmkn7o4",
       "Name": "Drunk and Disorderly: Ashley",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 61
     },
     {
       "ID": "DnD_Madison",
@@ -5303,8 +5303,8 @@
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-08-31T08:00:08.7899457+00:00",
-  "LastChanged_Achievements": "2023-08-31T17:05:58.1183714+00:00",
+  "LastChanged_Achievements": "2023-08-31T18:07:07.8712896+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:30.0252908+00:00",
-  "LastUpdate_Ratings": "2023-08-31T17:00:15.2177585+00:00",
-  "LastUpdate_Achievements": "2023-08-31T17:05:58.1184735+00:00"
+  "LastUpdate_Ratings": "2023-08-31T18:01:11.6888447+00:00",
+  "LastUpdate_Achievements": "2023-08-31T18:07:07.871406+00:00"
 }

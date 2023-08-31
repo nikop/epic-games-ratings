@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17785,
+  "EOS_Progressed": 17787,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 173,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9483,6 +9483,11 @@
       "Time": "2023-08-31T17:06:37.2738606+00:00",
       "NumProgressed": 17785,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-31T18:07:56.3528358+00:00",
+      "NumProgressed": 17787,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -9510,7 +9515,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3023
+      "UsersEstimate": 3024
     },
     {
       "ID": "0004",
@@ -9534,7 +9539,7 @@
       "Name": "Chief Information Officer",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "0007",
@@ -9550,7 +9555,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3201
+      "UsersEstimate": 3202
     },
     {
       "ID": "0009",
@@ -9590,7 +9595,7 @@
       "Name": "Keycards Royale",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1778
+      "UsersEstimate": 1779
     },
     {
       "ID": "0014",
@@ -9622,7 +9627,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3379
+      "UsersEstimate": 3380
     },
     {
       "ID": "0018",
@@ -9646,7 +9651,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 11,
       "XP": 115,
-      "UsersEstimate": 1956
+      "UsersEstimate": 1957
     },
     {
       "ID": "0021",
@@ -9686,7 +9691,7 @@
       "Name": "Tailor-Made",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3201
+      "UsersEstimate": 3202
     },
     {
       "ID": "0026",
@@ -9702,7 +9707,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1956
+      "UsersEstimate": 1957
     },
     {
       "ID": "0028",
@@ -9726,7 +9731,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3201
+      "UsersEstimate": 3202
     },
     {
       "ID": "0031",
@@ -9742,7 +9747,7 @@
       "Name": "Killer Looks",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1956
+      "UsersEstimate": 1957
     },
     {
       "ID": "0033",
@@ -9781,7 +9786,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17785,
+      "Progressed": 17787,
       "Completed": 1
     }
   ],
@@ -9789,8 +9794,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-31T05:58:36.9186567+00:00",
-  "LastChanged_Achievements": "2023-08-31T17:06:37.2738601+00:00",
+  "LastChanged_Achievements": "2023-08-31T18:07:56.3528352+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:14.6586711+00:00",
-  "LastUpdate_Ratings": "2023-08-31T16:58:41.3958448+00:00",
-  "LastUpdate_Achievements": "2023-08-31T17:06:37.2739424+00:00"
+  "LastUpdate_Ratings": "2023-08-31T17:59:13.2644892+00:00",
+  "LastUpdate_Achievements": "2023-08-31T18:07:56.3529342+00:00"
 }

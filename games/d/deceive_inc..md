@@ -9,11 +9,11 @@ Rating: 4.58 (Ranked 429)
 | Mainframe Hacker | 23.00% | ~4,091 |
 | The Spy who eliminated me | 23.00% | ~4,091 |
 | Tomorrow Never Dyes | 22.00% | ~3,913 |
-| Never Say Loser Again | 19.00% | ~3,379 |
-| From the Vault with Love | 18.00% | ~3,201 |
-| Tailor-Made | 18.00% | ~3,201 |
-| For your Eyes only | 18.00% | ~3,201 |
-| Assistant Accountant | 17.00% | ~3,023 |
+| Never Say Loser Again | 19.00% | ~3,380 |
+| From the Vault with Love | 18.00% | ~3,202 |
+| Tailor-Made | 18.00% | ~3,202 |
+| For your Eyes only | 18.00% | ~3,202 |
+| Assistant Accountant | 17.00% | ~3,024 |
 | You Only Live Twice | 16.00% | ~2,846 |
 | Fully Decked Out | 16.00% | ~2,846 |
 | A view to Win | 13.00% | ~2,312 |
@@ -21,10 +21,10 @@ Rating: 4.58 (Ranked 429)
 | Private Collection | 12.00% | ~2,134 |
 | Hostile Takeover | 12.00% | ~2,134 |
 | Smells Like Trouble | 12.00% | ~2,134 |
-| Dr. No Kill | 11.00% | ~1,956 |
-| My Motto, My Creed | 11.00% | ~1,956 |
-| Killer Looks | 11.00% | ~1,956 |
-| Keycards Royale | 10.00% | ~1,778 |
+| Dr. No Kill | 11.00% | ~1,957 |
+| My Motto, My Creed | 11.00% | ~1,957 |
+| Killer Looks | 11.00% | ~1,957 |
+| Keycards Royale | 10.00% | ~1,779 |
 | In It to Win It | 9.00% | ~1,601 |
 | Security Supervisor | 6.00% | ~1,067 |
 | License to Thrill | 5.00% | ~889 |
@@ -37,12 +37,12 @@ Rating: 4.58 (Ranked 429)
 | The terminals are not enough | 1.00% | ~178 |
 | Lose Another Day | 1.00% | ~178 |
 | Chairman of Deceive Inc. | 0.90% | ~160 |
-| Chief Information Officer | 0.70% | ~124 |
+| Chief Information Officer | 0.70% | ~125 |
 | Masteries Are Forever | 0.40% | ~71 |
 | Extraction Confusion | 0.20% | ~36 |
 | Spyfall | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,785 (Ranked 111)  
+Progressed: 17,787 (Ranked 111)  
 Completed: 1 (0.01%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 1 (0.01%) (Ranked 253)
 | 2023-08-28 | 17,722 | 1 |
 | 2023-08-29 | 17,746 | 1 |
 | 2023-08-30 | 17,773 | 1 |
-| 2023-08-31 | 17,785 | 1 |
+| 2023-08-31 | 17,787 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
