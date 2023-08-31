@@ -378,9 +378,9 @@
       "ID": "die50",
       "SetID": "ci65fo0",
       "Name": "Loser",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "digTreasure1",
@@ -778,9 +778,9 @@
       "ID": "questDefeatMainEnemy",
       "SetID": "ci65fo0",
       "Name": "The most important achievement",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "questDefender",
@@ -874,9 +874,9 @@
       "ID": "questReturnSun",
       "SetID": "ci65fo0",
       "Name": "Let there be light!",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "questRobHut",
@@ -922,9 +922,9 @@
       "ID": "questSavePrincessFinal",
       "SetID": "ci65fo0",
       "Name": "Great rescuer",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "questSaveRoyalSmith",
@@ -975,8 +975,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-08-31T06:05:07.0782151+00:00",
+  "LastChanged_Achievements": "2023-08-31T07:04:36.8442793+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:06.5858382+00:00",
-  "LastUpdate_Ratings": "2023-08-31T05:59:36.7269735+00:00",
-  "LastUpdate_Achievements": "2023-08-31T06:05:07.0782947+00:00"
+  "LastUpdate_Ratings": "2023-08-31T06:59:28.1483227+00:00",
+  "LastUpdate_Achievements": "2023-08-31T07:04:36.8443588+00:00"
 }

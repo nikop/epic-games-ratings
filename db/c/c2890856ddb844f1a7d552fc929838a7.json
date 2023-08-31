@@ -2,7 +2,7 @@
   "ID": "c2890856ddb844f1a7d552fc929838a7",
   "Name": "Blasphemous 2",
   "ProductSlug": "blasphemous-2",
-  "Ranking_Rating": 43,
+  "Ranking_Rating": 42,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 224,
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 592,
+  "EOS_Progressed": 593,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 585,
+  "EOS_NewPlayers": 578,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -728,6 +728,11 @@
       "Time": "2023-08-31T05:07:18.5212057+00:00",
       "NumProgressed": 592,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-31T07:05:27.8185859+00:00",
+      "NumProgressed": 593,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -748,7 +753,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "AC02",
@@ -756,7 +761,7 @@
       "Name": "Blood and Dust",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "AC03",
@@ -764,15 +769,15 @@
       "Name": "Blood and Gold",
       "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "AC04",
       "SetID": "l4abp0",
       "Name": "Blood and Iron",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 337
+      "UsersEstimate": 332
     },
     {
       "ID": "AC05",
@@ -804,7 +809,7 @@
       "Name": "Forged in Fire",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "AC09",
@@ -868,7 +873,7 @@
       "Name": "Weight of Penance",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "AC17",
@@ -924,7 +929,7 @@
       "Name": "Hide and Seek",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "AC24",
@@ -980,7 +985,7 @@
       "Name": "The Anointed One",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "AC31",
@@ -996,7 +1001,7 @@
       "Name": "Nobody Expects the Spanish Inquisition!",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "AC33",
@@ -1044,7 +1049,7 @@
       "Name": "Edge of Orison",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "AC39",
@@ -1107,7 +1112,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 592,
+      "Progressed": 593,
       "Completed": 0
     }
   ],
@@ -1115,8 +1120,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-08-31T05:00:39.0192378+00:00",
-  "LastChanged_Achievements": "2023-08-31T06:05:56.4826318+00:00",
+  "LastChanged_Achievements": "2023-08-31T07:05:27.8185854+00:00",
   "LastUpdate_AppInfo": "2023-08-29T18:57:21.35462+00:00",
-  "LastUpdate_Ratings": "2023-08-31T05:59:23.2559143+00:00",
-  "LastUpdate_Achievements": "2023-08-31T06:05:56.4826726+00:00"
+  "LastUpdate_Ratings": "2023-08-31T06:59:13.9322845+00:00",
+  "LastUpdate_Achievements": "2023-08-31T07:05:27.8186258+00:00"
 }

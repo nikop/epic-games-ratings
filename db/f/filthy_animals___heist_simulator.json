@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7999,
+  "EOS_Progressed": 8000,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4838,6 +4838,11 @@
       "Time": "2023-08-31T04:05:03.0503761+00:00",
       "NumProgressed": 7999,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-31T07:05:09.1907561+00:00",
+      "NumProgressed": 8000,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 28,
@@ -4983,9 +4988,9 @@
       "ID": "nuclearSuccess",
       "SetID": "10d14j0",
       "Name": "Nuclear Plant Heisted",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 16
+      "UsersEstimate": 8
     },
     {
       "ID": "prisonAllObjectives",
@@ -5072,7 +5077,7 @@
     {
       "ID": "10d14j0",
       "IsBase": true,
-      "Progressed": 7999,
+      "Progressed": 8000,
       "Completed": 0
     }
   ],
@@ -5080,8 +5085,8 @@
   "FirstSeenRating": "2023-04-05T14:58:37.7953176+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.1467348+00:00",
   "LastChanged": "2023-04-05T14:58:37.7953178+00:00",
-  "LastChanged_Achievements": "2023-08-31T06:05:39.0213994+00:00",
+  "LastChanged_Achievements": "2023-08-31T07:05:09.1907555+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:38.2618907+00:00",
-  "LastUpdate_Ratings": "2023-08-31T06:00:26.1209342+00:00",
-  "LastUpdate_Achievements": "2023-08-31T06:05:39.021449+00:00"
+  "LastUpdate_Ratings": "2023-08-31T07:00:21.5939463+00:00",
+  "LastUpdate_Achievements": "2023-08-31T07:05:09.1908115+00:00"
 }

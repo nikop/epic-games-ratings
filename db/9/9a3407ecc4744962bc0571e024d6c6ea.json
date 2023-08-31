@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 520,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 381,
+  "EOS_NewPlayers": 379,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -928,9 +928,9 @@
       "ID": "EverythingIsDust",
       "SetID": "3ai6ml8",
       "Name": "Everything is Dust",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 109
+      "UsersEstimate": 114
     },
     {
       "ID": "LightsOut",
@@ -952,9 +952,9 @@
       "ID": "OnceMoreIntoTheBreach",
       "SetID": "3ai6ml8",
       "Name": "Once more into the Breach",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 239
+      "UsersEstimate": 244
     },
     {
       "ID": "Outpatient",
@@ -1023,8 +1023,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-08-31T06:04:41.3595434+00:00",
+  "LastChanged_Achievements": "2023-08-31T07:04:10.5669399+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:05.9137937+00:00",
-  "LastUpdate_Ratings": "2023-08-31T05:58:44.8783844+00:00",
-  "LastUpdate_Achievements": "2023-08-31T06:04:41.3595627+00:00"
+  "LastUpdate_Ratings": "2023-08-31T06:58:32.9522791+00:00",
+  "LastUpdate_Achievements": "2023-08-31T07:04:10.5669663+00:00"
 }

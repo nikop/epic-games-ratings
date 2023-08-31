@@ -5,7 +5,7 @@
   "Ranking_Rating": 756,
   "Ranking_Popularity": 273,
   "Ranking_PopularitySum": 224,
-  "Ranking_EOS_Progress": 284,
+  "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 103,
@@ -952,9 +952,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 250,
+  "EOS_Progressed": 254,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 245,
+  "EOS_NewPlayers": 249,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1057,6 +1057,11 @@
       "Time": "2023-08-31T06:06:19.6700476+00:00",
       "NumProgressed": 250,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-31T07:05:51.0257786+00:00",
+      "NumProgressed": 254,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -1115,9 +1120,9 @@
       "ID": "a_18",
       "SetID": "daiie3o",
       "Name": "Bye Bye",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 58
     },
     {
       "ID": "a_19",
@@ -1157,7 +1162,7 @@
       "Name": "A long journey",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "a_23",
@@ -1253,7 +1258,7 @@
       "Name": "Welcome to the club",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "a_36",
@@ -1316,7 +1321,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 250,
+      "Progressed": 254,
       "Completed": 0
     }
   ],
@@ -1324,8 +1329,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-08-28T14:01:21.7581903+00:00",
-  "LastChanged_Achievements": "2023-08-31T06:06:19.6700473+00:00",
+  "LastChanged_Achievements": "2023-08-31T07:05:51.0257779+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:37.0274623+00:00",
-  "LastUpdate_Ratings": "2023-08-31T06:00:25.6518991+00:00",
-  "LastUpdate_Achievements": "2023-08-31T06:06:19.6700689+00:00"
+  "LastUpdate_Ratings": "2023-08-31T07:00:21.222509+00:00",
+  "LastUpdate_Achievements": "2023-08-31T07:05:51.025805+00:00"
 }

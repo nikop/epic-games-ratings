@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 196,
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_NewPlayers": 69,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -573,9 +573,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 221577,
+  "EOS_Progressed": 221580,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 618,
+  "EOS_NewPlayers": 616,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14993,6 +14993,11 @@
       "Time": "2023-08-31T06:04:56.9006373+00:00",
       "NumProgressed": 221577,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-31T07:04:26.5908003+00:00",
+      "NumProgressed": 221580,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -15012,7 +15017,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 57610
+      "UsersEstimate": 57611
     },
     {
       "ID": "ACH_BASE_11",
@@ -15252,7 +15257,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 26589
+      "UsersEstimate": 26590
     },
     {
       "ID": "ACH_BASE_8",
@@ -15275,7 +15280,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 221577,
+      "Progressed": 221580,
       "Completed": 5
     }
   ],
@@ -15283,8 +15288,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-08-28T01:43:39.7274808+00:00",
-  "LastChanged_Achievements": "2023-08-31T06:04:56.9006368+00:00",
+  "LastChanged_Achievements": "2023-08-31T07:04:26.5907991+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:24.7662929+00:00",
-  "LastUpdate_Ratings": "2023-08-31T05:57:32.8533192+00:00",
-  "LastUpdate_Achievements": "2023-08-31T06:04:56.9007519+00:00"
+  "LastUpdate_Ratings": "2023-08-31T06:57:18.890426+00:00",
+  "LastUpdate_Achievements": "2023-08-31T07:04:26.5909202+00:00"
 }

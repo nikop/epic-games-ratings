@@ -13,7 +13,7 @@
 | We will need a bigger wardrobe | 40.00% | ~22 |
 | Stilesville Hidden Style | 33.00% | ~18 |
 | Barcelona Hidden Style | 27.00% | ~15 |
-| Creating New Trends | 24.00% | ~13 |
+| Creating New Trends | 25.00% | ~14 |
 | Best Gala Ever | 24.00% | ~13 |
 | Welcome to the The Stylin' Soiree | 24.00% | ~13 |
 | Scooter Race | 20.00% | ~11 |

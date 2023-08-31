@@ -17,8 +17,8 @@
 | Neurotrainer – power gainer! | 74.00% | ~216 |
 | First defeat | 73.00% | ~213 |
 | Run K, run! | 71.00% | ~207 |
+| Hello, world! | 68.00% | ~199 |
 | Fighting is cool | 67.00% | ~196 |
-| Hello, world! | 67.00% | ~196 |
 | No bullying more | 66.00% | ~193 |
 | Pal of your father? | 64.00% | ~187 |
 | Employee of the month | 63.00% | ~184 |
@@ -39,7 +39,7 @@
 | Now you are worthy | 48.00% | ~140 |
 | Guiding on the right path | 45.00% | ~131 |
 | Fight is life | 44.00% | ~128 |
-| Mysterious voice | 43.00% | ~126 |
+| Mysterious voice | 44.00% | ~128 |
 | No blades in the gym | 43.00% | ~126 |
 | Champion – no way back | 41.00% | ~120 |
 | Responsible approach | 40.00% | ~117 |

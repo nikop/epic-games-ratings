@@ -7,7 +7,7 @@ Number of Ratings: 94  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Well Socialised! | 23.00% | ~25,211 |
-| Variety Player - Bronze | 13.00% | ~14,249 |
+| Variety Player - Bronze | 13.00% | ~14,250 |
 | Express Yourself - Bronze | 7.00% | ~7,673 |
 | Getting Friendly | 5.00% | ~5,481 |
 | Challenge Apprentice | 5.00% | ~5,481 |
@@ -41,7 +41,7 @@ Number of Ratings: 94  (23.09.2022)
 | Featured Gamer - Silver | 0.10% | ~110 |
 | Featured Gamer - Gold | 0.10% | ~110 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 109,611 (Ranked 72)  
+Progressed: 109,612 (Ranked 72)  
 Completed: 5 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 5 (0.00%) (Ranked 266)
 | 2023-08-27 | 109,603 | 5 |
 | 2023-08-28 | 109,606 | 5 |
 | 2023-08-29 | 109,610 | 5 |
-| 2023-08-31 | 109,611 | 5 |
+| 2023-08-31 | 109,612 | 5 |
 ## Awards
 Max (Diverse Characters): 50  (Ranked 404)  
 Sum: 370 (Ranked 324)  

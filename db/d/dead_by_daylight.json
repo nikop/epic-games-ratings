@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 253,
   "Ranking_EOS_NewPlayers": 6,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2016-06-14T16:00:00+00:00",
@@ -9707,9 +9707,9 @@
       "Count": 23843
     }
   ],
-  "EOS_Progressed": 831777,
+  "EOS_Progressed": 831833,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 20868,
+  "EOS_NewPlayers": 20869,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -24542,6 +24542,11 @@
       "Time": "2023-08-31T06:08:09.2532106+00:00",
       "NumProgressed": 831777,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-08-31T07:06:30.899917+00:00",
+      "NumProgressed": 831833,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 229,
@@ -24783,9 +24788,9 @@
       "ID": "ACH_030",
       "SetID": "bdmlp8o",
       "Name": "Survival Treasures",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2495
+      "UsersEstimate": 3327
     },
     {
       "ID": "ACH_031",
@@ -26384,21 +26389,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 831777,
+      "Progressed": 831833,
       "Completed": 40
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 831777,
+      "Progressed": 831833,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-08-31T05:00:17.9163742+00:00",
-  "LastChanged_Achievements": "2023-08-31T06:08:09.2532101+00:00",
+  "LastChanged_Achievements": "2023-08-31T07:06:30.8999164+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:54.3324879+00:00",
-  "LastUpdate_Ratings": "2023-08-31T05:59:09.389311+00:00",
-  "LastUpdate_Achievements": "2023-08-31T06:08:09.2539035+00:00"
+  "LastUpdate_Ratings": "2023-08-31T06:58:59.0112863+00:00",
+  "LastUpdate_Achievements": "2023-08-31T07:06:30.9006644+00:00"
 }

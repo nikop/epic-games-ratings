@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 32,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewPlayers": 74,
   "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
@@ -480,7 +480,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 526306,
+  "EOS_Progressed": 526307,
   "EOS_Completed": 467,
   "EOS_NewPlayers": 569,
   "EOS_NewCompleters": 4,
@@ -14610,6 +14610,11 @@
       "Time": "2023-08-31T06:08:14.4883249+00:00",
       "NumProgressed": 526306,
       "NumCompleted": 467
+    },
+    {
+      "Time": "2023-08-31T07:06:35.3823402+00:00",
+      "NumProgressed": 526307,
+      "NumCompleted": 467
     }
   ],
   "TotalAchievements": 57,
@@ -14621,7 +14626,7 @@
       "Name": "AAARR!",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 121050
+      "UsersEstimate": 121051
     },
     {
       "ID": "10",
@@ -14637,7 +14642,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 368414
+      "UsersEstimate": 368415
     },
     {
       "ID": "12",
@@ -14645,7 +14650,7 @@
       "Name": "Wind At Our Backs",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 115787
+      "UsersEstimate": 115788
     },
     {
       "ID": "13",
@@ -14717,7 +14722,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 126313
+      "UsersEstimate": 126314
     },
     {
       "ID": "21",
@@ -14845,7 +14850,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 263153
+      "UsersEstimate": 263154
     },
     {
       "ID": "36",
@@ -14925,7 +14930,7 @@
       "Name": "Under the Radar",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 42104
+      "UsersEstimate": 42105
     },
     {
       "ID": "45",
@@ -15005,7 +15010,7 @@
       "Name": "Hello Darkness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 121050
+      "UsersEstimate": 121051
     },
     {
       "ID": "54",
@@ -15076,15 +15081,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 526306,
+      "Progressed": 526307,
       "Completed": 467
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-08-31T06:08:14.4883241+00:00",
+  "LastChanged_Achievements": "2023-08-31T07:06:35.3823396+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:23.9652086+00:00",
-  "LastUpdate_Ratings": "2023-08-31T06:00:01.4611055+00:00",
-  "LastUpdate_Achievements": "2023-08-31T06:08:14.4884638+00:00"
+  "LastUpdate_Ratings": "2023-08-31T06:59:54.5628518+00:00",
+  "LastUpdate_Achievements": "2023-08-31T07:06:35.3824848+00:00"
 }

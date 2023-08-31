@@ -33,7 +33,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Old Child | 1.00% | ~7,128 |
 | Kung-Fu Tussle | 1.00% | ~7,128 |
 | The best strikes are the ones we avoid | 1.00% | ~221 |
-| Muk Yan Master | 0.90% | ~6,415 |
+| Muk Yan Master | 0.90% | ~6,416 |
 | Tiger on Fire | 0.80% | ~5,703 |
 | Source of Flying Daggers | 0.80% | ~5,703 |
 | Detective Story | 0.80% | ~5,703 |
@@ -52,12 +52,12 @@ Number of Ratings: 9,492  (23.09.2022)
 | Master of the Phoenix Eye Fist | 0.40% | ~2,851 |
 | The Pit Protector | 0.40% | ~2,851 |
 | Come Snap With Me | 0.40% | ~2,851 |
-| Healing Memory | 0.30% | ~2,138 |
-| Be like water my friend | 0.30% | ~2,138 |
+| Healing Memory | 0.30% | ~2,139 |
+| Be like water my friend | 0.30% | ~2,139 |
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,426 |
 | Warriors from the Mountain | 0.10% | ~713 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,833 (Ranked 20)  
+Progressed: 712,835 (Ranked 20)  
 Completed: 12,877 (1.81%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 12,877 (1.81%) (Ranked 99)
 | 2023-08-28 | 712,797 | 12,876 |
 | 2023-08-29 | 712,811 | 12,876 |
 | 2023-08-30 | 712,826 | 12,877 |
-| 2023-08-31 | 712,833 | 12,877 |
+| 2023-08-31 | 712,835 | 12,877 |
 ## Awards
 Max (Great Boss Battles): 6,415  (Ranked 54)  
 Sum: 11,021 (Ranked 80)  

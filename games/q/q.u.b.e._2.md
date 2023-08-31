@@ -8,10 +8,10 @@ Number of Ratings: 94  (23.09.2022)
 | ---- | ---------- | ----- |
 | Quick Understanding of Block Extrusion | 53.00% | ~41 |
 | Lost in Space | 50.00% | ~39 |
-| Power Glove | 38.00% | ~30 |
+| Power Glove | 40.00% | ~31 |
+| Forgotten Memories | 37.00% | ~29 |
 | Nature or Nurture | 36.00% | ~28 |
-| Forgotten Memories | 36.00% | ~28 |
-| Cogs in the Machine | 29.00% | ~23 |
+| Cogs in the Machine | 31.00% | ~24 |
 | Green Cube Killer | 5.00% | ~4 |
 | To Infinity and Beyond | 5.00% | ~4 |
 | Descendants | 3.00% | ~2 |

@@ -324,9 +324,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 67481,
+  "EOS_Progressed": 67482,
   "EOS_Completed": 350,
-  "EOS_NewPlayers": 898,
+  "EOS_NewPlayers": 891,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -14759,6 +14759,11 @@
       "Time": "2023-08-31T06:06:25.1305061+00:00",
       "NumProgressed": 67481,
       "NumCompleted": 350
+    },
+    {
+      "Time": "2023-08-31T07:05:56.8094557+00:00",
+      "NumProgressed": 67482,
+      "NumCompleted": 350
     }
   ],
   "TotalAchievements": 24,
@@ -14786,7 +14791,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 45887
+      "UsersEstimate": 45888
     },
     {
       "ID": "BEST_FRIENDS",
@@ -14826,7 +14831,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 19569
+      "UsersEstimate": 19570
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -14866,7 +14871,7 @@
       "Name": "MATCH MAKER",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 5398
+      "UsersEstimate": 5399
     },
     {
       "ID": "NONE_FORGOTTEN",
@@ -14898,7 +14903,7 @@
       "Name": "PLAGUE DOCTOR",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 5398
+      "UsersEstimate": 5399
     },
     {
       "ID": "SPIRITED_AWAY",
@@ -14906,7 +14911,7 @@
       "Name": "SPIRITED AWAY",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 5398
+      "UsersEstimate": 5399
     },
     {
       "ID": "SPIRIT_BARK",
@@ -14961,7 +14966,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 67481,
+      "Progressed": 67482,
       "Completed": 350
     }
   ],
@@ -14969,8 +14974,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-08-31T06:06:25.1305056+00:00",
+  "LastChanged_Achievements": "2023-08-31T07:05:56.809455+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:56.7708219+00:00",
-  "LastUpdate_Ratings": "2023-08-31T05:58:20.3932648+00:00",
-  "LastUpdate_Achievements": "2023-08-31T06:06:25.130619+00:00"
+  "LastUpdate_Ratings": "2023-08-31T06:58:08.5919539+00:00",
+  "LastUpdate_Achievements": "2023-08-31T07:05:56.8095825+00:00"
 }

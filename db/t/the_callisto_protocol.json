@@ -1126,7 +1126,7 @@
   ],
   "EOS_Progressed": 15906,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -6886,9 +6886,9 @@
       "ID": "KILL_MANY_WITH_HAZARD",
       "SetID": "4hj6d86",
       "Name": "Chew \u0027Em Up",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 477
+      "UsersEstimate": 636
     },
     {
       "ID": "KILL_ROBOT",
@@ -7149,8 +7149,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-08-30T19:57:09.7413651+00:00",
-  "LastChanged_Achievements": "2023-08-31T06:05:39.361712+00:00",
+  "LastChanged_Achievements": "2023-08-31T07:05:09.7396655+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:47.4155598+00:00",
-  "LastUpdate_Ratings": "2023-08-31T05:57:17.4775464+00:00",
-  "LastUpdate_Achievements": "2023-08-31T06:05:39.3617877+00:00"
+  "LastUpdate_Ratings": "2023-08-31T06:57:02.7046838+00:00",
+  "LastUpdate_Achievements": "2023-08-31T07:05:09.7397509+00:00"
 }

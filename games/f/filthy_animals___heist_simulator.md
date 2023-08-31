@@ -10,7 +10,6 @@
 | Sewer Objectives Complete | 1.00% | ~80 |
 | Bank Heisted | 0.60% | ~48 |
 | Crocodile Maxed Out | 0.20% | ~16 |
-| Nuclear Plant Heisted | 0.20% | ~16 |
 | All Objectives Complete | 0.10% | ~8 |
 | All Gold Chest Slots Unlocked | 0.10% | ~8 |
 | Bandit Camp Heisted | 0.10% | ~8 |
@@ -20,6 +19,7 @@
 | Military Base Heisted | 0.10% | ~8 |
 | Monkey Maxed Out | 0.10% | ~8 |
 | Moose Maxed Out | 0.10% | ~8 |
+| Nuclear Plant Heisted | 0.10% | ~8 |
 | Prison Objectives Complete | 0.10% | ~8 |
 | Prison Heisted | 0.10% | ~8 |
 | Got All The Serums | 0.00% | ~0 |
@@ -33,7 +33,7 @@
 | Temple Objectives Complete | 0.00% | ~0 |
 | Temple Heisted | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,999 (Ranked 133)  
+Progressed: 8,000 (Ranked 133)  
 Completed: 0 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 0 (0.00%) (Ranked 266)
 | 2023-08-28 | 7,951 | 0 |
 | 2023-08-29 | 7,982 | 0 |
 | 2023-08-30 | 7,996 | 0 |
-| 2023-08-31 | 7,999 | 0 |
+| 2023-08-31 | 8,000 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

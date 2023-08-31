@@ -386,7 +386,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19064,
+  "EOS_Progressed": 19065,
   "EOS_Completed": 381,
   "EOS_NewPlayers": 537,
   "EOS_NewCompleters": 7,
@@ -14556,6 +14556,11 @@
       "Time": "2023-08-31T06:08:19.0209916+00:00",
       "NumProgressed": 19064,
       "NumCompleted": 381
+    },
+    {
+      "Time": "2023-08-31T07:06:39.8589258+00:00",
+      "NumProgressed": 19065,
+      "NumCompleted": 381
     }
   ],
   "TotalAchievements": 20,
@@ -14711,7 +14716,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1334
+      "UsersEstimate": 1335
     },
     {
       "ID": "WEST_FINISHED",
@@ -14726,15 +14731,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 19064,
+      "Progressed": 19065,
       "Completed": 381
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-08-29T02:43:58.1084625+00:00",
-  "LastChanged_Achievements": "2023-08-31T06:08:19.0209912+00:00",
+  "LastChanged_Achievements": "2023-08-31T07:06:39.8589253+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:40.7243022+00:00",
-  "LastUpdate_Ratings": "2023-08-31T05:58:54.5543246+00:00",
-  "LastUpdate_Achievements": "2023-08-31T06:08:19.0210919+00:00"
+  "LastUpdate_Ratings": "2023-08-31T06:58:43.4801972+00:00",
+  "LastUpdate_Achievements": "2023-08-31T07:06:39.8590182+00:00"
 }

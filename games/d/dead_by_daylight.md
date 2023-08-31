@@ -12,6 +12,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Skillful | 0.50% | ~4,159 |
 | Not half bad | 0.40% | ~3,327 |
 | Apt Survivor | 0.40% | ~3,327 |
+| Survival Treasures | 0.40% | ~3,327 |
 | Make Some Noise | 0.40% | ~3,327 |
 | Terror of LV-426 | 0.40% | ~3,327 |
 | The Grand Sacrifice | 0.30% | ~2,495 |
@@ -20,7 +21,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Handyman | 0.30% | ~2,495 |
 | Nerves of steel | 0.30% | ~2,495 |
 | Bloody Millionaire | 0.30% | ~2,495 |
-| Survival Treasures | 0.30% | ~2,495 |
 | I | 0.30% | ~2,495 |
 | Sorted | 0.30% | ~2,495 |
 | Healthy Obsession | 0.30% | ~2,495 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~832 |
 | Adept Ripley | 0.10% | ~832 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 831,777 (Ranked 15)  
+Progressed: 831,833 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -369,7 +369,7 @@ Completed: 48 (0.01%) (Ranked 253)
 | 2023-08-28 | 824,988 | 48 |
 | 2023-08-29 | 828,020 | 48 |
 | 2023-08-30 | 831,117 | 48 |
-| 2023-08-31 | 831,777 | 48 |
+| 2023-08-31 | 831,833 | 48 |
 ## Awards
 Max (Diverse Characters): 31,677  (Ranked 15)  
 Sum: 248,632 (Ranked 11)  
