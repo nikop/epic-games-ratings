@@ -6,10 +6,10 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 0.60% | ~4,990 |
-| MU/TH/UR Dearest | 0.60% | ~4,990 |
+| It wakes | 0.60% | ~4,991 |
+| MU/TH/UR Dearest | 0.60% | ~4,991 |
+| Zealous | 0.50% | ~4,159 |
 | Skillful | 0.50% | ~4,159 |
-| Zealous | 0.40% | ~3,327 |
 | Not half bad | 0.40% | ~3,327 |
 | Apt Survivor | 0.40% | ~3,327 |
 | Make Some Noise | 0.40% | ~3,327 |
@@ -23,24 +23,24 @@ Number of Ratings: 70,340  (23.09.2022)
 | Survival Treasures | 0.30% | ~2,495 |
 | I | 0.30% | ~2,495 |
 | Sorted | 0.30% | ~2,495 |
+| Healthy Obsession | 0.30% | ~2,495 |
 | Resurgence | 0.30% | ~2,495 |
-| Agonizing Escape | 0.20% | ~1,663 |
-| Backdoor Escape | 0.20% | ~1,663 |
-| I've got your back | 0.20% | ~1,663 |
-| Perfect Escape | 0.20% | ~1,663 |
-| Perfect Killing | 0.20% | ~1,663 |
-| Apt Killer | 0.20% | ~1,663 |
-| Risk it all | 0.20% | ~1,663 |
-| Vulture | 0.20% | ~1,663 |
-| II | 0.20% | ~1,663 |
-| III | 0.20% | ~1,663 |
-| Engineer | 0.20% | ~1,663 |
-| Wounded Healer | 0.20% | ~1,663 |
-| Healthy Obsession | 0.20% | ~1,663 |
-| Close Shave | 0.20% | ~1,663 |
-| Preemptive Strike | 0.20% | ~1,663 |
-| Humanitarian | 0.20% | ~1,663 |
-| Second Act | 0.20% | ~1,663 |
+| Agonizing Escape | 0.20% | ~1,664 |
+| Backdoor Escape | 0.20% | ~1,664 |
+| I've got your back | 0.20% | ~1,664 |
+| Perfect Escape | 0.20% | ~1,664 |
+| Perfect Killing | 0.20% | ~1,664 |
+| Apt Killer | 0.20% | ~1,664 |
+| Risk it all | 0.20% | ~1,664 |
+| Vulture | 0.20% | ~1,664 |
+| II | 0.20% | ~1,664 |
+| III | 0.20% | ~1,664 |
+| Engineer | 0.20% | ~1,664 |
+| Wounded Healer | 0.20% | ~1,664 |
+| Close Shave | 0.20% | ~1,664 |
+| Preemptive Strike | 0.20% | ~1,664 |
+| Humanitarian | 0.20% | ~1,664 |
+| Second Act | 0.20% | ~1,664 |
 | A bite for the Entity | 0.10% | ~832 |
 | A feast for the Entity | 0.10% | ~832 |
 | Blood on your hands | 0.10% | ~832 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~832 |
 | Adept Ripley | 0.10% | ~832 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 831,703 (Ranked 15)  
+Progressed: 831,777 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -369,7 +369,7 @@ Completed: 48 (0.01%) (Ranked 253)
 | 2023-08-28 | 824,988 | 48 |
 | 2023-08-29 | 828,020 | 48 |
 | 2023-08-30 | 831,117 | 48 |
-| 2023-08-31 | 831,703 | 48 |
+| 2023-08-31 | 831,777 | 48 |
 ## Awards
 Max (Diverse Characters): 31,677  (Ranked 15)  
 Sum: 248,632 (Ranked 11)  

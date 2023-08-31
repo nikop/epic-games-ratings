@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 38,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -1489,9 +1489,9 @@
       "Count": 247
     }
   ],
-  "EOS_Progressed": 198925,
+  "EOS_Progressed": 198928,
   "EOS_Completed": 74,
-  "EOS_NewPlayers": 1990,
+  "EOS_NewPlayers": 1988,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -16294,6 +16294,11 @@
       "Time": "2023-08-31T05:06:52.0829573+00:00",
       "NumProgressed": 198925,
       "NumCompleted": 74
+    },
+    {
+      "Time": "2023-08-31T06:05:38.0275733+00:00",
+      "NumProgressed": 198928,
+      "NumCompleted": 74
     }
   ],
   "TotalAchievements": 44,
@@ -16305,7 +16310,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 17903
+      "UsersEstimate": 17904
     },
     {
       "ID": "AtheistOx",
@@ -16313,7 +16318,7 @@
       "Name": "Atheist Ox",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 3978
+      "UsersEstimate": 3979
     },
     {
       "ID": "ChickenDinner",
@@ -16359,9 +16364,9 @@
       "ID": "FlyingRocks",
       "SetID": "ak6bfk8",
       "Name": "Flying Rocks",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 9946
+      "UsersEstimate": 11936
     },
     {
       "ID": "GearUp",
@@ -16417,7 +16422,7 @@
       "Name": "It\u0027s raining men",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 3978
+      "UsersEstimate": 3979
     },
     {
       "ID": "Jonin",
@@ -16489,7 +16494,7 @@
       "Name": "Old Man",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 3978
+      "UsersEstimate": 3979
     },
     {
       "ID": "PraiseTheShogun",
@@ -16593,7 +16598,7 @@
       "Name": "Thorough",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 19892
+      "UsersEstimate": 19893
     },
     {
       "ID": "TimeParadox",
@@ -16641,7 +16646,7 @@
       "Name": "Winner Winner",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 3978
+      "UsersEstimate": 3979
     },
     {
       "ID": "Yabu",
@@ -16656,15 +16661,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 198925,
+      "Progressed": 198928,
       "Completed": 74
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-08-31T02:58:21.4925268+00:00",
-  "LastChanged_Achievements": "2023-08-31T05:06:52.0829565+00:00",
+  "LastChanged_Achievements": "2023-08-31T06:05:38.0275728+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:44.6562489+00:00",
-  "LastUpdate_Ratings": "2023-08-31T04:58:52.4010092+00:00",
-  "LastUpdate_Achievements": "2023-08-31T05:06:52.0831855+00:00"
+  "LastUpdate_Ratings": "2023-08-31T05:58:13.2429178+00:00",
+  "LastUpdate_Achievements": "2023-08-31T06:05:38.0276988+00:00"
 }

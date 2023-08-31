@@ -10,7 +10,7 @@
 | Roller Race | 42.00% | ~23 |
 | Born to Win | 40.00% | ~22 |
 | Welcome to Seoul | 40.00% | ~22 |
-| We will need a bigger wardrobe | 38.00% | ~21 |
+| We will need a bigger wardrobe | 40.00% | ~22 |
 | Stilesville Hidden Style | 33.00% | ~18 |
 | Barcelona Hidden Style | 27.00% | ~15 |
 | Creating New Trends | 24.00% | ~13 |

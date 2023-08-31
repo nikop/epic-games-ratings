@@ -4,11 +4,11 @@
   "ProductSlug": "railgrade",
   "Ranking_Rating": 504,
   "Ranking_Popularity": 354,
-  "Ranking_PopularitySum": 288,
+  "Ranking_PopularitySum": 287,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-09-29T14:00:00+00:00",
     "PcReleaseDate": "2022-09-29T14:00:00+00:00",
@@ -436,10 +436,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 660,
       "NumberOfAwardsMax": 88
+    },
+    {
+      "Time": "2023-08-31T05:58:24.7419461+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 662,
+      "NumberOfAwardsMax": 88
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 660,
+  "NumberOfAwards": 662,
   "NumberOfAwardsMax": 88,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -459,7 +465,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 87
+      "Count": 88
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -489,7 +495,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 41
+      "Count": 42
     },
     {
       "Text": "This game has Challenging Combat",
@@ -506,7 +512,7 @@
   ],
   "EOS_Progressed": 19559,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -5692,9 +5698,9 @@
   "FirstSeen": "2022-09-29T18:01:57.1676877+00:00",
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
-  "LastChanged": "2023-08-13T13:03:32.8412912+00:00",
-  "LastChanged_Achievements": "2023-08-31T05:07:25.3142101+00:00",
+  "LastChanged": "2023-08-31T05:58:24.7419459+00:00",
+  "LastChanged_Achievements": "2023-08-31T06:06:01.6174018+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:59.038417+00:00",
-  "LastUpdate_Ratings": "2023-08-31T04:59:09.4361771+00:00",
-  "LastUpdate_Achievements": "2023-08-31T05:07:25.3142722+00:00"
+  "LastUpdate_Ratings": "2023-08-31T05:58:24.7419465+00:00",
+  "LastUpdate_Achievements": "2023-08-31T06:06:01.6174605+00:00"
 }

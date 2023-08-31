@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -3684,9 +3684,9 @@
       "ID": "NEW_ACHIEVEMENT_MINER",
       "SetID": "l546gc",
       "Name": "Miner",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 374
+      "UsersEstimate": 390
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -3829,8 +3829,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-08-28T18:01:28.2761395+00:00",
-  "LastChanged_Achievements": "2023-08-31T05:05:06.5400242+00:00",
+  "LastChanged_Achievements": "2023-08-31T06:04:24.2232137+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:32.8469898+00:00",
-  "LastUpdate_Ratings": "2023-08-31T05:01:44.6524012+00:00",
-  "LastUpdate_Achievements": "2023-08-31T05:05:06.5400858+00:00"
+  "LastUpdate_Ratings": "2023-08-31T06:00:06.3861913+00:00",
+  "LastUpdate_Achievements": "2023-08-31T06:04:24.2232728+00:00"
 }

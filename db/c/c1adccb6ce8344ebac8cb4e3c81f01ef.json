@@ -4,7 +4,7 @@
   "ProductSlug": "evalinathe-sorceress-a9a60a",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 93,
-  "Ranking_EOS_NewPlayers": 100,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2023-06-20T08:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 425,
+  "EOS_Progressed": 426,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 237,
+  "EOS_NewPlayers": 238,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 2.12,
+  "EOS_Completed_Percentage": 2.11,
   "EosHistory": [
     {
       "Time": "2023-06-26T21:03:11.1861868+00:00",
@@ -1326,6 +1326,11 @@
       "Time": "2023-08-31T04:03:35.6046814+00:00",
       "NumProgressed": 425,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-31T06:04:14.8969934+00:00",
+      "NumProgressed": 426,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-06-26T21:03:11.1861911+00:00",
@@ -1338,7 +1343,7 @@
       "Name": "Black Skeleton",
       "Percentage": 2,
       "XP": 200,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "BlueSkeleton",
@@ -1360,9 +1365,9 @@
       "ID": "OrangeSkeleton",
       "SetID": "a76l54k",
       "Name": "Orange Skeleton",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 183
+      "UsersEstimate": 179
     },
     {
       "ID": "RedSkeleton",
@@ -1385,14 +1390,14 @@
     {
       "ID": "a76l54k",
       "IsBase": true,
-      "Progressed": 425,
+      "Progressed": 426,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-06-27T08:56:55.4742028+00:00",
   "FirstSeenAchievements": "2023-06-15T10:01:05.3060571+00:00",
-  "LastChanged_Achievements": "2023-08-31T05:04:52.9425731+00:00",
+  "LastChanged_Achievements": "2023-08-31T06:04:14.8969929+00:00",
   "LastUpdate_AppInfo": "2023-08-24T17:57:03.5736235+00:00",
-  "LastUpdate_Ratings": "2023-08-31T05:00:54.7455685+00:00",
-  "LastUpdate_Achievements": "2023-08-31T05:04:52.9425942+00:00"
+  "LastUpdate_Ratings": "2023-08-31T05:59:33.5999083+00:00",
+  "LastUpdate_Achievements": "2023-08-31T06:04:14.8970079+00:00"
 }

@@ -176,19 +176,19 @@ Completed: 37 (0.19%) (Ranked 193)
 | 2023-08-31 | 19,559 | 37 |
 ## Awards
 Max (Highly Recommended): 88  (Ranked 354)  
-Sum: 660 (Ranked 288)  
-Diff (max vs sum): 66  
+Sum: 662 (Ranked 287)  
+Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
+| This game is Great for Beginners | 88 |
 | This game has Quickly Understood Controls | 88 |
 | This game is Highly Recommended | 88 |
 | This game is Relaxing | 87 |
-| This game is Great for Beginners | 87 |
 | This game is Extremely Fun | 84 |
 | This game has Amazing Storytelling | 80 |
 | This game has Unique Visuals | 59 |
 | This game has Amazing Characters | 46 |
-| This game has a Creative Community | 41 |
+| This game has a Creative Community | 42 |
 | This game has Challenging Combat | 29 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -247,3 +247,4 @@ Diff (max vs sum): 66
 | 2023-08-07 | 4.54 | 87 | 657 |
 | 2023-08-08 | 4.54 | 87 | 658 |
 | 2023-08-13 | 4.54 | 88 | 660 |
+| 2023-08-31 | 4.54 | 88 | 662 |

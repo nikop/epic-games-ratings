@@ -6,32 +6,32 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~716,594 |
-| The Blues | 85.00% | ~615,257 |
-| Fast | 66.00% | ~477,729 |
-| Healthbar | 55.00% | ~398,108 |
-| Force Cube | 53.00% | ~383,631 |
-| Double Jump | 48.00% | ~347,439 |
-| Regeneration | 47.00% | ~340,201 |
-| Triple Jump | 43.00% | ~311,248 |
-| Climb the hill | 42.00% | ~304,009 |
-| Through the fire pipe | 39.00% | ~282,294 |
-| MacGuffin | 38.00% | ~275,056 |
-| Just once | 37.00% | ~267,818 |
+| Out of bed | 99.00% | ~716,596 |
+| The Blues | 85.00% | ~615,259 |
+| Fast | 66.00% | ~477,730 |
+| Healthbar | 55.00% | ~398,109 |
+| Force Cube | 53.00% | ~383,632 |
+| Double Jump | 48.00% | ~347,440 |
+| Regeneration | 47.00% | ~340,202 |
+| Triple Jump | 43.00% | ~311,249 |
+| Climb the hill | 42.00% | ~304,010 |
+| Through the fire pipe | 39.00% | ~282,295 |
+| MacGuffin | 38.00% | ~275,057 |
+| Just once | 37.00% | ~267,819 |
 | Armor | 30.00% | ~217,150 |
-| True holy spirit | 28.00% | ~202,673 |
-| That's how electronics work obviously | 26.00% | ~188,196 |
+| True holy spirit | 28.00% | ~202,674 |
+| That's how electronics work obviously | 26.00% | ~188,197 |
 | Force Cube Catapult | 25.00% | ~180,958 |
-| Holy Sword | 23.00% | ~166,481 |
+| Holy Sword | 23.00% | ~166,482 |
 | Telefrag | 22.00% | ~159,243 |
 | Freed from prison | 21.00% | ~152,005 |
 | Stomp | 21.00% | ~152,005 |
 | Double Health | 18.00% | ~130,290 |
-| Buckle | 17.00% | ~123,051 |
-| Green Keycard | 17.00% | ~123,051 |
+| Buckle | 17.00% | ~123,052 |
+| Green Keycard | 17.00% | ~123,052 |
 | Rattle Hag | 15.00% | ~108,575 |
-| All Shells | 14.00% | ~101,336 |
-| Beam | 14.00% | ~101,336 |
+| All Shells | 14.00% | ~101,337 |
+| Beam | 14.00% | ~101,337 |
 | Health Drink | 13.00% | ~94,098 |
 | 9 | 13.00% | ~94,098 |
 | Purple Cube | 13.00% | ~94,098 |
@@ -95,9 +95,9 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: Thrown | 0.40% | ~2,895 |
 | DLC: To the House | 0.40% | ~2,895 |
 | DLC: Knock, Knock, Knockin' on Wooden Doors | 0.40% | ~2,895 |
-| DLC: Birds | 0.30% | ~2,171 |
-| DLC: Horticultural | 0.30% | ~2,171 |
-| DLC: Non-NPC | 0.30% | ~2,171 |
+| DLC: Birds | 0.30% | ~2,172 |
+| DLC: Horticultural | 0.30% | ~2,172 |
+| DLC: Non-NPC | 0.30% | ~2,172 |
 | DLC: The Giant's Workshop | 0.20% | ~1,448 |
 | DLC: Invisible Wall | 0.20% | ~1,448 |
 | DLC: A good cause! | 0.20% | ~1,448 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~724 |
 | DLC: Top of the world | 0.10% | ~724 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 723,832 (Ranked 19)  
+Progressed: 723,834 (Ranked 19)  
 Completed: 730 (0.10%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 730 (0.10%) (Ranked 213)
 | 2023-08-28 | 723,579 | 728 |
 | 2023-08-29 | 723,703 | 730 |
 | 2023-08-30 | 723,812 | 730 |
-| 2023-08-31 | 723,832 | 730 |
+| 2023-08-31 | 723,834 | 730 |
 ## Awards
 Max (Challenging Puzzles): 7,682  (Ranked 45)  
 Sum: 10,008 (Ranked 86)  

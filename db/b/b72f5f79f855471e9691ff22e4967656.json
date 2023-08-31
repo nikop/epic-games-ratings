@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 358,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
     "PcReleaseDate": "2019-03-08T06:00:00+00:00",
@@ -842,9 +842,9 @@
       "ID": "questNorthGraveyard",
       "SetID": "ci65fo0",
       "Name": "In charge of the cemetery",
-      "Percentage": 17,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "questPumpkinKing",
@@ -858,9 +858,9 @@
       "ID": "questReachLord",
       "SetID": "ci65fo0",
       "Name": "Castle feels like home",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "questRedsBoss",
@@ -975,8 +975,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-08-31T05:06:07.8559525+00:00",
+  "LastChanged_Achievements": "2023-08-31T06:05:07.0782151+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:06.5858382+00:00",
-  "LastUpdate_Ratings": "2023-08-31T05:00:59.5857021+00:00",
-  "LastUpdate_Achievements": "2023-08-31T05:06:07.8561022+00:00"
+  "LastUpdate_Ratings": "2023-08-31T05:59:36.7269735+00:00",
+  "LastUpdate_Achievements": "2023-08-31T06:05:07.0782947+00:00"
 }

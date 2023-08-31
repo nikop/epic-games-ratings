@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -302,9 +302,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16754,
+  "EOS_Progressed": 16755,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 206,
+  "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -10532,6 +10532,11 @@
       "Time": "2023-08-31T05:09:01.7649173+00:00",
       "NumProgressed": 16754,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-08-31T06:08:19.1178522+00:00",
+      "NumProgressed": 16755,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 16,
@@ -10567,7 +10572,7 @@
       "Name": "Don\u0027t Fear The Reaper",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 2010
+      "UsersEstimate": 2011
     },
     {
       "ID": "Eyes_On_Fire",
@@ -10670,15 +10675,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 16754,
+      "Progressed": 16755,
       "Completed": 102
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-07-21T02:04:12.2963456+00:00",
-  "LastChanged_Achievements": "2023-08-31T05:09:01.7649164+00:00",
+  "LastChanged_Achievements": "2023-08-31T06:08:19.1178517+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:38.6700837+00:00",
-  "LastUpdate_Ratings": "2023-08-31T04:58:43.8988804+00:00",
-  "LastUpdate_Achievements": "2023-08-31T05:09:01.7650481+00:00"
+  "LastUpdate_Ratings": "2023-08-31T05:58:07.5681911+00:00",
+  "LastUpdate_Achievements": "2023-08-31T06:08:19.1179233+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 36,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-04-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-23T00:00:00+00:00",
@@ -2606,9 +2606,9 @@
       "Count": 145
     }
   ],
-  "EOS_Progressed": 639613,
+  "EOS_Progressed": 639615,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 2474,
+  "EOS_NewPlayers": 2467,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17336,6 +17336,11 @@
       "Time": "2023-08-31T05:08:50.633175+00:00",
       "NumProgressed": 639613,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-31T06:08:11.123698+00:00",
+      "NumProgressed": 639615,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 52,
@@ -17355,7 +17360,7 @@
       "Name": "Hiker",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 70357
+      "UsersEstimate": 70358
     },
     {
       "ID": "_01_02_DISTANCE_500_EASY",
@@ -17387,7 +17392,7 @@
       "Name": "Advanced Stroller",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 108734
+      "UsersEstimate": 108735
     },
     {
       "ID": "_01_06_DISTANCE_200_MEDIUM",
@@ -17762,15 +17767,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 639613,
+      "Progressed": 639615,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-08-30T19:00:01.8107545+00:00",
-  "LastChanged_Achievements": "2023-08-31T05:08:50.6331743+00:00",
+  "LastChanged_Achievements": "2023-08-31T06:08:11.1236976+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:32.3107945+00:00",
-  "LastUpdate_Ratings": "2023-08-31T05:01:43.5340542+00:00",
-  "LastUpdate_Achievements": "2023-08-31T05:08:50.633312+00:00"
+  "LastUpdate_Ratings": "2023-08-31T06:00:05.6468122+00:00",
+  "LastUpdate_Achievements": "2023-08-31T06:08:11.1238172+00:00"
 }

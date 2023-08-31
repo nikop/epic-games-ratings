@@ -2,13 +2,13 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 872,
+  "Ranking_Rating": 873,
   "Ranking_Popularity": 374,
   "Ranking_PopularitySum": 315,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 154,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1124,9 +1124,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 15905,
+  "EOS_Progressed": 15906,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -6744,6 +6744,11 @@
       "Time": "2023-08-29T23:06:18.4186449+00:00",
       "NumProgressed": 15905,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-08-31T06:05:39.3617125+00:00",
+      "NumProgressed": 15906,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 47,
@@ -7130,13 +7135,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15905,
+      "Progressed": 15906,
       "Completed": 73
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3831,
+      "Progressed": 3832,
       "Completed": 29
     }
   ],
@@ -7144,8 +7149,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-08-30T19:57:09.7413651+00:00",
-  "LastChanged_Achievements": "2023-08-31T05:06:54.3260624+00:00",
+  "LastChanged_Achievements": "2023-08-31T06:05:39.361712+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:47.4155598+00:00",
-  "LastUpdate_Ratings": "2023-08-31T04:57:29.4412862+00:00",
-  "LastUpdate_Achievements": "2023-08-31T05:06:54.3261394+00:00"
+  "LastUpdate_Ratings": "2023-08-31T05:57:17.4775464+00:00",
+  "LastUpdate_Achievements": "2023-08-31T06:05:39.3617877+00:00"
 }

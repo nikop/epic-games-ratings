@@ -41,7 +41,7 @@
 | Fight is life | 44.00% | ~128 |
 | Mysterious voice | 43.00% | ~126 |
 | No blades in the gym | 43.00% | ~126 |
-| Champion – no way back | 40.00% | ~117 |
+| Champion – no way back | 41.00% | ~120 |
 | Responsible approach | 40.00% | ~117 |
 | Underground dwellers | 39.00% | ~114 |
 | Deal with life | 38.00% | ~111 |
@@ -57,12 +57,12 @@
 | Problems of cyborgs | 33.00% | ~96 |
 | Not little hacker | 32.00% | ~93 |
 | Absolute Champion! | 32.00% | ~93 |
+| Anyone can resist | 32.00% | ~93 |
 | The lonesome road | 31.00% | ~91 |
 | Keep nature safe | 31.00% | ~91 |
 | Family comes first | 31.00% | ~91 |
 | Key memories | 31.00% | ~91 |
 | Careerist | 31.00% | ~91 |
-| Anyone can resist | 31.00% | ~91 |
 | The heart of the Resistance | 31.00% | ~91 |
 | Trap disarmed | 30.00% | ~88 |
 | Another world | 30.00% | ~88 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 54,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
     "PcReleaseDate": "2018-10-16T00:00:00+00:00",
@@ -2662,9 +2662,9 @@
       "Count": 239
     }
   ],
-  "EOS_Progressed": 73950,
+  "EOS_Progressed": 73951,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 967,
+  "EOS_NewPlayers": 965,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -17197,6 +17197,11 @@
       "Time": "2023-08-31T05:03:39.800903+00:00",
       "NumProgressed": 73950,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-08-31T06:03:30.4896635+00:00",
+      "NumProgressed": 73951,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 30,
@@ -17216,7 +17221,7 @@
       "Name": "Team Effort",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2218
+      "UsersEstimate": 2219
     },
     {
       "ID": "ACHIEVEMENT_02",
@@ -17232,7 +17237,7 @@
       "Name": "New Home",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 17008
+      "UsersEstimate": 17009
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -17248,7 +17253,7 @@
       "Name": "Landlord",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 8134
+      "UsersEstimate": 8135
     },
     {
       "ID": "ACHIEVEMENT_06",
@@ -17264,7 +17269,7 @@
       "Name": "Most Achievements",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 8134
+      "UsersEstimate": 8135
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -17280,7 +17285,7 @@
       "Name": "Project Manager",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 14050
+      "UsersEstimate": 14051
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -17320,7 +17325,7 @@
       "Name": "Opportunity",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2218
+      "UsersEstimate": 2219
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -17328,7 +17333,7 @@
       "Name": "Curiosity",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 14050
+      "UsersEstimate": 14051
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -17344,7 +17349,7 @@
       "Name": "Sojourner",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 19966
+      "UsersEstimate": 19967
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -17352,7 +17357,7 @@
       "Name": "Collector",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 14050
+      "UsersEstimate": 14051
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -17392,7 +17397,7 @@
       "Name": "Self-sufficient",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 14050
+      "UsersEstimate": 14051
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -17432,7 +17437,7 @@
       "Name": "Master",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 14050
+      "UsersEstimate": 14051
     },
     {
       "ID": "ACHIEVEMENT_29",
@@ -17447,15 +17452,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 73950,
+      "Progressed": 73951,
       "Completed": 95
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-08-23T21:59:53.4712134+00:00",
-  "LastChanged_Achievements": "2023-08-31T05:03:39.8009023+00:00",
+  "LastChanged_Achievements": "2023-08-31T06:03:30.4896631+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:03.9547788+00:00",
-  "LastUpdate_Ratings": "2023-08-31T04:57:37.9212952+00:00",
-  "LastUpdate_Achievements": "2023-08-31T05:03:39.8010186+00:00"
+  "LastUpdate_Ratings": "2023-08-31T05:57:23.0542141+00:00",
+  "LastUpdate_Achievements": "2023-08-31T06:03:30.489772+00:00"
 }

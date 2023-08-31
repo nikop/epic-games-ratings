@@ -4549,9 +4549,9 @@
       "ID": "19",
       "SetID": "9p3jgda",
       "Name": "DEFEAT OUR CHAMPION",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 85,
-      "UsersEstimate": 439
+      "UsersEstimate": 470
     },
     {
       "ID": "2",
@@ -4667,8 +4667,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-08-31T05:04:56.9831168+00:00",
+  "LastChanged_Achievements": "2023-08-31T06:04:17.7561138+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:21.5696846+00:00",
-  "LastUpdate_Ratings": "2023-08-31T04:58:28.4384062+00:00",
-  "LastUpdate_Achievements": "2023-08-31T05:04:56.9831857+00:00"
+  "LastUpdate_Ratings": "2023-08-31T05:57:57.2361201+00:00",
+  "LastUpdate_Achievements": "2023-08-31T06:04:17.7561583+00:00"
 }

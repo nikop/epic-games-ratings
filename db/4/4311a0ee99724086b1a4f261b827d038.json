@@ -2,13 +2,13 @@
   "ID": "4311a0ee99724086b1a4f261b827d038",
   "Name": "Homeworld Remastered Collection",
   "ProductSlug": "homeworld-remastered-collection",
-  "Ranking_Rating": 452,
+  "Ranking_Rating": 453,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 12,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -210,9 +210,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 209172,
+  "EOS_Progressed": 209190,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10294,
+  "EOS_NewPlayers": 10291,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4340,6 +4340,11 @@
       "Time": "2023-08-31T05:04:34.2371555+00:00",
       "NumProgressed": 209172,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-31T06:04:01.5946206+00:00",
+      "NumProgressed": 209190,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -4408,7 +4413,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 41834
+      "UsersEstimate": 41838
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -4416,7 +4421,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 18825
+      "UsersEstimate": 18827
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -4424,7 +4429,7 @@
       "Name": "Return to Kharak",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 10459
+      "UsersEstimate": 10460
     },
     {
       "ID": "HW1_MISSION4_COMPLETE",
@@ -4432,7 +4437,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8367
+      "UsersEstimate": 8368
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -4440,7 +4445,7 @@
       "Name": "Great Wastelands (part 2) Completed",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4183
+      "UsersEstimate": 4184
     },
     {
       "ID": "HW1_MISSION6_COMPLETE",
@@ -4448,7 +4453,7 @@
       "Name": "Diamond Shoals Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4183
+      "UsersEstimate": 4184
     },
     {
       "ID": "HW1_MISSION7_COMPLETE",
@@ -4456,7 +4461,7 @@
       "Name": "The Gardens of Kadesh Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4183
+      "UsersEstimate": 4184
     },
     {
       "ID": "HW1_MISSION8_COMPLETE",
@@ -4464,7 +4469,7 @@
       "Name": "The Cathedral of Kadesh Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4183
+      "UsersEstimate": 4184
     },
     {
       "ID": "HW1_MISSION9_COMPLETE",
@@ -4472,7 +4477,7 @@
       "Name": "Sea of Lost Souls Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4183
+      "UsersEstimate": 4184
     },
     {
       "ID": "HW1_TUTORIAL_COMPLETE",
@@ -4536,7 +4541,7 @@
       "Name": "Tanis Completed",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 27192
+      "UsersEstimate": 27195
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -4544,7 +4549,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 14642
+      "UsersEstimate": 14643
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -4552,7 +4557,7 @@
       "Name": "Sarum Completed",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4183
+      "UsersEstimate": 4184
     },
     {
       "ID": "HW2_MISSION4_COMPLETE",
@@ -4608,7 +4613,7 @@
       "Name": "Graduated Command School",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 50201
+      "UsersEstimate": 50206
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -4623,7 +4628,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 209172,
+      "Progressed": 209190,
       "Completed": 0
     }
   ],
@@ -4631,8 +4636,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-08-27T02:58:56.3089939+00:00",
-  "LastChanged_Achievements": "2023-08-31T05:04:34.2371547+00:00",
+  "LastChanged_Achievements": "2023-08-31T06:04:01.5946201+00:00",
   "LastUpdate_AppInfo": "2023-08-24T18:57:15.108366+00:00",
-  "LastUpdate_Ratings": "2023-08-31T05:00:48.3173745+00:00",
-  "LastUpdate_Achievements": "2023-08-31T05:04:34.2372445+00:00"
+  "LastUpdate_Ratings": "2023-08-31T05:59:29.3434103+00:00",
+  "LastUpdate_Achievements": "2023-08-31T06:04:01.594671+00:00"
 }

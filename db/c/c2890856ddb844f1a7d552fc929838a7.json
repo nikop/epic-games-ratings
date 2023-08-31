@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -770,25 +770,25 @@
       "ID": "AC04",
       "SetID": "l4abp0",
       "Name": "Blood and Iron",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 332
+      "UsersEstimate": 337
     },
     {
       "ID": "AC05",
       "SetID": "l4abp0",
       "Name": "The Sharpest Tool in the Shed",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 302
+      "UsersEstimate": 308
     },
     {
       "ID": "AC06",
       "SetID": "l4abp0",
       "Name": "The Last Ascension",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 231
+      "UsersEstimate": 237
     },
     {
       "ID": "AC07",
@@ -1115,8 +1115,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-08-31T05:00:39.0192378+00:00",
-  "LastChanged_Achievements": "2023-08-31T05:07:18.5212049+00:00",
+  "LastChanged_Achievements": "2023-08-31T06:05:56.4826318+00:00",
   "LastUpdate_AppInfo": "2023-08-29T18:57:21.35462+00:00",
-  "LastUpdate_Ratings": "2023-08-31T05:00:39.019239+00:00",
-  "LastUpdate_Achievements": "2023-08-31T05:07:18.5212814+00:00"
+  "LastUpdate_Ratings": "2023-08-31T05:59:23.2559143+00:00",
+  "LastUpdate_Achievements": "2023-08-31T06:05:56.4826726+00:00"
 }

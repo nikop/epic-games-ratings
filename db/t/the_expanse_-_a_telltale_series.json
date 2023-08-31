@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -40,9 +40,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9674,
+  "EOS_Progressed": 9675,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 854,
+  "EOS_NewPlayers": 855,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3765,6 +3765,11 @@
       "Time": "2023-08-31T05:04:32.9693645+00:00",
       "NumProgressed": 9674,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-31T06:04:00.6404568+00:00",
+      "NumProgressed": 9675,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -3841,7 +3846,7 @@
       "Name": "Spore Taste",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1741
+      "UsersEstimate": 1742
     },
     {
       "ID": "18",
@@ -3857,7 +3862,7 @@
       "Name": "Martian Music",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1741
+      "UsersEstimate": 1742
     },
     {
       "ID": "2",
@@ -3873,7 +3878,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "21",
@@ -3969,7 +3974,7 @@
       "Name": "Debris Spree",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "5",
@@ -3993,7 +3998,7 @@
       "Name": "Grave Robber",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "8",
@@ -4016,7 +4021,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 9674,
+      "Progressed": 9675,
       "Completed": 0
     }
   ],
@@ -4024,8 +4029,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-08-30T16:58:27.4229759+00:00",
-  "LastChanged_Achievements": "2023-08-31T05:04:32.9693638+00:00",
+  "LastChanged_Achievements": "2023-08-31T06:04:00.6404564+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:45.4170889+00:00",
-  "LastUpdate_Ratings": "2023-08-31T04:58:50.1527144+00:00",
-  "LastUpdate_Achievements": "2023-08-31T05:04:32.9694119+00:00"
+  "LastUpdate_Ratings": "2023-08-31T05:58:11.5911133+00:00",
+  "LastUpdate_Achievements": "2023-08-31T06:04:00.640505+00:00"
 }
