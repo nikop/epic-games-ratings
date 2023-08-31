@@ -813,9 +813,9 @@
       "ID": "AC12",
       "SetID": "l4abp0",
       "Name": "Canvas of Light and Time",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 59
+      "UsersEstimate": 65
     },
     {
       "ID": "AC13",
@@ -869,9 +869,9 @@
       "ID": "AC19",
       "SetID": "l4abp0",
       "Name": "Soledad",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 171
     },
     {
       "ID": "AC20",
@@ -901,9 +901,9 @@
       "ID": "AC23",
       "SetID": "l4abp0",
       "Name": "Hide and Seek",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 118
+      "UsersEstimate": 112
     },
     {
       "ID": "AC24",
@@ -1021,9 +1021,9 @@
       "ID": "AC38",
       "SetID": "l4abp0",
       "Name": "Edge of Orison",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 112
     },
     {
       "ID": "AC39",
@@ -1061,9 +1061,9 @@
       "ID": "AC43",
       "SetID": "l4abp0",
       "Name": "The Finest Craftmanship",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 171
     },
     {
       "ID": "AC44",
@@ -1092,8 +1092,8 @@
   ],
   "FirstSeen": "2023-07-26T07:57:19.1818171+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
-  "LastChanged_Achievements": "2023-08-31T02:21:01.8518688+00:00",
+  "LastChanged_Achievements": "2023-08-31T03:05:46.5421993+00:00",
   "LastUpdate_AppInfo": "2023-08-29T18:57:21.35462+00:00",
-  "LastUpdate_Ratings": "2023-08-31T02:14:20.7560534+00:00",
-  "LastUpdate_Achievements": "2023-08-31T02:21:01.851912+00:00"
+  "LastUpdate_Ratings": "2023-08-31T02:59:31.6239763+00:00",
+  "LastUpdate_Achievements": "2023-08-31T03:05:46.5422408+00:00"
 }

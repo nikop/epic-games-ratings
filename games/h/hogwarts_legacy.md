@@ -17,8 +17,8 @@ Rating: 4.77 (Ranked 108)
 | A Talent for Spending | 10.00% | ~29,112 |
 | Coasting Along | 10.00% | ~29,112 |
 | That's a Keeper | 10.00% | ~29,112 |
-| The Hero of Hogwarts | 9.00% | ~26,200 |
-| Challenge Accepted | 9.00% | ~26,200 |
+| The Hero of Hogwarts | 9.00% | ~26,201 |
+| Challenge Accepted | 9.00% | ~26,201 |
 | Followed the Butterflies | 8.00% | ~23,289 |
 | The Spell Master | 8.00% | ~23,289 |
 | Rising From the Ashes | 8.00% | ~23,289 |
@@ -36,8 +36,8 @@ Rating: 4.77 (Ranked 108)
 | The Intrepid Explorer | 4.00% | ~11,645 |
 | The Gryffindor in the Graveyard | 4.00% | ~11,645 |
 | The Ends Petrify the Means | 4.00% | ~11,645 |
-| Floo Around the World | 3.00% | ~8,733 |
-| The Wise Owl | 3.00% | ~8,733 |
+| Floo Around the World | 3.00% | ~8,734 |
+| The Wise Owl | 3.00% | ~8,734 |
 | The Good Samaritan | 2.00% | ~5,822 |
 | Put Down Roots | 2.00% | ~5,822 |
 | The Auror's Apprentice | 2.00% | ~5,822 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 108)
 | The Nature of the Beast | 0.60% | ~1,747 |
 | Collector's Edition | 0.30% | ~873 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 291,116 (Ranked 43)  
+Progressed: 291,118 (Ranked 43)  
 Completed: 458 (0.16%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 458 (0.16%) (Ranked 197)
 | 2023-08-28 | 291,008 | 456 |
 | 2023-08-29 | 291,057 | 457 |
 | 2023-08-30 | 291,109 | 458 |
-| 2023-08-31 | 291,116 | 458 |
+| 2023-08-31 | 291,118 | 458 |
 ## Awards
 Max (Character Customization): 22,026  (Ranked 17)  
 Sum: 41,783 (Ranked 30)  

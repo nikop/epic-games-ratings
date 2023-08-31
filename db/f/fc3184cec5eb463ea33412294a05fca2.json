@@ -1039,9 +1039,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "8d3ci0",
       "Name": "Family pond",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 65
+      "UsersEstimate": 67
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -1055,9 +1055,9 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "8d3ci0",
       "Name": "Catch a flight",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 77
+      "UsersEstimate": 79
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -1079,9 +1079,9 @@
       "ID": "NEW_ACHIEVEMENT_1_7",
       "SetID": "8d3ci0",
       "Name": "Abducktion",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 95,
-      "UsersEstimate": 49
+      "UsersEstimate": 51
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -1110,8 +1110,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-08-31T02:20:37.9719307+00:00",
+  "LastChanged_Achievements": "2023-08-31T03:05:22.5476945+00:00",
   "LastUpdate_AppInfo": "2023-08-26T16:57:08.4997824+00:00",
-  "LastUpdate_Ratings": "2023-08-31T02:14:31.4363663+00:00",
-  "LastUpdate_Achievements": "2023-08-31T02:20:37.9719484+00:00"
+  "LastUpdate_Ratings": "2023-08-31T02:59:42.2815901+00:00",
+  "LastUpdate_Achievements": "2023-08-31T03:05:22.5477097+00:00"
 }

@@ -15,9 +15,9 @@
 | Jude | 13.00% | ~295 |
 | Bernard | 12.00% | ~273 |
 | Nuremberg Laws | 12.00% | ~273 |
-| May Their Memories be a Blessing | 9.00% | ~204 |
+| May Their Memories be a Blessing | 9.00% | ~205 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,272 (Ranked 169)  
+Progressed: 2,273 (Ranked 169)  
 Completed: 203 (8.93%) (Ranked 33)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,6 +150,7 @@ Completed: 203 (8.93%) (Ranked 33)
 | 2023-08-28 | 2,265 | 202 |
 | 2023-08-29 | 2,267 | 202 |
 | 2023-08-30 | 2,272 | 203 |
+| 2023-08-31 | 2,273 | 203 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

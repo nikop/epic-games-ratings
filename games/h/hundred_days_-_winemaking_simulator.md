@@ -6,22 +6,22 @@ Number of Ratings: 7,669  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 24.00% | ~56 |
+| Bye Bye | 24.00% | ~57 |
 | It's a good start | 8.00% | ~19 |
 | Bonjour! | 6.00% | ~14 |
 | Ostinata | 5.00% | ~12 |
 | A long journey | 5.00% | ~12 |
-| The Blue Marl | 4.00% | ~9 |
+| The Blue Marl | 4.00% | ~10 |
 | The Assistant | 3.00% | ~7 |
 | Quack | 3.00% | ~7 |
 | Surprise of Langhe | 3.00% | ~7 |
 | Famous | 3.00% | ~7 |
 | Better than nothing? | 2.00% | ~5 |
 | Exotic | 2.00% | ~5 |
-| A big garage | 0.90% | ~2 |
-| Big Money | 0.90% | ~2 |
-| Pastry Chef | 0.90% | ~2 |
-| Welcome to the club | 0.90% | ~2 |
+| Welcome to the club | 1.00% | ~2 |
+| A big garage | 0.80% | ~2 |
+| Big Money | 0.80% | ~2 |
+| Pastry Chef | 0.80% | ~2 |
 | A lot of space | 0.40% | ~1 |
 | Millionaire | 0.40% | ~1 |
 | Keep the doctor away | 0.40% | ~1 |
@@ -38,13 +38,13 @@ Number of Ratings: 7,669  (23.09.2022)
 | Knight of Langhe | 0.00% | ~0 |
 | Very Important Winemaker | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235 (Ranked 286)  
+Progressed: 239 (Ranked 285)  
 Completed: 0 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-08-30 | 210 | 0 |
-| 2023-08-31 | 235 | 0 |
+| 2023-08-31 | 239 | 0 |
 ## Awards
 Max (Relaxing): 203  (Ranked 273)  
 Sum: 1,457 (Ranked 224)  

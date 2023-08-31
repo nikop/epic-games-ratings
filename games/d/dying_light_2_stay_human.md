@@ -6,27 +6,27 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 39.00% | ~240,967 |
-| First Shot | 36.00% | ~222,431 |
-| Into the Unknown | 35.00% | ~216,252 |
-| Herzlich Wilkommen! | 34.00% | ~210,074 |
-| Good Night & Good Luck | 33.00% | ~203,895 |
-| Sancho Panza | 32.00% | ~197,716 |
+| You Never Forget Your First... | 39.00% | ~240,968 |
+| First Shot | 36.00% | ~222,432 |
+| Into the Unknown | 35.00% | ~216,253 |
+| Herzlich Wilkommen! | 34.00% | ~210,075 |
+| Good Night & Good Luck | 33.00% | ~203,896 |
+| Sancho Panza | 32.00% | ~197,717 |
 | Oh, So This Is How It Works! | 29.00% | ~179,181 |
-| Flag Burning | 27.00% | ~166,823 |
-| Under Pressure | 25.00% | ~154,466 |
-| It Wasn't That Hard, Was It? | 25.00% | ~154,466 |
-| Can't Touch This! | 25.00% | ~154,466 |
-| On the Trail of the Enemy | 24.00% | ~148,287 |
-| Light in the Darkness | 24.00% | ~148,287 |
+| Flag Burning | 27.00% | ~166,824 |
+| Under Pressure | 25.00% | ~154,467 |
+| It Wasn't That Hard, Was It? | 25.00% | ~154,467 |
+| Can't Touch This! | 25.00% | ~154,467 |
+| On the Trail of the Enemy | 24.00% | ~148,288 |
+| Light in the Darkness | 24.00% | ~148,288 |
 | Get Outta My House! | 23.00% | ~142,109 |
-| Night Hunter | 22.00% | ~135,930 |
-| Being All Social | 22.00% | ~135,930 |
+| Night Hunter | 22.00% | ~135,931 |
+| Being All Social | 22.00% | ~135,931 |
 | After the Fall | 20.00% | ~123,573 |
 | We Will Be Heard! | 18.00% | ~111,216 |
 | Tunnel Entrance | 18.00% | ~111,216 |
 | Known Associate | 17.00% | ~105,037 |
-| Brush with Death | 16.00% | ~98,858 |
+| Brush with Death | 16.00% | ~98,859 |
 | Debris and Ashes | 15.00% | ~92,680 |
 | Going Down | 15.00% | ~92,680 |
 | Family First | 15.00% | ~92,680 |
@@ -34,7 +34,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | Death From Afar | 14.00% | ~86,501 |
 | Terminal Headache | 14.00% | ~86,501 |
 | Slowpoke! | 12.00% | ~74,144 |
-| Tickets, Please! | 7.00% | ~43,250 |
+| Tickets, Please! | 7.00% | ~43,251 |
 | Parkour Master | 6.00% | ~37,072 |
 | Combat Master | 6.00% | ~37,072 |
 | Municipal Services | 5.00% | ~30,893 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~263 |
 | Connoisseur | 0.10% | ~263 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 617,864 (Ranked 27)  
+Progressed: 617,867 (Ranked 27)  
 Completed: 62 (0.01%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,10 +205,10 @@ Completed: 62 (0.01%) (Ranked 253)
 | 2023-08-28 | 617,115 | 62 |
 | 2023-08-29 | 617,505 | 62 |
 | 2023-08-30 | 617,839 | 62 |
-| 2023-08-31 | 617,864 | 62 |
+| 2023-08-31 | 617,867 | 62 |
 ## Awards
 Max (Character Customization): 8,943  (Ranked 39)  
-Sum: 21,497 (Ranked 54)  
+Sum: 21,500 (Ranked 54)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
@@ -217,7 +217,7 @@ Diff (max vs sum): -15
 | This game is Great for Beginners | 923 |
 | This game is Highly Recommended | 856 |
 | This game has Diverse Characters | 846 |
-| This game has Amazing Characters | 822 |
+| This game has Amazing Characters | 825 |
 | This game is Extremely Fun | 802 |
 | This game has Amazing Storytelling | 796 |
 | This game has Quickly Understood Controls | 780 |
@@ -458,3 +458,4 @@ Diff (max vs sum): -15
 | 2023-08-28 | 4.58 | - | 8,916 | 21,441 |
 | 2023-08-29 | 4.58 | - | 8,922 | 21,460 |
 | 2023-08-30 | 4.58 | - | 8,943 | 21,497 |
+| 2023-08-31 | 4.58 | - | 8,943 | 21,500 |

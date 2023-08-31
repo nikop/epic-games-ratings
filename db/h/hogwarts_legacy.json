@@ -6978,9 +6978,9 @@
       "Count": 609
     }
   ],
-  "EOS_Progressed": 291116,
+  "EOS_Progressed": 291118,
   "EOS_Completed": 458,
-  "EOS_NewPlayers": 429,
+  "EOS_NewPlayers": 431,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -21228,6 +21228,11 @@
       "Time": "2023-08-31T02:19:25.7120478+00:00",
       "NumProgressed": 291116,
       "NumCompleted": 458
+    },
+    {
+      "Time": "2023-08-31T03:04:13.3103147+00:00",
+      "NumProgressed": 291118,
+      "NumCompleted": 458
     }
   ],
   "TotalAchievements": 45,
@@ -21271,7 +21276,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 26200
+      "UsersEstimate": 26201
     },
     {
       "ID": "PFA_14",
@@ -21343,7 +21348,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26200
+      "UsersEstimate": 26201
     },
     {
       "ID": "PFA_22",
@@ -21455,7 +21460,7 @@
       "Name": "Floo Around the World",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8733
+      "UsersEstimate": 8734
     },
     {
       "ID": "PFA_35",
@@ -21559,7 +21564,7 @@
       "Name": "The Wise Owl",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8733
+      "UsersEstimate": 8734
     },
     {
       "ID": "PFA_6",
@@ -21598,7 +21603,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 291116,
+      "Progressed": 291118,
       "Completed": 458
     }
   ],
@@ -21606,8 +21611,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-08-31T01:40:53.5836432+00:00",
-  "LastChanged_Achievements": "2023-08-31T02:19:25.712047+00:00",
+  "LastChanged_Achievements": "2023-08-31T03:04:13.3103138+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:27.4425386+00:00",
-  "LastUpdate_Ratings": "2023-08-31T02:15:02.3320238+00:00",
-  "LastUpdate_Achievements": "2023-08-31T02:19:25.7121745+00:00"
+  "LastUpdate_Ratings": "2023-08-31T03:00:13.7638052+00:00",
+  "LastUpdate_Achievements": "2023-08-31T03:04:13.3104531+00:00"
 }

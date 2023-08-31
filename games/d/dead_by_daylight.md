@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~832 |
 | Adept Ripley | 0.10% | ~832 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 831,501 (Ranked 15)  
+Progressed: 831,569 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -369,7 +369,7 @@ Completed: 48 (0.01%) (Ranked 253)
 | 2023-08-28 | 824,988 | 48 |
 | 2023-08-29 | 828,020 | 48 |
 | 2023-08-30 | 831,117 | 48 |
-| 2023-08-31 | 831,501 | 48 |
+| 2023-08-31 | 831,569 | 48 |
 ## Awards
 Max (Diverse Characters): 31,677  (Ranked 15)  
 Sum: 248,582 (Ranked 11)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -232,9 +232,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17773,
+  "EOS_Progressed": 17774,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9427,6 +9427,11 @@
       "Time": "2023-08-30T23:07:42.9402545+00:00",
       "NumProgressed": 17773,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-31T03:06:37.6347138+00:00",
+      "NumProgressed": 17774,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -9454,7 +9459,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3021
+      "UsersEstimate": 3022
     },
     {
       "ID": "0004",
@@ -9662,7 +9667,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2310
+      "UsersEstimate": 2311
     },
     {
       "ID": "0030",
@@ -9725,7 +9730,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17773,
+      "Progressed": 17774,
       "Completed": 1
     }
   ],
@@ -9733,8 +9738,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-27T03:58:40.60023+00:00",
-  "LastChanged_Achievements": "2023-08-31T02:21:53.8675893+00:00",
+  "LastChanged_Achievements": "2023-08-31T03:06:37.6347134+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:14.6586711+00:00",
-  "LastUpdate_Ratings": "2023-08-31T02:13:33.1562519+00:00",
-  "LastUpdate_Achievements": "2023-08-31T02:21:53.867671+00:00"
+  "LastUpdate_Ratings": "2023-08-31T02:58:44.5307018+00:00",
+  "LastUpdate_Achievements": "2023-08-31T03:06:37.6347973+00:00"
 }

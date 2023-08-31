@@ -6,19 +6,19 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 69.00% | ~602,812 |
+| The Fool | 69.00% | ~602,813 |
 | Right Back At Ya | 39.00% | ~340,720 |
-| The Lovers | 35.00% | ~305,774 |
+| The Lovers | 35.00% | ~305,775 |
 | Stanislavski's Method | 29.00% | ~253,356 |
 | The Wheel of Fortune | 27.00% | ~235,883 |
 | The Hermit | 25.00% | ~218,410 |
-| Christmas Tree Attack | 23.00% | ~200,937 |
-| True Soldier | 23.00% | ~200,937 |
+| Christmas Tree Attack | 23.00% | ~200,938 |
+| True Soldier | 23.00% | ~200,938 |
 | The High Priestess | 22.00% | ~192,201 |
 | Legend of The Afterlife | 22.00% | ~192,201 |
-| Life of the Road | 21.00% | ~183,464 |
-| Full Body Conversion | 18.00% | ~157,255 |
-| The World | 18.00% | ~157,255 |
+| Life of the Road | 21.00% | ~183,465 |
+| Full Body Conversion | 18.00% | ~157,256 |
+| The World | 18.00% | ~157,256 |
 | Bushido and Chill | 17.00% | ~148,519 |
 | Gun Fu | 15.00% | ~131,046 |
 | True Warrior | 15.00% | ~131,046 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,736 |
 | Rough Landing | 0.50% | ~4,368 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 873,640 (Ranked 14)  
+Progressed: 873,642 (Ranked 14)  
 Completed: 2,037 (0.23%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 2,037 (0.23%) (Ranked 186)
 | 2023-08-28 | 873,332 | 2,034 |
 | 2023-08-29 | 873,482 | 2,037 |
 | 2023-08-30 | 873,627 | 2,037 |
-| 2023-08-31 | 873,640 | 2,037 |
+| 2023-08-31 | 873,642 | 2,037 |
 ## Awards
 Max (Character Customization): 76,765  (Ranked 9)  
 Sum: 203,599 (Ranked 13)  

@@ -6,9 +6,9 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~21,879 |
-| Thorough | 10.00% | ~19,890 |
-| A thief's beginning | 9.00% | ~17,901 |
+| Genin | 11.00% | ~21,880 |
+| Thorough | 10.00% | ~19,891 |
+| A thief's beginning | 9.00% | ~17,902 |
 | Disguised | 8.00% | ~15,912 |
 | Rescue Takuma | 8.00% | ~15,912 |
 | Rollin' | 8.00% | ~15,912 |
@@ -42,8 +42,8 @@ Number of Ratings: 495  (23.09.2022)
 | When Cut Across the Neck | 0.90% | ~1,790 |
 | High Five the Moon | 0.80% | ~1,591 |
 | The Cave | 0.70% | ~1,392 |
-| Merciful | 0.50% | ~994 |
-| Time Paradox | 0.50% | ~994 |
+| Merciful | 0.50% | ~995 |
+| Time Paradox | 0.50% | ~995 |
 | Five Shadows | 0.30% | ~597 |
 | Chicken Dinner | 0.10% | ~199 |
 | Complete Mastery | 0.10% | ~199 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~199 |
 | Release the Kraken | 0.10% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 198,897 (Ranked 61)  
+Progressed: 198,906 (Ranked 61)  
 Completed: 74 (0.04%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,10 +184,10 @@ Completed: 74 (0.04%) (Ranked 236)
 | 2023-08-28 | 198,358 | 73 |
 | 2023-08-29 | 198,622 | 73 |
 | 2023-08-30 | 198,879 | 74 |
-| 2023-08-31 | 198,897 | 74 |
+| 2023-08-31 | 198,906 | 74 |
 ## Awards
 Max (Great for Beginners): 562  (Ranked 190)  
-Sum: 4,738 (Ranked 135)  
+Sum: 4,739 (Ranked 135)  
 Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
@@ -197,7 +197,7 @@ Diff (max vs sum): 55
 | This game has Amazing Storytelling | 505 |
 | This game has Amazing Characters | 487 |
 | This game is Highly Recommended | 483 |
-| This game is Relaxing | 481 |
+| This game is Relaxing | 482 |
 | This game has Challenging Combat | 478 |
 | This game has Quickly Understood Controls | 446 |
 | This game has a Creative Community | 247 |
@@ -365,3 +365,4 @@ Diff (max vs sum): 55
 | 2023-08-26 | 4.66 | - | 562 | 4,736 |
 | 2023-08-28 | 4.66 | - | 562 | 4,737 |
 | 2023-08-29 | 4.66 | - | 562 | 4,738 |
+| 2023-08-31 | 4.66 | - | 562 | 4,739 |
