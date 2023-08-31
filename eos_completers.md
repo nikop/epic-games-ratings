@@ -28,10 +28,10 @@
 | 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.95% |
 | 27 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.71% |
 | 28 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.54% |
-| 29 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 10.00% |
-| 30 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
-| 31 | [Sonic Origins](games/s/sonic_origins.md) | 9.11% |
-| 32 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
+| 29 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
+| 30 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 9.09% |
+| 30 | [Sonic Origins](games/s/sonic_origins.md) | 9.09% |
+| 30 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
 | 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.93% |
 | 34 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.89% |
 | 35 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.61% |
@@ -47,12 +47,12 @@
 | 44 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 46 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.15% |
 | 47 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.88% |
-| 48 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.33% |
 | 48 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.33% |
+| 49 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.32% |
 | 50 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.26% |
 | 51 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.17% |
 | 52 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.13% |
-| 53 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.81% |
+| 53 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.80% |
 | 54 | [Bugsnax](games/b/bugsnax.md) | 4.74% |
 | 55 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 56 | [JARS](games/j/jars.md) | 4.48% |
@@ -71,8 +71,8 @@
 | 69 | [The Complex](games/t/the_complex.md) | 3.32% |
 | 70 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
 | 71 | [HordeCore](games/h/hordecore.md) | 3.15% |
-| 72 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 3.12% |
-| 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.08% |
+| 72 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.08% |
+| 73 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 3.03% |
 | 74 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.01% |
 | 74 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.01% |
 | 76 | [Monster Harvest](games/m/monster_harvest.md) | 2.93% |
@@ -81,7 +81,7 @@
 | 79 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.74% |
 | 80 | [Destiny 2](games/d/destiny_2.md) | 2.73% |
 | 80 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
-| 82 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.70% |
+| 82 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.69% |
 | 83 | [The Bunker](games/t/the_bunker.md) | 2.61% |
 | 84 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.58% |
 | 85 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.57% |

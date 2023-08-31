@@ -110,7 +110,7 @@
 | 101 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 514 |
 | 109 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 4,423 | 75 |
 | 109 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 6,845 | 51 |
-| 109 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 22,026 | 17 |
+| 109 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 22,055 | 17 |
 | 109 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 38 | 428 |
 | 109 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 147 | 301 |
 | 109 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 4.77 | 0 | 514 |
@@ -223,7 +223,7 @@
 | 219 | [CARRION](games/c/carrion.md) | 4.69 | 0 | 514 |
 | 219 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.69 | 4,834 | 68 |
 | 219 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.69 | 0 | 514 |
-| 219 | [House Flipper](games/h/house_flipper.md) | 4.69 | 308 | 235 |
+| 219 | [House Flipper](games/h/house_flipper.md) | 4.69 | 309 | 235 |
 | 219 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.69 | 0 | 514 |
 | 219 | [King of Retail](games/k/king_of_retail.md) | 4.69 | 0 | 514 |
 | 219 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,184 | 137 |
@@ -364,7 +364,7 @@
 | 354 | [NORCO](games/n/norco.md) | 4.62 | 0 | 514 |
 | 354 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 0 | 514 |
 | 354 | [Path of Exile](games/p/path_of_exile.md) | 4.62 | 2,590 | 98 |
-| 354 | [Prey](games/p/prey.md) | 4.62 | 5,659 | 63 |
+| 354 | [Prey](games/p/prey.md) | 4.62 | 5,664 | 63 |
 | 354 | [Roguebook](games/r/roguebook.md) | 4.62 | 0 | 514 |
 | 354 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.62 | 805 | 157 |
 | 354 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.62 | 20 | 510 |
@@ -390,7 +390,7 @@
 | 369 | [RiME](games/r/rime.md) | 4.61 | 0 | 514 |
 | 369 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,074 | 139 |
 | 369 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 280 | 243 |
-| 369 | [Supraland](games/s/supraland.md) | 4.61 | 7,682 | 45 |
+| 369 | [Supraland](games/s/supraland.md) | 4.61 | 7,683 | 45 |
 | 369 | [The Colonists](games/t/the_colonists.md) | 4.61 | 0 | 514 |
 | 369 | [Warframe](games/w/warframe.md) | 4.61 | 16,734 | 22 |
 | 394 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.60 | 23 | 492 |
@@ -924,18 +924,18 @@
 | 921 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.08 | 0 | 514 |
 | 921 | [Banished](games/b/banished.md) | 4.08 | 0 | 514 |
 | 921 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 0 | 514 |
+| 921 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 4.08 | 0 | 514 |
 | 921 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.08 | 0 | 514 |
 | 921 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 0 | 514 |
-| 927 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.07 | 541 | 195 |
-| 927 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 181 | 282 |
-| 929 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.06 | 0 | 514 |
-| 929 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 5,210 | 67 |
-| 931 | [Gravewood High](games/g/gravewood_high.md) | 4.05 | 0 | 514 |
-| 931 | [Pinball FX](games/p/pinball_fx.md) | 4.05 | 188 | 278 |
-| 931 | [Second Extinction™](games/s/second_extinction™.md) | 4.05 | 463 | 204 |
-| 934 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 4.04 | 0 | 514 |
-| 934 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 0 | 514 |
-| 934 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 4.04 | 0 | 514 |
+| 928 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.07 | 541 | 195 |
+| 928 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 181 | 282 |
+| 930 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.06 | 0 | 514 |
+| 930 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 5,210 | 67 |
+| 932 | [Gravewood High](games/g/gravewood_high.md) | 4.05 | 0 | 514 |
+| 932 | [Pinball FX](games/p/pinball_fx.md) | 4.05 | 188 | 278 |
+| 932 | [Second Extinction™](games/s/second_extinction™.md) | 4.05 | 463 | 204 |
+| 935 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 4.04 | 0 | 514 |
+| 935 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 0 | 514 |
 | 937 | [Lake](games/l/lake.md) | 4.03 | 0 | 514 |
 | 937 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 0 | 514 |
 | 937 | [Tharsis](games/t/tharsis.md) | 4.03 | 0 | 514 |
