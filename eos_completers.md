@@ -3,7 +3,7 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.00% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.31% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 34.91% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 35.85% |
 | 5 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 33.33% |
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.95% |
 | 7 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
@@ -69,7 +69,7 @@
 | 67 | [Without Escape](games/w/without_escape.md) | 3.45% |
 | 68 | [Doodle God](games/d/doodle_god.md) | 3.40% |
 | 69 | [Bunny Park](games/b/bunny_park.md) | 3.37% |
-| 70 | [The Complex](games/t/the_complex.md) | 3.33% |
+| 70 | [The Complex](games/t/the_complex.md) | 3.32% |
 | 71 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
 | 72 | [HordeCore](games/h/hordecore.md) | 3.15% |
 | 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.08% |
@@ -103,8 +103,8 @@
 | 101 | [Somerville](games/s/somerville.md) | 1.66% |
 | 102 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.64% |
 | 103 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 1.62% |
-| 104 | [Iron Danger](games/i/iron_danger.md) | 1.57% |
-| 105 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.56% |
+| 104 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.56% |
+| 104 | [Iron Danger](games/i/iron_danger.md) | 1.56% |
 | 106 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.55% |
 | 107 | [Five Dates](games/f/five_dates.md) | 1.53% |
 | 108 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.49% |
@@ -168,10 +168,10 @@
 | 166 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.36% |
 | 166 | [Wildermyth](games/w/wildermyth.md) | 0.36% |
 | 168 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.35% |
+| 168 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.35% |
 | 168 | [The Surge](games/t/the_surge.md) | 0.35% |
 | 168 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.35% |
-| 171 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.34% |
-| 171 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.34% |
+| 172 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.34% |
 | 173 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.33% |
 | 174 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 174 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
