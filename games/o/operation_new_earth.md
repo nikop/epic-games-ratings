@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Good to have Allies | 29.00% | ~340 |
-| Defenses Online | 27.00% | ~316 |
+| It's Good to have Allies | 29.00% | ~341 |
+| Defenses Online | 26.00% | ~306 |
 | Facility Online | 22.00% | ~258 |
 | Corporal | 15.00% | ~176 |
 | Sergeant | 12.00% | ~141 |
 | Covert Operative | 12.00% | ~141 |
-| Lieutenant | 10.00% | ~117 |
-| On Target | 10.00% | ~117 |
-| Keeping Busy | 9.00% | ~105 |
-| Getting Deployment | 9.00% | ~105 |
-| Stocking Up | 9.00% | ~105 |
-| Infantry Reporting | 9.00% | ~105 |
+| Lieutenant | 10.00% | ~118 |
+| On Target | 10.00% | ~118 |
+| Keeping Busy | 9.00% | ~106 |
+| Getting Deployment | 9.00% | ~106 |
+| Stocking Up | 9.00% | ~106 |
+| Infantry Reporting | 9.00% | ~106 |
 | Fighting for Survival | 8.00% | ~94 |
-| Silver Competitor | 8.00% | ~94 |
 | Exterminator | 7.00% | ~82 |
+| Silver Competitor | 7.00% | ~82 |
 | Captain | 7.00% | ~82 |
 | Factory Expansion | 7.00% | ~82 |
 | Brothers in Arms | 5.00% | ~59 |
@@ -27,12 +27,12 @@
 | Silver Achiever | 4.00% | ~47 |
 | Moving On Up | 4.00% | ~47 |
 | Major | 3.00% | ~35 |
-| Gold Achiever | 2.00% | ~23 |
-| Advanced Warfare | 2.00% | ~23 |
-| Colonel | 2.00% | ~23 |
-| Resourceful | 2.00% | ~23 |
-| Battle Ready | 2.00% | ~23 |
-| Control the Skies | 2.00% | ~23 |
+| Gold Achiever | 2.00% | ~24 |
+| Advanced Warfare | 2.00% | ~24 |
+| Colonel | 2.00% | ~24 |
+| Resourceful | 2.00% | ~24 |
+| Battle Ready | 2.00% | ~24 |
+| Control the Skies | 2.00% | ~24 |
 | General | 1.00% | ~12 |
 | Seek & Destroy | 1.00% | ~12 |
 | Titan Tanks | 1.00% | ~12 |
@@ -43,7 +43,7 @@
 | Platinum Achiever | 0.10% | ~1 |
 | Platinum Competitor | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,172 (Ranked 193)  
+Progressed: 1,175 (Ranked 193)  
 Completed: 1 (0.09%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,4 +127,4 @@ Completed: 1 (0.09%) (Ranked 218)
 | 2023-08-28 | 1,136 | 1 |
 | 2023-08-29 | 1,152 | 1 |
 | 2023-08-30 | 1,162 | 1 |
-| 2023-08-31 | 1,172 | 1 |
+| 2023-08-31 | 1,175 | 1 |

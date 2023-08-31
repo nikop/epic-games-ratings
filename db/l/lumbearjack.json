@@ -2,9 +2,9 @@
   "ID": "b112cc17de8c4b43a2372993b5916fec",
   "Name": "LumbearJack",
   "ProductSlug": "lumbearjack-b5bedf",
-  "Ranking_EOS_Progress": 567,
+  "Ranking_EOS_Progress": 568,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewPlayers": 343,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-06-11T16:30:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:43.3825819+00:00",
   "LastChanged": "2023-03-31T05:58:43.382582+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:17.8008799+00:00",
-  "LastUpdate_Ratings": "2023-08-31T10:58:59.0850826+00:00",
-  "LastUpdate_Achievements": "2023-08-31T11:06:32.3875372+00:00"
+  "LastUpdate_Ratings": "2023-08-31T11:58:32.100222+00:00",
+  "LastUpdate_Achievements": "2023-08-31T12:05:41.162741+00:00"
 }

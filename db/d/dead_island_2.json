@@ -4098,9 +4098,9 @@
       "Count": 330
     }
   ],
-  "EOS_Progressed": 669886,
+  "EOS_Progressed": 669911,
   "EOS_Completed": 2096,
-  "EOS_NewPlayers": 5921,
+  "EOS_NewPlayers": 5920,
   "EOS_NewCompleters": 41,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -18898,6 +18898,11 @@
       "Time": "2023-08-31T11:04:36.4541505+00:00",
       "NumProgressed": 669886,
       "NumCompleted": 2096
+    },
+    {
+      "Time": "2023-08-31T12:04:07.5744363+00:00",
+      "NumProgressed": 669911,
+      "NumCompleted": 2096
     }
   ],
   "TotalAchievements": 45,
@@ -18909,7 +18914,7 @@
       "Name": "Dr. Reed, I Presume?",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3349
+      "UsersEstimate": 3350
     },
     {
       "ID": "ach_a_taste_of_stardom",
@@ -18965,7 +18970,7 @@
       "Name": "Bookworm",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 3349
+      "UsersEstimate": 3350
     },
     {
       "ID": "ach_break_a_leg",
@@ -18997,7 +19002,7 @@
       "Name": "But Doctor, I am Butcho",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3349
+      "UsersEstimate": 3350
     },
     {
       "ID": "ach_doom_buddies",
@@ -19021,7 +19026,7 @@
       "Name": "Can\u0027t Handle the Truth",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3349
+      "UsersEstimate": 3350
     },
     {
       "ID": "ach_finisher",
@@ -19037,15 +19042,15 @@
       "Name": "Like Riding a Bike",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3349
+      "UsersEstimate": 3350
     },
     {
       "ID": "ach_good_eyesight",
       "SetID": "7km39fm",
       "Name": "Not Even My Final Form",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 670
+      "UsersEstimate": 1340
     },
     {
       "ID": "ach_hazardous_materials",
@@ -19061,7 +19066,7 @@
       "Name": "Friends Like These",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3349
+      "UsersEstimate": 3350
     },
     {
       "ID": "ach_hotel_california",
@@ -19109,7 +19114,7 @@
       "Name": "Apex Predator",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3349
+      "UsersEstimate": 3350
     },
     {
       "ID": "ach_knowledgeable",
@@ -19117,7 +19122,7 @@
       "Name": "Zombologist",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3349
+      "UsersEstimate": 3350
     },
     {
       "ID": "ach_legendary",
@@ -19141,7 +19146,7 @@
       "Name": "A Patton Emerges",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3349
+      "UsersEstimate": 3350
     },
     {
       "ID": "ach_mind_over_monster",
@@ -19181,7 +19186,7 @@
       "Name": "Stacking the Deck",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3349
+      "UsersEstimate": 3350
     },
     {
       "ID": "ach_star_performance",
@@ -19229,7 +19234,7 @@
       "Name": "This is My Weapon",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3349
+      "UsersEstimate": 3350
     },
     {
       "ID": "ach_weapon_wrangler",
@@ -19268,7 +19273,7 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 669886,
+      "Progressed": 669911,
       "Completed": 2096
     }
   ],
@@ -19276,8 +19281,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-08-31T09:57:28.1285272+00:00",
-  "LastChanged_Achievements": "2023-08-31T11:04:36.4541496+00:00",
+  "LastChanged_Achievements": "2023-08-31T12:04:07.5744358+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:11.0440218+00:00",
-  "LastUpdate_Ratings": "2023-08-31T10:57:34.1367459+00:00",
-  "LastUpdate_Achievements": "2023-08-31T11:04:36.454314+00:00"
+  "LastUpdate_Ratings": "2023-08-31T11:57:24.6933326+00:00",
+  "LastUpdate_Achievements": "2023-08-31T12:04:07.5745635+00:00"
 }

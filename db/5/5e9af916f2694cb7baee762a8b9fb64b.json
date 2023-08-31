@@ -2,9 +2,9 @@
   "ID": "5e9af916f2694cb7baee762a8b9fb64b",
   "Name": "Days of Doom",
   "ProductSlug": "days-of-doom-b29861",
-  "Ranking_EOS_Progress": 567,
+  "Ranking_EOS_Progress": 568,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewPlayers": 343,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-26T17:00:44.0666671+00:00",
-  "LastChanged_Achievements": "2023-08-31T11:06:15.9766809+00:00",
+  "LastChanged_Achievements": "2023-08-31T12:05:27.8469314+00:00",
   "LastUpdate_AppInfo": "2023-08-25T22:57:11.1235313+00:00",
-  "LastUpdate_Ratings": "2023-08-31T11:00:28.6131308+00:00",
-  "LastUpdate_Achievements": "2023-08-31T11:06:15.976685+00:00"
+  "LastUpdate_Ratings": "2023-08-31T11:59:41.4940387+00:00",
+  "LastUpdate_Achievements": "2023-08-31T12:05:27.8469365+00:00"
 }

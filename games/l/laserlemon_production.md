@@ -26,7 +26,7 @@
 | The Kitchen | 0.00% | ~0 |
 | The Lady's Quarters | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6 (Ranked 470)  
+Progressed: 6 (Ranked 471)  
 Completed: 0 (0.00%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |

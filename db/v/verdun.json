@@ -1700,9 +1700,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 56792,
+  "EOS_Progressed": 56793,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 730,
+  "EOS_NewPlayers": 727,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16165,6 +16165,11 @@
       "Time": "2023-08-31T11:05:22.7386908+00:00",
       "NumProgressed": 56792,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-31T12:04:45.3958267+00:00",
+      "NumProgressed": 56793,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -16432,7 +16437,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 18173
+      "UsersEstimate": 18174
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -16464,7 +16469,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 35779
+      "UsersEstimate": 35780
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -16512,7 +16517,7 @@
       "Name": "Semper Fidelis!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3975
+      "UsersEstimate": 3976
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS1",
@@ -16544,7 +16549,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 44298
+      "UsersEstimate": 44299
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -16560,7 +16565,7 @@
       "Name": "Honneur et Patrie",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3975
+      "UsersEstimate": 3976
     },
     {
       "ID": "VERDUN_ACH_SAMEFRIEND1",
@@ -16647,15 +16652,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 56792,
+      "Progressed": 56793,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-08-27T17:02:04.4791714+00:00",
-  "LastChanged_Achievements": "2023-08-31T11:05:22.7386902+00:00",
+  "LastChanged_Achievements": "2023-08-31T12:04:45.3958262+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:23.3225006+00:00",
-  "LastUpdate_Ratings": "2023-08-31T10:57:37.8343486+00:00",
-  "LastUpdate_Achievements": "2023-08-31T11:05:22.7388759+00:00"
+  "LastUpdate_Ratings": "2023-08-31T11:57:27.6280168+00:00",
+  "LastUpdate_Achievements": "2023-08-31T12:04:45.395971+00:00"
 }

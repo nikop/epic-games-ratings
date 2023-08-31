@@ -2,7 +2,7 @@
   "ID": "4a86b8318e5a40e094f34a7e6a934652",
   "Name": "I Am Future - Cozy Apocalypse Survival",
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
-  "Ranking_EOS_Progress": 411,
+  "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 69,
   "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 69,
@@ -157,9 +157,9 @@
       "ID": "BRING_MARY",
       "SetID": "aniflfk",
       "Name": "Retro Diva",
-      "Percentage": 37,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "BRING_PROSPERO",
@@ -181,9 +181,9 @@
       "ID": "CATCH_30_FISH",
       "SetID": "aniflfk",
       "Name": "Fisherman",
-      "Percentage": 23,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -197,9 +197,9 @@
       "ID": "GO_ON_EXPEDITION",
       "SetID": "aniflfk",
       "Name": "Off on an Expedition!",
-      "Percentage": 37,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -213,9 +213,9 @@
       "ID": "HOUSEWARMING",
       "SetID": "aniflfk",
       "Name": "A Party to Remember!",
-      "Percentage": 3,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "LUNCH_LEECH",
@@ -237,9 +237,9 @@
       "ID": "NOT_FAINT_HOUSEWARMING",
       "SetID": "aniflfk",
       "Name": "Tough Guy",
-      "Percentage": 3,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PREPARE_10_COFFEE",
@@ -253,9 +253,9 @@
       "ID": "REMOVE_100_WEEDS",
       "SetID": "aniflfk",
       "Name": "Weed Warrior",
-      "Percentage": 17,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "REPAIR_BRIDGE",
@@ -308,8 +308,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-08-31T11:06:42.6985955+00:00",
+  "LastChanged_Achievements": "2023-08-31T12:05:50.2246154+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:06.6191746+00:00",
-  "LastUpdate_Ratings": "2023-08-31T11:00:31.5864907+00:00",
-  "LastUpdate_Achievements": "2023-08-31T11:06:42.6986148+00:00"
+  "LastUpdate_Ratings": "2023-08-31T11:59:43.6282491+00:00",
+  "LastUpdate_Achievements": "2023-08-31T12:05:50.2246319+00:00"
 }

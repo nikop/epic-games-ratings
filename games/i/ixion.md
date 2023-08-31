@@ -14,9 +14,9 @@ Rating: 4.55 (Ranked 490)
 | Ready for a New World | 15.00% | ~468 |
 | Permanent Redesigns | 13.00% | ~405 |
 | Fully Recycled | 12.00% | ~374 |
+| Ain't Nobody Got Time for That | 12.00% | ~374 |
 | The Ship of Theseus | 12.00% | ~374 |
 | Guy de Borderlands | 11.00% | ~343 |
-| Ain't Nobody Got Time for That | 11.00% | ~343 |
 | Hope Seeker | 11.00% | ~343 |
 | Exceeding Capacity | 10.00% | ~312 |
 | A Hunk of Junk | 9.00% | ~281 |
@@ -52,8 +52,8 @@ Rating: 4.55 (Ranked 490)
 | Gregor Spinoza | 1.00% | ~31 |
 | Tiqqun Unchained | 1.00% | ~31 |
 | Scientifically Accurate | 1.00% | ~31 |
+| Drill-dozer | 0.60% | ~19 |
 | Work Harder | 0.50% | ~16 |
-| Drill-dozer | 0.50% | ~16 |
 | Crunch Culture | 0.30% | ~9 |
 | Soylent Green | 0.30% | ~9 |
 | A Junker's Dream | 0.20% | ~6 |

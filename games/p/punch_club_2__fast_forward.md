@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Such a strange dream… | 88.00% | ~258 |
+| Your first fight | 86.00% | ~252 |
 | Good Person Chip | 85.00% | ~249 |
-| Your first fight | 85.00% | ~249 |
-| First winning | 82.00% | ~240 |
+| First winning | 83.00% | ~243 |
 | Your first job | 82.00% | ~240 |
 | Old movies enjoyer | 78.00% | ~229 |
 | Fitness professional | 76.00% | ~223 |
@@ -25,14 +25,14 @@
 | Employee of the month | 63.00% | ~185 |
 | Law student | 61.00% | ~179 |
 | Workout professional | 59.00% | ~173 |
+| Handyman | 58.00% | ~170 |
 | Champion – starter pack | 58.00% | ~170 |
 | It's good to be alive | 58.00% | ~170 |
 | Own four walls | 58.00% | ~170 |
+| Fight for life | 57.00% | ~167 |
 | Little hacker | 57.00% | ~167 |
-| Handyman | 57.00% | ~167 |
 | Intriguing candies | 57.00% | ~167 |
 | Employee of the year | 57.00% | ~167 |
-| Fight for life | 56.00% | ~164 |
 | Legal courier | 53.00% | ~155 |
 | Extreme neuropower! | 53.00% | ~155 |
 | Escaped from a big trouble | 49.00% | ~144 |

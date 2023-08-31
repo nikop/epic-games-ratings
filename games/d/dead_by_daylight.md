@@ -6,8 +6,8 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MU/TH/UR Dearest | 0.70% | ~5,825 |
-| It wakes | 0.60% | ~4,993 |
+| MU/TH/UR Dearest | 0.70% | ~5,826 |
+| It wakes | 0.60% | ~4,994 |
 | Zealous | 0.50% | ~4,161 |
 | Skillful | 0.50% | ~4,161 |
 | Make Some Noise | 0.50% | ~4,161 |
@@ -16,31 +16,31 @@ Number of Ratings: 70,340  (23.09.2022)
 | Apt Survivor | 0.40% | ~3,329 |
 | Survival Treasures | 0.40% | ~3,329 |
 | Terror of LV-426 | 0.40% | ~3,329 |
-| The Grand Sacrifice | 0.30% | ~2,496 |
-| Backdoor Escape | 0.30% | ~2,496 |
-| No one left behind | 0.30% | ~2,496 |
-| Medic | 0.30% | ~2,496 |
-| Nerves of steel | 0.30% | ~2,496 |
-| Perfect Escape | 0.30% | ~2,496 |
-| Bloody Millionaire | 0.30% | ~2,496 |
-| I | 0.30% | ~2,496 |
-| Sorted | 0.30% | ~2,496 |
-| Healthy Obsession | 0.30% | ~2,496 |
-| Resurgence | 0.30% | ~2,496 |
-| Preemptive Strike | 0.30% | ~2,496 |
-| Agonizing Escape | 0.20% | ~1,664 |
-| I've got your back | 0.20% | ~1,664 |
-| Perfect Killing | 0.20% | ~1,664 |
-| Apt Killer | 0.20% | ~1,664 |
-| Risk it all | 0.20% | ~1,664 |
-| Vulture | 0.20% | ~1,664 |
-| II | 0.20% | ~1,664 |
-| III | 0.20% | ~1,664 |
-| Engineer | 0.20% | ~1,664 |
-| Wounded Healer | 0.20% | ~1,664 |
-| Close Shave | 0.20% | ~1,664 |
-| Humanitarian | 0.20% | ~1,664 |
-| Second Act | 0.20% | ~1,664 |
+| The Grand Sacrifice | 0.30% | ~2,497 |
+| Backdoor Escape | 0.30% | ~2,497 |
+| No one left behind | 0.30% | ~2,497 |
+| Medic | 0.30% | ~2,497 |
+| Nerves of steel | 0.30% | ~2,497 |
+| Perfect Escape | 0.30% | ~2,497 |
+| Bloody Millionaire | 0.30% | ~2,497 |
+| I | 0.30% | ~2,497 |
+| Sorted | 0.30% | ~2,497 |
+| Healthy Obsession | 0.30% | ~2,497 |
+| Resurgence | 0.30% | ~2,497 |
+| Preemptive Strike | 0.30% | ~2,497 |
+| Humanitarian | 0.30% | ~2,497 |
+| Agonizing Escape | 0.20% | ~1,665 |
+| I've got your back | 0.20% | ~1,665 |
+| Perfect Killing | 0.20% | ~1,665 |
+| Apt Killer | 0.20% | ~1,665 |
+| Risk it all | 0.20% | ~1,665 |
+| Vulture | 0.20% | ~1,665 |
+| II | 0.20% | ~1,665 |
+| III | 0.20% | ~1,665 |
+| Engineer | 0.20% | ~1,665 |
+| Wounded Healer | 0.20% | ~1,665 |
+| Close Shave | 0.20% | ~1,665 |
+| Second Act | 0.20% | ~1,665 |
 | A bite for the Entity | 0.10% | ~832 |
 | A feast for the Entity | 0.10% | ~832 |
 | Blood on your hands | 0.10% | ~832 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~832 |
 | Adept Ripley | 0.10% | ~832 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 832,152 (Ranked 15)  
+Progressed: 832,275 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -369,10 +369,10 @@ Completed: 48 (0.01%) (Ranked 253)
 | 2023-08-28 | 824,988 | 48 |
 | 2023-08-29 | 828,020 | 48 |
 | 2023-08-30 | 831,117 | 48 |
-| 2023-08-31 | 832,152 | 48 |
+| 2023-08-31 | 832,275 | 48 |
 ## Awards
 Max (Diverse Characters): 31,726  (Ranked 15)  
-Sum: 248,735 (Ranked 11)  
+Sum: 248,819 (Ranked 11)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
@@ -383,8 +383,8 @@ Diff (max vs sum): 4
 | This game is Extremely Fun | 27,872 |
 | This game has Quickly Understood Controls | 27,585 |
 | This game has Challenging Combat | 27,252 |
-| This game has Amazing Storytelling | 25,544 |
-| This game has a Competitive Community | 23,843 |
+| This game has Amazing Storytelling | 25,581 |
+| This game has a Competitive Community | 23,890 |
 | This game has Obsessive Gameplay | 16,768 |
 | This game is Great for Quick Sessions | 4,888 |
 ## Ratings History
@@ -609,4 +609,4 @@ Diff (max vs sum): 4
 | 2023-08-28 | 4.52 | - | 31,536 | 247,765 |
 | 2023-08-29 | 4.52 | - | 31,566 | 248,001 |
 | 2023-08-30 | 4.52 | - | 31,677 | 248,552 |
-| 2023-08-31 | 4.52 | - | 31,726 | 248,735 |
+| 2023-08-31 | 4.52 | - | 31,726 | 248,819 |

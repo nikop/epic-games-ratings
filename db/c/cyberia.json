@@ -2,9 +2,9 @@
   "ID": "fe6941833a2d4ccea78e664e1d40b224",
   "Name": "Cyberia",
   "ProductSlug": "cyberia-bfdd70",
-  "Ranking_EOS_Progress": 567,
+  "Ranking_EOS_Progress": 568,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewPlayers": 343,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-08-12T16:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:32.3035827+00:00",
   "LastChanged": "2023-03-31T05:58:32.3035829+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:13.7884235+00:00",
-  "LastUpdate_Ratings": "2023-08-31T10:57:59.0243078+00:00",
-  "LastUpdate_Achievements": "2023-08-31T11:07:19.9680164+00:00"
+  "LastUpdate_Ratings": "2023-08-31T11:57:44.2869973+00:00",
+  "LastUpdate_Achievements": "2023-08-31T12:06:21.3569294+00:00"
 }

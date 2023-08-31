@@ -2,9 +2,9 @@
   "ID": "7bb3abde85864426bd5996077a7ea1de",
   "Name": "Guardians of Elderon",
   "ProductSlug": "guardians-of-elderon-026db6",
-  "Ranking_EOS_Progress": 567,
+  "Ranking_EOS_Progress": 568,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewPlayers": 343,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-26T08:59:25.8484036+00:00",
-  "LastUpdate_Ratings": "2023-08-31T10:57:43.5449338+00:00",
-  "LastUpdate_Achievements": "2023-08-31T11:06:27.2664267+00:00"
+  "LastUpdate_Ratings": "2023-08-31T11:57:32.0669863+00:00",
+  "LastUpdate_Achievements": "2023-08-31T12:05:36.964675+00:00"
 }

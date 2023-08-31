@@ -32,6 +32,7 @@ Number of Ratings: 37  (23.09.2022)
 | Bread for the people II | 4.00% | ~170 |
 | I like to build stuff... III | 4.00% | ~170 |
 | An honorable Governor II | 4.00% | ~170 |
+| Full-time job III | 4.00% | ~170 |
 | Tax-man IV | 4.00% | ~170 |
 | A time consuming game III | 4.00% | ~170 |
 | Conflicting parties | 4.00% | ~170 |
@@ -43,7 +44,6 @@ Number of Ratings: 37  (23.09.2022)
 | Saint Florian | 3.00% | ~128 |
 | My precious... I | 3.00% | ~128 |
 | Cosmas and Damian | 3.00% | ~128 |
-| Full-time job III | 3.00% | ~128 |
 | Tools of the trade II | 3.00% | ~128 |
 | The Art of War | 2.00% | ~85 |
 | Five brews are a schnitzel | 2.00% | ~85 |

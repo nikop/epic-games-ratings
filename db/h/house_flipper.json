@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 192,
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
@@ -1848,9 +1848,9 @@
       "Count": 213
     }
   ],
-  "EOS_Progressed": 20708,
+  "EOS_Progressed": 20709,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8043,6 +8043,11 @@
       "Time": "2023-08-31T10:04:38.389302+00:00",
       "NumProgressed": 20708,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-08-31T12:04:40.5173102+00:00",
+      "NumProgressed": 20709,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 23,
@@ -8206,7 +8211,7 @@
       "Name": "Pro-creative",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3727
+      "UsersEstimate": 3728
     },
     {
       "ID": "Strongman",
@@ -8214,7 +8219,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6419
+      "UsersEstimate": 6420
     },
     {
       "ID": "VeronicaLiptson",
@@ -8237,15 +8242,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 20708,
+      "Progressed": 20709,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-08-23T21:57:18.2266259+00:00",
-  "LastChanged_Achievements": "2023-08-31T11:05:16.8023819+00:00",
+  "LastChanged_Achievements": "2023-08-31T12:04:40.5173096+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:07.6921675+00:00",
-  "LastUpdate_Ratings": "2023-08-31T10:58:48.5309381+00:00",
-  "LastUpdate_Achievements": "2023-08-31T11:05:16.802451+00:00"
+  "LastUpdate_Ratings": "2023-08-31T11:58:23.8492216+00:00",
+  "LastUpdate_Achievements": "2023-08-31T12:04:40.517366+00:00"
 }

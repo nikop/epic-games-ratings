@@ -17,8 +17,8 @@ Rating: 4.77 (Ranked 109)
 | A Talent for Spending | 10.00% | ~29,113 |
 | Coasting Along | 10.00% | ~29,113 |
 | That's a Keeper | 10.00% | ~29,113 |
-| The Hero of Hogwarts | 9.00% | ~26,201 |
-| Challenge Accepted | 9.00% | ~26,201 |
+| The Hero of Hogwarts | 9.00% | ~26,202 |
+| Challenge Accepted | 9.00% | ~26,202 |
 | Followed the Butterflies | 8.00% | ~23,290 |
 | The Spell Master | 8.00% | ~23,290 |
 | Rising From the Ashes | 8.00% | ~23,290 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,747 |
 | Collector's Edition | 0.30% | ~873 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 291,127 (Ranked 43)  
+Progressed: 291,130 (Ranked 43)  
 Completed: 458 (0.16%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 458 (0.16%) (Ranked 197)
 | 2023-08-28 | 291,008 | 456 |
 | 2023-08-29 | 291,057 | 457 |
 | 2023-08-30 | 291,109 | 458 |
-| 2023-08-31 | 291,127 | 458 |
+| 2023-08-31 | 291,130 | 458 |
 ## Awards
 Max (Character Customization): 22,026  (Ranked 17)  
 Sum: 41,797 (Ranked 30)  

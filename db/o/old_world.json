@@ -11546,9 +11546,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_LANDOWNERS",
       "SetID": "7l38kb8",
       "Name": "Landowners",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 96
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_PATRONS",
@@ -13064,8 +13064,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-30T22:01:08.7702063+00:00",
-  "LastChanged_Achievements": "2023-08-31T11:02:29.1144809+00:00",
+  "LastChanged_Achievements": "2023-08-31T12:02:17.2452076+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:39.7773306+00:00",
-  "LastUpdate_Ratings": "2023-08-31T10:57:04.0861162+00:00",
-  "LastUpdate_Achievements": "2023-08-31T11:02:29.1157237+00:00"
+  "LastUpdate_Ratings": "2023-08-31T11:57:01.3004146+00:00",
+  "LastUpdate_Achievements": "2023-08-31T12:02:17.2461343+00:00"
 }

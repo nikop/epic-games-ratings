@@ -6,20 +6,20 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 97.00% | ~48,622 |
+| ''You guys got yourself a ship!'' | 97.00% | ~48,623 |
 | ''I don't like you either!'' | 79.00% | ~39,600 |
 | ''Impressive, most impressive'' | 72.00% | ~36,091 |
 | ''You think you're some kind of Jedi?'' | 72.00% | ~36,091 |
-| The Phantom Menace | 59.00% | ~29,574 |
-| ''Aggressive Negotiations'' | 59.00% | ~29,574 |
-| ''I can fly anything'' | 58.00% | ~29,073 |
-| ''And who gave you permission...?'' | 54.00% | ~27,068 |
-| A New Hope | 48.00% | ~24,060 |
-| Attack of the Clones | 47.00% | ~23,559 |
+| The Phantom Menace | 59.00% | ~29,575 |
+| ''Aggressive Negotiations'' | 59.00% | ~29,575 |
+| ''I can fly anything'' | 58.00% | ~29,074 |
+| ''And who gave you permission...?'' | 54.00% | ~27,069 |
+| A New Hope | 48.00% | ~24,061 |
+| Attack of the Clones | 47.00% | ~23,560 |
 | Revenge of the Sith | 41.00% | ~20,552 |
 | The Empire Strikes Back | 38.00% | ~19,048 |
 | ''A fine addition to my collection'' | 37.00% | ~18,547 |
-| Return of the Jedi | 32.00% | ~16,040 |
+| Return of the Jedi | 32.00% | ~16,041 |
 | The Force Awakens | 27.00% | ~13,534 |
 | The Last Jedi | 23.00% | ~11,529 |
 | The Rise of Skywalker | 20.00% | ~10,025 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''Jedi Business'' | 1.00% | ~501 |
 | ''I've never seen a real one!'' | 0.90% | ~451 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,126 (Ranked 91)  
+Progressed: 50,127 (Ranked 91)  
 Completed: 228 (0.45%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 228 (0.45%) (Ranked 156)
 | 2023-08-28 | 50,112 | 225 |
 | 2023-08-29 | 50,118 | 226 |
 | 2023-08-30 | 50,125 | 228 |
-| 2023-08-31 | 50,126 | 228 |
+| 2023-08-31 | 50,127 | 228 |
 ## Awards
 Max (Great Boss Battles): 2,387  (Ranked 104)  
 Sum: 6,560 (Ranked 119)  

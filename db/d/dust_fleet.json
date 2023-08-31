@@ -2,9 +2,9 @@
   "ID": "603a6b1a44614e81a5a3295816413227",
   "Name": "Dust Fleet",
   "ProductSlug": "dust-fleet-620614",
-  "Ranking_EOS_Progress": 567,
+  "Ranking_EOS_Progress": 568,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewPlayers": 343,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-08-23T18:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-24T18:58:14.1320929+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:09.0285058+00:00",
-  "LastUpdate_Ratings": "2023-08-31T10:58:47.6628317+00:00",
-  "LastUpdate_Achievements": "2023-08-31T11:05:57.3287534+00:00"
+  "LastUpdate_Ratings": "2023-08-31T11:58:22.5938759+00:00",
+  "LastUpdate_Achievements": "2023-08-31T12:05:12.5686338+00:00"
 }

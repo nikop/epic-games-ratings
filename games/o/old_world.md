@@ -108,6 +108,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Single Player Game | 0.80% | ~110 |
 | Devout | 0.70% | ~96 |
 | Ready | 0.70% | ~96 |
+| Landowners | 0.70% | ~96 |
 | Riders | 0.70% | ~96 |
 | Church of the Holy Sepulchre | 0.70% | ~96 |
 | Assyrian Paganism | 0.70% | ~96 |
@@ -121,7 +122,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bad Heir Day | 0.60% | ~82 |
 | Strong Difficulty | 0.60% | ~82 |
 | Hunters | 0.60% | ~82 |
-| Landowners | 0.60% | ~82 |
 | Adur Burzen-Mihr | 0.60% | ~82 |
 | Learn to Play 4 | 0.60% | ~82 |
 | Babylonia | 0.60% | ~82 |

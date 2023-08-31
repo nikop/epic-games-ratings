@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 523,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 369,
+  "EOS_NewPlayers": 366,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -922,9 +922,9 @@
       "ID": "DrinkingOnTheJob",
       "SetID": "3ai6ml8",
       "Name": "Drinking on the Job",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 246
+      "UsersEstimate": 251
     },
     {
       "ID": "DustDancing",
@@ -1018,9 +1018,9 @@
       "ID": "WelcomeToFortSolis",
       "SetID": "3ai6ml8",
       "Name": "Welcome to Fort Solis",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 460
+      "UsersEstimate": 465
     }
   ],
   "AchievementSets": [
@@ -1033,8 +1033,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-08-31T11:04:41.7783286+00:00",
+  "LastChanged_Achievements": "2023-08-31T12:04:11.9080509+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:05.9137937+00:00",
-  "LastUpdate_Ratings": "2023-08-31T10:59:06.699252+00:00",
-  "LastUpdate_Achievements": "2023-08-31T11:04:41.7783545+00:00"
+  "LastUpdate_Ratings": "2023-08-31T11:58:38.3755127+00:00",
+  "LastUpdate_Achievements": "2023-08-31T12:04:11.908071+00:00"
 }

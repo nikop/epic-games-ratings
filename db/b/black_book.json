@@ -5,9 +5,9 @@
   "Ranking_Rating": 163,
   "Ranking_Popularity": 486,
   "Ranking_PopularitySum": 491,
-  "Ranking_EOS_Progress": 567,
+  "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewPlayers": 343,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-08-10T17:00:00+00:00",
@@ -342,28 +342,436 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 189,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2023-08-31T12:04:24.6023088+00:00",
+      "NumProgressed": 189,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
+  "TotalAchievements": 50,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ALL_BLACK_CARDS",
+      "SetID": "bijn3c8",
+      "Name": "Black Sorceress",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ALL_CARDS",
+      "SetID": "bijn3c8",
+      "Name": "Revelation",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ALL_SEALS",
+      "SetID": "bijn3c8",
+      "Name": "Worthy",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ASPEN_TREE",
+      "SetID": "bijn3c8",
+      "Name": "Aspen Tree",
+      "Percentage": 1,
+      "XP": 20,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "BAD_END",
+      "SetID": "bijn3c8",
+      "Name": "Mistress of Hell",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BLACK_BOOK",
+      "SetID": "bijn3c8",
+      "Name": "Black Book",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BLACK_SORCERER",
+      "SetID": "bijn3c8",
+      "Name": "Black Sorcerer",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CARD_PLAYER",
+      "SetID": "bijn3c8",
+      "Name": "Card Player",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CHEATER",
+      "SetID": "bijn3c8",
+      "Name": "Cheater",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COW_LEVEL",
+      "SetID": "bijn3c8",
+      "Name": "Cow Level",
+      "Percentage": 0.5,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "DEAD_MAN",
+      "SetID": "bijn3c8",
+      "Name": "Dead Man",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DETECTIVE",
+      "SetID": "bijn3c8",
+      "Name": "Detective",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DIPLOMAT",
+      "SetID": "bijn3c8",
+      "Name": "Diplomat",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EGOR_LOYAL",
+      "SetID": "bijn3c8",
+      "Name": "Old Friend",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ENCYCLOPEDIA_1",
+      "SetID": "bijn3c8",
+      "Name": "Student",
+      "Percentage": 0.5,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ENCYCLOPEDIA_2",
+      "SetID": "bijn3c8",
+      "Name": "Scientist",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ENCYCLOPEDIA_3",
+      "SetID": "bijn3c8",
+      "Name": "Encyclopedist",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FERN",
+      "SetID": "bijn3c8",
+      "Name": "Fern",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FRIENDS",
+      "SetID": "bijn3c8",
+      "Name": "100 Friends",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GOOD_END",
+      "SetID": "bijn3c8",
+      "Name": "Righteous",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GREAT_SORCERER",
+      "SetID": "bijn3c8",
+      "Name": "Great Sorceress",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HEAD_LOYAL",
+      "SetID": "bijn3c8",
+      "Name": "White Head",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HERBS_1",
+      "SetID": "bijn3c8",
+      "Name": "Healer",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HERBS_2",
+      "SetID": "bijn3c8",
+      "Name": "Herbalist",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HERBS_3",
+      "SetID": "bijn3c8",
+      "Name": "Witch",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "INITIATION",
+      "SetID": "bijn3c8",
+      "Name": "Initiation",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KARNYSH_LOYAL",
+      "SetID": "bijn3c8",
+      "Name": "Vorsa",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MERMAID_FREE",
+      "SetID": "bijn3c8",
+      "Name": "Dead Friend",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MERMAID_NOT_FREE",
+      "SetID": "bijn3c8",
+      "Name": "Own Way",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MUSIC_ALL",
+      "SetID": "bijn3c8",
+      "Name": "Musician",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_SPIRITS",
+      "SetID": "bijn3c8",
+      "Name": "New Spirits",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NIKOLAY_LOYAL",
+      "SetID": "bijn3c8",
+      "Name": "Soldier",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NORMAL_END",
+      "SetID": "bijn3c8",
+      "Name": "Koldun",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "OLD_SPIRITS",
+      "SetID": "bijn3c8",
+      "Name": "Old Spirits",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ONOMASTIKON_ITEMS",
+      "SetID": "bijn3c8",
+      "Name": "Researcher",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PINE_TREE",
+      "SetID": "bijn3c8",
+      "Name": "Pine Tree",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PROSHKA_LOYAL",
+      "SetID": "bijn3c8",
+      "Name": "Voipel",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SAVVY",
+      "SetID": "bijn3c8",
+      "Name": "Savvy",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SINNER",
+      "SetID": "bijn3c8",
+      "Name": "Sinner",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SUSANIN",
+      "SetID": "bijn3c8",
+      "Name": "Susanin",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TALES_1",
+      "SetID": "bijn3c8",
+      "Name": "Listener",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TALES_2",
+      "SetID": "bijn3c8",
+      "Name": "Collector",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TALES_3",
+      "SetID": "bijn3c8",
+      "Name": "Folklorist",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TRAVELLER",
+      "SetID": "bijn3c8",
+      "Name": "Traveller",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WATER",
+      "SetID": "bijn3c8",
+      "Name": "Water",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WOLF",
+      "SetID": "bijn3c8",
+      "Name": "Wolf",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WORD_MASTER",
+      "SetID": "bijn3c8",
+      "Name": "Word Master",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ZNATKOST_1",
+      "SetID": "bijn3c8",
+      "Name": "Knower",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ZNATKOST_2",
+      "SetID": "bijn3c8",
+      "Name": "Black Mage",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ZNATKOST_3",
+      "SetID": "bijn3c8",
+      "Name": "Keeper of Knowledge",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 189,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2023-08-30T23:01:15.1581425+00:00",
-  "LastChanged_Achievements": "2023-08-31T11:04:57.2267438+00:00",
+  "LastChanged_Achievements": "2023-08-31T12:04:24.6023082+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:43.2648361+00:00",
-  "LastUpdate_Ratings": "2023-08-31T10:57:06.1320345+00:00",
-  "LastUpdate_Achievements": "2023-08-31T11:04:57.2267482+00:00"
+  "LastUpdate_Ratings": "2023-08-31T11:57:02.6296522+00:00",
+  "LastUpdate_Achievements": "2023-08-31T12:04:24.6444381+00:00"
 }

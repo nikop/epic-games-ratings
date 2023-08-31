@@ -1068,9 +1068,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 4930,
+  "EOS_Progressed": 4931,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8843,6 +8843,11 @@
       "Time": "2023-08-31T11:04:44.6671575+00:00",
       "NumProgressed": 4930,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-31T12:04:14.2064475+00:00",
+      "NumProgressed": 4931,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -8902,7 +8907,7 @@
       "Name": "Viva Tropico!",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "ACH_EP_BETTERREDTHANDEAD",
@@ -9006,7 +9011,7 @@
       "Name": "The Governator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 887
+      "UsersEstimate": 888
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -9014,7 +9019,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 3747
+      "UsersEstimate": 3748
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -9110,7 +9115,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2317
+      "UsersEstimate": 2318
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -9142,7 +9147,7 @@
       "Name": "Watch The World Burn",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "ACH_WONDER_FAIRYTALE",
@@ -9150,7 +9155,7 @@
       "Name": "Fairy Tale Come True",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "ACH_WONDER_FRENCHCONNECTION",
@@ -9173,15 +9178,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 4930,
+      "Progressed": 4931,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-08-31T09:59:05.0976129+00:00",
-  "LastChanged_Achievements": "2023-08-31T11:04:44.6671569+00:00",
+  "LastChanged_Achievements": "2023-08-31T12:04:14.2064469+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:51.1953585+00:00",
-  "LastUpdate_Ratings": "2023-08-31T10:59:37.547763+00:00",
-  "LastUpdate_Achievements": "2023-08-31T11:04:44.6672581+00:00"
+  "LastUpdate_Ratings": "2023-08-31T11:59:02.377357+00:00",
+  "LastUpdate_Achievements": "2023-08-31T12:04:14.2065276+00:00"
 }

@@ -3,6 +3,66 @@
 [View Rawdata](../../db/b/black_book.json)  
 Rating: 4.73 (Ranked 163)  
 Number of Ratings: 96  (23.09.2022)  
+## Achievements
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Aspen Tree | 1.00% | ~2 |
+| Cow Level | 0.50% | ~1 |
+| Student | 0.50% | ~1 |
+| Black Sorceress | 0.00% | ~0 |
+| Revelation | 0.00% | ~0 |
+| Worthy | 0.00% | ~0 |
+| Mistress of Hell | 0.00% | ~0 |
+| Black Book | 0.00% | ~0 |
+| Black Sorcerer | 0.00% | ~0 |
+| Card Player | 0.00% | ~0 |
+| Cheater | 0.00% | ~0 |
+| Dead Man | 0.00% | ~0 |
+| Detective | 0.00% | ~0 |
+| Diplomat | 0.00% | ~0 |
+| Old Friend | 0.00% | ~0 |
+| Scientist | 0.00% | ~0 |
+| Encyclopedist | 0.00% | ~0 |
+| Fern | 0.00% | ~0 |
+| 100 Friends | 0.00% | ~0 |
+| Righteous | 0.00% | ~0 |
+| Great Sorceress | 0.00% | ~0 |
+| White Head | 0.00% | ~0 |
+| Healer | 0.00% | ~0 |
+| Herbalist | 0.00% | ~0 |
+| Witch | 0.00% | ~0 |
+| Initiation | 0.00% | ~0 |
+| Vorsa | 0.00% | ~0 |
+| Dead Friend | 0.00% | ~0 |
+| Own Way | 0.00% | ~0 |
+| Musician | 0.00% | ~0 |
+| New Spirits | 0.00% | ~0 |
+| Soldier | 0.00% | ~0 |
+| Koldun | 0.00% | ~0 |
+| Old Spirits | 0.00% | ~0 |
+| Researcher | 0.00% | ~0 |
+| Pine Tree | 0.00% | ~0 |
+| Voipel | 0.00% | ~0 |
+| Savvy | 0.00% | ~0 |
+| Sinner | 0.00% | ~0 |
+| Susanin | 0.00% | ~0 |
+| Listener | 0.00% | ~0 |
+| Collector | 0.00% | ~0 |
+| Folklorist | 0.00% | ~0 |
+| Traveller | 0.00% | ~0 |
+| Water | 0.00% | ~0 |
+| Wolf | 0.00% | ~0 |
+| Word Master | 0.00% | ~0 |
+| Knower | 0.00% | ~0 |
+| Black Mage | 0.00% | ~0 |
+| Keeper of Knowledge | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 189 (Ranked 303)  
+Completed: 0 (0.00%) (Ranked 266)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-08-31 | 189 | 0 |
 ## Awards
 Max (Character Customization): 24  (Ranked 486)  
 Sum: 24 (Ranked 491)  

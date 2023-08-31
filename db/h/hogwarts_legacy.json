@@ -6984,9 +6984,9 @@
       "Count": 609
     }
   ],
-  "EOS_Progressed": 291127,
+  "EOS_Progressed": 291130,
   "EOS_Completed": 458,
-  "EOS_NewPlayers": 428,
+  "EOS_NewPlayers": 431,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -21264,6 +21264,11 @@
       "Time": "2023-08-31T10:03:49.8794629+00:00",
       "NumProgressed": 291127,
       "NumCompleted": 458
+    },
+    {
+      "Time": "2023-08-31T12:03:52.7664608+00:00",
+      "NumProgressed": 291130,
+      "NumCompleted": 458
     }
   ],
   "TotalAchievements": 45,
@@ -21307,7 +21312,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 26201
+      "UsersEstimate": 26202
     },
     {
       "ID": "PFA_14",
@@ -21379,7 +21384,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26201
+      "UsersEstimate": 26202
     },
     {
       "ID": "PFA_22",
@@ -21634,7 +21639,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 291127,
+      "Progressed": 291130,
       "Completed": 458
     }
   ],
@@ -21642,8 +21647,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-08-31T05:01:39.4205268+00:00",
-  "LastChanged_Achievements": "2023-08-31T11:04:18.0846304+00:00",
+  "LastChanged_Achievements": "2023-08-31T12:03:52.7664601+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:27.4425386+00:00",
-  "LastUpdate_Ratings": "2023-08-31T11:00:52.6752961+00:00",
-  "LastUpdate_Achievements": "2023-08-31T11:04:18.0847943+00:00"
+  "LastUpdate_Ratings": "2023-08-31T12:00:00.7609993+00:00",
+  "LastUpdate_Achievements": "2023-08-31T12:03:52.7665884+00:00"
 }

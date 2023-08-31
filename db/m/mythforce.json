@@ -581,9 +581,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 1074,
+  "EOS_Progressed": 1076,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3301,6 +3301,11 @@
       "Time": "2023-08-31T06:03:17.176015+00:00",
       "NumProgressed": 1074,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-31T12:02:14.6396969+00:00",
+      "NumProgressed": 1076,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -3345,7 +3350,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -3361,7 +3366,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -3369,7 +3374,7 @@
       "Name": "First Strike",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -3377,7 +3382,7 @@
       "Name": "Flawless Victory",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "MF_Ach_FourthGate",
@@ -3401,7 +3406,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -3425,7 +3430,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -3449,7 +3454,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -3473,7 +3478,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -3496,15 +3501,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 1074,
+      "Progressed": 1076,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-08-19T00:01:25.4224345+00:00",
-  "LastChanged_Achievements": "2023-08-31T11:02:26.3013724+00:00",
+  "LastChanged_Achievements": "2023-08-31T12:02:14.6396964+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:13.6724499+00:00",
-  "LastUpdate_Ratings": "2023-08-31T10:57:43.9903171+00:00",
-  "LastUpdate_Achievements": "2023-08-31T11:02:26.3014202+00:00"
+  "LastUpdate_Ratings": "2023-08-31T11:57:32.4617329+00:00",
+  "LastUpdate_Achievements": "2023-08-31T12:02:14.6397409+00:00"
 }

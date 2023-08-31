@@ -232,9 +232,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1559,
+  "EOS_Progressed": 1560,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3432,6 +3432,11 @@
       "Time": "2023-08-31T11:04:19.6164406+00:00",
       "NumProgressed": 1559,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-31T12:03:54.1953856+00:00",
+      "NumProgressed": 1560,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3515,7 +3520,7 @@
       "Name": "The Collector",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "ACHIEVEMENT_ZERO_WASTE",
@@ -3619,7 +3624,7 @@
       "Name": "Electrician",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -3667,7 +3672,7 @@
       "Name": "Houston we have a problem",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -3689,9 +3694,9 @@
       "ID": "NEW_ACHIEVEMENT_MINER",
       "SetID": "l546gc",
       "Name": "Miner",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 390
+      "UsersEstimate": 374
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -3699,7 +3704,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -3715,7 +3720,7 @@
       "Name": "Occupy Mars!",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -3826,7 +3831,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1559,
+      "Progressed": 1560,
       "Completed": 0
     }
   ],
@@ -3834,8 +3839,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-08-28T18:01:28.2761395+00:00",
-  "LastChanged_Achievements": "2023-08-31T11:04:19.61644+00:00",
+  "LastChanged_Achievements": "2023-08-31T12:03:54.195385+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:32.8469898+00:00",
-  "LastUpdate_Ratings": "2023-08-31T11:00:56.8520418+00:00",
-  "LastUpdate_Achievements": "2023-08-31T11:04:19.616517+00:00"
+  "LastUpdate_Ratings": "2023-08-31T12:00:04.0807097+00:00",
+  "LastUpdate_Achievements": "2023-08-31T12:03:54.1954484+00:00"
 }

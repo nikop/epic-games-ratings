@@ -2,9 +2,9 @@
   "ID": "fe4fbacf140f4fb2a05f074730a3375c",
   "Name": "Angelo and Deemon: One Hell of a Quest",
   "ProductSlug": "angelo-and-deemon-one-hell-of-a-quest-94d7e2",
-  "Ranking_EOS_Progress": 438,
+  "Ranking_EOS_Progress": 439,
   "Ranking_EOS_Completed": 44,
-  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewPlayers": 296,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-08-15T14:00:00+00:00",
@@ -172,9 +172,9 @@
       "ID": "MilitaryContract",
       "SetID": "bl5ebnd",
       "Name": "Military Contract",
-      "Percentage": 44,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "NewLife",
@@ -259,8 +259,8 @@
   ],
   "FirstSeen": "2023-08-17T18:58:24.9645981+00:00",
   "FirstSeenAchievements": "2023-08-07T14:05:00.198888+00:00",
-  "LastChanged_Achievements": "2023-08-31T11:07:41.3142226+00:00",
+  "LastChanged_Achievements": "2023-08-31T12:06:38.755409+00:00",
   "LastUpdate_AppInfo": "2023-08-24T13:01:28.6254437+00:00",
-  "LastUpdate_Ratings": "2023-08-31T11:00:22.9776938+00:00",
-  "LastUpdate_Achievements": "2023-08-31T11:07:41.3142386+00:00"
+  "LastUpdate_Ratings": "2023-08-31T11:59:37.1256128+00:00",
+  "LastUpdate_Achievements": "2023-08-31T12:06:38.7554225+00:00"
 }
