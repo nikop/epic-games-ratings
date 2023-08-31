@@ -125,6 +125,7 @@
 | [Against the Storm](../games/a/against_the_storm.md) | 50 | 1,000 |
 | [Age of Wonders 4](../games/a/age_of_wonders_4.md) | 50 | 1,215 |
 | [Arcadegeddon](../games/a/arcadegeddon.md) | 50 | 1,000 |
+| [Black Book](../games/b/black_book.md) | 50 | 1,000 |
 | [Circus Electrique](../games/c/circus_electrique.md) | 50 | 1,000 |
 | [EBOLA 3](../games/e/ebola_3.md) | 50 | 1,000 |
 | [Eiyuden Chronicle: Rising](../games/e/eiyuden_chronicle__rising.md) | 50 | 1,000 |
@@ -507,6 +508,7 @@
 | [Seven Doors](../games/s/seven_doors.md) | 17 | 1,000 |
 | [Super Bit Blaster XL](../games/s/super_bit_blaster_xl.md) | 17 | 1,000 |
 | [Swordship](../games/s/swordship.md) | 17 | 1,000 |
+| [The Case of the Golden Idol](../games/t/the_case_of_the_golden_idol.md) | 17 | 1,440 |
 | [Who Pressed Mute on Uncle Marcus?](../games/w/who_pressed_mute_on_uncle_marcus.md) | 17 | 1,000 |
 | [Alex Kidd in Miracle World DX](../games/a/alex_kidd_in_miracle_world_dx.md) | 16 | 1,000 |
 | [Asteroids: Recharged](../games/a/asteroids__recharged.md) | 16 | 1,000 |
@@ -548,7 +550,6 @@
 | [Hello Neighbor 2](../games/h/hello_neighbor_2.md) | 14 | 1,000 |
 | [It's a Wrap!](../games/i/it's_a_wrap!.md) | 14 | 1,000 |
 | [Luna's Fishing Garden](../games/l/luna's_fishing_garden.md) | 14 | 1,000 |
-| [The Case of the Golden Idol](../games/t/the_case_of_the_golden_idol.md) | 14 | 1,220 |
 | [The Devil's Face](../games/t/the_devil's_face.md) | 14 | 1,000 |
 | [The First Tree](../games/t/the_first_tree.md) | 14 | 1,000 |
 | [Blanc](../games/b/blanc.md) | 13 | 1,000 |

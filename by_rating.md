@@ -142,7 +142,7 @@
 | 135 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 644 | 176 |
 | 135 | [Hypnospace Outlaw](games/h/hypnospace_outlaw.md) | 4.75 | 0 | 514 |
 | 135 | [Legend Bowl](games/l/legend_bowl.md) | 4.75 | 0 | 514 |
-| 135 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 575 | 186 |
+| 135 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 577 | 184 |
 | 135 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.75 | 0 | 514 |
 | 135 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.75 | 0 | 514 |
 | 135 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 0 | 514 |
@@ -183,7 +183,7 @@
 | 176 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 76 | 367 |
 | 176 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.72 | 124 | 314 |
 | 176 | [Slipways](games/s/slipways.md) | 4.72 | 0 | 514 |
-| 176 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 321 | 234 |
+| 176 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 322 | 232 |
 | 176 | [SUPERHOT](games/s/superhot.md) | 4.72 | 0 | 514 |
 | 176 | [The Red Lantern](games/t/the_red_lantern.md) | 4.72 | 0 | 514 |
 | 176 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 0 | 514 |
@@ -247,7 +247,7 @@
 | 241 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,354 | 47 |
 | 241 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,924 | 80 |
 | 241 | [DOOM II](games/d/doom_ii.md) | 4.68 | 26 | 476 |
-| 241 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,840 | 59 |
+| 241 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,861 | 58 |
 | 241 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 3,737 | 83 |
 | 241 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 304,360 | 3 |
 | 241 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 218,801 | 4 |
@@ -296,7 +296,7 @@
 | 281 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.66 | 0 | 514 |
 | 281 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.66 | 105 | 331 |
 | 281 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.66 | 0 | 514 |
-| 281 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,848 | 58 |
+| 281 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,848 | 59 |
 | 281 | [Tropico 6](games/t/tropico_6.md) | 4.66 | 98 | 339 |
 | 281 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 460 | 205 |
 | 281 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 22 | 495 |
@@ -353,7 +353,7 @@
 | 334 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.63 | 68 | 381 |
 | 334 | [Transistor](games/t/transistor.md) | 4.63 | 0 | 514 |
 | 334 | [Warhammer 40,000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.63 | 0 | 514 |
-| 354 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 76,765 | 9 |
+| 354 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 76,882 | 9 |
 | 354 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 282 | 241 |
 | 354 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 34 | 443 |
 | 354 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 76 | 367 |
@@ -563,7 +563,7 @@
 | 548 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 36 | 433 |
 | 548 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 134 | 308 |
 | 548 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.51 | 28 | 468 |
-| 564 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 1,716 | 117 |
+| 564 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 1,717 | 117 |
 | 564 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 413 | 212 |
 | 564 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 108 | 328 |
 | 564 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 218 | 268 |
@@ -732,7 +732,7 @@
 | 729 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 0 | 514 |
 | 729 | [Beholder 3](games/b/beholder_3.md) | 4.38 | 0 | 514 |
 | 729 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 0 | 514 |
-| 729 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 575 | 186 |
+| 729 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 575 | 187 |
 | 729 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 164 | 291 |
 | 729 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.38 | 73 | 374 |
 | 729 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 514 |
@@ -779,7 +779,7 @@
 | 774 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 514 |
 | 774 | [Rogue Company](games/r/rogue_company.md) | 4.33 | 5,331 | 65 |
 | 774 | [Speed Brawl](games/s/speed_brawl.md) | 4.33 | 29 | 464 |
-| 774 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.33 | 1,640 | 119 |
+| 774 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.33 | 1,669 | 119 |
 | 781 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 357 | 226 |
 | 781 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.32 | 60 | 390 |
 | 781 | [Filament](games/f/filament.md) | 4.32 | 561 | 192 |
@@ -960,7 +960,7 @@
 | 957 | [Chimeraland](games/c/chimeraland.md) | 3.93 | 26 | 476 |
 | 957 | [Conarium](games/c/conarium.md) | 3.93 | 0 | 514 |
 | 960 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 333 |
-| 960 | [Warface](games/w/warface.md) | 3.91 | 408 | 215 |
+| 960 | [Warface](games/w/warface.md) | 3.91 | 409 | 215 |
 | 962 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.86 | 0 | 514 |
 | 962 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 0 | 514 |
 | 964 | [Stygian: Reign of the Old Ones](games/s/stygian__reign_of_the_old_ones.md) | 3.85 | 0 | 514 |

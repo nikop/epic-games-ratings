@@ -13,6 +13,7 @@
 | [Alan Wake Remastered](../games/a/alan_wake_remastered.md) | 67 | 1,500 |
 | [The Dungeon of Naheulbeuk](../games/t/the_dungeon_of_naheulbeuk.md) | 88 | 1,490 |
 | [Homeworld: Deserts of Kharak](../games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 48 | 1,440 |
+| [The Case of the Golden Idol](../games/t/the_case_of_the_golden_idol.md) | 17 | 1,440 |
 | [The Tenants](../games/t/the_tenants.md) | 86 | 1,400 |
 | [Gotham Knights](../games/g/gotham_knights.md) | 61 | 1,390 |
 | [Sifu](../games/s/sifu.md) | 50 | 1,350 |
@@ -24,7 +25,6 @@
 | [KeyWe](../games/k/keywe.md) | 20 | 1,250 |
 | [Destiny 2](../games/d/destiny_2.md) | 23 | 1,240 |
 | [Rogue Legacy 2](../games/r/rogue_legacy_2.md) | 39 | 1,240 |
-| [The Case of the Golden Idol](../games/t/the_case_of_the_golden_idol.md) | 14 | 1,220 |
 | [Age of Wonders 4](../games/a/age_of_wonders_4.md) | 50 | 1,215 |
 | [Call of the Wild: The Angler™](../games/c/call_of_the_wild__the_angler™.md) | 35 | 1,200 |
 | [Dying Light 2 Stay Human](../games/d/dying_light_2_stay_human.md) | 65 | 1,200 |
@@ -95,6 +95,7 @@
 | [Battle Ram](../games/b/battle_ram.md) | 22 | 1,000 |
 | [Beach Invasion 1944](../games/b/beach_invasion_1944.md) | 40 | 1,000 |
 | [Biped](../games/b/biped.md) | 15 | 1,000 |
+| [Black Book](../games/b/black_book.md) | 50 | 1,000 |
 | [Black Widow: Recharged](../games/b/black_widow__recharged.md) | 14 | 1,000 |
 | [BLACKTAIL](../games/b/blacktail.md) | 32 | 1,000 |
 | [Blanc](../games/b/blanc.md) | 13 | 1,000 |

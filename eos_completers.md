@@ -3,7 +3,7 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.00% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.31% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 35.51% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 35.19% |
 | 5 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 33.33% |
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.95% |
 | 7 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
@@ -25,7 +25,7 @@
 | 23 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 23 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
 | 23 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.11% |
-| 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.96% |
+| 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.95% |
 | 27 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.71% |
 | 28 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.54% |
 | 29 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 10.00% |
@@ -73,8 +73,8 @@
 | 71 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
 | 72 | [HordeCore](games/h/hordecore.md) | 3.15% |
 | 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.08% |
-| 74 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.02% |
-| 75 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.01% |
+| 74 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.01% |
+| 74 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.01% |
 | 76 | [Monster Harvest](games/m/monster_harvest.md) | 2.93% |
 | 76 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 78 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.80% |
@@ -132,7 +132,7 @@
 | 130 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
 | 130 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.74% |
 | 132 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.72% |
-| 133 | [Lemon Cake](games/l/lemon_cake.md) | 0.70% |
+| 133 | [Lemon Cake](games/l/lemon_cake.md) | 0.69% |
 | 134 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.67% |
 | 135 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.66% |
 | 136 | [Haven](games/h/haven.md) | 0.64% |
@@ -150,8 +150,8 @@
 | 147 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
 | 149 | [Aragami 2](games/a/aragami_2.md) | 0.51% |
 | 150 | [The Surge 2](games/t/the_surge_2.md) | 0.50% |
-| 151 | [Godlike Burger](games/g/godlike_burger.md) | 0.49% |
-| 152 | [Them and Us](games/t/them_and_us.md) | 0.48% |
+| 151 | [Godlike Burger](games/g/godlike_burger.md) | 0.48% |
+| 151 | [Them and Us](games/t/them_and_us.md) | 0.48% |
 | 153 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
 | 154 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.46% |
 | 154 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.46% |
@@ -286,6 +286,7 @@
 | 266 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 0.00% |
 | 266 | [Battle Ram](games/b/battle_ram.md) | 0.00% |
 | 266 | [Biped](games/b/biped.md) | 0.00% |
+| 266 | [Black Book](games/b/black_book.md) | 0.00% |
 | 266 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 0.00% |
 | 266 | [Blood of Titans](games/6/6c2272d1b5f64cb483a3c1088021b39a.md) | 0.00% |
 | 266 | [BloodRayne 2: Terminal Cut](games/b/bloodrayne_2__terminal_cut.md) | 0.00% |
