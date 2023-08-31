@@ -97,7 +97,7 @@
 | 95 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
 | 96 | [Night Book](games/n/night_book.md) | 1.86% |
 | 97 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
-| 98 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
+| 98 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.83% |
 | 99 | [Sifu](games/s/sifu.md) | 1.81% |
 | 100 | [Frogun](games/f/frogun.md) | 1.80% |
 | 101 | [Somerville](games/s/somerville.md) | 1.66% |
