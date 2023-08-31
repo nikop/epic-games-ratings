@@ -6,21 +6,21 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~716,711 |
-| The Blues | 85.00% | ~615,358 |
+| Out of bed | 99.00% | ~716,712 |
+| The Blues | 85.00% | ~615,359 |
 | Fast | 66.00% | ~477,808 |
-| Healthbar | 55.00% | ~398,173 |
-| Force Cube | 53.00% | ~383,694 |
-| Double Jump | 48.00% | ~347,496 |
+| Healthbar | 55.00% | ~398,174 |
+| Force Cube | 53.00% | ~383,695 |
+| Double Jump | 48.00% | ~347,497 |
 | Regeneration | 47.00% | ~340,257 |
 | Triple Jump | 43.00% | ~311,299 |
-| Climb the hill | 42.00% | ~304,059 |
+| Climb the hill | 42.00% | ~304,060 |
 | Through the fire pipe | 39.00% | ~282,341 |
-| MacGuffin | 38.00% | ~275,101 |
+| MacGuffin | 38.00% | ~275,102 |
 | Just once | 37.00% | ~267,862 |
-| Armor | 30.00% | ~217,185 |
-| True holy spirit | 28.00% | ~202,706 |
-| That's how electronics work obviously | 26.00% | ~188,227 |
+| Armor | 30.00% | ~217,186 |
+| True holy spirit | 28.00% | ~202,707 |
+| That's how electronics work obviously | 26.00% | ~188,228 |
 | Force Cube Catapult | 25.00% | ~180,988 |
 | Holy Sword | 23.00% | ~166,509 |
 | Telefrag | 22.00% | ~159,269 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~724 |
 | DLC: Top of the world | 0.10% | ~724 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 723,951 (Ranked 19)  
+Progressed: 723,952 (Ranked 19)  
 Completed: 731 (0.10%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 731 (0.10%) (Ranked 217)
 | 2023-08-28 | 723,579 | 728 |
 | 2023-08-29 | 723,703 | 730 |
 | 2023-08-30 | 723,812 | 730 |
-| 2023-08-31 | 723,951 | 731 |
+| 2023-08-31 | 723,952 | 731 |
 ## Awards
 Max (Challenging Puzzles): 7,683  (Ranked 45)  
 Sum: 10,009 (Ranked 86)  

@@ -2,7 +2,7 @@
   "ID": "2015d187216e4b33b88edee66282e4a1",
   "Name": "The Legend of Tianding",
   "ProductSlug": "the-legend-of-tianding",
-  "Ranking_EOS_Progress": 569,
+  "Ranking_EOS_Progress": 570,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 340,
   "Ranking_EOS_NewCompleters": 104,
@@ -48,8 +48,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2023-08-31T22:04:32.8352311+00:00",
+  "LastChanged_Achievements": "2023-08-31T23:04:08.2758875+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:40.1657547+00:00",
-  "LastUpdate_Ratings": "2023-08-31T21:59:02.3455221+00:00",
-  "LastUpdate_Achievements": "2023-08-31T22:04:32.8352337+00:00"
+  "LastUpdate_Ratings": "2023-08-31T22:59:03.4038577+00:00",
+  "LastUpdate_Achievements": "2023-08-31T23:04:08.2758915+00:00"
 }

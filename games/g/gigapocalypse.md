@@ -43,7 +43,7 @@
 | Building Blocks | 19.00% | ~33 |
 | Octopostructure | 18.00% | ~32 |
 | Boss Hunter | 16.00% | ~28 |
-| Hawkman | 9.00% | ~16 |
+| Hawkman | 10.00% | ~18 |
 | Annihilate | 8.00% | ~14 |
 | Fashion Victim | 7.00% | ~12 |
 | See You Later | 6.00% | ~11 |

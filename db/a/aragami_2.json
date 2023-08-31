@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 79,
+  "Ranking_EOS_NewPlayers": 80,
   "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -238,7 +238,7 @@
   "Tags": [],
   "EOS_Progressed": 41932,
   "EOS_Completed": 215,
-  "EOS_NewPlayers": 530,
+  "EOS_NewPlayers": 525,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -13823,9 +13823,9 @@
       "ID": "ACHIEVEMENT_25",
       "SetID": "db84117",
       "Name": "Master Ninja",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 4193
+      "UsersEstimate": 4613
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -14056,8 +14056,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-08-30T04:00:16.1693203+00:00",
-  "LastChanged_Achievements": "2023-08-31T22:03:17.7552744+00:00",
+  "LastChanged_Achievements": "2023-08-31T23:02:17.8016571+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:14.3524994+00:00",
-  "LastUpdate_Ratings": "2023-08-31T21:57:19.6594467+00:00",
-  "LastUpdate_Achievements": "2023-08-31T22:03:17.75537+00:00"
+  "LastUpdate_Ratings": "2023-08-31T22:57:27.298904+00:00",
+  "LastUpdate_Achievements": "2023-08-31T23:02:17.8017782+00:00"
 }

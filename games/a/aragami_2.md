@@ -31,7 +31,7 @@ Number of Ratings: 88  (23.09.2022)
 | War Engines | 14.00% | ~5,870 |
 | Signature Move | 14.00% | ~5,870 |
 | Ruse | 11.00% | ~4,613 |
-| Master Ninja | 10.00% | ~4,193 |
+| Master Ninja | 11.00% | ~4,613 |
 | Hatching | 9.00% | ~3,774 |
 | Bonds | 9.00% | ~3,774 |
 | Get Over Here | 9.00% | ~3,774 |

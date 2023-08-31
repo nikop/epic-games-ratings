@@ -2,7 +2,7 @@
   "ID": "e560cd4bb151479394d0d634cabc9e49",
   "Name": "Esse Proxy",
   "ProductSlug": "esse-proxy",
-  "Ranking_EOS_Progress": 569,
+  "Ranking_EOS_Progress": 570,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 340,
   "Ranking_EOS_NewCompleters": 104,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-26T08:58:49.6599031+00:00",
-  "LastUpdate_Ratings": "2023-08-31T21:57:10.4478557+00:00",
-  "LastUpdate_Achievements": "2023-08-31T22:05:23.5136759+00:00"
+  "LastUpdate_Ratings": "2023-08-31T22:57:17.9876729+00:00",
+  "LastUpdate_Achievements": "2023-08-31T23:04:57.785221+00:00"
 }

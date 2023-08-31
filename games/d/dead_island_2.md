@@ -24,12 +24,12 @@ Rating: 4.54 (Ranked 505)
 | Zombologist | 0.50% | ~3,352 |
 | A Patton Emerges | 0.50% | ~3,352 |
 | This is My Weapon | 0.50% | ~3,352 |
-| Anger Management | 0.40% | ~2,681 |
-| Perks of the Job | 0.40% | ~2,681 |
-| I Got a Zombie Army and You Can't Harm Me | 0.40% | ~2,681 |
-| Ooh, Shiny! | 0.40% | ~2,681 |
-| I Am the Resurrection | 0.40% | ~2,681 |
-| Our True Nature | 0.40% | ~2,681 |
+| Anger Management | 0.40% | ~2,682 |
+| Perks of the Job | 0.40% | ~2,682 |
+| I Got a Zombie Army and You Can't Harm Me | 0.40% | ~2,682 |
+| Ooh, Shiny! | 0.40% | ~2,682 |
+| I Am the Resurrection | 0.40% | ~2,682 |
+| Our True Nature | 0.40% | ~2,682 |
 | Making Your Mark | 0.30% | ~2,011 |
 | Humanity Distilled | 0.30% | ~2,011 |
 | Down with the Sickness | 0.30% | ~2,011 |
@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 505)
 | Variety is the Spice of Death | 0.10% | ~670 |
 | Bucket List | 0.10% | ~670 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 670,360 (Ranked 22)  
-Completed: 2,096 (0.31%) (Ranked 176)  
+Progressed: 670,394 (Ranked 22)  
+Completed: 2,097 (0.31%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -184,7 +184,7 @@ Completed: 2,096 (0.31%) (Ranked 176)
 | 2023-08-28 | 668,091 | 2,086 |
 | 2023-08-29 | 668,912 | 2,088 |
 | 2023-08-30 | 669,636 | 2,094 |
-| 2023-08-31 | 670,360 | 2,096 |
+| 2023-08-31 | 670,394 | 2,097 |
 ## Awards
 Max (Great Boss Battles): 5,841  (Ranked 60)  
 Sum: 8,595 (Ranked 97)  

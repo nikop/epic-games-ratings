@@ -6,25 +6,25 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~15,367 |
-| That's a Grand Army | 3.00% | ~11,525 |
-| That is mine! | 3.00% | ~11,525 |
-| Victorious! | 3.00% | ~11,525 |
-| Brothers in Arms | 2.00% | ~7,683 |
-| That's a Grand Navy | 2.00% | ~7,683 |
-| Seriously?! | 2.00% | ~7,683 |
+| Until death do us apart | 4.00% | ~15,369 |
+| That's a Grand Army | 3.00% | ~11,527 |
+| That is mine! | 3.00% | ~11,527 |
+| Victorious! | 3.00% | ~11,527 |
+| Brothers in Arms | 2.00% | ~7,685 |
+| That's a Grand Navy | 2.00% | ~7,685 |
+| Seriously?! | 2.00% | ~7,685 |
 | Cold War | 1.00% | ~3,842 |
 | Defender of the Faith | 1.00% | ~3,842 |
 | For the Glory | 1.00% | ~3,842 |
 | It's all about the money | 1.00% | ~3,842 |
 | True Catholic | 1.00% | ~3,842 |
 | The Princess is in this Castle | 0.90% | ~3,458 |
-| It's all about luck | 0.80% | ~3,073 |
-| Respected | 0.80% | ~3,073 |
-| Truly Divine Ruler | 0.80% | ~3,073 |
-| Blockader | 0.70% | ~2,689 |
-| Double the Love | 0.70% | ~2,689 |
-| Total Control | 0.70% | ~2,689 |
+| It's all about luck | 0.80% | ~3,074 |
+| Respected | 0.80% | ~3,074 |
+| Truly Divine Ruler | 0.80% | ~3,074 |
+| Blockader | 0.70% | ~2,690 |
+| Double the Love | 0.70% | ~2,690 |
+| Total Control | 0.70% | ~2,690 |
 | Royal Authority | 0.60% | ~2,305 |
 | Combined Arms | 0.50% | ~1,921 |
 | My armies are invincible! | 0.50% | ~1,921 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 384,171 (Ranked 41)  
+Progressed: 384,237 (Ranked 41)  
 Completed: 0 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -494,7 +494,7 @@ Completed: 0 (0.00%) (Ranked 270)
 | 2023-08-28 | 378,067 | 0 |
 | 2023-08-29 | 380,378 | 0 |
 | 2023-08-30 | 382,380 | 0 |
-| 2023-08-31 | 384,171 | 0 |
+| 2023-08-31 | 384,237 | 0 |
 ## Awards
 Max (Educational): 5,861  (Ranked 58)  
 Sum: 48,281 (Ranked 26)  

@@ -25,7 +25,7 @@
 | Rustic Recipe | 8.00% | ~45 |
 | Lyrical Longing | 7.00% | ~39 |
 | Accursed Artifacts | 6.00% | ~34 |
-| Corsair | 4.00% | ~22 |
+| Corsair | 5.00% | ~28 |
 | Freebooter | 3.00% | ~17 |
 | Marauder | 3.00% | ~17 |
 | Fully Decked | 3.00% | ~17 |

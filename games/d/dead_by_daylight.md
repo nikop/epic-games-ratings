@@ -6,29 +6,29 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MU/TH/UR Dearest | 0.90% | ~7,506 |
-| It wakes | 0.80% | ~6,672 |
-| Skillful | 0.70% | ~5,838 |
-| Zealous | 0.60% | ~5,004 |
-| Not half bad | 0.60% | ~5,004 |
-| Make Some Noise | 0.60% | ~5,004 |
-| Handyman | 0.50% | ~4,170 |
-| Apt Survivor | 0.50% | ~4,170 |
-| Survival Treasures | 0.50% | ~4,170 |
-| Terror of LV-426 | 0.50% | ~4,170 |
-| The Grand Sacrifice | 0.40% | ~3,336 |
-| No one left behind | 0.40% | ~3,336 |
-| Medic | 0.40% | ~3,336 |
-| Nerves of steel | 0.40% | ~3,336 |
-| Bloody Millionaire | 0.40% | ~3,336 |
-| I | 0.40% | ~3,336 |
-| Sorted | 0.40% | ~3,336 |
-| Healthy Obsession | 0.40% | ~3,336 |
-| Resurgence | 0.40% | ~3,336 |
+| MU/TH/UR Dearest | 0.90% | ~7,507 |
+| It wakes | 0.80% | ~6,673 |
+| Zealous | 0.70% | ~5,839 |
+| Skillful | 0.70% | ~5,839 |
+| Not half bad | 0.60% | ~5,005 |
+| Make Some Noise | 0.60% | ~5,005 |
+| Handyman | 0.50% | ~4,171 |
+| Apt Survivor | 0.50% | ~4,171 |
+| Survival Treasures | 0.50% | ~4,171 |
+| Terror of LV-426 | 0.50% | ~4,171 |
+| The Grand Sacrifice | 0.40% | ~3,337 |
+| Backdoor Escape | 0.40% | ~3,337 |
+| No one left behind | 0.40% | ~3,337 |
+| Medic | 0.40% | ~3,337 |
+| Nerves of steel | 0.40% | ~3,337 |
+| Perfect Escape | 0.40% | ~3,337 |
+| Bloody Millionaire | 0.40% | ~3,337 |
+| I | 0.40% | ~3,337 |
+| Sorted | 0.40% | ~3,337 |
+| Healthy Obsession | 0.40% | ~3,337 |
+| Resurgence | 0.40% | ~3,337 |
 | Agonizing Escape | 0.30% | ~2,502 |
-| Backdoor Escape | 0.30% | ~2,502 |
 | I've got your back | 0.30% | ~2,502 |
-| Perfect Escape | 0.30% | ~2,502 |
 | Perfect Killing | 0.30% | ~2,502 |
 | Apt Killer | 0.30% | ~2,502 |
 | Risk it all | 0.30% | ~2,502 |
@@ -51,11 +51,13 @@ Number of Ratings: 70,340  (23.09.2022)
 | Cherish your Life | 0.20% | ~1,668 |
 | Unforgettable Getaway | 0.20% | ~1,668 |
 | First to the Punch | 0.20% | ~1,668 |
+| Old West Oasis | 0.20% | ~1,668 |
 | Every Last Drop | 0.20% | ~1,668 |
 | With Scars to Show | 0.20% | ~1,668 |
 | Flight to Freedom | 0.20% | ~1,668 |
 | A Fast Death | 0.20% | ~1,668 |
 | Lifting The Fog | 0.20% | ~1,668 |
+| Chorus of Chaos | 0.20% | ~1,668 |
 | Complete the Evolution | 0.20% | ~1,668 |
 | One More Step | 0.20% | ~1,668 |
 | A bite for the Entity | 0.10% | ~834 |
@@ -161,7 +163,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Bound and Downed | 0.10% | ~834 |
 | Quick Draw | 0.10% | ~834 |
 | Adept Deathslinger | 0.10% | ~834 |
-| Old West Oasis | 0.10% | ~834 |
 | Selfless Survival | 0.10% | ~834 |
 | Adept Zarina | 0.10% | ~834 |
 | Cleansed in Agony | 0.10% | ~834 |
@@ -221,7 +222,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Rebuilding The Borgo | 0.10% | ~834 |
 | Adept Vittorio | 0.10% | ~834 |
 | Thrill of the Chase | 0.10% | ~834 |
-| Chorus of Chaos | 0.10% | ~834 |
 | Adept Skull Merchant | 0.10% | ~834 |
 | Hack the Mainframe | 0.10% | ~834 |
 | Adept Thalita | 0.10% | ~834 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~834 |
 | Adept Ripley | 0.10% | ~834 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 833,977 (Ranked 15)  
+Progressed: 834,142 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -369,7 +369,7 @@ Completed: 48 (0.01%) (Ranked 257)
 | 2023-08-28 | 824,988 | 48 |
 | 2023-08-29 | 828,020 | 48 |
 | 2023-08-30 | 831,117 | 48 |
-| 2023-08-31 | 833,977 | 48 |
+| 2023-08-31 | 834,142 | 48 |
 ## Awards
 Max (Diverse Characters): 31,726  (Ranked 15)  
 Sum: 248,913 (Ranked 11)  

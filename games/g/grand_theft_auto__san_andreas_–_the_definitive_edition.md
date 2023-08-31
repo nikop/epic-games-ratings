@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 474)
 | I Ain't No Buster | 0.40% | ~48 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 12,097 (Ranked 122)  
-Completed: 44 (0.36%) (Ranked 168)  
+Completed: 44 (0.36%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

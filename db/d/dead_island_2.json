@@ -6,7 +6,7 @@
   "Ranking_Popularity": 60,
   "Ranking_PopularitySum": 97,
   "Ranking_EOS_Progress": 22,
-  "Ranking_EOS_Completed": 176,
+  "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 16,
   "Ranking_EOS_NewCompleters": 5,
   "Store": {
@@ -4116,10 +4116,10 @@
       "Count": 330
     }
   ],
-  "EOS_Progressed": 670360,
-  "EOS_Completed": 2096,
-  "EOS_NewPlayers": 5909,
-  "EOS_NewCompleters": 37,
+  "EOS_Progressed": 670394,
+  "EOS_Completed": 2097,
+  "EOS_NewPlayers": 5916,
+  "EOS_NewCompleters": 38,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -18971,6 +18971,11 @@
       "Time": "2023-08-31T22:04:41.8346149+00:00",
       "NumProgressed": 670360,
       "NumCompleted": 2096
+    },
+    {
+      "Time": "2023-08-31T23:04:17.5394302+00:00",
+      "NumProgressed": 670394,
+      "NumCompleted": 2097
     }
   ],
   "TotalAchievements": 45,
@@ -19006,7 +19011,7 @@
       "Name": "Anger Management",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2681
+      "UsersEstimate": 2682
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -19030,7 +19035,7 @@
       "Name": "Perks of the Job",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2681
+      "UsersEstimate": 2682
     },
     {
       "ID": "ach_bookworm",
@@ -19062,7 +19067,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2681
+      "UsersEstimate": 2682
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -19198,7 +19203,7 @@
       "Name": "Ooh, Shiny!",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2681
+      "UsersEstimate": 2682
     },
     {
       "ID": "ach_magnum_opus",
@@ -19230,7 +19235,7 @@
       "Name": "I Am the Resurrection",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2681
+      "UsersEstimate": 2682
     },
     {
       "ID": "ach_salvation",
@@ -19294,7 +19299,7 @@
       "Name": "Our True Nature",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 2681
+      "UsersEstimate": 2682
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -19341,16 +19346,16 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 670360,
-      "Completed": 2096
+      "Progressed": 670394,
+      "Completed": 2097
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-08-31T17:57:51.1945636+00:00",
-  "LastChanged_Achievements": "2023-08-31T22:04:41.8346144+00:00",
+  "LastChanged_Achievements": "2023-08-31T23:04:17.5394292+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:11.0440218+00:00",
-  "LastUpdate_Ratings": "2023-08-31T21:57:36.299143+00:00",
-  "LastUpdate_Achievements": "2023-08-31T22:04:41.8347146+00:00"
+  "LastUpdate_Ratings": "2023-08-31T22:57:44.3015411+00:00",
+  "LastUpdate_Achievements": "2023-08-31T23:04:17.5395589+00:00"
 }

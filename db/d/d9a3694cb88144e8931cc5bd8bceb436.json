@@ -2,7 +2,7 @@
   "ID": "d9a3694cb88144e8931cc5bd8bceb436",
   "Name": "Turbo Overkill",
   "ProductSlug": "turbo-overkill-c5e3c7",
-  "Ranking_EOS_Progress": 569,
+  "Ranking_EOS_Progress": 570,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 340,
   "Ranking_EOS_NewCompleters": 104,
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-14T22:02:17.3386405+00:00",
-  "LastChanged_Achievements": "2023-08-31T22:05:26.4898937+00:00",
+  "LastChanged_Achievements": "2023-08-31T23:05:00.5402458+00:00",
   "LastUpdate_AppInfo": "2023-08-28T23:57:07.0813939+00:00",
-  "LastUpdate_Ratings": "2023-08-31T21:59:01.1004686+00:00",
-  "LastUpdate_Achievements": "2023-08-31T22:05:26.4898964+00:00"
+  "LastUpdate_Ratings": "2023-08-31T22:59:02.0999828+00:00",
+  "LastUpdate_Achievements": "2023-08-31T23:05:00.5402496+00:00"
 }
