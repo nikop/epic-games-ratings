@@ -4,7 +4,7 @@
   "ProductSlug": "quest-hunter-96b20d",
   "Ranking_EOS_Progress": 359,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
@@ -455,9 +455,9 @@
       "ID": "interactBerry10",
       "SetID": "ci65fo0",
       "Name": "Gourmand",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "interactChest10",
@@ -980,8 +980,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-09-01T09:05:25.6136644+00:00",
+  "LastChanged_Achievements": "2023-09-01T10:06:39.0478506+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:06.5858382+00:00",
-  "LastUpdate_Ratings": "2023-09-01T09:00:03.4850311+00:00",
-  "LastUpdate_Achievements": "2023-09-01T09:05:25.613748+00:00"
+  "LastUpdate_Ratings": "2023-09-01T10:01:46.1527356+00:00",
+  "LastUpdate_Achievements": "2023-09-01T10:06:39.0479979+00:00"
 }

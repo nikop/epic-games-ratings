@@ -952,11 +952,11 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 493,
+  "EOS_Progressed": 501,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 488,
+  "EOS_NewPlayers": 496,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 0.41,
+  "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
     {
       "Time": "2023-08-30T11:07:13.7661076+00:00",
@@ -1192,6 +1192,11 @@
       "Time": "2023-09-01T09:06:39.1091281+00:00",
       "NumProgressed": 493,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-01T10:08:24.2802301+00:00",
+      "NumProgressed": 501,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -1204,15 +1209,15 @@
       "Name": "It\u0027s a good start",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "a_10",
       "SetID": "daiie3o",
       "Name": "What is that? A castle?",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "a_11",
@@ -1250,9 +1255,9 @@
       "ID": "a_18",
       "SetID": "daiie3o",
       "Name": "Bye Bye",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 138
+      "UsersEstimate": 145
     },
     {
       "ID": "a_19",
@@ -1274,9 +1279,9 @@
       "ID": "a_20",
       "SetID": "daiie3o",
       "Name": "The Assistant",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 25
     },
     {
       "ID": "a_21",
@@ -1418,9 +1423,9 @@
       "ID": "a_6",
       "SetID": "daiie3o",
       "Name": "Gem of Monferrato",
-      "Percentage": 0.6,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "a_7",
@@ -1451,7 +1456,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 493,
+      "Progressed": 501,
       "Completed": 2
     }
   ],
@@ -1459,8 +1464,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-08-28T14:01:21.7581903+00:00",
-  "LastChanged_Achievements": "2023-09-01T09:06:39.1091277+00:00",
+  "LastChanged_Achievements": "2023-09-01T10:08:24.2802295+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:37.0274623+00:00",
-  "LastUpdate_Ratings": "2023-09-01T08:57:18.7883141+00:00",
-  "LastUpdate_Achievements": "2023-09-01T09:06:39.1091511+00:00"
+  "LastUpdate_Ratings": "2023-09-01T09:57:36.0662967+00:00",
+  "LastUpdate_Achievements": "2023-09-01T10:08:24.2802577+00:00"
 }

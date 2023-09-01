@@ -11,11 +11,11 @@
 | Your first job | 83.00% | ~248 |
 | Old movies enjoyer | 79.00% | ~236 |
 | Fitness professional | 78.00% | ~233 |
-| Depressed visitor | 77.00% | ~230 |
+| Depressed visitor | 78.00% | ~233 |
 | Neurotrainer – power gainer! | 76.00% | ~227 |
 | Employee of the week | 76.00% | ~227 |
 | Your own amateur gym | 73.00% | ~218 |
-| First defeat | 72.00% | ~215 |
+| First defeat | 73.00% | ~218 |
 | Run K, run! | 71.00% | ~212 |
 | Fighting is cool | 68.00% | ~203 |
 | Hello, world! | 68.00% | ~203 |
@@ -23,7 +23,7 @@
 | Pal of your father? | 65.00% | ~194 |
 | Employee of the month | 64.00% | ~191 |
 | Spirit of the past | 62.00% | ~185 |
-| Law student | 60.00% | ~179 |
+| Law student | 61.00% | ~182 |
 | Workout professional | 59.00% | ~176 |
 | Champion – starter pack | 58.00% | ~173 |
 | It's good to be alive | 58.00% | ~173 |

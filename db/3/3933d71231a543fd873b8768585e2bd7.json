@@ -2,9 +2,9 @@
   "ID": "3933d71231a543fd873b8768585e2bd7",
   "Name": "Masterplan Tycoon",
   "ProductSlug": "masterplan-tycoon-379d81",
-  "Ranking_EOS_Progress": 527,
+  "Ranking_EOS_Progress": 495,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-09-01T08:00:00+00:00",
@@ -19,15 +19,20 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 3,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-09-01T09:03:14.0237267+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-01T10:03:17.7648232+00:00",
+      "NumProgressed": 3,
       "NumCompleted": 0
     }
   ],
@@ -63,9 +68,9 @@
       "ID": "achievements.completemission.master.01",
       "SetID": "1kd1942",
       "Name": "Another Brick in the Node",
-      "Percentage": 100,
+      "Percentage": 67,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achievements.completemission.master.02",
@@ -168,13 +173,13 @@
     {
       "ID": "1kd1942",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 3,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-09-01T09:03:14.0251978+00:00",
-  "LastChanged_Achievements": "2023-09-01T09:03:14.0237251+00:00",
+  "LastChanged_Achievements": "2023-09-01T10:03:17.7648227+00:00",
   "LastUpdate_AppInfo": "2023-09-01T08:57:12.467565+00:00",
-  "LastUpdate_Ratings": "2023-09-01T08:57:12.746478+00:00",
-  "LastUpdate_Achievements": "2023-09-01T09:03:14.0284842+00:00"
+  "LastUpdate_Ratings": "2023-09-01T09:57:26.6639825+00:00",
+  "LastUpdate_Achievements": "2023-09-01T10:03:17.7648403+00:00"
 }

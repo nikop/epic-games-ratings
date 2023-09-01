@@ -5,18 +5,18 @@ Rating: 4.84 (Ranked 48)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~220,434 |
-| Private Club | 74.00% | ~179,254 |
+| Forgotten Sorority | 91.00% | ~220,435 |
+| Private Club | 74.00% | ~179,255 |
 | Rogue Guild | 65.00% | ~157,453 |
-| I Watched the Intro | 57.00% | ~138,074 |
-| Covert Consortium | 55.00% | ~133,229 |
+| I Watched the Intro | 57.00% | ~138,075 |
+| Covert Consortium | 55.00% | ~133,230 |
 | Goat Queen | 53.00% | ~128,385 |
 | Reach the Stratosphere | 50.00% | ~121,118 |
-| Synchronization Complete | 47.00% | ~113,850 |
+| Synchronization Complete | 47.00% | ~113,851 |
 | Secret Society | 45.00% | ~109,006 |
-| Shadow Syndicate | 38.00% | ~92,049 |
+| Shadow Syndicate | 38.00% | ~92,050 |
 | What a Waste of Money | 33.00% | ~79,938 |
-| New Goat Order | 30.00% | ~72,670 |
+| New Goat Order | 30.00% | ~72,671 |
 | Don't touch the servers | 28.00% | ~67,826 |
 | San Angora: Become Human | 26.00% | ~62,981 |
 | Raider of the Lost Parking Garage | 26.00% | ~62,981 |
@@ -31,7 +31,7 @@ Rating: 4.84 (Ranked 48)
 | Car Cave | 12.00% | ~29,068 |
 | Club Mohair | 8.00% | ~19,379 |
 | A Center for Ants? | 8.00% | ~19,379 |
-| French Fika | 7.00% | ~16,956 |
+| French Fika | 7.00% | ~16,957 |
 | Who Baywatches the Baywatch? | 4.00% | ~9,689 |
 | Nasty! | 4.00% | ~9,689 |
 | [REDACTED] | 4.00% | ~9,689 |
@@ -45,7 +45,7 @@ Rating: 4.84 (Ranked 48)
 | Move! That! Bus! | 0.60% | ~1,453 |
 | G.O.A.T | 0.30% | ~727 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,235 (Ranked 50)  
+Progressed: 242,236 (Ranked 50)  
 Completed: 816 (0.34%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 816 (0.34%) (Ranked 175)
 | 2023-08-29 | 242,004 | 815 |
 | 2023-08-30 | 242,107 | 815 |
 | 2023-08-31 | 242,218 | 816 |
-| 2023-09-01 | 242,235 | 816 |
+| 2023-09-01 | 242,236 | 816 |
 ## Awards
 Max (Great for Beginners): 385  (Ranked 219)  
 Sum: 3,289 (Ranked 154)  

@@ -4,7 +4,7 @@
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 2433,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -5423,9 +5423,9 @@
       "ID": "AI_DRAW",
       "SetID": "8lhbnh7",
       "Name": "Puppetmaster",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 243
+      "UsersEstimate": 268
     },
     {
       "ID": "BOT_DESTROYER",
@@ -5598,8 +5598,8 @@
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-09-01T09:06:21.0556759+00:00",
+  "LastChanged_Achievements": "2023-09-01T10:07:58.7792874+00:00",
   "LastUpdate_AppInfo": "2023-08-29T23:57:18.7123979+00:00",
-  "LastUpdate_Ratings": "2023-09-01T09:00:19.8056113+00:00",
-  "LastUpdate_Achievements": "2023-09-01T09:06:21.055723+00:00"
+  "LastUpdate_Ratings": "2023-09-01T10:02:10.8596081+00:00",
+  "LastUpdate_Achievements": "2023-09-01T10:07:58.7793392+00:00"
 }

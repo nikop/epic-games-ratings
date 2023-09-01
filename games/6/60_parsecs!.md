@@ -43,7 +43,7 @@
 | Feels like home | 1.00% | ~7 |
 | No Ticket | 0.80% | ~6 |
 | Space Selfie | 0.80% | ~6 |
-| Small Step | 0.40% | ~3 |
+| Small Step | 0.60% | ~4 |
 | Giant Leap | 0.30% | ~2 |
 | Unidentified Flying Offspring | 0.10% | ~1 |
 | Liberté, Égalité, Félinité | 0.10% | ~1 |

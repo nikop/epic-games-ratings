@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 515,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -448,9 +448,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7629,
+  "EOS_Progressed": 7630,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
@@ -7833,6 +7833,11 @@
       "Time": "2023-09-01T07:03:25.6244306+00:00",
       "NumProgressed": 7629,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-09-01T10:03:31.3409519+00:00",
+      "NumProgressed": 7630,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 29,
@@ -7844,7 +7849,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6332
+      "UsersEstimate": 6333
     },
     {
       "ID": "ACH02",
@@ -7964,7 +7969,7 @@
       "Name": "A Marked Man",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1907
+      "UsersEstimate": 1908
     },
     {
       "ID": "ACH17",
@@ -8075,7 +8080,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7629,
+      "Progressed": 7630,
       "Completed": 50
     }
   ],
@@ -8083,8 +8088,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-09-01T05:57:08.955736+00:00",
-  "LastChanged_Achievements": "2023-09-01T09:03:23.648624+00:00",
+  "LastChanged_Achievements": "2023-09-01T10:03:31.340951+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:30.0456476+00:00",
-  "LastUpdate_Ratings": "2023-09-01T08:57:24.4432227+00:00",
-  "LastUpdate_Achievements": "2023-09-01T09:03:23.6486898+00:00"
+  "LastUpdate_Ratings": "2023-09-01T09:57:44.5781643+00:00",
+  "LastUpdate_Achievements": "2023-09-01T10:03:31.3410598+00:00"
 }

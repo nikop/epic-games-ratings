@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 515,
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
@@ -503,9 +503,9 @@
       "ID": "ACH_013",
       "SetID": "72imik0",
       "Name": "Little Grey Cells",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 283
+      "UsersEstimate": 287
     },
     {
       "ID": "ACH_014",
@@ -663,9 +663,9 @@
       "ID": "ACH_031",
       "SetID": "72imik0",
       "Name": "Angeline Van den Bosch",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 304
+      "UsersEstimate": 308
     },
     {
       "ID": "ACH_032",
@@ -695,9 +695,9 @@
       "ID": "ACH_035",
       "SetID": "72imik0",
       "Name": "Elizabeth Padget",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 287
+      "UsersEstimate": 291
     },
     {
       "ID": "ACH_036",
@@ -848,8 +848,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2023-07-07T15:57:52.1284059+00:00",
-  "LastChanged_Achievements": "2023-09-01T09:03:39.7118586+00:00",
+  "LastChanged_Achievements": "2023-09-01T10:03:53.7844896+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:27.9158124+00:00",
-  "LastUpdate_Ratings": "2023-09-01T08:57:22.5429912+00:00",
-  "LastUpdate_Achievements": "2023-09-01T09:03:39.7118981+00:00"
+  "LastUpdate_Ratings": "2023-09-01T09:57:41.9048922+00:00",
+  "LastUpdate_Achievements": "2023-09-01T10:03:53.784536+00:00"
 }

@@ -1,18 +1,18 @@
 # Hand of Fate 2
 [Store](https://store.epicgames.com/en-US/p/hand-of-fate-2)  
 [View Rawdata](../../db/h/hand_of_fate_2.json)  
-Rating: 4.56 (Ranked 474)  
+Rating: 4.56 (Ranked 473)  
 Number of Ratings: 780  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~476,343 |
-| Apprentice | 58.00% | ~383,721 |
-| Close Shave | 25.00% | ~165,397 |
-| Mercenary | 23.00% | ~152,165 |
-| Ninja | 23.00% | ~152,165 |
+| The Fool | 72.00% | ~476,345 |
+| Apprentice | 58.00% | ~383,722 |
+| Close Shave | 25.00% | ~165,398 |
+| Mercenary | 23.00% | ~152,166 |
+| Ninja | 23.00% | ~152,166 |
 | Northern Scourge | 17.00% | ~112,470 |
-| Thief Bane | 14.00% | ~92,622 |
+| Thief Bane | 14.00% | ~92,623 |
 | Master of Arms | 12.00% | ~79,391 |
 | Gambler | 10.00% | ~66,159 |
 | Dice Master | 10.00% | ~66,159 |
@@ -26,8 +26,8 @@ Number of Ratings: 780  (23.09.2022)
 | Broken Heart | 7.00% | ~46,311 |
 | Adventurer | 6.00% | ~39,695 |
 | Empire's Bane | 6.00% | ~39,695 |
-| Jack of all Trades | 5.00% | ~33,079 |
-| Smithy | 5.00% | ~33,079 |
+| Jack of all Trades | 5.00% | ~33,080 |
+| Smithy | 5.00% | ~33,080 |
 | Leap of Faith | 3.00% | ~19,848 |
 | Combat Ready | 3.00% | ~19,848 |
 | Stuffed Potato | 3.00% | ~19,848 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~662 |
 | Blood Pact | 0.10% | ~662 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 661,588 (Ranked 23)  
+Progressed: 661,590 (Ranked 23)  
 Completed: 170 (0.03%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 170 (0.03%) (Ranked 246)
 | 2023-08-29 | 661,509 | 169 |
 | 2023-08-30 | 661,537 | 169 |
 | 2023-08-31 | 661,575 | 170 |
-| 2023-09-01 | 661,588 | 170 |
+| 2023-09-01 | 661,590 | 170 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 441)  
 Sum: 184 (Ranked 378)  

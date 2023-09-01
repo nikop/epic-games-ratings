@@ -1,21 +1,21 @@
 # Alan Wake Remastered
 [Store](https://store.epicgames.com/en-US/p/alan-wake-remastered)  
 [View Rawdata](../../db/a/alan_wake_remastered.json)  
-Rating: 4.55 (Ranked 490)  
+Rating: 4.55 (Ranked 489)  
 Number of Ratings: 524  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 38.00% | ~23,592 |
-| Let There Be Light | 31.00% | ~19,246 |
-| Float Like a Butterfly | 30.00% | ~18,625 |
-| Nordic Walking | 24.00% | ~14,900 |
-| Bright Falls' Finest | 23.00% | ~14,279 |
+| Follow the Light | 38.00% | ~23,593 |
+| Let There Be Light | 31.00% | ~19,247 |
+| Float Like a Butterfly | 30.00% | ~18,626 |
+| Nordic Walking | 24.00% | ~14,901 |
+| Bright Falls' Finest | 23.00% | ~14,280 |
 | Under a Thin Layer of Skin | 21.00% | ~13,038 |
-| Park Ranger | 17.00% | ~10,554 |
-| Paging Mr. Wake | 17.00% | ~10,554 |
-| Back! Back, I Say! | 16.00% | ~9,933 |
-| Finders Keepers | 16.00% | ~9,933 |
+| Park Ranger | 17.00% | ~10,555 |
+| Paging Mr. Wake | 17.00% | ~10,555 |
+| Back! Back, I Say! | 16.00% | ~9,934 |
+| Finders Keepers | 16.00% | ~9,934 |
 | Damn Good Cup of Coffee | 15.00% | ~9,313 |
 | Wheels Within Wheels | 14.00% | ~8,692 |
 | They're Heeeeeere! | 14.00% | ~8,692 |
@@ -31,8 +31,8 @@ Number of Ratings: 524  (23.09.2022)
 | It's Not Just a Typewriter Brand | 11.00% | ~6,829 |
 | Thunder and Lightning | 11.00% | ~6,829 |
 | Two For the Price of One | 11.00% | ~6,829 |
-| The Lady of the Light | 10.00% | ~6,208 |
-| Energized! | 10.00% | ~6,208 |
+| The Lady of the Light | 10.00% | ~6,209 |
+| Energized! | 10.00% | ~6,209 |
 | What Light Through Yonder Window | 9.00% | ~5,588 |
 | Right of Way | 9.00% | ~5,588 |
 | Tornado Wrangler | 8.00% | ~4,967 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~62 |
 | No Punctuation | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,084 (Ranked 87)  
+Progressed: 62,086 (Ranked 87)  
 Completed: 65 (0.10%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,7 +208,7 @@ Completed: 65 (0.10%) (Ranked 217)
 | 2023-08-29 | 61,953 | 65 |
 | 2023-08-30 | 62,006 | 65 |
 | 2023-08-31 | 62,064 | 65 |
-| 2023-09-01 | 62,084 | 65 |
+| 2023-09-01 | 62,086 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
