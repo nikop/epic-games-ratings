@@ -40,7 +40,7 @@
 | 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.14% |
 | 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.99% |
 | 39 | [Scorn](games/s/scorn.md) | 6.99% |
-| 41 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.90% |
+| 41 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.84% |
 | 42 | [Time Loader](games/t/time_loader.md) | 6.78% |
 | 43 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 44 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 6.25% |
@@ -70,8 +70,8 @@
 | 68 | [The Complex](games/t/the_complex.md) | 3.32% |
 | 69 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
 | 70 | [HordeCore](games/h/hordecore.md) | 3.15% |
-| 71 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 3.12% |
-| 72 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.08% |
+| 71 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.08% |
+| 72 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 3.03% |
 | 73 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.01% |
 | 74 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 2.97% |
 | 75 | [Monster Harvest](games/m/monster_harvest.md) | 2.93% |
@@ -113,7 +113,7 @@
 | 111 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.44% |
 | 111 | [Ten Dates](games/t/ten_dates.md) | 1.44% |
 | 113 | [Poosh XL](games/p/poosh_xl.md) | 1.39% |
-| 114 | [Late Shift](games/l/late_shift.md) | 1.26% |
+| 114 | [Late Shift](games/l/late_shift.md) | 1.25% |
 | 115 | [Infindustry](games/i/infindustry.md) | 1.23% |
 | 116 | [Chorus](games/c/chorus.md) | 1.12% |
 | 117 | [Trifox](games/t/trifox.md) | 1.10% |
@@ -166,20 +166,20 @@
 | 164 | [Ghostrunner](games/g/ghostrunner.md) | 0.39% |
 | 165 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.37% |
 | 165 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.37% |
-| 165 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
-| 168 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.36% |
-| 168 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.36% |
-| 168 | [Wildermyth](games/w/wildermyth.md) | 0.36% |
+| 167 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.36% |
+| 167 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.36% |
+| 167 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.36% |
+| 167 | [Wildermyth](games/w/wildermyth.md) | 0.36% |
 | 171 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.35% |
 | 171 | [The Devil's Face](games/t/the_devil's_face.md) | 0.35% |
 | 171 | [The Surge](games/t/the_surge.md) | 0.35% |
 | 171 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.35% |
 | 175 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.34% |
 | 176 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.33% |
-| 177 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.32% |
-| 178 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
-| 178 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
-| 178 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
+| 177 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
+| 177 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
+| 177 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.31% |
+| 177 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 181 | [Against the Storm](games/a/against_the_storm.md) | 0.29% |
 | 181 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
 | 181 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
