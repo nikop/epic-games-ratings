@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2282,
+  "EOS_Progressed": 2283,
   "EOS_Completed": 205,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 8.98,
   "EosHistory": [
@@ -5448,6 +5448,11 @@
       "Time": "2023-09-01T13:11:27.275822+00:00",
       "NumProgressed": 2282,
       "NumCompleted": 205
+    },
+    {
+      "Time": "2023-09-01T15:05:55.0525391+00:00",
+      "NumProgressed": 2283,
+      "NumCompleted": 205
     }
   ],
   "TotalAchievements": 12,
@@ -5491,7 +5496,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 844
+      "UsersEstimate": 845
     },
     {
       "ID": "Jakob",
@@ -5499,7 +5504,7 @@
       "Name": "Jakob",
       "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "Jude",
@@ -5515,7 +5520,7 @@
       "Name": "Le Juif et la France",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "Little Helper",
@@ -5539,7 +5544,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "Nuremberg Laws",
@@ -5554,7 +5559,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2282,
+      "Progressed": 2283,
       "Completed": 205
     }
   ],
@@ -5562,8 +5567,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-09-01T14:07:33.8593254+00:00",
+  "LastChanged_Achievements": "2023-09-01T15:05:55.0525382+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:56:57.0664875+00:00",
-  "LastUpdate_Ratings": "2023-09-01T13:58:51.1313007+00:00",
-  "LastUpdate_Achievements": "2023-09-01T14:07:33.859406+00:00"
+  "LastUpdate_Ratings": "2023-09-01T14:58:10.0609507+00:00",
+  "LastUpdate_Achievements": "2023-09-01T15:05:55.05259+00:00"
 }

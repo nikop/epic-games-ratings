@@ -4,7 +4,7 @@
   "ProductSlug": "calico",
   "Ranking_EOS_Progress": 571,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewPlayers": 339,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2020-12-15T18:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:36.6626764+00:00",
   "LastChanged": "2023-03-31T05:57:36.6626766+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:27.0407734+00:00",
-  "LastUpdate_Ratings": "2023-09-01T14:03:11.5859156+00:00",
-  "LastUpdate_Achievements": "2023-09-01T14:04:44.3179734+00:00"
+  "LastUpdate_Ratings": "2023-09-01T15:00:22.2711478+00:00",
+  "LastUpdate_Achievements": "2023-09-01T15:03:38.1734927+00:00"
 }

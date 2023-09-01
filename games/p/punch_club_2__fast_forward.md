@@ -9,9 +9,9 @@
 | Your first fight | 86.00% | ~258 |
 | First winning | 84.00% | ~252 |
 | Your first job | 83.00% | ~249 |
-| Old movies enjoyer | 79.00% | ~237 |
-| Fitness professional | 78.00% | ~234 |
-| Depressed visitor | 77.00% | ~231 |
+| Old movies enjoyer | 80.00% | ~240 |
+| Fitness professional | 79.00% | ~237 |
+| Depressed visitor | 78.00% | ~234 |
 | Neurotrainer – power gainer! | 76.00% | ~228 |
 | Employee of the week | 76.00% | ~228 |
 | Your own amateur gym | 74.00% | ~222 |
@@ -21,8 +21,8 @@
 | Hello, world! | 68.00% | ~204 |
 | No bullying more | 67.00% | ~201 |
 | Pal of your father? | 65.00% | ~195 |
-| Employee of the month | 63.00% | ~189 |
-| Spirit of the past | 62.00% | ~186 |
+| Employee of the month | 64.00% | ~192 |
+| Spirit of the past | 63.00% | ~189 |
 | Law student | 61.00% | ~183 |
 | Workout professional | 59.00% | ~177 |
 | Little hacker | 58.00% | ~174 |
@@ -52,7 +52,7 @@
 | GYM professional | 36.00% | ~108 |
 | Get out of my apartment! | 36.00% | ~108 |
 | Seashell hunter | 35.00% | ~105 |
-| Gang wrangler | 33.00% | ~99 |
+| Gang wrangler | 34.00% | ~102 |
 | Undercover robot | 33.00% | ~99 |
 | Problems of cyborgs | 32.00% | ~96 |
 | Not little hacker | 31.00% | ~93 |

@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 311,
+  "EOS_Progressed": 312,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1286,6 +1286,11 @@
       "Time": "2023-08-31T19:01:17.1190359+00:00",
       "NumProgressed": 311,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-01T15:02:23.0616066+00:00",
+      "NumProgressed": 312,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-19T08:04:21.5092334+00:00",
@@ -1328,9 +1333,9 @@
       "ID": "hidden_basement",
       "SetID": "5fi1i42",
       "Name": "Hidden Basement",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 12
     },
     {
       "ID": "login_count",
@@ -1408,9 +1413,9 @@
       "ID": "tireless_explorer",
       "SetID": "5fi1i42",
       "Name": "Tireless Explorer",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 72
+      "UsersEstimate": 75
     },
     {
       "ID": "treant_destroyer",
@@ -1449,14 +1454,14 @@
     {
       "ID": "5fi1i42",
       "IsBase": true,
-      "Progressed": 311,
+      "Progressed": 312,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-12T15:57:01.7070767+00:00",
   "FirstSeenAchievements": "2023-07-18T16:05:27.8243884+00:00",
-  "LastChanged_Achievements": "2023-09-01T14:03:49.0645224+00:00",
+  "LastChanged_Achievements": "2023-09-01T15:02:23.0616058+00:00",
   "LastUpdate_AppInfo": "2023-08-31T08:57:15.1922582+00:00",
-  "LastUpdate_Ratings": "2023-09-01T14:01:05.6864256+00:00",
-  "LastUpdate_Achievements": "2023-09-01T14:03:49.0645454+00:00"
+  "LastUpdate_Ratings": "2023-09-01T14:59:55.1564121+00:00",
+  "LastUpdate_Achievements": "2023-09-01T15:02:23.061629+00:00"
 }

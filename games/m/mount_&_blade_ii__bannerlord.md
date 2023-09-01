@@ -6,12 +6,12 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 38.00% | ~22,835 |
-| Landlord | 32.00% | ~19,229 |
-| Bannerlord | 23.00% | ~13,821 |
-| Horde breaker | 23.00% | ~13,821 |
-| Lawmaker | 23.00% | ~13,821 |
-| Trained | 22.00% | ~13,220 |
+| Lawbringer | 38.00% | ~22,836 |
+| Landlord | 32.00% | ~19,230 |
+| Bannerlord | 23.00% | ~13,822 |
+| Horde breaker | 23.00% | ~13,822 |
+| Lawmaker | 23.00% | ~13,822 |
+| Trained | 22.00% | ~13,221 |
 | The king is pleased | 18.00% | ~10,817 |
 | King Solomon | 17.00% | ~10,216 |
 | Apple of my eye | 15.00% | ~9,014 |
@@ -19,13 +19,13 @@ Number of Ratings: 5,603  (23.09.2022)
 | God of the Arena | 13.00% | ~7,812 |
 | Against all odds | 12.00% | ~7,211 |
 | This Is Our Land | 11.00% | ~6,610 |
-| Duelist | 10.00% | ~6,009 |
-| Swordbearer | 10.00% | ~6,009 |
-| Dynasty | 9.00% | ~5,408 |
-| I spit on your grave | 9.00% | ~5,408 |
-| What have the Romans ever done for us? | 9.00% | ~5,408 |
-| Butterlord | 8.00% | ~4,807 |
-| Mastery | 7.00% | ~4,206 |
+| Duelist | 10.00% | ~6,010 |
+| Swordbearer | 10.00% | ~6,010 |
+| Dynasty | 9.00% | ~5,409 |
+| I spit on your grave | 9.00% | ~5,409 |
+| What have the Romans ever done for us? | 9.00% | ~5,409 |
+| Butterlord | 8.00% | ~4,808 |
+| Mastery | 7.00% | ~4,207 |
 | Know your enemy | 6.00% | ~3,606 |
 | Crush your enemies | 5.00% | ~3,005 |
 | My way | 5.00% | ~3,005 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,092 (Ranked 88)  
+Progressed: 60,095 (Ranked 88)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-08-29 | 59,922 | 0 |
 | 2023-08-30 | 59,981 | 0 |
 | 2023-08-31 | 60,055 | 0 |
-| 2023-09-01 | 60,092 | 0 |
+| 2023-09-01 | 60,095 | 0 |
 ## Awards
 Max (Character Customization): 7,009  (Ranked 50)  
 Sum: 14,252 (Ranked 68)  

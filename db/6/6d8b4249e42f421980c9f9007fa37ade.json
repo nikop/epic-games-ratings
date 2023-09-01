@@ -4,7 +4,7 @@
   "ProductSlug": "return-to-abyss-226301",
   "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewPlayers": 339,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
@@ -728,9 +728,9 @@
       "ID": "Epic_RustySickle_1",
       "SetID": "ba1m2fc",
       "Name": "Life Harvest",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Epic_ShellBreaking_1",
@@ -831,8 +831,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-09-01T14:04:14.153738+00:00",
+  "LastChanged_Achievements": "2023-09-01T15:03:13.8339147+00:00",
   "LastUpdate_AppInfo": "2023-08-31T08:57:15.4240947+00:00",
-  "LastUpdate_Ratings": "2023-09-01T14:01:17.620595+00:00",
-  "LastUpdate_Achievements": "2023-09-01T14:04:14.1537871+00:00"
+  "LastUpdate_Ratings": "2023-09-01T15:00:05.3907903+00:00",
+  "LastUpdate_Achievements": "2023-09-01T15:03:13.8339681+00:00"
 }

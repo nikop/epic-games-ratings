@@ -579,9 +579,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 221669,
+  "EOS_Progressed": 221677,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 583,
+  "EOS_NewPlayers": 590,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15149,6 +15149,11 @@
       "Time": "2023-09-01T14:05:57.5253444+00:00",
       "NumProgressed": 221669,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-01T15:04:37.6559835+00:00",
+      "NumProgressed": 221677,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -15160,7 +15165,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 42117
+      "UsersEstimate": 42119
     },
     {
       "ID": "ACH_BASE_10",
@@ -15168,7 +15173,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 57634
+      "UsersEstimate": 57636
     },
     {
       "ID": "ACH_BASE_11",
@@ -15200,7 +15205,7 @@
       "Name": "Power Ranger",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19950
+      "UsersEstimate": 19951
     },
     {
       "ID": "ACH_BASE_16",
@@ -15208,7 +15213,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19950
+      "UsersEstimate": 19951
     },
     {
       "ID": "ACH_BASE_17",
@@ -15216,7 +15221,7 @@
       "Name": "Taser Goad",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19950
+      "UsersEstimate": 19951
     },
     {
       "ID": "ACH_BASE_18",
@@ -15224,7 +15229,7 @@
       "Name": "Radium Ready",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19950
+      "UsersEstimate": 19951
     },
     {
       "ID": "ACH_BASE_19",
@@ -15232,7 +15237,7 @@
       "Name": "Battle Servitor",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4433
+      "UsersEstimate": 4434
     },
     {
       "ID": "ACH_BASE_2",
@@ -15240,7 +15245,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13300
+      "UsersEstimate": 13301
     },
     {
       "ID": "ACH_BASE_20",
@@ -15256,7 +15261,7 @@
       "Name": "Ding Dong Szaregon\u0027s Gone",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4433
+      "UsersEstimate": 4434
     },
     {
       "ID": "ACH_BASE_22",
@@ -15264,7 +15269,7 @@
       "Name": "Impatient destruction",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 4433
+      "UsersEstimate": 4434
     },
     {
       "ID": "ACH_BASE_23",
@@ -15392,7 +15397,7 @@
       "Name": "Vivisected Vizier",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4433
+      "UsersEstimate": 4434
     },
     {
       "ID": "ACH_BASE_6",
@@ -15400,7 +15405,7 @@
       "Name": "Architect Abortion",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4433
+      "UsersEstimate": 4434
     },
     {
       "ID": "ACH_BASE_7",
@@ -15408,7 +15413,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 26600
+      "UsersEstimate": 26601
     },
     {
       "ID": "ACH_BASE_8",
@@ -15424,14 +15429,14 @@
       "Name": "Half a cog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19950
+      "UsersEstimate": 19951
     }
   ],
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 221669,
+      "Progressed": 221677,
       "Completed": 5
     }
   ],
@@ -15439,8 +15444,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-08-31T18:57:31.710644+00:00",
-  "LastChanged_Achievements": "2023-09-01T14:05:57.5253439+00:00",
+  "LastChanged_Achievements": "2023-09-01T15:04:37.655983+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:24.7662929+00:00",
-  "LastUpdate_Ratings": "2023-09-01T13:58:19.4234084+00:00",
-  "LastUpdate_Achievements": "2023-09-01T14:05:57.5254476+00:00"
+  "LastUpdate_Ratings": "2023-09-01T14:57:43.40139+00:00",
+  "LastUpdate_Achievements": "2023-09-01T15:04:37.6561334+00:00"
 }

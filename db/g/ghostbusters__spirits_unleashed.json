@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1950,9 +1950,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25472,
+  "EOS_Progressed": 25473,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -11770,6 +11770,11 @@
       "Time": "2023-09-01T14:05:40.1210321+00:00",
       "NumProgressed": 25472,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-09-01T15:04:21.9272219+00:00",
+      "NumProgressed": 25473,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 51,
@@ -11789,7 +11794,7 @@
       "Name": "Animated",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 6113
+      "UsersEstimate": 6114
     },
     {
       "ID": "Back_Off",
@@ -11797,7 +11802,7 @@
       "Name": "Back Off",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 8915
+      "UsersEstimate": 8916
     },
     {
       "ID": "Best_Insurance",
@@ -11853,7 +11858,7 @@
       "Name": "Daily Dose",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 8660
+      "UsersEstimate": 8661
     },
     {
       "ID": "Diabolical",
@@ -11869,7 +11874,7 @@
       "Name": "Discovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 15538
+      "UsersEstimate": 15539
     },
     {
       "ID": "Dont_Need_These",
@@ -11893,7 +11898,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 63,
       "XP": 100,
-      "UsersEstimate": 16047
+      "UsersEstimate": 16048
     },
     {
       "ID": "Escape_Artist",
@@ -11909,7 +11914,7 @@
       "Name": "Fragile Panes",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 2292
+      "UsersEstimate": 2293
     },
     {
       "ID": "Fully_Upgraded",
@@ -12053,7 +12058,7 @@
       "Name": "Side Hustle",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 6877
+      "UsersEstimate": 6878
     },
     {
       "ID": "Skilled",
@@ -12061,7 +12066,7 @@
       "Name": "Skilled",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 6113
+      "UsersEstimate": 6114
     },
     {
       "ID": "Solo_Capture",
@@ -12085,7 +12090,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 21906
+      "UsersEstimate": 21907
     },
     {
       "ID": "Summoner",
@@ -12093,7 +12098,7 @@
       "Name": "Summoner",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 6877
+      "UsersEstimate": 6878
     },
     {
       "ID": "Surprise",
@@ -12101,7 +12106,7 @@
       "Name": "Surprise!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2292
+      "UsersEstimate": 2293
     },
     {
       "ID": "Swift_Removers",
@@ -12109,7 +12114,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 13500
+      "UsersEstimate": 13501
     },
     {
       "ID": "Teamwork",
@@ -12141,7 +12146,7 @@
       "Name": "There you are!",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 10698
+      "UsersEstimate": 10699
     },
     {
       "ID": "Tobins_Prodigy",
@@ -12173,7 +12178,7 @@
       "Name": "Welcome to the Crew",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 7896
+      "UsersEstimate": 7897
     },
     {
       "ID": "Whoopsie",
@@ -12188,7 +12193,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25472,
+      "Progressed": 25473,
       "Completed": 54
     }
   ],
@@ -12196,8 +12201,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-01T10:58:05.1706885+00:00",
-  "LastChanged_Achievements": "2023-09-01T14:05:40.1210317+00:00",
+  "LastChanged_Achievements": "2023-09-01T15:04:21.9272213+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:16.4521861+00:00",
-  "LastUpdate_Ratings": "2023-09-01T13:58:48.0561399+00:00",
-  "LastUpdate_Achievements": "2023-09-01T14:05:40.1211435+00:00"
+  "LastUpdate_Ratings": "2023-09-01T14:58:07.6510367+00:00",
+  "LastUpdate_Achievements": "2023-09-01T15:04:21.9273598+00:00"
 }

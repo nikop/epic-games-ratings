@@ -12,13 +12,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Taking Action | 5.00% | ~824 |
 | No Deaths | 5.00% | ~824 |
 | Overcoming Difficulty | 4.00% | ~659 |
+| Ancient Battleground | 4.00% | ~659 |
 | Fertile Meadows | 4.00% | ~659 |
 | Lost Colonies | 4.00% | ~659 |
 | Coral Forest | 4.00% | ~659 |
 | Homesick | 3.00% | ~494 |
 | Bandit Camp | 3.00% | ~494 |
 | Barren Lands | 3.00% | ~494 |
-| Ancient Battleground | 3.00% | ~494 |
 | Sparkdew Crystals | 3.00% | ~494 |
 | Haunted Forest | 3.00% | ~494 |
 | Levitating Monument | 3.00% | ~494 |

@@ -16,16 +16,16 @@ Number of Ratings: 706  (23.09.2022)
 | Putting Food on the Table | 56.00% | ~3,135 |
 | Onward | 56.00% | ~3,135 |
 | The First Week | 54.00% | ~3,023 |
-| Beam Me Up | 51.00% | ~2,855 |
 | Studious Researcher | 51.00% | ~2,855 |
-| Feast or Famine | 47.00% | ~2,631 |
-| Adept Researcher | 44.00% | ~2,463 |
-| Retribution | 41.00% | ~2,295 |
-| ...And Don’t Come Back! | 40.00% | ~2,239 |
-| Fit For A King | 36.00% | ~2,015 |
-| Luminary Researcher | 32.00% | ~1,791 |
-| Heating Up | 30.00% | ~1,679 |
-| Winter Is Coming | 26.00% | ~1,455 |
+| Beam Me Up | 50.00% | ~2,800 |
+| Feast or Famine | 47.00% | ~2,632 |
+| Adept Researcher | 44.00% | ~2,464 |
+| Retribution | 41.00% | ~2,296 |
+| ...And Don’t Come Back! | 41.00% | ~2,296 |
+| Fit For A King | 36.00% | ~2,016 |
+| Luminary Researcher | 32.00% | ~1,792 |
+| Heating Up | 30.00% | ~1,680 |
+| Winter Is Coming | 26.00% | ~1,456 |
 | Winter Is Here | 23.00% | ~1,288 |
 | Disassembled | 20.00% | ~1,120 |
 | A Party Now | 20.00% | ~1,120 |
@@ -38,8 +38,8 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~112 |
 | Wabbit Season | 0.50% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,598 (Ranked 140)  
-Completed: 11 (0.20%) (Ranked 195)  
+Progressed: 5,599 (Ranked 140)  
+Completed: 12 (0.21%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -151,10 +151,10 @@ Completed: 11 (0.20%) (Ranked 195)
 | 2023-08-29 | 5,554 | 11 |
 | 2023-08-30 | 5,573 | 11 |
 | 2023-08-31 | 5,588 | 11 |
-| 2023-09-01 | 5,598 | 11 |
+| 2023-09-01 | 5,599 | 12 |
 ## Awards
 Max (Relaxing): 122  (Ranked 317)  
-Sum: 980 (Ranked 239)  
+Sum: 981 (Ranked 239)  
 Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
@@ -164,7 +164,7 @@ Diff (max vs sum): 78
 | This game has Quickly Understood Controls | 105 |
 | This game is Extremely Fun | 102 |
 | This game is Highly Recommended | 100 |
-| This game has Amazing Characters | 91 |
+| This game has Amazing Characters | 92 |
 | This game has Amazing Storytelling | 85 |
 | This game has Unique Visuals | 80 |
 | This game has a Creative Community | 67 |
@@ -298,3 +298,4 @@ Diff (max vs sum): 78
 | 2023-08-28 | 4.60 | - | 121 | 978 |
 | 2023-08-30 | 4.60 | - | 121 | 979 |
 | 2023-08-31 | 4.60 | - | 122 | 980 |
+| 2023-09-01 | 4.60 | - | 122 | 981 |

@@ -5,11 +5,11 @@ Rating: 4.68 (Ranked 240)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Impossible Objects | 24.00% | ~2,343 |
-| Stogie for Fogey | 23.00% | ~2,245 |
-| Spore Taste | 19.00% | ~1,855 |
-| Martian Music | 19.00% | ~1,855 |
-| Captain Drummer | 19.00% | ~1,855 |
+| Impossible Objects | 24.00% | ~2,344 |
+| Stogie for Fogey | 23.00% | ~2,246 |
+| Spore Taste | 19.00% | ~1,856 |
+| Martian Music | 19.00% | ~1,856 |
+| Captain Drummer | 19.00% | ~1,856 |
 | Doctor Approved | 17.00% | ~1,660 |
 | Celebrations are in Order | 17.00% | ~1,660 |
 | Thorston Mayer | 11.00% | ~1,074 |
@@ -36,7 +36,7 @@ Rating: 4.68 (Ranked 240)
 | Scavenger Star | 0.00% | ~0 |
 | Data Collector | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,763 (Ranked 127)  
+Progressed: 9,766 (Ranked 127)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-08-29 | 9,580 | 0 |
 | 2023-08-30 | 9,655 | 0 |
 | 2023-08-31 | 9,724 | 0 |
-| 2023-09-01 | 9,763 | 0 |
+| 2023-09-01 | 9,766 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

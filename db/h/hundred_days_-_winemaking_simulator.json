@@ -5,9 +5,9 @@
   "Ranking_Rating": 756,
   "Ranking_Popularity": 273,
   "Ranking_PopularitySum": 224,
-  "Ranking_EOS_Progress": 229,
-  "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_Progress": 227,
+  "Ranking_EOS_Completed": 171,
+  "Ranking_EOS_NewPlayers": 73,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
@@ -952,11 +952,11 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 559,
+  "EOS_Progressed": 567,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 554,
+  "EOS_NewPlayers": 562,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 0.36,
+  "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
     {
       "Time": "2023-08-30T11:07:13.7661076+00:00",
@@ -1217,6 +1217,11 @@
       "Time": "2023-09-01T14:07:44.3341894+00:00",
       "NumProgressed": 559,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-01T15:06:04.0220892+00:00",
+      "NumProgressed": 567,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -1227,9 +1232,9 @@
       "ID": "a_1",
       "SetID": "daiie3o",
       "Name": "It\u0027s a good start",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 40
     },
     {
       "ID": "a_10",
@@ -1277,7 +1282,7 @@
       "Name": "Bye Bye",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 168
+      "UsersEstimate": 170
     },
     {
       "ID": "a_19",
@@ -1293,7 +1298,7 @@
       "Name": "Ostinata",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "a_20",
@@ -1333,7 +1338,7 @@
       "Name": "Better than nothing?",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "a_26",
@@ -1365,7 +1370,7 @@
       "Name": "Surprise of Langhe",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "a_30",
@@ -1379,17 +1384,17 @@
       "ID": "a_31",
       "SetID": "daiie3o",
       "Name": "King of white wines",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "a_32",
       "SetID": "daiie3o",
       "Name": "Sales Expert",
-      "Percentage": 0.5,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "a_33",
@@ -1435,17 +1440,17 @@
       "ID": "a_5",
       "SetID": "daiie3o",
       "Name": "Treasure of Roero",
-      "Percentage": 0.7,
+      "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "a_6",
       "SetID": "daiie3o",
       "Name": "Gem of Monferrato",
-      "Percentage": 0.7,
+      "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "a_7",
@@ -1476,7 +1481,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 559,
+      "Progressed": 567,
       "Completed": 2
     }
   ],
@@ -1484,8 +1489,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-08-28T14:01:21.7581903+00:00",
-  "LastChanged_Achievements": "2023-09-01T14:07:44.334189+00:00",
+  "LastChanged_Achievements": "2023-09-01T15:06:04.0220887+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:37.0274623+00:00",
-  "LastUpdate_Ratings": "2023-09-01T13:57:35.4044635+00:00",
-  "LastUpdate_Achievements": "2023-09-01T14:07:44.3342168+00:00"
+  "LastUpdate_Ratings": "2023-09-01T14:57:08.9815815+00:00",
+  "LastUpdate_Achievements": "2023-09-01T15:06:04.0221166+00:00"
 }

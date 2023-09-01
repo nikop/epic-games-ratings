@@ -10034,9 +10034,9 @@
       "ID": "WinNearBattleground",
       "SetID": "cfbk359",
       "Name": "Ancient Battleground",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 494
+      "UsersEstimate": 659
     },
     {
       "ID": "WinNearCrystals",
@@ -10306,8 +10306,8 @@
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-08-31T09:00:01.189861+00:00",
-  "LastChanged_Achievements": "2023-09-01T14:04:18.6766802+00:00",
+  "LastChanged_Achievements": "2023-09-01T15:03:17.6180287+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:51.2302699+00:00",
-  "LastUpdate_Ratings": "2023-09-01T14:00:27.4640003+00:00",
-  "LastUpdate_Achievements": "2023-09-01T14:04:18.6767506+00:00"
+  "LastUpdate_Ratings": "2023-09-01T14:59:25.9010852+00:00",
+  "LastUpdate_Achievements": "2023-09-01T15:03:17.6181394+00:00"
 }

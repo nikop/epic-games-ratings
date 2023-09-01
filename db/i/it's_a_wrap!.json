@@ -2,10 +2,10 @@
   "ID": "810797d6d1c640068ce75d45b85d2423",
   "Name": "It\u0027s a Wrap!",
   "ProductSlug": "its-a-wrap-f392ae",
-  "Ranking_EOS_Progress": 382,
-  "Ranking_EOS_Completed": 96,
-  "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Completed": 97,
+  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-08-23T17:30:00+00:00",
     "PcReleaseDate": "2023-08-23T17:30:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 53,
+  "EOS_Progressed": 54,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.89,
+  "EOS_Completed_Percentage": 1.85,
   "EosHistory": [
     {
       "Time": "2023-08-23T19:06:50.974201+00:00",
@@ -231,6 +231,11 @@
       "Time": "2023-09-01T07:03:38.1398657+00:00",
       "NumProgressed": 53,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-01T15:02:26.5251105+00:00",
+      "NumProgressed": 54,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-23T18:07:41.5840272+00:00",
@@ -243,7 +248,7 @@
       "Name": "Under the Bridge",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "1_50_SECRET",
@@ -337,7 +342,7 @@
       "ID": "MOV2_FINISH",
       "SetID": "2l1dk5b",
       "Name": "Space Invader",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 100,
       "UsersEstimate": 4
     },
@@ -354,14 +359,14 @@
     {
       "ID": "2l1dk5b",
       "IsBase": true,
-      "Progressed": 53,
+      "Progressed": 54,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-25T08:57:40.9970991+00:00",
   "FirstSeenAchievements": "2023-08-01T21:04:35.2343064+00:00",
-  "LastChanged_Achievements": "2023-09-01T14:03:53.4523015+00:00",
+  "LastChanged_Achievements": "2023-09-01T15:02:26.5251099+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:00.6888694+00:00",
-  "LastUpdate_Ratings": "2023-09-01T13:59:25.0989253+00:00",
-  "LastUpdate_Achievements": "2023-09-01T14:03:53.4523181+00:00"
+  "LastUpdate_Ratings": "2023-09-01T14:58:35.9010285+00:00",
+  "LastUpdate_Achievements": "2023-09-01T15:02:26.5251254+00:00"
 }

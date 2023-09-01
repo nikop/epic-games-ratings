@@ -2,9 +2,9 @@
   "ID": "42b8b899a3f349bd8376264ccee3cd2a",
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
-  "Ranking_EOS_Progress": 228,
+  "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 104,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 565,
+  "EOS_Progressed": 567,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.59,
   "EosHistory": [
@@ -1276,6 +1276,11 @@
       "Time": "2023-09-01T12:05:19.0675213+00:00",
       "NumProgressed": 565,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-01T15:05:08.4769398+00:00",
+      "NumProgressed": 567,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1296,15 +1301,15 @@
       "Name": "A New Journey",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "_03_FinishAct1",
       "SetID": "8a1io5d",
       "Name": "The Adventure Begins",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 316
+      "UsersEstimate": 312
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1352,7 +1357,7 @@
       "Name": "Powder Monkey",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "_10_Completion_30",
@@ -1360,7 +1365,7 @@
       "Name": "Buccaneer",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "_11_Completion_40",
@@ -1416,7 +1421,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -1432,7 +1437,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -1472,7 +1477,7 @@
       "Name": "Jaded Judge",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -1495,14 +1500,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 565,
+      "Progressed": 567,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-09-01T14:06:36.1607864+00:00",
+  "LastChanged_Achievements": "2023-09-01T15:05:08.4769392+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:45.1302228+00:00",
-  "LastUpdate_Ratings": "2023-09-01T13:58:06.1410531+00:00",
-  "LastUpdate_Achievements": "2023-09-01T14:06:36.1608168+00:00"
+  "LastUpdate_Ratings": "2023-09-01T14:57:33.1236117+00:00",
+  "LastUpdate_Achievements": "2023-09-01T15:05:08.4769722+00:00"
 }

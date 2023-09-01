@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 156,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
     "PcReleaseDate": "2017-11-02T15:00:00+00:00",
@@ -455,9 +455,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 84297,
+  "EOS_Progressed": 84300,
   "EOS_Completed": 392,
-  "EOS_NewPlayers": 764,
+  "EOS_NewPlayers": 762,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -15120,6 +15120,11 @@
       "Time": "2023-09-01T14:06:07.7220841+00:00",
       "NumProgressed": 84297,
       "NumCompleted": 392
+    },
+    {
+      "Time": "2023-09-01T15:04:45.5786948+00:00",
+      "NumProgressed": 84300,
+      "NumCompleted": 392
     }
   ],
   "TotalAchievements": 10,
@@ -15171,7 +15176,7 @@
       "Name": "Collected all drawings",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "DrawingsDLC",
@@ -15195,7 +15200,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 29504
+      "UsersEstimate": 29505
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -15210,15 +15215,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 84297,
+      "Progressed": 84300,
       "Completed": 392
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-08-23T22:58:37.1708472+00:00",
-  "LastChanged_Achievements": "2023-09-01T14:06:07.7220836+00:00",
+  "LastChanged_Achievements": "2023-09-01T15:04:45.5786942+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:58:00.6374223+00:00",
-  "LastUpdate_Ratings": "2023-09-01T14:00:36.8188322+00:00",
-  "LastUpdate_Achievements": "2023-09-01T14:06:07.7222117+00:00"
+  "LastUpdate_Ratings": "2023-09-01T14:59:32.5826994+00:00",
+  "LastUpdate_Achievements": "2023-09-01T15:04:45.5788281+00:00"
 }

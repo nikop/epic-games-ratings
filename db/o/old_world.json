@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 207,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -1653,9 +1653,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13722,
+  "EOS_Progressed": 13725,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10753,6 +10753,11 @@
       "Time": "2023-09-01T14:04:06.5744253+00:00",
       "NumProgressed": 13722,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-01T15:02:37.6031718+00:00",
+      "NumProgressed": 13725,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -11300,7 +11305,7 @@
       "Name": "Lion",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MAGNIFICENT",
@@ -11516,7 +11521,7 @@
       "Name": "Good Difficulty",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_GREAT",
@@ -11668,7 +11673,7 @@
       "Name": "Traders",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FRIENDLY",
@@ -12138,9 +12143,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY",
       "SetID": "9201eeb",
       "Name": "Church of the Holy Sepulchre",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 110
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_JUDAISM",
@@ -12148,7 +12153,7 @@
       "Name": "Temple of Solomon",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_MANICHAEISM",
@@ -12194,9 +12199,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_MUSAEUM",
       "SetID": "9201eeb",
       "Name": "Musaeum",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 274
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_NECROPOLIS",
@@ -12220,7 +12225,7 @@
       "Name": "Pantheon",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_PYRAMIDS",
@@ -12236,7 +12241,7 @@
       "Name": "Via Recta Souk",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACHIEVEMENT_KNOWLEDGE_ANCIENTS",
@@ -12300,7 +12305,7 @@
       "Name": "Learn to Play 3",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_4",
@@ -12524,7 +12529,7 @@
       "Name": "Power to the People",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACHIEVEMENT_PUNIC_WARS",
@@ -12700,7 +12705,7 @@
       "Name": "Economic Reform",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACHIEVEMENT_TECH_INDUSTRIAL_PROGRESS",
@@ -12748,7 +12753,7 @@
       "Name": "Legalism",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_MYTHOLOGY",
@@ -12836,7 +12841,7 @@
       "Name": "Legionary",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACHIEVEMENT_UNIT_PHALANGITE",
@@ -12844,7 +12849,7 @@
       "Name": "Phalangite",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACHIEVEMENT_UNIT_SIEGE_TOWER",
@@ -13131,21 +13136,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13722,
+      "Progressed": 13725,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13722,
+      "Progressed": 13725,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-30T22:01:08.7702063+00:00",
-  "LastChanged_Achievements": "2023-09-01T14:04:06.5744248+00:00",
+  "LastChanged_Achievements": "2023-09-01T15:02:37.6031712+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:39.7773306+00:00",
-  "LastUpdate_Ratings": "2023-09-01T13:57:52.4524124+00:00",
-  "LastUpdate_Achievements": "2023-09-01T14:04:06.5755405+00:00"
+  "LastUpdate_Ratings": "2023-09-01T14:57:22.5071786+00:00",
+  "LastUpdate_Achievements": "2023-09-01T15:02:37.6043631+00:00"
 }

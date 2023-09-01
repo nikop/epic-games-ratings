@@ -6,19 +6,19 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 17.00% | ~108,797 |
-| Incurious | 16.00% | ~102,397 |
-| Climate Change | 15.00% | ~95,997 |
-| Stroller | 14.00% | ~89,598 |
-| Toy Train | 13.00% | ~83,198 |
-| Advanced Hiker | 12.00% | ~76,798 |
-| Hiker | 11.00% | ~70,398 |
-| Mojave Courier | 5.00% | ~31,999 |
-| Saved by Nausicaä | 4.00% | ~25,599 |
-| Voyager | 3.00% | ~19,199 |
-| Advanced Voyager | 3.00% | ~19,199 |
-| Expert Stroller | 3.00% | ~19,199 |
-| Orient Express | 3.00% | ~19,199 |
+| Advanced Stroller | 17.00% | ~108,800 |
+| Incurious | 16.00% | ~102,400 |
+| Climate Change | 15.00% | ~96,000 |
+| Stroller | 14.00% | ~89,600 |
+| Toy Train | 13.00% | ~83,200 |
+| Advanced Hiker | 12.00% | ~76,800 |
+| Hiker | 11.00% | ~70,400 |
+| Mojave Courier | 5.00% | ~32,000 |
+| Saved by Nausicaä | 4.00% | ~25,600 |
+| Voyager | 3.00% | ~19,200 |
+| Advanced Voyager | 3.00% | ~19,200 |
+| Expert Stroller | 3.00% | ~19,200 |
+| Orient Express | 3.00% | ~19,200 |
 | Expert Hiker | 2.00% | ~12,800 |
 | Marathon | 2.00% | ~12,800 |
 | Destructionist | 2.00% | ~12,800 |
@@ -30,13 +30,13 @@ Number of Ratings: 21,990  (23.09.2022)
 | Dynamite Fishing | 0.60% | ~3,840 |
 | Terminal Station | 0.50% | ~3,200 |
 | Scrooge | 0.40% | ~2,560 |
+| Tough Nut! | 0.40% | ~2,560 |
 | Wayfarer | 0.30% | ~1,920 |
 | Advanced Wayfarer | 0.30% | ~1,920 |
 | Trans-Siberian Railway | 0.30% | ~1,920 |
 | Engineer | 0.30% | ~1,920 |
 | Satan's Minion | 0.30% | ~1,920 |
 | Snowman's Land | 0.30% | ~1,920 |
-| Tough Nut! | 0.30% | ~1,920 |
 | Explorer | 0.10% | ~640 |
 | Advanced Explorer | 0.10% | ~640 |
 | Expert Wayfarer | 0.10% | ~640 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~640 |
 | 20 Miles under the Sea | 0.10% | ~640 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 639,983 (Ranked 26)  
+Progressed: 639,998 (Ranked 26)  
 Completed: 9 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 9 (0.00%) (Ranked 271)
 | 2023-08-29 | 639,274 | 9 |
 | 2023-08-30 | 639,575 | 9 |
 | 2023-08-31 | 639,844 | 9 |
-| 2023-09-01 | 639,983 | 9 |
+| 2023-09-01 | 639,998 | 9 |
 ## Awards
 Max (Great for Beginners): 192  (Ranked 276)  
 Sum: 1,562 (Ranked 219)  

@@ -44,6 +44,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Ziggurat | 2.00% | ~274 |
 | Ishtar Gate | 2.00% | ~274 |
 | Lighthouse | 2.00% | ~274 |
+| Musaeum | 2.00% | ~274 |
 | Necropolis | 2.00% | ~274 |
 | Pyramids | 2.00% | ~274 |
 | Learn to Play 1 | 2.00% | ~274 |
@@ -75,25 +76,24 @@ Number of Ratings: 1,307  (23.09.2022)
 | Sages | 1.00% | ~137 |
 | Acropolis | 1.00% | ~137 |
 | Mausoleum | 1.00% | ~137 |
-| Musaeum | 1.00% | ~137 |
 | Learn to Play 2 | 1.00% | ~137 |
 | Greece | 1.00% | ~137 |
 | Persian Paganism | 1.00% | ~137 |
 | Building Wonders | 1.00% | ~137 |
 | Mythology | 1.00% | ~137 |
 | Points Victory | 1.00% | ~137 |
-| Lion | 0.90% | ~123 |
-| Good Difficulty | 0.90% | ~123 |
-| Traders | 0.90% | ~123 |
-| Temple of Solomon | 0.90% | ~123 |
-| Pantheon | 0.90% | ~123 |
-| Via Recta Souk | 0.90% | ~123 |
-| Learn to Play 3 | 0.90% | ~123 |
-| Power to the People | 0.90% | ~123 |
-| Economic Reform | 0.90% | ~123 |
-| Legalism | 0.90% | ~123 |
-| Legionary | 0.90% | ~123 |
-| Phalangite | 0.90% | ~123 |
+| Lion | 0.90% | ~124 |
+| Good Difficulty | 0.90% | ~124 |
+| Traders | 0.90% | ~124 |
+| Temple of Solomon | 0.90% | ~124 |
+| Pantheon | 0.90% | ~124 |
+| Via Recta Souk | 0.90% | ~124 |
+| Learn to Play 3 | 0.90% | ~124 |
+| Power to the People | 0.90% | ~124 |
+| Economic Reform | 0.90% | ~124 |
+| Legalism | 0.90% | ~124 |
+| Legionary | 0.90% | ~124 |
+| Phalangite | 0.90% | ~124 |
 | Capable | 0.80% | ~110 |
 | Invincible | 0.80% | ~110 |
 | Ready | 0.80% | ~110 |
@@ -102,6 +102,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Iron | 0.80% | ~110 |
 | Circus Maximus | 0.80% | ~110 |
 | Hagia Sophia | 0.80% | ~110 |
+| Church of the Holy Sepulchre | 0.80% | ~110 |
 | Dualism | 0.80% | ~110 |
 | Redemption | 0.80% | ~110 |
 | Ambition Victory | 0.80% | ~110 |
@@ -110,7 +111,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Devout | 0.70% | ~96 |
 | Landowners | 0.70% | ~96 |
 | Riders | 0.70% | ~96 |
-| Church of the Holy Sepulchre | 0.70% | ~96 |
 | Adur Burzen-Mihr | 0.70% | ~96 |
 | Carthage | 0.70% | ~96 |
 | Assyrian Paganism | 0.70% | ~96 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,722 (Ranked 120)  
+Progressed: 13,725 (Ranked 120)  
 Completed: 5 (0.04%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -437,7 +437,7 @@ Completed: 5 (0.04%) (Ranked 240)
 | 2023-08-29 | 13,661 | 5 |
 | 2023-08-30 | 13,689 | 5 |
 | 2023-08-31 | 13,711 | 5 |
-| 2023-09-01 | 13,722 | 5 |
+| 2023-09-01 | 13,725 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 265)  
 Sum: 1,800 (Ranked 207)  
