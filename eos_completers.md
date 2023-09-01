@@ -3,7 +3,7 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.00% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.31% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 35.48% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 35.20% |
 | 5 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 33.33% |
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.95% |
 | 7 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
@@ -31,13 +31,13 @@
 | 29 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
 | 30 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 9.09% |
 | 30 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
-| 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.99% |
+| 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.98% |
 | 33 | [Sonic Origins](games/s/sonic_origins.md) | 8.97% |
 | 34 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.89% |
 | 35 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.61% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.73% |
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
-| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.09% |
+| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.15% |
 | 39 | [Scorn](games/s/scorn.md) | 6.99% |
 | 40 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.90% |
 | 41 | [Time Loader](games/t/time_loader.md) | 6.78% |
@@ -80,7 +80,7 @@
 | 78 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.74% |
 | 79 | [Destiny 2](games/d/destiny_2.md) | 2.73% |
 | 79 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
-| 81 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.68% |
+| 81 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.67% |
 | 82 | [The Bunker](games/t/the_bunker.md) | 2.61% |
 | 83 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.58% |
 | 84 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.57% |
@@ -121,9 +121,9 @@
 | 119 | [A Musical Story](games/a/a_musical_story.md) | 1.04% |
 | 120 | [Adios](games/a/adios.md) | 1.03% |
 | 120 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.03% |
-| 122 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 1.02% |
-| 123 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.01% |
-| 124 | [Sable](games/s/sable.md) | 1.00% |
+| 122 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.01% |
+| 123 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 1.00% |
+| 123 | [Sable](games/s/sable.md) | 1.00% |
 | 125 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.99% |
 | 125 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.99% |
 | 127 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.95% |
@@ -164,13 +164,13 @@
 | 161 | [Tchia](games/t/tchia.md) | 0.43% |
 | 163 | [Ghostrunner](games/g/ghostrunner.md) | 0.40% |
 | 163 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
-| 165 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.38% |
-| 166 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.37% |
-| 166 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.37% |
-| 166 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
-| 169 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.36% |
-| 169 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.36% |
-| 169 | [Wildermyth](games/w/wildermyth.md) | 0.36% |
+| 165 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.37% |
+| 165 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.37% |
+| 165 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
+| 168 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.36% |
+| 168 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.36% |
+| 168 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.36% |
+| 168 | [Wildermyth](games/w/wildermyth.md) | 0.36% |
 | 172 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.35% |
 | 172 | [The Devil's Face](games/t/the_devil's_face.md) | 0.35% |
 | 172 | [The Surge](games/t/the_surge.md) | 0.35% |
