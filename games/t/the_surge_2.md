@@ -5,8 +5,8 @@ Rating: 4.23 (Ranked 850)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,589 |
-| Don't I Know You...? | 77.00% | ~1,529 |
+| Rigged And Ready | 80.00% | ~1,590 |
+| Don't I Know You...? | 77.00% | ~1,530 |
 | Jailbreak | 66.00% | ~1,311 |
 | Suited and Booted | 39.00% | ~775 |
 | HEADSHOT! | 38.00% | ~755 |
@@ -14,17 +14,17 @@ Rating: 4.23 (Ranked 850)
 | Overheated | 30.00% | ~596 |
 | High Performance | 30.00% | ~596 |
 | Powered Up | 28.00% | ~556 |
-| Studied The Blade | 25.00% | ~496 |
+| Studied The Blade | 25.00% | ~497 |
 | Home Invasion | 23.00% | ~457 |
 | Luminary | 22.00% | ~437 |
 | It's a Trap | 22.00% | ~437 |
 | True Survivor | 21.00% | ~417 |
 | Offensive Defense | 20.00% | ~397 |
 | Shocking | 20.00% | ~397 |
-| Court Martial | 19.00% | ~377 |
-| Clean Cut | 19.00% | ~377 |
-| Unforeseeable Consequences | 19.00% | ~377 |
-| Dead Again | 18.00% | ~357 |
+| Court Martial | 19.00% | ~378 |
+| Clean Cut | 19.00% | ~378 |
+| Unforeseeable Consequences | 19.00% | ~378 |
+| Dead Again | 18.00% | ~358 |
 | Full Arsenal | 17.00% | ~338 |
 | Can't Trust Banks | 15.00% | ~298 |
 | Mommy Dearest | 14.00% | ~278 |
@@ -35,7 +35,7 @@ Rating: 4.23 (Ranked 850)
 | What A Catchy Song | 13.00% | ~258 |
 | Corrupted Beauty | 12.00% | ~238 |
 | Marked For Success | 12.00% | ~238 |
-| Triplets | 11.00% | ~218 |
+| Triplets | 11.00% | ~219 |
 | Stimulating The Local Economy | 10.00% | ~199 |
 | Denying Prophecy | 9.00% | ~179 |
 | Defense in Depth | 9.00% | ~179 |
@@ -63,7 +63,7 @@ Rating: 4.23 (Ranked 850)
 | Loot, Pillage & Craft | 2.00% | ~40 |
 | Swiss Army Drone | 1.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,986 (Ranked 173)  
+Progressed: 1,987 (Ranked 173)  
 Completed: 11 (0.55%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,6 +168,7 @@ Completed: 11 (0.55%) (Ranked 148)
 | 2023-08-26 | 1,984 | 10 |
 | 2023-08-27 | 1,985 | 10 |
 | 2023-08-31 | 1,986 | 11 |
+| 2023-09-01 | 1,987 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

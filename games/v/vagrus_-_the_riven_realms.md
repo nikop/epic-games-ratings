@@ -37,6 +37,7 @@
 | A Terrible Will | 3.00% | ~4 |
 | Trouble at Fort Larius | 3.00% | ~4 |
 | Unseen Patterns | 3.00% | ~4 |
+| Delayed | 2.00% | ~3 |
 | Life... Finds a Way | 2.00% | ~3 |
 | Making Contact | 1.00% | ~1 |
 | Bounty Hunter | 1.00% | ~1 |
@@ -46,7 +47,6 @@
 | Business As Usual | 1.00% | ~1 |
 | Legacy of a Mercenary | 1.00% | ~1 |
 | Trailblazer | 1.00% | ~1 |
-| Delayed | 1.00% | ~1 |
 | A Real Battle | 1.00% | ~1 |
 | The Darkness Within | 1.00% | ~1 |
 | Ruiner | 1.00% | ~1 |

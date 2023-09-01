@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 6,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2016-06-14T16:00:00+00:00",
@@ -9681,11 +9681,17 @@
       "Rating": 4.52,
       "NumberOfAwards": 248969,
       "NumberOfAwardsMax": 31726
+    },
+    {
+      "Time": "2023-09-01T08:00:12.5098932+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 249021,
+      "NumberOfAwardsMax": 31778
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 248969,
-  "NumberOfAwardsMax": 31726,
+  "NumberOfAwards": 249021,
+  "NumberOfAwardsMax": 31778,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -9698,7 +9704,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 31726
+      "Count": 31778
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -9755,9 +9761,9 @@
       "Count": 23890
     }
   ],
-  "EOS_Progressed": 834878,
+  "EOS_Progressed": 834954,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 21213,
+  "EOS_NewPlayers": 21210,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -24710,6 +24716,11 @@
       "Time": "2023-09-01T07:03:36.2792183+00:00",
       "NumProgressed": 834878,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-09-01T08:03:23.955732+00:00",
+      "NumProgressed": 834954,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 229,
@@ -24849,7 +24860,7 @@
       "Name": "Medic",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 4174
+      "UsersEstimate": 4175
     },
     {
       "ID": "ACH_018",
@@ -24857,7 +24868,7 @@
       "Name": "Handyman",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 4174
+      "UsersEstimate": 4175
     },
     {
       "ID": "ACH_019",
@@ -24889,7 +24900,7 @@
       "Name": "Zealous",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5844
+      "UsersEstimate": 5845
     },
     {
       "ID": "ACH_023",
@@ -24897,7 +24908,7 @@
       "Name": "It wakes",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 7514
+      "UsersEstimate": 7515
     },
     {
       "ID": "ACH_024",
@@ -24905,7 +24916,7 @@
       "Name": "Not half bad",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 5009
+      "UsersEstimate": 5010
     },
     {
       "ID": "ACH_025",
@@ -24929,7 +24940,7 @@
       "Name": "Apt Survivor",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 5009
+      "UsersEstimate": 5010
     },
     {
       "ID": "ACH_028",
@@ -24951,9 +24962,9 @@
       "ID": "ACH_030",
       "SetID": "bdmlp8o",
       "Name": "Survival Treasures",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4174
+      "UsersEstimate": 5010
     },
     {
       "ID": "ACH_031",
@@ -25025,7 +25036,7 @@
       "Name": "Skillful",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 6679
+      "UsersEstimate": 6680
     },
     {
       "ID": "ACH_040",
@@ -25047,9 +25058,9 @@
       "ID": "ACH_042",
       "SetID": "bdmlp8o",
       "Name": "III",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 1670
+      "UsersEstimate": 2505
     },
     {
       "ID": "ACH_043",
@@ -25289,7 +25300,7 @@
       "Name": "Sorted",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4174
+      "UsersEstimate": 4175
     },
     {
       "ID": "ACH_073",
@@ -26489,7 +26500,7 @@
       "Name": "Make Some Noise",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 5844
+      "UsersEstimate": 5845
     },
     {
       "ID": "ACH_226",
@@ -26505,7 +26516,7 @@
       "Name": "Terror of LV-426",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4174
+      "UsersEstimate": 4175
     },
     {
       "ID": "ACH_228",
@@ -26529,7 +26540,7 @@
       "Name": "MU/TH/UR Dearest",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 8349
+      "UsersEstimate": 8350
     },
     {
       "ID": "ACH_231",
@@ -26552,21 +26563,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 834878,
+      "Progressed": 834954,
       "Completed": 40
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 834878,
+      "Progressed": 834954,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
-  "LastChanged": "2023-09-01T05:59:15.6458899+00:00",
-  "LastChanged_Achievements": "2023-09-01T07:03:36.2792174+00:00",
+  "LastChanged": "2023-09-01T08:00:12.5098928+00:00",
+  "LastChanged_Achievements": "2023-09-01T08:03:23.9557313+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:54.3324879+00:00",
-  "LastUpdate_Ratings": "2023-09-01T06:59:54.375623+00:00",
-  "LastUpdate_Achievements": "2023-09-01T07:03:36.2803875+00:00"
+  "LastUpdate_Ratings": "2023-09-01T08:00:12.5098938+00:00",
+  "LastUpdate_Achievements": "2023-09-01T08:03:23.9565106+00:00"
 }

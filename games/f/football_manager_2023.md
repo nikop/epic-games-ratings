@@ -16,8 +16,8 @@ Rating: 4.75 (Ranked 134)
 | Hat-trick | 60.00% | ~51,752 |
 | "I Would Love It If We Beat Them" | 58.00% | ~50,027 |
 | Planned Signing | 58.00% | ~50,027 |
+| Scoring Streak | 54.00% | ~46,577 |
 | Thumping | 53.00% | ~45,715 |
-| Scoring Streak | 53.00% | ~45,715 |
 | Wheeler Dealer | 53.00% | ~45,715 |
 | People Pleaser | 52.00% | ~44,852 |
 | Unbeatable! | 51.00% | ~43,990 |

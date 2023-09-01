@@ -4,8 +4,8 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
     "PcReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 538,
+  "EOS_Progressed": 539,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 307,
+  "EOS_NewPlayers": 306,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -906,6 +906,11 @@
       "Time": "2023-09-01T06:04:19.7352707+00:00",
       "NumProgressed": 538,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-01T08:05:09.6548542+00:00",
+      "NumProgressed": 539,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -918,15 +923,15 @@
       "Name": "A Better Tomorrow",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "BostonHayDay",
       "SetID": "3ai6ml8",
       "Name": "Boston Hay Day",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 328
+      "UsersEstimate": 323
     },
     {
       "ID": "BoxingClever",
@@ -990,7 +995,7 @@
       "Name": "Everything is Dust",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "LightsOut",
@@ -998,7 +1003,7 @@
       "Name": "Lights Out",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "MiCasaSuCasa",
@@ -1070,21 +1075,21 @@
       "Name": "Welcome to Fort Solis",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 538,
+      "Progressed": 539,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-09-01T07:05:21.2715543+00:00",
+  "LastChanged_Achievements": "2023-09-01T08:05:09.6548535+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:05.9137937+00:00",
-  "LastUpdate_Ratings": "2023-09-01T06:59:21.6915888+00:00",
-  "LastUpdate_Achievements": "2023-09-01T07:05:21.2715952+00:00"
+  "LastUpdate_Ratings": "2023-09-01T07:59:39.9102552+00:00",
+  "LastUpdate_Achievements": "2023-09-01T08:05:09.6548807+00:00"
 }

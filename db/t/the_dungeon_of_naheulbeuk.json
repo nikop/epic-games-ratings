@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -730,18 +730,24 @@
       "Rating": 4.58,
       "NumberOfAwards": 232,
       "NumberOfAwardsMax": 184
+    },
+    {
+      "Time": "2023-09-01T07:58:00.3971373+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 233,
+      "NumberOfAwardsMax": 185
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 232,
-  "NumberOfAwardsMax": 184,
+  "NumberOfAwards": 233,
+  "NumberOfAwardsMax": 185,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 184
+      "Count": 185
     },
     {
       "Text": "This game is Relaxing",
@@ -756,9 +762,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 219879,
+  "EOS_Progressed": 219892,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3018,
+  "EOS_NewPlayers": 3014,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9106,6 +9112,11 @@
       "Time": "2023-09-01T07:04:44.8228394+00:00",
       "NumProgressed": 219879,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-01T08:04:32.6202733+00:00",
+      "NumProgressed": 219892,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -9517,7 +9528,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6596
+      "UsersEstimate": 6597
     },
     {
       "ID": "DwarfElf15Support",
@@ -9565,7 +9576,7 @@
       "Name": "Sowwy!",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 57169
+      "UsersEstimate": 57172
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -9613,7 +9624,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6596
+      "UsersEstimate": 6597
     },
     {
       "ID": "FollowBraztok",
@@ -9820,21 +9831,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 219879,
+      "Progressed": 219892,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 219879,
+      "Progressed": 219892,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2023-08-31T13:57:26.1389463+00:00",
-  "LastChanged_Achievements": "2023-09-01T07:04:44.822839+00:00",
+  "LastChanged": "2023-09-01T07:58:00.3971366+00:00",
+  "LastChanged_Achievements": "2023-09-01T08:04:32.6202726+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:41.9661267+00:00",
-  "LastUpdate_Ratings": "2023-09-01T06:57:43.671702+00:00",
-  "LastUpdate_Achievements": "2023-09-01T07:04:44.8230004+00:00"
+  "LastUpdate_Ratings": "2023-09-01T07:58:00.3971379+00:00",
+  "LastUpdate_Achievements": "2023-09-01T08:04:32.6204534+00:00"
 }

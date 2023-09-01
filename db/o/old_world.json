@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 239,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1653,9 +1653,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13716,
+  "EOS_Progressed": 13717,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10733,6 +10733,11 @@
       "Time": "2023-09-01T07:03:50.5924701+00:00",
       "NumProgressed": 13716,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-01T08:03:38.3367557+00:00",
+      "NumProgressed": 13717,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -11072,7 +11077,7 @@
       "Name": "Able",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AMBITIOUS",
@@ -11096,7 +11101,7 @@
       "Name": "Architect",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AVENGER",
@@ -11200,7 +11205,7 @@
       "Name": "Good",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_GREAT",
@@ -11232,7 +11237,7 @@
       "Name": "Intrepid",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INVINCIBLE",
@@ -11248,7 +11253,7 @@
       "Name": "Just",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_KEYSTONE",
@@ -11264,7 +11269,7 @@
       "Name": "Learned",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_LIBERATOR",
@@ -11296,7 +11301,7 @@
       "Name": "Mason",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MIGHTY",
@@ -11312,7 +11317,7 @@
       "Name": "Noble",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_OLD",
@@ -11376,7 +11381,7 @@
       "Name": "Strong",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_SUBJUGATOR",
@@ -12112,7 +12117,7 @@
       "Name": "Hanging Gardens",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY",
@@ -12192,7 +12197,7 @@
       "Name": "Oracle",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_PANTHEON",
@@ -12776,7 +12781,7 @@
       "Name": "Trade Caravan",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "ACHIEVEMENT_UNIT_CATAPHRACT_ARCHER",
@@ -13111,21 +13116,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13716,
+      "Progressed": 13717,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13716,
+      "Progressed": 13717,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-30T22:01:08.7702063+00:00",
-  "LastChanged_Achievements": "2023-09-01T07:03:50.5924695+00:00",
+  "LastChanged_Achievements": "2023-09-01T08:03:38.336755+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:39.7773306+00:00",
-  "LastUpdate_Ratings": "2023-09-01T06:57:21.1021981+00:00",
-  "LastUpdate_Achievements": "2023-09-01T07:03:50.5936364+00:00"
+  "LastUpdate_Ratings": "2023-09-01T07:57:38.5029482+00:00",
+  "LastUpdate_Achievements": "2023-09-01T08:03:38.3377306+00:00"
 }

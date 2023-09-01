@@ -4782,7 +4782,7 @@
   ],
   "EOS_Progressed": 86254,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 981,
+  "EOS_NewPlayers": 978,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19797,9 +19797,9 @@
       "ID": "achievement_score_a_goal_in_10_consecutive_matches",
       "SetID": "26pcimd",
       "Name": "Scoring Streak",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 45715
+      "UsersEstimate": 46577
     },
     {
       "ID": "achievement_sell_50_million_plus_player",
@@ -20118,8 +20118,8 @@
   "FirstSeenRating": "2022-11-08T17:57:47.9405885+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.5210365+00:00",
   "LastChanged": "2023-08-31T18:58:41.8485776+00:00",
-  "LastChanged_Achievements": "2023-09-01T07:07:37.1872164+00:00",
+  "LastChanged_Achievements": "2023-09-01T08:07:25.3501922+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:01.7792484+00:00",
-  "LastUpdate_Ratings": "2023-09-01T06:59:00.6017321+00:00",
-  "LastUpdate_Achievements": "2023-09-01T07:07:37.1875849+00:00"
+  "LastUpdate_Ratings": "2023-09-01T07:59:19.2645255+00:00",
+  "LastUpdate_Achievements": "2023-09-01T08:07:25.3504382+00:00"
 }
