@@ -1215,7 +1215,7 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 8726,
+  "EOS_Progressed": 8727,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 203,
   "EOS_NewCompleters": 0,
@@ -11935,6 +11935,11 @@
       "Time": "2023-09-01T15:04:36.711072+00:00",
       "NumProgressed": 8726,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-01T17:06:02.1937055+00:00",
+      "NumProgressed": 8727,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -11994,7 +11999,7 @@
       "Name": "Legendary Explorer",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2443
+      "UsersEstimate": 2444
     },
     {
       "ID": "16",
@@ -12082,7 +12087,7 @@
       "Name": "Cleaner",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2443
+      "UsersEstimate": 2444
     },
     {
       "ID": "26",
@@ -12090,7 +12095,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1483
+      "UsersEstimate": 1484
     },
     {
       "ID": "27",
@@ -12186,7 +12191,7 @@
       "Name": "Spreading Influence",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1483
+      "UsersEstimate": 1484
     },
     {
       "ID": "38",
@@ -12194,7 +12199,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 3839
+      "UsersEstimate": 3840
     },
     {
       "ID": "39",
@@ -12210,7 +12215,7 @@
       "Name": "Catastrofan",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2443
+      "UsersEstimate": 2444
     },
     {
       "ID": "40",
@@ -12242,7 +12247,7 @@
       "Name": "Prepared for Anything",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1134
+      "UsersEstimate": 1135
     },
     {
       "ID": "44",
@@ -12298,7 +12303,7 @@
       "Name": "Big Catastrofan",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1134
+      "UsersEstimate": 1135
     },
     {
       "ID": "50",
@@ -12312,9 +12317,9 @@
       "ID": "51",
       "SetID": "8idi9ml",
       "Name": "Sky Burial",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 873
+      "UsersEstimate": 785
     },
     {
       "ID": "52",
@@ -12392,9 +12397,9 @@
       "ID": "7",
       "SetID": "8idi9ml",
       "Name": "Survivor",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 2792
+      "UsersEstimate": 2705
     },
     {
       "ID": "8",
@@ -12417,15 +12422,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 8726,
+      "Progressed": 8727,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-08-30T14:59:07.4775368+00:00",
-  "LastChanged_Achievements": "2023-09-01T16:05:32.2740688+00:00",
+  "LastChanged_Achievements": "2023-09-01T17:06:02.193705+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:34.935802+00:00",
-  "LastUpdate_Ratings": "2023-09-01T15:59:56.149175+00:00",
-  "LastUpdate_Achievements": "2023-09-01T16:05:32.274205+00:00"
+  "LastUpdate_Ratings": "2023-09-01T17:00:23.4006387+00:00",
+  "LastUpdate_Achievements": "2023-09-01T17:06:02.1937983+00:00"
 }

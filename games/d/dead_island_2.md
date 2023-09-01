@@ -14,13 +14,13 @@ Rating: 4.54 (Ranked 503)
 | Git Gutte! | 0.60% | ~4,025 |
 | Bookworm | 0.60% | ~4,025 |
 | But Doctor, I am Butcho | 0.60% | ~4,025 |
+| Can't Handle the Truth | 0.60% | ~4,025 |
 | Coup de Grâce | 0.60% | ~4,025 |
 | Friends Like These | 0.60% | ~4,025 |
 | Apex Predator | 0.60% | ~4,025 |
 | Stacking the Deck | 0.60% | ~4,025 |
 | This is My Weapon | 0.60% | ~4,025 |
 | Slayer Squad | 0.50% | ~3,354 |
-| Can't Handle the Truth | 0.50% | ~3,354 |
 | Like Riding a Bike | 0.50% | ~3,354 |
 | Zombologist | 0.50% | ~3,354 |
 | A Patton Emerges | 0.50% | ~3,354 |
@@ -31,9 +31,9 @@ Rating: 4.54 (Ranked 503)
 | I Got a Zombie Army and You Can't Harm Me | 0.40% | ~2,683 |
 | Ooh, Shiny! | 0.40% | ~2,683 |
 | Humanity Distilled | 0.40% | ~2,683 |
-| Making Your Mark | 0.30% | ~2,012 |
-| Down with the Sickness | 0.30% | ~2,012 |
-| Max Headroom | 0.30% | ~2,012 |
+| Making Your Mark | 0.30% | ~2,013 |
+| Down with the Sickness | 0.30% | ~2,013 |
+| Max Headroom | 0.30% | ~2,013 |
 | On Safari | 0.20% | ~1,342 |
 | Smorgasbord | 0.20% | ~1,342 |
 | Not Even My Final Form | 0.20% | ~1,342 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 503)
 | Variety is the Spice of Death | 0.10% | ~671 |
 | Bucket List | 0.10% | ~671 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 670,825 (Ranked 22)  
+Progressed: 670,866 (Ranked 22)  
 Completed: 2,097 (0.31%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 2,097 (0.31%) (Ranked 178)
 | 2023-08-29 | 668,912 | 2,088 |
 | 2023-08-30 | 669,636 | 2,094 |
 | 2023-08-31 | 670,394 | 2,097 |
-| 2023-09-01 | 670,825 | 2,097 |
+| 2023-09-01 | 670,866 | 2,097 |
 ## Awards
 Max (Great Boss Battles): 5,841  (Ranked 60)  
 Sum: 8,608 (Ranked 96)  

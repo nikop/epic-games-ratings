@@ -5,9 +5,9 @@ Rating: 4.55 (Ranked 489)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 26.00% | ~812 |
+| Wakey Wakey | 26.00% | ~813 |
 | Sputnik 2049 | 23.00% | ~719 |
-| Infinite Growth... | 22.00% | ~687 |
+| Infinite Growth... | 22.00% | ~688 |
 | Without Breaking Some Eggs... | 21.00% | ~656 |
 | Space Society | 15.00% | ~469 |
 | A Thousand Strong | 15.00% | ~469 |
@@ -18,15 +18,15 @@ Rating: 4.55 (Ranked 489)
 | The Ship of Theseus | 12.00% | ~375 |
 | Guy de Borderlands | 11.00% | ~344 |
 | Hope Seeker | 11.00% | ~344 |
-| Exceeding Capacity | 10.00% | ~312 |
-| Breaking Protocol | 10.00% | ~312 |
+| Exceeding Capacity | 10.00% | ~313 |
+| Breaking Protocol | 10.00% | ~313 |
 | A Hunk of Junk | 9.00% | ~281 |
 | Man's Best Friend | 7.00% | ~219 |
 | Power Outage | 7.00% | ~219 |
 | Convenient Transport | 7.00% | ~219 |
 | Please Make it Stop! | 7.00% | ~219 |
-| Sightseeing | 6.00% | ~187 |
-| From the Past | 6.00% | ~187 |
+| Sightseeing | 6.00% | ~188 |
+| From the Past | 6.00% | ~188 |
 | Access Granted | 5.00% | ~156 |
 | Necessary Enhancement | 5.00% | ~156 |
 | All in Good Health | 5.00% | ~156 |
@@ -39,12 +39,12 @@ Rating: 4.55 (Ranked 489)
 | In Dolos We Trust | 3.00% | ~94 |
 | Pedal to the Metal | 3.00% | ~94 |
 | Pulsar Disciple | 3.00% | ~94 |
-| Mutual Loyalty | 2.00% | ~62 |
-| Catastrophe Avoided | 2.00% | ~62 |
-| Praise the Hull! | 2.00% | ~62 |
-| Space Greenhouse | 2.00% | ~62 |
-| Delivery! | 2.00% | ~62 |
-| Help of the Forgotten Member | 2.00% | ~62 |
+| Mutual Loyalty | 2.00% | ~63 |
+| Catastrophe Avoided | 2.00% | ~63 |
+| Praise the Hull! | 2.00% | ~63 |
+| Space Greenhouse | 2.00% | ~63 |
+| Delivery! | 2.00% | ~63 |
+| Help of the Forgotten Member | 2.00% | ~63 |
 | Better Him Than Me | 1.00% | ~31 |
 | Tiqqun Contender | 1.00% | ~31 |
 | Remember the Dead | 1.00% | ~31 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 489)
 | I Give You the Stars | 0.10% | ~1 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,124 (Ranked 162)  
+Progressed: 3,126 (Ranked 162)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-08-29 | 3,112 | 0 |
 | 2023-08-30 | 3,116 | 0 |
 | 2023-08-31 | 3,122 | 0 |
-| 2023-09-01 | 3,124 | 0 |
+| 2023-09-01 | 3,126 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

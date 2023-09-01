@@ -10,17 +10,17 @@
 | Masu-ter Angler | 17.00% | ~6 |
 | Go-Getter | 17.00% | ~6 |
 | Just Hoverin' Along | 14.00% | ~5 |
+| Handyman Extraordinaire | 14.00% | ~5 |
 | River Cleaner | 14.00% | ~5 |
 | Seven Days of Endless Adventure - Déjà Vu | 11.00% | ~4 |
 | It's Alive! | 11.00% | ~4 |
-| Handyman Extraordinaire | 11.00% | ~4 |
+| Did Someone Order Ramen? | 11.00% | ~4 |
 | Ptera Pal | 11.00% | ~4 |
 | My Fair Ladybug | 9.00% | ~3 |
 | The Holly Grail | 9.00% | ~3 |
 | What's That Smell? | 9.00% | ~3 |
 | That Was a Snap! | 9.00% | ~3 |
 | Farm Life! | 9.00% | ~3 |
-| Did Someone Order Ramen? | 9.00% | ~3 |
 | DJ Superstar | 9.00% | ~3 |
 | Asso Bridge Enthusiast | 9.00% | ~3 |
 | A New Time | 6.00% | ~2 |
@@ -29,6 +29,8 @@
 | Biwa Be Mine | 6.00% | ~2 |
 | Ice Fishing | 6.00% | ~2 |
 | Top-Notch Journalist | 6.00% | ~2 |
+| Stego Stooge | 6.00% | ~2 |
+| Gumdum Robot, I Choose You! | 6.00% | ~2 |
 | Bee Professor | 3.00% | ~1 |
 | Grasshopper Guru | 3.00% | ~1 |
 | Butterfly Maestro | 3.00% | ~1 |
@@ -39,9 +41,7 @@
 | Did Someone Order Oyakodon? | 3.00% | ~1 |
 | Did Someone Order Pork Curry? | 3.00% | ~1 |
 | Brachio Battler | 3.00% | ~1 |
-| Stego Stooge | 3.00% | ~1 |
 | T-Rex Wrangler | 3.00% | ~1 |
-| Gumdum Robot, I Choose You! | 3.00% | ~1 |
 | Asso Billboard Inspector | 3.00% | ~1 |
 | Asso Stair Climber | 3.00% | ~1 |
 | My Summer Vacation with the Professor | 0.00% | ~0 |

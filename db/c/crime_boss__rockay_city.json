@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 202,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewPlayers": 102,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -3178,10 +3178,16 @@
       "Rating": 3.94,
       "NumberOfAwards": 1958,
       "NumberOfAwardsMax": 412
+    },
+    {
+      "Time": "2023-09-01T17:00:21.4707731+00:00",
+      "Rating": 3.94,
+      "NumberOfAwards": 1961,
+      "NumberOfAwardsMax": 412
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 1958,
+  "NumberOfAwards": 1961,
   "NumberOfAwardsMax": 412,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3201,7 +3207,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 371
+      "Count": 374
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3234,9 +3240,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 72539,
+  "EOS_Progressed": 72541,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 236,
+  "EOS_NewPlayers": 238,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -17049,6 +17055,11 @@
       "Time": "2023-09-01T16:02:24.8121797+00:00",
       "NumProgressed": 72539,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-09-01T17:03:13.2875658+00:00",
+      "NumProgressed": 72541,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 37,
@@ -17068,7 +17079,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 21036
+      "UsersEstimate": 21037
     },
     {
       "ID": "ACH_0012",
@@ -17076,7 +17087,7 @@
       "Name": "Roid Ranger",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 15233
+      "UsersEstimate": 15234
     },
     {
       "ID": "ACH_0013",
@@ -17204,7 +17215,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 47150
+      "UsersEstimate": 47152
     },
     {
       "ID": "ACH_0210",
@@ -17212,7 +17223,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 53679
+      "UsersEstimate": 53680
     },
     {
       "ID": "ACH_0211",
@@ -17228,7 +17239,7 @@
       "Name": "Too Old for This",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 34819
+      "UsersEstimate": 34820
     },
     {
       "ID": "ACH_0300",
@@ -17284,7 +17295,7 @@
       "Name": "King of the Hill",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 24663
+      "UsersEstimate": 24664
     },
     {
       "ID": "ACH_0430",
@@ -17292,7 +17303,7 @@
       "Name": "Fancy Pants",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 26114
+      "UsersEstimate": 26115
     },
     {
       "ID": "ACH_0431",
@@ -17308,7 +17319,7 @@
       "Name": "True Player",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 13782
+      "UsersEstimate": 13783
     },
     {
       "ID": "ACH_0450",
@@ -17355,22 +17366,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 72539,
+      "Progressed": 72541,
       "Completed": 42
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 886,
-      "Completed": 886
+      "Progressed": 888,
+      "Completed": 888
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-09-01T14:00:02.1379589+00:00",
-  "LastChanged_Achievements": "2023-09-01T16:02:24.8121791+00:00",
+  "LastChanged": "2023-09-01T17:00:21.470773+00:00",
+  "LastChanged_Achievements": "2023-09-01T17:03:13.2875654+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:33.2477495+00:00",
-  "LastUpdate_Ratings": "2023-09-01T15:59:54.3880051+00:00",
-  "LastUpdate_Achievements": "2023-09-01T16:02:24.8123685+00:00"
+  "LastUpdate_Ratings": "2023-09-01T17:00:21.4707734+00:00",
+  "LastUpdate_Achievements": "2023-09-01T17:03:13.2876629+00:00"
 }

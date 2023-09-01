@@ -2,9 +2,9 @@
   "ID": "5eb9d01d608e46a7ac42a673a27f7888",
   "Name": "Shotgun Farmers",
   "ProductSlug": "shotgun-farmers-d9f3f0",
-  "Ranking_EOS_Progress": 278,
+  "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 276,
+  "EOS_Progressed": 277,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1178,6 +1178,11 @@
       "Time": "2023-08-30T23:05:23.7224184+00:00",
       "NumProgressed": 276,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-01T17:06:04.2035965+00:00",
+      "NumProgressed": 277,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 74,
@@ -1229,15 +1234,15 @@
       "Name": "15K",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ach_first_first_blood",
       "SetID": "cmg602e",
       "Name": "First Blood",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 166
     },
     {
       "ID": "ach_first_harvest",
@@ -1245,7 +1250,7 @@
       "Name": "Seeds of War",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ach_first_rocket_jump",
@@ -1253,7 +1258,7 @@
       "Name": "I Believe I Can Fly",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ach_heal_x_points_with_health_pack",
@@ -1469,7 +1474,7 @@
       "Name": "Eggtraordinary",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ach_sniperKillNoScope",
@@ -1533,7 +1538,7 @@
       "Name": "Cornivore",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "ach_all_koth_points",
@@ -1645,7 +1650,7 @@
       "Name": "Survivor",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ach_waves_10",
@@ -1780,13 +1785,13 @@
     {
       "ID": "cmg602e",
       "IsBase": true,
-      "Progressed": 276,
+      "Progressed": 277,
       "Completed": 0
     },
     {
       "ID": "bf10c8p",
       "IsBase": false,
-      "Progressed": 226,
+      "Progressed": 227,
       "Completed": 2
     }
   ],
@@ -1794,8 +1799,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-09-01T16:05:34.1364156+00:00",
+  "LastChanged_Achievements": "2023-09-01T17:06:04.203596+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:02.2550756+00:00",
-  "LastUpdate_Ratings": "2023-09-01T15:58:08.7059205+00:00",
-  "LastUpdate_Achievements": "2023-09-01T16:05:34.1364976+00:00"
+  "LastUpdate_Ratings": "2023-09-01T16:58:22.5347216+00:00",
+  "LastUpdate_Achievements": "2023-09-01T17:06:04.2036632+00:00"
 }

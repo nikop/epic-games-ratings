@@ -1321,9 +1321,9 @@
       "ID": "ach_prestige_1",
       "SetID": "b8gh1fi",
       "Name": "Your Prestige is Rising",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 84
     },
     {
       "ID": "ach_prestige_2",
@@ -1441,9 +1441,9 @@
       "ID": "ach_retail_3",
       "SetID": "b8gh1fi",
       "Name": "Leveled Up Shops",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 70
     },
     {
       "ID": "ach_retail_4",
@@ -1594,8 +1594,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-09-01T16:08:08.547282+00:00",
+  "LastChanged_Achievements": "2023-09-01T17:08:33.4268198+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:43.0732333+00:00",
-  "LastUpdate_Ratings": "2023-09-01T15:57:44.5131897+00:00",
-  "LastUpdate_Achievements": "2023-09-01T16:08:08.5473933+00:00"
+  "LastUpdate_Ratings": "2023-09-01T16:57:57.1838348+00:00",
+  "LastUpdate_Achievements": "2023-09-01T17:08:33.4269036+00:00"
 }

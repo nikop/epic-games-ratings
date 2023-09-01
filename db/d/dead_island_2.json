@@ -4146,10 +4146,10 @@
       "Count": 334
     }
   ],
-  "EOS_Progressed": 670825,
+  "EOS_Progressed": 670866,
   "EOS_Completed": 2097,
-  "EOS_NewPlayers": 5844,
-  "EOS_NewCompleters": 33,
+  "EOS_NewPlayers": 5843,
+  "EOS_NewCompleters": 32,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -19091,6 +19091,11 @@
       "Time": "2023-09-01T16:05:07.3687364+00:00",
       "NumProgressed": 670825,
       "NumCompleted": 2097
+    },
+    {
+      "Time": "2023-09-01T17:05:34.9412607+00:00",
+      "NumProgressed": 670866,
+      "NumCompleted": 2097
     }
   ],
   "TotalAchievements": 45,
@@ -19110,7 +19115,7 @@
       "Name": "Making Your Mark",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2012
+      "UsersEstimate": 2013
     },
     {
       "ID": "ach_ammo_ran",
@@ -19212,9 +19217,9 @@
       "ID": "ach_fetch_me_a_tisha",
       "SetID": "7km39fm",
       "Name": "Can\u0027t Handle the Truth",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 3354
+      "UsersEstimate": 4025
     },
     {
       "ID": "ach_finisher",
@@ -19358,7 +19363,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2012
+      "UsersEstimate": 2013
     },
     {
       "ID": "ach_secrets_of_la",
@@ -19398,7 +19403,7 @@
       "Name": "Max Headroom",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2012
+      "UsersEstimate": 2013
     },
     {
       "ID": "ach_the_vcla",
@@ -19461,7 +19466,7 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 670825,
+      "Progressed": 670866,
       "Completed": 2097
     }
   ],
@@ -19469,8 +19474,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-01T15:58:14.3312439+00:00",
-  "LastChanged_Achievements": "2023-09-01T16:05:07.3687358+00:00",
+  "LastChanged_Achievements": "2023-09-01T17:05:34.9412603+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:11.0440218+00:00",
-  "LastUpdate_Ratings": "2023-09-01T15:58:14.3312444+00:00",
-  "LastUpdate_Achievements": "2023-09-01T16:05:07.3688536+00:00"
+  "LastUpdate_Ratings": "2023-09-01T16:58:29.1555213+00:00",
+  "LastUpdate_Achievements": "2023-09-01T17:05:34.9413592+00:00"
 }

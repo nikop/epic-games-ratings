@@ -36,7 +36,7 @@
   "Tags": [],
   "EOS_Progressed": 622,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 304,
+  "EOS_NewPlayers": 299,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -858,9 +858,9 @@
       "ID": "AC03",
       "SetID": "l4abp0",
       "Name": "Blood and Gold",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 373
+      "UsersEstimate": 379
     },
     {
       "ID": "AC04",
@@ -874,9 +874,9 @@
       "ID": "AC05",
       "SetID": "l4abp0",
       "Name": "The Sharpest Tool in the Shed",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 336
+      "UsersEstimate": 342
     },
     {
       "ID": "AC06",
@@ -906,9 +906,9 @@
       "ID": "AC09",
       "SetID": "l4abp0",
       "Name": "Fermosa Fembra",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 205
+      "UsersEstimate": 211
     },
     {
       "ID": "AC10",
@@ -938,9 +938,9 @@
       "ID": "AC13",
       "SetID": "l4abp0",
       "Name": "Second Psalm.",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 106
+      "UsersEstimate": 112
     },
     {
       "ID": "AC14",
@@ -986,9 +986,9 @@
       "ID": "AC19",
       "SetID": "l4abp0",
       "Name": "Soledad",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 211
     },
     {
       "ID": "AC20",
@@ -1002,9 +1002,9 @@
       "ID": "AC21",
       "SetID": "l4abp0",
       "Name": "No Cherub Left Behind",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 93
+      "UsersEstimate": 100
     },
     {
       "ID": "AC22",
@@ -1042,9 +1042,9 @@
       "ID": "AC26",
       "SetID": "l4abp0",
       "Name": "A Leap of Faith",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 131
+      "UsersEstimate": 137
     },
     {
       "ID": "AC27",
@@ -1178,9 +1178,9 @@
       "ID": "AC43",
       "SetID": "l4abp0",
       "Name": "The Finest Craftmanship",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 211
     },
     {
       "ID": "AC44",
@@ -1211,8 +1211,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-08-31T20:59:26.6195445+00:00",
-  "LastChanged_Achievements": "2023-09-01T16:06:48.2323719+00:00",
+  "LastChanged_Achievements": "2023-09-01T17:07:27.9926393+00:00",
   "LastUpdate_AppInfo": "2023-08-29T18:57:21.35462+00:00",
-  "LastUpdate_Ratings": "2023-09-01T16:00:40.7676886+00:00",
-  "LastUpdate_Achievements": "2023-09-01T16:06:48.2324154+00:00"
+  "LastUpdate_Ratings": "2023-09-01T17:01:10.8874189+00:00",
+  "LastUpdate_Achievements": "2023-09-01T17:07:27.9926729+00:00"
 }

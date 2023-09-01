@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 541,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 287,
+  "EOS_NewPlayers": 283,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -979,9 +979,9 @@
       "ID": "DarkestBeforeTheDawn",
       "SetID": "3ai6ml8",
       "Name": "Darkest Before the Dawn",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 100,
-      "UsersEstimate": 200
+      "UsersEstimate": 206
     },
     {
       "ID": "DrinkingOnTheJob",
@@ -1027,9 +1027,9 @@
       "ID": "OnceMoreIntoTheBreach",
       "SetID": "3ai6ml8",
       "Name": "Once more into the Breach",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 254
+      "UsersEstimate": 260
     },
     {
       "ID": "Outpatient",
@@ -1051,9 +1051,9 @@
       "ID": "SkeletonCrew",
       "SetID": "3ai6ml8",
       "Name": "Skeleton Crew",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 227
+      "UsersEstimate": 233
     },
     {
       "ID": "TerraTourGuide",
@@ -1098,8 +1098,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-09-01T16:05:12.1448128+00:00",
+  "LastChanged_Achievements": "2023-09-01T17:05:40.2662194+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:05.9137937+00:00",
-  "LastUpdate_Ratings": "2023-09-01T15:59:47.6726249+00:00",
-  "LastUpdate_Achievements": "2023-09-01T16:05:12.1448368+00:00"
+  "LastUpdate_Ratings": "2023-09-01T17:00:14.142876+00:00",
+  "LastUpdate_Achievements": "2023-09-01T17:05:40.2662357+00:00"
 }

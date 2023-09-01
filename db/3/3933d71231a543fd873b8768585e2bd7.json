@@ -4,7 +4,7 @@
   "ProductSlug": "masterplan-tycoon-379d81",
   "Ranking_EOS_Progress": 479,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-09-01T08:00:00+00:00",
@@ -78,9 +78,9 @@
       "ID": "achievements.completemission.master.01",
       "SetID": "1kd1942",
       "Name": "Another Brick in the Node",
-      "Percentage": 60,
+      "Percentage": 80,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievements.completemission.master.02",
@@ -110,9 +110,9 @@
       "ID": "achievements.firstchain",
       "SetID": "1kd1942",
       "Name": "ForestTreePlank",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "achievements.firstexpedition",
@@ -188,8 +188,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-01T09:03:14.0251978+00:00",
-  "LastChanged_Achievements": "2023-09-01T16:02:25.9698209+00:00",
+  "LastChanged_Achievements": "2023-09-01T17:03:14.9178036+00:00",
   "LastUpdate_AppInfo": "2023-09-01T08:57:12.467565+00:00",
-  "LastUpdate_Ratings": "2023-09-01T15:57:18.4797823+00:00",
-  "LastUpdate_Achievements": "2023-09-01T16:02:25.9698352+00:00"
+  "LastUpdate_Ratings": "2023-09-01T16:57:28.3495662+00:00",
+  "LastUpdate_Achievements": "2023-09-01T17:03:14.9178145+00:00"
 }

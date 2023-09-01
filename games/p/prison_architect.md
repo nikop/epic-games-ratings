@@ -6,16 +6,16 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 26.00% | ~44,313 |
-| Get Busy Living | 16.00% | ~27,270 |
-| Samuel Norton | 9.00% | ~15,339 |
-| Spare The Rod | 5.00% | ~8,522 |
-| Don't Put Me In The Dark | 3.00% | ~5,113 |
-| Wait and Hope | 3.00% | ~5,113 |
-| I May Have Found A Way Out Of Here | 3.00% | ~5,113 |
+| Stone Walls | 26.00% | ~44,318 |
+| Get Busy Living | 16.00% | ~27,273 |
+| Samuel Norton | 9.00% | ~15,341 |
+| Spare The Rod | 5.00% | ~8,523 |
+| Don't Put Me In The Dark | 3.00% | ~5,114 |
+| Wait and Hope | 3.00% | ~5,114 |
+| I May Have Found A Way Out Of Here | 3.00% | ~5,114 |
 | Throw The Book At Them | 2.00% | ~3,409 |
 | Iron Bars | 2.00% | ~3,409 |
-| D.B. Cooper | 1.00% | ~1,704 |
+| D.B. Cooper | 1.00% | ~1,705 |
 | Reformation | 0.60% | ~1,023 |
 | Crowd Control | 0.50% | ~852 |
 | Freedom | 0.40% | ~682 |
@@ -23,7 +23,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~170 |
 | ... It's What You Can Prove | 0.10% | ~170 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 170,436 (Ranked 64)  
+Progressed: 170,455 (Ranked 64)  
 Completed: 7 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,10 +157,10 @@ Completed: 7 (0.00%) (Ranked 271)
 | 2023-08-29 | 169,552 | 7 |
 | 2023-08-30 | 169,903 | 7 |
 | 2023-08-31 | 170,225 | 7 |
-| 2023-09-01 | 170,436 | 7 |
+| 2023-09-01 | 170,455 | 7 |
 ## Awards
 Max (Extremely Fun): 491  (Ranked 200)  
-Sum: 3,808 (Ranked 146)  
+Sum: 3,809 (Ranked 146)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
@@ -169,7 +169,7 @@ Diff (max vs sum): 54
 | This game is Highly Recommended | 461 |
 | This game has Quickly Understood Controls | 452 |
 | This game is Relaxing | 440 |
-| This game has Diverse Characters | 415 |
+| This game has Diverse Characters | 416 |
 | This game has Amazing Storytelling | 406 |
 | This game is Educational | 381 |
 | This game has Amazing Characters | 376 |
@@ -399,4 +399,4 @@ Diff (max vs sum): 54
 | 2023-08-29 | 4.61 | - | 489 | 3,789 |
 | 2023-08-30 | 4.61 | - | 489 | 3,798 |
 | 2023-08-31 | 4.61 | - | 490 | 3,802 |
-| 2023-09-01 | 4.61 | - | 491 | 3,808 |
+| 2023-09-01 | 4.61 | - | 491 | 3,809 |

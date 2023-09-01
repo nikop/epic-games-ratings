@@ -6,9 +6,9 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~21,920 |
-| Thorough | 10.00% | ~19,927 |
-| A thief's beginning | 9.00% | ~17,934 |
+| Genin | 11.00% | ~21,921 |
+| Thorough | 10.00% | ~19,928 |
+| A thief's beginning | 9.00% | ~17,935 |
 | Disguised | 8.00% | ~15,942 |
 | Rescue Takuma | 8.00% | ~15,942 |
 | Rollin' | 8.00% | ~15,942 |
@@ -17,10 +17,10 @@ Number of Ratings: 495  (23.09.2022)
 | Jonin | 7.00% | ~13,949 |
 | Stoned Ox | 7.00% | ~13,949 |
 | Yabu | 7.00% | ~13,949 |
-| Chunin | 6.00% | ~11,956 |
-| Flying Rocks | 6.00% | ~11,956 |
-| Happy Planning | 6.00% | ~11,956 |
-| Mugen Unchained | 6.00% | ~11,956 |
+| Chunin | 6.00% | ~11,957 |
+| Flying Rocks | 6.00% | ~11,957 |
+| Happy Planning | 6.00% | ~11,957 |
+| Mugen Unchained | 6.00% | ~11,957 |
 | Okkoto | 5.00% | ~9,964 |
 | Too Early | 5.00% | ~9,964 |
 | Warzone | 5.00% | ~9,964 |
@@ -31,15 +31,15 @@ Number of Ratings: 495  (23.09.2022)
 | Noboru | 3.00% | ~5,978 |
 | Stoned | 3.00% | ~5,978 |
 | The Old Way | 3.00% | ~5,978 |
-| Atheist Ox | 2.00% | ~3,985 |
-| It's raining men | 2.00% | ~3,985 |
-| Old Man | 2.00% | ~3,985 |
-| Winner Winner | 2.00% | ~3,985 |
+| Atheist Ox | 2.00% | ~3,986 |
+| It's raining men | 2.00% | ~3,986 |
+| Old Man | 2.00% | ~3,986 |
+| Winner Winner | 2.00% | ~3,986 |
 | Meticulous | 1.00% | ~1,993 |
 | No Gimmicks | 1.00% | ~1,993 |
 | The End | 1.00% | ~1,993 |
 | Undeserved Honor | 1.00% | ~1,993 |
-| When Cut Across the Neck | 0.90% | ~1,793 |
+| When Cut Across the Neck | 0.90% | ~1,794 |
 | High Five the Moon | 0.80% | ~1,594 |
 | The Cave | 0.70% | ~1,395 |
 | Merciful | 0.50% | ~996 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~199 |
 | Release the Kraken | 0.10% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 199,270 (Ranked 61)  
+Progressed: 199,278 (Ranked 61)  
 Completed: 74 (0.04%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 74 (0.04%) (Ranked 240)
 | 2023-08-29 | 198,622 | 73 |
 | 2023-08-30 | 198,879 | 74 |
 | 2023-08-31 | 199,111 | 74 |
-| 2023-09-01 | 199,270 | 74 |
+| 2023-09-01 | 199,278 | 74 |
 ## Awards
 Max (Great for Beginners): 562  (Ranked 190)  
 Sum: 4,739 (Ranked 135)  

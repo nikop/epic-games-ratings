@@ -6,7 +6,7 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~21,948 |
+| Wallbanger | 5.00% | ~21,949 |
 | Exploitative | 4.00% | ~17,559 |
 | Point Shooting | 4.00% | ~17,559 |
 | Wet Feet | 4.00% | ~17,559 |
@@ -14,12 +14,12 @@ Number of Ratings: 1,316  (23.09.2022)
 | Lucky | 3.00% | ~13,169 |
 | Stylin' | 3.00% | ~13,169 |
 | Turf War | 3.00% | ~13,169 |
-| Banged | 2.00% | ~8,779 |
-| Checkpoint Victory | 2.00% | ~8,779 |
-| First Blood | 2.00% | ~8,779 |
-| Flaccid Paralysis | 2.00% | ~8,779 |
-| Push Victory | 2.00% | ~8,779 |
-| Self-destructive | 2.00% | ~8,779 |
+| Banged | 2.00% | ~8,780 |
+| Checkpoint Victory | 2.00% | ~8,780 |
+| First Blood | 2.00% | ~8,780 |
+| Flaccid Paralysis | 2.00% | ~8,780 |
+| Push Victory | 2.00% | ~8,780 |
+| Self-destructive | 2.00% | ~8,780 |
 | Blindfire | 1.00% | ~4,390 |
 | Ruthless | 1.00% | ~4,390 |
 | Semper Paratus | 1.00% | ~4,390 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~439 |
 | Road Hazard | 0.10% | ~439 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 438,965 (Ranked 38)  
+Progressed: 438,978 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,14 +176,14 @@ Completed: 2 (0.00%) (Ranked 271)
 | 2023-08-29 | 438,134 | 2 |
 | 2023-08-30 | 438,458 | 2 |
 | 2023-08-31 | 438,774 | 2 |
-| 2023-09-01 | 438,965 | 2 |
+| 2023-09-01 | 438,978 | 2 |
 ## Awards
-Max (Quickly Understood Controls): 377  (Ranked 223)  
-Sum: 2,940 (Ranked 167)  
+Max (Quickly Understood Controls): 378  (Ranked 223)  
+Sum: 2,941 (Ranked 167)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
-| This game has Quickly Understood Controls | 377 |
+| This game has Quickly Understood Controls | 378 |
 | This game has Challenging Combat | 355 |
 | This game is Extremely Fun | 344 |
 | This game has Competitive Players | 342 |
@@ -418,4 +418,4 @@ Diff (max vs sum): 56
 | 2023-08-29 | 4.62 | - | 377 | 2,936 |
 | 2023-08-30 | 4.62 | - | 377 | 2,937 |
 | 2023-08-31 | 4.62 | - | 377 | 2,938 |
-| 2023-09-01 | 4.62 | - | 377 | 2,940 |
+| 2023-09-01 | 4.62 | - | 378 | 2,941 |

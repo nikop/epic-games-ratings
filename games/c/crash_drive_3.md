@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Brace for impact! | 32.00% | ~120 |
+| Brace for impact! | 31.00% | ~116 |
 | Baby's First Car | 30.00% | ~112 |
 | Pushover | 30.00% | ~112 |
-| Amateur Mechanic | 29.00% | ~108 |
-| A Forest Walk | 29.00% | ~108 |
+| Amateur Mechanic | 29.00% | ~109 |
+| A Forest Walk | 29.00% | ~109 |
 | C-C-C-Combo! | 27.00% | ~101 |
 | Multiply that! | 27.00% | ~101 |
 | Fore! | 24.00% | ~90 |
-| The Collector | 24.00% | ~90 |
 | Insurance fraud | 24.00% | ~90 |
-| The Wild West | 24.00% | ~90 |
 | Snow Fun! | 24.00% | ~90 |
-| You're it | 24.00% | ~90 |
+| The Collector | 23.00% | ~86 |
 | To and Fro | 23.00% | ~86 |
+| The Wild West | 23.00% | ~86 |
 | Bag of Tricks | 23.00% | ~86 |
 | I see the light! | 23.00% | ~86 |
 | In the Bag! | 23.00% | ~86 |
+| You're it | 23.00% | ~86 |
 | First Come, First Serve | 22.00% | ~82 |
 | Take that Frosty! | 22.00% | ~82 |
 | Goodbye cruel world | 22.00% | ~82 |
@@ -29,21 +29,21 @@
 | Anger Issues | 21.00% | ~79 |
 | Your Highness | 21.00% | ~79 |
 | Beach Party! | 21.00% | ~79 |
-| Event Amateur | 20.00% | ~75 |
-| Feeling Dizzy? | 18.00% | ~67 |
+| Event Amateur | 19.00% | ~71 |
+| Feeling Dizzy? | 18.00% | ~68 |
 | Drift King! | 17.00% | ~64 |
 | Feeling Hot Hot Hot! | 17.00% | ~64 |
 | Ferry Good! | 17.00% | ~64 |
 | Assert Dominance | 17.00% | ~64 |
 | Speed of light | 17.00% | ~64 |
-| Out of this League | 14.00% | ~52 |
+| Out of this League | 14.00% | ~53 |
 | Special Forces | 13.00% | ~49 |
 | Toot Toot! | 13.00% | ~49 |
 | Rocketman | 12.00% | ~45 |
 | Blasting away! | 12.00% | ~45 |
 | High Roller | 11.00% | ~41 |
 | Earth Defense Force | 11.00% | ~41 |
-| Event Pro | 10.00% | ~37 |
+| Event Pro | 10.00% | ~38 |
 | Space Crash | 7.00% | ~26 |
 | To war! | 7.00% | ~26 |
 | Hoarder | 6.00% | ~22 |
@@ -54,13 +54,13 @@
 | My Precious | 3.00% | ~11 |
 | Apprentice Mechanic | 3.00% | ~11 |
 | One Million Dollars! | 3.00% | ~11 |
-| Monkey Madness | 2.00% | ~7 |
-| M2H was Here! | 2.00% | ~7 |
+| Monkey Madness | 2.00% | ~8 |
+| M2H was Here! | 2.00% | ~8 |
 | Ultimate Car Collector | 1.00% | ~4 |
 | Master Mechanic | 1.00% | ~4 |
 | Crashed and Driven | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 374 (Ranked 258)  
+Progressed: 375 (Ranked 258)  
 Completed: 2 (0.53%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,6 +123,7 @@ Completed: 2 (0.53%) (Ranked 150)
 | 2023-08-25 | 371 | 2 |
 | 2023-08-26 | 372 | 2 |
 | 2023-08-31 | 374 | 2 |
+| 2023-09-01 | 375 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

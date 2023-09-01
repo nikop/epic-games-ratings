@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1256,10 +1256,10 @@
       "Count": 67
     }
   ],
-  "EOS_Progressed": 5601,
+  "EOS_Progressed": 5602,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 125,
-  "EOS_NewCompleters": 2,
+  "EOS_NewPlayers": 126,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
     {
@@ -8601,6 +8601,11 @@
       "Time": "2023-09-01T16:07:37.9024891+00:00",
       "NumProgressed": 5601,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-09-01T17:08:22.0651404+00:00",
+      "NumProgressed": 5602,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 31,
@@ -8620,7 +8625,7 @@
       "Name": "Beam Me Up",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 2800
+      "UsersEstimate": 2801
     },
     {
       "ID": "DISMANTLE_ITEMS_5",
@@ -8724,7 +8729,7 @@
       "Name": "Retribution",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 2296
+      "UsersEstimate": 2297
     },
     {
       "ID": "PRODUCE_AT_CAMPFIRE",
@@ -8740,7 +8745,7 @@
       "Name": "Feast or Famine",
       "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 2632
+      "UsersEstimate": 2633
     },
     {
       "ID": "STORE_NUTRITION_20000",
@@ -8748,7 +8753,7 @@
       "Name": "Fit For A King",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 2016
+      "UsersEstimate": 2017
     },
     {
       "ID": "STORE_NUTRITION_5000",
@@ -8764,7 +8769,7 @@
       "Name": "Winter Is Coming",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1456
+      "UsersEstimate": 1457
     },
     {
       "ID": "SURVIVE_FIRST_DAY",
@@ -8780,7 +8785,7 @@
       "Name": "...And Don\u2019t Come Back!",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2240
+      "UsersEstimate": 2241
     },
     {
       "ID": "SURVIVE_FIRST_SUMMER",
@@ -8788,7 +8793,7 @@
       "Name": "Heating Up",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1624
+      "UsersEstimate": 1625
     },
     {
       "ID": "SURVIVE_FIRST_WINTER",
@@ -8828,7 +8833,7 @@
       "Name": "Adept Researcher",
       "Percentage": 44,
       "XP": 75,
-      "UsersEstimate": 2464
+      "UsersEstimate": 2465
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -8836,7 +8841,7 @@
       "Name": "Luminary Researcher",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 1792
+      "UsersEstimate": 1793
     },
     {
       "ID": "UNLOCK_RESEARCH_3",
@@ -8859,15 +8864,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 5601,
+      "Progressed": 5602,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-09-01T14:58:51.6068086+00:00",
-  "LastChanged_Achievements": "2023-09-01T16:07:37.9024886+00:00",
+  "LastChanged_Achievements": "2023-09-01T17:08:22.06514+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:12.2448584+00:00",
-  "LastUpdate_Ratings": "2023-09-01T15:59:35.5624746+00:00",
-  "LastUpdate_Achievements": "2023-09-01T16:07:37.9025627+00:00"
+  "LastUpdate_Ratings": "2023-09-01T17:00:00.250567+00:00",
+  "LastUpdate_Achievements": "2023-09-01T17:08:22.0651923+00:00"
 }

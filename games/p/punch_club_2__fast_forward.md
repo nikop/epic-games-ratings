@@ -16,15 +16,15 @@
 | Employee of the week | 76.00% | ~228 |
 | Your own amateur gym | 74.00% | ~222 |
 | First defeat | 73.00% | ~219 |
-| Run K, run! | 71.00% | ~213 |
+| Run K, run! | 72.00% | ~216 |
 | Hello, world! | 69.00% | ~207 |
 | Fighting is cool | 68.00% | ~204 |
 | No bullying more | 67.00% | ~201 |
-| Pal of your father? | 65.00% | ~195 |
+| Pal of your father? | 66.00% | ~198 |
 | Employee of the month | 64.00% | ~192 |
 | Spirit of the past | 63.00% | ~189 |
 | Law student | 61.00% | ~183 |
-| Workout professional | 59.00% | ~177 |
+| Workout professional | 60.00% | ~180 |
 | Little hacker | 58.00% | ~174 |
 | Champion – starter pack | 58.00% | ~174 |
 | It's good to be alive | 58.00% | ~174 |
@@ -33,10 +33,10 @@
 | Fight for life | 57.00% | ~171 |
 | Handyman | 57.00% | ~171 |
 | Own four walls | 57.00% | ~171 |
+| Extreme neuropower! | 54.00% | ~162 |
 | Legal courier | 53.00% | ~159 |
-| Extreme neuropower! | 53.00% | ~159 |
 | Escaped from a big trouble | 50.00% | ~150 |
-| Now you are worthy | 48.00% | ~144 |
+| Now you are worthy | 49.00% | ~147 |
 | Guiding on the right path | 45.00% | ~135 |
 | Fight is life | 44.00% | ~132 |
 | Mysterious voice | 44.00% | ~132 |
@@ -57,6 +57,7 @@
 | Undercover robot | 33.00% | ~99 |
 | Not little hacker | 31.00% | ~93 |
 | Absolute Champion! | 31.00% | ~93 |
+| Careerist | 31.00% | ~93 |
 | Anyone can resist | 31.00% | ~93 |
 | Trap disarmed | 30.00% | ~90 |
 | Another world | 30.00% | ~90 |
@@ -65,7 +66,6 @@
 | Family comes first | 30.00% | ~90 |
 | Key memories | 30.00% | ~90 |
 | The last bell ring | 30.00% | ~90 |
-| Careerist | 30.00% | ~90 |
 | The heart of the Resistance | 30.00% | ~90 |
 | Silver’s past | 27.00% | ~81 |
 | Better cooking at home | 27.00% | ~81 |

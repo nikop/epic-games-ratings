@@ -4,7 +4,7 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 374,
+  "EOS_Progressed": 375,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -431,6 +431,11 @@
       "Time": "2023-08-31T16:08:15.4192432+00:00",
       "NumProgressed": 374,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-01T17:08:50.4224801+00:00",
+      "NumProgressed": 375,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -440,9 +445,9 @@
       "ID": "AIRTIME_6_SEC",
       "SetID": "20koof9",
       "Name": "Brace for impact!",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 116
     },
     {
       "ID": "ALL_ACHIEVEMENTS",
@@ -472,9 +477,9 @@
       "ID": "COIN_COLLECT",
       "SetID": "20koof9",
       "Name": "The Collector",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 86
     },
     {
       "ID": "COLLECT_1_CAR",
@@ -522,7 +527,7 @@
       "Name": "Monkey Madness",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "DRIFT_500M",
@@ -538,7 +543,7 @@
       "Name": "M2H was Here!",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "FIND_ALL_GAPS",
@@ -594,7 +599,7 @@
       "Name": "Amateur Mechanic",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "HIGHEST_ASTEROID",
@@ -696,9 +701,9 @@
       "ID": "LOADED_LVL_DESERT",
       "SetID": "20koof9",
       "Name": "The Wild West",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 90
+      "UsersEstimate": 86
     },
     {
       "ID": "LOADED_LVL_FOREST",
@@ -706,7 +711,7 @@
       "Name": "A Forest Walk",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "LOADED_LVL_SNOW",
@@ -754,7 +759,7 @@
       "Name": "Feeling Dizzy?",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "STUNT_EVENT",
@@ -770,7 +775,7 @@
       "Name": "Out of this League",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "TAGGED_25_OBJECTS",
@@ -816,9 +821,9 @@
       "ID": "WIN_10_EVENTS",
       "SetID": "20koof9",
       "Name": "Event Amateur",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 71
     },
     {
       "ID": "WIN_50_EVENTS",
@@ -826,7 +831,7 @@
       "Name": "Event Pro",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "WIN_BALL",
@@ -864,9 +869,9 @@
       "ID": "WIN_TAG_EVENT",
       "SetID": "20koof9",
       "Name": "You\u0027re it",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 86
     },
     {
       "ID": "WIN_TANK_BATTLES",
@@ -881,7 +886,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 374,
+      "Progressed": 375,
       "Completed": 2
     }
   ],
@@ -889,8 +894,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-09-01T16:08:23.9604349+00:00",
+  "LastChanged_Achievements": "2023-09-01T17:08:50.4224797+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:40.319165+00:00",
-  "LastUpdate_Ratings": "2023-09-01T15:58:34.6193018+00:00",
-  "LastUpdate_Achievements": "2023-09-01T16:08:23.9604877+00:00"
+  "LastUpdate_Ratings": "2023-09-01T16:58:51.236879+00:00",
+  "LastUpdate_Achievements": "2023-09-01T17:08:50.4225207+00:00"
 }

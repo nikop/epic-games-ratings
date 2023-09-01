@@ -13,7 +13,7 @@ Rating: 4.60 (Ranked 393)
 | One way ticket | 84.00% | ~4,226 |
 | Last man standing | 79.00% | ~3,974 |
 | Family guy | 77.00% | ~3,874 |
-| Out of the Bag | 74.00% | ~3,723 |
+| Out of the Bag | 75.00% | ~3,773 |
 | The Dark Side | 69.00% | ~3,471 |
 | Duck and cover! | 65.00% | ~3,270 |
 | Souper! | 64.00% | ~3,220 |
@@ -66,7 +66,7 @@ Rating: 4.60 (Ranked 393)
 | Tora! Tora! Tora! | 0.20% | ~10 |
 | Dead Hand | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,031 (Ranked 146)  
+Progressed: 5,031 (Ranked 147)  
 Completed: 1 (0.02%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
