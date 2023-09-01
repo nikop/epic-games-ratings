@@ -2,9 +2,9 @@
 | - | ---- | ------ | ------ | -------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 1,635,211 | 4.29 | 802 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 516,610 | 4.49 | 581 |
-| 3 | [Genshin Impact](games/g/genshin_impact.md) | 304,471 | 4.68 | 240 |
+| 3 | [Genshin Impact](games/g/genshin_impact.md) | 304,569 | 4.68 | 240 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 219,333 | 4.68 | 240 |
-| 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 197,264 | 4.19 | 873 |
+| 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 197,495 | 4.19 | 873 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 171,821 | 4.88 | 19 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 147,295 | 4.52 | 531 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 115,481 | 4.69 | 218 |
@@ -74,7 +74,7 @@
 | 72 | [Chivalry 2](games/c/chivalry_2.md) | 4,558 | 4.60 | 393 |
 | 73 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,510 | 4.70 | 198 |
 | 74 | [Bloons TD 6](games/b/bloons_td_6.md) | 4,456 | 4.77 | 109 |
-| 75 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4,441 | 4.76 | 116 |
+| 75 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4,448 | 4.76 | 116 |
 | 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,384 | 4.55 | 489 |
 | 77 | [God of War](games/g/god_of_war.md) | 4,231 | 4.88 | 19 |
 | 78 | [SMITE](games/s/smite.md) | 4,220 | 4.44 | 650 |
@@ -86,7 +86,7 @@
 | 84 | [League of Legends](games/l/league_of_legends.md) | 3,631 | 4.21 | 859 |
 | 85 | [Paladins](games/p/paladins.md) | 3,570 | 4.34 | 764 |
 | 86 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,514 | 4.46 | 625 |
-| 87 | [Gloomhaven](games/g/gloomhaven.md) | 3,508 | 4.47 | 614 |
+| 87 | [Gloomhaven](games/g/gloomhaven.md) | 3,511 | 4.47 | 614 |
 | 88 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,433 | 4.68 | 240 |
 | 89 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,342 | 4.68 | 240 |
 | 90 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,316 | 4.76 | 116 |

@@ -119,7 +119,7 @@
 | 116 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.76 | 0 | 515 |
 | 116 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,316 | 90 |
 | 116 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 939 | 148 |
-| 116 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,441 | 75 |
+| 116 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,448 | 75 |
 | 116 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 515 |
 | 116 | [Outlast](games/o/outlast.md) | 4.76 | 0 | 515 |
 | 116 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,704 | 118 |
@@ -248,7 +248,7 @@
 | 240 | [DOOM II](games/d/doom_ii.md) | 4.68 | 26 | 478 |
 | 240 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,880 | 58 |
 | 240 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 3,792 | 82 |
-| 240 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 304,471 | 3 |
+| 240 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 304,569 | 3 |
 | 240 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 219,333 | 4 |
 | 240 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 515 |
 | 240 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 562 | 190 |
@@ -615,7 +615,7 @@
 | 599 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.48 | 36 | 433 |
 | 614 | [ATOM RPG](games/a/atom_rpg.md) | 4.47 | 49 | 406 |
 | 614 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.47 | 0 | 515 |
-| 614 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,508 | 87 |
+| 614 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,511 | 87 |
 | 614 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.47 | 0 | 515 |
 | 614 | [Railway Empire 2](games/r/railway_empire_2.md) | 4.47 | 0 | 515 |
 | 614 | [Riverbond](games/r/riverbond.md) | 4.47 | 0 | 515 |
@@ -874,7 +874,7 @@
 | 865 | [Somerville](games/s/somerville.md) | 4.20 | 0 | 515 |
 | 873 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 404 |
 | 873 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 33 | 449 |
-| 873 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 197,264 | 5 |
+| 873 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 197,495 | 5 |
 | 873 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 515 |
 | 873 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 0 | 515 |
 | 873 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 73 | 374 |

@@ -38,10 +38,10 @@
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.73% |
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
 | 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.15% |
-| 39 | [Scorn](games/s/scorn.md) | 6.99% |
-| 40 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.90% |
-| 41 | [Time Loader](games/t/time_loader.md) | 6.78% |
-| 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.76% |
+| 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.00% |
+| 40 | [Scorn](games/s/scorn.md) | 6.99% |
+| 41 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.90% |
+| 42 | [Time Loader](games/t/time_loader.md) | 6.78% |
 | 43 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 44 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 6.25% |
 | 44 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -155,11 +155,11 @@
 | 153 | [Aragami 2](games/a/aragami_2.md) | 0.51% |
 | 154 | [Godlike Burger](games/g/godlike_burger.md) | 0.48% |
 | 154 | [Them and Us](games/t/them_and_us.md) | 0.48% |
-| 156 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
-| 157 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.46% |
-| 157 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.46% |
-| 159 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.45% |
-| 159 | [Train Valley](games/t/train_valley.md) | 0.45% |
+| 156 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
+| 156 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.46% |
+| 156 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.46% |
+| 156 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.46% |
+| 160 | [Train Valley](games/t/train_valley.md) | 0.45% |
 | 161 | [Tails of Iron](games/t/tails_of_iron.md) | 0.43% |
 | 161 | [Tchia](games/t/tchia.md) | 0.43% |
 | 163 | [Ghostrunner](games/g/ghostrunner.md) | 0.40% |
@@ -569,4 +569,4 @@
 | 271 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 271 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 271 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,157 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,159 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
