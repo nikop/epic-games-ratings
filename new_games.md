@@ -1,6 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Masterplan Tycoon](games/3/3933d71231a543fd873b8768585e2bd7.md) | 2023-09-01 | 16 (1,000 XP) | 1 | - | - |
+| [Masterplan Tycoon](games/3/3933d71231a543fd873b8768585e2bd7.md) | 2023-09-01 | 16 (1,000 XP) | 3 | - | - |
 | [Arena Renovation](games/a/a475e165d6c6476d9417458bc53cd71b.md) | 2023-09-01 | - |  | - | - |
 | [Creatura](games/1/1c0a8b3f4f0b4899ac5a8231dc7f4621.md) | 2023-09-01 | - |  | - | - |
 | [Split](games/3/352f45e3b1c345a6b693997044461f79.md) | 2023-09-01 | - |  | - | - |
@@ -50,7 +50,7 @@
 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 2023-08-24 | 46 (1,000 XP) | 619 | 4.83 | 0 |
 | [Live In The Country](games/7/7247d3e923ac4d04a7d8f4435e240302.md) | 2023-08-24 | - |  | - | - |
 | [GINSHA](games/f/f63608bdb9234e0cbfb6d7f81e96d33c.md) | 2023-08-24 | 23 (1,000 XP) | 4 | - | - |
-| [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 2023-08-24 | 48 (1,440 XP) | 250,087 | 4.41 | 0 |
+| [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 2023-08-24 | 48 (1,440 XP) | 250,314 | 4.41 | 0 |
 | [Little Brother Jim](games/e/e0ae558efb3d42f9bd62184665286d3b.md) | 2023-08-24 | 5 (1,000 XP) | 0 | - | - |
 | [Duel Princess](games/6/6ebe4c6dff6d4d0a9c231fd40480d97f.md) | 2023-08-24 | - |  | - | 0 |
 | [RIDE 5](games/r/ride_5.md) | 2023-08-24 | - |  | - | 0 |
@@ -115,13 +115,13 @@
 | [Senile Wizards](games/d/d5e454695400407ea77e0fc351f09d10.md) | 2023-08-05 | - |  | - | 0 |
 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 2023-08-04 | 26 (1,000 XP) | 268 | - | 0 |
 | [Mixing Ammos](games/2/23047faee0134ed3bb4c8d71857c567b.md) | 2023-08-04 | - |  | - | - |
-| [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 2023-08-04 | 20 (1,000 XP) | 122 | - | 0 |
+| [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 2023-08-04 | 20 (1,000 XP) | 123 | - | 0 |
 | [Lifespace Traveler](games/7/77631a5827eb4a8ea16cf1ded0b24131.md) | 2023-08-03 | 13 (1,000 XP) | 1 | - | 0 |
 | [Neon Noodles - Cyberpunk Kitchen Automation](games/e/e43864d9ce5b4ac3927a289c6d977650.md) | 2023-08-03 | 19 (1,000 XP) | 1 | - | 0 |
 | [Prince of Persia: The Forgotten Sands STANDARD EDITION](games/d/db75e4104b3343eda2e6530e7bb03cd9.md) | 2023-08-03 | - |  | - | 0 |
 | [Towerful](games/5/5b453822aeeb42a2a7472eeaadda459a.md) | 2023-08-03 | - |  | - | 0 |
 | [Traffic Brains 2](games/f/f6a9fcbf437b48b59cf3d54a75c20932.md) | 2023-08-03 | - |  | - | 0 |
-| [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 2023-08-03 | 17 (1,000 XP) | 68,248 | 4.22 | 0 |
+| [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 2023-08-03 | 17 (1,000 XP) | 68,274 | 4.22 | 0 |
 | [Estar Fiel](games/a/a3495aaa160141de8520582a9ca5c7f4.md) | 2023-08-02 | - |  | - | - |
 | [Forest Fire](games/6/6a249c368e9a4ad99bbdfe23997f26ba.md) | 2023-08-02 | 34 (1,000 XP) | 24 | - | - |
 | [Paquerette Down the Bunburrows](games/3/3c8f3297965d4326b0b16a6aeb968b5d.md) | 2023-08-02 | 60 (1,000 XP) | 1 | - | - |
@@ -129,4 +129,3 @@
 | [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 2023-08-02 | 51 (1,000 XP) | 60 | - | 0 |
 | [Oceanhorn 2 - Knights of the Lost Realm](games/e/ec8ec4b13e6043cab8d1cbd0edda9a70.md) | 2023-08-02 | - |  | - | 0 |
 | [Virus Infinite](games/0/0f0415b3318747949c6d444dc2edd27d.md) | 2023-08-02 | - |  | - | - |
-| [canVERSE](games/c/canverse.md) | 2023-08-02 | - |  | - | 0 |

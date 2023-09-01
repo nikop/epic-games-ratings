@@ -3,7 +3,7 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.75% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.31% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 36.07% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 35.77% |
 | 5 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 33.33% |
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.95% |
 | 7 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
@@ -37,7 +37,7 @@
 | 35 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.61% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.73% |
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
-| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.10% |
+| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.09% |
 | 39 | [Scorn](games/s/scorn.md) | 6.99% |
 | 40 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.90% |
 | 41 | [Time Loader](games/t/time_loader.md) | 6.78% |
@@ -49,8 +49,8 @@
 | 47 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.88% |
 | 48 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.35% |
 | 49 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.33% |
-| 50 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.26% |
-| 51 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.17% |
+| 50 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.17% |
+| 50 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.17% |
 | 52 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.06% |
 | 53 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.79% |
 | 54 | [Bugsnax](games/b/bugsnax.md) | 4.75% |
@@ -117,9 +117,9 @@
 | 115 | [Infindustry](games/i/infindustry.md) | 1.23% |
 | 116 | [Chorus](games/c/chorus.md) | 1.12% |
 | 117 | [Trifox](games/t/trifox.md) | 1.10% |
-| 118 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 1.08% |
-| 119 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.06% |
-| 120 | [A Musical Story](games/a/a_musical_story.md) | 1.04% |
+| 118 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.06% |
+| 119 | [A Musical Story](games/a/a_musical_story.md) | 1.04% |
+| 119 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 1.04% |
 | 121 | [Adios](games/a/adios.md) | 1.03% |
 | 121 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.03% |
 | 123 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.01% |
@@ -162,9 +162,9 @@
 | 159 | [Train Valley](games/t/train_valley.md) | 0.45% |
 | 161 | [Tails of Iron](games/t/tails_of_iron.md) | 0.43% |
 | 161 | [Tchia](games/t/tchia.md) | 0.43% |
-| 163 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.41% |
-| 164 | [Ghostrunner](games/g/ghostrunner.md) | 0.40% |
-| 164 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
+| 163 | [Ghostrunner](games/g/ghostrunner.md) | 0.40% |
+| 163 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.40% |
+| 163 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 166 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.37% |
 | 166 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.37% |
 | 166 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
@@ -245,17 +245,17 @@
 | 239 | [Old World](games/o/old_world.md) | 0.04% |
 | 239 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.04% |
 | 239 | [Tropico 6](games/t/tropico_6.md) | 0.04% |
-| 246 | [Black Book](games/b/black_book.md) | 0.03% |
 | 246 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.03% |
 | 246 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
 | 246 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.03% |
-| 250 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.02% |
-| 250 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
-| 250 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 0.02% |
-| 250 | [Good Company](games/g/good_company.md) | 0.02% |
-| 250 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
-| 250 | [Saturnalia](games/s/saturnalia.md) | 0.02% |
-| 250 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
+| 249 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.02% |
+| 249 | [Black Book](games/b/black_book.md) | 0.02% |
+| 249 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
+| 249 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 0.02% |
+| 249 | [Good Company](games/g/good_company.md) | 0.02% |
+| 249 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
+| 249 | [Saturnalia](games/s/saturnalia.md) | 0.02% |
+| 249 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
 | 257 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
 | 257 | [Deceive Inc.](games/d/deceive_inc..md) | 0.01% |
 | 257 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 0.01% |
