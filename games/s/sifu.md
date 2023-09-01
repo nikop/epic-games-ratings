@@ -41,9 +41,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Iron Money | 0.70% | ~4,990 |
 | Legendary Talismans of Wuxing | 0.70% | ~4,990 |
 | The 36th Chamber of Kung-Fu | 0.70% | ~4,990 |
+| Sword Stained With Blood | 0.70% | ~4,990 |
 | A Touch of Acumen | 0.70% | ~155 |
 | Prodigal Child | 0.60% | ~4,277 |
-| Sword Stained With Blood | 0.60% | ~4,277 |
 | Martial Hub | 0.50% | ~111 |
 | Secure, Protect, Leave | 0.50% | ~111 |
 | Drunken Fighter | 0.40% | ~2,851 |
@@ -51,13 +51,13 @@ Number of Ratings: 9,492  (23.09.2022)
 | Knowledge Greed | 0.40% | ~2,851 |
 | Master of the Phoenix Eye Fist | 0.40% | ~2,851 |
 | The Pit Protector | 0.40% | ~2,851 |
+| Be like water my friend | 0.40% | ~2,851 |
 | Come Snap With Me | 0.40% | ~2,851 |
 | Healing Memory | 0.30% | ~2,139 |
-| Be like water my friend | 0.30% | ~2,139 |
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,426 |
 | Warriors from the Mountain | 0.10% | ~713 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,864 (Ranked 20)  
+Progressed: 712,865 (Ranked 20)  
 Completed: 12,878 (1.81%) (Ranked 100)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 12,878 (1.81%) (Ranked 100)
 | 2023-08-29 | 712,811 | 12,876 |
 | 2023-08-30 | 712,826 | 12,877 |
 | 2023-08-31 | 712,853 | 12,878 |
-| 2023-09-01 | 712,864 | 12,878 |
+| 2023-09-01 | 712,865 | 12,878 |
 ## Awards
 Max (Great Boss Battles): 6,418  (Ranked 54)  
 Sum: 11,031 (Ranked 80)  

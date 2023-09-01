@@ -1,39 +1,39 @@
 # Railway Empire 2
 [Store](https://store.epicgames.com/en-US/p/railway-empire-2-46840c)  
 [View Rawdata](../../db/r/railway_empire_2.json)  
-Rating: 4.47 (Ranked 615)  
+Rating: 4.47 (Ranked 614)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Country Bumpkin | 75.00% | ~1,394 |
-| A new Journey | 74.00% | ~1,375 |
-| Departure | 73.00% | ~1,356 |
+| A new Journey | 74.00% | ~1,376 |
+| Departure | 73.00% | ~1,357 |
 | From X to Y | 72.00% | ~1,338 |
 | Way of Iron | 70.00% | ~1,301 |
-| Mystery Tour | 68.00% | ~1,263 |
-| We brake for nobody | 67.00% | ~1,245 |
-| Brainstorm | 66.00% | ~1,226 |
+| Mystery Tour | 68.00% | ~1,264 |
+| We brake for nobody | 67.00% | ~1,246 |
+| Brainstorm | 66.00% | ~1,227 |
 | Travel Company | 65.00% | ~1,208 |
-| Mind the Gap | 64.00% | ~1,189 |
-| All around the World | 62.00% | ~1,152 |
-| Right through the middle | 57.00% | ~1,059 |
+| Mind the Gap | 64.00% | ~1,190 |
+| All around the World | 62.00% | ~1,153 |
+| Right through the middle | 57.00% | ~1,060 |
 | Facility Manager | 53.00% | ~985 |
 | Poor Devil | 53.00% | ~985 |
-| Producer | 50.00% | ~929 |
+| Producer | 49.00% | ~911 |
 | Apprentice | 41.00% | ~762 |
 | Bridge Builder | 41.00% | ~762 |
-| Access granted | 35.00% | ~650 |
-| Going once, going twice, sold | 35.00% | ~650 |
+| Access granted | 35.00% | ~651 |
+| Going once, going twice, sold | 35.00% | ~651 |
 | Stoker | 33.00% | ~613 |
 | Bull and bear | 33.00% | ~613 |
 | Full Steam ahead | 32.00% | ~595 |
-| All mine | 30.00% | ~557 |
-| Mole | 30.00% | ~557 |
-| Financial Shark | 30.00% | ~557 |
+| All mine | 30.00% | ~558 |
+| Mole | 30.00% | ~558 |
+| Financial Shark | 30.00% | ~558 |
 | Socializer | 29.00% | ~539 |
 | Country Life | 27.00% | ~502 |
 | General Manager | 26.00% | ~483 |
-| Hostile Takeover | 25.00% | ~464 |
+| Hostile Takeover | 25.00% | ~465 |
 | Seven at one stroke | 24.00% | ~446 |
 | Trailblazer | 21.00% | ~390 |
 | Breaking Ground | 21.00% | ~390 |
@@ -52,7 +52,7 @@ Rating: 4.47 (Ranked 615)
 | Unstoppable | 8.00% | ~149 |
 | Track to the Future | 8.00% | ~149 |
 | Call of Duty | 7.00% | ~130 |
-| Conductor | 6.00% | ~111 |
+| Conductor | 6.00% | ~112 |
 | Engineer | 4.00% | ~74 |
 | Let off some steam | 4.00% | ~74 |
 | Accurate | 3.00% | ~56 |
@@ -61,8 +61,8 @@ Rating: 4.47 (Ranked 615)
 | Together we stand | 0.50% | ~9 |
 | Three Cheers for Progress | 0.40% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,858 (Ranked 176)  
-Completed: 0 (0.00%) (Ranked 270)  
+Progressed: 1,859 (Ranked 176)  
+Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -171,7 +171,7 @@ Completed: 0 (0.00%) (Ranked 270)
 | 2023-08-29 | 1,851 | 0 |
 | 2023-08-30 | 1,852 | 0 |
 | 2023-08-31 | 1,857 | 0 |
-| 2023-09-01 | 1,858 | 0 |
+| 2023-09-01 | 1,859 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

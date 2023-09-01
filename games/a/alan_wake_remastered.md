@@ -23,14 +23,14 @@ Number of Ratings: 524  (23.09.2022)
 | Missed by a Mile | 14.00% | ~8,692 |
 | The Six-Gun Scribe | 13.00% | ~8,071 |
 | Collateral Carnage | 13.00% | ~8,071 |
-| Heavy Metal | 12.00% | ~7,450 |
-| Iron Horse | 12.00% | ~7,450 |
-| Perchance to Dream | 12.00% | ~7,450 |
-| Come One, Come All | 12.00% | ~7,450 |
-| Gatekeeper | 11.00% | ~6,829 |
-| It's Not Just a Typewriter Brand | 11.00% | ~6,829 |
-| Thunder and Lightning | 11.00% | ~6,829 |
-| Two For the Price of One | 11.00% | ~6,829 |
+| Heavy Metal | 12.00% | ~7,451 |
+| Iron Horse | 12.00% | ~7,451 |
+| Perchance to Dream | 12.00% | ~7,451 |
+| Come One, Come All | 12.00% | ~7,451 |
+| Gatekeeper | 11.00% | ~6,830 |
+| It's Not Just a Typewriter Brand | 11.00% | ~6,830 |
+| Thunder and Lightning | 11.00% | ~6,830 |
+| Two For the Price of One | 11.00% | ~6,830 |
 | The Lady of the Light | 10.00% | ~6,209 |
 | Energized! | 10.00% | ~6,209 |
 | What Light Through Yonder Window | 9.00% | ~5,588 |
@@ -43,9 +43,9 @@ Number of Ratings: 524  (23.09.2022)
 | A Friend Indeed | 6.00% | ~1,533 |
 | Children of the Elder God | 5.00% | ~3,104 |
 | Ding! | 5.00% | ~1,278 |
-| Boob Tube | 4.00% | ~2,483 |
-| If It Flies, It Burns | 4.00% | ~2,483 |
-| KBF-FM | 4.00% | ~2,483 |
+| Boob Tube | 4.00% | ~2,484 |
+| If It Flies, It Burns | 4.00% | ~2,484 |
+| KBF-FM | 4.00% | ~2,484 |
 | Carny | 3.00% | ~1,863 |
 | Kill Your Darlings | 3.00% | ~767 |
 | Heartbreaker | 3.00% | ~767 |
@@ -74,8 +74,8 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~62 |
 | No Punctuation | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,086 (Ranked 87)  
-Completed: 65 (0.10%) (Ranked 217)  
+Progressed: 62,088 (Ranked 87)  
+Completed: 65 (0.10%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -208,7 +208,7 @@ Completed: 65 (0.10%) (Ranked 217)
 | 2023-08-29 | 61,953 | 65 |
 | 2023-08-30 | 62,006 | 65 |
 | 2023-08-31 | 62,064 | 65 |
-| 2023-09-01 | 62,086 | 65 |
+| 2023-09-01 | 62,088 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

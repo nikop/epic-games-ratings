@@ -5,13 +5,13 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Clean Sweep | 94.00% | ~380 |
-| Scavenger | 74.00% | ~299 |
-| Line of Duty | 72.00% | ~291 |
+| Scavenger | 75.00% | ~303 |
+| Line of Duty | 73.00% | ~295 |
 | Gunner | 56.00% | ~226 |
 | DocKing | 47.00% | ~190 |
 | What-A-Shot | 45.00% | ~182 |
-| Batteries Included | 38.00% | ~154 |
-| Death from Above | 35.00% | ~141 |
+| Batteries Included | 39.00% | ~158 |
+| Death from Above | 36.00% | ~145 |
 | Hull King | 26.00% | ~105 |
 | Boss Down | 20.00% | ~81 |
 | Extra Ammo | 20.00% | ~81 |
@@ -50,7 +50,7 @@
 | Final Ascension | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 404 (Ranked 251)  
-Completed: 1 (0.25%) (Ranked 186)  
+Completed: 1 (0.25%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

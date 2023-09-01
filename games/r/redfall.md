@@ -25,6 +25,7 @@ Rating: 3.52 (Ranked 983)
 | Catch and Release | 0.20% | ~3 |
 | From the Shadows | 0.20% | ~3 |
 | Skin of Their Teeth | 0.20% | ~3 |
+| Right This Way | 0.20% | ~3 |
 | Harvest’s End | 0.20% | ~3 |
 | Revelations | 0.10% | ~2 |
 | Home Is Where the Heart Is | 0.10% | ~2 |
@@ -40,7 +41,6 @@ Rating: 3.52 (Ranked 983)
 | Check, Please! | 0.10% | ~2 |
 | Starve the Beast | 0.10% | ~2 |
 | Bloody Initiate | 0.10% | ~2 |
-| Right This Way | 0.10% | ~2 |
 | Nice Try | 0.10% | ~2 |
 | Blacklight Down | 0.10% | ~2 |
 | Under a Bushel | 0.10% | ~2 |
@@ -73,7 +73,7 @@ Rating: 3.52 (Ranked 983)
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,738 (Ranked 179)  
-Completed: 0 (0.00%) (Ranked 270)  
+Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

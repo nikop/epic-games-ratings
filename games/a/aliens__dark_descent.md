@@ -35,8 +35,8 @@ Rating: 4.49 (Ranked 581)
 | Excavating The Truth | 21.00% | ~675 |
 | One For Every Occasion | 20.00% | ~642 |
 | Frontliner | 20.00% | ~642 |
+| The Cable Guy | 20.00% | ~642 |
 | Abysmal Horrors | 20.00% | ~642 |
-| The Cable Guy | 19.00% | ~610 |
 | Bandage Lover | 18.00% | ~578 |
 | Regicide | 15.00% | ~482 |
 | This Went Smoothly | 13.00% | ~418 |
@@ -52,7 +52,7 @@ Rating: 4.49 (Ranked 581)
 | Chalk It Up To Experience | 0.70% | ~22 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,212 (Ranked 157)  
-Completed: 3 (0.09%) (Ranked 221)  
+Completed: 3 (0.09%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

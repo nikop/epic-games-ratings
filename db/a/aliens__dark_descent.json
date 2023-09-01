@@ -6,9 +6,9 @@
   "Ranking_Popularity": 478,
   "Ranking_PopularitySum": 486,
   "Ranking_EOS_Progress": 157,
-  "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_Completed": 222,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -302,7 +302,7 @@
   ],
   "EOS_Progressed": 3212,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4233,9 +4233,9 @@
       "ID": "ACH_MAX_TECKER",
       "SetID": "816efe",
       "Name": "The Cable Guy",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 610
+      "UsersEstimate": 642
     },
     {
       "ID": "ACH_MISSION_01",
@@ -4418,8 +4418,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-08-31T19:59:01.3757088+00:00",
-  "LastChanged_Achievements": "2023-09-01T10:08:41.6159917+00:00",
+  "LastChanged_Achievements": "2023-09-01T11:06:35.267434+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:04.9559458+00:00",
-  "LastUpdate_Ratings": "2023-09-01T10:00:06.0632119+00:00",
-  "LastUpdate_Achievements": "2023-09-01T10:08:41.6160908+00:00"
+  "LastUpdate_Ratings": "2023-09-01T10:58:49.6113817+00:00",
+  "LastUpdate_Achievements": "2023-09-01T11:06:35.2674815+00:00"
 }

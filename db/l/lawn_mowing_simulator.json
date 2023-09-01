@@ -6,9 +6,9 @@
   "Ranking_Popularity": 282,
   "Ranking_PopularitySum": 240,
   "Ranking_EOS_Progress": 24,
-  "Ranking_EOS_Completed": 270,
+  "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 36,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2022-07-28T15:00:00+00:00",
     "PcReleaseDate": "2022-07-28T15:00:00+00:00",
@@ -2113,9 +2113,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 660595,
+  "EOS_Progressed": 660603,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 2457,
+  "EOS_NewPlayers": 2441,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16998,6 +16998,11 @@
       "Time": "2023-09-01T10:04:16.6266797+00:00",
       "NumProgressed": 660595,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-09-01T11:03:18.9855127+00:00",
+      "NumProgressed": 660603,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 54,
@@ -17009,7 +17014,7 @@
       "Name": "The dream begins",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 528476
+      "UsersEstimate": 528482
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -17097,7 +17102,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 237814
+      "UsersEstimate": 237817
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -17249,7 +17254,7 @@
       "Name": "The first of many",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 204784
+      "UsersEstimate": 204787
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -17313,7 +17318,7 @@
       "Name": "Lawn in the U.S.A.",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 99089
+      "UsersEstimate": 99090
     },
     {
       "ID": "PART_EX_LESS_EXPENSIVE",
@@ -17409,7 +17414,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 118907
+      "UsersEstimate": 118909
     },
     {
       "ID": "RP_TRUSTED",
@@ -17440,15 +17445,15 @@
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 660595,
+      "Progressed": 660603,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-09-01T01:43:09.0521396+00:00",
-  "LastChanged_Achievements": "2023-09-01T10:04:16.6266789+00:00",
+  "LastChanged_Achievements": "2023-09-01T11:03:18.9855119+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:41.5729558+00:00",
-  "LastUpdate_Ratings": "2023-09-01T09:57:57.0554992+00:00",
-  "LastUpdate_Achievements": "2023-09-01T10:04:16.6269358+00:00"
+  "LastUpdate_Ratings": "2023-09-01T10:57:20.0768408+00:00",
+  "LastUpdate_Achievements": "2023-09-01T11:03:18.985616+00:00"
 }

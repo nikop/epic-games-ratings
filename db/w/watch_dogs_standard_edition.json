@@ -4,11 +4,11 @@
   "ProductSlug": "watch-dogs",
   "Ranking_Rating": 453,
   "Ranking_Popularity": 390,
-  "Ranking_PopularitySum": 316,
+  "Ranking_PopularitySum": 311,
   "Ranking_EOS_Progress": 571,
-  "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 341,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_Completed": 271,
+  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2020-03-19T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1618,10 +1618,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 414,
       "NumberOfAwardsMax": 61
+    },
+    {
+      "Time": "2023-09-01T10:59:22.8910618+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 448,
+      "NumberOfAwardsMax": 61
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 414,
+  "NumberOfAwards": 448,
   "NumberOfAwardsMax": 61,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -1695,7 +1701,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 32
+      "Count": 34
     }
   ],
   "EOS_Progressed": 0,
@@ -1709,8 +1715,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:01.9847852+00:00",
-  "LastChanged": "2023-08-31T16:59:13.74688+00:00",
+  "LastChanged": "2023-09-01T10:59:22.8910617+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:51.9902561+00:00",
-  "LastUpdate_Ratings": "2023-09-01T10:00:59.4526811+00:00",
-  "LastUpdate_Achievements": "2023-09-01T10:04:18.3367576+00:00"
+  "LastUpdate_Ratings": "2023-09-01T10:59:22.8910621+00:00",
+  "LastUpdate_Achievements": "2023-09-01T11:03:20.2504932+00:00"
 }

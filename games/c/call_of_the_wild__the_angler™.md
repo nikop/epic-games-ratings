@@ -6,17 +6,17 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 78.00% | ~4,354 |
-| Hey Good Hookin | 68.00% | ~3,796 |
-| I'm on a Boat! | 58.00% | ~3,238 |
-| Can you smell what the Rod is Hooking | 54.00% | ~3,014 |
-| Scaling up | 54.00% | ~3,014 |
+| Fish Just Got Reel | 78.00% | ~4,356 |
+| Hey Good Hookin | 68.00% | ~3,797 |
+| I'm on a Boat! | 58.00% | ~3,239 |
+| Can you smell what the Rod is Hooking | 54.00% | ~3,015 |
+| Scaling up | 54.00% | ~3,015 |
 | More Fish in the Sea | 47.00% | ~2,624 |
-| Ready to Rod and Roll | 45.00% | ~2,512 |
-| Fish Out of Water | 34.00% | ~1,898 |
-| License to Gill | 32.00% | ~1,786 |
+| Ready to Rod and Roll | 45.00% | ~2,513 |
+| Fish Out of Water | 34.00% | ~1,899 |
+| License to Gill | 32.00% | ~1,787 |
 | Things that go Splash in the Night | 29.00% | ~1,619 |
-| Goldfish? | 27.00% | ~1,507 |
+| Goldfish? | 27.00% | ~1,508 |
 | Going for Gold | 25.00% | ~1,396 |
 | I'm Hooked! | 18.00% | ~1,005 |
 | Diamond in the Rough | 12.00% | ~670 |
@@ -26,7 +26,7 @@ Number of Ratings: 281  (23.09.2022)
 | Marathon | 7.00% | ~391 |
 | I'm the Captain Now | 6.00% | ~335 |
 | Big Fish Small Pond | 6.00% | ~335 |
-| Gonna Need a Bigger Boat | 3.00% | ~167 |
+| Gonna Need a Bigger Boat | 3.00% | ~168 |
 | The Beetles | 2.00% | ~112 |
 | Rod and Troll | 2.00% | ~99 |
 | No Fin left to give | 1.00% | ~56 |
@@ -42,8 +42,8 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.10% | ~5 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,582 (Ranked 141)  
-Completed: 0 (0.00%) (Ranked 270)  
+Progressed: 5,584 (Ranked 141)  
+Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -176,16 +176,16 @@ Completed: 0 (0.00%) (Ranked 270)
 | 2023-08-29 | 5,392 | 0 |
 | 2023-08-30 | 5,496 | 0 |
 | 2023-08-31 | 5,570 | 0 |
-| 2023-09-01 | 5,582 | 0 |
+| 2023-09-01 | 5,584 | 0 |
 ## Awards
 Max (Relaxing): 33  (Ranked 449)  
-Sum: 165 (Ranked 391)  
-Diff (max vs sum): 58  
+Sum: 166 (Ranked 390)  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 33 |
 | This game has Amazing Storytelling | 31 |
-| This game is Highly Recommended | 28 |
+| This game is Highly Recommended | 29 |
 | This game is Extremely Fun | 27 |
 | This game is Great for Beginners | 25 |
 | This game has Quickly Understood Controls | 21 |
@@ -250,4 +250,4 @@ Diff (max vs sum): 58
 | 2023-08-28 | 4.15 | - | 33 | 163 |
 | 2023-08-30 | 4.15 | - | 33 | 164 |
 | 2023-08-31 | 4.15 | - | 33 | 165 |
-| 2023-09-01 | 4.14 | - | 33 | 165 |
+| 2023-09-01 | 4.14 | - | 33 | 166 |

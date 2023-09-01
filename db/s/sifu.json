@@ -5940,9 +5940,9 @@
       "Count": 374
     }
   ],
-  "EOS_Progressed": 712864,
+  "EOS_Progressed": 712865,
   "EOS_Completed": 12878,
-  "EOS_NewPlayers": 191,
+  "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -18215,6 +18215,11 @@
       "Time": "2023-09-01T10:08:17.5535941+00:00",
       "NumProgressed": 712864,
       "NumCompleted": 12878
+    },
+    {
+      "Time": "2023-09-01T11:06:18.157198+00:00",
+      "NumProgressed": 712865,
+      "NumCompleted": 12878
     }
   ],
   "TotalAchievements": 50,
@@ -18480,9 +18485,9 @@
       "ID": "33_BladeOneShot",
       "SetID": "adcm20g",
       "Name": "Sword Stained With Blood",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 4277
+      "UsersEstimate": 4990
     },
     {
       "ID": "34_TimedTakedown",
@@ -18528,9 +18533,9 @@
       "ID": "39_CustomTrophy_H3",
       "SetID": "adcm20g",
       "Name": "Be like water my friend",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2139
+      "UsersEstimate": 2851
     },
     {
       "ID": "40_CustomTrophy_H4",
@@ -18625,21 +18630,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 22165,
+      "Progressed": 22166,
       "Completed": 10573
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 712864,
+      "Progressed": 712865,
       "Completed": 12878
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-09-01T08:58:30.3271817+00:00",
-  "LastChanged_Achievements": "2023-09-01T10:08:17.5535935+00:00",
+  "LastChanged_Achievements": "2023-09-01T11:06:18.1571975+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:37.9351908+00:00",
-  "LastUpdate_Ratings": "2023-09-01T09:59:24.1665399+00:00",
-  "LastUpdate_Achievements": "2023-09-01T10:08:17.5537837+00:00"
+  "LastUpdate_Ratings": "2023-09-01T10:58:21.1682784+00:00",
+  "LastUpdate_Achievements": "2023-09-01T11:06:18.1572891+00:00"
 }

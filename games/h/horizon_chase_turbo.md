@@ -45,7 +45,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Look Mom, No Hands! | 0.10% | ~1,036 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,036,422 (Ranked 12)  
-Completed: 409 (0.04%) (Ranked 239)  
+Completed: 409 (0.04%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

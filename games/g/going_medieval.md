@@ -21,7 +21,7 @@ Number of Ratings: 706  (23.09.2022)
 | Feast or Famine | 47.00% | ~2,630 |
 | Adept Researcher | 44.00% | ~2,462 |
 | Retribution | 41.00% | ~2,294 |
-| ...And Don’t Come Back! | 40.00% | ~2,238 |
+| ...And Don’t Come Back! | 41.00% | ~2,294 |
 | Fit For A King | 36.00% | ~2,015 |
 | Luminary Researcher | 32.00% | ~1,791 |
 | Heating Up | 30.00% | ~1,679 |
@@ -39,7 +39,7 @@ Number of Ratings: 706  (23.09.2022)
 | Wabbit Season | 0.50% | ~28 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,596 (Ranked 140)  
-Completed: 11 (0.20%) (Ranked 194)  
+Completed: 11 (0.20%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

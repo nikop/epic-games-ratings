@@ -48,8 +48,8 @@ Rating: 4.87 (Ranked 25)
 | I'm not done with you yet | 0.80% | ~32 |
 | This is a breeze! | 0.70% | ~28 |
 | You ever parry a volcano? | 0.70% | ~28 |
+| New bad guys? No problem! | 0.70% | ~18 |
 | OK, well THEY came after ME! | 0.60% | ~24 |
-| New bad guys? No problem! | 0.60% | ~15 |
 | Easy Listening | 0.50% | ~20 |
 | Choose your own adventure | 0.40% | ~10 |
 | Now this is how you fight like a team! | 0.30% | ~12 |
@@ -77,8 +77,8 @@ Rating: 4.87 (Ranked 25)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,004 (Ranked 150)  
-Completed: 7 (0.17%) (Ranked 199)  
+Progressed: 4,004 (Ranked 151)  
+Completed: 7 (0.17%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

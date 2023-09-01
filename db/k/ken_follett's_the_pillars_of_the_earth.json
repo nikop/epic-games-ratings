@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 132,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -495,9 +495,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14944,
+  "EOS_Progressed": 14946,
   "EOS_Completed": 110,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -9300,6 +9300,11 @@
       "Time": "2023-09-01T10:08:35.9732509+00:00",
       "NumProgressed": 14944,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2023-09-01T11:06:30.9168934+00:00",
+      "NumProgressed": 14946,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 41,
@@ -9311,7 +9316,7 @@
       "Name": "Good midwife",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1494
+      "UsersEstimate": 1495
     },
     {
       "ID": "tpote_achievement_10",
@@ -9375,7 +9380,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2540
+      "UsersEstimate": 2541
     },
     {
       "ID": "tpote_achievement_18",
@@ -9415,7 +9420,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4483
+      "UsersEstimate": 4484
     },
     {
       "ID": "tpote_achievement_22",
@@ -9471,7 +9476,7 @@
       "Name": "Whodunnit",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1793
+      "UsersEstimate": 1794
     },
     {
       "ID": "tpote_achievement_29",
@@ -9487,7 +9492,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 4782
+      "UsersEstimate": 4783
     },
     {
       "ID": "tpote_achievement_30",
@@ -9495,7 +9500,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1494
+      "UsersEstimate": 1495
     },
     {
       "ID": "tpote_achievement_31",
@@ -9575,7 +9580,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 6127
+      "UsersEstimate": 6128
     },
     {
       "ID": "tpote_achievement_40",
@@ -9631,22 +9636,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 5230
+      "UsersEstimate": 5231
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14944,
+      "Progressed": 14946,
       "Completed": 110
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-08-03T13:08:30.3350415+00:00",
-  "LastChanged_Achievements": "2023-09-01T10:08:35.9732504+00:00",
+  "LastChanged_Achievements": "2023-09-01T11:06:30.9168929+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:35.7712512+00:00",
-  "LastUpdate_Ratings": "2023-09-01T10:00:32.4921436+00:00",
-  "LastUpdate_Achievements": "2023-09-01T10:08:35.9733419+00:00"
+  "LastUpdate_Ratings": "2023-09-01T10:59:05.9310779+00:00",
+  "LastUpdate_Achievements": "2023-09-01T11:06:30.9169594+00:00"
 }
