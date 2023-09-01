@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 539,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 306,
+  "EOS_NewPlayers": 305,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -945,9 +945,9 @@
       "ID": "Cartographer",
       "SetID": "3ai6ml8",
       "Name": "Cartographer",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 210
+      "UsersEstimate": 216
     },
     {
       "ID": "Causality",
@@ -1088,8 +1088,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-09-01T08:05:09.6548535+00:00",
+  "LastChanged_Achievements": "2023-09-01T09:04:58.8860999+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:05.9137937+00:00",
-  "LastUpdate_Ratings": "2023-09-01T07:59:39.9102552+00:00",
-  "LastUpdate_Achievements": "2023-09-01T08:05:09.6548807+00:00"
+  "LastUpdate_Ratings": "2023-09-01T08:59:08.3172907+00:00",
+  "LastUpdate_Achievements": "2023-09-01T09:04:58.8861186+00:00"
 }

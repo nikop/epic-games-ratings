@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5450,
+  "EOS_Progressed": 5451,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9016,6 +9016,11 @@
       "Time": "2023-09-01T05:06:50.4511763+00:00",
       "NumProgressed": 5450,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-01T09:06:11.2306349+00:00",
+      "NumProgressed": 5451,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -9027,7 +9032,7 @@
       "Name": "First Step",
       "Percentage": 37,
       "XP": 45,
-      "UsersEstimate": 2016
+      "UsersEstimate": 2017
     },
     {
       "ID": "10",
@@ -9099,7 +9104,7 @@
       "Name": "Rainy Ruins",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 708
+      "UsersEstimate": 709
     },
     {
       "ID": "5",
@@ -9107,7 +9112,7 @@
       "Name": "Snowy Peak",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "6",
@@ -9146,7 +9151,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 5450,
+      "Progressed": 5451,
       "Completed": 0
     }
   ],
@@ -9154,8 +9159,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-09-01T08:06:38.9798946+00:00",
+  "LastChanged_Achievements": "2023-09-01T09:06:11.2306345+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:43.2500463+00:00",
-  "LastUpdate_Ratings": "2023-09-01T07:57:15.780598+00:00",
-  "LastUpdate_Achievements": "2023-09-01T08:06:38.9799591+00:00"
+  "LastUpdate_Ratings": "2023-09-01T08:57:14.2266446+00:00",
+  "LastUpdate_Achievements": "2023-09-01T09:06:11.23072+00:00"
 }

@@ -5,8 +5,8 @@ Rating: 4.54 (Ranked 504)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 0.80% | ~5,364 |
-| Welcome To Hell-A | 0.80% | ~5,364 |
+| Hotel California | 0.80% | ~5,365 |
+| Welcome To Hell-A | 0.80% | ~5,365 |
 | Break A Leg | 0.70% | ~4,694 |
 | Dr. Reed, I Presume? | 0.60% | ~4,023 |
 | Git Gutte! | 0.60% | ~4,023 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 504)
 | Variety is the Spice of Death | 0.10% | ~671 |
 | Bucket List | 0.10% | ~671 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 670,558 (Ranked 22)  
+Progressed: 670,576 (Ranked 22)  
 Completed: 2,097 (0.31%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 2,097 (0.31%) (Ranked 177)
 | 2023-08-29 | 668,912 | 2,088 |
 | 2023-08-30 | 669,636 | 2,094 |
 | 2023-08-31 | 670,394 | 2,097 |
-| 2023-09-01 | 670,558 | 2,097 |
+| 2023-09-01 | 670,576 | 2,097 |
 ## Awards
 Max (Great Boss Battles): 5,841  (Ranked 60)  
 Sum: 8,602 (Ranked 96)  

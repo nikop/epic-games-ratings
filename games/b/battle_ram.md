@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | START | 92.00% | ~196 |
 | Ram Corporal | 86.00% | ~183 |
-| Ram Sergeant | 65.00% | ~138 |
+| Ram Sergeant | 66.00% | ~141 |
 | Ram Staff Sergeant | 65.00% | ~138 |
 | Ram First Sergeant | 57.00% | ~121 |
 | Senior Sergeant Baran | 56.00% | ~119 |

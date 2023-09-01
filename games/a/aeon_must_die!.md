@@ -41,7 +41,7 @@
 | The Many Fates Of The Many | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,552 (Ranked 154)  
-Completed: -28 (-0.79%) (Ranked 3,156)  
+Completed: -28 (-0.79%) (Ranked 3,157)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

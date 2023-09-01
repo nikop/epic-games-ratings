@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 561,
+  "EOS_Progressed": 562,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.6,
   "EosHistory": [
@@ -1261,6 +1261,11 @@
       "Time": "2023-09-01T08:06:07.2886564+00:00",
       "NumProgressed": 561,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-01T09:05:45.0192714+00:00",
+      "NumProgressed": 562,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1271,17 +1276,17 @@
       "ID": "_01_AllIslands",
       "SetID": "8a1io5d",
       "Name": "Somewhere Deep in the Lost Caribbean",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 135
+      "UsersEstimate": 129
     },
     {
       "ID": "_02_FinishFirstMission",
       "SetID": "8a1io5d",
       "Name": "A New Journey",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 410
+      "UsersEstimate": 405
     },
     {
       "ID": "_03_FinishAct1",
@@ -1289,7 +1294,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1297,7 +1302,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "_05_FinishAct2",
@@ -1305,7 +1310,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -1327,9 +1332,9 @@
       "ID": "_08_Completion_10",
       "SetID": "8a1io5d",
       "Name": "Swabbie",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 230
     },
     {
       "ID": "_09_Completion_20",
@@ -1401,7 +1406,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -1480,14 +1485,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 561,
+      "Progressed": 562,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-09-01T08:06:07.2886558+00:00",
+  "LastChanged_Achievements": "2023-09-01T09:05:45.0192707+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:45.1302228+00:00",
-  "LastUpdate_Ratings": "2023-09-01T07:57:52.2105373+00:00",
-  "LastUpdate_Achievements": "2023-09-01T08:06:07.288684+00:00"
+  "LastUpdate_Ratings": "2023-09-01T08:57:43.8761755+00:00",
+  "LastUpdate_Achievements": "2023-09-01T09:05:45.0192976+00:00"
 }

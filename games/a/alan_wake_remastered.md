@@ -11,12 +11,12 @@ Number of Ratings: 524  (23.09.2022)
 | Float Like a Butterfly | 30.00% | ~18,625 |
 | Nordic Walking | 24.00% | ~14,900 |
 | Bright Falls' Finest | 23.00% | ~14,279 |
-| Under a Thin Layer of Skin | 21.00% | ~13,037 |
+| Under a Thin Layer of Skin | 21.00% | ~13,038 |
 | Park Ranger | 17.00% | ~10,554 |
 | Paging Mr. Wake | 17.00% | ~10,554 |
 | Back! Back, I Say! | 16.00% | ~9,933 |
 | Finders Keepers | 16.00% | ~9,933 |
-| Damn Good Cup of Coffee | 15.00% | ~9,312 |
+| Damn Good Cup of Coffee | 15.00% | ~9,313 |
 | Wheels Within Wheels | 14.00% | ~8,692 |
 | They're Heeeeeere! | 14.00% | ~8,692 |
 | Sound and Fury | 14.00% | ~8,692 |
@@ -33,8 +33,8 @@ Number of Ratings: 524  (23.09.2022)
 | Two For the Price of One | 11.00% | ~6,829 |
 | The Lady of the Light | 10.00% | ~6,208 |
 | Energized! | 10.00% | ~6,208 |
-| What Light Through Yonder Window | 9.00% | ~5,587 |
-| Right of Way | 9.00% | ~5,587 |
+| What Light Through Yonder Window | 9.00% | ~5,588 |
+| Right of Way | 9.00% | ~5,588 |
 | Tornado Wrangler | 8.00% | ~4,967 |
 | A Friend in Need | 8.00% | ~2,044 |
 | Departure | 7.00% | ~4,346 |
@@ -46,7 +46,7 @@ Number of Ratings: 524  (23.09.2022)
 | Boob Tube | 4.00% | ~2,483 |
 | If It Flies, It Burns | 4.00% | ~2,483 |
 | KBF-FM | 4.00% | ~2,483 |
-| Carny | 3.00% | ~1,862 |
+| Carny | 3.00% | ~1,863 |
 | Kill Your Darlings | 3.00% | ~767 |
 | Heartbreaker | 3.00% | ~767 |
 | Medical Opinions | 2.00% | ~1,242 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~62 |
 | No Punctuation | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,083 (Ranked 87)  
+Progressed: 62,084 (Ranked 87)  
 Completed: 65 (0.10%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,7 +208,7 @@ Completed: 65 (0.10%) (Ranked 217)
 | 2023-08-29 | 61,953 | 65 |
 | 2023-08-30 | 62,006 | 65 |
 | 2023-08-31 | 62,064 | 65 |
-| 2023-09-01 | 62,083 | 65 |
+| 2023-09-01 | 62,084 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

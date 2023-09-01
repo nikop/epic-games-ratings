@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 177,
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
@@ -1989,9 +1989,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 43336,
+  "EOS_Progressed": 43337,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6299,6 +6299,11 @@
       "Time": "2023-09-01T07:04:29.8284803+00:00",
       "NumProgressed": 43336,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-09-01T09:04:16.9848992+00:00",
+      "NumProgressed": 43337,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -6310,7 +6315,7 @@
       "Name": "Groovy",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 26435
+      "UsersEstimate": 26436
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -6502,7 +6507,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26868
+      "UsersEstimate": 26869
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -6518,7 +6523,7 @@
       "Name": "All roads lead to Rome",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 14734
+      "UsersEstimate": 14735
     },
     {
       "ID": "SE_COMPLETE_SARDINIA",
@@ -6582,7 +6587,7 @@
       "Name": "Shock therapy",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 9967
+      "UsersEstimate": 9968
     },
     {
       "ID": "SE_FIND_ALL_JOURNALS_COMICS_TOKENS",
@@ -6598,7 +6603,7 @@
       "Name": "Double tap",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 16034
+      "UsersEstimate": 16035
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -6606,7 +6611,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 18201
+      "UsersEstimate": 18202
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -6638,7 +6643,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 29902
+      "UsersEstimate": 29903
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -6750,7 +6755,7 @@
       "Name": "You\u0027ve got red on you",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 14734
+      "UsersEstimate": 14735
     },
     {
       "ID": "SE_REACH_RANK_100",
@@ -6766,7 +6771,7 @@
       "Name": "Blood splattered",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 28168
+      "UsersEstimate": 28169
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -6806,7 +6811,7 @@
       "Name": "Leave the limbs you\u0027ve lost",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 9967
+      "UsersEstimate": 9968
     },
     {
       "ID": "SE_TAKEDOWN_AN_ELITE",
@@ -6814,7 +6819,7 @@
       "Name": "The bigger they are...",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 6500
+      "UsersEstimate": 6501
     },
     {
       "ID": "SE_TAKEDOWN_A_BLIND_SCREAMER",
@@ -6822,7 +6827,7 @@
       "Name": "Take them down screaming",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 7800
+      "UsersEstimate": 7801
     },
     {
       "ID": "SE_X_HEADSHOTS_WITH_ONE_BULLET",
@@ -6837,15 +6842,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 43336,
+      "Progressed": 43337,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-08-27T23:58:23.4240031+00:00",
-  "LastChanged_Achievements": "2023-09-01T08:04:17.5295522+00:00",
+  "LastChanged_Achievements": "2023-09-01T09:04:16.9848988+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:45.2721629+00:00",
-  "LastUpdate_Ratings": "2023-09-01T08:00:02.9711846+00:00",
-  "LastUpdate_Achievements": "2023-09-01T08:04:17.5296514+00:00"
+  "LastUpdate_Ratings": "2023-09-01T08:59:26.9902558+00:00",
+  "LastUpdate_Achievements": "2023-09-01T09:04:16.9849897+00:00"
 }

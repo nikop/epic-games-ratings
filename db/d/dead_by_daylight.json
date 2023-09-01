@@ -9761,9 +9761,9 @@
       "Count": 23890
     }
   ],
-  "EOS_Progressed": 834954,
+  "EOS_Progressed": 835025,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 21210,
+  "EOS_NewPlayers": 21177,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -24721,6 +24721,11 @@
       "Time": "2023-09-01T08:03:23.955732+00:00",
       "NumProgressed": 834954,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-09-01T09:03:32.9356166+00:00",
+      "NumProgressed": 835025,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 229,
@@ -24818,9 +24823,9 @@
       "ID": "ACH_012",
       "SetID": "bdmlp8o",
       "Name": "Agonizing Escape",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2505
+      "UsersEstimate": 3340
     },
     {
       "ID": "ACH_013",
@@ -24970,9 +24975,9 @@
       "ID": "ACH_031",
       "SetID": "bdmlp8o",
       "Name": "Vulture",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1670
+      "UsersEstimate": 2505
     },
     {
       "ID": "ACH_032",
@@ -25658,9 +25663,9 @@
       "ID": "ACH_117",
       "SetID": "16jml5b",
       "Name": "Outrun Evil",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 835
+      "UsersEstimate": 1670
     },
     {
       "ID": "ACH_118",
@@ -26514,9 +26519,9 @@
       "ID": "ACH_227",
       "SetID": "16jml5b",
       "Name": "Terror of LV-426",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4175
+      "UsersEstimate": 5010
     },
     {
       "ID": "ACH_228",
@@ -26563,21 +26568,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 834954,
+      "Progressed": 835025,
       "Completed": 40
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 834954,
+      "Progressed": 835025,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-09-01T08:00:12.5098928+00:00",
-  "LastChanged_Achievements": "2023-09-01T08:03:23.9557313+00:00",
+  "LastChanged_Achievements": "2023-09-01T09:03:32.9356161+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:54.3324879+00:00",
-  "LastUpdate_Ratings": "2023-09-01T08:00:12.5098938+00:00",
-  "LastUpdate_Achievements": "2023-09-01T08:03:23.9565106+00:00"
+  "LastUpdate_Ratings": "2023-09-01T08:59:33.9689472+00:00",
+  "LastUpdate_Achievements": "2023-09-01T09:03:32.9362319+00:00"
 }

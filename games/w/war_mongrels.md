@@ -9,10 +9,10 @@ Number of Ratings: 34  (23.09.2022)
 | Explorer | 64.00% | ~308 |
 | Cowardice | 57.00% | ~274 |
 | NO LIFE IS WORTH SAVING... | 50.00% | ~240 |
-| Eat Lead! | 47.00% | ~226 |
+| Eat Lead! | 48.00% | ~231 |
 | The Breaking Point | 44.00% | ~212 |
+| Here Comes the Boom | 44.00% | ~212 |
 | Prospector | 43.00% | ~207 |
-| Here Comes the Boom | 43.00% | ~207 |
 | Treasure Hunter | 40.00% | ~192 |
 | Sniper Wolf | 40.00% | ~192 |
 | The Motivation | 38.00% | ~183 |
@@ -30,7 +30,7 @@ Number of Ratings: 34  (23.09.2022)
 | Broken Hopes | 21.00% | ~101 |
 | Bullseye! | 21.00% | ~101 |
 | Sorrow | 19.00% | ~91 |
-| Food Massacre | 18.00% | ~87 |
+| Food Massacre | 19.00% | ~91 |
 | Atonement | 17.00% | ~82 |
 | Helping Hand | 16.00% | ~77 |
 | Collectibles of Chapter III | 15.00% | ~72 |

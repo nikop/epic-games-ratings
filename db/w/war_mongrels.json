@@ -1797,9 +1797,9 @@
       "ID": "ACH_KILL_BRAWL",
       "SetID": "1j25agn",
       "Name": "Here Comes the Boom",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 207
+      "UsersEstimate": 212
     },
     {
       "ID": "ACH_KILL_DOOR",
@@ -1837,17 +1837,17 @@
       "ID": "ACH_KILL_OFFICER",
       "SetID": "1j25agn",
       "Name": "Eat Lead!",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 226
+      "UsersEstimate": 231
     },
     {
       "ID": "ACH_KILL_SAUSAGE",
       "SetID": "1j25agn",
       "Name": "Food Massacre",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 91
     },
     {
       "ID": "ACH_KILL_SNIPER",
@@ -1909,8 +1909,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-08-26T19:00:27.3574787+00:00",
-  "LastChanged_Achievements": "2023-09-01T08:04:41.2124458+00:00",
+  "LastChanged_Achievements": "2023-09-01T09:04:36.0211703+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:33.37016+00:00",
-  "LastUpdate_Ratings": "2023-09-01T08:01:29.7585012+00:00",
-  "LastUpdate_Achievements": "2023-09-01T08:04:41.2125088+00:00"
+  "LastUpdate_Ratings": "2023-09-01T09:00:34.796477+00:00",
+  "LastUpdate_Achievements": "2023-09-01T09:04:36.0212307+00:00"
 }

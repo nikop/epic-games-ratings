@@ -14,11 +14,12 @@ Number of Ratings: 70,340  (23.09.2022)
 | Not half bad | 0.60% | ~5,010 |
 | Apt Survivor | 0.60% | ~5,010 |
 | Survival Treasures | 0.60% | ~5,010 |
+| Terror of LV-426 | 0.60% | ~5,010 |
 | Medic | 0.50% | ~4,175 |
 | Handyman | 0.50% | ~4,175 |
 | Sorted | 0.50% | ~4,175 |
-| Terror of LV-426 | 0.50% | ~4,175 |
 | The Grand Sacrifice | 0.40% | ~3,340 |
+| Agonizing Escape | 0.40% | ~3,340 |
 | Backdoor Escape | 0.40% | ~3,340 |
 | No one left behind | 0.40% | ~3,340 |
 | Nerves of steel | 0.40% | ~3,340 |
@@ -29,11 +30,11 @@ Number of Ratings: 70,340  (23.09.2022)
 | Resurgence | 0.40% | ~3,340 |
 | Preemptive Strike | 0.40% | ~3,340 |
 | Humanitarian | 0.40% | ~3,340 |
-| Agonizing Escape | 0.30% | ~2,505 |
 | I've got your back | 0.30% | ~2,505 |
 | Perfect Killing | 0.30% | ~2,505 |
 | Apt Killer | 0.30% | ~2,505 |
 | Risk it all | 0.30% | ~2,505 |
+| Vulture | 0.30% | ~2,505 |
 | II | 0.30% | ~2,505 |
 | III | 0.30% | ~2,505 |
 | Engineer | 0.30% | ~2,505 |
@@ -44,7 +45,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Escape Artist | 0.20% | ~1,670 |
 | Made it out alive! | 0.20% | ~1,670 |
 | Gifts for the Fog | 0.20% | ~1,670 |
-| Vulture | 0.20% | ~1,670 |
 | III-50 | 0.20% | ~1,670 |
 | Shock Therapy | 0.20% | ~1,670 |
 | All Aboard | 0.20% | ~1,670 |
@@ -54,6 +54,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Cherish your Life | 0.20% | ~1,670 |
 | Unforgettable Getaway | 0.20% | ~1,670 |
 | Cutting Out | 0.20% | ~1,670 |
+| Outrun Evil | 0.20% | ~1,670 |
 | First to the Punch | 0.20% | ~1,670 |
 | Operation: Survival | 0.20% | ~1,670 |
 | Old West Oasis | 0.20% | ~1,670 |
@@ -143,7 +144,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Plague | 0.10% | ~835 |
 | Shrine Apparatus | 0.10% | ~835 |
 | Adept Jane | 0.10% | ~835 |
-| Outrun Evil | 0.10% | ~835 |
 | Adept Ash | 0.10% | ~835 |
 | Silent Approach | 0.10% | ~835 |
 | Totally Vulnerable | 0.10% | ~835 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~835 |
 | Adept Ripley | 0.10% | ~835 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 834,954 (Ranked 15)  
+Progressed: 835,025 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -370,7 +370,7 @@ Completed: 48 (0.01%) (Ranked 257)
 | 2023-08-29 | 828,020 | 48 |
 | 2023-08-30 | 831,117 | 48 |
 | 2023-08-31 | 834,142 | 48 |
-| 2023-09-01 | 834,954 | 48 |
+| 2023-09-01 | 835,025 | 48 |
 ## Awards
 Max (Diverse Characters): 31,778  (Ranked 15)  
 Sum: 249,021 (Ranked 11)  

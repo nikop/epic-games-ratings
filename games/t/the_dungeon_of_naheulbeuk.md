@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 26.00% | ~57,172 |
+| Sowwy! | 26.00% | ~57,175 |
 | Where's that freaking Dwarf? | 3.00% | ~6,597 |
 | Alt+F4 | 3.00% | ~6,597 |
 | Déjà vu | 2.00% | ~4,398 |
@@ -39,10 +39,10 @@ Number of Ratings: 118  (23.09.2022)
 | Thieves' Guild Accreditation | 0.70% | ~1,539 |
 | Res Judicata | 0.60% | ~1,319 |
 | Dwarf Fortress | 0.60% | ~1,319 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.50% | ~1,099 |
-| Dead for good | 0.50% | ~1,099 |
-| Lust and Debauchery | 0.50% | ~1,099 |
-| Material Girl | 0.50% | ~1,099 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.50% | ~1,100 |
+| Dead for good | 0.50% | ~1,100 |
+| Lust and Debauchery | 0.50% | ~1,100 |
+| Material Girl | 0.50% | ~1,100 |
 | Gargantua | 0.40% | ~880 |
 | In Navalu's footsteps | 0.40% | ~880 |
 | An old poacher makes the best gamekeeper | 0.30% | ~660 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~220 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,892 (Ranked 57)  
+Progressed: 219,904 (Ranked 57)  
 Completed: 2 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 2 (0.00%) (Ranked 270)
 | 2023-08-29 | 219,078 | 2 |
 | 2023-08-30 | 219,453 | 2 |
 | 2023-08-31 | 219,794 | 2 |
-| 2023-09-01 | 219,892 | 2 |
+| 2023-09-01 | 219,904 | 2 |
 ## Awards
 Max (Character Customization): 185  (Ranked 279)  
 Sum: 233 (Ranked 360)  
