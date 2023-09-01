@@ -220,9 +220,9 @@
       "ID": "ANDREAS_AND_THE_CHAMBER_OF_SECRETS",
       "SetID": "e4de54",
       "Name": "Andreas and the chamber of secrets",
-      "Percentage": 9,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ANXIETY",
@@ -284,9 +284,9 @@
       "ID": "A_STRANGE_SPRING",
       "SetID": "e4de54",
       "Name": "A strange spring",
-      "Percentage": 9,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "BAD_MUSICIAN",
@@ -531,8 +531,8 @@
   ],
   "FirstSeen": "2023-07-24T20:59:19.8931718+00:00",
   "FirstSeenAchievements": "2023-07-14T20:01:12.8113065+00:00",
-  "LastChanged_Achievements": "2023-09-01T18:06:04.326405+00:00",
+  "LastChanged_Achievements": "2023-09-01T19:06:47.3407416+00:00",
   "LastUpdate_AppInfo": "2023-08-26T01:34:14.2917013+00:00",
-  "LastUpdate_Ratings": "2023-09-01T17:59:55.4900864+00:00",
-  "LastUpdate_Achievements": "2023-09-01T18:06:04.3264352+00:00"
+  "LastUpdate_Ratings": "2023-09-01T19:00:34.1964809+00:00",
+  "LastUpdate_Achievements": "2023-09-01T19:06:47.3407808+00:00"
 }

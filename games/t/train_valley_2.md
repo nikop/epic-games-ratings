@@ -6,47 +6,47 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 72.00% | ~278,263 |
-| Full garage | 60.00% | ~231,886 |
-| To the eyeballs! | 50.00% | ~193,238 |
-| Individual delivery | 46.00% | ~177,779 |
-| Non-Stop | 44.00% | ~170,049 |
-| Juggler | 35.00% | ~135,267 |
-| Forgot something | 34.00% | ~131,402 |
-| Close call! | 30.00% | ~115,943 |
-| Get out my way | 27.00% | ~104,349 |
-| Common cause | 25.00% | ~96,619 |
-| Critical care | 25.00% | ~96,619 |
-| Mega-railroad | 23.00% | ~88,889 |
-| Upgrade complete | 23.00% | ~88,889 |
-| Builder | 17.00% | ~65,701 |
-| Just in time! | 17.00% | ~65,701 |
-| Steam Age | 16.00% | ~61,836 |
-| Long Haul | 16.00% | ~61,731 |
-| Bridgemania | 14.00% | ~54,107 |
-| Multilevel road | 14.00% | ~54,107 |
-| Need to think | 14.00% | ~54,107 |
-| The Tortoise | 12.00% | ~46,377 |
-| Without a lunch break | 11.00% | ~42,512 |
-| Beginner | 10.00% | ~38,648 |
-| Relocation | 10.00% | ~38,648 |
-| One way | 9.00% | ~34,783 |
-| Just One More Valley | 9.00% | ~34,724 |
-| Industrial Age | 8.00% | ~30,918 |
-| Prick of conscience | 8.00% | ~30,918 |
-| At the last moment! | 6.00% | ~23,189 |
-| Missed it! | 6.00% | ~23,189 |
-| Overseer | 6.00% | ~23,189 |
-| Bridge builder | 4.00% | ~15,459 |
-| Electrical Age | 4.00% | ~15,459 |
-| Highlander | 4.00% | ~15,459 |
-| Jewelry accuracy | 4.00% | ~15,459 |
-| Large construction | 4.00% | ~15,459 |
-| Stargazer | 4.00% | ~15,459 |
-| Engineer | 3.00% | ~11,594 |
-| Living it large | 3.00% | ~11,594 |
-| Sabotage | 3.00% | ~11,594 |
-| Squander | 3.00% | ~11,594 |
+| Dealmaker | 72.00% | ~278,281 |
+| Full garage | 60.00% | ~231,901 |
+| To the eyeballs! | 50.00% | ~193,251 |
+| Individual delivery | 46.00% | ~177,791 |
+| Non-Stop | 44.00% | ~170,061 |
+| Juggler | 35.00% | ~135,276 |
+| Forgot something | 34.00% | ~131,411 |
+| Close call! | 30.00% | ~115,951 |
+| Get out my way | 27.00% | ~104,356 |
+| Common cause | 25.00% | ~96,626 |
+| Critical care | 25.00% | ~96,626 |
+| Mega-railroad | 23.00% | ~88,895 |
+| Upgrade complete | 23.00% | ~88,895 |
+| Builder | 17.00% | ~65,705 |
+| Just in time! | 17.00% | ~65,705 |
+| Steam Age | 16.00% | ~61,840 |
+| Long Haul | 16.00% | ~61,735 |
+| Bridgemania | 14.00% | ~54,110 |
+| Multilevel road | 14.00% | ~54,110 |
+| Need to think | 14.00% | ~54,110 |
+| The Tortoise | 12.00% | ~46,380 |
+| Without a lunch break | 11.00% | ~42,515 |
+| Beginner | 10.00% | ~38,650 |
+| Relocation | 10.00% | ~38,650 |
+| One way | 9.00% | ~34,785 |
+| Just One More Valley | 9.00% | ~34,726 |
+| Industrial Age | 8.00% | ~30,920 |
+| Prick of conscience | 8.00% | ~30,920 |
+| At the last moment! | 6.00% | ~23,190 |
+| Missed it! | 6.00% | ~23,190 |
+| Overseer | 6.00% | ~23,190 |
+| Bridge builder | 4.00% | ~15,460 |
+| Electrical Age | 4.00% | ~15,460 |
+| Highlander | 4.00% | ~15,460 |
+| Jewelry accuracy | 4.00% | ~15,460 |
+| Large construction | 4.00% | ~15,460 |
+| Stargazer | 4.00% | ~15,460 |
+| Engineer | 3.00% | ~11,595 |
+| Living it large | 3.00% | ~11,595 |
+| Sabotage | 3.00% | ~11,595 |
+| Squander | 3.00% | ~11,595 |
 | Test Batch | 3.00% | ~11,575 |
 | Astronomer | 2.00% | ~7,730 |
 | Globalisation Age | 2.00% | ~7,730 |
@@ -61,29 +61,29 @@ Number of Ratings: 87  (23.09.2022)
 | Occupied! | 1.00% | ~3,858 |
 | Achiever | 0.80% | ~3,092 |
 | Space Age | 0.80% | ~3,092 |
-| Environmental activist | 0.70% | ~2,705 |
-| BBQ | 0.50% | ~1,932 |
-| Miscalculation | 0.50% | ~1,932 |
-| It's no coincidence | 0.30% | ~1,159 |
-| Railroad tycoon | 0.30% | ~1,159 |
-| The Hare with an espresso | 0.30% | ~1,159 |
-| Voyager | 0.30% | ~1,159 |
+| Environmental activist | 0.70% | ~2,706 |
+| BBQ | 0.50% | ~1,933 |
+| Miscalculation | 0.50% | ~1,933 |
+| It's no coincidence | 0.30% | ~1,160 |
+| Railroad tycoon | 0.30% | ~1,160 |
+| The Hare with an espresso | 0.30% | ~1,160 |
+| Voyager | 0.30% | ~1,160 |
 | Pink Ruby | 0.20% | ~772 |
-| Alchemist | 0.10% | ~386 |
+| Alchemist | 0.10% | ~387 |
 | Arcturus | 0.10% | ~386 |
 | Astrochemist | 0.10% | ~386 |
-| Astrophysicist | 0.10% | ~386 |
+| Astrophysicist | 0.10% | ~387 |
 | Atomic Age | 0.10% | ~386 |
 | Digital Age | 0.10% | ~386 |
-| Forgotten | 0.10% | ~386 |
+| Forgotten | 0.10% | ~387 |
 | Gemologist | 0.10% | ~386 |
 | Information Age | 0.10% | ~386 |
 | Jeweller | 0.10% | ~386 |
 | Miner | 0.10% | ~386 |
 | Star Sapphire | 0.10% | ~386 |
-| Tourism Age | 0.10% | ~386 |
+| Tourism Age | 0.10% | ~387 |
 | Trapiche Emerald | 0.10% | ~386 |
-| Urbanization Age | 0.10% | ~386 |
+| Urbanization Age | 0.10% | ~387 |
 | Vostok | 0.10% | ~386 |
 | Across The Infinite | 0.10% | ~386 |
 | Knowing The Ropes | 0.10% | ~386 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~386 |
 | World Zapper | 0.10% | ~386 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 386,476 (Ranked 40)  
+Progressed: 386,502 (Ranked 40)  
 Completed: 9 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,18 +192,18 @@ Completed: 9 (0.00%) (Ranked 271)
 | 2023-08-29 | 384,802 | 9 |
 | 2023-08-30 | 385,420 | 9 |
 | 2023-08-31 | 386,024 | 9 |
-| 2023-09-01 | 386,476 | 9 |
+| 2023-09-01 | 386,502 | 9 |
 ## Awards
-Max (Challenging Puzzles): 508  (Ranked 198)  
-Sum: 961 (Ranked 245)  
+Max (Challenging Puzzles): 513  (Ranked 197)  
+Sum: 970 (Ranked 244)  
 Diff (max vs sum): -47  
 | Award | Count |
 | ----- | ----- |
-| This game features Challenging Puzzles | 508 |
+| This game features Challenging Puzzles | 513 |
 | This game is Great for Beginners | 64 |
 | This game is Extremely Fun | 60 |
 | This game has Playful Visuals | 59 |
-| This game has Quickly Understood Controls | 53 |
+| This game has Quickly Understood Controls | 57 |
 | This game is Highly Recommended | 48 |
 | This game is Relaxing | 47 |
 | This game has Amazing Storytelling | 35 |
@@ -314,4 +314,4 @@ Diff (max vs sum): -47
 | 2023-08-29 | 4.40 | - | 491 | 917 |
 | 2023-08-30 | 4.40 | - | 501 | 938 |
 | 2023-08-31 | 4.40 | - | 508 | 954 |
-| 2023-09-01 | 4.40 | - | 508 | 961 |
+| 2023-09-01 | 4.40 | - | 513 | 970 |

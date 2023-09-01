@@ -12,8 +12,8 @@
 | Old movies enjoyer | 80.00% | ~240 |
 | Fitness professional | 79.00% | ~237 |
 | Depressed visitor | 78.00% | ~234 |
+| Employee of the week | 77.00% | ~231 |
 | Neurotrainer – power gainer! | 76.00% | ~228 |
-| Employee of the week | 76.00% | ~228 |
 | Your own amateur gym | 74.00% | ~222 |
 | First defeat | 73.00% | ~219 |
 | Run K, run! | 72.00% | ~216 |
@@ -21,18 +21,18 @@
 | Fighting is cool | 68.00% | ~204 |
 | No bullying more | 67.00% | ~201 |
 | Pal of your father? | 66.00% | ~198 |
-| Employee of the month | 64.00% | ~192 |
+| Employee of the month | 65.00% | ~195 |
 | Spirit of the past | 63.00% | ~189 |
 | Law student | 61.00% | ~183 |
 | Workout professional | 60.00% | ~180 |
+| Champion – starter pack | 59.00% | ~177 |
+| It's good to be alive | 59.00% | ~177 |
+| Employee of the year | 59.00% | ~177 |
+| Fight for life | 58.00% | ~174 |
 | Little hacker | 58.00% | ~174 |
-| Champion – starter pack | 58.00% | ~174 |
-| It's good to be alive | 58.00% | ~174 |
+| Handyman | 58.00% | ~174 |
+| Own four walls | 58.00% | ~174 |
 | Intriguing candies | 58.00% | ~174 |
-| Employee of the year | 58.00% | ~174 |
-| Fight for life | 57.00% | ~171 |
-| Handyman | 57.00% | ~171 |
-| Own four walls | 57.00% | ~171 |
 | Extreme neuropower! | 54.00% | ~162 |
 | Legal courier | 53.00% | ~159 |
 | Escaped from a big trouble | 50.00% | ~150 |
@@ -41,15 +41,15 @@
 | Fight is life | 44.00% | ~132 |
 | Mysterious voice | 44.00% | ~132 |
 | No blades in the gym | 43.00% | ~129 |
-| Champion – no way back | 40.00% | ~120 |
+| Champion – no way back | 41.00% | ~123 |
+| Underground dwellers | 39.00% | ~117 |
 | Responsible approach | 39.00% | ~117 |
 | Deal with life | 38.00% | ~114 |
-| Underground dwellers | 38.00% | ~114 |
+| Poisoned fighter | 38.00% | ~114 |
 | Your own way | 38.00% | ~114 |
 | Mom got better | 37.00% | ~111 |
-| Poisoned fighter | 37.00% | ~111 |
+| GYM professional | 37.00% | ~111 |
 | The die is cast | 37.00% | ~111 |
-| GYM professional | 36.00% | ~108 |
 | Get out of my apartment! | 36.00% | ~108 |
 | Seashell hunter | 35.00% | ~105 |
 | Gang wrangler | 34.00% | ~102 |

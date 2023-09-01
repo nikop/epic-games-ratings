@@ -19,6 +19,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learned | 3.00% | ~412 |
 | Mason | 3.00% | ~412 |
 | Noble | 3.00% | ~412 |
+| Pioneer | 3.00% | ~412 |
 | Strong | 3.00% | ~412 |
 | Hanging Gardens | 3.00% | ~412 |
 | Oracle | 3.00% | ~412 |
@@ -32,7 +33,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great | 2.00% | ~275 |
 | Keystone | 2.00% | ~275 |
 | Magnificent | 2.00% | ~275 |
-| Pioneer | 2.00% | ~275 |
 | Warrior | 2.00% | ~275 |
 | Wise | 2.00% | ~275 |
 | Developing Cities | 2.00% | ~275 |
@@ -84,6 +84,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Points Victory | 1.00% | ~137 |
 | Lion | 0.90% | ~124 |
 | Good Difficulty | 0.90% | ~124 |
+| Statesmen | 0.90% | ~124 |
 | Traders | 0.90% | ~124 |
 | Temple of Solomon | 0.90% | ~124 |
 | Pantheon | 0.90% | ~124 |
@@ -98,7 +99,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Invincible | 0.80% | ~110 |
 | Ready | 0.80% | ~110 |
 | Subjugator | 0.80% | ~110 |
-| Statesmen | 0.80% | ~110 |
 | Hittite Iron | 0.80% | ~110 |
 | Circus Maximus | 0.80% | ~110 |
 | Hagia Sophia | 0.80% | ~110 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,728 (Ranked 120)  
+Progressed: 13,729 (Ranked 120)  
 Completed: 5 (0.04%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -437,7 +437,7 @@ Completed: 5 (0.04%) (Ranked 240)
 | 2023-08-29 | 13,661 | 5 |
 | 2023-08-30 | 13,689 | 5 |
 | 2023-08-31 | 13,711 | 5 |
-| 2023-09-01 | 13,728 | 5 |
+| 2023-09-01 | 13,729 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 265)  
 Sum: 1,800 (Ranked 207)  

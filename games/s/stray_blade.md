@@ -30,6 +30,7 @@
 | Mirror, Mirror on the Wall | 4.00% | ~2 |
 | Sponsor | 4.00% | ~2 |
 | Defeat Ingla | 4.00% | ~2 |
+| Ancient Powers | 4.00% | ~2 |
 | Pathfinder | 4.00% | ~2 |
 | The End | 4.00% | ~2 |
 | But what of the Acreans? | 4.00% | ~2 |
@@ -37,7 +38,6 @@
 | Mountain Lover | 2.00% | ~1 |
 | Wasteland Connoisseur | 2.00% | ~1 |
 | Forest Expert | 2.00% | ~1 |
-| Ancient Powers | 2.00% | ~1 |
 | Knowledge is King | 2.00% | ~1 |
 | Wizard | 2.00% | ~1 |
 | Bookworm | 2.00% | ~1 |

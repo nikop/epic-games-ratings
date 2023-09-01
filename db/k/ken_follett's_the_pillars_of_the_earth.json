@@ -495,7 +495,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14959,
+  "EOS_Progressed": 14960,
   "EOS_Completed": 110,
   "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 0,
@@ -9335,6 +9335,11 @@
       "Time": "2023-09-01T18:06:45.5759497+00:00",
       "NumProgressed": 14959,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2023-09-01T19:07:37.1988858+00:00",
+      "NumProgressed": 14960,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 41,
@@ -9386,7 +9391,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4936
+      "UsersEstimate": 4937
     },
     {
       "ID": "tpote_achievement_15",
@@ -9418,7 +9423,7 @@
       "Name": "Friar Tuck",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 1645
+      "UsersEstimate": 1646
     },
     {
       "ID": "tpote_achievement_19",
@@ -9434,7 +9439,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 4936
+      "UsersEstimate": 4937
     },
     {
       "ID": "tpote_achievement_20",
@@ -9474,7 +9479,7 @@
       "Name": "First profit",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1645
+      "UsersEstimate": 1646
     },
     {
       "ID": "tpote_achievement_25",
@@ -9610,7 +9615,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 6133
+      "UsersEstimate": 6134
     },
     {
       "ID": "tpote_achievement_40",
@@ -9673,15 +9678,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14959,
+      "Progressed": 14960,
       "Completed": 110
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-08-03T13:08:30.3350415+00:00",
-  "LastChanged_Achievements": "2023-09-01T18:06:45.5759491+00:00",
+  "LastChanged_Achievements": "2023-09-01T19:07:37.1988853+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:35.7712512+00:00",
-  "LastUpdate_Ratings": "2023-09-01T17:59:13.9649795+00:00",
-  "LastUpdate_Achievements": "2023-09-01T18:06:45.5760184+00:00"
+  "LastUpdate_Ratings": "2023-09-01T18:59:42.4194448+00:00",
+  "LastUpdate_Achievements": "2023-09-01T19:07:37.1990066+00:00"
 }

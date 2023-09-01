@@ -4,7 +4,7 @@
   "ProductSlug": "the-entropy-centre-40bccd",
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewPlayers": 302,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -951,9 +951,9 @@
       "ID": "ACH_ACT7",
       "SetID": "2310cb1",
       "Name": "No Time To Relax",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 52
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_ACT8",
@@ -1072,8 +1072,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-09-01T18:05:18.0702973+00:00",
+  "LastChanged_Achievements": "2023-09-01T19:05:52.3762976+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:31.2998477+00:00",
-  "LastUpdate_Ratings": "2023-09-01T18:00:32.1804049+00:00",
-  "LastUpdate_Achievements": "2023-09-01T18:05:18.0703175+00:00"
+  "LastUpdate_Ratings": "2023-09-01T19:02:19.702257+00:00",
+  "LastUpdate_Achievements": "2023-09-01T19:05:52.3763388+00:00"
 }

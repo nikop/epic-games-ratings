@@ -7,7 +7,7 @@
 | A New Journey | 72.00% | ~409 |
 | The Adventure Begins | 55.00% | ~312 |
 | Swabbie | 42.00% | ~239 |
-| With Great Power… | 39.00% | ~222 |
+| With Great Power… | 40.00% | ~227 |
 | This Belongs in a Museum | 35.00% | ~199 |
 | The Gambit Has Begun | 30.00% | ~170 |
 | Powder Monkey | 28.00% | ~159 |
@@ -16,7 +16,7 @@
 | Pirates Assemble! | 20.00% | ~114 |
 | Fishy Fish | 20.00% | ~114 |
 | Buccaneer | 19.00% | ~108 |
-| Seadog | 14.00% | ~80 |
+| Seadog | 15.00% | ~85 |
 | Persistent Parasite | 13.00% | ~74 |
 | All Good Things | 12.00% | ~68 |
 | Jaded Judge | 10.00% | ~57 |

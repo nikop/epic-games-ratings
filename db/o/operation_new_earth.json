@@ -2,7 +2,7 @@
   "ID": "fa9a00f7f82846b4b820e6152b69aa55",
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
-  "Ranking_EOS_Progress": 194,
+  "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 103,
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1190,
+  "EOS_Progressed": 1192,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
@@ -4196,6 +4196,11 @@
       "Time": "2023-09-01T18:05:28.5072069+00:00",
       "NumProgressed": 1190,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-01T19:06:04.9215464+00:00",
+      "NumProgressed": 1192,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4215,7 +4220,7 @@
       "Name": "Exterminator",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ach_defeat_players_10",
@@ -4319,7 +4324,7 @@
       "Name": "Corporal",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -4383,7 +4388,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -4463,7 +4468,7 @@
       "Name": "Defenses Online",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -4510,14 +4515,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1190,
+      "Progressed": 1192,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-01T18:05:28.5072064+00:00",
+  "LastChanged_Achievements": "2023-09-01T19:06:04.9215457+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:58:05.1002416+00:00",
-  "LastUpdate_Ratings": "2023-09-01T17:59:43.8053731+00:00",
-  "LastUpdate_Achievements": "2023-09-01T18:05:28.5072499+00:00"
+  "LastUpdate_Ratings": "2023-09-01T19:00:18.070172+00:00",
+  "LastUpdate_Achievements": "2023-09-01T19:06:04.9216144+00:00"
 }

@@ -399,9 +399,9 @@
       "ID": "35",
       "SetID": "5e3maia",
       "Name": "Rescuer",
-      "Percentage": 14,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "36",
@@ -719,9 +719,9 @@
       "ID": "8",
       "SetID": "5e3maia",
       "Name": "Border Guard",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "9",
@@ -742,8 +742,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-09-01T18:06:26.3998421+00:00",
+  "LastChanged_Achievements": "2023-09-01T19:07:14.296243+00:00",
   "LastUpdate_AppInfo": "2023-08-25T22:57:10.6988807+00:00",
-  "LastUpdate_Ratings": "2023-09-01T17:59:40.5982477+00:00",
-  "LastUpdate_Achievements": "2023-09-01T18:06:26.3998994+00:00"
+  "LastUpdate_Ratings": "2023-09-01T19:00:14.606268+00:00",
+  "LastUpdate_Achievements": "2023-09-01T19:07:14.2963204+00:00"
 }

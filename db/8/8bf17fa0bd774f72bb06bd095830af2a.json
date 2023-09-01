@@ -4,7 +4,7 @@
   "ProductSlug": "the-dragoness-command-of-the-flame-b3b544",
   "Ranking_EOS_Progress": 422,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewPlayers": 339,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-08-09T23:00:00+00:00",
@@ -367,9 +367,9 @@
       "ID": "SteamAchievment_CompleteQuest11",
       "SetID": "b8gj0ip",
       "Name": "Mother of the Dragons",
-      "Percentage": 4,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SteamAchievment_CompleteQuest12",
@@ -454,8 +454,8 @@
   ],
   "FirstSeen": "2023-08-10T10:57:59.2838137+00:00",
   "FirstSeenAchievements": "2023-05-30T14:00:09.5243374+00:00",
-  "LastChanged_Achievements": "2023-09-01T18:06:37.6672868+00:00",
+  "LastChanged_Achievements": "2023-09-01T19:07:27.615521+00:00",
   "LastUpdate_AppInfo": "2023-08-29T18:57:23.3563189+00:00",
-  "LastUpdate_Ratings": "2023-09-01T18:00:08.3636828+00:00",
-  "LastUpdate_Achievements": "2023-09-01T18:06:37.6673103+00:00"
+  "LastUpdate_Ratings": "2023-09-01T19:00:50.122634+00:00",
+  "LastUpdate_Achievements": "2023-09-01T19:07:27.6155547+00:00"
 }

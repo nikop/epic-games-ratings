@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 1006,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3795,8 +3795,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-09-01T18:03:17.4483437+00:00",
+  "LastChanged_Achievements": "2023-09-01T19:03:29.2426379+00:00",
   "LastUpdate_AppInfo": "2023-08-29T06:57:19.2753876+00:00",
-  "LastUpdate_Ratings": "2023-09-01T18:00:10.3456768+00:00",
-  "LastUpdate_Achievements": "2023-09-01T18:03:17.4484118+00:00"
+  "LastUpdate_Ratings": "2023-09-01T19:00:52.7104389+00:00",
+  "LastUpdate_Achievements": "2023-09-01T19:03:29.2427273+00:00"
 }

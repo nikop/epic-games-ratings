@@ -6,13 +6,13 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~476,358 |
-| Apprentice | 58.00% | ~383,733 |
-| Close Shave | 25.00% | ~165,402 |
-| Mercenary | 23.00% | ~152,170 |
-| Ninja | 23.00% | ~152,170 |
+| The Fool | 72.00% | ~476,361 |
+| Apprentice | 58.00% | ~383,735 |
+| Close Shave | 25.00% | ~165,403 |
+| Mercenary | 23.00% | ~152,171 |
+| Ninja | 23.00% | ~152,171 |
 | Northern Scourge | 17.00% | ~112,474 |
-| Thief Bane | 14.00% | ~92,625 |
+| Thief Bane | 14.00% | ~92,626 |
 | Master of Arms | 12.00% | ~79,393 |
 | Gambler | 10.00% | ~66,161 |
 | Dice Master | 10.00% | ~66,161 |
@@ -26,8 +26,8 @@ Number of Ratings: 780  (23.09.2022)
 | Broken Heart | 7.00% | ~46,313 |
 | Adventurer | 6.00% | ~39,697 |
 | Empire's Bane | 6.00% | ~39,697 |
-| Jack of all Trades | 5.00% | ~33,080 |
-| Smithy | 5.00% | ~33,080 |
+| Jack of all Trades | 5.00% | ~33,081 |
+| Smithy | 5.00% | ~33,081 |
 | Leap of Faith | 3.00% | ~19,848 |
 | Combat Ready | 3.00% | ~19,848 |
 | Stuffed Potato | 3.00% | ~19,848 |
@@ -39,7 +39,7 @@ Number of Ratings: 780  (23.09.2022)
 | Cursed Soul | 1.00% | ~6,616 |
 | Champion | 1.00% | ~6,616 |
 | Final Death | 1.00% | ~6,616 |
-| Thomas' Bane | 0.90% | ~5,954 |
+| Thomas' Bane | 0.90% | ~5,955 |
 | Ally | 0.80% | ~5,293 |
 | Gamester | 0.70% | ~4,631 |
 | Hero | 0.60% | ~3,970 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~662 |
 | Blood Pact | 0.10% | ~662 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 661,609 (Ranked 23)  
+Progressed: 661,612 (Ranked 23)  
 Completed: 170 (0.03%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 170 (0.03%) (Ranked 247)
 | 2023-08-29 | 661,509 | 169 |
 | 2023-08-30 | 661,537 | 169 |
 | 2023-08-31 | 661,575 | 170 |
-| 2023-09-01 | 661,609 | 170 |
+| 2023-09-01 | 661,612 | 170 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 441)  
 Sum: 184 (Ranked 378)  
