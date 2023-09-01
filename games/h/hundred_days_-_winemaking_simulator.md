@@ -19,10 +19,10 @@ Number of Ratings: 7,669  (23.09.2022)
 | Exotic | 3.00% | ~14 |
 | Famous | 3.00% | ~14 |
 | A big garage | 2.00% | ~9 |
+| Big Money | 2.00% | ~9 |
 | Keep the doctor away | 2.00% | ~9 |
 | Welcome to the club | 2.00% | ~9 |
 | A lot of space | 1.00% | ~5 |
-| Big Money | 1.00% | ~5 |
 | Pastry Chef | 1.00% | ~5 |
 | King of Langhe | 1.00% | ~5 |
 | What is that? A castle? | 0.90% | ~4 |
@@ -38,14 +38,14 @@ Number of Ratings: 7,669  (23.09.2022)
 | Master Winemaker | 0.40% | ~2 |
 | Unsuitable Terroir | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 455 (Ranked 241)  
+Progressed: 457 (Ranked 240)  
 Completed: 2 (0.44%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-08-30 | 210 | 0 |
 | 2023-08-31 | 441 | 2 |
-| 2023-09-01 | 455 | 2 |
+| 2023-09-01 | 457 | 2 |
 ## Awards
 Max (Relaxing): 203  (Ranked 273)  
 Sum: 1,457 (Ranked 224)  

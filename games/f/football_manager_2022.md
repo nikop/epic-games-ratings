@@ -96,16 +96,16 @@ Number of Ratings: 19,160  (23.09.2022)
 | Club Legend | 0.30% | ~1,416 |
 | Immortality | 0.20% | ~944 |
 | Impervious | 0.20% | ~944 |
-| Draft Dominator | 0.20% | ~944 |
 | Immovable Object | 0.10% | ~472 |
 | Value For Money | 0.10% | ~472 |
 | 100 Club | 0.10% | ~472 |
 | 200 Club | 0.10% | ~472 |
+| Draft Dominator | 0.10% | ~472 |
 | Knockout King | 0.10% | ~472 |
 | Draft Value | 0.10% | ~472 |
 | Shoestring Budget | 0.10% | ~472 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 471,999 (Ranked 36)  
+Progressed: 472,001 (Ranked 36)  
 Completed: 20 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 20 (0.00%) (Ranked 270)
 | 2023-08-29 | 471,781 | 20 |
 | 2023-08-30 | 471,891 | 20 |
 | 2023-08-31 | 471,991 | 20 |
-| 2023-09-01 | 471,999 | 20 |
+| 2023-09-01 | 472,001 | 20 |
 ## Awards
 Max (Relaxing): 6,419  (Ranked 53)  
 Sum: 50,522 (Ranked 24)  

@@ -5,15 +5,15 @@ Rating: 4.49 (Ranked 581)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 82.00% | ~2,631 |
-| Snatched Out | 75.00% | ~2,407 |
+| This Is Hayes, Pioneer Station, Signing Off | 82.00% | ~2,632 |
+| Snatched Out | 75.00% | ~2,408 |
 | Keep 'Em Coming | 74.00% | ~2,375 |
-| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,150 |
+| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,151 |
 | Call Me Snake | 63.00% | ~2,022 |
-| Something Lurks Under The Hills | 61.00% | ~1,957 |
-| This Was No Papercut | 60.00% | ~1,925 |
-| The Shrink Hates Me | 57.00% | ~1,829 |
-| People Person | 56.00% | ~1,797 |
+| Something Lurks Under The Hills | 61.00% | ~1,958 |
+| This Was No Papercut | 60.00% | ~1,926 |
+| The Shrink Hates Me | 57.00% | ~1,830 |
+| People Person | 56.00% | ~1,798 |
 | Use The Bumper, That's What It's For | 53.00% | ~1,701 |
 | First Steps Into Madness | 53.00% | ~1,701 |
 | Colonial Barrels | 51.00% | ~1,637 |
@@ -27,8 +27,8 @@ Rating: 4.49 (Ranked 581)
 | Living Nightmare | 33.00% | ~1,059 |
 | The Darwin Era Was Here | 29.00% | ~931 |
 | Deep Into Insanity | 28.00% | ~899 |
-| The Passenger | 27.00% | ~866 |
-| Come on, You Wanna Live Forever? | 26.00% | ~834 |
+| The Passenger | 27.00% | ~867 |
+| Come on, You Wanna Live Forever? | 26.00% | ~835 |
 | The Spire | 24.00% | ~770 |
 | Stuff Of Nightmares | 23.00% | ~738 |
 | El Riesgo Siempre Vive | 23.00% | ~738 |
@@ -38,7 +38,7 @@ Rating: 4.49 (Ranked 581)
 | Abysmal Horrors | 20.00% | ~642 |
 | The Cable Guy | 19.00% | ~610 |
 | Bandage Lover | 18.00% | ~578 |
-| Regicide | 15.00% | ~481 |
+| Regicide | 15.00% | ~482 |
 | This Went Smoothly | 13.00% | ~417 |
 | Flawless Victory | 12.00% | ~385 |
 | Heavy Steps | 12.00% | ~385 |
@@ -51,7 +51,7 @@ Rating: 4.49 (Ranked 581)
 | This Ain't No Picnic | 0.70% | ~22 |
 | Chalk It Up To Experience | 0.70% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,209 (Ranked 156)  
+Progressed: 3,210 (Ranked 156)  
 Completed: 3 (0.09%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 3 (0.09%) (Ranked 221)
 | 2023-08-28 | 3,198 | 3 |
 | 2023-08-30 | 3,202 | 3 |
 | 2023-08-31 | 3,208 | 3 |
-| 2023-09-01 | 3,209 | 3 |
+| 2023-09-01 | 3,210 | 3 |
 ## Awards
 Max (Great Boss Battles): 26  (Ranked 477)  
 Sum: 26 (Ranked 485)  

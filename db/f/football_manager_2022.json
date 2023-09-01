@@ -6977,9 +6977,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 471999,
+  "EOS_Progressed": 472001,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 696,
+  "EOS_NewPlayers": 697,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21072,6 +21072,11 @@
       "Time": "2023-09-01T01:51:47.2550392+00:00",
       "NumProgressed": 471999,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-09-01T02:24:52.9551771+00:00",
+      "NumProgressed": 472001,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 98,
@@ -21801,9 +21806,9 @@
       "ID": "fantasy_draft_draft_dominator",
       "SetID": "8k91p5b",
       "Name": "Draft Dominator",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 944
+      "UsersEstimate": 472
     },
     {
       "ID": "fantasy_draft_draft_rivalry",
@@ -21866,15 +21871,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 471999,
+      "Progressed": 472001,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-08-31T22:59:23.6960695+00:00",
-  "LastChanged_Achievements": "2023-09-01T01:51:47.2550382+00:00",
+  "LastChanged_Achievements": "2023-09-01T02:24:52.9551761+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:59.3598008+00:00",
-  "LastUpdate_Ratings": "2023-09-01T01:46:18.616153+00:00",
-  "LastUpdate_Achievements": "2023-09-01T01:51:47.2554095+00:00"
+  "LastUpdate_Ratings": "2023-09-01T02:19:11.6774234+00:00",
+  "LastUpdate_Achievements": "2023-09-01T02:24:52.9553699+00:00"
 }

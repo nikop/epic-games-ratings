@@ -6,19 +6,19 @@ Rating: 4.76 (Ranked 116)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First of Many | 9.00% | ~15,412 |
-| The Killing Jar | 8.00% | ~13,699 |
-| Not Your Average Trait | 8.00% | ~13,699 |
-| Expanding Horizons | 7.00% | ~11,987 |
-| Quest for Survival | 7.00% | ~11,987 |
-| Boss'n Up | 7.00% | ~11,987 |
-| Trait Chaser | 7.00% | ~11,987 |
-| Gleaming the Cube | 6.00% | ~10,274 |
-| Not a Janitor | 6.00% | ~10,274 |
-| Familiar Face | 6.00% | ~10,274 |
-| Blue Goddess | 6.00% | ~10,274 |
-| Duality | 6.00% | ~10,274 |
-| Top Performer | 6.00% | ~10,274 |
-| Good, But Could Be Better! | 6.00% | ~10,274 |
+| The Killing Jar | 8.00% | ~13,700 |
+| Not Your Average Trait | 8.00% | ~13,700 |
+| Expanding Horizons | 7.00% | ~11,988 |
+| Quest for Survival | 7.00% | ~11,988 |
+| Boss'n Up | 7.00% | ~11,988 |
+| Trait Chaser | 7.00% | ~11,988 |
+| Gleaming the Cube | 6.00% | ~10,275 |
+| Not a Janitor | 6.00% | ~10,275 |
+| Familiar Face | 6.00% | ~10,275 |
+| Blue Goddess | 6.00% | ~10,275 |
+| Duality | 6.00% | ~10,275 |
+| Top Performer | 6.00% | ~10,275 |
+| Good, But Could Be Better! | 6.00% | ~10,275 |
 | Not So Special Now | 5.00% | ~8,562 |
 | Equal Measures | 5.00% | ~8,562 |
 | Shhh...It's a Secret | 5.00% | ~8,562 |
@@ -33,14 +33,14 @@ Rating: 4.76 (Ranked 116)
 | Was This Supposed To Happen? | 4.00% | ~6,850 |
 | The Web | 4.00% | ~6,850 |
 | All These Traits� | 4.00% | ~6,850 |
-| Forever is a Long Time Coming | 3.00% | ~5,137 |
-| The Agenda | 3.00% | ~5,137 |
-| Bad Moon Rising | 3.00% | ~5,137 |
-| Strapped | 3.00% | ~5,137 |
-| Edgelord | 3.00% | ~5,137 |
-| Scrap Collector | 3.00% | ~5,137 |
-| The Ultimate Weapon | 3.00% | ~5,137 |
-| No One Should Have All That Power | 3.00% | ~5,137 |
+| Forever is a Long Time Coming | 3.00% | ~5,138 |
+| The Agenda | 3.00% | ~5,138 |
+| Bad Moon Rising | 3.00% | ~5,138 |
+| Strapped | 3.00% | ~5,138 |
+| Edgelord | 3.00% | ~5,138 |
+| Scrap Collector | 3.00% | ~5,138 |
+| The Ultimate Weapon | 3.00% | ~5,138 |
+| No One Should Have All That Power | 3.00% | ~5,138 |
 | Crafty | 2.00% | ~3,425 |
 | Am I Seeing This? | 2.00% | ~3,425 |
 | Only Human | 2.00% | ~3,425 |
@@ -56,7 +56,7 @@ Rating: 4.76 (Ranked 116)
 | Ghost in the Machine | 0.80% | ~1,370 |
 | Proving Grounds | 0.80% | ~1,370 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 171,240 (Ranked 63)  
+Progressed: 171,250 (Ranked 63)  
 Completed: 187 (0.11%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 187 (0.11%) (Ranked 214)
 | 2023-08-29 | 169,673 | 169 |
 | 2023-08-30 | 170,451 | 178 |
 | 2023-08-31 | 171,187 | 186 |
-| 2023-09-01 | 171,240 | 187 |
+| 2023-09-01 | 171,250 | 187 |
 ## Awards
 Max (Great Boss Battles): 1,306  (Ranked 132)  
 Sum: 2,350 (Ranked 186)  

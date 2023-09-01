@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 485,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -300,9 +300,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 3209,
+  "EOS_Progressed": 3210,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4025,6 +4025,11 @@
       "Time": "2023-09-01T00:06:16.9693449+00:00",
       "NumProgressed": 3209,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-01T02:26:35.1987415+00:00",
+      "NumProgressed": 3210,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -4140,7 +4145,7 @@
       "Name": "Regicide",
       "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "ACH_KILL_UNDETECTED",
@@ -4156,7 +4161,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 2150
+      "UsersEstimate": 2151
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -4212,7 +4217,7 @@
       "Name": "Come on, You Wanna Live Forever?",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "ACH_MAX_TECKER",
@@ -4228,7 +4233,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 1957
+      "UsersEstimate": 1958
     },
     {
       "ID": "ACH_MISSION_02",
@@ -4292,7 +4297,7 @@
       "Name": "The Passenger",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 866
+      "UsersEstimate": 867
     },
     {
       "ID": "ACH_MISSION_10",
@@ -4332,7 +4337,7 @@
       "Name": "Snatched Out",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 2407
+      "UsersEstimate": 2408
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -4340,7 +4345,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 2631
+      "UsersEstimate": 2632
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -4348,7 +4353,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1925
+      "UsersEstimate": 1926
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -4356,7 +4361,7 @@
       "Name": "People Person",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 1797
+      "UsersEstimate": 1798
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -4388,14 +4393,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 1829
+      "UsersEstimate": 1830
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3209,
+      "Progressed": 3210,
       "Completed": 3
     }
   ],
@@ -4403,8 +4408,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-08-31T19:59:01.3757088+00:00",
-  "LastChanged_Achievements": "2023-09-01T01:53:48.0409892+00:00",
+  "LastChanged_Achievements": "2023-09-01T02:26:35.198741+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:04.9559458+00:00",
-  "LastUpdate_Ratings": "2023-09-01T01:45:15.0376299+00:00",
-  "LastUpdate_Achievements": "2023-09-01T01:53:48.0410946+00:00"
+  "LastUpdate_Ratings": "2023-09-01T02:18:16.6450666+00:00",
+  "LastUpdate_Achievements": "2023-09-01T02:26:35.1988138+00:00"
 }

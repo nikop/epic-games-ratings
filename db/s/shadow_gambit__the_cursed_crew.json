@@ -1418,9 +1418,9 @@
       "ID": "_20_CrewTale_TPB",
       "SetID": "8a1io5d",
       "Name": "Fishy Fish",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 112
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -1481,8 +1481,8 @@
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-09-01T01:52:12.8550584+00:00",
+  "LastChanged_Achievements": "2023-09-01T02:25:14.3112185+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:45.1302228+00:00",
-  "LastUpdate_Ratings": "2023-09-01T01:43:23.6292024+00:00",
-  "LastUpdate_Achievements": "2023-09-01T01:52:12.855107+00:00"
+  "LastUpdate_Ratings": "2023-09-01T02:16:41.8147235+00:00",
+  "LastUpdate_Achievements": "2023-09-01T02:25:14.3112425+00:00"
 }

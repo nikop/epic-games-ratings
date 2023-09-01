@@ -5,13 +5,13 @@ Rating: 4.24 (Ranked 840)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 48.00% | ~350,159 |
-| Well educated | 37.00% | ~269,914 |
-| City Planner | 19.00% | ~138,604 |
-| Deforester | 17.00% | ~124,014 |
-| Big Hauling | 16.00% | ~116,720 |
-| Apprentice Manufacturer | 13.00% | ~94,835 |
-| Exporter | 13.00% | ~94,835 |
+| Entrepreneur | 48.00% | ~350,162 |
+| Well educated | 37.00% | ~269,916 |
+| City Planner | 19.00% | ~138,606 |
+| Deforester | 17.00% | ~124,016 |
+| Big Hauling | 16.00% | ~116,721 |
+| Apprentice Manufacturer | 13.00% | ~94,836 |
+| Exporter | 13.00% | ~94,836 |
 | I would drive 500 tiles... | 12.00% | ~87,540 |
 | Landscaper | 12.00% | ~87,540 |
 | Railwayman | 8.00% | ~58,360 |
@@ -23,17 +23,17 @@ Rating: 4.24 (Ranked 840)
 | Captain | 0.80% | ~5,836 |
 | Billionaire | 0.60% | ~4,377 |
 | Vroom Vroom | 0.40% | ~2,918 |
-| Excavator | 0.30% | ~2,188 |
-| Loan Ranger | 0.30% | ~2,188 |
-| [2130] Nature Lover | 0.10% | ~729 |
-| [2130] No Quarter Given | 0.10% | ~729 |
-| [2130] Dumpster Diving | 0.10% | ~729 |
-| Freelancer | 0.10% | ~729 |
-| Director | 0.10% | ~729 |
-| Master Builder | 0.10% | ~729 |
-| Hard working | 0.10% | ~729 |
+| Excavator | 0.30% | ~2,189 |
+| Loan Ranger | 0.30% | ~2,189 |
+| [2130] Nature Lover | 0.10% | ~730 |
+| [2130] No Quarter Given | 0.10% | ~730 |
+| [2130] Dumpster Diving | 0.10% | ~730 |
+| Freelancer | 0.10% | ~730 |
+| Director | 0.10% | ~730 |
+| Master Builder | 0.10% | ~730 |
+| Hard working | 0.10% | ~730 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 729,497 (Ranked 18)  
+Progressed: 729,504 (Ranked 18)  
 Completed: 3 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 3 (0.00%) (Ranked 270)
 | 2023-08-29 | 728,806 | 3 |
 | 2023-08-30 | 729,120 | 3 |
 | 2023-08-31 | 729,465 | 3 |
-| 2023-09-01 | 729,497 | 3 |
+| 2023-09-01 | 729,504 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
