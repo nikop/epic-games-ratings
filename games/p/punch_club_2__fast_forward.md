@@ -33,8 +33,8 @@
 | Own four walls | 57.00% | ~170 |
 | Employee of the year | 57.00% | ~170 |
 | Fight for life | 56.00% | ~167 |
+| Legal courier | 53.00% | ~158 |
 | Extreme neuropower! | 53.00% | ~158 |
-| Legal courier | 52.00% | ~155 |
 | Escaped from a big trouble | 49.00% | ~146 |
 | Now you are worthy | 48.00% | ~143 |
 | Guiding on the right path | 45.00% | ~134 |

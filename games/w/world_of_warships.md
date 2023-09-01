@@ -6,24 +6,24 @@ Number of Ratings: 4,733  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 88.00% | ~13,461 |
-| Initial Capital | 80.00% | ~12,238 |
-| Moneybags | 62.00% | ~9,484 |
-| Junior Supply Officer | 62.00% | ~9,484 |
-| Naval Warfare. Arson | 48.00% | ~7,343 |
-| Naval Constructor | 47.00% | ~7,190 |
-| Amateur | 46.00% | ~7,037 |
-| Naval Warfare. Ramming | 45.00% | ~6,884 |
-| Naval Warfare. Tactics | 45.00% | ~6,884 |
-| Naval Warfare. Weaponry Basics | 36.00% | ~5,507 |
-| Business Magnate | 31.00% | ~4,742 |
-| Naval Warfare. Lucky Shot | 31.00% | ~4,742 |
-| Naval Warfare. Flooding | 30.00% | ~4,589 |
-| Battle Hero | 26.00% | ~3,977 |
-| Supply Officer | 26.00% | ~3,977 |
-| Smooth Supply | 25.00% | ~3,824 |
-| Warrior | 23.00% | ~3,518 |
-| Veteran | 16.00% | ~2,448 |
+| Junior Naval Designer | 88.00% | ~13,469 |
+| Initial Capital | 80.00% | ~12,245 |
+| Moneybags | 62.00% | ~9,490 |
+| Junior Supply Officer | 62.00% | ~9,490 |
+| Naval Warfare. Arson | 48.00% | ~7,347 |
+| Naval Constructor | 47.00% | ~7,194 |
+| Amateur | 45.00% | ~6,888 |
+| Naval Warfare. Ramming | 45.00% | ~6,888 |
+| Naval Warfare. Tactics | 45.00% | ~6,888 |
+| Naval Warfare. Weaponry Basics | 36.00% | ~5,510 |
+| Business Magnate | 31.00% | ~4,745 |
+| Naval Warfare. Lucky Shot | 31.00% | ~4,745 |
+| Naval Warfare. Flooding | 30.00% | ~4,592 |
+| Battle Hero | 26.00% | ~3,980 |
+| Supply Officer | 26.00% | ~3,980 |
+| Smooth Supply | 25.00% | ~3,826 |
+| Warrior | 23.00% | ~3,520 |
+| Veteran | 16.00% | ~2,449 |
 | Legend of the Seas | 8.00% | ~1,224 |
 | Chief Naval Architect | 8.00% | ~1,224 |
 | Shield | 8.00% | ~1,224 |
@@ -51,7 +51,7 @@ Number of Ratings: 4,733  (23.09.2022)
 | "Yamamoto Isoroku" with Honors | 0.00% | ~0 |
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,297 (Ranked 118)  
+Progressed: 15,306 (Ranked 118)  
 Completed: 0 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,7 +70,7 @@ Completed: 0 (0.00%) (Ranked 270)
 | 2023-08-29 | 13,942 | 0 |
 | 2023-08-30 | 14,542 | 0 |
 | 2023-08-31 | 15,209 | 0 |
-| 2023-09-01 | 15,297 | 0 |
+| 2023-09-01 | 15,306 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 1,293  (Ranked 133)  
 Sum: 10,649 (Ranked 82)  

@@ -1946,7 +1946,7 @@
   ],
   "EOS_Progressed": 25467,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -12081,9 +12081,9 @@
       "ID": "Swift_Removers",
       "SetID": "819popo",
       "Name": "Swift Rift Removers",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 13498
+      "UsersEstimate": 13752
     },
     {
       "ID": "Teamwork",
@@ -12170,8 +12170,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-01T01:44:13.8720333+00:00",
-  "LastChanged_Achievements": "2023-09-01T02:24:16.6725247+00:00",
+  "LastChanged_Achievements": "2023-09-01T03:05:00.7818187+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:16.4521861+00:00",
-  "LastUpdate_Ratings": "2023-09-01T02:17:24.7806651+00:00",
-  "LastUpdate_Achievements": "2023-09-01T02:24:16.6726299+00:00"
+  "LastUpdate_Ratings": "2023-09-01T02:58:20.816403+00:00",
+  "LastUpdate_Achievements": "2023-09-01T03:05:00.7819181+00:00"
 }

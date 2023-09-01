@@ -7,9 +7,9 @@ Number of Ratings: 1,316  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wallbanger | 5.00% | ~21,942 |
-| Exploitative | 4.00% | ~17,553 |
-| Point Shooting | 4.00% | ~17,553 |
-| Wet Feet | 4.00% | ~17,553 |
+| Exploitative | 4.00% | ~17,554 |
+| Point Shooting | 4.00% | ~17,554 |
+| Wet Feet | 4.00% | ~17,554 |
 | High Speed Low Drag | 3.00% | ~13,165 |
 | Lucky | 3.00% | ~13,165 |
 | Stylin' | 3.00% | ~13,165 |
@@ -23,10 +23,10 @@ Number of Ratings: 1,316  (23.09.2022)
 | Blindfire | 1.00% | ~4,388 |
 | Ruthless | 1.00% | ~4,388 |
 | Semper Paratus | 1.00% | ~4,388 |
-| Carrying | 0.90% | ~3,949 |
-| Efficient | 0.90% | ~3,949 |
-| Mount & Gun | 0.90% | ~3,949 |
-| Personal | 0.90% | ~3,949 |
+| Carrying | 0.90% | ~3,950 |
+| Efficient | 0.90% | ~3,950 |
+| Mount & Gun | 0.90% | ~3,950 |
+| Personal | 0.90% | ~3,950 |
 | Grounded | 0.80% | ~3,511 |
 | Play to Win | 0.80% | ~3,511 |
 | #1 | 0.70% | ~3,072 |
@@ -34,15 +34,15 @@ Number of Ratings: 1,316  (23.09.2022)
 | Firefight Victory | 0.60% | ~2,633 |
 | Cinematic | 0.50% | ~2,194 |
 | Thanks Station! | 0.40% | ~1,755 |
-| Knock Knock | 0.30% | ~1,316 |
-| There For You | 0.30% | ~1,316 |
+| Knock Knock | 0.30% | ~1,317 |
+| There For You | 0.30% | ~1,317 |
 | Hit and Run | 0.20% | ~878 |
 | Designated Driver | 0.10% | ~439 |
 | J.R. .50 | 0.10% | ~439 |
 | It's All in the Reflexes | 0.10% | ~439 |
 | Road Hazard | 0.10% | ~439 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 438,832 (Ranked 38)  
+Progressed: 438,843 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 2 (0.00%) (Ranked 270)
 | 2023-08-29 | 438,134 | 2 |
 | 2023-08-30 | 438,458 | 2 |
 | 2023-08-31 | 438,774 | 2 |
-| 2023-09-01 | 438,832 | 2 |
+| 2023-09-01 | 438,843 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 377  (Ranked 223)  
 Sum: 2,938 (Ranked 167)  

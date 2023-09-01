@@ -952,11 +952,11 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 457,
+  "EOS_Progressed": 462,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 452,
+  "EOS_NewPlayers": 457,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 0.44,
+  "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
     {
       "Time": "2023-08-30T11:07:13.7661076+00:00",
@@ -1157,6 +1157,11 @@
       "Time": "2023-09-01T02:26:20.2295957+00:00",
       "NumProgressed": 457,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-01T03:07:02.0431042+00:00",
+      "NumProgressed": 462,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -1217,7 +1222,7 @@
       "Name": "Bye Bye",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 123
+      "UsersEstimate": 125
     },
     {
       "ID": "a_19",
@@ -1225,7 +1230,7 @@
       "Name": "Bonjour!",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "a_2",
@@ -1257,7 +1262,7 @@
       "Name": "A long journey",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "a_23",
@@ -1271,9 +1276,9 @@
       "ID": "a_25",
       "SetID": "daiie3o",
       "Name": "Better than nothing?",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 14
     },
     {
       "ID": "a_26",
@@ -1327,7 +1332,7 @@
       "ID": "a_32",
       "SetID": "daiie3o",
       "Name": "Sales Expert",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -1383,7 +1388,7 @@
       "ID": "a_6",
       "SetID": "daiie3o",
       "Name": "Gem of Monferrato",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -1391,7 +1396,7 @@
       "ID": "a_7",
       "SetID": "daiie3o",
       "Name": "Knight of Langhe",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -1407,7 +1412,7 @@
       "ID": "a_9",
       "SetID": "daiie3o",
       "Name": "Very Important Winemaker",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 75,
       "UsersEstimate": 3
     }
@@ -1416,7 +1421,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 457,
+      "Progressed": 462,
       "Completed": 2
     }
   ],
@@ -1424,8 +1429,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-08-28T14:01:21.7581903+00:00",
-  "LastChanged_Achievements": "2023-09-01T02:26:20.229595+00:00",
+  "LastChanged_Achievements": "2023-09-01T03:07:02.0431036+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:37.0274623+00:00",
-  "LastUpdate_Ratings": "2023-09-01T02:16:09.8127945+00:00",
-  "LastUpdate_Achievements": "2023-09-01T02:26:20.2296201+00:00"
+  "LastUpdate_Ratings": "2023-09-01T02:57:08.5524228+00:00",
+  "LastUpdate_Achievements": "2023-09-01T03:07:02.0431403+00:00"
 }

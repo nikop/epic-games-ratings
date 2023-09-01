@@ -6,10 +6,10 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 80.00% | ~528,420 |
+| The dream begins | 80.00% | ~528,421 |
 | Every story has a beginning | 36.00% | ~237,789 |
 | The first of many | 31.00% | ~204,763 |
-| Positive word of mouth | 18.00% | ~118,894 |
+| Positive word of mouth | 18.00% | ~118,895 |
 | Lawn in the U.S.A. | 15.00% | ~99,079 |
 | Blade Runner | 9.00% | ~59,447 |
 | Credible | 7.00% | ~46,237 |
@@ -20,12 +20,12 @@ Number of Ratings: 5,086  (23.09.2022)
 | Size isn't everything | 3.00% | ~19,816 |
 | Close shave | 3.00% | ~19,816 |
 | Established | 3.00% | ~19,816 |
-| Fighting on all fronts | 2.00% | ~13,210 |
-| Mighty Mowing Park Ranger | 2.00% | ~13,210 |
-| Every good deed… | 2.00% | ~13,210 |
-| Leaner and meaner | 2.00% | ~13,210 |
-| First step on the ladder | 2.00% | ~13,210 |
-| Trusted | 2.00% | ~13,210 |
+| Fighting on all fronts | 2.00% | ~13,211 |
+| Mighty Mowing Park Ranger | 2.00% | ~13,211 |
+| Every good deed… | 2.00% | ~13,211 |
+| Leaner and meaner | 2.00% | ~13,211 |
+| First step on the ladder | 2.00% | ~13,211 |
+| Trusted | 2.00% | ~13,211 |
 | The top of the mountain | 1.00% | ~6,605 |
 | Earn your stripes | 0.90% | ~5,945 |
 | Lawn & Order | 0.90% | ~5,945 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~661 |
 | Mo mowers, mo problems | 0.10% | ~661 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 660,525 (Ranked 24)  
+Progressed: 660,526 (Ranked 24)  
 Completed: 16 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 16 (0.00%) (Ranked 270)
 | 2023-08-29 | 659,885 | 15 |
 | 2023-08-30 | 660,189 | 16 |
 | 2023-08-31 | 660,496 | 16 |
-| 2023-09-01 | 660,525 | 16 |
+| 2023-09-01 | 660,526 | 16 |
 ## Awards
 Max (Quickly Understood Controls): 181  (Ranked 282)  
 Sum: 977 (Ranked 240)  

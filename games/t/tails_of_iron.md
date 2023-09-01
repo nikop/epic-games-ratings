@@ -7,8 +7,8 @@ Rating: 4.53 (Ranked 518)
 | ---- | ---------- | ----- |
 | Complete Guard Faction | 81.00% | ~1,524 |
 | Become King | 73.00% | ~1,373 |
+| Defeat 25 Frogs | 63.00% | ~1,185 |
 | Ranged Weapon | 62.00% | ~1,166 |
-| Defeat 25 Frogs | 62.00% | ~1,166 |
 | Collect Monster Parts | 58.00% | ~1,091 |
 | Two Handed Weapon | 57.00% | ~1,072 |
 | Defeat 25 Grubs | 53.00% | ~997 |
@@ -37,7 +37,7 @@ Rating: 4.53 (Ranked 518)
 | A new Warchief rises | 0.80% | ~15 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,881 (Ranked 174)  
-Completed: 8 (0.43%) (Ranked 162)  
+Completed: 8 (0.43%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

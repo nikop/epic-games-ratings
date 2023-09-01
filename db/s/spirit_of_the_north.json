@@ -324,9 +324,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 67551,
+  "EOS_Progressed": 67553,
   "EOS_Completed": 350,
-  "EOS_NewPlayers": 789,
+  "EOS_NewPlayers": 787,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -14849,6 +14849,11 @@
       "Time": "2023-09-01T01:53:38.1288506+00:00",
       "NumProgressed": 67551,
       "NumCompleted": 350
+    },
+    {
+      "Time": "2023-09-01T03:07:08.3799131+00:00",
+      "NumProgressed": 67553,
+      "NumCompleted": 350
     }
   ],
   "TotalAchievements": 24,
@@ -14876,7 +14881,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 45935
+      "UsersEstimate": 45936
     },
     {
       "ID": "BEST_FRIENDS",
@@ -14884,7 +14889,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 14861
+      "UsersEstimate": 14862
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -14892,7 +14897,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 17563
+      "UsersEstimate": 17564
     },
     {
       "ID": "ERADICATE",
@@ -14932,7 +14937,7 @@
       "Name": "GARDEN OF LIGHT",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 12159
+      "UsersEstimate": 12160
     },
     {
       "ID": "INFUSED_WITH_LIGHT",
@@ -14940,7 +14945,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 35802
+      "UsersEstimate": 35803
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -15051,7 +15056,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 67551,
+      "Progressed": 67553,
       "Completed": 350
     }
   ],
@@ -15059,8 +15064,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-09-01T02:26:26.5797671+00:00",
+  "LastChanged_Achievements": "2023-09-01T03:07:08.3799124+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:56.7708219+00:00",
-  "LastUpdate_Ratings": "2023-09-01T02:17:59.3548159+00:00",
-  "LastUpdate_Achievements": "2023-09-01T02:26:26.5798901+00:00"
+  "LastUpdate_Ratings": "2023-09-01T02:58:55.8625364+00:00",
+  "LastUpdate_Achievements": "2023-09-01T03:07:08.3800999+00:00"
 }

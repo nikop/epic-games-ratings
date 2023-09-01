@@ -756,9 +756,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 219835,
+  "EOS_Progressed": 219842,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3016,
+  "EOS_NewPlayers": 3010,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9081,6 +9081,11 @@
       "Time": "2023-09-01T02:23:38.1819939+00:00",
       "NumProgressed": 219835,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-01T03:04:22.3558708+00:00",
+      "NumProgressed": 219842,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -9474,9 +9479,9 @@
       "ID": "DifficultyStory",
       "SetID": "50chcgj",
       "Name": "A tale of adventurers not quite like the others...",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1759
+      "UsersEstimate": 1979
     },
     {
       "ID": "Dwarf30Insult",
@@ -9540,7 +9545,7 @@
       "Name": "Sowwy!",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 57157
+      "UsersEstimate": 57159
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -9795,21 +9800,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 219835,
+      "Progressed": 219842,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 219835,
+      "Progressed": 219842,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-31T13:57:26.1389463+00:00",
-  "LastChanged_Achievements": "2023-09-01T02:23:38.1819936+00:00",
+  "LastChanged_Achievements": "2023-09-01T03:04:22.35587+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:41.9661267+00:00",
-  "LastUpdate_Ratings": "2023-09-01T02:16:50.174102+00:00",
-  "LastUpdate_Achievements": "2023-09-01T02:23:38.1821414+00:00"
+  "LastUpdate_Ratings": "2023-09-01T02:57:45.5307372+00:00",
+  "LastUpdate_Achievements": "2023-09-01T03:04:22.3560217+00:00"
 }

@@ -880,9 +880,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 661579,
+  "EOS_Progressed": 661580,
   "EOS_Completed": 170,
-  "EOS_NewPlayers": 330,
+  "EOS_NewPlayers": 329,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13525,6 +13525,11 @@
       "Time": "2023-09-01T02:26:53.7139328+00:00",
       "NumProgressed": 661579,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-09-01T03:07:35.6907333+00:00",
+      "NumProgressed": 661580,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 48,
@@ -13536,7 +13541,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 476337
+      "UsersEstimate": 476338
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -13688,7 +13693,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 112468
+      "UsersEstimate": 112469
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -13776,7 +13781,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 79389
+      "UsersEstimate": 79390
     },
     {
       "ID": "Achievement_32_Karma",
@@ -13919,15 +13924,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 661579,
+      "Progressed": 661580,
       "Completed": 170
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-08-25T17:00:16.792448+00:00",
-  "LastChanged_Achievements": "2023-09-01T02:26:53.7139322+00:00",
+  "LastChanged_Achievements": "2023-09-01T03:07:35.6907327+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:22.0497359+00:00",
   "LastUpdate_Ratings": "2023-09-01T02:20:33.0833481+00:00",
-  "LastUpdate_Achievements": "2023-09-01T02:26:53.7140535+00:00"
+  "LastUpdate_Achievements": "2023-09-01T03:07:35.6908956+00:00"
 }

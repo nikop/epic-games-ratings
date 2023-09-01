@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 160,
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewPlayers": 54,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
@@ -2668,9 +2668,9 @@
       "Count": 239
     }
   ],
-  "EOS_Progressed": 74069,
+  "EOS_Progressed": 74071,
   "EOS_Completed": 96,
-  "EOS_NewPlayers": 968,
+  "EOS_NewPlayers": 967,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -17308,6 +17308,11 @@
       "Time": "2023-09-01T02:22:50.2607535+00:00",
       "NumProgressed": 74069,
       "NumCompleted": 96
+    },
+    {
+      "Time": "2023-09-01T03:03:24.2430579+00:00",
+      "NumProgressed": 74071,
+      "NumCompleted": 96
     }
   ],
   "TotalAchievements": 30,
@@ -17319,7 +17324,7 @@
       "Name": "First Journey",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 8888
+      "UsersEstimate": 8889
     },
     {
       "ID": "ACHIEVEMENT_01",
@@ -17351,7 +17356,7 @@
       "Name": "No Longer Red",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 13332
+      "UsersEstimate": 13333
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -17407,7 +17412,7 @@
       "Name": "Changing the Planet",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 20739
+      "UsersEstimate": 20740
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -17415,7 +17420,7 @@
       "Name": "Prop-M Rover",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 23702
+      "UsersEstimate": 23703
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -17471,7 +17476,7 @@
       "Name": "Winner Winner Terraformer",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 16295
+      "UsersEstimate": 16296
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -17519,7 +17524,7 @@
       "Name": "Hellenic Elysium",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 8888
+      "UsersEstimate": 8889
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -17535,7 +17540,7 @@
       "Name": "Grand champion",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 8888
+      "UsersEstimate": 8889
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -17558,15 +17563,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 74069,
+      "Progressed": 74071,
       "Completed": 96
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-08-31T21:57:24.2682281+00:00",
-  "LastChanged_Achievements": "2023-09-01T02:22:50.2607528+00:00",
+  "LastChanged_Achievements": "2023-09-01T03:03:24.2430572+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:03.9547788+00:00",
-  "LastUpdate_Ratings": "2023-09-01T02:16:42.8224166+00:00",
-  "LastUpdate_Achievements": "2023-09-01T02:22:50.2608839+00:00"
+  "LastUpdate_Ratings": "2023-09-01T02:57:38.5941766+00:00",
+  "LastUpdate_Achievements": "2023-09-01T03:03:24.2431622+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "mythforce-d2710b",
   "Ranking_Rating": 581,
   "Ranking_Popularity": 456,
-  "Ranking_PopularitySum": 354,
+  "Ranking_PopularitySum": 353,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 115,
@@ -3538,8 +3538,8 @@
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-08-19T00:01:25.4224345+00:00",
-  "LastChanged_Achievements": "2023-09-01T02:22:37.1989786+00:00",
+  "LastChanged_Achievements": "2023-09-01T03:03:11.2577996+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:13.6724499+00:00",
-  "LastUpdate_Ratings": "2023-09-01T02:17:07.9573746+00:00",
-  "LastUpdate_Achievements": "2023-09-01T02:22:37.1990138+00:00"
+  "LastUpdate_Ratings": "2023-09-01T02:58:04.0082419+00:00",
+  "LastUpdate_Achievements": "2023-09-01T03:03:11.2578597+00:00"
 }
