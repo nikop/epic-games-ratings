@@ -3,7 +3,7 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.00% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.90% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 35.20% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 34.92% |
 | 5 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 33.33% |
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.95% |
 | 7 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
@@ -92,8 +92,8 @@
 | 90 | [Bloodshore](games/b/bloodshore.md) | 2.19% |
 | 91 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
 | 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.05% |
-| 93 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 2.04% |
-| 94 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.00% |
+| 93 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.00% |
+| 93 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 2.00% |
 | 95 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
 | 96 | [Night Book](games/n/night_book.md) | 1.86% |
 | 97 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.85% |
@@ -103,7 +103,7 @@
 | 101 | [Frogun](games/f/frogun.md) | 1.80% |
 | 102 | [Somerville](games/s/somerville.md) | 1.66% |
 | 103 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.64% |
-| 104 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 1.59% |
+| 104 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 1.58% |
 | 105 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.56% |
 | 105 | [Iron Danger](games/i/iron_danger.md) | 1.56% |
 | 107 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.55% |
@@ -117,16 +117,16 @@
 | 115 | [Infindustry](games/i/infindustry.md) | 1.23% |
 | 116 | [Chorus](games/c/chorus.md) | 1.12% |
 | 117 | [Trifox](games/t/trifox.md) | 1.10% |
-| 118 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.06% |
+| 118 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.05% |
 | 119 | [A Musical Story](games/a/a_musical_story.md) | 1.04% |
 | 120 | [Adios](games/a/adios.md) | 1.03% |
 | 120 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.03% |
-| 122 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.01% |
-| 123 | [Sable](games/s/sable.md) | 1.00% |
+| 122 | [Sable](games/s/sable.md) | 1.00% |
+| 122 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.00% |
 | 124 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.99% |
 | 124 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.99% |
 | 126 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.95% |
-| 126 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.95% |
+| 127 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.94% |
 | 128 | [Hades](games/h/hades.md) | 0.90% |
 | 129 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 130 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
@@ -171,11 +171,11 @@
 | 168 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.36% |
 | 168 | [Wildermyth](games/w/wildermyth.md) | 0.36% |
 | 171 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.35% |
-| 171 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.35% |
 | 171 | [The Devil's Face](games/t/the_devil's_face.md) | 0.35% |
 | 171 | [The Surge](games/t/the_surge.md) | 0.35% |
 | 171 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.35% |
-| 176 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.34% |
+| 175 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.34% |
+| 175 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.34% |
 | 177 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.33% |
 | 178 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 178 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
@@ -569,4 +569,4 @@
 | 271 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 271 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 271 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,159 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,160 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
