@@ -37,9 +37,9 @@
 | 35 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.61% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.73% |
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
-| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.15% |
-| 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.00% |
-| 40 | [Scorn](games/s/scorn.md) | 6.99% |
+| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.14% |
+| 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.99% |
+| 39 | [Scorn](games/s/scorn.md) | 6.99% |
 | 41 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.90% |
 | 42 | [Time Loader](games/t/time_loader.md) | 6.78% |
 | 43 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
@@ -93,8 +93,8 @@
 | 91 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
 | 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.05% |
 | 93 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.00% |
-| 93 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 2.00% |
-| 95 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
+| 94 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
+| 94 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.92% |
 | 96 | [Night Book](games/n/night_book.md) | 1.86% |
 | 97 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.85% |
 | 97 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
@@ -126,7 +126,7 @@
 | 124 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.99% |
 | 124 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.99% |
 | 126 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.95% |
-| 127 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.94% |
+| 127 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.93% |
 | 128 | [Hades](games/h/hades.md) | 0.90% |
 | 129 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 130 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
@@ -156,14 +156,14 @@
 | 154 | [Godlike Burger](games/g/godlike_burger.md) | 0.48% |
 | 154 | [Them and Us](games/t/them_and_us.md) | 0.48% |
 | 156 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
-| 156 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.46% |
 | 156 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.46% |
 | 156 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.46% |
-| 160 | [Train Valley](games/t/train_valley.md) | 0.45% |
+| 159 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.45% |
+| 159 | [Train Valley](games/t/train_valley.md) | 0.45% |
 | 161 | [Tails of Iron](games/t/tails_of_iron.md) | 0.43% |
 | 161 | [Tchia](games/t/tchia.md) | 0.43% |
-| 163 | [Ghostrunner](games/g/ghostrunner.md) | 0.40% |
 | 163 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
+| 164 | [Ghostrunner](games/g/ghostrunner.md) | 0.39% |
 | 165 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.37% |
 | 165 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.37% |
 | 165 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
@@ -175,8 +175,8 @@
 | 171 | [The Surge](games/t/the_surge.md) | 0.35% |
 | 171 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.35% |
 | 175 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.34% |
-| 175 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.34% |
-| 177 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.33% |
+| 176 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.33% |
+| 176 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.33% |
 | 178 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 178 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
 | 178 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
@@ -569,4 +569,4 @@
 | 271 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 271 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 271 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,160 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,161 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
