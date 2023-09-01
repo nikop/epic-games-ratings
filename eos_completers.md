@@ -69,8 +69,8 @@
 | 67 | [Bunny Park](games/b/bunny_park.md) | 3.37% |
 | 68 | [The Complex](games/t/the_complex.md) | 3.32% |
 | 69 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
-| 70 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 3.23% |
-| 71 | [HordeCore](games/h/hordecore.md) | 3.15% |
+| 70 | [HordeCore](games/h/hordecore.md) | 3.15% |
+| 71 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 3.12% |
 | 72 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.08% |
 | 73 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.01% |
 | 74 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 2.98% |
@@ -87,8 +87,8 @@
 | 85 | [Lamentum](games/l/lamentum.md) | 2.53% |
 | 86 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.50% |
 | 86 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 88 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 2.44% |
-| 89 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.34% |
+| 88 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.34% |
+| 89 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 2.33% |
 | 90 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.24% |
 | 91 | [Bloodshore](games/b/bloodshore.md) | 2.19% |
 | 92 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
@@ -160,9 +160,9 @@
 | 157 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.46% |
 | 159 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.45% |
 | 159 | [Train Valley](games/t/train_valley.md) | 0.45% |
-| 161 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.44% |
-| 162 | [Tails of Iron](games/t/tails_of_iron.md) | 0.43% |
-| 162 | [Tchia](games/t/tchia.md) | 0.43% |
+| 161 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.43% |
+| 161 | [Tails of Iron](games/t/tails_of_iron.md) | 0.43% |
+| 161 | [Tchia](games/t/tchia.md) | 0.43% |
 | 164 | [Ghostrunner](games/g/ghostrunner.md) | 0.40% |
 | 164 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 166 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.37% |
