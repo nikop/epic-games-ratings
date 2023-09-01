@@ -39,12 +39,12 @@ Rating: 4.87 (Ranked 25)
 | Wanna hear my playlist? | 2.00% | ~80 |
 | I told you I'd be fine, Peppermint! | 2.00% | ~80 |
 | Check out my moves! | 2.00% | ~80 |
+| Call me Turbo Chai | 2.00% | ~50 |
 | I think I deserve some praise, here! | 1.00% | ~40 |
 | I think I found your calling, Macaron | 1.00% | ~40 |
 | We're Jammin' | 1.00% | ~40 |
 | First we parry, then we counter | 1.00% | ~40 |
 | I hit things with a guitar really well. | 1.00% | ~40 |
-| Call me Turbo Chai | 1.00% | ~25 |
 | I'm not done with you yet | 0.80% | ~32 |
 | This is a breeze! | 0.70% | ~28 |
 | You ever parry a volcano? | 0.70% | ~28 |

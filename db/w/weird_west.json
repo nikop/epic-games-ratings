@@ -3,12 +3,12 @@
   "Name": "Weird West: Definitive Edition",
   "ProductSlug": "weird-west-906661",
   "Ranking_Rating": 652,
-  "Ranking_Popularity": 483,
-  "Ranking_PopularitySum": 488,
+  "Ranking_Popularity": 484,
+  "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -340,7 +340,7 @@
   "EOS_Progressed": 1825,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 11,
-  "EOS_NewCompleters": 2,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -2393,8 +2393,8 @@
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-08-25T13:05:53.0573208+00:00",
-  "LastChanged_Achievements": "2023-09-01T05:06:18.0185898+00:00",
+  "LastChanged_Achievements": "2023-09-01T06:05:05.2476688+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:16.0649868+00:00",
-  "LastUpdate_Ratings": "2023-09-01T04:57:56.2316074+00:00",
-  "LastUpdate_Achievements": "2023-09-01T05:06:18.0189713+00:00"
+  "LastUpdate_Ratings": "2023-09-01T05:57:31.1223187+00:00",
+  "LastUpdate_Achievements": "2023-09-01T06:05:05.2477346+00:00"
 }

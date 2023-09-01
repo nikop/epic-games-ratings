@@ -1653,9 +1653,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13714,
+  "EOS_Progressed": 13715,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10723,6 +10723,11 @@
       "Time": "2023-09-01T01:49:17.1259574+00:00",
       "NumProgressed": 13714,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-01T06:02:35.4032431+00:00",
+      "NumProgressed": 13715,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -12660,9 +12665,9 @@
       "ID": "ACHIEVEMENT_STAT_TEN_LEADERS",
       "SetID": "9201eeb",
       "Name": "Ten Crowns",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 41
     },
     {
       "ID": "ACHIEVEMENT_TECH_ECONOMIC_REFORM",
@@ -12788,9 +12793,9 @@
       "ID": "ACHIEVEMENT_UNIT_HITTITE_CHARIOT",
       "SetID": "9201eeb",
       "Name": "Three Man Chariot",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 41
     },
     {
       "ID": "ACHIEVEMENT_UNIT_KUSHITE_CAVALRY",
@@ -13101,21 +13106,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13714,
+      "Progressed": 13715,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13714,
+      "Progressed": 13715,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-30T22:01:08.7702063+00:00",
-  "LastChanged_Achievements": "2023-09-01T05:03:49.4005713+00:00",
+  "LastChanged_Achievements": "2023-09-01T06:02:35.4032425+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:39.7773306+00:00",
-  "LastUpdate_Ratings": "2023-09-01T04:57:36.5445066+00:00",
-  "LastUpdate_Achievements": "2023-09-01T05:03:49.4015761+00:00"
+  "LastUpdate_Ratings": "2023-09-01T05:57:15.8291349+00:00",
+  "LastUpdate_Achievements": "2023-09-01T06:02:35.4044684+00:00"
 }

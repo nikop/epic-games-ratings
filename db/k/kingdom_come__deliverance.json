@@ -2,7 +2,7 @@
   "ID": "ca4058f18b0a4a9e9e2ccc28f7f33000",
   "Name": "Kingdom Come: Deliverance",
   "ProductSlug": "kingdom-come-deliverance",
-  "Ranking_Rating": 189,
+  "Ranking_Rating": 188,
   "Ranking_Popularity": 46,
   "Ranking_PopularitySum": 45,
   "Ranking_EOS_Progress": 16,
@@ -6888,9 +6888,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 799294,
+  "EOS_Progressed": 799295,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 967,
+  "EOS_NewPlayers": 966,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -21623,6 +21623,11 @@
       "Time": "2023-09-01T05:03:34.2983621+00:00",
       "NumProgressed": 799294,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-09-01T06:02:22.9339062+00:00",
+      "NumProgressed": 799295,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 82,
@@ -21794,7 +21799,7 @@
       "Name": "Convict",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 79929
+      "UsersEstimate": 79930
     },
     {
       "ID": "DavidHorak",
@@ -21914,7 +21919,7 @@
       "Name": "Haggler",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 71936
+      "UsersEstimate": 71937
     },
     {
       "ID": "HardcoreHenry",
@@ -22289,15 +22294,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 799294,
+      "Progressed": 799295,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-08-31T20:57:34.3871079+00:00",
-  "LastChanged_Achievements": "2023-09-01T05:03:34.2983616+00:00",
+  "LastChanged_Achievements": "2023-09-01T06:02:22.9339056+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:19.3833724+00:00",
-  "LastUpdate_Ratings": "2023-09-01T04:58:07.3470866+00:00",
-  "LastUpdate_Achievements": "2023-09-01T05:03:34.2985413+00:00"
+  "LastUpdate_Ratings": "2023-09-01T05:57:39.8687766+00:00",
+  "LastUpdate_Achievements": "2023-09-01T06:02:22.9341258+00:00"
 }

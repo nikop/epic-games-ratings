@@ -5,10 +5,10 @@
   "Ranking_Rating": 756,
   "Ranking_Popularity": 273,
   "Ranking_PopularitySum": 224,
-  "Ranking_EOS_Progress": 239,
+  "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 163,
   "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -952,9 +952,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 475,
+  "EOS_Progressed": 481,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 470,
+  "EOS_NewPlayers": 476,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -1172,6 +1172,11 @@
       "Time": "2023-09-01T05:07:24.6236617+00:00",
       "NumProgressed": 475,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-01T06:05:58.8872277+00:00",
+      "NumProgressed": 481,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -1182,9 +1187,9 @@
       "ID": "a_1",
       "SetID": "daiie3o",
       "Name": "It\u0027s a good start",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 34
     },
     {
       "ID": "a_10",
@@ -1232,7 +1237,7 @@
       "Name": "Bye Bye",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 133
+      "UsersEstimate": 135
     },
     {
       "ID": "a_19",
@@ -1240,7 +1245,7 @@
       "Name": "Bonjour!",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "a_2",
@@ -1272,7 +1277,7 @@
       "Name": "A long journey",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "a_23",
@@ -1286,9 +1291,9 @@
       "ID": "a_25",
       "SetID": "daiie3o",
       "Name": "Better than nothing?",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 19
     },
     {
       "ID": "a_26",
@@ -1431,7 +1436,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 475,
+      "Progressed": 481,
       "Completed": 2
     }
   ],
@@ -1439,8 +1444,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-08-28T14:01:21.7581903+00:00",
-  "LastChanged_Achievements": "2023-09-01T05:07:24.623661+00:00",
+  "LastChanged_Achievements": "2023-09-01T06:05:58.8872272+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:37.0274623+00:00",
-  "LastUpdate_Ratings": "2023-09-01T04:57:19.587989+00:00",
-  "LastUpdate_Achievements": "2023-09-01T05:07:24.6237031+00:00"
+  "LastUpdate_Ratings": "2023-09-01T05:57:03.0592089+00:00",
+  "LastUpdate_Achievements": "2023-09-01T06:05:58.8872583+00:00"
 }

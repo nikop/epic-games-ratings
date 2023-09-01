@@ -2,12 +2,12 @@
   "ID": "48ffecf4a89f4fd496817b0451384f39",
   "Name": "Rise of the Tomb Raider: 20 Year Celebration",
   "ProductSlug": "rise-of-the-tomb-raider",
-  "Ranking_Rating": 218,
+  "Ranking_Rating": 217,
   "Ranking_Popularity": 32,
   "Ranking_PopularitySum": 67,
   "Ranking_EOS_Progress": 570,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewPlayers": 340,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-10-18T13:00:00+00:00",
@@ -3896,6 +3896,6 @@
   "FirstSeen": "2022-07-22T20:21:10.6439255+00:00",
   "LastChanged": "2023-09-01T01:43:14.8354589+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:01.9647156+00:00",
-  "LastUpdate_Ratings": "2023-09-01T04:57:42.3985565+00:00",
-  "LastUpdate_Achievements": "2023-09-01T05:05:48.1010385+00:00"
+  "LastUpdate_Ratings": "2023-09-01T05:57:20.3222232+00:00",
+  "LastUpdate_Achievements": "2023-09-01T06:04:40.77696+00:00"
 }

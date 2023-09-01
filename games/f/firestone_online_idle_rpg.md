@@ -215,6 +215,13 @@ Completed: 2 (0.11%) (Ranked 214)
 | 2023-08-30 | 1,873 | 2 |
 | 2023-08-31 | 1,875 | 2 |
 | 2023-09-01 | 1,876 | 2 |
+## Awards
+Max (Great for Beginners): 20  (Ranked 510)  
+Sum: 20 (Ranked 510)  
+Diff (max vs sum): 0  
+| Award | Count |
+| ----- | ----- |
+| This game is Great for Beginners | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -246,3 +253,4 @@ Completed: 2 (0.11%) (Ranked 214)
 | 2023-08-06 | 4.08 | 0 | 0 |
 | 2023-08-10 | 4.05 | 0 | 0 |
 | 2023-08-28 | 4.04 | 0 | 0 |
+| 2023-09-01 | 4.04 | 20 | 20 |

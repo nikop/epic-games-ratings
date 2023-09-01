@@ -1,7 +1,7 @@
 # Forspoken
 [Store](https://store.epicgames.com/en-US/p/forspoken)  
 [View Rawdata](../../db/f/forspoken.json)  
-Rating: 4.14 (Ranked 904)  
+Rating: 4.14 (Ranked 903)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -195,8 +195,8 @@ Completed: 3 (0.01%) (Ranked 257)
 | 2023-08-31 | 39,833 | 3 |
 | 2023-09-01 | 39,835 | 3 |
 ## Awards
-Max (Character Customization): 27  (Ranked 471)  
-Sum: 27 (Ranked 482)  
+Max (Character Customization): 27  (Ranked 472)  
+Sum: 27 (Ranked 483)  
 Diff (max vs sum): -11  
 | Award | Count |
 | ----- | ----- |

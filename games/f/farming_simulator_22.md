@@ -1,25 +1,25 @@
 # Farming Simulator 22
 [Store](https://store.epicgames.com/en-US/p/farming-simulator-22)  
 [View Rawdata](../../db/f/farming_simulator_22.json)  
-Rating: 4.69 (Ranked 218)  
+Rating: 4.69 (Ranked 217)  
 Number of Ratings: 7,683  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Own use | 75.00% | ~36,020 |
 | I read Shakespeare and stuff | 64.00% | ~30,737 |
-| Just a sprinkle | 63.00% | ~30,256 |
+| Just a sprinkle | 63.00% | ~30,257 |
 | I'm stumped | 61.00% | ~29,296 |
 | Plant get enough | 60.00% | ~28,816 |
-| It's just the beginning | 59.00% | ~28,335 |
-| This is just my weekend vehicle | 58.00% | ~27,855 |
+| It's just the beginning | 59.00% | ~28,336 |
+| This is just my weekend vehicle | 58.00% | ~27,856 |
 | Hard work pays off | 53.00% | ~25,454 |
 | It's never too late to farm | 49.00% | ~23,533 |
-| All out of Land | 44.00% | ~21,131 |
-| Field Trip | 43.00% | ~20,651 |
-| I like to switch it up | 40.00% | ~19,210 |
+| All out of Land | 44.00% | ~21,132 |
+| Field Trip | 43.00% | ~20,652 |
+| I like to switch it up | 40.00% | ~19,211 |
 | Help me to help you | 38.00% | ~18,250 |
-| Ultimutt Pawesomeness | 28.00% | ~13,447 |
+| Ultimutt Pawesomeness | 28.00% | ~13,448 |
 | Van Gogh | 26.00% | ~12,487 |
 | You wood not believe it | 22.00% | ~10,566 |
 | Vehicle fleet | 22.00% | ~10,566 |
@@ -29,7 +29,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | Long haul | 16.00% | ~7,684 |
 | Clucky Streak | 15.00% | ~7,204 |
 | That's a wrap | 15.00% | ~7,204 |
-| Fix me up | 13.00% | ~6,243 |
+| Fix me up | 13.00% | ~6,244 |
 | Rock on | 12.00% | ~5,763 |
 | Highly cultivated | 11.00% | ~5,283 |
 | It's sow easy | 11.00% | ~5,283 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~192 |
 | Raisin the stakes | 0.30% | ~144 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48,026 (Ranked 92)  
+Progressed: 48,027 (Ranked 92)  
 Completed: 6 (0.01%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 6 (0.01%) (Ranked 257)
 | 2023-08-29 | 47,928 | 6 |
 | 2023-08-30 | 47,974 | 6 |
 | 2023-08-31 | 48,021 | 6 |
-| 2023-09-01 | 48,026 | 6 |
+| 2023-09-01 | 48,027 | 6 |
 ## Awards
 Max (Great for Beginners): 4,845  (Ranked 68)  
 Sum: 39,733 (Ranked 32)  

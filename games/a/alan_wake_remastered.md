@@ -6,27 +6,27 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 38.00% | ~23,590 |
-| Let There Be Light | 31.00% | ~19,244 |
-| Float Like a Butterfly | 30.00% | ~18,623 |
+| Follow the Light | 38.00% | ~23,591 |
+| Let There Be Light | 31.00% | ~19,245 |
+| Float Like a Butterfly | 30.00% | ~18,624 |
 | Nordic Walking | 24.00% | ~14,899 |
-| Bright Falls' Finest | 23.00% | ~14,278 |
-| Under a Thin Layer of Skin | 21.00% | ~13,036 |
-| Park Ranger | 17.00% | ~10,553 |
-| Paging Mr. Wake | 17.00% | ~10,553 |
-| Back! Back, I Say! | 16.00% | ~9,932 |
-| Finders Keepers | 16.00% | ~9,932 |
+| Bright Falls' Finest | 23.00% | ~14,279 |
+| Under a Thin Layer of Skin | 21.00% | ~13,037 |
+| Park Ranger | 17.00% | ~10,554 |
+| Paging Mr. Wake | 17.00% | ~10,554 |
+| Back! Back, I Say! | 16.00% | ~9,933 |
+| Finders Keepers | 16.00% | ~9,933 |
 | Damn Good Cup of Coffee | 15.00% | ~9,312 |
 | Wheels Within Wheels | 14.00% | ~8,691 |
 | They're Heeeeeere! | 14.00% | ~8,691 |
 | Sound and Fury | 14.00% | ~8,691 |
 | Missed by a Mile | 14.00% | ~8,691 |
-| The Six-Gun Scribe | 13.00% | ~8,070 |
-| Collateral Carnage | 13.00% | ~8,070 |
-| Heavy Metal | 12.00% | ~7,449 |
-| Iron Horse | 12.00% | ~7,449 |
-| Perchance to Dream | 12.00% | ~7,449 |
-| Come One, Come All | 12.00% | ~7,449 |
+| The Six-Gun Scribe | 13.00% | ~8,071 |
+| Collateral Carnage | 13.00% | ~8,071 |
+| Heavy Metal | 12.00% | ~7,450 |
+| Iron Horse | 12.00% | ~7,450 |
+| Perchance to Dream | 12.00% | ~7,450 |
+| Come One, Come All | 12.00% | ~7,450 |
 | Gatekeeper | 11.00% | ~6,829 |
 | It's Not Just a Typewriter Brand | 11.00% | ~6,829 |
 | Thunder and Lightning | 11.00% | ~6,829 |
@@ -37,7 +37,7 @@ Number of Ratings: 524  (23.09.2022)
 | Right of Way | 9.00% | ~5,587 |
 | Tornado Wrangler | 8.00% | ~4,966 |
 | A Friend in Need | 8.00% | ~2,044 |
-| Departure | 7.00% | ~4,345 |
+| Departure | 7.00% | ~4,346 |
 | Drink 'Em Both Up | 6.00% | ~3,725 |
 | Hardboiled Writer | 6.00% | ~3,725 |
 | A Friend Indeed | 6.00% | ~1,533 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~62 |
 | No Punctuation | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,078 (Ranked 87)  
+Progressed: 62,081 (Ranked 87)  
 Completed: 65 (0.10%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,7 +208,7 @@ Completed: 65 (0.10%) (Ranked 217)
 | 2023-08-29 | 61,953 | 65 |
 | 2023-08-30 | 62,006 | 65 |
 | 2023-08-31 | 62,064 | 65 |
-| 2023-09-01 | 62,078 | 65 |
+| 2023-09-01 | 62,081 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

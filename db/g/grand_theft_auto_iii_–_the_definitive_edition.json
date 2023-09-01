@@ -2,9 +2,9 @@
   "ID": "ec64a50e79884e28be9ac3d3cd4f5c12",
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
-  "Ranking_Rating": 888,
-  "Ranking_Popularity": 514,
-  "Ranking_PopularitySum": 514,
+  "Ranking_Rating": 880,
+  "Ranking_Popularity": 515,
+  "Ranking_PopularitySum": 515,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 137,
   "Ranking_EOS_NewPlayers": 143,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.17,
+  "Rating": 4.18,
   "RatingHistory": [
     {
       "Time": "2023-02-24T19:57:59.6714906+00:00",
@@ -434,6 +434,12 @@
     {
       "Time": "2023-08-24T22:01:07.1400969+00:00",
       "Rating": 4.17,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-09-01T05:57:08.9557363+00:00",
+      "Rating": 4.18,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -8071,9 +8077,9 @@
   "FirstSeen": "2023-02-16T16:58:44.0672808+00:00",
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
-  "LastChanged": "2023-08-24T22:01:07.1400968+00:00",
-  "LastChanged_Achievements": "2023-09-01T05:03:25.1617711+00:00",
+  "LastChanged": "2023-09-01T05:57:08.955736+00:00",
+  "LastChanged_Achievements": "2023-09-01T06:02:15.4487872+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:30.0456476+00:00",
-  "LastUpdate_Ratings": "2023-09-01T04:57:27.2823376+00:00",
-  "LastUpdate_Achievements": "2023-09-01T05:03:25.1619365+00:00"
+  "LastUpdate_Ratings": "2023-09-01T05:57:08.9557367+00:00",
+  "LastUpdate_Achievements": "2023-09-01T06:02:15.4488713+00:00"
 }

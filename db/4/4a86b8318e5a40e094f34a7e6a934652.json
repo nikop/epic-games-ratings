@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 392,
   "Ranking_EOS_Completed": 89,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -207,9 +207,9 @@
       "ID": "BRING_MARY",
       "SetID": "aniflfk",
       "Name": "Retro Diva",
-      "Percentage": 32,
+      "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "BRING_PROSPERO",
@@ -247,9 +247,9 @@
       "ID": "GO_ON_EXPEDITION",
       "SetID": "aniflfk",
       "Name": "Off on an Expedition!",
-      "Percentage": 32,
+      "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -335,9 +335,9 @@
       "ID": "TAKE_LEECH",
       "SetID": "aniflfk",
       "Name": "Uppies!",
-      "Percentage": 43,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -358,8 +358,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-01T05:07:19.2709653+00:00",
+  "LastChanged_Achievements": "2023-09-01T06:05:54.6249288+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:06.6191746+00:00",
-  "LastUpdate_Ratings": "2023-09-01T05:01:04.3513451+00:00",
-  "LastUpdate_Achievements": "2023-09-01T05:07:19.2709819+00:00"
+  "LastUpdate_Ratings": "2023-09-01T05:59:54.5429944+00:00",
+  "LastUpdate_Achievements": "2023-09-01T06:05:54.6249467+00:00"
 }

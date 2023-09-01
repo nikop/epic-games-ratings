@@ -6,13 +6,13 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MU/TH/UR Dearest | 1.00% | ~8,347 |
+| MU/TH/UR Dearest | 1.00% | ~8,348 |
 | It wakes | 0.90% | ~7,513 |
 | Skillful | 0.80% | ~6,678 |
-| Zealous | 0.70% | ~5,843 |
-| Not half bad | 0.60% | ~5,008 |
-| Apt Survivor | 0.60% | ~5,008 |
-| Make Some Noise | 0.60% | ~5,008 |
+| Zealous | 0.70% | ~5,844 |
+| Not half bad | 0.60% | ~5,009 |
+| Apt Survivor | 0.60% | ~5,009 |
+| Make Some Noise | 0.60% | ~5,009 |
 | Medic | 0.50% | ~4,174 |
 | Handyman | 0.50% | ~4,174 |
 | Survival Treasures | 0.50% | ~4,174 |
@@ -39,33 +39,33 @@ Number of Ratings: 70,340  (23.09.2022)
 | Wounded Healer | 0.30% | ~2,504 |
 | Close Shave | 0.30% | ~2,504 |
 | Second Act | 0.30% | ~2,504 |
-| Blood on your hands | 0.20% | ~1,669 |
-| Escape Artist | 0.20% | ~1,669 |
-| Made it out alive! | 0.20% | ~1,669 |
-| Gifts for the Fog | 0.20% | ~1,669 |
-| Vulture | 0.20% | ~1,669 |
-| III | 0.20% | ~1,669 |
-| III-50 | 0.20% | ~1,669 |
-| Shock Therapy | 0.20% | ~1,669 |
-| All Aboard | 0.20% | ~1,669 |
-| Item of Obsession | 0.20% | ~1,669 |
-| Holiday Get-Together | 0.20% | ~1,669 |
-| Near-Death Experience | 0.20% | ~1,669 |
-| Cherish your Life | 0.20% | ~1,669 |
-| Unforgettable Getaway | 0.20% | ~1,669 |
-| Cutting Out | 0.20% | ~1,669 |
-| First to the Punch | 0.20% | ~1,669 |
-| Operation: Survival | 0.20% | ~1,669 |
-| Old West Oasis | 0.20% | ~1,669 |
-| Classy Act | 0.20% | ~1,669 |
-| Every Last Drop | 0.20% | ~1,669 |
-| With Scars to Show | 0.20% | ~1,669 |
-| Flight to Freedom | 0.20% | ~1,669 |
-| A Fast Death | 0.20% | ~1,669 |
-| Lifting The Fog | 0.20% | ~1,669 |
-| Chorus of Chaos | 0.20% | ~1,669 |
-| Complete the Evolution | 0.20% | ~1,669 |
-| One More Step | 0.20% | ~1,669 |
+| Blood on your hands | 0.20% | ~1,670 |
+| Escape Artist | 0.20% | ~1,670 |
+| Made it out alive! | 0.20% | ~1,670 |
+| Gifts for the Fog | 0.20% | ~1,670 |
+| Vulture | 0.20% | ~1,670 |
+| III | 0.20% | ~1,670 |
+| III-50 | 0.20% | ~1,670 |
+| Shock Therapy | 0.20% | ~1,670 |
+| All Aboard | 0.20% | ~1,670 |
+| Item of Obsession | 0.20% | ~1,670 |
+| Holiday Get-Together | 0.20% | ~1,670 |
+| Near-Death Experience | 0.20% | ~1,670 |
+| Cherish your Life | 0.20% | ~1,670 |
+| Unforgettable Getaway | 0.20% | ~1,670 |
+| Cutting Out | 0.20% | ~1,670 |
+| First to the Punch | 0.20% | ~1,670 |
+| Operation: Survival | 0.20% | ~1,670 |
+| Old West Oasis | 0.20% | ~1,670 |
+| Classy Act | 0.20% | ~1,670 |
+| Every Last Drop | 0.20% | ~1,670 |
+| With Scars to Show | 0.20% | ~1,670 |
+| Flight to Freedom | 0.20% | ~1,670 |
+| A Fast Death | 0.20% | ~1,670 |
+| Lifting The Fog | 0.20% | ~1,670 |
+| Chorus of Chaos | 0.20% | ~1,670 |
+| Complete the Evolution | 0.20% | ~1,670 |
+| One More Step | 0.20% | ~1,670 |
 | A bite for the Entity | 0.10% | ~835 |
 | A feast for the Entity | 0.10% | ~835 |
 | Blood on your face | 0.10% | ~835 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~835 |
 | Adept Ripley | 0.10% | ~835 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 834,729 (Ranked 15)  
+Progressed: 834,801 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -370,17 +370,17 @@ Completed: 48 (0.01%) (Ranked 257)
 | 2023-08-29 | 828,020 | 48 |
 | 2023-08-30 | 831,117 | 48 |
 | 2023-08-31 | 834,142 | 48 |
-| 2023-09-01 | 834,729 | 48 |
+| 2023-09-01 | 834,801 | 48 |
 ## Awards
 Max (Diverse Characters): 31,726  (Ranked 15)  
-Sum: 248,945 (Ranked 11)  
+Sum: 248,969 (Ranked 11)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 31,726 |
 | This game is Highly Recommended | 28,420 |
 | This game has Competitive Players | 28,383 |
-| This game has Amazing Characters | 28,138 |
+| This game has Amazing Characters | 28,162 |
 | This game is Extremely Fun | 27,908 |
 | This game has Quickly Understood Controls | 27,617 |
 | This game has Challenging Combat | 27,282 |
@@ -611,4 +611,4 @@ Diff (max vs sum): 4
 | 2023-08-29 | 4.52 | - | 31,566 | 248,001 |
 | 2023-08-30 | 4.52 | - | 31,677 | 248,552 |
 | 2023-08-31 | 4.52 | - | 31,726 | 248,913 |
-| 2023-09-01 | 4.52 | - | 31,726 | 248,945 |
+| 2023-09-01 | 4.52 | - | 31,726 | 248,969 |

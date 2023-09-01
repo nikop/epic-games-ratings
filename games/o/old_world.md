@@ -144,8 +144,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cao'an | 0.40% | ~55 |
 | Old World Order | 0.40% | ~55 |
 | Play a Network Game | 0.40% | ~55 |
-| Ten Crowns | 0.40% | ~55 |
-| Three Man Chariot | 0.40% | ~55 |
 | Pilgrimage | 0.40% | ~55 |
 | Ancient | 0.30% | ~41 |
 | Glorious Difficulty | 0.30% | ~41 |
@@ -156,6 +154,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon of Gods | 0.30% | ~41 |
 | Play a Free-For-All Game (>2 Players) | 0.30% | ~41 |
 | Capturing Cities | 0.30% | ~41 |
+| Ten Crowns | 0.30% | ~41 |
+| Three Man Chariot | 0.30% | ~41 |
 | Siege Tower | 0.30% | ~41 |
 | Conquest Victory | 0.30% | ~41 |
 | Necropolis in Waset | 0.30% | ~41 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,714 (Ranked 120)  
+Progressed: 13,715 (Ranked 120)  
 Completed: 5 (0.04%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -437,7 +437,7 @@ Completed: 5 (0.04%) (Ranked 239)
 | 2023-08-29 | 13,661 | 5 |
 | 2023-08-30 | 13,689 | 5 |
 | 2023-08-31 | 13,711 | 5 |
-| 2023-09-01 | 13,714 | 5 |
+| 2023-09-01 | 13,715 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,800 (Ranked 207)  
