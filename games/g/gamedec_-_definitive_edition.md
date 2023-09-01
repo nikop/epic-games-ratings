@@ -6,9 +6,9 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~68,439 |
-| Powergamer | 27.00% | ~65,994 |
-| Barely scratched the surface | 25.00% | ~61,106 |
+| I will finish what you started | 28.00% | ~68,440 |
+| Powergamer | 27.00% | ~65,995 |
+| Barely scratched the surface | 25.00% | ~61,107 |
 | Write that down | 24.00% | ~58,662 |
 | Guns, lots of guns | 12.00% | ~29,331 |
 | Collector | 11.00% | ~26,887 |
@@ -17,8 +17,8 @@ Number of Ratings: 33  (23.09.2022)
 | Wake up! | 8.00% | ~19,554 |
 | It's honest work | 7.00% | ~17,110 |
 | Griever | 7.00% | ~17,110 |
-| Me smart | 6.00% | ~14,665 |
-| Trash compactor | 6.00% | ~14,665 |
+| Me smart | 6.00% | ~14,666 |
+| Trash compactor | 6.00% | ~14,666 |
 | Good listener | 5.00% | ~12,221 |
 | Valedictorian | 5.00% | ~12,221 |
 | BOY! | 4.00% | ~9,777 |
@@ -27,13 +27,13 @@ Number of Ratings: 33  (23.09.2022)
 | Hoarder | 3.00% | ~7,333 |
 | I like to sniff around | 3.00% | ~7,333 |
 | Mind reader | 3.00% | ~7,333 |
-| Gentleman's classic | 2.00% | ~4,888 |
-| Is that a rift? | 2.00% | ~4,888 |
-| It's alive! | 2.00% | ~4,888 |
-| Enjoy the beach | 2.00% | ~4,888 |
-| Rinse and repeat | 2.00% | ~4,888 |
-| Mama, I'm a criminal | 2.00% | ~4,888 |
-| Never gonna give you up | 2.00% | ~4,888 |
+| Gentleman's classic | 2.00% | ~4,889 |
+| Is that a rift? | 2.00% | ~4,889 |
+| It's alive! | 2.00% | ~4,889 |
+| Enjoy the beach | 2.00% | ~4,889 |
+| Rinse and repeat | 2.00% | ~4,889 |
+| Mama, I'm a criminal | 2.00% | ~4,889 |
+| Never gonna give you up | 2.00% | ~4,889 |
 | A muscle to rely on | 1.00% | ~2,444 |
 | A true blacksmith | 1.00% | ~2,444 |
 | Catnip | 1.00% | ~2,444 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~489 |
 | Memory 5 | 0.10% | ~244 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 244,424 (Ranked 49)  
+Progressed: 244,427 (Ranked 49)  
 Completed: 7 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 7 (0.00%) (Ranked 271)
 | 2023-08-29 | 244,094 | 7 |
 | 2023-08-30 | 244,218 | 7 |
 | 2023-08-31 | 244,347 | 7 |
-| 2023-09-01 | 244,424 | 7 |
+| 2023-09-01 | 244,427 | 7 |
 ## Awards
 Max (Character Customization): 79  (Ranked 362)  
 Sum: 79 (Ranked 428)  

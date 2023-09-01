@@ -4,7 +4,7 @@
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2434,
+  "EOS_Progressed": 2435,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
@@ -5411,6 +5411,11 @@
       "Time": "2023-09-01T15:05:45.3241495+00:00",
       "NumProgressed": 2434,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-01T18:06:18.9004425+00:00",
+      "NumProgressed": 2435,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -5446,7 +5451,7 @@
       "Name": "Whoops",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "CONQUEROR",
@@ -5502,7 +5507,7 @@
       "Name": "Novice",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "GLOVE_SLAP",
@@ -5526,7 +5531,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1460
+      "UsersEstimate": 1461
     },
     {
       "ID": "GUARD_MAKER",
@@ -5597,14 +5602,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2434,
+      "Progressed": 2435,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-09-01T17:07:36.0391525+00:00",
+  "LastChanged_Achievements": "2023-09-01T18:06:18.9004419+00:00",
   "LastUpdate_AppInfo": "2023-08-29T23:57:18.7123979+00:00",
-  "LastUpdate_Ratings": "2023-09-01T17:01:55.8633234+00:00",
-  "LastUpdate_Achievements": "2023-09-01T17:07:36.0391899+00:00"
+  "LastUpdate_Ratings": "2023-09-01T18:00:20.9598511+00:00",
+  "LastUpdate_Achievements": "2023-09-01T18:06:18.9004815+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 3,
   "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
     "PcReleaseDate": "2022-09-30T08:00:00+00:00",
@@ -747,9 +747,9 @@
       "ID": "Justice",
       "SetID": "b7i210",
       "Name": "Justice",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 50,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "Liberator",
@@ -826,8 +826,8 @@
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-09-01T17:05:15.3596997+00:00",
+  "LastChanged_Achievements": "2023-09-01T18:04:33.4674512+00:00",
   "LastUpdate_AppInfo": "2023-08-29T01:38:27.4222529+00:00",
-  "LastUpdate_Ratings": "2023-09-01T17:01:56.6444716+00:00",
-  "LastUpdate_Achievements": "2023-09-01T17:05:15.3597157+00:00"
+  "LastUpdate_Ratings": "2023-09-01T18:00:21.5353846+00:00",
+  "LastUpdate_Achievements": "2023-09-01T18:04:33.4674647+00:00"
 }

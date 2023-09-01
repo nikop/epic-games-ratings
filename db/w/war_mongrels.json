@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 515,
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -250,9 +250,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 483,
+  "EOS_Progressed": 484,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1430,6 +1430,11 @@
       "Time": "2023-09-01T17:05:10.609038+00:00",
       "NumProgressed": 483,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-01T18:04:29.7725617+00:00",
+      "NumProgressed": 484,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1545,7 +1550,7 @@
       "Name": "Explorer",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "ACH_COLL_20",
@@ -1561,7 +1566,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "ACH_COLL_CH01",
@@ -1569,7 +1574,7 @@
       "Name": "Collectibles of Chapter I",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_COLL_CH02",
@@ -1585,7 +1590,7 @@
       "Name": "Collectibles of Chapter III",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_COLL_CH04",
@@ -1609,7 +1614,7 @@
       "Name": "Collectibles of Chapter VI",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_COLL_CH07",
@@ -1633,7 +1638,7 @@
       "Name": "Collectibles of Chapter IX",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_COLL_CH10",
@@ -1663,9 +1668,9 @@
       "ID": "ACH_FIN_CH01",
       "SetID": "1j25agn",
       "Name": "Cowardice",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 280
+      "UsersEstimate": 276
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -1681,7 +1686,7 @@
       "Name": "The Motivation",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH_FIN_CH04",
@@ -1695,9 +1700,9 @@
       "ID": "ACH_FIN_CH05",
       "SetID": "1j25agn",
       "Name": "Consequences",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 155
     },
     {
       "ID": "ACH_FIN_CH06",
@@ -1737,7 +1742,7 @@
       "Name": "Broken Hopes",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ACH_FIN_CH11",
@@ -1761,7 +1766,7 @@
       "Name": "Such is War!",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_HARD_ALL",
@@ -1775,9 +1780,9 @@
       "ID": "ACH_HEAL",
       "SetID": "1j25agn",
       "Name": "Helping Hand",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_HIDE_BODIES",
@@ -1801,7 +1806,7 @@
       "Name": "Without a Second Thought",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_KILL_BRAWL",
@@ -1865,15 +1870,15 @@
       "Name": "Sniper Wolf",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "ACH_KILL_THROW",
       "SetID": "1j25agn",
       "Name": "King of Knives",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 155
     },
     {
       "ID": "ACH_NEST1",
@@ -1881,7 +1886,7 @@
       "Name": "Bullseye!",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ACH_NEST2",
@@ -1912,15 +1917,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 483,
+      "Progressed": 484,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-08-26T19:00:27.3574787+00:00",
-  "LastChanged_Achievements": "2023-09-01T17:05:10.6090376+00:00",
+  "LastChanged_Achievements": "2023-09-01T18:04:29.7725608+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:33.37016+00:00",
-  "LastUpdate_Ratings": "2023-09-01T17:02:13.3400446+00:00",
-  "LastUpdate_Achievements": "2023-09-01T17:05:10.6090881+00:00"
+  "LastUpdate_Ratings": "2023-09-01T18:00:33.4980001+00:00",
+  "LastUpdate_Achievements": "2023-09-01T18:04:29.7726013+00:00"
 }

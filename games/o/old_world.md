@@ -133,6 +133,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Old | 0.50% | ~69 |
 | Peacemaker | 0.50% | ~69 |
 | Clerics | 0.50% | ~69 |
+| Cao'an | 0.50% | ~69 |
 | Egypt | 0.50% | ~69 |
 | Rome | 0.50% | ~69 |
 | One True Faith | 0.50% | ~69 |
@@ -141,7 +142,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | All Nations | 0.50% | ~69 |
 | Carthage - Ox Hide | 0.40% | ~55 |
 | Noble Difficulty | 0.40% | ~55 |
-| Cao'an | 0.40% | ~55 |
 | Old World Order | 0.40% | ~55 |
 | Play a Network Game | 0.40% | ~55 |
 | Pilgrimage | 0.40% | ~55 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,727 (Ranked 120)  
+Progressed: 13,728 (Ranked 120)  
 Completed: 5 (0.04%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -437,7 +437,7 @@ Completed: 5 (0.04%) (Ranked 240)
 | 2023-08-29 | 13,661 | 5 |
 | 2023-08-30 | 13,689 | 5 |
 | 2023-08-31 | 13,711 | 5 |
-| 2023-09-01 | 13,727 | 5 |
+| 2023-09-01 | 13,728 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 265)  
 Sum: 1,800 (Ranked 207)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 515,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10216,
+  "EOS_Progressed": 10217,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1371,6 +1371,11 @@
       "Time": "2023-08-31T22:03:16.7223003+00:00",
       "NumProgressed": 10216,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-01T18:03:28.077582+00:00",
+      "NumProgressed": 10217,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -1390,7 +1395,7 @@
       "Name": "to finish first, first you must finish",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 2145
+      "UsersEstimate": 2146
     },
     {
       "ID": "ACH_ABSOLUTE_DRIFT",
@@ -1406,7 +1411,7 @@
       "Name": "autopilot",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 2145
+      "UsersEstimate": 2146
     },
     {
       "ID": "ACH_ALL_BONUSES",
@@ -1422,7 +1427,7 @@
       "Name": "bicycle race",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 1532
+      "UsersEstimate": 1533
     },
     {
       "ID": "ACH_CAR_WASH",
@@ -1486,7 +1491,7 @@
       "Name": "grocery-getter",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 3984
+      "UsersEstimate": 3985
     },
     {
       "ID": "ACH_COMPLETE_GROUP3",
@@ -1542,7 +1547,7 @@
       "Name": "keep it tidy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7866
+      "UsersEstimate": 7867
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -1590,7 +1595,7 @@
       "Name": "brail",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 5823
+      "UsersEstimate": 5824
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -1606,7 +1611,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9807
+      "UsersEstimate": 9808
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -1654,7 +1659,7 @@
       "Name": "you can\u0027t treat a car like a human being. a car requires love",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 2145
+      "UsersEstimate": 2146
     },
     {
       "ID": "ACH_SIMULATOR",
@@ -1662,7 +1667,7 @@
       "Name": "simulator",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "ACH_SLIDING",
@@ -1710,7 +1715,7 @@
       "Name": "real roads, real fast",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "ACH_WIN_SEASON",
@@ -1725,15 +1730,15 @@
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10216,
+      "Progressed": 10217,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-09-01T17:03:39.7136407+00:00",
+  "LastChanged_Achievements": "2023-09-01T18:03:28.0775815+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:22.5183382+00:00",
-  "LastUpdate_Ratings": "2023-09-01T16:57:18.3802507+00:00",
-  "LastUpdate_Achievements": "2023-09-01T17:03:39.713672+00:00"
+  "LastUpdate_Ratings": "2023-09-01T17:57:00.7411237+00:00",
+  "LastUpdate_Achievements": "2023-09-01T18:03:28.0776152+00:00"
 }

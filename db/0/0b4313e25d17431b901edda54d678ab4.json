@@ -2,9 +2,9 @@
   "ID": "0b4313e25d17431b901edda54d678ab4",
   "Name": "Echo Storm",
   "ProductSlug": "echo-storm-4e5fbe",
-  "Ranking_EOS_Progress": 400,
+  "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-05-11T05:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 40,
+  "EOS_Progressed": 41,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -211,6 +211,11 @@
       "Time": "2023-09-01T16:06:15.972615+00:00",
       "NumProgressed": 40,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-01T18:05:45.4318026+00:00",
+      "NumProgressed": 41,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 16,
@@ -228,7 +233,7 @@
       "ID": "earn3000",
       "SetID": "bma0pih",
       "Name": "Reach",
-      "Percentage": 88,
+      "Percentage": 85,
       "XP": 60,
       "UsersEstimate": 35
     },
@@ -236,7 +241,7 @@
       "ID": "fastBossKill",
       "SetID": "bma0pih",
       "Name": "Done in time",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 50,
       "UsersEstimate": 16
     },
@@ -244,15 +249,15 @@
       "ID": "finishGame",
       "SetID": "bma0pih",
       "Name": "Catharsis",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "kill100",
       "SetID": "bma0pih",
       "Name": "Recruit",
-      "Percentage": 88,
+      "Percentage": 85,
       "XP": 15,
       "UsersEstimate": 35
     },
@@ -260,7 +265,7 @@
       "ID": "kill300",
       "SetID": "bma0pih",
       "Name": "Soldier",
-      "Percentage": 83,
+      "Percentage": 80,
       "XP": 100,
       "UsersEstimate": 33
     },
@@ -268,7 +273,7 @@
       "ID": "kill750",
       "SetID": "bma0pih",
       "Name": "War machine",
-      "Percentage": 75,
+      "Percentage": 73,
       "XP": 150,
       "UsersEstimate": 30
     },
@@ -276,7 +281,7 @@
       "ID": "killWithHammer",
       "SetID": "bma0pih",
       "Name": "Eternal blacksmith",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
       "UsersEstimate": 12
     },
@@ -284,7 +289,7 @@
       "ID": "leviathan01",
       "SetID": "bma0pih",
       "Name": "Flying death",
-      "Percentage": 73,
+      "Percentage": 71,
       "XP": 55,
       "UsersEstimate": 29
     },
@@ -292,7 +297,7 @@
       "ID": "leviathan02",
       "SetID": "bma0pih",
       "Name": "Metal hell",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 75,
       "UsersEstimate": 9
     },
@@ -300,7 +305,7 @@
       "ID": "leviathan03",
       "SetID": "bma0pih",
       "Name": "Flesh fear",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -308,7 +313,7 @@
       "ID": "maxLevel",
       "SetID": "bma0pih",
       "Name": "Max level",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 35,
       "UsersEstimate": 3
     },
@@ -316,7 +321,7 @@
       "ID": "plague",
       "SetID": "bma0pih",
       "Name": "Plague",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -332,15 +337,15 @@
       "ID": "reroll10",
       "SetID": "bma0pih",
       "Name": "Spin it",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "unlockPlasmaMoon",
       "SetID": "bma0pih",
       "Name": "Solar power",
-      "Percentage": 53,
+      "Percentage": 51,
       "XP": 20,
       "UsersEstimate": 21
     }
@@ -349,14 +354,14 @@
     {
       "ID": "bma0pih",
       "IsBase": true,
-      "Progressed": 40,
+      "Progressed": 41,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-31T13:03:44.3512159+00:00",
   "FirstSeenAchievements": "2023-05-07T09:02:54.6493409+00:00",
-  "LastChanged_Achievements": "2023-09-01T17:06:51.7144789+00:00",
+  "LastChanged_Achievements": "2023-09-01T18:05:45.4318021+00:00",
   "LastUpdate_AppInfo": "2023-08-27T16:57:09.5121242+00:00",
-  "LastUpdate_Ratings": "2023-09-01T16:59:37.3644165+00:00",
-  "LastUpdate_Achievements": "2023-09-01T17:06:51.7144882+00:00"
+  "LastUpdate_Ratings": "2023-09-01T17:58:41.6391107+00:00",
+  "LastUpdate_Achievements": "2023-09-01T18:05:45.4318184+00:00"
 }

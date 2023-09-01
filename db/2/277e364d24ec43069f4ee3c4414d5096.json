@@ -272,9 +272,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 105921,
+  "EOS_Progressed": 105924,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 1204,
+  "EOS_NewPlayers": 1207,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9302,6 +9302,11 @@
       "Time": "2023-09-01T17:05:06.0214977+00:00",
       "NumProgressed": 105921,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-09-01T18:04:26.2919228+00:00",
+      "NumProgressed": 105924,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 49,
@@ -9321,7 +9326,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 80500
+      "UsersEstimate": 80502
     },
     {
       "ID": "EAwards_10",
@@ -9329,7 +9334,7 @@
       "Name": "Juan Punch Man",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 11651
+      "UsersEstimate": 11652
     },
     {
       "ID": "EAwards_11",
@@ -9337,7 +9342,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 26480
+      "UsersEstimate": 26481
     },
     {
       "ID": "EAwards_12",
@@ -9377,7 +9382,7 @@
       "Name": "PERFECT",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 7414
+      "UsersEstimate": 7415
     },
     {
       "ID": "EAwards_17",
@@ -9385,7 +9390,7 @@
       "Name": "Talented Player",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 38132
+      "UsersEstimate": 38133
     },
     {
       "ID": "EAwards_18",
@@ -9409,7 +9414,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 50842
+      "UsersEstimate": 50844
     },
     {
       "ID": "EAwards_20",
@@ -9441,7 +9446,7 @@
       "Name": "These are not fertilized",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 7414
+      "UsersEstimate": 7415
     },
     {
       "ID": "EAwards_24",
@@ -9449,7 +9454,7 @@
       "Name": "Temple Raider",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 7414
+      "UsersEstimate": 7415
     },
     {
       "ID": "EAwards_25",
@@ -9497,7 +9502,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 20125
+      "UsersEstimate": 20126
     },
     {
       "ID": "EAwards_30",
@@ -9681,7 +9686,7 @@
       "Name": "Questionable Plumbing",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 11651
+      "UsersEstimate": 11652
     },
     {
       "ID": "EAwards_8",
@@ -9689,7 +9694,7 @@
       "Name": "Santa Golpiza!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 11651
+      "UsersEstimate": 11652
     },
     {
       "ID": "EAwards_9",
@@ -9704,7 +9709,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 105921,
+      "Progressed": 105924,
       "Completed": 40
     }
   ],
@@ -9712,8 +9717,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-01T15:00:01.2211131+00:00",
-  "LastChanged_Achievements": "2023-09-01T17:05:06.0214973+00:00",
+  "LastChanged_Achievements": "2023-09-01T18:04:26.2919219+00:00",
   "LastUpdate_AppInfo": "2023-08-31T22:57:08.1007702+00:00",
-  "LastUpdate_Ratings": "2023-09-01T17:01:39.2193779+00:00",
-  "LastUpdate_Achievements": "2023-09-01T17:05:06.0215763+00:00"
+  "LastUpdate_Ratings": "2023-09-01T18:00:08.4866451+00:00",
+  "LastUpdate_Achievements": "2023-09-01T18:04:26.2920036+00:00"
 }
