@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1215,7 +1215,7 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 8718,
+  "EOS_Progressed": 8719,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 204,
   "EOS_NewCompleters": 0,
@@ -11900,6 +11900,11 @@
       "Time": "2023-09-01T01:51:26.4504162+00:00",
       "NumProgressed": 8718,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-01T05:05:39.2024529+00:00",
+      "NumProgressed": 8719,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -11967,7 +11972,7 @@
       "Name": "Adventurer",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 3574
+      "UsersEstimate": 3575
     },
     {
       "ID": "17",
@@ -11991,7 +11996,7 @@
       "Name": "Healer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 4533
+      "UsersEstimate": 4534
     },
     {
       "ID": "2",
@@ -11999,7 +12004,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 3051
+      "UsersEstimate": 3052
     },
     {
       "ID": "20",
@@ -12023,7 +12028,7 @@
       "Name": "First Step",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 6277
+      "UsersEstimate": 6278
     },
     {
       "ID": "23",
@@ -12135,7 +12140,7 @@
       "Name": "War Never Changes",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1656
+      "UsersEstimate": 1657
     },
     {
       "ID": "36",
@@ -12183,7 +12188,7 @@
       "Name": "Bread and Circuses",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "41",
@@ -12382,15 +12387,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 8718,
+      "Progressed": 8719,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-08-30T14:59:07.4775368+00:00",
-  "LastChanged_Achievements": "2023-09-01T04:05:36.7398274+00:00",
+  "LastChanged_Achievements": "2023-09-01T05:05:39.2024521+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:34.935802+00:00",
-  "LastUpdate_Ratings": "2023-09-01T03:59:43.2223008+00:00",
-  "LastUpdate_Achievements": "2023-09-01T04:05:36.739925+00:00"
+  "LastUpdate_Ratings": "2023-09-01T04:59:47.2113749+00:00",
+  "LastUpdate_Achievements": "2023-09-01T05:05:39.2025714+00:00"
 }

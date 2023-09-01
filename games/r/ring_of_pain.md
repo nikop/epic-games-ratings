@@ -6,50 +6,50 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~225,841 |
-| Uncharted Territory | 89.00% | ~209,373 |
-| Getting A Glimpse | 73.00% | ~171,733 |
-| A Quick Escape | 65.00% | ~152,913 |
-| Explorer | 62.00% | ~145,856 |
-| Defeat The Dark | 61.00% | ~143,503 |
-| An Offering | 61.00% | ~143,503 |
-| Colorful Corpse | 58.00% | ~136,446 |
-| That Was Quick | 57.00% | ~134,093 |
-| A Donation | 57.00% | ~134,093 |
-| Goodbye, Frog Friend | 54.00% | ~127,036 |
-| Heavy Hitter | 53.00% | ~124,683 |
-| Heartless | 46.00% | ~108,215 |
-| Spine Breaker | 46.00% | ~108,215 |
-| Deflection | 45.00% | ~105,863 |
-| Sneaky | 43.00% | ~101,158 |
-| Delving Deeper | 42.00% | ~98,805 |
-| C-C-Combo | 42.00% | ~98,805 |
-| Ambitious Intent | 41.00% | ~96,453 |
-| Nothing To Lose | 40.00% | ~94,100 |
-| The Bestiary | 40.00% | ~94,100 |
-| What's Yours Is Mine | 38.00% | ~89,395 |
-| R.I.P | 36.00% | ~84,690 |
-| Shootout | 36.00% | ~84,690 |
-| I Am Overburdened | 35.00% | ~82,338 |
-| Cold Hearted | 34.00% | ~79,985 |
+| First Steps | 96.00% | ~225,843 |
+| Uncharted Territory | 89.00% | ~209,375 |
+| Getting A Glimpse | 73.00% | ~171,735 |
+| A Quick Escape | 65.00% | ~152,914 |
+| Explorer | 62.00% | ~145,857 |
+| Defeat The Dark | 61.00% | ~143,504 |
+| An Offering | 61.00% | ~143,504 |
+| Colorful Corpse | 58.00% | ~136,447 |
+| That Was Quick | 57.00% | ~134,094 |
+| A Donation | 57.00% | ~134,094 |
+| Goodbye, Frog Friend | 54.00% | ~127,037 |
+| Heavy Hitter | 53.00% | ~124,684 |
+| Heartless | 46.00% | ~108,216 |
+| Spine Breaker | 46.00% | ~108,216 |
+| Deflection | 45.00% | ~105,864 |
+| Sneaky | 43.00% | ~101,159 |
+| Delving Deeper | 42.00% | ~98,806 |
+| C-C-Combo | 42.00% | ~98,806 |
+| Ambitious Intent | 41.00% | ~96,454 |
+| Nothing To Lose | 40.00% | ~94,101 |
+| The Bestiary | 40.00% | ~94,101 |
+| What's Yours Is Mine | 38.00% | ~89,396 |
+| R.I.P | 36.00% | ~84,691 |
+| Shootout | 36.00% | ~84,691 |
+| I Am Overburdened | 35.00% | ~82,339 |
+| Cold Hearted | 34.00% | ~79,986 |
 | Dig Your Own Grave | 33.00% | ~77,633 |
 | Toxic | 33.00% | ~77,633 |
-| Who To Trust? | 32.00% | ~75,280 |
+| Who To Trust? | 32.00% | ~75,281 |
 | Flesh Wound | 29.00% | ~68,223 |
-| Stone Touch | 28.00% | ~65,870 |
-| Shadow Walker | 28.00% | ~65,870 |
+| Stone Touch | 28.00% | ~65,871 |
+| Shadow Walker | 28.00% | ~65,871 |
 | Consecutive Curses | 27.00% | ~63,518 |
 | Walk It Off | 27.00% | ~63,518 |
 | Acid Bath | 27.00% | ~63,518 |
 | New Perspectives | 27.00% | ~63,518 |
 | Shapeshifting | 27.00% | ~63,518 |
-| Destroy Your Fears | 26.00% | ~61,165 |
+| Destroy Your Fears | 26.00% | ~61,166 |
 | Save Our Souls | 25.00% | ~58,813 |
-| To The Death! | 20.00% | ~47,050 |
-| Well Prepared | 20.00% | ~47,050 |
-| Just Chilling | 20.00% | ~47,050 |
+| To The Death! | 20.00% | ~47,051 |
+| Well Prepared | 20.00% | ~47,051 |
+| Just Chilling | 20.00% | ~47,051 |
 | Stop Hitting Yourself | 19.00% | ~44,698 |
-| All Consuming | 18.00% | ~42,345 |
+| All Consuming | 18.00% | ~42,346 |
 | Shadow Spreads | 17.00% | ~39,993 |
 | Don't Ignore Me! | 17.00% | ~39,993 |
 | Illuminate, Eliminate | 17.00% | ~39,993 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Down Under | 0.50% | ~1,176 |
 | Near Death Experience | 0.30% | ~706 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235,251 (Ranked 51)  
+Progressed: 235,253 (Ranked 51)  
 Completed: 263 (0.11%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,11 +263,11 @@ Completed: 263 (0.11%) (Ranked 214)
 | 2023-08-29 | 235,153 | 263 |
 | 2023-08-30 | 235,206 | 263 |
 | 2023-08-31 | 235,243 | 263 |
-| 2023-09-01 | 235,251 | 263 |
+| 2023-09-01 | 235,253 | 263 |
 ## Awards
-Max (Quickly Understood Controls): 1,488  (Ranked 123)  
+Max (Quickly Understood Controls): 1,488  (Ranked 122)  
 Sum: 11,543 (Ranked 79)  
-Diff (max vs sum): 44  
+Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,491 |

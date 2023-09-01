@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 180,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2744,9 +2744,9 @@
       "Count": 317
     }
   ],
-  "EOS_Progressed": 16469,
+  "EOS_Progressed": 16470,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -9869,6 +9869,11 @@
       "Time": "2023-09-01T04:03:49.7954283+00:00",
       "NumProgressed": 16469,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-09-01T05:04:03.4519707+00:00",
+      "NumProgressed": 16470,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 50,
@@ -9968,7 +9973,7 @@
       "Name": "First Real Expedition",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "WinHard",
@@ -10160,7 +10165,7 @@
       "Name": "The Marshlands",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "WinOnMoorlands",
@@ -10168,7 +10173,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "WinPrestige10",
@@ -10216,7 +10221,7 @@
       "Name": "Taking Action",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "WinWithResolve",
@@ -10256,7 +10261,7 @@
       "Name": "No Deaths",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "WinWithoutOrders",
@@ -10279,15 +10284,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 16469,
+      "Progressed": 16470,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-08-31T09:00:01.189861+00:00",
-  "LastChanged_Achievements": "2023-09-01T04:03:49.7954278+00:00",
+  "LastChanged_Achievements": "2023-09-01T05:04:03.4519701+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:51.2302699+00:00",
-  "LastUpdate_Ratings": "2023-09-01T04:00:10.0297948+00:00",
-  "LastUpdate_Achievements": "2023-09-01T04:03:49.7954936+00:00"
+  "LastUpdate_Ratings": "2023-09-01T05:00:10.5192704+00:00",
+  "LastUpdate_Achievements": "2023-09-01T05:04:03.4520861+00:00"
 }

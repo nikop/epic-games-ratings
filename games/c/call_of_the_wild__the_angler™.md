@@ -6,28 +6,28 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 78.00% | ~4,348 |
-| Hey Good Hookin | 68.00% | ~3,790 |
-| I'm on a Boat! | 58.00% | ~3,233 |
-| Can you smell what the Rod is Hooking | 54.00% | ~3,010 |
-| Scaling up | 54.00% | ~3,010 |
-| More Fish in the Sea | 47.00% | ~2,620 |
-| Ready to Rod and Roll | 45.00% | ~2,508 |
-| Fish Out of Water | 34.00% | ~1,895 |
+| Fish Just Got Reel | 78.00% | ~4,349 |
+| Hey Good Hookin | 68.00% | ~3,792 |
+| I'm on a Boat! | 58.00% | ~3,234 |
+| Can you smell what the Rod is Hooking | 54.00% | ~3,011 |
+| Scaling up | 54.00% | ~3,011 |
+| More Fish in the Sea | 47.00% | ~2,621 |
+| Ready to Rod and Roll | 45.00% | ~2,509 |
+| Fish Out of Water | 34.00% | ~1,896 |
 | License to Gill | 32.00% | ~1,784 |
-| Things that go Splash in the Night | 29.00% | ~1,616 |
-| Goldfish? | 27.00% | ~1,505 |
+| Things that go Splash in the Night | 29.00% | ~1,617 |
+| Goldfish? | 27.00% | ~1,506 |
 | Going for Gold | 25.00% | ~1,394 |
-| I'm Hooked! | 18.00% | ~1,003 |
+| I'm Hooked! | 18.00% | ~1,004 |
 | Diamond in the Rough | 12.00% | ~669 |
 | More than a Tourist | 11.00% | ~613 |
 | Hook, Line and Sinker | 7.00% | ~390 |
 | School's Out for Summer | 7.00% | ~390 |
 | Marathon | 7.00% | ~390 |
-| I'm the Captain Now | 6.00% | ~334 |
-| Big Fish Small Pond | 6.00% | ~334 |
+| I'm the Captain Now | 6.00% | ~335 |
+| Big Fish Small Pond | 6.00% | ~335 |
 | Gonna Need a Bigger Boat | 3.00% | ~167 |
-| The Beetles | 2.00% | ~111 |
+| The Beetles | 2.00% | ~112 |
 | Rod and Troll | 2.00% | ~99 |
 | No Fin left to give | 1.00% | ~56 |
 | Taylor Made | 1.00% | ~56 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.10% | ~5 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,574 (Ranked 141)  
+Progressed: 5,576 (Ranked 141)  
 Completed: 0 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 0 (0.00%) (Ranked 270)
 | 2023-08-29 | 5,392 | 0 |
 | 2023-08-30 | 5,496 | 0 |
 | 2023-08-31 | 5,570 | 0 |
-| 2023-09-01 | 5,574 | 0 |
+| 2023-09-01 | 5,576 | 0 |
 ## Awards
 Max (Relaxing): 33  (Ranked 449)  
 Sum: 165 (Ranked 391)  

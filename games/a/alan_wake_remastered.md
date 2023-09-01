@@ -6,10 +6,10 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 38.00% | ~23,589 |
+| Follow the Light | 38.00% | ~23,590 |
 | Let There Be Light | 31.00% | ~19,244 |
 | Float Like a Butterfly | 30.00% | ~18,623 |
-| Nordic Walking | 24.00% | ~14,898 |
+| Nordic Walking | 24.00% | ~14,899 |
 | Bright Falls' Finest | 23.00% | ~14,278 |
 | Under a Thin Layer of Skin | 21.00% | ~13,036 |
 | Park Ranger | 17.00% | ~10,553 |
@@ -27,10 +27,10 @@ Number of Ratings: 524  (23.09.2022)
 | Iron Horse | 12.00% | ~7,449 |
 | Perchance to Dream | 12.00% | ~7,449 |
 | Come One, Come All | 12.00% | ~7,449 |
-| Gatekeeper | 11.00% | ~6,828 |
-| It's Not Just a Typewriter Brand | 11.00% | ~6,828 |
-| Thunder and Lightning | 11.00% | ~6,828 |
-| Two For the Price of One | 11.00% | ~6,828 |
+| Gatekeeper | 11.00% | ~6,829 |
+| It's Not Just a Typewriter Brand | 11.00% | ~6,829 |
+| Thunder and Lightning | 11.00% | ~6,829 |
+| Two For the Price of One | 11.00% | ~6,829 |
 | The Lady of the Light | 10.00% | ~6,208 |
 | Energized! | 10.00% | ~6,208 |
 | What Light Through Yonder Window | 9.00% | ~5,587 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~62 |
 | No Punctuation | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,077 (Ranked 87)  
+Progressed: 62,078 (Ranked 87)  
 Completed: 65 (0.10%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,7 +208,7 @@ Completed: 65 (0.10%) (Ranked 217)
 | 2023-08-29 | 61,953 | 65 |
 | 2023-08-30 | 62,006 | 65 |
 | 2023-08-31 | 62,064 | 65 |
-| 2023-09-01 | 62,077 | 65 |
+| 2023-09-01 | 62,078 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

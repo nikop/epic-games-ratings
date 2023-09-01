@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 39,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2022-10-14T10:00:00+00:00",
@@ -194,11 +194,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2330,
+  "EOS_Progressed": 2331,
   "EOS_Completed": 163,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 7,
+  "EOS_Completed_Percentage": 6.99,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:11.2661107+00:00",
@@ -2429,6 +2429,11 @@
       "Time": "2023-08-31T01:47:21.1320248+00:00",
       "NumProgressed": 2330,
       "NumCompleted": 163
+    },
+    {
+      "Time": "2023-09-01T05:07:36.962831+00:00",
+      "NumProgressed": 2331,
+      "NumCompleted": 163
     }
   ],
   "TotalAchievements": 12,
@@ -2440,7 +2445,7 @@
       "Name": "001",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "002",
@@ -2504,7 +2509,7 @@
       "Name": "009",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "010",
@@ -2512,7 +2517,7 @@
       "Name": "010",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "011",
@@ -2520,7 +2525,7 @@
       "Name": "011",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "012",
@@ -2528,14 +2533,14 @@
       "Name": "012",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     }
   ],
   "AchievementSets": [
     {
       "ID": "94k0mj8",
       "IsBase": true,
-      "Progressed": 2330,
+      "Progressed": 2331,
       "Completed": 163
     }
   ],
@@ -2543,8 +2548,8 @@
   "FirstSeenRating": "2022-10-15T14:30:48.7901656+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.2661117+00:00",
   "LastChanged": "2023-07-23T02:06:43.3775839+00:00",
-  "LastChanged_Achievements": "2023-09-01T04:07:47.5853927+00:00",
+  "LastChanged_Achievements": "2023-09-01T05:07:36.9628304+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:50.4123605+00:00",
-  "LastUpdate_Ratings": "2023-09-01T03:57:21.9317692+00:00",
-  "LastUpdate_Achievements": "2023-09-01T04:07:47.5854127+00:00"
+  "LastUpdate_Ratings": "2023-09-01T04:57:40.0910609+00:00",
+  "LastUpdate_Achievements": "2023-09-01T05:07:36.9628559+00:00"
 }

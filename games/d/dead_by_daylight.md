@@ -7,20 +7,20 @@ Number of Ratings: 70,340  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | MU/TH/UR Dearest | 1.00% | ~8,347 |
-| It wakes | 0.90% | ~7,512 |
-| Skillful | 0.80% | ~6,677 |
+| It wakes | 0.90% | ~7,513 |
+| Skillful | 0.80% | ~6,678 |
 | Zealous | 0.70% | ~5,843 |
 | Not half bad | 0.60% | ~5,008 |
 | Apt Survivor | 0.60% | ~5,008 |
 | Make Some Noise | 0.60% | ~5,008 |
-| Handyman | 0.50% | ~4,173 |
-| Survival Treasures | 0.50% | ~4,173 |
-| Sorted | 0.50% | ~4,173 |
-| Terror of LV-426 | 0.50% | ~4,173 |
+| Medic | 0.50% | ~4,174 |
+| Handyman | 0.50% | ~4,174 |
+| Survival Treasures | 0.50% | ~4,174 |
+| Sorted | 0.50% | ~4,174 |
+| Terror of LV-426 | 0.50% | ~4,174 |
 | The Grand Sacrifice | 0.40% | ~3,339 |
 | Backdoor Escape | 0.40% | ~3,339 |
 | No one left behind | 0.40% | ~3,339 |
-| Medic | 0.40% | ~3,339 |
 | Nerves of steel | 0.40% | ~3,339 |
 | Perfect Escape | 0.40% | ~3,339 |
 | Bloody Millionaire | 0.40% | ~3,339 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~835 |
 | Adept Ripley | 0.10% | ~835 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 834,651 (Ranked 15)  
+Progressed: 834,729 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -370,7 +370,7 @@ Completed: 48 (0.01%) (Ranked 257)
 | 2023-08-29 | 828,020 | 48 |
 | 2023-08-30 | 831,117 | 48 |
 | 2023-08-31 | 834,142 | 48 |
-| 2023-09-01 | 834,651 | 48 |
+| 2023-09-01 | 834,729 | 48 |
 ## Awards
 Max (Diverse Characters): 31,726  (Ranked 15)  
 Sum: 248,945 (Ranked 11)  

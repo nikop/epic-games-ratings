@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 413,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 62,
+  "Ranking_EOS_NewPlayers": 61,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
@@ -324,9 +324,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 67554,
+  "EOS_Progressed": 67555,
   "EOS_Completed": 350,
-  "EOS_NewPlayers": 783,
+  "EOS_NewPlayers": 784,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -14859,6 +14859,11 @@
       "Time": "2023-09-01T04:07:40.6848229+00:00",
       "NumProgressed": 67554,
       "NumCompleted": 350
+    },
+    {
+      "Time": "2023-09-01T05:07:30.9547894+00:00",
+      "NumProgressed": 67555,
+      "NumCompleted": 350
     }
   ],
   "TotalAchievements": 24,
@@ -14878,7 +14883,7 @@
       "Name": "AWAKEN",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 14186
+      "UsersEstimate": 14187
     },
     {
       "ID": "A_GUARDIAN_FORGOTTEN",
@@ -14910,7 +14915,7 @@
       "Name": "ERADICATE",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 14186
+      "UsersEstimate": 14187
     },
     {
       "ID": "FETCH",
@@ -15014,7 +15019,7 @@
       "Name": "SPIRIT BARK",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 14186
+      "UsersEstimate": 14187
     },
     {
       "ID": "SPIRIT_DASH",
@@ -15046,7 +15051,7 @@
       "Name": "WEIGHTLESS",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 8106
+      "UsersEstimate": 8107
     },
     {
       "ID": "WRITTEN_IN_STONE",
@@ -15061,7 +15066,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 67554,
+      "Progressed": 67555,
       "Completed": 350
     }
   ],
@@ -15069,8 +15074,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-09-01T04:07:40.6848225+00:00",
+  "LastChanged_Achievements": "2023-09-01T05:07:30.9547888+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:56.7708219+00:00",
-  "LastUpdate_Ratings": "2023-09-01T03:58:59.2928938+00:00",
-  "LastUpdate_Achievements": "2023-09-01T04:07:40.6849067+00:00"
+  "LastUpdate_Ratings": "2023-09-01T04:59:08.1873012+00:00",
+  "LastUpdate_Achievements": "2023-09-01T05:07:30.9549356+00:00"
 }
