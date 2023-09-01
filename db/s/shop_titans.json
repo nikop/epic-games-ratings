@@ -5830,9 +5830,9 @@
       "Count": 3740
     }
   ],
-  "EOS_Progressed": 135478,
+  "EOS_Progressed": 135480,
   "EOS_Completed": 140,
-  "EOS_NewPlayers": 410,
+  "EOS_NewPlayers": 405,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -19555,6 +19555,11 @@
       "Time": "2023-09-01T12:03:18.3139096+00:00",
       "NumProgressed": 135478,
       "NumCompleted": 140
+    },
+    {
+      "Time": "2023-09-01T13:08:06.292809+00:00",
+      "NumProgressed": 135480,
+      "NumCompleted": 140
     }
   ],
   "TotalAchievements": 112,
@@ -20461,15 +20466,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135478,
+      "Progressed": 135480,
       "Completed": 140
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-01T05:57:42.9079152+00:00",
-  "LastChanged_Achievements": "2023-09-01T12:03:18.3139085+00:00",
+  "LastChanged_Achievements": "2023-09-01T13:08:06.2928083+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:19.0477827+00:00",
-  "LastUpdate_Ratings": "2023-09-01T11:57:45.3658986+00:00",
-  "LastUpdate_Achievements": "2023-09-01T12:03:18.3141701+00:00"
+  "LastUpdate_Ratings": "2023-09-01T13:02:27.7322972+00:00",
+  "LastUpdate_Achievements": "2023-09-01T13:08:06.2930635+00:00"
 }

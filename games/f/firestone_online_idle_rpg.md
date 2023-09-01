@@ -7,8 +7,8 @@ Rating: 4.04 (Ranked 935)
 | ---- | ---------- | ----- |
 | Victor | 93.00% | ~1,747 |
 | World Map | 79.00% | ~1,484 |
-| Temple of Eternals | 57.00% | ~1,070 |
-| Prestigious | 54.00% | ~1,014 |
+| Temple of Eternals | 57.00% | ~1,071 |
+| Prestigious | 54.00% | ~1,015 |
 | Fellowship Power | 41.00% | ~770 |
 | Guild Power | 25.00% | ~470 |
 | Prestigious x10 | 22.00% | ~413 |
@@ -17,7 +17,7 @@ Rating: 4.04 (Ranked 935)
 | Dragon Clicker | 17.00% | ~319 |
 | Inspection | 17.00% | ~319 |
 | Miner Clicker | 17.00% | ~319 |
-| Full Party | 16.00% | ~300 |
+| Full Party | 16.00% | ~301 |
 | Dragon Master | 15.00% | ~282 |
 | Enlightenment | 15.00% | ~282 |
 | Hero inspection | 15.00% | ~282 |
@@ -44,12 +44,12 @@ Rating: 4.04 (Ranked 935)
 | The father of Dragons | 9.00% | ~169 |
 | Crystal Mining | 8.00% | ~150 |
 | Trader | 8.00% | ~150 |
-| Blueprint Upgrades | 7.00% | ~131 |
-| Dragon Slayer | 7.00% | ~131 |
-| Enchanting skill | 7.00% | ~131 |
-| Engineer Mastery | 7.00% | ~131 |
-| The Expeditioner | 7.00% | ~131 |
-| Weekly Quest Completionist | 7.00% | ~131 |
+| Blueprint Upgrades | 7.00% | ~132 |
+| Dragon Slayer | 7.00% | ~132 |
+| Enchanting skill | 7.00% | ~132 |
+| Engineer Mastery | 7.00% | ~132 |
+| The Expeditioner | 7.00% | ~132 |
+| Weekly Quest Completionist | 7.00% | ~132 |
 | Ancient Knowledge | 6.00% | ~113 |
 | How Do You Turn This On? | 6.00% | ~113 |
 | Lock And Load | 6.00% | ~113 |
@@ -58,9 +58,9 @@ Rating: 4.04 (Ranked 935)
 | The Alchemist | 6.00% | ~113 |
 | Active Member | 5.00% | ~94 |
 | Background Story | 5.00% | ~94 |
+| Ebony Jungle Liberator | 5.00% | ~94 |
 | Legendary | 5.00% | ~94 |
 | Arena Challenger | 4.00% | ~75 |
-| Ebony Jungle Liberator | 4.00% | ~75 |
 | What lies behind the bush | 3.00% | ~56 |
 | Gear Enchanting | 2.00% | ~38 |
 | Mythic Power | 2.00% | ~38 |
@@ -81,7 +81,7 @@ Rating: 4.04 (Ranked 935)
 | Silverwood liberator | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,878 (Ranked 175)  
+Progressed: 1,879 (Ranked 175)  
 Completed: 2 (0.11%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 2 (0.11%) (Ranked 215)
 | 2023-08-29 | 1,868 | 2 |
 | 2023-08-30 | 1,873 | 2 |
 | 2023-08-31 | 1,875 | 2 |
-| 2023-09-01 | 1,878 | 2 |
+| 2023-09-01 | 1,879 | 2 |
 ## Awards
 Max (Great for Beginners): 20  (Ranked 510)  
 Sum: 20 (Ranked 510)  

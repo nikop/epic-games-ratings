@@ -19,10 +19,10 @@
 | Fifth Shard | 5.00% | ~13 |
 | Green Thumb | 4.00% | ~10 |
 | Finished Iron Danger | 4.00% | ~10 |
+| Mushroom Forager | 3.00% | ~8 |
 | Good Stew | 3.00% | ~8 |
 | Avian Veterinarian | 3.00% | ~8 |
 | Bird Butcherer | 3.00% | ~8 |
-| Mushroom Forager | 2.00% | ~5 |
 | Knock, Knock! | 2.00% | ~5 |
 | Natural Selection | 2.00% | ~5 |
 | Trolled | 2.00% | ~5 |

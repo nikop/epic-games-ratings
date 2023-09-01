@@ -30,8 +30,8 @@ Rating: 4.73 (Ranked 162)
 | Perfect throw | 22.00% | ~2,838 |
 | Knights! | 20.00% | ~2,580 |
 | Handful of pockets | 13.00% | ~1,677 |
+| Pocket laboratory | 12.00% | ~1,548 |
 | Not a toy anymore | 11.00% | ~1,419 |
-| Pocket laboratory | 11.00% | ~1,419 |
 | Herbalist | 8.00% | ~1,032 |
 | Fighter | 8.00% | ~1,032 |
 | Ornithologist | 5.00% | ~645 |

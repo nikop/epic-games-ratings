@@ -33,10 +33,10 @@
 | Cave Master | 28.00% | ~24 |
 | Face Slapper | 28.00% | ~24 |
 | Master Cook | 21.00% | ~18 |
-| Berserker Slayer | 15.00% | ~13 |
+| Berserker Slayer | 16.00% | ~14 |
 | Warden Slayer | 14.00% | ~12 |
 | Giantess Slayer | 13.00% | ~11 |
-| Boss challenge | 10.00% | ~9 |
+| Boss challenge | 11.00% | ~10 |
 | Big Face Goalkeeper Challenge | 3.00% | ~3 |
 | Silver Moon Wolf King Challenge | 3.00% | ~3 |
 | Rebellious | 2.00% | ~2 |
@@ -50,7 +50,7 @@
 | Furious Scorpion Challenge | 1.00% | ~1 |
 | Giant Lizard Challenge | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87 (Ranked 348)  
+Progressed: 87 (Ranked 349)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |

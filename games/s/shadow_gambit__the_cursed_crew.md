@@ -31,7 +31,7 @@
 | Fully Decked | 3.00% | ~17 |
 | Welcome Back Jester | 2.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 565 (Ranked 227)  
+Progressed: 565 (Ranked 228)  
 Completed: 9 (1.59%) (Ranked 104)  
 ## EOS Players History
 | Date | Progressed | Completed |

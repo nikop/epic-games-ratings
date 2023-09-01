@@ -2,13 +2,13 @@
   "ID": "cc1d104767dc4a2fa22a44d487e2db64",
   "Name": "60 Seconds! Reatomized",
   "ProductSlug": "60-seconds-reatomized-91ffa3",
-  "Ranking_Rating": 316,
+  "Ranking_Rating": 393,
   "Ranking_Popularity": 515,
   "Ranking_PopularitySum": 515,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2019-07-25T08:00:00+00:00",
@@ -19,7 +19,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.64,
+  "Rating": 4.6,
   "RatingHistory": [
     {
       "Time": "2023-03-12T08:56:56.6667632+00:00",
@@ -162,6 +162,12 @@
       "Rating": 4.64,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-09-01T13:04:24.5271604+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -170,7 +176,7 @@
   "Tags": [],
   "EOS_Progressed": 5028,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -4666,9 +4672,9 @@
       "ID": "ACH_ALL_CRAZY",
       "SetID": "5nj1ea3",
       "Name": "Cuckoo\u0027s nest",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_ALL_ITEMS",
@@ -5130,9 +5136,9 @@
   "FirstSeen": "2022-12-15T05:57:00.0275207+00:00",
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
-  "LastChanged": "2023-08-11T11:57:12.7338821+00:00",
-  "LastChanged_Achievements": "2023-09-01T12:03:35.1503893+00:00",
+  "LastChanged": "2023-09-01T13:04:24.5271602+00:00",
+  "LastChanged_Achievements": "2023-09-01T13:08:27.0273012+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:52.1849149+00:00",
-  "LastUpdate_Ratings": "2023-09-01T11:59:21.3534464+00:00",
-  "LastUpdate_Achievements": "2023-09-01T12:03:35.1504773+00:00"
+  "LastUpdate_Ratings": "2023-09-01T13:04:24.5271609+00:00",
+  "LastUpdate_Achievements": "2023-09-01T13:08:27.0274538+00:00"
 }

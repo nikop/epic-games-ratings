@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 105,
   "Ranking_EOS_NewPlayers": 274,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
     "PcReleaseDate": "2020-03-25T00:00:00+00:00",
@@ -526,9 +526,9 @@
       "ID": "ACH_FORAGER",
       "SetID": "ao59f0i",
       "Name": "Mushroom Forager",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_FORAGER_BERRY",
@@ -703,8 +703,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2023-09-01T12:02:20.1476081+00:00",
+  "LastChanged_Achievements": "2023-09-01T13:07:32.8670788+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:31.7572147+00:00",
-  "LastUpdate_Ratings": "2023-09-01T11:59:01.8907622+00:00",
-  "LastUpdate_Achievements": "2023-09-01T12:02:20.1476299+00:00"
+  "LastUpdate_Ratings": "2023-09-01T13:03:59.9080403+00:00",
+  "LastUpdate_Achievements": "2023-09-01T13:07:32.8671008+00:00"
 }

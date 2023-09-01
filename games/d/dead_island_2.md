@@ -8,17 +8,17 @@ Rating: 4.54 (Ranked 503)
 | Hotel California | 0.80% | ~5,365 |
 | Welcome To Hell-A | 0.80% | ~5,365 |
 | Break A Leg | 0.70% | ~4,695 |
+| Personal Assistant Personally Assisted | 0.70% | ~4,695 |
 | Dr. Reed, I Presume? | 0.60% | ~4,024 |
 | Git Gutte! | 0.60% | ~4,024 |
+| Bookworm | 0.60% | ~4,024 |
 | But Doctor, I am Butcho | 0.60% | ~4,024 |
 | Coup de Grâce | 0.60% | ~4,024 |
 | Hazardous Materials | 0.60% | ~4,024 |
 | Friends Like These | 0.60% | ~4,024 |
 | Apex Predator | 0.60% | ~4,024 |
 | Stacking the Deck | 0.60% | ~4,024 |
-| Personal Assistant Personally Assisted | 0.60% | ~4,024 |
 | This is My Weapon | 0.60% | ~4,024 |
-| Bookworm | 0.50% | ~3,353 |
 | Slayer Squad | 0.50% | ~3,353 |
 | Can't Handle the Truth | 0.50% | ~3,353 |
 | Like Riding a Bike | 0.50% | ~3,353 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 503)
 | Variety is the Spice of Death | 0.10% | ~671 |
 | Bucket List | 0.10% | ~671 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 670,650 (Ranked 22)  
+Progressed: 670,685 (Ranked 22)  
 Completed: 2,097 (0.31%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,10 +185,10 @@ Completed: 2,097 (0.31%) (Ranked 178)
 | 2023-08-29 | 668,912 | 2,088 |
 | 2023-08-30 | 669,636 | 2,094 |
 | 2023-08-31 | 670,394 | 2,097 |
-| 2023-09-01 | 670,650 | 2,097 |
+| 2023-09-01 | 670,685 | 2,097 |
 ## Awards
 Max (Great Boss Battles): 5,841  (Ranked 60)  
-Sum: 8,605 (Ranked 96)  
+Sum: 8,607 (Ranked 96)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
@@ -200,7 +200,7 @@ Diff (max vs sum): -36
 | This game has Amazing Storytelling | 334 |
 | This game is Extremely Fun | 313 |
 | This game has Amazing Characters | 307 |
-| This game is Highly Recommended | 301 |
+| This game is Highly Recommended | 303 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -337,4 +337,4 @@ Diff (max vs sum): -36
 | 2023-08-29 | 4.54 | 5,808 | 8,550 |
 | 2023-08-30 | 4.54 | 5,822 | 8,570 |
 | 2023-08-31 | 4.54 | 5,841 | 8,595 |
-| 2023-09-01 | 4.54 | 5,841 | 8,605 |
+| 2023-09-01 | 4.54 | 5,841 | 8,607 |

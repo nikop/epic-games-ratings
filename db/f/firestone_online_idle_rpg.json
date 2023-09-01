@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 510,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -244,9 +244,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1878,
+  "EOS_Progressed": 1879,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5279,6 +5279,11 @@
       "Time": "2023-09-01T12:08:19.9932046+00:00",
       "NumProgressed": 1878,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-01T13:12:30.4862048+00:00",
+      "NumProgressed": 1879,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -5338,7 +5343,7 @@
       "Name": "Blueprint Upgrades",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "cauldronliberator",
@@ -5410,15 +5415,15 @@
       "Name": "Dragon Slayer",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ebonyjungleliberator",
       "SetID": "3nl4bcg",
       "Name": "Ebony Jungle Liberator",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 94
     },
     {
       "ID": "enchantingskill",
@@ -5426,7 +5431,7 @@
       "Name": "Enchanting skill",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "enchantingskillx5",
@@ -5442,7 +5447,7 @@
       "Name": "Engineer Mastery",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "enhancedwarmachines",
@@ -5498,7 +5503,7 @@
       "Name": "Full Party",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "gearenchanting",
@@ -5682,7 +5687,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1015
     },
     {
       "ID": "prestigiousx10",
@@ -5746,7 +5751,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1070
+      "UsersEstimate": 1071
     },
     {
       "ID": "thealchemist",
@@ -5762,7 +5767,7 @@
       "Name": "The Expeditioner",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "thefatherofdragons",
@@ -5866,7 +5871,7 @@
       "Name": "Weekly Quest Completionist",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "whatliesbehindthebush",
@@ -5889,7 +5894,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1878,
+      "Progressed": 1879,
       "Completed": 2
     }
   ],
@@ -5897,8 +5902,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-09-01T05:57:16.851178+00:00",
-  "LastChanged_Achievements": "2023-09-01T12:08:19.9932041+00:00",
+  "LastChanged_Achievements": "2023-09-01T13:12:30.486204+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:43.6351902+00:00",
-  "LastUpdate_Ratings": "2023-09-01T11:57:17.6399225+00:00",
-  "LastUpdate_Achievements": "2023-09-01T12:08:19.9933166+00:00"
+  "LastUpdate_Ratings": "2023-09-01T13:01:54.8388209+00:00",
+  "LastUpdate_Achievements": "2023-09-01T13:12:30.4864191+00:00"
 }

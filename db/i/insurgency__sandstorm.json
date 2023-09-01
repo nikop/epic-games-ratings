@@ -2,13 +2,13 @@
   "ID": "94cec4802e954a6c9579e29e8b817f3a",
   "Name": "Insurgency: Sandstorm",
   "ProductSlug": "insurgency-sandstorm",
-  "Ranking_Rating": 354,
+  "Ranking_Rating": 353,
   "Ranking_Popularity": 223,
   "Ranking_PopularitySum": 167,
   "Ranking_EOS_Progress": 38,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 30,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-02-10T17:00:00+00:00",
     "PcReleaseDate": "2018-12-12T12:21:00+00:00",
@@ -3223,9 +3223,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 438920,
+  "EOS_Progressed": 438928,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2700,
+  "EOS_NewPlayers": 2699,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18103,6 +18103,11 @@
       "Time": "2023-09-01T12:03:34.7288049+00:00",
       "NumProgressed": 438920,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-01T13:08:26.5687222+00:00",
+      "NumProgressed": 438928,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -18114,7 +18119,7 @@
       "Name": "Banged",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 8778
+      "UsersEstimate": 8779
     },
     {
       "ID": "ACH_BLINDFIRE",
@@ -18138,7 +18143,7 @@
       "Name": "Checkpoint Victory",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 8778
+      "UsersEstimate": 8779
     },
     {
       "ID": "ACH_CINEMATIC",
@@ -18186,7 +18191,7 @@
       "Name": "First Blood",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 8778
+      "UsersEstimate": 8779
     },
     {
       "ID": "ACH_FLACCID_PARALYSIS",
@@ -18194,7 +18199,7 @@
       "Name": "Flaccid Paralysis",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 8778
+      "UsersEstimate": 8779
     },
     {
       "ID": "ACH_GROUNDED",
@@ -18290,7 +18295,7 @@
       "Name": "Push Victory",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 8778
+      "UsersEstimate": 8779
     },
     {
       "ID": "ACH_REFLEXES",
@@ -18322,7 +18327,7 @@
       "Name": "Self-destructive",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 8778
+      "UsersEstimate": 8779
     },
     {
       "ID": "ACH_SEMPER_PARATUS",
@@ -18393,15 +18398,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 438920,
+      "Progressed": 438928,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-09-01T09:57:56.4547418+00:00",
-  "LastChanged_Achievements": "2023-09-01T12:03:34.7288042+00:00",
+  "LastChanged_Achievements": "2023-09-01T13:08:26.5687216+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:42.1535324+00:00",
-  "LastUpdate_Ratings": "2023-09-01T11:57:17.0417614+00:00",
-  "LastUpdate_Achievements": "2023-09-01T12:03:34.7289267+00:00"
+  "LastUpdate_Ratings": "2023-09-01T13:01:54.1024313+00:00",
+  "LastUpdate_Achievements": "2023-09-01T13:08:26.5688971+00:00"
 }

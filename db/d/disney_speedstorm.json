@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3139,
+  "EOS_Progressed": 3140,
   "EOS_Completed": 168,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 5.35,
   "EosHistory": [
@@ -4480,6 +4480,11 @@
       "Time": "2023-09-01T00:03:56.3464842+00:00",
       "NumProgressed": 3139,
       "NumCompleted": 168
+    },
+    {
+      "Time": "2023-09-01T13:09:02.255116+00:00",
+      "NumProgressed": 3140,
+      "NumCompleted": 168
     }
   ],
   "TotalAchievements": 24,
@@ -4547,7 +4552,7 @@
       "Name": "RELEASE THE KRAKEN",
       "Percentage": 14,
       "XP": 45,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "17",
@@ -4579,7 +4584,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "20",
@@ -4611,7 +4616,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 1004
+      "UsersEstimate": 1005
     },
     {
       "ID": "24",
@@ -4619,7 +4624,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 1004
+      "UsersEstimate": 1005
     },
     {
       "ID": "3",
@@ -4635,7 +4640,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 32,
       "XP": 80,
-      "UsersEstimate": 1004
+      "UsersEstimate": 1005
     },
     {
       "ID": "5",
@@ -4643,7 +4648,7 @@
       "Name": "ROOKIE",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1695
+      "UsersEstimate": 1696
     },
     {
       "ID": "6",
@@ -4651,7 +4656,7 @@
       "Name": "PRO",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 1067
+      "UsersEstimate": 1068
     },
     {
       "ID": "7",
@@ -4682,13 +4687,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3139,
+      "Progressed": 3140,
       "Completed": 168
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-09-01T12:04:04.8538518+00:00",
+  "LastChanged_Achievements": "2023-09-01T13:09:02.2551154+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:21.5696846+00:00",
-  "LastUpdate_Ratings": "2023-09-01T11:58:05.5916293+00:00",
-  "LastUpdate_Achievements": "2023-09-01T12:04:04.8538986+00:00"
+  "LastUpdate_Ratings": "2023-09-01T13:02:52.1926876+00:00",
+  "LastUpdate_Achievements": "2023-09-01T13:09:02.2551645+00:00"
 }

@@ -1,7 +1,7 @@
 # 60 Seconds! Reatomized
 [Store](https://store.epicgames.com/en-US/p/60-seconds-reatomized-91ffa3)  
 [View Rawdata](../../db/6/60_seconds!_reatomized.json)  
-Rating: 4.64 (Ranked 316)  
+Rating: 4.60 (Ranked 393)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -53,9 +53,9 @@ Rating: 4.64 (Ranked 316)
 | Panzer | 2.00% | ~101 |
 | Liberation | 2.00% | ~101 |
 | Not Alone | 2.00% | ~101 |
+| Cuckoo's nest | 1.00% | ~50 |
 | Raining Cats and Dogs | 1.00% | ~50 |
 | Konrad style! | 1.00% | ~50 |
-| Cuckoo's nest | 0.90% | ~45 |
 | Bughunter | 0.80% | ~40 |
 | Cat Lady | 0.80% | ~40 |
 | Pro gamer | 0.70% | ~35 |
@@ -229,3 +229,4 @@ Completed: 1 (0.02%) (Ranked 250)
 | 2023-07-30 | 4.64 | 0 | 0 |
 | 2023-08-02 | 4.65 | 0 | 0 |
 | 2023-08-11 | 4.64 | 0 | 0 |
+| 2023-09-01 | 4.60 | 0 | 0 |

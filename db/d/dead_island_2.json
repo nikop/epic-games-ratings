@@ -4072,10 +4072,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 8605,
       "NumberOfAwardsMax": 5841
+    },
+    {
+      "Time": "2023-09-01T13:02:23.4416437+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 8607,
+      "NumberOfAwardsMax": 5841
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8605,
+  "NumberOfAwards": 8607,
   "NumberOfAwardsMax": 5841,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4107,7 +4113,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 301
+      "Count": 303
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4134,9 +4140,9 @@
       "Count": 334
     }
   ],
-  "EOS_Progressed": 670650,
+  "EOS_Progressed": 670685,
   "EOS_Completed": 2097,
-  "EOS_NewPlayers": 5853,
+  "EOS_NewPlayers": 5845,
   "EOS_NewCompleters": 33,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -19059,6 +19065,11 @@
       "Time": "2023-09-01T12:04:25.6265935+00:00",
       "NumProgressed": 670650,
       "NumCompleted": 2097
+    },
+    {
+      "Time": "2023-09-01T13:09:27.9296903+00:00",
+      "NumProgressed": 670685,
+      "NumCompleted": 2097
     }
   ],
   "TotalAchievements": 45,
@@ -19124,9 +19135,9 @@
       "ID": "ach_bookworm",
       "SetID": "7km39fm",
       "Name": "Bookworm",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 3353
+      "UsersEstimate": 4024
     },
     {
       "ID": "ach_break_a_leg",
@@ -19348,9 +19359,9 @@
       "ID": "ach_star_performance",
       "SetID": "7km39fm",
       "Name": "Personal Assistant Personally Assisted",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4024
+      "UsersEstimate": 4695
     },
     {
       "ID": "ach_survival_expert",
@@ -19429,16 +19440,16 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 670650,
+      "Progressed": 670685,
       "Completed": 2097
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-09-01T11:57:40.6575278+00:00",
-  "LastChanged_Achievements": "2023-09-01T12:04:25.6265928+00:00",
+  "LastChanged": "2023-09-01T13:02:23.4416435+00:00",
+  "LastChanged_Achievements": "2023-09-01T13:09:27.9296899+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:11.0440218+00:00",
-  "LastUpdate_Ratings": "2023-09-01T11:57:40.6575286+00:00",
-  "LastUpdate_Achievements": "2023-09-01T12:04:25.6267228+00:00"
+  "LastUpdate_Ratings": "2023-09-01T13:02:23.4416443+00:00",
+  "LastUpdate_Achievements": "2023-09-01T13:09:27.9298239+00:00"
 }

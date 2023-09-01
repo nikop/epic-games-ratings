@@ -57,6 +57,7 @@
 | Curious | 3.00% | ~2 |
 | Pilgrim | 3.00% | ~2 |
 | Diligent | 3.00% | ~2 |
+| 80Gb HDD | 3.00% | ~2 |
 | System Captain | 3.00% | ~2 |
 | Silver Pest Control | 3.00% | ~2 |
 | Mysterious Skin | 3.00% | ~2 |
@@ -77,7 +78,6 @@
 | Golden Pest Control | 2.00% | ~1 |
 | The Healer | 2.00% | ~1 |
 | Usurper III | 2.00% | ~1 |
-| 80Gb HDD | 2.00% | ~1 |
 | Galactic Captain | 2.00% | ~1 |
 | You've drone good! | 2.00% | ~1 |
 | Surrounded | 2.00% | ~1 |

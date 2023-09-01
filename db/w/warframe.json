@@ -2,13 +2,13 @@
   "ID": "244aaaa06bfa49d088205b13b9d2d115",
   "Name": "Warframe",
   "ProductSlug": "warframe",
-  "Ranking_Rating": 368,
+  "Ranking_Rating": 367,
   "Ranking_Popularity": 22,
   "Ranking_PopularitySum": 28,
   "Ranking_EOS_Progress": 571,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 340,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2020-12-11T00:55:00+00:00",
     "PcReleaseDate": "2020-03-25T18:34:00+00:00",
@@ -9095,10 +9095,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 45304,
       "NumberOfAwardsMax": 16769
+    },
+    {
+      "Time": "2023-09-01T13:07:15.4599287+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 45311,
+      "NumberOfAwardsMax": 16769
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 45304,
+  "NumberOfAwards": 45311,
   "NumberOfAwardsMax": 16769,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -9124,7 +9130,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 3566
+      "Count": 3573
     },
     {
       "Text": "This game is Highly Recommended",
@@ -9180,8 +9186,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:28.1019022+00:00",
-  "LastChanged": "2023-09-01T05:01:31.0770218+00:00",
+  "LastChanged": "2023-09-01T13:07:15.4599285+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:33.2099715+00:00",
-  "LastUpdate_Ratings": "2023-09-01T12:00:26.9370307+00:00",
-  "LastUpdate_Achievements": "2023-09-01T12:04:00.9432564+00:00"
+  "LastUpdate_Ratings": "2023-09-01T13:07:15.4599292+00:00",
+  "LastUpdate_Achievements": "2023-09-01T13:08:57.5183977+00:00"
 }
