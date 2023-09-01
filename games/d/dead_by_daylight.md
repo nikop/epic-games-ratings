@@ -6,10 +6,10 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MU/TH/UR Dearest | 0.90% | ~7,507 |
-| It wakes | 0.80% | ~6,673 |
-| Zealous | 0.70% | ~5,839 |
-| Skillful | 0.70% | ~5,839 |
+| MU/TH/UR Dearest | 0.90% | ~7,508 |
+| It wakes | 0.80% | ~6,674 |
+| Zealous | 0.70% | ~5,840 |
+| Skillful | 0.70% | ~5,840 |
 | Not half bad | 0.60% | ~5,005 |
 | Make Some Noise | 0.60% | ~5,005 |
 | Handyman | 0.50% | ~4,171 |
@@ -27,31 +27,34 @@ Number of Ratings: 70,340  (23.09.2022)
 | Sorted | 0.40% | ~3,337 |
 | Healthy Obsession | 0.40% | ~3,337 |
 | Resurgence | 0.40% | ~3,337 |
-| Agonizing Escape | 0.30% | ~2,502 |
-| I've got your back | 0.30% | ~2,502 |
-| Perfect Killing | 0.30% | ~2,502 |
-| Apt Killer | 0.30% | ~2,502 |
-| Risk it all | 0.30% | ~2,502 |
-| II | 0.30% | ~2,502 |
-| Engineer | 0.30% | ~2,502 |
-| Wounded Healer | 0.30% | ~2,502 |
-| Close Shave | 0.30% | ~2,502 |
-| Preemptive Strike | 0.30% | ~2,502 |
-| Humanitarian | 0.30% | ~2,502 |
-| Second Act | 0.30% | ~2,502 |
+| Preemptive Strike | 0.40% | ~3,337 |
+| Agonizing Escape | 0.30% | ~2,503 |
+| I've got your back | 0.30% | ~2,503 |
+| Perfect Killing | 0.30% | ~2,503 |
+| Apt Killer | 0.30% | ~2,503 |
+| Risk it all | 0.30% | ~2,503 |
+| II | 0.30% | ~2,503 |
+| Engineer | 0.30% | ~2,503 |
+| Wounded Healer | 0.30% | ~2,503 |
+| Close Shave | 0.30% | ~2,503 |
+| Humanitarian | 0.30% | ~2,503 |
+| Second Act | 0.30% | ~2,503 |
 | Blood on your hands | 0.20% | ~1,668 |
 | Made it out alive! | 0.20% | ~1,668 |
 | Gifts for the Fog | 0.20% | ~1,668 |
 | Vulture | 0.20% | ~1,668 |
 | III | 0.20% | ~1,668 |
 | III-50 | 0.20% | ~1,668 |
+| All Aboard | 0.20% | ~1,668 |
 | Item of Obsession | 0.20% | ~1,668 |
 | Holiday Get-Together | 0.20% | ~1,668 |
 | Near-Death Experience | 0.20% | ~1,668 |
 | Cherish your Life | 0.20% | ~1,668 |
 | Unforgettable Getaway | 0.20% | ~1,668 |
+| Cutting Out | 0.20% | ~1,668 |
 | First to the Punch | 0.20% | ~1,668 |
 | Old West Oasis | 0.20% | ~1,668 |
+| Classy Act | 0.20% | ~1,668 |
 | Every Last Drop | 0.20% | ~1,668 |
 | With Scars to Show | 0.20% | ~1,668 |
 | Flight to Freedom | 0.20% | ~1,668 |
@@ -85,7 +88,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Triggered | 0.10% | ~834 |
 | Even Punishment | 0.10% | ~834 |
 | Adept Hag | 0.10% | ~834 |
-| All Aboard | 0.10% | ~834 |
 | Deep Cleansing | 0.10% | ~834 |
 | Adept Ace | 0.10% | ~834 |
 | Shocking Treatment | 0.10% | ~834 |
@@ -140,7 +142,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Plague | 0.10% | ~834 |
 | Shrine Apparatus | 0.10% | ~834 |
 | Adept Jane | 0.10% | ~834 |
-| Cutting Out | 0.10% | ~834 |
 | Outrun Evil | 0.10% | ~834 |
 | Adept Ash | 0.10% | ~834 |
 | Silent Approach | 0.10% | ~834 |
@@ -168,7 +169,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Cleansed in Agony | 0.10% | ~834 |
 | Death of Ignorance | 0.10% | ~834 |
 | Adept Executioner | 0.10% | ~834 |
-| Classy Act | 0.10% | ~834 |
 | Adept Cheryl | 0.10% | ~834 |
 | Speed Kills | 0.10% | ~834 |
 | I See You | 0.10% | ~834 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~834 |
 | Adept Ripley | 0.10% | ~834 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 834,142 (Ranked 15)  
+Progressed: 834,248 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -370,6 +370,7 @@ Completed: 48 (0.01%) (Ranked 257)
 | 2023-08-29 | 828,020 | 48 |
 | 2023-08-30 | 831,117 | 48 |
 | 2023-08-31 | 834,142 | 48 |
+| 2023-09-01 | 834,248 | 48 |
 ## Awards
 Max (Diverse Characters): 31,726  (Ranked 15)  
 Sum: 248,913 (Ranked 11)  

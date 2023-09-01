@@ -6,29 +6,29 @@ Number of Ratings: 154  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Sonic the Hedgehog | 93.00% | ~411 |
-| Newbie Hero | 81.00% | ~358 |
-| Welcome to Sonic 3 & Knuckles | 74.00% | ~327 |
+| Welcome to Sonic the Hedgehog | 93.00% | ~412 |
+| Newbie Hero | 81.00% | ~359 |
+| Welcome to Sonic 3 & Knuckles | 74.00% | ~328 |
 | Welcome to Sonic CD | 73.00% | ~323 |
 | Welcome to Sonic the Hedgehog 2 | 73.00% | ~323 |
-| Ring Collector | 69.00% | ~305 |
-| Time Traveler | 67.00% | ~296 |
-| Everyone's Hero | 64.00% | ~283 |
-| Knuckles the Echidna | 62.00% | ~274 |
+| Ring Collector | 69.00% | ~306 |
+| Time Traveler | 67.00% | ~297 |
+| Everyone's Hero | 64.00% | ~284 |
+| Knuckles the Echidna | 62.00% | ~275 |
 | Easy Peasy with Shields | 61.00% | ~270 |
 | Gallant Spin Dash | 61.00% | ~270 |
-| Miles "Tails" Prower | 60.00% | ~265 |
-| Bubbly Breath | 58.00% | ~256 |
-| Boss Rush Attempt | 53.00% | ~234 |
-| Cleared Sonic the Hedgehog | 50.00% | ~221 |
-| Super Sonic | 46.00% | ~203 |
+| Miles "Tails" Prower | 60.00% | ~266 |
+| Bubbly Breath | 58.00% | ~257 |
+| Boss Rush Attempt | 53.00% | ~235 |
+| Cleared Sonic the Hedgehog | 50.00% | ~222 |
+| Super Sonic | 46.00% | ~204 |
 | Museum Time | 45.00% | ~199 |
-| Shut Down Metal Sonic | 44.00% | ~194 |
-| Beware Stingers! | 44.00% | ~194 |
-| Very First Mission Clear! | 44.00% | ~194 |
+| Shut Down Metal Sonic | 44.00% | ~195 |
+| Beware Stingers! | 44.00% | ~195 |
+| Very First Mission Clear! | 44.00% | ~195 |
 | Beware Moto Bugs! | 42.00% | ~186 |
 | Cleared Sonic the Hedgehog 2 | 42.00% | ~186 |
-| Cleared Sonic CD | 41.00% | ~181 |
+| Cleared Sonic CD | 41.00% | ~182 |
 | Cleared Sonic the Hedgehog 3 & Knuckles | 38.00% | ~168 |
 | Lucky Hedgehog | 31.00% | ~137 |
 | All Clear! | 31.00% | ~137 |
@@ -42,8 +42,8 @@ Number of Ratings: 154  (23.09.2022)
 | S3 & K Mission Master | 15.00% | ~66 |
 | Sonic the Hedgehog 2 Mission Master | 14.00% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 442 (Ranked 242)  
-Completed: 40 (9.05%) (Ranked 32)  
+Progressed: 443 (Ranked 243)  
+Completed: 40 (9.03%) (Ranked 32)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -112,6 +112,7 @@ Completed: 40 (9.05%) (Ranked 32)
 | 2023-08-28 | 435 | 40 |
 | 2023-08-30 | 439 | 40 |
 | 2023-08-31 | 442 | 40 |
+| 2023-09-01 | 443 | 40 |
 ## Awards
 Max (Great Boss Battles): 127  (Ranked 311)  
 Sum: 127 (Ranked 405)  

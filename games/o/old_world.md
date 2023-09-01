@@ -6,11 +6,11 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 4.00% | ~548 |
-| Settler | 4.00% | ~548 |
-| Friendly Family | 4.00% | ~548 |
-| Play a Single Player Game | 4.00% | ~548 |
-| The Clergy | 4.00% | ~548 |
+| Explorer | 4.00% | ~549 |
+| Settler | 4.00% | ~549 |
+| Friendly Family | 4.00% | ~549 |
+| Play a Single Player Game | 4.00% | ~549 |
+| The Clergy | 4.00% | ~549 |
 | Able | 3.00% | ~411 |
 | Architect | 3.00% | ~411 |
 | Good | 3.00% | ~411 |
@@ -83,6 +83,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Points Victory | 1.00% | ~137 |
 | Conqueror | 0.90% | ~123 |
 | Lion | 0.90% | ~123 |
+| Good Difficulty | 0.90% | ~123 |
+| Traders | 0.90% | ~123 |
 | Temple of Solomon | 0.90% | ~123 |
 | Pantheon | 0.90% | ~123 |
 | Via Recta Souk | 0.90% | ~123 |
@@ -96,9 +98,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Invincible | 0.80% | ~110 |
 | Ready | 0.80% | ~110 |
 | Subjugator | 0.80% | ~110 |
-| Good Difficulty | 0.80% | ~110 |
 | Statesmen | 0.80% | ~110 |
-| Traders | 0.80% | ~110 |
 | Hittite Iron | 0.80% | ~110 |
 | Circus Maximus | 0.80% | ~110 |
 | Hagia Sophia | 0.80% | ~110 |
@@ -112,6 +112,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Riders | 0.70% | ~96 |
 | Church of the Holy Sepulchre | 0.70% | ~96 |
 | Adur Burzen-Mihr | 0.70% | ~96 |
+| Carthage | 0.70% | ~96 |
 | Assyrian Paganism | 0.70% | ~96 |
 | Industrial Progress | 0.70% | ~96 |
 | Military Prestige | 0.70% | ~96 |
@@ -121,15 +122,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Veneration | 0.70% | ~96 |
 | Cimmerian Archer | 0.70% | ~96 |
 | Bad Heir Day | 0.60% | ~82 |
+| Ishtar Gate in Babylon | 0.60% | ~82 |
 | Strong Difficulty | 0.60% | ~82 |
 | Hunters | 0.60% | ~82 |
 | Learn to Play 4 | 0.60% | ~82 |
 | Babylonia | 0.60% | ~82 |
-| Carthage | 0.60% | ~82 |
 | Hittite Paganism | 0.60% | ~82 |
 | Kushite Cavalry | 0.60% | ~82 |
 | No Undo | 0.60% | ~82 |
-| Ishtar Gate in Babylon | 0.50% | ~69 |
 | Old | 0.50% | ~69 |
 | Peacemaker | 0.50% | ~69 |
 | Clerics | 0.50% | ~69 |
@@ -144,6 +144,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cao'an | 0.40% | ~55 |
 | Old World Order | 0.40% | ~55 |
 | Play a Network Game | 0.40% | ~55 |
+| Ten Crowns | 0.40% | ~55 |
 | Three Man Chariot | 0.40% | ~55 |
 | Pilgrimage | 0.40% | ~55 |
 | Ancient | 0.30% | ~41 |
@@ -155,7 +156,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon of Gods | 0.30% | ~41 |
 | Play a Free-For-All Game (>2 Players) | 0.30% | ~41 |
 | Capturing Cities | 0.30% | ~41 |
-| Ten Crowns | 0.30% | ~41 |
 | Siege Tower | 0.30% | ~41 |
 | Conquest Victory | 0.30% | ~41 |
 | Necropolis in Waset | 0.30% | ~41 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,711 (Ranked 120)  
+Progressed: 13,713 (Ranked 120)  
 Completed: 5 (0.04%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -437,6 +437,7 @@ Completed: 5 (0.04%) (Ranked 239)
 | 2023-08-29 | 13,661 | 5 |
 | 2023-08-30 | 13,689 | 5 |
 | 2023-08-31 | 13,711 | 5 |
+| 2023-09-01 | 13,713 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,800 (Ranked 207)  

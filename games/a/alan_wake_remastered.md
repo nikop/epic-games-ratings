@@ -6,23 +6,23 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 38.00% | ~23,584 |
-| Let There Be Light | 31.00% | ~19,240 |
-| Float Like a Butterfly | 30.00% | ~18,619 |
-| Nordic Walking | 24.00% | ~14,895 |
-| Bright Falls' Finest | 23.00% | ~14,275 |
-| Under a Thin Layer of Skin | 21.00% | ~13,033 |
-| Park Ranger | 17.00% | ~10,551 |
-| Paging Mr. Wake | 17.00% | ~10,551 |
-| Back! Back, I Say! | 16.00% | ~9,930 |
-| Finders Keepers | 16.00% | ~9,930 |
+| Follow the Light | 38.00% | ~23,586 |
+| Let There Be Light | 31.00% | ~19,241 |
+| Float Like a Butterfly | 30.00% | ~18,620 |
+| Nordic Walking | 24.00% | ~14,896 |
+| Bright Falls' Finest | 23.00% | ~14,276 |
+| Under a Thin Layer of Skin | 21.00% | ~13,034 |
+| Park Ranger | 17.00% | ~10,552 |
+| Paging Mr. Wake | 17.00% | ~10,552 |
+| Back! Back, I Say! | 16.00% | ~9,931 |
+| Finders Keepers | 16.00% | ~9,931 |
 | Damn Good Cup of Coffee | 15.00% | ~9,310 |
-| Wheels Within Wheels | 14.00% | ~8,689 |
-| They're Heeeeeere! | 14.00% | ~8,689 |
-| Sound and Fury | 14.00% | ~8,689 |
-| Missed by a Mile | 14.00% | ~8,689 |
-| The Six-Gun Scribe | 13.00% | ~8,068 |
-| Collateral Carnage | 13.00% | ~8,068 |
+| Wheels Within Wheels | 14.00% | ~8,690 |
+| They're Heeeeeere! | 14.00% | ~8,690 |
+| Sound and Fury | 14.00% | ~8,690 |
+| Missed by a Mile | 14.00% | ~8,690 |
+| The Six-Gun Scribe | 13.00% | ~8,069 |
+| Collateral Carnage | 13.00% | ~8,069 |
 | Heavy Metal | 12.00% | ~7,448 |
 | Iron Horse | 12.00% | ~7,448 |
 | Perchance to Dream | 12.00% | ~7,448 |
@@ -31,13 +31,13 @@ Number of Ratings: 524  (23.09.2022)
 | It's Not Just a Typewriter Brand | 11.00% | ~6,827 |
 | Thunder and Lightning | 11.00% | ~6,827 |
 | Two For the Price of One | 11.00% | ~6,827 |
-| The Lady of the Light | 10.00% | ~6,206 |
-| Energized! | 10.00% | ~6,206 |
+| The Lady of the Light | 10.00% | ~6,207 |
+| Energized! | 10.00% | ~6,207 |
 | What Light Through Yonder Window | 9.00% | ~5,586 |
 | Right of Way | 9.00% | ~5,586 |
 | Tornado Wrangler | 8.00% | ~4,965 |
 | A Friend in Need | 8.00% | ~2,043 |
-| Departure | 7.00% | ~4,344 |
+| Departure | 7.00% | ~4,345 |
 | Drink 'Em Both Up | 6.00% | ~3,724 |
 | Hardboiled Writer | 6.00% | ~3,724 |
 | A Friend Indeed | 6.00% | ~1,532 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~62 |
 | No Punctuation | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,064 (Ranked 87)  
+Progressed: 62,068 (Ranked 87)  
 Completed: 65 (0.10%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,6 +208,7 @@ Completed: 65 (0.10%) (Ranked 217)
 | 2023-08-29 | 61,953 | 65 |
 | 2023-08-30 | 62,006 | 65 |
 | 2023-08-31 | 62,064 | 65 |
+| 2023-09-01 | 62,068 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

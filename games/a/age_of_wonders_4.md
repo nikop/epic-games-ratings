@@ -47,7 +47,7 @@ Rating: 4.60 (Ranked 394)
 | I've Got Everything I Need Right Here | 1.00% | ~51 |
 | Pruning for Progress | 1.00% | ~51 |
 | Manufactured War | 0.90% | ~46 |
-| Snap Out of It! | 0.70% | ~36 |
+| Snap Out of It! | 0.80% | ~41 |
 | Betrayal Most Foul | 0.50% | ~26 |
 | I Want to Break Free | 0.30% | ~15 |
 | Returning Circle | 0.20% | ~10 |

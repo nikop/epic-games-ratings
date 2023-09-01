@@ -6,14 +6,14 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 80.00% | ~528,397 |
-| Every story has a beginning | 36.00% | ~237,779 |
-| The first of many | 31.00% | ~204,754 |
-| Positive word of mouth | 18.00% | ~118,889 |
-| Lawn in the U.S.A. | 15.00% | ~99,074 |
-| Blade Runner | 9.00% | ~59,445 |
-| Credible | 7.00% | ~46,235 |
-| Teamwork makes the dream work | 6.00% | ~39,630 |
+| The dream begins | 80.00% | ~528,407 |
+| Every story has a beginning | 36.00% | ~237,783 |
+| The first of many | 31.00% | ~204,758 |
+| Positive word of mouth | 18.00% | ~118,892 |
+| Lawn in the U.S.A. | 15.00% | ~99,076 |
+| Blade Runner | 9.00% | ~59,446 |
+| Credible | 7.00% | ~46,236 |
+| Teamwork makes the dream work | 6.00% | ~39,631 |
 | Where there's muck there's brass | 4.00% | ~26,420 |
 | Bigger and better | 4.00% | ~26,420 |
 | Aggressive expansion | 4.00% | ~26,420 |
@@ -27,41 +27,41 @@ Number of Ratings: 5,086  (23.09.2022)
 | First step on the ladder | 2.00% | ~13,210 |
 | Trusted | 2.00% | ~13,210 |
 | The top of the mountain | 1.00% | ~6,605 |
-| Earn your stripes | 0.90% | ~5,944 |
-| Lawn & Order | 0.90% | ~5,944 |
-| Jack of all trades | 0.90% | ~5,944 |
-| Professional | 0.90% | ~5,944 |
+| Earn your stripes | 0.90% | ~5,945 |
+| Lawn & Order | 0.90% | ~5,945 |
+| Jack of all trades | 0.90% | ~5,945 |
+| Professional | 0.90% | ~5,945 |
 | The grass is always greener | 0.80% | ~5,284 |
 | All hands on deck | 0.80% | ~5,284 |
 | Worked your grass off | 0.80% | ~5,284 |
 | Phoenix rises | 0.40% | ~2,642 |
 | Cut Loose | 0.40% | ~2,642 |
 | Esteemed | 0.40% | ~2,642 |
-| Hard times | 0.30% | ~1,981 |
+| Hard times | 0.30% | ~1,982 |
 | Zero to hero | 0.20% | ~1,321 |
 | In it for the long haul | 0.20% | ~1,321 |
 | Centurion | 0.20% | ~1,321 |
 | Distinguished | 0.20% | ~1,321 |
-| Amateur mower | 0.10% | ~660 |
-| Expert mower | 0.10% | ~660 |
-| Professional mower | 0.10% | ~660 |
-| Lawn on the 4th of July | 0.10% | ~660 |
-| A seat at the round table | 0.10% | ~660 |
-| Home game | 0.10% | ~660 |
-| Excalibur? | 0.10% | ~660 |
-| An axe to grind | 0.10% | ~660 |
-| Elderly chap, big grey beard, pointy hat. | 0.10% | ~660 |
-| Head of the family | 0.10% | ~660 |
-| Spared no expense | 0.10% | ~660 |
-| We’re going to make a fortune with this place | 0.10% | ~660 |
-| Don’t go into the long grass! | 0.10% | ~660 |
-| Clever girl | 0.10% | ~660 |
-| We have a T-Rex | 0.10% | ~660 |
-| Welcome to Dino Safari! | 0.10% | ~660 |
-| Lawn Enforcement Officer | 0.10% | ~660 |
-| Mo mowers, mo problems | 0.10% | ~660 |
+| Amateur mower | 0.10% | ~661 |
+| Expert mower | 0.10% | ~661 |
+| Professional mower | 0.10% | ~661 |
+| Lawn on the 4th of July | 0.10% | ~661 |
+| A seat at the round table | 0.10% | ~661 |
+| Home game | 0.10% | ~661 |
+| Excalibur? | 0.10% | ~661 |
+| An axe to grind | 0.10% | ~661 |
+| Elderly chap, big grey beard, pointy hat. | 0.10% | ~661 |
+| Head of the family | 0.10% | ~661 |
+| Spared no expense | 0.10% | ~661 |
+| We’re going to make a fortune with this place | 0.10% | ~661 |
+| Don’t go into the long grass! | 0.10% | ~661 |
+| Clever girl | 0.10% | ~661 |
+| We have a T-Rex | 0.10% | ~661 |
+| Welcome to Dino Safari! | 0.10% | ~661 |
+| Lawn Enforcement Officer | 0.10% | ~661 |
+| Mo mowers, mo problems | 0.10% | ~661 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 660,496 (Ranked 24)  
+Progressed: 660,509 (Ranked 24)  
 Completed: 16 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,6 +195,7 @@ Completed: 16 (0.00%) (Ranked 270)
 | 2023-08-29 | 659,885 | 15 |
 | 2023-08-30 | 660,189 | 16 |
 | 2023-08-31 | 660,496 | 16 |
+| 2023-09-01 | 660,509 | 16 |
 ## Awards
 Max (Quickly Understood Controls): 181  (Ranked 282)  
 Sum: 976 (Ranked 240)  

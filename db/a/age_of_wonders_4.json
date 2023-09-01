@@ -5986,9 +5986,9 @@
       "ID": "10",
       "SetID": "3aa2279",
       "Name": "Snap Out of It!",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 36
+      "UsersEstimate": 41
     },
     {
       "ID": "11",
@@ -6393,8 +6393,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-08-26T15:57:22.2345503+00:00",
-  "LastChanged_Achievements": "2023-08-31T23:06:47.1138183+00:00",
+  "LastChanged_Achievements": "2023-09-01T00:08:21.6410055+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:42.1934475+00:00",
-  "LastUpdate_Ratings": "2023-08-31T22:58:19.8838351+00:00",
-  "LastUpdate_Achievements": "2023-08-31T23:06:47.1139067+00:00"
+  "LastUpdate_Ratings": "2023-08-31T23:58:11.5738546+00:00",
+  "LastUpdate_Achievements": "2023-09-01T00:08:21.6411972+00:00"
 }

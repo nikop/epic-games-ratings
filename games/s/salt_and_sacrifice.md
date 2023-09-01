@@ -35,8 +35,8 @@ Number of Ratings: 2,205  (23.09.2022)
 | The Two Monks | 37.00% | ~24,425 |
 | The Neuromancer | 35.00% | ~23,105 |
 | Oathbound Watchers | 33.00% | ~21,784 |
+| The Mechanomancer | 33.00% | ~21,784 |
 | The Chronomancer | 32.00% | ~21,124 |
-| The Mechanomancer | 32.00% | ~21,124 |
 | The Copse | 30.00% | ~19,804 |
 | The Dragon | 30.00% | ~19,804 |
 | The Dracomancer | 30.00% | ~19,804 |

@@ -6,18 +6,18 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,740,934 |
-| Easy to forget | 46.00% | ~1,634,346 |
-| Back in the black | 39.00% | ~1,385,641 |
-| That's what I'm talking about | 29.00% | ~1,030,349 |
-| The Best of Both Worlds | 25.00% | ~888,232 |
-| Get your wings | 20.00% | ~710,585 |
-| Double trouble | 16.00% | ~568,468 |
-| Smashing it | 11.00% | ~390,822 |
-| But can it run Crysis? | 9.00% | ~319,763 |
-| My favourite feature... | 9.00% | ~319,763 |
-| From humble beginnings... | 7.00% | ~248,705 |
-| Customer satisfaction | 7.00% | ~248,705 |
+| You need to plug it in... | 49.00% | ~1,740,939 |
+| Easy to forget | 46.00% | ~1,634,351 |
+| Back in the black | 39.00% | ~1,385,645 |
+| That's what I'm talking about | 29.00% | ~1,030,352 |
+| The Best of Both Worlds | 25.00% | ~888,234 |
+| Get your wings | 20.00% | ~710,587 |
+| Double trouble | 16.00% | ~568,470 |
+| Smashing it | 11.00% | ~390,823 |
+| But can it run Crysis? | 9.00% | ~319,764 |
+| My favourite feature... | 9.00% | ~319,764 |
+| From humble beginnings... | 7.00% | ~248,706 |
+| Customer satisfaction | 7.00% | ~248,706 |
 | Keeping things neat | 4.00% | ~142,117 |
 | Seems you're pretty good at this | 4.00% | ~142,117 |
 | Bending over backwards | 4.00% | ~142,117 |
@@ -38,7 +38,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Majority Shareholder | 1.00% | ~35,529 |
 | Owner | 1.00% | ~35,529 |
 | Show off | 0.90% | ~31,976 |
-| Work ethic 101 | 0.70% | ~24,870 |
+| Work ethic 101 | 0.70% | ~24,871 |
 | Building momentum | 0.60% | ~21,318 |
 | Lead by example | 0.60% | ~21,318 |
 | Treat yourself - RAM | 0.50% | ~17,765 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,553 |
 | Treat yourself - GPU | 0.10% | ~3,553 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,552,926 (Ranked 5)  
+Progressed: 3,552,937 (Ranked 5)  
 Completed: 33 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,6 +193,7 @@ Completed: 33 (0.00%) (Ranked 270)
 | 2023-08-29 | 3,552,173 | 33 |
 | 2023-08-30 | 3,552,559 | 33 |
 | 2023-08-31 | 3,552,926 | 33 |
+| 2023-09-01 | 3,552,937 | 33 |
 ## Awards
 Max (Great for Beginners): 1,062  (Ranked 141)  
 Sum: 7,956 (Ranked 100)  
