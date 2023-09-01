@@ -92,10 +92,10 @@
 | 90 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.25% |
 | 91 | [Bloodshore](games/b/bloodshore.md) | 2.19% |
 | 92 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
-| 93 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.06% |
-| 94 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.00% |
+| 93 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.05% |
+| 94 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.01% |
 | 95 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
-| 95 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.92% |
+| 96 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.89% |
 | 97 | [Night Book](games/n/night_book.md) | 1.86% |
 | 98 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
 | 99 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
@@ -117,7 +117,7 @@
 | 115 | [Infindustry](games/i/infindustry.md) | 1.23% |
 | 116 | [Chorus](games/c/chorus.md) | 1.13% |
 | 117 | [Trifox](games/t/trifox.md) | 1.10% |
-| 118 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 1.09% |
+| 118 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 1.08% |
 | 119 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.06% |
 | 120 | [A Musical Story](games/a/a_musical_story.md) | 1.04% |
 | 121 | [Adios](games/a/adios.md) | 1.03% |
@@ -162,7 +162,7 @@
 | 159 | [Train Valley](games/t/train_valley.md) | 0.45% |
 | 161 | [Tails of Iron](games/t/tails_of_iron.md) | 0.43% |
 | 161 | [Tchia](games/t/tchia.md) | 0.43% |
-| 163 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.42% |
+| 163 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.41% |
 | 164 | [Ghostrunner](games/g/ghostrunner.md) | 0.40% |
 | 164 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 166 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.37% |
