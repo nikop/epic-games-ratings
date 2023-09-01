@@ -2,7 +2,7 @@
   "ID": "0b4313e25d17431b901edda54d678ab4",
   "Name": "Echo Storm",
   "ProductSlug": "echo-storm-4e5fbe",
-  "Ranking_EOS_Progress": 404,
+  "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 103,
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 39,
+  "EOS_Progressed": 40,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -206,6 +206,11 @@
       "Time": "2023-09-01T05:06:23.3393131+00:00",
       "NumProgressed": 39,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-01T16:06:15.972615+00:00",
+      "NumProgressed": 40,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 16,
@@ -223,17 +228,17 @@
       "ID": "earn3000",
       "SetID": "bma0pih",
       "Name": "Reach",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 60,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "fastBossKill",
       "SetID": "bma0pih",
       "Name": "Done in time",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "finishGame",
@@ -247,31 +252,31 @@
       "ID": "kill100",
       "SetID": "bma0pih",
       "Name": "Recruit",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "kill300",
       "SetID": "bma0pih",
       "Name": "Soldier",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 100,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "kill750",
       "SetID": "bma0pih",
       "Name": "War machine",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 150,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "killWithHammer",
       "SetID": "bma0pih",
       "Name": "Eternal blacksmith",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
       "UsersEstimate": 12
     },
@@ -279,9 +284,9 @@
       "ID": "leviathan01",
       "SetID": "bma0pih",
       "Name": "Flying death",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 55,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "leviathan02",
@@ -335,7 +340,7 @@
       "ID": "unlockPlasmaMoon",
       "SetID": "bma0pih",
       "Name": "Solar power",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 20,
       "UsersEstimate": 20
     }
@@ -344,14 +349,14 @@
     {
       "ID": "bma0pih",
       "IsBase": true,
-      "Progressed": 39,
+      "Progressed": 40,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-31T13:03:44.3512159+00:00",
   "FirstSeenAchievements": "2023-05-07T09:02:54.6493409+00:00",
-  "LastChanged_Achievements": "2023-09-01T15:05:12.5313808+00:00",
+  "LastChanged_Achievements": "2023-09-01T16:06:15.9726147+00:00",
   "LastUpdate_AppInfo": "2023-08-27T16:57:09.5121242+00:00",
-  "LastUpdate_Ratings": "2023-09-01T14:58:34.3935015+00:00",
-  "LastUpdate_Achievements": "2023-09-01T15:05:12.5313952+00:00"
+  "LastUpdate_Ratings": "2023-09-01T15:59:16.6752674+00:00",
+  "LastUpdate_Achievements": "2023-09-01T16:06:15.9726295+00:00"
 }

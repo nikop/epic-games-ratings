@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 27.00% | ~59,402 |
-| Déjà vu | 3.00% | ~6,600 |
-| Where's that freaking Dwarf? | 3.00% | ~6,600 |
-| Alt+F4 | 3.00% | ~6,600 |
-| A beer, two curses, three companions | 2.00% | ~4,400 |
-| Sock! SOCK! | 2.00% | ~4,400 |
-| GG EZ | 2.00% | ~4,400 |
-| DM intervention | 2.00% | ~4,400 |
-| Speedrun | 2.00% | ~4,400 |
-| Fireproof Wizardess | 2.00% | ~4,400 |
+| Sowwy! | 27.00% | ~59,408 |
+| Déjà vu | 3.00% | ~6,601 |
+| Where's that freaking Dwarf? | 3.00% | ~6,601 |
+| Alt+F4 | 3.00% | ~6,601 |
+| A beer, two curses, three companions | 2.00% | ~4,401 |
+| Sock! SOCK! | 2.00% | ~4,401 |
+| GG EZ | 2.00% | ~4,401 |
+| DM intervention | 2.00% | ~4,401 |
+| Speedrun | 2.00% | ~4,401 |
+| Fireproof Wizardess | 2.00% | ~4,401 |
 | Livin' in a dwarven paradise | 1.00% | ~2,200 |
 | Way of the Wimp | 1.00% | ~2,200 |
 | The plot thickens... At the tavern | 1.00% | ~2,200 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~220 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,009 (Ranked 57)  
+Progressed: 220,028 (Ranked 57)  
 Completed: 2 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 2 (0.00%) (Ranked 271)
 | 2023-08-29 | 219,078 | 2 |
 | 2023-08-30 | 219,453 | 2 |
 | 2023-08-31 | 219,794 | 2 |
-| 2023-09-01 | 220,009 | 2 |
+| 2023-09-01 | 220,028 | 2 |
 ## Awards
 Max (Character Customization): 185  (Ranked 279)  
 Sum: 233 (Ranked 360)  

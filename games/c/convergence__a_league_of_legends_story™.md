@@ -32,7 +32,7 @@ Rating: 4.60 (Ranked 393)
 | Street Style | 15.00% | ~128 |
 | Treasure Trove | 14.00% | ~119 |
 | Cartographer | 14.00% | ~119 |
-| Whiz Kid | 12.00% | ~102 |
+| Whiz Kid | 13.00% | ~111 |
 | Chaincrawler Explorer | 11.00% | ~94 |
 | Family Memories | 11.00% | ~94 |
 | Good Neighbor | 11.00% | ~94 |

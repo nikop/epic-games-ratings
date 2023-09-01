@@ -8,8 +8,8 @@
 | Greengrocer | 29.00% | ~10 |
 | Seven Days of Endless Adventure | 23.00% | ~8 |
 | Masu-ter Angler | 17.00% | ~6 |
+| Go-Getter | 17.00% | ~6 |
 | Just Hoverin' Along | 14.00% | ~5 |
-| Go-Getter | 14.00% | ~5 |
 | River Cleaner | 14.00% | ~5 |
 | Seven Days of Endless Adventure - Déjà Vu | 11.00% | ~4 |
 | It's Alive! | 11.00% | ~4 |

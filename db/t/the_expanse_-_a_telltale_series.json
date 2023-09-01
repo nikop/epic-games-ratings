@@ -46,9 +46,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9766,
+  "EOS_Progressed": 9768,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 758,
+  "EOS_NewPlayers": 753,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3931,6 +3931,11 @@
       "Time": "2023-09-01T15:03:40.0917468+00:00",
       "NumProgressed": 9766,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-01T16:04:22.2880155+00:00",
+      "NumProgressed": 9768,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -3983,7 +3988,7 @@
       "Name": "Doctor Approved",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 1660
+      "UsersEstimate": 1661
     },
     {
       "ID": "15",
@@ -3991,7 +3996,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 2246
+      "UsersEstimate": 2247
     },
     {
       "ID": "16",
@@ -4151,7 +4156,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1660
+      "UsersEstimate": 1661
     },
     {
       "ID": "7",
@@ -4182,7 +4187,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 9766,
+      "Progressed": 9768,
       "Completed": 0
     }
   ],
@@ -4190,8 +4195,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-08-31T16:58:15.58955+00:00",
-  "LastChanged_Achievements": "2023-09-01T15:03:40.0917462+00:00",
+  "LastChanged_Achievements": "2023-09-01T16:04:22.2880149+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:45.4170889+00:00",
-  "LastUpdate_Ratings": "2023-09-01T14:58:24.8045408+00:00",
-  "LastUpdate_Achievements": "2023-09-01T15:03:40.0917967+00:00"
+  "LastUpdate_Ratings": "2023-09-01T15:59:03.0699658+00:00",
+  "LastUpdate_Achievements": "2023-09-01T16:04:22.2880639+00:00"
 }

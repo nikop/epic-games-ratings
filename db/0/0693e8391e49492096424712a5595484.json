@@ -3,9 +3,9 @@
   "Name": "Pilgrims",
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 248,
-  "Ranking_EOS_Completed": 42,
-  "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_Completed": 39,
+  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 414,
-  "EOS_Completed": 28,
+  "EOS_Completed": 29,
   "EOS_NewPlayers": 4,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.76,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 7,
   "EosHistory": [
     {
       "Time": "2023-06-13T12:01:22.5999936+00:00",
@@ -1536,6 +1536,11 @@
       "Time": "2023-08-30T13:10:16.7122379+00:00",
       "NumProgressed": 414,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-09-01T16:06:12.7175468+00:00",
+      "NumProgressed": 414,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 45,
@@ -1593,9 +1598,9 @@
       "ID": "BearRum",
       "SetID": "db30heh",
       "Name": "Ready for Bed",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 79
+      "UsersEstimate": 83
     },
     {
       "ID": "BearSword",
@@ -1907,13 +1912,13 @@
       "ID": "db30heh",
       "IsBase": true,
       "Progressed": 414,
-      "Completed": 28
+      "Completed": 29
     }
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-09-01T15:05:09.827835+00:00",
+  "LastChanged_Achievements": "2023-09-01T16:06:12.7175463+00:00",
   "LastUpdate_AppInfo": "2023-08-29T18:57:22.664364+00:00",
-  "LastUpdate_Ratings": "2023-09-01T14:59:55.7944111+00:00",
-  "LastUpdate_Achievements": "2023-09-01T15:05:09.8278924+00:00"
+  "LastUpdate_Ratings": "2023-09-01T16:00:59.0096472+00:00",
+  "LastUpdate_Achievements": "2023-09-01T16:06:12.7175888+00:00"
 }

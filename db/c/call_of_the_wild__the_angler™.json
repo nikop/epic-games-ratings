@@ -664,9 +664,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5591,
+  "EOS_Progressed": 5592,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 559,
+  "EOS_NewPlayers": 553,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6684,6 +6684,11 @@
       "Time": "2023-09-01T15:06:35.5635725+00:00",
       "NumProgressed": 5591,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-01T16:08:16.6804369+00:00",
+      "NumProgressed": 5592,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -6695,7 +6700,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 4361
+      "UsersEstimate": 4362
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -6703,7 +6708,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3019
+      "UsersEstimate": 3020
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -6711,7 +6716,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 3802
+      "UsersEstimate": 3803
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -6751,7 +6756,7 @@
       "Name": "Scaling up",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 3019
+      "UsersEstimate": 3020
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -6759,7 +6764,7 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1621
+      "UsersEstimate": 1622
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -6783,7 +6788,7 @@
       "Name": "I\u0027m the Captain Now",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "ACHIEVEMENT_013",
@@ -6855,7 +6860,7 @@
       "Name": "I\u0027m Hooked!",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 1006
+      "UsersEstimate": 1007
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -6895,7 +6900,7 @@
       "Name": "Big Fish Small Pond",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "ACHIEVEMENT_027",
@@ -6974,13 +6979,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 5591,
+      "Progressed": 5592,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 4963,
+      "Progressed": 4964,
       "Completed": 112
     }
   ],
@@ -6988,8 +6993,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-09-01T10:58:54.9181689+00:00",
-  "LastChanged_Achievements": "2023-09-01T15:06:35.5635717+00:00",
+  "LastChanged_Achievements": "2023-09-01T16:08:16.6804362+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:20.9001676+00:00",
-  "LastUpdate_Ratings": "2023-09-01T14:58:55.7633191+00:00",
-  "LastUpdate_Achievements": "2023-09-01T15:06:35.5636455+00:00"
+  "LastUpdate_Ratings": "2023-09-01T15:59:41.1351121+00:00",
+  "LastUpdate_Achievements": "2023-09-01T16:08:16.6805108+00:00"
 }

@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 541,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 291,
+  "EOS_NewPlayers": 287,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -931,9 +931,9 @@
       "ID": "ABetterTomorrow",
       "SetID": "3ai6ml8",
       "Name": "A Better Tomorrow",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 216
+      "UsersEstimate": 222
     },
     {
       "ID": "BostonHayDay",
@@ -1003,9 +1003,9 @@
       "ID": "EverythingIsDust",
       "SetID": "3ai6ml8",
       "Name": "Everything is Dust",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 119
+      "UsersEstimate": 124
     },
     {
       "ID": "LightsOut",
@@ -1083,9 +1083,9 @@
       "ID": "WelcomeToFortSolis",
       "SetID": "3ai6ml8",
       "Name": "Welcome to Fort Solis",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 476
+      "UsersEstimate": 481
     }
   ],
   "AchievementSets": [
@@ -1098,8 +1098,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-09-01T15:04:20.2587307+00:00",
+  "LastChanged_Achievements": "2023-09-01T16:05:12.1448128+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:05.9137937+00:00",
-  "LastUpdate_Ratings": "2023-09-01T14:59:00.943548+00:00",
-  "LastUpdate_Achievements": "2023-09-01T15:04:20.2587543+00:00"
+  "LastUpdate_Ratings": "2023-09-01T15:59:47.6726249+00:00",
+  "LastUpdate_Achievements": "2023-09-01T16:05:12.1448368+00:00"
 }

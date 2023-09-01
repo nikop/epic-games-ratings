@@ -598,9 +598,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 466480,
+  "EOS_Progressed": 466482,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 510,
+  "EOS_NewPlayers": 508,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14643,6 +14643,11 @@
       "Time": "2023-09-01T15:02:20.0758758+00:00",
       "NumProgressed": 466480,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-09-01T16:03:20.9370361+00:00",
+      "NumProgressed": 466482,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -14670,7 +14675,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 111955
+      "UsersEstimate": 111956
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -14702,7 +14707,7 @@
       "Name": "Chapter IV: Through the Looking Glass",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 37318
+      "UsersEstimate": 37319
     },
     {
       "ID": "achievement_story_complete_chapter_5",
@@ -14742,7 +14747,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 307877
+      "UsersEstimate": 307878
     },
     {
       "ID": "achievement_story_landa",
@@ -14766,7 +14771,7 @@
       "Name": "Through the mirror",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37318
+      "UsersEstimate": 37319
     },
     {
       "ID": "achievement_story_meet_mother",
@@ -14814,7 +14819,7 @@
       "Name": "General Vivar",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37318
+      "UsersEstimate": 37319
     },
     {
       "ID": "achievement_story_meet_zenon",
@@ -14838,7 +14843,7 @@
       "Name": "Second Coming",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 153938
+      "UsersEstimate": 153939
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -14846,7 +14851,7 @@
       "Name": "Back to Ganyma",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37318
+      "UsersEstimate": 37319
     },
     {
       "ID": "achievement_story_spare_oberon",
@@ -15078,7 +15083,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 205251
+      "UsersEstimate": 205252
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -15086,7 +15091,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 139944
+      "UsersEstimate": 139945
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -15110,7 +15115,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 181927
+      "UsersEstimate": 181928
     },
     {
       "ID": "achievement_win_run_hard",
@@ -15158,7 +15163,7 @@
       "Name": "Kaos Rule",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37318
+      "UsersEstimate": 37319
     },
     {
       "ID": "achievement_win_run_with_starter",
@@ -15285,21 +15290,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 10414,
+      "Progressed": 10416,
       "Completed": 2356
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 466480,
+      "Progressed": 466482,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-08-24T02:57:03.8465673+00:00",
-  "LastChanged_Achievements": "2023-09-01T15:02:20.0758753+00:00",
+  "LastChanged_Achievements": "2023-09-01T16:03:20.9370354+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:38.8544339+00:00",
-  "LastUpdate_Ratings": "2023-09-01T14:58:21.1542355+00:00",
-  "LastUpdate_Achievements": "2023-09-01T15:02:20.0760645+00:00"
+  "LastUpdate_Ratings": "2023-09-01T15:58:58.4524313+00:00",
+  "LastUpdate_Achievements": "2023-09-01T16:03:20.9372431+00:00"
 }

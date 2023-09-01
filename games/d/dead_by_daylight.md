@@ -6,41 +6,42 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 1.00% | ~8,359 |
-| MU/TH/UR Dearest | 1.00% | ~8,359 |
-| Skillful | 0.90% | ~7,523 |
-| Zealous | 0.80% | ~6,687 |
-| Not half bad | 0.70% | ~5,851 |
-| Make Some Noise | 0.70% | ~5,851 |
-| Handyman | 0.60% | ~5,015 |
-| Apt Survivor | 0.60% | ~5,015 |
-| Survival Treasures | 0.60% | ~5,015 |
-| Terror of LV-426 | 0.60% | ~5,015 |
-| The Grand Sacrifice | 0.50% | ~4,179 |
-| No one left behind | 0.50% | ~4,179 |
-| Medic | 0.50% | ~4,179 |
-| Nerves of steel | 0.50% | ~4,179 |
-| Bloody Millionaire | 0.50% | ~4,179 |
-| I | 0.50% | ~4,179 |
-| Sorted | 0.50% | ~4,179 |
-| Resurgence | 0.50% | ~4,179 |
+| It wakes | 1.00% | ~8,361 |
+| MU/TH/UR Dearest | 1.00% | ~8,361 |
+| Skillful | 0.90% | ~7,525 |
+| Zealous | 0.80% | ~6,689 |
+| Not half bad | 0.70% | ~5,853 |
+| Apt Survivor | 0.70% | ~5,853 |
+| Make Some Noise | 0.70% | ~5,853 |
+| Handyman | 0.60% | ~5,016 |
+| Survival Treasures | 0.60% | ~5,016 |
+| Terror of LV-426 | 0.60% | ~5,016 |
+| The Grand Sacrifice | 0.50% | ~4,180 |
+| No one left behind | 0.50% | ~4,180 |
+| Medic | 0.50% | ~4,180 |
+| Nerves of steel | 0.50% | ~4,180 |
+| Bloody Millionaire | 0.50% | ~4,180 |
+| I | 0.50% | ~4,180 |
+| Sorted | 0.50% | ~4,180 |
+| Healthy Obsession | 0.50% | ~4,180 |
+| Resurgence | 0.50% | ~4,180 |
 | Agonizing Escape | 0.40% | ~3,344 |
 | Backdoor Escape | 0.40% | ~3,344 |
 | I've got your back | 0.40% | ~3,344 |
 | Perfect Escape | 0.40% | ~3,344 |
 | Perfect Killing | 0.40% | ~3,344 |
+| Risk it all | 0.40% | ~3,344 |
 | Engineer | 0.40% | ~3,344 |
-| Healthy Obsession | 0.40% | ~3,344 |
 | Preemptive Strike | 0.40% | ~3,344 |
 | Humanitarian | 0.40% | ~3,344 |
 | Apt Killer | 0.30% | ~2,508 |
-| Risk it all | 0.30% | ~2,508 |
 | Vulture | 0.30% | ~2,508 |
 | II | 0.30% | ~2,508 |
 | III | 0.30% | ~2,508 |
 | Wounded Healer | 0.30% | ~2,508 |
 | Close Shave | 0.30% | ~2,508 |
 | Second Act | 0.30% | ~2,508 |
+| A bite for the Entity | 0.20% | ~1,672 |
 | Blood on your hands | 0.20% | ~1,672 |
 | Escape Artist | 0.20% | ~1,672 |
 | Made it out alive! | 0.20% | ~1,672 |
@@ -71,7 +72,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Chorus of Chaos | 0.20% | ~1,672 |
 | Complete the Evolution | 0.20% | ~1,672 |
 | One More Step | 0.20% | ~1,672 |
-| A bite for the Entity | 0.10% | ~836 |
 | A feast for the Entity | 0.10% | ~836 |
 | Blood on your face | 0.10% | ~836 |
 | Blood in your mouth | 0.10% | ~836 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~836 |
 | Adept Ripley | 0.10% | ~836 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 835,895 (Ranked 15)  
+Progressed: 836,081 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -370,7 +370,7 @@ Completed: 48 (0.01%) (Ranked 258)
 | 2023-08-29 | 828,020 | 48 |
 | 2023-08-30 | 831,117 | 48 |
 | 2023-08-31 | 834,142 | 48 |
-| 2023-09-01 | 835,895 | 48 |
+| 2023-09-01 | 836,081 | 48 |
 ## Awards
 Max (Diverse Characters): 31,778  (Ranked 15)  
 Sum: 249,224 (Ranked 11)  

@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-2-970dc3",
   "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -326,9 +326,9 @@
       "ID": "CgkInO_K3eIdEAIQBQ",
       "SetID": "6bj96in",
       "Name": "SAILOR\u0027S GIFT",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 40,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "CgkInO_K3eIdEAIQBg",
@@ -398,9 +398,9 @@
       "ID": "CgkInO_K3eIdEAIQDg",
       "SetID": "6bj96in",
       "Name": "CHRONOSPY",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 40,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "CgkInO_K3eIdEAIQDw",
@@ -509,8 +509,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-09-01T15:06:35.6006146+00:00",
+  "LastChanged_Achievements": "2023-09-01T16:08:16.7169445+00:00",
   "LastUpdate_AppInfo": "2023-08-30T18:57:07.0572196+00:00",
-  "LastUpdate_Ratings": "2023-09-01T14:59:53.4283434+00:00",
-  "LastUpdate_Achievements": "2023-09-01T15:06:35.6006336+00:00"
+  "LastUpdate_Ratings": "2023-09-01T16:00:55.266341+00:00",
+  "LastUpdate_Achievements": "2023-09-01T16:08:16.7169666+00:00"
 }

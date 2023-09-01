@@ -2,7 +2,7 @@
   "ID": "42b8b899a3f349bd8376264ccee3cd2a",
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
-  "Ranking_EOS_Progress": 227,
+  "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 104,
   "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 21,
@@ -1307,9 +1307,9 @@
       "ID": "_03_FinishAct1",
       "SetID": "8a1io5d",
       "Name": "The Adventure Begins",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 312
+      "UsersEstimate": 318
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1347,9 +1347,9 @@
       "ID": "_08_Completion_10",
       "SetID": "8a1io5d",
       "Name": "Swabbie",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 232
+      "UsersEstimate": 238
     },
     {
       "ID": "_09_Completion_20",
@@ -1419,9 +1419,9 @@
       "ID": "_17_UpgradeFirstCharacter",
       "SetID": "8a1io5d",
       "Name": "With Great Power\u2026",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 227
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -1506,8 +1506,8 @@
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-09-01T15:05:08.4769392+00:00",
+  "LastChanged_Achievements": "2023-09-01T16:06:11.0716436+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:45.1302228+00:00",
-  "LastUpdate_Ratings": "2023-09-01T14:57:33.1236117+00:00",
-  "LastUpdate_Achievements": "2023-09-01T15:05:08.4769722+00:00"
+  "LastUpdate_Ratings": "2023-09-01T15:57:57.7729261+00:00",
+  "LastUpdate_Achievements": "2023-09-01T16:06:11.0716785+00:00"
 }

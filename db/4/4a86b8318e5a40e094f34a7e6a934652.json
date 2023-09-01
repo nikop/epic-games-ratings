@@ -4,7 +4,7 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 93,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -246,9 +246,9 @@
       "ID": "CATCH_30_FISH",
       "SetID": "aniflfk",
       "Name": "Fisherman",
-      "Percentage": 24,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -270,9 +270,9 @@
       "ID": "GROW_20_PLANTS",
       "SetID": "aniflfk",
       "Name": "Farmer",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "HOUSEWARMING",
@@ -286,9 +286,9 @@
       "ID": "LUNCH_LEECH",
       "SetID": "aniflfk",
       "Name": "Leech Lunch",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
@@ -350,9 +350,9 @@
       "ID": "TAKE_LEECH",
       "SetID": "aniflfk",
       "Name": "Uppies!",
-      "Percentage": 45,
+      "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 25
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -373,8 +373,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-01T15:05:58.9767833+00:00",
+  "LastChanged_Achievements": "2023-09-01T16:07:12.3399356+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:06.6191746+00:00",
-  "LastUpdate_Ratings": "2023-09-01T15:00:08.5761397+00:00",
-  "LastUpdate_Achievements": "2023-09-01T15:05:58.9768015+00:00"
+  "LastUpdate_Ratings": "2023-09-01T16:01:15.5549511+00:00",
+  "LastUpdate_Achievements": "2023-09-01T16:07:12.3399526+00:00"
 }

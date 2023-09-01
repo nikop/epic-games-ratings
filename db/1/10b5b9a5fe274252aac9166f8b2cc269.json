@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 4,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2023-08-04T03:00:00+00:00",
     "PcReleaseDate": "2018-11-16T06:00:00+00:00",
@@ -754,9 +754,9 @@
       "ID": "PORTRAIT_2",
       "SetID": "2fge00i",
       "Name": "Portrait 2",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 50,
-      "UsersEstimate": 106
+      "UsersEstimate": 108
     },
     {
       "ID": "PORTRAIT_20",
@@ -770,9 +770,9 @@
       "ID": "PORTRAIT_3",
       "SetID": "2fge00i",
       "Name": "Portrait 3",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 50,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "PORTRAIT_4",
@@ -833,8 +833,8 @@
   ],
   "FirstSeen": "2023-07-29T16:57:06.8916907+00:00",
   "FirstSeenAchievements": "2023-07-20T07:01:56.8501716+00:00",
-  "LastChanged_Achievements": "2023-09-01T15:06:18.6310329+00:00",
+  "LastChanged_Achievements": "2023-09-01T16:07:36.0127437+00:00",
   "LastUpdate_AppInfo": "2023-08-31T08:57:14.6738665+00:00",
-  "LastUpdate_Ratings": "2023-09-01T14:59:49.1027543+00:00",
-  "LastUpdate_Achievements": "2023-09-01T15:06:18.6310563+00:00"
+  "LastUpdate_Ratings": "2023-09-01T16:00:49.1630047+00:00",
+  "LastUpdate_Achievements": "2023-09-01T16:07:36.0127664+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 254,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -980,9 +980,9 @@
       "Count": 124
     }
   ],
-  "EOS_Progressed": 8150,
+  "EOS_Progressed": 8151,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -4510,6 +4510,11 @@
       "Time": "2023-09-01T15:02:31.8651093+00:00",
       "NumProgressed": 8150,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-09-01T16:03:35.8655288+00:00",
+      "NumProgressed": 8151,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 24,
@@ -4521,7 +4526,7 @@
       "Name": "Brain at Full Throttle",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1874
+      "UsersEstimate": 1875
     },
     {
       "ID": "Chatterbox",
@@ -4545,7 +4550,7 @@
       "Name": "Focus!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5134
+      "UsersEstimate": 5135
     },
     {
       "ID": "DemonCastleRestoration",
@@ -4585,7 +4590,7 @@
       "Name": "The Final Battle of the First Hero",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2200
+      "UsersEstimate": 2201
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -4593,7 +4598,7 @@
       "Name": "The God of Battle",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "GoHome",
@@ -4617,7 +4622,7 @@
       "Name": "The Fall of the Leonia Order",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 2526
+      "UsersEstimate": 2527
     },
     {
       "ID": "LeoniasFall_2",
@@ -4625,7 +4630,7 @@
       "Name": "The Levitator",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "Manners",
@@ -4649,7 +4654,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5134
+      "UsersEstimate": 5135
     },
     {
       "ID": "SavedElderEnt_2",
@@ -4657,7 +4662,7 @@
       "Name": "Quick Movements",
       "Percentage": 35,
       "XP": 90,
-      "UsersEstimate": 2852
+      "UsersEstimate": 2853
     },
     {
       "ID": "SkeletonKing",
@@ -4705,22 +4710,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6846
+      "UsersEstimate": 6847
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8150,
+      "Progressed": 8151,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-08-23T17:02:24.1541742+00:00",
-  "LastChanged_Achievements": "2023-09-01T15:02:31.8651087+00:00",
+  "LastChanged_Achievements": "2023-09-01T16:03:35.8655282+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:42.4579176+00:00",
-  "LastUpdate_Ratings": "2023-09-01T14:57:45.3824599+00:00",
-  "LastUpdate_Achievements": "2023-09-01T15:02:31.8651588+00:00"
+  "LastUpdate_Ratings": "2023-09-01T15:58:13.6926445+00:00",
+  "LastUpdate_Achievements": "2023-09-01T16:03:35.8655721+00:00"
 }

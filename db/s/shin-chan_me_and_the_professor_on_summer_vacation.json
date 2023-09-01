@@ -384,9 +384,9 @@
       "ID": "Trophy_35",
       "SetID": "cf5h6dl",
       "Name": "Go-Getter",
-      "Percentage": 14,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Trophy_36",
@@ -489,8 +489,8 @@
   "FirstSeenRating": "2023-04-14T13:04:33.1915334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:56.3452226+00:00",
   "LastChanged": "2023-04-14T13:04:33.1915334+00:00",
-  "LastChanged_Achievements": "2023-09-01T15:05:55.4173076+00:00",
+  "LastChanged_Achievements": "2023-09-01T16:07:08.3305817+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:07.2208879+00:00",
-  "LastUpdate_Ratings": "2023-09-01T14:59:14.3712915+00:00",
-  "LastUpdate_Achievements": "2023-09-01T15:05:55.4173569+00:00"
+  "LastUpdate_Ratings": "2023-09-01T16:00:04.9879615+00:00",
+  "LastUpdate_Achievements": "2023-09-01T16:07:08.330648+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -324,9 +324,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 5147,
+  "EOS_Progressed": 5148,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -5974,6 +5974,11 @@
       "Time": "2023-09-01T13:12:36.830482+00:00",
       "NumProgressed": 5147,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-01T16:08:24.6103031+00:00",
+      "NumProgressed": 5148,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 50,
@@ -6175,9 +6180,9 @@
       "ID": "31",
       "SetID": "3aa2279",
       "Name": "Magical Synergy",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 257
+      "UsersEstimate": 309
     },
     {
       "ID": "32",
@@ -6384,13 +6389,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5147,
+      "Progressed": 5148,
       "Completed": 4761
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5147,
+      "Progressed": 5148,
       "Completed": 6
     }
   ],
@@ -6398,8 +6403,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-08-26T15:57:22.2345503+00:00",
-  "LastChanged_Achievements": "2023-09-01T15:08:12.9340243+00:00",
+  "LastChanged_Achievements": "2023-09-01T16:08:24.6103025+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:42.1934475+00:00",
-  "LastUpdate_Ratings": "2023-09-01T14:58:24.5598014+00:00",
-  "LastUpdate_Achievements": "2023-09-01T15:08:12.9341225+00:00"
+  "LastUpdate_Ratings": "2023-09-01T15:59:02.7024072+00:00",
+  "LastUpdate_Achievements": "2023-09-01T16:08:24.6103957+00:00"
 }

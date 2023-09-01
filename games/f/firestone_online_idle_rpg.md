@@ -23,17 +23,17 @@ Rating: 4.04 (Ranked 935)
 | Hero inspection | 15.00% | ~282 |
 | Lieutenant | 15.00% | ~282 |
 | Mysterious Rock | 14.00% | ~263 |
+| The Unstoppable | 14.00% | ~263 |
 | Milestone collector | 13.00% | ~244 |
 | Natural Talent | 13.00% | ~244 |
 | Superior | 13.00% | ~244 |
-| The Unstoppable | 13.00% | ~244 |
 | Scientist | 12.00% | ~225 |
+| Challenger | 11.00% | ~207 |
 | Doing My Part | 11.00% | ~207 |
 | Hunter | 11.00% | ~207 |
 | Mastery | 11.00% | ~207 |
 | Relic Of The Past | 11.00% | ~207 |
 | The power of Awakening | 11.00% | ~207 |
-| Challenger | 10.00% | ~188 |
 | Daily Quest Completionist | 10.00% | ~188 |
 | Four Leaf Clover | 10.00% | ~188 |
 | Frostfire Liberator | 10.00% | ~188 |
@@ -43,10 +43,10 @@ Rating: 4.04 (Ranked 935)
 | Master Enchanter | 9.00% | ~169 |
 | The father of Dragons | 9.00% | ~169 |
 | Crystal Mining | 8.00% | ~150 |
+| Enchanting skill | 8.00% | ~150 |
 | Trader | 8.00% | ~150 |
 | Blueprint Upgrades | 7.00% | ~132 |
 | Dragon Slayer | 7.00% | ~132 |
-| Enchanting skill | 7.00% | ~132 |
 | Engineer Mastery | 7.00% | ~132 |
 | The Expeditioner | 7.00% | ~132 |
 | Weekly Quest Completionist | 7.00% | ~132 |

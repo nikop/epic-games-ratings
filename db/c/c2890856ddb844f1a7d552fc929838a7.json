@@ -34,9 +34,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 621,
+  "EOS_Progressed": 622,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 308,
+  "EOS_NewPlayers": 304,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -819,6 +819,11 @@
       "Time": "2023-09-01T15:05:39.0397595+00:00",
       "NumProgressed": 621,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-01T16:06:48.2323724+00:00",
+      "NumProgressed": 622,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -837,9 +842,9 @@
       "ID": "AC01",
       "SetID": "l4abp0",
       "Name": "A Thousand Years Later",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 546
+      "UsersEstimate": 554
     },
     {
       "ID": "AC02",
@@ -863,7 +868,7 @@
       "Name": "Blood and Iron",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "AC05",
@@ -871,7 +876,7 @@
       "Name": "The Sharpest Tool in the Shed",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "AC06",
@@ -879,7 +884,7 @@
       "Name": "The Last Ascension",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "AC07",
@@ -895,7 +900,7 @@
       "Name": "Forged in Fire",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "AC09",
@@ -925,9 +930,9 @@
       "ID": "AC12",
       "SetID": "l4abp0",
       "Name": "Canvas of Light and Time",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 75
+      "UsersEstimate": 81
     },
     {
       "ID": "AC13",
@@ -941,9 +946,9 @@
       "ID": "AC14",
       "SetID": "l4abp0",
       "Name": "Acta, Non Verba",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 81
     },
     {
       "ID": "AC15",
@@ -973,9 +978,9 @@
       "ID": "AC18",
       "SetID": "l4abp0",
       "Name": "Acquired Taste",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 187
     },
     {
       "ID": "AC19",
@@ -1007,7 +1012,7 @@
       "Name": "Empty Handed",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "AC23",
@@ -1039,7 +1044,7 @@
       "Name": "A Leap of Faith",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "AC27",
@@ -1071,7 +1076,7 @@
       "Name": "The Anointed One",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "AC31",
@@ -1093,9 +1098,9 @@
       "ID": "AC33",
       "SetID": "l4abp0",
       "Name": "Ultima Ratio",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 248
+      "UsersEstimate": 255
     },
     {
       "ID": "AC34",
@@ -1165,9 +1170,9 @@
       "ID": "AC42",
       "SetID": "l4abp0",
       "Name": "Two Old Ones Eating Soup",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 81
     },
     {
       "ID": "AC43",
@@ -1198,7 +1203,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 621,
+      "Progressed": 622,
       "Completed": 0
     }
   ],
@@ -1206,8 +1211,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-08-31T20:59:26.6195445+00:00",
-  "LastChanged_Achievements": "2023-09-01T15:05:39.0397589+00:00",
+  "LastChanged_Achievements": "2023-09-01T16:06:48.2323719+00:00",
   "LastUpdate_AppInfo": "2023-08-29T18:57:21.35462+00:00",
-  "LastUpdate_Ratings": "2023-09-01T14:59:41.3204738+00:00",
-  "LastUpdate_Achievements": "2023-09-01T15:05:39.0398122+00:00"
+  "LastUpdate_Ratings": "2023-09-01T16:00:40.7676886+00:00",
+  "LastUpdate_Achievements": "2023-09-01T16:06:48.2324154+00:00"
 }

@@ -5,11 +5,11 @@ Rating: 4.54 (Ranked 503)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 0.80% | ~5,366 |
-| Welcome To Hell-A | 0.80% | ~5,366 |
-| Break A Leg | 0.70% | ~4,695 |
-| Hazardous Materials | 0.70% | ~4,695 |
-| Personal Assistant Personally Assisted | 0.70% | ~4,695 |
+| Hotel California | 0.80% | ~5,367 |
+| Welcome To Hell-A | 0.80% | ~5,367 |
+| Break A Leg | 0.70% | ~4,696 |
+| Hazardous Materials | 0.70% | ~4,696 |
+| Personal Assistant Personally Assisted | 0.70% | ~4,696 |
 | Dr. Reed, I Presume? | 0.60% | ~4,025 |
 | Git Gutte! | 0.60% | ~4,025 |
 | Bookworm | 0.60% | ~4,025 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 503)
 | Variety is the Spice of Death | 0.10% | ~671 |
 | Bucket List | 0.10% | ~671 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 670,768 (Ranked 22)  
+Progressed: 670,825 (Ranked 22)  
 Completed: 2,097 (0.31%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,16 +185,16 @@ Completed: 2,097 (0.31%) (Ranked 178)
 | 2023-08-29 | 668,912 | 2,088 |
 | 2023-08-30 | 669,636 | 2,094 |
 | 2023-08-31 | 670,394 | 2,097 |
-| 2023-09-01 | 670,768 | 2,097 |
+| 2023-09-01 | 670,825 | 2,097 |
 ## Awards
 Max (Great Boss Battles): 5,841  (Ranked 60)  
-Sum: 8,607 (Ranked 96)  
+Sum: 8,608 (Ranked 96)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 5,841 |
 | This game is Great for Beginners | 390 |
-| This game has Quickly Understood Controls | 381 |
+| This game has Quickly Understood Controls | 382 |
 | This game has Diverse Characters | 378 |
 | This game is Relaxing | 360 |
 | This game has Amazing Storytelling | 334 |
@@ -337,4 +337,4 @@ Diff (max vs sum): -36
 | 2023-08-29 | 4.54 | 5,808 | 8,550 |
 | 2023-08-30 | 4.54 | 5,822 | 8,570 |
 | 2023-08-31 | 4.54 | 5,841 | 8,595 |
-| 2023-09-01 | 4.54 | 5,841 | 8,607 |
+| 2023-09-01 | 4.54 | 5,841 | 8,608 |

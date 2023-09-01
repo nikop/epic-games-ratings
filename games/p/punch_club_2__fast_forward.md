@@ -17,8 +17,8 @@
 | Your own amateur gym | 74.00% | ~222 |
 | First defeat | 73.00% | ~219 |
 | Run K, run! | 71.00% | ~213 |
+| Hello, world! | 69.00% | ~207 |
 | Fighting is cool | 68.00% | ~204 |
-| Hello, world! | 68.00% | ~204 |
 | No bullying more | 67.00% | ~201 |
 | Pal of your father? | 65.00% | ~195 |
 | Employee of the month | 64.00% | ~192 |
@@ -30,9 +30,9 @@
 | It's good to be alive | 58.00% | ~174 |
 | Intriguing candies | 58.00% | ~174 |
 | Employee of the year | 58.00% | ~174 |
+| Fight for life | 57.00% | ~171 |
 | Handyman | 57.00% | ~171 |
 | Own four walls | 57.00% | ~171 |
-| Fight for life | 56.00% | ~168 |
 | Legal courier | 53.00% | ~159 |
 | Extreme neuropower! | 53.00% | ~159 |
 | Escaped from a big trouble | 50.00% | ~150 |
@@ -53,11 +53,12 @@
 | Get out of my apartment! | 36.00% | ~108 |
 | Seashell hunter | 35.00% | ~105 |
 | Gang wrangler | 34.00% | ~102 |
+| Problems of cyborgs | 33.00% | ~99 |
 | Undercover robot | 33.00% | ~99 |
-| Problems of cyborgs | 32.00% | ~96 |
 | Not little hacker | 31.00% | ~93 |
 | Absolute Champion! | 31.00% | ~93 |
 | Anyone can resist | 31.00% | ~93 |
+| Trap disarmed | 30.00% | ~90 |
 | Another world | 30.00% | ~90 |
 | The lonesome road | 30.00% | ~90 |
 | Keep nature safe | 30.00% | ~90 |
@@ -66,7 +67,6 @@
 | The last bell ring | 30.00% | ~90 |
 | Careerist | 30.00% | ~90 |
 | The heart of the Resistance | 30.00% | ~90 |
-| Trap disarmed | 29.00% | ~87 |
 | Silver’s past | 27.00% | ~81 |
 | Better cooking at home | 27.00% | ~81 |
 | The only right decision | 27.00% | ~81 |

@@ -6831,9 +6831,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 60095,
+  "EOS_Progressed": 60097,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 469,
+  "EOS_NewPlayers": 468,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21031,6 +21031,11 @@
       "Time": "2023-09-01T15:06:21.0288927+00:00",
       "NumProgressed": 60095,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-01T16:07:39.5071993+00:00",
+      "NumProgressed": 60097,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -21042,7 +21047,7 @@
       "Name": "Against all odds",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7211
+      "UsersEstimate": 7212
     },
     {
       "ID": "Apple of my eye",
@@ -21050,7 +21055,7 @@
       "Name": "Apple of my eye",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 9014
+      "UsersEstimate": 9015
     },
     {
       "ID": "Bannerlord",
@@ -21170,7 +21175,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 7812
+      "UsersEstimate": 7813
     },
     {
       "ID": "Great Granny",
@@ -21210,7 +21215,7 @@
       "Name": "I can do it",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 9014
+      "UsersEstimate": 9015
     },
     {
       "ID": "I spit on your grave",
@@ -21248,9 +21253,9 @@
       "ID": "Know your enemy",
       "SetID": "den0lp1",
       "Name": "Know your enemy",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 3606
+      "UsersEstimate": 4207
     },
     {
       "ID": "Lance-a-lot",
@@ -21266,7 +21271,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 19230
+      "UsersEstimate": 19231
     },
     {
       "ID": "Lawbringer",
@@ -21274,7 +21279,7 @@
       "Name": "Lawbringer",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 22836
+      "UsersEstimate": 22837
     },
     {
       "ID": "Lawmaker",
@@ -21402,7 +21407,7 @@
       "Name": "This Is Our Land",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 6610
+      "UsersEstimate": 6611
     },
     {
       "ID": "This is Sparta",
@@ -21449,15 +21454,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 60095,
+      "Progressed": 60097,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-09-01T11:58:56.5353195+00:00",
-  "LastChanged_Achievements": "2023-09-01T15:06:21.0288912+00:00",
+  "LastChanged_Achievements": "2023-09-01T16:07:39.5071987+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:26.1294952+00:00",
-  "LastUpdate_Ratings": "2023-09-01T14:59:00.4518792+00:00",
-  "LastUpdate_Achievements": "2023-09-01T15:06:21.0290593+00:00"
+  "LastUpdate_Ratings": "2023-09-01T15:59:47.3572185+00:00",
+  "LastUpdate_Achievements": "2023-09-01T16:07:39.5073426+00:00"
 }
