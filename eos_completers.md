@@ -103,7 +103,7 @@
 | 101 | [Frogun](games/f/frogun.md) | 1.80% |
 | 102 | [Somerville](games/s/somerville.md) | 1.66% |
 | 103 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.64% |
-| 104 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 1.61% |
+| 104 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 1.60% |
 | 105 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.56% |
 | 105 | [Iron Danger](games/i/iron_danger.md) | 1.56% |
 | 107 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.55% |
@@ -115,7 +115,7 @@
 | 113 | [Poosh XL](games/p/poosh_xl.md) | 1.39% |
 | 114 | [Late Shift](games/l/late_shift.md) | 1.26% |
 | 115 | [Infindustry](games/i/infindustry.md) | 1.23% |
-| 116 | [Chorus](games/c/chorus.md) | 1.13% |
+| 116 | [Chorus](games/c/chorus.md) | 1.12% |
 | 117 | [Trifox](games/t/trifox.md) | 1.10% |
 | 118 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 1.08% |
 | 119 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.06% |
@@ -568,4 +568,4 @@
 | 270 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 270 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 270 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,155 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,156 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
