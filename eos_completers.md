@@ -60,8 +60,8 @@
 | 58 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
 | 59 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.16% |
 | 60 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.07% |
-| 61 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.98% |
-| 62 | [ZZT!](games/z/zzt!.md) | 3.97% |
+| 61 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.97% |
+| 61 | [ZZT!](games/z/zzt!.md) | 3.97% |
 | 63 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 64 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 65 | [Without Escape](games/w/without_escape.md) | 3.45% |
@@ -91,10 +91,10 @@
 | 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.26% |
 | 90 | [Bloodshore](games/b/bloodshore.md) | 2.19% |
 | 91 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
-| 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.05% |
+| 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.04% |
 | 93 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.00% |
 | 94 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
-| 94 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.92% |
+| 95 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.89% |
 | 96 | [Night Book](games/n/night_book.md) | 1.86% |
 | 97 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.85% |
 | 97 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
@@ -175,8 +175,8 @@
 | 171 | [The Surge](games/t/the_surge.md) | 0.35% |
 | 171 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.35% |
 | 175 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.34% |
-| 176 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.33% |
 | 176 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.33% |
+| 177 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.32% |
 | 178 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 178 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
 | 178 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
