@@ -4122,7 +4122,7 @@
       "Count": 334
     }
   ],
-  "EOS_Progressed": 670526,
+  "EOS_Progressed": 670541,
   "EOS_Completed": 2097,
   "EOS_NewPlayers": 5896,
   "EOS_NewCompleters": 36,
@@ -19017,6 +19017,11 @@
       "Time": "2023-09-01T06:04:15.8185595+00:00",
       "NumProgressed": 670526,
       "NumCompleted": 2097
+    },
+    {
+      "Time": "2023-09-01T07:05:16.4944802+00:00",
+      "NumProgressed": 670541,
+      "NumCompleted": 2097
     }
   ],
   "TotalAchievements": 45,
@@ -19098,9 +19103,9 @@
       "ID": "ach_contender",
       "SetID": "7km39fm",
       "Name": "On Safari",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 671
+      "UsersEstimate": 1341
     },
     {
       "ID": "ach_defensive",
@@ -19387,7 +19392,7 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 670526,
+      "Progressed": 670541,
       "Completed": 2097
     }
   ],
@@ -19395,8 +19400,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-01T05:57:39.1201934+00:00",
-  "LastChanged_Achievements": "2023-09-01T06:04:15.818559+00:00",
+  "LastChanged_Achievements": "2023-09-01T07:05:16.4944797+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:11.0440218+00:00",
-  "LastUpdate_Ratings": "2023-09-01T05:57:39.120194+00:00",
-  "LastUpdate_Achievements": "2023-09-01T06:04:15.8186887+00:00"
+  "LastUpdate_Ratings": "2023-09-01T06:57:51.3732374+00:00",
+  "LastUpdate_Achievements": "2023-09-01T07:05:16.4945995+00:00"
 }

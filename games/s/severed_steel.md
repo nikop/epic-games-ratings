@@ -1,23 +1,23 @@
 # Severed Steel
 [Store](https://store.epicgames.com/en-US/p/severed-steel)  
 [View Rawdata](../../db/s/severed_steel.json)  
-Rating: 4.69 (Ranked 217)  
+Rating: 4.69 (Ranked 218)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 29.00% | ~189,262 |
-| 50 HEADSHOTS | 27.00% | ~176,210 |
-| SCIENCE AND INDUSTRY | 26.00% | ~169,684 |
-| FINISHED CHAPTER 1 | 25.00% | ~163,157 |
-| FINISHED CHAPTER 2 | 18.00% | ~117,473 |
-| 200 HEADSHOTS | 16.00% | ~104,421 |
-| FINISHED CHAPTER 3 | 15.00% | ~97,894 |
-| FINISHED CHAPTER 4 | 13.00% | ~84,842 |
-| FINISH CHAPTER 5 | 11.00% | ~71,789 |
-| FINISH CHAPTER 6 | 9.00% | ~58,737 |
-| CATHARTIC ESCAPISM | 9.00% | ~58,737 |
-| 1000 KILLS | 8.00% | ~52,210 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~26,105 |
+| 100 KILLS | 29.00% | ~189,266 |
+| 50 HEADSHOTS | 27.00% | ~176,213 |
+| SCIENCE AND INDUSTRY | 26.00% | ~169,687 |
+| FINISHED CHAPTER 1 | 25.00% | ~163,160 |
+| FINISHED CHAPTER 2 | 18.00% | ~117,476 |
+| 200 HEADSHOTS | 16.00% | ~104,423 |
+| FINISHED CHAPTER 3 | 15.00% | ~97,896 |
+| FINISHED CHAPTER 4 | 13.00% | ~84,843 |
+| FINISH CHAPTER 5 | 11.00% | ~71,791 |
+| FINISH CHAPTER 6 | 9.00% | ~58,738 |
+| CATHARTIC ESCAPISM | 9.00% | ~58,738 |
+| 1000 KILLS | 8.00% | ~52,211 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~26,106 |
 | FIRST BLOOD | 2.00% | ~13,053 |
 | FIREFIGHT LEVEL 20 | 1.00% | ~6,526 |
 | PACEMAKER | 1.00% | ~6,526 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 217)
 | THE GAMBLER | 0.10% | ~653 |
 | WARRIOR IN A GARDEN | 0.10% | ~653 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 652,629 (Ranked 25)  
+Progressed: 652,642 (Ranked 25)  
 Completed: 56 (0.01%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 56 (0.01%) (Ranked 257)
 | 2023-08-29 | 651,099 | 55 |
 | 2023-08-30 | 651,781 | 56 |
 | 2023-08-31 | 652,456 | 56 |
-| 2023-09-01 | 652,629 | 56 |
+| 2023-09-01 | 652,642 | 56 |
 ## Awards
 Max (Great Boss Battles): 268  (Ranked 249)  
 Sum: 268 (Ranked 352)  

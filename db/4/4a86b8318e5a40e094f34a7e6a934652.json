@@ -231,9 +231,9 @@
       "ID": "CATCH_30_FISH",
       "SetID": "aniflfk",
       "Name": "Fisherman",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -247,9 +247,9 @@
       "ID": "GO_ON_EXPEDITION",
       "SetID": "aniflfk",
       "Name": "Off on an Expedition!",
-      "Percentage": 34,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -358,8 +358,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-01T06:05:54.6249288+00:00",
+  "LastChanged_Achievements": "2023-09-01T07:07:19.0807407+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:06.6191746+00:00",
-  "LastUpdate_Ratings": "2023-09-01T05:59:54.5429944+00:00",
-  "LastUpdate_Achievements": "2023-09-01T06:05:54.6249467+00:00"
+  "LastUpdate_Ratings": "2023-09-01T07:00:45.8045822+00:00",
+  "LastUpdate_Achievements": "2023-09-01T07:07:19.080756+00:00"
 }

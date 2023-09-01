@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 54,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -396,9 +396,9 @@
       "Count": 79
     }
   ],
-  "EOS_Progressed": 244370,
+  "EOS_Progressed": 244372,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 966,
+  "EOS_NewPlayers": 964,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15201,6 +15201,11 @@
       "Time": "2023-09-01T06:05:47.2347075+00:00",
       "NumProgressed": 244370,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-01T07:07:09.9317025+00:00",
+      "NumProgressed": 244372,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -15276,7 +15281,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 29324
+      "UsersEstimate": 29325
     },
     {
       "ID": "ACH_HATTRICK",
@@ -15444,7 +15449,7 @@
       "Name": "Good listener",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 12218
+      "UsersEstimate": 12219
     },
     {
       "ID": "ACH_LETSOTHERTHINKING",
@@ -15532,7 +15537,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 61092
+      "UsersEstimate": 61093
     },
     {
       "ID": "ACH_SOREAD",
@@ -15596,7 +15601,7 @@
       "Name": "Valedictorian",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 12218
+      "UsersEstimate": 12219
     },
     {
       "ID": "ACH_WAKEUP",
@@ -15627,7 +15632,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 244370,
+      "Progressed": 244372,
       "Completed": 7
     }
   ],
@@ -15635,8 +15640,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-08-15T07:59:00.2810594+00:00",
-  "LastChanged_Achievements": "2023-09-01T06:05:47.2347066+00:00",
+  "LastChanged_Achievements": "2023-09-01T07:07:09.931702+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:40.3558824+00:00",
-  "LastUpdate_Ratings": "2023-09-01T05:57:03.6069149+00:00",
-  "LastUpdate_Achievements": "2023-09-01T06:05:47.2348459+00:00"
+  "LastUpdate_Ratings": "2023-09-01T06:57:05.4058701+00:00",
+  "LastUpdate_Achievements": "2023-09-01T07:07:09.9318365+00:00"
 }

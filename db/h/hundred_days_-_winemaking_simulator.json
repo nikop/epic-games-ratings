@@ -952,11 +952,11 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 481,
+  "EOS_Progressed": 484,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 476,
+  "EOS_NewPlayers": 479,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 0.42,
+  "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
     {
       "Time": "2023-08-30T11:07:13.7661076+00:00",
@@ -1177,6 +1177,11 @@
       "Time": "2023-09-01T06:05:58.8872277+00:00",
       "NumProgressed": 481,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-01T07:07:24.5189071+00:00",
+      "NumProgressed": 484,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -1219,9 +1224,9 @@
       "ID": "a_15",
       "SetID": "daiie3o",
       "Name": "Big Money",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 10
     },
     {
       "ID": "a_16",
@@ -1237,7 +1242,7 @@
       "Name": "Bye Bye",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "a_19",
@@ -1301,7 +1306,7 @@
       "Name": "Exotic",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "a_27",
@@ -1421,7 +1426,7 @@
       "Name": "Famous",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "a_9",
@@ -1436,7 +1441,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 481,
+      "Progressed": 484,
       "Completed": 2
     }
   ],
@@ -1444,8 +1449,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-08-28T14:01:21.7581903+00:00",
-  "LastChanged_Achievements": "2023-09-01T06:05:58.8872272+00:00",
+  "LastChanged_Achievements": "2023-09-01T07:07:24.5189065+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:37.0274623+00:00",
-  "LastUpdate_Ratings": "2023-09-01T05:57:03.0592089+00:00",
-  "LastUpdate_Achievements": "2023-09-01T06:05:58.8872583+00:00"
+  "LastUpdate_Ratings": "2023-09-01T06:57:04.7842354+00:00",
+  "LastUpdate_Achievements": "2023-09-01T07:07:24.5189418+00:00"
 }

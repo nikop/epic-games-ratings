@@ -34,6 +34,7 @@ Rating: 4.54 (Ranked 504)
 | Humanity Distilled | 0.30% | ~2,012 |
 | Down with the Sickness | 0.30% | ~2,012 |
 | Max Headroom | 0.30% | ~2,012 |
+| On Safari | 0.20% | ~1,341 |
 | Smorgasbord | 0.20% | ~1,341 |
 | Not Even My Final Form | 0.20% | ~1,341 |
 | Internet Famous | 0.20% | ~1,341 |
@@ -42,7 +43,6 @@ Rating: 4.54 (Ranked 504)
 | Rising Star | 0.20% | ~1,341 |
 | Make it So | 0.10% | ~671 |
 | LA Influential | 0.10% | ~671 |
-| On Safari | 0.10% | ~671 |
 | Donk! | 0.10% | ~671 |
 | Sole Survivor | 0.10% | ~671 |
 | Gore Horse | 0.10% | ~671 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 504)
 | Variety is the Spice of Death | 0.10% | ~671 |
 | Bucket List | 0.10% | ~671 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 670,526 (Ranked 22)  
+Progressed: 670,541 (Ranked 22)  
 Completed: 2,097 (0.31%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 2,097 (0.31%) (Ranked 177)
 | 2023-08-29 | 668,912 | 2,088 |
 | 2023-08-30 | 669,636 | 2,094 |
 | 2023-08-31 | 670,394 | 2,097 |
-| 2023-09-01 | 670,526 | 2,097 |
+| 2023-09-01 | 670,541 | 2,097 |
 ## Awards
 Max (Great Boss Battles): 5,841  (Ranked 60)  
 Sum: 8,599 (Ranked 97)  

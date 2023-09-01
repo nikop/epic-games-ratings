@@ -6,28 +6,28 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 69.00% | ~602,937 |
-| Right Back At Ya | 39.00% | ~340,791 |
-| The Lovers | 35.00% | ~305,838 |
-| Stanislavski's Method | 29.00% | ~253,408 |
-| The Wheel of Fortune | 27.00% | ~235,932 |
+| The Fool | 69.00% | ~602,940 |
+| Right Back At Ya | 39.00% | ~340,792 |
+| The Lovers | 35.00% | ~305,839 |
+| Stanislavski's Method | 29.00% | ~253,410 |
+| The Wheel of Fortune | 27.00% | ~235,933 |
 | The Hermit | 25.00% | ~218,456 |
-| Christmas Tree Attack | 23.00% | ~200,979 |
-| True Soldier | 23.00% | ~200,979 |
-| The High Priestess | 22.00% | ~192,241 |
-| Legend of The Afterlife | 22.00% | ~192,241 |
+| Christmas Tree Attack | 23.00% | ~200,980 |
+| True Soldier | 23.00% | ~200,980 |
+| The High Priestess | 22.00% | ~192,242 |
+| Legend of The Afterlife | 22.00% | ~192,242 |
 | Life of the Road | 21.00% | ~183,503 |
-| Full Body Conversion | 18.00% | ~157,288 |
-| The World | 18.00% | ~157,288 |
+| Full Body Conversion | 18.00% | ~157,289 |
+| The World | 18.00% | ~157,289 |
 | Bushido and Chill | 17.00% | ~148,550 |
-| Gun Fu | 15.00% | ~131,073 |
-| True Warrior | 15.00% | ~131,073 |
-| To Protect and Serve | 14.00% | ~122,335 |
-| Master Crafter | 14.00% | ~122,335 |
-| I Am The Law | 14.00% | ~122,335 |
-| Judy vs Night City | 14.00% | ~122,335 |
+| Gun Fu | 15.00% | ~131,074 |
+| True Warrior | 15.00% | ~131,074 |
+| To Protect and Serve | 14.00% | ~122,336 |
+| Master Crafter | 14.00% | ~122,336 |
+| I Am The Law | 14.00% | ~122,336 |
+| Judy vs Night City | 14.00% | ~122,336 |
 | Two Heads, One Bullet | 12.00% | ~104,859 |
-| The Quick and the Dead | 10.00% | ~87,382 |
+| The Quick and the Dead | 10.00% | ~87,383 |
 | The Wandering Fool | 9.00% | ~78,644 |
 | Ten out of Ten | 9.00% | ~78,644 |
 | Breathtaking | 8.00% | ~69,906 |
@@ -44,14 +44,14 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Jungle | 3.00% | ~26,215 |
 | V for Vendetta | 3.00% | ~26,215 |
 | It's Elementary | 3.00% | ~26,215 |
-| Autojock | 2.00% | ~17,476 |
-| Frequent Flyer | 2.00% | ~17,476 |
-| Daemon In The Shell | 2.00% | ~17,476 |
-| The Devil | 2.00% | ~17,476 |
+| Autojock | 2.00% | ~17,477 |
+| Frequent Flyer | 2.00% | ~17,477 |
+| Daemon In The Shell | 2.00% | ~17,477 |
+| The Devil | 2.00% | ~17,477 |
 | Gunslinger | 1.00% | ~8,738 |
 | Rough Landing | 0.50% | ~4,369 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 873,822 (Ranked 14)  
+Progressed: 873,826 (Ranked 14)  
 Completed: 2,043 (0.23%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 2,043 (0.23%) (Ranked 189)
 | 2023-08-29 | 873,482 | 2,037 |
 | 2023-08-30 | 873,627 | 2,037 |
 | 2023-08-31 | 873,787 | 2,042 |
-| 2023-09-01 | 873,822 | 2,043 |
+| 2023-09-01 | 873,826 | 2,043 |
 ## Awards
 Max (Character Customization): 76,882  (Ranked 9)  
 Sum: 203,983 (Ranked 13)  

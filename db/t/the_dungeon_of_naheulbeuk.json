@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -756,9 +756,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 219870,
+  "EOS_Progressed": 219879,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3020,
+  "EOS_NewPlayers": 3018,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9101,6 +9101,11 @@
       "Time": "2023-09-01T06:03:49.591237+00:00",
       "NumProgressed": 219870,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-01T07:04:44.8228394+00:00",
+      "NumProgressed": 219879,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -9160,7 +9165,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4397
+      "UsersEstimate": 4398
     },
     {
       "ID": "Chapter2",
@@ -9168,7 +9173,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4397
+      "UsersEstimate": 4398
     },
     {
       "ID": "Chapter3",
@@ -9544,7 +9549,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4397
+      "UsersEstimate": 4398
     },
     {
       "ID": "ElfEpic",
@@ -9560,7 +9565,7 @@
       "Name": "Sowwy!",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 57166
+      "UsersEstimate": 57169
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -9576,7 +9581,7 @@
       "Name": "GG EZ",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4397
+      "UsersEstimate": 4398
     },
     {
       "ID": "EndCombatOneHp",
@@ -9584,7 +9589,7 @@
       "Name": "DM intervention",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4397
+      "UsersEstimate": 4398
     },
     {
       "ID": "EndGameCursed",
@@ -9664,7 +9669,7 @@
       "Name": "Gargantua",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 879
+      "UsersEstimate": 880
     },
     {
       "ID": "Orktobearfest",
@@ -9696,7 +9701,7 @@
       "Name": "In Navalu\u0027s footsteps",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 879
+      "UsersEstimate": 880
     },
     {
       "ID": "QuestEmile",
@@ -9760,7 +9765,7 @@
       "Name": "Speedrun",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4397
+      "UsersEstimate": 4398
     },
     {
       "ID": "SupportCount4",
@@ -9808,28 +9813,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4397
+      "UsersEstimate": 4398
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 219870,
+      "Progressed": 219879,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 219870,
+      "Progressed": 219879,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-31T13:57:26.1389463+00:00",
-  "LastChanged_Achievements": "2023-09-01T06:03:49.5912366+00:00",
+  "LastChanged_Achievements": "2023-09-01T07:04:44.822839+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:41.9661267+00:00",
-  "LastUpdate_Ratings": "2023-09-01T05:57:32.3593097+00:00",
-  "LastUpdate_Achievements": "2023-09-01T06:03:49.5913998+00:00"
+  "LastUpdate_Ratings": "2023-09-01T06:57:43.671702+00:00",
+  "LastUpdate_Achievements": "2023-09-01T07:04:44.8230004+00:00"
 }

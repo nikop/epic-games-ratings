@@ -1,27 +1,27 @@
 # Zombie Army 4: Dead War
 [Store](https://store.epicgames.com/en-US/p/zombie-army-4-dead-war)  
 [View Rawdata](../../db/z/zombie_army_4__dead_war.json)  
-Rating: 4.69 (Ranked 217)  
+Rating: 4.69 (Ranked 218)  
 Number of Ratings: 743  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 69.00% | ~29,901 |
-| Say goodbye, creep! | 66.00% | ~28,601 |
+| Shoot it, man! Shoot it in the head! | 69.00% | ~29,902 |
+| Say goodbye, creep! | 66.00% | ~28,602 |
 | Blood splattered | 65.00% | ~28,168 |
 | Choo choo! | 62.00% | ~26,868 |
-| Groovy | 61.00% | ~26,434 |
-| Cleanup on aisle 4! | 57.00% | ~24,701 |
+| Groovy | 61.00% | ~26,435 |
+| Cleanup on aisle 4! | 57.00% | ~24,702 |
 | Gold | 50.00% | ~21,668 |
-| The boat can leave now...tell the crew | 49.00% | ~21,234 |
-| Stand back boy! | 47.00% | ~20,367 |
-| Give me something to shoot! | 46.00% | ~19,934 |
-| Weird science | 44.00% | ~19,067 |
-| Chain reaction | 44.00% | ~19,067 |
+| The boat can leave now...tell the crew | 49.00% | ~21,235 |
+| Stand back boy! | 47.00% | ~20,368 |
+| Give me something to shoot! | 46.00% | ~19,935 |
+| Weird science | 44.00% | ~19,068 |
+| Chain reaction | 44.00% | ~19,068 |
 | What did you say, Blain? | 42.00% | ~18,201 |
-| Look mummy! A shark! | 41.00% | ~17,767 |
+| Look mummy! A shark! | 41.00% | ~17,768 |
 | In the dark dark woods... | 39.00% | ~16,901 |
-| Come and get it! It's a running buffet! | 38.00% | ~16,467 |
+| Come and get it! It's a running buffet! | 38.00% | ~16,468 |
 | Double tap | 37.00% | ~16,034 |
 | All of this has happened before… | 36.00% | ~15,601 |
 | Cranial blowout! | 36.00% | ~15,601 |
@@ -29,13 +29,13 @@ Number of Ratings: 743  (23.09.2022)
 | Every bullet counts | 36.00% | ~15,601 |
 | All roads lead to Rome | 34.00% | ~14,734 |
 | You've got red on you | 34.00% | ~14,734 |
-| You're all going to die down here | 32.00% | ~13,867 |
-| He did Nazi that coming | 32.00% | ~13,867 |
+| You're all going to die down here | 32.00% | ~13,868 |
+| He did Nazi that coming | 32.00% | ~13,868 |
 | Kill of the week | 31.00% | ~13,434 |
-| I never liked them anyway | 30.00% | ~13,000 |
+| I never liked them anyway | 30.00% | ~13,001 |
 | Is it over? | 28.00% | ~12,134 |
-| Got your back | 27.00% | ~11,700 |
-| Gore soaked | 24.00% | ~10,400 |
+| Got your back | 27.00% | ~11,701 |
+| Gore soaked | 24.00% | ~10,401 |
 | Shock therapy | 23.00% | ~9,967 |
 | Leave the limbs you've lost | 23.00% | ~9,967 |
 | Everyone's a mad scientist, life is the lab | 19.00% | ~8,234 |
@@ -50,11 +50,11 @@ Number of Ratings: 743  (23.09.2022)
 | Plane sailing | 8.00% | ~3,467 |
 | I can do anything I want. I got guns | 8.00% | ~3,467 |
 | Send me an angel | 8.00% | ~3,467 |
-| This is no Sunday School picnic! | 7.00% | ~3,033 |
-| I never redoubted you! | 7.00% | ~3,033 |
-| Gotcha, didn't I? | 7.00% | ~3,033 |
-| A gross gross | 7.00% | ~3,033 |
-| Hail to the king, baby! | 7.00% | ~3,033 |
+| This is no Sunday School picnic! | 7.00% | ~3,034 |
+| I never redoubted you! | 7.00% | ~3,034 |
+| Gotcha, didn't I? | 7.00% | ~3,034 |
+| A gross gross | 7.00% | ~3,034 |
+| Hail to the king, baby! | 7.00% | ~3,034 |
 | Something wicked this way comes | 6.00% | ~2,600 |
 | Not today you won't | 6.00% | ~2,600 |
 | Take a little bit of Italy with you | 6.00% | ~2,600 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~433 |
 | None more hard | 0.50% | ~217 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,335 (Ranked 93)  
+Progressed: 43,336 (Ranked 93)  
 Completed: 25 (0.06%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 25 (0.06%) (Ranked 231)
 | 2023-08-29 | 43,328 | 25 |
 | 2023-08-30 | 43,331 | 25 |
 | 2023-08-31 | 43,334 | 25 |
-| 2023-09-01 | 43,335 | 25 |
+| 2023-09-01 | 43,336 | 25 |
 ## Awards
 Max (Great Boss Battles): 817  (Ranked 154)  
 Sum: 2,479 (Ranked 177)  

@@ -5,46 +5,46 @@ Rating: 4.18 (Ranked 880)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~34,150 |
-| Har, Har, Har, Very Funny | 34.00% | ~23,222 |
-| Loose Ends | 34.00% | ~23,222 |
-| To the Victor Go the Spoils | 28.00% | ~19,124 |
-| Knighthood | 27.00% | ~18,441 |
-| Get ReQ'd | 25.00% | ~17,075 |
-| Whispered Words | 25.00% | ~17,075 |
-| The Batman Family | 22.00% | ~15,026 |
-| Lock and Key | 22.00% | ~15,026 |
-| Something in the Clay | 21.00% | ~14,343 |
-| Quartzer Life Crisis | 20.00% | ~13,660 |
-| Working Hard or Harley Working? | 20.00% | ~13,660 |
-| Unstoppable Force | 20.00% | ~13,660 |
-| Bad Apples in Every Orchard | 20.00% | ~13,660 |
-| Snow Problem | 19.00% | ~12,977 |
-| The Show Mud Go On | 18.00% | ~12,294 |
-| From Inside Gotham's Walls | 18.00% | ~12,294 |
-| Protector of Gotham | 17.00% | ~11,611 |
-| Universal Health Scare | 16.00% | ~10,928 |
-| In Your Element | 15.00% | ~10,245 |
-| Voiceless | 15.00% | ~10,245 |
-| Rock and a Hard Place | 14.00% | ~9,562 |
-| Cooldown | 14.00% | ~9,562 |
-| Seeking Asylum | 14.00% | ~9,562 |
-| Not On My Watch | 13.00% | ~8,879 |
-| Shock Til They Drop | 13.00% | ~8,879 |
-| End of an Era | 12.00% | ~8,196 |
-| Bulldozed | 12.00% | ~8,196 |
-| Gotham Knight | 12.00% | ~8,196 |
-| Gotham City Confidential | 11.00% | ~7,513 |
-| Drone You Out | 10.00% | ~6,830 |
-| Out of Their League | 9.00% | ~6,147 |
-| Solid Alibi | 9.00% | ~6,147 |
-| Fusion Expert | 7.00% | ~4,781 |
-| Family Meeting | 6.00% | ~4,098 |
-| A Worthy Successor | 6.00% | ~4,098 |
-| Expert Crime Fighter | 5.00% | ~3,415 |
-| Dressed to Impress | 4.00% | ~2,732 |
-| A Momentum Occasion | 3.00% | ~2,049 |
-| Bat Out of Hell | 3.00% | ~2,049 |
+| First Step Into the Knight | 50.00% | ~34,158 |
+| Har, Har, Har, Very Funny | 34.00% | ~23,228 |
+| Loose Ends | 34.00% | ~23,228 |
+| To the Victor Go the Spoils | 28.00% | ~19,129 |
+| Knighthood | 27.00% | ~18,446 |
+| Get ReQ'd | 25.00% | ~17,079 |
+| Whispered Words | 25.00% | ~17,079 |
+| The Batman Family | 22.00% | ~15,030 |
+| Lock and Key | 22.00% | ~15,030 |
+| Something in the Clay | 21.00% | ~14,347 |
+| Quartzer Life Crisis | 20.00% | ~13,663 |
+| Working Hard or Harley Working? | 20.00% | ~13,663 |
+| Unstoppable Force | 20.00% | ~13,663 |
+| Bad Apples in Every Orchard | 20.00% | ~13,663 |
+| Snow Problem | 19.00% | ~12,980 |
+| The Show Mud Go On | 18.00% | ~12,297 |
+| From Inside Gotham's Walls | 18.00% | ~12,297 |
+| Protector of Gotham | 17.00% | ~11,614 |
+| Universal Health Scare | 16.00% | ~10,931 |
+| In Your Element | 15.00% | ~10,248 |
+| Voiceless | 15.00% | ~10,248 |
+| Rock and a Hard Place | 14.00% | ~9,564 |
+| Cooldown | 14.00% | ~9,564 |
+| Seeking Asylum | 14.00% | ~9,564 |
+| Not On My Watch | 13.00% | ~8,881 |
+| Shock Til They Drop | 13.00% | ~8,881 |
+| End of an Era | 12.00% | ~8,198 |
+| Bulldozed | 12.00% | ~8,198 |
+| Gotham Knight | 12.00% | ~8,198 |
+| Gotham City Confidential | 11.00% | ~7,515 |
+| Drone You Out | 10.00% | ~6,832 |
+| Out of Their League | 9.00% | ~6,149 |
+| Solid Alibi | 9.00% | ~6,149 |
+| Fusion Expert | 7.00% | ~4,782 |
+| Family Meeting | 6.00% | ~4,099 |
+| A Worthy Successor | 6.00% | ~4,099 |
+| Expert Crime Fighter | 5.00% | ~3,416 |
+| Dressed to Impress | 4.00% | ~2,733 |
+| A Momentum Occasion | 3.00% | ~2,050 |
+| Bat Out of Hell | 3.00% | ~2,050 |
 | Practice Makes Perfect | 2.00% | ~1,366 |
 | He'd Be So Proud of You | 2.00% | ~1,366 |
 | Talonted | 1.00% | ~683 |
@@ -52,12 +52,12 @@ Rating: 4.18 (Ranked 880)
 | Batarang Collector | 1.00% | ~683 |
 | Claiming the Mural High Ground | 1.00% | ~683 |
 | Icebreaker | 0.80% | ~309 |
-| History Major | 0.80% | ~546 |
+| History Major | 0.80% | ~547 |
 | A Sophisticated Mallet | 0.80% | ~309 |
 | Read Owl About It | 0.70% | ~478 |
-| Gotham's Greatest Depths | 0.60% | ~231 |
-| Don't Mecha Big Deal About It | 0.60% | ~231 |
-| Confronting Your Demon | 0.60% | ~231 |
+| Gotham's Greatest Depths | 0.60% | ~232 |
+| Don't Mecha Big Deal About It | 0.60% | ~232 |
+| Confronting Your Demon | 0.60% | ~232 |
 | That's Showbiz, Clayby | 0.50% | ~193 |
 | Showdown Sovereign | 0.40% | ~154 |
 | Hammer and Icicle | 0.30% | ~116 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 880)
 | Element of Surprise | 0.20% | ~77 |
 | It's Nice to Be Wanted | 0.20% | ~77 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,300 (Ranked 81)  
+Progressed: 68,317 (Ranked 81)  
 Completed: 110 (0.16%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 110 (0.16%) (Ranked 200)
 | 2023-08-29 | 68,108 | 110 |
 | 2023-08-30 | 68,116 | 110 |
 | 2023-08-31 | 68,197 | 110 |
-| 2023-09-01 | 68,300 | 110 |
+| 2023-09-01 | 68,317 | 110 |
 ## Awards
 Max (Great Boss Battles): 2,529  (Ranked 99)  
 Sum: 4,213 (Ranked 140)  

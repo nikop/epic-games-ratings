@@ -17,9 +17,9 @@
 | Your own amateur gym | 73.00% | ~218 |
 | First defeat | 72.00% | ~215 |
 | Run K, run! | 71.00% | ~212 |
+| Fighting is cool | 68.00% | ~203 |
 | Hello, world! | 68.00% | ~203 |
-| Fighting is cool | 67.00% | ~200 |
-| No bullying more | 66.00% | ~197 |
+| No bullying more | 67.00% | ~200 |
 | Pal of your father? | 65.00% | ~194 |
 | Employee of the month | 64.00% | ~191 |
 | Spirit of the past | 62.00% | ~185 |
