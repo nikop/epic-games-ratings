@@ -335,6 +335,7 @@
 | [Marble It Up! Ultra](../games/2/267b56359a8c45ee9154861187de210b.md) | 86 | 1,000 |
 | [Mask of the Rose](../games/c/cd4a7839ad21465cab08d6742093d2a0.md) | 17 | 1,000 |
 | [Mason: Building Bricks](../games/m/mason__building_bricks.md) | 5 | 1,000 |
+| [Masterplan Tycoon](../games/3/3933d71231a543fd873b8768585e2bd7.md) | 16 | 1,000 |
 | [Match Village](../games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 24 | 1,000 |
 | [McPixel 3](../games/m/mcpixel_3.md) | 93 | 1,000 |
 | [Merchant of the Skies](../games/m/merchant_of_the_skies.md) | 12 | 1,000 |
