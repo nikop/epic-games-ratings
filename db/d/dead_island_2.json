@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 178,
   "Ranking_EOS_NewPlayers": 16,
-  "Ranking_EOS_NewCompleters": 5,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -4066,10 +4066,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 8602,
       "NumberOfAwardsMax": 5841
+    },
+    {
+      "Time": "2023-09-01T11:57:40.657528+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 8605,
+      "NumberOfAwardsMax": 5841
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8602,
+  "NumberOfAwards": 8605,
   "NumberOfAwardsMax": 5841,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4095,7 +4101,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 389
+      "Count": 390
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4119,7 +4125,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 358
+      "Count": 360
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4128,10 +4134,10 @@
       "Count": 334
     }
   ],
-  "EOS_Progressed": 670628,
+  "EOS_Progressed": 670650,
   "EOS_Completed": 2097,
-  "EOS_NewPlayers": 5861,
-  "EOS_NewCompleters": 35,
+  "EOS_NewPlayers": 5853,
+  "EOS_NewCompleters": 33,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -19048,6 +19054,11 @@
       "Time": "2023-09-01T11:04:34.7610929+00:00",
       "NumProgressed": 670628,
       "NumCompleted": 2097
+    },
+    {
+      "Time": "2023-09-01T12:04:25.6265935+00:00",
+      "NumProgressed": 670650,
+      "NumCompleted": 2097
     }
   ],
   "TotalAchievements": 45,
@@ -19123,7 +19134,7 @@
       "Name": "Break A Leg",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4694
+      "UsersEstimate": 4695
     },
     {
       "ID": "ach_contender",
@@ -19145,9 +19156,9 @@
       "ID": "ach_doctor_i_am_butcho",
       "SetID": "7km39fm",
       "Name": "But Doctor, I am Butcho",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 3353
+      "UsersEstimate": 4024
     },
     {
       "ID": "ach_doom_buddies",
@@ -19418,16 +19429,16 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 670628,
+      "Progressed": 670650,
       "Completed": 2097
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-09-01T07:58:08.8568544+00:00",
-  "LastChanged_Achievements": "2023-09-01T11:04:34.7610925+00:00",
+  "LastChanged": "2023-09-01T11:57:40.6575278+00:00",
+  "LastChanged_Achievements": "2023-09-01T12:04:25.6265928+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:11.0440218+00:00",
-  "LastUpdate_Ratings": "2023-09-01T10:57:43.5173904+00:00",
-  "LastUpdate_Achievements": "2023-09-01T11:04:34.7611898+00:00"
+  "LastUpdate_Ratings": "2023-09-01T11:57:40.6575286+00:00",
+  "LastUpdate_Achievements": "2023-09-01T12:04:25.6267228+00:00"
 }

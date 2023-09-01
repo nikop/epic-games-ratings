@@ -62,6 +62,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens in Babylon | 1.00% | ~137 |
 | Beloved | 1.00% | ~137 |
 | Drillmaster | 1.00% | ~137 |
+| Conqueror | 1.00% | ~137 |
 | Intercessor | 1.00% | ~137 |
 | Mighty | 1.00% | ~137 |
 | Valiant | 1.00% | ~137 |
@@ -81,7 +82,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Building Wonders | 1.00% | ~137 |
 | Mythology | 1.00% | ~137 |
 | Points Victory | 1.00% | ~137 |
-| Conqueror | 0.90% | ~123 |
 | Lion | 0.90% | ~123 |
 | Good Difficulty | 0.90% | ~123 |
 | Traders | 0.90% | ~123 |
@@ -439,9 +439,9 @@ Completed: 5 (0.04%) (Ranked 240)
 | 2023-08-31 | 13,711 | 5 |
 | 2023-09-01 | 13,720 | 5 |
 ## Awards
-Max (Relaxing): 220  (Ranked 264)  
+Max (Relaxing): 220  (Ranked 265)  
 Sum: 1,800 (Ranked 207)  
-Diff (max vs sum): 57  
+Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 220 |

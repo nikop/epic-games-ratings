@@ -50,8 +50,8 @@ Number of Ratings: 63  (23.09.2022)
 | Eternal Frenemies | 4.00% | ~206 |
 | The Fellowship | 3.00% | ~155 |
 | Are We Good Guys Or Bad Guys? | 1.00% | ~52 |
+| Biohazard | 0.90% | ~46 |
 | OK Boomer | 0.90% | ~46 |
-| Biohazard | 0.80% | ~41 |
 | The Midas Touch | 0.70% | ~36 |
 | Backdraft | 0.60% | ~31 |
 | Completionist | 0.60% | ~31 |

@@ -14,7 +14,7 @@
 | Depressed visitor | 78.00% | ~233 |
 | Neurotrainer – power gainer! | 76.00% | ~227 |
 | Employee of the week | 76.00% | ~227 |
-| Your own amateur gym | 73.00% | ~218 |
+| Your own amateur gym | 74.00% | ~221 |
 | First defeat | 73.00% | ~218 |
 | Run K, run! | 71.00% | ~212 |
 | Fighting is cool | 68.00% | ~203 |
@@ -25,17 +25,17 @@
 | Spirit of the past | 62.00% | ~185 |
 | Law student | 61.00% | ~182 |
 | Workout professional | 59.00% | ~176 |
+| Little hacker | 58.00% | ~173 |
 | Champion – starter pack | 58.00% | ~173 |
 | It's good to be alive | 58.00% | ~173 |
 | Intriguing candies | 58.00% | ~173 |
 | Employee of the year | 58.00% | ~173 |
-| Little hacker | 57.00% | ~170 |
+| Fight for life | 57.00% | ~170 |
 | Handyman | 57.00% | ~170 |
 | Own four walls | 57.00% | ~170 |
-| Fight for life | 56.00% | ~167 |
+| Extreme neuropower! | 54.00% | ~161 |
 | Legal courier | 53.00% | ~158 |
-| Extreme neuropower! | 53.00% | ~158 |
-| Escaped from a big trouble | 49.00% | ~147 |
+| Escaped from a big trouble | 50.00% | ~150 |
 | Now you are worthy | 48.00% | ~144 |
 | Guiding on the right path | 45.00% | ~135 |
 | Fight is life | 44.00% | ~132 |

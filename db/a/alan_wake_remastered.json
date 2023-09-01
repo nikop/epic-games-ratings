@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 515,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 79,
+  "Ranking_EOS_NewPlayers": 80,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 62088,
+  "EOS_Progressed": 62089,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 528,
+  "EOS_NewPlayers": 523,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -13112,6 +13112,11 @@
       "Time": "2023-09-01T11:03:15.8008499+00:00",
       "NumProgressed": 62088,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-09-01T12:03:15.9486145+00:00",
+      "NumProgressed": 62089,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -13123,7 +13128,7 @@
       "Name": "Follow the Light",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 23593
+      "UsersEstimate": 23594
     },
     {
       "ID": "02",
@@ -13155,7 +13160,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 13038
+      "UsersEstimate": 13039
     },
     {
       "ID": "06",
@@ -13291,7 +13296,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8071
+      "UsersEstimate": 8072
     },
     {
       "ID": "23",
@@ -13331,7 +13336,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8071
+      "UsersEstimate": 8072
     },
     {
       "ID": "28",
@@ -13371,7 +13376,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 18626
+      "UsersEstimate": 18627
     },
     {
       "ID": "33",
@@ -13395,7 +13400,7 @@
       "Name": "Let There Be Light",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 19247
+      "UsersEstimate": 19248
     },
     {
       "ID": "36",
@@ -13523,7 +13528,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 2044
+      "UsersEstimate": 2045
     },
     {
       "ID": "52",
@@ -13658,21 +13663,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 62088,
+      "Progressed": 62089,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 25556,
+      "Progressed": 25557,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-01T11:03:15.8008493+00:00",
+  "LastChanged_Achievements": "2023-09-01T12:03:15.9486136+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:21.2068954+00:00",
-  "LastUpdate_Ratings": "2023-09-01T10:56:59.9962585+00:00",
-  "LastUpdate_Achievements": "2023-09-01T11:03:15.8009608+00:00"
+  "LastUpdate_Ratings": "2023-09-01T11:56:57.7103708+00:00",
+  "LastUpdate_Achievements": "2023-09-01T12:03:15.9487421+00:00"
 }

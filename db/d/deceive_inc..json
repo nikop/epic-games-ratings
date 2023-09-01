@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17795,
+  "EOS_Progressed": 17797,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 161,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9513,6 +9513,11 @@
       "Time": "2023-09-01T10:03:16.8522564+00:00",
       "NumProgressed": 17795,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-01T12:02:14.1120032+00:00",
+      "NumProgressed": 17797,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -9612,7 +9617,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2847
+      "UsersEstimate": 2848
     },
     {
       "ID": "0013",
@@ -9628,7 +9633,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2847
+      "UsersEstimate": 2848
     },
     {
       "ID": "0015",
@@ -9676,7 +9681,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 11,
       "XP": 115,
-      "UsersEstimate": 1957
+      "UsersEstimate": 1958
     },
     {
       "ID": "0021",
@@ -9724,7 +9729,7 @@
       "Name": "The Living Portrait",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2135
+      "UsersEstimate": 2136
     },
     {
       "ID": "0027",
@@ -9732,7 +9737,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1957
+      "UsersEstimate": 1958
     },
     {
       "ID": "0028",
@@ -9748,7 +9753,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2313
+      "UsersEstimate": 2314
     },
     {
       "ID": "0030",
@@ -9764,7 +9769,7 @@
       "Name": "Private Collection",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2135
+      "UsersEstimate": 2136
     },
     {
       "ID": "0032",
@@ -9772,7 +9777,7 @@
       "Name": "Killer Looks",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1957
+      "UsersEstimate": 1958
     },
     {
       "ID": "0033",
@@ -9780,7 +9785,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2135
+      "UsersEstimate": 2136
     },
     {
       "ID": "0034",
@@ -9788,7 +9793,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2135
+      "UsersEstimate": 2136
     },
     {
       "ID": "0035",
@@ -9811,7 +9816,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17795,
+      "Progressed": 17797,
       "Completed": 1
     }
   ],
@@ -9819,8 +9824,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-31T05:58:36.9186567+00:00",
-  "LastChanged_Achievements": "2023-09-01T11:02:13.1838759+00:00",
+  "LastChanged_Achievements": "2023-09-01T12:02:14.1120023+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:14.6586711+00:00",
-  "LastUpdate_Ratings": "2023-09-01T10:58:51.5729716+00:00",
-  "LastUpdate_Achievements": "2023-09-01T11:02:13.183963+00:00"
+  "LastUpdate_Ratings": "2023-09-01T11:58:47.7688723+00:00",
+  "LastUpdate_Achievements": "2023-09-01T12:02:14.112097+00:00"
 }

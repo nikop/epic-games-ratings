@@ -6,33 +6,33 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MU/TH/UR Dearest | 1.00% | ~8,352 |
-| It wakes | 0.90% | ~7,517 |
-| Skillful | 0.80% | ~6,682 |
-| Zealous | 0.70% | ~5,847 |
-| Not half bad | 0.70% | ~5,847 |
-| Make Some Noise | 0.70% | ~5,847 |
-| Apt Survivor | 0.60% | ~5,011 |
-| Survival Treasures | 0.60% | ~5,011 |
-| Terror of LV-426 | 0.60% | ~5,011 |
-| Medic | 0.50% | ~4,176 |
-| Handyman | 0.50% | ~4,176 |
-| Nerves of steel | 0.50% | ~4,176 |
-| Bloody Millionaire | 0.50% | ~4,176 |
-| I | 0.50% | ~4,176 |
-| Sorted | 0.50% | ~4,176 |
-| The Grand Sacrifice | 0.40% | ~3,341 |
-| Agonizing Escape | 0.40% | ~3,341 |
-| Backdoor Escape | 0.40% | ~3,341 |
-| No one left behind | 0.40% | ~3,341 |
-| Perfect Escape | 0.40% | ~3,341 |
-| Perfect Killing | 0.40% | ~3,341 |
-| Engineer | 0.40% | ~3,341 |
-| Healthy Obsession | 0.40% | ~3,341 |
-| Resurgence | 0.40% | ~3,341 |
-| Preemptive Strike | 0.40% | ~3,341 |
-| Humanitarian | 0.40% | ~3,341 |
-| I've got your back | 0.30% | ~2,506 |
+| MU/TH/UR Dearest | 1.00% | ~8,354 |
+| It wakes | 0.90% | ~7,518 |
+| Zealous | 0.80% | ~6,683 |
+| Skillful | 0.80% | ~6,683 |
+| Not half bad | 0.70% | ~5,848 |
+| Make Some Noise | 0.70% | ~5,848 |
+| Handyman | 0.60% | ~5,012 |
+| Apt Survivor | 0.60% | ~5,012 |
+| Survival Treasures | 0.60% | ~5,012 |
+| Terror of LV-426 | 0.60% | ~5,012 |
+| No one left behind | 0.50% | ~4,177 |
+| Medic | 0.50% | ~4,177 |
+| Nerves of steel | 0.50% | ~4,177 |
+| Bloody Millionaire | 0.50% | ~4,177 |
+| I | 0.50% | ~4,177 |
+| Sorted | 0.50% | ~4,177 |
+| The Grand Sacrifice | 0.40% | ~3,342 |
+| Agonizing Escape | 0.40% | ~3,342 |
+| Backdoor Escape | 0.40% | ~3,342 |
+| I've got your back | 0.40% | ~3,342 |
+| Perfect Escape | 0.40% | ~3,342 |
+| Perfect Killing | 0.40% | ~3,342 |
+| Engineer | 0.40% | ~3,342 |
+| Healthy Obsession | 0.40% | ~3,342 |
+| Resurgence | 0.40% | ~3,342 |
+| Preemptive Strike | 0.40% | ~3,342 |
+| Humanitarian | 0.40% | ~3,342 |
 | Apt Killer | 0.30% | ~2,506 |
 | Risk it all | 0.30% | ~2,506 |
 | Vulture | 0.30% | ~2,506 |
@@ -41,34 +41,35 @@ Number of Ratings: 70,340  (23.09.2022)
 | Wounded Healer | 0.30% | ~2,506 |
 | Close Shave | 0.30% | ~2,506 |
 | Second Act | 0.30% | ~2,506 |
-| Blood on your hands | 0.20% | ~1,670 |
-| Escape Artist | 0.20% | ~1,670 |
-| Made it out alive! | 0.20% | ~1,670 |
-| Gifts for the Fog | 0.20% | ~1,670 |
-| III-50 | 0.20% | ~1,670 |
-| Shock Therapy | 0.20% | ~1,670 |
-| All Aboard | 0.20% | ~1,670 |
-| Item of Obsession | 0.20% | ~1,670 |
-| Holiday Get-Together | 0.20% | ~1,670 |
-| Near-Death Experience | 0.20% | ~1,670 |
-| Cherish your Life | 0.20% | ~1,670 |
-| Campbell's Chapel Legacy | 0.20% | ~1,670 |
-| Unforgettable Getaway | 0.20% | ~1,670 |
-| Cutting Out | 0.20% | ~1,670 |
-| Outrun Evil | 0.20% | ~1,670 |
-| First to the Punch | 0.20% | ~1,670 |
-| Operation: Survival | 0.20% | ~1,670 |
-| Old West Oasis | 0.20% | ~1,670 |
-| Classy Act | 0.20% | ~1,670 |
-| Every Last Drop | 0.20% | ~1,670 |
-| Raccoon City Recruit | 0.20% | ~1,670 |
-| With Scars to Show | 0.20% | ~1,670 |
-| Flight to Freedom | 0.20% | ~1,670 |
-| A Fast Death | 0.20% | ~1,670 |
-| Lifting The Fog | 0.20% | ~1,670 |
-| Chorus of Chaos | 0.20% | ~1,670 |
-| Complete the Evolution | 0.20% | ~1,670 |
-| One More Step | 0.20% | ~1,670 |
+| Blood on your hands | 0.20% | ~1,671 |
+| Escape Artist | 0.20% | ~1,671 |
+| Made it out alive! | 0.20% | ~1,671 |
+| Gifts for the Fog | 0.20% | ~1,671 |
+| III-50 | 0.20% | ~1,671 |
+| Shock Therapy | 0.20% | ~1,671 |
+| All Aboard | 0.20% | ~1,671 |
+| Item of Obsession | 0.20% | ~1,671 |
+| House of Pain | 0.20% | ~1,671 |
+| Holiday Get-Together | 0.20% | ~1,671 |
+| Near-Death Experience | 0.20% | ~1,671 |
+| Cherish your Life | 0.20% | ~1,671 |
+| Campbell's Chapel Legacy | 0.20% | ~1,671 |
+| Unforgettable Getaway | 0.20% | ~1,671 |
+| Cutting Out | 0.20% | ~1,671 |
+| Outrun Evil | 0.20% | ~1,671 |
+| First to the Punch | 0.20% | ~1,671 |
+| Operation: Survival | 0.20% | ~1,671 |
+| Old West Oasis | 0.20% | ~1,671 |
+| Classy Act | 0.20% | ~1,671 |
+| Every Last Drop | 0.20% | ~1,671 |
+| Raccoon City Recruit | 0.20% | ~1,671 |
+| With Scars to Show | 0.20% | ~1,671 |
+| Flight to Freedom | 0.20% | ~1,671 |
+| A Fast Death | 0.20% | ~1,671 |
+| Lifting The Fog | 0.20% | ~1,671 |
+| Chorus of Chaos | 0.20% | ~1,671 |
+| Complete the Evolution | 0.20% | ~1,671 |
+| One More Step | 0.20% | ~1,671 |
 | A bite for the Entity | 0.10% | ~835 |
 | A feast for the Entity | 0.10% | ~835 |
 | Blood on your face | 0.10% | ~835 |
@@ -102,7 +103,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | The man behind the bush | 0.10% | ~835 |
 | Evil Incarnate | 0.10% | ~835 |
 | Adept Shape | 0.10% | ~835 |
-| House of Pain | 0.10% | ~835 |
 | Adept Laurie | 0.10% | ~835 |
 | Swirling Death | 0.10% | ~835 |
 | Skilled Huntress | 0.10% | ~835 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~835 |
 | Adept Ripley | 0.10% | ~835 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 835,241 (Ranked 15)  
+Progressed: 835,378 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -370,10 +370,10 @@ Completed: 48 (0.01%) (Ranked 258)
 | 2023-08-29 | 828,020 | 48 |
 | 2023-08-30 | 831,117 | 48 |
 | 2023-08-31 | 834,142 | 48 |
-| 2023-09-01 | 835,241 | 48 |
+| 2023-09-01 | 835,378 | 48 |
 ## Awards
 Max (Diverse Characters): 31,778  (Ranked 15)  
-Sum: 249,060 (Ranked 11)  
+Sum: 249,078 (Ranked 11)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
@@ -385,7 +385,7 @@ Diff (max vs sum): 4
 | This game has Quickly Understood Controls | 27,617 |
 | This game has Challenging Combat | 27,282 |
 | This game has Amazing Storytelling | 25,581 |
-| This game has a Competitive Community | 23,890 |
+| This game has a Competitive Community | 23,908 |
 | This game has Obsessive Gameplay | 16,768 |
 | This game is Great for Quick Sessions | 4,888 |
 ## Ratings History
@@ -611,4 +611,4 @@ Diff (max vs sum): 4
 | 2023-08-29 | 4.52 | - | 31,566 | 248,001 |
 | 2023-08-30 | 4.52 | - | 31,677 | 248,552 |
 | 2023-08-31 | 4.52 | - | 31,726 | 248,913 |
-| 2023-09-01 | 4.52 | - | 31,778 | 249,060 |
+| 2023-09-01 | 4.52 | - | 31,778 | 249,078 |

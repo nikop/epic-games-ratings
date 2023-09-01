@@ -5,35 +5,35 @@ Rating: 4.04 (Ranked 935)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,745 |
-| World Map | 79.00% | ~1,482 |
-| Temple of Eternals | 57.00% | ~1,069 |
-| Prestigious | 54.00% | ~1,013 |
-| Fellowship Power | 41.00% | ~769 |
-| Guild Power | 25.00% | ~469 |
+| Victor | 93.00% | ~1,747 |
+| World Map | 79.00% | ~1,484 |
+| Temple of Eternals | 57.00% | ~1,070 |
+| Prestigious | 54.00% | ~1,014 |
+| Fellowship Power | 41.00% | ~770 |
+| Guild Power | 25.00% | ~470 |
 | Prestigious x10 | 22.00% | ~413 |
-| The game is on | 20.00% | ~375 |
-| Exotic Merchant | 19.00% | ~356 |
+| The game is on | 20.00% | ~376 |
+| Exotic Merchant | 19.00% | ~357 |
 | Dragon Clicker | 17.00% | ~319 |
 | Inspection | 17.00% | ~319 |
 | Miner Clicker | 17.00% | ~319 |
 | Full Party | 16.00% | ~300 |
-| Dragon Master | 15.00% | ~281 |
-| Enlightenment | 15.00% | ~281 |
-| Hero inspection | 15.00% | ~281 |
-| Lieutenant | 15.00% | ~281 |
+| Dragon Master | 15.00% | ~282 |
+| Enlightenment | 15.00% | ~282 |
+| Hero inspection | 15.00% | ~282 |
+| Lieutenant | 15.00% | ~282 |
 | Mysterious Rock | 14.00% | ~263 |
 | Milestone collector | 13.00% | ~244 |
 | Natural Talent | 13.00% | ~244 |
 | Superior | 13.00% | ~244 |
 | The Unstoppable | 13.00% | ~244 |
 | Scientist | 12.00% | ~225 |
-| Challenger | 11.00% | ~206 |
-| Doing My Part | 11.00% | ~206 |
-| Hunter | 11.00% | ~206 |
-| Mastery | 11.00% | ~206 |
-| Relic Of The Past | 11.00% | ~206 |
-| The power of Awakening | 11.00% | ~206 |
+| Doing My Part | 11.00% | ~207 |
+| Hunter | 11.00% | ~207 |
+| Mastery | 11.00% | ~207 |
+| Relic Of The Past | 11.00% | ~207 |
+| The power of Awakening | 11.00% | ~207 |
+| Challenger | 10.00% | ~188 |
 | Daily Quest Completionist | 10.00% | ~188 |
 | Four Leaf Clover | 10.00% | ~188 |
 | Frostfire Liberator | 10.00% | ~188 |
@@ -81,7 +81,7 @@ Rating: 4.04 (Ranked 935)
 | Silverwood liberator | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,876 (Ranked 175)  
+Progressed: 1,878 (Ranked 175)  
 Completed: 2 (0.11%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 2 (0.11%) (Ranked 215)
 | 2023-08-29 | 1,868 | 2 |
 | 2023-08-30 | 1,873 | 2 |
 | 2023-08-31 | 1,875 | 2 |
-| 2023-09-01 | 1,876 | 2 |
+| 2023-09-01 | 1,878 | 2 |
 ## Awards
 Max (Great for Beginners): 20  (Ranked 510)  
 Sum: 20 (Ranked 510)  

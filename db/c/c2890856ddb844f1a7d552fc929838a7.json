@@ -36,7 +36,7 @@
   "Tags": [],
   "EOS_Progressed": 619,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 329,
+  "EOS_NewPlayers": 326,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -864,17 +864,17 @@
       "ID": "AC05",
       "SetID": "l4abp0",
       "Name": "The Sharpest Tool in the Shed",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 328
+      "UsersEstimate": 334
     },
     {
       "ID": "AC06",
       "SetID": "l4abp0",
       "Name": "The Last Ascension",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 266
+      "UsersEstimate": 272
     },
     {
       "ID": "AC07",
@@ -1056,9 +1056,9 @@
       "ID": "AC29",
       "SetID": "l4abp0",
       "Name": "The Veteran One",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 149
     },
     {
       "ID": "AC30",
@@ -1168,9 +1168,9 @@
       "ID": "AC43",
       "SetID": "l4abp0",
       "Name": "The Finest Craftmanship",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 204
     },
     {
       "ID": "AC44",
@@ -1201,8 +1201,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-08-31T20:59:26.6195445+00:00",
-  "LastChanged_Achievements": "2023-09-01T11:05:58.9249951+00:00",
+  "LastChanged_Achievements": "2023-09-01T12:05:50.4163084+00:00",
   "LastUpdate_AppInfo": "2023-08-29T18:57:21.35462+00:00",
-  "LastUpdate_Ratings": "2023-09-01T10:59:38.8204573+00:00",
-  "LastUpdate_Achievements": "2023-09-01T11:05:58.9250281+00:00"
+  "LastUpdate_Ratings": "2023-09-01T11:59:37.5678616+00:00",
+  "LastUpdate_Achievements": "2023-09-01T12:05:50.4163578+00:00"
 }

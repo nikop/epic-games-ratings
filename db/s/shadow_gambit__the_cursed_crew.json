@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 564,
+  "EOS_Progressed": 565,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 1.6,
+  "EOS_Completed_Percentage": 1.59,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -1271,6 +1271,11 @@
       "Time": "2023-09-01T11:05:27.5819353+00:00",
       "NumProgressed": 564,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-01T12:05:19.0675213+00:00",
+      "NumProgressed": 565,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1283,7 +1288,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -1291,15 +1296,15 @@
       "Name": "A New Journey",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "_03_FinishAct1",
       "SetID": "8a1io5d",
       "Name": "The Adventure Begins",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 316
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1307,7 +1312,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "_05_FinishAct2",
@@ -1315,7 +1320,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -1339,7 +1344,7 @@
       "Name": "Swabbie",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "_09_Completion_20",
@@ -1409,9 +1414,9 @@
       "ID": "_17_UpgradeFirstCharacter",
       "SetID": "8a1io5d",
       "Name": "With Great Power\u2026",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 220
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -1459,7 +1464,7 @@
       "Name": "Lyrical Longing",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "_24_CrewTale_SNP",
@@ -1490,14 +1495,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 564,
+      "Progressed": 565,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-09-01T11:05:27.5819349+00:00",
+  "LastChanged_Achievements": "2023-09-01T12:05:19.0675202+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:45.1302228+00:00",
-  "LastUpdate_Ratings": "2023-09-01T10:57:30.7520974+00:00",
-  "LastUpdate_Achievements": "2023-09-01T11:05:27.581959+00:00"
+  "LastUpdate_Ratings": "2023-09-01T11:57:27.8879096+00:00",
+  "LastUpdate_Achievements": "2023-09-01T12:05:19.0675524+00:00"
 }

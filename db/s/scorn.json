@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 515,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 39,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2022-10-14T10:00:00+00:00",
@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2331,
+  "EOS_Progressed": 2332,
   "EOS_Completed": 163,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 6.99,
   "EosHistory": [
@@ -2434,6 +2434,11 @@
       "Time": "2023-09-01T05:07:36.962831+00:00",
       "NumProgressed": 2331,
       "NumCompleted": 163
+    },
+    {
+      "Time": "2023-09-01T12:06:24.5633016+00:00",
+      "NumProgressed": 2332,
+      "NumCompleted": 163
     }
   ],
   "TotalAchievements": 12,
@@ -2461,7 +2466,7 @@
       "Name": "003",
       "Percentage": 11,
       "XP": 80,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "004",
@@ -2469,7 +2474,7 @@
       "Name": "004",
       "Percentage": 11,
       "XP": 80,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "005",
@@ -2540,7 +2545,7 @@
     {
       "ID": "94k0mj8",
       "IsBase": true,
-      "Progressed": 2331,
+      "Progressed": 2332,
       "Completed": 163
     }
   ],
@@ -2548,8 +2553,8 @@
   "FirstSeenRating": "2022-10-15T14:30:48.7901656+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.2661117+00:00",
   "LastChanged": "2023-07-23T02:06:43.3775839+00:00",
-  "LastChanged_Achievements": "2023-09-01T11:06:32.8733846+00:00",
+  "LastChanged_Achievements": "2023-09-01T12:06:24.563301+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:50.4123605+00:00",
-  "LastUpdate_Ratings": "2023-09-01T10:57:22.4028782+00:00",
-  "LastUpdate_Achievements": "2023-09-01T11:06:32.8734033+00:00"
+  "LastUpdate_Ratings": "2023-09-01T11:57:19.3080231+00:00",
+  "LastUpdate_Achievements": "2023-09-01T12:06:24.5633282+00:00"
 }

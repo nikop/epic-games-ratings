@@ -8,8 +8,8 @@ Number of Ratings: 368  (23.09.2022)
 | ---- | ---------- | ----- |
 | Tattletale | 41.00% | ~6,128 |
 | Man of politics | 35.00% | ~5,231 |
-| Friends of sorts | 33.00% | ~4,932 |
-| Yet another secret | 33.00% | ~4,932 |
+| Friends of sorts | 33.00% | ~4,933 |
+| Yet another secret | 33.00% | ~4,933 |
 | Let there be darkness | 32.00% | ~4,783 |
 | End of Book One | 30.00% | ~4,484 |
 | Wannabe knight | 24.00% | ~3,587 |
@@ -21,8 +21,8 @@ Number of Ratings: 368  (23.09.2022)
 | Workers' union | 18.00% | ~2,690 |
 | End of Book Two | 18.00% | ~2,690 |
 | Everything's in order | 17.00% | ~2,541 |
-| Twist of Fate | 14.00% | ~2,092 |
-| Jack was here! | 14.00% | ~2,092 |
+| Twist of Fate | 14.00% | ~2,093 |
+| Jack was here! | 14.00% | ~2,093 |
 | Exterminator | 13.00% | ~1,943 |
 | Whodunnit | 12.00% | ~1,794 |
 | Friar Tuck | 11.00% | ~1,644 |
@@ -35,7 +35,7 @@ Number of Ratings: 368  (23.09.2022)
 | The oath | 9.00% | ~1,345 |
 | The truth revealed | 9.00% | ~1,345 |
 | The End. | 9.00% | ~1,345 |
-| A cry for help | 8.00% | ~1,196 |
+| A cry for help | 7.00% | ~1,046 |
 | Silentium est aureum | 7.00% | ~1,046 |
 | Rebel without a cause | 6.00% | ~897 |
 | Staring contest champion | 5.00% | ~747 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~448 |
 | Boy of mystery | 2.00% | ~299 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,946 (Ranked 119)  
+Progressed: 14,947 (Ranked 119)  
 Completed: 110 (0.74%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,7 +182,7 @@ Completed: 110 (0.74%) (Ranked 132)
 | 2023-08-29 | 14,901 | 110 |
 | 2023-08-30 | 14,921 | 110 |
 | 2023-08-31 | 14,937 | 110 |
-| 2023-09-01 | 14,946 | 110 |
+| 2023-09-01 | 14,947 | 110 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 300)  
 Sum: 188 (Ranked 377)  

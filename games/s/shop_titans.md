@@ -6,9 +6,9 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 2.00% | ~2,709 |
-| Basic in Bulk | 2.00% | ~2,709 |
-| Titan's First Steps | 2.00% | ~2,709 |
+| Sponsored by Argon | 2.00% | ~2,710 |
+| Basic in Bulk | 2.00% | ~2,710 |
+| Titan's First Steps | 2.00% | ~2,710 |
 | Disintermediation | 1.00% | ~1,355 |
 | It's Free Real Estate | 1.00% | ~1,355 |
 | Tinkle of Coins | 1.00% | ~1,355 |
@@ -48,6 +48,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Scrapbooker | 0.40% | ~542 |
 | Locally Sourced | 0.40% | ~542 |
 | Flying off the Shelves | 0.40% | ~542 |
+| This Power Level...! | 0.40% | ~542 |
 | Hidden Potential | 0.40% | ~542 |
 | Power of Love | 0.40% | ~542 |
 | Expansion in Session | 0.40% | ~542 |
@@ -71,7 +72,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Archivist | 0.30% | ~406 |
 | Fillin' the Bin | 0.30% | ~406 |
 | Industrial Evolution | 0.30% | ~406 |
-| This Power Level...! | 0.30% | ~406 |
 | Omae wa Mou Shindeiru | 0.30% | ~406 |
 | Master of Transmutation | 0.30% | ~406 |
 | Supercharged | 0.30% | ~406 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~135 |
 | Cash Only Please | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,473 (Ranked 67)  
+Progressed: 135,478 (Ranked 67)  
 Completed: 140 (0.10%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,7 +253,7 @@ Completed: 140 (0.10%) (Ranked 218)
 | 2023-08-29 | 135,350 | 138 |
 | 2023-08-30 | 135,399 | 138 |
 | 2023-08-31 | 135,446 | 140 |
-| 2023-09-01 | 135,473 | 140 |
+| 2023-09-01 | 135,478 | 140 |
 ## Awards
 Max (Great for Beginners): 4,718  (Ranked 70)  
 Sum: 27,160 (Ranked 46)  

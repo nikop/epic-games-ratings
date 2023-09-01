@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 788,
+  "EOS_Progressed": 789,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1806,6 +1806,11 @@
       "Time": "2023-08-31T19:04:50.0293513+00:00",
       "NumProgressed": 788,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-01T12:04:49.3472385+00:00",
+      "NumProgressed": 789,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1857,7 +1862,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -1889,7 +1894,7 @@
       "Name": "Capraphobia",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -2017,7 +2022,7 @@
       "Name": "Greetings from Royalty",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -2137,7 +2142,7 @@
       "Name": "And There We Go",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -2241,7 +2246,7 @@
       "Name": "Buy A Book",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "OUT_ACHIEVEMENT_1",
@@ -2344,14 +2349,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 788,
+      "Progressed": 789,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-09-01T11:04:58.4003286+00:00",
+  "LastChanged_Achievements": "2023-09-01T12:04:49.3472375+00:00",
   "LastUpdate_AppInfo": "2023-08-31T17:57:08.7662192+00:00",
-  "LastUpdate_Ratings": "2023-09-01T10:59:50.6972573+00:00",
-  "LastUpdate_Achievements": "2023-09-01T11:04:58.4003907+00:00"
+  "LastUpdate_Ratings": "2023-09-01T11:59:49.8644823+00:00",
+  "LastUpdate_Achievements": "2023-09-01T12:04:49.3473076+00:00"
 }
