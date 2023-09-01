@@ -22,7 +22,7 @@
 | I need a hero | 7.00% | ~5 |
 | I love you all | 7.00% | ~5 |
 | Skills to pay the bills | 7.00% | ~5 |
-| Missing pages | 4.00% | ~3 |
+| Missing pages | 6.00% | ~4 |
 | Master of puppets | 4.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 67 (Ranked 365)  

@@ -31,7 +31,7 @@ Rating: 4.19 (Ranked 873)
 | The Commonality | 2.00% | ~318 |
 | One Last Job | 2.00% | ~77 |
 | In Striking Distance | 1.00% | ~159 |
-| This Isn't About Escape | 0.90% | ~34 |
+| This Isn't About Escape | 0.90% | ~35 |
 | Armed to the Teeth | 0.60% | ~23 |
 | Big Spender | 0.60% | ~23 |
 | Information Overload | 0.60% | ~23 |
@@ -39,7 +39,7 @@ Rating: 4.19 (Ranked 873)
 | Parole Denied | 0.50% | ~19 |
 | Quick Pick | 0.50% | ~19 |
 | Mugshot | 0.30% | ~48 |
-| Instigator | 0.30% | ~11 |
+| Instigator | 0.30% | ~12 |
 | Subject Alpha | 0.20% | ~8 |
 | Don't Let It Mellow | 0.20% | ~8 |
 | It's over, Jacob! | 0.10% | ~16 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 873)
 | Hoard Mode | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,907 (Ranked 117)  
+Progressed: 15,908 (Ranked 117)  
 Completed: 73 (0.46%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,6 +184,7 @@ Completed: 73 (0.46%) (Ranked 156)
 | 2023-08-28 | 15,902 | 73 |
 | 2023-08-29 | 15,905 | 73 |
 | 2023-08-31 | 15,907 | 73 |
+| 2023-09-01 | 15,908 | 73 |
 ## Awards
 Max (Amazing Storytelling): 73  (Ranked 374)  
 Sum: 416 (Ranked 316)  

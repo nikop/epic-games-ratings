@@ -4152,9 +4152,9 @@
       "Count": 334
     }
   ],
-  "EOS_Progressed": 670947,
+  "EOS_Progressed": 670993,
   "EOS_Completed": 2097,
-  "EOS_NewPlayers": 5853,
+  "EOS_NewPlayers": 5854,
   "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -19112,6 +19112,11 @@
       "Time": "2023-09-01T19:05:17.4986924+00:00",
       "NumProgressed": 670947,
       "NumCompleted": 2097
+    },
+    {
+      "Time": "2023-09-01T20:05:03.0460097+00:00",
+      "NumProgressed": 670993,
+      "NumCompleted": 2097
     }
   ],
   "TotalAchievements": 45,
@@ -19377,9 +19382,9 @@
       "ID": "ach_salvation",
       "SetID": "7km39fm",
       "Name": "Down with the Sickness",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2013
+      "UsersEstimate": 2684
     },
     {
       "ID": "ach_secrets_of_la",
@@ -19449,9 +19454,9 @@
       "ID": "ach_weapon_wrangler",
       "SetID": "7km39fm",
       "Name": "Variety is the Spice of Death",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 671
+      "UsersEstimate": 1342
     },
     {
       "ID": "ach_welcome_to_hell_a",
@@ -19482,7 +19487,7 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 670947,
+      "Progressed": 670993,
       "Completed": 2097
     }
   ],
@@ -19490,8 +19495,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-01T17:57:51.8036404+00:00",
-  "LastChanged_Achievements": "2023-09-01T19:05:17.4986916+00:00",
+  "LastChanged_Achievements": "2023-09-01T20:05:03.0460093+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:11.0440218+00:00",
-  "LastUpdate_Ratings": "2023-09-01T18:58:02.823132+00:00",
-  "LastUpdate_Achievements": "2023-09-01T19:05:17.4988343+00:00"
+  "LastUpdate_Ratings": "2023-09-01T19:57:55.4570925+00:00",
+  "LastUpdate_Achievements": "2023-09-01T20:05:03.0461055+00:00"
 }

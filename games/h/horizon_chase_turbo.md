@@ -6,15 +6,15 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~932,988 |
-| I Need a Bigger Garage | 63.00% | ~653,091 |
-| Pump my Ride | 47.00% | ~487,227 |
-| Ghostbuster | 33.00% | ~342,095 |
-| That Was Close | 18.00% | ~186,598 |
-| Call Roadside Assistance | 17.00% | ~176,231 |
-| Quickie | 11.00% | ~114,032 |
-| California Dreamer | 7.00% | ~72,566 |
-| Can't Touch This | 5.00% | ~51,833 |
+| The First of Many | 90.00% | ~933,003 |
+| I Need a Bigger Garage | 63.00% | ~653,102 |
+| Pump my Ride | 47.00% | ~487,235 |
+| Ghostbuster | 33.00% | ~342,101 |
+| That Was Close | 18.00% | ~186,601 |
+| Call Roadside Assistance | 17.00% | ~176,234 |
+| Quickie | 11.00% | ~114,034 |
+| California Dreamer | 7.00% | ~72,567 |
+| Can't Touch This | 5.00% | ~51,834 |
 | Carménère Taster | 3.00% | ~31,100 |
 | Supersonic | 3.00% | ~31,100 |
 | Comeback | 3.00% | ~31,100 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,037 |
 | Look Mom, No Hands! | 0.10% | ~1,037 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,036,653 (Ranked 12)  
+Progressed: 1,036,670 (Ranked 12)  
 Completed: 410 (0.04%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,10 +178,10 @@ Completed: 410 (0.04%) (Ranked 240)
 | 2023-08-29 | 1,035,202 | 407 |
 | 2023-08-30 | 1,035,723 | 408 |
 | 2023-08-31 | 1,036,247 | 409 |
-| 2023-09-01 | 1,036,653 | 410 |
+| 2023-09-01 | 1,036,670 | 410 |
 ## Awards
 Max (Great for Beginners): 153  (Ranked 296)  
-Sum: 1,264 (Ranked 229)  
+Sum: 1,265 (Ranked 229)  
 Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
@@ -189,7 +189,7 @@ Diff (max vs sum): 67
 | This game has Quickly Understood Controls | 133 |
 | This game is Relaxing | 126 |
 | This game is Great for Quick Sessions | 125 |
-| This game is Highly Recommended | 121 |
+| This game is Highly Recommended | 122 |
 | This game has Competitive Players | 117 |
 | This game has Playful Visuals | 116 |
 | This game is Extremely Fun | 109 |
@@ -397,3 +397,4 @@ Diff (max vs sum): 67
 | 2023-08-25 | 4.55 | - | 153 | 1,261 |
 | 2023-08-29 | 4.55 | - | 153 | 1,262 |
 | 2023-08-30 | 4.55 | - | 153 | 1,264 |
+| 2023-09-01 | 4.55 | - | 153 | 1,265 |

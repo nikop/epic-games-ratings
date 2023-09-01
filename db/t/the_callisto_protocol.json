@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 316,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1136,9 +1136,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 15907,
+  "EOS_Progressed": 15908,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -6766,6 +6766,11 @@
       "Time": "2023-08-31T08:05:51.6759054+00:00",
       "NumProgressed": 15907,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-09-01T20:06:10.4626685+00:00",
+      "NumProgressed": 15908,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 47,
@@ -7049,7 +7054,7 @@
       "Name": "Instigator",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "FINISH_WAVE_50",
@@ -7113,7 +7118,7 @@
       "Name": "This Isn\u0027t About Escape",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "FINISH_DLC4",
@@ -7152,13 +7157,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15907,
+      "Progressed": 15908,
       "Completed": 73
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3833,
+      "Progressed": 3834,
       "Completed": 29
     }
   ],
@@ -7166,8 +7171,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-09-01T01:43:16.3444734+00:00",
-  "LastChanged_Achievements": "2023-09-01T19:06:37.3974091+00:00",
+  "LastChanged_Achievements": "2023-09-01T20:06:10.4626681+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:47.4155598+00:00",
-  "LastUpdate_Ratings": "2023-09-01T18:57:39.1042031+00:00",
-  "LastUpdate_Achievements": "2023-09-01T19:06:37.3974911+00:00"
+  "LastUpdate_Ratings": "2023-09-01T19:57:37.8518407+00:00",
+  "LastUpdate_Achievements": "2023-09-01T20:06:10.4627279+00:00"
 }

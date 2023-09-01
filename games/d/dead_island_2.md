@@ -32,7 +32,7 @@ Rating: 4.54 (Ranked 503)
 | I Got a Zombie Army and You Can't Harm Me | 0.40% | ~2,684 |
 | Ooh, Shiny! | 0.40% | ~2,684 |
 | Humanity Distilled | 0.40% | ~2,684 |
-| Down with the Sickness | 0.30% | ~2,013 |
+| Down with the Sickness | 0.40% | ~2,684 |
 | Max Headroom | 0.30% | ~2,013 |
 | On Safari | 0.20% | ~1,342 |
 | Smorgasbord | 0.20% | ~1,342 |
@@ -40,6 +40,7 @@ Rating: 4.54 (Ranked 503)
 | Internet Famous | 0.20% | ~1,342 |
 | Jumbo Keyring | 0.20% | ~1,342 |
 | Go, Bobcats! | 0.20% | ~1,342 |
+| Variety is the Spice of Death | 0.20% | ~1,342 |
 | Rising Star | 0.20% | ~1,342 |
 | Make it So | 0.10% | ~671 |
 | LA Influential | 0.10% | ~671 |
@@ -48,10 +49,9 @@ Rating: 4.54 (Ranked 503)
 | Gore Horse | 0.10% | ~671 |
 | Sharpest Tool in the Box | 0.10% | ~671 |
 | Survival Skills | 0.10% | ~671 |
-| Variety is the Spice of Death | 0.10% | ~671 |
 | Bucket List | 0.10% | ~671 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 670,947 (Ranked 22)  
+Progressed: 670,993 (Ranked 22)  
 Completed: 2,097 (0.31%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 2,097 (0.31%) (Ranked 178)
 | 2023-08-29 | 668,912 | 2,088 |
 | 2023-08-30 | 669,636 | 2,094 |
 | 2023-08-31 | 670,394 | 2,097 |
-| 2023-09-01 | 670,947 | 2,097 |
+| 2023-09-01 | 670,993 | 2,097 |
 ## Awards
 Max (Great Boss Battles): 5,846  (Ranked 60)  
 Sum: 8,613 (Ranked 96)  

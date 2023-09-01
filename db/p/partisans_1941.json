@@ -2,12 +2,12 @@
   "ID": "aa102e1c575d42868a11ac8e79af2126",
   "Name": "Partisans 1941",
   "ProductSlug": "partisans-1941",
-  "Ranking_Rating": 367,
+  "Ranking_Rating": 368,
   "Ranking_Popularity": 515,
   "Ranking_PopularitySum": 515,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -2464,9 +2464,9 @@
       "ID": "E1M1",
       "SetID": "85nb4h3",
       "Name": "E1M1",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 504
+      "UsersEstimate": 518
     },
     {
       "ID": "Everyone_is_here",
@@ -2632,8 +2632,8 @@
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-09-01T19:03:25.9376611+00:00",
+  "LastChanged_Achievements": "2023-09-01T20:03:28.0243973+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:40.0859007+00:00",
-  "LastUpdate_Ratings": "2023-09-01T18:58:47.5052275+00:00",
-  "LastUpdate_Achievements": "2023-09-01T19:03:25.9377041+00:00"
+  "LastUpdate_Ratings": "2023-09-01T19:58:32.5819698+00:00",
+  "LastUpdate_Achievements": "2023-09-01T20:03:28.0244249+00:00"
 }

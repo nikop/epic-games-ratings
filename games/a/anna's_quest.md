@@ -25,9 +25,9 @@
 | Close the deal | 38.00% | ~14 |
 | Show me your true self | 38.00% | ~14 |
 | Pain in the hands | 38.00% | ~14 |
+| Mischief maker | 38.00% | ~14 |
 | GG | 35.00% | ~13 |
 | You've got mail! | 35.00% | ~13 |
-| Mischief maker | 35.00% | ~13 |
 | No posters allowed | 35.00% | ~13 |
 | Shattered | 32.00% | ~12 |
 | Memories | 32.00% | ~12 |

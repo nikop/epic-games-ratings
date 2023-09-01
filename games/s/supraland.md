@@ -1,49 +1,49 @@
 # Supraland
 [Store](https://store.epicgames.com/en-US/p/supraland)  
 [View Rawdata](../../db/s/supraland.json)  
-Rating: 4.61 (Ranked 367)  
+Rating: 4.61 (Ranked 368)  
 Number of Ratings: 25,175  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~716,798 |
-| The Blues | 85.00% | ~615,432 |
-| Fast | 66.00% | ~477,865 |
-| Healthbar | 55.00% | ~398,221 |
-| Force Cube | 53.00% | ~383,740 |
-| Double Jump | 48.00% | ~347,538 |
-| Regeneration | 47.00% | ~340,298 |
-| Triple Jump | 43.00% | ~311,336 |
-| Climb the hill | 42.00% | ~304,096 |
-| Through the fire pipe | 39.00% | ~282,375 |
-| MacGuffin | 38.00% | ~275,134 |
-| Just once | 37.00% | ~267,894 |
-| Armor | 30.00% | ~217,211 |
-| True holy spirit | 28.00% | ~202,731 |
-| That's how electronics work obviously | 26.00% | ~188,250 |
-| Force Cube Catapult | 25.00% | ~181,010 |
-| Holy Sword | 23.00% | ~166,529 |
-| Telefrag | 22.00% | ~159,288 |
-| Freed from prison | 21.00% | ~152,048 |
-| Stomp | 21.00% | ~152,048 |
-| Double Health | 18.00% | ~130,327 |
-| Buckle | 17.00% | ~123,086 |
-| Green Keycard | 17.00% | ~123,086 |
+| Out of bed | 99.00% | ~716,803 |
+| The Blues | 85.00% | ~615,437 |
+| Fast | 66.00% | ~477,868 |
+| Healthbar | 55.00% | ~398,224 |
+| Force Cube | 53.00% | ~383,743 |
+| Double Jump | 48.00% | ~347,541 |
+| Regeneration | 47.00% | ~340,300 |
+| Triple Jump | 43.00% | ~311,338 |
+| Climb the hill | 42.00% | ~304,098 |
+| Through the fire pipe | 39.00% | ~282,377 |
+| MacGuffin | 38.00% | ~275,136 |
+| Just once | 37.00% | ~267,896 |
+| Armor | 30.00% | ~217,213 |
+| True holy spirit | 28.00% | ~202,732 |
+| That's how electronics work obviously | 26.00% | ~188,251 |
+| Force Cube Catapult | 25.00% | ~181,011 |
+| Holy Sword | 23.00% | ~166,530 |
+| Telefrag | 22.00% | ~159,289 |
+| Freed from prison | 21.00% | ~152,049 |
+| Stomp | 21.00% | ~152,049 |
+| Double Health | 18.00% | ~130,328 |
+| Buckle | 17.00% | ~123,087 |
+| Green Keycard | 17.00% | ~123,087 |
 | All Shells | 15.00% | ~108,606 |
 | Rattle Hag | 15.00% | ~108,606 |
-| Beam | 14.00% | ~101,365 |
-| Health Drink | 13.00% | ~94,125 |
-| 9 | 13.00% | ~94,125 |
-| Purple Cube | 13.00% | ~94,125 |
-| Supraball Noob | 13.00% | ~94,125 |
+| Beam | 14.00% | ~101,366 |
+| Health Drink | 13.00% | ~94,126 |
+| 9 | 13.00% | ~94,126 |
+| Purple Cube | 13.00% | ~94,126 |
+| Supraball Noob | 13.00% | ~94,126 |
 | Helped a star | 12.00% | ~86,885 |
 | Strong | 12.00% | ~86,885 |
-| Blue King's lair | 11.00% | ~79,644 |
-| Payback | 11.00% | ~79,644 |
-| Got the coins back | 11.00% | ~79,644 |
-| Got the gun back | 11.00% | ~79,644 |
-| Infiltrated | 11.00% | ~79,644 |
-| Robbed | 11.00% | ~79,644 |
+| Blue King's lair | 11.00% | ~79,645 |
+| Payback | 11.00% | ~79,645 |
+| Got the coins back | 11.00% | ~79,645 |
+| Got the gun back | 11.00% | ~79,645 |
+| Infiltrated | 11.00% | ~79,645 |
+| Robbed | 11.00% | ~79,645 |
 | Fire Flies | 10.00% | ~72,404 |
 | Cave Flies | 10.00% | ~72,404 |
 | Gold Scam | 10.00% | ~72,404 |
@@ -51,12 +51,12 @@ Number of Ratings: 25,175  (23.09.2022)
 | Panic Lights | 10.00% | ~72,404 |
 | Translocator | 10.00% | ~72,404 |
 | Yellow Shot Button | 10.00% | ~72,404 |
-| Moon Door | 9.00% | ~65,163 |
-| Momentum | 9.00% | ~65,163 |
-| Through the tiny pipe | 9.00% | ~65,163 |
-| Win! | 9.00% | ~65,163 |
+| Moon Door | 9.00% | ~65,164 |
+| Momentum | 9.00% | ~65,164 |
+| Through the tiny pipe | 9.00% | ~65,164 |
+| Win! | 9.00% | ~65,164 |
 | The real real teleported man | 7.00% | ~50,683 |
-| Well deserved | 6.00% | ~43,442 |
+| Well deserved | 6.00% | ~43,443 |
 | Happiness | 3.00% | ~21,721 |
 | Super Sword | 3.00% | ~21,721 |
 | All Chests | 2.00% | ~14,481 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~724 |
 | DLC: Top of the world | 0.10% | ~724 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 724,038 (Ranked 19)  
+Progressed: 724,043 (Ranked 19)  
 Completed: 731 (0.10%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 731 (0.10%) (Ranked 218)
 | 2023-08-29 | 723,703 | 730 |
 | 2023-08-30 | 723,812 | 730 |
 | 2023-08-31 | 723,952 | 731 |
-| 2023-09-01 | 724,038 | 731 |
+| 2023-09-01 | 724,043 | 731 |
 ## Awards
 Max (Challenging Puzzles): 7,683  (Ranked 45)  
 Sum: 10,009 (Ranked 86)  

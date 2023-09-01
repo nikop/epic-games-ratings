@@ -16,10 +16,10 @@
 | Searing Heat | 13.00% | ~7 |
 | Expert | 13.00% | ~7 |
 | The Golden Flash | 13.00% | ~7 |
+| Nothing but the Truth | 11.00% | ~6 |
 | Changing the World | 11.00% | ~6 |
 | Craftsmen | 9.00% | ~5 |
 | Locked and Loaded | 9.00% | ~5 |
-| Nothing but the Truth | 9.00% | ~5 |
 | Bringing guns to a sword fight | 7.00% | ~4 |
 | Through Dangers Untold | 7.00% | ~4 |
 | Witch | 7.00% | ~4 |
@@ -35,6 +35,7 @@
 | The End | 4.00% | ~2 |
 | But what of the Acreans? | 4.00% | ~2 |
 | A Deceiving Gift | 4.00% | ~2 |
+| Unveiling the Truth | 4.00% | ~2 |
 | Mountain Lover | 2.00% | ~1 |
 | Wasteland Connoisseur | 2.00% | ~1 |
 | Forest Expert | 2.00% | ~1 |
@@ -42,7 +43,6 @@
 | Wizard | 2.00% | ~1 |
 | Bookworm | 2.00% | ~1 |
 | Globetrotter | 2.00% | ~1 |
-| Unveiling the Truth | 2.00% | ~1 |
 | Style over Stats | 0.00% | ~0 |
 | Collector | 0.00% | ~0 |
 | Explorer by Heart | 0.00% | ~0 |

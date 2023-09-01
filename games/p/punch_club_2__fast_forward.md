@@ -23,9 +23,9 @@
 | Pal of your father? | 66.00% | ~198 |
 | Employee of the month | 65.00% | ~195 |
 | Spirit of the past | 63.00% | ~189 |
-| Law student | 61.00% | ~183 |
-| Workout professional | 60.00% | ~180 |
-| Champion – starter pack | 59.00% | ~177 |
+| Law student | 62.00% | ~186 |
+| Workout professional | 61.00% | ~183 |
+| Champion – starter pack | 60.00% | ~180 |
 | It's good to be alive | 59.00% | ~177 |
 | Employee of the year | 59.00% | ~177 |
 | Fight for life | 58.00% | ~174 |

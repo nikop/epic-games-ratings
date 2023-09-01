@@ -1,19 +1,19 @@
 # Remnant: From the Ashes
 [Store](https://store.epicgames.com/en-US/p/remnant-from-the-ashes)  
 [View Rawdata](../../db/r/remnant__from_the_ashes.json)  
-Rating: 4.61 (Ranked 367)  
+Rating: 4.61 (Ranked 368)  
 Number of Ratings: 12,107  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 9,919  (Ranked 36)  
-Sum: 15,556 (Ranked 62)  
-Diff (max vs sum): -26  
+Max (Great Boss Battles): 9,919  (Ranked 37)  
+Sum: 15,557 (Ranked 62)  
+Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 9,919 |
 | This game is Extremely Fun | 733 |
 | This game is Highly Recommended | 733 |
 | This game has Challenging Combat | 731 |
-| This game has Quickly Understood Controls | 728 |
+| This game has Quickly Understood Controls | 729 |
 | This game has Amazing Storytelling | 715 |
 | This game is Relaxing | 686 |
 | This game has Diverse Characters | 677 |
@@ -246,4 +246,4 @@ Diff (max vs sum): -26
 | 2023-08-29 | 4.61 | - | 9,906 | 15,540 |
 | 2023-08-30 | 4.61 | - | 9,906 | 15,542 |
 | 2023-08-31 | 4.61 | - | 9,913 | 15,549 |
-| 2023-09-01 | 4.61 | - | 9,919 | 15,556 |
+| 2023-09-01 | 4.61 | - | 9,919 | 15,557 |

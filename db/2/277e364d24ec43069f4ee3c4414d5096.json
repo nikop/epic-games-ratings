@@ -272,9 +272,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 105932,
+  "EOS_Progressed": 105937,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 1205,
+  "EOS_NewPlayers": 1200,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9312,6 +9312,11 @@
       "Time": "2023-09-01T19:04:51.0350976+00:00",
       "NumProgressed": 105932,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-09-01T20:04:40.5846327+00:00",
+      "NumProgressed": 105937,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 49,
@@ -9331,7 +9336,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 80508
+      "UsersEstimate": 80512
     },
     {
       "ID": "EAwards_10",
@@ -9347,7 +9352,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 26483
+      "UsersEstimate": 26484
     },
     {
       "ID": "EAwards_12",
@@ -9355,7 +9360,7 @@
       "Name": "Cluckstorm",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 14830
+      "UsersEstimate": 14831
     },
     {
       "ID": "EAwards_13",
@@ -9387,7 +9392,7 @@
       "Name": "PERFECT",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 7415
+      "UsersEstimate": 7416
     },
     {
       "ID": "EAwards_17",
@@ -9395,7 +9400,7 @@
       "Name": "Talented Player",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 38136
+      "UsersEstimate": 38137
     },
     {
       "ID": "EAwards_18",
@@ -9419,7 +9424,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 50847
+      "UsersEstimate": 50850
     },
     {
       "ID": "EAwards_20",
@@ -9427,7 +9432,7 @@
       "Name": "King of the Hill",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 10593
+      "UsersEstimate": 10594
     },
     {
       "ID": "EAwards_21",
@@ -9451,7 +9456,7 @@
       "Name": "These are not fertilized",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 7415
+      "UsersEstimate": 7416
     },
     {
       "ID": "EAwards_24",
@@ -9459,7 +9464,7 @@
       "Name": "Temple Raider",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 7415
+      "UsersEstimate": 7416
     },
     {
       "ID": "EAwards_25",
@@ -9467,7 +9472,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 19068
+      "UsersEstimate": 19069
     },
     {
       "ID": "EAwards_26",
@@ -9475,7 +9480,7 @@
       "Name": "I have nothing left to teach you",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 10593
+      "UsersEstimate": 10594
     },
     {
       "ID": "EAwards_27",
@@ -9507,7 +9512,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 20127
+      "UsersEstimate": 20128
     },
     {
       "ID": "EAwards_30",
@@ -9707,14 +9712,14 @@
       "Name": "Grapple Expert",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 10593
+      "UsersEstimate": 10594
     }
   ],
   "AchievementSets": [
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 105932,
+      "Progressed": 105937,
       "Completed": 40
     }
   ],
@@ -9722,8 +9727,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-01T15:00:01.2211131+00:00",
-  "LastChanged_Achievements": "2023-09-01T19:04:51.035097+00:00",
+  "LastChanged_Achievements": "2023-09-01T20:04:40.5846322+00:00",
   "LastUpdate_AppInfo": "2023-08-31T22:57:08.1007702+00:00",
-  "LastUpdate_Ratings": "2023-09-01T19:00:50.2760806+00:00",
-  "LastUpdate_Achievements": "2023-09-01T19:04:51.0352207+00:00"
+  "LastUpdate_Ratings": "2023-09-01T20:00:13.3020086+00:00",
+  "LastUpdate_Achievements": "2023-09-01T20:04:40.5847098+00:00"
 }

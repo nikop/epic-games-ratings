@@ -4,7 +4,7 @@
   "ProductSlug": "jars-e39063",
   "Ranking_EOS_Progress": 365,
   "Ranking_EOS_Completed": 56,
-  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewPlayers": 341,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-10-20T16:00:00+00:00",
@@ -304,9 +304,9 @@
       "ID": "ACH_GETALL_COLLECTIBLES",
       "SetID": "3jfhgga",
       "Name": "Missing pages",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_HERO_MASTER_1",
@@ -369,8 +369,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.991429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:38.9338539+00:00",
   "LastChanged": "2023-03-31T05:58:01.9914291+00:00",
-  "LastChanged_Achievements": "2023-09-01T19:08:14.4205459+00:00",
+  "LastChanged_Achievements": "2023-09-01T20:08:12.3340416+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:46.1051652+00:00",
-  "LastUpdate_Ratings": "2023-09-01T18:57:38.3921826+00:00",
-  "LastUpdate_Achievements": "2023-09-01T19:08:14.420562+00:00"
+  "LastUpdate_Ratings": "2023-09-01T19:57:37.2212077+00:00",
+  "LastUpdate_Achievements": "2023-09-01T20:08:12.3340542+00:00"
 }

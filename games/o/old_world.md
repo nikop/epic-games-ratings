@@ -105,6 +105,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Church of the Holy Sepulchre | 0.80% | ~110 |
 | Dualism | 0.80% | ~110 |
 | Redemption | 0.80% | ~110 |
+| Veneration | 0.80% | ~110 |
 | Ambition Victory | 0.80% | ~110 |
 | Double Victory | 0.80% | ~110 |
 | Win a Single Player Game | 0.80% | ~110 |
@@ -119,7 +120,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightenment | 0.70% | ~96 |
 | Gnosticism | 0.70% | ~96 |
 | Revelation | 0.70% | ~96 |
-| Veneration | 0.70% | ~96 |
 | Cimmerian Archer | 0.70% | ~96 |
 | Bad Heir Day | 0.60% | ~82 |
 | Ishtar Gate in Babylon | 0.60% | ~82 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,729 (Ranked 120)  
+Progressed: 13,730 (Ranked 120)  
 Completed: 5 (0.04%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -437,7 +437,7 @@ Completed: 5 (0.04%) (Ranked 240)
 | 2023-08-29 | 13,661 | 5 |
 | 2023-08-30 | 13,689 | 5 |
 | 2023-08-31 | 13,711 | 5 |
-| 2023-09-01 | 13,729 | 5 |
+| 2023-09-01 | 13,730 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 265)  
 Sum: 1,800 (Ranked 207)  

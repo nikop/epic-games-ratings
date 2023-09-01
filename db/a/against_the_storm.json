@@ -2676,10 +2676,16 @@
       "Rating": 4.81,
       "NumberOfAwards": 3120,
       "NumberOfAwardsMax": 426
+    },
+    {
+      "Time": "2023-09-01T19:59:37.4059785+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 3121,
+      "NumberOfAwardsMax": 426
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3120,
+  "NumberOfAwards": 3121,
   "NumberOfAwardsMax": 426,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -2699,7 +2705,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 379
+      "Count": 380
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2744,9 +2750,9 @@
       "Count": 317
     }
   ],
-  "EOS_Progressed": 16477,
+  "EOS_Progressed": 16478,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -9899,6 +9905,11 @@
       "Time": "2023-09-01T18:03:47.9586897+00:00",
       "NumProgressed": 16477,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-09-01T20:04:02.0366257+00:00",
+      "NumProgressed": 16478,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 50,
@@ -10309,15 +10320,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 16477,
+      "Progressed": 16478,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-08-31T09:00:01.189861+00:00",
-  "LastChanged_Achievements": "2023-09-01T19:04:05.6841354+00:00",
+  "LastChanged": "2023-09-01T19:59:37.4059783+00:00",
+  "LastChanged_Achievements": "2023-09-01T20:04:02.0366253+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:51.2302699+00:00",
-  "LastUpdate_Ratings": "2023-09-01T19:00:05.6247034+00:00",
-  "LastUpdate_Achievements": "2023-09-01T19:04:05.6842298+00:00"
+  "LastUpdate_Ratings": "2023-09-01T19:59:37.405979+00:00",
+  "LastUpdate_Achievements": "2023-09-01T20:04:02.0366944+00:00"
 }

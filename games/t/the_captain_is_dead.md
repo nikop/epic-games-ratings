@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alien Trapper | 100.00% | ~1 |
+| Alien Trapper | 50.00% | ~1 |
 | The Obsidian Pod | 0.00% | ~0 |
 | The Kobayashi Star | 0.00% | ~0 |
 | Continuum Protectorate Peace Prize | 0.00% | ~0 |
@@ -41,9 +41,10 @@
 | The Triple Threat | 0.00% | ~0 |
 | The Winged Dagger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 528)  
+Progressed: 2 (Ranked 506)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-08-30 | 1 | 0 |
+| 2023-09-01 | 2 | 0 |

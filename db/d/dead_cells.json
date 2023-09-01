@@ -4,10 +4,10 @@
   "ProductSlug": "dead-cells",
   "Ranking_Rating": 25,
   "Ranking_Popularity": 243,
-  "Ranking_PopularitySum": 185,
+  "Ranking_PopularitySum": 184,
   "Ranking_EOS_Progress": 571,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewPlayers": 341,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2020-10-22T15:00:00+00:00",
@@ -2510,10 +2510,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 2367,
       "NumberOfAwardsMax": 280
+    },
+    {
+      "Time": "2023-09-01T19:57:51.4102674+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 2369,
+      "NumberOfAwardsMax": 280
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2367,
+  "NumberOfAwards": 2369,
   "NumberOfAwardsMax": 280,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -2521,7 +2527,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 245
+      "Count": 246
     },
     {
       "Text": "This game has Unique Visuals",
@@ -2551,7 +2557,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 218
+      "Count": 219
     },
     {
       "Text": "This game is Relaxing",
@@ -2601,8 +2607,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:26.6981291+00:00",
-  "LastChanged": "2023-09-01T01:43:37.1412565+00:00",
+  "LastChanged": "2023-09-01T19:57:51.4102672+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:10.0523552+00:00",
-  "LastUpdate_Ratings": "2023-09-01T18:57:57.719145+00:00",
-  "LastUpdate_Achievements": "2023-09-01T19:06:36.9635769+00:00"
+  "LastUpdate_Ratings": "2023-09-01T19:57:51.4102677+00:00",
+  "LastUpdate_Achievements": "2023-09-01T20:06:10.089019+00:00"
 }
