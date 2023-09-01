@@ -3,7 +3,7 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.00% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.90% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 34.92% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 34.65% |
 | 5 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 33.33% |
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.95% |
 | 7 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
@@ -80,7 +80,7 @@
 | 78 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.74% |
 | 79 | [Destiny 2](games/d/destiny_2.md) | 2.73% |
 | 79 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
-| 81 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.67% |
+| 81 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.66% |
 | 82 | [The Bunker](games/t/the_bunker.md) | 2.61% |
 | 83 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.58% |
 | 84 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.57% |
@@ -94,13 +94,13 @@
 | 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.04% |
 | 93 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.00% |
 | 94 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
-| 95 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.89% |
-| 96 | [Night Book](games/n/night_book.md) | 1.86% |
-| 97 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.85% |
-| 97 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
-| 99 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
-| 100 | [Sifu](games/s/sifu.md) | 1.81% |
-| 101 | [Frogun](games/f/frogun.md) | 1.80% |
+| 95 | [Night Book](games/n/night_book.md) | 1.86% |
+| 96 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
+| 97 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
+| 98 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.82% |
+| 99 | [Sifu](games/s/sifu.md) | 1.81% |
+| 100 | [Frogun](games/f/frogun.md) | 1.80% |
+| 101 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.79% |
 | 102 | [Somerville](games/s/somerville.md) | 1.66% |
 | 103 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.64% |
 | 104 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 1.58% |
@@ -126,7 +126,7 @@
 | 124 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.99% |
 | 124 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.99% |
 | 126 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.95% |
-| 127 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.93% |
+| 127 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.92% |
 | 128 | [Hades](games/h/hades.md) | 0.90% |
 | 129 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 130 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
