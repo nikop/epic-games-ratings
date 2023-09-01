@@ -11,7 +11,7 @@
 | This Belongs in a Museum | 35.00% | ~199 |
 | The Gambit Has Begun | 31.00% | ~176 |
 | Powder Monkey | 28.00% | ~159 |
-| Somewhere Deep in the Lost Caribbean | 24.00% | ~137 |
+| Somewhere Deep in the Lost Caribbean | 25.00% | ~142 |
 | Mirror Mirror on the Wall | 23.00% | ~131 |
 | Pirates Assemble! | 20.00% | ~114 |
 | Fishy Fish | 20.00% | ~114 |
@@ -26,7 +26,7 @@
 | Lyrical Longing | 7.00% | ~40 |
 | Accursed Artifacts | 6.00% | ~34 |
 | Corsair | 5.00% | ~28 |
-| Freebooter | 3.00% | ~17 |
+| Freebooter | 4.00% | ~23 |
 | Marauder | 3.00% | ~17 |
 | Fully Decked | 3.00% | ~17 |
 | Welcome Back Jester | 2.00% | ~11 |

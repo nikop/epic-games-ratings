@@ -1301,9 +1301,9 @@
       "ID": "_01_AllIslands",
       "SetID": "8a1io5d",
       "Name": "Somewhere Deep in the Lost Caribbean",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 137
+      "UsersEstimate": 142
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -1405,9 +1405,9 @@
       "ID": "_14_Completion_70",
       "SetID": "8a1io5d",
       "Name": "Freebooter",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 23
     },
     {
       "ID": "_15_Completion_80",
@@ -1516,8 +1516,8 @@
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-09-01T21:06:37.9937382+00:00",
+  "LastChanged_Achievements": "2023-09-01T22:05:58.7086083+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:45.1302228+00:00",
-  "LastUpdate_Ratings": "2023-09-01T20:58:06.3701501+00:00",
-  "LastUpdate_Achievements": "2023-09-01T21:06:37.9937658+00:00"
+  "LastUpdate_Ratings": "2023-09-01T21:57:49.2447927+00:00",
+  "LastUpdate_Achievements": "2023-09-01T22:05:58.7086352+00:00"
 }

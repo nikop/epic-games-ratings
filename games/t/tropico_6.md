@@ -1,35 +1,35 @@
 # Tropico 6
 [Store](https://store.epicgames.com/en-US/p/tropico-6)  
 [View Rawdata](../../db/t/tropico_6.json)  
-Rating: 4.66 (Ranked 280)  
+Rating: 4.66 (Ranked 279)  
 Number of Ratings: 398  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~3,757 |
-| Un-Lonely Island | 47.00% | ~2,324 |
-| The Beginning of a Servantship | 46.00% | ~2,274 |
-| Trade Is My Trait | 37.00% | ~1,829 |
+| Just One...More...Term... | 76.00% | ~3,759 |
+| Un-Lonely Island | 47.00% | ~2,325 |
+| The Beginning of a Servantship | 46.00% | ~2,275 |
+| Trade Is My Trait | 37.00% | ~1,830 |
 | Number 18 | 24.00% | ~1,187 |
-| We Don't Have Time For That | 19.00% | ~939 |
+| We Don't Have Time For That | 19.00% | ~940 |
 | The Governator | 18.00% | ~890 |
-| The Legend of Langostino | 17.00% | ~840 |
+| The Legend of Langostino | 17.00% | ~841 |
 | Caribbean Comrade | 16.00% | ~791 |
 | The Dreamer of Dreams | 16.00% | ~791 |
 | Go Sovereigns! | 11.00% | ~544 |
 | For Science! | 11.00% | ~544 |
-| Happy Ending? | 10.00% | ~494 |
-| Of Seals And Men | 10.00% | ~494 |
-| Shackadelic | 10.00% | ~494 |
+| Happy Ending? | 10.00% | ~495 |
+| Of Seals And Men | 10.00% | ~495 |
+| Shackadelic | 10.00% | ~495 |
 | Double Trouble | 8.00% | ~396 |
 | Firestarter | 8.00% | ~396 |
 | Make Tropico Great Again! | 8.00% | ~396 |
 | I Owe You Nothing | 7.00% | ~346 |
 | French Connection | 7.00% | ~346 |
 | Don't Panic! | 6.00% | ~297 |
-| Computer Says "No" | 6.00% | ~297 |
 | Beware The Betman | 6.00% | ~297 |
 | Viva Tropico! | 5.00% | ~247 |
+| Computer Says "No" | 5.00% | ~247 |
 | Watch The World Burn | 5.00% | ~247 |
 | Fairy Tale Come True | 5.00% | ~247 |
 | Apocalypso | 4.00% | ~198 |
@@ -44,10 +44,10 @@ Number of Ratings: 398  (23.09.2022)
 | Terraformer | 2.00% | ~99 |
 | Curse of the Mummy | 2.00% | ~99 |
 | From Knight to Little Duck | 1.00% | ~49 |
-| Survivor | 0.90% | ~44 |
+| Survivor | 0.90% | ~45 |
 | My Ways | 0.30% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,944 (Ranked 148)  
+Progressed: 4,946 (Ranked 148)  
 Completed: 2 (0.04%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 2 (0.04%) (Ranked 240)
 | 2023-08-29 | 4,919 | 2 |
 | 2023-08-30 | 4,925 | 2 |
 | 2023-08-31 | 4,936 | 2 |
-| 2023-09-01 | 4,944 | 2 |
+| 2023-09-01 | 4,946 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 98  (Ranked 339)  
 Sum: 680 (Ranked 280)  

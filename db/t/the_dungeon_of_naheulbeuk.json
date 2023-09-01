@@ -762,9 +762,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 220135,
+  "EOS_Progressed": 220149,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2947,
+  "EOS_NewPlayers": 2946,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9182,6 +9182,11 @@
       "Time": "2023-09-01T21:04:50.2531909+00:00",
       "NumProgressed": 220135,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-01T22:04:26.0354471+00:00",
+      "NumProgressed": 220149,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -9641,7 +9646,7 @@
       "Name": "Sowwy!",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 59436
+      "UsersEstimate": 59440
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -9695,9 +9700,9 @@
       "ID": "FollowBraztok",
       "SetID": "50chcgj",
       "Name": "The beards of change",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1541
+      "UsersEstimate": 1761
     },
     {
       "ID": "FollowNarzatok",
@@ -9896,21 +9901,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 220135,
+      "Progressed": 220149,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 220135,
+      "Progressed": 220149,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-01T07:58:00.3971366+00:00",
-  "LastChanged_Achievements": "2023-09-01T21:04:50.2531905+00:00",
+  "LastChanged_Achievements": "2023-09-01T22:04:26.0354463+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:41.9661267+00:00",
-  "LastUpdate_Ratings": "2023-09-01T20:58:15.2522119+00:00",
-  "LastUpdate_Achievements": "2023-09-01T21:04:50.2533511+00:00"
+  "LastUpdate_Ratings": "2023-09-01T21:57:56.4754524+00:00",
+  "LastUpdate_Achievements": "2023-09-01T22:04:26.0356071+00:00"
 }

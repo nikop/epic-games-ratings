@@ -350,9 +350,9 @@
       "ID": "unlockPlasmaMoon",
       "SetID": "bma0pih",
       "Name": "Solar power",
-      "Percentage": 50,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     }
   ],
   "AchievementSets": [
@@ -365,8 +365,8 @@
   ],
   "FirstSeen": "2023-08-31T13:03:44.3512159+00:00",
   "FirstSeenAchievements": "2023-05-07T09:02:54.6493409+00:00",
-  "LastChanged_Achievements": "2023-09-01T21:06:43.5027227+00:00",
+  "LastChanged_Achievements": "2023-09-01T22:06:03.3465996+00:00",
   "LastUpdate_AppInfo": "2023-08-27T16:57:09.5121242+00:00",
-  "LastUpdate_Ratings": "2023-09-01T20:59:34.5466499+00:00",
-  "LastUpdate_Achievements": "2023-09-01T21:06:43.5027375+00:00"
+  "LastUpdate_Ratings": "2023-09-01T21:59:04.5206783+00:00",
+  "LastUpdate_Achievements": "2023-09-01T22:06:03.3466127+00:00"
 }

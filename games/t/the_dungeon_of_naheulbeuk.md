@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 27.00% | ~59,436 |
+| Sowwy! | 27.00% | ~59,440 |
 | Déjà vu | 3.00% | ~6,604 |
 | Where's that freaking Dwarf? | 3.00% | ~6,604 |
 | Alt+F4 | 3.00% | ~6,604 |
@@ -31,13 +31,13 @@ Number of Ratings: 118  (23.09.2022)
 | A tale of adventurers not quite like the others... | 0.90% | ~1,981 |
 | Shiny and Crôm | 0.80% | ~1,761 |
 | %#*!$*! | 0.80% | ~1,761 |
+| The beards of change | 0.80% | ~1,761 |
 | The Ranger of Chaos | 0.80% | ~1,761 |
 | I am the night | 0.80% | ~1,761 |
 | Res Judicata | 0.70% | ~1,541 |
 | The Famous Dungeon of Naheulbeuk | 0.70% | ~1,541 |
 | Dwarf Fortress | 0.70% | ~1,541 |
 | Look but don't touch | 0.70% | ~1,541 |
-| The beards of change | 0.70% | ~1,541 |
 | Thieves' Guild Accreditation | 0.70% | ~1,541 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.60% | ~1,321 |
 | Dead for good | 0.50% | ~1,101 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~220 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,135 (Ranked 57)  
+Progressed: 220,149 (Ranked 57)  
 Completed: 2 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 2 (0.00%) (Ranked 271)
 | 2023-08-29 | 219,078 | 2 |
 | 2023-08-30 | 219,453 | 2 |
 | 2023-08-31 | 219,794 | 2 |
-| 2023-09-01 | 220,135 | 2 |
+| 2023-09-01 | 220,149 | 2 |
 ## Awards
 Max (Character Customization): 185  (Ranked 279)  
 Sum: 233 (Ranked 360)  

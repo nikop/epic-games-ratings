@@ -2,7 +2,7 @@
   "ID": "213259527d2f41baa90cbe0ae5555271",
   "Name": "Dungeons 3",
   "ProductSlug": "dungeons-3",
-  "Ranking_Rating": 280,
+  "Ranking_Rating": 279,
   "Ranking_Popularity": 227,
   "Ranking_PopularitySum": 174,
   "Ranking_EOS_Progress": 101,
@@ -2566,9 +2566,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 29208,
+  "EOS_Progressed": 29211,
   "EOS_Completed": 242,
-  "EOS_NewPlayers": 790,
+  "EOS_NewPlayers": 789,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.83,
   "EosHistory": [
@@ -17136,6 +17136,11 @@
       "Time": "2023-09-01T21:07:41.3499021+00:00",
       "NumProgressed": 29208,
       "NumCompleted": 242
+    },
+    {
+      "Time": "2023-09-01T22:06:53.4304382+00:00",
+      "NumProgressed": 29211,
+      "NumCompleted": 242
     }
   ],
   "TotalAchievements": 60,
@@ -17147,7 +17152,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 16941
+      "UsersEstimate": 16942
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -17155,7 +17160,7 @@
       "Name": "No one has to die today!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 13436
+      "UsersEstimate": 13437
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -17163,7 +17168,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 16649
+      "UsersEstimate": 16650
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -17211,7 +17216,7 @@
       "Name": "Difficult family relationships",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 7302
+      "UsersEstimate": 7303
     },
     {
       "ID": "ACH_D3_Campaign_DayNight_1",
@@ -17235,7 +17240,7 @@
       "Name": "A trip on sea, what fun it can be",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 9931
+      "UsersEstimate": 9932
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_1",
@@ -17243,7 +17248,7 @@
       "Name": "The Stones\u2019 Power",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 5257
+      "UsersEstimate": 5258
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_2",
@@ -17259,7 +17264,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 14312
+      "UsersEstimate": 14313
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -17267,7 +17272,7 @@
       "Name": "Spawner Killer",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 1752
+      "UsersEstimate": 1753
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_2",
@@ -17283,7 +17288,7 @@
       "Name": "Stock Market Crash",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 9054
+      "UsersEstimate": 9055
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_1",
@@ -17291,7 +17296,7 @@
       "Name": "MASS-O-BOT",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 7010
+      "UsersEstimate": 7011
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_2",
@@ -17307,7 +17312,7 @@
       "Name": "The last burger",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 10807
+      "UsersEstimate": 10808
     },
     {
       "ID": "ACH_D3_Campaign_Fire_1",
@@ -17315,7 +17320,7 @@
       "Name": "Prepare the grave",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 7010
+      "UsersEstimate": 7011
     },
     {
       "ID": "ACH_D3_Campaign_Fire_2",
@@ -17331,7 +17336,7 @@
       "Name": "Angel of Fire",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 7010
+      "UsersEstimate": 7011
     },
     {
       "ID": "ACH_D3_Campaign_Graves_1",
@@ -17339,7 +17344,7 @@
       "Name": "Braiiiiins!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 10807
+      "UsersEstimate": 10808
     },
     {
       "ID": "ACH_D3_Campaign_Graves_2",
@@ -17355,7 +17360,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 12559
+      "UsersEstimate": 12561
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -17363,7 +17368,7 @@
       "Name": "The One-Huge-Army-Building Evil",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 11683
+      "UsersEstimate": 11684
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_2",
@@ -17371,7 +17376,7 @@
       "Name": "Hands off the Dungeonheart!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 10515
+      "UsersEstimate": 10516
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_Completed",
@@ -17379,7 +17384,7 @@
       "Name": "Rusty Steel",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 11975
+      "UsersEstimate": 11977
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -17387,7 +17392,7 @@
       "Name": "Thirst quencher",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 8178
+      "UsersEstimate": 8179
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_2",
@@ -17403,7 +17408,7 @@
       "Name": "Ogre Solo!",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 8178
+      "UsersEstimate": 8179
     },
     {
       "ID": "ACH_D3_Campaign_Infested_1",
@@ -17427,7 +17432,7 @@
       "Name": "Destroy the thing",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 7594
+      "UsersEstimate": 7595
     },
     {
       "ID": "ACH_D3_Campaign_Pain_1",
@@ -17451,7 +17456,7 @@
       "Name": "Where there is Light, there is Shadow",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 6718
+      "UsersEstimate": 6719
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_1",
@@ -17459,7 +17464,7 @@
       "Name": "Flat as a pancake",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 4965
+      "UsersEstimate": 4966
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_2",
@@ -17475,7 +17480,7 @@
       "Name": "For a handfull of Catapults",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 8470
+      "UsersEstimate": 8471
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_1",
@@ -17483,7 +17488,7 @@
       "Name": "Can\u2019t stand the sight of Dark Elf blood",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 4381
+      "UsersEstimate": 4382
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_2",
@@ -17507,7 +17512,7 @@
       "Name": "Factory farming",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 9054
+      "UsersEstimate": 9055
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_2",
@@ -17515,7 +17520,7 @@
       "Name": "A little something extra",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1752
+      "UsersEstimate": 1753
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_Completed",
@@ -17523,7 +17528,7 @@
       "Name": "Damned good",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 9639
+      "UsersEstimate": 9640
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_1",
@@ -17531,7 +17536,7 @@
       "Name": "Death and destruction!",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 13144
+      "UsersEstimate": 13145
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_2",
@@ -17539,7 +17544,7 @@
       "Name": "Shadow hunter",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 8470
+      "UsersEstimate": 8471
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_Completed",
@@ -17547,7 +17552,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 20154
+      "UsersEstimate": 20156
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -17555,7 +17560,7 @@
       "Name": "The Benevolent Evil",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1752
+      "UsersEstimate": 1753
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_2",
@@ -17563,7 +17568,7 @@
       "Name": "Band of Brothers",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1460
+      "UsersEstimate": 1461
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_Completed",
@@ -17595,7 +17600,7 @@
       "Name": "Not-So-Overproud",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 8762
+      "UsersEstimate": 8763
     },
     {
       "ID": "ACH_D3_Campaign_Water_1",
@@ -17603,7 +17608,7 @@
       "Name": "Lifeguard",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 4965
+      "UsersEstimate": 4966
     },
     {
       "ID": "ACH_D3_Campaign_Water_2",
@@ -17619,22 +17624,22 @@
       "Name": "Tide Master",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 7594
+      "UsersEstimate": 7595
     }
   ],
   "AchievementSets": [
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 29208,
+      "Progressed": 29211,
       "Completed": 242
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-09-01T16:59:35.4215015+00:00",
-  "LastChanged_Achievements": "2023-09-01T21:07:41.3499015+00:00",
+  "LastChanged_Achievements": "2023-09-01T22:06:53.4304378+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:56.1449078+00:00",
-  "LastUpdate_Ratings": "2023-09-01T20:59:32.4915682+00:00",
-  "LastUpdate_Achievements": "2023-09-01T21:07:41.3500522+00:00"
+  "LastUpdate_Ratings": "2023-09-01T21:59:03.0897897+00:00",
+  "LastUpdate_Achievements": "2023-09-01T22:06:53.4305937+00:00"
 }

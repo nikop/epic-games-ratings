@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 515,
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -2371,9 +2371,9 @@
       "ID": "MQ06_4",
       "SetID": "bbing49",
       "Name": "No Man Is An Island",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 289
+      "UsersEstimate": 295
     },
     {
       "ID": "MQ07_1",
@@ -2436,8 +2436,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-08-14T02:12:32.7608826+00:00",
-  "LastChanged_Achievements": "2023-09-01T21:06:53.6081501+00:00",
+  "LastChanged_Achievements": "2023-09-01T22:06:12.0949796+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:22.9836387+00:00",
-  "LastUpdate_Ratings": "2023-09-01T20:57:10.6640068+00:00",
-  "LastUpdate_Achievements": "2023-09-01T21:06:53.6081847+00:00"
+  "LastUpdate_Ratings": "2023-09-01T21:57:03.4736909+00:00",
+  "LastUpdate_Achievements": "2023-09-01T22:06:12.0950158+00:00"
 }

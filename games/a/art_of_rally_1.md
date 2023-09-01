@@ -6,24 +6,24 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,808 |
-| keep it tidy | 77.00% | ~7,867 |
-| podium | 72.00% | ~7,356 |
-| medium attack | 60.00% | ~6,130 |
+| light attack | 96.00% | ~9,809 |
+| keep it tidy | 77.00% | ~7,868 |
+| podium | 72.00% | ~7,357 |
+| medium attack | 60.00% | ~6,131 |
 | brail | 57.00% | ~5,824 |
-| good drivers have dead flies on the side windows | 42.00% | ~4,291 |
+| good drivers have dead flies on the side windows | 42.00% | ~4,292 |
 | grocery-getter | 39.00% | ~3,985 |
-| rwd only | 26.00% | ~2,656 |
-| food tour: pasta | 26.00% | ~2,656 |
+| rwd only | 26.00% | ~2,657 |
+| food tour: pasta | 26.00% | ~2,657 |
 | to finish first, first you must finish | 21.00% | ~2,146 |
 | autopilot | 21.00% | ~2,146 |
 | you can't treat a car like a human being. a car requires love | 21.00% | ~2,146 |
-| turbo | 20.00% | ~2,043 |
+| turbo | 20.00% | ~2,044 |
 | food tour: pretzel | 19.00% | ~1,941 |
 | bicycle race | 15.00% | ~1,533 |
-| car wash | 14.00% | ~1,430 |
-| monster | 14.00% | ~1,430 |
-| the artist | 14.00% | ~1,430 |
+| car wash | 14.00% | ~1,431 |
+| monster | 14.00% | ~1,431 |
+| the artist | 14.00% | ~1,431 |
 | perkele | 13.00% | ~1,328 |
 | night ride | 13.00% | ~1,328 |
 | snorkel | 13.00% | ~1,328 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~41 |
 | barely keeping it together | 0.30% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,217 (Ranked 125)  
+Progressed: 10,218 (Ranked 125)  
 Completed: 9 (0.09%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 9 (0.09%) (Ranked 222)
 | 2023-08-26 | 10,213 | 9 |
 | 2023-08-30 | 10,215 | 9 |
 | 2023-08-31 | 10,216 | 9 |
-| 2023-09-01 | 10,217 | 9 |
+| 2023-09-01 | 10,218 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

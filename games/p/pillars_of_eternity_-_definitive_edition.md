@@ -1,13 +1,13 @@
 # Pillars of Eternity - Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/pillars-of-eternity)  
 [View Rawdata](../../db/p/pillars_of_eternity_-_definitive_edition.json)  
-Rating: 4.66 (Ranked 280)  
+Rating: 4.66 (Ranked 279)  
 Number of Ratings: 2,847  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Kickstarter Backer | 82.00% | ~898 |
-| Completed Act I | 30.00% | ~328 |
+| Kickstarter Backer | 82.00% | ~899 |
+| Completed Act I | 30.00% | ~329 |
 | 5 Upgrades in Stronghold | 26.00% | ~285 |
 | First 5 Levels of Od Nua | 24.00% | ~263 |
 | Make an Adventurer | 23.00% | ~252 |
@@ -20,8 +20,8 @@ Number of Ratings: 2,847  (23.09.2022)
 | The Watcher With Eight Friends | 14.00% | ~153 |
 | The Heir of Caed Nua | 13.00% | ~142 |
 | Soulbinder | 13.00% | ~142 |
-| Last 5 Levels of Od Nua | 12.00% | ~131 |
-| Bounty Hunter | 11.00% | ~120 |
+| Last 5 Levels of Od Nua | 12.00% | ~132 |
+| Bounty Hunter | 10.00% | ~110 |
 | The Giftbearer | 10.00% | ~110 |
 | Trappy | 9.00% | ~99 |
 | Herald of the Old Flame | 9.00% | ~99 |
@@ -55,8 +55,8 @@ Number of Ratings: 2,847  (23.09.2022)
 | Frozen Crown Solo | 0.50% | ~5 |
 | The Ultimate | 0.50% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,095 (Ranked 199)  
-Completed: 4 (0.37%) (Ranked 165)  
+Progressed: 1,096 (Ranked 200)  
+Completed: 4 (0.36%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -81,6 +81,7 @@ Completed: 4 (0.37%) (Ranked 165)
 | 2023-08-20 | 1,093 | 4 |
 | 2023-08-24 | 1,094 | 4 |
 | 2023-08-29 | 1,095 | 4 |
+| 2023-09-01 | 1,096 | 4 |
 ## Awards
 Max (Character Customization): 1,913  (Ranked 109)  
 Sum: 4,696 (Ranked 136)  

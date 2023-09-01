@@ -718,9 +718,9 @@
       "ID": "ACH_ABYSS",
       "SetID": "232494e",
       "Name": "Descendants",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_BLUEEND",
@@ -958,8 +958,8 @@
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-01T21:02:39.1604713+00:00",
+  "LastChanged_Achievements": "2023-09-01T22:02:29.2658016+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:24.6161941+00:00",
-  "LastUpdate_Ratings": "2023-09-01T21:02:10.5948807+00:00",
-  "LastUpdate_Achievements": "2023-09-01T21:02:39.1604974+00:00"
+  "LastUpdate_Ratings": "2023-09-01T22:01:14.9445886+00:00",
+  "LastUpdate_Achievements": "2023-09-01T22:02:29.2658409+00:00"
 }

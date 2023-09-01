@@ -22,12 +22,12 @@
 | Food Tycoon | 6.00% | ~10 |
 | Ammo Tycoon | 6.00% | ~10 |
 | Healing | 5.00% | ~8 |
+| Self-sufficient | 5.00% | ~8 |
 | Medicine Tycoon | 5.00% | ~8 |
 | Supersoldier | 4.00% | ~6 |
 | Outdoor Decorator | 4.00% | ~6 |
 | Overpopulation | 4.00% | ~6 |
 | Property Bro | 4.00% | ~6 |
-| Self-sufficient | 4.00% | ~6 |
 | Human Resources | 3.00% | ~5 |
 | Training Camp | 3.00% | ~5 |
 | Economist | 2.00% | ~3 |

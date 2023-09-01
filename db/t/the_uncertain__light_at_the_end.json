@@ -5,9 +5,9 @@
   "Ranking_Rating": 968,
   "Ranking_Popularity": 515,
   "Ranking_PopularitySum": 515,
-  "Ranking_EOS_Progress": 236,
+  "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 505,
+  "EOS_Progressed": 506,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -595,6 +595,11 @@
       "Time": "2023-08-29T15:06:22.4671343+00:00",
       "NumProgressed": 505,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-01T22:06:37.8293057+00:00",
+      "NumProgressed": 506,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 29,
@@ -726,7 +731,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "Leisurely_Strol",
@@ -837,7 +842,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 505,
+      "Progressed": 506,
       "Completed": 5
     }
   ],
@@ -845,8 +850,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-09-01T21:07:23.784425+00:00",
+  "LastChanged_Achievements": "2023-09-01T22:06:37.8293053+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:11.3170839+00:00",
-  "LastUpdate_Ratings": "2023-09-01T21:01:26.0694892+00:00",
-  "LastUpdate_Achievements": "2023-09-01T21:07:23.7844497+00:00"
+  "LastUpdate_Ratings": "2023-09-01T22:00:38.0097552+00:00",
+  "LastUpdate_Achievements": "2023-09-01T22:06:37.8293442+00:00"
 }

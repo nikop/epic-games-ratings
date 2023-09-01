@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 224,
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewPlayers": 68,
   "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
@@ -952,11 +952,11 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 634,
+  "EOS_Progressed": 644,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 629,
+  "EOS_NewPlayers": 639,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 0.32,
+  "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
       "Time": "2023-08-30T11:07:13.7661076+00:00",
@@ -1252,6 +1252,11 @@
       "Time": "2023-09-01T21:07:55.0342192+00:00",
       "NumProgressed": 634,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-01T22:07:05.4894766+00:00",
+      "NumProgressed": 644,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -1264,7 +1269,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "a_10",
@@ -1286,9 +1291,9 @@
       "ID": "a_12",
       "SetID": "daiie3o",
       "Name": "A big garage",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 19
+      "UsersEstimate": 13
     },
     {
       "ID": "a_15",
@@ -1310,9 +1315,9 @@
       "ID": "a_18",
       "SetID": "daiie3o",
       "Name": "Bye Bye",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 190
+      "UsersEstimate": 200
     },
     {
       "ID": "a_19",
@@ -1320,7 +1325,7 @@
       "Name": "Bonjour!",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "a_2",
@@ -1328,15 +1333,15 @@
       "Name": "Ostinata",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "a_20",
       "SetID": "daiie3o",
       "Name": "The Assistant",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 32
     },
     {
       "ID": "a_21",
@@ -1360,7 +1365,7 @@
       "Name": "Quack",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "a_25",
@@ -1368,7 +1373,7 @@
       "Name": "Better than nothing?",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "a_26",
@@ -1511,7 +1516,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 634,
+      "Progressed": 644,
       "Completed": 2
     }
   ],
@@ -1519,8 +1524,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-08-28T14:01:21.7581903+00:00",
-  "LastChanged_Achievements": "2023-09-01T21:07:55.0342187+00:00",
+  "LastChanged_Achievements": "2023-09-01T22:07:05.4894761+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:37.0274623+00:00",
-  "LastUpdate_Ratings": "2023-09-01T20:57:29.2874712+00:00",
-  "LastUpdate_Achievements": "2023-09-01T21:07:55.0342441+00:00"
+  "LastUpdate_Ratings": "2023-09-01T21:57:19.4133405+00:00",
+  "LastUpdate_Achievements": "2023-09-01T22:07:05.4895057+00:00"
 }

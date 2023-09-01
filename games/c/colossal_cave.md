@@ -9,9 +9,9 @@
 | The Birdman of The Caves | 50.00% | ~45 |
 | I've Fallen & I Can't Get Up | 49.00% | ~44 |
 | Charmin' the Snake | 36.00% | ~32 |
+| Bridge Builder | 23.00% | ~21 |
 | Drums in the Deep | 22.00% | ~20 |
 | Treasure Seeker | 22.00% | ~20 |
-| Bridge Builder | 22.00% | ~20 |
 | Green Thumb Goliath | 14.00% | ~13 |
 | Take the Scenic Route | 13.00% | ~12 |
 | Treasure Hunter | 13.00% | ~12 |
