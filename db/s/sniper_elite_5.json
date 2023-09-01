@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 515,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -500,9 +500,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3558,
+  "EOS_Progressed": 3559,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -6370,6 +6370,11 @@
       "Time": "2023-09-01T09:06:24.4842262+00:00",
       "NumProgressed": 3558,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-01T21:07:35.0818188+00:00",
+      "NumProgressed": 3559,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 71,
@@ -6549,7 +6554,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1423
+      "UsersEstimate": 1424
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -6581,7 +6586,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -6717,7 +6722,7 @@
       "Name": "Change the Channel",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1067
+      "UsersEstimate": 1068
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -6749,15 +6754,15 @@
       "Name": "Taking it back",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 996
+      "UsersEstimate": 997
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
       "SetID": "bm6el81",
       "Name": "Brains of the Operation",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 534
+      "UsersEstimate": 498
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -6789,7 +6794,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -6853,7 +6858,7 @@
       "Name": "Operation Foxley",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -6948,13 +6953,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3509,
+      "Progressed": 3510,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3558,
+      "Progressed": 3559,
       "Completed": 10
     }
   ],
@@ -6962,8 +6967,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-01T10:01:39.1533108+00:00",
-  "LastChanged_Achievements": "2023-09-01T20:06:37.5416585+00:00",
+  "LastChanged_Achievements": "2023-09-01T21:07:35.0818183+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:12.9306959+00:00",
-  "LastUpdate_Ratings": "2023-09-01T20:00:03.9060383+00:00",
-  "LastUpdate_Achievements": "2023-09-01T20:06:37.5417415+00:00"
+  "LastUpdate_Ratings": "2023-09-01T21:01:27.3510766+00:00",
+  "LastUpdate_Achievements": "2023-09-01T21:07:35.0819424+00:00"
 }

@@ -63,9 +63,9 @@ Rating: 4.04 (Ranked 935)
 | Arena Challenger | 4.00% | ~75 |
 | What lies behind the bush | 3.00% | ~56 |
 | Gear Enchanting | 2.00% | ~38 |
+| Guardian Master | 2.00% | ~38 |
 | Mythic Power | 2.00% | ~38 |
 | Cauldron Liberator | 1.00% | ~19 |
-| Guardian Master | 1.00% | ~19 |
 | Titan Power | 1.00% | ~19 |
 | Training makes a Pro player | 1.00% | ~19 |
 | Transmute | 1.00% | ~19 |
@@ -217,8 +217,8 @@ Completed: 2 (0.11%) (Ranked 215)
 | 2023-09-01 | 1,881 | 2 |
 ## Awards
 Max (Great for Beginners): 20  (Ranked 510)  
-Sum: 20 (Ranked 510)  
-Diff (max vs sum): 0  
+Sum: 20 (Ranked 511)  
+Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 20 |

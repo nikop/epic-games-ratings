@@ -4,7 +4,7 @@
   "ProductSlug": "classic-racing-manager-679706",
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-05-10T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 335,
+  "EOS_Progressed": 339,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -726,6 +726,11 @@
       "Time": "2023-09-01T20:05:36.2705064+00:00",
       "NumProgressed": 335,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-01T21:06:11.1218417+00:00",
+      "NumProgressed": 339,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 162,
@@ -737,7 +742,7 @@
       "Name": "First taste",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -799,7 +804,7 @@
       "ID": "ACHIEVEMENT_13",
       "SetID": "76k7b7p",
       "Name": "Newbie",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 5,
       "UsersEstimate": 258
     },
@@ -871,9 +876,9 @@
       "ID": "ACHIEVEMENT_188",
       "SetID": "76k7b7p",
       "Name": "Amateur hitchhiker",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 20
     },
     {
       "ID": "ACHIEVEMENT_189",
@@ -887,9 +892,9 @@
       "ID": "ACHIEVEMENT_19",
       "SetID": "76k7b7p",
       "Name": "Wannabe",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 34
     },
     {
       "ID": "ACHIEVEMENT_190",
@@ -951,9 +956,9 @@
       "ID": "ACHIEVEMENT_198",
       "SetID": "76k7b7p",
       "Name": "Hero",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_199",
@@ -1111,9 +1116,9 @@
       "ID": "ACHIEVEMENT_222",
       "SetID": "76k7b7p",
       "Name": "Drama queen",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_223",
@@ -1463,9 +1468,9 @@
       "ID": "ACHIEVEMENT_31",
       "SetID": "76k7b7p",
       "Name": "Hattrick",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_311",
@@ -2032,14 +2037,14 @@
     {
       "ID": "76k7b7p",
       "IsBase": true,
-      "Progressed": 335,
+      "Progressed": 339,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-11T01:55:52.8280898+00:00",
   "FirstSeenAchievements": "2023-05-05T09:00:44.9178133+00:00",
-  "LastChanged_Achievements": "2023-09-01T20:05:36.2705059+00:00",
+  "LastChanged_Achievements": "2023-09-01T21:06:11.1218413+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:15.7945898+00:00",
-  "LastUpdate_Ratings": "2023-09-01T20:00:24.7639118+00:00",
-  "LastUpdate_Achievements": "2023-09-01T20:05:36.2707708+00:00"
+  "LastUpdate_Ratings": "2023-09-01T21:01:58.5123009+00:00",
+  "LastUpdate_Achievements": "2023-09-01T21:06:11.1222079+00:00"
 }

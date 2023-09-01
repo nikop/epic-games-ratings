@@ -2,7 +2,7 @@
   "ID": "93eeeab14a3d45b8bf5586a900137733",
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
-  "Ranking_Rating": 78,
+  "Ranking_Rating": 77,
   "Ranking_Popularity": 209,
   "Ranking_PopularitySum": 163,
   "Ranking_EOS_Progress": 114,
@@ -2752,7 +2752,7 @@
   ],
   "EOS_Progressed": 16478,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -10327,8 +10327,8 @@
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-09-01T19:59:37.4059783+00:00",
-  "LastChanged_Achievements": "2023-09-01T20:04:02.0366253+00:00",
+  "LastChanged_Achievements": "2023-09-01T21:03:53.1713629+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:51.2302699+00:00",
-  "LastUpdate_Ratings": "2023-09-01T19:59:37.405979+00:00",
-  "LastUpdate_Achievements": "2023-09-01T20:04:02.0366944+00:00"
+  "LastUpdate_Ratings": "2023-09-01T21:00:49.2524125+00:00",
+  "LastUpdate_Achievements": "2023-09-01T21:03:53.171452+00:00"
 }

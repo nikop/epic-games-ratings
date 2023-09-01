@@ -4,7 +4,7 @@
   "ProductSlug": "one-military-camp-8db1f6",
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -702,9 +702,9 @@
       "ID": "ACHIEVEMENT_ID_10",
       "SetID": "c504de6",
       "Name": "Economist",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_ID_11",
@@ -798,9 +798,9 @@
       "ID": "ACHIEVEMENT_ID_21",
       "SetID": "c504de6",
       "Name": "There\u0027s something in those trees",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_ID_22",
@@ -918,25 +918,25 @@
       "ID": "ACHIEVEMENT_ID_35",
       "SetID": "c504de6",
       "Name": "Food Tycoon",
-      "Percentage": 5,
-      "XP": 10,
-      "UsersEstimate": 8
-    },
-    {
-      "ID": "ACHIEVEMENT_ID_36",
-      "SetID": "c504de6",
-      "Name": "Fuel Tycoon",
       "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 10
     },
     {
+      "ID": "ACHIEVEMENT_ID_36",
+      "SetID": "c504de6",
+      "Name": "Fuel Tycoon",
+      "Percentage": 7,
+      "XP": 10,
+      "UsersEstimate": 11
+    },
+    {
       "ID": "ACHIEVEMENT_ID_37",
       "SetID": "c504de6",
       "Name": "Medicine Tycoon",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_ID_38",
@@ -966,9 +966,9 @@
       "ID": "ACHIEVEMENT_ID_40",
       "SetID": "c504de6",
       "Name": "Great Producer",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_ID_41",
@@ -1045,8 +1045,8 @@
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-09-01T20:03:31.8658417+00:00",
+  "LastChanged_Achievements": "2023-09-01T21:03:12.3320892+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:36.7949138+00:00",
-  "LastUpdate_Ratings": "2023-09-01T19:58:05.7949336+00:00",
-  "LastUpdate_Achievements": "2023-09-01T20:03:31.8658759+00:00"
+  "LastUpdate_Ratings": "2023-09-01T20:58:37.9489361+00:00",
+  "LastUpdate_Achievements": "2023-09-01T21:03:12.332134+00:00"
 }

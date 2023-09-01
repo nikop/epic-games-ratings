@@ -20,7 +20,7 @@ Rating: 4.55 (Ranked 489)
 | Hope Seeker | 11.00% | ~344 |
 | Exceeding Capacity | 10.00% | ~313 |
 | Breaking Protocol | 10.00% | ~313 |
-| A Hunk of Junk | 9.00% | ~281 |
+| A Hunk of Junk | 9.00% | ~282 |
 | Man's Best Friend | 7.00% | ~219 |
 | Power Outage | 7.00% | ~219 |
 | Convenient Transport | 7.00% | ~219 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 489)
 | I Give You the Stars | 0.10% | ~1 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,127 (Ranked 162)  
+Progressed: 3,128 (Ranked 162)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-08-29 | 3,112 | 0 |
 | 2023-08-30 | 3,116 | 0 |
 | 2023-08-31 | 3,122 | 0 |
-| 2023-09-01 | 3,127 | 0 |
+| 2023-09-01 | 3,128 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

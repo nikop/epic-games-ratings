@@ -6,30 +6,30 @@ Rating: 4.47 (Ranked 615)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 46.00% | ~1,637 |
-| Confirming Suspicions | 40.00% | ~1,423 |
+| Confirming Suspicions | 40.00% | ~1,424 |
 | The Kraken Wakes | 36.00% | ~1,281 |
 | It's Starting to Crack | 33.00% | ~1,174 |
-| Change the Channel | 30.00% | ~1,067 |
+| Change the Channel | 30.00% | ~1,068 |
 | Lord of War | 29.00% | ~1,032 |
-| Taking it back | 28.00% | ~996 |
+| Taking it back | 28.00% | ~997 |
 | Resourceful | 26.00% | ~925 |
 | Target America | 25.00% | ~890 |
-| The Kraken Sleeps | 23.00% | ~818 |
+| The Kraken Sleeps | 23.00% | ~819 |
 | Organ Grinder | 22.00% | ~783 |
 | As Quiet as a Mouse | 22.00% | ~783 |
 | Liberté | 21.00% | ~747 |
 | Sharpshooter | 21.00% | ~747 |
-| Explosive Efficiency | 18.00% | ~640 |
+| Explosive Efficiency | 18.00% | ~641 |
 | Gunslinger | 17.00% | ~605 |
 | Just a Flesh Wound | 16.00% | ~569 |
 | Der Geist | 16.00% | ~569 |
 | Climbing the Ladder | 15.00% | ~534 |
 | Close Quarters | 15.00% | ~534 |
-| Brains of the Operation | 15.00% | ~534 |
 | Fields of Glory | 14.00% | ~498 |
 | Skirmisher | 14.00% | ~498 |
 | Die Nussknacker Sweet! | 14.00% | ~498 |
 | Snake in the Grass | 14.00% | ~498 |
+| Brains of the Operation | 14.00% | ~498 |
 | No Stone Unturned | 13.00% | ~463 |
 | Opposing Force | 13.00% | ~463 |
 | Enemy at the Gates | 13.00% | ~463 |
@@ -41,7 +41,7 @@ Rating: 4.47 (Ranked 615)
 | The Long Game | 5.00% | ~178 |
 | It'll Buff Right Out | 5.00% | ~178 |
 | Don't hold your breath | 5.00% | ~178 |
-| Operation Foxley | 5.00% | ~175 |
+| Operation Foxley | 5.00% | ~176 |
 | Strategist | 4.00% | ~142 |
 | Tinkerer | 4.00% | ~142 |
 | Locomotion Commotion | 4.00% | ~142 |
@@ -77,7 +77,7 @@ Rating: 4.47 (Ranked 615)
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,558 (Ranked 153)  
+Progressed: 3,559 (Ranked 153)  
 Completed: 10 (0.28%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 10 (0.28%) (Ranked 184)
 | 2023-08-29 | 3,547 | 10 |
 | 2023-08-30 | 3,554 | 10 |
 | 2023-08-31 | 3,557 | 10 |
-| 2023-09-01 | 3,558 | 10 |
+| 2023-09-01 | 3,559 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

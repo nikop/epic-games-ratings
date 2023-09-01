@@ -10,18 +10,18 @@
 | Through the woods | 62.00% | ~23 |
 | My lost nightingale | 62.00% | ~23 |
 | Back to the anvil | 51.00% | ~19 |
+| Honey, honey, honey… | 49.00% | ~18 |
 | So soothing... | 49.00% | ~18 |
 | Kekekeke... | 49.00% | ~18 |
 | Roostwig has entered the building | 49.00% | ~18 |
 | Mystery solved | 46.00% | ~17 |
-| Honey, honey, honey… | 46.00% | ~17 |
 | Fussy eater | 46.00% | ~17 |
 | NOW GO AWAY! | 46.00% | ~17 |
 | Sorry Grandpa | 46.00% | ~17 |
+| Game Over! | 43.00% | ~16 |
+| A very special drink | 43.00% | ~16 |
 | Far away from home | 43.00% | ~16 |
 | Little genius | 43.00% | ~16 |
-| Game Over! | 41.00% | ~15 |
-| A very special drink | 41.00% | ~15 |
 | Close the deal | 38.00% | ~14 |
 | Show me your true self | 38.00% | ~14 |
 | Pain in the hands | 38.00% | ~14 |

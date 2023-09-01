@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 568,
+  "EOS_Progressed": 569,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 9,
@@ -1286,6 +1286,11 @@
       "Time": "2023-09-01T17:06:46.2526021+00:00",
       "NumProgressed": 568,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-01T21:06:37.9937386+00:00",
+      "NumProgressed": 569,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1298,7 +1303,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -1306,7 +1311,7 @@
       "Name": "A New Journey",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "_03_FinishAct1",
@@ -1314,7 +1319,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1360,9 +1365,9 @@
       "ID": "_09_Completion_20",
       "SetID": "8a1io5d",
       "Name": "Powder Monkey",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 159
     },
     {
       "ID": "_10_Completion_30",
@@ -1386,7 +1391,7 @@
       "Name": "Privateer",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "_13_Completion_60",
@@ -1426,7 +1431,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -1458,7 +1463,7 @@
       "Name": "Tobacco Travesty",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -1490,7 +1495,7 @@
       "Name": "Rustic Recipe",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "_26_ReviveVirgilio",
@@ -1505,14 +1510,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 568,
+      "Progressed": 569,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-09-01T20:05:56.2176544+00:00",
+  "LastChanged_Achievements": "2023-09-01T21:06:37.9937382+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:45.1302228+00:00",
-  "LastUpdate_Ratings": "2023-09-01T19:57:42.970335+00:00",
-  "LastUpdate_Achievements": "2023-09-01T20:05:56.2176755+00:00"
+  "LastUpdate_Ratings": "2023-09-01T20:58:06.3701501+00:00",
+  "LastUpdate_Achievements": "2023-09-01T21:06:37.9937658+00:00"
 }

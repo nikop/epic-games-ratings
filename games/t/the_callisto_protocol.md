@@ -38,7 +38,7 @@ Rating: 4.19 (Ranked 873)
 | Grim Reaper | 0.50% | ~80 |
 | Parole Denied | 0.50% | ~19 |
 | Quick Pick | 0.50% | ~19 |
-| Mugshot | 0.30% | ~48 |
+| Mugshot | 0.40% | ~64 |
 | Instigator | 0.30% | ~12 |
 | Subject Alpha | 0.20% | ~8 |
 | Don't Let It Mellow | 0.20% | ~8 |

@@ -6,24 +6,24 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 27.00% | ~59,432 |
+| Sowwy! | 27.00% | ~59,436 |
 | Déjà vu | 3.00% | ~6,604 |
 | Where's that freaking Dwarf? | 3.00% | ~6,604 |
 | Alt+F4 | 3.00% | ~6,604 |
-| A beer, two curses, three companions | 2.00% | ~4,402 |
-| Sock! SOCK! | 2.00% | ~4,402 |
-| GG EZ | 2.00% | ~4,402 |
-| DM intervention | 2.00% | ~4,402 |
-| Speedrun | 2.00% | ~4,402 |
-| Fireproof Wizardess | 2.00% | ~4,402 |
+| A beer, two curses, three companions | 2.00% | ~4,403 |
+| Sock! SOCK! | 2.00% | ~4,403 |
+| GG EZ | 2.00% | ~4,403 |
+| DM intervention | 2.00% | ~4,403 |
+| Speedrun | 2.00% | ~4,403 |
+| Fireproof Wizardess | 2.00% | ~4,403 |
 | Livin' in a dwarven paradise | 1.00% | ~2,201 |
 | Way of the Wimp | 1.00% | ~2,201 |
 | The plot thickens... At the tavern | 1.00% | ~2,201 |
 | The demons' feast | 1.00% | ~2,201 |
+| The Great Library | 1.00% | ~2,201 |
 | The Woman in the High Castle | 1.00% | ~2,201 |
 | Team Building Exercise | 1.00% | ~2,201 |
 | Oh, when I'll be level 10... | 1.00% | ~2,201 |
-| The Great Library | 0.90% | ~1,981 |
 | Torture and Sensibility | 0.90% | ~1,981 |
 | Urik's Depths | 0.90% | ~1,981 |
 | The Dungeon Master | 0.90% | ~1,981 |
@@ -39,12 +39,12 @@ Number of Ratings: 118  (23.09.2022)
 | Look but don't touch | 0.70% | ~1,541 |
 | The beards of change | 0.70% | ~1,541 |
 | Thieves' Guild Accreditation | 0.70% | ~1,541 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.50% | ~1,101 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.60% | ~1,321 |
 | Dead for good | 0.50% | ~1,101 |
 | Lust and Debauchery | 0.50% | ~1,101 |
 | Material Girl | 0.50% | ~1,101 |
-| Gargantua | 0.40% | ~880 |
-| In Navalu's footsteps | 0.40% | ~880 |
+| Gargantua | 0.40% | ~881 |
+| In Navalu's footsteps | 0.40% | ~881 |
 | An old poacher makes the best gamekeeper | 0.30% | ~660 |
 | We come in peace | 0.30% | ~660 |
 | Lëgal Legend | 0.30% | ~660 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~220 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,120 (Ranked 57)  
+Progressed: 220,135 (Ranked 57)  
 Completed: 2 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 2 (0.00%) (Ranked 271)
 | 2023-08-29 | 219,078 | 2 |
 | 2023-08-30 | 219,453 | 2 |
 | 2023-08-31 | 219,794 | 2 |
-| 2023-09-01 | 220,120 | 2 |
+| 2023-09-01 | 220,135 | 2 |
 ## Awards
 Max (Character Customization): 185  (Ranked 279)  
 Sum: 233 (Ranked 360)  

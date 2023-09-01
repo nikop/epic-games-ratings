@@ -384,7 +384,7 @@
       "ID": "ACH_LEVEL_S3",
       "SetID": "467j267",
       "Name": "Overthrow The Crown",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 50,
       "UsersEstimate": 0
     }
@@ -399,14 +399,14 @@
     {
       "ID": "467j267",
       "IsBase": false,
-      "Progressed": 9,
-      "Completed": 8
+      "Progressed": 10,
+      "Completed": 9
     }
   ],
   "FirstSeen": "2023-07-30T18:59:40.5539908+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:08.7767583+00:00",
-  "LastChanged_Achievements": "2023-09-01T20:03:26.2108401+00:00",
+  "LastChanged_Achievements": "2023-09-01T21:02:44.5026848+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:39.9543878+00:00",
-  "LastUpdate_Ratings": "2023-09-01T19:58:13.7132363+00:00",
-  "LastUpdate_Achievements": "2023-09-01T20:03:26.2108603+00:00"
+  "LastUpdate_Ratings": "2023-09-01T20:58:49.8921245+00:00",
+  "LastUpdate_Achievements": "2023-09-01T21:02:44.5027077+00:00"
 }

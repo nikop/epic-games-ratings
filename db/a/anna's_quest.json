@@ -156,17 +156,17 @@
       "ID": "aq_achievement_12",
       "SetID": "7jh86ne",
       "Name": "Game Over!",
-      "Percentage": 41,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "aq_achievement_13",
       "SetID": "7jh86ne",
       "Name": "Honey, honey, honey\u2026",
-      "Percentage": 46,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "aq_achievement_14",
@@ -180,9 +180,9 @@
       "ID": "aq_achievement_15",
       "SetID": "7jh86ne",
       "Name": "A very special drink",
-      "Percentage": 41,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "aq_achievement_16",
@@ -453,8 +453,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-09-01T20:06:21.536412+00:00",
+  "LastChanged_Achievements": "2023-09-01T21:07:13.3291733+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:48.553702+00:00",
-  "LastUpdate_Ratings": "2023-09-01T19:58:38.8565864+00:00",
-  "LastUpdate_Achievements": "2023-09-01T20:06:21.5364379+00:00"
+  "LastUpdate_Ratings": "2023-09-01T20:59:25.718432+00:00",
+  "LastUpdate_Achievements": "2023-09-01T21:07:13.3292058+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "0eb6d6e85bfe442b87cb1172415d35fb",
   "Name": "Airport CEO",
   "ProductSlug": "airport-ceo-442ecc",
-  "Ranking_EOS_Progress": 488,
+  "Ranking_EOS_Progress": 480,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-09-01T10:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 4,
+  "EOS_Progressed": 5,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -44,6 +44,11 @@
       "Time": "2023-09-01T15:04:12.7304316+00:00",
       "NumProgressed": 4,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-01T21:05:20.5044949+00:00",
+      "NumProgressed": 5,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-30T08:04:15.025911+00:00",
@@ -62,7 +67,7 @@
       "ID": "AndIWouldFly500Miles",
       "SetID": "d11cl5p",
       "Name": "And I would fly 500 miles",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -102,7 +107,7 @@
       "ID": "FiveThousand",
       "SetID": "d11cl5p",
       "Name": "0.005 million",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -190,7 +195,7 @@
       "ID": "Over9000",
       "SetID": "d11cl5p",
       "Name": "Over 9000!!!",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 75,
       "UsersEstimate": 1
     },
@@ -254,7 +259,7 @@
       "ID": "TakingOff",
       "SetID": "d11cl5p",
       "Name": "Taking off",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -327,13 +332,13 @@
     {
       "ID": "d11cl5p",
       "IsBase": true,
-      "Progressed": 4,
+      "Progressed": 5,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-27T10:02:52.8790419+00:00",
-  "LastChanged_Achievements": "2023-09-01T20:04:59.3082297+00:00",
+  "LastChanged_Achievements": "2023-09-01T21:05:20.5044944+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:06.4077778+00:00",
-  "LastUpdate_Ratings": "2023-09-01T19:59:56.5065338+00:00",
-  "LastUpdate_Achievements": "2023-09-01T20:04:59.3082491+00:00"
+  "LastUpdate_Ratings": "2023-09-01T21:01:16.9421502+00:00",
+  "LastUpdate_Achievements": "2023-09-01T21:05:20.5045217+00:00"
 }

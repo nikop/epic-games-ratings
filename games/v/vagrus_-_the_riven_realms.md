@@ -22,6 +22,7 @@
 | Tail-wind | 5.00% | ~7 |
 | Quartermaster | 4.00% | ~5 |
 | Strategist | 4.00% | ~5 |
+| Potential Unlocked | 4.00% | ~5 |
 | Deputized | 4.00% | ~5 |
 | Harbinger | 4.00% | ~5 |
 | Been There | 4.00% | ~5 |
@@ -30,7 +31,6 @@
 | Inquisitions of Discord | 4.00% | ~5 |
 | Merchant | 4.00% | ~5 |
 | Supercargo | 3.00% | ~4 |
-| Potential Unlocked | 3.00% | ~4 |
 | Xevarian Gambit | 3.00% | ~4 |
 | The Voice of Hereafter | 3.00% | ~4 |
 | Despised | 3.00% | ~4 |

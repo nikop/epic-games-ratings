@@ -6,31 +6,31 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~13,166 |
-| Sweet Sorrow | 18.00% | ~6,583 |
-| Rules the Waves | 17.00% | ~6,217 |
-| Thou, All-Shaking Thunder | 15.00% | ~5,486 |
-| Rival | 14.00% | ~5,120 |
-| Correspondent | 12.00% | ~4,389 |
-| Lose Your Mind | 12.00% | ~4,389 |
-| Sound Mind? | 12.00% | ~4,389 |
-| Salt's Curse | 11.00% | ~4,023 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~4,023 |
-| The Fall of the House | 11.00% | ~4,023 |
-| Shipmate | 11.00% | ~4,023 |
-| One Year at Zee | 8.00% | ~2,926 |
-| Pupil | 7.00% | ~2,560 |
-| Salvager | 7.00% | ~2,560 |
-| Open Your Ears | 7.00% | ~2,560 |
-| The Ascent of Man | 7.00% | ~2,560 |
+| Sink Beneath the Waves | 36.00% | ~13,171 |
+| Sweet Sorrow | 18.00% | ~6,585 |
+| Rules the Waves | 17.00% | ~6,219 |
+| Thou, All-Shaking Thunder | 15.00% | ~5,488 |
+| Rival | 14.00% | ~5,122 |
+| Correspondent | 12.00% | ~4,390 |
+| Lose Your Mind | 12.00% | ~4,390 |
+| Sound Mind? | 12.00% | ~4,390 |
+| Salt's Curse | 11.00% | ~4,024 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~4,024 |
+| The Fall of the House | 11.00% | ~4,024 |
+| Shipmate | 11.00% | ~4,024 |
+| One Year at Zee | 8.00% | ~2,927 |
+| Pupil | 7.00% | ~2,561 |
+| Salvager | 7.00% | ~2,561 |
+| Open Your Ears | 7.00% | ~2,561 |
+| The Ascent of Man | 7.00% | ~2,561 |
 | Zee Fever | 5.00% | ~1,829 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,463 |
 | Sink Beneath the Waves. Again. | 4.00% | ~1,463 |
-| Storm's Curse | 3.00% | ~1,097 |
-| We're Gonna Need a Bigger Boat | 3.00% | ~1,097 |
-| Come Closer | 3.00% | ~1,097 |
-| Roaring Rise | 2.00% | ~731 |
-| I am the Captain of my Soul | 2.00% | ~731 |
+| Storm's Curse | 3.00% | ~1,098 |
+| We're Gonna Need a Bigger Boat | 3.00% | ~1,098 |
+| Come Closer | 3.00% | ~1,098 |
+| Roaring Rise | 2.00% | ~732 |
+| I am the Captain of my Soul | 2.00% | ~732 |
 | A buoyant escape | 1.00% | ~366 |
 | Frightful, sheer, no-man-fathomed | 1.00% | ~366 |
 | The Bell Tolls | 1.00% | ~366 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~37 |
 | Ten Years at Zee | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36,572 (Ranked 98)  
+Progressed: 36,585 (Ranked 98)  
 Completed: 3 (0.01%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 3 (0.01%) (Ranked 258)
 | 2023-08-29 | 36,430 | 3 |
 | 2023-08-30 | 36,480 | 3 |
 | 2023-08-31 | 36,530 | 3 |
-| 2023-09-01 | 36,572 | 3 |
+| 2023-09-01 | 36,585 | 3 |
 ## Awards
 Max (Character Customization): 213  (Ranked 270)  
 Sum: 283 (Ranked 344)  

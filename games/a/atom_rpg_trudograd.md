@@ -5,8 +5,8 @@ Rating: 4.53 (Ranked 519)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fresh Prince of Trudograd | 87.00% | ~1,037 |
-| Household | 7.00% | ~83 |
+| Fresh Prince of Trudograd | 87.00% | ~1,038 |
+| Household | 7.00% | ~84 |
 | An Old Friend | 6.00% | ~72 |
 | Lot 49 | 5.00% | ~60 |
 | Viva La Revolution | 5.00% | ~60 |
@@ -38,7 +38,7 @@ Rating: 4.53 (Ranked 519)
 | Escalation of Conflict | 0.20% | ~2 |
 | Terrorist | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,192 (Ranked 194)  
+Progressed: 1,193 (Ranked 193)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,10 +140,11 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-08-26 | 1,190 | 0 |
 | 2023-08-27 | 1,191 | 0 |
 | 2023-08-28 | 1,192 | 0 |
+| 2023-09-01 | 1,193 | 0 |
 ## Awards
 Max (Character Customization): 25  (Ranked 485)  
-Sum: 25 (Ranked 490)  
-Diff (max vs sum): -5  
+Sum: 25 (Ranked 491)  
+Diff (max vs sum): -6  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 25 |

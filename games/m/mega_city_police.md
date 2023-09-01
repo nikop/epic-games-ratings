@@ -23,6 +23,7 @@
 | Restore Honor | 3.00% | ~1 |
 | Bring Down the Corp | 3.00% | ~1 |
 | Speedrunner | 3.00% | ~1 |
+| Overthrow The Crown | 3.00% | ~0 |
 | Vehicular Mayhem | 0.00% | ~0 |
 | Lieutenant | 0.00% | ~0 |
 | Chief | 0.00% | ~0 |
@@ -30,7 +31,6 @@
 | Millionaire | 0.00% | ~0 |
 | Fashionista | 0.00% | ~0 |
 | Knife Juggler | 0.00% | ~0 |
-| Overthrow The Crown | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 32 (Ranked 411)  
 Completed: 0 (0.00%) (Ranked 271)  

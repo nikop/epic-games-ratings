@@ -2,12 +2,12 @@
   "ID": "c2890856ddb844f1a7d552fc929838a7",
   "Name": "Blasphemous 2",
   "ProductSlug": "blasphemous-2",
-  "Ranking_Rating": 59,
+  "Ranking_Rating": 82,
   "Ranking_Popularity": 515,
   "Ranking_PopularitySum": 515,
-  "Ranking_EOS_Progress": 223,
+  "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.83,
+  "Rating": 4.8,
   "RatingHistory": [
     {
       "Time": "2023-08-31T05:00:39.0192379+00:00",
@@ -28,6 +28,12 @@
       "Rating": 4.83,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-09-01T21:01:12.3792489+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -36,7 +42,7 @@
   "Tags": [],
   "EOS_Progressed": 624,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 280,
+  "EOS_NewPlayers": 276,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -988,9 +994,9 @@
       "ID": "AC18",
       "SetID": "l4abp0",
       "Name": "Acquired Taste",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 187
+      "UsersEstimate": 193
     },
     {
       "ID": "AC19",
@@ -1028,9 +1034,9 @@
       "ID": "AC23",
       "SetID": "l4abp0",
       "Name": "Hide and Seek",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 137
+      "UsersEstimate": 144
     },
     {
       "ID": "AC24",
@@ -1220,9 +1226,9 @@
   "FirstSeen": "2023-07-26T07:57:19.1818171+00:00",
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
-  "LastChanged": "2023-08-31T20:59:26.6195445+00:00",
-  "LastChanged_Achievements": "2023-09-01T20:06:27.5405983+00:00",
+  "LastChanged": "2023-09-01T21:01:12.3792487+00:00",
+  "LastChanged_Achievements": "2023-09-01T21:07:21.1195672+00:00",
   "LastUpdate_AppInfo": "2023-08-29T18:57:21.35462+00:00",
-  "LastUpdate_Ratings": "2023-09-01T19:59:53.3974905+00:00",
-  "LastUpdate_Achievements": "2023-09-01T20:06:27.5406325+00:00"
+  "LastUpdate_Ratings": "2023-09-01T21:01:12.3792494+00:00",
+  "LastUpdate_Achievements": "2023-09-01T21:07:21.1196216+00:00"
 }

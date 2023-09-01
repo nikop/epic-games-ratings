@@ -4,7 +4,7 @@
   "ProductSlug": "warstone-td-8fe138",
   "Ranking_EOS_Progress": 396,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -351,9 +351,9 @@
       "ID": "28",
       "SetID": "5e3maia",
       "Name": "Leader",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "29",
@@ -742,8 +742,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-09-01T20:06:40.9905543+00:00",
+  "LastChanged_Achievements": "2023-09-01T21:07:39.7690222+00:00",
   "LastUpdate_AppInfo": "2023-08-25T22:57:10.6988807+00:00",
-  "LastUpdate_Ratings": "2023-09-01T19:59:44.5570205+00:00",
-  "LastUpdate_Achievements": "2023-09-01T20:06:40.9906132+00:00"
+  "LastUpdate_Ratings": "2023-09-01T21:01:00.4445913+00:00",
+  "LastUpdate_Achievements": "2023-09-01T21:07:39.7690972+00:00"
 }
