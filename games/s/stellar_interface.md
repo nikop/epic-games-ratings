@@ -42,6 +42,7 @@
 | Bronze Pest Control | 5.00% | ~3 |
 | Rambo III | 5.00% | ~3 |
 | Rambo IV | 5.00% | ~3 |
+| Curious | 5.00% | ~3 |
 | Omicron Theta | 5.00% | ~3 |
 | Omicron Beta | 5.00% | ~3 |
 | No Peace | 5.00% | ~3 |
@@ -54,10 +55,10 @@
 | Fighting Fit II | 5.00% | ~3 |
 | Bronze BBQ | 3.00% | ~2 |
 | Cartridge Hoarder | 3.00% | ~2 |
-| Curious | 3.00% | ~2 |
 | Pilgrim | 3.00% | ~2 |
 | Diligent | 3.00% | ~2 |
 | 80Gb HDD | 3.00% | ~2 |
+| Galactic Captain | 3.00% | ~2 |
 | System Captain | 3.00% | ~2 |
 | Silver Pest Control | 3.00% | ~2 |
 | Mysterious Skin | 3.00% | ~2 |
@@ -78,7 +79,6 @@
 | Golden Pest Control | 2.00% | ~1 |
 | The Healer | 2.00% | ~1 |
 | Usurper III | 2.00% | ~1 |
-| Galactic Captain | 2.00% | ~1 |
 | You've drone good! | 2.00% | ~1 |
 | Surrounded | 2.00% | ~1 |
 | Silver Alchemist | 2.00% | ~1 |

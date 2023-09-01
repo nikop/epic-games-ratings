@@ -282,9 +282,9 @@
       "ID": "20",
       "SetID": "5e3maia",
       "Name": "Tester",
-      "Percentage": 17,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "21",
@@ -450,9 +450,9 @@
       "ID": "41",
       "SetID": "5e3maia",
       "Name": "Drugmaker",
-      "Percentage": 24,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "42",
@@ -618,9 +618,9 @@
       "ID": "60",
       "SetID": "5e3maia",
       "Name": "Voyager",
-      "Percentage": 24,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "61",
@@ -737,8 +737,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-09-01T13:11:24.4437433+00:00",
+  "LastChanged_Achievements": "2023-09-01T14:07:31.0299717+00:00",
   "LastUpdate_AppInfo": "2023-08-25T22:57:10.6988807+00:00",
-  "LastUpdate_Ratings": "2023-09-01T13:04:34.6562528+00:00",
-  "LastUpdate_Achievements": "2023-09-01T13:11:24.4438201+00:00"
+  "LastUpdate_Ratings": "2023-09-01T14:00:37.9405394+00:00",
+  "LastUpdate_Achievements": "2023-09-01T14:07:31.0300488+00:00"
 }

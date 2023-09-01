@@ -5,8 +5,8 @@ Rating: 4.54 (Ranked 503)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 0.80% | ~5,365 |
-| Welcome To Hell-A | 0.80% | ~5,365 |
+| Hotel California | 0.80% | ~5,366 |
+| Welcome To Hell-A | 0.80% | ~5,366 |
 | Break A Leg | 0.70% | ~4,695 |
 | Personal Assistant Personally Assisted | 0.70% | ~4,695 |
 | Dr. Reed, I Presume? | 0.60% | ~4,024 |
@@ -19,19 +19,19 @@ Rating: 4.54 (Ranked 503)
 | Apex Predator | 0.60% | ~4,024 |
 | Stacking the Deck | 0.60% | ~4,024 |
 | This is My Weapon | 0.60% | ~4,024 |
-| Slayer Squad | 0.50% | ~3,353 |
-| Can't Handle the Truth | 0.50% | ~3,353 |
-| Like Riding a Bike | 0.50% | ~3,353 |
-| Zombologist | 0.50% | ~3,353 |
-| A Patton Emerges | 0.50% | ~3,353 |
+| Slayer Squad | 0.50% | ~3,354 |
+| Can't Handle the Truth | 0.50% | ~3,354 |
+| Like Riding a Bike | 0.50% | ~3,354 |
+| Zombologist | 0.50% | ~3,354 |
+| A Patton Emerges | 0.50% | ~3,354 |
+| I Am the Resurrection | 0.50% | ~3,354 |
+| Our True Nature | 0.50% | ~3,354 |
 | Anger Management | 0.40% | ~2,683 |
 | Perks of the Job | 0.40% | ~2,683 |
 | I Got a Zombie Army and You Can't Harm Me | 0.40% | ~2,683 |
 | Ooh, Shiny! | 0.40% | ~2,683 |
-| I Am the Resurrection | 0.40% | ~2,683 |
-| Our True Nature | 0.40% | ~2,683 |
+| Humanity Distilled | 0.40% | ~2,683 |
 | Making Your Mark | 0.30% | ~2,012 |
-| Humanity Distilled | 0.30% | ~2,012 |
 | Down with the Sickness | 0.30% | ~2,012 |
 | Max Headroom | 0.30% | ~2,012 |
 | On Safari | 0.20% | ~1,341 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 503)
 | Variety is the Spice of Death | 0.10% | ~671 |
 | Bucket List | 0.10% | ~671 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 670,685 (Ranked 22)  
+Progressed: 670,728 (Ranked 22)  
 Completed: 2,097 (0.31%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 2,097 (0.31%) (Ranked 178)
 | 2023-08-29 | 668,912 | 2,088 |
 | 2023-08-30 | 669,636 | 2,094 |
 | 2023-08-31 | 670,394 | 2,097 |
-| 2023-09-01 | 670,685 | 2,097 |
+| 2023-09-01 | 670,728 | 2,097 |
 ## Awards
 Max (Great Boss Battles): 5,841  (Ranked 60)  
 Sum: 8,607 (Ranked 96)  

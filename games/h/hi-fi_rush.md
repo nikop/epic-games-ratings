@@ -6,14 +6,14 @@ Rating: 4.87 (Ranked 25)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Feeling the beat! | 13.00% | ~521 |
-| Start with a bang! | 12.00% | ~480 |
-| You can pet the cat! | 12.00% | ~480 |
-| Who put gears in there? | 11.00% | ~440 |
-| Cream of the Crop | 10.00% | ~400 |
-| Thanks for the free chip, Peppermint! | 10.00% | ~400 |
-| You got this, Peppermint? | 9.00% | ~360 |
-| Perfect Parry | 9.00% | ~360 |
-| Alright, that felt AWESOME! | 9.00% | ~360 |
+| Start with a bang! | 12.00% | ~481 |
+| You can pet the cat! | 12.00% | ~481 |
+| Who put gears in there? | 11.00% | ~441 |
+| Cream of the Crop | 10.00% | ~401 |
+| Thanks for the free chip, Peppermint! | 10.00% | ~401 |
+| You got this, Peppermint? | 9.00% | ~361 |
+| Perfect Parry | 9.00% | ~361 |
+| Alright, that felt AWESOME! | 9.00% | ~361 |
 | I play my own way! | 8.00% | ~320 |
 | Uh, they were broken when I got here | 8.00% | ~320 |
 | This will cost you big time | 7.00% | ~280 |
@@ -39,7 +39,7 @@ Rating: 4.87 (Ranked 25)
 | Wanna hear my playlist? | 2.00% | ~80 |
 | I told you I'd be fine, Peppermint! | 2.00% | ~80 |
 | Check out my moves! | 2.00% | ~80 |
-| Call me Turbo Chai | 2.00% | ~50 |
+| Call me Turbo Chai | 2.00% | ~51 |
 | I think I deserve some praise, here! | 1.00% | ~40 |
 | I think I found your calling, Macaron | 1.00% | ~40 |
 | We're Jammin' | 1.00% | ~40 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 25)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,004 (Ranked 151)  
+Progressed: 4,006 (Ranked 151)  
 Completed: 7 (0.17%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,6 +208,7 @@ Completed: 7 (0.17%) (Ranked 200)
 | 2023-08-29 | 3,994 | 7 |
 | 2023-08-30 | 4,000 | 7 |
 | 2023-08-31 | 4,004 | 7 |
+| 2023-09-01 | 4,006 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

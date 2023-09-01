@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 515,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 62091,
+  "EOS_Progressed": 62092,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 522,
+  "EOS_NewPlayers": 520,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -13122,6 +13122,11 @@
       "Time": "2023-09-01T13:08:03.4009837+00:00",
       "NumProgressed": 62091,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-09-01T14:04:06.6199855+00:00",
+      "NumProgressed": 62092,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -13173,7 +13178,7 @@
       "Name": "Park Ranger",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 10555
+      "UsersEstimate": 10556
     },
     {
       "ID": "07",
@@ -13229,7 +13234,7 @@
       "Name": "Drink \u0027Em Both Up",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3725
+      "UsersEstimate": 3726
     },
     {
       "ID": "14",
@@ -13269,7 +13274,7 @@
       "Name": "Hardboiled Writer",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3725
+      "UsersEstimate": 3726
     },
     {
       "ID": "19",
@@ -13381,7 +13386,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 18627
+      "UsersEstimate": 18628
     },
     {
       "ID": "33",
@@ -13405,7 +13410,7 @@
       "Name": "Let There Be Light",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 19248
+      "UsersEstimate": 19249
     },
     {
       "ID": "36",
@@ -13469,7 +13474,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 10555
+      "UsersEstimate": 10556
     },
     {
       "ID": "44",
@@ -13668,21 +13673,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 62091,
+      "Progressed": 62092,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 25559,
+      "Progressed": 25560,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-01T13:08:03.4009829+00:00",
+  "LastChanged_Achievements": "2023-09-01T14:04:06.619985+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:21.2068954+00:00",
-  "LastUpdate_Ratings": "2023-09-01T13:01:30.2825613+00:00",
-  "LastUpdate_Achievements": "2023-09-01T13:08:03.4012513+00:00"
+  "LastUpdate_Ratings": "2023-09-01T13:57:28.1196245+00:00",
+  "LastUpdate_Achievements": "2023-09-01T14:04:06.62016+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 486,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -300,9 +300,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 3213,
+  "EOS_Progressed": 3214,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4045,6 +4045,11 @@
       "Time": "2023-09-01T13:11:53.4563955+00:00",
       "NumProgressed": 3213,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-01T14:08:09.8789076+00:00",
+      "NumProgressed": 3214,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -4104,7 +4109,7 @@
       "Name": "Omelette Du Fromage",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 1092
+      "UsersEstimate": 1093
     },
     {
       "ID": "ACH_EMBRAYO_EXTRACTION",
@@ -4168,7 +4173,7 @@
       "Name": "Call Me Snake",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 2024
+      "UsersEstimate": 2025
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -4216,7 +4221,7 @@
       "Name": "Bandage Lover",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "ACH_MAX_RECON",
@@ -4232,7 +4237,7 @@
       "Name": "Come on, You Wanna Live Forever?",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "ACH_MAX_TECKER",
@@ -4248,7 +4253,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 1960
+      "UsersEstimate": 1961
     },
     {
       "ID": "ACH_MISSION_02",
@@ -4280,7 +4285,7 @@
       "Name": "Where It All Begun",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1285
+      "UsersEstimate": 1286
     },
     {
       "ID": "ACH_MISSION_06",
@@ -4288,7 +4293,7 @@
       "Name": "Living Nightmare",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 1060
+      "UsersEstimate": 1061
     },
     {
       "ID": "ACH_MISSION_07",
@@ -4376,7 +4381,7 @@
       "Name": "People Person",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 1799
+      "UsersEstimate": 1800
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -4384,7 +4389,7 @@
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1349
+      "UsersEstimate": 1350
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -4398,9 +4403,9 @@
       "ID": "ACH_UNLOCK_APC",
       "SetID": "816efe",
       "Name": "The More The Merrier",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1060
+      "UsersEstimate": 1093
     },
     {
       "ID": "ACH_USE_REDEMPTION",
@@ -4408,14 +4413,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 1831
+      "UsersEstimate": 1832
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3213,
+      "Progressed": 3214,
       "Completed": 3
     }
   ],
@@ -4423,8 +4428,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-08-31T19:59:01.3757088+00:00",
-  "LastChanged_Achievements": "2023-09-01T13:11:53.4563948+00:00",
+  "LastChanged_Achievements": "2023-09-01T14:08:09.8789071+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:04.9559458+00:00",
-  "LastUpdate_Ratings": "2023-09-01T13:03:40.4187989+00:00",
-  "LastUpdate_Achievements": "2023-09-01T13:11:53.4565026+00:00"
+  "LastUpdate_Ratings": "2023-09-01T13:59:41.8317084+00:00",
+  "LastUpdate_Achievements": "2023-09-01T14:08:09.8789977+00:00"
 }

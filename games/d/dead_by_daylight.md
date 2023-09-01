@@ -6,33 +6,33 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MU/TH/UR Dearest | 1.00% | ~8,356 |
-| It wakes | 0.90% | ~7,520 |
-| Zealous | 0.80% | ~6,684 |
-| Skillful | 0.80% | ~6,684 |
-| Not half bad | 0.70% | ~5,849 |
-| Make Some Noise | 0.70% | ~5,849 |
-| Handyman | 0.60% | ~5,013 |
-| Apt Survivor | 0.60% | ~5,013 |
-| Survival Treasures | 0.60% | ~5,013 |
-| Terror of LV-426 | 0.60% | ~5,013 |
-| No one left behind | 0.50% | ~4,178 |
-| Medic | 0.50% | ~4,178 |
-| Nerves of steel | 0.50% | ~4,178 |
-| Bloody Millionaire | 0.50% | ~4,178 |
-| I | 0.50% | ~4,178 |
-| Sorted | 0.50% | ~4,178 |
-| The Grand Sacrifice | 0.40% | ~3,342 |
-| Agonizing Escape | 0.40% | ~3,342 |
-| Backdoor Escape | 0.40% | ~3,342 |
-| I've got your back | 0.40% | ~3,342 |
-| Perfect Escape | 0.40% | ~3,342 |
-| Perfect Killing | 0.40% | ~3,342 |
-| Engineer | 0.40% | ~3,342 |
-| Healthy Obsession | 0.40% | ~3,342 |
-| Resurgence | 0.40% | ~3,342 |
-| Preemptive Strike | 0.40% | ~3,342 |
-| Humanitarian | 0.40% | ~3,342 |
+| It wakes | 1.00% | ~8,357 |
+| MU/TH/UR Dearest | 1.00% | ~8,357 |
+| Skillful | 0.90% | ~7,522 |
+| Zealous | 0.80% | ~6,686 |
+| Not half bad | 0.70% | ~5,850 |
+| Make Some Noise | 0.70% | ~5,850 |
+| Handyman | 0.60% | ~5,014 |
+| Apt Survivor | 0.60% | ~5,014 |
+| Survival Treasures | 0.60% | ~5,014 |
+| Terror of LV-426 | 0.60% | ~5,014 |
+| The Grand Sacrifice | 0.50% | ~4,179 |
+| No one left behind | 0.50% | ~4,179 |
+| Medic | 0.50% | ~4,179 |
+| Nerves of steel | 0.50% | ~4,179 |
+| Bloody Millionaire | 0.50% | ~4,179 |
+| I | 0.50% | ~4,179 |
+| Sorted | 0.50% | ~4,179 |
+| Resurgence | 0.50% | ~4,179 |
+| Agonizing Escape | 0.40% | ~3,343 |
+| Backdoor Escape | 0.40% | ~3,343 |
+| I've got your back | 0.40% | ~3,343 |
+| Perfect Escape | 0.40% | ~3,343 |
+| Perfect Killing | 0.40% | ~3,343 |
+| Engineer | 0.40% | ~3,343 |
+| Healthy Obsession | 0.40% | ~3,343 |
+| Preemptive Strike | 0.40% | ~3,343 |
+| Humanitarian | 0.40% | ~3,343 |
 | Apt Killer | 0.30% | ~2,507 |
 | Risk it all | 0.30% | ~2,507 |
 | Vulture | 0.30% | ~2,507 |
@@ -48,6 +48,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | III-50 | 0.20% | ~1,671 |
 | Shock Therapy | 0.20% | ~1,671 |
 | All Aboard | 0.20% | ~1,671 |
+| Leapfrog | 0.20% | ~1,671 |
 | Item of Obsession | 0.20% | ~1,671 |
 | House of Pain | 0.20% | ~1,671 |
 | Holiday Get-Together | 0.20% | ~1,671 |
@@ -98,7 +99,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Shocking Treatment | 0.10% | ~836 |
 | Mad House | 0.10% | ~836 |
 | Adept Doctor | 0.10% | ~836 |
-| Leapfrog | 0.10% | ~836 |
 | Adept Min | 0.10% | ~836 |
 | The man behind the bush | 0.10% | ~836 |
 | Evil Incarnate | 0.10% | ~836 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~836 |
 | Adept Ripley | 0.10% | ~836 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 835,554 (Ranked 15)  
+Progressed: 835,735 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -370,16 +370,16 @@ Completed: 48 (0.01%) (Ranked 258)
 | 2023-08-29 | 828,020 | 48 |
 | 2023-08-30 | 831,117 | 48 |
 | 2023-08-31 | 834,142 | 48 |
-| 2023-09-01 | 835,554 | 48 |
+| 2023-09-01 | 835,735 | 48 |
 ## Awards
 Max (Diverse Characters): 31,778  (Ranked 15)  
-Sum: 249,155 (Ranked 11)  
+Sum: 249,185 (Ranked 11)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 31,778 |
 | This game is Highly Recommended | 28,459 |
-| This game has Competitive Players | 28,383 |
+| This game has Competitive Players | 28,413 |
 | This game has Amazing Characters | 28,162 |
 | This game is Extremely Fun | 27,953 |
 | This game has Quickly Understood Controls | 27,617 |
@@ -611,4 +611,4 @@ Diff (max vs sum): 4
 | 2023-08-29 | 4.52 | - | 31,566 | 248,001 |
 | 2023-08-30 | 4.52 | - | 31,677 | 248,552 |
 | 2023-08-31 | 4.52 | - | 31,726 | 248,913 |
-| 2023-09-01 | 4.52 | - | 31,778 | 249,155 |
+| 2023-09-01 | 4.52 | - | 31,778 | 249,185 |

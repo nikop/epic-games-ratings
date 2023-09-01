@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1187,
+  "EOS_Progressed": 1189,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4186,6 +4186,11 @@
       "Time": "2023-09-01T13:10:15.373152+00:00",
       "NumProgressed": 1187,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-01T14:06:19.9279009+00:00",
+      "NumProgressed": 1189,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4197,7 +4202,7 @@
       "Name": "Know The Enemy",
       "Percentage": 4,
       "XP": 75,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -4221,7 +4226,7 @@
       "Name": "Player Betrayer",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ach_gold_rewards_100",
@@ -4269,7 +4274,7 @@
       "Name": "Silver Achiever",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "objective_headquarters_10",
@@ -4285,7 +4290,7 @@
       "Name": "Moving On Up",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "objective_headquarters_20",
@@ -4301,7 +4306,7 @@
       "Name": "Facility Online",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -4317,7 +4322,7 @@
       "Name": "Sergeant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -4373,7 +4378,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -4381,7 +4386,7 @@
       "Name": "Covert Operative",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -4453,7 +4458,7 @@
       "Name": "Defenses Online",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -4477,7 +4482,7 @@
       "Name": "Shock Troops",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "objective_research_unlock_light_infantry_tier_4",
@@ -4500,14 +4505,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1187,
+      "Progressed": 1189,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-01T13:10:15.3731515+00:00",
+  "LastChanged_Achievements": "2023-09-01T14:06:19.9279004+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:58:05.1002416+00:00",
-  "LastUpdate_Ratings": "2023-09-01T13:04:38.1059135+00:00",
-  "LastUpdate_Achievements": "2023-09-01T13:10:15.3732101+00:00"
+  "LastUpdate_Ratings": "2023-09-01T14:00:41.4820547+00:00",
+  "LastUpdate_Achievements": "2023-09-01T14:06:19.9279631+00:00"
 }

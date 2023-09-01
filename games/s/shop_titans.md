@@ -19,9 +19,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Another Satisfied Customer | 0.90% | ~1,219 |
 | Pretty Penny | 0.90% | ~1,219 |
 | Own the Means of Production | 0.90% | ~1,219 |
+| One-Armed Bandit | 0.80% | ~1,084 |
 | The Daily Grind | 0.70% | ~948 |
 | Bounty Hunters | 0.70% | ~948 |
-| One-Armed Bandit | 0.70% | ~948 |
 | Dungeon Imports | 0.70% | ~948 |
 | Through Repetition, Perfection | 0.70% | ~948 |
 | Demand for Supplies | 0.60% | ~813 |
@@ -30,6 +30,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Gild-Gotten Goods | 0.60% | ~813 |
 | Accomplished Merchant | 0.60% | ~813 |
 | Did we pack lunch? | 0.60% | ~813 |
+| Arcane Industries | 0.60% | ~813 |
 | On the Path to Greatness | 0.50% | ~677 |
 | Ascended | 0.50% | ~677 |
 | Vanity, Verily | 0.50% | ~677 |
@@ -38,7 +39,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Gem Expert | 0.50% | ~677 |
 | Helping Hand | 0.50% | ~677 |
 | Natural 20 | 0.50% | ~677 |
-| Arcane Industries | 0.50% | ~677 |
 | A Notch Above the Rest | 0.40% | ~542 |
 | Tax not Included | 0.40% | ~542 |
 | Research & Development | 0.40% | ~542 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~135 |
 | Cash Only Please | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,480 (Ranked 67)  
+Progressed: 135,482 (Ranked 67)  
 Completed: 140 (0.10%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,7 +253,7 @@ Completed: 140 (0.10%) (Ranked 218)
 | 2023-08-29 | 135,350 | 138 |
 | 2023-08-30 | 135,399 | 138 |
 | 2023-08-31 | 135,446 | 140 |
-| 2023-09-01 | 135,480 | 140 |
+| 2023-09-01 | 135,482 | 140 |
 ## Awards
 Max (Great for Beginners): 4,718  (Ranked 70)  
 Sum: 27,160 (Ranked 46)  

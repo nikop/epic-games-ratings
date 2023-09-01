@@ -3311,9 +3311,9 @@
       "ID": "ach_campaign_progress5",
       "SetID": "8cb3id7",
       "Name": "Level: Returning Home",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 2618
+      "UsersEstimate": 2671
     },
     {
       "ID": "ach_campaign_progress6",
@@ -3815,8 +3815,8 @@
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-09-01T13:09:43.7492587+00:00",
+  "LastChanged_Achievements": "2023-09-01T14:05:48.4685792+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:28.3476806+00:00",
-  "LastUpdate_Ratings": "2023-09-01T13:02:58.9126206+00:00",
-  "LastUpdate_Achievements": "2023-09-01T13:09:43.7494451+00:00"
+  "LastUpdate_Ratings": "2023-09-01T13:58:58.4079086+00:00",
+  "LastUpdate_Achievements": "2023-09-01T14:05:48.4686948+00:00"
 }

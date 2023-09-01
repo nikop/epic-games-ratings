@@ -485,9 +485,9 @@
       "ID": "Cleared20LevelsInAtLeast20LongAGraph",
       "SetID": "a8djcgh",
       "Name": "Curious",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Cleared500LevelsAchievement",
@@ -1069,9 +1069,9 @@
       "ID": "PlayedFor10HoursAchievement",
       "SetID": "a8djcgh",
       "Name": "Galactic Captain",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PlayedFor1DayAchievement",
@@ -1388,8 +1388,8 @@
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-09-01T13:09:47.5659133+00:00",
+  "LastChanged_Achievements": "2023-09-01T14:05:52.4806046+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:41.6007938+00:00",
-  "LastUpdate_Ratings": "2023-09-01T13:02:28.4189772+00:00",
-  "LastUpdate_Achievements": "2023-09-01T13:09:47.566138+00:00"
+  "LastUpdate_Ratings": "2023-09-01T13:58:26.6632722+00:00",
+  "LastUpdate_Achievements": "2023-09-01T14:05:52.4807859+00:00"
 }

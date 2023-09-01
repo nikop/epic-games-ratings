@@ -14,9 +14,9 @@ Rating: 4.68 (Ranked 240)
 | Celebrations are in Order | 17.00% | ~1,660 |
 | Thorston Mayer | 11.00% | ~1,074 |
 | Bottoms up! | 8.00% | ~781 |
-| Data Logger | 4.00% | ~390 |
-| Data Master | 4.00% | ~390 |
-| Data Recoverer | 4.00% | ~390 |
+| Data Logger | 4.00% | ~391 |
+| Data Master | 4.00% | ~391 |
+| Data Recoverer | 4.00% | ~391 |
 | Debris Spree | 2.00% | ~195 |
 | Grave Robber | 2.00% | ~195 |
 | Urshanabi Hoarder | 1.00% | ~98 |
@@ -36,7 +36,7 @@ Rating: 4.68 (Ranked 240)
 | Scavenger Star | 0.00% | ~0 |
 | Data Collector | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,762 (Ranked 127)  
+Progressed: 9,763 (Ranked 127)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-08-29 | 9,580 | 0 |
 | 2023-08-30 | 9,655 | 0 |
 | 2023-08-31 | 9,724 | 0 |
-| 2023-09-01 | 9,762 | 0 |
+| 2023-09-01 | 9,763 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

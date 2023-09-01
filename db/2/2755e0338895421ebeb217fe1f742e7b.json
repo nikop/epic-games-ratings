@@ -4,7 +4,7 @@
   "ProductSlug": "nocturnal-ef3fa0",
   "Ranking_EOS_Progress": 433,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 299,
+  "Ranking_EOS_NewPlayers": 300,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-06-07T15:00:00+00:00",
@@ -178,9 +178,9 @@
       "ID": "Nocturnal_Achivement_5_Berserker",
       "SetID": "329ifed",
       "Name": "Stand Your Ground",
-      "Percentage": 16,
+      "Percentage": 21,
       "XP": 75,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Nocturnal_Achivement_6_Arsia",
@@ -225,8 +225,8 @@
   ],
   "FirstSeen": "2023-07-26T23:57:21.2236192+00:00",
   "FirstSeenAchievements": "2023-06-12T15:00:06.5838251+00:00",
-  "LastChanged_Achievements": "2023-09-01T13:08:14.5375453+00:00",
+  "LastChanged_Achievements": "2023-09-01T14:04:17.4911059+00:00",
   "LastUpdate_AppInfo": "2023-08-28T20:26:11.8164588+00:00",
-  "LastUpdate_Ratings": "2023-09-01T13:05:07.8737791+00:00",
-  "LastUpdate_Achievements": "2023-09-01T13:08:14.5375624+00:00"
+  "LastUpdate_Ratings": "2023-09-01T14:01:11.5614279+00:00",
+  "LastUpdate_Achievements": "2023-09-01T14:04:17.49112+00:00"
 }

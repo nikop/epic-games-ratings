@@ -4,7 +4,7 @@
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
   "Ranking_EOS_Progress": 349,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
@@ -738,9 +738,9 @@
       "ID": "ACHIEVEMENT_42",
       "SetID": "7pimpda",
       "Name": "Giantess Slayer",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_43",
@@ -827,8 +827,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-09-01T13:11:23.6673888+00:00",
+  "LastChanged_Achievements": "2023-09-01T14:07:29.8196284+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:20.6336688+00:00",
-  "LastUpdate_Ratings": "2023-09-01T13:03:48.4872122+00:00",
-  "LastUpdate_Achievements": "2023-09-01T13:11:23.6674635+00:00"
+  "LastUpdate_Ratings": "2023-09-01T13:59:50.7255122+00:00",
+  "LastUpdate_Achievements": "2023-09-01T14:07:29.8196906+00:00"
 }

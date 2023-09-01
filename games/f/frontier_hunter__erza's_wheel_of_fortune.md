@@ -34,8 +34,8 @@
 | Face Slapper | 28.00% | ~24 |
 | Master Cook | 21.00% | ~18 |
 | Berserker Slayer | 16.00% | ~14 |
+| Giantess Slayer | 14.00% | ~12 |
 | Warden Slayer | 14.00% | ~12 |
-| Giantess Slayer | 13.00% | ~11 |
 | Boss challenge | 11.00% | ~10 |
 | Big Face Goalkeeper Challenge | 3.00% | ~3 |
 | Silver Moon Wolf King Challenge | 3.00% | ~3 |

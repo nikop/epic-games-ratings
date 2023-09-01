@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 515,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4004,
+  "EOS_Progressed": 4006,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -6319,6 +6319,11 @@
       "Time": "2023-08-31T19:07:32.0735694+00:00",
       "NumProgressed": 4004,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-01T14:03:41.5009521+00:00",
+      "NumProgressed": 4006,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 71,
@@ -6330,7 +6335,7 @@
       "Name": "Start with a bang!",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "Ach002",
@@ -6338,7 +6343,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "Ach003",
@@ -6442,7 +6447,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "Ach016",
@@ -6522,7 +6527,7 @@
       "Name": "You got this, Peppermint?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "Ach026",
@@ -6570,7 +6575,7 @@
       "Name": "Perfect Parry",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "Ach032",
@@ -6698,7 +6703,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "Ach048",
@@ -6706,7 +6711,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "Ach049",
@@ -6730,7 +6735,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "Ach052",
@@ -6826,7 +6831,7 @@
       "Name": "Call me Turbo Chai",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "Ach064",
@@ -6897,13 +6902,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4004,
+      "Progressed": 4006,
       "Completed": 7
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2525,
+      "Progressed": 2527,
       "Completed": 1929
     }
   ],
@@ -6911,8 +6916,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-08-30T23:57:48.3272093+00:00",
-  "LastChanged_Achievements": "2023-09-01T13:07:38.3624342+00:00",
+  "LastChanged_Achievements": "2023-09-01T14:03:41.5009516+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:23.6936946+00:00",
-  "LastUpdate_Ratings": "2023-09-01T13:02:25.3522383+00:00",
-  "LastUpdate_Achievements": "2023-09-01T13:07:38.3625716+00:00"
+  "LastUpdate_Ratings": "2023-09-01T13:58:23.9533355+00:00",
+  "LastUpdate_Achievements": "2023-09-01T14:03:41.5011426+00:00"
 }

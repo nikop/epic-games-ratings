@@ -4140,9 +4140,9 @@
       "Count": 334
     }
   ],
-  "EOS_Progressed": 670685,
+  "EOS_Progressed": 670728,
   "EOS_Completed": 2097,
-  "EOS_NewPlayers": 5845,
+  "EOS_NewPlayers": 5856,
   "EOS_NewCompleters": 33,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -19070,6 +19070,11 @@
       "Time": "2023-09-01T13:09:27.9296903+00:00",
       "NumProgressed": 670685,
       "NumCompleted": 2097
+    },
+    {
+      "Time": "2023-09-01T14:05:31.9971138+00:00",
+      "NumProgressed": 670728,
+      "NumCompleted": 2097
     }
   ],
   "TotalAchievements": 45,
@@ -19177,7 +19182,7 @@
       "Name": "Slayer Squad",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3353
+      "UsersEstimate": 3354
     },
     {
       "ID": "ach_explorer",
@@ -19193,7 +19198,7 @@
       "Name": "Can\u0027t Handle the Truth",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3353
+      "UsersEstimate": 3354
     },
     {
       "ID": "ach_finisher",
@@ -19209,7 +19214,7 @@
       "Name": "Like Riding a Bike",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3353
+      "UsersEstimate": 3354
     },
     {
       "ID": "ach_good_eyesight",
@@ -19241,7 +19246,7 @@
       "Name": "Hotel California",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5365
+      "UsersEstimate": 5366
     },
     {
       "ID": "ach_impressive_aim",
@@ -19289,7 +19294,7 @@
       "Name": "Zombologist",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3353
+      "UsersEstimate": 3354
     },
     {
       "ID": "ach_legendary",
@@ -19313,23 +19318,23 @@
       "Name": "A Patton Emerges",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3353
+      "UsersEstimate": 3354
     },
     {
       "ID": "ach_mind_over_monster",
       "SetID": "7km39fm",
       "Name": "Humanity Distilled",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2012
+      "UsersEstimate": 2683
     },
     {
       "ID": "ach_revival_tour",
       "SetID": "7km39fm",
       "Name": "I Am the Resurrection",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2683
+      "UsersEstimate": 3354
     },
     {
       "ID": "ach_salvation",
@@ -19391,9 +19396,9 @@
       "ID": "ach_thesacrifice",
       "SetID": "7km39fm",
       "Name": "Our True Nature",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 2683
+      "UsersEstimate": 3354
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -19417,7 +19422,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5365
+      "UsersEstimate": 5366
     },
     {
       "ID": "ach_well_known_survivor",
@@ -19440,7 +19445,7 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 670685,
+      "Progressed": 670728,
       "Completed": 2097
     }
   ],
@@ -19448,8 +19453,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-01T13:02:23.4416435+00:00",
-  "LastChanged_Achievements": "2023-09-01T13:09:27.9296899+00:00",
+  "LastChanged_Achievements": "2023-09-01T14:05:31.9971127+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:11.0440218+00:00",
-  "LastUpdate_Ratings": "2023-09-01T13:02:23.4416443+00:00",
-  "LastUpdate_Achievements": "2023-09-01T13:09:27.9298239+00:00"
+  "LastUpdate_Ratings": "2023-09-01T13:58:22.0274348+00:00",
+  "LastUpdate_Achievements": "2023-09-01T14:05:31.9972785+00:00"
 }

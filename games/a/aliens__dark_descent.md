@@ -9,26 +9,26 @@ Rating: 4.49 (Ranked 581)
 | Snatched Out | 75.00% | ~2,410 |
 | Keep 'Em Coming | 74.00% | ~2,378 |
 | Cleaning Lethe, One Nest At A Time | 67.00% | ~2,153 |
-| Call Me Snake | 63.00% | ~2,024 |
-| Something Lurks Under The Hills | 61.00% | ~1,960 |
+| Call Me Snake | 63.00% | ~2,025 |
+| Something Lurks Under The Hills | 61.00% | ~1,961 |
 | This Was No Papercut | 60.00% | ~1,928 |
-| The Shrink Hates Me | 57.00% | ~1,831 |
-| People Person | 56.00% | ~1,799 |
+| The Shrink Hates Me | 57.00% | ~1,832 |
+| People Person | 56.00% | ~1,800 |
 | Use The Bumper, That's What It's For | 53.00% | ~1,703 |
 | First Steps Into Madness | 53.00% | ~1,703 |
 | Colonial Barrels | 51.00% | ~1,639 |
 | Harper's Hell | 45.00% | ~1,446 |
 | Making a Stand | 44.00% | ~1,414 |
-| Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,349 |
-| Where It All Begun | 40.00% | ~1,285 |
+| Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,350 |
+| Where It All Begun | 40.00% | ~1,286 |
 | Recouped Investment | 39.00% | ~1,253 |
-| Omelette Du Fromage | 34.00% | ~1,092 |
-| Living Nightmare | 33.00% | ~1,060 |
-| The More The Merrier | 33.00% | ~1,060 |
+| Omelette Du Fromage | 34.00% | ~1,093 |
+| The More The Merrier | 34.00% | ~1,093 |
+| Living Nightmare | 33.00% | ~1,061 |
 | The Darwin Era Was Here | 29.00% | ~932 |
 | Deep Into Insanity | 28.00% | ~900 |
 | The Passenger | 27.00% | ~868 |
-| Come on, You Wanna Live Forever? | 26.00% | ~835 |
+| Come on, You Wanna Live Forever? | 26.00% | ~836 |
 | The Spire | 24.00% | ~771 |
 | Stuff Of Nightmares | 23.00% | ~739 |
 | El Riesgo Siempre Vive | 23.00% | ~739 |
@@ -37,7 +37,7 @@ Rating: 4.49 (Ranked 581)
 | Frontliner | 20.00% | ~643 |
 | The Cable Guy | 20.00% | ~643 |
 | Abysmal Horrors | 20.00% | ~643 |
-| Bandage Lover | 18.00% | ~578 |
+| Bandage Lover | 18.00% | ~579 |
 | Regicide | 15.00% | ~482 |
 | This Went Smoothly | 13.00% | ~418 |
 | Flawless Victory | 12.00% | ~386 |
@@ -51,7 +51,7 @@ Rating: 4.49 (Ranked 581)
 | This Ain't No Picnic | 0.70% | ~22 |
 | Chalk It Up To Experience | 0.70% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,213 (Ranked 157)  
+Progressed: 3,214 (Ranked 157)  
 Completed: 3 (0.09%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 3 (0.09%) (Ranked 222)
 | 2023-08-28 | 3,198 | 3 |
 | 2023-08-30 | 3,202 | 3 |
 | 2023-08-31 | 3,208 | 3 |
-| 2023-09-01 | 3,213 | 3 |
+| 2023-09-01 | 3,214 | 3 |
 ## Awards
 Max (Great Boss Battles): 26  (Ranked 478)  
 Sum: 26 (Ranked 486)  
