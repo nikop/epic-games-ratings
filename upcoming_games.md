@@ -1,7 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Endless Memories](games/5/512771d9df514978ab76b7fd2aef3149.md) | 2023-09-01 | - |  | - | - |
-| [Torch Cave 2: The Trail of Ashes](games/c/c949fe0c9e7f460fb1a549d2d4d3689e.md) | 2023-09-01 | - |  | - | - |
 | [Aquarist](games/8/866520e800d74ec5a517e45b48fe63e6.md) | 2023-09-01 | - |  | - | - |
 | [Forest Ranger Simulator](games/8/80887b9295fb4f8d9ab0d0a03c0bd191.md) | 2023-09-01 | - |  | - | - |
 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 2023-09-03 | - |  | - | - |

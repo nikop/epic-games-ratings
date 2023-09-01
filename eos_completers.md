@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.00% |
-| 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.31% |
+| 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.90% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 35.20% |
 | 5 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 33.33% |
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.95% |
@@ -27,7 +27,7 @@
 | 23 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.11% |
 | 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.95% |
 | 27 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.71% |
-| 28 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.54% |
+| 28 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.51% |
 | 29 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
 | 30 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 9.09% |
 | 30 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
@@ -90,14 +90,14 @@
 | 88 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.33% |
 | 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.26% |
 | 90 | [Bloodshore](games/b/bloodshore.md) | 2.19% |
-| 91 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 2.17% |
-| 92 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
-| 93 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.05% |
+| 91 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
+| 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.05% |
+| 93 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 2.04% |
 | 94 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.00% |
 | 95 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
-| 96 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.89% |
-| 97 | [Night Book](games/n/night_book.md) | 1.86% |
-| 98 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
+| 96 | [Night Book](games/n/night_book.md) | 1.86% |
+| 97 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.85% |
+| 97 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
 | 99 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 100 | [Sifu](games/s/sifu.md) | 1.81% |
 | 101 | [Frogun](games/f/frogun.md) | 1.80% |
@@ -125,8 +125,8 @@
 | 123 | [Sable](games/s/sable.md) | 1.00% |
 | 124 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.99% |
 | 124 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.99% |
-| 126 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.98% |
-| 127 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.95% |
+| 126 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.95% |
+| 126 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.95% |
 | 128 | [Hades](games/h/hades.md) | 0.90% |
 | 129 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 130 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
@@ -145,9 +145,9 @@
 | 143 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.58% |
 | 143 | [Potion Permit](games/p/potion_permit.md) | 0.58% |
 | 145 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.57% |
-| 146 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.56% |
 | 146 | [Grindstone](games/g/grindstone.md) | 0.56% |
-| 148 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
+| 147 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.55% |
+| 147 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
 | 149 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.54% |
 | 150 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.53% |
 | 151 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.52% |
@@ -169,12 +169,12 @@
 | 165 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 168 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.36% |
 | 168 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.36% |
-| 168 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.36% |
 | 168 | [Wildermyth](games/w/wildermyth.md) | 0.36% |
-| 172 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.35% |
-| 172 | [The Devil's Face](games/t/the_devil's_face.md) | 0.35% |
-| 172 | [The Surge](games/t/the_surge.md) | 0.35% |
-| 172 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.35% |
+| 171 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.35% |
+| 171 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.35% |
+| 171 | [The Devil's Face](games/t/the_devil's_face.md) | 0.35% |
+| 171 | [The Surge](games/t/the_surge.md) | 0.35% |
+| 171 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.35% |
 | 176 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.34% |
 | 177 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.33% |
 | 178 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
@@ -194,8 +194,8 @@
 | 192 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.22% |
 | 192 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
 | 194 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
-| 195 | [Going Medieval](games/g/going_medieval.md) | 0.20% |
-| 195 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.20% |
+| 194 | [Going Medieval](games/g/going_medieval.md) | 0.21% |
+| 196 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.20% |
 | 197 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.19% |
 | 197 | [RAILGRADE](games/r/railgrade.md) | 0.19% |
 | 199 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.18% |
