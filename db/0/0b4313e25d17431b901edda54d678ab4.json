@@ -246,9 +246,9 @@
       "ID": "fastBossKill",
       "SetID": "bma0pih",
       "Name": "Done in time",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "finishGame",
@@ -278,9 +278,9 @@
       "ID": "kill750",
       "SetID": "bma0pih",
       "Name": "War machine",
-      "Percentage": 74,
+      "Percentage": 76,
       "XP": 150,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "killWithHammer",
@@ -334,9 +334,9 @@
       "ID": "pyromancer",
       "SetID": "bma0pih",
       "Name": "Pyromancer",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "reroll10",
@@ -365,8 +365,8 @@
   ],
   "FirstSeen": "2023-08-31T13:03:44.3512159+00:00",
   "FirstSeenAchievements": "2023-05-07T09:02:54.6493409+00:00",
-  "LastChanged_Achievements": "2023-09-01T22:06:03.3465996+00:00",
+  "LastChanged_Achievements": "2023-09-01T23:06:25.9036841+00:00",
   "LastUpdate_AppInfo": "2023-08-27T16:57:09.5121242+00:00",
-  "LastUpdate_Ratings": "2023-09-01T21:59:04.5206783+00:00",
-  "LastUpdate_Achievements": "2023-09-01T22:06:03.3466127+00:00"
+  "LastUpdate_Ratings": "2023-09-01T22:59:13.1483523+00:00",
+  "LastUpdate_Achievements": "2023-09-01T23:06:25.9037173+00:00"
 }

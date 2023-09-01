@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Little ideas | 33.00% | ~2 |
+| Marc Allard | 33.00% | ~2 |
 | The Ship | 17.00% | ~1 |
 | Seeking the truth | 17.00% | ~1 |
 | Little grey cells | 17.00% | ~1 |
 | Everything matters | 17.00% | ~1 |
-| Little ideas | 17.00% | ~1 |
 | The Gala | 17.00% | ~1 |
 | An old friend | 17.00% | ~1 |
 | A curious gathering | 17.00% | ~1 |
 | Impossible is possible | 17.00% | ~1 |
 | Arthur Hastings | 17.00% | ~1 |
-| Marc Allard | 17.00% | ~1 |
 | The Denouement | 0.00% | ~0 |
 | Well-travelled | 0.00% | ~0 |
 | Well-acquainted | 0.00% | ~0 |

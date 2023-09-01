@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 161,
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 54,
+  "Ranking_EOS_NewPlayers": 55,
   "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
@@ -2674,9 +2674,9 @@
       "Count": 239
     }
   ],
-  "EOS_Progressed": 74177,
+  "EOS_Progressed": 74179,
   "EOS_Completed": 98,
-  "EOS_NewPlayers": 940,
+  "EOS_NewPlayers": 935,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -17414,6 +17414,11 @@
       "Time": "2023-09-01T22:03:37.2456016+00:00",
       "NumProgressed": 74177,
       "NumCompleted": 98
+    },
+    {
+      "Time": "2023-09-01T23:03:57.1119596+00:00",
+      "NumProgressed": 74179,
+      "NumCompleted": 98
     }
   ],
   "TotalAchievements": 30,
@@ -17465,7 +17470,7 @@
       "Name": "Landlord",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 8159
+      "UsersEstimate": 8160
     },
     {
       "ID": "ACHIEVEMENT_06",
@@ -17481,7 +17486,7 @@
       "Name": "Most Achievements",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 8159
+      "UsersEstimate": 8160
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -17505,7 +17510,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 27445
+      "UsersEstimate": 27446
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -17553,7 +17558,7 @@
       "Name": "Beagle 2",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 17802
+      "UsersEstimate": 17803
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -17593,7 +17598,7 @@
       "Name": "Money money",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 11868
+      "UsersEstimate": 11869
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -17601,7 +17606,7 @@
       "Name": "Final touch",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 27445
+      "UsersEstimate": 27446
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -17664,15 +17669,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 74177,
+      "Progressed": 74179,
       "Completed": 98
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-09-01T21:57:49.5636643+00:00",
-  "LastChanged_Achievements": "2023-09-01T22:03:37.245601+00:00",
+  "LastChanged_Achievements": "2023-09-01T23:03:57.1119589+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:03.9547788+00:00",
-  "LastUpdate_Ratings": "2023-09-01T21:57:49.5636651+00:00",
-  "LastUpdate_Achievements": "2023-09-01T22:03:37.2457987+00:00"
+  "LastUpdate_Ratings": "2023-09-01T22:57:54.648319+00:00",
+  "LastUpdate_Achievements": "2023-09-01T23:03:57.1121614+00:00"
 }

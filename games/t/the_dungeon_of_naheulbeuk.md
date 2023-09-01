@@ -6,24 +6,24 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 27.00% | ~59,440 |
-| Déjà vu | 3.00% | ~6,604 |
-| Where's that freaking Dwarf? | 3.00% | ~6,604 |
-| Alt+F4 | 3.00% | ~6,604 |
+| Sowwy! | 27.00% | ~59,445 |
+| Déjà vu | 3.00% | ~6,605 |
+| Where's that freaking Dwarf? | 3.00% | ~6,605 |
+| Alt+F4 | 3.00% | ~6,605 |
 | A beer, two curses, three companions | 2.00% | ~4,403 |
 | Sock! SOCK! | 2.00% | ~4,403 |
 | GG EZ | 2.00% | ~4,403 |
 | DM intervention | 2.00% | ~4,403 |
 | Speedrun | 2.00% | ~4,403 |
 | Fireproof Wizardess | 2.00% | ~4,403 |
-| Livin' in a dwarven paradise | 1.00% | ~2,201 |
-| Way of the Wimp | 1.00% | ~2,201 |
-| The plot thickens... At the tavern | 1.00% | ~2,201 |
-| The demons' feast | 1.00% | ~2,201 |
-| The Great Library | 1.00% | ~2,201 |
-| The Woman in the High Castle | 1.00% | ~2,201 |
-| Team Building Exercise | 1.00% | ~2,201 |
-| Oh, when I'll be level 10... | 1.00% | ~2,201 |
+| Livin' in a dwarven paradise | 1.00% | ~2,202 |
+| Way of the Wimp | 1.00% | ~2,202 |
+| The plot thickens... At the tavern | 1.00% | ~2,202 |
+| The demons' feast | 1.00% | ~2,202 |
+| The Great Library | 1.00% | ~2,202 |
+| The Woman in the High Castle | 1.00% | ~2,202 |
+| Team Building Exercise | 1.00% | ~2,202 |
+| Oh, when I'll be level 10... | 1.00% | ~2,202 |
 | Torture and Sensibility | 0.90% | ~1,981 |
 | Urik's Depths | 0.90% | ~1,981 |
 | The Dungeon Master | 0.90% | ~1,981 |
@@ -50,11 +50,11 @@ Number of Ratings: 118  (23.09.2022)
 | Lëgal Legend | 0.30% | ~660 |
 | Holistic Adventuring Party | 0.20% | ~440 |
 | Scholar of the Lands of Fangh | 0.20% | ~440 |
+| I'd rather... Just... Sing! | 0.20% | ~440 |
 | Law and Order | 0.20% | ~440 |
 | It's been a hard day's night | 0.20% | ~440 |
 | Cursed die | 0.10% | ~220 |
 | Friendly fire | 0.10% | ~220 |
-| I'd rather... Just... Sing! | 0.10% | ~220 |
 | The number of the counting shalt be 7 | 0.10% | ~220 |
 | Necrophilia | 0.10% | ~220 |
 | The Blood Countess | 0.10% | ~220 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~220 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,149 (Ranked 57)  
+Progressed: 220,165 (Ranked 57)  
 Completed: 2 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,16 +188,16 @@ Completed: 2 (0.00%) (Ranked 271)
 | 2023-08-29 | 219,078 | 2 |
 | 2023-08-30 | 219,453 | 2 |
 | 2023-08-31 | 219,794 | 2 |
-| 2023-09-01 | 220,149 | 2 |
+| 2023-09-01 | 220,165 | 2 |
 ## Awards
 Max (Character Customization): 185  (Ranked 279)  
-Sum: 233 (Ranked 360)  
+Sum: 234 (Ranked 360)  
 Diff (max vs sum): -81  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 185 |
 | This game is Relaxing | 25 |
-| This game is Great for Beginners | 23 |
+| This game is Great for Beginners | 24 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -320,4 +320,4 @@ Diff (max vs sum): -81
 | 2023-08-28 | 4.58 | - | 182 | 228 |
 | 2023-08-30 | 4.58 | - | 184 | 230 |
 | 2023-08-31 | 4.58 | - | 184 | 232 |
-| 2023-09-01 | 4.58 | - | 185 | 233 |
+| 2023-09-01 | 4.58 | - | 185 | 234 |

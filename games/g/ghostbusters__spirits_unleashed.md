@@ -10,7 +10,7 @@ Rating: 4.49 (Ranked 581)
 | Meticulously Efficient | 63.00% | ~16,053 |
 | Discovery | 61.00% | ~15,543 |
 | Fully Upgraded | 54.00% | ~13,760 |
-| Swift Rift Removers | 53.00% | ~13,505 |
+| Swift Rift Removers | 54.00% | ~13,760 |
 | I collect Spores, Molds, and Fungi | 51.00% | ~12,995 |
 | Cultured | 51.00% | ~12,995 |
 | Vaporous Expansion | 48.00% | ~12,231 |
@@ -28,9 +28,9 @@ Rating: 4.49 (Ranked 581)
 | We have the best insurance | 26.00% | ~6,625 |
 | Legions | 26.00% | ~6,625 |
 | Right back at ya | 26.00% | ~6,625 |
+| Animated | 25.00% | ~6,370 |
 | Pesky Jerks | 25.00% | ~6,370 |
 | Stunner | 25.00% | ~6,370 |
-| Animated | 24.00% | ~6,115 |
 | Skilled | 24.00% | ~6,115 |
 | Collector | 23.00% | ~5,861 |
 | Ectoplasmic Entity | 23.00% | ~5,861 |

@@ -17,26 +17,26 @@
 | Your own amateur gym | 74.00% | ~223 |
 | First defeat | 73.00% | ~220 |
 | Run K, run! | 72.00% | ~217 |
+| Hello, world! | 69.00% | ~208 |
 | Fighting is cool | 68.00% | ~205 |
-| Hello, world! | 68.00% | ~205 |
-| No bullying more | 67.00% | ~202 |
+| No bullying more | 68.00% | ~205 |
 | Pal of your father? | 66.00% | ~199 |
 | Employee of the month | 64.00% | ~193 |
 | Spirit of the past | 63.00% | ~190 |
 | Law student | 62.00% | ~187 |
 | Workout professional | 61.00% | ~184 |
-| Champion – starter pack | 59.00% | ~178 |
+| Champion – starter pack | 60.00% | ~181 |
+| Handyman | 59.00% | ~178 |
 | It's good to be alive | 59.00% | ~178 |
 | Employee of the year | 59.00% | ~178 |
 | Fight for life | 58.00% | ~175 |
 | Little hacker | 58.00% | ~175 |
-| Handyman | 58.00% | ~175 |
 | Own four walls | 58.00% | ~175 |
 | Intriguing candies | 57.00% | ~172 |
 | Extreme neuropower! | 54.00% | ~163 |
 | Legal courier | 53.00% | ~160 |
+| Now you are worthy | 50.00% | ~150 |
 | Escaped from a big trouble | 50.00% | ~150 |
-| Now you are worthy | 49.00% | ~147 |
 | Guiding on the right path | 45.00% | ~135 |
 | Fight is life | 44.00% | ~132 |
 | Mysterious voice | 44.00% | ~132 |

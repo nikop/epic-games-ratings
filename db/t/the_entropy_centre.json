@@ -1023,9 +1023,9 @@
       "ID": "ACH_LOOPER",
       "SetID": "2310cb1",
       "Name": "Looper",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 37
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_REUINTED",
@@ -1072,8 +1072,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-09-01T22:05:30.6672033+00:00",
+  "LastChanged_Achievements": "2023-09-01T23:05:52.6109316+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:31.2998477+00:00",
-  "LastUpdate_Ratings": "2023-09-01T22:02:10.1222671+00:00",
-  "LastUpdate_Achievements": "2023-09-01T22:05:30.6672277+00:00"
+  "LastUpdate_Ratings": "2023-09-01T23:02:28.3274096+00:00",
+  "LastUpdate_Achievements": "2023-09-01T23:05:52.6109629+00:00"
 }

@@ -6,39 +6,39 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 1.00% | ~8,373 |
-| Skillful | 1.00% | ~8,373 |
-| MU/TH/UR Dearest | 1.00% | ~8,373 |
-| Zealous | 0.90% | ~7,535 |
-| Not half bad | 0.80% | ~6,698 |
-| Make Some Noise | 0.80% | ~6,698 |
-| Handyman | 0.70% | ~5,861 |
-| Apt Survivor | 0.70% | ~5,861 |
-| Survival Treasures | 0.70% | ~5,861 |
-| Medic | 0.60% | ~5,024 |
-| Bloody Millionaire | 0.60% | ~5,024 |
-| Sorted | 0.60% | ~5,024 |
-| Terror of LV-426 | 0.60% | ~5,024 |
-| The Grand Sacrifice | 0.50% | ~4,186 |
-| Backdoor Escape | 0.50% | ~4,186 |
-| No one left behind | 0.50% | ~4,186 |
-| Nerves of steel | 0.50% | ~4,186 |
-| Perfect Escape | 0.50% | ~4,186 |
-| I | 0.50% | ~4,186 |
-| Healthy Obsession | 0.50% | ~4,186 |
-| Resurgence | 0.50% | ~4,186 |
-| Preemptive Strike | 0.50% | ~4,186 |
-| Humanitarian | 0.50% | ~4,186 |
-| Agonizing Escape | 0.40% | ~3,349 |
-| I've got your back | 0.40% | ~3,349 |
-| Perfect Killing | 0.40% | ~3,349 |
-| Apt Killer | 0.40% | ~3,349 |
-| Risk it all | 0.40% | ~3,349 |
-| II | 0.40% | ~3,349 |
-| Engineer | 0.40% | ~3,349 |
-| Wounded Healer | 0.40% | ~3,349 |
-| Close Shave | 0.40% | ~3,349 |
-| Second Act | 0.40% | ~3,349 |
+| It wakes | 1.00% | ~8,374 |
+| Skillful | 1.00% | ~8,374 |
+| MU/TH/UR Dearest | 1.00% | ~8,374 |
+| Zealous | 0.90% | ~7,537 |
+| Not half bad | 0.80% | ~6,700 |
+| Make Some Noise | 0.80% | ~6,700 |
+| Handyman | 0.70% | ~5,862 |
+| Apt Survivor | 0.70% | ~5,862 |
+| Survival Treasures | 0.70% | ~5,862 |
+| No one left behind | 0.60% | ~5,025 |
+| Medic | 0.60% | ~5,025 |
+| Nerves of steel | 0.60% | ~5,025 |
+| Bloody Millionaire | 0.60% | ~5,025 |
+| I | 0.60% | ~5,025 |
+| Sorted | 0.60% | ~5,025 |
+| Terror of LV-426 | 0.60% | ~5,025 |
+| The Grand Sacrifice | 0.50% | ~4,187 |
+| Backdoor Escape | 0.50% | ~4,187 |
+| Perfect Escape | 0.50% | ~4,187 |
+| Healthy Obsession | 0.50% | ~4,187 |
+| Resurgence | 0.50% | ~4,187 |
+| Preemptive Strike | 0.50% | ~4,187 |
+| Humanitarian | 0.50% | ~4,187 |
+| Agonizing Escape | 0.40% | ~3,350 |
+| I've got your back | 0.40% | ~3,350 |
+| Perfect Killing | 0.40% | ~3,350 |
+| Apt Killer | 0.40% | ~3,350 |
+| Risk it all | 0.40% | ~3,350 |
+| II | 0.40% | ~3,350 |
+| Engineer | 0.40% | ~3,350 |
+| Wounded Healer | 0.40% | ~3,350 |
+| Close Shave | 0.40% | ~3,350 |
+| Second Act | 0.40% | ~3,350 |
 | Vulture | 0.30% | ~2,512 |
 | III | 0.30% | ~2,512 |
 | First to the Punch | 0.30% | ~2,512 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~837 |
 | Adept Ripley | 0.10% | ~837 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 837,274 (Ranked 15)  
+Progressed: 837,438 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -370,7 +370,7 @@ Completed: 48 (0.01%) (Ranked 258)
 | 2023-08-29 | 828,020 | 48 |
 | 2023-08-30 | 831,117 | 48 |
 | 2023-08-31 | 834,142 | 48 |
-| 2023-09-01 | 837,274 | 48 |
+| 2023-09-01 | 837,438 | 48 |
 ## Awards
 Max (Diverse Characters): 31,778  (Ranked 15)  
 Sum: 249,224 (Ranked 11)  

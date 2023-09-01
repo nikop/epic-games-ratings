@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 17,
   "Ranking_EOS_Progress": 571,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewPlayers": 342,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2020-01-16T08:00:00+00:00",
@@ -10121,10 +10121,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 90536,
       "NumberOfAwardsMax": 11279
+    },
+    {
+      "Time": "2023-09-01T22:57:45.1786268+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 90538,
+      "NumberOfAwardsMax": 11279
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 90536,
+  "NumberOfAwards": 90538,
   "NumberOfAwardsMax": 11279,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -10192,7 +10198,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 5900
+      "Count": 5902
     }
   ],
   "EOS_Progressed": 0,
@@ -10206,8 +10212,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2023-09-01T20:57:54.897964+00:00",
+  "LastChanged": "2023-09-01T22:57:45.1786267+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:59.4812107+00:00",
-  "LastUpdate_Ratings": "2023-09-01T21:57:40.7138818+00:00",
-  "LastUpdate_Achievements": "2023-09-01T22:05:53.4375248+00:00"
+  "LastUpdate_Ratings": "2023-09-01T22:57:45.1786274+00:00",
+  "LastUpdate_Achievements": "2023-09-01T23:06:15.6815969+00:00"
 }

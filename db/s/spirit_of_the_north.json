@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 413,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 62,
+  "Ranking_EOS_NewPlayers": 63,
   "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
@@ -324,9 +324,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 67633,
+  "EOS_Progressed": 67634,
   "EOS_Completed": 351,
-  "EOS_NewPlayers": 767,
+  "EOS_NewPlayers": 765,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -14949,6 +14949,11 @@
       "Time": "2023-09-01T22:07:11.4307618+00:00",
       "NumProgressed": 67633,
       "NumCompleted": 351
+    },
+    {
+      "Time": "2023-09-01T23:07:34.3977433+00:00",
+      "NumProgressed": 67634,
+      "NumCompleted": 351
     }
   ],
   "TotalAchievements": 24,
@@ -14976,7 +14981,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 45990
+      "UsersEstimate": 45991
     },
     {
       "ID": "BEST_FRIENDS",
@@ -15040,7 +15045,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 35845
+      "UsersEstimate": 35846
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -15151,7 +15156,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 67633,
+      "Progressed": 67634,
       "Completed": 351
     }
   ],
@@ -15159,8 +15164,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-09-01T22:07:11.4307613+00:00",
+  "LastChanged_Achievements": "2023-09-01T23:07:34.3977428+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:56.7708219+00:00",
-  "LastUpdate_Ratings": "2023-09-01T21:59:04.580999+00:00",
-  "LastUpdate_Achievements": "2023-09-01T22:07:11.430908+00:00"
+  "LastUpdate_Ratings": "2023-09-01T22:59:13.228633+00:00",
+  "LastUpdate_Achievements": "2023-09-01T23:07:34.3978502+00:00"
 }

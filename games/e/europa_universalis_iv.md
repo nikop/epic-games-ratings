@@ -6,13 +6,13 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~15,439 |
-| That's a Grand Army | 3.00% | ~11,579 |
-| That is mine! | 3.00% | ~11,579 |
-| Victorious! | 3.00% | ~11,579 |
-| Brothers in Arms | 2.00% | ~7,720 |
-| That's a Grand Navy | 2.00% | ~7,720 |
-| Seriously?! | 2.00% | ~7,720 |
+| Until death do us apart | 4.00% | ~15,442 |
+| That's a Grand Army | 3.00% | ~11,581 |
+| That is mine! | 3.00% | ~11,581 |
+| Victorious! | 3.00% | ~11,581 |
+| Brothers in Arms | 2.00% | ~7,721 |
+| That's a Grand Navy | 2.00% | ~7,721 |
+| Seriously?! | 2.00% | ~7,721 |
 | Cold War | 1.00% | ~3,860 |
 | Defender of the Faith | 1.00% | ~3,860 |
 | For the Glory | 1.00% | ~3,860 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 385,979 (Ranked 41)  
+Progressed: 386,048 (Ranked 41)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -495,10 +495,10 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-08-29 | 380,378 | 0 |
 | 2023-08-30 | 382,380 | 0 |
 | 2023-08-31 | 384,237 | 0 |
-| 2023-09-01 | 385,979 | 0 |
+| 2023-09-01 | 386,048 | 0 |
 ## Awards
 Max (Educational): 5,880  (Ranked 58)  
-Sum: 48,386 (Ranked 26)  
+Sum: 48,402 (Ranked 26)  
 Diff (max vs sum): 32  
 | Award | Count |
 | ----- | ----- |
@@ -508,7 +508,7 @@ Diff (max vs sum): 32
 | This game has Challenging Combat | 5,556 |
 | This game has Diverse Characters | 5,553 |
 | This game is Relaxing | 5,412 |
-| This game has Competitive Players | 5,272 |
+| This game has Competitive Players | 5,288 |
 | This game has Amazing Storytelling | 4,953 |
 | This game has Amazing Characters | 4,576 |
 | This game has Obsessive Gameplay | 3,351 |
@@ -742,4 +742,4 @@ Diff (max vs sum): 32
 | 2023-08-29 | 4.68 | - | 5,827 | 48,068 |
 | 2023-08-30 | 4.68 | - | 5,840 | 48,158 |
 | 2023-08-31 | 4.68 | - | 5,861 | 48,281 |
-| 2023-09-01 | 4.68 | - | 5,880 | 48,386 |
+| 2023-09-01 | 4.68 | - | 5,880 | 48,402 |

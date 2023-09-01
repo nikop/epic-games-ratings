@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 97.00% | ~703 |
-| Friendzone | 80.00% | ~580 |
-| Space Colonization | 80.00% | ~580 |
+| Don't Panic! | 97.00% | ~704 |
+| Friendzone | 80.00% | ~581 |
+| Space Colonization | 80.00% | ~581 |
 | Hello World | 75.00% | ~544 |
-| Space Engineer | 64.00% | ~464 |
+| Space Engineer | 64.00% | ~465 |
 | Tinkerer | 63.00% | ~457 |
-| Dust to Dust | 58.00% | ~420 |
+| Dust to Dust | 58.00% | ~421 |
 | Across The Stars | 48.00% | ~348 |
 | Crafty | 48.00% | ~348 |
 | All Seats Taken | 39.00% | ~283 |
 | For Science! | 35.00% | ~254 |
 | Meet the Petersons | 32.00% | ~232 |
-| Stay Cool | 29.00% | ~210 |
+| Stay Cool | 29.00% | ~211 |
 | KIA | 27.00% | ~196 |
 | Mutiny in making | 24.00% | ~174 |
 | Et tu, Astrocitizen? | 20.00% | ~145 |
@@ -36,8 +36,8 @@
 | The Improvinator | 4.00% | ~29 |
 | The Last Supper | 3.00% | ~22 |
 | 2018: A Soup Odyssey | 3.00% | ~22 |
-| Bovine Domain | 2.00% | ~14 |
-| That's No Moon! | 2.00% | ~14 |
+| Bovine Domain | 2.00% | ~15 |
+| That's No Moon! | 2.00% | ~15 |
 | AAARGH! | 1.00% | ~7 |
 | Bingpot! | 1.00% | ~7 |
 | Feels like home | 1.00% | ~7 |
@@ -49,7 +49,7 @@
 | Liberté, Égalité, Félinité | 0.10% | ~1 |
 | Man's best comrade | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 725 (Ranked 215)  
+Progressed: 726 (Ranked 215)  
 Completed: 1 (0.14%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 1 (0.14%) (Ranked 208)
 | 2023-08-23 | 721 | 1 |
 | 2023-08-30 | 722 | 1 |
 | 2023-08-31 | 723 | 1 |
-| 2023-09-01 | 725 | 1 |
+| 2023-09-01 | 726 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

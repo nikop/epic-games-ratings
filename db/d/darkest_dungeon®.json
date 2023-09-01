@@ -3,11 +3,11 @@
   "Name": "Darkest Dungeon\u00AE",
   "ProductSlug": "darkest-dungeon",
   "Ranking_Rating": 116,
-  "Ranking_Popularity": 90,
+  "Ranking_Popularity": 91,
   "Ranking_PopularitySum": 93,
   "Ranking_EOS_Progress": 571,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewPlayers": 342,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2020-12-25T16:00:00+00:00",
@@ -4665,6 +4665,6 @@
   "FirstSeen": "2022-07-22T20:19:59.2764084+00:00",
   "LastChanged": "2023-09-01T01:44:56.0092011+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:56:59.5231127+00:00",
-  "LastUpdate_Ratings": "2023-09-01T21:59:06.0007592+00:00",
-  "LastUpdate_Achievements": "2023-09-01T22:06:32.9833894+00:00"
+  "LastUpdate_Ratings": "2023-09-01T22:59:14.8215039+00:00",
+  "LastUpdate_Achievements": "2023-09-01T23:06:56.2754121+00:00"
 }

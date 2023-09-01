@@ -2,12 +2,12 @@
   "ID": "affc33b82405457595a032f00284abd2",
   "Name": "Killing Floor 2",
   "ProductSlug": "killing-floor-2",
-  "Ranking_Rating": 678,
+  "Ranking_Rating": 666,
   "Ranking_Popularity": 28,
   "Ranking_PopularitySum": 43,
   "Ranking_EOS_Progress": 571,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewPlayers": 342,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2020-07-09T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.42,
+  "Rating": 4.43,
   "NumberOfRatings": 18418,
   "RatingHistory": [
     {
@@ -8122,10 +8122,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 28110,
       "NumberOfAwardsMax": 12729
+    },
+    {
+      "Time": "2023-09-01T23:00:27.7368778+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 28119,
+      "NumberOfAwardsMax": 12729
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28110,
+  "NumberOfAwards": 28119,
   "NumberOfAwardsMax": 12729,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -8163,7 +8169,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1871
+      "Count": 1876
     },
     {
       "Text": "This game has Amazing Characters",
@@ -8175,7 +8181,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1776
+      "Count": 1780
     },
     {
       "Text": "This game has Challenging Combat",
@@ -8201,8 +8207,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:46.1518671+00:00",
-  "LastChanged": "2023-09-01T19:59:46.6149347+00:00",
+  "LastChanged": "2023-09-01T23:00:27.7368777+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:58:02.6690741+00:00",
-  "LastUpdate_Ratings": "2023-09-01T22:00:18.5946073+00:00",
-  "LastUpdate_Achievements": "2023-09-01T22:06:44.2043181+00:00"
+  "LastUpdate_Ratings": "2023-09-01T23:00:27.7368784+00:00",
+  "LastUpdate_Achievements": "2023-09-01T23:07:07.3766464+00:00"
 }

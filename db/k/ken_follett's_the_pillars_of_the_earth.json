@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 377,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -495,9 +495,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14962,
+  "EOS_Progressed": 14963,
   "EOS_Completed": 110,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -9345,6 +9345,11 @@
       "Time": "2023-09-01T20:07:00.7569502+00:00",
       "NumProgressed": 14962,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2023-09-01T23:07:38.5176262+00:00",
+      "NumProgressed": 14963,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 41,
@@ -9396,7 +9401,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4937
+      "UsersEstimate": 4938
     },
     {
       "ID": "tpote_achievement_15",
@@ -9444,7 +9449,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 4937
+      "UsersEstimate": 4938
     },
     {
       "ID": "tpote_achievement_20",
@@ -9468,7 +9473,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2992
+      "UsersEstimate": 2993
     },
     {
       "ID": "tpote_achievement_23",
@@ -9492,7 +9497,7 @@
       "Name": "Revenge",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "tpote_achievement_26",
@@ -9516,7 +9521,7 @@
       "Name": "Whodunnit",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1795
+      "UsersEstimate": 1796
     },
     {
       "ID": "tpote_achievement_29",
@@ -9580,7 +9585,7 @@
       "Name": "Self-defense",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "tpote_achievement_36",
@@ -9604,7 +9609,7 @@
       "Name": "Countess Aliena",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "tpote_achievement_39",
@@ -9620,7 +9625,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 6134
+      "UsersEstimate": 6135
     },
     {
       "ID": "tpote_achievement_40",
@@ -9683,15 +9688,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14962,
+      "Progressed": 14963,
       "Completed": 110
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-08-03T13:08:30.3350415+00:00",
-  "LastChanged_Achievements": "2023-09-01T22:07:15.2862603+00:00",
+  "LastChanged_Achievements": "2023-09-01T23:07:38.5176258+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:35.7712512+00:00",
-  "LastUpdate_Ratings": "2023-09-01T21:59:43.3610808+00:00",
-  "LastUpdate_Achievements": "2023-09-01T22:07:15.2863518+00:00"
+  "LastUpdate_Ratings": "2023-09-01T22:59:53.2548308+00:00",
+  "LastUpdate_Achievements": "2023-09-01T23:07:38.5177267+00:00"
 }

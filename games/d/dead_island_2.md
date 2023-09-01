@@ -23,10 +23,10 @@ Rating: 4.54 (Ranked 503)
 | A Patton Emerges | 0.60% | ~4,027 |
 | Stacking the Deck | 0.60% | ~4,027 |
 | This is My Weapon | 0.60% | ~4,027 |
-| Slayer Squad | 0.50% | ~3,355 |
-| Ooh, Shiny! | 0.50% | ~3,355 |
-| I Am the Resurrection | 0.50% | ~3,355 |
-| Our True Nature | 0.50% | ~3,355 |
+| Slayer Squad | 0.50% | ~3,356 |
+| Ooh, Shiny! | 0.50% | ~3,356 |
+| I Am the Resurrection | 0.50% | ~3,356 |
+| Our True Nature | 0.50% | ~3,356 |
 | Making Your Mark | 0.40% | ~2,684 |
 | Anger Management | 0.40% | ~2,684 |
 | Perks of the Job | 0.40% | ~2,684 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 503)
 | Survival Skills | 0.10% | ~671 |
 | Bucket List | 0.10% | ~671 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 671,085 (Ranked 22)  
+Progressed: 671,108 (Ranked 22)  
 Completed: 2,097 (0.31%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 2,097 (0.31%) (Ranked 177)
 | 2023-08-29 | 668,912 | 2,088 |
 | 2023-08-30 | 669,636 | 2,094 |
 | 2023-08-31 | 670,394 | 2,097 |
-| 2023-09-01 | 671,085 | 2,097 |
+| 2023-09-01 | 671,108 | 2,097 |
 ## Awards
 Max (Great Boss Battles): 5,846  (Ranked 60)  
 Sum: 8,613 (Ranked 96)  

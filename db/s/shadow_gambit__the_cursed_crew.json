@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 569,
+  "EOS_Progressed": 570,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.58,
   "EosHistory": [
@@ -1291,6 +1291,11 @@
       "Time": "2023-09-01T21:06:37.9937386+00:00",
       "NumProgressed": 569,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-01T23:06:21.0552155+00:00",
+      "NumProgressed": 570,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1319,7 +1324,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1327,7 +1332,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "_05_FinishAct2",
@@ -1335,7 +1340,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -1367,7 +1372,7 @@
       "Name": "Powder Monkey",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "_10_Completion_30",
@@ -1383,7 +1388,7 @@
       "Name": "Seadog",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "_12_Completion_50",
@@ -1510,14 +1515,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 569,
+      "Progressed": 570,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-09-01T22:05:58.7086083+00:00",
+  "LastChanged_Achievements": "2023-09-01T23:06:21.0552149+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:45.1302228+00:00",
-  "LastUpdate_Ratings": "2023-09-01T21:57:49.2447927+00:00",
-  "LastUpdate_Achievements": "2023-09-01T22:05:58.7086352+00:00"
+  "LastUpdate_Ratings": "2023-09-01T22:57:54.2311822+00:00",
+  "LastUpdate_Achievements": "2023-09-01T23:06:21.0552566+00:00"
 }

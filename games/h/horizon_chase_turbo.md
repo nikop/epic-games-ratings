@@ -6,26 +6,26 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~933,052 |
-| I Need a Bigger Garage | 63.00% | ~653,137 |
-| Pump my Ride | 47.00% | ~487,261 |
-| Ghostbuster | 33.00% | ~342,119 |
-| That Was Close | 18.00% | ~186,610 |
-| Call Roadside Assistance | 17.00% | ~176,243 |
-| Quickie | 11.00% | ~114,040 |
-| California Dreamer | 7.00% | ~72,571 |
-| Can't Touch This | 5.00% | ~51,836 |
+| The First of Many | 90.00% | ~933,070 |
+| I Need a Bigger Garage | 63.00% | ~653,149 |
+| Pump my Ride | 47.00% | ~487,270 |
+| Ghostbuster | 33.00% | ~342,126 |
+| That Was Close | 18.00% | ~186,614 |
+| Call Roadside Assistance | 17.00% | ~176,247 |
+| Quickie | 11.00% | ~114,042 |
+| California Dreamer | 7.00% | ~72,572 |
+| Can't Touch This | 5.00% | ~51,837 |
 | Carménère Taster | 3.00% | ~31,102 |
 | Supersonic | 3.00% | ~31,102 |
 | Comeback | 3.00% | ~31,102 |
 | Marathonist | 3.00% | ~31,102 |
 | Living Legend | 3.00% | ~31,102 |
-| Driver from Ipanema | 2.00% | ~20,734 |
-| God of Roads | 2.00% | ~20,734 |
-| Pathfinder | 2.00% | ~20,734 |
-| Go-Kart Champion | 2.00% | ~20,734 |
-| Completionist | 2.00% | ~20,734 |
-| Harder, Better, Faster, Stronger | 2.00% | ~20,734 |
+| Driver from Ipanema | 2.00% | ~20,735 |
+| God of Roads | 2.00% | ~20,735 |
+| Pathfinder | 2.00% | ~20,735 |
+| Go-Kart Champion | 2.00% | ~20,735 |
+| Completionist | 2.00% | ~20,735 |
+| Harder, Better, Faster, Stronger | 2.00% | ~20,735 |
 | The Iceman | 1.00% | ~10,367 |
 | Bollywood Star | 1.00% | ~10,367 |
 | Oil Tycoon | 1.00% | ~10,367 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,037 |
 | Look Mom, No Hands! | 0.10% | ~1,037 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,036,725 (Ranked 12)  
+Progressed: 1,036,745 (Ranked 12)  
 Completed: 411 (0.04%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 411 (0.04%) (Ranked 240)
 | 2023-08-29 | 1,035,202 | 407 |
 | 2023-08-30 | 1,035,723 | 408 |
 | 2023-08-31 | 1,036,247 | 409 |
-| 2023-09-01 | 1,036,725 | 411 |
+| 2023-09-01 | 1,036,745 | 411 |
 ## Awards
 Max (Great for Beginners): 153  (Ranked 296)  
 Sum: 1,265 (Ranked 229)  

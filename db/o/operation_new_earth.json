@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1193,
+  "EOS_Progressed": 1194,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
@@ -4206,6 +4206,11 @@
       "Time": "2023-09-01T20:05:42.9118997+00:00",
       "NumProgressed": 1193,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-01T23:06:05.209048+00:00",
+      "NumProgressed": 1194,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4233,7 +4238,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ach_defeat_players_100",
@@ -4321,7 +4326,7 @@
       "Name": "Facility Online",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -4520,14 +4525,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1193,
+      "Progressed": 1194,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-01T22:05:43.1991632+00:00",
+  "LastChanged_Achievements": "2023-09-01T23:06:05.2090474+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:58:05.1002416+00:00",
-  "LastUpdate_Ratings": "2023-09-01T22:00:20.006108+00:00",
-  "LastUpdate_Achievements": "2023-09-01T22:05:43.1992182+00:00"
+  "LastUpdate_Ratings": "2023-09-01T23:00:29.4735066+00:00",
+  "LastUpdate_Achievements": "2023-09-01T23:06:05.209142+00:00"
 }
