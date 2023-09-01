@@ -26,8 +26,8 @@
 | 23 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
 | 23 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.11% |
 | 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.95% |
-| 27 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.71% |
-| 28 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.51% |
+| 27 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.51% |
+| 28 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.34% |
 | 29 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
 | 30 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 9.09% |
 | 30 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
@@ -138,9 +138,9 @@
 | 136 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.67% |
 | 137 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.66% |
 | 138 | [Haven](games/h/haven.md) | 0.64% |
-| 139 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.62% |
-| 140 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
-| 140 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.61% |
+| 139 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
+| 139 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.61% |
+| 139 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.61% |
 | 142 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.59% |
 | 143 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.58% |
 | 143 | [Potion Permit](games/p/potion_permit.md) | 0.58% |
