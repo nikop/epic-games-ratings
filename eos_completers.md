@@ -3,7 +3,7 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 49.37% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.31% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 35.54% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 35.25% |
 | 5 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 33.33% |
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.95% |
 | 7 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
@@ -38,7 +38,7 @@
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.73% |
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
 | 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.10% |
-| 39 | [Scorn](games/s/scorn.md) | 7.00% |
+| 39 | [Scorn](games/s/scorn.md) | 6.99% |
 | 40 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.90% |
 | 41 | [Time Loader](games/t/time_loader.md) | 6.78% |
 | 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.76% |
@@ -92,7 +92,7 @@
 | 90 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.24% |
 | 91 | [Bloodshore](games/b/bloodshore.md) | 2.19% |
 | 92 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
-| 93 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.07% |
+| 93 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.06% |
 | 94 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.00% |
 | 95 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
 | 95 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.92% |
@@ -148,8 +148,8 @@
 | 146 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.56% |
 | 146 | [Grindstone](games/g/grindstone.md) | 0.56% |
 | 148 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
-| 149 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.53% |
-| 149 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.53% |
+| 149 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.54% |
+| 150 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.53% |
 | 151 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.52% |
 | 151 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
 | 153 | [Aragami 2](games/a/aragami_2.md) | 0.51% |
@@ -160,9 +160,9 @@
 | 157 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.46% |
 | 159 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.45% |
 | 159 | [Train Valley](games/t/train_valley.md) | 0.45% |
-| 161 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.43% |
 | 161 | [Tails of Iron](games/t/tails_of_iron.md) | 0.43% |
 | 161 | [Tchia](games/t/tchia.md) | 0.43% |
+| 163 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.42% |
 | 164 | [Ghostrunner](games/g/ghostrunner.md) | 0.40% |
 | 164 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 166 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.37% |
@@ -568,4 +568,4 @@
 | 270 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 270 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 270 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,154 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,155 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
