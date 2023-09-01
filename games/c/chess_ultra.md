@@ -5,34 +5,34 @@ Rating: 4.29 (Ranked 802)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 69.00% | ~140,932 |
-| Doubled Pawn | 56.00% | ~114,380 |
-| Check | 55.00% | ~112,338 |
-| Absolute pin | 46.00% | ~93,955 |
-| Promotion | 30.00% | ~61,275 |
-| Checkmate | 29.00% | ~59,232 |
+| Chop Wood | 69.00% | ~140,934 |
+| Doubled Pawn | 56.00% | ~114,381 |
+| Check | 55.00% | ~112,339 |
+| Absolute pin | 46.00% | ~93,956 |
+| Promotion | 30.00% | ~61,276 |
+| Checkmate | 29.00% | ~59,233 |
 | O-O | 23.00% | ~46,978 |
-| Spanish Bishop | 21.00% | ~42,892 |
+| Spanish Bishop | 21.00% | ~42,893 |
 | Queen Sacrifice | 20.00% | ~40,850 |
 | Stalemate | 18.00% | ~36,765 |
-| O-O-O | 13.00% | ~26,552 |
-| Octopus | 13.00% | ~26,552 |
+| O-O-O | 13.00% | ~26,553 |
+| Octopus | 13.00% | ~26,553 |
 | Stranger Danger | 12.00% | ~24,510 |
-| En Passant | 9.00% | ~18,382 |
+| En Passant | 9.00% | ~18,383 |
 | Double Check | 7.00% | ~14,298 |
 | Piece Collector | 6.00% | ~12,255 |
-| ELO | 5.00% | ~10,212 |
-| Family Fork | 5.00% | ~10,212 |
-| Friendly Fire | 5.00% | ~10,212 |
+| ELO | 5.00% | ~10,213 |
+| Family Fork | 5.00% | ~10,213 |
+| Friendly Fire | 5.00% | ~10,213 |
 | Underpromote | 4.00% | ~8,170 |
 | ELO ELO | 3.00% | ~6,128 |
 | Blind Pigs | 2.00% | ~4,085 |
 | ELO ELO ELO | 2.00% | ~4,085 |
 | Learner | 2.00% | ~4,085 |
-| Bobby Time | 1.00% | ~2,042 |
+| Bobby Time | 1.00% | ~2,043 |
 | Back-rank Mate | 0.90% | ~1,838 |
 | Chess Champion | 0.30% | ~613 |
-| Alekhine’s gun | 0.20% | ~408 |
+| Alekhine’s gun | 0.20% | ~409 |
 | Boden’s Mate | 0.10% | ~204 |
 | Epaulette Mate | 0.10% | ~204 |
 | Fool’s Mate | 0.10% | ~204 |
@@ -44,7 +44,7 @@ Rating: 4.29 (Ranked 802)
 | Tournament Master | 0.10% | ~204 |
 | Tournament Pro | 0.10% | ~204 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 204,250 (Ranked 59)  
+Progressed: 204,252 (Ranked 59)  
 Completed: 2 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 2 (0.00%) (Ranked 270)
 | 2023-08-29 | 203,780 | 2 |
 | 2023-08-30 | 204,013 | 2 |
 | 2023-08-31 | 204,223 | 2 |
-| 2023-09-01 | 204,250 | 2 |
+| 2023-09-01 | 204,252 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

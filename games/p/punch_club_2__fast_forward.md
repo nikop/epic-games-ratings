@@ -35,7 +35,7 @@
 | Fight for life | 56.00% | ~167 |
 | Legal courier | 53.00% | ~158 |
 | Extreme neuropower! | 53.00% | ~158 |
-| Escaped from a big trouble | 49.00% | ~146 |
+| Escaped from a big trouble | 50.00% | ~149 |
 | Now you are worthy | 48.00% | ~143 |
 | Guiding on the right path | 45.00% | ~134 |
 | Fight is life | 44.00% | ~131 |

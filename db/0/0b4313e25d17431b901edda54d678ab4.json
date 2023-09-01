@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 37,
+  "EOS_Progressed": 38,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -196,6 +196,11 @@
       "Time": "2023-08-31T22:05:37.4288383+00:00",
       "NumProgressed": 37,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-01T04:06:25.8764314+00:00",
+      "NumProgressed": 38,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 16,
@@ -213,15 +218,15 @@
       "ID": "earn3000",
       "SetID": "bma0pih",
       "Name": "Reach",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 60,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "fastBossKill",
       "SetID": "bma0pih",
       "Name": "Done in time",
-      "Percentage": 41,
+      "Percentage": 39,
       "XP": 50,
       "UsersEstimate": 15
     },
@@ -237,7 +242,7 @@
       "ID": "kill100",
       "SetID": "bma0pih",
       "Name": "Recruit",
-      "Percentage": 86,
+      "Percentage": 84,
       "XP": 15,
       "UsersEstimate": 32
     },
@@ -245,7 +250,7 @@
       "ID": "kill300",
       "SetID": "bma0pih",
       "Name": "Soldier",
-      "Percentage": 81,
+      "Percentage": 79,
       "XP": 100,
       "UsersEstimate": 30
     },
@@ -253,7 +258,7 @@
       "ID": "kill750",
       "SetID": "bma0pih",
       "Name": "War machine",
-      "Percentage": 76,
+      "Percentage": 74,
       "XP": 150,
       "UsersEstimate": 28
     },
@@ -269,9 +274,9 @@
       "ID": "leviathan01",
       "SetID": "bma0pih",
       "Name": "Flying death",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 55,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "leviathan02",
@@ -325,7 +330,7 @@
       "ID": "unlockPlasmaMoon",
       "SetID": "bma0pih",
       "Name": "Solar power",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 20,
       "UsersEstimate": 20
     }
@@ -334,14 +339,14 @@
     {
       "ID": "bma0pih",
       "IsBase": true,
-      "Progressed": 37,
+      "Progressed": 38,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-31T13:03:44.3512159+00:00",
   "FirstSeenAchievements": "2023-05-07T09:02:54.6493409+00:00",
-  "LastChanged_Achievements": "2023-09-01T03:06:01.4238353+00:00",
+  "LastChanged_Achievements": "2023-09-01T04:06:25.8764309+00:00",
   "LastUpdate_AppInfo": "2023-08-27T16:57:09.5121242+00:00",
-  "LastUpdate_Ratings": "2023-09-01T02:58:55.920792+00:00",
-  "LastUpdate_Achievements": "2023-09-01T03:06:01.4238524+00:00"
+  "LastUpdate_Ratings": "2023-09-01T03:58:59.39047+00:00",
+  "LastUpdate_Achievements": "2023-09-01T04:06:25.8764427+00:00"
 }

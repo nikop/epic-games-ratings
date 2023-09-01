@@ -2,7 +2,7 @@
   "ID": "a25444fc25e9498781983b58ceba30c5",
   "Name": "Black Widow: Recharged",
   "ProductSlug": "black-widow-recharged",
-  "Ranking_Rating": 858,
+  "Ranking_Rating": 859,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 112,
@@ -152,9 +152,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17677,
+  "EOS_Progressed": 17679,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 197,
+  "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -11137,6 +11137,11 @@
       "Time": "2023-09-01T03:05:11.05522+00:00",
       "NumProgressed": 17677,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-09-01T04:05:30.0248337+00:00",
+      "NumProgressed": 17679,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 14,
@@ -11148,7 +11153,7 @@
       "Name": "Across The Border",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 13965
+      "UsersEstimate": 13966
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -11188,7 +11193,7 @@
       "Name": "Everyone\u0027s Born to Die",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 2828
+      "UsersEstimate": 2829
     },
     {
       "ID": "ACH_HELLO_MY_OLD_FRIEND",
@@ -11204,7 +11209,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 9369
+      "UsersEstimate": 9370
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -11259,15 +11264,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 17677,
+      "Progressed": 17679,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-08-16T03:57:34.8125865+00:00",
-  "LastChanged_Achievements": "2023-09-01T03:05:11.0552194+00:00",
+  "LastChanged_Achievements": "2023-09-01T04:05:30.0248332+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:59.8893769+00:00",
-  "LastUpdate_Ratings": "2023-09-01T03:00:04.9386573+00:00",
-  "LastUpdate_Achievements": "2023-09-01T03:05:11.0553233+00:00"
+  "LastUpdate_Ratings": "2023-09-01T04:00:17.7492173+00:00",
+  "LastUpdate_Achievements": "2023-09-01T04:05:30.0248949+00:00"
 }

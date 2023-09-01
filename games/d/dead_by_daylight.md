@@ -6,29 +6,29 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MU/TH/UR Dearest | 1.00% | ~8,346 |
-| It wakes | 0.90% | ~7,511 |
-| Skillful | 0.80% | ~6,676 |
-| Zealous | 0.70% | ~5,842 |
-| Not half bad | 0.60% | ~5,007 |
-| Apt Survivor | 0.60% | ~5,007 |
-| Make Some Noise | 0.60% | ~5,007 |
+| MU/TH/UR Dearest | 1.00% | ~8,347 |
+| It wakes | 0.90% | ~7,512 |
+| Skillful | 0.80% | ~6,677 |
+| Zealous | 0.70% | ~5,843 |
+| Not half bad | 0.60% | ~5,008 |
+| Apt Survivor | 0.60% | ~5,008 |
+| Make Some Noise | 0.60% | ~5,008 |
 | Handyman | 0.50% | ~4,173 |
 | Survival Treasures | 0.50% | ~4,173 |
 | Sorted | 0.50% | ~4,173 |
 | Terror of LV-426 | 0.50% | ~4,173 |
-| The Grand Sacrifice | 0.40% | ~3,338 |
-| Backdoor Escape | 0.40% | ~3,338 |
-| No one left behind | 0.40% | ~3,338 |
-| Medic | 0.40% | ~3,338 |
-| Nerves of steel | 0.40% | ~3,338 |
-| Perfect Escape | 0.40% | ~3,338 |
-| Bloody Millionaire | 0.40% | ~3,338 |
-| I | 0.40% | ~3,338 |
-| Healthy Obsession | 0.40% | ~3,338 |
-| Resurgence | 0.40% | ~3,338 |
-| Preemptive Strike | 0.40% | ~3,338 |
-| Humanitarian | 0.40% | ~3,338 |
+| The Grand Sacrifice | 0.40% | ~3,339 |
+| Backdoor Escape | 0.40% | ~3,339 |
+| No one left behind | 0.40% | ~3,339 |
+| Medic | 0.40% | ~3,339 |
+| Nerves of steel | 0.40% | ~3,339 |
+| Perfect Escape | 0.40% | ~3,339 |
+| Bloody Millionaire | 0.40% | ~3,339 |
+| I | 0.40% | ~3,339 |
+| Healthy Obsession | 0.40% | ~3,339 |
+| Resurgence | 0.40% | ~3,339 |
+| Preemptive Strike | 0.40% | ~3,339 |
+| Humanitarian | 0.40% | ~3,339 |
 | Agonizing Escape | 0.30% | ~2,504 |
 | I've got your back | 0.30% | ~2,504 |
 | Perfect Killing | 0.30% | ~2,504 |
@@ -46,6 +46,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Vulture | 0.20% | ~1,669 |
 | III | 0.20% | ~1,669 |
 | III-50 | 0.20% | ~1,669 |
+| Shock Therapy | 0.20% | ~1,669 |
 | All Aboard | 0.20% | ~1,669 |
 | Item of Obsession | 0.20% | ~1,669 |
 | Holiday Get-Together | 0.20% | ~1,669 |
@@ -54,6 +55,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Unforgettable Getaway | 0.20% | ~1,669 |
 | Cutting Out | 0.20% | ~1,669 |
 | First to the Punch | 0.20% | ~1,669 |
+| Operation: Survival | 0.20% | ~1,669 |
 | Old West Oasis | 0.20% | ~1,669 |
 | Classy Act | 0.20% | ~1,669 |
 | Every Last Drop | 0.20% | ~1,669 |
@@ -83,7 +85,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | From the void she kills | 0.10% | ~835 |
 | Adept Nurse | 0.10% | ~835 |
 | Hemophobia | 0.10% | ~835 |
-| Shock Therapy | 0.10% | ~835 |
 | Adept Nea | 0.10% | ~835 |
 | Triggered | 0.10% | ~835 |
 | Even Punishment | 0.10% | ~835 |
@@ -152,7 +153,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Bill | 0.10% | ~835 |
 | Denied! | 0.10% | ~835 |
 | Tools of the Trade | 0.10% | ~835 |
-| Operation: Survival | 0.10% | ~835 |
 | Expert Generalist | 0.10% | ~835 |
 | Skilled Generalist | 0.10% | ~835 |
 | Broken Bodies | 0.10% | ~835 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~835 |
 | Adept Ripley | 0.10% | ~835 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 834,558 (Ranked 15)  
+Progressed: 834,651 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -370,10 +370,10 @@ Completed: 48 (0.01%) (Ranked 257)
 | 2023-08-29 | 828,020 | 48 |
 | 2023-08-30 | 831,117 | 48 |
 | 2023-08-31 | 834,142 | 48 |
-| 2023-09-01 | 834,558 | 48 |
+| 2023-09-01 | 834,651 | 48 |
 ## Awards
 Max (Diverse Characters): 31,726  (Ranked 15)  
-Sum: 248,913 (Ranked 11)  
+Sum: 248,945 (Ranked 11)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
@@ -382,7 +382,7 @@ Diff (max vs sum): 4
 | This game has Competitive Players | 28,383 |
 | This game has Amazing Characters | 28,138 |
 | This game is Extremely Fun | 27,908 |
-| This game has Quickly Understood Controls | 27,585 |
+| This game has Quickly Understood Controls | 27,617 |
 | This game has Challenging Combat | 27,282 |
 | This game has Amazing Storytelling | 25,581 |
 | This game has a Competitive Community | 23,890 |
@@ -611,3 +611,4 @@ Diff (max vs sum): 4
 | 2023-08-29 | 4.52 | - | 31,566 | 248,001 |
 | 2023-08-30 | 4.52 | - | 31,677 | 248,552 |
 | 2023-08-31 | 4.52 | - | 31,726 | 248,913 |
+| 2023-09-01 | 4.52 | - | 31,726 | 248,945 |

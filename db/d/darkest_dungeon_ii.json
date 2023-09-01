@@ -7197,9 +7197,9 @@
       "Count": 918
     }
   ],
-  "EOS_Progressed": 116491,
+  "EOS_Progressed": 116492,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 681,
+  "EOS_NewPlayers": 676,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20447,6 +20447,11 @@
       "Time": "2023-09-01T01:52:26.2496174+00:00",
       "NumProgressed": 116491,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-01T04:06:33.5147516+00:00",
+      "NumProgressed": 116492,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 65,
@@ -20466,7 +20471,7 @@
       "Name": "Serenity Now!",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 61740
+      "UsersEstimate": 61741
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -20490,7 +20495,7 @@
       "Name": "Resurrection",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 72224
+      "UsersEstimate": 72225
     },
     {
       "ID": "altar_of_hope_unlock_hero_hellion",
@@ -20498,7 +20503,7 @@
       "Name": "Unleash Hell",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 79214
+      "UsersEstimate": 79215
     },
     {
       "ID": "altar_of_hope_unlock_hero_jester",
@@ -20506,7 +20511,7 @@
       "Name": "Funny Guy",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 78049
+      "UsersEstimate": 78050
     },
     {
       "ID": "altar_of_hope_unlock_hero_leper",
@@ -20514,7 +20519,7 @@
       "Name": "Long Live the King",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 76884
+      "UsersEstimate": 76885
     },
     {
       "ID": "altar_of_hope_unlock_hero_occultist",
@@ -20522,7 +20527,7 @@
       "Name": "Wyrdly Reconstructed",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 72224
+      "UsersEstimate": 72225
     },
     {
       "ID": "altar_of_hope_unlock_hero_runaway",
@@ -20538,7 +20543,7 @@
       "Name": "Unfulfilled Desires",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 79214
+      "UsersEstimate": 79215
     },
     {
       "ID": "altar_of_hope_upgrade_total_full",
@@ -20602,7 +20607,7 @@
       "Name": "Banishment",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 34947
+      "UsersEstimate": 34948
     },
     {
       "ID": "combat_kill_death",
@@ -20698,7 +20703,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 20968
+      "UsersEstimate": 20969
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -20730,7 +20735,7 @@
       "Name": "It Happens",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 19803
+      "UsersEstimate": 19804
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -20834,7 +20839,7 @@
       "Name": "Whale",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 36112
+      "UsersEstimate": 36113
     },
     {
       "ID": "hospital_full_service",
@@ -20850,7 +20855,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 108337
+      "UsersEstimate": 108338
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -20866,7 +20871,7 @@
       "Name": "FNG",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 33782
+      "UsersEstimate": 33783
     },
     {
       "ID": "inn_visit_all_variants",
@@ -20914,7 +20919,7 @@
       "Name": "Unshackled",
       "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 78049
+      "UsersEstimate": 78050
     },
     {
       "ID": "run_victory_act02",
@@ -20977,15 +20982,15 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 116491,
+      "Progressed": 116492,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-09-01T01:45:36.8298428+00:00",
-  "LastChanged_Achievements": "2023-09-01T03:06:08.1817861+00:00",
+  "LastChanged_Achievements": "2023-09-01T04:06:33.5147512+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:29.712133+00:00",
-  "LastUpdate_Ratings": "2023-09-01T02:59:31.3614673+00:00",
-  "LastUpdate_Achievements": "2023-09-01T03:06:08.1819275+00:00"
+  "LastUpdate_Ratings": "2023-09-01T03:59:39.0481718+00:00",
+  "LastUpdate_Achievements": "2023-09-01T04:06:33.5148631+00:00"
 }

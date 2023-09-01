@@ -1,29 +1,29 @@
 # Remnant 2
 [Store](https://store.epicgames.com/en-US/p/remnant-2)  
 [View Rawdata](../../db/r/remnant_2.json)  
-Rating: 4.76 (Ranked 116)  
+Rating: 4.77 (Ranked 109)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~15,414 |
-| The Killing Jar | 8.00% | ~13,701 |
-| Not Your Average Trait | 8.00% | ~13,701 |
-| Expanding Horizons | 7.00% | ~11,988 |
-| Quest for Survival | 7.00% | ~11,988 |
-| Boss'n Up | 7.00% | ~11,988 |
-| Trait Chaser | 7.00% | ~11,988 |
-| Gleaming the Cube | 6.00% | ~10,276 |
-| Not a Janitor | 6.00% | ~10,276 |
-| Familiar Face | 6.00% | ~10,276 |
-| Blue Goddess | 6.00% | ~10,276 |
-| Duality | 6.00% | ~10,276 |
-| Top Performer | 6.00% | ~10,276 |
-| Good, But Could Be Better! | 6.00% | ~10,276 |
-| Not So Special Now | 5.00% | ~8,563 |
-| Equal Measures | 5.00% | ~8,563 |
-| Shhh...It's a Secret | 5.00% | ~8,563 |
-| Almost There | 5.00% | ~8,563 |
-| Make Some Room | 5.00% | ~8,563 |
+| First of Many | 9.00% | ~15,415 |
+| The Killing Jar | 8.00% | ~13,702 |
+| Not Your Average Trait | 8.00% | ~13,702 |
+| Expanding Horizons | 7.00% | ~11,990 |
+| Quest for Survival | 7.00% | ~11,990 |
+| Boss'n Up | 7.00% | ~11,990 |
+| Trait Chaser | 7.00% | ~11,990 |
+| Gleaming the Cube | 6.00% | ~10,277 |
+| Not a Janitor | 6.00% | ~10,277 |
+| Familiar Face | 6.00% | ~10,277 |
+| Blue Goddess | 6.00% | ~10,277 |
+| Duality | 6.00% | ~10,277 |
+| Top Performer | 6.00% | ~10,277 |
+| Good, But Could Be Better! | 6.00% | ~10,277 |
+| Not So Special Now | 5.00% | ~8,564 |
+| Equal Measures | 5.00% | ~8,564 |
+| Shhh...It's a Secret | 5.00% | ~8,564 |
+| Almost There | 5.00% | ~8,564 |
+| Make Some Room | 5.00% | ~8,564 |
 | Chaos | 4.00% | ~6,851 |
 | Traitor | 4.00% | ~6,851 |
 | Power Surge | 4.00% | ~6,851 |
@@ -41,22 +41,22 @@ Rating: 4.76 (Ranked 116)
 | Scrap Collector | 3.00% | ~5,138 |
 | The Ultimate Weapon | 3.00% | ~5,138 |
 | No One Should Have All That Power | 3.00% | ~5,138 |
-| Crafty | 2.00% | ~3,425 |
-| Am I Seeing This? | 2.00% | ~3,425 |
-| Only Human | 2.00% | ~3,425 |
-| Red Room | 2.00% | ~3,425 |
-| Tall Tales | 2.00% | ~3,425 |
-| Scrap Hoarder | 2.00% | ~3,425 |
-| Carnage in C-Minor | 2.00% | ~3,425 |
-| Maxed Out! | 2.00% | ~3,425 |
-| Transmutate | 2.00% | ~3,425 |
+| Crafty | 2.00% | ~3,426 |
+| Am I Seeing This? | 2.00% | ~3,426 |
+| Only Human | 2.00% | ~3,426 |
+| Red Room | 2.00% | ~3,426 |
+| Tall Tales | 2.00% | ~3,426 |
+| Scrap Hoarder | 2.00% | ~3,426 |
+| Carnage in C-Minor | 2.00% | ~3,426 |
+| Maxed Out! | 2.00% | ~3,426 |
+| Transmutate | 2.00% | ~3,426 |
 | The Trigger | 1.00% | ~1,713 |
 | Cutting Edge | 1.00% | ~1,713 |
 | The Collector | 1.00% | ~1,713 |
 | Ghost in the Machine | 0.80% | ~1,370 |
 | Proving Grounds | 0.80% | ~1,370 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 171,263 (Ranked 63)  
+Progressed: 171,279 (Ranked 63)  
 Completed: 187 (0.11%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 187 (0.11%) (Ranked 214)
 | 2023-08-29 | 169,673 | 169 |
 | 2023-08-30 | 170,451 | 178 |
 | 2023-08-31 | 171,187 | 186 |
-| 2023-09-01 | 171,263 | 187 |
+| 2023-09-01 | 171,279 | 187 |
 ## Awards
 Max (Great Boss Battles): 1,306  (Ranked 132)  
 Sum: 2,350 (Ranked 186)  
@@ -161,4 +161,4 @@ Diff (max vs sum): -54
 | 2023-08-29 | 4.77 | 1,254 | 2,212 |
 | 2023-08-30 | 4.76 | 1,280 | 2,273 |
 | 2023-08-31 | 4.76 | 1,306 | 2,346 |
-| 2023-09-01 | 4.76 | 1,306 | 2,350 |
+| 2023-09-01 | 4.77 | 1,306 | 2,350 |

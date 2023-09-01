@@ -5,7 +5,7 @@
   "Ranking_Rating": 581,
   "Ranking_Popularity": 477,
   "Ranking_PopularitySum": 485,
-  "Ranking_EOS_Progress": 156,
+  "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 104,
@@ -4199,9 +4199,9 @@
       "ID": "ACH_MAX_MEDIC",
       "SetID": "816efe",
       "Name": "Bandage Lover",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 578
+      "UsersEstimate": 610
     },
     {
       "ID": "ACH_MAX_RECON",
@@ -4408,8 +4408,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-08-31T19:59:01.3757088+00:00",
-  "LastChanged_Achievements": "2023-09-01T03:07:17.0815019+00:00",
+  "LastChanged_Achievements": "2023-09-01T04:07:50.3850962+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:04.9559458+00:00",
-  "LastUpdate_Ratings": "2023-09-01T02:59:14.194463+00:00",
-  "LastUpdate_Achievements": "2023-09-01T03:07:17.0815751+00:00"
+  "LastUpdate_Ratings": "2023-09-01T03:59:19.5306855+00:00",
+  "LastUpdate_Achievements": "2023-09-01T04:07:50.3851431+00:00"
 }

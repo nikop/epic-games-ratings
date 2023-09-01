@@ -36,8 +36,8 @@ Rating: 4.49 (Ranked 581)
 | One For Every Occasion | 20.00% | ~642 |
 | Frontliner | 20.00% | ~642 |
 | Abysmal Horrors | 20.00% | ~642 |
+| Bandage Lover | 19.00% | ~610 |
 | The Cable Guy | 19.00% | ~610 |
-| Bandage Lover | 18.00% | ~578 |
 | Regicide | 15.00% | ~482 |
 | This Went Smoothly | 13.00% | ~417 |
 | Flawless Victory | 12.00% | ~385 |
@@ -51,7 +51,7 @@ Rating: 4.49 (Ranked 581)
 | This Ain't No Picnic | 0.70% | ~22 |
 | Chalk It Up To Experience | 0.70% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,210 (Ranked 156)  
+Progressed: 3,210 (Ranked 157)  
 Completed: 3 (0.09%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
