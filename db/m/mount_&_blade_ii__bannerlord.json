@@ -6825,9 +6825,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 60058,
+  "EOS_Progressed": 60061,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 470,
+  "EOS_NewPlayers": 472,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20965,6 +20965,11 @@
       "Time": "2023-09-01T00:06:21.7706731+00:00",
       "NumProgressed": 60058,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-01T01:53:54.736337+00:00",
+      "NumProgressed": 60061,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -20992,7 +20997,7 @@
       "Name": "Bannerlord",
       "Percentage": 23,
       "XP": 65,
-      "UsersEstimate": 13813
+      "UsersEstimate": 13814
     },
     {
       "ID": "Best served cold",
@@ -21136,7 +21141,7 @@
       "Name": "Horde breaker",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 13813
+      "UsersEstimate": 13814
     },
     {
       "ID": "I can do it",
@@ -21184,7 +21189,7 @@
       "Name": "Know your enemy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3603
+      "UsersEstimate": 3604
     },
     {
       "ID": "Lance-a-lot",
@@ -21200,7 +21205,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 19219
+      "UsersEstimate": 19220
     },
     {
       "ID": "Lawbringer",
@@ -21208,7 +21213,7 @@
       "Name": "Lawbringer",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 22822
+      "UsersEstimate": 22823
     },
     {
       "ID": "Lawmaker",
@@ -21216,7 +21221,7 @@
       "Name": "Lawmaker",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 13813
+      "UsersEstimate": 13814
     },
     {
       "ID": "Long live the Empire",
@@ -21328,7 +21333,7 @@
       "Name": "The king is pleased",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 10810
+      "UsersEstimate": 10811
     },
     {
       "ID": "This Is Our Land",
@@ -21336,7 +21341,7 @@
       "Name": "This Is Our Land",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 6606
+      "UsersEstimate": 6607
     },
     {
       "ID": "This is Sparta",
@@ -21383,15 +21388,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 60058,
+      "Progressed": 60061,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-08-31T18:59:01.5569844+00:00",
-  "LastChanged_Achievements": "2023-09-01T00:06:21.7706728+00:00",
+  "LastChanged_Achievements": "2023-09-01T01:53:54.7363361+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:26.1294952+00:00",
-  "LastUpdate_Ratings": "2023-08-31T23:58:45.9255896+00:00",
-  "LastUpdate_Achievements": "2023-09-01T00:06:21.7707761+00:00"
+  "LastUpdate_Ratings": "2023-09-01T01:45:31.1116801+00:00",
+  "LastUpdate_Achievements": "2023-09-01T01:53:54.7365026+00:00"
 }

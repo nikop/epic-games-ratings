@@ -6,28 +6,28 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MU/TH/UR Dearest | 0.90% | ~7,508 |
-| It wakes | 0.80% | ~6,674 |
-| Zealous | 0.70% | ~5,840 |
-| Skillful | 0.70% | ~5,840 |
-| Not half bad | 0.60% | ~5,005 |
-| Make Some Noise | 0.60% | ~5,005 |
-| Handyman | 0.50% | ~4,171 |
-| Apt Survivor | 0.50% | ~4,171 |
-| Survival Treasures | 0.50% | ~4,171 |
-| Terror of LV-426 | 0.50% | ~4,171 |
-| The Grand Sacrifice | 0.40% | ~3,337 |
-| Backdoor Escape | 0.40% | ~3,337 |
-| No one left behind | 0.40% | ~3,337 |
-| Medic | 0.40% | ~3,337 |
-| Nerves of steel | 0.40% | ~3,337 |
-| Perfect Escape | 0.40% | ~3,337 |
-| Bloody Millionaire | 0.40% | ~3,337 |
-| I | 0.40% | ~3,337 |
-| Sorted | 0.40% | ~3,337 |
-| Healthy Obsession | 0.40% | ~3,337 |
-| Resurgence | 0.40% | ~3,337 |
-| Preemptive Strike | 0.40% | ~3,337 |
+| MU/TH/UR Dearest | 1.00% | ~8,344 |
+| It wakes | 0.80% | ~6,675 |
+| Zealous | 0.70% | ~5,841 |
+| Skillful | 0.70% | ~5,841 |
+| Not half bad | 0.60% | ~5,007 |
+| Make Some Noise | 0.60% | ~5,007 |
+| Handyman | 0.50% | ~4,172 |
+| Apt Survivor | 0.50% | ~4,172 |
+| Survival Treasures | 0.50% | ~4,172 |
+| Terror of LV-426 | 0.50% | ~4,172 |
+| The Grand Sacrifice | 0.40% | ~3,338 |
+| Backdoor Escape | 0.40% | ~3,338 |
+| No one left behind | 0.40% | ~3,338 |
+| Medic | 0.40% | ~3,338 |
+| Nerves of steel | 0.40% | ~3,338 |
+| Perfect Escape | 0.40% | ~3,338 |
+| Bloody Millionaire | 0.40% | ~3,338 |
+| I | 0.40% | ~3,338 |
+| Sorted | 0.40% | ~3,338 |
+| Healthy Obsession | 0.40% | ~3,338 |
+| Resurgence | 0.40% | ~3,338 |
+| Preemptive Strike | 0.40% | ~3,338 |
 | Agonizing Escape | 0.30% | ~2,503 |
 | I've got your back | 0.30% | ~2,503 |
 | Perfect Killing | 0.30% | ~2,503 |
@@ -39,30 +39,31 @@ Number of Ratings: 70,340  (23.09.2022)
 | Close Shave | 0.30% | ~2,503 |
 | Humanitarian | 0.30% | ~2,503 |
 | Second Act | 0.30% | ~2,503 |
-| Blood on your hands | 0.20% | ~1,668 |
-| Made it out alive! | 0.20% | ~1,668 |
-| Gifts for the Fog | 0.20% | ~1,668 |
-| Vulture | 0.20% | ~1,668 |
-| III | 0.20% | ~1,668 |
-| III-50 | 0.20% | ~1,668 |
-| All Aboard | 0.20% | ~1,668 |
-| Item of Obsession | 0.20% | ~1,668 |
-| Holiday Get-Together | 0.20% | ~1,668 |
-| Near-Death Experience | 0.20% | ~1,668 |
-| Cherish your Life | 0.20% | ~1,668 |
-| Unforgettable Getaway | 0.20% | ~1,668 |
-| Cutting Out | 0.20% | ~1,668 |
-| First to the Punch | 0.20% | ~1,668 |
-| Old West Oasis | 0.20% | ~1,668 |
-| Classy Act | 0.20% | ~1,668 |
-| Every Last Drop | 0.20% | ~1,668 |
-| With Scars to Show | 0.20% | ~1,668 |
-| Flight to Freedom | 0.20% | ~1,668 |
-| A Fast Death | 0.20% | ~1,668 |
-| Lifting The Fog | 0.20% | ~1,668 |
-| Chorus of Chaos | 0.20% | ~1,668 |
-| Complete the Evolution | 0.20% | ~1,668 |
-| One More Step | 0.20% | ~1,668 |
+| Blood on your hands | 0.20% | ~1,669 |
+| Escape Artist | 0.20% | ~1,669 |
+| Made it out alive! | 0.20% | ~1,669 |
+| Gifts for the Fog | 0.20% | ~1,669 |
+| Vulture | 0.20% | ~1,669 |
+| III | 0.20% | ~1,669 |
+| III-50 | 0.20% | ~1,669 |
+| All Aboard | 0.20% | ~1,669 |
+| Item of Obsession | 0.20% | ~1,669 |
+| Holiday Get-Together | 0.20% | ~1,669 |
+| Near-Death Experience | 0.20% | ~1,669 |
+| Cherish your Life | 0.20% | ~1,669 |
+| Unforgettable Getaway | 0.20% | ~1,669 |
+| Cutting Out | 0.20% | ~1,669 |
+| First to the Punch | 0.20% | ~1,669 |
+| Old West Oasis | 0.20% | ~1,669 |
+| Classy Act | 0.20% | ~1,669 |
+| Every Last Drop | 0.20% | ~1,669 |
+| With Scars to Show | 0.20% | ~1,669 |
+| Flight to Freedom | 0.20% | ~1,669 |
+| A Fast Death | 0.20% | ~1,669 |
+| Lifting The Fog | 0.20% | ~1,669 |
+| Chorus of Chaos | 0.20% | ~1,669 |
+| Complete the Evolution | 0.20% | ~1,669 |
+| One More Step | 0.20% | ~1,669 |
 | A bite for the Entity | 0.10% | ~834 |
 | A feast for the Entity | 0.10% | ~834 |
 | Blood on your face | 0.10% | ~834 |
@@ -70,7 +71,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Cripple them all | 0.10% | ~834 |
 | Jump Scares | 0.10% | ~834 |
 | The Grind | 0.10% | ~834 |
-| Escape Artist | 0.10% | ~834 |
 | The Key to Escape | 0.10% | ~834 |
 | Adept Jake | 0.10% | ~834 |
 | Adept Dwight | 0.10% | ~834 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~834 |
 | Adept Ripley | 0.10% | ~834 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 834,248 (Ranked 15)  
+Progressed: 834,423 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -370,7 +370,7 @@ Completed: 48 (0.01%) (Ranked 257)
 | 2023-08-29 | 828,020 | 48 |
 | 2023-08-30 | 831,117 | 48 |
 | 2023-08-31 | 834,142 | 48 |
-| 2023-09-01 | 834,248 | 48 |
+| 2023-09-01 | 834,423 | 48 |
 ## Awards
 Max (Diverse Characters): 31,726  (Ranked 15)  
 Sum: 248,913 (Ranked 11)  

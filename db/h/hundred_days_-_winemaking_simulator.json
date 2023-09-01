@@ -5,9 +5,9 @@
   "Ranking_Rating": 756,
   "Ranking_Popularity": 273,
   "Ranking_PopularitySum": 224,
-  "Ranking_EOS_Progress": 242,
-  "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_Progress": 241,
+  "Ranking_EOS_Completed": 161,
+  "Ranking_EOS_NewPlayers": 86,
   "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
@@ -952,11 +952,11 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 445,
+  "EOS_Progressed": 455,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 440,
+  "EOS_NewPlayers": 450,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 0.45,
+  "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
     {
       "Time": "2023-08-30T11:07:13.7661076+00:00",
@@ -1147,6 +1147,11 @@
       "Time": "2023-09-01T00:06:04.1263041+00:00",
       "NumProgressed": 445,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-01T01:53:30.1665683+00:00",
+      "NumProgressed": 455,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -1159,7 +1164,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "a_10",
@@ -1175,7 +1180,7 @@
       "Name": "A lot of space",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "a_12",
@@ -1191,7 +1196,7 @@
       "Name": "Big Money",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "a_16",
@@ -1207,7 +1212,7 @@
       "Name": "Bye Bye",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 120
+      "UsersEstimate": 123
     },
     {
       "ID": "a_19",
@@ -1239,7 +1244,7 @@
       "Name": "The Blue Marl",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "a_22",
@@ -1255,15 +1260,15 @@
       "Name": "Quack",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "a_25",
       "SetID": "daiie3o",
       "Name": "Better than nothing?",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 18
     },
     {
       "ID": "a_26",
@@ -1271,7 +1276,7 @@
       "Name": "Exotic",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "a_27",
@@ -1287,7 +1292,7 @@
       "Name": "Pastry Chef",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "a_3",
@@ -1359,7 +1364,7 @@
       "Name": "King of Langhe",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "a_5",
@@ -1391,7 +1396,7 @@
       "Name": "Famous",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "a_9",
@@ -1406,7 +1411,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 445,
+      "Progressed": 455,
       "Completed": 2
     }
   ],
@@ -1414,8 +1419,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-08-28T14:01:21.7581903+00:00",
-  "LastChanged_Achievements": "2023-09-01T00:06:04.1263037+00:00",
+  "LastChanged_Achievements": "2023-09-01T01:53:30.1665673+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:37.0274623+00:00",
-  "LastUpdate_Ratings": "2023-08-31T23:00:32.2716498+00:00",
-  "LastUpdate_Achievements": "2023-09-01T00:06:04.1263353+00:00"
+  "LastUpdate_Ratings": "2023-09-01T01:42:48.0501988+00:00",
+  "LastUpdate_Achievements": "2023-09-01T01:53:30.1666012+00:00"
 }

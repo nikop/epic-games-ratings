@@ -6,20 +6,20 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 80.00% | ~528,407 |
-| Every story has a beginning | 36.00% | ~237,783 |
-| The first of many | 31.00% | ~204,758 |
-| Positive word of mouth | 18.00% | ~118,892 |
-| Lawn in the U.S.A. | 15.00% | ~99,076 |
-| Blade Runner | 9.00% | ~59,446 |
+| The dream begins | 80.00% | ~528,417 |
+| Every story has a beginning | 36.00% | ~237,788 |
+| The first of many | 31.00% | ~204,762 |
+| Positive word of mouth | 18.00% | ~118,894 |
+| Lawn in the U.S.A. | 15.00% | ~99,078 |
+| Blade Runner | 9.00% | ~59,447 |
 | Credible | 7.00% | ~46,236 |
 | Teamwork makes the dream work | 6.00% | ~39,631 |
-| Where there's muck there's brass | 4.00% | ~26,420 |
-| Bigger and better | 4.00% | ~26,420 |
-| Aggressive expansion | 4.00% | ~26,420 |
-| Size isn't everything | 3.00% | ~19,815 |
-| Close shave | 3.00% | ~19,815 |
-| Established | 3.00% | ~19,815 |
+| Where there's muck there's brass | 4.00% | ~26,421 |
+| Bigger and better | 4.00% | ~26,421 |
+| Aggressive expansion | 4.00% | ~26,421 |
+| Size isn't everything | 3.00% | ~19,816 |
+| Close shave | 3.00% | ~19,816 |
+| Established | 3.00% | ~19,816 |
 | Fighting on all fronts | 2.00% | ~13,210 |
 | Mighty Mowing Park Ranger | 2.00% | ~13,210 |
 | Every good deed… | 2.00% | ~13,210 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~661 |
 | Mo mowers, mo problems | 0.10% | ~661 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 660,509 (Ranked 24)  
+Progressed: 660,521 (Ranked 24)  
 Completed: 16 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,10 +195,10 @@ Completed: 16 (0.00%) (Ranked 270)
 | 2023-08-29 | 659,885 | 15 |
 | 2023-08-30 | 660,189 | 16 |
 | 2023-08-31 | 660,496 | 16 |
-| 2023-09-01 | 660,509 | 16 |
+| 2023-09-01 | 660,521 | 16 |
 ## Awards
 Max (Quickly Understood Controls): 181  (Ranked 282)  
-Sum: 976 (Ranked 240)  
+Sum: 977 (Ranked 240)  
 Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
@@ -207,7 +207,7 @@ Diff (max vs sum): 42
 | This game is Great for Beginners | 164 |
 | This game is Relaxing | 164 |
 | This game is Highly Recommended | 157 |
-| This game has Amazing Storytelling | 141 |
+| This game has Amazing Storytelling | 142 |
 | This game has Obsessive Gameplay | 55 |
 | This game has Easy Combat | 41 |
 | This game has Realistic Visuals | 30 |
@@ -295,3 +295,4 @@ Diff (max vs sum): 42
 | 2023-08-13 | 4.07 | - | 181 | 973 |
 | 2023-08-15 | 4.07 | - | 181 | 974 |
 | 2023-08-24 | 4.07 | - | 181 | 976 |
+| 2023-09-01 | 4.07 | - | 181 | 977 |

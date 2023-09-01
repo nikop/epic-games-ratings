@@ -2,12 +2,12 @@
   "ID": "2dbd2f64abdc4bbab077424d5c85e01b",
   "Name": "Ghost Recon Breakpoint Standard Edition",
   "ProductSlug": "ghost-recon-breakpoint",
-  "Ranking_Rating": 490,
+  "Ranking_Rating": 504,
   "Ranking_Popularity": 131,
   "Ranking_PopularitySum": 85,
   "Ranking_EOS_Progress": 570,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewPlayers": 339,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2019-10-04T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.55,
+  "Rating": 4.54,
   "NumberOfRatings": 4870,
   "RatingHistory": [
     {
@@ -7405,10 +7405,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 10119,
       "NumberOfAwardsMax": 1313
+    },
+    {
+      "Time": "2023-09-01T01:42:51.2582599+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 10127,
+      "NumberOfAwardsMax": 1313
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10119,
+  "NumberOfAwards": 10127,
   "NumberOfAwardsMax": 1313,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7416,7 +7422,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1141
+      "Count": 1146
     },
     {
       "Text": "This game is Great for Beginners",
@@ -7428,7 +7434,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1032
+      "Count": 1035
     },
     {
       "Text": "This game has Diverse Characters",
@@ -7484,8 +7490,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:01.6049154+00:00",
-  "LastChanged": "2023-08-31T19:00:54.7372395+00:00",
+  "LastChanged": "2023-09-01T01:42:51.2582597+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:17.4722302+00:00",
-  "LastUpdate_Ratings": "2023-08-31T23:56:58.1011001+00:00",
-  "LastUpdate_Achievements": "2023-09-01T00:05:19.5968661+00:00"
+  "LastUpdate_Ratings": "2023-09-01T01:42:51.2582606+00:00",
+  "LastUpdate_Achievements": "2023-09-01T01:52:27.4515259+00:00"
 }

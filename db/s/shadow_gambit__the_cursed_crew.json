@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 559,
+  "EOS_Progressed": 560,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.61,
   "EosHistory": [
@@ -1251,6 +1251,11 @@
       "Time": "2023-08-31T18:06:12.049438+00:00",
       "NumProgressed": 559,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-01T01:52:12.8550592+00:00",
+      "NumProgressed": 560,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1261,9 +1266,9 @@
       "ID": "_01_AllIslands",
       "SetID": "8a1io5d",
       "Name": "Somewhere Deep in the Lost Caribbean",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 129
+      "UsersEstimate": 134
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -1271,7 +1276,7 @@
       "Name": "A New Journey",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "_03_FinishAct1",
@@ -1279,7 +1284,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1319,7 +1324,7 @@
       "Name": "Swabbie",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "_09_Completion_20",
@@ -1445,9 +1450,9 @@
       "ID": "_24_CrewTale_SNP",
       "SetID": "8a1io5d",
       "Name": "Jaded Judge",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 56
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -1470,14 +1475,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 559,
+      "Progressed": 560,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-09-01T00:05:09.1939607+00:00",
+  "LastChanged_Achievements": "2023-09-01T01:52:12.8550584+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:45.1302228+00:00",
-  "LastUpdate_Ratings": "2023-08-31T23:57:19.3050379+00:00",
-  "LastUpdate_Achievements": "2023-09-01T00:05:09.1939815+00:00"
+  "LastUpdate_Ratings": "2023-09-01T01:43:23.6292024+00:00",
+  "LastUpdate_Achievements": "2023-09-01T01:52:12.855107+00:00"
 }

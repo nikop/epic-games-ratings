@@ -17,7 +17,7 @@ Number of Ratings: 281  (23.09.2022)
 | License to Gill | 32.00% | ~1,782 |
 | Things that go Splash in the Night | 29.00% | ~1,615 |
 | Goldfish? | 27.00% | ~1,504 |
-| Going for Gold | 24.00% | ~1,337 |
+| Going for Gold | 25.00% | ~1,392 |
 | I'm Hooked! | 18.00% | ~1,003 |
 | Diamond in the Rough | 12.00% | ~668 |
 | More than a Tourist | 11.00% | ~613 |

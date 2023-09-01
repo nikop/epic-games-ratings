@@ -57,6 +57,7 @@
 | Curious | 3.00% | ~2 |
 | Pilgrim | 3.00% | ~2 |
 | Diligent | 3.00% | ~2 |
+| System Captain | 3.00% | ~2 |
 | Silver Pest Control | 3.00% | ~2 |
 | Mysterious Skin | 3.00% | ~2 |
 | Beetle | 3.00% | ~2 |
@@ -64,28 +65,30 @@
 | Almost There II | 3.00% | ~2 |
 | Revenge | 2.00% | ~1 |
 | Bronze Tovarish | 2.00% | ~1 |
+| Archer's Bronze Fate | 2.00% | ~1 |
 | Bronze Alchemist | 2.00% | ~1 |
 | Galactic Ensign | 2.00% | ~1 |
+| Rambo V | 2.00% | ~1 |
 | Space Magellan | 2.00% | ~1 |
 | Golden Foundation | 2.00% | ~1 |
+| System Admiral | 2.00% | ~1 |
 | Sectoral Admiral | 2.00% | ~1 |
+| Golden BBQ | 2.00% | ~1 |
 | Golden Pest Control | 2.00% | ~1 |
 | The Healer | 2.00% | ~1 |
 | Usurper III | 2.00% | ~1 |
 | 80Gb HDD | 2.00% | ~1 |
 | Galactic Captain | 2.00% | ~1 |
 | You've drone good! | 2.00% | ~1 |
+| Surrounded | 2.00% | ~1 |
 | Silver Alchemist | 2.00% | ~1 |
-| System Captain | 2.00% | ~1 |
 | Silver BBQ | 2.00% | ~1 |
 | Collateral Damage III | 2.00% | ~1 |
 | Providence | 0.00% | ~0 |
-| Archer's Bronze Fate | 0.00% | ~0 |
 | Magic Bronze mirror; on the wall | 0.00% | ~0 |
 | Universal Ensign | 0.00% | ~0 |
 | Rambo VI | 0.00% | ~0 |
 | Space Odyssey | 0.00% | ~0 |
-| Rambo V | 0.00% | ~0 |
 | Space Odysseus | 0.00% | ~0 |
 | Argonaut | 0.00% | ~0 |
 | Voyager 3 | 0.00% | ~0 |
@@ -109,10 +112,8 @@
 | Archer's Golden Fate | 0.00% | ~0 |
 | Golden Alchemist | 0.00% | ~0 |
 | Magic Golden mirror; on the wall | 0.00% | ~0 |
-| System Admiral | 0.00% | ~0 |
 | Galactic Admiral | 0.00% | ~0 |
 | Universal Admiral | 0.00% | ~0 |
-| Golden BBQ | 0.00% | ~0 |
 | Completionist | 0.00% | ~0 |
 | Godlike | 0.00% | ~0 |
 | Usurper VI | 0.00% | ~0 |
@@ -122,7 +123,6 @@
 | Five-O | 0.00% | ~0 |
 | Galactic Colonel | 0.00% | ~0 |
 | Galactic Major | 0.00% | ~0 |
-| Surrounded | 0.00% | ~0 |
 | Silver Tovarish | 0.00% | ~0 |
 | Archer's Silver Fate | 0.00% | ~0 |
 | Magic Silver mirror; on the wall | 0.00% | ~0 |

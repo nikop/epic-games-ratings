@@ -1,21 +1,21 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 505)  
+Rating: 4.54 (Ranked 504)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 0.80% | ~5,363 |
+| Welcome To Hell-A | 0.80% | ~5,364 |
 | Break A Leg | 0.70% | ~4,693 |
 | Hotel California | 0.70% | ~4,693 |
-| Dr. Reed, I Presume? | 0.60% | ~4,022 |
-| Git Gutte! | 0.60% | ~4,022 |
-| Coup de Grâce | 0.60% | ~4,022 |
-| Hazardous Materials | 0.60% | ~4,022 |
-| Friends Like These | 0.60% | ~4,022 |
-| Apex Predator | 0.60% | ~4,022 |
-| Stacking the Deck | 0.60% | ~4,022 |
-| Personal Assistant Personally Assisted | 0.60% | ~4,022 |
+| Dr. Reed, I Presume? | 0.60% | ~4,023 |
+| Git Gutte! | 0.60% | ~4,023 |
+| Coup de Grâce | 0.60% | ~4,023 |
+| Hazardous Materials | 0.60% | ~4,023 |
+| Friends Like These | 0.60% | ~4,023 |
+| Apex Predator | 0.60% | ~4,023 |
+| Stacking the Deck | 0.60% | ~4,023 |
+| Personal Assistant Personally Assisted | 0.60% | ~4,023 |
 | Bookworm | 0.50% | ~3,352 |
 | But Doctor, I am Butcho | 0.50% | ~3,352 |
 | Slayer Squad | 0.50% | ~3,352 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 505)
 | Variety is the Spice of Death | 0.10% | ~670 |
 | Bucket List | 0.10% | ~670 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 670,415 (Ranked 22)  
+Progressed: 670,453 (Ranked 22)  
 Completed: 2,097 (0.31%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 2,097 (0.31%) (Ranked 177)
 | 2023-08-29 | 668,912 | 2,088 |
 | 2023-08-30 | 669,636 | 2,094 |
 | 2023-08-31 | 670,394 | 2,097 |
-| 2023-09-01 | 670,415 | 2,097 |
+| 2023-09-01 | 670,453 | 2,097 |
 ## Awards
 Max (Great Boss Battles): 5,841  (Ranked 60)  
 Sum: 8,595 (Ranked 97)  

@@ -318,9 +318,9 @@
       "ID": "CgkInO_K3eIdEAIQBA",
       "SetID": "6bj96in",
       "Name": "TRAINING DAY",
-      "Percentage": 86,
+      "Percentage": 88,
       "XP": 40,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "CgkInO_K3eIdEAIQBQ",
@@ -390,9 +390,9 @@
       "ID": "CgkInO_K3eIdEAIQDQ",
       "SetID": "6bj96in",
       "Name": "TEMPORAL ARCHITECT",
-      "Percentage": 86,
+      "Percentage": 88,
       "XP": 40,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "CgkInO_K3eIdEAIQDg",
@@ -414,9 +414,9 @@
       "ID": "CgkInO_K3eIdEAIQEA",
       "SetID": "6bj96in",
       "Name": "EAGLE EYED",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 40,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "CgkInO_K3eIdEAIQEQ",
@@ -509,8 +509,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-09-01T00:08:12.12263+00:00",
+  "LastChanged_Achievements": "2023-09-01T01:54:22.338554+00:00",
   "LastUpdate_AppInfo": "2023-08-30T18:57:07.0572196+00:00",
-  "LastUpdate_Ratings": "2023-08-31T23:59:39.1984188+00:00",
-  "LastUpdate_Achievements": "2023-09-01T00:08:12.1226458+00:00"
+  "LastUpdate_Ratings": "2023-09-01T01:46:48.0105776+00:00",
+  "LastUpdate_Achievements": "2023-09-01T01:54:22.338577+00:00"
 }

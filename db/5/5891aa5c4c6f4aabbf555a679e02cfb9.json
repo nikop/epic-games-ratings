@@ -363,9 +363,9 @@
       "ID": "ACHIEVEMENT_08",
       "SetID": "b36c5kb",
       "Name": "The Team Psychologist",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -722,8 +722,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-09-01T00:06:04.5040428+00:00",
+  "LastChanged_Achievements": "2023-09-01T01:53:30.670268+00:00",
   "LastUpdate_AppInfo": "2023-08-30T18:57:06.6900715+00:00",
-  "LastUpdate_Ratings": "2023-08-31T23:59:21.7584791+00:00",
-  "LastUpdate_Achievements": "2023-09-01T00:06:04.5040819+00:00"
+  "LastUpdate_Ratings": "2023-09-01T01:46:22.616389+00:00",
+  "LastUpdate_Achievements": "2023-09-01T01:53:30.6703265+00:00"
 }

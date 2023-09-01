@@ -4,7 +4,7 @@
   "ProductSlug": "survive-on-raft-9845bd",
   "Ranking_EOS_Progress": 570,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewPlayers": 339,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:51:41.3982894+00:00",
-  "LastChanged_Achievements": "2023-09-01T00:06:16.9144962+00:00",
+  "LastChanged_Achievements": "2023-09-01T01:53:47.7543162+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:31.5694824+00:00",
-  "LastUpdate_Ratings": "2023-08-31T23:58:49.8138825+00:00",
-  "LastUpdate_Achievements": "2023-09-01T00:06:16.9145015+00:00"
+  "LastUpdate_Ratings": "2023-09-01T01:45:36.8231584+00:00",
+  "LastUpdate_Achievements": "2023-09-01T01:53:47.7543267+00:00"
 }

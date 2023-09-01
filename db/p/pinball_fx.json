@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 221,
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 29,
+  "Ranking_EOS_NewPlayers": 30,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -1682,10 +1682,16 @@
       "Rating": 4.05,
       "NumberOfAwards": 1542,
       "NumberOfAwardsMax": 188
+    },
+    {
+      "Time": "2023-09-01T01:44:32.0990343+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 1545,
+      "NumberOfAwardsMax": 188
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1542,
+  "NumberOfAwards": 1545,
   "NumberOfAwardsMax": 188,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1711,7 +1717,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 177
+      "Count": 180
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1768,9 +1774,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 258754,
+  "EOS_Progressed": 258787,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2748,
+  "EOS_NewPlayers": 2742,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16658,6 +16664,11 @@
       "Time": "2023-09-01T00:03:11.1077752+00:00",
       "NumProgressed": 258754,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-01T01:49:25.4785109+00:00",
+      "NumProgressed": 258787,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -16717,7 +16728,7 @@
       "Name": "Contender",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 25875
+      "UsersEstimate": 25879
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -16757,7 +16768,7 @@
       "Name": "First but not Last",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 10350
+      "UsersEstimate": 10351
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -16789,7 +16800,7 @@
       "Name": "Ready Steady Score",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7763
+      "UsersEstimate": 7764
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -16829,7 +16840,7 @@
       "Name": "I Found it!",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 25875
+      "UsersEstimate": 25879
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -16837,7 +16848,7 @@
       "Name": "Full Loot Madness",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5175
+      "UsersEstimate": 5176
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -16877,7 +16888,7 @@
       "Name": "Dress Code",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7763
+      "UsersEstimate": 7764
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -16893,7 +16904,7 @@
       "Name": "Ball Launched",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 212178
+      "UsersEstimate": 212205
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -16901,22 +16912,22 @@
       "Name": "I know the Rules",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 95739
+      "UsersEstimate": 95751
     }
   ],
   "AchievementSets": [
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 258754,
+      "Progressed": 258787,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
-  "LastChanged": "2023-08-30T18:57:57.4815622+00:00",
-  "LastChanged_Achievements": "2023-09-01T00:03:11.1077748+00:00",
+  "LastChanged": "2023-09-01T01:44:32.0990342+00:00",
+  "LastChanged_Achievements": "2023-09-01T01:49:25.4785101+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:34.8131259+00:00",
-  "LastUpdate_Ratings": "2023-08-31T23:58:06.5458359+00:00",
-  "LastUpdate_Achievements": "2023-09-01T00:03:11.1078617+00:00"
+  "LastUpdate_Ratings": "2023-09-01T01:44:32.0990347+00:00",
+  "LastUpdate_Achievements": "2023-09-01T01:49:25.4786604+00:00"
 }

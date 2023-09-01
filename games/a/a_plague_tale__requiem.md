@@ -32,8 +32,8 @@ Rating: 4.73 (Ranked 162)
 | Handful of pockets | 13.00% | ~1,677 |
 | Not a toy anymore | 11.00% | ~1,419 |
 | Pocket laboratory | 11.00% | ~1,419 |
+| Herbalist | 8.00% | ~1,032 |
 | Fighter | 8.00% | ~1,032 |
-| Herbalist | 7.00% | ~903 |
 | Ornithologist | 5.00% | ~645 |
 | Immortal memories | 4.00% | ~516 |
 | Sneaky | 4.00% | ~516 |

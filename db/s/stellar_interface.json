@@ -4,7 +4,7 @@
   "ProductSlug": "stellar-interface-d14cc4",
   "Ranking_EOS_Progress": 371,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewPlayers": 339,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-03-30T00:00:00+00:00",
@@ -357,9 +357,9 @@
       "ID": "BronzeGilgameshBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Archer\u0027s Bronze Fate",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BronzeHoberMallowBossDefeatedAchievement",
@@ -493,9 +493,9 @@
       "ID": "Cleared500LevelsAchievement",
       "SetID": "a8djcgh",
       "Name": "Rambo V",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Cleared50LevelsAchievement",
@@ -813,9 +813,9 @@
       "ID": "GoldMissionsCompleted10Achievement",
       "SetID": "a8djcgh",
       "Name": "System Admiral",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "GoldMissionsCompleted20Achievement",
@@ -845,9 +845,9 @@
       "ID": "GoldSpaceWinnerBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Golden BBQ",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "GoldTheHiveBossDefeatedAchievement",
@@ -1117,9 +1117,9 @@
       "ID": "PlayerHas20DronesAchievement",
       "SetID": "a8djcgh",
       "Name": "Surrounded",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SilverBabushkaBossDefeatedAchievement",
@@ -1173,9 +1173,9 @@
       "ID": "SilverMissionsCompleted10Achievement",
       "SetID": "a8djcgh",
       "Name": "System Captain",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SilverMissionsCompleted20Achievement",
@@ -1388,8 +1388,8 @@
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-09-01T00:04:32.4226595+00:00",
+  "LastChanged_Achievements": "2023-09-01T01:51:20.524089+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:41.6007938+00:00",
-  "LastUpdate_Ratings": "2023-08-31T23:57:37.342216+00:00",
-  "LastUpdate_Achievements": "2023-09-01T00:04:32.4230283+00:00"
+  "LastUpdate_Ratings": "2023-09-01T01:43:48.9026897+00:00",
+  "LastUpdate_Achievements": "2023-09-01T01:51:20.5243215+00:00"
 }

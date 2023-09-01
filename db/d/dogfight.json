@@ -4,7 +4,7 @@
   "ProductSlug": "dogfight-a794b2",
   "Ranking_EOS_Progress": 570,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewPlayers": 339,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-04-12T23:30:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-19T13:03:22.796562+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:16.0267638+00:00",
-  "LastUpdate_Ratings": "2023-08-31T23:58:37.7606603+00:00",
-  "LastUpdate_Achievements": "2023-09-01T00:04:45.2443787+00:00"
+  "LastUpdate_Ratings": "2023-09-01T01:45:18.9963627+00:00",
+  "LastUpdate_Achievements": "2023-09-01T01:51:38.6383147+00:00"
 }

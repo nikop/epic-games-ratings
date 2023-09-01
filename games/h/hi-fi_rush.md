@@ -48,9 +48,9 @@ Rating: 4.87 (Ranked 25)
 | I'm not done with you yet | 0.80% | ~32 |
 | This is a breeze! | 0.70% | ~28 |
 | You ever parry a volcano? | 0.70% | ~28 |
+| OK, well THEY came after ME! | 0.60% | ~24 |
 | New bad guys? No problem! | 0.60% | ~15 |
 | Easy Listening | 0.50% | ~20 |
-| OK, well THEY came after ME! | 0.50% | ~20 |
 | Choose your own adventure | 0.40% | ~10 |
 | Now this is how you fight like a team! | 0.30% | ~12 |
 | It'll do, CNMN | 0.30% | ~8 |

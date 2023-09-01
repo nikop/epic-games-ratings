@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 26.00% | ~57,150 |
-| Where's that freaking Dwarf? | 3.00% | ~6,594 |
-| Alt+F4 | 3.00% | ~6,594 |
-| Déjà vu | 2.00% | ~4,396 |
-| A beer, two curses, three companions | 2.00% | ~4,396 |
-| Sock! SOCK! | 2.00% | ~4,396 |
-| GG EZ | 2.00% | ~4,396 |
-| DM intervention | 2.00% | ~4,396 |
-| Speedrun | 2.00% | ~4,396 |
-| Fireproof Wizardess | 2.00% | ~4,396 |
+| Sowwy! | 26.00% | ~57,156 |
+| Where's that freaking Dwarf? | 3.00% | ~6,595 |
+| Alt+F4 | 3.00% | ~6,595 |
+| Déjà vu | 2.00% | ~4,397 |
+| A beer, two curses, three companions | 2.00% | ~4,397 |
+| Sock! SOCK! | 2.00% | ~4,397 |
+| GG EZ | 2.00% | ~4,397 |
+| DM intervention | 2.00% | ~4,397 |
+| Speedrun | 2.00% | ~4,397 |
+| Fireproof Wizardess | 2.00% | ~4,397 |
 | Livin' in a dwarven paradise | 1.00% | ~2,198 |
 | Way of the Wimp | 1.00% | ~2,198 |
 | The plot thickens... At the tavern | 1.00% | ~2,198 |
@@ -26,13 +26,13 @@ Number of Ratings: 118  (23.09.2022)
 | Torture and Sensibility | 0.90% | ~1,978 |
 | Urik's Depths | 0.90% | ~1,978 |
 | The Dungeon Master | 0.90% | ~1,978 |
+| The Statuette of Gladeulfeurah | 0.90% | ~1,978 |
 | Team Building Exercise | 0.90% | ~1,978 |
-| Shiny and Crôm | 0.80% | ~1,758 |
-| The Statuette of Gladeulfeurah | 0.80% | ~1,758 |
-| A tale of adventurers not quite like the others... | 0.80% | ~1,758 |
-| %#*!$*! | 0.80% | ~1,758 |
-| The Ranger of Chaos | 0.80% | ~1,758 |
-| I am the night | 0.80% | ~1,758 |
+| Shiny and Crôm | 0.80% | ~1,759 |
+| A tale of adventurers not quite like the others... | 0.80% | ~1,759 |
+| %#*!$*! | 0.80% | ~1,759 |
+| The Ranger of Chaos | 0.80% | ~1,759 |
+| I am the night | 0.80% | ~1,759 |
 | The Famous Dungeon of Naheulbeuk | 0.70% | ~1,539 |
 | Look but don't touch | 0.70% | ~1,539 |
 | The beards of change | 0.70% | ~1,539 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~220 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,807 (Ranked 57)  
+Progressed: 219,829 (Ranked 57)  
 Completed: 2 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 2 (0.00%) (Ranked 270)
 | 2023-08-29 | 219,078 | 2 |
 | 2023-08-30 | 219,453 | 2 |
 | 2023-08-31 | 219,794 | 2 |
-| 2023-09-01 | 219,807 | 2 |
+| 2023-09-01 | 219,829 | 2 |
 ## Awards
 Max (Character Customization): 184  (Ranked 279)  
 Sum: 232 (Ranked 360)  
