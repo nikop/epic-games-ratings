@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alone with Them | 72.00% | ~151 |
-| Forced to Kill | 70.00% | ~147 |
+| Alone with Them | 73.00% | ~154 |
+| Forced to Kill | 70.00% | ~148 |
 | A Night To Remember | 40.00% | ~84 |
-| Safe...For now? | 34.00% | ~71 |
-| Open Sesame | 29.00% | ~61 |
-| What have I done!? | 19.00% | ~40 |
+| Safe...For now? | 34.00% | ~72 |
+| Open Sesame | 28.00% | ~59 |
 | Them and Us | 18.00% | ~38 |
 | OUTRAGE | 18.00% | ~38 |
-| Alone In The Dark | 14.00% | ~29 |
-| The Cultists | 14.00% | ~29 |
-| This Coffin Has Your Name On It! | 14.00% | ~29 |
+| What have I done!? | 18.00% | ~38 |
+| Alone In The Dark | 14.00% | ~30 |
+| The Cultists | 14.00% | ~30 |
+| This Coffin Has Your Name On It! | 14.00% | ~30 |
 | Parasite Exterminated | 13.00% | ~27 |
 | The Forgotten Tower | 13.00% | ~27 |
 | Lover of classics | 11.00% | ~23 |
-| Modern Player | 10.00% | ~21 |
 | Rest In Peace | 10.00% | ~21 |
 | The Curse Is Real | 10.00% | ~21 |
 | Trapped | 10.00% | ~21 |
+| Modern Player | 9.00% | ~19 |
 | What A Mansion | 8.00% | ~17 |
 | Researcher | 6.00% | ~13 |
 | I Am The Gate Keeper! | 6.00% | ~13 |
-| This Mansion Is Clean | 5.00% | ~10 |
+| This Mansion Is Clean | 5.00% | ~11 |
 | Armed To The Teeth | 3.00% | ~6 |
 | Run and Gun | 3.00% | ~6 |
 | The bus stop | 3.00% | ~6 |
@@ -33,9 +33,9 @@
 | Spiritual essence well spent | 2.00% | ~4 |
 | Pet The Dog | 2.00% | ~4 |
 | The 5th Element | 2.00% | ~4 |
-| Box Of Ploutus | 1.00% | ~2 |
 | Retro Player | 1.00% | ~2 |
-| Survival Hero | 1.00% | ~2 |
+| Box Of Ploutus | 0.90% | ~2 |
+| Survival Hero | 0.90% | ~2 |
 | Before The Eclipse | 0.50% | ~1 |
 | Chosen One | 0.50% | ~1 |
 | Die Another Day | 0.50% | ~1 |
@@ -45,8 +45,8 @@
 | No Time To Relax | 0.50% | ~1 |
 | Survival Horror | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210 (Ranked 300)  
-Completed: 1 (0.48%) (Ranked 154)  
+Progressed: 211 (Ranked 300)  
+Completed: 1 (0.47%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -106,6 +106,7 @@ Completed: 1 (0.48%) (Ranked 154)
 | 2023-08-20 | 208 | 1 |
 | 2023-08-21 | 209 | 1 |
 | 2023-08-26 | 210 | 1 |
+| 2023-09-02 | 211 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

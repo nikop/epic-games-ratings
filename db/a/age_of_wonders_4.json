@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -324,9 +324,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 5149,
+  "EOS_Progressed": 5150,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -5984,6 +5984,11 @@
       "Time": "2023-09-01T23:08:21.0475515+00:00",
       "NumProgressed": 5149,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-02T09:08:54.708829+00:00",
+      "NumProgressed": 5150,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 50,
@@ -6011,7 +6016,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "12",
@@ -6019,7 +6024,7 @@
       "Name": "I\u0027ve Got Everything I Need Right Here",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "13",
@@ -6035,7 +6040,7 @@
       "Name": "Full Ascension",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "15",
@@ -6123,7 +6128,7 @@
       "Name": "Secret Technique",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "25",
@@ -6139,7 +6144,7 @@
       "Name": "Bone Peddler",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "27",
@@ -6163,7 +6168,7 @@
       "Name": "Stronger Together",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "3",
@@ -6195,7 +6200,7 @@
       "Name": "My Final Form",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "33",
@@ -6203,7 +6208,7 @@
       "Name": "Seat of Power",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "34",
@@ -6267,7 +6272,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "41",
@@ -6299,7 +6304,7 @@
       "Name": "Pruning for Progress",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "5",
@@ -6347,7 +6352,7 @@
       "Name": "Here be Dragons",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "46",
@@ -6371,7 +6376,7 @@
       "Name": "Blood of the Dragon",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "49",
@@ -6379,7 +6384,7 @@
       "Name": "Mighty Hoard",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "50",
@@ -6394,13 +6399,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5149,
+      "Progressed": 5150,
       "Completed": 4761
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5149,
+      "Progressed": 5150,
       "Completed": 6
     }
   ],
@@ -6408,8 +6413,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-08-26T15:57:22.2345503+00:00",
-  "LastChanged_Achievements": "2023-09-02T08:09:11.3957643+00:00",
+  "LastChanged_Achievements": "2023-09-02T09:08:54.7088283+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:42.1934475+00:00",
-  "LastUpdate_Ratings": "2023-09-02T07:59:53.96471+00:00",
-  "LastUpdate_Achievements": "2023-09-02T08:09:11.3958466+00:00"
+  "LastUpdate_Ratings": "2023-09-02T08:59:28.5587541+00:00",
+  "LastUpdate_Achievements": "2023-09-02T09:08:54.7089063+00:00"
 }

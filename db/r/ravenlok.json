@@ -2931,9 +2931,9 @@
       "ID": "14",
       "SetID": "d0g98p",
       "Name": "Bird of Prey",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 392
+      "UsersEstimate": 403
     },
     {
       "ID": "15",
@@ -3300,8 +3300,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-09-02T08:06:49.3739583+00:00",
+  "LastChanged_Achievements": "2023-09-02T09:06:32.9453303+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:24.5627231+00:00",
-  "LastUpdate_Ratings": "2023-09-02T07:57:58.4626167+00:00",
-  "LastUpdate_Achievements": "2023-09-02T08:06:49.3740444+00:00"
+  "LastUpdate_Ratings": "2023-09-02T08:57:19.8091362+00:00",
+  "LastUpdate_Achievements": "2023-09-02T09:06:32.9453986+00:00"
 }

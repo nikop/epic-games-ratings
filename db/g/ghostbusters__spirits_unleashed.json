@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1950,9 +1950,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25494,
+  "EOS_Progressed": 25495,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -11830,6 +11830,11 @@
       "Time": "2023-09-02T08:06:16.6545673+00:00",
       "NumProgressed": 25494,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-09-02T09:05:55.4049299+00:00",
+      "NumProgressed": 25495,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 51,
@@ -11865,7 +11870,7 @@
       "Name": "We have the best insurance",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 6628
+      "UsersEstimate": 6629
     },
     {
       "ID": "Catostrophic_Destroyer",
@@ -11929,7 +11934,7 @@
       "Name": "Discovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 15551
+      "UsersEstimate": 15552
     },
     {
       "ID": "Dont_Need_These",
@@ -11953,7 +11958,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 63,
       "XP": 100,
-      "UsersEstimate": 16061
+      "UsersEstimate": 16062
     },
     {
       "ID": "Escape_Artist",
@@ -11969,7 +11974,7 @@
       "Name": "Fragile Panes",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 2294
+      "UsersEstimate": 2295
     },
     {
       "ID": "Fully_Upgraded",
@@ -12009,7 +12014,7 @@
       "Name": "Legions",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 6628
+      "UsersEstimate": 6629
     },
     {
       "ID": "Liability",
@@ -12017,7 +12022,7 @@
       "Name": "Liability",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 2549
+      "UsersEstimate": 2550
     },
     {
       "ID": "Line_Em_Up",
@@ -12089,7 +12094,7 @@
       "Name": "Right back at ya",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 6628
+      "UsersEstimate": 6629
     },
     {
       "ID": "Rivalry",
@@ -12097,7 +12102,7 @@
       "Name": "Rivalry",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 2549
+      "UsersEstimate": 2550
     },
     {
       "ID": "Seasoned",
@@ -12113,7 +12118,7 @@
       "Name": "Side Hustle",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 6883
+      "UsersEstimate": 6884
     },
     {
       "ID": "Skilled",
@@ -12145,7 +12150,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 21925
+      "UsersEstimate": 21926
     },
     {
       "ID": "Summoner",
@@ -12153,7 +12158,7 @@
       "Name": "Summoner",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 6883
+      "UsersEstimate": 6884
     },
     {
       "ID": "Surprise",
@@ -12161,7 +12166,7 @@
       "Name": "Surprise!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2294
+      "UsersEstimate": 2295
     },
     {
       "ID": "Swift_Removers",
@@ -12177,7 +12182,7 @@
       "Name": "Teamwork",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 10962
+      "UsersEstimate": 10963
     },
     {
       "ID": "Terrifying",
@@ -12201,7 +12206,7 @@
       "Name": "There you are!",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 10707
+      "UsersEstimate": 10708
     },
     {
       "ID": "Tobins_Prodigy",
@@ -12225,7 +12230,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 12237
+      "UsersEstimate": 12238
     },
     {
       "ID": "Welcome_Crew",
@@ -12248,7 +12253,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25494,
+      "Progressed": 25495,
       "Completed": 54
     }
   ],
@@ -12256,8 +12261,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-01T10:58:05.1706885+00:00",
-  "LastChanged_Achievements": "2023-09-02T08:06:16.6545666+00:00",
+  "LastChanged_Achievements": "2023-09-02T09:05:55.4049292+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:16.4521861+00:00",
-  "LastUpdate_Ratings": "2023-09-02T07:59:31.305071+00:00",
-  "LastUpdate_Achievements": "2023-09-02T08:06:16.654716+00:00"
+  "LastUpdate_Ratings": "2023-09-02T08:59:03.593607+00:00",
+  "LastUpdate_Achievements": "2023-09-02T09:05:55.4050603+00:00"
 }

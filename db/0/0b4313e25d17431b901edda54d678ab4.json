@@ -278,9 +278,9 @@
       "ID": "kill750",
       "SetID": "bma0pih",
       "Name": "War machine",
-      "Percentage": 76,
+      "Percentage": 79,
       "XP": 150,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "killWithHammer",
@@ -302,9 +302,9 @@
       "ID": "leviathan02",
       "SetID": "bma0pih",
       "Name": "Metal hell",
-      "Percentage": 21,
+      "Percentage": 24,
       "XP": 75,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "leviathan03",
@@ -350,9 +350,9 @@
       "ID": "unlockPlasmaMoon",
       "SetID": "bma0pih",
       "Name": "Solar power",
-      "Percentage": 55,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     }
   ],
   "AchievementSets": [
@@ -365,8 +365,8 @@
   ],
   "FirstSeen": "2023-08-31T13:03:44.3512159+00:00",
   "FirstSeenAchievements": "2023-05-07T09:02:54.6493409+00:00",
-  "LastChanged_Achievements": "2023-09-02T08:07:16.6165695+00:00",
+  "LastChanged_Achievements": "2023-09-02T09:07:03.9658602+00:00",
   "LastUpdate_AppInfo": "2023-08-27T16:57:09.5121242+00:00",
-  "LastUpdate_Ratings": "2023-09-02T08:00:06.691683+00:00",
-  "LastUpdate_Achievements": "2023-09-02T08:07:16.6165918+00:00"
+  "LastUpdate_Ratings": "2023-09-02T08:59:43.0570394+00:00",
+  "LastUpdate_Achievements": "2023-09-02T09:07:03.9658786+00:00"
 }

@@ -6,37 +6,37 @@ Rating: 4.54 (Ranked 503)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Complete Guard Faction | 81.00% | ~1,524 |
-| Become King | 73.00% | ~1,373 |
-| Defeat 25 Frogs | 63.00% | ~1,185 |
-| Ranged Weapon | 62.00% | ~1,166 |
+| Become King | 73.00% | ~1,374 |
+| Defeat 25 Frogs | 63.00% | ~1,186 |
+| Ranged Weapon | 62.00% | ~1,167 |
 | Collect Monster Parts | 59.00% | ~1,110 |
-| Two Handed Weapon | 57.00% | ~1,072 |
+| Two Handed Weapon | 57.00% | ~1,073 |
 | Defeat 25 Grubs | 53.00% | ~997 |
-| Rescue Redgi's Brothers | 52.00% | ~978 |
+| Rescue Redgi's Brothers | 52.00% | ~979 |
 | Collect Iron Ore | 48.00% | ~903 |
-| Defeat 25 Mozis | 47.00% | ~884 |
-| Kitchen Ready To Cook | 47.00% | ~884 |
-| Collect Gold | 45.00% | ~846 |
-| Smithy Ready to Craft | 45.00% | ~846 |
+| Defeat 25 Mozis | 47.00% | ~885 |
+| Kitchen Ready To Cook | 47.00% | ~885 |
+| Collect Gold | 45.00% | ~847 |
+| Smithy Ready to Craft | 45.00% | ~847 |
 | Fix the Travellers Wagon | 44.00% | ~828 |
-| Complete Elder Faction | 41.00% | ~771 |
+| Complete Elder Faction | 41.00% | ~772 |
 | End of the Mozis | 38.00% | ~715 |
 | Throne Room Fit For A King | 38.00% | ~715 |
-| Meet the Creatures from the Deep | 36.00% | ~677 |
-| Return Power To The Depths | 36.00% | ~677 |
-| Defeat Ratnor Rodentson | 29.00% | ~545 |
+| Meet the Creatures from the Deep | 36.00% | ~678 |
+| Return Power To The Depths | 36.00% | ~678 |
+| Defeat Ratnor Rodentson | 29.00% | ~546 |
 | Return the Statues | 27.00% | ~508 |
 | Defeat Rattus Augustail | 26.00% | ~489 |
 | Complete the Chefs Book | 25.00% | ~470 |
 | Complete Ranger Faction | 21.00% | ~395 |
 | Defeat Avor Warden of the Northern Wastes | 20.00% | ~376 |
-| Discover the mystery of the Kings Chambers | 19.00% | ~357 |
+| Discover the mystery of the Kings Chambers | 19.00% | ~358 |
 | Complete Arena Faction | 16.00% | ~301 |
-| Complete Redgi's Armory | 8.00% | ~150 |
-| King of Kings | 8.00% | ~150 |
+| Complete Redgi's Armory | 8.00% | ~151 |
+| King of Kings | 8.00% | ~151 |
 | A new Warchief rises | 0.80% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,881 (Ranked 175)  
+Progressed: 1,882 (Ranked 174)  
 Completed: 8 (0.43%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,6 +149,7 @@ Completed: 8 (0.43%) (Ranked 161)
 | 2023-08-26 | 1,875 | 8 |
 | 2023-08-28 | 1,879 | 8 |
 | 2023-08-29 | 1,881 | 8 |
+| 2023-09-02 | 1,882 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

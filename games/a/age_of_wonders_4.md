@@ -5,23 +5,23 @@ Rating: 4.60 (Ranked 393)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 7.00% | ~360 |
+| Secret Technique | 7.00% | ~361 |
 | Realm Estate | 6.00% | ~309 |
 | A Wonderful Discovery | 6.00% | ~309 |
 | Walls Cannot Stop Us | 6.00% | ~309 |
 | From Friends to Family | 6.00% | ~309 |
 | Magical Synergy | 6.00% | ~309 |
 | Tipping the Scales | 6.00% | ~309 |
-| There Can Only Be One! | 5.00% | ~257 |
-| Full Ascension | 5.00% | ~257 |
-| Bone Peddler | 5.00% | ~257 |
-| Stronger Together | 5.00% | ~257 |
-| My Final Form | 5.00% | ~257 |
-| Seat of Power | 5.00% | ~257 |
-| Intimidation Tactics | 5.00% | ~257 |
-| Here be Dragons | 5.00% | ~257 |
-| Blood of the Dragon | 5.00% | ~257 |
-| Mighty Hoard | 5.00% | ~257 |
+| There Can Only Be One! | 5.00% | ~258 |
+| Full Ascension | 5.00% | ~258 |
+| Bone Peddler | 5.00% | ~258 |
+| Stronger Together | 5.00% | ~258 |
+| My Final Form | 5.00% | ~258 |
+| Seat of Power | 5.00% | ~258 |
+| Intimidation Tactics | 5.00% | ~258 |
+| Here be Dragons | 5.00% | ~258 |
+| Blood of the Dragon | 5.00% | ~258 |
+| Mighty Hoard | 5.00% | ~258 |
 | Valley of Wonders | 4.00% | ~206 |
 | Digging for Treasure | 4.00% | ~206 |
 | In a Liege of Your Own | 4.00% | ~206 |
@@ -44,8 +44,8 @@ Rating: 4.60 (Ranked 393)
 | Grexolis | 2.00% | ~103 |
 | One for All, All for One | 2.00% | ~103 |
 | Duality | 2.00% | ~103 |
-| I've Got Everything I Need Right Here | 1.00% | ~51 |
-| Pruning for Progress | 1.00% | ~51 |
+| I've Got Everything I Need Right Here | 1.00% | ~52 |
+| Pruning for Progress | 1.00% | ~52 |
 | Manufactured War | 0.90% | ~46 |
 | Snap Out of It! | 0.80% | ~41 |
 | Betrayal Most Foul | 0.50% | ~26 |
@@ -56,7 +56,7 @@ Rating: 4.60 (Ranked 393)
 | The Grey Wizard | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,149 (Ranked 146)  
+Progressed: 5,150 (Ranked 146)  
 Completed: 6 (0.12%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,6 +173,7 @@ Completed: 6 (0.12%) (Ranked 210)
 | 2023-08-29 | 5,141 | 6 |
 | 2023-08-31 | 5,146 | 6 |
 | 2023-09-01 | 5,149 | 6 |
+| 2023-09-02 | 5,150 | 6 |
 ## Awards
 Max (Great for Beginners): 23  (Ranked 492)  
 Sum: 23 (Ranked 497)  

@@ -3,11 +3,11 @@
   "Name": "Far Cry 5 Standard Edition",
   "ProductSlug": "far-cry-5",
   "Ranking_Rating": 353,
-  "Ranking_Popularity": 124,
-  "Ranking_PopularitySum": 193,
+  "Ranking_Popularity": 123,
+  "Ranking_PopularitySum": 192,
   "Ranking_EOS_Progress": 571,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2018-03-27T10:00:00+00:00",
@@ -2890,18 +2890,24 @@
       "Rating": 4.62,
       "NumberOfAwards": 2201,
       "NumberOfAwardsMax": 1449
+    },
+    {
+      "Time": "2023-09-02T09:00:45.944598+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 2209,
+      "NumberOfAwardsMax": 1456
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2201,
-  "NumberOfAwardsMax": 1449,
+  "NumberOfAwards": 2209,
+  "NumberOfAwardsMax": 1456,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1449
+      "Count": 1456
     },
     {
       "Text": "This game is Relaxing",
@@ -2943,7 +2949,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 69
+      "Count": 70
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2981,8 +2987,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:47.7430658+00:00",
-  "LastChanged": "2023-09-01T21:59:57.4060083+00:00",
+  "LastChanged": "2023-09-02T09:00:45.9445977+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:11.2061982+00:00",
-  "LastUpdate_Ratings": "2023-09-02T08:01:03.3806202+00:00",
-  "LastUpdate_Achievements": "2023-09-02T08:05:33.6294851+00:00"
+  "LastUpdate_Ratings": "2023-09-02T09:00:45.9445985+00:00",
+  "LastUpdate_Achievements": "2023-09-02T09:05:05.5936468+00:00"
 }

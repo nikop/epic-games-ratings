@@ -32,9 +32,9 @@
 | Frog Facts! | 38.00% | ~414 |
 | Spellbound | 37.00% | ~403 |
 | Extinct Again! | 37.00% | ~403 |
+| Bird of Prey | 37.00% | ~403 |
 | All Skilled Up! | 37.00% | ~403 |
 | It's Pointy! | 37.00% | ~403 |
-| Bird of Prey | 36.00% | ~392 |
 | Stardust | 36.00% | ~392 |
 | Heartbreaker | 36.00% | ~392 |
 | Kidnapped! | 36.00% | ~392 |

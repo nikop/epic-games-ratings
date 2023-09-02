@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 27.00% | ~59,471 |
+| Sowwy! | 27.00% | ~59,474 |
 | Déjà vu | 3.00% | ~6,608 |
 | Where's that freaking Dwarf? | 3.00% | ~6,608 |
 | Alt+F4 | 3.00% | ~6,608 |
-| A beer, two curses, three companions | 2.00% | ~4,405 |
-| Sock! SOCK! | 2.00% | ~4,405 |
-| GG EZ | 2.00% | ~4,405 |
-| DM intervention | 2.00% | ~4,405 |
-| Speedrun | 2.00% | ~4,405 |
-| Fireproof Wizardess | 2.00% | ~4,405 |
+| A beer, two curses, three companions | 2.00% | ~4,406 |
+| Sock! SOCK! | 2.00% | ~4,406 |
+| GG EZ | 2.00% | ~4,406 |
+| DM intervention | 2.00% | ~4,406 |
+| Speedrun | 2.00% | ~4,406 |
+| Fireproof Wizardess | 2.00% | ~4,406 |
 | Livin' in a dwarven paradise | 1.00% | ~2,203 |
 | Way of the Wimp | 1.00% | ~2,203 |
 | The plot thickens... At the tavern | 1.00% | ~2,203 |
@@ -45,10 +45,10 @@ Number of Ratings: 118  (23.09.2022)
 | Material Girl | 0.50% | ~1,101 |
 | Gargantua | 0.40% | ~881 |
 | In Navalu's footsteps | 0.40% | ~881 |
+| Holistic Adventuring Party | 0.30% | ~661 |
 | An old poacher makes the best gamekeeper | 0.30% | ~661 |
 | We come in peace | 0.30% | ~661 |
 | Lëgal Legend | 0.30% | ~661 |
-| Holistic Adventuring Party | 0.20% | ~441 |
 | Scholar of the Lands of Fangh | 0.20% | ~441 |
 | I'd rather... Just... Sing! | 0.20% | ~441 |
 | Law and Order | 0.20% | ~441 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~220 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,264 (Ranked 57)  
+Progressed: 220,275 (Ranked 57)  
 Completed: 2 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 2 (0.00%) (Ranked 271)
 | 2023-08-30 | 219,453 | 2 |
 | 2023-08-31 | 219,794 | 2 |
 | 2023-09-01 | 220,165 | 2 |
-| 2023-09-02 | 220,264 | 2 |
+| 2023-09-02 | 220,275 | 2 |
 ## Awards
 Max (Character Customization): 185  (Ranked 279)  
 Sum: 234 (Ranked 360)  

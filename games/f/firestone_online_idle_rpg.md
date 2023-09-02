@@ -43,10 +43,10 @@ Rating: 4.03 (Ranked 936)
 | Master Enchanter | 9.00% | ~169 |
 | The father of Dragons | 9.00% | ~169 |
 | Crystal Mining | 8.00% | ~151 |
+| Enchanting skill | 8.00% | ~151 |
 | Trader | 8.00% | ~151 |
 | Blueprint Upgrades | 7.00% | ~132 |
 | Dragon Slayer | 7.00% | ~132 |
-| Enchanting skill | 7.00% | ~132 |
 | Engineer Mastery | 7.00% | ~132 |
 | The Expeditioner | 7.00% | ~132 |
 | Weekly Quest Completionist | 7.00% | ~132 |

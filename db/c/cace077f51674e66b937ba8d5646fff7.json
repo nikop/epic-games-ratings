@@ -4,7 +4,7 @@
   "ProductSlug": "mokoko-x-e2b09d",
   "Ranking_EOS_Progress": 363,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-26T18:00:00+00:00",
@@ -637,17 +637,17 @@
       "ID": "ENEMY_5",
       "SetID": "50pdlpn",
       "Name": "Scorpon-pink.png the PNG File",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ENEMY_6",
       "SetID": "50pdlpn",
       "Name": "Mr. Fyodorov the Imaginary Spider",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ENEMY_7",
@@ -956,8 +956,8 @@
   ],
   "FirstSeen": "2023-07-03T16:57:31.1356684+00:00",
   "FirstSeenAchievements": "2023-05-08T09:03:21.3999065+00:00",
-  "LastChanged_Achievements": "2023-09-02T08:05:06.801828+00:00",
+  "LastChanged_Achievements": "2023-09-02T09:04:34.2098114+00:00",
   "LastUpdate_AppInfo": "2023-08-28T16:57:11.4697485+00:00",
-  "LastUpdate_Ratings": "2023-09-02T08:03:10.7827076+00:00",
-  "LastUpdate_Achievements": "2023-09-02T08:05:06.8019048+00:00"
+  "LastUpdate_Ratings": "2023-09-02T09:02:13.5081538+00:00",
+  "LastUpdate_Achievements": "2023-09-02T09:04:34.2099743+00:00"
 }

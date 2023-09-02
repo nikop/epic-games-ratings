@@ -6,26 +6,26 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~15,461 |
-| That's a Grand Army | 3.00% | ~11,596 |
-| That is mine! | 3.00% | ~11,596 |
-| Victorious! | 3.00% | ~11,596 |
-| Brothers in Arms | 2.00% | ~7,731 |
-| That's a Grand Navy | 2.00% | ~7,731 |
-| Seriously?! | 2.00% | ~7,731 |
-| Cold War | 1.00% | ~3,865 |
-| Defender of the Faith | 1.00% | ~3,865 |
-| For the Glory | 1.00% | ~3,865 |
-| It's all about the money | 1.00% | ~3,865 |
-| True Catholic | 1.00% | ~3,865 |
+| Until death do us apart | 4.00% | ~15,464 |
+| That's a Grand Army | 3.00% | ~11,598 |
+| That is mine! | 3.00% | ~11,598 |
+| Victorious! | 3.00% | ~11,598 |
+| Brothers in Arms | 2.00% | ~7,732 |
+| That's a Grand Navy | 2.00% | ~7,732 |
+| Seriously?! | 2.00% | ~7,732 |
+| Cold War | 1.00% | ~3,866 |
+| Defender of the Faith | 1.00% | ~3,866 |
+| For the Glory | 1.00% | ~3,866 |
+| It's all about the money | 1.00% | ~3,866 |
+| True Catholic | 1.00% | ~3,866 |
 | The Princess is in this Castle | 0.90% | ~3,479 |
-| It's all about luck | 0.80% | ~3,092 |
-| Respected | 0.80% | ~3,092 |
-| Truly Divine Ruler | 0.80% | ~3,092 |
+| It's all about luck | 0.80% | ~3,093 |
+| Respected | 0.80% | ~3,093 |
+| Truly Divine Ruler | 0.80% | ~3,093 |
 | Blockader | 0.70% | ~2,706 |
 | Double the Love | 0.70% | ~2,706 |
 | Total Control | 0.70% | ~2,706 |
-| Royal Authority | 0.60% | ~2,319 |
+| Royal Authority | 0.60% | ~2,320 |
 | Combined Arms | 0.50% | ~1,933 |
 | My armies are invincible! | 0.50% | ~1,933 |
 | Agressive Expander | 0.40% | ~1,546 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 386,528 (Ranked 41)  
+Progressed: 386,608 (Ranked 41)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -496,17 +496,17 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-08-30 | 382,380 | 0 |
 | 2023-08-31 | 384,237 | 0 |
 | 2023-09-01 | 386,048 | 0 |
-| 2023-09-02 | 386,528 | 0 |
+| 2023-09-02 | 386,608 | 0 |
 ## Awards
 Max (Educational): 5,880  (Ranked 59)  
-Sum: 48,402 (Ranked 26)  
+Sum: 48,418 (Ranked 26)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,880 |
 | This game is Highly Recommended | 5,608 |
 | This game is Extremely Fun | 5,576 |
-| This game has Challenging Combat | 5,556 |
+| This game has Challenging Combat | 5,572 |
 | This game has Diverse Characters | 5,553 |
 | This game is Relaxing | 5,412 |
 | This game has Competitive Players | 5,288 |
@@ -744,3 +744,4 @@ Diff (max vs sum): 33
 | 2023-08-30 | 4.68 | - | 5,840 | 48,158 |
 | 2023-08-31 | 4.68 | - | 5,861 | 48,281 |
 | 2023-09-01 | 4.68 | - | 5,880 | 48,402 |
+| 2023-09-02 | 4.68 | - | 5,880 | 48,418 |

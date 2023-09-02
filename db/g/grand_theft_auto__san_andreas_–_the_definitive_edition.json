@@ -2,7 +2,7 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 473,
+  "Ranking_Rating": 474,
   "Ranking_Popularity": 245,
   "Ranking_PopularitySum": 337,
   "Ranking_EOS_Progress": 122,
@@ -784,7 +784,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12109,
+  "EOS_Progressed": 12110,
   "EOS_Completed": 44,
   "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 4,
@@ -9684,6 +9684,11 @@
       "Time": "2023-09-02T08:07:00.5097761+00:00",
       "NumProgressed": 12109,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-09-02T09:06:45.5560931+00:00",
+      "NumProgressed": 12110,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 35,
@@ -9695,7 +9700,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9808
+      "UsersEstimate": 9809
     },
     {
       "ID": "ACH02",
@@ -9807,7 +9812,7 @@
       "Name": "They Can\u2019t Stop All of Us",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "ACH16",
@@ -9839,7 +9844,7 @@
       "Name": "Rescue a Kitten Too?",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "ACH20",
@@ -9871,7 +9876,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3148
+      "UsersEstimate": 3149
     },
     {
       "ID": "ACH24",
@@ -9974,7 +9979,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12109,
+      "Progressed": 12110,
       "Completed": 44
     }
   ],
@@ -9982,8 +9987,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-09-02T08:01:10.7897875+00:00",
-  "LastChanged_Achievements": "2023-09-02T08:07:00.5097752+00:00",
+  "LastChanged_Achievements": "2023-09-02T09:06:45.5560927+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:49.3440273+00:00",
-  "LastUpdate_Ratings": "2023-09-02T08:01:10.7897884+00:00",
-  "LastUpdate_Achievements": "2023-09-02T08:07:00.5098718+00:00"
+  "LastUpdate_Ratings": "2023-09-02T09:00:53.8751865+00:00",
+  "LastUpdate_Achievements": "2023-09-02T09:06:45.5561909+00:00"
 }
