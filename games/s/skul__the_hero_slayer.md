@@ -1,7 +1,7 @@
 # Skul: The Hero Slayer
 [Store](https://store.epicgames.com/en-US/p/skul-the-hero-slayer)  
 [View Rawdata](../../db/s/skul__the_hero_slayer.json)  
-Rating: 4.72 (Ranked 174)  
+Rating: 4.72 (Ranked 175)  
 Number of Ratings: 546  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -11,8 +11,8 @@ Number of Ratings: 546  (23.09.2022)
 | Focus! | 63.00% | ~5,136 |
 | Rescued Elder Ent | 63.00% | ~5,136 |
 | The End of the Gold Mane Knights | 49.00% | ~3,995 |
+| False Goddess, Disappear | 41.00% | ~3,343 |
 | Rules of Etiquette | 41.00% | ~3,343 |
-| False Goddess, Disappear | 40.00% | ~3,261 |
 | Quick Movements | 35.00% | ~2,854 |
 | Inventory Management | 34.00% | ~2,772 |
 | The Fall of the Leonia Order | 31.00% | ~2,527 |

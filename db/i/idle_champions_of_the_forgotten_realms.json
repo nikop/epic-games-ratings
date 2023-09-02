@@ -2,12 +2,12 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 930,
+  "Ranking_Rating": 931,
   "Ranking_Popularity": 68,
   "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 44,
+  "Ranking_EOS_NewPlayers": 45,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -6304,9 +6304,9 @@
       "Count": 3389
     }
   ],
-  "EOS_Progressed": 226657,
+  "EOS_Progressed": 226663,
   "EOS_Completed": 2243,
-  "EOS_NewPlayers": 1540,
+  "EOS_NewPlayers": 1533,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -21169,6 +21169,11 @@
       "Time": "2023-09-02T15:04:32.9698553+00:00",
       "NumProgressed": 226657,
       "NumCompleted": 2243
+    },
+    {
+      "Time": "2023-09-02T16:05:06.1418785+00:00",
+      "NumProgressed": 226663,
+      "NumCompleted": 2243
     }
   ],
   "TotalAchievements": 520,
@@ -25339,21 +25344,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 192931,
-      "Completed": 3376
+      "Progressed": 192937,
+      "Completed": 3377
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 226657,
+      "Progressed": 226663,
       "Completed": 2243
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-02T12:59:28.5147622+00:00",
-  "LastChanged_Achievements": "2023-09-02T15:04:32.9698549+00:00",
+  "LastChanged_Achievements": "2023-09-02T16:05:06.1418781+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:27.1816966+00:00",
-  "LastUpdate_Ratings": "2023-09-02T14:57:48.8463761+00:00",
-  "LastUpdate_Achievements": "2023-09-02T15:04:32.9725959+00:00"
+  "LastUpdate_Ratings": "2023-09-02T15:58:09.1381783+00:00",
+  "LastUpdate_Achievements": "2023-09-02T16:05:06.1444927+00:00"
 }

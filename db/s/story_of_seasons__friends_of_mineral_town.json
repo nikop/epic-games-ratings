@@ -2,13 +2,13 @@
   "ID": "0651f99bb1084961ab980933a05de159",
   "Name": "STORY OF SEASONS: Friends of Mineral Town",
   "ProductSlug": "story-of-seasons-friends-of-mineral-town",
-  "Ranking_Rating": 83,
-  "Ranking_Popularity": 515,
-  "Ranking_PopularitySum": 515,
+  "Ranking_Rating": 84,
+  "Ranking_Popularity": 516,
+  "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 571,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-11-30T16:00:00+00:00",
     "PcReleaseDate": "2020-07-14T16:00:00+00:00",
@@ -216,6 +216,6 @@
   "FirstSeen": "2022-07-22T20:17:23.2339147+00:00",
   "LastChanged": "2023-03-31T05:57:00.1594521+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:13.6720348+00:00",
-  "LastUpdate_Ratings": "2023-09-02T14:59:16.5448506+00:00",
-  "LastUpdate_Achievements": "2023-09-02T15:06:25.0332383+00:00"
+  "LastUpdate_Ratings": "2023-09-02T16:00:16.1961617+00:00",
+  "LastUpdate_Achievements": "2023-09-02T16:07:35.5211079+00:00"
 }

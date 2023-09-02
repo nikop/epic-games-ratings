@@ -1,44 +1,44 @@
 # Hundred Days - Winemaking Simulator
 [Store](https://store.epicgames.com/en-US/p/hundred-days-winemaking-simulator)  
 [View Rawdata](../../db/h/hundred_days_-_winemaking_simulator.json)  
-Rating: 4.35 (Ranked 756)  
+Rating: 4.35 (Ranked 757)  
 Number of Ratings: 7,669  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 31.00% | ~246 |
-| It's a good start | 8.00% | ~63 |
+| Bye Bye | 30.00% | ~241 |
+| It's a good start | 8.00% | ~64 |
 | Quack | 6.00% | ~48 |
 | Bonjour! | 5.00% | ~40 |
-| The Blue Marl | 5.00% | ~40 |
 | Ostinata | 4.00% | ~32 |
 | The Assistant | 4.00% | ~32 |
+| The Blue Marl | 4.00% | ~32 |
 | A long journey | 4.00% | ~32 |
-| Better than nothing? | 4.00% | ~32 |
-| A big garage | 3.00% | ~24 |
+| Better than nothing? | 3.00% | ~24 |
 | Surprise of Langhe | 3.00% | ~24 |
 | Famous | 3.00% | ~24 |
-| What is that? A castle? | 2.00% | ~16 |
 | A lot of space | 2.00% | ~16 |
+| A big garage | 2.00% | ~16 |
 | Big Money | 2.00% | ~16 |
 | Exotic | 2.00% | ~16 |
 | Keep the doctor away | 2.00% | ~16 |
+| What is that? A castle? | 1.00% | ~8 |
 | Millionaire | 1.00% | ~8 |
 | Welcome to the club | 1.00% | ~8 |
 | King of Langhe | 1.00% | ~8 |
 | Pastry Chef | 0.90% | ~7 |
 | Very Important Winemaker | 0.90% | ~7 |
-| Treasure of Roero | 0.80% | ~6 |
+| Treasure of Roero | 0.70% | ~6 |
 | Gem of Monferrato | 0.60% | ~5 |
 | King of red wines | 0.50% | ~4 |
 | Sales Expert | 0.50% | ~4 |
 | Knight of Langhe | 0.50% | ~4 |
 | King of white wines | 0.40% | ~3 |
-| Big deals | 0.30% | ~2 |
-| Master Winemaker | 0.30% | ~2 |
-| Unsuitable Terroir | 0.30% | ~2 |
+| Big deals | 0.20% | ~2 |
+| Master Winemaker | 0.20% | ~2 |
+| Unsuitable Terroir | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 792 (Ranked 214)  
+Progressed: 804 (Ranked 212)  
 Completed: 2 (0.25%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -46,7 +46,7 @@ Completed: 2 (0.25%) (Ranked 186)
 | 2023-08-30 | 210 | 0 |
 | 2023-08-31 | 441 | 2 |
 | 2023-09-01 | 652 | 2 |
-| 2023-09-02 | 792 | 2 |
+| 2023-09-02 | 804 | 2 |
 ## Awards
 Max (Relaxing): 203  (Ranked 273)  
 Sum: 1,458 (Ranked 224)  

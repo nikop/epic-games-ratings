@@ -1,22 +1,22 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.03 (Ranked 936)  
+Rating: 4.03 (Ranked 937)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,753 |
-| World Map | 79.00% | ~1,489 |
-| Temple of Eternals | 57.00% | ~1,074 |
+| Victor | 93.00% | ~1,754 |
+| World Map | 79.00% | ~1,490 |
+| Temple of Eternals | 57.00% | ~1,075 |
 | Prestigious | 54.00% | ~1,018 |
 | Fellowship Power | 41.00% | ~773 |
-| Guild Power | 25.00% | ~471 |
+| Guild Power | 25.00% | ~472 |
 | Prestigious x10 | 22.00% | ~415 |
 | The game is on | 20.00% | ~377 |
 | Exotic Merchant | 19.00% | ~358 |
-| Dragon Clicker | 17.00% | ~320 |
-| Inspection | 17.00% | ~320 |
-| Miner Clicker | 17.00% | ~320 |
+| Dragon Clicker | 17.00% | ~321 |
+| Inspection | 17.00% | ~321 |
+| Miner Clicker | 17.00% | ~321 |
 | Full Party | 16.00% | ~302 |
 | Dragon Master | 15.00% | ~283 |
 | Enlightenment | 15.00% | ~283 |
@@ -34,11 +34,11 @@ Rating: 4.03 (Ranked 936)
 | Mastery | 11.00% | ~207 |
 | Relic Of The Past | 11.00% | ~207 |
 | The power of Awakening | 11.00% | ~207 |
-| Daily Quest Completionist | 10.00% | ~188 |
-| Four Leaf Clover | 10.00% | ~188 |
-| Frostfire Liberator | 10.00% | ~188 |
-| Moving Up The Ladder | 10.00% | ~188 |
-| Scroll Master | 10.00% | ~188 |
+| Daily Quest Completionist | 10.00% | ~189 |
+| Four Leaf Clover | 10.00% | ~189 |
+| Frostfire Liberator | 10.00% | ~189 |
+| Moving Up The Ladder | 10.00% | ~189 |
+| Scroll Master | 10.00% | ~189 |
 | Here We Go Again | 9.00% | ~170 |
 | Master Enchanter | 9.00% | ~170 |
 | The father of Dragons | 9.00% | ~170 |
@@ -81,7 +81,7 @@ Rating: 4.03 (Ranked 936)
 | Silverwood liberator | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,885 (Ranked 174)  
+Progressed: 1,886 (Ranked 174)  
 Completed: 2 (0.11%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,7 +215,7 @@ Completed: 2 (0.11%) (Ranked 216)
 | 2023-08-30 | 1,873 | 2 |
 | 2023-08-31 | 1,875 | 2 |
 | 2023-09-01 | 1,881 | 2 |
-| 2023-09-02 | 1,885 | 2 |
+| 2023-09-02 | 1,886 | 2 |
 ## Awards
 Max (Great for Beginners): 20  (Ranked 510)  
 Sum: 20 (Ranked 511)  

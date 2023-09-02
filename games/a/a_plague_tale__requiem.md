@@ -1,29 +1,29 @@
 # A Plague Tale: Requiem
 [Store](https://store.epicgames.com/en-US/p/a-plague-tale-requiem)  
 [View Rawdata](../../db/a/a_plague_tale__requiem.json)  
-Rating: 4.73 (Ranked 162)  
+Rating: 4.73 (Ranked 163)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~11,876 |
-| Newcomers | 79.00% | ~10,198 |
+| Under a New Sun | 92.00% | ~11,877 |
+| Newcomers | 79.00% | ~10,199 |
 | A Burden of Blood | 74.00% | ~9,553 |
-| Protector's Duty | 70.00% | ~9,036 |
-| Alchemist | 69.00% | ~8,907 |
-| In our Wake | 68.00% | ~8,778 |
-| Leaving all Behind | 65.00% | ~8,391 |
+| Protector's Duty | 70.00% | ~9,037 |
+| Alchemist | 69.00% | ~8,908 |
+| In our Wake | 68.00% | ~8,779 |
+| Leaving all Behind | 65.00% | ~8,392 |
 | Felons | 62.00% | ~8,004 |
-| A Sea of Promises | 61.00% | ~7,874 |
-| Tales and Revelations | 58.00% | ~7,487 |
+| A Sea of Promises | 61.00% | ~7,875 |
+| Tales and Revelations | 58.00% | ~7,488 |
 | Bloodline | 53.00% | ~6,842 |
-| The Cradle of Centuries | 49.00% | ~6,325 |
-| The Life We Deserve | 46.00% | ~5,938 |
+| The Cradle of Centuries | 49.00% | ~6,326 |
+| The Life We Deserve | 46.00% | ~5,939 |
 | Night guard | 43.00% | ~5,551 |
 | Nothing Left | 39.00% | ~5,035 |
-| Healing our Wounds | 37.00% | ~4,776 |
+| Healing our Wounds | 37.00% | ~4,777 |
 | Dying Sun | 33.00% | ~4,260 |
-| Improved crossbow | 27.00% | ~3,485 |
-| King Hugo | 25.00% | ~3,227 |
+| Improved crossbow | 27.00% | ~3,486 |
+| King Hugo | 25.00% | ~3,228 |
 | Mercy | 24.00% | ~3,098 |
 | Effective instruments | 22.00% | ~2,840 |
 | Perfect shot | 22.00% | ~2,840 |
@@ -34,14 +34,14 @@ Rating: 4.73 (Ranked 162)
 | Pocket laboratory | 11.00% | ~1,420 |
 | Herbalist | 8.00% | ~1,033 |
 | Fighter | 8.00% | ~1,033 |
-| Ornithologist | 5.00% | ~645 |
+| Ornithologist | 5.00% | ~646 |
 | Immortal memories | 4.00% | ~516 |
 | Sneaky | 4.00% | ~516 |
 | Old protector | 2.00% | ~258 |
 | Explorer | 1.00% | ~129 |
 | Malignant | 1.00% | ~129 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,909 (Ranked 121)  
+Progressed: 12,910 (Ranked 121)  
 Completed: 45 (0.35%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,11 +176,11 @@ Completed: 45 (0.35%) (Ranked 171)
 | 2023-08-30 | 12,895 | 45 |
 | 2023-08-31 | 12,898 | 45 |
 | 2023-09-01 | 12,903 | 45 |
-| 2023-09-02 | 12,909 | 45 |
+| 2023-09-02 | 12,910 | 45 |
 ## Awards
 Max (Great Boss Battles): 414  (Ranked 212)  
-Sum: 632 (Ranked 293)  
-Diff (max vs sum): -81  
+Sum: 632 (Ranked 292)  
+Diff (max vs sum): -80  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 414 |

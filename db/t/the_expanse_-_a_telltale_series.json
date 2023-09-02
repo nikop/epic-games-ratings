@@ -2,13 +2,13 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 240,
-  "Ranking_Popularity": 515,
-  "Ranking_PopularitySum": 515,
+  "Ranking_Rating": 241,
+  "Ranking_Popularity": 516,
+  "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -46,9 +46,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9853,
+  "EOS_Progressed": 9856,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 693,
+  "EOS_NewPlayers": 686,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4046,6 +4046,11 @@
       "Time": "2023-09-02T15:04:30.0997844+00:00",
       "NumProgressed": 9853,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-02T16:05:01.5662939+00:00",
+      "NumProgressed": 9856,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -4106,7 +4111,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 2266
+      "UsersEstimate": 2267
     },
     {
       "ID": "16",
@@ -4122,7 +4127,7 @@
       "Name": "Spore Taste",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1872
+      "UsersEstimate": 1873
     },
     {
       "ID": "18",
@@ -4290,14 +4295,14 @@
       "Name": "Impossible Objects",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2463
+      "UsersEstimate": 2464
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 9853,
+      "Progressed": 9856,
       "Completed": 0
     }
   ],
@@ -4305,8 +4310,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-08-31T16:58:15.58955+00:00",
-  "LastChanged_Achievements": "2023-09-02T15:04:30.099784+00:00",
+  "LastChanged_Achievements": "2023-09-02T16:05:01.5662934+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:01.322184+00:00",
-  "LastUpdate_Ratings": "2023-09-02T14:58:53.9930031+00:00",
-  "LastUpdate_Achievements": "2023-09-02T15:04:30.0998323+00:00"
+  "LastUpdate_Ratings": "2023-09-02T15:59:42.5382804+00:00",
+  "LastUpdate_Achievements": "2023-09-02T16:05:01.5663299+00:00"
 }

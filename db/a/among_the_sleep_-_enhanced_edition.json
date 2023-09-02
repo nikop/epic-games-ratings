@@ -2,9 +2,9 @@
   "ID": "53ef2f4592684c4c97d6d32e40467274",
   "Name": "Among the Sleep - Enhanced Edition",
   "ProductSlug": "among-the-sleep-enhanced-edition",
-  "Ranking_Rating": 796,
-  "Ranking_Popularity": 515,
-  "Ranking_PopularitySum": 515,
+  "Ranking_Rating": 797,
+  "Ranking_Popularity": 516,
+  "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 156,
   "Ranking_EOS_NewPlayers": 65,
@@ -455,9 +455,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 84415,
+  "EOS_Progressed": 84422,
   "EOS_Completed": 392,
-  "EOS_NewPlayers": 765,
+  "EOS_NewPlayers": 766,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -15245,6 +15245,11 @@
       "Time": "2023-09-02T15:05:35.3282679+00:00",
       "NumProgressed": 84415,
       "NumCompleted": 392
+    },
+    {
+      "Time": "2023-09-02T16:06:29.1904956+00:00",
+      "NumProgressed": 84422,
+      "NumCompleted": 392
     }
   ],
   "TotalAchievements": 10,
@@ -15304,7 +15309,7 @@
       "Name": "Prologue Drawings",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "GameCompleted",
@@ -15320,7 +15325,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 29545
+      "UsersEstimate": 29548
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -15335,15 +15340,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 84415,
+      "Progressed": 84422,
       "Completed": 392
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-08-23T22:58:37.1708472+00:00",
-  "LastChanged_Achievements": "2023-09-02T15:05:35.3282674+00:00",
+  "LastChanged_Achievements": "2023-09-02T16:06:29.1904952+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:58:05.5204272+00:00",
-  "LastUpdate_Ratings": "2023-09-02T15:00:04.74901+00:00",
-  "LastUpdate_Achievements": "2023-09-02T15:05:35.3283668+00:00"
+  "LastUpdate_Ratings": "2023-09-02T16:01:19.4418198+00:00",
+  "LastUpdate_Achievements": "2023-09-02T16:06:29.190569+00:00"
 }

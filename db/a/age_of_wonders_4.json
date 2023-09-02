@@ -2,12 +2,12 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 394,
+  "Ranking_Rating": 395,
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 497,
-  "Ranking_EOS_Progress": 146,
+  "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -324,9 +324,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 5150,
+  "EOS_Progressed": 5151,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -5989,6 +5989,11 @@
       "Time": "2023-09-02T09:08:54.708829+00:00",
       "NumProgressed": 5150,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-02T16:02:24.2403723+00:00",
+      "NumProgressed": 5151,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 50,
@@ -6048,7 +6053,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "16",
@@ -6064,7 +6069,7 @@
       "Name": "Lord of Chaos",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "18",
@@ -6072,7 +6077,7 @@
       "Name": "Arch Mage",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "19",
@@ -6080,7 +6085,7 @@
       "Name": "The Creator",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "2",
@@ -6088,7 +6093,7 @@
       "Name": "Enchanted Archipelago",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "20",
@@ -6096,7 +6101,7 @@
       "Name": "The Goddess of Nature",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "21",
@@ -6184,7 +6189,7 @@
       "Name": "Preparation Is Everything",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "31",
@@ -6399,13 +6404,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5150,
+      "Progressed": 5151,
       "Completed": 4761
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5150,
+      "Progressed": 5151,
       "Completed": 6
     }
   ],
@@ -6413,8 +6418,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-08-26T15:57:22.2345503+00:00",
-  "LastChanged_Achievements": "2023-09-02T15:03:10.1554813+00:00",
+  "LastChanged_Achievements": "2023-09-02T16:02:24.2403722+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:01.1912203+00:00",
-  "LastUpdate_Ratings": "2023-09-02T14:58:54.1276804+00:00",
-  "LastUpdate_Achievements": "2023-09-02T15:03:10.1555609+00:00"
+  "LastUpdate_Ratings": "2023-09-02T15:59:42.6824599+00:00",
+  "LastUpdate_Achievements": "2023-09-02T16:02:24.2404339+00:00"
 }

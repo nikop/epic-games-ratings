@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1202,
+  "EOS_Progressed": 1203,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
@@ -4241,6 +4241,11 @@
       "Time": "2023-09-02T13:07:48.4739129+00:00",
       "NumProgressed": 1202,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-02T16:06:44.0969142+00:00",
+      "NumProgressed": 1203,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4356,7 +4361,7 @@
       "Name": "Facility Online",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -4555,14 +4560,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1202,
+      "Progressed": 1203,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-02T15:05:46.9252029+00:00",
+  "LastChanged_Achievements": "2023-09-02T16:06:44.0969135+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:58:09.0134138+00:00",
-  "LastUpdate_Ratings": "2023-09-02T15:00:09.3236735+00:00",
-  "LastUpdate_Achievements": "2023-09-02T15:05:46.9252587+00:00"
+  "LastUpdate_Ratings": "2023-09-02T16:01:24.5428739+00:00",
+  "LastUpdate_Achievements": "2023-09-02T16:06:44.0969563+00:00"
 }

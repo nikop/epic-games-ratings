@@ -2,13 +2,13 @@
   "ID": "clary",
   "Name": "Assassins Creed Odyssey Standard Edition",
   "ProductSlug": "assassins-creed-odyssey",
-  "Ranking_Rating": 134,
+  "Ranking_Rating": 135,
   "Ranking_Popularity": 62,
   "Ranking_PopularitySum": 64,
   "Ranking_EOS_Progress": 571,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2018-10-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -7857,10 +7857,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 14568,
       "NumberOfAwardsMax": 5819
+    },
+    {
+      "Time": "2023-09-02T15:59:57.7474501+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 14576,
+      "NumberOfAwardsMax": 5819
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14568,
+  "NumberOfAwards": 14576,
   "NumberOfAwardsMax": 5819,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7904,7 +7910,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 537
+      "Count": 540
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -7916,7 +7922,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 533
+      "Count": 538
     },
     {
       "Text": "This game is Relaxing",
@@ -7960,8 +7966,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:24.693286+00:00",
-  "LastChanged": "2023-09-02T10:02:18.9568189+00:00",
+  "LastChanged": "2023-09-02T15:59:57.74745+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:01.5502017+00:00",
-  "LastUpdate_Ratings": "2023-09-02T14:59:04.2848537+00:00",
-  "LastUpdate_Achievements": "2023-09-02T15:03:36.1279381+00:00"
+  "LastUpdate_Ratings": "2023-09-02T15:59:57.7474505+00:00",
+  "LastUpdate_Achievements": "2023-09-02T16:03:29.1117201+00:00"
 }

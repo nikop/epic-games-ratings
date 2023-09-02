@@ -1,15 +1,15 @@
 # BioShock Infinite: Complete Edition
 [Store](https://store.epicgames.com/en-US/p/bioshock-infinite-complete-edition)  
 [View Rawdata](../../db/b/bioshock_infinite__complete_edition.json)  
-Rating: 4.70 (Ranked 198)  
+Rating: 4.70 (Ranked 199)  
 Number of Ratings: 18,329  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 4,565  (Ranked 72)  
-Sum: 5,613 (Ranked 124)  
+Max (Great Boss Battles): 4,567  (Ranked 72)  
+Sum: 5,615 (Ranked 124)  
 Diff (max vs sum): -52  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 4,565 |
+| This game has Great Boss Battles | 4,567 |
 | This game is Great for Beginners | 124 |
 | This game is Relaxing | 118 |
 | This game has Quickly Understood Controls | 116 |
@@ -161,3 +161,4 @@ Diff (max vs sum): -52
 | 2023-08-28 | 4.70 | - | 4,562 | 5,610 |
 | 2023-08-31 | 4.70 | - | 4,564 | 5,612 |
 | 2023-09-01 | 4.70 | - | 4,565 | 5,613 |
+| 2023-09-02 | 4.70 | - | 4,567 | 5,615 |

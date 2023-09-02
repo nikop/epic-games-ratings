@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.60 (Ranked 394)  
+Rating: 4.60 (Ranked 395)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -28,13 +28,13 @@ Rating: 4.60 (Ranked 394)
 | Fiery Friend | 4.00% | ~206 |
 | Against the Odds | 4.00% | ~206 |
 | Impenetrable Fortress | 4.00% | ~206 |
-| Return of the Wizard King | 3.00% | ~154 |
-| Lord of Chaos | 3.00% | ~154 |
-| Arch Mage | 3.00% | ~154 |
-| The Creator | 3.00% | ~154 |
-| Enchanted Archipelago | 3.00% | ~154 |
-| The Goddess of Nature | 3.00% | ~154 |
-| Preparation Is Everything | 3.00% | ~154 |
+| Return of the Wizard King | 3.00% | ~155 |
+| Lord of Chaos | 3.00% | ~155 |
+| Arch Mage | 3.00% | ~155 |
+| The Creator | 3.00% | ~155 |
+| Enchanted Archipelago | 3.00% | ~155 |
+| The Goddess of Nature | 3.00% | ~155 |
+| Preparation Is Everything | 3.00% | ~155 |
 | The Magic That Empowers Me! | 2.00% | ~103 |
 | God Emperor | 2.00% | ~103 |
 | Eternal Lord | 2.00% | ~103 |
@@ -56,7 +56,7 @@ Rating: 4.60 (Ranked 394)
 | The Grey Wizard | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,150 (Ranked 146)  
+Progressed: 5,151 (Ranked 145)  
 Completed: 6 (0.12%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 6 (0.12%) (Ranked 210)
 | 2023-08-29 | 5,141 | 6 |
 | 2023-08-31 | 5,146 | 6 |
 | 2023-09-01 | 5,149 | 6 |
-| 2023-09-02 | 5,150 | 6 |
+| 2023-09-02 | 5,151 | 6 |
 ## Awards
 Max (Great for Beginners): 23  (Ranked 492)  
 Sum: 23 (Ranked 497)  

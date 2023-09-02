@@ -4,8 +4,8 @@
   "ProductSlug": "i-saw-black-clouds-67008d",
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
     "PcReleaseDate": "2021-03-30T17:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 290,
+  "EOS_Progressed": 291,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -298,6 +298,11 @@
       "Time": "2023-08-21T08:03:43.5369933+00:00",
       "NumProgressed": 290,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-02T16:05:11.4234649+00:00",
+      "NumProgressed": 291,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -341,7 +346,7 @@
       "Name": "End",
       "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "escape",
@@ -387,9 +392,9 @@
       "ID": "origin",
       "SetID": "8b5dfcp",
       "Name": "Origin",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 142
+      "UsersEstimate": 140
     },
     {
       "ID": "realist",
@@ -428,7 +433,7 @@
     {
       "ID": "8b5dfcp",
       "IsBase": true,
-      "Progressed": 290,
+      "Progressed": 291,
       "Completed": 3
     }
   ],
@@ -436,8 +441,8 @@
   "FirstSeenRating": "2023-03-31T05:57:25.6585069+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.1686763+00:00",
   "LastChanged": "2023-03-31T05:57:25.658507+00:00",
-  "LastChanged_Achievements": "2023-09-02T15:04:37.274163+00:00",
+  "LastChanged_Achievements": "2023-09-02T16:05:11.4234645+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:35.7957821+00:00",
-  "LastUpdate_Ratings": "2023-09-02T14:59:33.8798858+00:00",
-  "LastUpdate_Achievements": "2023-09-02T15:04:37.2741753+00:00"
+  "LastUpdate_Ratings": "2023-09-02T16:00:39.2279464+00:00",
+  "LastUpdate_Achievements": "2023-09-02T16:05:11.4234758+00:00"
 }

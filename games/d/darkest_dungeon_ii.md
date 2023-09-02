@@ -1,52 +1,52 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 240)  
+Rating: 4.68 (Ranked 241)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~108,460 |
-| Don't Make Me Turn This Coach Around | 70.00% | ~81,637 |
-| A Clear Conscience | 69.00% | ~80,471 |
-| Unleash Hell | 68.00% | ~79,304 |
-| Unfulfilled Desires | 68.00% | ~79,304 |
-| Funny Guy | 67.00% | ~78,138 |
-| Unshackled | 67.00% | ~78,138 |
-| Long Live the King | 66.00% | ~76,972 |
-| Resurrection | 62.00% | ~72,307 |
-| Wyrdly Reconstructed | 62.00% | ~72,307 |
-| Boxcar Kid | 60.00% | ~69,974 |
-| Rush Hour | 60.00% | ~69,974 |
-| To Grandmother's House | 60.00% | ~69,974 |
-| Serenity Now! | 53.00% | ~61,811 |
-| Hope Rekindled | 50.00% | ~58,312 |
+| A Place to Lay Your Head | 93.00% | ~108,462 |
+| Don't Make Me Turn This Coach Around | 70.00% | ~81,638 |
+| A Clear Conscience | 69.00% | ~80,472 |
+| Unleash Hell | 68.00% | ~79,306 |
+| Unfulfilled Desires | 68.00% | ~79,306 |
+| Funny Guy | 67.00% | ~78,139 |
+| Unshackled | 67.00% | ~78,139 |
+| Long Live the King | 66.00% | ~76,973 |
+| Resurrection | 62.00% | ~72,308 |
+| Wyrdly Reconstructed | 62.00% | ~72,308 |
+| Boxcar Kid | 60.00% | ~69,976 |
+| Rush Hour | 60.00% | ~69,976 |
+| To Grandmother's House | 60.00% | ~69,976 |
+| Serenity Now! | 53.00% | ~61,812 |
+| Hope Rekindled | 50.00% | ~58,313 |
 | Ramble On | 48.00% | ~55,980 |
 | Nope | 48.00% | ~55,980 |
-| This Looks Familiar | 38.00% | ~44,317 |
-| Now Stay Dead | 37.00% | ~43,151 |
+| This Looks Familiar | 38.00% | ~44,318 |
+| Now Stay Dead | 37.00% | ~43,152 |
 | Harvest Festival | 36.00% | ~41,985 |
 | Hot Air | 36.00% | ~41,985 |
-| Merry Time | 35.00% | ~40,818 |
-| Creep and Sleep | 33.00% | ~38,486 |
+| Merry Time | 35.00% | ~40,819 |
+| Creep and Sleep | 33.00% | ~38,487 |
 | Overdue Notice | 32.00% | ~37,320 |
-| Whale | 31.00% | ~36,153 |
-| Banishment | 30.00% | ~34,987 |
-| FNG | 29.00% | ~33,821 |
+| Whale | 31.00% | ~36,154 |
+| Banishment | 30.00% | ~34,988 |
+| FNG | 29.00% | ~33,822 |
 | Predator | 24.00% | ~27,990 |
 | Reverse Banditry | 24.00% | ~27,990 |
 | Autodidact | 24.00% | ~27,990 |
-| Meat and Greet | 22.00% | ~25,657 |
+| Meat and Greet | 22.00% | ~25,658 |
 | Spelunker | 21.00% | ~24,491 |
 | Eyes Up | 21.00% | ~24,491 |
 | Road Trip | 21.00% | ~24,491 |
 | It Rings a Bell | 19.00% | ~22,159 |
-| Escape from the Black Hole | 18.00% | ~20,992 |
+| Escape from the Black Hole | 18.00% | ~20,993 |
 | It Happens | 17.00% | ~19,826 |
 | This Belongs in a Museum | 16.00% | ~18,660 |
 | Dissector | 16.00% | ~18,660 |
 | Handled | 15.00% | ~17,494 |
-| Catch and Decease | 14.00% | ~16,327 |
+| Catch and Decease | 14.00% | ~16,328 |
 | Not Today! | 13.00% | ~15,161 |
 | Deprogramming | 13.00% | ~15,161 |
 | Shrine of Reflection | 11.00% | ~12,829 |
@@ -58,8 +58,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | No More Mouths to Feed | 5.00% | ~5,831 |
 | The World As It Was | 4.00% | ~4,665 |
 | Triage | 3.00% | ~3,499 |
-| A Life Well Lived | 2.00% | ~2,332 |
-| Clearing the Ledger | 2.00% | ~2,332 |
+| A Life Well Lived | 2.00% | ~2,333 |
+| Clearing the Ledger | 2.00% | ~2,333 |
 | Bacon Bits | 1.00% | ~1,166 |
 | Pub Crawl | 1.00% | ~1,166 |
 | Eidetic | 1.00% | ~1,166 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Gravestone Left Unturned | 0.10% | ~117 |
 | 20,000 Leagues Above the Sea | 0.10% | ~117 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 116,624 (Ranked 71)  
+Progressed: 116,626 (Ranked 71)  
 Completed: 1 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,10 +197,10 @@ Completed: 1 (0.00%) (Ranked 271)
 | 2023-08-30 | 116,409 | 1 |
 | 2023-08-31 | 116,485 | 1 |
 | 2023-09-01 | 116,565 | 1 |
-| 2023-09-02 | 116,624 | 1 |
+| 2023-09-02 | 116,626 | 1 |
 ## Awards
 Max (Character Customization): 7,360  (Ranked 49)  
-Sum: 19,168 (Ranked 57)  
+Sum: 19,169 (Ranked 57)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -209,7 +209,7 @@ Diff (max vs sum): -8
 | This game has Challenging Combat | 1,460 |
 | This game is Highly Recommended | 1,409 |
 | This game is Extremely Fun | 1,364 |
-| This game has Amazing Characters | 1,357 |
+| This game has Amazing Characters | 1,358 |
 | This game has Amazing Storytelling | 1,275 |
 | This game has Quickly Understood Controls | 1,267 |
 | This game has Unique Visuals | 1,230 |
@@ -437,4 +437,4 @@ Diff (max vs sum): -8
 | 2023-08-30 | 4.68 | - | 7,354 | 19,148 |
 | 2023-08-31 | 4.68 | - | 7,357 | 19,152 |
 | 2023-09-01 | 4.68 | - | 7,360 | 19,164 |
-| 2023-09-02 | 4.68 | - | 7,360 | 19,168 |
+| 2023-09-02 | 4.68 | - | 7,360 | 19,169 |

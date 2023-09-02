@@ -1,28 +1,28 @@
 # Arcadegeddon
 [Store](https://store.epicgames.com/en-US/p/arcadegeddon)  
 [View Rawdata](../../db/a/arcadegeddon.json)  
-Rating: 4.49 (Ranked 581)  
+Rating: 4.49 (Ranked 582)  
 Number of Ratings: 801  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 91.00% | ~8,033 |
-| Photogenic | 87.00% | ~7,680 |
+| Let's Get This Party Started | 91.00% | ~8,034 |
+| Photogenic | 87.00% | ~7,681 |
 | Plug It In | 84.00% | ~7,416 |
 | Surge Gauntlet Jockey | 84.00% | ~7,416 |
-| Adventure Time | 79.00% | ~6,974 |
+| Adventure Time | 79.00% | ~6,975 |
 | Playing With Power | 77.00% | ~6,798 |
 | Coup d'Etat | 59.00% | ~5,209 |
-| You're Fired | 57.00% | ~5,032 |
+| You're Fired | 57.00% | ~5,033 |
 | Get Furious | 56.00% | ~4,944 |
-| Gunplay And Cosplay | 55.00% | ~4,855 |
-| Hacks In Stacks | 55.00% | ~4,855 |
+| Gunplay And Cosplay | 55.00% | ~4,856 |
+| Hacks In Stacks | 55.00% | ~4,856 |
 | Meching Enemies | 49.00% | ~4,326 |
-| Ticket Toddler | 44.00% | ~3,884 |
-| Booty Bashing | 40.00% | ~3,531 |
+| Ticket Toddler | 44.00% | ~3,885 |
+| Booty Bashing | 40.00% | ~3,532 |
 | Field Medic | 38.00% | ~3,355 |
 | Here Comes a New Challenger | 38.00% | ~3,355 |
-| Rapid Response | 33.00% | ~2,913 |
+| Rapid Response | 33.00% | ~2,914 |
 | Surge Ahead | 31.00% | ~2,737 |
 | The Full Monty | 31.00% | ~2,737 |
 | Guardian Angel | 28.00% | ~2,472 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~35 |
 | Pyrotechnical | 0.20% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,828 (Ranked 130)  
+Progressed: 8,829 (Ranked 130)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-08-30 | 8,784 | 0 |
 | 2023-08-31 | 8,794 | 0 |
 | 2023-09-01 | 8,812 | 0 |
-| 2023-09-02 | 8,828 | 0 |
+| 2023-09-02 | 8,829 | 0 |
 ## Awards
 Max (Relaxing): 64  (Ranked 387)  
 Sum: 461 (Ranked 308)  

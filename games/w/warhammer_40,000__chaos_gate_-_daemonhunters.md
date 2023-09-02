@@ -26,11 +26,11 @@ Number of Ratings: 371  (23.09.2022)
 | Just a Scratch | 1.00% | ~32 |
 | Execution Force | 1.00% | ~32 |
 | Hive Exterminator | 1.00% | ~32 |
+| Only in Death | 0.70% | ~22 |
 | A Gift Spurned | 0.70% | ~22 |
 | Fleetmaster | 0.60% | ~19 |
 | Daemonkeeper | 0.60% | ~19 |
 | Efficient Killer | 0.60% | ~19 |
-| Only in Death | 0.60% | ~19 |
 | Junk Banishment | 0.60% | ~19 |
 | Long Distance Call | 0.60% | ~19 |
 | Tactical Flexibility | 0.60% | ~19 |

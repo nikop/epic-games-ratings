@@ -2,13 +2,13 @@
   "ID": "6feac7e685174dd698e90ca9536e1299",
   "Name": "Skul: The Hero Slayer",
   "ProductSlug": "skul-the-hero-slayer",
-  "Ranking_Rating": 174,
+  "Ranking_Rating": 175,
   "Ranking_Popularity": 315,
   "Ranking_PopularitySum": 254,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -4582,9 +4582,9 @@
       "ID": "FakeGoddessGone",
       "SetID": "97dk767",
       "Name": "False Goddess, Disappear",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 3261
+      "UsersEstimate": 3343
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -4734,8 +4734,8 @@
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-08-23T17:02:24.1541742+00:00",
-  "LastChanged_Achievements": "2023-09-02T15:03:51.8838405+00:00",
+  "LastChanged_Achievements": "2023-09-02T16:04:10.5456572+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:03.9213001+00:00",
-  "LastUpdate_Ratings": "2023-09-02T14:58:12.7009909+00:00",
-  "LastUpdate_Achievements": "2023-09-02T15:03:51.8838853+00:00"
+  "LastUpdate_Ratings": "2023-09-02T15:58:46.2822513+00:00",
+  "LastUpdate_Achievements": "2023-09-02T16:04:10.545686+00:00"
 }

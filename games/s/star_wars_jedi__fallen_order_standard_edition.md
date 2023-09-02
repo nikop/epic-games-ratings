@@ -1,7 +1,7 @@
 # STAR WARS Jedi: Fallen Order Standard Edition
 [Store](https://store.epicgames.com/en-US/p/star-wars-jedi-fallen-order)  
 [View Rawdata](../../db/s/star_wars_jedi__fallen_order_standard_edition.json)  
-Rating: 4.69 (Ranked 218)  
+Rating: 4.69 (Ranked 219)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -45,7 +45,7 @@ Rating: 4.69 (Ranked 218)
 | What Goes Around... | 2.00% | ~22 |
 | Not So Fast | 1.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,081 (Ranked 202)  
+Progressed: 1,081 (Ranked 203)  
 Completed: 5 (0.46%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |

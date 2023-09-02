@@ -2,13 +2,13 @@
   "ID": "144f9e231e2846d1a4381d9bb678f69d",
   "Name": "Warhammer 40,000: Mechanicus - Standard Edition",
   "ProductSlug": "warhammer-mechanicus-0e4b71",
-  "Ranking_Rating": 666,
+  "Ranking_Rating": 667,
   "Ranking_Popularity": 241,
   "Ranking_PopularitySum": 196,
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 75,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -579,9 +579,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 221753,
+  "EOS_Progressed": 221757,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 560,
+  "EOS_NewPlayers": 559,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15264,6 +15264,11 @@
       "Time": "2023-09-02T15:05:26.6411085+00:00",
       "NumProgressed": 221753,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-02T16:06:17.4429818+00:00",
+      "NumProgressed": 221757,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -15275,7 +15280,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 42133
+      "UsersEstimate": 42134
     },
     {
       "ID": "ACH_BASE_10",
@@ -15283,7 +15288,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 57656
+      "UsersEstimate": 57657
     },
     {
       "ID": "ACH_BASE_11",
@@ -15523,7 +15528,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 26610
+      "UsersEstimate": 26611
     },
     {
       "ID": "ACH_BASE_8",
@@ -15546,7 +15551,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 221753,
+      "Progressed": 221757,
       "Completed": 5
     }
   ],
@@ -15554,8 +15559,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-08-31T18:57:31.710644+00:00",
-  "LastChanged_Achievements": "2023-09-02T15:05:26.641108+00:00",
+  "LastChanged_Achievements": "2023-09-02T16:06:17.4429815+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:01.6485466+00:00",
-  "LastUpdate_Ratings": "2023-09-02T14:58:11.2877539+00:00",
-  "LastUpdate_Achievements": "2023-09-02T15:05:26.6412317+00:00"
+  "LastUpdate_Ratings": "2023-09-02T15:58:43.9458488+00:00",
+  "LastUpdate_Achievements": "2023-09-02T16:06:17.4430715+00:00"
 }

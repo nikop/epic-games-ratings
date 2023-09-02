@@ -2,13 +2,13 @@
   "ID": "impala",
   "Name": "The Division 2 Standard Edition",
   "ProductSlug": "the-division-2",
-  "Ranking_Rating": 601,
+  "Ranking_Rating": 602,
   "Ranking_Popularity": 43,
   "Ranking_PopularitySum": 51,
   "Ranking_EOS_Progress": 571,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2019-03-15T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -9504,10 +9504,16 @@
       "Rating": 4.48,
       "NumberOfAwards": 26009,
       "NumberOfAwardsMax": 7900
+    },
+    {
+      "Time": "2023-09-02T16:01:27.8694483+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 26012,
+      "NumberOfAwardsMax": 7900
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 26009,
+  "NumberOfAwards": 26012,
   "NumberOfAwardsMax": 7900,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9581,7 +9587,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1290
+      "Count": 1293
     }
   ],
   "EOS_Progressed": 0,
@@ -9595,8 +9601,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2023-09-02T13:02:20.9228085+00:00",
+  "LastChanged": "2023-09-02T16:01:27.8694482+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:58:11.3875796+00:00",
-  "LastUpdate_Ratings": "2023-09-02T15:00:11.6192154+00:00",
-  "LastUpdate_Achievements": "2023-09-02T15:03:44.9839885+00:00"
+  "LastUpdate_Ratings": "2023-09-02T16:01:27.8694488+00:00",
+  "LastUpdate_Achievements": "2023-09-02T16:03:41.4870987+00:00"
 }

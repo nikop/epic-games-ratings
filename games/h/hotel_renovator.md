@@ -1,40 +1,40 @@
 # Hotel Renovator
 [Store](https://store.epicgames.com/en-US/p/hotel-renovator)  
 [View Rawdata](../../db/h/hotel_renovator.json)  
-Rating: 4.50 (Ranked 564)  
+Rating: 4.50 (Ranked 565)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start | 76.00% | ~735 |
-| And so it begins | 73.00% | ~706 |
-| No pressure | 70.00% | ~677 |
+| Good start | 76.00% | ~736 |
+| And so it begins | 73.00% | ~707 |
+| No pressure | 70.00% | ~678 |
 | Memento | 62.00% | ~600 |
-| Let there be light | 60.00% | ~580 |
+| Let there be light | 60.00% | ~581 |
 | I think you dropped this | 55.00% | ~532 |
-| Soulmate? | 54.00% | ~522 |
-| Excellent service | 50.00% | ~484 |
+| Soulmate? | 54.00% | ~523 |
+| Excellent service | 49.00% | ~474 |
 | Roll with it | 46.00% | ~445 |
-| Humble beginnings | 44.00% | ~425 |
-| Love is in the air | 44.00% | ~425 |
-| Fine, I'll do it myself | 43.00% | ~416 |
-| Moving up | 41.00% | ~396 |
+| Humble beginnings | 44.00% | ~426 |
+| Love is in the air | 44.00% | ~426 |
+| Fine, I'll do it myself | 42.00% | ~407 |
+| Moving up | 41.00% | ~397 |
 | No need to call anyone | 40.00% | ~387 |
-| Big fortune | 32.00% | ~309 |
-| Still more work ahead | 29.00% | ~280 |
+| Big fortune | 32.00% | ~310 |
+| Still more work ahead | 29.00% | ~281 |
 | Aesop's fable | 27.00% | ~261 |
 | Hotel sleuthing | 27.00% | ~261 |
-| Kaboom | 26.00% | ~251 |
+| Kaboom | 26.00% | ~252 |
 | Nearly there | 25.00% | ~242 |
-| Broken heart | 23.00% | ~222 |
+| Broken heart | 23.00% | ~223 |
 | Island boy | 21.00% | ~203 |
-| You're a star | 20.00% | ~193 |
+| You're a star | 20.00% | ~194 |
 | Unstoppable | 18.00% | ~174 |
 | Reunited | 18.00% | ~174 |
 | King of hospitality | 11.00% | ~106 |
 | Top spot in town | 2.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 967 (Ranked 206)  
-Completed: 15 (1.55%) (Ranked 107)  
+Progressed: 968 (Ranked 206)  
+Completed: 15 (1.55%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -143,6 +143,7 @@ Completed: 15 (1.55%) (Ranked 107)
 | 2023-08-27 | 965 | 15 |
 | 2023-08-30 | 966 | 15 |
 | 2023-09-01 | 967 | 15 |
+| 2023-09-02 | 968 | 15 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

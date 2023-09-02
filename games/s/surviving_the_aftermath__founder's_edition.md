@@ -1,29 +1,29 @@
 # Surviving the Aftermath
 [Store](https://store.epicgames.com/en-US/p/surviving-the-aftermath)  
 [View Rawdata](../../db/s/surviving_the_aftermath__founder's_edition.json)  
-Rating: 4.48 (Ranked 601)  
+Rating: 4.48 (Ranked 602)  
 Number of Ratings: 836  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 72.00% | ~6,299 |
 | Leader | 60.00% | ~5,249 |
-| Explorer | 53.00% | ~4,636 |
+| Explorer | 53.00% | ~4,637 |
 | Healer | 52.00% | ~4,549 |
-| Aspiring Inventor | 44.00% | ~3,849 |
+| Aspiring Inventor | 44.00% | ~3,850 |
 | Adventurer | 41.00% | ~3,587 |
-| Famous Healer | 38.00% | ~3,324 |
+| Famous Healer | 38.00% | ~3,325 |
 | Local Leader | 35.00% | ~3,062 |
-| Famous Explorer | 34.00% | ~2,974 |
-| New Opportunities | 34.00% | ~2,974 |
+| Famous Explorer | 34.00% | ~2,975 |
+| New Opportunities | 34.00% | ~2,975 |
 | Energized | 33.00% | ~2,887 |
 | The Long Haul | 33.00% | ~2,887 |
 | The Great Healer | 31.00% | ~2,712 |
 | Survivor | 31.00% | ~2,712 |
-| Legendary Explorer | 28.00% | ~2,449 |
-| Cleaner | 28.00% | ~2,449 |
-| Catastrofan | 28.00% | ~2,449 |
-| Finders, Keepers | 26.00% | ~2,274 |
+| Legendary Explorer | 28.00% | ~2,450 |
+| Cleaner | 28.00% | ~2,450 |
+| Catastrofan | 28.00% | ~2,450 |
+| Finders, Keepers | 26.00% | ~2,275 |
 | Top Notch | 25.00% | ~2,187 |
 | Great Leader | 23.00% | ~2,012 |
 | Mentor | 23.00% | ~2,012 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~17 |
 | Customized calamities | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,748 (Ranked 131)  
+Progressed: 8,749 (Ranked 131)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-08-30 | 8,689 | 0 |
 | 2023-08-31 | 8,714 | 0 |
 | 2023-09-01 | 8,731 | 0 |
-| 2023-09-02 | 8,748 | 0 |
+| 2023-09-02 | 8,749 | 0 |
 ## Awards
 Max (Extremely Fun): 101  (Ranked 335)  
 Sum: 695 (Ranked 279)  

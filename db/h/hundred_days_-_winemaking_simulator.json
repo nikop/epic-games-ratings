@@ -2,12 +2,12 @@
   "ID": "4d8b727a49144090b103f6b6ba471e71",
   "Name": "Hundred Days - Winemaking Simulator",
   "ProductSlug": "hundred-days-winemaking-simulator",
-  "Ranking_Rating": 756,
+  "Ranking_Rating": 757,
   "Ranking_Popularity": 273,
   "Ranking_PopularitySum": 224,
-  "Ranking_EOS_Progress": 214,
+  "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 63,
+  "Ranking_EOS_NewPlayers": 62,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
@@ -958,9 +958,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 792,
+  "EOS_Progressed": 804,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 787,
+  "EOS_NewPlayers": 799,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -1348,6 +1348,11 @@
       "Time": "2023-09-02T15:06:55.3758879+00:00",
       "NumProgressed": 792,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-02T16:08:16.34861+00:00",
+      "NumProgressed": 804,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -1360,15 +1365,15 @@
       "Name": "It\u0027s a good start",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "a_10",
       "SetID": "daiie3o",
       "Name": "What is that? A castle?",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 8
     },
     {
       "ID": "a_11",
@@ -1382,9 +1387,9 @@
       "ID": "a_12",
       "SetID": "daiie3o",
       "Name": "A big garage",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 16
     },
     {
       "ID": "a_15",
@@ -1406,9 +1411,9 @@
       "ID": "a_18",
       "SetID": "daiie3o",
       "Name": "Bye Bye",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 246
+      "UsersEstimate": 241
     },
     {
       "ID": "a_19",
@@ -1438,9 +1443,9 @@
       "ID": "a_21",
       "SetID": "daiie3o",
       "Name": "The Blue Marl",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 40
+      "UsersEstimate": 32
     },
     {
       "ID": "a_22",
@@ -1462,9 +1467,9 @@
       "ID": "a_25",
       "SetID": "daiie3o",
       "Name": "Better than nothing?",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 24
     },
     {
       "ID": "a_26",
@@ -1526,7 +1531,7 @@
       "ID": "a_33",
       "SetID": "daiie3o",
       "Name": "Big deals",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -1534,7 +1539,7 @@
       "ID": "a_34",
       "SetID": "daiie3o",
       "Name": "Master Winemaker",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 75,
       "UsersEstimate": 2
     },
@@ -1550,7 +1555,7 @@
       "ID": "a_36",
       "SetID": "daiie3o",
       "Name": "Unsuitable Terroir",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 75,
       "UsersEstimate": 2
     },
@@ -1566,7 +1571,7 @@
       "ID": "a_5",
       "SetID": "daiie3o",
       "Name": "Treasure of Roero",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 25,
       "UsersEstimate": 6
     },
@@ -1607,7 +1612,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 792,
+      "Progressed": 804,
       "Completed": 2
     }
   ],
@@ -1615,8 +1620,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-02T11:57:49.7912394+00:00",
-  "LastChanged_Achievements": "2023-09-02T15:06:55.3758875+00:00",
+  "LastChanged_Achievements": "2023-09-02T16:08:16.3486096+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:09.2681959+00:00",
-  "LastUpdate_Ratings": "2023-09-02T14:57:34.0157248+00:00",
-  "LastUpdate_Achievements": "2023-09-02T15:06:55.3759147+00:00"
+  "LastUpdate_Ratings": "2023-09-02T15:57:51.9908858+00:00",
+  "LastUpdate_Achievements": "2023-09-02T16:08:16.3486297+00:00"
 }

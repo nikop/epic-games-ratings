@@ -16,7 +16,7 @@
 | Employee of the week | 77.00% | ~233 |
 | Your own amateur gym | 75.00% | ~227 |
 | First defeat | 73.00% | ~221 |
-| Run K, run! | 72.00% | ~218 |
+| Run K, run! | 73.00% | ~221 |
 | Fighting is cool | 69.00% | ~209 |
 | Hello, world! | 69.00% | ~209 |
 | No bullying more | 68.00% | ~206 |
@@ -27,13 +27,13 @@
 | Workout professional | 61.00% | ~185 |
 | Handyman | 60.00% | ~182 |
 | Champion – starter pack | 60.00% | ~182 |
+| Little hacker | 59.00% | ~179 |
 | It's good to be alive | 59.00% | ~179 |
 | Own four walls | 59.00% | ~179 |
 | Employee of the year | 59.00% | ~179 |
 | Fight for life | 58.00% | ~176 |
-| Little hacker | 58.00% | ~176 |
 | Intriguing candies | 57.00% | ~173 |
-| Legal courier | 54.00% | ~164 |
+| Legal courier | 55.00% | ~167 |
 | Extreme neuropower! | 54.00% | ~164 |
 | Escaped from a big trouble | 51.00% | ~155 |
 | Now you are worthy | 50.00% | ~152 |
@@ -41,7 +41,7 @@
 | Guiding on the right path | 46.00% | ~139 |
 | Mysterious voice | 45.00% | ~136 |
 | No blades in the gym | 44.00% | ~133 |
-| Champion – no way back | 41.00% | ~124 |
+| Champion – no way back | 42.00% | ~127 |
 | Underground dwellers | 40.00% | ~121 |
 | Responsible approach | 40.00% | ~121 |
 | Deal with life | 39.00% | ~118 |

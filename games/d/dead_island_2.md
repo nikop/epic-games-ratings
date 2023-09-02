@@ -1,21 +1,21 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 503)  
+Rating: 4.54 (Ranked 504)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Hotel California | 0.90% | ~6,045 |
 | Welcome To Hell-A | 0.90% | ~6,045 |
-| Break A Leg | 0.80% | ~5,373 |
-| Dr. Reed, I Presume? | 0.70% | ~4,701 |
-| Git Gutte! | 0.70% | ~4,701 |
-| Coup de Grâce | 0.70% | ~4,701 |
-| Hazardous Materials | 0.70% | ~4,701 |
-| Friends Like These | 0.70% | ~4,701 |
-| Apex Predator | 0.70% | ~4,701 |
-| Stacking the Deck | 0.70% | ~4,701 |
-| Personal Assistant Personally Assisted | 0.70% | ~4,701 |
+| Break A Leg | 0.80% | ~5,374 |
+| Personal Assistant Personally Assisted | 0.80% | ~5,374 |
+| Dr. Reed, I Presume? | 0.70% | ~4,702 |
+| Git Gutte! | 0.70% | ~4,702 |
+| Coup de Grâce | 0.70% | ~4,702 |
+| Hazardous Materials | 0.70% | ~4,702 |
+| Friends Like These | 0.70% | ~4,702 |
+| Apex Predator | 0.70% | ~4,702 |
+| Stacking the Deck | 0.70% | ~4,702 |
 | Bookworm | 0.60% | ~4,030 |
 | But Doctor, I am Butcho | 0.60% | ~4,030 |
 | Slayer Squad | 0.60% | ~4,030 |
@@ -26,11 +26,11 @@ Rating: 4.54 (Ranked 503)
 | This is My Weapon | 0.60% | ~4,030 |
 | Anger Management | 0.50% | ~3,358 |
 | Perks of the Job | 0.50% | ~3,358 |
+| I Got a Zombie Army and You Can't Harm Me | 0.50% | ~3,358 |
 | Ooh, Shiny! | 0.50% | ~3,358 |
 | I Am the Resurrection | 0.50% | ~3,358 |
 | Our True Nature | 0.50% | ~3,358 |
 | Making Your Mark | 0.40% | ~2,687 |
-| I Got a Zombie Army and You Can't Harm Me | 0.40% | ~2,687 |
 | Humanity Distilled | 0.40% | ~2,687 |
 | Down with the Sickness | 0.40% | ~2,687 |
 | Max Headroom | 0.40% | ~2,687 |
@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 503)
 | Survival Skills | 0.10% | ~672 |
 | Bucket List | 0.10% | ~672 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 671,639 (Ranked 22)  
-Completed: 2,099 (0.31%) (Ranked 177)  
+Progressed: 671,695 (Ranked 22)  
+Completed: 2,100 (0.31%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -186,7 +186,7 @@ Completed: 2,099 (0.31%) (Ranked 177)
 | 2023-08-30 | 669,636 | 2,094 |
 | 2023-08-31 | 670,394 | 2,097 |
 | 2023-09-01 | 671,108 | 2,097 |
-| 2023-09-02 | 671,639 | 2,099 |
+| 2023-09-02 | 671,695 | 2,100 |
 ## Awards
 Max (Great Boss Battles): 5,846  (Ranked 61)  
 Sum: 8,618 (Ranked 96)  

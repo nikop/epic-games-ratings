@@ -2,13 +2,13 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 503,
+  "Ranking_Rating": 504,
   "Ranking_Popularity": 61,
   "Ranking_PopularitySum": 96,
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 17,
-  "Ranking_EOS_NewCompleters": 8,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -4164,10 +4164,10 @@
       "Count": 334
     }
   ],
-  "EOS_Progressed": 671639,
-  "EOS_Completed": 2099,
-  "EOS_NewPlayers": 5798,
-  "EOS_NewCompleters": 24,
+  "EOS_Progressed": 671695,
+  "EOS_Completed": 2100,
+  "EOS_NewPlayers": 5806,
+  "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -19224,6 +19224,11 @@
       "Time": "2023-09-02T15:05:07.1528057+00:00",
       "NumProgressed": 671639,
       "NumCompleted": 2099
+    },
+    {
+      "Time": "2023-09-02T16:05:51.2503857+00:00",
+      "NumProgressed": 671695,
+      "NumCompleted": 2100
     }
   ],
   "TotalAchievements": 45,
@@ -19235,7 +19240,7 @@
       "Name": "Dr. Reed, I Presume?",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4701
+      "UsersEstimate": 4702
     },
     {
       "ID": "ach_a_taste_of_stardom",
@@ -19251,7 +19256,7 @@
       "Name": "Git Gutte!",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4701
+      "UsersEstimate": 4702
     },
     {
       "ID": "ach_anger_management",
@@ -19299,7 +19304,7 @@
       "Name": "Break A Leg",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5373
+      "UsersEstimate": 5374
     },
     {
       "ID": "ach_contender",
@@ -19313,9 +19318,9 @@
       "ID": "ach_defensive",
       "SetID": "7km39fm",
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2687
+      "UsersEstimate": 3358
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -19355,7 +19360,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4701
+      "UsersEstimate": 4702
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -19379,7 +19384,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4701
+      "UsersEstimate": 4702
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -19387,7 +19392,7 @@
       "Name": "Friends Like These",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4701
+      "UsersEstimate": 4702
     },
     {
       "ID": "ach_hotel_california",
@@ -19435,7 +19440,7 @@
       "Name": "Apex Predator",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4701
+      "UsersEstimate": 4702
     },
     {
       "ID": "ach_knowledgeable",
@@ -19507,15 +19512,15 @@
       "Name": "Stacking the Deck",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4701
+      "UsersEstimate": 4702
     },
     {
       "ID": "ach_star_performance",
       "SetID": "7km39fm",
       "Name": "Personal Assistant Personally Assisted",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 4701
+      "UsersEstimate": 5374
     },
     {
       "ID": "ach_survival_expert",
@@ -19594,16 +19599,16 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 671639,
-      "Completed": 2099
+      "Progressed": 671695,
+      "Completed": 2100
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-02T11:58:44.9849433+00:00",
-  "LastChanged_Achievements": "2023-09-02T15:05:07.1528053+00:00",
+  "LastChanged_Achievements": "2023-09-02T16:05:51.2503854+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:04.7021628+00:00",
-  "LastUpdate_Ratings": "2023-09-02T14:58:13.1942637+00:00",
-  "LastUpdate_Achievements": "2023-09-02T15:05:07.1529241+00:00"
+  "LastUpdate_Ratings": "2023-09-02T15:58:47.2207542+00:00",
+  "LastUpdate_Achievements": "2023-09-02T16:05:51.2504807+00:00"
 }

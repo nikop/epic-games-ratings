@@ -1,7 +1,7 @@
 # Railway Empire 2
 [Store](https://store.epicgames.com/en-US/p/railway-empire-2-46840c)  
 [View Rawdata](../../db/r/railway_empire_2.json)  
-Rating: 4.47 (Ranked 615)  
+Rating: 4.47 (Ranked 616)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -31,8 +31,8 @@ Rating: 4.47 (Ranked 615)
 | All mine | 30.00% | ~558 |
 | Mole | 30.00% | ~558 |
 | Socializer | 29.00% | ~539 |
+| General Manager | 27.00% | ~502 |
 | Country Life | 27.00% | ~502 |
-| General Manager | 26.00% | ~484 |
 | Hostile Takeover | 25.00% | ~465 |
 | Seven at one stroke | 24.00% | ~446 |
 | Trailblazer | 21.00% | ~391 |

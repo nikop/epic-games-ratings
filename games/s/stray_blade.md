@@ -21,16 +21,17 @@
 | Changing the World | 11.00% | ~6 |
 | Craftsmen | 9.00% | ~5 |
 | Through Dangers Untold | 9.00% | ~5 |
+| Mirror, Mirror on the Wall | 7.00% | ~4 |
 | Defeat Uskol | 7.00% | ~4 |
 | Bringing guns to a sword fight | 7.00% | ~4 |
 | Witch | 7.00% | ~4 |
-| Mirror, Mirror on the Wall | 5.00% | ~3 |
 | Defeat Tezuth | 5.00% | ~3 |
 | Finally! | 5.00% | ~3 |
 | The A-Team | 5.00% | ~3 |
 | Sponsor | 4.00% | ~2 |
 | Defeat Ingla | 4.00% | ~2 |
 | Ancient Powers | 4.00% | ~2 |
+| Wayseeker | 4.00% | ~2 |
 | Pathfinder | 4.00% | ~2 |
 | The End | 4.00% | ~2 |
 | But what of the Acreans? | 4.00% | ~2 |
@@ -42,7 +43,6 @@
 | Knowledge is King | 2.00% | ~1 |
 | Wizard | 2.00% | ~1 |
 | Bookworm | 2.00% | ~1 |
-| Wayseeker | 2.00% | ~1 |
 | Globetrotter | 2.00% | ~1 |
 | Style over Stats | 0.00% | ~0 |
 | Collector | 0.00% | ~0 |

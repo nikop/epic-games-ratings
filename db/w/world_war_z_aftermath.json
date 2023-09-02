@@ -2,13 +2,13 @@
   "ID": "wombat",
   "Name": "World War Z Aftermath",
   "ProductSlug": "world-war-z",
-  "Ranking_Rating": 474,
+  "Ranking_Rating": 475,
   "Ranking_Popularity": 77,
   "Ranking_PopularitySum": 43,
   "Ranking_EOS_Progress": 571,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-09-21T13:00:00+00:00",
     "PcReleaseDate": "2021-09-21T13:00:00+00:00",
@@ -8309,10 +8309,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 28217,
       "NumberOfAwardsMax": 4394
+    },
+    {
+      "Time": "2023-09-02T15:57:26.7023795+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 28221,
+      "NumberOfAwardsMax": 4394
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28217,
+  "NumberOfAwards": 28221,
   "NumberOfAwardsMax": 4394,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8332,7 +8338,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 3337
+      "Count": 3341
     },
     {
       "Text": "This game is Highly Recommended",
@@ -8390,9 +8396,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:09.1230837+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.7901405+00:00",
-  "LastChanged": "2023-09-02T14:57:15.5121382+00:00",
-  "LastChanged_Achievements": "2023-09-02T15:05:57.3007488+00:00",
+  "LastChanged": "2023-09-02T15:57:26.7023793+00:00",
+  "LastChanged_Achievements": "2023-09-02T16:06:57.90798+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:22.5225563+00:00",
-  "LastUpdate_Ratings": "2023-09-02T14:57:15.5121389+00:00",
-  "LastUpdate_Achievements": "2023-09-02T15:05:57.300752+00:00"
+  "LastUpdate_Ratings": "2023-09-02T15:57:26.7023799+00:00",
+  "LastUpdate_Achievements": "2023-09-02T16:06:57.9079831+00:00"
 }

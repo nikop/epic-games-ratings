@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 397,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-11T05:00:00+00:00",
     "PcReleaseDate": "2023-03-16T17:00:00+00:00",
@@ -230,9 +230,9 @@
       "ID": "absoluteZero",
       "SetID": "bma0pih",
       "Name": "Absolute Zero",
-      "Percentage": 2,
+      "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "earn3000",
@@ -246,9 +246,9 @@
       "ID": "fastBossKill",
       "SetID": "bma0pih",
       "Name": "Done in time",
-      "Percentage": 40,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "finishGame",
@@ -365,8 +365,8 @@
   ],
   "FirstSeen": "2023-08-31T13:03:44.3512159+00:00",
   "FirstSeenAchievements": "2023-05-07T09:02:54.6493409+00:00",
-  "LastChanged_Achievements": "2023-09-02T15:06:04.3696135+00:00",
+  "LastChanged_Achievements": "2023-09-02T16:07:07.3828712+00:00",
   "LastUpdate_AppInfo": "2023-08-27T16:57:09.5121242+00:00",
-  "LastUpdate_Ratings": "2023-09-02T14:59:03.7361745+00:00",
-  "LastUpdate_Achievements": "2023-09-02T15:06:04.3696258+00:00"
+  "LastUpdate_Ratings": "2023-09-02T15:59:57.019763+00:00",
+  "LastUpdate_Achievements": "2023-09-02T16:07:07.3828817+00:00"
 }

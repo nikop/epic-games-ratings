@@ -1,29 +1,29 @@
 # Gamedec - Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/gamedec)  
 [View Rawdata](../../db/g/gamedec_-_definitive_edition.json)  
-Rating: 4.31 (Ranked 789)  
+Rating: 4.31 (Ranked 790)  
 Number of Ratings: 33  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~68,469 |
-| Powergamer | 27.00% | ~66,024 |
-| Barely scratched the surface | 25.00% | ~61,133 |
-| Write that down | 24.00% | ~58,688 |
-| Guns, lots of guns | 12.00% | ~29,344 |
-| Collector | 11.00% | ~26,899 |
-| Elementary! | 9.00% | ~22,008 |
+| I will finish what you started | 28.00% | ~68,472 |
+| Powergamer | 27.00% | ~66,027 |
+| Barely scratched the surface | 25.00% | ~61,136 |
+| Write that down | 24.00% | ~58,690 |
+| Guns, lots of guns | 12.00% | ~29,345 |
+| Collector | 11.00% | ~26,900 |
+| Elementary! | 9.00% | ~22,009 |
 | Pumpkin Jack | 8.00% | ~19,563 |
 | Wake up! | 8.00% | ~19,563 |
-| It's honest work | 7.00% | ~17,117 |
-| Griever | 7.00% | ~17,117 |
-| Me smart | 6.00% | ~14,672 |
-| Trash compactor | 6.00% | ~14,672 |
+| It's honest work | 7.00% | ~17,118 |
+| Griever | 7.00% | ~17,118 |
+| Me smart | 6.00% | ~14,673 |
+| Trash compactor | 6.00% | ~14,673 |
 | Good listener | 5.00% | ~12,227 |
 | Valedictorian | 5.00% | ~12,227 |
-| BOY! | 4.00% | ~9,781 |
-| Ka-ching! | 4.00% | ~9,781 |
-| So you like to read? | 4.00% | ~9,781 |
+| BOY! | 4.00% | ~9,782 |
+| Ka-ching! | 4.00% | ~9,782 |
+| So you like to read? | 4.00% | ~9,782 |
 | Hoarder | 3.00% | ~7,336 |
 | I like to sniff around | 3.00% | ~7,336 |
 | Mind reader | 3.00% | ~7,336 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~489 |
 | Memory 5 | 0.10% | ~245 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 244,532 (Ranked 49)  
+Progressed: 244,543 (Ranked 49)  
 Completed: 7 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 7 (0.00%) (Ranked 271)
 | 2023-08-30 | 244,218 | 7 |
 | 2023-08-31 | 244,347 | 7 |
 | 2023-09-01 | 244,461 | 7 |
-| 2023-09-02 | 244,532 | 7 |
+| 2023-09-02 | 244,543 | 7 |
 ## Awards
 Max (Character Customization): 79  (Ranked 362)  
 Sum: 79 (Ranked 429)  

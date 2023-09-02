@@ -1,7 +1,7 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.55 (Ranked 491)  
+Rating: 4.55 (Ranked 492)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -16,8 +16,8 @@ Rating: 4.55 (Ranked 491)
 | Fully Recycled | 12.00% | ~376 |
 | Ain't Nobody Got Time for That | 12.00% | ~376 |
 | The Ship of Theseus | 12.00% | ~376 |
-| Guy de Borderlands | 11.00% | ~344 |
-| Hope Seeker | 11.00% | ~344 |
+| Guy de Borderlands | 11.00% | ~345 |
+| Hope Seeker | 11.00% | ~345 |
 | Exceeding Capacity | 10.00% | ~313 |
 | Breaking Protocol | 10.00% | ~313 |
 | A Hunk of Junk | 9.00% | ~282 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 491)
 | I Give You the Stars | 0.10% | ~1 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,131 (Ranked 162)  
+Progressed: 3,132 (Ranked 162)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-08-30 | 3,116 | 0 |
 | 2023-08-31 | 3,122 | 0 |
 | 2023-09-01 | 3,129 | 0 |
-| 2023-09-02 | 3,131 | 0 |
+| 2023-09-02 | 3,132 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
