@@ -40,9 +40,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 629,
+  "EOS_Progressed": 630,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 260,
+  "EOS_NewPlayers": 259,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -865,6 +865,11 @@
       "Time": "2023-09-02T04:05:55.9665642+00:00",
       "NumProgressed": 629,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-02T06:06:00.2447323+00:00",
+      "NumProgressed": 630,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -885,7 +890,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "AC02",
@@ -893,7 +898,7 @@
       "Name": "Blood and Dust",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "AC03",
@@ -901,7 +906,7 @@
       "Name": "Blood and Gold",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "AC04",
@@ -909,7 +914,7 @@
       "Name": "Blood and Iron",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "AC05",
@@ -925,7 +930,7 @@
       "Name": "The Last Ascension",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "AC07",
@@ -933,7 +938,7 @@
       "Name": "The Sea dies on the Shore",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "AC08",
@@ -965,7 +970,7 @@
       "Name": "A Heart of Gold",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "AC12",
@@ -997,7 +1002,7 @@
       "Name": "Full Devotion",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "AC16",
@@ -1069,7 +1074,7 @@
       "Name": "The Work of a Master",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "AC25",
@@ -1117,15 +1122,15 @@
       "Name": "The Anointed One",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "AC31",
       "SetID": "l4abp0",
       "Name": "The Merciless One",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 201
+      "UsersEstimate": 208
     },
     {
       "ID": "AC32",
@@ -1189,7 +1194,7 @@
       "Name": "Warrior of the Silent Sorrow",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "AC40",
@@ -1197,7 +1202,7 @@
       "Name": "Welcome Back!",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "AC41",
@@ -1244,7 +1249,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 629,
+      "Progressed": 630,
       "Completed": 0
     }
   ],
@@ -1252,8 +1257,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-01T21:01:12.3792487+00:00",
-  "LastChanged_Achievements": "2023-09-02T05:07:15.4557616+00:00",
+  "LastChanged_Achievements": "2023-09-02T06:06:00.2447318+00:00",
   "LastUpdate_AppInfo": "2023-08-29T18:57:21.35462+00:00",
-  "LastUpdate_Ratings": "2023-09-02T05:00:53.0742783+00:00",
-  "LastUpdate_Achievements": "2023-09-02T05:07:15.4558419+00:00"
+  "LastUpdate_Ratings": "2023-09-02T05:59:50.8895533+00:00",
+  "LastUpdate_Achievements": "2023-09-02T06:06:00.2447677+00:00"
 }

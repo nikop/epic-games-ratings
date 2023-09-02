@@ -4,7 +4,7 @@
   "ProductSlug": "warstone-td-8fe138",
   "Ranking_EOS_Progress": 396,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -263,9 +263,9 @@
       "ID": "18",
       "SetID": "5e3maia",
       "Name": "Patriot",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "19",
@@ -742,8 +742,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-09-02T05:07:32.3525269+00:00",
+  "LastChanged_Achievements": "2023-09-02T06:06:13.6156592+00:00",
   "LastUpdate_AppInfo": "2023-09-01T23:56:54.9755822+00:00",
-  "LastUpdate_Ratings": "2023-09-02T05:00:42.0823503+00:00",
-  "LastUpdate_Achievements": "2023-09-02T05:07:32.3526192+00:00"
+  "LastUpdate_Ratings": "2023-09-02T05:59:42.824637+00:00",
+  "LastUpdate_Achievements": "2023-09-02T06:06:13.6157285+00:00"
 }

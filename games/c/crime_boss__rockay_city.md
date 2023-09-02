@@ -5,15 +5,15 @@ Rating: 3.94 (Ranked 954)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~53,693 |
-| First One’s Free | 65.00% | ~47,163 |
-| Neophyte Ninja | 50.00% | ~36,279 |
-| Too Old for This | 48.00% | ~34,828 |
-| Fancy Pants | 36.00% | ~26,121 |
-| Case Closed | 35.00% | ~25,395 |
+| Downed but Not Outed | 74.00% | ~53,694 |
+| First One’s Free | 65.00% | ~47,164 |
+| Neophyte Ninja | 50.00% | ~36,280 |
+| Too Old for This | 48.00% | ~34,829 |
+| Fancy Pants | 36.00% | ~26,122 |
+| Case Closed | 35.00% | ~25,396 |
 | King of the Hill | 34.00% | ~24,670 |
 | Underworld Initiate | 29.00% | ~21,042 |
-| Roid Ranger | 21.00% | ~15,237 |
+| Roid Ranger | 21.00% | ~15,238 |
 | Off the Rocks | 20.00% | ~14,512 |
 | True Player | 19.00% | ~13,786 |
 | Raider’s Ruin | 17.00% | ~12,335 |
@@ -27,7 +27,7 @@ Rating: 3.94 (Ranked 954)
 | Classy Joint | 9.00% | ~6,530 |
 | I Like Trains | 8.00% | ~5,805 |
 | Foo Finder | 7.00% | ~5,079 |
-| Savvy Seeker | 6.00% | ~4,353 |
+| Savvy Seeker | 6.00% | ~4,354 |
 | Legend Looter | 5.00% | ~3,628 |
 | Imports and Exports | 4.00% | ~2,902 |
 | Olympus Ascended | 4.00% | ~2,902 |
@@ -43,7 +43,7 @@ Rating: 3.94 (Ranked 954)
 | Geek Out | 0.60% | ~435 |
 | Full House | 0.20% | ~145 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,558 (Ranked 79)  
+Progressed: 72,560 (Ranked 79)  
 Completed: 42 (0.06%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,17 +178,17 @@ Completed: 42 (0.06%) (Ranked 232)
 | 2023-08-30 | 72,491 | 42 |
 | 2023-08-31 | 72,521 | 42 |
 | 2023-09-01 | 72,549 | 42 |
-| 2023-09-02 | 72,558 | 42 |
+| 2023-09-02 | 72,560 | 42 |
 ## Awards
 Max (Diverse Characters): 412  (Ranked 214)  
-Sum: 1,961 (Ranked 202)  
+Sum: 1,962 (Ranked 202)  
 Diff (max vs sum): 12  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 412 |
 | This game has Quickly Understood Controls | 403 |
 | This game is Highly Recommended | 392 |
-| This game has Challenging Combat | 380 |
+| This game has Challenging Combat | 381 |
 | This game has Amazing Characters | 374 |
 | This game is Great for Quick Sessions | 70 |
 | This game has Amazing Storytelling | 52 |
@@ -350,3 +350,4 @@ Diff (max vs sum): 12
 | 2023-08-30 | 3.94 | 411 | 1,952 |
 | 2023-08-31 | 3.94 | 411 | 1,953 |
 | 2023-09-01 | 3.94 | 412 | 1,961 |
+| 2023-09-02 | 3.94 | 412 | 1,962 |

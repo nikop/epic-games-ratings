@@ -6,21 +6,21 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~21,936 |
-| Thorough | 10.00% | ~19,942 |
-| A thief's beginning | 9.00% | ~17,947 |
-| Disguised | 8.00% | ~15,953 |
-| Rescue Takuma | 8.00% | ~15,953 |
-| Rollin' | 8.00% | ~15,953 |
-| Tanuki Time | 8.00% | ~15,953 |
-| Ice Ice Yuki | 7.00% | ~13,959 |
-| Jonin | 7.00% | ~13,959 |
-| Stoned Ox | 7.00% | ~13,959 |
-| Yabu | 7.00% | ~13,959 |
-| Chunin | 6.00% | ~11,965 |
-| Flying Rocks | 6.00% | ~11,965 |
-| Happy Planning | 6.00% | ~11,965 |
-| Mugen Unchained | 6.00% | ~11,965 |
+| Genin | 11.00% | ~21,937 |
+| Thorough | 10.00% | ~19,943 |
+| A thief's beginning | 9.00% | ~17,949 |
+| Disguised | 8.00% | ~15,954 |
+| Rescue Takuma | 8.00% | ~15,954 |
+| Rollin' | 8.00% | ~15,954 |
+| Tanuki Time | 8.00% | ~15,954 |
+| Ice Ice Yuki | 7.00% | ~13,960 |
+| Jonin | 7.00% | ~13,960 |
+| Stoned Ox | 7.00% | ~13,960 |
+| Yabu | 7.00% | ~13,960 |
+| Chunin | 6.00% | ~11,966 |
+| Flying Rocks | 6.00% | ~11,966 |
+| Happy Planning | 6.00% | ~11,966 |
+| Mugen Unchained | 6.00% | ~11,966 |
 | Okkoto | 5.00% | ~9,971 |
 | Too Early | 5.00% | ~9,971 |
 | Warzone | 5.00% | ~9,971 |
@@ -28,13 +28,13 @@ Number of Ratings: 495  (23.09.2022)
 | Happy little accidents | 4.00% | ~7,977 |
 | Prisoners | 4.00% | ~7,977 |
 | Still Rollin' | 4.00% | ~7,977 |
-| Noboru | 3.00% | ~5,982 |
-| Stoned | 3.00% | ~5,982 |
-| The Old Way | 3.00% | ~5,982 |
-| Atheist Ox | 2.00% | ~3,988 |
-| It's raining men | 2.00% | ~3,988 |
-| Old Man | 2.00% | ~3,988 |
-| Winner Winner | 2.00% | ~3,988 |
+| Noboru | 3.00% | ~5,983 |
+| Stoned | 3.00% | ~5,983 |
+| The Old Way | 3.00% | ~5,983 |
+| Atheist Ox | 2.00% | ~3,989 |
+| It's raining men | 2.00% | ~3,989 |
+| Old Man | 2.00% | ~3,989 |
+| Winner Winner | 2.00% | ~3,989 |
 | Meticulous | 1.00% | ~1,994 |
 | No Gimmicks | 1.00% | ~1,994 |
 | The End | 1.00% | ~1,994 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~199 |
 | Release the Kraken | 0.10% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 199,416 (Ranked 61)  
+Progressed: 199,428 (Ranked 61)  
 Completed: 75 (0.04%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,7 +186,7 @@ Completed: 75 (0.04%) (Ranked 240)
 | 2023-08-30 | 198,879 | 74 |
 | 2023-08-31 | 199,111 | 74 |
 | 2023-09-01 | 199,350 | 75 |
-| 2023-09-02 | 199,416 | 75 |
+| 2023-09-02 | 199,428 | 75 |
 ## Awards
 Max (Great for Beginners): 562  (Ranked 190)  
 Sum: 4,739 (Ranked 135)  

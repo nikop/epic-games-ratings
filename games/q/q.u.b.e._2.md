@@ -12,7 +12,7 @@ Number of Ratings: 94  (23.09.2022)
 | Power Glove | 39.00% | ~44 |
 | Forgotten Memories | 37.00% | ~42 |
 | Cogs in the Machine | 34.00% | ~39 |
-| Green Cube Killer | 9.00% | ~10 |
+| Green Cube Killer | 10.00% | ~11 |
 | Mission Success | 8.00% | ~9 |
 | There's No Place Like Home | 7.00% | ~8 |
 | Descendants | 5.00% | ~6 |

@@ -4,7 +4,7 @@
   "ProductSlug": "the-evil-within-2",
   "Ranking_EOS_Progress": 372,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -379,9 +379,9 @@
       "ID": "ACHIEVEMENT_10",
       "SetID": "b36c5kb",
       "Name": "Another Ally",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -722,8 +722,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-09-02T05:07:46.604545+00:00",
+  "LastChanged_Achievements": "2023-09-02T06:06:24.8661796+00:00",
   "LastUpdate_AppInfo": "2023-08-30T18:57:06.6900715+00:00",
-  "LastUpdate_Ratings": "2023-09-02T05:00:45.017387+00:00",
-  "LastUpdate_Achievements": "2023-09-02T05:07:46.6046604+00:00"
+  "LastUpdate_Ratings": "2023-09-02T05:59:45.0124437+00:00",
+  "LastUpdate_Achievements": "2023-09-02T06:06:24.8662165+00:00"
 }

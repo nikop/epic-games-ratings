@@ -824,10 +824,16 @@
       "Rating": 4.41,
       "NumberOfAwards": 246,
       "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2023-09-02T05:59:31.3747935+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 248,
+      "NumberOfAwardsMax": 36
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 246,
+  "NumberOfAwards": 248,
   "NumberOfAwardsMax": 36,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -859,7 +865,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 27
+      "Count": 29
     },
     {
       "Text": "This game has a Competitive Community",
@@ -886,7 +892,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 255745,
+  "EOS_Progressed": 255746,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 324,
   "EOS_NewCompleters": 0,
@@ -14616,6 +14622,11 @@
       "Time": "2023-09-02T05:06:16.3093826+00:00",
       "NumProgressed": 255745,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-02T06:05:12.1413046+00:00",
+      "NumProgressed": 255746,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -14731,7 +14742,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25574
+      "UsersEstimate": 25575
     },
     {
       "ID": "CreditLevel2",
@@ -15019,7 +15030,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25574
+      "UsersEstimate": 25575
     },
     {
       "ID": "ReachNDays2",
@@ -15074,16 +15085,16 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 255745,
+      "Progressed": 255746,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2023-08-31T01:39:54.732025+00:00",
-  "LastChanged_Achievements": "2023-09-02T05:06:16.309382+00:00",
+  "LastChanged": "2023-09-02T05:59:31.3747933+00:00",
+  "LastChanged_Achievements": "2023-09-02T06:05:12.141304+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:47.9726825+00:00",
-  "LastUpdate_Ratings": "2023-09-02T05:00:28.3478901+00:00",
-  "LastUpdate_Achievements": "2023-09-02T05:06:16.3095385+00:00"
+  "LastUpdate_Ratings": "2023-09-02T05:59:31.3747938+00:00",
+  "LastUpdate_Achievements": "2023-09-02T06:05:12.1414086+00:00"
 }

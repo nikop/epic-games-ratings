@@ -55,10 +55,10 @@
 | Gang wrangler | 34.00% | ~102 |
 | Problems of cyborgs | 33.00% | ~99 |
 | Undercover robot | 33.00% | ~99 |
+| Anyone can resist | 32.00% | ~96 |
 | Not little hacker | 31.00% | ~93 |
 | Absolute Champion! | 31.00% | ~93 |
 | Careerist | 31.00% | ~93 |
-| Anyone can resist | 31.00% | ~93 |
 | Trap disarmed | 30.00% | ~90 |
 | Another world | 30.00% | ~90 |
 | The lonesome road | 30.00% | ~90 |

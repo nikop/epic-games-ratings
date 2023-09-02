@@ -7,8 +7,8 @@ Rating: 4.41 (Ranked 687)
 | ---- | ---------- | ----- |
 | Survivor | 31.00% | ~79,281 |
 | Predator I | 22.00% | ~56,264 |
-| Fixer I | 10.00% | ~25,574 |
-| A week in Century City | 10.00% | ~25,574 |
+| Fixer I | 10.00% | ~25,575 |
+| A week in Century City | 10.00% | ~25,575 |
 | The Wait | 7.00% | ~17,902 |
 | Green thumb I | 6.00% | ~15,345 |
 | Cleaning Company | 6.00% | ~15,345 |
@@ -62,7 +62,7 @@ Rating: 4.41 (Ranked 687)
 | Capitalist III | 0.10% | ~256 |
 | Hell Is You | 0.10% | ~256 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,745 (Ranked 46)  
+Progressed: 255,746 (Ranked 46)  
 Completed: 3 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,18 +197,18 @@ Completed: 3 (0.00%) (Ranked 271)
 | 2023-08-30 | 255,652 | 3 |
 | 2023-08-31 | 255,698 | 3 |
 | 2023-09-01 | 255,739 | 3 |
-| 2023-09-02 | 255,745 | 3 |
+| 2023-09-02 | 255,746 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 36  (Ranked 433)  
-Sum: 246 (Ranked 355)  
+Sum: 248 (Ranked 355)  
 Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 36 |
 | This game has Unique Visuals | 34 |
 | This game has Amazing Characters | 29 |
+| This game has Challenging Combat | 29 |
 | This game is Highly Recommended | 29 |
-| This game has Challenging Combat | 27 |
 | This game has a Competitive Community | 26 |
 | This game has Quickly Understood Controls | 23 |
 | This game has Competitive Players | 22 |
@@ -336,3 +336,4 @@ Diff (max vs sum): 78
 | 2023-08-29 | 4.41 | 36 | 244 |
 | 2023-08-30 | 4.41 | 36 | 245 |
 | 2023-08-31 | 4.41 | 36 | 246 |
+| 2023-09-02 | 4.41 | 36 | 248 |

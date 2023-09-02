@@ -6,14 +6,14 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~3,761 |
+| Just One...More...Term... | 76.00% | ~3,762 |
 | Un-Lonely Island | 47.00% | ~2,326 |
-| The Beginning of a Servantship | 46.00% | ~2,277 |
-| Trade Is My Trait | 37.00% | ~1,831 |
+| The Beginning of a Servantship | 45.00% | ~2,228 |
+| Trade Is My Trait | 37.00% | ~1,832 |
 | Number 18 | 24.00% | ~1,188 |
 | We Don't Have Time For That | 19.00% | ~940 |
 | The Governator | 18.00% | ~891 |
-| The Legend of Langostino | 17.00% | ~841 |
+| The Legend of Langostino | 17.00% | ~842 |
 | Caribbean Comrade | 16.00% | ~792 |
 | The Dreamer of Dreams | 16.00% | ~792 |
 | Go Sovereigns! | 11.00% | ~544 |
@@ -24,14 +24,14 @@ Number of Ratings: 398  (23.09.2022)
 | Double Trouble | 8.00% | ~396 |
 | Firestarter | 8.00% | ~396 |
 | Make Tropico Great Again! | 8.00% | ~396 |
-| I Owe You Nothing | 7.00% | ~346 |
-| French Connection | 7.00% | ~346 |
+| I Owe You Nothing | 7.00% | ~347 |
+| French Connection | 7.00% | ~347 |
 | Don't Panic! | 6.00% | ~297 |
 | Beware The Betman | 6.00% | ~297 |
-| Viva Tropico! | 5.00% | ~247 |
-| Computer Says "No" | 5.00% | ~247 |
-| Watch The World Burn | 5.00% | ~247 |
-| Fairy Tale Come True | 5.00% | ~247 |
+| Viva Tropico! | 5.00% | ~248 |
+| Computer Says "No" | 5.00% | ~248 |
+| Watch The World Burn | 5.00% | ~248 |
+| Fairy Tale Come True | 5.00% | ~248 |
 | Apocalypso | 4.00% | ~198 |
 | Been there, Done That | 3.00% | ~148 |
 | Narcissist | 3.00% | ~148 |
@@ -43,11 +43,11 @@ Number of Ratings: 398  (23.09.2022)
 | Teamplayer | 2.00% | ~99 |
 | Terraformer | 2.00% | ~99 |
 | Curse of the Mummy | 2.00% | ~99 |
-| From Knight to Little Duck | 1.00% | ~49 |
+| From Knight to Little Duck | 1.00% | ~50 |
 | Survivor | 0.90% | ~45 |
 | My Ways | 0.30% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,949 (Ranked 148)  
+Progressed: 4,950 (Ranked 148)  
 Completed: 2 (0.04%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,7 +182,7 @@ Completed: 2 (0.04%) (Ranked 240)
 | 2023-08-30 | 4,925 | 2 |
 | 2023-08-31 | 4,936 | 2 |
 | 2023-09-01 | 4,947 | 2 |
-| 2023-09-02 | 4,949 | 2 |
+| 2023-09-02 | 4,950 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 98  (Ranked 339)  
 Sum: 680 (Ranked 280)  

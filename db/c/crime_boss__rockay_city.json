@@ -3184,10 +3184,16 @@
       "Rating": 3.94,
       "NumberOfAwards": 1961,
       "NumberOfAwardsMax": 412
+    },
+    {
+      "Time": "2023-09-02T05:59:14.423932+00:00",
+      "Rating": 3.94,
+      "NumberOfAwards": 1962,
+      "NumberOfAwardsMax": 412
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 1961,
+  "NumberOfAwards": 1962,
   "NumberOfAwardsMax": 412,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3219,7 +3225,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 380
+      "Count": 381
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3240,9 +3246,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 72558,
+  "EOS_Progressed": 72560,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 245,
+  "EOS_NewPlayers": 246,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -17105,6 +17111,11 @@
       "Time": "2023-09-02T05:03:36.7421667+00:00",
       "NumProgressed": 72558,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-09-02T06:02:29.6638397+00:00",
+      "NumProgressed": 72560,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 37,
@@ -17116,7 +17127,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 36279
+      "UsersEstimate": 36280
     },
     {
       "ID": "ACH_0011",
@@ -17132,7 +17143,7 @@
       "Name": "Roid Ranger",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 15237
+      "UsersEstimate": 15238
     },
     {
       "ID": "ACH_0013",
@@ -17188,7 +17199,7 @@
       "Name": "Savvy Seeker",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 4353
+      "UsersEstimate": 4354
     },
     {
       "ID": "ACH_0040",
@@ -17260,7 +17271,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 47163
+      "UsersEstimate": 47164
     },
     {
       "ID": "ACH_0210",
@@ -17268,7 +17279,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 53693
+      "UsersEstimate": 53694
     },
     {
       "ID": "ACH_0211",
@@ -17284,7 +17295,7 @@
       "Name": "Too Old for This",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 34828
+      "UsersEstimate": 34829
     },
     {
       "ID": "ACH_0300",
@@ -17332,7 +17343,7 @@
       "Name": "Case Closed",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 25395
+      "UsersEstimate": 25396
     },
     {
       "ID": "ACH_0420",
@@ -17348,7 +17359,7 @@
       "Name": "Fancy Pants",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 26121
+      "UsersEstimate": 26122
     },
     {
       "ID": "ACH_0431",
@@ -17411,22 +17422,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 72558,
+      "Progressed": 72560,
       "Completed": 42
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 905,
-      "Completed": 905
+      "Progressed": 907,
+      "Completed": 907
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-09-01T17:00:21.470773+00:00",
-  "LastChanged_Achievements": "2023-09-02T05:03:36.742166+00:00",
+  "LastChanged": "2023-09-02T05:59:14.4239318+00:00",
+  "LastChanged_Achievements": "2023-09-02T06:02:29.6638383+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:33.2477495+00:00",
-  "LastUpdate_Ratings": "2023-09-02T05:00:07.3193104+00:00",
-  "LastUpdate_Achievements": "2023-09-02T05:03:36.7423439+00:00"
+  "LastUpdate_Ratings": "2023-09-02T05:59:14.4239323+00:00",
+  "LastUpdate_Achievements": "2023-09-02T06:02:29.6639865+00:00"
 }

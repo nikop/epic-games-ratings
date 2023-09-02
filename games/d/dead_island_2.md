@@ -5,7 +5,7 @@ Rating: 4.54 (Ranked 503)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 0.90% | ~6,041 |
+| Welcome To Hell-A | 0.90% | ~6,042 |
 | Break A Leg | 0.80% | ~5,370 |
 | Hotel California | 0.80% | ~5,370 |
 | Dr. Reed, I Presume? | 0.70% | ~4,699 |
@@ -14,34 +14,34 @@ Rating: 4.54 (Ranked 503)
 | Hazardous Materials | 0.70% | ~4,699 |
 | Stacking the Deck | 0.70% | ~4,699 |
 | Personal Assistant Personally Assisted | 0.70% | ~4,699 |
-| Bookworm | 0.60% | ~4,027 |
-| But Doctor, I am Butcho | 0.60% | ~4,027 |
-| Can't Handle the Truth | 0.60% | ~4,027 |
-| Like Riding a Bike | 0.60% | ~4,027 |
-| Friends Like These | 0.60% | ~4,027 |
-| Apex Predator | 0.60% | ~4,027 |
-| Zombologist | 0.60% | ~4,027 |
-| A Patton Emerges | 0.60% | ~4,027 |
-| This is My Weapon | 0.60% | ~4,027 |
+| Bookworm | 0.60% | ~4,028 |
+| But Doctor, I am Butcho | 0.60% | ~4,028 |
+| Can't Handle the Truth | 0.60% | ~4,028 |
+| Like Riding a Bike | 0.60% | ~4,028 |
+| Friends Like These | 0.60% | ~4,028 |
+| Apex Predator | 0.60% | ~4,028 |
+| Zombologist | 0.60% | ~4,028 |
+| A Patton Emerges | 0.60% | ~4,028 |
+| This is My Weapon | 0.60% | ~4,028 |
+| Anger Management | 0.50% | ~3,356 |
 | Slayer Squad | 0.50% | ~3,356 |
 | Ooh, Shiny! | 0.50% | ~3,356 |
 | I Am the Resurrection | 0.50% | ~3,356 |
 | Our True Nature | 0.50% | ~3,356 |
 | Making Your Mark | 0.40% | ~2,685 |
-| Anger Management | 0.40% | ~2,685 |
 | Perks of the Job | 0.40% | ~2,685 |
 | I Got a Zombie Army and You Can't Harm Me | 0.40% | ~2,685 |
 | Humanity Distilled | 0.40% | ~2,685 |
 | Down with the Sickness | 0.40% | ~2,685 |
-| Max Headroom | 0.30% | ~2,014 |
+| Max Headroom | 0.40% | ~2,685 |
 | Go, Bobcats! | 0.30% | ~2,014 |
 | Rising Star | 0.30% | ~2,014 |
-| On Safari | 0.20% | ~1,342 |
-| Smorgasbord | 0.20% | ~1,342 |
-| Not Even My Final Form | 0.20% | ~1,342 |
-| Internet Famous | 0.20% | ~1,342 |
-| Jumbo Keyring | 0.20% | ~1,342 |
-| Variety is the Spice of Death | 0.20% | ~1,342 |
+| On Safari | 0.20% | ~1,343 |
+| Smorgasbord | 0.20% | ~1,343 |
+| Not Even My Final Form | 0.20% | ~1,343 |
+| Internet Famous | 0.20% | ~1,343 |
+| Jumbo Keyring | 0.20% | ~1,343 |
+| Variety is the Spice of Death | 0.20% | ~1,343 |
 | Make it So | 0.10% | ~671 |
 | LA Influential | 0.10% | ~671 |
 | Donk! | 0.10% | ~671 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 503)
 | Survival Skills | 0.10% | ~671 |
 | Bucket List | 0.10% | ~671 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 671,247 (Ranked 22)  
+Progressed: 671,284 (Ranked 22)  
 Completed: 2,098 (0.31%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,7 +186,7 @@ Completed: 2,098 (0.31%) (Ranked 177)
 | 2023-08-30 | 669,636 | 2,094 |
 | 2023-08-31 | 670,394 | 2,097 |
 | 2023-09-01 | 671,108 | 2,097 |
-| 2023-09-02 | 671,247 | 2,098 |
+| 2023-09-02 | 671,284 | 2,098 |
 ## Awards
 Max (Great Boss Battles): 5,846  (Ranked 61)  
 Sum: 8,613 (Ranked 96)  

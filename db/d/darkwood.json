@@ -2,7 +2,7 @@
   "ID": "25b5ab5928784a74a502f6a84bb8b49f",
   "Name": "Darkwood",
   "ProductSlug": "darkwood-fa73bd",
-  "Ranking_Rating": 368,
+  "Ranking_Rating": 369,
   "Ranking_Popularity": 232,
   "Ranking_PopularitySum": 181,
   "Ranking_EOS_Progress": 571,
@@ -439,6 +439,6 @@
   "FirstSeenRating": "2022-10-14T04:32:25.5553197+00:00",
   "LastChanged": "2023-08-20T06:59:48.694973+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:48.3629461+00:00",
-  "LastUpdate_Ratings": "2023-09-02T04:57:59.1901629+00:00",
-  "LastUpdate_Achievements": "2023-09-02T05:07:39.6228133+00:00"
+  "LastUpdate_Ratings": "2023-09-02T05:57:33.5355253+00:00",
+  "LastUpdate_Achievements": "2023-09-02T06:06:19.3927618+00:00"
 }

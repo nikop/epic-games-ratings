@@ -2,9 +2,9 @@
   "ID": "4a86b8318e5a40e094f34a7e6a934652",
   "Name": "I Am Future - Cozy Apocalypse Survival",
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
-  "Ranking_EOS_Progress": 376,
-  "Ranking_EOS_Completed": 101,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_Progress": 374,
+  "Ranking_EOS_Completed": 102,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57,
+  "EOS_Progressed": 58,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.75,
+  "EOS_Completed_Percentage": 1.72,
   "EosHistory": [
     {
       "Time": "2023-08-29T09:05:59.1773399+00:00",
@@ -226,6 +226,11 @@
       "Time": "2023-09-02T03:08:12.1459131+00:00",
       "NumProgressed": 57,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-02T06:06:19.0112115+00:00",
+      "NumProgressed": 58,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -236,15 +241,15 @@
       "ID": "ACQUAINTANCE_EARL",
       "SetID": "aniflfk",
       "Name": "Holy Macaroni!",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
       "SetID": "aniflfk",
       "Name": "Design Engineer",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 50,
       "UsersEstimate": 6
     },
@@ -252,9 +257,9 @@
       "ID": "BRING_MARY",
       "SetID": "aniflfk",
       "Name": "Retro Diva",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "BRING_PROSPERO",
@@ -268,17 +273,17 @@
       "ID": "BUY_EVERYTHING_IN_ECOTOMAT",
       "SetID": "aniflfk",
       "Name": "Empty Shelves",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "CATCH_30_FISH",
       "SetID": "aniflfk",
       "Name": "Fisherman",
-      "Percentage": 26,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -292,9 +297,9 @@
       "ID": "GO_ON_EXPEDITION",
       "SetID": "aniflfk",
       "Name": "Off on an Expedition!",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -364,7 +369,7 @@
       "ID": "SLEEP_50_HOURS",
       "SetID": "aniflfk",
       "Name": "Sleepyhead",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -397,14 +402,14 @@
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 57,
+      "Progressed": 58,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-02T05:07:39.0604398+00:00",
+  "LastChanged_Achievements": "2023-09-02T06:06:19.0112109+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:06.6191746+00:00",
-  "LastUpdate_Ratings": "2023-09-02T05:01:25.3060607+00:00",
-  "LastUpdate_Achievements": "2023-09-02T05:07:39.0604583+00:00"
+  "LastUpdate_Ratings": "2023-09-02T06:00:17.6666684+00:00",
+  "LastUpdate_Achievements": "2023-09-02T06:06:19.0112243+00:00"
 }

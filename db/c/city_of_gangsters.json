@@ -565,9 +565,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 341099,
+  "EOS_Progressed": 341103,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1406,
+  "EOS_NewPlayers": 1396,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15515,6 +15515,11 @@
       "Time": "2023-09-02T05:06:12.3123164+00:00",
       "NumProgressed": 341099,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-02T06:05:08.7536482+00:00",
+      "NumProgressed": 341103,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -15734,7 +15739,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 156906
+      "UsersEstimate": 156907
     },
     {
       "ID": "ach028",
@@ -16142,7 +16147,7 @@
       "Name": "Social Butterfly",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1705
+      "UsersEstimate": 1706
     },
     {
       "ID": "ach080",
@@ -16165,7 +16170,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 341099,
+      "Progressed": 341103,
       "Completed": 7
     }
   ],
@@ -16173,8 +16178,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-08-28T15:01:59.5456398+00:00",
-  "LastChanged_Achievements": "2023-09-02T05:06:12.3123157+00:00",
+  "LastChanged_Achievements": "2023-09-02T06:05:08.7536478+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:37.3542744+00:00",
-  "LastUpdate_Ratings": "2023-09-02T04:57:43.0284178+00:00",
-  "LastUpdate_Achievements": "2023-09-02T05:06:12.3125196+00:00"
+  "LastUpdate_Ratings": "2023-09-02T05:57:19.4699034+00:00",
+  "LastUpdate_Achievements": "2023-09-02T06:05:08.7537884+00:00"
 }
