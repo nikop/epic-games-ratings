@@ -11,7 +11,7 @@
 | Science Laboratory | 43.00% | ~46 |
 | Ball Disposal Facility | 37.00% | ~40 |
 | Mecha Wars | 36.00% | ~39 |
-| Sewer | 34.00% | ~36 |
+| Sewer | 35.00% | ~37 |
 | Arcade | 32.00% | ~34 |
 | Custom Court | 28.00% | ~30 |
 ## Popularity (Based on EOS Achievements)

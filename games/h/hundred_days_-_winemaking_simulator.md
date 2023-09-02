@@ -6,10 +6,10 @@ Number of Ratings: 7,669  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 30.00% | ~216 |
+| Bye Bye | 30.00% | ~219 |
 | It's a good start | 8.00% | ~58 |
-| Bonjour! | 6.00% | ~43 |
-| Quack | 6.00% | ~43 |
+| Quack | 6.00% | ~44 |
+| Bonjour! | 5.00% | ~36 |
 | The Assistant | 5.00% | ~36 |
 | The Blue Marl | 5.00% | ~36 |
 | A long journey | 5.00% | ~36 |
@@ -17,12 +17,12 @@ Number of Ratings: 7,669  (23.09.2022)
 | Better than nothing? | 4.00% | ~29 |
 | Surprise of Langhe | 3.00% | ~22 |
 | Famous | 3.00% | ~22 |
-| A big garage | 2.00% | ~14 |
-| Big Money | 2.00% | ~14 |
-| Exotic | 2.00% | ~14 |
-| Keep the doctor away | 2.00% | ~14 |
+| A lot of space | 2.00% | ~15 |
+| A big garage | 2.00% | ~15 |
+| Big Money | 2.00% | ~15 |
+| Exotic | 2.00% | ~15 |
+| Keep the doctor away | 2.00% | ~15 |
 | What is that? A castle? | 1.00% | ~7 |
-| A lot of space | 1.00% | ~7 |
 | Millionaire | 1.00% | ~7 |
 | Welcome to the club | 1.00% | ~7 |
 | King of Langhe | 1.00% | ~7 |
@@ -30,23 +30,23 @@ Number of Ratings: 7,669  (23.09.2022)
 | Very Important Winemaker | 0.80% | ~6 |
 | Treasure of Roero | 0.70% | ~5 |
 | Gem of Monferrato | 0.70% | ~5 |
-| King of red wines | 0.60% | ~4 |
-| Sales Expert | 0.60% | ~4 |
-| Knight of Langhe | 0.60% | ~4 |
+| King of red wines | 0.50% | ~4 |
+| Sales Expert | 0.50% | ~4 |
+| Knight of Langhe | 0.50% | ~4 |
 | King of white wines | 0.40% | ~3 |
 | Big deals | 0.30% | ~2 |
 | Master Winemaker | 0.30% | ~2 |
 | Unsuitable Terroir | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 721 (Ranked 217)  
-Completed: 2 (0.28%) (Ranked 183)  
+Progressed: 729 (Ranked 216)  
+Completed: 2 (0.27%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-08-30 | 210 | 0 |
 | 2023-08-31 | 441 | 2 |
 | 2023-09-01 | 652 | 2 |
-| 2023-09-02 | 721 | 2 |
+| 2023-09-02 | 729 | 2 |
 ## Awards
 Max (Relaxing): 203  (Ranked 273)  
 Sum: 1,457 (Ranked 224)  

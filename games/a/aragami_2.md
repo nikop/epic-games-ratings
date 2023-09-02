@@ -1,22 +1,22 @@
 # Aragami 2
 [Store](https://store.epicgames.com/en-US/p/aragami-2)  
 [View Rawdata](../../db/a/aragami_2.json)  
-Rating: 4.55 (Ranked 489)  
+Rating: 4.55 (Ranked 490)  
 Number of Ratings: 88  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~39,081 |
-| First Steps | 80.00% | ~33,618 |
-| Control the Shadows | 67.00% | ~28,155 |
-| Tools of the Trade | 63.00% | ~26,474 |
+| Awakening | 93.00% | ~39,082 |
+| First Steps | 80.00% | ~33,619 |
+| Control the Shadows | 67.00% | ~28,156 |
+| Tools of the Trade | 63.00% | ~26,475 |
 | Apprentice | 60.00% | ~25,214 |
-| Secret Seeker | 57.00% | ~23,953 |
+| Secret Seeker | 57.00% | ~23,954 |
 | Forge of Assassins | 55.00% | ~23,113 |
 | Revenant | 52.00% | ~21,852 |
-| I don’t Care! | 45.00% | ~18,910 |
+| I don’t Care! | 45.00% | ~18,911 |
 | Bird of Prey | 37.00% | ~15,549 |
-| Engraved with Power | 32.00% | ~13,447 |
+| Engraved with Power | 32.00% | ~13,448 |
 | Lady | 31.00% | ~13,027 |
 | Fashionable Assassin | 27.00% | ~11,346 |
 | Apex Predator | 24.00% | ~10,086 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Hot Potato | 1.00% | ~420 |
 | Anger Management | 1.00% | ~420 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,023 (Ranked 94)  
+Progressed: 42,024 (Ranked 94)  
 Completed: 215 (0.51%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,7 +186,7 @@ Completed: 215 (0.51%) (Ranked 153)
 | 2023-08-30 | 41,887 | 215 |
 | 2023-08-31 | 41,932 | 215 |
 | 2023-09-01 | 41,996 | 215 |
-| 2023-09-02 | 42,023 | 215 |
+| 2023-09-02 | 42,024 | 215 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

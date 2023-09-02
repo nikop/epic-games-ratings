@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 54,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -751,9 +751,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 37770,
+  "EOS_Progressed": 37771,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 949,
+  "EOS_NewPlayers": 943,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15691,6 +15691,11 @@
       "Time": "2023-09-02T09:03:21.0854892+00:00",
       "NumProgressed": 37770,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-02T10:05:22.928943+00:00",
+      "NumProgressed": 37771,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -15814,7 +15819,7 @@
       "Name": "My Little Friend",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1888
+      "UsersEstimate": 1889
     },
     {
       "ID": "nomad",
@@ -15894,7 +15899,7 @@
       "Name": "One With The Board",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1888
+      "UsersEstimate": 1889
     },
     {
       "ID": "proximityFly1000",
@@ -15990,7 +15995,7 @@
       "Name": "Voyager",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1888
+      "UsersEstimate": 1889
     },
     {
       "ID": "wanderer",
@@ -16013,15 +16018,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 37770,
+      "Progressed": 37771,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-08-29T10:57:48.0300457+00:00",
-  "LastChanged_Achievements": "2023-09-02T09:03:21.0854886+00:00",
-  "LastUpdate_AppInfo": "2023-08-26T08:57:52.9170368+00:00",
-  "LastUpdate_Ratings": "2023-09-02T08:59:41.374686+00:00",
-  "LastUpdate_Achievements": "2023-09-02T09:03:21.0860056+00:00"
+  "LastChanged_Achievements": "2023-09-02T10:05:22.9289424+00:00",
+  "LastUpdate_AppInfo": "2023-09-02T09:59:12.1649618+00:00",
+  "LastUpdate_Ratings": "2023-09-02T10:02:16.4021498+00:00",
+  "LastUpdate_Achievements": "2023-09-02T10:05:22.9290816+00:00"
 }

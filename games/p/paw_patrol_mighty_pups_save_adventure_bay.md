@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mighty Powers | 64.00% | ~14 |
-| Grand Re-Opening | 59.00% | ~13 |
-| Pup Pup Boogie | 55.00% | ~12 |
+| Mighty Powers | 68.00% | ~15 |
+| Grand Re-Opening | 64.00% | ~14 |
+| Pup Pup Boogie | 59.00% | ~13 |
 | Summer Day | 55.00% | ~12 |
 | Risky Rescue | 55.00% | ~12 |
 | Mr. Porter | 45.00% | ~10 |
@@ -23,7 +23,7 @@
 | Animal Sighting | 27.00% | ~6 |
 | In the Air | 23.00% | ~5 |
 | You Have Been Everywhere | 23.00% | ~5 |
-| Don’t Miss Any | 18.00% | ~4 |
+| Don’t Miss Any | 23.00% | ~5 |
 | Adventure Bay’s Citizen | 18.00% | ~4 |
 | Everything Under Control | 14.00% | ~3 |
 | Mountain and Ice | 14.00% | ~3 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 133,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -495,9 +495,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14970,
+  "EOS_Progressed": 14971,
   "EOS_Completed": 110,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.73,
   "EosHistory": [
@@ -9375,6 +9375,11 @@
       "Time": "2023-09-02T08:03:21.0942061+00:00",
       "NumProgressed": 14970,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2023-09-02T10:05:09.1073199+00:00",
+      "NumProgressed": 14971,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 41,
@@ -9410,7 +9415,7 @@
       "Name": "Staring contest champion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "tpote_achievement_13",
@@ -9418,7 +9423,7 @@
       "Name": "Lone wolf",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "tpote_achievement_14",
@@ -9546,7 +9551,7 @@
       "Name": "Whodunnit",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1796
+      "UsersEstimate": 1797
     },
     {
       "ID": "tpote_achievement_29",
@@ -9562,7 +9567,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 4790
+      "UsersEstimate": 4791
     },
     {
       "ID": "tpote_achievement_30",
@@ -9626,7 +9631,7 @@
       "Name": "Vox Populi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "tpote_achievement_38",
@@ -9698,7 +9703,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3293
+      "UsersEstimate": 3294
     },
     {
       "ID": "tpote_achievement_9",
@@ -9713,15 +9718,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14970,
+      "Progressed": 14971,
       "Completed": 110
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-08-03T13:08:30.3350415+00:00",
-  "LastChanged_Achievements": "2023-09-02T09:02:26.4712552+00:00",
+  "LastChanged_Achievements": "2023-09-02T10:05:09.1073188+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:35.7712512+00:00",
-  "LastUpdate_Ratings": "2023-09-02T09:00:30.264974+00:00",
-  "LastUpdate_Achievements": "2023-09-02T09:02:26.4713753+00:00"
+  "LastUpdate_Ratings": "2023-09-02T10:03:02.730724+00:00",
+  "LastUpdate_Achievements": "2023-09-02T10:05:09.1074232+00:00"
 }

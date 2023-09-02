@@ -5,14 +5,14 @@ Rating: 4.03 (Ranked 936)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,750 |
-| World Map | 79.00% | ~1,487 |
+| Victor | 93.00% | ~1,751 |
+| World Map | 79.00% | ~1,488 |
 | Temple of Eternals | 57.00% | ~1,073 |
-| Prestigious | 54.00% | ~1,016 |
+| Prestigious | 54.00% | ~1,017 |
 | Fellowship Power | 41.00% | ~772 |
-| Guild Power | 25.00% | ~470 |
+| Guild Power | 25.00% | ~471 |
 | Prestigious x10 | 22.00% | ~414 |
-| The game is on | 20.00% | ~376 |
+| The game is on | 20.00% | ~377 |
 | Exotic Merchant | 19.00% | ~358 |
 | Dragon Clicker | 17.00% | ~320 |
 | Inspection | 17.00% | ~320 |
@@ -22,8 +22,8 @@ Rating: 4.03 (Ranked 936)
 | Enlightenment | 15.00% | ~282 |
 | Hero inspection | 15.00% | ~282 |
 | Lieutenant | 15.00% | ~282 |
-| Mysterious Rock | 14.00% | ~263 |
-| The Unstoppable | 14.00% | ~263 |
+| Mysterious Rock | 14.00% | ~264 |
+| The Unstoppable | 14.00% | ~264 |
 | Milestone collector | 13.00% | ~245 |
 | Natural Talent | 13.00% | ~245 |
 | Superior | 13.00% | ~245 |
@@ -69,7 +69,7 @@ Rating: 4.03 (Ranked 936)
 | Titan Power | 1.00% | ~19 |
 | Training makes a Pro player | 1.00% | ~19 |
 | Transmute | 1.00% | ~19 |
-| Enhanced War Machines | 0.90% | ~17 |
+| Enhanced War Machines | 0.80% | ~15 |
 | Tree of Life | 0.80% | ~15 |
 | Enchanting skill x5 | 0.70% | ~13 |
 | Beast War Machines | 0.60% | ~11 |
@@ -81,7 +81,7 @@ Rating: 4.03 (Ranked 936)
 | Silverwood liberator | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,882 (Ranked 174)  
+Progressed: 1,883 (Ranked 174)  
 Completed: 2 (0.11%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,7 +215,7 @@ Completed: 2 (0.11%) (Ranked 216)
 | 2023-08-30 | 1,873 | 2 |
 | 2023-08-31 | 1,875 | 2 |
 | 2023-09-01 | 1,881 | 2 |
-| 2023-09-02 | 1,882 | 2 |
+| 2023-09-02 | 1,883 | 2 |
 ## Awards
 Max (Great for Beginners): 20  (Ranked 510)  
 Sum: 20 (Ranked 511)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 26,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -768,7 +768,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 220275,
+  "EOS_Progressed": 220291,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 2893,
   "EOS_NewCompleters": 0,
@@ -9248,6 +9248,11 @@
       "Time": "2023-09-02T09:05:12.2492871+00:00",
       "NumProgressed": 220275,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-02T10:07:29.3507535+00:00",
+      "NumProgressed": 220291,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -9307,7 +9312,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6608
+      "UsersEstimate": 6609
     },
     {
       "ID": "Chapter2",
@@ -9347,7 +9352,7 @@
       "Name": "Torture and Sensibility",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1982
+      "UsersEstimate": 1983
     },
     {
       "ID": "Chapter7",
@@ -9355,7 +9360,7 @@
       "Name": "Urik\u0027s Depths",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1982
+      "UsersEstimate": 1983
     },
     {
       "ID": "Chapter8",
@@ -9363,7 +9368,7 @@
       "Name": "The Dungeon Master",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1982
+      "UsersEstimate": 1983
     },
     {
       "ID": "Chapter9",
@@ -9371,7 +9376,7 @@
       "Name": "The Statuette of Gladeulfeurah",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1982
+      "UsersEstimate": 1983
     },
     {
       "ID": "CollateralVictim",
@@ -9643,7 +9648,7 @@
       "Name": "A tale of adventurers not quite like the others...",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1982
+      "UsersEstimate": 1983
     },
     {
       "ID": "Dwarf30Insult",
@@ -9659,7 +9664,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6608
+      "UsersEstimate": 6609
     },
     {
       "ID": "DwarfElf15Support",
@@ -9707,7 +9712,7 @@
       "Name": "Sowwy!",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 59474
+      "UsersEstimate": 59479
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -9755,7 +9760,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6608
+      "UsersEstimate": 6609
     },
     {
       "ID": "FollowBraztok",
@@ -9962,21 +9967,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 220275,
+      "Progressed": 220291,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 220275,
+      "Progressed": 220291,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-01T22:58:02.5589257+00:00",
-  "LastChanged_Achievements": "2023-09-02T09:05:12.2492866+00:00",
-  "LastUpdate_AppInfo": "2023-08-26T08:59:41.9661267+00:00",
-  "LastUpdate_Ratings": "2023-09-02T08:58:22.7633323+00:00",
-  "LastUpdate_Achievements": "2023-09-02T09:05:12.2495183+00:00"
+  "LastChanged_Achievements": "2023-09-02T10:07:29.3507524+00:00",
+  "LastUpdate_AppInfo": "2023-09-02T09:57:55.2312629+00:00",
+  "LastUpdate_Ratings": "2023-09-02T10:01:00.4458966+00:00",
+  "LastUpdate_Achievements": "2023-09-02T10:07:29.3509176+00:00"
 }

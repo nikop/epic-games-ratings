@@ -41,10 +41,10 @@ Number of Ratings: 371  (23.09.2022)
 | Patron of Deimos | 0.40% | ~13 |
 | For the Machine God | 0.40% | ~13 |
 | Engine Kill | 0.40% | ~13 |
+| Harvest No More | 0.40% | ~13 |
 | Death Comes For All | 0.40% | ~13 |
 | Strike Force | 0.30% | ~10 |
 | Hands-On Research | 0.30% | ~10 |
-| Harvest No More | 0.30% | ~10 |
 | Blood and Iron | 0.20% | ~6 |
 | Exercise in Restraint | 0.20% | ~6 |
 | True Mastery | 0.20% | ~6 |

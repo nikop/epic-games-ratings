@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 139,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -302,7 +302,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16814,
+  "EOS_Progressed": 16815,
   "EOS_Completed": 102,
   "EOS_NewPlayers": 202,
   "EOS_NewCompleters": 0,
@@ -10697,6 +10697,11 @@
       "Time": "2023-09-02T08:04:35.0334704+00:00",
       "NumProgressed": 16814,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-09-02T10:06:17.5315474+00:00",
+      "NumProgressed": 16815,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 16,
@@ -10804,7 +10809,7 @@
       "Name": "Shooting Shark",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 8575
+      "UsersEstimate": 8576
     },
     {
       "ID": "Sole_Survivor",
@@ -10812,7 +10817,7 @@
       "Name": "Sole Survivor",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 6221
+      "UsersEstimate": 6222
     },
     {
       "ID": "Still_Burning",
@@ -10835,15 +10840,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 16814,
+      "Progressed": 16815,
       "Completed": 102
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-07-21T02:04:12.2963456+00:00",
-  "LastChanged_Achievements": "2023-09-02T09:03:57.1409526+00:00",
-  "LastUpdate_AppInfo": "2023-08-26T08:57:38.6700837+00:00",
-  "LastUpdate_Ratings": "2023-09-02T08:59:23.0162477+00:00",
-  "LastUpdate_Achievements": "2023-09-02T09:03:57.1410282+00:00"
+  "LastChanged_Achievements": "2023-09-02T10:06:17.5315467+00:00",
+  "LastUpdate_AppInfo": "2023-09-02T09:58:55.9189104+00:00",
+  "LastUpdate_Ratings": "2023-09-02T10:01:57.3342299+00:00",
+  "LastUpdate_Achievements": "2023-09-02T10:06:17.5316317+00:00"
 }

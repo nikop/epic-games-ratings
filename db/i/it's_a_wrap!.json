@@ -2,9 +2,9 @@
   "ID": "810797d6d1c640068ce75d45b85d2423",
   "Name": "It\u0027s a Wrap!",
   "ProductSlug": "its-a-wrap-f392ae",
-  "Ranking_EOS_Progress": 377,
+  "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 101,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-08-23T17:30:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 56,
+  "EOS_Progressed": 58,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.79,
+  "EOS_Completed_Percentage": 1.72,
   "EosHistory": [
     {
       "Time": "2023-08-23T19:06:50.974201+00:00",
@@ -241,6 +241,11 @@
       "Time": "2023-09-01T21:03:24.6478259+00:00",
       "NumProgressed": 56,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-02T10:06:17.1204288+00:00",
+      "NumProgressed": 58,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-23T18:07:41.5840272+00:00",
@@ -251,15 +256,15 @@
       "ID": "1_10_SECRET",
       "SetID": "2l1dk5b",
       "Name": "Under the Bridge",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 45
+      "UsersEstimate": 47
     },
     {
       "ID": "1_50_SECRET",
       "SetID": "2l1dk5b",
       "Name": "What\u0027s my line again?",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -283,7 +288,7 @@
       "ID": "1_90_SECRET",
       "SetID": "2l1dk5b",
       "Name": "Extra Life",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -299,7 +304,7 @@
       "ID": "3_00_SECRET",
       "SetID": "2l1dk5b",
       "Name": "Who\u0027s gonna pay for that?",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -307,7 +312,7 @@
       "ID": "3_20_SECRET",
       "SetID": "2l1dk5b",
       "Name": "Meet Your Makers",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -323,7 +328,7 @@
       "ID": "ALL_FINISH",
       "SetID": "2l1dk5b",
       "Name": "In the Can",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 200,
       "UsersEstimate": 2
     },
@@ -364,14 +369,14 @@
     {
       "ID": "2l1dk5b",
       "IsBase": true,
-      "Progressed": 56,
+      "Progressed": 58,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-25T08:57:40.9970991+00:00",
   "FirstSeenAchievements": "2023-08-01T21:04:35.2343064+00:00",
-  "LastChanged_Achievements": "2023-09-02T09:03:56.7163184+00:00",
+  "LastChanged_Achievements": "2023-09-02T10:06:17.1204282+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:00.6888694+00:00",
-  "LastUpdate_Ratings": "2023-09-02T08:59:45.6694721+00:00",
-  "LastUpdate_Achievements": "2023-09-02T09:03:56.7163356+00:00"
+  "LastUpdate_Ratings": "2023-09-02T10:02:20.7726883+00:00",
+  "LastUpdate_Achievements": "2023-09-02T10:06:17.120441+00:00"
 }

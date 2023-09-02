@@ -1,16 +1,16 @@
 # Outward Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/outward)  
 [View Rawdata](../../db/o/outward.json)  
-Rating: 4.55 (Ranked 489)  
+Rating: 4.55 (Ranked 490)  
 Number of Ratings: 266  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Venture Outward | 75.00% | ~2,500 |
-| Ready for Winter | 65.00% | ~2,166 |
-| Ready for Summer | 52.00% | ~1,733 |
+| Ready for Winter | 65.00% | ~2,167 |
+| Ready for Summer | 52.00% | ~1,734 |
 | Cordon Bleu | 44.00% | ~1,467 |
-| Tapped! | 37.00% | ~1,233 |
+| Tapped! | 37.00% | ~1,234 |
 | Eureka | 32.00% | ~1,067 |
 | Scourge Slayer | 26.00% | ~867 |
 | Science, Troglodyte! | 24.00% | ~800 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~10 |
 | The Absolute Pinnacle. | 0.30% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,333 (Ranked 156)  
+Progressed: 3,334 (Ranked 156)  
 Completed: 3 (0.09%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,6 +176,7 @@ Completed: 3 (0.09%) (Ranked 222)
 | 2023-08-29 | 3,331 | 3 |
 | 2023-08-30 | 3,332 | 3 |
 | 2023-08-31 | 3,333 | 3 |
+| 2023-09-02 | 3,334 | 3 |
 ## Awards
 Max (Highly Recommended): 33  (Ranked 449)  
 Sum: 242 (Ranked 357)  

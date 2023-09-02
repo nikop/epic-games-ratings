@@ -4,8 +4,8 @@
   "ProductSlug": "paw-patrol-mighty-pups-save-adventure-bay-aaad37",
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 299,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-12-13T19:30:00+00:00",
     "PcReleaseDate": "2020-11-06T07:30:00+00:00",
@@ -147,17 +147,17 @@
       "ID": "0",
       "SetID": "38ide56",
       "Name": "Mighty Powers",
-      "Percentage": 64,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "1",
       "SetID": "38ide56",
       "Name": "Grand Re-Opening",
-      "Percentage": 59,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "10",
@@ -195,9 +195,9 @@
       "ID": "14",
       "SetID": "38ide56",
       "Name": "Pup Pup Boogie",
-      "Percentage": 55,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "15",
@@ -363,9 +363,9 @@
       "ID": "7",
       "SetID": "38ide56",
       "Name": "Don\u2019t Miss Any",
-      "Percentage": 18,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "8",
@@ -396,8 +396,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2023-09-02T09:03:44.4524153+00:00",
-  "LastUpdate_AppInfo": "2023-08-26T08:58:01.3801291+00:00",
-  "LastUpdate_Ratings": "2023-09-02T08:59:53.8917226+00:00",
-  "LastUpdate_Achievements": "2023-09-02T09:03:44.4524551+00:00"
+  "LastChanged_Achievements": "2023-09-02T10:05:45.9330252+00:00",
+  "LastUpdate_AppInfo": "2023-09-02T09:59:19.2669385+00:00",
+  "LastUpdate_Ratings": "2023-09-02T10:02:28.618536+00:00",
+  "LastUpdate_Achievements": "2023-09-02T10:05:45.9330493+00:00"
 }

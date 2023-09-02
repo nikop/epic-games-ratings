@@ -4,8 +4,8 @@
   "ProductSlug": "the-backroom-project-b6b434",
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 88,
-  "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-05-29T22:00:00+00:00",
     "PcReleaseDate": "2022-05-15T10:00:00+00:00",
@@ -645,9 +645,9 @@
       "ID": "ACH_CORPSE",
       "SetID": "c2kf3nm",
       "Name": "Are you still Alive?",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 50,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACH_DIE",
@@ -796,8 +796,8 @@
   ],
   "FirstSeen": "2023-06-01T17:57:00.4013591+00:00",
   "FirstSeenAchievements": "2023-05-25T20:00:56.667869+00:00",
-  "LastChanged_Achievements": "2023-09-02T09:03:41.0282322+00:00",
+  "LastChanged_Achievements": "2023-09-02T10:05:42.6804609+00:00",
   "LastUpdate_AppInfo": "2023-09-01T02:16:08.2975433+00:00",
-  "LastUpdate_Ratings": "2023-09-02T09:01:52.6767543+00:00",
-  "LastUpdate_Achievements": "2023-09-02T09:03:41.0282491+00:00"
+  "LastUpdate_Ratings": "2023-09-02T10:04:24.2471277+00:00",
+  "LastUpdate_Achievements": "2023-09-02T10:05:42.6804799+00:00"
 }

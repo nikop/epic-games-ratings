@@ -5,10 +5,10 @@
   "Ranking_Rating": 756,
   "Ranking_Popularity": 273,
   "Ranking_PopularitySum": 224,
-  "Ranking_EOS_Progress": 217,
-  "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_Progress": 216,
+  "Ranking_EOS_Completed": 186,
+  "Ranking_EOS_NewPlayers": 66,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -952,11 +952,11 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 721,
+  "EOS_Progressed": 729,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 716,
+  "EOS_NewPlayers": 724,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 0.28,
+  "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
       "Time": "2023-08-30T11:07:13.7661076+00:00",
@@ -1312,6 +1312,11 @@
       "Time": "2023-09-02T09:08:14.9491489+00:00",
       "NumProgressed": 721,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-02T10:10:27.2222396+00:00",
+      "NumProgressed": 729,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -1338,9 +1343,9 @@
       "ID": "a_11",
       "SetID": "daiie3o",
       "Name": "A lot of space",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 15
     },
     {
       "ID": "a_12",
@@ -1348,7 +1353,7 @@
       "Name": "A big garage",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "a_15",
@@ -1356,7 +1361,7 @@
       "Name": "Big Money",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "a_16",
@@ -1372,15 +1377,15 @@
       "Name": "Bye Bye",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 216
+      "UsersEstimate": 219
     },
     {
       "ID": "a_19",
       "SetID": "daiie3o",
       "Name": "Bonjour!",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 36
     },
     {
       "ID": "a_2",
@@ -1420,7 +1425,7 @@
       "Name": "Quack",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "a_25",
@@ -1436,7 +1441,7 @@
       "Name": "Exotic",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "a_27",
@@ -1444,7 +1449,7 @@
       "Name": "Keep the doctor away",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "a_28",
@@ -1466,7 +1471,7 @@
       "ID": "a_30",
       "SetID": "daiie3o",
       "Name": "King of red wines",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -1482,7 +1487,7 @@
       "ID": "a_32",
       "SetID": "daiie3o",
       "Name": "Sales Expert",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -1546,7 +1551,7 @@
       "ID": "a_7",
       "SetID": "daiie3o",
       "Name": "Knight of Langhe",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -1571,7 +1576,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 721,
+      "Progressed": 729,
       "Completed": 2
     }
   ],
@@ -1579,8 +1584,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-08-28T14:01:21.7581903+00:00",
-  "LastChanged_Achievements": "2023-09-02T09:08:14.9491481+00:00",
-  "LastUpdate_AppInfo": "2023-08-26T08:58:37.0274623+00:00",
-  "LastUpdate_Ratings": "2023-09-02T08:57:38.228268+00:00",
-  "LastUpdate_Achievements": "2023-09-02T09:08:14.9491795+00:00"
+  "LastChanged_Achievements": "2023-09-02T10:10:27.2222389+00:00",
+  "LastUpdate_AppInfo": "2023-09-02T09:57:09.2681959+00:00",
+  "LastUpdate_Ratings": "2023-09-02T10:00:16.4694277+00:00",
+  "LastUpdate_Achievements": "2023-09-02T10:10:27.2222674+00:00"
 }

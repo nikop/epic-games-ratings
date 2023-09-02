@@ -33,8 +33,8 @@ Number of Ratings: 28  (23.09.2022)
 | Engineer | 10.00% | ~45 |
 | Tycoon | 8.00% | ~36 |
 | Germany | 6.00% | ~27 |
+| Peacemaker | 5.00% | ~22 |
 | Сhancellor | 4.00% | ~18 |
-| Peacemaker | 4.00% | ~18 |
 | Supercrash! | 4.00% | ~18 |
 | Chuck Norris | 4.00% | ~18 |
 | Forgotten | 3.00% | ~13 |
