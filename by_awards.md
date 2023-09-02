@@ -15,7 +15,7 @@
 | 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 36,857 | 4.74 | 146 |
 | 14 | [Destiny 2](games/d/destiny_2.md) | 36,825 | 4.49 | 581 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 31,778 | 4.52 | 531 |
-| 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,837 | 4.64 | 316 |
+| 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,837 | 4.64 | 315 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 22,077 | 4.77 | 109 |
 | 18 | [Dauntless](games/d/dauntless.md) | 21,608 | 4.53 | 520 |
 | 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 19,357 | 4.57 | 453 |
@@ -57,7 +57,7 @@
 | 55 | [Sifu](games/s/sifu.md) | 6,419 | 4.82 | 65 |
 | 56 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,329 | 4.58 | 430 |
 | 57 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 5,986 | 4.79 | 88 |
-| 58 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,963 | 4.64 | 316 |
+| 58 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,963 | 4.64 | 315 |
 | 59 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 5,880 | 4.68 | 240 |
 | 60 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,851 | 4.66 | 279 |
 | 61 | [Dead Island 2](games/d/dead_island_2.md) | 5,846 | 4.54 | 503 |
@@ -68,7 +68,7 @@
 | 66 | [Rogue Company](games/r/rogue_company.md) | 5,340 | 4.33 | 773 |
 | 67 | [Cities: Skylines](games/c/cities__skylines.md) | 5,274 | 4.65 | 302 |
 | 68 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,218 | 4.06 | 930 |
-| 69 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,845 | 4.69 | 218 |
+| 69 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,853 | 4.69 | 218 |
 | 70 | [MultiVersus](games/m/multiversus.md) | 4,747 | 4.56 | 473 |
 | 71 | [Shop Titans](games/s/shop_titans.md) | 4,719 | 3.99 | 942 |
 | 72 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,565 | 4.70 | 198 |
@@ -271,11 +271,11 @@
 | 269 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 217 | 4.84 | 48 |
 | 270 | [Sunless Sea](games/s/sunless_sea.md) | 213 | 4.58 | 430 |
 | 271 | [Stranded Deep](games/s/stranded_deep.md) | 207 | 4.22 | 854 |
-| 272 | [HITMAN](games/h/hitman.md) | 206 | 4.64 | 316 |
+| 272 | [HITMAN](games/h/hitman.md) | 206 | 4.64 | 315 |
 | 273 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 203 | 4.35 | 756 |
 | 274 | [Relicta](games/r/relicta.md) | 200 | 4.15 | 897 |
 | 275 | [Crashlands](games/c/crashlands.md) | 193 | 4.66 | 279 |
-| 276 | [Unrailed!](games/u/unrailed!.md) | 192 | 4.64 | 316 |
+| 276 | [Unrailed!](games/u/unrailed!.md) | 192 | 4.64 | 315 |
 | 277 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 190 | 4.51 | 547 |
 | 278 | [Pinball FX](games/p/pinball_fx.md) | 188 | 4.05 | 932 |
 | 279 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 185 | 4.58 | 430 |
@@ -322,7 +322,7 @@
 | 319 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 121 | 4.79 | 88 |
 | 321 | [BIOMUTANT](games/b/biomutant.md) | 120 | 4.33 | 773 |
 | 322 | [Tropico 5](games/t/tropico_5.md) | 118 | 4.45 | 640 |
-| 323 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 117 | 4.64 | 316 |
+| 323 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 117 | 4.64 | 315 |
 | 324 | [Overcooked](games/o/overcooked.md) | 115 | 4.67 | 258 |
 | 325 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 113 | 4.36 | 745 |
 | 326 | [Faeria](games/f/faeria.md) | 110 | 4.45 | 640 |
@@ -375,7 +375,7 @@
 | 373 | [Rising Hell](games/r/rising_hell.md) | 74 | 4.41 | 687 |
 | 374 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 73 | 4.38 | 729 |
 | 374 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 73 | 4.19 | 873 |
-| 374 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 73 | 4.64 | 316 |
+| 374 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 73 | 4.64 | 315 |
 | 377 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 72 | 4.54 | 503 |
 | 378 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 70 | 4.54 | 503 |
 | 379 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 69 | 4.67 | 258 |
@@ -385,7 +385,7 @@
 | 381 | [Ticket to Ride](games/t/ticket_to_ride.md) | 68 | 4.63 | 332 |
 | 384 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 67 | 4.41 | 687 |
 | 384 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 67 | 4.42 | 679 |
-| 384 | [Symphony of War](games/s/symphony_of_war.md) | 67 | 4.64 | 316 |
+| 384 | [Symphony of War](games/s/symphony_of_war.md) | 67 | 4.64 | 315 |
 | 387 | [Arcadegeddon](games/a/arcadegeddon.md) | 64 | 4.49 | 581 |
 | 387 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 64 | 4.51 | 547 |
 | 389 | [In Sound Mind](games/i/in_sound_mind.md) | 63 | 4.60 | 393 |
@@ -462,12 +462,12 @@
 | 456 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 32 | 4.37 | 738 |
 | 461 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 31 | 4.24 | 841 |
 | 461 | [GRIME](games/g/grime.md) | 31 | 4.59 | 416 |
+| 463 | [Black Book](games/b/black_book.md) | 30 | 4.70 | 198 |
 | 463 | [Northgard](games/n/northgard.md) | 30 | 4.70 | 198 |
 | 463 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 30 | 4.57 | 453 |
-| 465 | [Black Book](games/b/black_book.md) | 29 | 4.70 | 198 |
-| 465 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 29 | 3.93 | 957 |
-| 465 | [Speed Brawl](games/s/speed_brawl.md) | 29 | 4.33 | 773 |
-| 465 | [The Surge](games/t/the_surge.md) | 29 | 4.43 | 666 |
+| 466 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 29 | 3.93 | 957 |
+| 466 | [Speed Brawl](games/s/speed_brawl.md) | 29 | 4.33 | 773 |
+| 466 | [The Surge](games/t/the_surge.md) | 29 | 4.43 | 666 |
 | 469 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 28 | 4.81 | 77 |
 | 469 | [Wildermyth](games/w/wildermyth.md) | 28 | 4.77 | 109 |
 | 469 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 28 | 4.51 | 547 |

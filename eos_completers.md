@@ -91,7 +91,7 @@
 | 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.27% |
 | 90 | [Bloodshore](games/b/bloodshore.md) | 2.19% |
 | 91 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
-| 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.02% |
+| 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.01% |
 | 93 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.00% |
 | 94 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
 | 95 | [Night Book](games/n/night_book.md) | 1.86% |
@@ -127,7 +127,7 @@
 | 123 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.99% |
 | 126 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.95% |
 | 127 | [Hades](games/h/hades.md) | 0.90% |
-| 128 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.88% |
+| 128 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.86% |
 | 129 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 130 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
 | 131 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.81% |
@@ -181,11 +181,11 @@
 | 177 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 180 | [Against the Storm](games/a/against_the_storm.md) | 0.29% |
 | 180 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
-| 180 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.29% |
 | 180 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
-| 184 | [Scrapnaut](games/s/scrapnaut.md) | 0.28% |
-| 184 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.28% |
-| 184 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.28% |
+| 183 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.28% |
+| 183 | [Scrapnaut](games/s/scrapnaut.md) | 0.28% |
+| 183 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.28% |
+| 183 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.28% |
 | 187 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
 | 187 | [Filament](games/f/filament.md) | 0.25% |
 | 189 | [Despot's Game](games/d/despot's_game.md) | 0.24% |
