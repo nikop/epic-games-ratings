@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 39,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -1489,7 +1489,7 @@
       "Count": 247
     }
   ],
-  "EOS_Progressed": 199382,
+  "EOS_Progressed": 199386,
   "EOS_Completed": 75,
   "EOS_NewPlayers": 1886,
   "EOS_NewCompleters": 3,
@@ -16519,6 +16519,11 @@
       "Time": "2023-09-02T02:18:27.3322112+00:00",
       "NumProgressed": 199382,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2023-09-02T03:07:17.1881057+00:00",
+      "NumProgressed": 199386,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 44,
@@ -16530,7 +16535,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 17944
+      "UsersEstimate": 17945
     },
     {
       "ID": "AtheistOx",
@@ -16698,7 +16703,7 @@
       "Name": "Noboru",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 5981
+      "UsersEstimate": 5982
     },
     {
       "ID": "Okkoto",
@@ -16770,7 +16775,7 @@
       "Name": "Stoned",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 5981
+      "UsersEstimate": 5982
     },
     {
       "ID": "StonedOx",
@@ -16810,7 +16815,7 @@
       "Name": "The Old Way",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 5981
+      "UsersEstimate": 5982
     },
     {
       "ID": "Thorough",
@@ -16818,7 +16823,7 @@
       "Name": "Thorough",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 19938
+      "UsersEstimate": 19939
     },
     {
       "ID": "TimeParadox",
@@ -16881,15 +16886,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 199382,
+      "Progressed": 199386,
       "Completed": 75
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-08-31T02:58:21.4925268+00:00",
-  "LastChanged_Achievements": "2023-09-02T02:18:27.3322107+00:00",
+  "LastChanged_Achievements": "2023-09-02T03:07:17.1881049+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:44.6562489+00:00",
-  "LastUpdate_Ratings": "2023-09-02T02:10:50.9030534+00:00",
-  "LastUpdate_Achievements": "2023-09-02T02:18:27.3323743+00:00"
+  "LastUpdate_Ratings": "2023-09-02T02:59:22.7432778+00:00",
+  "LastUpdate_Achievements": "2023-09-02T03:07:17.188328+00:00"
 }

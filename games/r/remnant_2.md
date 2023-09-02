@@ -5,25 +5,25 @@ Rating: 4.76 (Ranked 116)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~15,479 |
-| The Killing Jar | 8.00% | ~13,759 |
-| Not Your Average Trait | 8.00% | ~13,759 |
-| Expanding Horizons | 7.00% | ~12,039 |
-| Quest for Survival | 7.00% | ~12,039 |
-| Boss'n Up | 7.00% | ~12,039 |
-| Trait Chaser | 7.00% | ~12,039 |
-| Gleaming the Cube | 6.00% | ~10,319 |
-| Not a Janitor | 6.00% | ~10,319 |
-| Familiar Face | 6.00% | ~10,319 |
-| Blue Goddess | 6.00% | ~10,319 |
-| Duality | 6.00% | ~10,319 |
-| Top Performer | 6.00% | ~10,319 |
-| Good, But Could Be Better! | 6.00% | ~10,319 |
-| Not So Special Now | 5.00% | ~8,599 |
-| Equal Measures | 5.00% | ~8,599 |
-| Shhh...It's a Secret | 5.00% | ~8,599 |
-| Almost There | 5.00% | ~8,599 |
-| Make Some Room | 5.00% | ~8,599 |
+| First of Many | 9.00% | ~15,480 |
+| The Killing Jar | 8.00% | ~13,760 |
+| Not Your Average Trait | 8.00% | ~13,760 |
+| Expanding Horizons | 7.00% | ~12,040 |
+| Quest for Survival | 7.00% | ~12,040 |
+| Boss'n Up | 7.00% | ~12,040 |
+| Trait Chaser | 7.00% | ~12,040 |
+| Gleaming the Cube | 6.00% | ~10,320 |
+| Not a Janitor | 6.00% | ~10,320 |
+| Familiar Face | 6.00% | ~10,320 |
+| Blue Goddess | 6.00% | ~10,320 |
+| Duality | 6.00% | ~10,320 |
+| Top Performer | 6.00% | ~10,320 |
+| Good, But Could Be Better! | 6.00% | ~10,320 |
+| Not So Special Now | 5.00% | ~8,600 |
+| Equal Measures | 5.00% | ~8,600 |
+| Shhh...It's a Secret | 5.00% | ~8,600 |
+| Almost There | 5.00% | ~8,600 |
+| Make Some Room | 5.00% | ~8,600 |
 | Chaos | 4.00% | ~6,880 |
 | Traitor | 4.00% | ~6,880 |
 | Power Surge | 4.00% | ~6,880 |
@@ -56,7 +56,7 @@ Rating: 4.76 (Ranked 116)
 | Ghost in the Machine | 0.80% | ~1,376 |
 | Proving Grounds | 0.80% | ~1,376 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 171,988 (Ranked 63)  
+Progressed: 172,005 (Ranked 63)  
 Completed: 196 (0.11%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,19 +104,19 @@ Completed: 196 (0.11%) (Ranked 215)
 | 2023-08-30 | 170,451 | 178 |
 | 2023-08-31 | 171,187 | 186 |
 | 2023-09-01 | 171,926 | 193 |
-| 2023-09-02 | 171,988 | 196 |
+| 2023-09-02 | 172,005 | 196 |
 ## Awards
 Max (Great Boss Battles): 1,330  (Ranked 129)  
-Sum: 2,422 (Ranked 179)  
+Sum: 2,424 (Ranked 179)  
 Diff (max vs sum): -50  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 1,330 |
 | This game is Highly Recommended | 124 |
 | This game is Extremely Fun | 120 |
+| This game is Relaxing | 116 |
 | This game has Challenging Combat | 114 |
 | This game has Diverse Characters | 114 |
-| This game is Relaxing | 114 |
 | This game has Amazing Characters | 110 |
 | This game has Quickly Understood Controls | 109 |
 | This game has Amazing Storytelling | 102 |
@@ -163,4 +163,4 @@ Diff (max vs sum): -50
 | 2023-08-30 | 4.76 | 1,280 | 2,273 |
 | 2023-08-31 | 4.76 | 1,306 | 2,346 |
 | 2023-09-01 | 4.77 | 1,330 | 2,417 |
-| 2023-09-02 | 4.76 | 1,330 | 2,422 |
+| 2023-09-02 | 4.76 | 1,330 | 2,424 |

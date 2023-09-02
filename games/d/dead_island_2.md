@@ -6,7 +6,7 @@ Rating: 4.54 (Ranked 503)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Welcome To Hell-A | 0.90% | ~6,041 |
-| Hotel California | 0.80% | ~5,369 |
+| Hotel California | 0.80% | ~5,370 |
 | Git Gutte! | 0.70% | ~4,698 |
 | Break A Leg | 0.70% | ~4,698 |
 | Coup de Grâce | 0.70% | ~4,698 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 503)
 | Survival Skills | 0.10% | ~671 |
 | Bucket List | 0.10% | ~671 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 671,185 (Ranked 22)  
+Progressed: 671,206 (Ranked 22)  
 Completed: 2,098 (0.31%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,7 +186,7 @@ Completed: 2,098 (0.31%) (Ranked 177)
 | 2023-08-30 | 669,636 | 2,094 |
 | 2023-08-31 | 670,394 | 2,097 |
 | 2023-09-01 | 671,108 | 2,097 |
-| 2023-09-02 | 671,185 | 2,098 |
+| 2023-09-02 | 671,206 | 2,098 |
 ## Awards
 Max (Great Boss Battles): 5,846  (Ranked 61)  
 Sum: 8,613 (Ranked 96)  

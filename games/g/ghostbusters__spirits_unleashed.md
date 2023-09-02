@@ -5,26 +5,26 @@ Rating: 4.49 (Ranked 581)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~21,915 |
+| Stylish | 86.00% | ~21,916 |
 | Advancement | 73.00% | ~18,603 |
-| Meticulously Efficient | 63.00% | ~16,054 |
+| Meticulously Efficient | 63.00% | ~16,055 |
 | Discovery | 61.00% | ~15,545 |
 | Fully Upgraded | 54.00% | ~13,761 |
-| Swift Rift Removers | 53.00% | ~13,506 |
-| I collect Spores, Molds, and Fungi | 51.00% | ~12,996 |
-| Cultured | 51.00% | ~12,996 |
+| Swift Rift Removers | 54.00% | ~13,761 |
+| I collect Spores, Molds, and Fungi | 51.00% | ~12,997 |
+| Cultured | 51.00% | ~12,997 |
 | Vaporous Expansion | 48.00% | ~12,232 |
 | Teamwork | 43.00% | ~10,958 |
 | There you are! | 42.00% | ~10,703 |
-| Clutch Capture | 40.00% | ~10,193 |
+| Clutch Capture | 40.00% | ~10,194 |
 | Back Off | 35.00% | ~8,919 |
-| Daily Dose | 34.00% | ~8,664 |
-| Solo Capture | 33.00% | ~8,409 |
+| Daily Dose | 34.00% | ~8,665 |
+| Solo Capture | 33.00% | ~8,410 |
 | Welcome to the Crew | 31.00% | ~7,900 |
 | Ghostbuster In Training | 30.00% | ~7,645 |
 | Icing on the Cake | 30.00% | ~7,645 |
-| Side Hustle | 27.00% | ~6,880 |
-| Summoner | 27.00% | ~6,880 |
+| Side Hustle | 27.00% | ~6,881 |
+| Summoner | 27.00% | ~6,881 |
 | We have the best insurance | 26.00% | ~6,626 |
 | Legions | 26.00% | ~6,626 |
 | Right back at ya | 26.00% | ~6,626 |
@@ -40,16 +40,16 @@ Rating: 4.49 (Ranked 581)
 | Reckless | 17.00% | ~4,332 |
 | Diabolical | 16.00% | ~4,077 |
 | Seasoned | 16.00% | ~4,077 |
-| Escape Artist | 15.00% | ~3,822 |
+| Escape Artist | 15.00% | ~3,823 |
 | Whoopsie | 13.00% | ~3,313 |
 | Liability | 10.00% | ~2,548 |
 | Rivalry | 10.00% | ~2,548 |
-| Fragile Panes | 9.00% | ~2,293 |
-| Surprise! | 9.00% | ~2,293 |
+| Fragile Panes | 9.00% | ~2,294 |
+| Surprise! | 9.00% | ~2,294 |
 | Rift Seeker | 7.00% | ~1,784 |
 | Therapeutic | 7.00% | ~1,784 |
 | Master Collector | 6.00% | ~1,529 |
-| Ghost Expert | 3.00% | ~764 |
+| Ghost Expert | 3.00% | ~765 |
 | Catostrophic Destroyer | 2.00% | ~510 |
 | Line em' up | 2.00% | ~510 |
 | Little Help Here | 2.00% | ~510 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 581)
 | I don't need these | 1.00% | ~255 |
 | Mycophile | 1.00% | ~255 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,483 (Ranked 103)  
+Progressed: 25,484 (Ranked 103)  
 Completed: 54 (0.21%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 54 (0.21%) (Ranked 194)
 | 2023-08-30 | 25,447 | 54 |
 | 2023-08-31 | 25,465 | 54 |
 | 2023-09-01 | 25,481 | 54 |
-| 2023-09-02 | 25,483 | 54 |
+| 2023-09-02 | 25,484 | 54 |
 ## Awards
 Max (Great for Quick Sessions): 250  (Ranked 254)  
 Sum: 2,269 (Ranked 190)  

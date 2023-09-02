@@ -6,32 +6,32 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 1.00% | ~8,379 |
-| It wakes | 1.00% | ~8,379 |
-| Skillful | 1.00% | ~8,379 |
-| MU/TH/UR Dearest | 1.00% | ~8,379 |
-| Make Some Noise | 0.90% | ~7,541 |
-| Not half bad | 0.80% | ~6,703 |
-| Apt Survivor | 0.80% | ~6,703 |
-| Handyman | 0.70% | ~5,865 |
-| Survival Treasures | 0.70% | ~5,865 |
-| No one left behind | 0.60% | ~5,027 |
-| Medic | 0.60% | ~5,027 |
-| Nerves of steel | 0.60% | ~5,027 |
-| Bloody Millionaire | 0.60% | ~5,027 |
-| I | 0.60% | ~5,027 |
-| Sorted | 0.60% | ~5,027 |
-| Resurgence | 0.60% | ~5,027 |
-| Terror of LV-426 | 0.60% | ~5,027 |
-| The Grand Sacrifice | 0.50% | ~4,189 |
-| Agonizing Escape | 0.50% | ~4,189 |
-| Backdoor Escape | 0.50% | ~4,189 |
-| Perfect Escape | 0.50% | ~4,189 |
-| Perfect Killing | 0.50% | ~4,189 |
-| Engineer | 0.50% | ~4,189 |
-| Healthy Obsession | 0.50% | ~4,189 |
-| Preemptive Strike | 0.50% | ~4,189 |
-| Humanitarian | 0.50% | ~4,189 |
+| Zealous | 1.00% | ~8,380 |
+| It wakes | 1.00% | ~8,380 |
+| Skillful | 1.00% | ~8,380 |
+| MU/TH/UR Dearest | 1.00% | ~8,380 |
+| Make Some Noise | 0.90% | ~7,542 |
+| Not half bad | 0.80% | ~6,704 |
+| Apt Survivor | 0.80% | ~6,704 |
+| Handyman | 0.70% | ~5,866 |
+| Survival Treasures | 0.70% | ~5,866 |
+| No one left behind | 0.60% | ~5,028 |
+| Medic | 0.60% | ~5,028 |
+| Nerves of steel | 0.60% | ~5,028 |
+| Bloody Millionaire | 0.60% | ~5,028 |
+| I | 0.60% | ~5,028 |
+| Sorted | 0.60% | ~5,028 |
+| Resurgence | 0.60% | ~5,028 |
+| Terror of LV-426 | 0.60% | ~5,028 |
+| The Grand Sacrifice | 0.50% | ~4,190 |
+| Agonizing Escape | 0.50% | ~4,190 |
+| Backdoor Escape | 0.50% | ~4,190 |
+| Perfect Escape | 0.50% | ~4,190 |
+| Perfect Killing | 0.50% | ~4,190 |
+| Engineer | 0.50% | ~4,190 |
+| Healthy Obsession | 0.50% | ~4,190 |
+| Preemptive Strike | 0.50% | ~4,190 |
+| Humanitarian | 0.50% | ~4,190 |
 | I've got your back | 0.40% | ~3,352 |
 | Apt Killer | 0.40% | ~3,352 |
 | Risk it all | 0.40% | ~3,352 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~838 |
 | Adept Ripley | 0.10% | ~838 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 837,879 (Ranked 15)  
+Progressed: 837,982 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -371,7 +371,7 @@ Completed: 48 (0.01%) (Ranked 258)
 | 2023-08-30 | 831,117 | 48 |
 | 2023-08-31 | 834,142 | 48 |
 | 2023-09-01 | 837,438 | 48 |
-| 2023-09-02 | 837,879 | 48 |
+| 2023-09-02 | 837,982 | 48 |
 ## Awards
 Max (Diverse Characters): 31,778  (Ranked 15)  
 Sum: 249,224 (Ranked 11)  

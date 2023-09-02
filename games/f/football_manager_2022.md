@@ -90,7 +90,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | One more draft | 0.70% | ~3,305 |
 | Online Streak | 0.60% | ~2,833 |
 | Set Piece Specialist | 0.60% | ~2,833 |
-| Draft Rivalry | 0.50% | ~2,360 |
+| Draft Rivalry | 0.50% | ~2,361 |
 | Beat all the AI Managers | 0.40% | ~1,888 |
 | Outstanding Defence | 0.30% | ~1,416 |
 | Club Legend | 0.30% | ~1,416 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~472 |
 | Shoestring Budget | 0.10% | ~472 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 472,100 (Ranked 36)  
+Progressed: 472,101 (Ranked 36)  
 Completed: 20 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,10 +240,10 @@ Completed: 20 (0.00%) (Ranked 271)
 | 2023-08-30 | 471,891 | 20 |
 | 2023-08-31 | 471,991 | 20 |
 | 2023-09-01 | 472,090 | 20 |
-| 2023-09-02 | 472,100 | 20 |
+| 2023-09-02 | 472,101 | 20 |
 ## Awards
 Max (Relaxing): 6,422  (Ranked 54)  
-Sum: 50,535 (Ranked 24)  
+Sum: 50,542 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -251,9 +251,9 @@ Diff (max vs sum): 30
 | This game is Extremely Fun | 6,022 |
 | This game has Competitive Players | 5,858 |
 | This game has Quickly Understood Controls | 5,849 |
+| This game is Highly Recommended | 5,827 |
 | This game is Educational | 5,827 |
-| This game is Highly Recommended | 5,824 |
-| This game has Diverse Characters | 5,478 |
+| This game has Diverse Characters | 5,482 |
 | This game has Amazing Storytelling | 4,892 |
 | This game has Obsessive Gameplay | 4,416 |
 | This game has Amazing Characters | 4,363 |
@@ -480,3 +480,4 @@ Diff (max vs sum): 30
 | 2023-08-30 | 4.80 | - | 6,417 | 50,511 |
 | 2023-08-31 | 4.80 | - | 6,419 | 50,522 |
 | 2023-09-01 | 4.80 | - | 6,422 | 50,535 |
+| 2023-09-02 | 4.80 | - | 6,422 | 50,542 |

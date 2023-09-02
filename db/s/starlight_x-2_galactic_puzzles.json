@@ -4,7 +4,7 @@
   "ProductSlug": "starlight-x2-galactic-puzzles-dede7d",
   "Ranking_EOS_Progress": 384,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewPlayers": 278,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-06-07T07:00:00+00:00",
@@ -633,8 +633,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:54:03.7448556+00:00",
-  "LastChanged_Achievements": "2023-09-02T02:13:46.8496459+00:00",
+  "LastChanged_Achievements": "2023-09-02T03:03:13.2089412+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:09.3279182+00:00",
-  "LastUpdate_Ratings": "2023-09-02T02:12:47.5684794+00:00",
-  "LastUpdate_Achievements": "2023-09-02T02:13:46.849698+00:00"
+  "LastUpdate_Ratings": "2023-09-02T03:01:22.4163857+00:00",
+  "LastUpdate_Achievements": "2023-09-02T03:03:13.2090111+00:00"
 }

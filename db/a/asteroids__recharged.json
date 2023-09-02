@@ -4,7 +4,7 @@
   "ProductSlug": "asteroids-recharged",
   "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewPlayers": 301,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-12-14T16:00:00+00:00",
@@ -252,9 +252,9 @@
       "ID": "ACH_KEEP_YOURSELF_ALIVE",
       "SetID": "ca3jj1k",
       "Name": "Keep Yourself Alive",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_KILLER_QUEEN",
@@ -316,9 +316,9 @@
       "ID": "ACH_THE_HITMAN",
       "SetID": "ca3jj1k",
       "Name": "The Hitman",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 75,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACH_THE_INVISIBLE",
@@ -357,8 +357,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.8457032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.0797767+00:00",
   "LastChanged": "2023-03-31T05:58:41.8457033+00:00",
-  "LastChanged_Achievements": "2023-09-02T02:14:37.1963178+00:00",
+  "LastChanged_Achievements": "2023-09-02T03:03:44.036261+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:11.4286873+00:00",
-  "LastUpdate_Ratings": "2023-09-02T02:10:18.7691668+00:00",
-  "LastUpdate_Achievements": "2023-09-02T02:14:37.1963333+00:00"
+  "LastUpdate_Ratings": "2023-09-02T02:58:50.6817531+00:00",
+  "LastUpdate_Achievements": "2023-09-02T03:03:44.0362824+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 515,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 62134,
+  "EOS_Progressed": 62135,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 507,
+  "EOS_NewPlayers": 503,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -13182,6 +13182,11 @@
       "Time": "2023-09-02T02:15:24.631661+00:00",
       "NumProgressed": 62134,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-09-02T03:04:11.5462655+00:00",
+      "NumProgressed": 62135,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -13207,9 +13212,9 @@
       "ID": "03",
       "SetID": "212770e",
       "Name": "Bright Falls\u0027 Finest",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 14291
+      "UsersEstimate": 14912
     },
     {
       "ID": "04",
@@ -13305,7 +13310,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6213
+      "UsersEstimate": 6214
     },
     {
       "ID": "16",
@@ -13361,7 +13366,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8077
+      "UsersEstimate": 8078
     },
     {
       "ID": "23",
@@ -13401,7 +13406,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8077
+      "UsersEstimate": 8078
     },
     {
       "ID": "28",
@@ -13415,9 +13420,9 @@
       "ID": "29",
       "SetID": "212770e",
       "Name": "Sound and Fury",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 8699
+      "UsersEstimate": 9320
     },
     {
       "ID": "30",
@@ -13433,7 +13438,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 9941
+      "UsersEstimate": 9942
     },
     {
       "ID": "32",
@@ -13457,7 +13462,7 @@
       "Name": "Energized!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6213
+      "UsersEstimate": 6214
     },
     {
       "ID": "35",
@@ -13513,7 +13518,7 @@
       "Name": "Finders Keepers",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 9941
+      "UsersEstimate": 9942
     },
     {
       "ID": "42",
@@ -13728,21 +13733,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 62134,
+      "Progressed": 62135,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 25602,
+      "Progressed": 25603,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-02T02:15:24.6316604+00:00",
+  "LastChanged_Achievements": "2023-09-02T03:04:11.5462649+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:21.2068954+00:00",
-  "LastUpdate_Ratings": "2023-09-02T02:08:49.1433481+00:00",
-  "LastUpdate_Achievements": "2023-09-02T02:15:24.6318203+00:00"
+  "LastUpdate_Ratings": "2023-09-02T02:57:17.6426162+00:00",
+  "LastUpdate_Achievements": "2023-09-02T03:04:11.5465254+00:00"
 }

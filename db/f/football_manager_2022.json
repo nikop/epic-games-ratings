@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 36,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 66,
+  "Ranking_EOS_NewPlayers": 67,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": null,
@@ -6927,10 +6927,16 @@
       "Rating": 4.8,
       "NumberOfAwards": 50535,
       "NumberOfAwardsMax": 6422
+    },
+    {
+      "Time": "2023-09-02T03:01:00.8568623+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 50542,
+      "NumberOfAwardsMax": 6422
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 50535,
+  "NumberOfAwards": 50542,
   "NumberOfAwardsMax": 6422,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -6956,7 +6962,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 5824
+      "Count": 5827
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6986,7 +6992,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5478
+      "Count": 5482
     },
     {
       "Text": "This game has Amazing Characters",
@@ -7001,7 +7007,7 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 472100,
+  "EOS_Progressed": 472101,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 703,
   "EOS_NewCompleters": 0,
@@ -21211,6 +21217,11 @@
       "Time": "2023-09-02T02:17:50.1437454+00:00",
       "NumProgressed": 472100,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-09-02T03:06:39.6908751+00:00",
+      "NumProgressed": 472101,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 98,
@@ -21950,7 +21961,7 @@
       "Name": "Draft Rivalry",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2360
+      "UsersEstimate": 2361
     },
     {
       "ID": "fantasy_draft_knockout_king",
@@ -22005,15 +22016,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 472100,
+      "Progressed": 472101,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
-  "LastChanged": "2023-09-01T21:00:59.9740564+00:00",
-  "LastChanged_Achievements": "2023-09-02T02:17:50.1437449+00:00",
+  "LastChanged": "2023-09-02T03:01:00.8568621+00:00",
+  "LastChanged_Achievements": "2023-09-02T03:06:39.6908745+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:59.3598008+00:00",
-  "LastUpdate_Ratings": "2023-09-02T02:12:27.1436247+00:00",
-  "LastUpdate_Achievements": "2023-09-02T02:17:50.1439757+00:00"
+  "LastUpdate_Ratings": "2023-09-02T03:01:00.8568628+00:00",
+  "LastUpdate_Achievements": "2023-09-02T03:06:39.69124+00:00"
 }

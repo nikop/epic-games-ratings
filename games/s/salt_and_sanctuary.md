@@ -6,16 +6,16 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~441,607 |
-| The Three | 64.00% | ~340,516 |
-| The Banquet | 40.00% | ~212,823 |
-| Devara's Light | 30.00% | ~159,617 |
-| The Iron Ones | 18.00% | ~95,770 |
+| Find Sanctuary | 83.00% | ~441,609 |
+| The Three | 64.00% | ~340,518 |
+| The Banquet | 40.00% | ~212,824 |
+| Devara's Light | 30.00% | ~159,618 |
+| The Iron Ones | 18.00% | ~95,771 |
 | The Village | 16.00% | ~85,129 |
 | The Forest | 14.00% | ~74,488 |
 | The Keep | 14.00% | ~74,488 |
-| Branded | 13.00% | ~69,167 |
-| The Imposter | 13.00% | ~69,167 |
+| Branded | 13.00% | ~69,168 |
+| The Imposter | 13.00% | ~69,168 |
 | The Castle | 11.00% | ~58,526 |
 | The Dome | 9.00% | ~47,885 |
 | The Red Hall | 9.00% | ~47,885 |
@@ -24,10 +24,10 @@ Number of Ratings: 3,114  (23.09.2022)
 | The Mire | 7.00% | ~37,244 |
 | The Stone Roots | 7.00% | ~37,244 |
 | The Ziggurat | 7.00% | ~37,244 |
-| Storied | 6.00% | ~31,923 |
-| The Construct | 6.00% | ~31,923 |
-| The Lake | 6.00% | ~31,923 |
-| The Ruins | 6.00% | ~31,923 |
+| Storied | 6.00% | ~31,924 |
+| The Construct | 6.00% | ~31,924 |
+| The Lake | 6.00% | ~31,924 |
+| The Ruins | 6.00% | ~31,924 |
 | The Alkymancery | 5.00% | ~26,603 |
 | The Pitchwoods | 5.00% | ~26,603 |
 | Honed | 4.00% | ~21,282 |
@@ -44,8 +44,8 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,641 |
 | Fading Fast | 1.00% | ~5,321 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 532,057 (Ranked 30)  
-Completed: 1,526 (0.29%) (Ranked 181)  
+Progressed: 532,059 (Ranked 30)  
+Completed: 1,526 (0.29%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -179,7 +179,7 @@ Completed: 1,526 (0.29%) (Ranked 181)
 | 2023-08-30 | 531,864 | 1,525 |
 | 2023-08-31 | 531,956 | 1,525 |
 | 2023-09-01 | 532,046 | 1,526 |
-| 2023-09-02 | 532,057 | 1,526 |
+| 2023-09-02 | 532,059 | 1,526 |
 ## Awards
 Max (Challenging Combat): 280  (Ranked 243)  
 Sum: 1,935 (Ranked 204)  
