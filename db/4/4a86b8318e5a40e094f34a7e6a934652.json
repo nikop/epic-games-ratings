@@ -385,9 +385,9 @@
       "ID": "TAKE_LEECH",
       "SetID": "aniflfk",
       "Name": "Uppies!",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -408,8 +408,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-02T06:06:19.0112109+00:00",
+  "LastChanged_Achievements": "2023-09-02T07:06:44.9271837+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:06.6191746+00:00",
-  "LastUpdate_Ratings": "2023-09-02T06:00:17.6666684+00:00",
-  "LastUpdate_Achievements": "2023-09-02T06:06:19.0112243+00:00"
+  "LastUpdate_Ratings": "2023-09-02T07:00:41.6727258+00:00",
+  "LastUpdate_Achievements": "2023-09-02T07:06:44.9271982+00:00"
 }

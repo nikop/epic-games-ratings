@@ -4,11 +4,11 @@
   "ProductSlug": "20xx",
   "Ranking_Rating": 369,
   "Ranking_Popularity": 433,
-  "Ranking_PopularitySum": 354,
+  "Ranking_PopularitySum": 353,
   "Ranking_EOS_Progress": 571,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 344,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2020-07-30T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -619,10 +619,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 253,
       "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2023-09-02T06:58:53.9020073+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 254,
+      "NumberOfAwardsMax": 36
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 253,
+  "NumberOfAwards": 254,
   "NumberOfAwardsMax": 36,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -678,7 +684,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 20
+      "Count": 21
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -698,8 +704,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:18.3366391+00:00",
-  "LastChanged": "2023-08-30T18:57:56.7587567+00:00",
+  "LastChanged": "2023-09-02T06:58:53.9020071+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:34.6325636+00:00",
-  "LastUpdate_Ratings": "2023-09-02T05:58:25.3878862+00:00",
-  "LastUpdate_Achievements": "2023-09-02T06:03:25.4316235+00:00"
+  "LastUpdate_Ratings": "2023-09-02T06:58:53.9020077+00:00",
+  "LastUpdate_Achievements": "2023-09-02T07:03:57.7607037+00:00"
 }

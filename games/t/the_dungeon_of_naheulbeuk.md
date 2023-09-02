@@ -6,24 +6,24 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 27.00% | ~59,464 |
-| Déjà vu | 3.00% | ~6,607 |
-| Where's that freaking Dwarf? | 3.00% | ~6,607 |
-| Alt+F4 | 3.00% | ~6,607 |
+| Sowwy! | 27.00% | ~59,468 |
+| Déjà vu | 3.00% | ~6,608 |
+| Where's that freaking Dwarf? | 3.00% | ~6,608 |
+| Alt+F4 | 3.00% | ~6,608 |
 | A beer, two curses, three companions | 2.00% | ~4,405 |
 | Sock! SOCK! | 2.00% | ~4,405 |
 | GG EZ | 2.00% | ~4,405 |
 | DM intervention | 2.00% | ~4,405 |
 | Speedrun | 2.00% | ~4,405 |
 | Fireproof Wizardess | 2.00% | ~4,405 |
-| Livin' in a dwarven paradise | 1.00% | ~2,202 |
-| Way of the Wimp | 1.00% | ~2,202 |
-| The plot thickens... At the tavern | 1.00% | ~2,202 |
-| The demons' feast | 1.00% | ~2,202 |
-| The Great Library | 1.00% | ~2,202 |
-| The Woman in the High Castle | 1.00% | ~2,202 |
-| Team Building Exercise | 1.00% | ~2,202 |
-| Oh, when I'll be level 10... | 1.00% | ~2,202 |
+| Livin' in a dwarven paradise | 1.00% | ~2,203 |
+| Way of the Wimp | 1.00% | ~2,203 |
+| The plot thickens... At the tavern | 1.00% | ~2,203 |
+| The demons' feast | 1.00% | ~2,203 |
+| The Great Library | 1.00% | ~2,203 |
+| The Woman in the High Castle | 1.00% | ~2,203 |
+| Team Building Exercise | 1.00% | ~2,203 |
+| Oh, when I'll be level 10... | 1.00% | ~2,203 |
 | Torture and Sensibility | 0.90% | ~1,982 |
 | Urik's Depths | 0.90% | ~1,982 |
 | The Dungeon Master | 0.90% | ~1,982 |
@@ -39,7 +39,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Fortress | 0.70% | ~1,542 |
 | Look but don't touch | 0.70% | ~1,542 |
 | Thieves' Guild Accreditation | 0.70% | ~1,542 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.60% | ~1,321 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.60% | ~1,322 |
 | Dead for good | 0.50% | ~1,101 |
 | Lust and Debauchery | 0.50% | ~1,101 |
 | Material Girl | 0.50% | ~1,101 |
@@ -48,11 +48,11 @@ Number of Ratings: 118  (23.09.2022)
 | An old poacher makes the best gamekeeper | 0.30% | ~661 |
 | We come in peace | 0.30% | ~661 |
 | Lëgal Legend | 0.30% | ~661 |
-| Holistic Adventuring Party | 0.20% | ~440 |
-| Scholar of the Lands of Fangh | 0.20% | ~440 |
-| I'd rather... Just... Sing! | 0.20% | ~440 |
-| Law and Order | 0.20% | ~440 |
-| It's been a hard day's night | 0.20% | ~440 |
+| Holistic Adventuring Party | 0.20% | ~441 |
+| Scholar of the Lands of Fangh | 0.20% | ~441 |
+| I'd rather... Just... Sing! | 0.20% | ~441 |
+| Law and Order | 0.20% | ~441 |
+| It's been a hard day's night | 0.20% | ~441 |
 | Cursed die | 0.10% | ~220 |
 | Friendly fire | 0.10% | ~220 |
 | The number of the counting shalt be 7 | 0.10% | ~220 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~220 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,237 (Ranked 57)  
+Progressed: 220,251 (Ranked 57)  
 Completed: 2 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 2 (0.00%) (Ranked 271)
 | 2023-08-30 | 219,453 | 2 |
 | 2023-08-31 | 219,794 | 2 |
 | 2023-09-01 | 220,165 | 2 |
-| 2023-09-02 | 220,237 | 2 |
+| 2023-09-02 | 220,251 | 2 |
 ## Awards
 Max (Character Customization): 185  (Ranked 279)  
 Sum: 234 (Ranked 360)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 515,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 147,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -255,9 +255,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1987,
+  "EOS_Progressed": 1988,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -2255,6 +2255,11 @@
       "Time": "2023-09-01T08:03:30.9090641+00:00",
       "NumProgressed": 1987,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-02T07:03:52.9654215+00:00",
+      "NumProgressed": 1988,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 57,
@@ -2274,7 +2279,7 @@
       "Name": "Jailbreak",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1311
+      "UsersEstimate": 1312
     },
     {
       "ID": "ACHV_03",
@@ -2338,7 +2343,7 @@
       "Name": "Corrupted Beauty",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "ACHV_11",
@@ -2378,7 +2383,7 @@
       "Name": "Hello Darkness My Old Friend",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ACHV_16",
@@ -2418,7 +2423,7 @@
       "Name": "Marked For Success",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "ACHV_21",
@@ -2434,7 +2439,7 @@
       "Name": "Offensive Defense",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "ACHV_23",
@@ -2498,7 +2503,7 @@
       "Name": "Powered Up",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "ACHV_31",
@@ -2530,15 +2535,15 @@
       "Name": "Shocking",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "ACHV_35",
       "SetID": "8p5mlmc",
       "Name": "Sleeping With The Fishes",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 695
+      "UsersEstimate": 716
     },
     {
       "ID": "ACHV_36",
@@ -2570,7 +2575,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1530
+      "UsersEstimate": 1531
     },
     {
       "ID": "ACHV_40",
@@ -2626,7 +2631,7 @@
       "Name": "Unforeseeable Consequences",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "ACHV_47",
@@ -2634,7 +2639,7 @@
       "Name": "Geronimo!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ACHV_48",
@@ -2666,7 +2671,7 @@
       "Name": "Homewrecker",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ACHV_52",
@@ -2698,7 +2703,7 @@
       "Name": "Plank of Wood",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ACHV_56",
@@ -2721,7 +2726,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1987,
+      "Progressed": 1988,
       "Completed": 11
     }
   ],
@@ -2729,8 +2734,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-08-11T22:58:17.9643661+00:00",
-  "LastChanged_Achievements": "2023-09-02T06:03:20.5320307+00:00",
-  "LastUpdate_AppInfo": "2023-08-26T06:57:10.7266559+00:00",
-  "LastUpdate_Ratings": "2023-09-02T05:59:57.4314427+00:00",
-  "LastUpdate_Achievements": "2023-09-02T06:03:20.5320843+00:00"
+  "LastChanged_Achievements": "2023-09-02T07:03:52.965421+00:00",
+  "LastUpdate_AppInfo": "2023-09-02T06:57:16.3736802+00:00",
+  "LastUpdate_Ratings": "2023-09-02T07:00:22.39097+00:00",
+  "LastUpdate_Achievements": "2023-09-02T07:03:52.9654934+00:00"
 }

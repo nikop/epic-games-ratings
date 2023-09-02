@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 482,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -151,9 +151,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1382,
+  "EOS_Progressed": 1383,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -1421,6 +1421,11 @@
       "Time": "2023-08-30T11:03:50.6991878+00:00",
       "NumProgressed": 1382,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-02T07:04:27.6251242+00:00",
+      "NumProgressed": 1383,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 56,
@@ -1448,7 +1453,7 @@
       "Name": "Me and My Familiar",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -1496,7 +1501,7 @@
       "Name": "Gotta Ca... Must Collect All of Them",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "achievement_endTurnInGrayplane5Times",
@@ -1520,7 +1525,7 @@
       "Name": "Completing the Look",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "achievement_kill1000Cultists",
@@ -1592,7 +1597,7 @@
       "Name": "This Too Shall Pass",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "achievement_loversVengeance10Kills",
@@ -1672,7 +1677,7 @@
       "Name": "War Endured",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "completedStory_legacy",
@@ -1736,7 +1741,7 @@
       "Name": "Core Failure",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "enduringWar_destroyEnduring",
@@ -1879,15 +1884,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1382,
+      "Progressed": 1383,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-07-08T20:01:41.3411794+00:00",
-  "LastChanged_Achievements": "2023-09-02T06:03:58.8897881+00:00",
+  "LastChanged_Achievements": "2023-09-02T07:04:27.6251233+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:58:06.5781237+00:00",
-  "LastUpdate_Ratings": "2023-09-02T05:59:47.2190404+00:00",
-  "LastUpdate_Achievements": "2023-09-02T06:03:58.8898332+00:00"
+  "LastUpdate_Ratings": "2023-09-02T07:00:12.8308173+00:00",
+  "LastUpdate_Achievements": "2023-09-02T07:04:27.6251847+00:00"
 }

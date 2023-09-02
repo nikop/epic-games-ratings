@@ -6,25 +6,25 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 1.00% | ~8,383 |
-| It wakes | 1.00% | ~8,383 |
-| Skillful | 1.00% | ~8,383 |
-| MU/TH/UR Dearest | 1.00% | ~8,383 |
-| Not half bad | 0.90% | ~7,545 |
-| Make Some Noise | 0.90% | ~7,545 |
+| Zealous | 1.00% | ~8,384 |
+| It wakes | 1.00% | ~8,384 |
+| Skillful | 1.00% | ~8,384 |
+| MU/TH/UR Dearest | 1.00% | ~8,384 |
+| Not half bad | 0.90% | ~7,546 |
+| Make Some Noise | 0.90% | ~7,546 |
 | Apt Survivor | 0.80% | ~6,707 |
 | Survival Treasures | 0.80% | ~6,707 |
-| Handyman | 0.70% | ~5,868 |
-| Sorted | 0.70% | ~5,868 |
-| The Grand Sacrifice | 0.60% | ~5,030 |
-| No one left behind | 0.60% | ~5,030 |
-| Medic | 0.60% | ~5,030 |
-| Nerves of steel | 0.60% | ~5,030 |
-| Bloody Millionaire | 0.60% | ~5,030 |
-| I | 0.60% | ~5,030 |
-| Healthy Obsession | 0.60% | ~5,030 |
-| Resurgence | 0.60% | ~5,030 |
-| Terror of LV-426 | 0.60% | ~5,030 |
+| Handyman | 0.70% | ~5,869 |
+| Sorted | 0.70% | ~5,869 |
+| The Grand Sacrifice | 0.60% | ~5,031 |
+| No one left behind | 0.60% | ~5,031 |
+| Medic | 0.60% | ~5,031 |
+| Nerves of steel | 0.60% | ~5,031 |
+| Bloody Millionaire | 0.60% | ~5,031 |
+| I | 0.60% | ~5,031 |
+| Healthy Obsession | 0.60% | ~5,031 |
+| Resurgence | 0.60% | ~5,031 |
+| Terror of LV-426 | 0.60% | ~5,031 |
 | Agonizing Escape | 0.50% | ~4,192 |
 | Backdoor Escape | 0.50% | ~4,192 |
 | I've got your back | 0.50% | ~4,192 |
@@ -33,12 +33,12 @@ Number of Ratings: 70,340  (23.09.2022)
 | Engineer | 0.50% | ~4,192 |
 | Preemptive Strike | 0.50% | ~4,192 |
 | Humanitarian | 0.50% | ~4,192 |
-| Apt Killer | 0.40% | ~3,353 |
-| Risk it all | 0.40% | ~3,353 |
-| II | 0.40% | ~3,353 |
-| Wounded Healer | 0.40% | ~3,353 |
-| Close Shave | 0.40% | ~3,353 |
-| Second Act | 0.40% | ~3,353 |
+| Apt Killer | 0.40% | ~3,354 |
+| Risk it all | 0.40% | ~3,354 |
+| II | 0.40% | ~3,354 |
+| Wounded Healer | 0.40% | ~3,354 |
+| Close Shave | 0.40% | ~3,354 |
+| Second Act | 0.40% | ~3,354 |
 | Blood on your hands | 0.30% | ~2,515 |
 | Vulture | 0.30% | ~2,515 |
 | III | 0.30% | ~2,515 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~838 |
 | Adept Ripley | 0.10% | ~838 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 838,337 (Ranked 15)  
+Progressed: 838,424 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -371,17 +371,17 @@ Completed: 48 (0.01%) (Ranked 258)
 | 2023-08-30 | 831,117 | 48 |
 | 2023-08-31 | 834,142 | 48 |
 | 2023-09-01 | 837,438 | 48 |
-| 2023-09-02 | 838,337 | 48 |
+| 2023-09-02 | 838,424 | 48 |
 ## Awards
 Max (Diverse Characters): 31,778  (Ranked 15)  
-Sum: 249,248 (Ranked 11)  
+Sum: 249,289 (Ranked 11)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 31,778 |
 | This game is Highly Recommended | 28,459 |
 | This game has Competitive Players | 28,413 |
-| This game has Amazing Characters | 28,162 |
+| This game has Amazing Characters | 28,203 |
 | This game is Extremely Fun | 27,953 |
 | This game has Quickly Understood Controls | 27,641 |
 | This game has Challenging Combat | 27,321 |
@@ -613,4 +613,4 @@ Diff (max vs sum): 4
 | 2023-08-30 | 4.52 | - | 31,677 | 248,552 |
 | 2023-08-31 | 4.52 | - | 31,726 | 248,913 |
 | 2023-09-01 | 4.52 | - | 31,778 | 249,224 |
-| 2023-09-02 | 4.52 | - | 31,778 | 249,248 |
+| 2023-09-02 | 4.52 | - | 31,778 | 249,289 |

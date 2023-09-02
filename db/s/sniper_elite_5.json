@@ -6,8 +6,8 @@
   "Ranking_Popularity": 515,
   "Ranking_PopularitySum": 515,
   "Ranking_EOS_Progress": 153,
-  "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_Completed": 183,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -500,9 +500,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3561,
+  "EOS_Progressed": 3562,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -6385,6 +6385,11 @@
       "Time": "2023-09-02T04:06:06.2457603+00:00",
       "NumProgressed": 3561,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-02T07:06:36.8993592+00:00",
+      "NumProgressed": 3562,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 71,
@@ -6460,7 +6465,7 @@
       "Name": "Organ Grinder",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -6476,7 +6481,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1638
+      "UsersEstimate": 1639
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -6516,7 +6521,7 @@
       "Name": "Gunslinger",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -6556,7 +6561,7 @@
       "Name": "Precision Is Key",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -6564,7 +6569,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1424
+      "UsersEstimate": 1425
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -6588,7 +6593,7 @@
       "Name": "My Little Friend",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -6636,7 +6641,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -6732,7 +6737,7 @@
       "Name": "Change the Channel",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1069
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -6884,7 +6889,7 @@
       "Name": "Last Resort",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
@@ -6892,7 +6897,7 @@
       "Name": "Siegebreaker",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "REWARD_DLC02_02_GHOST_OF_FALAISE",
@@ -6900,7 +6905,7 @@
       "Name": "Ghost of Falaise",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "REWARD_DLC02_02_OPERATION_OVERLORD",
@@ -6963,13 +6968,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3512,
+      "Progressed": 3513,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3561,
+      "Progressed": 3562,
       "Completed": 10
     }
   ],
@@ -6977,8 +6982,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-01T10:01:39.1533108+00:00",
-  "LastChanged_Achievements": "2023-09-02T06:06:10.7681455+00:00",
-  "LastUpdate_AppInfo": "2023-08-26T06:57:12.9306959+00:00",
-  "LastUpdate_Ratings": "2023-09-02T06:00:01.5971013+00:00",
-  "LastUpdate_Achievements": "2023-09-02T06:06:10.7682453+00:00"
+  "LastChanged_Achievements": "2023-09-02T07:06:36.8993581+00:00",
+  "LastUpdate_AppInfo": "2023-09-02T06:57:18.4314048+00:00",
+  "LastUpdate_Ratings": "2023-09-02T07:00:26.3041226+00:00",
+  "LastUpdate_Achievements": "2023-09-02T07:06:36.8994763+00:00"
 }

@@ -6,57 +6,57 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~108,425 |
-| Don't Make Me Turn This Coach Around | 70.00% | ~81,610 |
-| A Clear Conscience | 69.00% | ~80,444 |
-| Unleash Hell | 68.00% | ~79,278 |
-| Unfulfilled Desires | 68.00% | ~79,278 |
-| Funny Guy | 67.00% | ~78,113 |
-| Unshackled | 67.00% | ~78,113 |
-| Long Live the King | 66.00% | ~76,947 |
-| Resurrection | 62.00% | ~72,283 |
-| Wyrdly Reconstructed | 62.00% | ~72,283 |
-| Boxcar Kid | 60.00% | ~69,952 |
-| Rush Hour | 60.00% | ~69,952 |
-| To Grandmother's House | 60.00% | ~69,952 |
-| Serenity Now! | 53.00% | ~61,791 |
-| Hope Rekindled | 50.00% | ~58,293 |
-| Ramble On | 48.00% | ~55,961 |
-| Nope | 48.00% | ~55,961 |
-| This Looks Familiar | 38.00% | ~44,303 |
-| Now Stay Dead | 37.00% | ~43,137 |
-| Harvest Festival | 36.00% | ~41,971 |
-| Hot Air | 36.00% | ~41,971 |
-| Merry Time | 35.00% | ~40,805 |
-| Creep and Sleep | 33.00% | ~38,473 |
+| A Place to Lay Your Head | 93.00% | ~108,428 |
+| Don't Make Me Turn This Coach Around | 70.00% | ~81,612 |
+| A Clear Conscience | 69.00% | ~80,446 |
+| Unleash Hell | 68.00% | ~79,281 |
+| Unfulfilled Desires | 68.00% | ~79,281 |
+| Funny Guy | 67.00% | ~78,115 |
+| Unshackled | 67.00% | ~78,115 |
+| Long Live the King | 66.00% | ~76,949 |
+| Resurrection | 62.00% | ~72,285 |
+| Wyrdly Reconstructed | 62.00% | ~72,285 |
+| Boxcar Kid | 60.00% | ~69,953 |
+| Rush Hour | 60.00% | ~69,953 |
+| To Grandmother's House | 60.00% | ~69,953 |
+| Serenity Now! | 53.00% | ~61,792 |
+| Hope Rekindled | 50.00% | ~58,294 |
+| Ramble On | 48.00% | ~55,963 |
+| Nope | 48.00% | ~55,963 |
+| This Looks Familiar | 38.00% | ~44,304 |
+| Now Stay Dead | 37.00% | ~43,138 |
+| Harvest Festival | 36.00% | ~41,972 |
+| Hot Air | 36.00% | ~41,972 |
+| Merry Time | 35.00% | ~40,806 |
+| Creep and Sleep | 33.00% | ~38,474 |
 | Overdue Notice | 32.00% | ~37,308 |
-| Whale | 31.00% | ~36,142 |
-| Banishment | 30.00% | ~34,976 |
-| FNG | 29.00% | ~33,810 |
+| Whale | 31.00% | ~36,143 |
+| Banishment | 30.00% | ~34,977 |
+| FNG | 29.00% | ~33,811 |
 | Predator | 24.00% | ~27,981 |
 | Reverse Banditry | 24.00% | ~27,981 |
 | Autodidact | 24.00% | ~27,981 |
-| Meat and Greet | 22.00% | ~25,649 |
-| Spelunker | 21.00% | ~24,483 |
-| Eyes Up | 21.00% | ~24,483 |
-| Road Trip | 21.00% | ~24,483 |
-| It Rings a Bell | 19.00% | ~22,151 |
-| Escape from the Black Hole | 18.00% | ~20,985 |
+| Meat and Greet | 22.00% | ~25,650 |
+| Spelunker | 21.00% | ~24,484 |
+| Eyes Up | 21.00% | ~24,484 |
+| Road Trip | 21.00% | ~24,484 |
+| It Rings a Bell | 19.00% | ~22,152 |
+| Escape from the Black Hole | 18.00% | ~20,986 |
 | It Happens | 17.00% | ~19,820 |
 | This Belongs in a Museum | 16.00% | ~18,654 |
 | Dissector | 16.00% | ~18,654 |
 | Handled | 15.00% | ~17,488 |
 | Catch and Decease | 14.00% | ~16,322 |
-| Not Today! | 13.00% | ~15,156 |
-| Deprogramming | 13.00% | ~15,156 |
-| Shrine of Reflection | 11.00% | ~12,824 |
-| When You Want Something Done Right | 11.00% | ~12,824 |
+| Not Today! | 13.00% | ~15,157 |
+| Deprogramming | 13.00% | ~15,157 |
+| Shrine of Reflection | 11.00% | ~12,825 |
+| When You Want Something Done Right | 11.00% | ~12,825 |
 | Body of Work | 9.00% | ~10,493 |
 | Utopia | 8.00% | ~9,327 |
 | Hat Trick | 7.00% | ~8,161 |
 | Ichthyophobic | 5.00% | ~5,829 |
 | No More Mouths to Feed | 5.00% | ~5,829 |
-| The World As It Was | 4.00% | ~4,663 |
+| The World As It Was | 4.00% | ~4,664 |
 | Triage | 3.00% | ~3,498 |
 | A Life Well Lived | 2.00% | ~2,332 |
 | Clearing the Ledger | 2.00% | ~2,332 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Gravestone Left Unturned | 0.10% | ~117 |
 | 20,000 Leagues Above the Sea | 0.10% | ~117 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 116,586 (Ranked 71)  
+Progressed: 116,589 (Ranked 71)  
 Completed: 1 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 1 (0.00%) (Ranked 271)
 | 2023-08-30 | 116,409 | 1 |
 | 2023-08-31 | 116,485 | 1 |
 | 2023-09-01 | 116,565 | 1 |
-| 2023-09-02 | 116,586 | 1 |
+| 2023-09-02 | 116,589 | 1 |
 ## Awards
 Max (Character Customization): 7,360  (Ranked 48)  
 Sum: 19,164 (Ranked 57)  
