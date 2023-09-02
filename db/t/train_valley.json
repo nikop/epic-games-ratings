@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 159,
   "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -1051,9 +1051,9 @@
       "ID": "14_woodcutter",
       "SetID": "chb1m60",
       "Name": "Woodcutter",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 45
+      "UsersEstimate": 49
     },
     {
       "ID": "15_bbq",
@@ -1267,8 +1267,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-08-26T23:01:29.1007728+00:00",
-  "LastChanged_Achievements": "2023-09-02T11:09:45.647392+00:00",
+  "LastChanged_Achievements": "2023-09-02T12:08:58.5495013+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:56:55.1924255+00:00",
-  "LastUpdate_Ratings": "2023-09-02T10:58:30.3147978+00:00",
-  "LastUpdate_Achievements": "2023-09-02T11:09:45.64742+00:00"
+  "LastUpdate_Ratings": "2023-09-02T11:57:25.8258244+00:00",
+  "LastUpdate_Achievements": "2023-09-02T12:08:58.5496025+00:00"
 }

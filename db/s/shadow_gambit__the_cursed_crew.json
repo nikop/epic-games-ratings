@@ -4,7 +4,7 @@
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 95,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 576,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.91,
   "EosHistory": [
@@ -1362,9 +1362,9 @@
       "ID": "_03_FinishAct1",
       "SetID": "8a1io5d",
       "Name": "The Adventure Begins",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 317
+      "UsersEstimate": 323
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1418,9 +1418,9 @@
       "ID": "_10_Completion_30",
       "SetID": "8a1io5d",
       "Name": "Buccaneer",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 109
+      "UsersEstimate": 115
     },
     {
       "ID": "_11_Completion_40",
@@ -1561,8 +1561,8 @@
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-09-02T11:07:58.2762243+00:00",
+  "LastChanged_Achievements": "2023-09-02T12:07:04.0596388+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:46.0913582+00:00",
-  "LastUpdate_Ratings": "2023-09-02T10:59:27.6847991+00:00",
-  "LastUpdate_Achievements": "2023-09-02T11:07:58.2762464+00:00"
+  "LastUpdate_Ratings": "2023-09-02T11:58:26.8010296+00:00",
+  "LastUpdate_Achievements": "2023-09-02T12:07:04.0596719+00:00"
 }

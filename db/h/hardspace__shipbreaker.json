@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 515,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -1704,9 +1704,9 @@
       "ID": "ACH_CRITICAL_THINKER",
       "SetID": "108h92c",
       "Name": "Critical Thinker",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 310
+      "UsersEstimate": 319
     },
     {
       "ID": "ACH_DISAGREE_AND_COMMIT",
@@ -1833,8 +1833,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-27T22:57:40.9300302+00:00",
-  "LastChanged_Achievements": "2023-09-02T11:08:16.4420865+00:00",
+  "LastChanged_Achievements": "2023-09-02T12:07:23.4163349+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:28.3770261+00:00",
-  "LastUpdate_Ratings": "2023-09-02T10:58:41.2381357+00:00",
-  "LastUpdate_Achievements": "2023-09-02T11:08:16.4421057+00:00"
+  "LastUpdate_Ratings": "2023-09-02T11:57:36.8437908+00:00",
+  "LastUpdate_Achievements": "2023-09-02T12:07:23.4163792+00:00"
 }

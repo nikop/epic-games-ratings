@@ -6,23 +6,23 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 38.00% | ~23,619 |
-| Let There Be Light | 31.00% | ~19,268 |
-| Float Like a Butterfly | 30.00% | ~18,647 |
-| Nordic Walking | 24.00% | ~14,917 |
-| Bright Falls' Finest | 24.00% | ~14,917 |
+| Follow the Light | 38.00% | ~23,620 |
+| Let There Be Light | 31.00% | ~19,269 |
+| Float Like a Butterfly | 30.00% | ~18,648 |
+| Nordic Walking | 24.00% | ~14,918 |
+| Bright Falls' Finest | 24.00% | ~14,918 |
 | Under a Thin Layer of Skin | 21.00% | ~13,053 |
 | Park Ranger | 17.00% | ~10,567 |
 | Paging Mr. Wake | 17.00% | ~10,567 |
 | Back! Back, I Say! | 16.00% | ~9,945 |
 | Finders Keepers | 16.00% | ~9,945 |
-| Sound and Fury | 15.00% | ~9,323 |
-| Damn Good Cup of Coffee | 15.00% | ~9,323 |
+| Sound and Fury | 15.00% | ~9,324 |
+| Damn Good Cup of Coffee | 15.00% | ~9,324 |
 | Wheels Within Wheels | 14.00% | ~8,702 |
 | They're Heeeeeere! | 14.00% | ~8,702 |
 | Missed by a Mile | 14.00% | ~8,702 |
-| The Six-Gun Scribe | 13.00% | ~8,080 |
-| Collateral Carnage | 13.00% | ~8,080 |
+| The Six-Gun Scribe | 13.00% | ~8,081 |
+| Collateral Carnage | 13.00% | ~8,081 |
 | Heavy Metal | 12.00% | ~7,459 |
 | Iron Horse | 12.00% | ~7,459 |
 | Perchance to Dream | 12.00% | ~7,459 |
@@ -35,12 +35,12 @@ Number of Ratings: 524  (23.09.2022)
 | Energized! | 10.00% | ~6,216 |
 | What Light Through Yonder Window | 9.00% | ~5,594 |
 | Right of Way | 9.00% | ~5,594 |
-| Tornado Wrangler | 8.00% | ~4,972 |
+| Tornado Wrangler | 8.00% | ~4,973 |
 | A Friend in Need | 8.00% | ~2,050 |
 | Departure | 7.00% | ~4,351 |
-| Drink 'Em Both Up | 6.00% | ~3,729 |
-| Hardboiled Writer | 6.00% | ~3,729 |
-| A Friend Indeed | 6.00% | ~1,537 |
+| Drink 'Em Both Up | 6.00% | ~3,730 |
+| Hardboiled Writer | 6.00% | ~3,730 |
+| A Friend Indeed | 6.00% | ~1,538 |
 | Children of the Elder God | 5.00% | ~3,108 |
 | Ding! | 5.00% | ~1,281 |
 | Boob Tube | 4.00% | ~2,486 |
@@ -53,15 +53,15 @@ Number of Ratings: 524  (23.09.2022)
 | Taken Season | 2.00% | ~1,243 |
 | An Idyllic Small Town | 2.00% | ~1,243 |
 | Couch Potato | 2.00% | ~1,243 |
-| Iron Will | 2.00% | ~512 |
+| Iron Will | 2.00% | ~513 |
 | Go Gentle Into That Good Light | 1.00% | ~256 |
 | Words Will Never Harm You | 0.70% | ~179 |
 | Cardboard Companions | 0.60% | ~154 |
 | Fast and Furious | 0.50% | ~128 |
 | Creative Space | 0.50% | ~128 |
-| Run-On Sentence | 0.40% | ~102 |
-| License Revoked | 0.40% | ~102 |
-| Whirlwind | 0.40% | ~102 |
+| Run-On Sentence | 0.40% | ~103 |
+| License Revoked | 0.40% | ~103 |
+| Whirlwind | 0.40% | ~103 |
 | Alan, Wake Up | 0.30% | ~186 |
 | Meet the Deadline | 0.30% | ~186 |
 | Picking Up After Yourself | 0.30% | ~186 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~62 |
 | No Punctuation | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,156 (Ranked 87)  
+Progressed: 62,159 (Ranked 87)  
 Completed: 65 (0.10%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 65 (0.10%) (Ranked 218)
 | 2023-08-30 | 62,006 | 65 |
 | 2023-08-31 | 62,064 | 65 |
 | 2023-09-01 | 62,124 | 65 |
-| 2023-09-02 | 62,156 | 65 |
+| 2023-09-02 | 62,159 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

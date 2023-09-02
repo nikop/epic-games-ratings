@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 287,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-09-29T14:00:00+00:00",
     "PcReleaseDate": "2022-09-29T14:00:00+00:00",
@@ -510,9 +510,9 @@
       "Count": 46
     }
   ],
-  "EOS_Progressed": 19564,
+  "EOS_Progressed": 19565,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -5410,6 +5410,11 @@
       "Time": "2023-09-02T07:06:30.734082+00:00",
       "NumProgressed": 19564,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-09-02T12:07:52.919562+00:00",
+      "NumProgressed": 19565,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 37,
@@ -5453,7 +5458,7 @@
       "Name": "Builder",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 16238
+      "UsersEstimate": 16239
     },
     {
       "ID": "ach.060.goingdistance",
@@ -5477,7 +5482,7 @@
       "Name": "Eraser",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 13695
+      "UsersEstimate": 13696
     },
     {
       "ID": "ach.090.perfectionist",
@@ -5485,7 +5490,7 @@
       "Name": "Perfectionist",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 4695
+      "UsersEstimate": 4696
     },
     {
       "ID": "ach.100.indecisive",
@@ -5501,7 +5506,7 @@
       "Name": "Multiverse",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1369
+      "UsersEstimate": 1370
     },
     {
       "ID": "ach.120.simplification",
@@ -5525,7 +5530,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 98,
       "XP": 60,
-      "UsersEstimate": 19173
+      "UsersEstimate": 19174
     },
     {
       "ID": "ach.150.pocket",
@@ -5565,7 +5570,7 @@
       "Name": "The scenic route",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 5282
+      "UsersEstimate": 5283
     },
     {
       "ID": "ach.200.light",
@@ -5573,7 +5578,7 @@
       "Name": "Let There be Light",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 6260
+      "UsersEstimate": 6261
     },
     {
       "ID": "ach.210.baron",
@@ -5629,7 +5634,7 @@
       "Name": "The poor groundwater levels",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1369
+      "UsersEstimate": 1370
     },
     {
       "ID": "ach.280.metropolis",
@@ -5637,7 +5642,7 @@
       "Name": "Metropolis",
       "Percentage": 7,
       "XP": 110,
-      "UsersEstimate": 1369
+      "UsersEstimate": 1370
     },
     {
       "ID": "ach.290.hightech",
@@ -5677,7 +5682,7 @@
       "Name": "Money like Water",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 17803
+      "UsersEstimate": 17804
     },
     {
       "ID": "ach.340.steel",
@@ -5716,7 +5721,7 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 19564,
+      "Progressed": 19565,
       "Completed": 37
     }
   ],
@@ -5724,8 +5729,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-08-31T05:58:24.7419459+00:00",
-  "LastChanged_Achievements": "2023-09-02T11:08:44.6356785+00:00",
+  "LastChanged_Achievements": "2023-09-02T12:07:52.9195611+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:16.7999726+00:00",
-  "LastUpdate_Ratings": "2023-09-02T11:01:02.2272794+00:00",
-  "LastUpdate_Achievements": "2023-09-02T11:08:44.6357223+00:00"
+  "LastUpdate_Ratings": "2023-09-02T12:00:07.1816372+00:00",
+  "LastUpdate_Achievements": "2023-09-02T12:07:52.9196708+00:00"
 }

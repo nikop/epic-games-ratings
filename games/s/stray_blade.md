@@ -24,10 +24,10 @@
 | Bringing guns to a sword fight | 7.00% | ~4 |
 | Through Dangers Untold | 7.00% | ~4 |
 | Witch | 7.00% | ~4 |
+| Mirror, Mirror on the Wall | 5.00% | ~3 |
 | Defeat Tezuth | 5.00% | ~3 |
 | Finally! | 5.00% | ~3 |
 | The A-Team | 5.00% | ~3 |
-| Mirror, Mirror on the Wall | 4.00% | ~2 |
 | Sponsor | 4.00% | ~2 |
 | Defeat Ingla | 4.00% | ~2 |
 | Ancient Powers | 4.00% | ~2 |

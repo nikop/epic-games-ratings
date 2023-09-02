@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 473,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-09-01T10:00:00+00:00",
     "PcReleaseDate": "2021-03-04T18:00:00+00:00",
@@ -248,9 +248,9 @@
       "ID": "SmallAirfield",
       "SetID": "d11cl5p",
       "Name": "Small airfield",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "TakeMeToYourHeaven",
@@ -342,8 +342,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T10:02:52.8790419+00:00",
-  "LastChanged_Achievements": "2023-09-02T11:06:43.311885+00:00",
+  "LastChanged_Achievements": "2023-09-02T12:05:45.6807241+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:06.4077778+00:00",
-  "LastUpdate_Ratings": "2023-09-02T11:02:35.0649827+00:00",
-  "LastUpdate_Achievements": "2023-09-02T11:06:43.3119043+00:00"
+  "LastUpdate_Ratings": "2023-09-02T12:01:46.9995653+00:00",
+  "LastUpdate_Achievements": "2023-09-02T12:05:45.6807503+00:00"
 }

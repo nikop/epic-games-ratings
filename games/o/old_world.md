@@ -164,6 +164,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bronze Victory (Carthage 1) | 0.20% | ~27 |
 | Silver Victory (Carthage 1) | 0.20% | ~27 |
 | Carthage - Riches and Influence | 0.20% | ~27 |
+| Cleopatra's Love | 0.20% | ~27 |
 | Great Difficulty | 0.20% | ~27 |
 | Magnificent Difficulty | 0.20% | ~27 |
 | Event Level High | 0.20% | ~27 |
@@ -204,7 +205,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Gold Victory (Carthage 4) | 0.10% | ~14 |
 | Silver Victory (Carthage 4) | 0.10% | ~14 |
 | Carthage Campaign | 0.10% | ~14 |
-| Cleopatra's Love | 0.10% | ~14 |
 | Avenger | 0.10% | ~14 |
 | Destroyer | 0.10% | ~14 |
 | Holy | 0.10% | ~14 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,743 (Ranked 120)  
+Progressed: 13,744 (Ranked 120)  
 Completed: 5 (0.04%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -438,7 +438,7 @@ Completed: 5 (0.04%) (Ranked 240)
 | 2023-08-30 | 13,689 | 5 |
 | 2023-08-31 | 13,711 | 5 |
 | 2023-09-01 | 13,732 | 5 |
-| 2023-09-02 | 13,743 | 5 |
+| 2023-09-02 | 13,744 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 265)  
 Sum: 1,800 (Ranked 207)  

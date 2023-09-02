@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A New Journey | 72.00% | ~415 |
-| The Adventure Begins | 55.00% | ~317 |
+| The Adventure Begins | 56.00% | ~323 |
 | Swabbie | 42.00% | ~242 |
 | With Great Power… | 40.00% | ~230 |
 | This Belongs in a Museum | 35.00% | ~202 |
@@ -14,8 +14,8 @@
 | Somewhere Deep in the Lost Caribbean | 25.00% | ~144 |
 | Mirror Mirror on the Wall | 23.00% | ~132 |
 | Pirates Assemble! | 21.00% | ~121 |
+| Buccaneer | 20.00% | ~115 |
 | Fishy Fish | 20.00% | ~115 |
-| Buccaneer | 19.00% | ~109 |
 | Seadog | 15.00% | ~86 |
 | Persistent Parasite | 13.00% | ~75 |
 | All Good Things | 12.00% | ~69 |

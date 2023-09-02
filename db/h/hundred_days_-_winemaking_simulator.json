@@ -884,10 +884,16 @@
       "Rating": 4.35,
       "NumberOfAwards": 1457,
       "NumberOfAwardsMax": 203
+    },
+    {
+      "Time": "2023-09-02T11:57:49.7912396+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 1458,
+      "NumberOfAwardsMax": 203
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1457,
+  "NumberOfAwards": 1458,
   "NumberOfAwardsMax": 203,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -919,7 +925,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 202
+      "Count": 203
     },
     {
       "Text": "This game is Relaxing",
@@ -952,11 +958,11 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 743,
+  "EOS_Progressed": 755,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 738,
+  "EOS_NewPlayers": 750,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 0.27,
+  "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
     {
       "Time": "2023-08-30T11:07:13.7661076+00:00",
@@ -1322,6 +1328,11 @@
       "Time": "2023-09-02T11:09:10.0713384+00:00",
       "NumProgressed": 743,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-02T12:08:19.8998587+00:00",
+      "NumProgressed": 755,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -1334,7 +1345,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "a_10",
@@ -1342,7 +1353,7 @@
       "Name": "What is that? A castle?",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "a_11",
@@ -1374,7 +1385,7 @@
       "Name": "Millionaire",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "a_18",
@@ -1382,15 +1393,15 @@
       "Name": "Bye Bye",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 223
+      "UsersEstimate": 226
     },
     {
       "ID": "a_19",
       "SetID": "daiie3o",
       "Name": "Bonjour!",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 45
     },
     {
       "ID": "a_2",
@@ -1398,7 +1409,7 @@
       "Name": "Ostinata",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "a_20",
@@ -1406,7 +1417,7 @@
       "Name": "The Assistant",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "a_21",
@@ -1414,7 +1425,7 @@
       "Name": "The Blue Marl",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "a_22",
@@ -1444,9 +1455,9 @@
       "ID": "a_26",
       "SetID": "daiie3o",
       "Name": "Exotic",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 23
     },
     {
       "ID": "a_27",
@@ -1470,7 +1481,7 @@
       "Name": "Surprise of Langhe",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "a_30",
@@ -1518,7 +1529,7 @@
       "Name": "Welcome to the club",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "a_36",
@@ -1534,7 +1545,7 @@
       "Name": "King of Langhe",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "a_5",
@@ -1566,7 +1577,7 @@
       "Name": "Famous",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "a_9",
@@ -1581,16 +1592,16 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 743,
+      "Progressed": 755,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:20:15.0097479+00:00",
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
-  "LastChanged": "2023-08-28T14:01:21.7581903+00:00",
-  "LastChanged_Achievements": "2023-09-02T11:09:10.071338+00:00",
+  "LastChanged": "2023-09-02T11:57:49.7912394+00:00",
+  "LastChanged_Achievements": "2023-09-02T12:08:19.8998579+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:09.2681959+00:00",
-  "LastUpdate_Ratings": "2023-09-02T10:58:53.2093536+00:00",
-  "LastUpdate_Achievements": "2023-09-02T11:09:10.0713588+00:00"
+  "LastUpdate_Ratings": "2023-09-02T11:57:49.79124+00:00",
+  "LastUpdate_Achievements": "2023-09-02T12:08:19.8999335+00:00"
 }

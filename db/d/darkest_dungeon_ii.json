@@ -3,12 +3,12 @@
   "Name": "Darkest Dungeon II",
   "ProductSlug": "darkest-dungeon-2",
   "Ranking_Rating": 240,
-  "Ranking_Popularity": 48,
+  "Ranking_Popularity": 49,
   "Ranking_PopularitySum": 57,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -7147,10 +7147,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 19164,
       "NumberOfAwardsMax": 7360
+    },
+    {
+      "Time": "2023-09-02T12:00:44.5155004+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 19168,
+      "NumberOfAwardsMax": 7360
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 19164,
+  "NumberOfAwards": 19168,
   "NumberOfAwardsMax": 7360,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7200,7 +7206,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1524
+      "Count": 1528
     },
     {
       "Text": "This game is Relaxing",
@@ -7229,7 +7235,7 @@
   ],
   "EOS_Progressed": 116604,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 655,
+  "EOS_NewPlayers": 652,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21173,9 +21179,9 @@
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-09-01T22:59:49.5400118+00:00",
-  "LastChanged_Achievements": "2023-09-02T11:08:10.59379+00:00",
+  "LastChanged": "2023-09-02T12:00:44.5155002+00:00",
+  "LastChanged_Achievements": "2023-09-02T12:07:17.1403882+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:35.7630661+00:00",
-  "LastUpdate_Ratings": "2023-09-02T11:01:36.5872051+00:00",
-  "LastUpdate_Achievements": "2023-09-02T11:08:10.5938994+00:00"
+  "LastUpdate_Ratings": "2023-09-02T12:00:44.5155012+00:00",
+  "LastUpdate_Achievements": "2023-09-02T12:07:17.1405544+00:00"
 }

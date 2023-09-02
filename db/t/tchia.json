@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 161,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -218,9 +218,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7421,
+  "EOS_Progressed": 7422,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -6678,6 +6678,11 @@
       "Time": "2023-09-02T01:40:42.1076297+00:00",
       "NumProgressed": 7421,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-09-02T12:03:54.9861739+00:00",
+      "NumProgressed": 7422,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 21,
@@ -6705,7 +6710,7 @@
       "Name": "Audiophile",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "BODY_AND_SOUL",
@@ -6793,7 +6798,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1558
+      "UsersEstimate": 1559
     },
     {
       "ID": "LIBERATOR",
@@ -6856,7 +6861,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7421,
+      "Progressed": 7422,
       "Completed": 32
     }
   ],
@@ -6864,8 +6869,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-08-26T01:39:24.8497831+00:00",
-  "LastChanged_Achievements": "2023-09-02T11:04:46.9904572+00:00",
+  "LastChanged_Achievements": "2023-09-02T12:03:54.9861732+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:14.1887687+00:00",
-  "LastUpdate_Ratings": "2023-09-02T10:58:58.2070954+00:00",
-  "LastUpdate_Achievements": "2023-09-02T11:04:46.9905019+00:00"
+  "LastUpdate_Ratings": "2023-09-02T11:57:55.8815186+00:00",
+  "LastUpdate_Achievements": "2023-09-02T12:03:54.986244+00:00"
 }

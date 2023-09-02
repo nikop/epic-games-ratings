@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 27.00% | ~59,484 |
-| Déjà vu | 3.00% | ~6,609 |
-| Where's that freaking Dwarf? | 3.00% | ~6,609 |
-| Alt+F4 | 3.00% | ~6,609 |
-| A beer, two curses, three companions | 2.00% | ~4,406 |
-| Sock! SOCK! | 2.00% | ~4,406 |
-| GG EZ | 2.00% | ~4,406 |
-| DM intervention | 2.00% | ~4,406 |
-| Speedrun | 2.00% | ~4,406 |
-| Fireproof Wizardess | 2.00% | ~4,406 |
+| Sowwy! | 27.00% | ~59,488 |
+| Déjà vu | 3.00% | ~6,610 |
+| Where's that freaking Dwarf? | 3.00% | ~6,610 |
+| Alt+F4 | 3.00% | ~6,610 |
+| A beer, two curses, three companions | 2.00% | ~4,407 |
+| Sock! SOCK! | 2.00% | ~4,407 |
+| GG EZ | 2.00% | ~4,407 |
+| DM intervention | 2.00% | ~4,407 |
+| Speedrun | 2.00% | ~4,407 |
+| Fireproof Wizardess | 2.00% | ~4,407 |
 | Livin' in a dwarven paradise | 1.00% | ~2,203 |
 | Way of the Wimp | 1.00% | ~2,203 |
 | The plot thickens... At the tavern | 1.00% | ~2,203 |
@@ -29,11 +29,11 @@ Number of Ratings: 118  (23.09.2022)
 | The Dungeon Master | 0.90% | ~1,983 |
 | The Statuette of Gladeulfeurah | 0.90% | ~1,983 |
 | A tale of adventurers not quite like the others... | 0.90% | ~1,983 |
-| Shiny and Crôm | 0.80% | ~1,762 |
-| %#*!$*! | 0.80% | ~1,762 |
-| The beards of change | 0.80% | ~1,762 |
-| The Ranger of Chaos | 0.80% | ~1,762 |
-| I am the night | 0.80% | ~1,762 |
+| Shiny and Crôm | 0.80% | ~1,763 |
+| %#*!$*! | 0.80% | ~1,763 |
+| The beards of change | 0.80% | ~1,763 |
+| The Ranger of Chaos | 0.80% | ~1,763 |
+| I am the night | 0.80% | ~1,763 |
 | Res Judicata | 0.70% | ~1,542 |
 | The Famous Dungeon of Naheulbeuk | 0.70% | ~1,542 |
 | Dwarf Fortress | 0.70% | ~1,542 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~220 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,312 (Ranked 57)  
+Progressed: 220,327 (Ranked 57)  
 Completed: 2 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 2 (0.00%) (Ranked 271)
 | 2023-08-30 | 219,453 | 2 |
 | 2023-08-31 | 219,794 | 2 |
 | 2023-09-01 | 220,165 | 2 |
-| 2023-09-02 | 220,312 | 2 |
+| 2023-09-02 | 220,327 | 2 |
 ## Awards
 Max (Character Customization): 185  (Ranked 279)  
 Sum: 234 (Ranked 360)  
