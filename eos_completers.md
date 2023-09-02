@@ -38,8 +38,8 @@
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.81% |
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
 | 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.10% |
-| 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.99% |
 | 39 | [Scorn](games/s/scorn.md) | 6.99% |
+| 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.97% |
 | 41 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.78% |
 | 41 | [Time Loader](games/t/time_loader.md) | 6.78% |
 | 43 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
@@ -80,7 +80,7 @@
 | 78 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.74% |
 | 79 | [Destiny 2](games/d/destiny_2.md) | 2.73% |
 | 79 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
-| 81 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.63% |
+| 81 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.62% |
 | 82 | [The Bunker](games/t/the_bunker.md) | 2.59% |
 | 83 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.58% |
 | 84 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.57% |
@@ -108,8 +108,8 @@
 | 106 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.55% |
 | 107 | [Five Dates](games/f/five_dates.md) | 1.52% |
 | 108 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.49% |
-| 109 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.47% |
-| 110 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.45% |
+| 109 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.45% |
+| 109 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.45% |
 | 111 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.44% |
 | 111 | [Ten Dates](games/t/ten_dates.md) | 1.44% |
 | 113 | [Poosh XL](games/p/poosh_xl.md) | 1.39% |
