@@ -5,21 +5,21 @@ Rating: 3.94 (Ranked 955)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~53,708 |
-| First One’s Free | 65.00% | ~47,176 |
+| Downed but Not Outed | 74.00% | ~53,709 |
+| First One’s Free | 65.00% | ~47,177 |
 | Neophyte Ninja | 50.00% | ~36,290 |
 | Too Old for This | 48.00% | ~34,838 |
-| Fancy Pants | 36.00% | ~26,128 |
+| Fancy Pants | 36.00% | ~26,129 |
 | Case Closed | 35.00% | ~25,403 |
 | King of the Hill | 34.00% | ~24,677 |
 | Underworld Initiate | 29.00% | ~21,048 |
 | Roid Ranger | 21.00% | ~15,242 |
 | Off the Rocks | 20.00% | ~14,516 |
 | True Player | 19.00% | ~13,790 |
-| Raider’s Ruin | 17.00% | ~12,338 |
-| Dragonslayer | 17.00% | ~12,338 |
+| Raider’s Ruin | 17.00% | ~12,339 |
+| Dragonslayer | 17.00% | ~12,339 |
 | Hidden Sonata | 13.00% | ~9,435 |
-| Rockay Rex | 12.00% | ~8,709 |
+| Rockay Rex | 12.00% | ~8,710 |
 | Track Star | 10.00% | ~7,258 |
 | Freebooter | 10.00% | ~7,258 |
 | Headhunter | 9.00% | ~6,532 |
@@ -43,7 +43,7 @@ Rating: 3.94 (Ranked 955)
 | Geek Out | 0.60% | ~435 |
 | Full House | 0.20% | ~145 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,579 (Ranked 79)  
+Progressed: 72,580 (Ranked 79)  
 Completed: 43 (0.06%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,16 +178,16 @@ Completed: 43 (0.06%) (Ranked 232)
 | 2023-08-30 | 72,491 | 42 |
 | 2023-08-31 | 72,521 | 42 |
 | 2023-09-01 | 72,549 | 42 |
-| 2023-09-02 | 72,579 | 43 |
+| 2023-09-02 | 72,580 | 43 |
 ## Awards
 Max (Diverse Characters): 413  (Ranked 213)  
-Sum: 1,963 (Ranked 202)  
+Sum: 1,965 (Ranked 202)  
 Diff (max vs sum): 11  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 413 |
 | This game has Quickly Understood Controls | 403 |
-| This game is Highly Recommended | 392 |
+| This game is Highly Recommended | 394 |
 | This game has Challenging Combat | 381 |
 | This game has Amazing Characters | 374 |
 | This game is Great for Quick Sessions | 70 |
@@ -350,4 +350,4 @@ Diff (max vs sum): 11
 | 2023-08-30 | 3.94 | 411 | 1,952 |
 | 2023-08-31 | 3.94 | 411 | 1,953 |
 | 2023-09-01 | 3.94 | 412 | 1,961 |
-| 2023-09-02 | 3.94 | 413 | 1,963 |
+| 2023-09-02 | 3.94 | 413 | 1,965 |

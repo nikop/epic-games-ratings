@@ -25,16 +25,16 @@
 | Defeat Uskol | 7.00% | ~4 |
 | Bringing guns to a sword fight | 7.00% | ~4 |
 | Witch | 7.00% | ~4 |
+| Defeat Ingla | 5.00% | ~3 |
 | Defeat Tezuth | 5.00% | ~3 |
 | Finally! | 5.00% | ~3 |
 | The A-Team | 5.00% | ~3 |
+| But what of the Acreans? | 5.00% | ~3 |
 | Sponsor | 4.00% | ~2 |
-| Defeat Ingla | 4.00% | ~2 |
 | Ancient Powers | 4.00% | ~2 |
 | Wayseeker | 4.00% | ~2 |
 | Pathfinder | 4.00% | ~2 |
 | The End | 4.00% | ~2 |
-| But what of the Acreans? | 4.00% | ~2 |
 | A Deceiving Gift | 4.00% | ~2 |
 | Unveiling the Truth | 4.00% | ~2 |
 | Mountain Lover | 2.00% | ~1 |

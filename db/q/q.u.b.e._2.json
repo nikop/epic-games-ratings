@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
@@ -338,11 +338,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 127,
+  "EOS_Progressed": 129,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.79,
+  "EOS_Completed_Percentage": 0.78,
   "EosHistory": [
     {
       "Time": "2023-08-25T13:10:51.5710377+00:00",
@@ -758,6 +758,11 @@
       "Time": "2023-09-02T16:03:24.1843198+00:00",
       "NumProgressed": 127,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-02T17:03:40.3464617+00:00",
+      "NumProgressed": 129,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -786,7 +791,7 @@
       "Name": "Green Cube Killer",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_DLC1ALLCOLLECTABLES",
@@ -930,7 +935,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_PEAK",
@@ -960,7 +965,7 @@
       "ID": "ACH_S1",
       "SetID": "232494e",
       "Name": "Quick Understanding of Block Extrusion",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 30,
       "UsersEstimate": 62
     },
@@ -978,13 +983,13 @@
       "Name": "Cogs in the Machine",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_SANDSTORM",
       "SetID": "232494e",
       "Name": "Lost in Space",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 30,
       "UsersEstimate": 61
     },
@@ -1001,15 +1006,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 127,
+      "Progressed": 129,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-02T16:03:24.1843188+00:00",
+  "LastChanged_Achievements": "2023-09-02T17:03:40.3464614+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:15.0755291+00:00",
-  "LastUpdate_Ratings": "2023-09-02T15:57:16.5649687+00:00",
-  "LastUpdate_Achievements": "2023-09-02T16:03:24.1843386+00:00"
+  "LastUpdate_Ratings": "2023-09-02T16:57:19.7916259+00:00",
+  "LastUpdate_Achievements": "2023-09-02T17:03:40.3464821+00:00"
 }

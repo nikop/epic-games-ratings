@@ -442,9 +442,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1538330,
+  "EOS_Progressed": 1538337,
   "EOS_Completed": 672,
-  "EOS_NewPlayers": 1248,
+  "EOS_NewPlayers": 1238,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -15507,6 +15507,11 @@
       "Time": "2023-09-02T16:06:49.3310191+00:00",
       "NumProgressed": 1538330,
       "NumCompleted": 672
+    },
+    {
+      "Time": "2023-09-02T17:05:59.2218417+00:00",
+      "NumProgressed": 1538337,
+      "NumCompleted": 672
     }
   ],
   "TotalAchievements": 20,
@@ -15526,7 +15531,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 107683
+      "UsersEstimate": 107684
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -15614,7 +15619,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 153833
+      "UsersEstimate": 153834
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -15662,7 +15667,7 @@
       "Name": "The Long Drift",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 76916
+      "UsersEstimate": 76917
     },
     {
       "ID": "ACH_WASHING_MACHINE",
@@ -15677,15 +15682,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1538330,
+      "Progressed": 1538337,
       "Completed": 672
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-07-23T19:00:00.3270793+00:00",
-  "LastChanged_Achievements": "2023-09-02T16:06:49.3310187+00:00",
+  "LastChanged_Achievements": "2023-09-02T17:05:59.2218411+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:36.7392026+00:00",
-  "LastUpdate_Ratings": "2023-09-02T16:00:39.9309204+00:00",
-  "LastUpdate_Achievements": "2023-09-02T16:06:49.3311+00:00"
+  "LastUpdate_Ratings": "2023-09-02T16:59:43.6669233+00:00",
+  "LastUpdate_Achievements": "2023-09-02T17:05:59.2219478+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 367,
   "Ranking_EOS_Completed": 46,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -17,11 +17,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 65,
+  "EOS_Progressed": 66,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.15,
+  "EOS_Completed_Percentage": 6.06,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -357,6 +357,11 @@
       "Time": "2023-08-30T16:03:33.2014004+00:00",
       "NumProgressed": 65,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-02T17:04:17.9117411+00:00",
+      "NumProgressed": 66,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 25,
@@ -567,13 +572,13 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 65,
+      "Progressed": 66,
       "Completed": 4
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-02T16:04:34.4843278+00:00",
+  "LastChanged_Achievements": "2023-09-02T17:04:17.9117407+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:55.0687016+00:00",
-  "LastUpdate_Ratings": "2023-09-02T15:59:35.0310798+00:00",
-  "LastUpdate_Achievements": "2023-09-02T16:04:34.4843447+00:00"
+  "LastUpdate_Ratings": "2023-09-02T16:58:57.8204372+00:00",
+  "LastUpdate_Achievements": "2023-09-02T17:04:17.9117612+00:00"
 }

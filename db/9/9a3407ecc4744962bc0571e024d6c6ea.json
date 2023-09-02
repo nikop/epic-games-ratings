@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 546,
+  "EOS_Progressed": 547,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 216,
+  "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.73,
   "EosHistory": [
@@ -951,6 +951,11 @@
       "Time": "2023-09-02T16:05:55.9360826+00:00",
       "NumProgressed": 546,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-02T17:05:19.1602729+00:00",
+      "NumProgressed": 547,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -961,9 +966,9 @@
       "ID": "ABetterTomorrow",
       "SetID": "3ai6ml8",
       "Name": "A Better Tomorrow",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 235
+      "UsersEstimate": 241
     },
     {
       "ID": "BostonHayDay",
@@ -971,7 +976,7 @@
       "Name": "Boston Hay Day",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "BoxingClever",
@@ -979,7 +984,7 @@
       "Name": "Boxing Clever",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "Cartographer",
@@ -1001,9 +1006,9 @@
       "ID": "CongratulationsYouAreAnEngineer",
       "SetID": "3ai6ml8",
       "Name": "Congratulations, you\u0027re an engineer",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 218
+      "UsersEstimate": 213
     },
     {
       "ID": "DarkestBeforeTheDawn",
@@ -1011,7 +1016,7 @@
       "Name": "Darkest Before the Dawn",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "DrinkingOnTheJob",
@@ -1043,7 +1048,7 @@
       "Name": "Lights Out",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "MiCasaSuCasa",
@@ -1075,15 +1080,15 @@
       "Name": "Relic",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "SkeletonCrew",
       "SetID": "3ai6ml8",
       "Name": "Skeleton Crew",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 240
+      "UsersEstimate": 246
     },
     {
       "ID": "TerraTourGuide",
@@ -1115,21 +1120,21 @@
       "Name": "Welcome to Fort Solis",
       "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 546,
+      "Progressed": 547,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-09-02T16:05:55.9360819+00:00",
+  "LastChanged_Achievements": "2023-09-02T17:05:19.1602724+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:05.9137937+00:00",
-  "LastUpdate_Ratings": "2023-09-02T16:00:33.5678932+00:00",
-  "LastUpdate_Achievements": "2023-09-02T16:05:55.9360981+00:00"
+  "LastUpdate_Ratings": "2023-09-02T16:59:39.6451289+00:00",
+  "LastUpdate_Achievements": "2023-09-02T17:05:19.160291+00:00"
 }

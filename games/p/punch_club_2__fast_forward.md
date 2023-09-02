@@ -21,8 +21,8 @@
 | Hello, world! | 69.00% | ~209 |
 | No bullying more | 68.00% | ~206 |
 | Pal of your father? | 66.00% | ~200 |
+| Spirit of the past | 64.00% | ~194 |
 | Employee of the month | 64.00% | ~194 |
-| Spirit of the past | 63.00% | ~191 |
 | Law student | 62.00% | ~188 |
 | Workout professional | 61.00% | ~185 |
 | Handyman | 60.00% | ~182 |
@@ -46,20 +46,20 @@
 | Responsible approach | 40.00% | ~121 |
 | Deal with life | 39.00% | ~118 |
 | Mom got better | 38.00% | ~115 |
+| GYM professional | 38.00% | ~115 |
 | Poisoned fighter | 38.00% | ~115 |
 | Get out of my apartment! | 38.00% | ~115 |
 | The die is cast | 38.00% | ~115 |
 | Your own way | 38.00% | ~115 |
-| GYM professional | 37.00% | ~112 |
+| Seashell hunter | 36.00% | ~109 |
 | Gang wrangler | 35.00% | ~106 |
-| Seashell hunter | 35.00% | ~106 |
+| Problems of cyborgs | 34.00% | ~103 |
 | Undercover robot | 34.00% | ~103 |
-| Problems of cyborgs | 33.00% | ~100 |
 | Absolute Champion! | 32.00% | ~97 |
+| Careerist | 32.00% | ~97 |
 | Anyone can resist | 32.00% | ~97 |
+| Trap disarmed | 31.00% | ~94 |
 | Not little hacker | 31.00% | ~94 |
-| Careerist | 31.00% | ~94 |
-| Trap disarmed | 30.00% | ~91 |
 | The lonesome road | 30.00% | ~91 |
 | Keep nature safe | 30.00% | ~91 |
 | Family comes first | 30.00% | ~91 |

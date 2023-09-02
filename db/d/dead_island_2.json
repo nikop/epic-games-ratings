@@ -4102,10 +4102,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 8618,
       "NumberOfAwardsMax": 5846
+    },
+    {
+      "Time": "2023-09-02T16:58:22.5648465+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 8620,
+      "NumberOfAwardsMax": 5846
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8618,
+  "NumberOfAwards": 8620,
   "NumberOfAwardsMax": 5846,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4137,7 +4143,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 303
+      "Count": 305
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4164,10 +4170,10 @@
       "Count": 334
     }
   ],
-  "EOS_Progressed": 671695,
-  "EOS_Completed": 2100,
-  "EOS_NewPlayers": 5806,
-  "EOS_NewCompleters": 25,
+  "EOS_Progressed": 671736,
+  "EOS_Completed": 2101,
+  "EOS_NewPlayers": 5788,
+  "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -19229,6 +19235,11 @@
       "Time": "2023-09-02T16:05:51.2503857+00:00",
       "NumProgressed": 671695,
       "NumCompleted": 2100
+    },
+    {
+      "Time": "2023-09-02T17:05:15.6737518+00:00",
+      "NumProgressed": 671736,
+      "NumCompleted": 2101
     }
   ],
   "TotalAchievements": 45,
@@ -19264,7 +19275,7 @@
       "Name": "Anger Management",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3358
+      "UsersEstimate": 3359
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -19288,7 +19299,7 @@
       "Name": "Perks of the Job",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3358
+      "UsersEstimate": 3359
     },
     {
       "ID": "ach_bookworm",
@@ -19320,7 +19331,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3358
+      "UsersEstimate": 3359
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -19400,7 +19411,7 @@
       "Name": "Hotel California",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6045
+      "UsersEstimate": 6046
     },
     {
       "ID": "ach_impressive_aim",
@@ -19456,7 +19467,7 @@
       "Name": "Ooh, Shiny!",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3358
+      "UsersEstimate": 3359
     },
     {
       "ID": "ach_magnum_opus",
@@ -19488,7 +19499,7 @@
       "Name": "I Am the Resurrection",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3358
+      "UsersEstimate": 3359
     },
     {
       "ID": "ach_salvation",
@@ -19552,7 +19563,7 @@
       "Name": "Our True Nature",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 3358
+      "UsersEstimate": 3359
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -19576,7 +19587,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6045
+      "UsersEstimate": 6046
     },
     {
       "ID": "ach_well_known_survivor",
@@ -19599,16 +19610,16 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 671695,
-      "Completed": 2100
+      "Progressed": 671736,
+      "Completed": 2101
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-09-02T11:58:44.9849433+00:00",
-  "LastChanged_Achievements": "2023-09-02T16:05:51.2503854+00:00",
+  "LastChanged": "2023-09-02T16:58:22.5648464+00:00",
+  "LastChanged_Achievements": "2023-09-02T17:05:15.6737512+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:04.7021628+00:00",
-  "LastUpdate_Ratings": "2023-09-02T15:58:47.2207542+00:00",
-  "LastUpdate_Achievements": "2023-09-02T16:05:51.2504807+00:00"
+  "LastUpdate_Ratings": "2023-09-02T16:58:22.564847+00:00",
+  "LastUpdate_Achievements": "2023-09-02T17:05:15.6738838+00:00"
 }

@@ -5,8 +5,8 @@ Rating: 4.54 (Ranked 504)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 0.90% | ~6,045 |
-| Welcome To Hell-A | 0.90% | ~6,045 |
+| Hotel California | 0.90% | ~6,046 |
+| Welcome To Hell-A | 0.90% | ~6,046 |
 | Break A Leg | 0.80% | ~5,374 |
 | Personal Assistant Personally Assisted | 0.80% | ~5,374 |
 | Dr. Reed, I Presume? | 0.70% | ~4,702 |
@@ -24,12 +24,12 @@ Rating: 4.54 (Ranked 504)
 | Zombologist | 0.60% | ~4,030 |
 | A Patton Emerges | 0.60% | ~4,030 |
 | This is My Weapon | 0.60% | ~4,030 |
-| Anger Management | 0.50% | ~3,358 |
-| Perks of the Job | 0.50% | ~3,358 |
-| I Got a Zombie Army and You Can't Harm Me | 0.50% | ~3,358 |
-| Ooh, Shiny! | 0.50% | ~3,358 |
-| I Am the Resurrection | 0.50% | ~3,358 |
-| Our True Nature | 0.50% | ~3,358 |
+| Anger Management | 0.50% | ~3,359 |
+| Perks of the Job | 0.50% | ~3,359 |
+| I Got a Zombie Army and You Can't Harm Me | 0.50% | ~3,359 |
+| Ooh, Shiny! | 0.50% | ~3,359 |
+| I Am the Resurrection | 0.50% | ~3,359 |
+| Our True Nature | 0.50% | ~3,359 |
 | Making Your Mark | 0.40% | ~2,687 |
 | Humanity Distilled | 0.40% | ~2,687 |
 | Down with the Sickness | 0.40% | ~2,687 |
@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 504)
 | Survival Skills | 0.10% | ~672 |
 | Bucket List | 0.10% | ~672 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 671,695 (Ranked 22)  
-Completed: 2,100 (0.31%) (Ranked 177)  
+Progressed: 671,736 (Ranked 22)  
+Completed: 2,101 (0.31%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -186,10 +186,10 @@ Completed: 2,100 (0.31%) (Ranked 177)
 | 2023-08-30 | 669,636 | 2,094 |
 | 2023-08-31 | 670,394 | 2,097 |
 | 2023-09-01 | 671,108 | 2,097 |
-| 2023-09-02 | 671,695 | 2,100 |
+| 2023-09-02 | 671,736 | 2,101 |
 ## Awards
 Max (Great Boss Battles): 5,846  (Ranked 61)  
-Sum: 8,618 (Ranked 96)  
+Sum: 8,620 (Ranked 96)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
@@ -201,7 +201,7 @@ Diff (max vs sum): -35
 | This game has Amazing Storytelling | 334 |
 | This game is Extremely Fun | 313 |
 | This game has Amazing Characters | 307 |
-| This game is Highly Recommended | 303 |
+| This game is Highly Recommended | 305 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -339,4 +339,4 @@ Diff (max vs sum): -35
 | 2023-08-30 | 4.54 | 5,822 | 8,570 |
 | 2023-08-31 | 4.54 | 5,841 | 8,595 |
 | 2023-09-01 | 4.54 | 5,846 | 8,613 |
-| 2023-09-02 | 4.54 | 5,846 | 8,618 |
+| 2023-09-02 | 4.54 | 5,846 | 8,620 |

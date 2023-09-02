@@ -2,9 +2,9 @@
   "ID": "fc3184cec5eb463ea33412294a05fca2",
   "Name": "Placid Plastic Duck Simulator",
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
-  "Ranking_EOS_Progress": 291,
+  "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 41,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 234,
+  "EOS_Progressed": 236,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.84,
+  "EOS_Completed_Percentage": 6.78,
   "EosHistory": [
     {
       "Time": "2023-06-10T10:01:48.8314977+00:00",
@@ -971,6 +971,11 @@
       "Time": "2023-09-01T22:06:06.5695896+00:00",
       "NumProgressed": 234,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-09-02T17:06:16.6102872+00:00",
+      "NumProgressed": 236,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 16,
@@ -982,7 +987,7 @@
       "Name": "Three is company",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 135
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -998,7 +1003,7 @@
       "Name": "Cruise ship",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -1006,7 +1011,7 @@
       "Name": "Ducks adrift",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -1020,9 +1025,9 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "8d3ci0",
       "Name": "High-rise",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 139
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -1044,17 +1049,17 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "8d3ci0",
       "Name": "Family pond",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 68
+      "UsersEstimate": 66
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "8d3ci0",
       "Name": "Make a wish",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 89
+      "UsersEstimate": 87
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -1070,7 +1075,7 @@
       "Name": "Way to the shore",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -1078,7 +1083,7 @@
       "Name": "Private pool",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -1086,7 +1091,7 @@
       "Name": "Abducktion",
       "Percentage": 22,
       "XP": 95,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -1094,7 +1099,7 @@
       "Name": "On fire",
       "Percentage": 32,
       "XP": 60,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -1102,21 +1107,21 @@
       "Name": "Watery help",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     }
   ],
   "AchievementSets": [
     {
       "ID": "8d3ci0",
       "IsBase": true,
-      "Progressed": 234,
+      "Progressed": 236,
       "Completed": 16
     }
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-09-02T16:07:11.1018572+00:00",
-  "LastUpdate_AppInfo": "2023-08-26T16:57:08.4997824+00:00",
-  "LastUpdate_Ratings": "2023-09-02T16:01:47.4721578+00:00",
-  "LastUpdate_Achievements": "2023-09-02T16:07:11.1018714+00:00"
+  "LastChanged_Achievements": "2023-09-02T17:06:16.6102862+00:00",
+  "LastUpdate_AppInfo": "2023-09-02T16:57:14.7085135+00:00",
+  "LastUpdate_Ratings": "2023-09-02T17:00:32.8850142+00:00",
+  "LastUpdate_Achievements": "2023-09-02T17:06:16.6103055+00:00"
 }

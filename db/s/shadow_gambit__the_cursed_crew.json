@@ -32,9 +32,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 578,
+  "EOS_Progressed": 579,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.9,
   "EosHistory": [
@@ -1357,6 +1357,11 @@
       "Time": "2023-09-02T16:07:02.5191735+00:00",
       "NumProgressed": 578,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-02T17:06:09.3367764+00:00",
+      "NumProgressed": 579,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1369,7 +1374,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -1377,15 +1382,15 @@
       "Name": "A New Journey",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "_03_FinishAct1",
       "SetID": "8a1io5d",
       "Name": "The Adventure Begins",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 324
+      "UsersEstimate": 318
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1393,7 +1398,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "_05_FinishAct2",
@@ -1431,9 +1436,9 @@
       "ID": "_09_Completion_20",
       "SetID": "8a1io5d",
       "Name": "Powder Monkey",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 162
     },
     {
       "ID": "_10_Completion_30",
@@ -1489,7 +1494,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -1497,7 +1502,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -1519,9 +1524,9 @@
       "ID": "_20_CrewTale_TPB",
       "SetID": "8a1io5d",
       "Name": "Fishy Fish",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 122
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -1545,7 +1550,7 @@
       "Name": "Lyrical Longing",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "_24_CrewTale_SNP",
@@ -1559,9 +1564,9 @@
       "ID": "_25_CrewTale_GCW",
       "SetID": "8a1io5d",
       "Name": "Rustic Recipe",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 52
     },
     {
       "ID": "_26_ReviveVirgilio",
@@ -1576,7 +1581,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 578,
+      "Progressed": 579,
       "Completed": 11
     }
   ],
@@ -1584,8 +1589,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-02T15:58:27.8231568+00:00",
-  "LastChanged_Achievements": "2023-09-02T16:07:02.5191731+00:00",
+  "LastChanged_Achievements": "2023-09-02T17:06:09.3367759+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:46.0913582+00:00",
-  "LastUpdate_Ratings": "2023-09-02T15:58:27.8231582+00:00",
-  "LastUpdate_Achievements": "2023-09-02T16:07:02.5191938+00:00"
+  "LastUpdate_Ratings": "2023-09-02T16:58:09.2214495+00:00",
+  "LastUpdate_Achievements": "2023-09-02T17:06:09.3368028+00:00"
 }

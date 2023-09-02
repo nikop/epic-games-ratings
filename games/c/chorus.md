@@ -26,11 +26,11 @@ Number of Ratings: 58  (23.09.2022)
 | Phoenix | 44.00% | ~510 |
 | Disruption | 43.00% | ~498 |
 | Cult Slayer | 40.00% | ~463 |
-| Origin | 39.00% | ~452 |
+| Origin | 40.00% | ~463 |
 | It Was An Accident | 39.00% | ~452 |
 | Set in Motion | 38.00% | ~440 |
 | In the Eye of the Storm | 37.00% | ~428 |
-| The Crimson Void | 34.00% | ~394 |
+| The Crimson Void | 35.00% | ~405 |
 | The Nameless Dread | 34.00% | ~394 |
 | Time to Spear | 31.00% | ~359 |
 | Disciple | 30.00% | ~347 |

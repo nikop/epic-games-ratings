@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 207,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -1653,9 +1653,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13745,
+  "EOS_Progressed": 13747,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10843,6 +10843,11 @@
       "Time": "2023-09-02T13:05:42.4029867+00:00",
       "NumProgressed": 13745,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-02T17:04:09.3132828+00:00",
+      "NumProgressed": 13747,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -12900,9 +12905,9 @@
       "ID": "ACHIEVEMENT_UNIT_CIMMERIAN_ARCHER",
       "SetID": "9201eeb",
       "Name": "Cimmerian Archer",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 110
     },
     {
       "ID": "ACHIEVEMENT_UNIT_HITTITE_CHARIOT",
@@ -13221,21 +13226,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13745,
+      "Progressed": 13747,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13745,
+      "Progressed": 13747,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-30T22:01:08.7702063+00:00",
-  "LastChanged_Achievements": "2023-09-02T16:04:23.3920259+00:00",
+  "LastChanged_Achievements": "2023-09-02T17:04:09.3132823+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:29.3167237+00:00",
-  "LastUpdate_Ratings": "2023-09-02T15:58:10.9447706+00:00",
-  "LastUpdate_Achievements": "2023-09-02T16:04:23.3927656+00:00"
+  "LastUpdate_Ratings": "2023-09-02T16:57:57.5260473+00:00",
+  "LastUpdate_Achievements": "2023-09-02T17:04:09.3142589+00:00"
 }

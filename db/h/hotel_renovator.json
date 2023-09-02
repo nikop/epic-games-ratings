@@ -1488,9 +1488,9 @@
       "ID": "ACH_ELEVATOR_FIXED",
       "SetID": "7k95e4n",
       "Name": "Fine, I\u0027ll do it myself",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 407
+      "UsersEstimate": 416
     },
     {
       "ID": "ACH_ELIZA_PHOTO",
@@ -1673,8 +1673,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-08-10T10:58:10.9295179+00:00",
-  "LastChanged_Achievements": "2023-09-02T16:04:41.6064431+00:00",
+  "LastChanged_Achievements": "2023-09-02T17:04:23.2120638+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:35.8232628+00:00",
   "LastUpdate_Ratings": "2023-09-02T16:02:10.6013533+00:00",
-  "LastUpdate_Achievements": "2023-09-02T16:04:41.6064634+00:00"
+  "LastUpdate_Achievements": "2023-09-02T17:04:23.2120917+00:00"
 }
