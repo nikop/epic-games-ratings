@@ -107,8 +107,8 @@
 | 104 | [Iron Danger](games/i/iron_danger.md) | 1.56% |
 | 106 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.55% |
 | 107 | [Five Dates](games/f/five_dates.md) | 1.52% |
-| 108 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.49% |
 | 108 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.49% |
+| 109 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.47% |
 | 110 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.45% |
 | 111 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.44% |
 | 111 | [Ten Dates](games/t/ten_dates.md) | 1.44% |
