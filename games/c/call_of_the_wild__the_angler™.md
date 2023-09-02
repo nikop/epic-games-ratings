@@ -16,7 +16,7 @@ Number of Ratings: 281  (23.09.2022)
 | Fish Out of Water | 34.00% | ~1,909 |
 | License to Gill | 32.00% | ~1,797 |
 | Things that go Splash in the Night | 29.00% | ~1,628 |
-| Goldfish? | 27.00% | ~1,516 |
+| Goldfish? | 28.00% | ~1,572 |
 | Going for Gold | 25.00% | ~1,404 |
 | I'm Hooked! | 19.00% | ~1,067 |
 | Diamond in the Rough | 12.00% | ~674 |
@@ -180,8 +180,8 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-09-02 | 5,615 | 0 |
 ## Awards
 Max (Relaxing): 33  (Ranked 449)  
-Sum: 166 (Ranked 391)  
-Diff (max vs sum): 58  
+Sum: 166 (Ranked 390)  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 33 |

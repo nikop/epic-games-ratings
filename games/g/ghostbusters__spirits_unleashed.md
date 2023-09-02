@@ -1,19 +1,19 @@
 # Ghostbusters: Spirits Unleashed
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.49 (Ranked 582)  
+Rating: 4.49 (Ranked 583)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~21,938 |
+| Stylish | 86.00% | ~21,939 |
 | Advancement | 73.00% | ~18,622 |
 | Meticulously Efficient | 63.00% | ~16,071 |
-| Discovery | 61.00% | ~15,560 |
+| Discovery | 61.00% | ~15,561 |
 | Fully Upgraded | 54.00% | ~13,775 |
 | Swift Rift Removers | 53.00% | ~13,520 |
 | I collect Spores, Molds, and Fungi | 51.00% | ~13,010 |
 | Cultured | 51.00% | ~13,010 |
-| Vaporous Expansion | 48.00% | ~12,244 |
+| Vaporous Expansion | 48.00% | ~12,245 |
 | Teamwork | 43.00% | ~10,969 |
 | There you are! | 42.00% | ~10,714 |
 | Clutch Capture | 40.00% | ~10,204 |
@@ -23,14 +23,14 @@ Rating: 4.49 (Ranked 582)
 | Welcome to the Crew | 31.00% | ~7,908 |
 | Ghostbuster In Training | 30.00% | ~7,653 |
 | Icing on the Cake | 30.00% | ~7,653 |
-| Side Hustle | 27.00% | ~6,887 |
-| Summoner | 27.00% | ~6,887 |
-| We have the best insurance | 26.00% | ~6,632 |
-| Legions | 26.00% | ~6,632 |
-| Right back at ya | 26.00% | ~6,632 |
-| Animated | 25.00% | ~6,377 |
-| Pesky Jerks | 25.00% | ~6,377 |
-| Stunner | 25.00% | ~6,377 |
+| Side Hustle | 27.00% | ~6,888 |
+| Summoner | 27.00% | ~6,888 |
+| We have the best insurance | 26.00% | ~6,633 |
+| Legions | 26.00% | ~6,633 |
+| Right back at ya | 26.00% | ~6,633 |
+| Animated | 25.00% | ~6,378 |
+| Pesky Jerks | 25.00% | ~6,378 |
+| Stunner | 25.00% | ~6,378 |
 | Skilled | 24.00% | ~6,122 |
 | Collector | 23.00% | ~5,867 |
 | Ectoplasmic Entity | 23.00% | ~5,867 |
@@ -38,8 +38,8 @@ Rating: 4.49 (Ranked 582)
 | Terrifying | 18.00% | ~4,592 |
 | Tobin's Prodigy | 18.00% | ~4,592 |
 | Reckless | 17.00% | ~4,337 |
-| Diabolical | 16.00% | ~4,081 |
-| Seasoned | 16.00% | ~4,081 |
+| Diabolical | 16.00% | ~4,082 |
+| Seasoned | 16.00% | ~4,082 |
 | Escape Artist | 15.00% | ~3,826 |
 | Whoopsie | 13.00% | ~3,316 |
 | Liability | 10.00% | ~2,551 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 582)
 | I don't need these | 1.00% | ~255 |
 | Mycophile | 1.00% | ~255 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,509 (Ranked 103)  
+Progressed: 25,510 (Ranked 103)  
 Completed: 54 (0.21%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 54 (0.21%) (Ranked 194)
 | 2023-08-30 | 25,447 | 54 |
 | 2023-08-31 | 25,465 | 54 |
 | 2023-09-01 | 25,481 | 54 |
-| 2023-09-02 | 25,509 | 54 |
+| 2023-09-02 | 25,510 | 54 |
 ## Awards
 Max (Great for Quick Sessions): 250  (Ranked 254)  
 Sum: 2,270 (Ranked 190)  

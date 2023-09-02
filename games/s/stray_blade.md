@@ -17,10 +17,10 @@
 | Nothing but the Truth | 13.00% | ~7 |
 | Expert | 13.00% | ~7 |
 | The Golden Flash | 13.00% | ~7 |
+| Through Dangers Untold | 11.00% | ~6 |
 | Locked and Loaded | 11.00% | ~6 |
 | Changing the World | 11.00% | ~6 |
 | Craftsmen | 9.00% | ~5 |
-| Through Dangers Untold | 9.00% | ~5 |
 | Mirror, Mirror on the Wall | 7.00% | ~4 |
 | Defeat Uskol | 7.00% | ~4 |
 | Bringing guns to a sword fight | 7.00% | ~4 |

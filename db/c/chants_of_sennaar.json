@@ -2,9 +2,9 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 367,
-  "Ranking_EOS_Completed": 46,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_Progress": 365,
+  "Ranking_EOS_Completed": 47,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -17,11 +17,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 66,
+  "EOS_Progressed": 68,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.06,
+  "EOS_Completed_Percentage": 5.88,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -362,6 +362,11 @@
       "Time": "2023-09-02T17:04:17.9117411+00:00",
       "NumProgressed": 66,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-02T19:04:48.6823079+00:00",
+      "NumProgressed": 68,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 25,
@@ -387,7 +392,7 @@
       "ID": "META_ALL_LINK",
       "SetID": "2gma9an",
       "Name": "Peace walker",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 100,
       "UsersEstimate": 5
     },
@@ -395,7 +400,7 @@
       "ID": "META_ALL_TERMINAL",
       "SetID": "2gma9an",
       "Name": "Cable guy",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 50,
       "UsersEstimate": 9
     },
@@ -403,7 +408,7 @@
       "ID": "META_FIRST_LINK",
       "SetID": "2gma9an",
       "Name": "A good beginning",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 9
     },
@@ -411,7 +416,7 @@
       "ID": "META_HALF_LINK",
       "SetID": "2gma9an",
       "Name": "Half the way",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -419,7 +424,7 @@
       "ID": "META_RESULT_1-2",
       "SetID": "2gma9an",
       "Name": "Open door",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -435,7 +440,7 @@
       "ID": "META_RESULT_1-4",
       "SetID": "2gma9an",
       "Name": "Feels like springtime",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -483,7 +488,7 @@
       "ID": "OPTIONNAL_GAMES",
       "SetID": "2gma9an",
       "Name": "True G4M3R",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -515,7 +520,7 @@
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -572,13 +577,13 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 66,
+      "Progressed": 68,
       "Completed": 4
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-02T18:04:54.088151+00:00",
+  "LastChanged_Achievements": "2023-09-02T19:04:48.682307+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:55.0687016+00:00",
-  "LastUpdate_Ratings": "2023-09-02T18:00:03.5630105+00:00",
-  "LastUpdate_Achievements": "2023-09-02T18:04:54.0881758+00:00"
+  "LastUpdate_Ratings": "2023-09-02T18:59:49.2654431+00:00",
+  "LastUpdate_Achievements": "2023-09-02T19:04:48.6823279+00:00"
 }

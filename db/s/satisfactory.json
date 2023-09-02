@@ -3,11 +3,11 @@
   "Name": "Satisfactory",
   "ProductSlug": "satisfactory",
   "Ranking_Rating": 19,
-  "Ranking_Popularity": 34,
+  "Ranking_Popularity": 35,
   "Ranking_PopularitySum": 15,
   "Ranking_EOS_Progress": 571,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewPlayers": 349,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2019-03-19T14:00:00+00:00",
@@ -9974,10 +9974,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 94108,
       "NumberOfAwardsMax": 11293
+    },
+    {
+      "Time": "2023-09-02T19:00:35.8608379+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 94127,
+      "NumberOfAwardsMax": 11293
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 94108,
+  "NumberOfAwards": 94127,
   "NumberOfAwardsMax": 11293,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9991,7 +9997,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 10260
+      "Count": 10269
     },
     {
       "Text": "This game is Relaxing",
@@ -10033,7 +10039,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 8243
+      "Count": 8253
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -10059,8 +10065,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:11.7040586+00:00",
-  "LastChanged": "2023-09-02T12:00:25.7939908+00:00",
+  "LastChanged": "2023-09-02T19:00:35.8608378+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:17.3272377+00:00",
-  "LastUpdate_Ratings": "2023-09-02T18:00:51.1671012+00:00",
-  "LastUpdate_Achievements": "2023-09-02T18:05:56.0052604+00:00"
+  "LastUpdate_Ratings": "2023-09-02T19:00:35.8608385+00:00",
+  "LastUpdate_Achievements": "2023-09-02T19:05:49.2816342+00:00"
 }

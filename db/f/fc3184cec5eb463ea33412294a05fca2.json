@@ -4,7 +4,7 @@
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 41,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
@@ -1025,9 +1025,9 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "8d3ci0",
       "Name": "High-rise",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 142
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -1097,9 +1097,9 @@
       "ID": "NEW_ACHIEVEMENT_1_8",
       "SetID": "8d3ci0",
       "Name": "On fire",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 60,
-      "UsersEstimate": 76
+      "UsersEstimate": 78
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -1120,8 +1120,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-09-02T18:07:37.8039703+00:00",
+  "LastChanged_Achievements": "2023-09-02T19:07:30.5609491+00:00",
   "LastUpdate_AppInfo": "2023-09-02T16:57:14.7085135+00:00",
-  "LastUpdate_Ratings": "2023-09-02T18:02:23.5668507+00:00",
-  "LastUpdate_Achievements": "2023-09-02T18:07:37.8039922+00:00"
+  "LastUpdate_Ratings": "2023-09-02T19:02:08.3289393+00:00",
+  "LastUpdate_Achievements": "2023-09-02T19:07:30.5609697+00:00"
 }

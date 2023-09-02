@@ -495,9 +495,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14978,
+  "EOS_Progressed": 14979,
   "EOS_Completed": 110,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.73,
   "EosHistory": [
@@ -9395,6 +9395,11 @@
       "Time": "2023-09-02T17:03:16.9682196+00:00",
       "NumProgressed": 14978,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2023-09-02T19:03:15.3652905+00:00",
+      "NumProgressed": 14979,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 41,
@@ -9510,7 +9515,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4493
+      "UsersEstimate": 4494
     },
     {
       "ID": "tpote_achievement_22",
@@ -9622,7 +9627,7 @@
       "Name": "A cry for help",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1049
     },
     {
       "ID": "tpote_achievement_35",
@@ -9710,7 +9715,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1049
     },
     {
       "ID": "tpote_achievement_8",
@@ -9726,22 +9731,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 5242
+      "UsersEstimate": 5243
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14978,
+      "Progressed": 14979,
       "Completed": 110
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-08-03T13:08:30.3350415+00:00",
-  "LastChanged_Achievements": "2023-09-02T18:03:19.9281777+00:00",
+  "LastChanged_Achievements": "2023-09-02T19:03:15.3652899+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:40.0139465+00:00",
-  "LastUpdate_Ratings": "2023-09-02T18:01:14.794159+00:00",
-  "LastUpdate_Achievements": "2023-09-02T18:03:19.9282917+00:00"
+  "LastUpdate_Ratings": "2023-09-02T19:00:58.309372+00:00",
+  "LastUpdate_Achievements": "2023-09-02T19:03:15.365513+00:00"
 }

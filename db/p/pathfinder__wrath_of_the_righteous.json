@@ -3584,9 +3584,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 11159,
+  "EOS_Progressed": 11160,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11699,6 +11699,11 @@
       "Time": "2023-09-02T18:03:51.3782149+00:00",
       "NumProgressed": 11159,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-02T19:03:47.092046+00:00",
+      "NumProgressed": 11160,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -11718,7 +11723,7 @@
       "Name": "Burning City",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1785
+      "UsersEstimate": 1786
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -11910,7 +11915,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1227
+      "UsersEstimate": 1228
     },
     {
       "ID": "28_GreatUpstart",
@@ -12637,21 +12642,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9941,
+      "Progressed": 9942,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11159,
+      "Progressed": 11160,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-09-01T17:57:43.0049852+00:00",
-  "LastChanged_Achievements": "2023-09-02T18:03:51.3782144+00:00",
+  "LastChanged_Achievements": "2023-09-02T19:03:47.0920454+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:51.1803019+00:00",
-  "LastUpdate_Ratings": "2023-09-02T17:58:59.2629265+00:00",
-  "LastUpdate_Achievements": "2023-09-02T18:03:51.3784746+00:00"
+  "LastUpdate_Ratings": "2023-09-02T18:58:44.1117684+00:00",
+  "LastUpdate_Achievements": "2023-09-02T19:03:47.0923163+00:00"
 }

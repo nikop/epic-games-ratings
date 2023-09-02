@@ -2,7 +2,7 @@
   "ID": "043ffc92cbd64a9fbc350ea68f415937",
   "Name": "Arcadegeddon",
   "ProductSlug": "arcadegeddon",
-  "Ranking_Rating": 582,
+  "Ranking_Rating": 583,
   "Ranking_Popularity": 387,
   "Ranking_PopularitySum": 308,
   "Ranking_EOS_Progress": 130,
@@ -805,9 +805,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 8834,
+  "EOS_Progressed": 8835,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8635,6 +8635,11 @@
       "Time": "2023-09-02T18:06:04.0575756+00:00",
       "NumProgressed": 8834,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-02T19:05:57.3054962+00:00",
+      "NumProgressed": 8835,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -8646,7 +8651,7 @@
       "Name": "Adventure Time",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 6979
+      "UsersEstimate": 6980
     },
     {
       "ID": "ACH_BOOTY_BASHING",
@@ -8678,7 +8683,7 @@
       "Name": "Coup d\u0027Etat",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 5212
+      "UsersEstimate": 5213
     },
     {
       "ID": "ACH_EVENT_HORIZON",
@@ -8710,7 +8715,7 @@
       "Name": "Get Furious",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 4947
+      "UsersEstimate": 4948
     },
     {
       "ID": "ACH_GET_IN_THE_RING",
@@ -8718,7 +8723,7 @@
       "Name": "Get In The Ring!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "ACH_GREY_GOO",
@@ -8790,7 +8795,7 @@
       "Name": "Let\u0027s Get This Party Started",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 8039
+      "UsersEstimate": 8040
     },
     {
       "ID": "ACH_LIGHT_MY_FIRE",
@@ -8854,7 +8859,7 @@
       "Name": "Playing With Power",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 6802
+      "UsersEstimate": 6803
     },
     {
       "ID": "ACH_PLUG_IT_IN",
@@ -8870,7 +8875,7 @@
       "Name": "Poppin Noggins",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2208
+      "UsersEstimate": 2209
     },
     {
       "ID": "ACH_PYROTECHNICAL",
@@ -8886,7 +8891,7 @@
       "Name": "Rapid Response",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2915
+      "UsersEstimate": 2916
     },
     {
       "ID": "ACH_RESCUE_RANGER",
@@ -8918,7 +8923,7 @@
       "Name": "1.21 Gigawatts",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "ACH_START_YOUR_COLLECTION",
@@ -8998,7 +9003,7 @@
       "Name": "This Is My Boomstick!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "ACH_TICKET_TITAN",
@@ -9022,7 +9027,7 @@
       "Name": "To Be Continued",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1148
+      "UsersEstimate": 1149
     },
     {
       "ID": "ACH_TREASURE_HUNTING",
@@ -9038,22 +9043,22 @@
       "Name": "You\u0027re Fired",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 5035
+      "UsersEstimate": 5036
     }
   ],
   "AchievementSets": [
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 8834,
+      "Progressed": 8835,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-08-26T20:00:35.7638422+00:00",
-  "LastChanged_Achievements": "2023-09-02T18:06:04.0575751+00:00",
+  "LastChanged_Achievements": "2023-09-02T19:05:57.3054955+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:18.6650629+00:00",
-  "LastUpdate_Ratings": "2023-09-02T17:59:28.5709367+00:00",
-  "LastUpdate_Achievements": "2023-09-02T18:06:04.0576879+00:00"
+  "LastUpdate_Ratings": "2023-09-02T18:59:12.7463006+00:00",
+  "LastUpdate_Achievements": "2023-09-02T19:05:57.3055813+00:00"
 }

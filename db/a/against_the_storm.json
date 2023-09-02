@@ -2756,9 +2756,9 @@
       "Count": 317
     }
   ],
-  "EOS_Progressed": 16489,
+  "EOS_Progressed": 16491,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -9951,6 +9951,11 @@
       "Time": "2023-09-02T18:04:50.6333114+00:00",
       "NumProgressed": 16489,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-09-02T19:04:45.3239812+00:00",
+      "NumProgressed": 16491,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 50,
@@ -10050,7 +10055,7 @@
       "Name": "First Real Expedition",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "WinHard",
@@ -10242,7 +10247,7 @@
       "Name": "The Marshlands",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "WinOnMoorlands",
@@ -10250,7 +10255,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "WinPrestige10",
@@ -10298,7 +10303,7 @@
       "Name": "Taking Action",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "WinWithResolve",
@@ -10338,7 +10343,7 @@
       "Name": "No Deaths",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "WinWithoutOrders",
@@ -10361,15 +10366,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 16489,
+      "Progressed": 16491,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-09-02T01:37:44.7454478+00:00",
-  "LastChanged_Achievements": "2023-09-02T18:04:50.6333108+00:00",
+  "LastChanged_Achievements": "2023-09-02T19:04:45.3239805+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:56.7333073+00:00",
-  "LastUpdate_Ratings": "2023-09-02T18:01:42.8315445+00:00",
-  "LastUpdate_Achievements": "2023-09-02T18:04:50.6334158+00:00"
+  "LastUpdate_Ratings": "2023-09-02T19:01:26.1218954+00:00",
+  "LastUpdate_Achievements": "2023-09-02T19:04:45.3241025+00:00"
 }

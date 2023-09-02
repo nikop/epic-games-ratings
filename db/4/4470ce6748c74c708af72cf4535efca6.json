@@ -2,7 +2,7 @@
   "ID": "4470ce6748c74c708af72cf4535efca6",
   "Name": "Warstone TD",
   "ProductSlug": "warstone-td-8fe138",
-  "Ranking_EOS_Progress": 397,
+  "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 102,
@@ -695,9 +695,9 @@
       "ID": "69",
       "SetID": "5e3maia",
       "Name": "Formidable",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "7",
@@ -742,8 +742,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-09-02T18:08:31.0819649+00:00",
+  "LastChanged_Achievements": "2023-09-02T19:08:24.5177097+00:00",
   "LastUpdate_AppInfo": "2023-09-01T23:56:54.9755822+00:00",
-  "LastUpdate_Ratings": "2023-09-02T18:01:53.0696009+00:00",
-  "LastUpdate_Achievements": "2023-09-02T18:08:31.0820352+00:00"
+  "LastUpdate_Ratings": "2023-09-02T19:01:36.6432286+00:00",
+  "LastUpdate_Achievements": "2023-09-02T19:08:24.5179185+00:00"
 }

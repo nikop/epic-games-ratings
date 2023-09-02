@@ -2,12 +2,12 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 582,
+  "Ranking_Rating": 583,
   "Ranking_Popularity": 254,
   "Ranking_PopularitySum": 190,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1956,9 +1956,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25509,
+  "EOS_Progressed": 25510,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -11876,6 +11876,11 @@
       "Time": "2023-09-02T18:06:23.7865456+00:00",
       "NumProgressed": 25509,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-09-02T19:06:17.5359929+00:00",
+      "NumProgressed": 25510,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 51,
@@ -11895,7 +11900,7 @@
       "Name": "Animated",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 6377
+      "UsersEstimate": 6378
     },
     {
       "ID": "Back_Off",
@@ -11911,7 +11916,7 @@
       "Name": "We have the best insurance",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 6632
+      "UsersEstimate": 6633
     },
     {
       "ID": "Catostrophic_Destroyer",
@@ -11967,7 +11972,7 @@
       "Name": "Diabolical",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 4081
+      "UsersEstimate": 4082
     },
     {
       "ID": "Discovery",
@@ -11975,7 +11980,7 @@
       "Name": "Discovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 15560
+      "UsersEstimate": 15561
     },
     {
       "ID": "Dont_Need_These",
@@ -12055,7 +12060,7 @@
       "Name": "Legions",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 6632
+      "UsersEstimate": 6633
     },
     {
       "ID": "Liability",
@@ -12103,7 +12108,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6377
+      "UsersEstimate": 6378
     },
     {
       "ID": "Reckless",
@@ -12135,7 +12140,7 @@
       "Name": "Right back at ya",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 6632
+      "UsersEstimate": 6633
     },
     {
       "ID": "Rivalry",
@@ -12151,7 +12156,7 @@
       "Name": "Seasoned",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 4081
+      "UsersEstimate": 4082
     },
     {
       "ID": "Side_Hustle",
@@ -12159,7 +12164,7 @@
       "Name": "Side Hustle",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 6887
+      "UsersEstimate": 6888
     },
     {
       "ID": "Skilled",
@@ -12183,7 +12188,7 @@
       "Name": "Stunner",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6377
+      "UsersEstimate": 6378
     },
     {
       "ID": "Stylish",
@@ -12191,7 +12196,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 21938
+      "UsersEstimate": 21939
     },
     {
       "ID": "Summoner",
@@ -12199,7 +12204,7 @@
       "Name": "Summoner",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 6887
+      "UsersEstimate": 6888
     },
     {
       "ID": "Surprise",
@@ -12271,7 +12276,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 12244
+      "UsersEstimate": 12245
     },
     {
       "ID": "Welcome_Crew",
@@ -12294,7 +12299,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25509,
+      "Progressed": 25510,
       "Completed": 54
     }
   ],
@@ -12302,8 +12307,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-02T16:58:45.1721979+00:00",
-  "LastChanged_Achievements": "2023-09-02T18:06:23.786545+00:00",
+  "LastChanged_Achievements": "2023-09-02T19:06:17.5359923+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:35.9780444+00:00",
-  "LastUpdate_Ratings": "2023-09-02T17:59:44.5639655+00:00",
-  "LastUpdate_Achievements": "2023-09-02T18:06:23.7866705+00:00"
+  "LastUpdate_Ratings": "2023-09-02T18:59:30.0918124+00:00",
+  "LastUpdate_Achievements": "2023-09-02T19:06:17.5361369+00:00"
 }

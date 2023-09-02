@@ -4,7 +4,7 @@
   "ProductSlug": "zzt",
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 61,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2023-03-31T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3149,
+  "EOS_Progressed": 3151,
   "EOS_Completed": 126,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 4,
   "EosHistory": [
@@ -4371,6 +4371,11 @@
       "Time": "2023-09-02T13:06:23.6311215+00:00",
       "NumProgressed": 3149,
       "NumCompleted": 126
+    },
+    {
+      "Time": "2023-09-02T19:05:23.8486288+00:00",
+      "NumProgressed": 3151,
+      "NumCompleted": 126
     }
   ],
   "TotalAchievements": 5,
@@ -4382,7 +4387,7 @@
       "Name": "Potomac Computer Systems",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 3149
+      "UsersEstimate": 3151
     },
     {
       "ID": "2",
@@ -4398,7 +4403,7 @@
       "Name": "Explorer",
       "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "4",
@@ -4421,7 +4426,7 @@
     {
       "ID": "dm385hd",
       "IsBase": true,
-      "Progressed": 3149,
+      "Progressed": 3151,
       "Completed": 126
     }
   ],
@@ -4429,8 +4434,8 @@
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
-  "LastChanged_Achievements": "2023-09-02T18:05:29.9533718+00:00",
+  "LastChanged_Achievements": "2023-09-02T19:05:23.8486281+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:20.0493235+00:00",
-  "LastUpdate_Ratings": "2023-09-02T17:58:29.2558426+00:00",
-  "LastUpdate_Achievements": "2023-09-02T18:05:29.9534123+00:00"
+  "LastUpdate_Ratings": "2023-09-02T18:58:13.5314391+00:00",
+  "LastUpdate_Achievements": "2023-09-02T19:05:23.8486696+00:00"
 }

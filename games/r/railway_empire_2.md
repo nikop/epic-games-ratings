@@ -24,8 +24,8 @@ Rating: 4.47 (Ranked 616)
 | Bridge Builder | 41.00% | ~763 |
 | Access granted | 35.00% | ~651 |
 | Going once, going twice, sold | 35.00% | ~651 |
+| Bull and bear | 34.00% | ~632 |
 | Stoker | 33.00% | ~614 |
-| Bull and bear | 33.00% | ~614 |
 | Full Steam ahead | 32.00% | ~595 |
 | Financial Shark | 31.00% | ~577 |
 | All mine | 30.00% | ~558 |

@@ -5444,9 +5444,9 @@
       "ID": "dragonslayer",
       "SetID": "3nl4bcg",
       "Name": "Dragon Slayer",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 151
     },
     {
       "ID": "ebonyjungleliberator",
@@ -5933,8 +5933,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-09-02T05:57:31.8632938+00:00",
-  "LastChanged_Achievements": "2023-09-02T18:03:46.6709681+00:00",
+  "LastChanged_Achievements": "2023-09-02T19:03:42.2832753+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:31.485527+00:00",
-  "LastUpdate_Ratings": "2023-09-02T17:58:38.6380694+00:00",
-  "LastUpdate_Achievements": "2023-09-02T18:03:46.671161+00:00"
+  "LastUpdate_Ratings": "2023-09-02T18:58:23.0875633+00:00",
+  "LastUpdate_Achievements": "2023-09-02T19:03:42.2834374+00:00"
 }

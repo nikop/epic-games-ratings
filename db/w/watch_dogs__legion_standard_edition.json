@@ -4,10 +4,10 @@
   "ProductSlug": "watch-dogs-legion",
   "Ranking_Rating": 745,
   "Ranking_Popularity": 325,
-  "Ranking_PopularitySum": 258,
+  "Ranking_PopularitySum": 257,
   "Ranking_EOS_Progress": 571,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewPlayers": 349,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2020-10-29T15:00:00+00:00",
@@ -2564,10 +2564,16 @@
       "Rating": 4.36,
       "NumberOfAwards": 845,
       "NumberOfAwardsMax": 113
+    },
+    {
+      "Time": "2023-09-02T18:59:04.70195+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 848,
+      "NumberOfAwardsMax": 113
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 845,
+  "NumberOfAwards": 848,
   "NumberOfAwardsMax": 113,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -2587,7 +2593,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 108
+      "Count": 109
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2605,7 +2611,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 86
+      "Count": 87
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2617,7 +2623,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 100
+      "Count": 101
     },
     {
       "Text": "This game is Relaxing",
@@ -2643,8 +2649,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:59.5198477+00:00",
-  "LastChanged": "2023-09-01T02:58:00.330728+00:00",
+  "LastChanged": "2023-09-02T18:59:04.7019498+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:11.6560386+00:00",
-  "LastUpdate_Ratings": "2023-09-02T17:59:20.7182866+00:00",
-  "LastUpdate_Achievements": "2023-09-02T18:09:12.8372507+00:00"
+  "LastUpdate_Ratings": "2023-09-02T18:59:04.7019504+00:00",
+  "LastUpdate_Achievements": "2023-09-02T19:09:06.3669059+00:00"
 }

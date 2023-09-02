@@ -4,7 +4,7 @@
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
   "Ranking_EOS_Progress": 387,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -385,9 +385,9 @@
       "ID": "SG_MYTIMETOSHINE",
       "SetID": "bj5g0n4",
       "Name": "My Time To Shine",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SG_NOTALOSTGIRL",
@@ -544,8 +544,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-09-02T18:07:48.9797967+00:00",
+  "LastChanged_Achievements": "2023-09-02T19:07:41.7832557+00:00",
   "LastUpdate_AppInfo": "2023-08-31T08:57:14.3102562+00:00",
-  "LastUpdate_Ratings": "2023-09-02T18:01:35.1773997+00:00",
-  "LastUpdate_Achievements": "2023-09-02T18:07:48.9798332+00:00"
+  "LastUpdate_Ratings": "2023-09-02T19:01:18.1235499+00:00",
+  "LastUpdate_Achievements": "2023-09-02T19:07:41.7833194+00:00"
 }

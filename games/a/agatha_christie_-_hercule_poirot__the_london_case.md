@@ -13,13 +13,13 @@
 | The Gala | 29.00% | ~2 |
 | Little grey cells | 14.00% | ~1 |
 | Everything matters | 14.00% | ~1 |
+| Order and method | 14.00% | ~1 |
 | Impossible is possible | 14.00% | ~1 |
 | Arthur Hastings | 14.00% | ~1 |
 | The Denouement | 0.00% | ~0 |
 | Well-travelled | 0.00% | ~0 |
 | Well-acquainted | 0.00% | ~0 |
 | Truth from within | 0.00% | ~0 |
-| Order and method | 0.00% | ~0 |
 | A treasured heirloom | 0.00% | ~0 |
 | An expert mediator | 0.00% | ~0 |
 | An odd series of events | 0.00% | ~0 |

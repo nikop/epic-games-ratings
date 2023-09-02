@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 141,
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 78,
+  "Ranking_EOS_NewPlayers": 80,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-05-19T15:00:00+00:00",
@@ -2134,9 +2134,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 39033,
+  "EOS_Progressed": 39034,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 524,
+  "EOS_NewPlayers": 520,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -16674,6 +16674,11 @@
       "Time": "2023-09-02T18:07:01.67859+00:00",
       "NumProgressed": 39033,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-09-02T19:06:55.3921676+00:00",
+      "NumProgressed": 39034,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 75,
@@ -16749,7 +16754,7 @@
       "Name": "Bane of Monsters",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 10929
+      "UsersEstimate": 10930
     },
     {
       "ID": "achievements_2",
@@ -16797,7 +16802,7 @@
       "Name": "Chainbreaker - II",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 21468
+      "UsersEstimate": 21469
     },
     {
       "ID": "achievements_25",
@@ -16805,7 +16810,7 @@
       "Name": "Chainbreaker - III",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 10929
+      "UsersEstimate": 10930
     },
     {
       "ID": "achievements_26",
@@ -16853,7 +16858,7 @@
       "Name": "Bane of Mercenaries - II",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 12100
+      "UsersEstimate": 12101
     },
     {
       "ID": "achievements_31",
@@ -16869,7 +16874,7 @@
       "Name": "Cannon Fodder - I",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 13271
+      "UsersEstimate": 13272
     },
     {
       "ID": "achievements_33",
@@ -16989,7 +16994,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 33178
+      "UsersEstimate": 33179
     },
     {
       "ID": "achievements_47",
@@ -17061,7 +17066,7 @@
       "Name": "Distillation",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 16784
+      "UsersEstimate": 16785
     },
     {
       "ID": "achievements_55",
@@ -17109,7 +17114,7 @@
       "Name": "Soul of Lies",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 13271
+      "UsersEstimate": 13272
     },
     {
       "ID": "achievements_61",
@@ -17261,7 +17266,7 @@
       "Name": "Blood Moon",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 28494
+      "UsersEstimate": 28495
     },
     {
       "ID": "achievements_8",
@@ -17284,15 +17289,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 39033,
+      "Progressed": 39034,
       "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-09-02T05:58:02.3907467+00:00",
-  "LastChanged_Achievements": "2023-09-02T18:07:01.6785895+00:00",
+  "LastChanged_Achievements": "2023-09-02T19:06:55.3921669+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:17.8563975+00:00",
-  "LastUpdate_Ratings": "2023-09-02T17:59:27.417804+00:00",
-  "LastUpdate_Achievements": "2023-09-02T18:07:01.6788042+00:00"
+  "LastUpdate_Ratings": "2023-09-02T18:59:11.6255303+00:00",
+  "LastUpdate_Achievements": "2023-09-02T19:06:55.3923333+00:00"
 }

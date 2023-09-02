@@ -503,9 +503,9 @@
       "ID": "killGoldSkeleton1",
       "SetID": "ci65fo0",
       "Name": "The First Golden Skeleton",
-      "Percentage": 62,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "killGoldSkeleton10",
@@ -980,8 +980,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-09-02T18:06:59.2653446+00:00",
+  "LastChanged_Achievements": "2023-09-02T19:06:53.132905+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:06.5858382+00:00",
-  "LastUpdate_Ratings": "2023-09-02T18:02:27.9498996+00:00",
-  "LastUpdate_Achievements": "2023-09-02T18:06:59.2654437+00:00"
+  "LastUpdate_Ratings": "2023-09-02T19:02:13.5072211+00:00",
+  "LastUpdate_Achievements": "2023-09-02T19:06:53.1329869+00:00"
 }

@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sorry, kiddo | 96.00% | ~199 |
-| And away we go! | 89.00% | ~184 |
-| Job one. DONE! | 62.00% | ~128 |
-| You are Carol Vorderman | 59.00% | ~122 |
+| Sorry, kiddo | 96.00% | ~200 |
+| And away we go! | 89.00% | ~185 |
+| Job one. DONE! | 62.00% | ~129 |
+| You are Carol Vorderman | 59.00% | ~123 |
 | Toby foolery | 52.00% | ~108 |
-| Don't fear the baldness | 41.00% | ~85 |
+| Don't fear the baldness | 40.00% | ~83 |
 | Instinct | 39.00% | ~81 |
 | Blow | 36.00% | ~75 |
-| Just like me | 33.00% | ~68 |
-| I bless the rain down in London | 32.00% | ~66 |
+| Just like me | 33.00% | ~69 |
+| I bless the rain down in London | 32.00% | ~67 |
 | Brown nosing | 29.00% | ~60 |
-| Cheat | 29.00% | ~60 |
 | Delusions | 29.00% | ~60 |
+| Cheat | 28.00% | ~58 |
 | Prove it | 27.00% | ~56 |
 | The truth | 27.00% | ~56 |
-| Making a murderer | 19.00% | ~39 |
+| Making a murderer | 19.00% | ~40 |
 | The whole truth | 16.00% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 207 (Ranked 301)  
-Completed: 23 (11.11%) (Ranked 23)  
+Progressed: 208 (Ranked 301)  
+Completed: 23 (11.06%) (Ranked 25)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -74,6 +74,7 @@ Completed: 23 (11.11%) (Ranked 23)
 | 2023-08-15 | 205 | 23 |
 | 2023-08-16 | 206 | 23 |
 | 2023-08-27 | 207 | 23 |
+| 2023-09-02 | 208 | 23 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

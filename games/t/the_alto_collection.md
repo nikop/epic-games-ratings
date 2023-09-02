@@ -6,18 +6,18 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 26.00% | ~9,833 |
-| Finding Your Footing | 26.00% | ~9,833 |
-| Nomad | 18.00% | ~6,808 |
-| Picking Up Speed | 16.00% | ~6,051 |
-| Welcome Maya | 15.00% | ~5,673 |
-| Scout | 11.00% | ~4,160 |
-| Sightseer | 11.00% | ~4,160 |
+| Rookie | 26.00% | ~9,835 |
+| Finding Your Footing | 26.00% | ~9,835 |
+| Nomad | 18.00% | ~6,809 |
+| Picking Up Speed | 16.00% | ~6,052 |
+| Welcome Maya | 15.00% | ~5,674 |
+| Scout | 11.00% | ~4,161 |
+| Sightseer | 11.00% | ~4,161 |
 | Amateur | 9.00% | ~3,404 |
 | Unlock Maya | 8.00% | ~3,026 |
 | Enter Paz | 8.00% | ~3,026 |
 | Wanderer | 8.00% | ~3,026 |
-| Aviator | 6.00% | ~2,269 |
+| Aviator | 6.00% | ~2,270 |
 | My Little Friend | 5.00% | ~1,891 |
 | One With The Board | 5.00% | ~1,891 |
 | Voyager | 5.00% | ~1,891 |
@@ -27,11 +27,11 @@ Number of Ratings: 332  (23.09.2022)
 | Journeyer | 3.00% | ~1,135 |
 | Unlock Paz | 3.00% | ~1,135 |
 | Sandboarder | 3.00% | ~1,135 |
-| Explorer | 2.00% | ~756 |
-| Pro | 2.00% | ~756 |
-| Unlock Izel | 2.00% | ~756 |
-| Human Flight | 2.00% | ~756 |
-| Here Comes Felipe | 2.00% | ~756 |
+| Explorer | 2.00% | ~757 |
+| Pro | 2.00% | ~757 |
+| Unlock Izel | 2.00% | ~757 |
+| Human Flight | 2.00% | ~757 |
+| Here Comes Felipe | 2.00% | ~757 |
 | Hoist the Mainsail | 1.00% | ~378 |
 | Introducing Sumara | 1.00% | ~378 |
 | Vandal | 1.00% | ~378 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~38 |
 | Windswept | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37,821 (Ranked 97)  
+Progressed: 37,826 (Ranked 97)  
 Completed: 5 (0.01%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 5 (0.01%) (Ranked 257)
 | 2023-08-30 | 37,502 | 5 |
 | 2023-08-31 | 37,608 | 5 |
 | 2023-09-01 | 37,721 | 5 |
-| 2023-09-02 | 37,821 | 5 |
+| 2023-09-02 | 37,826 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 47  (Ranked 409)  
 Sum: 360 (Ranked 329)  

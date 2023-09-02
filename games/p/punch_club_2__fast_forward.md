@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Such a strange dream… | 88.00% | ~267 |
+| Such a strange dream… | 88.00% | ~268 |
 | Good Person Chip | 86.00% | ~261 |
 | Your first fight | 86.00% | ~261 |
 | First winning | 84.00% | ~255 |
-| Your first job | 83.00% | ~251 |
-| Old movies enjoyer | 80.00% | ~242 |
-| Fitness professional | 79.00% | ~239 |
-| Depressed visitor | 78.00% | ~236 |
-| Neurotrainer – power gainer! | 77.00% | ~233 |
-| Employee of the week | 77.00% | ~233 |
-| Your own amateur gym | 75.00% | ~227 |
-| First defeat | 73.00% | ~221 |
-| Run K, run! | 73.00% | ~221 |
-| Fighting is cool | 69.00% | ~209 |
-| Hello, world! | 69.00% | ~209 |
-| No bullying more | 68.00% | ~206 |
-| Pal of your father? | 66.00% | ~200 |
-| Spirit of the past | 64.00% | ~194 |
-| Employee of the month | 64.00% | ~194 |
+| Your first job | 83.00% | ~252 |
+| Old movies enjoyer | 80.00% | ~243 |
+| Fitness professional | 78.00% | ~237 |
+| Depressed visitor | 78.00% | ~237 |
+| Neurotrainer – power gainer! | 76.00% | ~231 |
+| Employee of the week | 76.00% | ~231 |
+| Your own amateur gym | 74.00% | ~225 |
+| First defeat | 73.00% | ~222 |
+| Run K, run! | 72.00% | ~219 |
+| Fighting is cool | 69.00% | ~210 |
+| Hello, world! | 69.00% | ~210 |
+| No bullying more | 68.00% | ~207 |
+| Pal of your father? | 66.00% | ~201 |
+| Employee of the month | 64.00% | ~195 |
+| Spirit of the past | 63.00% | ~192 |
 | Law student | 62.00% | ~188 |
 | Workout professional | 61.00% | ~185 |
 | Handyman | 60.00% | ~182 |
@@ -37,42 +37,42 @@
 | Extreme neuropower! | 54.00% | ~164 |
 | Escaped from a big trouble | 51.00% | ~155 |
 | Now you are worthy | 50.00% | ~152 |
-| Fight is life | 46.00% | ~139 |
-| Guiding on the right path | 46.00% | ~139 |
-| Mysterious voice | 45.00% | ~136 |
-| No blades in the gym | 44.00% | ~133 |
-| Champion – no way back | 42.00% | ~127 |
-| Underground dwellers | 40.00% | ~121 |
-| Responsible approach | 40.00% | ~121 |
-| Deal with life | 39.00% | ~118 |
-| Mom got better | 38.00% | ~115 |
-| GYM professional | 38.00% | ~115 |
-| Poisoned fighter | 38.00% | ~115 |
-| Get out of my apartment! | 38.00% | ~115 |
-| The die is cast | 38.00% | ~115 |
-| Your own way | 38.00% | ~115 |
+| Fight is life | 46.00% | ~140 |
+| Guiding on the right path | 46.00% | ~140 |
+| Mysterious voice | 45.00% | ~137 |
+| No blades in the gym | 44.00% | ~134 |
+| Champion – no way back | 42.00% | ~128 |
+| Underground dwellers | 40.00% | ~122 |
+| Responsible approach | 40.00% | ~122 |
+| Deal with life | 39.00% | ~119 |
+| Mom got better | 38.00% | ~116 |
+| GYM professional | 38.00% | ~116 |
+| Poisoned fighter | 38.00% | ~116 |
+| Get out of my apartment! | 38.00% | ~116 |
+| The die is cast | 38.00% | ~116 |
+| Your own way | 38.00% | ~116 |
 | Seashell hunter | 36.00% | ~109 |
 | Gang wrangler | 35.00% | ~106 |
 | Problems of cyborgs | 34.00% | ~103 |
 | Undercover robot | 34.00% | ~103 |
+| Not little hacker | 32.00% | ~97 |
 | Absolute Champion! | 32.00% | ~97 |
 | Careerist | 32.00% | ~97 |
 | Anyone can resist | 32.00% | ~97 |
 | Trap disarmed | 31.00% | ~94 |
-| Not little hacker | 31.00% | ~94 |
+| Keep nature safe | 31.00% | ~94 |
 | Another world | 30.00% | ~91 |
 | The lonesome road | 30.00% | ~91 |
-| Keep nature safe | 30.00% | ~91 |
 | Family comes first | 30.00% | ~91 |
 | Key memories | 30.00% | ~91 |
 | The last bell ring | 30.00% | ~91 |
 | The heart of the Resistance | 30.00% | ~91 |
 | Silver’s past | 27.00% | ~82 |
 | Better cooking at home | 27.00% | ~82 |
-| The only right decision | 26.00% | ~79 |
+| The only right decision | 27.00% | ~82 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 303 (Ranked 273)  
-Completed: 8 (2.64%) (Ranked 81)  
+Progressed: 304 (Ranked 273)  
+Completed: 8 (2.63%) (Ranked 81)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -120,4 +120,4 @@ Completed: 8 (2.64%) (Ranked 81)
 | 2023-08-30 | 289 | 8 |
 | 2023-08-31 | 298 | 8 |
 | 2023-09-01 | 301 | 8 |
-| 2023-09-02 | 303 | 8 |
+| 2023-09-02 | 304 | 8 |

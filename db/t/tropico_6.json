@@ -1080,9 +1080,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 4955,
+  "EOS_Progressed": 4956,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8955,6 +8955,11 @@
       "Time": "2023-09-02T16:06:00.5739817+00:00",
       "NumProgressed": 4955,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-02T19:06:18.025945+00:00",
+      "NumProgressed": 4956,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -9070,7 +9075,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 842
+      "UsersEstimate": 843
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -9126,7 +9131,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 3766
+      "UsersEstimate": 3767
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -9150,7 +9155,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 941
+      "UsersEstimate": 942
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -9238,7 +9243,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1833
+      "UsersEstimate": 1834
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -9285,15 +9290,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 4955,
+      "Progressed": 4956,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-09-02T17:00:04.2747722+00:00",
-  "LastChanged_Achievements": "2023-09-02T18:06:24.3071347+00:00",
+  "LastChanged_Achievements": "2023-09-02T19:06:18.0259443+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:55.8221856+00:00",
-  "LastUpdate_Ratings": "2023-09-02T18:01:41.8515044+00:00",
-  "LastUpdate_Achievements": "2023-09-02T18:06:24.3072272+00:00"
+  "LastUpdate_Ratings": "2023-09-02T19:01:25.0625521+00:00",
+  "LastUpdate_Achievements": "2023-09-02T19:06:18.0260488+00:00"
 }

@@ -3,7 +3,7 @@
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
   "Ranking_Rating": 504,
-  "Ranking_Popularity": 61,
+  "Ranking_Popularity": 60,
   "Ranking_PopularitySum": 95,
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 177,
@@ -4114,18 +4114,24 @@
       "Rating": 4.54,
       "NumberOfAwards": 8624,
       "NumberOfAwardsMax": 5846
+    },
+    {
+      "Time": "2023-09-02T18:58:57.8317427+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 8645,
+      "NumberOfAwardsMax": 5867
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8624,
-  "NumberOfAwardsMax": 5846,
+  "NumberOfAwards": 8645,
+  "NumberOfAwardsMax": 5867,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 5846
+      "Count": 5867
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4176,9 +4182,9 @@
       "Count": 334
     }
   ],
-  "EOS_Progressed": 671792,
-  "EOS_Completed": 2101,
-  "EOS_NewPlayers": 5791,
+  "EOS_Progressed": 671833,
+  "EOS_Completed": 2102,
+  "EOS_NewPlayers": 5784,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -19251,6 +19257,11 @@
       "Time": "2023-09-02T18:06:14.4257892+00:00",
       "NumProgressed": 671792,
       "NumCompleted": 2101
+    },
+    {
+      "Time": "2023-09-02T19:06:07.9002609+00:00",
+      "NumProgressed": 671833,
+      "NumCompleted": 2102
     }
   ],
   "TotalAchievements": 45,
@@ -19326,7 +19337,7 @@
       "Name": "Break A Leg",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5374
+      "UsersEstimate": 5375
     },
     {
       "ID": "ach_contender",
@@ -19348,9 +19359,9 @@
       "ID": "ach_doctor_i_am_butcho",
       "SetID": "7km39fm",
       "Name": "But Doctor, I am Butcho",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4031
+      "UsersEstimate": 4703
     },
     {
       "ID": "ach_doom_buddies",
@@ -19542,7 +19553,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5374
+      "UsersEstimate": 5375
     },
     {
       "ID": "ach_survival_expert",
@@ -19596,9 +19607,9 @@
       "ID": "ach_welcome_to_hell_a",
       "SetID": "7km39fm",
       "Name": "Welcome To Hell-A",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6046
+      "UsersEstimate": 6718
     },
     {
       "ID": "ach_well_known_survivor",
@@ -19621,16 +19632,16 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 671792,
-      "Completed": 2101
+      "Progressed": 671833,
+      "Completed": 2102
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-09-02T17:59:13.5759934+00:00",
-  "LastChanged_Achievements": "2023-09-02T18:06:14.4257887+00:00",
+  "LastChanged": "2023-09-02T18:58:57.8317425+00:00",
+  "LastChanged_Achievements": "2023-09-02T19:06:07.9002602+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:04.7021628+00:00",
-  "LastUpdate_Ratings": "2023-09-02T17:59:13.5759941+00:00",
-  "LastUpdate_Achievements": "2023-09-02T18:06:14.425944+00:00"
+  "LastUpdate_Ratings": "2023-09-02T18:58:57.8317432+00:00",
+  "LastUpdate_Achievements": "2023-09-02T19:06:07.900423+00:00"
 }

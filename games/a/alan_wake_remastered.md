@@ -6,18 +6,18 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 38.00% | ~23,627 |
+| Follow the Light | 38.00% | ~23,628 |
 | Let There Be Light | 31.00% | ~19,275 |
-| Float Like a Butterfly | 30.00% | ~18,653 |
-| Nordic Walking | 24.00% | ~14,922 |
-| Bright Falls' Finest | 24.00% | ~14,922 |
-| Under a Thin Layer of Skin | 21.00% | ~13,057 |
+| Float Like a Butterfly | 30.00% | ~18,654 |
+| Nordic Walking | 24.00% | ~14,923 |
+| Bright Falls' Finest | 24.00% | ~14,923 |
+| Under a Thin Layer of Skin | 21.00% | ~13,058 |
 | Park Ranger | 17.00% | ~10,570 |
 | Paging Mr. Wake | 17.00% | ~10,570 |
-| Back! Back, I Say! | 16.00% | ~9,948 |
-| Finders Keepers | 16.00% | ~9,948 |
-| Sound and Fury | 15.00% | ~9,326 |
-| Damn Good Cup of Coffee | 15.00% | ~9,326 |
+| Back! Back, I Say! | 16.00% | ~9,949 |
+| Finders Keepers | 16.00% | ~9,949 |
+| Sound and Fury | 15.00% | ~9,327 |
+| Damn Good Cup of Coffee | 15.00% | ~9,327 |
 | Wheels Within Wheels | 14.00% | ~8,705 |
 | They're Heeeeeere! | 14.00% | ~8,705 |
 | Missed by a Mile | 14.00% | ~8,705 |
@@ -27,17 +27,17 @@ Number of Ratings: 524  (23.09.2022)
 | Heavy Metal | 12.00% | ~7,461 |
 | Perchance to Dream | 12.00% | ~7,461 |
 | Come One, Come All | 12.00% | ~7,461 |
-| Gatekeeper | 11.00% | ~6,839 |
-| It's Not Just a Typewriter Brand | 11.00% | ~6,839 |
-| Thunder and Lightning | 11.00% | ~6,839 |
-| Two For the Price of One | 11.00% | ~6,839 |
+| Gatekeeper | 11.00% | ~6,840 |
+| It's Not Just a Typewriter Brand | 11.00% | ~6,840 |
+| Thunder and Lightning | 11.00% | ~6,840 |
+| Two For the Price of One | 11.00% | ~6,840 |
 | The Lady of the Light | 10.00% | ~6,218 |
 | Energized! | 10.00% | ~6,218 |
 | What Light Through Yonder Window | 9.00% | ~5,596 |
 | Right of Way | 9.00% | ~5,596 |
 | Tornado Wrangler | 8.00% | ~4,974 |
 | A Friend in Need | 8.00% | ~2,052 |
-| Departure | 7.00% | ~4,352 |
+| Departure | 7.00% | ~4,353 |
 | Drink 'Em Both Up | 6.00% | ~3,731 |
 | Hardboiled Writer | 6.00% | ~3,731 |
 | A Friend Indeed | 6.00% | ~1,539 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~62 |
 | No Punctuation | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,176 (Ranked 87)  
+Progressed: 62,179 (Ranked 87)  
 Completed: 65 (0.10%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 65 (0.10%) (Ranked 218)
 | 2023-08-30 | 62,006 | 65 |
 | 2023-08-31 | 62,064 | 65 |
 | 2023-09-01 | 62,124 | 65 |
-| 2023-09-02 | 62,176 | 65 |
+| 2023-09-02 | 62,179 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
