@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 639,
+  "EOS_Progressed": 640,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -2261,6 +2261,11 @@
       "Time": "2023-09-02T16:06:25.2347002+00:00",
       "NumProgressed": 639,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-02T18:06:49.7133174+00:00",
+      "NumProgressed": 640,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2288,7 +2293,7 @@
       "Name": "Basic Controls",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "BigPlane",
@@ -2312,7 +2317,7 @@
       "Name": "Calculated",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "Close",
@@ -2408,7 +2413,7 @@
       "Name": "Large Airport",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "LargeTerritories",
@@ -2440,7 +2445,7 @@
       "Name": "Long Distances",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ManagementMaster",
@@ -2472,7 +2477,7 @@
       "Name": "New Record",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "NoTimeForModernization",
@@ -2496,7 +2501,7 @@
       "Name": "This Wasn\u0027t Part of the Plan...",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "Ownway",
@@ -2607,14 +2612,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 639,
+      "Progressed": 640,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-09-02T17:05:41.0356375+00:00",
+  "LastChanged_Achievements": "2023-09-02T18:06:49.7133167+00:00",
   "LastUpdate_AppInfo": "2023-08-29T11:57:10.9614599+00:00",
-  "LastUpdate_Ratings": "2023-09-02T17:00:38.0737303+00:00",
-  "LastUpdate_Achievements": "2023-09-02T17:05:41.0356858+00:00"
+  "LastUpdate_Ratings": "2023-09-02T18:02:31.3502501+00:00",
+  "LastUpdate_Achievements": "2023-09-02T18:06:49.7134139+00:00"
 }

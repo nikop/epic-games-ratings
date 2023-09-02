@@ -2,7 +2,7 @@
   "ID": "f76d927e6a344026a1cdd6b44b52c055",
   "Name": "The Riflemen",
   "ProductSlug": "the-riflemen-8be608",
-  "Ranking_EOS_Progress": 197,
+  "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 1,
   "Ranking_EOS_NewPlayers": 51,
   "Ranking_EOS_NewCompleters": 1,
@@ -19,10 +19,10 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1136,
-  "EOS_Completed": 1136,
-  "EOS_NewPlayers": 1092,
-  "EOS_NewCompleters": 1092,
+  "EOS_Progressed": 1198,
+  "EOS_Completed": 1198,
+  "EOS_NewPlayers": 1154,
+  "EOS_NewCompleters": 1154,
   "EOS_Completed_Percentage": 100,
   "EosHistory": [
     {
@@ -439,6 +439,11 @@
       "Time": "2023-09-02T17:04:07.1046065+00:00",
       "NumProgressed": 1136,
       "NumCompleted": 1136
+    },
+    {
+      "Time": "2023-09-02T18:04:39.4446207+00:00",
+      "NumProgressed": 1198,
+      "NumCompleted": 1198
     }
   ],
   "TotalAchievements": 0,
@@ -448,13 +453,13 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 1136,
-      "Completed": 1136
+      "Progressed": 1198,
+      "Completed": 1198
     }
   ],
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
-  "LastChanged_Achievements": "2023-09-02T17:04:07.104606+00:00",
+  "LastChanged_Achievements": "2023-09-02T18:04:39.4446202+00:00",
   "LastUpdate_AppInfo": "2023-09-02T06:57:17.5536613+00:00",
-  "LastUpdate_Ratings": "2023-09-02T17:00:30.0969925+00:00",
-  "LastUpdate_Achievements": "2023-09-02T17:04:07.1046135+00:00"
+  "LastUpdate_Ratings": "2023-09-02T18:02:19.3156599+00:00",
+  "LastUpdate_Achievements": "2023-09-02T18:04:39.4446281+00:00"
 }

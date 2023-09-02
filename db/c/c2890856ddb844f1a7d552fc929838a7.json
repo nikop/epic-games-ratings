@@ -48,7 +48,7 @@
   "Tags": [],
   "EOS_Progressed": 646,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 236,
+  "EOS_NewPlayers": 230,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -979,9 +979,9 @@
       "ID": "AC06",
       "SetID": "l4abp0",
       "Name": "The Last Ascension",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 297
+      "UsersEstimate": 304
     },
     {
       "ID": "AC07",
@@ -1003,9 +1003,9 @@
       "ID": "AC09",
       "SetID": "l4abp0",
       "Name": "Fermosa Fembra",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 233
+      "UsersEstimate": 239
     },
     {
       "ID": "AC10",
@@ -1035,17 +1035,17 @@
       "ID": "AC13",
       "SetID": "l4abp0",
       "Name": "Second Psalm.",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 129
+      "UsersEstimate": 136
     },
     {
       "ID": "AC14",
       "SetID": "l4abp0",
       "Name": "Acta, Non Verba",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 90
     },
     {
       "ID": "AC15",
@@ -1075,9 +1075,9 @@
       "ID": "AC18",
       "SetID": "l4abp0",
       "Name": "Acquired Taste",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 207
+      "UsersEstimate": 213
     },
     {
       "ID": "AC19",
@@ -1131,17 +1131,17 @@
       "ID": "AC25",
       "SetID": "l4abp0",
       "Name": "House of Grief and Hatred",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 207
+      "UsersEstimate": 213
     },
     {
       "ID": "AC26",
       "SetID": "l4abp0",
       "Name": "A Leap of Faith",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 149
+      "UsersEstimate": 155
     },
     {
       "ID": "AC27",
@@ -1163,9 +1163,9 @@
       "ID": "AC29",
       "SetID": "l4abp0",
       "Name": "The Veteran One",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 162
     },
     {
       "ID": "AC30",
@@ -1251,9 +1251,9 @@
       "ID": "AC40",
       "SetID": "l4abp0",
       "Name": "Welcome Back!",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 517
+      "UsersEstimate": 523
     },
     {
       "ID": "AC41",
@@ -1308,8 +1308,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-02T10:03:53.5800972+00:00",
-  "LastChanged_Achievements": "2023-09-02T17:06:41.2878691+00:00",
+  "LastChanged_Achievements": "2023-09-02T18:08:12.5903381+00:00",
   "LastUpdate_AppInfo": "2023-08-29T18:57:21.35462+00:00",
-  "LastUpdate_Ratings": "2023-09-02T17:00:20.7769866+00:00",
-  "LastUpdate_Achievements": "2023-09-02T17:06:41.287917+00:00"
+  "LastUpdate_Ratings": "2023-09-02T18:02:04.697104+00:00",
+  "LastUpdate_Achievements": "2023-09-02T18:08:12.5903853+00:00"
 }

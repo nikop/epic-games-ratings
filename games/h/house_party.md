@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | Simple Geometry | 0.10% | ~6 |
 | D-Club Certified | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,121 (Ranked 140)  
+Progressed: 6,122 (Ranked 140)  
 Completed: 3 (0.05%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,6 +210,7 @@ Completed: 3 (0.05%) (Ranked 237)
 | 2023-08-30 | 6,116 | 3 |
 | 2023-08-31 | 6,120 | 3 |
 | 2023-09-01 | 6,121 | 3 |
+| 2023-09-02 | 6,122 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

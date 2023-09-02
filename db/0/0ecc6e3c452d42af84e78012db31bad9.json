@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2770,
+  "EOS_Progressed": 2772,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -5561,6 +5561,11 @@
       "Time": "2023-09-02T16:04:44.0949875+00:00",
       "NumProgressed": 2770,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-09-02T18:05:05.2932946+00:00",
+      "NumProgressed": 2772,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 16,
@@ -5604,7 +5609,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 2105
+      "UsersEstimate": 2107
     },
     {
       "ID": "ach_architecture_completed",
@@ -5620,7 +5625,7 @@
       "Name": "Architecture - unlocked",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "ach_bomb",
@@ -5644,7 +5649,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 2244
+      "UsersEstimate": 2245
     },
     {
       "ID": "ach_food_completed",
@@ -5660,7 +5665,7 @@
       "Name": "Food - unlocked",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 969
+      "UsersEstimate": 970
     },
     {
       "ID": "ach_game_opened",
@@ -5668,7 +5673,7 @@
       "Name": "Game opened",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 2050
+      "UsersEstimate": 2051
     },
     {
       "ID": "ach_magic_wand",
@@ -5676,7 +5681,7 @@
       "Name": "Magic time",
       "Percentage": 29,
       "XP": 65,
-      "UsersEstimate": 803
+      "UsersEstimate": 804
     },
     {
       "ID": "ach_no_boosters",
@@ -5699,14 +5704,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 2770,
+      "Progressed": 2772,
       "Completed": 16
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-09-02T17:04:24.9925031+00:00",
+  "LastChanged_Achievements": "2023-09-02T18:05:05.293294+00:00",
   "LastUpdate_AppInfo": "2023-09-01T13:01:22.2912028+00:00",
-  "LastUpdate_Ratings": "2023-09-02T17:00:40.4066224+00:00",
-  "LastUpdate_Achievements": "2023-09-02T17:04:24.9925483+00:00"
+  "LastUpdate_Ratings": "2023-09-02T18:02:34.819706+00:00",
+  "LastUpdate_Achievements": "2023-09-02T18:05:05.2933491+00:00"
 }

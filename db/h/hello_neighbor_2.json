@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 61,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -390,9 +390,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2822,
+  "EOS_Progressed": 2823,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 4,
   "EosHistory": [
@@ -3030,6 +3030,11 @@
       "Time": "2023-09-02T16:05:24.389883+00:00",
       "NumProgressed": 2822,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-09-02T18:05:46.3154044+00:00",
+      "NumProgressed": 2823,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 14,
@@ -3041,7 +3046,7 @@
       "Name": "Ancient Curse",
       "Percentage": 29,
       "XP": 80,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "ACH_CASE_CLOSED",
@@ -3073,7 +3078,7 @@
       "Name": "Dog Person",
       "Percentage": 20,
       "XP": 80,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "ACH_EASY_AS_PIE",
@@ -3081,7 +3086,7 @@
       "Name": "Easy As Pie",
       "Percentage": 34,
       "XP": 55,
-      "UsersEstimate": 959
+      "UsersEstimate": 960
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -3089,7 +3094,7 @@
       "Name": "Family Lost",
       "Percentage": 33,
       "XP": 80,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -3113,7 +3118,7 @@
       "Name": "Mad Scientist",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "ACH_REUNION",
@@ -3129,7 +3134,7 @@
       "Name": "Shovel Night",
       "Percentage": 37,
       "XP": 55,
-      "UsersEstimate": 1044
+      "UsersEstimate": 1045
     },
     {
       "ID": "ACH_TREASURE_HUNT",
@@ -3152,7 +3157,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2822,
+      "Progressed": 2823,
       "Completed": 113
     }
   ],
@@ -3160,8 +3165,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-08-24T16:58:59.1002647+00:00",
-  "LastChanged_Achievements": "2023-09-02T17:04:55.0945086+00:00",
+  "LastChanged_Achievements": "2023-09-02T18:05:46.3154038+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:50.250711+00:00",
-  "LastUpdate_Ratings": "2023-09-02T16:59:59.1605884+00:00",
-  "LastUpdate_Achievements": "2023-09-02T17:04:55.0945355+00:00"
+  "LastUpdate_Ratings": "2023-09-02T18:01:33.8833667+00:00",
+  "LastUpdate_Achievements": "2023-09-02T18:05:46.3154381+00:00"
 }

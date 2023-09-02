@@ -10,7 +10,7 @@ Number of Ratings: 401  (23.09.2022)
 | Sweet Sorrow | 18.00% | ~6,595 |
 | Rules the Waves | 17.00% | ~6,229 |
 | Thou, All-Shaking Thunder | 15.00% | ~5,496 |
-| Rival | 14.00% | ~5,129 |
+| Rival | 14.00% | ~5,130 |
 | Correspondent | 12.00% | ~4,397 |
 | Lose Your Mind | 12.00% | ~4,397 |
 | Sound Mind? | 12.00% | ~4,397 |
@@ -34,6 +34,7 @@ Number of Ratings: 401  (23.09.2022)
 | A buoyant escape | 1.00% | ~366 |
 | Frightful, sheer, no-man-fathomed | 1.00% | ~366 |
 | The Bell Tolls | 1.00% | ~366 |
+| His bones in whispers | 1.00% | ~366 |
 | Thanks for all the fish | 1.00% | ~366 |
 | Knife, Cup and Bone | 1.00% | ~366 |
 | Those are pearls that were his eyes | 1.00% | ~366 |
@@ -41,7 +42,6 @@ Number of Ratings: 401  (23.09.2022)
 | Under the zee | 1.00% | ~366 |
 | A current under zee | 1.00% | ~366 |
 | Never Stop Sinking... | 0.90% | ~330 |
-| His bones in whispers | 0.90% | ~330 |
 | The beauty of the deep | 0.90% | ~330 |
 | The dragon in the zee | 0.90% | ~330 |
 | Leviathan | 0.90% | ~330 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~37 |
 | Ten Years at Zee | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36,639 (Ranked 98)  
+Progressed: 36,640 (Ranked 98)  
 Completed: 3 (0.01%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 3 (0.01%) (Ranked 257)
 | 2023-08-30 | 36,480 | 3 |
 | 2023-08-31 | 36,530 | 3 |
 | 2023-09-01 | 36,588 | 3 |
-| 2023-09-02 | 36,639 | 3 |
+| 2023-09-02 | 36,640 | 3 |
 ## Awards
 Max (Character Customization): 213  (Ranked 270)  
 Sum: 283 (Ranked 344)  

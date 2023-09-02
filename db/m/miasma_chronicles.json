@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -198,7 +198,7 @@
   "Tags": [],
   "EOS_Progressed": 1379,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3193,9 +3193,9 @@
       "ID": "PUSHING_DAISY",
       "SetID": "9a4jnji",
       "Name": "Pushing Daisy",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 441
+      "UsersEstimate": 455
     },
     {
       "ID": "QA_HAS_SUFFERED",
@@ -3322,8 +3322,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-08-24T13:04:37.3738417+00:00",
-  "LastChanged_Achievements": "2023-09-02T17:03:58.6347338+00:00",
+  "LastChanged_Achievements": "2023-09-02T18:04:27.1397449+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:54.3073965+00:00",
-  "LastUpdate_Ratings": "2023-09-02T16:58:15.3009683+00:00",
-  "LastUpdate_Achievements": "2023-09-02T17:03:58.6347944+00:00"
+  "LastUpdate_Ratings": "2023-09-02T17:59:01.8697036+00:00",
+  "LastUpdate_Achievements": "2023-09-02T18:04:27.1398155+00:00"
 }

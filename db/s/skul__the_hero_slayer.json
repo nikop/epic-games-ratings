@@ -4686,9 +4686,9 @@
       "ID": "StockManagement",
       "SetID": "97dk767",
       "Name": "Inventory Management",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2772
+      "UsersEstimate": 2854
     },
     {
       "ID": "TheLegendBegins",
@@ -4734,8 +4734,8 @@
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-08-23T17:02:24.1541742+00:00",
-  "LastChanged_Achievements": "2023-09-02T17:03:59.4930071+00:00",
+  "LastChanged_Achievements": "2023-09-02T18:04:28.0208878+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:03.9213001+00:00",
-  "LastUpdate_Ratings": "2023-09-02T16:58:22.0447652+00:00",
-  "LastUpdate_Achievements": "2023-09-02T17:03:59.4930412+00:00"
+  "LastUpdate_Ratings": "2023-09-02T17:59:12.7673491+00:00",
+  "LastUpdate_Achievements": "2023-09-02T18:04:28.0209257+00:00"
 }

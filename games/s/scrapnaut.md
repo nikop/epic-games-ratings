@@ -21,7 +21,7 @@ Number of Ratings: 38  (23.09.2022)
 | Lumberjack | 31.00% | ~111 |
 | Herbalist | 30.00% | ~108 |
 | Electro-Scrap Master | 26.00% | ~93 |
-| Prepper | 25.00% | ~90 |
+| Prepper | 26.00% | ~93 |
 | Robot Hunter | 22.00% | ~79 |
 | Advanced Survivalist | 21.00% | ~75 |
 | Master Of Technology | 18.00% | ~65 |

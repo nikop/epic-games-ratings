@@ -6,35 +6,35 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 27.00% | ~59,518 |
-| Alt+F4 | 4.00% | ~8,817 |
-| Déjà vu | 3.00% | ~6,613 |
-| Where's that freaking Dwarf? | 3.00% | ~6,613 |
+| Sowwy! | 27.00% | ~59,523 |
+| Alt+F4 | 4.00% | ~8,818 |
+| Déjà vu | 3.00% | ~6,614 |
+| Where's that freaking Dwarf? | 3.00% | ~6,614 |
 | A beer, two curses, three companions | 2.00% | ~4,409 |
 | Sock! SOCK! | 2.00% | ~4,409 |
 | GG EZ | 2.00% | ~4,409 |
 | DM intervention | 2.00% | ~4,409 |
 | Speedrun | 2.00% | ~4,409 |
 | Fireproof Wizardess | 2.00% | ~4,409 |
-| Livin' in a dwarven paradise | 1.00% | ~2,204 |
-| Way of the Wimp | 1.00% | ~2,204 |
-| The plot thickens... At the tavern | 1.00% | ~2,204 |
-| The demons' feast | 1.00% | ~2,204 |
-| The Great Library | 1.00% | ~2,204 |
-| Torture and Sensibility | 1.00% | ~2,204 |
-| The Woman in the High Castle | 1.00% | ~2,204 |
-| Team Building Exercise | 1.00% | ~2,204 |
-| Oh, when I'll be level 10... | 1.00% | ~2,204 |
+| Livin' in a dwarven paradise | 1.00% | ~2,205 |
+| Way of the Wimp | 1.00% | ~2,205 |
+| The plot thickens... At the tavern | 1.00% | ~2,205 |
+| The demons' feast | 1.00% | ~2,205 |
+| The Great Library | 1.00% | ~2,205 |
+| Torture and Sensibility | 1.00% | ~2,205 |
+| The Woman in the High Castle | 1.00% | ~2,205 |
+| Team Building Exercise | 1.00% | ~2,205 |
+| Oh, when I'll be level 10... | 1.00% | ~2,205 |
 | Urik's Depths | 0.90% | ~1,984 |
 | The Dungeon Master | 0.90% | ~1,984 |
 | The Statuette of Gladeulfeurah | 0.90% | ~1,984 |
 | A tale of adventurers not quite like the others... | 0.90% | ~1,984 |
 | I am the night | 0.90% | ~1,984 |
-| Shiny and Crôm | 0.80% | ~1,763 |
-| %#*!$*! | 0.80% | ~1,763 |
-| The beards of change | 0.80% | ~1,763 |
-| The Ranger of Chaos | 0.80% | ~1,763 |
-| Thieves' Guild Accreditation | 0.80% | ~1,763 |
+| Shiny and Crôm | 0.80% | ~1,764 |
+| %#*!$*! | 0.80% | ~1,764 |
+| The beards of change | 0.80% | ~1,764 |
+| The Ranger of Chaos | 0.80% | ~1,764 |
+| Thieves' Guild Accreditation | 0.80% | ~1,764 |
 | Res Judicata | 0.70% | ~1,543 |
 | The Famous Dungeon of Naheulbeuk | 0.70% | ~1,543 |
 | Dwarf Fortress | 0.70% | ~1,543 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~220 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,436 (Ranked 57)  
+Progressed: 220,456 (Ranked 57)  
 Completed: 2 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 2 (0.00%) (Ranked 271)
 | 2023-08-30 | 219,453 | 2 |
 | 2023-08-31 | 219,794 | 2 |
 | 2023-09-01 | 220,165 | 2 |
-| 2023-09-02 | 220,436 | 2 |
+| 2023-09-02 | 220,456 | 2 |
 ## Awards
 Max (Character Customization): 189  (Ranked 278)  
 Sum: 238 (Ranked 359)  

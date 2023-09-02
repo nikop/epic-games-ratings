@@ -60,13 +60,13 @@
 | Anyone can resist | 32.00% | ~97 |
 | Trap disarmed | 31.00% | ~94 |
 | Not little hacker | 31.00% | ~94 |
+| Another world | 30.00% | ~91 |
 | The lonesome road | 30.00% | ~91 |
 | Keep nature safe | 30.00% | ~91 |
 | Family comes first | 30.00% | ~91 |
 | Key memories | 30.00% | ~91 |
 | The last bell ring | 30.00% | ~91 |
 | The heart of the Resistance | 30.00% | ~91 |
-| Another world | 29.00% | ~88 |
 | Silver’s past | 27.00% | ~82 |
 | Better cooking at home | 27.00% | ~82 |
 | The only right decision | 26.00% | ~79 |

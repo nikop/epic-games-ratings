@@ -14,7 +14,7 @@ Number of Ratings: 546  (23.09.2022)
 | False Goddess, Disappear | 41.00% | ~3,343 |
 | Rules of Etiquette | 41.00% | ~3,343 |
 | Quick Movements | 35.00% | ~2,854 |
-| Inventory Management | 34.00% | ~2,772 |
+| Inventory Management | 35.00% | ~2,854 |
 | The Fall of the Leonia Order | 31.00% | ~2,527 |
 | The Hero Killer | 29.00% | ~2,364 |
 | Go Home... | 28.00% | ~2,283 |

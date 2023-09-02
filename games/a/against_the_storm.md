@@ -11,11 +11,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Scarlet Orchard | 5.00% | ~824 |
 | Taking Action | 5.00% | ~824 |
 | No Deaths | 5.00% | ~824 |
-| Overcoming Difficulty | 4.00% | ~659 |
-| Ancient Battleground | 4.00% | ~659 |
-| Fertile Meadows | 4.00% | ~659 |
-| Lost Colonies | 4.00% | ~659 |
-| Coral Forest | 4.00% | ~659 |
+| Overcoming Difficulty | 4.00% | ~660 |
+| Ancient Battleground | 4.00% | ~660 |
+| Fertile Meadows | 4.00% | ~660 |
+| Lost Colonies | 4.00% | ~660 |
+| Coral Forest | 4.00% | ~660 |
 | Homesick | 3.00% | ~495 |
 | Against All Odds | 3.00% | ~495 |
 | Bandit Camp | 3.00% | ~495 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.20% | ~33 |
 | Paradise | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,487 (Ranked 115)  
+Progressed: 16,489 (Ranked 116)  
 Completed: 47 (0.29%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 47 (0.29%) (Ranked 180)
 | 2023-08-30 | 16,455 | 47 |
 | 2023-08-31 | 16,466 | 47 |
 | 2023-09-01 | 16,478 | 47 |
-| 2023-09-02 | 16,487 | 47 |
+| 2023-09-02 | 16,489 | 47 |
 ## Awards
 Max (Quickly Understood Controls): 426  (Ranked 209)  
 Sum: 3,122 (Ranked 163)  

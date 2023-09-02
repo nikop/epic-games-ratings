@@ -9,21 +9,21 @@ Rating: 4.54 (Ranked 504)
 | Welcome To Hell-A | 0.90% | ~6,046 |
 | Break A Leg | 0.80% | ~5,374 |
 | Personal Assistant Personally Assisted | 0.80% | ~5,374 |
-| Dr. Reed, I Presume? | 0.70% | ~4,702 |
-| Git Gutte! | 0.70% | ~4,702 |
-| Coup de Grâce | 0.70% | ~4,702 |
-| Hazardous Materials | 0.70% | ~4,702 |
-| Friends Like These | 0.70% | ~4,702 |
-| Apex Predator | 0.70% | ~4,702 |
-| Stacking the Deck | 0.70% | ~4,702 |
-| Bookworm | 0.60% | ~4,030 |
-| But Doctor, I am Butcho | 0.60% | ~4,030 |
-| Slayer Squad | 0.60% | ~4,030 |
-| Can't Handle the Truth | 0.60% | ~4,030 |
-| Like Riding a Bike | 0.60% | ~4,030 |
-| Zombologist | 0.60% | ~4,030 |
-| A Patton Emerges | 0.60% | ~4,030 |
-| This is My Weapon | 0.60% | ~4,030 |
+| Dr. Reed, I Presume? | 0.70% | ~4,703 |
+| Git Gutte! | 0.70% | ~4,703 |
+| Coup de Grâce | 0.70% | ~4,703 |
+| Hazardous Materials | 0.70% | ~4,703 |
+| Friends Like These | 0.70% | ~4,703 |
+| Apex Predator | 0.70% | ~4,703 |
+| Stacking the Deck | 0.70% | ~4,703 |
+| Bookworm | 0.60% | ~4,031 |
+| But Doctor, I am Butcho | 0.60% | ~4,031 |
+| Slayer Squad | 0.60% | ~4,031 |
+| Can't Handle the Truth | 0.60% | ~4,031 |
+| Like Riding a Bike | 0.60% | ~4,031 |
+| Zombologist | 0.60% | ~4,031 |
+| A Patton Emerges | 0.60% | ~4,031 |
+| This is My Weapon | 0.60% | ~4,031 |
 | Anger Management | 0.50% | ~3,359 |
 | Perks of the Job | 0.50% | ~3,359 |
 | I Got a Zombie Army and You Can't Harm Me | 0.50% | ~3,359 |
@@ -36,13 +36,13 @@ Rating: 4.54 (Ranked 504)
 | Max Headroom | 0.40% | ~2,687 |
 | Go, Bobcats! | 0.30% | ~2,015 |
 | Rising Star | 0.30% | ~2,015 |
-| Make it So | 0.20% | ~1,343 |
-| On Safari | 0.20% | ~1,343 |
-| Smorgasbord | 0.20% | ~1,343 |
-| Not Even My Final Form | 0.20% | ~1,343 |
-| Internet Famous | 0.20% | ~1,343 |
-| Jumbo Keyring | 0.20% | ~1,343 |
-| Variety is the Spice of Death | 0.20% | ~1,343 |
+| Make it So | 0.20% | ~1,344 |
+| On Safari | 0.20% | ~1,344 |
+| Smorgasbord | 0.20% | ~1,344 |
+| Not Even My Final Form | 0.20% | ~1,344 |
+| Internet Famous | 0.20% | ~1,344 |
+| Jumbo Keyring | 0.20% | ~1,344 |
+| Variety is the Spice of Death | 0.20% | ~1,344 |
 | LA Influential | 0.10% | ~672 |
 | Donk! | 0.10% | ~672 |
 | Sole Survivor | 0.10% | ~672 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 504)
 | Survival Skills | 0.10% | ~672 |
 | Bucket List | 0.10% | ~672 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 671,736 (Ranked 22)  
+Progressed: 671,792 (Ranked 22)  
 Completed: 2,101 (0.31%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,11 +186,11 @@ Completed: 2,101 (0.31%) (Ranked 177)
 | 2023-08-30 | 669,636 | 2,094 |
 | 2023-08-31 | 670,394 | 2,097 |
 | 2023-09-01 | 671,108 | 2,097 |
-| 2023-09-02 | 671,736 | 2,101 |
+| 2023-09-02 | 671,792 | 2,101 |
 ## Awards
 Max (Great Boss Battles): 5,846  (Ranked 61)  
-Sum: 8,620 (Ranked 96)  
-Diff (max vs sum): -35  
+Sum: 8,624 (Ranked 95)  
+Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 5,846 |
@@ -199,7 +199,7 @@ Diff (max vs sum): -35
 | This game has Quickly Understood Controls | 382 |
 | This game is Relaxing | 360 |
 | This game has Amazing Storytelling | 334 |
-| This game is Extremely Fun | 313 |
+| This game is Extremely Fun | 317 |
 | This game has Amazing Characters | 307 |
 | This game is Highly Recommended | 305 |
 ## Ratings History
@@ -339,4 +339,4 @@ Diff (max vs sum): -35
 | 2023-08-30 | 4.54 | 5,822 | 8,570 |
 | 2023-08-31 | 4.54 | 5,841 | 8,595 |
 | 2023-09-01 | 4.54 | 5,846 | 8,613 |
-| 2023-09-02 | 4.54 | 5,846 | 8,620 |
+| 2023-09-02 | 4.54 | 5,846 | 8,624 |

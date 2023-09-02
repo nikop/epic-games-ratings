@@ -685,9 +685,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 36639,
+  "EOS_Progressed": 36640,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 402,
+  "EOS_NewPlayers": 401,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -14500,6 +14500,11 @@
       "Time": "2023-09-02T17:03:28.3800755+00:00",
       "NumProgressed": 36639,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-02T18:03:35.3711344+00:00",
+      "NumProgressed": 36640,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -14719,7 +14724,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 5129
+      "UsersEstimate": 5130
     },
     {
       "ID": "ach_legacysalvager",
@@ -14757,9 +14762,9 @@
       "ID": "ach_portbones",
       "SetID": "ammcm",
       "Name": "His bones in whispers",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 330
+      "UsersEstimate": 366
     },
     {
       "ID": "ach_portdeep",
@@ -14942,15 +14947,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 36639,
+      "Progressed": 36640,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-07-28T14:59:59.8138313+00:00",
-  "LastChanged_Achievements": "2023-09-02T17:03:28.3800748+00:00",
+  "LastChanged_Achievements": "2023-09-02T18:03:35.3711339+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:20.6698248+00:00",
-  "LastUpdate_Ratings": "2023-09-02T16:59:32.4607302+00:00",
-  "LastUpdate_Achievements": "2023-09-02T17:03:28.3802084+00:00"
+  "LastUpdate_Ratings": "2023-09-02T18:00:54.5283828+00:00",
+  "LastUpdate_Achievements": "2023-09-02T18:03:35.3712902+00:00"
 }

@@ -197,9 +197,9 @@
       "ID": "ACHIEVEMENT_Cassie_Death2_Failed",
       "SetID": "70j9o42",
       "Name": "No Such Thing As Bad Pizza",
-      "Percentage": 38,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_Dorian_Impress_D2",
@@ -460,8 +460,8 @@
   ],
   "FirstSeen": "2023-07-28T15:57:49.6060029+00:00",
   "FirstSeenAchievements": "2023-07-12T17:04:29.8033729+00:00",
-  "LastChanged_Achievements": "2023-09-02T17:03:44.9907548+00:00",
+  "LastChanged_Achievements": "2023-09-02T18:04:08.1858109+00:00",
   "LastUpdate_AppInfo": "2023-08-29T11:57:11.4827493+00:00",
-  "LastUpdate_Ratings": "2023-09-02T17:00:43.3433514+00:00",
-  "LastUpdate_Achievements": "2023-09-02T17:03:44.9907853+00:00"
+  "LastUpdate_Ratings": "2023-09-02T18:02:38.9494223+00:00",
+  "LastUpdate_Achievements": "2023-09-02T18:04:08.1858487+00:00"
 }

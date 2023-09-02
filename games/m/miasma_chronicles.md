@@ -26,8 +26,8 @@ Rating: 4.43 (Ranked 667)
 | Ganglord | 35.00% | ~483 |
 | Jarhead | 35.00% | ~483 |
 | Infiltrator | 34.00% | ~469 |
+| Pushing Daisy | 33.00% | ~455 |
 | Experienced | 32.00% | ~441 |
-| Pushing Daisy | 32.00% | ~441 |
 | Hold The Line | 30.00% | ~414 |
 | Endgame | 27.00% | ~372 |
 | Savior | 27.00% | ~372 |

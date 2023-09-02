@@ -9,6 +9,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Brief Tour of the Realms | 0.40% | ~907 |
 | Beast Intentions | 0.20% | ~453 |
 | The Cursed Farmer | 0.20% | ~453 |
+| The Mad Wizard | 0.20% | ~453 |
 | Maddening | 0.10% | ~227 |
 | Pros and CONs | 0.10% | ~227 |
 | Upholding the Law | 0.10% | ~227 |
@@ -399,7 +400,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Enemy Summit | 0.10% | ~193 |
 | Mirage Arcane | 0.10% | ~193 |
 | Only Human | 0.10% | ~193 |
-| The Mad Wizard | 0.10% | ~227 |
 | Close Escort | 0.10% | ~227 |
 | Constant Banditry | 0.10% | ~227 |
 | The Long Haul | 0.10% | ~227 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End | 0.10% | ~193 |
 | All's Well That Ends Well | 0.10% | ~193 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226,671 (Ranked 54)  
+Progressed: 226,679 (Ranked 54)  
 Completed: 2,243 (0.99%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -662,7 +662,7 @@ Completed: 2,243 (0.99%) (Ranked 123)
 | 2023-08-30 | 226,222 | 2,232 |
 | 2023-08-31 | 226,380 | 2,235 |
 | 2023-09-01 | 226,545 | 2,242 |
-| 2023-09-02 | 226,671 | 2,243 |
+| 2023-09-02 | 226,679 | 2,243 |
 ## Awards
 Max (Diverse Characters): 5,221  (Ranked 68)  
 Sum: 31,357 (Ranked 39)  

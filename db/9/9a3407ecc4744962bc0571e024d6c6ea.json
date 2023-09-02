@@ -998,9 +998,9 @@
       "ID": "Causality",
       "SetID": "3ai6ml8",
       "Name": "Causality",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 27
+      "UsersEstimate": 33
     },
     {
       "ID": "CongratulationsYouAreAnEngineer",
@@ -1022,9 +1022,9 @@
       "ID": "DrinkingOnTheJob",
       "SetID": "3ai6ml8",
       "Name": "Drinking on the Job",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 257
+      "UsersEstimate": 263
     },
     {
       "ID": "DustDancing",
@@ -1078,9 +1078,9 @@
       "ID": "Relic",
       "SetID": "3ai6ml8",
       "Name": "Relic",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 20,
-      "UsersEstimate": 432
+      "UsersEstimate": 438
     },
     {
       "ID": "SkeletonCrew",
@@ -1133,8 +1133,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-09-02T17:05:19.1602724+00:00",
+  "LastChanged_Achievements": "2023-09-02T18:06:19.2529593+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:05.9137937+00:00",
-  "LastUpdate_Ratings": "2023-09-02T16:59:39.6451289+00:00",
-  "LastUpdate_Achievements": "2023-09-02T17:05:19.160291+00:00"
+  "LastUpdate_Ratings": "2023-09-02T18:01:05.4444734+00:00",
+  "LastUpdate_Achievements": "2023-09-02T18:06:19.2529825+00:00"
 }

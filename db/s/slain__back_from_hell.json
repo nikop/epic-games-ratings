@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 407,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 78,
+  "Ranking_EOS_NewPlayers": 79,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -217,9 +217,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 35739,
+  "EOS_Progressed": 35742,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 526,
+  "EOS_NewPlayers": 523,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -15137,6 +15137,11 @@
       "Time": "2023-09-02T17:04:50.0592698+00:00",
       "NumProgressed": 35739,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-09-02T18:05:39.2406003+00:00",
+      "NumProgressed": 35742,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 29,
@@ -15282,9 +15287,9 @@
       "ID": "ACH_19_DEFEATED_HOGRE",
       "SetID": "443p4o4",
       "Name": "The Sky Is Falling",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 250
+      "UsersEstimate": 286
     },
     {
       "ID": "ACH_20_MULTI_KILL",
@@ -15308,7 +15313,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2144
+      "UsersEstimate": 2145
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -15379,7 +15384,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 35739,
+      "Progressed": 35742,
       "Completed": 22
     }
   ],
@@ -15387,8 +15392,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-12T21:03:39.1122054+00:00",
-  "LastChanged_Achievements": "2023-09-02T17:04:50.0592694+00:00",
+  "LastChanged_Achievements": "2023-09-02T18:05:39.2405994+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:38.9783742+00:00",
-  "LastUpdate_Ratings": "2023-09-02T16:59:45.1329544+00:00",
-  "LastUpdate_Achievements": "2023-09-02T17:04:50.0593822+00:00"
+  "LastUpdate_Ratings": "2023-09-02T18:01:13.9748014+00:00",
+  "LastUpdate_Achievements": "2023-09-02T18:05:39.2407964+00:00"
 }

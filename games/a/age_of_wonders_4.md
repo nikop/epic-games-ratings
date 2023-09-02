@@ -18,13 +18,13 @@ Rating: 4.60 (Ranked 395)
 | Stronger Together | 5.00% | ~258 |
 | My Final Form | 5.00% | ~258 |
 | Seat of Power | 5.00% | ~258 |
+| In a Liege of Your Own | 5.00% | ~258 |
 | Intimidation Tactics | 5.00% | ~258 |
 | Here be Dragons | 5.00% | ~258 |
 | Blood of the Dragon | 5.00% | ~258 |
 | Mighty Hoard | 5.00% | ~258 |
 | Valley of Wonders | 4.00% | ~206 |
 | Digging for Treasure | 4.00% | ~206 |
-| In a Liege of Your Own | 4.00% | ~206 |
 | Fiery Friend | 4.00% | ~206 |
 | Against the Odds | 4.00% | ~206 |
 | Impenetrable Fortress | 4.00% | ~206 |
