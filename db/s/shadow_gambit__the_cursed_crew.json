@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 570,
+  "EOS_Progressed": 571,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.58,
   "EosHistory": [
@@ -1296,6 +1296,11 @@
       "Time": "2023-09-01T23:06:21.0552155+00:00",
       "NumProgressed": 570,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-02T02:18:12.0983042+00:00",
+      "NumProgressed": 571,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1308,7 +1313,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -1316,7 +1321,7 @@
       "Name": "A New Journey",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "_03_FinishAct1",
@@ -1356,7 +1361,7 @@
       "Name": "All Good Things",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "_08_Completion_10",
@@ -1364,7 +1369,7 @@
       "Name": "Swabbie",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "_09_Completion_20",
@@ -1404,7 +1409,7 @@
       "Name": "Corsair",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "_14_Completion_70",
@@ -1515,14 +1520,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 570,
+      "Progressed": 571,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-09-02T01:43:38.9554271+00:00",
+  "LastChanged_Achievements": "2023-09-02T02:18:12.0983036+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:45.1302228+00:00",
-  "LastUpdate_Ratings": "2023-09-02T01:35:08.1235293+00:00",
-  "LastUpdate_Achievements": "2023-09-02T01:43:38.9554529+00:00"
+  "LastUpdate_Ratings": "2023-09-02T02:09:33.5721898+00:00",
+  "LastUpdate_Achievements": "2023-09-02T02:18:12.0983329+00:00"
 }

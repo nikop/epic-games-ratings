@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 153,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
     "PcReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 42003,
+  "EOS_Progressed": 42004,
   "EOS_Completed": 215,
-  "EOS_NewPlayers": 510,
+  "EOS_NewPlayers": 511,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -13786,6 +13786,11 @@
       "Time": "2023-09-02T01:40:50.62922+00:00",
       "NumProgressed": 42003,
       "NumCompleted": 215
+    },
+    {
+      "Time": "2023-09-02T02:15:13.3628755+00:00",
+      "NumProgressed": 42004,
+      "NumCompleted": 215
     }
   ],
   "TotalAchievements": 44,
@@ -13829,7 +13834,7 @@
       "Name": "Family",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 5880
+      "UsersEstimate": 5881
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -13869,7 +13874,7 @@
       "Name": "War Engines",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 5880
+      "UsersEstimate": 5881
     },
     {
       "ID": "ACHIEVEMENT_2",
@@ -13917,7 +13922,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 33602
+      "UsersEstimate": 33603
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -13957,7 +13962,7 @@
       "Name": "Look Behind You",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 6720
+      "UsersEstimate": 6721
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -13981,7 +13986,7 @@
       "Name": "Sleeping on the Job",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 6720
+      "UsersEstimate": 6721
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -14037,7 +14042,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 26462
+      "UsersEstimate": 26463
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -14069,7 +14074,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 28142
+      "UsersEstimate": 28143
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -14085,7 +14090,7 @@
       "Name": "Signature Move",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 5880
+      "UsersEstimate": 5881
     },
     {
       "ID": "ACHIEVEMENT_44",
@@ -14101,7 +14106,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 18901
+      "UsersEstimate": 18902
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -14133,7 +14138,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 39063
+      "UsersEstimate": 39064
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -14148,7 +14153,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 42003,
+      "Progressed": 42004,
       "Completed": 215
     }
   ],
@@ -14156,8 +14161,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-08-30T04:00:16.1693203+00:00",
-  "LastChanged_Achievements": "2023-09-02T01:40:50.6292195+00:00",
+  "LastChanged_Achievements": "2023-09-02T02:15:13.3628751+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:14.3524994+00:00",
-  "LastUpdate_Ratings": "2023-09-02T01:35:01.6363142+00:00",
-  "LastUpdate_Achievements": "2023-09-02T01:40:50.6293143+00:00"
+  "LastUpdate_Ratings": "2023-09-02T02:09:27.4922524+00:00",
+  "LastUpdate_Achievements": "2023-09-02T02:15:13.3629956+00:00"
 }

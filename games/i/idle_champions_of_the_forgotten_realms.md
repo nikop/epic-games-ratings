@@ -8,6 +8,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 0.30% | ~680 |
 | Beast Intentions | 0.20% | ~453 |
+| The Cursed Farmer | 0.20% | ~453 |
 | Maddening | 0.10% | ~227 |
 | Pros and CONs | 0.10% | ~227 |
 | Upholding the Law | 0.10% | ~227 |
@@ -215,7 +216,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Trepidatious Trio | 0.10% | ~227 |
 | Our Time To Shine | 0.10% | ~227 |
 | Review by the Blackstaff | 0.10% | ~193 |
-| The Cursed Farmer | 0.10% | ~227 |
 | The Ring of Regeneration | 0.10% | ~227 |
 | The Crumbling Temple | 0.10% | ~227 |
 | The Death Curse | 0.10% | ~227 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End | 0.10% | ~193 |
 | All's Well That Ends Well | 0.10% | ~193 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226,559 (Ranked 54)  
+Progressed: 226,563 (Ranked 54)  
 Completed: 2,242 (0.99%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -662,7 +662,7 @@ Completed: 2,242 (0.99%) (Ranked 124)
 | 2023-08-30 | 226,222 | 2,232 |
 | 2023-08-31 | 226,380 | 2,235 |
 | 2023-09-01 | 226,545 | 2,242 |
-| 2023-09-02 | 226,559 | 2,242 |
+| 2023-09-02 | 226,563 | 2,242 |
 ## Awards
 Max (Diverse Characters): 5,218  (Ranked 68)  
 Sum: 31,350 (Ranked 39)  

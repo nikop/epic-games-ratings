@@ -5,9 +5,9 @@
   "Ranking_Rating": 756,
   "Ranking_Popularity": 273,
   "Ranking_PopularitySum": 224,
-  "Ranking_EOS_Progress": 220,
+  "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewPlayers": 68,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
@@ -952,9 +952,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 670,
+  "EOS_Progressed": 676,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 665,
+  "EOS_NewPlayers": 671,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -1272,6 +1272,11 @@
       "Time": "2023-09-02T01:44:50.6025116+00:00",
       "NumProgressed": 670,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-02T02:19:28.4165877+00:00",
+      "NumProgressed": 676,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -1308,7 +1313,7 @@
       "Name": "A big garage",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "a_15",
@@ -1316,7 +1321,7 @@
       "Name": "Big Money",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "a_16",
@@ -1332,7 +1337,7 @@
       "Name": "Bye Bye",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 208
+      "UsersEstimate": 210
     },
     {
       "ID": "a_19",
@@ -1340,7 +1345,7 @@
       "Name": "Bonjour!",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "a_2",
@@ -1354,9 +1359,9 @@
       "ID": "a_20",
       "SetID": "daiie3o",
       "Name": "The Assistant",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 34
     },
     {
       "ID": "a_21",
@@ -1380,7 +1385,7 @@
       "Name": "Quack",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "a_25",
@@ -1404,7 +1409,7 @@
       "Name": "Keep the doctor away",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "a_28",
@@ -1531,7 +1536,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 670,
+      "Progressed": 676,
       "Completed": 2
     }
   ],
@@ -1539,8 +1544,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-08-28T14:01:21.7581903+00:00",
-  "LastChanged_Achievements": "2023-09-02T01:44:50.6025112+00:00",
+  "LastChanged_Achievements": "2023-09-02T02:19:28.4165872+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:37.0274623+00:00",
-  "LastUpdate_Ratings": "2023-09-02T01:34:33.2622635+00:00",
-  "LastUpdate_Achievements": "2023-09-02T01:44:50.602531+00:00"
+  "LastUpdate_Ratings": "2023-09-02T02:08:56.9503648+00:00",
+  "LastUpdate_Achievements": "2023-09-02T02:19:28.4166168+00:00"
 }

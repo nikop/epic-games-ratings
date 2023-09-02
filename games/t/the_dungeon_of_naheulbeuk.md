@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 27.00% | ~59,450 |
+| Sowwy! | 27.00% | ~59,452 |
 | Déjà vu | 3.00% | ~6,606 |
 | Where's that freaking Dwarf? | 3.00% | ~6,606 |
 | Alt+F4 | 3.00% | ~6,606 |
@@ -29,11 +29,11 @@ Number of Ratings: 118  (23.09.2022)
 | The Dungeon Master | 0.90% | ~1,982 |
 | The Statuette of Gladeulfeurah | 0.90% | ~1,982 |
 | A tale of adventurers not quite like the others... | 0.90% | ~1,982 |
-| Shiny and Crôm | 0.80% | ~1,761 |
-| %#*!$*! | 0.80% | ~1,761 |
-| The beards of change | 0.80% | ~1,761 |
-| The Ranger of Chaos | 0.80% | ~1,761 |
-| I am the night | 0.80% | ~1,761 |
+| Shiny and Crôm | 0.80% | ~1,762 |
+| %#*!$*! | 0.80% | ~1,762 |
+| The beards of change | 0.80% | ~1,762 |
+| The Ranger of Chaos | 0.80% | ~1,762 |
+| I am the night | 0.80% | ~1,762 |
 | Res Judicata | 0.70% | ~1,541 |
 | The Famous Dungeon of Naheulbeuk | 0.70% | ~1,541 |
 | Dwarf Fortress | 0.70% | ~1,541 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~220 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,186 (Ranked 57)  
+Progressed: 220,193 (Ranked 57)  
 Completed: 2 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 2 (0.00%) (Ranked 271)
 | 2023-08-30 | 219,453 | 2 |
 | 2023-08-31 | 219,794 | 2 |
 | 2023-09-01 | 220,165 | 2 |
-| 2023-09-02 | 220,186 | 2 |
+| 2023-09-02 | 220,193 | 2 |
 ## Awards
 Max (Character Customization): 185  (Ranked 279)  
 Sum: 234 (Ranked 360)  

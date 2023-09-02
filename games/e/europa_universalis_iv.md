@@ -6,22 +6,22 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~15,447 |
-| That's a Grand Army | 3.00% | ~11,585 |
-| That is mine! | 3.00% | ~11,585 |
-| Victorious! | 3.00% | ~11,585 |
-| Brothers in Arms | 2.00% | ~7,723 |
-| That's a Grand Navy | 2.00% | ~7,723 |
-| Seriously?! | 2.00% | ~7,723 |
+| Until death do us apart | 4.00% | ~15,448 |
+| That's a Grand Army | 3.00% | ~11,586 |
+| That is mine! | 3.00% | ~11,586 |
+| Victorious! | 3.00% | ~11,586 |
+| Brothers in Arms | 2.00% | ~7,724 |
+| That's a Grand Navy | 2.00% | ~7,724 |
+| Seriously?! | 2.00% | ~7,724 |
 | Cold War | 1.00% | ~3,862 |
 | Defender of the Faith | 1.00% | ~3,862 |
 | For the Glory | 1.00% | ~3,862 |
 | It's all about the money | 1.00% | ~3,862 |
 | True Catholic | 1.00% | ~3,862 |
 | The Princess is in this Castle | 0.90% | ~3,476 |
-| It's all about luck | 0.80% | ~3,089 |
-| Respected | 0.80% | ~3,089 |
-| Truly Divine Ruler | 0.80% | ~3,089 |
+| It's all about luck | 0.80% | ~3,090 |
+| Respected | 0.80% | ~3,090 |
+| Truly Divine Ruler | 0.80% | ~3,090 |
 | Blockader | 0.70% | ~2,703 |
 | Double the Love | 0.70% | ~2,703 |
 | Total Control | 0.70% | ~2,703 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 386,170 (Ranked 41)  
+Progressed: 386,206 (Ranked 41)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -496,7 +496,7 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-08-30 | 382,380 | 0 |
 | 2023-08-31 | 384,237 | 0 |
 | 2023-09-01 | 386,048 | 0 |
-| 2023-09-02 | 386,170 | 0 |
+| 2023-09-02 | 386,206 | 0 |
 ## Awards
 Max (Educational): 5,880  (Ranked 59)  
 Sum: 48,402 (Ranked 26)  

@@ -6,13 +6,13 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 1.00% | ~8,378 |
-| It wakes | 1.00% | ~8,378 |
-| Skillful | 1.00% | ~8,378 |
-| MU/TH/UR Dearest | 1.00% | ~8,378 |
-| Not half bad | 0.80% | ~6,702 |
-| Apt Survivor | 0.80% | ~6,702 |
-| Make Some Noise | 0.80% | ~6,702 |
+| Zealous | 1.00% | ~8,379 |
+| It wakes | 1.00% | ~8,379 |
+| Skillful | 1.00% | ~8,379 |
+| MU/TH/UR Dearest | 1.00% | ~8,379 |
+| Make Some Noise | 0.90% | ~7,541 |
+| Not half bad | 0.80% | ~6,703 |
+| Apt Survivor | 0.80% | ~6,703 |
 | Handyman | 0.70% | ~5,865 |
 | Survival Treasures | 0.70% | ~5,865 |
 | No one left behind | 0.60% | ~5,027 |
@@ -27,24 +27,24 @@ Number of Ratings: 70,340  (23.09.2022)
 | Agonizing Escape | 0.50% | ~4,189 |
 | Backdoor Escape | 0.50% | ~4,189 |
 | Perfect Escape | 0.50% | ~4,189 |
+| Perfect Killing | 0.50% | ~4,189 |
 | Engineer | 0.50% | ~4,189 |
 | Healthy Obsession | 0.50% | ~4,189 |
 | Preemptive Strike | 0.50% | ~4,189 |
 | Humanitarian | 0.50% | ~4,189 |
-| I've got your back | 0.40% | ~3,351 |
-| Perfect Killing | 0.40% | ~3,351 |
-| Apt Killer | 0.40% | ~3,351 |
-| Risk it all | 0.40% | ~3,351 |
-| II | 0.40% | ~3,351 |
-| Wounded Healer | 0.40% | ~3,351 |
-| Close Shave | 0.40% | ~3,351 |
-| Second Act | 0.40% | ~3,351 |
-| Blood on your hands | 0.30% | ~2,513 |
-| Vulture | 0.30% | ~2,513 |
-| III | 0.30% | ~2,513 |
-| First to the Punch | 0.30% | ~2,513 |
-| Every Last Drop | 0.30% | ~2,513 |
-| With Scars to Show | 0.30% | ~2,513 |
+| I've got your back | 0.40% | ~3,352 |
+| Apt Killer | 0.40% | ~3,352 |
+| Risk it all | 0.40% | ~3,352 |
+| II | 0.40% | ~3,352 |
+| Wounded Healer | 0.40% | ~3,352 |
+| Close Shave | 0.40% | ~3,352 |
+| Second Act | 0.40% | ~3,352 |
+| Blood on your hands | 0.30% | ~2,514 |
+| Vulture | 0.30% | ~2,514 |
+| III | 0.30% | ~2,514 |
+| First to the Punch | 0.30% | ~2,514 |
+| Every Last Drop | 0.30% | ~2,514 |
+| With Scars to Show | 0.30% | ~2,514 |
 | A bite for the Entity | 0.20% | ~1,676 |
 | Blood on your face | 0.20% | ~1,676 |
 | Escape Artist | 0.20% | ~1,676 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~838 |
 | Adept Ripley | 0.10% | ~838 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 837,790 (Ranked 15)  
+Progressed: 837,879 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -371,7 +371,7 @@ Completed: 48 (0.01%) (Ranked 258)
 | 2023-08-30 | 831,117 | 48 |
 | 2023-08-31 | 834,142 | 48 |
 | 2023-09-01 | 837,438 | 48 |
-| 2023-09-02 | 837,790 | 48 |
+| 2023-09-02 | 837,879 | 48 |
 ## Awards
 Max (Diverse Characters): 31,778  (Ranked 15)  
 Sum: 249,224 (Ranked 11)  

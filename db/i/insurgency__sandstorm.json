@@ -3229,9 +3229,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 439136,
+  "EOS_Progressed": 439143,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2696,
+  "EOS_NewPlayers": 2687,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18174,6 +18174,11 @@
       "Time": "2023-09-02T01:41:25.6958187+00:00",
       "NumProgressed": 439136,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-02T02:15:49.952487+00:00",
+      "NumProgressed": 439143,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -18241,7 +18246,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 17565
+      "UsersEstimate": 17566
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -18353,7 +18358,7 @@
       "Name": "Point Shooting",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 17565
+      "UsersEstimate": 17566
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -18457,22 +18462,22 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 17565
+      "UsersEstimate": 17566
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 439136,
+      "Progressed": 439143,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-09-01T16:57:56.4645345+00:00",
-  "LastChanged_Achievements": "2023-09-02T01:41:25.6958183+00:00",
+  "LastChanged_Achievements": "2023-09-02T02:15:49.9524865+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:42.1535324+00:00",
-  "LastUpdate_Ratings": "2023-09-02T01:34:52.3921823+00:00",
-  "LastUpdate_Achievements": "2023-09-02T01:41:25.6959089+00:00"
+  "LastUpdate_Ratings": "2023-09-02T02:09:17.5626558+00:00",
+  "LastUpdate_Achievements": "2023-09-02T02:15:49.952653+00:00"
 }

@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 503)
 | Survival Skills | 0.10% | ~671 |
 | Bucket List | 0.10% | ~671 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 671,174 (Ranked 22)  
-Completed: 2,097 (0.31%) (Ranked 177)  
+Progressed: 671,185 (Ranked 22)  
+Completed: 2,098 (0.31%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -186,7 +186,7 @@ Completed: 2,097 (0.31%) (Ranked 177)
 | 2023-08-30 | 669,636 | 2,094 |
 | 2023-08-31 | 670,394 | 2,097 |
 | 2023-09-01 | 671,108 | 2,097 |
-| 2023-09-02 | 671,174 | 2,097 |
+| 2023-09-02 | 671,185 | 2,098 |
 ## Awards
 Max (Great Boss Battles): 5,846  (Ranked 61)  
 Sum: 8,613 (Ranked 96)  

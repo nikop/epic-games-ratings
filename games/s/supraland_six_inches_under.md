@@ -53,7 +53,7 @@ Number of Ratings: 209  (23.09.2022)
 | Chest Detector | 55.00% | ~1,220 |
 | Flames | 53.00% | ~1,176 |
 | Momentum | 46.00% | ~1,021 |
-| You're unsure if you broke the game or not | 42.00% | ~932 |
+| You're unsure if you broke the game or not | 43.00% | ~954 |
 | But wait... ...There's more... | 40.00% | ~888 |
 | So much force | 35.00% | ~777 |
 | You feel fully engaged | 24.00% | ~533 |

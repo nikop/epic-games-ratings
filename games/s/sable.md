@@ -6,12 +6,12 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~29,553 |
-| Just The Two of Us | 32.00% | ~27,815 |
-| Up On High | 25.00% | ~21,730 |
-| Under The Hood | 25.00% | ~21,730 |
-| Got Your Nose | 24.00% | ~20,861 |
-| The Gift of Gab | 24.00% | ~20,861 |
+| Simoon | 34.00% | ~29,554 |
+| Just The Two of Us | 32.00% | ~27,816 |
+| Up On High | 25.00% | ~21,731 |
+| Under The Hood | 25.00% | ~21,731 |
+| Got Your Nose | 24.00% | ~20,862 |
+| The Gift of Gab | 24.00% | ~20,862 |
 | Wrapping Up | 22.00% | ~19,123 |
 | More Than A Box Of Sand | 18.00% | ~15,646 |
 | The Dunboyne | 17.00% | ~14,777 |
@@ -20,7 +20,7 @@ Number of Ratings: 43  (23.09.2022)
 | Silver-Tongued Sable | 16.00% | ~13,908 |
 | Sticky Paws | 16.00% | ~13,908 |
 | Bubble Up | 16.00% | ~13,908 |
-| Thread The Needle | 15.00% | ~13,038 |
+| Thread The Needle | 15.00% | ~13,039 |
 | Power to the People | 14.00% | ~12,169 |
 | Take That! | 13.00% | ~11,300 |
 | Nesting Giant | 13.00% | ~11,300 |
@@ -28,7 +28,7 @@ Number of Ratings: 43  (23.09.2022)
 | Big Spender | 13.00% | ~11,300 |
 | Badge Collector | 12.00% | ~10,431 |
 | Quite The Catch | 12.00% | ~10,431 |
-| Rowleys Way | 11.00% | ~9,561 |
+| Rowleys Way | 11.00% | ~9,562 |
 | The Machinist Mask | 10.00% | ~8,692 |
 | The Cartographer Mask | 10.00% | ~8,692 |
 | Balfron Connection | 10.00% | ~8,692 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~2,608 |
 | Vivacious Vivarium | 2.00% | ~1,738 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,922 (Ranked 74)  
+Progressed: 86,924 (Ranked 74)  
 Completed: 865 (1.00%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 865 (1.00%) (Ranked 122)
 | 2023-08-30 | 86,561 | 857 |
 | 2023-08-31 | 86,717 | 864 |
 | 2023-09-01 | 86,907 | 865 |
-| 2023-09-02 | 86,922 | 865 |
+| 2023-09-02 | 86,924 | 865 |
 ## Awards
 Max (Quickly Understood Controls): 22  (Ranked 495)  
 Sum: 22 (Ranked 499)  
