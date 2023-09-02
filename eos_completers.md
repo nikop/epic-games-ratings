@@ -1,9 +1,9 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
-| 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 49.38% |
+| 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.62% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.90% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 35.38% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 35.11% |
 | 5 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 33.33% |
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.23% |
 | 7 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
@@ -87,7 +87,7 @@
 | 85 | [Lamentum](games/l/lamentum.md) | 2.53% |
 | 86 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.50% |
 | 86 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 88 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.33% |
+| 88 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.31% |
 | 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.27% |
 | 90 | [Bloodshore](games/b/bloodshore.md) | 2.19% |
 | 91 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
@@ -103,9 +103,9 @@
 | 101 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.72% |
 | 102 | [Somerville](games/s/somerville.md) | 1.66% |
 | 103 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.64% |
-| 104 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.59% |
-| 105 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.56% |
-| 105 | [Iron Danger](games/i/iron_danger.md) | 1.56% |
+| 104 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.56% |
+| 104 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.56% |
+| 104 | [Iron Danger](games/i/iron_danger.md) | 1.56% |
 | 107 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.55% |
 | 108 | [Five Dates](games/f/five_dates.md) | 1.52% |
 | 109 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.49% |
@@ -128,26 +128,26 @@
 | 126 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.95% |
 | 127 | [Hades](games/h/hades.md) | 0.90% |
 | 128 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
-| 129 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.84% |
-| 130 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
+| 129 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
+| 129 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.83% |
 | 131 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.81% |
 | 132 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
-| 133 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.73% |
-| 134 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.71% |
-| 135 | [Lemon Cake](games/l/lemon_cake.md) | 0.69% |
-| 136 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.67% |
-| 137 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.65% |
-| 138 | [Haven](games/h/haven.md) | 0.64% |
-| 139 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
-| 139 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.61% |
-| 139 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.61% |
-| 142 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.59% |
-| 143 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.58% |
-| 143 | [Potion Permit](games/p/potion_permit.md) | 0.58% |
-| 145 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.57% |
-| 146 | [Grindstone](games/g/grindstone.md) | 0.56% |
-| 147 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.55% |
-| 147 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
+| 132 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.74% |
+| 134 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.73% |
+| 135 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.71% |
+| 136 | [Lemon Cake](games/l/lemon_cake.md) | 0.69% |
+| 137 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.67% |
+| 138 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.65% |
+| 139 | [Haven](games/h/haven.md) | 0.64% |
+| 140 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
+| 140 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.61% |
+| 140 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.61% |
+| 143 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.59% |
+| 144 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.58% |
+| 144 | [Potion Permit](games/p/potion_permit.md) | 0.58% |
+| 146 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.57% |
+| 147 | [Grindstone](games/g/grindstone.md) | 0.56% |
+| 148 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
 | 149 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.54% |
 | 150 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.53% |
 | 151 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.52% |
