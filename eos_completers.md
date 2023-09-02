@@ -130,7 +130,7 @@
 | 128 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 129 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
 | 130 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.81% |
-| 131 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.78% |
+| 131 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.77% |
 | 132 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
 | 133 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.73% |
 | 133 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.73% |
