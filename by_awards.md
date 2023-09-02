@@ -21,7 +21,7 @@
 | 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 19,357 | 4.57 | 453 |
 | 20 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 18,700 | 4.26 | 827 |
 | 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 17,977 | 4.89 | 13 |
-| 22 | [Warframe](games/w/warframe.md) | 16,769 | 4.61 | 368 |
+| 22 | [Warframe](games/w/warframe.md) | 16,794 | 4.61 | 368 |
 | 23 | [League of Legends](games/l/league_of_legends.md) | 15,704 | 4.21 | 859 |
 | 24 | [Borderlands 2](games/b/borderlands_2.md) | 15,194 | 4.76 | 116 |
 | 25 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,461 | 4.58 | 430 |
@@ -294,7 +294,7 @@
 | 291 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 164 | 4.38 | 729 |
 | 293 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 163 | 4.58 | 430 |
 | 294 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 160 | 4.79 | 88 |
-| 295 | [Predecessor](games/p/predecessor.md) | 154 | 4.43 | 666 |
+| 295 | [Predecessor](games/p/predecessor.md) | 155 | 4.43 | 666 |
 | 296 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 153 | 4.55 | 489 |
 | 297 | [Star Stable Online](games/s/star_stable_online.md) | 152 | 4.43 | 666 |
 | 298 | [Blasphemous](games/b/blasphemous.md) | 151 | 4.85 | 42 |

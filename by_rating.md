@@ -391,7 +391,7 @@
 | 368 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 280 | 243 |
 | 368 | [Supraland](games/s/supraland.md) | 4.61 | 7,683 | 46 |
 | 368 | [The Colonists](games/t/the_colonists.md) | 4.61 | 0 | 515 |
-| 368 | [Warframe](games/w/warframe.md) | 4.61 | 16,769 | 22 |
+| 368 | [Warframe](games/w/warframe.md) | 4.61 | 16,794 | 22 |
 | 393 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.60 | 0 | 515 |
 | 393 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.60 | 23 | 492 |
 | 393 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.60 | 724 | 164 |
@@ -670,7 +670,7 @@
 | 666 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.43 | 221 | 263 |
 | 666 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.43 | 12,729 | 29 |
 | 666 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 4.43 | 0 | 515 |
-| 666 | [Predecessor](games/p/predecessor.md) | 4.43 | 154 | 295 |
+| 666 | [Predecessor](games/p/predecessor.md) | 4.43 | 155 | 295 |
 | 666 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 0 | 515 |
 | 666 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 0 | 515 |
 | 666 | [Star Renegades](games/s/star_renegades.md) | 4.43 | 0 | 515 |
