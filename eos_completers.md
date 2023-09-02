@@ -100,8 +100,8 @@
 | 98 | [Sifu](games/s/sifu.md) | 1.81% |
 | 99 | [Frogun](games/f/frogun.md) | 1.80% |
 | 100 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.79% |
-| 101 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.75% |
 | 101 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 1.75% |
+| 102 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.72% |
 | 103 | [Somerville](games/s/somerville.md) | 1.66% |
 | 104 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.64% |
 | 105 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.56% |
