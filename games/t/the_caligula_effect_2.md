@@ -6,28 +6,28 @@ Number of Ratings: 32  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Redo | 98.00% | ~230 |
-| Daily Life Begins Anew | 82.00% | ~193 |
-| Our World Now | 81.00% | ~190 |
-| Never Saw It Coming | 66.00% | ~155 |
-| Coup de Grace | 58.00% | ~136 |
-| Go-Home Club Activities START! | 49.00% | ~115 |
-| Philanthropist | 40.00% | ~94 |
+| Welcome to Redo | 97.00% | ~229 |
+| Daily Life Begins Anew | 81.00% | ~191 |
+| Our World Now | 81.00% | ~191 |
+| Never Saw It Coming | 66.00% | ~156 |
+| Coup de Grace | 58.00% | ~137 |
+| Go-Home Club Activities START! | 49.00% | ~116 |
+| Philanthropist | 39.00% | ~92 |
 | Test Your Luck | 34.00% | ~80 |
 | Behind the Curtain | 33.00% | ~78 |
-| Master of Surprise | 30.00% | ~70 |
+| Master of Surprise | 30.00% | ~71 |
 | Be Who You Wanna Be | 26.00% | ~61 |
-| Counter Champion | 26.00% | ~61 |
-| Friendly Neighborhood | 24.00% | ~56 |
-| Investment Ban-χ-ing | 24.00% | ~56 |
-| Combo Commando | 24.00% | ~56 |
+| Counter Champion | 25.00% | ~59 |
+| Friendly Neighborhood | 24.00% | ~57 |
+| Investment Ban-χ-ing | 24.00% | ~57 |
+| Combo Commando | 24.00% | ~57 |
 | One-Track Mind | 23.00% | ~54 |
 | Nice Doing Business | 23.00% | ~54 |
-| Stay Winning | 23.00% | ~54 |
 | WIRE Guru | 22.00% | ~52 |
-| Depths of the Heart | 20.00% | ~47 |
+| Stay Winning | 22.00% | ~52 |
 | The Greater Good | 19.00% | ~45 |
 | Selfish Decisions | 19.00% | ~45 |
+| Depths of the Heart | 19.00% | ~45 |
 | Extracurricular Affair | 19.00% | ~45 |
 | Lost Souls For Sale | 19.00% | ~45 |
 | Pulling Heartstrings | 18.00% | ~42 |
@@ -42,7 +42,7 @@ Number of Ratings: 32  (23.09.2022)
 | The Part-Time Tyrant | 8.00% | ~19 |
 | Prince of Lettuce | 8.00% | ~19 |
 | Love, Loss, and the Omega Nebula | 8.00% | ~19 |
-| Songstress Unleashed | 7.00% | ~16 |
+| Songstress Unleashed | 7.00% | ~17 |
 | Executive Privilege | 6.00% | ~14 |
 | For the Love of Regret | 4.00% | ~9 |
 | Building Bridges | 3.00% | ~7 |
@@ -54,9 +54,9 @@ Number of Ratings: 32  (23.09.2022)
 | World Peace | 1.00% | ~2 |
 | Heart of Gold | 1.00% | ~2 |
 | Topical Conversationalist | 1.00% | ~2 |
-| The Caligula Effect 2 | 0.90% | ~2 |
+| The Caligula Effect 2 | 0.80% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235 (Ranked 290)  
+Progressed: 236 (Ranked 289)  
 Completed: 2 (0.85%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,6 +69,7 @@ Completed: 2 (0.85%) (Ranked 128)
 | 2023-06-21 | 233 | 2 |
 | 2023-08-02 | 234 | 2 |
 | 2023-08-14 | 235 | 2 |
+| 2023-09-02 | 236 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

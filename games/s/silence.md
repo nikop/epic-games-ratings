@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fire in the... nevermind | 50.00% | ~55 |
+| Fire in the... nevermind | 51.00% | ~56 |
 | Chapter I | 49.00% | ~54 |
 | Haute cuisine | 45.00% | ~50 |
 | I didn't do it! | 40.00% | ~44 |
@@ -20,11 +20,11 @@
 | Like a moth in the Wind | 26.00% | ~29 |
 | Bubblekillerfamily | 24.00% | ~26 |
 | Quite a buggy game | 23.00% | ~25 |
+| Handyman | 23.00% | ~25 |
 | Mirror mirror on the wall... | 23.00% | ~25 |
-| Handyman | 22.00% | ~24 |
 | Shadow on the wall | 21.00% | ~23 |
+| Pacifist | 21.00% | ~23 |
 | Fastidious Clown | 21.00% | ~23 |
-| Pacifist | 20.00% | ~22 |
 | It's not easy being green! | 20.00% | ~22 |
 | Home is where the heart is | 20.00% | ~22 |
 | Master of Thermodynamics | 15.00% | ~16 |

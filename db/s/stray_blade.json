@@ -4,8 +4,8 @@
   "ProductSlug": "stray-blade",
   "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -404,9 +404,9 @@
       "ID": "ACH_ENTER_REGION_SPIRE",
       "SetID": "7i20me3",
       "Name": "Through Dangers Untold",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_EQUIP_MAX_RUNES_AT_ONCE",
@@ -652,9 +652,9 @@
       "ID": "ACH_UNLOCK_ABILITY_MANNINITE",
       "SetID": "7i20me3",
       "Name": "The Power of the Mountains",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_UNLOCK_ABILITY_XHINNON",
@@ -683,8 +683,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-09-02T13:06:15.2317475+00:00",
+  "LastChanged_Achievements": "2023-09-02T14:04:03.5846674+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:20.6233931+00:00",
-  "LastUpdate_Ratings": "2023-09-02T12:59:23.4191614+00:00",
-  "LastUpdate_Achievements": "2023-09-02T13:06:15.2317999+00:00"
+  "LastUpdate_Ratings": "2023-09-02T13:57:35.4712195+00:00",
+  "LastUpdate_Achievements": "2023-09-02T14:04:03.5846991+00:00"
 }

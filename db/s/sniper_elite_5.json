@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 515,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -6580,9 +6580,9 @@
       "ID": "REWARD_30_OUT_OF_SCOPE",
       "SetID": "bm6el81",
       "Name": "Out of Scope",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 71
     },
     {
       "ID": "REWARD_32_RIGGED_BLOW",
@@ -6987,8 +6987,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-01T10:01:39.1533108+00:00",
-  "LastChanged_Achievements": "2023-09-02T13:08:55.7368458+00:00",
+  "LastChanged_Achievements": "2023-09-02T14:06:16.4574275+00:00",
   "LastUpdate_AppInfo": "2023-09-02T06:57:18.4314048+00:00",
-  "LastUpdate_Ratings": "2023-09-02T13:02:38.0777427+00:00",
-  "LastUpdate_Achievements": "2023-09-02T13:08:55.736931+00:00"
+  "LastUpdate_Ratings": "2023-09-02T14:00:18.8107265+00:00",
+  "LastUpdate_Achievements": "2023-09-02T14:06:16.4575134+00:00"
 }

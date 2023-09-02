@@ -56,6 +56,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Expansion in Session | 0.40% | ~542 |
 | Trash to Treasure | 0.40% | ~542 |
 | Royal Ransom | 0.40% | ~542 |
+| Mammonite | 0.40% | ~542 |
 | Seasoned Journeyman | 0.40% | ~542 |
 | Black Friday Special | 0.40% | ~542 |
 | Magical Harmony | 0.40% | ~542 |
@@ -79,7 +80,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cranked up to 11 | 0.30% | ~407 |
 | Fit for a King | 0.30% | ~407 |
 | By Your Powers Combined... | 0.30% | ~407 |
-| Mammonite | 0.30% | ~407 |
 | Wealth Beyond Measure | 0.30% | ~407 |
 | Fat Cat Tag Team | 0.30% | ~407 |
 | Necromancer Queen | 0.30% | ~407 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,538 (Ranked 67)  
+Progressed: 135,539 (Ranked 67)  
 Completed: 140 (0.10%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 140 (0.10%) (Ranked 218)
 | 2023-08-30 | 135,399 | 138 |
 | 2023-08-31 | 135,446 | 140 |
 | 2023-09-01 | 135,508 | 140 |
-| 2023-09-02 | 135,538 | 140 |
+| 2023-09-02 | 135,539 | 140 |
 ## Awards
 Max (Great for Beginners): 4,719  (Ranked 71)  
 Sum: 27,162 (Ranked 47)  

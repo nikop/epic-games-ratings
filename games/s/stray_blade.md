@@ -12,7 +12,7 @@
 | Can't touch this | 23.00% | ~13 |
 | Don't Cry Wolf | 20.00% | ~11 |
 | Freezing Cold | 16.00% | ~9 |
-| The Power of the Mountains | 14.00% | ~8 |
+| The Power of the Mountains | 16.00% | ~9 |
 | Searing Heat | 13.00% | ~7 |
 | Nothing but the Truth | 13.00% | ~7 |
 | Expert | 13.00% | ~7 |
@@ -20,9 +20,9 @@
 | Locked and Loaded | 11.00% | ~6 |
 | Changing the World | 11.00% | ~6 |
 | Craftsmen | 9.00% | ~5 |
+| Through Dangers Untold | 9.00% | ~5 |
 | Defeat Uskol | 7.00% | ~4 |
 | Bringing guns to a sword fight | 7.00% | ~4 |
-| Through Dangers Untold | 7.00% | ~4 |
 | Witch | 7.00% | ~4 |
 | Mirror, Mirror on the Wall | 5.00% | ~3 |
 | Defeat Tezuth | 5.00% | ~3 |

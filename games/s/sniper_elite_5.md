@@ -54,6 +54,7 @@ Rating: 4.47 (Ranked 615)
 | Shoot for the Moon | 3.00% | ~107 |
 | If You Go Down To The Woods Today | 3.00% | ~105 |
 | Fight Another Day | 3.00% | ~105 |
+| Out of Scope | 2.00% | ~71 |
 | From Paris with Love | 2.00% | ~71 |
 | Eagle Eyed | 2.00% | ~71 |
 | Up close and personal | 2.00% | ~71 |
@@ -64,7 +65,6 @@ Rating: 4.47 (Ranked 615)
 | Shipbreaker | 2.00% | ~70 |
 | Sink or Swim | 2.00% | ~70 |
 | Best of the Best | 1.00% | ~36 |
-| Out of Scope | 1.00% | ~36 |
 | Sight Beyond Sights | 1.00% | ~36 |
 | From Führer Away | 1.00% | ~35 |
 | Alpha | 1.00% | ~35 |

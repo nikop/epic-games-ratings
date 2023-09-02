@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -46,9 +46,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9843,
+  "EOS_Progressed": 9849,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 704,
+  "EOS_NewPlayers": 702,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4036,6 +4036,11 @@
       "Time": "2023-09-02T13:06:16.9996823+00:00",
       "NumProgressed": 9843,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-02T14:04:05.2657787+00:00",
+      "NumProgressed": 9849,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -4088,7 +4093,7 @@
       "Name": "Doctor Approved",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1772
+      "UsersEstimate": 1773
     },
     {
       "ID": "15",
@@ -4096,7 +4101,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 2264
+      "UsersEstimate": 2265
     },
     {
       "ID": "16",
@@ -4112,7 +4117,7 @@
       "Name": "Spore Taste",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1870
+      "UsersEstimate": 1871
     },
     {
       "ID": "18",
@@ -4120,15 +4125,15 @@
       "Name": "Bottoms up!",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "19",
       "SetID": "458bbdk",
       "Name": "Martian Music",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 1870
+      "UsersEstimate": 1970
     },
     {
       "ID": "2",
@@ -4224,7 +4229,7 @@
       "Name": "Captain Drummer",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1969
+      "UsersEstimate": 1970
     },
     {
       "ID": "30",
@@ -4256,7 +4261,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1772
+      "UsersEstimate": 1773
     },
     {
       "ID": "7",
@@ -4280,14 +4285,14 @@
       "Name": "Impossible Objects",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2461
+      "UsersEstimate": 2462
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 9843,
+      "Progressed": 9849,
       "Completed": 0
     }
   ],
@@ -4295,8 +4300,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-08-31T16:58:15.58955+00:00",
-  "LastChanged_Achievements": "2023-09-02T13:06:16.9996818+00:00",
+  "LastChanged_Achievements": "2023-09-02T14:04:05.2657782+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:01.322184+00:00",
-  "LastUpdate_Ratings": "2023-09-02T13:00:48.9503788+00:00",
-  "LastUpdate_Achievements": "2023-09-02T13:06:16.999722+00:00"
+  "LastUpdate_Ratings": "2023-09-02T13:58:45.2365893+00:00",
+  "LastUpdate_Achievements": "2023-09-02T14:04:05.2658178+00:00"
 }

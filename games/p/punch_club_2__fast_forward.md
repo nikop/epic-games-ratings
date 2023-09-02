@@ -5,15 +5,15 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Such a strange dream… | 88.00% | ~267 |
+| Good Person Chip | 86.00% | ~261 |
 | Your first fight | 86.00% | ~261 |
-| Good Person Chip | 85.00% | ~258 |
 | First winning | 84.00% | ~255 |
 | Your first job | 83.00% | ~251 |
 | Old movies enjoyer | 80.00% | ~242 |
 | Fitness professional | 78.00% | ~236 |
 | Depressed visitor | 78.00% | ~236 |
-| Neurotrainer – power gainer! | 76.00% | ~230 |
-| Employee of the week | 76.00% | ~230 |
+| Neurotrainer – power gainer! | 77.00% | ~233 |
+| Employee of the week | 77.00% | ~233 |
 | Your own amateur gym | 74.00% | ~224 |
 | First defeat | 73.00% | ~221 |
 | Run K, run! | 72.00% | ~218 |
@@ -35,8 +35,8 @@
 | Intriguing candies | 57.00% | ~173 |
 | Legal courier | 54.00% | ~164 |
 | Extreme neuropower! | 54.00% | ~164 |
+| Escaped from a big trouble | 51.00% | ~155 |
 | Now you are worthy | 50.00% | ~152 |
-| Escaped from a big trouble | 50.00% | ~152 |
 | Fight is life | 46.00% | ~139 |
 | Guiding on the right path | 46.00% | ~139 |
 | Mysterious voice | 45.00% | ~136 |
@@ -47,12 +47,12 @@
 | Underground dwellers | 39.00% | ~118 |
 | Mom got better | 38.00% | ~115 |
 | Poisoned fighter | 38.00% | ~115 |
+| Get out of my apartment! | 38.00% | ~115 |
 | The die is cast | 38.00% | ~115 |
 | Your own way | 38.00% | ~115 |
 | GYM professional | 37.00% | ~112 |
-| Get out of my apartment! | 37.00% | ~112 |
+| Gang wrangler | 35.00% | ~106 |
 | Seashell hunter | 35.00% | ~106 |
-| Gang wrangler | 34.00% | ~103 |
 | Undercover robot | 34.00% | ~103 |
 | Problems of cyborgs | 33.00% | ~100 |
 | Absolute Champion! | 32.00% | ~97 |

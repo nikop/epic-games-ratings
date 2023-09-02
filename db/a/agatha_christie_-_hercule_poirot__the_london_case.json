@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 473,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-08-29T08:00:00+00:00",
     "PcReleaseDate": "2023-08-29T08:00:00+00:00",
@@ -61,9 +61,9 @@
       "ID": "ACH_01",
       "SetID": "7b646ck",
       "Name": "The Ship",
-      "Percentage": 17,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_010",
@@ -125,9 +125,9 @@
       "ID": "ACH_017",
       "SetID": "7b646ck",
       "Name": "Little ideas",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_018",
@@ -341,9 +341,9 @@
       "ID": "ACH_041",
       "SetID": "7b646ck",
       "Name": "Marc Allard",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_042",
@@ -436,8 +436,8 @@
   ],
   "FirstSeen": "2023-09-01T19:00:04.7737325+00:00",
   "FirstSeenAchievements": "2023-07-06T13:22:18.2956112+00:00",
-  "LastChanged_Achievements": "2023-09-02T13:09:15.4346778+00:00",
+  "LastChanged_Achievements": "2023-09-02T14:06:32.9541153+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:55.602384+00:00",
-  "LastUpdate_Ratings": "2023-09-02T13:02:04.0523203+00:00",
-  "LastUpdate_Achievements": "2023-09-02T13:09:15.4347115+00:00"
+  "LastUpdate_Ratings": "2023-09-02T13:59:53.1837442+00:00",
+  "LastUpdate_Achievements": "2023-09-02T14:06:32.9541646+00:00"
 }

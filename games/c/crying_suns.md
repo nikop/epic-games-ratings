@@ -6,9 +6,9 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~307,923 |
+| The Shutdown | 66.00% | ~307,924 |
 | Jeef Skeejj | 44.00% | ~205,282 |
-| Careful planning | 39.00% | ~181,954 |
+| Careful planning | 39.00% | ~181,955 |
 | Second Coming | 33.00% | ~153,962 |
 | Jeef Skagg | 30.00% | ~139,965 |
 | Mother | 25.00% | ~116,638 |
@@ -16,12 +16,12 @@ Number of Ratings: 1,003  (23.09.2022)
 | Chapter I: Echoes | 22.00% | ~102,641 |
 | Excelsior Rule | 22.00% | ~102,641 |
 | Things persisted in not being what they seemed | 20.00% | ~93,310 |
-| Knightmare Frames | 15.00% | ~69,982 |
-| May His passing cleanse the world | 15.00% | ~69,982 |
-| Chapter II: Fallible Flesh | 15.00% | ~69,982 |
-| Pope Zenon | 15.00% | ~69,982 |
-| Tetsuo | 11.00% | ~51,320 |
-| Plan for the worst | 11.00% | ~51,320 |
+| Knightmare Frames | 15.00% | ~69,983 |
+| May His passing cleanse the world | 15.00% | ~69,983 |
+| Chapter II: Fallible Flesh | 15.00% | ~69,983 |
+| Pope Zenon | 15.00% | ~69,983 |
+| Tetsuo | 11.00% | ~51,321 |
+| Plan for the worst | 11.00% | ~51,321 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~46,655 |
 | Chapter IV: Through the Looking Glass | 8.00% | ~37,324 |
 | Through the mirror | 8.00% | ~37,324 |
@@ -49,8 +49,8 @@ Number of Ratings: 1,003  (23.09.2022)
 | Forsaken | 5.00% | ~23,328 |
 | Mercy | 5.00% | ~23,328 |
 | Jericho Rule | 5.00% | ~23,328 |
-| Geno Rule | 3.00% | ~13,996 |
-| Hammer Rule | 3.00% | ~13,996 |
+| Geno Rule | 3.00% | ~13,997 |
+| Hammer Rule | 3.00% | ~13,997 |
 | Survivor | 2.00% | ~9,331 |
 | A Rock in the Dark | 1.00% | ~4,666 |
 | Emperor of Misery | 1.00% | ~4,666 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~10 |
 | Kronos Rule | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 466,550 (Ranked 37)  
+Progressed: 466,551 (Ranked 37)  
 Completed: 18 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,7 +221,7 @@ Completed: 18 (0.00%) (Ranked 271)
 | 2023-08-30 | 466,352 | 18 |
 | 2023-08-31 | 466,430 | 18 |
 | 2023-09-01 | 466,505 | 18 |
-| 2023-09-02 | 466,550 | 18 |
+| 2023-09-02 | 466,551 | 18 |
 ## Awards
 Max (Character Customization): 218  (Ranked 268)  
 Sum: 238 (Ranked 359)  

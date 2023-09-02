@@ -6,18 +6,18 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 79.00% | ~5,161 |
-| Worker Specialization | 78.00% | ~5,096 |
-| First Contact | 73.00% | ~4,769 |
-| Win a Battle | 67.00% | ~4,377 |
+| Colonize a Planet | 79.00% | ~5,162 |
+| Worker Specialization | 78.00% | ~5,097 |
+| First Contact | 73.00% | ~4,770 |
+| Win a Battle | 67.00% | ~4,378 |
 | Anomaly Researcher | 63.00% | ~4,116 |
-| Unleash My Power | 62.00% | ~4,050 |
-| Own 30 Planets | 34.00% | ~2,221 |
+| Unleash My Power | 62.00% | ~4,051 |
+| Own 30 Planets | 34.00% | ~2,222 |
 | Xenocide | 32.00% | ~2,091 |
 | Design a Civilization | 32.00% | ~2,091 |
-| Commodity Trader | 31.00% | ~2,025 |
-| Design a Ship | 28.00% | ~1,829 |
-| Commodity Seller | 25.00% | ~1,633 |
+| Commodity Trader | 31.00% | ~2,026 |
+| Design a Ship | 28.00% | ~1,830 |
+| Commodity Seller | 25.00% | ~1,634 |
 | Prestige Victory! | 14.00% | ~915 |
 | Galactic War | 11.00% | ~719 |
 | Trading Partner | 9.00% | ~588 |
@@ -42,8 +42,8 @@ Number of Ratings: 429  (23.09.2022)
 | Win as Torians | 0.90% | ~59 |
 | Win as the Drengin | 0.80% | ~52 |
 | Win as the Krynn | 0.80% | ~52 |
-| Win as Xeloxi | 0.80% | ~52 |
 | Win as the Manti | 0.70% | ~46 |
+| Win as Xeloxi | 0.70% | ~46 |
 | Win as the Drath | 0.60% | ~39 |
 | Win as the Iconians | 0.60% | ~39 |
 | Win as the Iridium | 0.60% | ~39 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,533 (Ranked 139)  
+Progressed: 6,534 (Ranked 139)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-08-30 | 6,504 | 0 |
 | 2023-08-31 | 6,517 | 0 |
 | 2023-09-01 | 6,529 | 0 |
-| 2023-09-02 | 6,533 | 0 |
+| 2023-09-02 | 6,534 | 0 |
 ## Awards
 Max (Diverse Characters): 93  (Ranked 348)  
 Sum: 676 (Ranked 282)  

@@ -8,7 +8,7 @@
 | The Adventure Begins | 56.00% | ~323 |
 | Swabbie | 42.00% | ~242 |
 | With Great Power… | 40.00% | ~230 |
-| This Belongs in a Museum | 35.00% | ~202 |
+| This Belongs in a Museum | 36.00% | ~207 |
 | The Gambit Has Begun | 31.00% | ~179 |
 | Powder Monkey | 28.00% | ~161 |
 | Somewhere Deep in the Lost Caribbean | 25.00% | ~144 |

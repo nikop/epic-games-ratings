@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 17,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -4164,10 +4164,10 @@
       "Count": 334
     }
   ],
-  "EOS_Progressed": 671536,
+  "EOS_Progressed": 671582,
   "EOS_Completed": 2099,
-  "EOS_NewPlayers": 5836,
-  "EOS_NewCompleters": 26,
+  "EOS_NewPlayers": 5820,
+  "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -19214,6 +19214,11 @@
       "Time": "2023-09-02T13:07:01.2263983+00:00",
       "NumProgressed": 671536,
       "NumCompleted": 2099
+    },
+    {
+      "Time": "2023-09-02T14:04:41.7340412+00:00",
+      "NumProgressed": 671582,
+      "NumCompleted": 2099
     }
   ],
   "TotalAchievements": 45,
@@ -19289,7 +19294,7 @@
       "Name": "Break A Leg",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5372
+      "UsersEstimate": 5373
     },
     {
       "ID": "ach_contender",
@@ -19584,7 +19589,7 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 671536,
+      "Progressed": 671582,
       "Completed": 2099
     }
   ],
@@ -19592,8 +19597,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-02T11:58:44.9849433+00:00",
-  "LastChanged_Achievements": "2023-09-02T13:07:01.2263978+00:00",
+  "LastChanged_Achievements": "2023-09-02T14:04:41.7340409+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:04.7021628+00:00",
-  "LastUpdate_Ratings": "2023-09-02T12:59:58.7061259+00:00",
-  "LastUpdate_Achievements": "2023-09-02T13:07:01.2265003+00:00"
+  "LastUpdate_Ratings": "2023-09-02T13:58:05.1982524+00:00",
+  "LastUpdate_Achievements": "2023-09-02T14:04:41.7341399+00:00"
 }

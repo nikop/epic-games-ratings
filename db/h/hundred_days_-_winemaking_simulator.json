@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 64,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -958,9 +958,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 769,
+  "EOS_Progressed": 781,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 764,
+  "EOS_NewPlayers": 776,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -1338,6 +1338,11 @@
       "Time": "2023-09-02T13:09:10.7585865+00:00",
       "NumProgressed": 769,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-02T14:06:28.8570848+00:00",
+      "NumProgressed": 781,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -1366,7 +1371,7 @@
       "Name": "A lot of space",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "a_12",
@@ -1374,7 +1379,7 @@
       "Name": "A big garage",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "a_15",
@@ -1382,7 +1387,7 @@
       "Name": "Big Money",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "a_16",
@@ -1398,7 +1403,7 @@
       "Name": "Bye Bye",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 231
+      "UsersEstimate": 234
     },
     {
       "ID": "a_19",
@@ -1406,7 +1411,7 @@
       "Name": "Bonjour!",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "a_2",
@@ -1420,9 +1425,9 @@
       "ID": "a_20",
       "SetID": "daiie3o",
       "Name": "The Assistant",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 31
     },
     {
       "ID": "a_21",
@@ -1430,7 +1435,7 @@
       "Name": "The Blue Marl",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "a_22",
@@ -1446,7 +1451,7 @@
       "Name": "Quack",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "a_25",
@@ -1462,7 +1467,7 @@
       "Name": "Exotic",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "a_27",
@@ -1470,7 +1475,7 @@
       "Name": "Keep the doctor away",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "a_28",
@@ -1556,15 +1561,15 @@
       "ID": "a_5",
       "SetID": "daiie3o",
       "Name": "Treasure of Roero",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "a_6",
       "SetID": "daiie3o",
       "Name": "Gem of Monferrato",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -1597,7 +1602,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 769,
+      "Progressed": 781,
       "Completed": 2
     }
   ],
@@ -1605,8 +1610,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-02T11:57:49.7912394+00:00",
-  "LastChanged_Achievements": "2023-09-02T13:09:10.758586+00:00",
+  "LastChanged_Achievements": "2023-09-02T14:06:28.8570844+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:09.2681959+00:00",
-  "LastUpdate_Ratings": "2023-09-02T12:59:13.3765408+00:00",
-  "LastUpdate_Achievements": "2023-09-02T13:09:10.7586134+00:00"
+  "LastUpdate_Ratings": "2023-09-02T13:57:26.2996192+00:00",
+  "LastUpdate_Achievements": "2023-09-02T14:06:28.8571057+00:00"
 }
