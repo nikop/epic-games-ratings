@@ -3,7 +3,7 @@
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 473,
-  "Ranking_Popularity": 247,
+  "Ranking_Popularity": 245,
   "Ranking_PopularitySum": 337,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 167,
@@ -752,18 +752,24 @@
       "Rating": 4.56,
       "NumberOfAwards": 314,
       "NumberOfAwardsMax": 272
+    },
+    {
+      "Time": "2023-09-02T08:01:10.789788+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 316,
+      "NumberOfAwardsMax": 274
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 314,
-  "NumberOfAwardsMax": 272,
+  "NumberOfAwards": 316,
+  "NumberOfAwardsMax": 274,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 272
+      "Count": 274
     },
     {
       "Text": "This game is Relaxing",
@@ -778,7 +784,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12108,
+  "EOS_Progressed": 12109,
   "EOS_Completed": 44,
   "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 4,
@@ -9673,6 +9679,11 @@
       "Time": "2023-09-02T07:05:47.2581408+00:00",
       "NumProgressed": 12108,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-09-02T08:07:00.5097761+00:00",
+      "NumProgressed": 12109,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 35,
@@ -9684,7 +9695,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9807
+      "UsersEstimate": 9808
     },
     {
       "ID": "ACH02",
@@ -9740,7 +9751,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6175
+      "UsersEstimate": 6176
     },
     {
       "ID": "ACH09",
@@ -9804,7 +9815,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2058
+      "UsersEstimate": 2059
     },
     {
       "ID": "ACH17",
@@ -9820,7 +9831,7 @@
       "Name": "Saviour",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "ACH19",
@@ -9963,16 +9974,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12108,
+      "Progressed": 12109,
       "Completed": 44
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-08-31T01:39:56.0777646+00:00",
-  "LastChanged_Achievements": "2023-09-02T07:05:47.2581403+00:00",
+  "LastChanged": "2023-09-02T08:01:10.7897875+00:00",
+  "LastChanged_Achievements": "2023-09-02T08:07:00.5097752+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:49.3440273+00:00",
-  "LastUpdate_Ratings": "2023-09-02T06:59:58.5838594+00:00",
-  "LastUpdate_Achievements": "2023-09-02T07:05:47.2582339+00:00"
+  "LastUpdate_Ratings": "2023-09-02T08:01:10.7897884+00:00",
+  "LastUpdate_Achievements": "2023-09-02T08:07:00.5098718+00:00"
 }

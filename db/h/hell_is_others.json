@@ -2,10 +2,10 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 687,
+  "Ranking_Rating": 688,
   "Ranking_Popularity": 433,
   "Ranking_PopularitySum": 355,
-  "Ranking_EOS_Progress": 46,
+  "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 96,
   "Ranking_EOS_NewCompleters": 101,
@@ -892,9 +892,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 255750,
+  "EOS_Progressed": 255753,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 326,
+  "EOS_NewPlayers": 328,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14632,6 +14632,11 @@
       "Time": "2023-09-02T07:05:39.5062293+00:00",
       "NumProgressed": 255750,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-02T08:06:50.8137499+00:00",
+      "NumProgressed": 255753,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -14643,7 +14648,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17902
+      "UsersEstimate": 17903
     },
     {
       "ID": "Act2",
@@ -14691,7 +14696,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 79282
+      "UsersEstimate": 79283
     },
     {
       "ID": "BackHomeNTimes",
@@ -14875,7 +14880,7 @@
       "Name": "Interior designer",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1534
+      "UsersEstimate": 1535
     },
     {
       "ID": "KillCrawlingThing",
@@ -14915,7 +14920,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7672
+      "UsersEstimate": 7673
     },
     {
       "ID": "KillOtherWithMine",
@@ -14931,7 +14936,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 56265
+      "UsersEstimate": 56266
     },
     {
       "ID": "KillOthers2",
@@ -15090,7 +15095,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 255750,
+      "Progressed": 255753,
       "Completed": 3
     }
   ],
@@ -15098,8 +15103,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-09-02T05:59:31.3747933+00:00",
-  "LastChanged_Achievements": "2023-09-02T07:05:39.5062288+00:00",
+  "LastChanged_Achievements": "2023-09-02T08:06:50.8137491+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:47.9726825+00:00",
-  "LastUpdate_Ratings": "2023-09-02T06:59:57.2672905+00:00",
-  "LastUpdate_Achievements": "2023-09-02T07:05:39.5063798+00:00"
+  "LastUpdate_Ratings": "2023-09-02T08:01:09.013248+00:00",
+  "LastUpdate_Achievements": "2023-09-02T08:06:50.813915+00:00"
 }

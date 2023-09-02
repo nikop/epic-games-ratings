@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 515,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -4899,9 +4899,9 @@
       "ID": "A45",
       "SetID": "9b7p7eo",
       "Name": "Settler",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 260
+      "UsersEstimate": 279
     },
     {
       "ID": "A46",
@@ -4988,8 +4988,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-08-31T02:57:24.0720736+00:00",
-  "LastChanged_Achievements": "2023-09-02T07:04:46.2660994+00:00",
+  "LastChanged_Achievements": "2023-09-02T08:05:45.9539335+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:53.7739873+00:00",
-  "LastUpdate_Ratings": "2023-09-02T06:58:01.0296466+00:00",
-  "LastUpdate_Achievements": "2023-09-02T07:04:46.2661823+00:00"
+  "LastUpdate_Ratings": "2023-09-02T07:58:35.9095055+00:00",
+  "LastUpdate_Achievements": "2023-09-02T08:05:45.9540309+00:00"
 }

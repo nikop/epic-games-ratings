@@ -5,12 +5,12 @@ Rating: 4.56 (Ranked 473)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~9,807 |
-| Pay 'n' Spray | 51.00% | ~6,175 |
+| Getting Started | 81.00% | ~9,808 |
+| Pay 'n' Spray | 51.00% | ~6,176 |
 | All Dressed Up for San Fierro | 26.00% | ~3,148 |
 | The American Dream | 19.00% | ~2,301 |
 | School's Out | 19.00% | ~2,301 |
-| Smooth Moves | 17.00% | ~2,058 |
+| Smooth Moves | 17.00% | ~2,059 |
 | What happens in Las Venturas... | 15.00% | ~1,816 |
 | Today Was a Good Day | 15.00% | ~1,816 |
 | Horror of the Santa Maria | 11.00% | ~1,332 |
@@ -18,7 +18,7 @@ Rating: 4.56 (Ranked 473)
 | The End of the Line | 8.00% | ~969 |
 | Original Gangster | 8.00% | ~969 |
 | With Extra Dip | 7.00% | ~848 |
-| Saviour | 6.00% | ~726 |
+| Saviour | 6.00% | ~727 |
 | They Can’t Stop All of Us | 5.00% | ~605 |
 | Rescue a Kitten Too? | 5.00% | ~605 |
 | What are the Odds | 4.00% | ~484 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 473)
 | ...Here we go again | 0.50% | ~61 |
 | I Ain't No Buster | 0.40% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,108 (Ranked 122)  
+Progressed: 12,109 (Ranked 122)  
 Completed: 44 (0.36%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,14 +176,14 @@ Completed: 44 (0.36%) (Ranked 167)
 | 2023-08-30 | 12,085 | 41 |
 | 2023-08-31 | 12,097 | 44 |
 | 2023-09-01 | 12,104 | 44 |
-| 2023-09-02 | 12,108 | 44 |
+| 2023-09-02 | 12,109 | 44 |
 ## Awards
-Max (Great Boss Battles): 272  (Ranked 247)  
-Sum: 314 (Ranked 337)  
-Diff (max vs sum): -90  
+Max (Great Boss Battles): 274  (Ranked 245)  
+Sum: 316 (Ranked 337)  
+Diff (max vs sum): -92  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 272 |
+| This game has Great Boss Battles | 274 |
 | This game is Relaxing | 22 |
 | This game has Amazing Storytelling | 20 |
 ## Ratings History
@@ -297,3 +297,4 @@ Diff (max vs sum): -90
 | 2023-08-27 | 4.56 | 269 | 311 |
 | 2023-08-29 | 4.57 | 271 | 313 |
 | 2023-08-31 | 4.56 | 272 | 314 |
+| 2023-09-02 | 4.56 | 274 | 316 |

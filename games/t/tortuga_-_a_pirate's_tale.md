@@ -1,7 +1,7 @@
 # Tortuga - A Pirate's Tale
 [Store](https://store.epicgames.com/en-US/p/tortuga-a-pirates-tale-e02635)  
 [View Rawdata](../../db/t/tortuga_-_a_pirate's_tale.json)  
-Rating: 3.77 (Ranked 975)  
+Rating: 3.77 (Ranked 976)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -13,7 +13,7 @@ Rating: 3.77 (Ranked 975)
 | Pimp My Glide | 48.00% | ~7,754 |
 | ... And Where Do the Stories Come From? | 41.00% | ~6,623 |
 | House Party! | 34.00% | ~5,492 |
-| Make It Rain | 23.00% | ~3,715 |
+| Make It Rain | 24.00% | ~3,877 |
 | Curse of the Seven Seas | 22.00% | ~3,554 |
 | Head First | 16.00% | ~2,585 |
 | To the World's End | 12.00% | ~1,938 |

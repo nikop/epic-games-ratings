@@ -29,10 +29,10 @@
 | Freebooter | 3.00% | ~17 |
 | Marauder | 3.00% | ~17 |
 | Fully Decked | 3.00% | ~17 |
-| Welcome Back Jester | 2.00% | ~11 |
+| Welcome Back Jester | 3.00% | ~17 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 573 (Ranked 229)  
-Completed: 10 (1.75%) (Ranked 101)  
+Completed: 11 (1.92%) (Ranked 94)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -59,4 +59,4 @@ Completed: 10 (1.75%) (Ranked 101)
 | 2023-08-30 | 553 | 9 |
 | 2023-08-31 | 559 | 9 |
 | 2023-09-01 | 570 | 9 |
-| 2023-09-02 | 573 | 10 |
+| 2023-09-02 | 573 | 11 |

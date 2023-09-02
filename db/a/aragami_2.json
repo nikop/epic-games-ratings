@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 153,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
     "PcReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 42022,
+  "EOS_Progressed": 42023,
   "EOS_Completed": 215,
-  "EOS_NewPlayers": 506,
+  "EOS_NewPlayers": 502,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -13816,6 +13816,11 @@
       "Time": "2023-09-02T07:03:51.1381839+00:00",
       "NumProgressed": 42022,
       "NumCompleted": 215
+    },
+    {
+      "Time": "2023-09-02T08:04:37.7327928+00:00",
+      "NumProgressed": 42023,
+      "NumCompleted": 215
     }
   ],
   "TotalAchievements": 44,
@@ -13867,7 +13872,7 @@
       "Name": "Ruse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4622
+      "UsersEstimate": 4623
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -14019,7 +14024,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 15548
+      "UsersEstimate": 15549
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -14035,7 +14040,7 @@
       "Name": "Wall Lizard",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 8404
+      "UsersEstimate": 8405
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -14043,7 +14048,7 @@
       "Name": "Apex Predator",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 10085
+      "UsersEstimate": 10086
     },
     {
       "ID": "ACHIEVEMENT_36",
@@ -14051,7 +14056,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 23112
+      "UsersEstimate": 23113
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -14091,7 +14096,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 25213
+      "UsersEstimate": 25214
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -14163,7 +14168,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 39080
+      "UsersEstimate": 39081
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -14171,14 +14176,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 21851
+      "UsersEstimate": 21852
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 42022,
+      "Progressed": 42023,
       "Completed": 215
     }
   ],
@@ -14186,8 +14191,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-08-30T04:00:16.1693203+00:00",
-  "LastChanged_Achievements": "2023-09-02T07:03:51.1381834+00:00",
+  "LastChanged_Achievements": "2023-09-02T08:04:37.7327924+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:14.3524994+00:00",
-  "LastUpdate_Ratings": "2023-09-02T06:58:04.6240653+00:00",
-  "LastUpdate_Achievements": "2023-09-02T07:03:51.138324+00:00"
+  "LastUpdate_Ratings": "2023-09-02T07:58:40.9686048+00:00",
+  "LastUpdate_Achievements": "2023-09-02T08:04:37.7329663+00:00"
 }

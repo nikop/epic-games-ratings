@@ -3121,9 +3121,9 @@
       "ID": "GIANT_KILLER",
       "SetID": "9a4jnji",
       "Name": "Giant Killer",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 621
+      "UsersEstimate": 634
     },
     {
       "ID": "GOAL",
@@ -3322,8 +3322,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-08-24T13:04:37.3738417+00:00",
-  "LastChanged_Achievements": "2023-09-02T07:03:52.8350295+00:00",
+  "LastChanged_Achievements": "2023-09-02T08:04:39.960629+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:56.8957598+00:00",
-  "LastUpdate_Ratings": "2023-09-02T06:58:13.4657843+00:00",
-  "LastUpdate_Achievements": "2023-09-02T07:03:52.835093+00:00"
+  "LastUpdate_Ratings": "2023-09-02T07:58:53.3206426+00:00",
+  "LastUpdate_Achievements": "2023-09-02T08:04:39.9606957+00:00"
 }

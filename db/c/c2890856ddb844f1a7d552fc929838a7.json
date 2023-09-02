@@ -40,9 +40,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 632,
+  "EOS_Progressed": 633,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 259,
+  "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -875,6 +875,11 @@
       "Time": "2023-09-02T07:06:26.4201056+00:00",
       "NumProgressed": 632,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-02T08:07:48.997248+00:00",
+      "NumProgressed": 633,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -895,15 +900,15 @@
       "Name": "A Thousand Years Later",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "AC02",
       "SetID": "l4abp0",
       "Name": "Blood and Dust",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 417
+      "UsersEstimate": 424
     },
     {
       "ID": "AC03",
@@ -935,7 +940,7 @@
       "Name": "The Last Ascension",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "AC07",
@@ -951,7 +956,7 @@
       "Name": "Forged in Fire",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "AC09",
@@ -959,15 +964,15 @@
       "Name": "Fermosa Fembra",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "AC10",
       "SetID": "l4abp0",
       "Name": "The Wait is Over",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 145
+      "UsersEstimate": 152
     },
     {
       "ID": "AC11",
@@ -1039,7 +1044,7 @@
       "Name": "Soledad",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "AC20",
@@ -1063,7 +1068,7 @@
       "Name": "Empty Handed",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "AC23",
@@ -1071,7 +1076,7 @@
       "Name": "Hide and Seek",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "AC24",
@@ -1095,7 +1100,7 @@
       "Name": "A Leap of Faith",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "AC27",
@@ -1109,17 +1114,17 @@
       "ID": "AC28",
       "SetID": "l4abp0",
       "Name": "The Punished One",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 240
+      "UsersEstimate": 247
     },
     {
       "ID": "AC29",
       "SetID": "l4abp0",
       "Name": "The Veteran One",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 152
     },
     {
       "ID": "AC30",
@@ -1143,7 +1148,7 @@
       "Name": "Nobody Expects the Spanish Inquisition!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "AC33",
@@ -1151,7 +1156,7 @@
       "Name": "Ultima Ratio",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "AC34",
@@ -1231,7 +1236,7 @@
       "Name": "The Finest Craftmanship",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "AC44",
@@ -1254,7 +1259,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 632,
+      "Progressed": 633,
       "Completed": 0
     }
   ],
@@ -1262,8 +1267,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-01T21:01:12.3792487+00:00",
-  "LastChanged_Achievements": "2023-09-02T07:06:26.4201051+00:00",
+  "LastChanged_Achievements": "2023-09-02T08:07:48.9972473+00:00",
   "LastUpdate_AppInfo": "2023-08-29T18:57:21.35462+00:00",
-  "LastUpdate_Ratings": "2023-09-02T07:00:16.2159949+00:00",
-  "LastUpdate_Achievements": "2023-09-02T07:06:26.4201484+00:00"
+  "LastUpdate_Ratings": "2023-09-02T08:01:33.0301178+00:00",
+  "LastUpdate_Achievements": "2023-09-02T08:07:48.9973035+00:00"
 }

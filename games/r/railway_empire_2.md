@@ -43,7 +43,7 @@ Rating: 4.47 (Ranked 615)
 | Networker | 17.00% | ~316 |
 | Assimilated | 15.00% | ~279 |
 | Locusts | 15.00% | ~279 |
-| Settler | 14.00% | ~260 |
+| Settler | 15.00% | ~279 |
 | Go West | 13.00% | ~242 |
 | Max Power | 13.00% | ~242 |
 | Bold and beautiful | 13.00% | ~242 |
