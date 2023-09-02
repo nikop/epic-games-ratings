@@ -3,7 +3,7 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.00% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.90% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 34.38% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 34.11% |
 | 5 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 33.33% |
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.95% |
 | 7 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
@@ -35,7 +35,7 @@
 | 33 | [Sonic Origins](games/s/sonic_origins.md) | 8.95% |
 | 34 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.89% |
 | 35 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.61% |
-| 36 | [Ravenlok](games/r/ravenlok.md) | 7.73% |
+| 36 | [Ravenlok](games/r/ravenlok.md) | 7.72% |
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
 | 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.14% |
 | 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.99% |
@@ -72,7 +72,7 @@
 | 70 | [HordeCore](games/h/hordecore.md) | 3.15% |
 | 71 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.08% |
 | 72 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.01% |
-| 73 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 2.97% |
+| 73 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 2.96% |
 | 74 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.94% |
 | 75 | [Monster Harvest](games/m/monster_harvest.md) | 2.93% |
 | 75 | [MultiVersus](games/m/multiversus.md) | 2.93% |
@@ -88,19 +88,19 @@
 | 86 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.50% |
 | 86 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 88 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.33% |
-| 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.26% |
+| 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.27% |
 | 90 | [Bloodshore](games/b/bloodshore.md) | 2.19% |
 | 91 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
-| 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.04% |
+| 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.03% |
 | 93 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.00% |
 | 94 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
 | 95 | [Night Book](games/n/night_book.md) | 1.86% |
 | 96 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
 | 97 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
-| 98 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.82% |
-| 99 | [Sifu](games/s/sifu.md) | 1.81% |
-| 100 | [Frogun](games/f/frogun.md) | 1.80% |
-| 101 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.79% |
+| 98 | [Sifu](games/s/sifu.md) | 1.81% |
+| 99 | [Frogun](games/f/frogun.md) | 1.80% |
+| 100 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.79% |
+| 100 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.79% |
 | 102 | [Somerville](games/s/somerville.md) | 1.66% |
 | 103 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.64% |
 | 104 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 1.58% |
