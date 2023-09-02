@@ -3,7 +3,7 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 49.38% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.90% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 34.88% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 35.38% |
 | 5 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 33.33% |
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.95% |
 | 7 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
@@ -60,8 +60,8 @@
 | 58 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
 | 59 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.16% |
 | 60 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.07% |
-| 61 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.97% |
-| 61 | [ZZT!](games/z/zzt!.md) | 3.97% |
+| 61 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.01% |
+| 62 | [ZZT!](games/z/zzt!.md) | 3.97% |
 | 63 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 64 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 65 | [Without Escape](games/w/without_escape.md) | 3.45% |
@@ -101,7 +101,7 @@
 | 99 | [Sifu](games/s/sifu.md) | 1.81% |
 | 100 | [Frogun](games/f/frogun.md) | 1.80% |
 | 101 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.79% |
-| 102 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.72% |
+| 102 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.67% |
 | 103 | [Somerville](games/s/somerville.md) | 1.66% |
 | 104 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.64% |
 | 105 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.56% |
@@ -127,8 +127,8 @@
 | 123 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.99% |
 | 126 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.95% |
 | 127 | [Hades](games/h/hades.md) | 0.90% |
-| 128 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.86% |
-| 129 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
+| 128 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.85% |
+| 128 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 130 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
 | 131 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.81% |
 | 132 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
@@ -154,7 +154,7 @@
 | 151 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
 | 153 | [Aragami 2](games/a/aragami_2.md) | 0.51% |
 | 154 | [Godlike Burger](games/g/godlike_burger.md) | 0.48% |
-| 154 | [Them and Us](games/t/them_and_us.md) | 0.48% |
+| 155 | [Them and Us](games/t/them_and_us.md) | 0.47% |
 | 156 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 156 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.46% |
 | 156 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.46% |
