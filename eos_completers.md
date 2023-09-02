@@ -37,7 +37,7 @@
 | 35 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.61% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.71% |
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
-| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.13% |
+| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.12% |
 | 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.99% |
 | 39 | [Scorn](games/s/scorn.md) | 6.99% |
 | 41 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.84% |
@@ -94,13 +94,13 @@
 | 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.01% |
 | 93 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.00% |
 | 94 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
-| 95 | [Night Book](games/n/night_book.md) | 1.86% |
-| 96 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
-| 97 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
-| 98 | [Sifu](games/s/sifu.md) | 1.81% |
-| 99 | [Frogun](games/f/frogun.md) | 1.80% |
-| 100 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.79% |
-| 101 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 1.75% |
+| 94 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 1.92% |
+| 96 | [Night Book](games/n/night_book.md) | 1.86% |
+| 97 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
+| 98 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
+| 99 | [Sifu](games/s/sifu.md) | 1.81% |
+| 100 | [Frogun](games/f/frogun.md) | 1.80% |
+| 101 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.79% |
 | 102 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.72% |
 | 103 | [Somerville](games/s/somerville.md) | 1.66% |
 | 104 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.64% |
@@ -214,9 +214,9 @@
 | 210 | [Isonzo](games/i/isonzo.md) | 0.12% |
 | 210 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
 | 210 | [Port Royale 4](games/p/port_royale_4.md) | 0.12% |
-| 215 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.11% |
-| 215 | [Remnant 2](games/r/remnant_2.md) | 0.11% |
-| 215 | [Ring of Pain](games/r/ring_of_pain.md) | 0.11% |
+| 210 | [Remnant 2](games/r/remnant_2.md) | 0.12% |
+| 216 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.11% |
+| 216 | [Ring of Pain](games/r/ring_of_pain.md) | 0.11% |
 | 218 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
 | 218 | [House Flipper](games/h/house_flipper.md) | 0.10% |
 | 218 | [Shop Titans](games/s/shop_titans.md) | 0.10% |
@@ -250,26 +250,26 @@
 | 247 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
 | 247 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.03% |
 | 250 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.02% |
-| 250 | [Black Book](games/b/black_book.md) | 0.02% |
 | 250 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
 | 250 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 0.02% |
 | 250 | [Good Company](games/g/good_company.md) | 0.02% |
 | 250 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
 | 250 | [Saturnalia](games/s/saturnalia.md) | 0.02% |
 | 250 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
-| 258 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
-| 258 | [Deceive Inc.](games/d/deceive_inc..md) | 0.01% |
-| 258 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 0.01% |
-| 258 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 0.01% |
-| 258 | [Forspoken](games/f/forspoken.md) | 0.01% |
-| 258 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 0.01% |
-| 258 | [Rocket League®](games/r/rocket_league®.md) | 0.01% |
-| 258 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 0.01% |
-| 258 | [Severed Steel](games/s/severed_steel.md) | 0.01% |
-| 258 | [Sunless Sea](games/s/sunless_sea.md) | 0.01% |
-| 258 | [The Alto Collection](games/t/the_alto_collection.md) | 0.01% |
-| 258 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 0.01% |
-| 258 | [Verdun](games/v/verdun.md) | 0.01% |
+| 257 | [Black Book](games/b/black_book.md) | 0.01% |
+| 257 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
+| 257 | [Deceive Inc.](games/d/deceive_inc..md) | 0.01% |
+| 257 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 0.01% |
+| 257 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 0.01% |
+| 257 | [Forspoken](games/f/forspoken.md) | 0.01% |
+| 257 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 0.01% |
+| 257 | [Rocket League®](games/r/rocket_league®.md) | 0.01% |
+| 257 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 0.01% |
+| 257 | [Severed Steel](games/s/severed_steel.md) | 0.01% |
+| 257 | [Sunless Sea](games/s/sunless_sea.md) | 0.01% |
+| 257 | [The Alto Collection](games/t/the_alto_collection.md) | 0.01% |
+| 257 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 0.01% |
+| 257 | [Verdun](games/v/verdun.md) | 0.01% |
 | 271 | ['n Verlore Verstand](games/'/'n_verlore_verstand.md) | 0.00% |
 | 271 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 0.00% |
 | 271 | [12 orbits](games/1/12_orbits.md) | 0.00% |
