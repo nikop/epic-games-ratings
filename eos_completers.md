@@ -80,7 +80,7 @@
 | 78 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.74% |
 | 79 | [Destiny 2](games/d/destiny_2.md) | 2.73% |
 | 79 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
-| 81 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.62% |
+| 81 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.61% |
 | 82 | [The Bunker](games/t/the_bunker.md) | 2.59% |
 | 83 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.58% |
 | 84 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.57% |
@@ -91,10 +91,10 @@
 | 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.26% |
 | 90 | [Bloodshore](games/b/bloodshore.md) | 2.19% |
 | 91 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
-| 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.00% |
-| 93 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.99% |
+| 92 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.99% |
+| 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 1.99% |
 | 94 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
-| 95 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 1.90% |
+| 95 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 1.89% |
 | 96 | [Night Book](games/n/night_book.md) | 1.86% |
 | 97 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
 | 98 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
@@ -109,9 +109,9 @@
 | 107 | [Five Dates](games/f/five_dates.md) | 1.52% |
 | 108 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.49% |
 | 109 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.45% |
-| 109 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.45% |
-| 111 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.44% |
-| 111 | [Ten Dates](games/t/ten_dates.md) | 1.44% |
+| 110 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.44% |
+| 110 | [Ten Dates](games/t/ten_dates.md) | 1.44% |
+| 112 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.43% |
 | 113 | [Poosh XL](games/p/poosh_xl.md) | 1.39% |
 | 114 | [Late Shift](games/l/late_shift.md) | 1.25% |
 | 115 | [Infindustry](games/i/infindustry.md) | 1.23% |
@@ -179,18 +179,18 @@
 | 177 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 177 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
 | 177 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
-| 180 | [Against the Storm](games/a/against_the_storm.md) | 0.29% |
 | 180 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
 | 180 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
-| 183 | [Scrapnaut](games/s/scrapnaut.md) | 0.28% |
-| 183 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.28% |
-| 183 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.28% |
+| 182 | [Against the Storm](games/a/against_the_storm.md) | 0.28% |
+| 182 | [Scrapnaut](games/s/scrapnaut.md) | 0.28% |
+| 182 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.28% |
+| 182 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.28% |
 | 186 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
 | 186 | [Filament](games/f/filament.md) | 0.25% |
 | 188 | [Despot's Game](games/d/despot's_game.md) | 0.24% |
-| 188 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.24% |
-| 190 | [Blanc](games/b/blanc.md) | 0.23% |
-| 190 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.23% |
+| 189 | [Blanc](games/b/blanc.md) | 0.23% |
+| 189 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.23% |
+| 189 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.23% |
 | 192 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.22% |
 | 192 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
 | 194 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
