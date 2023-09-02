@@ -2,13 +2,13 @@
   "ID": "aa7c3e6b5a2a4ca8962270c15bddb861",
   "Name": "Runbow",
   "ProductSlug": "runbow-fc9fa4",
-  "Ranking_Rating": 627,
+  "Ranking_Rating": 628,
   "Ranking_Popularity": 515,
   "Ranking_PopularitySum": 515,
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,7 +179,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 248821,
+  "EOS_Progressed": 248825,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 316,
   "EOS_NewCompleters": 0,
@@ -12924,6 +12924,11 @@
       "Time": "2023-09-02T00:06:04.3719431+00:00",
       "NumProgressed": 248821,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-02T01:44:42.1451576+00:00",
+      "NumProgressed": 248825,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 46,
@@ -12935,7 +12940,7 @@
       "Name": "Just A Phaze",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17417
+      "UsersEstimate": 17418
     },
     {
       "ID": "aWinnerIsYou",
@@ -12959,7 +12964,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52252
+      "UsersEstimate": 52253
     },
     {
       "ID": "blotbuster",
@@ -12983,7 +12988,7 @@
       "Name": "Butt Butt",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14929
+      "UsersEstimate": 14930
     },
     {
       "ID": "canYouDigIt",
@@ -13007,7 +13012,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37323
+      "UsersEstimate": 37324
     },
     {
       "ID": "clearCut",
@@ -13039,7 +13044,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 49764
+      "UsersEstimate": 49765
     },
     {
       "ID": "didYourTime",
@@ -13111,7 +13116,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 131875
+      "UsersEstimate": 131877
     },
     {
       "ID": "indegestible",
@@ -13127,7 +13132,7 @@
       "Name": "Into The Drift",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17417
+      "UsersEstimate": 17418
     },
     {
       "ID": "itsTheFall",
@@ -13135,7 +13140,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 64693
+      "UsersEstimate": 64694
     },
     {
       "ID": "justABit",
@@ -13167,7 +13172,7 @@
       "Name": "Muddy Waters",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37323
+      "UsersEstimate": 37324
     },
     {
       "ID": "myFirstRunbow",
@@ -13175,7 +13180,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 124410
+      "UsersEstimate": 124412
     },
     {
       "ID": "notScared",
@@ -13207,7 +13212,7 @@
       "Name": "Ready? Fight!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17417
+      "UsersEstimate": 17418
     },
     {
       "ID": "rideTheWave",
@@ -13239,7 +13244,7 @@
       "Name": "The Stunner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 54741
+      "UsersEstimate": 54742
     },
     {
       "ID": "thunderstruck",
@@ -13295,14 +13300,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 39811
+      "UsersEstimate": 39812
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 248821,
+      "Progressed": 248825,
       "Completed": 4
     }
   ],
@@ -13310,8 +13315,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-09-02T00:06:04.3719424+00:00",
+  "LastChanged_Achievements": "2023-09-02T01:44:42.1451569+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:48.6914437+00:00",
-  "LastUpdate_Ratings": "2023-09-01T23:58:32.8932562+00:00",
-  "LastUpdate_Achievements": "2023-09-02T00:06:04.372056+00:00"
+  "LastUpdate_Ratings": "2023-09-02T01:36:28.0120713+00:00",
+  "LastUpdate_Achievements": "2023-09-02T01:44:42.1452465+00:00"
 }

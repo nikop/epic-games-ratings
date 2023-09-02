@@ -4,8 +4,8 @@
   "ProductSlug": "olija",
   "Ranking_EOS_Progress": 571,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 343,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-01-28T15:00:00+00:00",
     "PcReleaseDate": "2021-01-28T15:00:00+00:00",
@@ -128,8 +128,8 @@
   "FirstSeenRating": "2023-03-31T05:58:16.499248+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:12.5297251+00:00",
   "LastChanged": "2023-03-31T05:58:16.4992481+00:00",
-  "LastChanged_Achievements": "2023-09-02T00:03:10.4467127+00:00",
+  "LastChanged_Achievements": "2023-09-02T01:40:51.8175213+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:54.4992666+00:00",
-  "LastUpdate_Ratings": "2023-09-01T23:57:28.5568416+00:00",
-  "LastUpdate_Achievements": "2023-09-02T00:03:10.4467204+00:00"
+  "LastUpdate_Ratings": "2023-09-02T01:34:50.5598139+00:00",
+  "LastUpdate_Achievements": "2023-09-02T01:40:51.8175292+00:00"
 }

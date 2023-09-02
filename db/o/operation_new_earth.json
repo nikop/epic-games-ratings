@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1195,
+  "EOS_Progressed": 1196,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4216,6 +4216,11 @@
       "Time": "2023-09-02T00:05:03.8404516+00:00",
       "NumProgressed": 1195,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-02T01:43:22.1743763+00:00",
+      "NumProgressed": 1196,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4347,7 +4352,7 @@
       "Name": "Sergeant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -4411,7 +4416,7 @@
       "Name": "Covert Operative",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -4530,14 +4535,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1195,
+      "Progressed": 1196,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-02T00:05:03.8404508+00:00",
+  "LastChanged_Achievements": "2023-09-02T01:43:22.1743758+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:58:05.1002416+00:00",
-  "LastUpdate_Ratings": "2023-09-01T23:59:38.7401184+00:00",
-  "LastUpdate_Achievements": "2023-09-02T00:05:03.8405033+00:00"
+  "LastUpdate_Ratings": "2023-09-02T01:37:57.7353695+00:00",
+  "LastUpdate_Achievements": "2023-09-02T01:43:22.1744197+00:00"
 }

@@ -22,10 +22,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | One-Armed Bandit | 0.80% | ~1,084 |
 | The Daily Grind | 0.70% | ~949 |
 | Bounty Hunters | 0.70% | ~949 |
+| Flooding the Market | 0.70% | ~949 |
 | Dungeon Imports | 0.70% | ~949 |
 | Through Repetition, Perfection | 0.70% | ~949 |
 | Demand for Supplies | 0.60% | ~813 |
-| Flooding the Market | 0.60% | ~813 |
 | Where it Hurts | 0.60% | ~813 |
 | Gild-Gotten Goods | 0.60% | ~813 |
 | Accomplished Merchant | 0.60% | ~813 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,509 (Ranked 67)  
+Progressed: 135,510 (Ranked 67)  
 Completed: 140 (0.10%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 140 (0.10%) (Ranked 218)
 | 2023-08-30 | 135,399 | 138 |
 | 2023-08-31 | 135,446 | 140 |
 | 2023-09-01 | 135,508 | 140 |
-| 2023-09-02 | 135,509 | 140 |
+| 2023-09-02 | 135,510 | 140 |
 ## Awards
 Max (Great for Beginners): 4,719  (Ranked 71)  
 Sum: 27,162 (Ranked 47)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 7,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 48,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2021-02-18T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -442,10 +442,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1538230,
+  "EOS_Progressed": 1538236,
   "EOS_Completed": 671,
-  "EOS_NewPlayers": 1263,
-  "EOS_NewCompleters": 3,
+  "EOS_NewPlayers": 1257,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
     {
@@ -15427,6 +15427,11 @@
       "Time": "2023-09-02T00:05:07.0733587+00:00",
       "NumProgressed": 1538230,
       "NumCompleted": 671
+    },
+    {
+      "Time": "2023-09-02T01:43:26.309275+00:00",
+      "NumProgressed": 1538236,
+      "NumCompleted": 671
     }
   ],
   "TotalAchievements": 20,
@@ -15446,7 +15451,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 107676
+      "UsersEstimate": 107677
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -15534,7 +15539,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 153823
+      "UsersEstimate": 153824
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -15597,15 +15602,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1538230,
+      "Progressed": 1538236,
       "Completed": 671
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-07-23T19:00:00.3270793+00:00",
-  "LastChanged_Achievements": "2023-09-02T00:05:07.0733578+00:00",
+  "LastChanged_Achievements": "2023-09-02T01:43:26.3092745+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:30.2739724+00:00",
-  "LastUpdate_Ratings": "2023-09-01T23:59:07.6376663+00:00",
-  "LastUpdate_Achievements": "2023-09-02T00:05:07.0734472+00:00"
+  "LastUpdate_Ratings": "2023-09-02T01:37:16.3348243+00:00",
+  "LastUpdate_Achievements": "2023-09-02T01:43:26.3093594+00:00"
 }

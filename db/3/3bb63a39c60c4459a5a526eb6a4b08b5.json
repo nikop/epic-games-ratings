@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 634,
+  "EOS_Progressed": 635,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
@@ -2236,6 +2236,11 @@
       "Time": "2023-09-01T19:05:48.9128691+00:00",
       "NumProgressed": 634,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-02T01:43:04.8288371+00:00",
+      "NumProgressed": 635,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2263,7 +2268,7 @@
       "Name": "Basic Controls",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "BigPlane",
@@ -2287,7 +2292,7 @@
       "Name": "Calculated",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "Close",
@@ -2311,7 +2316,7 @@
       "Name": "Debtor",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "EdgeOfTheWorld",
@@ -2373,9 +2378,9 @@
       "ID": "LackOfTime",
       "SetID": "1e89b4i",
       "Name": "Lack of Time",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 70
     },
     {
       "ID": "LargeAirport",
@@ -2407,7 +2412,7 @@
       "Name": "Linear Network",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "LongDistance",
@@ -2415,7 +2420,7 @@
       "Name": "Long Distances",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ManagementMaster",
@@ -2447,7 +2452,7 @@
       "Name": "New Record",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "NoTimeForModernization",
@@ -2471,7 +2476,7 @@
       "Name": "This Wasn\u0027t Part of the Plan...",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "Ownway",
@@ -2509,9 +2514,9 @@
       "ID": "ReliableTransporter",
       "SetID": "1e89b4i",
       "Name": "Reliable Transporter",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 89
     },
     {
       "ID": "ResourceEconomy",
@@ -2575,21 +2580,21 @@
       "Name": "Transport Hub",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 634,
+      "Progressed": 635,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-09-02T00:04:50.7395177+00:00",
+  "LastChanged_Achievements": "2023-09-02T01:43:04.8288365+00:00",
   "LastUpdate_AppInfo": "2023-08-29T11:57:10.9614599+00:00",
-  "LastUpdate_Ratings": "2023-09-01T23:59:59.9843258+00:00",
-  "LastUpdate_Achievements": "2023-09-02T00:04:50.7395643+00:00"
+  "LastUpdate_Ratings": "2023-09-02T01:38:28.7312217+00:00",
+  "LastUpdate_Achievements": "2023-09-02T01:43:04.8288785+00:00"
 }

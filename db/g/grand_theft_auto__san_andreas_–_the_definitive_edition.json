@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 167,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -778,9 +778,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12105,
+  "EOS_Progressed": 12106,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -9658,6 +9658,11 @@
       "Time": "2023-09-02T00:05:07.6092537+00:00",
       "NumProgressed": 12105,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-09-02T01:43:26.965882+00:00",
+      "NumProgressed": 12106,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 35,
@@ -9669,7 +9674,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9805
+      "UsersEstimate": 9806
     },
     {
       "ID": "ACH02",
@@ -9749,7 +9754,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1211
     },
     {
       "ID": "ACH12",
@@ -9845,7 +9850,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3147
+      "UsersEstimate": 3148
     },
     {
       "ID": "ACH24",
@@ -9948,7 +9953,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12105,
+      "Progressed": 12106,
       "Completed": 44
     }
   ],
@@ -9956,8 +9961,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-08-31T01:39:56.0777646+00:00",
-  "LastChanged_Achievements": "2023-09-02T00:05:07.6092531+00:00",
+  "LastChanged_Achievements": "2023-09-02T01:43:26.9658816+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:49.3440273+00:00",
-  "LastUpdate_Ratings": "2023-09-01T23:59:26.0839836+00:00",
-  "LastUpdate_Achievements": "2023-09-02T00:05:07.6093318+00:00"
+  "LastUpdate_Ratings": "2023-09-02T01:37:41.3623716+00:00",
+  "LastUpdate_Achievements": "2023-09-02T01:43:26.9659437+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 38,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 30,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-02-10T17:00:00+00:00",
     "PcReleaseDate": "2018-12-12T12:21:00+00:00",
@@ -3229,9 +3229,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 439109,
+  "EOS_Progressed": 439136,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2703,
+  "EOS_NewPlayers": 2696,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18169,6 +18169,11 @@
       "Time": "2023-09-02T00:03:35.7667444+00:00",
       "NumProgressed": 439109,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-02T01:41:25.6958187+00:00",
+      "NumProgressed": 439136,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -18180,7 +18185,7 @@
       "Name": "Banged",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 8782
+      "UsersEstimate": 8783
     },
     {
       "ID": "ACH_BLINDFIRE",
@@ -18204,7 +18209,7 @@
       "Name": "Checkpoint Victory",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 8782
+      "UsersEstimate": 8783
     },
     {
       "ID": "ACH_CINEMATIC",
@@ -18236,7 +18241,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 17564
+      "UsersEstimate": 17565
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -18252,7 +18257,7 @@
       "Name": "First Blood",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 8782
+      "UsersEstimate": 8783
     },
     {
       "ID": "ACH_FLACCID_PARALYSIS",
@@ -18260,7 +18265,7 @@
       "Name": "Flaccid Paralysis",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 8782
+      "UsersEstimate": 8783
     },
     {
       "ID": "ACH_GROUNDED",
@@ -18284,7 +18289,7 @@
       "Name": "High Speed Low Drag",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 13173
+      "UsersEstimate": 13174
     },
     {
       "ID": "ACH_JR_50",
@@ -18308,7 +18313,7 @@
       "Name": "Lucky",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 13173
+      "UsersEstimate": 13174
     },
     {
       "ID": "ACH_MOUNT_AND_GUN",
@@ -18348,7 +18353,7 @@
       "Name": "Point Shooting",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 17564
+      "UsersEstimate": 17565
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -18356,7 +18361,7 @@
       "Name": "Push Victory",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 8782
+      "UsersEstimate": 8783
     },
     {
       "ID": "ACH_REFLEXES",
@@ -18388,7 +18393,7 @@
       "Name": "Self-destructive",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 8782
+      "UsersEstimate": 8783
     },
     {
       "ID": "ACH_SEMPER_PARATUS",
@@ -18412,7 +18417,7 @@
       "Name": "Stylin\u0027",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 13173
+      "UsersEstimate": 13174
     },
     {
       "ID": "ACH_THANKS_STATION",
@@ -18420,7 +18425,7 @@
       "Name": "Thanks Station!",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 1756
+      "UsersEstimate": 1757
     },
     {
       "ID": "ACH_THERE_FOR_YOU",
@@ -18436,7 +18441,7 @@
       "Name": "Turf War",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 13173
+      "UsersEstimate": 13174
     },
     {
       "ID": "ACH_WALLBANGER",
@@ -18444,7 +18449,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 21955
+      "UsersEstimate": 21957
     },
     {
       "ID": "ACH_WET_FEET",
@@ -18452,22 +18457,22 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 17564
+      "UsersEstimate": 17565
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 439109,
+      "Progressed": 439136,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-09-01T16:57:56.4645345+00:00",
-  "LastChanged_Achievements": "2023-09-02T00:03:35.7667438+00:00",
+  "LastChanged_Achievements": "2023-09-02T01:41:25.6958183+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:42.1535324+00:00",
-  "LastUpdate_Ratings": "2023-09-01T23:57:29.9202495+00:00",
-  "LastUpdate_Achievements": "2023-09-02T00:03:35.7668587+00:00"
+  "LastUpdate_Ratings": "2023-09-02T01:34:52.3921823+00:00",
+  "LastUpdate_Achievements": "2023-09-02T01:41:25.6959089+00:00"
 }

@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Solved first case | 2.00% | ~4 |
+| Solved The Spider of Lanka 1st Case | 2.00% | ~3 |
 | Solved second case | 1.00% | ~2 |
-| Solved The Spider of Lanka 1st Case | 1.00% | ~1 |
 | Solved eleventh case | 0.50% | ~1 |
 | Solved third case | 0.50% | ~1 |
 | Solved fourth case | 0.50% | ~1 |

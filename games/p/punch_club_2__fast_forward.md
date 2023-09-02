@@ -22,16 +22,16 @@
 | No bullying more | 68.00% | ~205 |
 | Pal of your father? | 66.00% | ~199 |
 | Employee of the month | 65.00% | ~196 |
-| Spirit of the past | 63.00% | ~190 |
+| Spirit of the past | 64.00% | ~193 |
 | Law student | 62.00% | ~187 |
 | Workout professional | 61.00% | ~184 |
+| Handyman | 60.00% | ~181 |
 | Champion – starter pack | 60.00% | ~181 |
-| Handyman | 59.00% | ~178 |
+| Little hacker | 59.00% | ~178 |
 | It's good to be alive | 59.00% | ~178 |
+| Own four walls | 59.00% | ~178 |
 | Employee of the year | 59.00% | ~178 |
 | Fight for life | 58.00% | ~175 |
-| Little hacker | 58.00% | ~175 |
-| Own four walls | 58.00% | ~175 |
 | Intriguing candies | 57.00% | ~172 |
 | Extreme neuropower! | 54.00% | ~163 |
 | Legal courier | 53.00% | ~160 |
@@ -42,15 +42,15 @@
 | Mysterious voice | 44.00% | ~132 |
 | No blades in the gym | 43.00% | ~129 |
 | Champion – no way back | 41.00% | ~123 |
+| Responsible approach | 40.00% | ~120 |
 | Underground dwellers | 39.00% | ~117 |
-| Responsible approach | 39.00% | ~117 |
 | Deal with life | 38.00% | ~114 |
 | Poisoned fighter | 38.00% | ~114 |
 | Your own way | 38.00% | ~114 |
 | Mom got better | 37.00% | ~111 |
 | GYM professional | 37.00% | ~111 |
+| Get out of my apartment! | 37.00% | ~111 |
 | The die is cast | 37.00% | ~111 |
-| Get out of my apartment! | 36.00% | ~108 |
 | Seashell hunter | 35.00% | ~105 |
 | Gang wrangler | 34.00% | ~102 |
 | Problems of cyborgs | 33.00% | ~99 |

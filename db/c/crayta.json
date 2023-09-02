@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 324,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -329,9 +329,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 109619,
+  "EOS_Progressed": 109620,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2264,6 +2264,11 @@
       "Time": "2023-09-02T00:04:55.2311929+00:00",
       "NumProgressed": 109619,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-02T01:43:10.984287+00:00",
+      "NumProgressed": 109620,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -2403,7 +2408,7 @@
       "Name": "Variety Player - Bronze",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 14250
+      "UsersEstimate": 14251
     },
     {
       "ID": "25",
@@ -2467,7 +2472,7 @@
       "Name": "Well Socialised!",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 25212
+      "UsersEstimate": 25213
     },
     {
       "ID": "34",
@@ -2546,15 +2551,15 @@
     {
       "ID": "4i9cj6f",
       "IsBase": true,
-      "Progressed": 109619,
+      "Progressed": 109620,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:23:35.732973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:02.9835227+00:00",
   "LastChanged": "2023-01-05T14:57:39.5556866+00:00",
-  "LastChanged_Achievements": "2023-09-02T00:04:55.2311921+00:00",
+  "LastChanged_Achievements": "2023-09-02T01:43:10.9842863+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:07.3335555+00:00",
-  "LastUpdate_Ratings": "2023-09-01T23:57:55.6784306+00:00",
-  "LastUpdate_Achievements": "2023-09-02T00:04:55.2312301+00:00"
+  "LastUpdate_Ratings": "2023-09-02T01:35:33.3692915+00:00",
+  "LastUpdate_Achievements": "2023-09-02T01:43:10.9843176+00:00"
 }

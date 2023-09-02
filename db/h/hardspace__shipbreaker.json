@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 515,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -1616,9 +1616,9 @@
       "ID": "ACH_ACT_2_COMPLETE",
       "SetID": "108h92c",
       "Name": "Act II Complete",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 60,
-      "UsersEstimate": 177
+      "UsersEstimate": 186
     },
     {
       "ID": "ACH_ACT_3_COMPLETE",
@@ -1833,8 +1833,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-27T22:57:40.9300302+00:00",
-  "LastChanged_Achievements": "2023-09-02T00:05:30.1933904+00:00",
+  "LastChanged_Achievements": "2023-09-02T01:43:57.0532613+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:35.5861356+00:00",
-  "LastUpdate_Ratings": "2023-09-01T23:57:06.3834151+00:00",
-  "LastUpdate_Achievements": "2023-09-02T00:05:30.1934173+00:00"
+  "LastUpdate_Ratings": "2023-09-02T01:34:21.3744495+00:00",
+  "LastUpdate_Achievements": "2023-09-02T01:43:57.0532834+00:00"
 }
