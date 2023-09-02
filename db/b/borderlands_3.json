@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 9,
   "Ranking_EOS_Progress": 571,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 343,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2019-09-13T15:00:00+00:00",
@@ -11120,10 +11120,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 363593,
       "NumberOfAwardsMax": 115546
+    },
+    {
+      "Time": "2023-09-02T11:01:25.4214741+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 363646,
+      "NumberOfAwardsMax": 115546
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 363593,
+  "NumberOfAwards": 363646,
   "NumberOfAwardsMax": 115546,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11149,7 +11155,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 25801
+      "Count": 25815
     },
     {
       "Text": "This game has Diverse Characters",
@@ -11167,7 +11173,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 24483
+      "Count": 24502
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -11185,7 +11191,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 24119
+      "Count": 24139
     },
     {
       "Text": "This game has a Creative Community",
@@ -11205,8 +11211,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:32.2549878+00:00",
-  "LastChanged": "2023-09-01T23:58:58.758847+00:00",
-  "LastUpdate_AppInfo": "2023-08-26T09:57:20.7167755+00:00",
-  "LastUpdate_Ratings": "2023-09-02T10:02:47.3660098+00:00",
-  "LastUpdate_Achievements": "2023-09-02T10:08:45.5253894+00:00"
+  "LastChanged": "2023-09-02T11:01:25.4214739+00:00",
+  "LastUpdate_AppInfo": "2023-09-02T10:57:23.9402563+00:00",
+  "LastUpdate_Ratings": "2023-09-02T11:01:25.4214746+00:00",
+  "LastUpdate_Achievements": "2023-09-02T11:07:30.2151976+00:00"
 }

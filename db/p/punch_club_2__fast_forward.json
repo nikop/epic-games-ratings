@@ -1176,9 +1176,9 @@
       "ID": "all_promotion_6",
       "SetID": "69co12a",
       "Name": "Trap disarmed",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 91
     },
     {
       "ID": "another_world",
@@ -1456,9 +1456,9 @@
       "ID": "mysterious_voice",
       "SetID": "69co12a",
       "Name": "Mysterious voice",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 136
     },
     {
       "ID": "nero_basic",
@@ -1504,9 +1504,9 @@
       "ID": "poisoned_fighter",
       "SetID": "69co12a",
       "Name": "Poisoned fighter",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 115
     },
     {
       "ID": "police_promotion_1",
@@ -1520,9 +1520,9 @@
       "ID": "police_promotion_2",
       "SetID": "69co12a",
       "Name": "Get out of my apartment!",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 112
     },
     {
       "ID": "police_promotion_3",
@@ -1544,9 +1544,9 @@
       "ID": "prof_promotion_2",
       "SetID": "69co12a",
       "Name": "Careerist",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 94
     },
     {
       "ID": "resistance_fake",
@@ -1600,9 +1600,9 @@
       "ID": "trainer_promotion_1",
       "SetID": "69co12a",
       "Name": "Escaped from a big trouble",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 154
     },
     {
       "ID": "trainer_promotion_2",
@@ -1671,8 +1671,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-09-02T10:05:24.6968467+00:00",
+  "LastChanged_Achievements": "2023-09-02T11:04:20.7557082+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:38.1183893+00:00",
-  "LastUpdate_Ratings": "2023-09-02T10:04:41.5251109+00:00",
-  "LastUpdate_Achievements": "2023-09-02T10:05:24.696929+00:00"
+  "LastUpdate_Ratings": "2023-09-02T11:03:16.2833284+00:00",
+  "LastUpdate_Achievements": "2023-09-02T11:04:20.7557674+00:00"
 }

@@ -6,26 +6,26 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~15,468 |
-| That's a Grand Army | 3.00% | ~11,601 |
-| That is mine! | 3.00% | ~11,601 |
-| Victorious! | 3.00% | ~11,601 |
-| Brothers in Arms | 2.00% | ~7,734 |
-| That's a Grand Navy | 2.00% | ~7,734 |
-| Seriously?! | 2.00% | ~7,734 |
-| Cold War | 1.00% | ~3,867 |
-| Defender of the Faith | 1.00% | ~3,867 |
-| For the Glory | 1.00% | ~3,867 |
-| It's all about the money | 1.00% | ~3,867 |
-| True Catholic | 1.00% | ~3,867 |
-| The Princess is in this Castle | 0.90% | ~3,480 |
+| Until death do us apart | 4.00% | ~15,472 |
+| That's a Grand Army | 3.00% | ~11,604 |
+| That is mine! | 3.00% | ~11,604 |
+| Victorious! | 3.00% | ~11,604 |
+| Brothers in Arms | 2.00% | ~7,736 |
+| That's a Grand Navy | 2.00% | ~7,736 |
+| Seriously?! | 2.00% | ~7,736 |
+| Cold War | 1.00% | ~3,868 |
+| Defender of the Faith | 1.00% | ~3,868 |
+| For the Glory | 1.00% | ~3,868 |
+| It's all about the money | 1.00% | ~3,868 |
+| True Catholic | 1.00% | ~3,868 |
+| The Princess is in this Castle | 0.90% | ~3,481 |
 | It's all about luck | 0.80% | ~3,094 |
 | Respected | 0.80% | ~3,094 |
 | Truly Divine Ruler | 0.80% | ~3,094 |
-| Blockader | 0.70% | ~2,707 |
-| Double the Love | 0.70% | ~2,707 |
-| Total Control | 0.70% | ~2,707 |
-| Royal Authority | 0.60% | ~2,320 |
+| Blockader | 0.70% | ~2,708 |
+| Double the Love | 0.70% | ~2,708 |
+| Total Control | 0.70% | ~2,708 |
+| Royal Authority | 0.60% | ~2,321 |
 | Combined Arms | 0.50% | ~1,934 |
 | My armies are invincible! | 0.50% | ~1,934 |
 | Agressive Expander | 0.40% | ~1,547 |
@@ -45,14 +45,14 @@ Number of Ratings: 8,414  (23.09.2022)
 | Populists in Government | 0.30% | ~1,160 |
 | The Five Colonies | 0.30% | ~1,160 |
 | Trustworthy | 0.30% | ~1,160 |
-| All belongs to Mother Russia | 0.20% | ~773 |
-| At every continent | 0.20% | ~773 |
-| Electable! | 0.20% | ~773 |
-| Grand Coalition | 0.20% | ~773 |
-| One Family to Rule them All | 0.20% | ~773 |
-| The pen is mightier than the sword | 0.20% | ~773 |
-| Time Bandit | 0.20% | ~773 |
-| Traditional Player | 0.20% | ~773 |
+| All belongs to Mother Russia | 0.20% | ~774 |
+| At every continent | 0.20% | ~774 |
+| Electable! | 0.20% | ~774 |
+| Grand Coalition | 0.20% | ~774 |
+| One Family to Rule them All | 0.20% | ~774 |
+| The pen is mightier than the sword | 0.20% | ~774 |
+| Time Bandit | 0.20% | ~774 |
+| Traditional Player | 0.20% | ~774 |
 | The 52 Garhs | 0.10% | ~387 |
 | I don't like sand | 0.10% | ~387 |
 | A Blessed Nation | 0.10% | ~387 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 386,707 (Ranked 41)  
+Progressed: 386,808 (Ranked 41)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -496,10 +496,10 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-08-30 | 382,380 | 0 |
 | 2023-08-31 | 384,237 | 0 |
 | 2023-09-01 | 386,048 | 0 |
-| 2023-09-02 | 386,707 | 0 |
+| 2023-09-02 | 386,808 | 0 |
 ## Awards
 Max (Educational): 5,880  (Ranked 59)  
-Sum: 48,431 (Ranked 26)  
+Sum: 48,463 (Ranked 26)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -510,8 +510,8 @@ Diff (max vs sum): 33
 | This game has Diverse Characters | 5,553 |
 | This game is Relaxing | 5,412 |
 | This game has Competitive Players | 5,288 |
-| This game has Amazing Storytelling | 4,953 |
-| This game has Amazing Characters | 4,576 |
+| This game has Amazing Storytelling | 4,971 |
+| This game has Amazing Characters | 4,590 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -744,4 +744,4 @@ Diff (max vs sum): 33
 | 2023-08-30 | 4.68 | - | 5,840 | 48,158 |
 | 2023-08-31 | 4.68 | - | 5,861 | 48,281 |
 | 2023-09-01 | 4.68 | - | 5,880 | 48,402 |
-| 2023-09-02 | 4.68 | - | 5,880 | 48,431 |
+| 2023-09-02 | 4.68 | - | 5,880 | 48,463 |

@@ -2,8 +2,8 @@
   "ID": "4a86b8318e5a40e094f34a7e6a934652",
   "Name": "I Am Future - Cozy Apocalypse Survival",
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
-  "Ranking_EOS_Progress": 372,
-  "Ranking_EOS_Completed": 102,
+  "Ranking_EOS_Progress": 371,
+  "Ranking_EOS_Completed": 103,
   "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 60,
+  "EOS_Progressed": 61,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.67,
+  "EOS_Completed_Percentage": 1.64,
   "EosHistory": [
     {
       "Time": "2023-08-29T09:05:59.1773399+00:00",
@@ -236,6 +236,11 @@
       "Time": "2023-09-02T09:08:08.323088+00:00",
       "NumProgressed": 60,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-02T11:09:03.8588392+00:00",
+      "NumProgressed": 61,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -246,7 +251,7 @@
       "ID": "ACQUAINTANCE_EARL",
       "SetID": "aniflfk",
       "Name": "Holy Macaroni!",
-      "Percentage": 77,
+      "Percentage": 75,
       "XP": 50,
       "UsersEstimate": 46
     },
@@ -270,7 +275,7 @@
       "ID": "BRING_PROSPERO",
       "SetID": "aniflfk",
       "Name": "Amusement Park",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
       "UsersEstimate": 10
     },
@@ -286,7 +291,7 @@
       "ID": "CATCH_30_FISH",
       "SetID": "aniflfk",
       "Name": "Fisherman",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 50,
       "UsersEstimate": 16
     },
@@ -326,7 +331,7 @@
       "ID": "LUNCH_LEECH",
       "SetID": "aniflfk",
       "Name": "Leech Lunch",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 50,
       "UsersEstimate": 16
     },
@@ -358,7 +363,7 @@
       "ID": "REMOVE_100_WEEDS",
       "SetID": "aniflfk",
       "Name": "Weed Warrior",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 50,
       "UsersEstimate": 13
     },
@@ -366,7 +371,7 @@
       "ID": "REPAIR_BRIDGE",
       "SetID": "aniflfk",
       "Name": "Bridge Builder",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 50,
       "UsersEstimate": 7
     },
@@ -382,9 +387,9 @@
       "ID": "SPEND_2000_COINS",
       "SetID": "aniflfk",
       "Name": "Crypto Bro",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "TAKE_LEECH",
@@ -398,7 +403,7 @@
       "ID": "UPGRADE_SMART_TOWER",
       "SetID": "aniflfk",
       "Name": "Strong Signal",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 50,
       "UsersEstimate": 13
     }
@@ -407,14 +412,14 @@
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 60,
+      "Progressed": 61,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-02T10:10:20.8726447+00:00",
+  "LastChanged_Achievements": "2023-09-02T11:09:03.8588383+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:06.6191746+00:00",
-  "LastUpdate_Ratings": "2023-09-02T10:04:31.6186185+00:00",
-  "LastUpdate_Achievements": "2023-09-02T10:10:20.8726635+00:00"
+  "LastUpdate_Ratings": "2023-09-02T11:03:05.9603271+00:00",
+  "LastUpdate_Achievements": "2023-09-02T11:09:03.8588535+00:00"
 }

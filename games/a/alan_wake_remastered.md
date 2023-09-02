@@ -6,33 +6,33 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 38.00% | ~23,618 |
-| Let There Be Light | 31.00% | ~19,267 |
-| Float Like a Butterfly | 30.00% | ~18,646 |
+| Follow the Light | 38.00% | ~23,619 |
+| Let There Be Light | 31.00% | ~19,268 |
+| Float Like a Butterfly | 30.00% | ~18,647 |
 | Nordic Walking | 24.00% | ~14,917 |
 | Bright Falls' Finest | 24.00% | ~14,917 |
-| Under a Thin Layer of Skin | 21.00% | ~13,052 |
-| Park Ranger | 17.00% | ~10,566 |
-| Paging Mr. Wake | 17.00% | ~10,566 |
-| Back! Back, I Say! | 16.00% | ~9,944 |
-| Finders Keepers | 16.00% | ~9,944 |
+| Under a Thin Layer of Skin | 21.00% | ~13,053 |
+| Park Ranger | 17.00% | ~10,567 |
+| Paging Mr. Wake | 17.00% | ~10,567 |
+| Back! Back, I Say! | 16.00% | ~9,945 |
+| Finders Keepers | 16.00% | ~9,945 |
 | Sound and Fury | 15.00% | ~9,323 |
 | Damn Good Cup of Coffee | 15.00% | ~9,323 |
-| Wheels Within Wheels | 14.00% | ~8,701 |
-| They're Heeeeeere! | 14.00% | ~8,701 |
-| Missed by a Mile | 14.00% | ~8,701 |
+| Wheels Within Wheels | 14.00% | ~8,702 |
+| They're Heeeeeere! | 14.00% | ~8,702 |
+| Missed by a Mile | 14.00% | ~8,702 |
 | The Six-Gun Scribe | 13.00% | ~8,080 |
 | Collateral Carnage | 13.00% | ~8,080 |
-| Heavy Metal | 12.00% | ~7,458 |
-| Iron Horse | 12.00% | ~7,458 |
-| Perchance to Dream | 12.00% | ~7,458 |
-| Come One, Come All | 12.00% | ~7,458 |
+| Heavy Metal | 12.00% | ~7,459 |
+| Iron Horse | 12.00% | ~7,459 |
+| Perchance to Dream | 12.00% | ~7,459 |
+| Come One, Come All | 12.00% | ~7,459 |
 | Gatekeeper | 11.00% | ~6,837 |
 | It's Not Just a Typewriter Brand | 11.00% | ~6,837 |
 | Thunder and Lightning | 11.00% | ~6,837 |
 | Two For the Price of One | 11.00% | ~6,837 |
-| The Lady of the Light | 10.00% | ~6,215 |
-| Energized! | 10.00% | ~6,215 |
+| The Lady of the Light | 10.00% | ~6,216 |
+| Energized! | 10.00% | ~6,216 |
 | What Light Through Yonder Window | 9.00% | ~5,594 |
 | Right of Way | 9.00% | ~5,594 |
 | Tornado Wrangler | 8.00% | ~4,972 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~62 |
 | No Punctuation | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,153 (Ranked 87)  
+Progressed: 62,156 (Ranked 87)  
 Completed: 65 (0.10%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 65 (0.10%) (Ranked 218)
 | 2023-08-30 | 62,006 | 65 |
 | 2023-08-31 | 62,064 | 65 |
 | 2023-09-01 | 62,124 | 65 |
-| 2023-09-02 | 62,153 | 65 |
+| 2023-09-02 | 62,156 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

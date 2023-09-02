@@ -1,31 +1,31 @@
 # Call of the Wild: The Angler™
 [Store](https://store.epicgames.com/en-US/p/call-of-the-wild-the-angler)  
 [View Rawdata](../../db/c/call_of_the_wild__the_angler™.json)  
-Rating: 4.14 (Ranked 904)  
+Rating: 4.15 (Ranked 897)  
 Number of Ratings: 281  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 78.00% | ~4,373 |
-| Hey Good Hookin | 68.00% | ~3,813 |
-| I'm on a Boat! | 58.00% | ~3,252 |
-| Can you smell what the Rod is Hooking | 54.00% | ~3,028 |
-| Scaling up | 54.00% | ~3,028 |
-| More Fish in the Sea | 47.00% | ~2,635 |
-| Ready to Rod and Roll | 45.00% | ~2,523 |
-| Fish Out of Water | 34.00% | ~1,906 |
-| License to Gill | 32.00% | ~1,794 |
-| Things that go Splash in the Night | 29.00% | ~1,626 |
+| Fish Just Got Reel | 78.00% | ~4,375 |
+| Hey Good Hookin | 68.00% | ~3,814 |
+| I'm on a Boat! | 58.00% | ~3,253 |
+| Can you smell what the Rod is Hooking | 54.00% | ~3,029 |
+| Scaling up | 54.00% | ~3,029 |
+| More Fish in the Sea | 47.00% | ~2,636 |
+| Ready to Rod and Roll | 45.00% | ~2,524 |
+| Fish Out of Water | 34.00% | ~1,907 |
+| License to Gill | 32.00% | ~1,795 |
+| Things that go Splash in the Night | 29.00% | ~1,627 |
 | Goldfish? | 27.00% | ~1,514 |
 | Going for Gold | 25.00% | ~1,402 |
-| I'm Hooked! | 18.00% | ~1,009 |
+| I'm Hooked! | 18.00% | ~1,010 |
 | Diamond in the Rough | 12.00% | ~673 |
 | More than a Tourist | 11.00% | ~617 |
-| Hook, Line and Sinker | 7.00% | ~392 |
-| School's Out for Summer | 7.00% | ~392 |
-| Marathon | 7.00% | ~392 |
-| I'm the Captain Now | 6.00% | ~336 |
-| Big Fish Small Pond | 6.00% | ~336 |
+| Hook, Line and Sinker | 7.00% | ~393 |
+| School's Out for Summer | 7.00% | ~393 |
+| Marathon | 7.00% | ~393 |
+| I'm the Captain Now | 6.00% | ~337 |
+| Big Fish Small Pond | 6.00% | ~337 |
 | Gonna Need a Bigger Boat | 3.00% | ~168 |
 | The Beetles | 2.00% | ~112 |
 | Rod and Troll | 2.00% | ~100 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.10% | ~5 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,607 (Ranked 142)  
+Progressed: 5,609 (Ranked 142)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-08-30 | 5,496 | 0 |
 | 2023-08-31 | 5,570 | 0 |
 | 2023-09-01 | 5,599 | 0 |
-| 2023-09-02 | 5,607 | 0 |
+| 2023-09-02 | 5,609 | 0 |
 ## Awards
 Max (Relaxing): 33  (Ranked 449)  
 Sum: 166 (Ranked 390)  
@@ -252,3 +252,4 @@ Diff (max vs sum): 59
 | 2023-08-30 | 4.15 | - | 33 | 164 |
 | 2023-08-31 | 4.15 | - | 33 | 165 |
 | 2023-09-01 | 4.14 | - | 33 | 166 |
+| 2023-09-02 | 4.15 | - | 33 | 166 |

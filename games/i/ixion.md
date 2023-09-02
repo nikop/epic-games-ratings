@@ -8,7 +8,7 @@ Rating: 4.55 (Ranked 490)
 | Wakey Wakey | 26.00% | ~814 |
 | Sputnik 2049 | 23.00% | ~720 |
 | Infinite Growth... | 22.00% | ~689 |
-| Without Breaking Some Eggs... | 21.00% | ~657 |
+| Without Breaking Some Eggs... | 21.00% | ~658 |
 | Space Society | 15.00% | ~470 |
 | A Thousand Strong | 15.00% | ~470 |
 | Ready for a New World | 15.00% | ~470 |
@@ -27,9 +27,9 @@ Rating: 4.55 (Ranked 490)
 | Please Make it Stop! | 7.00% | ~219 |
 | Sightseeing | 6.00% | ~188 |
 | From the Past | 6.00% | ~188 |
-| Access Granted | 5.00% | ~156 |
-| Necessary Enhancement | 5.00% | ~156 |
-| All in Good Health | 5.00% | ~156 |
+| Access Granted | 5.00% | ~157 |
+| Necessary Enhancement | 5.00% | ~157 |
+| All in Good Health | 5.00% | ~157 |
 | Oats | 4.00% | ~125 |
 | What They Hide From Us | 4.00% | ~125 |
 | ...  in a finite world | 4.00% | ~125 |
@@ -52,7 +52,7 @@ Rating: 4.55 (Ranked 490)
 | Gregor Spinoza | 1.00% | ~31 |
 | Tiqqun Unchained | 1.00% | ~31 |
 | Scientifically Accurate | 1.00% | ~31 |
-| Drill-dozer | 0.60% | ~19 |
+| Drill-dozer | 0.70% | ~22 |
 | Work Harder | 0.50% | ~16 |
 | Crunch Culture | 0.30% | ~9 |
 | Soylent Green | 0.30% | ~9 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 490)
 | I Give You the Stars | 0.10% | ~1 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,130 (Ranked 162)  
+Progressed: 3,131 (Ranked 162)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-08-30 | 3,116 | 0 |
 | 2023-08-31 | 3,122 | 0 |
 | 2023-09-01 | 3,129 | 0 |
-| 2023-09-02 | 3,130 | 0 |
+| 2023-09-02 | 3,131 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

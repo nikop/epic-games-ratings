@@ -5842,7 +5842,7 @@
       "Count": 3740
     }
   ],
-  "EOS_Progressed": 135528,
+  "EOS_Progressed": 135532,
   "EOS_Completed": 140,
   "EOS_NewPlayers": 383,
   "EOS_NewCompleters": 2,
@@ -19672,6 +19672,11 @@
       "Time": "2023-09-02T10:06:36.1553119+00:00",
       "NumProgressed": 135528,
       "NumCompleted": 140
+    },
+    {
+      "Time": "2023-09-02T11:05:20.8190953+00:00",
+      "NumProgressed": 135532,
+      "NumCompleted": 140
     }
   ],
   "TotalAchievements": 112,
@@ -20033,9 +20038,9 @@
       "ID": "energy01",
       "SetID": "anfd17p",
       "Name": "Another Satisfied Customer",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1220
+      "UsersEstimate": 1355
     },
     {
       "ID": "energy02",
@@ -20121,9 +20126,9 @@
       "ID": "fuseflawless",
       "SetID": "anfd17p",
       "Name": "Flawless Fusion",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 542
+      "UsersEstimate": 678
     },
     {
       "ID": "fuselegendary",
@@ -20578,15 +20583,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135528,
+      "Progressed": 135532,
       "Completed": 140
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-01T20:58:29.882777+00:00",
-  "LastChanged_Achievements": "2023-09-02T10:06:36.1553107+00:00",
+  "LastChanged_Achievements": "2023-09-02T11:05:20.8190947+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:10.3701754+00:00",
-  "LastUpdate_Ratings": "2023-09-02T10:01:13.919475+00:00",
-  "LastUpdate_Achievements": "2023-09-02T10:06:36.1555643+00:00"
+  "LastUpdate_Ratings": "2023-09-02T10:59:53.3253492+00:00",
+  "LastUpdate_Achievements": "2023-09-02T11:05:20.8192818+00:00"
 }

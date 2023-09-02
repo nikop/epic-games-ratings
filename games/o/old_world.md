@@ -82,6 +82,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greece | 1.00% | ~137 |
 | Persian Paganism | 1.00% | ~137 |
 | Building Wonders | 1.00% | ~137 |
+| Legalism | 1.00% | ~137 |
 | Mythology | 1.00% | ~137 |
 | Points Victory | 1.00% | ~137 |
 | Lion | 0.90% | ~124 |
@@ -95,7 +96,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Power to the People | 0.90% | ~124 |
 | Economic Reform | 0.90% | ~124 |
 | Dualism | 0.90% | ~124 |
-| Legalism | 0.90% | ~124 |
 | Legionary | 0.90% | ~124 |
 | Phalangite | 0.90% | ~124 |
 | Capable | 0.80% | ~110 |

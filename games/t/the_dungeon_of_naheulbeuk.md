@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 27.00% | ~59,479 |
+| Sowwy! | 27.00% | ~59,484 |
 | Déjà vu | 3.00% | ~6,609 |
 | Where's that freaking Dwarf? | 3.00% | ~6,609 |
 | Alt+F4 | 3.00% | ~6,609 |
@@ -40,9 +40,9 @@ Number of Ratings: 118  (23.09.2022)
 | Look but don't touch | 0.70% | ~1,542 |
 | Thieves' Guild Accreditation | 0.70% | ~1,542 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.60% | ~1,322 |
-| Dead for good | 0.50% | ~1,101 |
-| Lust and Debauchery | 0.50% | ~1,101 |
-| Material Girl | 0.50% | ~1,101 |
+| Dead for good | 0.50% | ~1,102 |
+| Lust and Debauchery | 0.50% | ~1,102 |
+| Material Girl | 0.50% | ~1,102 |
 | Gargantua | 0.40% | ~881 |
 | In Navalu's footsteps | 0.40% | ~881 |
 | Holistic Adventuring Party | 0.30% | ~661 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~220 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,291 (Ranked 57)  
+Progressed: 220,312 (Ranked 57)  
 Completed: 2 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 2 (0.00%) (Ranked 271)
 | 2023-08-30 | 219,453 | 2 |
 | 2023-08-31 | 219,794 | 2 |
 | 2023-09-01 | 220,165 | 2 |
-| 2023-09-02 | 220,291 | 2 |
+| 2023-09-02 | 220,312 | 2 |
 ## Awards
 Max (Character Customization): 185  (Ranked 279)  
 Sum: 234 (Ranked 360)  

@@ -407,9 +407,9 @@
       "ID": "36",
       "SetID": "5e3maia",
       "Name": "Stormtrooper",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "37",
@@ -487,9 +487,9 @@
       "ID": "45",
       "SetID": "5e3maia",
       "Name": "Child",
-      "Percentage": 14,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "46",
@@ -607,9 +607,9 @@
       "ID": "59",
       "SetID": "5e3maia",
       "Name": "Pioneer",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "6",
@@ -742,8 +742,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-09-02T10:10:13.7615937+00:00",
+  "LastChanged_Achievements": "2023-09-02T11:08:57.1590994+00:00",
   "LastUpdate_AppInfo": "2023-09-01T23:56:54.9755822+00:00",
-  "LastUpdate_Ratings": "2023-09-02T10:03:42.4550014+00:00",
-  "LastUpdate_Achievements": "2023-09-02T10:10:13.7616681+00:00"
+  "LastUpdate_Ratings": "2023-09-02T11:02:19.2207411+00:00",
+  "LastUpdate_Achievements": "2023-09-02T11:08:57.1591563+00:00"
 }

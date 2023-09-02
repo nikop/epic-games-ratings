@@ -48,7 +48,7 @@
   "Tags": [],
   "EOS_Progressed": 636,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 253,
+  "EOS_NewPlayers": 247,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -978,9 +978,9 @@
       "ID": "AC09",
       "SetID": "l4abp0",
       "Name": "Fermosa Fembra",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 223
+      "UsersEstimate": 229
     },
     {
       "ID": "AC10",
@@ -1010,9 +1010,9 @@
       "ID": "AC13",
       "SetID": "l4abp0",
       "Name": "Second Psalm.",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 121
+      "UsersEstimate": 127
     },
     {
       "ID": "AC14",
@@ -1050,17 +1050,17 @@
       "ID": "AC18",
       "SetID": "l4abp0",
       "Name": "Acquired Taste",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 204
     },
     {
       "ID": "AC19",
       "SetID": "l4abp0",
       "Name": "Soledad",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 223
+      "UsersEstimate": 229
     },
     {
       "ID": "AC20",
@@ -1162,17 +1162,17 @@
       "ID": "AC32",
       "SetID": "l4abp0",
       "Name": "Nobody Expects the Spanish Inquisition!",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 153
     },
     {
       "ID": "AC33",
       "SetID": "l4abp0",
       "Name": "Ultima Ratio",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 267
     },
     {
       "ID": "AC34",
@@ -1210,9 +1210,9 @@
       "ID": "AC38",
       "SetID": "l4abp0",
       "Name": "Edge of Orison",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 159
     },
     {
       "ID": "AC39",
@@ -1234,9 +1234,9 @@
       "ID": "AC41",
       "SetID": "l4abp0",
       "Name": "Happy New Year!",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 64
     },
     {
       "ID": "AC42",
@@ -1283,8 +1283,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-02T10:03:53.5800972+00:00",
-  "LastChanged_Achievements": "2023-09-02T10:09:55.3376699+00:00",
+  "LastChanged_Achievements": "2023-09-02T11:08:39.2522117+00:00",
   "LastUpdate_AppInfo": "2023-08-29T18:57:21.35462+00:00",
-  "LastUpdate_Ratings": "2023-09-02T10:03:53.5800982+00:00",
-  "LastUpdate_Achievements": "2023-09-02T10:09:55.3377173+00:00"
+  "LastUpdate_Ratings": "2023-09-02T11:02:30.5328987+00:00",
+  "LastUpdate_Achievements": "2023-09-02T11:08:39.2522458+00:00"
 }

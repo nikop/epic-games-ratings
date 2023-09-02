@@ -6,16 +6,16 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 72.00% | ~6,292 |
-| Leader | 60.00% | ~5,243 |
+| First Step | 72.00% | ~6,293 |
+| Leader | 60.00% | ~5,244 |
 | Explorer | 53.00% | ~4,632 |
-| Healer | 52.00% | ~4,544 |
-| Aspiring Inventor | 44.00% | ~3,845 |
+| Healer | 52.00% | ~4,545 |
+| Aspiring Inventor | 44.00% | ~3,846 |
 | Adventurer | 41.00% | ~3,583 |
 | Famous Healer | 38.00% | ~3,321 |
 | Local Leader | 35.00% | ~3,059 |
-| Famous Explorer | 34.00% | ~2,971 |
-| New Opportunities | 34.00% | ~2,971 |
+| Famous Explorer | 34.00% | ~2,972 |
+| New Opportunities | 34.00% | ~2,972 |
 | Energized | 33.00% | ~2,884 |
 | The Long Haul | 33.00% | ~2,884 |
 | The Great Healer | 31.00% | ~2,709 |
@@ -31,13 +31,13 @@ Number of Ratings: 836  (23.09.2022)
 | Ice Lakes | 22.00% | ~1,923 |
 | Real Survivor | 22.00% | ~1,923 |
 | Rocket Surgeon | 20.00% | ~1,748 |
-| War Never Changes | 19.00% | ~1,660 |
+| War Never Changes | 19.00% | ~1,661 |
 | Big Game Hunter | 17.00% | ~1,486 |
 | Spreading Influence | 17.00% | ~1,486 |
 | Friendly | 16.00% | ~1,398 |
 | Around the World | 16.00% | ~1,398 |
 | Bookworm | 15.00% | ~1,311 |
-| Famous Adventurer | 14.00% | ~1,223 |
+| Famous Adventurer | 14.00% | ~1,224 |
 | Prepared for Anything | 13.00% | ~1,136 |
 | Big Catastrofan | 13.00% | ~1,136 |
 | It's a Finnish Thing | 10.00% | ~874 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~17 |
 | Customized calamities | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,739 (Ranked 131)  
+Progressed: 8,740 (Ranked 131)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,11 +201,11 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-08-30 | 8,689 | 0 |
 | 2023-08-31 | 8,714 | 0 |
 | 2023-09-01 | 8,731 | 0 |
-| 2023-09-02 | 8,739 | 0 |
+| 2023-09-02 | 8,740 | 0 |
 ## Awards
 Max (Extremely Fun): 101  (Ranked 335)  
-Sum: 695 (Ranked 278)  
-Diff (max vs sum): 57  
+Sum: 695 (Ranked 279)  
+Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 101 |

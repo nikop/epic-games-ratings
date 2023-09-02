@@ -1,7 +1,7 @@
 # Q.U.B.E. 2
 [Store](https://store.epicgames.com/en-US/p/q-u-b-e-2)  
 [View Rawdata](../../db/q/q.u.b.e._2.json)  
-Rating: 4.41 (Ranked 688)  
+Rating: 4.41 (Ranked 687)  
 Number of Ratings: 94  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -14,13 +14,13 @@ Number of Ratings: 94  (23.09.2022)
 | Cogs in the Machine | 33.00% | ~39 |
 | Green Cube Killer | 10.00% | ~12 |
 | Mission Success | 8.00% | ~10 |
+| Descendants | 7.00% | ~8 |
 | There's No Place Like Home | 7.00% | ~8 |
-| Descendants | 6.00% | ~7 |
 | Path to Salvation | 6.00% | ~7 |
+| The Flawed Teacher | 5.00% | ~6 |
 | To Infinity and Beyond | 5.00% | ~6 |
-| The Flawed Teacher | 4.00% | ~5 |
 | Infinity Loop | 4.00% | ~5 |
-| The Truthful Enemy | 2.00% | ~2 |
+| The Truthful Enemy | 3.00% | ~4 |
 | True collector | 0.80% | ~1 |
 | Bronze collector | 0.80% | ~1 |
 | Home Stretch | 0.80% | ~1 |

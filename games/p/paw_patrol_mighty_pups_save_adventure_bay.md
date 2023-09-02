@@ -7,9 +7,9 @@
 | Mighty Powers | 68.00% | ~15 |
 | Grand Re-Opening | 64.00% | ~14 |
 | Pup Pup Boogie | 59.00% | ~13 |
-| Summer Day | 55.00% | ~12 |
+| Summer Day | 59.00% | ~13 |
 | Risky Rescue | 55.00% | ~12 |
-| Mr. Porter | 45.00% | ~10 |
+| Mr. Porter | 50.00% | ~11 |
 | Carlos Is Tangled | 45.00% | ~10 |
 | Mandy Family | 41.00% | ~9 |
 | Paw patrol member | 36.00% | ~8 |

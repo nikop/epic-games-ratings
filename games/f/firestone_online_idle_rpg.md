@@ -57,10 +57,10 @@ Rating: 4.03 (Ranked 936)
 | Sailor | 6.00% | ~113 |
 | The Alchemist | 6.00% | ~113 |
 | Active Member | 5.00% | ~94 |
+| Arena Challenger | 5.00% | ~94 |
 | Background Story | 5.00% | ~94 |
 | Ebony Jungle Liberator | 5.00% | ~94 |
 | Legendary | 5.00% | ~94 |
-| Arena Challenger | 4.00% | ~75 |
 | What lies behind the bush | 3.00% | ~56 |
 | Gear Enchanting | 2.00% | ~38 |
 | Guardian Master | 2.00% | ~38 |

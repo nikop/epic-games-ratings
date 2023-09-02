@@ -2,12 +2,12 @@
   "ID": "675f47ac5d5847f59badceea5b0950cf",
   "Name": "Tacoma",
   "ProductSlug": "tacoma",
-  "Ranking_Rating": 719,
+  "Ranking_Rating": 718,
   "Ranking_Popularity": 515,
   "Ranking_PopularitySum": 515,
   "Ranking_EOS_Progress": 571,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 343,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2020-07-23T15:00:00+00:00",
@@ -289,7 +289,7 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:50.2049994+00:00",
   "LastChanged": "2023-08-20T06:57:17.5619604+00:00",
-  "LastUpdate_AppInfo": "2023-08-26T09:57:23.482149+00:00",
-  "LastUpdate_Ratings": "2023-09-02T10:02:53.3210886+00:00",
-  "LastUpdate_Achievements": "2023-09-02T10:06:28.5098223+00:00"
+  "LastUpdate_AppInfo": "2023-09-02T10:57:30.0745531+00:00",
+  "LastUpdate_Ratings": "2023-09-02T11:01:31.0605388+00:00",
+  "LastUpdate_Achievements": "2023-09-02T11:05:12.7649601+00:00"
 }

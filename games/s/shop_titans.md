@@ -10,13 +10,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Basic in Bulk | 2.00% | ~2,711 |
 | Titan's First Steps | 2.00% | ~2,711 |
 | Disintermediation | 1.00% | ~1,355 |
+| Another Satisfied Customer | 1.00% | ~1,355 |
 | It's Free Real Estate | 1.00% | ~1,355 |
 | Tinkle of Coins | 1.00% | ~1,355 |
 | Budding Merchant | 1.00% | ~1,355 |
 | Capitalism Ho! | 1.00% | ~1,355 |
 | One Easy Payment | 0.90% | ~1,220 |
 | Some Assembly Required | 0.90% | ~1,220 |
-| Another Satisfied Customer | 0.90% | ~1,220 |
 | Pretty Penny | 0.90% | ~1,220 |
 | Own the Means of Production | 0.90% | ~1,220 |
 | One-Armed Bandit | 0.80% | ~1,084 |
@@ -37,6 +37,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Vanity, Verily | 0.50% | ~678 |
 | Blank Page Syndrome | 0.50% | ~678 |
 | Efficient Floor Space | 0.50% | ~678 |
+| Flawless Fusion | 0.50% | ~678 |
 | Gem Expert | 0.50% | ~678 |
 | Helping Hand | 0.50% | ~678 |
 | Natural 20 | 0.50% | ~678 |
@@ -53,7 +54,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Hidden Potential | 0.40% | ~542 |
 | Power of Love | 0.40% | ~542 |
 | Expansion in Session | 0.40% | ~542 |
-| Flawless Fusion | 0.40% | ~542 |
 | Trash to Treasure | 0.40% | ~542 |
 | Royal Ransom | 0.40% | ~542 |
 | Seasoned Journeyman | 0.40% | ~542 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,528 (Ranked 67)  
+Progressed: 135,532 (Ranked 67)  
 Completed: 140 (0.10%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 140 (0.10%) (Ranked 218)
 | 2023-08-30 | 135,399 | 138 |
 | 2023-08-31 | 135,446 | 140 |
 | 2023-09-01 | 135,508 | 140 |
-| 2023-09-02 | 135,528 | 140 |
+| 2023-09-02 | 135,532 | 140 |
 ## Awards
 Max (Great for Beginners): 4,719  (Ranked 71)  
 Sum: 27,162 (Ranked 47)  

@@ -2,9 +2,9 @@
   "ID": "42b8b899a3f349bd8376264ccee3cd2a",
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
-  "Ranking_EOS_Progress": 229,
+  "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 95,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 575,
+  "EOS_Progressed": 576,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.91,
   "EosHistory": [
@@ -1331,6 +1331,11 @@
       "Time": "2023-09-02T10:09:13.9600281+00:00",
       "NumProgressed": 575,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-02T11:07:58.2762247+00:00",
+      "NumProgressed": 576,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1351,7 +1356,7 @@
       "Name": "A New Journey",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "_03_FinishAct1",
@@ -1359,7 +1364,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1367,7 +1372,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "_05_FinishAct2",
@@ -1375,7 +1380,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -1429,9 +1434,9 @@
       "ID": "_12_Completion_50",
       "SetID": "8a1io5d",
       "Name": "Privateer",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 46
+      "UsersEstimate": 52
     },
     {
       "ID": "_13_Completion_60",
@@ -1511,7 +1516,7 @@
       "Name": "Accursed Artifacts",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "_23_CrewTale_CNN",
@@ -1550,14 +1555,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 575,
+      "Progressed": 576,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-09-02T10:09:13.9600274+00:00",
+  "LastChanged_Achievements": "2023-09-02T11:07:58.2762243+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:46.0913582+00:00",
-  "LastUpdate_Ratings": "2023-09-02T10:00:51.9371763+00:00",
-  "LastUpdate_Achievements": "2023-09-02T10:09:13.960057+00:00"
+  "LastUpdate_Ratings": "2023-09-02T10:59:27.6847991+00:00",
+  "LastUpdate_Achievements": "2023-09-02T11:07:58.2762464+00:00"
 }

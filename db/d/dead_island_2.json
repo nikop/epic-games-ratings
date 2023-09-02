@@ -4158,9 +4158,9 @@
       "Count": 334
     }
   ],
-  "EOS_Progressed": 671413,
+  "EOS_Progressed": 671454,
   "EOS_Completed": 2099,
-  "EOS_NewPlayers": 5827,
+  "EOS_NewPlayers": 5834,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -19193,6 +19193,11 @@
       "Time": "2023-09-02T10:08:02.6006061+00:00",
       "NumProgressed": 671413,
       "NumCompleted": 2099
+    },
+    {
+      "Time": "2023-09-02T11:06:47.8217826+00:00",
+      "NumProgressed": 671454,
+      "NumCompleted": 2099
     }
   ],
   "TotalAchievements": 45,
@@ -19234,9 +19239,9 @@
       "ID": "ach_ayeaye_captain_vixen",
       "SetID": "7km39fm",
       "Name": "Make it So",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 671
+      "UsersEstimate": 1343
     },
     {
       "ID": "ach_big_name_in_town",
@@ -19260,7 +19265,7 @@
       "Name": "Bookworm",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 4028
+      "UsersEstimate": 4029
     },
     {
       "ID": "ach_break_a_leg",
@@ -19268,7 +19273,7 @@
       "Name": "Break A Leg",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5371
+      "UsersEstimate": 5372
     },
     {
       "ID": "ach_contender",
@@ -19292,7 +19297,7 @@
       "Name": "But Doctor, I am Butcho",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4028
+      "UsersEstimate": 4029
     },
     {
       "ID": "ach_doom_buddies",
@@ -19300,7 +19305,7 @@
       "Name": "Slayer Squad",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4028
+      "UsersEstimate": 4029
     },
     {
       "ID": "ach_explorer",
@@ -19316,7 +19321,7 @@
       "Name": "Can\u0027t Handle the Truth",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4028
+      "UsersEstimate": 4029
     },
     {
       "ID": "ach_finisher",
@@ -19332,7 +19337,7 @@
       "Name": "Like Riding a Bike",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4028
+      "UsersEstimate": 4029
     },
     {
       "ID": "ach_good_eyesight",
@@ -19412,7 +19417,7 @@
       "Name": "Zombologist",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4028
+      "UsersEstimate": 4029
     },
     {
       "ID": "ach_legendary",
@@ -19436,7 +19441,7 @@
       "Name": "A Patton Emerges",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4028
+      "UsersEstimate": 4029
     },
     {
       "ID": "ach_mind_over_monster",
@@ -19524,7 +19529,7 @@
       "Name": "This is My Weapon",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4028
+      "UsersEstimate": 4029
     },
     {
       "ID": "ach_weapon_wrangler",
@@ -19563,7 +19568,7 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 671413,
+      "Progressed": 671454,
       "Completed": 2099
     }
   ],
@@ -19571,8 +19576,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-02T07:59:03.8335113+00:00",
-  "LastChanged_Achievements": "2023-09-02T10:08:02.6006055+00:00",
+  "LastChanged_Achievements": "2023-09-02T11:06:47.8217821+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:04.7021628+00:00",
-  "LastUpdate_Ratings": "2023-09-02T10:01:08.9415613+00:00",
-  "LastUpdate_Achievements": "2023-09-02T10:08:02.6007529+00:00"
+  "LastUpdate_Ratings": "2023-09-02T10:59:46.870298+00:00",
+  "LastUpdate_Achievements": "2023-09-02T11:06:47.8218788+00:00"
 }

@@ -42,13 +42,13 @@
 | Knowledge is King | 2.00% | ~1 |
 | Wizard | 2.00% | ~1 |
 | Bookworm | 2.00% | ~1 |
+| Wayseeker | 2.00% | ~1 |
 | Globetrotter | 2.00% | ~1 |
 | Style over Stats | 0.00% | ~0 |
 | Collector | 0.00% | ~0 |
 | Explorer by Heart | 0.00% | ~0 |
 | Fashionista | 0.00% | ~0 |
 | Trailblazer | 0.00% | ~0 |
-| Wayseeker | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 56 (Ranked 378)  

@@ -5,23 +5,23 @@ Rating: 3.94 (Ranked 954)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~53,698 |
-| First One’s Free | 65.00% | ~47,167 |
-| Neophyte Ninja | 50.00% | ~36,282 |
-| Too Old for This | 48.00% | ~34,831 |
-| Fancy Pants | 36.00% | ~26,123 |
+| Downed but Not Outed | 74.00% | ~53,699 |
+| First One’s Free | 65.00% | ~47,168 |
+| Neophyte Ninja | 50.00% | ~36,283 |
+| Too Old for This | 48.00% | ~34,832 |
+| Fancy Pants | 36.00% | ~26,124 |
 | Case Closed | 35.00% | ~25,398 |
 | King of the Hill | 34.00% | ~24,672 |
 | Underworld Initiate | 29.00% | ~21,044 |
 | Roid Ranger | 21.00% | ~15,239 |
 | Off the Rocks | 20.00% | ~14,513 |
-| True Player | 19.00% | ~13,787 |
+| True Player | 19.00% | ~13,788 |
 | Raider’s Ruin | 17.00% | ~12,336 |
 | Dragonslayer | 17.00% | ~12,336 |
-| Hidden Sonata | 13.00% | ~9,433 |
+| Hidden Sonata | 13.00% | ~9,434 |
 | Rockay Rex | 12.00% | ~8,708 |
-| Track Star | 10.00% | ~7,256 |
-| Freebooter | 10.00% | ~7,256 |
+| Track Star | 10.00% | ~7,257 |
+| Freebooter | 10.00% | ~7,257 |
 | Headhunter | 9.00% | ~6,531 |
 | Ding Dong | 9.00% | ~6,531 |
 | Classy Joint | 9.00% | ~6,531 |
@@ -43,7 +43,7 @@ Rating: 3.94 (Ranked 954)
 | Geek Out | 0.60% | ~435 |
 | Full House | 0.20% | ~145 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,565 (Ranked 79)  
+Progressed: 72,566 (Ranked 79)  
 Completed: 42 (0.06%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,14 +178,14 @@ Completed: 42 (0.06%) (Ranked 232)
 | 2023-08-30 | 72,491 | 42 |
 | 2023-08-31 | 72,521 | 42 |
 | 2023-09-01 | 72,549 | 42 |
-| 2023-09-02 | 72,565 | 42 |
+| 2023-09-02 | 72,566 | 42 |
 ## Awards
-Max (Diverse Characters): 412  (Ranked 214)  
-Sum: 1,962 (Ranked 202)  
-Diff (max vs sum): 12  
+Max (Diverse Characters): 413  (Ranked 213)  
+Sum: 1,963 (Ranked 202)  
+Diff (max vs sum): 11  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 412 |
+| This game has Diverse Characters | 413 |
 | This game has Quickly Understood Controls | 403 |
 | This game is Highly Recommended | 392 |
 | This game has Challenging Combat | 381 |
@@ -350,4 +350,4 @@ Diff (max vs sum): 12
 | 2023-08-30 | 3.94 | 411 | 1,952 |
 | 2023-08-31 | 3.94 | 411 | 1,953 |
 | 2023-09-01 | 3.94 | 412 | 1,961 |
-| 2023-09-02 | 3.94 | 412 | 1,962 |
+| 2023-09-02 | 3.94 | 413 | 1,963 |

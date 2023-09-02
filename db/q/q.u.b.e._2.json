@@ -2,12 +2,12 @@
   "ID": "4b5f1eb366dc45f0920d397c01b291ba",
   "Name": "Q.U.B.E. 2",
   "ProductSlug": "q-u-b-e-2",
-  "Ranking_Rating": 688,
+  "Ranking_Rating": 687,
   "Ranking_Popularity": 515,
   "Ranking_PopularitySum": 515,
   "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
@@ -753,17 +753,17 @@
       "ID": "ACH_ABYSS",
       "SetID": "232494e",
       "Name": "Descendants",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_BLUEEND",
       "SetID": "232494e",
       "Name": "The Flawed Teacher",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 120,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_CUBEKILLER",
@@ -937,9 +937,9 @@
       "ID": "ACH_REDEND",
       "SetID": "232494e",
       "Name": "The Truthful Enemy",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_S1",
@@ -993,8 +993,8 @@
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-02T10:05:36.0162385+00:00",
+  "LastChanged_Achievements": "2023-09-02T11:04:31.3804426+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:15.0755291+00:00",
-  "LastUpdate_Ratings": "2023-09-02T09:59:42.1384068+00:00",
-  "LastUpdate_Achievements": "2023-09-02T10:05:36.0162651+00:00"
+  "LastUpdate_Ratings": "2023-09-02T10:58:18.5713959+00:00",
+  "LastUpdate_Achievements": "2023-09-02T11:04:31.3804621+00:00"
 }

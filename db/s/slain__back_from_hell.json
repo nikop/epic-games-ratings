@@ -217,9 +217,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 35710,
+  "EOS_Progressed": 35711,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 538,
+  "EOS_NewPlayers": 536,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -15102,6 +15102,11 @@
       "Time": "2023-09-02T10:07:29.5588573+00:00",
       "NumProgressed": 35710,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-09-02T11:06:15.0346978+00:00",
+      "NumProgressed": 35711,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 29,
@@ -15113,7 +15118,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 5356
+      "UsersEstimate": 5357
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -15247,9 +15252,9 @@
       "ID": "ACH_19_DEFEATED_HOGRE",
       "SetID": "443p4o4",
       "Name": "The Sky Is Falling",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 250
+      "UsersEstimate": 286
     },
     {
       "ID": "ACH_20_MULTI_KILL",
@@ -15344,7 +15349,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 35710,
+      "Progressed": 35711,
       "Completed": 22
     }
   ],
@@ -15352,8 +15357,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-12T21:03:39.1122054+00:00",
-  "LastChanged_Achievements": "2023-09-02T10:07:29.5588564+00:00",
-  "LastUpdate_AppInfo": "2023-08-26T09:57:35.8741643+00:00",
-  "LastUpdate_Ratings": "2023-09-02T10:03:01.9010201+00:00",
-  "LastUpdate_Achievements": "2023-09-02T10:07:29.5590088+00:00"
+  "LastChanged_Achievements": "2023-09-02T11:06:15.034697+00:00",
+  "LastUpdate_AppInfo": "2023-09-02T10:57:38.9783742+00:00",
+  "LastUpdate_Ratings": "2023-09-02T11:01:39.4288093+00:00",
+  "LastUpdate_Achievements": "2023-09-02T11:06:15.0347863+00:00"
 }

@@ -768,9 +768,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 220291,
+  "EOS_Progressed": 220312,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2893,
+  "EOS_NewPlayers": 2892,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9253,6 +9253,11 @@
       "Time": "2023-09-02T10:07:29.3507535+00:00",
       "NumProgressed": 220291,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-02T11:06:15.1048551+00:00",
+      "NumProgressed": 220312,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -9712,7 +9717,7 @@
       "Name": "Sowwy!",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 59479
+      "UsersEstimate": 59484
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -9792,7 +9797,7 @@
       "Name": "Dead for good",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1101
+      "UsersEstimate": 1102
     },
     {
       "ID": "KillGolbargh",
@@ -9880,7 +9885,7 @@
       "Name": "Lust and Debauchery",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1101
+      "UsersEstimate": 1102
     },
     {
       "ID": "RangerEpic",
@@ -9952,7 +9957,7 @@
       "Name": "Material Girl",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1101
+      "UsersEstimate": 1102
     },
     {
       "ID": "WizardResistBurn",
@@ -9967,21 +9972,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 220291,
+      "Progressed": 220312,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 220291,
+      "Progressed": 220312,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-01T22:58:02.5589257+00:00",
-  "LastChanged_Achievements": "2023-09-02T10:07:29.3507524+00:00",
+  "LastChanged_Achievements": "2023-09-02T11:06:15.1048547+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:55.2312629+00:00",
-  "LastUpdate_Ratings": "2023-09-02T10:01:00.4458966+00:00",
-  "LastUpdate_Achievements": "2023-09-02T10:07:29.3509176+00:00"
+  "LastUpdate_Ratings": "2023-09-02T10:59:37.1355777+00:00",
+  "LastUpdate_Achievements": "2023-09-02T11:06:15.1049881+00:00"
 }
