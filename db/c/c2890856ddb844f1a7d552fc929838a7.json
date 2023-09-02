@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -48,7 +48,7 @@
   "Tags": [],
   "EOS_Progressed": 649,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 225,
+  "EOS_NewPlayers": 222,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -949,9 +949,9 @@
       "ID": "AC01",
       "SetID": "l4abp0",
       "Name": "A Thousand Years Later",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 578
+      "UsersEstimate": 584
     },
     {
       "ID": "AC02",
@@ -965,9 +965,9 @@
       "ID": "AC03",
       "SetID": "l4abp0",
       "Name": "Blood and Gold",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 402
+      "UsersEstimate": 409
     },
     {
       "ID": "AC04",
@@ -1229,9 +1229,9 @@
       "ID": "AC36",
       "SetID": "l4abp0",
       "Name": "Blessed Incense",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 136
     },
     {
       "ID": "AC37",
@@ -1261,9 +1261,9 @@
       "ID": "AC40",
       "SetID": "l4abp0",
       "Name": "Welcome Back!",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 519
+      "UsersEstimate": 526
     },
     {
       "ID": "AC41",
@@ -1277,9 +1277,9 @@
       "ID": "AC42",
       "SetID": "l4abp0",
       "Name": "Two Old Ones Eating Soup",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 91
     },
     {
       "ID": "AC43",
@@ -1318,8 +1318,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-02T10:03:53.5800972+00:00",
-  "LastChanged_Achievements": "2023-09-02T20:06:18.0009075+00:00",
+  "LastChanged_Achievements": "2023-09-02T21:07:54.9228256+00:00",
   "LastUpdate_AppInfo": "2023-08-29T18:57:21.35462+00:00",
-  "LastUpdate_Ratings": "2023-09-02T20:00:19.1782034+00:00",
-  "LastUpdate_Achievements": "2023-09-02T20:06:18.0009562+00:00"
+  "LastUpdate_Ratings": "2023-09-02T21:01:40.1322161+00:00",
+  "LastUpdate_Achievements": "2023-09-02T21:07:54.9228743+00:00"
 }

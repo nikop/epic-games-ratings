@@ -6,16 +6,16 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,608 |
-| Self-Improvement | 71.00% | ~1,297 |
+| Unforgiven | 88.00% | ~1,609 |
+| Self-Improvement | 71.00% | ~1,298 |
 | Perky | 66.00% | ~1,206 |
-| Let’s Ride | 60.00% | ~1,096 |
-| Welcome to the Weird West | 57.00% | ~1,041 |
-| Dead or Alive | 56.00% | ~1,023 |
+| Let’s Ride | 60.00% | ~1,097 |
+| Welcome to the Weird West | 57.00% | ~1,042 |
+| Dead or Alive | 56.00% | ~1,024 |
 | Full House | 37.00% | ~676 |
-| Off the Trail | 34.00% | ~621 |
+| Off the Trail | 34.00% | ~622 |
 | Justice Served | 30.00% | ~548 |
-| Chain Reaction | 27.00% | ~493 |
+| Chain Reaction | 27.00% | ~494 |
 | Through Their Eyes | 26.00% | ~475 |
 | Dishonored | 25.00% | ~457 |
 | Rain of Death | 25.00% | ~457 |
@@ -35,9 +35,9 @@ Number of Ratings: 125  (23.09.2022)
 | Something Wicked This Way Comes… | 12.00% | ~219 |
 | There is Hope | 12.00% | ~219 |
 | The Philosopher’s Stone | 10.00% | ~183 |
-| Loyalty to the Pack | 9.00% | ~164 |
-| Eternity Can Wait | 9.00% | ~164 |
-| Mystery Machine | 9.00% | ~164 |
+| Loyalty to the Pack | 9.00% | ~165 |
+| Eternity Can Wait | 9.00% | ~165 |
+| Mystery Machine | 9.00% | ~165 |
 | Do Not Pass Go… | 8.00% | ~146 |
 | Gold Digger | 8.00% | ~146 |
 | Monster Hunter | 8.00% | ~146 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Revenant | 0.50% | ~9 |
 | Winter Has Come | 0.40% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,827 (Ranked 177)  
+Progressed: 1,828 (Ranked 177)  
 Completed: 6 (0.33%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,10 +174,10 @@ Completed: 6 (0.33%) (Ranked 176)
 | 2023-08-28 | 1,822 | 6 |
 | 2023-08-30 | 1,824 | 6 |
 | 2023-08-31 | 1,825 | 6 |
-| 2023-09-02 | 1,827 | 6 |
+| 2023-09-02 | 1,828 | 6 |
 ## Awards
-Max (Impact the Story): 26  (Ranked 478)  
-Sum: 26 (Ranked 487)  
+Max (Impact the Story): 26  (Ranked 479)  
+Sum: 26 (Ranked 488)  
 Diff (max vs sum): -9  
 | Award | Count |
 | ----- | ----- |

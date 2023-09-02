@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Seeds of War | 78.00% | ~217 |
-| First Blood | 59.00% | ~164 |
+| First Blood | 60.00% | ~167 |
 | Triple Kill | 59.00% | ~164 |
 | Aspairagus | 59.00% | ~135 |
 | Survivor | 56.00% | ~128 |
@@ -14,14 +14,14 @@
 | I Believe I Can Fly | 49.00% | ~136 |
 | Early Survivor | 42.00% | ~96 |
 | No Diggity | 42.00% | ~96 |
+| Amateur Survivor | 31.00% | ~71 |
+| 10K | 30.00% | ~83 |
 | Bouncemato | 30.00% | ~68 |
-| Amateur Survivor | 30.00% | ~68 |
-| 10K | 29.00% | ~81 |
 | 15K | 28.00% | ~78 |
+| Drinking Problem | 22.00% | ~61 |
 | Quick-Draw Pod | 22.00% | ~50 |
 | Professional Survivor | 22.00% | ~50 |
 | Grave Digger | 22.00% | ~50 |
-| Drinking Problem | 21.00% | ~58 |
 | Pork Chop Express | 17.00% | ~47 |
 | Eggtraordinary | 15.00% | ~42 |
 | This Is My Boomstick | 15.00% | ~34 |

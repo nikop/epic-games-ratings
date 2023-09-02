@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 272,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2022-12-23T00:00:00+00:00",
@@ -430,9 +430,9 @@
       "ID": "CgkIxYDzrbcPEAIQEA",
       "SetID": "4egpam7",
       "Name": "Collector of Secrets",
-      "Percentage": 59,
+      "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "CgkIxYDzrbcPEAIQEQ",
@@ -557,8 +557,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-09-02T20:03:35.1393163+00:00",
+  "LastChanged_Achievements": "2023-09-02T21:04:23.2747257+00:00",
   "LastUpdate_AppInfo": "2023-08-29T16:57:28.9372698+00:00",
-  "LastUpdate_Ratings": "2023-09-02T20:00:41.3077609+00:00",
-  "LastUpdate_Achievements": "2023-09-02T20:03:35.1393433+00:00"
+  "LastUpdate_Ratings": "2023-09-02T21:02:12.970585+00:00",
+  "LastUpdate_Achievements": "2023-09-02T21:04:23.2747529+00:00"
 }

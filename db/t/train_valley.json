@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -125,7 +125,7 @@
   "Tags": [],
   "EOS_Progressed": 449,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -1016,9 +1016,9 @@
       "ID": "09_russia",
       "SetID": "chb1m60",
       "Name": "Russia",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 81
+      "UsersEstimate": 85
     },
     {
       "ID": "10_japan",
@@ -1272,8 +1272,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-08-26T23:01:29.1007728+00:00",
-  "LastChanged_Achievements": "2023-09-02T20:07:17.0711243+00:00",
+  "LastChanged_Achievements": "2023-09-02T21:09:01.9274472+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:56:55.1924255+00:00",
-  "LastUpdate_Ratings": "2023-09-02T19:57:21.7583725+00:00",
-  "LastUpdate_Achievements": "2023-09-02T20:07:17.0711602+00:00"
+  "LastUpdate_Ratings": "2023-09-02T20:57:29.3191305+00:00",
+  "LastUpdate_Achievements": "2023-09-02T21:09:01.9274856+00:00"
 }

@@ -6,8 +6,8 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 27.00% | ~59,536 |
-| Alt+F4 | 4.00% | ~8,820 |
+| Sowwy! | 27.00% | ~59,539 |
+| Alt+F4 | 4.00% | ~8,821 |
 | Déjà vu | 3.00% | ~6,615 |
 | Where's that freaking Dwarf? | 3.00% | ~6,615 |
 | A beer, two curses, three companions | 2.00% | ~4,410 |
@@ -22,10 +22,10 @@ Number of Ratings: 118  (23.09.2022)
 | The demons' feast | 1.00% | ~2,205 |
 | The Great Library | 1.00% | ~2,205 |
 | Torture and Sensibility | 1.00% | ~2,205 |
+| Urik's Depths | 1.00% | ~2,205 |
 | The Woman in the High Castle | 1.00% | ~2,205 |
 | Team Building Exercise | 1.00% | ~2,205 |
 | Oh, when I'll be level 10... | 1.00% | ~2,205 |
-| Urik's Depths | 0.90% | ~1,985 |
 | The Dungeon Master | 0.90% | ~1,985 |
 | The Statuette of Gladeulfeurah | 0.90% | ~1,985 |
 | A tale of adventurers not quite like the others... | 0.90% | ~1,985 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~221 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,502 (Ranked 57)  
+Progressed: 220,516 (Ranked 57)  
 Completed: 2 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 2 (0.00%) (Ranked 271)
 | 2023-08-30 | 219,453 | 2 |
 | 2023-08-31 | 219,794 | 2 |
 | 2023-09-01 | 220,165 | 2 |
-| 2023-09-02 | 220,502 | 2 |
+| 2023-09-02 | 220,516 | 2 |
 ## Awards
 Max (Character Customization): 189  (Ranked 278)  
 Sum: 238 (Ranked 359)  

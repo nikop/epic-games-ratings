@@ -7,14 +7,14 @@ Number of Ratings: 22  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Self Defense | 45.00% | ~206 |
-| Circus Electrique Proudly Presents... | 41.00% | ~187 |
-| Grand Opening | 40.00% | ~183 |
+| Grand Opening | 41.00% | ~188 |
+| Circus Electrique Proudly Presents... | 41.00% | ~188 |
 | Path of Learning | 40.00% | ~183 |
-| Built in a Day | 33.00% | ~151 |
+| Built in a Day | 34.00% | ~156 |
 | More Brain Than Brawn | 29.00% | ~133 |
 | Perfect Illusion | 23.00% | ~105 |
 | Hundred Percent First | 23.00% | ~105 |
-| Dirty Dozen | 20.00% | ~91 |
+| Dirty Dozen | 20.00% | ~92 |
 | Lion Tamer | 18.00% | ~82 |
 | Fan Service | 18.00% | ~82 |
 | King of District 1 | 16.00% | ~73 |
@@ -23,9 +23,9 @@ Number of Ratings: 22  (23.09.2022)
 | Lucky Day | 14.00% | ~64 |
 | Bar Brawler | 14.00% | ~64 |
 | Flawless Presentation | 14.00% | ~64 |
-| King of District 2 | 13.00% | ~59 |
+| King of District 2 | 13.00% | ~60 |
 | Time Travel! | 11.00% | ~50 |
-| Marketing Manager | 11.00% | ~50 |
+| Marketing Manager | 10.00% | ~46 |
 | Circus Versus Circus | 9.00% | ~41 |
 | King of District 3 | 9.00% | ~41 |
 | Club Member | 7.00% | ~32 |
@@ -35,12 +35,12 @@ Number of Ratings: 22  (23.09.2022)
 | King of District 4 | 6.00% | ~27 |
 | Mobile Infantry | 6.00% | ~27 |
 | Around the Clock | 5.00% | ~23 |
-| Circus Maximus | 4.00% | ~18 |
 | City Savior | 4.00% | ~18 |
 | King of District 5 | 4.00% | ~18 |
 | Accomplished Veteran | 3.00% | ~14 |
 | Hundred Percent Third | 3.00% | ~14 |
 | Hundred Percent Fourth | 3.00% | ~14 |
+| Circus Maximus | 3.00% | ~14 |
 | Unmatched Skills | 2.00% | ~9 |
 | Hundred Percent Fifth | 2.00% | ~9 |
 | Victorian Victor | 2.00% | ~9 |
@@ -57,7 +57,7 @@ Number of Ratings: 22  (23.09.2022)
 | Guest Stars | 0.40% | ~2 |
 | Versatile Tactics | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457 (Ranked 242)  
+Progressed: 458 (Ranked 242)  
 Completed: 1 (0.22%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 1 (0.22%) (Ranked 192)
 | 2023-08-13 | 454 | 1 |
 | 2023-08-24 | 455 | 1 |
 | 2023-08-27 | 456 | 1 |
-| 2023-09-02 | 457 | 1 |
+| 2023-09-02 | 458 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

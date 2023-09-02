@@ -18,6 +18,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Coral Forest | 4.00% | ~660 |
 | Homesick | 3.00% | ~495 |
 | Against All Odds | 3.00% | ~495 |
+| Ruined Armory | 3.00% | ~495 |
 | Bandit Camp | 3.00% | ~495 |
 | Barren Lands | 3.00% | ~495 |
 | Sparkdew Crystals | 3.00% | ~495 |
@@ -34,7 +35,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Trade Baron | 3.00% | ~495 |
 | Serving Ale | 2.00% | ~330 |
 | Refinery | 2.00% | ~330 |
-| Ruined Armory | 2.00% | ~330 |
 | Dangerous Lands | 2.00% | ~330 |
 | Fishmen Ritual Site | 2.00% | ~330 |
 | Forbidden Lands | 2.00% | ~330 |
@@ -57,8 +57,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.20% | ~33 |
 | Paradise | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,491 (Ranked 116)  
-Completed: 47 (0.29%) (Ranked 180)  
+Progressed: 16,492 (Ranked 116)  
+Completed: 47 (0.28%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -192,7 +192,7 @@ Completed: 47 (0.29%) (Ranked 180)
 | 2023-08-30 | 16,455 | 47 |
 | 2023-08-31 | 16,466 | 47 |
 | 2023-09-01 | 16,478 | 47 |
-| 2023-09-02 | 16,491 | 47 |
+| 2023-09-02 | 16,492 | 47 |
 ## Awards
 Max (Quickly Understood Controls): 426  (Ranked 209)  
 Sum: 3,122 (Ranked 163)  

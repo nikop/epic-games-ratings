@@ -3,12 +3,12 @@
   "Name": "Weird West: Definitive Edition",
   "ProductSlug": "weird-west-906661",
   "Ranking_Rating": 652,
-  "Ranking_Popularity": 478,
-  "Ranking_PopularitySum": 487,
+  "Ranking_Popularity": 479,
+  "Ranking_PopularitySum": 488,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -343,7 +343,7 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 1827,
+  "EOS_Progressed": 1828,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
@@ -1968,6 +1968,11 @@
       "Time": "2023-09-02T17:06:09.6662665+00:00",
       "NumProgressed": 1827,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-02T21:07:11.1030529+00:00",
+      "NumProgressed": 1828,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -1979,7 +1984,7 @@
       "Name": "Chain Reaction",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "ACH_DEAD_OR_ALIVE",
@@ -1987,7 +1992,7 @@
       "Name": "Dead or Alive",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 1023
+      "UsersEstimate": 1024
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -2131,7 +2136,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1096
+      "UsersEstimate": 1097
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -2155,7 +2160,7 @@
       "Name": "Loyalty to the Pack",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_MAN_IN_BLACK",
@@ -2163,7 +2168,7 @@
       "Name": "Eternity Can Wait",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_MA_BARKER",
@@ -2203,7 +2208,7 @@
       "Name": "Mystery Machine",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_OFF_THE_TRAIL",
@@ -2211,7 +2216,7 @@
       "Name": "Off the Trail",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "ACH_OUT_ON_THE_EBB_TIDE",
@@ -2275,7 +2280,7 @@
       "Name": "Self-Improvement",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1297
+      "UsersEstimate": 1298
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -2355,7 +2360,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1608
+      "UsersEstimate": 1609
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -2363,7 +2368,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 1041
+      "UsersEstimate": 1042
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -2402,15 +2407,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1827,
+      "Progressed": 1828,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-09-01T07:57:58.5447992+00:00",
-  "LastChanged_Achievements": "2023-09-02T20:05:46.7721223+00:00",
+  "LastChanged_Achievements": "2023-09-02T21:07:11.1030523+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:53.2534241+00:00",
-  "LastUpdate_Ratings": "2023-09-02T19:58:10.4579141+00:00",
-  "LastUpdate_Achievements": "2023-09-02T20:05:46.7721837+00:00"
+  "LastUpdate_Ratings": "2023-09-02T20:58:37.832383+00:00",
+  "LastUpdate_Achievements": "2023-09-02T21:07:11.1031268+00:00"
 }

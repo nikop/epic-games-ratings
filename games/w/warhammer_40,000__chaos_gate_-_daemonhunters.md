@@ -14,14 +14,14 @@ Number of Ratings: 371  (23.09.2022)
 | Blood for the Blood God! | 3.00% | ~95 |
 | Purging Spree | 3.00% | ~95 |
 | Bloodless | 3.00% | ~95 |
-| Honoured Battle-Brother | 2.00% | ~63 |
-| Surgical Excision | 2.00% | ~63 |
-| Friendly Fire | 2.00% | ~63 |
-| The Emperor Protects | 2.00% | ~63 |
-| A Foul Creche | 2.00% | ~63 |
+| Honoured Battle-Brother | 2.00% | ~64 |
+| Surgical Excision | 2.00% | ~64 |
+| Friendly Fire | 2.00% | ~64 |
+| The Emperor Protects | 2.00% | ~64 |
+| Nemesis Master | 2.00% | ~64 |
+| A Foul Creche | 2.00% | ~64 |
 | Hold Your Ground | 1.00% | ~32 |
 | Corruption Cleanser | 1.00% | ~32 |
-| Nemesis Master | 1.00% | ~32 |
 | Gunmaster | 1.00% | ~32 |
 | Just a Scratch | 1.00% | ~32 |
 | Execution Force | 1.00% | ~32 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,174 (Ranked 158)  
+Progressed: 3,175 (Ranked 158)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,6 +202,7 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-08-30 | 3,170 | 0 |
 | 2023-08-31 | 3,171 | 0 |
 | 2023-09-01 | 3,174 | 0 |
+| 2023-09-02 | 3,175 | 0 |
 ## Awards
 Max (Character Customization): 220  (Ranked 265)  
 Sum: 473 (Ranked 305)  

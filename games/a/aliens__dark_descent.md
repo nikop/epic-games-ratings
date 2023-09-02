@@ -35,9 +35,9 @@ Rating: 4.49 (Ranked 583)
 | Excavating The Truth | 21.00% | ~676 |
 | One For Every Occasion | 20.00% | ~643 |
 | Frontliner | 20.00% | ~643 |
+| The Cable Guy | 20.00% | ~643 |
 | Abysmal Horrors | 20.00% | ~643 |
 | Bandage Lover | 19.00% | ~611 |
-| The Cable Guy | 19.00% | ~611 |
 | Regicide | 15.00% | ~483 |
 | This Went Smoothly | 13.00% | ~418 |
 | Flawless Victory | 12.00% | ~386 |
@@ -130,8 +130,8 @@ Completed: 3 (0.09%) (Ranked 222)
 | 2023-09-01 | 3,214 | 3 |
 | 2023-09-02 | 3,217 | 3 |
 ## Awards
-Max (Great Boss Battles): 26  (Ranked 478)  
-Sum: 26 (Ranked 487)  
+Max (Great Boss Battles): 26  (Ranked 479)  
+Sum: 26 (Ranked 488)  
 Diff (max vs sum): -9  
 | Award | Count |
 | ----- | ----- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 26,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -774,9 +774,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 220502,
+  "EOS_Progressed": 220516,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2823,
+  "EOS_NewPlayers": 2798,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9309,6 +9309,11 @@
       "Time": "2023-09-02T20:04:28.1779652+00:00",
       "NumProgressed": 220502,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-02T21:05:22.7966097+00:00",
+      "NumProgressed": 220516,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -9414,9 +9419,9 @@
       "ID": "Chapter7",
       "SetID": "50chcgj",
       "Name": "Urik\u0027s Depths",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1985
+      "UsersEstimate": 2205
     },
     {
       "ID": "Chapter8",
@@ -9768,7 +9773,7 @@
       "Name": "Sowwy!",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 59536
+      "UsersEstimate": 59539
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -9816,7 +9821,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8820
+      "UsersEstimate": 8821
     },
     {
       "ID": "FollowBraztok",
@@ -10023,21 +10028,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 220502,
+      "Progressed": 220516,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 220502,
+      "Progressed": 220516,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-02T14:58:06.8482172+00:00",
-  "LastChanged_Achievements": "2023-09-02T20:04:28.1779647+00:00",
+  "LastChanged_Achievements": "2023-09-02T21:05:22.7966091+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:55.2312629+00:00",
-  "LastUpdate_Ratings": "2023-09-02T19:58:11.6593214+00:00",
-  "LastUpdate_Achievements": "2023-09-02T20:04:28.1781496+00:00"
+  "LastUpdate_Ratings": "2023-09-02T20:58:39.5749072+00:00",
+  "LastUpdate_Achievements": "2023-09-02T21:05:22.796777+00:00"
 }

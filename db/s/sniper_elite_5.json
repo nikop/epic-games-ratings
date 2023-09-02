@@ -6,9 +6,9 @@
   "Ranking_Popularity": 516,
   "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 153,
-  "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Completed": 182,
+  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -500,9 +500,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3563,
+  "EOS_Progressed": 3564,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -6395,6 +6395,11 @@
       "Time": "2023-09-02T13:08:55.7368463+00:00",
       "NumProgressed": 3563,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-02T21:08:10.1939262+00:00",
+      "NumProgressed": 3564,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 71,
@@ -6406,7 +6411,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -6574,7 +6579,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1425
+      "UsersEstimate": 1426
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -6606,7 +6611,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -6614,7 +6619,7 @@
       "Name": "Lord of War",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1033
+      "UsersEstimate": 1034
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -6630,7 +6635,7 @@
       "Name": "Resourceful",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -6662,7 +6667,7 @@
       "Name": "Close Quarters",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -6782,7 +6787,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -6814,7 +6819,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -6973,13 +6978,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3514,
+      "Progressed": 3515,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3563,
+      "Progressed": 3564,
       "Completed": 10
     }
   ],
@@ -6987,8 +6992,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-01T10:01:39.1533108+00:00",
-  "LastChanged_Achievements": "2023-09-02T20:06:29.3254751+00:00",
+  "LastChanged_Achievements": "2023-09-02T21:08:10.1939256+00:00",
   "LastUpdate_AppInfo": "2023-09-02T06:57:18.4314048+00:00",
-  "LastUpdate_Ratings": "2023-09-02T20:00:29.2826365+00:00",
-  "LastUpdate_Achievements": "2023-09-02T20:06:29.3255965+00:00"
+  "LastUpdate_Ratings": "2023-09-02T21:01:56.103648+00:00",
+  "LastUpdate_Achievements": "2023-09-02T21:08:10.1940582+00:00"
 }

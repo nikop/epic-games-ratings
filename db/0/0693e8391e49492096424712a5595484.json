@@ -4,8 +4,8 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 40,
-  "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -1576,9 +1576,9 @@
       "ID": "BasiliskFishingRod",
       "SetID": "db30heh",
       "Name": "Fishing Prop",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 87
     },
     {
       "ID": "BearBroom",
@@ -1720,9 +1720,9 @@
       "ID": "HastrmanAcorn",
       "SetID": "db30heh",
       "Name": "Do Not Disturb",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 212
+      "UsersEstimate": 216
     },
     {
       "ID": "HastrmanAmanita",
@@ -1848,9 +1848,9 @@
       "ID": "RogueKing",
       "SetID": "db30heh",
       "Name": "Long Live The King",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 125
     },
     {
       "ID": "RogueNaked",
@@ -1888,9 +1888,9 @@
       "ID": "SleepingBasiliskPoppiesBroth",
       "SetID": "db30heh",
       "Name": "Poppy Sleep",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 71
     },
     {
       "ID": "SwordDiamond",
@@ -1927,8 +1927,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-09-02T20:05:47.7333987+00:00",
+  "LastChanged_Achievements": "2023-09-02T21:07:12.374134+00:00",
   "LastUpdate_AppInfo": "2023-08-29T18:57:22.664364+00:00",
-  "LastUpdate_Ratings": "2023-09-02T20:00:33.9158723+00:00",
-  "LastUpdate_Achievements": "2023-09-02T20:05:47.7334481+00:00"
+  "LastUpdate_Ratings": "2023-09-02T21:02:02.6000092+00:00",
+  "LastUpdate_Achievements": "2023-09-02T21:07:12.3741997+00:00"
 }

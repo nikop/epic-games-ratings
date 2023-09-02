@@ -7,29 +7,29 @@ Rating: 4.54 (Ranked 504)
 | ---- | ---------- | ----- |
 | Welcome To Hell-A | 1.00% | ~6,719 |
 | Hotel California | 0.90% | ~6,047 |
-| Break A Leg | 0.80% | ~5,375 |
-| Hazardous Materials | 0.80% | ~5,375 |
-| Personal Assistant Personally Assisted | 0.80% | ~5,375 |
-| Dr. Reed, I Presume? | 0.70% | ~4,703 |
-| Git Gutte! | 0.70% | ~4,703 |
-| But Doctor, I am Butcho | 0.70% | ~4,703 |
-| Coup de Grâce | 0.70% | ~4,703 |
-| Friends Like These | 0.70% | ~4,703 |
-| Apex Predator | 0.70% | ~4,703 |
-| Stacking the Deck | 0.70% | ~4,703 |
-| This is My Weapon | 0.70% | ~4,703 |
-| Bookworm | 0.60% | ~4,031 |
-| Slayer Squad | 0.60% | ~4,031 |
-| Can't Handle the Truth | 0.60% | ~4,031 |
-| Like Riding a Bike | 0.60% | ~4,031 |
-| Zombologist | 0.60% | ~4,031 |
-| A Patton Emerges | 0.60% | ~4,031 |
-| Anger Management | 0.50% | ~3,359 |
-| Perks of the Job | 0.50% | ~3,359 |
-| I Got a Zombie Army and You Can't Harm Me | 0.50% | ~3,359 |
-| Ooh, Shiny! | 0.50% | ~3,359 |
-| I Am the Resurrection | 0.50% | ~3,359 |
-| Our True Nature | 0.50% | ~3,359 |
+| Break A Leg | 0.80% | ~5,376 |
+| Hazardous Materials | 0.80% | ~5,376 |
+| Personal Assistant Personally Assisted | 0.80% | ~5,376 |
+| Dr. Reed, I Presume? | 0.70% | ~4,704 |
+| Git Gutte! | 0.70% | ~4,704 |
+| But Doctor, I am Butcho | 0.70% | ~4,704 |
+| Coup de Grâce | 0.70% | ~4,704 |
+| Friends Like These | 0.70% | ~4,704 |
+| Apex Predator | 0.70% | ~4,704 |
+| Stacking the Deck | 0.70% | ~4,704 |
+| This is My Weapon | 0.70% | ~4,704 |
+| Bookworm | 0.60% | ~4,032 |
+| Slayer Squad | 0.60% | ~4,032 |
+| Can't Handle the Truth | 0.60% | ~4,032 |
+| Like Riding a Bike | 0.60% | ~4,032 |
+| Zombologist | 0.60% | ~4,032 |
+| A Patton Emerges | 0.60% | ~4,032 |
+| Anger Management | 0.50% | ~3,360 |
+| Perks of the Job | 0.50% | ~3,360 |
+| I Got a Zombie Army and You Can't Harm Me | 0.50% | ~3,360 |
+| Ooh, Shiny! | 0.50% | ~3,360 |
+| I Am the Resurrection | 0.50% | ~3,360 |
+| Our True Nature | 0.50% | ~3,360 |
 | Making Your Mark | 0.40% | ~2,688 |
 | Humanity Distilled | 0.40% | ~2,688 |
 | Down with the Sickness | 0.40% | ~2,688 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 504)
 | Survival Skills | 0.10% | ~672 |
 | Bucket List | 0.10% | ~672 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 671,890 (Ranked 22)  
+Progressed: 671,941 (Ranked 22)  
 Completed: 2,102 (0.31%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,7 +186,7 @@ Completed: 2,102 (0.31%) (Ranked 177)
 | 2023-08-30 | 669,636 | 2,094 |
 | 2023-08-31 | 670,394 | 2,097 |
 | 2023-09-01 | 671,108 | 2,097 |
-| 2023-09-02 | 671,890 | 2,102 |
+| 2023-09-02 | 671,941 | 2,102 |
 ## Awards
 Max (Great Boss Battles): 5,867  (Ranked 60)  
 Sum: 8,645 (Ranked 95)  

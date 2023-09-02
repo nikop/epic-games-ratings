@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 33,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
     "PcReleaseDate": "2019-06-09T00:00:00+00:00",
@@ -494,9 +494,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 526530,
+  "EOS_Progressed": 526534,
   "EOS_Completed": 468,
-  "EOS_NewPlayers": 571,
+  "EOS_NewPlayers": 569,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -14914,6 +14914,11 @@
       "Time": "2023-09-02T20:03:21.2261781+00:00",
       "NumProgressed": 526530,
       "NumCompleted": 468
+    },
+    {
+      "Time": "2023-09-02T21:03:54.0980813+00:00",
+      "NumProgressed": 526534,
+      "NumCompleted": 468
     }
   ],
   "TotalAchievements": 57,
@@ -14925,7 +14930,7 @@
       "Name": "AAARR!",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 121102
+      "UsersEstimate": 121103
     },
     {
       "ID": "10",
@@ -14933,7 +14938,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 236938
+      "UsersEstimate": 236940
     },
     {
       "ID": "11",
@@ -14941,7 +14946,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 368571
+      "UsersEstimate": 368574
     },
     {
       "ID": "12",
@@ -14965,7 +14970,7 @@
       "Name": "Going on an Adventure",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 57918
+      "UsersEstimate": 57919
     },
     {
       "ID": "15",
@@ -15005,7 +15010,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 326449
+      "UsersEstimate": 326451
     },
     {
       "ID": "2",
@@ -15021,7 +15026,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 126367
+      "UsersEstimate": 126368
     },
     {
       "ID": "21",
@@ -15029,7 +15034,7 @@
       "Name": "Make Peace, Not War",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 57918
+      "UsersEstimate": 57919
     },
     {
       "ID": "22",
@@ -15101,7 +15106,7 @@
       "Name": "Oh, Romeo!",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 26326
+      "UsersEstimate": 26327
     },
     {
       "ID": "30",
@@ -15133,7 +15138,7 @@
       "Name": "Noble Intentions",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 26326
+      "UsersEstimate": 26327
     },
     {
       "ID": "34",
@@ -15149,7 +15154,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 263265
+      "UsersEstimate": 263267
     },
     {
       "ID": "36",
@@ -15181,7 +15186,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 179020
+      "UsersEstimate": 179022
     },
     {
       "ID": "4",
@@ -15197,7 +15202,7 @@
       "Name": "Rising Star",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 26326
+      "UsersEstimate": 26327
     },
     {
       "ID": "41",
@@ -15221,7 +15226,7 @@
       "Name": "Sunny Shores",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 89510
+      "UsersEstimate": 89511
     },
     {
       "ID": "44",
@@ -15229,7 +15234,7 @@
       "Name": "Under the Radar",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 42122
+      "UsersEstimate": 42123
     },
     {
       "ID": "45",
@@ -15253,7 +15258,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 326449
+      "UsersEstimate": 326451
     },
     {
       "ID": "48",
@@ -15261,7 +15266,7 @@
       "Name": "To the Beat",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 105306
+      "UsersEstimate": 105307
     },
     {
       "ID": "49",
@@ -15269,7 +15274,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 179020
+      "UsersEstimate": 179022
     },
     {
       "ID": "5",
@@ -15285,7 +15290,7 @@
       "Name": "Two of a Kind",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 73714
+      "UsersEstimate": 73715
     },
     {
       "ID": "51",
@@ -15301,7 +15306,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 242204
+      "UsersEstimate": 242206
     },
     {
       "ID": "53",
@@ -15309,7 +15314,7 @@
       "Name": "Hello Darkness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 121102
+      "UsersEstimate": 121103
     },
     {
       "ID": "54",
@@ -15325,7 +15330,7 @@
       "Name": "Slime Slayer",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 26326
+      "UsersEstimate": 26327
     },
     {
       "ID": "56",
@@ -15380,15 +15385,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 526530,
+      "Progressed": 526534,
       "Completed": 468
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-09-02T20:03:21.2261775+00:00",
+  "LastChanged_Achievements": "2023-09-02T21:03:54.0980808+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:25.8959885+00:00",
-  "LastUpdate_Ratings": "2023-09-02T19:57:26.296841+00:00",
-  "LastUpdate_Achievements": "2023-09-02T20:03:21.226342+00:00"
+  "LastUpdate_Ratings": "2023-09-02T20:57:36.3292192+00:00",
+  "LastUpdate_Achievements": "2023-09-02T21:03:54.0982691+00:00"
 }

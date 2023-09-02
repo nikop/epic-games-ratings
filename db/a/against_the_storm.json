@@ -6,9 +6,9 @@
   "Ranking_Popularity": 209,
   "Ranking_PopularitySum": 163,
   "Ranking_EOS_Progress": 116,
-  "Ranking_EOS_Completed": 180,
+  "Ranking_EOS_Completed": 182,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2756,11 +2756,11 @@
       "Count": 317
     }
   ],
-  "EOS_Progressed": 16491,
+  "EOS_Progressed": 16492,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.29,
+  "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:44.0193336+00:00",
@@ -9956,6 +9956,11 @@
       "Time": "2023-09-02T19:04:45.3239812+00:00",
       "NumProgressed": 16491,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-09-02T21:04:34.5461172+00:00",
+      "NumProgressed": 16492,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 50,
@@ -10077,9 +10082,9 @@
       "ID": "WinNearArmory",
       "SetID": "cfbk359",
       "Name": "Ruined Armory",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 330
+      "UsersEstimate": 495
     },
     {
       "ID": "WinNearBandit",
@@ -10366,15 +10371,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 16491,
+      "Progressed": 16492,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-09-02T01:37:44.7454478+00:00",
-  "LastChanged_Achievements": "2023-09-02T20:03:43.4677764+00:00",
+  "LastChanged_Achievements": "2023-09-02T21:04:34.5461165+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:56.7333073+00:00",
-  "LastUpdate_Ratings": "2023-09-02T20:00:01.3777785+00:00",
-  "LastUpdate_Achievements": "2023-09-02T20:03:43.467869+00:00"
+  "LastUpdate_Ratings": "2023-09-02T21:01:17.8704553+00:00",
+  "LastUpdate_Achievements": "2023-09-02T21:04:34.5462367+00:00"
 }

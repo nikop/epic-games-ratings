@@ -23,8 +23,8 @@ Number of Ratings: 28  (23.09.2022)
 | Ouroboros | 25.00% | ~112 |
 | Non Stop! | 24.00% | ~108 |
 | Foreman | 22.00% | ~99 |
+| Russia | 19.00% | ~85 |
 | Missed it! | 19.00% | ~85 |
-| Russia | 18.00% | ~81 |
 | America | 17.00% | ~76 |
 | Sabotage | 16.00% | ~72 |
 | Woodcutter | 11.00% | ~49 |

@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Welcome! | 96.00% | ~451 |
-| A tiny town | 85.00% | ~400 |
+| A tiny town | 86.00% | ~404 |
 | Buildings, roads, cars, ...and people | 67.00% | ~315 |
 | Great view from the beach and from the hill | 57.00% | ~268 |
 | Bridges to come and go | 50.00% | ~235 |

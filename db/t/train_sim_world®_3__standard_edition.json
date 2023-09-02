@@ -4,11 +4,11 @@
   "ProductSlug": "train-sim-world-3",
   "Ranking_Rating": 492,
   "Ranking_Popularity": 227,
-  "Ranking_PopularitySum": 178,
+  "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 571,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 349,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
     "PcReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -2551,10 +2551,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 2469,
       "NumberOfAwardsMax": 343
+    },
+    {
+      "Time": "2023-09-02T20:59:58.022422+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 2471,
+      "NumberOfAwardsMax": 343
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2469,
+  "NumberOfAwards": 2471,
   "NumberOfAwardsMax": 343,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2610,7 +2616,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 229
+      "Count": 231
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2643,8 +2649,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-06T15:30:57.6812817+00:00",
   "FirstSeenRating": "2022-09-07T06:00:21.7269742+00:00",
-  "LastChanged": "2023-09-02T08:59:38.5444772+00:00",
+  "LastChanged": "2023-09-02T20:59:58.0224219+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:09.5883597+00:00",
-  "LastUpdate_Ratings": "2023-09-02T19:59:06.1875832+00:00",
-  "LastUpdate_Achievements": "2023-09-02T20:04:09.0492433+00:00"
+  "LastUpdate_Ratings": "2023-09-02T20:59:58.022423+00:00",
+  "LastUpdate_Achievements": "2023-09-02T21:04:56.0587392+00:00"
 }
