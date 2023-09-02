@@ -37,7 +37,7 @@
 | 35 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.61% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.81% |
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
-| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.12% |
+| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.10% |
 | 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.99% |
 | 39 | [Scorn](games/s/scorn.md) | 6.99% |
 | 41 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.84% |
@@ -47,7 +47,7 @@
 | 44 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 46 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.15% |
 | 47 | [JARS](games/j/jars.md) | 5.97% |
-| 48 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.88% |
+| 48 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.86% |
 | 49 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.35% |
 | 50 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.33% |
 | 51 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.17% |
@@ -70,7 +70,7 @@
 | 68 | [The Complex](games/t/the_complex.md) | 3.32% |
 | 69 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
 | 70 | [HordeCore](games/h/hordecore.md) | 3.15% |
-| 71 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.07% |
+| 71 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.06% |
 | 72 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.01% |
 | 73 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 2.95% |
 | 74 | [Monster Harvest](games/m/monster_harvest.md) | 2.93% |
@@ -129,11 +129,11 @@
 | 127 | [Hades](games/h/hades.md) | 0.90% |
 | 128 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 129 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
-| 129 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.83% |
-| 131 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.81% |
+| 130 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.81% |
+| 130 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.81% |
 | 132 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
-| 132 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.74% |
-| 134 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.73% |
+| 133 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.73% |
+| 133 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.73% |
 | 135 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.71% |
 | 136 | [Lemon Cake](games/l/lemon_cake.md) | 0.69% |
 | 137 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.67% |
@@ -185,9 +185,9 @@
 | 183 | [Scrapnaut](games/s/scrapnaut.md) | 0.28% |
 | 183 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.28% |
 | 183 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.28% |
-| 186 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.26% |
-| 187 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
-| 187 | [Filament](games/f/filament.md) | 0.25% |
+| 186 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
+| 186 | [Filament](games/f/filament.md) | 0.25% |
+| 186 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.25% |
 | 189 | [Despot's Game](games/d/despot's_game.md) | 0.24% |
 | 190 | [Blanc](games/b/blanc.md) | 0.23% |
 | 190 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.23% |
