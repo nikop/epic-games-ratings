@@ -9,7 +9,7 @@
 | Your first fight | 86.00% | ~263 |
 | First winning | 84.00% | ~257 |
 | Your first job | 83.00% | ~254 |
-| Old movies enjoyer | 79.00% | ~242 |
+| Old movies enjoyer | 80.00% | ~245 |
 | Fitness professional | 78.00% | ~239 |
 | Depressed visitor | 78.00% | ~239 |
 | Neurotrainer – power gainer! | 76.00% | ~233 |
@@ -27,9 +27,9 @@
 | Workout professional | 60.00% | ~184 |
 | Handyman | 59.00% | ~181 |
 | Champion – starter pack | 59.00% | ~181 |
+| It's good to be alive | 59.00% | ~181 |
 | Fight for life | 58.00% | ~177 |
 | Little hacker | 58.00% | ~177 |
-| It's good to be alive | 58.00% | ~177 |
 | Own four walls | 58.00% | ~177 |
 | Employee of the year | 58.00% | ~177 |
 | Intriguing candies | 57.00% | ~174 |
@@ -69,7 +69,7 @@
 | The heart of the Resistance | 30.00% | ~92 |
 | Silver’s past | 27.00% | ~83 |
 | Better cooking at home | 27.00% | ~83 |
-| The only right decision | 26.00% | ~80 |
+| The only right decision | 27.00% | ~83 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 306 (Ranked 273)  
 Completed: 8 (2.61%) (Ranked 81)  

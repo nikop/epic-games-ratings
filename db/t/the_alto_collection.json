@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -751,9 +751,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 37844,
+  "EOS_Progressed": 37846,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 944,
+  "EOS_NewPlayers": 937,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15751,6 +15751,11 @@
       "Time": "2023-09-02T21:03:23.0544696+00:00",
       "NumProgressed": 37844,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-02T22:03:17.7847186+00:00",
+      "NumProgressed": 37846,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -15802,7 +15807,7 @@
       "Name": "Rookie",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 9839
+      "UsersEstimate": 9840
     },
     {
       "ID": "goals180",
@@ -15970,7 +15975,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 9839
+      "UsersEstimate": 9840
     },
     {
       "ID": "sandboarder",
@@ -16073,15 +16078,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 37844,
+      "Progressed": 37846,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-08-29T10:57:48.0300457+00:00",
-  "LastChanged_Achievements": "2023-09-02T21:03:23.054469+00:00",
+  "LastChanged_Achievements": "2023-09-02T22:03:17.7847184+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:12.1649618+00:00",
-  "LastUpdate_Ratings": "2023-09-02T21:00:01.6569652+00:00",
-  "LastUpdate_Achievements": "2023-09-02T21:03:23.0546119+00:00"
+  "LastUpdate_Ratings": "2023-09-02T21:59:22.6105155+00:00",
+  "LastUpdate_Achievements": "2023-09-02T22:03:17.7848099+00:00"
 }

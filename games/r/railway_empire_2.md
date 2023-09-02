@@ -44,9 +44,9 @@ Rating: 4.47 (Ranked 616)
 | Assimilated | 15.00% | ~279 |
 | Locusts | 15.00% | ~279 |
 | Settler | 15.00% | ~279 |
+| Bold and beautiful | 14.00% | ~260 |
 | Go West | 13.00% | ~242 |
 | Max Power | 13.00% | ~242 |
-| Bold and beautiful | 13.00% | ~242 |
 | A new Hope | 10.00% | ~186 |
 | Tycoon | 10.00% | ~186 |
 | Unstoppable | 8.00% | ~149 |

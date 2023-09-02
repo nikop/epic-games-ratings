@@ -4182,10 +4182,10 @@
       "Count": 334
     }
   ],
-  "EOS_Progressed": 671941,
-  "EOS_Completed": 2102,
-  "EOS_NewPlayers": 5775,
-  "EOS_NewCompleters": 24,
+  "EOS_Progressed": 671990,
+  "EOS_Completed": 2103,
+  "EOS_NewPlayers": 5780,
+  "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -19272,6 +19272,11 @@
       "Time": "2023-09-02T21:05:57.2831859+00:00",
       "NumProgressed": 671941,
       "NumCompleted": 2102
+    },
+    {
+      "Time": "2023-09-02T22:05:23.2456427+00:00",
+      "NumProgressed": 671990,
+      "NumCompleted": 2103
     }
   ],
   "TotalAchievements": 45,
@@ -19337,9 +19342,9 @@
       "ID": "ach_bookworm",
       "SetID": "7km39fm",
       "Name": "Bookworm",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 4032
+      "UsersEstimate": 4704
     },
     {
       "ID": "ach_break_a_leg",
@@ -19443,7 +19448,7 @@
       "Name": "Hotel California",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6047
+      "UsersEstimate": 6048
     },
     {
       "ID": "ach_impressive_aim",
@@ -19619,7 +19624,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6719
+      "UsersEstimate": 6720
     },
     {
       "ID": "ach_well_known_survivor",
@@ -19642,16 +19647,16 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 671941,
-      "Completed": 2102
+      "Progressed": 671990,
+      "Completed": 2103
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-02T18:58:57.8317425+00:00",
-  "LastChanged_Achievements": "2023-09-02T21:05:57.2831852+00:00",
+  "LastChanged_Achievements": "2023-09-02T22:05:23.2456424+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:04.7021628+00:00",
-  "LastUpdate_Ratings": "2023-09-02T20:58:49.5831858+00:00",
-  "LastUpdate_Achievements": "2023-09-02T21:05:57.28334+00:00"
+  "LastUpdate_Ratings": "2023-09-02T21:58:23.8782617+00:00",
+  "LastUpdate_Achievements": "2023-09-02T22:05:23.2457402+00:00"
 }

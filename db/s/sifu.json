@@ -3,11 +3,11 @@
   "Name": "Sifu",
   "ProductSlug": "sifu",
   "Ranking_Rating": 65,
-  "Ranking_Popularity": 55,
+  "Ranking_Popularity": 54,
   "Ranking_PopularitySum": 80,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 99,
-  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -5878,18 +5878,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 11038,
       "NumberOfAwardsMax": 6419
+    },
+    {
+      "Time": "2023-09-02T21:59:07.0653136+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 11043,
+      "NumberOfAwardsMax": 6424
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11038,
-  "NumberOfAwardsMax": 6419,
+  "NumberOfAwards": 11043,
+  "NumberOfAwardsMax": 6424,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6419
+      "Count": 6424
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5960,7 +5966,7 @@
   ],
   "EOS_Progressed": 712911,
   "EOS_Completed": 12878,
-  "EOS_NewPlayers": 185,
+  "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -18775,9 +18781,9 @@
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-09-02T16:58:59.6230199+00:00",
-  "LastChanged_Achievements": "2023-09-02T21:08:22.4724655+00:00",
+  "LastChanged": "2023-09-02T21:59:07.0653135+00:00",
+  "LastChanged_Achievements": "2023-09-02T22:07:28.4262492+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:56.9584317+00:00",
-  "LastUpdate_Ratings": "2023-09-02T20:59:41.8307961+00:00",
-  "LastUpdate_Achievements": "2023-09-02T21:08:22.4726117+00:00"
+  "LastUpdate_Ratings": "2023-09-02T21:59:07.065314+00:00",
+  "LastUpdate_Achievements": "2023-09-02T22:07:28.4263417+00:00"
 }

@@ -32,11 +32,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 582,
+  "EOS_Progressed": 584,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 1.89,
+  "EOS_Completed_Percentage": 1.88,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -1372,6 +1372,11 @@
       "Time": "2023-09-02T21:07:10.5699522+00:00",
       "NumProgressed": 582,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-02T22:06:26.3974074+00:00",
+      "NumProgressed": 584,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1382,9 +1387,9 @@
       "ID": "_01_AllIslands",
       "SetID": "8a1io5d",
       "Name": "Somewhere Deep in the Lost Caribbean",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 146
+      "UsersEstimate": 152
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -1392,7 +1397,7 @@
       "Name": "A New Journey",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "_03_FinishAct1",
@@ -1400,7 +1405,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1416,7 +1421,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -1440,7 +1445,7 @@
       "Name": "Swabbie",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "_09_Completion_20",
@@ -1456,7 +1461,7 @@
       "Name": "Buccaneer",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "_11_Completion_40",
@@ -1464,7 +1469,7 @@
       "Name": "Seadog",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "_12_Completion_50",
@@ -1472,7 +1477,7 @@
       "Name": "Privateer",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "_13_Completion_60",
@@ -1488,7 +1493,7 @@
       "Name": "Freebooter",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "_15_Completion_80",
@@ -1496,7 +1501,7 @@
       "Name": "Marauder",
       "Percentage": 3,
       "XP": 125,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "_16_UnlockCore8Characters",
@@ -1504,7 +1509,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -1512,7 +1517,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -1520,15 +1525,15 @@
       "Name": "Fully Decked",
       "Percentage": 3,
       "XP": 125,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "_19_CrewTale_BSP",
       "SetID": "8a1io5d",
       "Name": "Persistent Parasite",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 82
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -1536,7 +1541,7 @@
       "Name": "Fishy Fish",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -1576,7 +1581,7 @@
       "Name": "Rustic Recipe",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "_26_ReviveVirgilio",
@@ -1584,14 +1589,14 @@
       "Name": "Welcome Back Jester",
       "Percentage": 3,
       "XP": 140,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     }
   ],
   "AchievementSets": [
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 582,
+      "Progressed": 584,
       "Completed": 11
     }
   ],
@@ -1599,8 +1604,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-02T15:58:27.8231568+00:00",
-  "LastChanged_Achievements": "2023-09-02T21:07:10.5699517+00:00",
+  "LastChanged_Achievements": "2023-09-02T22:06:26.3974071+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:46.0913582+00:00",
-  "LastUpdate_Ratings": "2023-09-02T20:58:30.5197033+00:00",
-  "LastUpdate_Achievements": "2023-09-02T21:07:10.5699785+00:00"
+  "LastUpdate_Ratings": "2023-09-02T21:58:08.8895922+00:00",
+  "LastUpdate_Achievements": "2023-09-02T22:06:26.3974343+00:00"
 }

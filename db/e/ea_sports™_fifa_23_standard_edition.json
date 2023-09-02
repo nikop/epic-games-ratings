@@ -2,13 +2,13 @@
   "ID": "f5deacee017b4b109476933f7dd2edbd",
   "Name": "EA SPORTS\u2122 FIFA 23 Standard Edition",
   "ProductSlug": "fifa-23",
-  "Ranking_Rating": 828,
+  "Ranking_Rating": 829,
   "Ranking_Popularity": 20,
   "Ranking_PopularitySum": 14,
   "Ranking_EOS_Progress": 571,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 347,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-09-30T07:00:00+00:00",
     "PcReleaseDate": "2022-09-30T07:00:00+00:00",
@@ -6041,8 +6041,8 @@
   "FirstSeenRating": "2022-10-06T07:01:15.4932538+00:00",
   "FirstSeenAchievements": "2023-06-30T22:04:55.4343947+00:00",
   "LastChanged": "2023-09-02T16:59:45.4099977+00:00",
-  "LastChanged_Achievements": "2023-09-02T21:05:58.8467627+00:00",
+  "LastChanged_Achievements": "2023-09-02T22:05:24.5877924+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:39.4104233+00:00",
-  "LastUpdate_Ratings": "2023-09-02T21:00:47.707356+00:00",
-  "LastUpdate_Achievements": "2023-09-02T21:05:58.8467646+00:00"
+  "LastUpdate_Ratings": "2023-09-02T22:00:01.7447263+00:00",
+  "LastUpdate_Achievements": "2023-09-02T22:05:24.5877942+00:00"
 }

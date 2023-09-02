@@ -5,35 +5,35 @@ Rating: 4.81 (Ranked 77)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 72.00% | ~419 |
-| The Adventure Begins | 55.00% | ~320 |
-| Swabbie | 42.00% | ~244 |
-| With Great Power… | 40.00% | ~233 |
+| A New Journey | 72.00% | ~420 |
+| The Adventure Begins | 55.00% | ~321 |
+| Swabbie | 42.00% | ~245 |
+| With Great Power… | 40.00% | ~234 |
 | This Belongs in a Museum | 35.00% | ~204 |
-| The Gambit Has Begun | 31.00% | ~180 |
+| The Gambit Has Begun | 31.00% | ~181 |
 | Powder Monkey | 29.00% | ~169 |
-| Somewhere Deep in the Lost Caribbean | 25.00% | ~146 |
+| Somewhere Deep in the Lost Caribbean | 26.00% | ~152 |
 | Mirror Mirror on the Wall | 24.00% | ~140 |
-| Pirates Assemble! | 21.00% | ~122 |
-| Buccaneer | 20.00% | ~116 |
-| Fishy Fish | 20.00% | ~116 |
-| Seadog | 15.00% | ~87 |
+| Pirates Assemble! | 21.00% | ~123 |
+| Buccaneer | 20.00% | ~117 |
+| Fishy Fish | 20.00% | ~117 |
+| Seadog | 15.00% | ~88 |
+| Persistent Parasite | 14.00% | ~82 |
 | All Good Things | 13.00% | ~76 |
-| Persistent Parasite | 13.00% | ~76 |
 | Jaded Judge | 10.00% | ~58 |
-| Privateer | 9.00% | ~52 |
-| Rustic Recipe | 9.00% | ~52 |
+| Privateer | 9.00% | ~53 |
+| Rustic Recipe | 9.00% | ~53 |
 | Tobacco Travesty | 8.00% | ~47 |
 | Lyrical Longing | 7.00% | ~41 |
 | Accursed Artifacts | 6.00% | ~35 |
 | Corsair | 5.00% | ~29 |
-| Freebooter | 3.00% | ~17 |
-| Marauder | 3.00% | ~17 |
-| Fully Decked | 3.00% | ~17 |
-| Welcome Back Jester | 3.00% | ~17 |
+| Freebooter | 3.00% | ~18 |
+| Marauder | 3.00% | ~18 |
+| Fully Decked | 3.00% | ~18 |
+| Welcome Back Jester | 3.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 582 (Ranked 228)  
-Completed: 11 (1.89%) (Ranked 95)  
+Progressed: 584 (Ranked 228)  
+Completed: 11 (1.88%) (Ranked 95)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -60,7 +60,7 @@ Completed: 11 (1.89%) (Ranked 95)
 | 2023-08-30 | 553 | 9 |
 | 2023-08-31 | 559 | 9 |
 | 2023-09-01 | 570 | 9 |
-| 2023-09-02 | 582 | 11 |
+| 2023-09-02 | 584 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

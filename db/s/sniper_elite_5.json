@@ -500,7 +500,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3564,
+  "EOS_Progressed": 3565,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 1,
@@ -6400,6 +6400,11 @@
       "Time": "2023-09-02T21:08:10.1939262+00:00",
       "NumProgressed": 3564,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-02T22:07:17.9131306+00:00",
+      "NumProgressed": 3565,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 71,
@@ -6419,7 +6424,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -6491,7 +6496,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1639
+      "UsersEstimate": 1640
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -6547,7 +6552,7 @@
       "Name": "Sharpshooter",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -6747,7 +6752,7 @@
       "Name": "Change the Channel",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1069
+      "UsersEstimate": 1070
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -6978,13 +6983,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3515,
+      "Progressed": 3516,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3564,
+      "Progressed": 3565,
       "Completed": 10
     }
   ],
@@ -6992,8 +6997,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-01T10:01:39.1533108+00:00",
-  "LastChanged_Achievements": "2023-09-02T21:08:10.1939256+00:00",
+  "LastChanged_Achievements": "2023-09-02T22:07:17.9131303+00:00",
   "LastUpdate_AppInfo": "2023-09-02T06:57:18.4314048+00:00",
-  "LastUpdate_Ratings": "2023-09-02T21:01:56.103648+00:00",
-  "LastUpdate_Achievements": "2023-09-02T21:08:10.1940582+00:00"
+  "LastUpdate_Ratings": "2023-09-02T22:00:57.7494722+00:00",
+  "LastUpdate_Achievements": "2023-09-02T22:07:17.9132206+00:00"
 }

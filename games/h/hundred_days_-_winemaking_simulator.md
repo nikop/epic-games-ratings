@@ -6,15 +6,16 @@ Number of Ratings: 7,669  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 31.00% | ~265 |
-| It's a good start | 8.00% | ~68 |
-| Quack | 6.00% | ~51 |
+| Bye Bye | 31.00% | ~268 |
+| It's a good start | 8.00% | ~69 |
+| Quack | 6.00% | ~52 |
 | Bonjour! | 5.00% | ~43 |
 | The Assistant | 5.00% | ~43 |
 | The Blue Marl | 5.00% | ~43 |
-| Ostinata | 4.00% | ~34 |
-| A long journey | 4.00% | ~34 |
-| Better than nothing? | 4.00% | ~34 |
+| Ostinata | 4.00% | ~35 |
+| A long journey | 4.00% | ~35 |
+| Better than nothing? | 4.00% | ~35 |
+| Keep the doctor away | 3.00% | ~26 |
 | Surprise of Langhe | 3.00% | ~26 |
 | Famous | 3.00% | ~26 |
 | What is that? A castle? | 2.00% | ~17 |
@@ -23,7 +24,6 @@ Number of Ratings: 7,669  (23.09.2022)
 | Big Money | 2.00% | ~17 |
 | Millionaire | 2.00% | ~17 |
 | Exotic | 2.00% | ~17 |
-| Keep the doctor away | 2.00% | ~17 |
 | Welcome to the club | 1.00% | ~9 |
 | King of Langhe | 1.00% | ~9 |
 | Very Important Winemaker | 1.00% | ~9 |
@@ -33,12 +33,12 @@ Number of Ratings: 7,669  (23.09.2022)
 | King of red wines | 0.50% | ~4 |
 | Sales Expert | 0.50% | ~4 |
 | Knight of Langhe | 0.50% | ~4 |
-| King of white wines | 0.40% | ~3 |
-| Big deals | 0.40% | ~3 |
+| King of white wines | 0.30% | ~3 |
+| Big deals | 0.30% | ~3 |
 | Master Winemaker | 0.20% | ~2 |
 | Unsuitable Terroir | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 856 (Ranked 211)  
+Progressed: 863 (Ranked 210)  
 Completed: 2 (0.23%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -46,7 +46,7 @@ Completed: 2 (0.23%) (Ranked 189)
 | 2023-08-30 | 210 | 0 |
 | 2023-08-31 | 441 | 2 |
 | 2023-09-01 | 652 | 2 |
-| 2023-09-02 | 856 | 2 |
+| 2023-09-02 | 863 | 2 |
 ## Awards
 Max (Relaxing): 203  (Ranked 273)  
 Sum: 1,458 (Ranked 224)  

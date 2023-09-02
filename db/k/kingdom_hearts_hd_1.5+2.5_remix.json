@@ -4,11 +4,11 @@
   "ProductSlug": "kingdom-hearts-hd-1-5-2-5-remix",
   "Ranking_Rating": 65,
   "Ranking_Popularity": 178,
-  "Ranking_PopularitySum": 133,
+  "Ranking_PopularitySum": 132,
   "Ranking_EOS_Progress": 571,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 347,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-03-30T13:00:00+00:00",
     "PcReleaseDate": "2021-03-30T13:00:00+00:00",
@@ -6258,10 +6258,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 4811,
       "NumberOfAwardsMax": 634
+    },
+    {
+      "Time": "2023-09-02T21:59:09.9088976+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 4818,
+      "NumberOfAwardsMax": 634
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4811,
+  "NumberOfAwards": 4818,
   "NumberOfAwardsMax": 634,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6299,7 +6305,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 608
+      "Count": 614
     },
     {
       "Text": "This game has Challenging Combat",
@@ -6311,7 +6317,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 566
+      "Count": 567
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -6349,8 +6355,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:56.8065488+00:00",
-  "LastChanged": "2023-09-02T16:59:01.8595104+00:00",
+  "LastChanged": "2023-09-02T21:59:09.9088974+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:59.9323883+00:00",
-  "LastUpdate_Ratings": "2023-09-02T20:59:45.4329372+00:00",
-  "LastUpdate_Achievements": "2023-09-02T21:04:07.9079642+00:00"
+  "LastUpdate_Ratings": "2023-09-02T21:59:09.9088982+00:00",
+  "LastUpdate_Achievements": "2023-09-02T22:03:48.1338964+00:00"
 }

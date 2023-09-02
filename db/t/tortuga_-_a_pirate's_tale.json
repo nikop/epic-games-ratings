@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
     "PcReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -4295,9 +4295,9 @@
       "ID": "ACH0013",
       "SetID": "6749a6l",
       "Name": "Make It Rain",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3716
+      "UsersEstimate": 3878
     },
     {
       "ID": "ACH0014",
@@ -4472,8 +4472,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-08-03T01:53:52.0652569+00:00",
-  "LastChanged_Achievements": "2023-09-02T21:04:53.4934617+00:00",
+  "LastChanged_Achievements": "2023-09-02T22:04:26.7081956+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:25.0679684+00:00",
-  "LastUpdate_Ratings": "2023-09-02T21:00:59.4202986+00:00",
-  "LastUpdate_Achievements": "2023-09-02T21:04:53.4935302+00:00"
+  "LastUpdate_Ratings": "2023-09-02T22:00:10.8992192+00:00",
+  "LastUpdate_Achievements": "2023-09-02T22:04:26.7082271+00:00"
 }
