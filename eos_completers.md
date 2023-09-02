@@ -35,7 +35,7 @@
 | 33 | [Sonic Origins](games/s/sonic_origins.md) | 8.95% |
 | 34 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.89% |
 | 35 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.61% |
-| 36 | [Ravenlok](games/r/ravenlok.md) | 7.71% |
+| 36 | [Ravenlok](games/r/ravenlok.md) | 7.81% |
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
 | 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.12% |
 | 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.99% |
@@ -72,7 +72,7 @@
 | 70 | [HordeCore](games/h/hordecore.md) | 3.15% |
 | 71 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.08% |
 | 72 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.01% |
-| 73 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 2.96% |
+| 73 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 2.95% |
 | 74 | [Monster Harvest](games/m/monster_harvest.md) | 2.93% |
 | 74 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 76 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.80% |
@@ -80,7 +80,7 @@
 | 78 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.74% |
 | 79 | [Destiny 2](games/d/destiny_2.md) | 2.73% |
 | 79 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
-| 81 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.66% |
+| 81 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.65% |
 | 82 | [The Bunker](games/t/the_bunker.md) | 2.61% |
 | 83 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.58% |
 | 84 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.57% |
@@ -94,13 +94,13 @@
 | 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.01% |
 | 93 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.00% |
 | 94 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
-| 94 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 1.92% |
+| 95 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 1.91% |
 | 96 | [Night Book](games/n/night_book.md) | 1.86% |
 | 97 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
 | 98 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 99 | [Sifu](games/s/sifu.md) | 1.81% |
 | 100 | [Frogun](games/f/frogun.md) | 1.80% |
-| 101 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.79% |
+| 101 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.72% |
 | 102 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.67% |
 | 103 | [Somerville](games/s/somerville.md) | 1.66% |
 | 104 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.64% |
@@ -127,8 +127,8 @@
 | 123 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.99% |
 | 126 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.95% |
 | 127 | [Hades](games/h/hades.md) | 0.90% |
-| 128 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.85% |
 | 128 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
+| 129 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.84% |
 | 130 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
 | 131 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.81% |
 | 132 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
@@ -182,10 +182,10 @@
 | 180 | [Against the Storm](games/a/against_the_storm.md) | 0.29% |
 | 180 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
 | 180 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
-| 183 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.28% |
 | 183 | [Scrapnaut](games/s/scrapnaut.md) | 0.28% |
 | 183 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.28% |
 | 183 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.28% |
+| 186 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.27% |
 | 187 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
 | 187 | [Filament](games/f/filament.md) | 0.25% |
 | 189 | [Despot's Game](games/d/despot's_game.md) | 0.24% |
