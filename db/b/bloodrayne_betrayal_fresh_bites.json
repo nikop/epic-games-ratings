@@ -4,7 +4,7 @@
   "ProductSlug": "bloodrayne-betrayal-fresh-bites-8f1012",
   "Ranking_EOS_Progress": 384,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewPlayers": 343,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-11-04T17:00:00+00:00",
@@ -246,9 +246,9 @@
       "ID": "StrangeSkulls",
       "SetID": "6jf74lf",
       "Name": "Strange Skulls",
-      "Percentage": 60,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ToSunrise",
@@ -262,9 +262,9 @@
       "ID": "TreasureHunter",
       "SetID": "6jf74lf",
       "Name": "Treasure Hunter",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "WalkingOnAir",
@@ -287,8 +287,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.7137735+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:16.1017514+00:00",
   "LastChanged": "2023-03-31T05:58:13.7137736+00:00",
-  "LastChanged_Achievements": "2023-09-01T23:07:00.8352383+00:00",
+  "LastChanged_Achievements": "2023-09-02T00:05:48.0397261+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:05.6317617+00:00",
-  "LastUpdate_Ratings": "2023-09-01T22:59:59.274944+00:00",
-  "LastUpdate_Achievements": "2023-09-01T23:07:00.8352567+00:00"
+  "LastUpdate_Ratings": "2023-09-01T23:59:14.5734971+00:00",
+  "LastUpdate_Achievements": "2023-09-02T00:05:48.039744+00:00"
 }

@@ -768,9 +768,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 220165,
+  "EOS_Progressed": 220176,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2938,
+  "EOS_NewPlayers": 2926,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9198,6 +9198,11 @@
       "Time": "2023-09-01T23:04:46.5747745+00:00",
       "NumProgressed": 220165,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-02T00:03:59.9750172+00:00",
+      "NumProgressed": 220176,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -9265,7 +9270,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4403
+      "UsersEstimate": 4404
     },
     {
       "ID": "Chapter3",
@@ -9297,7 +9302,7 @@
       "Name": "Torture and Sensibility",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1981
+      "UsersEstimate": 1982
     },
     {
       "ID": "Chapter7",
@@ -9305,7 +9310,7 @@
       "Name": "Urik\u0027s Depths",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1981
+      "UsersEstimate": 1982
     },
     {
       "ID": "Chapter8",
@@ -9313,7 +9318,7 @@
       "Name": "The Dungeon Master",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1981
+      "UsersEstimate": 1982
     },
     {
       "ID": "Chapter9",
@@ -9321,7 +9326,7 @@
       "Name": "The Statuette of Gladeulfeurah",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1981
+      "UsersEstimate": 1982
     },
     {
       "ID": "CollateralVictim",
@@ -9593,7 +9598,7 @@
       "Name": "A tale of adventurers not quite like the others...",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1981
+      "UsersEstimate": 1982
     },
     {
       "ID": "Dwarf30Insult",
@@ -9641,7 +9646,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4403
+      "UsersEstimate": 4404
     },
     {
       "ID": "ElfEpic",
@@ -9657,7 +9662,7 @@
       "Name": "Sowwy!",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 59445
+      "UsersEstimate": 59448
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -9673,7 +9678,7 @@
       "Name": "GG EZ",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4403
+      "UsersEstimate": 4404
     },
     {
       "ID": "EndCombatOneHp",
@@ -9681,7 +9686,7 @@
       "Name": "DM intervention",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4403
+      "UsersEstimate": 4404
     },
     {
       "ID": "EndGameCursed",
@@ -9721,7 +9726,7 @@
       "Name": "An old poacher makes the best gamekeeper",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "InsultLoose",
@@ -9745,7 +9750,7 @@
       "Name": "We come in peace",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "MinistrelEpic",
@@ -9817,7 +9822,7 @@
       "Name": "L\u00EBgal Legend",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "QuestPriestess",
@@ -9857,7 +9862,7 @@
       "Name": "Speedrun",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4403
+      "UsersEstimate": 4404
     },
     {
       "ID": "SupportCount4",
@@ -9905,28 +9910,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4403
+      "UsersEstimate": 4404
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 220165,
+      "Progressed": 220176,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 220165,
+      "Progressed": 220176,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-01T22:58:02.5589257+00:00",
-  "LastChanged_Achievements": "2023-09-01T23:04:46.574774+00:00",
+  "LastChanged_Achievements": "2023-09-02T00:03:59.9750164+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:41.9661267+00:00",
-  "LastUpdate_Ratings": "2023-09-01T22:58:02.5589262+00:00",
-  "LastUpdate_Achievements": "2023-09-01T23:04:46.5749476+00:00"
+  "LastUpdate_Ratings": "2023-09-01T23:57:45.4196568+00:00",
+  "LastUpdate_Achievements": "2023-09-02T00:03:59.9751658+00:00"
 }

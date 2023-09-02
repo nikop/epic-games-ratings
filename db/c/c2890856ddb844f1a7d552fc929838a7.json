@@ -40,9 +40,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 626,
+  "EOS_Progressed": 627,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 271,
+  "EOS_NewPlayers": 270,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -850,6 +850,11 @@
       "Time": "2023-09-01T23:06:58.8993043+00:00",
       "NumProgressed": 626,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-02T00:05:46.4797168+00:00",
+      "NumProgressed": 627,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -870,7 +875,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "AC02",
@@ -878,7 +883,7 @@
       "Name": "Blood and Dust",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "AC03",
@@ -894,7 +899,7 @@
       "Name": "Blood and Iron",
       "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "AC05",
@@ -902,7 +907,7 @@
       "Name": "The Sharpest Tool in the Shed",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "AC06",
@@ -910,15 +915,15 @@
       "Name": "The Last Ascension",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "AC07",
       "SetID": "l4abp0",
       "Name": "The Sea dies on the Shore",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 263
+      "UsersEstimate": 270
     },
     {
       "ID": "AC08",
@@ -932,9 +937,9 @@
       "ID": "AC09",
       "SetID": "l4abp0",
       "Name": "Fermosa Fembra",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 213
+      "UsersEstimate": 219
     },
     {
       "ID": "AC10",
@@ -950,7 +955,7 @@
       "Name": "A Heart of Gold",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "AC12",
@@ -958,7 +963,7 @@
       "Name": "Canvas of Light and Time",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "AC13",
@@ -974,7 +979,7 @@
       "Name": "Acta, Non Verba",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "AC15",
@@ -1110,7 +1115,7 @@
       "Name": "The Merciless One",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "AC32",
@@ -1198,7 +1203,7 @@
       "Name": "Two Old Ones Eating Soup",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "AC43",
@@ -1229,7 +1234,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 626,
+      "Progressed": 627,
       "Completed": 0
     }
   ],
@@ -1237,8 +1242,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-01T21:01:12.3792487+00:00",
-  "LastChanged_Achievements": "2023-09-01T23:06:58.8993039+00:00",
+  "LastChanged_Achievements": "2023-09-02T00:05:46.4797162+00:00",
   "LastUpdate_AppInfo": "2023-08-29T18:57:21.35462+00:00",
-  "LastUpdate_Ratings": "2023-09-01T23:00:35.5817635+00:00",
-  "LastUpdate_Achievements": "2023-09-01T23:06:58.8993517+00:00"
+  "LastUpdate_Ratings": "2023-09-01T23:59:43.6872909+00:00",
+  "LastUpdate_Achievements": "2023-09-02T00:05:46.4797596+00:00"
 }

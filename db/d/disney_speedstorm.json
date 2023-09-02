@@ -4651,9 +4651,9 @@
       "ID": "5",
       "SetID": "9p3jgda",
       "Name": "ROOKIE",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 1696
+      "UsersEstimate": 1728
     },
     {
       "ID": "6",
@@ -4697,8 +4697,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-09-01T23:04:51.9232462+00:00",
+  "LastChanged_Achievements": "2023-09-02T00:04:04.2197605+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:21.5696846+00:00",
-  "LastUpdate_Ratings": "2023-09-01T22:58:40.934204+00:00",
-  "LastUpdate_Achievements": "2023-09-01T23:04:51.9233402+00:00"
+  "LastUpdate_Ratings": "2023-09-01T23:58:14.0869661+00:00",
+  "LastUpdate_Achievements": "2023-09-02T00:04:04.2198033+00:00"
 }

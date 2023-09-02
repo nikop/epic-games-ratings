@@ -1653,9 +1653,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13732,
+  "EOS_Progressed": 13733,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10788,6 +10788,11 @@
       "Time": "2023-09-01T22:03:35.1411453+00:00",
       "NumProgressed": 13732,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-02T00:03:18.7531048+00:00",
+      "NumProgressed": 13733,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -12717,9 +12722,9 @@
       "ID": "ACHIEVEMENT_STAT_TEN_LANDMARKS_NAME",
       "SetID": "9201eeb",
       "Name": "Naming Landmarks",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 275
+      "UsersEstimate": 412
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_LEADERS",
@@ -13166,21 +13171,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13732,
+      "Progressed": 13733,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13732,
+      "Progressed": 13733,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-30T22:01:08.7702063+00:00",
-  "LastChanged_Achievements": "2023-09-01T23:03:54.9072843+00:00",
+  "LastChanged_Achievements": "2023-09-02T00:03:18.7531042+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:39.7773306+00:00",
-  "LastUpdate_Ratings": "2023-09-01T22:57:39.9465034+00:00",
-  "LastUpdate_Achievements": "2023-09-01T23:03:54.9082491+00:00"
+  "LastUpdate_Ratings": "2023-09-01T23:57:29.555999+00:00",
+  "LastUpdate_Achievements": "2023-09-02T00:03:18.7539179+00:00"
 }

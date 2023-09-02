@@ -876,9 +876,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 6529,
+  "EOS_Progressed": 6530,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5691,6 +5691,11 @@
       "Time": "2023-09-01T22:06:55.4980677+00:00",
       "NumProgressed": 6529,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-02T00:06:02.7078427+00:00",
+      "NumProgressed": 6530,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -5742,7 +5747,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 4113
+      "UsersEstimate": 4114
     },
     {
       "ID": "Control_All_Relics",
@@ -5766,7 +5771,7 @@
       "Name": "Xenocide",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2089
+      "UsersEstimate": 2090
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -5782,7 +5787,7 @@
       "Name": "Design a Civilization",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 2089
+      "UsersEstimate": 2090
     },
     {
       "ID": "First_Major_Ally",
@@ -5806,7 +5811,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 5158
+      "UsersEstimate": 5159
     },
     {
       "ID": "First_Race_Met",
@@ -5814,7 +5819,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4766
+      "UsersEstimate": 4767
     },
     {
       "ID": "First_Ship_Designed",
@@ -6022,7 +6027,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 4048
+      "UsersEstimate": 4049
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -6190,7 +6195,7 @@
       "Name": "Win a Battle",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 4374
+      "UsersEstimate": 4375
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -6277,15 +6282,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6529,
+      "Progressed": 6530,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-08-31T07:00:05.3512746+00:00",
-  "LastChanged_Achievements": "2023-09-01T23:07:18.3285423+00:00",
+  "LastChanged_Achievements": "2023-09-02T00:06:02.707842+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:37.9728429+00:00",
-  "LastUpdate_Ratings": "2023-09-01T22:57:24.673776+00:00",
-  "LastUpdate_Achievements": "2023-09-01T23:07:18.3286884+00:00"
+  "LastUpdate_Ratings": "2023-09-01T23:57:16.7446513+00:00",
+  "LastUpdate_Achievements": "2023-09-02T00:06:02.707932+00:00"
 }

@@ -17,9 +17,9 @@ Rating: 4.68 (Ranked 240)
 | Data Logger | 5.00% | ~490 |
 | Data Master | 4.00% | ~392 |
 | Data Recoverer | 4.00% | ~392 |
+| Urshanabi Hoarder | 2.00% | ~196 |
 | Debris Spree | 2.00% | ~196 |
 | Grave Robber | 2.00% | ~196 |
-| Urshanabi Hoarder | 1.00% | ~98 |
 | Data Miner | 0.10% | ~10 |
 | The Pit and the Pirates | 0.10% | ~10 |
 | Data Archivist | 0.10% | ~10 |
@@ -36,7 +36,7 @@ Rating: 4.68 (Ranked 240)
 | Scavenger Star | 0.00% | ~0 |
 | Data Collector | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,803 (Ranked 127)  
+Progressed: 9,804 (Ranked 127)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,6 +78,7 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-08-30 | 9,655 | 0 |
 | 2023-08-31 | 9,724 | 0 |
 | 2023-09-01 | 9,803 | 0 |
+| 2023-09-02 | 9,804 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

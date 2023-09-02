@@ -392,7 +392,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19214,
+  "EOS_Progressed": 19218,
   "EOS_Completed": 384,
   "EOS_NewPlayers": 565,
   "EOS_NewCompleters": 10,
@@ -14762,6 +14762,11 @@
       "Time": "2023-09-01T23:08:16.7666929+00:00",
       "NumProgressed": 19214,
       "NumCompleted": 384
+    },
+    {
+      "Time": "2023-09-02T00:08:12.1796757+00:00",
+      "NumProgressed": 19218,
+      "NumCompleted": 384
     }
   ],
   "TotalAchievements": 20,
@@ -14773,7 +14778,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 3266
+      "UsersEstimate": 3267
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -14789,7 +14794,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2690
+      "UsersEstimate": 2691
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -14797,7 +14802,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1729
+      "UsersEstimate": 1730
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -14813,7 +14818,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1921
+      "UsersEstimate": 1922
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -14837,7 +14842,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2882
+      "UsersEstimate": 2883
     },
     {
       "ID": "FOUND_ERIN",
@@ -14893,7 +14898,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 14603
+      "UsersEstimate": 14606
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -14901,7 +14906,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 5380
+      "UsersEstimate": 5381
     },
     {
       "ID": "NORTH_FINISHED",
@@ -14909,7 +14914,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2690
+      "UsersEstimate": 2691
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -14932,15 +14937,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 19214,
+      "Progressed": 19218,
       "Completed": 384
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-01T02:18:43.1921629+00:00",
-  "LastChanged_Achievements": "2023-09-01T23:08:16.7666923+00:00",
+  "LastChanged_Achievements": "2023-09-02T00:08:12.1796751+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:40.7243022+00:00",
-  "LastUpdate_Ratings": "2023-09-01T22:59:58.0112031+00:00",
-  "LastUpdate_Achievements": "2023-09-01T23:08:16.7668727+00:00"
+  "LastUpdate_Ratings": "2023-09-01T23:59:13.5703309+00:00",
+  "LastUpdate_Achievements": "2023-09-02T00:08:12.1797748+00:00"
 }

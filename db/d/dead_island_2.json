@@ -3,7 +3,7 @@
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
   "Ranking_Rating": 503,
-  "Ranking_Popularity": 60,
+  "Ranking_Popularity": 61,
   "Ranking_PopularitySum": 96,
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 177,
@@ -4152,9 +4152,9 @@
       "Count": 334
     }
   ],
-  "EOS_Progressed": 671108,
+  "EOS_Progressed": 671133,
   "EOS_Completed": 2097,
-  "EOS_NewPlayers": 5836,
+  "EOS_NewPlayers": 5828,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -19132,6 +19132,11 @@
       "Time": "2023-09-01T23:05:17.3466626+00:00",
       "NumProgressed": 671108,
       "NumCompleted": 2097
+    },
+    {
+      "Time": "2023-09-02T00:04:25.2026514+00:00",
+      "NumProgressed": 671133,
+      "NumCompleted": 2097
     }
   ],
   "TotalAchievements": 45,
@@ -19151,7 +19156,7 @@
       "Name": "Making Your Mark",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2684
+      "UsersEstimate": 2685
     },
     {
       "ID": "ach_ammo_ran",
@@ -19167,7 +19172,7 @@
       "Name": "Anger Management",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2684
+      "UsersEstimate": 2685
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -19191,7 +19196,7 @@
       "Name": "Perks of the Job",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2684
+      "UsersEstimate": 2685
     },
     {
       "ID": "ach_bookworm",
@@ -19223,7 +19228,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2684
+      "UsersEstimate": 2685
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -19383,7 +19388,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2684
+      "UsersEstimate": 2685
     },
     {
       "ID": "ach_revival_tour",
@@ -19399,7 +19404,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2684
+      "UsersEstimate": 2685
     },
     {
       "ID": "ach_secrets_of_la",
@@ -19502,7 +19507,7 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 671108,
+      "Progressed": 671133,
       "Completed": 2097
     }
   ],
@@ -19510,8 +19515,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-01T17:57:51.8036404+00:00",
-  "LastChanged_Achievements": "2023-09-01T23:05:17.3466619+00:00",
+  "LastChanged_Achievements": "2023-09-02T00:04:25.2026507+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:11.0440218+00:00",
-  "LastUpdate_Ratings": "2023-09-01T22:58:10.6488746+00:00",
-  "LastUpdate_Achievements": "2023-09-01T23:05:17.3468741+00:00"
+  "LastUpdate_Ratings": "2023-09-01T23:57:51.2917744+00:00",
+  "LastUpdate_Achievements": "2023-09-02T00:04:25.2027644+00:00"
 }

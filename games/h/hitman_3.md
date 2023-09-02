@@ -6,22 +6,22 @@ Number of Ratings: 21,082  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~611,007 |
-| Death From Above | 46.00% | ~611,007 |
-| Master of the Household | 38.00% | ~504,745 |
-| Death of the Party | 36.00% | ~478,179 |
-| NEXUS-47 | 33.00% | ~438,331 |
-| The Last Tango | 31.00% | ~411,766 |
-| Nightmare Fuel | 30.00% | ~398,483 |
-| The Result of Previous Training | 28.00% | ~371,917 |
-| Tools of the Trade | 28.00% | ~371,917 |
-| Cleared for Field Duty | 27.00% | ~358,635 |
-| Seizing the Opportunity | 26.00% | ~345,352 |
-| Bullet Train | 21.00% | ~278,938 |
-| Stylish Assassin | 20.00% | ~265,655 |
+| Unseen Assassin | 46.00% | ~611,009 |
+| Death From Above | 46.00% | ~611,009 |
+| Master of the Household | 38.00% | ~504,747 |
+| Death of the Party | 36.00% | ~478,181 |
+| NEXUS-47 | 33.00% | ~438,333 |
+| The Last Tango | 31.00% | ~411,767 |
+| Nightmare Fuel | 30.00% | ~398,484 |
+| The Result of Previous Training | 28.00% | ~371,919 |
+| Tools of the Trade | 28.00% | ~371,919 |
+| Cleared for Field Duty | 27.00% | ~358,636 |
+| Seizing the Opportunity | 26.00% | ~345,353 |
+| Bullet Train | 21.00% | ~278,939 |
+| Stylish Assassin | 20.00% | ~265,656 |
 | Silent Assassin | 14.00% | ~185,959 |
-| Rise Up | 13.00% | ~172,676 |
-| Evil Wine Club | 11.00% | ~146,110 |
+| Rise Up | 13.00% | ~172,677 |
+| Evil Wine Club | 11.00% | ~146,111 |
 | Console Cowboy | 10.00% | ~132,828 |
 | Last Stop | 10.00% | ~132,828 |
 | A New Profile | 9.00% | ~119,545 |
@@ -29,7 +29,7 @@ Number of Ratings: 21,082  (23.09.2022)
 | Dune Raider | 8.00% | ~106,262 |
 | No Stone Unturned | 8.00% | ~106,262 |
 | Train Surfing | 8.00% | ~106,262 |
-| Icebreaker | 7.00% | ~92,979 |
+| Icebreaker | 7.00% | ~92,980 |
 | Family Feud | 6.00% | ~79,697 |
 | Rich Harvest | 6.00% | ~79,697 |
 | Count Down From 47 | 6.00% | ~79,697 |
@@ -54,7 +54,7 @@ Number of Ratings: 21,082  (23.09.2022)
 | Ripe for the Picking | 1.00% | ~13,283 |
 | The Creative Assassin | 0.70% | ~9,298 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,328,276 (Ranked 9)  
+Progressed: 1,328,281 (Ranked 9)  
 Completed: 2,133 (0.16%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,10 +189,11 @@ Completed: 2,133 (0.16%) (Ranked 201)
 | 2023-08-30 | 1,327,494 | 2,130 |
 | 2023-08-31 | 1,327,892 | 2,132 |
 | 2023-09-01 | 1,328,276 | 2,133 |
+| 2023-09-02 | 1,328,281 | 2,133 |
 ## Awards
-Max (Diverse Characters): 9,875  (Ranked 38)  
+Max (Diverse Characters): 9,875  (Ranked 39)  
 Sum: 70,343 (Ranked 21)  
-Diff (max vs sum): 17  
+Diff (max vs sum): 18  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 9,875 |
