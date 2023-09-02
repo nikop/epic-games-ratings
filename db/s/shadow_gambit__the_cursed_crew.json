@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 576,
+  "EOS_Progressed": 577,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.91,
   "EosHistory": [
@@ -1336,6 +1336,11 @@
       "Time": "2023-09-02T11:07:58.2762247+00:00",
       "NumProgressed": 576,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-02T15:06:00.7401255+00:00",
+      "NumProgressed": 577,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1372,7 +1377,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "_05_FinishAct2",
@@ -1386,9 +1391,9 @@
       "ID": "_06_FinishFirstMirrorQuest",
       "SetID": "8a1io5d",
       "Name": "Mirror Mirror on the Wall",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 138
     },
     {
       "ID": "_07_FinishAct3",
@@ -1412,7 +1417,7 @@
       "Name": "Powder Monkey",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "_10_Completion_30",
@@ -1428,7 +1433,7 @@
       "Name": "Seadog",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "_12_Completion_50",
@@ -1476,7 +1481,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -1555,14 +1560,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 576,
+      "Progressed": 577,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-09-02T14:05:34.6361407+00:00",
+  "LastChanged_Achievements": "2023-09-02T15:06:00.7401251+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:46.0913582+00:00",
-  "LastUpdate_Ratings": "2023-09-02T13:57:51.5591206+00:00",
-  "LastUpdate_Achievements": "2023-09-02T14:05:34.6361616+00:00"
+  "LastUpdate_Ratings": "2023-09-02T14:58:01.2990111+00:00",
+  "LastUpdate_Achievements": "2023-09-02T15:06:00.7401511+00:00"
 }

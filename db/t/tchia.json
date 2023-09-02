@@ -218,9 +218,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7422,
+  "EOS_Progressed": 7423,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -6683,6 +6683,11 @@
       "Time": "2023-09-02T12:03:54.9861739+00:00",
       "NumProgressed": 7422,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-09-02T15:03:43.2440436+00:00",
+      "NumProgressed": 7423,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 21,
@@ -6718,7 +6723,7 @@
       "Name": "Body and Soul",
       "Percentage": 11,
       "XP": 80,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -6766,7 +6771,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -6804,9 +6809,9 @@
       "ID": "LIBERATOR",
       "SetID": "3cck1g6",
       "Name": "Liberator",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 371
+      "UsersEstimate": 297
     },
     {
       "ID": "LIVE_WIRE",
@@ -6861,7 +6866,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7422,
+      "Progressed": 7423,
       "Completed": 32
     }
   ],
@@ -6869,8 +6874,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-08-26T01:39:24.8497831+00:00",
-  "LastChanged_Achievements": "2023-09-02T14:03:18.8979687+00:00",
+  "LastChanged_Achievements": "2023-09-02T15:03:43.2440432+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:14.1887687+00:00",
-  "LastUpdate_Ratings": "2023-09-02T13:57:29.8005193+00:00",
-  "LastUpdate_Achievements": "2023-09-02T14:03:18.8980117+00:00"
+  "LastUpdate_Ratings": "2023-09-02T14:57:38.5019439+00:00",
+  "LastUpdate_Achievements": "2023-09-02T15:03:43.244099+00:00"
 }

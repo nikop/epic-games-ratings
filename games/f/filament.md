@@ -5,9 +5,9 @@ Rating: 4.32 (Ranked 781)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Boarded! | 94.00% | ~188,526 |
-| Snooper. | 10.00% | ~20,056 |
-| You have to start somewhere, right? | 7.00% | ~14,039 |
+| Boarded! | 94.00% | ~188,532 |
+| Snooper. | 10.00% | ~20,057 |
+| You have to start somewhere, right? | 7.00% | ~14,040 |
 | So you're saying I don't touch these ones? | 6.00% | ~12,034 |
 | Corrupted. | 5.00% | ~10,028 |
 | Good things come in pairs... Coloured Pairs. | 5.00% | ~10,028 |
@@ -25,8 +25,8 @@ Rating: 4.32 (Ranked 781)
 | They're like really flat pillars. | 2.00% | ~4,011 |
 | That's a wrap. | 2.00% | ~4,011 |
 | In balance. | 2.00% | ~4,011 |
-| Cockpit | 0.80% | ~1,604 |
-| Witness it. | 0.80% | ~1,604 |
+| Cockpit | 0.80% | ~1,605 |
+| Witness it. | 0.80% | ~1,605 |
 | Bridge crossed. | 0.70% | ~1,404 |
 | Names to faces. | 0.70% | ~1,404 |
 | A full deck. | 0.60% | ~1,203 |
@@ -35,8 +35,8 @@ Rating: 4.32 (Ranked 781)
 | Corrupted + | 0.40% | ~802 |
 | Snooper + | 0.40% | ~802 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 200,560 (Ranked 60)  
-Completed: 492 (0.25%) (Ranked 187)  
+Progressed: 200,566 (Ranked 60)  
+Completed: 492 (0.25%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -170,7 +170,7 @@ Completed: 492 (0.25%) (Ranked 187)
 | 2023-08-30 | 200,395 | 491 |
 | 2023-08-31 | 200,442 | 492 |
 | 2023-09-01 | 200,518 | 492 |
-| 2023-09-02 | 200,560 | 492 |
+| 2023-09-02 | 200,566 | 492 |
 ## Awards
 Max (Challenging Puzzles): 561  (Ranked 192)  
 Sum: 675 (Ranked 283)  

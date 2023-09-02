@@ -3,8 +3,8 @@
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
   "Ranking_Rating": 430,
-  "Ranking_Popularity": 279,
-  "Ranking_PopularitySum": 360,
+  "Ranking_Popularity": 278,
+  "Ranking_PopularitySum": 359,
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 26,
@@ -742,18 +742,24 @@
       "Rating": 4.58,
       "NumberOfAwards": 234,
       "NumberOfAwardsMax": 185
+    },
+    {
+      "Time": "2023-09-02T14:58:06.8482174+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 238,
+      "NumberOfAwardsMax": 189
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 234,
-  "NumberOfAwardsMax": 185,
+  "NumberOfAwards": 238,
+  "NumberOfAwardsMax": 189,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 185
+      "Count": 189
     },
     {
       "Text": "This game is Relaxing",
@@ -768,9 +774,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 220365,
+  "EOS_Progressed": 220389,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2889,
+  "EOS_NewPlayers": 2854,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9273,6 +9279,11 @@
       "Time": "2023-09-02T14:04:17.1310199+00:00",
       "NumProgressed": 220365,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-02T15:04:42.1158531+00:00",
+      "NumProgressed": 220389,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -9332,7 +9343,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6611
+      "UsersEstimate": 6612
     },
     {
       "ID": "Chapter2",
@@ -9340,7 +9351,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4407
+      "UsersEstimate": 4408
     },
     {
       "ID": "Chapter3",
@@ -9380,7 +9391,7 @@
       "Name": "Urik\u0027s Depths",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1983
+      "UsersEstimate": 1984
     },
     {
       "ID": "Chapter8",
@@ -9388,7 +9399,7 @@
       "Name": "The Dungeon Master",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1983
+      "UsersEstimate": 1984
     },
     {
       "ID": "Chapter9",
@@ -9396,7 +9407,7 @@
       "Name": "The Statuette of Gladeulfeurah",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1983
+      "UsersEstimate": 1984
     },
     {
       "ID": "CollateralVictim",
@@ -9668,7 +9679,7 @@
       "Name": "A tale of adventurers not quite like the others...",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1983
+      "UsersEstimate": 1984
     },
     {
       "ID": "Dwarf30Insult",
@@ -9684,7 +9695,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6611
+      "UsersEstimate": 6612
     },
     {
       "ID": "DwarfElf15Support",
@@ -9716,7 +9727,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4407
+      "UsersEstimate": 4408
     },
     {
       "ID": "ElfEpic",
@@ -9732,7 +9743,7 @@
       "Name": "Sowwy!",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 59499
+      "UsersEstimate": 59505
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -9748,7 +9759,7 @@
       "Name": "GG EZ",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4407
+      "UsersEstimate": 4408
     },
     {
       "ID": "EndCombatOneHp",
@@ -9756,7 +9767,7 @@
       "Name": "DM intervention",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4407
+      "UsersEstimate": 4408
     },
     {
       "ID": "EndGameCursed",
@@ -9780,7 +9791,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8815
+      "UsersEstimate": 8816
     },
     {
       "ID": "FollowBraztok",
@@ -9834,9 +9845,9 @@
       "ID": "OgreEpic",
       "SetID": "50chcgj",
       "Name": "Gargantua",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 881
+      "UsersEstimate": 1102
     },
     {
       "ID": "Orktobearfest",
@@ -9868,7 +9879,7 @@
       "Name": "In Navalu\u0027s footsteps",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 881
+      "UsersEstimate": 882
     },
     {
       "ID": "QuestEmile",
@@ -9916,15 +9927,15 @@
       "Name": "I am the night",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1983
+      "UsersEstimate": 1984
     },
     {
       "ID": "RogueEpic",
       "SetID": "50chcgj",
       "Name": "Thieves\u0027 Guild Accreditation",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1543
+      "UsersEstimate": 1763
     },
     {
       "ID": "Speedrun",
@@ -9932,7 +9943,7 @@
       "Name": "Speedrun",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4407
+      "UsersEstimate": 4408
     },
     {
       "ID": "SupportCount4",
@@ -9980,28 +9991,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4407
+      "UsersEstimate": 4408
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 220365,
+      "Progressed": 220389,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 220365,
+      "Progressed": 220389,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2023-09-01T22:58:02.5589257+00:00",
-  "LastChanged_Achievements": "2023-09-02T14:04:17.1310189+00:00",
+  "LastChanged": "2023-09-02T14:58:06.8482172+00:00",
+  "LastChanged_Achievements": "2023-09-02T15:04:42.1158526+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:55.2312629+00:00",
-  "LastUpdate_Ratings": "2023-09-02T13:57:58.9254328+00:00",
-  "LastUpdate_Achievements": "2023-09-02T14:04:17.1311407+00:00"
+  "LastUpdate_Ratings": "2023-09-02T14:58:06.8482178+00:00",
+  "LastUpdate_Achievements": "2023-09-02T15:04:42.1160132+00:00"
 }

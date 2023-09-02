@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 515,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -238,7 +238,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17821,
+  "EOS_Progressed": 17822,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
@@ -9593,6 +9593,11 @@
       "Time": "2023-09-02T13:04:46.8873206+00:00",
       "NumProgressed": 17821,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-02T15:03:09.8092098+00:00",
+      "NumProgressed": 17822,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -9692,7 +9697,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2851
+      "UsersEstimate": 2852
     },
     {
       "ID": "0013",
@@ -9708,7 +9713,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2851
+      "UsersEstimate": 2852
     },
     {
       "ID": "0015",
@@ -9891,7 +9896,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17821,
+      "Progressed": 17822,
       "Completed": 1
     }
   ],
@@ -9899,8 +9904,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-31T05:58:36.9186567+00:00",
-  "LastChanged_Achievements": "2023-09-02T13:04:46.88732+00:00",
+  "LastChanged_Achievements": "2023-09-02T15:03:09.8092094+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:19.1789564+00:00",
-  "LastUpdate_Ratings": "2023-09-02T13:59:13.627284+00:00",
-  "LastUpdate_Achievements": "2023-09-02T13:04:46.8873851+00:00"
+  "LastUpdate_Ratings": "2023-09-02T14:59:20.6529406+00:00",
+  "LastUpdate_Achievements": "2023-09-02T15:03:09.8093578+00:00"
 }

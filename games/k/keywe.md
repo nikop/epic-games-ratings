@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're Hired | 88.00% | ~14 |
+| You're Hired | 94.00% | ~15 |
 | Working for the Kiweekend | 75.00% | ~12 |
 | Learn the Ropes | 69.00% | ~11 |
 | A Startling Discovery | 56.00% | ~9 |

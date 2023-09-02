@@ -2,9 +2,9 @@
   "ID": "0eb6d6e85bfe442b87cb1172415d35fb",
   "Name": "Airport CEO",
   "ProductSlug": "airport-ceo-442ecc",
-  "Ranking_EOS_Progress": 473,
+  "Ranking_EOS_Progress": 469,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-09-01T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6,
+  "EOS_Progressed": 7,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -56,6 +56,11 @@
       "Time": "2023-09-02T00:04:21.7347067+00:00",
       "NumProgressed": 6,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-02T15:05:03.6009931+00:00",
+      "NumProgressed": 7,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-30T08:04:15.025911+00:00",
@@ -74,7 +79,7 @@
       "ID": "AndIWouldFly500Miles",
       "SetID": "d11cl5p",
       "Name": "And I would fly 500 miles",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -114,7 +119,7 @@
       "ID": "FiveThousand",
       "SetID": "d11cl5p",
       "Name": "0.005 million",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -202,7 +207,7 @@
       "ID": "Over9000",
       "SetID": "d11cl5p",
       "Name": "Over 9000!!!",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 75,
       "UsersEstimate": 1
     },
@@ -250,7 +255,7 @@
       "ID": "SmallAirfield",
       "SetID": "d11cl5p",
       "Name": "Small airfield",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -266,7 +271,7 @@
       "ID": "TakingOff",
       "SetID": "d11cl5p",
       "Name": "Taking off",
-      "Percentage": 50,
+      "Percentage": 43,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -339,14 +344,14 @@
     {
       "ID": "d11cl5p",
       "IsBase": true,
-      "Progressed": 6,
+      "Progressed": 7,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-02T13:02:28.4911547+00:00",
   "FirstSeenAchievements": "2023-07-27T10:02:52.8790419+00:00",
-  "LastChanged_Achievements": "2023-09-02T14:04:38.2774104+00:00",
+  "LastChanged_Achievements": "2023-09-02T15:05:03.6009927+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:06.4077778+00:00",
-  "LastUpdate_Ratings": "2023-09-02T14:00:12.1393592+00:00",
-  "LastUpdate_Achievements": "2023-09-02T14:04:38.277432+00:00"
+  "LastUpdate_Ratings": "2023-09-02T15:00:17.7635787+00:00",
+  "LastUpdate_Achievements": "2023-09-02T15:05:03.6010168+00:00"
 }

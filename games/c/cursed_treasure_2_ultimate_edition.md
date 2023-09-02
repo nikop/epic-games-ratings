@@ -51,10 +51,10 @@
 | Starry: Wasteland | 28.00% | ~46 |
 | Deadman's Chest | 27.00% | ~45 |
 | Monument Keeper | 27.00% | ~45 |
-| Brilliant: Free Coast | 25.00% | ~42 |
+| Brilliant: Free Coast | 26.00% | ~43 |
 | Brilliant: The Deep | 23.00% | ~38 |
 | Starry: Free Coast | 23.00% | ~38 |
-| Starry: The Deep | 21.00% | ~35 |
+| Starry: The Deep | 22.00% | ~37 |
 | Hostile Waters | 17.00% | ~28 |
 | Loveless | 17.00% | ~28 |
 ## Popularity (Based on EOS Achievements)

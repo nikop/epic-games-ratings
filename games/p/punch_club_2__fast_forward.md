@@ -10,11 +10,11 @@
 | First winning | 84.00% | ~255 |
 | Your first job | 83.00% | ~251 |
 | Old movies enjoyer | 80.00% | ~242 |
-| Fitness professional | 78.00% | ~236 |
+| Fitness professional | 79.00% | ~239 |
 | Depressed visitor | 78.00% | ~236 |
 | Neurotrainer – power gainer! | 77.00% | ~233 |
 | Employee of the week | 77.00% | ~233 |
-| Your own amateur gym | 74.00% | ~224 |
+| Your own amateur gym | 75.00% | ~227 |
 | First defeat | 73.00% | ~221 |
 | Run K, run! | 72.00% | ~218 |
 | Fighting is cool | 69.00% | ~209 |
@@ -25,8 +25,8 @@
 | Spirit of the past | 63.00% | ~191 |
 | Law student | 62.00% | ~188 |
 | Workout professional | 61.00% | ~185 |
+| Handyman | 60.00% | ~182 |
 | Champion – starter pack | 60.00% | ~182 |
-| Handyman | 59.00% | ~179 |
 | It's good to be alive | 59.00% | ~179 |
 | Own four walls | 59.00% | ~179 |
 | Employee of the year | 59.00% | ~179 |
@@ -42,9 +42,9 @@
 | Mysterious voice | 45.00% | ~136 |
 | No blades in the gym | 44.00% | ~133 |
 | Champion – no way back | 41.00% | ~124 |
+| Underground dwellers | 40.00% | ~121 |
 | Responsible approach | 40.00% | ~121 |
 | Deal with life | 39.00% | ~118 |
-| Underground dwellers | 39.00% | ~118 |
 | Mom got better | 38.00% | ~115 |
 | Poisoned fighter | 38.00% | ~115 |
 | Get out of my apartment! | 38.00% | ~115 |
@@ -56,9 +56,9 @@
 | Undercover robot | 34.00% | ~103 |
 | Problems of cyborgs | 33.00% | ~100 |
 | Absolute Champion! | 32.00% | ~97 |
+| Anyone can resist | 32.00% | ~97 |
 | Not little hacker | 31.00% | ~94 |
 | Careerist | 31.00% | ~94 |
-| Anyone can resist | 31.00% | ~94 |
 | Trap disarmed | 30.00% | ~91 |
 | The lonesome road | 30.00% | ~91 |
 | Keep nature safe | 30.00% | ~91 |

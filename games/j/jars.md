@@ -13,7 +13,7 @@
 | Sticky fingers | 45.00% | ~30 |
 | A horrible thing will happen... | 43.00% | ~29 |
 | Vampires | 34.00% | ~23 |
-| Bloody stream | 31.00% | ~21 |
+| Bloody stream | 33.00% | ~22 |
 | Fangs | 22.00% | ~15 |
 | Mirrors | 13.00% | ~9 |
 | Coat | 9.00% | ~6 |

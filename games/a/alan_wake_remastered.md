@@ -1,28 +1,28 @@
 # Alan Wake Remastered
 [Store](https://store.epicgames.com/en-US/p/alan-wake-remastered)  
 [View Rawdata](../../db/a/alan_wake_remastered.json)  
-Rating: 4.55 (Ranked 490)  
+Rating: 4.55 (Ranked 491)  
 Number of Ratings: 524  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 38.00% | ~23,623 |
-| Let There Be Light | 31.00% | ~19,271 |
+| Follow the Light | 38.00% | ~23,624 |
+| Let There Be Light | 31.00% | ~19,272 |
 | Float Like a Butterfly | 30.00% | ~18,650 |
 | Nordic Walking | 24.00% | ~14,920 |
 | Bright Falls' Finest | 24.00% | ~14,920 |
 | Under a Thin Layer of Skin | 21.00% | ~13,055 |
-| Park Ranger | 17.00% | ~10,568 |
-| Paging Mr. Wake | 17.00% | ~10,568 |
-| Back! Back, I Say! | 16.00% | ~9,946 |
-| Finders Keepers | 16.00% | ~9,946 |
+| Park Ranger | 17.00% | ~10,569 |
+| Paging Mr. Wake | 17.00% | ~10,569 |
+| Back! Back, I Say! | 16.00% | ~9,947 |
+| Finders Keepers | 16.00% | ~9,947 |
 | Sound and Fury | 15.00% | ~9,325 |
 | Damn Good Cup of Coffee | 15.00% | ~9,325 |
-| Wheels Within Wheels | 14.00% | ~8,703 |
-| They're Heeeeeere! | 14.00% | ~8,703 |
-| Missed by a Mile | 14.00% | ~8,703 |
-| The Six-Gun Scribe | 13.00% | ~8,081 |
-| Collateral Carnage | 13.00% | ~8,081 |
+| Wheels Within Wheels | 14.00% | ~8,704 |
+| They're Heeeeeere! | 14.00% | ~8,704 |
+| Missed by a Mile | 14.00% | ~8,704 |
+| The Six-Gun Scribe | 13.00% | ~8,082 |
+| Collateral Carnage | 13.00% | ~8,082 |
 | Heavy Metal | 12.00% | ~7,460 |
 | Iron Horse | 12.00% | ~7,460 |
 | Perchance to Dream | 12.00% | ~7,460 |
@@ -31,8 +31,8 @@ Number of Ratings: 524  (23.09.2022)
 | It's Not Just a Typewriter Brand | 11.00% | ~6,838 |
 | Thunder and Lightning | 11.00% | ~6,838 |
 | Two For the Price of One | 11.00% | ~6,838 |
-| The Lady of the Light | 10.00% | ~6,216 |
-| Energized! | 10.00% | ~6,216 |
+| The Lady of the Light | 10.00% | ~6,217 |
+| Energized! | 10.00% | ~6,217 |
 | What Light Through Yonder Window | 9.00% | ~5,595 |
 | Right of Way | 9.00% | ~5,595 |
 | Tornado Wrangler | 8.00% | ~4,973 |
@@ -62,9 +62,9 @@ Number of Ratings: 524  (23.09.2022)
 | Run-On Sentence | 0.40% | ~103 |
 | License Revoked | 0.40% | ~103 |
 | Whirlwind | 0.40% | ~103 |
-| Alan, Wake Up | 0.30% | ~186 |
-| Meet the Deadline | 0.30% | ~186 |
-| Picking Up After Yourself | 0.30% | ~186 |
+| Alan, Wake Up | 0.30% | ~187 |
+| Meet the Deadline | 0.30% | ~187 |
+| Picking Up After Yourself | 0.30% | ~187 |
 | Tick Tock | 0.30% | ~77 |
 | Gunless Wonder | 0.20% | ~124 |
 | Every Nook and Cranny | 0.20% | ~124 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~62 |
 | No Punctuation | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,165 (Ranked 87)  
+Progressed: 62,168 (Ranked 87)  
 Completed: 65 (0.10%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 65 (0.10%) (Ranked 218)
 | 2023-08-30 | 62,006 | 65 |
 | 2023-08-31 | 62,064 | 65 |
 | 2023-09-01 | 62,124 | 65 |
-| 2023-09-02 | 62,165 | 65 |
+| 2023-09-02 | 62,168 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

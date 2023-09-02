@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 327,
+  "EOS_Progressed": 328,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -992,6 +992,11 @@
       "Time": "2023-09-02T03:05:33.0106666+00:00",
       "NumProgressed": 327,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-02T15:04:57.3566961+00:00",
+      "NumProgressed": 328,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -1147,7 +1152,7 @@
       "Name": "I like books",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "CULTURE_2",
@@ -1219,7 +1224,7 @@
       "Name": "The spiritual world...",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "FAITH_2",
@@ -1275,7 +1280,7 @@
       "Name": "I like my life",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "FELIZ_2",
@@ -1387,7 +1392,7 @@
       "Name": "It is nice to share with friends in the city",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "NIGHT_LIFE_2",
@@ -1634,7 +1639,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 327,
+      "Progressed": 328,
       "Completed": 0
     }
   ],
@@ -1642,8 +1647,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-09-02T14:04:32.0572194+00:00",
+  "LastChanged_Achievements": "2023-09-02T15:04:57.3566955+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:31.8209196+00:00",
-  "LastUpdate_Ratings": "2023-09-02T13:58:24.178356+00:00",
-  "LastUpdate_Achievements": "2023-09-02T14:04:32.0572917+00:00"
+  "LastUpdate_Ratings": "2023-09-02T14:58:31.8525298+00:00",
+  "LastUpdate_Achievements": "2023-09-02T15:04:57.3567894+00:00"
 }

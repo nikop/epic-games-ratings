@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Little ideas | 50.00% | ~3 |
-| Marc Allard | 50.00% | ~3 |
-| The Ship | 33.00% | ~2 |
-| Seeking the truth | 33.00% | ~2 |
-| An old friend | 33.00% | ~2 |
-| A curious gathering | 33.00% | ~2 |
-| Little grey cells | 17.00% | ~1 |
-| Everything matters | 17.00% | ~1 |
-| The Gala | 17.00% | ~1 |
-| Impossible is possible | 17.00% | ~1 |
-| Arthur Hastings | 17.00% | ~1 |
+| Little ideas | 57.00% | ~4 |
+| The Ship | 43.00% | ~3 |
+| An old friend | 43.00% | ~3 |
+| A curious gathering | 43.00% | ~3 |
+| Marc Allard | 43.00% | ~3 |
+| Seeking the truth | 29.00% | ~2 |
+| The Gala | 29.00% | ~2 |
+| Little grey cells | 14.00% | ~1 |
+| Everything matters | 14.00% | ~1 |
+| Impossible is possible | 14.00% | ~1 |
+| Arthur Hastings | 14.00% | ~1 |
 | The Denouement | 0.00% | ~0 |
 | Well-travelled | 0.00% | ~0 |
 | Well-acquainted | 0.00% | ~0 |
@@ -51,7 +51,7 @@
 | The Secrets | 0.00% | ~0 |
 | The Investigation Starts Anew | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6 (Ranked 473)  
+Progressed: 7 (Ranked 469)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,3 +59,4 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-08-28 | 1 | 0 |
 | 2023-08-29 | 5 | 0 |
 | 2023-09-01 | 6 | 0 |
+| 2023-09-02 | 7 | 0 |

@@ -26,6 +26,7 @@
 | Deputized | 4.00% | ~5 |
 | Harbinger | 4.00% | ~5 |
 | Been There | 4.00% | ~5 |
+| A Terrible Will | 4.00% | ~5 |
 | Spiritual Journey | 4.00% | ~5 |
 | Pilgrimage's End | 4.00% | ~5 |
 | Inquisitions of Discord | 4.00% | ~5 |
@@ -34,7 +35,6 @@
 | Xevarian Gambit | 3.00% | ~4 |
 | The Voice of Hereafter | 3.00% | ~4 |
 | Despised | 3.00% | ~4 |
-| A Terrible Will | 3.00% | ~4 |
 | Trouble at Fort Larius | 3.00% | ~4 |
 | Unseen Patterns | 3.00% | ~4 |
 | Delayed | 2.00% | ~3 |
