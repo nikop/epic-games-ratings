@@ -32,7 +32,7 @@
 | 30 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 9.09% |
 | 30 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
 | 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.98% |
-| 33 | [Sonic Origins](games/s/sonic_origins.md) | 8.97% |
+| 33 | [Sonic Origins](games/s/sonic_origins.md) | 8.95% |
 | 34 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.89% |
 | 35 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.61% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.73% |
@@ -126,8 +126,8 @@
 | 124 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.99% |
 | 124 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.99% |
 | 126 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.95% |
-| 127 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.91% |
-| 128 | [Hades](games/h/hades.md) | 0.90% |
+| 127 | [Hades](games/h/hades.md) | 0.90% |
+| 127 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.90% |
 | 129 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 130 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
 | 131 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.81% |
@@ -178,8 +178,8 @@
 | 176 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.33% |
 | 177 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 177 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
-| 177 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.31% |
 | 177 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
+| 180 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.30% |
 | 181 | [Against the Storm](games/a/against_the_storm.md) | 0.29% |
 | 181 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
 | 181 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
@@ -569,4 +569,4 @@
 | 271 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 271 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 271 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,161 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,162 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
