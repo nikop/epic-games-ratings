@@ -44,7 +44,7 @@
 | 42 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 8,065 | 4.89 | 13 |
 | 43 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 7,895 | 4.48 | 600 |
 | 44 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,810 | 4.85 | 42 |
-| 45 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,740 | 4.57 | 453 |
+| 45 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,745 | 4.57 | 453 |
 | 46 | [Supraland](games/s/supraland.md) | 7,683 | 4.61 | 368 |
 | 47 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,415 | 4.71 | 188 |
 | 48 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 7,360 | 4.68 | 240 |
@@ -85,10 +85,10 @@
 | 83 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 3,792 | 4.68 | 240 |
 | 84 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,744 | 4.28 | 813 |
 | 85 | [Paladins](games/p/paladins.md) | 3,573 | 4.34 | 764 |
-| 86 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,514 | 4.46 | 628 |
+| 86 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,517 | 4.46 | 628 |
 | 87 | [Gloomhaven](games/g/gloomhaven.md) | 3,511 | 4.47 | 615 |
 | 88 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,436 | 4.68 | 240 |
-| 89 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,342 | 4.68 | 240 |
+| 89 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,344 | 4.68 | 240 |
 | 90 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3,337 | 3.98 | 948 |
 | 91 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,316 | 4.76 | 116 |
 | 92 | [Hades](games/h/hades.md) | 3,241 | 4.92 | 4 |
@@ -290,9 +290,9 @@
 | 288 | [Mothergunship](games/m/mothergunship.md) | 172 | 4.39 | 719 |
 | 289 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 169 | 4.66 | 279 |
 | 290 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 165 | 4.51 | 547 |
+| 291 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 164 | 4.58 | 430 |
 | 291 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 164 | 4.65 | 302 |
 | 291 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 164 | 4.38 | 729 |
-| 293 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 163 | 4.58 | 430 |
 | 294 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 160 | 4.79 | 88 |
 | 295 | [Predecessor](games/p/predecessor.md) | 155 | 4.43 | 666 |
 | 296 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 153 | 4.55 | 489 |

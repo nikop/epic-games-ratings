@@ -239,7 +239,7 @@
 | 218 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 967 | 146 |
 | 218 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 0 | 515 |
 | 218 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 817 | 154 |
-| 240 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,342 | 89 |
+| 240 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,344 | 89 |
 | 240 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 3,436 | 88 |
 | 240 | [Bad North](games/b/bad_north.md) | 4.68 | 0 | 515 |
 | 240 | [BLACKTAIL](games/b/blacktail.md) | 4.68 | 0 | 515 |
@@ -431,7 +431,7 @@
 | 416 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 710 | 167 |
 | 430 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.58 | 0 | 515 |
 | 430 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 60,617 | 11 |
-| 430 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 163 | 293 |
+| 430 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 164 | 291 |
 | 430 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 0 | 515 |
 | 430 | [Deceive Inc.](games/d/deceive_inc..md) | 4.58 | 0 | 515 |
 | 430 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 8,969 | 40 |
@@ -461,7 +461,7 @@
 | 453 | [Hob](games/h/hob.md) | 4.57 | 0 | 515 |
 | 453 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 38 | 428 |
 | 453 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.57 | 0 | 515 |
-| 453 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,740 | 45 |
+| 453 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,745 | 45 |
 | 453 | [Observation](games/o/observation.md) | 4.57 | 0 | 515 |
 | 453 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,234 | 93 |
 | 453 | [Risen](games/r/risen.md) | 4.57 | 0 | 515 |
@@ -628,7 +628,7 @@
 | 615 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.47 | 0 | 515 |
 | 615 | [The Escapists](games/t/the_escapists.md) | 4.47 | 0 | 515 |
 | 628 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.46 | 0 | 515 |
-| 628 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,514 | 86 |
+| 628 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,517 | 86 |
 | 628 | [Chorus](games/c/chorus.md) | 4.46 | 32 | 456 |
 | 628 | [Figment](games/f/figment.md) | 4.46 | 20 | 510 |
 | 628 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 0 | 515 |

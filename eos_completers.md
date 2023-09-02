@@ -75,8 +75,8 @@
 | 73 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 2.96% |
 | 74 | [Monster Harvest](games/m/monster_harvest.md) | 2.93% |
 | 74 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 76 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.86% |
-| 77 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.80% |
+| 76 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.80% |
+| 77 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.78% |
 | 78 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.74% |
 | 79 | [Destiny 2](games/d/destiny_2.md) | 2.73% |
 | 79 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
@@ -101,9 +101,9 @@
 | 99 | [Frogun](games/f/frogun.md) | 1.80% |
 | 100 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.79% |
 | 101 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.75% |
-| 102 | [Somerville](games/s/somerville.md) | 1.66% |
-| 103 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.64% |
-| 104 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 1.57% |
+| 101 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 1.75% |
+| 103 | [Somerville](games/s/somerville.md) | 1.66% |
+| 104 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.64% |
 | 105 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.56% |
 | 105 | [Iron Danger](games/i/iron_danger.md) | 1.56% |
 | 107 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.55% |
