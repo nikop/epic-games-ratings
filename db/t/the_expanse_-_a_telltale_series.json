@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 515,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 66,
+  "Ranking_EOS_NewPlayers": 65,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -46,9 +46,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9815,
+  "EOS_Progressed": 9820,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 711,
+  "EOS_NewPlayers": 713,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3991,6 +3991,11 @@
       "Time": "2023-09-02T04:03:58.9815976+00:00",
       "NumProgressed": 9815,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-02T05:04:50.1832906+00:00",
+      "NumProgressed": 9820,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -4043,7 +4048,7 @@
       "Name": "Doctor Approved",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1767
+      "UsersEstimate": 1768
     },
     {
       "ID": "15",
@@ -4051,7 +4056,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 2257
+      "UsersEstimate": 2259
     },
     {
       "ID": "16",
@@ -4067,7 +4072,7 @@
       "Name": "Spore Taste",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1865
+      "UsersEstimate": 1866
     },
     {
       "ID": "18",
@@ -4075,7 +4080,7 @@
       "Name": "Bottoms up!",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "19",
@@ -4083,7 +4088,7 @@
       "Name": "Martian Music",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1865
+      "UsersEstimate": 1866
     },
     {
       "ID": "2",
@@ -4179,7 +4184,7 @@
       "Name": "Captain Drummer",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1963
+      "UsersEstimate": 1964
     },
     {
       "ID": "30",
@@ -4235,14 +4240,14 @@
       "Name": "Impossible Objects",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2454
+      "UsersEstimate": 2455
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 9815,
+      "Progressed": 9820,
       "Completed": 0
     }
   ],
@@ -4250,8 +4255,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-08-31T16:58:15.58955+00:00",
-  "LastChanged_Achievements": "2023-09-02T04:03:58.981597+00:00",
+  "LastChanged_Achievements": "2023-09-02T05:04:50.18329+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:57:45.4170889+00:00",
-  "LastUpdate_Ratings": "2023-09-02T03:58:37.4497865+00:00",
-  "LastUpdate_Achievements": "2023-09-02T04:03:58.9816436+00:00"
+  "LastUpdate_Ratings": "2023-09-02T04:59:18.2145597+00:00",
+  "LastUpdate_Achievements": "2023-09-02T05:04:50.183339+00:00"
 }

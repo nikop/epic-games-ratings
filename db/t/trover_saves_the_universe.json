@@ -4,7 +4,7 @@
   "ProductSlug": "trover-saves-the-universe",
   "Ranking_EOS_Progress": 571,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2019-06-04T15:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:55.863488+00:00",
   "LastChanged": "2023-03-31T05:57:55.8634881+00:00",
   "LastUpdate_AppInfo": "2023-08-26T09:57:48.3534464+00:00",
-  "LastUpdate_Ratings": "2023-09-02T03:59:35.9625099+00:00",
-  "LastUpdate_Achievements": "2023-09-02T04:06:07.3297894+00:00"
+  "LastUpdate_Ratings": "2023-09-02T05:00:30.4481312+00:00",
+  "LastUpdate_Achievements": "2023-09-02T05:07:30.0648887+00:00"
 }

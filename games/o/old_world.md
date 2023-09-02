@@ -13,6 +13,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Clergy | 4.00% | ~550 |
 | Able | 3.00% | ~412 |
 | Architect | 3.00% | ~412 |
+| Enlightened | 3.00% | ~412 |
 | Good | 3.00% | ~412 |
 | Intrepid | 3.00% | ~412 |
 | Just | 3.00% | ~412 |
@@ -28,7 +29,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Regicide | 2.00% | ~275 |
 | Ambitious | 2.00% | ~275 |
 | Brilliant | 2.00% | ~275 |
-| Enlightened | 2.00% | ~275 |
 | Fountainhead | 2.00% | ~275 |
 | Glorious | 2.00% | ~275 |
 | Great | 2.00% | ~275 |
@@ -108,6 +108,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambition Victory | 0.80% | ~110 |
 | Double Victory | 0.80% | ~110 |
 | Win a Single Player Game | 0.80% | ~110 |
+| Bad Heir Day | 0.70% | ~96 |
 | Devout | 0.70% | ~96 |
 | Landowners | 0.70% | ~96 |
 | Riders | 0.70% | ~96 |
@@ -122,7 +123,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Revelation | 0.70% | ~96 |
 | Veneration | 0.70% | ~96 |
 | Cimmerian Archer | 0.70% | ~96 |
-| Bad Heir Day | 0.60% | ~82 |
 | Ishtar Gate in Babylon | 0.60% | ~82 |
 | Strong Difficulty | 0.60% | ~82 |
 | Hunters | 0.60% | ~82 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,739 (Ranked 120)  
+Progressed: 13,740 (Ranked 120)  
 Completed: 5 (0.04%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -438,7 +438,7 @@ Completed: 5 (0.04%) (Ranked 240)
 | 2023-08-30 | 13,689 | 5 |
 | 2023-08-31 | 13,711 | 5 |
 | 2023-09-01 | 13,732 | 5 |
-| 2023-09-02 | 13,739 | 5 |
+| 2023-09-02 | 13,740 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 265)  
 Sum: 1,800 (Ranked 207)  

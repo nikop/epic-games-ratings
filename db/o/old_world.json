@@ -1653,7 +1653,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13739,
+  "EOS_Progressed": 13740,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 0,
@@ -10813,6 +10813,11 @@
       "Time": "2023-09-02T04:03:29.8462256+00:00",
       "NumProgressed": 13739,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-02T05:04:12.7366929+00:00",
+      "NumProgressed": 13740,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -10878,9 +10883,9 @@
       "ID": "ACHIEVEMENT_ASSASSINATED_BY_HEIR",
       "SetID": "9201eeb",
       "Name": "Bad Heir Day",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 82
+      "UsersEstimate": 96
     },
     {
       "ID": "ACHIEVEMENT_ASSASSINATED_HEIR",
@@ -11246,9 +11251,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_ENLIGHTENED",
       "SetID": "9201eeb",
       "Name": "Enlightened",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 275
+      "UsersEstimate": 412
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_EXPLORER",
@@ -13191,21 +13196,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13739,
+      "Progressed": 13740,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13739,
+      "Progressed": 13740,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-30T22:01:08.7702063+00:00",
-  "LastChanged_Achievements": "2023-09-02T04:03:29.8462251+00:00",
+  "LastChanged_Achievements": "2023-09-02T05:04:12.7366923+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:58:39.7773306+00:00",
-  "LastUpdate_Ratings": "2023-09-02T03:57:33.1373725+00:00",
-  "LastUpdate_Achievements": "2023-09-02T04:03:29.8471879+00:00"
+  "LastUpdate_Ratings": "2023-09-02T04:57:55.9829528+00:00",
+  "LastUpdate_Achievements": "2023-09-02T05:04:12.7377993+00:00"
 }
