@@ -16,10 +16,10 @@
 | Fight Another Day | 7.00% | ~9 |
 | Taskmaster | 7.00% | ~9 |
 | Acquaintance | 6.00% | ~8 |
+| Tail-wind | 6.00% | ~8 |
 | Conciliator | 5.00% | ~7 |
 | The More the Merrier | 5.00% | ~7 |
 | Courier | 5.00% | ~7 |
-| Tail-wind | 5.00% | ~7 |
 | Quartermaster | 4.00% | ~5 |
 | Strategist | 4.00% | ~5 |
 | Potential Unlocked | 4.00% | ~5 |

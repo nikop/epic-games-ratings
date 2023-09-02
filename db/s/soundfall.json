@@ -4,8 +4,8 @@
   "ProductSlug": "soundfall",
   "Ranking_EOS_Progress": 571,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 344,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-02T10:58:11.9484009+00:00",
-  "LastUpdate_Ratings": "2023-09-02T12:01:39.7224146+00:00",
-  "LastUpdate_Achievements": "2023-09-02T12:04:01.1755708+00:00"
+  "LastUpdate_Ratings": "2023-09-02T13:02:21.8455961+00:00",
+  "LastUpdate_Achievements": "2023-09-02T13:05:26.0120574+00:00"
 }

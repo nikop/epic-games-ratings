@@ -6,7 +6,7 @@ Number of Ratings: 74  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Small Community | 56.00% | ~3,989 |
+| A Small Community | 56.00% | ~3,990 |
 | A Grove Replanted | 53.00% | ~3,776 |
 | Fields Watered | 41.00% | ~2,921 |
 | Seekers Found | 41.00% | ~2,921 |
@@ -20,11 +20,11 @@ Number of Ratings: 74  (23.09.2022)
 | Harp Tuned | 23.00% | ~1,639 |
 | Pyre Ignited | 23.00% | ~1,639 |
 | Travelers Returned | 23.00% | ~1,639 |
-| Hopes Hoisted | 22.00% | ~1,567 |
+| Hopes Hoisted | 22.00% | ~1,568 |
 | Knowledge Shared | 20.00% | ~1,425 |
 | Relic Finder | 20.00% | ~1,425 |
 | Worthy of the Title | 19.00% | ~1,354 |
-| A Peaceful Respite | 14.00% | ~997 |
+| A Peaceful Respite | 14.00% | ~998 |
 | A Learned Scholar | 13.00% | ~926 |
 | Prophecy Fulfilled | 13.00% | ~926 |
 | A Wanderer’s Guide | 11.00% | ~784 |
@@ -34,7 +34,7 @@ Number of Ratings: 74  (23.09.2022)
 | Sparkling Alloys | 2.00% | ~142 |
 | A True Challenge | 2.00% | ~142 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,124 (Ranked 137)  
+Progressed: 7,125 (Ranked 137)  
 Completed: 53 (0.74%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,6 +168,7 @@ Completed: 53 (0.74%) (Ranked 132)
 | 2023-08-30 | 7,120 | 53 |
 | 2023-08-31 | 7,123 | 53 |
 | 2023-09-01 | 7,124 | 53 |
+| 2023-09-02 | 7,125 | 53 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

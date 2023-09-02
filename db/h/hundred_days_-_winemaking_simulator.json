@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 224,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 66,
+  "Ranking_EOS_NewPlayers": 64,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
@@ -958,9 +958,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 755,
+  "EOS_Progressed": 769,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 750,
+  "EOS_NewPlayers": 764,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -1333,6 +1333,11 @@
       "Time": "2023-09-02T12:08:19.8998587+00:00",
       "NumProgressed": 755,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-02T13:09:10.7585865+00:00",
+      "NumProgressed": 769,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -1345,7 +1350,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 62
     },
     {
       "ID": "a_10",
@@ -1393,23 +1398,23 @@
       "Name": "Bye Bye",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 226
+      "UsersEstimate": 231
     },
     {
       "ID": "a_19",
       "SetID": "daiie3o",
       "Name": "Bonjour!",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 38
     },
     {
       "ID": "a_2",
       "SetID": "daiie3o",
       "Name": "Ostinata",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 23
+      "UsersEstimate": 31
     },
     {
       "ID": "a_20",
@@ -1433,7 +1438,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "a_23",
@@ -1441,7 +1446,7 @@
       "Name": "Quack",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "a_25",
@@ -1449,15 +1454,15 @@
       "Name": "Better than nothing?",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "a_26",
       "SetID": "daiie3o",
       "Name": "Exotic",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 15
     },
     {
       "ID": "a_27",
@@ -1471,9 +1476,9 @@
       "ID": "a_28",
       "SetID": "daiie3o",
       "Name": "Pastry Chef",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "a_3",
@@ -1583,16 +1588,16 @@
       "ID": "a_9",
       "SetID": "daiie3o",
       "Name": "Very Important Winemaker",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 75,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 755,
+      "Progressed": 769,
       "Completed": 2
     }
   ],
@@ -1600,8 +1605,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-02T11:57:49.7912394+00:00",
-  "LastChanged_Achievements": "2023-09-02T12:08:19.8998579+00:00",
+  "LastChanged_Achievements": "2023-09-02T13:09:10.758586+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:09.2681959+00:00",
-  "LastUpdate_Ratings": "2023-09-02T11:57:49.79124+00:00",
-  "LastUpdate_Achievements": "2023-09-02T12:08:19.8999335+00:00"
+  "LastUpdate_Ratings": "2023-09-02T12:59:13.3765408+00:00",
+  "LastUpdate_Achievements": "2023-09-02T13:09:10.7586134+00:00"
 }

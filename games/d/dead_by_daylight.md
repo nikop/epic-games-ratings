@@ -6,56 +6,57 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 1.00% | ~8,391 |
-| It wakes | 1.00% | ~8,391 |
-| Skillful | 1.00% | ~8,391 |
-| MU/TH/UR Dearest | 1.00% | ~8,391 |
-| Not half bad | 0.90% | ~7,552 |
-| Make Some Noise | 0.90% | ~7,552 |
-| Handyman | 0.80% | ~6,712 |
-| Apt Survivor | 0.80% | ~6,712 |
-| Survival Treasures | 0.80% | ~6,712 |
-| Medic | 0.70% | ~5,873 |
-| Sorted | 0.70% | ~5,873 |
-| Terror of LV-426 | 0.70% | ~5,873 |
-| The Grand Sacrifice | 0.60% | ~5,034 |
-| Backdoor Escape | 0.60% | ~5,034 |
-| No one left behind | 0.60% | ~5,034 |
-| Nerves of steel | 0.60% | ~5,034 |
-| Perfect Escape | 0.60% | ~5,034 |
-| Bloody Millionaire | 0.60% | ~5,034 |
-| I | 0.60% | ~5,034 |
-| Healthy Obsession | 0.60% | ~5,034 |
-| Resurgence | 0.60% | ~5,034 |
-| Preemptive Strike | 0.60% | ~5,034 |
-| Agonizing Escape | 0.50% | ~4,195 |
-| I've got your back | 0.50% | ~4,195 |
-| Perfect Killing | 0.50% | ~4,195 |
-| Risk it all | 0.50% | ~4,195 |
-| Engineer | 0.50% | ~4,195 |
-| Humanitarian | 0.50% | ~4,195 |
-| Apt Killer | 0.40% | ~3,356 |
-| Vulture | 0.40% | ~3,356 |
-| II | 0.40% | ~3,356 |
-| III | 0.40% | ~3,356 |
-| Wounded Healer | 0.40% | ~3,356 |
-| Close Shave | 0.40% | ~3,356 |
-| Second Act | 0.40% | ~3,356 |
-| Blood on your hands | 0.30% | ~2,517 |
-| Made it out alive! | 0.30% | ~2,517 |
-| III-50 | 0.30% | ~2,517 |
-| Item of Obsession | 0.30% | ~2,517 |
-| Cherish your Life | 0.30% | ~2,517 |
-| Unforgettable Getaway | 0.30% | ~2,517 |
-| First to the Punch | 0.30% | ~2,517 |
-| Every Last Drop | 0.30% | ~2,517 |
-| With Scars to Show | 0.30% | ~2,517 |
-| Flight to Freedom | 0.30% | ~2,517 |
-| A Fast Death | 0.30% | ~2,517 |
-| Lifting The Fog | 0.30% | ~2,517 |
-| One More Step | 0.30% | ~2,517 |
+| Zealous | 1.00% | ~8,392 |
+| It wakes | 1.00% | ~8,392 |
+| Skillful | 1.00% | ~8,392 |
+| MU/TH/UR Dearest | 1.00% | ~8,392 |
+| Not half bad | 0.90% | ~7,553 |
+| Make Some Noise | 0.90% | ~7,553 |
+| Handyman | 0.80% | ~6,714 |
+| Apt Survivor | 0.80% | ~6,714 |
+| Survival Treasures | 0.80% | ~6,714 |
+| Medic | 0.70% | ~5,875 |
+| Sorted | 0.70% | ~5,875 |
+| Terror of LV-426 | 0.70% | ~5,875 |
+| The Grand Sacrifice | 0.60% | ~5,035 |
+| Backdoor Escape | 0.60% | ~5,035 |
+| No one left behind | 0.60% | ~5,035 |
+| Nerves of steel | 0.60% | ~5,035 |
+| Perfect Escape | 0.60% | ~5,035 |
+| Bloody Millionaire | 0.60% | ~5,035 |
+| I | 0.60% | ~5,035 |
+| Healthy Obsession | 0.60% | ~5,035 |
+| Resurgence | 0.60% | ~5,035 |
+| Preemptive Strike | 0.60% | ~5,035 |
+| Agonizing Escape | 0.50% | ~4,196 |
+| I've got your back | 0.50% | ~4,196 |
+| Perfect Killing | 0.50% | ~4,196 |
+| Risk it all | 0.50% | ~4,196 |
+| Engineer | 0.50% | ~4,196 |
+| Humanitarian | 0.50% | ~4,196 |
+| Apt Killer | 0.40% | ~3,357 |
+| Vulture | 0.40% | ~3,357 |
+| II | 0.40% | ~3,357 |
+| III | 0.40% | ~3,357 |
+| Wounded Healer | 0.40% | ~3,357 |
+| Close Shave | 0.40% | ~3,357 |
+| Second Act | 0.40% | ~3,357 |
+| Blood on your hands | 0.30% | ~2,518 |
+| Made it out alive! | 0.30% | ~2,518 |
+| III-50 | 0.30% | ~2,518 |
+| Item of Obsession | 0.30% | ~2,518 |
+| Cherish your Life | 0.30% | ~2,518 |
+| Unforgettable Getaway | 0.30% | ~2,518 |
+| First to the Punch | 0.30% | ~2,518 |
+| Every Last Drop | 0.30% | ~2,518 |
+| With Scars to Show | 0.30% | ~2,518 |
+| Flight to Freedom | 0.30% | ~2,518 |
+| A Fast Death | 0.30% | ~2,518 |
+| Lifting The Fog | 0.30% | ~2,518 |
+| One More Step | 0.30% | ~2,518 |
 | A bite for the Entity | 0.20% | ~1,678 |
 | Blood on your face | 0.20% | ~1,678 |
+| Jump Scares | 0.20% | ~1,678 |
 | Escape Artist | 0.20% | ~1,678 |
 | Gifts for the Fog | 0.20% | ~1,678 |
 | Hemophobia | 0.20% | ~1,678 |
@@ -86,7 +87,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | A feast for the Entity | 0.10% | ~839 |
 | Blood in your mouth | 0.10% | ~839 |
 | Cripple them all | 0.10% | ~839 |
-| Jump Scares | 0.10% | ~839 |
 | The Grind | 0.10% | ~839 |
 | The Key to Escape | 0.10% | ~839 |
 | Adept Jake | 0.10% | ~839 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~839 |
 | Adept Ripley | 0.10% | ~839 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 839,057 (Ranked 15)  
+Progressed: 839,231 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -371,10 +371,10 @@ Completed: 48 (0.01%) (Ranked 257)
 | 2023-08-30 | 831,117 | 48 |
 | 2023-08-31 | 834,142 | 48 |
 | 2023-09-01 | 837,438 | 48 |
-| 2023-09-02 | 839,057 | 48 |
+| 2023-09-02 | 839,231 | 48 |
 ## Awards
 Max (Diverse Characters): 31,830  (Ranked 15)  
-Sum: 249,426 (Ranked 11)  
+Sum: 249,460 (Ranked 11)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
@@ -385,7 +385,7 @@ Diff (max vs sum): 4
 | This game is Extremely Fun | 27,953 |
 | This game has Quickly Understood Controls | 27,641 |
 | This game has Challenging Combat | 27,321 |
-| This game has Amazing Storytelling | 25,613 |
+| This game has Amazing Storytelling | 25,647 |
 | This game has a Competitive Community | 23,953 |
 | This game has Obsessive Gameplay | 16,768 |
 | This game is Great for Quick Sessions | 4,888 |
@@ -613,4 +613,4 @@ Diff (max vs sum): 4
 | 2023-08-30 | 4.52 | - | 31,677 | 248,552 |
 | 2023-08-31 | 4.52 | - | 31,726 | 248,913 |
 | 2023-09-01 | 4.52 | - | 31,778 | 249,224 |
-| 2023-09-02 | 4.52 | - | 31,830 | 249,426 |
+| 2023-09-02 | 4.52 | - | 31,830 | 249,460 |

@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 544,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 227,
+  "EOS_NewPlayers": 221,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -946,9 +946,9 @@
       "ID": "ABetterTomorrow",
       "SetID": "3ai6ml8",
       "Name": "A Better Tomorrow",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 228
+      "UsersEstimate": 234
     },
     {
       "ID": "BostonHayDay",
@@ -1034,9 +1034,9 @@
       "ID": "MiCasaSuCasa",
       "SetID": "3ai6ml8",
       "Name": "Mi Casa Su Casa",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 147
+      "UsersEstimate": 152
     },
     {
       "ID": "OnceMoreIntoTheBreach",
@@ -1113,8 +1113,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-09-02T12:05:55.7515582+00:00",
+  "LastChanged_Achievements": "2023-09-02T13:07:05.4287423+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:05.9137937+00:00",
-  "LastUpdate_Ratings": "2023-09-02T12:00:38.8588169+00:00",
-  "LastUpdate_Achievements": "2023-09-02T12:05:55.7515812+00:00"
+  "LastUpdate_Ratings": "2023-09-02T13:01:32.038084+00:00",
+  "LastUpdate_Achievements": "2023-09-02T13:07:05.42876+00:00"
 }

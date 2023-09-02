@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 515,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -500,9 +500,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3562,
+  "EOS_Progressed": 3563,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -6390,6 +6390,11 @@
       "Time": "2023-09-02T07:06:36.8993592+00:00",
       "NumProgressed": 3562,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-02T13:08:55.7368463+00:00",
+      "NumProgressed": 3563,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 71,
@@ -6473,7 +6478,7 @@
       "Name": "Strategist",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "REWARD_1_MEETING_RESISTANCE",
@@ -6505,7 +6510,7 @@
       "Name": "Master of Rifles",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "REWARD_23_MASTER_AT_ARMS",
@@ -6553,7 +6558,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -6649,7 +6654,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1282
+      "UsersEstimate": 1283
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -6705,7 +6710,7 @@
       "Name": "Tinkerer",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
@@ -6713,7 +6718,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1175
+      "UsersEstimate": 1176
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -6729,7 +6734,7 @@
       "Name": "Locomotion Commotion",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "REWARD_5_BUNKER_BUSTER",
@@ -6753,7 +6758,7 @@
       "Name": "Road Rage",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "REWARD_67_NO_ASSISTANCE",
@@ -6769,7 +6774,7 @@
       "Name": "Taking it back",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 997
+      "UsersEstimate": 998
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -6793,7 +6798,7 @@
       "Name": "Target America",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 890
+      "UsersEstimate": 891
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -6968,13 +6973,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3513,
+      "Progressed": 3514,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3562,
+      "Progressed": 3563,
       "Completed": 10
     }
   ],
@@ -6982,8 +6987,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-01T10:01:39.1533108+00:00",
-  "LastChanged_Achievements": "2023-09-02T12:08:02.0154941+00:00",
+  "LastChanged_Achievements": "2023-09-02T13:08:55.7368458+00:00",
   "LastUpdate_AppInfo": "2023-09-02T06:57:18.4314048+00:00",
-  "LastUpdate_Ratings": "2023-09-02T12:01:57.2045609+00:00",
-  "LastUpdate_Achievements": "2023-09-02T12:08:02.0156092+00:00"
+  "LastUpdate_Ratings": "2023-09-02T13:02:38.0777427+00:00",
+  "LastUpdate_Achievements": "2023-09-02T13:08:55.736931+00:00"
 }

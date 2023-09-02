@@ -7,13 +7,13 @@ Rating: 4.47 (Ranked 615)
 | ---- | ---------- | ----- |
 | Meeting Resistance | 46.00% | ~1,639 |
 | Confirming Suspicions | 40.00% | ~1,425 |
-| The Kraken Wakes | 36.00% | ~1,282 |
-| It's Starting to Crack | 33.00% | ~1,175 |
+| The Kraken Wakes | 36.00% | ~1,283 |
+| It's Starting to Crack | 33.00% | ~1,176 |
 | Change the Channel | 30.00% | ~1,069 |
 | Lord of War | 29.00% | ~1,033 |
-| Taking it back | 28.00% | ~997 |
+| Taking it back | 28.00% | ~998 |
 | Resourceful | 26.00% | ~926 |
-| Target America | 25.00% | ~890 |
+| Target America | 25.00% | ~891 |
 | The Kraken Sleeps | 23.00% | ~819 |
 | Organ Grinder | 22.00% | ~784 |
 | As Quiet as a Mouse | 22.00% | ~784 |
@@ -33,7 +33,7 @@ Rating: 4.47 (Ranked 615)
 | No Stone Unturned | 13.00% | ~463 |
 | Opposing Force | 13.00% | ~463 |
 | Enemy at the Gates | 13.00% | ~463 |
-| Set Europe Ablaze | 12.00% | ~427 |
+| Set Europe Ablaze | 12.00% | ~428 |
 | Precision Is Key | 9.00% | ~321 |
 | My Little Friend | 9.00% | ~321 |
 | Rigged to Blow | 8.00% | ~285 |
@@ -42,10 +42,10 @@ Rating: 4.47 (Ranked 615)
 | It'll Buff Right Out | 5.00% | ~178 |
 | Don't hold your breath | 5.00% | ~178 |
 | Operation Foxley | 5.00% | ~176 |
-| Strategist | 4.00% | ~142 |
-| Tinkerer | 4.00% | ~142 |
-| Locomotion Commotion | 4.00% | ~142 |
-| Road Rage | 4.00% | ~142 |
+| Strategist | 4.00% | ~143 |
+| Tinkerer | 4.00% | ~143 |
+| Locomotion Commotion | 4.00% | ~143 |
+| Road Rage | 4.00% | ~143 |
 | Last Resort | 4.00% | ~141 |
 | Siegebreaker | 4.00% | ~141 |
 | Ghost of Falaise | 4.00% | ~141 |
@@ -70,14 +70,14 @@ Rating: 4.47 (Ranked 615)
 | Alpha | 1.00% | ~35 |
 | Das Familienjuwel | 1.00% | ~35 |
 | Master of Secondaries | 0.90% | ~32 |
-| Master of Rifles | 0.80% | ~28 |
+| Master of Rifles | 0.80% | ~29 |
 | Operation Overlord | 0.80% | ~28 |
 | Master of Pistols | 0.70% | ~25 |
 | Master-at-arms | 0.70% | ~25 |
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,562 (Ranked 153)  
+Progressed: 3,563 (Ranked 153)  
 Completed: 10 (0.28%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 10 (0.28%) (Ranked 183)
 | 2023-08-30 | 3,554 | 10 |
 | 2023-08-31 | 3,557 | 10 |
 | 2023-09-01 | 3,560 | 10 |
-| 2023-09-02 | 3,562 | 10 |
+| 2023-09-02 | 3,563 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

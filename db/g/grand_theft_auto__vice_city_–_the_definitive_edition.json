@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 149,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -604,9 +604,9 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 9811,
+  "EOS_Progressed": 9813,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -8969,6 +8969,11 @@
       "Time": "2023-09-02T09:04:14.2382776+00:00",
       "NumProgressed": 9811,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-09-02T13:05:40.283758+00:00",
+      "NumProgressed": 9813,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 34,
@@ -9036,7 +9041,7 @@
       "Name": "Pie Guy",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "ACH09",
@@ -9140,7 +9145,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4513
+      "UsersEstimate": 4514
     },
     {
       "ID": "ACH22",
@@ -9148,7 +9153,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1962
+      "UsersEstimate": 1963
     },
     {
       "ID": "ACH23",
@@ -9251,7 +9256,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9811,
+      "Progressed": 9813,
       "Completed": 53
     }
   ],
@@ -9259,8 +9264,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-08-25T07:03:02.1151116+00:00",
-  "LastChanged_Achievements": "2023-09-02T12:04:17.9006581+00:00",
+  "LastChanged_Achievements": "2023-09-02T13:05:40.2837575+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:53.7698369+00:00",
-  "LastUpdate_Ratings": "2023-09-02T11:58:34.3953987+00:00",
-  "LastUpdate_Achievements": "2023-09-02T12:04:17.9007728+00:00"
+  "LastUpdate_Ratings": "2023-09-02T12:59:49.0001658+00:00",
+  "LastUpdate_Achievements": "2023-09-02T13:05:40.2838179+00:00"
 }

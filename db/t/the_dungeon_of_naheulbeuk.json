@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 26,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -768,9 +768,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 220327,
+  "EOS_Progressed": 220347,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2876,
+  "EOS_NewPlayers": 2871,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9263,6 +9263,11 @@
       "Time": "2023-09-02T12:05:15.9867765+00:00",
       "NumProgressed": 220327,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-02T13:06:31.2420142+00:00",
+      "NumProgressed": 220347,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -9360,9 +9365,9 @@
       "ID": "Chapter6",
       "SetID": "50chcgj",
       "Name": "Torture and Sensibility",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1983
+      "UsersEstimate": 2203
     },
     {
       "ID": "Chapter7",
@@ -9722,7 +9727,7 @@
       "Name": "Sowwy!",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 59488
+      "UsersEstimate": 59494
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -9904,9 +9909,9 @@
       "ID": "Rogue30Backstab",
       "SetID": "50chcgj",
       "Name": "I am the night",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1763
+      "UsersEstimate": 1983
     },
     {
       "ID": "RogueEpic",
@@ -9977,21 +9982,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 220327,
+      "Progressed": 220347,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 220327,
+      "Progressed": 220347,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-01T22:58:02.5589257+00:00",
-  "LastChanged_Achievements": "2023-09-02T12:05:15.9867754+00:00",
+  "LastChanged_Achievements": "2023-09-02T13:06:31.2420137+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:55.2312629+00:00",
-  "LastUpdate_Ratings": "2023-09-02T11:58:35.9218303+00:00",
-  "LastUpdate_Achievements": "2023-09-02T12:05:15.986946+00:00"
+  "LastUpdate_Ratings": "2023-09-02T12:59:50.2387006+00:00",
+  "LastUpdate_Achievements": "2023-09-02T13:06:31.2421464+00:00"
 }

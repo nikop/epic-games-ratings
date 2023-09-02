@@ -4,8 +4,8 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 344,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
     "PcReleaseDate": "2021-10-05T15:00:00+00:00",
@@ -948,9 +948,9 @@
       "ID": "Vanilla_MovementTier1",
       "SetID": "27kik8p",
       "Name": "Tail-wind",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Vanilla_MovementTier2",
@@ -1253,8 +1253,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-09-02T12:03:18.2619881+00:00",
+  "LastChanged_Achievements": "2023-09-02T13:04:28.8975827+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:44.6615158+00:00",
-  "LastUpdate_Ratings": "2023-09-02T11:59:26.4413035+00:00",
-  "LastUpdate_Achievements": "2023-09-02T12:03:18.2621902+00:00"
+  "LastUpdate_Ratings": "2023-09-02T13:00:34.765194+00:00",
+  "LastUpdate_Achievements": "2023-09-02T13:04:28.8977226+00:00"
 }

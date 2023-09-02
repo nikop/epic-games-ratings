@@ -4,8 +4,8 @@
   "ProductSlug": "tt-isle-of-man-ride-on-the-edge-3",
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 344,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
     "PcReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -899,9 +899,9 @@
       "ID": "ACHIEVEMENT_37",
       "SetID": "gagif7",
       "Name": "Tempus Fugit",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -930,8 +930,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-09-02T12:03:31.4496417+00:00",
+  "LastChanged_Achievements": "2023-09-02T13:04:39.9129173+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:56:59.6963304+00:00",
-  "LastUpdate_Ratings": "2023-09-02T11:57:40.9833043+00:00",
-  "LastUpdate_Achievements": "2023-09-02T12:03:31.4496803+00:00"
+  "LastUpdate_Ratings": "2023-09-02T12:59:05.9396459+00:00",
+  "LastUpdate_Achievements": "2023-09-02T13:04:39.9129456+00:00"
 }

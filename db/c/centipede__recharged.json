@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 139,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -302,7 +302,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16815,
+  "EOS_Progressed": 16816,
   "EOS_Completed": 102,
   "EOS_NewPlayers": 201,
   "EOS_NewCompleters": 0,
@@ -10702,6 +10702,11 @@
       "Time": "2023-09-02T10:06:17.5315474+00:00",
       "NumProgressed": 16815,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-09-02T13:05:25.2740666+00:00",
+      "NumProgressed": 16816,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 16,
@@ -10785,7 +10790,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 7062
+      "UsersEstimate": 7063
     },
     {
       "ID": "Mirrors",
@@ -10840,15 +10845,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 16815,
+      "Progressed": 16816,
       "Completed": 102
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-07-21T02:04:12.2963456+00:00",
-  "LastChanged_Achievements": "2023-09-02T12:04:00.3409207+00:00",
+  "LastChanged_Achievements": "2023-09-02T13:05:25.274066+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:55.9189104+00:00",
-  "LastUpdate_Ratings": "2023-09-02T11:59:37.2913017+00:00",
-  "LastUpdate_Achievements": "2023-09-02T12:04:00.3410329+00:00"
+  "LastUpdate_Ratings": "2023-09-02T13:00:43.8696573+00:00",
+  "LastUpdate_Achievements": "2023-09-02T13:05:25.2741214+00:00"
 }

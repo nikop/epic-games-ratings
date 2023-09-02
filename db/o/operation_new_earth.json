@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1200,
+  "EOS_Progressed": 1202,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4236,6 +4236,11 @@
       "Time": "2023-09-02T11:07:40.2906725+00:00",
       "NumProgressed": 1200,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-02T13:07:48.4739129+00:00",
+      "NumProgressed": 1202,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4253,9 +4258,9 @@
       "ID": "ach_defeat_aliens_50",
       "SetID": "bm61c2p",
       "Name": "Exterminator",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 72
     },
     {
       "ID": "ach_defeat_players_10",
@@ -4309,9 +4314,9 @@
       "ID": "ach_silver_rewards_10",
       "SetID": "bm61c2p",
       "Name": "Silver Competitor",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 96
+      "UsersEstimate": 84
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -4423,7 +4428,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -4437,9 +4442,9 @@
       "ID": "objective_key_drone_missions_completed_1",
       "SetID": "bm61c2p",
       "Name": "Getting Deployment",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 108
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -4503,7 +4508,7 @@
       "Name": "Defenses Online",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -4550,14 +4555,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1200,
+      "Progressed": 1202,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-02T12:06:45.0282852+00:00",
+  "LastChanged_Achievements": "2023-09-02T13:07:48.4739122+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:58:09.0134138+00:00",
-  "LastUpdate_Ratings": "2023-09-02T12:01:34.7279436+00:00",
-  "LastUpdate_Achievements": "2023-09-02T12:06:45.0283784+00:00"
+  "LastUpdate_Ratings": "2023-09-02T13:02:17.2657421+00:00",
+  "LastUpdate_Achievements": "2023-09-02T13:07:48.4739514+00:00"
 }

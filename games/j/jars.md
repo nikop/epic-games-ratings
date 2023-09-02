@@ -23,10 +23,10 @@
 | I love you all | 7.00% | ~5 |
 | Skills to pay the bills | 7.00% | ~5 |
 | Missing pages | 6.00% | ~4 |
-| Master of puppets | 4.00% | ~3 |
+| Master of puppets | 6.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 67 (Ranked 365)  
-Completed: 3 (4.48%) (Ranked 56)  
+Completed: 4 (5.97%) (Ranked 47)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -58,6 +58,7 @@ Completed: 3 (4.48%) (Ranked 56)
 | 2023-08-13 | 65 | 3 |
 | 2023-08-14 | 66 | 3 |
 | 2023-08-28 | 67 | 3 |
+| 2023-09-02 | 67 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

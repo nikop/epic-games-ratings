@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 27.00% | ~59,488 |
+| Sowwy! | 27.00% | ~59,494 |
 | Déjà vu | 3.00% | ~6,610 |
 | Where's that freaking Dwarf? | 3.00% | ~6,610 |
 | Alt+F4 | 3.00% | ~6,610 |
@@ -21,19 +21,19 @@ Number of Ratings: 118  (23.09.2022)
 | The plot thickens... At the tavern | 1.00% | ~2,203 |
 | The demons' feast | 1.00% | ~2,203 |
 | The Great Library | 1.00% | ~2,203 |
+| Torture and Sensibility | 1.00% | ~2,203 |
 | The Woman in the High Castle | 1.00% | ~2,203 |
 | Team Building Exercise | 1.00% | ~2,203 |
 | Oh, when I'll be level 10... | 1.00% | ~2,203 |
-| Torture and Sensibility | 0.90% | ~1,983 |
 | Urik's Depths | 0.90% | ~1,983 |
 | The Dungeon Master | 0.90% | ~1,983 |
 | The Statuette of Gladeulfeurah | 0.90% | ~1,983 |
 | A tale of adventurers not quite like the others... | 0.90% | ~1,983 |
+| I am the night | 0.90% | ~1,983 |
 | Shiny and Crôm | 0.80% | ~1,763 |
 | %#*!$*! | 0.80% | ~1,763 |
 | The beards of change | 0.80% | ~1,763 |
 | The Ranger of Chaos | 0.80% | ~1,763 |
-| I am the night | 0.80% | ~1,763 |
 | Res Judicata | 0.70% | ~1,542 |
 | The Famous Dungeon of Naheulbeuk | 0.70% | ~1,542 |
 | Dwarf Fortress | 0.70% | ~1,542 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~220 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,327 (Ranked 57)  
+Progressed: 220,347 (Ranked 57)  
 Completed: 2 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 2 (0.00%) (Ranked 271)
 | 2023-08-30 | 219,453 | 2 |
 | 2023-08-31 | 219,794 | 2 |
 | 2023-09-01 | 220,165 | 2 |
-| 2023-09-02 | 220,327 | 2 |
+| 2023-09-02 | 220,347 | 2 |
 ## Awards
 Max (Character Customization): 185  (Ranked 279)  
 Sum: 234 (Ranked 360)  
