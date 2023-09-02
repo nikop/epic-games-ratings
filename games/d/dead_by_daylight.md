@@ -6,32 +6,32 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 1.00% | ~8,380 |
-| It wakes | 1.00% | ~8,380 |
-| Skillful | 1.00% | ~8,380 |
-| MU/TH/UR Dearest | 1.00% | ~8,380 |
-| Make Some Noise | 0.90% | ~7,542 |
-| Not half bad | 0.80% | ~6,704 |
-| Apt Survivor | 0.80% | ~6,704 |
-| Handyman | 0.70% | ~5,866 |
-| Survival Treasures | 0.70% | ~5,866 |
-| No one left behind | 0.60% | ~5,028 |
-| Medic | 0.60% | ~5,028 |
-| Nerves of steel | 0.60% | ~5,028 |
-| Bloody Millionaire | 0.60% | ~5,028 |
-| I | 0.60% | ~5,028 |
-| Sorted | 0.60% | ~5,028 |
-| Resurgence | 0.60% | ~5,028 |
-| Terror of LV-426 | 0.60% | ~5,028 |
-| The Grand Sacrifice | 0.50% | ~4,190 |
-| Agonizing Escape | 0.50% | ~4,190 |
-| Backdoor Escape | 0.50% | ~4,190 |
-| Perfect Escape | 0.50% | ~4,190 |
-| Perfect Killing | 0.50% | ~4,190 |
-| Engineer | 0.50% | ~4,190 |
-| Healthy Obsession | 0.50% | ~4,190 |
-| Preemptive Strike | 0.50% | ~4,190 |
-| Humanitarian | 0.50% | ~4,190 |
+| Zealous | 1.00% | ~8,381 |
+| It wakes | 1.00% | ~8,381 |
+| Skillful | 1.00% | ~8,381 |
+| MU/TH/UR Dearest | 1.00% | ~8,381 |
+| Make Some Noise | 0.90% | ~7,543 |
+| Not half bad | 0.80% | ~6,705 |
+| Apt Survivor | 0.80% | ~6,705 |
+| Handyman | 0.70% | ~5,867 |
+| Survival Treasures | 0.70% | ~5,867 |
+| The Grand Sacrifice | 0.60% | ~5,029 |
+| No one left behind | 0.60% | ~5,029 |
+| Medic | 0.60% | ~5,029 |
+| Nerves of steel | 0.60% | ~5,029 |
+| Bloody Millionaire | 0.60% | ~5,029 |
+| I | 0.60% | ~5,029 |
+| Sorted | 0.60% | ~5,029 |
+| Resurgence | 0.60% | ~5,029 |
+| Terror of LV-426 | 0.60% | ~5,029 |
+| Agonizing Escape | 0.50% | ~4,191 |
+| Backdoor Escape | 0.50% | ~4,191 |
+| Perfect Escape | 0.50% | ~4,191 |
+| Perfect Killing | 0.50% | ~4,191 |
+| Engineer | 0.50% | ~4,191 |
+| Healthy Obsession | 0.50% | ~4,191 |
+| Preemptive Strike | 0.50% | ~4,191 |
+| Humanitarian | 0.50% | ~4,191 |
 | I've got your back | 0.40% | ~3,352 |
 | Apt Killer | 0.40% | ~3,352 |
 | Risk it all | 0.40% | ~3,352 |
@@ -42,6 +42,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Blood on your hands | 0.30% | ~2,514 |
 | Vulture | 0.30% | ~2,514 |
 | III | 0.30% | ~2,514 |
+| Cherish your Life | 0.30% | ~2,514 |
 | First to the Punch | 0.30% | ~2,514 |
 | Every Last Drop | 0.30% | ~2,514 |
 | With Scars to Show | 0.30% | ~2,514 |
@@ -62,7 +63,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Escaping the Nightmare | 0.20% | ~1,676 |
 | Holiday Get-Together | 0.20% | ~1,676 |
 | Near-Death Experience | 0.20% | ~1,676 |
-| Cherish your Life | 0.20% | ~1,676 |
 | Campbell's Chapel Legacy | 0.20% | ~1,676 |
 | Ancestor's Rite | 0.20% | ~1,676 |
 | Unforgettable Getaway | 0.20% | ~1,676 |
@@ -72,6 +72,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Operation: Survival | 0.20% | ~1,676 |
 | Grim Pilgrimage | 0.20% | ~1,676 |
 | Old West Oasis | 0.20% | ~1,676 |
+| Selfless Survival | 0.20% | ~1,676 |
 | Classy Act | 0.20% | ~1,676 |
 | Raccoon City Recruit | 0.20% | ~1,676 |
 | Flight to Freedom | 0.20% | ~1,676 |
@@ -166,7 +167,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Bound and Downed | 0.10% | ~838 |
 | Quick Draw | 0.10% | ~838 |
 | Adept Deathslinger | 0.10% | ~838 |
-| Selfless Survival | 0.10% | ~838 |
 | Adept Zarina | 0.10% | ~838 |
 | Cleansed in Agony | 0.10% | ~838 |
 | Death of Ignorance | 0.10% | ~838 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~838 |
 | Adept Ripley | 0.10% | ~838 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 837,982 (Ranked 15)  
+Progressed: 838,103 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -371,7 +371,7 @@ Completed: 48 (0.01%) (Ranked 258)
 | 2023-08-30 | 831,117 | 48 |
 | 2023-08-31 | 834,142 | 48 |
 | 2023-09-01 | 837,438 | 48 |
-| 2023-09-02 | 837,982 | 48 |
+| 2023-09-02 | 838,103 | 48 |
 ## Awards
 Max (Diverse Characters): 31,778  (Ranked 15)  
 Sum: 249,224 (Ranked 11)  

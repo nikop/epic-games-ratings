@@ -1211,9 +1211,9 @@
       "ID": "buy_trainer",
       "SetID": "69co12a",
       "Name": "Your own amateur gym",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 223
+      "UsersEstimate": 226
     },
     {
       "ID": "carla_journey",
@@ -1267,9 +1267,9 @@
       "ID": "fight_win_50",
       "SetID": "69co12a",
       "Name": "Fight is life",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 135
     },
     {
       "ID": "first_job",
@@ -1666,8 +1666,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-09-02T03:03:19.1695799+00:00",
+  "LastChanged_Achievements": "2023-09-02T04:02:22.3960039+00:00",
   "LastUpdate_AppInfo": "2023-08-26T06:57:28.4384167+00:00",
-  "LastUpdate_Ratings": "2023-09-02T03:02:23.6017455+00:00",
-  "LastUpdate_Achievements": "2023-09-02T03:03:19.1696611+00:00"
+  "LastUpdate_Ratings": "2023-09-02T04:02:11.7295972+00:00",
+  "LastUpdate_Achievements": "2023-09-02T04:02:22.3961069+00:00"
 }

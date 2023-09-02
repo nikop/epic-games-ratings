@@ -33,6 +33,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Arcane Industries | 0.60% | ~813 |
 | On the Path to Greatness | 0.50% | ~678 |
 | Ascended | 0.50% | ~678 |
+| Research & Development | 0.50% | ~678 |
 | Vanity, Verily | 0.50% | ~678 |
 | Blank Page Syndrome | 0.50% | ~678 |
 | Efficient Floor Space | 0.50% | ~678 |
@@ -41,7 +42,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Natural 20 | 0.50% | ~678 |
 | A Notch Above the Rest | 0.40% | ~542 |
 | Tax not Included | 0.40% | ~542 |
-| Research & Development | 0.40% | ~542 |
+| The King's Caprice | 0.40% | ~542 |
 | Big Game Hunting | 0.40% | ~542 |
 | Fated Encounters | 0.40% | ~542 |
 | For the Hoard! | 0.40% | ~542 |
@@ -66,7 +67,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Above the Norm | 0.30% | ~407 |
 | Constellated | 0.30% | ~407 |
 | A Ronin Reborn | 0.30% | ~407 |
-| The King's Caprice | 0.30% | ~407 |
 | Thirst for Knowledge | 0.30% | ~407 |
 | Booty by the Boatload | 0.30% | ~407 |
 | Archivist | 0.30% | ~407 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,512 (Ranked 67)  
+Progressed: 135,513 (Ranked 67)  
 Completed: 140 (0.10%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 140 (0.10%) (Ranked 218)
 | 2023-08-30 | 135,399 | 138 |
 | 2023-08-31 | 135,446 | 140 |
 | 2023-09-01 | 135,508 | 140 |
-| 2023-09-02 | 135,512 | 140 |
+| 2023-09-02 | 135,513 | 140 |
 ## Awards
 Max (Great for Beginners): 4,719  (Ranked 71)  
 Sum: 27,162 (Ranked 47)  

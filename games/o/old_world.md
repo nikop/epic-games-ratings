@@ -6,11 +6,11 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 4.00% | ~549 |
-| Settler | 4.00% | ~549 |
-| Friendly Family | 4.00% | ~549 |
-| Play a Single Player Game | 4.00% | ~549 |
-| The Clergy | 4.00% | ~549 |
+| Explorer | 4.00% | ~550 |
+| Settler | 4.00% | ~550 |
+| Friendly Family | 4.00% | ~550 |
+| Play a Single Player Game | 4.00% | ~550 |
+| The Clergy | 4.00% | ~550 |
 | Able | 3.00% | ~412 |
 | Architect | 3.00% | ~412 |
 | Good | 3.00% | ~412 |
@@ -75,6 +75,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Patrons | 1.00% | ~137 |
 | Sages | 1.00% | ~137 |
 | Acropolis | 1.00% | ~137 |
+| Temple of Solomon | 1.00% | ~137 |
 | Mausoleum | 1.00% | ~137 |
 | Learn to Play 2 | 1.00% | ~137 |
 | Greece | 1.00% | ~137 |
@@ -86,12 +87,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Good Difficulty | 0.90% | ~124 |
 | Statesmen | 0.90% | ~124 |
 | Traders | 0.90% | ~124 |
-| Temple of Solomon | 0.90% | ~124 |
+| Hagia Sophia | 0.90% | ~124 |
 | Pantheon | 0.90% | ~124 |
 | Via Recta Souk | 0.90% | ~124 |
 | Learn to Play 3 | 0.90% | ~124 |
 | Power to the People | 0.90% | ~124 |
 | Economic Reform | 0.90% | ~124 |
+| Dualism | 0.90% | ~124 |
 | Legalism | 0.90% | ~124 |
 | Legionary | 0.90% | ~124 |
 | Phalangite | 0.90% | ~124 |
@@ -101,9 +103,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Subjugator | 0.80% | ~110 |
 | Hittite Iron | 0.80% | ~110 |
 | Circus Maximus | 0.80% | ~110 |
-| Hagia Sophia | 0.80% | ~110 |
 | Church of the Holy Sepulchre | 0.80% | ~110 |
-| Dualism | 0.80% | ~110 |
 | Redemption | 0.80% | ~110 |
 | Ambition Victory | 0.80% | ~110 |
 | Double Victory | 0.80% | ~110 |
@@ -112,6 +112,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Landowners | 0.70% | ~96 |
 | Riders | 0.70% | ~96 |
 | Adur Burzen-Mihr | 0.70% | ~96 |
+| Babylonia | 0.70% | ~96 |
 | Carthage | 0.70% | ~96 |
 | Assyrian Paganism | 0.70% | ~96 |
 | Industrial Progress | 0.70% | ~96 |
@@ -126,7 +127,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Difficulty | 0.60% | ~82 |
 | Hunters | 0.60% | ~82 |
 | Learn to Play 4 | 0.60% | ~82 |
-| Babylonia | 0.60% | ~82 |
 | Hittite Paganism | 0.60% | ~82 |
 | Kushite Cavalry | 0.60% | ~82 |
 | No Undo | 0.60% | ~82 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,737 (Ranked 120)  
+Progressed: 13,739 (Ranked 120)  
 Completed: 5 (0.04%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -438,7 +438,7 @@ Completed: 5 (0.04%) (Ranked 240)
 | 2023-08-30 | 13,689 | 5 |
 | 2023-08-31 | 13,711 | 5 |
 | 2023-09-01 | 13,732 | 5 |
-| 2023-09-02 | 13,737 | 5 |
+| 2023-09-02 | 13,739 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 265)  
 Sum: 1,800 (Ranked 207)  

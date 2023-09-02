@@ -300,9 +300,9 @@
       "ID": "GROW_20_PLANTS",
       "SetID": "aniflfk",
       "Name": "Farmer",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "HOUSEWARMING",
@@ -316,9 +316,9 @@
       "ID": "LUNCH_LEECH",
       "SetID": "aniflfk",
       "Name": "Leech Lunch",
-      "Percentage": 26,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
@@ -380,9 +380,9 @@
       "ID": "TAKE_LEECH",
       "SetID": "aniflfk",
       "Name": "Uppies!",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -403,8 +403,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-02T03:08:12.1459121+00:00",
+  "LastChanged_Achievements": "2023-09-02T04:06:14.5503679+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:06.6191746+00:00",
-  "LastUpdate_Ratings": "2023-09-02T03:01:53.6277126+00:00",
-  "LastUpdate_Achievements": "2023-09-02T03:08:12.1459363+00:00"
+  "LastUpdate_Ratings": "2023-09-02T04:00:18.5139594+00:00",
+  "LastUpdate_Achievements": "2023-09-02T04:06:14.5503823+00:00"
 }

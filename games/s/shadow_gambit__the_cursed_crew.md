@@ -13,7 +13,7 @@
 | Powder Monkey | 28.00% | ~160 |
 | Somewhere Deep in the Lost Caribbean | 25.00% | ~143 |
 | Mirror Mirror on the Wall | 23.00% | ~132 |
-| Pirates Assemble! | 20.00% | ~114 |
+| Pirates Assemble! | 21.00% | ~120 |
 | Fishy Fish | 20.00% | ~114 |
 | Buccaneer | 19.00% | ~109 |
 | Seadog | 15.00% | ~86 |

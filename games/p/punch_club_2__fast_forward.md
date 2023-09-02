@@ -14,7 +14,7 @@
 | Depressed visitor | 78.00% | ~235 |
 | Employee of the week | 77.00% | ~232 |
 | Neurotrainer – power gainer! | 76.00% | ~229 |
-| Your own amateur gym | 74.00% | ~223 |
+| Your own amateur gym | 75.00% | ~226 |
 | First defeat | 73.00% | ~220 |
 | Run K, run! | 73.00% | ~220 |
 | Fighting is cool | 69.00% | ~208 |
@@ -37,8 +37,8 @@
 | Extreme neuropower! | 54.00% | ~163 |
 | Now you are worthy | 50.00% | ~150 |
 | Escaped from a big trouble | 50.00% | ~150 |
+| Fight is life | 45.00% | ~135 |
 | Guiding on the right path | 45.00% | ~135 |
-| Fight is life | 44.00% | ~132 |
 | Mysterious voice | 44.00% | ~132 |
 | No blades in the gym | 43.00% | ~129 |
 | Champion – no way back | 41.00% | ~123 |

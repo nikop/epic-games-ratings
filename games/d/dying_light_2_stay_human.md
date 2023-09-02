@@ -6,37 +6,37 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 39.00% | ~241,230 |
-| Into the Unknown | 35.00% | ~216,489 |
-| First Shot | 35.00% | ~216,489 |
-| Herzlich Wilkommen! | 33.00% | ~204,118 |
-| Good Night & Good Luck | 33.00% | ~204,118 |
-| Sancho Panza | 32.00% | ~197,932 |
-| Oh, So This Is How It Works! | 29.00% | ~179,376 |
-| Flag Burning | 27.00% | ~167,006 |
-| Under Pressure | 25.00% | ~154,635 |
-| It Wasn't That Hard, Was It? | 25.00% | ~154,635 |
-| Can't Touch This! | 25.00% | ~154,635 |
-| On the Trail of the Enemy | 24.00% | ~148,449 |
-| Light in the Darkness | 24.00% | ~148,449 |
-| Get Outta My House! | 23.00% | ~142,264 |
+| You Never Forget Your First... | 39.00% | ~241,232 |
+| Into the Unknown | 35.00% | ~216,490 |
+| First Shot | 35.00% | ~216,490 |
+| Herzlich Wilkommen! | 33.00% | ~204,119 |
+| Good Night & Good Luck | 33.00% | ~204,119 |
+| Sancho Panza | 32.00% | ~197,934 |
+| Oh, So This Is How It Works! | 29.00% | ~179,377 |
+| Flag Burning | 27.00% | ~167,007 |
+| Under Pressure | 25.00% | ~154,636 |
+| It Wasn't That Hard, Was It? | 25.00% | ~154,636 |
+| Can't Touch This! | 25.00% | ~154,636 |
+| On the Trail of the Enemy | 24.00% | ~148,450 |
+| Light in the Darkness | 24.00% | ~148,450 |
+| Get Outta My House! | 23.00% | ~142,265 |
 | Night Hunter | 22.00% | ~136,079 |
 | Being All Social | 22.00% | ~136,079 |
-| After the Fall | 20.00% | ~123,708 |
-| We Will Be Heard! | 18.00% | ~111,337 |
-| Tunnel Entrance | 18.00% | ~111,337 |
+| After the Fall | 20.00% | ~123,709 |
+| We Will Be Heard! | 18.00% | ~111,338 |
+| Tunnel Entrance | 18.00% | ~111,338 |
 | Known Associate | 17.00% | ~105,152 |
-| Brush with Death | 16.00% | ~98,966 |
+| Brush with Death | 16.00% | ~98,967 |
 | Debris and Ashes | 15.00% | ~92,781 |
 | Going Down | 15.00% | ~92,781 |
 | Family First | 15.00% | ~92,781 |
 | Your World, Your Rules | 15.00% | ~92,781 |
-| Death From Afar | 14.00% | ~86,595 |
-| Terminal Headache | 14.00% | ~86,595 |
+| Death From Afar | 14.00% | ~86,596 |
+| Terminal Headache | 14.00% | ~86,596 |
 | Slowpoke! | 12.00% | ~74,225 |
 | Tickets, Please! | 7.00% | ~43,298 |
-| Parkour Master | 6.00% | ~37,112 |
-| Combat Master | 6.00% | ~37,112 |
+| Parkour Master | 6.00% | ~37,113 |
+| Combat Master | 6.00% | ~37,113 |
 | Municipal Services | 5.00% | ~30,927 |
 | Ban Hammer | 5.00% | ~30,927 |
 | Modder | 5.00% | ~30,927 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~264 |
 | Connoisseur | 0.10% | ~264 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 618,539 (Ranked 27)  
+Progressed: 618,543 (Ranked 27)  
 Completed: 62 (0.01%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,15 +207,15 @@ Completed: 62 (0.01%) (Ranked 258)
 | 2023-08-30 | 617,839 | 62 |
 | 2023-08-31 | 618,177 | 62 |
 | 2023-09-01 | 618,502 | 62 |
-| 2023-09-02 | 618,539 | 62 |
+| 2023-09-02 | 618,543 | 62 |
 ## Awards
 Max (Character Customization): 8,969  (Ranked 40)  
-Sum: 21,568 (Ranked 55)  
+Sum: 21,576 (Ranked 55)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 8,969 |
-| This game has Great Boss Battles | 5,325 |
+| This game has Great Boss Battles | 5,333 |
 | This game is Great for Beginners | 930 |
 | This game is Highly Recommended | 859 |
 | This game has Diverse Characters | 853 |
@@ -462,3 +462,4 @@ Diff (max vs sum): -15
 | 2023-08-30 | 4.58 | - | 8,943 | 21,497 |
 | 2023-08-31 | 4.58 | - | 8,954 | 21,525 |
 | 2023-09-01 | 4.58 | - | 8,969 | 21,568 |
+| 2023-09-02 | 4.58 | - | 8,969 | 21,576 |

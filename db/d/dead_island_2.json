@@ -4152,10 +4152,10 @@
       "Count": 334
     }
   ],
-  "EOS_Progressed": 671206,
+  "EOS_Progressed": 671219,
   "EOS_Completed": 2098,
-  "EOS_NewPlayers": 5820,
-  "EOS_NewCompleters": 29,
+  "EOS_NewPlayers": 5798,
+  "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -19152,6 +19152,11 @@
       "Time": "2023-09-02T03:05:47.2932282+00:00",
       "NumProgressed": 671206,
       "NumCompleted": 2098
+    },
+    {
+      "Time": "2023-09-02T04:04:34.9541797+00:00",
+      "NumProgressed": 671219,
+      "NumCompleted": 2098
     }
   ],
   "TotalAchievements": 45,
@@ -19179,7 +19184,7 @@
       "Name": "Git Gutte!",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4698
+      "UsersEstimate": 4699
     },
     {
       "ID": "ach_anger_management",
@@ -19225,9 +19230,9 @@
       "ID": "ach_break_a_leg",
       "SetID": "7km39fm",
       "Name": "Break A Leg",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 4698
+      "UsersEstimate": 5370
     },
     {
       "ID": "ach_contender",
@@ -19283,7 +19288,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4698
+      "UsersEstimate": 4699
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -19307,7 +19312,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4698
+      "UsersEstimate": 4699
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -19443,7 +19448,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4698
+      "UsersEstimate": 4699
     },
     {
       "ID": "ach_survival_expert",
@@ -19505,9 +19510,9 @@
       "ID": "ach_well_known_survivor",
       "SetID": "7km39fm",
       "Name": "Rising Star",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 1342
+      "UsersEstimate": 2014
     },
     {
       "ID": "ach_well_trained",
@@ -19522,7 +19527,7 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 671206,
+      "Progressed": 671219,
       "Completed": 2098
     }
   ],
@@ -19530,8 +19535,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-01T17:57:51.8036404+00:00",
-  "LastChanged_Achievements": "2023-09-02T03:05:47.2932275+00:00",
+  "LastChanged_Achievements": "2023-09-02T04:04:34.954179+00:00",
   "LastUpdate_AppInfo": "2023-08-26T08:59:11.0440218+00:00",
-  "LastUpdate_Ratings": "2023-09-02T02:58:23.8195392+00:00",
-  "LastUpdate_Achievements": "2023-09-02T03:05:47.2934545+00:00"
+  "LastUpdate_Ratings": "2023-09-02T03:57:58.8082565+00:00",
+  "LastUpdate_Achievements": "2023-09-02T04:04:34.9543016+00:00"
 }
