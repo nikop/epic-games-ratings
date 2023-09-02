@@ -36,13 +36,13 @@
 | 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 11,279 | 4.45 | 640 |
 | 35 | [Satisfactory](games/s/satisfactory.md) | 11,271 | 4.88 | 19 |
 | 36 | [SnowRunner](games/s/snowrunner.md) | 10,229 | 4.76 | 116 |
-| 37 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 9,923 | 4.74 | 146 |
-| 38 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,919 | 4.61 | 368 |
+| 37 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,925 | 4.61 | 368 |
+| 38 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 9,923 | 4.74 | 146 |
 | 39 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,875 | 4.78 | 101 |
 | 40 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 8,969 | 4.58 | 430 |
 | 41 | [Control](games/c/control.md) | 8,474 | 4.60 | 393 |
 | 42 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 8,065 | 4.89 | 13 |
-| 43 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 7,895 | 4.48 | 599 |
+| 43 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 7,895 | 4.48 | 600 |
 | 44 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,810 | 4.85 | 42 |
 | 45 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,740 | 4.57 | 453 |
 | 46 | [Supraland](games/s/supraland.md) | 7,683 | 4.61 | 368 |
@@ -209,7 +209,7 @@
 | 207 | [Loop Hero](games/l/loop_hero.md) | 443 | 4.67 | 258 |
 | 208 | [RimWorld](games/r/rimworld.md) | 433 | 4.89 | 13 |
 | 209 | [Against the Storm](games/a/against_the_storm.md) | 426 | 4.81 | 77 |
-| 210 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 423 | 4.60 | 393 |
+| 210 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 425 | 4.60 | 393 |
 | 211 | [Into the Breach](games/i/into_the_breach.md) | 420 | 4.84 | 48 |
 | 212 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 414 | 4.73 | 162 |
 | 213 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 413 | 4.50 | 564 |
@@ -335,7 +335,7 @@
 | 333 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 103 | 3.91 | 960 |
 | 334 | [Just Die Already](games/j/just_die_already.md) | 102 | 4.52 | 531 |
 | 335 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 101 | 4.80 | 82 |
-| 335 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 101 | 4.48 | 599 |
+| 335 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 101 | 4.48 | 600 |
 | 337 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 100 | 4.76 | 116 |
 | 338 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 99 | 4.50 | 564 |
 | 339 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 98 | 4.51 | 547 |
@@ -430,7 +430,7 @@
 | 428 | [Bugsnax](games/b/bugsnax.md) | 38 | 4.86 | 31 |
 | 428 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 38 | 4.61 | 368 |
 | 428 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 38 | 4.57 | 453 |
-| 428 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 38 | 4.48 | 599 |
+| 428 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 38 | 4.48 | 600 |
 | 428 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 38 | 4.77 | 109 |
 | 433 | [20XX](games/2/20xx.md) | 36 | 4.61 | 368 |
 | 433 | [Hell is Others](games/h/hell_is_others.md) | 36 | 4.41 | 687 |
@@ -439,7 +439,7 @@
 | 433 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 36 | 4.41 | 687 |
 | 433 | [Steelrising](games/s/steelrising.md) | 36 | 4.28 | 812 |
 | 433 | [Voidtrain](games/v/voidtrain.md) | 36 | 4.50 | 564 |
-| 433 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 36 | 4.48 | 599 |
+| 433 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 36 | 4.48 | 600 |
 | 441 | [DEATHLOOP](games/d/deathloop.md) | 35 | 4.54 | 503 |
 | 441 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 35 | 4.43 | 666 |
 | 441 | [FUSER™](games/f/fuser™.md) | 35 | 4.71 | 188 |

@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
-| 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.00% |
+| 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 49.38% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.90% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 34.11% |
 | 5 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 33.33% |
@@ -37,7 +37,7 @@
 | 35 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.61% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.71% |
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
-| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.14% |
+| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.13% |
 | 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.99% |
 | 39 | [Scorn](games/s/scorn.md) | 6.99% |
 | 41 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.84% |
@@ -99,11 +99,11 @@
 | 97 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 98 | [Sifu](games/s/sifu.md) | 1.81% |
 | 99 | [Frogun](games/f/frogun.md) | 1.80% |
-| 100 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.79% |
 | 100 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.79% |
+| 101 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.75% |
 | 102 | [Somerville](games/s/somerville.md) | 1.66% |
 | 103 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.64% |
-| 104 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 1.58% |
+| 104 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 1.57% |
 | 105 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.56% |
 | 105 | [Iron Danger](games/i/iron_danger.md) | 1.56% |
 | 107 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.55% |
@@ -127,7 +127,7 @@
 | 124 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.99% |
 | 126 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.95% |
 | 127 | [Hades](games/h/hades.md) | 0.90% |
-| 127 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.90% |
+| 128 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.88% |
 | 129 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 130 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
 | 131 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.81% |
@@ -136,7 +136,7 @@
 | 134 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.71% |
 | 135 | [Lemon Cake](games/l/lemon_cake.md) | 0.69% |
 | 136 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.67% |
-| 137 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.66% |
+| 137 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.65% |
 | 138 | [Haven](games/h/haven.md) | 0.64% |
 | 139 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
 | 139 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.61% |
@@ -179,10 +179,10 @@
 | 177 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 177 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
 | 177 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
-| 180 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.30% |
-| 181 | [Against the Storm](games/a/against_the_storm.md) | 0.29% |
-| 181 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
-| 181 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
+| 180 | [Against the Storm](games/a/against_the_storm.md) | 0.29% |
+| 180 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
+| 180 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.29% |
+| 180 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
 | 184 | [Scrapnaut](games/s/scrapnaut.md) | 0.28% |
 | 184 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.28% |
 | 184 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.28% |
