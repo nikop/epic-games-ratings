@@ -2505,9 +2505,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 532140,
+  "EOS_Progressed": 532141,
   "EOS_Completed": 1527,
-  "EOS_NewPlayers": 633,
+  "EOS_NewPlayers": 629,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -17185,6 +17185,11 @@
       "Time": "2023-09-02T22:07:43.4625538+00:00",
       "NumProgressed": 532140,
       "NumCompleted": 1527
+    },
+    {
+      "Time": "2023-09-02T23:08:42.9800048+00:00",
+      "NumProgressed": 532141,
+      "NumCompleted": 1527
     }
   ],
   "TotalAchievements": 37,
@@ -17252,7 +17257,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 441676
+      "UsersEstimate": 441677
     },
     {
       "ID": "HONED",
@@ -17316,7 +17321,7 @@
       "Name": "The Castle",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 58535
+      "UsersEstimate": 58536
     },
     {
       "ID": "THE_CAVE",
@@ -17468,7 +17473,7 @@
       "Name": "The Village",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 85142
+      "UsersEstimate": 85143
     },
     {
       "ID": "THE_ZIGGURAT",
@@ -17491,15 +17496,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 532140,
+      "Progressed": 532141,
       "Completed": 1527
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-09-02T10:01:59.4520219+00:00",
-  "LastChanged_Achievements": "2023-09-02T22:07:43.4625533+00:00",
+  "LastChanged_Achievements": "2023-09-02T23:08:42.9800043+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:57.7923113+00:00",
-  "LastUpdate_Ratings": "2023-09-02T21:59:08.1406793+00:00",
-  "LastUpdate_Achievements": "2023-09-02T22:07:43.4626449+00:00"
+  "LastUpdate_Ratings": "2023-09-02T22:59:49.8399723+00:00",
+  "LastUpdate_Achievements": "2023-09-02T23:08:42.9801392+00:00"
 }

@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Under the Bridge | 81.00% | ~47 |
 | Treasure Hunter | 14.00% | ~8 |
-| Space Invader | 7.00% | ~4 |
+| Space Invader | 9.00% | ~5 |
 | Budget Killer | 5.00% | ~3 |
 | One Man Army | 5.00% | ~3 |
 | What's my line again? | 3.00% | ~2 |

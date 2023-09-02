@@ -1,7 +1,7 @@
 # Wildcat Gun Machine
 [Store](https://store.epicgames.com/en-US/p/wildcat-gun-machine-c66c4e)  
 [View Rawdata](../../db/w/wildcat_gun_machine.json)  
-Rating: 3.83 (Ranked 966)  
+Rating: 3.84 (Ranked 966)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -78,3 +78,4 @@ Rating: 3.83 (Ranked 966)
 | 2023-07-06 | 3.84 | 0 | 0 |
 | 2023-08-01 | 3.85 | 0 | 0 |
 | 2023-08-20 | 3.83 | 0 | 0 |
+| 2023-09-02 | 3.84 | 0 | 0 |

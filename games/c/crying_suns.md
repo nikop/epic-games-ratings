@@ -6,13 +6,13 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~307,943 |
+| The Shutdown | 66.00% | ~307,944 |
 | Jeef Skeejj | 44.00% | ~205,296 |
 | Careful planning | 39.00% | ~181,967 |
 | Second Coming | 33.00% | ~153,972 |
-| Jeef Skagg | 30.00% | ~139,974 |
-| Mother | 25.00% | ~116,645 |
-| In space, no one can hear you scream | 24.00% | ~111,979 |
+| Jeef Skagg | 30.00% | ~139,975 |
+| Mother | 25.00% | ~116,646 |
+| In space, no one can hear you scream | 24.00% | ~111,980 |
 | Chapter I: Echoes | 22.00% | ~102,648 |
 | Excelsior Rule | 22.00% | ~102,648 |
 | Things persisted in not being what they seemed | 20.00% | ~93,316 |
@@ -23,11 +23,11 @@ Number of Ratings: 1,003  (23.09.2022)
 | Tetsuo | 11.00% | ~51,324 |
 | Plan for the worst | 11.00% | ~51,324 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~46,658 |
-| Chapter IV: Through the Looking Glass | 8.00% | ~37,326 |
-| Through the mirror | 8.00% | ~37,326 |
-| General Vivar | 8.00% | ~37,326 |
-| Back to Ganyma | 8.00% | ~37,326 |
-| Kaos Rule | 8.00% | ~37,326 |
+| Chapter IV: Through the Looking Glass | 8.00% | ~37,327 |
+| Through the mirror | 8.00% | ~37,327 |
+| General Vivar | 8.00% | ~37,327 |
+| Back to Ganyma | 8.00% | ~37,327 |
+| Kaos Rule | 8.00% | ~37,327 |
 | Admiral Okonkwo | 7.00% | ~32,661 |
 | The Survivalists | 7.00% | ~32,661 |
 | The Tech Specialist | 7.00% | ~32,661 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~11 |
 | Kronos Rule | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 466,581 (Ranked 37)  
+Progressed: 466,582 (Ranked 37)  
 Completed: 18 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,7 +221,7 @@ Completed: 18 (0.00%) (Ranked 271)
 | 2023-08-30 | 466,352 | 18 |
 | 2023-08-31 | 466,430 | 18 |
 | 2023-09-01 | 466,505 | 18 |
-| 2023-09-02 | 466,581 | 18 |
+| 2023-09-02 | 466,582 | 18 |
 ## Awards
 Max (Character Customization): 218  (Ranked 268)  
 Sum: 238 (Ranked 359)  

@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 62191,
+  "EOS_Progressed": 62195,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 467,
+  "EOS_NewPlayers": 469,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -13277,6 +13277,11 @@
       "Time": "2023-09-02T22:03:59.5658199+00:00",
       "NumProgressed": 62191,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-09-02T23:04:26.6799595+00:00",
+      "NumProgressed": 62195,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -13288,7 +13293,7 @@
       "Name": "Follow the Light",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 23633
+      "UsersEstimate": 23634
     },
     {
       "ID": "02",
@@ -13296,7 +13301,7 @@
       "Name": "Nordic Walking",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 14926
+      "UsersEstimate": 14927
     },
     {
       "ID": "03",
@@ -13304,7 +13309,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 14926
+      "UsersEstimate": 14927
     },
     {
       "ID": "04",
@@ -13320,7 +13325,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 13060
+      "UsersEstimate": 13061
     },
     {
       "ID": "06",
@@ -13328,7 +13333,7 @@
       "Name": "Park Ranger",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 10572
+      "UsersEstimate": 10573
     },
     {
       "ID": "07",
@@ -13384,7 +13389,7 @@
       "Name": "Drink \u0027Em Both Up",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3731
+      "UsersEstimate": 3732
     },
     {
       "ID": "14",
@@ -13400,7 +13405,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6219
+      "UsersEstimate": 6220
     },
     {
       "ID": "16",
@@ -13408,7 +13413,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4975
+      "UsersEstimate": 4976
     },
     {
       "ID": "17",
@@ -13416,7 +13421,7 @@
       "Name": "Departure",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4353
+      "UsersEstimate": 4354
     },
     {
       "ID": "18",
@@ -13424,7 +13429,7 @@
       "Name": "Hardboiled Writer",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3731
+      "UsersEstimate": 3732
     },
     {
       "ID": "19",
@@ -13480,7 +13485,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5597
+      "UsersEstimate": 5598
     },
     {
       "ID": "26",
@@ -13536,7 +13541,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 18657
+      "UsersEstimate": 18658
     },
     {
       "ID": "33",
@@ -13552,7 +13557,7 @@
       "Name": "Energized!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6219
+      "UsersEstimate": 6220
     },
     {
       "ID": "35",
@@ -13560,7 +13565,7 @@
       "Name": "Let There Be Light",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 19279
+      "UsersEstimate": 19280
     },
     {
       "ID": "36",
@@ -13600,7 +13605,7 @@
       "Name": "Right of Way",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5597
+      "UsersEstimate": 5598
     },
     {
       "ID": "41",
@@ -13624,7 +13629,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 10572
+      "UsersEstimate": 10573
     },
     {
       "ID": "44",
@@ -13823,21 +13828,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 62191,
+      "Progressed": 62195,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 25659,
+      "Progressed": 25663,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-02T22:03:59.5658195+00:00",
+  "LastChanged_Achievements": "2023-09-02T23:04:26.6799589+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:56:59.9039957+00:00",
-  "LastUpdate_Ratings": "2023-09-02T21:57:31.5842811+00:00",
-  "LastUpdate_Achievements": "2023-09-02T22:03:59.5659304+00:00"
+  "LastUpdate_Ratings": "2023-09-02T22:57:56.3659986+00:00",
+  "LastUpdate_Achievements": "2023-09-02T23:04:26.6801212+00:00"
 }

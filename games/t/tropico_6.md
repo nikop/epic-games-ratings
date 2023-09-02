@@ -27,9 +27,9 @@ Number of Ratings: 398  (23.09.2022)
 | I Owe You Nothing | 7.00% | ~347 |
 | French Connection | 7.00% | ~347 |
 | Don't Panic! | 6.00% | ~297 |
+| Computer Says "No" | 6.00% | ~297 |
 | Beware The Betman | 6.00% | ~297 |
 | Viva Tropico! | 5.00% | ~248 |
-| Computer Says "No" | 5.00% | ~248 |
 | Watch The World Burn | 5.00% | ~248 |
 | Fairy Tale Come True | 5.00% | ~248 |
 | Apocalypso | 4.00% | ~198 |

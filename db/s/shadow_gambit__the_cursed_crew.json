@@ -32,7 +32,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 584,
+  "EOS_Progressed": 585,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 7,
@@ -1377,6 +1377,11 @@
       "Time": "2023-09-02T22:06:26.3974074+00:00",
       "NumProgressed": 584,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-02T23:07:14.8899239+00:00",
+      "NumProgressed": 585,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1387,9 +1392,9 @@
       "ID": "_01_AllIslands",
       "SetID": "8a1io5d",
       "Name": "Somewhere Deep in the Lost Caribbean",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 152
+      "UsersEstimate": 146
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -1397,7 +1402,7 @@
       "Name": "A New Journey",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "_03_FinishAct1",
@@ -1405,7 +1410,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1413,7 +1418,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "_05_FinishAct2",
@@ -1445,7 +1450,7 @@
       "Name": "Swabbie",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "_09_Completion_20",
@@ -1453,7 +1458,7 @@
       "Name": "Powder Monkey",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "_10_Completion_30",
@@ -1596,7 +1601,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 584,
+      "Progressed": 585,
       "Completed": 11
     }
   ],
@@ -1604,8 +1609,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-02T15:58:27.8231568+00:00",
-  "LastChanged_Achievements": "2023-09-02T22:06:26.3974071+00:00",
+  "LastChanged_Achievements": "2023-09-02T23:07:14.889923+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:46.0913582+00:00",
-  "LastUpdate_Ratings": "2023-09-02T21:58:08.8895922+00:00",
-  "LastUpdate_Achievements": "2023-09-02T22:06:26.3974343+00:00"
+  "LastUpdate_Ratings": "2023-09-02T22:58:40.6938964+00:00",
+  "LastUpdate_Achievements": "2023-09-02T23:07:14.8899544+00:00"
 }

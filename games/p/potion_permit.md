@@ -1,7 +1,7 @@
 # Potion Permit
 [Store](https://store.epicgames.com/en-US/p/potion-permit)  
 [View Rawdata](../../db/p/potion_permit.json)  
-Rating: 3.83 (Ranked 966)  
+Rating: 3.83 (Ranked 967)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -44,7 +44,7 @@ Rating: 3.83 (Ranked 966)
 | Moonbury Navigator | 1.00% | ~16 |
 | Being a donut... | 0.70% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,552 (Ranked 185)  
+Progressed: 1,552 (Ranked 186)  
 Completed: 9 (0.58%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |

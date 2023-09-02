@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5352,
+  "EOS_Progressed": 5353,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -3230,6 +3230,11 @@
       "Time": "2023-09-02T21:06:15.9468121+00:00",
       "NumProgressed": 5352,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-02T23:06:20.9944317+00:00",
+      "NumProgressed": 5353,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -3297,7 +3302,7 @@
       "Name": "Level: Charlie\u0027s Circuits",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1177
+      "UsersEstimate": 1178
     },
     {
       "ID": "ach_campaign_progress10",
@@ -3353,7 +3358,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 2622
+      "UsersEstimate": 2623
     },
     {
       "ID": "ach_campaign_progress6",
@@ -3848,15 +3853,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5352,
+      "Progressed": 5353,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-09-02T22:05:39.1459323+00:00",
+  "LastChanged_Achievements": "2023-09-02T23:06:20.9944311+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:47.7642869+00:00",
-  "LastUpdate_Ratings": "2023-09-02T21:59:00.4397638+00:00",
-  "LastUpdate_Achievements": "2023-09-02T22:05:39.1460145+00:00"
+  "LastUpdate_Ratings": "2023-09-02T22:59:40.8626492+00:00",
+  "LastUpdate_Achievements": "2023-09-02T23:06:20.9945395+00:00"
 }

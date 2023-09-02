@@ -958,9 +958,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 863,
+  "EOS_Progressed": 872,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 858,
+  "EOS_NewPlayers": 867,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -1383,6 +1383,11 @@
       "Time": "2023-09-02T22:07:32.2849304+00:00",
       "NumProgressed": 863,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-02T23:08:30.3567413+00:00",
+      "NumProgressed": 872,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -1395,15 +1400,15 @@
       "Name": "It\u0027s a good start",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "a_10",
       "SetID": "daiie3o",
       "Name": "What is that? A castle?",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 17
+      "UsersEstimate": 9
     },
     {
       "ID": "a_11",
@@ -1433,9 +1438,9 @@
       "ID": "a_16",
       "SetID": "daiie3o",
       "Name": "Millionaire",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 17
+      "UsersEstimate": 9
     },
     {
       "ID": "a_18",
@@ -1443,15 +1448,15 @@
       "Name": "Bye Bye",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 268
+      "UsersEstimate": 270
     },
     {
       "ID": "a_19",
       "SetID": "daiie3o",
       "Name": "Bonjour!",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 52
     },
     {
       "ID": "a_2",
@@ -1467,7 +1472,7 @@
       "Name": "The Assistant",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "a_21",
@@ -1475,7 +1480,7 @@
       "Name": "The Blue Marl",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "a_22",
@@ -1617,9 +1622,9 @@
       "ID": "a_7",
       "SetID": "daiie3o",
       "Name": "Knight of Langhe",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "a_8",
@@ -1642,7 +1647,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 863,
+      "Progressed": 872,
       "Completed": 2
     }
   ],
@@ -1650,8 +1655,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-02T11:57:49.7912394+00:00",
-  "LastChanged_Achievements": "2023-09-02T22:07:32.2849301+00:00",
+  "LastChanged_Achievements": "2023-09-02T23:08:30.3567407+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:09.2681959+00:00",
-  "LastUpdate_Ratings": "2023-09-02T21:57:38.4224035+00:00",
-  "LastUpdate_Achievements": "2023-09-02T22:07:32.2849496+00:00"
+  "LastUpdate_Ratings": "2023-09-02T22:58:05.0541429+00:00",
+  "LastUpdate_Achievements": "2023-09-02T23:08:30.3567689+00:00"
 }

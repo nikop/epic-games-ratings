@@ -2,12 +2,12 @@
   "ID": "6a6d54e5b4ef4fb0b3dad1d02a320376",
   "Name": "Epistory - Typing Chronicles",
   "ProductSlug": "epistory-typing-chronicles-445794",
-  "Ranking_Rating": 602,
+  "Ranking_Rating": 583,
   "Ranking_Popularity": 516,
   "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 571,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-01-19T16:00:00+00:00",
@@ -19,7 +19,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.48,
+  "Rating": 4.49,
   "RatingHistory": [
     {
       "Time": "2023-01-21T18:58:09.3863299+00:00",
@@ -226,6 +226,12 @@
       "Rating": 4.48,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-09-02T22:59:34.1496327+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -244,8 +250,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-01-19T18:58:26.8545883+00:00",
   "FirstSeenRating": "2023-01-21T18:58:09.3863297+00:00",
-  "LastChanged": "2023-08-31T22:58:07.4483072+00:00",
+  "LastChanged": "2023-09-02T22:59:34.1496325+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:41.145582+00:00",
-  "LastUpdate_Ratings": "2023-09-02T21:58:54.687933+00:00",
-  "LastUpdate_Achievements": "2023-09-02T22:05:13.0579059+00:00"
+  "LastUpdate_Ratings": "2023-09-02T22:59:34.1496334+00:00",
+  "LastUpdate_Achievements": "2023-09-02T23:05:51.1252223+00:00"
 }

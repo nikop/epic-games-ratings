@@ -14,7 +14,7 @@
 | Booty Call | 28.00% | ~147 |
 | In Contempt of Duvet | 27.00% | ~142 |
 | Planting the Seed | 21.00% | ~110 |
-| Light Sleepers | 15.00% | ~79 |
+| Light Sleepers | 16.00% | ~84 |
 | Smooth Criminal | 8.00% | ~42 |
 | Sore Loser | 7.00% | ~37 |
 | Interrogation | 5.00% | ~26 |

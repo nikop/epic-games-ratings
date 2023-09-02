@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 80,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 99,
-  "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -5964,7 +5964,7 @@
       "Count": 374
     }
   ],
-  "EOS_Progressed": 712911,
+  "EOS_Progressed": 712912,
   "EOS_Completed": 12878,
   "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 4,
@@ -18359,6 +18359,11 @@
       "Time": "2023-09-02T21:08:22.4724661+00:00",
       "NumProgressed": 712911,
       "NumCompleted": 12878
+    },
+    {
+      "Time": "2023-09-02T23:08:25.9399099+00:00",
+      "NumProgressed": 712912,
+      "NumCompleted": 12878
     }
   ],
   "TotalAchievements": 50,
@@ -18706,7 +18711,7 @@
       "Name": "Project Arena",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -18769,21 +18774,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 22212,
+      "Progressed": 22213,
       "Completed": 10577
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 712911,
+      "Progressed": 712912,
       "Completed": 12878
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-09-02T21:59:07.0653135+00:00",
-  "LastChanged_Achievements": "2023-09-02T22:07:28.4262492+00:00",
+  "LastChanged_Achievements": "2023-09-02T23:08:25.9399094+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:56.9584317+00:00",
-  "LastUpdate_Ratings": "2023-09-02T21:59:07.065314+00:00",
-  "LastUpdate_Achievements": "2023-09-02T22:07:28.4263417+00:00"
+  "LastUpdate_Ratings": "2023-09-02T22:59:48.7062397+00:00",
+  "LastUpdate_Achievements": "2023-09-02T23:08:25.9400495+00:00"
 }

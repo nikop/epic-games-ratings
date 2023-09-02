@@ -4,7 +4,7 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
@@ -1037,9 +1037,9 @@
       "ID": "light_sleepers",
       "SetID": "c4ipj3h",
       "Name": "Light Sleepers",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 79
+      "UsersEstimate": 84
     },
     {
       "ID": "not_alone",
@@ -1110,8 +1110,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-09-02T22:05:15.7277794+00:00",
+  "LastChanged_Achievements": "2023-09-02T23:05:53.9482482+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:27.0435914+00:00",
-  "LastUpdate_Ratings": "2023-09-02T21:57:53.4220316+00:00",
-  "LastUpdate_Achievements": "2023-09-02T22:05:15.7277926+00:00"
+  "LastUpdate_Ratings": "2023-09-02T22:58:22.7680018+00:00",
+  "LastUpdate_Achievements": "2023-09-02T23:05:53.9482672+00:00"
 }

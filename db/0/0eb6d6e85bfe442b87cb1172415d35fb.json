@@ -2,9 +2,9 @@
   "ID": "0eb6d6e85bfe442b87cb1172415d35fb",
   "Name": "Airport CEO",
   "ProductSlug": "airport-ceo-442ecc",
-  "Ranking_EOS_Progress": 468,
+  "Ranking_EOS_Progress": 464,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-09-01T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8,
+  "EOS_Progressed": 9,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -66,6 +66,11 @@
       "Time": "2023-09-02T18:06:09.448155+00:00",
       "NumProgressed": 8,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-02T23:05:56.7952003+00:00",
+      "NumProgressed": 9,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-30T08:04:15.025911+00:00",
@@ -84,7 +89,7 @@
       "ID": "AndIWouldFly500Miles",
       "SetID": "d11cl5p",
       "Name": "And I would fly 500 miles",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -124,7 +129,7 @@
       "ID": "FiveThousand",
       "SetID": "d11cl5p",
       "Name": "0.005 million",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -212,7 +217,7 @@
       "ID": "Over9000",
       "SetID": "d11cl5p",
       "Name": "Over 9000!!!",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 75,
       "UsersEstimate": 1
     },
@@ -228,7 +233,7 @@
       "ID": "RegionalAirport",
       "SetID": "d11cl5p",
       "Name": "Regional airport",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -260,7 +265,7 @@
       "ID": "SmallAirfield",
       "SetID": "d11cl5p",
       "Name": "Small airfield",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -276,7 +281,7 @@
       "ID": "TakingOff",
       "SetID": "d11cl5p",
       "Name": "Taking off",
-      "Percentage": 38,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -349,14 +354,14 @@
     {
       "ID": "d11cl5p",
       "IsBase": true,
-      "Progressed": 8,
+      "Progressed": 9,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-02T13:02:28.4911547+00:00",
   "FirstSeenAchievements": "2023-07-27T10:02:52.8790419+00:00",
-  "LastChanged_Achievements": "2023-09-02T22:05:18.6527227+00:00",
+  "LastChanged_Achievements": "2023-09-02T23:05:56.7951998+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:06.4077778+00:00",
-  "LastUpdate_Ratings": "2023-09-02T22:00:49.3556284+00:00",
-  "LastUpdate_Achievements": "2023-09-02T22:05:18.6527425+00:00"
+  "LastUpdate_Ratings": "2023-09-02T23:01:50.2346133+00:00",
+  "LastUpdate_Achievements": "2023-09-02T23:05:56.7952266+00:00"
 }

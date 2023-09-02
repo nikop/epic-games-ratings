@@ -5,9 +5,9 @@
   "Ranking_Rating": 948,
   "Ranking_Popularity": 516,
   "Ranking_PopularitySum": 516,
-  "Ranking_EOS_Progress": 184,
+  "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1569,
+  "EOS_Progressed": 1570,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3488,6 +3488,11 @@
       "Time": "2023-09-02T20:04:39.1430933+00:00",
       "NumProgressed": 1569,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-02T23:05:43.0358182+00:00",
+      "NumProgressed": 1570,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3569,9 +3574,9 @@
       "ID": "ACHIEVEMENT_THE_COLLECTOR",
       "SetID": "l546gc",
       "Name": "The Collector",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 267
+      "UsersEstimate": 251
     },
     {
       "ID": "ACHIEVEMENT_ZERO_WASTE",
@@ -3651,7 +3656,7 @@
       "Name": "Detective",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
@@ -3715,7 +3720,7 @@
       "Name": "I am the greatest botanist on this planet.",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
@@ -3723,7 +3728,7 @@
       "Name": "Houston we have a problem",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -3755,7 +3760,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -3882,7 +3887,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1569,
+      "Progressed": 1570,
       "Completed": 0
     }
   ],
@@ -3890,8 +3895,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-09-02T18:57:16.3901403+00:00",
-  "LastChanged_Achievements": "2023-09-02T22:05:05.977664+00:00",
+  "LastChanged_Achievements": "2023-09-02T23:05:43.0358177+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:41.057899+00:00",
-  "LastUpdate_Ratings": "2023-09-02T21:57:01.7348871+00:00",
-  "LastUpdate_Achievements": "2023-09-02T22:05:05.9777212+00:00"
+  "LastUpdate_Ratings": "2023-09-02T22:57:21.7370725+00:00",
+  "LastUpdate_Achievements": "2023-09-02T23:05:43.0358819+00:00"
 }
