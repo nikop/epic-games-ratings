@@ -6,28 +6,28 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~12,590 |
-| Sword Runner | 62.00% | ~10,271 |
-| Running out of breath | 54.00% | ~8,946 |
-| Wallrunner | 54.00% | ~8,946 |
-| Homerunner | 45.00% | ~7,455 |
-| Out of order | 45.00% | ~7,455 |
-| I call it luck | 44.00% | ~7,289 |
-| Where are my Keys? | 41.00% | ~6,792 |
-| Back to hell | 37.00% | ~6,129 |
-| Perfection | 32.00% | ~5,301 |
-| Why not both | 30.00% | ~4,970 |
-| Sword to a gunfight | 29.00% | ~4,804 |
-| Upgrades not mandatory | 29.00% | ~4,804 |
-| Artificial selection | 28.00% | ~4,638 |
-| Control freak | 28.00% | ~4,638 |
-| Running Wild | 27.00% | ~4,473 |
-| Finish line | 26.00% | ~4,307 |
-| Unstoppable force | 23.00% | ~3,810 |
+| Longrunner | 76.00% | ~12,593 |
+| Sword Runner | 62.00% | ~10,273 |
+| Running out of breath | 54.00% | ~8,948 |
+| Wallrunner | 54.00% | ~8,948 |
+| Homerunner | 45.00% | ~7,456 |
+| Out of order | 45.00% | ~7,456 |
+| I call it luck | 44.00% | ~7,291 |
+| Where are my Keys? | 41.00% | ~6,794 |
+| Back to hell | 37.00% | ~6,131 |
+| Perfection | 32.00% | ~5,302 |
+| Why not both | 30.00% | ~4,971 |
+| Sword to a gunfight | 29.00% | ~4,805 |
+| Upgrades not mandatory | 29.00% | ~4,805 |
+| Artificial selection | 28.00% | ~4,640 |
+| Control freak | 28.00% | ~4,640 |
+| Running Wild | 27.00% | ~4,474 |
+| Finish line | 26.00% | ~4,308 |
+| Unstoppable force | 23.00% | ~3,811 |
 | Wave of mutilation | 22.00% | ~3,645 |
-| Can't Run Can't Hide | 17.00% | ~2,816 |
+| Can't Run Can't Hide | 17.00% | ~2,817 |
 | R is for Running | 16.00% | ~2,651 |
-| Dead in the air | 15.00% | ~2,485 |
+| Dead in the air | 15.00% | ~2,486 |
 | Improvise, adapt, overrun | 13.00% | ~2,154 |
 | Pre-empative strike | 13.00% | ~2,154 |
 | Strike | 13.00% | ~2,154 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~66 |
 | Up Close And Personal | 0.40% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,566 (Ranked 114)  
+Progressed: 16,570 (Ranked 114)  
 Completed: 65 (0.39%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 65 (0.39%) (Ranked 164)
 | 2023-08-30 | 16,338 | 64 |
 | 2023-08-31 | 16,411 | 65 |
 | 2023-09-01 | 16,479 | 65 |
-| 2023-09-02 | 16,566 | 65 |
+| 2023-09-02 | 16,570 | 65 |
 ## Awards
 Max (Great Boss Battles): 487  (Ranked 202)  
 Sum: 680 (Ranked 281)  

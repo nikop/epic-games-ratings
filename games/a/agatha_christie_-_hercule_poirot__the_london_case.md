@@ -15,6 +15,7 @@
 | Everything matters | 14.00% | ~1 |
 | Order and method | 14.00% | ~1 |
 | Impossible is possible | 14.00% | ~1 |
+| The Missing Magdalene | 14.00% | ~1 |
 | Arthur Hastings | 14.00% | ~1 |
 | The Denouement | 0.00% | ~0 |
 | Well-travelled | 0.00% | ~0 |
@@ -28,7 +29,6 @@
 | A perilous journey | 0.00% | ~0 |
 | A peculiar fellow | 0.00% | ~0 |
 | The Penitent Magdalene | 0.00% | ~0 |
-| The Missing Magdalene | 0.00% | ~0 |
 | A true performance | 0.00% | ~0 |
 | Anastasia Babanin | 0.00% | ~0 |
 | Betty Allen | 0.00% | ~0 |

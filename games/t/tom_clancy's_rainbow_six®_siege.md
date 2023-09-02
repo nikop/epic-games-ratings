@@ -1,15 +1,15 @@
 # Tom Clancy's Rainbow Six® Siege
 [Store](https://store.epicgames.com/en-US/p/rainbow-six-siege)  
 [View Rawdata](../../db/t/tom_clancy's_rainbow_six®_siege.json)  
-Rating: 4.57 (Ranked 454)  
+Rating: 4.57 (Ranked 455)  
 Number of Ratings: 8,669  (23.09.2022)  
 ## Awards
-Max (Diverse Characters): 1,772  (Ranked 115)  
-Sum: 14,543 (Ranked 65)  
-Diff (max vs sum): 50  
+Max (Diverse Characters): 1,774  (Ranked 114)  
+Sum: 14,545 (Ranked 65)  
+Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 1,772 |
+| This game has Diverse Characters | 1,774 |
 | This game has Competitive Players | 1,712 |
 | This game has Amazing Characters | 1,649 |
 | This game is Highly Recommended | 1,644 |
@@ -220,4 +220,4 @@ Diff (max vs sum): 50
 | 2023-08-30 | 4.57 | - | 1,769 | 14,512 |
 | 2023-08-31 | 4.57 | - | 1,772 | 14,537 |
 | 2023-09-01 | 4.57 | - | 1,772 | 14,539 |
-| 2023-09-02 | 4.57 | - | 1,772 | 14,543 |
+| 2023-09-02 | 4.57 | - | 1,774 | 14,545 |

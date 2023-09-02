@@ -243,9 +243,9 @@
       "ID": "earn3000",
       "SetID": "bma0pih",
       "Name": "Reach",
-      "Percentage": 86,
+      "Percentage": 88,
       "XP": 60,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "fastBossKill",
@@ -267,49 +267,49 @@
       "ID": "kill100",
       "SetID": "bma0pih",
       "Name": "Recruit",
-      "Percentage": 86,
+      "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "kill300",
       "SetID": "bma0pih",
       "Name": "Soldier",
-      "Percentage": 81,
+      "Percentage": 84,
       "XP": 100,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "kill750",
       "SetID": "bma0pih",
       "Name": "War machine",
-      "Percentage": 77,
+      "Percentage": 79,
       "XP": 150,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "killWithHammer",
       "SetID": "bma0pih",
       "Name": "Eternal blacksmith",
-      "Percentage": 30,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "leviathan01",
       "SetID": "bma0pih",
       "Name": "Flying death",
-      "Percentage": 72,
+      "Percentage": 74,
       "XP": 55,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "leviathan02",
       "SetID": "bma0pih",
       "Name": "Metal hell",
-      "Percentage": 23,
+      "Percentage": 26,
       "XP": 75,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "leviathan03",
@@ -370,8 +370,8 @@
   ],
   "FirstSeen": "2023-08-31T13:03:44.3512159+00:00",
   "FirstSeenAchievements": "2023-05-07T09:02:54.6493409+00:00",
-  "LastChanged_Achievements": "2023-09-02T19:07:26.9378621+00:00",
+  "LastChanged_Achievements": "2023-09-02T20:05:50.0031969+00:00",
   "LastUpdate_AppInfo": "2023-08-27T16:57:09.5121242+00:00",
-  "LastUpdate_Ratings": "2023-09-02T19:00:10.9496491+00:00",
-  "LastUpdate_Achievements": "2023-09-02T19:07:26.9378764+00:00"
+  "LastUpdate_Ratings": "2023-09-02T19:59:08.941486+00:00",
+  "LastUpdate_Achievements": "2023-09-02T20:05:50.003212+00:00"
 }

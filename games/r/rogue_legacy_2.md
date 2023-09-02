@@ -15,7 +15,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Progenitor and Protégé | 1.00% | ~230 |
 | Suns and Soldiers | 1.00% | ~230 |
 | No Harm in Looking | 1.00% | ~230 |
-| Prequel to the Sequel | 0.90% | ~207 |
+| Prequel to the Sequel | 1.00% | ~230 |
 | For Glory | 0.60% | ~138 |
 | Truly Blessed | 0.50% | ~115 |
 | Pillow Investments | 0.50% | ~115 |

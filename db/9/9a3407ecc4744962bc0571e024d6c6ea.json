@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 133,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
     "PcReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 548,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 202,
+  "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.73,
   "EosHistory": [
@@ -979,9 +979,9 @@
       "ID": "BostonHayDay",
       "SetID": "3ai6ml8",
       "Name": "Boston Hay Day",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 334
+      "UsersEstimate": 340
     },
     {
       "ID": "BoxingClever",
@@ -1011,9 +1011,9 @@
       "ID": "CongratulationsYouAreAnEngineer",
       "SetID": "3ai6ml8",
       "Name": "Congratulations, you\u0027re an engineer",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 214
+      "UsersEstimate": 219
     },
     {
       "ID": "DarkestBeforeTheDawn",
@@ -1027,9 +1027,9 @@
       "ID": "DrinkingOnTheJob",
       "SetID": "3ai6ml8",
       "Name": "Drinking on the Job",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 258
+      "UsersEstimate": 263
     },
     {
       "ID": "DustDancing",
@@ -1083,9 +1083,9 @@
       "ID": "Relic",
       "SetID": "3ai6ml8",
       "Name": "Relic",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 20,
-      "UsersEstimate": 433
+      "UsersEstimate": 438
     },
     {
       "ID": "SkeletonCrew",
@@ -1138,8 +1138,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-09-02T19:06:12.8576743+00:00",
+  "LastChanged_Achievements": "2023-09-02T20:04:56.4239071+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:05.9137937+00:00",
-  "LastUpdate_Ratings": "2023-09-02T19:00:48.9007274+00:00",
-  "LastUpdate_Achievements": "2023-09-02T19:06:12.8576962+00:00"
+  "LastUpdate_Ratings": "2023-09-02T19:59:33.8595774+00:00",
+  "LastUpdate_Achievements": "2023-09-02T20:04:56.4239274+00:00"
 }

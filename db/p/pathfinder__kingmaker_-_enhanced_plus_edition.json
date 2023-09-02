@@ -2,7 +2,7 @@
   "ID": "6daaf10529e94fccaa8ee43b66adbe4a",
   "Name": "Pathfinder: Kingmaker - Enhanced Plus Edition",
   "ProductSlug": "pathfinder-kingmaker",
-  "Ranking_Rating": 454,
+  "Ranking_Rating": 430,
   "Ranking_Popularity": 93,
   "Ranking_PopularitySum": 96,
   "Ranking_EOS_Progress": 571,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.57,
+  "Rating": 4.58,
   "NumberOfRatings": 3868,
   "RatingHistory": [
     {
@@ -4707,6 +4707,12 @@
       "Rating": 4.57,
       "NumberOfAwards": 8623,
       "NumberOfAwardsMax": 3235
+    },
+    {
+      "Time": "2023-09-02T19:59:27.8893125+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 8623,
+      "NumberOfAwardsMax": 3235
     }
   ],
   "ReviewsDisabled": false,
@@ -4804,8 +4810,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:35.6101884+00:00",
-  "LastChanged": "2023-09-02T05:59:02.7915536+00:00",
+  "LastChanged": "2023-09-02T19:59:27.8893123+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:21.1489576+00:00",
-  "LastUpdate_Ratings": "2023-09-02T19:00:40.1715767+00:00",
-  "LastUpdate_Achievements": "2023-09-02T19:07:51.6924769+00:00"
+  "LastUpdate_Ratings": "2023-09-02T19:59:27.889313+00:00",
+  "LastUpdate_Achievements": "2023-09-02T20:06:07.8024161+00:00"
 }

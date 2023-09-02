@@ -217,9 +217,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 35747,
+  "EOS_Progressed": 35750,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 526,
+  "EOS_NewPlayers": 527,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -15147,6 +15147,11 @@
       "Time": "2023-09-02T19:05:32.7101301+00:00",
       "NumProgressed": 35747,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-09-02T20:04:27.7598087+00:00",
+      "NumProgressed": 35750,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 29,
@@ -15166,7 +15171,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 7149
+      "UsersEstimate": 7150
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -15214,7 +15219,7 @@
       "Name": "Flame Retardant",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ACH_10_DEFEATED_BANSHEE_QUEEN",
@@ -15222,7 +15227,7 @@
       "Name": "Enjoy The Silence",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "ACH_11_WOLF_GUARD_CRUSHED",
@@ -15230,7 +15235,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1787
+      "UsersEstimate": 1788
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -15310,7 +15315,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1787
+      "UsersEstimate": 1788
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -15389,7 +15394,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 35747,
+      "Progressed": 35750,
       "Completed": 22
     }
   ],
@@ -15397,8 +15402,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-12T21:03:39.1122054+00:00",
-  "LastChanged_Achievements": "2023-09-02T19:05:32.7101293+00:00",
+  "LastChanged_Achievements": "2023-09-02T20:04:27.7598079+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:38.9783742+00:00",
-  "LastUpdate_Ratings": "2023-09-02T19:00:57.5316094+00:00",
-  "LastUpdate_Achievements": "2023-09-02T19:05:32.7102781+00:00"
+  "LastUpdate_Ratings": "2023-09-02T19:59:40.0693159+00:00",
+  "LastUpdate_Achievements": "2023-09-02T20:04:27.7599611+00:00"
 }

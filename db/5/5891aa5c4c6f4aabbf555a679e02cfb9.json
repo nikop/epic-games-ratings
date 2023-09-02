@@ -456,9 +456,9 @@
       "ID": "ACHIEVEMENT_19",
       "SetID": "b36c5kb",
       "Name": "Finally Free",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -727,8 +727,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-09-02T19:08:40.491082+00:00",
+  "LastChanged_Achievements": "2023-09-02T20:06:42.9511138+00:00",
   "LastUpdate_AppInfo": "2023-08-30T18:57:06.6900715+00:00",
-  "LastUpdate_Ratings": "2023-09-02T19:01:40.0098577+00:00",
-  "LastUpdate_Achievements": "2023-09-02T19:08:40.4911272+00:00"
+  "LastUpdate_Ratings": "2023-09-02T20:00:12.134562+00:00",
+  "LastUpdate_Achievements": "2023-09-02T20:06:42.9511658+00:00"
 }

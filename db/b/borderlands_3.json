@@ -11132,18 +11132,24 @@
       "Rating": 4.69,
       "NumberOfAwards": 363657,
       "NumberOfAwardsMax": 115546
+    },
+    {
+      "Time": "2023-09-02T19:59:29.1673669+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 363787,
+      "NumberOfAwardsMax": 115613
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 363657,
-  "NumberOfAwardsMax": 115546,
+  "NumberOfAwards": 363787,
+  "NumberOfAwardsMax": 115613,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 115546
+      "Count": 115613
     },
     {
       "Text": "This game is Great for Beginners",
@@ -11155,7 +11161,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 26129
+      "Count": 26153
     },
     {
       "Text": "This game is Extremely Fun",
@@ -11191,7 +11197,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 24423
+      "Count": 24447
     },
     {
       "Text": "This game has Unique Visuals",
@@ -11203,7 +11209,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 17708
+      "Count": 17723
     }
   ],
   "EOS_Progressed": 0,
@@ -11217,8 +11223,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:32.2549878+00:00",
-  "LastChanged": "2023-09-02T16:59:35.3683122+00:00",
+  "LastChanged": "2023-09-02T19:59:29.1673666+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:23.9402563+00:00",
-  "LastUpdate_Ratings": "2023-09-02T19:00:42.1148923+00:00",
-  "LastUpdate_Achievements": "2023-09-02T19:06:50.3971299+00:00"
+  "LastUpdate_Ratings": "2023-09-02T19:59:29.1673674+00:00",
+  "LastUpdate_Achievements": "2023-09-02T20:05:23.3440753+00:00"
 }

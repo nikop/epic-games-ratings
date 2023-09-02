@@ -7,13 +7,13 @@ Number of Ratings: 524  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Follow the Light | 38.00% | ~23,628 |
-| Let There Be Light | 31.00% | ~19,275 |
+| Let There Be Light | 31.00% | ~19,276 |
 | Float Like a Butterfly | 30.00% | ~18,654 |
 | Nordic Walking | 24.00% | ~14,923 |
 | Bright Falls' Finest | 24.00% | ~14,923 |
 | Under a Thin Layer of Skin | 21.00% | ~13,058 |
-| Park Ranger | 17.00% | ~10,570 |
-| Paging Mr. Wake | 17.00% | ~10,570 |
+| Park Ranger | 17.00% | ~10,571 |
+| Paging Mr. Wake | 17.00% | ~10,571 |
 | Back! Back, I Say! | 16.00% | ~9,949 |
 | Finders Keepers | 16.00% | ~9,949 |
 | Sound and Fury | 15.00% | ~9,327 |
@@ -24,9 +24,9 @@ Number of Ratings: 524  (23.09.2022)
 | Iron Horse | 13.00% | ~8,083 |
 | The Six-Gun Scribe | 13.00% | ~8,083 |
 | Collateral Carnage | 13.00% | ~8,083 |
-| Heavy Metal | 12.00% | ~7,461 |
-| Perchance to Dream | 12.00% | ~7,461 |
-| Come One, Come All | 12.00% | ~7,461 |
+| Heavy Metal | 12.00% | ~7,462 |
+| Perchance to Dream | 12.00% | ~7,462 |
+| Come One, Come All | 12.00% | ~7,462 |
 | Gatekeeper | 11.00% | ~6,840 |
 | It's Not Just a Typewriter Brand | 11.00% | ~6,840 |
 | Thunder and Lightning | 11.00% | ~6,840 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~62 |
 | No Punctuation | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,179 (Ranked 87)  
+Progressed: 62,180 (Ranked 87)  
 Completed: 65 (0.10%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 65 (0.10%) (Ranked 218)
 | 2023-08-30 | 62,006 | 65 |
 | 2023-08-31 | 62,064 | 65 |
 | 2023-09-01 | 62,124 | 65 |
-| 2023-09-02 | 62,179 | 65 |
+| 2023-09-02 | 62,180 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

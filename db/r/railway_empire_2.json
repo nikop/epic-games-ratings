@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -202,7 +202,7 @@
   "Tags": [],
   "EOS_Progressed": 1860,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4848,9 +4848,9 @@
       "ID": "A38",
       "SetID": "9b7p7eo",
       "Name": "Poor Devil",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 986
+      "UsersEstimate": 1004
     },
     {
       "ID": "A39",
@@ -4993,8 +4993,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-08-31T02:57:24.0720736+00:00",
-  "LastChanged_Achievements": "2023-09-02T19:05:41.3950957+00:00",
+  "LastChanged_Achievements": "2023-09-02T20:04:33.8395274+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:35.0102287+00:00",
-  "LastUpdate_Ratings": "2023-09-02T18:58:26.4724572+00:00",
-  "LastUpdate_Achievements": "2023-09-02T19:05:41.3952005+00:00"
+  "LastUpdate_Ratings": "2023-09-02T19:57:56.83742+00:00",
+  "LastUpdate_Achievements": "2023-09-02T20:04:33.8396079+00:00"
 }
