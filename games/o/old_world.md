@@ -24,6 +24,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong | 3.00% | ~413 |
 | Hanging Gardens | 3.00% | ~413 |
 | Oracle | 3.00% | ~413 |
+| Judaism | 3.00% | ~413 |
 | Naming Landmarks | 3.00% | ~413 |
 | Trade Caravan | 3.00% | ~413 |
 | Regicide | 2.00% | ~275 |
@@ -51,7 +52,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 1 | 2.00% | ~275 |
 | Learn to Play 2 | 2.00% | ~275 |
 | Christianity | 2.00% | ~275 |
-| Judaism | 2.00% | ~275 |
 | Manichaeism | 2.00% | ~275 |
 | Babylonian Paganism | 2.00% | ~275 |
 | Carthaginian Paganism | 2.00% | ~275 |

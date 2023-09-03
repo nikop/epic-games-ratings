@@ -2,13 +2,13 @@
   "ID": "39c6dd5409944922a04cac3f59fbbcd4",
   "Name": "Shadow Tactics - Aiko\u0027s Choice",
   "ProductSlug": "shadow-tactics-aikos-choice-5678c1",
-  "Ranking_Rating": 174,
+  "Ranking_Rating": 175,
   "Ranking_Popularity": 367,
   "Ranking_PopularitySum": 432,
   "Ranking_EOS_Progress": 572,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-12-06T18:00:00+00:00",
     "PcReleaseDate": "2021-12-06T00:00:00+00:00",
@@ -490,8 +490,8 @@
   "FirstSeen": "2022-07-22T20:30:07.8581549+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:29.6758612+00:00",
   "LastChanged": "2023-09-03T03:58:29.1319795+00:00",
-  "LastChanged_Achievements": "2023-09-03T05:05:16.9355502+00:00",
+  "LastChanged_Achievements": "2023-09-03T06:04:38.8723931+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:38.5945847+00:00",
-  "LastUpdate_Ratings": "2023-09-03T04:58:52.1083753+00:00",
-  "LastUpdate_Achievements": "2023-09-03T05:05:16.9355536+00:00"
+  "LastUpdate_Ratings": "2023-09-03T05:58:38.2989138+00:00",
+  "LastUpdate_Achievements": "2023-09-03T06:04:38.8723966+00:00"
 }

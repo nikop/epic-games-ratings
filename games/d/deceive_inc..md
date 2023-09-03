@@ -21,9 +21,9 @@ Rating: 4.58 (Ranked 430)
 | Private Collection | 12.00% | ~2,140 |
 | Hostile Takeover | 12.00% | ~2,140 |
 | Smells Like Trouble | 12.00% | ~2,140 |
-| Dr. No Kill | 11.00% | ~1,961 |
-| My Motto, My Creed | 11.00% | ~1,961 |
-| Killer Looks | 11.00% | ~1,961 |
+| Dr. No Kill | 11.00% | ~1,962 |
+| My Motto, My Creed | 11.00% | ~1,962 |
+| Killer Looks | 11.00% | ~1,962 |
 | Keycards Royale | 10.00% | ~1,783 |
 | In It to Win It | 9.00% | ~1,605 |
 | Security Supervisor | 6.00% | ~1,070 |
@@ -42,7 +42,7 @@ Rating: 4.58 (Ranked 430)
 | Extraction Confusion | 0.20% | ~36 |
 | Spyfall | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,831 (Ranked 111)  
+Progressed: 17,832 (Ranked 111)  
 Completed: 1 (0.01%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 1 (0.01%) (Ranked 257)
 | 2023-08-31 | 17,792 | 1 |
 | 2023-09-01 | 17,811 | 1 |
 | 2023-09-02 | 17,829 | 1 |
-| 2023-09-03 | 17,831 | 1 |
+| 2023-09-03 | 17,832 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

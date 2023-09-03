@@ -1,39 +1,39 @@
 # Dead by Daylight
 [Store](https://store.epicgames.com/en-US/p/dead-by-daylight)  
 [View Rawdata](../../db/d/dead_by_daylight.json)  
-Rating: 4.52 (Ranked 532)  
+Rating: 4.52 (Ranked 533)  
 Number of Ratings: 70,340  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 2.00% | ~16,848 |
-| Handyman | 1.00% | ~8,424 |
-| Zealous | 1.00% | ~8,424 |
-| Not half bad | 1.00% | ~8,424 |
-| Apt Survivor | 1.00% | ~8,424 |
-| Survival Treasures | 1.00% | ~8,424 |
-| Skillful | 1.00% | ~8,424 |
-| Make Some Noise | 1.00% | ~8,424 |
-| MU/TH/UR Dearest | 1.00% | ~8,424 |
-| Sorted | 0.90% | ~7,581 |
-| No one left behind | 0.80% | ~6,739 |
-| Medic | 0.80% | ~6,739 |
-| Nerves of steel | 0.80% | ~6,739 |
-| Bloody Millionaire | 0.80% | ~6,739 |
-| I | 0.80% | ~6,739 |
-| Resurgence | 0.80% | ~6,739 |
-| The Grand Sacrifice | 0.70% | ~5,897 |
+| It wakes | 2.00% | ~16,850 |
+| Handyman | 1.00% | ~8,425 |
+| Zealous | 1.00% | ~8,425 |
+| Not half bad | 1.00% | ~8,425 |
+| Apt Survivor | 1.00% | ~8,425 |
+| Survival Treasures | 1.00% | ~8,425 |
+| Skillful | 1.00% | ~8,425 |
+| Make Some Noise | 1.00% | ~8,425 |
+| MU/TH/UR Dearest | 1.00% | ~8,425 |
+| Sorted | 0.90% | ~7,582 |
+| The Grand Sacrifice | 0.80% | ~6,740 |
+| No one left behind | 0.80% | ~6,740 |
+| Medic | 0.80% | ~6,740 |
+| Nerves of steel | 0.80% | ~6,740 |
+| Bloody Millionaire | 0.80% | ~6,740 |
+| I | 0.80% | ~6,740 |
+| Resurgence | 0.80% | ~6,740 |
 | Backdoor Escape | 0.70% | ~5,897 |
 | Perfect Escape | 0.70% | ~5,897 |
 | Healthy Obsession | 0.70% | ~5,897 |
 | Preemptive Strike | 0.70% | ~5,897 |
 | Humanitarian | 0.70% | ~5,897 |
 | Terror of LV-426 | 0.70% | ~5,897 |
-| Agonizing Escape | 0.60% | ~5,054 |
-| I've got your back | 0.60% | ~5,054 |
-| Perfect Killing | 0.60% | ~5,054 |
-| Risk it all | 0.60% | ~5,054 |
-| Engineer | 0.60% | ~5,054 |
+| Agonizing Escape | 0.60% | ~5,055 |
+| I've got your back | 0.60% | ~5,055 |
+| Perfect Killing | 0.60% | ~5,055 |
+| Risk it all | 0.60% | ~5,055 |
+| Engineer | 0.60% | ~5,055 |
 | Apt Killer | 0.50% | ~4,212 |
 | Vulture | 0.50% | ~4,212 |
 | II | 0.50% | ~4,212 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~842 |
 | Adept Ripley | 0.10% | ~842 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 842,379 (Ranked 15)  
+Progressed: 842,482 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -372,7 +372,7 @@ Completed: 48 (0.01%) (Ranked 257)
 | 2023-08-31 | 834,142 | 48 |
 | 2023-09-01 | 837,438 | 48 |
 | 2023-09-02 | 841,459 | 48 |
-| 2023-09-03 | 842,379 | 48 |
+| 2023-09-03 | 842,482 | 48 |
 ## Awards
 Max (Diverse Characters): 31,830  (Ranked 15)  
 Sum: 249,556 (Ranked 11)  

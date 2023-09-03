@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 310,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2019-09-17T12:00:00+00:00",
@@ -892,9 +892,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2770,
+  "EOS_Progressed": 2771,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4232,6 +4232,11 @@
       "Time": "2023-09-03T05:06:40.0440156+00:00",
       "NumProgressed": 2770,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-03T06:06:04.0658128+00:00",
+      "NumProgressed": 2771,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4267,7 +4272,7 @@
       "Name": "Commence the Hijinx!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_COPS-CALLED",
@@ -4299,7 +4304,7 @@
       "Name": "DIY Boss",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_FASHIONISTA",
@@ -4339,7 +4344,7 @@
       "Name": "Globetrotter",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_GO-WITH-THE-FLOW",
@@ -4403,7 +4408,7 @@
       "Name": "Laid back",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_LINES-FOR-DAYS",
@@ -4411,7 +4416,7 @@
       "Name": "Lines for days",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_LOVES-YOU-BACK",
@@ -4443,7 +4448,7 @@
       "Name": "NAHELL!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_PEW-PEW",
@@ -4579,7 +4584,7 @@
       "Name": "Trick shot marksman",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_ULTIMATE-SKATE-NERD",
@@ -4619,22 +4624,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 1634
+      "UsersEstimate": 1635
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2770,
+      "Progressed": 2771,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-09-01T17:58:13.4167101+00:00",
-  "LastChanged_Achievements": "2023-09-03T05:06:40.0440152+00:00",
+  "LastChanged_Achievements": "2023-09-03T06:06:04.0658123+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:37.4705758+00:00",
-  "LastUpdate_Ratings": "2023-09-03T04:58:51.3934201+00:00",
-  "LastUpdate_Achievements": "2023-09-03T05:06:40.0440778+00:00"
+  "LastUpdate_Ratings": "2023-09-03T05:58:37.5238438+00:00",
+  "LastUpdate_Achievements": "2023-09-03T06:06:04.0658768+00:00"
 }

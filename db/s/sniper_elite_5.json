@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -500,9 +500,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3568,
+  "EOS_Progressed": 3569,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -6415,6 +6415,11 @@
       "Time": "2023-09-03T05:06:43.1876401+00:00",
       "NumProgressed": 3568,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-03T06:06:07.1775441+00:00",
+      "NumProgressed": 3569,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 71,
@@ -6506,7 +6511,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1641
+      "UsersEstimate": 1642
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -6594,7 +6599,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1427
+      "UsersEstimate": 1428
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -6610,7 +6615,7 @@
       "Name": "Rigged to Blow",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -6674,7 +6679,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1284
+      "UsersEstimate": 1285
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -6738,7 +6743,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1177
+      "UsersEstimate": 1178
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -6762,7 +6767,7 @@
       "Name": "Change the Channel",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1070
+      "UsersEstimate": 1071
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -6993,13 +6998,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3519,
+      "Progressed": 3520,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3568,
+      "Progressed": 3569,
       "Completed": 10
     }
   ],
@@ -7007,8 +7012,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-01T10:01:39.1533108+00:00",
-  "LastChanged_Achievements": "2023-09-03T05:06:43.1876397+00:00",
+  "LastChanged_Achievements": "2023-09-03T06:06:07.1775435+00:00",
   "LastUpdate_AppInfo": "2023-09-02T06:57:18.4314048+00:00",
-  "LastUpdate_Ratings": "2023-09-03T05:00:31.7090596+00:00",
-  "LastUpdate_Achievements": "2023-09-03T05:06:43.1877393+00:00"
+  "LastUpdate_Ratings": "2023-09-03T06:00:23.3962048+00:00",
+  "LastUpdate_Achievements": "2023-09-03T06:06:07.1776571+00:00"
 }

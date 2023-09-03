@@ -6,7 +6,7 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 59.00% | ~1,634 |
+| You're free now! | 59.00% | ~1,635 |
 | Keeping it classy | 27.00% | ~748 |
 | Welcome to the family | 21.00% | ~582 |
 | The finer things in life | 19.00% | ~526 |
@@ -28,13 +28,13 @@ Number of Ratings: 111  (23.09.2022)
 | Purple passion | 6.00% | ~166 |
 | Squad goals | 6.00% | ~166 |
 | Sup widdit big dog! | 6.00% | ~166 |
-| Commence the Hijinx! | 5.00% | ~138 |
-| DIY Boss | 5.00% | ~138 |
-| Globetrotter | 5.00% | ~138 |
-| Laid back | 5.00% | ~138 |
-| Lines for days | 5.00% | ~138 |
-| NAHELL! | 5.00% | ~138 |
-| Trick shot marksman | 5.00% | ~138 |
+| Commence the Hijinx! | 5.00% | ~139 |
+| DIY Boss | 5.00% | ~139 |
+| Globetrotter | 5.00% | ~139 |
+| Laid back | 5.00% | ~139 |
+| Lines for days | 5.00% | ~139 |
+| NAHELL! | 5.00% | ~139 |
+| Trick shot marksman | 5.00% | ~139 |
 | Cops called! | 4.00% | ~111 |
 | G.O.A.T. status | 4.00% | ~111 |
 | Manny Destroys All | 4.00% | ~111 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,770 (Ranked 166)  
+Progressed: 2,771 (Ranked 166)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-08-30 | 2,765 | 0 |
 | 2023-08-31 | 2,767 | 0 |
 | 2023-09-01 | 2,768 | 0 |
-| 2023-09-03 | 2,770 | 0 |
+| 2023-09-03 | 2,771 | 0 |
 ## Awards
 Max (Highly Recommended): 52  (Ranked 400)  
 Sum: 455 (Ranked 310)  

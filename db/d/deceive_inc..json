@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -238,7 +238,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17831,
+  "EOS_Progressed": 17832,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
@@ -9623,6 +9623,11 @@
       "Time": "2023-09-03T04:02:26.5648201+00:00",
       "NumProgressed": 17831,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-03T06:00:42.1883683+00:00",
+      "NumProgressed": 17832,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -9786,7 +9791,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 11,
       "XP": 115,
-      "UsersEstimate": 1961
+      "UsersEstimate": 1962
     },
     {
       "ID": "0021",
@@ -9842,7 +9847,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1961
+      "UsersEstimate": 1962
     },
     {
       "ID": "0028",
@@ -9882,7 +9887,7 @@
       "Name": "Killer Looks",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1961
+      "UsersEstimate": 1962
     },
     {
       "ID": "0033",
@@ -9921,7 +9926,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17831,
+      "Progressed": 17832,
       "Completed": 1
     }
   ],
@@ -9929,8 +9934,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-31T05:58:36.9186567+00:00",
-  "LastChanged_Achievements": "2023-09-03T05:03:14.3785617+00:00",
+  "LastChanged_Achievements": "2023-09-03T06:00:42.1883677+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:19.1789564+00:00",
-  "LastUpdate_Ratings": "2023-09-03T04:59:35.6558853+00:00",
-  "LastUpdate_Achievements": "2023-09-03T05:03:14.378658+00:00"
+  "LastUpdate_Ratings": "2023-09-03T05:59:23.4481075+00:00",
+  "LastUpdate_Achievements": "2023-09-03T06:00:42.1884628+00:00"
 }

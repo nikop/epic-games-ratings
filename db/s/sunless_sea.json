@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -685,9 +685,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 36676,
+  "EOS_Progressed": 36677,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 410,
+  "EOS_NewPlayers": 411,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -14550,6 +14550,11 @@
       "Time": "2023-09-03T05:03:32.437949+00:00",
       "NumProgressed": 36676,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-03T06:02:20.597098+00:00",
+      "NumProgressed": 36677,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -14681,7 +14686,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 13203
+      "UsersEstimate": 13204
     },
     {
       "ID": "ach_die10",
@@ -14929,7 +14934,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 5501
+      "UsersEstimate": 5502
     },
     {
       "ID": "ach_undercurrent",
@@ -14992,15 +14997,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 36676,
+      "Progressed": 36677,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-07-28T14:59:59.8138313+00:00",
-  "LastChanged_Achievements": "2023-09-03T05:03:32.4379486+00:00",
+  "LastChanged_Achievements": "2023-09-03T06:02:20.5970974+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:20.6698248+00:00",
-  "LastUpdate_Ratings": "2023-09-03T04:59:36.0283622+00:00",
-  "LastUpdate_Achievements": "2023-09-03T05:03:32.4380903+00:00"
+  "LastUpdate_Ratings": "2023-09-03T05:59:23.8229036+00:00",
+  "LastUpdate_Achievements": "2023-09-03T06:02:20.5972421+00:00"
 }
