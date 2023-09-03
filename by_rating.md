@@ -105,7 +105,7 @@
 | 102 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,895 | 38 |
 | 102 | [Journey](games/j/journey.md) | 4.78 | 0 | 516 |
 | 102 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.78 | 0 | 516 |
-| 102 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,388 | 103 |
+| 102 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,390 | 103 |
 | 102 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,456 | 123 |
 | 102 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 933 | 149 |
 | 102 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 516 |
@@ -179,7 +179,7 @@
 | 174 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 145 | 303 |
 | 174 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.72 | 39 | 427 |
 | 174 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 0 | 516 |
-| 174 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 76 | 367 |
+| 174 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 77 | 367 |
 | 174 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.72 | 124 | 315 |
 | 174 | [Slipways](games/s/slipways.md) | 4.72 | 0 | 516 |
 | 174 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 322 | 232 |
@@ -200,7 +200,7 @@
 | 189 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.71 | 0 | 516 |
 | 199 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,567 | 71 |
 | 199 | [Black Book](games/b/black_book.md) | 4.70 | 30 | 462 |
-| 199 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 382 | 222 |
+| 199 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 384 | 222 |
 | 199 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 403 | 217 |
 | 199 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.70 | 0 | 516 |
 | 199 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.70 | 7,101 | 49 |
@@ -358,7 +358,7 @@
 | 355 | [Dead Space](games/d/dead_space.md) | 4.62 | 90 | 351 |
 | 355 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 282 | 241 |
 | 355 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 34 | 446 |
-| 355 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 76 | 367 |
+| 355 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 76 | 368 |
 | 355 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,456 | 123 |
 | 355 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.62 | 378 | 223 |
 | 355 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 563 | 189 |
@@ -384,7 +384,7 @@
 | 369 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.61 | 0 | 516 |
 | 369 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 0 | 516 |
 | 369 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 683 | 171 |
-| 369 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 105 | 332 |
+| 369 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 106 | 331 |
 | 369 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 493 | 200 |
 | 369 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 9,937 | 37 |
 | 369 | [RiME](games/r/rime.md) | 4.61 | 0 | 516 |
@@ -836,29 +836,29 @@
 | 829 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 297 | 239 |
 | 835 | [Against All Odds](games/a/against_all_odds.md) | 4.25 | 0 | 516 |
 | 835 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.25 | 22 | 495 |
+| 835 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 4.25 | 0 | 516 |
 | 835 | [EVE Online](games/e/eve_online.md) | 4.25 | 1,069 | 139 |
 | 835 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 0 | 516 |
 | 835 | [Starsand](games/s/starsand.md) | 4.25 | 0 | 516 |
 | 835 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.25 | 0 | 516 |
 | 835 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 0 | 516 |
-| 842 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 516 |
-| 842 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 460 |
-| 842 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 0 | 516 |
-| 842 | [OVERPASS™](games/o/overpass™.md) | 4.24 | 0 | 516 |
-| 842 | [Rise of Industry](games/r/rise_of_industry.md) | 4.24 | 0 | 516 |
-| 842 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 45 | 413 |
-| 842 | [The Bridge](games/t/the_bridge.md) | 4.24 | 0 | 516 |
-| 842 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.24 | 0 | 516 |
-| 842 | [The Surge 2](games/t/the_surge_2.md) | 4.24 | 0 | 516 |
-| 842 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 24 | 487 |
-| 852 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 145 |
-| 852 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.23 | 585 | 184 |
-| 852 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 0 | 516 |
-| 855 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 4.22 | 0 | 516 |
-| 855 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 179 | 284 |
-| 855 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.22 | 0 | 516 |
-| 855 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 207 | 271 |
-| 855 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.22 | 78 | 366 |
+| 843 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 516 |
+| 843 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 460 |
+| 843 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 0 | 516 |
+| 843 | [OVERPASS™](games/o/overpass™.md) | 4.24 | 0 | 516 |
+| 843 | [Rise of Industry](games/r/rise_of_industry.md) | 4.24 | 0 | 516 |
+| 843 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 45 | 413 |
+| 843 | [The Bridge](games/t/the_bridge.md) | 4.24 | 0 | 516 |
+| 843 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.24 | 0 | 516 |
+| 843 | [The Surge 2](games/t/the_surge_2.md) | 4.24 | 0 | 516 |
+| 843 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 24 | 487 |
+| 853 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 145 |
+| 853 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.23 | 585 | 184 |
+| 853 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 0 | 516 |
+| 856 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 179 | 284 |
+| 856 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.22 | 0 | 516 |
+| 856 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 207 | 271 |
+| 856 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.22 | 78 | 366 |
 | 860 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.21 | 0 | 516 |
 | 860 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 32 | 455 |
 | 860 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.21 | 0 | 516 |
@@ -871,7 +871,7 @@
 | 866 | [Druidstone: The Secret of the Menhir Forest](games/d/druidstone__the_secret_of_the_menhir_forest.md) | 4.20 | 0 | 516 |
 | 866 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 22 | 495 |
 | 866 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 0 | 516 |
-| 866 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 76 | 367 |
+| 866 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 76 | 368 |
 | 866 | [Somerville](games/s/somerville.md) | 4.20 | 0 | 516 |
 | 874 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 404 |
 | 874 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 33 | 449 |
