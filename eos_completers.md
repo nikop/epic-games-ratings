@@ -3,7 +3,7 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 51.85% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.90% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 36.36% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 36.09% |
 | 5 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 33.33% |
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.23% |
 | 7 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
@@ -94,7 +94,7 @@
 | 92 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.99% |
 | 93 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 1.98% |
 | 94 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
-| 95 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 1.88% |
+| 95 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 1.87% |
 | 96 | [Night Book](games/n/night_book.md) | 1.86% |
 | 97 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
 | 98 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
@@ -176,10 +176,10 @@
 | 171 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.35% |
 | 175 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.34% |
 | 176 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.33% |
-| 177 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.32% |
-| 178 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
-| 178 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
-| 178 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
+| 177 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
+| 177 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
+| 177 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.31% |
+| 177 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 181 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
 | 181 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
 | 183 | [Against the Storm](games/a/against_the_storm.md) | 0.28% |
