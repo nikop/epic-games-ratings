@@ -11351,9 +11351,9 @@
       "Count": 5757
     }
   ],
-  "EOS_Progressed": 874235,
+  "EOS_Progressed": 874237,
   "EOS_Completed": 2053,
-  "EOS_NewPlayers": 1328,
+  "EOS_NewPlayers": 1327,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -26416,6 +26416,11 @@
       "Time": "2023-09-03T01:46:20.1430232+00:00",
       "NumProgressed": 874235,
       "NumCompleted": 2053
+    },
+    {
+      "Time": "2023-09-03T02:19:23.219159+00:00",
+      "NumProgressed": 874237,
+      "NumCompleted": 2053
     }
   ],
   "TotalAchievements": 44,
@@ -26435,7 +26440,7 @@
       "Name": "To Bad Decisions!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 61196
+      "UsersEstimate": 61197
     },
     {
       "ID": "BushidoAndChill",
@@ -26451,7 +26456,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 157362
+      "UsersEstimate": 157363
     },
     {
       "ID": "Denied",
@@ -26499,7 +26504,7 @@
       "Name": "Gun Fu",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 131135
+      "UsersEstimate": 131136
     },
     {
       "ID": "Gunslinger",
@@ -26547,7 +26552,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 201074
+      "UsersEstimate": 201075
     },
     {
       "ID": "MaxPain",
@@ -26595,7 +26600,7 @@
       "Name": "Life of the Road",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 183589
+      "UsersEstimate": 183590
     },
     {
       "ID": "Roleplayer",
@@ -26603,7 +26608,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 253528
+      "UsersEstimate": 253529
     },
     {
       "ID": "Specialist",
@@ -26643,7 +26648,7 @@
       "Name": "The Fool",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 603222
+      "UsersEstimate": 603224
     },
     {
       "ID": "TheHermit",
@@ -26667,7 +26672,7 @@
       "Name": "The Lovers",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 305982
+      "UsersEstimate": 305983
     },
     {
       "ID": "TheStar",
@@ -26675,7 +26680,7 @@
       "Name": "The Star",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 61196
+      "UsersEstimate": 61197
     },
     {
       "ID": "TheSun",
@@ -26683,7 +26688,7 @@
       "Name": "The Sun",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 61196
+      "UsersEstimate": 61197
     },
     {
       "ID": "TheWheelOfFortune",
@@ -26691,7 +26696,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 236043
+      "UsersEstimate": 236044
     },
     {
       "ID": "TheWorld",
@@ -26699,7 +26704,7 @@
       "Name": "The World",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 157362
+      "UsersEstimate": 157363
     },
     {
       "ID": "ThisIsPacifica",
@@ -26723,7 +26728,7 @@
       "Name": "True Soldier",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 201074
+      "UsersEstimate": 201075
     },
     {
       "ID": "TrueWarrior",
@@ -26731,7 +26736,7 @@
       "Name": "True Warrior",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 131135
+      "UsersEstimate": 131136
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -26778,21 +26783,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 874235,
+      "Progressed": 874237,
       "Completed": 2053
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 2858,
-      "Completed": 2858
+      "Progressed": 2860,
+      "Completed": 2860
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-09-02T21:57:55.6441669+00:00",
-  "LastChanged_Achievements": "2023-09-03T01:46:20.1430227+00:00",
+  "LastChanged_Achievements": "2023-09-03T02:19:23.2191582+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:30.2017845+00:00",
-  "LastUpdate_Ratings": "2023-09-03T01:40:45.4008603+00:00",
-  "LastUpdate_Achievements": "2023-09-03T01:46:20.1431203+00:00"
+  "LastUpdate_Ratings": "2023-09-03T02:13:35.5035315+00:00",
+  "LastUpdate_Achievements": "2023-09-03T02:19:23.2193894+00:00"
 }

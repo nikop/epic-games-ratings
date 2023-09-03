@@ -2,7 +2,7 @@
   "ID": "38d778eab1134c7f9bc4e0e5747b3ea4",
   "Name": "Time Loader",
   "ProductSlug": "time-loader",
-  "Ranking_EOS_Progress": 329,
+  "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 42,
   "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 101,
@@ -186,9 +186,9 @@
       "ID": "03_Cassette",
       "SetID": "681m9fa",
       "Name": "Cassette",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "04_Mug",
@@ -411,8 +411,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.0272628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.4088384+00:00",
   "LastChanged": "2023-03-31T05:58:23.0272628+00:00",
-  "LastChanged_Achievements": "2023-09-03T01:45:09.9879657+00:00",
+  "LastChanged_Achievements": "2023-09-03T02:18:15.6001882+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:21.7557338+00:00",
-  "LastUpdate_Ratings": "2023-09-03T01:40:40.0517881+00:00",
-  "LastUpdate_Achievements": "2023-09-03T01:45:09.9879857+00:00"
+  "LastUpdate_Ratings": "2023-09-03T02:13:29.6247161+00:00",
+  "LastUpdate_Achievements": "2023-09-03T02:18:15.6002124+00:00"
 }

@@ -774,9 +774,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 220583,
+  "EOS_Progressed": 220594,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2788,
+  "EOS_NewPlayers": 2789,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9334,6 +9334,11 @@
       "Time": "2023-09-03T01:47:08.1914319+00:00",
       "NumProgressed": 220583,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-03T02:20:19.255254+00:00",
+      "NumProgressed": 220594,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -9393,7 +9398,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6617
+      "UsersEstimate": 6618
     },
     {
       "ID": "Chapter2",
@@ -9745,7 +9750,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6617
+      "UsersEstimate": 6618
     },
     {
       "ID": "DwarfElf15Support",
@@ -9793,7 +9798,7 @@
       "Name": "Sowwy!",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 59557
+      "UsersEstimate": 59560
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -9841,7 +9846,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8823
+      "UsersEstimate": 8824
     },
     {
       "ID": "FollowBraztok",
@@ -9865,7 +9870,7 @@
       "Name": "I\u0027ve seen that beard before! It was on sale, and came with a broomstick and a bucket!",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1323
+      "UsersEstimate": 1324
     },
     {
       "ID": "KillDungeonLich",
@@ -10048,21 +10053,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 220583,
+      "Progressed": 220594,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 220583,
+      "Progressed": 220594,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-02T14:58:06.8482172+00:00",
-  "LastChanged_Achievements": "2023-09-03T01:47:08.1914314+00:00",
+  "LastChanged_Achievements": "2023-09-03T02:20:19.2552531+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:55.2312629+00:00",
-  "LastUpdate_Ratings": "2023-09-03T01:41:01.3452086+00:00",
-  "LastUpdate_Achievements": "2023-09-03T01:47:08.191554+00:00"
+  "LastUpdate_Ratings": "2023-09-03T02:13:56.7634856+00:00",
+  "LastUpdate_Achievements": "2023-09-03T02:20:19.2555306+00:00"
 }

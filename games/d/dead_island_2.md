@@ -24,12 +24,12 @@ Rating: 4.54 (Ranked 504)
 | Like Riding a Bike | 0.60% | ~4,033 |
 | Zombologist | 0.60% | ~4,033 |
 | A Patton Emerges | 0.60% | ~4,033 |
-| Anger Management | 0.50% | ~3,360 |
-| Perks of the Job | 0.50% | ~3,360 |
-| I Got a Zombie Army and You Can't Harm Me | 0.50% | ~3,360 |
-| Ooh, Shiny! | 0.50% | ~3,360 |
-| I Am the Resurrection | 0.50% | ~3,360 |
-| Our True Nature | 0.50% | ~3,360 |
+| Anger Management | 0.50% | ~3,361 |
+| Perks of the Job | 0.50% | ~3,361 |
+| I Got a Zombie Army and You Can't Harm Me | 0.50% | ~3,361 |
+| Ooh, Shiny! | 0.50% | ~3,361 |
+| I Am the Resurrection | 0.50% | ~3,361 |
+| Our True Nature | 0.50% | ~3,361 |
 | Making Your Mark | 0.40% | ~2,688 |
 | Humanity Distilled | 0.40% | ~2,688 |
 | Down with the Sickness | 0.40% | ~2,688 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 504)
 | Survival Skills | 0.10% | ~672 |
 | Bucket List | 0.10% | ~672 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 672,093 (Ranked 22)  
+Progressed: 672,110 (Ranked 22)  
 Completed: 2,104 (0.31%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 2,104 (0.31%) (Ranked 178)
 | 2023-08-31 | 670,394 | 2,097 |
 | 2023-09-01 | 671,108 | 2,097 |
 | 2023-09-02 | 672,029 | 2,103 |
-| 2023-09-03 | 672,093 | 2,104 |
+| 2023-09-03 | 672,110 | 2,104 |
 ## Awards
 Max (Great Boss Battles): 5,867  (Ranked 59)  
 Sum: 8,645 (Ranked 95)  

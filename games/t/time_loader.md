@@ -17,7 +17,7 @@
 | Act 2 | 24.00% | ~29 |
 | Harpoon | 21.00% | ~25 |
 | Act 3 | 21.00% | ~25 |
-| Cassette | 19.00% | ~23 |
+| Cassette | 20.00% | ~24 |
 | Here we go again | 19.00% | ~23 |
 | Flyer | 17.00% | ~20 |
 | It’s in the Vault | 14.00% | ~17 |
@@ -34,7 +34,7 @@
 | Leave me alone | 8.00% | ~10 |
 | Secret ending | 8.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 119 (Ranked 329)  
+Progressed: 119 (Ranked 330)  
 Completed: 8 (6.72%) (Ranked 42)  
 ## EOS Players History
 | Date | Progressed | Completed |

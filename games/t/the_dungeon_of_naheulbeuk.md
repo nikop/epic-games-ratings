@@ -6,10 +6,10 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 27.00% | ~59,557 |
-| Alt+F4 | 4.00% | ~8,823 |
-| Déjà vu | 3.00% | ~6,617 |
-| Where's that freaking Dwarf? | 3.00% | ~6,617 |
+| Sowwy! | 27.00% | ~59,560 |
+| Alt+F4 | 4.00% | ~8,824 |
+| Déjà vu | 3.00% | ~6,618 |
+| Where's that freaking Dwarf? | 3.00% | ~6,618 |
 | A beer, two curses, three companions | 2.00% | ~4,412 |
 | Sock! SOCK! | 2.00% | ~4,412 |
 | GG EZ | 2.00% | ~4,412 |
@@ -39,7 +39,7 @@ Number of Ratings: 118  (23.09.2022)
 | The Famous Dungeon of Naheulbeuk | 0.70% | ~1,544 |
 | Dwarf Fortress | 0.70% | ~1,544 |
 | Look but don't touch | 0.70% | ~1,544 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.60% | ~1,323 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.60% | ~1,324 |
 | Dead for good | 0.50% | ~1,103 |
 | Gargantua | 0.50% | ~1,103 |
 | Lust and Debauchery | 0.50% | ~1,103 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~221 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,583 (Ranked 57)  
+Progressed: 220,594 (Ranked 57)  
 Completed: 2 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 2 (0.00%) (Ranked 271)
 | 2023-08-31 | 219,794 | 2 |
 | 2023-09-01 | 220,165 | 2 |
 | 2023-09-02 | 220,547 | 2 |
-| 2023-09-03 | 220,583 | 2 |
+| 2023-09-03 | 220,594 | 2 |
 ## Awards
 Max (Character Customization): 189  (Ranked 278)  
 Sum: 238 (Ranked 359)  

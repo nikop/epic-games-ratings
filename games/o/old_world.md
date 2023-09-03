@@ -49,6 +49,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Necropolis | 2.00% | ~275 |
 | Pyramids | 2.00% | ~275 |
 | Learn to Play 1 | 2.00% | ~275 |
+| Learn to Play 2 | 2.00% | ~275 |
 | Christianity | 2.00% | ~275 |
 | Judaism | 2.00% | ~275 |
 | Manichaeism | 2.00% | ~275 |
@@ -60,31 +61,30 @@ Number of Ratings: 1,307  (23.09.2022)
 | Zoroastrianism | 2.00% | ~275 |
 | The Great Mage | 2.00% | ~275 |
 | Poetic Leader | 2.00% | ~275 |
-| Hanging Gardens in Babylon | 1.00% | ~137 |
-| Beloved | 1.00% | ~137 |
-| Drillmaster | 1.00% | ~137 |
-| Conqueror | 1.00% | ~137 |
-| Intercessor | 1.00% | ~137 |
-| Mighty | 1.00% | ~137 |
-| Valiant | 1.00% | ~137 |
-| Victorious | 1.00% | ~137 |
-| Legendary Cities | 1.00% | ~137 |
-| Just Difficulty | 1.00% | ~137 |
-| Artisans | 1.00% | ~137 |
-| Champions | 1.00% | ~137 |
-| Patrons | 1.00% | ~137 |
-| Sages | 1.00% | ~137 |
-| Acropolis | 1.00% | ~137 |
-| Temple of Solomon | 1.00% | ~137 |
-| Mausoleum | 1.00% | ~137 |
-| Via Recta Souk | 1.00% | ~137 |
-| Learn to Play 2 | 1.00% | ~137 |
-| Greece | 1.00% | ~137 |
-| Persian Paganism | 1.00% | ~137 |
-| Building Wonders | 1.00% | ~137 |
-| Legalism | 1.00% | ~137 |
-| Mythology | 1.00% | ~137 |
-| Points Victory | 1.00% | ~137 |
+| Hanging Gardens in Babylon | 1.00% | ~138 |
+| Beloved | 1.00% | ~138 |
+| Drillmaster | 1.00% | ~138 |
+| Conqueror | 1.00% | ~138 |
+| Intercessor | 1.00% | ~138 |
+| Mighty | 1.00% | ~138 |
+| Valiant | 1.00% | ~138 |
+| Victorious | 1.00% | ~138 |
+| Legendary Cities | 1.00% | ~138 |
+| Just Difficulty | 1.00% | ~138 |
+| Artisans | 1.00% | ~138 |
+| Champions | 1.00% | ~138 |
+| Patrons | 1.00% | ~138 |
+| Sages | 1.00% | ~138 |
+| Acropolis | 1.00% | ~138 |
+| Temple of Solomon | 1.00% | ~138 |
+| Mausoleum | 1.00% | ~138 |
+| Via Recta Souk | 1.00% | ~138 |
+| Greece | 1.00% | ~138 |
+| Persian Paganism | 1.00% | ~138 |
+| Building Wonders | 1.00% | ~138 |
+| Legalism | 1.00% | ~138 |
+| Mythology | 1.00% | ~138 |
+| Points Victory | 1.00% | ~138 |
 | Lion | 0.90% | ~124 |
 | Good Difficulty | 0.90% | ~124 |
 | Statesmen | 0.90% | ~124 |
@@ -162,22 +162,22 @@ Number of Ratings: 1,307  (23.09.2022)
 | Necropolis in Waset | 0.30% | ~41 |
 | Patriarch St Paul | 0.30% | ~41 |
 | Hypatia the Teacher | 0.30% | ~41 |
-| Silver Victory (Carthage 1) | 0.20% | ~27 |
-| Carthage - Riches and Influence | 0.20% | ~27 |
-| Cleopatra's Love | 0.20% | ~27 |
-| Great Difficulty | 0.20% | ~27 |
-| Magnificent Difficulty | 0.20% | ~27 |
-| Event Level High | 0.20% | ~27 |
-| Run, Pheidippides, Run! | 0.20% | ~27 |
-| Nenikekamen | 0.20% | ~27 |
-| Macedonian Wars | 0.20% | ~27 |
-| Assyria | 0.20% | ~27 |
-| Apadana in Parsa | 0.20% | ~27 |
-| Play a MP Teams Game | 0.20% | ~27 |
-| Play a Play-By-Cloud Game | 0.20% | ~27 |
-| Punic Wars | 0.20% | ~27 |
-| Circus Maximus in Roma | 0.20% | ~27 |
-| Pantheon in Roma | 0.20% | ~27 |
+| Silver Victory (Carthage 1) | 0.20% | ~28 |
+| Carthage - Riches and Influence | 0.20% | ~28 |
+| Cleopatra's Love | 0.20% | ~28 |
+| Great Difficulty | 0.20% | ~28 |
+| Magnificent Difficulty | 0.20% | ~28 |
+| Event Level High | 0.20% | ~28 |
+| Run, Pheidippides, Run! | 0.20% | ~28 |
+| Nenikekamen | 0.20% | ~28 |
+| Macedonian Wars | 0.20% | ~28 |
+| Assyria | 0.20% | ~28 |
+| Apadana in Parsa | 0.20% | ~28 |
+| Play a MP Teams Game | 0.20% | ~28 |
+| Play a Play-By-Cloud Game | 0.20% | ~28 |
+| Punic Wars | 0.20% | ~28 |
+| Circus Maximus in Roma | 0.20% | ~28 |
+| Pantheon in Roma | 0.20% | ~28 |
 | Centenarian | 0.10% | ~14 |
 | Lighthouse in Alexandria | 0.10% | ~14 |
 | Musaeum in Alexandria | 0.10% | ~14 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,749 (Ranked 120)  
+Progressed: 13,750 (Ranked 120)  
 Completed: 5 (0.04%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -439,6 +439,7 @@ Completed: 5 (0.04%) (Ranked 240)
 | 2023-08-31 | 13,711 | 5 |
 | 2023-09-01 | 13,732 | 5 |
 | 2023-09-02 | 13,749 | 5 |
+| 2023-09-03 | 13,750 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 265)  
 Sum: 1,801 (Ranked 207)  

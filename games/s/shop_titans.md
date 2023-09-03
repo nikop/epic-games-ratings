@@ -36,6 +36,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Research & Development | 0.50% | ~678 |
 | Vanity, Verily | 0.50% | ~678 |
 | Blank Page Syndrome | 0.50% | ~678 |
+| Power of Love | 0.50% | ~678 |
 | Efficient Floor Space | 0.50% | ~678 |
 | Flawless Fusion | 0.50% | ~678 |
 | Gem Expert | 0.50% | ~678 |
@@ -52,7 +53,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Flying off the Shelves | 0.40% | ~542 |
 | This Power Level...! | 0.40% | ~542 |
 | Hidden Potential | 0.40% | ~542 |
-| Power of Love | 0.40% | ~542 |
 | Expansion in Session | 0.40% | ~542 |
 | Trash to Treasure | 0.40% | ~542 |
 | Royal Ransom | 0.40% | ~542 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,556 (Ranked 67)  
+Progressed: 135,561 (Ranked 67)  
 Completed: 140 (0.10%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 140 (0.10%) (Ranked 218)
 | 2023-08-31 | 135,446 | 140 |
 | 2023-09-01 | 135,508 | 140 |
 | 2023-09-02 | 135,551 | 140 |
-| 2023-09-03 | 135,556 | 140 |
+| 2023-09-03 | 135,561 | 140 |
 ## Awards
 Max (Great for Beginners): 4,719  (Ranked 70)  
 Sum: 27,164 (Ranked 46)  

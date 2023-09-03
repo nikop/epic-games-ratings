@@ -48,7 +48,7 @@
   "Tags": [],
   "EOS_Progressed": 653,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 217,
+  "EOS_NewPlayers": 216,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1196,9 +1196,9 @@
       "ID": "AC30",
       "SetID": "l4abp0",
       "Name": "The Anointed One",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 326
+      "UsersEstimate": 333
     },
     {
       "ID": "AC31",
@@ -1333,8 +1333,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-02T10:03:53.5800972+00:00",
-  "LastChanged_Achievements": "2023-09-03T01:48:55.8603925+00:00",
+  "LastChanged_Achievements": "2023-09-03T02:22:28.3477993+00:00",
   "LastUpdate_AppInfo": "2023-08-29T18:57:21.35462+00:00",
-  "LastUpdate_Ratings": "2023-09-03T01:42:59.9664565+00:00",
-  "LastUpdate_Achievements": "2023-09-03T01:48:55.8604278+00:00"
+  "LastUpdate_Ratings": "2023-09-03T02:16:27.5571975+00:00",
+  "LastUpdate_Achievements": "2023-09-03T02:22:28.347844+00:00"
 }
