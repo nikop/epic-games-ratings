@@ -32,7 +32,7 @@
 | 30 | [Sonic Origins](games/s/sonic_origins.md) | 9.11% |
 | 31 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 9.09% |
 | 31 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
-| 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.94% |
+| 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.98% |
 | 34 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.89% |
 | 35 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.61% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.81% |
@@ -81,8 +81,8 @@
 | 79 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.70% |
 | 79 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.70% |
 | 81 | [The Bunker](games/t/the_bunker.md) | 2.59% |
-| 82 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.58% |
-| 83 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.57% |
+| 82 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.57% |
+| 82 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.57% |
 | 84 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.56% |
 | 85 | [Lamentum](games/l/lamentum.md) | 2.53% |
 | 86 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.50% |
@@ -91,7 +91,7 @@
 | 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.28% |
 | 90 | [Bloodshore](games/b/bloodshore.md) | 2.19% |
 | 91 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
-| 92 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.99% |
+| 92 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.00% |
 | 93 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 1.97% |
 | 94 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
 | 95 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 1.87% |
@@ -110,7 +110,7 @@
 | 108 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.49% |
 | 109 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.44% |
 | 109 | [Ten Dates](games/t/ten_dates.md) | 1.44% |
-| 111 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.43% |
+| 111 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.42% |
 | 112 | [Poosh XL](games/p/poosh_xl.md) | 1.39% |
 | 113 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.33% |
 | 114 | [Late Shift](games/l/late_shift.md) | 1.25% |
@@ -135,7 +135,7 @@
 | 133 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.71% |
 | 133 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.71% |
 | 135 | [Lemon Cake](games/l/lemon_cake.md) | 0.69% |
-| 135 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.69% |
+| 136 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.68% |
 | 137 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.67% |
 | 138 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.65% |
 | 139 | [Haven](games/h/haven.md) | 0.64% |
