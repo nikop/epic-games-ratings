@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 89,
   "Ranking_EOS_Progress": 572,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 351,
+  "Ranking_EOS_NewPlayers": 352,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2020-08-07T15:00:00+00:00",
@@ -5189,10 +5189,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 9479,
       "NumberOfAwardsMax": 4461
+    },
+    {
+      "Time": "2023-09-03T23:00:17.7859044+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 9481,
+      "NumberOfAwardsMax": 4461
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9479,
+  "NumberOfAwards": 9481,
   "NumberOfAwardsMax": 4461,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5242,7 +5248,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 230
+      "Count": 232
     },
     {
       "Text": "This game has Diverse Characters",
@@ -5280,8 +5286,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:54.5867721+00:00",
-  "LastChanged": "2023-09-03T20:01:11.6524385+00:00",
+  "LastChanged": "2023-09-03T23:00:17.7859042+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:58:04.4164587+00:00",
-  "LastUpdate_Ratings": "2023-09-03T21:59:58.2480372+00:00",
+  "LastUpdate_Ratings": "2023-09-03T23:00:17.7859048+00:00",
   "LastUpdate_Achievements": "2023-09-03T22:06:38.2407958+00:00"
 }

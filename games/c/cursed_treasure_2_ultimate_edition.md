@@ -38,20 +38,20 @@
 | It's a Trap | 53.00% | ~89 |
 | Starry: Holy Mountain | 52.00% | ~87 |
 | Brilliant: Arcania | 50.00% | ~84 |
-| Deposition | 48.00% | ~80 |
+| Deposition | 49.00% | ~82 |
 | Starry: Tanglewood | 46.00% | ~77 |
 | Starry: Arcania | 43.00% | ~72 |
 | Sing, My Angel | 42.00% | ~70 |
-| The Coreland | 39.00% | ~65 |
+| The Coreland | 40.00% | ~67 |
 | Feed the Fishes | 37.00% | ~62 |
 | Starry: The Coreland | 37.00% | ~62 |
 | Brilliant: Wasteland | 33.00% | ~55 |
 | Father of Nation | 33.00% | ~55 |
 | Dwarven Countdown | 30.00% | ~50 |
 | Starry: Wasteland | 28.00% | ~47 |
+| Monument Keeper | 27.00% | ~45 |
 | Brilliant: Free Coast | 26.00% | ~43 |
 | Deadman's Chest | 26.00% | ~43 |
-| Monument Keeper | 26.00% | ~43 |
 | Brilliant: The Deep | 23.00% | ~38 |
 | Starry: Free Coast | 23.00% | ~38 |
 | Starry: The Deep | 22.00% | ~37 |

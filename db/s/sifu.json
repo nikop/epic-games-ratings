@@ -5896,18 +5896,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 11046,
       "NumberOfAwardsMax": 6424
+    },
+    {
+      "Time": "2023-09-03T22:59:04.2842766+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 11052,
+      "NumberOfAwardsMax": 6430
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11046,
-  "NumberOfAwardsMax": 6424,
+  "NumberOfAwards": 11052,
+  "NumberOfAwardsMax": 6430,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6424
+      "Count": 6430
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5976,9 +5982,9 @@
       "Count": 374
     }
   ],
-  "EOS_Progressed": 712928,
+  "EOS_Progressed": 712929,
   "EOS_Completed": 12882,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -18436,6 +18442,11 @@
       "Time": "2023-09-03T21:08:40.7568853+00:00",
       "NumProgressed": 712928,
       "NumCompleted": 12882
+    },
+    {
+      "Time": "2023-09-03T23:06:39.2319411+00:00",
+      "NumProgressed": 712929,
+      "NumCompleted": 12882
     }
   ],
   "TotalAchievements": 50,
@@ -18519,7 +18530,7 @@
       "Name": "Iron Money",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 4990
+      "UsersEstimate": 4991
     },
     {
       "ID": "11_Wude_H5",
@@ -18527,7 +18538,7 @@
       "Name": "Legendary Talismans of Wuxing",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 4990
+      "UsersEstimate": 4991
     },
     {
       "ID": "12_MidAge",
@@ -18663,7 +18674,7 @@
       "Name": "The 36th Chamber of Kung-Fu",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 4990
+      "UsersEstimate": 4991
     },
     {
       "ID": "29_FocusAttack_Trophy",
@@ -18703,7 +18714,7 @@
       "Name": "Sword Stained With Blood",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 4990
+      "UsersEstimate": 4991
     },
     {
       "ID": "34_TimedTakedown",
@@ -18846,21 +18857,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 22229,
+      "Progressed": 22230,
       "Completed": 10581
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 712928,
+      "Progressed": 712929,
       "Completed": 12882
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-09-03T13:58:59.8221041+00:00",
-  "LastChanged_Achievements": "2023-09-03T22:06:29.8823718+00:00",
+  "LastChanged": "2023-09-03T22:59:04.2842765+00:00",
+  "LastChanged_Achievements": "2023-09-03T23:06:39.2319406+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:56.9584317+00:00",
-  "LastUpdate_Ratings": "2023-09-03T21:58:48.9237457+00:00",
-  "LastUpdate_Achievements": "2023-09-03T22:06:29.8824902+00:00"
+  "LastUpdate_Ratings": "2023-09-03T22:59:04.284277+00:00",
+  "LastUpdate_Achievements": "2023-09-03T23:06:39.2320318+00:00"
 }

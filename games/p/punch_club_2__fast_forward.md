@@ -11,7 +11,7 @@
 | Your first job | 83.00% | ~259 |
 | Old movies enjoyer | 79.00% | ~246 |
 | Fitness professional | 78.00% | ~243 |
-| Depressed visitor | 77.00% | ~240 |
+| Depressed visitor | 78.00% | ~243 |
 | Neurotrainer – power gainer! | 76.00% | ~237 |
 | Employee of the week | 76.00% | ~237 |
 | Your own amateur gym | 74.00% | ~231 |
@@ -20,13 +20,13 @@
 | Hello, world! | 69.00% | ~215 |
 | Fighting is cool | 68.00% | ~212 |
 | No bullying more | 67.00% | ~209 |
-| Pal of your father? | 65.00% | ~203 |
+| Pal of your father? | 66.00% | ~206 |
 | Employee of the month | 65.00% | ~203 |
 | Spirit of the past | 63.00% | ~197 |
+| Workout professional | 62.00% | ~193 |
 | Law student | 62.00% | ~193 |
-| Workout professional | 61.00% | ~190 |
 | Handyman | 60.00% | ~187 |
-| Champion – starter pack | 59.00% | ~184 |
+| Champion – starter pack | 60.00% | ~187 |
 | It's good to be alive | 59.00% | ~184 |
 | Own four walls | 59.00% | ~184 |
 | Employee of the year | 59.00% | ~184 |
@@ -72,7 +72,7 @@
 | The only right decision | 27.00% | ~84 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 312 (Ranked 274)  
-Completed: 8 (2.56%) (Ranked 83)  
+Completed: 8 (2.56%) (Ranked 82)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

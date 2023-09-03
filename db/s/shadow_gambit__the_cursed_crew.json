@@ -40,7 +40,7 @@
   "Tags": [],
   "EOS_Progressed": 589,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.87,
   "EosHistory": [
@@ -1418,9 +1418,9 @@
       "ID": "_01_AllIslands",
       "SetID": "8a1io5d",
       "Name": "Somewhere Deep in the Lost Caribbean",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 153
+      "UsersEstimate": 159
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -1635,8 +1635,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-03T13:01:00.5241113+00:00",
-  "LastChanged_Achievements": "2023-09-03T22:05:29.0180981+00:00",
+  "LastChanged_Achievements": "2023-09-03T23:05:46.9720847+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:46.0913582+00:00",
-  "LastUpdate_Ratings": "2023-09-03T21:58:02.2248196+00:00",
-  "LastUpdate_Achievements": "2023-09-03T22:05:29.0181257+00:00"
+  "LastUpdate_Ratings": "2023-09-03T22:58:13.4260074+00:00",
+  "LastUpdate_Achievements": "2023-09-03T23:05:46.9721057+00:00"
 }

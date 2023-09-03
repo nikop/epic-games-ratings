@@ -8,12 +8,12 @@
 | Treasure Hunter | 14.00% | ~8 |
 | Space Invader | 9.00% | ~5 |
 | Budget Killer | 7.00% | ~4 |
-| One Man Army | 5.00% | ~3 |
+| One Man Army | 7.00% | ~4 |
+| In the Can | 5.00% | ~3 |
 | What's my line again? | 3.00% | ~2 |
 | Extra Life | 3.00% | ~2 |
 | Who's gonna pay for that? | 3.00% | ~2 |
 | Meet Your Makers | 3.00% | ~2 |
-| In the Can | 3.00% | ~2 |
 | O' Captain! My Captain! | 2.00% | ~1 |
 | Secret of the Mines | 2.00% | ~1 |
 | Unboxing Video | 2.00% | ~1 |

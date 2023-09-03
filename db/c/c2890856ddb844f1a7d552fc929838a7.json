@@ -5,9 +5,9 @@
   "Ranking_Rating": 77,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
-  "Ranking_EOS_Progress": 222,
+  "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -46,9 +46,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 676,
+  "EOS_Progressed": 677,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1016,6 +1016,11 @@
       "Time": "2023-09-03T22:06:11.2544865+00:00",
       "NumProgressed": 676,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-03T23:06:19.9751917+00:00",
+      "NumProgressed": 677,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -1036,7 +1041,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "AC02",
@@ -1066,17 +1071,17 @@
       "ID": "AC05",
       "SetID": "l4abp0",
       "Name": "The Sharpest Tool in the Shed",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 385
+      "UsersEstimate": 393
     },
     {
       "ID": "AC06",
       "SetID": "l4abp0",
       "Name": "The Last Ascension",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 331
+      "UsersEstimate": 325
     },
     {
       "ID": "AC07",
@@ -1092,7 +1097,7 @@
       "Name": "Forged in Fire",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "AC09",
@@ -1100,7 +1105,7 @@
       "Name": "Fermosa Fembra",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "AC10",
@@ -1114,9 +1119,9 @@
       "ID": "AC11",
       "SetID": "l4abp0",
       "Name": "A Heart of Gold",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 169
+      "UsersEstimate": 176
     },
     {
       "ID": "AC12",
@@ -1124,7 +1129,7 @@
       "Name": "Canvas of Light and Time",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "AC13",
@@ -1132,7 +1137,7 @@
       "Name": "Second Psalm.",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "AC14",
@@ -1140,7 +1145,7 @@
       "Name": "Acta, Non Verba",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "AC15",
@@ -1196,7 +1201,7 @@
       "Name": "No Cherub Left Behind",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "AC22",
@@ -1218,9 +1223,9 @@
       "ID": "AC24",
       "SetID": "l4abp0",
       "Name": "The Work of a Master",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 95
+      "UsersEstimate": 102
     },
     {
       "ID": "AC25",
@@ -1252,7 +1257,7 @@
       "Name": "The Punished One",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "AC29",
@@ -1266,9 +1271,9 @@
       "ID": "AC30",
       "SetID": "l4abp0",
       "Name": "The Anointed One",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 345
+      "UsersEstimate": 352
     },
     {
       "ID": "AC31",
@@ -1292,7 +1297,7 @@
       "Name": "Ultima Ratio",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "AC34",
@@ -1330,9 +1335,9 @@
       "ID": "AC38",
       "SetID": "l4abp0",
       "Name": "Edge of Orison",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 183
     },
     {
       "ID": "AC39",
@@ -1395,7 +1400,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 676,
+      "Progressed": 677,
       "Completed": 0
     }
   ],
@@ -1403,8 +1408,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-02T10:03:53.5800972+00:00",
-  "LastChanged_Achievements": "2023-09-03T22:06:11.2544862+00:00",
+  "LastChanged_Achievements": "2023-09-03T23:06:19.975191+00:00",
   "LastUpdate_AppInfo": "2023-08-29T18:57:21.35462+00:00",
-  "LastUpdate_Ratings": "2023-09-03T22:00:07.9587587+00:00",
-  "LastUpdate_Achievements": "2023-09-03T22:06:11.2545291+00:00"
+  "LastUpdate_Ratings": "2023-09-03T23:00:28.3220336+00:00",
+  "LastUpdate_Achievements": "2023-09-03T23:06:19.975224+00:00"
 }

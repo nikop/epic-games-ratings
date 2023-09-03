@@ -4,7 +4,7 @@
   "ProductSlug": "sword-and-fairy-inn-2-39760f",
   "Ranking_EOS_Progress": 572,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 351,
+  "Ranking_EOS_NewPlayers": 352,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -439,8 +439,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-30T17:02:12.1878614+00:00",
-  "LastChanged_Achievements": "2023-09-03T22:03:31.4142391+00:00",
+  "LastChanged_Achievements": "2023-09-03T23:03:43.8102588+00:00",
   "LastUpdate_AppInfo": "2023-08-30T16:57:06.7087435+00:00",
-  "LastUpdate_Ratings": "2023-09-03T21:57:57.7874841+00:00",
-  "LastUpdate_Achievements": "2023-09-03T22:03:31.4142836+00:00"
+  "LastUpdate_Ratings": "2023-09-03T22:58:08.3106318+00:00",
+  "LastUpdate_Achievements": "2023-09-03T23:03:43.8102935+00:00"
 }

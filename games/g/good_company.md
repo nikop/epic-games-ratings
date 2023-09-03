@@ -45,7 +45,7 @@ Number of Ratings: 75  (23.09.2022)
 | Level: Topple The Top | 0.90% | ~48 |
 | Bet On Bots: Safety First | 0.80% | ~43 |
 | Tycoon | 0.80% | ~43 |
-| Merry-Go-Around: Self-Made | 0.70% | ~37 |
+| Merry-Go-Around: Self-Made | 0.70% | ~38 |
 | Level: Eye In The Sky | 0.60% | ~32 |
 | Bet On Bots: Inspector's Favorite | 0.60% | ~32 |
 | Trendsetter | 0.60% | ~32 |
@@ -83,7 +83,7 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~5 |
 | Prestigious | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,357 (Ranked 144)  
+Progressed: 5,358 (Ranked 144)  
 Completed: 1 (0.02%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 1 (0.02%) (Ranked 250)
 | 2023-08-31 | 5,339 | 1 |
 | 2023-09-01 | 5,343 | 1 |
 | 2023-09-02 | 5,353 | 1 |
-| 2023-09-03 | 5,357 | 1 |
+| 2023-09-03 | 5,358 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

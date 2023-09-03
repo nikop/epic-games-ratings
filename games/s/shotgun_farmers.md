@@ -27,8 +27,8 @@
 | Skin Of Your Teeth | 15.00% | ~42 |
 | Eggtraordinary | 15.00% | ~42 |
 | Carrocketeer | 15.00% | ~42 |
+| Oh My Gourd | 15.00% | ~34 |
 | This Is My Boomstick | 15.00% | ~34 |
-| Oh My Gourd | 14.00% | ~32 |
 | Quit Horsin' Around | 12.00% | ~34 |
 | Summers Here | 12.00% | ~28 |
 | Fresh Pancake | 10.00% | ~28 |

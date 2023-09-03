@@ -10,24 +10,24 @@ Rating: 4.54 (Ranked 504)
 | Break A Leg | 0.90% | ~6,056 |
 | Hazardous Materials | 0.90% | ~6,056 |
 | Personal Assistant Personally Assisted | 0.90% | ~6,056 |
-| Dr. Reed, I Presume? | 0.80% | ~5,383 |
-| Git Gutte! | 0.80% | ~5,383 |
-| Coup de Grâce | 0.80% | ~5,383 |
-| Friends Like These | 0.80% | ~5,383 |
-| Apex Predator | 0.80% | ~5,383 |
-| Stacking the Deck | 0.80% | ~5,383 |
-| Bookworm | 0.70% | ~4,710 |
-| But Doctor, I am Butcho | 0.70% | ~4,710 |
-| Slayer Squad | 0.70% | ~4,710 |
-| Can't Handle the Truth | 0.70% | ~4,710 |
-| Like Riding a Bike | 0.70% | ~4,710 |
-| Zombologist | 0.70% | ~4,710 |
-| A Patton Emerges | 0.70% | ~4,710 |
-| This is My Weapon | 0.70% | ~4,710 |
-| Anger Management | 0.60% | ~4,037 |
-| Ooh, Shiny! | 0.60% | ~4,037 |
-| I Am the Resurrection | 0.60% | ~4,037 |
-| Our True Nature | 0.60% | ~4,037 |
+| Dr. Reed, I Presume? | 0.80% | ~5,384 |
+| Git Gutte! | 0.80% | ~5,384 |
+| Coup de Grâce | 0.80% | ~5,384 |
+| Friends Like These | 0.80% | ~5,384 |
+| Apex Predator | 0.80% | ~5,384 |
+| Stacking the Deck | 0.80% | ~5,384 |
+| Bookworm | 0.70% | ~4,711 |
+| But Doctor, I am Butcho | 0.70% | ~4,711 |
+| Slayer Squad | 0.70% | ~4,711 |
+| Can't Handle the Truth | 0.70% | ~4,711 |
+| Like Riding a Bike | 0.70% | ~4,711 |
+| Zombologist | 0.70% | ~4,711 |
+| A Patton Emerges | 0.70% | ~4,711 |
+| This is My Weapon | 0.70% | ~4,711 |
+| Anger Management | 0.60% | ~4,038 |
+| Ooh, Shiny! | 0.60% | ~4,038 |
+| I Am the Resurrection | 0.60% | ~4,038 |
+| Our True Nature | 0.60% | ~4,038 |
 | Making Your Mark | 0.50% | ~3,365 |
 | Perks of the Job | 0.50% | ~3,365 |
 | I Got a Zombie Army and You Can't Harm Me | 0.50% | ~3,365 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 504)
 | Survival Skills | 0.10% | ~673 |
 | Bucket List | 0.10% | ~673 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 672,914 (Ranked 22)  
+Progressed: 672,940 (Ranked 22)  
 Completed: 2,111 (0.31%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,22 +187,22 @@ Completed: 2,111 (0.31%) (Ranked 177)
 | 2023-08-31 | 670,394 | 2,097 |
 | 2023-09-01 | 671,108 | 2,097 |
 | 2023-09-02 | 672,029 | 2,103 |
-| 2023-09-03 | 672,914 | 2,111 |
+| 2023-09-03 | 672,940 | 2,111 |
 ## Awards
 Max (Great Boss Battles): 5,889  (Ranked 59)  
-Sum: 8,679 (Ranked 95)  
+Sum: 8,684 (Ranked 95)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 5,889 |
-| This game is Great for Beginners | 391 |
+| This game is Great for Beginners | 393 |
 | This game has Diverse Characters | 387 |
 | This game has Quickly Understood Controls | 382 |
 | This game is Relaxing | 363 |
 | This game has Amazing Storytelling | 336 |
 | This game is Extremely Fun | 317 |
 | This game has Amazing Characters | 309 |
-| This game is Highly Recommended | 305 |
+| This game is Highly Recommended | 308 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -341,4 +341,4 @@ Diff (max vs sum): -36
 | 2023-08-31 | 4.54 | 5,841 | 8,595 |
 | 2023-09-01 | 4.54 | 5,846 | 8,613 |
 | 2023-09-02 | 4.54 | 5,867 | 8,645 |
-| 2023-09-03 | 4.54 | 5,889 | 8,679 |
+| 2023-09-03 | 4.54 | 5,889 | 8,684 |

@@ -462,9 +462,9 @@
       "ID": "SPEND_2000_COINS",
       "SetID": "aniflfk",
       "Name": "Crypto Bro",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "TAKE_LEECH",
@@ -478,9 +478,9 @@
       "ID": "UPGRADE_SMART_TOWER",
       "SetID": "aniflfk",
       "Name": "Strong Signal",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     }
   ],
   "AchievementSets": [
@@ -493,8 +493,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-03T22:06:28.0762651+00:00",
+  "LastChanged_Achievements": "2023-09-03T23:06:37.2809185+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:06.6191746+00:00",
-  "LastUpdate_Ratings": "2023-09-03T21:56:54.6641707+00:00",
-  "LastUpdate_Achievements": "2023-09-03T22:06:28.0762799+00:00"
+  "LastUpdate_Ratings": "2023-09-03T22:57:11.4199449+00:00",
+  "LastUpdate_Achievements": "2023-09-03T23:06:37.2809322+00:00"
 }

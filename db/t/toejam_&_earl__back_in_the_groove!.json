@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 56741,
+  "EOS_Progressed": 56742,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8742,6 +8742,11 @@
       "Time": "2023-09-03T22:04:32.9497554+00:00",
       "NumProgressed": 56741,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-03T23:04:48.3046766+00:00",
+      "NumProgressed": 56742,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 49,
@@ -8897,7 +8902,7 @@
       "Name": "HFZ Goober",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3404
+      "UsersEstimate": 3405
     },
     {
       "ID": "HarshLove",
@@ -9089,7 +9094,7 @@
       "Name": "Thrill Seeker",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3404
+      "UsersEstimate": 3405
     },
     {
       "ID": "TimelySplash",
@@ -9144,7 +9149,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 56741,
+      "Progressed": 56742,
       "Completed": 5
     }
   ],
@@ -9152,8 +9157,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-03-31T17:59:29.6978698+00:00",
-  "LastChanged_Achievements": "2023-09-03T22:04:32.9497548+00:00",
+  "LastChanged_Achievements": "2023-09-03T23:04:48.3046761+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:35.840449+00:00",
-  "LastUpdate_Ratings": "2023-09-03T22:00:10.19882+00:00",
-  "LastUpdate_Achievements": "2023-09-03T22:04:32.9498466+00:00"
+  "LastUpdate_Ratings": "2023-09-03T23:00:30.4464835+00:00",
+  "LastUpdate_Achievements": "2023-09-03T23:04:48.3047492+00:00"
 }

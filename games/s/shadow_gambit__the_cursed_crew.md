@@ -12,7 +12,7 @@ Rating: 4.80 (Ranked 83)
 | This Belongs in a Museum | 36.00% | ~212 |
 | The Gambit Has Begun | 31.00% | ~183 |
 | Powder Monkey | 29.00% | ~171 |
-| Somewhere Deep in the Lost Caribbean | 26.00% | ~153 |
+| Somewhere Deep in the Lost Caribbean | 27.00% | ~159 |
 | Mirror Mirror on the Wall | 25.00% | ~147 |
 | Buccaneer | 22.00% | ~130 |
 | Pirates Assemble! | 22.00% | ~130 |

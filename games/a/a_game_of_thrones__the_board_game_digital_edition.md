@@ -1,14 +1,14 @@
 # A Game Of Thrones: The Board Game Digital Edition
 [Store](https://store.epicgames.com/en-US/p/a-game-of-thrones-5858a3)  
 [View Rawdata](../../db/a/a_game_of_thrones__the_board_game_digital_edition.json)  
-Rating: 4.20 (Ranked 866)  
+Rating: 4.21 (Ranked 860)  
 Number of Ratings: 2,500  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~9,256 |
+| Conqueror | 40.00% | ~9,257 |
 | Battering Crew | 20.00% | ~4,628 |
-| The Kingsroad | 18.00% | ~4,165 |
+| The Kingsroad | 18.00% | ~4,166 |
 | Well Stocked | 14.00% | ~3,240 |
 | Royal Fleet | 13.00% | ~3,008 |
 | The Kraken’s Grasp | 9.00% | ~2,083 |
@@ -19,17 +19,17 @@ Number of Ratings: 2,500  (23.09.2022)
 | Ours is the Fury | 7.00% | ~1,620 |
 | Winter is Coming | 7.00% | ~1,620 |
 | Influential | 7.00% | ~1,620 |
-| We Do Not Sow | 6.00% | ~1,388 |
-| Unbowed, Unbent, Unbroken | 6.00% | ~1,388 |
-| Hear me Roar! | 6.00% | ~1,388 |
-| Defender of the Wall | 6.00% | ~1,388 |
+| We Do Not Sow | 6.00% | ~1,389 |
+| Unbowed, Unbent, Unbroken | 6.00% | ~1,389 |
+| Hear me Roar! | 6.00% | ~1,389 |
+| Defender of the Wall | 6.00% | ~1,389 |
 | Growing Strong | 5.00% | ~1,157 |
 | What is Dead may Never Die | 3.00% | ~694 |
 | The Swift | 3.00% | ~694 |
 | King in the North | 2.00% | ~463 |
 | War of the Five Kings | 1.00% | ~231 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,140 (Ranked 105)  
+Progressed: 23,142 (Ranked 105)  
 Completed: 52 (0.22%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 52 (0.22%) (Ranked 192)
 | 2023-08-31 | 22,893 | 50 |
 | 2023-09-01 | 22,984 | 50 |
 | 2023-09-02 | 23,062 | 50 |
-| 2023-09-03 | 23,140 | 52 |
+| 2023-09-03 | 23,142 | 52 |
 ## Awards
 Max (Quickly Understood Controls): 123  (Ranked 316)  
 Sum: 786 (Ranked 265)  
@@ -266,3 +266,4 @@ Diff (max vs sum): 51
 | 2023-06-24 | 4.20 | - | 123 | 784 |
 | 2023-07-14 | 4.20 | - | 123 | 785 |
 | 2023-08-02 | 4.20 | - | 123 | 786 |
+| 2023-09-03 | 4.21 | - | 123 | 786 |

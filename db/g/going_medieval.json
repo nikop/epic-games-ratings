@@ -1264,7 +1264,7 @@
   ],
   "EOS_Progressed": 5641,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -8756,9 +8756,9 @@
       "ID": "BUILD_ROOM",
       "SetID": "5349c2e",
       "Name": "Get A Room",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 4174
+      "UsersEstimate": 4231
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -9012,8 +9012,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-09-02T11:01:18.0722676+00:00",
-  "LastChanged_Achievements": "2023-09-03T22:02:12.4174197+00:00",
+  "LastChanged_Achievements": "2023-09-03T23:02:24.6014855+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:16.1031287+00:00",
-  "LastUpdate_Ratings": "2023-09-03T21:59:18.5501657+00:00",
-  "LastUpdate_Achievements": "2023-09-03T22:02:12.4174917+00:00"
+  "LastUpdate_Ratings": "2023-09-03T22:59:35.5305971+00:00",
+  "LastUpdate_Achievements": "2023-09-03T23:02:24.6015423+00:00"
 }
