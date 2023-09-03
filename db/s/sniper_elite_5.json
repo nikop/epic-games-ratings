@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -500,9 +500,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3569,
+  "EOS_Progressed": 3570,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -6420,6 +6420,11 @@
       "Time": "2023-09-03T06:06:07.1775441+00:00",
       "NumProgressed": 3569,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-03T07:07:24.4353781+00:00",
+      "NumProgressed": 3570,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 71,
@@ -6431,7 +6436,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -6439,7 +6444,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -6567,7 +6572,7 @@
       "Name": "Sharpshooter",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -6631,7 +6636,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -6687,7 +6692,7 @@
       "Name": "Close Quarters",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -6799,7 +6804,7 @@
       "Name": "Taking it back",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 999
+      "UsersEstimate": 1000
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -6998,13 +7003,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3520,
+      "Progressed": 3521,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3569,
+      "Progressed": 3570,
       "Completed": 10
     }
   ],
@@ -7012,8 +7017,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-01T10:01:39.1533108+00:00",
-  "LastChanged_Achievements": "2023-09-03T06:06:07.1775435+00:00",
+  "LastChanged_Achievements": "2023-09-03T07:07:24.4353774+00:00",
   "LastUpdate_AppInfo": "2023-09-02T06:57:18.4314048+00:00",
-  "LastUpdate_Ratings": "2023-09-03T06:00:23.3962048+00:00",
-  "LastUpdate_Achievements": "2023-09-03T06:06:07.1776571+00:00"
+  "LastUpdate_Ratings": "2023-09-03T07:01:34.7097972+00:00",
+  "LastUpdate_Achievements": "2023-09-03T07:07:24.4355186+00:00"
 }

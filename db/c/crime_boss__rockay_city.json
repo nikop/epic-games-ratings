@@ -3264,9 +3264,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 72599,
+  "EOS_Progressed": 72600,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 245,
+  "EOS_NewPlayers": 244,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -17219,6 +17219,11 @@
       "Time": "2023-09-03T05:03:14.2601442+00:00",
       "NumProgressed": 72599,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-09-03T07:03:10.4033112+00:00",
+      "NumProgressed": 72600,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 37,
@@ -17374,7 +17379,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 47189
+      "UsersEstimate": 47190
     },
     {
       "ID": "ACH_0210",
@@ -17382,7 +17387,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 53723
+      "UsersEstimate": 53724
     },
     {
       "ID": "ACH_0211",
@@ -17525,22 +17530,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 72599,
+      "Progressed": 72600,
       "Completed": 43
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 946,
-      "Completed": 946
+      "Progressed": 947,
+      "Completed": 947
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-09-02T19:00:56.2101406+00:00",
-  "LastChanged_Achievements": "2023-09-03T06:00:42.1923429+00:00",
+  "LastChanged_Achievements": "2023-09-03T07:03:10.4033105+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:37.6204685+00:00",
-  "LastUpdate_Ratings": "2023-09-03T05:59:36.1851665+00:00",
-  "LastUpdate_Achievements": "2023-09-03T06:00:42.192462+00:00"
+  "LastUpdate_Ratings": "2023-09-03T07:00:33.6703832+00:00",
+  "LastUpdate_Achievements": "2023-09-03T07:03:10.403462+00:00"
 }

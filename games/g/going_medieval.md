@@ -24,7 +24,7 @@ Number of Ratings: 706  (23.09.2022)
 | ...And Don’t Come Back! | 40.00% | ~2,251 |
 | Fit For A King | 36.00% | ~2,026 |
 | Luminary Researcher | 32.00% | ~1,801 |
-| Heating Up | 29.00% | ~1,632 |
+| Heating Up | 30.00% | ~1,688 |
 | Winter Is Coming | 26.00% | ~1,463 |
 | Winter Is Here | 23.00% | ~1,294 |
 | Disassembled | 21.00% | ~1,182 |

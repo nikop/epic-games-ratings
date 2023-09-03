@@ -129,6 +129,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 4 | 0.60% | ~83 |
 | Hittite Paganism | 0.60% | ~83 |
 | Kushite Cavalry | 0.60% | ~83 |
+| Turreted Elephant | 0.60% | ~83 |
 | No Undo | 0.60% | ~83 |
 | Old | 0.50% | ~69 |
 | Peacemaker | 0.50% | ~69 |
@@ -138,7 +139,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Rome | 0.50% | ~69 |
 | One True Faith | 0.50% | ~69 |
 | Cataphract Archer | 0.50% | ~69 |
-| Turreted Elephant | 0.50% | ~69 |
 | All Nations | 0.50% | ~69 |
 | Carthage - Ox Hide | 0.40% | ~55 |
 | Noble Difficulty | 0.40% | ~55 |

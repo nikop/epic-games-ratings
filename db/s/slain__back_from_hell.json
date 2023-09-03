@@ -217,9 +217,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 35791,
+  "EOS_Progressed": 35794,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 533,
+  "EOS_NewPlayers": 531,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -15197,6 +15197,11 @@
       "Time": "2023-09-03T06:04:08.076461+00:00",
       "NumProgressed": 35791,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-09-03T07:05:01.5624613+00:00",
+      "NumProgressed": 35794,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 29,
@@ -15216,7 +15221,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 7158
+      "UsersEstimate": 7159
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -15294,9 +15299,9 @@
       "ID": "ACH_13_DEFEATED_WEREBEAST",
       "SetID": "443p4o4",
       "Name": "Red In Tooth And Claw",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 251
+      "UsersEstimate": 286
     },
     {
       "ID": "ACH_14_DEFEATED_MOTHER_BEHOLDER",
@@ -15368,7 +15373,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2147
+      "UsersEstimate": 2148
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -15439,7 +15444,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 35791,
+      "Progressed": 35794,
       "Completed": 22
     }
   ],
@@ -15447,8 +15452,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-12T21:03:39.1122054+00:00",
-  "LastChanged_Achievements": "2023-09-03T06:04:08.0764604+00:00",
+  "LastChanged_Achievements": "2023-09-03T07:05:01.5624607+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:38.9783742+00:00",
-  "LastUpdate_Ratings": "2023-09-03T05:59:37.3044202+00:00",
-  "LastUpdate_Achievements": "2023-09-03T06:04:08.0765888+00:00"
+  "LastUpdate_Ratings": "2023-09-03T07:00:35.0846833+00:00",
+  "LastUpdate_Achievements": "2023-09-03T07:05:01.5625947+00:00"
 }

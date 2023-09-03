@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 553,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -1020,9 +1020,9 @@
       "ID": "Cartographer",
       "SetID": "3ai6ml8",
       "Name": "Cartographer",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 238
+      "UsersEstimate": 243
     },
     {
       "ID": "Causality",
@@ -1068,9 +1068,9 @@
       "ID": "EverythingIsDust",
       "SetID": "3ai6ml8",
       "Name": "Everything is Dust",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 133
+      "UsersEstimate": 138
     },
     {
       "ID": "LightsOut",
@@ -1132,9 +1132,9 @@
       "ID": "TheSafetyOfDisbelief",
       "SetID": "3ai6ml8",
       "Name": "The Safety of Disbelief",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 276
+      "UsersEstimate": 282
     },
     {
       "ID": "TragedyDocumented",
@@ -1163,8 +1163,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-09-03T06:04:35.8775418+00:00",
+  "LastChanged_Achievements": "2023-09-03T07:05:35.2882615+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:05.9137937+00:00",
-  "LastUpdate_Ratings": "2023-09-03T05:59:30.3646981+00:00",
-  "LastUpdate_Achievements": "2023-09-03T06:04:35.8775612+00:00"
+  "LastUpdate_Ratings": "2023-09-03T07:00:26.8402169+00:00",
+  "LastUpdate_Achievements": "2023-09-03T07:05:35.2882929+00:00"
 }

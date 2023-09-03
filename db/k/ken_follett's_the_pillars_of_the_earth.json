@@ -495,9 +495,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14988,
+  "EOS_Progressed": 14989,
   "EOS_Completed": 110,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.73,
   "EosHistory": [
@@ -9425,6 +9425,11 @@
       "Time": "2023-09-03T04:02:36.6320389+00:00",
       "NumProgressed": 14988,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2023-09-03T07:03:21.3829963+00:00",
+      "NumProgressed": 14989,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 41,
@@ -9540,7 +9545,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4496
+      "UsersEstimate": 4497
     },
     {
       "ID": "tpote_achievement_22",
@@ -9580,7 +9585,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1948
+      "UsersEstimate": 1949
     },
     {
       "ID": "tpote_achievement_27",
@@ -9748,7 +9753,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3297
+      "UsersEstimate": 3298
     },
     {
       "ID": "tpote_achievement_9",
@@ -9763,15 +9768,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14988,
+      "Progressed": 14989,
       "Completed": 110
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-08-03T13:08:30.3350415+00:00",
-  "LastChanged_Achievements": "2023-09-03T06:02:12.1900746+00:00",
+  "LastChanged_Achievements": "2023-09-03T07:03:21.3829955+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:40.0139465+00:00",
-  "LastUpdate_Ratings": "2023-09-03T05:59:37.349438+00:00",
-  "LastUpdate_Achievements": "2023-09-03T06:02:12.1901703+00:00"
+  "LastUpdate_Ratings": "2023-09-03T07:00:35.1375949+00:00",
+  "LastUpdate_Achievements": "2023-09-03T07:03:21.3831324+00:00"
 }

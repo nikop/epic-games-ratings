@@ -11,7 +11,7 @@
 | No Asperascope | 56.00% | ~157 |
 | Survivor | 56.00% | ~129 |
 | Cornivore | 53.00% | ~148 |
-| I Believe I Can Fly | 49.00% | ~137 |
+| I Believe I Can Fly | 50.00% | ~140 |
 | Early Survivor | 42.00% | ~97 |
 | No Diggity | 42.00% | ~97 |
 | Amateur Survivor | 31.00% | ~71 |

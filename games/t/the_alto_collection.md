@@ -6,8 +6,8 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 26.00% | ~9,853 |
-| Finding Your Footing | 26.00% | ~9,853 |
+| Rookie | 26.00% | ~9,854 |
+| Finding Your Footing | 26.00% | ~9,854 |
 | Nomad | 18.00% | ~6,822 |
 | Picking Up Speed | 16.00% | ~6,064 |
 | Welcome Maya | 15.00% | ~5,685 |
@@ -38,7 +38,7 @@ Number of Ratings: 332  (23.09.2022)
 | Daredevil | 0.90% | ~341 |
 | Unlock Felipe | 0.80% | ~303 |
 | Adventurer | 0.70% | ~265 |
-| Unlock Tupa | 0.50% | ~189 |
+| Unlock Tupa | 0.50% | ~190 |
 | Master Of The Sands | 0.30% | ~114 |
 | Master | 0.20% | ~76 |
 | Life Aquatic | 0.10% | ~38 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~38 |
 | Windswept | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37,898 (Ranked 97)  
+Progressed: 37,901 (Ranked 97)  
 Completed: 5 (0.01%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,7 +182,7 @@ Completed: 5 (0.01%) (Ranked 257)
 | 2023-08-31 | 37,608 | 5 |
 | 2023-09-01 | 37,721 | 5 |
 | 2023-09-02 | 37,852 | 5 |
-| 2023-09-03 | 37,898 | 5 |
+| 2023-09-03 | 37,901 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 47  (Ranked 409)  
 Sum: 360 (Ranked 329)  

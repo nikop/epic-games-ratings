@@ -368,9 +368,9 @@
       "ID": "HOUSEWARMING",
       "SetID": "aniflfk",
       "Name": "A Party to Remember!",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "LUNCH_LEECH",
@@ -408,9 +408,9 @@
       "ID": "REMOVE_100_WEEDS",
       "SetID": "aniflfk",
       "Name": "Weed Warrior",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "REPAIR_BRIDGE",
@@ -463,8 +463,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-03T06:06:14.2259472+00:00",
+  "LastChanged_Achievements": "2023-09-03T07:07:32.5723193+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:06.6191746+00:00",
-  "LastUpdate_Ratings": "2023-09-03T05:56:56.5094521+00:00",
-  "LastUpdate_Achievements": "2023-09-03T06:06:14.2259662+00:00"
+  "LastUpdate_Ratings": "2023-09-03T06:57:11.7558318+00:00",
+  "LastUpdate_Achievements": "2023-09-03T07:07:32.5723359+00:00"
 }
