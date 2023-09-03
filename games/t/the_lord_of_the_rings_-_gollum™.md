@@ -35,9 +35,9 @@
 | Elf-Friend | 0.60% | ~3 |
 | We wants it! We needs it | 0.60% | ~3 |
 | Scout | 0.60% | ~3 |
+| We Hates Them! | 0.40% | ~2 |
 | Good Sméagol! | 0.40% | ~2 |
 | Rule them all! | 0.20% | ~1 |
-| We Hates Them! | 0.20% | ~1 |
 | How Did You Do That? | 0.20% | ~1 |
 | River Hobbit | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)

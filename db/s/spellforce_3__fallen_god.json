@@ -3,12 +3,12 @@
   "Name": "SpellForce 3: Fallen God",
   "ProductSlug": "spellforce-3-fallen-god",
   "Ranking_Rating": 666,
-  "Ranking_Popularity": 516,
-  "Ranking_PopularitySum": 516,
+  "Ranking_Popularity": 517,
+  "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 572,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 348,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2020-12-14T18:00:00+00:00",
     "PcReleaseDate": "2020-12-14T18:00:00+00:00",
@@ -122,6 +122,6 @@
   "FirstSeenRating": "2022-11-09T02:57:52.8290852+00:00",
   "LastChanged": "2023-09-02T15:58:42.7889088+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:00.6606817+00:00",
-  "LastUpdate_Ratings": "2023-09-03T15:58:31.8760775+00:00",
-  "LastUpdate_Achievements": "2023-09-03T16:06:36.9257749+00:00"
+  "LastUpdate_Ratings": "2023-09-03T16:59:13.1663132+00:00",
+  "LastUpdate_Achievements": "2023-09-03T17:07:47.3984863+00:00"
 }

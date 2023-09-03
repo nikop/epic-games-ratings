@@ -6,23 +6,23 @@ Number of Ratings: 2,731  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 37.00% | ~27,543 |
-| Final touch | 37.00% | ~27,543 |
-| Prop-M Rover | 32.00% | ~23,821 |
-| Changing the Planet | 28.00% | ~20,843 |
-| Sojourner | 27.00% | ~20,099 |
-| Beagle 2 | 24.00% | ~17,866 |
-| New Home | 23.00% | ~17,121 |
-| Winner Winner Terraformer | 22.00% | ~16,377 |
-| Project Manager | 19.00% | ~14,144 |
-| Curiosity | 19.00% | ~14,144 |
-| Collector | 19.00% | ~14,144 |
-| Self-sufficient | 19.00% | ~14,144 |
-| Master | 19.00% | ~14,144 |
-| No Longer Red | 18.00% | ~13,399 |
+| It's a steal! | 37.00% | ~27,545 |
+| Final touch | 37.00% | ~27,545 |
+| Prop-M Rover | 32.00% | ~23,822 |
+| Changing the Planet | 28.00% | ~20,845 |
+| Sojourner | 27.00% | ~20,100 |
+| Beagle 2 | 24.00% | ~17,867 |
+| New Home | 23.00% | ~17,122 |
+| Winner Winner Terraformer | 22.00% | ~16,378 |
+| Project Manager | 19.00% | ~14,145 |
+| Curiosity | 19.00% | ~14,145 |
+| Collector | 19.00% | ~14,145 |
+| Self-sufficient | 19.00% | ~14,145 |
+| Master | 19.00% | ~14,145 |
+| No Longer Red | 18.00% | ~13,400 |
 | Money money | 16.00% | ~11,911 |
 | Biggest Reward | 14.00% | ~10,422 |
-| Acquired knowledge | 13.00% | ~9,677 |
+| Acquired knowledge | 13.00% | ~9,678 |
 | First Journey | 12.00% | ~8,933 |
 | Hellenic Elysium | 12.00% | ~8,933 |
 | Grand champion | 12.00% | ~8,933 |
@@ -31,13 +31,13 @@ Number of Ratings: 2,731  (23.09.2022)
 | Spirit | 10.00% | ~7,444 |
 | Ultimate success | 10.00% | ~7,444 |
 | Variety Expert | 9.00% | ~6,700 |
-| Frequent tester | 8.00% | ~5,955 |
-| Determined | 8.00% | ~5,955 |
+| Frequent tester | 8.00% | ~5,956 |
+| Determined | 8.00% | ~5,956 |
 | Terraformer | 4.00% | ~2,978 |
 | Team Effort | 3.00% | ~2,233 |
 | Opportunity | 3.00% | ~2,233 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 74,441 (Ranked 78)  
+Progressed: 74,445 (Ranked 78)  
 Completed: 98 (0.13%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 98 (0.13%) (Ranked 209)
 | 2023-08-31 | 74,055 | 96 |
 | 2023-09-01 | 74,179 | 98 |
 | 2023-09-02 | 74,331 | 98 |
-| 2023-09-03 | 74,441 | 98 |
+| 2023-09-03 | 74,445 | 98 |
 ## Awards
 Max (Relaxing): 511  (Ranked 198)  
 Sum: 3,151 (Ranked 161)  

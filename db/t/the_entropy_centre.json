@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 348,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2022-11-03T16:00:00+00:00",
@@ -871,9 +871,9 @@
       "ID": "ACH_ACT12",
       "SetID": "2310cb1",
       "Name": "Kaboom!",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_ACT13",
@@ -1072,8 +1072,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-09-03T16:05:56.9704405+00:00",
+  "LastChanged_Achievements": "2023-09-03T17:07:00.3951651+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:39.3739783+00:00",
-  "LastUpdate_Ratings": "2023-09-03T16:02:19.0013327+00:00",
-  "LastUpdate_Achievements": "2023-09-03T16:05:56.9704648+00:00"
+  "LastUpdate_Ratings": "2023-09-03T17:02:38.6654204+00:00",
+  "LastUpdate_Achievements": "2023-09-03T17:07:00.3951911+00:00"
 }

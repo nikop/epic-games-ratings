@@ -17,8 +17,8 @@
 | Your own amateur gym | 74.00% | ~229 |
 | First defeat | 73.00% | ~226 |
 | Run K, run! | 72.00% | ~223 |
+| Hello, world! | 69.00% | ~214 |
 | Fighting is cool | 68.00% | ~211 |
-| Hello, world! | 68.00% | ~211 |
 | No bullying more | 67.00% | ~208 |
 | Pal of your father? | 65.00% | ~202 |
 | Employee of the month | 65.00% | ~202 |
@@ -46,10 +46,10 @@
 | Deal with life | 39.00% | ~121 |
 | Underground dwellers | 39.00% | ~121 |
 | Mom got better | 38.00% | ~118 |
+| GYM professional | 38.00% | ~118 |
 | Poisoned fighter | 38.00% | ~118 |
 | Get out of my apartment! | 38.00% | ~118 |
 | The die is cast | 38.00% | ~118 |
-| GYM professional | 37.00% | ~115 |
 | Your own way | 37.00% | ~115 |
 | Seashell hunter | 36.00% | ~112 |
 | Gang wrangler | 35.00% | ~108 |
@@ -60,13 +60,13 @@
 | Careerist | 32.00% | ~99 |
 | Anyone can resist | 32.00% | ~99 |
 | Trap disarmed | 31.00% | ~96 |
+| The lonesome road | 31.00% | ~96 |
 | Keep nature safe | 31.00% | ~96 |
 | Family comes first | 31.00% | ~96 |
+| Key memories | 31.00% | ~96 |
 | The last bell ring | 31.00% | ~96 |
+| The heart of the Resistance | 31.00% | ~96 |
 | Another world | 30.00% | ~93 |
-| The lonesome road | 30.00% | ~93 |
-| Key memories | 30.00% | ~93 |
-| The heart of the Resistance | 30.00% | ~93 |
 | Better cooking at home | 28.00% | ~87 |
 | Silver’s past | 27.00% | ~84 |
 | The only right decision | 27.00% | ~84 |

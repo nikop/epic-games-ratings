@@ -8,28 +8,28 @@ Rating: 4.47 (Ranked 614)
 | Meeting Resistance | 46.00% | ~1,644 |
 | Confirming Suspicions | 40.00% | ~1,430 |
 | The Kraken Wakes | 36.00% | ~1,287 |
-| It's Starting to Crack | 33.00% | ~1,179 |
+| It's Starting to Crack | 33.00% | ~1,180 |
 | Change the Channel | 30.00% | ~1,072 |
-| Lord of War | 29.00% | ~1,036 |
+| Lord of War | 29.00% | ~1,037 |
 | Taking it back | 28.00% | ~1,001 |
-| Resourceful | 26.00% | ~929 |
+| Resourceful | 26.00% | ~930 |
 | Target America | 25.00% | ~894 |
 | The Kraken Sleeps | 23.00% | ~822 |
 | Organ Grinder | 22.00% | ~786 |
 | As Quiet as a Mouse | 22.00% | ~786 |
 | Liberté | 21.00% | ~751 |
 | Sharpshooter | 21.00% | ~751 |
-| Explosive Efficiency | 18.00% | ~643 |
+| Explosive Efficiency | 18.00% | ~644 |
 | Just a Flesh Wound | 17.00% | ~608 |
 | Gunslinger | 17.00% | ~608 |
 | Der Geist | 16.00% | ~572 |
 | Climbing the Ladder | 15.00% | ~536 |
 | Close Quarters | 15.00% | ~536 |
-| Fields of Glory | 14.00% | ~500 |
-| Skirmisher | 14.00% | ~500 |
-| Die Nussknacker Sweet! | 14.00% | ~500 |
-| Snake in the Grass | 14.00% | ~500 |
-| Brains of the Operation | 14.00% | ~500 |
+| Fields of Glory | 14.00% | ~501 |
+| Skirmisher | 14.00% | ~501 |
+| Die Nussknacker Sweet! | 14.00% | ~501 |
+| Snake in the Grass | 14.00% | ~501 |
+| Brains of the Operation | 14.00% | ~501 |
 | No Stone Unturned | 13.00% | ~465 |
 | Opposing Force | 13.00% | ~465 |
 | Enemy at the Gates | 13.00% | ~465 |
@@ -54,16 +54,16 @@ Rating: 4.47 (Ranked 614)
 | Shoot for the Moon | 3.00% | ~107 |
 | If You Go Down To The Woods Today | 3.00% | ~106 |
 | Fight Another Day | 3.00% | ~106 |
-| Out of Scope | 2.00% | ~71 |
-| From Paris with Love | 2.00% | ~71 |
-| Eagle Eyed | 2.00% | ~71 |
-| Up close and personal | 2.00% | ~71 |
-| Can't Outrun A Bullet | 2.00% | ~71 |
-| Führerious Repetition | 2.00% | ~70 |
-| Reich To The Point | 2.00% | ~70 |
-| Covert Elimination | 2.00% | ~70 |
-| Shipbreaker | 2.00% | ~70 |
-| Sink or Swim | 2.00% | ~70 |
+| Out of Scope | 2.00% | ~72 |
+| From Paris with Love | 2.00% | ~72 |
+| Eagle Eyed | 2.00% | ~72 |
+| Up close and personal | 2.00% | ~72 |
+| Can't Outrun A Bullet | 2.00% | ~72 |
+| Führerious Repetition | 2.00% | ~71 |
+| Reich To The Point | 2.00% | ~71 |
+| Covert Elimination | 2.00% | ~71 |
+| Shipbreaker | 2.00% | ~71 |
+| Sink or Swim | 2.00% | ~71 |
 | Best of the Best | 1.00% | ~36 |
 | Sight Beyond Sights | 1.00% | ~36 |
 | From Führer Away | 1.00% | ~35 |
@@ -77,7 +77,7 @@ Rating: 4.47 (Ranked 614)
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,574 (Ranked 154)  
+Progressed: 3,575 (Ranked 154)  
 Completed: 10 (0.28%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 10 (0.28%) (Ranked 183)
 | 2023-08-31 | 3,557 | 10 |
 | 2023-09-01 | 3,560 | 10 |
 | 2023-09-02 | 3,565 | 10 |
-| 2023-09-03 | 3,574 | 10 |
+| 2023-09-03 | 3,575 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

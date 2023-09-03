@@ -3,12 +3,12 @@
   "Name": "Tortuga - A Pirate\u0027s Tale",
   "ProductSlug": "tortuga-a-pirates-tale-e02635",
   "Ranking_Rating": 977,
-  "Ranking_Popularity": 516,
-  "Ranking_PopularitySum": 516,
+  "Ranking_Popularity": 517,
+  "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
     "PcReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16162,
+  "EOS_Progressed": 16163,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4266,6 +4266,11 @@
       "Time": "2023-09-03T16:04:28.7293014+00:00",
       "NumProgressed": 16162,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-03T17:05:15.7233434+00:00",
+      "NumProgressed": 16163,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -4277,7 +4282,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 15354
+      "UsersEstimate": 15355
     },
     {
       "ID": "ACH001",
@@ -4285,7 +4290,7 @@
       "Name": "Personal Matter",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 14061
+      "UsersEstimate": 14062
     },
     {
       "ID": "ACH0010",
@@ -4429,7 +4434,7 @@
       "Name": "Double the Barrels, double the Fun",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 8889
+      "UsersEstimate": 8890
     },
     {
       "ID": "ACH004",
@@ -4453,7 +4458,7 @@
       "Name": "... And Where Do the Stories Come From?",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 6626
+      "UsersEstimate": 6627
     },
     {
       "ID": "ACH007",
@@ -4461,7 +4466,7 @@
       "Name": "To the World\u0027s End",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1939
+      "UsersEstimate": 1940
     },
     {
       "ID": "ACH008",
@@ -4484,7 +4489,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 16162,
+      "Progressed": 16163,
       "Completed": 0
     }
   ],
@@ -4492,8 +4497,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-08-03T01:53:52.0652569+00:00",
-  "LastChanged_Achievements": "2023-09-03T16:04:28.7293008+00:00",
+  "LastChanged_Achievements": "2023-09-03T17:05:15.7233427+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:25.0679684+00:00",
-  "LastUpdate_Ratings": "2023-09-03T16:00:25.6430197+00:00",
-  "LastUpdate_Achievements": "2023-09-03T16:04:28.7293427+00:00"
+  "LastUpdate_Ratings": "2023-09-03T17:01:27.5334239+00:00",
+  "LastUpdate_Achievements": "2023-09-03T17:05:15.7233926+00:00"
 }

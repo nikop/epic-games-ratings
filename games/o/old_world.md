@@ -149,6 +149,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ancient | 0.30% | ~41 |
 | Glorious Difficulty | 0.30% | ~41 |
 | The Eternal Treaty | 0.30% | ~41 |
+| Run, Pheidippides, Run! | 0.30% | ~41 |
 | Learn to Play 5 | 0.30% | ~41 |
 | Hatti | 0.30% | ~41 |
 | Persia | 0.30% | ~41 |
@@ -169,8 +170,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Difficulty | 0.20% | ~28 |
 | Magnificent Difficulty | 0.20% | ~28 |
 | Event Level High | 0.20% | ~28 |
-| Run, Pheidippides, Run! | 0.20% | ~28 |
 | Nenikekamen | 0.20% | ~28 |
+| A Good Start | 0.20% | ~28 |
+| Tell the Spartans | 0.20% | ~28 |
 | Macedonian Wars | 0.20% | ~28 |
 | Assyria | 0.20% | ~28 |
 | Apadana in Parsa | 0.20% | ~28 |
@@ -217,12 +219,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Defend Where? | 0.10% | ~14 |
 | Get the Hellas Out | 0.10% | ~14 |
 | The Turning Point | 0.10% | ~14 |
-| A Good Start | 0.10% | ~14 |
 | Like a Lion | 0.10% | ~14 |
 | Still Fighting | 0.10% | ~14 |
 | They Shall Not Pass | 0.10% | ~14 |
 | THIS IS SPARTA!! | 0.10% | ~14 |
-| Tell the Spartans | 0.10% | ~14 |
 | Shape of Things to Come | 0.10% | ~14 |
 | I am the Archon Now | 0.10% | ~14 |
 | The Olive Wreath | 0.10% | ~14 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,758 (Ranked 120)  
+Progressed: 13,759 (Ranked 120)  
 Completed: 5 (0.04%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -439,7 +439,7 @@ Completed: 5 (0.04%) (Ranked 240)
 | 2023-08-31 | 13,711 | 5 |
 | 2023-09-01 | 13,732 | 5 |
 | 2023-09-02 | 13,749 | 5 |
-| 2023-09-03 | 13,758 | 5 |
+| 2023-09-03 | 13,759 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 263)  
 Sum: 1,802 (Ranked 207)  

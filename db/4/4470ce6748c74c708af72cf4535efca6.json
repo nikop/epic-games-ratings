@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2018-05-23T19:00:00+00:00",
@@ -684,9 +684,9 @@
       "ID": "67",
       "SetID": "5e3maia",
       "Name": "Genius",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "68",
@@ -747,8 +747,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-09-03T16:07:19.0096805+00:00",
+  "LastChanged_Achievements": "2023-09-03T17:08:36.8364177+00:00",
   "LastUpdate_AppInfo": "2023-09-01T23:56:54.9755822+00:00",
-  "LastUpdate_Ratings": "2023-09-03T16:00:50.0568135+00:00",
-  "LastUpdate_Achievements": "2023-09-03T16:07:19.0097495+00:00"
+  "LastUpdate_Ratings": "2023-09-03T17:01:56.6724951+00:00",
+  "LastUpdate_Achievements": "2023-09-03T17:08:36.8364989+00:00"
 }

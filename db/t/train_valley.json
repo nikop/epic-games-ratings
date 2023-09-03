@@ -3,12 +3,12 @@
   "Name": "Train Valley",
   "ProductSlug": "train-valley-ead642",
   "Ranking_Rating": 628,
-  "Ranking_Popularity": 516,
-  "Ranking_PopularitySum": 516,
+  "Ranking_Popularity": 517,
+  "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 159,
   "Ranking_EOS_NewPlayers": 272,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -1080,9 +1080,9 @@
       "ID": "17_builder",
       "SetID": "chb1m60",
       "Name": "Builder",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 238
+      "UsersEstimate": 242
     },
     {
       "ID": "18_foreman",
@@ -1096,9 +1096,9 @@
       "ID": "19_justintime",
       "SetID": "chb1m60",
       "Name": "Just in time!",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 148
+      "UsersEstimate": 153
     },
     {
       "ID": "20_sabotage",
@@ -1272,8 +1272,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-08-26T23:01:29.1007728+00:00",
-  "LastChanged_Achievements": "2023-09-03T16:07:55.2681923+00:00",
+  "LastChanged_Achievements": "2023-09-03T17:09:18.2597338+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:56:55.1924255+00:00",
-  "LastUpdate_Ratings": "2023-09-03T15:57:26.9520226+00:00",
-  "LastUpdate_Achievements": "2023-09-03T16:07:55.2682295+00:00"
+  "LastUpdate_Ratings": "2023-09-03T16:57:56.4294187+00:00",
+  "LastUpdate_Achievements": "2023-09-03T17:09:18.2597795+00:00"
 }

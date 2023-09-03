@@ -3,11 +3,11 @@
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
   "Ranking_Rating": 614,
-  "Ranking_Popularity": 516,
-  "Ranking_PopularitySum": 516,
+  "Ranking_Popularity": 517,
+  "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -500,9 +500,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3574,
+  "EOS_Progressed": 3575,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -6445,6 +6445,11 @@
       "Time": "2023-09-03T12:06:45.2963245+00:00",
       "NumProgressed": 3574,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-03T17:08:33.6574922+00:00",
+      "NumProgressed": 3575,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 71,
@@ -6504,7 +6509,7 @@
       "Name": "Fields of Glory",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -6584,7 +6589,7 @@
       "Name": "Skirmisher",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -6632,7 +6637,7 @@
       "Name": "Out of Scope",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "REWARD_32_RIGGED_BLOW",
@@ -6656,7 +6661,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -6664,7 +6669,7 @@
       "Name": "Lord of War",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1036
+      "UsersEstimate": 1037
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -6672,7 +6677,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -6680,7 +6685,7 @@
       "Name": "Resourceful",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -6720,7 +6725,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -6728,7 +6733,7 @@
       "Name": "From Paris with Love",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "REWARD_43_X_FILES",
@@ -6752,7 +6757,7 @@
       "Name": "Eagle Eyed",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "REWARD_48_WORKBENCH_USER",
@@ -6768,7 +6773,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1179
+      "UsersEstimate": 1180
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -6800,7 +6805,7 @@
       "Name": "Up close and personal",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "REWARD_66_VEHICULAR_OMNICIDE",
@@ -6832,7 +6837,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -6872,7 +6877,7 @@
       "Name": "Can\u0027t Outrun A Bullet",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "REWARD_DLC01_01_FUHRERIOUS_REPETITION",
@@ -6880,7 +6885,7 @@
       "Name": "F\u00FChrerious Repetition",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "REWARD_DLC01_02_REICH_TO_THE_POINT",
@@ -6888,7 +6893,7 @@
       "Name": "Reich To The Point",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "REWARD_DLC01_03_FROM_FUHRER_AWAY",
@@ -6904,7 +6909,7 @@
       "Name": "Covert Elimination",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "REWARD_DLC01_05_ALPHA",
@@ -7000,7 +7005,7 @@
       "Name": "Shipbreaker",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "REWARD_DLC04_02_SINK_OR_SWIM",
@@ -7008,7 +7013,7 @@
       "Name": "Sink or Swim",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "REWARD_DLC04_03_GOING_OVERBOARD",
@@ -7023,13 +7028,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3525,
+      "Progressed": 3526,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3574,
+      "Progressed": 3575,
       "Completed": 10
     }
   ],
@@ -7037,8 +7042,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-01T10:01:39.1533108+00:00",
-  "LastChanged_Achievements": "2023-09-03T16:07:16.5604152+00:00",
+  "LastChanged_Achievements": "2023-09-03T17:08:33.6574916+00:00",
   "LastUpdate_AppInfo": "2023-09-02T06:57:18.4314048+00:00",
-  "LastUpdate_Ratings": "2023-09-03T16:01:16.1523272+00:00",
-  "LastUpdate_Achievements": "2023-09-03T16:07:16.5605087+00:00"
+  "LastUpdate_Ratings": "2023-09-03T17:02:24.8827338+00:00",
+  "LastUpdate_Achievements": "2023-09-03T17:08:33.6576293+00:00"
 }
