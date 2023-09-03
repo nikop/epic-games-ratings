@@ -2,10 +2,10 @@
   "ID": "5237c48ef4ca4ffa92d04464bc628a56",
   "Name": "Blast Brigade vs. the Evil Legion of Dr. Cread",
   "ProductSlug": "blast-brigade",
-  "Ranking_EOS_Progress": 571,
+  "Ranking_EOS_Progress": 572,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-04-15T22:00:00+00:00",
     "PcReleaseDate": "2022-04-12T15:16:00+00:00",
@@ -38,6 +38,6 @@
   "FirstSeenRating": "2023-03-31T05:58:19.0899678+00:00",
   "LastChanged": "2023-03-31T05:58:19.0899679+00:00",
   "LastUpdate_AppInfo": "2023-09-02T06:57:18.2787067+00:00",
-  "LastUpdate_Ratings": "2023-09-02T23:02:01.6282206+00:00",
-  "LastUpdate_Achievements": "2023-09-02T23:03:46.368097+00:00"
+  "LastUpdate_Ratings": "2023-09-03T00:02:06.71651+00:00",
+  "LastUpdate_Achievements": "2023-09-03T00:04:13.4700384+00:00"
 }

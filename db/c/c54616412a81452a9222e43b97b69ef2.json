@@ -2,10 +2,10 @@
   "ID": "c54616412a81452a9222e43b97b69ef2",
   "Name": "Thank Goodness You\u0027re Here!",
   "ProductSlug": "thank-goodness-youre-here-aac813",
-  "Ranking_EOS_Progress": 571,
+  "Ranking_EOS_Progress": 572,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-29T21:56:58.5403492+00:00",
-  "LastUpdate_Ratings": "2023-09-02T23:00:01.2831496+00:00",
-  "LastUpdate_Achievements": "2023-09-02T23:05:03.9581456+00:00"
+  "LastUpdate_Ratings": "2023-09-03T00:00:07.6624419+00:00",
+  "LastUpdate_Achievements": "2023-09-03T00:05:21.6657467+00:00"
 }

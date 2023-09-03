@@ -4,7 +4,7 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 364,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 70,
+  "EOS_Progressed": 71,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.43,
+  "EOS_Completed_Percentage": 1.41,
   "EosHistory": [
     {
       "Time": "2023-08-29T09:05:59.1773399+00:00",
@@ -281,6 +281,11 @@
       "Time": "2023-09-02T21:08:20.7143996+00:00",
       "NumProgressed": 70,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-03T00:08:45.1431995+00:00",
+      "NumProgressed": 71,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -293,7 +298,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 79,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -307,7 +312,7 @@
       "ID": "BRING_MARY",
       "SetID": "aniflfk",
       "Name": "Retro Diva",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 50,
       "UsersEstimate": 33
     },
@@ -323,7 +328,7 @@
       "ID": "BUY_EVERYTHING_IN_ECOTOMAT",
       "SetID": "aniflfk",
       "Name": "Empty Shelves",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 50,
       "UsersEstimate": 6
     },
@@ -331,7 +336,7 @@
       "ID": "CATCH_30_FISH",
       "SetID": "aniflfk",
       "Name": "Fisherman",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 50,
       "UsersEstimate": 23
     },
@@ -349,7 +354,7 @@
       "Name": "Off on an Expedition!",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -452,14 +457,14 @@
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 70,
+      "Progressed": 71,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-02T23:08:23.9390105+00:00",
+  "LastChanged_Achievements": "2023-09-03T00:08:45.1431989+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:06.6191746+00:00",
-  "LastUpdate_Ratings": "2023-09-02T23:02:24.7494327+00:00",
-  "LastUpdate_Achievements": "2023-09-02T23:08:23.9390288+00:00"
+  "LastUpdate_Ratings": "2023-09-03T00:03:10.9687038+00:00",
+  "LastUpdate_Achievements": "2023-09-03T00:08:45.1432333+00:00"
 }

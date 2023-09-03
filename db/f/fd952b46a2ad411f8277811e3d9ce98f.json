@@ -2,10 +2,10 @@
   "ID": "fd952b46a2ad411f8277811e3d9ce98f",
   "Name": "Mini Royale",
   "ProductSlug": "mini-royale-ad1dca",
-  "Ranking_EOS_Progress": 178,
+  "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
     "PcReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -918,8 +918,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-23T09:03:04.2005407+00:00",
-  "LastChanged_Achievements": "2023-09-02T23:05:24.8592466+00:00",
+  "LastChanged_Achievements": "2023-09-03T00:05:41.7184985+00:00",
   "LastUpdate_AppInfo": "2023-08-30T09:56:58.0286771+00:00",
-  "LastUpdate_Ratings": "2023-09-02T22:59:52.7685213+00:00",
-  "LastUpdate_Achievements": "2023-09-02T23:05:24.8592799+00:00"
+  "LastUpdate_Ratings": "2023-09-02T23:59:58.4608041+00:00",
+  "LastUpdate_Achievements": "2023-09-03T00:05:41.718527+00:00"
 }

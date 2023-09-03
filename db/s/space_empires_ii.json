@@ -2,10 +2,10 @@
   "ID": "1ee7593b33534bf8b890d08c62304a3f",
   "Name": "Space Empires II",
   "ProductSlug": "space-empires-ii-1fece2",
-  "Ranking_EOS_Progress": 571,
+  "Ranking_EOS_Progress": 572,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-09-15T04:00:00+00:00",
     "PcReleaseDate": "1995-01-01T04:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:13.0331546+00:00",
   "LastChanged": "2023-03-31T05:58:13.0331547+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:31.3977909+00:00",
-  "LastUpdate_Ratings": "2023-09-02T22:57:54.8401744+00:00",
-  "LastUpdate_Achievements": "2023-09-02T23:03:24.9535813+00:00"
+  "LastUpdate_Ratings": "2023-09-02T23:57:58.0173365+00:00",
+  "LastUpdate_Achievements": "2023-09-03T00:03:41.7253822+00:00"
 }

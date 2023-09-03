@@ -3,12 +3,12 @@
   "Name": "Gamedec - Definitive Edition",
   "ProductSlug": "gamedec",
   "Ranking_Rating": 790,
-  "Ranking_Popularity": 362,
+  "Ranking_Popularity": 361,
   "Ranking_PopularitySum": 429,
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -382,23 +382,29 @@
       "Rating": 4.31,
       "NumberOfAwards": 79,
       "NumberOfAwardsMax": 79
+    },
+    {
+      "Time": "2023-09-02T23:58:08.6373725+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 80,
+      "NumberOfAwardsMax": 80
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 79,
-  "NumberOfAwardsMax": 79,
+  "NumberOfAwards": 80,
+  "NumberOfAwardsMax": 80,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 79
+      "Count": 80
     }
   ],
-  "EOS_Progressed": 244599,
+  "EOS_Progressed": 244605,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 911,
+  "EOS_NewPlayers": 913,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15406,6 +15412,11 @@
       "Time": "2023-09-02T23:08:14.601667+00:00",
       "NumProgressed": 244599,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-03T00:08:35.5145021+00:00",
+      "NumProgressed": 244605,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -15417,7 +15428,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 66042
+      "UsersEstimate": 66043
     },
     {
       "ID": "ACH_AON",
@@ -15457,7 +15468,7 @@
       "Name": "Collector",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 26906
+      "UsersEstimate": 26907
     },
     {
       "ID": "ACH_ENJOY",
@@ -15481,7 +15492,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 29352
+      "UsersEstimate": 29353
     },
     {
       "ID": "ACH_HATTRICK",
@@ -15561,7 +15572,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 68488
+      "UsersEstimate": 68489
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -15633,7 +15644,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 58704
+      "UsersEstimate": 58705
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -15737,7 +15748,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 61150
+      "UsersEstimate": 61151
     },
     {
       "ID": "ACH_SOREAD",
@@ -15832,16 +15843,16 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 244599,
+      "Progressed": 244605,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:19:30.52798+00:00",
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
-  "LastChanged": "2023-08-15T07:59:00.2810594+00:00",
-  "LastChanged_Achievements": "2023-09-02T23:08:14.6016663+00:00",
+  "LastChanged": "2023-09-02T23:58:08.6373723+00:00",
+  "LastChanged_Achievements": "2023-09-03T00:08:35.5145018+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:10.3049336+00:00",
-  "LastUpdate_Ratings": "2023-09-02T22:58:05.9734469+00:00",
-  "LastUpdate_Achievements": "2023-09-02T23:08:14.6018439+00:00"
+  "LastUpdate_Ratings": "2023-09-02T23:58:08.637373+00:00",
+  "LastUpdate_Achievements": "2023-09-03T00:08:35.5148074+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "1d6b5762a1d643a4830481c44d59abfb",
   "Name": "The Lord of The Rings Return to Moria",
   "ProductSlug": "the-lord-of-the-rings-return-to-moria-f01344",
-  "Ranking_EOS_Progress": 571,
+  "Ranking_EOS_Progress": 572,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-10-24T13:00:00+00:00",
     "PcReleaseDate": "2023-10-24T13:00:00+00:00",
@@ -36,8 +36,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-08T22:03:55.1596043+00:00",
-  "LastChanged_Achievements": "2023-09-02T23:05:53.0838504+00:00",
+  "LastChanged_Achievements": "2023-09-03T00:06:10.6735077+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:22.192199+00:00",
-  "LastUpdate_Ratings": "2023-09-02T22:57:39.2578692+00:00",
-  "LastUpdate_Achievements": "2023-09-02T23:05:53.0838538+00:00"
+  "LastUpdate_Ratings": "2023-09-02T23:57:42.2914473+00:00",
+  "LastUpdate_Achievements": "2023-09-03T00:06:10.6735112+00:00"
 }

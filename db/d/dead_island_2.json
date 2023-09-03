@@ -4182,10 +4182,10 @@
       "Count": 334
     }
   ],
-  "EOS_Progressed": 672029,
+  "EOS_Progressed": 672057,
   "EOS_Completed": 2103,
-  "EOS_NewPlayers": 5779,
-  "EOS_NewCompleters": 25,
+  "EOS_NewPlayers": 5771,
+  "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -19282,6 +19282,11 @@
       "Time": "2023-09-02T23:06:02.3460311+00:00",
       "NumProgressed": 672029,
       "NumCompleted": 2103
+    },
+    {
+      "Time": "2023-09-03T00:06:19.878267+00:00",
+      "NumProgressed": 672057,
+      "NumCompleted": 2103
     }
   ],
   "TotalAchievements": 45,
@@ -19453,7 +19458,7 @@
       "Name": "Hotel California",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6048
+      "UsersEstimate": 6049
     },
     {
       "ID": "ach_impressive_aim",
@@ -19629,7 +19634,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6720
+      "UsersEstimate": 6721
     },
     {
       "ID": "ach_well_known_survivor",
@@ -19652,7 +19657,7 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 672029,
+      "Progressed": 672057,
       "Completed": 2103
     }
   ],
@@ -19660,8 +19665,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-02T18:58:57.8317425+00:00",
-  "LastChanged_Achievements": "2023-09-02T23:06:02.3460304+00:00",
+  "LastChanged_Achievements": "2023-09-03T00:06:19.8782664+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:04.7021628+00:00",
-  "LastUpdate_Ratings": "2023-09-02T22:58:58.0086882+00:00",
-  "LastUpdate_Achievements": "2023-09-02T23:06:02.3462789+00:00"
+  "LastUpdate_Ratings": "2023-09-02T23:59:03.6228566+00:00",
+  "LastUpdate_Achievements": "2023-09-03T00:06:19.878445+00:00"
 }

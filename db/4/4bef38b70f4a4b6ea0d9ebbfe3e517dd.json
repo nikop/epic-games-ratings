@@ -2,10 +2,10 @@
   "ID": "4bef38b70f4a4b6ea0d9ebbfe3e517dd",
   "Name": "The Sisters 2 - Road to Fame",
   "ProductSlug": "the-sisters-2-road-to-fame-287bbe",
-  "Ranking_EOS_Progress": 571,
+  "Ranking_EOS_Progress": 572,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-30T23:57:14.3606204+00:00",
-  "LastUpdate_Ratings": "2023-09-02T23:02:26.991266+00:00",
-  "LastUpdate_Achievements": "2023-09-02T23:04:27.0845464+00:00"
+  "LastUpdate_Ratings": "2023-09-03T00:03:13.2381302+00:00",
+  "LastUpdate_Achievements": "2023-09-03T00:04:44.4717936+00:00"
 }

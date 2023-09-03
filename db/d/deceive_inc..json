@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -238,7 +238,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17829,
+  "EOS_Progressed": 17830,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
@@ -9613,6 +9613,11 @@
       "Time": "2023-09-02T22:02:15.2997017+00:00",
       "NumProgressed": 17829,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-03T00:03:21.966019+00:00",
+      "NumProgressed": 17830,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -9624,7 +9629,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5170
+      "UsersEstimate": 5171
     },
     {
       "ID": "0002",
@@ -9632,7 +9637,7 @@
       "Name": "License to Thrill",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 891
+      "UsersEstimate": 892
     },
     {
       "ID": "0003",
@@ -9808,7 +9813,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3922
+      "UsersEstimate": 3923
     },
     {
       "ID": "0025",
@@ -9824,7 +9829,7 @@
       "Name": "The Living Portrait",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2139
+      "UsersEstimate": 2140
     },
     {
       "ID": "0027",
@@ -9864,7 +9869,7 @@
       "Name": "Private Collection",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2139
+      "UsersEstimate": 2140
     },
     {
       "ID": "0032",
@@ -9880,7 +9885,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2139
+      "UsersEstimate": 2140
     },
     {
       "ID": "0034",
@@ -9888,7 +9893,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2139
+      "UsersEstimate": 2140
     },
     {
       "ID": "0035",
@@ -9911,7 +9916,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17829,
+      "Progressed": 17830,
       "Completed": 1
     }
   ],
@@ -9919,8 +9924,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-31T05:58:36.9186567+00:00",
-  "LastChanged_Achievements": "2023-09-02T23:02:34.8520356+00:00",
+  "LastChanged_Achievements": "2023-09-03T00:03:21.9660184+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:19.1789564+00:00",
-  "LastUpdate_Ratings": "2023-09-02T23:00:34.4453369+00:00",
-  "LastUpdate_Achievements": "2023-09-02T23:02:34.8521406+00:00"
+  "LastUpdate_Ratings": "2023-09-03T00:00:40.6622886+00:00",
+  "LastUpdate_Achievements": "2023-09-03T00:03:21.966188+00:00"
 }

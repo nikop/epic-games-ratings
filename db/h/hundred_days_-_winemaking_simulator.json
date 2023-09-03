@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_NewPlayers": 60,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -958,9 +958,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 872,
+  "EOS_Progressed": 879,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 867,
+  "EOS_NewPlayers": 874,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -1388,6 +1388,11 @@
       "Time": "2023-09-02T23:08:30.3567413+00:00",
       "NumProgressed": 872,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-03T00:08:51.7028952+00:00",
+      "NumProgressed": 879,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -1416,7 +1421,7 @@
       "Name": "A lot of space",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "a_12",
@@ -1424,7 +1429,7 @@
       "Name": "A big garage",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "a_15",
@@ -1432,7 +1437,7 @@
       "Name": "Big Money",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "a_16",
@@ -1448,7 +1453,7 @@
       "Name": "Bye Bye",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 270
+      "UsersEstimate": 272
     },
     {
       "ID": "a_19",
@@ -1456,7 +1461,7 @@
       "Name": "Bonjour!",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "a_2",
@@ -1496,7 +1501,7 @@
       "Name": "Quack",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "a_25",
@@ -1512,7 +1517,7 @@
       "Name": "Exotic",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "a_27",
@@ -1647,7 +1652,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 872,
+      "Progressed": 879,
       "Completed": 2
     }
   ],
@@ -1655,8 +1660,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-02T11:57:49.7912394+00:00",
-  "LastChanged_Achievements": "2023-09-02T23:08:30.3567407+00:00",
+  "LastChanged_Achievements": "2023-09-03T00:08:51.7028944+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:09.2681959+00:00",
-  "LastUpdate_Ratings": "2023-09-02T22:58:05.0541429+00:00",
-  "LastUpdate_Achievements": "2023-09-02T23:08:30.3567689+00:00"
+  "LastUpdate_Ratings": "2023-09-02T23:58:07.6723869+00:00",
+  "LastUpdate_Achievements": "2023-09-03T00:08:51.7029211+00:00"
 }

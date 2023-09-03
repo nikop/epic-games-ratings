@@ -2,10 +2,10 @@
   "ID": "d9d281ad1cde44768ed4e0103735ac51",
   "Name": "Dimensions Multiverse (Game Preview)",
   "ProductSlug": "dimensions-multiverse-21227d",
-  "Ranking_EOS_Progress": 571,
+  "Ranking_EOS_Progress": 572,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-03T16:00:00+00:00",
     "PcReleaseDate": "2023-05-04T14:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-02T07:57:13.7053784+00:00",
-  "LastUpdate_Ratings": "2023-09-02T22:57:27.1440834+00:00",
-  "LastUpdate_Achievements": "2023-09-02T23:09:04.4746284+00:00"
+  "LastUpdate_Ratings": "2023-09-02T23:57:29.1051044+00:00",
+  "LastUpdate_Achievements": "2023-09-03T00:09:26.2736675+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 135,
   "Ranking_Popularity": 185,
   "Ranking_PopularitySum": 123,
-  "Ranking_EOS_Progress": 571,
+  "Ranking_EOS_Progress": 572,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-10-28T04:00:00+00:00",
     "PcReleaseDate": "2021-10-28T04:00:00+00:00",
@@ -6586,11 +6586,17 @@
       "Rating": 4.75,
       "NumberOfAwards": 5785,
       "NumberOfAwardsMax": 579
+    },
+    {
+      "Time": "2023-09-02T23:59:46.2934928+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 5791,
+      "NumberOfAwardsMax": 581
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5785,
-  "NumberOfAwardsMax": 579,
+  "NumberOfAwards": 5791,
+  "NumberOfAwardsMax": 581,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
     {
@@ -6615,7 +6621,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 532
+      "Count": 536
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6645,7 +6651,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 579
+      "Count": 581
     },
     {
       "Text": "This game is Educational",
@@ -6683,8 +6689,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:50.8722129+00:00",
-  "LastChanged": "2023-09-02T18:59:42.4522133+00:00",
+  "LastChanged": "2023-09-02T23:59:46.2934926+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:47.5564975+00:00",
-  "LastUpdate_Ratings": "2023-09-02T22:59:40.6015608+00:00",
-  "LastUpdate_Achievements": "2023-09-02T23:05:06.1115935+00:00"
+  "LastUpdate_Ratings": "2023-09-02T23:59:46.2934933+00:00",
+  "LastUpdate_Achievements": "2023-09-03T00:05:23.7703147+00:00"
 }

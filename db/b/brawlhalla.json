@@ -2,13 +2,13 @@
   "ID": "15e6680a0c164ee189fcc3eb10398fd6",
   "Name": "Brawlhalla",
   "ProductSlug": "brawlhalla",
-  "Ranking_Rating": 395,
+  "Ranking_Rating": 417,
   "Ranking_Popularity": 236,
   "Ranking_PopularitySum": 171,
-  "Ranking_EOS_Progress": 571,
+  "Ranking_EOS_Progress": 572,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-11-15T17:00:00+00:00",
     "PcReleaseDate": "2022-10-17T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.6,
+  "Rating": 4.59,
   "RatingHistory": [
     {
       "Time": "2022-11-21T06:57:02.0735411+00:00",
@@ -5664,10 +5664,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 2790,
       "NumberOfAwardsMax": 304
+    },
+    {
+      "Time": "2023-09-03T00:00:55.6011074+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 2793,
+      "NumberOfAwardsMax": 304
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2790,
+  "NumberOfAwards": 2793,
   "NumberOfAwardsMax": 304,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5717,7 +5723,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 191
+      "Count": 194
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5756,8 +5762,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2023-09-02T23:00:49.6904557+00:00",
+  "LastChanged": "2023-09-03T00:00:55.6011073+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:34.2245696+00:00",
-  "LastUpdate_Ratings": "2023-09-02T23:00:49.6904566+00:00",
-  "LastUpdate_Achievements": "2023-09-02T23:08:02.8056937+00:00"
+  "LastUpdate_Ratings": "2023-09-03T00:00:55.6011083+00:00",
+  "LastUpdate_Achievements": "2023-09-03T00:08:23.4162081+00:00"
 }

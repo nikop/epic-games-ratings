@@ -41,7 +41,7 @@
 | The Triple Threat | 0.00% | ~0 |
 | The Winged Dagger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3 (Ranked 497)  
+Progressed: 3 (Ranked 498)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 310,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2019-09-17T12:00:00+00:00",
@@ -892,9 +892,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2768,
+  "EOS_Progressed": 2769,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4222,6 +4222,11 @@
       "Time": "2023-09-01T13:11:18.1353781+00:00",
       "NumProgressed": 2768,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-03T00:08:30.4406661+00:00",
+      "NumProgressed": 2769,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4385,7 +4390,7 @@
       "Name": "Keeping it classy",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -4609,22 +4614,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 1633
+      "UsersEstimate": 1634
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2768,
+      "Progressed": 2769,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-09-01T17:58:13.4167101+00:00",
-  "LastChanged_Achievements": "2023-09-02T23:08:09.6677677+00:00",
+  "LastChanged_Achievements": "2023-09-03T00:08:30.4406655+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:37.4705758+00:00",
-  "LastUpdate_Ratings": "2023-09-02T22:59:29.848651+00:00",
-  "LastUpdate_Achievements": "2023-09-02T23:08:09.667839+00:00"
+  "LastUpdate_Ratings": "2023-09-02T23:59:34.9568337+00:00",
+  "LastUpdate_Achievements": "2023-09-03T00:08:30.4407389+00:00"
 }

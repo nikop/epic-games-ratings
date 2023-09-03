@@ -6,21 +6,21 @@
 | ---- | ---------- | ----- |
 | Proving Your Skills | 92.00% | ~133 |
 | Bakery Startup | 41.00% | ~59 |
-| Apprentice Baker | 33.00% | ~48 |
-| The Kitchen Is On Fire | 32.00% | ~46 |
+| Apprentice Baker | 34.00% | ~49 |
+| The Kitchen Is On Fire | 33.00% | ~48 |
 | Perfect Server | 14.00% | ~20 |
-| Adept Baker | 10.00% | ~14 |
+| Adept Baker | 11.00% | ~16 |
+| Expert Baker | 10.00% | ~14 |
 | Verdant Greenhouse | 10.00% | ~14 |
 | Luxury Kitchen | 10.00% | ~14 |
 | Bustling Store | 10.00% | ~14 |
-| Expert Baker | 9.00% | ~13 |
+| Master Baker | 7.00% | ~10 |
 | Gotta Go Fast | 7.00% | ~10 |
 | Swing The Broom | 7.00% | ~10 |
 | Bakery Business | 6.00% | ~9 |
-| Master Baker | 6.00% | ~9 |
+| Bakery Empire | 6.00% | ~9 |
 | The Famous Lemon Cake | 6.00% | ~9 |
 | A Loving Home | 6.00% | ~9 |
-| Bakery Empire | 5.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 145 (Ranked 318)  
 Completed: 1 (0.69%) (Ranked 136)  
