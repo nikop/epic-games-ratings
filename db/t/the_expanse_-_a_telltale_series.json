@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -46,9 +46,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9907,
+  "EOS_Progressed": 9908,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 650,
+  "EOS_NewPlayers": 643,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4111,6 +4111,11 @@
       "Time": "2023-09-03T04:04:21.0879475+00:00",
       "NumProgressed": 9907,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-03T05:04:35.2218514+00:00",
+      "NumProgressed": 9908,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -4187,7 +4192,7 @@
       "Name": "Spore Taste",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1882
+      "UsersEstimate": 1883
     },
     {
       "ID": "18",
@@ -4203,7 +4208,7 @@
       "Name": "Martian Music",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 1981
+      "UsersEstimate": 1982
     },
     {
       "ID": "2",
@@ -4299,7 +4304,7 @@
       "Name": "Captain Drummer",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1981
+      "UsersEstimate": 1982
     },
     {
       "ID": "30",
@@ -4362,7 +4367,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 9907,
+      "Progressed": 9908,
       "Completed": 0
     }
   ],
@@ -4370,8 +4375,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-08-31T16:58:15.58955+00:00",
-  "LastChanged_Achievements": "2023-09-03T04:04:21.087947+00:00",
+  "LastChanged_Achievements": "2023-09-03T05:04:35.2218511+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:01.322184+00:00",
-  "LastUpdate_Ratings": "2023-09-03T03:58:46.1285557+00:00",
-  "LastUpdate_Achievements": "2023-09-03T04:04:21.0879877+00:00"
+  "LastUpdate_Ratings": "2023-09-03T04:59:07.1013593+00:00",
+  "LastUpdate_Achievements": "2023-09-03T05:04:35.2219051+00:00"
 }

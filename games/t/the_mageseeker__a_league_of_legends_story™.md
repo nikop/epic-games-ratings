@@ -12,7 +12,7 @@ Rating: 4.82 (Ranked 65)
 | Dark Forest | 77.00% | ~1,951 |
 | The use of petricite | 74.00% | ~1,875 |
 | You can pet the dog | 61.00% | ~1,546 |
-| Big Helmet Bro | 37.00% | ~938 |
+| Big Helmet Bro | 38.00% | ~963 |
 | Thornbarrow | 37.00% | ~938 |
 | Clarion Cove | 37.00% | ~938 |
 | Elemental master | 35.00% | ~887 |
@@ -22,7 +22,7 @@ Rating: 4.82 (Ranked 65)
 | Petricite Burst | 31.00% | ~786 |
 | Hijack | 29.00% | ~735 |
 | Old friend | 29.00% | ~735 |
-| Devineur | 28.00% | ~710 |
+| Devineur | 29.00% | ~735 |
 | Whispers in the Woods I | 27.00% | ~684 |
 | I chose my shackles | 25.00% | ~634 |
 | Ancient power | 25.00% | ~634 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -368,9 +368,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6125,
+  "EOS_Progressed": 6126,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4753,6 +4753,11 @@
       "Time": "2023-09-03T01:49:10.4685187+00:00",
       "NumProgressed": 6125,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-03T05:06:45.6419528+00:00",
+      "NumProgressed": 6126,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -4788,7 +4793,7 @@
       "Name": "Ashley",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "BBrahrnold",
@@ -4796,7 +4801,7 @@
       "Name": "Benedict Brahrnold",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "BeBack",
@@ -4820,7 +4825,7 @@
       "Name": "The Brahdyssey",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "Bride",
@@ -4852,7 +4857,7 @@
       "Name": "Caught in the Act",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "CongratsACelebrityHatesYou",
@@ -5028,7 +5033,7 @@
       "Name": "Katherine",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "LCA",
@@ -5036,7 +5041,7 @@
       "Name": "Love Conquers All",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "LifeFoundAWay",
@@ -5084,7 +5089,7 @@
       "Name": "Relentless",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "Penguinfucker",
@@ -5172,7 +5177,7 @@
       "Name": "If at First You Don\u0027t Succeed...",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "SuckerPunch",
@@ -5315,21 +5320,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 3164,
+      "Progressed": 3165,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 6125,
+      "Progressed": 6126,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-08-31T08:00:08.7899457+00:00",
-  "LastChanged_Achievements": "2023-09-03T04:06:35.356419+00:00",
+  "LastChanged_Achievements": "2023-09-03T05:06:45.6419523+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:40.5022837+00:00",
-  "LastUpdate_Ratings": "2023-09-03T04:02:25.195086+00:00",
-  "LastUpdate_Achievements": "2023-09-03T04:06:35.3565176+00:00"
+  "LastUpdate_Ratings": "2023-09-03T05:03:11.5023805+00:00",
+  "LastUpdate_Achievements": "2023-09-03T05:06:45.6420577+00:00"
 }

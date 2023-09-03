@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 36,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -6939,10 +6939,16 @@
       "Rating": 4.8,
       "NumberOfAwards": 50546,
       "NumberOfAwardsMax": 6422
+    },
+    {
+      "Time": "2023-09-03T05:00:13.5309045+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 50555,
+      "NumberOfAwardsMax": 6422
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 50546,
+  "NumberOfAwards": 50555,
   "NumberOfAwardsMax": 6422,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -6974,13 +6980,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 5849
+      "Count": 5852
     },
     {
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 5827
+      "Count": 5829
     },
     {
       "Text": "This game has Competitive Players",
@@ -6998,7 +7004,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5482
+      "Count": 5486
     },
     {
       "Text": "This game has Amazing Characters",
@@ -7013,7 +7019,7 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 472213,
+  "EOS_Progressed": 472214,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 720,
   "EOS_NewCompleters": 0,
@@ -21338,6 +21344,11 @@
       "Time": "2023-09-03T04:05:35.2840672+00:00",
       "NumProgressed": 472213,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-09-03T05:05:47.2278493+00:00",
+      "NumProgressed": 472214,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 98,
@@ -21365,7 +21376,7 @@
       "Name": "You\u0027re On Fire",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 122775
+      "UsersEstimate": 122776
     },
     {
       "ID": "achievement_10_matches_without_losing",
@@ -21405,7 +21416,7 @@
       "Name": "On A Roll",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 122775
+      "UsersEstimate": 122776
     },
     {
       "ID": "achievement_20_seasons_at_one_club",
@@ -21533,7 +21544,7 @@
       "Name": "Clean Sheet",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 236106
+      "UsersEstimate": 236107
     },
     {
       "ID": "achievement_club_world_cup",
@@ -21549,7 +21560,7 @@
       "Name": "Do The Double",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 89720
+      "UsersEstimate": 89721
     },
     {
       "ID": "achievement_dont_concede_a_goal_for_10_consecutive_matches",
@@ -21581,7 +21592,7 @@
       "Name": "I\u0027m The Boss!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 198329
+      "UsersEstimate": 198330
     },
     {
       "ID": "achievement_full_board_confidence",
@@ -21669,7 +21680,7 @@
       "Name": "Hat-trick",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 193607
+      "UsersEstimate": 193608
     },
     {
       "ID": "achievement_head_to_head",
@@ -21741,7 +21752,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 122775
+      "UsersEstimate": 122776
     },
     {
       "ID": "achievement_mr_delegator",
@@ -21845,7 +21856,7 @@
       "Name": "Record Sale",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 122775
+      "UsersEstimate": 122776
     },
     {
       "ID": "achievement_record_signing",
@@ -21893,7 +21904,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 226662
+      "UsersEstimate": 226663
     },
     {
       "ID": "achievement_signed_a_player",
@@ -21901,7 +21912,7 @@
       "Name": "He\u0027s Signed!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 236106
+      "UsersEstimate": 236107
     },
     {
       "ID": "achievement_top_goalscorer_in_league",
@@ -21981,7 +21992,7 @@
       "Name": "First Victory",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 236106
+      "UsersEstimate": 236107
     },
     {
       "ID": "achievement_won_domestic_cup",
@@ -22132,15 +22143,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 472213,
+      "Progressed": 472214,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
-  "LastChanged": "2023-09-02T20:00:09.6150438+00:00",
-  "LastChanged_Achievements": "2023-09-03T04:05:35.2840666+00:00",
+  "LastChanged": "2023-09-03T05:00:13.5309043+00:00",
+  "LastChanged_Achievements": "2023-09-03T05:05:47.2278489+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:58:06.0582244+00:00",
-  "LastUpdate_Ratings": "2023-09-03T03:59:56.9211884+00:00",
-  "LastUpdate_Achievements": "2023-09-03T04:05:35.2842658+00:00"
+  "LastUpdate_Ratings": "2023-09-03T05:00:13.530905+00:00",
+  "LastUpdate_Achievements": "2023-09-03T05:05:47.2280612+00:00"
 }

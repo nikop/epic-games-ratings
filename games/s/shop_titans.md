@@ -43,6 +43,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Helping Hand | 0.50% | ~678 |
 | Natural 20 | 0.50% | ~678 |
 | A Notch Above the Rest | 0.40% | ~542 |
+| A Ronin Reborn | 0.40% | ~542 |
 | Tax not Included | 0.40% | ~542 |
 | The King's Caprice | 0.40% | ~542 |
 | Big Game Hunting | 0.40% | ~542 |
@@ -58,6 +59,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Royal Ransom | 0.40% | ~542 |
 | Mammonite | 0.40% | ~542 |
 | Miracle Alchemist | 0.40% | ~542 |
+| Laden with Loot | 0.40% | ~542 |
 | Seasoned Journeyman | 0.40% | ~542 |
 | Black Friday Special | 0.40% | ~542 |
 | Magical Harmony | 0.40% | ~542 |
@@ -68,7 +70,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Proud Paladin | 0.30% | ~407 |
 | Above the Norm | 0.30% | ~407 |
 | Constellated | 0.30% | ~407 |
-| A Ronin Reborn | 0.30% | ~407 |
 | Thirst for Knowledge | 0.30% | ~407 |
 | Booty by the Boatload | 0.30% | ~407 |
 | Archivist | 0.30% | ~407 |
@@ -86,7 +87,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Necromancer Queen | 0.30% | ~407 |
 | Item of Renown | 0.30% | ~407 |
 | Master Merchant | 0.30% | ~407 |
-| Laden with Loot | 0.30% | ~407 |
 | Bountiful Harvest | 0.30% | ~407 |
 | Precision Engineering | 0.30% | ~407 |
 | Scourge of the Seas | 0.30% | ~407 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,567 (Ranked 67)  
-Completed: 140 (0.10%) (Ranked 218)  
+Progressed: 135,570 (Ranked 67)  
+Completed: 141 (0.10%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -255,7 +255,7 @@ Completed: 140 (0.10%) (Ranked 218)
 | 2023-08-31 | 135,446 | 140 |
 | 2023-09-01 | 135,508 | 140 |
 | 2023-09-02 | 135,551 | 140 |
-| 2023-09-03 | 135,567 | 140 |
+| 2023-09-03 | 135,570 | 141 |
 ## Awards
 Max (Great for Beginners): 4,719  (Ranked 70)  
 Sum: 27,167 (Ranked 46)  

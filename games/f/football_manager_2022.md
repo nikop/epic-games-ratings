@@ -6,12 +6,12 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~236,106 |
-| He's Signed! | 50.00% | ~236,106 |
-| First Victory | 50.00% | ~236,106 |
-| He's Sold! | 48.00% | ~226,662 |
-| I'm The Boss! | 42.00% | ~198,329 |
-| Hat-trick | 41.00% | ~193,607 |
+| Clean Sheet | 50.00% | ~236,107 |
+| He's Signed! | 50.00% | ~236,107 |
+| First Victory | 50.00% | ~236,107 |
+| He's Sold! | 48.00% | ~226,663 |
+| I'm The Boss! | 42.00% | ~198,330 |
+| Hat-trick | 41.00% | ~193,608 |
 | Scoring Streak | 38.00% | ~179,441 |
 | Unbeatable! | 37.00% | ~174,719 |
 | Thumping | 37.00% | ~174,719 |
@@ -26,10 +26,10 @@ Number of Ratings: 19,160  (23.09.2022)
 | Star Man | 29.00% | ~136,942 |
 | Attack! | 28.00% | ~132,220 |
 | Tremendous Trio | 27.00% | ~127,498 |
-| You're On Fire | 26.00% | ~122,775 |
-| On A Roll | 26.00% | ~122,775 |
-| Unstoppable Force | 26.00% | ~122,775 |
-| Record Sale | 26.00% | ~122,775 |
+| You're On Fire | 26.00% | ~122,776 |
+| On A Roll | 26.00% | ~122,776 |
+| Unstoppable Force | 26.00% | ~122,776 |
+| Record Sale | 26.00% | ~122,776 |
 | Fantastic Five | 24.00% | ~113,331 |
 | Full Faith | 24.00% | ~113,331 |
 | The Boss | 24.00% | ~113,331 |
@@ -43,7 +43,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Clean Bill of Health | 21.00% | ~99,165 |
 | Irresistible Force | 20.00% | ~94,443 |
 | Excellent Match Cohesion | 20.00% | ~94,443 |
-| Do The Double | 19.00% | ~89,720 |
+| Do The Double | 19.00% | ~89,721 |
 | Top Form | 17.00% | ~80,276 |
 | Cash To Burn | 17.00% | ~80,276 |
 | Beating Expectations | 15.00% | ~70,832 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~472 |
 | Shoestring Budget | 0.10% | ~472 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 472,213 (Ranked 36)  
+Progressed: 472,214 (Ranked 36)  
 Completed: 20 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,20 +241,20 @@ Completed: 20 (0.00%) (Ranked 271)
 | 2023-08-31 | 471,991 | 20 |
 | 2023-09-01 | 472,090 | 20 |
 | 2023-09-02 | 472,196 | 20 |
-| 2023-09-03 | 472,213 | 20 |
+| 2023-09-03 | 472,214 | 20 |
 ## Awards
 Max (Relaxing): 6,422  (Ranked 54)  
-Sum: 50,546 (Ranked 24)  
+Sum: 50,555 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 6,422 |
 | This game is Extremely Fun | 6,022 |
 | This game has Competitive Players | 5,858 |
-| This game has Quickly Understood Controls | 5,849 |
+| This game has Quickly Understood Controls | 5,852 |
+| This game is Educational | 5,829 |
 | This game is Highly Recommended | 5,827 |
-| This game is Educational | 5,827 |
-| This game has Diverse Characters | 5,482 |
+| This game has Diverse Characters | 5,486 |
 | This game has Amazing Storytelling | 4,896 |
 | This game has Obsessive Gameplay | 4,416 |
 | This game has Amazing Characters | 4,363 |
@@ -482,3 +482,4 @@ Diff (max vs sum): 30
 | 2023-08-31 | 4.80 | - | 6,419 | 50,522 |
 | 2023-09-01 | 4.80 | - | 6,422 | 50,535 |
 | 2023-09-02 | 4.80 | - | 6,422 | 50,546 |
+| 2023-09-03 | 4.80 | - | 6,422 | 50,555 |

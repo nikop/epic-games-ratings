@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -278,7 +278,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3134,
+  "EOS_Progressed": 3135,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
@@ -4838,6 +4838,11 @@
       "Time": "2023-09-03T01:46:32.7691733+00:00",
       "NumProgressed": 3134,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-03T05:04:13.8192501+00:00",
+      "NumProgressed": 3135,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -4913,7 +4918,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "ACH_BASE_19",
@@ -5017,7 +5022,7 @@
       "Name": "Exceeding Capacity",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "ACH_BASE_31",
@@ -5057,7 +5062,7 @@
       "Name": "Breaking Protocol",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "ACH_BASE_36",
@@ -5145,7 +5150,7 @@
       "Name": "Permanent Redesigns",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "ACH_BASE_49",
@@ -5304,13 +5309,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1316,
+      "Progressed": 1317,
       "Completed": 6
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3134,
+      "Progressed": 3135,
       "Completed": 0
     }
   ],
@@ -5318,8 +5323,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-08-28T10:57:03.0237068+00:00",
-  "LastChanged_Achievements": "2023-09-03T04:03:59.1140087+00:00",
+  "LastChanged_Achievements": "2023-09-03T05:04:13.8192496+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:17.4649262+00:00",
-  "LastUpdate_Ratings": "2023-09-03T03:58:15.3089065+00:00",
-  "LastUpdate_Achievements": "2023-09-03T04:03:59.1140835+00:00"
+  "LastUpdate_Ratings": "2023-09-03T04:58:39.4801399+00:00",
+  "LastUpdate_Achievements": "2023-09-03T05:04:13.8193393+00:00"
 }

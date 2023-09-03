@@ -5,31 +5,31 @@ Rating: 4.47 (Ranked 616)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 46.00% | ~1,640 |
-| Confirming Suspicions | 40.00% | ~1,426 |
+| Meeting Resistance | 46.00% | ~1,641 |
+| Confirming Suspicions | 40.00% | ~1,427 |
 | The Kraken Wakes | 36.00% | ~1,284 |
 | It's Starting to Crack | 33.00% | ~1,177 |
 | Change the Channel | 30.00% | ~1,070 |
-| Lord of War | 29.00% | ~1,034 |
-| Taking it back | 28.00% | ~998 |
-| Resourceful | 26.00% | ~927 |
+| Lord of War | 29.00% | ~1,035 |
+| Taking it back | 28.00% | ~999 |
+| Resourceful | 26.00% | ~928 |
 | Target America | 25.00% | ~892 |
-| The Kraken Sleeps | 23.00% | ~820 |
+| The Kraken Sleeps | 23.00% | ~821 |
 | Organ Grinder | 22.00% | ~785 |
 | As Quiet as a Mouse | 22.00% | ~785 |
 | Liberté | 21.00% | ~749 |
 | Sharpshooter | 21.00% | ~749 |
 | Explosive Efficiency | 18.00% | ~642 |
-| Gunslinger | 17.00% | ~606 |
+| Gunslinger | 17.00% | ~607 |
 | Just a Flesh Wound | 16.00% | ~571 |
 | Der Geist | 16.00% | ~571 |
 | Climbing the Ladder | 15.00% | ~535 |
 | Close Quarters | 15.00% | ~535 |
-| Fields of Glory | 14.00% | ~499 |
-| Skirmisher | 14.00% | ~499 |
-| Die Nussknacker Sweet! | 14.00% | ~499 |
-| Snake in the Grass | 14.00% | ~499 |
-| Brains of the Operation | 14.00% | ~499 |
+| Fields of Glory | 14.00% | ~500 |
+| Skirmisher | 14.00% | ~500 |
+| Die Nussknacker Sweet! | 14.00% | ~500 |
+| Snake in the Grass | 14.00% | ~500 |
+| Brains of the Operation | 14.00% | ~500 |
 | No Stone Unturned | 13.00% | ~464 |
 | Opposing Force | 13.00% | ~464 |
 | Enemy at the Gates | 13.00% | ~464 |
@@ -77,7 +77,7 @@ Rating: 4.47 (Ranked 616)
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,566 (Ranked 153)  
+Progressed: 3,568 (Ranked 153)  
 Completed: 10 (0.28%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 10 (0.28%) (Ranked 183)
 | 2023-08-31 | 3,557 | 10 |
 | 2023-09-01 | 3,560 | 10 |
 | 2023-09-02 | 3,565 | 10 |
-| 2023-09-03 | 3,566 | 10 |
+| 2023-09-03 | 3,568 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

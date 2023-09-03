@@ -5,10 +5,10 @@
   "Ranking_Rating": 430,
   "Ranking_Popularity": 265,
   "Ranking_PopularitySum": 305,
-  "Ranking_EOS_Progress": 158,
+  "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -3465,9 +3465,9 @@
       "ID": "Kills_Streak",
       "SetID": "3jha1np",
       "Name": "Purging Spree",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 127
     },
     {
       "ID": "Kills_Vakir",
@@ -3791,8 +3791,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-08-23T16:01:12.805504+00:00",
-  "LastChanged_Achievements": "2023-09-03T04:05:04.6336589+00:00",
+  "LastChanged_Achievements": "2023-09-03T05:05:17.3742374+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:31.6122131+00:00",
-  "LastUpdate_Ratings": "2023-09-03T03:58:24.5901037+00:00",
-  "LastUpdate_Achievements": "2023-09-03T04:05:04.6337422+00:00"
+  "LastUpdate_Ratings": "2023-09-03T04:58:47.5930635+00:00",
+  "LastUpdate_Achievements": "2023-09-03T05:05:17.3743238+00:00"
 }

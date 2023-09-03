@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -8589,7 +8589,7 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 48118,
+  "EOS_Progressed": 48119,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 349,
   "EOS_NewCompleters": 0,
@@ -20764,6 +20764,11 @@
       "Time": "2023-09-03T02:20:29.9903918+00:00",
       "NumProgressed": 48118,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-03T05:04:55.9878086+00:00",
+      "NumProgressed": 48119,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -20871,7 +20876,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 29352
+      "UsersEstimate": 29353
     },
     {
       "ID": "DeliveryGrapes",
@@ -20927,7 +20932,7 @@
       "Name": "Own use",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 36088
+      "UsersEstimate": 36089
     },
     {
       "ID": "HorseJumps",
@@ -20999,7 +21004,7 @@
       "Name": "I like to switch it up",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 19247
+      "UsersEstimate": 19248
     },
     {
       "ID": "NumPlaceables",
@@ -21031,7 +21036,7 @@
       "Name": "This is just my weekend vehicle",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 27908
+      "UsersEstimate": 27909
     },
     {
       "ID": "PetDog",
@@ -21063,7 +21068,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 30314
+      "UsersEstimate": 30315
     },
     {
       "ID": "Stones",
@@ -21118,15 +21123,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 48118,
+      "Progressed": 48119,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-09-02T21:00:23.2756784+00:00",
-  "LastChanged_Achievements": "2023-09-03T04:04:43.1413642+00:00",
+  "LastChanged_Achievements": "2023-09-03T05:04:55.9878082+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:14.7267416+00:00",
-  "LastUpdate_Ratings": "2023-09-03T03:59:11.307214+00:00",
-  "LastUpdate_Achievements": "2023-09-03T04:04:43.1414684+00:00"
+  "LastUpdate_Ratings": "2023-09-03T04:59:30.4079706+00:00",
+  "LastUpdate_Achievements": "2023-09-03T05:04:55.9879244+00:00"
 }

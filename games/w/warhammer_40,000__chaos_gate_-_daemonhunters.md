@@ -10,9 +10,9 @@ Number of Ratings: 371  (23.09.2022)
 | Not So Fast... | 4.00% | ~127 |
 | Executioner | 4.00% | ~127 |
 | Watch Where You Step... | 4.00% | ~127 |
+| Purging Spree | 4.00% | ~127 |
 | An Ill Omen | 4.00% | ~127 |
 | Blood for the Blood God! | 3.00% | ~95 |
-| Purging Spree | 3.00% | ~95 |
 | Bloodless | 3.00% | ~95 |
 | Honoured Battle-Brother | 2.00% | ~64 |
 | Surgical Excision | 2.00% | ~64 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,175 (Ranked 158)  
+Progressed: 3,175 (Ranked 159)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |

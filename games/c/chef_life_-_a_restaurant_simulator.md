@@ -14,10 +14,10 @@
 | Haute Cuisine | 9.00% | ~51 |
 | Italian Style | 8.00% | ~46 |
 | Sous-Chef | 6.00% | ~34 |
+| Rolling in Dough | 5.00% | ~29 |
 | Well-Stocked Kitchen | 5.00% | ~29 |
 | Culinary Arts | 4.00% | ~23 |
 | Perfectionist | 4.00% | ~23 |
-| Rolling in Dough | 4.00% | ~23 |
 | Leaning Tower of Pizza | 3.00% | ~17 |
 | Chef, Yes Chef! | 0.50% | ~3 |
 | The Bigger the Better | 0.50% | ~3 |

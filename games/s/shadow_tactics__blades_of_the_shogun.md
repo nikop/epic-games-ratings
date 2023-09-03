@@ -6,24 +6,24 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~21,966 |
-| Thorough | 10.00% | ~19,969 |
-| A thief's beginning | 9.00% | ~17,972 |
-| Disguised | 8.00% | ~15,975 |
-| Rescue Takuma | 8.00% | ~15,975 |
-| Rollin' | 8.00% | ~15,975 |
-| Tanuki Time | 8.00% | ~15,975 |
-| Ice Ice Yuki | 7.00% | ~13,978 |
-| Jonin | 7.00% | ~13,978 |
-| Stoned Ox | 7.00% | ~13,978 |
-| Yabu | 7.00% | ~13,978 |
-| Chunin | 6.00% | ~11,981 |
-| Flying Rocks | 6.00% | ~11,981 |
-| Happy Planning | 6.00% | ~11,981 |
-| Mugen Unchained | 6.00% | ~11,981 |
-| Okkoto | 5.00% | ~9,984 |
-| Too Early | 5.00% | ~9,984 |
-| Warzone | 5.00% | ~9,984 |
+| Genin | 11.00% | ~21,967 |
+| Thorough | 10.00% | ~19,970 |
+| A thief's beginning | 9.00% | ~17,973 |
+| Disguised | 8.00% | ~15,976 |
+| Rescue Takuma | 8.00% | ~15,976 |
+| Rollin' | 8.00% | ~15,976 |
+| Tanuki Time | 8.00% | ~15,976 |
+| Ice Ice Yuki | 7.00% | ~13,979 |
+| Jonin | 7.00% | ~13,979 |
+| Stoned Ox | 7.00% | ~13,979 |
+| Yabu | 7.00% | ~13,979 |
+| Chunin | 6.00% | ~11,982 |
+| Flying Rocks | 6.00% | ~11,982 |
+| Happy Planning | 6.00% | ~11,982 |
+| Mugen Unchained | 6.00% | ~11,982 |
+| Okkoto | 5.00% | ~9,985 |
+| Too Early | 5.00% | ~9,985 |
+| Warzone | 5.00% | ~9,985 |
 | Gear up | 4.00% | ~7,988 |
 | Happy little accidents | 4.00% | ~7,988 |
 | Prisoners | 4.00% | ~7,988 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~200 |
 | Release the Kraken | 0.10% | ~200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 199,689 (Ranked 61)  
+Progressed: 199,697 (Ranked 61)  
 Completed: 76 (0.04%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 76 (0.04%) (Ranked 240)
 | 2023-08-31 | 199,111 | 74 |
 | 2023-09-01 | 199,350 | 75 |
 | 2023-09-02 | 199,645 | 76 |
-| 2023-09-03 | 199,689 | 76 |
+| 2023-09-03 | 199,697 | 76 |
 ## Awards
 Max (Great for Beginners): 562  (Ranked 190)  
 Sum: 4,740 (Ranked 135)  

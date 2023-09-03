@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -3578,9 +3578,9 @@
       "ID": "STB_DEFEAT_MAGICSHIFTER",
       "SetID": "3pe2bac",
       "Name": "Big Helmet Bro",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 938
+      "UsersEstimate": 963
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -3714,9 +3714,9 @@
       "ID": "STB_MISSION3_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Devineur",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 710
+      "UsersEstimate": 735
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -3907,8 +3907,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-08-06T02:15:52.3932671+00:00",
-  "LastChanged_Achievements": "2023-09-03T04:02:37.5091025+00:00",
+  "LastChanged_Achievements": "2023-09-03T05:03:25.168377+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:56:57.5191428+00:00",
-  "LastUpdate_Ratings": "2023-09-03T03:57:15.2662371+00:00",
-  "LastUpdate_Achievements": "2023-09-03T04:02:37.5091679+00:00"
+  "LastUpdate_Ratings": "2023-09-03T04:57:40.650442+00:00",
+  "LastUpdate_Achievements": "2023-09-03T05:03:25.168447+00:00"
 }

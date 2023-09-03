@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 27,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -774,9 +774,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 220613,
+  "EOS_Progressed": 220623,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2779,
+  "EOS_NewPlayers": 2772,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9349,6 +9349,11 @@
       "Time": "2023-09-03T04:04:34.2059786+00:00",
       "NumProgressed": 220613,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-03T05:04:47.6290638+00:00",
+      "NumProgressed": 220623,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -9408,7 +9413,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6618
+      "UsersEstimate": 6619
     },
     {
       "ID": "Chapter2",
@@ -9760,7 +9765,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6618
+      "UsersEstimate": 6619
     },
     {
       "ID": "DwarfElf15Support",
@@ -9808,7 +9813,7 @@
       "Name": "Sowwy!",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 59566
+      "UsersEstimate": 59568
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -10063,21 +10068,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 220613,
+      "Progressed": 220623,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 220613,
+      "Progressed": 220623,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-02T14:58:06.8482172+00:00",
-  "LastChanged_Achievements": "2023-09-03T04:04:34.2059779+00:00",
+  "LastChanged_Achievements": "2023-09-03T05:04:47.6290634+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:55.2312629+00:00",
-  "LastUpdate_Ratings": "2023-09-03T03:57:58.3149075+00:00",
-  "LastUpdate_Achievements": "2023-09-03T04:04:34.2061339+00:00"
+  "LastUpdate_Ratings": "2023-09-03T04:58:24.8309475+00:00",
+  "LastUpdate_Achievements": "2023-09-03T05:04:47.6292059+00:00"
 }

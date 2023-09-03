@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
@@ -814,9 +814,9 @@
       "ID": "ACH_CUBEKILLER",
       "SetID": "232494e",
       "Name": "Green Cube Killer",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_DLC1ALLCOLLECTABLES",
@@ -1038,8 +1038,8 @@
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-03T04:03:26.2920909+00:00",
+  "LastChanged_Achievements": "2023-09-03T05:03:42.5231931+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:15.0755291+00:00",
-  "LastUpdate_Ratings": "2023-09-03T03:57:01.4794597+00:00",
-  "LastUpdate_Achievements": "2023-09-03T04:03:26.2921152+00:00"
+  "LastUpdate_Ratings": "2023-09-03T04:57:26.6212404+00:00",
+  "LastUpdate_Achievements": "2023-09-03T05:03:42.5232156+00:00"
 }

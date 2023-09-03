@@ -4,7 +4,7 @@
   "ProductSlug": "space-war-infinity-024a8f",
   "Ranking_EOS_Progress": 394,
   "Ranking_EOS_Completed": 34,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-08-15T15:00:00+00:00",
@@ -564,9 +564,9 @@
       "ID": "_x2orb",
       "SetID": "2d5739o",
       "Name": "2X Orb",
-      "Percentage": 56,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "_x2score",
@@ -587,8 +587,8 @@
   ],
   "FirstSeen": "2023-08-19T02:04:22.1564483+00:00",
   "FirstSeenAchievements": "2023-08-09T13:13:29.9534062+00:00",
-  "LastChanged_Achievements": "2023-09-03T04:04:13.9723946+00:00",
+  "LastChanged_Achievements": "2023-09-03T05:04:28.681841+00:00",
   "LastUpdate_AppInfo": "2023-08-30T14:57:10.8752885+00:00",
-  "LastUpdate_Ratings": "2023-09-03T03:59:49.0151829+00:00",
-  "LastUpdate_Achievements": "2023-09-03T04:04:13.9724304+00:00"
+  "LastUpdate_Ratings": "2023-09-03T05:00:05.7694685+00:00",
+  "LastUpdate_Achievements": "2023-09-03T05:04:28.681878+00:00"
 }

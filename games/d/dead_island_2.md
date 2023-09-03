@@ -5,22 +5,22 @@ Rating: 4.54 (Ranked 504)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 1.00% | ~6,721 |
-| Hotel California | 0.90% | ~6,049 |
+| Welcome To Hell-A | 1.00% | ~6,722 |
+| Break A Leg | 0.90% | ~6,050 |
+| Hotel California | 0.90% | ~6,050 |
 | Git Gutte! | 0.80% | ~5,377 |
-| Break A Leg | 0.80% | ~5,377 |
 | Coup de Grâce | 0.80% | ~5,377 |
 | Hazardous Materials | 0.80% | ~5,377 |
 | Personal Assistant Personally Assisted | 0.80% | ~5,377 |
 | Dr. Reed, I Presume? | 0.70% | ~4,705 |
 | Bookworm | 0.70% | ~4,705 |
 | But Doctor, I am Butcho | 0.70% | ~4,705 |
+| Can't Handle the Truth | 0.70% | ~4,705 |
 | Friends Like These | 0.70% | ~4,705 |
 | Apex Predator | 0.70% | ~4,705 |
 | Stacking the Deck | 0.70% | ~4,705 |
 | This is My Weapon | 0.70% | ~4,705 |
 | Slayer Squad | 0.60% | ~4,033 |
-| Can't Handle the Truth | 0.60% | ~4,033 |
 | Like Riding a Bike | 0.60% | ~4,033 |
 | Zombologist | 0.60% | ~4,033 |
 | A Patton Emerges | 0.60% | ~4,033 |
@@ -34,9 +34,9 @@ Rating: 4.54 (Ranked 504)
 | Humanity Distilled | 0.40% | ~2,689 |
 | Down with the Sickness | 0.40% | ~2,689 |
 | Max Headroom | 0.40% | ~2,689 |
-| Jumbo Keyring | 0.30% | ~2,016 |
-| Go, Bobcats! | 0.30% | ~2,016 |
-| Rising Star | 0.30% | ~2,016 |
+| Jumbo Keyring | 0.30% | ~2,017 |
+| Go, Bobcats! | 0.30% | ~2,017 |
+| Rising Star | 0.30% | ~2,017 |
 | Make it So | 0.20% | ~1,344 |
 | On Safari | 0.20% | ~1,344 |
 | Smorgasbord | 0.20% | ~1,344 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 504)
 | Survival Skills | 0.10% | ~672 |
 | Bucket List | 0.10% | ~672 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 672,149 (Ranked 22)  
+Progressed: 672,168 (Ranked 22)  
 Completed: 2,105 (0.31%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 2,105 (0.31%) (Ranked 178)
 | 2023-08-31 | 670,394 | 2,097 |
 | 2023-09-01 | 671,108 | 2,097 |
 | 2023-09-02 | 672,029 | 2,103 |
-| 2023-09-03 | 672,149 | 2,105 |
+| 2023-09-03 | 672,168 | 2,105 |
 ## Awards
 Max (Great Boss Battles): 5,867  (Ranked 59)  
 Sum: 8,645 (Ranked 95)  

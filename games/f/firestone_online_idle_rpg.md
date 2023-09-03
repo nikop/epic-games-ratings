@@ -77,8 +77,8 @@ Rating: 4.03 (Ranked 937)
 | Pokerface | 0.50% | ~9 |
 | Conqueror | 0.40% | ~8 |
 | Ultimate War Machines | 0.40% | ~8 |
+| Silverwood liberator | 0.30% | ~6 |
 | Jewel Enchanting | 0.20% | ~4 |
-| Silverwood liberator | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,888 (Ranked 175)  

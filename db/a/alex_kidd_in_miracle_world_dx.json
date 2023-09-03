@@ -4,8 +4,8 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 109,
-  "Ranking_EOS_NewPlayers": 344,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
     "PcReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 276,
+  "EOS_Progressed": 277,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.45,
+  "EOS_Completed_Percentage": 1.44,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:09.0192053+00:00",
@@ -286,6 +286,11 @@
       "Time": "2023-08-27T06:05:51.656499+00:00",
       "NumProgressed": 276,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-03T05:05:09.5684639+00:00",
+      "NumProgressed": 277,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -353,15 +358,15 @@
       "Name": "Assailants",
       "Percentage": 28,
       "XP": 40,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "JANKEN_DEFEATED",
       "SetID": "7im05fi",
       "Name": "Janken The Great",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     },
     {
       "ID": "LEVEL_04",
@@ -424,7 +429,7 @@
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 276,
+      "Progressed": 277,
       "Completed": 4
     }
   ],
@@ -432,8 +437,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-09-03T04:04:56.8828306+00:00",
+  "LastChanged_Achievements": "2023-09-03T05:05:09.5684634+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:28.0660367+00:00",
-  "LastUpdate_Ratings": "2023-09-03T03:57:38.6868818+00:00",
-  "LastUpdate_Achievements": "2023-09-03T04:04:56.8828439+00:00"
+  "LastUpdate_Ratings": "2023-09-03T04:58:04.4201561+00:00",
+  "LastUpdate_Achievements": "2023-09-03T05:05:09.5684792+00:00"
 }
