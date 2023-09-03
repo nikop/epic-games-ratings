@@ -570,4 +570,4 @@
 | 271 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 271 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 271 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,164 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,165 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
