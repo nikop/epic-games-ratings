@@ -19,10 +19,10 @@ Number of Ratings: 22  (23.09.2022)
 | Lion Tamer | 18.00% | ~82 |
 | King of District 1 | 16.00% | ~73 |
 | Amazing! | 16.00% | ~73 |
+| Flawless Presentation | 15.00% | ~69 |
 | One More Thing... | 14.00% | ~64 |
 | Lucky Day | 14.00% | ~64 |
 | Bar Brawler | 14.00% | ~64 |
-| Flawless Presentation | 14.00% | ~64 |
 | King of District 2 | 13.00% | ~60 |
 | Time Travel! | 11.00% | ~50 |
 | Marketing Manager | 10.00% | ~46 |
@@ -41,6 +41,7 @@ Number of Ratings: 22  (23.09.2022)
 | Hundred Percent Third | 3.00% | ~14 |
 | Hundred Percent Fourth | 3.00% | ~14 |
 | Circus Maximus | 3.00% | ~14 |
+| Last Man Standing | 3.00% | ~14 |
 | Unmatched Skills | 2.00% | ~9 |
 | Hundred Percent Fifth | 2.00% | ~9 |
 | Victorian Victor | 2.00% | ~9 |
@@ -48,7 +49,6 @@ Number of Ratings: 22  (23.09.2022)
 | Grand Slam | 2.00% | ~9 |
 | The Greatest Show | 2.00% | ~9 |
 | Perfect Chemistry | 2.00% | ~9 |
-| Last Man Standing | 2.00% | ~9 |
 | Hundred Percent Sixth | 1.00% | ~5 |
 | London Liberator | 1.00% | ~5 |
 | Vicious Busters | 1.00% | ~5 |

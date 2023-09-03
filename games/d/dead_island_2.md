@@ -5,14 +5,14 @@ Rating: 4.54 (Ranked 504)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 1.00% | ~6,728 |
-| Welcome To Hell-A | 1.00% | ~6,728 |
+| Hotel California | 1.00% | ~6,729 |
+| Welcome To Hell-A | 1.00% | ~6,729 |
 | Break A Leg | 0.90% | ~6,056 |
+| Hazardous Materials | 0.90% | ~6,056 |
 | Personal Assistant Personally Assisted | 0.90% | ~6,056 |
 | Dr. Reed, I Presume? | 0.80% | ~5,383 |
 | Git Gutte! | 0.80% | ~5,383 |
 | Coup de Grâce | 0.80% | ~5,383 |
-| Hazardous Materials | 0.80% | ~5,383 |
 | Friends Like These | 0.80% | ~5,383 |
 | Apex Predator | 0.80% | ~5,383 |
 | Stacking the Deck | 0.80% | ~5,383 |
@@ -32,8 +32,8 @@ Rating: 4.54 (Ranked 504)
 | Perks of the Job | 0.50% | ~3,364 |
 | I Got a Zombie Army and You Can't Harm Me | 0.50% | ~3,364 |
 | Humanity Distilled | 0.50% | ~3,364 |
-| Down with the Sickness | 0.40% | ~2,691 |
-| Max Headroom | 0.40% | ~2,691 |
+| Down with the Sickness | 0.40% | ~2,692 |
+| Max Headroom | 0.40% | ~2,692 |
 | Smorgasbord | 0.30% | ~2,019 |
 | Jumbo Keyring | 0.30% | ~2,019 |
 | Go, Bobcats! | 0.30% | ~2,019 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 504)
 | Survival Skills | 0.10% | ~673 |
 | Bucket List | 0.10% | ~673 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 672,835 (Ranked 22)  
+Progressed: 672,880 (Ranked 22)  
 Completed: 2,109 (0.31%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 2,109 (0.31%) (Ranked 177)
 | 2023-08-31 | 670,394 | 2,097 |
 | 2023-09-01 | 671,108 | 2,097 |
 | 2023-09-02 | 672,029 | 2,103 |
-| 2023-09-03 | 672,835 | 2,109 |
+| 2023-09-03 | 672,880 | 2,109 |
 ## Awards
 Max (Great Boss Battles): 5,889  (Ranked 59)  
 Sum: 8,679 (Ranked 95)  

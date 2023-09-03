@@ -2,9 +2,9 @@
   "ID": "3933d71231a543fd873b8768585e2bd7",
   "Name": "Masterplan Tycoon",
   "ProductSlug": "masterplan-tycoon-379d81",
-  "Ranking_EOS_Progress": 436,
+  "Ranking_EOS_Progress": 435,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-09-01T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18,
+  "EOS_Progressed": 19,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -111,6 +111,11 @@
       "Time": "2023-09-03T20:03:24.1512965+00:00",
       "NumProgressed": 18,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-03T21:03:19.8974948+00:00",
+      "NumProgressed": 19,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-01T09:03:14.0251979+00:00",
@@ -145,15 +150,15 @@
       "ID": "achievements.completemission.master.01",
       "SetID": "1kd1942",
       "Name": "Another Brick in the Node",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 40,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "achievements.completemission.master.02",
       "SetID": "1kd1942",
       "Name": "Beams of Steel",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -161,7 +166,7 @@
       "ID": "achievements.completemission.master.03",
       "SetID": "1kd1942",
       "Name": "Rebuilding the Ruins",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -177,15 +182,15 @@
       "ID": "achievements.firstchain",
       "SetID": "1kd1942",
       "Name": "ForestTreePlank",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "achievements.firstexpedition",
       "SetID": "1kd1942",
       "Name": "Cristoforo Magellanus",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -225,7 +230,7 @@
       "ID": "achievements.researches.upgrades50",
       "SetID": "1kd1942",
       "Name": "Accelerating Progress",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -250,14 +255,14 @@
     {
       "ID": "1kd1942",
       "IsBase": true,
-      "Progressed": 18,
+      "Progressed": 19,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-03T14:57:43.5916063+00:00",
   "FirstSeenAchievements": "2023-09-01T09:03:14.0251978+00:00",
-  "LastChanged_Achievements": "2023-09-03T20:03:24.1512957+00:00",
+  "LastChanged_Achievements": "2023-09-03T21:03:19.8974944+00:00",
   "LastUpdate_AppInfo": "2023-09-01T08:57:12.467565+00:00",
-  "LastUpdate_Ratings": "2023-09-03T19:57:58.1242674+00:00",
-  "LastUpdate_Achievements": "2023-09-03T20:03:24.1513111+00:00"
+  "LastUpdate_Ratings": "2023-09-03T20:58:05.6507372+00:00",
+  "LastUpdate_Achievements": "2023-09-03T21:03:19.8975077+00:00"
 }

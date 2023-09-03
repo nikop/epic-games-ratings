@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 2790,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -5780,9 +5780,9 @@
       "ID": "ach_tornado",
       "SetID": "3h4khpo",
       "Name": "Aeolus",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 753
+      "UsersEstimate": 781
     }
   ],
   "AchievementSets": [
@@ -5795,8 +5795,8 @@
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-09-03T20:04:49.2828119+00:00",
+  "LastChanged_Achievements": "2023-09-03T21:05:07.1348011+00:00",
   "LastUpdate_AppInfo": "2023-09-01T13:01:22.2912028+00:00",
-  "LastUpdate_Ratings": "2023-09-03T20:01:46.8502863+00:00",
-  "LastUpdate_Achievements": "2023-09-03T20:04:49.2828665+00:00"
+  "LastUpdate_Ratings": "2023-09-03T21:02:32.5912716+00:00",
+  "LastUpdate_Achievements": "2023-09-03T21:05:07.1348516+00:00"
 }

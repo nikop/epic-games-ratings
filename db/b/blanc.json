@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2607,
+  "EOS_Progressed": 2608,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -2973,6 +2973,11 @@
       "Time": "2023-09-03T18:02:14.0586106+00:00",
       "NumProgressed": 2607,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-03T21:03:21.5754587+00:00",
+      "NumProgressed": 2608,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -3064,7 +3069,7 @@
       "Name": "The end",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "TRANSMISSION",
@@ -3080,14 +3085,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2607,
+      "Progressed": 2608,
       "Completed": 6
     }
   ],
@@ -3095,8 +3100,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-09-03T20:03:25.7852329+00:00",
+  "LastChanged_Achievements": "2023-09-03T21:03:21.5754583+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:06.6314388+00:00",
-  "LastUpdate_Ratings": "2023-09-03T19:59:51.4198623+00:00",
-  "LastUpdate_Achievements": "2023-09-03T20:03:25.785271+00:00"
+  "LastUpdate_Ratings": "2023-09-03T21:00:17.4636664+00:00",
+  "LastUpdate_Achievements": "2023-09-03T21:03:21.5754937+00:00"
 }

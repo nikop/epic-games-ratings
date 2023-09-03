@@ -215,9 +215,9 @@
       "ID": "BADGE_BOSS_3_KILL",
       "SetID": "ak6pfjk",
       "Name": "Clean Forests",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 102
     },
     {
       "ID": "BADGE_BOSS_4_KILL",
@@ -287,9 +287,9 @@
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_3",
       "SetID": "ak6pfjk",
       "Name": "Brilliant: Tanglewood",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 89
     },
     {
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_4",
@@ -535,9 +535,9 @@
       "ID": "BADGE_NINJA_INVISIBLE_KILL",
       "SetID": "ak6pfjk",
       "Name": "Combo Breaker",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "BADGE_PLAYER_RANK",
@@ -551,9 +551,9 @@
       "ID": "BADGE_PLAYER_RANK_2",
       "SetID": "ak6pfjk",
       "Name": "Lieutenant of the Evil",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "BADGE_POLYMORPH_COUNT",
@@ -624,8 +624,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-09-03T20:03:33.0856368+00:00",
+  "LastChanged_Achievements": "2023-09-03T21:03:29.8406545+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:40.5242342+00:00",
-  "LastUpdate_Ratings": "2023-09-03T19:58:34.0286477+00:00",
-  "LastUpdate_Achievements": "2023-09-03T20:03:33.0856927+00:00"
+  "LastUpdate_Ratings": "2023-09-03T20:58:48.11406+00:00",
+  "LastUpdate_Achievements": "2023-09-03T21:03:29.8406951+00:00"
 }

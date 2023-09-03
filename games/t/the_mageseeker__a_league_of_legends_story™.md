@@ -22,7 +22,7 @@ Rating: 4.82 (Ranked 65)
 | Petricite Burst | 31.00% | ~786 |
 | Hijack | 29.00% | ~736 |
 | Old friend | 29.00% | ~736 |
-| Devineur | 28.00% | ~710 |
+| Devineur | 29.00% | ~736 |
 | Whispers in the Woods I | 27.00% | ~685 |
 | I chose my shackles | 25.00% | ~634 |
 | Ancient power | 25.00% | ~634 |

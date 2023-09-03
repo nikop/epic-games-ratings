@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -319,7 +319,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7134,
+  "EOS_Progressed": 7135,
   "EOS_Completed": 53,
   "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
@@ -4079,6 +4079,11 @@
       "Time": "2023-09-03T19:07:33.710396+00:00",
       "NumProgressed": 7134,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-09-03T21:08:10.2936674+00:00",
+      "NumProgressed": 7135,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 27,
@@ -4122,7 +4127,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3781
+      "UsersEstimate": 3782
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -4138,7 +4143,7 @@
       "Name": "Hopes Hoisted",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1569
+      "UsersEstimate": 1570
     },
     {
       "ID": "AK_IRONS_SCORCHED",
@@ -4178,7 +4183,7 @@
       "Name": "A Learned Scholar",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "AK_ON_TOWN",
@@ -4202,7 +4207,7 @@
       "Name": "Prophecy Fulfilled",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "AK_PYRE_IGNITED",
@@ -4242,7 +4247,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3995
+      "UsersEstimate": 3996
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -4298,22 +4303,22 @@
       "Name": "Worthy of the Title",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1355
+      "UsersEstimate": 1356
     }
   ],
   "AchievementSets": [
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7134,
+      "Progressed": 7135,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-08-27T09:59:24.0528306+00:00",
-  "LastChanged_Achievements": "2023-09-03T20:07:27.5204102+00:00",
+  "LastChanged_Achievements": "2023-09-03T21:08:10.2936671+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:20.9166051+00:00",
-  "LastUpdate_Ratings": "2023-09-03T19:57:42.6598411+00:00",
-  "LastUpdate_Achievements": "2023-09-03T20:07:27.520462+00:00"
+  "LastUpdate_Ratings": "2023-09-03T20:57:48.4515458+00:00",
+  "LastUpdate_Achievements": "2023-09-03T21:08:10.2937076+00:00"
 }

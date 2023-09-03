@@ -35,8 +35,8 @@
 | Intriguing candies | 57.00% | ~177 |
 | Legal courier | 54.00% | ~168 |
 | Extreme neuropower! | 54.00% | ~168 |
+| Escaped from a big trouble | 51.00% | ~159 |
 | Now you are worthy | 50.00% | ~156 |
-| Escaped from a big trouble | 50.00% | ~156 |
 | Fight is life | 46.00% | ~143 |
 | Guiding on the right path | 46.00% | ~143 |
 | Mysterious voice | 45.00% | ~140 |
@@ -52,7 +52,7 @@
 | The die is cast | 38.00% | ~118 |
 | Your own way | 37.00% | ~115 |
 | Seashell hunter | 36.00% | ~112 |
-| Gang wrangler | 34.00% | ~106 |
+| Gang wrangler | 35.00% | ~109 |
 | Undercover robot | 34.00% | ~106 |
 | Problems of cyborgs | 33.00% | ~103 |
 | Absolute Champion! | 33.00% | ~103 |

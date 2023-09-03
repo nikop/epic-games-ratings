@@ -1665,9 +1665,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13763,
+  "EOS_Progressed": 13764,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10915,6 +10915,11 @@
       "Time": "2023-09-03T20:04:34.52752+00:00",
       "NumProgressed": 13763,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-03T21:04:50.6982428+00:00",
+      "NumProgressed": 13764,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -12868,9 +12873,9 @@
       "ID": "ACHIEVEMENT_TECH_INDUSTRIAL_PROGRESS",
       "SetID": "9201eeb",
       "Name": "Industrial Progress",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 96
+      "UsersEstimate": 110
     },
     {
       "ID": "ACHIEVEMENT_TECH_MILITARY_PRESTIGE",
@@ -13293,21 +13298,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13763,
+      "Progressed": 13764,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13763,
+      "Progressed": 13764,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-03T09:58:27.4648415+00:00",
-  "LastChanged_Achievements": "2023-09-03T20:04:34.5275188+00:00",
+  "LastChanged_Achievements": "2023-09-03T21:04:50.6982304+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:29.3167237+00:00",
-  "LastUpdate_Ratings": "2023-09-03T19:58:24.1869693+00:00",
-  "LastUpdate_Achievements": "2023-09-03T20:04:34.5285355+00:00"
+  "LastUpdate_Ratings": "2023-09-03T20:58:36.4436056+00:00",
+  "LastUpdate_Achievements": "2023-09-03T21:04:50.6993+00:00"
 }

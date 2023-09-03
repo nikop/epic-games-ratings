@@ -337,9 +337,9 @@
       "ID": "BRING_MARY",
       "SetID": "aniflfk",
       "Name": "Retro Diva",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 39
     },
     {
       "ID": "BRING_PROSPERO",
@@ -377,17 +377,17 @@
       "ID": "GO_ON_EXPEDITION",
       "SetID": "aniflfk",
       "Name": "Off on an Expedition!",
-      "Percentage": 50,
+      "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 40
     },
     {
       "ID": "GROW_20_PLANTS",
       "SetID": "aniflfk",
       "Name": "Farmer",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "HOUSEWARMING",
@@ -401,9 +401,9 @@
       "ID": "LUNCH_LEECH",
       "SetID": "aniflfk",
       "Name": "Leech Lunch",
-      "Percentage": 34,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
@@ -433,9 +433,9 @@
       "ID": "REMOVE_100_WEEDS",
       "SetID": "aniflfk",
       "Name": "Weed Warrior",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "REPAIR_BRIDGE",
@@ -465,9 +465,9 @@
       "ID": "TAKE_LEECH",
       "SetID": "aniflfk",
       "Name": "Uppies!",
-      "Percentage": 55,
+      "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -488,8 +488,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-03T20:07:51.2464814+00:00",
+  "LastChanged_Achievements": "2023-09-03T21:08:38.1668358+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:06.6191746+00:00",
-  "LastUpdate_Ratings": "2023-09-03T19:57:20.5872113+00:00",
-  "LastUpdate_Achievements": "2023-09-03T20:07:51.2465094+00:00"
+  "LastUpdate_Ratings": "2023-09-03T20:57:20.8299953+00:00",
+  "LastUpdate_Achievements": "2023-09-03T21:08:38.166853+00:00"
 }

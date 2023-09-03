@@ -104,6 +104,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Subjugator | 0.80% | ~110 |
 | Circus Maximus | 0.80% | ~110 |
 | Church of the Holy Sepulchre | 0.80% | ~110 |
+| Industrial Progress | 0.80% | ~110 |
 | Redemption | 0.80% | ~110 |
 | Cimmerian Archer | 0.80% | ~110 |
 | Ambition Victory | 0.80% | ~110 |
@@ -117,7 +118,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonia | 0.70% | ~96 |
 | Carthage | 0.70% | ~96 |
 | Assyrian Paganism | 0.70% | ~96 |
-| Industrial Progress | 0.70% | ~96 |
 | Military Prestige | 0.70% | ~96 |
 | Enlightenment | 0.70% | ~96 |
 | Gnosticism | 0.70% | ~96 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,763 (Ranked 120)  
+Progressed: 13,764 (Ranked 120)  
 Completed: 5 (0.04%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -439,7 +439,7 @@ Completed: 5 (0.04%) (Ranked 240)
 | 2023-08-31 | 13,711 | 5 |
 | 2023-09-01 | 13,732 | 5 |
 | 2023-09-02 | 13,749 | 5 |
-| 2023-09-03 | 13,763 | 5 |
+| 2023-09-03 | 13,764 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 264)  
 Sum: 1,802 (Ranked 207)  

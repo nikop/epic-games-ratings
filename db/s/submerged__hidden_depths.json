@@ -3,11 +3,11 @@
   "Name": "Submerged: Hidden Depths",
   "ProductSlug": "submerged-hidden-depths-6065a1",
   "Ranking_Rating": 843,
-  "Ranking_Popularity": 413,
+  "Ranking_Popularity": 412,
   "Ranking_PopularitySum": 336,
   "Ranking_EOS_Progress": 572,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewPlayers": 351,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-03-10T00:00:00+00:00",
@@ -712,11 +712,17 @@
       "Rating": 4.24,
       "NumberOfAwards": 324,
       "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2023-09-03T21:01:20.000826+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 326,
+      "NumberOfAwardsMax": 46
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 324,
-  "NumberOfAwardsMax": 45,
+  "NumberOfAwards": 326,
+  "NumberOfAwardsMax": 46,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -735,7 +741,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 36
+      "Count": 37
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -753,7 +759,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 45
+      "Count": 46
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -786,8 +792,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:30:35.8919962+00:00",
   "FirstSeenRating": "2022-09-02T17:02:43.442034+00:00",
-  "LastChanged": "2023-06-18T07:59:47.4673256+00:00",
+  "LastChanged": "2023-09-03T21:01:20.0008259+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:23.7970167+00:00",
-  "LastUpdate_Ratings": "2023-09-03T20:00:46.7804711+00:00",
-  "LastUpdate_Achievements": "2023-09-03T20:07:35.1175945+00:00"
+  "LastUpdate_Ratings": "2023-09-03T21:01:20.0008264+00:00",
+  "LastUpdate_Achievements": "2023-09-03T21:08:19.0749304+00:00"
 }
