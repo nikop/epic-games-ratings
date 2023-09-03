@@ -15,7 +15,7 @@
 | 13 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 13 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 19.86% |
-| 16 | [Island Cities](games/i/island_cities.md) | 18.51% |
+| 16 | [Island Cities](games/i/island_cities.md) | 18.72% |
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
 | 18 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.37% |
 | 19 | [Anna's Quest](games/a/anna's_quest.md) | 13.51% |
@@ -87,7 +87,7 @@
 | 85 | [Lamentum](games/l/lamentum.md) | 2.53% |
 | 86 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.50% |
 | 86 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 88 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.31% |
+| 88 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.29% |
 | 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.27% |
 | 90 | [Bloodshore](games/b/bloodshore.md) | 2.19% |
 | 91 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
@@ -178,8 +178,8 @@
 | 176 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.33% |
 | 177 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 177 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
-| 177 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.31% |
 | 177 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
+| 180 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.30% |
 | 181 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
 | 181 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
 | 183 | [Against the Storm](games/a/against_the_storm.md) | 0.28% |
@@ -195,9 +195,9 @@
 | 192 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
 | 194 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
 | 194 | [Going Medieval](games/g/going_medieval.md) | 0.21% |
+| 196 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.20% |
 | 196 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.20% |
-| 197 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.19% |
-| 197 | [RAILGRADE](games/r/railgrade.md) | 0.19% |
+| 198 | [RAILGRADE](games/r/railgrade.md) | 0.19% |
 | 199 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.18% |
 | 200 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.17% |
 | 201 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.16% |
