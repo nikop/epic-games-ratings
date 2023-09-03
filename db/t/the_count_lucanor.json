@@ -4,7 +4,7 @@
   "ProductSlug": "the-count-lucanor",
   "Ranking_EOS_Progress": 572,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 347,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-06-30T17:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:19.3646833+00:00",
   "LastChanged": "2023-03-31T05:58:19.3646835+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:09.2323113+00:00",
-  "LastUpdate_Ratings": "2023-09-03T06:59:49.6639565+00:00",
-  "LastUpdate_Achievements": "2023-09-03T07:05:34.5637354+00:00"
+  "LastUpdate_Ratings": "2023-09-03T07:59:19.7253083+00:00",
+  "LastUpdate_Achievements": "2023-09-03T08:05:08.3119065+00:00"
 }

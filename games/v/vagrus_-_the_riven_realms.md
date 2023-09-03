@@ -61,6 +61,7 @@
 | Conqueror | 0.70% | ~1 |
 | Manticore | 0.70% | ~1 |
 | Moving At Odd Angles | 0.70% | ~1 |
+| Escort | 0.70% | ~1 |
 | Despoiler | 0.70% | ~1 |
 | Celebrity | 0.70% | ~1 |
 | Arcanite | 0.70% | ~1 |
@@ -94,7 +95,6 @@
 | Mercenary Lord | 0.00% | ~0 |
 | Handymen | 0.00% | ~0 |
 | Settler | 0.00% | ~0 |
-| Escort | 0.00% | ~0 |
 | What Lies Below | 0.00% | ~0 |
 | Rage Repressed | 0.00% | ~0 |
 | The Last Voyage | 0.00% | ~0 |

@@ -440,9 +440,9 @@
       "ID": "Trophy_42",
       "SetID": "cf5h6dl",
       "Name": "DJ Superstar",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Trophy_43",
@@ -489,8 +489,8 @@
   "FirstSeenRating": "2023-04-14T13:04:33.1915334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:56.3452226+00:00",
   "LastChanged": "2023-04-14T13:04:33.1915334+00:00",
-  "LastChanged_Achievements": "2023-09-03T07:07:29.319736+00:00",
+  "LastChanged_Achievements": "2023-09-03T08:07:00.5306749+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:25.1515466+00:00",
-  "LastUpdate_Ratings": "2023-09-03T07:00:44.9827004+00:00",
-  "LastUpdate_Achievements": "2023-09-03T07:07:29.3197871+00:00"
+  "LastUpdate_Ratings": "2023-09-03T08:00:13.0141545+00:00",
+  "LastUpdate_Achievements": "2023-09-03T08:07:00.5307488+00:00"
 }

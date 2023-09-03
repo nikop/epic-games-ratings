@@ -16,12 +16,12 @@
 | It's Alive! | 11.00% | ~4 |
 | Did Someone Order Ramen? | 11.00% | ~4 |
 | Ptera Pal | 11.00% | ~4 |
+| DJ Superstar | 11.00% | ~4 |
 | My Fair Ladybug | 9.00% | ~3 |
 | The Holly Grail | 9.00% | ~3 |
 | What's That Smell? | 9.00% | ~3 |
 | That Was a Snap! | 9.00% | ~3 |
 | Farm Life! | 9.00% | ~3 |
-| DJ Superstar | 9.00% | ~3 |
 | Asso Bridge Enthusiast | 9.00% | ~3 |
 | A New Time | 6.00% | ~2 |
 | Beetle Savant | 6.00% | ~2 |

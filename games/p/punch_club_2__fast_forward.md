@@ -46,10 +46,10 @@
 | Responsible approach | 40.00% | ~123 |
 | Deal with life | 39.00% | ~120 |
 | Mom got better | 38.00% | ~117 |
+| GYM professional | 38.00% | ~117 |
 | Poisoned fighter | 38.00% | ~117 |
 | Get out of my apartment! | 38.00% | ~117 |
 | The die is cast | 38.00% | ~117 |
-| GYM professional | 37.00% | ~114 |
 | Your own way | 37.00% | ~114 |
 | Seashell hunter | 36.00% | ~111 |
 | Gang wrangler | 35.00% | ~107 |
@@ -71,7 +71,7 @@
 | Better cooking at home | 27.00% | ~83 |
 | The only right decision | 27.00% | ~83 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 307 (Ranked 273)  
+Progressed: 307 (Ranked 274)  
 Completed: 8 (2.61%) (Ranked 81)  
 ## EOS Players History
 | Date | Progressed | Completed |

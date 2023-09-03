@@ -6,7 +6,7 @@ Rating: 4.68 (Ranked 241)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tooth fairy | 26.00% | ~168 |
-| Dental maturity | 20.00% | ~129 |
+| Dental maturity | 20.00% | ~130 |
 | Devil's in the details | 15.00% | ~97 |
 | Uprooting | 14.00% | ~91 |
 | Forbidden techniques | 13.00% | ~84 |
@@ -38,7 +38,7 @@ Rating: 4.68 (Ranked 241)
 | Mushrooming enthusiast | 0.60% | ~4 |
 | Apex predator | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 647 (Ranked 224)  
+Progressed: 648 (Ranked 224)  
 Completed: 1 (0.15%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,6 +161,7 @@ Completed: 1 (0.15%) (Ranked 206)
 | 2023-08-29 | 644 | 1 |
 | 2023-08-30 | 646 | 1 |
 | 2023-09-02 | 647 | 1 |
+| 2023-09-03 | 648 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

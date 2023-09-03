@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 365,
   "Ranking_EOS_Completed": 112,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 71,
+  "EOS_Progressed": 72,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.41,
+  "EOS_Completed_Percentage": 1.39,
   "EosHistory": [
     {
       "Time": "2023-08-29T09:05:59.1773399+00:00",
@@ -286,6 +286,11 @@
       "Time": "2023-09-03T00:08:45.1431995+00:00",
       "NumProgressed": 71,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-03T08:07:03.6143485+00:00",
+      "NumProgressed": 72,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -298,7 +303,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 79,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -312,7 +317,7 @@
       "ID": "BRING_MARY",
       "SetID": "aniflfk",
       "Name": "Retro Diva",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 50,
       "UsersEstimate": 34
     },
@@ -376,7 +381,7 @@
       "ID": "LUNCH_LEECH",
       "SetID": "aniflfk",
       "Name": "Leech Lunch",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 50,
       "UsersEstimate": 24
     },
@@ -440,7 +445,7 @@
       "ID": "TAKE_LEECH",
       "SetID": "aniflfk",
       "Name": "Uppies!",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 50,
       "UsersEstimate": 39
     },
@@ -448,7 +453,7 @@
       "ID": "UPGRADE_SMART_TOWER",
       "SetID": "aniflfk",
       "Name": "Strong Signal",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 50,
       "UsersEstimate": 16
     }
@@ -457,14 +462,14 @@
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 71,
+      "Progressed": 72,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-03T07:07:32.5723193+00:00",
+  "LastChanged_Achievements": "2023-09-03T08:07:03.614348+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:06.6191746+00:00",
-  "LastUpdate_Ratings": "2023-09-03T06:57:11.7558318+00:00",
-  "LastUpdate_Achievements": "2023-09-03T07:07:32.5723359+00:00"
+  "LastUpdate_Ratings": "2023-09-03T07:56:57.923631+00:00",
+  "LastUpdate_Achievements": "2023-09-03T08:07:03.6143653+00:00"
 }

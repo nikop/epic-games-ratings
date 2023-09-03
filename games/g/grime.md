@@ -6,36 +6,36 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Imprint | 88.00% | ~127,980 |
-| Taste | 84.00% | ~122,163 |
-| The Hunt | 66.00% | ~95,985 |
-| Ravenous | 63.00% | ~91,622 |
-| Weeper | 43.00% | ~62,536 |
-| Devourer | 23.00% | ~33,449 |
-| Harmless | 19.00% | ~27,632 |
-| Silenced Whispers | 19.00% | ~27,632 |
-| Sharpened Vessel | 16.00% | ~23,269 |
-| Yank | 15.00% | ~21,815 |
-| Scion | 12.00% | ~17,402 |
-| Jawcrab | 12.00% | ~17,452 |
-| Jawstag | 12.00% | ~17,452 |
-| Feast | 12.00% | ~17,452 |
-| Watcher | 10.00% | ~14,543 |
+| Imprint | 88.00% | ~127,987 |
+| Taste | 84.00% | ~122,170 |
+| The Hunt | 66.00% | ~95,990 |
+| Ravenous | 63.00% | ~91,627 |
+| Weeper | 43.00% | ~62,539 |
+| Devourer | 23.00% | ~33,451 |
+| Harmless | 19.00% | ~27,634 |
+| Silenced Whispers | 19.00% | ~27,634 |
+| Sharpened Vessel | 16.00% | ~23,270 |
+| Yank | 15.00% | ~21,816 |
+| Scion | 12.00% | ~17,403 |
+| Jawcrab | 12.00% | ~17,453 |
+| Jawstag | 12.00% | ~17,453 |
+| Feast | 12.00% | ~17,453 |
+| Watcher | 10.00% | ~14,544 |
 | Shapely | 8.00% | ~11,635 |
-| Glare | 8.00% | ~11,601 |
+| Glare | 8.00% | ~11,602 |
 | Predator | 8.00% | ~11,635 |
-| Assimilation | 7.00% | ~10,180 |
+| Assimilation | 7.00% | ~10,181 |
 | Host | 6.00% | ~8,701 |
 | Celebration | 6.00% | ~8,726 |
 | Hunt Down | 5.00% | ~7,272 |
 | Artisan | 5.00% | ~7,272 |
 | Breathsmith | 5.00% | ~7,272 |
-| Breath | 4.00% | ~5,817 |
-| Hush | 4.00% | ~5,817 |
-| Inevitable | 4.00% | ~5,817 |
-| Unwrap the Gift | 4.00% | ~5,817 |
+| Breath | 4.00% | ~5,818 |
+| Hush | 4.00% | ~5,818 |
+| Inevitable | 4.00% | ~5,818 |
+| Unwrap the Gift | 4.00% | ~5,818 |
 | Dream | 4.00% | ~5,801 |
-| Proportions | 4.00% | ~5,817 |
+| Proportions | 4.00% | ~5,818 |
 | Bloodhunter | 3.00% | ~4,363 |
 | All-Seeing | 3.00% | ~4,363 |
 | Passage | 3.00% | ~4,363 |
@@ -49,7 +49,7 @@ Number of Ratings: 46  (23.09.2022)
 | Instruments | 0.70% | ~1,018 |
 | Spiral Heart | 0.10% | ~145 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 145,432 (Ranked 65)  
+Progressed: 145,440 (Ranked 65)  
 Completed: 1 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 1 (0.00%) (Ranked 271)
 | 2023-08-31 | 144,602 | 1 |
 | 2023-09-01 | 144,925 | 1 |
 | 2023-09-02 | 145,319 | 1 |
-| 2023-09-03 | 145,432 | 1 |
+| 2023-09-03 | 145,440 | 1 |
 ## Awards
 Max (Highly Recommended): 31  (Ranked 460)  
 Sum: 170 (Ranked 388)  

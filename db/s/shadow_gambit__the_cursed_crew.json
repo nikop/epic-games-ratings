@@ -32,9 +32,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 585,
+  "EOS_Progressed": 586,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.88,
   "EosHistory": [
@@ -1382,6 +1382,11 @@
       "Time": "2023-09-02T23:07:14.8899239+00:00",
       "NumProgressed": 585,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-03T08:06:04.7024137+00:00",
+      "NumProgressed": 586,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1402,15 +1407,15 @@
       "Name": "A New Journey",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "_03_FinishAct1",
       "SetID": "8a1io5d",
       "Name": "The Adventure Begins",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 328
+      "UsersEstimate": 322
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1426,7 +1431,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -1434,7 +1439,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "_07_FinishAct3",
@@ -1464,9 +1469,9 @@
       "ID": "_10_Completion_30",
       "SetID": "8a1io5d",
       "Name": "Buccaneer",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 123
+      "UsersEstimate": 117
     },
     {
       "ID": "_11_Completion_40",
@@ -1578,7 +1583,7 @@
       "Name": "Jaded Judge",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -1601,7 +1606,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 585,
+      "Progressed": 586,
       "Completed": 11
     }
   ],
@@ -1609,8 +1614,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-02T15:58:27.8231568+00:00",
-  "LastChanged_Achievements": "2023-09-03T07:06:33.45124+00:00",
+  "LastChanged_Achievements": "2023-09-03T08:06:04.7024126+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:46.0913582+00:00",
-  "LastUpdate_Ratings": "2023-09-03T06:58:33.0447575+00:00",
-  "LastUpdate_Achievements": "2023-09-03T07:06:33.4512702+00:00"
+  "LastUpdate_Ratings": "2023-09-03T07:58:10.9912357+00:00",
+  "LastUpdate_Achievements": "2023-09-03T08:06:04.7024592+00:00"
 }

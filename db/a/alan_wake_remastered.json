@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 62215,
+  "EOS_Progressed": 62217,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 464,
+  "EOS_NewPlayers": 462,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -13312,6 +13312,11 @@
       "Time": "2023-09-03T07:04:12.047857+00:00",
       "NumProgressed": 62215,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-09-03T08:03:47.1666284+00:00",
+      "NumProgressed": 62217,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -13355,7 +13360,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 13065
+      "UsersEstimate": 13066
     },
     {
       "ID": "06",
@@ -13515,7 +13520,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5599
+      "UsersEstimate": 5600
     },
     {
       "ID": "26",
@@ -13547,7 +13552,7 @@
       "Name": "Sound and Fury",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9332
+      "UsersEstimate": 9333
     },
     {
       "ID": "30",
@@ -13563,7 +13568,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 9954
+      "UsersEstimate": 9955
     },
     {
       "ID": "32",
@@ -13571,7 +13576,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 18664
+      "UsersEstimate": 18665
     },
     {
       "ID": "33",
@@ -13603,7 +13608,7 @@
       "Name": "Carny",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1866
+      "UsersEstimate": 1867
     },
     {
       "ID": "37",
@@ -13635,7 +13640,7 @@
       "Name": "Right of Way",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5599
+      "UsersEstimate": 5600
     },
     {
       "ID": "41",
@@ -13643,7 +13648,7 @@
       "Name": "Finders Keepers",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 9954
+      "UsersEstimate": 9955
     },
     {
       "ID": "42",
@@ -13683,7 +13688,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 9332
+      "UsersEstimate": 9333
     },
     {
       "ID": "47",
@@ -13795,7 +13800,7 @@
       "Name": "Kill Your Darlings",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "61",
@@ -13851,28 +13856,28 @@
       "Name": "Heartbreaker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     }
   ],
   "AchievementSets": [
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 62215,
+      "Progressed": 62217,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 25683,
+      "Progressed": 25685,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-03T07:04:12.0478563+00:00",
+  "LastChanged_Achievements": "2023-09-03T08:03:47.1666277+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:56:59.9039957+00:00",
-  "LastUpdate_Ratings": "2023-09-03T06:57:50.7833359+00:00",
-  "LastUpdate_Achievements": "2023-09-03T07:04:12.0480175+00:00"
+  "LastUpdate_Ratings": "2023-09-03T07:57:33.6305945+00:00",
+  "LastUpdate_Achievements": "2023-09-03T08:03:47.1668249+00:00"
 }

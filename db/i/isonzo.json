@@ -808,9 +808,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6712,
+  "EOS_Progressed": 6713,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -4833,6 +4833,11 @@
       "Time": "2023-09-03T02:20:31.2908404+00:00",
       "NumProgressed": 6712,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-03T08:04:49.0674074+00:00",
+      "NumProgressed": 6713,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -4892,7 +4897,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2416
+      "UsersEstimate": 2417
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -4972,7 +4977,7 @@
       "Name": "Insubordination",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1342
+      "UsersEstimate": 1343
     },
     {
       "ID": "ISONZO_ACH_I_HAVE_THE_HIGH_GROUND",
@@ -5076,7 +5081,7 @@
       "Name": "Seeing Red",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "ISONZO_ACH_SHAKEN_NOT_STIRRED",
@@ -5116,7 +5121,7 @@
       "Name": "The Devil\u0027s Paintbrush",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "ISONZO_ACH_THE_ENLIGHTMENT",
@@ -5196,14 +5201,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3557
+      "UsersEstimate": 3558
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6712,
+      "Progressed": 6713,
       "Completed": 8
     }
   ],
@@ -5211,8 +5216,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-09-02T12:59:05.1112111+00:00",
-  "LastChanged_Achievements": "2023-09-03T07:05:15.1463156+00:00",
+  "LastChanged_Achievements": "2023-09-03T08:04:49.0674067+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:31.6871917+00:00",
-  "LastUpdate_Ratings": "2023-09-03T06:57:50.3657141+00:00",
-  "LastUpdate_Achievements": "2023-09-03T07:05:15.1463832+00:00"
+  "LastUpdate_Ratings": "2023-09-03T07:57:33.3342072+00:00",
+  "LastUpdate_Achievements": "2023-09-03T08:04:49.0675151+00:00"
 }

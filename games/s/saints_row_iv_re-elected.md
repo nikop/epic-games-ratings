@@ -5,36 +5,36 @@ Rating: 4.40 (Ranked 711)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zero Saints Thirty | 64.00% | ~165,451 |
-| Destroyer-In-Chief | 58.00% | ~149,940 |
-| There Is No Pancakes | 54.00% | ~139,599 |
-| First of Many | 42.00% | ~108,577 |
-| Woah. | 37.00% | ~95,651 |
-| Don't Look Down | 30.00% | ~77,555 |
-| Don't Panic | 28.00% | ~72,385 |
-| Ooo A Piece of Candy! | 23.00% | ~59,459 |
-| Ghost in the Machine | 18.00% | ~46,533 |
-| All Too Easy | 15.00% | ~38,778 |
-| Didn't Need to See Him Naked | 14.00% | ~36,192 |
-| Indomitable | 10.00% | ~25,852 |
-| Blast from the Past | 9.00% | ~23,267 |
-| Bow to the Boss! | 9.00% | ~23,267 |
-| Friend of the Raptors | 9.00% | ~23,267 |
-| About Time! | 8.00% | ~20,681 |
-| Actor-Turned-Politician | 7.00% | ~18,096 |
-| Betrayed | 7.00% | ~18,096 |
-| Maximum Stopping Power | 7.00% | ~18,096 |
-| Poodle Skirt | 7.00% | ~18,096 |
-| You Chose... Poorly | 7.00% | ~18,096 |
-| Double Team | 6.00% | ~15,511 |
-| Keymaster | 6.00% | ~15,511 |
-| *BEEP* YOU, CLAWZ! | 5.00% | ~12,926 |
-| Imperator | 5.00% | ~12,926 |
-| ...A Saint Gets a Gun | 4.00% | ~10,341 |
-| Half Way Home | 4.00% | ~10,341 |
-| How It Should Be | 4.00% | ~10,341 |
-| Machine Man | 4.00% | ~10,341 |
-| The Full Kinzie | 4.00% | ~10,341 |
+| Zero Saints Thirty | 64.00% | ~165,471 |
+| Destroyer-In-Chief | 58.00% | ~149,958 |
+| There Is No Pancakes | 54.00% | ~139,616 |
+| First of Many | 42.00% | ~108,590 |
+| Woah. | 37.00% | ~95,663 |
+| Don't Look Down | 30.00% | ~77,564 |
+| Don't Panic | 28.00% | ~72,393 |
+| Ooo A Piece of Candy! | 23.00% | ~59,466 |
+| Ghost in the Machine | 18.00% | ~46,539 |
+| All Too Easy | 15.00% | ~38,782 |
+| Didn't Need to See Him Naked | 14.00% | ~36,197 |
+| Indomitable | 10.00% | ~25,855 |
+| Blast from the Past | 9.00% | ~23,269 |
+| Bow to the Boss! | 9.00% | ~23,269 |
+| Friend of the Raptors | 9.00% | ~23,269 |
+| About Time! | 8.00% | ~20,684 |
+| Actor-Turned-Politician | 7.00% | ~18,098 |
+| Betrayed | 7.00% | ~18,098 |
+| Maximum Stopping Power | 7.00% | ~18,098 |
+| Poodle Skirt | 7.00% | ~18,098 |
+| You Chose... Poorly | 7.00% | ~18,098 |
+| Double Team | 6.00% | ~15,513 |
+| Keymaster | 6.00% | ~15,513 |
+| *BEEP* YOU, CLAWZ! | 5.00% | ~12,927 |
+| Imperator | 5.00% | ~12,927 |
+| ...A Saint Gets a Gun | 4.00% | ~10,342 |
+| Half Way Home | 4.00% | ~10,342 |
+| How It Should Be | 4.00% | ~10,342 |
+| Machine Man | 4.00% | ~10,342 |
+| The Full Kinzie | 4.00% | ~10,342 |
 | And I Ran... | 3.00% | ~7,756 |
 | Chill Out | 3.00% | ~7,756 |
 | Elementary | 3.00% | ~7,756 |
@@ -42,13 +42,13 @@ Rating: 4.40 (Ranked 711)
 | Paranormal Bromance | 3.00% | ~7,756 |
 | Saints & Sensibility | 3.00% | ~7,756 |
 | The Two Shaundis | 3.00% | ~7,756 |
-| Benjamin [CENSORED] King | 2.00% | ~5,170 |
-| Better This Way | 2.00% | ~5,170 |
-| Bouncin' with an Old Friend | 2.00% | ~5,170 |
-| Our Gift to You | 2.00% | ~5,170 |
-| The Face of the Saints | 2.00% | ~5,170 |
-| The Twin Saints | 2.00% | ~5,170 |
-| Where's My Cape? | 2.00% | ~5,170 |
+| Benjamin [CENSORED] King | 2.00% | ~5,171 |
+| Better This Way | 2.00% | ~5,171 |
+| Bouncin' with an Old Friend | 2.00% | ~5,171 |
+| Our Gift to You | 2.00% | ~5,171 |
+| The Face of the Saints | 2.00% | ~5,171 |
+| The Twin Saints | 2.00% | ~5,171 |
+| Where's My Cape? | 2.00% | ~5,171 |
 | A Real Cluster.... | 1.00% | ~2,585 |
 | A Very Genki Holiday | 1.00% | ~2,585 |
 | Here! Catch! | 1.00% | ~2,585 |
@@ -78,7 +78,7 @@ Rating: 4.40 (Ranked 711)
 | Super Power Team Up! | 0.10% | ~259 |
 | Ultimate Hot Potato | 0.10% | ~259 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 258,517 (Ranked 46)  
+Progressed: 258,548 (Ranked 46)  
 Completed: 15 (0.01%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 15 (0.01%) (Ranked 257)
 | 2023-08-31 | 256,635 | 15 |
 | 2023-09-01 | 257,384 | 15 |
 | 2023-09-02 | 258,279 | 15 |
-| 2023-09-03 | 258,517 | 15 |
+| 2023-09-03 | 258,548 | 15 |
 ## Awards
 Max (Great Boss Battles): 447  (Ranked 206)  
 Sum: 447 (Ranked 312)  

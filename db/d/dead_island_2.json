@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 178,
   "Ranking_EOS_NewPlayers": 17,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -4188,9 +4188,9 @@
       "Count": 336
     }
   ],
-  "EOS_Progressed": 672221,
+  "EOS_Progressed": 672249,
   "EOS_Completed": 2105,
-  "EOS_NewPlayers": 5743,
+  "EOS_NewPlayers": 5736,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -19328,6 +19328,11 @@
       "Time": "2023-09-03T07:05:31.7753728+00:00",
       "NumProgressed": 672221,
       "NumCompleted": 2105
+    },
+    {
+      "Time": "2023-09-03T08:05:05.6315299+00:00",
+      "NumProgressed": 672249,
+      "NumCompleted": 2105
     }
   ],
   "TotalAchievements": 45,
@@ -19465,9 +19470,9 @@
       "ID": "ach_get_to_the_chopper",
       "SetID": "7km39fm",
       "Name": "Like Riding a Bike",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4033
+      "UsersEstimate": 4706
     },
     {
       "ID": "ach_good_eyesight",
@@ -19698,7 +19703,7 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 672221,
+      "Progressed": 672249,
       "Completed": 2105
     }
   ],
@@ -19706,8 +19711,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-03T06:58:49.8302039+00:00",
-  "LastChanged_Achievements": "2023-09-03T07:05:31.7753722+00:00",
+  "LastChanged_Achievements": "2023-09-03T08:05:05.6315292+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:04.7021628+00:00",
-  "LastUpdate_Ratings": "2023-09-03T06:58:49.8302048+00:00",
-  "LastUpdate_Achievements": "2023-09-03T07:05:31.7756224+00:00"
+  "LastUpdate_Ratings": "2023-09-03T07:58:26.6740713+00:00",
+  "LastUpdate_Achievements": "2023-09-03T08:05:05.6317696+00:00"
 }

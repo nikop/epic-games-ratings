@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 101,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2019-12-10T11:00:00+00:00",
@@ -4273,9 +4273,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 702648,
+  "EOS_Progressed": 702649,
   "EOS_Completed": 6333,
-  "EOS_NewPlayers": 509,
+  "EOS_NewPlayers": 508,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
@@ -18768,6 +18768,11 @@
       "Time": "2023-09-03T07:03:15.8207454+00:00",
       "NumProgressed": 702648,
       "NumCompleted": 6333
+    },
+    {
+      "Time": "2023-09-03T08:02:22.8732724+00:00",
+      "NumProgressed": 702649,
+      "NumCompleted": 6333
     }
   ],
   "TotalAchievements": 49,
@@ -18779,7 +18784,7 @@
       "Name": "Back to Work",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 267006
+      "UsersEstimate": 267007
     },
     {
       "ID": "AchAresKills",
@@ -18827,7 +18832,7 @@
       "Name": "Three-Headed Boy",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 224847
+      "UsersEstimate": 224848
     },
     {
       "ID": "AchClearAnyRun",
@@ -18843,7 +18848,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 562118
+      "UsersEstimate": 562119
     },
     {
       "ID": "AchClearElysium",
@@ -18883,7 +18888,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 625357
+      "UsersEstimate": 625358
     },
     {
       "ID": "AchCrushedThanatos",
@@ -18907,7 +18912,7 @@
       "Name": "River Denizens",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 196741
+      "UsersEstimate": 196742
     },
     {
       "ID": "AchForgedBond",
@@ -18915,7 +18920,7 @@
       "Name": "Grown Close",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 196741
+      "UsersEstimate": 196742
     },
     {
       "ID": "AchFoundAllSummons",
@@ -19003,7 +19008,7 @@
       "Name": "Chthonic Colleagues",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 442668
+      "UsersEstimate": 442669
     },
     {
       "ID": "AchMirrorAllUnlocked",
@@ -19051,7 +19056,7 @@
       "Name": "Urge to Sing",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 252953
+      "UsersEstimate": 252954
     },
     {
       "ID": "AchPactUpgradesClears",
@@ -19091,7 +19096,7 @@
       "Name": "The Family Secret",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 182688
+      "UsersEstimate": 182689
     },
     {
       "ID": "AchReachedEpilogue",
@@ -19131,7 +19136,7 @@
       "Name": "Skelly Slayer",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 295112
+      "UsersEstimate": 295113
     },
     {
       "ID": "AchUnlockedAllWeapons",
@@ -19139,7 +19144,7 @@
       "Name": "Arms Collector",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 498880
+      "UsersEstimate": 498881
     },
     {
       "ID": "AchWeaponClears",
@@ -19155,7 +19160,7 @@
       "Name": "Well Stocked",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 281059
+      "UsersEstimate": 281060
     },
     {
       "ID": "ActUnlockedAllAspects",
@@ -19170,15 +19175,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 702648,
+      "Progressed": 702649,
       "Completed": 6333
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
   "LastChanged": "2023-09-03T02:57:57.6738102+00:00",
-  "LastChanged_Achievements": "2023-09-03T07:03:15.8207449+00:00",
+  "LastChanged_Achievements": "2023-09-03T08:02:22.8732715+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:42.7681914+00:00",
-  "LastUpdate_Ratings": "2023-09-03T06:58:30.490804+00:00",
-  "LastUpdate_Achievements": "2023-09-03T07:03:15.8209407+00:00"
+  "LastUpdate_Ratings": "2023-09-03T07:58:08.700037+00:00",
+  "LastUpdate_Achievements": "2023-09-03T08:02:22.8735894+00:00"
 }
