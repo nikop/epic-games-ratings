@@ -37,7 +37,7 @@
 | 35 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.61% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.81% |
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
-| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.14% |
+| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.20% |
 | 39 | [Scorn](games/s/scorn.md) | 6.99% |
 | 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.95% |
 | 41 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.78% |
@@ -60,8 +60,8 @@
 | 58 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
 | 59 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.15% |
 | 60 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.07% |
-| 61 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.00% |
-| 61 | [ZZT!](games/z/zzt!.md) | 4.00% |
+| 61 | [ZZT!](games/z/zzt!.md) | 4.03% |
+| 62 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.00% |
 | 63 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 64 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 65 | [Doodle God](games/d/doodle_god.md) | 3.39% |
