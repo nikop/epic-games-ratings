@@ -5792,10 +5792,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27164,
       "NumberOfAwardsMax": 4719
+    },
+    {
+      "Time": "2023-09-03T02:58:14.8949616+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27167,
+      "NumberOfAwardsMax": 4719
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27164,
+  "NumberOfAwards": 27167,
   "NumberOfAwardsMax": 4719,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5839,7 +5845,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3165
+      "Count": 3168
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5848,9 +5854,9 @@
       "Count": 3740
     }
   ],
-  "EOS_Progressed": 135561,
+  "EOS_Progressed": 135565,
   "EOS_Completed": 140,
-  "EOS_NewPlayers": 362,
+  "EOS_NewPlayers": 365,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -19748,6 +19754,11 @@
       "Time": "2023-09-03T02:19:31.8983481+00:00",
       "NumProgressed": 135561,
       "NumCompleted": 140
+    },
+    {
+      "Time": "2023-09-03T03:03:29.1572253+00:00",
+      "NumProgressed": 135565,
+      "NumCompleted": 140
     }
   ],
   "TotalAchievements": 112,
@@ -20311,7 +20322,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1085
     },
     {
       "ID": "jackslot02",
@@ -20415,7 +20426,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1085
     },
     {
       "ID": "master02",
@@ -20654,15 +20665,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135561,
+      "Progressed": 135565,
       "Completed": 140
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-09-02T23:59:08.4469363+00:00",
-  "LastChanged_Achievements": "2023-09-03T02:19:31.8983474+00:00",
+  "LastChanged": "2023-09-03T02:58:14.8949614+00:00",
+  "LastChanged_Achievements": "2023-09-03T03:03:29.1572247+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:10.3701754+00:00",
-  "LastUpdate_Ratings": "2023-09-03T02:14:09.3364217+00:00",
-  "LastUpdate_Achievements": "2023-09-03T02:19:31.8987792+00:00"
+  "LastUpdate_Ratings": "2023-09-03T02:58:14.8949622+00:00",
+  "LastUpdate_Achievements": "2023-09-03T03:03:29.1574743+00:00"
 }

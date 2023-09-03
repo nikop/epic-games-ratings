@@ -2,7 +2,7 @@
   "ID": "0ecc6e3c452d42af84e78012db31bad9",
   "Name": "Pixel Art Coloring Book",
   "ProductSlug": "pixel-art-coloring-book-a485ef",
-  "Ranking_EOS_Progress": 164,
+  "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 140,
   "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 70,
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2776,
+  "EOS_Progressed": 2777,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -5591,6 +5591,11 @@
       "Time": "2023-09-02T23:04:53.0269147+00:00",
       "NumProgressed": 2776,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-09-03T03:03:43.9595744+00:00",
+      "NumProgressed": 2777,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 16,
@@ -5634,7 +5639,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 2110
+      "UsersEstimate": 2111
     },
     {
       "ID": "ach_architecture_completed",
@@ -5698,7 +5703,7 @@
       "Name": "Game opened",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 2054
+      "UsersEstimate": 2055
     },
     {
       "ID": "ach_magic_wand",
@@ -5722,21 +5727,21 @@
       "Name": "Aeolus",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     }
   ],
   "AchievementSets": [
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 2776,
+      "Progressed": 2777,
       "Completed": 17
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-09-03T02:19:50.2310176+00:00",
+  "LastChanged_Achievements": "2023-09-03T03:03:43.9595738+00:00",
   "LastUpdate_AppInfo": "2023-09-01T13:01:22.2912028+00:00",
-  "LastUpdate_Ratings": "2023-09-03T02:16:51.1589797+00:00",
-  "LastUpdate_Achievements": "2023-09-03T02:19:50.231097+00:00"
+  "LastUpdate_Ratings": "2023-09-03T03:00:22.9140182+00:00",
+  "LastUpdate_Achievements": "2023-09-03T03:03:43.9596231+00:00"
 }

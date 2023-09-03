@@ -29,8 +29,8 @@
 | Getting Started | 14.00% | ~39 |
 | Skin Of Your Teeth | 14.00% | ~39 |
 | Oh My Gourd | 14.00% | ~32 |
+| Quit Horsin' Around | 12.00% | ~34 |
 | Summers Here | 12.00% | ~28 |
-| Quit Horsin' Around | 11.00% | ~31 |
 | Fresh Pancake | 10.00% | ~28 |
 | Perfect | 10.00% | ~23 |
 | Expert Survivor | 9.00% | ~21 |

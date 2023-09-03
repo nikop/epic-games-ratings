@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4008,
+  "EOS_Progressed": 4009,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -6334,6 +6334,11 @@
       "Time": "2023-09-02T19:03:23.8200197+00:00",
       "NumProgressed": 4008,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-03T03:02:16.5323046+00:00",
+      "NumProgressed": 4009,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 71,
@@ -6343,9 +6348,9 @@
       "ID": "Ach001",
       "SetID": "12n4k20",
       "Name": "Start with a bang!",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 521
+      "UsersEstimate": 481
     },
     {
       "ID": "Ach002",
@@ -6369,7 +6374,7 @@
       "Name": "The Negotiator",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "Ach005",
@@ -6377,7 +6382,7 @@
       "Name": "Headliner",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "Ach006",
@@ -6385,7 +6390,7 @@
       "Name": "Time to pay up!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "Ach007",
@@ -6393,7 +6398,7 @@
       "Name": "Who\u0027s the boss now?",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "Ach008",
@@ -6481,7 +6486,7 @@
       "Name": "Whoa! There\u0027s ANOTHER health bar!?",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "Ach019",
@@ -6545,7 +6550,7 @@
       "Name": "You must like calling me in, Chai",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "Ach027",
@@ -6569,7 +6574,7 @@
       "Name": "Out in a puff of smoke",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "Ach030",
@@ -6761,7 +6766,7 @@
       "Name": "Does that say weakpoint?",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "Ach054",
@@ -6912,13 +6917,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4008,
+      "Progressed": 4009,
       "Completed": 7
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2529,
+      "Progressed": 2530,
       "Completed": 1929
     }
   ],
@@ -6926,8 +6931,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-08-30T23:57:48.3272093+00:00",
-  "LastChanged_Achievements": "2023-09-03T02:18:19.6873213+00:00",
+  "LastChanged_Achievements": "2023-09-03T03:02:16.5323032+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:07.0379973+00:00",
-  "LastUpdate_Ratings": "2023-09-03T02:14:06.6907689+00:00",
-  "LastUpdate_Achievements": "2023-09-03T02:18:19.6874502+00:00"
+  "LastUpdate_Ratings": "2023-09-03T02:58:12.9775864+00:00",
+  "LastUpdate_Achievements": "2023-09-03T03:02:16.5324238+00:00"
 }

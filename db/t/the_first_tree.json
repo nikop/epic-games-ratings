@@ -244,9 +244,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 35631,
+  "EOS_Progressed": 35633,
   "EOS_Completed": 109,
-  "EOS_NewPlayers": 279,
+  "EOS_NewPlayers": 278,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -12644,6 +12644,11 @@
       "Time": "2023-09-03T01:45:12.3502994+00:00",
       "NumProgressed": 35631,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2023-09-03T03:02:15.0791154+00:00",
+      "NumProgressed": 35633,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 14,
@@ -12671,7 +12676,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 9264
+      "UsersEstimate": 9265
     },
     {
       "ID": "allItems",
@@ -12743,7 +12748,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 27436
+      "UsersEstimate": 27437
     },
     {
       "ID": "roots",
@@ -12751,7 +12756,7 @@
       "Name": "The Way Forward",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 6057
+      "UsersEstimate": 6058
     },
     {
       "ID": "secretItem",
@@ -12766,15 +12771,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 35631,
+      "Progressed": 35633,
       "Completed": 109
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-07-24T04:01:31.3679912+00:00",
-  "LastChanged_Achievements": "2023-09-03T02:18:18.2975781+00:00",
+  "LastChanged_Achievements": "2023-09-03T03:02:15.0791148+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:58:08.6655373+00:00",
-  "LastUpdate_Ratings": "2023-09-03T02:16:22.2585435+00:00",
-  "LastUpdate_Achievements": "2023-09-03T02:18:18.2976938+00:00"
+  "LastUpdate_Ratings": "2023-09-03T02:59:58.9835813+00:00",
+  "LastUpdate_Achievements": "2023-09-03T03:02:15.0792059+00:00"
 }

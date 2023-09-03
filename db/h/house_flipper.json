@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 193,
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
@@ -1860,9 +1860,9 @@
       "Count": 213
     }
   ],
-  "EOS_Progressed": 20723,
+  "EOS_Progressed": 20724,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8120,6 +8120,11 @@
       "Time": "2023-09-02T21:06:41.580965+00:00",
       "NumProgressed": 20723,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-09-03T03:05:13.1058847+00:00",
+      "NumProgressed": 20724,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 23,
@@ -8179,7 +8184,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 19480
+      "UsersEstimate": 19481
     },
     {
       "ID": "GameOver",
@@ -8243,7 +8248,7 @@
       "Name": "Just Enough",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3937
+      "UsersEstimate": 3938
     },
     {
       "ID": "Negotiator",
@@ -8314,15 +8319,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 20723,
+      "Progressed": 20724,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-09-02T08:59:57.3767009+00:00",
-  "LastChanged_Achievements": "2023-09-03T02:21:25.5920017+00:00",
+  "LastChanged_Achievements": "2023-09-03T03:05:13.1058841+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:10.565038+00:00",
-  "LastUpdate_Ratings": "2023-09-03T02:15:16.815848+00:00",
-  "LastUpdate_Achievements": "2023-09-03T02:21:25.5920989+00:00"
+  "LastUpdate_Ratings": "2023-09-03T02:59:09.6029633+00:00",
+  "LastUpdate_Achievements": "2023-09-03T03:05:13.1059414+00:00"
 }

@@ -8,8 +8,8 @@
 | Springs | 61.00% | ~73 |
 | Soap | 41.00% | ~49 |
 | Act 1 | 34.00% | ~40 |
+| Capacitors | 33.00% | ~39 |
 | Wrench | 32.00% | ~38 |
-| Capacitors | 32.00% | ~38 |
 | Purr-fect | 31.00% | ~37 |
 | Mug | 29.00% | ~35 |
 | Soldering iron | 28.00% | ~33 |

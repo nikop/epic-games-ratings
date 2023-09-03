@@ -12,20 +12,20 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 4.00% | ~550 |
 | Play a Single Player Game | 4.00% | ~550 |
 | The Clergy | 4.00% | ~550 |
-| Able | 3.00% | ~412 |
-| Architect | 3.00% | ~412 |
-| Enlightened | 3.00% | ~412 |
-| Good | 3.00% | ~412 |
-| Just | 3.00% | ~412 |
-| Learned | 3.00% | ~412 |
-| Mason | 3.00% | ~412 |
-| Noble | 3.00% | ~412 |
-| Pioneer | 3.00% | ~412 |
-| Strong | 3.00% | ~412 |
-| Hanging Gardens | 3.00% | ~412 |
-| Oracle | 3.00% | ~412 |
-| Naming Landmarks | 3.00% | ~412 |
-| Trade Caravan | 3.00% | ~412 |
+| Able | 3.00% | ~413 |
+| Architect | 3.00% | ~413 |
+| Enlightened | 3.00% | ~413 |
+| Good | 3.00% | ~413 |
+| Just | 3.00% | ~413 |
+| Learned | 3.00% | ~413 |
+| Mason | 3.00% | ~413 |
+| Noble | 3.00% | ~413 |
+| Pioneer | 3.00% | ~413 |
+| Strong | 3.00% | ~413 |
+| Hanging Gardens | 3.00% | ~413 |
+| Oracle | 3.00% | ~413 |
+| Naming Landmarks | 3.00% | ~413 |
+| Trade Caravan | 3.00% | ~413 |
 | Regicide | 2.00% | ~275 |
 | Ambitious | 2.00% | ~275 |
 | Brilliant | 2.00% | ~275 |
@@ -123,13 +123,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Gnosticism | 0.70% | ~96 |
 | Revelation | 0.70% | ~96 |
 | Veneration | 0.70% | ~96 |
-| Ishtar Gate in Babylon | 0.60% | ~82 |
-| Strong Difficulty | 0.60% | ~82 |
-| Hunters | 0.60% | ~82 |
-| Learn to Play 4 | 0.60% | ~82 |
-| Hittite Paganism | 0.60% | ~82 |
-| Kushite Cavalry | 0.60% | ~82 |
-| No Undo | 0.60% | ~82 |
+| Ishtar Gate in Babylon | 0.60% | ~83 |
+| Strong Difficulty | 0.60% | ~83 |
+| Hunters | 0.60% | ~83 |
+| Learn to Play 4 | 0.60% | ~83 |
+| Hittite Paganism | 0.60% | ~83 |
+| Kushite Cavalry | 0.60% | ~83 |
+| No Undo | 0.60% | ~83 |
 | Old | 0.50% | ~69 |
 | Peacemaker | 0.50% | ~69 |
 | Clerics | 0.50% | ~69 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,750 (Ranked 120)  
+Progressed: 13,751 (Ranked 120)  
 Completed: 5 (0.04%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -439,7 +439,7 @@ Completed: 5 (0.04%) (Ranked 240)
 | 2023-08-31 | 13,711 | 5 |
 | 2023-09-01 | 13,732 | 5 |
 | 2023-09-02 | 13,749 | 5 |
-| 2023-09-03 | 13,750 | 5 |
+| 2023-09-03 | 13,751 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 265)  
 Sum: 1,801 (Ranked 207)  

@@ -4,8 +4,8 @@
   "ProductSlug": "samorost-2-1b9bb1",
   "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 2,
-  "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2005-12-08T12:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 81,
-  "EOS_Completed": 41,
+  "EOS_Completed": 42,
   "EOS_NewPlayers": 5,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 50.62,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 51.85,
   "EosHistory": [
     {
       "Time": "2023-06-30T19:02:26.4579198+00:00",
@@ -576,6 +576,11 @@
       "Time": "2023-09-02T14:05:42.1825653+00:00",
       "NumProgressed": 81,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-09-03T03:05:40.7508843+00:00",
+      "NumProgressed": 81,
+      "NumCompleted": 42
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.1574321+00:00",
@@ -618,33 +623,33 @@
       "ID": "Konec",
       "SetID": "823jm6g",
       "Name": "Happy End",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 75,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "Les",
       "SetID": "823jm6g",
       "Name": "Woods",
-      "Percentage": 75,
+      "Percentage": 77,
       "XP": 80,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Majak",
       "SetID": "823jm6g",
       "Name": "Lighthouse",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 75,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "Nora",
       "SetID": "823jm6g",
       "Name": "Burrow",
-      "Percentage": 75,
+      "Percentage": 77,
       "XP": 75,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Planina",
@@ -682,9 +687,9 @@
       "ID": "Tuleni",
       "SetID": "823jm6g",
       "Name": "Seal Peaks",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 75,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     }
   ],
   "AchievementSets": [
@@ -692,13 +697,13 @@
       "ID": "823jm6g",
       "IsBase": true,
       "Progressed": 81,
-      "Completed": 41
+      "Completed": 42
     }
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-09-03T02:21:59.5546167+00:00",
+  "LastChanged_Achievements": "2023-09-03T03:05:40.7508831+00:00",
   "LastUpdate_AppInfo": "2023-09-01T18:56:56.5595184+00:00",
-  "LastUpdate_Ratings": "2023-09-03T02:16:46.3792953+00:00",
-  "LastUpdate_Achievements": "2023-09-03T02:21:59.5546409+00:00"
+  "LastUpdate_Ratings": "2023-09-03T03:00:18.7035862+00:00",
+  "LastUpdate_Achievements": "2023-09-03T03:05:40.750899+00:00"
 }
