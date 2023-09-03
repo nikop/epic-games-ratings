@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T22:00:00+00:00",
@@ -809,9 +809,9 @@
       "ID": "ACH_BANDAGES",
       "SetID": "511e31d",
       "Name": "First aid",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 105
     },
     {
       "ID": "ACH_BATHROOM",
@@ -1040,8 +1040,8 @@
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2023-09-03T13:07:58.8819036+00:00",
+  "LastChanged_Achievements": "2023-09-03T14:05:03.5517516+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:24.0877027+00:00",
-  "LastUpdate_Ratings": "2023-09-03T13:00:02.6940915+00:00",
-  "LastUpdate_Achievements": "2023-09-03T13:07:58.8819319+00:00"
+  "LastUpdate_Ratings": "2023-09-03T13:57:28.9728082+00:00",
+  "LastUpdate_Achievements": "2023-09-03T14:05:03.5517794+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 92,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -392,9 +392,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19328,
+  "EOS_Progressed": 19330,
   "EOS_Completed": 385,
-  "EOS_NewPlayers": 530,
+  "EOS_NewPlayers": 529,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.99,
   "EosHistory": [
@@ -14932,6 +14932,11 @@
       "Time": "2023-09-03T13:05:38.2947205+00:00",
       "NumProgressed": 19328,
       "NumCompleted": 385
+    },
+    {
+      "Time": "2023-09-03T14:03:32.273308+00:00",
+      "NumProgressed": 19330,
+      "NumCompleted": 385
     }
   ],
   "TotalAchievements": 20,
@@ -14975,7 +14980,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2319
+      "UsersEstimate": 2320
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -14999,7 +15004,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2319
+      "UsersEstimate": 2320
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -15007,7 +15012,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2899
+      "UsersEstimate": 2900
     },
     {
       "ID": "FOUND_ERIN",
@@ -15055,7 +15060,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2319
+      "UsersEstimate": 2320
     },
     {
       "ID": "INTRO_FINISHED",
@@ -15063,7 +15068,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 14689
+      "UsersEstimate": 14691
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -15102,15 +15107,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 19328,
+      "Progressed": 19330,
       "Completed": 385
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-01T02:18:43.1921629+00:00",
-  "LastChanged_Achievements": "2023-09-03T13:05:38.2947198+00:00",
+  "LastChanged_Achievements": "2023-09-03T14:03:32.2733076+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:45.6246443+00:00",
-  "LastUpdate_Ratings": "2023-09-03T13:03:25.2210236+00:00",
-  "LastUpdate_Achievements": "2023-09-03T13:05:38.2948823+00:00"
+  "LastUpdate_Ratings": "2023-09-03T13:59:47.051386+00:00",
+  "LastUpdate_Achievements": "2023-09-03T14:03:32.2734241+00:00"
 }

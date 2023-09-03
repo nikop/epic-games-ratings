@@ -4,11 +4,11 @@
   "ProductSlug": "offworld-trading-company",
   "Ranking_Rating": 804,
   "Ranking_Popularity": 419,
-  "Ranking_PopularitySum": 349,
+  "Ranking_PopularitySum": 339,
   "Ranking_EOS_Progress": 572,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2020-02-27T15:00:00+00:00",
     "PcReleaseDate": "2020-02-27T15:00:00+00:00",
@@ -694,10 +694,16 @@
       "Rating": 4.29,
       "NumberOfAwards": 271,
       "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2023-09-03T13:59:00.1984246+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 295,
+      "NumberOfAwardsMax": 44
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 271,
+  "NumberOfAwards": 295,
   "NumberOfAwardsMax": 44,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -748,6 +754,12 @@
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
       "Count": 31
+    },
+    {
+      "Text": "This game has Competitive Players",
+      "Prefix": "This game has",
+      "Type": "Competitive Players",
+      "Count": 24
     }
   ],
   "EOS_Progressed": 0,
@@ -761,8 +773,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:30.0277807+00:00",
-  "LastChanged": "2023-09-03T13:02:10.1412431+00:00",
+  "LastChanged": "2023-09-03T13:59:00.1984245+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:57.2465873+00:00",
-  "LastUpdate_Ratings": "2023-09-03T13:02:10.1412445+00:00",
-  "LastUpdate_Achievements": "2023-09-03T13:09:23.9921825+00:00"
+  "LastUpdate_Ratings": "2023-09-03T13:59:00.1984249+00:00",
+  "LastUpdate_Achievements": "2023-09-03T14:06:02.5710215+00:00"
 }

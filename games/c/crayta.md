@@ -13,9 +13,9 @@ Number of Ratings: 94  (23.09.2022)
 | Challenge Apprentice | 5.00% | ~5,481 |
 | Building Block - Bronze | 4.00% | ~4,385 |
 | Variety Player - Silver | 4.00% | ~4,385 |
-| Building Block - Silver | 2.00% | ~2,192 |
-| Challenge Veteran | 2.00% | ~2,192 |
-| Express Yourself - Silver | 2.00% | ~2,192 |
+| Building Block - Silver | 2.00% | ~2,193 |
+| Challenge Veteran | 2.00% | ~2,193 |
+| Express Yourself - Silver | 2.00% | ~2,193 |
 | Building Block - Gold | 1.00% | ~1,096 |
 | Grouping Up - Bronze | 1.00% | ~1,096 |
 | Community Creativity | 1.00% | ~1,096 |
@@ -25,7 +25,7 @@ Number of Ratings: 94  (23.09.2022)
 | Going Public! | 0.60% | ~658 |
 | Variety Player - Gold | 0.50% | ~548 |
 | Challenge Master | 0.50% | ~548 |
-| Getting Equipped! | 0.40% | ~438 |
+| Getting Equipped! | 0.40% | ~439 |
 | Getting Creative - Bronze | 0.30% | ~329 |
 | Reap the Rewards! | 0.30% | ~329 |
 | Grouping Up - Silver | 0.30% | ~329 |
@@ -41,7 +41,7 @@ Number of Ratings: 94  (23.09.2022)
 | Featured Gamer - Silver | 0.10% | ~110 |
 | Featured Gamer - Gold | 0.10% | ~110 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 109,624 (Ranked 72)  
+Progressed: 109,626 (Ranked 72)  
 Completed: 5 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 5 (0.00%) (Ranked 271)
 | 2023-08-31 | 109,615 | 5 |
 | 2023-09-01 | 109,618 | 5 |
 | 2023-09-02 | 109,622 | 5 |
-| 2023-09-03 | 109,624 | 5 |
+| 2023-09-03 | 109,626 | 5 |
 ## Awards
 Max (Diverse Characters): 50  (Ranked 404)  
 Sum: 370 (Ranked 324)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 282,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -6308,9 +6308,9 @@
       "ID": "Win_ImmenseMap",
       "SetID": "4h07amh",
       "Name": "Win an Immense Game",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 196
+      "UsersEstimate": 262
     },
     {
       "ID": "Win_Influence",
@@ -6364,8 +6364,8 @@
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-08-31T07:00:05.3512746+00:00",
-  "LastChanged_Achievements": "2023-09-03T13:10:32.7693936+00:00",
+  "LastChanged_Achievements": "2023-09-03T14:06:51.5156577+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:32.74218+00:00",
-  "LastUpdate_Ratings": "2023-09-03T13:00:25.3558564+00:00",
-  "LastUpdate_Achievements": "2023-09-03T13:10:32.7695272+00:00"
+  "LastUpdate_Ratings": "2023-09-03T13:57:45.6889046+00:00",
+  "LastUpdate_Achievements": "2023-09-03T14:06:51.5157644+00:00"
 }

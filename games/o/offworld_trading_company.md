@@ -5,8 +5,8 @@ Rating: 4.29 (Ranked 804)
 Number of Ratings: 432  (23.09.2022)  
 ## Awards
 Max (Highly Recommended): 44  (Ranked 419)  
-Sum: 271 (Ranked 349)  
-Diff (max vs sum): 70  
+Sum: 295 (Ranked 339)  
+Diff (max vs sum): 80  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 44 |
@@ -17,6 +17,7 @@ Diff (max vs sum): 70
 | This game has Challenging Combat | 36 |
 | This game is Educational | 33 |
 | This game has Amazing Storytelling | 31 |
+| This game has Competitive Players | 24 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -110,4 +111,4 @@ Diff (max vs sum): 70
 | 2023-07-27 | 4.29 | - | 44 | 268 |
 | 2023-07-31 | 4.29 | - | 44 | 269 |
 | 2023-08-29 | 4.29 | - | 44 | 270 |
-| 2023-09-03 | 4.29 | - | 44 | 271 |
+| 2023-09-03 | 4.29 | - | 44 | 295 |

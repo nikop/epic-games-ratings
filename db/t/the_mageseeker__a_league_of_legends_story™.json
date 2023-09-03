@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2534,
+  "EOS_Progressed": 2535,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -3465,6 +3465,11 @@
       "Time": "2023-09-02T20:00:55.5068565+00:00",
       "NumProgressed": 2534,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-03T14:03:28.5378644+00:00",
+      "NumProgressed": 2535,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -3492,7 +3497,7 @@
       "Name": "Whispers in the Woods IV",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "STB_COLISSEUM_SECOND",
@@ -3508,7 +3513,7 @@
       "Name": "Whispers in the Woods III",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "STB_COPY_ABILITIES",
@@ -3540,7 +3545,7 @@
       "Name": "For Demacia",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 2433
+      "UsersEstimate": 2434
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -3604,7 +3609,7 @@
       "Name": "Little light",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_I",
@@ -3628,7 +3633,7 @@
       "Name": "Do you trust me?",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "STB_FIND_ALL_SILVERWINGS",
@@ -3644,15 +3649,15 @@
       "Name": "Chains master",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "STB_KILL_5_ENEMIES_SAME_TIME",
       "SetID": "3pe2bac",
       "Name": "Pentakill",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1977
+      "UsersEstimate": 1952
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -3660,7 +3665,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2331
+      "UsersEstimate": 2332
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -3690,17 +3695,17 @@
       "ID": "STB_MISSION1_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Dark Forest",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 100,
-      "UsersEstimate": 1977
+      "UsersEstimate": 1952
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Thornbarrow",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 938
+      "UsersEstimate": 913
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -3740,7 +3745,7 @@
       "Name": "Capelworth",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "STB_MISSION6_COMPLETED",
@@ -3788,7 +3793,7 @@
       "Name": "You can pet the... horse",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "STB_PLATINUM",
@@ -3820,7 +3825,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -3852,7 +3857,7 @@
       "Name": "The use of petricite",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 1875
+      "UsersEstimate": 1876
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -3899,7 +3904,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2534,
+      "Progressed": 2535,
       "Completed": 7
     }
   ],
@@ -3907,8 +3912,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-08-06T02:15:52.3932671+00:00",
-  "LastChanged_Achievements": "2023-09-03T13:05:32.7260615+00:00",
+  "LastChanged_Achievements": "2023-09-03T14:03:28.5378639+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:56:57.5191428+00:00",
-  "LastUpdate_Ratings": "2023-09-03T13:00:06.2144198+00:00",
-  "LastUpdate_Achievements": "2023-09-03T13:05:32.7261532+00:00"
+  "LastUpdate_Ratings": "2023-09-03T13:57:31.8516228+00:00",
+  "LastUpdate_Achievements": "2023-09-03T14:03:28.5379348+00:00"
 }

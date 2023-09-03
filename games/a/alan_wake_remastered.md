@@ -8,9 +8,9 @@ Number of Ratings: 524  (23.09.2022)
 | ---- | ---------- | ----- |
 | Follow the Light | 38.00% | ~23,648 |
 | Let There Be Light | 31.00% | ~19,292 |
-| Float Like a Butterfly | 30.00% | ~18,669 |
-| Nordic Walking | 24.00% | ~14,935 |
-| Bright Falls' Finest | 24.00% | ~14,935 |
+| Float Like a Butterfly | 30.00% | ~18,670 |
+| Nordic Walking | 24.00% | ~14,936 |
+| Bright Falls' Finest | 24.00% | ~14,936 |
 | Under a Thin Layer of Skin | 21.00% | ~13,069 |
 | Park Ranger | 17.00% | ~10,579 |
 | Paging Mr. Wake | 17.00% | ~10,579 |
@@ -27,15 +27,15 @@ Number of Ratings: 524  (23.09.2022)
 | Come One, Come All | 13.00% | ~8,090 |
 | Heavy Metal | 12.00% | ~7,468 |
 | Perchance to Dream | 12.00% | ~7,468 |
-| Gatekeeper | 11.00% | ~6,845 |
-| It's Not Just a Typewriter Brand | 11.00% | ~6,845 |
-| Thunder and Lightning | 11.00% | ~6,845 |
-| Two For the Price of One | 11.00% | ~6,845 |
+| Gatekeeper | 11.00% | ~6,846 |
+| It's Not Just a Typewriter Brand | 11.00% | ~6,846 |
+| Thunder and Lightning | 11.00% | ~6,846 |
+| Two For the Price of One | 11.00% | ~6,846 |
 | The Lady of the Light | 10.00% | ~6,223 |
 | Energized! | 10.00% | ~6,223 |
 | What Light Through Yonder Window | 9.00% | ~5,601 |
 | Right of Way | 9.00% | ~5,601 |
-| Tornado Wrangler | 8.00% | ~4,978 |
+| Tornado Wrangler | 8.00% | ~4,979 |
 | A Friend in Need | 8.00% | ~2,056 |
 | Departure | 7.00% | ~4,356 |
 | Drink 'Em Both Up | 6.00% | ~3,734 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~62 |
 | No Punctuation | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,231 (Ranked 87)  
+Progressed: 62,232 (Ranked 87)  
 Completed: 65 (0.10%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 65 (0.10%) (Ranked 218)
 | 2023-08-31 | 62,064 | 65 |
 | 2023-09-01 | 62,124 | 65 |
 | 2023-09-02 | 62,195 | 65 |
-| 2023-09-03 | 62,231 | 65 |
+| 2023-09-03 | 62,232 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

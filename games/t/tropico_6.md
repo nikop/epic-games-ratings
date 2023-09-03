@@ -6,21 +6,21 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~3,773 |
+| Just One...More...Term... | 76.00% | ~3,774 |
 | Un-Lonely Island | 47.00% | ~2,334 |
-| The Beginning of a Servantship | 45.00% | ~2,234 |
+| The Beginning of a Servantship | 45.00% | ~2,235 |
 | Trade Is My Trait | 37.00% | ~1,837 |
 | Number 18 | 24.00% | ~1,192 |
-| We Don't Have Time For That | 19.00% | ~943 |
+| We Don't Have Time For That | 19.00% | ~944 |
 | The Governator | 18.00% | ~894 |
 | The Legend of Langostino | 17.00% | ~844 |
-| Caribbean Comrade | 16.00% | ~794 |
-| The Dreamer of Dreams | 16.00% | ~794 |
+| Caribbean Comrade | 16.00% | ~795 |
+| The Dreamer of Dreams | 16.00% | ~795 |
 | Go Sovereigns! | 11.00% | ~546 |
 | For Science! | 11.00% | ~546 |
-| Happy Ending? | 10.00% | ~496 |
-| Of Seals And Men | 10.00% | ~496 |
-| Shackadelic | 10.00% | ~496 |
+| Happy Ending? | 10.00% | ~497 |
+| Of Seals And Men | 10.00% | ~497 |
+| Shackadelic | 10.00% | ~497 |
 | Double Trouble | 8.00% | ~397 |
 | Firestarter | 8.00% | ~397 |
 | Make Tropico Great Again! | 8.00% | ~397 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~45 |
 | My Ways | 0.30% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,965 (Ranked 148)  
+Progressed: 4,966 (Ranked 148)  
 Completed: 2 (0.04%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 2 (0.04%) (Ranked 240)
 | 2023-08-31 | 4,936 | 2 |
 | 2023-09-01 | 4,947 | 2 |
 | 2023-09-02 | 4,958 | 2 |
-| 2023-09-03 | 4,965 | 2 |
+| 2023-09-03 | 4,966 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 98  (Ranked 340)  
 Sum: 681 (Ranked 280)  

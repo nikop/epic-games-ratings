@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 156,
   "Ranking_EOS_NewPlayers": 64,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
     "PcReleaseDate": "2017-11-02T15:00:00+00:00",
@@ -455,9 +455,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 84545,
+  "EOS_Progressed": 84550,
   "EOS_Completed": 392,
-  "EOS_NewPlayers": 772,
+  "EOS_NewPlayers": 774,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -15350,6 +15350,11 @@
       "Time": "2023-09-03T13:08:51.5208728+00:00",
       "NumProgressed": 84545,
       "NumCompleted": 392
+    },
+    {
+      "Time": "2023-09-03T14:05:40.6458603+00:00",
+      "NumProgressed": 84550,
+      "NumCompleted": 392
     }
   ],
   "TotalAchievements": 10,
@@ -15361,7 +15366,7 @@
       "Name": "Baby Mozart",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 4227
+      "UsersEstimate": 4228
     },
     {
       "ID": "Drawings01",
@@ -15369,7 +15374,7 @@
       "Name": "House Drawings",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "Drawings02",
@@ -15377,7 +15382,7 @@
       "Name": "Cave Drawings",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "Drawings03",
@@ -15407,9 +15412,9 @@
       "ID": "DrawingsDLC",
       "SetID": "77jc0gi",
       "Name": "Prologue Drawings",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 507
+      "UsersEstimate": 423
     },
     {
       "ID": "GameCompleted",
@@ -15417,7 +15422,7 @@
       "Name": "Completed Among the Sleep",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 8454
+      "UsersEstimate": 8455
     },
     {
       "ID": "Level00BowlingStrike",
@@ -15425,7 +15430,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 29591
+      "UsersEstimate": 29592
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -15440,15 +15445,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 84545,
+      "Progressed": 84550,
       "Completed": 392
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-08-23T22:58:37.1708472+00:00",
-  "LastChanged_Achievements": "2023-09-03T13:08:51.5208724+00:00",
+  "LastChanged_Achievements": "2023-09-03T14:05:40.6458599+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:58:05.5204272+00:00",
-  "LastUpdate_Ratings": "2023-09-03T13:03:57.6564581+00:00",
-  "LastUpdate_Achievements": "2023-09-03T13:08:51.5209789+00:00"
+  "LastUpdate_Ratings": "2023-09-03T14:00:09.0395216+00:00",
+  "LastUpdate_Achievements": "2023-09-03T14:05:40.6459718+00:00"
 }

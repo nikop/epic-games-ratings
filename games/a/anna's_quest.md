@@ -15,10 +15,10 @@
 | Kekekeke... | 49.00% | ~18 |
 | Roostwig has entered the building | 49.00% | ~18 |
 | Mystery solved | 46.00% | ~17 |
+| Game Over! | 46.00% | ~17 |
 | Fussy eater | 46.00% | ~17 |
 | NOW GO AWAY! | 46.00% | ~17 |
 | Sorry Grandpa | 46.00% | ~17 |
-| Game Over! | 43.00% | ~16 |
 | A very special drink | 43.00% | ~16 |
 | Far away from home | 43.00% | ~16 |
 | Little genius | 43.00% | ~16 |
@@ -44,7 +44,7 @@
 | What a mess | 16.00% | ~6 |
 | Posterboy! | 16.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37 (Ranked 406)  
+Progressed: 37 (Ranked 407)  
 Completed: 5 (13.51%) (Ranked 19)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -16,7 +16,7 @@
 | The Traitor | 15.00% | ~76 |
 | The Spider | 14.00% | ~71 |
 | Good as Fish | 12.00% | ~61 |
-| Her Eyes | 11.00% | ~56 |
+| Her Eyes | 12.00% | ~61 |
 | Trigger-Happy | 10.00% | ~51 |
 | Gollum/Sméagol | 9.00% | ~46 |
 | Murderer | 9.00% | ~46 |

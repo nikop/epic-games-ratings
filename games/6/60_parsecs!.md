@@ -39,9 +39,9 @@
 | Bovine Domain | 2.00% | ~15 |
 | That's No Moon! | 2.00% | ~15 |
 | AAARGH! | 1.00% | ~7 |
+| No Ticket | 1.00% | ~7 |
 | Bingpot! | 1.00% | ~7 |
 | Feels like home | 1.00% | ~7 |
-| No Ticket | 0.80% | ~6 |
 | Space Selfie | 0.80% | ~6 |
 | Small Step | 0.60% | ~4 |
 | Giant Leap | 0.30% | ~2 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 62231,
+  "EOS_Progressed": 62232,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 458,
+  "EOS_NewPlayers": 456,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -13342,6 +13342,11 @@
       "Time": "2023-09-03T13:06:40.5791153+00:00",
       "NumProgressed": 62231,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-09-03T14:04:08.7973912+00:00",
+      "NumProgressed": 62232,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -13361,7 +13366,7 @@
       "Name": "Nordic Walking",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 14935
+      "UsersEstimate": 14936
     },
     {
       "ID": "03",
@@ -13369,7 +13374,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 14935
+      "UsersEstimate": 14936
     },
     {
       "ID": "04",
@@ -13457,7 +13462,7 @@
       "Name": "Gatekeeper",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6845
+      "UsersEstimate": 6846
     },
     {
       "ID": "15",
@@ -13473,7 +13478,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4978
+      "UsersEstimate": 4979
     },
     {
       "ID": "17",
@@ -13537,7 +13542,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6845
+      "UsersEstimate": 6846
     },
     {
       "ID": "25",
@@ -13553,7 +13558,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6845
+      "UsersEstimate": 6846
     },
     {
       "ID": "27",
@@ -13585,7 +13590,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6845
+      "UsersEstimate": 6846
     },
     {
       "ID": "31",
@@ -13601,7 +13606,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 18669
+      "UsersEstimate": 18670
     },
     {
       "ID": "33",
@@ -13888,21 +13893,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 62231,
+      "Progressed": 62232,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 25699,
+      "Progressed": 25700,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-03T13:06:40.5791147+00:00",
+  "LastChanged_Achievements": "2023-09-03T14:04:08.7973906+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:56:59.9039957+00:00",
-  "LastUpdate_Ratings": "2023-09-03T13:00:13.6566285+00:00",
-  "LastUpdate_Achievements": "2023-09-03T13:06:40.5792997+00:00"
+  "LastUpdate_Ratings": "2023-09-03T13:57:38.8444942+00:00",
+  "LastUpdate_Achievements": "2023-09-03T14:04:08.7975467+00:00"
 }

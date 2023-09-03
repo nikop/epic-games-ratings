@@ -28,8 +28,8 @@ Number of Ratings: 429  (23.09.2022)
 | War with the Unknown | 5.00% | ~327 |
 | Win Quickly | 5.00% | ~327 |
 | Conquest Victory! | 4.00% | ~262 |
+| Win an Immense Game | 4.00% | ~262 |
 | Pirate Cleansing | 3.00% | ~196 |
-| Win an Immense Game | 3.00% | ~196 |
 | Artifact Mastery | 2.00% | ~131 |
 | Win as Altarians | 2.00% | ~131 |
 | Win as the Mimot | 2.00% | ~131 |

@@ -1501,9 +1501,9 @@
       "Count": 248
     }
   ],
-  "EOS_Progressed": 199809,
+  "EOS_Progressed": 199818,
   "EOS_Completed": 76,
-  "EOS_NewPlayers": 1839,
+  "EOS_NewPlayers": 1829,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -16706,6 +16706,11 @@
       "Time": "2023-09-03T13:09:43.522982+00:00",
       "NumProgressed": 199809,
       "NumCompleted": 76
+    },
+    {
+      "Time": "2023-09-03T14:06:17.2660217+00:00",
+      "NumProgressed": 199818,
+      "NumCompleted": 76
     }
   ],
   "TotalAchievements": 44,
@@ -16717,7 +16722,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 17983
+      "UsersEstimate": 17984
     },
     {
       "ID": "AtheistOx",
@@ -16781,7 +16786,7 @@
       "Name": "Gear up",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7992
+      "UsersEstimate": 7993
     },
     {
       "ID": "Genin",
@@ -16789,7 +16794,7 @@
       "Name": "Genin",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 21979
+      "UsersEstimate": 21980
     },
     {
       "ID": "HappyLittleAccidents",
@@ -16797,7 +16802,7 @@
       "Name": "Happy little accidents",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7992
+      "UsersEstimate": 7993
     },
     {
       "ID": "HappyPlanning",
@@ -16813,7 +16818,7 @@
       "Name": "High Five the Moon",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 1598
+      "UsersEstimate": 1599
     },
     {
       "ID": "IceIceYuki",
@@ -16885,7 +16890,7 @@
       "Name": "Noboru",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 5994
+      "UsersEstimate": 5995
     },
     {
       "ID": "Okkoto",
@@ -16893,7 +16898,7 @@
       "Name": "Okkoto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 9990
+      "UsersEstimate": 9991
     },
     {
       "ID": "OldMan",
@@ -16917,7 +16922,7 @@
       "Name": "Prisoners",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7992
+      "UsersEstimate": 7993
     },
     {
       "ID": "ReleaseTheKraken",
@@ -16949,7 +16954,7 @@
       "Name": "Still Rollin\u0027",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7992
+      "UsersEstimate": 7993
     },
     {
       "ID": "Stoned",
@@ -16957,7 +16962,7 @@
       "Name": "Stoned",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 5994
+      "UsersEstimate": 5995
     },
     {
       "ID": "StonedOx",
@@ -16997,7 +17002,7 @@
       "Name": "The Old Way",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 5994
+      "UsersEstimate": 5995
     },
     {
       "ID": "Thorough",
@@ -17005,7 +17010,7 @@
       "Name": "Thorough",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 19981
+      "UsersEstimate": 19982
     },
     {
       "ID": "TimeParadox",
@@ -17029,7 +17034,7 @@
       "Name": "Too Early",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 9990
+      "UsersEstimate": 9991
     },
     {
       "ID": "Warzone",
@@ -17037,7 +17042,7 @@
       "Name": "Warzone",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 9990
+      "UsersEstimate": 9991
     },
     {
       "ID": "WhenCutAcrossTheNeck",
@@ -17068,15 +17073,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 199809,
+      "Progressed": 199818,
       "Completed": 76
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-09-03T10:00:07.4331692+00:00",
-  "LastChanged_Achievements": "2023-09-03T13:09:43.5229814+00:00",
+  "LastChanged_Achievements": "2023-09-03T14:06:17.2660212+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:03.876432+00:00",
-  "LastUpdate_Ratings": "2023-09-03T13:02:19.4152509+00:00",
-  "LastUpdate_Achievements": "2023-09-03T13:09:43.5231215+00:00"
+  "LastUpdate_Ratings": "2023-09-03T13:59:05.2632407+00:00",
+  "LastUpdate_Achievements": "2023-09-03T14:06:17.266162+00:00"
 }

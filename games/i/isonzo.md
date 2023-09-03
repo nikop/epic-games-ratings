@@ -12,7 +12,7 @@ Number of Ratings: 98  (23.09.2022)
 | Avanti Savoia! | 48.00% | ~3,222 |
 | Mamma Mia! | 38.00% | ~2,551 |
 | Conrad von Hotzensocks | 36.00% | ~2,417 |
-| Gabriele D'Annunzio | 33.00% | ~2,215 |
+| Gabriele D'Annunzio | 34.00% | ~2,282 |
 | Silver Lining | 30.00% | ~2,014 |
 | Aurelio Baruzzi | 24.00% | ~1,611 |
 | Decimation | 22.00% | ~1,477 |
@@ -185,8 +185,8 @@ Completed: 8 (0.12%) (Ranked 210)
 | 2023-09-03 | 6,713 | 8 |
 ## Awards
 Max (Highly Recommended): 36  (Ranked 433)  
-Sum: 271 (Ranked 349)  
-Diff (max vs sum): 84  
+Sum: 271 (Ranked 350)  
+Diff (max vs sum): 83  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 36 |

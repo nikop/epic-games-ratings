@@ -7,11 +7,11 @@ Rating: 4.48 (Ranked 602)
 | ---- | ---------- | ----- |
 | Rookie No More | 27.00% | ~301 |
 | Increasing your Power Level | 27.00% | ~301 |
-| Enter the Speed Gauntlet | 24.00% | ~267 |
-| I just can't choose | 24.00% | ~267 |
+| Enter the Speed Gauntlet | 24.00% | ~268 |
+| I just can't choose | 24.00% | ~268 |
 | A Cheese Grater to the Face | 19.00% | ~212 |
 | Put it on a shelf | 18.00% | ~201 |
-| It's like an haircut | 17.00% | ~189 |
+| It's like an haircut | 17.00% | ~190 |
 | Suit up | 16.00% | ~178 |
 | Walked like an Egyptian | 15.00% | ~167 |
 | Ride in the rising sun | 15.00% | ~167 |
@@ -32,7 +32,6 @@ Rating: 4.48 (Ranked 602)
 | Almost broke the game | 4.00% | ~45 |
 | Better luck next time | 4.00% | ~45 |
 | Dev, this! | 4.00% | ~45 |
-| He who laughs last... | 4.00% | ~45 |
 | Try them all | 3.00% | ~33 |
 | A-mazing! | 3.00% | ~33 |
 | To infinity and gravity! | 3.00% | ~33 |
@@ -40,6 +39,7 @@ Rating: 4.48 (Ranked 602)
 | Had to sweat a bit | 3.00% | ~33 |
 | [Sweats profusely] | 3.00% | ~33 |
 | It's like a party! | 3.00% | ~33 |
+| He who laughs last... | 3.00% | ~33 |
 | Healthy competition | 3.00% | ~33 |
 | This is to go, even Further Beyond! | 2.00% | ~22 |
 | Gitting Gud | 2.00% | ~22 |
@@ -58,7 +58,7 @@ Rating: 4.48 (Ranked 602)
 | I, need, more, shelves! | 0.40% | ~4 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,114 (Ranked 199)  
+Progressed: 1,115 (Ranked 199)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,6 +145,7 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-08-22 | 1,112 | 0 |
 | 2023-08-25 | 1,113 | 0 |
 | 2023-08-27 | 1,114 | 0 |
+| 2023-09-03 | 1,115 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

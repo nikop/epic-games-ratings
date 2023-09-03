@@ -4200,9 +4200,9 @@
       "Count": 336
     }
   ],
-  "EOS_Progressed": 672458,
+  "EOS_Progressed": 672518,
   "EOS_Completed": 2106,
-  "EOS_NewPlayers": 5711,
+  "EOS_NewPlayers": 5722,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -19370,6 +19370,11 @@
       "Time": "2023-09-03T13:08:14.0986885+00:00",
       "NumProgressed": 672458,
       "NumCompleted": 2106
+    },
+    {
+      "Time": "2023-09-03T14:05:14.9667706+00:00",
+      "NumProgressed": 672518,
+      "NumCompleted": 2106
     }
   ],
   "TotalAchievements": 45,
@@ -19405,7 +19410,7 @@
       "Name": "Anger Management",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3362
+      "UsersEstimate": 3363
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -19421,7 +19426,7 @@
       "Name": "LA Influential",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "ach_blueprinted",
@@ -19429,7 +19434,7 @@
       "Name": "Perks of the Job",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3362
+      "UsersEstimate": 3363
     },
     {
       "ID": "ach_bookworm",
@@ -19437,7 +19442,7 @@
       "Name": "Bookworm",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 4707
+      "UsersEstimate": 4708
     },
     {
       "ID": "ach_break_a_leg",
@@ -19445,7 +19450,7 @@
       "Name": "Break A Leg",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6052
+      "UsersEstimate": 6053
     },
     {
       "ID": "ach_contender",
@@ -19461,7 +19466,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3362
+      "UsersEstimate": 3363
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -19469,7 +19474,7 @@
       "Name": "But Doctor, I am Butcho",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4707
+      "UsersEstimate": 4708
     },
     {
       "ID": "ach_doom_buddies",
@@ -19493,7 +19498,7 @@
       "Name": "Can\u0027t Handle the Truth",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4707
+      "UsersEstimate": 4708
     },
     {
       "ID": "ach_finisher",
@@ -19509,7 +19514,7 @@
       "Name": "Like Riding a Bike",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4707
+      "UsersEstimate": 4708
     },
     {
       "ID": "ach_good_eyesight",
@@ -19549,7 +19554,7 @@
       "Name": "Donk!",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "ach_internet_famous",
@@ -19565,7 +19570,7 @@
       "Name": "Sole Survivor",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "ach_jumbo_keyring",
@@ -19573,7 +19578,7 @@
       "Name": "Jumbo Keyring",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 2017
+      "UsersEstimate": 2018
     },
     {
       "ID": "ach_knock_down",
@@ -19581,15 +19586,15 @@
       "Name": "Apex Predator",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4707
+      "UsersEstimate": 4708
     },
     {
       "ID": "ach_knowledgeable",
       "SetID": "7km39fm",
       "Name": "Zombologist",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4035
+      "UsersEstimate": 4708
     },
     {
       "ID": "ach_legendary",
@@ -19597,7 +19602,7 @@
       "Name": "Ooh, Shiny!",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3362
+      "UsersEstimate": 3363
     },
     {
       "ID": "ach_magnum_opus",
@@ -19605,7 +19610,7 @@
       "Name": "Gore Horse",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "ach_metropolitan",
@@ -19613,7 +19618,7 @@
       "Name": "A Patton Emerges",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4707
+      "UsersEstimate": 4708
     },
     {
       "ID": "ach_mind_over_monster",
@@ -19645,7 +19650,7 @@
       "Name": "Sharpest Tool in the Box",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "ach_skilled_up",
@@ -19669,7 +19674,7 @@
       "Name": "Survival Skills",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "ach_survival_of_the_fittest",
@@ -19685,7 +19690,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2017
+      "UsersEstimate": 2018
     },
     {
       "ID": "ach_thesacrifice",
@@ -19701,7 +19706,7 @@
       "Name": "This is My Weapon",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4707
+      "UsersEstimate": 4708
     },
     {
       "ID": "ach_weapon_wrangler",
@@ -19725,7 +19730,7 @@
       "Name": "Rising Star",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 2017
+      "UsersEstimate": 2018
     },
     {
       "ID": "ach_well_trained",
@@ -19733,14 +19738,14 @@
       "Name": "Bucket List",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     }
   ],
   "AchievementSets": [
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 672458,
+      "Progressed": 672518,
       "Completed": 2106
     }
   ],
@@ -19748,8 +19753,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-03T11:58:25.140981+00:00",
-  "LastChanged_Achievements": "2023-09-03T13:08:14.0986879+00:00",
+  "LastChanged_Achievements": "2023-09-03T14:05:14.9667702+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:04.7021628+00:00",
-  "LastUpdate_Ratings": "2023-09-03T13:01:18.7792347+00:00",
-  "LastUpdate_Achievements": "2023-09-03T13:08:14.0988667+00:00"
+  "LastUpdate_Ratings": "2023-09-03T13:58:20.8057648+00:00",
+  "LastUpdate_Achievements": "2023-09-03T14:05:14.966894+00:00"
 }
