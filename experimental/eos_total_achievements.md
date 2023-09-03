@@ -38,6 +38,7 @@
 | [Fallout: New Vegas](../games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 75 | 1,655 |
 | [Firestone Online Idle RPG](../games/f/firestone_online_idle_rpg.md) | 75 | 1,000 |
 | [Iratus: Lord of the Dead](../games/i/iratus__lord_of_the_dead.md) | 75 | 1,000 |
+| [NEXUS](../games/1/17ef2e993267472eacb83202c50d41e4.md) | 74 | 1,000 |
 | [Quest Hunter](../games/b/b72f5f79f855471e9691ff22e4967656.md) | 74 | 1,110 |
 | [Shotgun Farmers](../games/s/shotgun_farmers.md) | 74 | 1,150 |
 | [SlavicPunk: Oldtimer](../games/1/1e9b7636582f4251a1e1a61906d31c47.md) | 74 | 1,000 |

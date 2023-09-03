@@ -41,7 +41,7 @@
 | 39 | [Scorn](games/s/scorn.md) | 6.99% |
 | 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.97% |
 | 41 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.78% |
-| 41 | [Time Loader](games/t/time_loader.md) | 6.78% |
+| 42 | [Time Loader](games/t/time_loader.md) | 6.72% |
 | 43 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 44 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 6.25% |
 | 44 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -111,7 +111,7 @@
 | 109 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.45% |
 | 110 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.44% |
 | 110 | [Ten Dates](games/t/ten_dates.md) | 1.44% |
-| 112 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.43% |
+| 112 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.41% |
 | 113 | [Poosh XL](games/p/poosh_xl.md) | 1.39% |
 | 114 | [Late Shift](games/l/late_shift.md) | 1.25% |
 | 115 | [Infindustry](games/i/infindustry.md) | 1.23% |
@@ -130,7 +130,7 @@
 | 128 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 129 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
 | 130 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.81% |
-| 131 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.77% |
+| 131 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.76% |
 | 132 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
 | 133 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.73% |
 | 133 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.73% |
@@ -437,6 +437,7 @@
 | 271 | [Neon Noodles - Cyberpunk Kitchen Automation](games/e/e43864d9ce5b4ac3927a289c6d977650.md) | 0.00% |
 | 271 | [NeuroNet: Mendax Proxy](games/n/neuronet__mendax_proxy.md) | 0.00% |
 | 271 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 0.00% |
+| 271 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 0.00% |
 | 271 | [NHRA Championship Drag Racing - Speed For All](games/n/nhra_championship_drag_racing_-_speed_for_all.md) | 0.00% |
 | 271 | [Nickelodeon All-Star Brawl](games/n/nickelodeon_all-star_brawl.md) | 0.00% |
 | 271 | [No Son Of Mine](games/1/1c916c48d92b4e8d9f6fed2816f5e464.md) | 0.00% |

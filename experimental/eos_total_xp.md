@@ -362,6 +362,7 @@
 | [NeuroNet: Mendax Proxy](../games/n/neuronet__mendax_proxy.md) | 48 | 1,000 |
 | [NEW Joe and Mac Caveman Ninja](../games/n/new_joe_and_mac_caveman_ninja.md) | 15 | 1,000 |
 | [New Tales from the Borderlands](../games/n/new_tales_from_the_borderlands.md) | 26 | 1,000 |
+| [NEXUS](../games/1/17ef2e993267472eacb83202c50d41e4.md) | 74 | 1,000 |
 | [NHRA Championship Drag Racing - Speed For All](../games/n/nhra_championship_drag_racing_-_speed_for_all.md) | 33 | 1,000 |
 | [Nickelodeon All-Star Brawl](../games/n/nickelodeon_all-star_brawl.md) | 24 | 1,000 |
 | [Night Book](../games/n/night_book.md) | 17 | 1,000 |
