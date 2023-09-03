@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -500,9 +500,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3573,
+  "EOS_Progressed": 3574,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -6440,6 +6440,11 @@
       "Time": "2023-09-03T10:08:15.9615552+00:00",
       "NumProgressed": 3573,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-03T12:06:45.2963245+00:00",
+      "NumProgressed": 3574,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 71,
@@ -6459,7 +6464,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -6475,7 +6480,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -6483,7 +6488,7 @@
       "Name": "Opposing Force",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -6491,7 +6496,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -6571,7 +6576,7 @@
       "Name": "Gunslinger",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -6587,7 +6592,7 @@
       "Name": "Sharpshooter",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -6619,7 +6624,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1429
+      "UsersEstimate": 1430
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -6699,7 +6704,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1286
+      "UsersEstimate": 1287
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -6819,7 +6824,7 @@
       "Name": "Taking it back",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1000
+      "UsersEstimate": 1001
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -6843,7 +6848,7 @@
       "Name": "Target America",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -6915,7 +6920,7 @@
       "Name": "Herr Today, Gone Tomorrow",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
@@ -7018,13 +7023,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3524,
+      "Progressed": 3525,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3573,
+      "Progressed": 3574,
       "Completed": 10
     }
   ],
@@ -7032,8 +7037,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-01T10:01:39.1533108+00:00",
-  "LastChanged_Achievements": "2023-09-03T11:08:11.3637937+00:00",
+  "LastChanged_Achievements": "2023-09-03T12:06:45.296324+00:00",
   "LastUpdate_AppInfo": "2023-09-02T06:57:18.4314048+00:00",
-  "LastUpdate_Ratings": "2023-09-03T11:02:17.1715999+00:00",
-  "LastUpdate_Achievements": "2023-09-03T11:08:11.3639041+00:00"
+  "LastUpdate_Ratings": "2023-09-03T12:00:34.8609621+00:00",
+  "LastUpdate_Achievements": "2023-09-03T12:06:45.2964355+00:00"
 }

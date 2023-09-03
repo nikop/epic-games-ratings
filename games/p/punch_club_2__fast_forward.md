@@ -4,47 +4,47 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Such a strange dream… | 88.00% | ~271 |
-| Your first fight | 86.00% | ~265 |
-| Good Person Chip | 85.00% | ~262 |
-| First winning | 84.00% | ~259 |
+| Such a strange dream… | 88.00% | ~272 |
+| Your first fight | 86.00% | ~266 |
+| Good Person Chip | 85.00% | ~263 |
+| First winning | 83.00% | ~256 |
 | Your first job | 83.00% | ~256 |
-| Old movies enjoyer | 79.00% | ~243 |
-| Fitness professional | 78.00% | ~240 |
-| Depressed visitor | 78.00% | ~240 |
-| Neurotrainer – power gainer! | 76.00% | ~234 |
-| Employee of the week | 76.00% | ~234 |
-| Your own amateur gym | 74.00% | ~228 |
-| First defeat | 73.00% | ~225 |
+| Old movies enjoyer | 79.00% | ~244 |
+| Fitness professional | 78.00% | ~241 |
+| Depressed visitor | 77.00% | ~238 |
+| Neurotrainer – power gainer! | 76.00% | ~235 |
+| Employee of the week | 76.00% | ~235 |
+| Your own amateur gym | 74.00% | ~229 |
+| First defeat | 72.00% | ~222 |
 | Run K, run! | 72.00% | ~222 |
-| Hello, world! | 69.00% | ~213 |
-| Fighting is cool | 68.00% | ~209 |
-| No bullying more | 68.00% | ~209 |
-| Pal of your father? | 65.00% | ~200 |
-| Employee of the month | 65.00% | ~200 |
-| Spirit of the past | 63.00% | ~194 |
-| Law student | 62.00% | ~191 |
+| Fighting is cool | 68.00% | ~210 |
+| Hello, world! | 68.00% | ~210 |
+| No bullying more | 67.00% | ~207 |
+| Pal of your father? | 65.00% | ~201 |
+| Employee of the month | 65.00% | ~201 |
+| Spirit of the past | 63.00% | ~195 |
+| Law student | 62.00% | ~192 |
 | Workout professional | 61.00% | ~188 |
 | Handyman | 59.00% | ~182 |
 | Champion – starter pack | 59.00% | ~182 |
 | It's good to be alive | 59.00% | ~182 |
 | Employee of the year | 59.00% | ~182 |
+| Fight for life | 58.00% | ~179 |
 | Little hacker | 58.00% | ~179 |
 | Own four walls | 58.00% | ~179 |
-| Fight for life | 57.00% | ~176 |
 | Intriguing candies | 57.00% | ~176 |
-| Legal courier | 54.00% | ~166 |
-| Extreme neuropower! | 54.00% | ~166 |
+| Legal courier | 54.00% | ~167 |
+| Extreme neuropower! | 54.00% | ~167 |
 | Now you are worthy | 50.00% | ~154 |
 | Escaped from a big trouble | 50.00% | ~154 |
 | Fight is life | 45.00% | ~139 |
 | Guiding on the right path | 45.00% | ~139 |
 | Mysterious voice | 44.00% | ~136 |
 | No blades in the gym | 44.00% | ~136 |
-| Champion – no way back | 42.00% | ~129 |
-| Underground dwellers | 40.00% | ~123 |
-| Responsible approach | 40.00% | ~123 |
-| Deal with life | 39.00% | ~120 |
+| Champion – no way back | 42.00% | ~130 |
+| Responsible approach | 40.00% | ~124 |
+| Deal with life | 39.00% | ~121 |
+| Underground dwellers | 39.00% | ~121 |
 | Mom got better | 38.00% | ~117 |
 | GYM professional | 38.00% | ~117 |
 | Poisoned fighter | 38.00% | ~117 |
@@ -59,20 +59,20 @@
 | Absolute Champion! | 32.00% | ~99 |
 | Careerist | 32.00% | ~99 |
 | Anyone can resist | 32.00% | ~99 |
-| Trap disarmed | 31.00% | ~95 |
-| Keep nature safe | 31.00% | ~95 |
-| Family comes first | 31.00% | ~95 |
-| Another world | 30.00% | ~92 |
-| The lonesome road | 30.00% | ~92 |
-| Key memories | 30.00% | ~92 |
-| The last bell ring | 30.00% | ~92 |
-| The heart of the Resistance | 30.00% | ~92 |
-| Better cooking at home | 28.00% | ~86 |
+| Trap disarmed | 31.00% | ~96 |
+| Keep nature safe | 31.00% | ~96 |
+| Another world | 30.00% | ~93 |
+| The lonesome road | 30.00% | ~93 |
+| Family comes first | 30.00% | ~93 |
+| Key memories | 30.00% | ~93 |
+| The last bell ring | 30.00% | ~93 |
+| The heart of the Resistance | 30.00% | ~93 |
+| Better cooking at home | 28.00% | ~87 |
 | Silver’s past | 27.00% | ~83 |
 | The only right decision | 27.00% | ~83 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 308 (Ranked 274)  
-Completed: 8 (2.60%) (Ranked 81)  
+Progressed: 309 (Ranked 274)  
+Completed: 8 (2.59%) (Ranked 81)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -121,4 +121,4 @@ Completed: 8 (2.60%) (Ranked 81)
 | 2023-08-31 | 298 | 8 |
 | 2023-09-01 | 301 | 8 |
 | 2023-09-02 | 306 | 8 |
-| 2023-09-03 | 308 | 8 |
+| 2023-09-03 | 309 | 8 |

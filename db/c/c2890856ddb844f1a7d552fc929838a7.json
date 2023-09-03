@@ -46,9 +46,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 662,
+  "EOS_Progressed": 663,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 203,
+  "EOS_NewPlayers": 202,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -971,6 +971,11 @@
       "Time": "2023-09-03T11:07:55.9082142+00:00",
       "NumProgressed": 662,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-03T12:06:34.6571754+00:00",
+      "NumProgressed": 663,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -991,7 +996,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "AC02",
@@ -1007,7 +1012,7 @@
       "Name": "Blood and Gold",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "AC04",
@@ -1015,7 +1020,7 @@
       "Name": "Blood and Iron",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "AC05",
@@ -1045,17 +1050,17 @@
       "ID": "AC08",
       "SetID": "l4abp0",
       "Name": "Forged in Fire",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 278
+      "UsersEstimate": 285
     },
     {
       "ID": "AC09",
       "SetID": "l4abp0",
       "Name": "Fermosa Fembra",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 252
+      "UsersEstimate": 259
     },
     {
       "ID": "AC10",
@@ -1125,9 +1130,9 @@
       "ID": "AC18",
       "SetID": "l4abp0",
       "Name": "Acquired Taste",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 218
+      "UsersEstimate": 225
     },
     {
       "ID": "AC19",
@@ -1157,9 +1162,9 @@
       "ID": "AC22",
       "SetID": "l4abp0",
       "Name": "Empty Handed",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 185
+      "UsersEstimate": 192
     },
     {
       "ID": "AC23",
@@ -1183,7 +1188,7 @@
       "Name": "House of Grief and Hatred",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "AC26",
@@ -1247,7 +1252,7 @@
       "Name": "Ultima Ratio",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "AC34",
@@ -1350,7 +1355,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 662,
+      "Progressed": 663,
       "Completed": 0
     }
   ],
@@ -1358,8 +1363,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-02T10:03:53.5800972+00:00",
-  "LastChanged_Achievements": "2023-09-03T11:07:55.9082136+00:00",
+  "LastChanged_Achievements": "2023-09-03T12:06:34.6571748+00:00",
   "LastUpdate_AppInfo": "2023-08-29T18:57:21.35462+00:00",
-  "LastUpdate_Ratings": "2023-09-03T11:01:59.7149531+00:00",
-  "LastUpdate_Achievements": "2023-09-03T11:07:55.9082637+00:00"
+  "LastUpdate_Ratings": "2023-09-03T12:00:24.3784786+00:00",
+  "LastUpdate_Achievements": "2023-09-03T12:06:34.6572208+00:00"
 }

@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,579 (Ranked 67)  
+Progressed: 135,582 (Ranked 67)  
 Completed: 141 (0.10%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,14 +255,14 @@ Completed: 141 (0.10%) (Ranked 218)
 | 2023-08-31 | 135,446 | 140 |
 | 2023-09-01 | 135,508 | 140 |
 | 2023-09-02 | 135,551 | 140 |
-| 2023-09-03 | 135,579 | 141 |
+| 2023-09-03 | 135,582 | 141 |
 ## Awards
-Max (Great for Beginners): 4,719  (Ranked 70)  
-Sum: 27,167 (Ranked 46)  
+Max (Great for Beginners): 4,721  (Ranked 70)  
+Sum: 27,169 (Ranked 46)  
 Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,719 |
+| This game is Great for Beginners | 4,721 |
 | This game is Relaxing | 4,003 |
 | This game has Quickly Understood Controls | 3,991 |
 | This game has Diverse Characters | 3,867 |
@@ -492,4 +492,4 @@ Diff (max vs sum): 24
 | 2023-08-31 | 3.99 | - | 4,718 | 27,159 |
 | 2023-09-01 | 3.99 | - | 4,719 | 27,162 |
 | 2023-09-02 | 3.99 | - | 4,719 | 27,164 |
-| 2023-09-03 | 3.99 | - | 4,719 | 27,167 |
+| 2023-09-03 | 3.99 | - | 4,721 | 27,169 |

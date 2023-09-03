@@ -5,8 +5,8 @@ Rating: 4.81 (Ranked 77)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 71.00% | ~417 |
-| The Adventure Begins | 55.00% | ~323 |
+| A New Journey | 72.00% | ~423 |
+| The Adventure Begins | 56.00% | ~329 |
 | Swabbie | 42.00% | ~247 |
 | With Great Power… | 40.00% | ~235 |
 | This Belongs in a Museum | 35.00% | ~205 |
@@ -24,8 +24,8 @@ Rating: 4.81 (Ranked 77)
 | Privateer | 9.00% | ~53 |
 | Rustic Recipe | 9.00% | ~53 |
 | Tobacco Travesty | 8.00% | ~47 |
+| Accursed Artifacts | 7.00% | ~41 |
 | Lyrical Longing | 7.00% | ~41 |
-| Accursed Artifacts | 6.00% | ~35 |
 | Corsair | 5.00% | ~29 |
 | Freebooter | 3.00% | ~18 |
 | Marauder | 3.00% | ~18 |

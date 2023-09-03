@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 80,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 99,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -5970,9 +5970,9 @@
       "Count": 374
     }
   ],
-  "EOS_Progressed": 712921,
+  "EOS_Progressed": 712923,
   "EOS_Completed": 12881,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -18400,6 +18400,11 @@
       "Time": "2023-09-03T10:08:27.8496701+00:00",
       "NumProgressed": 712921,
       "NumCompleted": 12881
+    },
+    {
+      "Time": "2023-09-03T12:06:53.8018521+00:00",
+      "NumProgressed": 712923,
+      "NumCompleted": 12881
     }
   ],
   "TotalAchievements": 50,
@@ -18657,9 +18662,9 @@
       "ID": "32_ReachMaxAge",
       "SetID": "adcm20g",
       "Name": "Old Child",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7129
+      "UsersEstimate": 14258
     },
     {
       "ID": "33_BladeOneShot",
@@ -18810,21 +18815,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 22222,
+      "Progressed": 22224,
       "Completed": 10578
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 712921,
+      "Progressed": 712923,
       "Completed": 12881
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-09-03T09:59:57.1136898+00:00",
-  "LastChanged_Achievements": "2023-09-03T11:08:23.0965197+00:00",
+  "LastChanged_Achievements": "2023-09-03T12:06:53.8018516+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:56.9584317+00:00",
-  "LastUpdate_Ratings": "2023-09-03T10:59:58.3892196+00:00",
-  "LastUpdate_Achievements": "2023-09-03T11:08:23.0966985+00:00"
+  "LastUpdate_Ratings": "2023-09-03T11:59:01.0216323+00:00",
+  "LastUpdate_Achievements": "2023-09-03T12:06:53.8019583+00:00"
 }

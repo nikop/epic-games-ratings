@@ -3559,9 +3559,9 @@
       "ID": "achCannotGetEnough",
       "SetID": "dgl390n",
       "Name": "Cannot get enough",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 65
     },
     {
       "ID": "achCity",
@@ -3943,8 +3943,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-08-30T18:58:37.464811+00:00",
-  "LastChanged_Achievements": "2023-09-03T11:03:14.9093283+00:00",
+  "LastChanged_Achievements": "2023-09-03T12:03:28.9517468+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:33.3220518+00:00",
-  "LastUpdate_Ratings": "2023-09-03T11:01:00.7491405+00:00",
-  "LastUpdate_Achievements": "2023-09-03T11:03:14.9093966+00:00"
+  "LastUpdate_Ratings": "2023-09-03T11:59:44.2734945+00:00",
+  "LastUpdate_Achievements": "2023-09-03T12:03:28.95182+00:00"
 }

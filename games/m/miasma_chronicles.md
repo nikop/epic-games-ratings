@@ -5,21 +5,21 @@ Rating: 4.43 (Ranked 666)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,269 |
+| First Blood | 92.00% | ~1,270 |
 | Ranidaphobia | 78.00% | ~1,076 |
-| Aspiring Editor | 75.00% | ~1,034 |
-| Gun for Hire | 71.00% | ~979 |
+| Aspiring Editor | 75.00% | ~1,035 |
+| Gun for Hire | 71.00% | ~980 |
 | I am the law! | 64.00% | ~883 |
 | Lumberjack | 54.00% | ~745 |
 | Croaked | 49.00% | ~676 |
 | Limp Richard | 48.00% | ~662 |
 | Exorcist | 48.00% | ~662 |
 | From Darkness to Light | 48.00% | ~662 |
-| Editor Adept | 47.00% | ~648 |
-| Giant Killer | 46.00% | ~634 |
+| Editor Adept | 47.00% | ~649 |
+| Giant Killer | 46.00% | ~635 |
 | Sensei | 44.00% | ~607 |
-| Firestarter | 42.00% | ~579 |
-| The meaning of Kain | 41.00% | ~565 |
+| Firestarter | 42.00% | ~580 |
+| The meaning of Kain | 41.00% | ~566 |
 | Technophobe | 40.00% | ~552 |
 | Recycler | 39.00% | ~538 |
 | Are you not entertained? | 35.00% | ~483 |
@@ -27,16 +27,16 @@ Rating: 4.43 (Ranked 666)
 | Jarhead | 35.00% | ~483 |
 | Infiltrator | 34.00% | ~469 |
 | Pushing Daisy | 33.00% | ~455 |
-| Experienced | 32.00% | ~441 |
+| Experienced | 32.00% | ~442 |
 | Hold The Line | 30.00% | ~414 |
-| Endgame | 27.00% | ~372 |
-| Savior | 27.00% | ~372 |
+| Endgame | 27.00% | ~373 |
+| Savior | 27.00% | ~373 |
 | There Can Be Only One! | 26.00% | ~359 |
 | Chain Killer | 23.00% | ~317 |
-| The Watchers | 22.00% | ~303 |
+| The Watchers | 22.00% | ~304 |
 | Silent but Violent | 20.00% | ~276 |
-| Commando | 17.00% | ~234 |
-| Dr Jones | 17.00% | ~234 |
+| Commando | 17.00% | ~235 |
+| Dr Jones | 17.00% | ~235 |
 | Chaos Theory | 16.00% | ~221 |
 | Newtonian Knockout | 16.00% | ~221 |
 | Ruthless | 14.00% | ~193 |
@@ -57,7 +57,7 @@ Rating: 4.43 (Ranked 666)
 | QA Has Suffered! (Redux) | 0.80% | ~11 |
 | Goaaaaal! | 0.70% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,379 (Ranked 191)  
+Progressed: 1,380 (Ranked 191)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,6 +145,7 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-08-27 | 1,377 | 0 |
 | 2023-08-30 | 1,378 | 0 |
 | 2023-09-01 | 1,379 | 0 |
+| 2023-09-03 | 1,380 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

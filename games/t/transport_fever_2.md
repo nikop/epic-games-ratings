@@ -52,8 +52,8 @@ Number of Ratings: 180  (23.09.2022)
 | Campaign shark | 5.00% | ~81 |
 | Transport shark (Hard mode) | 4.00% | ~65 |
 | Antique | 4.00% | ~65 |
+| Cannot get enough | 4.00% | ~65 |
 | Transport corporation | 4.00% | ~65 |
-| Cannot get enough | 3.00% | ~49 |
 | Transport tycoon (Hard mode) | 2.00% | ~32 |
 | No country for old trains | 2.00% | ~32 |
 | Charles Alton Ellis | 2.00% | ~32 |

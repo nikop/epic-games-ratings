@@ -6,11 +6,11 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Play a Single Player Game | 5.00% | ~688 |
 | Explorer | 4.00% | ~550 |
 | Intrepid | 4.00% | ~550 |
 | Settler | 4.00% | ~550 |
 | Friendly Family | 4.00% | ~550 |
-| Play a Single Player Game | 4.00% | ~550 |
 | The Clergy | 4.00% | ~550 |
 | Able | 3.00% | ~413 |
 | Architect | 3.00% | ~413 |

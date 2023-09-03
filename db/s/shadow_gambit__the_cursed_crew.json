@@ -1410,17 +1410,17 @@
       "ID": "_02_FinishFirstMission",
       "SetID": "8a1io5d",
       "Name": "A New Journey",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 417
+      "UsersEstimate": 423
     },
     {
       "ID": "_03_FinishAct1",
       "SetID": "8a1io5d",
       "Name": "The Adventure Begins",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 323
+      "UsersEstimate": 329
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1570,9 +1570,9 @@
       "ID": "_22_CrewTale_FSH",
       "SetID": "8a1io5d",
       "Name": "Accursed Artifacts",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 41
     },
     {
       "ID": "_23_CrewTale_CNN",
@@ -1619,8 +1619,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-02T15:58:27.8231568+00:00",
-  "LastChanged_Achievements": "2023-09-03T11:07:09.0680502+00:00",
+  "LastChanged_Achievements": "2023-09-03T12:06:01.5314547+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:46.0913582+00:00",
-  "LastUpdate_Ratings": "2023-09-03T10:58:44.3224106+00:00",
-  "LastUpdate_Achievements": "2023-09-03T11:07:09.0680843+00:00"
+  "LastUpdate_Ratings": "2023-09-03T11:58:11.6103991+00:00",
+  "LastUpdate_Achievements": "2023-09-03T12:06:01.5314818+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 758,
   "Ranking_Popularity": 273,
   "Ranking_PopularitySum": 224,
-  "Ranking_EOS_Progress": 208,
+  "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -958,9 +958,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 953,
+  "EOS_Progressed": 969,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 948,
+  "EOS_NewPlayers": 964,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -1448,6 +1448,11 @@
       "Time": "2023-09-03T11:08:27.0716312+00:00",
       "NumProgressed": 953,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-03T12:06:56.475643+00:00",
+      "NumProgressed": 969,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -1460,7 +1465,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 78
     },
     {
       "ID": "a_10",
@@ -1508,7 +1513,7 @@
       "Name": "Bye Bye",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 305
+      "UsersEstimate": 310
     },
     {
       "ID": "a_19",
@@ -1516,7 +1521,7 @@
       "Name": "Bonjour!",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "a_2",
@@ -1548,7 +1553,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "a_23",
@@ -1556,7 +1561,7 @@
       "Name": "Quack",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "a_25",
@@ -1564,7 +1569,7 @@
       "Name": "Better than nothing?",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "a_26",
@@ -1586,9 +1591,9 @@
       "ID": "a_28",
       "SetID": "daiie3o",
       "Name": "Pastry Chef",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "a_3",
@@ -1707,7 +1712,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 953,
+      "Progressed": 969,
       "Completed": 3
     }
   ],
@@ -1715,8 +1720,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-02T11:57:49.7912394+00:00",
-  "LastChanged_Achievements": "2023-09-03T11:08:27.0716308+00:00",
+  "LastChanged_Achievements": "2023-09-03T12:06:56.475642+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:09.2681959+00:00",
-  "LastUpdate_Ratings": "2023-09-03T10:58:05.3573443+00:00",
-  "LastUpdate_Achievements": "2023-09-03T11:08:27.0716588+00:00"
+  "LastUpdate_Ratings": "2023-09-03T11:57:46.0066994+00:00",
+  "LastUpdate_Achievements": "2023-09-03T12:06:56.4756702+00:00"
 }

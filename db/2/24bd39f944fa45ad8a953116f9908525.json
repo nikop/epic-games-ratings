@@ -4,7 +4,7 @@
   "ProductSlug": "haak-1401cb",
   "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewPlayers": 300,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-06-30T02:00:00+00:00",
@@ -287,9 +287,9 @@
       "ID": "ach_09_acidDeath10",
       "SetID": "16n29hg",
       "Name": "Feels like Hell",
-      "Percentage": 32,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ach_10_scarvenger1",
@@ -319,9 +319,9 @@
       "ID": "ach_13_supplyBig10",
       "SetID": "16n29hg",
       "Name": "Treasure Hunter",
-      "Percentage": 32,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ach_14_squeezeDeath",
@@ -375,9 +375,9 @@
       "ID": "ach_20_elec10",
       "SetID": "16n29hg",
       "Name": "You need electrotherapy",
-      "Percentage": 51,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ach_21_litStation",
@@ -662,8 +662,8 @@
   ],
   "FirstSeen": "2023-06-30T05:57:16.6793848+00:00",
   "FirstSeenAchievements": "2023-06-20T07:03:35.8699826+00:00",
-  "LastChanged_Achievements": "2023-09-03T11:04:14.6726123+00:00",
+  "LastChanged_Achievements": "2023-09-03T12:04:02.6306355+00:00",
   "LastUpdate_AppInfo": "2023-08-30T10:57:08.8007653+00:00",
-  "LastUpdate_Ratings": "2023-09-03T11:02:28.5112237+00:00",
-  "LastUpdate_Achievements": "2023-09-03T11:04:14.6726656+00:00"
+  "LastUpdate_Ratings": "2023-09-03T12:00:44.5813592+00:00",
+  "LastUpdate_Achievements": "2023-09-03T12:04:02.6306896+00:00"
 }

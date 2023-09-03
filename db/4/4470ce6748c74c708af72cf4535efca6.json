@@ -396,17 +396,17 @@
       "ID": "34",
       "SetID": "5e3maia",
       "Name": "Exorcist",
-      "Percentage": 23,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "35",
       "SetID": "5e3maia",
       "Name": "Rescuer",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "36",
@@ -492,9 +492,9 @@
       "ID": "45",
       "SetID": "5e3maia",
       "Name": "Child",
-      "Percentage": 16,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "46",
@@ -612,9 +612,9 @@
       "ID": "59",
       "SetID": "5e3maia",
       "Name": "Pioneer",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "6",
@@ -747,8 +747,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-09-03T11:08:13.9654511+00:00",
+  "LastChanged_Achievements": "2023-09-03T12:06:47.1232488+00:00",
   "LastUpdate_AppInfo": "2023-09-01T23:56:54.9755822+00:00",
-  "LastUpdate_Ratings": "2023-09-03T11:01:48.3939658+00:00",
-  "LastUpdate_Achievements": "2023-09-03T11:08:13.9655454+00:00"
+  "LastUpdate_Ratings": "2023-09-03T12:00:17.1609685+00:00",
+  "LastUpdate_Achievements": "2023-09-03T12:06:47.1233203+00:00"
 }

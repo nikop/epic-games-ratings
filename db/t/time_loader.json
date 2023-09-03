@@ -4,7 +4,7 @@
   "ProductSlug": "time-loader",
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 41,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 347,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-11-03T16:00:00+00:00",
@@ -226,9 +226,9 @@
       "ID": "08_Baseball",
       "SetID": "681m9fa",
       "Name": "Baseball",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "09_Ticket",
@@ -242,9 +242,9 @@
       "ID": "10_Flyer",
       "SetID": "681m9fa",
       "Name": "Flyer",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "11_Itsinthevault",
@@ -314,25 +314,25 @@
       "ID": "19_Harpoon",
       "SetID": "681m9fa",
       "Name": "Harpoon",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "20_AccessProtocol",
       "SetID": "681m9fa",
       "Name": "Access protocol",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "21_RobotBros",
       "SetID": "681m9fa",
       "Name": "Robot Bros",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "22_OutOfTheLoop",
@@ -411,8 +411,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.0272628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.4088384+00:00",
   "LastChanged": "2023-03-31T05:58:23.0272628+00:00",
-  "LastChanged_Achievements": "2023-09-03T11:03:11.7231541+00:00",
+  "LastChanged_Achievements": "2023-09-03T12:03:26.5967019+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:21.7557338+00:00",
-  "LastUpdate_Ratings": "2023-09-03T10:58:20.6137436+00:00",
-  "LastUpdate_Achievements": "2023-09-03T11:03:11.7231781+00:00"
+  "LastUpdate_Ratings": "2023-09-03T11:57:54.4328275+00:00",
+  "LastUpdate_Achievements": "2023-09-03T12:03:26.5967237+00:00"
 }

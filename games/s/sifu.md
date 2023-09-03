@@ -21,6 +21,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | State of constant learning | 2.00% | ~14,258 |
 | Qi Gong: Breath | 2.00% | ~14,258 |
 | Qi Gong: Essence | 2.00% | ~14,258 |
+| Old Child | 2.00% | ~14,258 |
 | Lightning Hands | 2.00% | ~14,258 |
 | Path of the Prospect | 2.00% | ~14,258 |
 | Rumble in the Hangar | 2.00% | ~14,258 |
@@ -30,7 +31,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Dance of the Praying Mantis | 1.00% | ~7,129 |
 | Qi Gong: Mind | 1.00% | ~7,129 |
 | I know Kung-Fu | 1.00% | ~7,129 |
-| Old Child | 1.00% | ~7,129 |
 | Kung-Fu Tussle | 1.00% | ~7,129 |
 | The best strikes are the ones we avoid | 1.00% | ~222 |
 | Muk Yan Master | 0.90% | ~6,416 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,426 |
 | Warriors from the Mountain | 0.10% | ~713 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,921 (Ranked 20)  
+Progressed: 712,923 (Ranked 20)  
 Completed: 12,881 (1.81%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 12,881 (1.81%) (Ranked 99)
 | 2023-08-31 | 712,853 | 12,878 |
 | 2023-09-01 | 712,886 | 12,878 |
 | 2023-09-02 | 712,912 | 12,878 |
-| 2023-09-03 | 712,921 | 12,881 |
+| 2023-09-03 | 712,923 | 12,881 |
 ## Awards
 Max (Great Boss Battles): 6,424  (Ranked 53)  
 Sum: 11,044 (Ranked 80)  

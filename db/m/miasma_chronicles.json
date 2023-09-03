@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1379,
+  "EOS_Progressed": 1380,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2896,6 +2896,11 @@
       "Time": "2023-09-01T11:03:09.0207487+00:00",
       "NumProgressed": 1379,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-03T12:04:00.507136+00:00",
+      "NumProgressed": 1380,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -2923,7 +2928,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1034
+      "UsersEstimate": 1035
     },
     {
       "ID": "ATTENBOROUGH",
@@ -2979,7 +2984,7 @@
       "Name": "Commando",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "CROAKED",
@@ -3043,7 +3048,7 @@
       "Name": "Dr Jones",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "EDITOR_ADEPT",
@@ -3051,7 +3056,7 @@
       "Name": "Editor Adept",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "ENDGAME",
@@ -3059,7 +3064,7 @@
       "Name": "Endgame",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "EXORCIST",
@@ -3075,7 +3080,7 @@
       "Name": "Experienced",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "FIRESTARTER",
@@ -3083,7 +3088,7 @@
       "Name": "Firestarter",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "FIRST_BLOOD",
@@ -3091,7 +3096,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1269
+      "UsersEstimate": 1270
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -3123,7 +3128,7 @@
       "Name": "Giant Killer",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "GOAL",
@@ -3139,7 +3144,7 @@
       "Name": "Gun for Hire",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 979
+      "UsersEstimate": 980
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -3235,7 +3240,7 @@
       "Name": "Savior",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "SENSEI",
@@ -3291,7 +3296,7 @@
       "Name": "The meaning of Kain",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "THE_WATCHERS",
@@ -3299,7 +3304,7 @@
       "Name": "The Watchers",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "WIPE_OUT",
@@ -3314,7 +3319,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1379,
+      "Progressed": 1380,
       "Completed": 0
     }
   ],
@@ -3322,8 +3327,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-08-24T13:04:37.3738417+00:00",
-  "LastChanged_Achievements": "2023-09-03T11:04:11.4960396+00:00",
+  "LastChanged_Achievements": "2023-09-03T12:04:00.5071353+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:54.3073965+00:00",
-  "LastUpdate_Ratings": "2023-09-03T10:58:52.3706646+00:00",
-  "LastUpdate_Achievements": "2023-09-03T11:04:11.4961063+00:00"
+  "LastUpdate_Ratings": "2023-09-03T11:58:16.5063227+00:00",
+  "LastUpdate_Achievements": "2023-09-03T12:04:00.5071977+00:00"
 }

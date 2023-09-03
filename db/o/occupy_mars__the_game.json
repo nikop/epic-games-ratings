@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1571,
+  "EOS_Progressed": 1572,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3498,6 +3498,11 @@
       "Time": "2023-09-03T11:05:37.6906604+00:00",
       "NumProgressed": 1571,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-03T12:04:59.1886668+00:00",
+      "NumProgressed": 1572,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3581,7 +3586,7 @@
       "Name": "The Collector",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "ACHIEVEMENT_ZERO_WASTE",
@@ -3685,7 +3690,7 @@
       "Name": "Electrician",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -3731,9 +3736,9 @@
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
       "SetID": "l546gc",
       "Name": "Houston we have a problem",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 330
+      "UsersEstimate": 346
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -3765,7 +3770,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -3781,7 +3786,7 @@
       "Name": "Occupy Mars!",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -3892,7 +3897,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1571,
+      "Progressed": 1572,
       "Completed": 0
     }
   ],
@@ -3900,8 +3905,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-09-02T18:57:16.3901403+00:00",
-  "LastChanged_Achievements": "2023-09-03T11:05:37.6906598+00:00",
+  "LastChanged_Achievements": "2023-09-03T12:04:59.1886661+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:41.057899+00:00",
-  "LastUpdate_Ratings": "2023-09-03T10:57:20.3786178+00:00",
-  "LastUpdate_Achievements": "2023-09-03T11:05:37.6907272+00:00"
+  "LastUpdate_Ratings": "2023-09-03T11:57:17.2919913+00:00",
+  "LastUpdate_Achievements": "2023-09-03T12:04:59.1887332+00:00"
 }
