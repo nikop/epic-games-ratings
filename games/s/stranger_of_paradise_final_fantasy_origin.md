@@ -40,7 +40,7 @@ Number of Ratings: 1,919  (23.09.2022)
 | Path of the Ninja | 33.00% | ~26,240 |
 | His Name Is Garland | 33.00% | ~26,240 |
 | Path of the Assassin | 32.00% | ~25,445 |
-| Seeker of Ultimate Power | 23.00% | ~18,288 |
+| Seeker of Ultimate Power | 24.00% | ~19,084 |
 | Artifact Collector | 22.00% | ~17,493 |
 | True Potential | 22.00% | ~17,493 |
 | Polymath | 22.00% | ~17,493 |

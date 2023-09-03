@@ -1,34 +1,34 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.26 (Ranked 829)  
+Rating: 4.27 (Ranked 823)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~157,061 |
-| Copacetic Coordination | 16.00% | ~54,630 |
-| Fronting the Money | 15.00% | ~51,215 |
-| The Dawn of Automation | 14.00% | ~47,801 |
-| Extraordinary Logistics | 14.00% | ~47,801 |
-| Dirty Money | 13.00% | ~44,387 |
-| Family First | 13.00% | ~44,387 |
-| Cleaning House | 12.00% | ~40,972 |
-| Room in the Back | 12.00% | ~40,972 |
-| Beating the Heat | 11.00% | ~37,558 |
-| Booze Baron | 11.00% | ~37,558 |
-| Friends on the Force | 10.00% | ~34,144 |
-| Neighborhood Watch | 10.00% | ~34,144 |
-| Core Corps | 8.00% | ~27,315 |
-| Sizeable Stash | 8.00% | ~27,315 |
+| Corner Clout | 46.00% | ~157,065 |
+| Copacetic Coordination | 16.00% | ~54,631 |
+| Fronting the Money | 15.00% | ~51,217 |
+| The Dawn of Automation | 14.00% | ~47,802 |
+| Extraordinary Logistics | 14.00% | ~47,802 |
+| Dirty Money | 13.00% | ~44,388 |
+| Family First | 13.00% | ~44,388 |
+| Cleaning House | 12.00% | ~40,974 |
+| Room in the Back | 12.00% | ~40,974 |
+| Beating the Heat | 11.00% | ~37,559 |
+| Booze Baron | 11.00% | ~37,559 |
+| Friends on the Force | 10.00% | ~34,145 |
+| Neighborhood Watch | 10.00% | ~34,145 |
+| Core Corps | 8.00% | ~27,316 |
+| Sizeable Stash | 8.00% | ~27,316 |
 | Street Fighter | 7.00% | ~23,901 |
 | Friendly Gestures | 7.00% | ~23,901 |
 | People Person | 7.00% | ~23,901 |
-| Liquor Lord | 6.00% | ~20,486 |
-| Safety in Numbers | 6.00% | ~20,486 |
-| Moving Experiences | 6.00% | ~20,486 |
-| Wise Head | 6.00% | ~20,486 |
-| Show ‘em the Sugar | 6.00% | ~20,486 |
-| Killing Them Softly | 6.00% | ~20,486 |
+| Liquor Lord | 6.00% | ~20,487 |
+| Safety in Numbers | 6.00% | ~20,487 |
+| Moving Experiences | 6.00% | ~20,487 |
+| Wise Head | 6.00% | ~20,487 |
+| Show ‘em the Sugar | 6.00% | ~20,487 |
+| Killing Them Softly | 6.00% | ~20,487 |
 | Street Knowledge | 5.00% | ~17,072 |
 | Oh Captain | 5.00% | ~17,072 |
 | Branching Out | 5.00% | ~17,072 |
@@ -36,11 +36,11 @@ Rating: 4.26 (Ranked 829)
 | Opportunity Knocked | 5.00% | ~17,072 |
 | City of Big Shoulders | 5.00% | ~17,072 |
 | Mission Mastery | 5.00% | ~17,072 |
-| Considerable Clams | 4.00% | ~13,657 |
-| Gin Joint | 4.00% | ~13,657 |
-| An Affront to the Enemy | 4.00% | ~13,657 |
-| Friends from Back Home | 4.00% | ~13,657 |
-| Half Century Mark | 4.00% | ~13,657 |
+| Considerable Clams | 4.00% | ~13,658 |
+| Gin Joint | 4.00% | ~13,658 |
+| An Affront to the Enemy | 4.00% | ~13,658 |
+| Friends from Back Home | 4.00% | ~13,658 |
+| Half Century Mark | 4.00% | ~13,658 |
 | Corner Opportunities | 3.00% | ~10,243 |
 | 2122 North Clark Street | 3.00% | ~10,243 |
 | Copious Cabbage | 3.00% | ~10,243 |
@@ -61,9 +61,9 @@ Rating: 4.26 (Ranked 829)
 | Cat’s Meow Clubs | 1.00% | ~3,414 |
 | Determined Deliveries | 0.90% | ~3,073 |
 | Stepping It Up | 0.90% | ~3,073 |
-| Boots in the Ground | 0.80% | ~2,731 |
-| Getting Fancy | 0.80% | ~2,731 |
-| Crossing Over | 0.80% | ~2,731 |
+| Boots in the Ground | 0.80% | ~2,732 |
+| Getting Fancy | 0.80% | ~2,732 |
+| Crossing Over | 0.80% | ~2,732 |
 | Social Butterfly | 0.50% | ~1,707 |
 | Homemade Hooch | 0.40% | ~1,366 |
 | Still Dreaming | 0.40% | ~1,366 |
@@ -86,7 +86,7 @@ Rating: 4.26 (Ranked 829)
 | High Pillow | 0.10% | ~341 |
 | Station Master | 0.10% | ~341 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 341,436 (Ranked 42)  
+Progressed: 341,446 (Ranked 42)  
 Completed: 7 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 7 (0.00%) (Ranked 271)
 | 2023-08-31 | 340,895 | 7 |
 | 2023-09-01 | 341,059 | 7 |
 | 2023-09-02 | 341,262 | 7 |
-| 2023-09-03 | 341,436 | 7 |
+| 2023-09-03 | 341,446 | 7 |
 ## Awards
 Max (Highly Recommended): 30  (Ranked 463)  
 Sum: 151 (Ranked 397)  
@@ -311,3 +311,4 @@ Diff (max vs sum): 66
 | 2023-08-26 | 4.27 | 33 | 164 |
 | 2023-08-28 | 4.27 | 33 | 184 |
 | 2023-09-02 | 4.26 | 33 | 184 |
+| 2023-09-03 | 4.27 | 30 | 151 |

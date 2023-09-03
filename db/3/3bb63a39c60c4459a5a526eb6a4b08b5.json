@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 643,
+  "EOS_Progressed": 644,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -2276,6 +2276,11 @@
       "Time": "2023-09-03T14:05:38.4130933+00:00",
       "NumProgressed": 643,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-03T19:06:24.4661231+00:00",
+      "NumProgressed": 644,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2303,7 +2308,7 @@
       "Name": "Basic Controls",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "BigPlane",
@@ -2319,7 +2324,7 @@
       "Name": "Budget Flight",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "Calculated",
@@ -2383,7 +2388,7 @@
       "Name": "Game Started",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "FullCompletion",
@@ -2413,9 +2418,9 @@
       "ID": "LackOfTime",
       "SetID": "1e89b4i",
       "Name": "Lack of Time",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 71
     },
     {
       "ID": "LargeAirport",
@@ -2471,7 +2476,7 @@
       "Name": "Maximum Upgrade",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "Millionaire",
@@ -2535,7 +2540,7 @@
       "Name": "Race Against Time",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "Reaction",
@@ -2559,7 +2564,7 @@
       "Name": "Resource Economy",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "Restructuring",
@@ -2607,7 +2612,7 @@
       "Name": "Time for Management",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "TransportHub",
@@ -2615,21 +2620,21 @@
       "Name": "Transport Hub",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 643,
+      "Progressed": 644,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-09-03T18:05:17.3566241+00:00",
+  "LastChanged_Achievements": "2023-09-03T19:06:24.4661227+00:00",
   "LastUpdate_AppInfo": "2023-08-29T11:57:10.9614599+00:00",
-  "LastUpdate_Ratings": "2023-09-03T18:00:38.4322062+00:00",
-  "LastUpdate_Achievements": "2023-09-03T18:05:17.3566596+00:00"
+  "LastUpdate_Ratings": "2023-09-03T19:01:55.9082181+00:00",
+  "LastUpdate_Achievements": "2023-09-03T19:06:24.46618+00:00"
 }

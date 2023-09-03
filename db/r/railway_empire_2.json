@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -4739,9 +4739,9 @@
       "ID": "A20",
       "SetID": "9b7p7eo",
       "Name": "Country Bumpkin",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1384
+      "UsersEstimate": 1402
     },
     {
       "ID": "A21",
@@ -5028,8 +5028,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-08-31T02:57:24.0720736+00:00",
-  "LastChanged_Achievements": "2023-09-03T18:04:34.221934+00:00",
+  "LastChanged_Achievements": "2023-09-03T19:05:33.5712252+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:35.0102287+00:00",
-  "LastUpdate_Ratings": "2023-09-03T17:58:01.816293+00:00",
-  "LastUpdate_Achievements": "2023-09-03T18:04:34.2219884+00:00"
+  "LastUpdate_Ratings": "2023-09-03T18:58:46.1397756+00:00",
+  "LastUpdate_Achievements": "2023-09-03T19:05:33.571319+00:00"
 }

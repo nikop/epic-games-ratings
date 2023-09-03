@@ -552,9 +552,9 @@
       "ID": "Epic_Formula_12",
       "SetID": "ba1m2fc",
       "Name": "Dionysus",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Epic_FruitPlanet_1",
@@ -831,8 +831,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-09-03T18:03:49.704209+00:00",
+  "LastChanged_Achievements": "2023-09-03T19:04:40.0061968+00:00",
   "LastUpdate_AppInfo": "2023-08-31T08:57:15.4240947+00:00",
-  "LastUpdate_Ratings": "2023-09-03T17:57:10.3853504+00:00",
-  "LastUpdate_Achievements": "2023-09-03T18:03:49.7042433+00:00"
+  "LastUpdate_Ratings": "2023-09-03T18:57:37.5329668+00:00",
+  "LastUpdate_Achievements": "2023-09-03T19:04:40.0062498+00:00"
 }

@@ -1,12 +1,12 @@
 # Ghostbusters: Spirits Unleashed
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.49 (Ranked 582)  
+Rating: 4.49 (Ranked 581)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 86.00% | ~21,988 |
-| Advancement | 72.00% | ~18,408 |
+| Advancement | 73.00% | ~18,664 |
 | Meticulously Efficient | 63.00% | ~16,107 |
 | Discovery | 61.00% | ~15,596 |
 | Fully Upgraded | 54.00% | ~13,806 |

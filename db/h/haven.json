@@ -5,9 +5,9 @@
   "Ranking_Rating": 146,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
-  "Ranking_EOS_Progress": 189,
+  "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -174,9 +174,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1415,
+  "EOS_Progressed": 1416,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -1619,6 +1619,11 @@
       "Time": "2023-09-03T12:06:47.4739915+00:00",
       "NumProgressed": 1415,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-03T19:07:51.8888236+00:00",
+      "NumProgressed": 1416,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -1684,9 +1689,9 @@
       "ID": "16",
       "SetID": "n50no0",
       "Name": "My little pony",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 70,
-      "UsersEstimate": 283
+      "UsersEstimate": 269
     },
     {
       "ID": "17",
@@ -1694,7 +1699,7 @@
       "Name": "Balding bloot!",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1119
     },
     {
       "ID": "18",
@@ -1869,15 +1874,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1415,
+      "Progressed": 1416,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-08-10T12:01:06.704766+00:00",
-  "LastChanged_Achievements": "2023-09-03T18:06:30.1027666+00:00",
+  "LastChanged_Achievements": "2023-09-03T19:07:51.888823+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:16.160732+00:00",
-  "LastUpdate_Ratings": "2023-09-03T17:59:15.7835791+00:00",
-  "LastUpdate_Achievements": "2023-09-03T18:06:30.1027917+00:00"
+  "LastUpdate_Ratings": "2023-09-03T19:00:18.2520704+00:00",
+  "LastUpdate_Achievements": "2023-09-03T19:07:51.8888608+00:00"
 }

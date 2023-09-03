@@ -6,7 +6,7 @@ Number of Ratings: 54  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Atom Agent | 99.00% | ~1,154 |
+| Atom Agent | 99.00% | ~1,155 |
 | Wanderer | 36.00% | ~420 |
 | One HIT wonder | 35.00% | ~408 |
 | One shot, one kill | 29.00% | ~338 |
@@ -37,13 +37,13 @@ Number of Ratings: 54  (23.09.2022)
 | Comrade Yogi | 0.40% | ~5 |
 | Expert | 0.40% | ~5 |
 | Tourist Korallov | 0.40% | ~5 |
-| It's a classic! | 0.30% | ~3 |
+| It's a classic! | 0.30% | ~4 |
 | Mystical relics | 0.20% | ~2 |
 | 27 Club | 0.00% | ~0 |
 | No Name, No Slogan | 0.00% | ~0 |
 | Pacifist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,166 (Ranked 196)  
+Progressed: 1,167 (Ranked 196)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-08-30 | 1,161 | 0 |
 | 2023-08-31 | 1,164 | 0 |
 | 2023-09-02 | 1,165 | 0 |
-| 2023-09-03 | 1,166 | 0 |
+| 2023-09-03 | 1,167 | 0 |
 ## Awards
 Max (Character Customization): 49  (Ranked 406)  
 Sum: 49 (Ranked 452)  

@@ -43,6 +43,7 @@
 | Rambo III | 5.00% | ~3 |
 | Rambo IV | 5.00% | ~3 |
 | Curious | 5.00% | ~3 |
+| Diligent | 5.00% | ~3 |
 | Omicron Theta | 5.00% | ~3 |
 | Omicron Beta | 5.00% | ~3 |
 | No Peace | 5.00% | ~3 |
@@ -52,15 +53,16 @@
 | Usurper II | 5.00% | ~3 |
 | 50Gb HDD | 5.00% | ~3 |
 | Silver Foundation | 5.00% | ~3 |
+| Silver Pest Control | 5.00% | ~3 |
 | Fighting Fit II | 5.00% | ~3 |
 | Bronze BBQ | 3.00% | ~2 |
 | Cartridge Hoarder | 3.00% | ~2 |
 | Pilgrim | 3.00% | ~2 |
-| Diligent | 3.00% | ~2 |
+| Golden Foundation | 3.00% | ~2 |
+| Golden Pest Control | 3.00% | ~2 |
 | 80Gb HDD | 3.00% | ~2 |
 | Galactic Captain | 3.00% | ~2 |
 | System Captain | 3.00% | ~2 |
-| Silver Pest Control | 3.00% | ~2 |
 | Mysterious Skin | 3.00% | ~2 |
 | Beetle | 3.00% | ~2 |
 | Anger Management | 3.00% | ~2 |
@@ -72,11 +74,9 @@
 | Galactic Ensign | 2.00% | ~1 |
 | Rambo V | 2.00% | ~1 |
 | Space Magellan | 2.00% | ~1 |
-| Golden Foundation | 2.00% | ~1 |
 | System Admiral | 2.00% | ~1 |
 | Sectoral Admiral | 2.00% | ~1 |
 | Golden BBQ | 2.00% | ~1 |
-| Golden Pest Control | 2.00% | ~1 |
 | The Healer | 2.00% | ~1 |
 | Usurper III | 2.00% | ~1 |
 | You've drone good! | 2.00% | ~1 |

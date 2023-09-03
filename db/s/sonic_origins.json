@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 30,
   "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2022-06-23T04:00:00+00:00",
     "PcReleaseDate": "2022-06-23T04:00:00+00:00",
@@ -2045,9 +2045,9 @@
       "ID": "ID_17_CLEAR_FIRST_MISSION",
       "SetID": "7o8nc5m",
       "Name": "Very First Mission Clear!",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 202
     },
     {
       "ID": "ID_18_KNUCKLES_GLIDING",
@@ -2205,8 +2205,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-08-31T01:41:09.6034532+00:00",
-  "LastChanged_Achievements": "2023-09-03T17:02:44.7467472+00:00",
+  "LastChanged_Achievements": "2023-09-03T19:02:14.9847094+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:07.1788006+00:00",
-  "LastUpdate_Ratings": "2023-09-03T17:57:42.6068451+00:00",
-  "LastUpdate_Achievements": "2023-09-03T17:02:44.7467971+00:00"
+  "LastUpdate_Ratings": "2023-09-03T18:58:19.2907844+00:00",
+  "LastUpdate_Achievements": "2023-09-03T19:02:14.9847778+00:00"
 }

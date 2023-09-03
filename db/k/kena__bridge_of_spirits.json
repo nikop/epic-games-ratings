@@ -2,13 +2,13 @@
   "ID": "7c53d7dc86494d5abcdc974b0ef0a843",
   "Name": "Kena: Bridge of Spirits",
   "ProductSlug": "kena-bridge-of-spirits",
-  "Ranking_Rating": 199,
+  "Ranking_Rating": 200,
   "Ranking_Popularity": 131,
   "Ranking_PopularitySum": 209,
   "Ranking_EOS_Progress": 39,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
     "PcReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1292,9 +1292,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 427795,
+  "EOS_Progressed": 427796,
   "EOS_Completed": 530,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -10697,6 +10697,11 @@
       "Time": "2023-09-03T18:05:13.9481545+00:00",
       "NumProgressed": 427795,
       "NumCompleted": 530
+    },
+    {
+      "Time": "2023-09-03T19:06:20.7507234+00:00",
+      "NumProgressed": 427796,
+      "NumCompleted": 530
     }
   ],
   "TotalAchievements": 41,
@@ -10724,7 +10729,7 @@
       "Name": "Hunter in the Forest",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 256677
+      "UsersEstimate": 256678
     },
     {
       "ID": "ACH_ABILITY_DASH",
@@ -10764,7 +10769,7 @@
       "Name": "A Heavy Hammer",
       "Percentage": 30,
       "XP": 60,
-      "UsersEstimate": 128338
+      "UsersEstimate": 128339
     },
     {
       "ID": "ACH_CHALLENGE_ARROW",
@@ -10788,7 +10793,7 @@
       "Name": "Rot Commander",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 256677
+      "UsersEstimate": 256678
     },
     {
       "ID": "ACH_CHALLENGE_CRIT",
@@ -10820,7 +10825,7 @@
       "Name": "Weigh Them Down",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 132616
+      "UsersEstimate": 132617
     },
     {
       "ID": "ACH_CHALLENGE_MULTISHOT",
@@ -10876,7 +10881,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 406405
+      "UsersEstimate": 406406
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -10892,7 +10897,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 308012
+      "UsersEstimate": 308013
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -10900,7 +10905,7 @@
       "Name": "The Open Range",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 158284
+      "UsersEstimate": 158285
     },
     {
       "ID": "ACH_LOCATION_FOREST",
@@ -10924,7 +10929,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 342236
+      "UsersEstimate": 342237
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -10964,7 +10969,7 @@
       "Name": "Adira\u0027s Fear",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 141172
+      "UsersEstimate": 141173
     },
     {
       "ID": "ACH_RELIC_HARPOON",
@@ -10988,7 +10993,7 @@
       "Name": "Taro\u0027s Fear",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 239565
+      "UsersEstimate": 239566
     },
     {
       "ID": "ACH_RELIC_LANTERN",
@@ -11004,7 +11009,7 @@
       "Name": "Adira\u0027s Love",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 145450
+      "UsersEstimate": 145451
     },
     {
       "ID": "ACH_RELIC_VILLAGE_CREST",
@@ -11020,7 +11025,7 @@
       "Name": "Adira\u0027s Regret",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 132616
+      "UsersEstimate": 132617
     },
     {
       "ID": "ACH_ROT_ALL",
@@ -11035,15 +11040,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 427795,
+      "Progressed": 427796,
       "Completed": 530
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-09-01T20:58:33.5454622+00:00",
-  "LastChanged_Achievements": "2023-09-03T18:05:13.948154+00:00",
+  "LastChanged_Achievements": "2023-09-03T19:06:20.7507228+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:13.8179307+00:00",
-  "LastUpdate_Ratings": "2023-09-03T17:58:30.3559764+00:00",
-  "LastUpdate_Achievements": "2023-09-03T18:05:13.9482221+00:00"
+  "LastUpdate_Ratings": "2023-09-03T18:59:20.3633161+00:00",
+  "LastUpdate_Achievements": "2023-09-03T19:06:20.7508328+00:00"
 }

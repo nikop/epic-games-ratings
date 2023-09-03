@@ -557,9 +557,9 @@
       "ID": "CompleteAllMissionsAchievement",
       "SetID": "a8djcgh",
       "Name": "Diligent",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "CompleteFullRunWithCorvetteAchievement",
@@ -789,9 +789,9 @@
       "ID": "GoldHoberMallowBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Golden Foundation",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "GoldHomunculusBossDefeatedAchievement",
@@ -853,9 +853,9 @@
       "ID": "GoldTheHiveBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Golden Pest Control",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "HaveAllAchievementsAchievement",
@@ -1213,9 +1213,9 @@
       "ID": "SilverTheHiveBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Silver Pest Control",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SkinPerksAchievement",
@@ -1388,8 +1388,8 @@
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-09-03T18:05:12.2215275+00:00",
+  "LastChanged_Achievements": "2023-09-03T19:06:18.7095885+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:10.4042645+00:00",
-  "LastUpdate_Ratings": "2023-09-03T17:58:27.711124+00:00",
-  "LastUpdate_Achievements": "2023-09-03T18:05:12.2216789+00:00"
+  "LastUpdate_Ratings": "2023-09-03T18:59:16.8638941+00:00",
+  "LastUpdate_Achievements": "2023-09-03T19:06:18.7098434+00:00"
 }

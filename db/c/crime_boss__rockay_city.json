@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -3270,7 +3270,7 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 72622,
+  "EOS_Progressed": 72623,
   "EOS_Completed": 43,
   "EOS_NewPlayers": 237,
   "EOS_NewCompleters": 1,
@@ -17280,6 +17280,11 @@
       "Time": "2023-09-03T18:02:14.7359753+00:00",
       "NumProgressed": 72622,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-09-03T19:03:16.755685+00:00",
+      "NumProgressed": 72623,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 37,
@@ -17291,7 +17296,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 36311
+      "UsersEstimate": 36312
     },
     {
       "ID": "ACH_0011",
@@ -17299,7 +17304,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 21060
+      "UsersEstimate": 21061
     },
     {
       "ID": "ACH_0012",
@@ -17435,7 +17440,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 47204
+      "UsersEstimate": 47205
     },
     {
       "ID": "ACH_0210",
@@ -17443,7 +17448,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 53740
+      "UsersEstimate": 53741
     },
     {
       "ID": "ACH_0211",
@@ -17515,7 +17520,7 @@
       "Name": "King of the Hill",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 24691
+      "UsersEstimate": 24692
     },
     {
       "ID": "ACH_0430",
@@ -17547,7 +17552,7 @@
       "Name": "Off the Rocks",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 14524
+      "UsersEstimate": 14525
     },
     {
       "ID": "ACH_0451",
@@ -17586,22 +17591,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 72622,
+      "Progressed": 72623,
       "Completed": 43
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 969,
-      "Completed": 969
+      "Progressed": 970,
+      "Completed": 970
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-09-03T17:59:43.4754813+00:00",
-  "LastChanged_Achievements": "2023-09-03T18:02:14.7359748+00:00",
+  "LastChanged_Achievements": "2023-09-03T19:03:16.7556844+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:37.6204685+00:00",
-  "LastUpdate_Ratings": "2023-09-03T17:59:43.4754817+00:00",
-  "LastUpdate_Achievements": "2023-09-03T18:02:14.7360588+00:00"
+  "LastUpdate_Ratings": "2023-09-03T19:00:51.2150831+00:00",
+  "LastUpdate_Achievements": "2023-09-03T19:03:16.7558261+00:00"
 }

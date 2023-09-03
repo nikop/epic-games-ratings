@@ -4,7 +4,7 @@
   "ProductSlug": "suicide-guy-9f7963",
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-06-14T00:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 215,
+  "EOS_Progressed": 216,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -906,6 +906,11 @@
       "Time": "2023-08-30T18:03:12.1004529+00:00",
       "NumProgressed": 215,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-03T19:03:23.2020247+00:00",
+      "NumProgressed": 216,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 10,
@@ -931,9 +936,9 @@
       "ID": "First Statue Collector",
       "SetID": "1fffk9d",
       "Name": "1 Suicide Guy statue",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 187
+      "UsersEstimate": 190
     },
     {
       "ID": "Game Completed",
@@ -981,7 +986,7 @@
       "Name": "Firest level completed!",
       "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "The Breaker",
@@ -996,14 +1001,14 @@
     {
       "ID": "1fffk9d",
       "IsBase": true,
-      "Progressed": 215,
+      "Progressed": 216,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T07:57:21.3305809+00:00",
   "FirstSeenAchievements": "2023-05-16T16:00:57.0168149+00:00",
-  "LastChanged_Achievements": "2023-09-03T18:02:20.0831786+00:00",
+  "LastChanged_Achievements": "2023-09-03T19:03:23.2020238+00:00",
   "LastUpdate_AppInfo": "2023-08-30T03:56:55.1503642+00:00",
-  "LastUpdate_Ratings": "2023-09-03T17:57:24.1557937+00:00",
-  "LastUpdate_Achievements": "2023-09-03T18:02:20.0831913+00:00"
+  "LastUpdate_Ratings": "2023-09-03T18:57:55.6198994+00:00",
+  "LastUpdate_Achievements": "2023-09-03T19:03:23.2020481+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2536,
+  "EOS_Progressed": 2537,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -3475,6 +3475,11 @@
       "Time": "2023-09-03T16:03:14.055013+00:00",
       "NumProgressed": 2536,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-03T19:03:28.1117974+00:00",
+      "NumProgressed": 2537,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -3510,7 +3515,7 @@
       "Name": "Whispers in the Woods II",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "STB_COLISSEUM_THIRD",
@@ -3526,7 +3531,7 @@
       "Name": "Hijack",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 735
+      "UsersEstimate": 736
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -3550,7 +3555,7 @@
       "Name": "For Demacia",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 2435
+      "UsersEstimate": 2436
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -3558,7 +3563,7 @@
       "Name": "My heart and sword always for Demacia",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "STB_DEFEAT_ICE_SALAMANDER_I",
@@ -3566,7 +3571,7 @@
       "Name": "Everfrost",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 1978
+      "UsersEstimate": 1979
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -3582,7 +3587,7 @@
       "Name": "Friendly fire",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "STB_DEFEAT_MAGICSHIFTER",
@@ -3622,7 +3627,7 @@
       "Name": "Old friend",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 735
+      "UsersEstimate": 736
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -3630,7 +3635,7 @@
       "Name": "True power",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_III",
@@ -3662,7 +3667,7 @@
       "Name": "Pentakill",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 1978
+      "UsersEstimate": 1979
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -3670,7 +3675,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2333
+      "UsersEstimate": 2334
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -3678,7 +3683,7 @@
       "Name": "Meltridge",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "STB_MISSION11_COMPLETED",
@@ -3708,9 +3713,9 @@
       "ID": "STB_MISSION2A_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Thornbarrow",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 938
+      "UsersEstimate": 913
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -3718,15 +3723,15 @@
       "Name": "Clarion Cove",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 938
+      "UsersEstimate": 939
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Devineur",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 735
+      "UsersEstimate": 710
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -3734,7 +3739,7 @@
       "Name": "Sacred Woods",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -3766,7 +3771,7 @@
       "Name": "The Central Headquarters",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "STB_MISSION8_COMPLETED",
@@ -3790,7 +3795,7 @@
       "Name": "You can pet the dog",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 1547
+      "UsersEstimate": 1548
     },
     {
       "ID": "STB_PET_HORSE",
@@ -3844,9 +3849,9 @@
       "ID": "STB_SECONDARY_ASSAULT_IV",
       "SetID": "3pe2bac",
       "Name": "Quickmoore Headquarters",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 431
+      "UsersEstimate": 457
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_V",
@@ -3854,7 +3859,7 @@
       "Name": "Cloven Dell Headquarters",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "STB_UNLOCK_ACTIVE_RUNE",
@@ -3909,7 +3914,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2536,
+      "Progressed": 2537,
       "Completed": 7
     }
   ],
@@ -3917,8 +3922,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-08-06T02:15:52.3932671+00:00",
-  "LastChanged_Achievements": "2023-09-03T18:02:24.1581571+00:00",
+  "LastChanged_Achievements": "2023-09-03T19:03:28.1117968+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:56:57.5191428+00:00",
-  "LastUpdate_Ratings": "2023-09-03T17:57:32.9303853+00:00",
-  "LastUpdate_Achievements": "2023-09-03T18:02:24.158208+00:00"
+  "LastUpdate_Ratings": "2023-09-03T18:58:06.5701951+00:00",
+  "LastUpdate_Achievements": "2023-09-03T19:03:28.1118904+00:00"
 }
