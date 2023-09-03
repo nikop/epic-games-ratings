@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -262,7 +262,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24012,
+  "EOS_Progressed": 24013,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
@@ -4662,6 +4662,11 @@
       "Time": "2023-09-03T20:07:03.2413008+00:00",
       "NumProgressed": 24012,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-09-03T22:05:46.1073226+00:00",
+      "NumProgressed": 24013,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 32,
@@ -4689,7 +4694,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 18489
+      "UsersEstimate": 18490
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -4697,7 +4702,7 @@
       "Name": "Luglox Genocide",
       "Percentage": 43,
       "XP": 60,
-      "UsersEstimate": 10325
+      "UsersEstimate": 10326
     },
     {
       "ID": "ACH_APPLEBEES_BILL",
@@ -4721,7 +4726,7 @@
       "Name": "Satisfied Gus-tomer",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6723
+      "UsersEstimate": 6724
     },
     {
       "ID": "ACH_GET_JETPACK",
@@ -4737,7 +4742,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 18249
+      "UsersEstimate": 18250
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -4745,7 +4750,7 @@
       "Name": "Lezduit!",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 4802
+      "UsersEstimate": 4803
     },
     {
       "ID": "ACH_GET_MAGBOOTS",
@@ -4777,7 +4782,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 19930
+      "UsersEstimate": 19931
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -4801,7 +4806,7 @@
       "Name": "First Bounty Down",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 14167
+      "UsersEstimate": 14168
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -4833,7 +4838,7 @@
       "Name": "Cold-Blooded Driller",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6723
+      "UsersEstimate": 6724
     },
     {
       "ID": "ACH_KILL_NIPULON",
@@ -4849,7 +4854,7 @@
       "Name": "Who\u0027s The Boss?",
       "Percentage": 20,
       "XP": 45,
-      "UsersEstimate": 4802
+      "UsersEstimate": 4803
     },
     {
       "ID": "ACH_KILL_SLUMSLEY",
@@ -4881,7 +4886,7 @@
       "Name": "We Paid For The Rights To Put A Whole Movie In Here",
       "Percentage": 12,
       "XP": 45,
-      "UsersEstimate": 2881
+      "UsersEstimate": 2882
     },
     {
       "ID": "ACH_NARR_WARPBASES",
@@ -4928,22 +4933,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24012,
+      "Progressed": 24013,
       "Completed": 12
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1305,
-      "Completed": 1305
+      "Progressed": 1306,
+      "Completed": 1306
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-09-02T06:57:56.883903+00:00",
-  "LastChanged_Achievements": "2023-09-03T21:07:41.4496495+00:00",
+  "LastChanged_Achievements": "2023-09-03T22:05:46.1073222+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:28.2827028+00:00",
-  "LastUpdate_Ratings": "2023-09-03T20:58:35.7100545+00:00",
-  "LastUpdate_Achievements": "2023-09-03T21:07:41.4496982+00:00"
+  "LastUpdate_Ratings": "2023-09-03T21:57:50.3638931+00:00",
+  "LastUpdate_Achievements": "2023-09-03T22:05:46.1073732+00:00"
 }

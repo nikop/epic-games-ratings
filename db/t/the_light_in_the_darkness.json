@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 33,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2294,
+  "EOS_Progressed": 2296,
   "EOS_Completed": 206,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 8.98,
+  "EOS_Completed_Percentage": 8.97,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -5508,6 +5508,11 @@
       "Time": "2023-09-03T20:07:46.1376655+00:00",
       "NumProgressed": 2294,
       "NumCompleted": 206
+    },
+    {
+      "Time": "2023-09-03T22:06:24.0733181+00:00",
+      "NumProgressed": 2296,
+      "NumCompleted": 206
     }
   ],
   "TotalAchievements": 12,
@@ -5527,7 +5532,7 @@
       "Name": "Bernard",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "Building the Fox",
@@ -5551,7 +5556,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "Jakob",
@@ -5583,7 +5588,7 @@
       "Name": "Little Helper",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -5591,7 +5596,7 @@
       "Name": "May Their Memories be a Blessing",
       "Percentage": 9,
       "XP": 200,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "Nazis in Paris",
@@ -5599,7 +5604,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "Nuremberg Laws",
@@ -5607,14 +5612,14 @@
       "Name": "Nuremberg Laws",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     }
   ],
   "AchievementSets": [
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2294,
+      "Progressed": 2296,
       "Completed": 206
     }
   ],
@@ -5622,8 +5627,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-09-03T21:08:32.4563502+00:00",
+  "LastChanged_Achievements": "2023-09-03T22:06:24.0733176+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:56:59.2178706+00:00",
-  "LastUpdate_Ratings": "2023-09-03T20:59:46.5356809+00:00",
-  "LastUpdate_Achievements": "2023-09-03T21:08:32.4563987+00:00"
+  "LastUpdate_Ratings": "2023-09-03T21:58:35.7383456+00:00",
+  "LastUpdate_Achievements": "2023-09-03T22:06:24.0733625+00:00"
 }

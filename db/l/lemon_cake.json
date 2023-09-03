@@ -4,7 +4,7 @@
   "ProductSlug": "lemon-cake-c683d8",
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewPlayers": 300,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-09-29T23:00:00+00:00",
@@ -324,9 +324,9 @@
       "ID": "LC-17",
       "SetID": "ap2ljl4",
       "Name": "Perfect Server",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     }
   ],
   "AchievementSets": [
@@ -341,8 +341,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.6780256+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.6062065+00:00",
   "LastChanged": "2023-03-31T05:58:18.6780257+00:00",
-  "LastChanged_Achievements": "2023-09-03T21:04:45.6925397+00:00",
+  "LastChanged_Achievements": "2023-09-03T22:03:38.4525427+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:44.5515749+00:00",
-  "LastUpdate_Ratings": "2023-09-03T21:01:16.8224605+00:00",
-  "LastUpdate_Achievements": "2023-09-03T21:04:45.6925524+00:00"
+  "LastUpdate_Ratings": "2023-09-03T21:59:37.1707138+00:00",
+  "LastUpdate_Achievements": "2023-09-03T22:03:38.4525552+00:00"
 }

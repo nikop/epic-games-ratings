@@ -24,14 +24,14 @@ Rating: 4.54 (Ranked 504)
 | Zombologist | 0.70% | ~4,710 |
 | A Patton Emerges | 0.70% | ~4,710 |
 | This is My Weapon | 0.70% | ~4,710 |
+| Anger Management | 0.60% | ~4,037 |
 | Ooh, Shiny! | 0.60% | ~4,037 |
 | I Am the Resurrection | 0.60% | ~4,037 |
 | Our True Nature | 0.60% | ~4,037 |
-| Making Your Mark | 0.50% | ~3,364 |
-| Anger Management | 0.50% | ~3,364 |
-| Perks of the Job | 0.50% | ~3,364 |
-| I Got a Zombie Army and You Can't Harm Me | 0.50% | ~3,364 |
-| Humanity Distilled | 0.50% | ~3,364 |
+| Making Your Mark | 0.50% | ~3,365 |
+| Perks of the Job | 0.50% | ~3,365 |
+| I Got a Zombie Army and You Can't Harm Me | 0.50% | ~3,365 |
+| Humanity Distilled | 0.50% | ~3,365 |
 | Down with the Sickness | 0.40% | ~2,692 |
 | Max Headroom | 0.40% | ~2,692 |
 | Smorgasbord | 0.30% | ~2,019 |
@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 504)
 | Survival Skills | 0.10% | ~673 |
 | Bucket List | 0.10% | ~673 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 672,880 (Ranked 22)  
-Completed: 2,109 (0.31%) (Ranked 177)  
+Progressed: 672,914 (Ranked 22)  
+Completed: 2,111 (0.31%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -187,7 +187,7 @@ Completed: 2,109 (0.31%) (Ranked 177)
 | 2023-08-31 | 670,394 | 2,097 |
 | 2023-09-01 | 671,108 | 2,097 |
 | 2023-09-02 | 672,029 | 2,103 |
-| 2023-09-03 | 672,880 | 2,109 |
+| 2023-09-03 | 672,914 | 2,111 |
 ## Awards
 Max (Great Boss Battles): 5,889  (Ranked 59)  
 Sum: 8,679 (Ranked 95)  

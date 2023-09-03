@@ -6,23 +6,23 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Imprint | 88.00% | ~128,212 |
-| Taste | 84.00% | ~122,384 |
-| The Hunt | 66.00% | ~96,159 |
-| Ravenous | 63.00% | ~91,788 |
-| Weeper | 43.00% | ~62,649 |
-| Devourer | 23.00% | ~33,510 |
-| Harmless | 19.00% | ~27,682 |
-| Silenced Whispers | 19.00% | ~27,682 |
-| Sharpened Vessel | 16.00% | ~23,311 |
-| Yank | 15.00% | ~21,854 |
-| Scion | 12.00% | ~17,433 |
-| Jawcrab | 12.00% | ~17,483 |
-| Jawstag | 12.00% | ~17,483 |
-| Feast | 12.00% | ~17,483 |
-| Watcher | 10.00% | ~14,570 |
+| Imprint | 88.00% | ~128,221 |
+| Taste | 84.00% | ~122,393 |
+| The Hunt | 66.00% | ~96,166 |
+| Ravenous | 63.00% | ~91,795 |
+| Weeper | 43.00% | ~62,654 |
+| Devourer | 23.00% | ~33,512 |
+| Harmless | 19.00% | ~27,684 |
+| Silenced Whispers | 19.00% | ~27,684 |
+| Sharpened Vessel | 16.00% | ~23,313 |
+| Yank | 15.00% | ~21,856 |
+| Scion | 12.00% | ~17,435 |
+| Jawcrab | 12.00% | ~17,485 |
+| Jawstag | 12.00% | ~17,485 |
+| Feast | 12.00% | ~17,485 |
+| Watcher | 10.00% | ~14,571 |
 | Shapely | 8.00% | ~11,656 |
-| Glare | 8.00% | ~11,622 |
+| Glare | 8.00% | ~11,623 |
 | Predator | 8.00% | ~11,656 |
 | Assimilation | 7.00% | ~10,199 |
 | Host | 6.00% | ~8,717 |
@@ -34,7 +34,7 @@ Number of Ratings: 46  (23.09.2022)
 | Hush | 4.00% | ~5,828 |
 | Inevitable | 4.00% | ~5,828 |
 | Unwrap the Gift | 4.00% | ~5,828 |
-| Dream | 4.00% | ~5,811 |
+| Dream | 4.00% | ~5,812 |
 | Proportions | 4.00% | ~5,828 |
 | Bloodhunter | 3.00% | ~4,371 |
 | All-Seeing | 3.00% | ~4,371 |
@@ -49,7 +49,7 @@ Number of Ratings: 46  (23.09.2022)
 | Instruments | 0.70% | ~1,020 |
 | Spiral Heart | 0.10% | ~146 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 145,695 (Ranked 65)  
+Progressed: 145,706 (Ranked 65)  
 Completed: 1 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 1 (0.00%) (Ranked 271)
 | 2023-08-31 | 144,602 | 1 |
 | 2023-09-01 | 144,925 | 1 |
 | 2023-09-02 | 145,319 | 1 |
-| 2023-09-03 | 145,695 | 1 |
+| 2023-09-03 | 145,706 | 1 |
 ## Awards
 Max (Highly Recommended): 31  (Ranked 460)  
 Sum: 171 (Ranked 388)  

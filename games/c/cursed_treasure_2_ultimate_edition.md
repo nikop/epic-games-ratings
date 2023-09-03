@@ -32,12 +32,12 @@
 | Brilliant: Holy Mountain | 62.00% | ~104 |
 | Clean Forests | 61.00% | ~102 |
 | Lieutenant of the Evil | 57.00% | ~95 |
+| Avada Kedavra | 56.00% | ~94 |
 | Starry: Meadowshire | 56.00% | ~94 |
-| Avada Kedavra | 55.00% | ~92 |
 | Brilliant: Tanglewood | 53.00% | ~89 |
 | It's a Trap | 53.00% | ~89 |
 | Starry: Holy Mountain | 52.00% | ~87 |
-| Brilliant: Arcania | 49.00% | ~82 |
+| Brilliant: Arcania | 50.00% | ~84 |
 | Deposition | 48.00% | ~80 |
 | Starry: Tanglewood | 46.00% | ~77 |
 | Starry: Arcania | 43.00% | ~72 |
@@ -46,7 +46,7 @@
 | Feed the Fishes | 37.00% | ~62 |
 | Starry: The Coreland | 37.00% | ~62 |
 | Brilliant: Wasteland | 33.00% | ~55 |
-| Father of Nation | 32.00% | ~53 |
+| Father of Nation | 33.00% | ~55 |
 | Dwarven Countdown | 30.00% | ~50 |
 | Starry: Wasteland | 28.00% | ~47 |
 | Brilliant: Free Coast | 26.00% | ~43 |

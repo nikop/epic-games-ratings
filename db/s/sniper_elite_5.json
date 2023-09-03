@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -500,9 +500,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3576,
+  "EOS_Progressed": 3577,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -6455,6 +6455,11 @@
       "Time": "2023-09-03T18:06:27.6641306+00:00",
       "NumProgressed": 3576,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-03T22:06:21.5974165+00:00",
+      "NumProgressed": 3577,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 71,
@@ -6466,7 +6471,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -6634,7 +6639,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1430
+      "UsersEstimate": 1431
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -6714,7 +6719,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1287
+      "UsersEstimate": 1288
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -6722,7 +6727,7 @@
       "Name": "Close Quarters",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -6834,7 +6839,7 @@
       "Name": "Taking it back",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1001
+      "UsersEstimate": 1002
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -6874,7 +6879,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 822
+      "UsersEstimate": 823
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -7033,13 +7038,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3527,
+      "Progressed": 3528,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3576,
+      "Progressed": 3577,
       "Completed": 10
     }
   ],
@@ -7047,8 +7052,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-01T10:01:39.1533108+00:00",
-  "LastChanged_Achievements": "2023-09-03T21:08:28.9141906+00:00",
+  "LastChanged_Achievements": "2023-09-03T22:06:21.597416+00:00",
   "LastUpdate_AppInfo": "2023-09-02T06:57:18.4314048+00:00",
-  "LastUpdate_Ratings": "2023-09-03T21:02:22.5193937+00:00",
-  "LastUpdate_Achievements": "2023-09-03T21:08:28.9143053+00:00"
+  "LastUpdate_Ratings": "2023-09-03T22:00:17.8989052+00:00",
+  "LastUpdate_Achievements": "2023-09-03T22:06:21.5975264+00:00"
 }

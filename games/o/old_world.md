@@ -67,6 +67,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Drillmaster | 1.00% | ~138 |
 | Conqueror | 1.00% | ~138 |
 | Intercessor | 1.00% | ~138 |
+| Lion | 1.00% | ~138 |
 | Mighty | 1.00% | ~138 |
 | Valiant | 1.00% | ~138 |
 | Victorious | 1.00% | ~138 |
@@ -80,6 +81,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mausoleum | 1.00% | ~138 |
 | Pantheon | 1.00% | ~138 |
 | Via Recta Souk | 1.00% | ~138 |
+| Learn to Play 3 | 1.00% | ~138 |
 | Greece | 1.00% | ~138 |
 | Power to the People | 1.00% | ~138 |
 | Persian Paganism | 1.00% | ~138 |
@@ -88,13 +90,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mythology | 1.00% | ~138 |
 | Phalangite | 1.00% | ~138 |
 | Points Victory | 1.00% | ~138 |
-| Lion | 0.90% | ~124 |
 | Good Difficulty | 0.90% | ~124 |
 | Statesmen | 0.90% | ~124 |
 | Traders | 0.90% | ~124 |
 | Hittite Iron | 0.90% | ~124 |
 | Hagia Sophia | 0.90% | ~124 |
-| Learn to Play 3 | 0.90% | ~124 |
 | Economic Reform | 0.90% | ~124 |
 | Dualism | 0.90% | ~124 |
 | Legionary | 0.90% | ~124 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,764 (Ranked 120)  
+Progressed: 13,766 (Ranked 120)  
 Completed: 5 (0.04%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -439,7 +439,7 @@ Completed: 5 (0.04%) (Ranked 240)
 | 2023-08-31 | 13,711 | 5 |
 | 2023-09-01 | 13,732 | 5 |
 | 2023-09-02 | 13,749 | 5 |
-| 2023-09-03 | 13,764 | 5 |
+| 2023-09-03 | 13,766 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 264)  
 Sum: 1,802 (Ranked 207)  

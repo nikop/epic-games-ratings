@@ -5,10 +5,10 @@ Rating: 4.03 (Ranked 937)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,761 |
-| World Map | 79.00% | ~1,496 |
-| Temple of Eternals | 57.00% | ~1,080 |
-| Prestigious | 54.00% | ~1,023 |
+| Victor | 93.00% | ~1,763 |
+| World Map | 79.00% | ~1,498 |
+| Temple of Eternals | 57.00% | ~1,081 |
+| Prestigious | 54.00% | ~1,024 |
 | Fellowship Power | 41.00% | ~777 |
 | Guild Power | 25.00% | ~474 |
 | Prestigious x10 | 22.00% | ~417 |
@@ -27,21 +27,21 @@ Rating: 4.03 (Ranked 937)
 | Milestone collector | 13.00% | ~246 |
 | Natural Talent | 13.00% | ~246 |
 | Superior | 13.00% | ~246 |
-| Scientist | 12.00% | ~227 |
-| Challenger | 11.00% | ~208 |
-| Doing My Part | 11.00% | ~208 |
-| Hunter | 11.00% | ~208 |
-| Mastery | 11.00% | ~208 |
-| Relic Of The Past | 11.00% | ~208 |
-| The power of Awakening | 11.00% | ~208 |
-| Daily Quest Completionist | 10.00% | ~189 |
-| Four Leaf Clover | 10.00% | ~189 |
-| Frostfire Liberator | 10.00% | ~189 |
-| Moving Up The Ladder | 10.00% | ~189 |
-| Scroll Master | 10.00% | ~189 |
-| Here We Go Again | 9.00% | ~170 |
-| Master Enchanter | 9.00% | ~170 |
-| The father of Dragons | 9.00% | ~170 |
+| Scientist | 12.00% | ~228 |
+| Doing My Part | 11.00% | ~209 |
+| Hunter | 11.00% | ~209 |
+| Mastery | 11.00% | ~209 |
+| Relic Of The Past | 11.00% | ~209 |
+| The power of Awakening | 11.00% | ~209 |
+| Challenger | 10.00% | ~190 |
+| Daily Quest Completionist | 10.00% | ~190 |
+| Four Leaf Clover | 10.00% | ~190 |
+| Frostfire Liberator | 10.00% | ~190 |
+| Moving Up The Ladder | 10.00% | ~190 |
+| Scroll Master | 10.00% | ~190 |
+| Here We Go Again | 9.00% | ~171 |
+| Master Enchanter | 9.00% | ~171 |
+| The father of Dragons | 9.00% | ~171 |
 | Crystal Mining | 8.00% | ~152 |
 | Trader | 8.00% | ~152 |
 | Blueprint Upgrades | 7.00% | ~133 |
@@ -67,8 +67,8 @@ Rating: 4.03 (Ranked 937)
 | Mythic Power | 2.00% | ~38 |
 | Cauldron Liberator | 1.00% | ~19 |
 | Titan Power | 1.00% | ~19 |
-| Training makes a Pro player | 1.00% | ~19 |
 | Transmute | 1.00% | ~19 |
+| Training makes a Pro player | 0.90% | ~17 |
 | Enhanced War Machines | 0.80% | ~15 |
 | Tree of Life | 0.80% | ~15 |
 | Enchanting skill x5 | 0.70% | ~13 |
@@ -81,7 +81,7 @@ Rating: 4.03 (Ranked 937)
 | Jewel Enchanting | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,894 (Ranked 175)  
+Progressed: 1,896 (Ranked 175)  
 Completed: 2 (0.11%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,7 +216,7 @@ Completed: 2 (0.11%) (Ranked 216)
 | 2023-08-31 | 1,875 | 2 |
 | 2023-09-01 | 1,881 | 2 |
 | 2023-09-02 | 1,888 | 2 |
-| 2023-09-03 | 1,894 | 2 |
+| 2023-09-03 | 1,896 | 2 |
 ## Awards
 Max (Great for Beginners): 20  (Ranked 510)  
 Sum: 20 (Ranked 511)  

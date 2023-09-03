@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 16,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -4206,10 +4206,10 @@
       "Count": 336
     }
   ],
-  "EOS_Progressed": 672880,
-  "EOS_Completed": 2109,
-  "EOS_NewPlayers": 5672,
-  "EOS_NewCompleters": 27,
+  "EOS_Progressed": 672914,
+  "EOS_Completed": 2111,
+  "EOS_NewPlayers": 5669,
+  "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -19416,6 +19416,11 @@
       "Time": "2023-09-03T21:06:15.626016+00:00",
       "NumProgressed": 672880,
       "NumCompleted": 2109
+    },
+    {
+      "Time": "2023-09-03T22:04:40.0365245+00:00",
+      "NumProgressed": 672914,
+      "NumCompleted": 2111
     }
   ],
   "TotalAchievements": 45,
@@ -19435,7 +19440,7 @@
       "Name": "Making Your Mark",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3364
+      "UsersEstimate": 3365
     },
     {
       "ID": "ach_ammo_ran",
@@ -19449,9 +19454,9 @@
       "ID": "ach_anger_management",
       "SetID": "7km39fm",
       "Name": "Anger Management",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 3364
+      "UsersEstimate": 4037
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -19475,7 +19480,7 @@
       "Name": "Perks of the Job",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3364
+      "UsersEstimate": 3365
     },
     {
       "ID": "ach_bookworm",
@@ -19507,7 +19512,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3364
+      "UsersEstimate": 3365
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -19667,7 +19672,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3364
+      "UsersEstimate": 3365
     },
     {
       "ID": "ach_revival_tour",
@@ -19786,16 +19791,16 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 672880,
-      "Completed": 2109
+      "Progressed": 672914,
+      "Completed": 2111
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-03T18:59:11.9850626+00:00",
-  "LastChanged_Achievements": "2023-09-03T21:06:15.6260155+00:00",
+  "LastChanged_Achievements": "2023-09-03T22:04:40.036524+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:04.7021628+00:00",
-  "LastUpdate_Ratings": "2023-09-03T20:59:12.2972527+00:00",
-  "LastUpdate_Achievements": "2023-09-03T21:06:15.6262832+00:00"
+  "LastUpdate_Ratings": "2023-09-03T21:58:14.1346286+00:00",
+  "LastUpdate_Achievements": "2023-09-03T22:04:40.0366539+00:00"
 }

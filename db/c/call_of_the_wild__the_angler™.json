@@ -682,9 +682,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5646,
+  "EOS_Progressed": 5647,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 406,
+  "EOS_NewPlayers": 402,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6872,6 +6872,11 @@
       "Time": "2023-09-03T21:09:10.2064538+00:00",
       "NumProgressed": 5646,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-03T22:06:49.8909197+00:00",
+      "NumProgressed": 5647,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -6883,7 +6888,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 4404
+      "UsersEstimate": 4405
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -6899,7 +6904,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 3839
+      "UsersEstimate": 3840
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -6923,7 +6928,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 3331
+      "UsersEstimate": 3332
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -7162,13 +7167,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 5646,
+      "Progressed": 5647,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5018,
+      "Progressed": 5019,
       "Completed": 112
     }
   ],
@@ -7176,8 +7181,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-09-03T19:00:39.4102502+00:00",
-  "LastChanged_Achievements": "2023-09-03T21:09:10.2064534+00:00",
+  "LastChanged_Achievements": "2023-09-03T22:06:49.8909193+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:23.1924368+00:00",
-  "LastUpdate_Ratings": "2023-09-03T21:00:55.8242915+00:00",
-  "LastUpdate_Achievements": "2023-09-03T21:09:10.2065228+00:00"
+  "LastUpdate_Ratings": "2023-09-03T21:59:22.8678042+00:00",
+  "LastUpdate_Achievements": "2023-09-03T22:06:49.8909858+00:00"
 }
