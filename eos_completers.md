@@ -78,8 +78,8 @@
 | 76 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.80% |
 | 77 | [Destiny 2](games/d/destiny_2.md) | 2.73% |
 | 77 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
-| 79 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.70% |
 | 79 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.70% |
+| 80 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.63% |
 | 81 | [The Bunker](games/t/the_bunker.md) | 2.59% |
 | 82 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.57% |
 | 82 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.57% |
@@ -91,7 +91,7 @@
 | 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.28% |
 | 90 | [Bloodshore](games/b/bloodshore.md) | 2.19% |
 | 91 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
-| 92 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.00% |
+| 92 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.99% |
 | 93 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 1.97% |
 | 94 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
 | 95 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 1.87% |
@@ -112,7 +112,7 @@
 | 109 | [Ten Dates](games/t/ten_dates.md) | 1.44% |
 | 111 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.42% |
 | 112 | [Poosh XL](games/p/poosh_xl.md) | 1.39% |
-| 113 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.33% |
+| 113 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.32% |
 | 114 | [Late Shift](games/l/late_shift.md) | 1.25% |
 | 115 | [Infindustry](games/i/infindustry.md) | 1.23% |
 | 116 | [Chorus](games/c/chorus.md) | 1.12% |
@@ -135,8 +135,8 @@
 | 133 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.71% |
 | 133 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.71% |
 | 135 | [Lemon Cake](games/l/lemon_cake.md) | 0.69% |
-| 136 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.68% |
-| 137 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.67% |
+| 136 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.67% |
+| 136 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.67% |
 | 138 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.65% |
 | 139 | [Haven](games/h/haven.md) | 0.64% |
 | 140 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
@@ -182,10 +182,10 @@
 | 180 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
 | 180 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
 | 182 | [Against the Storm](games/a/against_the_storm.md) | 0.28% |
-| 182 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.28% |
 | 182 | [Scrapnaut](games/s/scrapnaut.md) | 0.28% |
 | 182 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.28% |
 | 182 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.28% |
+| 186 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.27% |
 | 187 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
 | 187 | [Filament](games/f/filament.md) | 0.25% |
 | 189 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.24% |
