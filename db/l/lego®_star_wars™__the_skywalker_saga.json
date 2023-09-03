@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 118,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 65,
+  "Ranking_EOS_NewPlayers": 64,
   "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -3074,9 +3074,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 50886,
+  "EOS_Progressed": 50892,
   "EOS_Completed": 229,
-  "EOS_NewPlayers": 778,
+  "EOS_NewPlayers": 784,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -10864,6 +10864,11 @@
       "Time": "2023-09-03T19:08:07.4452111+00:00",
       "NumProgressed": 50886,
       "NumCompleted": 229
+    },
+    {
+      "Time": "2023-09-03T20:08:01.2735152+00:00",
+      "NumProgressed": 50892,
+      "NumCompleted": 229
     }
   ],
   "TotalAchievements": 45,
@@ -10899,7 +10904,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 40200
+      "UsersEstimate": 40205
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -10987,7 +10992,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 30023
+      "UsersEstimate": 30026
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -10995,7 +11000,7 @@
       "Name": "Attack of the Clones",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 23408
+      "UsersEstimate": 23410
     },
     {
       "ID": "COMPLETE_EPISODE_3",
@@ -11003,7 +11008,7 @@
       "Name": "Revenge of the Sith",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 20354
+      "UsersEstimate": 20357
     },
     {
       "ID": "COMPLETE_EPISODE_4",
@@ -11011,7 +11016,7 @@
       "Name": "A New Hope",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 24425
+      "UsersEstimate": 24428
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -11019,7 +11024,7 @@
       "Name": "The Empire Strikes Back",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 18828
+      "UsersEstimate": 18830
     },
     {
       "ID": "COMPLETE_EPISODE_6",
@@ -11027,7 +11032,7 @@
       "Name": "Return of the Jedi",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 16284
+      "UsersEstimate": 16285
     },
     {
       "ID": "COMPLETE_EPISODE_7",
@@ -11035,7 +11040,7 @@
       "Name": "The Force Awakens",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 13739
+      "UsersEstimate": 13741
     },
     {
       "ID": "COMPLETE_EPISODE_8",
@@ -11043,7 +11048,7 @@
       "Name": "The Last Jedi",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 11704
+      "UsersEstimate": 11705
     },
     {
       "ID": "COMPLETE_EPISODE_9",
@@ -11051,7 +11056,7 @@
       "Name": "The Rise of Skywalker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 10177
+      "UsersEstimate": 10178
     },
     {
       "ID": "COMPLETE_FAULTYDROID_ON_TATOOINE",
@@ -11067,7 +11072,7 @@
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 29005
+      "UsersEstimate": 29008
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -11083,7 +11088,7 @@
       "Name": "Rishi Maze",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2544
+      "UsersEstimate": 2545
     },
     {
       "ID": "COMPLETE_KASHYYYK_KIJIMI",
@@ -11099,7 +11104,7 @@
       "Name": "\u0027\u0027It\u0027s true... all of it\u0027\u0027",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 9668
+      "UsersEstimate": 9669
     },
     {
       "ID": "CREATE_25_REBEL_DISGUISES",
@@ -11115,7 +11120,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 29514
+      "UsersEstimate": 29517
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -11123,7 +11128,7 @@
       "Name": "\u0027\u0027Get the crews to their fighters\u0027\u0027",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 9159
+      "UsersEstimate": 9161
     },
     {
       "ID": "EARN_10B_STUDS",
@@ -11131,7 +11136,7 @@
       "Name": "\u0027\u0027Only one business in the Galaxy...\u0027\u0027",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 2544
+      "UsersEstimate": 2545
     },
     {
       "ID": "EARN_17K_STUDS",
@@ -11139,7 +11144,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 49359
+      "UsersEstimate": 49365
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -11179,7 +11184,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 36129
+      "UsersEstimate": 36133
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -11195,7 +11200,7 @@
       "Name": "\u0027\u0027A fine addition to my collection\u0027\u0027",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 18828
+      "UsersEstimate": 18830
     },
     {
       "ID": "RIDE_ALL_CREATURES",
@@ -11211,7 +11216,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 26970
+      "UsersEstimate": 26973
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -11227,22 +11232,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 36638
+      "UsersEstimate": 36642
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 50886,
+      "Progressed": 50892,
       "Completed": 229
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-09-03T15:01:04.7651199+00:00",
-  "LastChanged_Achievements": "2023-09-03T19:08:07.4452105+00:00",
+  "LastChanged_Achievements": "2023-09-03T20:08:01.2735141+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:33.6341157+00:00",
-  "LastUpdate_Ratings": "2023-09-03T19:01:36.1952588+00:00",
-  "LastUpdate_Achievements": "2023-09-03T19:08:07.4453197+00:00"
+  "LastUpdate_Ratings": "2023-09-03T20:01:23.7462823+00:00",
+  "LastUpdate_Achievements": "2023-09-03T20:08:01.2736258+00:00"
 }

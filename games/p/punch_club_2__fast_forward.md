@@ -20,7 +20,7 @@
 | Fighting is cool | 68.00% | ~211 |
 | Hello, world! | 68.00% | ~211 |
 | No bullying more | 67.00% | ~208 |
-| Pal of your father? | 65.00% | ~202 |
+| Pal of your father? | 66.00% | ~205 |
 | Employee of the month | 65.00% | ~202 |
 | Spirit of the past | 63.00% | ~196 |
 | Law student | 62.00% | ~193 |
@@ -42,9 +42,9 @@
 | Mysterious voice | 45.00% | ~140 |
 | No blades in the gym | 44.00% | ~137 |
 | Champion – no way back | 42.00% | ~131 |
-| Responsible approach | 40.00% | ~124 |
+| Responsible approach | 41.00% | ~128 |
+| Underground dwellers | 40.00% | ~124 |
 | Deal with life | 39.00% | ~121 |
-| Underground dwellers | 39.00% | ~121 |
 | Mom got better | 38.00% | ~118 |
 | GYM professional | 38.00% | ~118 |
 | Poisoned fighter | 38.00% | ~118 |
@@ -55,8 +55,8 @@
 | Gang wrangler | 34.00% | ~106 |
 | Undercover robot | 34.00% | ~106 |
 | Problems of cyborgs | 33.00% | ~103 |
+| Absolute Champion! | 33.00% | ~103 |
 | Not little hacker | 32.00% | ~100 |
-| Absolute Champion! | 32.00% | ~100 |
 | Careerist | 32.00% | ~100 |
 | Anyone can resist | 32.00% | ~100 |
 | Trap disarmed | 31.00% | ~96 |

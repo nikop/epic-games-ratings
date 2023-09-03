@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 133,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
     "PcReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -21,10 +21,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 562,
+  "EOS_Progressed": 563,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 140,
-  "EOS_NewCompleters": 3,
+  "EOS_NewPlayers": 138,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
     {
@@ -1016,6 +1016,11 @@
       "Time": "2023-09-03T19:05:58.87097+00:00",
       "NumProgressed": 562,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-03T20:05:51.1266157+00:00",
+      "NumProgressed": 563,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -1052,7 +1057,7 @@
       "Name": "Cartographer",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "Causality",
@@ -1066,9 +1071,9 @@
       "ID": "CongratulationsYouAreAnEngineer",
       "SetID": "3ai6ml8",
       "Name": "Congratulations, you\u0027re an engineer",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 230
+      "UsersEstimate": 225
     },
     {
       "ID": "DarkestBeforeTheDawn",
@@ -1076,15 +1081,15 @@
       "Name": "Darkest Before the Dawn",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "DrinkingOnTheJob",
       "SetID": "3ai6ml8",
       "Name": "Drinking on the Job",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 270
+      "UsersEstimate": 265
     },
     {
       "ID": "DustDancing",
@@ -1092,7 +1097,7 @@
       "Name": "Dust Dancing",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "EverythingIsDust",
@@ -1100,15 +1105,15 @@
       "Name": "Everything is Dust",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "LightsOut",
       "SetID": "3ai6ml8",
       "Name": "Lights Out",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 287
+      "UsersEstimate": 293
     },
     {
       "ID": "MiCasaSuCasa",
@@ -1116,7 +1121,7 @@
       "Name": "Mi Casa Su Casa",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "OnceMoreIntoTheBreach",
@@ -1124,7 +1129,7 @@
       "Name": "Once more into the Breach",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "Outpatient",
@@ -1132,15 +1137,15 @@
       "Name": "Outpatient",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "Relic",
       "SetID": "3ai6ml8",
       "Name": "Relic",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 450
+      "UsersEstimate": 445
     },
     {
       "ID": "SkeletonCrew",
@@ -1180,21 +1185,21 @@
       "Name": "Welcome to Fort Solis",
       "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 562,
+      "Progressed": 563,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-09-03T19:05:58.8709694+00:00",
+  "LastChanged_Achievements": "2023-09-03T20:05:51.126615+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:05.9137937+00:00",
-  "LastUpdate_Ratings": "2023-09-03T19:00:45.383808+00:00",
-  "LastUpdate_Achievements": "2023-09-03T19:05:58.870995+00:00"
+  "LastUpdate_Ratings": "2023-09-03T20:00:31.6804106+00:00",
+  "LastUpdate_Achievements": "2023-09-03T20:05:51.1266419+00:00"
 }

@@ -9115,9 +9115,9 @@
       "ID": "ACH_EP_PENULTIMOOFTHECARIBBEAN",
       "SetID": "1p8ab95",
       "Name": "The Beginning of a Servantship",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 2237
+      "UsersEstimate": 2287
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -9347,8 +9347,8 @@
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-09-02T17:00:04.2747722+00:00",
-  "LastChanged_Achievements": "2023-09-03T19:06:04.3827998+00:00",
+  "LastChanged_Achievements": "2023-09-03T20:05:56.8260014+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:55.8221856+00:00",
-  "LastUpdate_Ratings": "2023-09-03T19:01:18.3705218+00:00",
-  "LastUpdate_Achievements": "2023-09-03T19:06:04.3829212+00:00"
+  "LastUpdate_Ratings": "2023-09-03T20:01:04.4121723+00:00",
+  "LastUpdate_Achievements": "2023-09-03T20:05:56.8261052+00:00"
 }

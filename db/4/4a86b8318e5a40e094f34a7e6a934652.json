@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 113,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 75,
+  "EOS_Progressed": 76,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.33,
+  "EOS_Completed_Percentage": 1.32,
   "EosHistory": [
     {
       "Time": "2023-08-29T09:05:59.1773399+00:00",
@@ -306,6 +306,11 @@
       "Time": "2023-09-03T18:06:34.7074412+00:00",
       "NumProgressed": 75,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-03T20:07:51.2464829+00:00",
+      "NumProgressed": 76,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -318,7 +323,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 79,
       "XP": 50,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -356,9 +361,9 @@
       "ID": "CATCH_30_FISH",
       "SetID": "aniflfk",
       "Name": "Fisherman",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -372,7 +377,7 @@
       "ID": "GO_ON_EXPEDITION",
       "SetID": "aniflfk",
       "Name": "Off on an Expedition!",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 50,
       "UsersEstimate": 38
     },
@@ -396,7 +401,7 @@
       "ID": "LUNCH_LEECH",
       "SetID": "aniflfk",
       "Name": "Leech Lunch",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 50,
       "UsersEstimate": 26
     },
@@ -460,7 +465,7 @@
       "ID": "TAKE_LEECH",
       "SetID": "aniflfk",
       "Name": "Uppies!",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 50,
       "UsersEstimate": 42
     },
@@ -477,14 +482,14 @@
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 75,
+      "Progressed": 76,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-03T19:07:57.279024+00:00",
+  "LastChanged_Achievements": "2023-09-03T20:07:51.2464814+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:06.6191746+00:00",
-  "LastUpdate_Ratings": "2023-09-03T18:57:33.5258277+00:00",
-  "LastUpdate_Achievements": "2023-09-03T19:07:57.2790435+00:00"
+  "LastUpdate_Ratings": "2023-09-03T19:57:20.5872113+00:00",
+  "LastUpdate_Achievements": "2023-09-03T20:07:51.2465094+00:00"
 }

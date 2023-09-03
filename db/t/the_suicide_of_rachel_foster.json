@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 54,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1422,
+  "EOS_Progressed": 1423,
   "EOS_Completed": 68,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.78,
   "EosHistory": [
@@ -2343,6 +2343,11 @@
       "Time": "2023-09-02T16:06:54.8808241+00:00",
       "NumProgressed": 1422,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2023-09-03T20:06:44.1548796+00:00",
+      "NumProgressed": 1423,
+      "NumCompleted": 68
     }
   ],
   "TotalAchievements": 11,
@@ -2386,7 +2391,7 @@
       "Name": "Is she really dead?",
       "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "ACH_FineEV9",
@@ -2402,7 +2407,7 @@
       "Name": "All together, again",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "ACH_PrendiTuttiOggetti",
@@ -2441,15 +2446,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1422,
+      "Progressed": 1423,
       "Completed": 68
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-08-04T14:01:27.152223+00:00",
-  "LastChanged_Achievements": "2023-09-03T19:06:50.409701+00:00",
+  "LastChanged_Achievements": "2023-09-03T20:06:44.1548789+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:32.8877978+00:00",
-  "LastUpdate_Ratings": "2023-09-03T19:00:47.4482161+00:00",
-  "LastUpdate_Achievements": "2023-09-03T19:06:50.4097281+00:00"
+  "LastUpdate_Ratings": "2023-09-03T20:00:33.7539925+00:00",
+  "LastUpdate_Achievements": "2023-09-03T20:06:44.1549061+00:00"
 }

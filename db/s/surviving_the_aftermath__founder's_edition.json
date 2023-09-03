@@ -4,7 +4,7 @@
   "ProductSlug": "surviving-the-aftermath",
   "Ranking_Rating": 602,
   "Ranking_Popularity": 335,
-  "Ranking_PopularitySum": 279,
+  "Ranking_PopularitySum": 278,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 104,
@@ -1153,10 +1153,16 @@
       "Rating": 4.48,
       "NumberOfAwards": 696,
       "NumberOfAwardsMax": 101
+    },
+    {
+      "Time": "2023-09-03T20:00:40.9004004+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 697,
+      "NumberOfAwardsMax": 101
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 696,
+  "NumberOfAwards": 697,
   "NumberOfAwardsMax": 101,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1176,7 +1182,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 86
+      "Count": 87
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1223,7 +1229,7 @@
   ],
   "EOS_Progressed": 8796,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 199,
+  "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12629,9 +12635,9 @@
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
-  "LastChanged": "2023-09-03T13:59:43.6704952+00:00",
-  "LastChanged_Achievements": "2023-09-03T19:06:17.9499254+00:00",
+  "LastChanged": "2023-09-03T20:00:40.9004002+00:00",
+  "LastChanged_Achievements": "2023-09-03T20:06:11.1773628+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:39.804786+00:00",
-  "LastUpdate_Ratings": "2023-09-03T19:00:52.8947468+00:00",
-  "LastUpdate_Achievements": "2023-09-03T19:06:17.9500778+00:00"
+  "LastUpdate_Ratings": "2023-09-03T20:00:40.9004008+00:00",
+  "LastUpdate_Achievements": "2023-09-03T20:06:11.1775271+00:00"
 }

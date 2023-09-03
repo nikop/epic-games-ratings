@@ -7,15 +7,15 @@ Number of Ratings: 1,611  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Goodest Of The Good Cops | 28.00% | ~35,620 |
-| Biggest Communism Builder | 24.00% | ~30,531 |
+| Biggest Communism Builder | 24.00% | ~30,532 |
 | The World's Most Laughable Centrist | 21.00% | ~26,715 |
-| Il Coppo Del'Arte! | 18.00% | ~22,898 |
+| Il Coppo Del'Arte! | 18.00% | ~22,899 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,354 |
 | Hyperstellar Law Official | 16.00% | ~20,354 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~17,810 |
 | Gurdi-Ball Is Lit | 14.00% | ~17,810 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~16,538 |
-| Truly Rabid *Traditionalist* | 11.00% | ~13,993 |
+| Truly Rabid *Traditionalist* | 11.00% | ~13,994 |
 | Unbelievably Boring **** | 9.00% | ~11,449 |
 | The Figurines Won't Win Her Back | 9.00% | ~11,449 |
 | Enemy Of The Physical Realm | 8.00% | ~10,177 |
@@ -34,7 +34,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Real Musor | 0.90% | ~1,145 |
 | Baddest Brow in Town | 0.80% | ~1,018 |
 | Venture into the HARDCORE | 0.80% | ~1,018 |
-| Networthy Individual | 0.70% | ~890 |
+| Networthy Individual | 0.70% | ~891 |
 | Leopard Mindset | 0.60% | ~763 |
 | Modus: Mullen | 0.30% | ~382 |
 | Palerunner | 0.30% | ~382 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~127 |
 | What body? | 0.10% | ~127 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,213 (Ranked 69)  
+Progressed: 127,215 (Ranked 69)  
 Completed: 27 (0.02%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 27 (0.02%) (Ranked 250)
 | 2023-08-31 | 127,051 | 27 |
 | 2023-09-01 | 127,095 | 27 |
 | 2023-09-02 | 127,156 | 27 |
-| 2023-09-03 | 127,213 | 27 |
+| 2023-09-03 | 127,215 | 27 |
 ## Awards
 Max (Character Customization): 721  (Ranked 166)  
 Sum: 1,085 (Ranked 236)  

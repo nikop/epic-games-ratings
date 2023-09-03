@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1012,
+  "EOS_Progressed": 1013,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3281,6 +3281,11 @@
       "Time": "2023-09-03T17:03:18.1591357+00:00",
       "NumProgressed": 1012,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-03T20:03:29.932404+00:00",
+      "NumProgressed": 1013,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3292,7 +3297,7 @@
       "Name": "Adventurous 1",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "adventurous_2",
@@ -3484,7 +3489,7 @@
       "Name": "Elite Deck 1",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "elite_deck_2",
@@ -3610,9 +3615,9 @@
       "ID": "lord_of_the_tower_2",
       "SetID": "53c1p3k",
       "Name": "Lord of the Tower 2",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "lord_of_the_tower_3",
@@ -3676,7 +3681,7 @@
       "Name": "Punctual 1",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "punctual_2",
@@ -3819,14 +3824,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1012,
+      "Progressed": 1013,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-09-03T19:03:19.7303504+00:00",
+  "LastChanged_Achievements": "2023-09-03T20:03:29.9324033+00:00",
   "LastUpdate_AppInfo": "2023-08-29T06:57:19.2753876+00:00",
-  "LastUpdate_Ratings": "2023-09-03T18:57:29.0280034+00:00",
-  "LastUpdate_Achievements": "2023-09-03T19:03:19.7304512+00:00"
+  "LastUpdate_Ratings": "2023-09-03T19:57:16.0255083+00:00",
+  "LastUpdate_Achievements": "2023-09-03T20:03:29.9325073+00:00"
 }

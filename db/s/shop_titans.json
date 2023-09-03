@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -5860,9 +5860,9 @@
       "Count": 3740
     }
   ],
-  "EOS_Progressed": 135610,
+  "EOS_Progressed": 135616,
   "EOS_Completed": 141,
-  "EOS_NewPlayers": 367,
+  "EOS_NewPlayers": 370,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -19840,6 +19840,11 @@
       "Time": "2023-09-03T19:04:39.6031659+00:00",
       "NumProgressed": 135610,
       "NumCompleted": 141
+    },
+    {
+      "Time": "2023-09-03T20:04:31.1683504+00:00",
+      "NumProgressed": 135616,
+      "NumCompleted": 141
     }
   ],
   "TotalAchievements": 112,
@@ -19931,7 +19936,7 @@
       "Name": "One Easy Payment",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1220
+      "UsersEstimate": 1221
     },
     {
       "ID": "bigsale02",
@@ -19955,7 +19960,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1220
+      "UsersEstimate": 1221
     },
     {
       "ID": "blueprint02",
@@ -20331,7 +20336,7 @@
       "Name": "Pretty Penny",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1220
+      "UsersEstimate": 1221
     },
     {
       "ID": "gold03",
@@ -20715,7 +20720,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1220
+      "UsersEstimate": 1221
     },
     {
       "ID": "workers02",
@@ -20746,15 +20751,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135610,
+      "Progressed": 135616,
       "Completed": 141
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-03T11:58:28.6836995+00:00",
-  "LastChanged_Achievements": "2023-09-03T19:04:39.6031653+00:00",
+  "LastChanged_Achievements": "2023-09-03T20:04:31.1683495+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:10.3701754+00:00",
-  "LastUpdate_Ratings": "2023-09-03T18:59:16.6526633+00:00",
-  "LastUpdate_Achievements": "2023-09-03T19:04:39.6034635+00:00"
+  "LastUpdate_Ratings": "2023-09-03T19:58:58.7526208+00:00",
+  "LastUpdate_Achievements": "2023-09-03T20:04:31.1690496+00:00"
 }

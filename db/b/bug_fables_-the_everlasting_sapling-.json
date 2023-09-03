@@ -354,9 +354,9 @@
       "ID": "BFT_MAX",
       "SetID": "7o7kd30",
       "Name": "Battle Ready",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "BFT_MEDAL",
@@ -419,8 +419,8 @@
   "FirstSeenRating": "2023-03-31T05:58:05.5070215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:45.7911439+00:00",
   "LastChanged": "2023-03-31T05:58:05.5070216+00:00",
-  "LastChanged_Achievements": "2023-09-03T19:03:14.5241707+00:00",
+  "LastChanged_Achievements": "2023-09-03T20:03:24.5631585+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:34.2955802+00:00",
-  "LastUpdate_Ratings": "2023-09-03T19:00:48.7003085+00:00",
-  "LastUpdate_Achievements": "2023-09-03T19:03:14.5241992+00:00"
+  "LastUpdate_Ratings": "2023-09-03T20:00:35.8980574+00:00",
+  "LastUpdate_Achievements": "2023-09-03T20:03:24.5632364+00:00"
 }

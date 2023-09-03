@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -250,9 +250,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1892,
+  "EOS_Progressed": 1893,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5345,6 +5345,11 @@
       "Time": "2023-09-03T18:03:17.8740834+00:00",
       "NumProgressed": 1892,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-03T20:03:54.4746275+00:00",
+      "NumProgressed": 1893,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -5404,7 +5409,7 @@
       "Name": "Blueprint Upgrades",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "cauldronliberator",
@@ -5508,7 +5513,7 @@
       "Name": "Engineer Mastery",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "enhancedwarmachines",
@@ -5532,7 +5537,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "fellowshippower",
@@ -5812,7 +5817,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1079
     },
     {
       "ID": "thealchemist",
@@ -5828,7 +5833,7 @@
       "Name": "The Expeditioner",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "thefatherofdragons",
@@ -5844,7 +5849,7 @@
       "Name": "The game is on",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "thepowerofawakening",
@@ -5932,7 +5937,7 @@
       "Name": "Weekly Quest Completionist",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "whatliesbehindthebush",
@@ -5955,7 +5960,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1892,
+      "Progressed": 1893,
       "Completed": 2
     }
   ],
@@ -5963,8 +5968,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-09-02T05:57:31.8632938+00:00",
-  "LastChanged_Achievements": "2023-09-03T19:03:44.4130926+00:00",
+  "LastChanged_Achievements": "2023-09-03T20:03:54.4746268+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:31.485527+00:00",
-  "LastUpdate_Ratings": "2023-09-03T18:58:42.3772834+00:00",
-  "LastUpdate_Achievements": "2023-09-03T19:03:44.4132276+00:00"
+  "LastUpdate_Ratings": "2023-09-03T19:58:25.9784763+00:00",
+  "LastUpdate_Achievements": "2023-09-03T20:03:54.4747767+00:00"
 }

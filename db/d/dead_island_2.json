@@ -4206,9 +4206,9 @@
       "Count": 336
     }
   ],
-  "EOS_Progressed": 672791,
-  "EOS_Completed": 2108,
-  "EOS_NewPlayers": 5694,
+  "EOS_Progressed": 672835,
+  "EOS_Completed": 2109,
+  "EOS_NewPlayers": 5674,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -19406,6 +19406,11 @@
       "Time": "2023-09-03T19:05:55.8281288+00:00",
       "NumProgressed": 672791,
       "NumCompleted": 2108
+    },
+    {
+      "Time": "2023-09-03T20:05:48.1205704+00:00",
+      "NumProgressed": 672835,
+      "NumCompleted": 2109
     }
   ],
   "TotalAchievements": 45,
@@ -19417,15 +19422,15 @@
       "Name": "Dr. Reed, I Presume?",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5382
+      "UsersEstimate": 5383
     },
     {
       "ID": "ach_a_taste_of_stardom",
       "SetID": "7km39fm",
       "Name": "Making Your Mark",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2691
+      "UsersEstimate": 3364
     },
     {
       "ID": "ach_ammo_ran",
@@ -19433,7 +19438,7 @@
       "Name": "Git Gutte!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5382
+      "UsersEstimate": 5383
     },
     {
       "ID": "ach_anger_management",
@@ -19481,7 +19486,7 @@
       "Name": "Break A Leg",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6055
+      "UsersEstimate": 6056
     },
     {
       "ID": "ach_contender",
@@ -19519,9 +19524,9 @@
       "ID": "ach_explorer",
       "SetID": "7km39fm",
       "Name": "Smorgasbord",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 1346
+      "UsersEstimate": 2019
     },
     {
       "ID": "ach_fetch_me_a_tisha",
@@ -19537,7 +19542,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5382
+      "UsersEstimate": 5383
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -19561,7 +19566,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5382
+      "UsersEstimate": 5383
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -19569,7 +19574,7 @@
       "Name": "Friends Like These",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5382
+      "UsersEstimate": 5383
     },
     {
       "ID": "ach_hotel_california",
@@ -19609,7 +19614,7 @@
       "Name": "Jumbo Keyring",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 2018
+      "UsersEstimate": 2019
     },
     {
       "ID": "ach_knock_down",
@@ -19617,7 +19622,7 @@
       "Name": "Apex Predator",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5382
+      "UsersEstimate": 5383
     },
     {
       "ID": "ach_knowledgeable",
@@ -19689,7 +19694,7 @@
       "Name": "Stacking the Deck",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5382
+      "UsersEstimate": 5383
     },
     {
       "ID": "ach_star_performance",
@@ -19697,7 +19702,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6055
+      "UsersEstimate": 6056
     },
     {
       "ID": "ach_survival_expert",
@@ -19721,7 +19726,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2018
+      "UsersEstimate": 2019
     },
     {
       "ID": "ach_thesacrifice",
@@ -19761,7 +19766,7 @@
       "Name": "Rising Star",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 2018
+      "UsersEstimate": 2019
     },
     {
       "ID": "ach_well_trained",
@@ -19776,16 +19781,16 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 672791,
-      "Completed": 2108
+      "Progressed": 672835,
+      "Completed": 2109
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-03T18:59:11.9850626+00:00",
-  "LastChanged_Achievements": "2023-09-03T19:05:55.8281282+00:00",
+  "LastChanged_Achievements": "2023-09-03T20:05:48.1205698+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:04.7021628+00:00",
-  "LastUpdate_Ratings": "2023-09-03T18:59:11.9850632+00:00",
-  "LastUpdate_Achievements": "2023-09-03T19:05:55.8282864+00:00"
+  "LastUpdate_Ratings": "2023-09-03T19:58:54.1607614+00:00",
+  "LastUpdate_Achievements": "2023-09-03T20:05:48.1207326+00:00"
 }

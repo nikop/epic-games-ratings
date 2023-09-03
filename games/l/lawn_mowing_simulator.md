@@ -6,17 +6,17 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 80.00% | ~529,195 |
-| Every story has a beginning | 36.00% | ~238,138 |
-| The first of many | 31.00% | ~205,063 |
-| Positive word of mouth | 18.00% | ~119,069 |
-| Lawn in the U.S.A. | 15.00% | ~99,224 |
-| Blade Runner | 9.00% | ~59,534 |
-| Credible | 7.00% | ~46,305 |
-| Teamwork makes the dream work | 6.00% | ~39,690 |
-| Where there's muck there's brass | 4.00% | ~26,460 |
-| Bigger and better | 4.00% | ~26,460 |
-| Aggressive expansion | 4.00% | ~26,460 |
+| The dream begins | 80.00% | ~529,213 |
+| Every story has a beginning | 36.00% | ~238,146 |
+| The first of many | 31.00% | ~205,070 |
+| Positive word of mouth | 18.00% | ~119,073 |
+| Lawn in the U.S.A. | 15.00% | ~99,227 |
+| Blade Runner | 9.00% | ~59,536 |
+| Credible | 7.00% | ~46,306 |
+| Teamwork makes the dream work | 6.00% | ~39,691 |
+| Where there's muck there's brass | 4.00% | ~26,461 |
+| Bigger and better | 4.00% | ~26,461 |
+| Aggressive expansion | 4.00% | ~26,461 |
 | Size isn't everything | 3.00% | ~19,845 |
 | Close shave | 3.00% | ~19,845 |
 | Established | 3.00% | ~19,845 |
@@ -27,41 +27,41 @@ Number of Ratings: 5,086  (23.09.2022)
 | First step on the ladder | 2.00% | ~13,230 |
 | Trusted | 2.00% | ~13,230 |
 | The top of the mountain | 1.00% | ~6,615 |
-| Earn your stripes | 0.90% | ~5,953 |
-| Lawn & Order | 0.90% | ~5,953 |
-| Jack of all trades | 0.90% | ~5,953 |
-| Professional | 0.90% | ~5,953 |
+| Earn your stripes | 0.90% | ~5,954 |
+| Lawn & Order | 0.90% | ~5,954 |
+| Jack of all trades | 0.90% | ~5,954 |
+| Professional | 0.90% | ~5,954 |
 | The grass is always greener | 0.80% | ~5,292 |
 | All hands on deck | 0.80% | ~5,292 |
 | Worked your grass off | 0.80% | ~5,292 |
 | Phoenix rises | 0.40% | ~2,646 |
 | Cut Loose | 0.40% | ~2,646 |
 | Esteemed | 0.40% | ~2,646 |
-| Hard times | 0.30% | ~1,984 |
+| Hard times | 0.30% | ~1,985 |
 | Zero to hero | 0.20% | ~1,323 |
 | In it for the long haul | 0.20% | ~1,323 |
 | Centurion | 0.20% | ~1,323 |
 | Distinguished | 0.20% | ~1,323 |
-| Amateur mower | 0.10% | ~661 |
-| Expert mower | 0.10% | ~661 |
-| Professional mower | 0.10% | ~661 |
-| Lawn on the 4th of July | 0.10% | ~661 |
-| A seat at the round table | 0.10% | ~661 |
-| Home game | 0.10% | ~661 |
-| Excalibur? | 0.10% | ~661 |
-| An axe to grind | 0.10% | ~661 |
-| Elderly chap, big grey beard, pointy hat. | 0.10% | ~661 |
-| Head of the family | 0.10% | ~661 |
-| Spared no expense | 0.10% | ~661 |
-| We’re going to make a fortune with this place | 0.10% | ~661 |
-| Don’t go into the long grass! | 0.10% | ~661 |
-| Clever girl | 0.10% | ~661 |
-| We have a T-Rex | 0.10% | ~661 |
-| Welcome to Dino Safari! | 0.10% | ~661 |
-| Lawn Enforcement Officer | 0.10% | ~661 |
-| Mo mowers, mo problems | 0.10% | ~661 |
+| Amateur mower | 0.10% | ~662 |
+| Expert mower | 0.10% | ~662 |
+| Professional mower | 0.10% | ~662 |
+| Lawn on the 4th of July | 0.10% | ~662 |
+| A seat at the round table | 0.10% | ~662 |
+| Home game | 0.10% | ~662 |
+| Excalibur? | 0.10% | ~662 |
+| An axe to grind | 0.10% | ~662 |
+| Elderly chap, big grey beard, pointy hat. | 0.10% | ~662 |
+| Head of the family | 0.10% | ~662 |
+| Spared no expense | 0.10% | ~662 |
+| We’re going to make a fortune with this place | 0.10% | ~662 |
+| Don’t go into the long grass! | 0.10% | ~662 |
+| Clever girl | 0.10% | ~662 |
+| We have a T-Rex | 0.10% | ~662 |
+| Welcome to Dino Safari! | 0.10% | ~662 |
+| Lawn Enforcement Officer | 0.10% | ~662 |
+| Mo mowers, mo problems | 0.10% | ~662 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 661,494 (Ranked 24)  
+Progressed: 661,516 (Ranked 24)  
 Completed: 16 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 16 (0.00%) (Ranked 271)
 | 2023-08-31 | 660,496 | 16 |
 | 2023-09-01 | 660,810 | 16 |
 | 2023-09-02 | 661,172 | 16 |
-| 2023-09-03 | 661,494 | 16 |
+| 2023-09-03 | 661,516 | 16 |
 ## Awards
 Max (Quickly Understood Controls): 181  (Ranked 282)  
 Sum: 977 (Ranked 244)  

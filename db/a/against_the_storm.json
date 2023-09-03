@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 163,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2762,9 +2762,9 @@
       "Count": 317
     }
   ],
-  "EOS_Progressed": 16509,
+  "EOS_Progressed": 16510,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -10022,6 +10022,11 @@
       "Time": "2023-09-03T16:04:13.7627332+00:00",
       "NumProgressed": 16509,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-09-03T20:04:36.8267829+00:00",
+      "NumProgressed": 16510,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 50,
@@ -10121,7 +10126,7 @@
       "Name": "First Real Expedition",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "WinHard",
@@ -10129,7 +10134,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "WinImpossible",
@@ -10297,7 +10302,7 @@
       "Name": "Coral Forest",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "WinOnCursed",
@@ -10313,7 +10318,7 @@
       "Name": "The Marshlands",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "WinOnMoorlands",
@@ -10321,7 +10326,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "WinPrestige10",
@@ -10369,7 +10374,7 @@
       "Name": "Taking Action",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "WinWithResolve",
@@ -10409,7 +10414,7 @@
       "Name": "No Deaths",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "WinWithoutOrders",
@@ -10432,15 +10437,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 16509,
+      "Progressed": 16510,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-09-03T13:03:49.0051341+00:00",
-  "LastChanged_Achievements": "2023-09-03T19:04:45.3079087+00:00",
+  "LastChanged_Achievements": "2023-09-03T20:04:36.8267823+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:56.7333073+00:00",
-  "LastUpdate_Ratings": "2023-09-03T19:01:18.9960469+00:00",
-  "LastUpdate_Achievements": "2023-09-03T19:04:45.3080152+00:00"
+  "LastUpdate_Ratings": "2023-09-03T20:01:05.0643462+00:00",
+  "LastUpdate_Achievements": "2023-09-03T20:04:36.8268827+00:00"
 }

@@ -1453,9 +1453,9 @@
       "ID": "league_3",
       "SetID": "69co12a",
       "Name": "Absolute Champion!",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 103
     },
     {
       "ID": "lil_bobo_fight",
@@ -1469,9 +1469,9 @@
       "ID": "met_casey",
       "SetID": "69co12a",
       "Name": "Pal of your father?",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 205
     },
     {
       "ID": "met_k",
@@ -1597,9 +1597,9 @@
       "ID": "resistance_fake",
       "SetID": "69co12a",
       "Name": "Underground dwellers",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 124
     },
     {
       "ID": "resistance_slime",
@@ -1661,9 +1661,9 @@
       "ID": "trainer_promotion_3",
       "SetID": "69co12a",
       "Name": "Responsible approach",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 128
     },
     {
       "ID": "undercover_robot",
@@ -1716,8 +1716,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-09-03T19:03:41.2437023+00:00",
+  "LastChanged_Achievements": "2023-09-03T20:03:51.228191+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:38.1183893+00:00",
-  "LastUpdate_Ratings": "2023-09-03T19:02:10.9091301+00:00",
-  "LastUpdate_Achievements": "2023-09-03T19:03:41.243782+00:00"
+  "LastUpdate_Ratings": "2023-09-03T20:03:09.2324585+00:00",
+  "LastUpdate_Achievements": "2023-09-03T20:03:51.2282909+00:00"
 }

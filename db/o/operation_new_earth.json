@@ -2,7 +2,7 @@
   "ID": "fa9a00f7f82846b4b820e6152b69aa55",
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
-  "Ranking_EOS_Progress": 193,
+  "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 97,
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1212,
+  "EOS_Progressed": 1213,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
@@ -4281,6 +4281,11 @@
       "Time": "2023-09-03T16:06:07.2435008+00:00",
       "NumProgressed": 1212,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-03T20:06:33.4546824+00:00",
+      "NumProgressed": 1213,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4292,7 +4297,7 @@
       "Name": "Know The Enemy",
       "Percentage": 4,
       "XP": 75,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -4316,7 +4321,7 @@
       "Name": "Player Betrayer",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ach_gold_rewards_100",
@@ -4364,7 +4369,7 @@
       "Name": "Silver Achiever",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "objective_headquarters_10",
@@ -4380,7 +4385,7 @@
       "Name": "Moving On Up",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "objective_headquarters_20",
@@ -4412,7 +4417,7 @@
       "Name": "Sergeant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -4468,7 +4473,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -4476,7 +4481,7 @@
       "Name": "Covert Operative",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -4595,14 +4600,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1212,
+      "Progressed": 1213,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-03T19:06:39.7387695+00:00",
+  "LastChanged_Achievements": "2023-09-03T20:06:33.4546817+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:58:09.0134138+00:00",
-  "LastUpdate_Ratings": "2023-09-03T19:01:31.9234645+00:00",
-  "LastUpdate_Achievements": "2023-09-03T19:06:39.7388358+00:00"
+  "LastUpdate_Ratings": "2023-09-03T20:01:18.7494358+00:00",
+  "LastUpdate_Achievements": "2023-09-03T20:06:33.4547438+00:00"
 }

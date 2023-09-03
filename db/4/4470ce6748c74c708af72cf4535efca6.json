@@ -436,9 +436,9 @@
       "ID": "39",
       "SetID": "5e3maia",
       "Name": "Occultist",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "4",
@@ -452,9 +452,9 @@
       "ID": "40",
       "SetID": "5e3maia",
       "Name": "Elementalist",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "41",
@@ -508,9 +508,9 @@
       "ID": "47",
       "SetID": "5e3maia",
       "Name": "Manapourer",
-      "Percentage": 9,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "48",
@@ -747,8 +747,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-09-03T19:07:51.4800249+00:00",
+  "LastChanged_Achievements": "2023-09-03T20:07:45.3381092+00:00",
   "LastUpdate_AppInfo": "2023-09-01T23:56:54.9755822+00:00",
-  "LastUpdate_Ratings": "2023-09-03T19:01:27.8078604+00:00",
-  "LastUpdate_Achievements": "2023-09-03T19:07:51.4801129+00:00"
+  "LastUpdate_Ratings": "2023-09-03T20:01:13.9161585+00:00",
+  "LastUpdate_Achievements": "2023-09-03T20:07:45.3381903+00:00"
 }

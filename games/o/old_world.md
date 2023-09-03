@@ -8,10 +8,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | ---- | ---------- | ----- |
 | Settler | 5.00% | ~688 |
 | Play a Single Player Game | 5.00% | ~688 |
-| Explorer | 4.00% | ~550 |
-| Intrepid | 4.00% | ~550 |
-| Friendly Family | 4.00% | ~550 |
-| The Clergy | 4.00% | ~550 |
+| Explorer | 4.00% | ~551 |
+| Intrepid | 4.00% | ~551 |
+| Friendly Family | 4.00% | ~551 |
+| The Clergy | 4.00% | ~551 |
 | Able | 3.00% | ~413 |
 | Architect | 3.00% | ~413 |
 | Enlightened | 3.00% | ~413 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,762 (Ranked 120)  
+Progressed: 13,763 (Ranked 120)  
 Completed: 5 (0.04%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -439,11 +439,11 @@ Completed: 5 (0.04%) (Ranked 240)
 | 2023-08-31 | 13,711 | 5 |
 | 2023-09-01 | 13,732 | 5 |
 | 2023-09-02 | 13,749 | 5 |
-| 2023-09-03 | 13,762 | 5 |
+| 2023-09-03 | 13,763 | 5 |
 ## Awards
-Max (Relaxing): 221  (Ranked 263)  
+Max (Relaxing): 221  (Ranked 264)  
 Sum: 1,802 (Ranked 207)  
-Diff (max vs sum): 56  
+Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 221 |
