@@ -38,7 +38,7 @@
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.81% |
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
 | 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.20% |
-| 39 | [Scorn](games/s/scorn.md) | 6.99% |
+| 39 | [Scorn](games/s/scorn.md) | 7.03% |
 | 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.95% |
 | 41 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.78% |
 | 42 | [Time Loader](games/t/time_loader.md) | 6.72% |
@@ -111,8 +111,8 @@
 | 109 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.44% |
 | 109 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.44% |
 | 109 | [Ten Dates](games/t/ten_dates.md) | 1.44% |
-| 112 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.41% |
-| 113 | [Poosh XL](games/p/poosh_xl.md) | 1.39% |
+| 112 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.39% |
+| 112 | [Poosh XL](games/p/poosh_xl.md) | 1.39% |
 | 114 | [Late Shift](games/l/late_shift.md) | 1.25% |
 | 115 | [Infindustry](games/i/infindustry.md) | 1.23% |
 | 116 | [Chorus](games/c/chorus.md) | 1.12% |
@@ -131,8 +131,8 @@
 | 129 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
 | 130 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.81% |
 | 131 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
-| 131 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.74% |
-| 133 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.73% |
+| 132 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.73% |
+| 132 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.73% |
 | 134 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.72% |
 | 135 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.71% |
 | 136 | [Lemon Cake](games/l/lemon_cake.md) | 0.69% |
@@ -175,8 +175,8 @@
 | 171 | [The Surge](games/t/the_surge.md) | 0.35% |
 | 171 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.35% |
 | 175 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.34% |
-| 176 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.33% |
 | 176 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.33% |
+| 177 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.32% |
 | 178 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 178 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
 | 178 | [The First Tree](games/t/the_first_tree.md) | 0.31% |

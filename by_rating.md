@@ -226,7 +226,7 @@
 | 219 | [House Flipper](games/h/house_flipper.md) | 4.69 | 310 | 235 |
 | 219 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.69 | 0 | 516 |
 | 219 | [King of Retail](games/k/king_of_retail.md) | 4.69 | 0 | 516 |
-| 219 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,184 | 136 |
+| 219 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,185 | 136 |
 | 219 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 516 |
 | 219 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 0 | 516 |
 | 219 | [Revita](games/r/revita.md) | 4.69 | 0 | 516 |
@@ -250,7 +250,7 @@
 | 241 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,895 | 58 |
 | 241 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 3,816 | 82 |
 | 241 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 304,692 | 3 |
-| 241 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 219,871 | 4 |
+| 241 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 220,395 | 4 |
 | 241 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 516 |
 | 241 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 562 | 190 |
 | 241 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 684 | 169 |
@@ -434,7 +434,7 @@
 | 430 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 164 | 291 |
 | 430 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 0 | 516 |
 | 430 | [Deceive Inc.](games/d/deceive_inc..md) | 4.58 | 0 | 516 |
-| 430 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 8,969 | 39 |
+| 430 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 8,979 | 39 |
 | 430 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 259 | 251 |
 | 430 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.58 | 0 | 516 |
 | 430 | [GRIT](games/g/grit.md) | 4.58 | 0 | 516 |
@@ -464,7 +464,7 @@
 | 454 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.57 | 0 | 516 |
 | 454 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,745 | 44 |
 | 454 | [Observation](games/o/observation.md) | 4.57 | 0 | 516 |
-| 454 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,235 | 93 |
+| 454 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,237 | 93 |
 | 454 | [Risen](games/r/risen.md) | 4.57 | 0 | 516 |
 | 454 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.57 | 0 | 516 |
 | 454 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 3,830 | 81 |
@@ -564,7 +564,7 @@
 | 549 | [UnMetal](games/u/unmetal.md) | 4.51 | 0 | 516 |
 | 549 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 134 | 309 |
 | 549 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.51 | 28 | 469 |
-| 565 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 1,719 | 117 |
+| 565 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 1,720 | 117 |
 | 565 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 413 | 213 |
 | 565 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 108 | 329 |
 | 565 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 218 | 268 |
