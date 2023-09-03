@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -786,9 +786,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 220683,
+  "EOS_Progressed": 220701,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2756,
+  "EOS_NewPlayers": 2748,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9386,6 +9386,11 @@
       "Time": "2023-09-03T09:05:11.5503506+00:00",
       "NumProgressed": 220683,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-03T10:05:28.5239801+00:00",
+      "NumProgressed": 220701,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -9445,7 +9450,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6620
+      "UsersEstimate": 6621
     },
     {
       "ID": "Chapter2",
@@ -9797,7 +9802,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6620
+      "UsersEstimate": 6621
     },
     {
       "ID": "DwarfElf15Support",
@@ -9821,7 +9826,7 @@
       "Name": "%#*!$*!",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1765
+      "UsersEstimate": 1766
     },
     {
       "ID": "DwarfLevel2",
@@ -9845,7 +9850,7 @@
       "Name": "Sowwy!",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 59584
+      "UsersEstimate": 59589
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -9893,7 +9898,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8827
+      "UsersEstimate": 8828
     },
     {
       "ID": "FollowBraztok",
@@ -9901,7 +9906,7 @@
       "Name": "The beards of change",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1765
+      "UsersEstimate": 1766
     },
     {
       "ID": "FollowNarzatok",
@@ -9925,7 +9930,7 @@
       "Name": "Dead for good",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1103
+      "UsersEstimate": 1104
     },
     {
       "ID": "KillGolbargh",
@@ -9949,7 +9954,7 @@
       "Name": "Gargantua",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1103
+      "UsersEstimate": 1104
     },
     {
       "ID": "Orktobearfest",
@@ -10013,7 +10018,7 @@
       "Name": "Lust and Debauchery",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1103
+      "UsersEstimate": 1104
     },
     {
       "ID": "RangerEpic",
@@ -10037,7 +10042,7 @@
       "Name": "Thieves\u0027 Guild Accreditation",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1765
+      "UsersEstimate": 1766
     },
     {
       "ID": "Speedrun",
@@ -10085,7 +10090,7 @@
       "Name": "Material Girl",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1103
+      "UsersEstimate": 1104
     },
     {
       "ID": "WizardResistBurn",
@@ -10100,21 +10105,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 220683,
+      "Progressed": 220701,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 220683,
+      "Progressed": 220701,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-03T07:58:18.9907851+00:00",
-  "LastChanged_Achievements": "2023-09-03T09:05:11.5503497+00:00",
+  "LastChanged_Achievements": "2023-09-03T10:05:28.5239795+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:55.2312629+00:00",
-  "LastUpdate_Ratings": "2023-09-03T08:58:41.3877608+00:00",
-  "LastUpdate_Achievements": "2023-09-03T09:05:11.550679+00:00"
+  "LastUpdate_Ratings": "2023-09-03T09:58:52.4668073+00:00",
+  "LastUpdate_Achievements": "2023-09-03T10:05:28.5242002+00:00"
 }

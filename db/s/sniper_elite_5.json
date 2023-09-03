@@ -2,12 +2,12 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 615,
+  "Ranking_Rating": 614,
   "Ranking_Popularity": 516,
   "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -500,9 +500,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3572,
+  "EOS_Progressed": 3573,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -6435,6 +6435,11 @@
       "Time": "2023-09-03T09:07:43.4792282+00:00",
       "NumProgressed": 3572,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-03T10:08:15.9615552+00:00",
+      "NumProgressed": 3573,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 71,
@@ -6526,7 +6531,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1643
+      "UsersEstimate": 1644
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -6606,7 +6611,7 @@
       "Name": "Precision Is Key",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -6638,7 +6643,7 @@
       "Name": "My Little Friend",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -7013,13 +7018,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3523,
+      "Progressed": 3524,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3572,
+      "Progressed": 3573,
       "Completed": 10
     }
   ],
@@ -7027,8 +7032,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-01T10:01:39.1533108+00:00",
-  "LastChanged_Achievements": "2023-09-03T09:07:43.4792271+00:00",
+  "LastChanged_Achievements": "2023-09-03T10:08:15.9615546+00:00",
   "LastUpdate_AppInfo": "2023-09-02T06:57:18.4314048+00:00",
-  "LastUpdate_Ratings": "2023-09-03T09:01:44.0774882+00:00",
-  "LastUpdate_Achievements": "2023-09-03T09:07:43.4794382+00:00"
+  "LastUpdate_Ratings": "2023-09-03T10:02:13.2611395+00:00",
+  "LastUpdate_Achievements": "2023-09-03T10:08:15.9616869+00:00"
 }

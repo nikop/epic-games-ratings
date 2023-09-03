@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 293,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -388,7 +388,7 @@
   ],
   "EOS_Progressed": 12913,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -8080,9 +8080,9 @@
       "ID": "ACH_26",
       "SetID": "9d4cf4c",
       "Name": "Pocket laboratory",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1420
+      "UsersEstimate": 1550
     },
     {
       "ID": "ACH_27",
@@ -8169,8 +8169,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-08-31T16:58:27.1568768+00:00",
-  "LastChanged_Achievements": "2023-09-03T09:08:12.2299579+00:00",
+  "LastChanged_Achievements": "2023-09-03T10:08:47.8477978+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:15.9544425+00:00",
-  "LastUpdate_Ratings": "2023-09-03T09:00:02.2319147+00:00",
-  "LastUpdate_Achievements": "2023-09-03T09:08:12.2300341+00:00"
+  "LastUpdate_Ratings": "2023-09-03T10:00:23.0788893+00:00",
+  "LastUpdate_Achievements": "2023-09-03T10:08:47.8478991+00:00"
 }

@@ -7,11 +7,11 @@ Rating: 4.54 (Ranked 504)
 | ---- | ---------- | ----- |
 | Hotel California | 1.00% | ~6,723 |
 | Welcome To Hell-A | 1.00% | ~6,723 |
-| Break A Leg | 0.90% | ~6,050 |
-| Git Gutte! | 0.80% | ~5,378 |
-| Coup de Grâce | 0.80% | ~5,378 |
-| Hazardous Materials | 0.80% | ~5,378 |
-| Personal Assistant Personally Assisted | 0.80% | ~5,378 |
+| Break A Leg | 0.90% | ~6,051 |
+| Git Gutte! | 0.80% | ~5,379 |
+| Coup de Grâce | 0.80% | ~5,379 |
+| Hazardous Materials | 0.80% | ~5,379 |
+| Personal Assistant Personally Assisted | 0.80% | ~5,379 |
 | Dr. Reed, I Presume? | 0.70% | ~4,706 |
 | Bookworm | 0.70% | ~4,706 |
 | But Doctor, I am Butcho | 0.70% | ~4,706 |
@@ -26,10 +26,10 @@ Rating: 4.54 (Ranked 504)
 | A Patton Emerges | 0.60% | ~4,034 |
 | I Am the Resurrection | 0.60% | ~4,034 |
 | Our True Nature | 0.60% | ~4,034 |
-| Anger Management | 0.50% | ~3,361 |
-| Perks of the Job | 0.50% | ~3,361 |
-| I Got a Zombie Army and You Can't Harm Me | 0.50% | ~3,361 |
-| Ooh, Shiny! | 0.50% | ~3,361 |
+| Anger Management | 0.50% | ~3,362 |
+| Perks of the Job | 0.50% | ~3,362 |
+| I Got a Zombie Army and You Can't Harm Me | 0.50% | ~3,362 |
+| Ooh, Shiny! | 0.50% | ~3,362 |
 | Making Your Mark | 0.40% | ~2,689 |
 | Humanity Distilled | 0.40% | ~2,689 |
 | Down with the Sickness | 0.40% | ~2,689 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 504)
 | Survival Skills | 0.10% | ~672 |
 | Bucket List | 0.10% | ~672 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 672,275 (Ranked 22)  
+Progressed: 672,314 (Ranked 22)  
 Completed: 2,106 (0.31%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 2,106 (0.31%) (Ranked 178)
 | 2023-08-31 | 670,394 | 2,097 |
 | 2023-09-01 | 671,108 | 2,097 |
 | 2023-09-02 | 672,029 | 2,103 |
-| 2023-09-03 | 672,275 | 2,106 |
+| 2023-09-03 | 672,314 | 2,106 |
 ## Awards
 Max (Great Boss Battles): 5,867  (Ranked 59)  
 Sum: 8,650 (Ranked 95)  

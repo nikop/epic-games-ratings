@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5483,
+  "EOS_Progressed": 5484,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9121,6 +9121,11 @@
       "Time": "2023-09-03T09:07:23.3243724+00:00",
       "NumProgressed": 5483,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-03T10:07:53.1342339+00:00",
+      "NumProgressed": 5484,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -9212,7 +9217,7 @@
       "Name": "Snowy Peak",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "6",
@@ -9236,7 +9241,7 @@
       "Name": "Sunset Ridge",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "9",
@@ -9251,7 +9256,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 5483,
+      "Progressed": 5484,
       "Completed": 0
     }
   ],
@@ -9259,8 +9264,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-09-03T09:07:23.324371+00:00",
+  "LastChanged_Achievements": "2023-09-03T10:07:53.1342334+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:01.1688384+00:00",
-  "LastUpdate_Ratings": "2023-09-03T08:57:52.6915513+00:00",
-  "LastUpdate_Achievements": "2023-09-03T09:07:23.3244876+00:00"
+  "LastUpdate_Ratings": "2023-09-03T09:58:01.8750393+00:00",
+  "LastUpdate_Achievements": "2023-09-03T10:07:53.1343586+00:00"
 }

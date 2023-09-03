@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 498,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 300,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-08-29T16:00:00+00:00",
     "PcReleaseDate": "2023-08-29T16:00:00+00:00",
@@ -83,9 +83,9 @@
       "ID": "feather_cap",
       "SetID": "l4g2eh",
       "Name": "Feather in Your Cap",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "getting_point",
@@ -131,9 +131,9 @@
       "ID": "modern_hero",
       "SetID": "l4g2eh",
       "Name": "Modern Hero",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 80,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "nothing_personal",
@@ -171,9 +171,9 @@
       "ID": "show_respect",
       "SetID": "l4g2eh",
       "Name": "Show Some Respect!",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 70,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "sound_victory",
@@ -210,8 +210,8 @@
   ],
   "FirstSeen": "2023-09-01T23:59:35.8953756+00:00",
   "FirstSeenAchievements": "2023-08-04T19:02:29.8301885+00:00",
-  "LastChanged_Achievements": "2023-09-03T09:07:30.8192429+00:00",
+  "LastChanged_Achievements": "2023-09-03T10:08:01.4230469+00:00",
   "LastUpdate_AppInfo": "2023-09-01T21:56:56.2193219+00:00",
-  "LastUpdate_Ratings": "2023-09-03T09:01:18.1412271+00:00",
-  "LastUpdate_Achievements": "2023-09-03T09:07:30.819264+00:00"
+  "LastUpdate_Ratings": "2023-09-03T10:01:44.1167461+00:00",
+  "LastUpdate_Achievements": "2023-09-03T10:08:01.4230653+00:00"
 }

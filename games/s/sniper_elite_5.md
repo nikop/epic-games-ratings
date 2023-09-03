@@ -1,11 +1,11 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.47 (Ranked 615)  
+Rating: 4.47 (Ranked 614)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 46.00% | ~1,643 |
+| Meeting Resistance | 46.00% | ~1,644 |
 | Confirming Suspicions | 40.00% | ~1,429 |
 | The Kraken Wakes | 36.00% | ~1,286 |
 | It's Starting to Crack | 33.00% | ~1,179 |
@@ -34,8 +34,8 @@ Rating: 4.47 (Ranked 615)
 | Opposing Force | 13.00% | ~464 |
 | Enemy at the Gates | 13.00% | ~464 |
 | Set Europe Ablaze | 12.00% | ~429 |
-| Precision Is Key | 9.00% | ~321 |
-| My Little Friend | 9.00% | ~321 |
+| Precision Is Key | 9.00% | ~322 |
+| My Little Friend | 9.00% | ~322 |
 | Rigged to Blow | 8.00% | ~286 |
 | Herr Today, Gone Tomorrow | 6.00% | ~211 |
 | The Long Game | 5.00% | ~179 |
@@ -77,7 +77,7 @@ Rating: 4.47 (Ranked 615)
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,572 (Ranked 154)  
+Progressed: 3,573 (Ranked 154)  
 Completed: 10 (0.28%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 10 (0.28%) (Ranked 183)
 | 2023-08-31 | 3,557 | 10 |
 | 2023-09-01 | 3,560 | 10 |
 | 2023-09-02 | 3,565 | 10 |
-| 2023-09-03 | 3,572 | 10 |
+| 2023-09-03 | 3,573 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,13 +2,13 @@
   "ID": "2d2e05ea844c42dc80ef341d89542b16",
   "Name": "Railway Empire 2",
   "ProductSlug": "railway-empire-2-46840c",
-  "Ranking_Rating": 615,
+  "Ranking_Rating": 614,
   "Ranking_Popularity": 516,
   "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -200,7 +200,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1866,
+  "EOS_Progressed": 1867,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
@@ -4555,6 +4555,11 @@
       "Time": "2023-09-03T08:04:43.9397352+00:00",
       "NumProgressed": 1866,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-03T10:05:36.8352347+00:00",
+      "NumProgressed": 1867,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -4662,7 +4667,7 @@
       "Name": "Departure",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 1362
+      "UsersEstimate": 1363
     },
     {
       "ID": "A13",
@@ -4678,7 +4683,7 @@
       "Name": "A new Journey",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1381
+      "UsersEstimate": 1382
     },
     {
       "ID": "A15",
@@ -4702,7 +4707,7 @@
       "Name": "Facility Manager",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     },
     {
       "ID": "A18",
@@ -4724,9 +4729,9 @@
       "ID": "A20",
       "SetID": "9b7p7eo",
       "Name": "Country Bumpkin",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1381
+      "UsersEstimate": 1400
     },
     {
       "ID": "A21",
@@ -4790,7 +4795,7 @@
       "Name": "We brake for nobody",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1250
+      "UsersEstimate": 1251
     },
     {
       "ID": "A29",
@@ -4814,7 +4819,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "A32",
@@ -4838,7 +4843,7 @@
       "Name": "Producer",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     },
     {
       "ID": "A35",
@@ -4854,7 +4859,7 @@
       "Name": "Way of Iron",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1306
+      "UsersEstimate": 1307
     },
     {
       "ID": "A37",
@@ -4862,7 +4867,7 @@
       "Name": "All around the World",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 1157
+      "UsersEstimate": 1158
     },
     {
       "ID": "A38",
@@ -4870,7 +4875,7 @@
       "Name": "Poor Devil",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     },
     {
       "ID": "A39",
@@ -4886,7 +4891,7 @@
       "Name": "Mind the Gap",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1194
+      "UsersEstimate": 1195
     },
     {
       "ID": "A41",
@@ -4934,7 +4939,7 @@
       "Name": "Mystery Tour",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1269
+      "UsersEstimate": 1270
     },
     {
       "ID": "A47",
@@ -4942,7 +4947,7 @@
       "Name": "Travel Company",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1213
+      "UsersEstimate": 1214
     },
     {
       "ID": "A48",
@@ -4958,7 +4963,7 @@
       "Name": "Financial Shark",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "A50",
@@ -5005,7 +5010,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 1866,
+      "Progressed": 1867,
       "Completed": 0
     }
   ],
@@ -5013,8 +5018,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-08-31T02:57:24.0720736+00:00",
-  "LastChanged_Achievements": "2023-09-03T09:05:18.862618+00:00",
+  "LastChanged_Achievements": "2023-09-03T10:05:36.8352342+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:35.0102287+00:00",
-  "LastUpdate_Ratings": "2023-09-03T08:58:22.2726498+00:00",
-  "LastUpdate_Achievements": "2023-09-03T09:05:18.8627518+00:00"
+  "LastUpdate_Ratings": "2023-09-03T09:58:32.6534804+00:00",
+  "LastUpdate_Achievements": "2023-09-03T10:05:36.8353128+00:00"
 }

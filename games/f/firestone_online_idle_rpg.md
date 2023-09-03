@@ -72,8 +72,8 @@ Rating: 4.03 (Ranked 937)
 | Enhanced War Machines | 0.80% | ~15 |
 | Tree of Life | 0.80% | ~15 |
 | Enchanting skill x5 | 0.70% | ~13 |
+| Angel Power | 0.60% | ~11 |
 | Beast War Machines | 0.60% | ~11 |
-| Angel Power | 0.50% | ~9 |
 | Pokerface | 0.50% | ~9 |
 | Conqueror | 0.40% | ~8 |
 | Ultimate War Machines | 0.40% | ~8 |

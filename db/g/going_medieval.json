@@ -1264,7 +1264,7 @@
   ],
   "EOS_Progressed": 5631,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -8894,17 +8894,17 @@
       "ID": "SURVIVE_FIRST_RAID",
       "SetID": "5349c2e",
       "Name": "...And Don\u2019t Come Back!",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2252
+      "UsersEstimate": 2309
     },
     {
       "ID": "SURVIVE_FIRST_SUMMER",
       "SetID": "5349c2e",
       "Name": "Heating Up",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1633
+      "UsersEstimate": 1689
     },
     {
       "ID": "SURVIVE_FIRST_WINTER",
@@ -8982,8 +8982,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-09-02T11:01:18.0722676+00:00",
-  "LastChanged_Achievements": "2023-09-03T09:08:13.1438658+00:00",
+  "LastChanged_Achievements": "2023-09-03T10:08:48.9714819+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:16.1031287+00:00",
-  "LastUpdate_Ratings": "2023-09-03T09:00:19.1759427+00:00",
-  "LastUpdate_Achievements": "2023-09-03T09:08:13.143987+00:00"
+  "LastUpdate_Ratings": "2023-09-03T10:00:41.5882502+00:00",
+  "LastUpdate_Achievements": "2023-09-03T10:08:48.9715791+00:00"
 }

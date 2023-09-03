@@ -7,7 +7,7 @@ Number of Ratings: 368  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tattletale | 41.00% | ~6,146 |
-| Man of politics | 35.00% | ~5,246 |
+| Man of politics | 35.00% | ~5,247 |
 | Friends of sorts | 33.00% | ~4,947 |
 | Yet another secret | 33.00% | ~4,947 |
 | Let there be darkness | 32.00% | ~4,797 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~450 |
 | Boy of mystery | 2.00% | ~300 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,990 (Ranked 119)  
+Progressed: 14,991 (Ranked 119)  
 Completed: 110 (0.73%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 110 (0.73%) (Ranked 132)
 | 2023-08-31 | 14,937 | 110 |
 | 2023-09-01 | 14,963 | 110 |
 | 2023-09-02 | 14,982 | 110 |
-| 2023-09-03 | 14,990 | 110 |
+| 2023-09-03 | 14,991 | 110 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 300)  
 Sum: 188 (Ranked 377)  

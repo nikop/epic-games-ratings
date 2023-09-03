@@ -1,25 +1,25 @@
 # Railway Empire 2
 [Store](https://store.epicgames.com/en-US/p/railway-empire-2-46840c)  
 [View Rawdata](../../db/r/railway_empire_2.json)  
-Rating: 4.47 (Ranked 615)  
+Rating: 4.47 (Ranked 614)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A new Journey | 74.00% | ~1,381 |
-| Country Bumpkin | 74.00% | ~1,381 |
-| Departure | 73.00% | ~1,362 |
+| Country Bumpkin | 75.00% | ~1,400 |
+| A new Journey | 74.00% | ~1,382 |
+| Departure | 73.00% | ~1,363 |
 | From X to Y | 72.00% | ~1,344 |
-| Way of Iron | 70.00% | ~1,306 |
-| Mystery Tour | 68.00% | ~1,269 |
-| We brake for nobody | 67.00% | ~1,250 |
+| Way of Iron | 70.00% | ~1,307 |
+| Mystery Tour | 68.00% | ~1,270 |
+| We brake for nobody | 67.00% | ~1,251 |
 | Brainstorm | 66.00% | ~1,232 |
-| Travel Company | 65.00% | ~1,213 |
-| Mind the Gap | 64.00% | ~1,194 |
-| All around the World | 62.00% | ~1,157 |
+| Travel Company | 65.00% | ~1,214 |
+| Mind the Gap | 64.00% | ~1,195 |
+| All around the World | 62.00% | ~1,158 |
 | Right through the middle | 57.00% | ~1,064 |
-| Facility Manager | 53.00% | ~989 |
-| Poor Devil | 53.00% | ~989 |
-| Producer | 50.00% | ~933 |
+| Facility Manager | 53.00% | ~990 |
+| Poor Devil | 53.00% | ~990 |
+| Producer | 50.00% | ~934 |
 | Apprentice | 41.00% | ~765 |
 | Bridge Builder | 41.00% | ~765 |
 | Access granted | 35.00% | ~653 |
@@ -27,13 +27,13 @@ Rating: 4.47 (Ranked 615)
 | Stoker | 33.00% | ~616 |
 | Bull and bear | 33.00% | ~616 |
 | Full Steam ahead | 32.00% | ~597 |
-| Financial Shark | 31.00% | ~578 |
+| Financial Shark | 31.00% | ~579 |
 | All mine | 30.00% | ~560 |
 | Mole | 30.00% | ~560 |
 | Socializer | 29.00% | ~541 |
 | General Manager | 27.00% | ~504 |
 | Country Life | 27.00% | ~504 |
-| Hostile Takeover | 25.00% | ~466 |
+| Hostile Takeover | 25.00% | ~467 |
 | Seven at one stroke | 24.00% | ~448 |
 | Trailblazer | 21.00% | ~392 |
 | Traffic Junction | 21.00% | ~392 |
@@ -61,7 +61,7 @@ Rating: 4.47 (Ranked 615)
 | Together we stand | 0.50% | ~9 |
 | Three Cheers for Progress | 0.40% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,866 (Ranked 177)  
+Progressed: 1,867 (Ranked 177)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-08-31 | 1,857 | 0 |
 | 2023-09-01 | 1,859 | 0 |
 | 2023-09-02 | 1,862 | 0 |
-| 2023-09-03 | 1,866 | 0 |
+| 2023-09-03 | 1,867 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -30,11 +30,11 @@
 | Property Bro | 4.00% | ~6 |
 | Human Resources | 3.00% | ~5 |
 | Training Camp | 3.00% | ~5 |
+| Tear Down the Wall! | 2.00% | ~3 |
 | Economist | 2.00% | ~3 |
 | No News is Good News | 2.00% | ~3 |
 | Winter Soldier | 2.00% | ~3 |
 | Researcher | 2.00% | ~3 |
-| Tear Down the Wall! | 1.00% | ~2 |
 | Crisis Committee | 1.00% | ~2 |
 | Vive le Résistance | 1.00% | ~2 |
 | Snowman | 1.00% | ~2 |

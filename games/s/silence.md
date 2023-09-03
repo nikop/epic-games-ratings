@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fire in the... nevermind | 51.00% | ~56 |
-| Chapter I | 50.00% | ~55 |
+| Chapter I | 50.00% | ~56 |
+| Fire in the... nevermind | 50.00% | ~56 |
 | Haute cuisine | 45.00% | ~50 |
 | I didn't do it! | 40.00% | ~44 |
-| Demolition expert | 35.00% | ~38 |
-| Wooooooow! | 35.00% | ~38 |
-| Artistic fool | 34.00% | ~37 |
-| Keep away from children | 34.00% | ~37 |
-| Open up wide | 33.00% | ~36 |
+| Wooooooow! | 35.00% | ~39 |
+| Demolition expert | 34.00% | ~38 |
+| Keep away from children | 34.00% | ~38 |
+| Artistic fool | 33.00% | ~37 |
+| Open up wide | 32.00% | ~36 |
 | Chapter II | 29.00% | ~32 |
 | Let the boot talk | 28.00% | ~31 |
 | Achoo!! | 27.00% | ~30 |
 | Chapter III | 26.00% | ~29 |
 | Like a moth in the Wind | 26.00% | ~29 |
-| Bubblekillerfamily | 24.00% | ~26 |
-| Quite a buggy game | 23.00% | ~25 |
-| Handyman | 23.00% | ~25 |
-| Mirror mirror on the wall... | 23.00% | ~25 |
+| Quite a buggy game | 23.00% | ~26 |
+| Handyman | 23.00% | ~26 |
+| Bubblekillerfamily | 23.00% | ~26 |
+| Mirror mirror on the wall... | 23.00% | ~26 |
 | Shadow on the wall | 21.00% | ~23 |
 | Pacifist | 21.00% | ~23 |
 | Fastidious Clown | 21.00% | ~23 |
 | It's not easy being green! | 20.00% | ~22 |
 | Home is where the heart is | 20.00% | ~22 |
-| Master of Thermodynamics | 15.00% | ~16 |
-| Death is a part of life | 15.00% | ~16 |
-| Unfullfilled dreams | 14.00% | ~15 |
+| Master of Thermodynamics | 15.00% | ~17 |
+| Death is a part of life | 15.00% | ~17 |
+| Unfullfilled dreams | 14.00% | ~16 |
 | To err is human... | 12.00% | ~13 |
 | Nothing can stop me | 11.00% | ~12 |
 | Mumbo Jumbo | 11.00% | ~12 |
@@ -51,7 +51,7 @@
 | Done. First! | 0.90% | ~1 |
 | Do not feed the fish! | 0.90% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 110 (Ranked 334)  
+Progressed: 111 (Ranked 333)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,6 +73,7 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-08-16 | 108 | 0 |
 | 2023-08-20 | 109 | 0 |
 | 2023-08-22 | 110 | 0 |
+| 2023-09-03 | 111 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

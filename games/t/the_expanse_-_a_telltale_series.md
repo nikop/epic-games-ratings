@@ -13,7 +13,7 @@ Rating: 4.68 (Ranked 241)
 | Doctor Approved | 18.00% | ~1,785 |
 | Celebrations are in Order | 18.00% | ~1,785 |
 | Thorston Mayer | 11.00% | ~1,091 |
-| Bottoms up! | 9.00% | ~892 |
+| Bottoms up! | 9.00% | ~893 |
 | Data Logger | 5.00% | ~496 |
 | Data Master | 4.00% | ~397 |
 | Data Recoverer | 4.00% | ~397 |
@@ -36,7 +36,7 @@ Rating: 4.68 (Ranked 241)
 | Scavenger Star | 0.00% | ~0 |
 | Data Collector | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,916 (Ranked 126)  
+Progressed: 9,917 (Ranked 126)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-08-31 | 9,724 | 0 |
 | 2023-09-01 | 9,803 | 0 |
 | 2023-09-02 | 9,890 | 0 |
-| 2023-09-03 | 9,916 | 0 |
+| 2023-09-03 | 9,917 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

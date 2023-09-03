@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 373,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
     "PcReleaseDate": "2017-10-12T00:00:00+00:00",
@@ -384,9 +384,9 @@
       "ID": "ACHIEVEMENT_10",
       "SetID": "b36c5kb",
       "Name": "Another Ally",
-      "Percentage": 28,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -408,9 +408,9 @@
       "ID": "ACHIEVEMENT_13",
       "SetID": "b36c5kb",
       "Name": "Fire Walk With Me",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -727,8 +727,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-09-03T09:08:00.6095733+00:00",
+  "LastChanged_Achievements": "2023-09-03T10:08:35.0471843+00:00",
   "LastUpdate_AppInfo": "2023-08-30T18:57:06.6900715+00:00",
-  "LastUpdate_Ratings": "2023-09-03T09:01:21.8571866+00:00",
-  "LastUpdate_Achievements": "2023-09-03T09:08:00.6096631+00:00"
+  "LastUpdate_Ratings": "2023-09-03T10:01:47.9865169+00:00",
+  "LastUpdate_Achievements": "2023-09-03T10:08:35.0472353+00:00"
 }

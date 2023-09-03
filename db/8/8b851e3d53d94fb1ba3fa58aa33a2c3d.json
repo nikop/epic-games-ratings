@@ -2,10 +2,10 @@
   "ID": "8b851e3d53d94fb1ba3fa58aa33a2c3d",
   "Name": "Palladium: Adventure in Greece",
   "ProductSlug": "palladium-adventure-in-greece-f1ee1b",
-  "Ranking_EOS_Progress": 409,
-  "Ranking_EOS_Completed": 77,
-  "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_Progress": 406,
+  "Ranking_EOS_Completed": 80,
+  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-07-20T15:00:00+00:00",
     "PcReleaseDate": "2021-06-04T19:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 36,
+  "EOS_Progressed": 37,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.78,
+  "EOS_Completed_Percentage": 2.7,
   "EosHistory": [
     {
       "Time": "2023-07-18T11:03:12.9192606+00:00",
@@ -206,6 +206,11 @@
       "Time": "2023-09-02T05:07:04.9979929+00:00",
       "NumProgressed": 36,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-03T10:07:46.4916875+00:00",
+      "NumProgressed": 37,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-07-14T20:01:12.8113067+00:00",
@@ -224,7 +229,7 @@
       "ID": "ANCIENT_ARTIFACT",
       "SetID": "e4de54",
       "Name": "Ancient artifact",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -232,7 +237,7 @@
       "ID": "ANCIENT_TREASURE",
       "SetID": "e4de54",
       "Name": "Ancient treasure",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -256,7 +261,7 @@
       "ID": "APATE",
       "SetID": "e4de54",
       "Name": "Apate",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
       "UsersEstimate": 18
     },
@@ -280,7 +285,7 @@
       "ID": "ARES",
       "SetID": "e4de54",
       "Name": "Ares",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -296,7 +301,7 @@
       "ID": "ATTENTIVENESS",
       "SetID": "e4de54",
       "Name": "Attentiveness",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -312,7 +317,7 @@
       "ID": "BAD_MUSICIAN",
       "SetID": "e4de54",
       "Name": "Bad musician",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -336,7 +341,7 @@
       "ID": "CAREFULNESS",
       "SetID": "e4de54",
       "Name": "Carefulness",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 5,
       "UsersEstimate": 21
     },
@@ -344,7 +349,7 @@
       "ID": "COBWEB",
       "SetID": "e4de54",
       "Name": "Cobweb",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 5,
       "UsersEstimate": 18
     },
@@ -360,7 +365,7 @@
       "ID": "ERIS",
       "SetID": "e4de54",
       "Name": "Eris",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -368,7 +373,7 @@
       "ID": "FEEBLE_MINDEDNESS_AND_COURAGE",
       "SetID": "e4de54",
       "Name": "Feeble-mindedness and courage",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -416,7 +421,7 @@
       "ID": "HERMES",
       "SetID": "e4de54",
       "Name": "Hermes",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 5,
       "UsersEstimate": 13
     },
@@ -424,7 +429,7 @@
       "ID": "KNOWLEDGE_IS_POWER",
       "SetID": "e4de54",
       "Name": "Knowledge is power",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -442,7 +447,7 @@
       "Name": "Main menu",
       "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "MEDUSA_GAZE",
@@ -496,7 +501,7 @@
       "ID": "RED_HERRING",
       "SetID": "e4de54",
       "Name": "Red herring",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -545,14 +550,14 @@
     {
       "ID": "e4de54",
       "IsBase": true,
-      "Progressed": 36,
+      "Progressed": 37,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-07-24T20:59:19.8931718+00:00",
   "FirstSeenAchievements": "2023-07-14T20:01:12.8113065+00:00",
-  "LastChanged_Achievements": "2023-09-03T09:07:17.5497402+00:00",
+  "LastChanged_Achievements": "2023-09-03T10:07:46.491687+00:00",
   "LastUpdate_AppInfo": "2023-09-02T02:08:26.7883443+00:00",
-  "LastUpdate_Ratings": "2023-09-03T09:01:39.0036196+00:00",
-  "LastUpdate_Achievements": "2023-09-03T09:07:17.5497888+00:00"
+  "LastUpdate_Ratings": "2023-09-03T10:02:07.5816253+00:00",
+  "LastUpdate_Achievements": "2023-09-03T10:07:46.4917235+00:00"
 }

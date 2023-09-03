@@ -2,10 +2,10 @@
   "ID": "28885ec3cd4d49808b65636c95ee28c1",
   "Name": "Silence",
   "ProductSlug": "silence-57bc4e",
-  "Ranking_EOS_Progress": 334,
+  "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 347,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-11-15T17:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 110,
+  "EOS_Progressed": 111,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -142,6 +142,11 @@
       "Time": "2023-08-22T20:06:34.3922547+00:00",
       "NumProgressed": 110,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-03T10:05:18.0574373+00:00",
+      "NumProgressed": 111,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 46,
@@ -159,7 +164,7 @@
       "ID": "0000_achv_failbalance",
       "SetID": "dhn82m5",
       "Name": "Artistic fool",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 40,
       "UsersEstimate": 37
     },
@@ -177,7 +182,7 @@
       "Name": "Quite a buggy game",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "0000_achv_gameovertwice",
@@ -279,7 +284,7 @@
       "ID": "1004_achv_wormtooth",
       "SetID": "dhn82m5",
       "Name": "Open up wide",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
       "UsersEstimate": 36
     },
@@ -289,13 +294,13 @@
       "Name": "Chapter I",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "1006_achv_demoliton",
       "SetID": "dhn82m5",
       "Name": "Demolition expert",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
       "UsersEstimate": 38
     },
@@ -303,7 +308,7 @@
       "ID": "1006_achv_dropball",
       "SetID": "dhn82m5",
       "Name": "Fire in the... nevermind",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 20,
       "UsersEstimate": 56
     },
@@ -313,7 +318,7 @@
       "Name": "Handyman",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "1006_achv_pacifist",
@@ -329,7 +334,7 @@
       "Name": "Keep away from children",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "2002_achv_burnswamp",
@@ -361,7 +366,7 @@
       "Name": "Wooooooow!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "2004_achv_hitkyra",
@@ -383,7 +388,7 @@
       "ID": "2008_achv_bubble",
       "SetID": "dhn82m5",
       "Name": "Bubblekillerfamily",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
       "UsersEstimate": 26
     },
@@ -393,7 +398,7 @@
       "Name": "Master of Thermodynamics",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "2009_achv_deathwheel",
@@ -401,7 +406,7 @@
       "Name": "Death is a part of life",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "2009_achv_dreamwheel",
@@ -457,7 +462,7 @@
       "Name": "Unfullfilled dreams",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "3011_achv_magicbox",
@@ -513,14 +518,14 @@
       "Name": "Mirror mirror on the wall...",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     }
   ],
   "AchievementSets": [
     {
       "ID": "dhn82m5",
       "IsBase": true,
-      "Progressed": 110,
+      "Progressed": 111,
       "Completed": 0
     }
   ],
@@ -528,8 +533,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-09-03T09:05:02.0072993+00:00",
+  "LastChanged_Achievements": "2023-09-03T10:05:18.0574366+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:22.5153929+00:00",
-  "LastUpdate_Ratings": "2023-09-03T09:00:17.834997+00:00",
-  "LastUpdate_Achievements": "2023-09-03T09:05:02.0073712+00:00"
+  "LastUpdate_Ratings": "2023-09-03T10:00:39.8506227+00:00",
+  "LastUpdate_Achievements": "2023-09-03T10:05:18.057479+00:00"
 }

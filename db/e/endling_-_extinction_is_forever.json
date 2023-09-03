@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 140,
   "Ranking_EOS_NewPlayers": 269,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -831,9 +831,9 @@
       "ID": "TROP022",
       "SetID": "9n0dl35",
       "Name": "A Barking Fox Doesn\u0027t Bite",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 107
     },
     {
       "ID": "TROP023",
@@ -888,8 +888,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-09-03T09:03:28.6792428+00:00",
+  "LastChanged_Achievements": "2023-09-03T10:03:24.9300686+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:31.167993+00:00",
-  "LastUpdate_Ratings": "2023-09-03T08:59:17.2160219+00:00",
-  "LastUpdate_Achievements": "2023-09-03T09:03:28.6792842+00:00"
+  "LastUpdate_Ratings": "2023-09-03T09:59:31.3206104+00:00",
+  "LastUpdate_Achievements": "2023-09-03T10:03:24.9300951+00:00"
 }

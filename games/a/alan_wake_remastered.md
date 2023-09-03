@@ -1,14 +1,14 @@
 # Alan Wake Remastered
 [Store](https://store.epicgames.com/en-US/p/alan-wake-remastered)  
 [View Rawdata](../../db/a/alan_wake_remastered.json)  
-Rating: 4.55 (Ranked 492)  
+Rating: 4.55 (Ranked 491)  
 Number of Ratings: 524  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 38.00% | ~23,645 |
-| Let There Be Light | 31.00% | ~19,289 |
-| Float Like a Butterfly | 30.00% | ~18,667 |
+| Follow the Light | 38.00% | ~23,646 |
+| Let There Be Light | 31.00% | ~19,290 |
+| Float Like a Butterfly | 30.00% | ~18,668 |
 | Nordic Walking | 24.00% | ~14,934 |
 | Bright Falls' Finest | 24.00% | ~14,934 |
 | Under a Thin Layer of Skin | 21.00% | ~13,067 |
@@ -16,11 +16,11 @@ Number of Ratings: 524  (23.09.2022)
 | Paging Mr. Wake | 17.00% | ~10,578 |
 | Back! Back, I Say! | 16.00% | ~9,956 |
 | Finders Keepers | 16.00% | ~9,956 |
-| Sound and Fury | 15.00% | ~9,333 |
-| Damn Good Cup of Coffee | 15.00% | ~9,333 |
-| Wheels Within Wheels | 14.00% | ~8,711 |
-| They're Heeeeeere! | 14.00% | ~8,711 |
-| Missed by a Mile | 14.00% | ~8,711 |
+| Sound and Fury | 15.00% | ~9,334 |
+| Damn Good Cup of Coffee | 15.00% | ~9,334 |
+| Wheels Within Wheels | 14.00% | ~8,712 |
+| They're Heeeeeere! | 14.00% | ~8,712 |
+| Missed by a Mile | 14.00% | ~8,712 |
 | Iron Horse | 13.00% | ~8,089 |
 | The Six-Gun Scribe | 13.00% | ~8,089 |
 | Collateral Carnage | 13.00% | ~8,089 |
@@ -38,9 +38,9 @@ Number of Ratings: 524  (23.09.2022)
 | Tornado Wrangler | 8.00% | ~4,978 |
 | A Friend in Need | 8.00% | ~2,055 |
 | Departure | 7.00% | ~4,356 |
-| Drink 'Em Both Up | 6.00% | ~3,733 |
-| Hardboiled Writer | 6.00% | ~3,733 |
-| A Friend Indeed | 6.00% | ~1,541 |
+| Drink 'Em Both Up | 6.00% | ~3,734 |
+| Hardboiled Writer | 6.00% | ~3,734 |
+| A Friend Indeed | 6.00% | ~1,542 |
 | Children of the Elder God | 5.00% | ~3,111 |
 | Ding! | 5.00% | ~1,285 |
 | Boob Tube | 4.00% | ~2,489 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~62 |
 | No Punctuation | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,223 (Ranked 87)  
+Progressed: 62,225 (Ranked 87)  
 Completed: 65 (0.10%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 65 (0.10%) (Ranked 218)
 | 2023-08-31 | 62,064 | 65 |
 | 2023-09-01 | 62,124 | 65 |
 | 2023-09-02 | 62,195 | 65 |
-| 2023-09-03 | 62,223 | 65 |
+| 2023-09-03 | 62,225 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

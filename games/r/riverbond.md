@@ -1,33 +1,33 @@
 # Riverbond
 [Store](https://store.epicgames.com/en-US/p/riverbond-782aa4)  
 [View Rawdata](../../db/r/riverbond.json)  
-Rating: 4.47 (Ranked 615)  
+Rating: 4.47 (Ranked 614)  
 Number of Ratings: 617  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~368,610 |
-| Now You're Talking | 62.00% | ~326,483 |
-| Steel Yourself | 62.00% | ~326,483 |
-| Window Dressing | 50.00% | ~263,292 |
-| Trigger Happy | 46.00% | ~242,229 |
-| Riverborn | 45.00% | ~236,963 |
-| Starry Eyed | 34.00% | ~179,039 |
-| Poking Around | 34.00% | ~179,039 |
-| Talk of the Town | 24.00% | ~126,380 |
+| First Step | 70.00% | ~368,612 |
+| Now You're Talking | 62.00% | ~326,485 |
+| Steel Yourself | 62.00% | ~326,485 |
+| Window Dressing | 50.00% | ~263,294 |
+| Trigger Happy | 46.00% | ~242,230 |
+| Riverborn | 45.00% | ~236,965 |
+| Starry Eyed | 34.00% | ~179,040 |
+| Poking Around | 34.00% | ~179,040 |
+| Talk of the Town | 24.00% | ~126,381 |
 | AAARR! | 23.00% | ~121,115 |
 | Hello Darkness | 23.00% | ~121,115 |
 | Wind At Our Backs | 22.00% | ~115,849 |
-| To the Beat | 20.00% | ~105,317 |
-| Sunny Shores | 17.00% | ~89,519 |
+| To the Beat | 20.00% | ~105,318 |
+| Sunny Shores | 17.00% | ~89,520 |
 | Sunday Best | 16.00% | ~84,254 |
 | To Victory! | 15.00% | ~78,988 |
 | Two of a Kind | 14.00% | ~73,722 |
 | Keep On Trucking | 13.00% | ~68,456 |
-| Going on an Adventure | 11.00% | ~57,924 |
-| Make Peace, Not War | 11.00% | ~57,924 |
-| Walking The Line | 10.00% | ~52,658 |
-| Not So Cute Anymore | 10.00% | ~52,658 |
+| Going on an Adventure | 11.00% | ~57,925 |
+| Make Peace, Not War | 11.00% | ~57,925 |
+| Walking The Line | 10.00% | ~52,659 |
+| Not So Cute Anymore | 10.00% | ~52,659 |
 | Road Less Travelled | 9.00% | ~47,393 |
 | Lost and Found | 9.00% | ~47,393 |
 | Under the Radar | 8.00% | ~42,127 |
@@ -42,12 +42,12 @@ Number of Ratings: 617  (23.09.2022)
 | Noble Intentions | 5.00% | ~26,329 |
 | Rising Star | 5.00% | ~26,329 |
 | Slime Slayer | 5.00% | ~26,329 |
-| Privacy, Please! | 4.00% | ~21,063 |
-| Silky Smooth | 4.00% | ~21,063 |
-| Hash It Over | 4.00% | ~21,063 |
-| Biting Tongue | 4.00% | ~21,063 |
-| What a Catch! | 4.00% | ~21,063 |
-| Hit the Spot | 4.00% | ~21,063 |
+| Privacy, Please! | 4.00% | ~21,064 |
+| Silky Smooth | 4.00% | ~21,064 |
+| Hash It Over | 4.00% | ~21,064 |
+| Biting Tongue | 4.00% | ~21,064 |
+| What a Catch! | 4.00% | ~21,064 |
+| Hit the Spot | 4.00% | ~21,064 |
 | Talk the Talk | 3.00% | ~15,798 |
 | Skin in the Game | 3.00% | ~15,798 |
 | Caving In | 3.00% | ~15,798 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,580 |
 | Point Taken | 0.10% | ~527 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 526,585 (Ranked 33)  
+Progressed: 526,588 (Ranked 33)  
 Completed: 468 (0.09%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 468 (0.09%) (Ranked 222)
 | 2023-08-31 | 526,363 | 467 |
 | 2023-09-01 | 526,449 | 467 |
 | 2023-09-02 | 526,553 | 468 |
-| 2023-09-03 | 526,585 | 468 |
+| 2023-09-03 | 526,588 | 468 |
 ## Awards
 Max (Relaxing): 20  (Ranked 510)  
 Sum: 20 (Ranked 511)  
