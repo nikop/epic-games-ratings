@@ -5,50 +5,50 @@ Rating: 4.40 (Ranked 711)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zero Saints Thirty | 64.00% | ~165,502 |
-| Destroyer-In-Chief | 58.00% | ~149,986 |
-| There Is No Pancakes | 54.00% | ~139,642 |
-| First of Many | 42.00% | ~108,611 |
-| Woah. | 37.00% | ~95,681 |
-| Don't Look Down | 30.00% | ~77,579 |
-| Don't Panic | 28.00% | ~72,407 |
-| Ooo A Piece of Candy! | 23.00% | ~59,477 |
-| Ghost in the Machine | 18.00% | ~46,547 |
-| All Too Easy | 15.00% | ~38,790 |
-| Didn't Need to See Him Naked | 14.00% | ~36,204 |
-| Indomitable | 10.00% | ~25,860 |
-| Blast from the Past | 9.00% | ~23,274 |
-| Bow to the Boss! | 9.00% | ~23,274 |
-| Friend of the Raptors | 9.00% | ~23,274 |
-| About Time! | 8.00% | ~20,688 |
-| Actor-Turned-Politician | 7.00% | ~18,102 |
-| Betrayed | 7.00% | ~18,102 |
-| Maximum Stopping Power | 7.00% | ~18,102 |
-| Poodle Skirt | 7.00% | ~18,102 |
-| You Chose... Poorly | 7.00% | ~18,102 |
-| Double Team | 6.00% | ~15,516 |
-| Keymaster | 6.00% | ~15,516 |
-| *BEEP* YOU, CLAWZ! | 5.00% | ~12,930 |
-| Imperator | 5.00% | ~12,930 |
-| ...A Saint Gets a Gun | 4.00% | ~10,344 |
-| Half Way Home | 4.00% | ~10,344 |
-| How It Should Be | 4.00% | ~10,344 |
-| Machine Man | 4.00% | ~10,344 |
-| The Full Kinzie | 4.00% | ~10,344 |
-| And I Ran... | 3.00% | ~7,758 |
-| Chill Out | 3.00% | ~7,758 |
-| Elementary | 3.00% | ~7,758 |
-| On Her Saint's Secret Service | 3.00% | ~7,758 |
-| Paranormal Bromance | 3.00% | ~7,758 |
-| Saints & Sensibility | 3.00% | ~7,758 |
-| The Two Shaundis | 3.00% | ~7,758 |
-| Benjamin [CENSORED] King | 2.00% | ~5,172 |
-| Better This Way | 2.00% | ~5,172 |
-| Bouncin' with an Old Friend | 2.00% | ~5,172 |
-| Our Gift to You | 2.00% | ~5,172 |
-| The Face of the Saints | 2.00% | ~5,172 |
-| The Twin Saints | 2.00% | ~5,172 |
-| Where's My Cape? | 2.00% | ~5,172 |
+| Zero Saints Thirty | 64.00% | ~165,523 |
+| Destroyer-In-Chief | 58.00% | ~150,005 |
+| There Is No Pancakes | 54.00% | ~139,660 |
+| First of Many | 42.00% | ~108,624 |
+| Woah. | 37.00% | ~95,693 |
+| Don't Look Down | 30.00% | ~77,589 |
+| Don't Panic | 28.00% | ~72,416 |
+| Ooo A Piece of Candy! | 23.00% | ~59,485 |
+| Ghost in the Machine | 18.00% | ~46,553 |
+| All Too Easy | 15.00% | ~38,794 |
+| Didn't Need to See Him Naked | 14.00% | ~36,208 |
+| Indomitable | 10.00% | ~25,863 |
+| Blast from the Past | 9.00% | ~23,277 |
+| Bow to the Boss! | 9.00% | ~23,277 |
+| Friend of the Raptors | 9.00% | ~23,277 |
+| About Time! | 8.00% | ~20,690 |
+| Actor-Turned-Politician | 7.00% | ~18,104 |
+| Betrayed | 7.00% | ~18,104 |
+| Maximum Stopping Power | 7.00% | ~18,104 |
+| Poodle Skirt | 7.00% | ~18,104 |
+| You Chose... Poorly | 7.00% | ~18,104 |
+| Double Team | 6.00% | ~15,518 |
+| Keymaster | 6.00% | ~15,518 |
+| *BEEP* YOU, CLAWZ! | 5.00% | ~12,931 |
+| Imperator | 5.00% | ~12,931 |
+| ...A Saint Gets a Gun | 4.00% | ~10,345 |
+| Half Way Home | 4.00% | ~10,345 |
+| How It Should Be | 4.00% | ~10,345 |
+| Machine Man | 4.00% | ~10,345 |
+| The Full Kinzie | 4.00% | ~10,345 |
+| And I Ran... | 3.00% | ~7,759 |
+| Chill Out | 3.00% | ~7,759 |
+| Elementary | 3.00% | ~7,759 |
+| On Her Saint's Secret Service | 3.00% | ~7,759 |
+| Paranormal Bromance | 3.00% | ~7,759 |
+| Saints & Sensibility | 3.00% | ~7,759 |
+| The Two Shaundis | 3.00% | ~7,759 |
+| Benjamin [CENSORED] King | 2.00% | ~5,173 |
+| Better This Way | 2.00% | ~5,173 |
+| Bouncin' with an Old Friend | 2.00% | ~5,173 |
+| Our Gift to You | 2.00% | ~5,173 |
+| The Face of the Saints | 2.00% | ~5,173 |
+| The Twin Saints | 2.00% | ~5,173 |
+| Where's My Cape? | 2.00% | ~5,173 |
 | A Real Cluster.... | 1.00% | ~2,586 |
 | A Very Genki Holiday | 1.00% | ~2,586 |
 | Here! Catch! | 1.00% | ~2,586 |
@@ -56,13 +56,13 @@ Rating: 4.40 (Ranked 711)
 | Switch Hitter | 1.00% | ~2,586 |
 | The Whole Story | 1.00% | ~2,586 |
 | Zoo Keeper | 1.00% | ~2,586 |
-| Make a List, Check it Twice | 0.90% | ~2,327 |
+| Make a List, Check it Twice | 0.90% | ~2,328 |
 | Back in the Day | 0.70% | ~1,810 |
 | Dear Santa | 0.70% | ~1,810 |
 | Rigging the Race | 0.70% | ~1,810 |
 | Health Inspector | 0.50% | ~1,293 |
-| Bringin' the Heat | 0.40% | ~1,034 |
-| Walking the Dinosaur | 0.40% | ~1,034 |
+| Bringin' the Heat | 0.40% | ~1,035 |
+| Walking the Dinosaur | 0.40% | ~1,035 |
 | Experimental Tech | 0.30% | ~776 |
 | Fist Meet Ground | 0.30% | ~776 |
 | Fourth and Forty | 0.30% | ~776 |
@@ -78,7 +78,7 @@ Rating: 4.40 (Ranked 711)
 | Super Power Team Up! | 0.10% | ~259 |
 | Ultimate Hot Potato | 0.10% | ~259 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 258,597 (Ranked 46)  
+Progressed: 258,629 (Ranked 46)  
 Completed: 15 (0.01%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 15 (0.01%) (Ranked 257)
 | 2023-08-31 | 256,635 | 15 |
 | 2023-09-01 | 257,384 | 15 |
 | 2023-09-02 | 258,279 | 15 |
-| 2023-09-03 | 258,597 | 15 |
+| 2023-09-03 | 258,629 | 15 |
 ## Awards
 Max (Great Boss Battles): 451  (Ranked 206)  
 Sum: 451 (Ranked 312)  

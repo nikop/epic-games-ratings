@@ -6,10 +6,10 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 27.00% | ~59,589 |
-| Alt+F4 | 4.00% | ~8,828 |
-| Déjà vu | 3.00% | ~6,621 |
-| Where's that freaking Dwarf? | 3.00% | ~6,621 |
+| Sowwy! | 27.00% | ~59,595 |
+| Alt+F4 | 4.00% | ~8,829 |
+| Déjà vu | 3.00% | ~6,622 |
+| Where's that freaking Dwarf? | 3.00% | ~6,622 |
 | A beer, two curses, three companions | 2.00% | ~4,414 |
 | Sock! SOCK! | 2.00% | ~4,414 |
 | GG EZ | 2.00% | ~4,414 |
@@ -26,12 +26,12 @@ Number of Ratings: 118  (23.09.2022)
 | The Woman in the High Castle | 1.00% | ~2,207 |
 | Team Building Exercise | 1.00% | ~2,207 |
 | Oh, when I'll be level 10... | 1.00% | ~2,207 |
-| Shiny and Crôm | 0.90% | ~1,986 |
-| The Dungeon Master | 0.90% | ~1,986 |
-| The Statuette of Gladeulfeurah | 0.90% | ~1,986 |
-| A tale of adventurers not quite like the others... | 0.90% | ~1,986 |
-| The Ranger of Chaos | 0.90% | ~1,986 |
-| I am the night | 0.90% | ~1,986 |
+| Shiny and Crôm | 0.90% | ~1,987 |
+| The Dungeon Master | 0.90% | ~1,987 |
+| The Statuette of Gladeulfeurah | 0.90% | ~1,987 |
+| A tale of adventurers not quite like the others... | 0.90% | ~1,987 |
+| The Ranger of Chaos | 0.90% | ~1,987 |
+| I am the night | 0.90% | ~1,987 |
 | %#*!$*! | 0.80% | ~1,766 |
 | The beards of change | 0.80% | ~1,766 |
 | Thieves' Guild Accreditation | 0.80% | ~1,766 |
@@ -45,11 +45,11 @@ Number of Ratings: 118  (23.09.2022)
 | Lust and Debauchery | 0.50% | ~1,104 |
 | Material Girl | 0.50% | ~1,104 |
 | In Navalu's footsteps | 0.40% | ~883 |
+| Lëgal Legend | 0.40% | ~883 |
 | Holistic Adventuring Party | 0.30% | ~662 |
 | An old poacher makes the best gamekeeper | 0.30% | ~662 |
 | We come in peace | 0.30% | ~662 |
 | Law and Order | 0.30% | ~662 |
-| Lëgal Legend | 0.30% | ~662 |
 | Scholar of the Lands of Fangh | 0.20% | ~441 |
 | Friendly fire | 0.20% | ~441 |
 | I'd rather... Just... Sing! | 0.20% | ~441 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~221 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,701 (Ranked 57)  
+Progressed: 220,723 (Ranked 57)  
 Completed: 2 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 2 (0.00%) (Ranked 271)
 | 2023-08-31 | 219,794 | 2 |
 | 2023-09-01 | 220,165 | 2 |
 | 2023-09-02 | 220,547 | 2 |
-| 2023-09-03 | 220,701 | 2 |
+| 2023-09-03 | 220,723 | 2 |
 ## Awards
 Max (Character Customization): 189  (Ranked 278)  
 Sum: 259 (Ranked 353)  

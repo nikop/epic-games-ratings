@@ -17,9 +17,9 @@
 | Your own amateur gym | 74.00% | ~228 |
 | First defeat | 73.00% | ~225 |
 | Run K, run! | 72.00% | ~222 |
+| Hello, world! | 69.00% | ~213 |
 | Fighting is cool | 68.00% | ~209 |
-| Hello, world! | 68.00% | ~209 |
-| No bullying more | 67.00% | ~206 |
+| No bullying more | 68.00% | ~209 |
 | Pal of your father? | 65.00% | ~200 |
 | Employee of the month | 65.00% | ~200 |
 | Spirit of the past | 63.00% | ~194 |
@@ -55,20 +55,20 @@
 | Gang wrangler | 34.00% | ~105 |
 | Undercover robot | 34.00% | ~105 |
 | Problems of cyborgs | 33.00% | ~102 |
+| Not little hacker | 32.00% | ~99 |
 | Absolute Champion! | 32.00% | ~99 |
 | Careerist | 32.00% | ~99 |
 | Anyone can resist | 32.00% | ~99 |
 | Trap disarmed | 31.00% | ~95 |
 | Keep nature safe | 31.00% | ~95 |
-| Not little hacker | 31.00% | ~95 |
+| Family comes first | 31.00% | ~95 |
 | Another world | 30.00% | ~92 |
 | The lonesome road | 30.00% | ~92 |
-| Family comes first | 30.00% | ~92 |
 | Key memories | 30.00% | ~92 |
 | The last bell ring | 30.00% | ~92 |
 | The heart of the Resistance | 30.00% | ~92 |
+| Better cooking at home | 28.00% | ~86 |
 | Silver’s past | 27.00% | ~83 |
-| Better cooking at home | 27.00% | ~83 |
 | The only right decision | 27.00% | ~83 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 308 (Ranked 274)  

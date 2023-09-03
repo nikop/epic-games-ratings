@@ -35,6 +35,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ascended | 0.50% | ~678 |
 | Research & Development | 0.50% | ~678 |
 | Vanity, Verily | 0.50% | ~678 |
+| Fated Encounters | 0.50% | ~678 |
 | Blank Page Syndrome | 0.50% | ~678 |
 | Power of Love | 0.50% | ~678 |
 | Efficient Floor Space | 0.50% | ~678 |
@@ -47,7 +48,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Tax not Included | 0.40% | ~542 |
 | The King's Caprice | 0.40% | ~542 |
 | Big Game Hunting | 0.40% | ~542 |
-| Fated Encounters | 0.40% | ~542 |
 | For the Hoard! | 0.40% | ~542 |
 | Scrapbooker | 0.40% | ~542 |
 | Locally Sourced | 0.40% | ~542 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,576 (Ranked 67)  
+Progressed: 135,579 (Ranked 67)  
 Completed: 141 (0.10%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 141 (0.10%) (Ranked 218)
 | 2023-08-31 | 135,446 | 140 |
 | 2023-09-01 | 135,508 | 140 |
 | 2023-09-02 | 135,551 | 140 |
-| 2023-09-03 | 135,576 | 141 |
+| 2023-09-03 | 135,579 | 141 |
 ## Awards
 Max (Great for Beginners): 4,719  (Ranked 70)  
 Sum: 27,167 (Ranked 46)  

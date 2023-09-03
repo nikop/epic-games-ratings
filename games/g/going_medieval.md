@@ -16,8 +16,8 @@ Number of Ratings: 706  (23.09.2022)
 | Putting Food on the Table | 56.00% | ~3,153 |
 | Onward | 56.00% | ~3,153 |
 | The First Week | 54.00% | ~3,041 |
+| Beam Me Up | 51.00% | ~2,872 |
 | Studious Researcher | 51.00% | ~2,872 |
-| Beam Me Up | 50.00% | ~2,816 |
 | Feast or Famine | 47.00% | ~2,647 |
 | Adept Researcher | 44.00% | ~2,478 |
 | Retribution | 41.00% | ~2,309 |

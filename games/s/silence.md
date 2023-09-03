@@ -7,14 +7,14 @@
 | Chapter I | 50.00% | ~56 |
 | Fire in the... nevermind | 50.00% | ~56 |
 | Haute cuisine | 45.00% | ~50 |
-| I didn't do it! | 40.00% | ~44 |
+| I didn't do it! | 41.00% | ~46 |
 | Wooooooow! | 35.00% | ~39 |
+| Artistic fool | 34.00% | ~38 |
 | Demolition expert | 34.00% | ~38 |
 | Keep away from children | 34.00% | ~38 |
-| Artistic fool | 33.00% | ~37 |
 | Open up wide | 32.00% | ~36 |
+| Let the boot talk | 29.00% | ~32 |
 | Chapter II | 29.00% | ~32 |
-| Let the boot talk | 28.00% | ~31 |
 | Achoo!! | 27.00% | ~30 |
 | Chapter III | 26.00% | ~29 |
 | Like a moth in the Wind | 26.00% | ~29 |

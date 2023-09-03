@@ -786,9 +786,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 220701,
+  "EOS_Progressed": 220723,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2748,
+  "EOS_NewPlayers": 2749,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9391,6 +9391,11 @@
       "Time": "2023-09-03T10:05:28.5239801+00:00",
       "NumProgressed": 220701,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-03T11:05:22.7977823+00:00",
+      "NumProgressed": 220723,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -9426,7 +9431,7 @@
       "Name": "Shiny and Cr\u00F4m",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1986
+      "UsersEstimate": 1987
     },
     {
       "ID": "BarbarianKillUsingBow",
@@ -9450,7 +9455,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6621
+      "UsersEstimate": 6622
     },
     {
       "ID": "Chapter2",
@@ -9506,7 +9511,7 @@
       "Name": "The Dungeon Master",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1986
+      "UsersEstimate": 1987
     },
     {
       "ID": "Chapter9",
@@ -9514,7 +9519,7 @@
       "Name": "The Statuette of Gladeulfeurah",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1986
+      "UsersEstimate": 1987
     },
     {
       "ID": "CollateralVictim",
@@ -9786,7 +9791,7 @@
       "Name": "A tale of adventurers not quite like the others...",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1986
+      "UsersEstimate": 1987
     },
     {
       "ID": "Dwarf30Insult",
@@ -9802,7 +9807,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6621
+      "UsersEstimate": 6622
     },
     {
       "ID": "DwarfElf15Support",
@@ -9850,7 +9855,7 @@
       "Name": "Sowwy!",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 59589
+      "UsersEstimate": 59595
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -9898,7 +9903,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8828
+      "UsersEstimate": 8829
     },
     {
       "ID": "FollowBraztok",
@@ -10008,9 +10013,9 @@
       "ID": "QuestPaladine",
       "SetID": "50chcgj",
       "Name": "L\u00EBgal Legend",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 662
+      "UsersEstimate": 883
     },
     {
       "ID": "QuestPriestess",
@@ -10026,7 +10031,7 @@
       "Name": "The Ranger of Chaos",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1986
+      "UsersEstimate": 1987
     },
     {
       "ID": "Rogue30Backstab",
@@ -10034,7 +10039,7 @@
       "Name": "I am the night",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1986
+      "UsersEstimate": 1987
     },
     {
       "ID": "RogueEpic",
@@ -10105,21 +10110,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 220701,
+      "Progressed": 220723,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 220701,
+      "Progressed": 220723,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-03T07:58:18.9907851+00:00",
-  "LastChanged_Achievements": "2023-09-03T10:05:28.5239795+00:00",
+  "LastChanged_Achievements": "2023-09-03T11:05:22.7977819+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:55.2312629+00:00",
-  "LastUpdate_Ratings": "2023-09-03T09:58:52.4668073+00:00",
-  "LastUpdate_Achievements": "2023-09-03T10:05:28.5242002+00:00"
+  "LastUpdate_Ratings": "2023-09-03T10:58:53.6630114+00:00",
+  "LastUpdate_Achievements": "2023-09-03T11:05:22.7979278+00:00"
 }

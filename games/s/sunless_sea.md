@@ -6,26 +6,26 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~13,207 |
-| Sweet Sorrow | 18.00% | ~6,603 |
-| Rules the Waves | 17.00% | ~6,236 |
+| Sink Beneath the Waves | 36.00% | ~13,208 |
+| Sweet Sorrow | 18.00% | ~6,604 |
+| Rules the Waves | 17.00% | ~6,237 |
 | Thou, All-Shaking Thunder | 15.00% | ~5,503 |
 | Rival | 14.00% | ~5,136 |
-| Correspondent | 12.00% | ~4,402 |
-| Lose Your Mind | 12.00% | ~4,402 |
-| Sound Mind? | 12.00% | ~4,402 |
-| Salt's Curse | 11.00% | ~4,035 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~4,035 |
-| The Fall of the House | 11.00% | ~4,035 |
-| Shipmate | 11.00% | ~4,035 |
+| Correspondent | 12.00% | ~4,403 |
+| Lose Your Mind | 12.00% | ~4,403 |
+| Sound Mind? | 12.00% | ~4,403 |
+| Salt's Curse | 11.00% | ~4,036 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~4,036 |
+| The Fall of the House | 11.00% | ~4,036 |
+| Shipmate | 11.00% | ~4,036 |
 | One Year at Zee | 8.00% | ~2,935 |
 | Pupil | 7.00% | ~2,568 |
 | Salvager | 7.00% | ~2,568 |
 | Open Your Ears | 7.00% | ~2,568 |
 | The Ascent of Man | 7.00% | ~2,568 |
 | Zee Fever | 5.00% | ~1,834 |
-| Old Unhappy Far-Off Things | 4.00% | ~1,467 |
-| Sink Beneath the Waves. Again. | 4.00% | ~1,467 |
+| Old Unhappy Far-Off Things | 4.00% | ~1,468 |
+| Sink Beneath the Waves. Again. | 4.00% | ~1,468 |
 | Storm's Curse | 3.00% | ~1,101 |
 | We're Gonna Need a Bigger Boat | 3.00% | ~1,101 |
 | Come Closer | 3.00% | ~1,101 |
@@ -47,7 +47,7 @@ Number of Ratings: 401  (23.09.2022)
 | Leviathan | 0.90% | ~330 |
 | No regrets | 0.90% | ~330 |
 | Depth charge | 0.90% | ~330 |
-| A zee-change | 0.80% | ~293 |
+| A zee-change | 0.80% | ~294 |
 | What lies beneath | 0.70% | ~257 |
 | Stone's Curse | 0.70% | ~257 |
 | Five Years at Zee | 0.50% | ~183 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~37 |
 | Ten Years at Zee | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36,685 (Ranked 98)  
+Progressed: 36,689 (Ranked 98)  
 Completed: 3 (0.01%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 3 (0.01%) (Ranked 257)
 | 2023-08-31 | 36,530 | 3 |
 | 2023-09-01 | 36,588 | 3 |
 | 2023-09-02 | 36,656 | 3 |
-| 2023-09-03 | 36,685 | 3 |
+| 2023-09-03 | 36,689 | 3 |
 ## Awards
 Max (Character Customization): 213  (Ranked 270)  
 Sum: 283 (Ranked 344)  

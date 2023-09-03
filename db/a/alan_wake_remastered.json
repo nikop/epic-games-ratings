@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewPlayers": 89,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 62225,
+  "EOS_Progressed": 62226,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 464,
+  "EOS_NewPlayers": 461,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -13327,6 +13327,11 @@
       "Time": "2023-09-03T10:04:28.1269271+00:00",
       "NumProgressed": 62225,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-09-03T11:04:21.2537384+00:00",
+      "NumProgressed": 62226,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -13410,7 +13415,7 @@
       "Name": "Medical Opinions",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1244
+      "UsersEstimate": 1245
     },
     {
       "ID": "11",
@@ -13450,7 +13455,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6222
+      "UsersEstimate": 6223
     },
     {
       "ID": "16",
@@ -13514,7 +13519,7 @@
       "Name": "Taken Season",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1244
+      "UsersEstimate": 1245
     },
     {
       "ID": "24",
@@ -13602,7 +13607,7 @@
       "Name": "Energized!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6222
+      "UsersEstimate": 6223
     },
     {
       "ID": "35",
@@ -13634,7 +13639,7 @@
       "Name": "An Idyllic Small Town",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1244
+      "UsersEstimate": 1245
     },
     {
       "ID": "39",
@@ -13722,7 +13727,7 @@
       "Name": "Couch Potato",
       "Percentage": 2,
       "XP": 110,
-      "UsersEstimate": 1244
+      "UsersEstimate": 1245
     },
     {
       "ID": "50",
@@ -13738,7 +13743,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 2055
+      "UsersEstimate": 2056
     },
     {
       "ID": "52",
@@ -13864,30 +13869,30 @@
       "ID": "67",
       "SetID": "6apfemg",
       "Name": "Heartbreaker",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 771
+      "UsersEstimate": 1028
     }
   ],
   "AchievementSets": [
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 62225,
+      "Progressed": 62226,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 25693,
+      "Progressed": 25694,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-03T10:04:28.1269266+00:00",
+  "LastChanged_Achievements": "2023-09-03T11:04:21.2537382+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:56:59.9039957+00:00",
-  "LastUpdate_Ratings": "2023-09-03T09:57:59.9164219+00:00",
-  "LastUpdate_Achievements": "2023-09-03T10:04:28.1270868+00:00"
+  "LastUpdate_Ratings": "2023-09-03T10:57:56.350961+00:00",
+  "LastUpdate_Achievements": "2023-09-03T11:04:21.2539534+00:00"
 }

@@ -12,7 +12,7 @@
 | Wrench | 32.00% | ~38 |
 | Purr-fect | 31.00% | ~37 |
 | Mug | 29.00% | ~35 |
-| Soldering iron | 28.00% | ~33 |
+| Soldering iron | 29.00% | ~35 |
 | Robot Bros | 24.00% | ~29 |
 | Act 2 | 24.00% | ~29 |
 | Harpoon | 21.00% | ~25 |
@@ -20,14 +20,14 @@
 | Cassette | 20.00% | ~24 |
 | Here we go again | 19.00% | ~23 |
 | Flyer | 17.00% | ~20 |
+| Dr. Antivirus | 15.00% | ~18 |
+| Photo | 14.00% | ~17 |
 | It’s in the Vault | 14.00% | ~17 |
-| Dr. Antivirus | 14.00% | ~17 |
 | Time Capsule | 13.00% | ~15 |
-| Photo | 13.00% | ~15 |
 | Ticket | 13.00% | ~15 |
 | Access protocol | 13.00% | ~15 |
+| Contract | 9.00% | ~11 |
 | Baseball | 9.00% | ~11 |
-| Contract | 8.00% | ~10 |
 | VHS blogger | 8.00% | ~10 |
 | Out of the loop | 8.00% | ~10 |
 | New Dawn | 8.00% | ~10 |

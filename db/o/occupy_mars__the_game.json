@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1570,
+  "EOS_Progressed": 1571,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3493,6 +3493,11 @@
       "Time": "2023-09-02T23:05:43.0358182+00:00",
       "NumProgressed": 1570,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-03T11:05:37.6906604+00:00",
+      "NumProgressed": 1571,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3584,7 +3589,7 @@
       "Name": "Zero Waste",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -3624,7 +3629,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -3664,7 +3669,7 @@
       "Name": "DeDust",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "NEW_ACHIEVEMENT_DUMB_WAYS",
@@ -3696,7 +3701,7 @@
       "Name": "Gardener",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -3736,7 +3741,7 @@
       "Name": "ITS crash site",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "NEW_ACHIEVEMENT_KOROLEV",
@@ -3752,7 +3757,7 @@
       "Name": "Miner",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -3864,7 +3869,7 @@
       "Name": "Bob The Builder",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -3887,7 +3892,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1570,
+      "Progressed": 1571,
       "Completed": 0
     }
   ],
@@ -3895,8 +3900,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-09-02T18:57:16.3901403+00:00",
-  "LastChanged_Achievements": "2023-09-03T10:05:43.5535123+00:00",
+  "LastChanged_Achievements": "2023-09-03T11:05:37.6906598+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:41.057899+00:00",
-  "LastUpdate_Ratings": "2023-09-03T09:57:26.0926302+00:00",
-  "LastUpdate_Achievements": "2023-09-03T10:05:43.5535864+00:00"
+  "LastUpdate_Ratings": "2023-09-03T10:57:20.3786178+00:00",
+  "LastUpdate_Achievements": "2023-09-03T11:05:37.6907272+00:00"
 }

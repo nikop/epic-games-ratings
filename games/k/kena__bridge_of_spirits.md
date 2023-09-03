@@ -1,26 +1,26 @@
 # Kena: Bridge of Spirits
 [Store](https://store.epicgames.com/en-US/p/kena-bridge-of-spirits)  
 [View Rawdata](../../db/k/kena__bridge_of_spirits.json)  
-Rating: 4.70 (Ranked 199)  
+Rating: 4.70 (Ranked 200)  
 Number of Ratings: 3,313  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Found a Friend | 95.00% | ~406,391 |
-| Haikyo | 80.00% | ~342,224 |
+| Found a Friend | 95.00% | ~406,392 |
+| Haikyo | 80.00% | ~342,225 |
 | Good as New | 72.00% | ~308,002 |
-| Into the Woods | 69.00% | ~295,168 |
-| Hunter in the Forest | 60.00% | ~256,668 |
-| Rot Commander | 60.00% | ~256,668 |
+| Into the Woods | 69.00% | ~295,169 |
+| Hunter in the Forest | 60.00% | ~256,669 |
+| Rot Commander | 60.00% | ~256,669 |
 | Taro's Fear | 56.00% | ~239,557 |
 | Between the Eyes | 47.00% | ~201,057 |
 | Taro's Love | 46.00% | ~196,779 |
-| Taro's Regret | 43.00% | ~183,945 |
+| Taro's Regret | 43.00% | ~183,946 |
 | Spirit Guide | 42.00% | ~179,668 |
-| Harness Your Power | 39.00% | ~166,834 |
+| Harness Your Power | 39.00% | ~166,835 |
 | The Open Range | 37.00% | ~158,279 |
-| Adira's Love | 34.00% | ~145,445 |
-| Adira's Fear | 33.00% | ~141,167 |
+| Adira's Love | 34.00% | ~145,446 |
+| Adira's Fear | 33.00% | ~141,168 |
 | Weigh Them Down | 31.00% | ~132,612 |
 | Adira's Regret | 31.00% | ~132,612 |
 | A Heavy Hammer | 30.00% | ~128,334 |
@@ -48,7 +48,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | Triple Threat | 0.90% | ~3,850 |
 | Master Spirit Guide | 0.30% | ~1,283 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 427,780 (Ranked 39)  
+Progressed: 427,781 (Ranked 39)  
 Completed: 530 (0.12%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 530 (0.12%) (Ranked 210)
 | 2023-08-31 | 427,738 | 529 |
 | 2023-09-01 | 427,751 | 529 |
 | 2023-09-02 | 427,772 | 529 |
-| 2023-09-03 | 427,780 | 530 |
+| 2023-09-03 | 427,781 | 530 |
 ## Awards
 Max (Great Boss Battles): 1,318  (Ranked 131)  
 Sum: 1,698 (Ranked 209)  

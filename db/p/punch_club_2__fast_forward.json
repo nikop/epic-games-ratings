@@ -4,7 +4,7 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 81,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -1326,9 +1326,9 @@
       "ID": "flash_delivery",
       "SetID": "69co12a",
       "Name": "Family comes first",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 95
     },
     {
       "ID": "flash_k",
@@ -1350,9 +1350,9 @@
       "ID": "flash_yakuza",
       "SetID": "69co12a",
       "Name": "Better cooking at home",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 86
     },
     {
       "ID": "get_tape",
@@ -1374,9 +1374,9 @@
       "ID": "hack_device",
       "SetID": "69co12a",
       "Name": "Not little hacker",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 99
     },
     {
       "ID": "hack_gpp",
@@ -1398,9 +1398,9 @@
       "ID": "huey_win",
       "SetID": "69co12a",
       "Name": "No bullying more",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 209
     },
     {
       "ID": "intro_dream",
@@ -1622,9 +1622,9 @@
       "ID": "soft_install",
       "SetID": "69co12a",
       "Name": "Hello, world!",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 209
+      "UsersEstimate": 213
     },
     {
       "ID": "trainer_promotion_1",
@@ -1701,8 +1701,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-09-03T10:03:36.4172093+00:00",
+  "LastChanged_Achievements": "2023-09-03T11:03:28.9232147+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:38.1183893+00:00",
-  "LastUpdate_Ratings": "2023-09-03T10:02:35.2825521+00:00",
-  "LastUpdate_Achievements": "2023-09-03T10:03:36.4172861+00:00"
+  "LastUpdate_Ratings": "2023-09-03T11:02:37.7684152+00:00",
+  "LastUpdate_Achievements": "2023-09-03T11:03:28.9233074+00:00"
 }

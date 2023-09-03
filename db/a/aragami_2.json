@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 42121,
+  "EOS_Progressed": 42122,
   "EOS_Completed": 215,
-  "EOS_NewPlayers": 495,
+  "EOS_NewPlayers": 493,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -13931,6 +13931,11 @@
       "Time": "2023-09-03T10:03:12.8435668+00:00",
       "NumProgressed": 42121,
       "NumCompleted": 215
+    },
+    {
+      "Time": "2023-09-03T11:02:55.0249399+00:00",
+      "NumProgressed": 42122,
+      "NumCompleted": 215
     }
   ],
   "TotalAchievements": 44,
@@ -13942,7 +13947,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 24009
+      "UsersEstimate": 24010
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -13958,7 +13963,7 @@
       "Name": "Embers",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 8845
+      "UsersEstimate": 8846
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -14062,7 +14067,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 33697
+      "UsersEstimate": 33698
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -14102,7 +14107,7 @@
       "Name": "Look Behind You",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 6739
+      "UsersEstimate": 6740
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -14126,7 +14131,7 @@
       "Name": "Sleeping on the Job",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 6739
+      "UsersEstimate": 6740
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -14182,7 +14187,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 26536
+      "UsersEstimate": 26537
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -14214,7 +14219,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 28221
+      "UsersEstimate": 28222
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -14246,7 +14251,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 18954
+      "UsersEstimate": 18955
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -14262,7 +14267,7 @@
       "Name": "Pilgrimage",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 2948
+      "UsersEstimate": 2949
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -14293,7 +14298,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 42121,
+      "Progressed": 42122,
       "Completed": 215
     }
   ],
@@ -14301,8 +14306,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-08-30T04:00:16.1693203+00:00",
-  "LastChanged_Achievements": "2023-09-03T10:03:12.8435663+00:00",
+  "LastChanged_Achievements": "2023-09-03T11:02:55.0249394+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:40.1883652+00:00",
-  "LastUpdate_Ratings": "2023-09-03T09:58:37.9515114+00:00",
-  "LastUpdate_Achievements": "2023-09-03T10:03:12.8436839+00:00"
+  "LastUpdate_Ratings": "2023-09-03T10:58:38.2159224+00:00",
+  "LastUpdate_Achievements": "2023-09-03T11:02:55.0250838+00:00"
 }

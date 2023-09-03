@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 553,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -1076,9 +1076,9 @@
       "ID": "LightsOut",
       "SetID": "3ai6ml8",
       "Name": "Lights Out",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 282
+      "UsersEstimate": 288
     },
     {
       "ID": "MiCasaSuCasa",
@@ -1163,8 +1163,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-09-03T10:06:06.960923+00:00",
+  "LastChanged_Achievements": "2023-09-03T11:06:01.2964235+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:05.9137937+00:00",
-  "LastUpdate_Ratings": "2023-09-03T10:00:56.8426419+00:00",
-  "LastUpdate_Achievements": "2023-09-03T10:06:06.9609447+00:00"
+  "LastUpdate_Ratings": "2023-09-03T11:00:57.160297+00:00",
+  "LastUpdate_Achievements": "2023-09-03T11:06:01.2964573+00:00"
 }

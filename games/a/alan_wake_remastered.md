@@ -31,12 +31,12 @@ Number of Ratings: 524  (23.09.2022)
 | It's Not Just a Typewriter Brand | 11.00% | ~6,845 |
 | Thunder and Lightning | 11.00% | ~6,845 |
 | Two For the Price of One | 11.00% | ~6,845 |
-| The Lady of the Light | 10.00% | ~6,222 |
-| Energized! | 10.00% | ~6,222 |
+| The Lady of the Light | 10.00% | ~6,223 |
+| Energized! | 10.00% | ~6,223 |
 | What Light Through Yonder Window | 9.00% | ~5,600 |
 | Right of Way | 9.00% | ~5,600 |
 | Tornado Wrangler | 8.00% | ~4,978 |
-| A Friend in Need | 8.00% | ~2,055 |
+| A Friend in Need | 8.00% | ~2,056 |
 | Departure | 7.00% | ~4,356 |
 | Drink 'Em Both Up | 6.00% | ~3,734 |
 | Hardboiled Writer | 6.00% | ~3,734 |
@@ -46,13 +46,13 @@ Number of Ratings: 524  (23.09.2022)
 | Boob Tube | 4.00% | ~2,489 |
 | If It Flies, It Burns | 4.00% | ~2,489 |
 | KBF-FM | 4.00% | ~2,489 |
+| Heartbreaker | 4.00% | ~1,028 |
 | Carny | 3.00% | ~1,867 |
 | Kill Your Darlings | 3.00% | ~771 |
-| Heartbreaker | 3.00% | ~771 |
-| Medical Opinions | 2.00% | ~1,244 |
-| Taken Season | 2.00% | ~1,244 |
-| An Idyllic Small Town | 2.00% | ~1,244 |
-| Couch Potato | 2.00% | ~1,244 |
+| Medical Opinions | 2.00% | ~1,245 |
+| Taken Season | 2.00% | ~1,245 |
+| An Idyllic Small Town | 2.00% | ~1,245 |
+| Couch Potato | 2.00% | ~1,245 |
 | Iron Will | 2.00% | ~514 |
 | Go Gentle Into That Good Light | 1.00% | ~257 |
 | Words Will Never Harm You | 0.70% | ~180 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~62 |
 | No Punctuation | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,225 (Ranked 87)  
+Progressed: 62,226 (Ranked 87)  
 Completed: 65 (0.10%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 65 (0.10%) (Ranked 218)
 | 2023-08-31 | 62,064 | 65 |
 | 2023-09-01 | 62,124 | 65 |
 | 2023-09-02 | 62,195 | 65 |
-| 2023-09-03 | 62,225 | 65 |
+| 2023-09-03 | 62,226 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

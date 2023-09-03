@@ -6,8 +6,8 @@
   "Ranking_Popularity": 59,
   "Ranking_PopularitySum": 95,
   "Ranking_EOS_Progress": 22,
-  "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 17,
+  "Ranking_EOS_Completed": 177,
+  "Ranking_EOS_NewPlayers": 16,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -4126,10 +4126,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 8650,
       "NumberOfAwardsMax": 5867
+    },
+    {
+      "Time": "2023-09-03T10:59:04.4775055+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 8652,
+      "NumberOfAwardsMax": 5867
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8650,
+  "NumberOfAwards": 8652,
   "NumberOfAwardsMax": 5867,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4167,7 +4173,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 307
+      "Count": 309
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4188,9 +4194,9 @@
       "Count": 336
     }
   ],
-  "EOS_Progressed": 672314,
+  "EOS_Progressed": 672356,
   "EOS_Completed": 2106,
-  "EOS_NewPlayers": 5726,
+  "EOS_NewPlayers": 5730,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -19343,6 +19349,11 @@
       "Time": "2023-09-03T10:06:02.8404924+00:00",
       "NumProgressed": 672314,
       "NumCompleted": 2106
+    },
+    {
+      "Time": "2023-09-03T11:05:56.9425397+00:00",
+      "NumProgressed": 672356,
+      "NumCompleted": 2106
     }
   ],
   "TotalAchievements": 45,
@@ -19514,7 +19525,7 @@
       "Name": "Hotel California",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6723
+      "UsersEstimate": 6724
     },
     {
       "ID": "ach_impressive_aim",
@@ -19624,9 +19635,9 @@
       "ID": "ach_skilled_up",
       "SetID": "7km39fm",
       "Name": "Stacking the Deck",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 4706
+      "UsersEstimate": 5379
     },
     {
       "ID": "ach_star_performance",
@@ -19690,7 +19701,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6723
+      "UsersEstimate": 6724
     },
     {
       "ID": "ach_well_known_survivor",
@@ -19713,16 +19724,16 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 672314,
+      "Progressed": 672356,
       "Completed": 2106
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-09-03T06:58:49.8302039+00:00",
-  "LastChanged_Achievements": "2023-09-03T10:06:02.8404915+00:00",
+  "LastChanged": "2023-09-03T10:59:04.4775053+00:00",
+  "LastChanged_Achievements": "2023-09-03T11:05:56.9425392+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:04.7021628+00:00",
-  "LastUpdate_Ratings": "2023-09-03T09:59:01.8689067+00:00",
-  "LastUpdate_Achievements": "2023-09-03T10:06:02.8406804+00:00"
+  "LastUpdate_Ratings": "2023-09-03T10:59:04.4775061+00:00",
+  "LastUpdate_Achievements": "2023-09-03T11:05:56.9426833+00:00"
 }

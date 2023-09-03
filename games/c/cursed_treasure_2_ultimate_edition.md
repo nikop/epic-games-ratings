@@ -15,12 +15,12 @@
 | The Starry Night | 77.00% | ~129 |
 | Go Home! | 75.00% | ~125 |
 | Brilliant: Meadowshire | 74.00% | ~124 |
-| Look After the Pence... | 73.00% | ~122 |
-| Sergeant of the Evil | 73.00% | ~122 |
+| Look After the Pence... | 74.00% | ~124 |
+| Sergeant of the Evil | 74.00% | ~124 |
 | Drunken Master | 72.00% | ~120 |
 | V.I.P. Cemetery | 71.00% | ~119 |
+| Takeover | 70.00% | ~117 |
 | Top of the World | 69.00% | ~115 |
-| Takeover | 69.00% | ~115 |
 | Woodcutter | 69.00% | ~115 |
 | Sharpshooter | 69.00% | ~115 |
 | Architect of Darkness | 69.00% | ~115 |
