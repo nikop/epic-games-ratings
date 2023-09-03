@@ -12,9 +12,9 @@
 | 10 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 11 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 24.24% |
 | 12 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.00% |
-| 13 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.14% |
-| 14 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
-| 14 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
+| 13 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.00% |
+| 13 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
+| 13 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 16 | [Island Cities](games/i/island_cities.md) | 18.51% |
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
 | 18 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.37% |
@@ -25,7 +25,7 @@
 | 23 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 23 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
 | 25 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
-| 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.95% |
+| 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.93% |
 | 27 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.51% |
 | 28 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.34% |
 | 29 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
@@ -80,7 +80,7 @@
 | 78 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.74% |
 | 79 | [Destiny 2](games/d/destiny_2.md) | 2.73% |
 | 79 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
-| 81 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.61% |
+| 81 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.60% |
 | 82 | [The Bunker](games/t/the_bunker.md) | 2.59% |
 | 83 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.58% |
 | 84 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.57% |
@@ -160,8 +160,8 @@
 | 156 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.46% |
 | 159 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.45% |
 | 159 | [Train Valley](games/t/train_valley.md) | 0.45% |
-| 161 | [Tails of Iron](games/t/tails_of_iron.md) | 0.43% |
 | 161 | [Tchia](games/t/tchia.md) | 0.43% |
+| 162 | [Tails of Iron](games/t/tails_of_iron.md) | 0.42% |
 | 163 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 164 | [Ghostrunner](games/g/ghostrunner.md) | 0.39% |
 | 165 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.37% |
@@ -188,9 +188,9 @@
 | 183 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.28% |
 | 187 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
 | 187 | [Filament](games/f/filament.md) | 0.25% |
+| 189 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.24% |
 | 189 | [Despot's Game](games/d/despot's_game.md) | 0.24% |
-| 190 | [Blanc](games/b/blanc.md) | 0.23% |
-| 190 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.23% |
+| 191 | [Blanc](games/b/blanc.md) | 0.23% |
 | 192 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.22% |
 | 192 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
 | 194 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
