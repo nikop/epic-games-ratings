@@ -4,8 +4,8 @@
   "ProductSlug": "turbo-overkill-c5e3c7",
   "Ranking_EOS_Progress": 572,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 347,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-08-11T13:30:00+00:00",
     "PcReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-14T22:02:17.3386405+00:00",
-  "LastChanged_Achievements": "2023-09-03T03:05:24.8800051+00:00",
+  "LastChanged_Achievements": "2023-09-03T04:05:41.5352421+00:00",
   "LastUpdate_AppInfo": "2023-08-28T23:57:07.0813939+00:00",
-  "LastUpdate_Ratings": "2023-09-03T02:59:33.6175861+00:00",
-  "LastUpdate_Achievements": "2023-09-03T03:05:24.8800087+00:00"
+  "LastUpdate_Ratings": "2023-09-03T03:59:30.1870525+00:00",
+  "LastUpdate_Achievements": "2023-09-03T04:05:41.5352452+00:00"
 }

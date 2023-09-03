@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 440,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-09-01T08:00:00+00:00",
     "PcReleaseDate": "2023-03-09T14:00:00+00:00",
@@ -138,9 +138,9 @@
       "ID": "achievements.completemission.master.01",
       "SetID": "1kd1942",
       "Name": "Another Brick in the Node",
-      "Percentage": 65,
+      "Percentage": 71,
       "XP": 40,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "achievements.completemission.master.02",
@@ -248,8 +248,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-01T09:03:14.0251978+00:00",
-  "LastChanged_Achievements": "2023-09-03T03:00:37.4551065+00:00",
+  "LastChanged_Achievements": "2023-09-03T04:02:32.6155519+00:00",
   "LastUpdate_AppInfo": "2023-09-01T08:57:12.467565+00:00",
-  "LastUpdate_Ratings": "2023-09-03T02:57:29.8292286+00:00",
-  "LastUpdate_Achievements": "2023-09-03T03:00:37.4551187+00:00"
+  "LastUpdate_Ratings": "2023-09-03T03:57:19.6833529+00:00",
+  "LastUpdate_Achievements": "2023-09-03T04:02:32.6155695+00:00"
 }

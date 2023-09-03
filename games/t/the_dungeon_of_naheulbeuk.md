@@ -6,8 +6,8 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 27.00% | ~59,562 |
-| Alt+F4 | 4.00% | ~8,824 |
+| Sowwy! | 27.00% | ~59,566 |
+| Alt+F4 | 4.00% | ~8,825 |
 | Déjà vu | 3.00% | ~6,618 |
 | Where's that freaking Dwarf? | 3.00% | ~6,618 |
 | A beer, two curses, three companions | 2.00% | ~4,412 |
@@ -26,11 +26,11 @@ Number of Ratings: 118  (23.09.2022)
 | The Woman in the High Castle | 1.00% | ~2,206 |
 | Team Building Exercise | 1.00% | ~2,206 |
 | Oh, when I'll be level 10... | 1.00% | ~2,206 |
-| Shiny and Crôm | 0.90% | ~1,985 |
-| The Dungeon Master | 0.90% | ~1,985 |
-| The Statuette of Gladeulfeurah | 0.90% | ~1,985 |
-| A tale of adventurers not quite like the others... | 0.90% | ~1,985 |
-| I am the night | 0.90% | ~1,985 |
+| Shiny and Crôm | 0.90% | ~1,986 |
+| The Dungeon Master | 0.90% | ~1,986 |
+| The Statuette of Gladeulfeurah | 0.90% | ~1,986 |
+| A tale of adventurers not quite like the others... | 0.90% | ~1,986 |
+| I am the night | 0.90% | ~1,986 |
 | %#*!$*! | 0.80% | ~1,765 |
 | The beards of change | 0.80% | ~1,765 |
 | The Ranger of Chaos | 0.80% | ~1,765 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~221 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,600 (Ranked 57)  
+Progressed: 220,613 (Ranked 57)  
 Completed: 2 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 2 (0.00%) (Ranked 271)
 | 2023-08-31 | 219,794 | 2 |
 | 2023-09-01 | 220,165 | 2 |
 | 2023-09-02 | 220,547 | 2 |
-| 2023-09-03 | 220,600 | 2 |
+| 2023-09-03 | 220,613 | 2 |
 ## Awards
 Max (Character Customization): 189  (Ranked 278)  
 Sum: 238 (Ranked 359)  

@@ -10,9 +10,9 @@ Rating: 4.58 (Ranked 430)
 | The Spy who eliminated me | 23.00% | ~4,101 |
 | Tomorrow Never Dyes | 22.00% | ~3,923 |
 | Never Say Loser Again | 19.00% | ~3,388 |
-| From the Vault with Love | 18.00% | ~3,209 |
-| Tailor-Made | 18.00% | ~3,209 |
-| For your Eyes only | 18.00% | ~3,209 |
+| From the Vault with Love | 18.00% | ~3,210 |
+| Tailor-Made | 18.00% | ~3,210 |
+| For your Eyes only | 18.00% | ~3,210 |
 | Assistant Accountant | 17.00% | ~3,031 |
 | You Only Live Twice | 16.00% | ~2,853 |
 | Fully Decked Out | 16.00% | ~2,853 |
@@ -42,7 +42,7 @@ Rating: 4.58 (Ranked 430)
 | Extraction Confusion | 0.20% | ~36 |
 | Spyfall | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,830 (Ranked 111)  
+Progressed: 17,831 (Ranked 111)  
 Completed: 1 (0.01%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 1 (0.01%) (Ranked 257)
 | 2023-08-31 | 17,792 | 1 |
 | 2023-09-01 | 17,811 | 1 |
 | 2023-09-02 | 17,829 | 1 |
-| 2023-09-03 | 17,830 | 1 |
+| 2023-09-03 | 17,831 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

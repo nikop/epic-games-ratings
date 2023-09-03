@@ -5,10 +5,10 @@
   "Ranking_Rating": 219,
   "Ranking_Popularity": 426,
   "Ranking_PopularitySum": 346,
-  "Ranking_EOS_Progress": 184,
+  "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
     "PcReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -558,9 +558,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 1621,
+  "EOS_Progressed": 1622,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3433,6 +3433,11 @@
       "Time": "2023-09-03T01:45:12.6501793+00:00",
       "NumProgressed": 1621,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-03T04:03:10.0071556+00:00",
+      "NumProgressed": 1622,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 61,
@@ -3548,7 +3553,7 @@
       "Name": "First train station",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 1021
+      "UsersEstimate": 1022
     },
     {
       "ID": "achCannotGetEnough",
@@ -3604,7 +3609,7 @@
       "Name": "Cadet",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 859
+      "UsersEstimate": 860
     },
     {
       "ID": "achCreateLine",
@@ -3612,7 +3617,7 @@
       "Name": "First line",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1249
     },
     {
       "ID": "achCrowdInATrain",
@@ -3628,7 +3633,7 @@
       "Name": "Not in my backyard",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "achEpec",
@@ -3652,7 +3657,7 @@
       "Name": "First bus arrived",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1070
+      "UsersEstimate": 1071
     },
     {
       "ID": "achFirstCargoTransported",
@@ -3668,7 +3673,7 @@
       "Name": "First cargo item waiting",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 1151
+      "UsersEstimate": 1152
     },
     {
       "ID": "achFirstElectricTrainArrived",
@@ -3692,7 +3697,7 @@
       "Name": "First passenger on board",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 1086
+      "UsersEstimate": 1087
     },
     {
       "ID": "achFirstPassengerWaiting",
@@ -3700,7 +3705,7 @@
       "Name": "First passenger waiting",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 1086
+      "UsersEstimate": 1087
     },
     {
       "ID": "achFirstShipArrived",
@@ -3732,7 +3737,7 @@
       "Name": "Heavily loaded",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "achHq",
@@ -3740,7 +3745,7 @@
       "Name": "Settled down",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 794
+      "UsersEstimate": 795
     },
     {
       "ID": "achHq20",
@@ -3764,7 +3769,7 @@
       "Name": "Sculpturer",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "achLongestTrain",
@@ -3788,7 +3793,7 @@
       "Name": "Mass production",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "achMetropolis",
@@ -3828,7 +3833,7 @@
       "Name": "Bob Ross",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "achPennyPincher",
@@ -3852,7 +3857,7 @@
       "Name": "The king of the sea",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "achSmellOfSuccess",
@@ -3868,7 +3873,7 @@
       "Name": "Cargo hub",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 859
+      "UsersEstimate": 860
     },
     {
       "ID": "achTopSpeed120",
@@ -3931,15 +3936,15 @@
     {
       "ID": "dgl390n",
       "IsBase": true,
-      "Progressed": 1621,
+      "Progressed": 1622,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-08-30T18:58:37.464811+00:00",
-  "LastChanged_Achievements": "2023-09-03T03:02:15.4504263+00:00",
+  "LastChanged_Achievements": "2023-09-03T04:03:10.0071551+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:33.3220518+00:00",
-  "LastUpdate_Ratings": "2023-09-03T02:59:26.1613916+00:00",
-  "LastUpdate_Achievements": "2023-09-03T03:02:15.4505042+00:00"
+  "LastUpdate_Ratings": "2023-09-03T03:59:23.2717426+00:00",
+  "LastUpdate_Achievements": "2023-09-03T04:03:10.0072289+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 570,
+  "EOS_Progressed": 571,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2449,6 +2449,11 @@
       "Time": "2023-09-03T02:21:51.793858+00:00",
       "NumProgressed": 570,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-03T04:05:51.1543617+00:00",
+      "NumProgressed": 571,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -2636,7 +2641,7 @@
       "Name": "The Big Day",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "Packing20",
@@ -2716,7 +2721,7 @@
       "Name": "You\u0027re the Expert!",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "TrattoriaSet",
@@ -2772,14 +2777,14 @@
       "Name": "Well-Stocked Kitchen",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     }
   ],
   "AchievementSets": [
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 570,
+      "Progressed": 571,
       "Completed": 0
     }
   ],
@@ -2787,8 +2792,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-09-03T03:05:34.3674816+00:00",
+  "LastChanged_Achievements": "2023-09-03T04:05:51.1543609+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:08.5970121+00:00",
-  "LastUpdate_Ratings": "2023-09-03T02:58:14.0853439+00:00",
-  "LastUpdate_Achievements": "2023-09-03T03:05:34.3675316+00:00"
+  "LastUpdate_Ratings": "2023-09-03T03:58:08.4601713+00:00",
+  "LastUpdate_Achievements": "2023-09-03T04:05:51.1544059+00:00"
 }

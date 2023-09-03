@@ -38,8 +38,8 @@
 | Kill it! KILL IT! | 30.00% | ~11 |
 | Turn the last page | 27.00% | ~10 |
 | Guilty conscience | 27.00% | ~10 |
+| Bahahahaha... | 24.00% | ~9 |
 | Cameodalic | 22.00% | ~8 |
-| Bahahahaha... | 22.00% | ~8 |
 | Clever reference #451 | 19.00% | ~7 |
 | What a mess | 16.00% | ~6 |
 | Posterboy! | 16.00% | ~6 |

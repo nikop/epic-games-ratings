@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 309,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-07-05T16:00:00+00:00",
     "PcReleaseDate": "2021-07-08T21:30:00+00:00",
@@ -805,9 +805,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 8845,
+  "EOS_Progressed": 8846,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8670,6 +8670,11 @@
       "Time": "2023-09-03T03:04:34.71994+00:00",
       "NumProgressed": 8845,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-03T04:04:51.2119504+00:00",
+      "NumProgressed": 8846,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -8745,7 +8750,7 @@
       "Name": "Get Furious",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 4953
+      "UsersEstimate": 4954
     },
     {
       "ID": "ACH_GET_IN_THE_RING",
@@ -8753,7 +8758,7 @@
       "Name": "Get In The Ring!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "ACH_GREY_GOO",
@@ -8825,7 +8830,7 @@
       "Name": "Let\u0027s Get This Party Started",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 8049
+      "UsersEstimate": 8050
     },
     {
       "ID": "ACH_LIGHT_MY_FIRE",
@@ -8833,7 +8838,7 @@
       "Name": "Light My Fire",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1061
+      "UsersEstimate": 1062
     },
     {
       "ID": "ACH_MASTER_OF_ARMS",
@@ -8849,7 +8854,7 @@
       "Name": "Meching Enemies",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 4334
+      "UsersEstimate": 4335
     },
     {
       "ID": "ACH_NATURE_IS_LIT",
@@ -8881,7 +8886,7 @@
       "Name": "Photogenic",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 7695
+      "UsersEstimate": 7696
     },
     {
       "ID": "ACH_PLAYING_WITH_POWER",
@@ -8897,7 +8902,7 @@
       "Name": "Plug It In",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 7430
+      "UsersEstimate": 7431
     },
     {
       "ID": "ACH_POPPIN_NOGGINS",
@@ -8937,7 +8942,7 @@
       "Name": "Seasoned Adventurer",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1061
+      "UsersEstimate": 1062
     },
     {
       "ID": "ACH_SHIELD_AND_SHRED",
@@ -8953,7 +8958,7 @@
       "Name": "1.21 Gigawatts",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "ACH_START_YOUR_COLLECTION",
@@ -8985,7 +8990,7 @@
       "Name": "Surge Gauntlet Jockey",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 7430
+      "UsersEstimate": 7431
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_SCHOLAR",
@@ -9033,7 +9038,7 @@
       "Name": "This Is My Boomstick!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "ACH_TICKET_TITAN",
@@ -9080,15 +9085,15 @@
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 8845,
+      "Progressed": 8846,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-08-26T20:00:35.7638422+00:00",
-  "LastChanged_Achievements": "2023-09-03T03:04:34.7199395+00:00",
+  "LastChanged_Achievements": "2023-09-03T04:04:51.2119498+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:18.6650629+00:00",
-  "LastUpdate_Ratings": "2023-09-03T02:58:21.8058616+00:00",
-  "LastUpdate_Achievements": "2023-09-03T03:04:34.7200367+00:00"
+  "LastUpdate_Ratings": "2023-09-03T03:58:16.1746908+00:00",
+  "LastUpdate_Achievements": "2023-09-03T04:04:51.212039+00:00"
 }

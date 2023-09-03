@@ -23,11 +23,11 @@
 | Professional Survivor | 22.00% | ~51 |
 | Drinking Problem | 21.00% | ~59 |
 | Pork Chop Express | 17.00% | ~48 |
+| Skin Of Your Teeth | 15.00% | ~42 |
 | Eggtraordinary | 15.00% | ~42 |
 | Carrocketeer | 15.00% | ~42 |
 | This Is My Boomstick | 15.00% | ~34 |
 | Getting Started | 14.00% | ~39 |
-| Skin Of Your Teeth | 14.00% | ~39 |
 | Oh My Gourd | 14.00% | ~32 |
 | Quit Horsin' Around | 12.00% | ~34 |
 | Summers Here | 12.00% | ~28 |

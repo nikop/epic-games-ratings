@@ -5,21 +5,21 @@ Rating: 4.69 (Ranked 219)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 29.00% | ~189,667 |
-| 50 HEADSHOTS | 27.00% | ~176,586 |
-| SCIENCE AND INDUSTRY | 26.00% | ~170,046 |
-| FINISHED CHAPTER 1 | 25.00% | ~163,506 |
-| FINISHED CHAPTER 2 | 18.00% | ~117,724 |
-| 200 HEADSHOTS | 16.00% | ~104,644 |
-| FINISHED CHAPTER 3 | 15.00% | ~98,103 |
-| FINISHED CHAPTER 4 | 13.00% | ~85,023 |
-| FINISH CHAPTER 5 | 11.00% | ~71,943 |
-| FINISH CHAPTER 6 | 9.00% | ~58,862 |
-| CATHARTIC ESCAPISM | 9.00% | ~58,862 |
-| 1000 KILLS | 8.00% | ~52,322 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~26,161 |
-| FIREFIGHT LEVEL 20 | 2.00% | ~13,080 |
-| FIRST BLOOD | 2.00% | ~13,080 |
+| 100 KILLS | 29.00% | ~189,674 |
+| 50 HEADSHOTS | 27.00% | ~176,593 |
+| SCIENCE AND INDUSTRY | 26.00% | ~170,052 |
+| FINISHED CHAPTER 1 | 25.00% | ~163,512 |
+| FINISHED CHAPTER 2 | 18.00% | ~117,728 |
+| 200 HEADSHOTS | 16.00% | ~104,648 |
+| FINISHED CHAPTER 3 | 15.00% | ~98,107 |
+| FINISHED CHAPTER 4 | 13.00% | ~85,026 |
+| FINISH CHAPTER 5 | 11.00% | ~71,945 |
+| FINISH CHAPTER 6 | 9.00% | ~58,864 |
+| CATHARTIC ESCAPISM | 9.00% | ~58,864 |
+| 1000 KILLS | 8.00% | ~52,324 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~26,162 |
+| FIREFIGHT LEVEL 20 | 2.00% | ~13,081 |
+| FIRST BLOOD | 2.00% | ~13,081 |
 | PACEMAKER | 1.00% | ~6,540 |
 | OUT OF ORDER | 0.90% | ~5,886 |
 | TIME PARADOX | 0.90% | ~5,886 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 219)
 | THE GAMBLER | 0.10% | ~654 |
 | WARRIOR IN A GARDEN | 0.10% | ~654 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 654,023 (Ranked 25)  
+Progressed: 654,047 (Ranked 25)  
 Completed: 58 (0.01%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 58 (0.01%) (Ranked 257)
 | 2023-08-31 | 652,456 | 56 |
 | 2023-09-01 | 653,153 | 57 |
 | 2023-09-02 | 653,907 | 58 |
-| 2023-09-03 | 654,023 | 58 |
+| 2023-09-03 | 654,047 | 58 |
 ## Awards
 Max (Great Boss Battles): 271  (Ranked 248)  
 Sum: 271 (Ranked 349)  

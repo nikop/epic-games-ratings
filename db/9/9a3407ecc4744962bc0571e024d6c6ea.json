@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 552,
+  "EOS_Progressed": 553,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -981,6 +981,11 @@
       "Time": "2023-09-03T01:47:35.7003608+00:00",
       "NumProgressed": 552,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-03T04:05:01.3262556+00:00",
+      "NumProgressed": 553,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -1017,7 +1022,7 @@
       "Name": "Cartographer",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "Causality",
@@ -1065,7 +1070,7 @@
       "Name": "Everything is Dust",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "LightsOut",
@@ -1113,7 +1118,7 @@
       "Name": "Skeleton Crew",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "TerraTourGuide",
@@ -1127,9 +1132,9 @@
       "ID": "TheSafetyOfDisbelief",
       "SetID": "3ai6ml8",
       "Name": "The Safety of Disbelief",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 282
+      "UsersEstimate": 276
     },
     {
       "ID": "TragedyDocumented",
@@ -1145,21 +1150,21 @@
       "Name": "Welcome to Fort Solis",
       "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 552,
+      "Progressed": 553,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-09-03T03:04:45.2244086+00:00",
+  "LastChanged_Achievements": "2023-09-03T04:05:01.3262551+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:05.9137937+00:00",
-  "LastUpdate_Ratings": "2023-09-03T02:59:24.3938628+00:00",
-  "LastUpdate_Achievements": "2023-09-03T03:04:45.2244289+00:00"
+  "LastUpdate_Ratings": "2023-09-03T03:59:21.4922324+00:00",
+  "LastUpdate_Achievements": "2023-09-03T04:05:01.3262736+00:00"
 }

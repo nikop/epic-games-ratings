@@ -1956,7 +1956,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25539,
+  "EOS_Progressed": 25540,
   "EOS_Completed": 54,
   "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 1,
@@ -11916,6 +11916,11 @@
       "Time": "2023-09-03T03:04:48.4034366+00:00",
       "NumProgressed": 25539,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-09-03T04:05:04.6090414+00:00",
+      "NumProgressed": 25540,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 51,
@@ -11927,7 +11932,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 18643
+      "UsersEstimate": 18644
     },
     {
       "ID": "Animated",
@@ -11999,7 +12004,7 @@
       "Name": "Daily Dose",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 8683
+      "UsersEstimate": 8684
     },
     {
       "ID": "Diabolical",
@@ -12063,7 +12068,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 13791
+      "UsersEstimate": 13792
     },
     {
       "ID": "GB_In_Training",
@@ -12159,7 +12164,7 @@
       "Name": "Rift Destroyer",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4852
+      "UsersEstimate": 4853
     },
     {
       "ID": "Rift_Seeker",
@@ -12207,7 +12212,7 @@
       "Name": "Skilled",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 6129
+      "UsersEstimate": 6130
     },
     {
       "ID": "Solo_Capture",
@@ -12287,7 +12292,7 @@
       "Name": "There you are!",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 10726
+      "UsersEstimate": 10727
     },
     {
       "ID": "Tobins_Prodigy",
@@ -12334,7 +12339,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25539,
+      "Progressed": 25540,
       "Completed": 54
     }
   ],
@@ -12342,8 +12347,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-02T16:58:45.1721979+00:00",
-  "LastChanged_Achievements": "2023-09-03T03:04:48.4034359+00:00",
+  "LastChanged_Achievements": "2023-09-03T04:05:04.6090409+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:35.9780444+00:00",
-  "LastUpdate_Ratings": "2023-09-03T02:58:34.1021245+00:00",
-  "LastUpdate_Achievements": "2023-09-03T03:04:48.4035445+00:00"
+  "LastUpdate_Ratings": "2023-09-03T03:58:27.5850932+00:00",
+  "LastUpdate_Achievements": "2023-09-03T04:05:04.6091471+00:00"
 }

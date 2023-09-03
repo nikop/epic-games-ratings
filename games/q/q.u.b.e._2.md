@@ -7,9 +7,9 @@ Number of Ratings: 94  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Quick Understanding of Block Extrusion | 49.00% | ~66 |
-| Lost in Space | 48.00% | ~64 |
+| Lost in Space | 49.00% | ~66 |
 | Power Glove | 40.00% | ~54 |
-| Nature or Nurture | 38.00% | ~51 |
+| Nature or Nurture | 39.00% | ~52 |
 | Forgotten Memories | 38.00% | ~51 |
 | Cogs in the Machine | 34.00% | ~46 |
 | Green Cube Killer | 10.00% | ~13 |

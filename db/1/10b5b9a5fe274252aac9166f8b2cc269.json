@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 131,
-  "EOS_Completed": 46,
-  "EOS_NewPlayers": 77,
-  "EOS_NewCompleters": 23,
-  "EOS_Completed_Percentage": 35.11,
+  "EOS_Progressed": 132,
+  "EOS_Completed": 47,
+  "EOS_NewPlayers": 78,
+  "EOS_NewCompleters": 24,
+  "EOS_Completed_Percentage": 35.61,
   "EosHistory": [
     {
       "Time": "2023-07-28T07:04:19.3346272+00:00",
@@ -691,6 +691,11 @@
       "Time": "2023-09-02T14:06:42.3362515+00:00",
       "NumProgressed": 131,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-09-03T04:02:34.5199285+00:00",
+      "NumProgressed": 132,
+      "NumCompleted": 47
     }
   ],
   "AchievementsAdded": "2023-07-20T07:01:56.8501718+00:00",
@@ -703,7 +708,7 @@
       "Name": "Portrait 1",
       "Percentage": 97,
       "XP": 50,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "PORTRAIT_10",
@@ -733,25 +738,25 @@
       "ID": "PORTRAIT_13",
       "SetID": "2fge00i",
       "Name": "Portrait 13",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 52
+      "UsersEstimate": 54
     },
     {
       "ID": "PORTRAIT_14",
       "SetID": "2fge00i",
       "Name": "Portrait 14",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "PORTRAIT_15",
       "SetID": "2fge00i",
       "Name": "Portrait 15",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "PORTRAIT_16",
@@ -759,7 +764,7 @@
       "Name": "Portrait 16",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "PORTRAIT_17",
@@ -767,7 +772,7 @@
       "Name": "Portrait 17",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "PORTRAIT_18",
@@ -775,7 +780,7 @@
       "Name": "Portrait 18",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "PORTRAIT_19",
@@ -783,15 +788,15 @@
       "Name": "Portrait 19",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "PORTRAIT_2",
       "SetID": "2fge00i",
       "Name": "Portrait 2",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 50,
-      "UsersEstimate": 111
+      "UsersEstimate": 114
     },
     {
       "ID": "PORTRAIT_20",
@@ -799,7 +804,7 @@
       "Name": "Portrait 20",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "PORTRAIT_3",
@@ -813,9 +818,9 @@
       "ID": "PORTRAIT_4",
       "SetID": "2fge00i",
       "Name": "Portrait 4",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 86
+      "UsersEstimate": 88
     },
     {
       "ID": "PORTRAIT_5",
@@ -829,9 +834,9 @@
       "ID": "PORTRAIT_6",
       "SetID": "2fge00i",
       "Name": "Portrait 6",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 71
+      "UsersEstimate": 73
     },
     {
       "ID": "PORTRAIT_7",
@@ -862,14 +867,14 @@
     {
       "ID": "2fge00i",
       "IsBase": true,
-      "Progressed": 131,
-      "Completed": 46
+      "Progressed": 132,
+      "Completed": 47
     }
   ],
   "FirstSeen": "2023-07-29T16:57:06.8916907+00:00",
   "FirstSeenAchievements": "2023-07-20T07:01:56.8501716+00:00",
-  "LastChanged_Achievements": "2023-09-03T03:02:10.3794089+00:00",
+  "LastChanged_Achievements": "2023-09-03T04:02:34.519928+00:00",
   "LastUpdate_AppInfo": "2023-08-31T08:57:14.6738665+00:00",
-  "LastUpdate_Ratings": "2023-09-03T03:00:09.9306123+00:00",
-  "LastUpdate_Achievements": "2023-09-03T03:02:10.3794566+00:00"
+  "LastUpdate_Ratings": "2023-09-03T04:00:12.4570812+00:00",
+  "LastUpdate_Achievements": "2023-09-03T04:02:34.5199621+00:00"
 }

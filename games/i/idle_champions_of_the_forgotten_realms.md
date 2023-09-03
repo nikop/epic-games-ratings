@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End | 0.10% | ~193 |
 | All's Well That Ends Well | 0.10% | ~193 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226,742 (Ranked 54)  
+Progressed: 226,745 (Ranked 54)  
 Completed: 2,245 (0.99%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -663,7 +663,7 @@ Completed: 2,245 (0.99%) (Ranked 123)
 | 2023-08-31 | 226,380 | 2,235 |
 | 2023-09-01 | 226,545 | 2,242 |
 | 2023-09-02 | 226,722 | 2,245 |
-| 2023-09-03 | 226,742 | 2,245 |
+| 2023-09-03 | 226,745 | 2,245 |
 ## Awards
 Max (Diverse Characters): 5,221  (Ranked 67)  
 Sum: 31,362 (Ranked 38)  

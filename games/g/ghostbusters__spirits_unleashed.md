@@ -6,19 +6,19 @@ Rating: 4.49 (Ranked 583)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 86.00% | ~21,964 |
-| Advancement | 73.00% | ~18,643 |
+| Advancement | 73.00% | ~18,644 |
 | Meticulously Efficient | 63.00% | ~16,090 |
 | Discovery | 61.00% | ~15,579 |
-| Fully Upgraded | 54.00% | ~13,791 |
+| Fully Upgraded | 54.00% | ~13,792 |
 | Swift Rift Removers | 53.00% | ~13,536 |
 | I collect Spores, Molds, and Fungi | 51.00% | ~13,025 |
 | Cultured | 51.00% | ~13,025 |
 | Vaporous Expansion | 48.00% | ~12,259 |
 | Teamwork | 43.00% | ~10,982 |
-| There you are! | 42.00% | ~10,726 |
+| There you are! | 42.00% | ~10,727 |
 | Clutch Capture | 40.00% | ~10,216 |
 | Back Off | 35.00% | ~8,939 |
-| Daily Dose | 34.00% | ~8,683 |
+| Daily Dose | 34.00% | ~8,684 |
 | Solo Capture | 33.00% | ~8,428 |
 | Welcome to the Crew | 31.00% | ~7,917 |
 | Ghostbuster In Training | 30.00% | ~7,662 |
@@ -31,10 +31,10 @@ Rating: 4.49 (Ranked 583)
 | Animated | 25.00% | ~6,385 |
 | Pesky Jerks | 25.00% | ~6,385 |
 | Stunner | 25.00% | ~6,385 |
-| Skilled | 24.00% | ~6,129 |
+| Skilled | 24.00% | ~6,130 |
 | Collector | 23.00% | ~5,874 |
 | Ectoplasmic Entity | 23.00% | ~5,874 |
-| Rift Destroyer | 19.00% | ~4,852 |
+| Rift Destroyer | 19.00% | ~4,853 |
 | Terrifying | 18.00% | ~4,597 |
 | Tobin's Prodigy | 18.00% | ~4,597 |
 | Reckless | 17.00% | ~4,342 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 583)
 | I don't need these | 1.00% | ~255 |
 | Mycophile | 1.00% | ~255 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,539 (Ranked 103)  
+Progressed: 25,540 (Ranked 103)  
 Completed: 54 (0.21%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 54 (0.21%) (Ranked 194)
 | 2023-08-31 | 25,465 | 54 |
 | 2023-09-01 | 25,481 | 54 |
 | 2023-09-02 | 25,529 | 54 |
-| 2023-09-03 | 25,539 | 54 |
+| 2023-09-03 | 25,540 | 54 |
 ## Awards
 Max (Great for Quick Sessions): 250  (Ranked 254)  
 Sum: 2,270 (Ranked 190)  

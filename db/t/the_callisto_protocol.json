@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 316,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1136,9 +1136,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 15912,
+  "EOS_Progressed": 15913,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -6791,6 +6791,11 @@
       "Time": "2023-09-03T01:48:38.5162625+00:00",
       "NumProgressed": 15912,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-09-03T04:06:04.5266706+00:00",
+      "NumProgressed": 15913,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 47,
@@ -6834,7 +6839,7 @@
       "Name": "Flesh Wound",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -6922,7 +6927,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -6930,7 +6935,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "KILL_ROBOT",
@@ -6962,7 +6967,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -7177,13 +7182,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15912,
+      "Progressed": 15913,
       "Completed": 73
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3838,
+      "Progressed": 3839,
       "Completed": 29
     }
   ],
@@ -7191,8 +7196,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-09-01T01:43:16.3444734+00:00",
-  "LastChanged_Achievements": "2023-09-03T03:05:47.9077804+00:00",
+  "LastChanged_Achievements": "2023-09-03T04:06:04.5266701+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:38.4678594+00:00",
-  "LastUpdate_Ratings": "2023-09-03T02:57:54.0941717+00:00",
-  "LastUpdate_Achievements": "2023-09-03T03:05:47.9078565+00:00"
+  "LastUpdate_Ratings": "2023-09-03T03:57:46.3327598+00:00",
+  "LastUpdate_Achievements": "2023-09-03T04:06:04.5267345+00:00"
 }

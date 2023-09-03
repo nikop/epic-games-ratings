@@ -500,9 +500,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3565,
+  "EOS_Progressed": 3566,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -6405,6 +6405,11 @@
       "Time": "2023-09-02T22:07:17.9131306+00:00",
       "NumProgressed": 3565,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-03T04:06:32.7825011+00:00",
+      "NumProgressed": 3566,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 71,
@@ -6440,7 +6445,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -6448,7 +6453,7 @@
       "Name": "Opposing Force",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -6456,7 +6461,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -6472,7 +6477,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -6480,7 +6485,7 @@
       "Name": "Organ Grinder",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -6648,7 +6653,7 @@
       "Name": "Der Geist",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -6656,7 +6661,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -6664,7 +6669,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1283
+      "UsersEstimate": 1284
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -6728,7 +6733,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1176
+      "UsersEstimate": 1177
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -6790,9 +6795,9 @@
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
       "SetID": "bm6el81",
       "Name": "Brains of the Operation",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 535
+      "UsersEstimate": 499
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -6808,7 +6813,7 @@
       "Name": "Target America",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 891
+      "UsersEstimate": 892
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -6936,7 +6941,7 @@
       "Name": "If You Go Down To The Woods Today",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "REWARD_DLC03_02_FIGHT_ANOTHER_DAY",
@@ -6944,7 +6949,7 @@
       "Name": "Fight Another Day",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "REWARD_DLC03_03_STROLL_IN_THE_WOODS",
@@ -6983,13 +6988,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3516,
+      "Progressed": 3517,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3565,
+      "Progressed": 3566,
       "Completed": 10
     }
   ],
@@ -6997,8 +7002,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-01T10:01:39.1533108+00:00",
-  "LastChanged_Achievements": "2023-09-03T03:06:15.5591595+00:00",
+  "LastChanged_Achievements": "2023-09-03T04:06:32.7825005+00:00",
   "LastUpdate_AppInfo": "2023-09-02T06:57:18.4314048+00:00",
-  "LastUpdate_Ratings": "2023-09-03T03:00:12.59249+00:00",
-  "LastUpdate_Achievements": "2023-09-03T03:06:15.5592708+00:00"
+  "LastUpdate_Ratings": "2023-09-03T04:00:15.3818378+00:00",
+  "LastUpdate_Achievements": "2023-09-03T04:06:32.7826077+00:00"
 }
