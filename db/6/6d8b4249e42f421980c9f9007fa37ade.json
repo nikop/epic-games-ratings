@@ -624,9 +624,9 @@
       "ID": "Epic_InnerWorld_1",
       "SetID": "ba1m2fc",
       "Name": "Pseudo-redemption",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Epic_KillBoss_25",
@@ -640,9 +640,9 @@
       "ID": "Epic_KillElite_500",
       "SetID": "ba1m2fc",
       "Name": "Mousetrap",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Epic_Kill_1000000",
@@ -831,8 +831,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-09-03T00:04:51.1903731+00:00",
+  "LastChanged_Achievements": "2023-09-03T01:46:29.7015726+00:00",
   "LastUpdate_AppInfo": "2023-08-31T08:57:15.4240947+00:00",
-  "LastUpdate_Ratings": "2023-09-02T23:02:21.4610523+00:00",
-  "LastUpdate_Achievements": "2023-09-03T00:04:51.1904173+00:00"
+  "LastUpdate_Ratings": "2023-09-03T01:39:56.4294949+00:00",
+  "LastUpdate_Achievements": "2023-09-03T01:46:29.7016074+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "0b4313e25d17431b901edda54d678ab4",
   "Name": "Echo Storm",
   "ProductSlug": "echo-storm-4e5fbe",
-  "Ranking_EOS_Progress": 391,
+  "Ranking_EOS_Progress": 392,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-11T05:00:00+00:00",
@@ -274,9 +274,9 @@
       "ID": "finishGame",
       "SetID": "bma0pih",
       "Name": "Catharsis",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 200,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "kill100",
@@ -298,49 +298,49 @@
       "ID": "kill750",
       "SetID": "bma0pih",
       "Name": "War machine",
-      "Percentage": 76,
+      "Percentage": 78,
       "XP": 150,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "killWithHammer",
       "SetID": "bma0pih",
       "Name": "Eternal blacksmith",
-      "Percentage": 30,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "leviathan01",
       "SetID": "bma0pih",
       "Name": "Flying death",
-      "Percentage": 72,
+      "Percentage": 74,
       "XP": 55,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "leviathan02",
       "SetID": "bma0pih",
       "Name": "Metal hell",
-      "Percentage": 26,
+      "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "leviathan03",
       "SetID": "bma0pih",
       "Name": "Flesh fear",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "maxLevel",
       "SetID": "bma0pih",
       "Name": "Max level",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 35,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "plague",
@@ -385,8 +385,8 @@
   ],
   "FirstSeen": "2023-08-31T13:03:44.3512159+00:00",
   "FirstSeenAchievements": "2023-05-07T09:02:54.6493409+00:00",
-  "LastChanged_Achievements": "2023-09-03T00:07:39.8959212+00:00",
+  "LastChanged_Achievements": "2023-09-03T01:48:28.013271+00:00",
   "LastUpdate_AppInfo": "2023-08-27T16:57:09.5121242+00:00",
-  "LastUpdate_Ratings": "2023-09-03T00:00:14.6521289+00:00",
-  "LastUpdate_Achievements": "2023-09-03T00:07:39.8959356+00:00"
+  "LastUpdate_Ratings": "2023-09-03T01:41:55.2189052+00:00",
+  "LastUpdate_Achievements": "2023-09-03T01:48:28.0132834+00:00"
 }

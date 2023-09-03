@@ -2,12 +2,12 @@
   "ID": "6feac7e685174dd698e90ca9536e1299",
   "Name": "Skul: The Hero Slayer",
   "ProductSlug": "skul-the-hero-slayer",
-  "Ranking_Rating": 175,
+  "Ranking_Rating": 174,
   "Ranking_Popularity": 315,
   "Ranking_PopularitySum": 254,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -980,9 +980,9 @@
       "Count": 124
     }
   ],
-  "EOS_Progressed": 8153,
+  "EOS_Progressed": 8154,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -4525,6 +4525,11 @@
       "Time": "2023-09-02T13:05:30.9993764+00:00",
       "NumProgressed": 8153,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-09-03T01:46:17.0237868+00:00",
+      "NumProgressed": 8154,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 24,
@@ -4560,7 +4565,7 @@
       "Name": "Focus!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5136
+      "UsersEstimate": 5137
     },
     {
       "ID": "DemonCastleRestoration",
@@ -4568,7 +4573,7 @@
       "Name": "Castle Restoration Plans",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 1141
+      "UsersEstimate": 1142
     },
     {
       "ID": "DwarfChandelier",
@@ -4592,7 +4597,7 @@
       "Name": "Deadly Power",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 1304
+      "UsersEstimate": 1305
     },
     {
       "ID": "FirstHeroLastBattle",
@@ -4600,7 +4605,7 @@
       "Name": "The Final Battle of the First Hero",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2201
+      "UsersEstimate": 2202
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -4624,7 +4629,7 @@
       "Name": "The Hero Killer",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 2364
+      "UsersEstimate": 2365
     },
     {
       "ID": "LeoniasFall",
@@ -4632,7 +4637,7 @@
       "Name": "The Fall of the Leonia Order",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 2527
+      "UsersEstimate": 2528
     },
     {
       "ID": "LeoniasFall_2",
@@ -4664,7 +4669,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5136
+      "UsersEstimate": 5137
     },
     {
       "ID": "SavedElderEnt_2",
@@ -4686,9 +4691,9 @@
       "ID": "StockManagement",
       "SetID": "97dk767",
       "Name": "Inventory Management",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2854
+      "UsersEstimate": 2772
     },
     {
       "ID": "TheLegendBegins",
@@ -4696,7 +4701,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7582
+      "UsersEstimate": 7583
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -4727,15 +4732,15 @@
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8153,
+      "Progressed": 8154,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-08-23T17:02:24.1541742+00:00",
-  "LastChanged_Achievements": "2023-09-03T00:04:34.3471826+00:00",
+  "LastChanged_Achievements": "2023-09-03T01:46:17.0237863+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:03.9213001+00:00",
-  "LastUpdate_Ratings": "2023-09-02T23:59:02.7128513+00:00",
-  "LastUpdate_Achievements": "2023-09-03T00:04:34.3472368+00:00"
+  "LastUpdate_Ratings": "2023-09-03T01:41:06.7507609+00:00",
+  "LastUpdate_Achievements": "2023-09-03T01:46:17.0238189+00:00"
 }

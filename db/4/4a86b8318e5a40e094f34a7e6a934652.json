@@ -2,7 +2,7 @@
   "ID": "4a86b8318e5a40e094f34a7e6a934652",
   "Name": "I Am Future - Cozy Apocalypse Survival",
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
-  "Ranking_EOS_Progress": 364,
+  "Ranking_EOS_Progress": 365,
   "Ranking_EOS_Completed": 112,
   "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 70,
@@ -312,9 +312,9 @@
       "ID": "BRING_MARY",
       "SetID": "aniflfk",
       "Name": "Retro Diva",
-      "Percentage": 46,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "BRING_PROSPERO",
@@ -440,9 +440,9 @@
       "ID": "TAKE_LEECH",
       "SetID": "aniflfk",
       "Name": "Uppies!",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -463,8 +463,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-03T00:08:45.1431989+00:00",
+  "LastChanged_Achievements": "2023-09-03T01:49:14.8204231+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:06.6191746+00:00",
-  "LastUpdate_Ratings": "2023-09-03T00:03:10.9687038+00:00",
-  "LastUpdate_Achievements": "2023-09-03T00:08:45.1432333+00:00"
+  "LastUpdate_Ratings": "2023-09-03T01:43:26.1365082+00:00",
+  "LastUpdate_Achievements": "2023-09-03T01:49:14.8204372+00:00"
 }

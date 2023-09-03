@@ -276,9 +276,9 @@
       "ID": "Achievement_Scorchy",
       "SetID": "cn6a29l",
       "Name": "Fire extinguisher",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "Achievement_Skull",
@@ -453,8 +453,8 @@
   "FirstSeenRating": "2023-03-31T05:57:36.5225978+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.6396069+00:00",
   "LastChanged": "2023-03-31T05:57:36.5225979+00:00",
-  "LastChanged_Achievements": "2023-09-03T00:07:39.4600787+00:00",
+  "LastChanged_Achievements": "2023-09-03T01:48:27.6843358+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:43.885775+00:00",
-  "LastUpdate_Ratings": "2023-09-03T00:01:05.0269253+00:00",
-  "LastUpdate_Achievements": "2023-09-03T00:07:39.4601383+00:00"
+  "LastUpdate_Ratings": "2023-09-03T01:42:28.632057+00:00",
+  "LastUpdate_Achievements": "2023-09-03T01:48:27.6843551+00:00"
 }

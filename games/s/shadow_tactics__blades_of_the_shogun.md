@@ -6,28 +6,28 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~21,962 |
-| Thorough | 10.00% | ~19,966 |
-| A thief's beginning | 9.00% | ~17,969 |
+| Genin | 11.00% | ~21,963 |
+| Thorough | 10.00% | ~19,967 |
+| A thief's beginning | 9.00% | ~17,970 |
 | Disguised | 8.00% | ~15,973 |
 | Rescue Takuma | 8.00% | ~15,973 |
 | Rollin' | 8.00% | ~15,973 |
 | Tanuki Time | 8.00% | ~15,973 |
-| Ice Ice Yuki | 7.00% | ~13,976 |
-| Jonin | 7.00% | ~13,976 |
-| Stoned Ox | 7.00% | ~13,976 |
-| Yabu | 7.00% | ~13,976 |
-| Chunin | 6.00% | ~11,979 |
-| Flying Rocks | 6.00% | ~11,979 |
-| Happy Planning | 6.00% | ~11,979 |
-| Mugen Unchained | 6.00% | ~11,979 |
+| Ice Ice Yuki | 7.00% | ~13,977 |
+| Jonin | 7.00% | ~13,977 |
+| Stoned Ox | 7.00% | ~13,977 |
+| Yabu | 7.00% | ~13,977 |
+| Chunin | 6.00% | ~11,980 |
+| Flying Rocks | 6.00% | ~11,980 |
+| Happy Planning | 6.00% | ~11,980 |
+| Mugen Unchained | 6.00% | ~11,980 |
 | Okkoto | 5.00% | ~9,983 |
 | Too Early | 5.00% | ~9,983 |
 | Warzone | 5.00% | ~9,983 |
-| Gear up | 4.00% | ~7,986 |
-| Happy little accidents | 4.00% | ~7,986 |
-| Prisoners | 4.00% | ~7,986 |
-| Still Rollin' | 4.00% | ~7,986 |
+| Gear up | 4.00% | ~7,987 |
+| Happy little accidents | 4.00% | ~7,987 |
+| Prisoners | 4.00% | ~7,987 |
+| Still Rollin' | 4.00% | ~7,987 |
 | Noboru | 3.00% | ~5,990 |
 | Stoned | 3.00% | ~5,990 |
 | The Old Way | 3.00% | ~5,990 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~200 |
 | Release the Kraken | 0.10% | ~200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 199,658 (Ranked 61)  
+Progressed: 199,667 (Ranked 61)  
 Completed: 76 (0.04%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 76 (0.04%) (Ranked 240)
 | 2023-08-31 | 199,111 | 74 |
 | 2023-09-01 | 199,350 | 75 |
 | 2023-09-02 | 199,645 | 76 |
-| 2023-09-03 | 199,658 | 76 |
+| 2023-09-03 | 199,667 | 76 |
 ## Awards
 Max (Great for Beginners): 562  (Ranked 190)  
 Sum: 4,740 (Ranked 135)  

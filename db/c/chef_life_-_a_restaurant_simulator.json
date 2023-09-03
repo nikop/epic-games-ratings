@@ -4,7 +4,7 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 567,
+  "EOS_Progressed": 569,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2439,6 +2439,11 @@
       "Time": "2023-09-02T14:05:35.159214+00:00",
       "NumProgressed": 567,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-03T01:48:25.1121225+00:00",
+      "NumProgressed": 569,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -2498,7 +2503,7 @@
       "Name": "French Flair",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "CleanRestaurantDays10",
@@ -2626,7 +2631,7 @@
       "Name": "The Big Day",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "Packing20",
@@ -2634,7 +2639,7 @@
       "Name": "Next Level Cuisine",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "PerfectGrade25",
@@ -2650,7 +2655,7 @@
       "Name": "Home Cook",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "RecipeDifferent30",
@@ -2674,7 +2679,7 @@
       "Name": "S is for Scrumptious",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ServiceMaxClient",
@@ -2706,7 +2711,7 @@
       "Name": "You\u0027re the Expert!",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "TrattoriaSet",
@@ -2714,7 +2719,7 @@
       "Name": "Italian Style",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "UnlockAssiette",
@@ -2769,7 +2774,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 567,
+      "Progressed": 569,
       "Completed": 0
     }
   ],
@@ -2777,8 +2782,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-09-03T00:07:35.8020662+00:00",
+  "LastChanged_Achievements": "2023-09-03T01:48:25.1121215+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:08.5970121+00:00",
-  "LastUpdate_Ratings": "2023-09-02T23:59:07.3039906+00:00",
-  "LastUpdate_Achievements": "2023-09-03T00:07:35.8021436+00:00"
+  "LastUpdate_Ratings": "2023-09-03T01:41:10.8233732+00:00",
+  "LastUpdate_Achievements": "2023-09-03T01:48:25.1121583+00:00"
 }

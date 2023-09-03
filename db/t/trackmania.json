@@ -4,7 +4,7 @@
   "ProductSlug": "trackmania",
   "Ranking_Rating": 259,
   "Ranking_Popularity": 94,
-  "Ranking_PopularitySum": 48,
+  "Ranking_PopularitySum": 47,
   "Ranking_EOS_Progress": 572,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 346,
@@ -9771,10 +9771,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 27134,
       "NumberOfAwardsMax": 3226
+    },
+    {
+      "Time": "2023-09-03T01:40:49.0048493+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 27138,
+      "NumberOfAwardsMax": 3226
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27134,
+  "NumberOfAwards": 27138,
   "NumberOfAwardsMax": 3226,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -9818,7 +9824,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 2510
+      "Count": 2514
     },
     {
       "Text": "This game is Relaxing",
@@ -9862,8 +9868,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2023-09-02T20:58:19.8176154+00:00",
+  "LastChanged": "2023-09-03T01:40:49.0048492+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:36.2461344+00:00",
-  "LastUpdate_Ratings": "2023-09-02T23:58:33.8082274+00:00",
-  "LastUpdate_Achievements": "2023-09-03T00:06:28.0539065+00:00"
+  "LastUpdate_Ratings": "2023-09-03T01:40:49.0048498+00:00",
+  "LastUpdate_Achievements": "2023-09-03T01:47:38.103017+00:00"
 }

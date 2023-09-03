@@ -21,8 +21,8 @@
 | Pacifist | 15.00% | ~33 |
 | Snow digger | 14.00% | ~31 |
 | Model | 14.00% | ~31 |
+| Fire extinguisher | 11.00% | ~24 |
 | Hubworld fan | 11.00% | ~24 |
-| Fire extinguisher | 10.00% | ~22 |
 | Occult cataloger | 8.00% | ~18 |
 | Absolute race champion | 5.00% | ~11 |
 | Photographer | 5.00% | ~11 |

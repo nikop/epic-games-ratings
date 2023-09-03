@@ -495,7 +495,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14982,
+  "EOS_Progressed": 14983,
   "EOS_Completed": 110,
   "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
@@ -9410,6 +9410,11 @@
       "Time": "2023-09-02T21:02:36.1527403+00:00",
       "NumProgressed": 14982,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2023-09-03T01:45:09.5921758+00:00",
+      "NumProgressed": 14983,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 41,
@@ -9477,7 +9482,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2097
+      "UsersEstimate": 2098
     },
     {
       "ID": "tpote_achievement_17",
@@ -9533,7 +9538,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2996
+      "UsersEstimate": 2997
     },
     {
       "ID": "tpote_achievement_23",
@@ -9597,7 +9602,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 4794
+      "UsersEstimate": 4795
     },
     {
       "ID": "tpote_achievement_30",
@@ -9621,7 +9626,7 @@
       "Name": "Jack was here!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2097
+      "UsersEstimate": 2098
     },
     {
       "ID": "tpote_achievement_33",
@@ -9748,15 +9753,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14982,
+      "Progressed": 14983,
       "Completed": 110
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-08-03T13:08:30.3350415+00:00",
-  "LastChanged_Achievements": "2023-09-03T00:03:31.4244569+00:00",
+  "LastChanged_Achievements": "2023-09-03T01:45:09.592175+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:40.0139465+00:00",
-  "LastUpdate_Ratings": "2023-09-03T00:01:01.1535733+00:00",
-  "LastUpdate_Achievements": "2023-09-03T00:03:31.4245964+00:00"
+  "LastUpdate_Ratings": "2023-09-03T01:42:26.085801+00:00",
+  "LastUpdate_Achievements": "2023-09-03T01:45:09.5922415+00:00"
 }

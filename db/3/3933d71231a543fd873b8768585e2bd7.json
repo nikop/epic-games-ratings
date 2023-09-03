@@ -2,7 +2,7 @@
   "ID": "3933d71231a543fd873b8768585e2bd7",
   "Name": "Masterplan Tycoon",
   "ProductSlug": "masterplan-tycoon-379d81",
-  "Ranking_EOS_Progress": 441,
+  "Ranking_EOS_Progress": 440,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 101,
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 16,
+  "EOS_Progressed": 17,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -99,6 +99,11 @@
       "Time": "2023-09-02T23:02:34.6100991+00:00",
       "NumProgressed": 16,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-03T01:43:33.1742987+00:00",
+      "NumProgressed": 17,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-01T09:03:14.0251979+00:00",
@@ -133,7 +138,7 @@
       "ID": "achievements.completemission.master.01",
       "SetID": "1kd1942",
       "Name": "Another Brick in the Node",
-      "Percentage": 69,
+      "Percentage": 65,
       "XP": 40,
       "UsersEstimate": 11
     },
@@ -165,9 +170,9 @@
       "ID": "achievements.firstchain",
       "SetID": "1kd1942",
       "Name": "ForestTreePlank",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "achievements.firstexpedition",
@@ -238,13 +243,13 @@
     {
       "ID": "1kd1942",
       "IsBase": true,
-      "Progressed": 16,
+      "Progressed": 17,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-09-01T09:03:14.0251978+00:00",
-  "LastChanged_Achievements": "2023-09-03T00:03:21.6238826+00:00",
+  "LastChanged_Achievements": "2023-09-03T01:43:33.1742982+00:00",
   "LastUpdate_AppInfo": "2023-09-01T08:57:12.467565+00:00",
-  "LastUpdate_Ratings": "2023-09-02T23:57:58.778323+00:00",
-  "LastUpdate_Achievements": "2023-09-03T00:03:21.6239291+00:00"
+  "LastUpdate_Ratings": "2023-09-03T01:40:23.5686527+00:00",
+  "LastUpdate_Achievements": "2023-09-03T01:43:33.1743122+00:00"
 }

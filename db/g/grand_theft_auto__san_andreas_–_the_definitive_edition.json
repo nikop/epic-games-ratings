@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 337,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 31,
+  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -790,10 +790,10 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 12123,
+  "EOS_Progressed": 12124,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 68,
-  "EOS_NewCompleters": 4,
+  "EOS_NewPlayers": 69,
+  "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
     {
@@ -9745,6 +9745,11 @@
       "Time": "2023-09-03T00:07:21.4883583+00:00",
       "NumProgressed": 12123,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-09-03T01:48:13.8876135+00:00",
+      "NumProgressed": 12124,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 35,
@@ -9804,7 +9809,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2303
+      "UsersEstimate": 2304
     },
     {
       "ID": "ACH08",
@@ -9852,7 +9857,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 2303
+      "UsersEstimate": 2304
     },
     {
       "ID": "ACH14",
@@ -9924,7 +9929,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 1818
+      "UsersEstimate": 1819
     },
     {
       "ID": "ACH23",
@@ -9980,7 +9985,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 1818
+      "UsersEstimate": 1819
     },
     {
       "ID": "ACH30",
@@ -10035,7 +10040,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12123,
+      "Progressed": 12124,
       "Completed": 44
     }
   ],
@@ -10043,8 +10048,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-09-02T11:02:04.9574809+00:00",
-  "LastChanged_Achievements": "2023-09-03T00:07:21.4883576+00:00",
+  "LastChanged_Achievements": "2023-09-03T01:48:13.8876129+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:53.2336033+00:00",
-  "LastUpdate_Ratings": "2023-09-03T00:01:25.0294317+00:00",
-  "LastUpdate_Achievements": "2023-09-03T00:07:21.488457+00:00"
+  "LastUpdate_Ratings": "2023-09-03T01:42:42.4503888+00:00",
+  "LastUpdate_Achievements": "2023-09-03T01:48:13.8876781+00:00"
 }

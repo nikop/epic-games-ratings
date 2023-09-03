@@ -35,24 +35,24 @@
 | Intriguing candies | 57.00% | ~174 |
 | Legal courier | 54.00% | ~165 |
 | Extreme neuropower! | 54.00% | ~165 |
+| Escaped from a big trouble | 51.00% | ~156 |
 | Now you are worthy | 50.00% | ~153 |
-| Escaped from a big trouble | 50.00% | ~153 |
-| Fight is life | 45.00% | ~138 |
+| Fight is life | 46.00% | ~141 |
+| Guiding on the right path | 46.00% | ~141 |
 | Mysterious voice | 45.00% | ~138 |
-| Guiding on the right path | 45.00% | ~138 |
 | No blades in the gym | 44.00% | ~135 |
 | Champion – no way back | 42.00% | ~129 |
 | Underground dwellers | 40.00% | ~122 |
 | Responsible approach | 40.00% | ~122 |
 | Deal with life | 39.00% | ~119 |
 | Mom got better | 38.00% | ~116 |
+| GYM professional | 38.00% | ~116 |
 | Poisoned fighter | 38.00% | ~116 |
+| Get out of my apartment! | 38.00% | ~116 |
 | The die is cast | 38.00% | ~116 |
-| GYM professional | 37.00% | ~113 |
-| Get out of my apartment! | 37.00% | ~113 |
 | Your own way | 37.00% | ~113 |
 | Seashell hunter | 36.00% | ~110 |
-| Gang wrangler | 34.00% | ~104 |
+| Gang wrangler | 35.00% | ~107 |
 | Undercover robot | 34.00% | ~104 |
 | Problems of cyborgs | 33.00% | ~101 |
 | Not little hacker | 32.00% | ~98 |

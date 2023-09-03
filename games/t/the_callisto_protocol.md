@@ -11,7 +11,7 @@ Rating: 4.19 (Ranked 874)
 | Two Heads Are Better Than One | 4.00% | ~636 |
 | Chew 'Em Up | 4.00% | ~636 |
 | Float Like A Butterfly | 4.00% | ~636 |
-| Keep Fighting | 4.00% | ~153 |
+| Keep Fighting | 4.00% | ~154 |
 | You Need a Gun | 3.00% | ~477 |
 | I Do Belong Here | 3.00% | ~477 |
 | Terminated | 3.00% | ~477 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 874)
 | Hoard Mode | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,911 (Ranked 118)  
+Progressed: 15,912 (Ranked 118)  
 Completed: 73 (0.46%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,6 +186,7 @@ Completed: 73 (0.46%) (Ranked 156)
 | 2023-08-31 | 15,907 | 73 |
 | 2023-09-01 | 15,908 | 73 |
 | 2023-09-02 | 15,911 | 73 |
+| 2023-09-03 | 15,912 | 73 |
 ## Awards
 Max (Amazing Storytelling): 73  (Ranked 374)  
 Sum: 416 (Ranked 316)  

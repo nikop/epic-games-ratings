@@ -902,9 +902,9 @@
       "ID": "GB_GRANDMA_WOULD_BE_PROUD",
       "SetID": "8ga3kd9",
       "Name": "GRANDMA WOULD BE PROUD",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 178
+      "UsersEstimate": 182
     },
     {
       "ID": "GB_GRATITUDE",
@@ -1071,8 +1071,8 @@
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
   "LastChanged": "2023-07-21T18:59:24.0510184+00:00",
-  "LastChanged_Achievements": "2023-09-03T00:08:09.1270609+00:00",
+  "LastChanged_Achievements": "2023-09-03T01:48:48.6217832+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:19.2662611+00:00",
-  "LastUpdate_Ratings": "2023-09-02T23:59:17.5849921+00:00",
-  "LastUpdate_Achievements": "2023-09-03T00:08:09.1270878+00:00"
+  "LastUpdate_Ratings": "2023-09-03T01:41:17.3699953+00:00",
+  "LastUpdate_Achievements": "2023-09-03T01:48:48.6218029+00:00"
 }

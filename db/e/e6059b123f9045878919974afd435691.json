@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 793,
+  "EOS_Progressed": 794,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1821,6 +1821,11 @@
       "Time": "2023-09-02T05:06:03.6646965+00:00",
       "NumProgressed": 793,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-03T01:47:55.9271076+00:00",
+      "NumProgressed": 794,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1838,9 +1843,9 @@
       "ID": "AMMO_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "How Many Do You Need?",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 357
+      "UsersEstimate": 349
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -1872,7 +1877,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -2030,9 +2035,9 @@
       "ID": "DUCHESS_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Greetings from Royalty",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 254
+      "UsersEstimate": 246
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -2112,7 +2117,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -2160,7 +2165,7 @@
       "Name": "End the Infestation",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_3",
@@ -2200,7 +2205,7 @@
       "Name": "1, 2, 3! Grandma!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "MARY_ACHIEVEMENT_1",
@@ -2208,7 +2213,7 @@
       "Name": "Hostage of the Elderly",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -2224,7 +2229,7 @@
       "Name": "Night Snack",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -2264,7 +2269,7 @@
       "Name": "The Last of Us",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -2278,9 +2283,9 @@
       "ID": "RAPTOR_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "The Clairvoyant Who Doesn\u0027t See",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 349
+      "UsersEstimate": 341
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -2359,14 +2364,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 793,
+      "Progressed": 794,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-09-03T00:06:54.041762+00:00",
+  "LastChanged_Achievements": "2023-09-03T01:47:55.9271067+00:00",
   "LastUpdate_AppInfo": "2023-08-31T17:57:08.7662192+00:00",
-  "LastUpdate_Ratings": "2023-09-03T00:02:08.7975167+00:00",
-  "LastUpdate_Achievements": "2023-09-03T00:06:54.0418372+00:00"
+  "LastUpdate_Ratings": "2023-09-03T01:43:12.3061965+00:00",
+  "LastUpdate_Achievements": "2023-09-03T01:47:55.9271729+00:00"
 }

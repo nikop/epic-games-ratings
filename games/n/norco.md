@@ -1,7 +1,7 @@
 # NORCO
 [Store](https://store.epicgames.com/en-US/p/norco-3ba4e2)  
 [View Rawdata](../../db/n/norco.json)  
-Rating: 4.62 (Ranked 355)  
+Rating: 4.59 (Ranked 416)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -13,3 +13,4 @@ Rating: 4.62 (Ranked 355)
 | 2022-12-20 | 4.60 | - | - |
 | 2023-02-15 | 4.62 | - | - |
 | 2023-03-31 | 4.62 | 0 | 0 |
+| 2023-09-03 | 4.59 | 0 | 0 |

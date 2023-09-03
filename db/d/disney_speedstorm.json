@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3142,
+  "EOS_Progressed": 3143,
   "EOS_Completed": 168,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 5.35,
   "EosHistory": [
@@ -4495,6 +4495,11 @@
       "Time": "2023-09-02T20:04:32.0514254+00:00",
       "NumProgressed": 3142,
       "NumCompleted": 168
+    },
+    {
+      "Time": "2023-09-03T01:47:12.1904823+00:00",
+      "NumProgressed": 3143,
+      "NumCompleted": 168
     }
   ],
   "TotalAchievements": 24,
@@ -4522,7 +4527,7 @@
       "Name": "PERFECTLY POISED",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "12",
@@ -4626,7 +4631,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1006
     },
     {
       "ID": "24",
@@ -4634,7 +4639,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1006
     },
     {
       "ID": "3",
@@ -4650,7 +4655,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 32,
       "XP": 80,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1006
     },
     {
       "ID": "5",
@@ -4658,7 +4663,7 @@
       "Name": "ROOKIE",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 1728
+      "UsersEstimate": 1729
     },
     {
       "ID": "6",
@@ -4666,7 +4671,7 @@
       "Name": "PRO",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1069
     },
     {
       "ID": "7",
@@ -4697,13 +4702,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3142,
+      "Progressed": 3143,
       "Completed": 168
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-09-03T00:05:50.5605202+00:00",
+  "LastChanged_Achievements": "2023-09-03T01:47:12.1904817+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:39.8316539+00:00",
-  "LastUpdate_Ratings": "2023-09-02T23:59:37.4543804+00:00",
-  "LastUpdate_Achievements": "2023-09-03T00:05:50.5605804+00:00"
+  "LastUpdate_Ratings": "2023-09-03T01:41:31.8978195+00:00",
+  "LastUpdate_Achievements": "2023-09-03T01:47:12.1905174+00:00"
 }

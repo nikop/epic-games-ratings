@@ -1,24 +1,24 @@
 # Mount & Blade II: Bannerlord
 [Store](https://store.epicgames.com/en-US/p/mount-and-blade-2)  
 [View Rawdata](../../db/m/mount_&_blade_ii__bannerlord.json)  
-Rating: 4.74 (Ranked 147)  
+Rating: 4.74 (Ranked 146)  
 Number of Ratings: 5,603  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 38.00% | ~22,877 |
-| Landlord | 32.00% | ~19,265 |
-| Bannerlord | 23.00% | ~13,846 |
-| Horde breaker | 23.00% | ~13,846 |
-| Lawmaker | 23.00% | ~13,846 |
-| Trained | 22.00% | ~13,244 |
-| The king is pleased | 18.00% | ~10,836 |
-| King Solomon | 17.00% | ~10,234 |
-| Apple of my eye | 15.00% | ~9,030 |
-| I can do it | 15.00% | ~9,030 |
-| God of the Arena | 13.00% | ~7,826 |
-| Against all odds | 12.00% | ~7,224 |
-| This Is Our Land | 11.00% | ~6,622 |
+| Lawbringer | 38.00% | ~22,878 |
+| Landlord | 32.00% | ~19,266 |
+| Bannerlord | 23.00% | ~13,847 |
+| Horde breaker | 23.00% | ~13,847 |
+| Lawmaker | 23.00% | ~13,847 |
+| Trained | 22.00% | ~13,245 |
+| The king is pleased | 18.00% | ~10,837 |
+| King Solomon | 17.00% | ~10,235 |
+| Apple of my eye | 15.00% | ~9,031 |
+| I can do it | 15.00% | ~9,031 |
+| God of the Arena | 13.00% | ~7,827 |
+| Against all odds | 12.00% | ~7,225 |
+| This Is Our Land | 11.00% | ~6,623 |
 | Duelist | 10.00% | ~6,020 |
 | Swordbearer | 10.00% | ~6,020 |
 | Dynasty | 9.00% | ~5,418 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,202 (Ranked 88)  
+Progressed: 60,205 (Ranked 88)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,11 +194,11 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-08-31 | 60,055 | 0 |
 | 2023-09-01 | 60,115 | 0 |
 | 2023-09-02 | 60,199 | 0 |
-| 2023-09-03 | 60,202 | 0 |
+| 2023-09-03 | 60,205 | 0 |
 ## Awards
-Max (Character Customization): 7,014  (Ranked 51)  
-Sum: 14,264 (Ranked 68)  
-Diff (max vs sum): -17  
+Max (Character Customization): 7,014  (Ranked 50)  
+Sum: 14,266 (Ranked 68)  
+Diff (max vs sum): -18  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,014 |
@@ -207,7 +207,7 @@ Diff (max vs sum): -17
 | This game is Highly Recommended | 851 |
 | This game is Extremely Fun | 816 |
 | This game has Amazing Storytelling | 804 |
-| This game is Relaxing | 793 |
+| This game is Relaxing | 795 |
 | This game has Amazing Characters | 785 |
 | This game has Quickly Understood Controls | 785 |
 | This game has a Creative Community | 578 |
@@ -447,3 +447,4 @@ Diff (max vs sum): -17
 | 2023-08-31 | 4.74 | - | 7,007 | 14,250 |
 | 2023-09-01 | 4.74 | - | 7,009 | 14,256 |
 | 2023-09-02 | 4.74 | - | 7,014 | 14,264 |
+| 2023-09-03 | 4.74 | - | 7,014 | 14,266 |
