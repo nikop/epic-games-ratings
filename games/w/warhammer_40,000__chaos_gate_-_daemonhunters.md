@@ -6,9 +6,9 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Executioner | 5.00% | ~159 |
 | Look Over There! | 4.00% | ~127 |
 | Not So Fast... | 4.00% | ~127 |
-| Executioner | 4.00% | ~127 |
 | Watch Where You Step... | 4.00% | ~127 |
 | Purging Spree | 4.00% | ~127 |
 | An Ill Omen | 4.00% | ~127 |

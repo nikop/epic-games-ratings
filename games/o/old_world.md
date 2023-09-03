@@ -40,6 +40,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Developing Cities | 2.00% | ~275 |
 | Strong Cities | 2.00% | ~275 |
 | Able Difficulty | 2.00% | ~275 |
+| Artisans | 2.00% | ~275 |
 | Furious Family | 2.00% | ~275 |
 | Apadana | 2.00% | ~275 |
 | Colossus | 2.00% | ~275 |
@@ -71,7 +72,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Victorious | 1.00% | ~138 |
 | Legendary Cities | 1.00% | ~138 |
 | Just Difficulty | 1.00% | ~138 |
-| Artisans | 1.00% | ~138 |
 | Champions | 1.00% | ~138 |
 | Patrons | 1.00% | ~138 |
 | Sages | 1.00% | ~138 |
@@ -81,10 +81,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon | 1.00% | ~138 |
 | Via Recta Souk | 1.00% | ~138 |
 | Greece | 1.00% | ~138 |
+| Power to the People | 1.00% | ~138 |
 | Persian Paganism | 1.00% | ~138 |
 | Building Wonders | 1.00% | ~138 |
 | Legalism | 1.00% | ~138 |
 | Mythology | 1.00% | ~138 |
+| Phalangite | 1.00% | ~138 |
 | Points Victory | 1.00% | ~138 |
 | Lion | 0.90% | ~124 |
 | Good Difficulty | 0.90% | ~124 |
@@ -93,11 +95,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Iron | 0.90% | ~124 |
 | Hagia Sophia | 0.90% | ~124 |
 | Learn to Play 3 | 0.90% | ~124 |
-| Power to the People | 0.90% | ~124 |
 | Economic Reform | 0.90% | ~124 |
 | Dualism | 0.90% | ~124 |
 | Legionary | 0.90% | ~124 |
-| Phalangite | 0.90% | ~124 |
 | Capable | 0.80% | ~110 |
 | Invincible | 0.80% | ~110 |
 | Ready | 0.80% | ~110 |
@@ -123,12 +123,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Gnosticism | 0.70% | ~96 |
 | Revelation | 0.70% | ~96 |
 | Veneration | 0.70% | ~96 |
+| Kushite Cavalry | 0.70% | ~96 |
 | Ishtar Gate in Babylon | 0.60% | ~83 |
 | Strong Difficulty | 0.60% | ~83 |
 | Hunters | 0.60% | ~83 |
 | Learn to Play 4 | 0.60% | ~83 |
 | Hittite Paganism | 0.60% | ~83 |
-| Kushite Cavalry | 0.60% | ~83 |
 | Turreted Elephant | 0.60% | ~83 |
 | No Undo | 0.60% | ~83 |
 | Old | 0.50% | ~69 |
@@ -162,6 +162,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Necropolis in Waset | 0.30% | ~41 |
 | Patriarch St Paul | 0.30% | ~41 |
 | Hypatia the Teacher | 0.30% | ~41 |
+| Gold Victory (Carthage 1) | 0.20% | ~28 |
 | Silver Victory (Carthage 1) | 0.20% | ~28 |
 | Carthage - Riches and Influence | 0.20% | ~28 |
 | Cleopatra's Love | 0.20% | ~28 |
@@ -189,7 +190,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Blade of the Monkey | 0.10% | ~14 |
 | Hagia Sophia in Byzantion | 0.10% | ~14 |
 | Epic Victory (Carthage 1) | 0.10% | ~14 |
-| Gold Victory (Carthage 1) | 0.10% | ~14 |
 | Bronze Victory (Carthage 2) | 0.10% | ~14 |
 | Epic Victory (Carthage 2) | 0.10% | ~14 |
 | Gold Victory (Carthage 2) | 0.10% | ~14 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,756 (Ranked 120)  
+Progressed: 13,758 (Ranked 120)  
 Completed: 5 (0.04%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -439,7 +439,7 @@ Completed: 5 (0.04%) (Ranked 240)
 | 2023-08-31 | 13,711 | 5 |
 | 2023-09-01 | 13,732 | 5 |
 | 2023-09-02 | 13,749 | 5 |
-| 2023-09-03 | 13,756 | 5 |
+| 2023-09-03 | 13,758 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 263)  
 Sum: 1,802 (Ranked 207)  

@@ -51,13 +51,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Beaver Utopia | 0.60% | ~99 |
 | Human Utopia | 0.60% | ~99 |
 | The Queen's Chosen | 0.50% | ~83 |
-| Harpy Utopia | 0.30% | ~50 |
+| Harpy Utopia | 0.40% | ~66 |
 | Treasure | 0.30% | ~50 |
 | Ruins | 0.30% | ~50 |
 | Higher Needs | 0.20% | ~33 |
 | Paradise | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,508 (Ranked 116)  
+Progressed: 16,509 (Ranked 116)  
 Completed: 47 (0.28%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 47 (0.28%) (Ranked 183)
 | 2023-08-31 | 16,466 | 47 |
 | 2023-09-01 | 16,478 | 47 |
 | 2023-09-02 | 16,492 | 47 |
-| 2023-09-03 | 16,508 | 47 |
+| 2023-09-03 | 16,509 | 47 |
 ## Awards
 Max (Quickly Understood Controls): 427  (Ranked 209)  
 Sum: 3,123 (Ranked 163)  

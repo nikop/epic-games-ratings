@@ -3264,9 +3264,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 72617,
+  "EOS_Progressed": 72618,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 238,
+  "EOS_NewPlayers": 235,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -17259,6 +17259,11 @@
       "Time": "2023-09-03T14:03:19.0009909+00:00",
       "NumProgressed": 72617,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-09-03T16:02:32.2262676+00:00",
+      "NumProgressed": 72618,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 37,
@@ -17270,7 +17275,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 36308
+      "UsersEstimate": 36309
     },
     {
       "ID": "ACH_0011",
@@ -17414,7 +17419,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 47201
+      "UsersEstimate": 47202
     },
     {
       "ID": "ACH_0210",
@@ -17438,7 +17443,7 @@
       "Name": "Too Old for This",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 34856
+      "UsersEstimate": 34857
     },
     {
       "ID": "ACH_0300",
@@ -17526,7 +17531,7 @@
       "Name": "Off the Rocks",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 14523
+      "UsersEstimate": 14524
     },
     {
       "ID": "ACH_0451",
@@ -17565,22 +17570,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 72617,
+      "Progressed": 72618,
       "Completed": 43
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 964,
-      "Completed": 964
+      "Progressed": 965,
+      "Completed": 965
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-09-02T19:00:56.2101406+00:00",
-  "LastChanged_Achievements": "2023-09-03T15:02:16.171737+00:00",
+  "LastChanged_Achievements": "2023-09-03T16:02:32.226267+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:37.6204685+00:00",
-  "LastUpdate_Ratings": "2023-09-03T15:00:19.4370704+00:00",
-  "LastUpdate_Achievements": "2023-09-03T15:02:16.1718281+00:00"
+  "LastUpdate_Ratings": "2023-09-03T16:00:15.6277758+00:00",
+  "LastUpdate_Achievements": "2023-09-03T16:02:32.2263792+00:00"
 }

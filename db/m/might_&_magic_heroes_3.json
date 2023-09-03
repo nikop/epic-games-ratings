@@ -4,7 +4,7 @@
   "ProductSlug": "might-and-magic-heroes-3",
   "Ranking_Rating": 90,
   "Ranking_Popularity": 396,
-  "Ranking_PopularitySum": 327,
+  "Ranking_PopularitySum": 332,
   "Ranking_EOS_Progress": 572,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 348,
@@ -1295,10 +1295,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 365,
       "NumberOfAwardsMax": 53
+    },
+    {
+      "Time": "2023-09-03T15:58:06.1282521+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 341,
+      "NumberOfAwardsMax": 53
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 365,
+  "NumberOfAwards": 341,
   "NumberOfAwardsMax": 53,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1312,7 +1318,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 50
+      "Count": 52
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1380,8 +1386,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:33.8101196+00:00",
-  "LastChanged": "2023-09-02T15:58:12.5381804+00:00",
+  "LastChanged": "2023-09-03T15:58:06.1282519+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:30.8355761+00:00",
-  "LastUpdate_Ratings": "2023-09-03T14:58:10.9101121+00:00",
-  "LastUpdate_Achievements": "2023-09-03T15:04:40.1379263+00:00"
+  "LastUpdate_Ratings": "2023-09-03T15:58:06.1282525+00:00",
+  "LastUpdate_Achievements": "2023-09-03T16:04:58.5521823+00:00"
 }

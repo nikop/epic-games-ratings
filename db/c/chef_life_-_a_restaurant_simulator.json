@@ -4,7 +4,7 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 571,
+  "EOS_Progressed": 572,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2454,6 +2454,11 @@
       "Time": "2023-09-03T04:05:51.1543617+00:00",
       "NumProgressed": 571,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-03T16:06:25.2782832+00:00",
+      "NumProgressed": 572,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -2521,7 +2526,7 @@
       "Name": "So Clean You Can Eat Off the Floor",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "Clothes10",
@@ -2551,7 +2556,7 @@
       "ID": "FirstArrabbiataPasta",
       "SetID": "d1bm05f",
       "Name": "Codename: Arrabbiata",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -2665,7 +2670,7 @@
       "Name": "Home Cook",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "RecipeDifferent30",
@@ -2784,7 +2789,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 571,
+      "Progressed": 572,
       "Completed": 0
     }
   ],
@@ -2792,8 +2797,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-09-03T15:06:16.0083088+00:00",
+  "LastChanged_Achievements": "2023-09-03T16:06:25.2782827+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:08.5970121+00:00",
-  "LastUpdate_Ratings": "2023-09-03T14:58:44.2791828+00:00",
-  "LastUpdate_Achievements": "2023-09-03T15:06:16.0083446+00:00"
+  "LastUpdate_Ratings": "2023-09-03T15:58:38.5671821+00:00",
+  "LastUpdate_Achievements": "2023-09-03T16:06:25.2783276+00:00"
 }

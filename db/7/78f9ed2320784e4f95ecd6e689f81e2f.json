@@ -315,9 +315,9 @@
       "ID": "JUMPER_1000",
       "SetID": "dademeo",
       "Name": "Jumper 1000",
-      "Percentage": 57,
+      "Percentage": 60,
       "XP": 145,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "JUMPER_5000",
@@ -338,8 +338,8 @@
   ],
   "FirstSeen": "2023-06-24T07:57:28.1262112+00:00",
   "FirstSeenAchievements": "2023-05-09T08:01:56.5974066+00:00",
-  "LastChanged_Achievements": "2023-09-03T15:02:15.9117837+00:00",
+  "LastChanged_Achievements": "2023-09-03T16:02:31.9784244+00:00",
   "LastUpdate_AppInfo": "2023-08-29T18:57:24.3477845+00:00",
-  "LastUpdate_Ratings": "2023-09-03T14:57:13.8757489+00:00",
-  "LastUpdate_Achievements": "2023-09-03T15:02:15.9117935+00:00"
+  "LastUpdate_Ratings": "2023-09-03T15:57:10.6504207+00:00",
+  "LastUpdate_Achievements": "2023-09-03T16:02:31.9784315+00:00"
 }

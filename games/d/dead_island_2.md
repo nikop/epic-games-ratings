@@ -7,7 +7,7 @@ Rating: 4.54 (Ranked 504)
 | ---- | ---------- | ----- |
 | Hotel California | 1.00% | ~6,726 |
 | Welcome To Hell-A | 1.00% | ~6,726 |
-| Break A Leg | 0.90% | ~6,053 |
+| Break A Leg | 0.90% | ~6,054 |
 | Dr. Reed, I Presume? | 0.80% | ~5,381 |
 | Git Gutte! | 0.80% | ~5,381 |
 | Coup de Grâce | 0.80% | ~5,381 |
@@ -23,10 +23,10 @@ Rating: 4.54 (Ranked 504)
 | Zombologist | 0.70% | ~4,708 |
 | A Patton Emerges | 0.70% | ~4,708 |
 | This is My Weapon | 0.70% | ~4,708 |
-| Slayer Squad | 0.60% | ~4,035 |
-| Ooh, Shiny! | 0.60% | ~4,035 |
-| I Am the Resurrection | 0.60% | ~4,035 |
-| Our True Nature | 0.60% | ~4,035 |
+| Slayer Squad | 0.60% | ~4,036 |
+| Ooh, Shiny! | 0.60% | ~4,036 |
+| I Am the Resurrection | 0.60% | ~4,036 |
+| Our True Nature | 0.60% | ~4,036 |
 | Anger Management | 0.50% | ~3,363 |
 | Perks of the Job | 0.50% | ~3,363 |
 | I Got a Zombie Army and You Can't Harm Me | 0.50% | ~3,363 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 504)
 | Survival Skills | 0.10% | ~673 |
 | Bucket List | 0.10% | ~673 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 672,568 (Ranked 22)  
+Progressed: 672,620 (Ranked 22)  
 Completed: 2,106 (0.31%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 2,106 (0.31%) (Ranked 177)
 | 2023-08-31 | 670,394 | 2,097 |
 | 2023-09-01 | 671,108 | 2,097 |
 | 2023-09-02 | 672,029 | 2,103 |
-| 2023-09-03 | 672,568 | 2,106 |
+| 2023-09-03 | 672,620 | 2,106 |
 ## Awards
 Max (Great Boss Battles): 5,867  (Ranked 59)  
 Sum: 8,657 (Ranked 95)  

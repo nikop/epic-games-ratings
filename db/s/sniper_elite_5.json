@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -6510,9 +6510,9 @@
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
       "SetID": "bm6el81",
       "Name": "Just a Flesh Wound",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 572
+      "UsersEstimate": 608
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -7037,8 +7037,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-01T10:01:39.1533108+00:00",
-  "LastChanged_Achievements": "2023-09-03T15:07:06.5020912+00:00",
+  "LastChanged_Achievements": "2023-09-03T16:07:16.5604152+00:00",
   "LastUpdate_AppInfo": "2023-09-02T06:57:18.4314048+00:00",
-  "LastUpdate_Ratings": "2023-09-03T15:01:19.2720485+00:00",
-  "LastUpdate_Achievements": "2023-09-03T15:07:06.5021802+00:00"
+  "LastUpdate_Ratings": "2023-09-03T16:01:16.1523272+00:00",
+  "LastUpdate_Achievements": "2023-09-03T16:07:16.5605087+00:00"
 }

@@ -6,53 +6,55 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 2.00% | ~16,878 |
-| Skillful | 2.00% | ~16,878 |
-| MU/TH/UR Dearest | 2.00% | ~16,878 |
-| Handyman | 1.00% | ~8,439 |
-| Zealous | 1.00% | ~8,439 |
-| Not half bad | 1.00% | ~8,439 |
-| Apt Survivor | 1.00% | ~8,439 |
-| Survival Treasures | 1.00% | ~8,439 |
-| Sorted | 1.00% | ~8,439 |
-| Make Some Noise | 1.00% | ~8,439 |
-| No one left behind | 0.90% | ~7,595 |
-| Medic | 0.90% | ~7,595 |
-| Nerves of steel | 0.90% | ~7,595 |
-| Bloody Millionaire | 0.90% | ~7,595 |
-| I | 0.90% | ~7,595 |
-| The Grand Sacrifice | 0.80% | ~6,751 |
-| Backdoor Escape | 0.80% | ~6,751 |
-| Healthy Obsession | 0.80% | ~6,751 |
-| Resurgence | 0.80% | ~6,751 |
-| Preemptive Strike | 0.80% | ~6,751 |
-| Agonizing Escape | 0.70% | ~5,907 |
-| Perfect Escape | 0.70% | ~5,907 |
-| Perfect Killing | 0.70% | ~5,907 |
-| Engineer | 0.70% | ~5,907 |
-| Humanitarian | 0.70% | ~5,907 |
-| Terror of LV-426 | 0.70% | ~5,907 |
-| I've got your back | 0.60% | ~5,063 |
-| Apt Killer | 0.60% | ~5,063 |
-| Risk it all | 0.60% | ~5,063 |
-| II | 0.60% | ~5,063 |
-| Wounded Healer | 0.60% | ~5,063 |
-| Close Shave | 0.60% | ~5,063 |
-| Vulture | 0.50% | ~4,219 |
-| III | 0.50% | ~4,219 |
-| Second Act | 0.50% | ~4,219 |
-| Blood on your hands | 0.40% | ~3,376 |
-| Cherish your Life | 0.40% | ~3,376 |
-| First to the Punch | 0.40% | ~3,376 |
-| Every Last Drop | 0.40% | ~3,376 |
-| With Scars to Show | 0.40% | ~3,376 |
-| Flight to Freedom | 0.40% | ~3,376 |
+| It wakes | 2.00% | ~16,883 |
+| Skillful | 2.00% | ~16,883 |
+| MU/TH/UR Dearest | 2.00% | ~16,883 |
+| Handyman | 1.00% | ~8,441 |
+| Zealous | 1.00% | ~8,441 |
+| Not half bad | 1.00% | ~8,441 |
+| Apt Survivor | 1.00% | ~8,441 |
+| Survival Treasures | 1.00% | ~8,441 |
+| Sorted | 1.00% | ~8,441 |
+| Make Some Noise | 1.00% | ~8,441 |
+| No one left behind | 0.90% | ~7,597 |
+| Medic | 0.90% | ~7,597 |
+| Nerves of steel | 0.90% | ~7,597 |
+| Bloody Millionaire | 0.90% | ~7,597 |
+| I | 0.90% | ~7,597 |
+| Resurgence | 0.90% | ~7,597 |
+| The Grand Sacrifice | 0.80% | ~6,753 |
+| Backdoor Escape | 0.80% | ~6,753 |
+| Perfect Escape | 0.80% | ~6,753 |
+| Healthy Obsession | 0.80% | ~6,753 |
+| Preemptive Strike | 0.80% | ~6,753 |
+| Terror of LV-426 | 0.80% | ~6,753 |
+| Agonizing Escape | 0.70% | ~5,909 |
+| I've got your back | 0.70% | ~5,909 |
+| Perfect Killing | 0.70% | ~5,909 |
+| Engineer | 0.70% | ~5,909 |
+| Humanitarian | 0.70% | ~5,909 |
+| Apt Killer | 0.60% | ~5,065 |
+| Risk it all | 0.60% | ~5,065 |
+| II | 0.60% | ~5,065 |
+| Wounded Healer | 0.60% | ~5,065 |
+| Close Shave | 0.60% | ~5,065 |
+| Second Act | 0.60% | ~5,065 |
+| Vulture | 0.50% | ~4,221 |
+| III | 0.50% | ~4,221 |
+| Blood on your hands | 0.40% | ~3,377 |
+| III-50 | 0.40% | ~3,377 |
+| Cherish your Life | 0.40% | ~3,377 |
+| Unforgettable Getaway | 0.40% | ~3,377 |
+| First to the Punch | 0.40% | ~3,377 |
+| Every Last Drop | 0.40% | ~3,377 |
+| With Scars to Show | 0.40% | ~3,377 |
+| Flight to Freedom | 0.40% | ~3,377 |
+| One More Step | 0.40% | ~3,377 |
 | A bite for the Entity | 0.30% | ~2,532 |
 | Blood on your face | 0.30% | ~2,532 |
 | Escape Artist | 0.30% | ~2,532 |
 | Made it out alive! | 0.30% | ~2,532 |
 | Gifts for the Fog | 0.30% | ~2,532 |
-| III-50 | 0.30% | ~2,532 |
 | Shock Therapy | 0.30% | ~2,532 |
 | All Aboard | 0.30% | ~2,532 |
 | Leapfrog | 0.30% | ~2,532 |
@@ -63,7 +65,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Near-Death Experience | 0.30% | ~2,532 |
 | Campbell's Chapel Legacy | 0.30% | ~2,532 |
 | Ancestor's Rite | 0.30% | ~2,532 |
-| Unforgettable Getaway | 0.30% | ~2,532 |
 | Cutting Out | 0.30% | ~2,532 |
 | Outrun Evil | 0.30% | ~2,532 |
 | Operation: Survival | 0.30% | ~2,532 |
@@ -75,7 +76,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Lifting The Fog | 0.30% | ~2,532 |
 | Chorus of Chaos | 0.30% | ~2,532 |
 | Complete the Evolution | 0.30% | ~2,532 |
-| One More Step | 0.30% | ~2,532 |
 | Jump Scares | 0.20% | ~1,688 |
 | Hemophobia | 0.20% | ~1,688 |
 | Deep Cleansing | 0.20% | ~1,688 |
@@ -90,6 +90,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Broken Bodies | 0.20% | ~1,688 |
 | Selfless Survival | 0.20% | ~1,688 |
 | End of Days | 0.20% | ~1,688 |
+| Power Moves | 0.20% | ~1,688 |
 | Insult and Injury | 0.20% | ~1,688 |
 | Punch Drunk | 0.20% | ~1,688 |
 | Prowler | 0.20% | ~1,688 |
@@ -185,7 +186,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Tag Team | 0.10% | ~844 |
 | Adept Twins | 0.10% | ~844 |
 | Rescue Mission | 0.10% | ~844 |
-| Power Moves | 0.10% | ~844 |
 | Adept Élodie | 0.10% | ~844 |
 | One Thousand Cuts | 0.10% | ~844 |
 | Multi-tasker | 0.10% | ~844 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~844 |
 | Adept Ripley | 0.10% | ~844 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 843,898 (Ranked 15)  
+Progressed: 844,138 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -372,10 +372,10 @@ Completed: 48 (0.01%) (Ranked 257)
 | 2023-08-31 | 834,142 | 48 |
 | 2023-09-01 | 837,438 | 48 |
 | 2023-09-02 | 841,459 | 48 |
-| 2023-09-03 | 843,898 | 48 |
+| 2023-09-03 | 844,138 | 48 |
 ## Awards
 Max (Diverse Characters): 31,886  (Ranked 15)  
-Sum: 249,871 (Ranked 11)  
+Sum: 249,913 (Ranked 11)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
@@ -385,7 +385,7 @@ Diff (max vs sum): 4
 | This game has Amazing Characters | 28,243 |
 | This game is Extremely Fun | 28,016 |
 | This game has Quickly Understood Controls | 27,672 |
-| This game has Challenging Combat | 27,360 |
+| This game has Challenging Combat | 27,402 |
 | This game has Amazing Storytelling | 25,682 |
 | This game has a Competitive Community | 23,987 |
 | This game has Obsessive Gameplay | 16,768 |
@@ -615,4 +615,4 @@ Diff (max vs sum): 4
 | 2023-08-31 | 4.52 | - | 31,726 | 248,913 |
 | 2023-09-01 | 4.52 | - | 31,778 | 249,224 |
 | 2023-09-02 | 4.52 | - | 31,830 | 249,556 |
-| 2023-09-03 | 4.52 | - | 31,886 | 249,871 |
+| 2023-09-03 | 4.52 | - | 31,886 | 249,913 |

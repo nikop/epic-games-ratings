@@ -1421,9 +1421,9 @@
       "ID": "_02_FinishFirstMission",
       "SetID": "8a1io5d",
       "Name": "A New Journey",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 417
+      "UsersEstimate": 423
     },
     {
       "ID": "_03_FinishAct1",
@@ -1493,9 +1493,9 @@
       "ID": "_11_Completion_40",
       "SetID": "8a1io5d",
       "Name": "Seadog",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 88
+      "UsersEstimate": 94
     },
     {
       "ID": "_12_Completion_50",
@@ -1517,9 +1517,9 @@
       "ID": "_14_Completion_70",
       "SetID": "8a1io5d",
       "Name": "Freebooter",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 24
     },
     {
       "ID": "_15_Completion_80",
@@ -1630,8 +1630,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-03T13:01:00.5241113+00:00",
-  "LastChanged_Achievements": "2023-09-03T15:06:15.1503351+00:00",
+  "LastChanged_Achievements": "2023-09-03T16:06:24.4270586+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:46.0913582+00:00",
-  "LastUpdate_Ratings": "2023-09-03T14:58:23.5329727+00:00",
-  "LastUpdate_Achievements": "2023-09-03T15:06:15.1503568+00:00"
+  "LastUpdate_Ratings": "2023-09-03T15:58:18.8669958+00:00",
+  "LastUpdate_Achievements": "2023-09-03T16:06:24.4270857+00:00"
 }

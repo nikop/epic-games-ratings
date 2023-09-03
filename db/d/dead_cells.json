@@ -4,7 +4,7 @@
   "ProductSlug": "dead-cells",
   "Ranking_Rating": 25,
   "Ranking_Popularity": 244,
-  "Ranking_PopularitySum": 185,
+  "Ranking_PopularitySum": 184,
   "Ranking_EOS_Progress": 572,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 348,
@@ -2528,10 +2528,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 2371,
       "NumberOfAwardsMax": 280
+    },
+    {
+      "Time": "2023-09-03T15:58:29.7863849+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 2372,
+      "NumberOfAwardsMax": 280
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2371,
+  "NumberOfAwards": 2372,
   "NumberOfAwardsMax": 280,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -2545,7 +2551,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 235
+      "Count": 236
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2619,8 +2625,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:26.6981291+00:00",
-  "LastChanged": "2023-09-03T10:58:57.1931842+00:00",
+  "LastChanged": "2023-09-03T15:58:29.7863848+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:58.1522737+00:00",
-  "LastUpdate_Ratings": "2023-09-03T14:58:35.7911837+00:00",
-  "LastUpdate_Achievements": "2023-09-03T15:06:31.0641065+00:00"
+  "LastUpdate_Ratings": "2023-09-03T15:58:29.7863854+00:00",
+  "LastUpdate_Achievements": "2023-09-03T16:06:39.8442975+00:00"
 }

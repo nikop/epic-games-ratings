@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -152,7 +152,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17749,
+  "EOS_Progressed": 17750,
   "EOS_Completed": 52,
   "EOS_NewPlayers": 195,
   "EOS_NewCompleters": 0,
@@ -11337,6 +11337,11 @@
       "Time": "2023-09-03T15:05:29.3733788+00:00",
       "NumProgressed": 17749,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-09-03T16:05:38.3891225+00:00",
+      "NumProgressed": 17750,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 14,
@@ -11404,7 +11409,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 9407
+      "UsersEstimate": 9408
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -11420,7 +11425,7 @@
       "Name": "In My Own Time",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 2307
+      "UsersEstimate": 2308
     },
     {
       "ID": "ACH_LOOK_AT_ME_NOW",
@@ -11459,15 +11464,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 17749,
+      "Progressed": 17750,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-08-16T03:57:34.8125865+00:00",
-  "LastChanged_Achievements": "2023-09-03T15:05:29.3733785+00:00",
+  "LastChanged_Achievements": "2023-09-03T16:05:38.3891219+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:58:03.3291776+00:00",
-  "LastUpdate_Ratings": "2023-09-03T15:00:53.0465276+00:00",
-  "LastUpdate_Achievements": "2023-09-03T15:05:29.3734379+00:00"
+  "LastUpdate_Ratings": "2023-09-03T16:00:47.1096819+00:00",
+  "LastUpdate_Achievements": "2023-09-03T16:05:38.3891971+00:00"
 }

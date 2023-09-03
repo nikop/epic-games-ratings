@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 27.00% | ~59,621 |
+| Sowwy! | 27.00% | ~59,626 |
 | Alt+F4 | 4.00% | ~8,833 |
 | Déjà vu | 3.00% | ~6,625 |
 | Where's that freaking Dwarf? | 3.00% | ~6,625 |
-| A beer, two curses, three companions | 2.00% | ~4,416 |
-| Sock! SOCK! | 2.00% | ~4,416 |
-| GG EZ | 2.00% | ~4,416 |
-| DM intervention | 2.00% | ~4,416 |
-| Speedrun | 2.00% | ~4,416 |
-| Fireproof Wizardess | 2.00% | ~4,416 |
+| A beer, two curses, three companions | 2.00% | ~4,417 |
+| Sock! SOCK! | 2.00% | ~4,417 |
+| GG EZ | 2.00% | ~4,417 |
+| DM intervention | 2.00% | ~4,417 |
+| Speedrun | 2.00% | ~4,417 |
+| Fireproof Wizardess | 2.00% | ~4,417 |
 | Livin' in a dwarven paradise | 1.00% | ~2,208 |
 | Way of the Wimp | 1.00% | ~2,208 |
 | The plot thickens... At the tavern | 1.00% | ~2,208 |
@@ -27,11 +27,11 @@ Number of Ratings: 118  (23.09.2022)
 | The Woman in the High Castle | 1.00% | ~2,208 |
 | Team Building Exercise | 1.00% | ~2,208 |
 | Oh, when I'll be level 10... | 1.00% | ~2,208 |
-| Shiny and Crôm | 0.90% | ~1,987 |
-| The Statuette of Gladeulfeurah | 0.90% | ~1,987 |
-| A tale of adventurers not quite like the others... | 0.90% | ~1,987 |
-| The Ranger of Chaos | 0.90% | ~1,987 |
-| I am the night | 0.90% | ~1,987 |
+| Shiny and Crôm | 0.90% | ~1,988 |
+| The Statuette of Gladeulfeurah | 0.90% | ~1,988 |
+| A tale of adventurers not quite like the others... | 0.90% | ~1,988 |
+| The Ranger of Chaos | 0.90% | ~1,988 |
+| I am the night | 0.90% | ~1,988 |
 | %#*!$*! | 0.80% | ~1,767 |
 | The beards of change | 0.80% | ~1,767 |
 | Thieves' Guild Accreditation | 0.80% | ~1,767 |
@@ -40,16 +40,16 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Fortress | 0.70% | ~1,546 |
 | Look but don't touch | 0.70% | ~1,546 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.60% | ~1,325 |
+| Lust and Debauchery | 0.60% | ~1,325 |
 | Dead for good | 0.50% | ~1,104 |
 | Gargantua | 0.50% | ~1,104 |
-| Lust and Debauchery | 0.50% | ~1,104 |
 | Material Girl | 0.50% | ~1,104 |
 | In Navalu's footsteps | 0.40% | ~883 |
 | Lëgal Legend | 0.40% | ~883 |
-| Holistic Adventuring Party | 0.30% | ~662 |
-| An old poacher makes the best gamekeeper | 0.30% | ~662 |
-| We come in peace | 0.30% | ~662 |
-| Law and Order | 0.30% | ~662 |
+| Holistic Adventuring Party | 0.30% | ~663 |
+| An old poacher makes the best gamekeeper | 0.30% | ~663 |
+| We come in peace | 0.30% | ~663 |
+| Law and Order | 0.30% | ~663 |
 | Scholar of the Lands of Fangh | 0.20% | ~442 |
 | Friendly fire | 0.20% | ~442 |
 | I'd rather... Just... Sing! | 0.20% | ~442 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~221 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,817 (Ranked 57)  
+Progressed: 220,837 (Ranked 57)  
 Completed: 2 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 2 (0.00%) (Ranked 271)
 | 2023-08-31 | 219,794 | 2 |
 | 2023-09-01 | 220,165 | 2 |
 | 2023-09-02 | 220,547 | 2 |
-| 2023-09-03 | 220,817 | 2 |
+| 2023-09-03 | 220,837 | 2 |
 ## Awards
 Max (Character Customization): 189  (Ranked 278)  
 Sum: 259 (Ranked 353)  

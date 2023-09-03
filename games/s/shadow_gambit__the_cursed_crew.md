@@ -5,7 +5,7 @@ Rating: 4.80 (Ranked 83)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 71.00% | ~417 |
+| A New Journey | 72.00% | ~423 |
 | The Adventure Begins | 55.00% | ~323 |
 | Swabbie | 43.00% | ~253 |
 | With Great Power… | 40.00% | ~235 |
@@ -17,7 +17,7 @@ Rating: 4.80 (Ranked 83)
 | Pirates Assemble! | 22.00% | ~129 |
 | Buccaneer | 21.00% | ~123 |
 | Fishy Fish | 21.00% | ~123 |
-| Seadog | 15.00% | ~88 |
+| Seadog | 16.00% | ~94 |
 | Persistent Parasite | 14.00% | ~82 |
 | All Good Things | 13.00% | ~76 |
 | Privateer | 10.00% | ~59 |
@@ -27,7 +27,7 @@ Rating: 4.80 (Ranked 83)
 | Accursed Artifacts | 7.00% | ~41 |
 | Lyrical Longing | 7.00% | ~41 |
 | Corsair | 5.00% | ~29 |
-| Freebooter | 3.00% | ~18 |
+| Freebooter | 4.00% | ~24 |
 | Marauder | 3.00% | ~18 |
 | Fully Decked | 3.00% | ~18 |
 | Welcome Back Jester | 3.00% | ~18 |

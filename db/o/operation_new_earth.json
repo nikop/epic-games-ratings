@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1210,
+  "EOS_Progressed": 1212,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4276,6 +4276,11 @@
       "Time": "2023-09-03T13:09:06.4939181+00:00",
       "NumProgressed": 1210,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-03T16:06:07.2435008+00:00",
+      "NumProgressed": 1212,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4293,9 +4298,9 @@
       "ID": "ach_defeat_aliens_50",
       "SetID": "bm61c2p",
       "Name": "Exterminator",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 85
     },
     {
       "ID": "ach_defeat_players_10",
@@ -4391,7 +4396,7 @@
       "Name": "Facility Online",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -4455,7 +4460,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -4590,14 +4595,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1210,
+      "Progressed": 1212,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-03T15:05:58.5363538+00:00",
+  "LastChanged_Achievements": "2023-09-03T16:06:07.2435002+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:58:09.0134138+00:00",
-  "LastUpdate_Ratings": "2023-09-03T15:00:59.6140415+00:00",
-  "LastUpdate_Achievements": "2023-09-03T15:05:58.5364093+00:00"
+  "LastUpdate_Ratings": "2023-09-03T16:00:55.5706957+00:00",
+  "LastUpdate_Achievements": "2023-09-03T16:06:07.2435547+00:00"
 }

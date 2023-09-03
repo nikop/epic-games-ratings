@@ -8,9 +8,9 @@
 | Solved second case | 2.00% | ~4 |
 | Solved The Spider of Lanka 1st Case | 2.00% | ~3 |
 | Solved fourth case | 1.00% | ~2 |
+| Solved fifth case | 1.00% | ~2 |
 | Solved eleventh case | 0.50% | ~1 |
 | Solved third case | 0.50% | ~1 |
-| Solved fifth case | 0.50% | ~1 |
 | Solved sixth case | 0.50% | ~1 |
 | Solved seventh case | 0.50% | ~1 |
 | Solved eighth case | 0.50% | ~1 |

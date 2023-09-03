@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 92,
-  "Ranking_EOS_NewPlayers": 79,
+  "Ranking_EOS_NewPlayers": 80,
   "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -392,9 +392,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19334,
+  "EOS_Progressed": 19339,
   "EOS_Completed": 385,
-  "EOS_NewPlayers": 527,
+  "EOS_NewPlayers": 525,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.99,
   "EosHistory": [
@@ -14942,6 +14942,11 @@
       "Time": "2023-09-03T15:02:32.1547443+00:00",
       "NumProgressed": 19334,
       "NumCompleted": 385
+    },
+    {
+      "Time": "2023-09-03T16:03:18.7327096+00:00",
+      "NumProgressed": 19339,
+      "NumCompleted": 385
     }
   ],
   "TotalAchievements": 20,
@@ -14953,7 +14958,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 3287
+      "UsersEstimate": 3288
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -14977,7 +14982,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1740
+      "UsersEstimate": 1741
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -14985,7 +14990,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2320
+      "UsersEstimate": 2321
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -14993,7 +14998,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1933
+      "UsersEstimate": 1934
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -15009,7 +15014,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2320
+      "UsersEstimate": 2321
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -15017,7 +15022,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2900
+      "UsersEstimate": 2901
     },
     {
       "ID": "FOUND_ERIN",
@@ -15049,7 +15054,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2513
+      "UsersEstimate": 2514
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -15065,7 +15070,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2320
+      "UsersEstimate": 2321
     },
     {
       "ID": "INTRO_FINISHED",
@@ -15073,7 +15078,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 14694
+      "UsersEstimate": 14698
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -15081,7 +15086,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 5414
+      "UsersEstimate": 5415
     },
     {
       "ID": "NORTH_FINISHED",
@@ -15097,7 +15102,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1353
+      "UsersEstimate": 1354
     },
     {
       "ID": "WEST_FINISHED",
@@ -15105,22 +15110,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 3480
+      "UsersEstimate": 3481
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 19334,
+      "Progressed": 19339,
       "Completed": 385
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-01T02:18:43.1921629+00:00",
-  "LastChanged_Achievements": "2023-09-03T15:02:32.1547439+00:00",
+  "LastChanged_Achievements": "2023-09-03T16:03:18.7327091+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:45.6246443+00:00",
-  "LastUpdate_Ratings": "2023-09-03T15:00:26.3508824+00:00",
-  "LastUpdate_Achievements": "2023-09-03T15:02:32.1548212+00:00"
+  "LastUpdate_Ratings": "2023-09-03T16:00:22.3310538+00:00",
+  "LastUpdate_Achievements": "2023-09-03T16:03:18.73281+00:00"
 }

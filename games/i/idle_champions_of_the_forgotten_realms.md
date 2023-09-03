@@ -10,6 +10,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Intentions | 0.20% | ~454 |
 | The Cursed Farmer | 0.20% | ~454 |
 | The Mad Wizard | 0.20% | ~454 |
+| Legends and Lore | 0.20% | ~386 |
 | Maddening | 0.10% | ~227 |
 | Pros and CONs | 0.10% | ~227 |
 | Upholding the Law | 0.10% | ~227 |
@@ -522,12 +523,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Chaotic Hunt for The Last Breath | 0.10% | ~193 |
 | To Infinity's and Beyond | 0.10% | ~193 |
 | There's a Flying Snake in my Boot! | 0.10% | ~193 |
-| Legends and Lore | 0.10% | ~193 |
 | Unearthed Arcana | 0.10% | ~193 |
 | The End | 0.10% | ~193 |
 | All's Well That Ends Well | 0.10% | ~193 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226,820 (Ranked 54)  
+Progressed: 226,827 (Ranked 54)  
 Completed: 2,246 (0.99%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -663,7 +663,7 @@ Completed: 2,246 (0.99%) (Ranked 123)
 | 2023-08-31 | 226,380 | 2,235 |
 | 2023-09-01 | 226,545 | 2,242 |
 | 2023-09-02 | 226,722 | 2,245 |
-| 2023-09-03 | 226,820 | 2,246 |
+| 2023-09-03 | 226,827 | 2,246 |
 ## Awards
 Max (Diverse Characters): 5,221  (Ranked 67)  
 Sum: 31,374 (Ranked 38)  

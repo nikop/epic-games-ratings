@@ -505,17 +505,17 @@
       "ID": "ACHIEVEMENT_08",
       "SetID": "ap8553i",
       "Name": "One of the Many",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 45,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_09",
       "SetID": "ap8553i",
       "Name": "First Step into Darkness",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1030,8 +1030,8 @@
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-09-03T15:02:09.6786414+00:00",
+  "LastChanged_Achievements": "2023-09-03T16:02:25.3309742+00:00",
   "LastUpdate_AppInfo": "2023-08-30T18:57:06.538599+00:00",
-  "LastUpdate_Ratings": "2023-09-03T15:00:56.0213403+00:00",
-  "LastUpdate_Achievements": "2023-09-03T15:02:09.6787117+00:00"
+  "LastUpdate_Ratings": "2023-09-03T16:00:51.6109875+00:00",
+  "LastUpdate_Achievements": "2023-09-03T16:02:25.3310673+00:00"
 }

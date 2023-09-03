@@ -7,11 +7,11 @@ Rating: 3.52 (Ranked 984)
 | ---- | ---------- | ----- |
 | Blood Will Have Blood | 0.50% | ~9 |
 | Ne Plus Ultra | 0.50% | ~9 |
+| I Like My Stakes Rare! | 0.40% | ~7 |
 | ICU | 0.40% | ~7 |
 | Neighborhood Revitalization | 0.30% | ~5 |
 | Enter of Your Own Free Will | 0.30% | ~5 |
 | Welcome to the Neighborhood | 0.30% | ~5 |
-| I Like My Stakes Rare! | 0.30% | ~5 |
 | Radio Silence | 0.30% | ~5 |
 | Grounded | 0.30% | ~5 |
 | Fly Fisher | 0.30% | ~5 |

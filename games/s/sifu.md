@@ -26,7 +26,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Path of the Prospect | 2.00% | ~14,258 |
 | Rumble in the Hangar | 2.00% | ~14,258 |
 | Take damage to save time | 2.00% | ~14,258 |
-| Bloody Sport | 2.00% | ~444 |
+| Bloody Sport | 2.00% | ~445 |
 | Scareless | 1.00% | ~7,129 |
 | Dance of the Praying Mantis | 1.00% | ~7,129 |
 | Qi Gong: Mind | 1.00% | ~7,129 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,426 |
 | Warriors from the Mountain | 0.10% | ~713 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,924 (Ranked 20)  
+Progressed: 712,925 (Ranked 20)  
 Completed: 12,882 (1.81%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 12,882 (1.81%) (Ranked 99)
 | 2023-08-31 | 712,853 | 12,878 |
 | 2023-09-01 | 712,886 | 12,878 |
 | 2023-09-02 | 712,912 | 12,878 |
-| 2023-09-03 | 712,924 | 12,882 |
+| 2023-09-03 | 712,925 | 12,882 |
 ## Awards
 Max (Great Boss Battles): 6,424  (Ranked 53)  
 Sum: 11,046 (Ranked 80)  

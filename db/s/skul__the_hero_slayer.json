@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 254,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -4595,9 +4595,9 @@
       "ID": "FakeGoddessGone_2",
       "SetID": "97dk767",
       "Name": "Deadly Power",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 90,
-      "UsersEstimate": 1305
+      "UsersEstimate": 1386
     },
     {
       "ID": "FirstHeroLastBattle",
@@ -4739,8 +4739,8 @@
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-08-23T17:02:24.1541742+00:00",
-  "LastChanged_Achievements": "2023-09-03T15:03:36.7283255+00:00",
+  "LastChanged_Achievements": "2023-09-03T16:03:53.8678996+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:03.9213001+00:00",
-  "LastUpdate_Ratings": "2023-09-03T14:58:40.0931045+00:00",
-  "LastUpdate_Achievements": "2023-09-03T15:03:36.7283549+00:00"
+  "LastUpdate_Ratings": "2023-09-03T15:58:34.6526231+00:00",
+  "LastUpdate_Achievements": "2023-09-03T16:03:53.867943+00:00"
 }

@@ -11,12 +11,12 @@
 | They’re Watching | 38.00% | ~3 |
 | Thanksgiving Day | 25.00% | ~2 |
 | A Cautious Man Is Worth Two of His Kind | 25.00% | ~2 |
+| Art Connoisseur | 25.00% | ~2 |
 | The Witch’s Haunt | 13.00% | ~1 |
 | Trapped in Time | 13.00% | ~1 |
 | A Cabin Boy with Potential | 13.00% | ~1 |
 | Don’t Touch the Rum! | 13.00% | ~1 |
 | Oh... You didn't think to bring it? | 13.00% | ~1 |
-| Art Connoisseur | 13.00% | ~1 |
 | Survivor | 13.00% | ~1 |
 | Egyptologist | 13.00% | ~1 |
 | Master of Riddles | 13.00% | ~1 |

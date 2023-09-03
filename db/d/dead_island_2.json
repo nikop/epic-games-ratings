@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 16,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -4200,9 +4200,9 @@
       "Count": 336
     }
   ],
-  "EOS_Progressed": 672568,
+  "EOS_Progressed": 672620,
   "EOS_Completed": 2106,
-  "EOS_NewPlayers": 5706,
+  "EOS_NewPlayers": 5701,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -19380,6 +19380,11 @@
       "Time": "2023-09-03T15:05:14.8196257+00:00",
       "NumProgressed": 672568,
       "NumCompleted": 2106
+    },
+    {
+      "Time": "2023-09-03T16:05:22.9790529+00:00",
+      "NumProgressed": 672620,
+      "NumCompleted": 2106
     }
   ],
   "TotalAchievements": 45,
@@ -19455,7 +19460,7 @@
       "Name": "Break A Leg",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6053
+      "UsersEstimate": 6054
     },
     {
       "ID": "ach_contender",
@@ -19487,7 +19492,7 @@
       "Name": "Slayer Squad",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4035
+      "UsersEstimate": 4036
     },
     {
       "ID": "ach_explorer",
@@ -19607,7 +19612,7 @@
       "Name": "Ooh, Shiny!",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4035
+      "UsersEstimate": 4036
     },
     {
       "ID": "ach_magnum_opus",
@@ -19639,7 +19644,7 @@
       "Name": "I Am the Resurrection",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4035
+      "UsersEstimate": 4036
     },
     {
       "ID": "ach_salvation",
@@ -19703,7 +19708,7 @@
       "Name": "Our True Nature",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 4035
+      "UsersEstimate": 4036
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -19750,7 +19755,7 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 672568,
+      "Progressed": 672620,
       "Completed": 2106
     }
   ],
@@ -19758,8 +19763,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-03T11:58:25.140981+00:00",
-  "LastChanged_Achievements": "2023-09-03T15:05:14.8196253+00:00",
+  "LastChanged_Achievements": "2023-09-03T16:05:22.9790524+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:04.7021628+00:00",
-  "LastUpdate_Ratings": "2023-09-03T14:58:40.7073405+00:00",
-  "LastUpdate_Achievements": "2023-09-03T15:05:14.8197236+00:00"
+  "LastUpdate_Ratings": "2023-09-03T15:58:35.2955018+00:00",
+  "LastUpdate_Achievements": "2023-09-03T16:05:22.979164+00:00"
 }
