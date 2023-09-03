@@ -36,7 +36,7 @@
 | 34 | [Satisfactory](games/s/satisfactory.md) | 11,293 | 4.88 | 19 |
 | 35 | [SnowRunner](games/s/snowrunner.md) | 10,258 | 4.76 | 117 |
 | 36 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 10,095 | 4.74 | 146 |
-| 37 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,925 | 4.61 | 369 |
+| 37 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,937 | 4.61 | 369 |
 | 38 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,895 | 4.78 | 102 |
 | 39 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 8,969 | 4.58 | 430 |
 | 40 | [Control](games/c/control.md) | 8,476 | 4.60 | 394 |
@@ -91,7 +91,7 @@
 | 89 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3,352 | 3.98 | 948 |
 | 90 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,344 | 4.68 | 241 |
 | 91 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,316 | 4.76 | 117 |
-| 92 | [Hades](games/h/hades.md) | 3,241 | 4.92 | 4 |
+| 92 | [Hades](games/h/hades.md) | 3,245 | 4.92 | 4 |
 | 93 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,235 | 4.57 | 454 |
 | 94 | [Trackmania](games/t/trackmania.md) | 3,226 | 4.67 | 259 |
 | 95 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,723 | 4.51 | 548 |
@@ -126,8 +126,8 @@
 | 123 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 1,456 | 4.78 | 102 |
 | 125 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,436 | 4.87 | 25 |
 | 126 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,425 | 4.53 | 520 |
-| 127 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,410 | 4.86 | 31 |
-| 128 | [Conan Exiles](games/c/conan_exiles.md) | 1,409 | 4.54 | 504 |
+| 127 | [Conan Exiles](games/c/conan_exiles.md) | 1,412 | 4.54 | 504 |
+| 128 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,410 | 4.86 | 31 |
 | 129 | [Remnant 2](games/r/remnant_2.md) | 1,359 | 4.76 | 117 |
 | 130 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,321 | 4.54 | 504 |
 | 131 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,318 | 4.70 | 199 |
@@ -310,9 +310,9 @@
 | 308 | [Timberborn](games/t/timberborn.md) | 135 | 4.72 | 174 |
 | 309 | [while True: learn()](games/w/while_true__learn().md) | 134 | 4.51 | 548 |
 | 310 | [Alien: Isolation](games/a/alien__isolation.md) | 130 | 4.61 | 369 |
+| 311 | [First Class Trouble](games/f/first_class_trouble.md) | 127 | 4.49 | 583 |
 | 311 | [Sonic Origins](games/s/sonic_origins.md) | 127 | 4.58 | 430 |
-| 312 | [First Class Trouble](games/f/first_class_trouble.md) | 126 | 4.49 | 583 |
-| 312 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 126 | 4.29 | 804 |
+| 313 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 126 | 4.29 | 804 |
 | 314 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 125 | 4.52 | 532 |
 | 315 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 124 | 4.72 | 174 |
 | 316 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 123 | 4.20 | 866 |

@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
-| 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.62% |
+| 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 51.85% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.90% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 35.11% |
 | 5 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 33.33% |
@@ -32,7 +32,7 @@
 | 30 | [Sonic Origins](games/s/sonic_origins.md) | 9.13% |
 | 31 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 9.09% |
 | 31 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
-| 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.97% |
+| 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.96% |
 | 34 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.89% |
 | 35 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.61% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.81% |
@@ -102,7 +102,7 @@
 | 100 | [Frogun](games/f/frogun.md) | 1.80% |
 | 101 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.72% |
 | 102 | [Somerville](games/s/somerville.md) | 1.66% |
-| 103 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.64% |
+| 103 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.63% |
 | 104 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.56% |
 | 104 | [Iron Danger](games/i/iron_danger.md) | 1.56% |
 | 106 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.55% |

@@ -4,7 +4,7 @@
 | 1 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 0 | 516 |
 | 3 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 4.93 | 0 | 516 |
 | 4 | [Celeste](games/c/celeste.md) | 4.92 | 1,585 | 119 |
-| 4 | [Hades](games/h/hades.md) | 4.92 | 3,241 | 92 |
+| 4 | [Hades](games/h/hades.md) | 4.92 | 3,245 | 92 |
 | 6 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.91 | 0 | 516 |
 | 6 | [Rain World](games/r/rain_world.md) | 4.91 | 0 | 516 |
 | 8 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 0 | 516 |
@@ -37,7 +37,7 @@
 | 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.86 | 12,410 | 30 |
 | 31 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 97 | 341 |
 | 31 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 44 | 419 |
-| 31 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,410 | 127 |
+| 31 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,410 | 128 |
 | 31 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.86 | 0 | 516 |
 | 31 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 498 | 199 |
 | 31 | [WarmSnow](games/w/warmsnow.md) | 4.86 | 0 | 516 |
@@ -386,7 +386,7 @@
 | 369 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 683 | 171 |
 | 369 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 105 | 332 |
 | 369 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 493 | 200 |
-| 369 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 9,925 | 37 |
+| 369 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 9,937 | 37 |
 | 369 | [RiME](games/r/rime.md) | 4.61 | 0 | 516 |
 | 369 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,074 | 138 |
 | 369 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 281 | 243 |
@@ -503,7 +503,7 @@
 | 492 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 343 | 227 |
 | 492 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.55 | 79 | 363 |
 | 492 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,252 | 134 |
-| 504 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,409 | 128 |
+| 504 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,412 | 127 |
 | 504 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 5,867 | 59 |
 | 504 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 35 | 441 |
 | 504 | [Far Cry](games/f/far_cry.md) | 4.54 | 0 | 516 |
@@ -590,7 +590,7 @@
 | 583 | [Duskers](games/d/duskers.md) | 4.49 | 0 | 516 |
 | 583 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.49 | 0 | 516 |
 | 583 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 273 | 247 |
-| 583 | [First Class Trouble](games/f/first_class_trouble.md) | 4.49 | 126 | 312 |
+| 583 | [First Class Trouble](games/f/first_class_trouble.md) | 4.49 | 127 | 311 |
 | 583 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 250 | 254 |
 | 583 | [Maneater](games/m/maneater.md) | 4.49 | 13,645 | 25 |
 | 583 | [Mars Horizon](games/m/mars_horizon.md) | 4.49 | 0 | 516 |
@@ -812,7 +812,7 @@
 | 804 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 44 | 419 |
 | 804 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.29 | 0 | 516 |
 | 804 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 142 | 305 |
-| 804 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 126 | 312 |
+| 804 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 126 | 313 |
 | 814 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.28 | 0 | 516 |
 | 814 | [ELEX II](games/e/elex_ii.md) | 4.28 | 0 | 516 |
 | 814 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.28 | 3,744 | 83 |
@@ -976,9 +976,9 @@
 | 973 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.79 | 0 | 516 |
 | 975 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,062 | 140 |
 | 975 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.78 | 75 | 370 |
-| 977 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 3.77 | 0 | 516 |
 | 977 | [To The Rescue](games/t/to_the_rescue.md) | 3.77 | 0 | 516 |
 | 977 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.77 | 0 | 516 |
+| 979 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 3.73 | 0 | 516 |
 | 980 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.72 | 0 | 516 |
 | 981 | [Chainmonsters](games/c/chainmonsters.md) | 3.68 | 0 | 516 |
 | 982 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.60 | 0 | 516 |
