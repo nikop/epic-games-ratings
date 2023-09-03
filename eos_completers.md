@@ -3,7 +3,7 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 51.85% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.90% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 36.57% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 37.31% |
 | 5 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 33.33% |
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.23% |
 | 7 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
@@ -112,7 +112,7 @@
 | 109 | [Ten Dates](games/t/ten_dates.md) | 1.44% |
 | 111 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.43% |
 | 112 | [Poosh XL](games/p/poosh_xl.md) | 1.39% |
-| 113 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.37% |
+| 113 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.35% |
 | 114 | [Late Shift](games/l/late_shift.md) | 1.25% |
 | 115 | [Infindustry](games/i/infindustry.md) | 1.23% |
 | 116 | [Chorus](games/c/chorus.md) | 1.12% |
@@ -147,8 +147,8 @@
 | 145 | [Potion Permit](games/p/potion_permit.md) | 0.58% |
 | 146 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.57% |
 | 147 | [Grindstone](games/g/grindstone.md) | 0.56% |
+| 148 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.55% |
 | 148 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
-| 149 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.54% |
 | 150 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.53% |
 | 151 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.52% |
 | 151 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |

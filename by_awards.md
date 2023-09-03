@@ -49,7 +49,7 @@
 | 47 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,418 | 4.71 | 190 |
 | 48 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 7,362 | 4.68 | 241 |
 | 49 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 7,101 | 4.70 | 199 |
-| 50 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 7,014 | 4.74 | 146 |
+| 50 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 7,018 | 4.74 | 146 |
 | 51 | [DEATH STRANDING](games/d/death_stranding.md) | 6,897 | 4.77 | 110 |
 | 52 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 682 |
 | 53 | [Sifu](games/s/sifu.md) | 6,424 | 4.82 | 65 |
@@ -512,6 +512,7 @@
 | 510 | [Figment](games/f/figment.md) | 20 | 4.46 | 628 |
 | 510 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 20 | 4.03 | 937 |
 | 510 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 20 | 4.14 | 906 |
+| 510 | [Mortal Shell](games/m/mortal_shell.md) | 20 | 4.28 | 814 |
 | 510 | [Riverbond](games/r/riverbond.md) | 20 | 4.47 | 614 |
 | 510 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 20 | 4.52 | 533 |
 | 510 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 20 | 4.63 | 333 |
