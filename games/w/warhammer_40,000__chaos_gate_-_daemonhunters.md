@@ -19,10 +19,10 @@ Number of Ratings: 371  (23.09.2022)
 | Friendly Fire | 2.00% | ~64 |
 | The Emperor Protects | 2.00% | ~64 |
 | Nemesis Master | 2.00% | ~64 |
+| Gunmaster | 2.00% | ~64 |
 | A Foul Creche | 2.00% | ~64 |
 | Hold Your Ground | 1.00% | ~32 |
 | Corruption Cleanser | 1.00% | ~32 |
-| Gunmaster | 1.00% | ~32 |
 | Just a Scratch | 1.00% | ~32 |
 | Execution Force | 1.00% | ~32 |
 | Hive Exterminator | 1.00% | ~32 |

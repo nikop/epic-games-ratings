@@ -6,9 +6,9 @@
   "Ranking_Popularity": 516,
   "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 112,
-  "Ranking_EOS_Completed": 181,
+  "Ranking_EOS_Completed": 180,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
     "PcReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -152,9 +152,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17747,
+  "EOS_Progressed": 17749,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 195,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -11332,6 +11332,11 @@
       "Time": "2023-09-03T14:05:26.8628327+00:00",
       "NumProgressed": 17747,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-09-03T15:05:29.3733788+00:00",
+      "NumProgressed": 17749,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 14,
@@ -11343,7 +11348,7 @@
       "Name": "Across The Border",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 14020
+      "UsersEstimate": 14022
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -11399,7 +11404,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 9406
+      "UsersEstimate": 9407
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -11423,7 +11428,7 @@
       "Name": "Look at Me Now",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 4969
+      "UsersEstimate": 4970
     },
     {
       "ID": "ACH_THE_FALL",
@@ -11431,7 +11436,7 @@
       "Name": "The Fall",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 3194
+      "UsersEstimate": 3195
     },
     {
       "ID": "ACH_TIME_OF_OUR_LIFE",
@@ -11454,15 +11459,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 17747,
+      "Progressed": 17749,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-08-16T03:57:34.8125865+00:00",
-  "LastChanged_Achievements": "2023-09-03T14:05:26.8628322+00:00",
+  "LastChanged_Achievements": "2023-09-03T15:05:29.3733785+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:58:03.3291776+00:00",
-  "LastUpdate_Ratings": "2023-09-03T14:00:07.6693222+00:00",
-  "LastUpdate_Achievements": "2023-09-03T14:05:26.8629226+00:00"
+  "LastUpdate_Ratings": "2023-09-03T15:00:53.0465276+00:00",
+  "LastUpdate_Achievements": "2023-09-03T15:05:29.3734379+00:00"
 }

@@ -32,6 +32,7 @@
 | Biwa Be Mine | 6.00% | ~2 |
 | Ice Fishing | 6.00% | ~2 |
 | Stego Stooge | 6.00% | ~2 |
+| T-Rex Wrangler | 6.00% | ~2 |
 | Gumdum Robot, I Choose You! | 6.00% | ~2 |
 | Bee Professor | 3.00% | ~1 |
 | Grasshopper Guru | 3.00% | ~1 |
@@ -41,7 +42,6 @@
 | Did Someone Order Oyakodon? | 3.00% | ~1 |
 | Did Someone Order Pork Curry? | 3.00% | ~1 |
 | Brachio Battler | 3.00% | ~1 |
-| T-Rex Wrangler | 3.00% | ~1 |
 | Asso Billboard Inspector | 3.00% | ~1 |
 | Asso Stair Climber | 3.00% | ~1 |
 | My Summer Vacation with the Professor | 0.00% | ~0 |

@@ -78,6 +78,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Acropolis | 1.00% | ~138 |
 | Temple of Solomon | 1.00% | ~138 |
 | Mausoleum | 1.00% | ~138 |
+| Pantheon | 1.00% | ~138 |
 | Via Recta Souk | 1.00% | ~138 |
 | Greece | 1.00% | ~138 |
 | Persian Paganism | 1.00% | ~138 |
@@ -91,7 +92,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Traders | 0.90% | ~124 |
 | Hittite Iron | 0.90% | ~124 |
 | Hagia Sophia | 0.90% | ~124 |
-| Pantheon | 0.90% | ~124 |
 | Learn to Play 3 | 0.90% | ~124 |
 | Power to the People | 0.90% | ~124 |
 | Economic Reform | 0.90% | ~124 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,754 (Ranked 120)  
+Progressed: 13,756 (Ranked 120)  
 Completed: 5 (0.04%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -439,7 +439,7 @@ Completed: 5 (0.04%) (Ranked 240)
 | 2023-08-31 | 13,711 | 5 |
 | 2023-09-01 | 13,732 | 5 |
 | 2023-09-02 | 13,749 | 5 |
-| 2023-09-03 | 13,754 | 5 |
+| 2023-09-03 | 13,756 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 263)  
 Sum: 1,802 (Ranked 207)  

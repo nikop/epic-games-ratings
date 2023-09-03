@@ -12,8 +12,8 @@ Number of Ratings: 94  (23.09.2022)
 | Nature or Nurture | 38.00% | ~53 |
 | Forgotten Memories | 38.00% | ~53 |
 | Cogs in the Machine | 35.00% | ~49 |
+| Green Cube Killer | 12.00% | ~17 |
 | Mission Success | 12.00% | ~17 |
-| Green Cube Killer | 11.00% | ~15 |
 | There's No Place Like Home | 9.00% | ~13 |
 | Descendants | 8.00% | ~11 |
 | Path to Salvation | 8.00% | ~11 |

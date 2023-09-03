@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 207,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1665,9 +1665,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13754,
+  "EOS_Progressed": 13756,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10890,6 +10890,11 @@
       "Time": "2023-09-03T13:06:48.8493135+00:00",
       "NumProgressed": 13754,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-03T15:03:52.9418204+00:00",
+      "NumProgressed": 13756,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -12355,9 +12360,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_PANTHEON",
       "SetID": "9201eeb",
       "Name": "Pantheon",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 138
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_PYRAMIDS",
@@ -13268,21 +13273,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13754,
+      "Progressed": 13756,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13754,
+      "Progressed": 13756,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-03T09:58:27.4648415+00:00",
-  "LastChanged_Achievements": "2023-09-03T14:04:14.8481286+00:00",
+  "LastChanged_Achievements": "2023-09-03T15:03:52.94182+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:29.3167237+00:00",
-  "LastUpdate_Ratings": "2023-09-03T13:57:57.3140887+00:00",
-  "LastUpdate_Achievements": "2023-09-03T14:04:14.8491328+00:00"
+  "LastUpdate_Ratings": "2023-09-03T14:58:09.5615654+00:00",
+  "LastUpdate_Achievements": "2023-09-03T15:03:52.9425612+00:00"
 }

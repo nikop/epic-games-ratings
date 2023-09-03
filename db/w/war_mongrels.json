@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
     "PcReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -1697,9 +1697,9 @@
       "ID": "ACH_FIN_CH04",
       "SetID": "1j25agn",
       "Name": "Heroism",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 179
     },
     {
       "ID": "ACH_FIN_CH05",
@@ -1929,8 +1929,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-08-26T19:00:27.3574787+00:00",
-  "LastChanged_Achievements": "2023-09-03T14:04:56.8758591+00:00",
+  "LastChanged_Achievements": "2023-09-03T15:04:43.7487686+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:41.1939092+00:00",
-  "LastUpdate_Ratings": "2023-09-03T13:57:13.559589+00:00",
-  "LastUpdate_Achievements": "2023-09-03T14:04:56.8759187+00:00"
+  "LastUpdate_Ratings": "2023-09-03T14:57:14.9974546+00:00",
+  "LastUpdate_Achievements": "2023-09-03T15:04:43.748817+00:00"
 }

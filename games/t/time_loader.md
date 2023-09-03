@@ -18,7 +18,7 @@
 | Harpoon | 22.00% | ~26 |
 | Act 3 | 22.00% | ~26 |
 | Cassette | 20.00% | ~24 |
-| Here we go again | 19.00% | ~23 |
+| Here we go again | 20.00% | ~24 |
 | Flyer | 18.00% | ~21 |
 | It’s in the Vault | 15.00% | ~18 |
 | Dr. Antivirus | 15.00% | ~18 |
@@ -35,7 +35,7 @@
 | Secret ending | 8.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 119 (Ranked 330)  
-Completed: 8 (6.72%) (Ranked 41)  
+Completed: 9 (7.56%) (Ranked 37)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -61,7 +61,7 @@ Completed: 8 (6.72%) (Ranked 41)
 | 2023-08-05 | 116 | 8 |
 | 2023-08-08 | 117 | 8 |
 | 2023-08-14 | 118 | 8 |
-| 2023-09-03 | 119 | 8 |
+| 2023-09-03 | 119 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

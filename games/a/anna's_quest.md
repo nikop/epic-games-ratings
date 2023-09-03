@@ -16,14 +16,14 @@
 | Roostwig has entered the building | 49.00% | ~18 |
 | Mystery solved | 46.00% | ~17 |
 | Game Over! | 46.00% | ~17 |
+| A very special drink | 46.00% | ~17 |
 | Fussy eater | 46.00% | ~17 |
 | NOW GO AWAY! | 46.00% | ~17 |
 | Sorry Grandpa | 46.00% | ~17 |
-| A very special drink | 43.00% | ~16 |
 | Far away from home | 43.00% | ~16 |
 | Little genius | 43.00% | ~16 |
+| Show me your true self | 41.00% | ~15 |
 | Close the deal | 38.00% | ~14 |
-| Show me your true self | 38.00% | ~14 |
 | Pain in the hands | 38.00% | ~14 |
 | Mischief maker | 38.00% | ~14 |
 | GG | 35.00% | ~13 |
@@ -37,8 +37,8 @@
 | Singstar | 30.00% | ~11 |
 | Kill it! KILL IT! | 30.00% | ~11 |
 | Turn the last page | 27.00% | ~10 |
+| Bahahahaha... | 27.00% | ~10 |
 | Guilty conscience | 27.00% | ~10 |
-| Bahahahaha... | 24.00% | ~9 |
 | Cameodalic | 22.00% | ~8 |
 | Clever reference #451 | 19.00% | ~7 |
 | What a mess | 16.00% | ~6 |

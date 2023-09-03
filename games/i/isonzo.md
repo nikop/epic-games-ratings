@@ -6,13 +6,13 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Peak Performance | 55.00% | ~3,692 |
-| Tutti Eroi! | 55.00% | ~3,692 |
+| Peak Performance | 55.00% | ~3,693 |
+| Tutti Eroi! | 55.00% | ~3,693 |
 | You Shall Not Pass | 53.00% | ~3,558 |
-| Avanti Savoia! | 48.00% | ~3,222 |
+| Avanti Savoia! | 48.00% | ~3,223 |
 | Mamma Mia! | 38.00% | ~2,551 |
 | Conrad von Hotzensocks | 36.00% | ~2,417 |
-| Gabriele D'Annunzio | 34.00% | ~2,282 |
+| Gabriele D'Annunzio | 33.00% | ~2,216 |
 | Silver Lining | 30.00% | ~2,014 |
 | Aurelio Baruzzi | 24.00% | ~1,611 |
 | Decimation | 22.00% | ~1,477 |
@@ -20,8 +20,8 @@ Number of Ratings: 98  (23.09.2022)
 | Veni Vidi Vici | 22.00% | ~1,477 |
 | The Italian Job | 21.00% | ~1,410 |
 | Insubordination | 20.00% | ~1,343 |
-| Ragazzi del '99 | 18.00% | ~1,208 |
-| The Lion of the Isonzo | 18.00% | ~1,208 |
+| Ragazzi del '99 | 18.00% | ~1,209 |
+| The Lion of the Isonzo | 18.00% | ~1,209 |
 | Luigi Cadorna | 15.00% | ~1,007 |
 | Dirty Dozen | 14.00% | ~940 |
 | Uomo Universale | 14.00% | ~940 |
@@ -30,7 +30,7 @@ Number of Ratings: 98  (23.09.2022)
 | Shaken, Not Stirred | 13.00% | ~873 |
 | Thus With A Kiss | 13.00% | ~873 |
 | The Devil's Paintbrush | 12.00% | ~806 |
-| Dante's Inferno | 11.00% | ~738 |
+| Dante's Inferno | 11.00% | ~739 |
 | I Have the High Ground | 10.00% | ~671 |
 | Millenial | 10.00% | ~671 |
 | The Show Must Go On | 9.00% | ~604 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~27 |
 | Can I Go Home Now? | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,713 (Ranked 138)  
+Progressed: 6,714 (Ranked 138)  
 Completed: 8 (0.12%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,11 +182,11 @@ Completed: 8 (0.12%) (Ranked 210)
 | 2023-08-31 | 6,703 | 8 |
 | 2023-09-01 | 6,708 | 8 |
 | 2023-09-02 | 6,711 | 8 |
-| 2023-09-03 | 6,713 | 8 |
+| 2023-09-03 | 6,714 | 8 |
 ## Awards
 Max (Highly Recommended): 36  (Ranked 433)  
-Sum: 271 (Ranked 350)  
-Diff (max vs sum): 83  
+Sum: 271 (Ranked 351)  
+Diff (max vs sum): 82  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 36 |

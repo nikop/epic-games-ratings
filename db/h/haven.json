@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1724,9 +1724,9 @@
       "ID": "20",
       "SetID": "n50no0",
       "Name": "Don\u0027t look back",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 70,
-      "UsersEstimate": 170
+      "UsersEstimate": 184
     },
     {
       "ID": "21",
@@ -1876,8 +1876,8 @@
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-08-10T12:01:06.704766+00:00",
-  "LastChanged_Achievements": "2023-09-03T14:06:49.4483435+00:00",
+  "LastChanged_Achievements": "2023-09-03T15:07:09.4700726+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:16.160732+00:00",
-  "LastUpdate_Ratings": "2023-09-03T13:59:14.3834455+00:00",
-  "LastUpdate_Achievements": "2023-09-03T14:06:49.448375+00:00"
+  "LastUpdate_Ratings": "2023-09-03T14:59:44.8166762+00:00",
+  "LastUpdate_Achievements": "2023-09-03T15:07:09.4700959+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 300,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-02-15T15:00:00+00:00",
     "PcReleaseDate": "2022-08-30T15:00:00+00:00",
@@ -416,9 +416,9 @@
       "ID": "Trophy_39",
       "SetID": "cf5h6dl",
       "Name": "T-Rex Wrangler",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Trophy_40",
@@ -489,8 +489,8 @@
   "FirstSeenRating": "2023-04-14T13:04:33.1915334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:56.3452226+00:00",
   "LastChanged": "2023-04-14T13:04:33.1915334+00:00",
-  "LastChanged_Achievements": "2023-09-03T14:06:51.3259307+00:00",
+  "LastChanged_Achievements": "2023-09-03T15:07:11.7523041+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:25.1515466+00:00",
-  "LastUpdate_Ratings": "2023-09-03T13:59:49.9240336+00:00",
-  "LastUpdate_Achievements": "2023-09-03T14:06:51.3259713+00:00"
+  "LastUpdate_Ratings": "2023-09-03T15:00:30.873264+00:00",
+  "LastUpdate_Achievements": "2023-09-03T15:07:11.7523364+00:00"
 }

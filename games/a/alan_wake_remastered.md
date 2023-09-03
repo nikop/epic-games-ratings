@@ -6,49 +6,49 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 38.00% | ~23,648 |
-| Let There Be Light | 31.00% | ~19,292 |
-| Float Like a Butterfly | 30.00% | ~18,670 |
-| Nordic Walking | 24.00% | ~14,936 |
-| Bright Falls' Finest | 24.00% | ~14,936 |
-| Under a Thin Layer of Skin | 21.00% | ~13,069 |
-| Park Ranger | 17.00% | ~10,579 |
-| Paging Mr. Wake | 17.00% | ~10,579 |
-| Back! Back, I Say! | 16.00% | ~9,957 |
-| Finders Keepers | 16.00% | ~9,957 |
-| Sound and Fury | 15.00% | ~9,335 |
-| Damn Good Cup of Coffee | 15.00% | ~9,335 |
-| Wheels Within Wheels | 14.00% | ~8,712 |
-| They're Heeeeeere! | 14.00% | ~8,712 |
-| Missed by a Mile | 14.00% | ~8,712 |
-| Iron Horse | 13.00% | ~8,090 |
-| The Six-Gun Scribe | 13.00% | ~8,090 |
-| Collateral Carnage | 13.00% | ~8,090 |
-| Come One, Come All | 13.00% | ~8,090 |
-| Heavy Metal | 12.00% | ~7,468 |
-| Perchance to Dream | 12.00% | ~7,468 |
+| Follow the Light | 38.00% | ~23,651 |
+| Let There Be Light | 31.00% | ~19,294 |
+| Float Like a Butterfly | 30.00% | ~18,672 |
+| Nordic Walking | 24.00% | ~14,937 |
+| Bright Falls' Finest | 24.00% | ~14,937 |
+| Under a Thin Layer of Skin | 21.00% | ~13,070 |
+| Park Ranger | 17.00% | ~10,581 |
+| Paging Mr. Wake | 17.00% | ~10,581 |
+| Back! Back, I Say! | 16.00% | ~9,958 |
+| Finders Keepers | 16.00% | ~9,958 |
+| Sound and Fury | 15.00% | ~9,336 |
+| Damn Good Cup of Coffee | 15.00% | ~9,336 |
+| Wheels Within Wheels | 14.00% | ~8,713 |
+| They're Heeeeeere! | 14.00% | ~8,713 |
+| Missed by a Mile | 14.00% | ~8,713 |
+| Iron Horse | 13.00% | ~8,091 |
+| The Six-Gun Scribe | 13.00% | ~8,091 |
+| Collateral Carnage | 13.00% | ~8,091 |
+| Come One, Come All | 13.00% | ~8,091 |
+| Heavy Metal | 12.00% | ~7,469 |
+| Perchance to Dream | 12.00% | ~7,469 |
 | Gatekeeper | 11.00% | ~6,846 |
 | It's Not Just a Typewriter Brand | 11.00% | ~6,846 |
 | Thunder and Lightning | 11.00% | ~6,846 |
 | Two For the Price of One | 11.00% | ~6,846 |
-| The Lady of the Light | 10.00% | ~6,223 |
-| Energized! | 10.00% | ~6,223 |
-| What Light Through Yonder Window | 9.00% | ~5,601 |
-| Right of Way | 9.00% | ~5,601 |
+| The Lady of the Light | 10.00% | ~6,224 |
+| Energized! | 10.00% | ~6,224 |
+| What Light Through Yonder Window | 9.00% | ~5,602 |
+| Right of Way | 9.00% | ~5,602 |
 | Tornado Wrangler | 8.00% | ~4,979 |
-| A Friend in Need | 8.00% | ~2,056 |
-| Departure | 7.00% | ~4,356 |
+| A Friend in Need | 8.00% | ~2,057 |
+| Departure | 7.00% | ~4,357 |
 | Drink 'Em Both Up | 6.00% | ~3,734 |
 | Hardboiled Writer | 6.00% | ~3,734 |
 | A Friend Indeed | 6.00% | ~1,542 |
 | Children of the Elder God | 5.00% | ~3,112 |
 | Ding! | 5.00% | ~1,285 |
-| Boob Tube | 4.00% | ~2,489 |
-| If It Flies, It Burns | 4.00% | ~2,489 |
-| KBF-FM | 4.00% | ~2,489 |
+| Boob Tube | 4.00% | ~2,490 |
+| If It Flies, It Burns | 4.00% | ~2,490 |
+| KBF-FM | 4.00% | ~2,490 |
+| Heartbreaker | 4.00% | ~1,028 |
 | Carny | 3.00% | ~1,867 |
 | Kill Your Darlings | 3.00% | ~771 |
-| Heartbreaker | 3.00% | ~771 |
 | Medical Opinions | 2.00% | ~1,245 |
 | Taken Season | 2.00% | ~1,245 |
 | An Idyllic Small Town | 2.00% | ~1,245 |
@@ -57,8 +57,8 @@ Number of Ratings: 524  (23.09.2022)
 | Go Gentle Into That Good Light | 1.00% | ~257 |
 | Words Will Never Harm You | 0.70% | ~180 |
 | Cardboard Companions | 0.60% | ~154 |
-| Fast and Furious | 0.50% | ~128 |
-| Creative Space | 0.50% | ~128 |
+| Fast and Furious | 0.50% | ~129 |
+| Creative Space | 0.50% | ~129 |
 | Run-On Sentence | 0.40% | ~103 |
 | License Revoked | 0.40% | ~103 |
 | Whirlwind | 0.40% | ~103 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~62 |
 | No Punctuation | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,232 (Ranked 87)  
+Progressed: 62,239 (Ranked 87)  
 Completed: 65 (0.10%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 65 (0.10%) (Ranked 218)
 | 2023-08-31 | 62,064 | 65 |
 | 2023-09-01 | 62,124 | 65 |
 | 2023-09-02 | 62,195 | 65 |
-| 2023-09-03 | 62,232 | 65 |
+| 2023-09-03 | 62,239 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

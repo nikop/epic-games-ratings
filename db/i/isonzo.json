@@ -4,11 +4,11 @@
   "ProductSlug": "isonzo",
   "Ranking_Rating": 474,
   "Ranking_Popularity": 433,
-  "Ranking_PopularitySum": 350,
+  "Ranking_PopularitySum": 351,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -808,9 +808,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6713,
+  "EOS_Progressed": 6714,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -4838,6 +4838,11 @@
       "Time": "2023-09-03T08:04:49.0674074+00:00",
       "NumProgressed": 6713,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-03T15:04:48.139295+00:00",
+      "NumProgressed": 6714,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -4865,7 +4870,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 3222
+      "UsersEstimate": 3223
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -4905,7 +4910,7 @@
       "Name": "Dante\u0027s Inferno",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "ISONZO_ACH_DECIMATION",
@@ -4959,9 +4964,9 @@
       "ID": "ISONZO_ACH_GABRIELE_DANNUNZIO",
       "SetID": "akchbl3",
       "Name": "Gabriele D\u0027Annunzio",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 2282
+      "UsersEstimate": 2216
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -5041,7 +5046,7 @@
       "Name": "Peak Performance",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3692
+      "UsersEstimate": 3693
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -5057,7 +5062,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1208
+      "UsersEstimate": 1209
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -5145,7 +5150,7 @@
       "Name": "The Lion of the Isonzo",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1208
+      "UsersEstimate": 1209
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -5177,7 +5182,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3692
+      "UsersEstimate": 3693
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -5208,7 +5213,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6713,
+      "Progressed": 6714,
       "Completed": 8
     }
   ],
@@ -5216,8 +5221,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-09-02T12:59:05.1112111+00:00",
-  "LastChanged_Achievements": "2023-09-03T14:05:00.5693367+00:00",
+  "LastChanged_Achievements": "2023-09-03T15:04:48.1392947+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:31.6871917+00:00",
-  "LastUpdate_Ratings": "2023-09-03T13:57:38.6103313+00:00",
-  "LastUpdate_Achievements": "2023-09-03T14:05:00.5694003+00:00"
+  "LastUpdate_Ratings": "2023-09-03T14:57:43.9598465+00:00",
+  "LastUpdate_Achievements": "2023-09-03T15:04:48.1393403+00:00"
 }

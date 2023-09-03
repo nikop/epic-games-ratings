@@ -4,8 +4,8 @@
   "ProductSlug": "volley-pals-0120b4",
   "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 8,
-  "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-05-19T01:00:00+00:00",
     "PcReleaseDate": "2023-05-19T01:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 107,
+  "EOS_Progressed": 108,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 26.17,
+  "EOS_Completed_Percentage": 25.93,
   "EosHistory": [
     {
       "Time": "2023-05-19T19:23:39.9762126+00:00",
@@ -571,6 +571,11 @@
       "Time": "2023-08-28T11:08:01.2150415+00:00",
       "NumProgressed": 107,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-09-03T15:03:44.4252878+00:00",
+      "NumProgressed": 108,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 10,
@@ -580,17 +585,17 @@
       "ID": "LEVEL_0",
       "SetID": "1fnbp5h",
       "Name": "Beach",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 100,
-      "UsersEstimate": 100
+      "UsersEstimate": 102
     },
     {
       "ID": "LEVEL_1",
       "SetID": "1fnbp5h",
       "Name": "Library",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 100,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "LEVEL_2",
@@ -636,7 +641,7 @@
       "ID": "LEVEL_7",
       "SetID": "1fnbp5h",
       "Name": "Sewer",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 100,
       "UsersEstimate": 37
     },
@@ -644,9 +649,9 @@
       "ID": "LEVEL_8",
       "SetID": "1fnbp5h",
       "Name": "Arcade",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 34
+      "UsersEstimate": 33
     },
     {
       "ID": "LEVEL_9",
@@ -661,14 +666,14 @@
     {
       "ID": "1fnbp5h",
       "IsBase": true,
-      "Progressed": 107,
+      "Progressed": 108,
       "Completed": 28
     }
   ],
   "FirstSeen": "2023-09-02T02:13:34.6238392+00:00",
   "FirstSeenAchievements": "2023-05-02T15:59:43.451096+00:00",
-  "LastChanged_Achievements": "2023-09-03T14:04:07.883689+00:00",
+  "LastChanged_Achievements": "2023-09-03T15:03:44.4252875+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:37.9486128+00:00",
-  "LastUpdate_Ratings": "2023-09-03T13:57:02.6065661+00:00",
-  "LastUpdate_Achievements": "2023-09-03T14:04:07.8837021+00:00"
+  "LastUpdate_Ratings": "2023-09-03T14:57:01.7942994+00:00",
+  "LastUpdate_Achievements": "2023-09-03T15:03:44.425297+00:00"
 }

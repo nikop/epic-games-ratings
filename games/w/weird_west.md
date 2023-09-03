@@ -20,7 +20,7 @@ Number of Ratings: 125  (23.09.2022)
 | Dishonored | 25.00% | ~457 |
 | Rain of Death | 25.00% | ~457 |
 | Scholar | 25.00% | ~457 |
-| The Great Escape | 23.00% | ~420 |
+| The Great Escape | 24.00% | ~439 |
 | That’s All, Folks | 19.00% | ~347 |
 | Fallen Star | 16.00% | ~292 |
 | For Balance | 16.00% | ~292 |
