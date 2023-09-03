@@ -1,28 +1,28 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.47 (Ranked 616)  
+Rating: 4.47 (Ranked 615)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 46.00% | ~1,643 |
-| Confirming Suspicions | 40.00% | ~1,428 |
+| Confirming Suspicions | 40.00% | ~1,429 |
 | The Kraken Wakes | 36.00% | ~1,286 |
-| It's Starting to Crack | 33.00% | ~1,178 |
-| Change the Channel | 30.00% | ~1,071 |
+| It's Starting to Crack | 33.00% | ~1,179 |
+| Change the Channel | 30.00% | ~1,072 |
 | Lord of War | 29.00% | ~1,036 |
 | Taking it back | 28.00% | ~1,000 |
-| Resourceful | 26.00% | ~928 |
+| Resourceful | 26.00% | ~929 |
 | Target America | 25.00% | ~893 |
-| The Kraken Sleeps | 23.00% | ~821 |
+| The Kraken Sleeps | 23.00% | ~822 |
 | Organ Grinder | 22.00% | ~786 |
 | As Quiet as a Mouse | 22.00% | ~786 |
 | Liberté | 21.00% | ~750 |
 | Sharpshooter | 21.00% | ~750 |
 | Explosive Efficiency | 18.00% | ~643 |
 | Gunslinger | 17.00% | ~607 |
-| Just a Flesh Wound | 16.00% | ~571 |
-| Der Geist | 16.00% | ~571 |
+| Just a Flesh Wound | 16.00% | ~572 |
+| Der Geist | 16.00% | ~572 |
 | Climbing the Ladder | 15.00% | ~536 |
 | Close Quarters | 15.00% | ~536 |
 | Fields of Glory | 14.00% | ~500 |
@@ -77,7 +77,7 @@ Rating: 4.47 (Ranked 616)
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,571 (Ranked 153)  
+Progressed: 3,572 (Ranked 154)  
 Completed: 10 (0.28%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 10 (0.28%) (Ranked 183)
 | 2023-08-31 | 3,557 | 10 |
 | 2023-09-01 | 3,560 | 10 |
 | 2023-09-02 | 3,565 | 10 |
-| 2023-09-03 | 3,571 | 10 |
+| 2023-09-03 | 3,572 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

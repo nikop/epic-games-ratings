@@ -1,33 +1,33 @@
 # Ghostbusters: Spirits Unleashed
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.49 (Ranked 583)  
+Rating: 4.49 (Ranked 582)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~21,971 |
-| Advancement | 72.00% | ~18,395 |
-| Meticulously Efficient | 63.00% | ~16,095 |
-| Discovery | 61.00% | ~15,584 |
+| Stylish | 86.00% | ~21,972 |
+| Advancement | 73.00% | ~18,651 |
+| Meticulously Efficient | 63.00% | ~16,096 |
+| Discovery | 61.00% | ~15,585 |
 | Fully Upgraded | 54.00% | ~13,796 |
-| Swift Rift Removers | 53.00% | ~13,540 |
-| I collect Spores, Molds, and Fungi | 51.00% | ~13,029 |
-| Cultured | 51.00% | ~13,029 |
-| Vaporous Expansion | 48.00% | ~12,263 |
+| Swift Rift Removers | 53.00% | ~13,541 |
+| I collect Spores, Molds, and Fungi | 51.00% | ~13,030 |
+| Cultured | 51.00% | ~13,030 |
+| Vaporous Expansion | 48.00% | ~12,264 |
 | Teamwork | 43.00% | ~10,986 |
-| There you are! | 42.00% | ~10,730 |
-| Clutch Capture | 40.00% | ~10,219 |
+| There you are! | 42.00% | ~10,731 |
+| Clutch Capture | 40.00% | ~10,220 |
 | Back Off | 35.00% | ~8,942 |
-| Daily Dose | 34.00% | ~8,686 |
+| Daily Dose | 34.00% | ~8,687 |
 | Solo Capture | 33.00% | ~8,431 |
 | Welcome to the Crew | 31.00% | ~7,920 |
-| Ghostbuster In Training | 30.00% | ~7,664 |
-| Icing on the Cake | 30.00% | ~7,664 |
+| Ghostbuster In Training | 30.00% | ~7,665 |
+| Icing on the Cake | 30.00% | ~7,665 |
 | Side Hustle | 27.00% | ~6,898 |
 | Summoner | 27.00% | ~6,898 |
-| We have the best insurance | 26.00% | ~6,642 |
-| Legions | 26.00% | ~6,642 |
-| Right back at ya | 26.00% | ~6,642 |
+| We have the best insurance | 26.00% | ~6,643 |
+| Legions | 26.00% | ~6,643 |
+| Right back at ya | 26.00% | ~6,643 |
 | Animated | 25.00% | ~6,387 |
 | Pesky Jerks | 25.00% | ~6,387 |
 | Stunner | 25.00% | ~6,387 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 583)
 | I don't need these | 1.00% | ~255 |
 | Mycophile | 1.00% | ~255 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,548 (Ranked 103)  
+Progressed: 25,549 (Ranked 103)  
 Completed: 54 (0.21%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 54 (0.21%) (Ranked 194)
 | 2023-08-31 | 25,465 | 54 |
 | 2023-09-01 | 25,481 | 54 |
 | 2023-09-02 | 25,529 | 54 |
-| 2023-09-03 | 25,548 | 54 |
+| 2023-09-03 | 25,549 | 54 |
 ## Awards
 Max (Great for Quick Sessions): 250  (Ranked 254)  
 Sum: 2,270 (Ranked 190)  

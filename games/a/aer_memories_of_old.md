@@ -1,7 +1,7 @@
 # AER Memories of Old
 [Store](https://store.epicgames.com/en-US/p/aer-memories-of-old)  
 [View Rawdata](../../db/a/aer_memories_of_old.json)  
-Rating: 4.45 (Ranked 641)  
+Rating: 4.45 (Ranked 640)  
 Number of Ratings: 170  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -12,8 +12,8 @@ Number of Ratings: 170  (23.09.2022)
 | Cartographer | 17.00% | ~3,284 |
 | Antlers of Stone | 15.00% | ~2,897 |
 | Knowledge for Power | 14.00% | ~2,704 |
+| Mausoleum of Ice | 14.00% | ~2,704 |
 | Gaze into the abyss | 13.00% | ~2,511 |
-| Mausoleum of Ice | 13.00% | ~2,511 |
 | In the belly of the beast | 12.00% | ~2,318 |
 | Wings of Stone | 12.00% | ~2,318 |
 | Equilibrium | 12.00% | ~2,318 |

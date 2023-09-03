@@ -4,7 +4,7 @@
   "ProductSlug": "shinchan-me-and-the-professor-on-summer-vacation-bb7bad",
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewPlayers": 300,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-02-15T15:00:00+00:00",
@@ -128,9 +128,9 @@
       "ID": "Trophy_03",
       "SetID": "cf5h6dl",
       "Name": "Seven Days of Endless Adventure - D\u00E9j\u00E0 Vu",
-      "Percentage": 11,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Trophy_04",
@@ -184,9 +184,9 @@
       "ID": "Trophy_10",
       "SetID": "cf5h6dl",
       "Name": "Dragonfly Whiz",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Trophy_11",
@@ -224,17 +224,17 @@
       "ID": "Trophy_15",
       "SetID": "cf5h6dl",
       "Name": "Love Is in the Air!",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Trophy_16",
       "SetID": "cf5h6dl",
       "Name": "What\u0027s That Smell?",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Trophy_17",
@@ -312,9 +312,9 @@
       "ID": "Trophy_26",
       "SetID": "cf5h6dl",
       "Name": "Farm Life!",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Trophy_27",
@@ -376,9 +376,9 @@
       "ID": "Trophy_34",
       "SetID": "cf5h6dl",
       "Name": "Top-Notch Journalist",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Trophy_35",
@@ -448,9 +448,9 @@
       "ID": "Trophy_43",
       "SetID": "cf5h6dl",
       "Name": "River Cleaner",
-      "Percentage": 14,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Trophy_44",
@@ -489,8 +489,8 @@
   "FirstSeenRating": "2023-04-14T13:04:33.1915334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:56.3452226+00:00",
   "LastChanged": "2023-04-14T13:04:33.1915334+00:00",
-  "LastChanged_Achievements": "2023-09-03T08:07:00.5306749+00:00",
+  "LastChanged_Achievements": "2023-09-03T09:07:48.6491385+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:25.1515466+00:00",
-  "LastUpdate_Ratings": "2023-09-03T08:00:13.0141545+00:00",
-  "LastUpdate_Achievements": "2023-09-03T08:07:00.5307488+00:00"
+  "LastUpdate_Ratings": "2023-09-03T09:00:51.0954596+00:00",
+  "LastUpdate_Achievements": "2023-09-03T09:07:48.6492107+00:00"
 }

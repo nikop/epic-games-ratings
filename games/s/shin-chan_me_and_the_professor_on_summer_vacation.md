@@ -9,33 +9,33 @@
 | Seven Days of Endless Adventure | 23.00% | ~8 |
 | Masu-ter Angler | 17.00% | ~6 |
 | Go-Getter | 17.00% | ~6 |
+| River Cleaner | 17.00% | ~6 |
+| Seven Days of Endless Adventure - Déjà Vu | 14.00% | ~5 |
 | Just Hoverin' Along | 14.00% | ~5 |
 | Handyman Extraordinaire | 14.00% | ~5 |
-| River Cleaner | 14.00% | ~5 |
-| Seven Days of Endless Adventure - Déjà Vu | 11.00% | ~4 |
+| What's That Smell? | 11.00% | ~4 |
 | It's Alive! | 11.00% | ~4 |
+| Farm Life! | 11.00% | ~4 |
 | Did Someone Order Ramen? | 11.00% | ~4 |
 | Ptera Pal | 11.00% | ~4 |
 | DJ Superstar | 11.00% | ~4 |
 | My Fair Ladybug | 9.00% | ~3 |
 | The Holly Grail | 9.00% | ~3 |
-| What's That Smell? | 9.00% | ~3 |
 | That Was a Snap! | 9.00% | ~3 |
-| Farm Life! | 9.00% | ~3 |
+| Top-Notch Journalist | 9.00% | ~3 |
 | Asso Bridge Enthusiast | 9.00% | ~3 |
 | A New Time | 6.00% | ~2 |
 | Beetle Savant | 6.00% | ~2 |
 | Cicada Connoisseur | 6.00% | ~2 |
+| Dragonfly Whiz | 6.00% | ~2 |
+| Love Is in the Air! | 6.00% | ~2 |
 | Biwa Be Mine | 6.00% | ~2 |
 | Ice Fishing | 6.00% | ~2 |
-| Top-Notch Journalist | 6.00% | ~2 |
 | Stego Stooge | 6.00% | ~2 |
 | Gumdum Robot, I Choose You! | 6.00% | ~2 |
 | Bee Professor | 3.00% | ~1 |
 | Grasshopper Guru | 3.00% | ~1 |
 | Butterfly Maestro | 3.00% | ~1 |
-| Dragonfly Whiz | 3.00% | ~1 |
-| Love Is in the Air! | 3.00% | ~1 |
 | Insect Aficionado | 3.00% | ~1 |
 | Veggie Virtuoso | 3.00% | ~1 |
 | Did Someone Order Oyakodon? | 3.00% | ~1 |

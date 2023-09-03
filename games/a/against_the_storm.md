@@ -8,6 +8,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | ---- | ---------- | ----- |
 | First Real Expedition | 5.00% | ~825 |
 | Overcoming Difficulty | 5.00% | ~825 |
+| Coral Forest | 5.00% | ~825 |
 | The Marshlands | 5.00% | ~825 |
 | The Scarlet Orchard | 5.00% | ~825 |
 | Taking Action | 5.00% | ~825 |
@@ -15,7 +16,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ancient Battleground | 4.00% | ~660 |
 | Fertile Meadows | 4.00% | ~660 |
 | Lost Colonies | 4.00% | ~660 |
-| Coral Forest | 4.00% | ~660 |
 | Homesick | 3.00% | ~495 |
 | Against All Odds | 3.00% | ~495 |
 | Ruined Armory | 3.00% | ~495 |
@@ -45,19 +45,19 @@ Number of Ratings: 1,845  (23.09.2022)
 | Feeding The People | 1.00% | ~165 |
 | Efficient Explorer | 1.00% | ~165 |
 | Prestigious Expedition | 1.00% | ~165 |
-| Blood Flower Farmer | 0.90% | ~148 |
-| Victory through Prosperity | 0.90% | ~148 |
-| Lizard Utopia | 0.70% | ~115 |
+| Blood Flower Farmer | 0.90% | ~149 |
+| Victory through Prosperity | 0.90% | ~149 |
+| Lizard Utopia | 0.70% | ~116 |
 | Beaver Utopia | 0.60% | ~99 |
 | Human Utopia | 0.60% | ~99 |
-| The Queen's Chosen | 0.50% | ~82 |
-| Harpy Utopia | 0.30% | ~49 |
-| Treasure | 0.30% | ~49 |
-| Ruins | 0.30% | ~49 |
+| The Queen's Chosen | 0.50% | ~83 |
+| Harpy Utopia | 0.30% | ~50 |
+| Treasure | 0.30% | ~50 |
+| Ruins | 0.30% | ~50 |
 | Higher Needs | 0.20% | ~33 |
-| Paradise | 0.10% | ~16 |
+| Paradise | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,499 (Ranked 116)  
+Progressed: 16,501 (Ranked 116)  
 Completed: 47 (0.28%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 47 (0.28%) (Ranked 183)
 | 2023-08-31 | 16,466 | 47 |
 | 2023-09-01 | 16,478 | 47 |
 | 2023-09-02 | 16,492 | 47 |
-| 2023-09-03 | 16,499 | 47 |
+| 2023-09-03 | 16,501 | 47 |
 ## Awards
 Max (Quickly Understood Controls): 426  (Ranked 209)  
 Sum: 3,122 (Ranked 163)  

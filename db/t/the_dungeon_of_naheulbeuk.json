@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 353,
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 27,
+  "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -786,9 +786,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 220663,
+  "EOS_Progressed": 220683,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2766,
+  "EOS_NewPlayers": 2756,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9381,6 +9381,11 @@
       "Time": "2023-09-03T08:04:36.797936+00:00",
       "NumProgressed": 220663,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-03T09:05:11.5503506+00:00",
+      "NumProgressed": 220683,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -9448,7 +9453,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4413
+      "UsersEstimate": 4414
     },
     {
       "ID": "Chapter3",
@@ -9824,7 +9829,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4413
+      "UsersEstimate": 4414
     },
     {
       "ID": "ElfEpic",
@@ -9840,7 +9845,7 @@
       "Name": "Sowwy!",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 59579
+      "UsersEstimate": 59584
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -9856,7 +9861,7 @@
       "Name": "GG EZ",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4413
+      "UsersEstimate": 4414
     },
     {
       "ID": "EndCombatOneHp",
@@ -9864,7 +9869,7 @@
       "Name": "DM intervention",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4413
+      "UsersEstimate": 4414
     },
     {
       "ID": "EndGameCursed",
@@ -10014,9 +10019,9 @@
       "ID": "RangerEpic",
       "SetID": "50chcgj",
       "Name": "The Ranger of Chaos",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1765
+      "UsersEstimate": 1986
     },
     {
       "ID": "Rogue30Backstab",
@@ -10040,7 +10045,7 @@
       "Name": "Speedrun",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4413
+      "UsersEstimate": 4414
     },
     {
       "ID": "SupportCount4",
@@ -10088,28 +10093,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4413
+      "UsersEstimate": 4414
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 220663,
+      "Progressed": 220683,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 220663,
+      "Progressed": 220683,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-03T07:58:18.9907851+00:00",
-  "LastChanged_Achievements": "2023-09-03T08:04:36.7979349+00:00",
+  "LastChanged_Achievements": "2023-09-03T09:05:11.5503497+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:55.2312629+00:00",
-  "LastUpdate_Ratings": "2023-09-03T07:58:18.9907855+00:00",
-  "LastUpdate_Achievements": "2023-09-03T08:04:36.7982178+00:00"
+  "LastUpdate_Ratings": "2023-09-03T08:58:41.3877608+00:00",
+  "LastUpdate_Achievements": "2023-09-03T09:05:11.550679+00:00"
 }

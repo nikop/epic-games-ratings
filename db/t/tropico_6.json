@@ -1080,9 +1080,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 4961,
+  "EOS_Progressed": 4962,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8980,6 +8980,11 @@
       "Time": "2023-09-03T04:05:05.2608092+00:00",
       "NumProgressed": 4961,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-03T09:05:51.8941399+00:00",
+      "NumProgressed": 4962,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -9087,7 +9092,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2232
+      "UsersEstimate": 2233
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -9095,7 +9100,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -9151,7 +9156,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 3770
+      "UsersEstimate": 3771
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -9310,15 +9315,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 4961,
+      "Progressed": 4962,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-09-02T17:00:04.2747722+00:00",
-  "LastChanged_Achievements": "2023-09-03T08:05:13.9978326+00:00",
+  "LastChanged_Achievements": "2023-09-03T09:05:51.8941392+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:55.8221856+00:00",
-  "LastUpdate_Ratings": "2023-09-03T08:00:27.1655614+00:00",
-  "LastUpdate_Achievements": "2023-09-03T08:05:13.9979209+00:00"
+  "LastUpdate_Ratings": "2023-09-03T09:01:07.6627316+00:00",
+  "LastUpdate_Achievements": "2023-09-03T09:05:51.8943437+00:00"
 }

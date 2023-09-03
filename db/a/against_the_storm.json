@@ -2756,7 +2756,7 @@
       "Count": 317
     }
   ],
-  "EOS_Progressed": 16499,
+  "EOS_Progressed": 16501,
   "EOS_Completed": 47,
   "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
@@ -9986,6 +9986,11 @@
       "Time": "2023-09-03T08:03:57.5861429+00:00",
       "NumProgressed": 16499,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-09-03T09:04:28.3326622+00:00",
+      "NumProgressed": 16501,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 50,
@@ -10013,7 +10018,7 @@
       "Name": "Paradise",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "AllServices",
@@ -10037,7 +10042,7 @@
       "Name": "Harpy Utopia",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "HumanUtopia",
@@ -10053,7 +10058,7 @@
       "Name": "Lizard Utopia",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ManyEvents",
@@ -10259,9 +10264,9 @@
       "ID": "WinOnCoral",
       "SetID": "cfbk359",
       "Name": "Coral Forest",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 660
+      "UsersEstimate": 825
     },
     {
       "ID": "WinOnCursed",
@@ -10301,7 +10306,7 @@
       "Name": "The Queen\u0027s Chosen",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "WinVeryHard",
@@ -10317,7 +10322,7 @@
       "Name": "Treasure",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "WinWithBlight",
@@ -10325,7 +10330,7 @@
       "Name": "Blood Flower Farmer",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "WinWithEvents",
@@ -10341,7 +10346,7 @@
       "Name": "Victory through Prosperity",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "WinWithRuins",
@@ -10349,7 +10354,7 @@
       "Name": "Ruins",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "WinWithTimedOrders",
@@ -10396,15 +10401,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 16499,
+      "Progressed": 16501,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-09-02T01:37:44.7454478+00:00",
-  "LastChanged_Achievements": "2023-09-03T08:03:57.5861422+00:00",
+  "LastChanged_Achievements": "2023-09-03T09:04:28.3326613+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:56.7333073+00:00",
-  "LastUpdate_Ratings": "2023-09-03T08:00:27.7776455+00:00",
-  "LastUpdate_Achievements": "2023-09-03T08:03:57.586257+00:00"
+  "LastUpdate_Ratings": "2023-09-03T09:01:08.0585006+00:00",
+  "LastUpdate_Achievements": "2023-09-03T09:04:28.3328166+00:00"
 }

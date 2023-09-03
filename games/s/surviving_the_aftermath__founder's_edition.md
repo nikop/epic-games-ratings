@@ -1,19 +1,19 @@
 # Surviving the Aftermath
 [Store](https://store.epicgames.com/en-US/p/surviving-the-aftermath)  
 [View Rawdata](../../db/s/surviving_the_aftermath__founder's_edition.json)  
-Rating: 4.48 (Ranked 603)  
+Rating: 4.48 (Ranked 602)  
 Number of Ratings: 836  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 72.00% | ~6,312 |
-| Leader | 60.00% | ~5,260 |
+| First Step | 72.00% | ~6,313 |
+| Leader | 60.00% | ~5,261 |
 | Explorer | 53.00% | ~4,647 |
 | Healer | 52.00% | ~4,559 |
-| Aspiring Inventor | 44.00% | ~3,857 |
-| Adventurer | 41.00% | ~3,594 |
-| Famous Healer | 38.00% | ~3,331 |
-| Local Leader | 35.00% | ~3,068 |
+| Aspiring Inventor | 44.00% | ~3,858 |
+| Adventurer | 41.00% | ~3,595 |
+| Famous Healer | 38.00% | ~3,332 |
+| Local Leader | 35.00% | ~3,069 |
 | Famous Explorer | 34.00% | ~2,981 |
 | New Opportunities | 34.00% | ~2,981 |
 | Energized | 33.00% | ~2,893 |
@@ -23,21 +23,21 @@ Number of Ratings: 836  (23.09.2022)
 | Legendary Explorer | 28.00% | ~2,455 |
 | Cleaner | 28.00% | ~2,455 |
 | Catastrofan | 28.00% | ~2,455 |
-| Finders, Keepers | 26.00% | ~2,279 |
+| Finders, Keepers | 26.00% | ~2,280 |
 | Top Notch | 25.00% | ~2,192 |
-| Great Leader | 23.00% | ~2,016 |
-| Mentor | 23.00% | ~2,016 |
+| Great Leader | 23.00% | ~2,017 |
+| Mentor | 23.00% | ~2,017 |
 | Merchant | 22.00% | ~1,929 |
 | Ice Lakes | 22.00% | ~1,929 |
 | Real Survivor | 22.00% | ~1,929 |
-| Rocket Surgeon | 20.00% | ~1,753 |
+| Rocket Surgeon | 20.00% | ~1,754 |
 | War Never Changes | 19.00% | ~1,666 |
-| Big Game Hunter | 17.00% | ~1,490 |
-| Spreading Influence | 17.00% | ~1,490 |
+| Big Game Hunter | 17.00% | ~1,491 |
+| Spreading Influence | 17.00% | ~1,491 |
 | Friendly | 16.00% | ~1,403 |
 | Around the World | 16.00% | ~1,403 |
 | Bookworm | 15.00% | ~1,315 |
-| Famous Adventurer | 14.00% | ~1,227 |
+| Famous Adventurer | 14.00% | ~1,228 |
 | Prepared for Anything | 13.00% | ~1,140 |
 | Big Catastrofan | 13.00% | ~1,140 |
 | It's a Finnish Thing | 10.00% | ~877 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~18 |
 | Customized calamities | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,767 (Ranked 132)  
+Progressed: 8,768 (Ranked 132)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-08-31 | 8,714 | 0 |
 | 2023-09-01 | 8,731 | 0 |
 | 2023-09-02 | 8,756 | 0 |
-| 2023-09-03 | 8,767 | 0 |
+| 2023-09-03 | 8,768 | 0 |
 ## Awards
 Max (Extremely Fun): 101  (Ranked 335)  
 Sum: 695 (Ranked 279)  

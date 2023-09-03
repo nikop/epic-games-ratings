@@ -6,23 +6,23 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 41.00% | ~6,145 |
+| Tattletale | 41.00% | ~6,146 |
 | Man of politics | 35.00% | ~5,246 |
-| Friends of sorts | 33.00% | ~4,946 |
-| Yet another secret | 33.00% | ~4,946 |
-| Let there be darkness | 32.00% | ~4,796 |
+| Friends of sorts | 33.00% | ~4,947 |
+| Yet another secret | 33.00% | ~4,947 |
+| Let there be darkness | 32.00% | ~4,797 |
 | End of Book One | 30.00% | ~4,497 |
-| Wannabe knight | 24.00% | ~3,597 |
-| Garden of Eden | 24.00% | ~3,597 |
-| Full house | 24.00% | ~3,597 |
+| Wannabe knight | 24.00% | ~3,598 |
+| Garden of Eden | 24.00% | ~3,598 |
+| Full house | 24.00% | ~3,598 |
 | Help an old friend | 22.00% | ~3,298 |
 | Two of us | 20.00% | ~2,998 |
 | Negotiation skills | 18.00% | ~2,698 |
 | Workers' union | 18.00% | ~2,698 |
 | End of Book Two | 18.00% | ~2,698 |
 | Everything's in order | 17.00% | ~2,548 |
-| Twist of Fate | 14.00% | ~2,098 |
-| Jack was here! | 14.00% | ~2,098 |
+| Twist of Fate | 14.00% | ~2,099 |
+| Jack was here! | 14.00% | ~2,099 |
 | Exterminator | 13.00% | ~1,949 |
 | Whodunnit | 12.00% | ~1,799 |
 | Friar Tuck | 11.00% | ~1,649 |
@@ -38,9 +38,9 @@ Number of Ratings: 368  (23.09.2022)
 | A cry for help | 7.00% | ~1,049 |
 | Silentium est aureum | 7.00% | ~1,049 |
 | Rebel without a cause | 6.00% | ~899 |
-| Staring contest champion | 5.00% | ~749 |
-| Lone wolf | 5.00% | ~749 |
-| Vox Populi | 5.00% | ~749 |
+| Staring contest champion | 5.00% | ~750 |
+| Lone wolf | 5.00% | ~750 |
+| Vox Populi | 5.00% | ~750 |
 | Revenge | 4.00% | ~600 |
 | Self-defense | 4.00% | ~600 |
 | Countess Aliena | 4.00% | ~600 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~450 |
 | Boy of mystery | 2.00% | ~300 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,989 (Ranked 119)  
+Progressed: 14,990 (Ranked 119)  
 Completed: 110 (0.73%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 110 (0.73%) (Ranked 132)
 | 2023-08-31 | 14,937 | 110 |
 | 2023-09-01 | 14,963 | 110 |
 | 2023-09-02 | 14,982 | 110 |
-| 2023-09-03 | 14,989 | 110 |
+| 2023-09-03 | 14,990 | 110 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 300)  
 Sum: 188 (Ranked 377)  

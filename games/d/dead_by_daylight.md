@@ -6,34 +6,34 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 2.00% | ~16,854 |
-| Handyman | 1.00% | ~8,427 |
-| Zealous | 1.00% | ~8,427 |
-| Not half bad | 1.00% | ~8,427 |
-| Apt Survivor | 1.00% | ~8,427 |
-| Survival Treasures | 1.00% | ~8,427 |
-| Skillful | 1.00% | ~8,427 |
-| Make Some Noise | 1.00% | ~8,427 |
-| MU/TH/UR Dearest | 1.00% | ~8,427 |
-| Medic | 0.90% | ~7,584 |
-| Sorted | 0.90% | ~7,584 |
-| The Grand Sacrifice | 0.80% | ~6,742 |
-| No one left behind | 0.80% | ~6,742 |
-| Nerves of steel | 0.80% | ~6,742 |
-| Bloody Millionaire | 0.80% | ~6,742 |
-| I | 0.80% | ~6,742 |
-| Resurgence | 0.80% | ~6,742 |
-| Backdoor Escape | 0.70% | ~5,899 |
-| Perfect Escape | 0.70% | ~5,899 |
-| Healthy Obsession | 0.70% | ~5,899 |
-| Preemptive Strike | 0.70% | ~5,899 |
-| Humanitarian | 0.70% | ~5,899 |
-| Terror of LV-426 | 0.70% | ~5,899 |
-| Agonizing Escape | 0.60% | ~5,056 |
-| I've got your back | 0.60% | ~5,056 |
-| Perfect Killing | 0.60% | ~5,056 |
-| Risk it all | 0.60% | ~5,056 |
-| Engineer | 0.60% | ~5,056 |
+| It wakes | 2.00% | ~16,856 |
+| MU/TH/UR Dearest | 2.00% | ~16,856 |
+| Handyman | 1.00% | ~8,428 |
+| Zealous | 1.00% | ~8,428 |
+| Not half bad | 1.00% | ~8,428 |
+| Apt Survivor | 1.00% | ~8,428 |
+| Survival Treasures | 1.00% | ~8,428 |
+| Skillful | 1.00% | ~8,428 |
+| Make Some Noise | 1.00% | ~8,428 |
+| Medic | 0.90% | ~7,585 |
+| Sorted | 0.90% | ~7,585 |
+| The Grand Sacrifice | 0.80% | ~6,743 |
+| No one left behind | 0.80% | ~6,743 |
+| Nerves of steel | 0.80% | ~6,743 |
+| Bloody Millionaire | 0.80% | ~6,743 |
+| I | 0.80% | ~6,743 |
+| Resurgence | 0.80% | ~6,743 |
+| Backdoor Escape | 0.70% | ~5,900 |
+| Perfect Escape | 0.70% | ~5,900 |
+| Healthy Obsession | 0.70% | ~5,900 |
+| Preemptive Strike | 0.70% | ~5,900 |
+| Humanitarian | 0.70% | ~5,900 |
+| Terror of LV-426 | 0.70% | ~5,900 |
+| Agonizing Escape | 0.60% | ~5,057 |
+| I've got your back | 0.60% | ~5,057 |
+| Perfect Killing | 0.60% | ~5,057 |
+| Risk it all | 0.60% | ~5,057 |
+| Engineer | 0.60% | ~5,057 |
 | Apt Killer | 0.50% | ~4,214 |
 | Vulture | 0.50% | ~4,214 |
 | II | 0.50% | ~4,214 |
@@ -70,30 +70,30 @@ Number of Ratings: 70,340  (23.09.2022)
 | Chorus of Chaos | 0.30% | ~2,528 |
 | Complete the Evolution | 0.30% | ~2,528 |
 | One More Step | 0.30% | ~2,528 |
-| A bite for the Entity | 0.20% | ~1,685 |
-| Blood on your face | 0.20% | ~1,685 |
-| Jump Scares | 0.20% | ~1,685 |
-| Hemophobia | 0.20% | ~1,685 |
-| Deep Cleansing | 0.20% | ~1,685 |
-| Leapfrog | 0.20% | ~1,685 |
-| Cottage Owner | 0.20% | ~1,685 |
-| Texas BBQ | 0.20% | ~1,685 |
-| Serial Killer | 0.20% | ~1,685 |
-| Escaping the Nightmare | 0.20% | ~1,685 |
-| Game Over | 0.20% | ~1,685 |
-| Party Crasher | 0.20% | ~1,685 |
-| Whiffing to Success | 0.20% | ~1,685 |
-| Outrage | 0.20% | ~1,685 |
-| Ancestor's Rite | 0.20% | ~1,685 |
-| Devoted Gatekeeping | 0.20% | ~1,685 |
-| Broken Bodies | 0.20% | ~1,685 |
-| Grim Pilgrimage | 0.20% | ~1,685 |
-| Selfless Survival | 0.20% | ~1,685 |
-| End of Days | 0.20% | ~1,685 |
-| Insult and Injury | 0.20% | ~1,685 |
-| Outrun the Overlap | 0.20% | ~1,685 |
-| Rebuilding The Borgo | 0.20% | ~1,685 |
-| Extraterrestrial | 0.20% | ~1,685 |
+| A bite for the Entity | 0.20% | ~1,686 |
+| Blood on your face | 0.20% | ~1,686 |
+| Jump Scares | 0.20% | ~1,686 |
+| Hemophobia | 0.20% | ~1,686 |
+| Deep Cleansing | 0.20% | ~1,686 |
+| Leapfrog | 0.20% | ~1,686 |
+| Cottage Owner | 0.20% | ~1,686 |
+| Texas BBQ | 0.20% | ~1,686 |
+| Serial Killer | 0.20% | ~1,686 |
+| Escaping the Nightmare | 0.20% | ~1,686 |
+| Game Over | 0.20% | ~1,686 |
+| Party Crasher | 0.20% | ~1,686 |
+| Whiffing to Success | 0.20% | ~1,686 |
+| Outrage | 0.20% | ~1,686 |
+| Ancestor's Rite | 0.20% | ~1,686 |
+| Devoted Gatekeeping | 0.20% | ~1,686 |
+| Broken Bodies | 0.20% | ~1,686 |
+| Grim Pilgrimage | 0.20% | ~1,686 |
+| Selfless Survival | 0.20% | ~1,686 |
+| End of Days | 0.20% | ~1,686 |
+| Insult and Injury | 0.20% | ~1,686 |
+| Outrun the Overlap | 0.20% | ~1,686 |
+| Rebuilding The Borgo | 0.20% | ~1,686 |
+| Extraterrestrial | 0.20% | ~1,686 |
 | A feast for the Entity | 0.10% | ~843 |
 | Blood in your mouth | 0.10% | ~843 |
 | Cripple them all | 0.10% | ~843 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~843 |
 | Adept Ripley | 0.10% | ~843 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 842,703 (Ranked 15)  
+Progressed: 842,822 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -372,14 +372,14 @@ Completed: 48 (0.01%) (Ranked 257)
 | 2023-08-31 | 834,142 | 48 |
 | 2023-09-01 | 837,438 | 48 |
 | 2023-09-02 | 841,459 | 48 |
-| 2023-09-03 | 842,703 | 48 |
+| 2023-09-03 | 842,822 | 48 |
 ## Awards
-Max (Diverse Characters): 31,830  (Ranked 15)  
-Sum: 249,627 (Ranked 11)  
+Max (Diverse Characters): 31,886  (Ranked 15)  
+Sum: 249,683 (Ranked 11)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 31,830 |
+| This game has Diverse Characters | 31,886 |
 | This game is Highly Recommended | 28,499 |
 | This game has Competitive Players | 28,435 |
 | This game has Amazing Characters | 28,243 |
@@ -615,4 +615,4 @@ Diff (max vs sum): 4
 | 2023-08-31 | 4.52 | - | 31,726 | 248,913 |
 | 2023-09-01 | 4.52 | - | 31,778 | 249,224 |
 | 2023-09-02 | 4.52 | - | 31,830 | 249,556 |
-| 2023-09-03 | 4.52 | - | 31,830 | 249,627 |
+| 2023-09-03 | 4.52 | - | 31,886 | 249,683 |

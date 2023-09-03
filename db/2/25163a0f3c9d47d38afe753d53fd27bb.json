@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 26,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 241,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 685,
+  "EOS_Progressed": 686,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 10.95,
+  "EOS_Completed_Percentage": 10.93,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -2316,6 +2316,11 @@
       "Time": "2023-08-31T12:04:48.087031+00:00",
       "NumProgressed": 685,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2023-09-03T09:06:34.4285658+00:00",
+      "NumProgressed": 686,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 30,
@@ -2327,7 +2332,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "LEVEL_002",
@@ -2335,7 +2340,7 @@
       "Name": "Promising crop",
       "Percentage": 82,
       "XP": 15,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "LEVEL_003",
@@ -2343,7 +2348,7 @@
       "Name": "A horse in the country",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "LEVEL_004",
@@ -2351,7 +2356,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "LEVEL_005",
@@ -2375,7 +2380,7 @@
       "Name": "Animals in the farm",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "LEVEL_008",
@@ -2407,7 +2412,7 @@
       "Name": "This island of mine",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "LEVEL_012",
@@ -2453,9 +2458,9 @@
       "ID": "LEVEL_017",
       "SetID": "212bg48",
       "Name": "Windmill on a rocky cliff",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 117
     },
     {
       "ID": "LEVEL_018",
@@ -2511,7 +2516,7 @@
       "Name": "Beach or mountain?",
       "Percentage": 10,
       "XP": 55,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "LEVEL_025",
@@ -2519,7 +2524,7 @@
       "Name": "A superb resort to enjoy the holidays!",
       "Percentage": 10,
       "XP": 55,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "LEVEL_026",
@@ -2566,14 +2571,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 685,
+      "Progressed": 686,
       "Completed": 75
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-09-03T08:05:52.134541+00:00",
+  "LastChanged_Achievements": "2023-09-03T09:06:34.4285646+00:00",
   "LastUpdate_AppInfo": "2023-08-28T20:26:12.0843125+00:00",
-  "LastUpdate_Ratings": "2023-09-03T07:57:04.9121952+00:00",
-  "LastUpdate_Achievements": "2023-09-03T08:05:52.1346065+00:00"
+  "LastUpdate_Ratings": "2023-09-03T08:57:15.8021108+00:00",
+  "LastUpdate_Achievements": "2023-09-03T09:06:34.4286049+00:00"
 }

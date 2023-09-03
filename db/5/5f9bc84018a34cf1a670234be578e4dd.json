@@ -4,7 +4,7 @@
   "ProductSlug": "access-denied-escape-1d486e",
   "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 12,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -819,9 +819,9 @@
       "ID": "Fusses",
       "SetID": "7jbi7el",
       "Name": "Beginner Electrician",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 70,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "GameComplete",
@@ -890,8 +890,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-09-03T08:02:22.3721522+00:00",
+  "LastChanged_Achievements": "2023-09-03T09:03:16.6791853+00:00",
   "LastUpdate_AppInfo": "2023-08-29T18:57:21.7400613+00:00",
-  "LastUpdate_Ratings": "2023-09-03T08:00:56.0097091+00:00",
-  "LastUpdate_Achievements": "2023-09-03T08:02:22.3721799+00:00"
+  "LastUpdate_Ratings": "2023-09-03T09:01:38.527381+00:00",
+  "LastUpdate_Achievements": "2023-09-03T09:03:16.6792132+00:00"
 }

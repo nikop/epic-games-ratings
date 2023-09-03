@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 27.00% | ~59,579 |
+| Sowwy! | 27.00% | ~59,584 |
 | Alt+F4 | 4.00% | ~8,827 |
 | Déjà vu | 3.00% | ~6,620 |
 | Where's that freaking Dwarf? | 3.00% | ~6,620 |
-| A beer, two curses, three companions | 2.00% | ~4,413 |
-| Sock! SOCK! | 2.00% | ~4,413 |
-| GG EZ | 2.00% | ~4,413 |
-| DM intervention | 2.00% | ~4,413 |
-| Speedrun | 2.00% | ~4,413 |
-| Fireproof Wizardess | 2.00% | ~4,413 |
+| A beer, two curses, three companions | 2.00% | ~4,414 |
+| Sock! SOCK! | 2.00% | ~4,414 |
+| GG EZ | 2.00% | ~4,414 |
+| DM intervention | 2.00% | ~4,414 |
+| Speedrun | 2.00% | ~4,414 |
+| Fireproof Wizardess | 2.00% | ~4,414 |
 | Livin' in a dwarven paradise | 1.00% | ~2,207 |
 | Way of the Wimp | 1.00% | ~2,207 |
 | The plot thickens... At the tavern | 1.00% | ~2,207 |
@@ -30,10 +30,10 @@ Number of Ratings: 118  (23.09.2022)
 | The Dungeon Master | 0.90% | ~1,986 |
 | The Statuette of Gladeulfeurah | 0.90% | ~1,986 |
 | A tale of adventurers not quite like the others... | 0.90% | ~1,986 |
+| The Ranger of Chaos | 0.90% | ~1,986 |
 | I am the night | 0.90% | ~1,986 |
 | %#*!$*! | 0.80% | ~1,765 |
 | The beards of change | 0.80% | ~1,765 |
-| The Ranger of Chaos | 0.80% | ~1,765 |
 | Thieves' Guild Accreditation | 0.80% | ~1,765 |
 | Res Judicata | 0.70% | ~1,545 |
 | The Famous Dungeon of Naheulbeuk | 0.70% | ~1,545 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~221 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,663 (Ranked 57)  
+Progressed: 220,683 (Ranked 57)  
 Completed: 2 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 2 (0.00%) (Ranked 271)
 | 2023-08-31 | 219,794 | 2 |
 | 2023-09-01 | 220,165 | 2 |
 | 2023-09-02 | 220,547 | 2 |
-| 2023-09-03 | 220,663 | 2 |
+| 2023-09-03 | 220,683 | 2 |
 ## Awards
 Max (Character Customization): 189  (Ranked 278)  
 Sum: 259 (Ranked 353)  

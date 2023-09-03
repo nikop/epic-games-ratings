@@ -2,9 +2,9 @@
   "ID": "17ef2e993267472eacb83202c50d41e4",
   "Name": "NEXUS",
   "ProductSlug": "nexus-058364",
-  "Ranking_EOS_Progress": 273,
+  "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 308,
+  "EOS_Progressed": 363,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 269,
+  "EOS_NewPlayers": 324,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -70,6 +70,11 @@
     {
       "Time": "2023-09-03T08:06:47.567297+00:00",
       "NumProgressed": 308,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-03T09:07:34.7369405+00:00",
+      "NumProgressed": 363,
       "NumCompleted": 0
     }
   ],
@@ -121,9 +126,9 @@
       "ID": "CEUpgraded1",
       "SetID": "12d07c7",
       "Name": "Upgraded Cybernetic Enhancement to Level 3",
-      "Percentage": 0.3,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CreditsEarned50000",
@@ -131,15 +136,15 @@
       "Name": "Earned 50000 Credits",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "CreditsSpent50000",
       "SetID": "12d07c7",
       "Name": "Spent 50000 Credits",
-      "Percentage": 0.6,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "DHUpgraded1",
@@ -169,9 +174,9 @@
       "ID": "EEUpgraded1",
       "SetID": "12d07c7",
       "Name": "Upgraded Energy Expansion to Level 3",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "FGPurchased1",
@@ -185,17 +190,17 @@
       "ID": "FRUpgraded1",
       "SetID": "12d07c7",
       "Name": "Upgraded Fast Recharge to Level 3",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "GPurchased1",
       "SetID": "12d07c7",
       "Name": "Purchased Grenade",
-      "Percentage": 0.3,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "GamesPlayed1",
@@ -203,7 +208,7 @@
       "Name": "Played a Match",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "GamesPlayed10",
@@ -225,7 +230,7 @@
       "ID": "GamesWon1",
       "SetID": "12d07c7",
       "Name": "Won a Match",
-      "Percentage": 1,
+      "Percentage": 0.8,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -273,9 +278,9 @@
       "ID": "HASPurchased1",
       "SetID": "12d07c7",
       "Name": "Purchased Heal and Shield",
-      "Percentage": 0.6,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "HAUpgraded1",
@@ -299,7 +304,7 @@
       "Name": "Purchased Healing Sphere",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "HSUPurchased1",
@@ -537,7 +542,7 @@
       "ID": "PulseUpgraded1",
       "SetID": "12d07c7",
       "Name": "Upgraded the Pulse Rifle to Level 3",
-      "Percentage": 1,
+      "Percentage": 0.8,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -553,9 +558,9 @@
       "ID": "QTUpgraded1",
       "SetID": "12d07c7",
       "Name": "Upgraded Quantum Trigger to Level 3",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "RAPurchased1",
@@ -595,7 +600,7 @@
       "Name": "Upgraded the SMG to Level 3",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SOVUpgraded1",
@@ -641,7 +646,7 @@
       "ID": "TPurchased1",
       "SetID": "12d07c7",
       "Name": "Purchased Turret",
-      "Percentage": 1,
+      "Percentage": 0.8,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -665,23 +670,23 @@
       "ID": "WCUpgraded1",
       "SetID": "12d07c7",
       "Name": "Upgraded Weaponized Capacitor to Level 3",
-      "Percentage": 0.6,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 308,
+      "Progressed": 363,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged_Achievements": "2023-09-03T08:06:47.5672962+00:00",
+  "LastChanged_Achievements": "2023-09-03T09:07:34.7369396+00:00",
   "LastUpdate_AppInfo": "2023-08-29T05:57:08.4170488+00:00",
-  "LastUpdate_Ratings": "2023-09-03T08:00:42.826468+00:00",
-  "LastUpdate_Achievements": "2023-09-03T08:06:47.5674476+00:00"
+  "LastUpdate_Ratings": "2023-09-03T09:01:23.7046986+00:00",
+  "LastUpdate_Achievements": "2023-09-03T09:07:34.7370573+00:00"
 }
