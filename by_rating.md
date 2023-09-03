@@ -141,7 +141,7 @@
 | 135 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 655 | 174 |
 | 135 | [Hypnospace Outlaw](games/h/hypnospace_outlaw.md) | 4.75 | 0 | 516 |
 | 135 | [Legend Bowl](games/l/legend_bowl.md) | 4.75 | 0 | 516 |
-| 135 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 581 | 185 |
+| 135 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 581 | 186 |
 | 135 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.75 | 0 | 516 |
 | 135 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.75 | 0 | 516 |
 | 135 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 0 | 516 |
@@ -535,7 +535,7 @@
 | 532 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 31,830 | 15 |
 | 532 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 21 | 504 |
 | 532 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.52 | 34 | 446 |
-| 532 | [Fall Guys](games/f/fall_guys.md) | 4.52 | 147,368 | 7 |
+| 532 | [Fall Guys](games/f/fall_guys.md) | 4.52 | 147,429 | 7 |
 | 532 | [For Honor Standard Edition](games/f/for_honor_standard_edition.md) | 4.52 | 0 | 516 |
 | 532 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 529 | 196 |
 | 532 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 102 | 334 |
@@ -659,7 +659,7 @@
 | 652 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.44 | 33 | 449 |
 | 652 | [Pathway](games/p/pathway.md) | 4.44 | 0 | 516 |
 | 652 | [SMITE](games/s/smite.md) | 4.44 | 4,231 | 77 |
-| 652 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 578 | 186 |
+| 652 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 578 | 187 |
 | 652 | [STG Football](games/s/stg_football.md) | 4.44 | 45 | 413 |
 | 652 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 0 | 516 |
 | 652 | [The Captain](games/t/the_captain.md) | 4.44 | 97 | 341 |
@@ -720,7 +720,7 @@
 | 718 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.39 | 0 | 516 |
 | 718 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 1,020 | 143 |
 | 718 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 0 | 516 |
-| 718 | [MORDHAU](games/m/mordhau.md) | 4.39 | 574 | 188 |
+| 718 | [MORDHAU](games/m/mordhau.md) | 4.39 | 582 | 185 |
 | 718 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,751 | 31 |
 | 718 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 0 | 516 |
 | 718 | [Tacoma](games/t/tacoma.md) | 4.39 | 0 | 516 |
@@ -732,7 +732,7 @@
 | 728 | [Beholder 3](games/b/beholder_3.md) | 4.38 | 0 | 516 |
 | 728 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 0 | 516 |
 | 728 | [Dungeon Fighter Online](games/b/b567cb36ae39435792fe40d2e913cd92.md) | 4.38 | 0 | 516 |
-| 728 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 575 | 187 |
+| 728 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 575 | 188 |
 | 728 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 164 | 291 |
 | 728 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 172 | 288 |
 | 728 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.38 | 73 | 374 |

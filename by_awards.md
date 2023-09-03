@@ -6,7 +6,7 @@
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 219,871 | 4.68 | 241 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 197,746 | 4.19 | 874 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 172,168 | 4.88 | 19 |
-| 7 | [Fall Guys](games/f/fall_guys.md) | 147,368 | 4.52 | 532 |
+| 7 | [Fall Guys](games/f/fall_guys.md) | 147,429 | 4.52 | 532 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 115,613 | 4.69 | 219 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 77,130 | 4.62 | 355 |
 | 10 | [VALORANT](games/v/valorant.md) | 67,895 | 4.53 | 520 |
@@ -184,10 +184,10 @@
 | 182 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 601 | 4.73 | 162 |
 | 183 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 597 | 4.67 | 259 |
 | 184 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 585 | 4.23 | 852 |
-| 185 | [Riders Republic](games/r/riders_republic.md) | 581 | 4.75 | 135 |
-| 186 | [Star Trek Online](games/s/star_trek_online.md) | 578 | 4.44 | 652 |
-| 187 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 575 | 4.38 | 728 |
-| 188 | [MORDHAU](games/m/mordhau.md) | 574 | 4.39 | 718 |
+| 185 | [MORDHAU](games/m/mordhau.md) | 582 | 4.39 | 718 |
+| 186 | [Riders Republic](games/r/riders_republic.md) | 581 | 4.75 | 135 |
+| 187 | [Star Trek Online](games/s/star_trek_online.md) | 578 | 4.44 | 652 |
+| 188 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 575 | 4.38 | 728 |
 | 189 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 563 | 4.62 | 355 |
 | 190 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 562 | 4.68 | 241 |
 | 190 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 562 | 4.66 | 280 |

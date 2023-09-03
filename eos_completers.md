@@ -39,7 +39,7 @@
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
 | 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.14% |
 | 39 | [Scorn](games/s/scorn.md) | 6.99% |
-| 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.97% |
+| 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.95% |
 | 41 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.78% |
 | 42 | [Time Loader](games/t/time_loader.md) | 6.72% |
 | 43 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
@@ -130,7 +130,7 @@
 | 128 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 129 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
 | 130 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.81% |
-| 131 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.76% |
+| 131 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.75% |
 | 132 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
 | 133 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.73% |
 | 134 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.72% |
@@ -175,8 +175,8 @@
 | 171 | [The Surge](games/t/the_surge.md) | 0.35% |
 | 171 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.35% |
 | 175 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.34% |
-| 175 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.34% |
-| 177 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.33% |
+| 176 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.33% |
+| 176 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.33% |
 | 178 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 178 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
 | 178 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
