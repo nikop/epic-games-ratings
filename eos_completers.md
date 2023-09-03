@@ -3,7 +3,7 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 51.85% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.90% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 37.31% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 37.04% |
 | 5 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 33.33% |
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.23% |
 | 7 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
@@ -35,9 +35,9 @@
 | 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.97% |
 | 34 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.89% |
 | 35 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.61% |
-| 36 | [Ravenlok](games/r/ravenlok.md) | 7.81% |
-| 37 | [Time Loader](games/t/time_loader.md) | 7.56% |
-| 38 | [Smelter](games/s/smelter.md) | 7.50% |
+| 36 | [Ravenlok](games/r/ravenlok.md) | 7.80% |
+| 37 | [Smelter](games/s/smelter.md) | 7.50% |
+| 37 | [Time Loader](games/t/time_loader.md) | 7.50% |
 | 39 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.19% |
 | 40 | [Scorn](games/s/scorn.md) | 7.03% |
 | 41 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.95% |
@@ -79,11 +79,11 @@
 | 77 | [Destiny 2](games/d/destiny_2.md) | 2.73% |
 | 77 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 79 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.70% |
-| 80 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.63% |
-| 81 | [The Bunker](games/t/the_bunker.md) | 2.59% |
-| 82 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.57% |
-| 83 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.56% |
-| 83 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.56% |
+| 80 | [The Bunker](games/t/the_bunker.md) | 2.59% |
+| 81 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.57% |
+| 82 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.56% |
+| 82 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.56% |
+| 82 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.56% |
 | 85 | [Lamentum](games/l/lamentum.md) | 2.53% |
 | 86 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.50% |
 | 86 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
@@ -134,7 +134,7 @@
 | 132 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.73% |
 | 133 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.71% |
 | 133 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.71% |
-| 135 | [Lemon Cake](games/l/lemon_cake.md) | 0.69% |
+| 135 | [Lemon Cake](games/l/lemon_cake.md) | 0.68% |
 | 136 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.67% |
 | 137 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.66% |
 | 138 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.65% |
@@ -200,13 +200,13 @@
 | 198 | [RAILGRADE](games/r/railgrade.md) | 0.19% |
 | 199 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.18% |
 | 200 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.17% |
-| 201 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.16% |
 | 201 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
 | 201 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 201 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
 | 201 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.16% |
-| 206 | [BLACKTAIL](games/b/blacktail.md) | 0.15% |
-| 206 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
+| 205 | [BLACKTAIL](games/b/blacktail.md) | 0.15% |
+| 205 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.15% |
+| 205 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
 | 208 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.14% |
 | 209 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.13% |
 | 210 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.12% |

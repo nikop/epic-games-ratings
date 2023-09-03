@@ -72,7 +72,7 @@
 | 65 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 33 | 449 |
 | 65 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 638 | 178 |
 | 65 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.82 | 240 | 259 |
-| 65 | [Sifu](games/s/sifu.md) | 4.82 | 6,424 | 53 |
+| 65 | [Sifu](games/s/sifu.md) | 4.82 | 6,430 | 53 |
 | 65 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 407 | 216 |
 | 65 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 44 | 419 |
 | 65 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.82 | 0 | 517 |
@@ -107,9 +107,9 @@
 | 101 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 754 | 162 |
 | 101 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,390 | 103 |
 | 101 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,462 | 123 |
-| 101 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 933 | 149 |
+| 101 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 935 | 149 |
 | 101 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 517 |
-| 110 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 4,526 | 73 |
+| 110 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 4,568 | 72 |
 | 110 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 6,897 | 51 |
 | 110 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 22,157 | 17 |
 | 110 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 38 | 429 |
@@ -199,12 +199,12 @@
 | 190 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.71 | 0 | 517 |
 | 190 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.71 | 1,847 | 112 |
 | 190 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.71 | 0 | 517 |
-| 200 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,567 | 72 |
+| 200 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,567 | 73 |
 | 200 | [Black Book](games/b/black_book.md) | 4.70 | 31 | 460 |
 | 200 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 384 | 222 |
 | 200 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 404 | 217 |
 | 200 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.70 | 0 | 517 |
-| 200 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.70 | 7,101 | 49 |
+| 200 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.70 | 7,110 | 49 |
 | 200 | [For The King](games/f/for_the_king.md) | 4.70 | 385 | 221 |
 | 200 | [GNOG](games/g/gnog.md) | 4.70 | 0 | 517 |
 | 200 | [GoNNER](games/g/gonner.md) | 4.70 | 0 | 517 |
@@ -525,7 +525,7 @@
 | 520 | [Dauntless](games/d/dauntless.md) | 4.53 | 21,671 | 18 |
 | 520 | [Everything](games/e/everything.md) | 4.53 | 0 | 517 |
 | 520 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.53 | 0 | 517 |
-| 520 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 1,425 | 126 |
+| 520 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 1,428 | 126 |
 | 520 | [MotoGP™21](games/m/motogp™21.md) | 4.53 | 22 | 496 |
 | 520 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 0 | 517 |
 | 520 | [RUINER](games/r/ruiner.md) | 4.53 | 24 | 487 |
@@ -859,20 +859,20 @@
 | 856 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.22 | 0 | 517 |
 | 856 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 207 | 271 |
 | 856 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.22 | 78 | 366 |
+| 860 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 123 | 316 |
 | 860 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.21 | 0 | 517 |
 | 860 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 32 | 455 |
 | 860 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.21 | 0 | 517 |
 | 860 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.21 | 0 | 517 |
 | 860 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 3,652 | 84 |
 | 860 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.21 | 0 | 517 |
-| 866 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 123 | 316 |
-| 866 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 123 | 316 |
-| 866 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 0 | 517 |
-| 866 | [Druidstone: The Secret of the Menhir Forest](games/d/druidstone__the_secret_of_the_menhir_forest.md) | 4.20 | 0 | 517 |
-| 866 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 22 | 496 |
-| 866 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 0 | 517 |
-| 866 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 76 | 369 |
-| 866 | [Somerville](games/s/somerville.md) | 4.20 | 0 | 517 |
+| 867 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 123 | 316 |
+| 867 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 0 | 517 |
+| 867 | [Druidstone: The Secret of the Menhir Forest](games/d/druidstone__the_secret_of_the_menhir_forest.md) | 4.20 | 0 | 517 |
+| 867 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 22 | 496 |
+| 867 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 0 | 517 |
+| 867 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 76 | 369 |
+| 867 | [Somerville](games/s/somerville.md) | 4.20 | 0 | 517 |
 | 874 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 404 |
 | 874 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 33 | 449 |
 | 874 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 198,009 | 5 |
