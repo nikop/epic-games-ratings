@@ -82,7 +82,7 @@
 | 80 | [Days Gone](games/d/days_gone.md) | 3,926 | 4.68 | 241 |
 | 81 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,830 | 4.57 | 454 |
 | 82 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 3,816 | 4.68 | 241 |
-| 83 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,744 | 4.28 | 814 |
+| 83 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,749 | 4.28 | 814 |
 | 84 | [League of Legends](games/l/league_of_legends.md) | 3,652 | 4.21 | 860 |
 | 85 | [Paladins](games/p/paladins.md) | 3,579 | 4.34 | 765 |
 | 86 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,517 | 4.46 | 629 |

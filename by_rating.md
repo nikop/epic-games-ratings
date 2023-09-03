@@ -815,7 +815,7 @@
 | 804 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 126 | 313 |
 | 814 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.28 | 0 | 516 |
 | 814 | [ELEX II](games/e/elex_ii.md) | 4.28 | 0 | 516 |
-| 814 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.28 | 3,744 | 83 |
+| 814 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.28 | 3,749 | 83 |
 | 814 | [Men of War](games/m/men_of_war.md) | 4.28 | 0 | 516 |
 | 814 | [Mortal Shell](games/m/mortal_shell.md) | 4.28 | 0 | 516 |
 | 814 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 4.28 | 0 | 516 |
@@ -978,7 +978,7 @@
 | 975 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.78 | 75 | 370 |
 | 977 | [To The Rescue](games/t/to_the_rescue.md) | 3.77 | 0 | 516 |
 | 977 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.77 | 0 | 516 |
-| 979 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 3.73 | 0 | 516 |
+| 979 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 3.76 | 0 | 516 |
 | 980 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.72 | 0 | 516 |
 | 981 | [Chainmonsters](games/c/chainmonsters.md) | 3.68 | 0 | 516 |
 | 982 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.60 | 0 | 516 |
