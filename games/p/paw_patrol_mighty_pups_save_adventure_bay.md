@@ -12,9 +12,9 @@
 | Mr. Porter | 50.00% | ~11 |
 | Carlos Is Tangled | 50.00% | ~11 |
 | Mandy Family | 41.00% | ~9 |
+| Break Time | 36.00% | ~8 |
 | Paw patrol member | 36.00% | ~8 |
 | Robot Out of Control | 36.00% | ~8 |
-| Break Time | 32.00% | ~7 |
 | Master of the Rope | 32.00% | ~7 |
 | Training Day | 32.00% | ~7 |
 | The Fastest | 32.00% | ~7 |

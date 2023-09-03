@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 196,
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 76,
+  "Ranking_EOS_NewPlayers": 77,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -579,7 +579,7 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 221832,
+  "EOS_Progressed": 221836,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 564,
   "EOS_NewCompleters": 0,
@@ -15364,6 +15364,11 @@
       "Time": "2023-09-03T12:05:30.7130006+00:00",
       "NumProgressed": 221832,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-03T13:08:40.2494079+00:00",
+      "NumProgressed": 221836,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -15375,7 +15380,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 42148
+      "UsersEstimate": 42149
     },
     {
       "ID": "ACH_BASE_10",
@@ -15383,7 +15388,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 57676
+      "UsersEstimate": 57677
     },
     {
       "ID": "ACH_BASE_11",
@@ -15391,7 +15396,7 @@
       "Name": "False God",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "ACH_BASE_12",
@@ -15646,7 +15651,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 221832,
+      "Progressed": 221836,
       "Completed": 5
     }
   ],
@@ -15654,8 +15659,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-08-31T18:57:31.710644+00:00",
-  "LastChanged_Achievements": "2023-09-03T12:05:30.713+00:00",
+  "LastChanged_Achievements": "2023-09-03T13:08:40.249407+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:01.6485466+00:00",
-  "LastUpdate_Ratings": "2023-09-03T11:58:22.4227458+00:00",
-  "LastUpdate_Achievements": "2023-09-03T12:05:30.7131231+00:00"
+  "LastUpdate_Ratings": "2023-09-03T13:01:15.9291578+00:00",
+  "LastUpdate_Achievements": "2023-09-03T13:08:40.2495219+00:00"
 }

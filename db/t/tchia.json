@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -218,9 +218,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7427,
+  "EOS_Progressed": 7428,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -6708,6 +6708,11 @@
       "Time": "2023-09-03T10:03:57.3946581+00:00",
       "NumProgressed": 7427,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-09-03T13:06:20.0480048+00:00",
+      "NumProgressed": 7428,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 21,
@@ -6829,9 +6834,9 @@
       "ID": "LIBERATOR",
       "SetID": "3cck1g6",
       "Name": "Liberator",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 297
+      "UsersEstimate": 371
     },
     {
       "ID": "LIVE_WIRE",
@@ -6886,7 +6891,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7427,
+      "Progressed": 7428,
       "Completed": 32
     }
   ],
@@ -6894,8 +6899,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-08-26T01:39:24.8497831+00:00",
-  "LastChanged_Achievements": "2023-09-03T12:03:53.4688271+00:00",
+  "LastChanged_Achievements": "2023-09-03T13:06:20.048004+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:14.1887687+00:00",
-  "LastUpdate_Ratings": "2023-09-03T11:57:49.8074073+00:00",
-  "LastUpdate_Achievements": "2023-09-03T12:03:53.468885+00:00"
+  "LastUpdate_Ratings": "2023-09-03T13:00:28.7269259+00:00",
+  "LastUpdate_Achievements": "2023-09-03T13:06:20.0480753+00:00"
 }

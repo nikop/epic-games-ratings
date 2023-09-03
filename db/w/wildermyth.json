@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 482,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -151,9 +151,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1383,
+  "EOS_Progressed": 1386,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -1426,6 +1426,11 @@
       "Time": "2023-09-02T07:04:27.6251242+00:00",
       "NumProgressed": 1383,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-03T13:07:20.5900536+00:00",
+      "NumProgressed": 1386,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 56,
@@ -1453,7 +1458,7 @@
       "Name": "Me and My Familiar",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -1509,7 +1514,7 @@
       "Name": "Passing Shadow",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "achievement_friendsBlock20Times",
@@ -1533,7 +1538,7 @@
       "Name": "Empty the Caves",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "achievement_kill1000Drauven",
@@ -1565,7 +1570,7 @@
       "Name": "Bonebreakers",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "achievement_kill1000Thrixl",
@@ -1573,7 +1578,7 @@
       "Name": "No More Nightmares",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "achievement_kill100Monsters",
@@ -1597,7 +1602,7 @@
       "Name": "This Too Shall Pass",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "achievement_loversVengeance10Kills",
@@ -1605,7 +1610,7 @@
       "Name": "How Romantic!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "achievement_maimedHero",
@@ -1613,7 +1618,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "achievement_mythwalker",
@@ -1629,7 +1634,7 @@
       "Name": "Cutthroat Competitors",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -1637,7 +1642,7 @@
       "Name": "Thematic Divergence",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "achievement_use3ReactionStrikesInOneTurn",
@@ -1693,7 +1698,7 @@
       "Name": "Echoes Die",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "completedStory_procedural",
@@ -1709,7 +1714,7 @@
       "Name": "Daybreak",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "completedStory_vultureLord",
@@ -1765,7 +1770,7 @@
       "Name": "Bears are Scary",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "theme_crow_blind20Enemies",
@@ -1797,7 +1802,7 @@
       "Name": "Some Say I\u0027m Too Flashy",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "theme_green_kill3Enemies",
@@ -1805,7 +1810,7 @@
       "Name": "Into Mulch",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "theme_morthagi_killWithBoltAndHammer",
@@ -1837,7 +1842,7 @@
       "Name": "Astrology",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "theme_storm_kill3Enemies",
@@ -1845,7 +1850,7 @@
       "Name": "Tempest",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "theme_tree_knockback50Tiles",
@@ -1869,7 +1874,7 @@
       "Name": "Lochias\u0027s Hunger",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ulstryx_killCalabyneInOneTurn",
@@ -1884,15 +1889,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1383,
+      "Progressed": 1386,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-07-08T20:01:41.3411794+00:00",
-  "LastChanged_Achievements": "2023-09-03T12:04:34.6909859+00:00",
+  "LastChanged_Achievements": "2023-09-03T13:07:20.590053+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:58:10.2902661+00:00",
-  "LastUpdate_Ratings": "2023-09-03T12:00:20.812884+00:00",
-  "LastUpdate_Achievements": "2023-09-03T12:04:34.6910441+00:00"
+  "LastUpdate_Ratings": "2023-09-03T13:04:06.5009035+00:00",
+  "LastUpdate_Achievements": "2023-09-03T13:07:20.5901272+00:00"
 }

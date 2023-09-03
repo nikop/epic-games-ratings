@@ -4,11 +4,11 @@
   "ProductSlug": "lawn-mowing-simulator-838bf3",
   "Ranking_Rating": 929,
   "Ranking_Popularity": 282,
-  "Ranking_PopularitySum": 243,
+  "Ranking_PopularitySum": 244,
   "Ranking_EOS_Progress": 24,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 38,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-07-28T15:00:00+00:00",
     "PcReleaseDate": "2022-07-28T15:00:00+00:00",
@@ -2113,9 +2113,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 661333,
+  "EOS_Progressed": 661351,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 2298,
+  "EOS_NewPlayers": 2290,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17248,6 +17248,11 @@
       "Time": "2023-09-03T12:04:09.3747459+00:00",
       "NumProgressed": 661333,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-09-03T13:06:43.4489579+00:00",
+      "NumProgressed": 661351,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 54,
@@ -17259,7 +17264,7 @@
       "Name": "The dream begins",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 529066
+      "UsersEstimate": 529081
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -17339,7 +17344,7 @@
       "Name": "Where there\u0027s muck there\u0027s brass",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 26453
+      "UsersEstimate": 26454
     },
     {
       "ID": "COMPLETE_ONE_CONTRACT",
@@ -17347,7 +17352,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 238080
+      "UsersEstimate": 238086
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -17371,7 +17376,7 @@
       "Name": "Size isn\u0027t everything",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 19840
+      "UsersEstimate": 19841
     },
     {
       "ID": "CONTRACT_WITHIN_10SEC",
@@ -17379,7 +17384,7 @@
       "Name": "Close shave",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 19840
+      "UsersEstimate": 19841
     },
     {
       "ID": "DLC001_CHALLENGES",
@@ -17499,7 +17504,7 @@
       "Name": "The first of many",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 205013
+      "UsersEstimate": 205019
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -17531,7 +17536,7 @@
       "Name": "Teamwork makes the dream work",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 39680
+      "UsersEstimate": 39681
     },
     {
       "ID": "NO_FINE_CONTRACT",
@@ -17563,7 +17568,7 @@
       "Name": "Lawn in the U.S.A.",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 99200
+      "UsersEstimate": 99203
     },
     {
       "ID": "PART_EX_LESS_EXPENSIVE",
@@ -17579,7 +17584,7 @@
       "Name": "Bigger and better",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 26453
+      "UsersEstimate": 26454
     },
     {
       "ID": "PICK_UP_250_OBJECTS",
@@ -17595,7 +17600,7 @@
       "Name": "The top of the mountain",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 6613
+      "UsersEstimate": 6614
     },
     {
       "ID": "PURCHASE_SECOND_HQ",
@@ -17619,7 +17624,7 @@
       "Name": "Credible",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 46293
+      "UsersEstimate": 46295
     },
     {
       "ID": "RP_DISTINGUISHED",
@@ -17635,7 +17640,7 @@
       "Name": "Established",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 19840
+      "UsersEstimate": 19841
     },
     {
       "ID": "RP_ESTEEMED",
@@ -17659,7 +17664,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 119040
+      "UsersEstimate": 119043
     },
     {
       "ID": "RP_TRUSTED",
@@ -17675,7 +17680,7 @@
       "Name": "Blade Runner",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 59520
+      "UsersEstimate": 59522
     },
     {
       "ID": "UPGRADE_COMPANY_HQ",
@@ -17683,22 +17688,22 @@
       "Name": "Aggressive expansion",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 26453
+      "UsersEstimate": 26454
     }
   ],
   "AchievementSets": [
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 661333,
+      "Progressed": 661351,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-09-01T01:43:09.0521396+00:00",
-  "LastChanged_Achievements": "2023-09-03T12:04:09.3747453+00:00",
+  "LastChanged_Achievements": "2023-09-03T13:06:43.4489571+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:31.306227+00:00",
-  "LastUpdate_Ratings": "2023-09-03T11:58:01.9397023+00:00",
-  "LastUpdate_Achievements": "2023-09-03T12:04:09.3748924+00:00"
+  "LastUpdate_Ratings": "2023-09-03T13:00:45.5651397+00:00",
+  "LastUpdate_Achievements": "2023-09-03T13:06:43.4490926+00:00"
 }

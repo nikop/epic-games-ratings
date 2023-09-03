@@ -17,11 +17,11 @@
 | Brilliant: Meadowshire | 74.00% | ~124 |
 | Look After the Pence... | 74.00% | ~124 |
 | Sergeant of the Evil | 74.00% | ~124 |
-| Drunken Master | 72.00% | ~120 |
+| Drunken Master | 73.00% | ~122 |
 | V.I.P. Cemetery | 71.00% | ~119 |
 | Takeover | 70.00% | ~117 |
+| Woodcutter | 70.00% | ~117 |
 | Top of the World | 69.00% | ~115 |
-| Woodcutter | 69.00% | ~115 |
 | Sharpshooter | 69.00% | ~115 |
 | Architect of Darkness | 69.00% | ~115 |
 | The Apotheosis of War | 67.00% | ~112 |

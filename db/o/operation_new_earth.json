@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1209,
+  "EOS_Progressed": 1210,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4271,6 +4271,11 @@
       "Time": "2023-09-03T12:05:48.1202968+00:00",
       "NumProgressed": 1209,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-03T13:09:06.4939181+00:00",
+      "NumProgressed": 1210,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4394,7 +4399,7 @@
       "Name": "Corporal",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -4538,7 +4543,7 @@
       "Name": "Defenses Online",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -4585,14 +4590,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1209,
+      "Progressed": 1210,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-03T12:05:48.1202961+00:00",
+  "LastChanged_Achievements": "2023-09-03T13:09:06.4939175+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:58:09.0134138+00:00",
-  "LastUpdate_Ratings": "2023-09-03T12:00:20.2209767+00:00",
-  "LastUpdate_Achievements": "2023-09-03T12:05:48.1203522+00:00"
+  "LastUpdate_Ratings": "2023-09-03T13:04:05.5299892+00:00",
+  "LastUpdate_Achievements": "2023-09-03T13:09:06.4939755+00:00"
 }

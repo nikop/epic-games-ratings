@@ -4200,9 +4200,9 @@
       "Count": 336
     }
   ],
-  "EOS_Progressed": 672393,
+  "EOS_Progressed": 672458,
   "EOS_Completed": 2106,
-  "EOS_NewPlayers": 5701,
+  "EOS_NewPlayers": 5711,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -19365,6 +19365,11 @@
       "Time": "2023-09-03T12:05:12.6746819+00:00",
       "NumProgressed": 672393,
       "NumCompleted": 2106
+    },
+    {
+      "Time": "2023-09-03T13:08:14.0986885+00:00",
+      "NumProgressed": 672458,
+      "NumCompleted": 2106
     }
   ],
   "TotalAchievements": 45,
@@ -19374,9 +19379,9 @@
       "ID": "ach_a_day_in_the_beach",
       "SetID": "7km39fm",
       "Name": "Dr. Reed, I Presume?",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 4707
+      "UsersEstimate": 5380
     },
     {
       "ID": "ach_a_taste_of_stardom",
@@ -19392,7 +19397,7 @@
       "Name": "Git Gutte!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5379
+      "UsersEstimate": 5380
     },
     {
       "ID": "ach_anger_management",
@@ -19472,7 +19477,7 @@
       "Name": "Slayer Squad",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4034
+      "UsersEstimate": 4035
     },
     {
       "ID": "ach_explorer",
@@ -19496,7 +19501,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5379
+      "UsersEstimate": 5380
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -19520,15 +19525,15 @@
       "Name": "Hazardous Materials",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5379
+      "UsersEstimate": 5380
     },
     {
       "ID": "ach_her_name_was_lola",
       "SetID": "7km39fm",
       "Name": "Friends Like These",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 4707
+      "UsersEstimate": 5380
     },
     {
       "ID": "ach_hotel_california",
@@ -19536,7 +19541,7 @@
       "Name": "Hotel California",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6724
+      "UsersEstimate": 6725
     },
     {
       "ID": "ach_impressive_aim",
@@ -19584,7 +19589,7 @@
       "Name": "Zombologist",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4034
+      "UsersEstimate": 4035
     },
     {
       "ID": "ach_legendary",
@@ -19606,9 +19611,9 @@
       "ID": "ach_metropolitan",
       "SetID": "7km39fm",
       "Name": "A Patton Emerges",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4034
+      "UsersEstimate": 4707
     },
     {
       "ID": "ach_mind_over_monster",
@@ -19624,7 +19629,7 @@
       "Name": "I Am the Resurrection",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4034
+      "UsersEstimate": 4035
     },
     {
       "ID": "ach_salvation",
@@ -19648,7 +19653,7 @@
       "Name": "Stacking the Deck",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5379
+      "UsersEstimate": 5380
     },
     {
       "ID": "ach_star_performance",
@@ -19656,7 +19661,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5379
+      "UsersEstimate": 5380
     },
     {
       "ID": "ach_survival_expert",
@@ -19688,7 +19693,7 @@
       "Name": "Our True Nature",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 4034
+      "UsersEstimate": 4035
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -19712,7 +19717,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6724
+      "UsersEstimate": 6725
     },
     {
       "ID": "ach_well_known_survivor",
@@ -19735,7 +19740,7 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 672393,
+      "Progressed": 672458,
       "Completed": 2106
     }
   ],
@@ -19743,8 +19748,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-03T11:58:25.140981+00:00",
-  "LastChanged_Achievements": "2023-09-03T12:05:12.6746814+00:00",
+  "LastChanged_Achievements": "2023-09-03T13:08:14.0986879+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:04.7021628+00:00",
-  "LastUpdate_Ratings": "2023-09-03T11:58:25.1409817+00:00",
-  "LastUpdate_Achievements": "2023-09-03T12:05:12.6747985+00:00"
+  "LastUpdate_Ratings": "2023-09-03T13:01:18.7792347+00:00",
+  "LastUpdate_Achievements": "2023-09-03T13:08:14.0988667+00:00"
 }

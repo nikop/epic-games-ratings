@@ -2,12 +2,12 @@
   "ID": "80e804312c2149c69a75aee703e85a9a",
   "Name": "Warface",
   "ProductSlug": "warface",
-  "Ranking_Rating": 961,
+  "Ranking_Rating": 962,
   "Ranking_Popularity": 215,
   "Ranking_PopularitySum": 155,
   "Ranking_EOS_Progress": 572,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-06-29T09:00:00+00:00",
@@ -3532,6 +3532,6 @@
   "FirstSeen": "2022-07-22T20:31:34.3823284+00:00",
   "LastChanged": "2023-09-02T19:00:48.5383328+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:30.3426457+00:00",
-  "LastUpdate_Ratings": "2023-09-03T11:59:42.3151857+00:00",
-  "LastUpdate_Achievements": "2023-09-03T12:04:10.7538532+00:00"
+  "LastUpdate_Ratings": "2023-09-03T13:03:08.9621536+00:00",
+  "LastUpdate_Achievements": "2023-09-03T13:06:45.436075+00:00"
 }

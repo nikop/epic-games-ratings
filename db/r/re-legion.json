@@ -4,7 +4,7 @@
   "ProductSlug": "relegion-fe9684",
   "Ranking_EOS_Progress": 572,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-05-19T14:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:12.3947796+00:00",
   "LastChanged": "2023-03-31T05:57:12.3947798+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:46.2675242+00:00",
-  "LastUpdate_Ratings": "2023-09-03T11:59:54.1560356+00:00",
-  "LastUpdate_Achievements": "2023-09-03T12:07:03.2566198+00:00"
+  "LastUpdate_Ratings": "2023-09-03T13:03:26.0450246+00:00",
+  "LastUpdate_Achievements": "2023-09-03T13:10:52.1277172+00:00"
 }

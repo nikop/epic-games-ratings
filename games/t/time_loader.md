@@ -8,29 +8,29 @@
 | Springs | 61.00% | ~73 |
 | Soap | 41.00% | ~49 |
 | Act 1 | 34.00% | ~40 |
+| Wrench | 33.00% | ~39 |
 | Capacitors | 33.00% | ~39 |
-| Wrench | 32.00% | ~38 |
-| Purr-fect | 31.00% | ~37 |
+| Purr-fect | 32.00% | ~38 |
 | Mug | 29.00% | ~35 |
 | Soldering iron | 29.00% | ~35 |
 | Robot Bros | 25.00% | ~30 |
 | Act 2 | 24.00% | ~29 |
 | Harpoon | 22.00% | ~26 |
-| Act 3 | 21.00% | ~25 |
+| Act 3 | 22.00% | ~26 |
 | Cassette | 20.00% | ~24 |
 | Here we go again | 19.00% | ~23 |
 | Flyer | 18.00% | ~21 |
+| It’s in the Vault | 15.00% | ~18 |
 | Dr. Antivirus | 15.00% | ~18 |
 | Photo | 14.00% | ~17 |
-| It’s in the Vault | 14.00% | ~17 |
 | Access protocol | 14.00% | ~17 |
 | Time Capsule | 13.00% | ~15 |
 | Ticket | 13.00% | ~15 |
 | Baseball | 10.00% | ~12 |
 | Contract | 9.00% | ~11 |
-| VHS blogger | 8.00% | ~10 |
+| VHS blogger | 9.00% | ~11 |
+| New Dawn | 9.00% | ~11 |
 | Out of the loop | 8.00% | ~10 |
-| New Dawn | 8.00% | ~10 |
 | Leave me alone | 8.00% | ~10 |
 | Secret ending | 8.00% | ~10 |
 ## Popularity (Based on EOS Achievements)

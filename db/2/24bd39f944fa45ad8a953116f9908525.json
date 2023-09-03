@@ -4,7 +4,7 @@
   "ProductSlug": "haak-1401cb",
   "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewPlayers": 299,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-06-30T02:00:00+00:00",
@@ -239,17 +239,17 @@
       "ID": "ach_03_anyTrain",
       "SetID": "16n29hg",
       "Name": "Can I get a ride?",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ach_04_runOnFoot",
       "SetID": "16n29hg",
       "Name": "Flee on Foot",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ach_05_northStation",
@@ -662,8 +662,8 @@
   ],
   "FirstSeen": "2023-06-30T05:57:16.6793848+00:00",
   "FirstSeenAchievements": "2023-06-20T07:03:35.8699826+00:00",
-  "LastChanged_Achievements": "2023-09-03T12:04:02.6306355+00:00",
+  "LastChanged_Achievements": "2023-09-03T13:06:33.8210078+00:00",
   "LastUpdate_AppInfo": "2023-08-30T10:57:08.8007653+00:00",
-  "LastUpdate_Ratings": "2023-09-03T12:00:44.5813592+00:00",
-  "LastUpdate_Achievements": "2023-09-03T12:04:02.6306896+00:00"
+  "LastUpdate_Ratings": "2023-09-03T13:04:39.8904064+00:00",
+  "LastUpdate_Achievements": "2023-09-03T13:06:33.8210669+00:00"
 }

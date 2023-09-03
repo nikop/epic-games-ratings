@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 33,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewPlayers": 76,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
@@ -494,9 +494,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 526599,
+  "EOS_Progressed": 526601,
   "EOS_Completed": 468,
-  "EOS_NewPlayers": 575,
+  "EOS_NewPlayers": 572,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -14994,6 +14994,11 @@
       "Time": "2023-09-03T12:03:55.892247+00:00",
       "NumProgressed": 526599,
       "NumCompleted": 468
+    },
+    {
+      "Time": "2023-09-03T13:06:23.9710132+00:00",
+      "NumProgressed": 526601,
+      "NumCompleted": 468
     }
   ],
   "TotalAchievements": 57,
@@ -15021,7 +15026,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 368619
+      "UsersEstimate": 368621
     },
     {
       "ID": "12",
@@ -15085,7 +15090,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 326491
+      "UsersEstimate": 326493
     },
     {
       "ID": "2",
@@ -15333,7 +15338,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 326491
+      "UsersEstimate": 326493
     },
     {
       "ID": "48",
@@ -15460,15 +15465,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 526599,
+      "Progressed": 526601,
       "Completed": 468
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-09-03T12:03:55.8922464+00:00",
+  "LastChanged_Achievements": "2023-09-03T13:06:23.9710125+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:25.8959885+00:00",
-  "LastUpdate_Ratings": "2023-09-03T11:57:34.076224+00:00",
-  "LastUpdate_Achievements": "2023-09-03T12:03:55.89239+00:00"
+  "LastUpdate_Ratings": "2023-09-03T13:00:04.4305974+00:00",
+  "LastUpdate_Achievements": "2023-09-03T13:06:23.9712382+00:00"
 }

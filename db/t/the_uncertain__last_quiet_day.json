@@ -4,7 +4,7 @@
   "ProductSlug": "the-uncertain-last-quiet-day",
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 72,
-  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 531,
+  "EOS_Progressed": 532,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.01,
   "EosHistory": [
@@ -566,6 +566,11 @@
       "Time": "2023-08-28T18:06:56.0426782+00:00",
       "NumProgressed": 531,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-09-03T13:10:37.9890702+00:00",
+      "NumProgressed": 532,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 32,
@@ -601,7 +606,7 @@
       "Name": "Buckle up",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "CONCRETE_PAINTING",
@@ -625,7 +630,7 @@
       "Name": "Everybody lies",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "EVERY_LITTLE_HELPS",
@@ -665,7 +670,7 @@
       "Name": "Hands up!",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "HAPPY_HALLOWEEN",
@@ -697,7 +702,7 @@
       "Name": "I can do a thing or two",
       "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "LUCKY_DOG",
@@ -713,7 +718,7 @@
       "Name": "Meticulous",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "NOT_CLUMSY",
@@ -737,7 +742,7 @@
       "Name": "Now you know",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "PERFECT_HEARING",
@@ -777,7 +782,7 @@
       "Name": "Short circuit",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "SILENT",
@@ -832,7 +837,7 @@
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 531,
+      "Progressed": 532,
       "Completed": 16
     }
   ],
@@ -840,8 +845,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-09-03T12:06:53.492765+00:00",
+  "LastChanged_Achievements": "2023-09-03T13:10:37.9890696+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:45.1493915+00:00",
-  "LastUpdate_Ratings": "2023-09-03T11:58:53.5158721+00:00",
-  "LastUpdate_Achievements": "2023-09-03T12:06:53.4927921+00:00"
+  "LastUpdate_Ratings": "2023-09-03T13:01:58.5430417+00:00",
+  "LastUpdate_Achievements": "2023-09-03T13:10:37.9890983+00:00"
 }

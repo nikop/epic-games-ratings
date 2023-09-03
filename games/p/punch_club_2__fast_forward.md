@@ -7,7 +7,7 @@
 | Such a strange dream… | 88.00% | ~272 |
 | Your first fight | 86.00% | ~266 |
 | Good Person Chip | 85.00% | ~263 |
-| First winning | 83.00% | ~256 |
+| First winning | 84.00% | ~260 |
 | Your first job | 83.00% | ~256 |
 | Old movies enjoyer | 79.00% | ~244 |
 | Fitness professional | 78.00% | ~241 |

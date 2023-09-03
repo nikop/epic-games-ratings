@@ -6,13 +6,13 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cost of Heroism | 40.00% | ~553 |
-| Me and My Familiar | 37.00% | ~512 |
-| This Too Shall Pass | 31.00% | ~429 |
-| Passing Shadow | 30.00% | ~415 |
-| Cutthroat Competitors | 30.00% | ~415 |
-| How Romantic! | 28.00% | ~387 |
-| Daybreak | 28.00% | ~387 |
+| The Cost of Heroism | 40.00% | ~554 |
+| Me and My Familiar | 37.00% | ~513 |
+| This Too Shall Pass | 31.00% | ~430 |
+| Passing Shadow | 30.00% | ~416 |
+| Cutthroat Competitors | 30.00% | ~416 |
+| How Romantic! | 28.00% | ~388 |
+| Daybreak | 28.00% | ~388 |
 | Gotta Ca... Must Collect All of Them | 26.00% | ~360 |
 | Completing the Look | 14.00% | ~194 |
 | War Endured | 14.00% | ~194 |
@@ -20,8 +20,8 @@ Number of Ratings: 45  (23.09.2022)
 | A Mythic Menagerie | 13.00% | ~180 |
 | Who's Counting? | 13.00% | ~180 |
 | Pyrrhic Victory | 11.00% | ~152 |
-| Echoes Die | 10.00% | ~138 |
-| Thematic Divergence | 9.00% | ~124 |
+| Echoes Die | 10.00% | ~139 |
+| Thematic Divergence | 9.00% | ~125 |
 | Plague Doctor | 8.00% | ~111 |
 | Chain Reaction | 8.00% | ~111 |
 | Everfading | 8.00% | ~111 |
@@ -39,15 +39,15 @@ Number of Ratings: 45  (23.09.2022)
 | Worldwalker | 4.00% | ~55 |
 | Grillmaster | 4.00% | ~55 |
 | No Time for Clawmonsters | 4.00% | ~55 |
-| Empty the Caves | 3.00% | ~41 |
-| Bonebreakers | 3.00% | ~41 |
-| No More Nightmares | 3.00% | ~41 |
-| Bears are Scary | 3.00% | ~41 |
-| Some Say I'm Too Flashy | 3.00% | ~41 |
-| Into Mulch | 3.00% | ~41 |
-| Astrology | 3.00% | ~41 |
-| Tempest | 3.00% | ~41 |
-| Lochias's Hunger | 3.00% | ~41 |
+| Empty the Caves | 3.00% | ~42 |
+| Bonebreakers | 3.00% | ~42 |
+| No More Nightmares | 3.00% | ~42 |
+| Bears are Scary | 3.00% | ~42 |
+| Some Say I'm Too Flashy | 3.00% | ~42 |
+| Into Mulch | 3.00% | ~42 |
+| Astrology | 3.00% | ~42 |
+| Tempest | 3.00% | ~42 |
+| Lochias's Hunger | 3.00% | ~42 |
 | The Power of Friendship | 2.00% | ~28 |
 | Drauvenslayers | 2.00% | ~28 |
 | Back into the Sea | 2.00% | ~28 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | We Call That Mortificient! | 0.90% | ~12 |
 | Peacemaker | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,383 (Ranked 190)  
+Progressed: 1,386 (Ranked 190)  
 Completed: 5 (0.36%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,6 +174,7 @@ Completed: 5 (0.36%) (Ranked 167)
 | 2023-08-29 | 1,380 | 5 |
 | 2023-08-30 | 1,382 | 5 |
 | 2023-09-02 | 1,383 | 5 |
+| 2023-09-03 | 1,386 | 5 |
 ## Awards
 Max (Character Customization): 28  (Ranked 469)  
 Sum: 28 (Ranked 482)  

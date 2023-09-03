@@ -48,7 +48,7 @@
   "Tags": [],
   "EOS_Progressed": 663,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 202,
+  "EOS_NewPlayers": 201,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1002,9 +1002,9 @@
       "ID": "AC02",
       "SetID": "l4abp0",
       "Name": "Blood and Dust",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 444
+      "UsersEstimate": 451
     },
     {
       "ID": "AC03",
@@ -1026,9 +1026,9 @@
       "ID": "AC05",
       "SetID": "l4abp0",
       "Name": "The Sharpest Tool in the Shed",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 371
+      "UsersEstimate": 378
     },
     {
       "ID": "AC06",
@@ -1266,17 +1266,17 @@
       "ID": "AC35",
       "SetID": "l4abp0",
       "Name": "Flawless Penance",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 40
+      "UsersEstimate": 46
     },
     {
       "ID": "AC36",
       "SetID": "l4abp0",
       "Name": "Blessed Incense",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 146
     },
     {
       "ID": "AC37",
@@ -1363,8 +1363,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-02T10:03:53.5800972+00:00",
-  "LastChanged_Achievements": "2023-09-03T12:06:34.6571748+00:00",
+  "LastChanged_Achievements": "2023-09-03T13:10:11.5117727+00:00",
   "LastUpdate_AppInfo": "2023-08-29T18:57:21.35462+00:00",
-  "LastUpdate_Ratings": "2023-09-03T12:00:24.3784786+00:00",
-  "LastUpdate_Achievements": "2023-09-03T12:06:34.6572208+00:00"
+  "LastUpdate_Ratings": "2023-09-03T13:04:11.9471759+00:00",
+  "LastUpdate_Achievements": "2023-09-03T13:10:11.5118136+00:00"
 }

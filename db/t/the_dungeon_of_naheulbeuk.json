@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 353,
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 28,
+  "Ranking_EOS_NewPlayers": 29,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -786,9 +786,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 220745,
+  "EOS_Progressed": 220772,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2745,
+  "EOS_NewPlayers": 2739,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9401,6 +9401,11 @@
       "Time": "2023-09-03T12:04:49.0421218+00:00",
       "NumProgressed": 220745,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-03T13:07:40.5493737+00:00",
+      "NumProgressed": 220772,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -9412,7 +9417,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2207
+      "UsersEstimate": 2208
     },
     {
       "ID": "100Fail",
@@ -9444,7 +9449,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2207
+      "UsersEstimate": 2208
     },
     {
       "ID": "BookCollection",
@@ -9452,7 +9457,7 @@
       "Name": "Scholar of the Lands of Fangh",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "Chapter1",
@@ -9460,7 +9465,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6622
+      "UsersEstimate": 6623
     },
     {
       "ID": "Chapter2",
@@ -9476,7 +9481,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2207
+      "UsersEstimate": 2208
     },
     {
       "ID": "Chapter4",
@@ -9484,7 +9489,7 @@
       "Name": "The demons\u0027 feast",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2207
+      "UsersEstimate": 2208
     },
     {
       "ID": "Chapter5",
@@ -9492,7 +9497,7 @@
       "Name": "The Great Library",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2207
+      "UsersEstimate": 2208
     },
     {
       "ID": "Chapter6",
@@ -9500,7 +9505,7 @@
       "Name": "Torture and Sensibility",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2207
+      "UsersEstimate": 2208
     },
     {
       "ID": "Chapter7",
@@ -9508,7 +9513,7 @@
       "Name": "Urik\u0027s Depths",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2207
+      "UsersEstimate": 2208
     },
     {
       "ID": "Chapter8",
@@ -9516,7 +9521,7 @@
       "Name": "The Dungeon Master",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2207
+      "UsersEstimate": 2208
     },
     {
       "ID": "Chapter9",
@@ -9532,7 +9537,7 @@
       "Name": "Friendly fire",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "CompanionMinstrel",
@@ -9540,7 +9545,7 @@
       "Name": "I\u0027d rather... Just... Sing!",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "CompanionNone",
@@ -9564,7 +9569,7 @@
       "Name": "The Woman in the High Castle",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2207
+      "UsersEstimate": 2208
     },
     {
       "ID": "DLC1ChooseNecro",
@@ -9812,7 +9817,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6622
+      "UsersEstimate": 6623
     },
     {
       "ID": "DwarfElf15Support",
@@ -9860,7 +9865,7 @@
       "Name": "Sowwy!",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 59601
+      "UsersEstimate": 59608
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -9908,7 +9913,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8830
+      "UsersEstimate": 8831
     },
     {
       "ID": "FollowBraztok",
@@ -9932,7 +9937,7 @@
       "Name": "I\u0027ve seen that beard before! It was on sale, and came with a broomstick and a bucket!",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1324
+      "UsersEstimate": 1325
     },
     {
       "ID": "KillDungeonLich",
@@ -10004,7 +10009,7 @@
       "Name": "It\u0027s been a hard day\u0027s night",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "QuestMinstrel",
@@ -10068,7 +10073,7 @@
       "Name": "Team Building Exercise",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2207
+      "UsersEstimate": 2208
     },
     {
       "ID": "SystematicallyStupid",
@@ -10092,7 +10097,7 @@
       "Name": "Oh, when I\u0027ll be level 10...",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2207
+      "UsersEstimate": 2208
     },
     {
       "ID": "WizardEpic",
@@ -10115,21 +10120,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 220745,
+      "Progressed": 220772,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 220745,
+      "Progressed": 220772,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-03T07:58:18.9907851+00:00",
-  "LastChanged_Achievements": "2023-09-03T12:04:49.0421211+00:00",
+  "LastChanged_Achievements": "2023-09-03T13:07:40.5493732+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:55.2312629+00:00",
-  "LastUpdate_Ratings": "2023-09-03T11:58:17.2272571+00:00",
-  "LastUpdate_Achievements": "2023-09-03T12:04:49.0422808+00:00"
+  "LastUpdate_Ratings": "2023-09-03T13:01:09.635558+00:00",
+  "LastUpdate_Achievements": "2023-09-03T13:07:40.5495273+00:00"
 }
