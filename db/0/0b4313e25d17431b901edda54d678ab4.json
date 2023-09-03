@@ -4,7 +4,7 @@
   "ProductSlug": "echo-storm-4e5fbe",
   "Ranking_EOS_Progress": 392,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-05-11T05:00:00+00:00",
@@ -295,17 +295,17 @@
       "ID": "kill300",
       "SetID": "bma0pih",
       "Name": "Soldier",
-      "Percentage": 81,
+      "Percentage": 83,
       "XP": 100,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "kill750",
       "SetID": "bma0pih",
       "Name": "War machine",
-      "Percentage": 77,
+      "Percentage": 79,
       "XP": 150,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "killWithHammer",
@@ -390,8 +390,8 @@
   ],
   "FirstSeen": "2023-08-31T13:03:44.3512159+00:00",
   "FirstSeenAchievements": "2023-05-07T09:02:54.6493409+00:00",
-  "LastChanged_Achievements": "2023-09-03T17:07:37.090842+00:00",
+  "LastChanged_Achievements": "2023-09-03T18:05:47.3548797+00:00",
   "LastUpdate_AppInfo": "2023-09-03T16:57:17.2033406+00:00",
-  "LastUpdate_Ratings": "2023-09-03T17:00:30.959517+00:00",
-  "LastUpdate_Achievements": "2023-09-03T17:07:37.0908587+00:00"
+  "LastUpdate_Ratings": "2023-09-03T17:59:13.3871797+00:00",
+  "LastUpdate_Achievements": "2023-09-03T18:05:47.3548903+00:00"
 }

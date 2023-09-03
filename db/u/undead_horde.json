@@ -4,7 +4,7 @@
   "ProductSlug": "undead-horde-89d7d1",
   "Ranking_EOS_Progress": 508,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewPlayers": 350,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-04-11T10:00:00+00:00",
@@ -248,8 +248,8 @@
   "FirstSeenRating": "2023-04-24T19:59:13.9669535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:41.0780517+00:00",
   "LastChanged": "2023-04-24T19:59:13.9669536+00:00",
-  "LastChanged_Achievements": "2023-09-03T17:07:29.0894149+00:00",
+  "LastChanged_Achievements": "2023-09-03T18:05:41.544185+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:32.9634515+00:00",
-  "LastUpdate_Ratings": "2023-09-03T17:01:10.2726674+00:00",
-  "LastUpdate_Achievements": "2023-09-03T17:07:29.0894361+00:00"
+  "LastUpdate_Ratings": "2023-09-03T17:59:39.9723696+00:00",
+  "LastUpdate_Achievements": "2023-09-03T18:05:41.5441975+00:00"
 }

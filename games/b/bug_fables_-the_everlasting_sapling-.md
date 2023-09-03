@@ -13,11 +13,11 @@
 | Heavy Duty | 22.00% | ~20 |
 | Chapter 5 Complete | 21.00% | ~19 |
 | Chapter 6 Complete | 20.00% | ~18 |
+| Plant Enchanter | 19.00% | ~17 |
 | The Truth | 19.00% | ~17 |
 | Reconciliation | 19.00% | ~17 |
 | Always Watchful | 18.00% | ~16 |
 | Chapter 7 Complete | 18.00% | ~16 |
-| Plant Enchanter | 18.00% | ~16 |
 | Bounty Hunter | 14.00% | ~13 |
 | The Terror | 14.00% | ~13 |
 | All Geared Up | 12.00% | ~11 |

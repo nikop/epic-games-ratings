@@ -5,22 +5,22 @@ Rating: 4.64 (Ranked 316)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~19,928 |
+| Eye Scream, You Scream | 83.00% | ~19,929 |
 | Mods Please Ban | 77.00% | ~18,488 |
 | Bring A Knife to a Gun Fight | 76.00% | ~18,248 |
-| Fallout Doesn't Let You Do This | 73.00% | ~17,527 |
+| Fallout Doesn't Let You Do This | 73.00% | ~17,528 |
 | First Bounty Down | 59.00% | ~14,166 |
 | We're All Very Impressed, Trust Me | 57.00% | ~13,686 |
-| Luglox Genocide | 43.00% | ~10,324 |
-| Don't Knife The Hand That Feeds | 34.00% | ~8,163 |
-| Playing Card To Get | 33.00% | ~7,923 |
+| Luglox Genocide | 43.00% | ~10,325 |
+| Don't Knife The Hand That Feeds | 34.00% | ~8,164 |
+| Playing Card To Get | 33.00% | ~7,924 |
 | Creature Feature | 30.00% | ~7,203 |
 | Satisfied Gus-tomer | 28.00% | ~6,723 |
 | Cold-Blooded Driller | 28.00% | ~6,723 |
-| Are You Packin'? | 25.00% | ~6,002 |
-| Sweezy Like Sunday Morning | 25.00% | ~6,002 |
-| G3 Graduation | 25.00% | ~6,002 |
-| RIP Davey Glutes | 24.00% | ~5,762 |
+| Are You Packin'? | 25.00% | ~6,003 |
+| Sweezy Like Sunday Morning | 25.00% | ~6,003 |
+| G3 Graduation | 25.00% | ~6,003 |
+| RIP Davey Glutes | 24.00% | ~5,763 |
 | Hardest Battle In The Game | 22.00% | ~5,282 |
 | Series Wrap on Suit-O | 22.00% | ~5,282 |
 | Lezduit! | 20.00% | ~4,802 |
@@ -38,7 +38,7 @@ Rating: 4.64 (Ranked 316)
 | Epic Legendary Prize | 1.00% | ~240 |
 | A Starfish Is Born | 1.00% | ~240 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,010 (Ranked 104)  
+Progressed: 24,011 (Ranked 104)  
 Completed: 12 (0.05%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 12 (0.05%) (Ranked 237)
 | 2023-08-31 | 23,998 | 12 |
 | 2023-09-01 | 24,005 | 12 |
 | 2023-09-02 | 24,007 | 12 |
-| 2023-09-03 | 24,010 | 12 |
+| 2023-09-03 | 24,011 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

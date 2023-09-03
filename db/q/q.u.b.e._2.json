@@ -5,7 +5,7 @@
   "Ranking_Rating": 691,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
-  "Ranking_EOS_Progress": 321,
+  "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 135,
   "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 71,
@@ -338,11 +338,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 143,
+  "EOS_Progressed": 145,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.7,
+  "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
     {
       "Time": "2023-08-25T13:10:51.5710377+00:00",
@@ -818,6 +818,11 @@
       "Time": "2023-09-03T16:03:33.7727598+00:00",
       "NumProgressed": 143,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-03T18:03:20.1755681+00:00",
+      "NumProgressed": 145,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -830,7 +835,7 @@
       "Name": "Descendants",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_BLUEEND",
@@ -964,9 +969,9 @@
       "ID": "ACH_EXSITE",
       "SetID": "232494e",
       "Name": "Infinity Loop",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_HUB1",
@@ -982,7 +987,7 @@
       "Name": "Path to Salvation",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_OASIS",
@@ -990,7 +995,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_PEAK",
@@ -1020,7 +1025,7 @@
       "ID": "ACH_S1",
       "SetID": "232494e",
       "Name": "Quick Understanding of Block Extrusion",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 30,
       "UsersEstimate": 70
     },
@@ -1036,7 +1041,7 @@
       "ID": "ACH_S5",
       "SetID": "232494e",
       "Name": "Cogs in the Machine",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 30,
       "UsersEstimate": 51
     },
@@ -1046,13 +1051,13 @@
       "Name": "Lost in Space",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH_STATUE",
       "SetID": "232494e",
       "Name": "Forgotten Memories",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 30,
       "UsersEstimate": 57
     }
@@ -1061,15 +1066,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 143,
+      "Progressed": 145,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-03T17:04:11.0941658+00:00",
+  "LastChanged_Achievements": "2023-09-03T18:03:20.1755675+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:15.0755291+00:00",
-  "LastUpdate_Ratings": "2023-09-03T16:57:44.2709098+00:00",
-  "LastUpdate_Achievements": "2023-09-03T17:04:11.0941935+00:00"
+  "LastUpdate_Ratings": "2023-09-03T17:57:18.9435566+00:00",
+  "LastUpdate_Achievements": "2023-09-03T18:03:20.1755874+00:00"
 }

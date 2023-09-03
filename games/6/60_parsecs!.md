@@ -34,7 +34,7 @@
 | Flawless Maegangement | 7.00% | ~51 |
 | Extreme Makeover | 5.00% | ~36 |
 | The Improvinator | 4.00% | ~29 |
-| The Last Supper | 3.00% | ~22 |
+| The Last Supper | 4.00% | ~29 |
 | 2018: A Soup Odyssey | 3.00% | ~22 |
 | Bovine Domain | 2.00% | ~15 |
 | That's No Moon! | 2.00% | ~15 |

@@ -5,7 +5,7 @@
   "Ranking_Rating": 666,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
-  "Ranking_EOS_Progress": 207,
+  "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 106,
   "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 97,
@@ -1486,9 +1486,9 @@
       "ID": "ACH_DYNAMITE_USED",
       "SetID": "7k95e4n",
       "Name": "Kaboom",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 252
+      "UsersEstimate": 261
     },
     {
       "ID": "ACH_ELEVATOR_FIXED",
@@ -1679,8 +1679,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-09-03T08:57:16.8385197+00:00",
-  "LastChanged_Achievements": "2023-09-03T17:05:07.7966071+00:00",
+  "LastChanged_Achievements": "2023-09-03T18:04:01.3765835+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:35.8232628+00:00",
-  "LastUpdate_Ratings": "2023-09-03T16:57:35.181414+00:00",
-  "LastUpdate_Achievements": "2023-09-03T17:05:07.7966399+00:00"
+  "LastUpdate_Ratings": "2023-09-03T17:57:13.6142709+00:00",
+  "LastUpdate_Achievements": "2023-09-03T18:04:01.3766057+00:00"
 }

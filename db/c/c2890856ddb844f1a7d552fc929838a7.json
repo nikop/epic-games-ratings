@@ -48,7 +48,7 @@
   "Tags": [],
   "EOS_Progressed": 670,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 201,
+  "EOS_NewPlayers": 197,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1270,9 +1270,9 @@
       "ID": "AC33",
       "SetID": "l4abp0",
       "Name": "Ultima Ratio",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 295
+      "UsersEstimate": 302
     },
     {
       "ID": "AC34",
@@ -1326,9 +1326,9 @@
       "ID": "AC40",
       "SetID": "l4abp0",
       "Name": "Welcome Back!",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 536
+      "UsersEstimate": 543
     },
     {
       "ID": "AC41",
@@ -1383,8 +1383,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-02T10:03:53.5800972+00:00",
-  "LastChanged_Achievements": "2023-09-03T17:08:19.0241184+00:00",
+  "LastChanged_Achievements": "2023-09-03T18:06:17.154241+00:00",
   "LastUpdate_AppInfo": "2023-08-29T18:57:21.35462+00:00",
-  "LastUpdate_Ratings": "2023-09-03T17:02:08.9772768+00:00",
-  "LastUpdate_Achievements": "2023-09-03T17:08:19.0241769+00:00"
+  "LastUpdate_Ratings": "2023-09-03T18:00:22.5372418+00:00",
+  "LastUpdate_Achievements": "2023-09-03T18:06:17.1542747+00:00"
 }

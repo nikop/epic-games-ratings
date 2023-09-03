@@ -7,15 +7,15 @@ Rating: 4.54 (Ranked 504)
 | ---- | ---------- | ----- |
 | Hotel California | 1.00% | ~6,727 |
 | Welcome To Hell-A | 1.00% | ~6,727 |
-| Break A Leg | 0.90% | ~6,054 |
-| Dr. Reed, I Presume? | 0.80% | ~5,381 |
-| Git Gutte! | 0.80% | ~5,381 |
-| Coup de Grâce | 0.80% | ~5,381 |
-| Hazardous Materials | 0.80% | ~5,381 |
-| Friends Like These | 0.80% | ~5,381 |
-| Apex Predator | 0.80% | ~5,381 |
-| Stacking the Deck | 0.80% | ~5,381 |
-| Personal Assistant Personally Assisted | 0.80% | ~5,381 |
+| Break A Leg | 0.90% | ~6,055 |
+| Dr. Reed, I Presume? | 0.80% | ~5,382 |
+| Git Gutte! | 0.80% | ~5,382 |
+| Coup de Grâce | 0.80% | ~5,382 |
+| Hazardous Materials | 0.80% | ~5,382 |
+| Friends Like These | 0.80% | ~5,382 |
+| Apex Predator | 0.80% | ~5,382 |
+| Stacking the Deck | 0.80% | ~5,382 |
+| Personal Assistant Personally Assisted | 0.80% | ~5,382 |
 | Bookworm | 0.70% | ~4,709 |
 | But Doctor, I am Butcho | 0.70% | ~4,709 |
 | Can't Handle the Truth | 0.70% | ~4,709 |
@@ -27,11 +27,11 @@ Rating: 4.54 (Ranked 504)
 | Ooh, Shiny! | 0.60% | ~4,036 |
 | I Am the Resurrection | 0.60% | ~4,036 |
 | Our True Nature | 0.60% | ~4,036 |
-| Anger Management | 0.50% | ~3,363 |
-| Perks of the Job | 0.50% | ~3,363 |
-| I Got a Zombie Army and You Can't Harm Me | 0.50% | ~3,363 |
+| Anger Management | 0.50% | ~3,364 |
+| Perks of the Job | 0.50% | ~3,364 |
+| I Got a Zombie Army and You Can't Harm Me | 0.50% | ~3,364 |
+| Humanity Distilled | 0.50% | ~3,364 |
 | Making Your Mark | 0.40% | ~2,691 |
-| Humanity Distilled | 0.40% | ~2,691 |
 | Down with the Sickness | 0.40% | ~2,691 |
 | Max Headroom | 0.40% | ~2,691 |
 | Jumbo Keyring | 0.30% | ~2,018 |
@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 504)
 | Survival Skills | 0.10% | ~673 |
 | Bucket List | 0.10% | ~673 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 672,686 (Ranked 22)  
-Completed: 2,106 (0.31%) (Ranked 177)  
+Progressed: 672,746 (Ranked 22)  
+Completed: 2,107 (0.31%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -187,7 +187,7 @@ Completed: 2,106 (0.31%) (Ranked 177)
 | 2023-08-31 | 670,394 | 2,097 |
 | 2023-09-01 | 671,108 | 2,097 |
 | 2023-09-02 | 672,029 | 2,103 |
-| 2023-09-03 | 672,686 | 2,106 |
+| 2023-09-03 | 672,746 | 2,107 |
 ## Awards
 Max (Great Boss Battles): 5,867  (Ranked 59)  
 Sum: 8,657 (Ranked 95)  

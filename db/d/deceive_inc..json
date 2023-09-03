@@ -238,7 +238,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17844,
+  "EOS_Progressed": 17845,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
@@ -9653,6 +9653,11 @@
       "Time": "2023-09-03T17:03:14.8880973+00:00",
       "NumProgressed": 17844,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-03T18:02:14.828907+00:00",
+      "NumProgressed": 17845,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -9680,7 +9685,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3033
+      "UsersEstimate": 3034
     },
     {
       "ID": "0004",
@@ -9792,7 +9797,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3390
+      "UsersEstimate": 3391
     },
     {
       "ID": "0018",
@@ -9951,7 +9956,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17844,
+      "Progressed": 17845,
       "Completed": 1
     }
   ],
@@ -9959,8 +9964,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-31T05:58:36.9186567+00:00",
-  "LastChanged_Achievements": "2023-09-03T17:03:14.8880967+00:00",
+  "LastChanged_Achievements": "2023-09-03T18:02:14.8289064+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:19.1789564+00:00",
-  "LastUpdate_Ratings": "2023-09-03T17:00:56.5176499+00:00",
-  "LastUpdate_Achievements": "2023-09-03T17:03:14.8882072+00:00"
+  "LastUpdate_Ratings": "2023-09-03T17:59:31.2147712+00:00",
+  "LastUpdate_Achievements": "2023-09-03T18:02:14.8289733+00:00"
 }

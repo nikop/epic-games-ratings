@@ -3,12 +3,12 @@
 [View Rawdata](../../db/m/madden_nfl_23.json)  
 Rating: 4.31 (Ranked 790)  
 ## Awards
-Max (Diverse Characters): 22  (Ranked 495)  
-Sum: 43 (Ranked 458)  
-Diff (max vs sum): 37  
+Max (Diverse Characters): 23  (Ranked 492)  
+Sum: 44 (Ranked 457)  
+Diff (max vs sum): 35  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 22 |
+| This game has Diverse Characters | 23 |
 | This game has a Competitive Community | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -110,3 +110,4 @@ Diff (max vs sum): 37
 | 2023-08-25 | 4.33 | 22 | 43 |
 | 2023-08-26 | 4.32 | 22 | 43 |
 | 2023-08-28 | 4.31 | 22 | 43 |
+| 2023-09-03 | 4.31 | 23 | 44 |

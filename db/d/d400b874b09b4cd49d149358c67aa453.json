@@ -974,9 +974,9 @@
       "ID": "ACH_GO_TO_MISSION_WITHOUT_NEEDED_ITEMS",
       "SetID": "al4k4nh",
       "Name": "I like the risk",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_LISTEN_ALL_MUSIC",
@@ -1061,8 +1061,8 @@
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-09-03T17:04:46.3978244+00:00",
+  "LastChanged_Achievements": "2023-09-03T18:03:46.0820154+00:00",
   "LastUpdate_AppInfo": "2023-08-30T18:57:07.9496517+00:00",
-  "LastUpdate_Ratings": "2023-09-03T16:57:27.7290951+00:00",
-  "LastUpdate_Achievements": "2023-09-03T17:04:46.3978801+00:00"
+  "LastUpdate_Ratings": "2023-09-03T17:57:08.0954279+00:00",
+  "LastUpdate_Achievements": "2023-09-03T18:03:46.0820335+00:00"
 }

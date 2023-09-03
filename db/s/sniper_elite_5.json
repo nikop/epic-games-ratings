@@ -6,8 +6,8 @@
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 154,
-  "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_Completed": 182,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -500,9 +500,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3575,
+  "EOS_Progressed": 3576,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -6450,6 +6450,11 @@
       "Time": "2023-09-03T17:08:33.6574922+00:00",
       "NumProgressed": 3575,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-03T18:06:27.6641306+00:00",
+      "NumProgressed": 3576,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 71,
@@ -6515,9 +6520,9 @@
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
       "SetID": "bm6el81",
       "Name": "Just a Flesh Wound",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 608
+      "UsersEstimate": 572
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -6525,7 +6530,7 @@
       "Name": "Organ Grinder",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -6541,7 +6546,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1644
+      "UsersEstimate": 1645
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -6701,7 +6706,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -6797,7 +6802,7 @@
       "Name": "Change the Channel",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1072
+      "UsersEstimate": 1073
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -7028,13 +7033,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3526,
+      "Progressed": 3527,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3575,
+      "Progressed": 3576,
       "Completed": 10
     }
   ],
@@ -7042,8 +7047,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-01T10:01:39.1533108+00:00",
-  "LastChanged_Achievements": "2023-09-03T17:08:33.6574916+00:00",
+  "LastChanged_Achievements": "2023-09-03T18:06:27.6641301+00:00",
   "LastUpdate_AppInfo": "2023-09-02T06:57:18.4314048+00:00",
-  "LastUpdate_Ratings": "2023-09-03T17:02:24.8827338+00:00",
-  "LastUpdate_Achievements": "2023-09-03T17:08:33.6576293+00:00"
+  "LastUpdate_Ratings": "2023-09-03T18:00:33.2724094+00:00",
+  "LastUpdate_Achievements": "2023-09-03T18:06:27.6642132+00:00"
 }

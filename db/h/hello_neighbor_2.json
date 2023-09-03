@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -390,9 +390,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2824,
+  "EOS_Progressed": 2825,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 4,
   "EosHistory": [
@@ -3040,6 +3040,11 @@
       "Time": "2023-09-03T14:04:54.6381156+00:00",
       "NumProgressed": 2824,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-09-03T18:04:32.7355185+00:00",
+      "NumProgressed": 2825,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 14,
@@ -3091,7 +3096,7 @@
       "Name": "Easy As Pie",
       "Percentage": 34,
       "XP": 55,
-      "UsersEstimate": 960
+      "UsersEstimate": 961
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -3147,7 +3152,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 875
+      "UsersEstimate": 876
     },
     {
       "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
@@ -3155,14 +3160,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 76,
       "XP": 35,
-      "UsersEstimate": 2146
+      "UsersEstimate": 2147
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2824,
+      "Progressed": 2825,
       "Completed": 113
     }
   ],
@@ -3170,8 +3175,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-08-24T16:58:59.1002647+00:00",
-  "LastChanged_Achievements": "2023-09-03T17:05:51.3894316+00:00",
+  "LastChanged_Achievements": "2023-09-03T18:04:32.7355182+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:50.250711+00:00",
-  "LastUpdate_Ratings": "2023-09-03T17:01:35.9826446+00:00",
-  "LastUpdate_Achievements": "2023-09-03T17:05:51.3894647+00:00"
+  "LastUpdate_Ratings": "2023-09-03T18:00:00.8897152+00:00",
+  "LastUpdate_Achievements": "2023-09-03T18:04:32.7355405+00:00"
 }

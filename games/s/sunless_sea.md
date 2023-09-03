@@ -6,11 +6,11 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~13,218 |
-| Sweet Sorrow | 18.00% | ~6,609 |
+| Sink Beneath the Waves | 36.00% | ~13,219 |
+| Sweet Sorrow | 18.00% | ~6,610 |
 | Rules the Waves | 17.00% | ~6,242 |
-| Thou, All-Shaking Thunder | 15.00% | ~5,507 |
-| Rival | 14.00% | ~5,140 |
+| Thou, All-Shaking Thunder | 15.00% | ~5,508 |
+| Rival | 14.00% | ~5,141 |
 | Correspondent | 12.00% | ~4,406 |
 | Lose Your Mind | 12.00% | ~4,406 |
 | Sound Mind? | 12.00% | ~4,406 |
@@ -18,7 +18,7 @@ Number of Ratings: 401  (23.09.2022)
 | HE SUN THE SUN THE SUN T | 11.00% | ~4,039 |
 | The Fall of the House | 11.00% | ~4,039 |
 | Shipmate | 11.00% | ~4,039 |
-| One Year at Zee | 8.00% | ~2,937 |
+| One Year at Zee | 8.00% | ~2,938 |
 | Pupil | 7.00% | ~2,570 |
 | Salvager | 7.00% | ~2,570 |
 | Open Your Ears | 7.00% | ~2,570 |
@@ -26,9 +26,9 @@ Number of Ratings: 401  (23.09.2022)
 | Zee Fever | 5.00% | ~1,836 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,469 |
 | Sink Beneath the Waves. Again. | 4.00% | ~1,469 |
-| Storm's Curse | 3.00% | ~1,101 |
-| We're Gonna Need a Bigger Boat | 3.00% | ~1,101 |
-| Come Closer | 3.00% | ~1,101 |
+| Storm's Curse | 3.00% | ~1,102 |
+| We're Gonna Need a Bigger Boat | 3.00% | ~1,102 |
+| Come Closer | 3.00% | ~1,102 |
 | Roaring Rise | 2.00% | ~734 |
 | I am the Captain of my Soul | 2.00% | ~734 |
 | A buoyant escape | 1.00% | ~367 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~37 |
 | Ten Years at Zee | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36,716 (Ranked 98)  
+Progressed: 36,720 (Ranked 98)  
 Completed: 3 (0.01%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 3 (0.01%) (Ranked 257)
 | 2023-08-31 | 36,530 | 3 |
 | 2023-09-01 | 36,588 | 3 |
 | 2023-09-02 | 36,656 | 3 |
-| 2023-09-03 | 36,716 | 3 |
+| 2023-09-03 | 36,720 | 3 |
 ## Awards
 Max (Character Customization): 213  (Ranked 270)  
 Sum: 283 (Ranked 345)  

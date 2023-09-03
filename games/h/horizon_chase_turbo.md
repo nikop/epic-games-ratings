@@ -6,20 +6,20 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~934,011 |
-| I Need a Bigger Garage | 63.00% | ~653,808 |
-| Pump my Ride | 47.00% | ~487,761 |
-| Ghostbuster | 33.00% | ~342,471 |
-| That Was Close | 18.00% | ~186,802 |
-| Call Roadside Assistance | 17.00% | ~176,424 |
-| Quickie | 11.00% | ~114,157 |
-| California Dreamer | 7.00% | ~72,645 |
-| Can't Touch This | 5.00% | ~51,890 |
-| Carménère Taster | 3.00% | ~31,134 |
-| Supersonic | 3.00% | ~31,134 |
-| Comeback | 3.00% | ~31,134 |
-| Marathonist | 3.00% | ~31,134 |
-| Living Legend | 3.00% | ~31,134 |
+| The First of Many | 90.00% | ~934,036 |
+| I Need a Bigger Garage | 63.00% | ~653,825 |
+| Pump my Ride | 47.00% | ~487,774 |
+| Ghostbuster | 33.00% | ~342,480 |
+| That Was Close | 18.00% | ~186,807 |
+| Call Roadside Assistance | 17.00% | ~176,429 |
+| Quickie | 11.00% | ~114,160 |
+| California Dreamer | 7.00% | ~72,647 |
+| Can't Touch This | 5.00% | ~51,891 |
+| Carménère Taster | 3.00% | ~31,135 |
+| Supersonic | 3.00% | ~31,135 |
+| Comeback | 3.00% | ~31,135 |
+| Marathonist | 3.00% | ~31,135 |
+| Living Legend | 3.00% | ~31,135 |
 | Driver from Ipanema | 2.00% | ~20,756 |
 | God of Roads | 2.00% | ~20,756 |
 | Pathfinder | 2.00% | ~20,756 |
@@ -34,8 +34,8 @@ Number of Ratings: 1,343  (23.09.2022)
 | Brave and Bold | 1.00% | ~10,378 |
 | Crocodile Hunter | 0.90% | ~9,340 |
 | Old Master | 0.90% | ~9,340 |
-| Volcano Surfer | 0.80% | ~8,302 |
-| Otaku | 0.80% | ~8,302 |
+| Volcano Surfer | 0.80% | ~8,303 |
+| Otaku | 0.80% | ~8,303 |
 | Survivor | 0.60% | ~6,227 |
 | King of the World | 0.60% | ~6,227 |
 | Getting Famous | 0.50% | ~5,189 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,038 |
 | Look Mom, No Hands! | 0.10% | ~1,038 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,037,790 (Ranked 12)  
+Progressed: 1,037,818 (Ranked 12)  
 Completed: 411 (0.04%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,10 +180,10 @@ Completed: 411 (0.04%) (Ranked 240)
 | 2023-08-31 | 1,036,247 | 409 |
 | 2023-09-01 | 1,036,745 | 411 |
 | 2023-09-02 | 1,037,374 | 411 |
-| 2023-09-03 | 1,037,790 | 411 |
+| 2023-09-03 | 1,037,818 | 411 |
 ## Awards
 Max (Great for Beginners): 153  (Ranked 297)  
-Sum: 1,266 (Ranked 229)  
+Sum: 1,267 (Ranked 229)  
 Diff (max vs sum): 68  
 | Award | Count |
 | ----- | ----- |
@@ -191,7 +191,7 @@ Diff (max vs sum): 68
 | This game has Quickly Understood Controls | 133 |
 | This game is Relaxing | 127 |
 | This game is Great for Quick Sessions | 125 |
-| This game is Highly Recommended | 122 |
+| This game is Highly Recommended | 123 |
 | This game has Competitive Players | 117 |
 | This game has Playful Visuals | 116 |
 | This game is Extremely Fun | 109 |
@@ -400,4 +400,4 @@ Diff (max vs sum): 68
 | 2023-08-29 | 4.55 | - | 153 | 1,262 |
 | 2023-08-30 | 4.55 | - | 153 | 1,264 |
 | 2023-09-01 | 4.55 | - | 153 | 1,265 |
-| 2023-09-03 | 4.55 | - | 153 | 1,266 |
+| 2023-09-03 | 4.55 | - | 153 | 1,267 |
