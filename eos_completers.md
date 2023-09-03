@@ -10,8 +10,8 @@
 | 8 | [Volley Pals](games/v/volley_pals.md) | 25.93% |
 | 9 | [Overloop](games/o/overloop.md) | 25.00% |
 | 10 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 11 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 24.24% |
-| 12 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.00% |
+| 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.00% |
+| 12 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 23.88% |
 | 13 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 13 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 19.86% |
@@ -38,7 +38,7 @@
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.81% |
 | 37 | [Time Loader](games/t/time_loader.md) | 7.56% |
 | 38 | [Smelter](games/s/smelter.md) | 7.50% |
-| 39 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.20% |
+| 39 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.19% |
 | 40 | [Scorn](games/s/scorn.md) | 7.03% |
 | 41 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.95% |
 | 42 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.72% |
@@ -51,7 +51,7 @@
 | 49 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.34% |
 | 50 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.33% |
 | 51 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.17% |
-| 51 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.17% |
+| 52 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.08% |
 | 53 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.06% |
 | 54 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.78% |
 | 55 | [Bugsnax](games/b/bugsnax.md) | 4.75% |
@@ -88,7 +88,7 @@
 | 86 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.50% |
 | 86 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 88 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.29% |
-| 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.28% |
+| 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.27% |
 | 90 | [Bloodshore](games/b/bloodshore.md) | 2.19% |
 | 91 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
 | 92 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.99% |
@@ -128,17 +128,17 @@
 | 126 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.95% |
 | 127 | [Hades](games/h/hades.md) | 0.90% |
 | 128 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
-| 129 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
+| 129 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
 | 130 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.81% |
 | 131 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
 | 132 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.73% |
 | 133 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.71% |
 | 133 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.71% |
 | 135 | [Lemon Cake](games/l/lemon_cake.md) | 0.69% |
-| 136 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.67% |
 | 136 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.67% |
+| 137 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.66% |
 | 138 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.65% |
-| 139 | [Haven](games/h/haven.md) | 0.64% |
+| 139 | [Haven](games/h/haven.md) | 0.63% |
 | 140 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
 | 140 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.61% |
 | 140 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.61% |

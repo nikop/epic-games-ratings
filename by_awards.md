@@ -34,7 +34,7 @@
 | 32 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,385 | 4.69 | 218 |
 | 33 | [Satisfactory](games/s/satisfactory.md) | 11,316 | 4.88 | 19 |
 | 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 11,308 | 4.45 | 641 |
-| 35 | [SnowRunner](games/s/snowrunner.md) | 10,258 | 4.76 | 117 |
+| 35 | [SnowRunner](games/s/snowrunner.md) | 10,298 | 4.76 | 117 |
 | 36 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 10,243 | 4.74 | 146 |
 | 37 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,937 | 4.61 | 369 |
 | 38 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,895 | 4.78 | 101 |
@@ -66,7 +66,7 @@
 | 64 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,551 | 4.85 | 42 |
 | 65 | [Rogue Company](games/r/rogue_company.md) | 5,346 | 4.33 | 774 |
 | 66 | [Cities: Skylines](games/c/cities__skylines.md) | 5,297 | 4.65 | 303 |
-| 67 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,221 | 4.06 | 931 |
+| 67 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,224 | 4.06 | 931 |
 | 68 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,862 | 4.69 | 218 |
 | 69 | [MultiVersus](games/m/multiversus.md) | 4,747 | 4.56 | 474 |
 | 70 | [Shop Titans](games/s/shop_titans.md) | 4,721 | 3.99 | 943 |
@@ -81,7 +81,7 @@
 | 79 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,120 | 4.51 | 549 |
 | 80 | [Days Gone](games/d/days_gone.md) | 3,926 | 4.68 | 241 |
 | 81 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 3,845 | 4.68 | 241 |
-| 82 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,830 | 4.57 | 454 |
+| 82 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,837 | 4.57 | 454 |
 | 83 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,749 | 4.28 | 814 |
 | 84 | [League of Legends](games/l/league_of_legends.md) | 3,652 | 4.21 | 860 |
 | 85 | [Paladins](games/p/paladins.md) | 3,579 | 4.34 | 765 |
@@ -128,7 +128,7 @@
 | 126 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,425 | 4.53 | 520 |
 | 127 | [Conan Exiles](games/c/conan_exiles.md) | 1,412 | 4.54 | 504 |
 | 128 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,410 | 4.86 | 31 |
-| 129 | [Remnant 2](games/r/remnant_2.md) | 1,359 | 4.76 | 117 |
+| 129 | [Remnant 2](games/r/remnant_2.md) | 1,383 | 4.76 | 117 |
 | 130 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,321 | 4.54 | 504 |
 | 131 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,318 | 4.70 | 200 |
 | 132 | [World of Warships](games/w/world_of_warships.md) | 1,299 | 4.41 | 691 |
@@ -412,12 +412,12 @@
 | 409 | [Expeditions: Rome](games/e/expeditions__rome.md) | 47 | 4.66 | 280 |
 | 409 | [The Alto Collection](games/t/the_alto_collection.md) | 47 | 4.70 | 200 |
 | 412 | [AXIOM VERGE](games/a/axiom_verge.md) | 46 | 4.57 | 454 |
-| 413 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 45 | 4.59 | 416 |
-| 413 | [Ancient Enemy](games/a/ancient_enemy.md) | 45 | 3.95 | 953 |
-| 413 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 45 | 4.74 | 146 |
-| 413 | [STG Football](games/s/stg_football.md) | 45 | 4.44 | 651 |
-| 413 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 45 | 4.24 | 843 |
-| 413 | [The Riftbreaker](games/t/the_riftbreaker.md) | 45 | 4.76 | 117 |
+| 412 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 46 | 4.24 | 843 |
+| 414 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 45 | 4.59 | 416 |
+| 414 | [Ancient Enemy](games/a/ancient_enemy.md) | 45 | 3.95 | 953 |
+| 414 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 45 | 4.74 | 146 |
+| 414 | [STG Football](games/s/stg_football.md) | 45 | 4.44 | 651 |
+| 414 | [The Riftbreaker](games/t/the_riftbreaker.md) | 45 | 4.76 | 117 |
 | 419 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 44 | 4.29 | 804 |
 | 419 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 44 | 4.82 | 65 |
 | 419 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 44 | 4.86 | 31 |
