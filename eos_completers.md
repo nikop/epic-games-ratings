@@ -7,7 +7,7 @@
 | 5 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 33.33% |
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.23% |
 | 7 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
-| 8 | [Volley Pals](games/v/volley_pals.md) | 26.17% |
+| 8 | [Volley Pals](games/v/volley_pals.md) | 25.93% |
 | 9 | [Overloop](games/o/overloop.md) | 25.00% |
 | 10 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 11 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 24.24% |
@@ -32,16 +32,16 @@
 | 30 | [Sonic Origins](games/s/sonic_origins.md) | 9.11% |
 | 31 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 9.09% |
 | 31 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
-| 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.96% |
+| 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.95% |
 | 34 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.89% |
 | 35 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.61% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.81% |
-| 37 | [Smelter](games/s/smelter.md) | 7.50% |
-| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.20% |
-| 39 | [Scorn](games/s/scorn.md) | 7.03% |
-| 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.95% |
-| 41 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.72% |
-| 41 | [Time Loader](games/t/time_loader.md) | 6.72% |
+| 37 | [Time Loader](games/t/time_loader.md) | 7.56% |
+| 38 | [Smelter](games/s/smelter.md) | 7.50% |
+| 39 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.20% |
+| 40 | [Scorn](games/s/scorn.md) | 7.03% |
+| 41 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.95% |
+| 42 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.72% |
 | 43 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 44 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 6.25% |
 | 44 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -76,14 +76,14 @@
 | 74 | [Monster Harvest](games/m/monster_harvest.md) | 2.93% |
 | 74 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 76 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.80% |
-| 77 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.74% |
-| 78 | [Destiny 2](games/d/destiny_2.md) | 2.73% |
-| 78 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
-| 80 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.70% |
+| 77 | [Destiny 2](games/d/destiny_2.md) | 2.73% |
+| 77 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
+| 79 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.70% |
+| 79 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.70% |
 | 81 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.59% |
 | 81 | [The Bunker](games/t/the_bunker.md) | 2.59% |
-| 83 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.58% |
-| 84 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.57% |
+| 83 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.57% |
+| 84 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.56% |
 | 85 | [Lamentum](games/l/lamentum.md) | 2.53% |
 | 86 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.50% |
 | 86 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
@@ -111,8 +111,8 @@
 | 109 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.44% |
 | 109 | [Ten Dates](games/t/ten_dates.md) | 1.44% |
 | 111 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.43% |
-| 112 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.39% |
 | 112 | [Poosh XL](games/p/poosh_xl.md) | 1.39% |
+| 113 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.37% |
 | 114 | [Late Shift](games/l/late_shift.md) | 1.25% |
 | 115 | [Infindustry](games/i/infindustry.md) | 1.23% |
 | 116 | [Chorus](games/c/chorus.md) | 1.12% |
@@ -179,9 +179,9 @@
 | 177 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 177 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
 | 177 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
-| 180 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.30% |
-| 181 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
-| 181 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
+| 180 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
+| 180 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.29% |
+| 180 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
 | 183 | [Against the Storm](games/a/against_the_storm.md) | 0.28% |
 | 183 | [Scrapnaut](games/s/scrapnaut.md) | 0.28% |
 | 183 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.28% |
