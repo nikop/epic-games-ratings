@@ -2,10 +2,10 @@
   "ID": "3bb63a39c60c4459a5a526eb6a4b08b5",
   "Name": "Fly Corp",
   "ProductSlug": "fly-corp-398021",
-  "Ranking_EOS_Progress": 226,
+  "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 647,
+  "EOS_Progressed": 648,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
@@ -2296,6 +2296,11 @@
       "Time": "2023-09-04T01:48:15.4320985+00:00",
       "NumProgressed": 647,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-04T02:21:08.8343734+00:00",
+      "NumProgressed": 648,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2321,9 +2326,9 @@
       "ID": "BasicControls",
       "SetID": "1e89b4i",
       "Name": "Basic Controls",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 382
+      "UsersEstimate": 376
     },
     {
       "ID": "BigPlane",
@@ -2355,7 +2360,7 @@
       "Name": "That Was Close!",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "Creator",
@@ -2507,7 +2512,7 @@
       "Name": "New Record",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "NoTimeForModernization",
@@ -2523,7 +2528,7 @@
       "Name": "No Way Back",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "NotPlanned",
@@ -2642,14 +2647,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 647,
+      "Progressed": 648,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-09-04T01:48:15.4320977+00:00",
+  "LastChanged_Achievements": "2023-09-04T02:21:08.8343727+00:00",
   "LastUpdate_AppInfo": "2023-08-29T11:57:10.9614599+00:00",
-  "LastUpdate_Ratings": "2023-09-04T00:01:36.4508216+00:00",
-  "LastUpdate_Achievements": "2023-09-04T01:48:15.4321489+00:00"
+  "LastUpdate_Ratings": "2023-09-04T02:12:45.3063445+00:00",
+  "LastUpdate_Achievements": "2023-09-04T02:21:08.8344194+00:00"
 }

@@ -4212,9 +4212,9 @@
       "Count": 336
     }
   ],
-  "EOS_Progressed": 673001,
+  "EOS_Progressed": 673019,
   "EOS_Completed": 2111,
-  "EOS_NewPlayers": 5653,
+  "EOS_NewPlayers": 5662,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -19442,6 +19442,11 @@
       "Time": "2023-09-04T01:47:46.3853471+00:00",
       "NumProgressed": 673001,
       "NumCompleted": 2111
+    },
+    {
+      "Time": "2023-09-04T02:20:45.6088921+00:00",
+      "NumProgressed": 673019,
+      "NumCompleted": 2111
     }
   ],
   "TotalAchievements": 45,
@@ -19571,9 +19576,9 @@
       "ID": "ach_finisher",
       "SetID": "7km39fm",
       "Name": "Coup de Gr\u00E2ce",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 5384
+      "UsersEstimate": 6057
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -19771,9 +19776,9 @@
       "ID": "ach_this_is_my_weapon",
       "SetID": "7km39fm",
       "Name": "This is My Weapon",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 4711
+      "UsersEstimate": 5384
     },
     {
       "ID": "ach_weapon_wrangler",
@@ -19812,7 +19817,7 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 673001,
+      "Progressed": 673019,
       "Completed": 2111
     }
   ],
@@ -19820,8 +19825,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-03T22:58:28.9273794+00:00",
-  "LastChanged_Achievements": "2023-09-04T01:47:46.3853466+00:00",
+  "LastChanged_Achievements": "2023-09-04T02:20:45.6088911+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:04.7021628+00:00",
-  "LastUpdate_Ratings": "2023-09-04T01:40:39.8589998+00:00",
-  "LastUpdate_Achievements": "2023-09-04T01:47:46.3855159+00:00"
+  "LastUpdate_Ratings": "2023-09-04T02:14:08.8688187+00:00",
+  "LastUpdate_Achievements": "2023-09-04T02:20:45.6090012+00:00"
 }

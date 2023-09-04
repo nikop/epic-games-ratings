@@ -4,8 +4,8 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 795,
+  "EOS_Progressed": 796,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1831,6 +1831,11 @@
       "Time": "2023-09-03T11:06:31.1359173+00:00",
       "NumProgressed": 795,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-04T02:21:09.0973893+00:00",
+      "NumProgressed": 796,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1842,7 +1847,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -1882,7 +1887,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -1890,7 +1895,7 @@
       "Name": "Goat Whisperer",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ATK_ACHIEVEMENT_3",
@@ -1970,7 +1975,7 @@
       "Name": "Where There\u0027s Smoke There\u0027s Fire",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "BURN_ACHIEVEMENT_3",
@@ -2042,7 +2047,7 @@
       "Name": "Greetings from Royalty",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -2130,7 +2135,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -2146,7 +2151,7 @@
       "Name": "Call The Winchester",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "KILLR_ACHIEVEMENT_5",
@@ -2162,7 +2167,7 @@
       "Name": "And There We Go",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -2242,7 +2247,7 @@
       "Name": "To Get Stronger",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "MEAT_ACHIEVEMENT_3",
@@ -2282,7 +2287,7 @@
       "Name": "Beep Beep Boop",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_1",
@@ -2369,14 +2374,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 795,
+      "Progressed": 796,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-09-04T01:48:15.6711875+00:00",
+  "LastChanged_Achievements": "2023-09-04T02:21:09.0973887+00:00",
   "LastUpdate_AppInfo": "2023-08-31T17:57:08.7662192+00:00",
-  "LastUpdate_Ratings": "2023-09-04T01:38:54.5205766+00:00",
-  "LastUpdate_Achievements": "2023-09-04T01:48:15.6713299+00:00"
+  "LastUpdate_Ratings": "2023-09-04T02:12:49.9845881+00:00",
+  "LastUpdate_Achievements": "2023-09-04T02:21:09.0974659+00:00"
 }

@@ -12,20 +12,20 @@ Rating: 4.19 (Ranked 874)
 | Chew 'Em Up | 4.00% | ~637 |
 | Float Like A Butterfly | 4.00% | ~637 |
 | Keep Fighting | 4.00% | ~154 |
-| You Need a Gun | 3.00% | ~477 |
-| I Do Belong Here | 3.00% | ~477 |
-| Terminated | 3.00% | ~477 |
-| Workplace Hazard | 3.00% | ~477 |
-| Reforged | 3.00% | ~477 |
-| The Outer Way | 3.00% | ~477 |
-| If the SHU Fits... | 3.00% | ~477 |
-| Without A Paddle | 3.00% | ~477 |
-| In the Pipe, Five by Five | 3.00% | ~477 |
-| What Lies Beneath | 3.00% | ~477 |
-| Desperate Times | 3.00% | ~477 |
-| Crash Site | 3.00% | ~477 |
-| Full Circle | 3.00% | ~477 |
-| Power Up | 3.00% | ~477 |
+| You Need a Gun | 3.00% | ~478 |
+| I Do Belong Here | 3.00% | ~478 |
+| Terminated | 3.00% | ~478 |
+| Workplace Hazard | 3.00% | ~478 |
+| Reforged | 3.00% | ~478 |
+| The Outer Way | 3.00% | ~478 |
+| If the SHU Fits... | 3.00% | ~478 |
+| Without A Paddle | 3.00% | ~478 |
+| In the Pipe, Five by Five | 3.00% | ~478 |
+| What Lies Beneath | 3.00% | ~478 |
+| Desperate Times | 3.00% | ~478 |
+| Crash Site | 3.00% | ~478 |
+| Full Circle | 3.00% | ~478 |
+| Power Up | 3.00% | ~478 |
 | It's Time | 3.00% | ~115 |
 | Giving Back | 2.00% | ~318 |
 | The Commonality | 2.00% | ~318 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 874)
 | Hoard Mode | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,916 (Ranked 118)  
+Progressed: 15,917 (Ranked 118)  
 Completed: 73 (0.46%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 73 (0.46%) (Ranked 156)
 | 2023-09-01 | 15,908 | 73 |
 | 2023-09-02 | 15,911 | 73 |
 | 2023-09-03 | 15,915 | 73 |
-| 2023-09-04 | 15,916 | 73 |
+| 2023-09-04 | 15,917 | 73 |
 ## Awards
 Max (Amazing Storytelling): 73  (Ranked 374)  
 Sum: 417 (Ranked 316)  

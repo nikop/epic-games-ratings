@@ -8,14 +8,15 @@ Rating: 4.54 (Ranked 504)
 | Hotel California | 1.00% | ~6,730 |
 | Welcome To Hell-A | 1.00% | ~6,730 |
 | Break A Leg | 0.90% | ~6,057 |
+| Coup de Grâce | 0.90% | ~6,057 |
 | Hazardous Materials | 0.90% | ~6,057 |
 | Personal Assistant Personally Assisted | 0.90% | ~6,057 |
 | Dr. Reed, I Presume? | 0.80% | ~5,384 |
 | Git Gutte! | 0.80% | ~5,384 |
-| Coup de Grâce | 0.80% | ~5,384 |
 | Friends Like These | 0.80% | ~5,384 |
 | Apex Predator | 0.80% | ~5,384 |
 | Stacking the Deck | 0.80% | ~5,384 |
+| This is My Weapon | 0.80% | ~5,384 |
 | Bookworm | 0.70% | ~4,711 |
 | But Doctor, I am Butcho | 0.70% | ~4,711 |
 | Slayer Squad | 0.70% | ~4,711 |
@@ -23,7 +24,6 @@ Rating: 4.54 (Ranked 504)
 | Like Riding a Bike | 0.70% | ~4,711 |
 | Zombologist | 0.70% | ~4,711 |
 | A Patton Emerges | 0.70% | ~4,711 |
-| This is My Weapon | 0.70% | ~4,711 |
 | Anger Management | 0.60% | ~4,038 |
 | Perks of the Job | 0.60% | ~4,038 |
 | Ooh, Shiny! | 0.60% | ~4,038 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 504)
 | Survival Skills | 0.10% | ~673 |
 | Bucket List | 0.10% | ~673 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 673,001 (Ranked 22)  
+Progressed: 673,019 (Ranked 22)  
 Completed: 2,111 (0.31%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 2,111 (0.31%) (Ranked 177)
 | 2023-09-01 | 671,108 | 2,097 |
 | 2023-09-02 | 672,029 | 2,103 |
 | 2023-09-03 | 672,940 | 2,111 |
-| 2023-09-04 | 673,001 | 2,111 |
+| 2023-09-04 | 673,019 | 2,111 |
 ## Awards
 Max (Great Boss Battles): 5,889  (Ranked 59)  
 Sum: 8,684 (Ranked 95)  

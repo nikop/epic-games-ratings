@@ -2791,7 +2791,7 @@
       "Count": 735
     }
   ],
-  "EOS_Progressed": 235441,
+  "EOS_Progressed": 235442,
   "EOS_Completed": 264,
   "EOS_NewPlayers": 393,
   "EOS_NewCompleters": 2,
@@ -16761,6 +16761,11 @@
       "Time": "2023-09-04T01:48:07.3812542+00:00",
       "NumProgressed": 235441,
       "NumCompleted": 264
+    },
+    {
+      "Time": "2023-09-04T02:21:02.397755+00:00",
+      "NumProgressed": 235442,
+      "NumCompleted": 264
     }
   ],
   "TotalAchievements": 122,
@@ -16804,7 +16809,7 @@
       "Name": "First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 226023
+      "UsersEstimate": 226024
     },
     {
       "ID": "CURSE1HP",
@@ -16812,7 +16817,7 @@
       "Name": "Nothing To Lose",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 94176
+      "UsersEstimate": 94177
     },
     {
       "ID": "CURSEDPOTIONS",
@@ -16868,7 +16873,7 @@
       "Name": "Delving Deeper",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 98885
+      "UsersEstimate": 98886
     },
     {
       "ID": "DEPTH12HARD",
@@ -16876,7 +16881,7 @@
       "Name": "A Long Climb",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14126
+      "UsersEstimate": 14127
     },
     {
       "ID": "DEPTH12MEDIUM",
@@ -16892,7 +16897,7 @@
       "Name": "Getting A Glimpse",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 171872
+      "UsersEstimate": 171873
     },
     {
       "ID": "DEPTH6NOPOTIONS",
@@ -16948,7 +16953,7 @@
       "Name": "That Was Quick",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 134201
+      "UsersEstimate": 134202
     },
     {
       "ID": "DIERAINBOWSOCKS",
@@ -17044,7 +17049,7 @@
       "Name": "I Am Overburdened",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 82404
+      "UsersEstimate": 82405
     },
     {
       "ID": "FULLYPRESTIGESPOON",
@@ -17060,7 +17065,7 @@
       "Name": "Grave Digger",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14126
+      "UsersEstimate": 14127
     },
     {
       "ID": "HAVE2000SOULS",
@@ -17068,7 +17073,7 @@
       "Name": "Soul Stash",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14126
+      "UsersEstimate": 14127
     },
     {
       "ID": "HEAL50POTION",
@@ -17124,7 +17129,7 @@
       "Name": "Power Score",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14126
+      "UsersEstimate": 14127
     },
     {
       "ID": "HIGHSPEED",
@@ -17172,7 +17177,7 @@
       "Name": "Defeat The Dark",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 143619
+      "UsersEstimate": 143620
     },
     {
       "ID": "KILL1000",
@@ -17204,7 +17209,7 @@
       "Name": "The Bestiary",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 94176
+      "UsersEstimate": 94177
     },
     {
       "ID": "KILLABOMINATIONHIGHDEF",
@@ -17244,7 +17249,7 @@
       "Name": "All Consuming",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 42379
+      "UsersEstimate": 42380
     },
     {
       "ID": "KILLEDSELFWITHITEMS",
@@ -17260,7 +17265,7 @@
       "Name": "Goodbye, Frog Friend",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 127138
+      "UsersEstimate": 127139
     },
     {
       "ID": "KILLNICEDOG",
@@ -17356,7 +17361,7 @@
       "Name": "A Donation",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 134201
+      "UsersEstimate": 134202
     },
     {
       "ID": "MULTEXPLOSIONS",
@@ -17372,7 +17377,7 @@
       "Name": "C-C-Combo",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 98885
+      "UsersEstimate": 98886
     },
     {
       "ID": "NOEPIC",
@@ -17404,7 +17409,7 @@
       "Name": "Deflection",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 105948
+      "UsersEstimate": 105949
     },
     {
       "ID": "PASSIVEDEPTH6",
@@ -17412,7 +17417,7 @@
       "Name": "Just Looking Around",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14126
+      "UsersEstimate": 14127
     },
     {
       "ID": "PASSIVEROOM",
@@ -17428,7 +17433,7 @@
       "Name": "Stone Touch",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 65923
+      "UsersEstimate": 65924
     },
     {
       "ID": "PLAY10HOURS",
@@ -17516,7 +17521,7 @@
       "Name": "Uncharted Territory",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 209542
+      "UsersEstimate": 209543
     },
     {
       "ID": "SPECIALROOMS10",
@@ -17524,7 +17529,7 @@
       "Name": "Explorer",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 145973
+      "UsersEstimate": 145974
     },
     {
       "ID": "SPEEDRUN10",
@@ -17548,7 +17553,7 @@
       "Name": "Shadow Walker",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 65923
+      "UsersEstimate": 65924
     },
     {
       "ID": "SURVIVEON1",
@@ -17588,7 +17593,7 @@
       "Name": "An Offering",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 143619
+      "UsersEstimate": 143620
     },
     {
       "ID": "VISIT35DUNGEONS",
@@ -17644,7 +17649,7 @@
       "Name": "Champion of the Day",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14126
+      "UsersEstimate": 14127
     },
     {
       "ID": "WININVERTEDCANDLE",
@@ -17747,7 +17752,7 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 235441,
+      "Progressed": 235442,
       "Completed": 264
     }
   ],
@@ -17755,8 +17760,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-09-03T01:42:00.6079557+00:00",
-  "LastChanged_Achievements": "2023-09-04T01:48:07.3812533+00:00",
+  "LastChanged_Achievements": "2023-09-04T02:21:02.3977544+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:05.6326594+00:00",
-  "LastUpdate_Ratings": "2023-09-04T01:41:51.0001443+00:00",
-  "LastUpdate_Achievements": "2023-09-04T01:48:07.381582+00:00"
+  "LastUpdate_Ratings": "2023-09-04T02:15:04.925767+00:00",
+  "LastUpdate_Achievements": "2023-09-04T02:21:02.3980092+00:00"
 }

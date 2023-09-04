@@ -9,15 +9,15 @@ Number of Ratings: 524  (23.09.2022)
 | Follow the Light | 39.00% | ~24,288 |
 | Let There Be Light | 31.00% | ~19,306 |
 | Float Like a Butterfly | 30.00% | ~18,683 |
-| Nordic Walking | 24.00% | ~14,946 |
-| Bright Falls' Finest | 24.00% | ~14,946 |
+| Nordic Walking | 24.00% | ~14,947 |
+| Bright Falls' Finest | 24.00% | ~14,947 |
 | Under a Thin Layer of Skin | 21.00% | ~13,078 |
 | Park Ranger | 17.00% | ~10,587 |
 | Paging Mr. Wake | 17.00% | ~10,587 |
 | Back! Back, I Say! | 16.00% | ~9,964 |
 | Finders Keepers | 16.00% | ~9,964 |
-| Sound and Fury | 15.00% | ~9,341 |
-| Damn Good Cup of Coffee | 15.00% | ~9,341 |
+| Sound and Fury | 15.00% | ~9,342 |
+| Damn Good Cup of Coffee | 15.00% | ~9,342 |
 | Wheels Within Wheels | 14.00% | ~8,719 |
 | They're Heeeeeere! | 14.00% | ~8,719 |
 | Missed by a Mile | 14.00% | ~8,719 |
@@ -27,10 +27,10 @@ Number of Ratings: 524  (23.09.2022)
 | Come One, Come All | 13.00% | ~8,096 |
 | Heavy Metal | 12.00% | ~7,473 |
 | Perchance to Dream | 12.00% | ~7,473 |
-| Gatekeeper | 11.00% | ~6,850 |
-| It's Not Just a Typewriter Brand | 11.00% | ~6,850 |
-| Thunder and Lightning | 11.00% | ~6,850 |
-| Two For the Price of One | 11.00% | ~6,850 |
+| Gatekeeper | 11.00% | ~6,851 |
+| It's Not Just a Typewriter Brand | 11.00% | ~6,851 |
+| Thunder and Lightning | 11.00% | ~6,851 |
+| Two For the Price of One | 11.00% | ~6,851 |
 | The Lady of the Light | 10.00% | ~6,228 |
 | Energized! | 10.00% | ~6,228 |
 | What Light Through Yonder Window | 9.00% | ~5,605 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~62 |
 | No Punctuation | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,276 (Ranked 87)  
+Progressed: 62,278 (Ranked 87)  
 Completed: 65 (0.10%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 65 (0.10%) (Ranked 218)
 | 2023-09-01 | 62,124 | 65 |
 | 2023-09-02 | 62,195 | 65 |
 | 2023-09-03 | 62,270 | 65 |
-| 2023-09-04 | 62,276 | 65 |
+| 2023-09-04 | 62,278 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

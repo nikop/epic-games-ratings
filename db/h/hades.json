@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 101,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewPlayers": 84,
   "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2019-12-10T11:00:00+00:00",
@@ -4279,9 +4279,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 702710,
+  "EOS_Progressed": 702711,
   "EOS_Completed": 6335,
-  "EOS_NewPlayers": 504,
+  "EOS_NewPlayers": 502,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
@@ -18859,6 +18859,11 @@
       "Time": "2023-09-04T01:45:21.1265463+00:00",
       "NumProgressed": 702710,
       "NumCompleted": 6335
+    },
+    {
+      "Time": "2023-09-04T02:18:17.9000733+00:00",
+      "NumProgressed": 702711,
+      "NumCompleted": 6335
     }
   ],
   "TotalAchievements": 49,
@@ -18878,7 +18883,7 @@
       "Name": "War-God\u0027s Bloodlust",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 105406
+      "UsersEstimate": 105407
     },
     {
       "ID": "AchBeatCharon",
@@ -18918,7 +18923,7 @@
       "Name": "Three-Headed Boy",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 224867
+      "UsersEstimate": 224868
     },
     {
       "ID": "AchClearAnyRun",
@@ -18926,7 +18931,7 @@
       "Name": "Is There No Escape?",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 365409
+      "UsersEstimate": 365410
     },
     {
       "ID": "AchClearAsphodel",
@@ -18934,7 +18939,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 562168
+      "UsersEstimate": 562169
     },
     {
       "ID": "AchClearElysium",
@@ -18974,7 +18979,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 625412
+      "UsersEstimate": 625413
     },
     {
       "ID": "AchCrushedThanatos",
@@ -19086,7 +19091,7 @@
       "Name": "Blood Bound",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 245948
+      "UsersEstimate": 245949
     },
     {
       "ID": "AchMeetChthonicGods",
@@ -19094,7 +19099,7 @@
       "Name": "Chthonic Colleagues",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 442707
+      "UsersEstimate": 442708
     },
     {
       "ID": "AchMirrorAllUnlocked",
@@ -19166,7 +19171,7 @@
       "Name": "Tools of the Architect",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 161623
+      "UsersEstimate": 161624
     },
     {
       "ID": "AchPurgedLegendBoon",
@@ -19206,7 +19211,7 @@
       "Name": "Musician and Muse",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 98379
+      "UsersEstimate": 98380
     },
     {
       "ID": "AchSisyphusLiberation",
@@ -19222,7 +19227,7 @@
       "Name": "Skelly Slayer",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 295138
+      "UsersEstimate": 295139
     },
     {
       "ID": "AchUnlockedAllWeapons",
@@ -19230,7 +19235,7 @@
       "Name": "Arms Collector",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 498924
+      "UsersEstimate": 498925
     },
     {
       "ID": "AchWeaponClears",
@@ -19238,7 +19243,7 @@
       "Name": "Master of Arms",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 161623
+      "UsersEstimate": 161624
     },
     {
       "ID": "AchWellShopItems",
@@ -19261,15 +19266,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 702710,
+      "Progressed": 702711,
       "Completed": 6335
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
   "LastChanged": "2023-09-03T16:58:55.18189+00:00",
-  "LastChanged_Achievements": "2023-09-04T01:45:21.1265454+00:00",
+  "LastChanged_Achievements": "2023-09-04T02:18:17.9000728+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:42.7681914+00:00",
-  "LastUpdate_Ratings": "2023-09-04T01:40:20.7969107+00:00",
-  "LastUpdate_Achievements": "2023-09-04T01:45:21.1267271+00:00"
+  "LastUpdate_Ratings": "2023-09-04T02:13:54.2755961+00:00",
+  "LastUpdate_Achievements": "2023-09-04T02:18:17.9002061+00:00"
 }

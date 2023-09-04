@@ -1518,9 +1518,9 @@
       "Count": 124
     }
   ],
-  "EOS_Progressed": 173840,
+  "EOS_Progressed": 173847,
   "EOS_Completed": 212,
-  "EOS_NewPlayers": 6042,
+  "EOS_NewPlayers": 6033,
   "EOS_NewCompleters": 60,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -6778,6 +6778,11 @@
       "Time": "2023-09-04T01:47:50.4999741+00:00",
       "NumProgressed": 173840,
       "NumCompleted": 212
+    },
+    {
+      "Time": "2023-09-04T02:20:49.2257169+00:00",
+      "NumProgressed": 173847,
+      "NumCompleted": 212
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -6838,7 +6843,7 @@
       "Name": "Gleaming the Cube",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 10430
+      "UsersEstimate": 10431
     },
     {
       "ID": "Defeat_Faelin_Faerin",
@@ -6870,7 +6875,7 @@
       "Name": "The Killing Jar",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 13907
+      "UsersEstimate": 13908
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -6934,7 +6939,7 @@
       "Name": "Not a Janitor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 10430
+      "UsersEstimate": 10431
     },
     {
       "ID": "Meet_Flautist",
@@ -6942,7 +6947,7 @@
       "Name": "Familiar Face",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 10430
+      "UsersEstimate": 10431
     },
     {
       "ID": "Meet_Meidra",
@@ -6966,7 +6971,7 @@
       "Name": "Blue Goddess",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 10430
+      "UsersEstimate": 10431
     },
     {
       "ID": "Obtain_Archetype",
@@ -6982,7 +6987,7 @@
       "Name": "Duality",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 10430
+      "UsersEstimate": 10431
     },
     {
       "ID": "Obtain_Archetype_Level",
@@ -6990,7 +6995,7 @@
       "Name": "Top Performer",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 10430
+      "UsersEstimate": 10431
     },
     {
       "ID": "Obtain_Archetype_Secret",
@@ -7094,7 +7099,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 13907
+      "UsersEstimate": 13908
     },
     {
       "ID": "Obtain_Traits_B",
@@ -7150,7 +7155,7 @@
       "Name": "Good, But Could Be Better!",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 10430
+      "UsersEstimate": 10431
     },
     {
       "ID": "Upgrade_Standard_Weapon_B",
@@ -7189,7 +7194,7 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 173840,
+      "Progressed": 173847,
       "Completed": 212
     }
   ],
@@ -7197,8 +7202,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-09-04T00:00:47.1275777+00:00",
-  "LastChanged_Achievements": "2023-09-04T01:47:50.4999732+00:00",
+  "LastChanged_Achievements": "2023-09-04T02:20:49.2257164+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:24.3285434+00:00",
-  "LastUpdate_Ratings": "2023-09-04T01:42:33.2847602+00:00",
-  "LastUpdate_Achievements": "2023-09-04T01:47:50.5000667+00:00"
+  "LastUpdate_Ratings": "2023-09-04T02:15:37.8078724+00:00",
+  "LastUpdate_Achievements": "2023-09-04T02:20:49.22578+00:00"
 }

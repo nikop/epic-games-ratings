@@ -141,12 +141,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cataphract Archer | 0.50% | ~69 |
 | All Nations | 0.50% | ~69 |
 | Carthage - Ox Hide | 0.40% | ~55 |
+| Ancient | 0.40% | ~55 |
 | Noble Difficulty | 0.40% | ~55 |
 | Old World Order | 0.40% | ~55 |
 | Play a Network Game | 0.40% | ~55 |
 | Pilgrimage | 0.40% | ~55 |
 | Bronze Victory (Carthage 1) | 0.30% | ~41 |
-| Ancient | 0.30% | ~41 |
 | Glorious Difficulty | 0.30% | ~41 |
 | The Eternal Treaty | 0.30% | ~41 |
 | Run, Pheidippides, Run! | 0.30% | ~41 |

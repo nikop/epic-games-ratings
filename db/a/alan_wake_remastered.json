@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 62276,
+  "EOS_Progressed": 62278,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 444,
+  "EOS_NewPlayers": 443,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -13397,6 +13397,11 @@
       "Time": "2023-09-04T01:46:26.5105143+00:00",
       "NumProgressed": 62276,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-09-04T02:19:40.8204422+00:00",
+      "NumProgressed": 62278,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -13416,7 +13421,7 @@
       "Name": "Nordic Walking",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 14946
+      "UsersEstimate": 14947
     },
     {
       "ID": "03",
@@ -13424,7 +13429,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 14946
+      "UsersEstimate": 14947
     },
     {
       "ID": "04",
@@ -13512,7 +13517,7 @@
       "Name": "Gatekeeper",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6850
+      "UsersEstimate": 6851
     },
     {
       "ID": "15",
@@ -13592,7 +13597,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6850
+      "UsersEstimate": 6851
     },
     {
       "ID": "25",
@@ -13608,7 +13613,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6850
+      "UsersEstimate": 6851
     },
     {
       "ID": "27",
@@ -13632,7 +13637,7 @@
       "Name": "Sound and Fury",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9341
+      "UsersEstimate": 9342
     },
     {
       "ID": "30",
@@ -13640,7 +13645,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6850
+      "UsersEstimate": 6851
     },
     {
       "ID": "31",
@@ -13768,7 +13773,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 9341
+      "UsersEstimate": 9342
     },
     {
       "ID": "47",
@@ -13943,21 +13948,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 62276,
+      "Progressed": 62278,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 25744,
+      "Progressed": 25746,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-04T01:46:26.5105134+00:00",
+  "LastChanged_Achievements": "2023-09-04T02:19:40.8204416+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:56:59.9039957+00:00",
-  "LastUpdate_Ratings": "2023-09-04T01:39:43.7947727+00:00",
-  "LastUpdate_Achievements": "2023-09-04T01:46:26.5107913+00:00"
+  "LastUpdate_Ratings": "2023-09-04T02:13:27.6910826+00:00",
+  "LastUpdate_Achievements": "2023-09-04T02:19:40.8205644+00:00"
 }

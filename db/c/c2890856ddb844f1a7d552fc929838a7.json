@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -48,7 +48,7 @@
   "Tags": [],
   "EOS_Progressed": 679,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1284,9 +1284,9 @@
       "ID": "AC31",
       "SetID": "l4abp0",
       "Name": "The Merciless One",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 231
+      "UsersEstimate": 238
     },
     {
       "ID": "AC32",
@@ -1356,9 +1356,9 @@
       "ID": "AC40",
       "SetID": "l4abp0",
       "Name": "Welcome Back!",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 543
+      "UsersEstimate": 550
     },
     {
       "ID": "AC41",
@@ -1413,8 +1413,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-02T10:03:53.5800972+00:00",
-  "LastChanged_Achievements": "2023-09-04T01:49:26.4693028+00:00",
+  "LastChanged_Achievements": "2023-09-04T02:22:07.6163246+00:00",
   "LastUpdate_AppInfo": "2023-08-29T18:57:21.35462+00:00",
-  "LastUpdate_Ratings": "2023-09-04T01:43:07.6656749+00:00",
-  "LastUpdate_Achievements": "2023-09-04T01:49:26.4693568+00:00"
+  "LastUpdate_Ratings": "2023-09-04T02:16:04.4703158+00:00",
+  "LastUpdate_Achievements": "2023-09-04T02:22:07.6163684+00:00"
 }

@@ -6,30 +6,30 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Imprint | 88.00% | ~128,271 |
-| Taste | 84.00% | ~122,441 |
-| The Hunt | 66.00% | ~96,204 |
-| Ravenous | 63.00% | ~91,831 |
-| Weeper | 43.00% | ~62,678 |
-| Devourer | 23.00% | ~33,525 |
-| Harmless | 19.00% | ~27,695 |
-| Silenced Whispers | 19.00% | ~27,695 |
-| Sharpened Vessel | 16.00% | ~23,322 |
-| Yank | 15.00% | ~21,864 |
-| Scion | 12.00% | ~17,442 |
-| Jawcrab | 12.00% | ~17,492 |
-| Jawstag | 12.00% | ~17,492 |
-| Feast | 12.00% | ~17,492 |
-| Watcher | 10.00% | ~14,576 |
-| Shapely | 8.00% | ~11,661 |
+| Imprint | 88.00% | ~128,280 |
+| Taste | 84.00% | ~122,449 |
+| The Hunt | 66.00% | ~96,210 |
+| Ravenous | 63.00% | ~91,837 |
+| Weeper | 43.00% | ~62,682 |
+| Devourer | 23.00% | ~33,528 |
+| Harmless | 19.00% | ~27,697 |
+| Silenced Whispers | 19.00% | ~27,697 |
+| Sharpened Vessel | 16.00% | ~23,324 |
+| Yank | 15.00% | ~21,866 |
+| Scion | 12.00% | ~17,443 |
+| Jawcrab | 12.00% | ~17,493 |
+| Jawstag | 12.00% | ~17,493 |
+| Feast | 12.00% | ~17,493 |
+| Watcher | 10.00% | ~14,577 |
+| Shapely | 8.00% | ~11,662 |
 | Glare | 8.00% | ~11,628 |
-| Predator | 8.00% | ~11,661 |
-| Assimilation | 7.00% | ~10,203 |
+| Predator | 8.00% | ~11,662 |
+| Assimilation | 7.00% | ~10,204 |
 | Host | 6.00% | ~8,721 |
 | Celebration | 6.00% | ~8,746 |
-| Hunt Down | 5.00% | ~7,288 |
-| Artisan | 5.00% | ~7,288 |
-| Breathsmith | 5.00% | ~7,288 |
+| Hunt Down | 5.00% | ~7,289 |
+| Artisan | 5.00% | ~7,289 |
+| Breathsmith | 5.00% | ~7,289 |
 | Breath | 4.00% | ~5,831 |
 | Hush | 4.00% | ~5,831 |
 | Inevitable | 4.00% | ~5,831 |
@@ -49,7 +49,7 @@ Number of Ratings: 46  (23.09.2022)
 | Instruments | 0.70% | ~1,020 |
 | Spiral Heart | 0.10% | ~146 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 145,763 (Ranked 65)  
+Progressed: 145,773 (Ranked 65)  
 Completed: 1 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 1 (0.00%) (Ranked 271)
 | 2023-09-01 | 144,925 | 1 |
 | 2023-09-02 | 145,319 | 1 |
 | 2023-09-03 | 145,719 | 1 |
-| 2023-09-04 | 145,763 | 1 |
+| 2023-09-04 | 145,773 | 1 |
 ## Awards
 Max (Highly Recommended): 31  (Ranked 460)  
 Sum: 171 (Ranked 388)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 36,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -7037,9 +7037,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 472312,
+  "EOS_Progressed": 472313,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 693,
+  "EOS_NewPlayers": 692,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21462,6 +21462,11 @@
       "Time": "2023-09-04T01:48:32.7400756+00:00",
       "NumProgressed": 472312,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-09-04T02:21:23.2232011+00:00",
+      "NumProgressed": 472313,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 98,
@@ -21497,7 +21502,7 @@
       "Name": "Unbeatable!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 174755
+      "UsersEstimate": 174756
     },
     {
       "ID": "achievement_10_seasons_at_one_club",
@@ -21561,7 +21566,7 @@
       "Name": "Tremendous Trio",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 127524
+      "UsersEstimate": 127525
     },
     {
       "ID": "achievement_5_clean_sheets_in_a_row",
@@ -21569,7 +21574,7 @@
       "Name": "Parked The Bus",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 136970
+      "UsersEstimate": 136971
     },
     {
       "ID": "achievement_5_manager_of_the_year_awards",
@@ -21625,7 +21630,7 @@
       "Name": "Thumping",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 174755
+      "UsersEstimate": 174756
     },
     {
       "ID": "achievement_buy_50_million_plus_player",
@@ -21761,7 +21766,7 @@
       "Name": "Attack!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 132247
+      "UsersEstimate": 132248
     },
     {
       "ID": "achievement_goal_scored_in_30_consecutive_matches",
@@ -21769,7 +21774,7 @@
       "Name": "Irresistible Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 94462
+      "UsersEstimate": 94463
     },
     {
       "ID": "achievement_golden_boot_award",
@@ -21785,7 +21790,7 @@
       "Name": "Shrewd Spender",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 136970
+      "UsersEstimate": 136971
     },
     {
       "ID": "achievement_hattrick",
@@ -21897,7 +21902,7 @@
       "Name": "Superb Dressing Room Atmosphere",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 165309
+      "UsersEstimate": 165310
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -21913,7 +21918,7 @@
       "Name": "Excellent Match Cohesion",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 94462
+      "UsersEstimate": 94463
     },
     {
       "ID": "achievement_pick_feeder",
@@ -21945,7 +21950,7 @@
       "Name": "Star Man",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 136970
+      "UsersEstimate": 136971
     },
     {
       "ID": "achievement_player_in_world_cup_best_xi",
@@ -22097,7 +22102,7 @@
       "Name": "Trophy Hoarder",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 18892
+      "UsersEstimate": 18893
     },
     {
       "ID": "achievement_won_a_match",
@@ -22161,7 +22166,7 @@
       "Name": "Money, Money, Money",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 56677
+      "UsersEstimate": 56678
     },
     {
       "ID": "career_earnings_over_1_million",
@@ -22256,15 +22261,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 472312,
+      "Progressed": 472313,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-09-03T13:04:00.2839733+00:00",
-  "LastChanged_Achievements": "2023-09-04T01:48:32.7400746+00:00",
+  "LastChanged_Achievements": "2023-09-04T02:21:23.2232006+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:58:06.0582244+00:00",
-  "LastUpdate_Ratings": "2023-09-04T01:42:58.3893129+00:00",
-  "LastUpdate_Achievements": "2023-09-04T01:48:32.7403733+00:00"
+  "LastUpdate_Ratings": "2023-09-04T02:15:56.4353143+00:00",
+  "LastUpdate_Achievements": "2023-09-04T02:21:23.223402+00:00"
 }

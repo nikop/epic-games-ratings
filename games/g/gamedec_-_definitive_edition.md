@@ -6,13 +6,13 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~68,539 |
-| Powergamer | 27.00% | ~66,091 |
-| Barely scratched the surface | 25.00% | ~61,196 |
-| Write that down | 24.00% | ~58,748 |
+| I will finish what you started | 28.00% | ~68,540 |
+| Powergamer | 27.00% | ~66,092 |
+| Barely scratched the surface | 25.00% | ~61,197 |
+| Write that down | 24.00% | ~58,749 |
 | Guns, lots of guns | 12.00% | ~29,374 |
-| Collector | 11.00% | ~26,926 |
-| Elementary! | 9.00% | ~22,030 |
+| Collector | 11.00% | ~26,927 |
+| Elementary! | 9.00% | ~22,031 |
 | Pumpkin Jack | 8.00% | ~19,583 |
 | Wake up! | 8.00% | ~19,583 |
 | It's honest work | 7.00% | ~17,135 |
@@ -24,9 +24,9 @@ Number of Ratings: 33  (23.09.2022)
 | BOY! | 4.00% | ~9,791 |
 | Ka-ching! | 4.00% | ~9,791 |
 | So you like to read? | 4.00% | ~9,791 |
-| Hoarder | 3.00% | ~7,343 |
-| I like to sniff around | 3.00% | ~7,343 |
-| Mind reader | 3.00% | ~7,343 |
+| Hoarder | 3.00% | ~7,344 |
+| I like to sniff around | 3.00% | ~7,344 |
+| Mind reader | 3.00% | ~7,344 |
 | Gentleman's classic | 2.00% | ~4,896 |
 | Is that a rift? | 2.00% | ~4,896 |
 | It's alive! | 2.00% | ~4,896 |
@@ -46,7 +46,7 @@ Number of Ratings: 33  (23.09.2022)
 | It's blue, always blue | 0.80% | ~1,958 |
 | Let's try another | 0.80% | ~1,958 |
 | Home run | 0.80% | ~1,958 |
-| I have the high ground | 0.70% | ~1,713 |
+| I have the high ground | 0.70% | ~1,714 |
 | Enjoy these little moments | 0.50% | ~1,224 |
 | Who wouldn't love a troll? | 0.50% | ~1,224 |
 | Irondec | 0.40% | ~979 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~490 |
 | Memory 5 | 0.10% | ~245 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 244,782 (Ranked 49)  
+Progressed: 244,787 (Ranked 49)  
 Completed: 7 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 7 (0.00%) (Ranked 271)
 | 2023-09-01 | 244,461 | 7 |
 | 2023-09-02 | 244,599 | 7 |
 | 2023-09-03 | 244,766 | 7 |
-| 2023-09-04 | 244,782 | 7 |
+| 2023-09-04 | 244,787 | 7 |
 ## Awards
 Max (Character Customization): 80  (Ranked 361)  
 Sum: 80 (Ranked 429)  

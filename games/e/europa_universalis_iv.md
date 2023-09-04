@@ -6,10 +6,10 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~15,608 |
-| That's a Grand Army | 3.00% | ~11,706 |
-| That is mine! | 3.00% | ~11,706 |
-| Victorious! | 3.00% | ~11,706 |
+| Until death do us apart | 4.00% | ~15,609 |
+| That's a Grand Army | 3.00% | ~11,707 |
+| That is mine! | 3.00% | ~11,707 |
+| Victorious! | 3.00% | ~11,707 |
 | Brothers in Arms | 2.00% | ~7,804 |
 | That's a Grand Navy | 2.00% | ~7,804 |
 | Seriously?! | 2.00% | ~7,804 |
@@ -22,9 +22,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | It's all about luck | 0.80% | ~3,122 |
 | Respected | 0.80% | ~3,122 |
 | Truly Divine Ruler | 0.80% | ~3,122 |
-| Blockader | 0.70% | ~2,731 |
-| Double the Love | 0.70% | ~2,731 |
-| Total Control | 0.70% | ~2,731 |
+| Blockader | 0.70% | ~2,732 |
+| Double the Love | 0.70% | ~2,732 |
+| Total Control | 0.70% | ~2,732 |
 | My armies are invincible! | 0.60% | ~2,341 |
 | Royal Authority | 0.60% | ~2,341 |
 | Agressive Expander | 0.50% | ~1,951 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 390,196 (Ranked 40)  
+Progressed: 390,217 (Ranked 40)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -498,16 +498,16 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-09-01 | 386,048 | 0 |
 | 2023-09-02 | 388,066 | 0 |
 | 2023-09-03 | 390,095 | 0 |
-| 2023-09-04 | 390,196 | 0 |
+| 2023-09-04 | 390,217 | 0 |
 ## Awards
 Max (Educational): 5,909  (Ranked 58)  
-Sum: 48,651 (Ranked 26)  
+Sum: 48,669 (Ranked 26)  
 Diff (max vs sum): 32  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,909 |
 | This game is Highly Recommended | 5,640 |
-| This game is Extremely Fun | 5,593 |
+| This game is Extremely Fun | 5,611 |
 | This game has Challenging Combat | 5,591 |
 | This game has Diverse Characters | 5,584 |
 | This game is Relaxing | 5,443 |
@@ -748,3 +748,4 @@ Diff (max vs sum): 32
 | 2023-09-01 | 4.68 | - | 5,880 | 48,402 |
 | 2023-09-02 | 4.68 | - | 5,895 | 48,527 |
 | 2023-09-03 | 4.68 | - | 5,909 | 48,651 |
+| 2023-09-04 | 4.68 | - | 5,909 | 48,669 |
