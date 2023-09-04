@@ -109,7 +109,7 @@
 | 101 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,462 | 123 |
 | 101 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 935 | 149 |
 | 101 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 517 |
-| 110 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 4,568 | 72 |
+| 110 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 4,568 | 73 |
 | 110 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 6,897 | 51 |
 | 110 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 22,157 | 17 |
 | 110 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 38 | 429 |
@@ -199,7 +199,7 @@
 | 190 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.71 | 0 | 517 |
 | 190 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.71 | 1,847 | 112 |
 | 190 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.71 | 0 | 517 |
-| 200 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,567 | 73 |
+| 200 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,569 | 72 |
 | 200 | [Black Book](games/b/black_book.md) | 4.70 | 31 | 460 |
 | 200 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 384 | 222 |
 | 200 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 404 | 217 |
@@ -493,6 +493,7 @@
 | 491 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.55 | 0 | 517 |
 | 491 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.55 | 0 | 517 |
 | 491 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 517 |
+| 491 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.55 | 71 | 378 |
 | 491 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 249 | 255 |
 | 491 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.55 | 153 | 297 |
 | 491 | [IXION](games/i/ixion.md) | 4.55 | 0 | 517 |
@@ -503,24 +504,23 @@
 | 491 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 345 | 227 |
 | 491 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.55 | 79 | 363 |
 | 491 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,252 | 134 |
-| 504 | [Alan Wake](games/a/alan_wake.md) | 4.54 | 0 | 517 |
-| 504 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,412 | 127 |
-| 504 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 5,889 | 59 |
-| 504 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 35 | 442 |
-| 504 | [Far Cry](games/f/far_cry.md) | 4.54 | 0 | 517 |
-| 504 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 4.54 | 0 | 517 |
-| 504 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,321 | 130 |
-| 504 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 4.54 | 0 | 517 |
-| 504 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.54 | 71 | 378 |
-| 504 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.54 | 72 | 377 |
-| 504 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 22 | 496 |
-| 504 | [Oxenfree](games/o/oxenfree.md) | 4.54 | 0 | 517 |
-| 504 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 33 | 449 |
-| 504 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 88 | 356 |
-| 504 | [Rebel Cops](games/r/rebel_cops.md) | 4.54 | 0 | 517 |
-| 504 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 94 | 347 |
-| 504 | [Souldiers](games/s/souldiers.md) | 4.54 | 0 | 517 |
-| 504 | [Tails of Iron](games/t/tails_of_iron.md) | 4.54 | 0 | 517 |
+| 505 | [Alan Wake](games/a/alan_wake.md) | 4.54 | 0 | 517 |
+| 505 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,412 | 127 |
+| 505 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 5,889 | 59 |
+| 505 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 35 | 442 |
+| 505 | [Far Cry](games/f/far_cry.md) | 4.54 | 0 | 517 |
+| 505 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 4.54 | 0 | 517 |
+| 505 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,321 | 130 |
+| 505 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 4.54 | 0 | 517 |
+| 505 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.54 | 72 | 377 |
+| 505 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 22 | 496 |
+| 505 | [Oxenfree](games/o/oxenfree.md) | 4.54 | 0 | 517 |
+| 505 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 33 | 449 |
+| 505 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 88 | 356 |
+| 505 | [Rebel Cops](games/r/rebel_cops.md) | 4.54 | 0 | 517 |
+| 505 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 94 | 347 |
+| 505 | [Souldiers](games/s/souldiers.md) | 4.54 | 0 | 517 |
+| 505 | [Tails of Iron](games/t/tails_of_iron.md) | 4.54 | 0 | 517 |
 | 522 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.53 | 25 | 485 |
 | 522 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 517 |
 | 522 | [Dauntless](games/d/dauntless.md) | 4.53 | 21,671 | 18 |
@@ -538,7 +538,7 @@
 | 533 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.52 | 34 | 446 |
 | 533 | [Fall Guys](games/f/fall_guys.md) | 4.52 | 147,485 | 7 |
 | 533 | [For Honor Standard Edition](games/f/for_honor_standard_edition.md) | 4.52 | 0 | 517 |
-| 533 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 529 | 196 |
+| 533 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 530 | 196 |
 | 533 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 102 | 334 |
 | 533 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 125 | 314 |
 | 533 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 0 | 517 |
@@ -706,7 +706,7 @@
 | 691 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,204 | 106 |
 | 691 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.41 | 0 | 517 |
 | 691 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.41 | 560 | 193 |
-| 691 | [Train Valley 2](games/t/train_valley_2.md) | 4.41 | 529 | 196 |
+| 691 | [Train Valley 2](games/t/train_valley_2.md) | 4.41 | 529 | 197 |
 | 691 | [Warpips](games/w/warpips.md) | 4.41 | 27 | 472 |
 | 691 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.41 | 0 | 517 |
 | 691 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 1,303 | 132 |
