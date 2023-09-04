@@ -55,8 +55,8 @@
 | Seashell hunter | 35.00% | ~110 |
 | Undercover robot | 34.00% | ~107 |
 | Problems of cyborgs | 33.00% | ~104 |
+| Absolute Champion! | 33.00% | ~104 |
 | Not little hacker | 32.00% | ~100 |
-| Absolute Champion! | 32.00% | ~100 |
 | Anyone can resist | 32.00% | ~100 |
 | Trap disarmed | 31.00% | ~97 |
 | Keep nature safe | 31.00% | ~97 |

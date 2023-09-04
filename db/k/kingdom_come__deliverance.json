@@ -6874,10 +6874,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 27641,
       "NumberOfAwardsMax": 7418
+    },
+    {
+      "Time": "2023-09-04T02:59:01.7377624+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 27645,
+      "NumberOfAwardsMax": 7418
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27641,
+  "NumberOfAwards": 27645,
   "NumberOfAwardsMax": 7418,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6915,7 +6921,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1729
+      "Count": 1731
     },
     {
       "Text": "This game is Educational",
@@ -6927,7 +6933,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1634
+      "Count": 1635
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -6945,7 +6951,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1509
+      "Count": 1510
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -6960,7 +6966,7 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 799752,
+  "EOS_Progressed": 799754,
   "EOS_Completed": 44,
   "EOS_NewPlayers": 953,
   "EOS_NewCompleters": 0,
@@ -22030,6 +22036,11 @@
       "Time": "2023-09-04T02:19:30.7045925+00:00",
       "NumProgressed": 799752,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-09-04T03:04:08.860606+00:00",
+      "NumProgressed": 799754,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 82,
@@ -22065,7 +22076,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 127960
+      "UsersEstimate": 127961
     },
     {
       "ID": "Awakening",
@@ -22521,7 +22532,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 159950
+      "UsersEstimate": 159951
     },
     {
       "ID": "RevenantOfLedechko",
@@ -22561,7 +22572,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 159950
+      "UsersEstimate": 159951
     },
     {
       "ID": "SerialKiller",
@@ -22696,15 +22707,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 799752,
+      "Progressed": 799754,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-09-03T16:59:18.9191541+00:00",
-  "LastChanged_Achievements": "2023-09-04T02:19:30.704592+00:00",
+  "LastChanged": "2023-09-04T02:59:01.7377623+00:00",
+  "LastChanged_Achievements": "2023-09-04T03:04:08.8606055+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:05.4736062+00:00",
-  "LastUpdate_Ratings": "2023-09-04T02:14:10.1351535+00:00",
-  "LastUpdate_Achievements": "2023-09-04T02:19:30.7047695+00:00"
+  "LastUpdate_Ratings": "2023-09-04T02:59:01.7377628+00:00",
+  "LastUpdate_Achievements": "2023-09-04T03:04:08.8607523+00:00"
 }

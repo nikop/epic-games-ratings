@@ -448,9 +448,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7642,
+  "EOS_Progressed": 7643,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -7893,6 +7893,11 @@
       "Time": "2023-09-04T00:04:13.3005029+00:00",
       "NumProgressed": 7642,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-09-04T03:03:58.5698034+00:00",
+      "NumProgressed": 7643,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 29,
@@ -7904,7 +7909,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6343
+      "UsersEstimate": 6344
     },
     {
       "ID": "ACH02",
@@ -7912,7 +7917,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 2598
+      "UsersEstimate": 2599
     },
     {
       "ID": "ACH03",
@@ -8024,7 +8029,7 @@
       "Name": "A Marked Man",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1910
+      "UsersEstimate": 1911
     },
     {
       "ID": "ACH17",
@@ -8088,7 +8093,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 993
+      "UsersEstimate": 994
     },
     {
       "ID": "ACH25",
@@ -8128,14 +8133,14 @@
       "Name": "King of Liberty City",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     }
   ],
   "AchievementSets": [
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7642,
+      "Progressed": 7643,
       "Completed": 50
     }
   ],
@@ -8143,8 +8148,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-09-01T05:57:08.955736+00:00",
-  "LastChanged_Achievements": "2023-09-04T02:19:23.4017607+00:00",
+  "LastChanged_Achievements": "2023-09-04T03:03:58.5698029+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:17.0167679+00:00",
-  "LastUpdate_Ratings": "2023-09-04T02:13:38.4159558+00:00",
-  "LastUpdate_Achievements": "2023-09-04T02:19:23.4018256+00:00"
+  "LastUpdate_Ratings": "2023-09-04T02:58:16.5483463+00:00",
+  "LastUpdate_Achievements": "2023-09-04T03:03:58.5698583+00:00"
 }

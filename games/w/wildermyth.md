@@ -6,22 +6,22 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cost of Heroism | 40.00% | ~555 |
-| Me and My Familiar | 37.00% | ~513 |
-| This Too Shall Pass | 31.00% | ~430 |
-| Passing Shadow | 30.00% | ~416 |
-| Cutthroat Competitors | 30.00% | ~416 |
-| How Romantic! | 28.00% | ~388 |
-| Daybreak | 28.00% | ~388 |
+| The Cost of Heroism | 40.00% | ~556 |
+| Me and My Familiar | 37.00% | ~514 |
+| This Too Shall Pass | 32.00% | ~444 |
+| Passing Shadow | 30.00% | ~417 |
+| Cutthroat Competitors | 30.00% | ~417 |
+| How Romantic! | 28.00% | ~389 |
+| Daybreak | 28.00% | ~389 |
 | Gotta Ca... Must Collect All of Them | 26.00% | ~361 |
+| War Endured | 15.00% | ~208 |
 | Completing the Look | 14.00% | ~194 |
-| War Endured | 14.00% | ~194 |
 | Core Failure | 14.00% | ~194 |
-| A Mythic Menagerie | 13.00% | ~180 |
-| Who's Counting? | 13.00% | ~180 |
+| A Mythic Menagerie | 13.00% | ~181 |
+| Who's Counting? | 13.00% | ~181 |
 | Pyrrhic Victory | 11.00% | ~153 |
+| Thematic Divergence | 10.00% | ~139 |
 | Echoes Die | 10.00% | ~139 |
-| Thematic Divergence | 9.00% | ~125 |
 | Plague Doctor | 8.00% | ~111 |
 | Chain Reaction | 8.00% | ~111 |
 | Everfading | 8.00% | ~111 |
@@ -34,11 +34,11 @@ Number of Ratings: 45  (23.09.2022)
 | In Soil, In Smoke | 5.00% | ~69 |
 | A Hunger, Sated | 5.00% | ~69 |
 | Wingknight's Prowess | 5.00% | ~69 |
-| We Emerge Changed | 4.00% | ~55 |
-| Storied Past | 4.00% | ~55 |
-| Worldwalker | 4.00% | ~55 |
-| Grillmaster | 4.00% | ~55 |
-| No Time for Clawmonsters | 4.00% | ~55 |
+| We Emerge Changed | 4.00% | ~56 |
+| Storied Past | 4.00% | ~56 |
+| Worldwalker | 4.00% | ~56 |
+| Grillmaster | 4.00% | ~56 |
+| No Time for Clawmonsters | 4.00% | ~56 |
 | Empty the Caves | 3.00% | ~42 |
 | Bonebreakers | 3.00% | ~42 |
 | No More Nightmares | 3.00% | ~42 |
@@ -59,11 +59,11 @@ Number of Ratings: 45  (23.09.2022)
 | Thwack! | 2.00% | ~28 |
 | A Temperamental Shrub | 2.00% | ~28 |
 | A Lowly Crust of Beef | 1.00% | ~14 |
-| Overwhelming Monstrosity | 0.90% | ~12 |
-| We Call That Mortificient! | 0.90% | ~12 |
+| Overwhelming Monstrosity | 0.90% | ~13 |
+| We Call That Mortificient! | 0.90% | ~13 |
 | Peacemaker | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,387 (Ranked 191)  
+Progressed: 1,389 (Ranked 191)  
 Completed: 5 (0.36%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 5 (0.36%) (Ranked 167)
 | 2023-08-30 | 1,382 | 5 |
 | 2023-09-02 | 1,383 | 5 |
 | 2023-09-03 | 1,386 | 5 |
-| 2023-09-04 | 1,387 | 5 |
+| 2023-09-04 | 1,389 | 5 |
 ## Awards
 Max (Character Customization): 28  (Ranked 469)  
 Sum: 28 (Ranked 483)  

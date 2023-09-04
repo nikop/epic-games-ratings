@@ -4,7 +4,7 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 281,
+  "EOS_Progressed": 282,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.42,
   "EosHistory": [
@@ -306,6 +306,11 @@
       "Time": "2023-09-03T19:05:52.8648789+00:00",
       "NumProgressed": 281,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-04T03:05:46.3020983+00:00",
+      "NumProgressed": 282,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -357,7 +362,7 @@
       "Name": "Prisoner",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "GOOSEKA_DEFEATED",
@@ -413,7 +418,7 @@
       "Name": "Wild Ox",
       "Percentage": 46,
       "XP": 40,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "PARPLIN_DEFEATED",
@@ -444,7 +449,7 @@
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 281,
+      "Progressed": 282,
       "Completed": 4
     }
   ],
@@ -452,8 +457,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-09-04T02:20:43.5050932+00:00",
+  "LastChanged_Achievements": "2023-09-04T03:05:46.3020978+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:28.0660367+00:00",
-  "LastUpdate_Ratings": "2023-09-04T02:13:44.7904954+00:00",
-  "LastUpdate_Achievements": "2023-09-04T02:20:43.5051049+00:00"
+  "LastUpdate_Ratings": "2023-09-04T02:58:26.0258853+00:00",
+  "LastUpdate_Achievements": "2023-09-04T03:05:46.302109+00:00"
 }

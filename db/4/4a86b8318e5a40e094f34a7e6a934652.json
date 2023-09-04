@@ -371,9 +371,9 @@
       "ID": "CATCH_30_FISH",
       "SetID": "aniflfk",
       "Name": "Fisherman",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -475,9 +475,9 @@
       "ID": "TAKE_LEECH",
       "SetID": "aniflfk",
       "Name": "Uppies!",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -498,8 +498,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-04T02:22:24.2268545+00:00",
+  "LastChanged_Achievements": "2023-09-04T03:08:11.4815469+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:06.6191746+00:00",
-  "LastUpdate_Ratings": "2023-09-04T02:12:55.3549149+00:00",
-  "LastUpdate_Achievements": "2023-09-04T02:22:24.2268714+00:00"
+  "LastUpdate_Ratings": "2023-09-04T02:57:12.4614691+00:00",
+  "LastUpdate_Achievements": "2023-09-04T03:08:11.4815595+00:00"
 }

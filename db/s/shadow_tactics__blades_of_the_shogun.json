@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 42,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -1501,9 +1501,9 @@
       "Count": 248
     }
   ],
-  "EOS_Progressed": 199926,
+  "EOS_Progressed": 199931,
   "EOS_Completed": 76,
-  "EOS_NewPlayers": 1781,
+  "EOS_NewPlayers": 1783,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -16771,6 +16771,11 @@
       "Time": "2023-09-04T02:21:46.9895689+00:00",
       "NumProgressed": 199926,
       "NumCompleted": 76
+    },
+    {
+      "Time": "2023-09-04T03:07:11.4067947+00:00",
+      "NumProgressed": 199931,
+      "NumCompleted": 76
     }
   ],
   "TotalAchievements": 44,
@@ -16782,7 +16787,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 17993
+      "UsersEstimate": 17994
     },
     {
       "ID": "AtheistOx",
@@ -16958,7 +16963,7 @@
       "Name": "Okkoto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 9996
+      "UsersEstimate": 9997
     },
     {
       "ID": "OldMan",
@@ -17046,7 +17051,7 @@
       "Name": "The Cave",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1399
+      "UsersEstimate": 1400
     },
     {
       "ID": "TheEnd",
@@ -17094,7 +17099,7 @@
       "Name": "Too Early",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 9996
+      "UsersEstimate": 9997
     },
     {
       "ID": "Warzone",
@@ -17102,7 +17107,7 @@
       "Name": "Warzone",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 9996
+      "UsersEstimate": 9997
     },
     {
       "ID": "WhenCutAcrossTheNeck",
@@ -17133,15 +17138,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 199926,
+      "Progressed": 199931,
       "Completed": 76
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-09-03T10:00:07.4331692+00:00",
-  "LastChanged_Achievements": "2023-09-04T02:21:46.9895684+00:00",
+  "LastChanged_Achievements": "2023-09-04T03:07:11.4067942+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:03.876432+00:00",
-  "LastUpdate_Ratings": "2023-09-04T02:14:49.4639567+00:00",
-  "LastUpdate_Achievements": "2023-09-04T02:21:46.9896929+00:00"
+  "LastUpdate_Ratings": "2023-09-04T02:59:57.841094+00:00",
+  "LastUpdate_Achievements": "2023-09-04T03:07:11.4068987+00:00"
 }

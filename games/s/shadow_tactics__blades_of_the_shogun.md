@@ -8,7 +8,7 @@ Number of Ratings: 495  (23.09.2022)
 | ---- | ---------- | ----- |
 | Genin | 11.00% | ~21,992 |
 | Thorough | 10.00% | ~19,993 |
-| A thief's beginning | 9.00% | ~17,993 |
+| A thief's beginning | 9.00% | ~17,994 |
 | Disguised | 8.00% | ~15,994 |
 | Rescue Takuma | 8.00% | ~15,994 |
 | Rollin' | 8.00% | ~15,994 |
@@ -21,9 +21,9 @@ Number of Ratings: 495  (23.09.2022)
 | Flying Rocks | 6.00% | ~11,996 |
 | Happy Planning | 6.00% | ~11,996 |
 | Mugen Unchained | 6.00% | ~11,996 |
-| Okkoto | 5.00% | ~9,996 |
-| Too Early | 5.00% | ~9,996 |
-| Warzone | 5.00% | ~9,996 |
+| Okkoto | 5.00% | ~9,997 |
+| Too Early | 5.00% | ~9,997 |
+| Warzone | 5.00% | ~9,997 |
 | Gear up | 4.00% | ~7,997 |
 | Happy little accidents | 4.00% | ~7,997 |
 | Prisoners | 4.00% | ~7,997 |
@@ -41,7 +41,7 @@ Number of Ratings: 495  (23.09.2022)
 | Undeserved Honor | 1.00% | ~1,999 |
 | When Cut Across the Neck | 0.90% | ~1,799 |
 | High Five the Moon | 0.80% | ~1,599 |
-| The Cave | 0.70% | ~1,399 |
+| The Cave | 0.70% | ~1,400 |
 | Merciful | 0.50% | ~1,000 |
 | Time Paradox | 0.50% | ~1,000 |
 | Five Shadows | 0.30% | ~600 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~200 |
 | Release the Kraken | 0.10% | ~200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 199,926 (Ranked 61)  
+Progressed: 199,931 (Ranked 61)  
 Completed: 76 (0.04%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 76 (0.04%) (Ranked 240)
 | 2023-09-01 | 199,350 | 75 |
 | 2023-09-02 | 199,645 | 76 |
 | 2023-09-03 | 199,900 | 76 |
-| 2023-09-04 | 199,926 | 76 |
+| 2023-09-04 | 199,931 | 76 |
 ## Awards
 Max (Great for Beginners): 562  (Ranked 190)  
 Sum: 4,741 (Ranked 135)  

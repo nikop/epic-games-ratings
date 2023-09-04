@@ -10,9 +10,9 @@ Number of Ratings: 9,133  (23.09.2022)
 | Cavalier | 25.00% | ~199,938 |
 | Fatso | 23.00% | ~183,943 |
 | Awakening | 21.00% | ~167,948 |
-| Ranger | 20.00% | ~159,950 |
-| Scrooge | 20.00% | ~159,950 |
-| Anorectic | 16.00% | ~127,960 |
+| Ranger | 20.00% | ~159,951 |
+| Scrooge | 20.00% | ~159,951 |
+| Anorectic | 16.00% | ~127,961 |
 | Bookworm | 15.00% | ~119,963 |
 | Firestarter | 15.00% | ~119,963 |
 | Insomniac | 13.00% | ~103,968 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~800 |
 | Wingman | 0.10% | ~800 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 799,752 (Ranked 16)  
+Progressed: 799,754 (Ranked 16)  
 Completed: 44 (0.01%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,24 +226,24 @@ Completed: 44 (0.01%) (Ranked 257)
 | 2023-09-01 | 799,411 | 44 |
 | 2023-09-02 | 799,569 | 44 |
 | 2023-09-03 | 799,739 | 44 |
-| 2023-09-04 | 799,752 | 44 |
+| 2023-09-04 | 799,754 | 44 |
 ## Awards
 Max (Character Customization): 7,418  (Ranked 47)  
-Sum: 27,641 (Ranked 45)  
+Sum: 27,645 (Ranked 45)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,418 |
 | This game has Great Boss Battles | 5,466 |
-| This game has Challenging Combat | 1,729 |
+| This game has Challenging Combat | 1,731 |
 | This game has Amazing Storytelling | 1,691 |
 | This game has Diverse Characters | 1,680 |
 | This game is Extremely Fun | 1,661 |
 | This game is Highly Recommended | 1,653 |
-| This game has Amazing Characters | 1,634 |
+| This game has Amazing Characters | 1,635 |
 | This game has Realistic Visuals | 1,626 |
 | This game is Educational | 1,574 |
-| This game is Relaxing | 1,509 |
+| This game is Relaxing | 1,510 |
 | This game has Obsessive Gameplay | 1,048 |
 | This game has a Creative Community | 664 |
 ## Ratings History
@@ -469,3 +469,4 @@ Diff (max vs sum): 2
 | 2023-09-01 | 4.71 | - | 7,415 | 27,622 |
 | 2023-09-02 | 4.71 | - | 7,415 | 27,632 |
 | 2023-09-03 | 4.71 | - | 7,418 | 27,641 |
+| 2023-09-04 | 4.71 | - | 7,418 | 27,645 |

@@ -6,17 +6,17 @@ Rating: 4.29 (Ranked 804)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Chop Wood | 69.00% | ~141,389 |
-| Doubled Pawn | 56.00% | ~114,750 |
-| Check | 55.00% | ~112,701 |
-| Absolute pin | 46.00% | ~94,259 |
-| Promotion | 30.00% | ~61,473 |
+| Doubled Pawn | 56.00% | ~114,751 |
+| Check | 55.00% | ~112,702 |
+| Absolute pin | 46.00% | ~94,260 |
+| Promotion | 30.00% | ~61,474 |
 | Checkmate | 29.00% | ~59,424 |
 | O-O | 24.00% | ~49,179 |
-| Spanish Bishop | 21.00% | ~43,031 |
+| Spanish Bishop | 21.00% | ~43,032 |
 | Queen Sacrifice | 20.00% | ~40,982 |
 | Stalemate | 18.00% | ~36,884 |
-| O-O-O | 13.00% | ~26,638 |
-| Octopus | 13.00% | ~26,638 |
+| O-O-O | 13.00% | ~26,639 |
+| Octopus | 13.00% | ~26,639 |
 | Stranger Danger | 12.00% | ~24,589 |
 | En Passant | 9.00% | ~18,442 |
 | Double Check | 7.00% | ~14,344 |
@@ -44,7 +44,7 @@ Rating: 4.29 (Ranked 804)
 | Tournament Master | 0.10% | ~205 |
 | Tournament Pro | 0.10% | ~205 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 204,911 (Ranked 59)  
+Progressed: 204,912 (Ranked 59)  
 Completed: 2 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 2 (0.00%) (Ranked 271)
 | 2023-09-01 | 204,404 | 2 |
 | 2023-09-02 | 204,646 | 2 |
 | 2023-09-03 | 204,880 | 2 |
-| 2023-09-04 | 204,911 | 2 |
+| 2023-09-04 | 204,912 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
