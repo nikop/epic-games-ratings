@@ -59,7 +59,7 @@
 | 57 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.35% |
 | 58 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
 | 59 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.15% |
-| 60 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.06% |
+| 60 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.05% |
 | 61 | [ZZT!](games/z/zzt!.md) | 4.02% |
 | 62 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.99% |
 | 63 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
@@ -71,7 +71,7 @@
 | 69 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.29% |
 | 70 | [HordeCore](games/h/hordecore.md) | 3.15% |
 | 71 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.10% |
-| 72 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.04% |
+| 72 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.03% |
 | 73 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.01% |
 | 74 | [Monster Harvest](games/m/monster_harvest.md) | 2.93% |
 | 74 | [MultiVersus](games/m/multiversus.md) | 2.93% |
@@ -88,7 +88,7 @@
 | 85 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 87 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.44% |
 | 88 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.27% |
-| 88 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.27% |
+| 89 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.26% |
 | 90 | [Bloodshore](games/b/bloodshore.md) | 2.19% |
 | 91 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.18% |
 | 92 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
@@ -115,7 +115,7 @@
 | 113 | [Late Shift](games/l/late_shift.md) | 1.25% |
 | 114 | [Infindustry](games/i/infindustry.md) | 1.23% |
 | 115 | [Chorus](games/c/chorus.md) | 1.21% |
-| 116 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.19% |
+| 116 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.18% |
 | 117 | [Trifox](games/t/trifox.md) | 1.10% |
 | 118 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.05% |
 | 119 | [A Musical Story](games/a/a_musical_story.md) | 1.04% |
