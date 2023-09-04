@@ -24,9 +24,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | The Daily Grind | 0.70% | ~949 |
 | Bounty Hunters | 0.70% | ~949 |
 | Flooding the Market | 0.70% | ~949 |
+| Where it Hurts | 0.70% | ~949 |
 | Dungeon Imports | 0.70% | ~949 |
 | Demand for Supplies | 0.60% | ~814 |
-| Where it Hurts | 0.60% | ~814 |
 | Gild-Gotten Goods | 0.60% | ~814 |
 | Accomplished Merchant | 0.60% | ~814 |
 | Did we pack lunch? | 0.60% | ~814 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,632 (Ranked 67)  
+Progressed: 135,633 (Ranked 67)  
 Completed: 142 (0.10%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,7 +256,7 @@ Completed: 142 (0.10%) (Ranked 218)
 | 2023-09-01 | 135,508 | 140 |
 | 2023-09-02 | 135,551 | 140 |
 | 2023-09-03 | 135,618 | 142 |
-| 2023-09-04 | 135,632 | 142 |
+| 2023-09-04 | 135,633 | 142 |
 ## Awards
 Max (Great for Beginners): 4,721  (Ranked 70)  
 Sum: 27,171 (Ranked 47)  

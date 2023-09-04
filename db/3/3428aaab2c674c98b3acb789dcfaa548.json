@@ -4322,9 +4322,9 @@
       "Count": 675
     }
   ],
-  "EOS_Progressed": 779385,
+  "EOS_Progressed": 779414,
   "EOS_Completed": 155,
-  "EOS_NewPlayers": 8269,
+  "EOS_NewPlayers": 8257,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -16132,6 +16132,11 @@
       "Time": "2023-09-04T08:08:09.6630412+00:00",
       "NumProgressed": 779385,
       "NumCompleted": 155
+    },
+    {
+      "Time": "2023-09-04T09:09:14.9307255+00:00",
+      "NumProgressed": 779414,
+      "NumCompleted": 155
     }
   ],
   "TotalAchievements": 75,
@@ -16143,7 +16148,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 163671
+      "UsersEstimate": 163677
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -16223,7 +16228,7 @@
       "Name": "Come Fly With Me",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 38969
+      "UsersEstimate": 38971
     },
     {
       "ID": "ACHIEVEMENT_CONDEMNED_TO_REPEAT_IT",
@@ -16239,7 +16244,7 @@
       "Name": "Crafty",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 38969
+      "UsersEstimate": 38971
     },
     {
       "ID": "ACHIEVEMENT_CURIOS_AND_RELICS",
@@ -16367,7 +16372,7 @@
       "Name": "Lead Dealer",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 31175
+      "UsersEstimate": 31177
     },
     {
       "ID": "ACHIEVEMENT_LITTLE_WHEEL",
@@ -16439,7 +16444,7 @@
       "Name": "New Kid",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 38969
+      "UsersEstimate": 38971
     },
     {
       "ID": "ACHIEVEMENT_NEW_VEGAS_SAMURAI",
@@ -16463,7 +16468,7 @@
       "Name": "No Tumbler Fumbler",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 31175
+      "UsersEstimate": 31177
     },
     {
       "ID": "ACHIEVEMENT_OLD_TYME_BRAWLER",
@@ -16479,7 +16484,7 @@
       "Name": "Ol\u0027 Buddy Ol\u0027 Pal",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 38969
+      "UsersEstimate": 38971
     },
     {
       "ID": "ACHIEVEMENT_ONE_ARMED_BANDIT",
@@ -16551,7 +16556,7 @@
       "Name": "Ring-a-Ding-Ding",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 31175
+      "UsersEstimate": 31177
     },
     {
       "ID": "ACHIEVEMENT_ROCKETS_RED_GLARE",
@@ -16615,7 +16620,7 @@
       "Name": "They Went That-a-Way",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 38969
+      "UsersEstimate": 38971
     },
     {
       "ID": "ACHIEVEMENT_THE_BOSS",
@@ -16663,7 +16668,7 @@
       "Name": "Up and Comer",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 31175
+      "UsersEstimate": 31177
     },
     {
       "ID": "ACHIEVEMENT_UP_TO_THE_CHALLENGE",
@@ -16695,7 +16700,7 @@
       "Name": "Walker of the Mojave",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 31175
+      "UsersEstimate": 31177
     },
     {
       "ID": "ACHIEVEMENT_WARHEAD_HUNTER",
@@ -16735,20 +16740,20 @@
       "Name": "You Run Barter Town",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 31175
+      "UsersEstimate": 31177
     }
   ],
   "AchievementSets": [
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 779385,
+      "Progressed": 779414,
       "Completed": 180
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 779385,
+      "Progressed": 779414,
       "Completed": 155
     }
   ],
@@ -16756,8 +16761,8 @@
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
   "LastChanged": "2023-09-04T05:57:43.24848+00:00",
-  "LastChanged_Achievements": "2023-09-04T08:08:09.6630409+00:00",
+  "LastChanged_Achievements": "2023-09-04T09:09:14.9307245+00:00",
   "LastUpdate_AppInfo": "2023-09-01T01:42:46.5558166+00:00",
-  "LastUpdate_Ratings": "2023-09-04T07:57:35.5682521+00:00",
-  "LastUpdate_Achievements": "2023-09-04T08:08:09.6631554+00:00"
+  "LastUpdate_Ratings": "2023-09-04T08:57:52.0007981+00:00",
+  "LastUpdate_Achievements": "2023-09-04T09:09:14.9308602+00:00"
 }

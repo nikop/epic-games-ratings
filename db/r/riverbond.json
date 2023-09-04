@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 33,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 77,
+  "Ranking_EOS_NewPlayers": 76,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
@@ -494,7 +494,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 526669,
+  "EOS_Progressed": 526671,
   "EOS_Completed": 468,
   "EOS_NewPlayers": 561,
   "EOS_NewCompleters": 1,
@@ -15089,6 +15089,11 @@
       "Time": "2023-09-04T08:03:58.1262897+00:00",
       "NumProgressed": 526669,
       "NumCompleted": 468
+    },
+    {
+      "Time": "2023-09-04T09:04:46.5166435+00:00",
+      "NumProgressed": 526671,
+      "NumCompleted": 468
     }
   ],
   "TotalAchievements": 57,
@@ -15108,7 +15113,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 237001
+      "UsersEstimate": 237002
     },
     {
       "ID": "11",
@@ -15116,7 +15121,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 368668
+      "UsersEstimate": 368670
     },
     {
       "ID": "12",
@@ -15124,7 +15129,7 @@
       "Name": "Wind At Our Backs",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 115867
+      "UsersEstimate": 115868
     },
     {
       "ID": "13",
@@ -15172,7 +15177,7 @@
       "Name": "To Victory!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 79000
+      "UsersEstimate": 79001
     },
     {
       "ID": "19",
@@ -15180,7 +15185,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 326535
+      "UsersEstimate": 326536
     },
     {
       "ID": "2",
@@ -15276,7 +15281,7 @@
       "Name": "Oh, Romeo!",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 26333
+      "UsersEstimate": 26334
     },
     {
       "ID": "30",
@@ -15308,7 +15313,7 @@
       "Name": "Noble Intentions",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 26333
+      "UsersEstimate": 26334
     },
     {
       "ID": "34",
@@ -15324,7 +15329,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 263334
+      "UsersEstimate": 263336
     },
     {
       "ID": "36",
@@ -15356,7 +15361,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 179067
+      "UsersEstimate": 179068
     },
     {
       "ID": "4",
@@ -15372,7 +15377,7 @@
       "Name": "Rising Star",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 26333
+      "UsersEstimate": 26334
     },
     {
       "ID": "41",
@@ -15428,7 +15433,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 326535
+      "UsersEstimate": 326536
     },
     {
       "ID": "48",
@@ -15444,7 +15449,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 179067
+      "UsersEstimate": 179068
     },
     {
       "ID": "5",
@@ -15476,7 +15481,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 242268
+      "UsersEstimate": 242269
     },
     {
       "ID": "53",
@@ -15500,7 +15505,7 @@
       "Name": "Slime Slayer",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 26333
+      "UsersEstimate": 26334
     },
     {
       "ID": "56",
@@ -15555,15 +15560,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 526669,
+      "Progressed": 526671,
       "Completed": 468
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-09-04T08:03:58.1262893+00:00",
+  "LastChanged_Achievements": "2023-09-04T09:04:46.5166429+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:25.8959885+00:00",
-  "LastUpdate_Ratings": "2023-09-04T07:57:57.6123103+00:00",
-  "LastUpdate_Achievements": "2023-09-04T08:03:58.1264115+00:00"
+  "LastUpdate_Ratings": "2023-09-04T08:58:23.6878322+00:00",
+  "LastUpdate_Achievements": "2023-09-04T09:04:46.5168486+00:00"
 }

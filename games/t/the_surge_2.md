@@ -5,20 +5,20 @@ Rating: 4.24 (Ranked 842)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,590 |
-| Don't I Know You...? | 77.00% | ~1,531 |
-| Jailbreak | 66.00% | ~1,312 |
-| Suited and Booted | 39.00% | ~775 |
-| HEADSHOT! | 38.00% | ~755 |
+| Rigged And Ready | 80.00% | ~1,591 |
+| Don't I Know You...? | 77.00% | ~1,532 |
+| Jailbreak | 66.00% | ~1,313 |
+| Suited and Booted | 39.00% | ~776 |
+| HEADSHOT! | 38.00% | ~756 |
 | Sleeping With The Fishes | 36.00% | ~716 |
-| Overheated | 30.00% | ~596 |
-| High Performance | 30.00% | ~596 |
+| Overheated | 30.00% | ~597 |
+| High Performance | 30.00% | ~597 |
 | Powered Up | 28.00% | ~557 |
 | Studied The Blade | 25.00% | ~497 |
 | Home Invasion | 23.00% | ~457 |
-| Luminary | 22.00% | ~437 |
-| It's a Trap | 22.00% | ~437 |
-| True Survivor | 21.00% | ~417 |
+| Luminary | 22.00% | ~438 |
+| It's a Trap | 22.00% | ~438 |
+| True Survivor | 21.00% | ~418 |
 | Offensive Defense | 20.00% | ~398 |
 | Shocking | 20.00% | ~398 |
 | Unforeseeable Consequences | 20.00% | ~398 |
@@ -28,11 +28,11 @@ Rating: 4.24 (Ranked 842)
 | Full Arsenal | 17.00% | ~338 |
 | Can't Trust Banks | 15.00% | ~298 |
 | Mommy Dearest | 14.00% | ~278 |
-| Bad Dog | 13.00% | ~258 |
-| Where It All Began | 13.00% | ~258 |
-| Risk Tolerant | 13.00% | ~258 |
-| Sorry, Didn't See You There | 13.00% | ~258 |
-| What A Catchy Song | 13.00% | ~258 |
+| Bad Dog | 13.00% | ~259 |
+| Where It All Began | 13.00% | ~259 |
+| Risk Tolerant | 13.00% | ~259 |
+| Sorry, Didn't See You There | 13.00% | ~259 |
+| What A Catchy Song | 13.00% | ~259 |
 | Corrupted Beauty | 12.00% | ~239 |
 | Marked For Success | 12.00% | ~239 |
 | Triplets | 11.00% | ~219 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 842)
 | Loot, Pillage & Craft | 2.00% | ~40 |
 | Swiss Army Drone | 1.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,988 (Ranked 174)  
+Progressed: 1,989 (Ranked 174)  
 Completed: 11 (0.55%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,6 +170,7 @@ Completed: 11 (0.55%) (Ranked 148)
 | 2023-08-31 | 1,986 | 11 |
 | 2023-09-01 | 1,987 | 11 |
 | 2023-09-02 | 1,988 | 11 |
+| 2023-09-04 | 1,989 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

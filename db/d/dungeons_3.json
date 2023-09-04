@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 174,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_NewPlayers": 66,
   "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2020-11-05T16:00:00+00:00",
@@ -2578,7 +2578,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 29472,
+  "EOS_Progressed": 29473,
   "EOS_Completed": 243,
   "EOS_NewPlayers": 757,
   "EOS_NewCompleters": 5,
@@ -17438,6 +17438,11 @@
       "Time": "2023-09-04T08:06:54.9520418+00:00",
       "NumProgressed": 29472,
       "NumCompleted": 243
+    },
+    {
+      "Time": "2023-09-04T09:08:54.817088+00:00",
+      "NumProgressed": 29473,
+      "NumCompleted": 243
     }
   ],
   "TotalAchievements": 60,
@@ -17457,7 +17462,7 @@
       "Name": "No one has to die today!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 13557
+      "UsersEstimate": 13558
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -17465,7 +17470,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 16799
+      "UsersEstimate": 16800
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -17473,7 +17478,7 @@
       "Name": "Use the terrain",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 2652
+      "UsersEstimate": 2653
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_2",
@@ -17537,7 +17542,7 @@
       "Name": "A trip on sea, what fun it can be",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 10020
+      "UsersEstimate": 10021
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_1",
@@ -17561,7 +17566,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 14441
+      "UsersEstimate": 14442
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -17585,7 +17590,7 @@
       "Name": "Stock Market Crash",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 9136
+      "UsersEstimate": 9137
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_1",
@@ -17593,7 +17598,7 @@
       "Name": "MASS-O-BOT",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 7073
+      "UsersEstimate": 7074
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_2",
@@ -17617,7 +17622,7 @@
       "Name": "Prepare the grave",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 7073
+      "UsersEstimate": 7074
     },
     {
       "ID": "ACH_D3_Campaign_Fire_2",
@@ -17633,7 +17638,7 @@
       "Name": "Angel of Fire",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 7073
+      "UsersEstimate": 7074
     },
     {
       "ID": "ACH_D3_Campaign_Graves_1",
@@ -17745,7 +17750,7 @@
       "Name": "Prison Break",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 2652
+      "UsersEstimate": 2653
     },
     {
       "ID": "ACH_D3_Campaign_Pain_Completed",
@@ -17809,7 +17814,7 @@
       "Name": "Factory farming",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 9136
+      "UsersEstimate": 9137
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_2",
@@ -17833,7 +17838,7 @@
       "Name": "Death and destruction!",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 13262
+      "UsersEstimate": 13263
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_2",
@@ -17873,7 +17878,7 @@
       "Name": "The Victorious Evil",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 5894
+      "UsersEstimate": 5895
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_1",
@@ -17928,15 +17933,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 29472,
+      "Progressed": 29473,
       "Completed": 243
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-09-02T23:00:06.7755284+00:00",
-  "LastChanged_Achievements": "2023-09-04T08:06:54.9520415+00:00",
+  "LastChanged_Achievements": "2023-09-04T09:08:54.8170871+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:12.3357461+00:00",
-  "LastUpdate_Ratings": "2023-09-04T07:59:41.962637+00:00",
-  "LastUpdate_Achievements": "2023-09-04T08:06:54.9521569+00:00"
+  "LastUpdate_Ratings": "2023-09-04T09:00:53.7803434+00:00",
+  "LastUpdate_Achievements": "2023-09-04T09:08:54.8172333+00:00"
 }

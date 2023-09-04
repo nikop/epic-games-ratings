@@ -3874,10 +3874,10 @@
       "Count": 824
     }
   ],
-  "EOS_Progressed": 1637951,
-  "EOS_Completed": 558,
-  "EOS_NewPlayers": 20232,
-  "EOS_NewCompleters": 23,
+  "EOS_Progressed": 1638037,
+  "EOS_Completed": 559,
+  "EOS_NewPlayers": 20218,
+  "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
     {
@@ -14044,6 +14044,11 @@
       "Time": "2023-09-04T08:06:34.6703897+00:00",
       "NumProgressed": 1637951,
       "NumCompleted": 558
+    },
+    {
+      "Time": "2023-09-04T09:08:26.9096155+00:00",
+      "NumProgressed": 1638037,
+      "NumCompleted": 559
     }
   ],
   "TotalAchievements": 1328,
@@ -14111,7 +14116,7 @@
       "Name": "The Collector",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 32759
+      "UsersEstimate": 32761
     },
     {
       "ID": "armed_and_dangerous",
@@ -14127,7 +14132,7 @@
       "Name": "Would You Like Your Receipt?",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 32759
+      "UsersEstimate": 32761
     },
     {
       "ID": "armored_1",
@@ -15255,7 +15260,7 @@
       "Name": "I Want to Get Away",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 49139
+      "UsersEstimate": 49141
     },
     {
       "ID": "brooklyn_2",
@@ -15479,7 +15484,7 @@
       "Name": "Virus",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 32759
+      "UsersEstimate": 32761
     },
     {
       "ID": "cac_29",
@@ -18671,7 +18676,7 @@
       "Name": "Guilty of Crime",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 32759
+      "UsersEstimate": 32761
     },
     {
       "ID": "halloween_1",
@@ -18807,7 +18812,7 @@
       "Name": "How Do You Like Me Now?",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 32759
+      "UsersEstimate": 32761
     },
     {
       "ID": "i_knew_what_i_was_doing_was_wrong",
@@ -19767,7 +19772,7 @@
       "Name": "No One Cared Who I Was...",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 49139
+      "UsersEstimate": 49141
     },
     {
       "ID": "no_turning_back",
@@ -19775,7 +19780,7 @@
       "Name": "No Turning Back",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 49139
+      "UsersEstimate": 49141
     },
     {
       "ID": "orange_1",
@@ -24559,7 +24564,7 @@
       "Name": "Armed to the Teeth",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 32759
+      "UsersEstimate": 32761
     },
     {
       "ID": "wwh_1",
@@ -24663,7 +24668,7 @@
       "Name": "You Gotta Start Somewhere",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 49139
+      "UsersEstimate": 49141
     },
     {
       "ID": "you_shall_not_pass",
@@ -24678,13 +24683,13 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1637951,
-      "Completed": 558
+      "Progressed": 1638037,
+      "Completed": 559
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1637951,
+      "Progressed": 1638037,
       "Completed": 50
     }
   ],
@@ -24692,8 +24697,8 @@
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
   "LastChanged": "2023-09-04T04:57:37.904064+00:00",
-  "LastChanged_Achievements": "2023-09-04T08:06:34.670389+00:00",
+  "LastChanged_Achievements": "2023-09-04T09:08:26.9096149+00:00",
   "LastUpdate_AppInfo": "2023-08-31T22:57:08.4881409+00:00",
-  "LastUpdate_Ratings": "2023-09-04T07:57:37.3361624+00:00",
-  "LastUpdate_Achievements": "2023-09-04T08:06:34.6845332+00:00"
+  "LastUpdate_Ratings": "2023-09-04T08:57:54.7269728+00:00",
+  "LastUpdate_Achievements": "2023-09-04T09:08:26.9291534+00:00"
 }

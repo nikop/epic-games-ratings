@@ -1602,9 +1602,9 @@
       "ID": "BearPistol",
       "SetID": "db30heh",
       "Name": "Ouch!",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 226
+      "UsersEstimate": 230
     },
     {
       "ID": "BearPoppiesBroth",
@@ -1730,9 +1730,9 @@
       "ID": "HastrmanAcorn",
       "SetID": "db30heh",
       "Name": "Do Not Disturb",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 213
+      "UsersEstimate": 217
     },
     {
       "ID": "HastrmanAmanita",
@@ -1858,17 +1858,17 @@
       "ID": "RogueKing",
       "SetID": "db30heh",
       "Name": "Long Live The King",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 125
     },
     {
       "ID": "RogueNaked",
       "SetID": "db30heh",
       "Name": "The King is Naked",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 79
+      "UsersEstimate": 84
     },
     {
       "ID": "RogueRum",
@@ -1937,8 +1937,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-09-04T08:06:09.646944+00:00",
+  "LastChanged_Achievements": "2023-09-04T09:07:51.8228249+00:00",
   "LastUpdate_AppInfo": "2023-08-29T18:57:22.664364+00:00",
-  "LastUpdate_Ratings": "2023-09-04T08:02:16.8891049+00:00",
-  "LastUpdate_Achievements": "2023-09-04T08:06:09.6469811+00:00"
+  "LastUpdate_Ratings": "2023-09-04T09:03:09.1703177+00:00",
+  "LastUpdate_Achievements": "2023-09-04T09:07:51.8228859+00:00"
 }

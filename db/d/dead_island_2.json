@@ -4150,10 +4150,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 8684,
       "NumberOfAwardsMax": 5889
+    },
+    {
+      "Time": "2023-09-04T08:59:41.1614493+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 8685,
+      "NumberOfAwardsMax": 5889
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8684,
+  "NumberOfAwards": 8685,
   "NumberOfAwardsMax": 5889,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4197,7 +4203,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 317
+      "Count": 318
     },
     {
       "Text": "This game is Relaxing",
@@ -4212,10 +4218,10 @@
       "Count": 336
     }
   ],
-  "EOS_Progressed": 673124,
-  "EOS_Completed": 2111,
-  "EOS_NewPlayers": 5662,
-  "EOS_NewCompleters": 29,
+  "EOS_Progressed": 673144,
+  "EOS_Completed": 2112,
+  "EOS_NewPlayers": 5664,
+  "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -19477,6 +19483,11 @@
       "Time": "2023-09-04T08:05:18.0461396+00:00",
       "NumProgressed": 673124,
       "NumCompleted": 2111
+    },
+    {
+      "Time": "2023-09-04T09:06:37.6745878+00:00",
+      "NumProgressed": 673144,
+      "NumCompleted": 2112
     }
   ],
   "TotalAchievements": 45,
@@ -19542,9 +19553,9 @@
       "ID": "ach_bookworm",
       "SetID": "7km39fm",
       "Name": "Bookworm",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 4712
+      "UsersEstimate": 5385
     },
     {
       "ID": "ach_break_a_leg",
@@ -19742,9 +19753,9 @@
       "ID": "ach_salvation",
       "SetID": "7km39fm",
       "Name": "Down with the Sickness",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2692
+      "UsersEstimate": 3366
     },
     {
       "ID": "ach_secrets_of_la",
@@ -19784,7 +19795,7 @@
       "Name": "Max Headroom",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2692
+      "UsersEstimate": 2693
     },
     {
       "ID": "ach_the_vcla",
@@ -19847,16 +19858,16 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 673124,
-      "Completed": 2111
+      "Progressed": 673144,
+      "Completed": 2112
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-09-03T22:58:28.9273794+00:00",
-  "LastChanged_Achievements": "2023-09-04T08:05:18.0461392+00:00",
+  "LastChanged": "2023-09-04T08:59:41.1614491+00:00",
+  "LastChanged_Achievements": "2023-09-04T09:06:37.6745869+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:04.7021628+00:00",
-  "LastUpdate_Ratings": "2023-09-04T07:58:50.0683038+00:00",
-  "LastUpdate_Achievements": "2023-09-04T08:05:18.0462383+00:00"
+  "LastUpdate_Ratings": "2023-09-04T08:59:41.1614498+00:00",
+  "LastUpdate_Achievements": "2023-09-04T09:06:37.6747147+00:00"
 }

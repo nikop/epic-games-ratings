@@ -6,10 +6,10 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 2.00% | ~16,935 |
-| It wakes | 2.00% | ~16,935 |
-| Skillful | 2.00% | ~16,935 |
-| MU/TH/UR Dearest | 2.00% | ~16,935 |
+| Zealous | 2.00% | ~16,937 |
+| It wakes | 2.00% | ~16,937 |
+| Skillful | 2.00% | ~16,937 |
+| MU/TH/UR Dearest | 2.00% | ~16,937 |
 | No one left behind | 1.00% | ~8,468 |
 | Medic | 1.00% | ~8,468 |
 | Handyman | 1.00% | ~8,468 |
@@ -27,20 +27,21 @@ Number of Ratings: 70,340  (23.09.2022)
 | Perfect Escape | 0.90% | ~7,621 |
 | Healthy Obsession | 0.90% | ~7,621 |
 | Preemptive Strike | 0.90% | ~7,621 |
-| Agonizing Escape | 0.80% | ~6,774 |
-| Perfect Killing | 0.80% | ~6,774 |
-| Engineer | 0.80% | ~6,774 |
-| Humanitarian | 0.80% | ~6,774 |
-| Terror of LV-426 | 0.80% | ~6,774 |
-| I've got your back | 0.70% | ~5,927 |
-| Risk it all | 0.70% | ~5,927 |
-| Wounded Healer | 0.70% | ~5,927 |
-| Close Shave | 0.70% | ~5,927 |
+| Agonizing Escape | 0.80% | ~6,775 |
+| Perfect Killing | 0.80% | ~6,775 |
+| Engineer | 0.80% | ~6,775 |
+| Humanitarian | 0.80% | ~6,775 |
+| Terror of LV-426 | 0.80% | ~6,775 |
+| I've got your back | 0.70% | ~5,928 |
+| Risk it all | 0.70% | ~5,928 |
+| Wounded Healer | 0.70% | ~5,928 |
+| Close Shave | 0.70% | ~5,928 |
 | Apt Killer | 0.60% | ~5,081 |
 | Vulture | 0.60% | ~5,081 |
 | II | 0.60% | ~5,081 |
 | Second Act | 0.60% | ~5,081 |
 | III | 0.50% | ~4,234 |
+| First to the Punch | 0.50% | ~4,234 |
 | With Scars to Show | 0.50% | ~4,234 |
 | Blood on your hands | 0.40% | ~3,387 |
 | Escape Artist | 0.40% | ~3,387 |
@@ -54,7 +55,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Cherish your Life | 0.40% | ~3,387 |
 | Unforgettable Getaway | 0.40% | ~3,387 |
 | Cutting Out | 0.40% | ~3,387 |
-| First to the Punch | 0.40% | ~3,387 |
 | Operation: Survival | 0.40% | ~3,387 |
 | Old West Oasis | 0.40% | ~3,387 |
 | Classy Act | 0.40% | ~3,387 |
@@ -76,6 +76,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Escaping the Nightmare | 0.30% | ~2,540 |
 | Campbell's Chapel Legacy | 0.30% | ~2,540 |
 | Ancestor's Rite | 0.30% | ~2,540 |
+| Devoted Gatekeeping | 0.30% | ~2,540 |
 | Outrun Evil | 0.30% | ~2,540 |
 | Grim Pilgrimage | 0.30% | ~2,540 |
 | Complete the Evolution | 0.30% | ~2,540 |
@@ -89,7 +90,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Whiffing to Success | 0.20% | ~1,694 |
 | Outrage | 0.20% | ~1,694 |
 | Heavy Burden | 0.20% | ~1,694 |
-| Devoted Gatekeeping | 0.20% | ~1,694 |
 | Broken Bodies | 0.20% | ~1,694 |
 | Selfless Survival | 0.20% | ~1,694 |
 | I See You | 0.20% | ~1,694 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~847 |
 | Adept Ripley | 0.10% | ~847 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 846,753 (Ranked 15)  
+Progressed: 846,832 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -373,14 +373,14 @@ Completed: 48 (0.01%) (Ranked 257)
 | 2023-09-01 | 837,438 | 48 |
 | 2023-09-02 | 841,459 | 48 |
 | 2023-09-03 | 845,727 | 48 |
-| 2023-09-04 | 846,753 | 48 |
+| 2023-09-04 | 846,832 | 48 |
 ## Awards
-Max (Diverse Characters): 31,886  (Ranked 15)  
-Sum: 249,913 (Ranked 11)  
+Max (Diverse Characters): 31,936  (Ranked 15)  
+Sum: 249,963 (Ranked 11)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 31,886 |
+| This game has Diverse Characters | 31,936 |
 | This game is Highly Recommended | 28,554 |
 | This game has Competitive Players | 28,471 |
 | This game has Amazing Characters | 28,243 |
@@ -617,3 +617,4 @@ Diff (max vs sum): 4
 | 2023-09-01 | 4.52 | - | 31,778 | 249,224 |
 | 2023-09-02 | 4.52 | - | 31,830 | 249,556 |
 | 2023-09-03 | 4.52 | - | 31,886 | 249,913 |
+| 2023-09-04 | 4.52 | - | 31,936 | 249,963 |

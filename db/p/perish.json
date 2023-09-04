@@ -4,7 +4,7 @@
   "ProductSlug": "perish-390141",
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3425,
+  "EOS_Progressed": 3426,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2813,6 +2813,11 @@
       "Time": "2023-09-03T08:03:34.7708742+00:00",
       "NumProgressed": 3425,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-04T09:04:48.0537861+00:00",
+      "NumProgressed": 3426,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -2840,7 +2845,7 @@
       "Name": "Wayward Son of Hephaestus",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_B_K",
@@ -2856,7 +2861,7 @@
       "Name": "Lament of the Constellations",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_ELY",
@@ -2880,7 +2885,7 @@
       "Name": "Forged in Fire",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_GE",
@@ -2928,7 +2933,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_M_AI",
@@ -2984,7 +2989,7 @@
       "Name": "The Midas Touch",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_M_D5",
@@ -3056,7 +3061,7 @@
       "Name": "Hapax Legomenon",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_OB_CC",
@@ -3064,7 +3069,7 @@
       "Name": "Don\u0027t Pay the Ferryman",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_OB_CR",
@@ -3104,7 +3109,7 @@
       "Name": "Veneration of Hephaestus",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_OB_FT",
@@ -3144,7 +3149,7 @@
       "Name": "Vandili",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_OB_RE",
@@ -3152,7 +3157,7 @@
       "Name": "No Scylla in Sight",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_OB_SC",
@@ -3168,7 +3173,7 @@
       "Name": "Cloaca Maxima",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_OB_TDS",
@@ -3240,7 +3245,7 @@
       "Name": "Baby Crabs They Ain\u0027t",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_TOTN",
@@ -3264,7 +3269,7 @@
       "Name": "Mors Omnibus",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "KA2",
@@ -3296,7 +3301,7 @@
       "Name": "Blot Out the Sky",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "KK",
@@ -3327,7 +3332,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 3425,
+      "Progressed": 3426,
       "Completed": 0
     }
   ],
@@ -3335,8 +3340,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-09-04T08:03:59.2479309+00:00",
+  "LastChanged_Achievements": "2023-09-04T09:04:48.0537855+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:32.0898008+00:00",
-  "LastUpdate_Ratings": "2023-09-04T08:00:15.7057201+00:00",
-  "LastUpdate_Achievements": "2023-09-04T08:03:59.2479933+00:00"
+  "LastUpdate_Ratings": "2023-09-04T09:01:37.5323027+00:00",
+  "LastUpdate_Achievements": "2023-09-04T09:04:48.053892+00:00"
 }

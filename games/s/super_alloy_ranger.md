@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iceberg Theory | 80.00% | ~43 |
-| Gear Up | 70.00% | ~38 |
-| A Grand Show | 70.00% | ~38 |
-| Freshen Up | 59.00% | ~32 |
-| GG EZ | 59.00% | ~32 |
+| Iceberg Theory | 78.00% | ~43 |
+| Gear Up | 69.00% | ~38 |
+| A Grand Show | 69.00% | ~38 |
+| Freshen Up | 58.00% | ~32 |
+| GG EZ | 58.00% | ~32 |
 | Hydrophobia | 44.00% | ~24 |
-| Ka-Ching! | 37.00% | ~20 |
+| Ka-Ching! | 36.00% | ~20 |
 | Stop Right There | 35.00% | ~19 |
 | Get to the Point | 33.00% | ~18 |
-| Toe to Toe | 19.00% | ~10 |
-| The Hidden Secret | 17.00% | ~9 |
-| Mr. Want It All | 17.00% | ~9 |
+| Toe to Toe | 18.00% | ~10 |
+| The Hidden Secret | 16.00% | ~9 |
+| Mr. Want It All | 16.00% | ~9 |
 | Phew! | 15.00% | ~8 |
 | Grand Escape | 13.00% | ~7 |
 | Space Warrior: Prologue | 13.00% | ~7 |
@@ -25,16 +25,16 @@
 | The Fortress Conqueror | 7.00% | ~4 |
 | The Hypergravitational Abyss Conqueror | 7.00% | ~4 |
 | Antaeus | 7.00% | ~4 |
-| The Deep Frozen Conqueror | 6.00% | ~3 |
-| The Infinite Train Conqueror | 6.00% | ~3 |
-| The Paradox Coordinate Conqueror | 6.00% | ~3 |
-| The Zero Dimensional Capital Conqueror | 6.00% | ~3 |
-| The Inactivated Frozen Conqueror | 6.00% | ~3 |
-| Death Bringer Conqueror | 6.00% | ~3 |
-| he Ultra Fortress Conqueror | 6.00% | ~3 |
-| Rapidfire | 6.00% | ~3 |
-| Air Interception | 6.00% | ~3 |
-| Hell of a Fight | 6.00% | ~3 |
+| The Deep Frozen Conqueror | 5.00% | ~3 |
+| The Infinite Train Conqueror | 5.00% | ~3 |
+| The Paradox Coordinate Conqueror | 5.00% | ~3 |
+| The Zero Dimensional Capital Conqueror | 5.00% | ~3 |
+| The Inactivated Frozen Conqueror | 5.00% | ~3 |
+| Death Bringer Conqueror | 5.00% | ~3 |
+| he Ultra Fortress Conqueror | 5.00% | ~3 |
+| Rapidfire | 5.00% | ~3 |
+| Air Interception | 5.00% | ~3 |
+| Hell of a Fight | 5.00% | ~3 |
 | The Sunken City Conqueror | 4.00% | ~2 |
 | The Looping Space Conqueror | 4.00% | ~2 |
 | Break Through the Forbidden | 4.00% | ~2 |
@@ -55,7 +55,7 @@
 | Bullets Fear Me | 0.00% | ~0 |
 | Super Alloy Ranger! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54 (Ranked 383)  
+Progressed: 55 (Ranked 383)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,6 +92,7 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-07-26 | 52 | 0 |
 | 2023-07-29 | 53 | 0 |
 | 2023-08-07 | 54 | 0 |
+| 2023-09-04 | 55 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

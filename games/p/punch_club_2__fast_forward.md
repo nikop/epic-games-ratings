@@ -15,7 +15,7 @@
 | Employee of the week | 76.00% | ~239 |
 | Neurotrainer – power gainer! | 75.00% | ~236 |
 | Your own amateur gym | 73.00% | ~230 |
-| First defeat | 72.00% | ~227 |
+| First defeat | 73.00% | ~230 |
 | Run K, run! | 72.00% | ~227 |
 | Fighting is cool | 68.00% | ~214 |
 | Hello, world! | 68.00% | ~214 |
@@ -48,8 +48,8 @@
 | Mom got better | 38.00% | ~120 |
 | GYM professional | 38.00% | ~120 |
 | Poisoned fighter | 38.00% | ~120 |
+| Get out of my apartment! | 38.00% | ~120 |
 | The die is cast | 38.00% | ~120 |
-| Get out of my apartment! | 37.00% | ~117 |
 | Your own way | 36.00% | ~113 |
 | Gang wrangler | 35.00% | ~110 |
 | Seashell hunter | 35.00% | ~110 |
@@ -59,13 +59,13 @@
 | Not little hacker | 32.00% | ~101 |
 | Anyone can resist | 32.00% | ~101 |
 | Trap disarmed | 31.00% | ~98 |
+| The last bell ring | 31.00% | ~98 |
 | Careerist | 31.00% | ~98 |
 | Another world | 30.00% | ~94 |
 | The lonesome road | 30.00% | ~94 |
 | Keep nature safe | 30.00% | ~94 |
 | Family comes first | 30.00% | ~94 |
 | Key memories | 30.00% | ~94 |
-| The last bell ring | 30.00% | ~94 |
 | The heart of the Resistance | 30.00% | ~94 |
 | Silver’s past | 27.00% | ~85 |
 | Better cooking at home | 27.00% | ~85 |

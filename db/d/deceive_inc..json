@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17851,
+  "EOS_Progressed": 17853,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9683,6 +9683,11 @@
       "Time": "2023-09-04T08:03:23.1592316+00:00",
       "NumProgressed": 17851,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-04T09:03:47.7076522+00:00",
+      "NumProgressed": 17853,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -9750,7 +9755,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3213
+      "UsersEstimate": 3214
     },
     {
       "ID": "0009",
@@ -9878,7 +9883,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3927
+      "UsersEstimate": 3928
     },
     {
       "ID": "0025",
@@ -9886,7 +9891,7 @@
       "Name": "Tailor-Made",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3213
+      "UsersEstimate": 3214
     },
     {
       "ID": "0026",
@@ -9926,7 +9931,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3213
+      "UsersEstimate": 3214
     },
     {
       "ID": "0031",
@@ -9981,7 +9986,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17851,
+      "Progressed": 17853,
       "Completed": 1
     }
   ],
@@ -9989,8 +9994,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-31T05:58:36.9186567+00:00",
-  "LastChanged_Achievements": "2023-09-04T08:03:23.1592309+00:00",
+  "LastChanged_Achievements": "2023-09-04T09:03:47.7076513+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:19.1789564+00:00",
-  "LastUpdate_Ratings": "2023-09-04T08:00:05.0455864+00:00",
-  "LastUpdate_Achievements": "2023-09-04T08:03:23.159299+00:00"
+  "LastUpdate_Ratings": "2023-09-04T09:01:23.6897338+00:00",
+  "LastUpdate_Achievements": "2023-09-04T09:03:47.7077371+00:00"
 }

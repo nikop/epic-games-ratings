@@ -104,6 +104,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Subjugator | 0.80% | ~110 |
 | Circus Maximus | 0.80% | ~110 |
 | Church of the Holy Sepulchre | 0.80% | ~110 |
+| Assyrian Paganism | 0.80% | ~110 |
 | Industrial Progress | 0.80% | ~110 |
 | Military Prestige | 0.80% | ~110 |
 | Redemption | 0.80% | ~110 |
@@ -118,7 +119,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Adur Burzen-Mihr | 0.70% | ~96 |
 | Babylonia | 0.70% | ~96 |
 | Carthage | 0.70% | ~96 |
-| Assyrian Paganism | 0.70% | ~96 |
 | Enlightenment | 0.70% | ~96 |
 | Gnosticism | 0.70% | ~96 |
 | Revelation | 0.70% | ~96 |

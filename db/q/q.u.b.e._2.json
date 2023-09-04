@@ -338,9 +338,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 154,
+  "EOS_Progressed": 155,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -848,6 +848,11 @@
       "Time": "2023-09-04T07:03:47.7734058+00:00",
       "NumProgressed": 154,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-04T09:04:30.5800718+00:00",
+      "NumProgressed": 155,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -860,7 +865,7 @@
       "Name": "Descendants",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_BLUEEND",
@@ -876,7 +881,7 @@
       "Name": "Green Cube Killer",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_DLC1ALLCOLLECTABLES",
@@ -1004,7 +1009,7 @@
       "Name": "Mission Success",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_HUB2",
@@ -1012,7 +1017,7 @@
       "Name": "Path to Salvation",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_OASIS",
@@ -1052,7 +1057,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_S4",
@@ -1060,15 +1065,15 @@
       "Name": "Power Glove",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_S5",
       "SetID": "232494e",
       "Name": "Cogs in the Machine",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 55
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_SANDSTORM",
@@ -1076,30 +1081,30 @@
       "Name": "Lost in Space",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_STATUE",
       "SetID": "232494e",
       "Name": "Forgotten Memories",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 62
+      "UsersEstimate": 64
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 154,
+      "Progressed": 155,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-04T08:03:46.528032+00:00",
+  "LastChanged_Achievements": "2023-09-04T09:04:30.5800711+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:15.0755291+00:00",
-  "LastUpdate_Ratings": "2023-09-04T07:57:42.632913+00:00",
-  "LastUpdate_Achievements": "2023-09-04T08:03:46.5280513+00:00"
+  "LastUpdate_Ratings": "2023-09-04T08:58:03.0988878+00:00",
+  "LastUpdate_Achievements": "2023-09-04T09:04:30.5800963+00:00"
 }

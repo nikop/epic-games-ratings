@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -1199,9 +1199,9 @@
       "ID": "AC19",
       "SetID": "l4abp0",
       "Name": "Soledad",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 265
     },
     {
       "ID": "AC20",
@@ -1311,9 +1311,9 @@
       "ID": "AC33",
       "SetID": "l4abp0",
       "Name": "Ultima Ratio",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 306
+      "UsersEstimate": 313
     },
     {
       "ID": "AC34",
@@ -1335,9 +1335,9 @@
       "ID": "AC36",
       "SetID": "l4abp0",
       "Name": "Blessed Incense",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 156
     },
     {
       "ID": "AC37",
@@ -1424,8 +1424,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-04T03:01:40.031195+00:00",
-  "LastChanged_Achievements": "2023-09-04T08:06:40.8789033+00:00",
+  "LastChanged_Achievements": "2023-09-04T09:08:34.9724027+00:00",
   "LastUpdate_AppInfo": "2023-08-29T18:57:21.35462+00:00",
-  "LastUpdate_Ratings": "2023-09-04T07:00:53.9718012+00:00",
-  "LastUpdate_Achievements": "2023-09-04T08:06:40.8789408+00:00"
+  "LastUpdate_Ratings": "2023-09-04T08:57:18.5642474+00:00",
+  "LastUpdate_Achievements": "2023-09-04T09:08:34.9724476+00:00"
 }
