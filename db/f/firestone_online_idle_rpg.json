@@ -5510,9 +5510,9 @@
       "ID": "enchantingskill",
       "SetID": "3nl4bcg",
       "Name": "Enchanting skill",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 152
     },
     {
       "ID": "enchantingskillx5",
@@ -5983,8 +5983,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-09-02T05:57:31.8632938+00:00",
-  "LastChanged_Achievements": "2023-09-04T06:04:08.1695313+00:00",
+  "LastChanged_Achievements": "2023-09-04T07:03:45.6757772+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:31.485527+00:00",
-  "LastUpdate_Ratings": "2023-09-04T05:58:42.1331326+00:00",
-  "LastUpdate_Achievements": "2023-09-04T06:04:08.1697237+00:00"
+  "LastUpdate_Ratings": "2023-09-04T06:58:24.9734543+00:00",
+  "LastUpdate_Achievements": "2023-09-04T07:03:45.6758984+00:00"
 }

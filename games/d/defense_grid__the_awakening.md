@@ -6,17 +6,17 @@ Number of Ratings: 1,225  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~393,173 |
-| Happy Returns | 78.00% | ~378,611 |
-| Hey! That's mine! | 78.00% | ~378,611 |
-| Field Promotion | 74.00% | ~359,195 |
-| Leadhead | 71.00% | ~344,633 |
-| Eradicator | 67.00% | ~325,217 |
-| Surplus | 65.00% | ~315,509 |
-| I Spy | 64.00% | ~310,655 |
-| Burn Baby Burn | 59.00% | ~286,385 |
-| Yellow Beats Green | 55.00% | ~266,969 |
-| Salvage Rights | 53.00% | ~257,261 |
+| First Blood | 81.00% | ~393,175 |
+| Happy Returns | 78.00% | ~378,613 |
+| Hey! That's mine! | 78.00% | ~378,613 |
+| Field Promotion | 74.00% | ~359,197 |
+| Leadhead | 71.00% | ~344,635 |
+| Eradicator | 67.00% | ~325,219 |
+| Surplus | 65.00% | ~315,511 |
+| I Spy | 64.00% | ~310,657 |
+| Burn Baby Burn | 59.00% | ~286,387 |
+| Yellow Beats Green | 55.00% | ~266,971 |
+| Salvage Rights | 53.00% | ~257,263 |
 | Close Call | 50.00% | ~242,700 |
 | Pew Pew | 50.00% | ~242,700 |
 | What IS that? | 50.00% | ~242,700 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~485 |
 | You Monster | 0.10% | ~485 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 485,399 (Ranked 35)  
+Progressed: 485,401 (Ranked 35)  
 Completed: 4 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 4 (0.00%) (Ranked 271)
 | 2023-09-01 | 485,208 | 4 |
 | 2023-09-02 | 485,294 | 4 |
 | 2023-09-03 | 485,382 | 4 |
-| 2023-09-04 | 485,399 | 4 |
+| 2023-09-04 | 485,401 | 4 |
 ## Awards
 Max (Great for Beginners): 246  (Ranked 257)  
 Sum: 1,680 (Ranked 211)  

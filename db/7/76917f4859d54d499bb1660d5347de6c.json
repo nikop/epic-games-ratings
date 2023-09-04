@@ -28,8 +28,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "79ho0nk",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2023-09-04T07:03:59.778019+00:00",
+  "LastChanged_Achievements": "2023-09-04T07:03:59.7780168+00:00",
   "LastUpdate_AppInfo": "2023-08-31T07:57:04.6206811+00:00",
-  "LastUpdate_Ratings": "2023-09-04T05:58:37.385976+00:00",
-  "LastUpdate_Achievements": "2023-09-04T06:04:24.8492235+00:00"
+  "LastUpdate_Ratings": "2023-09-04T06:58:21.3277685+00:00",
+  "LastUpdate_Achievements": "2023-09-04T07:03:59.7780203+00:00"
 }

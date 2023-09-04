@@ -6,65 +6,65 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 2.00% | ~16,932 |
-| It wakes | 2.00% | ~16,932 |
-| Skillful | 2.00% | ~16,932 |
-| MU/TH/UR Dearest | 2.00% | ~16,932 |
-| No one left behind | 1.00% | ~8,466 |
-| Medic | 1.00% | ~8,466 |
-| Handyman | 1.00% | ~8,466 |
-| Nerves of steel | 1.00% | ~8,466 |
-| Not half bad | 1.00% | ~8,466 |
-| Bloody Millionaire | 1.00% | ~8,466 |
-| Apt Survivor | 1.00% | ~8,466 |
-| Survival Treasures | 1.00% | ~8,466 |
-| I | 1.00% | ~8,466 |
-| Sorted | 1.00% | ~8,466 |
-| Resurgence | 1.00% | ~8,466 |
-| Make Some Noise | 1.00% | ~8,466 |
+| Zealous | 2.00% | ~16,934 |
+| It wakes | 2.00% | ~16,934 |
+| Skillful | 2.00% | ~16,934 |
+| MU/TH/UR Dearest | 2.00% | ~16,934 |
+| No one left behind | 1.00% | ~8,467 |
+| Medic | 1.00% | ~8,467 |
+| Handyman | 1.00% | ~8,467 |
+| Nerves of steel | 1.00% | ~8,467 |
+| Not half bad | 1.00% | ~8,467 |
+| Bloody Millionaire | 1.00% | ~8,467 |
+| Apt Survivor | 1.00% | ~8,467 |
+| Survival Treasures | 1.00% | ~8,467 |
+| I | 1.00% | ~8,467 |
+| Sorted | 1.00% | ~8,467 |
+| Resurgence | 1.00% | ~8,467 |
+| Make Some Noise | 1.00% | ~8,467 |
 | The Grand Sacrifice | 0.90% | ~7,620 |
 | Backdoor Escape | 0.90% | ~7,620 |
 | Perfect Escape | 0.90% | ~7,620 |
 | Healthy Obsession | 0.90% | ~7,620 |
 | Preemptive Strike | 0.90% | ~7,620 |
-| Agonizing Escape | 0.80% | ~6,773 |
-| Perfect Killing | 0.80% | ~6,773 |
-| Engineer | 0.80% | ~6,773 |
-| Humanitarian | 0.80% | ~6,773 |
-| Terror of LV-426 | 0.80% | ~6,773 |
-| I've got your back | 0.70% | ~5,926 |
-| Risk it all | 0.70% | ~5,926 |
-| Wounded Healer | 0.70% | ~5,926 |
-| Close Shave | 0.70% | ~5,926 |
+| Agonizing Escape | 0.80% | ~6,774 |
+| Perfect Killing | 0.80% | ~6,774 |
+| Engineer | 0.80% | ~6,774 |
+| Humanitarian | 0.80% | ~6,774 |
+| Terror of LV-426 | 0.80% | ~6,774 |
+| I've got your back | 0.70% | ~5,927 |
+| Risk it all | 0.70% | ~5,927 |
+| Wounded Healer | 0.70% | ~5,927 |
+| Close Shave | 0.70% | ~5,927 |
 | Apt Killer | 0.60% | ~5,080 |
 | Vulture | 0.60% | ~5,080 |
 | II | 0.60% | ~5,080 |
 | Second Act | 0.60% | ~5,080 |
 | III | 0.50% | ~4,233 |
 | With Scars to Show | 0.50% | ~4,233 |
-| Blood on your hands | 0.40% | ~3,386 |
-| Escape Artist | 0.40% | ~3,386 |
-| Made it out alive! | 0.40% | ~3,386 |
-| Gifts for the Fog | 0.40% | ~3,386 |
-| III-50 | 0.40% | ~3,386 |
-| All Aboard | 0.40% | ~3,386 |
-| Item of Obsession | 0.40% | ~3,386 |
-| Holiday Get-Together | 0.40% | ~3,386 |
-| Near-Death Experience | 0.40% | ~3,386 |
-| Cherish your Life | 0.40% | ~3,386 |
-| Unforgettable Getaway | 0.40% | ~3,386 |
-| Cutting Out | 0.40% | ~3,386 |
-| First to the Punch | 0.40% | ~3,386 |
-| Operation: Survival | 0.40% | ~3,386 |
-| Old West Oasis | 0.40% | ~3,386 |
-| Classy Act | 0.40% | ~3,386 |
-| Every Last Drop | 0.40% | ~3,386 |
-| Raccoon City Recruit | 0.40% | ~3,386 |
-| Flight to Freedom | 0.40% | ~3,386 |
-| A Fast Death | 0.40% | ~3,386 |
-| Lifting The Fog | 0.40% | ~3,386 |
-| Chorus of Chaos | 0.40% | ~3,386 |
-| One More Step | 0.40% | ~3,386 |
+| Blood on your hands | 0.40% | ~3,387 |
+| Escape Artist | 0.40% | ~3,387 |
+| Made it out alive! | 0.40% | ~3,387 |
+| Gifts for the Fog | 0.40% | ~3,387 |
+| III-50 | 0.40% | ~3,387 |
+| All Aboard | 0.40% | ~3,387 |
+| Item of Obsession | 0.40% | ~3,387 |
+| Holiday Get-Together | 0.40% | ~3,387 |
+| Near-Death Experience | 0.40% | ~3,387 |
+| Cherish your Life | 0.40% | ~3,387 |
+| Unforgettable Getaway | 0.40% | ~3,387 |
+| Cutting Out | 0.40% | ~3,387 |
+| First to the Punch | 0.40% | ~3,387 |
+| Operation: Survival | 0.40% | ~3,387 |
+| Old West Oasis | 0.40% | ~3,387 |
+| Classy Act | 0.40% | ~3,387 |
+| Every Last Drop | 0.40% | ~3,387 |
+| Raccoon City Recruit | 0.40% | ~3,387 |
+| Flight to Freedom | 0.40% | ~3,387 |
+| A Fast Death | 0.40% | ~3,387 |
+| Lifting The Fog | 0.40% | ~3,387 |
+| Chorus of Chaos | 0.40% | ~3,387 |
+| One More Step | 0.40% | ~3,387 |
 | A bite for the Entity | 0.30% | ~2,540 |
 | Blood on your face | 0.30% | ~2,540 |
 | Hemophobia | 0.30% | ~2,540 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~847 |
 | Adept Ripley | 0.10% | ~847 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 846,619 (Ranked 15)  
+Progressed: 846,692 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -373,7 +373,7 @@ Completed: 48 (0.01%) (Ranked 257)
 | 2023-09-01 | 837,438 | 48 |
 | 2023-09-02 | 841,459 | 48 |
 | 2023-09-03 | 845,727 | 48 |
-| 2023-09-04 | 846,619 | 48 |
+| 2023-09-04 | 846,692 | 48 |
 ## Awards
 Max (Diverse Characters): 31,886  (Ranked 15)  
 Sum: 249,913 (Ranked 11)  

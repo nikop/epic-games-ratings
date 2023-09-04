@@ -5804,10 +5804,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27169,
       "NumberOfAwardsMax": 4721
+    },
+    {
+      "Time": "2023-09-04T06:58:52.5043789+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27171,
+      "NumberOfAwardsMax": 4721
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27169,
+  "NumberOfAwards": 27171,
   "NumberOfAwardsMax": 4721,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5839,7 +5845,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 3991
+      "Count": 3993
     },
     {
       "Text": "This game is Relaxing",
@@ -5860,9 +5866,9 @@
       "Count": 3740
     }
   ],
-  "EOS_Progressed": 135628,
+  "EOS_Progressed": 135631,
   "EOS_Completed": 142,
-  "EOS_NewPlayers": 363,
+  "EOS_NewPlayers": 366,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -19890,6 +19896,11 @@
       "Time": "2023-09-04T06:04:44.1175739+00:00",
       "NumProgressed": 135628,
       "NumCompleted": 142
+    },
+    {
+      "Time": "2023-09-04T07:04:15.6234055+00:00",
+      "NumProgressed": 135631,
+      "NumCompleted": 142
     }
   ],
   "TotalAchievements": 112,
@@ -19979,9 +19990,9 @@
       "ID": "bigsale01",
       "SetID": "anfd17p",
       "Name": "One Easy Payment",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1221
+      "UsersEstimate": 1356
     },
     {
       "ID": "bigsale02",
@@ -20347,9 +20358,9 @@
       "ID": "fuselegendary",
       "SetID": "anfd17p",
       "Name": "A Legend is Born",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 271
+      "UsersEstimate": 407
     },
     {
       "ID": "fuseuncommon",
@@ -20796,15 +20807,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135628,
+      "Progressed": 135631,
       "Completed": 142
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-09-03T11:58:28.6836995+00:00",
-  "LastChanged_Achievements": "2023-09-04T06:04:44.117573+00:00",
+  "LastChanged": "2023-09-04T06:58:52.5043787+00:00",
+  "LastChanged_Achievements": "2023-09-04T07:04:15.6234051+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:10.3701754+00:00",
-  "LastUpdate_Ratings": "2023-09-04T05:59:16.3726438+00:00",
-  "LastUpdate_Achievements": "2023-09-04T06:04:44.1179108+00:00"
+  "LastUpdate_Ratings": "2023-09-04T06:58:52.5043793+00:00",
+  "LastUpdate_Achievements": "2023-09-04T07:04:15.6236337+00:00"
 }

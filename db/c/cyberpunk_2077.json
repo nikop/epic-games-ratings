@@ -11405,9 +11405,9 @@
       "Count": 5771
     }
   ],
-  "EOS_Progressed": 874479,
+  "EOS_Progressed": 874480,
   "EOS_Completed": 2057,
-  "EOS_NewPlayers": 1307,
+  "EOS_NewPlayers": 1298,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -26615,6 +26615,11 @@
       "Time": "2023-09-04T06:04:32.7107554+00:00",
       "NumProgressed": 874479,
       "NumCompleted": 2057
+    },
+    {
+      "Time": "2023-09-04T07:04:06.2041109+00:00",
+      "NumProgressed": 874480,
+      "NumCompleted": 2057
     }
   ],
   "TotalAchievements": 44,
@@ -26642,7 +26647,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 148661
+      "UsersEstimate": 148662
     },
     {
       "ID": "Cyberjunkie",
@@ -26858,7 +26863,7 @@
       "Name": "The High Priestess",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 192385
+      "UsersEstimate": 192386
     },
     {
       "ID": "TheLovers",
@@ -26890,7 +26895,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 236109
+      "UsersEstimate": 236110
     },
     {
       "ID": "TheWorld",
@@ -26938,7 +26943,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 104937
+      "UsersEstimate": 104938
     },
     {
       "ID": "UnderPressure",
@@ -26970,28 +26975,28 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 192385
+      "UsersEstimate": 192386
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 874479,
+      "Progressed": 874480,
       "Completed": 2057
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 3102,
-      "Completed": 3102
+      "Progressed": 3103,
+      "Completed": 3103
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-09-03T21:57:51.3486516+00:00",
-  "LastChanged_Achievements": "2023-09-04T06:04:32.7107542+00:00",
+  "LastChanged_Achievements": "2023-09-04T07:04:06.2041099+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:30.2017845+00:00",
-  "LastUpdate_Ratings": "2023-09-04T05:58:41.0387109+00:00",
-  "LastUpdate_Achievements": "2023-09-04T06:04:32.7109893+00:00"
+  "LastUpdate_Ratings": "2023-09-04T06:58:24.097785+00:00",
+  "LastUpdate_Achievements": "2023-09-04T07:04:06.2042262+00:00"
 }

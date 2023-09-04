@@ -2,7 +2,7 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 504,
+  "Ranking_Rating": 505,
   "Ranking_Popularity": 59,
   "Ranking_PopularitySum": 95,
   "Ranking_EOS_Progress": 22,
@@ -4212,9 +4212,9 @@
       "Count": 336
     }
   ],
-  "EOS_Progressed": 673092,
+  "EOS_Progressed": 673106,
   "EOS_Completed": 2111,
-  "EOS_NewPlayers": 5660,
+  "EOS_NewPlayers": 5656,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -19467,6 +19467,11 @@
       "Time": "2023-09-04T06:05:58.0242046+00:00",
       "NumProgressed": 673092,
       "NumCompleted": 2111
+    },
+    {
+      "Time": "2023-09-04T07:05:16.8304864+00:00",
+      "NumProgressed": 673106,
+      "NumCompleted": 2111
     }
   ],
   "TotalAchievements": 45,
@@ -19486,7 +19491,7 @@
       "Name": "Making Your Mark",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3365
+      "UsersEstimate": 3366
     },
     {
       "ID": "ach_ammo_ran",
@@ -19558,7 +19563,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3365
+      "UsersEstimate": 3366
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -19718,7 +19723,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3365
+      "UsersEstimate": 3366
     },
     {
       "ID": "ach_revival_tour",
@@ -19837,7 +19842,7 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 673092,
+      "Progressed": 673106,
       "Completed": 2111
     }
   ],
@@ -19845,8 +19850,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-03T22:58:28.9273794+00:00",
-  "LastChanged_Achievements": "2023-09-04T06:05:58.0242034+00:00",
+  "LastChanged_Achievements": "2023-09-04T07:05:16.8304857+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:04.7021628+00:00",
-  "LastUpdate_Ratings": "2023-09-04T05:59:10.6533421+00:00",
-  "LastUpdate_Achievements": "2023-09-04T06:05:58.0244299+00:00"
+  "LastUpdate_Ratings": "2023-09-04T06:58:48.2156023+00:00",
+  "LastUpdate_Achievements": "2023-09-04T07:05:16.8306211+00:00"
 }

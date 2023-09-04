@@ -10,13 +10,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Basic in Bulk | 2.00% | ~2,713 |
 | Tinkle of Coins | 2.00% | ~2,713 |
 | Titan's First Steps | 2.00% | ~2,713 |
+| One Easy Payment | 1.00% | ~1,356 |
 | Disintermediation | 1.00% | ~1,356 |
 | Another Satisfied Customer | 1.00% | ~1,356 |
 | It's Free Real Estate | 1.00% | ~1,356 |
 | Budding Merchant | 1.00% | ~1,356 |
 | Capitalism Ho! | 1.00% | ~1,356 |
 | Own the Means of Production | 1.00% | ~1,356 |
-| One Easy Payment | 0.90% | ~1,221 |
 | Some Assembly Required | 0.90% | ~1,221 |
 | Pretty Penny | 0.90% | ~1,221 |
 | One-Armed Bandit | 0.80% | ~1,085 |
@@ -82,6 +82,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cranked up to 11 | 0.30% | ~407 |
 | Fit for a King | 0.30% | ~407 |
 | By Your Powers Combined... | 0.30% | ~407 |
+| A Legend is Born | 0.30% | ~407 |
 | Wealth Beyond Measure | 0.30% | ~407 |
 | Fat Cat Tag Team | 0.30% | ~407 |
 | Necromancer Queen | 0.30% | ~407 |
@@ -101,7 +102,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | King's Blade | 0.30% | ~407 |
 | The Free Encyclopedia | 0.20% | ~271 |
 | Thank You Tom Nook | 0.20% | ~271 |
-| A Legend is Born | 0.20% | ~271 |
 | Jackpot! | 0.20% | ~271 |
 | Eternal Crusade | 0.20% | ~271 |
 | All Accounted For | 0.20% | ~271 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,628 (Ranked 67)  
+Progressed: 135,631 (Ranked 67)  
 Completed: 142 (0.10%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,16 +256,16 @@ Completed: 142 (0.10%) (Ranked 218)
 | 2023-09-01 | 135,508 | 140 |
 | 2023-09-02 | 135,551 | 140 |
 | 2023-09-03 | 135,618 | 142 |
-| 2023-09-04 | 135,628 | 142 |
+| 2023-09-04 | 135,631 | 142 |
 ## Awards
 Max (Great for Beginners): 4,721  (Ranked 70)  
-Sum: 27,169 (Ranked 47)  
+Sum: 27,171 (Ranked 47)  
 Diff (max vs sum): 23  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,721 |
 | This game is Relaxing | 4,003 |
-| This game has Quickly Understood Controls | 3,991 |
+| This game has Quickly Understood Controls | 3,993 |
 | This game has Diverse Characters | 3,867 |
 | This game is Highly Recommended | 3,740 |
 | This game has Easy Combat | 3,679 |
@@ -494,3 +494,4 @@ Diff (max vs sum): 23
 | 2023-09-01 | 3.99 | - | 4,719 | 27,162 |
 | 2023-09-02 | 3.99 | - | 4,719 | 27,164 |
 | 2023-09-03 | 3.99 | - | 4,721 | 27,169 |
+| 2023-09-04 | 3.99 | - | 4,721 | 27,171 |

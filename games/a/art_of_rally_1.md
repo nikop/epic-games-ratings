@@ -12,7 +12,7 @@ Number of Ratings: 56  (23.09.2022)
 | medium attack | 60.00% | ~6,131 |
 | brail | 57.00% | ~5,824 |
 | good drivers have dead flies on the side windows | 42.00% | ~4,292 |
-| grocery-getter | 39.00% | ~3,985 |
+| grocery-getter | 40.00% | ~4,087 |
 | rwd only | 26.00% | ~2,657 |
 | food tour: pasta | 26.00% | ~2,657 |
 | to finish first, first you must finish | 21.00% | ~2,146 |
