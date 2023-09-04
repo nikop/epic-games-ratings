@@ -62,7 +62,7 @@
 | 59 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | 0 | 517 |
 | 59 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.83 | 0 | 517 |
 | 59 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.83 | 0 | 517 |
-| 59 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.83 | 241 | 258 |
+| 59 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.83 | 241 | 259 |
 | 59 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 89 | 353 |
 | 59 | [TUNIC](games/t/tunic.md) | 4.83 | 34 | 446 |
 | 66 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 0 | 517 |
@@ -72,7 +72,7 @@
 | 66 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 517 |
 | 66 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 33 | 449 |
 | 66 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 638 | 178 |
-| 66 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.82 | 240 | 259 |
+| 66 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.82 | 242 | 258 |
 | 66 | [Sifu](games/s/sifu.md) | 4.82 | 6,430 | 53 |
 | 66 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 407 | 216 |
 | 66 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 44 | 419 |
@@ -375,7 +375,7 @@
 | 369 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 0 | 517 |
 | 369 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 386 | 219 |
 | 369 | [Darkwood](games/d/darkwood.md) | 4.61 | 322 | 232 |
-| 369 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 44,038 | 12 |
+| 369 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 44,099 | 12 |
 | 369 | [GigaBash](games/g/gigabash.md) | 4.61 | 0 | 517 |
 | 369 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.61 | 38 | 429 |
 | 369 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,180 | 137 |
@@ -829,7 +829,7 @@
 | 824 | [Godlike Burger](games/g/godlike_burger.md) | 4.27 | 0 | 517 |
 | 824 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,539 | 99 |
 | 824 | [RiMS Racing](games/r/rims_racing.md) | 4.27 | 0 | 517 |
-| 830 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 18,821 | 20 |
+| 830 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 18,874 | 20 |
 | 830 | [Flatout](games/f/flatout.md) | 4.26 | 0 | 517 |
 | 830 | [The Fall](games/t/the_fall.md) | 4.26 | 0 | 517 |
 | 830 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 0 | 517 |
@@ -913,11 +913,11 @@
 | 909 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.13 | 0 | 517 |
 | 912 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 4.12 | 0 | 517 |
 | 912 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.12 | 0 | 517 |
-| 914 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.11 | 0 | 517 |
-| 915 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 88 | 356 |
-| 915 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 4.10 | 0 | 517 |
-| 915 | [Obduction](games/o/obduction.md) | 4.10 | 53 | 396 |
-| 915 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,507 | 100 |
+| 914 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 88 | 356 |
+| 914 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 4.10 | 0 | 517 |
+| 914 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.10 | 0 | 517 |
+| 914 | [Obduction](games/o/obduction.md) | 4.10 | 53 | 396 |
+| 914 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,507 | 100 |
 | 919 | [Fangs](games/f/fangs.md) | 4.09 | 0 | 517 |
 | 919 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 0 | 517 |
 | 919 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.09 | 0 | 517 |

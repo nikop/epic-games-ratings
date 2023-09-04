@@ -11,7 +11,7 @@
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 77,270 | 4.62 | 354 |
 | 10 | [VALORANT](games/v/valorant.md) | 68,100 | 4.53 | 522 |
 | 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 60,698 | 4.58 | 430 |
-| 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 44,038 | 4.61 | 369 |
+| 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 44,099 | 4.61 | 369 |
 | 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 37,018 | 4.74 | 146 |
 | 14 | [Destiny 2](games/d/destiny_2.md) | 36,907 | 4.49 | 581 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 31,936 | 4.52 | 533 |
@@ -19,7 +19,7 @@
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 22,157 | 4.77 | 110 |
 | 18 | [Dauntless](games/d/dauntless.md) | 21,671 | 4.53 | 522 |
 | 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 19,377 | 4.57 | 454 |
-| 20 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 18,821 | 4.26 | 830 |
+| 20 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 18,874 | 4.26 | 830 |
 | 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 18,038 | 4.89 | 13 |
 | 22 | [Warframe](games/w/warframe.md) | 16,836 | 4.61 | 369 |
 | 23 | [Borderlands 2](games/b/borderlands_2.md) | 15,213 | 4.76 | 117 |
@@ -99,7 +99,7 @@
 | 97 | [Path of Exile](games/p/path_of_exile.md) | 2,597 | 4.62 | 354 |
 | 98 | [Gotham Knights](games/g/gotham_knights.md) | 2,540 | 4.18 | 882 |
 | 99 | [RAGE 2](games/r/rage_2.md) | 2,539 | 4.27 | 824 |
-| 100 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,507 | 4.10 | 915 |
+| 100 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,507 | 4.10 | 914 |
 | 101 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2,471 | 4.49 | 581 |
 | 102 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,458 | 4.80 | 83 |
 | 103 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,390 | 4.78 | 101 |
@@ -257,8 +257,8 @@
 | 255 | [Hello Neighbor](games/h/hello_neighbor.md) | 249 | 4.55 | 491 |
 | 256 | [Crysis Remastered](games/c/crysis_remastered.md) | 248 | 4.41 | 691 |
 | 257 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 246 | 4.45 | 641 |
-| 258 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 241 | 4.83 | 59 |
-| 259 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 240 | 4.82 | 66 |
+| 258 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 242 | 4.82 | 66 |
+| 259 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 241 | 4.83 | 59 |
 | 260 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 235 | 4.60 | 394 |
 | 261 | [Overcooked! 2](games/o/overcooked!_2.md) | 234 | 4.73 | 163 |
 | 262 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 223 | 4.59 | 416 |
@@ -355,7 +355,7 @@
 | 353 | [Cave Story+](games/c/cave_story+.md) | 89 | 4.73 | 163 |
 | 353 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 89 | 4.67 | 259 |
 | 353 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 89 | 4.83 | 59 |
-| 356 | [Armored Warfare](games/a/armored_warfare.md) | 88 | 4.10 | 915 |
+| 356 | [Armored Warfare](games/a/armored_warfare.md) | 88 | 4.10 | 914 |
 | 356 | [RAILGRADE](games/r/railgrade.md) | 88 | 4.54 | 505 |
 | 358 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 85 | 4.60 | 394 |
 | 359 | [Solitairica](games/s/solitairica.md) | 84 | 4.49 | 581 |
@@ -396,7 +396,7 @@
 | 394 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 55 | 4.37 | 739 |
 | 395 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 54 | 4.65 | 303 |
 | 396 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 53 | 4.79 | 90 |
-| 396 | [Obduction](games/o/obduction.md) | 53 | 4.10 | 915 |
+| 396 | [Obduction](games/o/obduction.md) | 53 | 4.10 | 914 |
 | 396 | [Ranch Simulator](games/r/ranch_simulator.md) | 53 | 4.46 | 628 |
 | 396 | [Session: Skate Sim](games/s/session__skate_sim.md) | 53 | 4.68 | 241 |
 | 396 | [The Escapists 2](games/t/the_escapists_2.md) | 53 | 4.58 | 430 |

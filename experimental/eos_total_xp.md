@@ -93,6 +93,7 @@
 | [ATOM RPG Trudograd](../games/a/atom_rpg_trudograd.md) | 32 | 1,000 |
 | [Aya & Naya](../games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 5 | 1,000 |
 | [Backbeat](../games/b/backbeat.md) | 24 | 1,000 |
+| [Backrooms: Realm of Shadows](../games/b/b5067143ff63434e9c902de3ffd197f6.md) | 24 | 1,000 |
 | [Battle Ram](../games/b/battle_ram.md) | 22 | 1,000 |
 | [Beach Invasion 1944](../games/b/beach_invasion_1944.md) | 40 | 1,000 |
 | [Biped](../games/b/biped.md) | 15 | 1,000 |
