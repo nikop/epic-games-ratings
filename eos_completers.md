@@ -32,7 +32,7 @@
 | 30 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 9.09% |
 | 30 | [Sonic Origins](games/s/sonic_origins.md) | 9.09% |
 | 30 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
-| 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.97% |
+| 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.96% |
 | 34 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.89% |
 | 35 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.61% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.80% |
