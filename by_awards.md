@@ -14,7 +14,7 @@
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 44,038 | 4.61 | 369 |
 | 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 37,018 | 4.74 | 146 |
 | 14 | [Destiny 2](games/d/destiny_2.md) | 36,907 | 4.49 | 581 |
-| 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 31,886 | 4.52 | 533 |
+| 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 31,936 | 4.52 | 533 |
 | 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,846 | 4.64 | 316 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 22,157 | 4.77 | 110 |
 | 18 | [Dauntless](games/d/dauntless.md) | 21,671 | 4.53 | 522 |
@@ -91,7 +91,7 @@
 | 89 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3,366 | 3.98 | 948 |
 | 90 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,344 | 4.68 | 241 |
 | 91 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,316 | 4.76 | 117 |
-| 92 | [Hades](games/h/hades.md) | 3,245 | 4.92 | 4 |
+| 92 | [Hades](games/h/hades.md) | 3,247 | 4.92 | 4 |
 | 93 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,237 | 4.57 | 454 |
 | 94 | [Trackmania](games/t/trackmania.md) | 3,236 | 4.67 | 259 |
 | 95 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,723 | 4.51 | 549 |
@@ -111,7 +111,7 @@
 | 109 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 1,913 | 4.66 | 281 |
 | 110 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 1,885 | 4.90 | 8 |
 | 111 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 1,877 | 4.70 | 200 |
-| 112 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 1,847 | 4.71 | 190 |
+| 112 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 1,852 | 4.71 | 190 |
 | 113 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 1,798 | 4.56 | 474 |
 | 114 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 1,774 | 4.57 | 454 |
 | 115 | [The Outer Worlds](games/t/the_outer_worlds.md) | 1,773 | 4.63 | 334 |
@@ -182,7 +182,7 @@
 | 180 | [Dark Deity](games/d/dark_deity.md) | 612 | 4.16 | 892 |
 | 181 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 605 | 4.63 | 334 |
 | 182 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 601 | 4.73 | 163 |
-| 183 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 597 | 4.67 | 259 |
+| 182 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 601 | 4.67 | 259 |
 | 184 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 589 | 4.24 | 842 |
 | 185 | [MORDHAU](games/m/mordhau.md) | 582 | 4.39 | 720 |
 | 186 | [Riders Republic](games/r/riders_republic.md) | 581 | 4.75 | 135 |

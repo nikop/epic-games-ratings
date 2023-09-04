@@ -4,7 +4,7 @@
 | 1 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 0 | 517 |
 | 3 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 4.93 | 0 | 517 |
 | 4 | [Celeste](games/c/celeste.md) | 4.92 | 1,586 | 119 |
-| 4 | [Hades](games/h/hades.md) | 4.92 | 3,245 | 92 |
+| 4 | [Hades](games/h/hades.md) | 4.92 | 3,247 | 92 |
 | 6 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.91 | 0 | 517 |
 | 6 | [Rain World](games/r/rain_world.md) | 4.91 | 0 | 517 |
 | 8 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 0 | 517 |
@@ -197,7 +197,7 @@
 | 190 | [shapez](games/s/shapez.md) | 4.71 | 0 | 517 |
 | 190 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 81 | 360 |
 | 190 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.71 | 0 | 517 |
-| 190 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.71 | 1,847 | 112 |
+| 190 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.71 | 1,852 | 112 |
 | 190 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.71 | 0 | 517 |
 | 200 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,569 | 72 |
 | 200 | [Black Book](games/b/black_book.md) | 4.70 | 31 | 460 |
@@ -273,7 +273,7 @@
 | 259 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.67 | 0 | 517 |
 | 259 | [Suzerain](games/s/suzerain.md) | 4.67 | 0 | 517 |
 | 259 | [Tavern Master](games/t/tavern_master.md) | 4.67 | 0 | 517 |
-| 259 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 597 | 183 |
+| 259 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 601 | 182 |
 | 259 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.67 | 0 | 517 |
 | 259 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 0 | 517 |
 | 259 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 89 | 353 |
@@ -533,7 +533,7 @@
 | 522 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 517 |
 | 522 | [VALORANT](games/v/valorant.md) | 4.53 | 68,100 | 10 |
 | 533 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 42 | 423 |
-| 533 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 31,886 | 15 |
+| 533 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 31,936 | 15 |
 | 533 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 21 | 504 |
 | 533 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.52 | 34 | 446 |
 | 533 | [Fall Guys](games/f/fall_guys.md) | 4.52 | 147,485 | 7 |
