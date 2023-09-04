@@ -9,7 +9,7 @@
 | 7 | [Volley Pals](games/v/volley_pals.md) | 25.69% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 25.37% |
 | 9 | [Overloop](games/o/overloop.md) | 25.00% |
-| 10 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.50% |
+| 10 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.34% |
 | 11 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 12 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 12 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
@@ -138,10 +138,10 @@
 | 136 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.66% |
 | 137 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.65% |
 | 138 | [Haven](games/h/haven.md) | 0.63% |
-| 139 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.62% |
-| 140 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.61% |
-| 140 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.61% |
-| 140 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.61% |
+| 139 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.61% |
+| 139 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.61% |
+| 139 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.61% |
+| 139 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.61% |
 | 143 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.60% |
 | 144 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.59% |
 | 145 | [Potion Permit](games/p/potion_permit.md) | 0.58% |
@@ -189,9 +189,9 @@
 | 186 | [Filament](games/f/filament.md) | 0.25% |
 | 188 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.24% |
 | 188 | [Despot's Game](games/d/despot's_game.md) | 0.24% |
-| 188 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.24% |
-| 191 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.23% |
-| 191 | [Blanc](games/b/blanc.md) | 0.23% |
+| 190 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.23% |
+| 190 | [Blanc](games/b/blanc.md) | 0.23% |
+| 190 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.23% |
 | 193 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
 | 194 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.21% |
 | 194 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
