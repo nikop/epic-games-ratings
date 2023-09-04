@@ -32,13 +32,13 @@
 | 30 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 9.09% |
 | 30 | [Sonic Origins](games/s/sonic_origins.md) | 9.09% |
 | 30 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
-| 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.96% |
+| 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.95% |
 | 34 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.89% |
 | 35 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.61% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.80% |
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
 | 37 | [Time Loader](games/t/time_loader.md) | 7.50% |
-| 39 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.19% |
+| 39 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.18% |
 | 40 | [Scorn](games/s/scorn.md) | 7.03% |
 | 41 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.94% |
 | 42 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.72% |
@@ -82,8 +82,8 @@
 | 80 | [The Bunker](games/t/the_bunker.md) | 2.59% |
 | 81 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.57% |
 | 82 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.56% |
-| 83 | [Lamentum](games/l/lamentum.md) | 2.53% |
 | 83 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.53% |
+| 84 | [Lamentum](games/l/lamentum.md) | 2.52% |
 | 85 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.50% |
 | 85 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 87 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.44% |
