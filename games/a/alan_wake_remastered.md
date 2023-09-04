@@ -16,8 +16,8 @@ Number of Ratings: 524  (23.09.2022)
 | Paging Mr. Wake | 17.00% | ~10,586 |
 | Back! Back, I Say! | 16.00% | ~9,963 |
 | Finders Keepers | 16.00% | ~9,963 |
-| Sound and Fury | 15.00% | ~9,340 |
-| Damn Good Cup of Coffee | 15.00% | ~9,340 |
+| Sound and Fury | 15.00% | ~9,341 |
+| Damn Good Cup of Coffee | 15.00% | ~9,341 |
 | Wheels Within Wheels | 14.00% | ~8,718 |
 | They're Heeeeeere! | 14.00% | ~8,718 |
 | Missed by a Mile | 14.00% | ~8,718 |
@@ -25,8 +25,8 @@ Number of Ratings: 524  (23.09.2022)
 | The Six-Gun Scribe | 13.00% | ~8,095 |
 | Collateral Carnage | 13.00% | ~8,095 |
 | Come One, Come All | 13.00% | ~8,095 |
-| Heavy Metal | 12.00% | ~7,472 |
-| Perchance to Dream | 12.00% | ~7,472 |
+| Heavy Metal | 12.00% | ~7,473 |
+| Perchance to Dream | 12.00% | ~7,473 |
 | Gatekeeper | 11.00% | ~6,850 |
 | It's Not Just a Typewriter Brand | 11.00% | ~6,850 |
 | Thunder and Lightning | 11.00% | ~6,850 |
@@ -41,8 +41,8 @@ Number of Ratings: 524  (23.09.2022)
 | Drink 'Em Both Up | 6.00% | ~3,736 |
 | Hardboiled Writer | 6.00% | ~3,736 |
 | A Friend Indeed | 6.00% | ~1,544 |
+| Ding! | 6.00% | ~1,544 |
 | Children of the Elder God | 5.00% | ~3,114 |
-| Ding! | 5.00% | ~1,287 |
 | Boob Tube | 4.00% | ~2,491 |
 | If It Flies, It Burns | 4.00% | ~2,491 |
 | KBF-FM | 4.00% | ~2,491 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~62 |
 | No Punctuation | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,270 (Ranked 87)  
+Progressed: 62,271 (Ranked 87)  
 Completed: 65 (0.10%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,6 +211,7 @@ Completed: 65 (0.10%) (Ranked 218)
 | 2023-09-01 | 62,124 | 65 |
 | 2023-09-02 | 62,195 | 65 |
 | 2023-09-03 | 62,270 | 65 |
+| 2023-09-04 | 62,271 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -2,7 +2,7 @@
   "ID": "2e09c1d223094f3798f63873548c9454",
   "Name": "Tchia",
   "ProductSlug": "tchia",
-  "Ranking_Rating": 162,
+  "Ranking_Rating": 163,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 136,
@@ -218,7 +218,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7431,
+  "EOS_Progressed": 7432,
   "EOS_Completed": 32,
   "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
@@ -6723,6 +6723,11 @@
       "Time": "2023-09-03T19:04:17.4344994+00:00",
       "NumProgressed": 7431,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-09-04T00:04:17.0614565+00:00",
+      "NumProgressed": 7432,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 21,
@@ -6758,7 +6763,7 @@
       "Name": "Body and Soul",
       "Percentage": 11,
       "XP": 80,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -6806,7 +6811,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -6901,7 +6906,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7431,
+      "Progressed": 7432,
       "Completed": 32
     }
   ],
@@ -6909,8 +6914,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-08-26T01:39:24.8497831+00:00",
-  "LastChanged_Achievements": "2023-09-03T23:03:32.8675883+00:00",
+  "LastChanged_Achievements": "2023-09-04T00:04:17.0614559+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:14.1887687+00:00",
-  "LastUpdate_Ratings": "2023-09-03T22:57:52.1244529+00:00",
-  "LastUpdate_Achievements": "2023-09-03T23:03:32.8676299+00:00"
+  "LastUpdate_Ratings": "2023-09-03T23:58:17.8624711+00:00",
+  "LastUpdate_Achievements": "2023-09-04T00:04:17.0615172+00:00"
 }

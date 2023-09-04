@@ -6,24 +6,24 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~21,989 |
-| Thorough | 10.00% | ~19,990 |
-| A thief's beginning | 9.00% | ~17,991 |
-| Disguised | 8.00% | ~15,992 |
-| Rescue Takuma | 8.00% | ~15,992 |
-| Rollin' | 8.00% | ~15,992 |
-| Tanuki Time | 8.00% | ~15,992 |
-| Ice Ice Yuki | 7.00% | ~13,993 |
-| Jonin | 7.00% | ~13,993 |
-| Stoned Ox | 7.00% | ~13,993 |
-| Yabu | 7.00% | ~13,993 |
-| Chunin | 6.00% | ~11,994 |
-| Flying Rocks | 6.00% | ~11,994 |
-| Happy Planning | 6.00% | ~11,994 |
-| Mugen Unchained | 6.00% | ~11,994 |
-| Okkoto | 5.00% | ~9,995 |
-| Too Early | 5.00% | ~9,995 |
-| Warzone | 5.00% | ~9,995 |
+| Genin | 11.00% | ~21,990 |
+| Thorough | 10.00% | ~19,991 |
+| A thief's beginning | 9.00% | ~17,992 |
+| Disguised | 8.00% | ~15,993 |
+| Rescue Takuma | 8.00% | ~15,993 |
+| Rollin' | 8.00% | ~15,993 |
+| Tanuki Time | 8.00% | ~15,993 |
+| Ice Ice Yuki | 7.00% | ~13,994 |
+| Jonin | 7.00% | ~13,994 |
+| Stoned Ox | 7.00% | ~13,994 |
+| Yabu | 7.00% | ~13,994 |
+| Chunin | 6.00% | ~11,995 |
+| Flying Rocks | 6.00% | ~11,995 |
+| Happy Planning | 6.00% | ~11,995 |
+| Mugen Unchained | 6.00% | ~11,995 |
+| Okkoto | 5.00% | ~9,996 |
+| Too Early | 5.00% | ~9,996 |
+| Warzone | 5.00% | ~9,996 |
 | Gear up | 4.00% | ~7,996 |
 | Happy little accidents | 4.00% | ~7,996 |
 | Prisoners | 4.00% | ~7,996 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~200 |
 | Release the Kraken | 0.10% | ~200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 199,900 (Ranked 61)  
+Progressed: 199,910 (Ranked 61)  
 Completed: 76 (0.04%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,6 +188,7 @@ Completed: 76 (0.04%) (Ranked 240)
 | 2023-09-01 | 199,350 | 75 |
 | 2023-09-02 | 199,645 | 76 |
 | 2023-09-03 | 199,900 | 76 |
+| 2023-09-04 | 199,910 | 76 |
 ## Awards
 Max (Great for Beginners): 562  (Ranked 190)  
 Sum: 4,741 (Ranked 135)  

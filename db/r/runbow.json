@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 248915,
+  "EOS_Progressed": 248920,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 289,
+  "EOS_NewPlayers": 293,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13119,6 +13119,11 @@
       "Time": "2023-09-03T23:06:35.7602473+00:00",
       "NumProgressed": 248915,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-04T00:07:54.2167596+00:00",
+      "NumProgressed": 248920,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 46,
@@ -13154,7 +13159,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52272
+      "UsersEstimate": 52273
     },
     {
       "ID": "blotbuster",
@@ -13202,7 +13207,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37337
+      "UsersEstimate": 37338
     },
     {
       "ID": "clearCut",
@@ -13226,7 +13231,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 44805
+      "UsersEstimate": 44806
     },
     {
       "ID": "curator",
@@ -13234,7 +13239,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 49783
+      "UsersEstimate": 49784
     },
     {
       "ID": "didYourTime",
@@ -13282,7 +13287,7 @@
       "Name": "He Who Laughs Last",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7467
+      "UsersEstimate": 7468
     },
     {
       "ID": "hereWeGo",
@@ -13306,7 +13311,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 131925
+      "UsersEstimate": 131928
     },
     {
       "ID": "indegestible",
@@ -13330,7 +13335,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 64718
+      "UsersEstimate": 64719
     },
     {
       "ID": "justABit",
@@ -13346,7 +13351,7 @@
       "Name": "Lazy Laser",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 19913
+      "UsersEstimate": 19914
     },
     {
       "ID": "lockupLockdown",
@@ -13362,7 +13367,7 @@
       "Name": "Muddy Waters",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37337
+      "UsersEstimate": 37338
     },
     {
       "ID": "myFirstRunbow",
@@ -13370,7 +13375,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 124458
+      "UsersEstimate": 124460
     },
     {
       "ID": "notScared",
@@ -13418,7 +13423,7 @@
       "Name": "Shoo, Cat!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7467
+      "UsersEstimate": 7468
     },
     {
       "ID": "talentScout",
@@ -13434,7 +13439,7 @@
       "Name": "The Stunner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 54761
+      "UsersEstimate": 54762
     },
     {
       "ID": "thunderstruck",
@@ -13450,7 +13455,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32359
+      "UsersEstimate": 32360
     },
     {
       "ID": "treeMedalist",
@@ -13490,14 +13495,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 39826
+      "UsersEstimate": 39827
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 248915,
+      "Progressed": 248920,
       "Completed": 4
     }
   ],
@@ -13505,8 +13510,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-09-03T23:06:35.7602469+00:00",
+  "LastChanged_Achievements": "2023-09-04T00:07:54.2167589+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:06.8400765+00:00",
-  "LastUpdate_Ratings": "2023-09-03T22:59:13.6562053+00:00",
-  "LastUpdate_Achievements": "2023-09-03T23:06:35.7603374+00:00"
+  "LastUpdate_Ratings": "2023-09-03T23:59:52.9413601+00:00",
+  "LastUpdate_Achievements": "2023-09-04T00:07:54.2169793+00:00"
 }

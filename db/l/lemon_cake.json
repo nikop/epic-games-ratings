@@ -201,9 +201,9 @@
       "ID": "LC-01",
       "SetID": "ap2ljl4",
       "Name": "Proving Your Skills",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 25,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "LC-02",
@@ -346,8 +346,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.6780256+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.6062065+00:00",
   "LastChanged": "2023-03-31T05:58:18.6780257+00:00",
-  "LastChanged_Achievements": "2023-09-03T23:03:51.3475542+00:00",
+  "LastChanged_Achievements": "2023-09-04T00:04:39.2712472+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:44.5515749+00:00",
-  "LastUpdate_Ratings": "2023-09-03T22:59:54.1440245+00:00",
-  "LastUpdate_Achievements": "2023-09-03T23:03:51.3475649+00:00"
+  "LastUpdate_Ratings": "2023-09-04T00:00:41.3418918+00:00",
+  "LastUpdate_Achievements": "2023-09-04T00:04:39.2712662+00:00"
 }

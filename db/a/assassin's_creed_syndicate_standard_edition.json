@@ -4,7 +4,7 @@
   "ProductSlug": "assassins-creed-syndicate",
   "Ranking_Rating": 549,
   "Ranking_Popularity": 338,
-  "Ranking_PopularitySum": 266,
+  "Ranking_PopularitySum": 270,
   "Ranking_EOS_Progress": 572,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 352,
@@ -2043,10 +2043,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 784,
       "NumberOfAwardsMax": 99
+    },
+    {
+      "Time": "2023-09-03T23:59:51.4684852+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 734,
+      "NumberOfAwardsMax": 99
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 784,
+  "NumberOfAwards": 734,
   "NumberOfAwardsMax": 99,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2134,8 +2140,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:50.1720529+00:00",
-  "LastChanged": "2023-09-03T14:59:33.2186669+00:00",
+  "LastChanged": "2023-09-03T23:59:51.468485+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:00.447352+00:00",
-  "LastUpdate_Ratings": "2023-09-03T22:59:11.9242209+00:00",
-  "LastUpdate_Achievements": "2023-09-03T23:04:17.047526+00:00"
+  "LastUpdate_Ratings": "2023-09-03T23:59:51.4684857+00:00",
+  "LastUpdate_Achievements": "2023-09-04T00:05:09.5951459+00:00"
 }

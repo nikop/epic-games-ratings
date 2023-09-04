@@ -40,12 +40,12 @@
 | Brilliant: Arcania | 50.00% | ~84 |
 | Deposition | 49.00% | ~82 |
 | Starry: Tanglewood | 46.00% | ~77 |
+| Sing, My Angel | 43.00% | ~72 |
 | Starry: Arcania | 43.00% | ~72 |
-| Sing, My Angel | 42.00% | ~70 |
 | The Coreland | 40.00% | ~67 |
 | Feed the Fishes | 37.00% | ~62 |
 | Starry: The Coreland | 37.00% | ~62 |
-| Brilliant: Wasteland | 33.00% | ~55 |
+| Brilliant: Wasteland | 34.00% | ~57 |
 | Father of Nation | 33.00% | ~55 |
 | Dwarven Countdown | 30.00% | ~50 |
 | Starry: Wasteland | 28.00% | ~47 |
@@ -55,8 +55,8 @@
 | Brilliant: The Deep | 23.00% | ~38 |
 | Starry: Free Coast | 23.00% | ~38 |
 | Starry: The Deep | 22.00% | ~37 |
+| Loveless | 18.00% | ~30 |
 | Hostile Waters | 17.00% | ~28 |
-| Loveless | 17.00% | ~28 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 167 (Ranked 313)  
 Completed: 24 (14.37%) (Ranked 18)  

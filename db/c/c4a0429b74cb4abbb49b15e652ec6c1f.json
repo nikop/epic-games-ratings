@@ -4,7 +4,7 @@
   "ProductSlug": "deverse-world-3ccb84",
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-07-12T02:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 322,
+  "EOS_Progressed": 323,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1336,6 +1336,11 @@
       "Time": "2023-09-03T17:04:24.5081316+00:00",
       "NumProgressed": 322,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-04T00:04:17.4636796+00:00",
+      "NumProgressed": 323,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-19T08:04:21.5092334+00:00",
@@ -1404,7 +1409,7 @@
       "Name": "Pianist",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "platformer_player",
@@ -1460,7 +1465,7 @@
       "Name": "Tireless Explorer",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "treant_destroyer",
@@ -1499,14 +1504,14 @@
     {
       "ID": "5fi1i42",
       "IsBase": true,
-      "Progressed": 322,
+      "Progressed": 323,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-12T15:57:01.7070767+00:00",
   "FirstSeenAchievements": "2023-07-18T16:05:27.8243884+00:00",
-  "LastChanged_Achievements": "2023-09-03T23:03:33.1769191+00:00",
+  "LastChanged_Achievements": "2023-09-04T00:04:17.4636791+00:00",
   "LastUpdate_AppInfo": "2023-08-31T08:57:15.1922582+00:00",
-  "LastUpdate_Ratings": "2023-09-03T22:57:14.9625873+00:00",
-  "LastUpdate_Achievements": "2023-09-03T23:03:33.1769373+00:00"
+  "LastUpdate_Ratings": "2023-09-03T23:57:33.8684646+00:00",
+  "LastUpdate_Achievements": "2023-09-04T00:04:17.4637023+00:00"
 }

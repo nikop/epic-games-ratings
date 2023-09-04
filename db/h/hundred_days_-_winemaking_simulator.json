@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 224,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 54,
+  "Ranking_EOS_NewPlayers": 53,
   "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
@@ -958,11 +958,11 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 1127,
+  "EOS_Progressed": 1137,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1122,
+  "EOS_NewPlayers": 1132,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 0.27,
+  "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
     {
       "Time": "2023-08-30T11:07:13.7661076+00:00",
@@ -1508,6 +1508,11 @@
       "Time": "2023-09-03T23:06:42.0090411+00:00",
       "NumProgressed": 1127,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-04T00:08:01.6163144+00:00",
+      "NumProgressed": 1137,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -1520,7 +1525,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "a_10",
@@ -1534,9 +1539,9 @@
       "ID": "a_11",
       "SetID": "daiie3o",
       "Name": "A lot of space",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 23
+      "UsersEstimate": 11
     },
     {
       "ID": "a_12",
@@ -1566,9 +1571,9 @@
       "ID": "a_18",
       "SetID": "daiie3o",
       "Name": "Bye Bye",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 361
+      "UsersEstimate": 375
     },
     {
       "ID": "a_19",
@@ -1590,9 +1595,9 @@
       "ID": "a_20",
       "SetID": "daiie3o",
       "Name": "The Assistant",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 45
     },
     {
       "ID": "a_21",
@@ -1600,15 +1605,15 @@
       "Name": "The Blue Marl",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "a_22",
       "SetID": "daiie3o",
       "Name": "A long journey",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 56
+      "UsersEstimate": 45
     },
     {
       "ID": "a_23",
@@ -1616,7 +1621,7 @@
       "Name": "Quack",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "a_25",
@@ -1767,7 +1772,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 1127,
+      "Progressed": 1137,
       "Completed": 3
     }
   ],
@@ -1775,8 +1780,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-02T11:57:49.7912394+00:00",
-  "LastChanged_Achievements": "2023-09-03T23:06:42.0090406+00:00",
+  "LastChanged_Achievements": "2023-09-04T00:08:01.6163137+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:09.2681959+00:00",
-  "LastUpdate_Ratings": "2023-09-03T22:57:48.4326756+00:00",
-  "LastUpdate_Achievements": "2023-09-03T23:06:42.0090613+00:00"
+  "LastUpdate_Ratings": "2023-09-03T23:58:13.1980348+00:00",
+  "LastUpdate_Achievements": "2023-09-04T00:08:01.6163582+00:00"
 }

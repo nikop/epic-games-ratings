@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1214,
+  "EOS_Progressed": 1215,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
@@ -4291,6 +4291,11 @@
       "Time": "2023-09-03T21:07:06.5921328+00:00",
       "NumProgressed": 1214,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-04T00:06:39.0383963+00:00",
+      "NumProgressed": 1215,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4430,7 +4435,7 @@
       "Name": "Lieutenant",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -4494,7 +4499,7 @@
       "Name": "Getting Deployment",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -4526,7 +4531,7 @@
       "Name": "On Target",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -4566,7 +4571,7 @@
       "Name": "Advanced Interceptors",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "objective_research_unlock_ground_vehicle_tier_4",
@@ -4590,7 +4595,7 @@
       "Name": "Jet Troops",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "objective_upgrade_dropships_2",
@@ -4605,14 +4610,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1214,
+      "Progressed": 1215,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-03T23:05:32.8745545+00:00",
+  "LastChanged_Achievements": "2023-09-04T00:06:39.0383956+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:58:09.0134138+00:00",
-  "LastUpdate_Ratings": "2023-09-03T23:00:24.0732681+00:00",
-  "LastUpdate_Achievements": "2023-09-03T23:05:32.8745973+00:00"
+  "LastUpdate_Ratings": "2023-09-04T00:01:14.0516955+00:00",
+  "LastUpdate_Achievements": "2023-09-04T00:06:39.0384936+00:00"
 }

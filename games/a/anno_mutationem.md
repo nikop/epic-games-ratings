@@ -14,7 +14,7 @@ Rating: 4.57 (Ranked 454)
 | That's gotta hurt | 36.00% | ~240 |
 | I think it's broke | 26.00% | ~173 |
 | The Ann Flores Combo Experience | 26.00% | ~173 |
-| Club Star | 24.00% | ~160 |
+| Club Star | 25.00% | ~166 |
 | The Warlord | 21.00% | ~140 |
 | Fire in the hole! | 20.00% | ~133 |
 | Omnipotence | 20.00% | ~133 |

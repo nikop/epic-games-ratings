@@ -517,10 +517,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 2131,
       "NumberOfAwardsMax": 282
+    },
+    {
+      "Time": "2023-09-03T23:58:58.2044392+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 2132,
+      "NumberOfAwardsMax": 282
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2131,
+  "NumberOfAwards": 2132,
   "NumberOfAwardsMax": 282,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -540,7 +546,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 271
+      "Count": 272
     },
     {
       "Text": "This game is Highly Recommended",
@@ -585,9 +591,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 221884,
+  "EOS_Progressed": 221886,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 573,
+  "EOS_NewPlayers": 572,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15425,6 +15431,11 @@
       "Time": "2023-09-03T23:05:14.4182856+00:00",
       "NumProgressed": 221884,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-04T00:06:17.1826222+00:00",
+      "NumProgressed": 221886,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -15707,16 +15718,16 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 221884,
+      "Progressed": 221886,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-08-11T20:31:05.9094892+00:00",
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
-  "LastChanged": "2023-09-03T21:58:12.1302928+00:00",
-  "LastChanged_Achievements": "2023-09-03T23:05:14.4182851+00:00",
+  "LastChanged": "2023-09-03T23:58:58.2044389+00:00",
+  "LastChanged_Achievements": "2023-09-04T00:06:17.1826215+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:01.6485466+00:00",
-  "LastUpdate_Ratings": "2023-09-03T22:58:25.7563022+00:00",
-  "LastUpdate_Achievements": "2023-09-03T23:05:14.4183874+00:00"
+  "LastUpdate_Ratings": "2023-09-03T23:58:58.2044397+00:00",
+  "LastUpdate_Achievements": "2023-09-04T00:06:17.1828367+00:00"
 }
