@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -3705,9 +3705,9 @@
       "ID": "STB_MISSION1_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Dark Forest",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 100,
-      "UsersEstimate": 1953
+      "UsersEstimate": 1979
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -3922,8 +3922,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-08-06T02:15:52.3932671+00:00",
-  "LastChanged_Achievements": "2023-09-04T00:03:39.3316825+00:00",
+  "LastChanged_Achievements": "2023-09-04T01:45:40.6142944+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:56:57.5191428+00:00",
-  "LastUpdate_Ratings": "2023-09-03T23:58:00.3434921+00:00",
-  "LastUpdate_Achievements": "2023-09-04T00:03:39.3318089+00:00"
+  "LastUpdate_Ratings": "2023-09-04T01:39:36.6786393+00:00",
+  "LastUpdate_Achievements": "2023-09-04T01:45:40.6143671+00:00"
 }

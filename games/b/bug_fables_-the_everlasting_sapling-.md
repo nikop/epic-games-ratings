@@ -5,23 +5,23 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Chapter 1 Complete | 71.00% | ~64 |
+| Vicious Spider | 44.00% | ~40 |
 | Chapter 2 Complete | 44.00% | ~40 |
-| Vicious Spider | 43.00% | ~39 |
 | Chapter 3 Complete | 34.00% | ~31 |
-| The Guardian | 29.00% | ~26 |
+| The Guardian | 30.00% | ~27 |
 | Chapter 4 Complete | 27.00% | ~24 |
-| Heavy Duty | 22.00% | ~20 |
+| Heavy Duty | 23.00% | ~21 |
 | Chapter 5 Complete | 21.00% | ~19 |
 | Chapter 6 Complete | 20.00% | ~18 |
 | The Truth | 20.00% | ~18 |
+| Always Watchful | 19.00% | ~17 |
 | Chapter 7 Complete | 19.00% | ~17 |
 | Plant Enchanter | 19.00% | ~17 |
 | Reconciliation | 19.00% | ~17 |
-| Always Watchful | 18.00% | ~16 |
-| Bounty Hunter | 14.00% | ~13 |
-| The Terror | 14.00% | ~13 |
+| Bounty Hunter | 16.00% | ~14 |
+| The Terror | 16.00% | ~14 |
+| All Geared Up | 13.00% | ~12 |
 | Battle Ready | 13.00% | ~12 |
-| All Geared Up | 12.00% | ~11 |
 | The End | 12.00% | ~11 |
 | Good Deed | 12.00% | ~11 |
 | Music Collector | 11.00% | ~10 |

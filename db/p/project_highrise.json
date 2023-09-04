@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 352,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -1553,9 +1553,9 @@
       "ID": "ach_util_power",
       "SetID": "b8gh1fi",
       "Name": "Get Electrified",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 70
     },
     {
       "ID": "ach_util_water",
@@ -1594,8 +1594,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-09-04T00:03:27.9546763+00:00",
+  "LastChanged_Achievements": "2023-09-04T01:45:29.444107+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:31.0816853+00:00",
-  "LastUpdate_Ratings": "2023-09-03T23:58:31.4698201+00:00",
-  "LastUpdate_Achievements": "2023-09-04T00:03:27.9548741+00:00"
+  "LastUpdate_Ratings": "2023-09-04T01:40:10.6075069+00:00",
+  "LastUpdate_Achievements": "2023-09-04T01:45:29.4442681+00:00"
 }

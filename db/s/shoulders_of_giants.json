@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 252,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-01-26T06:00:00+00:00",
     "PcReleaseDate": "2023-01-26T06:00:00+00:00",
@@ -72,9 +72,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2227,
+  "EOS_Progressed": 2228,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -1562,6 +1562,11 @@
       "Time": "2023-09-03T21:07:33.1131356+00:00",
       "NumProgressed": 2227,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-04T01:48:52.2082333+00:00",
+      "NumProgressed": 2228,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 19,
@@ -1589,7 +1594,7 @@
       "Name": "The First Law of Thermodynamics",
       "Percentage": 27,
       "XP": 150,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "complete_act_three",
@@ -1597,7 +1602,7 @@
       "Name": "The Third Law of Thermodynamics",
       "Percentage": 9,
       "XP": 150,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "complete_act_two",
@@ -1613,7 +1618,7 @@
       "Name": "On the Shoulders of Giants",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 1960
+      "UsersEstimate": 1961
     },
     {
       "ID": "deal_damage",
@@ -1629,7 +1634,7 @@
       "Name": "A Ribbiting Performance",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 1715
+      "UsersEstimate": 1716
     },
     {
       "ID": "defeat_tree_dummy",
@@ -1645,7 +1650,7 @@
       "Name": "At Least We Have Each Other...",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 1670
+      "UsersEstimate": 1671
     },
     {
       "ID": "piercing_beam",
@@ -1653,7 +1658,7 @@
       "Name": "Say \u0022Cheese!\u0022",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "reach_heat",
@@ -1677,7 +1682,7 @@
       "Name": "Frogbot",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1603
+      "UsersEstimate": 1604
     },
     {
       "ID": "save_planet_bestfriend",
@@ -1701,7 +1706,7 @@
       "Name": "Stop Hitting Yourself!",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "stun_enemies",
@@ -1709,7 +1714,7 @@
       "Name": "Fun in the Stun",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 1180
+      "UsersEstimate": 1181
     },
     {
       "ID": "trash_truck",
@@ -1717,14 +1722,14 @@
       "Name": "Taking Out the Trash",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     }
   ],
   "AchievementSets": [
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 2227,
+      "Progressed": 2228,
       "Completed": 9
     }
   ],
@@ -1732,8 +1737,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-06-30T03:59:49.3890269+00:00",
-  "LastChanged_Achievements": "2023-09-04T00:07:00.7694028+00:00",
+  "LastChanged_Achievements": "2023-09-04T01:48:52.2082322+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:53.7289225+00:00",
-  "LastUpdate_Ratings": "2023-09-04T00:00:58.837696+00:00",
-  "LastUpdate_Achievements": "2023-09-04T00:07:00.769428+00:00"
+  "LastUpdate_Ratings": "2023-09-04T01:42:45.7438515+00:00",
+  "LastUpdate_Achievements": "2023-09-04T01:48:52.2082733+00:00"
 }

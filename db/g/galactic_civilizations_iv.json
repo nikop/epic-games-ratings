@@ -2,13 +2,13 @@
   "ID": "fbab831cc1c94385b4e311f47f6fdc4f",
   "Name": "Galactic Civilizations IV",
   "ProductSlug": "galactic-civilizations-iv",
-  "Ranking_Rating": 882,
+  "Ranking_Rating": 883,
   "Ranking_Popularity": 348,
   "Ranking_PopularitySum": 282,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -876,9 +876,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 6548,
+  "EOS_Progressed": 6550,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5776,6 +5776,11 @@
       "Time": "2023-09-03T20:07:48.6634655+00:00",
       "NumProgressed": 6548,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-04T01:49:44.7695186+00:00",
+      "NumProgressed": 6550,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -5827,7 +5832,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 4125
+      "UsersEstimate": 4126
     },
     {
       "ID": "Control_All_Relics",
@@ -5851,7 +5856,7 @@
       "Name": "Xenocide",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2095
+      "UsersEstimate": 2096
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -5867,7 +5872,7 @@
       "Name": "Design a Civilization",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 2095
+      "UsersEstimate": 2096
     },
     {
       "ID": "First_Major_Ally",
@@ -5891,7 +5896,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 5173
+      "UsersEstimate": 5174
     },
     {
       "ID": "First_Race_Met",
@@ -5899,7 +5904,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4780
+      "UsersEstimate": 4782
     },
     {
       "ID": "First_Ship_Designed",
@@ -5907,7 +5912,7 @@
       "Name": "Design a Ship",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1833
+      "UsersEstimate": 1834
     },
     {
       "ID": "First_Stream_Travel",
@@ -5923,7 +5928,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5107
+      "UsersEstimate": 5109
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -5979,7 +5984,7 @@
       "Name": "Trading Partner",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "Level_5_Ship",
@@ -6003,7 +6008,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2226
+      "UsersEstimate": 2227
     },
     {
       "ID": "Play_1000_Hours",
@@ -6091,7 +6096,7 @@
       "Name": "Commodity Seller",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1637
+      "UsersEstimate": 1638
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -6107,7 +6112,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 4060
+      "UsersEstimate": 4061
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -6131,7 +6136,7 @@
       "Name": "War with the Unknown",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "Win_As_Altarian",
@@ -6147,7 +6152,7 @@
       "Name": "Win as Arceans",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "Win_As_Baratak",
@@ -6155,7 +6160,7 @@
       "Name": "Win as the Baratak",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "Win_As_Drath",
@@ -6179,7 +6184,7 @@
       "Name": "Win as Festron",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "Win_As_Iconian",
@@ -6243,7 +6248,7 @@
       "Name": "Win as Terrans",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "Win_As_Torian",
@@ -6275,7 +6280,7 @@
       "Name": "Win a Battle",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 4387
+      "UsersEstimate": 4388
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -6347,7 +6352,7 @@
       "Name": "Win Quickly",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "Win_Research",
@@ -6362,15 +6367,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6548,
+      "Progressed": 6550,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-08-31T07:00:05.3512746+00:00",
-  "LastChanged_Achievements": "2023-09-04T00:07:53.8909783+00:00",
+  "LastChanged_Achievements": "2023-09-04T01:49:44.7695178+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:32.74218+00:00",
-  "LastUpdate_Ratings": "2023-09-03T23:58:15.0842758+00:00",
-  "LastUpdate_Achievements": "2023-09-04T00:07:53.8911748+00:00"
+  "LastUpdate_Ratings": "2023-09-04T01:39:52.9900965+00:00",
+  "LastUpdate_Achievements": "2023-09-04T01:49:44.7696468+00:00"
 }

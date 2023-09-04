@@ -27,9 +27,9 @@
 | Emporium Empire | 22.00% | ~73 |
 | Lux Living | 21.00% | ~70 |
 | Leveled Up Shops | 21.00% | ~70 |
+| Get Electrified | 21.00% | ~70 |
 | Rehab Expert | 20.00% | ~67 |
 | We Don't Need No Education | 20.00% | ~67 |
-| Get Electrified | 20.00% | ~67 |
 | Tasty Profits | 19.00% | ~63 |
 | Established Fame | 17.00% | ~57 |
 | Cashflow Chief | 17.00% | ~57 |

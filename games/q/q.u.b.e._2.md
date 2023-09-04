@@ -18,7 +18,7 @@ Number of Ratings: 94  (23.09.2022)
 | Descendants | 9.00% | ~14 |
 | Path to Salvation | 9.00% | ~14 |
 | Infinity Loop | 8.00% | ~12 |
-| The Flawed Teacher | 6.00% | ~9 |
+| The Flawed Teacher | 7.00% | ~11 |
 | To Infinity and Beyond | 5.00% | ~8 |
 | The Truthful Enemy | 3.00% | ~5 |
 | True collector | 0.70% | ~1 |

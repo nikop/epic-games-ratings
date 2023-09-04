@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1215,
+  "EOS_Progressed": 1217,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4296,6 +4296,11 @@
       "Time": "2023-09-04T00:06:39.0383963+00:00",
       "NumProgressed": 1215,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-04T01:48:30.5520764+00:00",
+      "NumProgressed": 1217,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4313,9 +4318,9 @@
       "ID": "ach_defeat_aliens_50",
       "SetID": "bm61c2p",
       "Name": "Exterminator",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 73
     },
     {
       "ID": "ach_defeat_players_10",
@@ -4387,7 +4392,7 @@
       "Name": "Keeping Busy",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "objective_headquarters_15",
@@ -4411,7 +4416,7 @@
       "Name": "Facility Online",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -4419,7 +4424,7 @@
       "Name": "Corporal",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -4451,7 +4456,7 @@
       "Name": "Major",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "objective_hero_level_up_6",
@@ -4483,7 +4488,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -4515,7 +4520,7 @@
       "Name": "Stocking Up",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -4547,7 +4552,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -4610,14 +4615,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1215,
+      "Progressed": 1217,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-04T00:06:39.0383956+00:00",
+  "LastChanged_Achievements": "2023-09-04T01:48:30.5520754+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:58:09.0134138+00:00",
-  "LastUpdate_Ratings": "2023-09-04T00:01:14.0516955+00:00",
-  "LastUpdate_Achievements": "2023-09-04T00:06:39.0384936+00:00"
+  "LastUpdate_Ratings": "2023-09-04T01:43:02.2350572+00:00",
+  "LastUpdate_Achievements": "2023-09-04T01:48:30.5521723+00:00"
 }

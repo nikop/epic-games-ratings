@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Once Upon a Time | 96.00% | ~1,046 |
-| Waff! | 94.00% | ~1,025 |
+| Waff! | 95.00% | ~1,036 |
 | Into the Barn | 87.00% | ~948 |
 | A Prophecy | 85.00% | ~926 |
 | Sword, Shield, Fight! | 76.00% | ~828 |
@@ -28,13 +28,13 @@
 | Take Heart | 40.00% | ~436 |
 | Stronger! | 40.00% | ~436 |
 | Ancient Wisdom | 39.00% | ~425 |
+| Frog Facts! | 39.00% | ~425 |
 | All That Glistens | 39.00% | ~425 |
-| Frog Facts! | 38.00% | ~414 |
+| It's Pointy! | 38.00% | ~414 |
 | Spellbound | 37.00% | ~403 |
 | Extinct Again! | 37.00% | ~403 |
 | Bird of Prey | 37.00% | ~403 |
 | All Skilled Up! | 37.00% | ~403 |
-| It's Pointy! | 37.00% | ~403 |
 | Stardust | 36.00% | ~392 |
 | Heartbreaker | 36.00% | ~392 |
 | Kidnapped! | 36.00% | ~392 |

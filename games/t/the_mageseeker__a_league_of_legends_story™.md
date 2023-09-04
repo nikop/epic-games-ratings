@@ -9,7 +9,7 @@ Rating: 4.82 (Ranked 65)
 | No more cages! | 92.00% | ~2,334 |
 | Everfrost | 78.00% | ~1,979 |
 | Pentakill | 78.00% | ~1,979 |
-| Dark Forest | 77.00% | ~1,953 |
+| Dark Forest | 78.00% | ~1,979 |
 | The use of petricite | 74.00% | ~1,877 |
 | You can pet the dog | 61.00% | ~1,548 |
 | Big Helmet Bro | 38.00% | ~964 |

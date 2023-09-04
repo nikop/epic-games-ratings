@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 345,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -685,9 +685,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 36740,
+  "EOS_Progressed": 36743,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 414,
+  "EOS_NewPlayers": 413,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -14640,6 +14640,11 @@
       "Time": "2023-09-04T00:03:25.1366715+00:00",
       "NumProgressed": 36740,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-04T01:45:26.662241+00:00",
+      "NumProgressed": 36743,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -14715,7 +14720,7 @@
       "Name": "Salt\u0027s Curse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4041
+      "UsersEstimate": 4042
     },
     {
       "ID": "ach_cursestone",
@@ -14739,7 +14744,7 @@
       "Name": "HE SUN THE SUN THE SUN T",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4041
+      "UsersEstimate": 4042
     },
     {
       "ID": "ach_deathofermod",
@@ -14771,7 +14776,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 13226
+      "UsersEstimate": 13227
     },
     {
       "ID": "ach_die10",
@@ -14819,7 +14824,7 @@
       "Name": "The Fall of the House",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 4041
+      "UsersEstimate": 4042
     },
     {
       "ID": "ach_invictus",
@@ -14875,7 +14880,7 @@
       "Name": "Shipmate",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4041
+      "UsersEstimate": 4042
     },
     {
       "ID": "ach_newstories",
@@ -15003,7 +15008,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 6613
+      "UsersEstimate": 6614
     },
     {
       "ID": "ach_terror100",
@@ -15082,15 +15087,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 36740,
+      "Progressed": 36743,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-07-28T14:59:59.8138313+00:00",
-  "LastChanged_Achievements": "2023-09-04T00:03:25.136671+00:00",
+  "LastChanged_Achievements": "2023-09-04T01:45:26.66224+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:20.6698248+00:00",
-  "LastUpdate_Ratings": "2023-09-04T00:00:21.982781+00:00",
-  "LastUpdate_Achievements": "2023-09-04T00:03:25.1368353+00:00"
+  "LastUpdate_Ratings": "2023-09-04T01:42:07.4099785+00:00",
+  "LastUpdate_Achievements": "2023-09-04T01:45:26.6624792+00:00"
 }

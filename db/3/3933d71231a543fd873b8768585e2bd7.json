@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 431,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-09-01T08:00:00+00:00",
     "PcReleaseDate": "2023-03-09T14:00:00+00:00",
@@ -163,9 +163,9 @@
       "ID": "achievements.completemission.master.02",
       "SetID": "1kd1942",
       "Name": "Beams of Steel",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achievements.completemission.master.03",
@@ -227,9 +227,9 @@
       "ID": "achievements.researches.first",
       "SetID": "1kd1942",
       "Name": "Eureka!",
-      "Percentage": 10,
+      "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "achievements.researches.upgrades50",
@@ -266,8 +266,8 @@
   ],
   "FirstSeen": "2023-09-03T14:57:43.5916063+00:00",
   "FirstSeenAchievements": "2023-09-01T09:03:14.0251978+00:00",
-  "LastChanged_Achievements": "2023-09-04T00:03:25.9150074+00:00",
+  "LastChanged_Achievements": "2023-09-04T01:45:27.3891382+00:00",
   "LastUpdate_AppInfo": "2023-09-01T08:57:12.467565+00:00",
-  "LastUpdate_Ratings": "2023-09-03T23:58:05.9723937+00:00",
-  "LastUpdate_Achievements": "2023-09-04T00:03:25.9150201+00:00"
+  "LastUpdate_Ratings": "2023-09-04T01:39:42.3746596+00:00",
+  "LastUpdate_Achievements": "2023-09-04T01:45:27.3891535+00:00"
 }

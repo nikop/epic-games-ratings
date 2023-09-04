@@ -5860,7 +5860,7 @@
       "Count": 3740
     }
   ],
-  "EOS_Progressed": 135619,
+  "EOS_Progressed": 135621,
   "EOS_Completed": 142,
   "EOS_NewPlayers": 362,
   "EOS_NewCompleters": 4,
@@ -19860,6 +19860,11 @@
       "Time": "2023-09-04T00:04:40.3608633+00:00",
       "NumProgressed": 135619,
       "NumCompleted": 142
+    },
+    {
+      "Time": "2023-09-04T01:46:31.4185608+00:00",
+      "NumProgressed": 135621,
+      "NumCompleted": 142
     }
   ],
   "TotalAchievements": 112,
@@ -20197,9 +20202,9 @@
       "ID": "donovan_a",
       "SetID": "anfd17p",
       "Name": "Master of Transmutation",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 407
+      "UsersEstimate": 542
     },
     {
       "ID": "enchant01",
@@ -20733,9 +20738,9 @@
       "ID": "workers01",
       "SetID": "anfd17p",
       "Name": "Own the Means of Production",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1221
+      "UsersEstimate": 1356
     },
     {
       "ID": "workers02",
@@ -20766,15 +20771,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135619,
+      "Progressed": 135621,
       "Completed": 142
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-03T11:58:28.6836995+00:00",
-  "LastChanged_Achievements": "2023-09-04T00:04:40.3608629+00:00",
+  "LastChanged_Achievements": "2023-09-04T01:46:31.4185601+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:10.3701754+00:00",
-  "LastUpdate_Ratings": "2023-09-03T23:59:04.6399925+00:00",
-  "LastUpdate_Achievements": "2023-09-04T00:04:40.3611242+00:00"
+  "LastUpdate_Ratings": "2023-09-04T01:40:44.9893931+00:00",
+  "LastUpdate_Achievements": "2023-09-04T01:46:31.4188134+00:00"
 }
