@@ -4,7 +4,7 @@
   "ProductSlug": "return-to-grace-92a75a",
   "Ranking_EOS_Progress": 457,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-30T13:00:00+00:00",
@@ -191,9 +191,9 @@
       "ID": "ACH_Disassemble",
       "SetID": "aao9n96",
       "Name": "No disassemble!",
-      "Percentage": 58,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_EnterHeaven",
@@ -359,9 +359,9 @@
       "ID": "ACH_TransitWorking",
       "SetID": "aao9n96",
       "Name": "It\u0027s working! It\u0027s working!",
-      "Percentage": 58,
+      "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_WeatherStations",
@@ -382,8 +382,8 @@
   ],
   "FirstSeen": "2023-06-18T13:01:09.4740669+00:00",
   "FirstSeenAchievements": "2023-05-24T20:04:21.7839136+00:00",
-  "LastChanged_Achievements": "2023-09-04T17:09:30.5022294+00:00",
+  "LastChanged_Achievements": "2023-09-04T18:08:20.7338406+00:00",
   "LastUpdate_AppInfo": "2023-08-29T23:57:18.5287059+00:00",
-  "LastUpdate_Ratings": "2023-09-04T16:57:54.1098371+00:00",
-  "LastUpdate_Achievements": "2023-09-04T17:09:30.5022551+00:00"
+  "LastUpdate_Ratings": "2023-09-04T17:57:27.2909943+00:00",
+  "LastUpdate_Achievements": "2023-09-04T18:08:20.7338663+00:00"
 }

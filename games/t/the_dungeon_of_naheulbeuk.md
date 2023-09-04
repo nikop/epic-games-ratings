@@ -1,15 +1,15 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.58 (Ranked 430)  
+Rating: 4.58 (Ranked 431)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 28.00% | ~61,939 |
-| Alt+F4 | 4.00% | ~8,848 |
-| Déjà vu | 3.00% | ~6,636 |
-| Where's that freaking Dwarf? | 3.00% | ~6,636 |
+| Sowwy! | 28.00% | ~61,942 |
+| Alt+F4 | 4.00% | ~8,849 |
+| Déjà vu | 3.00% | ~6,637 |
+| Where's that freaking Dwarf? | 3.00% | ~6,637 |
 | A beer, two curses, three companions | 2.00% | ~4,424 |
 | Sock! SOCK! | 2.00% | ~4,424 |
 | GG EZ | 2.00% | ~4,424 |
@@ -35,10 +35,10 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.80% | ~1,770 |
 | The beards of change | 0.80% | ~1,770 |
 | Thieves' Guild Accreditation | 0.80% | ~1,770 |
-| Res Judicata | 0.70% | ~1,548 |
-| The Famous Dungeon of Naheulbeuk | 0.70% | ~1,548 |
-| Dwarf Fortress | 0.70% | ~1,548 |
-| Look but don't touch | 0.70% | ~1,548 |
+| Res Judicata | 0.70% | ~1,549 |
+| The Famous Dungeon of Naheulbeuk | 0.70% | ~1,549 |
+| Dwarf Fortress | 0.70% | ~1,549 |
+| Look but don't touch | 0.70% | ~1,549 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.60% | ~1,327 |
 | Lust and Debauchery | 0.60% | ~1,327 |
 | Dead for good | 0.50% | ~1,106 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~221 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221,210 (Ranked 57)  
+Progressed: 221,223 (Ranked 57)  
 Completed: 2 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 2 (0.00%) (Ranked 271)
 | 2023-09-01 | 220,165 | 2 |
 | 2023-09-02 | 220,547 | 2 |
 | 2023-09-03 | 220,988 | 2 |
-| 2023-09-04 | 221,210 | 2 |
+| 2023-09-04 | 221,223 | 2 |
 ## Awards
 Max (Character Customization): 189  (Ranked 278)  
 Sum: 259 (Ranked 353)  

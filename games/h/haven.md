@@ -18,10 +18,10 @@ Number of Ratings: 38  (23.09.2022)
 | In my shoes | 17.00% | ~241 |
 | Like new! | 15.00% | ~213 |
 | Head in the clouds | 14.00% | ~199 |
+| Don't look back | 13.00% | ~184 |
 | Heartstrings | 13.00% | ~184 |
 | Back to rust | 12.00% | ~170 |
 | Flower Powered | 12.00% | ~170 |
-| Don't look back | 12.00% | ~170 |
 | Unstoppable | 10.00% | ~142 |
 | Perfect timing | 9.00% | ~128 |
 | Self-sustainability | 8.00% | ~114 |

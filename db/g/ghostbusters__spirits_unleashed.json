@@ -2,7 +2,7 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 580,
+  "Ranking_Rating": 581,
   "Ranking_Popularity": 254,
   "Ranking_PopularitySum": 190,
   "Ranking_EOS_Progress": 103,
@@ -1964,7 +1964,7 @@
   ],
   "EOS_Progressed": 25579,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 179,
+  "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -12458,8 +12458,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-04T17:00:14.9615042+00:00",
-  "LastChanged_Achievements": "2023-09-04T17:07:06.5689008+00:00",
+  "LastChanged_Achievements": "2023-09-04T18:05:33.6680078+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:35.9780444+00:00",
-  "LastUpdate_Ratings": "2023-09-04T17:00:14.9615048+00:00",
-  "LastUpdate_Achievements": "2023-09-04T17:07:06.5691086+00:00"
+  "LastUpdate_Ratings": "2023-09-04T17:58:58.3029664+00:00",
+  "LastUpdate_Achievements": "2023-09-04T18:05:33.6681134+00:00"
 }

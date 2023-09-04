@@ -4,7 +4,7 @@
   "ProductSlug": "warstone-td-8fe138",
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -676,9 +676,9 @@
       "ID": "66",
       "SetID": "5e3maia",
       "Name": "Sage",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "67",
@@ -747,8 +747,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-09-04T17:09:14.5499498+00:00",
+  "LastChanged_Achievements": "2023-09-04T18:08:09.7211605+00:00",
   "LastUpdate_AppInfo": "2023-09-01T23:56:54.9755822+00:00",
-  "LastUpdate_Ratings": "2023-09-04T17:02:27.970361+00:00",
-  "LastUpdate_Achievements": "2023-09-04T17:09:14.5500252+00:00"
+  "LastUpdate_Ratings": "2023-09-04T18:00:29.4109602+00:00",
+  "LastUpdate_Achievements": "2023-09-04T18:08:09.7212369+00:00"
 }

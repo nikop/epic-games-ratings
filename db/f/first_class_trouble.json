@@ -2,12 +2,12 @@
   "ID": "27834480410d4000a987b32801e9abba",
   "Name": "First Class Trouble",
   "ProductSlug": "first-class-trouble",
-  "Ranking_Rating": 580,
+  "Ranking_Rating": 581,
   "Ranking_Popularity": 311,
   "Ranking_PopularitySum": 292,
-  "Ranking_EOS_Progress": 573,
+  "Ranking_EOS_Progress": 574,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -1384,10 +1384,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 634,
       "NumberOfAwardsMax": 127
+    },
+    {
+      "Time": "2023-09-04T17:57:50.9780224+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 636,
+      "NumberOfAwardsMax": 127
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 634,
+  "NumberOfAwards": 636,
   "NumberOfAwardsMax": 127,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1425,7 +1431,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 79
+      "Count": 80
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1443,7 +1449,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 67
+      "Count": 68
     },
     {
       "Text": "This game is Relaxing",
@@ -1464,8 +1470,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-22T22:01:01.54229+00:00",
   "FirstSeenRating": "2023-01-13T07:56:45.2170746+00:00",
-  "LastChanged": "2023-09-03T10:57:53.2651039+00:00",
+  "LastChanged": "2023-09-04T17:57:50.9780223+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:30.2882404+00:00",
-  "LastUpdate_Ratings": "2023-09-04T16:58:30.0849698+00:00",
-  "LastUpdate_Achievements": "2023-09-04T17:08:03.5089253+00:00"
+  "LastUpdate_Ratings": "2023-09-04T17:57:50.9780229+00:00",
+  "LastUpdate_Achievements": "2023-09-04T18:06:12.2234+00:00"
 }

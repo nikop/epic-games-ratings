@@ -2,9 +2,9 @@
   "ID": "31e80b3ce51943aab3570f9c10c225d9",
   "Name": "Undungeon",
   "ProductSlug": "undungeon-49cec0",
-  "Ranking_EOS_Progress": 573,
+  "Ranking_EOS_Progress": 574,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-11-18T18:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:15.8850083+00:00",
   "LastChanged": "2023-03-31T05:57:15.8850084+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:34.1432194+00:00",
-  "LastUpdate_Ratings": "2023-09-04T17:03:10.8045033+00:00",
-  "LastUpdate_Achievements": "2023-09-04T17:09:37.8921192+00:00"
+  "LastUpdate_Ratings": "2023-09-04T18:00:36.7127521+00:00",
+  "LastUpdate_Achievements": "2023-09-04T18:08:25.942283+00:00"
 }

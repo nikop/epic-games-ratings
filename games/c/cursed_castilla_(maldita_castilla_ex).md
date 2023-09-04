@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 28.00% | ~17 |
+| Pioneer | 30.00% | ~18 |
 | Firefighter | 8.00% | ~5 |
 | Collector | 7.00% | ~4 |
 | Summoner | 5.00% | ~3 |

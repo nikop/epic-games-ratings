@@ -1,57 +1,57 @@
 # Dying Light 2 Stay Human
 [Store](https://store.epicgames.com/en-US/p/dying-light-2-stay-human)  
 [View Rawdata](../../db/d/dying_light_2_stay_human.json)  
-Rating: 4.58 (Ranked 430)  
+Rating: 4.58 (Ranked 431)  
 Number of Ratings: 7,305  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 38.00% | ~235,415 |
-| Into the Unknown | 35.00% | ~216,829 |
-| First Shot | 35.00% | ~216,829 |
-| Herzlich Wilkommen! | 33.00% | ~204,439 |
-| Good Night & Good Luck | 33.00% | ~204,439 |
-| Sancho Panza | 32.00% | ~198,244 |
-| Oh, So This Is How It Works! | 29.00% | ~179,658 |
-| Flag Burning | 27.00% | ~167,268 |
-| It Wasn't That Hard, Was It? | 25.00% | ~154,878 |
-| Can't Touch This! | 25.00% | ~154,878 |
-| Under Pressure | 24.00% | ~148,683 |
-| On the Trail of the Enemy | 24.00% | ~148,683 |
-| Light in the Darkness | 24.00% | ~148,683 |
-| Get Outta My House! | 23.00% | ~142,488 |
-| Night Hunter | 22.00% | ~136,293 |
-| Being All Social | 22.00% | ~136,293 |
-| After the Fall | 20.00% | ~123,902 |
-| We Will Be Heard! | 18.00% | ~111,512 |
-| Tunnel Entrance | 18.00% | ~111,512 |
-| Known Associate | 17.00% | ~105,317 |
-| Brush with Death | 16.00% | ~99,122 |
-| Debris and Ashes | 15.00% | ~92,927 |
-| Going Down | 15.00% | ~92,927 |
-| Family First | 15.00% | ~92,927 |
-| Your World, Your Rules | 15.00% | ~92,927 |
-| Death From Afar | 14.00% | ~86,732 |
-| Terminal Headache | 14.00% | ~86,732 |
-| Slowpoke! | 12.00% | ~74,341 |
-| Tickets, Please! | 7.00% | ~43,366 |
-| Parkour Master | 6.00% | ~37,171 |
-| Combat Master | 6.00% | ~37,171 |
-| Municipal Services | 5.00% | ~30,976 |
-| Ban Hammer | 5.00% | ~30,976 |
-| Modder | 5.00% | ~30,976 |
-| Tube Map | 4.00% | ~24,780 |
-| Don Quixote | 4.00% | ~24,780 |
-| Can't You Read the Signs? | 4.00% | ~24,780 |
-| Boot Licker | 4.00% | ~24,780 |
-| Tanning Salon | 3.00% | ~18,585 |
-| That's Teamwork! | 3.00% | ~18,585 |
-| Ironheart | 3.00% | ~18,585 |
-| You're Going Down! | 3.00% | ~18,585 |
-| Revenants | 2.00% | ~12,390 |
-| Who Wants To Be a... | 2.00% | ~12,390 |
-| Lightning Reflexes | 2.00% | ~12,390 |
-| Fit as a Fiddle | 2.00% | ~12,390 |
+| You Never Forget Your First... | 38.00% | ~235,422 |
+| Into the Unknown | 35.00% | ~216,836 |
+| First Shot | 35.00% | ~216,836 |
+| Herzlich Wilkommen! | 33.00% | ~204,445 |
+| Good Night & Good Luck | 33.00% | ~204,445 |
+| Sancho Panza | 32.00% | ~198,250 |
+| Oh, So This Is How It Works! | 29.00% | ~179,664 |
+| Flag Burning | 27.00% | ~167,273 |
+| It Wasn't That Hard, Was It? | 25.00% | ~154,883 |
+| Can't Touch This! | 25.00% | ~154,883 |
+| Under Pressure | 24.00% | ~148,687 |
+| On the Trail of the Enemy | 24.00% | ~148,687 |
+| Light in the Darkness | 24.00% | ~148,687 |
+| Get Outta My House! | 23.00% | ~142,492 |
+| Night Hunter | 22.00% | ~136,297 |
+| Being All Social | 22.00% | ~136,297 |
+| After the Fall | 20.00% | ~123,906 |
+| We Will Be Heard! | 18.00% | ~111,516 |
+| Tunnel Entrance | 18.00% | ~111,516 |
+| Known Associate | 17.00% | ~105,320 |
+| Brush with Death | 16.00% | ~99,125 |
+| Debris and Ashes | 15.00% | ~92,930 |
+| Going Down | 15.00% | ~92,930 |
+| Family First | 15.00% | ~92,930 |
+| Your World, Your Rules | 15.00% | ~92,930 |
+| Death From Afar | 14.00% | ~86,734 |
+| Terminal Headache | 14.00% | ~86,734 |
+| Slowpoke! | 12.00% | ~74,344 |
+| Tickets, Please! | 7.00% | ~43,367 |
+| Parkour Master | 6.00% | ~37,172 |
+| Combat Master | 6.00% | ~37,172 |
+| Municipal Services | 5.00% | ~30,977 |
+| Ban Hammer | 5.00% | ~30,977 |
+| Modder | 5.00% | ~30,977 |
+| Tube Map | 4.00% | ~24,781 |
+| Don Quixote | 4.00% | ~24,781 |
+| Can't You Read the Signs? | 4.00% | ~24,781 |
+| Boot Licker | 4.00% | ~24,781 |
+| Tanning Salon | 3.00% | ~18,586 |
+| That's Teamwork! | 3.00% | ~18,586 |
+| Ironheart | 3.00% | ~18,586 |
+| You're Going Down! | 3.00% | ~18,586 |
+| Revenants | 2.00% | ~12,391 |
+| Who Wants To Be a... | 2.00% | ~12,391 |
+| Lightning Reflexes | 2.00% | ~12,391 |
+| Fit as a Fiddle | 2.00% | ~12,391 |
 | Find Anything Interesting? | 1.00% | ~6,195 |
 | Nemesis | 1.00% | ~2,650 |
 | Enter the Hall | 1.00% | ~2,650 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~265 |
 | Connoisseur | 0.10% | ~265 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 619,512 (Ranked 27)  
+Progressed: 619,531 (Ranked 27)  
 Completed: 62 (0.01%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,10 +209,10 @@ Completed: 62 (0.01%) (Ranked 257)
 | 2023-09-01 | 618,502 | 62 |
 | 2023-09-02 | 618,911 | 62 |
 | 2023-09-03 | 619,310 | 62 |
-| 2023-09-04 | 619,512 | 62 |
+| 2023-09-04 | 619,531 | 62 |
 ## Awards
 Max (Character Customization): 8,989  (Ranked 39)  
-Sum: 21,667 (Ranked 54)  
+Sum: 21,674 (Ranked 54)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
@@ -220,8 +220,8 @@ Diff (max vs sum): -15
 | This game has Great Boss Battles | 5,355 |
 | This game is Great for Beginners | 937 |
 | This game is Highly Recommended | 864 |
-| This game has Diverse Characters | 855 |
-| This game has Amazing Characters | 831 |
+| This game has Diverse Characters | 860 |
+| This game has Amazing Characters | 833 |
 | This game has Amazing Storytelling | 809 |
 | This game is Extremely Fun | 807 |
 | This game has Quickly Understood Controls | 789 |
@@ -466,4 +466,4 @@ Diff (max vs sum): -15
 | 2023-09-01 | 4.58 | - | 8,969 | 21,568 |
 | 2023-09-02 | 4.58 | - | 8,969 | 21,587 |
 | 2023-09-03 | 4.58 | - | 8,979 | 21,630 |
-| 2023-09-04 | 4.58 | - | 8,989 | 21,667 |
+| 2023-09-04 | 4.58 | - | 8,989 | 21,674 |

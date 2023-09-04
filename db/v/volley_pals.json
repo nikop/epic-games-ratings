@@ -4,7 +4,7 @@
   "ProductSlug": "volley-pals-0120b4",
   "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 7,
-  "Ranking_EOS_NewPlayers": 299,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-19T01:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 108,
+  "EOS_Progressed": 109,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 25.93,
+  "EOS_Completed_Percentage": 25.69,
   "EosHistory": [
     {
       "Time": "2023-05-19T19:23:39.9762126+00:00",
@@ -576,6 +576,11 @@
       "Time": "2023-09-03T15:03:44.4252878+00:00",
       "NumProgressed": 108,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-09-04T18:04:20.0965261+00:00",
+      "NumProgressed": 109,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 10,
@@ -595,7 +600,7 @@
       "Name": "Library",
       "Percentage": 68,
       "XP": 100,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "LEVEL_2",
@@ -603,7 +608,7 @@
       "Name": "Space",
       "Percentage": 54,
       "XP": 100,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "LEVEL_3",
@@ -611,15 +616,15 @@
       "Name": "Haunted Mansion",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "LEVEL_4",
       "SetID": "1fnbp5h",
       "Name": "Science Laboratory",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 48
+      "UsersEstimate": 47
     },
     {
       "ID": "LEVEL_5",
@@ -659,21 +664,21 @@
       "Name": "Custom Court",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     }
   ],
   "AchievementSets": [
     {
       "ID": "1fnbp5h",
       "IsBase": true,
-      "Progressed": 108,
+      "Progressed": 109,
       "Completed": 28
     }
   ],
   "FirstSeen": "2023-09-02T02:13:34.6238392+00:00",
   "FirstSeenAchievements": "2023-05-02T15:59:43.451096+00:00",
-  "LastChanged_Achievements": "2023-09-04T17:05:18.8909272+00:00",
+  "LastChanged_Achievements": "2023-09-04T18:04:20.0965255+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:37.9486128+00:00",
-  "LastUpdate_Ratings": "2023-09-04T16:57:41.5540054+00:00",
-  "LastUpdate_Achievements": "2023-09-04T17:05:18.8909427+00:00"
+  "LastUpdate_Ratings": "2023-09-04T17:57:20.4710237+00:00",
+  "LastUpdate_Achievements": "2023-09-04T18:04:20.0965396+00:00"
 }

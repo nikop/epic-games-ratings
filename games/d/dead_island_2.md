@@ -12,24 +12,24 @@ Rating: 4.54 (Ranked 505)
 | Coup de Grâce | 0.90% | ~6,061 |
 | Hazardous Materials | 0.90% | ~6,061 |
 | Personal Assistant Personally Assisted | 0.90% | ~6,061 |
-| Dr. Reed, I Presume? | 0.80% | ~5,387 |
-| Bookworm | 0.80% | ~5,387 |
-| But Doctor, I am Butcho | 0.80% | ~5,387 |
-| Friends Like These | 0.80% | ~5,387 |
-| Apex Predator | 0.80% | ~5,387 |
-| Stacking the Deck | 0.80% | ~5,387 |
-| This is My Weapon | 0.80% | ~5,387 |
+| Dr. Reed, I Presume? | 0.80% | ~5,388 |
+| Bookworm | 0.80% | ~5,388 |
+| But Doctor, I am Butcho | 0.80% | ~5,388 |
+| Can't Handle the Truth | 0.80% | ~5,388 |
+| Friends Like These | 0.80% | ~5,388 |
+| Apex Predator | 0.80% | ~5,388 |
+| Stacking the Deck | 0.80% | ~5,388 |
+| This is My Weapon | 0.80% | ~5,388 |
 | Slayer Squad | 0.70% | ~4,714 |
-| Can't Handle the Truth | 0.70% | ~4,714 |
 | Like Riding a Bike | 0.70% | ~4,714 |
 | Zombologist | 0.70% | ~4,714 |
 | A Patton Emerges | 0.70% | ~4,714 |
-| Anger Management | 0.60% | ~4,040 |
-| Perks of the Job | 0.60% | ~4,040 |
-| I Got a Zombie Army and You Can't Harm Me | 0.60% | ~4,040 |
-| Ooh, Shiny! | 0.60% | ~4,040 |
-| I Am the Resurrection | 0.60% | ~4,040 |
-| Our True Nature | 0.60% | ~4,040 |
+| Anger Management | 0.60% | ~4,041 |
+| Perks of the Job | 0.60% | ~4,041 |
+| I Got a Zombie Army and You Can't Harm Me | 0.60% | ~4,041 |
+| Ooh, Shiny! | 0.60% | ~4,041 |
+| I Am the Resurrection | 0.60% | ~4,041 |
+| Our True Nature | 0.60% | ~4,041 |
 | Making Your Mark | 0.50% | ~3,367 |
 | Humanity Distilled | 0.50% | ~3,367 |
 | Down with the Sickness | 0.50% | ~3,367 |
@@ -39,19 +39,19 @@ Rating: 4.54 (Ranked 505)
 | Go, Bobcats! | 0.30% | ~2,020 |
 | Rising Star | 0.30% | ~2,020 |
 | Make it So | 0.20% | ~1,347 |
+| LA Influential | 0.20% | ~1,347 |
 | On Safari | 0.20% | ~1,347 |
 | Not Even My Final Form | 0.20% | ~1,347 |
 | Internet Famous | 0.20% | ~1,347 |
 | Gore Horse | 0.20% | ~1,347 |
 | Variety is the Spice of Death | 0.20% | ~1,347 |
-| LA Influential | 0.10% | ~673 |
 | Donk! | 0.10% | ~673 |
 | Sole Survivor | 0.10% | ~673 |
 | Sharpest Tool in the Box | 0.10% | ~673 |
 | Survival Skills | 0.10% | ~673 |
 | Bucket List | 0.10% | ~673 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 673,410 (Ranked 22)  
+Progressed: 673,447 (Ranked 22)  
 Completed: 2,114 (0.31%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 2,114 (0.31%) (Ranked 177)
 | 2023-09-01 | 671,108 | 2,097 |
 | 2023-09-02 | 672,029 | 2,103 |
 | 2023-09-03 | 672,940 | 2,111 |
-| 2023-09-04 | 673,410 | 2,114 |
+| 2023-09-04 | 673,447 | 2,114 |
 ## Awards
 Max (Great Boss Battles): 5,889  (Ranked 59)  
 Sum: 8,685 (Ranked 95)  

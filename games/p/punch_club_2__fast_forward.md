@@ -25,8 +25,8 @@
 | Employee of the month | 64.00% | ~202 |
 | Workout professional | 62.00% | ~196 |
 | Law student | 62.00% | ~196 |
+| Handyman | 60.00% | ~190 |
 | Champion – starter pack | 60.00% | ~190 |
-| Handyman | 59.00% | ~186 |
 | It's good to be alive | 59.00% | ~186 |
 | Own four walls | 59.00% | ~186 |
 | Employee of the year | 59.00% | ~186 |
@@ -57,10 +57,10 @@
 | Problems of cyborgs | 33.00% | ~104 |
 | Absolute Champion! | 33.00% | ~104 |
 | Not little hacker | 32.00% | ~101 |
+| Careerist | 32.00% | ~101 |
 | Anyone can resist | 32.00% | ~101 |
 | Trap disarmed | 31.00% | ~98 |
 | The last bell ring | 31.00% | ~98 |
-| Careerist | 31.00% | ~98 |
 | Another world | 30.00% | ~95 |
 | The lonesome road | 30.00% | ~95 |
 | Keep nature safe | 30.00% | ~95 |

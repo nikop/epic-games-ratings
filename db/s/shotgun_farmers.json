@@ -4,7 +4,7 @@
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 280,
+  "EOS_Progressed": 281,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1198,6 +1198,11 @@
       "Time": "2023-09-03T01:47:53.6220822+00:00",
       "NumProgressed": 280,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-04T18:05:49.0527599+00:00",
+      "NumProgressed": 281,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 74,
@@ -1249,7 +1254,7 @@
       "Name": "15K",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ach_first_first_blood",
@@ -1257,7 +1262,7 @@
       "Name": "First Blood",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ach_first_harvest",
@@ -1265,15 +1270,15 @@
       "Name": "Seeds of War",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "ach_first_rocket_jump",
       "SetID": "cmg602e",
       "Name": "I Believe I Can Fly",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 138
     },
     {
       "ID": "ach_heal_x_points_with_health_pack",
@@ -1479,9 +1484,9 @@
       "ID": "ach_ride_pig_from_base_to_your_base_without_interruption",
       "SetID": "cmg602e",
       "Name": "Pork Chop Express",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 50
+      "UsersEstimate": 48
     },
     {
       "ID": "ach_sextaKill",
@@ -1521,7 +1526,7 @@
       "Name": "Triple Kill",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ach_win_with_no_deaths",
@@ -1553,7 +1558,7 @@
       "Name": "Cornivore",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ach_all_koth_points",
@@ -1591,9 +1596,9 @@
       "ID": "ach_kill_pistol_with_pistol",
       "SetID": "bf10c8p",
       "Name": "Quick-Draw Pod",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 51
     },
     {
       "ID": "ach_kill_self_with_pumpkin",
@@ -1601,7 +1606,7 @@
       "Name": "Oh My Gourd",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ach_perfect",
@@ -1681,7 +1686,7 @@
       "Name": "Amateur Survivor",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ach_waves_30",
@@ -1713,7 +1718,7 @@
       "Name": "Aspairagus",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ach_x_peastol_healing_done",
@@ -1727,9 +1732,9 @@
       "ID": "ach_x_victims_holding_shovel",
       "SetID": "bf10c8p",
       "Name": "No Diggity",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 97
     },
     {
       "ID": "ach_x_victims_using_bow",
@@ -1753,7 +1758,7 @@
       "Name": "This Is My Boomstick",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ach_x_victims_using_grenade_launcher",
@@ -1783,9 +1788,9 @@
       "ID": "ach_x_victims_using_shovel",
       "SetID": "bf10c8p",
       "Name": "Grave Digger",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 51
     },
     {
       "ID": "ach_y_farmers_same_sniper",
@@ -1800,13 +1805,13 @@
     {
       "ID": "cmg602e",
       "IsBase": true,
-      "Progressed": 280,
+      "Progressed": 281,
       "Completed": 0
     },
     {
       "ID": "bf10c8p",
       "IsBase": false,
-      "Progressed": 230,
+      "Progressed": 231,
       "Completed": 2
     }
   ],
@@ -1814,8 +1819,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-09-04T17:07:29.5233689+00:00",
+  "LastChanged_Achievements": "2023-09-04T18:05:49.0527594+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:58.7757342+00:00",
-  "LastUpdate_Ratings": "2023-09-04T16:59:35.788668+00:00",
-  "LastUpdate_Achievements": "2023-09-04T17:07:29.5234546+00:00"
+  "LastUpdate_Ratings": "2023-09-04T17:58:33.9529546+00:00",
+  "LastUpdate_Achievements": "2023-09-04T18:05:49.052846+00:00"
 }

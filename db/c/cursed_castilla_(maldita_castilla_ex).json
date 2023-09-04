@@ -4,7 +4,7 @@
   "ProductSlug": "cursed-castilla-maldita-castilla-ex-adaa43",
   "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 299,
+  "Ranking_EOS_NewPlayers": 301,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-11-17T07:00:00+00:00",
@@ -111,9 +111,9 @@
       "ID": "cc_achievement_01",
       "SetID": "177a8ba",
       "Name": "Pioneer",
-      "Percentage": 28,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "cc_achievement_02",
@@ -248,8 +248,8 @@
   "FirstSeenRating": "2023-03-31T05:57:25.7963027+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.4421841+00:00",
   "LastChanged": "2023-03-31T05:57:25.7963028+00:00",
-  "LastChanged_Achievements": "2023-09-04T17:03:28.4949833+00:00",
+  "LastChanged_Achievements": "2023-09-04T18:03:10.0438019+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:57.044118+00:00",
-  "LastUpdate_Ratings": "2023-09-04T17:02:19.2258331+00:00",
-  "LastUpdate_Achievements": "2023-09-04T17:03:28.4950106+00:00"
+  "LastUpdate_Ratings": "2023-09-04T18:00:23.5375762+00:00",
+  "LastUpdate_Achievements": "2023-09-04T18:03:10.0438353+00:00"
 }

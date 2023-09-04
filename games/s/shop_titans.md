@@ -56,6 +56,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Master of Transmutation | 0.40% | ~543 |
 | Hidden Potential | 0.40% | ~543 |
 | Expansion in Session | 0.40% | ~543 |
+| Cranked up to 11 | 0.40% | ~543 |
 | Trash to Treasure | 0.40% | ~543 |
 | Royal Ransom | 0.40% | ~543 |
 | Mammonite | 0.40% | ~543 |
@@ -80,7 +81,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Omae wa Mou Shindeiru | 0.30% | ~407 |
 | Supercharged | 0.30% | ~407 |
 | Ritualist | 0.30% | ~407 |
-| Cranked up to 11 | 0.30% | ~407 |
 | Fit for a King | 0.30% | ~407 |
 | By Your Powers Combined... | 0.30% | ~407 |
 | A Legend is Born | 0.30% | ~407 |
@@ -259,12 +259,12 @@ Completed: 142 (0.10%) (Ranked 218)
 | 2023-09-04 | 135,654 | 142 |
 ## Awards
 Max (Great for Beginners): 4,721  (Ranked 70)  
-Sum: 27,171 (Ranked 47)  
+Sum: 27,173 (Ranked 47)  
 Diff (max vs sum): 23  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,721 |
-| This game is Relaxing | 4,003 |
+| This game is Relaxing | 4,005 |
 | This game has Quickly Understood Controls | 3,993 |
 | This game has Diverse Characters | 3,867 |
 | This game is Highly Recommended | 3,740 |
@@ -494,4 +494,4 @@ Diff (max vs sum): 23
 | 2023-09-01 | 3.99 | - | 4,719 | 27,162 |
 | 2023-09-02 | 3.99 | - | 4,719 | 27,164 |
 | 2023-09-03 | 3.99 | - | 4,721 | 27,169 |
-| 2023-09-04 | 3.99 | - | 4,721 | 27,171 |
+| 2023-09-04 | 3.99 | - | 4,721 | 27,173 |

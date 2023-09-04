@@ -6,15 +6,15 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 69.00% | ~20,357 |
+| The Shadow strikes | 69.00% | ~20,358 |
 | The Evilest Evil | 58.00% | ~17,112 |
 | Twistram is devastated | 57.00% | ~16,817 |
-| The Gehenna Stones | 49.00% | ~14,456 |
-| No one has to die today! | 46.00% | ~13,571 |
-| Death and destruction! | 45.00% | ~13,276 |
-| The Swamplanders from the swamplands | 43.00% | ~12,686 |
-| Rusty Steel | 41.00% | ~12,096 |
-| The One-Huge-Army-Building Evil | 40.00% | ~11,801 |
+| The Gehenna Stones | 49.00% | ~14,457 |
+| No one has to die today! | 46.00% | ~13,572 |
+| Death and destruction! | 45.00% | ~13,277 |
+| The Swamplanders from the swamplands | 43.00% | ~12,687 |
+| Rusty Steel | 41.00% | ~12,097 |
+| The One-Huge-Army-Building Evil | 40.00% | ~11,802 |
 | The last burger | 37.00% | ~10,916 |
 | Braiiiiins! | 37.00% | ~10,916 |
 | Hands off the Dungeonheart! | 36.00% | ~10,621 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | The Stones’ Power | 18.00% | ~5,311 |
 | Flat as a pancake | 17.00% | ~5,016 |
 | Lifeguard | 17.00% | ~5,016 |
-| Can’t stand the sight of Dark Elf blood | 15.00% | ~4,425 |
+| Can’t stand the sight of Dark Elf blood | 15.00% | ~4,426 |
 | This is fun, I’m going to keep doing this! | 12.00% | ~3,540 |
 | Then let them eat cake! | 12.00% | ~3,540 |
 | The White Knight | 10.00% | ~2,950 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~590 |
 | Sacrifices! | 2.00% | ~590 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,503 (Ranked 101)  
+Progressed: 29,504 (Ranked 101)  
 Completed: 243 (0.82%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 243 (0.82%) (Ranked 129)
 | 2023-09-01 | 29,219 | 242 |
 | 2023-09-02 | 29,326 | 242 |
 | 2023-09-03 | 29,444 | 243 |
-| 2023-09-04 | 29,503 | 243 |
+| 2023-09-04 | 29,504 | 243 |
 ## Awards
 Max (Great for Beginners): 343  (Ranked 228)  
 Sum: 2,630 (Ranked 174)  

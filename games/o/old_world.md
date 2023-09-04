@@ -97,6 +97,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hagia Sophia | 0.90% | ~124 |
 | Economic Reform | 0.90% | ~124 |
 | Dualism | 0.90% | ~124 |
+| Redemption | 0.90% | ~124 |
 | Legionary | 0.90% | ~124 |
 | Capable | 0.80% | ~110 |
 | Invincible | 0.80% | ~110 |
@@ -107,7 +108,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Assyrian Paganism | 0.80% | ~110 |
 | Industrial Progress | 0.80% | ~110 |
 | Military Prestige | 0.80% | ~110 |
-| Redemption | 0.80% | ~110 |
 | Cimmerian Archer | 0.80% | ~110 |
 | Ambition Victory | 0.80% | ~110 |
 | Double Victory | 0.80% | ~110 |

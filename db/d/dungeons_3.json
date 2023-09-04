@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 129,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2020-11-05T16:00:00+00:00",
     "PcReleaseDate": "2020-11-05T16:00:00+00:00",
@@ -2578,9 +2578,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 29503,
+  "EOS_Progressed": 29504,
   "EOS_Completed": 243,
-  "EOS_NewPlayers": 746,
+  "EOS_NewPlayers": 740,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -17478,6 +17478,11 @@
       "Time": "2023-09-04T17:09:17.0272247+00:00",
       "NumProgressed": 29503,
       "NumCompleted": 243
+    },
+    {
+      "Time": "2023-09-04T18:08:11.4380543+00:00",
+      "NumProgressed": 29504,
+      "NumCompleted": 243
     }
   ],
   "TotalAchievements": 60,
@@ -17497,7 +17502,7 @@
       "Name": "No one has to die today!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 13571
+      "UsersEstimate": 13572
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -17601,7 +17606,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 14456
+      "UsersEstimate": 14457
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -17697,7 +17702,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 12686
+      "UsersEstimate": 12687
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -17705,7 +17710,7 @@
       "Name": "The One-Huge-Army-Building Evil",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 11801
+      "UsersEstimate": 11802
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_2",
@@ -17721,7 +17726,7 @@
       "Name": "Rusty Steel",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 12096
+      "UsersEstimate": 12097
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -17825,7 +17830,7 @@
       "Name": "Can\u2019t stand the sight of Dark Elf blood",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 4425
+      "UsersEstimate": 4426
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_2",
@@ -17873,7 +17878,7 @@
       "Name": "Death and destruction!",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 13276
+      "UsersEstimate": 13277
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_2",
@@ -17889,7 +17894,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 20357
+      "UsersEstimate": 20358
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -17968,15 +17973,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 29503,
+      "Progressed": 29504,
       "Completed": 243
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-09-02T23:00:06.7755284+00:00",
-  "LastChanged_Achievements": "2023-09-04T17:09:17.027224+00:00",
+  "LastChanged_Achievements": "2023-09-04T18:08:11.4380538+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:12.3357461+00:00",
-  "LastUpdate_Ratings": "2023-09-04T17:00:57.3527867+00:00",
-  "LastUpdate_Achievements": "2023-09-04T17:09:17.0274762+00:00"
+  "LastUpdate_Ratings": "2023-09-04T17:59:27.3712283+00:00",
+  "LastUpdate_Achievements": "2023-09-04T18:08:11.4381993+00:00"
 }

@@ -6,14 +6,14 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 72.00% | ~6,342 |
-| Leader | 60.00% | ~5,285 |
+| First Step | 72.00% | ~6,343 |
+| Leader | 60.00% | ~5,286 |
 | Explorer | 53.00% | ~4,669 |
 | Healer | 52.00% | ~4,581 |
 | Aspiring Inventor | 44.00% | ~3,876 |
 | Adventurer | 41.00% | ~3,612 |
-| Famous Healer | 38.00% | ~3,347 |
-| Local Leader | 35.00% | ~3,083 |
+| Famous Healer | 38.00% | ~3,348 |
+| Local Leader | 35.00% | ~3,084 |
 | Famous Explorer | 34.00% | ~2,995 |
 | New Opportunities | 34.00% | ~2,995 |
 | Energized | 33.00% | ~2,907 |
@@ -23,7 +23,7 @@ Number of Ratings: 836  (23.09.2022)
 | Legendary Explorer | 28.00% | ~2,467 |
 | Cleaner | 28.00% | ~2,467 |
 | Catastrofan | 28.00% | ~2,467 |
-| Finders, Keepers | 26.00% | ~2,290 |
+| Finders, Keepers | 26.00% | ~2,291 |
 | Top Notch | 25.00% | ~2,202 |
 | Great Leader | 23.00% | ~2,026 |
 | Mentor | 23.00% | ~2,026 |
@@ -34,9 +34,9 @@ Number of Ratings: 836  (23.09.2022)
 | War Never Changes | 19.00% | ~1,674 |
 | Big Game Hunter | 17.00% | ~1,498 |
 | Spreading Influence | 17.00% | ~1,498 |
-| Friendly | 16.00% | ~1,409 |
-| Around the World | 16.00% | ~1,409 |
-| Bookworm | 15.00% | ~1,321 |
+| Friendly | 16.00% | ~1,410 |
+| Around the World | 16.00% | ~1,410 |
+| Bookworm | 15.00% | ~1,322 |
 | Famous Adventurer | 14.00% | ~1,233 |
 | Prepared for Anything | 13.00% | ~1,145 |
 | Big Catastrofan | 13.00% | ~1,145 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~18 |
 | Customized calamities | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,809 (Ranked 132)  
+Progressed: 8,810 (Ranked 132)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-09-01 | 8,731 | 0 |
 | 2023-09-02 | 8,756 | 0 |
 | 2023-09-03 | 8,797 | 0 |
-| 2023-09-04 | 8,809 | 0 |
+| 2023-09-04 | 8,810 | 0 |
 ## Awards
 Max (Extremely Fun): 101  (Ranked 335)  
 Sum: 697 (Ranked 279)  

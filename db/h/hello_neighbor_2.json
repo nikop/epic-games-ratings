@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -392,7 +392,7 @@
   "Tags": [],
   "EOS_Progressed": 2831,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.99,
   "EosHistory": [
@@ -3122,9 +3122,9 @@
       "ID": "ACH_FAMILY_LOST",
       "SetID": "4kfb9pd",
       "Name": "Family Lost",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 80,
-      "UsersEstimate": 906
+      "UsersEstimate": 934
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -3195,8 +3195,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-08-24T16:58:59.1002647+00:00",
-  "LastChanged_Achievements": "2023-09-04T17:06:28.375205+00:00",
+  "LastChanged_Achievements": "2023-09-04T18:05:07.2904604+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:50.250711+00:00",
-  "LastUpdate_Ratings": "2023-09-04T17:02:08.5090615+00:00",
-  "LastUpdate_Achievements": "2023-09-04T17:06:28.3752394+00:00"
+  "LastUpdate_Ratings": "2023-09-04T18:00:16.9375946+00:00",
+  "LastUpdate_Achievements": "2023-09-04T18:05:07.2904866+00:00"
 }

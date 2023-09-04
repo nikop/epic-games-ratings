@@ -2,9 +2,9 @@
   "ID": "d0ef2af009674dc483f87840027cb730",
   "Name": "WOLF IN THE CITY",
   "ProductSlug": "wolf-in-the-city-b1f910",
-  "Ranking_EOS_Progress": 573,
+  "Ranking_EOS_Progress": 574,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-31T22:57:07.5603965+00:00",
-  "LastUpdate_Ratings": "2023-09-04T17:02:30.8719242+00:00",
-  "LastUpdate_Achievements": "2023-09-04T17:08:02.028052+00:00"
+  "LastUpdate_Ratings": "2023-09-04T18:00:31.3570454+00:00",
+  "LastUpdate_Achievements": "2023-09-04T18:06:11.2065286+00:00"
 }
