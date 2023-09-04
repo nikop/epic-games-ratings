@@ -958,11 +958,11 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 1170,
+  "EOS_Progressed": 1181,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1165,
+  "EOS_NewPlayers": 1176,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 0.26,
+  "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
     {
       "Time": "2023-08-30T11:07:13.7661076+00:00",
@@ -1548,6 +1548,11 @@
       "Time": "2023-09-04T07:08:08.4457129+00:00",
       "NumProgressed": 1170,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-04T08:07:10.6100731+00:00",
+      "NumProgressed": 1181,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -1584,7 +1589,7 @@
       "Name": "A big garage",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "a_15",
@@ -1592,7 +1597,7 @@
       "Name": "Big Money",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "a_16",
@@ -1608,7 +1613,7 @@
       "Name": "Bye Bye",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 386
+      "UsersEstimate": 390
     },
     {
       "ID": "a_19",
@@ -1616,7 +1621,7 @@
       "Name": "Bonjour!",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "a_2",
@@ -1630,9 +1635,9 @@
       "ID": "a_20",
       "SetID": "daiie3o",
       "Name": "The Assistant",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 47
     },
     {
       "ID": "a_21",
@@ -1640,7 +1645,7 @@
       "Name": "The Blue Marl",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "a_22",
@@ -1656,7 +1661,7 @@
       "Name": "Quack",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "a_25",
@@ -1672,7 +1677,7 @@
       "Name": "Exotic",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "a_27",
@@ -1774,9 +1779,9 @@
       "ID": "a_6",
       "SetID": "daiie3o",
       "Name": "Gem of Monferrato",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "a_7",
@@ -1792,7 +1797,7 @@
       "Name": "Famous",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "a_9",
@@ -1807,7 +1812,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 1170,
+      "Progressed": 1181,
       "Completed": 3
     }
   ],
@@ -1815,8 +1820,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-02T11:57:49.7912394+00:00",
-  "LastChanged_Achievements": "2023-09-04T07:08:08.4457108+00:00",
+  "LastChanged_Achievements": "2023-09-04T08:07:10.6100727+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:09.2681959+00:00",
-  "LastUpdate_Ratings": "2023-09-04T06:58:10.8306644+00:00",
-  "LastUpdate_Achievements": "2023-09-04T07:08:08.44574+00:00"
+  "LastUpdate_Ratings": "2023-09-04T07:58:11.2509795+00:00",
+  "LastUpdate_Achievements": "2023-09-04T08:07:10.6100949+00:00"
 }

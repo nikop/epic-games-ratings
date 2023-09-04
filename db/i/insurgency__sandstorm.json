@@ -3253,9 +3253,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 440013,
+  "EOS_Progressed": 440024,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2476,
+  "EOS_NewPlayers": 2479,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18468,6 +18468,11 @@
       "Time": "2023-09-04T07:04:28.1824342+00:00",
       "NumProgressed": 440013,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-04T08:04:28.2363939+00:00",
+      "NumProgressed": 440024,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -18583,7 +18588,7 @@
       "Name": "High Speed Low Drag",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 13200
+      "UsersEstimate": 13201
     },
     {
       "ID": "ACH_JR_50",
@@ -18607,7 +18612,7 @@
       "Name": "Lucky",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 13200
+      "UsersEstimate": 13201
     },
     {
       "ID": "ACH_MOUNT_AND_GUN",
@@ -18711,7 +18716,7 @@
       "Name": "Stylin\u0027",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 13200
+      "UsersEstimate": 13201
     },
     {
       "ID": "ACH_THANKS_STATION",
@@ -18735,7 +18740,7 @@
       "Name": "Turf War",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 13200
+      "UsersEstimate": 13201
     },
     {
       "ID": "ACH_WALLBANGER",
@@ -18758,15 +18763,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 440013,
+      "Progressed": 440024,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-09-03T16:58:41.6414929+00:00",
-  "LastChanged_Achievements": "2023-09-04T07:04:28.1824336+00:00",
+  "LastChanged_Achievements": "2023-09-04T08:04:28.2363935+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:30.452052+00:00",
-  "LastUpdate_Ratings": "2023-09-04T06:58:24.3468552+00:00",
-  "LastUpdate_Achievements": "2023-09-04T07:04:28.1825404+00:00"
+  "LastUpdate_Ratings": "2023-09-04T07:58:26.9826074+00:00",
+  "LastUpdate_Achievements": "2023-09-04T08:04:28.2364851+00:00"
 }

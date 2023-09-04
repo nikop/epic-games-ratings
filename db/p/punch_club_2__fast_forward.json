@@ -4,7 +4,7 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 83,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -1273,9 +1273,9 @@
       "ID": "any_stat_5",
       "SetID": "69co12a",
       "Name": "Fitness professional",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 243
+      "UsersEstimate": 246
     },
     {
       "ID": "buy_trainer",
@@ -1673,9 +1673,9 @@
       "ID": "trainer_promotion_2",
       "SetID": "69co12a",
       "Name": "Guiding on the right path",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 145
     },
     {
       "ID": "trainer_promotion_3",
@@ -1705,9 +1705,9 @@
       "ID": "work_promotion_1",
       "SetID": "69co12a",
       "Name": "Employee of the week",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 239
     },
     {
       "ID": "work_promotion_2",
@@ -1736,8 +1736,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-09-04T07:03:43.9496694+00:00",
+  "LastChanged_Achievements": "2023-09-04T08:03:42.5909886+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:38.1183893+00:00",
-  "LastUpdate_Ratings": "2023-09-04T06:57:20.8401247+00:00",
-  "LastUpdate_Achievements": "2023-09-04T07:03:43.9497422+00:00"
+  "LastUpdate_Ratings": "2023-09-04T07:57:15.5381474+00:00",
+  "LastUpdate_Achievements": "2023-09-04T08:03:42.5910487+00:00"
 }

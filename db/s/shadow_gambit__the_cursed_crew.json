@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 591,
+  "EOS_Progressed": 592,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.86,
   "EosHistory": [
@@ -1418,6 +1418,11 @@
       "Time": "2023-09-04T06:06:57.7901811+00:00",
       "NumProgressed": 591,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-04T08:06:08.1323364+00:00",
+      "NumProgressed": 592,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1436,9 +1441,9 @@
       "ID": "_02_FinishFirstMission",
       "SetID": "8a1io5d",
       "Name": "A New Journey",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 426
+      "UsersEstimate": 420
     },
     {
       "ID": "_03_FinishAct1",
@@ -1446,7 +1451,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1460,9 +1465,9 @@
       "ID": "_05_FinishAct2",
       "SetID": "8a1io5d",
       "Name": "The Gambit Has Begun",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 183
+      "UsersEstimate": 189
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -1486,7 +1491,7 @@
       "Name": "Swabbie",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "_09_Completion_20",
@@ -1494,7 +1499,7 @@
       "Name": "Powder Monkey",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "_10_Completion_30",
@@ -1558,7 +1563,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -1637,7 +1642,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 591,
+      "Progressed": 592,
       "Completed": 11
     }
   ],
@@ -1645,8 +1650,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-03T13:01:00.5241113+00:00",
-  "LastChanged_Achievements": "2023-09-04T07:06:06.058333+00:00",
+  "LastChanged_Achievements": "2023-09-04T08:06:08.132336+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:46.0913582+00:00",
-  "LastUpdate_Ratings": "2023-09-04T06:58:35.8188094+00:00",
-  "LastUpdate_Achievements": "2023-09-04T07:06:06.0583616+00:00"
+  "LastUpdate_Ratings": "2023-09-04T07:58:38.1303014+00:00",
+  "LastUpdate_Achievements": "2023-09-04T08:06:08.132358+00:00"
 }

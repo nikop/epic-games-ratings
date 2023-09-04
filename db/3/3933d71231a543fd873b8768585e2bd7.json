@@ -4,7 +4,7 @@
   "ProductSlug": "masterplan-tycoon-379d81",
   "Ranking_EOS_Progress": 424,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-09-01T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22,
+  "EOS_Progressed": 23,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -126,6 +126,11 @@
       "Time": "2023-09-04T04:03:21.1126847+00:00",
       "NumProgressed": 22,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-04T08:03:20.6977889+00:00",
+      "NumProgressed": 23,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-01T09:03:14.0251979+00:00",
@@ -160,7 +165,7 @@
       "ID": "achievements.completemission.master.01",
       "SetID": "1kd1942",
       "Name": "Another Brick in the Node",
-      "Percentage": 68,
+      "Percentage": 65,
       "XP": 40,
       "UsersEstimate": 15
     },
@@ -176,7 +181,7 @@
       "ID": "achievements.completemission.master.03",
       "SetID": "1kd1942",
       "Name": "Rebuilding the Ruins",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -192,15 +197,15 @@
       "ID": "achievements.firstchain",
       "SetID": "1kd1942",
       "Name": "ForestTreePlank",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "achievements.firstexpedition",
       "SetID": "1kd1942",
       "Name": "Cristoforo Magellanus",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -232,7 +237,7 @@
       "ID": "achievements.researches.first",
       "SetID": "1kd1942",
       "Name": "Eureka!",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 40,
       "UsersEstimate": 3
     },
@@ -240,7 +245,7 @@
       "ID": "achievements.researches.upgrades50",
       "SetID": "1kd1942",
       "Name": "Accelerating Progress",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -265,14 +270,14 @@
     {
       "ID": "1kd1942",
       "IsBase": true,
-      "Progressed": 22,
+      "Progressed": 23,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-03T14:57:43.5916063+00:00",
   "FirstSeenAchievements": "2023-09-01T09:03:14.0251978+00:00",
-  "LastChanged_Achievements": "2023-09-04T07:03:22.8682493+00:00",
+  "LastChanged_Achievements": "2023-09-04T08:03:20.6977885+00:00",
   "LastUpdate_AppInfo": "2023-09-01T08:57:12.467565+00:00",
-  "LastUpdate_Ratings": "2023-09-04T06:58:05.089497+00:00",
-  "LastUpdate_Achievements": "2023-09-04T07:03:22.8682636+00:00"
+  "LastUpdate_Ratings": "2023-09-04T07:58:03.7157215+00:00",
+  "LastUpdate_Achievements": "2023-09-04T08:03:20.697799+00:00"
 }

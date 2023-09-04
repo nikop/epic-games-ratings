@@ -6,27 +6,27 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 2.00% | ~16,934 |
-| It wakes | 2.00% | ~16,934 |
-| Skillful | 2.00% | ~16,934 |
-| MU/TH/UR Dearest | 2.00% | ~16,934 |
-| No one left behind | 1.00% | ~8,467 |
-| Medic | 1.00% | ~8,467 |
-| Handyman | 1.00% | ~8,467 |
-| Nerves of steel | 1.00% | ~8,467 |
-| Not half bad | 1.00% | ~8,467 |
-| Bloody Millionaire | 1.00% | ~8,467 |
-| Apt Survivor | 1.00% | ~8,467 |
-| Survival Treasures | 1.00% | ~8,467 |
-| I | 1.00% | ~8,467 |
-| Sorted | 1.00% | ~8,467 |
-| Resurgence | 1.00% | ~8,467 |
-| Make Some Noise | 1.00% | ~8,467 |
-| The Grand Sacrifice | 0.90% | ~7,620 |
-| Backdoor Escape | 0.90% | ~7,620 |
-| Perfect Escape | 0.90% | ~7,620 |
-| Healthy Obsession | 0.90% | ~7,620 |
-| Preemptive Strike | 0.90% | ~7,620 |
+| Zealous | 2.00% | ~16,935 |
+| It wakes | 2.00% | ~16,935 |
+| Skillful | 2.00% | ~16,935 |
+| MU/TH/UR Dearest | 2.00% | ~16,935 |
+| No one left behind | 1.00% | ~8,468 |
+| Medic | 1.00% | ~8,468 |
+| Handyman | 1.00% | ~8,468 |
+| Nerves of steel | 1.00% | ~8,468 |
+| Not half bad | 1.00% | ~8,468 |
+| Bloody Millionaire | 1.00% | ~8,468 |
+| Apt Survivor | 1.00% | ~8,468 |
+| Survival Treasures | 1.00% | ~8,468 |
+| I | 1.00% | ~8,468 |
+| Sorted | 1.00% | ~8,468 |
+| Resurgence | 1.00% | ~8,468 |
+| Make Some Noise | 1.00% | ~8,468 |
+| The Grand Sacrifice | 0.90% | ~7,621 |
+| Backdoor Escape | 0.90% | ~7,621 |
+| Perfect Escape | 0.90% | ~7,621 |
+| Healthy Obsession | 0.90% | ~7,621 |
+| Preemptive Strike | 0.90% | ~7,621 |
 | Agonizing Escape | 0.80% | ~6,774 |
 | Perfect Killing | 0.80% | ~6,774 |
 | Engineer | 0.80% | ~6,774 |
@@ -36,12 +36,12 @@ Number of Ratings: 70,340  (23.09.2022)
 | Risk it all | 0.70% | ~5,927 |
 | Wounded Healer | 0.70% | ~5,927 |
 | Close Shave | 0.70% | ~5,927 |
-| Apt Killer | 0.60% | ~5,080 |
-| Vulture | 0.60% | ~5,080 |
-| II | 0.60% | ~5,080 |
-| Second Act | 0.60% | ~5,080 |
-| III | 0.50% | ~4,233 |
-| With Scars to Show | 0.50% | ~4,233 |
+| Apt Killer | 0.60% | ~5,081 |
+| Vulture | 0.60% | ~5,081 |
+| II | 0.60% | ~5,081 |
+| Second Act | 0.60% | ~5,081 |
+| III | 0.50% | ~4,234 |
+| With Scars to Show | 0.50% | ~4,234 |
 | Blood on your hands | 0.40% | ~3,387 |
 | Escape Artist | 0.40% | ~3,387 |
 | Made it out alive! | 0.40% | ~3,387 |
@@ -80,28 +80,28 @@ Number of Ratings: 70,340  (23.09.2022)
 | Grim Pilgrimage | 0.30% | ~2,540 |
 | Complete the Evolution | 0.30% | ~2,540 |
 | Extraterrestrial | 0.30% | ~2,540 |
-| Blood in your mouth | 0.20% | ~1,693 |
-| Jump Scares | 0.20% | ~1,693 |
-| Deep Cleansing | 0.20% | ~1,693 |
-| Texas BBQ | 0.20% | ~1,693 |
-| Game Over | 0.20% | ~1,693 |
-| Party Crasher | 0.20% | ~1,693 |
-| Whiffing to Success | 0.20% | ~1,693 |
-| Outrage | 0.20% | ~1,693 |
-| Heavy Burden | 0.20% | ~1,693 |
-| Devoted Gatekeeping | 0.20% | ~1,693 |
-| Broken Bodies | 0.20% | ~1,693 |
-| Selfless Survival | 0.20% | ~1,693 |
-| I See You | 0.20% | ~1,693 |
-| End of Days | 0.20% | ~1,693 |
-| Power Moves | 0.20% | ~1,693 |
-| Insult and Injury | 0.20% | ~1,693 |
-| Punch Drunk | 0.20% | ~1,693 |
-| Prowler | 0.20% | ~1,693 |
-| Triage | 0.20% | ~1,693 |
-| Outrun the Overlap | 0.20% | ~1,693 |
-| Rebuilding The Borgo | 0.20% | ~1,693 |
-| Hack the Mainframe | 0.20% | ~1,693 |
+| Blood in your mouth | 0.20% | ~1,694 |
+| Jump Scares | 0.20% | ~1,694 |
+| Deep Cleansing | 0.20% | ~1,694 |
+| Texas BBQ | 0.20% | ~1,694 |
+| Game Over | 0.20% | ~1,694 |
+| Party Crasher | 0.20% | ~1,694 |
+| Whiffing to Success | 0.20% | ~1,694 |
+| Outrage | 0.20% | ~1,694 |
+| Heavy Burden | 0.20% | ~1,694 |
+| Devoted Gatekeeping | 0.20% | ~1,694 |
+| Broken Bodies | 0.20% | ~1,694 |
+| Selfless Survival | 0.20% | ~1,694 |
+| I See You | 0.20% | ~1,694 |
+| End of Days | 0.20% | ~1,694 |
+| Power Moves | 0.20% | ~1,694 |
+| Insult and Injury | 0.20% | ~1,694 |
+| Punch Drunk | 0.20% | ~1,694 |
+| Prowler | 0.20% | ~1,694 |
+| Triage | 0.20% | ~1,694 |
+| Outrun the Overlap | 0.20% | ~1,694 |
+| Rebuilding The Borgo | 0.20% | ~1,694 |
+| Hack the Mainframe | 0.20% | ~1,694 |
 | A feast for the Entity | 0.10% | ~847 |
 | Cripple them all | 0.10% | ~847 |
 | The Grind | 0.10% | ~847 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~847 |
 | Adept Ripley | 0.10% | ~847 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 846,692 (Ranked 15)  
+Progressed: 846,753 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -373,7 +373,7 @@ Completed: 48 (0.01%) (Ranked 257)
 | 2023-09-01 | 837,438 | 48 |
 | 2023-09-02 | 841,459 | 48 |
 | 2023-09-03 | 845,727 | 48 |
-| 2023-09-04 | 846,692 | 48 |
+| 2023-09-04 | 846,753 | 48 |
 ## Awards
 Max (Diverse Characters): 31,886  (Ranked 15)  
 Sum: 249,913 (Ranked 11)  

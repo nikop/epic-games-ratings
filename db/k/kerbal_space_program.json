@@ -4744,11 +4744,17 @@
       "Rating": 4.79,
       "NumberOfAwards": 5164,
       "NumberOfAwardsMax": 882
+    },
+    {
+      "Time": "2023-09-04T07:57:45.0747291+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 5168,
+      "NumberOfAwardsMax": 886
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5164,
-  "NumberOfAwardsMax": 882,
+  "NumberOfAwards": 5168,
+  "NumberOfAwardsMax": 886,
   "MaxAwardTitle": "Educational",
   "Tags": [
     {
@@ -4773,7 +4779,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 882
+      "Count": 886
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4812,8 +4818,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-01-05T18:57:29.6336645+00:00",
   "FirstSeenRating": "2023-01-06T04:57:07.6192793+00:00",
-  "LastChanged": "2023-09-04T01:39:22.2061807+00:00",
+  "LastChanged": "2023-09-04T07:57:45.0747289+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:18.3908147+00:00",
-  "LastUpdate_Ratings": "2023-09-04T06:57:49.4574141+00:00",
-  "LastUpdate_Achievements": "2023-09-04T07:03:47.1455801+00:00"
+  "LastUpdate_Ratings": "2023-09-04T07:57:45.0747298+00:00",
+  "LastUpdate_Achievements": "2023-09-04T08:03:45.9155378+00:00"
 }

@@ -5,43 +5,43 @@ Rating: 4.76 (Ranked 117)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~15,654 |
-| The Killing Jar | 8.00% | ~13,914 |
-| Not Your Average Trait | 8.00% | ~13,914 |
-| Expanding Horizons | 7.00% | ~12,175 |
-| Quest for Survival | 7.00% | ~12,175 |
-| Boss'n Up | 7.00% | ~12,175 |
-| Trait Chaser | 7.00% | ~12,175 |
-| Gleaming the Cube | 6.00% | ~10,436 |
-| Not a Janitor | 6.00% | ~10,436 |
-| Familiar Face | 6.00% | ~10,436 |
-| Blue Goddess | 6.00% | ~10,436 |
-| Duality | 6.00% | ~10,436 |
-| Top Performer | 6.00% | ~10,436 |
-| Good, But Could Be Better! | 6.00% | ~10,436 |
-| Not So Special Now | 5.00% | ~8,697 |
-| Equal Measures | 5.00% | ~8,697 |
-| Shhh...It's a Secret | 5.00% | ~8,697 |
-| Almost There | 5.00% | ~8,697 |
-| Make Some Room | 5.00% | ~8,697 |
-| Chaos | 4.00% | ~6,957 |
-| Traitor | 4.00% | ~6,957 |
-| Power Surge | 4.00% | ~6,957 |
-| The God Gambit | 4.00% | ~6,957 |
-| Dark Designs | 4.00% | ~6,957 |
-| Madman's Paradise | 4.00% | ~6,957 |
-| Was This Supposed To Happen? | 4.00% | ~6,957 |
-| The Web | 4.00% | ~6,957 |
-| Scrap Collector | 4.00% | ~6,957 |
-| All These Traits� | 4.00% | ~6,957 |
-| Forever is a Long Time Coming | 3.00% | ~5,218 |
-| The Agenda | 3.00% | ~5,218 |
-| Tall Tales | 3.00% | ~5,218 |
-| Bad Moon Rising | 3.00% | ~5,218 |
-| Strapped | 3.00% | ~5,218 |
-| Edgelord | 3.00% | ~5,218 |
-| The Ultimate Weapon | 3.00% | ~5,218 |
-| No One Should Have All That Power | 3.00% | ~5,218 |
+| First of Many | 9.00% | ~15,656 |
+| The Killing Jar | 8.00% | ~13,916 |
+| Not Your Average Trait | 8.00% | ~13,916 |
+| Expanding Horizons | 7.00% | ~12,177 |
+| Quest for Survival | 7.00% | ~12,177 |
+| Boss'n Up | 7.00% | ~12,177 |
+| Trait Chaser | 7.00% | ~12,177 |
+| Gleaming the Cube | 6.00% | ~10,437 |
+| Not a Janitor | 6.00% | ~10,437 |
+| Familiar Face | 6.00% | ~10,437 |
+| Blue Goddess | 6.00% | ~10,437 |
+| Duality | 6.00% | ~10,437 |
+| Top Performer | 6.00% | ~10,437 |
+| Good, But Could Be Better! | 6.00% | ~10,437 |
+| Not So Special Now | 5.00% | ~8,698 |
+| Equal Measures | 5.00% | ~8,698 |
+| Shhh...It's a Secret | 5.00% | ~8,698 |
+| Almost There | 5.00% | ~8,698 |
+| Make Some Room | 5.00% | ~8,698 |
+| Chaos | 4.00% | ~6,958 |
+| Traitor | 4.00% | ~6,958 |
+| Power Surge | 4.00% | ~6,958 |
+| The God Gambit | 4.00% | ~6,958 |
+| Dark Designs | 4.00% | ~6,958 |
+| Madman's Paradise | 4.00% | ~6,958 |
+| Was This Supposed To Happen? | 4.00% | ~6,958 |
+| The Web | 4.00% | ~6,958 |
+| Scrap Collector | 4.00% | ~6,958 |
+| All These Traits� | 4.00% | ~6,958 |
+| Forever is a Long Time Coming | 3.00% | ~5,219 |
+| The Agenda | 3.00% | ~5,219 |
+| Tall Tales | 3.00% | ~5,219 |
+| Bad Moon Rising | 3.00% | ~5,219 |
+| Strapped | 3.00% | ~5,219 |
+| Edgelord | 3.00% | ~5,219 |
+| The Ultimate Weapon | 3.00% | ~5,219 |
+| No One Should Have All That Power | 3.00% | ~5,219 |
 | Crafty | 2.00% | ~3,479 |
 | Am I Seeing This? | 2.00% | ~3,479 |
 | Only Human | 2.00% | ~3,479 |
@@ -50,13 +50,13 @@ Rating: 4.76 (Ranked 117)
 | Carnage in C-Minor | 2.00% | ~3,479 |
 | Maxed Out! | 2.00% | ~3,479 |
 | Transmutate | 2.00% | ~3,479 |
-| The Trigger | 1.00% | ~1,739 |
-| Cutting Edge | 1.00% | ~1,739 |
-| The Collector | 1.00% | ~1,739 |
-| Proving Grounds | 0.90% | ~1,565 |
-| Ghost in the Machine | 0.80% | ~1,391 |
+| The Trigger | 1.00% | ~1,740 |
+| Cutting Edge | 1.00% | ~1,740 |
+| The Collector | 1.00% | ~1,740 |
+| Proving Grounds | 0.90% | ~1,566 |
+| Ghost in the Machine | 0.80% | ~1,392 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 173,931 (Ranked 63)  
+Progressed: 173,953 (Ranked 63)  
 Completed: 212 (0.12%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 212 (0.12%) (Ranked 210)
 | 2023-09-01 | 171,926 | 193 |
 | 2023-09-02 | 172,789 | 206 |
 | 2023-09-03 | 173,772 | 211 |
-| 2023-09-04 | 173,931 | 212 |
+| 2023-09-04 | 173,953 | 212 |
 ## Awards
 Max (Great Boss Battles): 1,383  (Ranked 129)  
 Sum: 2,547 (Ranked 175)  

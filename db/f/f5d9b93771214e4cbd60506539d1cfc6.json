@@ -188,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 141143,
+  "EOS_Progressed": 141144,
   "EOS_Completed": 260,
-  "EOS_NewPlayers": 1615,
+  "EOS_NewPlayers": 1609,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -9593,6 +9593,11 @@
       "Time": "2023-09-04T07:05:06.8409512+00:00",
       "NumProgressed": 141143,
       "NumCompleted": 260
+    },
+    {
+      "Time": "2023-09-04T08:05:07.9004295+00:00",
+      "NumProgressed": 141144,
+      "NumCompleted": 260
     }
   ],
   "TotalAchievements": 31,
@@ -9708,7 +9713,7 @@
       "Name": "I Have The Power",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 11291
+      "UsersEstimate": 11292
     },
     {
       "ID": "EAwards_21",
@@ -9851,7 +9856,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 141143,
+      "Progressed": 141144,
       "Completed": 260
     }
   ],
@@ -9859,8 +9864,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-09-03T09:57:19.5867677+00:00",
-  "LastChanged_Achievements": "2023-09-04T07:05:06.8409503+00:00",
+  "LastChanged_Achievements": "2023-09-04T08:05:07.9004287+00:00",
   "LastUpdate_AppInfo": "2023-08-31T22:57:07.9324819+00:00",
-  "LastUpdate_Ratings": "2023-09-04T06:57:35.9992546+00:00",
-  "LastUpdate_Achievements": "2023-09-04T07:05:06.8410357+00:00"
+  "LastUpdate_Ratings": "2023-09-04T07:57:32.3840375+00:00",
+  "LastUpdate_Achievements": "2023-09-04T08:05:07.9004917+00:00"
 }

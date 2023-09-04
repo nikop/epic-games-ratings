@@ -6,9 +6,9 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~9,263 |
+| Conqueror | 40.00% | ~9,264 |
 | Battering Crew | 20.00% | ~4,632 |
-| The Kingsroad | 18.00% | ~4,168 |
+| The Kingsroad | 18.00% | ~4,169 |
 | Well Stocked | 14.00% | ~3,242 |
 | Royal Fleet | 13.00% | ~3,011 |
 | The Kraken’s Grasp | 9.00% | ~2,084 |
@@ -19,17 +19,17 @@ Number of Ratings: 2,500  (23.09.2022)
 | Ours is the Fury | 7.00% | ~1,621 |
 | Winter is Coming | 7.00% | ~1,621 |
 | Influential | 7.00% | ~1,621 |
-| We Do Not Sow | 6.00% | ~1,389 |
-| Unbowed, Unbent, Unbroken | 6.00% | ~1,389 |
-| Hear me Roar! | 6.00% | ~1,389 |
-| Defender of the Wall | 6.00% | ~1,389 |
+| We Do Not Sow | 6.00% | ~1,390 |
+| Unbowed, Unbent, Unbroken | 6.00% | ~1,390 |
+| Hear me Roar! | 6.00% | ~1,390 |
+| Defender of the Wall | 6.00% | ~1,390 |
 | Growing Strong | 5.00% | ~1,158 |
 | What is Dead may Never Die | 3.00% | ~695 |
 | The Swift | 3.00% | ~695 |
 | King in the North | 2.00% | ~463 |
 | War of the Five Kings | 1.00% | ~232 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,158 (Ranked 105)  
+Progressed: 23,159 (Ranked 105)  
 Completed: 52 (0.22%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 52 (0.22%) (Ranked 192)
 | 2023-09-01 | 22,984 | 50 |
 | 2023-09-02 | 23,062 | 50 |
 | 2023-09-03 | 23,142 | 52 |
-| 2023-09-04 | 23,158 | 52 |
+| 2023-09-04 | 23,159 | 52 |
 ## Awards
 Max (Quickly Understood Controls): 123  (Ranked 316)  
 Sum: 786 (Ranked 265)  

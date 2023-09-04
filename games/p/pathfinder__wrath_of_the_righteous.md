@@ -6,14 +6,14 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 24.00% | ~2,680 |
+| Devoured by Darkness | 24.00% | ~2,681 |
 | A Spark | 17.00% | ~1,899 |
 | Burning City | 16.00% | ~1,787 |
 | Defender's Heart | 14.00% | ~1,564 |
 | Mythic Choices | 13.00% | ~1,452 |
 | Banner over the Citadel | 12.00% | ~1,340 |
-| Queen's Gratitude | 11.00% | ~1,228 |
-| Fifth Crusade | 8.00% | ~893 |
+| Queen's Gratitude | 11.00% | ~1,229 |
+| Fifth Crusade | 8.00% | ~894 |
 | Embrace of the Abyss | 6.00% | ~670 |
 | Path of the Angel | 6.00% | ~670 |
 | Demonic and Divine | 6.00% | ~670 |
@@ -32,8 +32,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Mythic Reinforcements | 3.00% | ~335 |
 | Core of the Riddle | 3.00% | ~335 |
 | Hey, I Know You! | 3.00% | ~335 |
-| The Lady of the Forest | 3.00% | ~298 |
-| Beware Still Water | 3.00% | ~298 |
+| The Lady of the Forest | 3.00% | ~299 |
+| Beware Still Water | 3.00% | ~299 |
 | Path of the Demon | 2.00% | ~223 |
 | Path of the Aeon | 2.00% | ~223 |
 | Path of the Lich | 2.00% | ~223 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,168 (Ranked 124)  
+Progressed: 11,169 (Ranked 124)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,6 +260,7 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-09-01 | 11,152 | 0 |
 | 2023-09-02 | 11,161 | 0 |
 | 2023-09-03 | 11,168 | 0 |
+| 2023-09-04 | 11,169 | 0 |
 ## Awards
 Max (Character Customization): 1,706  (Ranked 118)  
 Sum: 6,914 (Ranked 113)  

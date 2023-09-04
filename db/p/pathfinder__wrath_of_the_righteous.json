@@ -3596,9 +3596,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 11168,
+  "EOS_Progressed": 11169,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11751,6 +11751,11 @@
       "Time": "2023-09-03T16:03:10.3101592+00:00",
       "NumProgressed": 11168,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-04T08:03:30.3243749+00:00",
+      "NumProgressed": 11169,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -11762,7 +11767,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 2680
+      "UsersEstimate": 2681
     },
     {
       "ID": "02_BurningCity",
@@ -11786,7 +11791,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -11962,7 +11967,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1228
+      "UsersEstimate": 1229
     },
     {
       "ID": "28_GreatUpstart",
@@ -12674,7 +12679,7 @@
       "Name": "The Lady of the Forest",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "DLC4_34_Beware of Still Water",
@@ -12682,28 +12687,28 @@
       "Name": "Beware Still Water",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     }
   ],
   "AchievementSets": [
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9950,
+      "Progressed": 9951,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11168,
+      "Progressed": 11169,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-09-03T19:58:42.8452867+00:00",
-  "LastChanged_Achievements": "2023-09-04T07:03:32.0457308+00:00",
+  "LastChanged_Achievements": "2023-09-04T08:03:30.3243744+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:51.1803019+00:00",
-  "LastUpdate_Ratings": "2023-09-04T06:58:39.4058865+00:00",
-  "LastUpdate_Achievements": "2023-09-04T07:03:32.0459472+00:00"
+  "LastUpdate_Ratings": "2023-09-04T07:58:41.7901226+00:00",
+  "LastUpdate_Achievements": "2023-09-04T08:03:30.3245403+00:00"
 }

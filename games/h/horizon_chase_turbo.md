@@ -6,13 +6,13 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~934,249 |
-| I Need a Bigger Garage | 63.00% | ~653,974 |
-| Pump my Ride | 47.00% | ~487,885 |
-| Ghostbuster | 33.00% | ~342,558 |
-| That Was Close | 18.00% | ~186,850 |
-| Call Roadside Assistance | 17.00% | ~176,469 |
-| Quickie | 11.00% | ~114,186 |
+| The First of Many | 90.00% | ~934,257 |
+| I Need a Bigger Garage | 63.00% | ~653,980 |
+| Pump my Ride | 47.00% | ~487,890 |
+| Ghostbuster | 33.00% | ~342,561 |
+| That Was Close | 18.00% | ~186,851 |
+| Call Roadside Assistance | 17.00% | ~176,471 |
+| Quickie | 11.00% | ~114,187 |
 | California Dreamer | 7.00% | ~72,664 |
 | Can't Touch This | 5.00% | ~51,903 |
 | Carménère Taster | 3.00% | ~31,142 |
@@ -32,10 +32,10 @@ Number of Ratings: 1,343  (23.09.2022)
 | Round the Globe | 1.00% | ~10,381 |
 | Golden Passport | 1.00% | ~10,381 |
 | Brave and Bold | 1.00% | ~10,381 |
-| Crocodile Hunter | 0.90% | ~9,342 |
-| Old Master | 0.90% | ~9,342 |
-| Volcano Surfer | 0.80% | ~8,304 |
-| Otaku | 0.80% | ~8,304 |
+| Crocodile Hunter | 0.90% | ~9,343 |
+| Old Master | 0.90% | ~9,343 |
+| Volcano Surfer | 0.80% | ~8,305 |
+| Otaku | 0.80% | ~8,305 |
 | Survivor | 0.60% | ~6,228 |
 | King of the World | 0.60% | ~6,228 |
 | Getting Famous | 0.50% | ~5,190 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,038 |
 | Look Mom, No Hands! | 0.10% | ~1,038 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,038,054 (Ranked 12)  
+Progressed: 1,038,063 (Ranked 12)  
 Completed: 412 (0.04%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 412 (0.04%) (Ranked 240)
 | 2023-09-01 | 1,036,745 | 411 |
 | 2023-09-02 | 1,037,374 | 411 |
 | 2023-09-03 | 1,037,954 | 411 |
-| 2023-09-04 | 1,038,054 | 412 |
+| 2023-09-04 | 1,038,063 | 412 |
 ## Awards
 Max (Great for Beginners): 153  (Ranked 297)  
 Sum: 1,267 (Ranked 229)  
