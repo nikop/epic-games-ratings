@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 92,
-  "Ranking_EOS_NewPlayers": 79,
+  "Ranking_EOS_NewPlayers": 80,
   "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -392,9 +392,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19389,
+  "EOS_Progressed": 19390,
   "EOS_Completed": 386,
-  "EOS_NewPlayers": 524,
+  "EOS_NewPlayers": 520,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.99,
   "EosHistory": [
@@ -15022,6 +15022,11 @@
       "Time": "2023-09-04T08:03:14.6302329+00:00",
       "NumProgressed": 19389,
       "NumCompleted": 386
+    },
+    {
+      "Time": "2023-09-04T10:03:16.1437822+00:00",
+      "NumProgressed": 19390,
+      "NumCompleted": 386
     }
   ],
   "TotalAchievements": 20,
@@ -15049,7 +15054,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2714
+      "UsersEstimate": 2715
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -15105,7 +15110,7 @@
       "Name": "Hide and Seek",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 969
+      "UsersEstimate": 970
     },
     {
       "ID": "FOUND_FOX_STATUE",
@@ -15167,9 +15172,9 @@
       "ID": "NORTH_FINISHED",
       "SetID": "b6m2mm5",
       "Name": "Mausoleum of Ice",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2521
+      "UsersEstimate": 2715
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -15192,15 +15197,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 19389,
+      "Progressed": 19390,
       "Completed": 386
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-01T02:18:43.1921629+00:00",
-  "LastChanged_Achievements": "2023-09-04T09:03:36.3609462+00:00",
+  "LastChanged_Achievements": "2023-09-04T10:03:16.1437814+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:45.6246443+00:00",
-  "LastUpdate_Ratings": "2023-09-04T09:01:51.5978196+00:00",
-  "LastUpdate_Achievements": "2023-09-04T09:03:36.3611006+00:00"
+  "LastUpdate_Ratings": "2023-09-04T10:01:13.4887559+00:00",
+  "LastUpdate_Achievements": "2023-09-04T10:03:16.1440559+00:00"
 }

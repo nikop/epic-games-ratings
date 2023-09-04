@@ -6,19 +6,19 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 38.00% | ~22,915 |
-| Landlord | 32.00% | ~19,297 |
-| Bannerlord | 23.00% | ~13,869 |
-| Horde breaker | 23.00% | ~13,869 |
-| Lawmaker | 23.00% | ~13,869 |
-| Trained | 22.00% | ~13,266 |
-| The king is pleased | 18.00% | ~10,854 |
-| King Solomon | 17.00% | ~10,251 |
-| Apple of my eye | 15.00% | ~9,045 |
-| I can do it | 15.00% | ~9,045 |
-| God of the Arena | 13.00% | ~7,839 |
-| Against all odds | 12.00% | ~7,236 |
-| This Is Our Land | 11.00% | ~6,633 |
+| Lawbringer | 38.00% | ~22,916 |
+| Landlord | 32.00% | ~19,298 |
+| Bannerlord | 23.00% | ~13,870 |
+| Horde breaker | 23.00% | ~13,870 |
+| Lawmaker | 23.00% | ~13,870 |
+| Trained | 22.00% | ~13,267 |
+| The king is pleased | 18.00% | ~10,855 |
+| King Solomon | 17.00% | ~10,252 |
+| Apple of my eye | 15.00% | ~9,046 |
+| I can do it | 15.00% | ~9,046 |
+| God of the Arena | 13.00% | ~7,840 |
+| Against all odds | 12.00% | ~7,237 |
+| This Is Our Land | 11.00% | ~6,634 |
 | Duelist | 10.00% | ~6,030 |
 | Swordbearer | 10.00% | ~6,030 |
 | Dynasty | 9.00% | ~5,427 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,302 (Ranked 88)  
+Progressed: 60,305 (Ranked 88)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-09-01 | 60,115 | 0 |
 | 2023-09-02 | 60,199 | 0 |
 | 2023-09-03 | 60,288 | 0 |
-| 2023-09-04 | 60,302 | 0 |
+| 2023-09-04 | 60,305 | 0 |
 ## Awards
 Max (Character Customization): 7,018  (Ranked 50)  
 Sum: 14,277 (Ranked 68)  

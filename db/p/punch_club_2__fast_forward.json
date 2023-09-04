@@ -1489,9 +1489,9 @@
       "ID": "met_casey",
       "SetID": "69co12a",
       "Name": "Pal of your father?",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 208
     },
     {
       "ID": "met_k",
@@ -1617,9 +1617,9 @@
       "ID": "resistance_fake",
       "SetID": "69co12a",
       "Name": "Underground dwellers",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 126
     },
     {
       "ID": "resistance_slime",
@@ -1641,9 +1641,9 @@
       "ID": "seashell_hunter",
       "SetID": "69co12a",
       "Name": "Seashell hunter",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 113
     },
     {
       "ID": "sleep_candy",
@@ -1736,8 +1736,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-09-04T09:04:25.1243651+00:00",
+  "LastChanged_Achievements": "2023-09-04T10:04:08.9865459+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:38.1183893+00:00",
-  "LastUpdate_Ratings": "2023-09-04T08:57:25.1999501+00:00",
-  "LastUpdate_Achievements": "2023-09-04T09:04:25.1244495+00:00"
+  "LastUpdate_Ratings": "2023-09-04T09:57:29.9078998+00:00",
+  "LastUpdate_Achievements": "2023-09-04T10:04:08.9866054+00:00"
 }

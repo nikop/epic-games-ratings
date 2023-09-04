@@ -2,9 +2,9 @@
   "ID": "b98c4f25fa904256935d834da1462c2e",
   "Name": "Esophaguys",
   "ProductSlug": "esophaguys-078ea2",
-  "Ranking_EOS_Progress": 572,
+  "Ranking_EOS_Progress": 573,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-02T07:57:14.7428603+00:00",
-  "LastUpdate_Ratings": "2023-09-04T08:58:02.7088978+00:00",
-  "LastUpdate_Achievements": "2023-09-04T09:03:55.1843204+00:00"
+  "LastUpdate_Ratings": "2023-09-04T09:58:02.2980327+00:00",
+  "LastUpdate_Achievements": "2023-09-04T10:03:32.1453764+00:00"
 }

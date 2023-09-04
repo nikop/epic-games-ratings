@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -54,7 +54,7 @@
   "Tags": [],
   "EOS_Progressed": 680,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 181,
+  "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1071,9 +1071,9 @@
       "ID": "AC03",
       "SetID": "l4abp0",
       "Name": "Blood and Gold",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 435
+      "UsersEstimate": 442
     },
     {
       "ID": "AC04",
@@ -1143,9 +1143,9 @@
       "ID": "AC12",
       "SetID": "l4abp0",
       "Name": "Canvas of Light and Time",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 102
+      "UsersEstimate": 109
     },
     {
       "ID": "AC13",
@@ -1159,9 +1159,9 @@
       "ID": "AC14",
       "SetID": "l4abp0",
       "Name": "Acta, Non Verba",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 109
     },
     {
       "ID": "AC15",
@@ -1255,9 +1255,9 @@
       "ID": "AC26",
       "SetID": "l4abp0",
       "Name": "A Leap of Faith",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 170
+      "UsersEstimate": 177
     },
     {
       "ID": "AC27",
@@ -1424,8 +1424,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-04T03:01:40.031195+00:00",
-  "LastChanged_Achievements": "2023-09-04T09:08:34.9724027+00:00",
+  "LastChanged_Achievements": "2023-09-04T10:07:41.2710657+00:00",
   "LastUpdate_AppInfo": "2023-08-29T18:57:21.35462+00:00",
-  "LastUpdate_Ratings": "2023-09-04T08:57:18.5642474+00:00",
-  "LastUpdate_Achievements": "2023-09-04T09:08:34.9724476+00:00"
+  "LastUpdate_Ratings": "2023-09-04T09:57:23.1357104+00:00",
+  "LastUpdate_Achievements": "2023-09-04T10:07:41.2711003+00:00"
 }

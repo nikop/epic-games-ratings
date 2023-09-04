@@ -500,9 +500,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3578,
+  "EOS_Progressed": 3579,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -6465,6 +6465,11 @@
       "Time": "2023-09-04T06:08:09.54314+00:00",
       "NumProgressed": 3578,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-04T10:07:54.7183212+00:00",
+      "NumProgressed": 3579,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 71,
@@ -6484,7 +6489,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -6532,7 +6537,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -6612,7 +6617,7 @@
       "Name": "Sharpshooter",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -6644,7 +6649,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1431
+      "UsersEstimate": 1432
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -6700,7 +6705,7 @@
       "Name": "Resourceful",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -6708,7 +6713,7 @@
       "Name": "Der Geist",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -6812,7 +6817,7 @@
       "Name": "Change the Channel",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1073
+      "UsersEstimate": 1074
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -6868,7 +6873,7 @@
       "Name": "Target America",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 894
+      "UsersEstimate": 895
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -7043,13 +7048,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3529,
+      "Progressed": 3530,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3578,
+      "Progressed": 3579,
       "Completed": 10
     }
   ],
@@ -7057,8 +7062,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-01T10:01:39.1533108+00:00",
-  "LastChanged_Achievements": "2023-09-04T09:08:50.6114273+00:00",
+  "LastChanged_Achievements": "2023-09-04T10:07:54.7183203+00:00",
   "LastUpdate_AppInfo": "2023-09-02T06:57:18.4314048+00:00",
-  "LastUpdate_Ratings": "2023-09-04T08:57:22.860619+00:00",
-  "LastUpdate_Achievements": "2023-09-04T09:08:50.6115352+00:00"
+  "LastUpdate_Ratings": "2023-09-04T09:57:26.7963734+00:00",
+  "LastUpdate_Achievements": "2023-09-04T10:07:54.7184051+00:00"
 }

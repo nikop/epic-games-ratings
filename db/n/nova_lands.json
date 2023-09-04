@@ -2,9 +2,9 @@
   "ID": "740ba4a6fbed4062a9c43d52c5996b0b",
   "Name": "Nova Lands",
   "ProductSlug": "nova-lands-4d1788",
-  "Ranking_EOS_Progress": 572,
+  "Ranking_EOS_Progress": 573,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-06-22T17:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-23T19:00:15.4206551+00:00",
   "LastUpdate_AppInfo": "2023-09-02T06:57:14.6445051+00:00",
-  "LastUpdate_Ratings": "2023-09-04T09:02:41.3219305+00:00",
-  "LastUpdate_Achievements": "2023-09-04T09:05:58.6071621+00:00"
+  "LastUpdate_Ratings": "2023-09-04T10:01:55.3457987+00:00",
+  "LastUpdate_Achievements": "2023-09-04T10:05:28.2718986+00:00"
 }

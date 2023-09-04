@@ -2,9 +2,9 @@
   "ID": "cabbe55543164097b412696d626120af",
   "Name": "Dwarf Delve",
   "ProductSlug": "dwarf-delve-ff90e1",
-  "Ranking_EOS_Progress": 572,
+  "Ranking_EOS_Progress": 573,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-30T18:57:06.8331825+00:00",
-  "LastUpdate_Ratings": "2023-09-04T08:57:21.1758864+00:00",
-  "LastUpdate_Achievements": "2023-09-04T09:07:47.0494019+00:00"
+  "LastUpdate_Ratings": "2023-09-04T09:57:25.3556687+00:00",
+  "LastUpdate_Achievements": "2023-09-04T10:06:59.3595902+00:00"
 }

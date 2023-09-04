@@ -2,9 +2,9 @@
   "ID": "b1555bed500048b79f6fad321d5a7202",
   "Name": "Nova Strike",
   "ProductSlug": "nova-strike",
-  "Ranking_EOS_Progress": 466,
+  "Ranking_EOS_Progress": 465,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-07-27T08:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9,
+  "EOS_Progressed": 10,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -67,6 +67,11 @@
       "Time": "2023-08-30T09:03:59.4610805+00:00",
       "NumProgressed": 9,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-04T10:05:59.8056096+00:00",
+      "NumProgressed": 10,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-27T09:00:47.837898+00:00",
@@ -87,7 +92,7 @@
       "Name": "Take-off",
       "Percentage": 100,
       "XP": 25,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "10",
@@ -101,97 +106,97 @@
       "ID": "11",
       "SetID": "5lmgb5n",
       "Name": "Lots of guns",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "12",
       "SetID": "5lmgb5n",
       "Name": "\u00AB Not that one ! \u00BB",
-      "Percentage": 67,
+      "Percentage": 70,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "13",
       "SetID": "5lmgb5n",
       "Name": "\u00AB Catch me ! \u00BB",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "14",
       "SetID": "5lmgb5n",
       "Name": "Space warrior",
-      "Percentage": 67,
+      "Percentage": 70,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "15",
       "SetID": "5lmgb5n",
       "Name": "Space terror",
-      "Percentage": 11,
+      "Percentage": 20,
       "XP": 75,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "16",
       "SetID": "5lmgb5n",
       "Name": "Make them pay",
-      "Percentage": 11,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "17",
       "SetID": "5lmgb5n",
       "Name": "Jackpot",
-      "Percentage": 11,
+      "Percentage": 20,
       "XP": 75,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "2",
       "SetID": "5lmgb5n",
       "Name": "\u00AB Missed your train ? \u00BB",
-      "Percentage": 22,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "3",
       "SetID": "5lmgb5n",
       "Name": "Under siege",
-      "Percentage": 11,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "4",
       "SetID": "5lmgb5n",
       "Name": "Shipwreck",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "5",
       "SetID": "5lmgb5n",
       "Name": "Mission complete",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "6",
       "SetID": "5lmgb5n",
       "Name": "I\u0027ll be back",
-      "Percentage": 78,
+      "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "7",
@@ -205,31 +210,31 @@
       "ID": "8",
       "SetID": "5lmgb5n",
       "Name": "Fine-tuned",
-      "Percentage": 11,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "9",
       "SetID": "5lmgb5n",
       "Name": "Prepared for everything",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
     {
       "ID": "5lmgb5n",
       "IsBase": true,
-      "Progressed": 9,
+      "Progressed": 10,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-01T17:57:15.417179+00:00",
   "FirstSeenAchievements": "2023-07-27T09:00:47.8378979+00:00",
-  "LastChanged_Achievements": "2023-09-04T09:06:36.054807+00:00",
+  "LastChanged_Achievements": "2023-09-04T10:05:59.8056091+00:00",
   "LastUpdate_AppInfo": "2023-08-31T11:56:52.7329726+00:00",
-  "LastUpdate_Ratings": "2023-09-04T08:57:18.9802476+00:00",
-  "LastUpdate_Achievements": "2023-09-04T09:06:36.0548211+00:00"
+  "LastUpdate_Ratings": "2023-09-04T09:57:23.5315365+00:00",
+  "LastUpdate_Achievements": "2023-09-04T10:05:59.8056212+00:00"
 }

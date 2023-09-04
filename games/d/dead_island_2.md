@@ -5,13 +5,13 @@ Rating: 4.54 (Ranked 505)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break A Leg | 1.00% | ~6,731 |
-| Hotel California | 1.00% | ~6,731 |
-| Welcome To Hell-A | 1.00% | ~6,731 |
-| Git Gutte! | 0.90% | ~6,058 |
-| Coup de Grâce | 0.90% | ~6,058 |
-| Hazardous Materials | 0.90% | ~6,058 |
-| Personal Assistant Personally Assisted | 0.90% | ~6,058 |
+| Break A Leg | 1.00% | ~6,732 |
+| Hotel California | 1.00% | ~6,732 |
+| Welcome To Hell-A | 1.00% | ~6,732 |
+| Git Gutte! | 0.90% | ~6,059 |
+| Coup de Grâce | 0.90% | ~6,059 |
+| Hazardous Materials | 0.90% | ~6,059 |
+| Personal Assistant Personally Assisted | 0.90% | ~6,059 |
 | Dr. Reed, I Presume? | 0.80% | ~5,385 |
 | Bookworm | 0.80% | ~5,385 |
 | But Doctor, I am Butcho | 0.80% | ~5,385 |
@@ -34,10 +34,10 @@ Rating: 4.54 (Ranked 505)
 | Humanity Distilled | 0.50% | ~3,366 |
 | Down with the Sickness | 0.50% | ~3,366 |
 | Max Headroom | 0.40% | ~2,693 |
-| Smorgasbord | 0.30% | ~2,019 |
-| Jumbo Keyring | 0.30% | ~2,019 |
-| Go, Bobcats! | 0.30% | ~2,019 |
-| Rising Star | 0.30% | ~2,019 |
+| Smorgasbord | 0.30% | ~2,020 |
+| Jumbo Keyring | 0.30% | ~2,020 |
+| Go, Bobcats! | 0.30% | ~2,020 |
+| Rising Star | 0.30% | ~2,020 |
 | Make it So | 0.20% | ~1,346 |
 | On Safari | 0.20% | ~1,346 |
 | Not Even My Final Form | 0.20% | ~1,346 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 505)
 | Survival Skills | 0.10% | ~673 |
 | Bucket List | 0.10% | ~673 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 673,144 (Ranked 22)  
+Progressed: 673,171 (Ranked 22)  
 Completed: 2,112 (0.31%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 2,112 (0.31%) (Ranked 177)
 | 2023-09-01 | 671,108 | 2,097 |
 | 2023-09-02 | 672,029 | 2,103 |
 | 2023-09-03 | 672,940 | 2,111 |
-| 2023-09-04 | 673,144 | 2,112 |
+| 2023-09-04 | 673,171 | 2,112 |
 ## Awards
 Max (Great Boss Battles): 5,889  (Ranked 59)  
 Sum: 8,685 (Ranked 95)  

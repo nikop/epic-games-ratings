@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 62285,
+  "EOS_Progressed": 62286,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 439,
+  "EOS_NewPlayers": 436,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -13417,6 +13417,11 @@
       "Time": "2023-09-04T09:05:03.667898+00:00",
       "NumProgressed": 62285,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-09-04T10:04:41.742586+00:00",
+      "NumProgressed": 62286,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -13428,7 +13433,7 @@
       "Name": "Follow the Light",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 24291
+      "UsersEstimate": 24292
     },
     {
       "ID": "02",
@@ -13436,7 +13441,7 @@
       "Name": "Nordic Walking",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 14948
+      "UsersEstimate": 14949
     },
     {
       "ID": "03",
@@ -13444,7 +13449,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 14948
+      "UsersEstimate": 14949
     },
     {
       "ID": "04",
@@ -13468,7 +13473,7 @@
       "Name": "Park Ranger",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 10588
+      "UsersEstimate": 10589
     },
     {
       "ID": "07",
@@ -13540,7 +13545,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6228
+      "UsersEstimate": 6229
     },
     {
       "ID": "16",
@@ -13692,7 +13697,7 @@
       "Name": "Energized!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6228
+      "UsersEstimate": 6229
     },
     {
       "ID": "35",
@@ -13700,7 +13705,7 @@
       "Name": "Let There Be Light",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 19308
+      "UsersEstimate": 19309
     },
     {
       "ID": "36",
@@ -13764,7 +13769,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 10588
+      "UsersEstimate": 10589
     },
     {
       "ID": "44",
@@ -13963,21 +13968,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 62285,
+      "Progressed": 62286,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 25753,
+      "Progressed": 25754,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-04T09:05:03.667897+00:00",
+  "LastChanged_Achievements": "2023-09-04T10:04:41.7425855+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:56:59.9039957+00:00",
-  "LastUpdate_Ratings": "2023-09-04T08:58:32.6786692+00:00",
-  "LastUpdate_Achievements": "2023-09-04T09:05:03.6680731+00:00"
+  "LastUpdate_Ratings": "2023-09-04T09:58:27.5799189+00:00",
+  "LastUpdate_Achievements": "2023-09-04T10:04:41.7426965+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "fcd9585216ba41ba95776d681714d8e4",
   "Name": "Number One Fighter",
   "ProductSlug": "number-one-fighter-26f88c",
-  "Ranking_EOS_Progress": 572,
+  "Ranking_EOS_Progress": 573,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-08-31T14:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-30T16:57:07.1599692+00:00",
-  "LastUpdate_Ratings": "2023-09-04T09:00:38.11208+00:00",
-  "LastUpdate_Achievements": "2023-09-04T09:06:18.0610954+00:00"
+  "LastUpdate_Ratings": "2023-09-04T10:00:08.9706839+00:00",
+  "LastUpdate_Achievements": "2023-09-04T10:05:44.4313514+00:00"
 }
